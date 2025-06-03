@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>iNuLoC | Home</title>
+  <title>NuLocVar | Home</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -41,11 +41,10 @@
       <!-- Database introduce -->
       <div class="row text-center">
         <div class="col-md-12">
-          <h2 class="animated fadeInDown">Welcome to <span>iNuLoC</span></h2>
-          <p class="animated fadeInUp text-des">Many proteins shuttle between the nucleus and the cytoplasm in response to various signals and regulate a broad spectrum of biological processes. This dynamic transport process is mediated by the nuclear location signal (NLS) and nuclear export signal (NES).NLS/NESs have been experimentally determined for fewer than 10% of known nuclear proteins, the majority of proteins do not have known or potential NLS/NES annotation. Here we developed a deep learning-based model to predict the nuclear location proteins, discovered complex biological rules to decipher protein nuclear location potential. Further, we developed <span class="des-webname">iNuLoC</span> to reveal the candidate regions that may be critical for protein nuclear localization.</p>
+          <h2 class="animated fadeInDown">Welcome to <span>NuLocVar</span></h2>
 
-		  <p class="animated fadeInUp text-des"><span class="des-webname">iNuLoC</span> is a platform developed for understanding potential critical regions that facilitate the protein nuclear location for five model organisms. It provides the prediction results of pNuLoC and integrates several well-known database including <span class="des-toolname">UniProt</span>, <span class="des-toolname">NLSdb</span>, <span class="des-toolname">SeqNLS</span>, <span class="des-toolname">ValidNESs</span> and <span class="des-toolname">NESbase</span> to display known and candidate NLSs/NESs in the proteins, which might provide helpful information for the research of protein nuclear location. In total, the platform contains experimentally determined NLS/NESs for <span class="des-num">1,530</span> proteins through database integration. Using <strong><em>‘Nuclear Location Probability Trajectory Method’</em></strong>, the NLS/NES annotations were extended to <span class="des-num">13,481</span> proteins and the final dataset matched over <span class="des-num">93%</span> of all known nuclear proteins. The platform also contains <span class="des-num">14,585/23,208/27,551</span> predicted nuclear proteins for the proteomes of five model organisms with High/Medium/Low thresholds.</p>
- <p class="animated fadeInUp text-des">The deep learning model to establish <span class="des-webname">iNuLoC</span>, namely <span class="des-webname">pSAM</span> (Prediction of Shuttling-Attacking Mutations), could also be found at <a href='https://github.com/zhengyq1/pSAMmodel/'>GitHub Repository</a> (https://github.com/zhengyq1/pSAMmodel/).</p>
+		  <p class="animated fadeInUp text-des"><span class="des-webname">NuLocVar</span> is a platform developed for understanding potential critical regions that facilitate the protein nuclear location for five model organisms. It provides the prediction results of pNuLoC and integrates several well-known database including <span class="des-toolname">UniProt</span>, <span class="des-toolname">NLSdb</span>, <span class="des-toolname">SeqNLS</span>, <span class="des-toolname">ValidNESs</span> and <span class="des-toolname">NESbase</span> to display known and candidate NLSs/NESs in the proteins, which might provide helpful information for the research of protein nuclear location. In total, the platform contains experimentally determined NLS/NESs for <span class="des-num">1,530</span> proteins through database integration. Using <strong><em>‘Nuclear Location Probability Trajectory Method’</em></strong>, the NLS/NES annotations were extended to <span class="des-num">13,481</span> proteins and the final dataset matched over <span class="des-num">93%</span> of all known nuclear proteins. The platform also contains <span class="des-num">14,585/23,208/27,551</span> predicted nuclear proteins for the proteomes of five model organisms with High/Medium/Low thresholds.</p>
+
           <br><br>	
         </div>
         <div class="col-md-12">
