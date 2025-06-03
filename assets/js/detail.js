@@ -1178,9 +1178,11 @@ function showProtein(proteinList){
 	}
 	return returnInfo;
 }
+
 function showOrganism(organism,taxonomy){
 	return "<i>"+organism+"</i>, NCBI Taxonomy ID=<a target='_blank' href='https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?lvl=0&id="+taxonomy+"'>"+taxonomy+"</a>";
 }
+
 function showNM(nmList){
 	if(nmList == ''){
 		return 'N/A';
@@ -1193,6 +1195,7 @@ function showNM(nmList){
 		return returnInfo.join(', ');
 	}
 }
+
 function showNP(npList){
 	if(npList == ''){
 		return 'N/A';
@@ -1205,6 +1208,7 @@ function showNP(npList){
 		return returnInfo.join(', ');
 	}
 }
+
 function showEntrez(entrezList){
 	if(entrezList == ''){
 		return 'N/A';
@@ -1238,6 +1242,7 @@ function showFunction(functionDes){
 	}
 }
 
+// About protein
 function showPro(){
 	var showProRes = 
 	"<tr><td>UniProt ID</td><td>"+showUniprot(proInfo['Uniprot'])+"</td></tr>\
@@ -1273,6 +1278,7 @@ function showRegionInfo(regionList,pmidList){
 	}
 }
 
+// Nuclear localization codes
 function showRegion(){
 	var showRegionRes = 
 	"<tr><td colspan=2 class='title1'>pNuLoC score</td><td>"+proInfo['pNuLoCProb']+"</td></tr>\

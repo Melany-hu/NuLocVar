@@ -8,28 +8,27 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="webserver.php">pNuLoC</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="browse.php">Browse</a></li>            
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php">Search</a></li>
+            <!--li><i class="bx bx-chevron-right"></i> <a href="browse.php">Browse</a></li-->            
             <li><i class="bx bx-chevron-right"></i> <a href="download.php">Download</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="help.php">Help</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="about.php">About</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="citation.php">Citation</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="cite.php">Cite</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Our Databases</h4>
           <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="http://qptm.omicsbio.info" data-toggle="tooltip" data-placement="right" title="the updated database of protein PTM dynamics in human">qPTM</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="http://qphos.omicsbio.info" data-toggle="tooltip" data-placement="right" title=" a database of protein phosphorylation dynamics in humans">qPhos</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="http://dbebv.omicsbio.info" data-toggle="tooltip" data-placement="right" title="a database of Epstein-Barr virus variants and their correlations with human health">dbEBV</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="http://dbricepro.omicsbio.info" data-toggle="tooltip" data-placement="right" title="a database of protein phosphorylation dynamics in rice">dbRicePro</a></li>
-            <!--li><i class="bx bx-chevron-right"></i> <a href="http://ekpi.omicsbio.info" data-toggle="tooltip" data-placement="right" title="a database of kinase phosphosite interaction evidence">eKPI</a></li-->
+            <li><i class="bx bx-chevron-right"></i> <a href="http://ekpi.omicsbio.info" data-toggle="tooltip" data-placement="right" title="a database of kinase phosphosite interaction evidence">eKPI</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="http://gutmega.omicsbio.info" data-toggle="tooltip" data-placement="right" title="a database of the human gut metagenome atlas">gutMEGA</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="http://ihypoxia.omicsbio.info" data-toggle="tooltip" data-placement="right" title="an integrative database for hypoxia associated proteins in mammals">iHypoxia</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="http://icysmod.omicsbio.info" data-toggle="tooltip" data-placement="right" title="an integrative database for protein cysteine modifications in eukaryotes">iCysMod</a></li>
-            <!--li><i class="bx bx-chevron-right"></i> <a href="#">MDGC</a></li-->
-            <li><i class="bx bx-chevron-right"></i> <a href="http://qphos.omicsbio.info" data-toggle="tooltip" data-placement="right" title=" a database of protein phosphorylation dynamics in humans">qPhos</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="http://qptm.omicsbio.info" data-toggle="tooltip" data-placement="right" title="the updated database of protein PTM dynamics in human">qPTM</a></li>
+            
           </ul>
         </div>
 

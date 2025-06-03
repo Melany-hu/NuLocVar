@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>iNuLoC | Citation</title>
+  <title>iNuLoC | Cite</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -36,16 +36,16 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="citation">
+    <div class="container" id="cite">
 
       <div class="card">
-        <div class="card-header"><h5 class="font-weight-bold">Citation</h5></div>
+        <div class="card-header"><h5 class="font-weight-bold">Cite</h5></div>
         <div class="card-body">
           <h5 class="card-title"><strong>For publication of the results in this study, please cite the following articles:</strong></h5>
           <br>
-          <p class="card-text text-primary"><em><strong>iNuLoC: an integrative platform for Nuclear Localization Codes.</strong></em></p>
-          <p class="card-text">Kai Yu, Qingfeng Zhang, Yongqiang Zheng, Jinfei Lin, Ze-Xian Liu.</p>
-          <p class="card-text"><em><strong>2021, Submitted.</strong></em></p>
+          <p class="card-text text-primary"><em><strong>NuLocVar: an integrative platform for Nuclear Localization Variant.</strong></em></p>
+          <!-- p class="card-text">Kai Yu, Qingfeng Zhang, Yongqiang Zheng, Jinfei Lin, Ze-Xian Liu.</p-->
+          <p class="card-text"><em><strong>2025, Submitted.</strong></em></p>
         </div>
       </div>
 
