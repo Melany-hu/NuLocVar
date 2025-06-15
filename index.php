@@ -49,6 +49,8 @@
           <p><i>A comprehensive database for <span style="color:#3d4361">Nu</span>clear <span style="color:#3d4361">Loc</span>alization <span style="color:#3d4361">Var</span>iant</i></p>
 
         </div>
+
+
         <div class="col-md-12">
         	<!-- Simple search -->
 	      <form id="simple_search_form" action="result.php" method="post" onSubmit="return check_simple_search_form()">
@@ -57,9 +59,9 @@
 	          <div class="col-md-2"></div>
 	          <div class="col-md-2">
 	            <select class="form-control my-select-tag" id="simple_search_tag0" name="simple_search_tag0">
-                <option value="gene">Gene Name</option>
+                <option value="gene">Gene name</option>
 	              <option value="uniprot">UniProt ID</option>
-	              <option value="protein">Protein Name</option>
+	              <option value="protein">Protein name</option>
 	            </select>
 	          </div>
 
@@ -74,7 +76,7 @@
 	          <div class="col-md-2"></div>
 	          <div class="col-md-2">
 				<select class="form-control my-select-org" id="simple_search_org" name="simple_search_org">
-					<option value="All">All organisms</option>
+					<option value="All">Any field</option>
 					<option value="Human">Human</option>
 					<option value="Mouse">Mouse</option>
 					<option value="Rat">Rat</option>

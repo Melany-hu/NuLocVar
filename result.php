@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>iNuLoC | Result</title>
+  <title>NuLocVar | Result</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -40,7 +40,7 @@
 
       <div class="card">
 
-        <div class="card-header"><h5 class="font-weight-bold">Search result</h5></div>
+        <div class="card-header"><h5 class="font-weight-bold">Search results</h5></div>
         <div class="card-body" id='search-alert'></div>
         <div class="card-body" id='search-result'></div>
         <div class="card-body" id='table-show'>
@@ -50,15 +50,15 @@
               <thead>
                 <tr>
                   <th class='arrange' value="primaryacc">UniProt ID<i class='arrow ri-arrow-up-down-fill'></i></th>
-                  <th class='arrange' value="gene">Gene Name<i class='arrow ri-arrow-up-down-fill'></i></th>
-                  <th class='arrange' value="organism">Organism<i class='arrow ri-arrow-up-down-fill'></i></th>
+                  <th class='arrange' value="gene">Gene name</th>
+                  <th class='arrange' value="organism">Organism</th>
                   <th class='arrange' value="pprob">P. Score<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Score" data-content="P. Score represents the nuclear localization probability predicted by pNuLoC, with a value range of 0 ~ 1."></i></sup><i class='arrow ri-arrow-up-down-fill'></i></th>
-                  <th class='arrange' value="prank">P. Level<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Level" data-content="P. Level represents the nuclear localization level defined by pNuLoC, including High, Medium, Low and NonNucleus."></i></sup><i class='arrow ri-arrow-up-down-fill'></i></th>
+                  <th class='arrange' value="prank">P. Level<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Level" data-content="P. Level represents the nuclear localization level defined by pNuLoC, including High, Medium, Low and NonNucleus."></i></sup></th>
                   <th>P. Region<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Region" data-content="P. Region displays the nuclear localization region predicted by pNuLoC, and the red region represents the potential nuclear localization region."></i></sup></th>
                   <th>S. Region<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About S. Region" data-content="S. Region displays the nuclear localization region collected from SeqNLS, and the red region represents the nuclear localization region."></i></sup></th>
                   <th>U. Region<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About U. Region" data-content="U. Region displays the nuclear localization region collected from UniProt, and the red region represents the nuclear localization region."></i></sup></th>
                   <th>N. Region<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About N. Region" data-content="N. Region displays the nuclear localization region collected from NLSdb, and the red region represents the nuclear localization region."></i></sup></th>
-                  <th>Detail</th>
+                  <th>Details</th>
                 </tr>
               </thead>
               <tbody></tbody>

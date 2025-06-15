@@ -27,9 +27,9 @@ function showRowInfo(tableLineInfo){
   for(var i in tableLineInfo){
     var thisLineInfo = tableLineInfo[i];
     returnTableRow += "<tr>\
-      <td>"+thisLineInfo[0]+"</td>\
+      <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank'>"+thisLineInfo[0]+"</a></td>\
       <td>"+thisLineInfo[1]+"</td>\
-      <td><i>"+thisLineInfo[3]+"</i></td>\
+      <td>"+thisLineInfo[3]+"</td>\
       <td>"+thisLineInfo[5]+"</td>\
       <td>"+thisLineInfo[6]+"</td>\
       <td>"+showNLSRange(thisLineInfo[4],thisLineInfo[7])+"</td>\
@@ -189,7 +189,7 @@ $(document).ready(function(){
   var rowNumber = 10;
   var nowPage = 1;
   var orderInfo = '';
-  var tag2name = {'All':'Any Field','uniprot':'Uniprot ID','gene':'Gene Name','protein':'Protein Name'};
+  var tag2name = {'All':'Any field','uniprot':'Uniprot ID','gene':'Gene name','protein':'Protein name'};
   if(searchInfo){
     $('#search-alert').addClass('alert-primary');
     $('#search-alert').html('Search content: '+tag2name[searchInfo['tag']]+' = '+searchInfo['content']+'; Organism: '+searchInfo['org']);
@@ -197,7 +197,7 @@ $(document).ready(function(){
   }
   else{
     $('#search-alert').addClass('alert-danger');
-    $('#search-alert').html('Warning, there is no search content found! Please return to <a href="index.php">Home</a> and try again.');
+    $('#search-alert').html('Warning, there is no search content found! Please return to <a href="index.php">Search page</a> and try again.');
   	$('#search-result').css('display','none');
   	$('#table-show').css('display','none');
   }

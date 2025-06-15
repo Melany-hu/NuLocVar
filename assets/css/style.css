@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #3e4463;
+  color: #5a5ff5;
   font-size: 16px;
 }
 
 a:hover {
-  color: #7b84b7;
+  color: #7579ee;
   text-decoration: none;
 }
 
@@ -75,8 +75,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #91a7ff;
-  border-top-color: #bac8ff;
+  border: 6px solid #829af8;
+  border-top-color: #acbcfb;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -336,6 +336,25 @@ h1, h2, h3, h4, h5, h6 {
   .nav-menu .drop-down .drop-down > a:after {
     content: "\ea9d";
   }
+}
+
+
+/*page bar*/
+.pagination .active > span{
+  background-color:#3e4463  !important; /*分页栏色块的颜色*/
+  border: #9294c4; /*若不加这行显示的是默认的蓝色外边框*/
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #9294c4; /*悬停时色块的颜色*/
+  color: #3c3c3c; /*悬停时字体的颜色*/
+  border-color: none; /*分页栏边框的颜色*/
+}
+
+
+.pagination a, .pagination span {
+  color: #3c3c3c; /*分页栏字体的颜色*/
+  border-color: none /*分页栏边框的颜色，这时为默认的灰色边框*/
 }
 
 /* Mobile Navigation */
@@ -694,17 +713,17 @@ section {
   color: #4caf50
 }
 .arrow{
-  color:orange;
+  color:#7579ee;
 }
 .download-div{
   text-align: right;
 }
 .download-div .ri-download-2-line{
-  color: blue;
+  color: orange;
   cursor: pointer;
 }
 .download-div .ri-download-2-line:hover{
-  color: red
+  color: #b197fc
 }
 
 #simple_search_form {
@@ -732,6 +751,8 @@ section {
 .page-title{
   text-align: center;
 }
+
+
 
 /*选择框*/
 .my-select-tag{
@@ -838,6 +859,7 @@ section {
 }
 #searchResShow tr td{
   vertical-align: middle;
+  font-size: 16px;
 }
 #searchResShow th{
   cursor: pointer;
