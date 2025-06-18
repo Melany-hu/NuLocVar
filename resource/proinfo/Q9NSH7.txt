@@ -1,0 +1,25 @@
+UniprotID	Q9NSH7
+Accession	Q9NSH7
+EntryName	Q9NSH7_HUMAN
+ProteinName	PRED62 protein
+GeneName	PRED62
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARVFVHLRTAWPTCSFISGRHGPGVRSSQDSMAQDSMADVFVHLRTAWPTCSLISGQHGPGESVSYEDDDIPAPASLLHVNAAAPALTNPTAPVLCTAPNNTAQKEKVPIKWGNG
+PTM	

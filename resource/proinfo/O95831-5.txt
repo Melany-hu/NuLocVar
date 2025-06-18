@@ -1,0 +1,25 @@
+UniprotID	O95831-5
+Accession	O95831;A4QPB4;B1ALN1;B2RB08;D3DTE9;E9PRR0;Q1L6K4;Q1L6K6;Q2QKE4;Q5JUZ7;Q6I9X6;Q9Y3I3;Q9Y3I4
+EntryName	AIFM1_HUMAN
+ProteinName	Apoptosis-inducing factor 1, mitochondrial (EC 1.6.99.-) (Programmed cell death protein 8)
+GeneName	AIFM1 AIF PDCD8
+Length	261
+Function	Functions both as NADH oxidoreductase and as regulator of apoptosis (PubMed:17094969, PubMed:20362274, PubMed:23217327, PubMed:33168626). In response to apoptotic stimuli, it is released from the mitochondrion intermembrane space into the cytosol and to the nucleus, where it functions as a proapoptotic factor in a caspase-independent pathway (PubMed:20362274). Release into the cytoplasm is mediated upon binding to poly-ADP-ribose chains (By similarity). The soluble form (AIFsol) found in the nucleus induces 'parthanatos' i.e. caspase-independent fragmentation of chromosomal DNA (PubMed:20362274). Binds to DNA in a sequence-independent manner (PubMed:27178839). Interacts with EIF3G, and thereby inhibits the EIF3 machinery and protein synthesis, and activates caspase-7 to amplify apoptosis (PubMed:17094969). Plays a critical role in caspase-independent, pyknotic cell death in hydrogen peroxide-exposed cells (PubMed:19418225). In contrast, participates in normal mitochondrial metabolism. Plays an important role in the regulation of respiratory chain biogenesis by interacting with CHCHD4 and controlling CHCHD4 mitochondrial import (PubMed:26004228).
+Subcellular Location	Mitochondrion intermembrane space; Mitochondrion inner membrane; Cytoplasm; Nucleus; Cytoplasm; Perinuclear region; Mitochondrion intermembrane space; Mitochondrion inner membrane; Mitochondrion; Cytoplasm; Cytosol; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	446..451
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKVRREGVKVMPNAIVQSVGVSSGKLLIKLKDGRKVETDHIVAAVGLEPNVELAKTGGLEIDSDFGGFRVNAELQARSNIWVAGDAACFYDIKLGRRRVEHHDHAVVSGRLAGENMTGAAKPYWHQSMFWSDLGPDVGYEAIGLVDSSLPTVGVFAKATAQDNPKSATEQSGTGIRSESETESEASEITIPPSTPAVPQAPVQGEDYGKGVIFYLRDKVVVGIVLWNIFNRMPIARKIIKDGEQHEDLNEVAKLFNIHED
+PTM	Acetylation:189,199,232,244,278,295,382,384,446,593,606;Methylation:13,109,127,189,232,278,295,337,355,362,378,382,388,408,474,569;Phosphorylation:87,95,100,105,116,118,182,188,190,249,252,260,263,266,268,292,302,304,328,347,371,375,376,431,519,521,524,534;Ubiquitylation:109,112,127,189,232,244,518

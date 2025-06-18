@@ -1,0 +1,25 @@
+UniprotID	Q86YJ6-2
+Accession	Q86YJ6;B3KTB1;B5MDX8;B7WPF8;D9ZZB8;Q6P2M7;Q6PI27;Q9NV54
+EntryName	THNS2_HUMAN
+ProteinName	Threonine synthase-like 2 (TSH2) (EC 4.2.3.-) (Secreted osteoclastogenic factor of activated T-cells) (SOFAT)
+GeneName	THNSL2
+Length	405
+Function	Acts as a catabolic phospho-lyase on both gamma- and beta-phosphorylated substrates. Degrades O-phospho-threonine (PThr) to alpha-ketobutyrate, ammonia and phosphate (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWYVSTRGVAPRVNFEGALFSGYAPDGGLFMPEELPQLDRGTLCQWSTLSYPGLVKELCALFIGSELLPKDELNDLIDRAFSRFRHREVVHLSRLRNGLNVLELWHGVTYAFKDLSLSCTTQFLQYFLEKREKHVTVVVGTSGDTGSAAIESVQGAKNMDIIVLLPKGHCTKIQELQMTTVLKQNVHVFGVEGNSDELDEPIKTVFADVAFVKKHNLMSLNSINWSRVLVQMAHHFFAYFQCTPSLDTHPLPLVEVVVPTGAAGNLAAGYIAQKIGLPIRLVVAVNRNDIIHRTVQQGDFSLSEAVKSTLASAMDIQVPYNMERVFWLLSGSDSQVTRALMEQFERTQSVNLPKELHSKWERQDYEKMAVMECDGCCVELCLGNCGPRRGSVTDIPGTAMVRGGG
+PTM	Methylation:157,354;SUMOylation:167,172,214

@@ -1,0 +1,25 @@
+UniprotID	P55160-2
+Accession	P55160;B4DUT5;Q52LW0
+EntryName	NCKPL_HUMAN
+ProteinName	Nck-associated protein 1-like (Hematopoietic protein 1) (Membrane-associated protein HEM-1)
+GeneName	NCKAP1L HEM1
+Length	1077
+Function	Essential hematopoietic-specific regulator of the actin cytoskeleton (Probable). Controls lymphocyte development, activation, proliferation and homeostasis, erythrocyte membrane stability, as well as phagocytosis and migration by neutrophils and macrophages (PubMed:16417406, PubMed:17696648). Component of the WAVE2 complex which signals downstream of RAC to stimulate F-actin polymerization. Required for stabilization and/or translation of the WAVE2 complex proteins in hematopoietic cells (By similarity). Within the WAVE2 complex, enables the cortical actin network to restrain excessive degranulation and granule release by T-cells (PubMed:32647003). Required for efficient T-lymphocyte and neutrophil migration (PubMed:32647003). Exhibits complex cycles of activation and inhibition to generate waves of propagating the assembly with actin (PubMed:16417406). Also involved in mechanisms WAVE-independent to regulate myosin and actin polymerization during neutrophil chemotaxis (PubMed:17696648). In T-cells, required for proper mechanistic target of rapamycin complex 2 (mTORC2)-dependent AKT phosphorylation, cell proliferation and cytokine secretion, including that of IL2 and TNF (PubMed:32647003).
+Subcellular Location	Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPSLKYINKKFPNIDVRNSTQHLGPVHREKAEIIRFLTNYYQSFVDVMEFRDHVYELLNTIDACQCHFDINLNFDFTRSYLDLIVTYTSVILLLSRIEDRRILIGMYNCAHEMLHGHGDPSFARLGQMVLEYDHPLKKLTEEFGPHTKAVSGALLSLHFLFVRRNQGAEQWRSAQLLSLISNPPAMINPANSDTMACEYLSVEVMERWIIIGFLLCHGCLNSNSQCQKLWKLCLQGSLYITLIREDVLQVHKVTEDLFSSLKGYGKRVADIKESKEHVIANSGQFHCQRRQFLRMAVKELETVLADEPGLLGPKALFAFMALSFIRDEVTWLVRHTENVTKTKTPEDYADSSIAELLFLLEGIRSLVRRHIKVIQQYHLQYLARFDALVLSDIIQNLSVCPEEESIIMSSFVSILSSLNLKQVDNGEKFEFSGLRLDWFRLQAYTSVAKAPLHLHENPDLAKVMNLIVFHSRMLDSVEKLLVETSDLSTFCFHLRIFEKMFAMTLEESAMLRYAIAFPLICAHFVHCTHEMCPEEYPHLKNHGLHHCNSFLEELAKQTSNCVLEICAEQRNLSEQLLPKHCATTISKAKNKKTRKQRQTPRKGEPERDKPGAESHRKNRSIVTNMDKLHLNLTELALTMNHVYSFSVFEHTIFPSEYLSSHLEARLNRAIVWLAGYNATTQEIVRPSELLAGVKAYIGFIQSLAQFLGADASRVIRNALLQQTQPLDSCGEQTITTLYTNWYLESLLRQASSGTIILSPAMQAFVSLPREGEQNFSAEEFSDISEMRALAELLGPYGMKFLSENLMWHVTSQIVELKKLVVENMDILVQIRSNFSKPDLMASLLPQLTGAENVLKRMTIIGVILSFRAMAQEGLREVFSSHCPFLMGPIECLKEFVTPDTDIKVTLSIFELASAAGVGCDIDPALVAAIANLKADTSSPEEEYKVACLLLIFLAVSLPLLATDPSSFYSIEKDGYNNNIHCLTKAIIQVSAALFTLYNKNIETHLKEFLVVASVSLLQLGQETDKLKTRNRESISLLMRLVVEESSFLTLDMLESCFPYVLLRNAYREVSRAFHLN
+PTM	Acetylation:14,81,188,313,323;Methylation:49,188,303,472,513,607,868,906,954,984,1023;Phosphorylation:2,600,635,671,817,916,1084,1086;Ubiquitylation:14

@@ -1,0 +1,25 @@
+UniprotID	Q9BUN8-2
+Accession	Q9BUN8;B3KW41;E9PH19
+EntryName	DERL1_HUMAN
+ProteinName	Derlin-1 (Degradation in endoplasmic reticulum protein 1) (DERtrin-1) (Der1-like protein 1)
+GeneName	DERL1 DER1 UNQ243/PRO276
+Length	231
+Function	Functional component of endoplasmic reticulum-associated degradation (ERAD) for misfolded lumenal proteins (PubMed:15215856, PubMed:33658201). Forms homotetramers which encircle a large channel traversing the endoplasmic reticulum (ER) membrane (PubMed:33658201). This allows the retrotranslocation of misfolded proteins from the ER into the cytosol where they are ubiquitinated and degraded by the proteasome (PubMed:33658201). The channel has a lateral gate within the membrane which provides direct access to membrane proteins with no need to reenter the ER lumen first (PubMed:33658201). May mediate the interaction between VCP and the misfolded protein (PubMed:15215856). Also involved in endoplasmic reticulum stress-induced pre-emptive quality control, a mechanism that selectively attenuates the translocation of newly synthesized proteins into the endoplasmic reticulum and reroutes them to the cytosol for proteasomal degradation (PubMed:26565908). By controlling the steady-state expression of the IGF1R receptor, indirectly regulates the insulin-like growth factor receptor signaling pathway (PubMed:26692333).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDIGDWFRSIPAITRYWFAATVAVPLVGKLGLISPAYLFLWPEAFLYRFQIWRPITATFYFPVGPGTGFLYLVNLYFLYQYSTRLETGAFDGRPADYLFMLLFNWICIVITGLAMDMQLLMIPLIMSVLYVWAQLNRDMIVSFWFGTRFKACYLPWVILGFNYIIGGSYPMDLGGRNFLSTPQFLYRWLPSRRGGVSGFGVPPASMRRAADQNGGGGRHNWGQGFRLGDQ
+PTM	Methylation:214;Phosphorylation:201,202,207,226

@@ -1,0 +1,25 @@
+UniprotID	Q5TCJ7
+Accession	Q5TCJ7
+EntryName	Q5TCJ7_HUMAN
+ProteinName	Semaphorin 4A
+GeneName	SEMA4A
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPWPASDRKKSECAFKKKSNETQCFNFIRVLVSYNVTHLYTCGTFAFSPACTFIELQDSYLLPISEDKVMEGKGQSPFDPAHKHTAVLVDGMLYSGTMNNFLGSEPILMRTLGSQPVLKTDNFLRWLHHDASFVAAIPSTQVVYFFFEETASEFDFFERLHTSRVARVCKNDVGGEKLLQKKWTTFLKAQLLCTQPGQLPFNVIRHAVLLPADSPTAPH
+PTM	

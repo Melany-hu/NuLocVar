@@ -1,0 +1,25 @@
+UniprotID	H0Y8K9
+Accession	H0Y8K9
+EntryName	H0Y8K9_HUMAN
+ProteinName	WD repeat domain 19
+GeneName	WDR19
+Length	135
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKPLLLYNGELTCQTQSGKVNNIYLSTHGFLSNLKDTGPDELRPMLAQNLMLKRFSDAWEMCRILNDEAAWNELARACLHHMEVEFAIRVYRRIGNVGIVMSLEQIKDTLPCLPTIITWLRTCTLHPAVLLLPWR
+PTM	

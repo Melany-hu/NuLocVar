@@ -1,0 +1,25 @@
+UniprotID	B4DVI8
+Accession	B4DVI8
+EntryName	B4DVI8_HUMAN
+ProteinName	Truncated tumor-enriched TRPM2 (cDNA FLJ50244, highly similar to Transient receptor potential cation channel subfamily M member 2)
+GeneName	TRPM2
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPMGENPMGRTGLRGRGSLSCFGPNHTLYPMVTRWRRNEDGAICRKSIKKMLEVLVVKLPLSEHWALPGGSREPGEMLPRKLKRILRQEHWPSFENLLKCGMEVYKGYMDDPRNTDNAWIETVAVSVHFQDQNDVELNRLNSNLHACDSGASIRWQVVDRRIPLYANHKTLLQKAAAEFGAHY
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8IWC5
+Accession	Q8IWC5
+EntryName	Q8IWC5_HUMAN
+ProteinName	RGS11 protein (Regulator of G-protein signalling 11, isoform CRA_d)
+GeneName	RGS11 hCG_1984117
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGPAPPPGRPRAQMPHLRKMERVVVSMQDPDQGVKMRSQRLLVTVIPHAVTGSDVVQWLAQKFCVSEEEALHLGAVLVQHGYIYPLRDPRSLMLRPDETPYRFQVRLGGAGGSRWDPHPHPPSLPTRGDRRGAELAGIGVGLRHVAVGWWSIAPSPKVLDRKYGCGEKDPAEGWSLSFPGDHSRAPQGVVCAEDSAIFLGVPRPRS
+PTM	

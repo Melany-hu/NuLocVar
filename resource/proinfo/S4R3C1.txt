@@ -1,0 +1,25 @@
+UniprotID	S4R3C1
+Accession	S4R3C1
+EntryName	S4R3C1_HUMAN
+ProteinName	GC-rich sequence DNA-binding factor 2
+GeneName	GCFC2
+Length	35
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ADEGSGVQGDAGKRGGDGTGREGAAGSLDPSLGVL
+PTM	

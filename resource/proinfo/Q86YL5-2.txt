@@ -1,0 +1,25 @@
+UniprotID	Q86YL5-2
+Accession	Q86YL5;B6VF03;B9EG53
+EntryName	TDRP_HUMAN
+ProteinName	Testis development-related protein (Protein INM01)
+GeneName	TDRP C8orf42
+Length	198
+Function	Contributes to normal sperm motility, but not essential for male fertility.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWKLGRGRVLLDEPPEEEDGLRGGPPPAAAAAAQAQVQGASFRGWKEVTSLFNKDDEQHLLERCKSPKSKGTNLRLKEELKAEKKSGFWDNLVLKQNIQSKKPDEIEGWEPPKLALEDISADPEDTVGGHPSWSGWEDDAKGSTKYTSLASSANSSRWSLRAAGRLIKEVWINFSQLIISFRKHCLAHYRELRLCIKY
+PTM	Acetylation:84;Methylation:81,95,101,145;Phosphorylation:41,86,159,168,173

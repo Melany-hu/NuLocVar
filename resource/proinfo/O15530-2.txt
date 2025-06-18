@@ -1,0 +1,25 @@
+UniprotID	O15530-2
+Accession	O15530;H0Y4Z0;Q59EH6;Q6FI20;Q8IV52;Q9BRD5
+EntryName	PDPK1_HUMAN
+ProteinName	3-phosphoinositide-dependent protein kinase 1 (hPDK1) (EC 2.7.11.1)
+GeneName	PDPK1 PDK1
+Length	506
+Function	Serine/threonine kinase which acts as a master kinase, phosphorylating and activating a subgroup of the AGC family of protein kinases (PubMed:10226025, PubMed:10480933, PubMed:10995762, PubMed:12167717, PubMed:14585963, PubMed:14604990, PubMed:16207722, PubMed:16251192, PubMed:17327236, PubMed:17371830, PubMed:18835241, PubMed:9094314, PubMed:9368760, PubMed:9445476, PubMed:9445477, PubMed:9707564, PubMed:9768361). Its targets include: protein kinase B (PKB/AKT1, PKB/AKT2, PKB/AKT3), p70 ribosomal protein S6 kinase (RPS6KB1), p90 ribosomal protein S6 kinase (RPS6KA1, RPS6KA2 and RPS6KA3), cyclic AMP-dependent protein kinase (PRKACA), protein kinase C (PRKCD and PRKCZ), serum and glucocorticoid-inducible kinase (SGK1, SGK2 and SGK3), p21-activated kinase-1 (PAK1), TSSK3, protein kinase PKN (PKN1 and PKN2) (PubMed:10226025, PubMed:10480933, PubMed:10995762, PubMed:12167717, PubMed:14585963, PubMed:14604990, PubMed:16207722, PubMed:16251192, PubMed:17327236, PubMed:17371830, PubMed:18835241, PubMed:9094314, PubMed:9368760, PubMed:9445476, PubMed:9707564, PubMed:9768361). Plays a central role in the transduction of signals from insulin by providing the activating phosphorylation to PKB/AKT1, thus propagating the signal to downstream targets controlling cell proliferation and survival, as well as glucose and amino acid uptake and storage (PubMed:10226025, PubMed:12167717, PubMed:9094314). Negatively regulates the TGF-beta-induced signaling by: modulating the association of SMAD3 and SMAD7 with TGF-beta receptor, phosphorylating SMAD2, SMAD3, SMAD4 and SMAD7, preventing the nuclear translocation of SMAD3 and SMAD4 and the translocation of SMAD7 from the nucleus to the cytoplasm in response to TGF-beta (PubMed:17327236). Activates PPARG transcriptional activity and promotes adipocyte differentiation (By similarity). Activates the NF-kappa-B pathway via phosphorylation of IKKB (PubMed:16207722). The tyrosine phosphorylated form is crucial for the regulation of focal adhesions by angiotensin II (PubMed:14585963). Controls proliferation, survival, and growth of developing pancreatic cells (By similarity). Participates in the regulation of Ca(2+) entry and Ca(2+)-activated K(+) channels of mast cells (By similarity). Essential for the motility of vascular endothelial cells (ECs) and is involved in the regulation of their chemotaxis (PubMed:17371830). Plays a critical role in cardiac homeostasis by serving as a dual effector for cell survival and beta-adrenergic response (By similarity). Plays an important role during thymocyte development by regulating the expression of key nutrient receptors on the surface of pre-T cells and mediating Notch-induced cell growth and proliferative responses (By similarity). Provides negative feedback inhibition to toll-like receptor-mediated NF-kappa-B activation in macrophages (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	24...29
+validnes_region	
+nesbase_region	
+Sequence	MDGTAAEPRPGAGSLQHAQPPPQPRKKRPEDFKFGKILGEGSFSTVVLARELATSREYAIKILEKRHIIKENKVPYVTRERDVMSRLDHPFFVKLYFTFQDDEKLYFGLSYAKNGELLKYIRKIGSFDETCTRFYTAEIVSALEYLHGKGIIHRDLKPENILLNEDMHIQITDFGTAKVLSPESKQARANSFVGTAQYVSPELLTEKSACKSSDLWALGCIIYQLVAGLPPFRAGNEYLIFQKIIKLEYDFPEKFFPKARDLVEKLLVLDATKRLGCEEMEGYGPLKAHPFFESVTWENLHQQTPPKLTAYLPAMSEDDEDCYGNYDNLLSQFGCMQVSSSSSSHSLSASDTGLPQRSGSNIEQYIHDLDSNSFELDLQFSEDEKRLLLEKQAGGNPWHQFVENNLILKMGPVDKRKGLFARRRQLLLTEGPHLYYVDPVNKVLKGEIPWSQELRPEAKNFKTFFVHTPNRTYYLMDPSGNAHKWCRKIQEVWRQRYQSHPDAAVQ
+PTM	Acetylation:169,296,304;Methylation:111,115,169,257,315,337,441,459;Phosphorylation:25,33,35,36,37,92,180,241,245,248,408,410,486,513;Ubiquitylation:83,235,257

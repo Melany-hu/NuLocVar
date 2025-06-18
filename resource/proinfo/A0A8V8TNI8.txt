@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TNI8
+Accession	A0A8V8TNI8
+EntryName	A0A8V8TNI8_HUMAN
+ProteinName	Interleukin 6 cytokine family signal transducer
+GeneName	IL6ST
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLQTWLVQALFIFLTTESTGELLDPCGYISPESPVVQLHSNFTAVCVLKEKCMDYFHVNANYIVWKTNHFTIPKEQYTIINRTASSVTFTDIASLNIQLTCNILTFGQLEQNVYGITIISGWQHTSLLIAKQNVTPPPHALLIILLCILSTLKSG
+PTM	

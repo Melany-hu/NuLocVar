@@ -1,0 +1,25 @@
+UniprotID	F8W6G9
+Accession	F8W6G9
+EntryName	F8W6G9_HUMAN
+ProteinName	peptidylprolyl isomerase (EC 5.2.1.8)
+GeneName	FKBP1B
+Length	79
+Function	Has the potential to contribute to the immunosuppressive and toxic effects of FK506 and rapamycin. PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides.
+Subcellular Location	Cytoplasm; Sarcoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQNGKKFDSSRDRNKPFKFRIGKQEVIKGFEEGAAQMSLGQRAKLTCTPDVAYGATGHPGVIPPNATLIFDVELLNLE
+PTM	

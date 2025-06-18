@@ -1,0 +1,25 @@
+UniprotID	E7EMA0
+Accession	E7EMA0
+EntryName	E7EMA0_HUMAN
+ProteinName	Sphingolipid delta(4)-desaturase DES1 (Degenerative spermatocyte homolog 1) (Dihydroceramide desaturase-1) (Retinol isomerase)
+GeneName	DEGS1
+Length	261
+Function	Has sphingolipid-delta-4-desaturase activity. Converts D-erythro-sphinganine to D-erythro-sphingosine (E-sphing-4-enine). Catalyzes the equilibrium isomerization of retinols.
+Subcellular Location	Endomembrane system; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSPQLAKYPEIKSLMKPDPNLIWIIIMMVLTQLGAFYIVKDLDWKWVIFGAYAFGSCINHSMTLAIHEIAHNAAFGNCKAMWNRWFGMFANLPIGIPYSISFKRYHMDHHRYLGADGVDVDIPTDFEGWFFCTAFRKFIWVILQPLFYAFRPLFINPKPITYLEVINTVAQVTFDILIYYFLGIKSLVYMLAASLLGLGLHPISGHFIAEHYMFLKGHETYSYYGPLNLLTFNVGYHNEHHDFPNIPGKSLPLVRKIAAE
+PTM	

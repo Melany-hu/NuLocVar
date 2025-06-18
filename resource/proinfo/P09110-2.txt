@@ -1,0 +1,25 @@
+UniprotID	P09110-2
+Accession	P09110;G5E935;Q96CA6
+EntryName	THIK_HUMAN
+ProteinName	3-ketoacyl-CoA thiolase, peroxisomal (EC 2.3.1.16) (Acetyl-CoA C-myristoyltransferase) (EC 2.3.1.155) (Acetyl-CoA acyltransferase) (EC 2.3.1.9) (Beta-ketothiolase) (Peroxisomal 3-oxoacyl-CoA thiolase)
+GeneName	ACAA1 ACAA PTHIO
+Length	331
+Function	Responsible for the thiolytic cleavage of straight chain 3-keto fatty acyl-CoAs (3-oxoacyl-CoAs) (PubMed:11734571, PubMed:2882519). Plays an important role in fatty acid peroxisomal beta-oxidation (PubMed:11734571, PubMed:2882519). Catalyzes the cleavage of short, medium, long, and very long straight chain 3-oxoacyl-CoAs (PubMed:11734571, PubMed:2882519).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRLQVVLGHLRGPADSGWMPQAAPCLSGAPQASAADVVVVHGRRTAICRAGRGGFKDTTPDELLSAVMTAVLKDVNLRPEQLGDICVGNVLQPGAGAIMARIAQFLSDIPETVPLSTVNRQCSSGLQAVASIAGGIRNGSYDIGMACGITSENVAERFGISREKQDTFALASQQKAARAQSKGCFQAEIVPVTTTVHDDKGTKRSITVTQDEGIRPSTTMEGLAKLKPAFKKDGSTTAGLTVSDVDIFEINEAFASQAAYCVEKLRLPPEKVNPLGGAVALGHPLGCTGARQVITLLNELKRRGKRAYGVVSMCIGTGMGAAAVFEYPGN
+PTM	Acetylation:198,234,237,259,292,395;Methylation:74,259,331,395;Phosphorylation:124,125,132,251,269,275,276;Ubiquitylation:209

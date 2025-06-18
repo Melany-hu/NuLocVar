@@ -1,0 +1,25 @@
+UniprotID	P08319-2
+Accession	P08319;A8K470;B4DIE7;C9J4A9;Q8TCD7
+EntryName	ADH4_HUMAN
+ProteinName	All-trans-retinol dehydrogenase [NAD(+)] ADH4 (EC 1.1.1.105) (Alcohol dehydrogenase 2) (Alcohol dehydrogenase 4) (Alcohol dehydrogenase class II pi chain)
+GeneName	ADH4 ADH2
+Length	399
+Function	Catalyzes the NAD-dependent oxidation of either all-trans-retinol or 9-cis-retinol (PubMed:17279314). Also oxidizes long chain omega-hydroxy fatty acids, such as 20-HETE, producing both the intermediate aldehyde, 20-oxoarachidonate and the end product, a dicarboxylic acid, (5Z,8Z,11Z,14Z)-eicosatetraenedioate (PubMed:16081420). Also catalyzes the reduction of benzoquinones (PubMed:10514444).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	118...122
+validnes_region	
+nesbase_region	
+Sequence	MLVRGPHFELQRCKTHLFSSNYLTQVIKCKAAIAWEAGKPLCIEEVEVAPPKAHEVRIQIIATSLCHTDATVIDSKFEGLAFPVIVGHEAAGIVESIGPGVTNVKPGDKVIPLYAPLCRKCKFCLSPLTNLCGKISNLKSPASDQQLMEDKTSRFTCKGKPVYHFFGTSTFSQYTVVSDINLAKIDDDANLERVCLLGCGFSTGYGAAINNAKVTPGSTCAVFGLGGVGLSAVMGCKAAGASRIIGIDINSEKFVKAKALGATDCLNPRDLHKPIQEVIIELTKGGVDFALDCAGGSETMKAALDCTTAGWGSCTFIGVAAGSKGLTIFPEELIIGRTINGTFFGGWKSVDSIPKLVTDYKNKKFNLDALVTHTLPFDKISEAFDLMNQGKSVRTILIF
+PTM	Glycosylation:321;Methylation:165;Phosphorylation:124,232,278,330

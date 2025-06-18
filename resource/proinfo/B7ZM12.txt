@@ -1,0 +1,25 @@
+UniprotID	B7ZM12
+Accession	B7ZM12
+EntryName	B7ZM12_HUMAN
+ProteinName	C2orf73 protein
+GeneName	C2orf73
+Length	229
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEKEDKHQQHKIEDAAITYGDWWSHGKALEPVFLPPYDSKSTQRSDFQKPSCPLVLPVKHSKMQKPSCGIVPLASPGTSAELQNNFIEYISFIHQYDARKTPNEPLQGKRHGAFVQREIKPGSRPTVPKGAEVLLNTPGSRSSEQSKKTEKGNSAESRMISPGLCQQNSQELLEPKTHLSETDVRQAAKACPSTPESREKTSGATQTTVGDALFTRHKPLNPPIKKSE
+PTM	

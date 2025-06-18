@@ -1,0 +1,25 @@
+UniprotID	H0YDJ9
+Accession	H0YDJ9
+EntryName	H0YDJ9_HUMAN
+ProteinName	Tetraspanin
+GeneName	CD81
+Length	225
+Function	
+Subcellular Location	Basolateral cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GGSRWQRGFPQLAGGVILGVALWLRHDPQTTNLLYLELGDKPAPNTFYVGIYILIAVGAVMMFVGFLGCYGAIQESQCLLGTFFTCLVILFACEVAAGIWGFVNKDQIAKDVKQFYDQALQQAVVDDDANNAKAVVKTFHETLDCCGSSTLTALTTSVLKNNLCPSGSNIISNLFKEDCHQKIDDLFSGKLYLIGIAAIVVAVIMIFEMILSMVLCCGIRNSSVY
+PTM	

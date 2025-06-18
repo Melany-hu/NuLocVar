@@ -1,0 +1,25 @@
+UniprotID	Q9UH77-3
+Accession	Q9UH77;B2RBK7;Q9UH75;Q9UH76;Q9ULU0;Q9Y6V6
+EntryName	KLHL3_HUMAN
+ProteinName	Kelch-like protein 3
+GeneName	KLHL3 KIAA1129
+Length	505
+Function	Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that acts as a regulator of ion transport in the distal nephron (PubMed:14528312, PubMed:22406640, PubMed:23387299, PubMed:23453970, PubMed:23576762, PubMed:23665031, PubMed:25313067, PubMed:35093948). The BCR(KLHL3) complex acts by mediating ubiquitination and degradation of WNK1 and WNK4, two activators of Na-Cl cotransporter SLC12A3/NCC in distal convoluted tubule cells of kidney, thereby regulating NaCl reabsorption (PubMed:23387299, PubMed:23453970, PubMed:23576762, PubMed:23665031, PubMed:25313067, PubMed:35093948). The BCR(KLHL3) complex also mediates ubiquitination and degradation of WNK3 (PubMed:35179207). The BCR(KLHL3) complex also mediates ubiquitination of CLDN8, a tight-junction protein required for paracellular chloride transport in the kidney, leading to its degradation (By similarity).
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSESKAKKIEIKDVDGQTLSKLIDYIYTAEIEVTEENVQVLLPAASLLQLMDVRQNCCDFLQSQLHPTNCLGIRAFADVHTCTDLLQQANAYAEQHFPEVMLGEEFLSLSLDQVCSLISSDKLTVSSEEKVFEAVISWINYEKETRLEHMAKLMEHVRLPLLPRDYLVQTVEEEALIKNNNTCKDFLIEAMKYHLLPLDQRLLIKNPRTKPRTPVSLPKVMIVVGGQAPKAIRSVECYDFEEDRWDQIAELPSRRCRAGVVFMAGHVYAVGGFNGSLRVRTVDVYDGVKDQWTSIASMQERRSTLGAAVLNDLLYAVGGFDGSTGLASVEAYSYKTNEWFFVAPMNTRRSSVGVGVVEGKLYAVGGYDGASRQCLSTVEQYNPATNEWIYVADMSTRRSGAGVGVLSGQLYATGGHDGPLVRKSVEVYDPGTNTWKQVADMNMCRRNAGVCAVNGLLYVVGGDDGSCNLASVEYYNPVTDKWTLLPTNMSTGRSYAGVAVIHKSL
+PTM	Methylation:260,287,371;Phosphorylation:84,576,577

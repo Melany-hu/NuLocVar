@@ -1,0 +1,25 @@
+UniprotID	P15812-11
+Accession	P15812;B4DZV3;E7EP01;Q5TDJ9;Q5TDK3;Q5TDK4;Q5TDK5;Q5TDK6;Q5TDK8;Q5TDL1;Q712E4;Q712E5;Q712E6;Q712E7;Q712E8;Q712E9;Q712F0;Q712F1;Q712F2;Q712F3;Q712F4;Q712F5;Q96TD0;Q96TD1;Q9UMM1;Q9Y5M3
+EntryName	CD1E_HUMAN
+ProteinName	T-cell surface glycoprotein CD1e, membrane-associated (hCD1e) (R2G1) (CD antigen CD1e) [Cleaved into: T-cell surface glycoprotein CD1e, soluble (sCD1e)]
+GeneName	CD1E
+Length	144
+Function	T-cell surface glycoprotein CD1e, soluble binds diacetylated lipids, including phosphatidyl inositides and diacylated sulfoglycolipids, and is required for the presentation of glycolipid antigens on the cell surface. The membrane-associated form is not active.
+Subcellular Location	Golgi apparatus membrane; Early endosome; Late endosome; Lysosome lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLFLLFEGLCCPGENTAVKPEAWLSCGPSPGPGRLQLVCHVSGFYPKPVWVMWMRGGYSIFLILICLTVIVTLVILVVVDSRLKKQSSNKNILSPHTPSPVFLMGANTQDTKNSRHQFCLAQVSWIKNRVLKKWKTRLNQLW
+PTM	Methylation:91,170,179,373;Phosphorylation:220

@@ -1,0 +1,25 @@
+UniprotID	P0DMW2
+Accession	P0DMW2
+EntryName	PYDC4_HUMAN
+ProteinName	NLR family pyrin domain-containing protein 2B (Pyrin domain-containing protein 2-like protein POP4) (Pyrin-only protein 4)
+GeneName	NLRP2B CLRX.1 NLRP2P NOD24 POP4
+Length	45
+Function	May function as a negative regulator of NF-kappa-B by preventing RELA/p65 phosphorylation at 'Ser-536', thereby inhibiting its transcriptional activity. Through NF-kappa-B regulation may control cytokine release upon Toll-like receptors activation and therefore play a role in modulation of innate immunity. May also play a role in cell cycle progression and apoptotic process.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	0.0605,0.0909,0.0909,0.0581,0.0380,0.0531,0.0704,0.0473,0.0605,0.0749,0.1007,0.1229,0.1137,0.0765,0.0780,0.0473,0.0473,0.0799,0.0433,0.0494,0.0463,0.0817,0.0494,0.0592,0.0568,0.0967,0.1048,0.1162,0.1137,0.1184,0.1184,0.0592,0.0719,0.1206,0.1759,0.1501,0.2328,0.2064,0.1852,0.2503,0.3494,0.3149,0.2817,0.3807,0.3529
+ExposeBuried	1,1,1,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1
+SurfaceAccessbility	0.827,0.416,0.586,0.539,0.437,0.558,0.231,0.518,0.235,0.429,0.106,0.462,0.339,0.103,0.147,0.586,0.509,0.112,0.474,0.613,0.686,0.427,0.141,0.405,0.517,0.081,0.410,0.385,0.100,0.112,0.441,0.185,0.128,0.442,0.172,0.181,0.563,0.532,0.154,0.543,0.632,0.207,0.555,0.730,0.845
+SecondStructure	C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C
+Hydropathy	1.9,4.2,-0.8,-0.8,1.8,-3.5,3.8,-3.5,2.8,-3.5,3.8,-3.5,1.8,3.8,3.8,-0.4,-3.5,3.8,-0.8,-3.5,-3.5,-3.5,3.8,2.5,-3.9,2.8,-3.9,-0.8,3.8,4.5,-4.5,-0.7,4.2,-0.8,3.8,-0.4,-3.5,-3.5,3.8,-3.5,-3.9,4.5,-1.6,-3.5,-0.7
+Polar	0,0,1,1,0,1,0,1,1,1,0,1,0,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,1,1
+Charge	0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,-1,0,0,1,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSSAQLDFNLQALLGQLSQDDLCKFKSLIRTVSLGNELQKIPQT
+PTM	Phosphorylation:28

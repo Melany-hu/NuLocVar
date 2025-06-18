@@ -1,0 +1,25 @@
+UniprotID	Q6XR72-2
+Accession	Q6XR72;Q49AL9;Q9NPW0
+EntryName	ZNT10_HUMAN
+ProteinName	Calcium/manganese antiporter SLC30A10 (Solute carrier family 30 member 10) (Zinc transporter 10) (ZnT-10)
+GeneName	SLC30A10 ZNT10 ZNT8
+Length	240
+Function	Calcium:manganese antiporter of the plasma membrane mediating the efflux of intracellular manganese coupled to an active extracellular calcium exchange (PubMed:30755481). Required for intracellular manganese homeostasis, an essential cation for the function of several enzymes, including some crucially important for the metabolism of neurotransmitters and other neuronal metabolic pathways. Manganese can also be cytotoxic and induce oxidative stress, mitochondrial dysfunction and apoptosis (PubMed:22341972, PubMed:25319704, PubMed:26728129, PubMed:27226609, PubMed:27307044). Could also have an intracellular zinc ion transporter activity, directly regulating intracellular zinc ion homeostasis and more indirectly various signaling pathway and biological processes (PubMed:22427991, PubMed:26728129).
+Subcellular Location	Cell membrane; Golgi apparatus membrane; Recycling endosome membrane; Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDALGSVVVVITAIIFYVLPLKSEDPCNWQCYIDPSLTVLMVIIILSSAFPLIKETAAILLQMVPKGVNMEELMSKLSAVPGISSVHEVHIWELVSGKIIATLHIKYPKDRGYQDASTKIREIFHHAGIHNVTIQFENVDLKEPLEQKDLLLLCNSPCISKGCAKQLCCPPGALPLAHVNGCAEHNGGPSLDTYGSDGLSRRDAREVAIEVSLDSCLSDHGQSLNKTQEDQCYVNRTHF
+PTM	Methylation:268,344,365,388;Phosphorylation:187,189,196,321,402,458,469

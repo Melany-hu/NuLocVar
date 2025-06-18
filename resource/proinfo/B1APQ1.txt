@@ -1,0 +1,25 @@
+UniprotID	B1APQ1
+Accession	B1APQ1
+EntryName	B1APQ1_HUMAN
+ProteinName	Pitrilysin metallopeptidase 1
+GeneName	PITRM1
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VNATPQQMPQTEKAVEDFLRSIGRSKKERRPVRPHTVEKPVPSSSGGDAHVPHGSQVIRKLVMYTLRHHVKIGGLHVSFTVRNCVE
+PTM	

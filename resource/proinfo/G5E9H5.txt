@@ -1,0 +1,25 @@
+UniprotID	G5E9H5
+Accession	G5E9H5;C9JQ16
+EntryName	G5E9H5_HUMAN
+ProteinName	Sorting nexin 10
+GeneName	SNX10 hCG_38389
+Length	161
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCFTMKTSCVRRRYREFVWLRQRLQSNALLVQLPELPSKNLFFNMNNRQHVDQRRQGLEDFLRKVLQNALLLSDSSLHLFLQSHLNSEDIEACVSGQTKYSVEEAIHKFALMNRRFPEEDEEGKKENDIDYDSESSSSGLGHSSDDSSSHGCKVNTAPQES
+PTM	

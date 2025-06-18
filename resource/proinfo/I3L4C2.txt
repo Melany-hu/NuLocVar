@@ -1,0 +1,25 @@
+UniprotID	I3L4C2
+Accession	I3L4C2
+EntryName	I3L4C2_HUMAN
+ProteinName	BAR/IMD domain-containing adapter protein 2 (Brain-specific angiogenesis inhibitor 1-associated protein 2)
+GeneName	BAIAP2
+Length	553
+Function	Adapter protein that links membrane-bound small G-proteins to cytoplasmic effector proteins. Necessary for CDC42-mediated reorganization of the actin cytoskeleton and for RAC1-mediated membrane ruffling. Involved in the regulation of the actin cytoskeleton by WASF family members and the Arp2/3 complex. Plays a role in neurite growth. Acts syngeristically with ENAH to promote filipodia formation. Plays a role in the reorganization of the actin cytoskeleton in response to bacterial infection. Participates in actin bundling when associated with EPS8, promoting filopodial protrusions.
+Subcellular Location	Cell projection; Filopodium; Cell projection; Ruffle; Cytoplasm; Cytoskeleton; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLSRSEEMHRLTENVYKRVEEKYQRNLFPIFSPSALKPESRNFRGESWQGTIMEQFNPSLRNFIAMGKNYEKALAGVTYAAKGYFDALVKMGELASESQGSKELGDVLFQMAEVHRQIQNQLEEMLKSFHNELLTQLEQKVELDSRYLSAALKKYQTEQRSKGDALDKCQAELKKLRKKSQGSKNPQKYSDKELQYIDAISNKQGELENYVSDGYKTALTEERRRFCFLVEKQCAVAKNSAAYHSKGKELLAQKLPLWQQACADPSKIPERAVQLMQQVASNGATLPSALSASKSNLVISDPIPGAKPLPVPPELAPFVGRMSAQESTPIMNGVTGPDGEDYSPWADRKAAQPKSLSPPQSQSKLSDSYSNTLPVRKSVTPKNSYATTENKTLPRSSSMAAGLERNGRMRVKAIFSHAAGDNSTLLSFKEGDLITLLVPEARDGWHYGESEKTKMRGWFPFSYTRVLDSDGSDRLHMSLQQGKSSSTGNLLDKDDLAIPPPDYGAASRAFPAQTASGFKQRPYSVAVPAFSQGLDDYGARSMSSADVEVARF
+PTM	

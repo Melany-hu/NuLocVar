@@ -1,0 +1,25 @@
+UniprotID	D6RAK0
+Accession	D6RAK0
+EntryName	D6RAK0_HUMAN
+ProteinName	Rap guanine nucleotide exchange factor 2
+GeneName	RAPGEF2
+Length	155
+Function	
+Subcellular Location	Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFLVRCYANCLQPWSSKLPADFTKLHLTDSLHPQVTHVSSSHSGCSITSDSGSSSLSDIYQATESEAGDMDLSGLPETAVDSEDDDDEEDIERASDPLMSRDIVRDCLEKDPIDRTDDDIEQLLEFMHQLPAFANMTMSVRRELCAVMVFAVVE
+PTM	

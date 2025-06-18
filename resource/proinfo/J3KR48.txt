@@ -1,0 +1,25 @@
+UniprotID	J3KR48
+Accession	J3KR48
+EntryName	J3KR48_HUMAN
+ProteinName	EF-hand calcium binding domain 10 (HCG1779729, isoform CRA_a)
+GeneName	EFCAB10 hCG_1779729
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METSSRELQAAEYLEKHQIKEVVSYLTSALLFFRPEKPKEYLISLLERLRIAKVTGVAFPFFMDNSNIVAMFEMMDSSGRGTISFVQYKEALKTLGLCTEDEDLQDDGHKITLDKFKEEVNKRMKEIWSAF
+PTM	

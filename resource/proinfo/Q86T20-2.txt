@@ -1,0 +1,25 @@
+UniprotID	Q86T20-2
+Accession	Q86T20;A0A1C7CYX6;A8K299
+EntryName	SIM29_HUMAN
+ProteinName	Small integral membrane protein 29 (Protein LBH)
+GeneName	SMIM29 C6orf1 LBH
+Length	82
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNTTVPNAPQANSDSMVMYVQKKKRVDRLRHHLLPMYSYDPAEELHEAEQELLSDMGDPKVVHGWQSGYQHKRMPLLDVKT
+PTM	

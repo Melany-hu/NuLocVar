@@ -1,0 +1,25 @@
+UniprotID	Q8NEB5-2
+Accession	Q8NEB5;C9JKF5;Q3KQX6;Q9BY45
+EntryName	PLPP5_HUMAN
+ProteinName	Phospholipid phosphatase 5 (EC 3.1.3.4) (EC 3.6.1.75) (Phosphatidic acid phosphatase type 2 domain-containing protein 1B)
+GeneName	PLPP5 DPPL1 HTPAP PPAPDC1B
+Length	216
+Function	Magnesium-independent phospholipid phosphatase with broad substrate specificity (PubMed:17590538). Preferentially catalyzes the conversion of diacylglycerol pyrophosphate into phosphatidate but can also act on phosphatidate and lysophosphatidate (PubMed:17590538). Phospholipid phosphatases are involved in both the synthesis of lipids and the generation or degradation of lipid-signaling molecules (PubMed:17590538).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKAAAAVAFGAEVGVRLALFAAFLVTELLPPFQRLIQPEEMWLYRNPYVEAEYFPTKPMFVIAFLSPLSLIFLAKFLKKADTRDSRQACLAASLALALNGVFTNTIKLIVGRPRPDFFYRCFPDGLAHSDLMCTGDKDVVNEGRKSFPSGHSSFAFAGLAFASFYLAGKLHCFTPQGRGKSWRFCAFLSPLLFAAVIALSRTCDYKHHWQGPFKW
+PTM	Methylation:108,247;Phosphorylation:201

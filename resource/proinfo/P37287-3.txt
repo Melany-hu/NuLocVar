@@ -1,0 +1,25 @@
+UniprotID	P37287-3
+Accession	P37287;B4E0V2;Q16025;Q16250
+EntryName	PIGA_HUMAN
+ProteinName	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A (EC 2.4.1.198) (GlcNAc-PI synthesis protein) (Phosphatidylinositol-glycan biosynthesis class A protein) (PIG-A)
+GeneName	PIGA
+Length	250
+Function	Catalytic subunit of the glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex that catalyzes the transfer of N-acetylglucosamine from UDP-N-acetylglucosamine to phosphatidylinositol and participates in the first step of GPI biosynthesis.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELTGIDLLSGIIPELCQKYPDLNFIIGGEGPKRIILEEVRERYQLHDRVRLLGALEHKDVRNVLVQGHIFLNTSLTEAFCMAIVEAASCGLQVVSTRVGGIPEVLPENLIILCEPSVKSLCEGLEKAIFQLKSGTLPAPENIHNIVKTFYTWRNVAERTEKVYDRVSVEAVLPMDKRLDRLISHCGPVTGYIFALLAVFNFLFLIFLRWMTPDSIIDVAIDATGPRGAWTNNYSHSKRGGENNEISETR
+PTM	Methylation:4,88,382;Phosphorylation:21,24,105,109,402;Ubiquitylation:353,367

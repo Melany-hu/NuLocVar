@@ -1,0 +1,25 @@
+UniprotID	H7C505
+Accession	H7C505
+EntryName	H7C505_HUMAN
+ProteinName	Adenylate kinase 9
+GeneName	AK9
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	148...153
+validnes_region	
+nesbase_region	
+Sequence	XVEEENTKKQLPEVQLTEEEEVIKSSLMENEPLPPEILEVILSEWWLKEPIRSTGFILDGFPRYPEEAQFLGDRGFFPDAAVFIQVDDQDIFDRLLPAQIEKWKLKQKKKLERKKLIKDMKAKIRVDTIAKRRAELILERDKKRREPNKEKRKRGISENTTCYKCNHMSPWCEYAGLPYRGLLILYSATATATAGTKHCRSGAKVIVALSKQNIHNQK
+PTM	

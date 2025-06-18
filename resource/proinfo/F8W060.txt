@@ -1,0 +1,25 @@
+UniprotID	F8W060
+Accession	F8W060
+EntryName	F8W060_HUMAN
+ProteinName	Oxysterol binding protein like 8
+GeneName	OSBPL8
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGGLADGEPDRTSLLGDSKDVLGPSTNSDESQLLTPGKMSQRQGKEAYPTP
+PTM	

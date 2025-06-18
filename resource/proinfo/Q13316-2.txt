@@ -1,0 +1,25 @@
+UniprotID	Q13316-2
+Accession	Q13316;A1L4L3;O43265
+EntryName	DMP1_HUMAN
+ProteinName	Dentin matrix acidic phosphoprotein 1 (DMP-1) (Dentin matrix protein 1)
+GeneName	DMP1
+Length	497
+Function	May have a dual function during osteoblast differentiation. In the nucleus of undifferentiated osteoblasts, unphosphorylated form acts as a transcriptional component for activation of osteoblast-specific genes like osteocalcin. During the osteoblast to osteocyte transition phase it is phosphorylated and exported into the extracellular matrix, where it regulates nucleation of hydroxyapatite.
+Subcellular Location	Nucleus; Cytoplasm; Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKISILLMFLWGLSCALPVTRYQNNESEDSEEWKGHLAQAPTPPLANEDPSDSTQSEEGLGSDDHQYIYRLAGGFSRSTGKGGDDKDDDEDDSGDDTFGDDDSGPGPKDRQEGGNSRLGSDEDSDDTIQASEESAPQGQDSAQDTTSESRELDNEDRVDSKPEGGDSTQESESEEHWVGGGSDGESSHGDGSELDDEGMQSDDPESIRSERGNSRMNSAGMKSKESGENSEQANTQDSGGSQLLEHPSRKIFRKSRISEEDDRSELDDNNTMEEVKSDSTENSNSRDTGLSQPRRDSKGDSQEDSKENLSQEESQNVDGPSSESSQEANLSSQENSSESQEEVVSESRGDNPDPTTSYVEDQEDSDSSEEDSSHTLSHSKSESREEQADSESSESLNFSEESPESPEDENSSSQEGLQSHSSSAESQSEESHSEEDDSDSQDSSRSKEDSNSTESKSSSEEDGQLKNIEIESRKLTVDAYHNKPIGDQDDNDCQDGY
+PTM	Methylation:34;Phosphorylation:271;SUMOylation:177

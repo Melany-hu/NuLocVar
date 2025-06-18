@@ -1,0 +1,25 @@
+UniprotID	P59910-2
+Accession	P59910;B3LEP4;Q8IZW5
+EntryName	DJB13_HUMAN
+ProteinName	DnaJ homolog subfamily B member 13 (Testis and spermatogenesis cell-related protein 6) (Testis spermatocyte apoptosis-related gene 6 protein) (Testis spermatogenesis apoptosis-related gene 3 protein) (Testis spermatogenesis apoptosis-related gene 6 protein)
+GeneName	DNAJB13 TSARG3 TSARG6
+Length	141
+Function	Functions as part of axonemal radial spoke complexes that play an important part in the motility of sperm and cilia.
+Subcellular Location	Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METSRGRNLAKVTRPTSPCHLLASPAQGPNIIPADIIFIVKEKLHPRFRRENDNLFFVNPIPLGKALTCCTVEVRTLDDRLLNIPINDIIHPKYFKKVPGEGMPLPEDPTKKGDLFIFFDIQFPTRLTPQKKQMLRQALLT
+PTM	Methylation:30,35,185,268;Phosphorylation:7,52,173,174

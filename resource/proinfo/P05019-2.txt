@@ -1,0 +1,25 @@
+UniprotID	P05019-2
+Accession	P05019;B2RWM7;E9PD02;P01343;Q14620
+EntryName	IGF1_HUMAN
+ProteinName	Insulin-like growth factor 1 (Insulin-like growth factor I) (IGF-I) (Mechano growth factor) (MGF) (Somatomedin-C)
+GeneName	IGF1 IBP1 IGF-1
+Length	153
+Function	The insulin-like growth factors, isolated from plasma, are structurally and functionally related to insulin but have a much higher growth-promoting activity. May be a physiological regulator of -2-deoxy-D-glucose (2DG) transport and glycogen synthesis in osteoblasts. Stimulates glucose transport in bone-derived osteoblastic (PyMS) cells and is effective at much lower concentrations than insulin, not only regarding glycogen and DNA synthesis but also with regard to enhancing glucose uptake. May play a role in synapse maturation (PubMed:21076856, PubMed:24132240). Ca(2+)-dependent exocytosis of IGF1 is required for sensory perception of smell in the olfactory bulb (By similarity). Acts as a ligand for IGF1R. Binds to the alpha subunit of IGF1R, leading to the activation of the intrinsic tyrosine kinase activity which autophosphorylates tyrosine residues in the beta subunit thus initiating a cascade of down-stream signaling events leading to activation of the PI3K-AKT/PKB and the Ras-MAPK pathways. Binds to integrins ITGAV:ITGB3 and ITGA6:ITGB4. Its binding to integrins and subsequent ternary complex formation with integrins and IGFR1 are essential for IGF1 signaling. Induces the phosphorylation and activation of IGFR1, MAPK3/ERK1, MAPK1/ERK2 and AKT1 (PubMed:19578119, PubMed:22351760, PubMed:23243309, PubMed:23696648). As part of the MAPK/ERK signaling pathway, acts as a negative regulator of apoptosis in cardiomyocytes via promotion of STUB1/CHIP-mediated ubiquitination and degradation of ICER-type isoforms of CREM (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKISSLPTQLFKCCFCDFLKVKMHTMSSSHLFYLALCLLTFTSSATAGPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSARSVRAQRHTDMPKTQKEVHLKNASRGSAGNKNYRM
+PTM	Methylation:21,176

@@ -1,0 +1,25 @@
+UniprotID	Q9NZU7-2
+Accession	Q9NZU7;O95663;Q8N6H5;Q9NZU8
+EntryName	CABP1_HUMAN
+ProteinName	Calcium-binding protein 1 (CaBP1) (Calbrain) (Caldendrin)
+GeneName	CABP1
+Length	167
+Function	Modulates calcium-dependent activity of inositol 1,4,5-triphosphate receptors (ITPRs) (PubMed:14570872). Inhibits agonist-induced intracellular calcium signaling (PubMed:15980432). Enhances inactivation and does not support calcium-dependent facilitation of voltage-dependent P/Q-type calcium channels (PubMed:11865310). Causes calcium-dependent facilitation and inhibits inactivation of L-type calcium channels by binding to the same sites as calmodulin in the C-terminal domain of CACNA1C, but has an opposite effect on channel function (PubMed:15140941). Suppresses the calcium-dependent inactivation of CACNA1D (By similarity). Inhibits TRPC5 channels (PubMed:15895247). Prevents NMDA receptor-induced cellular degeneration. Required for the normal transfer of light signals through the retina (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Perinuclear region; Cell membrane; Golgi apparatus; Postsynaptic density; Cytoplasm; Cytoskeleton; Cytoplasm; Cell cortex; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNCVKYPLRNLSRKDRSLRPEEIEELREAFREFDKDKDGYINCRDLGNCMRTMGYMPTEMELIELSQQINMNLGGHVDFDDFVELMGPKLLAETADMIGVKELRDAFREFDTNGDGEISTSELREAMRKLLGHQVGHRDIEEIIRDVDLNGDGRVDFEEFVRMMSR
+PTM	Methylation:10,73,305;Phosphorylation:65,70,176,323

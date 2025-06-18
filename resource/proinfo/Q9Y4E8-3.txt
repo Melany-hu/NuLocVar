@@ -1,0 +1,25 @@
+UniprotID	Q9Y4E8-3
+Accession	Q9Y4E8;Q08AL5;Q9H8G9;Q9HCA6;Q9UNP0;Q9Y5B5
+EntryName	UBP15_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 15 (EC 3.4.19.12) (Deubiquitinating enzyme 15) (Ubiquitin thioesterase 15) (Ubiquitin-specific-processing protease 15) (Unph-2) (Unph4)
+GeneName	USP15 KIAA0529
+Length	956
+Function	Hydrolase that removes conjugated ubiquitin from target proteins and regulates various pathways such as the TGF-beta receptor signaling, NF-kappa-B and RNF41/NRDP1-PRKN pathways (PubMed:16005295, PubMed:17318178, PubMed:19576224, PubMed:19826004, PubMed:21947082, PubMed:22344298, PubMed:24852371). Acts as a key regulator of TGF-beta receptor signaling pathway, but the precise mechanism is still unclear: according to a report, acts by promoting deubiquitination of monoubiquitinated R-SMADs (SMAD1, SMAD2 and/or SMAD3), thereby alleviating inhibition of R-SMADs and promoting activation of TGF-beta target genes (PubMed:21947082). According to another reports, regulates the TGF-beta receptor signaling pathway by mediating deubiquitination and stabilization of TGFBR1, leading to an enhanced TGF-beta signal (PubMed:22344298). Able to mediate deubiquitination of monoubiquitinated substrates, 'Lys-27'-, 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains (PubMed:33093067). May also regulate gene expression and/or DNA repair through the deubiquitination of histone H2B (PubMed:24526689). Acts as an inhibitor of mitophagy by counteracting the action of parkin (PRKN): hydrolyzes cleavage of 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains attached by parkin on target proteins such as MFN2, thereby reducing parkin's ability to drive mitophagy (PubMed:24852371). Acts as an associated component of COP9 signalosome complex (CSN) and regulates different pathways via this association: regulates NF-kappa-B by mediating deubiquitination of NFKBIA and deubiquitinates substrates bound to VCP (PubMed:16005295, PubMed:17318178, PubMed:19576224, PubMed:19826004). Involved in endosome organization by mediating deubiquitination of SQSTM1: ubiquitinated SQSTM1 forms a molecular bridge that restrains cognate vesicles in the perinuclear region and its deubiquitination releases target vesicles for fast transport into the cell periphery (PubMed:27368102). Acts as a negative regulator of antifungal immunity by mediating 'Lys-27'-linked deubiquitination of CARD9, thereby inactivating CARD9 (PubMed:33093067).
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEGGAADLDTQRSDIATLLKTSLRKGDTWYLVDSRWFKQWKKYVGFDSWDKYQMGDQNVYPGPIDNSGLLKDGDAQSLKEHLIDELDYILLPTEGWNKLVSWYTLMEGQEPIARKVVEQGMFVKHCKVEVYLTELKLCENGNMNNVVTRRFSKADTIDTIEKEIRKIFSIPDEKETRLWNKYMSNTFEPLNKPDSTIQDAGLYQGQVLVIEQKNEQKNEDGTWPRGPSTPNVKNSNYCLPSYTAYKNYDYSEPGRNNEQPGLCGLSNLGNTCFMNSAIQCLSNTPPLTEYFLNDKYQEELNFDNPLGMRGEIAKSYAELIKQMWSGKFSYVTPRAFKTQVGRFAPQFSGYQQQDCQELLAFLLDGLHEDLNRIRKKPYIQLKDADGRPDKVVAEEAWENHLKRNDSIIVDIFHGLFKSTLVCPECAKISVTFDPFCYLTLPLPMKKERTLEVYLVRMDPLTKPMQYKVVVPKIGNILDLCTALSALSGIPADKMIVTDIYNHRFHRIFAMDENLSSIMERDDIYVFEININRTEDTEHVIIPVCLREKFRHSSYTHHTGSSLFGQPFLMAVPRNNTEDKLYNLLLLRMCRYVKISTETEETEGSLHCCKDQNINGNGPNGIHEEGSPSEMETDEPDDESSQDQELPSENENSQSEDSVGGDNDSENGLCTEDTCKGQLTGHKKRLFTFQFNNLGNTDINYIKDDTRHIRFDDRQLRLDERSFLALDWDPDLKKRYFDENAAEDFEKHESVEYKPPKKPFVKLKDCIELFTTKEKLGAEDPWYCPNCKEHQQATKKLDLWSLPPVLVVHLKRFSYSRYMRDKLDTLVDFPINDLDMSEFLINPNAGPCRYNLIAVSNHYGGMGGGHYTAFAKNKDDGKWYYFDDSSVSTASEDQIVSKAAYVLFYQRQDTFSGTGFFPLDRETKGASAATGIPLESDEDSNDNDNDIENENCMHTN
+PTM	Acetylation:605;Methylation:26,72,163,240,259,321,340,347,363,498,728,772,820,897,923;Phosphorylation:22,23,78,160,170,219,225,226,229,233,236,237,242,244,245,247,263,268,274,276,351,355,404,445,579,584,624,627,630,797,952,955,961,965;Ubiquitylation:193,228,259,272,340,353,416,605,798,813,847

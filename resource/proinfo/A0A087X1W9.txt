@@ -1,0 +1,25 @@
+UniprotID	A0A087X1W9
+Accession	A0A087X1W9
+EntryName	A0A087X1W9_HUMAN
+ProteinName	E74 like ETS transcription factor 5
+GeneName	ELF5
+Length	187
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSLPHSHRVMLDSVTHSTFLPNASFCDPLMSWTDLFSNEEYYPAFEHQTGYSFFNDAEESKATIKDYADSNCLKTSGIKSQDCHSHSRTSLQSSHLWEFVRDLLLSPEENCGILEWEDREQGIFRVVKSEALAKMWGQRKKNDRMTYEKLSRALRYYYKTGILERVDRRLVYKFGKNAHGWQEDKL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q01344-4
+Accession	Q01344;B3IU77;B4E2G0;Q14633;Q15469;Q6ISX9
+EntryName	IL5RA_HUMAN
+ProteinName	Interleukin-5 receptor subunit alpha (IL-5 receptor subunit alpha) (IL-5R subunit alpha) (IL-5R-alpha) (IL-5RA) (CDw125) (CD antigen CD125)
+GeneName	IL5RA IL5R
+Length	378
+Function	Cell surface receptor that plays an important role in the survival, differentiation, and chemotaxis of eosinophils (PubMed:9378992). Acts by forming a heterodimeric receptor with CSF2RB subunit and subsequently binding to interleukin-5 (PubMed:1495999, PubMed:22528658). In unstimulated conditions, interacts constitutively with JAK2. Heterodimeric receptor activation leads to JAK2 stimulation and subsequent activation of the JAK-STAT pathway (PubMed:9516124).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIIVAHVLLILLGATEILQADLLPDEKISLLPPVNFTIKVTGLAQVLLQWKPNPDQEQRNVNLEYQVKINAPKEDDYETRITESKCVTILHKGFSASVRTILQNDHSLLASSWASAELHAPPGSPGTSIVNLTCTTNTTEDNYSRLRSYQVSLHCTWLVGTDAPEDTQYFLYYRYGSWTEECQEYSKDTLGRNIACWFPRTFILSKGRDWLAVLVNGSSKHSAIRPFDQLFALHAIDQINPPLNVTAEIEGTRLSIQWEKPVSAFPIHCFDYEVKIHNTRNGYLQIEKLMTNAFISIIDDLSKYDVQVRAAVSSMCREAGLWSEWSQPIYVGNDEHKPLREWFVIVIMATICFILLILSLICKIKLGPVRRKLKSSVI
+PTM	Methylation:206,288,303;Phosphorylation:65

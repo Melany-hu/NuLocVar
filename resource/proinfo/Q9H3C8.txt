@@ -1,0 +1,25 @@
+UniprotID	Q9H3C8
+Accession	Q9H3C8
+EntryName	Q9H3C8_HUMAN
+ProteinName	Truncated epidermal growth factor receptor
+GeneName	EGFR
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNCTYGPGNESLKAMLFCLFKLSSCNQSNDGSVSHQSGSPAAQESCLGWIPSLLPSEFQLGWGGCSHLHAWPSASVIITASSCH
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YKF1
+Accession	H0YKF1
+EntryName	H0YKF1_HUMAN
+ProteinName	Proline-serine-threonine phosphatase interacting protein 1
+GeneName	PSTPIP1
+Length	133
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDAGRLQHRRRHRQFHPGQEHGHRAPRFSGLLHGSPKTTSLAASAASTETLTPTPERNEGVYTAIAVQEIQGNPASPAQEYRALYDYTAQNPDELDLSAGDILEVILEGEDGWWTVERNGQRGFVPGSYLEKL
+PTM	

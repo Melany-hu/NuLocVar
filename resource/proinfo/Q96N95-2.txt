@@ -1,0 +1,25 @@
+UniprotID	Q96N95-2
+Accession	Q96N95;A1L3V0;Q8NF98;Q8TD80
+EntryName	ZN396_HUMAN
+ProteinName	Zinc finger protein 396 (Zinc finger and SCAN domain-containing protein 14)
+GeneName	ZNF396 ZSCAN14
+Length	210
+Function	Isoform 1 and isoform 2 act as DNA-dependent transcriptional repressors.
+Subcellular Location	Nucleus; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAKLGKSSSLLTQTSEECNGILTEKMEEEEQTCDPDSSLHWSSSYSPETFRQQFRQFGYQDSPGPHEALSRLWELCHLWLRPEVHTKEQILELLVLEQFLAILPKELQAWVQKHHPENGEETVTMLEDVERELDGPKQIFFGRRKDMIAEKLAPSEITEELPSSQLMPVKKQLQGASWELQSLRPHGEGAGFSSCWKVWGPSAHHTHLS
+PTM	Methylation:26,114,138;Phosphorylation:300,302,307;SUMOylation:138,171,192,305

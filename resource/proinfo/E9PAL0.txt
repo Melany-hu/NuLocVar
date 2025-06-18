@@ -1,0 +1,25 @@
+UniprotID	E9PAL0
+Accession	E9PAL0
+EntryName	E9PAL0_HUMAN
+ProteinName	Proline rich protein BstNI subfamily 4
+GeneName	PRB4
+Length	247
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLILLSVALLALSSAESSSEDVSQEESLFLISGKPEGRRPQGGNQPQRPPPPPGKPQGPPPQGGNQSQGPPPPPGKPEGRPPQGGNQSQGPPPHPGKPERPPPQGGNQSQGTPPPPGKPERPPPQGGNQSHRPPPPPGKPERPPPQGGNQSQGPPPHPGKPEGPPPQEGNKSRSARSPPGKPQGPPQQEGNKPQGPPPPGKPQGPPPAGGNPQQPQAPPAGKPQGPPPPPQGGRPPRPAQGQQPPQ
+PTM	

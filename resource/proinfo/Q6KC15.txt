@@ -1,0 +1,25 @@
+UniprotID	Q6KC15
+Accession	Q6KC15
+EntryName	Q6KC15_HUMAN
+ProteinName	Hepcidin antimicrobial peptide
+GeneName	HAMP
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRPVPCSHSLPSHSPCSRGEGGETPTSPSAFSAAAAVIDQSVGCAARRRTYLPCPRPLPSLFIPAAPEHRSWNKMAGSFVFQTRVSVVLSLCRVSVLRACPDPALQAPVLGGSCGAGVSWRLPGKLVKKICFCSPPSCCNN
+PTM	

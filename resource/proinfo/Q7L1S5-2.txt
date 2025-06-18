@@ -1,0 +1,25 @@
+UniprotID	Q7L1S5-2
+Accession	Q7L1S5;Q6UX69;Q9BXH3;Q9BXH4;Q9BZW9
+EntryName	CHST9_HUMAN
+ProteinName	Carbohydrate sulfotransferase 9 (EC 2.8.2.-) (GalNAc-4-O-sulfotransferase 2) (GalNAc-4-ST2) (GalNAc4ST-2) (N-acetylgalactosamine-4-O-sulfotransferase 2)
+GeneName	CHST9 UNQ2549/PRO6175
+Length	74
+Function	Catalyzes the transfer of sulfate to position 4 of non-reducing N-acetylgalactosamine (GalNAc) residues in both N-glycans and O-glycans. Participates in biosynthesis of glycoprotein hormones lutropin and thyrotropin, by mediating sulfation of their carbohydrate structures. Has a higher activity toward carbonic anhydrase VI than toward lutropin. Only active against terminal GalNAcbeta1,GalNAcbeta. Isoform 2, but not isoform 1, is active toward chondroitin.
+Subcellular Location	Golgi apparatus membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPSEMVMNPKQVFLSVLIFGVAGLLLFMYLQVWIEEQHTGRVEKRREQKVTSGWGPVKYLRPVPRIKPQVSHA
+PTM	Glycosylation:52,70,78,105,141,324;Methylation:110,135,211,311;Phosphorylation:239

@@ -1,0 +1,25 @@
+UniprotID	F1LLU6
+Accession	F1LLU6
+EntryName	F1LLU6_HUMAN
+ProteinName	BAG cochaperone 1
+GeneName	BAG1
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRSQEVTRDEESTRSEEVTREEMAAAGLTVTVTHSNEKHDLHVTSQQGSSEPVVQDLAQVVEEVIGVPQSFQKLIFKVLQQIFIEDLLGIGHSQTPGQVSDLKSYDDGRNLTIFDEAHGQSSLARKISEGNGNTVVSTWNTRWLPGHVNWEKEQSTGRG
+PTM	

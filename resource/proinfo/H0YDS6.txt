@@ -1,0 +1,25 @@
+UniprotID	H0YDS6
+Accession	H0YDS6
+EntryName	H0YDS6_HUMAN
+ProteinName	von Willebrand factor A domain containing 3B
+GeneName	VWA3B
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTLMDALSVAAVPHSSTYVPVLDKHVVSKVFDECFPDQPQIGHLGNEVFPLAHVCNDTNKMTLINPQGAKLNIYKRKVEQAI
+PTM	

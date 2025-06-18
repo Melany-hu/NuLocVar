@@ -1,0 +1,25 @@
+UniprotID	Q9UN42-2
+Accession	Q9UN42;Q17RR0;Q9UN41
+EntryName	AT1B4_HUMAN
+ProteinName	Protein ATP1B4 (X,K-ATPase subunit beta-m) (X/potassium-transporting ATPase subunit beta-m)
+GeneName	ATP1B4
+Length	353
+Function	May act as a transcriptional coregulator during muscle development through its interaction with SNW1. Has lost its ancestral function as a Na,K-ATPase beta-subunit.
+Subcellular Location	Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRQLRSRRAPSFPYSYRYRLDDPDEANQNYLADEEEEAEEEARVTVVPKSEEEEEEEEKEEEEEEEKEEEEGQGQPTGNAWWQKLQIMSEYLWDPERRMFLARTGLILLIYFFFYASLAAVITLCMYTLFLTISPYIPTFTERVKPPGVMIRPFAHSLNFNFNVSEPDTWQHYVISLNGFLQGYNDSLQEEMNVDCPPGQYFIQDGNEDEDKKACQFKRSFLKNCSGLEDPTFGYSTGQPCILLKMNRIVGFRPELGDPVKVSCKVQRGDENDIRSISYYPESASFDLRYYPYYGKLTHVNYTSPLVAMHFTDVVKNQAVPVQCQLKGKGVINDVINDRFVGRVIFTLNIET
+PTM	Glycosylation:306;Methylation:228,250,294,321;Phosphorylation:12,16,225

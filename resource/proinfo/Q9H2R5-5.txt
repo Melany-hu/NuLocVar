@@ -1,0 +1,25 @@
+UniprotID	Q9H2R5-5
+Accession	Q9H2R5;A0AUY8;Q15358;Q6ISI0;Q9H2R3;Q9H2R4;Q9H2R6;Q9HBG9
+EntryName	KLK15_HUMAN
+ProteinName	Kallikrein-15 (EC 3.4.21.-) (ACO protease)
+GeneName	KLK15
+Length	255
+Function	Protease whose physiological substrate is not yet known.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLLLTLSFLLASTAQDGDKLLEGDECAPHSQPWQVALYERGRFNCGASLISPHWVLSAAHCQSRFMRVRLGEHNLRKRDGPEQLRTTSRVIPHPRYEARSHRNDIMLLRLVQPARLNPQVRPAVLPTRCPHPGEACVVSGWGLVSHNEPGTAGSPRSQVSLPDTLHCANISIISDTSCDKSYPGRLTNTMVCAGAEGRGAESCEGDSGGPLVCGGILQGIVSWGDVPCDNTTKPGVYTKVCHYLEWIRETMKRN
+PTM	Methylation:235,241;Phosphorylation:90,98,102,156;Ubiquitylation:241

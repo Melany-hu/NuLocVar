@@ -1,0 +1,25 @@
+UniprotID	Q8NCW6-2
+Accession	Q8NCW6;B3KWF4;Q6PCD1;Q9H6C2;Q9H6Z5;Q9UDR8
+EntryName	GLT11_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 11 (EC 2.4.1.41) (Polypeptide GalNAc transferase 11) (GalNAc-T11) (pp-GaNTase 11) (Protein-UDP acetylgalactosaminyltransferase 11) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 11)
+GeneName	GALNT11
+Length	202
+Function	Polypeptide N-acetylgalactosaminyltransferase that catalyzes the initiation of protein O-linked glycosylation and is involved in left/right asymmetry by mediating O-glycosylation of NOTCH1. O-glycosylation of NOTCH1 promotes activation of NOTCH1, modulating the balance between motile and immotile (sensory) cilia at the left-right organiser (LRO). Polypeptide N-acetylgalactosaminyltransferases catalyze the transfer of an N-acetyl-D-galactosamine residue to a serine or threonine residue on the protein receptor. Displays the same enzyme activity toward MUC1, MUC4, and EA2 than GALNT1. Not involved in glycosylation of erythropoietin (EPO).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSVTVRYFCYGCLFTSATWTVLLFVYFNFSEVTQPLKNVPVKGSGPHGPSPKKFYPRFTRGPSRVLEPQFKANKIDDVIDSRVEDPEEGHLKFSSELGMIFNERDQELRDLGYQKHAFNMLISDRLGYHRDVPDTRNAACKEKFYPPDLPAASVVICFYNEAFSALLRTVHSVIDRTPAHLLHEIILVDDDSDFGKECCTW
+PTM	Acetylation:301;Glycosylation:45,51,60,64,317,388,416,428;Methylation:510;Phosphorylation:56,60,82,129,386,410,414,416,425,426,430,545

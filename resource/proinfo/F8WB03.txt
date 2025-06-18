@@ -1,0 +1,25 @@
+UniprotID	F8WB03
+Accession	F8WB03
+EntryName	F8WB03_HUMAN
+ProteinName	cAMP responsive element modulator
+GeneName	CREM
+Length	62
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMETVESQHDGSITASLTESKSAHVQTQTGQNSIPALAQLPLVTCQLTRSELLLLLCHREW
+PTM	

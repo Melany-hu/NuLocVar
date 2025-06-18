@@ -1,0 +1,25 @@
+UniprotID	K7EK12
+Accession	K7EK12
+EntryName	K7EK12_HUMAN
+ProteinName	PSMC3 interacting protein
+GeneName	PSMC3IP
+Length	85
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKGRAEAAAGAAGILLRYLQEQNRPYSSQDVFGNLQREHGLGKAVVVKTLEQLAQQGKIKEKMYGKQKIYFADQVRRTCADCHP
+PTM	

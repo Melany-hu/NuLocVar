@@ -1,0 +1,25 @@
+UniprotID	Q9NZC2-2
+Accession	Q9NZC2;Q8N5H8;Q8WYN6
+EntryName	TREM2_HUMAN
+ProteinName	Triggering receptor expressed on myeloid cells 2 (TREM-2) (Triggering receptor expressed on monocytes 2)
+GeneName	TREM2
+Length	219
+Function	Forms a receptor signaling complex with TYROBP which mediates signaling and cell activation following ligand binding (PubMed:10799849). Acts as a receptor for amyloid-beta protein 42, a cleavage product of the amyloid-beta precursor protein APP, and mediates its uptake and degradation by microglia (PubMed:27477018, PubMed:29518356). Binding to amyloid-beta 42 mediates microglial activation, proliferation, migration, apoptosis and expression of pro-inflammatory cytokines, such as IL6R and CCL3, and the anti-inflammatory cytokine ARG1 (By similarity). Acts as a receptor for lipoprotein particles such as LDL, VLDL, and HDL and for apolipoproteins such as APOA1, APOA2, APOB, APOE, APOE2, APOE3, APOE4, and CLU and enhances their uptake in microglia (PubMed:27477018). Binds phospholipids (preferably anionic lipids) such as phosphatidylserine, phosphatidylethanolamine, phosphatidylglycerol and sphingomyelin (PubMed:29794134). Regulates microglial proliferation by acting as an upstream regulator of the Wnt/beta-catenin signaling cascade (By similarity). Required for microglial phagocytosis of apoptotic neurons (PubMed:24990881). Also required for microglial activation and phagocytosis of myelin debris after neuronal injury and of neuronal synapses during synapse elimination in the developing brain (By similarity). Regulates microglial chemotaxis and process outgrowth, and also the microglial response to oxidative stress and lipopolysaccharide (By similarity). It suppresses PI3K and NF-kappa-B signaling in response to lipopolysaccharide; thus promoting phagocytosis, suppressing pro-inflammatory cytokine and nitric oxide production, inhibiting apoptosis and increasing expression of IL10 and TGFB (By similarity). During oxidative stress, it promotes anti-apoptotic NF-kappa-B signaling and ERK signaling (By similarity). Plays a role in microglial MTOR activation and metabolism (By similarity). Regulates age-related changes in microglial numbers (PubMed:29752066). Triggers activation of the immune responses in macrophages and dendritic cells (PubMed:10799849). Mediates cytokine-induced formation of multinucleated giant cells which are formed by the fusion of macrophages (By similarity). In dendritic cells, receptor of SEMA6D with PLEXNA1 as coreceptor and mediates up-regulation of chemokine receptor CCR7 and dendritic cell maturation and survival (PubMed:11602640). Involved in the positive regulation of osteoclast differentiation (PubMed:12925681).
+Subcellular Location	Cell membrane; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPLRLLILLFVTELSGAHNTTVFQGVAGQSLQVSCPYDSMKHWGRRKAWCRQLGEKGPCQRVVSTHNLWLLSFLRRWNGSTAITDDTLGGTLTITLRNLQPHDAGLYQCQSLHGSEADTLRKVLVEVLADPLDHRDAGDLWFPGESESFEDAHVEHSISRAERHVKEDDGRKSPGEVPPGTSPACILATWPPGLLVLLWQETTLPEHCFSWTLEAGTG
+PTM	Acetylation:123;Methylation:57,123

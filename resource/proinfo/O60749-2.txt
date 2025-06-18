@@ -1,0 +1,25 @@
+UniprotID	O60749-2
+Accession	O60749;B3KN44;B4DEK4;B7Z408;O43650;P82862;Q53XK8;Q597H6;Q9BTS8
+EntryName	SNX2_HUMAN
+ProteinName	Sorting nexin-2 (Transformation-related gene 9 protein) (TRG-9)
+GeneName	SNX2 TRG9
+Length	402
+Function	Involved in several stages of intracellular trafficking. Interacts with membranes containing phosphatidylinositol 3-phosphate (PtdIns(3P)) or phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2) (PubMed:16179610). Acts in part as component of the retromer membrane-deforming SNX-BAR subcomplex (PubMed:17101778). The SNX-BAR retromer mediates retrograde transport of cargo proteins from endosomes to the trans-Golgi network (TGN) and is involved in endosome-to-plasma membrane transport for cargo protein recycling. The SNX-BAR subcomplex functions to deform the donor membrane into a tubular profile called endosome-to-TGN transport carrier (ETC) (Probable). Can sense membrane curvature and has in vitro vesicle-to-membrane remodeling activity (PubMed:23085988). Required for retrograde endosome-to-TGN transport of TGN38 (PubMed:20138391). Promotes KALRN- and RHOG-dependent but retromer-independent membrane remodeling such as lamellipodium formation; the function is dependent on GEF activity of KALRN (PubMed:20604901).
+Subcellular Location	Early endosome membrane; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAPVIFDRSREEIEEEANGDIFDIEIGVSDPEKVGDGMNAYMAYRVTTKTSLSMFSKSEFSVKRRFSDFLGLHSKLASKYLHVGYIVPPAPEKSIVGMTKVKVGKEDSSSTEFVEKRRAALERYLQRTVKHPTLLQDPDLRQFLESSELPRAVNTQALSGAGILRMVNKAADAVNKMTIKMNESDAWFEEKQQQFENLDQQLRKLHVSVEALVCHRKELSANTAAFAKSAAMLGNSEDHTALSRALSQLAEVEEKIDQLHQEQAFADFYMFSELLSDYIRLIAAVKGVFDHRMKCWQKWEDAQITLLKKREAEAKMMVANKPDKIQQAKNEIREWEAKVQQGERDFEQISKTIRKEVGRFEKERVKDFKTVIIKYLESLVQTQQQLIKYWEAFLPEAKAIA
+PTM	Acetylation:116,211,234,442,447,469,484,487;Methylation:116,181,234,259,294,309,346,373,404,426,439,469,473,492;Phosphorylation:93,94,97,101,104,106,107,117,119,127,159,185,192,198,203,226,227,228,229,273,277,296,338,341,365,468;SUMOylation:116;Ubiquitylation:116,181,193,218,223,234,294,298,346,447,456,487

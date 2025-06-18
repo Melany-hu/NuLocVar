@@ -1,0 +1,25 @@
+UniprotID	Q9H7B4-3
+Accession	Q9H7B4;A8K0P0;B1AN38;Q86TL8;Q8N5Z6;Q96AI5
+EntryName	SMYD3_HUMAN
+ProteinName	Histone-lysine N-methyltransferase SMYD3 (EC 2.1.1.354) (SET and MYND domain-containing protein 3) (Zinc finger MYND domain-containing protein 1)
+GeneName	SMYD3 ZMYND1 ZNFN3A1
+Length	369
+Function	Histone methyltransferase. Specifically methylates 'Lys-4' of histone H3, inducing di- and tri-methylation, but not monomethylation (PubMed:15235609, PubMed:22419068). Also methylates 'Lys-5' of histone H4 (PubMed:22419068). Plays an important role in transcriptional activation as a member of an RNA polymerase complex (PubMed:15235609). Binds DNA containing 5'-CCCTCC-3' or 5'-GAGGGG-3' sequences (PubMed:15235609).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRCSQCRVAKYCSAKCQKKAWPDHKRECKCLKSCKPRYPPDSVRLLGRVVFKLMDGAPSESEKLYSFYDLESNINKLTEDKKEGLRQLVMTFQHFMREEIQDASQLPPAFDLFEAFAKVICNSFTICNAEMQEVGVGLYPSISLLNHSCDPNCSIVFNGPHLLLRAVRDIEVGEELTICYLDMLMTSEERRKQLRDQYCFECDCFRCQTQDKDADMLTGDEQVWKEVQESLKKIEELKAHWKWEQVLAMCQAIISSNSERLPDINIYQLKVLDCAMDACINLGLLEEALFYGTRTMEPYRIFFPGSHPVRGVQVMKVGKLQLHQGMFPQAMKNLRLAFDIMRVTHGREHSLIEDLILLLEECDANIRAS
+PTM	Acetylation:42,69,74,291;Methylation:56,177,284,297;Phosphorylation:22,33;SUMOylation:5,378;Ubiquitylation:42,74,122,297,375,378,391

@@ -1,0 +1,25 @@
+UniprotID	C9JPH0
+Accession	C9JPH0
+EntryName	C9JPH0_HUMAN
+ProteinName	cAMP responsive element binding protein 3 like 2
+GeneName	CREB3L2
+Length	185
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVEPSPTSPAPLIQAEHSYSLCEEPRAQSPFTHITTSDSFNDDEVESEKWYLSTDFPSTSIKTEPVTDEPPPGLVPSVTLTITAISTPLEKEEPPLEMNTGVDSSCQTIIPKIKLEPHEVDQFLNFSPKEGLSALPVSLWVMDMVSGSTEREYGERAGMSLYHRCCSWLYEIALFLKNKNFASK
+PTM	

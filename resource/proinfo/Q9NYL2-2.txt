@@ -1,0 +1,25 @@
+UniprotID	Q9NYL2-2
+Accession	Q9NYL2;B3KPG2;Q53SX1;Q580W8;Q59GY5;Q86YW8;Q9HCC4;Q9HCC5;Q9HDD2;Q9NYE9
+EntryName	M3K20_HUMAN
+ProteinName	Mitogen-activated protein kinase kinase kinase 20 (EC 2.7.11.25) (Human cervical cancer suppressor gene 4 protein) (HCCS-4) (Leucine zipper- and sterile alpha motif-containing kinase) (MLK-like mitogen-activated protein triple kinase) (Mitogen-activated protein kinase kinase kinase MLT) (Mixed lineage kinase 7) (Mixed lineage kinase-related kinase) (MLK-related kinase) (MRK) (Sterile alpha motif- and leucine zipper-containing kinase AZK)
+GeneName	MAP3K20 MLK7 MLTK ZAK HCCS4
+Length	455
+Function	Stress-activated component of a protein kinase signal transduction cascade that promotes programmed cell death in response to various stress, such as ribosomal stress, osmotic shock and ionizing radiation (PubMed:10924358, PubMed:11836244, PubMed:12220515, PubMed:14521931, PubMed:15350844, PubMed:15737997, PubMed:18331592, PubMed:20559024, PubMed:26999302, PubMed:32289254, PubMed:32610081, PubMed:35857590). Acts by catalyzing phosphorylation of MAP kinase kinases, leading to activation of the JNK (MAPK8/JNK1, MAPK9/JNK2 and/or MAPK10/JNK3) and MAP kinase p38 (MAPK11, MAPK12, MAPK13 and/or MAPK14) pathways (PubMed:11042189, PubMed:11836244, PubMed:12220515, PubMed:14521931, PubMed:15172994, PubMed:15737997, PubMed:32289254, PubMed:32610081, PubMed:35857590). Activates JNK through phosphorylation of MAP2K4/MKK4 and MAP2K7/MKK7, and MAP kinase p38 gamma (MAPK12) via phosphorylation of MAP2K3/MKK3 and MAP2K6/MKK6 (PubMed:11836244, PubMed:12220515). Involved in stress associated with adrenergic stimulation: contributes to cardiac decompensation during periods of acute cardiac stress (PubMed:15350844, PubMed:21224381, PubMed:27859413). May be involved in regulation of S and G2 cell cycle checkpoint by mediating phosphorylation of CHEK2 (PubMed:15342622).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSLGASFVQIKFDDLQFFENCGGGSFGSVYRAKWISQDKEVAVKKLLKIEKEAEILSVLSHRNIIQFYGVILEPPNYGIVTEYASLGSLYDYINSNRSEEMDMDHIMTWATDVAKGMHYLHMEAPVKVIHRDLKSRNVVIAADGVLKICDFGASRFHNHTTHMSLVGTFPWMAPEVIQSLPVSETCDTYSYGVVLWEMLTREVPFKGLEGLQVAWLVVEKNERLTIPSSCPRSFAELLHQCWEADAKKRPSFKQIISILESMSNDTSLPDKCNSFLHNKAEWRCEIEATLERLKKLERDLSFKEQELKERERRLKMWEQKLTEQSNTPLLLPLAARMSEESYFESKTEESNSAEMSCQITATSNGEGHGMNPSLQAMMLMGFGDIFSMNKAGAVMHSGMQINMQAKQNSSKTTSKRRGKKVNMALGFSDFDLSEGDDDDDDDGEEEDNDMDNSE
+PTM	Acetylation:623,713;Methylation:12,148,221,304,309,394,406,489,544,623,670,672,683,693,695,776;Phosphorylation:2,3,7,120,136,252,258,262,264,268,275,302,357,358,362,366,374,507,509,513,515,516,518,522,563,565,567,568,584,586,587,591,593,599,603,610,624,628,633,635,636,637,639,641,644,648,649,661,666,667,668,685,687,690,691,696,697,700,706,718,720,727,733,754,761,781;SUMOylation:623;Ubiquitylation:304,309,321

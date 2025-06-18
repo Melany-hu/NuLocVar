@@ -1,0 +1,25 @@
+UniprotID	Q96IF1-2
+Accession	Q96IF1;A8MX18;D3DS37
+EntryName	AJUBA_HUMAN
+ProteinName	LIM domain-containing protein ajuba
+GeneName	AJUBA JUB
+Length	121
+Function	Adapter or scaffold protein which participates in the assembly of numerous protein complexes and is involved in several cellular processes such as cell fate determination, cytoskeletal organization, repression of gene transcription, mitosis, cell-cell adhesion, cell differentiation, proliferation and migration. Contributes to the linking and/or strengthening of epithelia cell-cell junctions in part by linking adhesive receptors to the actin cytoskeleton. May be involved in signal transduction from cell adhesion sites to the nucleus. Plays an important role in regulation of the kinase activity of AURKA for mitotic commitment. Also a component of the IL-1 signaling pathway modulating IL-1-induced NFKB1 activation by influencing the assembly and activity of the PRKCZ-SQSTM1-TRAF6 multiprotein signaling complex. Functions as an HDAC-dependent corepressor for a subset of GFI1 target genes. Acts as a transcriptional corepressor for SNAI1 and SNAI2/SLUG-dependent repression of E-cadherin transcription. Acts as a hypoxic regulator by bridging an association between the prolyl hydroxylases and VHL enabling efficient degradation of HIF1A. Positively regulates microRNA (miRNA)-mediated gene silencing. Negatively regulates the Hippo signaling pathway and antagonizes phosphorylation of YAP1.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell membrane; Cell junction; Nucleus; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	280..288
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKSYHPGCFRCIVCNKCLDGIPFTVDFSNQVYCVTDYHKNYAPKCAACGQPILPSEGCEDIVRVISMDRDYHFECYHCEDCRMQLSDEEGCCCFPLDGHLLCHGCHMQRLNARQPPANYI
+PTM	Methylation:14,413;Phosphorylation:30,39,47,53,69,79,85,104,114,119,122,123,126,127,128,130,133,136,137,141,155,159,166,175,196,215,227,230,231,237,263,265,334;SUMOylation:7,14,35,134;Ubiquitylation:14,35

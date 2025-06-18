@@ -1,0 +1,25 @@
+UniprotID	E9PMH1
+Accession	E9PMH1
+EntryName	E9PMH1_HUMAN
+ProteinName	MutY DNA glycosylase
+GeneName	MUTYH
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1...5
+validnes_region	
+nesbase_region	
+Sequence	MRKPRAAVGSGHRKQAASQEGRQKHAKNNSQAKPSACDAGLARQPEEVVLQASVSSYHLFRDVAEVTAFRGSLLSWYDQEKRDLPWRRRAEDEMDLDRRAYAGGESTLGWPGLLFSWPAAAGGSSEGGRGARGPHATYSRDPAAAPAWRGALHSWGHCLYRLWPGNRCGGWQRSTGAVPCPSHWC
+PTM	

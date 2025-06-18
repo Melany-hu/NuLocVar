@@ -1,0 +1,25 @@
+UniprotID	F5GXU9
+Accession	F5GXU9
+EntryName	F5GXU9_HUMAN
+ProteinName	2-oxoisovalerate dehydrogenase subunit alpha (EC 1.2.4.4) (Branched-chain alpha-keto acid dehydrogenase E1 component alpha chain)
+GeneName	BCKDHA
+Length	328
+Function	Together with BCKDHB forms the heterotetrameric E1 subunit of the mitochondrial branched-chain alpha-ketoacid dehydrogenase (BCKD) complex. The BCKD complex catalyzes the multi-step oxidative decarboxylation of alpha-ketoacids derived from the branched-chain amino-acids valine, leucine and isoleucine producing CO2 and acyl-CoA which is subsequently utilized to produce energy. The E1 subunit catalyzes the first step with the decarboxylation of the alpha-ketoacid forming an enzyme-product intermediate. A reductive acylation mediated by the lipoylamide cofactor of E2 extracts the acyl group from the E1 active site for the next step of the reaction.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVAIAAARVWRLNRGLSQAALLLLRQPGARGLARSHPPRQQQQFSSLDDKPQFPGASAEFIDKLEFIQPNVISGIPIYRVMDRQGQIINPSEDPHGRISFYMTNYGEEGTHVGSAAALDNTDLVFGQYREAGVLMYRDYPLELFMAQCYGNISDLGKGRQMPVHYGCKERHFVTISSPLATQIPQAVGAAYAAKRANANRVVICYFGEGAASEGDAHAGFNFAATLECPIIFFCRNNGYAISTPTSEQYRGDGIAARGPGYGIMSIRVDGNDVFAVYNATKEARRRAVAENQPFLIEAMTYRIGHHSTSDDSSAYRSVDEVNYWDKQ
+PTM	

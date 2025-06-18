@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BH64
+Accession	A0AAQ5BH64
+EntryName	A0AAQ5BH64_HUMAN
+ProteinName	Thioredoxin related transmembrane protein 2
+GeneName	TMX2
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVLAPLIALVYSVPRLSRWLAQPYYLLSALLSAAFLLVRKLPPLCHGLPTQREDGNPCDFDWREVEILMFLSAIVMMKNRRSNTTVQG
+PTM	

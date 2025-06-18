@@ -1,0 +1,25 @@
+UniprotID	H0YK62
+Accession	H0YK62
+EntryName	H0YK62_HUMAN
+ProteinName	Aquaporin 9
+GeneName	AQP9
+Length	230
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVAMAIYVAGGVSGGHINPAVSLAMCLFGRMKWFKLPFYVGAQFLGAFVGAATVFGIYYDGLMSFAGGKLLIVGENATAHIFATYPAPYLSLANAFADQVVATMILLIIVFAIFDSRNLGAPRGLEPIAIGLLIIVIASSLGLNSGCAMNPARDLSPRLFTALAGWGFEVFRAGNNFWWIPVVGPLVGAVIGGLIYVLVIEIHHPEPDSVFKTEQSEDKPEKYELSVIM
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YK61
+Accession	H0YK61
+EntryName	H0YK61_HUMAN
+ProteinName	ER membrane protein complex subunit 4
+GeneName	EMC4
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAQGGLVANRGRRFKWAIELSGPGGGSRGRSDRGSGQGDSLYPVGYLDKQVPDTSVQETDRILVEKRMEFSGGGLLL
+PTM	

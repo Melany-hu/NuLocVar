@@ -1,0 +1,25 @@
+UniprotID	B4DNS9
+Accession	B4DNS9
+EntryName	B4DNS9_HUMAN
+ProteinName	Ninjurin 2 (cDNA FLJ52244, weakly similar to Ninjurin-2)
+GeneName	NINJ2
+Length	90
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLDVALFMSNAMRLKAVLEQGPSSHYYTTLVTLISLSLLLQVVIGVLLVVIGEEPSLQSDLLPRHPWLAERPHVSPGPPCIGTGSFATTR
+PTM	

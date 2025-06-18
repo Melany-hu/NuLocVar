@@ -1,0 +1,25 @@
+UniprotID	H0YHW0
+Accession	H0YHW0
+EntryName	H0YHW0_HUMAN
+ProteinName	Zinc finger DHHC-type palmitoyltransferase 17
+GeneName	ZDHHC17
+Length	35
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NTKMADGPDEYDTEAGCVPLLHPEFEMELRSCCPG
+PTM	

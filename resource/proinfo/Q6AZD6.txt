@@ -1,0 +1,25 @@
+UniprotID	Q6AZD6
+Accession	Q6AZD6
+EntryName	Q6AZD6_HUMAN
+ProteinName	tRNA (34-2'-O)-methyltransferase regulator WDR6 (WD repeat-containing protein 6)
+GeneName	WDR6
+Length	484
+Function	Together with methyltransferase FTSJ1, methylates the 2'-O-ribose of nucleotides at position 34 of the tRNA anticodon loop of substrate tRNAs. Required for the correct positioning of the substrate tRNA for methylation. Required to suppress amino acid starvation-induced autophagy. Enhances the STK11/LKB1-induced cell growth suppression activity.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VVWNPRSHEKLHIVNCGGGHRSWAFSDTEAAMAFAYLKDGDVMLYRALGGCTRPHVILREGLHGREITCVKRVGTITLGPEYGVPSFMQPDDLEPGSEGPDLTDIVITCSEDTTVCVLALPTTTGSAHALTAVCNHISSVRAVAVWGIGTPGGPQDPQPGLTAHVVSAGGRAEMHCFSIMVTPDPSTPSRLACHVMHLSSHRLDEYWDRQRNRHRMVKVDPETRYMSLAVCELDQPGLGPLVAAACSDGAVRLFLLQDSGRILQLLAETFHHKRCVLKVHSFTHEAPNQRRRLLLCSAATDGSLAFWDLTTMLDHDSTVLEPPVDPGLPYRLGTPSLTLQAHSCGINSLHTLPTREGHHLVASGSEDGSLHVFVLAVEMLQLEEAVGEAGLVPQLRVLEEYSVPCAHAAHVTGLKILSPSIMVSASIDQRLTFWRLGHGEPTFMNSTVFHVPDVADMDCWPVSPEFGHRCALGGQGLEVYNWYD
+PTM	

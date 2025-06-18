@@ -1,0 +1,25 @@
+UniprotID	A8MY26
+Accession	A8MY26
+EntryName	A8MY26_HUMAN
+ProteinName	VPS26 endosomal protein sorting factor C (cDNA FLJ53689, highly similar to Down syndrome critical region protein 3)
+GeneName	VPS26C
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTALDIKIKRANKVYHAGPQKGKFTPSPVDFTITPETLQNVKERALLPKFLLRGHLNSTNCVITQPLTGELVVESSEAAIRSVELQLVRVETCGCAEGYARDATEIQNIQIADGDVCRGLSVPIYMVFPRLFTCPTLETTNFKVEFEVNIVVLLHPDHLITENFPLKLCRI
+PTM	

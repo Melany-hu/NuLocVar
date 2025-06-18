@@ -1,0 +1,25 @@
+UniprotID	H9ZYI9
+Accession	H9ZYI9
+EntryName	H9ZYI9_HUMAN
+ProteinName	GA binding protein transcription factor beta subunit 1 transcript variant gamma-2 (GA binding protein transcription factor subunit beta 1) (GA binding protein transcription factor, beta subunit 2, isoform CRA_c)
+GeneName	GABPB1 GABPB2 hCG_2002404
+Length	347
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLVDLGKKLLEAARAGQDDEVRILMANGAPFTTDWLGTSPLHLAAQYGHYSTTEVLLRAGVSRDARTKVDRTPLHMAASEGHASIVEVLLKHGADVNAKDMLKMTALHWATEHNHQEVVELLIKYGADVHTQSKFCKTAFDISIDNGNEDLAEILQIAMQNQINTNPESPDTVTIHAATPQFIIGPGGVVNLTDETGVSAVQFGNSSTSVLATLAALAEASAPLSNSSETPVATEEVVTAESVDGAIQQVVSSGGQQVITIVTDGIQLGNLHSIPTSGIGQPIIVTMPDGQQVLTVPATDIAEETVISEEPPAKRQCIEIIENRVESAEIEVRSLLPGVLCRSHPK
+PTM	

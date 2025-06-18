@@ -1,0 +1,25 @@
+UniprotID	Q96TC7-2
+Accession	Q96TC7;A9UMZ9;B3KRR3;Q6ZWE9;Q96H23;Q96SD6;Q9H6G1;Q9NVQ6
+EntryName	RMD3_HUMAN
+ProteinName	Regulator of microtubule dynamics protein 3 (RMD-3) (hRMD-3) (Cerebral protein 10) (Protein FAM82A2) (Protein FAM82C) (Protein tyrosine phosphatase-interacting protein 51) (TCPTP-interacting protein 51)
+GeneName	RMDN3 FAM82A2 FAM82C PTPIP51 hucep-10 UNQ3122/PRO10274
+Length	341
+Function	Involved in cellular calcium homeostasis regulation. May participate in differentiation and apoptosis of keratinocytes. Overexpression induces apoptosis.
+Subcellular Location	Mitochondrion outer membrane; Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEENQRVARRRRFPFVRERSDSTGSSSVYFTASSGATFTDAESEGGYTTANAESDNERDSDKESEDGEDEVSCETVKMGRKDSLDLEEEAASGASSALEAGGSSGLEDVLPLLQQADELHRGDEQGKREGFQLLLNNKLVYGSRQDFLWRLARAYSDMCELTEEVSEKKSYALDGKEEAEAALEKGDESADCHLWYAVLCGQLAEHESIQRRIQSGFSFKEHVDKAIALQPENPMAHFLLGRWCYQVSHLSWLEKKTATALLESPLSATVEDALQSFLKAEELQPGFSKAGRVYISKCYRELGKNSEARWWMKLALELPDVTKEDLAIQKDLEELEVILRD
+PTM	Acetylation:426;Methylation:297,314,408;Phosphorylation:44,46,50,53,54,56,57,77,81,113,114,189,193,212,221,224,225,272,344,347,405;SUMOylation:210;Ubiquitylation:89,305,349,385,418

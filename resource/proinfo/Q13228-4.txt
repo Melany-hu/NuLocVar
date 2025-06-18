@@ -1,0 +1,25 @@
+UniprotID	Q13228-4
+Accession	Q13228;A6NML9;A6PVW9;B2RDR3;B4DKP6;B4E1F3;Q49AQ8;Q96GX7
+EntryName	SBP1_HUMAN
+ProteinName	Methanethiol oxidase (MTO) (EC 1.8.3.4) (56 kDa selenium-binding protein) (SBP56) (SP56) (Selenium-binding protein 1)
+GeneName	SELENBP1 SBP
+Length	514
+Function	Catalyzes the oxidation of methanethiol, an organosulfur compound known to be produced in substantial amounts by gut bacteria (PubMed:29255262). Selenium-binding protein which may be involved in the sensing of reactive xenobiotics in the cytoplasm. May be involved in intra-Golgi protein transport (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cytosol; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	336...341
+validnes_region	
+nesbase_region	
+Sequence	MRLEWGPRPAALPWPAGMCAAERAEGAFTLQSVAQPMRPIASTATKCGNCGPGYSTPLEAMKGPREEIVYLPCIYRNTGTEAPDYLATVDVDPKSPQYCQVIHRLPMPNLKDELHHSGWNTCSSCFGDSTKSRTKLVLPSLISSRIYVVDVGSEPRAPKLHKVIEPKDIHAKCELAFLHTSHCLASGEVMISSLGDVKGNGKGGFVLLDGETFEVKGTWERPGGAAPLGYDFWYQPRHNVMISTEWAAPNVLRDGFNPADVEAGLYGSHLYVWDWQRHEIVQTLSLKDGLIPLEIRFLHNPDAAQGFVGCALSSTIQRFYKNEGGTWSVEKVIQVPPKKVKGWLLPEMPGLITDILLSLDDRFLYFSNWLHGDLRQYDISDPQRPRLTGQLFLGGSIVKGGPVQVLEDEELKSQPEPLVVKGKRVAGGPQMIQLSLDGKRLYITTSLYSAWDKQFYPDLIREGSVMLQVDVDTVKGGLKLNPNFLVDFGKEPLGPALAHELRYPGGDCSSDIWI
+PTM	Acetylation:4,93,117,120,125,296,379,397;Methylation:370,379;Phosphorylation:12,53,111,241,243,286,371,422;SUMOylation:69,93,279,370,379;Ubiquitylation:93,245

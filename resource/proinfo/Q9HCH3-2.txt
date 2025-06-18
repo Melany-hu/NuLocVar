@@ -1,0 +1,25 @@
+UniprotID	Q9HCH3-2
+Accession	Q9HCH3;Q7Z6C8
+EntryName	CPNE5_HUMAN
+ProteinName	Copine-5 (Copine V)
+GeneName	CPNE5 KIAA1599
+Length	301
+Function	Probable calcium-dependent phospholipid-binding protein that may play a role in calcium-mediated intracellular processes (By similarity). Plays a role in dendrite formation by melanocytes (PubMed:23999003).
+Subcellular Location	Perikaryon; Cell projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKKKKYVNSGTVTLLSFAVESECTFLDYIKGGTQINFTVAIDFTASNGNPSQSTSLHYMSPYQLNAYALALTAVGEIIQHYDSDKMFPALGFGAKLPPDGRVSHEFPLNGNQENPSCCGIDGILEAYHRSLRTVQLYGPTNFAPVVTHVARNAAAVQDGSQYSVLLIITDGVISDMAQTKEAIVNAAKLPMSIIIVGVGQAEFDAMVELDGDDVRISSRGKLAERDIVQFVPFRDYVDRTGNHVLSMARLARDVLAEIPDQLVSYMKAQGIRPRPPPAAPTHSPSQSPARTPPASPLHTHI
+PTM	Methylation:37,108,480;Phosphorylation:509,557,573,575,577,579,583,587,591;Ubiquitylation:102,196

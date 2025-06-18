@@ -1,0 +1,25 @@
+UniprotID	Q9UBF9-2
+Accession	Q9UBF9;A0A4R6;B4DT79
+EntryName	MYOTI_HUMAN
+ProteinName	Myotilin (57 kDa cytoskeletal protein) (Myofibrillar titin-like Ig domains protein) (Titin immunoglobulin domain protein)
+GeneName	MYOT TTID
+Length	314
+Function	Component of a complex of multiple actin cross-linking proteins. Involved in the control of myofibril assembly and stability at the Z lines in muscle cells.
+Subcellular Location	Cell membrane; Sarcolemma; Cytoplasm; Cytoskeleton; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARRLLGPQNAAAVFQAQDDSGAQDSQQHNSEHARLQVPTSQVRSRSTSRGDVNDQDAIQEKFYPPRFIQVPENMSIDEGRFCRMDFKVSGLPAPDVSWYLNGRTVQSDDLHKMIVSEKGLHSLIFEVVRASDAGAYACVAKNRAGEATFTVQLDVLAKEHKRAPMFIYKPQSKKVLEGDSVKLECQISAIPPPKLFWKRNNEMVQFNTDRISLYQDNTGRVTLLIKDVNKKDAGWYTVSAVNEAGVTTCNTRLDVTARPNQTLPAPKQLRVRPTFSKYLALNGKGLNVKQAFNPEGEFQRLAAQSGLYESEEL
+PTM	Methylation:246,383,411,474;Phosphorylation:30,39,92,145,180,224,225,231,232,233,289,399,403,441,447,461

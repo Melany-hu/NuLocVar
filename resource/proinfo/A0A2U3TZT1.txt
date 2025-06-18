@@ -1,0 +1,25 @@
+UniprotID	A0A2U3TZT1
+Accession	A0A2U3TZT1
+EntryName	A0A2U3TZT1_HUMAN
+ProteinName	Small integral membrane protein 29
+GeneName	SMIM29
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYRRKSGWTGCAITCSPCTAMTQLRNCMRLSRSCSLTWETPRWYMAGRVATSTSGCHCWMSRRDLTPLPHPSEPGVLDCLGPCHLLPLLSPGSPCWVLGLHFSLHPPSAASASHALTITSLPPGLLPFVGVELTAHPQALMGRGFPSGMGAAGRHLCFL
+PTM	

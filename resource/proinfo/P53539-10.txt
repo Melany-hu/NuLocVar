@@ -1,0 +1,25 @@
+UniprotID	P53539-10
+Accession	P53539;A8K9K5;A8VJE1;A8VJE6;A8VJF0;A8VJF3;A8VJF7;A8VJG1;A8VJG5;A8VJG9;E7EPR6;E9PHJ3;K7EKC1;K7EMJ6;Q49AD7
+EntryName	FOSB_HUMAN
+ProteinName	Protein FosB (FosB proto-oncogene, AP-1 transcription factor subunit) (G0/G1 switch regulatory protein 3) (Transcription factor AP-1 subunit FosB)
+GeneName	FOSB G0S3
+Length	289
+Function	Heterodimerizes with proteins of the JUN family to form an AP-1 transcription factor complex, thereby enhancing their DNA binding activity to gene promoters containing an AP-1 consensus sequence 5'-TGATCA-3' and enhancing their transcriptional activity (PubMed:12618758, PubMed:28981703). As part of the AP-1 complex, facilitates enhancer selection together with cell-type-specific transcription factors by collaboratively binding to nucleosomal enhancers and recruiting the SWI/SNF (BAF) chromatin remodeling complex to establish accessible chromatin (By similarity). Together with JUN, plays a role in activation-induced cell death of T cells by binding to the AP-1 promoter site of FASLG/CD95L, and inducing its transcription in response to activation of the TCR/CD3 signaling pathway (PubMed:12618758). Exhibits transactivation activity in vitro (By similarity). Involved in the display of nurturing behavior towards newborns (By similarity). May play a role in neurogenesis in the hippocampus and in learning and memory-related tasks by regulating the expression of various genes involved in neurogenesis, depression and epilepsy (By similarity). Implicated in behavioral responses related to morphine reward and spatial memory (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGSFVPTVTAITTSQDLQWLVQPTLISSMAQSQGQPLASQPPVVDPYDMPGTSYSTPGMSGYSSGGASGSGGPSTSGTTSGPGPARPARARPRRPREETLTPEEEEKRRVRRERNKLAAAKCRNRRRELTDRLQAETDQLEEEKAELESEIAELQKEKERLEFVLVAHKPGCKIPYEEGPGPGPLAEVRDLPGSAPAKEDGFSWLLPPPPPPPLPFQTSQDAPPNLTASLFTHSEVQVLGDPFPVVNPSYTSSFVLTCPEVSAFAGAQRTSGSDQPSDPLNSPSLLAL
+PTM	Methylation:206;Phosphorylation:151

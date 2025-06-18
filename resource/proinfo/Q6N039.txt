@@ -1,0 +1,25 @@
+UniprotID	Q6N039
+Accession	Q6N039
+EntryName	Q6N039_HUMAN
+ProteinName	Transmembrane and coiled-coil domain family 1 (Uncharacterized protein DKFZp686H13261) (cDNA FLJ42680 fis, clone BRAMY2040592, highly similar to Transmembrane and coiled-coil domains protein 1)
+GeneName	TMCC1 DKFZp686H13261
+Length	329
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHQGLKDVGAKVTGFSEGVVDSVKGGFSSFSQATHSAAGAVVSKPREIASLIRNKFGSADNIPNLKDSLEEGQVDDAGKALGVISNFQSSPKYGSEEDCSSATSGSVGANSTTGGIAVGASSSKTNTLDMQSSGFDALLHEIQEIRETQARLEESFETLKEHYQRDYSLIMQTLQEERYRCERLEEQLNDLTELHQNEILNLKQELASMEEKIAYQSYERARDIQEALEACQTRISKMELQQQQQQVVQLEGLENATARNLLGKLINILLAVMAVLLVFVSTVANCVVPLMKTRNRTFSTLFLVVFIAFLWKHWDALFSYVERFFSSPR
+PTM	

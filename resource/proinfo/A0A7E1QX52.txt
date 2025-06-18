@@ -1,0 +1,25 @@
+UniprotID	A0A7E1QX52
+Accession	A0A7E1QX52
+EntryName	A0A7E1QX52_HUMAN
+ProteinName	Transmembrane protein 155
+GeneName	TMEM155
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASDLIRTILAVALISKLGTAVDAELMPSGAILQNKRENLPRVCHALAFLGMARCQDLFLVRLQGWKLGTRFQDGPRSTPQEEGGSPQRKRGMPVQIHFLLKSFLSSPITFAFISLARTVSLATAICKIV
+PTM	

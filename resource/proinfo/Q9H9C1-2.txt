@@ -1,0 +1,25 @@
+UniprotID	Q9H9C1-2
+Accession	Q9H9C1;B4DPI6;O95434;Q9H7E1;Q9H9I9
+EntryName	SPE39_HUMAN
+ProteinName	Spermatogenesis-defective protein 39 homolog (hSPE-39) (VPS33B-interacting protein in apical-basolateral polarity regulator) (VPS33B-interacting protein in polarity and apical restriction)
+GeneName	VIPAS39 C14orf133 SPE39 VIPAR
+Length	444
+Function	Proposed to be involved in endosomal maturation implicating in part VPS33B. In epithelial cells, the VPS33B:VIPAS39 complex may play a role in the apical RAB11A-dependent recycling pathway and in the maintenance of the apical-basolateral polarity (PubMed:20190753). May play a role in lysosomal trafficking, probably via association with the core HOPS complex in a discrete population of endosomes; the functions seems to be independent of VPS33B (PubMed:19109425). May play a role in vesicular trafficking during spermatogenesis (By similarity). May be involved in direct or indirect transcriptional regulation of E-cadherin (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Early endosome; Recycling endosome; Late endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRTKGDEEEYWNSSKFKAFTFDDEDDELSQLKESKRAVNSLRDFVDDDDDDDLERVSWSGEPVGSRTRPGSFQSLSDALSDTPAKSYAPELGRPKGEYRDYSNDWSPSDTVRRLRKGKVCSLERFRSLQDKLQLLEEAVSMHDGNVITAVLIFLKRTLSKEILFRELEVRQVALRHLIHFLKEIGDQKLLLDLFRFLDRTEELALSHYREHLNIQDPDKRKEFLKTCVGLPFSAEDSAHIQDHYTLLERQIIIEANDRHLESAGQTEIFRKHPRKASILNMPLVTTLFYSCFYHYTEAEGTFSSPVNLKKTFKIPDKQYVLTALAARAKLRAWNDVDALFTTKNWLGYTKKRAPIGFHRVVEILHKNNAPVQILQEYVNLVEDVDTKLNLATKFKCHDVVIDTYRDLKDRQQLLAYRSKVDKGSAEEEKIDALLSSSQIRWKN
+PTM	Acetylation:16,443;Methylation:89,114,135,181,275,321,359;Phosphorylation:11,21,30,90,93,97,104,105,106,108,111,117,121,124,126,130,132,369,391,392,398,466;SUMOylation:18,33,145,437;Ubiquitylation:145,168,400

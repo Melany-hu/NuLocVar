@@ -1,0 +1,25 @@
+UniprotID	Q9P1U1-3
+Accession	Q9P1U1;A8MTG1;B4DFW4;Q7Z526;Q96BT2
+EntryName	ARP3B_HUMAN
+ProteinName	Actin-related protein 3B (ARP3-beta) (Actin-like protein 3B) (Actin-related protein ARP4)
+GeneName	ACTR3B ARP11 ARP4
+Length	348
+Function	Plays a role in the organization of the actin cytoskeleton. May function as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. May decrease the metastatic potential of tumors.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSLPPCVVDCGTGYTKLGYAGNTEPQFIIPSCIAIRESAKVVDQAQRRVLRGVDDLDFFIGDEAIDKPTYATKWPIRHGIIEDWDLMERFMEQVVFKYLRAEPEDHYFLMTEPPLNTPENREYLAEIMFESFNVPGLYIAVQAVLALAASWTSRQVGERTLTGIVIDSGDGVTHVIPVAEGYVIGSCIKHIPIAGRDITYFIQQLLREREVGIPPEQSLETAKAIKEKYCYICPDIVKEFAKYDVDPRKWIKQYTGINAINQKKFVIDVGYERFLGPEIFFHPEFANPDFMESISDVVDEVIQNCPIDVRRPLYKPEFFQVCHTKKDYEEYGPSICRHNPVFGVMS
+PTM	Acetylation:69,75,191;Methylation:225,240,265;Phosphorylation:16,202,350,354,418;SUMOylation:75;Ubiquitylation:18,69,75,191,230,240,254,265

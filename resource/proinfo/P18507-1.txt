@@ -1,0 +1,25 @@
+UniprotID	P18507-1
+Accession	P18507;F5HB82;Q6GRL6;Q6PCC3;Q9UDB3;Q9UN15
+EntryName	GBRG2_HUMAN
+ProteinName	Gamma-aminobutyric acid receptor subunit gamma-2 (GABA(A) receptor subunit gamma-2) (GABAAR subunit gamma-2)
+GeneName	GABRG2
+Length	467
+Function	Gamma subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain (PubMed:14993607, PubMed:16412217, PubMed:23909897, PubMed:2538761, PubMed:25489750, PubMed:27864268, PubMed:29950725, PubMed:30602789). GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s) (PubMed:29950725, PubMed:30602789). When activated by GABA, GABAARs selectively allow the flow of chloride anions across the cell membrane down their electrochemical gradient (PubMed:14993607, PubMed:16412217, PubMed:2538761, PubMed:27864268, PubMed:29950725, PubMed:30602789). Gamma-2/GABRG2-containing GABAARs are found at both synaptic and extrasynaptic sites (By similarity). Chloride influx into the postsynaptic neuron following GABAAR opening decreases the neuron ability to generate a new action potential, thereby reducing nerve transmission (By similarity). GABAARs containing alpha-1 and beta-2 or -3 subunits exhibit synaptogenic activity; the gamma-2 subunit being necessary but not sufficient to induce rapid synaptic contacts formation (PubMed:23909897, PubMed:25489750). Extrasynaptic gamma-2-containing receptors contribute to the tonic GABAergic inhibition (By similarity). GABAARs function also as histamine receptor where histamine binds at the interface of two neighboring beta subunits and potentiates GABA response in a gamma-2 subunit-controlled manner (By similarity).
+Subcellular Location	Postsynaptic cell membrane; Cell membrane; Cell projection; Dendrite; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSPNIWSTGSSVYSTPVFSQKMTVWILLLLSLYPGFTSQKSDDDYEDYASNKTWVLTPKVPEGDVTVILNNLLEGYDNKLRPDIGVKPTLIHTDMYVNSIGPVNAINMEYTIDIFFAQTWYDRRLKFNSTIKVLRLNSNMVGKIWIPDTFFRNSKKADAHWITTPNRMLRIWNDGRVLYTLRLTIDAECQLQLHNFPMDEHSCPLEFSSYGYPREEIVYQWKRSSVEVGDTRSWRLYQFSFVGLRNTTEVVKTTSGDYVVMSVYFDLSRRMGYFTIQTYIPCTLIVVLSWVSFWINKDAVPARTSLGITTVLTMTTLSTIARKSLPKVSYVTAMDLFVSVCFIFVFSALVEYGTLHYFVSNRKPSKDKDKKKKNPAPTIDIRPRSATIQMNNATHLQERDEEYGYECLDGKDCASFFCCFEDCRTGAWRHGRIHIRIAKMDSYARIFFPTAFCLFNLVYWVSYLYL
+PTM	Methylation:41,60,88,253;Phosphorylation:225,234,314,317,319;Ubiquitylation:223,440

@@ -1,0 +1,25 @@
+UniprotID	P49640-2
+Accession	P49640;A4D199;B4DQJ0
+EntryName	EVX1_HUMAN
+ProteinName	Homeobox even-skipped homolog protein 1 (EVX-1)
+GeneName	EVX1
+Length	225
+Function	May play a role in the specification of neuronal cell types.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	56...60
+validnes_region	
+nesbase_region	
+Sequence	MRRYRTAFTREQIARLEKEFYRENYVSRPRRCELAAALNLPETTIKVWFQNRRMKDKRQRLAMTWPHPADPAFYTYMMSHAAAAGGLPYPFPSHLPLPYYSPVGLGAASAASAAASPFSGSLRPLDTFRVLSQPYPRPELLCAFRHPPLYPGPAHGLGASAGGPCSCLACHSGPANGLAPRAAAASDFTCASTSRSDSFLTFAPSVLSKASSVALDQREEVPLTR
+PTM	Methylation:22

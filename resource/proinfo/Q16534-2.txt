@@ -1,0 +1,25 @@
+UniprotID	Q16534-2
+Accession	Q16534;A8K1X8;Q6FHS9
+EntryName	HLF_HUMAN
+ProteinName	Hepatic leukemia factor
+GeneName	HLF
+Length	210
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLEEFLSENGIPPSPSQHDHSPHPPGLQPASSAAPSVMDLSSRASAPLHPGIPSPNCMQSPIRPGQLLPANRNTPSPIDPDTIQVPVGYEPDPADLALSSIPGQEMFDPRKRKFSEEELKPQPMIKKARKVFIPDDLKDDKYWARRRKNNMAAKRSRDARRLKENQIAIRASFLEKENSALRQEVADLRKELGKCKNILAKYEARHGPL
+PTM	Methylation:206;Phosphorylation:54,62,201

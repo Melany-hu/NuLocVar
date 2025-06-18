@@ -1,0 +1,25 @@
+UniprotID	Q71RH2-2
+Accession	Q71RH2;Q9H0J1
+EntryName	TLC3B_HUMAN
+ProteinName	Ceramide synthase (EC 2.3.1.-) (Protein FAM57B) (TLC domain-containing protein 3B)
+GeneName	TLCD3B FAM57B FP1188
+Length	224
+Function	Involved in ceramide synthesis.
+Subcellular Location	Golgi apparatus membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASTAGYIVSTSCKHIIDDQHWLSSAYTQFAVPYFIYDIYAMFLCHWHKHQVKGHGGDDGAARAPGSTWAIARGYLHKEFLMVLHHAAMVLVCFPLSVVWRQGKGDFFLGCMLMAEVSTPFVCLGKILIQYKQQHTLLHKVNGALMLLSFLCCRVLLFPYLYWAYGRHAGLPLLAVPLAIPAHVNLGAALLLAPQLYWFFLICRGACRLFWPRSRPPPACQAQD
+PTM	Methylation:20

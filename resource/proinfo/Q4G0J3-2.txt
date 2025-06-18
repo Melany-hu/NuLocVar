@@ -1,0 +1,25 @@
+UniprotID	Q4G0J3-2
+Accession	Q4G0J3;B2ZHN6;Q3B7A9;Q9P1S7;Q9Y3Z8
+EntryName	LARP7_HUMAN
+ProteinName	La-related protein 7 (La ribonucleoprotein domain family member 7) (hLARP7) (P-TEFb-interaction protein for 7SK stability) (PIP7S)
+GeneName	LARP7 HDCMA18P
+Length	214
+Function	RNA-binding protein that specifically binds distinct small nuclear RNA (snRNAs) and regulates their processing and function (PubMed:18249148, PubMed:32017898). Specifically binds the 7SK snRNA (7SK RNA) and acts as a core component of the 7SK ribonucleoprotein (RNP) complex, thereby acting as a negative regulator of transcription elongation by RNA polymerase II (PubMed:18249148, PubMed:18483487). The 7SK RNP complex sequesters the positive transcription elongation factor b (P-TEFb) in a large inactive 7SK RNP complex preventing RNA polymerase II phosphorylation and subsequent transcriptional elongation (PubMed:18249148, PubMed:18483487). The 7SK RNP complex also promotes snRNA gene transcription by RNA polymerase II via interaction with the little elongation complex (LEC) (PubMed:28254838). LARP7 specifically binds to the highly conserved 3'-terminal U-rich stretch of 7SK RNA; on stimulation, remains associated with 7SK RNA, whereas P-TEFb is released from the complex (PubMed:18281698, PubMed:18483487). LARP7 also acts as a regulator of mRNA splicing fidelity by promoting U6 snRNA processing (PubMed:32017898). Specifically binds U6 snRNAs and associates with a subset of box C/D RNP complexes: promotes U6 snRNA 2'-O-methylation by facilitating U6 snRNA loading into box C/D RNP complexes (PubMed:32017898). U6 snRNA 2'-O-methylation is required for mRNA splicing fidelity (PubMed:32017898). Binds U6 snRNAs with a 5'-CAGGG-3' sequence motif (PubMed:32017898). U6 snRNA processing is required for spermatogenesis (By similarity).
+Subcellular Location	Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEEVIPLRVLSKSEWMDLKKEYLALQKASMASLKKTISQIKSESEMETDSGVPQNTGMKNEKTANREECRTQEKVNATGPQFVSGVIVKIISTEPLPGRKQVRDTLAAISEVLYVDLLEGDTECHARFKTPEDAQAVINAYTEINKKHCWKLEILSGDHEQRYWQKILVDRQAKLNQPREKKRGTEKLITKAEKIRLAKTQQASKHIRFSEYD
+PTM	Acetylation:147,318,329,428,431,515,574;Methylation:25,40,63,134,176,181,202,318,322,354,396,458,515,531,560;Phosphorylation:243,244,246,247,249,254,257,258,261,265,266,273,285,286,292,298,299,300,305,310,325,328,337,338,344,350,351,391,398,407,411,413,419;SUMOylation:196,237,348,410,428;Ubiquitylation:88,250,348,515

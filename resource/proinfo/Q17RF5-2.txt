@@ -1,0 +1,25 @@
+UniprotID	Q17RF5-2
+Accession	Q17RF5;B4DTI3;E7ETQ0;Q8TEC3
+EntryName	ODAPH_HUMAN
+ProteinName	Odontogenesis associated phosphoprotein
+GeneName	ODAPH C4orf26
+Length	176
+Function	May promote nucleation of hydroxyapatite.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARRHCFSYWLLVCWLVVTVAEALSTFYLQQHINLHMDKKRYLRLLEIHKIMRTLPTARSLHSPLHLPRGVRSQGPSPSQRHPGVPSIFFHEGPESILGFQTDLSSLQGVTTVFHSSHFIGHTVTLLIGISPEEDSREEAHLRKAEREEKPKHTEAKKSLSFRKKQQKDFCFIFRN
+PTM	

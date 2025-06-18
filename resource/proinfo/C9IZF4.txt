@@ -1,0 +1,25 @@
+UniprotID	C9IZF4
+Accession	C9IZF4
+EntryName	C9IZF4_HUMAN
+ProteinName	HCG14948, isoform CRA_a (Protein phosphatase 4 regulatory subunit 2)
+GeneName	PPP4R2 hCG_14948
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVERLQEALKDFEKRGKKEVCPVLDQFLCHVAKTGETMLASKPWPQVIHLPQLPKLRGLQIRDGVSPC
+PTM	

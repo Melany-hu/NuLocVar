@@ -1,0 +1,25 @@
+UniprotID	Q86VW2-2
+Accession	Q86VW2;A6NJH5;A9CQZ6;F8W7Z4;Q8WV84;Q96E63
+EntryName	ARHGP_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 25 (Guanine nucleotide exchange factor GEFT) (Rac/Cdc42/Rho exchange factor GEFT) (RhoA/Rac/Cdc42 guanine nucleotide exchange factor GEFT) (p63RhoGEF)
+GeneName	ARHGEF25 GEFT
+Length	474
+Function	May play a role in actin cytoskeleton reorganization in different tissues since its activation induces formation of actin stress fibers. It works as a guanine nucleotide exchange factor for Rho family of small GTPases. Links specifically G alpha q/11-coupled receptors to RHOA activation. May be an important regulator of processes involved in axon and dendrite formation. In neurons seems to be an exchange factor primarily for RAC1. Involved in skeletal myogenesis (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Myofibril; Sarcomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLEPALATGEELPELTLLTTLLEGPGDKTQPPEEETLSQAPESEEEQKKKALERSMYVLSELVETEKMYVDDLGQIVEGYMATMAAQGVPESLRGRDRIVFGNIQQIYEWHRDYFLQELQRCLKDPDWLAQLFIKHERRLHMYVVYCQNKPKSEHVVSEFGDSYFEELRQQLGHRLQLNDLLIKPVQRIMKYQLLLKDFLKYYNRAGMDTADLEQAVEVMCFVPKRCNDMMTLGRLRGFEGKLTAQGKLLGQDTFWVTEPEAGGLLSSRGRERRVFLFEQIIIFSEALGGGVRGGTQPGYVYKNSIKVSCLGLEGNLQGDPCRFALTSRGPEGGIQRYVLQAADPAISQAWIKHVAQILESQRDFLNALQSPIEYQRRESQTNSLGRPRGPGVGSPGRIQLGDQAQGSTHTPINGSLPSLLLSPKGEVARALLPLDKQALGDIPQAPHDSPPVSPTPKTPPCQARLAKLDEDEL
+PTM	Methylation:18,290,303,307,531;Phosphorylation:338,374,477,490,501,556,560,565

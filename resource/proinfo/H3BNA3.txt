@@ -1,0 +1,25 @@
+UniprotID	H3BNA3
+Accession	H3BNA3
+EntryName	H3BNA3_HUMAN
+ProteinName	Zinc finger protein 267
+GeneName	ZNF267
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQLRVFRSGRPRRLRVLRINRTSVALRLAGTGRFVAKTPGHPGSWEMNCLG
+PTM	

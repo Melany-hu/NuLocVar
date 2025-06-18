@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GW00
+Accession	A0A1B0GW00
+EntryName	A0A1B0GW00_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 4
+GeneName	ARHGEF4
+Length	142
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKKLRARLALAHKTFSNFIESIVLEKENTHERSPSSPKGEKEKSRLRQGSWRAFLKSKDAGSPKKPTLVSLPLGPEVLSPAETDSHCEERAEDKEGYVFSDHWAPPLASTPLSSSLVSPEHRRKSEPTIKCTATQEGDAKPR
+PTM	

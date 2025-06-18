@@ -1,0 +1,25 @@
+UniprotID	F8W9M2
+Accession	F8W9M2
+EntryName	F8W9M2_HUMAN
+ProteinName	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-containing DEAD/H box 1
+GeneName	SMARCAD1
+Length	70
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLFNLDRFRFEKRNKIEEAPEATPQPSQPGPSSPISLSAEEENAEGEVSRANTPDSDITEKTVSLEGLK
+PTM	

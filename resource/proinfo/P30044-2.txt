@@ -1,0 +1,25 @@
+UniprotID	P30044-2
+Accession	P30044;A6NC19;A6NG06;B7ZLJ4;B7ZVW3;Q14CK0;Q6IAF2;Q9UBU5;Q9UJU4;Q9UKX4
+EntryName	PRDX5_HUMAN
+ProteinName	Peroxiredoxin-5, mitochondrial (EC 1.11.1.24) (Alu corepressor 1) (Antioxidant enzyme B166) (AOEB166) (Liver tissue 2D-page spot 71B) (PLP) (Peroxiredoxin V) (Prx-V) (Peroxisomal antioxidant enzyme) (TPx type VI) (Thioredoxin peroxidase PMP20) (Thioredoxin-dependent peroxiredoxin 5)
+GeneName	PRDX5 ACR1 SBBI10
+Length	162
+Function	Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events.
+Subcellular Location	Mitochondrion; Cytoplasm; Peroxisome matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPIKVGDAIPAVEVFEGEPGNKVNLAELFKGKKGVLFGVPGAFTPGCSKTHLPGFVEQAEALKAKGVQVVACLSVNDAFVTGEWGRAHKAEGKVRLLADPTGAFGKETDLLLDDSLVSIFGNRRLKRFSMVVQDGIVKALNVEPDGTGLTCSLAPNIISQL
+PTM	Acetylation:83,102,116,159;Methylation:75,83,116,159,177,191;Phosphorylation:47,97,101,182;SUMOylation:57,75,86;Ubiquitylation:75,83,86,116

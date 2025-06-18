@@ -1,0 +1,25 @@
+UniprotID	P33947-2
+Accession	P33947;A4D2P4;Q6IPC5;Q96E30
+EntryName	ERD22_HUMAN
+ProteinName	ER lumen protein-retaining receptor 2 (ERD2-like protein 1) (ELP-1) (KDEL endoplasmic reticulum protein retention receptor 2) (KDEL receptor 2)
+GeneName	KDELR2 ERD2.2
+Length	186
+Function	Membrane receptor that binds the K-D-E-L sequence motif in the C-terminal part of endoplasmic reticulum resident proteins and maintains their localization in that compartment by participating to their vesicle-mediated recycling back from the Golgi (PubMed:1325562, PubMed:18086916, PubMed:33053334). Binding is pH dependent, and is optimal at pH 5-5.4 (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane; Cytoplasmic vesicle; COPI-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNIFRLTGDLSHLAAIVILLLKIWKTRSCAGISGKSQLLFALVFTTRYLDLFTSFISLYNTSMKVIYLACSYATVYLIYLKFKATYDGNHDTFRVEFLVVPVGGLSFLVNHDFSPLEYSRERSSVCQHKCQRPSPASVLQGARTEFLPQQRHKMLDTENQKLNSFVADSHQWLCKNAEEKSQKVSV
+PTM	Methylation:22,81;Phosphorylation:209;Ubiquitylation:83

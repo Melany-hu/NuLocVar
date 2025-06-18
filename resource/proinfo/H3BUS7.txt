@@ -1,0 +1,25 @@
+UniprotID	H3BUS7
+Accession	H3BUS7
+EntryName	H3BUS7_HUMAN
+ProteinName	VPS35 endosomal protein-sorting factor-like
+GeneName	VPS35L
+Length	116
+Function	
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLAKDEALKRQSSLGLSFFNSILAHGDLRNNKLNQLSVNLWHLAQRHGCADTRTMGLDMLPGTVTAIFVLALMKPTLEMMERMLPWRAVEPGPNQAFLPRETELSGHRGLPGLGCL
+PTM	

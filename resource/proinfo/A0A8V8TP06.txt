@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TP06
+Accession	A0A8V8TP06
+EntryName	A0A8V8TP06_HUMAN
+ProteinName	Sidoreflexin
+GeneName	SFXN3
+Length	325
+Function	Mitochondrial serine transporter that mediates transport of serine into mitochondria, an important step of the one-carbon metabolism pathway. Mitochondrial serine is converted to glycine and formate, which then exits to the cytosol where it is used to generate the charged folates that serve as one-carbon donors.
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGELPLDINIQEPRWDQSTFLGRARHFFTVTDPRNLLLSGAQLEASRNIVQNYRAGVVTPGITEDQLWRAKYVYDSAFHPDTGEKVVLIGRMSAQGSKDEGHCRRGRSECLCSLRKTPTVVFWQWVNQSFNAIVNYSNRSGDTPITVRQLGTAYVSATTGAVATALGLKSLTKHLPPLVGRFVPFAAVAAANCINIPLMRQRELQVGIPVADEAGQRLGYSVTAAKQGIFQVVISRICMAIPAMAIPPLIMDTLEKKDFLKRRPWLGAPLQVGLVGFCLVFATPLCCALFPQKSSIHISNLEPELRAQIHEQNPSVEVVYYNKGL
+PTM	

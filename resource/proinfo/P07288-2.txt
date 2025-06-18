@@ -1,0 +1,25 @@
+UniprotID	P07288-2
+Accession	P07288;C9JXH3;G3V0H4;G3XAE3;Q15096;Q16272;Q86TG8;Q8IXI4
+EntryName	KLK3_HUMAN
+ProteinName	Prostate-specific antigen (PSA) (EC 3.4.21.77) (Gamma-seminoprotein) (Seminin) (Kallikrein-3) (P-30 antigen) (Semenogelase)
+GeneName	KLK3 APS
+Length	238
+Function	Hydrolyzes semenogelin-1 thus leading to the liquefaction of the seminal coagulum.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVPVVFLTLSVTWIGAAPLILSRIVGGWECEKHSQPWQVLVASRGRAVCGGVLVHPQWVLTAAHCIRNKSVILLGRHSLFHPEDTGQVFQVSHSFPHPLYDMSLLKNRFLRPGDDSSHDLMLLRLSEPAELTDAVKVMDLPTQEPALGTTCYASGWGSIEPEEFLTPKKLQCVDLHVISNDVCAQVHPQKVTKFMLCAGRWTGGKSTCSWVILITELTMPALPMVLHGSLVPWRGGV
+PTM	Methylation:107,169;Phosphorylation:104

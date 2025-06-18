@@ -1,0 +1,25 @@
+UniprotID	Q8NA58-2
+Accession	Q8NA58;Q5TAP7;Q8N7X5
+EntryName	PNDC1_HUMAN
+ProteinName	Poly(A)-specific ribonuclease PNLDC1 (EC 3.1.13.4) (PARN-like domain-containing protein 1) (Poly(A)-specific ribonuclease domain-containing protein 1) (HsPNLDC1)
+GeneName	PNLDC1
+Length	531
+Function	3'-exoribonuclease that has a preference for poly(A) tails of mRNAs, thereby efficiently degrading poly(A) tails (PubMed:27515512). Exonucleolytic degradation of the poly(A) tail is often the first step in the decay of eukaryotic mRNAs and is also used to silence certain maternal mRNAs translationally during oocyte maturation and early embryonic development (PubMed:27515512). May act as a regulator of multipotency in embryonic stem cells (By similarity). Is a critical factor for proper spermatogenesis, involved in pre-piRNAs processing to generate mature piRNAs (PubMed:34347949).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVGADEFEESLPLLQELVQEADFVGLDIEFTGLRSNLSGPQQISLFDLPSEWYLKTRQSVQQFTVCQIGLSVFSAIEGEANKYIAHSCNFYLFPTTFGILDSEFSFQASSVQFLNQYGFNYNKFLKNGIPYMNEEQEKKIRHDILTGNWRVRSSPDKDQIKVVIDEVTRWLELAKEGDWMTLPGITGFQAFEVQLVLRQALPNIWTVLKDEGVVVKKVSKQHRWYLQNTSCDRESCWKENILLSARGFSVFFQMLVKAQKPLVGHNMMMDLLHLHEKFFRPLPESYDQFKQNIHSLFPVLIDTKSVTKDIWKEMNFPRVSNLSEVYEVLNSDLNPTKNSGPEIVHASRCEKYVETKCPHEAAYDAFLCGSVLLKVAHLLLQKIYHIDPVPESSFPQYLDVLAPYVNQVNLIRAGVPKINFSGPDYPSIRPPILILSVKRWPGVSEQQVYHKFQNLCKFDVRRLTRSQFLLLTNKFKDARNILKEYRDHPTLCISLYRYWRHSPNVNCLLQVCGIVTAWALLAFILGRSGT
+PTM	Methylation:151,165,364,372,447,473;Phosphorylation:234

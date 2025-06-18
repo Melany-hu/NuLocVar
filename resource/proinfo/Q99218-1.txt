@@ -1,0 +1,25 @@
+UniprotID	Q99218-1
+Accession	Q99218;Q6RWT1
+EntryName	AMELY_HUMAN
+ProteinName	Amelogenin, Y isoform
+GeneName	AMELY AMGL AMGY
+Length	192
+Function	Plays a role in biomineralization. Seems to regulate the formation of crystallites during the secretory stage of tooth enamel development. Thought to play a major role in the structural organization and mineralization of developing enamel.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTWILFACLVGAAFAMPLPPHPGHPGYINFSYEVLTPLKWYQSMIRPPYSSYGYEPMGGWLHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPVPGQQSMTPTQHHQPNLPLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMFPLRPLPPILPDLHLEAWPATDKTKQEEVD
+PTM	

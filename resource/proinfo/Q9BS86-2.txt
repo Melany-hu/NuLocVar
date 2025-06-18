@@ -1,0 +1,25 @@
+UniprotID	Q9BS86-2
+Accession	Q9BS86;A4D253;C9JPU1;Q15941;Q75KX9;Q75MI3
+EntryName	ZPBP1_HUMAN
+ProteinName	Zona pellucida-binding protein 1 (Inner acrosomal membrane IAM38) (Sp38)
+GeneName	ZPBP ZPBP1
+Length	350
+Function	Plays a role in acrosome compaction and sperm morphogenesis (PubMed:21911476). Is implicated in sperm-oocyte interaction during fertilization (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Acrosome; Cytoplasmic vesicle; Secretory vesicle; Acrosome membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	10...15
+validnes_region	
+nesbase_region	
+Sequence	MEAFALGPARRGRRRTRAAGSLLSRAAILLFISAFLVRVPSSVGHLVRLPRAFRLTKDSVKIVGSTSFPVKAYVMLHQKSPHVLCVTQQLRNAELIDPSFQWYGPKGKVVSENRTAQITSTGSLVFQNFEESMSGIYTCFLEYKPTVEEIVKRLQLKYAIYAYREPHYYYQFTARYHAAPCNSIYNISFEKKLLQILSKLLLDLSCEISLLKSECHRVKMQRAGLQNELFFAFSVSSLDTEKGPKRCTDHNCEPYKRLFKAKNLIERFFNQQVEILGRRAEQLPQIYYIEGTLQMVWINRCFPGYGMNVQQHPKCPECCVICSPGSYNPRDGIHCLQCNSSLVYGAKTCL
+PTM	Methylation:153,200,213;Phosphorylation:21,24,210

@@ -1,0 +1,25 @@
+UniprotID	O75781-2
+Accession	O75781;O43359;O95673;Q92559;Q9UPJ4;Q9UQS2;Q9UQS3
+EntryName	PALM_HUMAN
+ProteinName	Paralemmin-1 (Paralemmin)
+GeneName	PALM KIAA0270
+Length	343
+Function	Involved in plasma membrane dynamics and cell process formation. Isoform 1 and isoform 2 are necessary for axonal and dendritic filopodia induction, for dendritic spine maturation and synapse formation in a palmitoylation-dependent manner.
+Subcellular Location	Cell membrane; Cell projection; Filopodium membrane; Cell projection; Axon; Cell projection; Dendrite; Cell projection; Dendritic spine; Basolateral cell membrane; Apicolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVLAAETTSQQERLQAIAEKRKRQAEIENKRRQLEDERRQLQHLKSKALRERWLLEGTPSSASEGDEDLRRQMQDDEQKTRLLEDSVSRLEKEIEVLERGDSAPATAKENAAAPSPVRAPAPSPAKEERKTEVVMNSQQTPVGTPKDKRVSNTPLRTVDGSPMMKAVVHAVDGTAENGIHPLSSSEVDELIHKADEVTLSEAGSTAGAAETRGAVEGAARTTPSRREITGVQAQPGEATSGPPGIQPGQEPPVTMIFMGYQNVEDEAETKKVLGLQDTITAELVVIEDAAEPKEPAPPNGSAAEPPTEAASREENQAGPEATTSDPQDLDMKKHRCKCCSIM
+PTM	Acetylation:93,109;Methylation:31,46,72,127,147;Phosphorylation:47,59,62,64,116,124,132,138,141,145,152,154,162,170,189,206,245,249,250,256,269,346,356,368,369;Ubiquitylation:21,93,131,377,378

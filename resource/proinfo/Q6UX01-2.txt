@@ -1,0 +1,25 @@
+UniprotID	Q6UX01-2
+Accession	Q6UX01;Q969J4;Q96BY8;Q96HN8;Q9NT09;Q9NVE1;Q9NVU9;Q9ULP6
+EntryName	LMBRL_HUMAN
+ProteinName	Protein LMBR1L (Limb region 1 protein homolog-like) (Lipocalin-1-interacting membrane receptor) (LIMR)
+GeneName	LMBR1L KIAA1174 LIMR UNQ458/PRO783
+Length	487
+Function	Plays an essential role in lymphocyte development by negatively regulating the canonical Wnt signaling pathway (By similarity). In association with UBAC2 and E3 ubiquitin-protein ligase AMFR, promotes the ubiquitin-mediated degradation of CTNNB1 and Wnt receptors FZD6 and LRP6 (By similarity). LMBR1L stabilizes the beta-catenin destruction complex that is required for regulating CTNNB1 levels (By similarity). Acts as a LCN1 receptor and can mediate its endocytosis (PubMed:11287427, PubMed:12591932, PubMed:23964685).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPDYEVLSVREQLFHERIRECIISTLLFATLYILCHIFLTRFKKPAEFTTDEDATVNKIALELCTFTLAIALGAVLLLPFSIISNEVLLSLPRNYYIQWLNGSLIHGLWNLVFLFSNLSLIFLMPFAYFFTESEGFAGSRKGVLGRVYETVVMLMLLTLLVLGMVWVASAIVDKNKANRESLYDFWEYYLPYLYSCISFLGVLLLLVCTPLGLARMFSVTGKLLVKPRLLEDLEEQLYCSAFEEAALTRRICNPTSCWLPLDMELLHRQVLALQTQRVLLEKRRKASAWQRNLGYPLAMLCLLVLTGLSVLIVAIHILELLIDEAAMPRGMQGTSLGQVSFSKLGSFGAVIQVVLIFYLMVSSVVGFYSSPLFRSLRPRWHDTAMTQIIGNCVCLLVLSSALPVFSRTLGLTRFDLLGDFGRFNWLGNFYIVFLYNAAFAGLTTLCLVKTFTAAVRAELIRAFGLDRLPLPVSGFPQASRKTQHQ
+PTM	Methylation:230,286,347;Phosphorylation:94,344

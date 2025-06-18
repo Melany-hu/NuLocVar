@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQY8
+Accession	A0A8V8TQY8
+EntryName	A0A8V8TQY8_HUMAN
+ProteinName	T-cell surface glycoprotein CD3 zeta chain (T-cell receptor T3 zeta chain)
+GeneName	CD247
+Length	229
+Function	Part of the TCR-CD3 complex present on T-lymphocyte cell surface that plays an essential role in adaptive immune response. When antigen presenting cells (APCs) activate T-cell receptor (TCR), TCR-mediated signals are transmitted across the cell membrane by the CD3 chains CD3D, CD3E, CD3G and CD3Z. All CD3 chains contain immunoreceptor tyrosine-based activation motifs (ITAMs) in their cytoplasmic domain. Upon TCR engagement, these motifs become phosphorylated by Src family protein tyrosine kinases LCK and FYN, resulting in the activation of downstream signaling pathways. CD3Z ITAMs phosphorylation creates multiple docking sites for the protein kinase ZAP70 leading to ZAP70 phosphorylation and its conversion into a catalytically active enzyme. Plays an important role in intrathymic T-cell differentiation. Additionally, participates in the activity-dependent synapse formation of retinal ganglion cells (RGCs) in both the retina and dorsal lateral geniculate nucleus (dLGN).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKWKALFTAAILQAQLPITEAQSFGLLDPKLCYLLDGILFIYGVILTALFLRVKFSRSADAPAYQQGQNQLYNELNLGRREEYDVLDKRRGRDPEMGGKPQRRKNPQEGLYNELQKDKMAEAYSEIGMKGERRRGKGHDGLYQDSHFQAVPVQEKKKRLRRAPWRAFAQPQRLKHPAEQPIVRQCLQRPPLCGVLGPVQQQLPPSLGPVLSPHSDPGWCRVDDGGDGVF
+PTM	

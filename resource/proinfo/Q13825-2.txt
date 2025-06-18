@@ -1,0 +1,25 @@
+UniprotID	Q13825-2
+Accession	Q13825;B1ALV7;B1ALV8;Q8WUE4
+EntryName	AUHM_HUMAN
+ProteinName	Methylglutaconyl-CoA hydratase, mitochondrial (3-MG-CoA hydratase) (EC 4.2.1.18) (AU-specific RNA-binding enoyl-CoA hydratase) (AU-binding protein/enoyl-CoA hydratase) (Itaconyl-CoA hydratase) (EC 4.2.1.56)
+GeneName	AUH
+Length	310
+Function	Catalyzes the fifth step in the leucine degradation pathway, the reversible hydration of 3-methylglutaconyl-CoA (3-MG-CoA) to 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) (PubMed:11738050, PubMed:12434311, PubMed:12655555, PubMed:16640564). Can catalyze the reverse reaction but at a much lower rate in vitro (PubMed:16640564). HMG-CoA is then quickly degraded by another enzyme (such as HMG-CoA lyase) to give acetyl-CoA and acetoacetate (PubMed:16640564). Uses other substrates such as (2E)-glutaconyl-CoA efficiently in vitro, and to a lesser extent 3-methylcrotonyl-CoA (3-methyl-(2E)-butenoyl-CoA), crotonyl-CoA ((2E)-butenoyl-CoA) and 3-hydroxybutanoyl-CoA (the missing carboxylate reduces affinity to the active site) (PubMed:16640564). Originally it was identified as an RNA-binding protein as it binds to AU-rich elements (AREs) in vitro (PubMed:7892223). AREs direct rapid RNA degradation and mRNA deadenylation (PubMed:7892223). Might have itaconyl-CoA hydratase activity, converting itaconyl-CoA into citramalyl-CoA in the C5-dicarboxylate catabolism pathway (PubMed:29056341). The C5-dicarboxylate catabolism pathway is required to detoxify itaconate, an antimicrobial metabolite and immunomodulator produced by macrophages during certain infections, that can act as a vitamin B12-poisoning metabolite (PubMed:29056341).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAVAAAPGALGSLHAGGARLVAACSAWLCPGLRLPGSLAGRRAGPAIWAQGWVPAAGGPAPKRGYSSEMKTEDELRVRHLEEENRGIVVLGINRAYGKNSLSKNLIKMLSKAVDALKSDKKVRTIIIRSEVPGIFCAANLPVPTIAAIDGLALGGGLELALACDIRVAASSAKMGLVETKLAIIPGGGGTQRLPRAIGMSLAKELIFSARVLDGKEAKAVGLISHVLEQNQEGDAAYRKALDLAREFLPQGPVAMRVAKLAINQGMEVDLVTGLAIEEACYAQTIPTKDRLEGLLAFKEKRPPRYKGE
+PTM	Acetylation:100,109,113,144,204,211,246;Methylation:109,119,144;Phosphorylation:231,239

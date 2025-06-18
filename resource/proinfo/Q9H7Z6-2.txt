@@ -1,0 +1,25 @@
+UniprotID	Q9H7Z6-2
+Accession	Q9H7Z6;A8K4Z1;G5E9P2;Q659G0;Q7LC17;Q8IY59;Q8WYB4;Q8WZ14;Q9HAC5;Q9NR35
+EntryName	KAT8_HUMAN
+ProteinName	Histone acetyltransferase KAT8 (EC 2.3.1.48) (Lysine acetyltransferase 8) (MOZ, YBF2/SAS3, SAS2 and TIP60 protein 1) (MYST-1) (Males-absent on the first protein homolog) (hMOF) (Protein acetyltransferase KAT8) (EC 2.3.1.-) (Protein propionyltransferase KAT8) (EC 2.3.1.-)
+GeneName	KAT8 MOF MYST1 PP7073
+Length	467
+Function	Histone acetyltransferase that catalyzes histone H4 acetylation at 'Lys-5'- and 'Lys-8' (H4K5ac and H4K8ac) or 'Lys-16' (H4K16ac), depending on the context (PubMed:12397079, PubMed:16227571, PubMed:16543150, PubMed:20018852, PubMed:21217699, PubMed:22020126, PubMed:22547026, PubMed:31794431, PubMed:33837287). Catalytic component of the MSL histone acetyltransferase complex, a multiprotein complex that mediates the majority of histone H4 acetylation at 'Lys-16' (H4K16ac), an epigenetic mark that prevents chromatin compaction (PubMed:12397079, PubMed:16227571, PubMed:16543150, PubMed:21217699, PubMed:22020126, PubMed:22547026, PubMed:33657400, PubMed:33837287). H4K16ac constitutes the only acetylation mark intergenerationally transmitted and regulates key biological processes, such as oogenesis, embryonic stem cell pluripotency, hematopoiesis or glucose metabolism (By similarity). The MSL complex is required for chromosome stability and genome integrity by maintaining homeostatic levels of H4K16ac (PubMed:33837287). The MSL complex is also involved in gene dosage by promoting up-regulation of genes expressed by the X chromosome (By similarity). X up-regulation is required to compensate for autosomal biallelic expression (By similarity). The MSL complex also participates in gene dosage compensation by promoting expression of Tsix non-coding RNA (By similarity). As part of the NSL histone acetyltransferase complex, catalyzes histone H4 acetylation at 'Lys-5'- and 'Lys-8' (H4K5ac and H4K8ac) at transcription start sites and promotes transcription initiation (PubMed:20018852, PubMed:22547026, PubMed:33657400). The NSL complex also acts as a regulator of gene expression in mitochondria: KAT8 associates with mitochondrial DNA and controls expression of respiratory genes in an acetyltransferase-dependent mechanism (PubMed:27768893). Also functions as an acetyltransferase for non-histone targets, such as ALKBH5, COX17, IRF3, KDM1A/LSD1, LMNA, PAX7 or TP53/p53 (PubMed:17189187, PubMed:19854137, PubMed:37369679). Acts as an inhibitor of antiviral immunity by acetylating IRF3, preventing IRF3 recruitment to promoters (By similarity). Acts as a regulator of asymmetric division in muscle stem cells by mediating acetylation of PAX7 (By similarity). As part of the NSL complex, acetylates TP53/p53 at 'Lys-120' (PubMed:17189187, PubMed:19854137). Acts as a regulator of epithelial-to-mesenchymal transition as part of the NSL complex by mediating acetylation of KDM1A/LSD1 (PubMed:27292636). The NSL complex is required for nuclear architecture maintenance by mediating acetylation of LMNA (By similarity). Promotes mitochondrial integrity by catalyzing acetylation of COX17 (By similarity). In addition to protein acetyltransferase activity, able to mediate protein propionylation (PubMed:29321206).
+Subcellular Location	Nucleus; Chromosome; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	140..149
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAQGAAAAVAAGTSGVAGEGEPGPGENAAAEGTAPSPGRVSPPTPARGEPEVTVEIGETYLCRRPDSTWHSAEVIQSRVNDQEGREEFYVHYVGFNRRLDEWVDKNRLALTKTVKDAVQKNSEKYLSELAEQPERKITRNQKRKHDEINHVQKTYAEMDPTTAALEKEHEAITKVKYVDKIHIGNYEIDAWYFSPFPEDYGKQPKLWLCEYCLKYMKYEKSYRFHLGQCQWRQPPGKEIYRKSNISVYEVDGKDHKIYCQNLCLLAKLFLDHKTLYFDVEPFVFYILTEVDRQGAHIVGYFSKEKESPDGNNVACILTLPPYQRRGYGKFLIAFSYELSKLESTVGSPEKPLSDLGKLSYRSYWSWVLLEILRDFRGTLSIKDLSQMTSITQNDIISTLQSLNMVKYWKGQHVICVTPKLVEEHLKSAQYKKPPITGGWGAAVCRGRWGSVSIWTGRSQGLLIAVT
+PTM	Acetylation:113,116,121,125,154,168,175,351,410;Methylation:121,168,268;Phosphorylation:15,34,37,42,45,126,344,345,348,354,456;SUMOylation:113,116,125,137,145,154,175,221,238,243,257,351,420,427;Ubiquitylation:116,125,238

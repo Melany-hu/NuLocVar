@@ -1,0 +1,25 @@
+UniprotID	A0A096LNJ5
+Accession	A0A096LNJ5
+EntryName	A0A096LNJ5_HUMAN
+ProteinName	ALG13 UDP-N-acetylglucosaminyltransferase subunit
+GeneName	ALG13
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPPLPGFDSCLPVVPDYSCVPPWHPVGTAYGGSSQIHGAINPGPIGCIAPSPPASHYVPQESKTKSLCFWITHLILN
+PTM	

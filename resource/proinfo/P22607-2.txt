@@ -1,0 +1,25 @@
+UniprotID	P22607-2
+Accession	P22607;D3DVP9;D3DVQ0;Q14308;Q16294;Q16608;Q59FL9
+EntryName	FGFR3_HUMAN
+ProteinName	Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (CD antigen CD333)
+GeneName	FGFR3 JTK4
+Length	808
+Function	Tyrosine-protein kinase that acts as a cell-surface receptor for fibroblast growth factors and plays an essential role in the regulation of cell proliferation, differentiation and apoptosis. Plays an essential role in the regulation of chondrocyte differentiation, proliferation and apoptosis, and is required for normal skeleton development. Regulates both osteogenesis and postnatal bone mineralization by osteoblasts. Promotes apoptosis in chondrocytes, but can also promote cancer cell proliferation. Required for normal development of the inner ear. Phosphorylates PLCG1, CBL and FRS2. Ligand binding leads to the activation of several signaling cascades. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate. Phosphorylation of FRS2 triggers recruitment of GRB2, GAB1, PIK3R1 and SOS1, and mediates activation of RAS, MAPK1/ERK2, MAPK3/ERK1 and the MAP kinase signaling pathway, as well as of the AKT1 signaling pathway. Plays a role in the regulation of vitamin D metabolism. Mutations that lead to constitutive kinase activation or impair normal FGFR3 maturation, internalization and degradation lead to aberrant signaling. Over-expressed or constitutively activated FGFR3 promotes activation of PTPN11/SHP2, STAT1, STAT5A and STAT5B. Secreted isoform 3 retains its capacity to bind FGF1 and FGF2 and hence may interfere with FGF signaling.
+Subcellular Location	Cell membrane; Cytoplasmic vesicle; Endoplasmic reticulum; Cell membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAPACALALCVAVAIVAGASSESLGTEQRVVGRAAEVPGPEPGQQEQLVFGSGDAVELSCPPPGGGPMGPTVWVKDGTGLVPSERVLVGPQRLQVLNASHEDSGAYSCRQRLTQRVLCHFSVRVTDAPSSGDDEDGEDEAEDTGVDTGAPYWTRPERMDKKLLAVPAANTVRFRCPAAGNPTPSISWLKNGREFRGEHRIGGIKLRHQQWSLVMESVVPSDRGNYTCVVENKFGSIRQTYTLDVLERSPHRPILQAGLPANQTAVLGSDVEFHCKVYSDAQPHIQWLKHVEVNGSKVGPDGTPYVTVLKSWISESVEADVRLRLANVSERDGGEYLCRATNFIGVAEKAFWLSVHGPRAAEEELVEADEAGSVYAGILSYGVGFFLFILVVAAVTLCRLRSPPKKGLGSPTVHKISRFPLKRQVSLESNASMSSNTPLVRIARLSSGEGPTLANVSELELPADPKWELSRARLTLGKPLGEGCFGQVVMAEAIGIDKDRAAKPVTVAVKMLKDDATDKDLSDLVSEMEMMKMIGKHKNIINLLGACTQGGPLYVLVEYAAKGNLREFLRARRPPGLDYSFDTCKPPEEQLTFKDLVSCAYQVARGMEYLASQKCIHRDLAARNVLVTEDNVMKIADFGLARDVHNLDYYKKTTNGRLPVKWMAPEALFDRVYTHQSDVWSFGVLLWEIFTLGGSPYPGIPVEELFKLLKEGHRMDKPANCTHDLYMIMRECWHAAPSQRPTFKQLVEDLDRVLTVTSTDEYLDLSAPFEQYSPGGQDTPSSSSSGDDSVFAHDLLPPAPPSSGGSRT
+PTM	Glycosylation:98,183,225;Methylation:508,708;Phosphorylation:53,60,185,187,236,408,410,424,444,445,450,577,578,647,648;Ubiquitylation:659

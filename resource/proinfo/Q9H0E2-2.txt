@@ -1,0 +1,25 @@
+UniprotID	Q9H0E2-2
+Accession	Q9H0E2;B3KXC6;Q9H9E6;Q9UJ69
+EntryName	TOLIP_HUMAN
+ProteinName	Toll-interacting protein
+GeneName	TOLLIP
+Length	205
+Function	Component of the signaling pathway of IL-1 and Toll-like receptors (PubMed:10854325, PubMed:11751856). Inhibits cell activation by microbial products. Recruits IRAK1 to the IL-1 receptor complex (PubMed:10854325). Inhibits IRAK1 phosphorylation and kinase activity (PubMed:11751856). Connects the ubiquitin pathway to autophagy by functioning as a ubiquitin-ATG8 family adapter and thus mediating autophagic clearance of ubiquitin conjugates (PubMed:25042851). The TOLLIP-dependent selective autophagy pathway plays an important role in clearance of cytotoxic polyQ proteins aggregates (PubMed:25042851). In a complex with TOM1, recruits ubiquitin-conjugated proteins onto early endosomes (PubMed:15047686). Binds to phosphatidylinositol 3-phosphate (PtdIns(3)P) (PubMed:26320582).
+Subcellular Location	Cytoplasm; Endosome; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRMDPYCRLRLGYAVYETPTAHNGAKNPRWNKVIHCTVPPGVDSFYLEIFDERAFSMDDRIAWTHITIPESLRQGKVEDKWYSLSGRQGDDKEGMINLVMSYALLPAAMVMPPQPVVLMPTVYQQGVGYVPITGMPAVCSPGMVPVALPPAAVNAQPRCSEEDLKAIQDMFPNMDQEVIRSVLEAQRGNKDAAINSLLQMGEEP
+PTM	Acetylation:63;Methylation:63,150,228;Phosphorylation:13,25,45,71,83,86;SUMOylation:63;Ubiquitylation:63,66,96,146,150,235

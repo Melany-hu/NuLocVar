@@ -1,0 +1,25 @@
+UniprotID	A0A0C7DW92
+Accession	A0A0C7DW92
+EntryName	A0A0C7DW92_HUMAN
+ProteinName	HLA class II histocompatibility antigen DQ alpha chain (HLA-DQA1 protein) (MHC class II antigen)
+GeneName	HLA-DQA1 DQA1
+Length	255
+Function	
+Subcellular Location	Endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEEFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTETVVCALGLSVGLVGIVVGTVFIIQGLRSVGASRHQGPL
+PTM	

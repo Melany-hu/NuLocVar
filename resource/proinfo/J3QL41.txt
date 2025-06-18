@@ -1,0 +1,25 @@
+UniprotID	J3QL41
+Accession	J3QL41
+EntryName	J3QL41_HUMAN
+ProteinName	Cadherin 3
+GeneName	CDH3
+Length	155
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	39...44
+validnes_region	
+nesbase_region	
+Sequence	XGHVETCPGPWKGGFILPVLGAVLALLFLLLVLLLLVRKKRKIKEPLLLPEDDTRDNVFYYGEEGGGEEDQDYDITQLHRGLEARPEVVLRNDVAPTIIPTPMYRPRPANPDEIGNFIIEVRRGRPVEGHPLFKPSTSHTGEQAWAWSLGSGFKF
+PTM	

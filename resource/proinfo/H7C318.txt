@@ -1,0 +1,25 @@
+UniprotID	H7C318
+Accession	H7C318
+EntryName	H7C318_HUMAN
+ProteinName	General transcription factor IIIC subunit 2
+GeneName	GTF3C2
+Length	142
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVWSLSGSDWLGTIAAGDISGELIAAILPDMALNPINVKRPVERRFPIYKADLIPYQDSPEGPDHSSASSGVPNPPKARTYTETVNHHYLLFQDTDLGSFHDLLRREPMLRMQEGEGHSQLCLDRLQLEAIHKGNHHVCPRG
+PTM	

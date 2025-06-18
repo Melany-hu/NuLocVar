@@ -1,0 +1,25 @@
+UniprotID	Q7Z7J9
+Accession	Q7Z7J9
+EntryName	CK2N1_HUMAN
+ProteinName	Calcium/calmodulin-dependent protein kinase II inhibitor 1 (CaMKII inhibitory protein alpha) (CaMKIIN-alpha)
+GeneName	CAMK2N1
+Length	78
+Function	Potent and specific inhibitor of CaM-kinase II (CAMK2) (By similarity). Plays a role in the maintenance of long-term retrieval-induced memory in response to contextual fear (By similarity). Modulates blood pressure and vascular reactivity via regulation of CAMK2 activity in addition to regulation of left ventricular mass (By similarity). Mediates the NLRP3 inflammasome in cardiomyocytes via acting as an inhibitor of the MAPK14/p38 and MAPK8/JNK pathways, thereby regulating ventricular remodeling and cardiac rhythm post-myocardial infarction (By similarity). Negatively effects insulin sensitivity and promotes lipid formation in adipose tissues independent of CAMK2 signaling (By similarity).
+Subcellular Location	Synapse; Cell projection; Dendrite; Postsynaptic density
+Disorder	0.5098,0.4149,0.4476,0.5342,0.4409,0.4652,0.5017,0.5176,0.5382,0.5665,0.5139,0.5456,0.5620,0.4725,0.4441,0.5139,0.4087,0.4864,0.4186,0.4220,0.4220,0.4330,0.5098,0.5176,0.3948,0.3872,0.3872,0.3529,0.3529,0.3667,0.3631,0.4119,0.4119,0.4292,0.5419,0.6427,0.5493,0.6375,0.6576,0.6482,0.6269,0.6136,0.6089,0.5854,0.5707,0.6136,0.6576,0.5620,0.6089,0.6227,0.6183,0.6089,0.5296,0.5456,0.5176,0.4220,0.3667,0.4256,0.4330,0.3910,0.4685,0.4801,0.4725,0.4476,0.4901,0.5296,0.5992,0.5901,0.6755,0.6482,0.6136,0.5758,0.5577,0.6712,0.6269,0.5807,0.6851,0.8125
+ExposeBuried	1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,1,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.797,0.546,0.607,0.337,0.181,0.373,0.291,0.381,0.567,0.611,0.435,0.198,0.260,0.461,0.225,0.284,0.580,0.351,0.401,0.442,0.124,0.254,0.392,0.206,0.063,0.242,0.034,0.213,0.064,0.347,0.291,0.247,0.412,0.360,0.129,0.141,0.282,0.350,0.431,0.479,0.491,0.571,0.430,0.249,0.365,0.509,0.202,0.323,0.511,0.180,0.341,0.428,0.345,0.403,0.296,0.092,0.151,0.084,0.402,0.402,0.587,0.344,0.045,0.371,0.418,0.072,0.078,0.521,0.424,0.145,0.433,0.624,0.571,0.368,0.351,0.602,0.676,0.770
+SecondStructure	C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,B,C,C,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-3.5,4.2,3.8,-1.6,-1.3,-0.4,-3.5,-3.5,-3.9,3.8,-0.8,-1.6,-1.3,-0.4,-3.5,-0.4,-0.4,-3.5,4.2,-0.4,-3.5,4.5,2.8,-0.8,2.5,-4.5,3.8,-3.5,-3.5,-0.7,-3.5,-3.5,2.8,2.8,-0.4,1.8,-0.4,-3.5,-3.5,-3.9,-4.5,-1.6,-1.6,-3.9,3.8,-0.4,-3.5,4.5,-0.4,-4.5,-0.8,-3.9,-4.5,4.2,4.2,4.5,-3.5,-3.5,-3.5,-4.5,4.5,-3.5,-3.5,4.2,3.8,-3.9,-3.5,1.9,-0.7,-3.5,-3.9,1.8,-1.6,-1.6,-0.4,4.2
+Polar	0,1,1,0,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0
+Charge	0,0,-1,0,0,0,0,0,-1,-1,1,0,0,0,0,0,-1,0,0,-1,0,0,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,-1,-1,-1,1,0,-1,-1,0,0,1,0,0,0,-1,1,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEVLPYGDEKLSPYGDGGDVGQIFSCRLQDTNNFFGAGQNKRPPKLGQIGRSKRVVIEDDRIDDVLKNMTDKAPPGV
+PTM	

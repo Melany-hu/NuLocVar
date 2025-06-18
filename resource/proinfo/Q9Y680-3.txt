@@ -1,0 +1,25 @@
+UniprotID	Q9Y680-3
+Accession	Q9Y680;Q4ZG70;Q6V3B2;Q86U65;Q96DA4;Q9Y6B0
+EntryName	FKBP7_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase FKBP7 (PPIase FKBP7) (EC 5.2.1.8) (23 kDa FK506-binding protein) (23 kDa FKBP) (FKBP-23) (FK506-binding protein 7) (FKBP-7) (Rotamase)
+GeneName	FKBP7 FKBP23 UNQ670/PRO1304
+Length	221
+Function	PPIases accelerate the folding of proteins during protein synthesis.
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKTMHFLFRFIVFFYLWGLFTAQRQKKEESTEEVKIEVLHRPENCSKTSKKGDLLNAHYDGYLAKDGSKFYCSRTQNEGHPKWFVLGVGQVIKGLDIAMTDMCPGEKRKVVIPPSFAYGKEGYEGKIPPDATLIFEIELYAVTKGPRSIETFKQIDMDNDRQLSKAEINLYLQREFEKDEKPRDKSYQDAVLEDIFKKNDHDGDGFISPKEYNVYQHDEL
+PTM	Acetylation:70,200;Glycosylation:45;Methylation:94,146

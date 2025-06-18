@@ -1,0 +1,25 @@
+UniprotID	Q9NVV9-2
+Accession	Q9NVV9;A6NCB6;D3DSY5;H9KV49;Q53FQ1;Q6IA99
+EntryName	THAP1_HUMAN
+ProteinName	THAP domain-containing protein 1
+GeneName	THAP1
+Length	53
+Function	DNA-binding transcription regulator that regulates endothelial cell proliferation and G1/S cell-cycle progression. Specifically binds the 5'-NTNNGGCA-3' core DNA sequence and acts by modulating expression of pRB-E2F cell-cycle target genes, including RRM1. Component of a THAP1/THAP3-HCFC1-OGT complex that is required for the regulation of the transcriptional activity of RRM1. May also have pro-apoptotic activity by potentiating both serum-withdrawal and TNF-induced apoptosis.
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQSCSAYGCKNRYDKDKPVSFHKKKIFWSHRNSFPHLLYRLLFPRLMLLLDY
+PTM	Methylation:73,158,179;SUMOylation:11,18,24,34,46,49,64,70,73,89,181,188

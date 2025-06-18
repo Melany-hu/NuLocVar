@@ -1,0 +1,25 @@
+UniprotID	C9J1E2
+Accession	C9J1E2
+EntryName	C9J1E2_HUMAN
+ProteinName	Aspartyl aminopeptidase (EC 3.4.11.21)
+GeneName	DNPEP
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRNSSTIIAFAVGGQYVPGNGFSLIGAHTDSPCLRVKRRSRRSQVGFQQVGVETYGGGIWSTWFDRDLTLAGRVIVKCPTSGRLEQQLVHVERPILRIPHLAIHLQRNINENFGPNTEMHLVPILATAIQEELEKG
+PTM	

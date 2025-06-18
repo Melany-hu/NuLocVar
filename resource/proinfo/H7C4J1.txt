@@ -1,0 +1,25 @@
+UniprotID	H7C4J1
+Accession	H7C4J1
+EntryName	H7C4J1_HUMAN
+ProteinName	Actin related protein 3C
+GeneName	ACTR3C
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SPRLPEGWSRQPAEPLAKLGSPAQLRTAEPAPPRQTEPPLNTPENREYLAEGYVIGSCIKHIPIAGRDITYFIQQLLREREVGIPPEQSLETAKAIKEKYCYICPDIVKEFAKYDVDPQKWIKQYTGINAINQKKFVIDVGYERFLGPEIFFHPEFANPDSMESISDVVDEVIQNCPIDVRRPLYKMEQIPLSYPQGHGFHPLSPPFH
+PTM	

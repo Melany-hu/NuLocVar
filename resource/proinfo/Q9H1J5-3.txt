@@ -1,0 +1,25 @@
+UniprotID	Q9H1J5-3
+Accession	Q9H1J5;D6RF47;Q96S51
+EntryName	WNT8A_HUMAN
+ProteinName	Protein Wnt-8a (Protein Wnt-8d)
+GeneName	WNT8A WNT8D
+Length	369
+Function	Ligand for members of the frizzled family of seven transmembrane receptors. Plays a role in embryonic patterning.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCCIQCLCLVSPFPTLTPCQGGPHCLIPIHLCLTFSLFGRSVNNFLITGPKAYLTYTTSVALGAQSGIEECKFQFAWERWNCPENALQLSTHNRLRSATRETSFIHAISSAGVMYIITKNCSMGDFENCGCDGSNNGKTGGHGWIWGGCSDNVEFGERISKLFVDSLEKGKDARALMNLHNNRAGRLAVRATMKRTCKCHGISGSCSIQTCWLQLAEFREMGDYLKAKYDQALKIEMDKRQLRAGNSAEGHWVPAEAFLPSAEAELIFLEESPDYCTCNSSLGIYGTEGRECLQNSHNTSRWERRSCGRLCTECGLQVEERKTEVISSCNCKFQWCCTVKCDQCRHVVSKYYCARSPGSAQSLGKGSA
+PTM	Methylation:102,152,217

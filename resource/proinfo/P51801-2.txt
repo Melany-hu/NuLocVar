@@ -1,0 +1,25 @@
+UniprotID	P51801-2
+Accession	P51801;B3KUY3;Q5T5Q7;Q5T5Q8
+EntryName	CLCKB_HUMAN
+ProteinName	Chloride channel protein ClC-Kb (Chloride channel Kb) (ClC-K2)
+GeneName	CLCNKB
+Length	517
+Function	Anion-selective channel permeable to small monovalent anions with ion selectivity for chloride > bromide > nitrate > iodide (PubMed:11734858, PubMed:12111250). Forms a homodimeric channel where each subunit has its own ion conduction pathway. May conduct double-barreled currents controlled by two types of gates, two fast gates that control each subunit independently and a slow common gate that opens and shuts off both subunits simultaneously (PubMed:11734858, PubMed:12111250, PubMed:16849430, PubMed:18776122, PubMed:19646679). Assembles with the regulatory subunit BSND/Barttin for sorting at the basolateral plasma membrane domain and functional switch to the ion conducting state. CLCNKB:BSND channels display mostly a linear current-voltage relationship controlled by common gate (PubMed:11734858, PubMed:12111250, PubMed:16849430, PubMed:18776122, PubMed:19646679). Mediates chloride conductance along nephron segments, namely the thick ascending limb of Henle's loop, convoluted tubule and the collecting duct, contributing to the maintenance of systemic acid-base and electrolyte homeostasis (By similarity). Conducts chloride currents in the stria vascularis of the inner ear to establish the endocochlear potential necessary for normal hearing (PubMed:15044642, PubMed:18310267, PubMed:19646679).
+Subcellular Location	Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPCPPLLSVPVRAAGEQDRWVREEVTWGGGPTVTGGWGWRAHLRSVSPPGVLFSIEVMSSHFSVWDYWRGFFAATCGAFMFRLLAVFNSEQETITSLYKTSFRVDVPFDLPEIFFFVALGGLCGILGSAYLFCQRIFFGFIRNNRFSSKLLATSKPVYSALATLVLASITYPPSAGRFLASRLSMKQHLDSLFDNHSWALMTQNSSPPWPEELDPQHLWWEWYHPRFTIFGTLAFFLVMKFWMLILATTIPMPAGYFMPIFVYGAAIGRLFGETLSFIFPEGIVAGGITNPIMPGGYALAGAAAFSGAVTHTISTALLAFEVTGQIVHALPVLMAVLAANAIAQSCQPSFYDGTVIVKKLPYLPRILGRNIGSHRVRVEHFMNHSITTLAKDMPLEEVVKVVTSTDVAKYPLVESTESQILVGIVRRAQLVQALKAEPPSWAPGHQCLQDILAAGCPTEPVTLKLSPETSLHEAHNLFELLNLHSLFVTSRGRAVGCVSWVEMKKAISNLTNPPAPK
+PTM	Methylation:142,165,527,569,604;Phosphorylation:73,270,323,531,557

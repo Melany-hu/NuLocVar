@@ -1,0 +1,25 @@
+UniprotID	Q06HC0
+Accession	Q06HC0
+EntryName	Q06HC0_HUMAN
+ProteinName	Basonuclin 2
+GeneName	BNC2
+Length	12
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISKAIRCTLVN
+PTM	

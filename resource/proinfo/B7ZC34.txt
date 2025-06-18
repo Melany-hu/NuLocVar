@@ -1,0 +1,25 @@
+UniprotID	B7ZC34
+Accession	B7ZC34
+EntryName	B7ZC34_HUMAN
+ProteinName	ethanolamine kinase (EC 2.7.1.82)
+GeneName	ETNK2
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NSFSSLLLRPSFCRTCAPKGLAIIPSLALWLIALEMAKIHTIHANGSLPKPILWHKMHNYFTLVKNEINPSLSADVPKVEVLERELAWLKEHLSQLESPVVFCHNDLLCKNIIYDSIKGHVRFIDYEYAGYNYQAFDIGNHFNEFAGVNEVDYCLYPARETQLQWLHYYLQAQKGMAVTPREVQRLYVQVNK
+PTM	

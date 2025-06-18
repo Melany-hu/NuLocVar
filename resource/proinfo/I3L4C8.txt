@@ -1,0 +1,25 @@
+UniprotID	I3L4C8
+Accession	I3L4C8
+EntryName	I3L4C8_HUMAN
+ProteinName	NADH:ubiquinone oxidoreductase complex assembly factor 8
+GeneName	NDUFAF8
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGRLSKDFCAREFEALRSCFAAAVGQEDAGGRLLGGTLSFTPVCCHGCRALVLMAPGGTYRMPRAERKWEWRRCDIPRC
+PTM	

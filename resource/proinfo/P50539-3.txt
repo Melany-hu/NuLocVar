@@ -1,0 +1,25 @@
+UniprotID	P50539-3
+Accession	P50539;B1ANN7;D3DR25;D3DRA9;Q15887;Q6FHW2;Q96E53
+EntryName	MXI1_HUMAN
+ProteinName	Max-interacting protein 1 (Max interactor 1) (Class C basic helix-loop-helix protein 11) (bHLHc11)
+GeneName	MXI1 BHLHC11
+Length	295
+Function	Transcriptional repressor. MXI1 binds with MAX to form a sequence-specific DNA-binding protein complex which recognizes the core sequence 5'-CACTG-3'. MXI1 thus antagonizes MYC transcriptional activity by competing for MAX.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	3...8;4...9
+validnes_region	
+nesbase_region	
+Sequence	MGKRGRPRKEARCEGAGLAPAAPPAVPPAVAAPQPPALPEDPAGAKPRCPFSDIFNTSENSMEKHINTFLQNVQILLEAASYLEQIEKENKKCEHGYASSFPSMPSPRLQHSKPPRRLSRAQKHSSGSSNTSTANRSTHNELEKNRRAHLRLCLERLKVLIPLGPDCTRHTTLGLLNKAKAHIKKLEEAERKSQHQLENLEREQRFLKWRLEQLQGPQEMERIRMDSIGSTISSDRSDSEREEIEVDVESTEFSHGEVDNISTTSISDIDDHSSLPSIGSDEGYSSASVKLSFTS
+PTM	Methylation:77,111;Phosphorylation:39;SUMOylation:5,111,125;Ubiquitylation:91,111,125

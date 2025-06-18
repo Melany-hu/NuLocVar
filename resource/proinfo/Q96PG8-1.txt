@@ -1,0 +1,25 @@
+UniprotID	Q96PG8-1
+Accession	Q96PG8
+EntryName	BBC3B_HUMAN
+ProteinName	Bcl-2-binding component 3, isoforms 3/4 (JFY-1) (p53 up-regulated modulator of apoptosis)
+GeneName	BBC3 PUMA
+Length	101
+Function	Does not affect cell growth.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFGMGSAQACPCQVPRAASTTWVPCQICETRGAAAAPPLTLEGPVQSHHGTPALTQGPQSPRDGAQLGACTRPVDVRDSGGRPLPPPDTLASAGDFLCTM
+PTM	Methylation:162,181;Phosphorylation:69,160,185,191,216,221

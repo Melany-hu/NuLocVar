@@ -1,0 +1,25 @@
+UniprotID	Q13007-4
+Accession	Q13007;Q2YHE5;Q53XZ7;Q5YLN8;Q96DB0;Q96KG4
+EntryName	IL24_HUMAN
+ProteinName	Interleukin-24 (IL-24) (Melanoma differentiation-associated gene 7 protein) (MDA-7) (Suppression of tumorigenicity 16 protein)
+GeneName	IL24 MDA7 ST16
+Length	63
+Function	Multifunctional cytokine mainly produced by T-cells that plays a regulatory role in immune response, tissue homeostasis, host defense, and oncogenesis (PubMed:25168428, PubMed:27687232). Possesses antiviral functions and induces the type I interferon response during influenza infection (PubMed:27687232). Signals through two receptor complexes IL20RA/IL20RB or IL20RB/IL22RA1 (PubMed:11706020, PubMed:30111632). In turn, stimulates the JAK1-STAT3 and MAPK pathways and promotes the secretion of pro-inflammatory mediators including IL8 and MMP1 (PubMed:25168428). Intracellularly, maintains endoplasmic reticulum homeostasis by restricting the eIF2alpha-CHOP pathway-mediated stress signal (By similarity). In addition, acts as a quality control mechanism for the ubiquitin proteasome system by alerting the cell to proteasome dysfunction through activation of PKR/EIF2AK2 (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNFQQRLQSLWTLASKLRITSRVPGCCSRRFCRTSRKKMRCFPSETVHTGGFCYSGEHSNSWT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	C9J699
+Accession	C9J699
+EntryName	C9J699_HUMAN
+ProteinName	Tafazzin family protein
+GeneName	TAZ TAFAZZIN
+Length	184
+Function	Acyltransferase which is required to remodel newly synthesized phospholipid cardiolipin, a key component of the mitochondrial inner membrane. Required for the initiation of mitophagy. Required to ensure progression of spermatocytes through meiosis.
+Subcellular Location	Mitochondrion inner membrane; Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLHVKWPFPAVPPLTWTLASSVVMGLVGTYSCFWTKYMNHLTVHNREVLYELIEKRGPATPLITVSNHQSCMDDPHLWGILKLRHIWNLKLMRWTPAAADICFTKELHSHFFSLGKCVPVCRDGVYQKGMDFILEKLNHGDWVHIFPEGKVNMSSEFLRFKWGIGRLIAECHLNPIILPLWHV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NZH8-2
+Accession	Q9NZH8;Q56B91;Q6UVX7;Q7RTZ9
+EntryName	IL36G_HUMAN
+ProteinName	Interleukin-36 gamma (IL-1-related protein 2) (IL-1RP2) (Interleukin-1 epsilon) (IL-1 epsilon) (Interleukin-1 family member 9) (IL-1F9) (Interleukin-1 homolog 1) (IL-1H1)
+GeneName	IL36G IL1E IL1F9 IL1H1 IL1RP2 UNQ2456/PRO5737
+Length	134
+Function	Cytokine that binds to and signals through the IL1RL2/IL-36R receptor which in turn activates NF-kappa-B and MAPK signaling pathways in target cells. Part of the IL-36 signaling system that is thought to be present in epithelial barriers and to take part in local inflammatory response; similar to the IL-1 system with which it shares the coreceptor IL1RAP. Seems to be involved in skin inflammatory response by acting on keratinocytes, dendritic cells and indirectly on T-cells to drive tissue infiltration, cell maturation and cell proliferation. In cultured keratinocytes induces the expression of macrophage, T-cell, and neutrophil chemokines, such as CCL3, CCL4, CCL5, CCL2, CCL17, CCL22, CL20, CCL5, CCL2, CCL17, CCL22, CXCL8, CCL20 and CXCL1; also stimulates its own expression and that of the prototypic cutaneous pro-inflammatory parameters TNF-alpha, S100A7/psoriasin and inducible NOS. May play a role in pro-inflammatory responses during particular neutrophilic airway inflammation: activates mitogen-activated protein kinases and NF-kappa B in primary lung fibroblasts, and stimulates the expression of IL-8 and CXCL3 and Th17 chemokine CCL20 in lung fibroblasts. May be involved in the innate immune response to fungal pathogens, such as Aspergillus fumigatus.
+Subcellular Location	Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGTPGDADGGGRAVYQSITVAVITCKYPEALEQGRGDPIYLGIQNPEMCLYCEKVGEQPTLQLKEQKIMDLYGQPEPVKPFLFYRAKTGRTSTLESVAFPDWFIASSKRDQPIILTSELGKSYNTAFELNIND
+PTM	

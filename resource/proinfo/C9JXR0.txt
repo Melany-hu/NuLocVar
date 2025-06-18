@@ -1,0 +1,25 @@
+UniprotID	C9JXR0
+Accession	C9JXR0
+EntryName	C9JXR0_HUMAN
+ProteinName	Beta-1,3-N-acetylgalactosaminyltransferase 1 (Globoside blood group)
+GeneName	B3GALNT1
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASALWTVLPSRMSLRSLKWSLLLLSLLSFFVMWYLSLPHYNVIERVNWMYFYEIHLDVCQLRRVIAAHGFSSKEIITFWQVMLRNTTCHY
+PTM	

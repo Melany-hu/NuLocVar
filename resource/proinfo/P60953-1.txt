@@ -1,0 +1,25 @@
+UniprotID	P60953-1
+Accession	P60953;P21181;P25763;Q7L8R5;Q9UDI2
+EntryName	CDC42_HUMAN
+ProteinName	Cell division control protein 42 homolog (EC 3.6.5.2) (G25K GTP-binding protein)
+GeneName	CDC42
+Length	191
+Function	Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase (PubMed:15642749). Regulates cell migration (PubMed:17038317, PubMed:22843693). In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections (PubMed:14978216). Required for DOCK10-mediated spine formation in Purkinje cells and hippocampal neurons. In podocytes, facilitates filopodia and podosomes formation upon DOCK11-activation (PubMed:33523862). Upon activation by CaMKII, modulates dendritic spine structural plasticity by relaying CaMKII transient activation to synapse-specific, long-term signaling (By similarity). Also plays a role in phagocytosis through organization of the F-actin cytoskeleton associated with forming phagocytic cups (PubMed:26465210). Upon activation by PLEKHG4B, involved in actin cytoskeletal remodeling during epithelial cell-cell junction formation (PubMed:33310911).
+Subcellular Location	Cell membrane; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle; Midbody; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQTIKCVVVGDGAVGKTCLLISYTTNKFPSEYVPTVFDNYAVTVMIGGEPYTLGLFDTAGQEDYDRLRPLSYPQTDVFLVCFSVVSPSSFENVKEKWVPEITHHCPKTPFLLVGTQIDLRDDPSTIEKLAKNKQKPITPETAEKLARDLKAVKYVECSALTQRGLKNVFDEAILAALEPPETQPKRKCCIF
+PTM	Acetylation:144,150,153,163,166;Methylation:5,16,94,128,135,144,163,166;Phosphorylation:124,125,138,141,158;SUMOylation:153;Ubiquitylation:107,128,131,133,135,144,150,153,163,166,183,184

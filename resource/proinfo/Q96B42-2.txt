@@ -1,0 +1,25 @@
+UniprotID	Q96B42-2
+Accession	Q96B42;D6W4X9;Q8N5H2;Q9NTH3
+EntryName	TMM18_HUMAN
+ProteinName	Transmembrane protein 18
+GeneName	TMEM18
+Length	127
+Function	Transcription repressor. Sequence-specific ssDNA and dsDNA binding protein, with preference for GCT end CTG repeats. Cell migration modulator which enhances the glioma-specific migration ability of neural stem cells (NSC) and neural precursor cells (NPC).
+Subcellular Location	Cytoplasm; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	130..138
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	118...123;120...125;117...122
+validnes_region	
+nesbase_region	
+Sequence	MLSGYLQTDWTEPWLMGLATFHALCVLLTCLSSRSYRLQIGHFLCLVILVYCAEYINEAAAMNWRLFSKYQYFDSRGMFISIVFSAPLLVNAMIIVVMWVWKTLNVMTDLKNAQERRKEKKRRRKED
+PTM	Methylation:124;Phosphorylation:81;Ubiquitylation:82

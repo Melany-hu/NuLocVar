@@ -1,0 +1,25 @@
+UniprotID	A0A140TA04
+Accession	A0A140TA04
+EntryName	A0A140TA04_HUMAN
+ProteinName	NF-kappa-B inhibitor-like protein 1 (Inhibitor of kappa B-like protein) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor-like 1)
+GeneName	NFKBIL1
+Length	222
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNPSPQVPEEEASTSVCRPKSSMASTSRRQRRERRFRRYLSAGRLVRAQALLQRHPGLDVDAGQPPPLHRACARHDAPALCLLLRLGADPAHQDRHGDTALHAAARQGPDAYTDFFLPLLSRCPSAMGIKNKDGETPGQILGWGPPWDSAEEEEEDDASKEREWRQKLQGELEDEWQEVMGRFEGEKSTAIHSCPSPLAAFHLHECVTLGSSAPSSVLPCF
+PTM	

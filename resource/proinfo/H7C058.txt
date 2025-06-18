@@ -1,0 +1,25 @@
+UniprotID	H7C058
+Accession	H7C058
+EntryName	H7C058_HUMAN
+ProteinName	VPS8 subunit of CORVET complex
+GeneName	VPS8
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAEASPEEEIYPYIRTLLHFDTREFLNVLALTFEDFKNDKQAVEYQQRIVDILLKHA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q68CV6
+Accession	Q68CV6
+EntryName	Q68CV6_HUMAN
+ProteinName	Protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-) (Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1) (Uncharacterized protein DKFZp761B182)
+GeneName	POMGNT1 DKFZp761B182
+Length	200
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDWKPSPLIKPFGARKKRSWYLTWKYKLTNQRALRRFCQTGAVLFLLVTVIVNIKLILDTRRAISEANEDPEPEQDYDEALGRLEPPRRRGSGPRRVLDVEVYSSRSKVYVAVDGTTVLEDEAREQGRGIHVIVLNQATGHVMAKRVFDTYSPHEDEAMVLFLNMVAPGRVLICTVKVLSSGRNILNHLPSLPGGTQSC
+PTM	

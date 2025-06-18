@@ -1,0 +1,25 @@
+UniprotID	P46734-2
+Accession	P46734;B3KSK7;Q99441;Q9UE71;Q9UE72
+EntryName	MP2K3_HUMAN
+ProteinName	Dual specificity mitogen-activated protein kinase kinase 3 (MAP kinase kinase 3) (MAPKK 3) (EC 2.7.12.2) (MAPK/ERK kinase 3) (MEK 3) (Stress-activated protein kinase kinase 2) (SAPK kinase 2) (SAPKK-2) (SAPKK2)
+GeneName	MAP2K3 MEK3 MKK3 PRKMK3 SKK2
+Length	318
+Function	Dual specificity kinase. Is activated by cytokines and environmental stress in vivo. Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in the MAP kinase p38. Part of a signaling cascade that begins with the activation of the adrenergic receptor ADRA1B and leads to the activation of MAPK14.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKPPAPNPTPPRNLDSRTFITIGDRNFEVEADDLVTISELGRGAYGVVEKVRHAQSGTIMAVKRIRATVNSQEQKRLLMDLDINMRTVDCFYTVTFYGALFREGDVWICMELMDTSLDKFYRKVLDKNMTIPEDILGEIAVSIVRALEHLHSKLSVIHRDVKPSNVLINKEGHVKMCDFGISGYLVDSVAKTMDAGCKPYMAPERINPELNQKGYNVKSDVWSLGITMIEMAILRFPYESWGTPFQQLKQVVEEPSPQLPADRFSPEFVDFTAQCLRKNPAERMSYLELMEHPFFTLHKTKKTDIAAFVKEILGEDS
+PTM	Acetylation:32,80,183;Methylation:80,149,157,200,243,279;Phosphorylation:3,15,28,31,39,214,218,222,230;SUMOylation:80,192,205,228,243;Ubiquitylation:32,80,93,105,183,192,200,228,243,279

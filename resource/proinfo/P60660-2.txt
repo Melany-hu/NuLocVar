@@ -1,0 +1,25 @@
+UniprotID	P60660-2
+Accession	P60660;P16475;P24572;P24573;Q12790;Q561V9;Q6IAZ0;Q6IPY5
+EntryName	MYL6_HUMAN
+ProteinName	Myosin light polypeptide 6 (17 kDa myosin light chain) (LC17) (Myosin light chain 3) (MLC-3) (Myosin light chain alkali 3) (Myosin light chain A3) (Smooth muscle and nonmuscle myosin light chain alkali 6)
+GeneName	MYL6
+Length	151
+Function	Regulatory light chain of myosin. Does not bind calcium.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCDFTEDQTAEFKEAFQLFDRTGDGKILYSQCGDVMRALGQNPTNAEVLKVLGNPKSDEMNVKVLDFEHFLPMLQTVAKNKDQGTYEDYVEGLRVFDKEGNGTVMGAEIRHVLVTLGEKMTEEEVEMLVAGHEDSNGCINYEELVRMVLNG
+PTM	Acetylation:26,50,56,63,79,81,98;Methylation:13,21,50,56,63,79,81,94,98,119;Phosphorylation:22,29,30,44,57,85,86,89,103,121,135,150;SUMOylation:13,26,50,56,63,79,81;Ubiquitylation:13,26,50,56,63,79,81,98,119

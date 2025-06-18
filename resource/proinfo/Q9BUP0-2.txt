@@ -1,0 +1,25 @@
+UniprotID	Q9BUP0-2
+Accession	Q9BUP0;B2RD83;E9PFH3;Q9BTF8;Q9H8I2;Q9HBQ0
+EntryName	EFHD1_HUMAN
+ProteinName	EF-hand domain-containing protein D1 (EF-hand domain-containing protein 1) (Swiprosin-2)
+GeneName	EFHD1 SWS2 PP3051
+Length	143
+Function	Acts as a calcium sensor for mitochondrial flash (mitoflash) activation, an event characterized by stochastic bursts of superoxide production (PubMed:26975899). May play a role in neuronal differentiation (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGELQYDAGRDGFIDLMELKLMMEKLGAPQTHLGLKSMIKEVDEDFDGKLSFREFLLIFHKAAAGELQEDSGLMALAKLSEIDVALEGVKGAKNFFEAKVQALSSASKFEAELKAEQDERKREEEERRLRQAAFQKLKANFNT
+PTM	Acetylation:9,116,121,189;Methylation:116,121,132,186,210;Phosphorylation:3,22,56,60,81,200,201,203;Ubiquitylation:121,157

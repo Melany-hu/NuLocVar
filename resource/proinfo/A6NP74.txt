@@ -1,0 +1,25 @@
+UniprotID	A6NP74
+Accession	A6NP74
+EntryName	A6NP74_HUMAN
+ProteinName	Calcium channel, voltage-dependent, gamma subunit 6, isoform CRA_c (Calcium voltage-gated channel auxiliary subunit gamma 6)
+GeneName	CACNG6 hCG_1648888
+Length	189
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMWSNFFLQEENRRRGAAGRRRAHGQGRSGLTPEREGKVKLALLLAAVGATLAVLSVGTEFWVELNTYKANGSAVCEAAHLGLWKACTKRLWQADVPVDRDTCGPAELPGGLLLLVSLEVFRHSVRALLQRVSPEPPPAPRLTYEYSWSLGCGVGAGLILLLGAGCFLLLTLPSWPWGSLCPKRGHRAT
+PTM	

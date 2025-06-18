@@ -1,0 +1,25 @@
+UniprotID	P49771-3
+Accession	P49771;A0AVC2;B9EGH2;Q05C96
+EntryName	FLT3L_HUMAN
+ProteinName	Fms-related tyrosine kinase 3 ligand (Flt3 ligand) (Flt3L) (SL cytokine)
+GeneName	FLT3LG
+Length	153
+Function	Stimulates the proliferation of early hematopoietic cells by activating FLT3. Synergizes well with a number of other colony stimulating factors and interleukins. Required for the development of B cells, and dendritic cells (DCs).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLKTVAGSKMQGLLERVNTEIHFVTKCAFQPPPSCLRFVQTNISRLLQETSEQLVALKPWITRQNFSRCLELQCQPDSSTLPPPWSPRPLEATAPTAPQPPLLLLLLLPVGLLLLAAAWCLHWQRTRRRTPRPGEQVPPVPSPQDLLLVEH
+PTM	Glycosylation:126;Methylation:142

@@ -1,0 +1,25 @@
+UniprotID	P04150-16
+Accession	P04150;A0ZXF9;B0LPG8;D3DQF4;F5ATB7;P04151;Q53EP5;Q6N0A4
+EntryName	GCR_HUMAN
+ProteinName	Glucocorticoid receptor (GR) (Nuclear receptor subfamily 3 group C member 1)
+GeneName	NR3C1 GRL
+Length	442
+Function	Receptor for glucocorticoids (GC) (PubMed:27120390, PubMed:37478846). Has a dual mode of action: as a transcription factor that binds to glucocorticoid response elements (GRE), both for nuclear and mitochondrial DNA, and as a modulator of other transcription factors (PubMed:28139699). Affects inflammatory responses, cellular proliferation and differentiation in target tissues. Involved in chromatin remodeling (PubMed:9590696). Plays a role in rapid mRNA degradation by binding to the 5' UTR of target mRNAs and interacting with PNRC2 in a ligand-dependent manner which recruits the RNA helicase UPF1 and the mRNA-decapping enzyme DCP1A, leading to RNA decay (PubMed:25775514). Could act as a coactivator for STAT5-dependent transcription upon growth hormone (GH) stimulation and could reveal an essential role of hepatic GR in the control of body growth (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome; Nucleus; Nucleoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNTASLSQQQDQKPIFNVIPPIPVGSENWNRCQGSGDDNLTSLGTLNFPGRTVFSNGYSSPSMRPDVSSPPSSSSTATTGPPPKLCLVCSDEASGCHYGVLTCGSCKVFFKRAVEGQHNYLCAGRNDCIIDKIRRKNCPACRYRKCLQAGMNLEARKTKKKIKGIQQATTGVSQETSENPGNKTIVPATLPQLTPTLVSLLEVIEPEVLYAGYDSSVPDSTWRIMTTLNMLGGRQVIAAVKWAKAIPGFRNLHLDDQMTLLQYSWMFLMAFALGWRSYRQSSANLLCFAPDLIINEQRMTLPCMYDQCKHMLYVSSELHRLQVSYEEYLCMKTLLLLSSVPKDGLKSQELFDEIRMTYIKELGKAIVKREGNSSQNWQRFYQLTKLLDSMHEVVENLLNYCFQTFLDKTMSIEFPEMLAEIITNQIPKYSNGNIKKLLFHQK
+PTM	Acetylation:154;Glycosylation:42;Methylation:34,80,120,293,467,703;Phosphorylation:6,8,30,32,42,44,45,47,54,89,125,132,133,134,200,201,203,226,241,266,267,269,272,288,390,394,395,404,433,508,524,529,531;SUMOylation:4,31,57,67,120,246,254,258,277,280,293,296,348,498,677,681,703;Ubiquitylation:57,677,681,695,699

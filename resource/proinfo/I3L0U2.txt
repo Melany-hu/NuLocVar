@@ -1,0 +1,25 @@
+UniprotID	I3L0U2
+Accession	I3L0U2
+EntryName	I3L0U2_HUMAN
+ProteinName	Serine protease 21
+GeneName	PRSS21
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLALLLARAGLRKPESQEAAPLSGPCGRRVITSRIVGGEDAELGRWPWQGSLRLWDSHVCGVSLLSHRWALTAAHCFETDLSDPSGWMVQFGQLTSMPSFWSLQAYYTRYFVSNIYLSPRYLGNSPYDIALVKLSAPVTYTKHIQPICLQASTFEFENRTDCWVTGWGYIKEDEGSSGRHHKQLYVQPPLPQVQFPQGHLWRHGLCWQCPRREGCLLR
+PTM	

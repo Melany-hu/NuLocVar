@@ -1,0 +1,25 @@
+UniprotID	F8WAX1
+Accession	F8WAX1
+EntryName	F8WAX1_HUMAN
+ProteinName	NIMA related kinase 4
+GeneName	NEK4
+Length	37
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLAAYCYLRVVGKGSYGEVTLVKHRRDGKQPRAASC
+PTM	

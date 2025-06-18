@@ -1,0 +1,25 @@
+UniprotID	H0YEP7
+Accession	H0YEP7
+EntryName	H0YEP7_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 3
+GeneName	ST3GAL3
+Length	197
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTTLRITYPEGAMQRPEQYERDSLFVLAGFKWQDFKWLKYIVYKERVSASDGFWKSVATRVPKEPPEIRILNPYFIQEAAFTLIGLPFNNGLMGRGNIPTLGSVAVTMALHGCDEVAVAGFGYDMSTPNAPLHYYETVRMAAIKEVSTVTEYWRVVTKKAPSPGRGSKGLSKGPTDHFISPFSPGRTISSERKSFCG
+PTM	

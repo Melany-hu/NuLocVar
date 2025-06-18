@@ -1,0 +1,25 @@
+UniprotID	P49895-4
+Accession	P49895;Q1RN02;Q3KNP8;Q6Q4C1;Q6Q4C2;Q6Q4C3;Q6Q4C4;Q6Q4C5;Q6Q4C6;Q6Q4C7;Q6Q4C9;Q8WWC6
+EntryName	IOD1_HUMAN
+ProteinName	Type I iodothyronine deiodinase (EC 1.21.99.3) (EC 1.21.99.4) (5DI) (DIOI) (Type 1 DI) (Type-I 5'-deiodinase)
+GeneName	DIO1 ITDI1 TXDI1
+Length	201
+Function	Plays a crucial role in the metabolism of thyroid hormones (TH) and has specific roles in TH activation and inactivation by deiodination. Catalyzes the conversion of T4 (L-thyroxine/3,5,3',5'-tetraiodothyronine) to T3 (3,5,3'-triiodothyronine) via outer-ring deiodination (ORD) and the conversion of T4 to rT3 (3,3',5'-triiodothyronine) via inner-ring deiodination (IRD) (PubMed:32718224). Catalyzes the conversion of rT3 to T2 (3,3'-diiodothyronine) via ORD (PubMed:12586771). Catalyzes the conversion 3',5'-T2 (3,5-diiodothyronine) to 3-T1 (3-monoiodothyronine) via ORD (PubMed:18821722). Catalyzes the conversion of T3 to T2 via IRD (By similarity).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPQPGLWLKRLWVLLEVAVHVVVGKVLLILFPDRVKRNILAMGEKTGMTRNPHFSHDNWIPTFFSTQYFWFVLKVRWQRLEDTTELGGLAPNCPVVRLSGQRCNIWEFMQDGWAFKNNMDIRNHQNLQDRLQAAHLLLARSPQCPVVVDTMQNQSSQLYAALPERLYIIQEGRILYKGKSGPWNYNPEEVRAVLEKLHS
+PTM	Methylation:27,76

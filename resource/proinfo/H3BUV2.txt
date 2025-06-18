@@ -1,0 +1,25 @@
+UniprotID	H3BUV2
+Accession	H3BUV2
+EntryName	H3BUV2_HUMAN
+ProteinName	Nth like DNA glycosylase 1
+GeneName	NTHL1
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	20...25;35...40;19...43;38...42
+validnes_region	
+nesbase_region	
+Sequence	XRSRSLGPGAGPRGCREEPGPLRRREAAAEARKSHSPVKRPRKAQRLRVAYEGSDSEKGTQVPGAAVTDALQPNQRPGDGGRHAATAGAGPDGGQHPADR
+PTM	

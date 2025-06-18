@@ -1,0 +1,25 @@
+UniprotID	H7BZV9
+Accession	H7BZV9
+EntryName	H7BZV9_HUMAN
+ProteinName	Ankyrin repeat domain 54
+GeneName	ANKRD54
+Length	178
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	112...130
+validnes_region	
+nesbase_region	
+Sequence	XRLRRPGPRGAVAMAAAAGDADDEPRSGHSSSEGECAVAPEPLTDAEGLFSFADFGSALGGGGAGLSGRASGGAQSPLRYLHVLWQQDAEPRDELRCKIPAGRLRRAARPHRRLGPTGKEVHALKRLRDSANANDVETVQQLLEDGADPCAADDKGRTALHFASCNGNDQIAAPGPWC
+PTM	

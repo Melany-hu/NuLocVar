@@ -1,0 +1,25 @@
+UniprotID	P09912
+Accession	P09912;Q13141;Q13142;Q5VVR2;Q5VVR3;Q6IE95;Q969M8
+EntryName	IFI6_HUMAN
+ProteinName	Interferon alpha-inducible protein 6 (Interferon-induced protein 6-16) (Ifi-6-16)
+GeneName	IFI6 G1P3
+Length	130
+Function	Interferon-stimulated protein that plays an important role in innate immune response against a wide variety of viruses (PubMed:31142663). Inhibits flavivirus replication by preventing the formation of virus-induced endoplasmic reticulum membrane invaginations, which are double-membrane vesicles that flaviviruses use for their replication (PubMed:30224801). Has an antiviral activity towards hepatitis C virus/HCV by inhibiting the EGFR signaling pathway, whose activation is required for entry of the virus into cells (PubMed:25757571). Within the nucleus, restricts hepatitis B virus/HBV promoter activity leading to substantial reduction of viral replication and gene expression (PubMed:33868257). Plays a role in apoptosis, negatively regulating the intrinsinc apoptotic signaling pathway and TNFSF10-induced apoptosis (PubMed:15685448, PubMed:17823654, PubMed:26244642). However, it has also been shown to have a pro-apoptotic activity (PubMed:27673746). Modulates innate immune response mediated by RIGI by preventing its activation (PubMed:36793726).
+Subcellular Location	Endoplasmic reticulum membrane; Mitochondrion inner membrane
+Disorder	0.0109,0.0075,0.0062,0.0053,0.0046,0.0038,0.0049,0.0044,0.0053,0.0062,0.0060,0.0074,0.0064,0.0060,0.0060,0.0068,0.0086,0.0065,0.0087,0.0163,0.0253,0.0433,0.0948,0.1528,0.2292,0.3149,0.4256,0.3053,0.3182,0.3215,0.2884,0.2752,0.2541,0.1881,0.1583,0.1275,0.0870,0.0851,0.1373,0.1373,0.0704,0.0568,0.0380,0.0269,0.0269,0.0171,0.0214,0.0178,0.0205,0.0313,0.0165,0.0209,0.0341,0.0258,0.0506,0.0364,0.0364,0.0433,0.0473,0.0473,0.0320,0.0433,0.0433,0.0646,0.0473,0.0372,0.0631,0.0306,0.0389,0.0531,0.0300,0.0364,0.0364,0.0364,0.0454,0.0454,0.0543,0.0870,0.0851,0.0799,0.0799,0.0704,0.0592,0.0592,0.0631,0.0631,0.0888,0.0888,0.0835,0.0835,0.0817,0.1373,0.2034,0.1914,0.1914,0.1399,0.1007,0.0851,0.0662,0.0870,0.0506,0.0506,0.0690,0.0631,0.0618,0.0581,0.0543,0.0405,0.0443,0.0817,0.0817,0.0568,0.0349,0.0398,0.0405,0.0506,0.0948,0.1501,0.2715,0.3087,0.2817,0.3631,0.3494,0.3740,0.4619,0.5055,0.4940,0.6806,0.7505,0.7250
+ExposeBuried	1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1
+SurfaceAccessbility	0.830,0.595,0.569,0.492,0.181,0.130,0.202,0.098,0.071,0.082,0.033,0.088,0.077,0.062,0.065,0.114,0.203,0.068,0.440,0.400,0.201,0.634,0.394,0.354,0.496,0.605,0.490,0.085,0.532,0.657,0.486,0.563,0.615,0.527,0.401,0.446,0.265,0.124,0.110,0.328,0.125,0.077,0.156,0.107,0.135,0.148,0.166,0.326,0.366,0.297,0.158,0.198,0.149,0.201,0.335,0.106,0.375,0.236,0.193,0.241,0.130,0.328,0.307,0.244,0.195,0.149,0.157,0.178,0.357,0.379,0.130,0.097,0.234,0.407,0.163,0.171,0.295,0.187,0.201,0.173,0.114,0.289,0.550,0.442,0.382,0.328,0.107,0.297,0.195,0.203,0.225,0.082,0.098,0.241,0.153,0.075,0.450,0.505,0.160,0.335,0.366,0.440,0.375,0.303,0.442,0.172,0.164,0.162,0.308,0.256,0.109,0.138,0.251,0.131,0.092,0.099,0.209,0.118,0.080,0.234,0.496,0.183,0.168,0.727,0.469,0.624,0.614,0.664,0.735,0.943
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,A,C,C,C,C,A,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,B,B,B,C,C,C,C,B,B,B,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C
+Hydropathy	1.9,-4.5,-3.5,-3.9,1.8,4.2,-0.8,3.8,2.8,3.8,2.5,-1.3,3.8,3.8,3.8,2.8,-0.7,2.5,-0.8,-0.4,4.2,-3.5,1.8,-0.4,-3.9,-3.9,-3.9,2.5,-0.8,-3.5,-0.8,-0.8,-3.5,-0.8,-0.4,-0.8,-0.4,2.8,-0.9,-3.9,1.8,3.8,-0.7,2.8,1.9,1.8,4.2,-0.4,-0.4,-0.4,3.8,1.8,4.2,1.8,-0.4,3.8,-1.6,1.8,3.8,-0.4,2.8,-0.7,-0.4,1.8,-0.4,4.5,1.8,1.8,-3.5,-0.8,4.2,1.8,1.8,-0.8,3.8,1.9,-0.8,-0.9,-0.8,1.8,4.5,3.8,-3.5,-0.4,-0.4,-0.4,4.2,-1.6,1.8,-0.4,-0.4,3.8,4.2,1.8,-0.7,3.8,-3.5,-0.8,3.8,-0.4,1.8,-0.4,-0.4,-0.8,-0.8,4.2,4.2,4.5,-0.4,-3.5,4.5,-0.4,1.8,3.8,1.9,-0.4,-1.3,1.8,-0.7,-3.2,-3.9,-1.3,3.8,-3.5,-0.8,-3.5,-3.5,-3.5,-3.5,-3.5
+Polar	0,1,1,1,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1
+Charge	0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,1,1,0,0,-1,0,0,-1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,-1,0,-1,-1,-1,-1,-1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQKAVSLFLCYLLLFTCSGVEAGKKKCSESSDSGSGFWKALTFMAVGGGLAVAGLPALGFTGAGIAANSVAASLMSWSAILNGGGVPAGGLVATLQSLGAGGSSVVIGNIGALMGYATHKYLDSEEDEE
+PTM	Phosphorylation:125

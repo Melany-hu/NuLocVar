@@ -1,0 +1,25 @@
+UniprotID	Q9NXS2-3
+Accession	Q9NXS2;Q53HE4;Q96F74
+EntryName	QPCTL_HUMAN
+ProteinName	Glutaminyl-peptide cyclotransferase-like protein (EC 2.3.2.5) (Golgi-resident glutaminyl-peptide cyclotransferase) (isoQC) (gQC)
+GeneName	QPCTL
+Length	288
+Function	Responsible for the biosynthesis of pyroglutamyl peptides.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSGGRGRPRLRLGERGLMEPLLPPKRRLLPRVRLLPLLLALAVGSAFYTIWSGWHRRTEELPLGRELRVPLIGSLPEARLRRVVGQLDPQRLWSTYLRPLLVVRTPGSPGNLQVRKAAPVTLQLLFLDGEEALKEWGPKDSLYGSRHLAQLMESIPHSPGPTRIQAIELFMLLDLLGAPNPTFYSHFPRTVRWFHRLRSIEKRLHRLNLLQSHPQEVMYFQPGEPFGSVEDDHIPFLRRGVPVLHLISTPFPAVWHTPADTEVNLHPPTVHNLCRILAVFLAEYLGL
+PTM	Acetylation:234;Methylation:229,297;Ubiquitylation:26

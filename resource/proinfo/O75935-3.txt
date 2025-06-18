@@ -1,0 +1,25 @@
+UniprotID	O75935-3
+Accession	O75935;A6NII7;B2RBM5;Q5T1I5;Q5T1I7;Q5T8G3;Q9BPU8
+EntryName	DCTN3_HUMAN
+ProteinName	Dynactin subunit 3 (Dynactin complex subunit 22 kDa subunit) (p22)
+GeneName	DCTN3 DCTN22
+Length	158
+Function	Part of the dynactin complex that activates the molecular motor dynein for ultra-processive transport along microtubules (By similarity). Together with dynein may be involved in spindle assembly and cytokinesis (PubMed:9722614).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome; Centromere; Kinetochore; Cytoplasm; Cytoskeleton; Spindle; Cleavage furrow; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLTDLQRLQARVEELERWVYGPGGARGSRKVADGLVKVQVALGNISSKRERVKILYKKIEDLIKYLDPEYIDRIAIPDASKLQFILAAVPEHAARLQRLAQIHIQQQDQCVEITEESKALLEEYNKTTMLLSKQFVQWDELLCQLEAATQVKPAEE
+PTM	Acetylation:50;Methylation:66,75,156,163;Phosphorylation:22,30,49,72,147;SUMOylation:32,39,50,148,156;Ubiquitylation:32,50,55

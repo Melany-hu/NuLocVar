@@ -1,0 +1,25 @@
+UniprotID	Q96H20-2
+Accession	Q96H20;Q8IXY3;Q9UN50
+EntryName	SNF8_HUMAN
+ProteinName	Vacuolar-sorting protein SNF8 (ELL-associated protein of 30 kDa) (ESCRT-II complex subunit VPS22) (hVps22)
+GeneName	SNF8 EAP30
+Length	257
+Function	Component of the endosomal sorting complex required for transport II (ESCRT-II), which is required for multivesicular body (MVB) formation and sorting of endosomal cargo proteins into MVBs, and plays a role in autophagy (PubMed:38423010). The MVB pathway mediates delivery of transmembrane proteins into the lumen of the lysosome for degradation. The ESCRT-II complex is probably involved in the recruitment of the ESCRT-III complex. The ESCRT-II complex may also play a role in transcription regulation by participating in derepression of transcription by RNA polymerase II, possibly via its interaction with ELL. Required for degradation of both endocytosed EGF and EGFR, but not for the EGFR ligand-mediated internalization. It is also required for the degradation of CXCR4. Required for the exosomal release of SDCBP, CD63 and syndecan (PubMed:22660413).
+Subcellular Location	Cytoplasm; Endosome membrane; Nucleus; Late endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHRRGVGAGAIAKKKLAEAKYKERGTVLAEDQLAQMSKQLDMFKTNLEEFASKHKQEIRKNPEFRVQFQDMCATIGVDPLASGKGFWSEMLGVGDFYYELGVQIIEVCLALKHRNGGLITLEELHQQVLKGRGKFAQDVSQDDLIRAIKKLKALGTGFGIIPVGGTYLIQSVPAELNMDHTVVLQLAENGYVTVSEIKASLKWETERARQVLEHLLKEGLAWLDLQAPGEAHYWLPALFTDLYSQEITAEEAREALP
+PTM	Acetylation:20,134;Glycosylation:190;Methylation:4,112,130,189,218;Phosphorylation:192;SUMOylation:20,38,44,53,130,134;Ubiquitylation:13,20,38,53,60,130,134,203

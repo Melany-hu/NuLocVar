@@ -1,0 +1,25 @@
+UniprotID	Q9HCM2-3
+Accession	Q9HCM2;A4D1N6;E9PAM2;Q6UWC6;Q6ZW89;Q8N969;Q8ND00;Q8NEN3;Q9NTD4
+EntryName	PLXA4_HUMAN
+ProteinName	Plexin-A4
+GeneName	PLXNA4 KIAA1550 PLXNA4A PLXNA4B UNQ2820/PRO34003
+Length	522
+Function	Coreceptor for SEMA3A. Necessary for signaling by class 3 semaphorins and subsequent remodeling of the cytoskeleton. Plays a role in axon guidance in the developing nervous system. Class 3 semaphorins bind to a complex composed of a neuropilin and a plexin. The plexin modulates the affinity of the complex for specific semaphorins, and its cytoplasmic domain is required for the activation of down-stream signaling events in the cytoplasm (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKAMPWNWTCLLSHLLMVGMGSSTLLTRQPAPLSQKQRSFVTFRGEPAEGFNHLVVDERTGHIYLGAVNRIYKLSSDLKVLVTHETGPDEDNPKCYPPRIVQTCNEPLTTTNNVNKMLLIDYKENRLIACGSLYQGICKLLRLEDLFKLGEPYHKKEHYLSGVNESGSVFGVIVSYSNLDDKLFIATAVDGKPEYFPTISSRKLTKNSEADGMFAYVFHDEFVASMIKIPSDTFTIIPDFDIYYVYGFSSGNFVYFLTLQPEMVSPPGSTTKEQVYTSKLVRLCKEDTAFNSYVEVPIGCERSGVEYRLLQAAYLSKAGAVLGRTLGVHPDDDLLFTVFSKGQKRKMKSLDESALCIFILKQINDRIKERLQSCYRGEGTLDLAWLKVKDIPCSSALLTIDDNFCGLDMNAPLGVSDMVRGIPVFTEDRDRMTSVIAYVYKNHSLAFVGTKSGKLKKSFGTGPQGGITQEWIGVEGDPPGANIASQEQMLCVYLQCSSHKAISDQRVQPLLCCFLNVPGNSS
+PTM	Glycosylation:1007;Methylation:182,317,718,723,816,960,1133,1156,1164,1272,1397,1406,1415,1420,1600,1656,1690,1714,1802;Phosphorylation:426,639,877,957,967,975,1036,1041,1112,1270,1432,1605,1621,1628,1630,1633,1636,1670,1679,1684;Ubiquitylation:1685,1797

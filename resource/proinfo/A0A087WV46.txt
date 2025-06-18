@@ -1,0 +1,25 @@
+UniprotID	A0A087WV46
+Accession	A0A087WV46
+EntryName	A0A087WV46_HUMAN
+ProteinName	Ragulator complex protein LAMTOR4 (Late endosomal/lysosomal adaptor and MAPK and MTOR activator 4)
+GeneName	LAMTOR4
+Length	82
+Function	As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane. Activated Ragulator and Rag GTPases function as a scaffold recruiting mTORC1 to lysosomes where it is in turn activated.
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSALTQGLERIPDQLGYLVLSEGAVLASSGDLENDEQAASAISELVSTACGFRLHRGMNVPFKRLSGVSLLQWSLENTHCW
+PTM	

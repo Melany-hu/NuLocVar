@@ -1,0 +1,25 @@
+UniprotID	H3BUD3
+Accession	H3BUD3
+EntryName	H3BUD3_HUMAN
+ProteinName	Cyclin F
+GeneName	CCNF
+Length	186
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XASSEIVCQLFQASQAVSKQQVFSVQKGLNDTMRYILIDWLVEVATMKDFTSLCLHLTVECVDRYLRRRLVPRYRLQLLGIACMVICTRFISKEILTIREAVWLTDNTYKYEDLVRMMGEIVSALEGKIRPWSRRPRLHHVAICAGALRVQHRREHHPGQTLRWACMRHCTKEPPSAESPHPVPAV
+PTM	

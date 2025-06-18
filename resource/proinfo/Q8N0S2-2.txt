@@ -1,0 +1,25 @@
+UniprotID	Q8N0S2-2
+Accession	Q8N0S2;B2RC80;Q9BWU3;Q9BWU4
+EntryName	SYCE1_HUMAN
+ProteinName	Synaptonemal complex central element protein 1 (Cancer/testis antigen 76) (CT76)
+GeneName	SYCE1 C10orf94
+Length	282
+Function	Major component of the transverse central element of synaptonemal complexes (SCS), formed between homologous chromosomes during meiotic prophase. Requires SYCP1 in order to be incorporated into the central element. May have a role in the synaptonemal complex assembly, stabilization and recombination.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEMVQKLQKVGSLEPRVEVLINRINEVQQAKKKANKDLGEARTICEALQKELDSLHGEKVHLKEILSKKQETLRILRLHCQEKESEAHRKHTMLQECKERISALNLQIEEEKNKQRQLRLAFEEQLEDLMGQHKDLWDFHMPERLAKEICALDSSKEQLLKEEKLVKATLEDVKHQLCSLCGAEGPSTLDEGLFLRSQEAAATVQLFQEEHRKAEELLAAAAQRHQQLQQKCQQQQQKRQRLKEELEKHGMQVPAQAQSTQEEEAGPGDVAPRPGRPVTWWS
+PTM	Acetylation:279;Methylation:86,104,197,210,284,310;Phosphorylation:13,340;SUMOylation:197,284

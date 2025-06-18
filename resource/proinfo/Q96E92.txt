@@ -1,0 +1,25 @@
+UniprotID	Q96E92
+Accession	Q96E92
+EntryName	Q96E92_HUMAN
+ProteinName	5'-AMP-activated protein kinase catalytic subunit alpha-1 (EC 2.7.11.1) (EC 2.7.11.31) (Acetyl-CoA carboxylase kinase) (Hydroxymethylglutaryl-CoA reductase kinase) (Tau-protein kinase PRKAA1)
+GeneName	PRKAA1 hCG_37338
+Length	207
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATAEKQKHDGRVKIGHYILGDTLGVGTFGKVKVGKHELTGHKVAVKILNRQKIRSLDVVGKIRREIQNLKLFRHPHIIKLYQVISTPSDIFMVMEYVSGGELFDYICKNGRLDEKESRRLFQQILSGVDYCHRHMVVHRDLKPENVLLDAHMNAKIADFGLSNMMSDGEFLRTSCGSPNYAAPEVISGRDCNIIRILTSQFTNYQH
+PTM	

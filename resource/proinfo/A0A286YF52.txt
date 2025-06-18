@@ -1,0 +1,25 @@
+UniprotID	A0A286YF52
+Accession	A0A286YF52
+EntryName	A0A286YF52_HUMAN
+ProteinName	Peptidyl-tRNA hydrolase 1 homolog
+GeneName	PTRH1
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPGGFLGAGQRLSRAMSRCVLEPRPPGKRWMVSGVGRRRRGSRSLASVRPLCPGSRVPPNCCSVFLTGLAWTHRQQQQHHHHHHHHHHHHHHHHHHQWLSPHCASWEPGSASRLHGHYRREQSHLSGSCGKRPRVDLTQAPHDWRGSICKDGALQCLR
+PTM	

@@ -59,14 +59,15 @@
 	          <div class="col-md-2"></div>
 	          <div class="col-md-2">
 	            <select class="form-control my-select-tag" id="simple_search_tag0" name="simple_search_tag0">
+                <option value="All">--Select--</option>
+                <option value="uniprot">UniProt ID</option>
                 <option value="gene">Gene name</option>
-	              <option value="uniprot">UniProt ID</option>
 	              <option value="protein">Protein name</option>
 	            </select>
 	          </div>
 
 	          <div class="col-md-6">
-	            <input class="form-control" type="text" placeholder="e.g. TP53" id="simple_search_input0" name="simple_search_input0">
+	            <input class="form-control" type="text" placeholder="e.g. Q9H4L7" id="simple_search_input0" name="simple_search_input0">
 	          </div>
 
 	        </div>
@@ -75,15 +76,17 @@
 	        <div class="row">
 	          <div class="col-md-2"></div>
 	          <div class="col-md-2">
-				<select class="form-control my-select-org" id="simple_search_org" name="simple_search_org">
+				<!--select class="form-control my-select-org" id="simple_search_org" name="simple_search_org">
 					<option value="All">Any field</option>
 					<option value="Human">Human</option>
 					<option value="Mouse">Mouse</option>
 					<option value="Rat">Rat</option>
 					<option value="Yeast">Yeast</option>
 					<option value="Fruit fly">Fruit fly</option>
-            	</select>
+            	</select-->
 	          </div>
+
+            
 	          <div class="col-md-2">
 	            <button type="button" class="form-control btn btn-mine" id="Example">Example</button>
 	          </div>

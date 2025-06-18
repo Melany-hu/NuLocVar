@@ -1,0 +1,25 @@
+UniprotID	Q6UWF3-3
+Accession	Q6UWF3;A6XGL4;B4DLK1;Q96MD0
+EntryName	SCIMP_HUMAN
+ProteinName	SLP adapter and CSK-interacting membrane protein (SLP65/SLP76, Csk-interacting membrane protein)
+GeneName	SCIMP C17orf87 UNQ5783/PRO16090
+Length	138
+Function	Lipid tetraspanin-associated transmembrane adapter/mediator that acts as a scaffold for Src-family kinases and other signaling proteins in immune cells (PubMed:21930792). It is involved in major histocompatibility complex class II (MHC-II) signaling transduction in B cells, where it is required in generating the calcium response and enhancing ERK activity upon MHC-II stimulation (PubMed:21930792). In dendritic cells, it is involved in sustaining CLEC7A/DECTIN1 signaling after CLEC7A activation by fungal beta-glucans (By similarity). It also acts as an agonist-inducible signaling adapter for TLR1, TLR2, TLR3, TLR4, and TLR7 by selectively enabling the expression of pro-inflammatory cytokines IL6 and IL12B in macrophages and acting as a scaffold for phosphorylation of Toll-like receptors by Src-family kinases (By similarity).
+Subcellular Location	Cell membrane; Cell membrane; Cytoplasmic vesicle; Phagosome; Cell projection; Ruffle; Cell projection; Filopodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTFTVQDSTAMSWWRNNFWIILAVAIIVVSVGLGLILYCVCKKWEIAKPLKHKQVDEEKMYENVLNESPVQLPPLPPRNWPSLEDSSPQEAPSQPPATYSLVNKVKNKKTVSIPSYIEPEDDYDDVEIPANTEKASF
+PTM	Methylation:56;Phosphorylation:131

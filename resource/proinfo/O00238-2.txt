@@ -1,0 +1,25 @@
+UniprotID	O00238-2
+Accession	O00238;B2R953;B4DSV1;P78366
+EntryName	BMR1B_HUMAN
+ProteinName	Bone morphogenetic protein receptor type-1B (BMP type-1B receptor) (BMPR-1B) (EC 2.7.11.30) (CD antigen CDw293)
+GeneName	BMPR1B
+Length	532
+Function	On ligand binding, forms a receptor complex consisting of two type II and two type I transmembrane serine/threonine kinases. Type II receptors phosphorylate and activate type I receptors which autophosphorylate, then bind and activate SMAD transcriptional regulators. Receptor for BMP7/OP-1 and GDF5. Positively regulates chondrocyte differentiation through GDF5 interaction.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGWLEELNWQLHIFLLILLSMHTRANFLDNMLLRSAGKLNVGTKKEDGESTAPTPRPKVLRCKCHHHCPEDSVNNICSTDGYCFTMIEEDDSGLPVVTSGCLGLEGSDFQCRDTPIPHQRRSIECCTERNECNKDLHPTLPPLKNRDFVDGPIHHRALLISVTVCSLLLVLIILFCYFRYKRQETRPRYSIGLEQDETYIPPGESLRDLIEQSQSSGSGSGLPLLVQRTIAKQIQMVKQIGKGRYGEVWMGKWRGEKVAVKVFFTTEEASWFRETEIYQTVLMRHENILGFIAADIKGTGSWTQLYLITDYHENGSLYDYLKSTTLDAKSMLKLAYSSVSGLCHLHTEIFSTQGKPAIAHRDLKSKNILVKKNGTCCIADLGLAVKFISDTNEVDIPPNTRVGTKRYMPPEVLDESLNRNHFQSYIMADMYSFGLILWEVARRCVSGGIVEEYQLPYHDLVPSDPSYEDMREIVCIKKLRPSFPNRWSSDECLRQMGKLMTECWAHNPASRLTALRVKKTLAKMSESQDIKL
+PTM	Glycosylation:21,24;Methylation:4,299,341,447;Phosphorylation:155,160,175,335,458,459;Ubiquitylation:336,342,447,493

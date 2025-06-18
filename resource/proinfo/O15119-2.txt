@@ -1,0 +1,25 @@
+UniprotID	O15119-2
+Accession	O15119;Q8TB20;Q9UKF8
+EntryName	TBX3_HUMAN
+ProteinName	T-box transcription factor TBX3 (T-box protein 3)
+GeneName	TBX3
+Length	723
+Function	Transcriptional repressor involved in developmental processes (PubMed:10468588). Binds to the palindromic T site 5'-TTCACACCTAGGTGTGAA-3' DNA sequence, or a half-site, which are present in the regulatory region of several genes (PubMed:12000749). Probably plays a role in limb pattern formation (PubMed:10468588). Required for mammary placode induction, and maintenance of the mammary buds during development (By similarity). Involved in branching morphogenesis in both developing lungs and adult mammary glands, via negative modulation of target genes; acting redundantly with TBX2 (By similarity). Required, together with TBX2, to maintain cell proliferation in the embryonic lung mesenchyme; perhaps acting downstream of SHH, BMP and TGFbeta signaling (By similarity). Involved in modulating early inner ear development, acting independently of, and also redundantly with, TBX2 in different subregions of the developing ear (By similarity). Acts as a negative regulator of PML function in cellular senescence (PubMed:22002537).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	290...295
+validnes_region	
+nesbase_region	
+Sequence	MSLSMRDPVIPGTSMAYHPFLPHRAPDFAMSAVLGHQPPFFPALTLPPNGAAALSLPGALAKPIMDQLVGAAETGIPFSSLGPQAHLRPLKTMEPEEEVEDDPKVHLEAKELWDQFHKRGTEMVITKSGRRMFPPFKVRCSGLDKKAKYILLMDIIAADDCRYKFHNSRWMVAGKADPEMPKRMYIHPDSPATGEQWMSKVVTFHKLKLTNNISDKHGFTILNSMHKYQPRFHIVRANDILKLPYSTFRTYLFPETEFIAVTAYQNDKITQLKIDNNPFAKGFRDTGNGRREKRKQLTLQSMRVFDERHKKENGTSDESSSEQAAFNCFAQASSPAASTVGTSNLKDLCPSEGESDAEAESKEEHGPEACDAAKISTTTSEEPCRDKGSPAVKAHLFAAERPRDSGRLDKASPDSRHSPATISSSTRGLGAEERRSPVREGTAPAKVEEARALPGKEAFAPLTVQTDAAAAHLAQGPLPGLGFAPGLAGQQFFNGHPLFLHPSQFAMGGAFSSMAAAGMGPLLATVSGASTGVSGLDSTAMASAAAAQGLSGASAATLPFHLQQHVLASQGLAMSPFGSLFPYPYTYMAAAAAASSAAASSSVHRHPFLNLNTMRPRLRYSPYSIPVPVPDGSSLLTTALPSMAAAAGPLDGKVAALAASPASVAVDSGSELNSRSSTLSSSSMSLSPKLCAEKEAATSELQSIQRLVSGLEAKPDRSRSASP
+PTM	Acetylation:407,466,714,734;Methylation:175,182,262,695,709;Phosphorylation:265,371,375,381,400,409,425,432,435,438,441,443,444,445,446,456,462,640,643,680,688,690,694,705,707,738,740,742;SUMOylation:91,127,175,293,301,315,413,466,709,714;Ubiquitylation:262,293,301,466,709,714,734

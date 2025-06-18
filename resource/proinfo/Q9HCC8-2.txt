@@ -1,0 +1,25 @@
+UniprotID	Q9HCC8-2
+Accession	Q9HCC8;B4DRH4;B4DVC9;Q9NXJ6
+EntryName	GDPD2_HUMAN
+ProteinName	Glycerophosphoinositol inositolphosphodiesterase GDPD2 (EC 3.1.4.43) (Glycerophosphodiester phosphodiesterase 3) (Glycerophosphodiester phosphodiesterase domain-containing protein 2) (Osteoblast differentiation promoting factor)
+GeneName	GDPD2 GDE3 OBDPF UNQ1935/PRO4418
+Length	460
+Function	Has glycerophosphoinositol inositolphosphodiesterase activity and specifically hydrolyzes glycerophosphoinositol, with no activity for other substrates such as glycerophosphoinositol 4-phosphate, glycerophosphocholine, glycerophosphoethanolamine, and glycerophosphoserine. Accelerates the program of osteoblast differentiation and growth. May play a role in remodeling of the actin cytoskeleton (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDWSLAFLLVISLLVTYASLLLVLALLLRLCRQPLHLHSLHKVLLLLIMLLVAAGLVGLDIQWQQEWHSLRVSLQATAPFLHIGAAAGIALLAWPVADTFYRIHRRGPKILLLLLFFGVVLVIYLAPLCISSPCIMEPRDLPPKPGLVGHRGAPMLAPENTLMSLRKTAECGATVFETDVMVSSDGVPFLMHDEHLSRTTNVASVFPTRITAHSSDFSWTELKRLNAGSWFLERRPFWGAKPLAGPDQKEAESQTVPALEELLEEAAALNLSIMFDLRRPPQNHTYYDTFVIQTLETVLNARVPQAMVFWLPDEDRANVQRRAPGMRQIYGRQGGNRTERPQFLNLPYQDLPLLDIKALHKDNVSVNLFVVNKPWLFSLLWCAGVDSVTTNDCQLLQQMRYPIWLITPQTYLIIWVITNCVSTMLLLWTFLLQRRFVKKRGKTGLETAVLLTRINNFMME
+PTM	Methylation:246,436

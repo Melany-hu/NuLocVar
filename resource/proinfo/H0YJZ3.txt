@@ -1,0 +1,25 @@
+UniprotID	H0YJZ3
+Accession	H0YJZ3
+EntryName	H0YJZ3_HUMAN
+ProteinName	Protein phosphatase 2 regulatory subunit B'gamma
+GeneName	PPP2R5C
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QPNIAKKYIDQKFVLQLLELFDSEDPRERDFLKTTLHRIYGKFLGLRAYIRKQINNIFYRCLKFSKIKY
+PTM	

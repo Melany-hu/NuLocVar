@@ -1,0 +1,25 @@
+UniprotID	P0CAP1-3
+Accession	P0CAP1;D2E9U7;Q6EER8;Q6EES2;Q6EEV3;Q6EF00;Q6EF01;Q6EF02;Q6EF46;Q6EFN8;Q6EM48;Q6K046;Q6K050;Q6K051;Q6ZQZ3;Q8NC58;Q8NCF3;Q96DI5;Q96JB7;Q96NF5
+EntryName	MYZAP_HUMAN
+ProteinName	Myocardial zonula adherens protein (GRINL1A upstream protein) (Gup)
+GeneName	MYZAP MYOZAP
+Length	435
+Function	Plays a role in cellular signaling via Rho-related GTP-binding proteins and subsequent activation of transcription factor SRF (By similarity). Targets TJP1 to cell junctions. In cortical neurons, may play a role in glutaminergic signal transduction through interaction with the NMDA receptor subunit GRIN1 (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell membrane; Cytoplasm; Myofibril; Sarcomere; I band; Cytoplasm; Myofibril; Sarcomere; Z line; Cell junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRSTSTVTLLSGGAARTPGAPSRRANVCRLRLTVPPESPVPEQCEKKIERKEQLLDLSNGEPTRKLPQGVVYGVVRRSDQNQQKEMVVYGWSTSQLKEEMNYIKDVSHAQQEYLENHIQTQSSALDRFNAMNSALASDSIGLQKTLVDVTLENSNIKDQIRNLQQTYEASMDKLREKQRQLEVAQVENQLLKMKVESSQEANAEVMREMTKKLYSQYEEKLQEEQRKHSAEKEALLEETNSFLKAIEEANKKMQAAEISLEEKDQRIGELDRLIERMEKERHQLQLQLLEHETEMSGELTDSDKERYQQLEEASASLRERIRHLDDMVHCQQKKVKQMVEEIESLKKKLQQKQLLILQLLEKISFLEGENNELQSRLDYLTETQAKTEVETREIGVGCDLLPSQTGRTREIVMPSRNYTPYTRVLELTMKKTLT
+PTM	Methylation:85,105,113,224,276,283,295,394;Phosphorylation:23,110,273,328,348,451

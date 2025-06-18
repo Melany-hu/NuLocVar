@@ -1,0 +1,25 @@
+UniprotID	G3V1T9
+Accession	G3V1T9
+EntryName	G3V1T9_HUMAN
+ProteinName	RNA binding motif protein 7
+GeneName	RBM7 hCG_2032547
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDNMTSSAQIIQRSFSSPENFQRQAVMNSALRQMSYGGKFGSSPLDQSGFSPSVQSHSHSFNQSSSSQWRQGTPSSQRKVRMNSYPYLADRHYSREQRYTDHGSDHHYRGKRDDFFYEDRNHDDWSHDYDNRRDSSRDGKWRSSRH
+PTM	

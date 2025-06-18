@@ -1,0 +1,25 @@
+UniprotID	A0A0A6YYI5
+Accession	A0A0A6YYI5
+EntryName	A0A0A6YYI5_HUMAN
+ProteinName	Vestigial like 4 (Drosophila), isoform CRA_b (Vestigial like family member 4)
+GeneName	VGLL4 hCG_1777277
+Length	295
+Function	May act as a specific coactivator for the mammalian TEFs.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTENTHFDKIPESCALKSWRHPGLHHGEAALRGEPRIQTLPVASALSSHRTGPPPISPSKRKFSMEPGDEDLDCDNDHVSKMSRIFNPHLNKTANGDCRRDPRERSRSPIERAVAPTMSLHGSHLYTSLPSLGLEQPLALTKNSLDASRPAGLSPTLTPGERQQNRPSVITCASAGARNCNLSHCPIAHSGCAAPGPASYRRPPSAATTCDPVVEEHFRRSLGKNYKEPEPAPNSVSITGSVDDHFAKALGDTWLQIKAAKDGASSSPESASRRGQPASPSAHMVSHSHSPSVVS
+PTM	

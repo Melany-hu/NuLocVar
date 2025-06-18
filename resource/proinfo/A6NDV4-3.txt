@@ -1,0 +1,25 @@
+UniprotID	A6NDV4-3
+Accession	A6NDV4;B3KQF3;O75539;Q49AB1;Q4KMX5;Q5TCW5;Q9HBY2;Q9P0U7
+EntryName	TMM8B_HUMAN
+ProteinName	Transmembrane protein 8B (Nasopharyngeal carcinoma-associated gene 6 protein) (Protein NAG-5) (Protein NGX6)
+GeneName	TMEM8B C9orf127 NGX6
+Length	257
+Function	May function as a regulator of the EGFR pathway. Probable tumor suppressor which may function in cell growth, proliferation and adhesion.
+Subcellular Location	Cell membrane; Cytoplasm; Nucleus; Mitochondrion; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRPHFHTCPPQSSVRQENVTVFGCLTHEVPLSLGDAAVTCSKESLAGFLLSVSATTRVARLRIPFPQTGTWFLALRSLCGVGPRFVRCRNATAEVRMRTFLSPCVDDCGPYGQCKLLRTHNYLYAACECKAGWRGWGCTDSADALTYGFQLLSTLLLCLSNLMFLPPVVLAIRSRYVLEAAVYTFTMFFSTVCGGVCILSLGACAWWWVTVCISTTFSEGLGMSVPSLCLLQTETAVLPKLSCIDNGHFCKTHWSK
+PTM	Phosphorylation:114,123,135,365,372,375

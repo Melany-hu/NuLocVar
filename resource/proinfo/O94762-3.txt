@@ -1,0 +1,25 @@
+UniprotID	O94762-3
+Accession	O94762;Q6P4G0;Q9H0B1;Q9P1W7;Q9UNC8
+EntryName	RECQ5_HUMAN
+ProteinName	ATP-dependent DNA helicase Q5 (EC 5.6.2.4) (DNA 3'-5' helicase RecQ5) (DNA helicase, RecQ-like type 5) (RecQ5) (RecQ protein-like 5)
+GeneName	RECQL5 RECQ5
+Length	435
+Function	DNA helicase that plays an important role in DNA replication, transcription and repair (PubMed:20643585, PubMed:22973052, PubMed:28100692). Probably unwinds DNA in a 3'-5' direction (Probable) (PubMed:28100692). Binds to the RNA polymerase II subunit POLR2A during transcription elongation and suppresses transcription-associated genomic instability (PubMed:20231364). Also associates with POLR1A and enforces the stability of ribosomal DNA arrays (PubMed:27502483). Plays an important role in mitotic chromosome separation after cross-over events and cell cycle progress (PubMed:22013166). Mechanistically, removes RAD51 filaments protecting stalled replication forks at common fragile sites and stimulates MUS81-EME1 endonuclease leading to mitotic DNA synthesis (PubMed:28575661). Required for efficient DNA repair, including repair of inter-strand cross-links (PubMed:23715498). Stimulates DNA decatenation mediated by TOP2A. Prevents sister chromatid exchange and homologous recombination. A core helicase fragment (residues 11-609) binds preferentially to splayed duplex, looped and ssDNA (PubMed:28100692).
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSHHTTFPFDPERRVRSTLKKVFGFDSFKTPLQESATMAVVKGNKDVFVCMPTGAGKSLCYQLPALLAKGITIVVSPLIALIQDQVDHLLTLKVRVSSLNSKLSAQERKELLADLEREKPQTKILYITPEMAASSSFQPTLNSLVSRHLLSYLVVDEAHCVSQWGHDFRPDYLRLGALRSRLGHAPCVALTATATPQVQEDVFAALHLKKPVAIFKTPCFRANLFYDVQFKELISDPYGNLKDFCLKALGQEADKGLSGCGIVYCRTREACEQLAIELSCRGVNAKAYHAGLKASERTLVQNDWMEEKVPVIVATISFGMGVDKANVRFVAHWNIAKSMAGYYQESGRAGRDGKPSWCRLYYSRNDRDQVSFLIRKEVAKLQEKRGNKASDKATIMAFDALVTFCEELGRWGRGHGKSLRAAWCSQVVSRHAEL
+PTM	Acetylation:651,743,759,869,876;Methylation:70,94,210,232,338,377,381,385,745,884,952;Phosphorylation:19,450,451,452,454,484,488,491,720,723,727,734,735,736,774,805,815,839,845,858,953,954,979;SUMOylation:43,103,248,294,355,521,592,598,661,749;Ubiquitylation:103,248

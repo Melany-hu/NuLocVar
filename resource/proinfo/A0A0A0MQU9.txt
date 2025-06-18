@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MQU9
+Accession	A0A0A0MQU9
+EntryName	A0A0A0MQU9_HUMAN
+ProteinName	Abl interactor 2
+GeneName	ABI2
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELQMLLEEEIPGGRRALFDSYTNLERVADYCENNYIQSADKQRALEETKAYTTQSLASVAYLINTLANNVLQMLDIQASQLRRMESSINHISQAILQFNPVW
+PTM	

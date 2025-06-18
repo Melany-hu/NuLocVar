@@ -1,0 +1,25 @@
+UniprotID	H0YJR8
+Accession	H0YJR8
+EntryName	H0YJR8_HUMAN
+ProteinName	Dehydrogenase/reductase 7
+GeneName	DHRS7
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XILVNNGGMSQRSLCMDTSLDVYRKLIELNYLGTVSLTKCVLPHMIERKQGKIVTVNSILGIISVPLSIGYCASKHALRGFFNGLRTELATYPGIIVSNICPGPVQSNIVENSLAGEVTKTIGNNGDQSHKMTTSRCVRLMLISMANDLKEVWISEQPFLMQTLLILKSLRQNMTEKSTCTFQATGGRNGKHENSNLLMLLNNQRLICDFTF
+PTM	

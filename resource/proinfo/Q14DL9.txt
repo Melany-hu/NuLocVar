@@ -1,0 +1,25 @@
+UniprotID	Q14DL9
+Accession	Q14DL9
+EntryName	Q14DL9_HUMAN
+ProteinName	C-type lectin domain containing 5A (CLEC5A protein) (cDNA FLJ51846, highly similar to C-type lectin domain family 5 member A)
+GeneName	CLEC5A
+Length	165
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNWHMIISGLIVVVLKVVGMTLFLLYFPQIFNKSNDGFTTTRSYGTVCPKDWEFYQARCFFLSTSESSWNESRDFCKGKGSTLAIVNTPEKLKFLQDITDAEKYFIGLIYHREEKRWRWINNSVFNGNVTNQNQNFNCATIGLTKTFDAASCDISYRRICEKNAK
+PTM	

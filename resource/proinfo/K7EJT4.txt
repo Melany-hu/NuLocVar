@@ -1,0 +1,25 @@
+UniprotID	K7EJT4
+Accession	K7EJT4
+EntryName	K7EJT4_HUMAN
+ProteinName	Protein inhibitor of activated STAT 2
+GeneName	PIAS2
+Length	122
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	49...54
+validnes_region	
+nesbase_region	
+Sequence	MVSSFRVSELQVLLGFAGRNKSGRKHDLLMRALHLLKSGCSPAVQIKIRELYRRRYPRTLEGLSDLSTIKSSVFSLDGGSSPVEPDLAVAGIHSLPSTSVTPHSPSSPVGSVLLQDTKPTFE
+PTM	

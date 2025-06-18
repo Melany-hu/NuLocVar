@@ -1,0 +1,25 @@
+UniprotID	Q9P1Z2-4
+Accession	Q9P1Z2;B3KVA8;Q6FI59;Q71RC3;Q86WF8;Q96JU3;Q9H090
+EntryName	CACO1_HUMAN
+ProteinName	Calcium-binding and coiled-coil domain-containing protein 1 (Calphoglin) (Coiled-coil coactivator protein) (Sarcoma antigen NY-SAR-3)
+GeneName	CALCOCO1 KIAA1536 PP13275 UNQ2436/PRO4996
+Length	606
+Function	Functions as a coactivator for aryl hydrocarbon and nuclear receptors (NR). Recruited to promoters through its contact with the N-terminal basic helix-loop-helix-Per-Arnt-Sim (PAS) domain of transcription factors or coactivators, such as NCOA2. During ER-activation acts synergistically in combination with other NCOA2-binding proteins, such as EP300, CREBBP and CARM1. Involved in the transcriptional activation of target genes in the Wnt/CTNNB1 pathway. Functions as a secondary coactivator in LEF1-mediated transcriptional activation via its interaction with CTNNB1. Coactivator function for nuclear receptors and LEF1/CTNNB1 involves differential utilization of two different activation regions (By similarity). In association with CCAR1 enhances GATA1- and MED1-mediated transcriptional activation from the gamma-globin promoter during erythroid differentiation of K562 erythroleukemia cells (PubMed:24245781).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEESPLSRAPSRGGVNFLNVARTYIPNTKVECHYTLPPGTMPSASDWIGIFKVEAACVRDYHTFVWSSVPESTTDGSPIHTSVQFQEPRPMDELVTLEEADGGSDILLVVPKATVLQNQLDESQQERNDLMQLKLQLEGQVTELRSRVQELERALATARQEHTELMEQYKGISRSHGEITEERDILSRQQGDHVARILELEDDIQTISEKVLTKEVELDRLRDTVKALTREQEKLLGQLKEVQADKEQSEAELEPLKEQLRGAQELAASSQQKATLLGEELASAAAARDRTIAELHRSRLEVAEVNGRLAELGLHLKEEKCQWSKERAGLLQSVEAEKDKILKLSAEILRLEKAVQEERTQNQVFKTELAREKDSSLVQLSESKRELTELRSALRVLQKEKEQLQEEKQELLEYMRKLEARLEKVADEKWNEDATTEDEEAAVGLSCPAALTDSEDESPEDMRLPPYGLCERGDPGSSPAGPREASPLVVISQPAPISPHLSGPAEDSSSDSEAEDEKSVLMAAVQSGGEEANLLLPELGSAFYDMASGFTVGTLSETSTGGPATPTWKECPICKERFPAESDKDALEDHMDGHFFFSTQDPFTFE
+PTM	Methylation:301,458;Phosphorylation:4,7,11,305,311,460,461,466,562,563,583,587,593,594,595,597;Ubiquitylation:259,273,304,325,428

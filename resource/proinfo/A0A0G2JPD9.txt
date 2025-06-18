@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JPD9
+Accession	A0A0G2JPD9
+EntryName	A0A0G2JPD9_HUMAN
+ProteinName	Sperm associated antigen 11B
+GeneName	SPAG11B
+Length	82
+Function	Has antimicrobial activity against E.coli. Plays a role in the defense response in the male reproductive tract, contributing to sperm maturation, storage and protection.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQRLLPSVTSLLLVALLFPGSSQARHVNHSATEALGELRERAPGQGTNGFQLLRHAVKRDLLQPRTPPYQGTGQQHRQRCG
+PTM	

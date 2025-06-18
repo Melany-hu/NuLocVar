@@ -1,0 +1,25 @@
+UniprotID	B0QYL8
+Accession	B0QYL8
+EntryName	B0QYL8_HUMAN
+ProteinName	RNA polymerase II, I and III subunit F
+GeneName	POLR2F
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELKLLWGLEYTVLRPSYALAHSLGSFSISSR
+PTM	

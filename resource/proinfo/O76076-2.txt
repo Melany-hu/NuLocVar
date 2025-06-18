@@ -1,0 +1,25 @@
+UniprotID	O76076-2
+Accession	O76076;B2R9N4;E1P612;Q6PEG3
+EntryName	CCN5_HUMAN
+ProteinName	CCN family member 5 (Connective tissue growth factor-like protein) (CTGF-L) (Connective tissue growth factor-related protein 58) (WNT1-inducible-signaling pathway protein 2) (WISP-2)
+GeneName	CCN5 CT58 CTGFL WISP2 UNQ228/PRO261
+Length	218
+Function	May play an important role in modulating bone turnover. Promotes the adhesion of osteoblast cells and inhibits the binding of fibrinogen to integrin receptors. In addition, inhibits osteocalcin production.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGTPKTHLLAFSLLCLLSKVRTQLCPTPCTCPWPPPRCPLGVPLVLDGCGCCRVCARRLGEPCDQLHVCDASQGLVCQPGAGPGGRGALCLCKQDPSFLALSLPCPLVSPAQNGARPGDPARPPVGWAWPPGCPTRTASADWRPSAACACPGPAHPPGVAVHKTVPSRAGLGMGTRCPPSPAGGPVPGPWADGRWSVPRPLAAGNTLAWVHHAEHQY
+PTM	Methylation:20,156;Phosphorylation:234,240

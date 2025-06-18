@@ -1,0 +1,25 @@
+UniprotID	Q96EA4-3
+Accession	Q96EA4;B4E393;C9JS47;Q8TEC8;Q9HD44;Q9NX97
+EntryName	SPDLY_HUMAN
+ProteinName	Protein Spindly (hSpindly) (Arsenite-related gene 1 protein) (Coiled-coil domain-containing protein 99) (Rhabdomyosarcoma antigen MU-RMS-40.4A) (Spindle apparatus coiled-coil domain-containing protein 1)
+GeneName	SPDL1 CCDC99
+Length	527
+Function	Required for the localization of dynein and dynactin to the mitotic kintochore. Dynein is believed to control the initial lateral interaction between the kinetochore and spindle microtubules and to facilitate the subsequent formation of end-on kinetochore-microtubule attachments mediated by the NDC80 complex. Also required for correct spindle orientation. Does not appear to be required for the removal of spindle assembly checkpoint (SAC) proteins from the kinetochore upon bipolar spindle attachment (PubMed:17576797, PubMed:19468067). Acts as an adapter protein linking the dynein motor complex to various cargos and converts dynein from a non-processive to a highly processive motor in the presence of dynactin. Facilitates the interaction between dynein and dynactin and activates dynein processivity (the ability to move along a microtubule for a long distance without falling off the track) (PubMed:25035494). Plays a role in cell migration (PubMed:30258100).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome; Centromere; Kinetochore; Nucleus; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEADIITNLRCRLKEAEEERLKAAQYGLQLVESQNELQNQLDKCRNEMMTMTESYEQEKYTLQREVELKSRMLESLSCECEAIKQQQKMHLEKLEEQLSRSHGQEVNELQYRQEQLELLITNLMRQVDRLKEEKEEREKEAVSYYNALEKARVANQDLQVQLDQALQQALDPNSKGNSLFAEVEDRRAAMERQLISMKVKYQSLKKQNVFNREQMQRMKLQIATLLQMKGSQTEFEQQERLLAMLEQKNGEIKHLLGEIRNLEKFKNLYDSMESKPSVDSGTLEDNTYYTDLLQMKLDNLNKEIESTKGELSIQRMKALFESQRALDIERKLFANERCLQLSESENMKLRAKLDELKLKYEPEETVEVPVLKKRREVLPVDITTAKDACVNNSALGGEVYRLPPQKEETQSCPNSLEDNNLQLEKSVSIYTPVVSLSPHKNLPVDMQLKKEKKCVKLIGVPADAEALSERSGNTPNSPRLAAESKLQTEVKEGKETSSKLEKETCKKLHPILYVSSKSTPETQCPQQ
+PTM	Acetylation:128,534;Methylation:69,84,110,212,228,264,265,342,435,503;Phosphorylation:221,223,390,471,487,493,504,506,508,509,513,515,549,552,555;SUMOylation:228,437,527;Ubiquitylation:331,374,534,563

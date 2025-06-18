@@ -1,0 +1,25 @@
+UniprotID	Q96AC1-2
+Accession	Q96AC1;B5TJY2;Q14840;Q86TY7
+EntryName	FERM2_HUMAN
+ProteinName	Fermitin family homolog 2 (Kindlin-2) (Mitogen-inducible gene 2 protein) (MIG-2) (Pleckstrin homology domain-containing family C member 1) (PH domain-containing family C member 1)
+GeneName	FERMT2 KIND2 MIG2 PLEKHC1
+Length	633
+Function	Scaffolding protein that enhances integrin activation mediated by TLN1 and/or TLN2, but activates integrins only weakly by itself. Binds to membranes enriched in phosphoinositides. Enhances integrin-mediated cell adhesion onto the extracellular matrix and cell spreading; this requires both its ability to interact with integrins and with phospholipid membranes. Required for the assembly of focal adhesions. Participates in the connection between extracellular matrix adhesion sites and the actin cytoskeleton and also in the orchestration of actin assembly and cell shape modulation. Recruits FBLIM1 to focal adhesions. Plays a role in the TGFB1 and integrin signaling pathways. Stabilizes active CTNNB1 and plays a role in the regulation of transcription mediated by CTNNB1 and TCF7L2/TCF4 and in Wnt signaling.
+Subcellular Location	Cytoplasm; Cytoplasm; Cell cortex; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Stress fiber; Cell junction; Focal adhesion; Membrane; Cell projection; Lamellipodium membrane; Nucleus; Cytoplasm; Myofibril; Sarcomere; I band; Cell surface
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	147...152
+validnes_region	
+nesbase_region	
+Sequence	MALDGIRMPDGCYADGTWELSVHVTDLNRDVTLRVTGEVHIGGVMLKLVEKLDVKKDWSDHALWWEKKRTWLLKTHWTLDKYGIQADAKLQFTPQHKLLRLQLPNMKYVKVKVNFSDRVFKAVSDICKTFNIRHPEELSLLKKPRDPTKKKKKKLDDQSEDEALELEGPLITPGSGSIYSSPGLYSKTMTPTYDAHDGSPLSPTSAWFGDSALSEGNPGILAVSQPITSPEILAKMFKPQALLDKAKINQGWLDSSRSLMEQDVKENEALLLRFKYYSFFDLNPKYDAIRINQLYEQAKWAILLEEIECTEEEMMMFAALQYHINKLSIMTSENHLNNSDKEVDEVDAALSDLEITLEGGKTSTILGDITSIPELADYIKVFKPKKLTLKGYKQYWCTFKDTSISCYKSKEESSGTPAHQMNLRGCEVTPDVNISGQKFNIKLLIPVAEGMNEIWLRCDNEKQYAHWMAACRLASKGKTMADSSYNLEVQNILSFLKMQHLNPDPQLIPEQITTDITPECLVSPRYLKKYKNKQPGYIRDLITARILEAHQNVAQMSLIEAKMRFIQAWQSLPEFGITHFIARFQGGKKEELIGIAYNRLIRMDASTGDAIKTWRFSNMKQWNVNWEIKMVNS
+PTM	Acetylation:51,67,81,285,408,462,605;Methylation:51,55,74,118,142,235,245,285,361,390,424,497,555,605;Phosphorylation:32,108,139,159,172,175,177,179,180,181,185,186,192,199,202,214,229,276,277,328,332,339,351,378,388,403,414,416,435,479,494,523,590,610,666,673;Ubiquitylation:247,265,285,393,438,462,555,581,582,605,661

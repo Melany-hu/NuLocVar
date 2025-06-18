@@ -1,0 +1,25 @@
+UniprotID	L0R4W0
+Accession	L0R4W0
+EntryName	L0R4W0_HUMAN
+ProteinName	Alternative protein CDRT1
+GeneName	CDRT1
+Length	61
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCVFPLRKTTAPSLRPHKSIGQPKLSTHPFLCPKPQKMNTSLGQHLTLRNHGGIHSGVYPK
+PTM	

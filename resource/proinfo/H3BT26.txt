@@ -1,0 +1,25 @@
+UniprotID	H3BT26
+Accession	H3BT26
+EntryName	H3BT26_HUMAN
+ProteinName	Hyaluronan and proteoglycan link protein 3
+GeneName	HAPLN3
+Length	226
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLLLVPLLLLPGSYGLPFYNGFYYSNSANDQNLGNGHGKDLLNGVKLVVETPEETLFTYQGASVILPCRYRYEPALVSPRRVRVKWWKLSENGAPEKDVLVAIGLRHRSFGDYQGRVHLRQDKEHDVSLEIQDLRLEDYGRYRCEVIDGLEDESGLVELELRAESQERGGNGQEVWSFLTSPPTGATSSTSTRASRSVQSRLRWWPPLSSSSGPGRRAWTGATR
+PTM	

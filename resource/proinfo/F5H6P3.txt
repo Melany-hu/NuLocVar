@@ -1,0 +1,25 @@
+UniprotID	F5H6P3
+Accession	F5H6P3
+EntryName	F5H6P3_HUMAN
+ProteinName	Insulin-induced gene protein
+GeneName	INSIG1
+Length	178
+Function	Mediates feedback control of cholesterol synthesis.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRLHDHFWSCSCAHSARRRGPPRASAKLDFANNVQLSLTLAALSLGLWWTFDRSRSGLGLGITIAFLATLITQFLVYNGVYQYTSPDFLYIRSWLPCIFFSGGVTVGNIGRQLAMLIPFCEELNLKTTWLFHKTRSNYRVFLKSPIVIESSKPPILRARKILEENLTVDYDKDYLFS
+PTM	

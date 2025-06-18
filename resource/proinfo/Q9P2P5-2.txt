@@ -1,0 +1,25 @@
+UniprotID	Q9P2P5-2
+Accession	Q9P2P5;B8ZZB4;Q17RT5;Q68DF8;Q9NPS9
+EntryName	HECW2_HUMAN
+ProteinName	E3 ubiquitin-protein ligase HECW2 (EC 2.3.2.26) (HECT, C2 and WW domain-containing protein 2) (HECT-type E3 ubiquitin transferase HECW2) (NEDD4-like E3 ubiquitin-protein ligase 2)
+GeneName	HECW2 KIAA1301 NEDL2
+Length	82
+Function	E3 ubiquitin-protein ligase that mediates ubiquitination of TP73. Acts to stabilize TP73 and enhance activation of transcription by TP73 (PubMed:12890487). Involved in the regulation of mitotic metaphase/anaphase transition (PubMed:24163370).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPEIKICFKYYHGISGALRATTPCITVKNPAVMMGAEGMEGGASGNLHSRKLVSFTLSARKEEQFPHLCPPRAGETVYYHQ
+PTM	Methylation:529;Phosphorylation:24,42,48,50,108,153,154,190,220,270,300,388,389,390,400,407,415,444,453,794,850,852,907,909,1040,1042,1064,1167,1170,1171,1175,1178,1270,1398;Ubiquitylation:183

@@ -1,0 +1,25 @@
+UniprotID	C9JYE7
+Accession	C9JYE7
+EntryName	C9JYE7_HUMAN
+ProteinName	Multiple EGF like domains 11
+GeneName	MEGF11
+Length	227
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDRCQEECPFGSFGFQCSQHCDCHNGGQCSPTTGACECEPGYKGPRCQERLCPEGLHGPGCTLPCPCDADNTISCHPVTGACTCQPGWSGHHCNESCPVGYYGDGCQLPCTCQNGADCHSITGGCTCAPGFMGEVCAVSCAAGTYGPNCSSICSCNNGGTCSPVDGSCTCKEGWQGLDCTLPCPSGTWGLNCNESCTCANGAACSPIDGSCSCTPGWLGDTCELPC
+PTM	

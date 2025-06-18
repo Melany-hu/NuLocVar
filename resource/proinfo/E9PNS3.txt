@@ -1,0 +1,25 @@
+UniprotID	E9PNS3
+Accession	E9PNS3
+EntryName	E9PNS3_HUMAN
+ProteinName	Toll interacting protein
+GeneName	TOLLIP
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATTVSTQRGPVYIGELPQDFLRITPTQQQRQVQLDAQAAQQLQYGGAVGTVGRLNITVVQGCPLSVAPAWCPWPCPRPP
+PTM	

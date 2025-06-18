@@ -1,0 +1,25 @@
+UniprotID	P00451-2
+Accession	P00451;Q14286;Q5HY69
+EntryName	FA8_HUMAN
+ProteinName	Coagulation factor VIII (Antihemophilic factor) (AHF) (Procoagulant component) [Cleaved into: Factor VIIIa heavy chain, 200 kDa isoform; Factor VIIIa heavy chain, 92 kDa isoform; Factor VIII B chain; Factor VIIIa light chain]
+GeneName	F8 F8C
+Length	216
+Function	Factor VIII, along with calcium and phospholipid, acts as a cofactor for F9/factor IXa when it converts F10/factor X to the activated form, factor Xa.
+Subcellular Location	Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRIQDPGKVFFGNVDSSGIKHNIFNPPIIARYIRLHPTHYSIRSTLRMELMGCDLNSCSMPLGMESKAISDAQITASSYFTNMFATWSPSKARLHLQGRSNAWRPQVNNPKEWLQVDFQKTMKVTGVTTQGVKSLLTSMYVKEFLISSSQDGHQWTLFFQNGKVKVFQGNQDSFTPVVNSLDPPLLTRYLRIHPQSWVHQIALRMEVLGCEAQDLY
+PTM	Acetylation:1281;Glycosylation:1431;Methylation:82,108,161,185,344,485,726,752,787,943,1005,1018,1173,1183,1219,1309,1348,1492,1506,1600,1864,2155,2255,2298;Phosphorylation:189,260,425,428,430,884,885,1015,1745,1758,1761,1793,2010,2176

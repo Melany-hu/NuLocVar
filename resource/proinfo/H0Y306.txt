@@ -1,0 +1,25 @@
+UniprotID	H0Y306
+Accession	H0Y306
+EntryName	H0Y306_HUMAN
+ProteinName	SUV39H2 histone lysine methyltransferase
+GeneName	SUV39H2
+Length	176
+Function	
+Subcellular Location	Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWCVPCLVSLDTLQELCRKEKLTCKSIGITKRNLNNYEVEYLCDYKVVKVITSEEAERRGQFYDNKGITYLFDLDYESDEFTVDAARYGNVSHFVNHSCDPNLQVFNVFIDNLDTRLPRIALFSTRTINAGEELTFDYQMKGSGDISSDSIDHSPAKKRVRTVCKCGAVTCRGYLN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O15409-6
+Accession	O15409;A0AUV6;A4D0U8;A6NNW4;B4DLD9;Q6ZND1;Q75MJ3;Q8IZE0;Q8N0W2;Q8N6B7;Q8N6B8;Q8NFQ1;Q8NFQ2;Q8NFQ3;Q8NFQ4;Q8TD74
+EntryName	FOXP2_HUMAN
+ProteinName	Forkhead box protein P2 (CAG repeat protein 44) (Trinucleotide repeat-containing gene 10 protein)
+GeneName	FOXP2 CAGH44 TNRC10
+Length	432
+Function	Transcriptional repressor that may play a role in the specification and differentiation of lung epithelium. May also play a role in developing neural, gastrointestinal and cardiovascular tissues. Can act with CTBP1 to synergistically repress transcription but CTPBP1 is not essential. Plays a role in synapse formation by regulating SRPX2 levels. Involved in neural mechanisms mediating the development of speech and language.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQESATETISNSSMNQNGMSTLSSQLDAGSRDGRSSGDTSSEVSTVELLHLQQQQALQAARQLLLQQQTSGLKSPKSSDKQRPLQVPVSVAMMTPQVITPQQMQQILQQQVLSPQQLQALLQQQQAVMLQQQQLQEFYKKQQEQLHLQLLQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQHPGKQAKEQQQQQQQQQQLAAQQLVFQQQLLQMQQLQQQQHLLSLQRQGLISIPPGQAALPVQSLPQAGLSPAEIQQLWKEVTGVHSMEDNGIKHGGLDLTTNNSSSTTSSNTSKASPPITHHSIVNGQSSVLSARRDSSSHEETGASHTLYGHGVCKWPGCESICEDFGQFLKHLNNEHALDDRSTAQCRVQMQVVQQLEIQLSKERERLQAMMTHLHMRPSEPKPSPKPVSAYCFINSK
+PTM	Methylation:74,397,569,582;Phosphorylation:70,71,75,235,243,308,330,331,332,336,339,589,591,593;SUMOylation:74,417,482,560,587

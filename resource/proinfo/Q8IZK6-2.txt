@@ -1,0 +1,25 @@
+UniprotID	Q8IZK6-2
+Accession	Q8IZK6;A6NI99;Q2M3I6;Q5TAG5;Q8N9R3
+EntryName	MCLN2_HUMAN
+ProteinName	Mucolipin-2 (Transient receptor potential channel mucolipin 2) (TRPML2)
+GeneName	MCOLN2
+Length	538
+Function	Nonselective cation channel probably playing a role in the regulation of membrane trafficking events. Acts as a Ca(2+)-permeable cation channel with inwardly rectifying activity (PubMed:19885840, PubMed:19940139). May activate ARF6 and be involved in the trafficking of GPI-anchored cargo proteins to the cell surface via the ARF6-regulated recycling pathway (PubMed:17662026). May play a role in immune processes. In adaptive immunity, TRPML2 and TRPML1 may play redundant roles in the function of the specialized lysosomes of B cells (By similarity). In the innate immune response, may play a role in the regulation of chemokine secretion and macrophage migration (By similarity). Through a possible and probably tissue-specific heteromerization with MCOLN1 may be at least in part involved in many lysosome-dependent cellular events (PubMed:19885840). Also functions as a Fe(2+) permeable channel (By similarity).
+Subcellular Location	Cell membrane; Late endosome membrane; Lysosome membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	525...530
+validnes_region	
+nesbase_region	
+Sequence	MAHRDSEMKEECLREDLKFYFMSPCEKYRARRQIPWKLGLQILKIVMVTTQLVRFGLSNQLVVAFKEDNTVAFKHLFLKGYSGTDEDDYSCSVYTQEDAYESIFFAINQYHQLKDITLGTLGYGENEDNRIGLKVCKQHYKKGTMFPSNETLNIDNDVELDCVQLDLQDLSKKPPDWKNSSFFRLEFYRLLQVEISFHLKGIDLQTIHSRELPDCYVFQNTIIFDNKAHSGKIKIYFDSDAKIEECKDLNIFGSTQKNAQYVLVFDAFVIVICLASLILCTRSIVLALRLRKRFLNFFLEKYKRPVCDTDQWEFINGWYVLVIISDLMTIIGSILKMEIKAKNLTNYDLCSIFLGTSTLLVWVGVIRYLGYFQAYNVLILTMQASLPKVLRFCACAGMIYLGYTFCGWIVLGPYHDKFENLNTVAECLFSLVNGDDMFATFAQIQQKSILVWLFSRLYLYSFISLFIYMILSLFIALITDSYDTIKKFQQNGFPETDLQEFLKECSSKEEYQKESSAFLSCICCRRRKRSDDHLIPIS
+PTM	Methylation:72,200,364,514,531,541;Phosphorylation:6,18,209,361,558;Ubiquitylation:37,536

@@ -1,0 +1,25 @@
+UniprotID	P38571-2
+Accession	P38571;B2RBH5;D3DR29;Q16529;Q53H21;Q5T074;Q5T771;Q96EJ0
+EntryName	LICH_HUMAN
+ProteinName	Lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Diacylglycerol lipase) (Lipase A) (Sterol esterase) (Triacylglycerol ester hydrolase) (Triacylglycerol lipase)
+GeneName	LIPA
+Length	343
+Function	Catalyzes the deacylation of cholesteryl ester core lipids of endocytosed low density lipoproteins to generate free fatty acids and cholesterol (PubMed:15269241, PubMed:1718995, PubMed:7204383, PubMed:8112342, PubMed:9633819). Hydrolyzes triglycerides (1,2,3-triacylglycerol) and diglycerides (such as 1,2-diacylglycerol and 1,3-diacylglycerol) with preference for the acyl moieties at the sn-1 or sn-3 positions (PubMed:7204383, PubMed:8112342).
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACLEFVPFDVQMCLEFLPSGPKPVVFLQHGLLADSSNWVTNLANSSLGFILADAGFDVWMGNSRGNTWSRKHKTLSVSQDEFWAFSYDEMAKYDLPASINFILNKTGQEQVYYVGHSQGTTIGFIAFSQIPELAKRIKMFFALGPVASVAFCTSPMAKLGRLPDHLIKDLFGDKEFLPQSAFLKWLGTHVCTHVILKELCGNLCFLLCGFNERNLNMSRVDVYTTHSPAGTSVQNMLHWSQAVKFQKFQAFDWGSSAKNYFHYNQSYPPTYNVKDMLVPTAVWSGGHDWLADVYDVNILLTQITNLVFHESIPEWEHLDFIWGLDAPWRLYNKIINLMRKYQ
+PTM	Glycosylation:161,273,316,321;Methylation:149,162,192,254;Phosphorylation:280,289

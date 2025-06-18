@@ -1,0 +1,25 @@
+UniprotID	Q96BR9-2
+Accession	Q96BR9;Q8IUL5;Q8IWR9;Q8N2Y5;Q96BX0
+EntryName	ZBT8A_HUMAN
+ProteinName	Zinc finger and BTB domain-containing protein 8A (BTB/POZ and zinc-finger domain-containing factor) (BTB/POZ and zinc-finger domains factor on chromosome 1) (BOZ-F1)
+GeneName	ZBTB8A BOZF1
+Length	338
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	291...296
+validnes_region	
+nesbase_region	
+Sequence	MEISSHQSHLLQQLNEQRRQDVFCDCSILVEGKVFKAHRNVLFASSGYFKMLLSQNSKETSQPTTATFQAFSPDTFTVILDFVYSGKLSLTGQNVIEVMSAASFLQMTDVISVCKTFIKSSLDISEKEKDRYFSLSDKDANSNGVERSSFYSGGWQEGSSSPRSHLSPEQGTGIISGKSWNKYNYHPASQKNTQQPLAKHEPRKESIKKTKHLRLSQPSEVTHYKSSKREVRTSDSSSHVSQSEEQAQIDAEMDSTPVGYQYGQGSDVTSKSFPDDLPRMRFKCPYCTHVVKRKADLKRHLRCHTGERPYPCQACGKRFSRLDHLSSHFRTMEIRIPD
+PTM	Methylation:199,292;Phosphorylation:27,160,161,164,167,402;SUMOylation:119,129,138,178,182,191,199,225,228,283,317,337,437

@@ -1,0 +1,25 @@
+UniprotID	Q5SRQ6
+Accession	Q5SRQ6;Q5SQ53
+EntryName	Q5SRQ6_HUMAN
+ProteinName	Casein kinase II subunit beta (CK II beta)
+GeneName	CSNK2B hCG_43725
+Length	234
+Function	Regulatory subunit of casein kinase II/CK2. As part of the kinase complex regulates the basal catalytic activity of the alpha subunit a constitutively active serine/threonine-protein kinase that phosphorylates a large number of substrates containing acidic residues C-terminal to the phosphorylated serine or threonine. Participates in Wnt signaling.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKCKGTSRMAGTTSADVKMSSSEEVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNEQVPHYRQALDMILDLEPDEELEDNPNQSDLIEQAAEMLYGLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCENQPMLPIGLSDIPGEAMVKLYCPKCMDVYTPKSSRHHHTDGAYFGTGFPHMLFMVHPEYRPKRPANQFVPRLYGFKIHPMAYQLQLQAASNFKSPVKTIR
+PTM	

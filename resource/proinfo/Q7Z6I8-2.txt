@@ -1,0 +1,25 @@
+UniprotID	Q7Z6I8-2
+Accession	Q7Z6I8;D3DQA7;Q86Y53;Q8N1T9
+EntryName	CE024_HUMAN
+ProteinName	UPF0461 protein C5orf24
+GeneName	C5orf24
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMHPVASSNPAFCGPGKPSCLNEDAMRAADQFDIYSSQQSKYSHTVNHKPMVCQRQDPLNETHLQTTSGRSIEIKDELKKKKNLNRSGKRGRPSGTTKSAGYRTSTGRPLGTTKAAGFKTSPGRPLGTTKAAGYKVSPGRPPGKKQQAFRCSSDA
+PTM	Acetylation:17,49,119;Methylation:79;Phosphorylation:8,71,102,120,121,128,134,137,144,180,181;SUMOylation:17,41,49,75,146,184;Ubiquitylation:75,80,98,119,146

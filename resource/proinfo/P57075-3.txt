@@ -1,0 +1,25 @@
+UniprotID	P57075-3
+Accession	P57075;G5E9E4;Q6HA34;Q6HA35;Q6ISI6;Q6ISK3;Q6ISS9
+EntryName	UBS3A_HUMAN
+ProteinName	Ubiquitin-associated and SH3 domain-containing protein A (Cbl-interacting protein 4) (CLIP4) (Suppressor of T-cell receptor signaling 2) (STS-2) (T-cell ubiquitin ligand 1) (TULA-1)
+GeneName	UBASH3A STS2
+Length	526
+Function	Interferes with CBL-mediated down-regulation and degradation of receptor-type tyrosine kinases. Promotes accumulation of activated target receptors, such as T-cell receptors, EGFR and PDGFRB, on the cell surface. Exhibits negligible protein tyrosine phosphatase activity at neutral pH. May act as a dominant-negative regulator of UBASH3B-dependent dephosphorylation. May inhibit dynamin-dependent endocytic pathways by functionally sequestering dynamin via its SH3 domain.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGETQLYAKVSNKLKSRSSPSLLEPLLAMGFPVHTALKALAATGRKTAEEALAWLHDHCNDPSLDDPIPQEYALFLCPTGPLLEKLQEFWRESKRQCAKNRAHEVFPHVTLCDFFTCEDQKVECLYEALKRAGDRLLGSFPTAVPLALHSSISYLGFFVSGSPADVIREFAMTFATEASLLADCSVKPCTKQLHLTLAHKFYPHHQRTLEQLARAIPLGHSCQWTAALYSRDMRFVHYQTLRALFQYKPQNVDELTLSPGDYIFVDPTQQDEASEGWVIGISQRTGCRGFLPENYTDRASESDTWVKHRMYTFSLATDLNSRKDGEASSRCSGEFLPQTARSLSSLQALQATVARKSVLVVRHGERVDQIFGKAWLQQCSTPDGKYYRPDLNFPCSLPRRSRGIKDFENDPPLSSCGIFQSRIAGDALLDSGIRISSVFASPALRCVQTAKLILEELKLEKKIKIRVEPGIFEWTKWEAGKTTPTLMSLEELKEANFNIDTDYRSLPWACASVKKIKRKENGSW
+PTM	Glycosylation:208;Methylation:48,87,132,222,413,498,533,564;Phosphorylation:6,9,278,280,351,352,354,357,372,382,384,385,436;Ubiquitylation:501

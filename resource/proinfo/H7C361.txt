@@ -1,0 +1,25 @@
+UniprotID	H7C361
+Accession	H7C361
+EntryName	H7C361_HUMAN
+ProteinName	FA core complex associated protein 20
+GeneName	FAAP20
+Length	195
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	43...48
+nlsdbnls_region	181...185;12...17
+validnes_region	
+nesbase_region	
+Sequence	XEAARRPRLGLSRRRPRPAGGPSGGRPWFLLGGDERERLWAELLRTVSPELILDHEVPSLPAFPGQEPRCGPEPTEVFTVGPKTFSWTPFPPDLWGPGRSYRLLHGAGGHLESPARSLPQRPAPDPCRAPRVEQQPSVEGAAALRSCPMCQKEFAPRSKNSSGMRRHRSPKLAANNNNNKRKGRARWLTPVIPAL
+PTM	

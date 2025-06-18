@@ -1,0 +1,25 @@
+UniprotID	Q5TGB0
+Accession	Q5TGB0
+EntryName	Q5TGB0_HUMAN
+ProteinName	Shieldin complex subunit 1
+GeneName	SHLD1
+Length	200
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESHSCSPSWSTMTISAHCNLRLPSASQSVGITGVSHHIWPRIFYMTMAARDATSGSLSEESSALDLPSACDIRDYVLQGPSQEANSEAFSSLEFHSFPYSSDVDPDTSNLNIEQNNSWTAENFWLDPAVKGQSEKEEDDGLRKSLDRFYEMFGHPQPGSANSLSASVCKCLSQKITQLRGQESQKYALRSFQMARVIFN
+PTM	

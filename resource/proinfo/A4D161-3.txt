@@ -1,0 +1,25 @@
+UniprotID	A4D161-3
+Accession	A4D161;Q05CG4;Q4G0Q7;Q6P519
+EntryName	F221A_HUMAN
+ProteinName	Protein FAM221A
+GeneName	FAM221A C7orf46
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLTLPLGGAAAVDEYLEYRRYKQHKTDLEAIPQQCPIDLPCQVTGCQCRAYLYVPLNGSQPIRCRCKHFADQHSAAPGFTCNTCSKCSGFHSCFTCACGQPAYAHDTVVETKQERLAQEKPVGQDIPYAAMGGLTGFSSLAEGYMRLDDSGIVGTSSQVSSLRRPEEDDMAFFERRYQERMKMEKAAKWKGKAPLPSATKPS
+PTM	Methylation:172;Phosphorylation:222,229;SUMOylation:31;Ubiquitylation:42

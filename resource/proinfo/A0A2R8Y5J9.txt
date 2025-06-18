@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5J9
+Accession	A0A2R8Y5J9;F8WCU5
+EntryName	A0A2R8Y5J9_HUMAN
+ProteinName	Biotinidase (EC 3.5.1.12)
+GeneName	BTD hCG_27648
+Length	159
+Function	Catalytic release of biotin from biocytin, the product of biotin-dependent carboxylases degradation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGARSKLALFLCGCYVVALGAHTGEESVADHHEAEYYVAAVYEHPSILSLNPLALISRQEALELMNQNLDIYEQQVMTAAQKDVQIIVFPEDGIHGFNFTRTSIYPFLDFMPSPQVVRWNPCLEPHRFNDTEVIPAFFLSRLRVHRGDLSQGPEAVTC
+PTM	

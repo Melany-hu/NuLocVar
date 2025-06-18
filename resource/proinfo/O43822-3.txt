@@ -1,0 +1,25 @@
+UniprotID	O43822-3
+Accession	O43822;A8MPS9;O14993;Q8N5X6;Q99837;Q99838
+EntryName	CF410_HUMAN
+ProteinName	Cilia- and flagella-associated protein 410 (C21orf-HUMF09G8.5) (Leucine-rich repeat-containing protein 76) (YF5/A2)
+GeneName	CFAP410 C21orf2 LRRC76
+Length	255
+Function	Plays a role in cilia formation and/or maintenance (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization (PubMed:21834987). Involved in DNA damage repair (PubMed:26290490).
+Subcellular Location	Mitochondrion; Cytoplasm; Cytoskeleton; Cilium basal body; Cell projection; Cilium; Photoreceptor outer segment; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLTRKMVLTRAKASELHSVRKLNCWGSRLTDISICQEMPSLEVITLSVNSISTLEPVSRCQRLSELYLRRNRIPSLAELFYLKGLPRLRVLWLAENPCCGTSPHRYRMTVLRTLPRLQKLDNQAVTEEELSRALSEGEEITAAPEREGTGHGGPKLCCTLSSLSSAAETGRDPLDSEEEATGAQDERGLKPPSRGQFPSLSARDASSSHRGRNVLTAILLLLRELDAEGLEAVQQTVGSRLQALRGEEVQEHAE
+PTM	Acetylation:120;Phosphorylation:103,136,142,150,177,201;SUMOylation:120;Ubiquitylation:84,120

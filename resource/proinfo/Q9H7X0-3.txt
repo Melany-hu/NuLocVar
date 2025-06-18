@@ -1,0 +1,25 @@
+UniprotID	Q9H7X0-3
+Accession	Q9H7X0;B3KRQ0;B4DLZ0;B4DPZ8;B4DYC4;D3DUC2;E7EQ65;Q6IA31;Q6UX26
+EntryName	NAA60_HUMAN
+ProteinName	N-alpha-acetyltransferase 60 (hNaa60) (EC 2.3.1.259) (Histone acetyltransferase type B protein 4) (HAT4) (EC 2.3.1.48) (N-acetyltransferase 15) (N-alpha-acetyltransferase F) (NatF)
+GeneName	NAA60 HAT4 NAT15 UNQ2771/PRO7155
+Length	177
+Function	N-alpha-acetyltransferase that specifically mediates the acetylation of N-terminal residues of the transmembrane proteins, with a strong preference for N-termini facing the cytosol (PubMed:25732826, PubMed:38480682). Displays N-terminal acetyltransferase activity towards a range of N-terminal sequences including those starting with Met-Lys, Met-Val, Met-Ala and Met-Met (PubMed:21750686, PubMed:25732826, PubMed:27320834, PubMed:27550639). Required for normal chromosomal segregation during anaphase (PubMed:21750686). May also show histone acetyltransferase activity; such results are however unclear in vivo and would require additional experimental evidences (PubMed:21981917).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIVAEIKNRTKIHKEDGDILASNFSVDTQVAYILSLGVVKEFRKHGIGSLLLESLKDHISTTAQDHCKAIYLHVLTTNNTAINFYENRDFKQHHYLPYYYSIRGVLKDGFTYVLYINGGHPPWTILDYIQHLGSALASLSPCSIPHRVYRQAHSLLCSFLPWSGISSKSGIEYSRTM
+PTM	Methylation:172;Phosphorylation:8,11,166,223

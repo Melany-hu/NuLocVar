@@ -1,0 +1,25 @@
+UniprotID	Q9NWS6-2
+Accession	Q9NWS6;B3KWG4;B4DY02;Q5TII5;Q96CY3
+EntryName	F118A_HUMAN
+ProteinName	Protein FAM118A
+GeneName	FAM118A C22orf8
+Length	175
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKYGVLHIHGLYTDPCGVVLDPSGYKDVTQDAEVMEVLQNLYRTKSFLFVGCGETLRDQIFQALFLYSVPNKVDLEHYMLVLKENEDHFFKHQADMLLHGIKVVSYGDCFDHFPGYVQDLATQICKQQSPDADRVDSTTLLGNACQDCAKRKLEENGIEVSKKRTQSDTDDAGGS
+PTM	Methylation:25,97,170,265;Phosphorylation:21,224,226,260,311,319,321,347,349,351;SUMOylation:20,308

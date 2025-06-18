@@ -1,0 +1,25 @@
+UniprotID	O95255-3
+Accession	O95255;A2RRN8;A8KIG6;A8Y988;E7ESW8;P78420;Q8TCY8;Q9UMZ7
+EntryName	MRP6_HUMAN
+ProteinName	ATP-binding cassette sub-family C member 6 (EC 7.6.2.-) (EC 7.6.2.3) (Anthracycline resistance-associated protein) (Multi-specific organic anion transporter E) (MOAT-E) (Multidrug resistance-associated protein 6)
+GeneName	ABCC6 ARA MRP6
+Length	871
+Function	ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds, and xenobiotics from cells. Mediates ATP-dependent transport of glutathione conjugates such as leukotriene-c4 (LTC4) and N-ethylmaleimide S-glutathione (NEM-GS) (in vitro), and an anionic cyclopentapeptide endothelin antagonist, BQ-123 (PubMed:11880368, PubMed:12414644). May contribute to regulate the transport of organic compounds in testes across the blood-testis-barrier (Probable). Does not appear to actively transport drugs outside the cell. Confers low levels of cellular resistance to etoposide, teniposide, anthracyclines and cisplatin (PubMed:12414644).
+Subcellular Location	Basal cell membrane; Basolateral cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPAEPCAGQGVWNQTEPEPAATSLLSLCFLRTAGVWVPPMYLWVLGPIYLLFIHHHGRGYLRMSPLFKAKMVLGFALIVLCTSSVAVALWKIQQGTPEAPEFLIHPTVWLTTMSFAVFLIHTERKKGVQSSGVLFGYWLLCFVLPATNAAQQASGAGFQSDPVRHLSTYLCLSLVVAQFVLSCLADQPPFFPEDPQQSNPCPETGAAFPSKATFWWVSGLVWRGYRRPLRPKDLWSLGRENSSEELVSRLEKEWMRNRSAARRHNKAIAFKRKGGSGMKAPETEPFLRQEGSQWRPLLKAIWQVFHSTFLLGTLSLIISDVFRFTVPKLLSLFLEFIGDPKPPAWKGYLLAVLMFLSACLQTLFEQQNMYRLKVLQMRLRSAITGLVYRKVLALSSGSRKASAVGDVVNLVSVDVQRLTESVLYLNGLWLPLVWIVVCFVYLWQLLGPSALTAIAVFLSLLPLNFFISKKRNHHQEEQMRQKDSRARLTSSILRNSKTIKFHGWEGAFLDRVLGIRGQELGALRTSGLLFSVSLVSFQVSTFLVALVVFAVHTLVAENAMNAEKAFVTLTVLNILNKAQAFLPFSIHSLVQARVSFDRLVTFLCLEEVDPGVVDSSSSGSAAGKDCITIHSATFAWSQESPPCLHRINLTVPQGCLLAVVGPVGAGKSSLLSALLGELSKVEGFVSIEGAVAYVPQEAWVQNTSVVENVCFGQELDPPWLERVLEACALQPDVDSFPEGIHTSIGEQGMNLSGGQKQRLSLARAVYRKAAVYLLDDPLAALDAHVGQHVFNQVIGPGGLLQGTKQNLGPAPRTPEAPLQAGGPSLDARGPSSQSLRRTVPLQKPRQRFLWMTLTGQDGQQERTASNTAG
+PTM	Methylation:330,579,626,1381,1419;Phosphorylation:294,492,493,878,902,1232,1286,1436,1446

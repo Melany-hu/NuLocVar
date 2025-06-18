@@ -1,0 +1,25 @@
+UniprotID	H0YDH6
+Accession	H0YDH6
+EntryName	H0YDH6_HUMAN
+ProteinName	Collagen type XXI alpha 1 chain
+GeneName	COL21A1
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AKGDKGSPGFYGKKGAKGEKGNAGFPGLPGPAGEPGRHGKDGLMGSPGFKGEAGSPGAPGQDGTRGEPTCAYEFSHVKE
+PTM	

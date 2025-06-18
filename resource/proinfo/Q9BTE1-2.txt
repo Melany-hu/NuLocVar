@@ -1,0 +1,25 @@
+UniprotID	Q9BTE1-2
+Accession	Q9BTE1;A8K9X8;H3BN51;H3BQA4
+EntryName	DCTN5_HUMAN
+ProteinName	Dynactin subunit 5 (Dynactin subunit p25)
+GeneName	DCTN5
+Length	152
+Function	Part of the dynactin complex that activates the molecular motor dynein for ultra-processive transport along microtubules.
+Subcellular Location	Cytoplasm; Cytoskeleton; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELGELLYNKSEYIETASGNKVSRQSVLCGSQNIVLNGKTIVMNDCIIRGDLANVRVGRHCVVKSRSVIRPPFKKFSKGVAFFPLHIGDHVFIEEDCVVNAAQIGSYVHVGKNCVIGRRCVLKDCCKILDNTVLPPETVVPPFTVFSGCPAP
+PTM	Acetylation:123;Methylation:123;Phosphorylation:8,13,65,67;SUMOylation:10;Ubiquitylation:10,21,64,74

@@ -1,0 +1,25 @@
+UniprotID	F8WEK6
+Accession	F8WEK6
+EntryName	F8WEK6_HUMAN
+ProteinName	Eva-1 homolog C
+GeneName	EVA1C
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLPGRARQPPTPQPVQHPGLRRQVEPPGQLLRLFYCTVLVCSKEISALTDFSDELKNKTVCEDQELKLHCHESKFLNIYSATYGRRTQERDICSSKAERLPPFDCLSYSALQVLSRRCYGKQRCKIIVNNHHFGSPCLPGVKKYLTVTYACVPKNILTAIDPAIANLKPSLKQKDGEYGNFYGLLPAFLFK
+PTM	

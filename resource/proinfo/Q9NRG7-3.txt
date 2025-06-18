@@ -1,0 +1,25 @@
+UniprotID	Q9NRG7-3
+Accession	Q9NRG7;Q6ZW71;Q9BVQ3
+EntryName	D39U1_HUMAN
+ProteinName	Epimerase family protein SDR39U1 (EC 1.1.1.-) (Short-chain dehydrogenase/reductase family 39U member 1)
+GeneName	SDR39U1 C14orf124 HCDI
+Length	198
+Function	Putative NADP-dependent oxidoreductase.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSPNGEILRAREAYYQPSLTAEYDEDSPGGDFDFFSNLVTKWEAAARLPGDSTRQVVVRSGVVLGRGGGAMGHMLLPFRLGLGGPIGSGHQFFPWIHIGDLAGILTHALEANHVHGVLNGVAPSSATNAEFAQTLGAALGRRAFIPLPSAVVQAVFGRQRAIMLLEGQKVIPQRTLATGYQYSFPELGAALKEIVA
+PTM	Methylation:91,266;Ubiquitylation:76,95

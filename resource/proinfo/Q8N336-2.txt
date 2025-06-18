@@ -1,0 +1,25 @@
+UniprotID	Q8N336-2
+Accession	Q8N336;B4E167;G5E9S5;Q9NPW3
+EntryName	ELMD1_HUMAN
+ProteinName	ELMO domain-containing protein 1
+GeneName	ELMOD1
+Length	190
+Function	Acts as a GTPase-activating protein (GAP) toward guanine nucleotide exchange factors like ARL2, ARL3, ARF1 and ARF6, but not for GTPases outside the Arf family.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLKLWKFLKPNTPLESRISKQWCEIGFQGDDPKTDFRGMGLLGLYNLQYFAERDATAAQQVLSDSLHPKCSKFSKAEWEKKRMDKAIGYSFAIVGINITDLAYNLLVSGALKTHFYNIAPEAPTLSHFQQTFCYLMHEFHKFWIEEDPMDIMEFNRVREKFRKRIIKQLQNPDMALCPHFAASEGLINM
+PTM	Methylation:79,212,217,225

@@ -1,0 +1,25 @@
+UniprotID	Q8NBI2-2
+Accession	Q8NBI2;B3KPU2;B4DLN9;J3KQH4;Q6PK96
+EntryName	CYAC3_HUMAN
+ProteinName	Lysosomal membrane ascorbate-dependent ferrireductase CYB561A3 (EC 7.2.1.3) (Cytochrome b ascorbate-dependent protein 3) (Cytochrome b561 family member A3) (Lysosomal cytochrome b) (LCytb)
+GeneName	CYB561A3 CYBASC3 PSEC0259
+Length	259
+Function	Transmembrane reductase that uses ascorbate as an electron donor in the cytoplasm and transfers electrons across membranes to reduce iron cations Fe(3+) into Fe(2+) in the lumen of the late endosome and lysosome. Reduced iron can then be extruded from the late endosome and lysosome to the cytoplasm by divalent metal-specific transporters. It is therefore most probably involved in endosomal and lysosomal cellular iron homeostasis.
+Subcellular Location	Late endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKNFSDSFLSRECVIRMVSGRFYLSCLLLGSLGSMCILFTIYWMQYWRGGFAWNGSIYMFNWHPVLMVAGMVVFYGGASLVYRLPQSWVGPKLPWKLLHAALHLMAFVLTVVGLVAVFTFHNHGRTANLYSLHSWLGITTVFLFACQWFLGFAVFLLPWASMWLRSLLKPIHVFFGAAILSLSIASVISGINEKLFFSLKNTTRPYHSLPSEAVFANSTGMLVVAFGLLVLYILLASSWKRPEPGILTDRQPLLHDGE
+PTM	Methylation:153,184;Phosphorylation:150;Ubiquitylation:76

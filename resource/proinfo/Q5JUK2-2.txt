@@ -1,0 +1,25 @@
+UniprotID	Q5JUK2-2
+Accession	Q5JUK2;C9JG81;Q5EE14;Q5EGC2;Q8NEE3
+EntryName	SOLH1_HUMAN
+ProteinName	Spermatogenesis- and oogenesis-specific basic helix-loop-helix-containing protein 1
+GeneName	SOHLH1 C9orf157 NOHLH TEB2
+Length	387
+Function	Transcription regulator of both male and female germline differentiation. Suppresses genes involved in spermatogonial stem cells maintenance, and induces genes important for spermatogonial differentiation. Coordinates oocyte differentiation without affecting meiosis I (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRCSEPYPEVSRIPTVRGCNGSLSGALSCCEDSARGSGPPKAPTVAEGPSSCLRRNVISERERRKRMSLSCERLRALLPQFDGRREDMASVLEMSVQFLRLASALGPSQEQHAILASSKEMWHSLQEDVLQLTLSSQIQAGVPDPGTGASSGTRTPDVKAFLESPWSLDPASASPEPVPHILASSRQWDPASCTSLGTDKCEALLGLCQVRGGLPPFSEPSSLVPWPPGRSLPKAVRPPLSWPPFSQQQTLPVMSGEALGWLGQAGPLAMGAAPLGEPAKEDPMLAQEAGSALGSDVDDGTSFLLTAGPSSWPGSLEGRGGSGPAWAPAESSPLDVGEPGFLGDPELGSQELQDSPLEPWGLDVDCAGLALKDEVESIFPDFFAC
+PTM	

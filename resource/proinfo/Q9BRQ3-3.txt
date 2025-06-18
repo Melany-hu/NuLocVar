@@ -1,0 +1,25 @@
+UniprotID	Q9BRQ3-3
+Accession	Q9BRQ3;C9JY06;Q71RD5
+EntryName	NUD22_HUMAN
+ProteinName	Uridine diphosphate glucose pyrophosphatase NUDT22 (UDPG pyrophosphatase) (UGPPase) (EC 3.6.1.45) (Nucleoside diphosphate-linked moiety X motif 22) (Nudix motif 22)
+GeneName	NUDT22 PP11246
+Length	270
+Function	Hydrolyzes UDP-glucose to glucose 1-phosphate and UMP and UDP-galactose to galactose 1-phosphate and UMP. Preferred substrate is UDP-glucose.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPEVTLLLQCPGGGLPQEQIQAELSPAHDRRPLPGGDEAITAIWETRLKAQPWLFDAPKFRLHSATLAPIGSRGPQLLLRLGLTSYRDFLGTNWSSSAAWLRQQGATDWGDTQAYLADPLGVGAALATADDFLVFLRRSRQVAEAPGLVDVPGGHPEPQVNLPLLTLSQPLLLGIARNETSAGRASAEFYVQCSLTSEQVRKHYLSGGPEAHESTGIFFVETQNVQRLLETEMWAELCPSAKGAIILYNRVQGSPTGAALGSPALLPPL
+PTM	Phosphorylation:296;SUMOylation:50;Ubiquitylation:60

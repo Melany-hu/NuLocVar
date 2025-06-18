@@ -1,0 +1,25 @@
+UniprotID	A0A3B3ISS5
+Accession	A0A3B3ISS5
+EntryName	A0A3B3ISS5_HUMAN
+ProteinName	Solute carrier family 50 member 1
+GeneName	SLC50A1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAGGFLDSLIYGACVVFTLGMFSAGLSDLRHMRMTRSVDNVQFLPFLTTEVNVLCSYRLQPC
+PTM	

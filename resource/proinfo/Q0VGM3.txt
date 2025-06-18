@@ -1,0 +1,25 @@
+UniprotID	Q0VGM3
+Accession	Q0VGM3
+EntryName	Q0VGM3_HUMAN
+ProteinName	TARP protein
+GeneName	TARP
+Length	111
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTNDTYMKFSWLTVPEKSLDKEHRCIVRHENNKNGVDQEIIFPPIKTDVITMDPKDNCSKDANDTLLLQLTNTSAYYMYLLLLLKSVVYFAIITCCLLRRTAFCCNGEKS
+PTM	

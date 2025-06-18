@@ -1,0 +1,25 @@
+UniprotID	C9JU68
+Accession	C9JU68
+EntryName	C9JU68_HUMAN
+ProteinName	Gamma-glutamyltransferase 5
+GeneName	GGT5
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARGYGATVSLVLLGLGLALAVIVLAVVLSRHQAPCGPQAFAHAAVAADSKVCSDIGRGPVDRGARGAPWLCR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	J3QKR2
+Accession	J3QKR2
+EntryName	J3QKR2_HUMAN
+ProteinName	CYLD lysine 63 deubiquitinase
+GeneName	CYLD
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ISAGKIKQFCKTCNTQVHLHPKRLNHKYNPVSLPKDLPDWDWRHGCIPCQNMELFAVLCIETSHYVAFVKYGKDDSAWLFFDSMADRDGTENAFLLHVAQGSGL
+PTM	

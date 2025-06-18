@@ -1,0 +1,25 @@
+UniprotID	L7N2F6
+Accession	L7N2F6
+EntryName	L7N2F6_HUMAN
+ProteinName	PTGES3L-AARSD1 readthrough
+GeneName	PTGES3L-AARSD1
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEFCVEDSTDVHVLIEDHRIVFSCKNADGVELYNEIEFYAKVNSKDSQDKRSSRSITCFVRKWKEKVAWPRLTKEDIKPVWLSVDFDNWRDWEGDEEMELAHVEHYAELLKKVSTKRPPPAMDDLDFTTTVV
+PTM	

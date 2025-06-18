@@ -1,0 +1,25 @@
+UniprotID	O43752-2
+Accession	O43752;B2R652;B4DR17;Q5VY08;Q6FH83
+EntryName	STX6_HUMAN
+ProteinName	Syntaxin-6
+GeneName	STX6
+Length	154
+Function	SNARE promoting movement of transport vesicles to target membranes. Targets endosomes to the trans-Golgi network, and may therefore function in retrograde trafficking. Together with SNARE STX12, promotes movement of vesicles from endosomes to the cell membrane, and may therefore function in the endocytic recycling pathway.
+Subcellular Location	Golgi apparatus membrane; Golgi apparatus; trans-Golgi network membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKDQMSTSSVQALAERKNRQALLGDSGSQNWSTGTTDKYGRLDRELQRANSHFIEEQQAQQQLIVEQQDEQLELVSGSIGVLKNMSQRIGGELEEQAVMLEDFSHELESTQSRLDNVMKKLAKVSHMTSDRRQWCAIAILFAVLLVVLILFLVL
+PTM	Methylation:16,89,184;Phosphorylation:2,83,86,127,129,133,134,136,137,140,152;SUMOylation:11;Ubiquitylation:16,77,139,184

@@ -1,0 +1,25 @@
+UniprotID	C9JSN8
+Accession	C9JSN8
+EntryName	C9JSN8_HUMAN
+ProteinName	Fc gamma receptor Ia
+GeneName	FCGR1A
+Length	240
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWFLTTLLLWGWLLLQVSSRVFTEGEPLALRCHAWKDKLVYNVLYYRNGKAFKFFHWNSNLTILKTNISHNGTYHCSGMGKHRYTSAGISVTVKELFPAPVLNASVTSPLLEGNLVTLSCETKLLLQRPGLQLYFSFYMGSKTLRGRNTSSEYQILTARREDSGLYWCEAATEDGNVLKRSPELELQVLGLQLPTPVWFHVLFYLAVGIMFLVNTVLWVTIRKELKRKKKWDLEISLDSG
+PTM	

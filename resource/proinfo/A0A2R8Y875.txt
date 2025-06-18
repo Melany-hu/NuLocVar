@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y875
+Accession	A0A2R8Y875
+EntryName	A0A2R8Y875_HUMAN
+ProteinName	E3 ubiquitin-protein ligase CBL (EC 2.3.2.27)
+GeneName	CBLB
+Length	143
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from specific E2 ubiquitin-conjugating enzymes, and transfers it to substrates, generally promoting their degradation by the proteasome.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANSMNGRNPGGRGGNPRKGRILGIIDAIQDAVGPPKQAAADRRTVEKTWKLMDKVVRLCQNPKLQLKNSPPYILDILPDTYQHLRLILSKYDDNQKLAQLSENEYFKIYIDSLMKKSKRAIRLFKEGKERMYEEQSQDSSSL
+PTM	

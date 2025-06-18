@@ -1,0 +1,25 @@
+UniprotID	K7ELG4
+Accession	K7ELG4
+EntryName	K7ELG4_HUMAN
+ProteinName	Zinc finger protein 627
+GeneName	ZNF627
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRETFRNLASVGKQWEDQNIEDPFKIPRRNISHIPERLCESKEGGQGEETFSQIPDGI
+PTM	

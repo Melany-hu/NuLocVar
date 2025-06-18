@@ -1,0 +1,25 @@
+UniprotID	M0R2J8-3
+Accession	M0R2J8;A6PVL6;B1AL47;B7WNX6;P59894;Q6ZRR9;Q6ZU04
+EntryName	DCDC1_HUMAN
+ProteinName	Doublecortin domain-containing protein 1 (Doublecortin domain-containing 5 protein)
+GeneName	DCDC1 DCDC5 KIAA1493
+Length	354
+Function	Microtubule-binding protein which plays an important role in mediating dynein-dependent transport of RAB8A-positive vesicles to the midbody during cytokinesis (PubMed:22159412).
+Subcellular Location	Midbody; Midbody ring; Midbody; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	274...279
+validnes_region	
+nesbase_region	
+Sequence	MAKTGAEDHREALSQSSLSLLTEAMEVLQQSSPEGTLDGNTVNPIYKYILNDLPREFMSSQAKAVIKTTDDYLQSQFGPNRLVHSAAVSEGSGLQDCSTHQTASDHSHDEISDLDSYKSNSKNNSCSISASKRNRPVSAPVGQLRVAEFSSLKFQSARNWQKLSQRHKLQPRVIKVTAYKNGSRTVFARVTVPTITLLLEECTEKLNLNMAARRVFLADGKEALEPEDIPHEADVYVSTGEPFLNPFKKIKDHLLLIKKVTWTMNGLMLPTDIKRRKTKPVLSIRMKKLTERTSVRILFFKNGMGQDGHEITVGKETMKKVLDTCTIRMNLNLPARYFYDLYGRKIEDISKGKH
+PTM	Acetylation:345;Methylation:67,221,258,274,351,357,422,533,564,661,706,745,1033,1202,1351,1501,1555,1622;Phosphorylation:194,196,203,965,968,1464

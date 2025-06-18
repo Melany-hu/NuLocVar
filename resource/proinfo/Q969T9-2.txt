@@ -1,0 +1,25 @@
+UniprotID	Q969T9-2
+Accession	Q969T9;B4DFG2;O95638
+EntryName	WBP2_HUMAN
+ProteinName	WW domain-binding protein 2 (WBP-2)
+GeneName	WBP2
+Length	216
+Function	Acts as a transcriptional coactivator of estrogen and progesterone receptors (ESR1 and PGR) upon hormone activation (PubMed:16772533). In presence of estrogen, binds to ESR1-responsive promoters (PubMed:16772533). Synergizes with YAP1 to enhance PGR activity (PubMed:16772533). Modulates expression of post-synaptic scaffolding proteins via regulation of ESR1, ESR2 and PGR (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALNKNHSEGGGVIVNNTESILMSYDHVELTFNDMKNVPEAFKGTKKGTVYLTPYRVIFLSKGKDAMQSFMMPFYLMKDCEIKQPVFGANYIKGTVKAEAGGGWEGSASYKLTFTAGGAIEFGQRMLQVASQEFYPGPPMMDGAMGYVQPPPPPYPGPMEPPVSGPDVPSTPAAEAKAAEAAASAYYNPGNPHNVYMPTSQPPPPPYYPPEDKKTQ
+PTM	Methylation:62,93,111;Phosphorylation:51,91;Ubiquitylation:36,43,62,64,78,83,93,97,222,258

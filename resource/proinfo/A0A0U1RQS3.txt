@@ -1,0 +1,25 @@
+UniprotID	A0A0U1RQS3
+Accession	A0A0U1RQS3
+EntryName	A0A0U1RQS3_HUMAN
+ProteinName	FGGY carbohydrate kinase domain containing
+GeneName	FGGY
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGGEQKPERYYVGVDVGTGSVRAALVDQSGVLLAFADQPIKNWEPQFNHHEQSSEDIWAACCVVTKKVVQGIDLNQIRGLGFDATCSLVVLDKQFHPLPVNQEELERDLLG
+PTM	

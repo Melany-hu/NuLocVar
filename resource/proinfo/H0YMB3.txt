@@ -1,0 +1,25 @@
+UniprotID	H0YMB3
+Accession	H0YMB3
+EntryName	H0YMB3_HUMAN
+ProteinName	GMP reductase (GMPR) (EC 1.7.1.7) (Guanosine 5'-monophosphate oxidoreductase) (Guanosine monophosphate reductase)
+GeneName	GMPR2 GMPR
+Length	315
+Function	Catalyzes the irreversible NADPH-dependent deamination of GMP to IMP. It functions in the conversion of nucleobase, nucleoside and nucleotide derivatives of G to A nucleotides, and in maintaining the intracellular balance of A and G nucleotides.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHIDNDVKLDFKDVLLRPKRSTLKSRSEVDLTRSFSFRNSKQTYSGVPIIAANMDTVGTFEMAKVLCKFSLFTAVHKHYSLVQWQEFAGQNPDCLEHLAASSGTGSSDFEQLEQILEAIPQAGNVVTGEMVEELILSGADIIKVGIGPGSVCTTRKKTGVGYPQLSAVMECADAAHGLKGHIISDGGCSCPGDVAKAFGAGADFVMLGGMLAGHSESGGELIERDGKKYKLFYGMSSEMAMKKYAGGVAEYRASEGKTVEVPFKGDVEHTIRDILGGIRSTCTYVGAAKLKELSRRTTFIRVTQQVNPIFSEAC
+PTM	

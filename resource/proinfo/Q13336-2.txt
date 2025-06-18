@@ -1,0 +1,25 @@
+UniprotID	Q13336-2
+Accession	Q13336;A8K0P3;B3KR62;B3KVX3;C9EHF2;Q86VM5
+EntryName	UT1_HUMAN
+ProteinName	Urea transporter 1 (Solute carrier family 14 member 1) (Urea transporter, erythrocyte)
+GeneName	SLC14A1 HUT11 JK RACH1 UT1 UTE
+Length	445
+Function	Mediates the transport of urea driven by a concentration gradient across the cell membrane of erythrocytes (PubMed:10514515, PubMed:7797558, PubMed:7989337, PubMed:8997401). Also mediates the transport of urea across the cell membrane of the renal inner medullary collecting duct which is critical to the urinary concentrating mechanism (By similarity). Facilitates water transport in erythrocytes (By similarity).
+Subcellular Location	Cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGRSLIGGAGDARHGPVWKDPFGTKAGDAARRGIARLSLALADGSQEQEPEEEIAMEDSPTMVRVDSPTMVRGENQVSPCQGRRCFPKALGYVTGDMKELANQLKDKPVVLQFIDWILRGISQVVFVNNPVSGILILVGLLVQNPWWALTGWLGTVVSTLMALLLSQDRSLIASGLYGYNATLVGVLMAVFSDKGDYFWWLLLPVCAMSMTCPIFSSALNSMLSKWDLPVFTLPFNMALSMYLSATGHYNPFFPAKLVIPITTAPNISWSDLSALELLKSIPVGVGQIYGCDNPWTGGIFLGAILLSSPLMCLHAAIGSLLGIAAGLSLSAPFEDIYFGLWGFNSSLACIAMGGMFMALTWQTHLLALGCALFTAYLGVGMANFMAEVGLPACTWPFCLATLLFLIMTTKNSNIYKMPLSKVTYPEENRIFYLQAKKRMVESPL
+PTM	Methylation:50,224;Phosphorylation:4,12,14

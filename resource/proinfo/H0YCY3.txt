@@ -1,0 +1,25 @@
+UniprotID	H0YCY3
+Accession	H0YCY3
+EntryName	H0YCY3_HUMAN
+ProteinName	TBC1 domain family member 31
+GeneName	TBC1D31
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDTLFCKYQLPAPPESSSILYKVFAVTRDGRILAAGGKSNHLHLWCLEARQLFRIIQMPTKVRAIRHLEFLPDSFDAGSNQVLGVLSQDGIMRFINMQTCKLLFEIGSLDEGISSSAISPHGRYIASIMENGSLNIYSVQALTQEINKEEVRAQN
+PTM	

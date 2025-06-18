@@ -1,0 +1,25 @@
+UniprotID	Q9P016-2
+Accession	Q9P016;Q567Q2;Q9H3L4;Q9HC20
+EntryName	THYN1_HUMAN
+ProteinName	Thymocyte nuclear protein 1 (Thymocyte protein Thy28)
+GeneName	THYN1 THY28 HSPC144 MDS012 My0054
+Length	166
+Function	Specifically binds 5-hydroxymethylcytosine (5hmC), suggesting that it acts as a specific reader of 5hmC.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	5..10
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRPRKRLAGTSGSDKGLSGKRTKTENSGEALAKVEDSNPQKTSATKNCLKNLSSHWLMKSEPESRLEKGVDVKFSIEDLKAQPKQTTCWDGVRNYQARNFLRAMKLGEEAFFYHSNCKEPGIAGLMKIVKEAYPDHTQFEKNNPHYDPSSKEDNPKWSMKSLILF
+PTM	Acetylation:16,21,24,42,47,51,60,69,81,106,119,131,179;Methylation:21,34,74,81,179,193;Phosphorylation:11,12,14,19;SUMOylation:24,34,47,60,74,131,179;Ubiquitylation:42,85,119

@@ -1,0 +1,25 @@
+UniprotID	B4DNC9
+Accession	B4DNC9
+EntryName	B4DNC9_HUMAN
+ProteinName	Iron-sulfur cluster assembly enzyme (cDNA FLJ51257, highly similar to NifU-like N-terminal domain-containing protein, mitochondrial)
+GeneName	ISCU
+Length	154
+Function	Mitochondrial scaffold protein, of the core iron-sulfur cluster (ISC) assembly complex, that provides the structural architecture on which the  clusters are assembled. The core iron-sulfur cluster (ISC) assembly complex is involved in the de novo synthesis of a  cluster, the first step of the mitochondrial iron-sulfur protein biogenesis. This process is initiated by the cysteine desulfurase complex (NFS1:LYRM4:NDUFAB1) that produces persulfide which is delivered on the scaffold protein ISCU in a FXN-dependent manner. Then this complex is stabilized by FDX2 which provides reducing equivalents to accomplish the  cluster assembly. Finally, the  cluster is transferred from ISCU to chaperone proteins, including HSCB, HSPA9 and GLRX5. Exists as two slow interchanging conformational states, a structured (S) and disordered (D) form. May modulate NFS1 desulfurase activity in a zinc-dependent manner. Modulates the interaction between FXN and the cysteine desulfurase complex.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAGAFRLRRAASALLLRSPRLPARELSAPARLYHKKVVDHYENPRNVGSLDKTSKNVGTGLVGAPACGDVMKLQIQVDEKGKIVDARFKTFGCGSAIASSSLATEWVKGKTVEEALTIKNTDIAKELCLPPVKLHCSKSVLFPAEEKTQLSP
+PTM	

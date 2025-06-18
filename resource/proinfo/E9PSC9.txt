@@ -1,0 +1,25 @@
+UniprotID	E9PSC9
+Accession	E9PSC9
+EntryName	E9PSC9_HUMAN
+ProteinName	MAPK interacting serine/threonine kinase 1
+GeneName	MKNK1
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSSEPLPIADGDRRRKKKRRGRATDSLPGKFEDVILPSAIPGGAAER
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	S4R2Y9
+Accession	S4R2Y9
+EntryName	S4R2Y9_HUMAN
+ProteinName	Pyroglutamyl-peptidase I (EC 3.4.19.3)
+GeneName	PGPEP1
+Length	171
+Function	Removes 5-oxoproline from various penultimate amino acid residues except L-proline.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQPRKAVVVTGFGPFGEHTVNASWIAVQELEKLGLGDSVDLHVYEIPVEYQTVQRLIPALWEKHSPQLVVHVGVSGMATTVTLEKCGHNKGYKGLDNCRFCPGSQCCVEDGPESIDSIIDMDAVCKRVTTLGLDVSVTISQDAGRVTVDQPSSTCPHWGSRTTRTSWAGH
+PTM	

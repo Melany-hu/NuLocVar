@@ -1,0 +1,25 @@
+UniprotID	P51795-1
+Accession	P51795;A1L475;B3KPN6;Q5JQD5;Q7RTN8
+EntryName	CLCN5_HUMAN
+ProteinName	H(+)/Cl(-) exchange transporter 5 (Chloride channel protein 5) (ClC-5) (Chloride transporter ClC-5)
+GeneName	CLCN5 CLCK2
+Length	746
+Function	Proton-coupled chloride transporter. Functions as antiport system and exchanges chloride ions against protons (PubMed:20466723). Important for normal acidification of the endosome lumen. May play an important role in renal tubular function. The CLC channel family contains both chloride channels and proton-coupled anion transporters that exchange chloride or another anion for protons. The absence of conserved gating glutamate residues is typical for family members that function as channels (Probable).
+Subcellular Location	Golgi apparatus membrane; Endosome membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFLEEPIPGVGTYDDFNTIDWVREKSRDRDRHREITNKSKESTWALIHSVSDAFSGWLLMLLIGLLSGSLAGLIDISAHWMTDLKEGICTGGFWFNHEHCCWNSEHVTFEERDKCPEWNSWSQLIISTDEGAFAYIVNYFMYVLWALLFAFLAVSLVKVFAPYACGSGIPEIKTILSGFIIRGYLGKWTLVIKTITLVLAVSSGLSLGKEGPLVHVACCCGNILCHCFNKYRKNEAKRREVLSAAAAAGVSVAFGAPIGGVLFSLEEVSYYFPLKTLWRSFFAALVAAFTLRSINPFGNSRLVLFYVEFHTPWHLFELVPFILLGIFGGLWGALFIRTNIAWCRKRKTTQLGKYPVIEVLVVTAITAILAFPNEYTRMSTSELISELFNDCGLLDSSKLCDYENRFNTSKGGELPDRPAGVGVYSAMWQLALTLILKIVITIFTFGMKIPSGLFIPSMAVGAIAGRLLGVGMEQLAYYHQEWTVFNSWCSQGADCITPGLYAMVGAAACLGGVTRMTVSLVVIMFELTGGLEYIVPLMAAAMTSKWVADALGREGIYDAHIRLNGYPFLEAKEEFAHKTLAMDVMKPRRNDPLLTVLTQDSMTVEDVETIISETTYSGFPVVVSRESQRLVGFVLRRDLIISIENARKKQDGVVSTSIIYFTEHSPPLPPYTPPTLKLRNILDLSPFTVTDLTPMEIVVDIFRKLGLRQCLVTHNGRLLGIITKKDVLKHIAQMANQDPDSILFN
+PTM	Glycosylation:478;Methylation:156,264,280,508,795,800;Phosphorylation:361;Ubiquitylation:57

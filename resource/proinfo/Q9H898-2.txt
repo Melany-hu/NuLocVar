@@ -1,0 +1,25 @@
+UniprotID	Q9H898-2
+Accession	Q9H898;Q8WUT8
+EntryName	ZMAT4_HUMAN
+ProteinName	Zinc finger matrin-type protein 4
+GeneName	ZMAT4
+Length	153
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	99...103
+validnes_region	
+nesbase_region	
+Sequence	MKSSDIDQDLFTDSYCKVCSAQLISESQRVAHYESRKHASKVRLYYMLHPRDGGCPAKRLRSENGSDADMVDKNKCCTLCNMSFTSAVVADSHYQGKIHAKRLKLLLGEKTPLKTTGLRRNYRCTICSVSLNSIEQYHAHLKGSKHQTNLKNK
+PTM	Methylation:110;Phosphorylation:111,115,121,136

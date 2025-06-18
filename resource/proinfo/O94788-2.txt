@@ -1,0 +1,25 @@
+UniprotID	O94788-2
+Accession	O94788;B3KY52;B4DZR2;F5H2Y9;H0YM00;Q2PJS6;Q8NHQ4;Q9UBR8;Q9UFY0
+EntryName	AL1A2_HUMAN
+ProteinName	Retinal dehydrogenase 2 (RALDH 2) (RalDH2) (EC 1.2.1.36) (Aldehyde dehydrogenase family 1 member A2) (ALDH1A2) (Retinaldehyde-specific dehydrogenase type 2) (RALDH(II))
+GeneName	ALDH1A2 RALDH2
+Length	480
+Function	Catalyzes the NAD-dependent oxidation of aldehyde substrates, such as all-trans-retinal and all-trans-13,14-dihydroretinal, to their corresponding carboxylic acids, all-trans-retinoate and all-trans-13,14-dihydroretinoate, respectively (PubMed:29240402, PubMed:33565183). Retinoate signaling is critical for the transcriptional control of many genes, for instance it is crucial for initiation of meiosis in both male and female (Probable) (PubMed:33565183). Recognizes retinal as substrate, both in its free form and when bound to cellular retinol-binding protein (By similarity). Can metabolize octanal and decanal, but has only very low activity with benzaldehyde, acetaldehyde and propanal (By similarity). Displays complete lack of activity with citral (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSSKIEMPGEVKADPAALMASLHLLPSPTPNLEIKYTKIFINNEWQNSESGRVFPVYNPATGEQVCEVQEADKADIDKAVQAARLAFSLGSVWRRMDASERGRLLDKLADLVERDRAVLATMESLNGGKPFLQAFYVDLQGVIKTFRYYAGWADKIHGMTIPVDGDYFTFTRHEPIGVCGQIIPWNFPLLMFAWKIAPALCCGNTVVIKPAEQTPLSALYMGALIKEVGKLIQEAAGRSNLKRVTLELGGKSPNIIFADADLDYAVEQAHQGVFFNQGQCCTAGSRIFVEESIYEEFVRRSVERAKRRVVGSPFDPTTEQGPQIDKKQYNKILELIQSGVAEGAKLECGGKGLGRKGFFIEPTVFSNVTDDMRIAKEEIFGPVQEILRFKTMDEVIERANNSDFGLVAAVFTNDINKALTVSSAMQAGTVWINCYNALNAQSPFGGFKMSGNGREMGEFGLREYSEVKTVTVKIPQKNS
+PTM	Acetylation:415;Methylation:79,108,145,210,227,269,290,456;Phosphorylation:168,215,218,221,262,284;SUMOylation:13,395

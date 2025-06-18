@@ -1,0 +1,25 @@
+UniprotID	P49137-2
+Accession	P49137;Q5SY30;Q5SY41;Q8IYD6
+EntryName	MAPK2_HUMAN
+ProteinName	MAP kinase-activated protein kinase 2 (MAPK-activated protein kinase 2) (MAPKAP kinase 2) (MAPKAP-K2) (MAPKAPK-2) (MK-2) (MK2) (EC 2.7.11.1)
+GeneName	MAPKAPK2
+Length	370
+Function	Stress-activated serine/threonine-protein kinase involved in cytokine production, endocytosis, reorganization of the cytoskeleton, cell migration, cell cycle control, chromatin remodeling, DNA damage response and transcriptional regulation. Following stress, it is phosphorylated and activated by MAP kinase p38-alpha/MAPK14, leading to phosphorylation of substrates. Phosphorylates serine in the peptide sequence, Hyd-X-R-X(2)-S, where Hyd is a large hydrophobic residue. Phosphorylates ALOX5, CDC25B, CDC25C, CEP131, ELAVL1, HNRNPA0, HSP27/HSPB1, KRT18, KRT20, LIMK1, LSP1, PABPC1, PARN, PDE4A, RCSD1, RPS6KA3, TAB3 and TTP/ZFP36. Phosphorylates HSF1; leading to the interaction with HSP90 proteins and inhibiting HSF1 homotrimerization, DNA-binding and transactivation activities (PubMed:16278218). Mediates phosphorylation of HSP27/HSPB1 in response to stress, leading to the dissociation of HSP27/HSPB1 from large small heat-shock protein (sHsps) oligomers and impairment of their chaperone activities and ability to protect against oxidative stress effectively. Involved in inflammatory response by regulating tumor necrosis factor (TNF) and IL6 production post-transcriptionally: acts by phosphorylating AU-rich elements (AREs)-binding proteins ELAVL1, HNRNPA0, PABPC1 and TTP/ZFP36, leading to the regulation of the stability and translation of TNF and IL6 mRNAs. Phosphorylation of TTP/ZFP36, a major post-transcriptional regulator of TNF, promotes its binding to 14-3-3 proteins and reduces its ARE mRNA affinity, leading to inhibition of dependent degradation of ARE-containing transcripts. Phosphorylates CEP131 in response to cellular stress induced by ultraviolet irradiation which promotes binding of CEP131 to 14-3-3 proteins and inhibits formation of novel centriolar satellites (PubMed:26616734). Also involved in late G2/M checkpoint following DNA damage through a process of post-transcriptional mRNA stabilization: following DNA damage, relocalizes from nucleus to cytoplasm and phosphorylates HNRNPA0 and PARN, leading to stabilization of GADD45A mRNA. Involved in toll-like receptor signaling pathway (TLR) in dendritic cells: required for acute TLR-induced macropinocytosis by phosphorylating and activating RPS6KA3.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	371..374;385..389
+UniprotNESRegion	356..365
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSNSQGQSPPVPFPAPAPPPQPPTPALPHPPAQPPPPPPQQFPQFHVKSGLQIKKNAIIDDYKVTSQVLGLGINGKVLQIFNKRTQEKFALKMLQDCPKARREVELHWRASQCPHIVRIVDVYENLYAGRKCLLIVMECLDGGELFSRIQDRGDQAFTEREASEIMKSIGEAIQYLHSINIAHRDVKPENLLYTSKRPNAILKLTDFGFAKETTSHNSLTTPCYTPYYVAPEVLGPEKYDKSCDMWSLGVIMYILLCGYPPFYSNHGLAISPGMKTRIRMGQYEFPNPEWSEVSEEVKMLIRNLLKTEPTQRMTITEFMNHPWIMQSTKVPQTPLHTSRVLKEDKERWEDVKGCLHDKNSDQATWLTRL
+PTM	Acetylation:64,84;Methylation:204,307,353,371,385;Phosphorylation:67,159,214,215,216,219,221,222,225,226,228,229,334,338,367;SUMOylation:188,204,353,374;Ubiquitylation:307

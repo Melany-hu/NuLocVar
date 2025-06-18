@@ -1,0 +1,25 @@
+UniprotID	Q68G74-2
+Accession	Q68G74;E9PGE3
+EntryName	LHX8_HUMAN
+ProteinName	LIM/homeobox protein Lhx8 (LIM homeobox protein 8)
+GeneName	LHX8
+Length	346
+Function	Transcription factor involved in differentiation of certain neurons and mesenchymal cells.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEECGRTTALAAGRTRKGAGEEGLVSPEGAGDEDSCSSSAPLSPSSSPRSMASGSGCPPGKCVCNSCGLEIVDKYLLKVNDLCWHVRCLSCSVCRTSLGRHTSCYIKDKDIFCKLDYFRRYGTRCSRCGRHIHSTDWVRRAKGNVYHLACFACFSCKRQLSTGEEFALVEEKVLCRVHYDCMLDNLKREVENGNGISVEGALLTEQDVNHPKPAKRARTSFTADQLQVMQAQFAQDNNPDAQTLQKLAERTGLSRRVIQVWFQNCRARHKKHVSPNHSSSTPVTAVPPSRLSPPMLEEMAYSAYVPQDGTMLTALHSYMDAHSPTTLGLQPLLPHSMTQLPISHT
+PTM	Methylation:89,198,257;Phosphorylation:56,285

@@ -1,0 +1,25 @@
+UniprotID	H7C1B6
+Accession	H7C1B6
+EntryName	H7C1B6_HUMAN
+ProteinName	cAMP regulated phosphoprotein 21
+GeneName	ARPP21
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQEYTDSTGIDLHEFLINTLKNNSRDRMILLKMEQEIIDFIADNNNHYKKFPQMSSYQRMLVHRVAAYFGLDHNVDQTGKSVIINKTSSTRIPEQRFCEHLKDEKGEESQKRFILKRDNSSIDKEDNQLCPSVVHKLSWIINTDR
+PTM	

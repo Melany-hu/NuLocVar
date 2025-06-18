@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GU64
+Accession	A0A1B0GU64
+EntryName	A0A1B0GU64_HUMAN
+ProteinName	ABHD14A-ACY1 readthrough
+GeneName	ABHD14A-ACY1
+Length	138
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRSQVALLGLSLLLMLLLYVGLPGPPEQTSCLWGDPNVTVLAGLTPGNSPIFYREVLPLNQAHRVEVVLLHGKAFNSHTWEQLGTLQLLSQRGYRAVALDLPAHHAQRHDQQGSRGGAPIGDALPPVPAYPHCPAQA
+PTM	

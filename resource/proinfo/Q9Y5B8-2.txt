@@ -1,0 +1,25 @@
+UniprotID	Q9Y5B8-2
+Accession	Q9Y5B8;A8K3T6;A8MY09;B3KSW9;Q5TGZ4
+EntryName	NDK7_HUMAN
+ProteinName	Nucleoside diphosphate kinase homolog 7 (NDK 7) (NDP kinase homolog 7) (3'-5' exonuclease NME7) (EC 3.1.-.-) (Protein kinase NME7) (EC 2.7.-.-) (nm23-H7)
+GeneName	NME7
+Length	340
+Function	Possesses an intrinsic kinase activity (PubMed:24807905). Displays 3'-5' exonuclease activity with a preference for single-stranded DNA (PubMed:16313181). Does not seem to have nucleoside diphosphate kinase activity (PubMed:16313181, PubMed:24807905). Functional component of the gamma-tubulin ring complex, implicated in the regulation of the microtubule-nucleating activity of the gamma-tubulin ring complex in centrosomes, in a kinase activity-dependent manner (PubMed:24807905). Part of the dynein-decorated doublet microtubules (DMTs) in cilia axoneme, which is required for motile cilia beating (PubMed:36191189).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cell projection; Cilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHDVKNHRTFLKRTKYDNLHLEDLFIGNKVNVFSRQLVLIDYGDQYTARQLGSRKEKTLALIKPDAISKAGEIIEIINKAGFTITKLKMMMLSRKEALDFHVDHQSRPFFNELIQFITTGPIIAMEILRDDAICEWKRLLGPANSGVARTDASESIRALFGTDGIRNAAHGPDSFASAAREMELFFPSSGGCGPANTAKFTNCTCCIVKPHAVSEGLLGKILMAIRDAGFEISAMQMFNMDRVNVEEFYEVYKGVVTEYHDMVTEMYSGPCVAMEIQQNNATKTFREFCGPADPEIARHLRPGTLRAIFGKTKIQNAVHCTDLPEDGLLEVQYFFKILDN
+PTM	Acetylation:41;Methylation:99,115,256,289,347;SUMOylation:41,65,93,99,349;Ubiquitylation:41,51,122,173,245,347

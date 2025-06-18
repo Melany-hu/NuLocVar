@@ -1,0 +1,25 @@
+UniprotID	Q9Y5N5-2
+Accession	Q9Y5N5;B2RA97;Q96F73
+EntryName	N6MT1_HUMAN
+ProteinName	Methyltransferase N6AMT1 (HemK methyltransferase family member 2) (M.HsaHemK2P) (Lysine N-methyltransferase 9) (EC 2.1.1.-) (Methylarsonite methyltransferase N6AMT1) (EC 2.1.1.-) (Protein N(5)-glutamine methyltransferase) (EC 2.1.1.-)
+GeneName	N6AMT1 C21orf127 HEMK2 KMT9 PRED28
+Length	186
+Function	Methyltransferase that can methylate proteins and, to a lower extent, arsenic (PubMed:18539146, PubMed:21193388, PubMed:30017583, PubMed:31061526, PubMed:31636962). Catalytic subunit of a heterodimer with TRMT112, which monomethylates 'Lys-12' of histone H4 (H4K12me1), a modification present at the promoters of numerous genes encoding cell cycle regulators (PubMed:31061526). Catalytic subunit of a heterodimer with TRMT112, which catalyzes N5-methylation of Glu residue of proteins with a Gly-Gln-Xaa-Xaa-Xaa-Arg motif (PubMed:18539146, PubMed:31632689, PubMed:31636962). Methylates ETF1 on 'Gln-185'; ETF1 needs to be complexed to ERF3 in its GTP-bound form to be efficiently methylated (PubMed:18539146, PubMed:20606008, PubMed:31061526, PubMed:31636962). May also play a role in the modulation of arsenic-induced toxicity by mediating the conversion of monomethylarsonous acid (3+) into the less toxic dimethylarsonic acid (PubMed:21193388, PubMed:25997655). It however only plays a limited role in arsenic metabolism compared with AS3MT (PubMed:25997655).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGENFATPFHGHVGRGAFSDVYEPAEDTFLLLDALEAAAAELAGVEICLEVGSGSGVVSAFLASMIGPQALYMCTDINPEAAACTLETARCNKVHIQPVITDLVGSHGIEAAWAGGRNGREVMDRFFPLVPDLLSPRGLFYLVTIKENNPEEILKIMKTKGLQGTTALSRQAGQETLSVLKFTKS
+PTM	Methylation:106,115,175,184;Phosphorylation:164,188,198

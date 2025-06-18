@@ -1,0 +1,25 @@
+UniprotID	A0A087X0N2
+Accession	A0A087X0N2
+EntryName	A0A087X0N2_HUMAN
+ProteinName	Leptin receptor gene-related protein (Endospanin-1) (OB-R gene-related protein)
+GeneName	LEPROT
+Length	140
+Function	
+Subcellular Location	Endosome membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDGKGFLQGFLYFALVALSFSGAIGLTFLMLGCALEDYGVYWPLFVLIFHAISPIPHFIAKRVTYDSDATSSACRELAYFFTTGIVVSAFGFPVILARVAVIKWGACGLVLAGNAVIFLTIQGFFLIFGRGDDFSWEQW
+PTM	

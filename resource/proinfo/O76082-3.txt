@@ -1,0 +1,25 @@
+UniprotID	O76082-3
+Accession	O76082;A2Q0V1;B2R844;D3DQ87;Q6ZQZ8;Q96EH6
+EntryName	S22A5_HUMAN
+ProteinName	Organic cation/carnitine transporter 2 (High-affinity sodium-dependent carnitine cotransporter) (Solute carrier family 22 member 5)
+GeneName	SLC22A5 OCTN2
+Length	581
+Function	Sodium-ion dependent, high affinity carnitine transporter. Involved in the active cellular uptake of carnitine. Transports one sodium ion with one molecule of carnitine (PubMed:10454528, PubMed:10525100, PubMed:10966938, PubMed:17509700, PubMed:20722056, PubMed:33124720). Also transports organic cations such as tetraethylammonium (TEA) without the involvement of sodium. Relative uptake activity ratio of carnitine to TEA is 11.3 (PubMed:10454528, PubMed:10525100, PubMed:10966938). In intestinal epithelia, transports the quorum-sensing pentapeptide CSF (competence and sporulation factor) from B.subtilis which induces cytoprotective heat shock proteins contributing to intestinal homeostasis (PubMed:18005709). May also contribute to regulate the transport of organic compounds in testis across the blood-testis-barrier (Probable).
+Subcellular Location	Cell membrane; Apical cell membrane; Basal cell membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDYDEVTAFLGEWGPFQRLIFFLLSASIIPNGFTGLSSVFLIATPEHRCRVPDAANLSSAWRNHTVPLRLRDGREVPHSCRRYRLATIANFSALGLEPGRDVDLGQLEQESCLDGWEFSQDVYLSTIVTEQDSGAYNAMKNRMGKKPALCLPAQWNLVCEDDWKAPLTISLFFVGVLLGSFISGQLSDRFGRKNVLFVTMGMQTGFSFLQIFSKNFEMFVVLFVLVGMGQISNYVAAFVLGTEILGKSVRIIFSTLGVCIFYAFGYMVLPLFAYFIRDWRMLLVALTMPGVLCVALWWFIPESPRWLISQGRFEEAEVIIRKAAKANGIVVPSTIFDPSELQDLSSKKQQSHNILDLLRTWNIRMVTIMSIMLWMTISVGYFGLSLDTPNLHGDIFVNCFLSAMVEVPAYVLAWLLLQYLPRRYSMATALFLGGSVLLFMQLVPPDLYYLATVLVMVGKFGVTAAFSMVYVYTAELYPTVVRNMGVGVSSTASRLGSILSPYFVYLGAYDRFLPYILMGSLTILTAILTLFLPESFGTPLPDTIDQMLRVKGMKHRKTPSHTRMLKDGQERPTILKSTAF
+PTM	Glycosylation:57,64,91;Methylation:224,299;Phosphorylation:176,181,184,190,209,211,219,225,550,554;Ubiquitylation:324,553

@@ -1,0 +1,25 @@
+UniprotID	Q9UHB4-2
+Accession	Q9UHB4;D3YTG6;D3YTH9;Q5VSG4;Q86US9;Q96BC6
+EntryName	NDOR1_HUMAN
+ProteinName	NADPH-dependent diflavin oxidoreductase 1 (EC 1.18.1.-) (NADPH-dependent FMN and FAD-containing oxidoreductase) (Novel reductase 1)
+GeneName	NDOR1 NR1
+Length	606
+Function	NADPH-dependent reductase which is a central component of the cytosolic iron-sulfur (Fe-S) protein assembly (CIA) machinery (PubMed:10625700, PubMed:15900210, PubMed:20802492, PubMed:23596212, PubMed:28648056). Transfers electrons from NADPH via its FAD and FMN prosthetic groups to the  cluster of CIAPIN1, another key component of the CIA machinery (PubMed:20802492, PubMed:23596212, PubMed:28648056). In turn, this reduced cluster provides electrons for assembly of cytosolic iron-sulfur cluster proteins (PubMed:20802492, PubMed:23596212). It can also reduce the  cluster of CISD1 and activate this protein implicated in Fe/S cluster repair (PubMed:28648056). In vitro can fully activate methionine synthase/MTR in the presence of soluble cytochrome b5/CYB5A (PubMed:12871938).
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSPQLLVLFGSQTGTAQDVSERLGREARRRRLGCRVQALDSYPVVNLINEPLVIFVCATTGQGDPPDNMKNFWRFIFRKNLPSTALCQMDFAVLGLGDSSYAKFNFVAKKLHRRLLQLGGSALLPVCLGDDQHELGPDAAVDPWLRDLWDRVLGLYPPPPGLTEIPPGVPLPSKFTLLFLQEAPSTGSEGQRVAHPGSQEPPSESKPFLAPMISNQRVTGPSHFQDVRLIEFDILGSGISFAAGDVVLIQPSNSAAHVQRFCQVLGLDPDQLFMLQPREPDVSSPTRLPQPCSMRHLVSHYLDIASVPRRSFFELLACLSLHELEREKLLEFSSAQGQEELFEYCNRPRRTILEVLCDFPHTAAAIPPDYLLDLIPVIRPRAFSIASSLLTHPSRLQILVAVVQFQTRLKEPRRGLCSSWLASLDPGQGPVRVPLWVRPGSLAFPETPDTPVIMVGPGTGVAPFRAAIQERVAQGQTGNFLFFGCRWRDQDFYWEAEWQELEKRDCLTLIPAFSREQPPALFSALQEQKVYVQHRLRELGSLVWELLDRQGAYFYLAGNAKSMPADVSEALMSIFQEEGGLCSPDAAAYLARLQQTRRFQTETWA
+PTM	Methylation:504;Phosphorylation:43,60,61,174,204,307;Ubiquitylation:110,207,521

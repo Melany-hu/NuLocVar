@@ -1,0 +1,25 @@
+UniprotID	Q5SZR1
+Accession	Q5SZR1
+EntryName	Q5SZR1_HUMAN
+ProteinName	Large ribosomal subunit protein bL9m (39S ribosomal protein L9, mitochondrial)
+GeneName	MRPL9
+Length	233
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPVVTAPGRALLRAGAGRLLRGGVQELLRPRHEGNAPDLACNFSLSQNRGTVIVERWWKVPLAGEGRKPRLHRRHRVYKLVEDTKHRPKENLELILTQSVENVGVRGDLVSVKKSLGRNRLLPQGLAVYASPENKKLFEEEKLLRQEGKLEKIQTKAGEALGVVVAPHTLKLPEEPITRWGEYWCEVTVNGLDTVRVPMSVVNFEKPKTKRYKYWLAQQAAKAMAPTSPQI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	M0R021
+Accession	M0R021
+EntryName	M0R021_HUMAN
+ProteinName	Dystrobrevin alpha
+GeneName	DTNA
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPDQPEKPLNLAHIVPPRPVTSMNDTLFSHSVPSSGSPFITRSMLESSNRLDEEHRLIARYAARLAAESSSSQPPQQRSAPDISFTIDANKQQRQLIAELENKNREILQEIQRLRLEHEQASQPTPEKAQQNPTLLAELRLLSAKMSWNRECLLSRRAGES
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q05BR9
+Accession	Q05BR9
+EntryName	Q05BR9_HUMAN
+ProteinName	TCTN1 protein
+GeneName	TCTN1
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCQLLESTVIQPQGDSPVAVLCVCDLSPAQCDINCCCDPDCSSVDFSVFSACSVPVVTGDSQFCSQKAVIYSLNFTANPPQRVFELVDQINPSIFCIHITNYKPALSFINPEVPDENNFDTLMKTSDGFTLNAESYVSFTTKLDIPTAAKYEVSLNLIDSFHPITNIFPCKLIFKVTRKTGFLETELIL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O60636-2
+Accession	O60636;D6PTH4;Q5TET2;Q8WU05
+EntryName	TSN2_HUMAN
+ProteinName	Tetraspanin-2 (Tspan-2) (Tetraspan NET-3)
+GeneName	TSPAN2
+Length	193
+Function	May play a role in signalling in oligodendrocytes in the early stages of their terminal differentiation into myelin-forming glia and may also function in stabilizing the mature sheath.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRFRGGLRCIKYLLLGFNLLFWLAGSAVIAFGLWFRFGGAIKELSSEDKSPEYFYVGLYVLVGAGALMMAVGFFGCCGAMRESQCVLGSFFTCLLVIFAAEVTTGVFAFIGKGVAIRHVQTMYEEAYNDYLKDRGKGNGTLITFHSTFQCCGKESSEQVQPTCPKELLGHKIFGMIFSMVLCCAIRNSRDVI
+PTM	

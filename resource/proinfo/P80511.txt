@@ -1,0 +1,25 @@
+UniprotID	P80511
+Accession	P80511;P83219;Q5SY66;Q7M4R1
+EntryName	S10AC_HUMAN
+ProteinName	Protein S100-A12 (CGRP) (Calcium-binding protein in amniotic fluid 1) (CAAF1) (Calgranulin-C) (CAGC) (Extracellular newly identified RAGE-binding protein) (EN-RAGE) (Migration inhibitory factor-related protein 6) (MRP-6) (p6) (Neutrophil S100 protein) (S100 calcium-binding protein A12) [Cleaved into: Calcitermin]
+GeneName	S100A12
+Length	92
+Function	S100A12 is a calcium-, zinc- and copper-binding protein which plays a prominent role in the regulation of inflammatory processes and immune response. Its pro-inflammatory activity involves recruitment of leukocytes, promotion of cytokine and chemokine production, and regulation of leukocyte adhesion and migration. Acts as an alarmin or a danger associated molecular pattern (DAMP) molecule and stimulates innate immune cells via binding to receptor for advanced glycation endproducts (AGER). Binding to AGER activates the MAP-kinase and NF-kappa-B signaling pathways leading to production of pro-inflammatory cytokines and up-regulation of cell adhesion molecules ICAM1 and VCAM1. Acts as a monocyte and mast cell chemoattractant. Can stimulate mast cell degranulation and activation which generates chemokines, histamine and cytokines inducing further leukocyte recruitment to the sites of inflammation. Can inhibit the activity of matrix metalloproteinases; MMP2, MMP3 and MMP9 by chelating Zn(2+) from their active sites. Possesses filariacidal and filariastatic activity. Calcitermin possesses antifungal activity against C.albicans and is also active against E.coli and P.aeruginosa but not L.monocytogenes and S.aureus.
+Subcellular Location	Secreted; Cytoplasm; Cytoplasm; Cytoskeleton; Cell membrane
+Disorder	0.2918,0.2064,0.2752,0.1823,0.0985,0.1373,0.1731,0.1206,0.1449,0.1137,0.1349,0.1554,0.1528,0.1671,0.1501,0.1424,0.1323,0.0749,0.1251,0.1115,0.1115,0.1914,0.1759,0.1554,0.2436,0.2680,0.1759,0.1702,0.2470,0.2645,0.2503,0.2224,0.2470,0.2470,0.1554,0.2503,0.2609,0.1731,0.2503,0.2609,0.2609,0.2328,0.1583,0.1583,0.1671,0.1731,0.1702,0.1501,0.1554,0.1554,0.0870,0.1476,0.1476,0.1476,0.1501,0.2364,0.2575,0.2503,0.2680,0.2783,0.1671,0.1759,0.2164,0.1791,0.1791,0.1731,0.1007,0.1115,0.1759,0.1048,0.0909,0.0909,0.0851,0.0851,0.0646,0.0662,0.0372,0.0364,0.0349,0.0592,0.0555,0.1206,0.0948,0.0676,0.1137,0.1671,0.1373,0.2034,0.2680,0.2715,0.3840,0.3983
+ExposeBuried	1,1,1,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,1
+SurfaceAccessbility	0.767,0.465,0.633,0.210,0.297,0.539,0.101,0.059,0.361,0.243,0.035,0.065,0.425,0.087,0.021,0.295,0.542,0.092,0.091,0.494,0.696,0.664,0.420,0.539,0.448,0.460,0.442,0.054,0.390,0.449,0.639,0.359,0.042,0.307,0.555,0.095,0.041,0.465,0.613,0.276,0.038,0.436,0.623,0.136,0.111,0.672,0.534,0.584,0.657,0.447,0.503,0.645,0.227,0.046,0.452,0.543,0.084,0.077,0.624,0.485,0.091,0.309,0.628,0.398,0.629,0.627,0.468,0.572,0.103,0.377,0.068,0.509,0.304,0.053,0.088,0.288,0.083,0.044,0.137,0.303,0.055,0.041,0.250,0.142,0.053,0.181,0.569,0.323,0.194,0.575,0.742,0.910
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,B,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C
+Hydropathy	1.9,-0.7,-3.9,3.8,-3.5,-3.5,-3.2,3.8,-3.5,-0.4,4.5,4.2,-3.5,4.5,2.8,-3.2,-3.5,-1.3,-0.8,4.2,-4.5,-3.9,-0.4,-3.2,2.8,-3.5,-0.7,3.8,-0.8,-3.9,-0.4,-3.5,3.8,-3.9,-3.5,3.8,3.8,-0.7,-3.9,-3.5,3.8,1.8,-3.5,-0.7,4.5,-3.9,-3.5,4.5,-3.9,-3.5,-3.9,1.8,4.2,4.5,-3.5,-3.5,4.5,2.8,-3.5,-0.4,3.8,-3.5,1.8,-3.5,-3.5,-3.5,-3.5,-3.5,4.2,-3.5,2.8,-3.5,-3.5,2.8,4.5,-0.8,3.8,4.2,1.8,4.5,1.8,3.8,-3.9,1.8,1.8,-3.2,-1.3,-3.2,-0.7,-3.2,-3.9,-3.5
+Polar	0,1,1,0,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1
+Charge	0,0,1,0,-1,-1,1,0,-1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,-1,0,0,0,1,0,-1,0,1,0,0,0,0,1,-1,0,0,0,0,0,1,0,0,1,-1,1,0,0,0,-1,-1,0,0,0,0,0,-1,0,0,0,-1,-1,0,0,-1,0,0,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,-1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKLEEHLEGIVNIFHQYSVRKGHFDTLSKGELKQLLTKELANTIKNIKDKAVIDEIFQGLDANQDEQVDFQEFISLVAIALKAAHYHTHKE
+PTM	Methylation:39,46

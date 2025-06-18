@@ -1,0 +1,25 @@
+UniprotID	Q8WXS3-1
+Accession	Q8WXS3;Q8WTP6;Q8WXS0;Q8WXS1;Q8WXS2;Q9HA93
+EntryName	BAALC_HUMAN
+ProteinName	Brain and acute leukemia cytoplasmic protein
+GeneName	BAALC
+Length	180
+Function	May play a synaptic role at the postsynaptic lipid rafts possibly through interaction with CAMK2A.
+Subcellular Location	Cytoplasm; Synapse; Synaptosome; Membrane raft; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCGGSRADAIEPRYYESWTRETESTWLTYTDSDAPPSAAAPDSGPEAGGLHSVLEAEKSKIKAPTDSVSDEGLFSASKMAPLAVFSHGMLEDGLPSNGVPRSTAPGGIPNPEKKTNCETQCPNPQSLSSGPLTQKQNGLQTTEAKRDAKRMPAKEVTINVTDSIQQMDRSRRITKNCVN
+PTM	Methylation:101;Phosphorylation:16,18,20,158,162

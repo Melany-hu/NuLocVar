@@ -1,0 +1,25 @@
+UniprotID	Q6UYE1-2
+Accession	Q6UYE1;Q2M2E4;Q6ZT82
+EntryName	LEU7_HUMAN
+ProteinName	Leukemia-associated protein 7 (Deleted in lymphocytic leukemia 7)
+GeneName	DLEU7 LEU7
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPAPLVASISHQMVALQTLQLLQQEWGWGDGPVAPGNPRDPDHVSTAPARRSGPPRARPGPGREERGGGVGTRSRRTAARANSPEEEVVRGAEGGAELLPFPRDRGPCTLAQMAMRSALARVVDSTSELVSVEQTLLGPLQQERSFPIHLKLQLLANE
+PTM	Phosphorylation:85

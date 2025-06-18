@@ -1,0 +1,25 @@
+UniprotID	J3KTM8
+Accession	J3KTM8
+EntryName	J3KTM8_HUMAN
+ProteinName	DNA polymerase iota
+GeneName	POLI
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSPKILEKELGISVAQRIQKLSFGEDNSPVILSGPPQSFSEEDSFKKCSSEVEAKNKIEELLASLLNRVCQDGRKPHTVRLIIRRYSSEKHYGRESRQCPIPSHVIQKLGTGLQSPDFCASSLMQRRLEDKLVKLEGVFTKH
+PTM	

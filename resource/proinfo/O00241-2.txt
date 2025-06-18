@@ -1,0 +1,25 @@
+UniprotID	O00241-2
+Accession	O00241;A6NLM2;B2R8V0;Q5TFQ9;Q5TFR0;Q8TB12;Q9H1U5;Q9Y4V0
+EntryName	SIRB1_HUMAN
+ProteinName	Signal-regulatory protein beta-1 (SIRP-beta-1) (CD172 antigen-like family member B) (CD antigen CD172b)
+GeneName	SIRPB1
+Length	181
+Function	Immunoglobulin-like cell surface receptor involved in the negative regulation of receptor tyrosine kinase-coupled signaling processes. Also participates in the recruitment of tyrosine kinase SYK. Triggers activation of myeloid cells when associated with TYROBP (PubMed:10604985).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVPASWPHLPSPFLLMTLLLGRLTGVAGEDELQVIQPEKSVSVAAGESATLRCAMTSLIPVGPIMWFRGAGAGRELIYNQKEGHFPRVTTVSELTKRNNLDFSISISNITPADAGTYYCVKFRKGSPDDVEFKSGAGTELSVREAALAPTAPLLVALLLGPKLLLVVGVSAIYICWKQKA
+PTM	Glycosylation:244,289,291;Methylation:182,305;Phosphorylation:153

@@ -1,0 +1,25 @@
+UniprotID	P50591-2
+Accession	P50591;A1Y9B3
+EntryName	TNF10_HUMAN
+ProteinName	Tumor necrosis factor ligand superfamily member 10 (Apo-2 ligand) (Apo-2L) (TNF-related apoptosis-inducing ligand) (Protein TRAIL) (CD antigen CD253)
+GeneName	TNFSF10 APO2L TRAIL
+Length	101
+Function	Cytokine that binds to TNFRSF10A/TRAILR1, TNFRSF10B/TRAILR2, TNFRSF10C/TRAILR3, TNFRSF10D/TRAILR4 and possibly also to TNFRSF11B/OPG (PubMed:10549288, PubMed:26457518). Induces apoptosis. Its activity may be modulated by binding to the decoy receptors TNFRSF10C/TRAILR3, TNFRSF10D/TRAILR4 and TNFRSF11B/OPG that cannot induce apoptosis.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMMEVQGGPSLGQTCVLIVIFTVLLQSLCVAVTYVYFTNELKQMQDKYSKSGIACFLKEDDSYWDPNDEESMNSPCWQVKWQLRQLVRKTPRMKRLWAAK
+PTM	Methylation:43,106,197;Phosphorylation:49,50,52,95,96,99,101,102,135,137,209,211

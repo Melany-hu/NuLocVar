@@ -1,0 +1,25 @@
+UniprotID	O75569-2
+Accession	O75569;A8K3I6;Q53G24;Q6X7T5;Q8NDK4
+EntryName	PRKRA_HUMAN
+ProteinName	Interferon-inducible double-stranded RNA-dependent protein kinase activator A (PKR-associated protein X) (PKR-associating protein X) (Protein activator of the interferon-induced protein kinase) (Protein kinase, interferon-inducible double-stranded RNA-dependent activator)
+GeneName	PRKRA PACT RAX HSD-14 HSD14
+Length	302
+Function	Activates EIF2AK2/PKR in the absence of double-stranded RNA (dsRNA), leading to phosphorylation of EIF2S1/EFI2-alpha and inhibition of translation and induction of apoptosis. Required for siRNA production by DICER1 and for subsequent siRNA-mediated post-transcriptional gene silencing. Does not seem to be required for processing of pre-miRNA to miRNA by DICER1. Promotes UBC9-p53/TP53 association and sumoylation and phosphorylation of p53/TP53 at 'Lys-386' at 'Ser-392' respectively and enhances its activity in a EIF2AK2/PKR-dependent manner (By similarity).
+Subcellular Location	Cytoplasm; Perinuclear region; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQSTPFCGFCSLGKMITAKPGKTPIQVLHEYGMKTKNIPVYECERSDVQIHVPTFTFRVTVGDITCTGEGTSKKLAKHRAAEAAINILKANASICFAVPDPLMPDPSKQPKNQLNPIGSLQELAIHHGWRLPEYTLSQEGGPAHKREYTTICRLESFMETGKGASKKQAKRNAAEKFLAKFSNISPENHISLTNVVGHSLGCTWHSLRNSPGEKINLLKRSLLSIPNTDYIQLLSEIAKEQGFNITYLDIDELSANGQYQCLAELSTSPITVCHGSGISCGNAQSDAAHNALQYLKIIAERK
+PTM	Acetylation:25,45,84,187;Methylation:100,230,250;Phosphorylation:2,4,18,20,22,42,82,83,130,146,148,159,167,171,196,221,232,235;SUMOylation:33,45,122,156,191;Ubiquitylation:47,84,85,156,173,187,191,225

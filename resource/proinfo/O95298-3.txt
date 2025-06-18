@@ -1,0 +1,25 @@
+UniprotID	O95298-3
+Accession	O95298;E9PNU8;E9PRB2;Q549M5;Q6FIH8;Q9UBJ9
+EntryName	NDUC2_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] 1 subunit C2 (Complex I-B14.5b) (CI-B14.5b) (Human lung cancer oncogene 1 protein) (HLC-1) (NADH-ubiquinone oxidoreductase subunit B14.5b)
+GeneName	NDUFC2 HLC1
+Length	88
+Function	Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis but required for the complex assembly. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIARRNPEPLRFLPDEARSLPPPKLTDPRLLYIGFLGYCSGLIDNLIRRRPIATAGLHRQLLYITAFFFAGYYLVKLEAYANLYVDTL
+PTM	Acetylation:105,114;Phosphorylation:92;Ubiquitylation:24,94,105,106,114

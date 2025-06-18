@@ -1,0 +1,25 @@
+UniprotID	Q6NSH2
+Accession	Q6NSH2
+EntryName	Q6NSH2_HUMAN
+ProteinName	ZNF28 protein
+GeneName	ZNF28
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALPQGLLTFRDVAIEFSQEEWKCLDPAQRTLYRDVMLENYRNLVSLGEDNLLGMCPCVSLYFLLLPLGSHILT
+PTM	

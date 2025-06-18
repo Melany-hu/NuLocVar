@@ -1,0 +1,25 @@
+UniprotID	H0YIG1
+Accession	H0YIG1
+EntryName	H0YIG1_HUMAN
+ProteinName	Ceramide synthase 5
+GeneName	CERS5
+Length	78
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYINNMVRVGTLIMCLHDVSDFLLEAAKLANYAKYQRLCDTLFVIFSAVFMVTRLGIYPFWYRRMIAVMWRAAQRKKM
+PTM	

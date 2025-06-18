@@ -1,0 +1,25 @@
+UniprotID	Q53EV4-2
+Accession	Q53EV4;A8K8C6;D3DUT1;Q8N6K6;Q92977;Q99620
+EntryName	LRC23_HUMAN
+ProteinName	Leucine-rich repeat-containing protein 23 (Leucine-rich protein B7)
+GeneName	LRRC23 LRPB7
+Length	312
+Function	Essential for sperm motility and male fertility. Plays an important role in the proper assembly of the third radial spoke (RS3) head and the bridge structure between RS2 and RS3 in the sperm flagella.
+Subcellular Location	Cell projection; Cilium; Flagellum; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDEDDLEDSEPDQDDSEKEEDEKETEEGEDYRKEGEEFPEEWLPTPLTEDMMKEGLSLLCKTGNGLAHAYVKLEVKERDLTDIYLLRSYIHLRYVDISENHLTDLSPLNYLTHLLWLKADGNRLRSAQMNELPYLQIASFAYNQITDTEGISHPRLETLNLKGNSIHMVTGLDPEKLISLHTVELRGNQLESTLGINLPKLKNLYLAQNMLKKVEGLEDLSNLTTLHLRDNQIDTLSGFSREMKSLQYLNLRRSKTLAFRPDQTPRGSHHMYDREQRMPVFAPKLEIHHNLRPRICSVPVLWAVWGAEWGA
+PTM	Methylation:73,77,163,201,265,271;SUMOylation:214

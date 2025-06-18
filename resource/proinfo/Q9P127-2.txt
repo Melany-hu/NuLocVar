@@ -1,0 +1,25 @@
+UniprotID	Q9P127-2
+Accession	Q9P127;B3KSD6
+EntryName	LUZP4_HUMAN
+ProteinName	Leucine zipper protein 4 (Cancer/testis antigen 28) (CT-28) (CT28) (Tumor antigen HOM-TES-85)
+GeneName	LUZP4
+Length	231
+Function	Export adapter involved in mRNA nuclear export in cancer cells. Binds and enhances the RNA-binding activity of the nuclear RNA export factor NXF1. Can restore mRNA export function in cells compromised by loss of mRNA export adapters (PubMed:25662211).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKKKRIKDRTIVKRNRLQDSNQKLIDIAIGEEKCSDNYEAQAEKNQGQSEGNQHQSEGNPDKSEESQGQPEENHHSERSRNHLERSLSQSDRSQGQLKRHHPQYERSHGQYKRSHGQSERSHGHSERSHGHSERSHGHSERSHGHSKRSRSQGDLVDTQSDLIATQRDLIATQKDLIATQRDLIATQRDLIVTQRDLVATERDLINQSGRSHGQSERHQRYSTGKNTITT
+PTM	Methylation:48;Phosphorylation:276

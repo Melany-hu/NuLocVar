@@ -1,0 +1,25 @@
+UniprotID	H0YDY7
+Accession	H0YDY7
+EntryName	H0YDY7_HUMAN
+ProteinName	Cytochrome b5 reductase like
+GeneName	CYB5RL
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RGPESQSCPSKLNPETFVAFCIIAMDRLTKDTYRVRFALPGNSQLGLRPGQHLILRYTQCYQMGLMSRYVESWRVGDTAFWRGPFGDFFYKPNQYGELLLLAAGTGLAPMVPILQSITDNENDETFVTLVGCFKTFESIYLKTFLQEQARFWNVRTFFVLSQLVESTNVEPMDTEG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9HCG1-2
+Accession	Q9HCG1;Q14589;Q504Q8;Q96JC5;Q9BVY9;Q9H7N6
+EntryName	ZN160_HUMAN
+ProteinName	Zinc finger protein 160 (Zinc finger protein HZF5) (Zinc finger protein Kr18) (HKr18)
+GeneName	ZNF160 KIAA1611
+Length	147
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALTQVRLTFRDVAIEFSQEEWKCLDPAQRILYRDVMLENYWNLVSLGLCHFDMNIISMLEEGKEPWTVKSCVKIARKPRTPECVKGVVTDLLRRWKHWLLLLGICCPKPHGRVSSRLRLSRSLGHFFHSAFATFMGVCDKRVGSIF
+PTM	Acetylation:451,591,703,730,759;Methylation:23,64,175,209;Phosphorylation:123,130,218,280,308,336,364,392,420,448,453,504,532,560,588,616,644,672,700,705,756;SUMOylation:23,132,153,160,175,200,234,255,258,311,314,339,342,367,395,398,423,426,451,454,479,507,510,535,549,563,566,591,619,647,650,668,675,730,734,759,787;Ubiquitylation:132

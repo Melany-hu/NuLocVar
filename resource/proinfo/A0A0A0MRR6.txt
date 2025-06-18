@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MRR6
+Accession	A0A0A0MRR6
+EntryName	A0A0A0MRR6_HUMAN
+ProteinName	Fibronectin type III domain containing 5
+GeneName	FNDC5
+Length	212
+Function	
+Subcellular Location	Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHPGSPSAWPPRARAALRLWLGCVCFALVQADSPSAPVNVTVRHLKANSAVVSWDVLEDEVVIGFAISQQKKDVRMLRFIQEVNTTTRSCALWDLEEDTEYIVHVQAISIQGQSPASEPVLFKTPREAEKMASKNKDEVTMKEMGRNQQLRTGEVLIIVVVLFMWAGVIALFCRQYDIIKDNEPNNNKEKTKSASETSTPEHQGGGLLRSKI
+PTM	

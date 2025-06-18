@@ -1,0 +1,25 @@
+UniprotID	A0A8J9FN78
+Accession	A0A8J9FN78
+EntryName	A0A8J9FN78_HUMAN
+ProteinName	Gem-associated protein 2
+GeneName	GEMIN2
+Length	239
+Function	The SMN complex catalyzes the assembly of small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome, and thereby plays an important role in the splicing of cellular pre-mRNAs.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWVPAESAVEELMPRLLPVEPCDLTEGFDPSVPPRTPQEYLRRVQIEAAQCPDVVVAQIDPKKLKRKQSVNISLSGCQPAPEGYSPTLQWQQQQVAQFSTVRQNVNKHRSHWKSQQLDSNVTMPKSEDEEGWKKFCLGEKLCADGAVGPATNESPGIDYVQIGFPPLLSIVSRMNQATVTSVLEYLSNWFGERDFTPELGRWLYALLACLEKPLLPEAHSLIRQLARRCSEVRLLVVF
+PTM	

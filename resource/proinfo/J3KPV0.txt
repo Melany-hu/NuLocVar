@@ -1,0 +1,25 @@
+UniprotID	J3KPV0
+Accession	J3KPV0
+EntryName	J3KPV0_HUMAN
+ProteinName	Peroxisomal targeting signal 1 receptor (PTS1-BP) (Peroxin-5) (Peroxisomal C-terminal targeting signal import receptor) (Peroxisome receptor 1)
+GeneName	PEX5
+Length	410
+Function	In addition to promoting peroxisomal translocation of proteins containing a PTS1 peroxisomal targeting signal, mediates peroxisomal import of proteins containing a C-terminal PTS2-type peroxisomal targeting signal via its interaction with PEX7. Interaction with PEX7 only takes place when PEX7 is associated with cargo proteins containing a PTS2 peroxisomal targeting signal. PEX7 along with PTS2-containing cargo proteins are then translocated through the PEX13-PEX14 docking complex together with PEX5.
+Subcellular Location	Cytoplasm; Cytosol; Peroxisome matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMRELVEAECGGANPLMKLAGHFTQDKALRQEGLRPGPWPPGAPASEAVSVLEVESPGAASEAASKPLGVASEDELVAEFLQDQNAPLVSRAPQTFKMDDLLAEMQQIEQSNFRQAPQRAPGVADLALSENWAQEFLAAGDAVDVTQDYNETDWSQEFISEVTDPLSVSPARWAEEYLEQSEEKLWLGEPEGTATDRWYDEYHPEEDLQHTASDFVAKVDDPKLANSEGTSDAWVDQFTRPVNTSALDMEFERAKSAIELQAELEEMAKRDAEAHPWLSDYDDLTSATYDKGYQFEEENPLRDHPQPFEEGLRRLQEGDLPNAVLLFEAAVQQDPKHMEAWQYLGTTQAENEQELLAISALRRCLELKPDNQTALMALAVSFTNESLQRQACETLRDWLRYTPAYAHLV
+PTM	

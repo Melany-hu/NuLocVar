@@ -1,0 +1,25 @@
+UniprotID	M0QZZ4
+Accession	M0QZZ4
+EntryName	M0QZZ4_HUMAN
+ProteinName	Zinc finger protein 615
+GeneName	ZNF615
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPEPTKFWEESLTLEDVAVDFTWEEWQFLSPAQKDLYRDVMLENYSNLVAVGYQASKPDALSKLERGEETCTTEDEIYSRICSDSGGASGGAYAGLSHGYIA
+PTM	

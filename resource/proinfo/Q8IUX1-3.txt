@@ -1,0 +1,25 @@
+UniprotID	Q8IUX1-3
+Accession	Q8IUX1;A8K535;A8MSS0;Q32Q09;Q8WVU3;Q96EP3;Q9NZ29
+EntryName	T126B_HUMAN
+ProteinName	Complex I assembly factor TMEM126B, mitochondrial (Transmembrane protein 126B)
+GeneName	TMEM126B HT007
+Length	110
+Function	As part of the MCIA complex, involved in the assembly of the mitochondrial complex I (PubMed:27374773, PubMed:27374774, PubMed:32320651). Participates in constructing the membrane arm of complex I (PubMed:24191001).
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASMHGQPSPSLEDAKLRRPMVIEIIEKNFDYLRKEMTQNIYQMATFGTTAGFSGIFSNFLFRRCFKVKHDALKTYASLATLPFLSTVVTDKLFVIDALYSGEFKFTNV
+PTM	Methylation:59,105;Ubiquitylation:11,27,163

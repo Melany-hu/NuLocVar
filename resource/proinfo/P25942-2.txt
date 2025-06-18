@@ -1,0 +1,25 @@
+UniprotID	P25942-2
+Accession	P25942;E1P5S9;Q53GN5;Q5JY15;Q5U007;Q7M4Q8;Q86YK5;Q9BYU0
+EntryName	TNR5_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 5 (B-cell surface antigen CD40) (Bp50) (CD40L receptor) (CDw40) (CD antigen CD40)
+GeneName	CD40 TNFRSF5
+Length	203
+Function	Receptor for TNFSF5/CD40LG (PubMed:31331973). Transduces TRAF6- and MAP3K8-mediated signals that activate ERK in macrophages and B cells, leading to induction of immunoglobulin secretion (By similarity).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRLPLQCVLWGCLLTAVHPEPPTACREKQYLINSQCCSLCQPGQKLVSDCTEFTETECLPCGESEFLDTWNRETHCHQHKYCDPNLGLRVQQKGTSETDTICTCEEGWHCTSEACESCVLHRSCSPGFGVKQIATGVSDTICEPCPVGFFSNVSSAFEKCHPWTRSPGSAESPGGDPHHLRDPVCHPLGAGLYQKGGQEANQ
+PTM	Glycosylation:153,180;Phosphorylation:269,272

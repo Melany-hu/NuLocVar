@@ -1,0 +1,25 @@
+UniprotID	Q13164-2
+Accession	Q13164;Q16634;Q59F50;Q6QLU7;Q7L4P4;Q969G1;Q96G51
+EntryName	MK07_HUMAN
+ProteinName	Mitogen-activated protein kinase 7 (MAP kinase 7) (MAPK 7) (EC 2.7.11.24) (Big MAP kinase 1) (BMK-1) (Extracellular signal-regulated kinase 5) (ERK-5)
+GeneName	MAPK7 BMK1 ERK5 PRKM7
+Length	677
+Function	Plays a role in various cellular processes such as proliferation, differentiation and cell survival. The upstream activator of MAPK7 is the MAPK kinase MAP2K5. Upon activation, it translocates to the nucleus and phosphorylates various downstream targets including MEF2C. EGF activates MAPK7 through a Ras-independent and MAP2K5-dependent pathway. As part of the MAPK/ERK signaling pathway, acts as a negative regulator of apoptosis in cardiomyocytes via interaction with STUB1/CHIP and promotion of STUB1-mediated ubiquitination and degradation of ICER-type isoforms of CREM (By similarity). May have a role in muscle cell differentiation. May be important for endothelial function and maintenance of blood vessel integrity. MAP2K5 and MAPK7 interact specifically with one another and not with MEK1/ERK1 or MEK2/ERK2 pathways. Phosphorylates SGK1 at Ser-78 and this is required for growth factor-induced cell cycle progression. Involved in the regulation of p53/TP53 by disrupting the PML-MDM2 interaction.
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	505..539
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	381...386;366...400
+validnes_region	
+nesbase_region	
+Sequence	MESDLHQIIHSSQPLTLEHVRYFLYQLLRGLKYMHSAQVIHRDLKPSNLLVNENCELKIGDFGMARGLCTSPAEHQYFMTEYVATRWYRAPELMLSLHEYTQAIDLWSVGCIFGEMLARRQLFPGKNYVHQLQLIMMVLGTPSPAVIQAVGAERVRAYIQSLPPRQPVPWETVYPGADRQALSLLGRMLRFEPSARISAAAALRHPFLAKYHDPDDEPDCAPPFDFAFDREALTRERIKEAIVAEIEDFHARREGIRQQIRFQPSLQPVASEPGCPDVEMPSPWAPSGDCAMESPPPAPPPCPGPAPDTIDLTLQPPPPVSEPAPPKKDGAISDNTKAALKAALLKSLRSRLRDGPSAPLEAPEPRKPVTAQERQREREEKRRRRQERAKEREKRRQERERKERGAGASGGPSTDPLAGLVLSDNDRSLLERWTRMARPAAPALTSVPAPAPAPTPTPTPVQPTSPPPGPVAQPTGPQPQSAGSTSGPVPQPACPPPGPAPHPTGPPGPIPVPAPPQIATSTSLLAAQSLVPPPGLPGSSTPGVLPYFPPGLPPPDAGGAPQSSMSESPDVNLVTQQLSKSQVEDPLPPVFSGTPKGSGAGYGVGFDLEEFLNQSFDMGVADGPQDGQADSASLSASLLADWLEGHGMNPADIESLQREIQMDSPMLLADLPDLQDP
+PTM	Acetylation:35,84,85;Methylation:41,118,480,485;Phosphorylation:219,221,224,300,337,486,489,562,720,731,733,803;SUMOylation:6,22,184,476;Ubiquitylation:41,84,480

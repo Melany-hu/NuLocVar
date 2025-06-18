@@ -1,0 +1,25 @@
+UniprotID	P17612-2
+Accession	P17612;Q32P54;Q9H2Y0;Q9NRB4;Q9NRH9
+EntryName	KAPCA_HUMAN
+ProteinName	cAMP-dependent protein kinase catalytic subunit alpha (PKA C-alpha) (EC 2.7.11.11)
+GeneName	PRKACA PKACA
+Length	343
+Function	Phosphorylates a large number of substrates in the cytoplasm and the nucleus (PubMed:15642694, PubMed:15905176, PubMed:16387847, PubMed:17333334, PubMed:17565987, PubMed:17693412, PubMed:18836454, PubMed:19949837, PubMed:20356841, PubMed:21085490, PubMed:21514275, PubMed:21812984, PubMed:31112131). Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, PSMC5/RPT6, PJA2, RYR2, RORA, SOX9 and VASP (PubMed:15642694, PubMed:15905176, PubMed:16387847, PubMed:17333334, PubMed:17565987, PubMed:17693412, PubMed:18836454, PubMed:19949837, PubMed:20356841, PubMed:21085490, PubMed:21514275, PubMed:21812984). Regulates the abundance of compartmentalized pools of its regulatory subunits through phosphorylation of PJA2 which binds and ubiquitinates these subunits, leading to their subsequent proteolysis (PubMed:21423175). RORA is activated by phosphorylation (PubMed:21514275). Required for glucose-mediated adipogenic differentiation increase and osteogenic differentiation inhibition from osteoblasts (PubMed:19949837). Involved in chondrogenesis by mediating phosphorylation of SOX9 (By similarity). Involved in the regulation of platelets in response to thrombin and collagen; maintains circulating platelets in a resting state by phosphorylating proteins in numerous platelet inhibitory pathways when in complex with NF-kappa-B (NFKB1 and NFKB2) and I-kappa-B-alpha (NFKBIA), but thrombin and collagen disrupt these complexes and free active PRKACA stimulates platelets and leads to platelet aggregation by phosphorylating VASP (PubMed:15642694, PubMed:20356841). Prevents the antiproliferative and anti-invasive effects of alpha-difluoromethylornithine in breast cancer cells when activated (PubMed:17333334). RYR2 channel activity is potentiated by phosphorylation in presence of luminal Ca(2+), leading to reduced amplitude and increased frequency of store overload-induced Ca(2+) release (SOICR) characterized by an increased rate of Ca(2+) release and propagation velocity of spontaneous Ca(2+) waves, despite reduced wave amplitude and resting cytosolic Ca(2+) (PubMed:17693412). PSMC5/RPT6 activation by phosphorylation stimulates proteasome (PubMed:17565987). Negatively regulates tight junctions (TJs) in ovarian cancer cells via CLDN3 phosphorylation (PubMed:15905176). NFKB1 phosphorylation promotes NF-kappa-B p50-p50 DNA binding (PubMed:15642694). Required for phosphorylation of GLI transcription factors which inhibits them and prevents transcriptional activation of Hedgehog signaling pathway target genes (By similarity). GLI transcription factor phosphorylation is inhibited by interaction of PRKACA with SMO which sequesters PRKACA at the cell membrane (By similarity). Involved in embryonic development by down-regulating the Hedgehog (Hh) signaling pathway that determines embryo pattern formation and morphogenesis most probably through the regulation of OFD1 in ciliogenesis (PubMed:33934390). Prevents meiosis resumption in prophase-arrested oocytes via CDC25B inactivation by phosphorylation (By similarity). May also regulate rapid eye movement (REM) sleep in the pedunculopontine tegmental (PPT) (By similarity). Phosphorylates APOBEC3G and AICDA (PubMed:16387847, PubMed:18836454). Phosphorylates HSF1; this phosphorylation promotes HSF1 nuclear localization and transcriptional activity upon heat shock (PubMed:21085490). Acts as a negative regulator of mTORC1 by mediating phosphorylation of RPTOR (PubMed:31112131).
+Subcellular Location	Cytoplasm; Cell membrane; Membrane; Nucleus; Mitochondrion; Cell projection; Cilium; Flagellum; Cytoplasmic vesicle; Secretory vesicle; Acrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASNSSDVKEFLAKAKEDFLKKWESPAQNTAHLDQFERIKTLGTGSFGRVMLVKHKETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVKLEFSFKDNSNLYMVMEYVPGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYLHSLDLIYRDLKPENLLIDQQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAPEIILSKGYNKAVDWWALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRFPSHFSSDLKDLLRNLLQVDLTKRFGNLKNGVNDIKNHKWFATTDWIAIYQRKVEAPFIPKFKGPGDTSNFDDYEEEEIRVSINEKCGKEFSEF
+PTM	Acetylation:24,29,62,73,93,267,280,310,318;Methylation:22,29,77,214,255,280,293;Phosphorylation:11,15,49,52,54,70,110,140,196,198,202,205,260,263,264,326,331,339;Ubiquitylation:24,29,48,77,84,93,190,214,255,267,280,286,293,318

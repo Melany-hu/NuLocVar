@@ -1,0 +1,25 @@
+UniprotID	A0AUL5
+Accession	A0AUL5
+EntryName	A0AUL5_HUMAN
+ProteinName	VNN3 protein
+GeneName	VNN3
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIISHFPKCVAVFALLALSVGALDTFIAAVYEHAVILPNRTETPVSKEEALLLMNKNIDVLEKAVKLAAKQGAHIIVTPEDGIYGWIFTRESIYPYLEDIPDPGVNWIPCRDPWRFGNTPVQQRLSCLAKDNSIYVVANIGDKKPCNASDSQCPPDGRYQ
+PTM	

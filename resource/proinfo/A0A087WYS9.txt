@@ -1,0 +1,25 @@
+UniprotID	A0A087WYS9
+Accession	A0A087WYS9
+EntryName	A0A087WYS9_HUMAN
+ProteinName	SURF1-like protein
+GeneName	SURF1
+Length	191
+Function	Component of the MITRAC (mitochondrial translation regulation assembly intermediate of cytochrome c oxidase complex) complex, that regulates cytochrome c oxidase assembly.
+Subcellular Location	Membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELKNLEYRPVKVRGCFDHSKELYMMPRTMVDPVREAREGGLISSSTQSGAYVVTPFHCTDLGVTILVNRGFVPRKKVNPETRQKGQIEGEVDLIGMVRLTETRQPFVPENNPERNHWHYRDLEAMARITGAEPIFIDANFQSTVPGGPIGGQTRVTLRNEHLQYIVTWYGLSAATSYLWFKKFLRGTPGV
+PTM	

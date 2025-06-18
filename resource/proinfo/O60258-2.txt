@@ -1,0 +1,25 @@
+UniprotID	O60258-2
+Accession	O60258;B7ZLG4;Q2M2W1
+EntryName	FGF17_HUMAN
+ProteinName	Fibroblast growth factor 17 (FGF-17)
+GeneName	FGF17 UNQ161/PRO187
+Length	205
+Function	Plays an important role in the regulation of embryonic development and as signaling molecule in the induction and patterning of the embryonic brain. Required for normal brain development.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAARLLPNLTLCLQLLILCCQTQYVRDQGAMTDQLSRRQIREYQLYSRTSGKHVQVTGRRISATAEDGNKFAKLIVETDTFGSRVRIKGAESEKYICMNKRGKLIGKPSGKSKDCVFTEIVLENNYTAFQNARHEGWFMAFTRQGRPRQASRSRQNQREAHFIKRLYQGQLPFPNHAEKQKQFEFVGSAPTRRTKRTRRPQPLT
+PTM	Methylation:119

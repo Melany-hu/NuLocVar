@@ -1,0 +1,25 @@
+UniprotID	Q9NRW1-2
+Accession	Q9NRW1;B2R5Z9;B7Z337;D3DND3;Q92929
+EntryName	RAB6B_HUMAN
+ProteinName	Ras-related protein Rab-6B (EC 3.6.5.2)
+GeneName	RAB6B
+Length	195
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between active GTP-bound and inactive GDP-bound states. In their active state, drive transport of vesicular carriers from donor organelles to acceptor organelles to regulate the membrane traffic that maintains organelle identity and morphology (By similarity). Recruits VPS13B to the Golgi membrane (PubMed:25492866). Regulates the compacted morphology of the Golgi (PubMed:26209634). Seems to have a role in retrograde membrane traffic at the level of the Golgi complex. May function in retrograde transport in neuronal cells (PubMed:17707369). Plays a role in neuron projection development (PubMed:25492866).
+Subcellular Location	Golgi apparatus membrane; Endoplasmic reticulum-Golgi intermediate compartment; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWHMTRNWPLVGKTSLITRFMYDSFDNTYQATIGIDFLSKTMYLEDRTVRLQLWDTAGQERFRSLIPSYIRDSTVAVVVYDITNLNSFQQTSKWIDDVRTERGSDVIIMLVGNKTDLADKRQITIEEGEQRAKELSVMFIETSAKTGYNVKQLFRRVASALPGMENVQEKSKEGMIDIKLDKPQEPPASEGGCSC
+PTM	Acetylation:133;Methylation:26,60,112,127,183,192;Phosphorylation:2,23,54,69,77,81,82,113,137;Ubiquitylation:26,133,183,185

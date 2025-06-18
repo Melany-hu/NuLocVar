@@ -1,0 +1,25 @@
+UniprotID	F8VP02
+Accession	F8VP02
+EntryName	F8VP02_HUMAN
+ProteinName	NUBP iron-sulfur cluster assembly factor, mitochondrial
+GeneName	NUBPL
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMRIEVKVKMMLSGAGSETLKQRRTQIMSRGLPKQKPIEGVKQVIVVASGKGGV
+PTM	

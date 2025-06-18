@@ -1,0 +1,25 @@
+UniprotID	B4DJ89
+Accession	B4DJ89
+EntryName	B4DJ89_HUMAN
+ProteinName	Polymerase (RNA) II (DNA directed) polypeptide E, 25kDa, isoform CRA_c (cDNA FLJ55074, highly similar to DNA-directed RNA polymerase II 23 kDa polypeptide)
+GeneName	POLR2E hCG_21572
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEENITRALIVVQQGMTPSAKQSLVDMAPKYILEQFLQQELLINITEHELVPEHVVMTKEEVTELLARYKLRENQLPRIQAGDPVARYFGIKRGQVVKIIRPSETAGRYITYRLVQ
+PTM	

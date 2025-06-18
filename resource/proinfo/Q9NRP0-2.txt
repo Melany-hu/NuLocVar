@@ -1,0 +1,25 @@
+UniprotID	Q9NRP0-2
+Accession	Q9NRP0;A8MYS2;B2R5H1;D6RH22;Q9P075;Q9P1R4
+EntryName	OSTC_HUMAN
+ProteinName	Oligosaccharyltransferase complex subunit OSTC (Hydrophobic protein HSF-28)
+GeneName	OSTC DC2 HDCMD45P HSPC307
+Length	171
+Function	Subunit of STT3A-containing oligosaccharyl transferase (OST-A) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol-pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation (PubMed:28860277, PubMed:31831667, PubMed:39509507). N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER) (PubMed:28860277, PubMed:31831667, PubMed:39509507). Within the OST-A complex, acts as an adapter that anchors the OST-A complex to the Sec61 complex (PubMed:28860277). May be involved in N-glycosylation of APP (amyloid-beta precursor protein) (PubMed:21768116). Can modulate gamma-secretase cleavage of APP by enhancing endoprotelysis of PSEN1 (PubMed:21768116).
+Subcellular Location	Endoplasmic reticulum; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METLYRVPFLVLECPNLKLKKPPWLHMPSAMTVYALVVVSYFLITGGIIYDVIVEPPSVGSMTDEHGHQRPVAFLAYRVNGQYIMEGLASSFLFTMGGLGFIILDRSNAPNIPKLNRFLLLFIGFVCVLLSFFMARVFMRMKLPRSLALLPRLECSGVISAHYKLCLPGAI
+PTM	Methylation:114;Ubiquitylation:18

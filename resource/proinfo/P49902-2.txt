@@ -1,0 +1,25 @@
+UniprotID	P49902-2
+Accession	P49902;B7Z382;D3DR91;Q5JUV5
+EntryName	5NTC_HUMAN
+ProteinName	Cytosolic purine 5'-nucleotidase (EC 3.1.3.5) (EC 3.1.3.99) (Cytosolic 5'-nucleotidase II) (cN-II) (Cytosolic IMP/GMP-specific 5'-nucleotidase) (Cytosolic nucleoside phosphotransferase 5'N) (EC 2.7.1.77) (High Km 5'-nucleotidase)
+GeneName	NT5C2 NT5B NT5CP PNT5
+Length	532
+Function	Broad specificity cytosolic 5'-nucleotidase that catalyzes the dephosphorylation of 6-hydroxypurine nucleoside 5'-monophosphates (PubMed:10092873, PubMed:12907246, PubMed:1659319, PubMed:9371705). In addition, possesses a phosphotransferase activity by which it can transfer a phosphate from a donor nucleoside monophosphate to an acceptor nucleoside, preferably inosine, deoxyinosine and guanosine (PubMed:1659319, PubMed:9371705). Has the highest activities for IMP and GMP followed by dIMP, dGMP and XMP (PubMed:10092873, PubMed:12907246, PubMed:1659319, PubMed:9371705). Could also catalyze the transfer of phosphates from pyrimidine monophosphates but with lower efficiency (PubMed:1659319, PubMed:9371705). Through these activities regulates the purine nucleoside/nucleotide pools within the cell (PubMed:10092873, PubMed:12907246, PubMed:1659319, PubMed:9371705).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKEGVFVNRSLAMEKIKCFGFDMDYTLAVYKSPEYESLGFELTVERLVSIGYPQELLSFAYDSTFPTRGLVFDTLYGNLLKVDAYGNLLVCAHGFNFIRGPETREQYPNKFIQRDDTERFYILNTLFNLPETYLLACLVDFFTNCPRYTSCETGFKDGDLFMSYRSMFQDVRDAVDWVHYKGSLKEKTVENLEKYVVKDGKLPLLLSRMKEVGKVFLATNSDYKYTDKIMTYLFDFPHGPKPGSSHRPWQSYFDLILVDARKPLFFGEGTVLRQVDTKTGKLKIGTYTGPLQHGIVYSGGSSDTICDLLGAKGKDILYIGDHIFGDILKSKKRQGWRTFLVIPELAQELHVWTDKSSLFEELQSLDIFLAELYKHLDSSSNERPDISSIQRRIKKVTHDMDMCYGMMGSLFRSGSRQTLFASQVMRYADLYAASFINLLYYPFSYLFRAAHVLMPHESTVEHTHVDINEMESPLATRNRTSVDFKDTDYKRHQLTRSISEIKPPNLFPLAPQEITHCHDEDDDEEEEEEEE
+PTM	Acetylation:45,140,186,211,224,254;Methylation:111,224,342,359;Phosphorylation:115,249,251,360,417,418,502,510,511,527,529,545;SUMOylation:532;Ubiquitylation:45,140,211,217,224,228,231,244,254,342,344,515,520

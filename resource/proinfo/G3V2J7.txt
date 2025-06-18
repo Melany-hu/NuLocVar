@@ -1,0 +1,25 @@
+UniprotID	G3V2J7
+Accession	G3V2J7
+EntryName	G3V2J7_HUMAN
+ProteinName	Cyclin-dependent kinase inhibitor 3 (EC 3.1.3.16) (EC 3.1.3.48)
+GeneName	CDKN3
+Length	203
+Function	May play a role in cell cycle regulation. Dual specificity phosphatase active toward substrates containing either phosphotyrosine or phosphoserine residues.
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPPSSIQTSEFDSSDEEPIEDEQTPIHISWLSLSRVNCSQFLGLCALPGCKFKDVRRNVQKDTEELKSCGIQDIFVFCTRGELSKYRVPNLLDLYQQCGIITHHHPIADGGTPDIASCCEIMEELTTCLKNYRKTLIHCYGGLGRSCLVAACLLLYLSDTISPEQAIDSLRDLRGSGAIQTIKDLPTSQFLPQSVLGMDPLT
+PTM	

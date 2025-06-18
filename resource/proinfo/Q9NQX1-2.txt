@@ -1,0 +1,25 @@
+UniprotID	Q9NQX1-2
+Accession	Q9NQX1;Q0VAI9;Q0VAJ0;Q6NXQ7
+EntryName	PRDM5_HUMAN
+ProteinName	PR domain zinc finger protein 5 (EC 2.1.1.-) (PR domain-containing protein 5)
+GeneName	PRDM5 PFM2
+Length	599
+Function	Sequence-specific DNA-binding transcription factor. Represses transcription at least in part by recruitment of the histone methyltransferase EHMT2/G9A and histone deacetylases such as HDAC1. Regulates hematopoiesis-associated protein-coding and microRNA (miRNA) genes. May regulate the expression of proteins involved in extracellular matrix development and maintenance, including fibrillar collagens, such as COL4A1 and COL11A1, connective tissue components, such as HAPLN1, and molecules regulating cell migration and adhesion, including EDIL3 and TGFB2. May cause G2/M arrest and apoptosis in cancer cells.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGMYVPDRFSLKSSRVQDGMGLYTARRVRKGEKFGPFAGEKRMPEDLDENMDYRLMWEVRGSKGEVLYILDATNPRHSNWLRFVHEAPSQEQKNLAAIQEGENIFYLAVEDIETDTELLIGYLDSDMEAEEEEQQIMTVIKEGEVENSRRQSTAGRKDRLGCKEDYACPQCESSFTSEDILAEHLQTLHQKPTEEKEFKCKNCGKKFPVKQALQRHFEQHQETCRGDARFVCKADSCGKRLKSKDALKRHQENVHTGDPKKKLICSVCNKKCSSASSLQEHRKIHEIFDCQECMKKFISANQLKRHMITHSEKRPYNCEICNKSFKRLDQVGAHKVIHSEDKPYKCKLCGKGFAHRNVYKNHKKTHSEERPFQCEECKALFRTPFSLQRHLLIHNSERTFKCHHCDATFKRKDTLNVHVQVVHERHKKYRCELCNKAFVTPSVLRSHKKTHTGEKEKICPYCGQKFASSGTLRVHIRSHTGERPYQCPYCEKGFSKNDGLKMHIRTHTREKPYKCSECSKAFSQKRGLDEHKRTHTGEKPFQCDVCDLAFSLKKMLIRHKMTHNPNRPLAECQFCHKKFTRNDYLKVHMDNIHGVADS
+PTM	Methylation:13,280,585;Phosphorylation:5,11,275,583;SUMOylation:374

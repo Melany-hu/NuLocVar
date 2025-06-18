@@ -1,0 +1,25 @@
+UniprotID	P10644-2
+Accession	P10644;K7ER48;Q567S7
+EntryName	KAP0_HUMAN
+ProteinName	cAMP-dependent protein kinase type I-alpha regulatory subunit (Tissue-specific extinguisher 1) (TSE1)
+GeneName	PRKAR1A PKR1 PRKAR1 TSE1
+Length	337
+Function	Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESGSTAASEEARSLRECELYVQKHNIQALLKDSIVQLCTARPERPMAFLREYFERLEKEEAKQIQNLQKAGTRTDSREDEISPPPPNPVVKGRRRRGAISAEVYTEEDAASYVRKVIPKDYKTMAALAKAIEKNVLFSHLDDNERSDIFDAMFSVSFIAGETVIQQGDEGDNFYVIDQGETDVYVNNEWATSVGEGGSFGELALIYGTPRAATVKAKTNVKLWGIDRDSYRRILMGSTLRKRKMYEEFLSKVSILESLDKWERLTVADALEPVQFEDGQKIVVQGEPGDEFFIILEGSAAVLQRRSENEEFVEVGRLGPSDYFGHLIISRRSIPLG
+PTM	Acetylation:24,134,261,349,367;Glycosylation:67;Methylation:24,32,70,134,242,252,261,281,346;Phosphorylation:73,75,77,83,101,106,238,239,246,251,254,258,307,338,378;SUMOylation:70,92,261;Ubiquitylation:24,59,63,70,92,123,130,244,252,261,346,349,367

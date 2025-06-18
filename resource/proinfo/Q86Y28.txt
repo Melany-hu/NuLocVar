@@ -1,0 +1,25 @@
+UniprotID	Q86Y28
+Accession	Q86Y28
+EntryName	BAGE4_HUMAN
+ProteinName	B melanoma antigen 4 (Cancer/testis antigen 2.4) (CT2.4)
+GeneName	BAGE4 MLL3P
+Length	39
+Function	Unknown. Candidate gene encoding tumor antigens.
+Subcellular Location	Secreted
+Disorder	0.0141,0.0160,0.0258,0.0174,0.0125,0.0184,0.0198,0.0240,0.0178,0.0178,0.0227,0.0341,0.0483,0.0568,0.0690,0.0531,0.0506,0.1028,0.0948,0.0631,0.0646,0.0765,0.1162,0.1275,0.2193,0.3149,0.3182,0.3215,0.2436,0.3182,0.3460,0.3249,0.2680,0.2094,0.1852,0.1115,0.1611,0.2364,0.1969
+ExposeBuried	1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.769,0.414,0.343,0.326,0.270,0.190,0.125,0.132,0.158,0.115,0.139,0.147,0.383,0.146,0.123,0.381,0.246,0.390,0.176,0.250,0.520,0.648,0.686,0.398,0.371,0.210,0.133,0.273,0.101,0.247,0.108,0.423,0.277,0.671,0.691,0.405,0.537,0.521,0.649
+SecondStructure	C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,1.8,-0.4,1.8,4.2,2.8,3.8,1.8,3.8,-0.8,1.8,-3.5,3.8,3.8,-3.5,1.8,-4.5,3.8,1.9,-3.9,-3.5,-3.5,-0.8,-1.6,4.2,4.2,-0.8,-0.9,-0.9,3.8,-3.5,-1.6,-3.5,-3.5,-0.4,-0.7,1.8,3.8
+Polar	0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0
+Charge	0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-1,-1,0,0,0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGAVFLALSAQLLQARLMKEESPVVSWWLEPEDGTAL
+PTM	

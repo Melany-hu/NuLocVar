@@ -1,0 +1,25 @@
+UniprotID	Q8N350-4
+Accession	Q8N350;K7EJP2;O43385
+EntryName	CBARP_HUMAN
+ProteinName	Voltage-dependent calcium channel beta subunit-associated regulatory protein
+GeneName	CBARP C19orf26
+Length	453
+Function	Negatively regulates voltage-gated calcium channels by preventing the interaction between their alpha and beta subunits. Thereby, negatively regulates calcium channels activity at the plasma membrane and indirectly inhibits calcium-regulated exocytosis.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Cell membrane; Cell projection; Growth cone
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPTATMATAATTTTTTTATVALTTSWDNATGRPTAEPDPILDNYVLLVVVMSLFVGGTLVVLSGVLLLCKRCWDVHQRLNRAMEEAEKTTTTYLDNGTHPAQDPDFRGEDPECQDAETERFLSTSSTGRRVSFNEAALFEQSRKTQDKGRRYTLTEGDFHHLKNARLTHLHLPPLKIVTIHECDSGEASSATTPHPATSPKATLAIFQPPGKALTGRSVGPSSALPGDPYNSAAGATDFAEISPSASSDSGEGTSLDAGTRSTKAGGPGAAAGPGEAGPGSGAGTVLQFLTRLRRHASLDGASPYFKVKKWKLEPSQRAASLDTRGSPKRHHFQRQRAASESTEQEEGDAPQEDFIQYIARAGDAVAFPHPRPFLASPPPALGRYFSVDGGARGGPVGPCPPSPPPRRPRERSPGPVDTRSPASSGKAPPRGGLTGATSPAWTRGGKQGETG
+PTM	Methylation:668;Phosphorylation:124,125,126,127,128,133,143,153,154,156,193,194,199,200,204,219,282,286,299,304,306,322,325,328,341,343,344,378,396,399,433,439,484,507,517,528,541,563,588,621,698,699,703

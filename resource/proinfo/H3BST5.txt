@@ -1,0 +1,25 @@
+UniprotID	H3BST5
+Accession	H3BST5
+EntryName	H3BST5_HUMAN
+ProteinName	Ras homolog family member T2
+GeneName	RHOT2
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DVRILLLGEAQVGKTSLILSLVGEEFPEEVPPRAEEITIPADVTPEKVPTHIVDYSEAEQTDEELREEIHKIRTKWIPLVNGGTTQGPRVPIILVGNKSDLRSGSSMEAVLPIMSQFPEIETCVECSAKNLRNISELFYYAQKAVLHPTAPLYDPEAKQLRPACAQALTRIFRLSDQDLDQALSDEELNAFQKSCFGHPLAPQALEDV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B4DL54
+Accession	B4DL54;H0YHI0
+EntryName	B4DL54_HUMAN
+ProteinName	Protein farnesyltransferase subunit beta (FTase-beta) (EC 2.5.1.58)
+GeneName	CHURC1-FNTB
+Length	471
+Function	Essential subunit of the farnesyltransferase complex. Catalyzes the transfer of a farnesyl moiety from farnesyl diphosphate to a cysteine at the fourth position from the C-terminus of several proteins having the C-terminal sequence Cys-aliphatic-aliphatic-X.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGDCVEKEYPNRGNTCLENGSFLLNFTGCAVCSKRDFMLITNKSLKEEDGEEIVTYDHLCKNCHHVIARHEYTFSIMDEFQAKVEEKIQEVFSSYKFNHLVPRLVLQREKHFHYLKRGLRQLTDAYECLDASRPWLCYWILHSLELLDEPIPQIVATDVCQFLELCQSPEGGFGGGPGQYPHLAPTYAAVNALCIIGTEEAYDIINREKLLQYLYSLKQPDGSFLMHVGGEVDVRSAYCAASVASLTNIITPDLFEGTAEWIARCQNWEGGIGGVPGMEAHGGYTFCGLAALVILKRERSLNLKSLLQWVTSRQMRFEGGFQGRCNKLVDGCYSFWQAGLLPLLHRALHAQGDPALSMSHWMFHQQALQEYILMCCQCPAGGLLDKPGKSRDFYHTCYCLSGLSIAQHFGSGAMLHDVVLGVPENALQPTHPVYNIGPDKVIQATTYFLQKPVPGFEELKDETSAEPATD
+PTM	

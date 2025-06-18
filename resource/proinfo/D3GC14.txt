@@ -1,0 +1,25 @@
+UniprotID	D3GC14
+Accession	D3GC14
+EntryName	D3GC14_HUMAN
+ProteinName	Kruppel-like factor 6 variant SV2
+GeneName	KLF6
+Length	241
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVLPMCSIFQELQIVHETGYFSALPSLEEYWQQTCLELERYLQSEPCYVSASEIKFDSQEDLWTKIILAREKKEESELKISSSPPEDTLISPSFCYNLETNSLNSDVSSESSDSSEELSPTAKFTSDPIGEVLVSSGKLSSSVTSTPPSSPELSREPSQLWGCVPGELPSPGKVRSGTSGKPGEKPYRCSWEGCEWRFARSDELTRHFRKHTGAKPFKCSHCDRCFSRSDHLALHMKRHL
+PTM	

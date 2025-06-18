@@ -1,0 +1,25 @@
+UniprotID	O94941-2
+Accession	O94941;Q6IAR5;Q86X87;Q9H4J2
+EntryName	RNF37_HUMAN
+ProteinName	RING finger protein 37 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RNF37) (U-box domain-containing protein 5) (UbcM4-interacting protein 5) (hUIP5) (Ubiquitin-conjugating enzyme 7-interacting protein 5)
+GeneName	UBOX5 KIAA0860 RNF37 UBCE7IP5 UIP5
+Length	487
+Function	May have a ubiquitin-protein ligase activity acting as an E3 ubiquitin-protein ligase or as a ubiquitin-ubiquitin ligase promoting elongation of ubiquitin chains on substrates.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVINLCLPQFRPRIHCNKISADGYEVENLISEDLTKRSHGFRTEYFIKPPVYVTVSFPFNVEICRINIDLTAGGGQNVTGLEMYTSASSSRVSWNTPQCRTLGPAEPSVPDKEAFTLVGKVLLKNQSQVVFSHRGFKARPPFGAMEATLPSPAVVAQELWNKGALSLSHVAHLRICITHVTGGGIPCIKRLEVWGQPAKTCSQEVIDSILLVTSENLPQDVALQAPALPMESDCDPGDQPESQQAPSSLQKLAEIIQDVPEEFLDPITLEIMPCPMLLPSGKVIDQSTLEKCNRSEATWGRVPSDPFTGVAFTPHSQPLPHPSLKARIDHFLLQHSIPGCHLLGRAQTALAVIPSSIVLPSQKRKIEQAEHVPDSNFGVNASCFSATSPLVLPTTSEHTAKKMKATNEPSLTHMDCSTEQPGSILGPECASCKRVFSPYFKKEPVYQLPCGHLLCRPCLGEKQRSLPMTCTACQRPVASQDVLRVHF
+PTM	Methylation:36,120,124,291;Phosphorylation:31,35,38,280,348,355,356;SUMOylation:120,124,137,365,495;Ubiquitylation:363

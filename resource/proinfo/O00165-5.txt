@@ -1,0 +1,25 @@
+UniprotID	O00165-5
+Accession	O00165;A8W4W9;A8W4X0;B4DUJ7;Q5VYD5;Q5VYD7;Q96AU4;Q9BS80
+EntryName	HAX1_HUMAN
+ProteinName	HCLS1-associated protein X-1 (HS1-associating protein X-1) (HAX-1) (HS1-binding protein 1) (HSP1BP-1)
+GeneName	HAX1 HS1BP1
+Length	231
+Function	Recruits the Arp2/3 complex to the cell cortex and regulates reorganization of the cortical actin cytoskeleton via its interaction with KCNC3 and the Arp2/3 complex (PubMed:26997484). Slows down the rate of inactivation of KCNC3 channels (PubMed:26997484). Promotes GNA13-mediated cell migration. Involved in the clathrin-mediated endocytosis pathway. May be involved in internalization of ABC transporters such as ABCB11. May inhibit CASP9 and CASP3. Promotes cell survival. May regulate intracellular calcium pools.
+Subcellular Location	Mitochondrion matrix; Endoplasmic reticulum; Nucleus membrane; Cytoplasmic vesicle; Cytoplasm; Cell cortex; Cell membrane; Sarcoplasmic reticulum; Cytoplasm; P-body; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLFDLFRGFFGFPGPRSFSPGGGIRFHDNFGFDDLVRDFNSIFSDMGAWTLPSHPPELPGPESETPGERLREGQTLRDSMLKYPDSHQPRIFGGVLESDARSESPQPAPDWGSQRPFHRFDDVWPMDPHPRTREDNDLDSQVSQEGLGPVLQPQPKSYFKSISVTKITKPDGIVEERRTVVDSEGRTETTVTRHEADSSPRGDPESPRPPALDDAFSILDLFLGRWFRSR
+PTM	Methylation:139;Phosphorylation:153,181,189,192,255,266;SUMOylation:131;Ubiquitylation:131,205,209,215,218

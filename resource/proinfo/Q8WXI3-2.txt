@@ -1,0 +1,25 @@
+UniprotID	Q8WXI3-2
+Accession	Q8WXI3;A0AVH0;Q6ZUL6
+EntryName	ASB10_HUMAN
+ProteinName	Ankyrin repeat and SOCS box protein 10 (ASB-10)
+GeneName	ASB10
+Length	429
+Function	May be a substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLMSWSPEECKGQGEPLDDRHPLCARLVEKPSRGSEEHLKSGPGPIVTRTASGPALAFWQAVLAGDVGCVSRILADSSTGLAPDSVFDTSDPERWRDFRFNIRALRLWSLTYEEELTTPLHVAASRGHTEVLRLLLRRRARPDSAPGGRTALHEACAAGHTACVHVLLVAGADPNIADQDGKRPLHLCRGPGTLECAELLLRFGARVDGRSEEEEETPLHVAARLGHVELADLLLRRGACPDARNAEGWTPLLAACDVRCQSITDAEATTARCLQLCSLLLSAGADADAADQDKQRPLHLACRRGHAAVVELLLSCGVSANTMDYGGHTPLHCALQGPAAALAQSPEHVVRALLNHGAVRVWPGALPKKHQRFYSSLFALVRQPRSLQHLSRCALRSHLEGSLPQALPRLPLPPRLLRYLQLDFEGVLY
+PTM	Methylation:30,407;Phosphorylation:4,6,78,79,429,440

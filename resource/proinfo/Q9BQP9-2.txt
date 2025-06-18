@@ -1,0 +1,25 @@
+UniprotID	Q9BQP9-2
+Accession	Q9BQP9;Q5JWG8;Q6NZ38
+EntryName	BPIA3_HUMAN
+ProteinName	BPI fold-containing family A member 3 (Short palate, lung and nasal epithelium carcinoma-associated protein 3)
+GeneName	BPIFA3 C20orf71 SPLUNC3
+Length	218
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMCPLWRLLIFLGLLALPLAPHKQPWPGLAQAHRDNKSTLARIIAQGLIKHNAESRIQNIHFGDRLNASAQVAPGLVGWLISGRKHQQQQESRSFDNNIVKMCAHMSIVVEFWLEKDEFGRRDLVIGKCDAEPSSVHVAILTEAIPPKMNQFLYNLKENLQKVLPHMVESQVCPLIGEILGQLDVKLLKSLIEQEAAHEPTHHETSQPSACQAGESPS
+PTM	Methylation:50,137,164,198,222,225;Phosphorylation:190

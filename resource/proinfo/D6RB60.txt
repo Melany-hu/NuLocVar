@@ -1,0 +1,25 @@
+UniprotID	D6RB60
+Accession	D6RB60
+EntryName	D6RB60_HUMAN
+ProteinName	Zinc finger protein 141
+GeneName	ZNF141
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELLTFRDVAIEFSPEEWKCLDPDQQNLYRDVMLENYRNLVSLGVAISNPDLVTCLEQRKEPYNVKIHKIVARPPEFFHLYDNKPILAFWRIASEKSQSASVYRQLTHRSRAT
+PTM	

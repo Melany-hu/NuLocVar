@@ -1,0 +1,25 @@
+UniprotID	Q99714-2
+Accession	Q99714;Q5H927;Q6IBS9;Q8TCV9;Q96HD5
+EntryName	HCD2_HUMAN
+ProteinName	3-hydroxyacyl-CoA dehydrogenase type-2 (EC 1.1.1.35) (17-beta-estradiol 17-dehydrogenase) (EC 1.1.1.62) (2-methyl-3-hydroxybutyryl-CoA dehydrogenase) (MHBD) (3-alpha-(17-beta)-hydroxysteroid dehydrogenase (NAD(+))) (EC 1.1.1.239) (3-hydroxy-2-methylbutyryl-CoA dehydrogenase) (EC 1.1.1.178) (3-hydroxyacyl-CoA dehydrogenase type II) (3alpha(or 20beta)-hydroxysteroid dehydrogenase) (EC 1.1.1.53) (7-alpha-hydroxysteroid dehydrogenase) (EC 1.1.1.159) (Endoplasmic reticulum-associated amyloid beta-peptide-binding protein) (Mitochondrial ribonuclease P protein 2) (Mitochondrial RNase P protein 2) (Short chain dehydrogenase/reductase family 5C member 1) (Short-chain type dehydrogenase/reductase XH98G2) (Type II HADH)
+GeneName	HSD17B10 ERAB HADH2 MRPP2 SCHAD SDR5C1 XH98G2
+Length	252
+Function	Mitochondrial dehydrogenase involved in pathways of fatty acid, branched-chain amino acid and steroid metabolism (PubMed:10600649, PubMed:12917011, PubMed:18996107, PubMed:19706438, PubMed:20077426, PubMed:25925575, PubMed:26950678, PubMed:28888424, PubMed:9553139). Acts as (S)-3-hydroxyacyl-CoA dehydrogenase in mitochondrial fatty acid beta-oxidation, a major degradation pathway of fatty acids. Catalyzes the third step in the beta-oxidation cycle, namely the reversible conversion of (S)-3-hydroxyacyl-CoA to 3-ketoacyl-CoA. Preferentially accepts straight medium- and short-chain acyl-CoA substrates with highest efficiency for (3S)-hydroxybutanoyl-CoA (PubMed:10600649, PubMed:12917011, PubMed:25925575, PubMed:26950678, PubMed:9553139). Acts as 3-hydroxy-2-methylbutyryl-CoA dehydrogenase in branched-chain amino acid catabolic pathway. Catalyzes the oxidation of 3-hydroxy-2-methylbutanoyl-CoA into 2-methyl-3-oxobutanoyl-CoA, a step in isoleucine degradation pathway (PubMed:18996107, PubMed:19706438, PubMed:20077426). Has hydroxysteroid dehydrogenase activity toward steroid hormones and bile acids. Catalyzes the oxidation of 3alpha-, 17beta-, 20beta- and 21-hydroxysteroids and 7alpha- and 7beta-hydroxy bile acids (PubMed:10600649, PubMed:12917011). Oxidizes allopregnanolone/brexanolone at the 3alpha-hydroxyl group, which is known to be critical for the activation of gamma-aminobutyric acid receptors (GABAARs) chloride channel (PubMed:19706438, PubMed:28888424). Has phospholipase C-like activity toward cardiolipin and its oxidized species. Likely oxidizes the 2'-hydroxyl in the head group of cardiolipin to form a ketone intermediate that undergoes nucleophilic attack by water and fragments into diacylglycerol, dihydroxyacetone and orthophosphate. Has higher affinity for cardiolipin with oxidized fatty acids and may degrade these species during the oxidative stress response to protect cells from apoptosis (PubMed:26338420). By interacting with intracellular amyloid-beta, it may contribute to the neuronal dysfunction associated with Alzheimer disease (AD) (PubMed:9338779). Essential for structural and functional integrity of mitochondria (PubMed:20077426).
+Subcellular Location	Mitochondrion; Mitochondrion matrix; Mitochondrion nucleoid
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAACRSVKGLVAVITGGASGLGLATAERLVGQGASAVLLDLPNSGGEAQAKKLGNNCVFAPADVTSEKDVQTALALAKGKFGRVDVAVNCAGIAVASKTYNLKKGQTHTLEDFQRVLDVNLMGTFNVIRLVAGEMGQNEPDQGGQRGVIINTASVAAFEGQVGQAAYSASKGGIVGMTLPIARDLAPIGLFGTPLLTSLPEKVCNFLASQVPFPSRLGDPAEYAHLVQAIIENPFLNGEVIRLDGAIRMQP
+PTM	Acetylation:52,53,69,79,81,99,104,105;Methylation:52,79,99,172;Phosphorylation:16,20,36,45,66,67,179,219;SUMOylation:53;Ubiquitylation:9,52,53,79,99,105

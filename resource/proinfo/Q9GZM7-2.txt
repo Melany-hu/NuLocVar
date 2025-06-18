@@ -1,0 +1,25 @@
+UniprotID	Q9GZM7-2
+Accession	Q9GZM7;A8K9Q5;B4DPK6;D3DPN8;Q8TEJ9;Q8WZ23;Q96GZ4;Q96JW3
+EntryName	TINAL_HUMAN
+ProteinName	Tubulointerstitial nephritis antigen-like (Glucocorticoid-inducible protein 5) (Oxidized LDL-responsive gene 2 protein) (OLRG-2) (Tubulointerstitial nephritis antigen-related protein) (TIN Ag-related protein) (TIN-Ag-RP)
+GeneName	TINAGL1 GIS5 LCN7 OLRG2 TINAGL PP6614 PSEC0088 UNQ204/PRO230
+Length	284
+Function	May be implicated in the adrenocortical zonation and in mechanisms for repressing the CYP11B1 gene expression in adrenocortical cells. This is a non catalytic peptidase C1 family protein (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLGSSTQVKIGGSWNPAAAGGLKIKLQKALDLVALQCQWAPEGQARAEQEADRATFILQTVLNPGEVLPTAFEASEKWPNLIHEPLDQGNCAGSWAFSTAAVASDRVSIHSLGHMTPVLSPQNLLSCDTHQQQGCRGGRLDGAWWFLRRRGYAATGDVGREEGKELRGHGLGHDALSLSAFAPSCCLCRVVSDHCYPFSGRERDEAGPAPPCMMHSRAMGRGKRQATAHCPNSYVNNNDIYQVTPVYRLGSNDKEIMKELMENGPVQGKPPYPAPWFQKLVPA
+PTM	Glycosylation:78,151,154,161

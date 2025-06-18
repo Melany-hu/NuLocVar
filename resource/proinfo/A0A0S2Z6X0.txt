@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z6X0
+Accession	A0A0S2Z6X0
+EntryName	A0A0S2Z6X0_HUMAN
+ProteinName	Zinc finger with KRAB and SCAN domains 4 isoform 3
+GeneName	ZKSCAN4
+Length	149
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAREPRKNAALDAQSAEDQTGLLTVKVEKEEASALTAEVRAPCSPARGPERSRQRFRGFRYPEAAGPREALSRLRELCGQWLQPEMHSKEQILELLVLEQFLTILPGNLQSWVREQHPESGEEVVVLLEYLERQLDEPAPQVERTGSRW
+PTM	

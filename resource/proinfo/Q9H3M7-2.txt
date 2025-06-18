@@ -1,0 +1,25 @@
+UniprotID	Q9H3M7-2
+Accession	Q9H3M7;B4E3D3;Q16226;Q6PML0;Q9BXG9
+EntryName	TXNIP_HUMAN
+ProteinName	Thioredoxin-interacting protein (Thioredoxin-binding protein 2) (Vitamin D3 up-regulated protein 1)
+GeneName	TXNIP VDUP1
+Length	336
+Function	May act as an oxidative stress mediator by inhibiting thioredoxin activity or by limiting its bioavailability (PubMed:17603038). Interacts with COPS5 and restores COPS5-induced suppression of CDKN1B stability, blocking the COPS5-mediated translocation of CDKN1B from the nucleus to the cytoplasm (By similarity). Functions as a transcriptional repressor, possibly by acting as a bridge molecule between transcription factors and corepressor complexes, and over-expression will induce G0/G1 cell cycle arrest (PubMed:12821938). Required for the maturation of natural killer cells (By similarity). Acts as a suppressor of tumor cell growth (PubMed:18541147). Inhibits the proteasomal degradation of DDIT4, and thereby contributes to the inhibition of the mammalian target of rapamycin complex 1 (mTORC1) (PubMed:21460850).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPKHSLSHRCILSVTASLMATRFSFPSGENEMVIMRPGNKYEYKFGFELPQGPLGTSFKGKYGCVDYWVKAFLDRPSQPTQETKKNFEVVDLVDVNTPDLMAPVSAKKEKKVSCMFIPDGRVSVSARIDRKGFCEGDEISIHADFENTCSRIVVPKAAIVARHTYLANGQTKVLTQKLSSVRGNHIISGTCASWRGKSLRVQKIRPSILGCNILRVEYSLLIYVSVPGSKKVILDLPLVIGSRSGLSSRTSSMASRTSSEMSWVDLNIPDTPEAPPCYMDVIPEDHRLESPTTPLLDDMDGSQDSPIFMYAPEFKFMPPPTYTEVDPCILNNNVQ
+PTM	Methylation:233;Phosphorylation:9,161,300,303,307,308,346,348,349,358,361;SUMOylation:6,8,19,26,53,64,96,100,115,117,126,140,141,163,164,166,167,187,212,228,233,259,287,371;Ubiquitylation:26,115,117,163,212,228,233

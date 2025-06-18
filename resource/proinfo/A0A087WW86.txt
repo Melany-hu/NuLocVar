@@ -1,0 +1,25 @@
+UniprotID	A0A087WW86
+Accession	A0A087WW86
+EntryName	A0A087WW86_HUMAN
+ProteinName	GPALPP motifs containing 1
+GeneName	GPALPP1
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARDLIGPALPPGFKARGTAEDEERDPSPGKRRRLRCPPGPSTHSLAGPCSLKKVGGLGGRRSGEWARPDPRELFSSQTVAGGRRLGDPPRNELWRGLAS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P21964-2
+Accession	P21964;A8MPV9;Q6IB07;Q6ICE6;Q9BWC7
+EntryName	COMT_HUMAN
+ProteinName	Catechol O-methyltransferase (EC 2.1.1.6)
+GeneName	COMT
+Length	221
+Function	Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones. Also shortens the biological half-lives of certain neuroactive drugs, like L-DOPA, alpha-methyl DOPA and isoproterenol.
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDTKEQRILNHVLQHAEPGNAQSVLEAIDTYCEQKEWAMNVGDKKGKIVDAVIQEHQPSVLLELGAYCGYSAVRMARLLSPGARLITIEINPDCAAITQRMVDFAGVKDKVTLVVGASQDIIPQLKKKYDVDTLDMVFLDHWKDRYLPDTLLLEECGLLRKGTVLLADNVICPGAPDFLAHVRGSSCFECTHYQSFLEYREVVDGLEKAIYKGPGSEAGP
+PTM	Acetylation:95,179,194,259;Methylation:55,212;Phosphorylation:131,180,197,201,267;Ubiquitylation:86,98,159,212,259,263

@@ -1,0 +1,25 @@
+UniprotID	Q5H9L4-2
+Accession	Q5H9L4;Q5H9L6;Q86XI4;Q9BXU5;Q9H5R0
+EntryName	TAF7L_HUMAN
+ProteinName	Transcription initiation factor TFIID subunit 7-like (Cancer/testis antigen 40) (CT40) (RNA polymerase II TBP-associated factor subunit Q) (TATA box-binding protein-associated factor 50 kDa) (Transcription initiation factor TFIID 50 kDa subunit)
+GeneName	TAF7L TAF2Q
+Length	376
+Function	Probably functions as a spermatogenesis-specific component of the DNA-binding general transcription factor complex TFIID, a multimeric protein complex that plays a central role in mediating promoter responses to various activators and repressors. May play a role in spermatogenesis (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSESQDEVPDEVENQFILRLPLEHACTVRNLARSQSVKMKDKLKIDLLPDGRHAVVEVEDVPLAAKLVDLPCVIESLRTLDKKTFYKTADISQMLVCTADGDIHLSPEEPAASTDPNIVRKKERGREEKCVWKHGITPPLKNVRKKRFRKTQKKVPDVKEMEKSSFTEYIESPDVENEVKRLLRSDAEAVSTRWEVIAEDGTKEIESQGSIPGFLISSGMSSHKQGHTSSEYDMLREMFSDSRSNNDDDEDEDDEDEDEDEDEDEDEDKEEEEEDCSEEYLERQLQAEFIESGQYRANEGTSSIVMEIQKQIEKKEKKLHKIQNKAQRQKDLIMKVENLTLKNHFQSVLEQLELQEKQKNEKLISLQEQLQRFLKK
+PTM	Acetylation:416;Methylation:85,266,396,400,411,428,443;Phosphorylation:122,184,223,258;SUMOylation:130,152,227,249,266,421;Ubiquitylation:266

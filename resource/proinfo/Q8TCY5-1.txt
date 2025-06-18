@@ -1,0 +1,25 @@
+UniprotID	Q8TCY5-1
+Accession	Q8TCY5;Q5EBR3;Q8TDB7;Q8WXC1;Q8WXC2
+EntryName	MRAP_HUMAN
+ProteinName	Melanocortin-2 receptor accessory protein (B27) (Fat cell-specific low molecular weight protein) (Fat tissue-specific low MW protein)
+GeneName	MRAP C21orf61 FALP
+Length	173
+Function	Modulator of melanocortin receptors (MC1R, MC2R, MC3R, MC4R and MC5R). Acts by increasing ligand-sensitivity of melanocortin receptors and enhancing generation of cAMP by the receptors. Required both for MC2R trafficking to the cell surface of adrenal cells and for signaling in response to corticotropin (ACTH). May be involved in the intracellular trafficking pathways in adipocyte cells.
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANGTNASAPYYSYEYYLDYLDLIPVDEKKLKAHKHSIVIAFWVSLAAFVVLLFLILLYMSWSASPQMRRNSPKHHQTCPWSHGLNLHLCIQKCLPCHREPLATSQAQASSVEPGSRTGPDQPLRQESSSTLPLGGFQTHPTLLWELTLNGGPLVRSKPSEPPPGDRTSQLQS
+PTM	Methylation:157

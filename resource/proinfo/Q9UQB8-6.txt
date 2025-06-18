@@ -1,0 +1,25 @@
+UniprotID	Q9UQB8-6
+Accession	Q9UQB8;O43858;Q53HB1;Q86WC1;Q8N5C0;Q96CR7;Q9UBR3;Q9UQ43
+EntryName	BAIP2_HUMAN
+ProteinName	BAR/IMD domain-containing adapter protein 2 (Brain-specific angiogenesis inhibitor 1-associated protein 2) (BAI-associated protein 2) (BAI1-associated protein 2) (Protein BAP2) (Fas ligand-associated factor 3) (FLAF3) (Insulin receptor substrate p53/p58) (IRS-58) (IRSp53/58) (Insulin receptor substrate protein of 53 kDa) (IRSp53) (Insulin receptor substrate p53)
+GeneName	BAIAP2
+Length	522
+Function	Adapter protein that links membrane-bound small G-proteins to cytoplasmic effector proteins. Necessary for CDC42-mediated reorganization of the actin cytoskeleton and for RAC1-mediated membrane ruffling. Involved in the regulation of the actin cytoskeleton by WASF family members and the Arp2/3 complex. Plays a role in neurite growth. Acts syngeristically with ENAH to promote filipodia formation. Plays a role in the reorganization of the actin cytoskeleton in response to bacterial infection. Participates in actin bundling when associated with EPS8, promoting filopodial protrusions.
+Subcellular Location	Cytoplasm; Membrane; Cell projection; Filopodium; Cell projection; Ruffle; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLSRSEEMHRLTENVYKTIMEQFNPSLRNFIAMGKNYEKALAGVTYAAKGYFDALVKMGELASESQGSKELGDVLFQMAEVHRQIQNQLEEMLKSFHNELLTQLEQKVELDSRYLSAALKKYQTEQRSKGDALDKCQAELKKLRKKSQGSKNPQKYSDKELQYIDAISNKQGELENYVSDGYKTALTEERRRFCFLVEKQCAVAKNSAAYHSKGKELLAQKLPLWQQACADPSKIPERAVQLMQQVASNGATLPSALSASKSNLVISDPIPGAKPLPVPPELAPFVGRMSAQESTPIMNGVTGPDGEDYSPWADRKAAQPKSLSPPQSQSKLSDSYSNTLPVRKSVTPKNSYATTAENKTLPRSSSMAAGLERNGRMRVKAIFSHAAGDNSTLLSFKEGDLITLLVPEARDGWHYGESEKTKMRGWFPFSYTRVLDSDGSDRLHMSLQQGKSSSTGNLLDKDDLAIPPPDYGAASRAFPAQTASGFKQRPYSVAVPAFSQGLDDYGARSMSSGSGTLVSTV
+PTM	Acetylation:156,160,171,206,235;Glycosylation:250;Methylation:58,95,200,222,376,397,461,521;Phosphorylation:2,17,38,164,180,188,249,253,256,259,261,263,295,296,311,323,325,329,334,336,337,338,340,346,348,352,353,355,356,360,364,365,366,384,391,392,395,437,440,446,452,453,454,455,471,482,484,491,492,499,505,523;SUMOylation:108,160,216,487;Ubiquitylation:36,40,121,156,171,216,222,275,322,332,350,359,487,521

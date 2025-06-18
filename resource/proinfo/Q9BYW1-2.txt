@@ -1,0 +1,25 @@
+UniprotID	Q9BYW1-2
+Accession	Q9BYW1;E9PH55;Q542Y4;Q6ICJ5;Q8WXF9;Q8WYM4
+EntryName	GTR11_HUMAN
+ProteinName	Solute carrier family 2, facilitated glucose transporter member 11 (Glucose transporter type 11) (GLUT-11)
+GeneName	SLC2A11 GLUT11
+Length	242
+Function	Facilitative glucose transporter.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHALLRSRMIQGRILLLTICAAGIGGTFQFGYNLSIINAPTLHIQEFTNETWQARTGEPLPDHLVLLMWSLIVSLYPLGGLFGALLAGPLAITLGRKKSLLVNNIFVVSAAILFGFSRKAGSFEMIMLGRLLVGVNAGVSMNIQPMYLGESAPKELRGAVAMSSAIFTALGIVMGQVVGLSTTAATGLRGLGRGAGGAGGGARCLPGLPCPAPMGAVPASGPEETGDKPRGSGQCHGALRE
+PTM	Phosphorylation:91,293,295,487

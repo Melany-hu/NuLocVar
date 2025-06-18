@@ -1,0 +1,25 @@
+UniprotID	Q9BTZ2-2
+Accession	Q9BTZ2;B2RB10;B7WNS9;D3YTB8;E2QRL8;O95162;Q20CR0;Q2LC19;Q2LE81;Q58IU4;Q6E0Y1;Q6UWU3;Q71UQ6;Q8TD03;Q9H3N5;Q9NV08
+EntryName	DHRS4_HUMAN
+ProteinName	Dehydrogenase/reductase SDR family member 4 (EC 1.1.1.184) (NADPH-dependent carbonyl reductase) (CR) (NADPH-dependent retinol dehydrogenase/reductase) (NRDR) (humNRDR) (Peroxisomal short-chain alcohol dehydrogenase) (PSCD) (SCAD-SRL) (Short chain dehydrogenase/reductase family 25C member 2) (Protein SDR25C2) (Short-chain dehydrogenase/reductase family member 4)
+GeneName	DHRS4 SDR25C2 UNQ851/PRO1800
+Length	192
+Function	NADPH-dependent oxidoreductase which catalyzes the reduction of a variety of compounds bearing carbonyl groups including ketosteroids, alpha-dicarbonyl compounds, aldehydes, aromatic ketones and quinones (PubMed:18571493, PubMed:19056333). Reduces 3-ketosteroids and benzil into 3beta-hydroxysteroids and R-benzoin, respectively, in contrast to the stereoselectivity of non-primate DHRS4s which produce 3alpha-hydroxysteroids and S-benzoin (PubMed:19056333). Diplays low activity toward all-trans-retinal and no activity toward 9-cis-retinal as compared to non-primate mammals (PubMed:18571493, PubMed:19056333). In the reverse reaction, catalyze the NAD-dependent oxidation of 3beta-hydroxysteroids and alcohol, but with much lower efficiency (PubMed:18571493, PubMed:19056333). Involved in the metabolism of 3beta-hydroxysteroids, isatin and xenobiotic carbonyl compounds (PubMed:18571493, PubMed:19056333).
+Subcellular Location	Peroxisome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHKAGLLGLCARAWNSVRMASSGMTRRDPLANKVALVTASTDGIGFAIARRLAQDGAHVVVSSRKQQNVDQAVATLQGEGLSVTGTVCHVGKAEDRERLVATAVKLHGGIDILVSNAAVNPFFGSIMDVTEEVWDKLWMDKEKEESMKETLRIRRLGEPEDCAGIVSFLCSEDASYITGETVVVGGGTPSRL
+PTM	Acetylation:158,216,229;Methylation:143,216,241;Phosphorylation:62,63;Ubiquitylation:194,216

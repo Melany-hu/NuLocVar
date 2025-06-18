@@ -1,0 +1,25 @@
+UniprotID	H7C054
+Accession	H7C054
+EntryName	H7C054_HUMAN
+ProteinName	PTGES3L-AARSD1 readthrough
+GeneName	PTGES3L-AARSD1
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQHARTLWYDRPSCKNADGVELYNEIEFYAKVNSKDSQDKRSSRSITCFVRKWKEKVAWPRLTKEDIKPVWLSVDFDNWRDWEGDEEMELAHVEHYAELLKKVSTKRPPPAMDDLDFTTTVVSCCPAELQTEGSNGKKEVLSGFQVVLEDTVLFPEGGGQPDDRGTINDISVLRVTRRGEQADHFTQTP
+PTM	

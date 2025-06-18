@@ -1,0 +1,25 @@
+UniprotID	Q96B97-2
+Accession	Q96B97;B7Z1D5;Q5JPT4;Q5JPT5;Q8IWX6;Q8IX98;Q96RN4;Q9NYR0
+EntryName	SH3K1_HUMAN
+ProteinName	SH3 domain-containing kinase-binding protein 1 (CD2-binding protein 3) (CD2BP3) (Cbl-interacting protein of 85 kDa) (Human Src family kinase-binding protein 1) (HSB-1)
+GeneName	SH3KBP1 CIN85
+Length	628
+Function	Adapter protein involved in regulating diverse signal transduction pathways. Involved in the regulation of endocytosis and lysosomal degradation of ligand-induced receptor tyrosine kinases, including EGFR and MET/hepatocyte growth factor receptor, through an association with CBL and endophilins. The association with CBL, and thus the receptor internalization, may be inhibited by an interaction with PDCD6IP and/or SPRY2. Involved in regulation of ligand-dependent endocytosis of the IgE receptor. Attenuates phosphatidylinositol 3-kinase activity by interaction with its regulatory subunit (By similarity). May be involved in regulation of cell adhesion; promotes the interaction between TTK2B and PDCD6IP. May be involved in the regulation of cellular stress response via the MAPK pathways through its interaction with MAP3K4. Is involved in modulation of tumor necrosis factor mediated apoptosis. Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. Has an essential role in the stimulation of B cell activation (PubMed:29636373).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasmic vesicle membrane; Synapse; Synaptosome; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVSAAKAPSAADLSEIEIKKEMKKDPLTNKAPEKPLHEVPSGNSLLSSETILRTNKRGERRRRRCQVAFSYLPQNDDELELKVGDIIEVVGEVEEGWWEGVLNGKTGMFPSNFIKELSGESDELGISQDEQLSKSSLRETTGSESDGGDSSSTKSEGANGTVATAAIQPKKVKGVGFGDIFKDKPIKLRPRSIEVENDFLPVEKTIGKKLPATTATPDSSKTEMDSRTKSKDYCKVIFPYEAQNDDELTIKEGDIVTLINKDCIDVGWWEGELNGRRGVFPDNFVKLLPPDFEKEGNRPKKPPPPSAPVIKQGAGTTERKHEIKKIPPERPEMLPNRTEEKERPEREPKLDLQKPSVPAIPPKKPRPPKTNSLSRPGALPPRRPERPVGPLTHTRGDSPKIDLAGSSLSGILDKDLSDRSNDIDLEGFDSVVSSTEKLSHPTTSRPKATGRRPPSQSLTSSSLSSPDIFDSPSPEEDKEEHISLAHRGVDASKKTSKTVTISQVSDNKASLPPKPGTMAAGGGGPAPLSSAAPSPLSSSLGTAGHRANSPSLFGTEGKPKMEPAASSQAAVEELRTQVRELRSIIETMKDQQKREIKQLLSELDEEKKIRLRLQMEVNDIKKALQSK
+PTM	Acetylation:72,220,324,452,627;Glycosylation:197,536;Methylation:153,172,222,225,289,299,332,349,392,438,452,475,546,645;Phosphorylation:66,79,82,108,109,156,159,165,173,178,179,181,183,188,189,190,191,193,199,230,251,252,254,257,258,344,354,355,408,410,412,436,444,445,447,468,472,473,493,495,497,498,499,500,502,503,509,511,521,540,572,587,589,593;Ubiquitylation:172,242,259,324,438,452

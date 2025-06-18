@@ -1,0 +1,25 @@
+UniprotID	Q9H1J1-2
+Accession	Q9H1J1;A2A366;Q5T8C3;Q5T8C9;Q7Z6N3;Q86YK1;Q9BZI8
+EntryName	REN3A_HUMAN
+ProteinName	Regulator of nonsense transcripts 3A (Nonsense mRNA reducing factor 3A) (Up-frameshift suppressor 3 homolog A) (hUpf3)
+GeneName	UPF3A RENT3A UPF3
+Length	443
+Function	Involved in nonsense-mediated decay (NMD) of mRNAs containing premature stop codons by associating with the nuclear exon junction complex (EJC) and serving as link between the EJC core and NMD machinery. Recruits UPF2 at the cytoplasmic side of the nuclear envelope and the subsequent formation of an UPF1-UPF2-UPF3 surveillance complex (including UPF1 bound to release factors at the stalled ribosome) is believed to activate NMD. However, UPF3A is shown to be only marginally active in NMD as compared to UPF3B. Binds spliced mRNA upstream of exon-exon junctions. In vitro, weakly stimulates translation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	221...226
+validnes_region	
+nesbase_region	
+Sequence	MRSEKEGAGGLRAAVAARGPSGREKLSALEVQFHRDSQQQEAETPPTSSSGCGGGAGKPREEKRTALSKVVIRRLPPGLTKEQLEEQLRPLPAHDYFEFFAADLSLYPHLYSRAYINFRNPDDILLFRDRFDGYIFLDSKDPEYKKFLETYCVEEEKTSANPETLLGEMEAKTRELIARRTTPLLEYIKNRKLEKQRIREEKREERRRRELEKKRLREEEKRRRREEERCKKKETDKQKKIAEKEVRIKLLKKPEKGEEPTTEKPKERGEEIDTGGGKQESCAPGAVVKARPMEGSLEEPQETSHSGSDKEHRDVERSQEQESEAQRYHVDDGRRHRAHHEPERLSRRSEDEQRWGKGPGQDRGKKGSQDSGAPGEAMERLGRAQRCDDSPAPRKERLANKDRPALQLYDPGARFRARECGGNRRICKAEGSGTGPEKREEAE
+PTM	Acetylation:277;Methylation:58,246;Phosphorylation:168,170,214,220,295,314,329,336,337,339,341,351,379,382,401;SUMOylation:25,155,461;Ubiquitylation:222

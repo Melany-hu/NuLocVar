@@ -1,0 +1,25 @@
+UniprotID	F8W020
+Accession	F8W020
+EntryName	F8W020_HUMAN
+ProteinName	Nucleosome assembly protein 1 like 1
+GeneName	NAP1L1
+Length	207
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADIDNKEQSELDQDLDDVEEVEEEETGEETKLKARQLTVQMMQNPQILAALQERLDGLVETPTGYIESLPRVVKRRVNALKNLQVKCAQIEAKFYEEVHDLERKYAVLYQPLFDKRFEIINAIYEPTEEECEWKPDEEDEISVSTNFILEELKEKAKIEDEKKDEEKEDPKGIPEFWLTVFKNVDLLSDMVQEHDEPILKHLKDIK
+PTM	

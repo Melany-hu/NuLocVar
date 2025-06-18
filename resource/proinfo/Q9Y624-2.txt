@@ -1,0 +1,25 @@
+UniprotID	Q9Y624-2
+Accession	Q9Y624;B7Z941
+EntryName	JAM1_HUMAN
+ProteinName	Junctional adhesion molecule A (JAM-A) (Junctional adhesion molecule 1) (JAM-1) (Platelet F11 receptor) (Platelet adhesion molecule 1) (PAM-1) (CD antigen CD321)
+GeneName	F11R JAM1 JCAM UNQ264/PRO301
+Length	250
+Function	Seems to play a role in epithelial tight junction formation. Appears early in primordial forms of cell junctions and recruits PARD3 (PubMed:11489913). The association of the PARD6-PARD3 complex may prevent the interaction of PARD3 with JAM1, thereby preventing tight junction assembly (By similarity). Plays a role in regulating monocyte transmigration involved in integrity of epithelial barrier (By similarity). Ligand for integrin alpha-L/beta-2 involved in memory T-cell and neutrophil transmigration (PubMed:11812992). Involved in platelet activation (PubMed:10753840).
+Subcellular Location	Cell junction; Tight junction; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTKAQVERKLLCLFILAILLCSLALGSVTVHSSEPEVRIPENNPVKLSCAYSGFSSPRVEWKFDQGDTTRLVCYNNKITVPPSKPTVNIPSSATIGNRAVLTCSEQDGSPPSEYTWFKDGIVMPTNPKSTRAFSNSSYVLNPTTGELVFDPLSASDTGEYSCEARNGYGTPMTSNAVRMEAVERNVGVIVAAVLVTLILLGILVFGIWFAYSRGHFDRTKKGTSSKKVIYSQPSARSEGEFKQTSSFLV
+PTM	Glycosylation:185;Methylation:86;Phosphorylation:95,273,274,275,280,281,284,287,294,295,296;Ubiquitylation:97,277,292

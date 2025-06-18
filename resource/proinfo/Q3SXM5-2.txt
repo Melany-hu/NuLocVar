@@ -1,0 +1,25 @@
+UniprotID	Q3SXM5-2
+Accession	Q3SXM5;B4DSL2;D3DUL4;Q3SXM4;Q8NC98;Q9BY22
+EntryName	HSDL1_HUMAN
+ProteinName	Inactive hydroxysteroid dehydrogenase-like protein 1 (Short chain dehydrogenase/reductase family 12C member 3)
+GeneName	HSDL1 SDR12C3
+Length	275
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVDSFYLLYREIARSCNCYMEALALVGAWYTARKSITVICDFYSLIRLHFIPRLGSRADLIKQYGRWAVVSGATDGIGKAYAEELASRGLNIILISRNEEKLQYFTQLSEDKLWDIINVNIAAASLMVHVVLPGMVERKKGAIVTISSGSCCKPTPQLAAFSASKAYLDHFSRALQYEYASKGIFVQSLIPFYVATSMTAPSNFLHRCSWLVPSPKVYAHHAVSTLGISKRTTGYWSHSIQFLFAQYMPEWLWVWGANILNRSLRKEALSCTA
+PTM	Acetylation:64;Methylation:64,81,141;Phosphorylation:83,271,320;SUMOylation:109;Ubiquitylation:64,81,103,109,143

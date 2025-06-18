@@ -1,0 +1,25 @@
+UniprotID	P51530-3
+Accession	P51530;Q2NKM1;Q5TC49;Q5TC50;Q6P455;Q6PI80;Q7Z6H9;Q8N346
+EntryName	DNA2_HUMAN
+ProteinName	DNA replication ATP-dependent helicase/nuclease DNA2 (hDNA2) (DNA replication ATP-dependent helicase-like homolog) [Includes: DNA replication nuclease DNA2 (EC 3.1.-.-); DNA replication ATP-dependent helicase DNA2 (EC 3.6.4.12)]
+GeneName	DNA2 DNA2L KIAA0083
+Length	822
+Function	Key enzyme involved in DNA replication and DNA repair in nucleus and mitochondrion. Involved in Okazaki fragments processing by cleaving long flaps that escape FEN1: flaps that are longer than 27 nucleotides are coated by replication protein A complex (RPA), leading to recruit DNA2 which cleaves the flap until it is too short to bind RPA and becomes a substrate for FEN1. Also involved in 5'-end resection of DNA during double-strand break (DSB) repair: recruited by BLM and mediates the cleavage of 5'-ssDNA, while the 3'-ssDNA cleavage is prevented by the presence of RPA. Also involved in DNA replication checkpoint independently of Okazaki fragments processing. Possesses different enzymatic activities, such as single-stranded DNA (ssDNA)-dependent ATPase, 5'-3' helicase and endonuclease activities. While the ATPase and endonuclease activities are well-defined and play a key role in Okazaki fragments processing and DSB repair, the 5'-3' DNA helicase activity is subject to debate. According to various reports, the helicase activity is weak and its function remains largely unclear. Helicase activity may promote the motion of DNA2 on the flap, helping the nuclease function.
+Subcellular Location	Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQLNELELLMEKSFWEEAELPAELFQKKVVASFPRTVLSTGMDNRYLVLAVNTVQNKEGNCEKRLVITASQSLENKELCILRNDWCSVPVEPGDIIHLEGDCTSDTWIIDKDFGYLILYPDMLISGTSIASSIRCMRRAVLSETFRSSDPATRQMLIGTVLHEVFQKAINNSFAPEKLQELAFQTIQEIRHLKEMYRLNLSQDEIKQEVEDYLPSFCKWAGDFMHKNTSTDFPQMQLSLPSDNSKDNSTCNIEVVKPMDIEESIWSPRFGLKGKIDVTVGVKIHRGYKTKYKIMPLELKTGKESNSIEHRSQVVLYTLLSQERRADPEAGLLLYLKTGQMYPVPANHLDKRELLKLRNQMAFSLFHRISKSATRQKTQLASLPQIIEEEKTCKYCSQIGNCALYSRAVEQQMDCSSVPIVMLPKIEEETQHLKQTHLEYFSLWCLMLTLESQSKDNKKNHQNIWLMPASEMEKSGSCIGNLIRMEHVKIVCDGQYLHNFQCKHGAIPVTNLMAGDRVIVSGEERSLFALSRGYVKEINMTTVTCLLDRNLSVLPESTLFRLDQEEKNCDIDTPLGNLSKLMENTFVSKKLRDLIIDFREPQFISYLSSVLPHDAKDTVACILKGLNKPQRQAMKKVLLSKDYTLIVGMPGTGKTTTICTLVPAPEQVEKGGVSNVTEAKLIVFLTSIFVKAGCSPSDIGIIAPYRQQLKIINDLLARSIGMVEVNTVDKYQGRDKSIVLVSFVRSNKDGTVGELLKDWRRLNVAITRAKHKLILLGCVPSLNCYPPLEKLLNHLNSEKLIIDLPSREHESLCHILGDFQRE
+PTM	Acetylation:567,624;Methylation:77,112,168,207,257,337,356,641,688,704,817,908,929,948,995;Phosphorylation:14,197,202,395,405,808,835,1035;SUMOylation:29,77,178,207,219,227,257,293,300,337,377,391,425,459,704,845,908;Ubiquitylation:28,29,58,178,194,207,257,273,293,351,580,589,590,636,704,908,948,968,995

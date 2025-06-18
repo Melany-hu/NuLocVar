@@ -1,0 +1,25 @@
+UniprotID	Q9UNE7-2
+Accession	Q9UNE7;A2IDB9;O60526;Q969U2;Q9HBT1
+EntryName	CHIP_HUMAN
+ProteinName	E3 ubiquitin-protein ligase CHIP (EC 2.3.2.27) (Antigen NY-CO-7) (CLL-associated antigen KW-8) (Carboxy terminus of Hsp70-interacting protein) (RING-type E3 ubiquitin transferase CHIP) (STIP1 homology and U box-containing protein 1)
+GeneName	STUB1 CHIP PP1131
+Length	231
+Function	E3 ubiquitin-protein ligase which targets misfolded chaperone substrates towards proteasomal degradation (PubMed:10330192, PubMed:11146632, PubMed:11557750, PubMed:23990462, PubMed:26265139). Plays a role in the maintenance of mitochondrial morphology and promotes mitophagic removal of dysfunctional mitochondria; thereby acts as a protector against apoptosis in response to cellular stress (By similarity). Negatively regulates vascular smooth muscle contraction, via degradation of the transcriptional activator MYOCD and subsequent loss of transcription of genes involved in vascular smooth muscle contraction (By similarity). Promotes survival and proliferation of cardiac smooth muscle cells via ubiquitination and degradation of FOXO1, resulting in subsequent repression of FOXO1-mediated transcription of pro-apoptotic genes (PubMed:19483080). Ubiquitinates ICER-type isoforms of CREM and targets them for proteasomal degradation, thereby acts as a positive effector of MAPK/ERK-mediated inhibition of apoptosis in cardiomyocytes (PubMed:20724525). Inhibits lipopolysaccharide-induced apoptosis and hypertrophy in cardiomyocytes, via ubiquitination and subsequent proteasomal degradation of NFATC3 (PubMed:30980393). Collaborates with ATXN3 in the degradation of misfolded chaperone substrates: ATXN3 restricting the length of ubiquitin chain attached to STUB1/CHIP substrates and preventing further chain extension (PubMed:10330192, PubMed:11146632, PubMed:11557750, PubMed:23990462). Ubiquitinates NOS1 in concert with Hsp70 and Hsp40 (PubMed:15466472). Modulates the activity of several chaperone complexes, including Hsp70, Hsc70 and Hsp90 (PubMed:10330192, PubMed:11146632, PubMed:15466472). Ubiquitinates CHRNA3 targeting it for endoplasmic reticulum-associated degradation in cortical neurons, as part of the STUB1-VCP-UBXN2A complex (PubMed:26265139). Ubiquitinates and promotes ESR1 proteasomal degradation in response to age-related circulating estradiol (17-beta-estradiol/E2) decline, thereby promotes neuronal apoptosis in response to ischemic reperfusion injury (By similarity). Mediates transfer of non-canonical short ubiquitin chains to HSPA8 that have no effect on HSPA8 degradation (PubMed:11557750, PubMed:23990462). Mediates polyubiquitination of DNA polymerase beta (POLB) at 'Lys-41', 'Lys-61' and 'Lys-81', thereby playing a role in base-excision repair: catalyzes polyubiquitination by amplifying the HUWE1/ARF-BP1-dependent monoubiquitination and leading to POLB-degradation by the proteasome (PubMed:19713937). Mediates polyubiquitination of CYP3A4 (PubMed:19103148). Ubiquitinates EPHA2 and may regulate the receptor stability and activity through proteasomal degradation (PubMed:19567782). Acts as a co-chaperone for HSPA1A and HSPA1B chaperone proteins and promotes ubiquitin-mediated protein degradation (PubMed:27708256). Negatively regulates the suppressive function of regulatory T-cells (Treg) during inflammation by mediating the ubiquitination and degradation of FOXP3 in a HSPA1A/B-dependent manner (PubMed:23973223). Catalyzes monoubiquitination of SIRT6, preventing its degradation by the proteasome (PubMed:24043303). Likely mediates polyubiquitination and down-regulates plasma membrane expression of PD-L1/CD274, an immune inhibitory ligand critical for immune tolerance to self and antitumor immunity (PubMed:28813410). Negatively regulates TGF-beta signaling by modulating the basal level of SMAD3 via ubiquitin-mediated degradation (PubMed:24613385). Plays a role in the degradation of TP53 (PubMed:26634371). Mediates ubiquitination of RIPK3 leading to its subsequent proteasome-dependent degradation (PubMed:29883609). May regulate myosin assembly in striated muscles together with UBE4B and VCP/p97 by targeting myosin chaperone UNC45B for proteasomal degradation (PubMed:17369820). Ubiquitinates PPARG in macrophages playing a role in M2 macrophages polarization and angiogenesis (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	71...75
+validnes_region	
+nesbase_region	
+Sequence	MQQHEQALADCRRALELDGQSVKAHFFLGQCQLEMESYDEAIANLQRAYSLAKEQRLNFGDDIPSALRIAKKKRWNSIEERRIHQESELHSYLSRLIAAERERELEECQRNHEGDEDDSHVRAQQACIEAKHDKYMADMDELFSQVDEKRKKRDIPDYLCGKISFELMREPCITPSGITYDRKDIEEHLQRVGHFDPVTRSPLTQEQLIPNLAMKEVIDAFISENGWVEDY
+PTM	Acetylation:72,203;Methylation:4,30,35,41,72,84,85,125,143;Phosphorylation:19,23,25,49,121,122,149,191,271,273,276;SUMOylation:22,41,125,203,206,221,255,287;Ubiquitylation:22,30,41,72,125,221

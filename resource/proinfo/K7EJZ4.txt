@@ -1,0 +1,25 @@
+UniprotID	K7EJZ4
+Accession	K7EJZ4
+EntryName	K7EJZ4_HUMAN
+ProteinName	Tubulin beta 6 class V
+GeneName	TUBB6
+Length	115
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREIVHIQAGQCGNQIGTKFWEVISDEHGIDPAGGYVGDSALQLERINVYYNESSSQKYVPRAALVDLEPGTMDSVRSGPFGQLFRPDNFIFVTFLRATGAGTVSTSAHHIATPA
+PTM	

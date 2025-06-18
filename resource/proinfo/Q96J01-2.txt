@@ -1,0 +1,25 @@
+UniprotID	Q96J01-2
+Accession	Q96J01;Q6NZ53
+EntryName	THOC3_HUMAN
+ProteinName	THO complex subunit 3 (Tho3) (TEX1 homolog) (hTREX45)
+GeneName	THOC3
+Length	327
+Function	Component of the THO subcomplex of the TREX complex which is thought to couple mRNA transcription, processing and nuclear export, and which specifically associates with spliced mRNA and not with unspliced pre-mRNA (PubMed:15833825, PubMed:15998806, PubMed:17190602). Required for efficient export of polyadenylated RNA and spliced mRNA (PubMed:23222130). The THOC1-THOC2-THOC3 core complex alone is sufficient to bind export factor NXF1-NXT1 and promote ATPase activity of DDX39B (PubMed:33191911). TREX is recruited to spliced mRNAs by a transcription-independent mechanism, binds to mRNA upstream of the exon-junction complex (EJC) and is recruited in a splicing- and cap-dependent manner to a region near the 5' end of the mRNA where it functions in mRNA export to the cytoplasm via the TAP/NXF1 pathway (PubMed:15833825, PubMed:15998806, PubMed:17190602).
+Subcellular Location	Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVPAAAMGPSALGQSGPGSMAPWCSVSSGPSRYVLGMQELFRGHSKTREFLAHSAKVHSVAWSCDGRRLASGSFDKTASVFLLEKDRLVKENNYRGHGDSVDQLCWHPSNPDLFVTASGDKTIRIWDVRTTKCIATVNTKGENINICWSPDGQTIAVGNKDDVVTFIDAKTHRSKAEEQFKFEVNEISWNNDNNMFFLTNGNGCINILSYPELKPVQSINAHPSNCICIKFDPMGKYFATGSADALVSLWDVDELVCVRCFSRLDWPVRTLSFSHDGKMLASASEDHFIDIAEVETGNFMRIYRLSPLAVRTSLVISSLHVTTSPA
+PTM	Acetylation:86,133,329,332;Methylation:86,125,130,171,182,264;Phosphorylation:273,308,310,351;SUMOylation:77,86,91,122,133,161,171,300,318,332;Ubiquitylation:77,86,91,133,171,176,329,332

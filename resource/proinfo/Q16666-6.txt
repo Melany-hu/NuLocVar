@@ -1,0 +1,25 @@
+UniprotID	Q16666-6
+Accession	Q16666;A0A346JEQ3;B4DJT8;H3BLV7;Q59GX0;Q5T3W7;Q5T3W8;Q5T3X0;Q5T3X1;Q5T3X2;Q8N9E5;Q8NEQ7;Q96AJ5;Q9UH78
+EntryName	IF16_HUMAN
+ProteinName	Gamma-interferon-inducible protein 16 (Ifi-16) (Interferon-inducible myeloid differentiation transcriptional activator)
+GeneName	IFI16 IFNGIP1
+Length	729
+Function	Binds double-stranded DNA. Binds preferentially to supercoiled DNA and cruciform DNA structures. Seems to be involved in transcriptional regulation. May function as a transcriptional repressor. Could have a role in the regulation of hematopoietic differentiation through activation of unknown target genes. Controls cellular proliferation by modulating the functions of cell cycle regulatory factors including p53/TP53 and the retinoblastoma protein. May be involved in TP53-mediated transcriptional activation by enhancing TP53 sequence-specific DNA binding and modulating TP53 phosphorylation status. Seems to be involved in energy-level-dependent activation of the ATM/ AMPK/TP53 pathway coupled to regulation of autophagy. May be involved in regulation of TP53-mediated cell death also involving BRCA1. May be involved in the senescence of prostate epithelial cells. Involved in innate immune response by recognizing viral dsDNA in the cytosol and probably in the nucleus. After binding to viral DNA in the cytoplasm recruits TMEM173/STING and mediates the induction of IFN-beta. Has anti-inflammatory activity and inhibits the activation of the AIM2 inflammasome, probably via association with AIM2. Proposed to bind viral DNA in the nucleus, such as of Kaposi's sarcoma-associated herpesvirus, and to induce the formation of nuclear caspase-1-activating inflammasome formation via association with PYCARD. Inhibits replication of herpesviruses such as human cytomegalovirus (HCMV) probably by interfering with promoter recruitment of members of the Sp1 family of transcription factors. Necessary to activate the IRF3 signaling cascade during human herpes simplex virus 1 (HHV-1) infection and promotes the assembly of heterochromatin on herpesviral DNA and inhibition of viral immediate-early gene expression and replication. Involved in the MTA1-mediated epigenetic regulation of ESR1 expression in breast cancer.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	128..131;134..136;140..143;96..100
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKKYKNIVLLKGLEVINDYHFRMVKSLLSNDLKLNLKMREEYDKIQIADLMEEKFRGDAGLGKLIKIFEDIPTLEDLAETLKKEKLKVKGPALSRKRKKEVDATSPAPSTSSTVKTEGAEATPGAQNPKTVAKCQVTPRRNVLQKRPVIVKVLSTTKPFEYETPEMEKKIMFHATVATQTQFFHVKVLNTSLKEKFNGKKIIIISDYLEYDSLLEVNEESTVSEAGPNQTFEVPNKIINRAKETLKIDILHKQASGNIVYGVFMLHKKTVNQKTTIYEIQDDRGKMDVVGTGQCHNIPCEEGDKLQLFCFRLRKKNQMSKLISEMHSFIQIKKKTNPRNNDPKSMKLPQEQRQLPYPSEASTTFPESHLRTPQMPPTTPSSSFFTKKSEDTISKMNDFMRMQILKEGSHFPGPFMTSIGPAESHPHTPQMPPSTPSSSFLTTKSEDTISKMNDFMRMQILKEGSHFPGPFMTSIGPAESHPHTPQMPPSTPSSSFLTTLKPRLKTEPEEVSIEDSAQSDLKEVMVLNATESFVYEPKEQKKMFHATVATENEVFRVKVFNIDLKEKFTPKKIIAIANYVCRNGFLEVYPFTLVADVNADRNMEIPKGLIRSASVTPKINQLCSQTKGSFVNGVFEVHKKNVRGEFTYYEIQDNTGKMEVVVHGRLTTINCEEGDKLKLTCFELAPKSGNTGELRSVIHSHIKVIKTRKNKKDILNPDSSMETSPDFFF
+PTM	Acetylation:6,64,128,143,190,202,214,225,250,324,330,342,361,377,389,400,451,507,557,621,695,732,734,759;Glycosylation:246;Methylation:12,38,64,83,208,303,443,462,518,578,621,674,695;Phosphorylation:20,27,95,105,106,110,111,112,113,117,123,133,142,145,149,153,160,161,166,168,194,248,376,384,401,415,424,428,434,435,442,473,484,501,529,540,568,572,575,670,704,756,776,779,780;SUMOylation:6,55,64,83,90,116,128,143,186,190,208,214,250,330,403,443,444,451,462,500,507,518,557,561,578,598,621,663,674,683,732,734,743,759,767;Ubiquitylation:26,34,100,116,128,250,330,377,451,507,561,614,621,663,674,734,743

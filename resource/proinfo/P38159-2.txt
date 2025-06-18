@@ -1,0 +1,25 @@
+UniprotID	P38159-2
+Accession	P38159;B4E3U4;D3DWH0;E9PG86;Q5JQ67;Q8N8Y7;Q969R3
+EntryName	RBMX_HUMAN
+ProteinName	RNA-binding motif protein, X chromosome (Glycoprotein p43) (Heterogeneous nuclear ribonucleoprotein G) (hnRNP G) [Cleaved into: RNA-binding motif protein, X chromosome, N-terminally processed]
+GeneName	RBMX HNRPG RBMXP1
+Length	378
+Function	RNA-binding protein that plays several role in the regulation of pre- and post-transcriptional processes. Implicated in tissue-specific regulation of gene transcription and alternative splicing of several pre-mRNAs. Binds to and stimulates transcription from the tumor suppressor TXNIP gene promoter; may thus be involved in tumor suppression. When associated with SAFB, binds to and stimulates transcription from the SREBF1 promoter. Associates with nascent mRNAs transcribed by RNA polymerase II. Component of the supraspliceosome complex that regulates pre-mRNA alternative splice site selection. Can either activate or suppress exon inclusion; acts additively with TRA2B to promote exon 7 inclusion of the survival motor neuron SMN2. Represses the splicing of MAPT/Tau exon 10. Binds preferentially to single-stranded 5'-CC-rich RNA sequence motifs localized in a single-stranded conformation; probably binds RNA as a homodimer. Binds non-specifically to pre-mRNAs. Also plays a role in the cytoplasmic TNFR1 trafficking pathways; promotes both the IL-1-beta-mediated inducible proteolytic cleavage of TNFR1 ectodomains and the release of TNFR1 exosome-like vesicles to the extracellular compartment.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEADRPGKLFIGGLNTETNEKALEAVFGKYGRIVEVLLMKDRESPADAKDAARDMNGKSLDGKAIKVEQATKPSFESGRRGPPPPPRSRGPPRGLRGGRGGSGGTRGPPSRGGHMDDGGYSMNFNMSSSRGPLPVKRGPPPRSGGPPPKRSAPSGPVRSSSGMGGRAPVSRGRDSYGGPPRREPLPSRRDVYLSPRDDGYSTKDSYSSRDYPSSRDTRDYAPPPRDYTYRDYGHSSSRDDYPSRGYSDRDGYGRDRDYSDHPSGGSYRDSYESYGNSRSAPPTRGPPPSYGGSSRYDDYSSSRDGYGGSRDSYSSSRSDLYSSGRDRVGRQERGLPPSMERGYPPPRDSYSSSSRGAPRGGGRGGSRSDRGGGRSRY
+PTM	Acetylation:9,22,30,41,63,72,77,80,86,150,217;Methylation:22,30,41,63,86,93,94,101,103,107,110,113,120,125,144,150,151,156,164,172,180,185,187,217,258,292,298,317,324,339,341,344,347,355,369,373,377,381;Phosphorylation:17,19,55,58,73,85,88,91,102,116,119,124,134,135,141,142,143,157,165,168,173,174,175,184,189,190,206,208,214,215,216,219,220,221,222,225,227,228,234,241,243,246,249,250,251,255,257,260,261,266,272,273,277,280,281,284,285,287,288,291,293,303,304,307,308,310,313,314,315,316,320,323,326,327,328,329,330,332,335,336,337,352,357,389;SUMOylation:9,22,30,41,63,80,86,150,163,217;Ubiquitylation:9,22,30,63,77,86,150,163,217

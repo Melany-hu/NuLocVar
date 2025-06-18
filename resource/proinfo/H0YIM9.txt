@@ -1,0 +1,25 @@
+UniprotID	H0YIM9
+Accession	H0YIM9
+EntryName	H0YIM9_HUMAN
+ProteinName	Protein Churchill
+GeneName	CHURC1-FNTB
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCAVCSKRDFMLITNKSLKEEDGEEIVTYDPDLCKNCHHVIARHEYTFSIMDEFQEYTMLCLLCGKAEDTISILPDDPRQMTLLF
+PTM	

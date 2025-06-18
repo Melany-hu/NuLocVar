@@ -1,0 +1,25 @@
+UniprotID	Q7Z3S9-3
+Accession	Q7Z3S9;Q5BKT8;Q5VTG9;Q5XG84;Q6P192;Q8NC23;Q8WUQ9;Q96FY1
+EntryName	NT2NA_HUMAN
+ProteinName	Notch homolog 2 N-terminal-like protein A (Notch homolog 2 N-terminal-like protein)
+GeneName	NOTCH2NLA N2N NOTCH2NL
+Length	249
+Function	Human-specific protein that promotes neural progenitor proliferation and evolutionary expansion of the brain neocortex by regulating the Notch signaling pathway (PubMed:29561261, PubMed:29856954, PubMed:29856955). Able to promote neural progenitor self-renewal, possibly by down-regulating neuronal differentiation genes, thereby delaying the differentiation of neuronal progenitors and leading to an overall final increase in neuronal production (PubMed:29856954). Acts by enhancing the Notch signaling pathway via two different mechanisms that probably work in parallel to reach the same effect (PubMed:29856954). Enhances Notch signaling pathway in a non-cell-autonomous manner via direct interaction with NOTCH2 (PubMed:29856954). Also promotes Notch signaling pathway in a cell-autonomous manner through inhibition of cis DLL1-NOTCH2 interactions, which promotes neuronal differentiation (By similarity).
+Subcellular Location	Secreted; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRDGYEPCVNEGMCVTYHNGTGYCKCPEGFLGEYCQHRDPCEKNRCQNGGTCVAQAMLGKATCRCASGFTGEDCQYSTSHPCFVSRPCLNGGTCHMLSRDTYECTCQVGFTGKECQWTDACLSHPCANGSTCTTVANQFSCKCLTGFTGQKCETDVNECDIPGHCQHGGTCLNLPGSYQCQCLQGFTGQYCDSLYVPCAPSPCVNGGTCRQTGDFTFECNCLPETVRRGTELWERDREVWNGKEHDEN
+PTM	Glycosylation:136

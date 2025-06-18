@@ -1,0 +1,25 @@
+UniprotID	P15923-2
+Accession	P15923;P15883;Q14208;Q14635;Q14636;Q2TB39;Q2TB40;Q9UPI9
+EntryName	TFE2_HUMAN
+ProteinName	Transcription factor E2-alpha (Class B basic helix-loop-helix protein 21) (bHLHb21) (Immunoglobulin enhancer-binding factor E12/E47) (Immunoglobulin transcription factor 1) (Kappa-E2-binding factor) (Transcription factor 3) (TCF-3) (Transcription factor ITF-1)
+GeneName	TCF3 BHLHB21 E2A ITF1
+Length	651
+Function	Transcriptional regulator involved in the initiation of neuronal differentiation and mesenchymal to epithelial transition (By similarity). Heterodimers between TCF3 and tissue-specific basic helix-loop-helix (bHLH) proteins play major roles in determining tissue-specific cell fate during embryogenesis, like muscle or early B-cell differentiation (By similarity). Together with TCF15, required for the mesenchymal to epithelial transition (By similarity). Dimers bind DNA on E-box motifs: 5'-CANNTG-3' (By similarity). Binds to the kappa-E2 site in the kappa immunoglobulin gene enhancer (PubMed:2493990). Binds to IEB1 and IEB2, which are short DNA sequences in the insulin gene transcription control region (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	170..176
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	171...177;171...178
+validnes_region	
+nesbase_region	
+Sequence	MNQPQRMAPVGTDKELSDLLDFSMMFPLPVTNGKGRPASLAGAQFGGSGLEDRPSSGSWGSGDQSSSSFDPSRTFSEGTHFTESHSSLSSSTFLGPGLGGKSGERGAYASFGRDAGVGGLTQAGFLSGELALNSPGPLSPSGMKGTSQYYPSYSGSSRRRAADGSLDTQPKKVRKVPPGLPSSVYPPSSGEDYGRDATAYPSAKTPSSTYPAPFYVADGSLHPSAELWSPPGQAGFGPMLGGGSSPLPLPPGSGPVGSSGSSSTFGGLHQHERMGYQLHGAEVNGGLPSASSFSSAPGATYGGVSSHTPPVSGADSLLGSRGTTAGSSGDALGKALASIYSPDHSSNNFSSSPSTPVGSPQGLAGTSQWPRAGAPGALSPSYDGGLHGLQSKIEDHLDEAIHVLRSHAVGTAGDMHTLLPGHGALASGFTGPMSLGGRHAGLVGGSHPEDGLAGSTSLMHNHAALPSQPGTLPDLSRPPDSYSGLGRAGATAAASEIKREEKEDEENTSAADHSEEEKKELKAPRARTSSTDEVLSLEEKDLRDRERRMANNARERVRVRDINEAFRELGRMCQMHLKSDKAQTKLLILQQAVQVILGLEQQVRERNLNPKAACLKRREEEKVSGVVGDPQMVLSAPHPGLSEAHNPAGHM
+PTM	Methylation:101,105,392,614;Phosphorylation:12,23,102,121,127,134,139,149,150,154,156,168,327,328,338,340,341,345,346,350,351,352,354,355,359,367,379,381,382,391,482,508,509,514,528,529;SUMOylation:101,392,498,502,518,543,625;Ubiquitylation:570,614,619

@@ -1,0 +1,25 @@
+UniprotID	H0YBS2
+Accession	H0YBS2
+EntryName	H0YBS2_HUMAN
+ProteinName	Solute carrier family 36 member 1
+GeneName	SLC36A1
+Length	89
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVLPLENKMKDPRKFPLILYLGMVIVTILYISLGCLGYLQFGANIQGSITLNLPNCCPLHSSPPSPATASPHWLPWTAFCLGNSCRAFC
+PTM	

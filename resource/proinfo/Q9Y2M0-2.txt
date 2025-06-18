@@ -1,0 +1,25 @@
+UniprotID	Q9Y2M0-2
+Accession	Q9Y2M0;A8K4M2;Q86WU8
+EntryName	FAN1_HUMAN
+ProteinName	Fanconi-associated nuclease 1 (EC 3.1.21.-) (EC 3.1.4.1) (FANCD2/FANCI-associated nuclease 1) (hFAN1) (Myotubularin-related protein 15)
+GeneName	FAN1 KIAA1018 MTMR15
+Length	533
+Function	Nuclease required for the repair of DNA interstrand cross-links (ICL) recruited at sites of DNA damage by monoubiquitinated FANCD2. Specifically involved in repair of ICL-induced DNA breaks by being required for efficient homologous recombination, probably in the resolution of homologous recombination intermediates (PubMed:20603015, PubMed:20603016, PubMed:20603073, PubMed:20671156, PubMed:24981866, PubMed:25430771). Not involved in DNA double-strand breaks resection (PubMed:20603015, PubMed:20603016). Acts as a 5'-3' exonuclease that anchors at a cut end of DNA and cleaves DNA successively at every third nucleotide, allowing to excise an ICL from one strand through flanking incisions. Probably keeps excising with 3'-flap annealing until it reaches and unhooks the ICL (PubMed:25430771). Acts at sites that have a 5'-terminal phosphate anchor at a nick or a 1- or 2-nucleotide flap and is augmented by a 3' flap (PubMed:25430771). Also has endonuclease activity toward 5'-flaps (PubMed:20603015, PubMed:20603016, PubMed:24981866).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	10...15
+validnes_region	
+nesbase_region	
+Sequence	MMSEGKPPDKKRPRRSLSISKNKKKASNSIISCFNNAPPAKLACPVCSKMVPRYDLNRHLDEMCANNDFVQVDPGQVGLINSNVSMVDLTSVTLEDVTPKKSPPPKTNLTPGQSDSAKREVKQKISPYFKSNDVVCKNQDELRNRSVKVICLGSLASKLSRKYVKAKKSIDKDEEFAGSSPQSSKSTVVKSLIDNSSEIEDEDQILENSSQKENVFKCDSLKEECIPEHMVRGSKIMEAESQKATRECEKSALTPGFSDNAIMLFSPDFTLRNTLKSTSEDSLVKQECIKEVVEKREACHCEEVKMTVASEAKIQLSDSEAKSHSSADDASAWSNIQEAPLQDDSCLNNDIPHSIPLEQGSSCNGPGQTTGHPYYLRSFLVVLKTVLENEDDMLLFDEQEKGIVTKFYQLSATGQKLYVRLFQRKLSWIKMTKLEYEEIALDLTPVIEELTNAGFLQTESELQELSEVLELLSAPELKSLAKTFHLVNPNGQKQQLVDAFLKLAKQRSVCTWGKNKPGIGAVILKRFCWLLLQ
+PTM	Methylation:217,276,295,384,478,525,636,977,996;Phosphorylation:16,18,102,110,116,126,179,180,196,197,209,210,251,254,270,317,473,692,695;SUMOylation:118,137,158,172,222,243,276,285,430,516,727,778,986

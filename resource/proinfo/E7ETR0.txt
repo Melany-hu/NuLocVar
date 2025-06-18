@@ -1,0 +1,25 @@
+UniprotID	E7ETR0
+Accession	E7ETR0
+EntryName	E7ETR0_HUMAN
+ProteinName	RuvB-like helicase (EC 3.6.4.12)
+GeneName	RUVBL1
+Length	315
+Function	Proposed core component of the chromatin remodeling Ino80 complex which exhibits DNA- and nucleosome-activated ATPase activity and catalyzes ATP-dependent nucleosome sliding.
+Subcellular Location	Dynein axonemal particle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRAVLLAGPPGTGKTALALAIAQELGSKVPFCPMVGSEVYSTEIKKTEVLMENFRRAIGLRIKETKEVYEGEVTELTPCETENPMGGYGKTISHVIIGLKTAKGTKQLKLDPSIFESLQKERVEAGDVIYIEANSGAVKRQGRCDTYATEFDLEAEEYVPLPKGDVHKKKEIIQDVTLHDLDVANARPQGGQDILSMMGQLMKPKKTEITDKLRGEINKVVNKYIDQGIAELVPGVLFVDEVHMLDIECFTYLHRALESSIAPIVIFASNRGNCVIRGTEDITSPHGIPLDLLDRVMIIRTMLYTPQEMKQVP
+PTM	

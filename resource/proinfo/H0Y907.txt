@@ -1,0 +1,25 @@
+UniprotID	H0Y907
+Accession	H0Y907
+EntryName	H0Y907_HUMAN
+ProteinName	DCN1-like protein (Defective in cullin neddylation protein 1-like protein)
+GeneName	DCUN1D4
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTDDVVGPEGMEKFCEDIGVEPENVVMLVLAWKLDAQNMGYFTLQEWLKGMTSLQCDTTEKLRNTLDYLRSFLNDSTNFKLIYRYAFDFARAEDGVSDCELLAGTLAEQEKRTSAA
+PTM	

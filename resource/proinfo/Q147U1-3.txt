@@ -1,0 +1,25 @@
+UniprotID	Q147U1-3
+Accession	Q147U1;A8K0H1;B3KUP1
+EntryName	ZN846_HUMAN
+ProteinName	Zinc finger protein 846
+GeneName	ZNF846
+Length	210
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTHMITHIGEKTSEDNQSGKALRKNFPHSFYKKSHAEGKMPKCVKHEKAFNQFPNLTRQNKTHTQEKLCECKDCWRTFLNQSSLKLHIRSHNGDKHYVCKECGKAFSNSSHLIGHGRIHSGEKPYVCKECGKAFTQSTGLKLHIRTHSGEKPYKCKECGKAFTHSSYLTDHTRIHSGKKPYVCMECGKAFTRSTGLILHMRIHTGEKPYE
+PTM	Phosphorylation:277,333,379,389,417;SUMOylation:481,485;Ubiquitylation:341,397,425

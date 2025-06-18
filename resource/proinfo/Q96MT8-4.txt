@@ -1,0 +1,25 @@
+UniprotID	Q96MT8-4
+Accession	Q96MT8;D3DND8;D3DND9;D3DNE0;Q96CR0;Q9H8F5;Q9H8N0
+EntryName	CEP63_HUMAN
+ProteinName	Centrosomal protein of 63 kDa (Cep63)
+GeneName	CEP63
+Length	475
+Function	Required for normal spindle assembly (PubMed:21406398, PubMed:21983783, PubMed:26297806, PubMed:35793002). Plays a key role in mother-centriole-dependent centriole duplication; the function seems also to involve CEP152, CDK5RAP2 and WDR62 through a stepwise assembled complex at the centrosome that recruits CDK2 required for centriole duplication (PubMed:21983783, PubMed:26297806). Reported to be required for centrosomal recruitment of CEP152; however, this function has been questioned (PubMed:21983783, PubMed:26297806). Also recruits CDK1 to centrosomes (PubMed:21406398). Plays a role in DNA damage response (PubMed:21406398). Following DNA damage, such as double-strand breaks (DSBs), is removed from centrosomes; this leads to the inactivation of spindle assembly and delay in mitotic progression (PubMed:21406398). Promotes stabilization of FXR1 protein by inhibiting FXR1 ubiquitination (PubMed:35989368).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriolar satellite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEALLEGIQNRGHGGGFLTSCEAELQELMKQIDIMVAHKKSEWEGRTHALETCLKIREQELKSLRSQLDVTHKEVGMLHQQVEEHEKIKQEMTMEYKQELKKLHEELCILKRSYEKLQKKQMREFRGNTKNHREDRSEIERLTAKIEEFRQKSLDWEKQRLIYQQQVSSLEAQRKALAEQSEIIQAQLVNRKQKLESVELSSQSEIQHLSSKLERANDTICANELEIERLTMRVNDLVGTSMTVLQEQQQKEEKLRESEKLLEALQEEKRELKAALQSQENLIHEARIQKEKLQEKVKATNTQHAVEAISLESVSATCKQLSQELMEKYEELKRMEAHNNEYKAEIKKLKEQILQGEQSYSSALEGMKMEISHLTQELHQRDITIASTKGSSSDMEKRLRAEMQKAEDKAVEHKEILDQLESLKLENRHLSEMVMKLELGLHERWGFTMLSSLVLNFGIQAIRQPQRPKVLELQV
+PTM	Methylation:62,101,111,296,379;Phosphorylation:231,278,494,511,523;Ubiquitylation:39,55,145,269,470

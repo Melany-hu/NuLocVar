@@ -1,0 +1,25 @@
+UniprotID	P82650-2
+Accession	P82650;Q9H3I1
+EntryName	RT22_HUMAN
+ProteinName	Small ribosomal subunit protein mS22 (28S ribosomal protein S22, mitochondrial) (MRP-S22) (S22mt)
+GeneName	MRPS22 C3orf5 RPMS22 GK002
+Length	168
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPLGTTVLLWSLLRSSPGVERVCFRARIQPWHGGLLQPLPCSFEMGLPRRRFSSEAESGSPETKKPTFMDEEVQSILTKMTGLNLQKTFKPAIQELKPPTYKLMTQAQLEEATRQAVEAAKVRLKMPPVLEERVPINDVLAEDKILEGTETTKYVFTDISYSIPHRC
+PTM	Acetylation:123,211,248,255,258,333;Methylation:81,99,123,146,155,183,211,255,279,329;Phosphorylation:54,69,77,151,153,154,196,264,265,274;SUMOylation:99,146,203,211,333;Ubiquitylation:123,127,203,211,255,258,329,333

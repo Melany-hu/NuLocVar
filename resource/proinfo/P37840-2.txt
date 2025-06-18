@@ -1,0 +1,25 @@
+UniprotID	P37840-2
+Accession	P37840;A8K2A4;Q13701;Q4JHI3;Q6IAU6
+EntryName	SYUA_HUMAN
+ProteinName	Alpha-synuclein (Non-A beta component of AD amyloid) (Non-A4 component of amyloid precursor) (NACP)
+GeneName	SNCA NACP PARK1
+Length	112
+Function	Neuronal protein that plays several roles in synaptic activity such as regulation of synaptic vesicle trafficking and subsequent neurotransmitter release (PubMed:20798282, PubMed:26442590, PubMed:28288128, PubMed:30404828). Participates as a monomer in synaptic vesicle exocytosis by enhancing vesicle priming, fusion and dilation of exocytotic fusion pores (PubMed:28288128, PubMed:30404828). Mechanistically, acts by increasing local Ca(2+) release from microdomains which is essential for the enhancement of ATP-induced exocytosis (PubMed:30404828). Also acts as a molecular chaperone in its multimeric membrane-bound state, assisting in the folding of synaptic fusion components called SNAREs (Soluble NSF Attachment Protein REceptors) at presynaptic plasma membrane in conjunction with cysteine string protein-alpha/DNAJC5 (PubMed:20798282). This chaperone activity is important to sustain normal SNARE-complex assembly during aging (PubMed:20798282). Also plays a role in the regulation of the dopamine neurotransmission by associating with the dopamine transporter (DAT1) and thereby modulating its activity (PubMed:26442590).
+Subcellular Location	Cytoplasm; Membrane; Nucleus; Synapse; Secreted; Cell projection; Axon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVFMKGLSKAKEGVVAAAEKTKQGVAEAAGKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAAATGFVKKDQLGKEGYQDYEPEA
+PTM	Acetylation:6,10,21,58,80,96;Glycosylation:54;Methylation:32,96;Phosphorylation:39,42,87,92;Ubiquitylation:21,32,43,96

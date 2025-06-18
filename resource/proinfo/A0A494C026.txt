@@ -1,0 +1,25 @@
+UniprotID	A0A494C026
+Accession	A0A494C026
+EntryName	A0A494C026_HUMAN
+ProteinName	Protein kinase AMP-activated non-catalytic subunit gamma 2
+GeneName	PRKAG2
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	159...163
+validnes_region	
+nesbase_region	
+Sequence	MLEKLEFEDEAVEDSESGVYMRFMRSHKCYDIVPTSSKLVVFDTTLQVKKAFFALVANGVRAAPLWESKKQSFVGMLTITDFINILHRYYKSPMVQIYELEEHKIETWRELYLQETFKPLVNISPDASLFDAVYSLIKNKIHRLPVIDPISGNALYILTHKRILKFLQLFESHDLNIDELFDLNILFLLIVHLFLIIIRCLICQSLPS
+PTM	

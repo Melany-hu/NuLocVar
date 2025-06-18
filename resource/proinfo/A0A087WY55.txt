@@ -1,0 +1,25 @@
+UniprotID	A0A087WY55
+Accession	A0A087WY55
+EntryName	A0A087WY55_HUMAN
+ProteinName	Chromosome 6 open reading frame 55, isoform CRA_b (Vesicle trafficking 1)
+GeneName	VTA1 C6orf55 hCG_18120
+Length	280
+Function	
+Subcellular Location	Cytoplasm; Endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALAPLPPLPAQFKSIQHHLRTAQEHDKRDPVVAYYCRLYAMQTGMKIDSKTPECRKFLSKLMDQLEALKKQLGDNEAITQEIVGCAHLENYALKMFLYADNEDRAGRFHKNMIKSFYTASLLIDVITVFGELTDENVKHRKYARWKATYIHNCLKNGETPQAGPVGIEEDNDIEENEDAGAASLPTQPTQPSSSSTYDPSNMPSGNYTGIQIPPGAHAPANTPAEVPHSTGDVRLTPEDFARAQKYCKYAGSALQYEDVSTAVQNLQKALKLLTTGRE
+PTM	

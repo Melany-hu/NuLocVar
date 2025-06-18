@@ -1,0 +1,25 @@
+UniprotID	O43299-3
+Accession	O43299;Q8N3X2;Q96H80
+EntryName	AP5Z1_HUMAN
+ProteinName	AP-5 complex subunit zeta-1 (Adaptor-related protein complex 5 zeta subunit) (Zeta5)
+GeneName	AP5Z1 KIAA0415 SPG48
+Length	446
+Function	As part of AP-5, a probable fifth adaptor protein complex it may be involved in endosomal transport. According to PubMed:20613862 it is a putative helicase required for efficient homologous recombination DNA double-strand break repair.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKVVVLSPGTLQEDQATLLSKRLVDWLRYASLQQGLPHSGGFFSTPRARQPGPVTEVDGAVATDFFTVLSSGHRFTDDQWLNVQAFSMLRAWLLHSGPEGPGTLDTDDRSEQEGSTLSVISATSSAGRLLPPRERLREVAFEYCQRLIEQSNRRALRKGDSDLQKACLVEAVLVLDVLCRQDPSFLYRSLSCLKALHGRVRGDPASVRVLLPLAHFFLSHGEAAAVDSEAVYQHLFTRIPVEQFHSPMLAFEFIQFCRDNLHLFSGHLSTLRLSFPNLFKFLAWNSPPLTSEFVALLPALVDAGTALEMLHALLDLPCLTAVLDLQLRSAPAASERPLWDTSLRAPSCLEAFRDPQFQGLFQYLLRPKASGATERLAPLHQLLQPMAGCARVAQCAQAVPTLLQAFFSAVTQVADGSLINQLALLLLGRSDSLYPAPGYAAGVHR
+PTM	Methylation:22,178,322,725,759;Phosphorylation:142,149,177,394,736,776;Ubiquitylation:22,30,178,351,525,725

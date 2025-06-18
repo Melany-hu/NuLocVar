@@ -1,0 +1,25 @@
+UniprotID	O00592-2
+Accession	O00592;A6NHX8;Q52LZ7;Q53ER6
+EntryName	PODXL_HUMAN
+ProteinName	Podocalyxin (GCTM-2 antigen) (Gp200) (Podocalyxin-like protein 1) (PC) (PCLP-1)
+GeneName	PODXL PCLP PCLP1
+Length	526
+Function	Involved in the regulation of both adhesion and cell morphology and cancer progression. Functions as an anti-adhesive molecule that maintains an open filtration pathway between neighboring foot processes in the podocyte by charge repulsion. Acts as a pro-adhesive molecule, enhancing the adherence of cells to immobilized ligands, increasing the rate of migration and cell-cell contacts in an integrin-dependent manner. Induces the formation of apical actin-dependent microvilli. Involved in the formation of a preapical plasma membrane subdomain to set up initial epithelial polarization and the apical lumen formation during renal tubulogenesis. Plays a role in cancer development and aggressiveness by inducing cell migration and invasion through its interaction with the actin-binding protein EZR. Affects EZR-dependent signaling events, leading to increased activities of the MAPK and PI3K pathways in cancer cells.
+Subcellular Location	Apical cell membrane; Cell projection; Lamellipodium; Cell projection; Filopodium; Cell projection; Ruffle; Cell projection; Microvillus; Membrane raft; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRCALALSALLLLLSTPPLLPSSPSPSPSPSQNATQTTTDSSNKTAPTPASSVTIMATDTAQQSTVPTSKANEILASVKATTLGVSSDSPGTTTLAQQVSGPVNTTVARGGGSGNPTTTIESPKSTKSADTTTVATSTATAKPNTTSSQNGAEDTTNSGGKSSHSVTTDLTSTKAEHLTTPHPTSPLSPRQPTSTHPVATPTSSGHDHLMKISSSSSTVAIPGYTFTSPGMTTTLPSSVISQRTQQTSSQMPASSTAPSSQETVQPTSPATALRTPTLPETMSSSPTAASTTHRYPKTPSPTVAHESNWAKCEDLETQTQSEKQLVLNLTGNTLCAGGASDEKLISLICRAVKATFNPAQDKCGIRLASVPGSQTVVVKEITIHTKLPAKDVYERLKDKWDELKEAGVSDMKLGDQGPPEEAEDRFSMPLIITIVCMASFLLLVAALYGCCHQRLSQRKDQQRLTEELQTVENGYHDNPTLEVMETSSEMQEKKVVSLNGELGDSWIVPLDNLTKDDLDEEEDTHL
+PTM	Acetylation:385,394,418,422,431,436;Glycosylation:43,117,118,119,122,125,126,155,156,193,194,195,200,203,204,330,332,334,339,351,360,387,401,405,407,505,510;Methylation:355,436;Phosphorylation:41,122,185,502,518,519,520,529,537;SUMOylation:525,526;Ubiquitylation:385,394,444,525,526,547

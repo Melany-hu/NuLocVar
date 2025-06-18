@@ -1,0 +1,25 @@
+UniprotID	P68366-2
+Accession	P68366;A8MUB1;B3KNQ6;P05215
+EntryName	TBA4A_HUMAN
+ProteinName	Tubulin alpha-4A chain (EC 3.6.5.-) (Alpha-tubulin 1) (Testis-specific alpha-tubulin) (Tubulin H2-alpha) (Tubulin alpha-1 chain)
+GeneName	TUBA4A TUBA1
+Length	433
+Function	Tubulin is the major constituent of microtubules, a cylinder consisting of laterally associated linear protofilaments composed of alpha- and beta-tubulin heterodimers. Microtubules grow by the addition of GTP-tubulin dimers to the microtubule end, where a stabilizing cap forms. Below the cap, tubulin dimers are in GDP-bound state, owing to GTPase activity of alpha-tubulin.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNACWELYCLEHGIQPDGQMPSDKTIGGGDDSFTTFFCETGAGKHVPRAVFVDLEPTVIDEIRNGPYRQLFHPEQLITGKEDAANNYARGHYTIGKEIIDPVLDRIRKLSDQCTGLQGFLVFHSFGGGTGSGFTSLLMERLSVDYGKKSKLEFSIYPAPQVSTAVVEPYNSILTTHTTLEHSDCAFMVDNEAIYDICRRNLDIERPTYTNLNRLISQIVSSITASLRFDGALNVDLTEFQTNLVPYPRIHFPLATYAPVISAEKAYHEQLSVAEITNACFEPANQMVKCDPRHGKYMACCLLYRGDVVPKDVNAAIAAIKTKRSIQFVDWCPTGFKVGINYQPPTVVPGGDLAKVQRAVCMLSNTTAIAEAWARLDHKFDLMYAKRAFVHWYVGEGMEEGEFSEAREDMAALEKDYEEVGIDSYEDEDEGEE
+PTM	Acetylation:60,96,112,163,164,304,311,326,336,370,394,401,430;Glycosylation:101;Methylation:40,96,112,163,164,166,280,304,326,339,352,370,401,430;Phosphorylation:41,48,50,94,103,108,109,158,161,210,223,224,225,232,236,237,239,241,253,257,262,271,272,277,282,287,292,312,319,337,340,349,357,361,379,381,382,399,408,419;SUMOylation:96,112,163,304,311,326,336,370,394,401;Ubiquitylation:60,96,112,163,164,166,280,304,311,326,336,338,352,370,394,401,430

@@ -1,0 +1,25 @@
+UniprotID	U3KQP5
+Accession	U3KQP5
+EntryName	U3KQP5_HUMAN
+ProteinName	Sorting nexin 5
+GeneName	SNX5
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVPELLQQQEEDRSKNQRRGTLAPAQAPVPSGLGEMISGDPGMFFLKLSSASW
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	K7EJH6
+Accession	K7EJH6
+EntryName	K7EJH6_HUMAN
+ProteinName	FXYD domain containing ion transport regulator 5
+GeneName	FXYD5
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPSGRLCLLTIVGLILPTRGQTLKDTTSSSSADSTIMDIQVPTRAPGEERDTSIKILSLQITTATKIPNLDQTREFMDLCNEKVQMQSTQNSSPPLQPQPGLLMKHHNPRPRPSNWKERMGL
+PTM	

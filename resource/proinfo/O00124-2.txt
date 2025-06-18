@@ -1,0 +1,25 @@
+UniprotID	O00124-2
+Accession	O00124;Q7Z6F2
+EntryName	UBXN8_HUMAN
+ProteinName	UBX domain-containing protein 8 (Reproduction 8 protein) (Rep-8 protein) (UBX domain-containing protein 6)
+GeneName	UBXN8 D8S2298E REP8 UBXD6
+Length	229
+Function	Involved in endoplasmic reticulum-associated degradation (ERAD) for misfolded lumenal proteins, possibly by tethering VCP to the endoplasmic reticulum membrane. May play a role in reproduction.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRGVVGIFFLSAVPLVCLELRRGIPDIGIKDFLLLCGRILLLLALLTLIISVTTSWLNSFKSPQVYLKEEEEKNEKRQKLVRKKQQEAQGEKGDEGTSQTSFETSNREAAKSQNLPKPLTEFPSPAEQPTCKEIPDLPEEPSQTAEEVVTVALRCPSGNVLRRRFLKSYSSQVLFDWMTRIGYHISLYSLSTSFPRRPLAVEGGQSLEDIGITVDTVLILEEKEQTN
+PTM	Methylation:104,160;Phosphorylation:122,167;Ubiquitylation:104,127,133,160

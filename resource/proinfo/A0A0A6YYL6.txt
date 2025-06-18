@@ -1,0 +1,25 @@
+UniprotID	A0A0A6YYL6
+Accession	A0A0A6YYL6
+EntryName	A0A0A6YYL6_HUMAN
+ProteinName	Large ribosomal subunit protein uL22 (60S ribosomal protein L17)
+GeneName	RPL17-C18orf32
+Length	228
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRYSLDPENPTKSCKSRGSNLRVHFKNTRETAQAIKGMHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKEQIVPKPEEEVAQKKKLRSSSLGKWCAFLVSSFQFCSGSTKNSWSHIYTLWFPPSLVVYGLRKQYKNPMIQTKAK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P30203-3
+Accession	P30203;A4KAD4;A4KAD5;Q8WWJ3;Q8WWJ4;Q8WWJ5;Q8WWJ6;Q8WWJ7;Q9UMF2;Q9Y4K7;Q9Y4K8;Q9Y4K9;Q9Y4L0
+EntryName	CD6_HUMAN
+ProteinName	T-cell differentiation antigen CD6 (T12) (TP120) (CD antigen CD6) [Cleaved into: Soluble CD6]
+GeneName	CD6
+Length	595
+Function	Cell adhesion molecule that mediates cell-cell contacts and regulates T-cell responses via its interaction with ALCAM/CD166 (PubMed:15048703, PubMed:15294938, PubMed:16352806, PubMed:16914752, PubMed:24584089, PubMed:24945728). Contributes to signaling cascades triggered by activation of the TCR/CD3 complex (PubMed:24584089). Functions as a costimulatory molecule; promotes T-cell activation and proliferation (PubMed:15294938, PubMed:16352806, PubMed:16914752). Contributes to the formation and maturation of the immunological synapse (PubMed:15294938, PubMed:16352806). Functions as a calcium-dependent pattern receptor that binds and aggregates both Gram-positive and Gram-negative bacteria. Binds both lipopolysaccharide (LPS) from Gram-negative bacteria and lipoteichoic acid from Gram-positive bacteria (PubMed:17601777). LPS binding leads to the activation of signaling cascades and down-stream MAP kinases (PubMed:17601777). Mediates activation of the inflammatory response and the secretion of pro-inflammatory cytokines in response to LPS (PubMed:17601777).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLFFGITGLLTAALSGHPSPAPPDQLNTSSAESELWEPGERLPVRLTNGSSSCSGTVEVRLEASWEPACGALWDSRAAEAVCRALGCGGAEAASQLAPPTPELPPPPAAGNTSVAANATLAGAPALLCSGAEWRLCEVVEHACRSDGRRARVTCAENRALRLVDGGGACAGRVEMLEHGEWGSVCDDTWDLEDAHVVCRQLGCGWAVQALPGLHFTPGRGPIHRDQVNCSGAEAYLWDCPGLPGQHYCGHKEDAGAVCSEHQSWRLTGGADRCEGQVEVHFRGVWNTVCDSEWYPSEAKVLCQSLGCGTAVERPKGLPHSLSGRMYYSCNGEELTLSNCSWRFNNSNLCSQSLAARVLCSASRSLHNLSTPEVPASVQTVTIESSVTVKIENKESRELMLLIPSIVLGILLLGSLIFIAFILLRIKGKYDSQRHRVTDEEVQQSRFQMPPLEEGLEELHASHIPTANPGHCITDPPSLGPQYHPRSNSESSTSSGEDYCNSPKSKLPPWNPQVFSSERSSFLEQPPNLELAGTQPAFSAGPPADDSSSTSSGEWYQNFQPPPQPPSEEQFGCPGSPSPQPDSTDNDDYDDISAA
+PTM	Glycosylation:49;Methylation:390,394,461;Phosphorylation:430

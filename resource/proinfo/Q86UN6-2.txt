@@ -1,0 +1,25 @@
+UniprotID	Q86UN6-2
+Accession	Q86UN6;A6NNZ0;Q86UN4;Q86UN5
+EntryName	AKA28_HUMAN
+ProteinName	A-kinase anchor protein 14 (AKAP-14) (A-kinase anchor protein 28 kDa) (AKAP 28) (Protein kinase A-anchoring protein 14) (PRKA14)
+GeneName	AKAP14 AKAP28
+Length	137
+Function	Binds to type II regulatory subunits of protein kinase A and anchors/targets them.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSETQNSTSQKAMDEDNKAASQTMPNTQDKNYEDELTQVALALVEDVINYAVKIVEEERNPLKNIKWMTHGEFTVEKGLKQIDEYFSDAPIVVSYVGDHQALVHRPGMVRFRENWQKNLTDAKYSFMESFPFLFNRV
+PTM	Methylation:53,88

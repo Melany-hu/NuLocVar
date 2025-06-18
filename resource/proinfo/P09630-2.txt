@@ -1,0 +1,25 @@
+UniprotID	P09630-2
+Accession	P09630;B2RBV2;Q6DK09
+EntryName	HXC6_HUMAN
+ProteinName	Homeobox protein Hox-C6 (Homeobox protein CP25) (Homeobox protein HHO.C8) (Homeobox protein Hox-3C)
+GeneName	HOXC6 HOX3C
+Length	153
+Function	Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	111...115;110...116
+validnes_region	
+nesbase_region	
+Sequence	MLSNCRQNTLGHNTQTSIAQDFSSEQGRTAPQDQKASIQIYPWMQRMNSHSGVGYGADRRRGRQIYSRYQTLELEKEFHFNRYLTRRRRIEIANALCLTERQIKIWFQNRRMKWKKESNLTSTLSGGGGGATADSLGGKEEKREETEEEKQKE
+PTM	Acetylation:221;Methylation:158;Phosphorylation:66,217;SUMOylation:117

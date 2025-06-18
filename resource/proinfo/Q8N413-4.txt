@@ -1,0 +1,25 @@
+UniprotID	Q8N413-4
+Accession	Q8N413;Q6PL49;Q8IW29
+EntryName	S2545_HUMAN
+ProteinName	Solute carrier family 25 member 45
+GeneName	SLC25A45
+Length	264
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVEEFVAGWISGALGLVLGHPFDTVKLLGFFKGMSFPIASIAVVNSVLFGVYSNTLLVLTATSHQERRAQPPSYMHIFLAGCTGGFLQAYCLAPFDLIKVRLQNQTEPRAQPGSPPPRYQGPVHCAASIFREEGPRGLFRGAWALTLRDTPTVGIYFITYEGLCRQYTPEGQNPSSATVLVAGGFAGIASWVAATPLDMIKSRMQMDGLRRRVYQGMLDCMVSSIRQEGLGVFFRGVTINSARAFPVNAVTFLSYEYLLRWWG
+PTM	Methylation:57,124;Phosphorylation:32,34,35,36,139,239,248,249

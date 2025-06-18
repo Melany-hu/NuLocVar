@@ -1,0 +1,25 @@
+UniprotID	Q92692-2
+Accession	Q92692;A8K5L5;O75455;Q6IBI6;Q96J29
+EntryName	NECT2_HUMAN
+ProteinName	Nectin-2 (Herpes virus entry mediator B) (Herpesvirus entry mediator B) (HveB) (Nectin cell adhesion molecule 2) (Poliovirus receptor-related protein 2) (CD antigen CD112)
+GeneName	NECTIN2 HVEB PRR2 PVRL2
+Length	479
+Function	Modulator of T-cell signaling. Can be either a costimulator of T-cell function, or a coinhibitor, depending on the receptor it binds to. Upon binding to CD226, stimulates T-cell proliferation and cytokine production, including that of IL2, IL5, IL10, IL13, and IFNG. Upon interaction with PVRIG, inhibits T-cell proliferation. These interactions are competitive (PubMed:26755705). Probable cell adhesion protein (PubMed:9657005).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARAAALLPSRSPPTPLLWPLLLLLLLETGAQDVRVQVLPEVRGQLGGTVELPCHLLPPVPGLYISLVTWQRPDAPANHQNVAAFHPKMGPSFPSPKPGSERLSFVSAKQSTGQDTEAELQDATLALHGLTVEDEGNYTCEFATFPKGSVRGMTWLRVIAKPKNQAEAQKVTFSQDPTTVALCISKEGRPPARISWLSSLDWEAKETQVSGTLAGTVTVTSRFTLVPSGRADGVTVTCKVEHESFEEPALIPVTLSVRYPPEVSISGYDDNWYLGRTDATLSCDVRSNPEPTGYDWSTTSGTFPTSAVAQGSQLVIHAVDSLFNTTFVCTVTNAVGMGRAEQVIFVRETPRASPRDVGPLVWGAVGGTLLVLLLLAGGSLAFILLRVRRRRKSPGGAGGGASGDGGFYDPKAQVLGNGDPVFWTPVVPGPMEPDGKDEEEEEEEEKAEKGLMLPPPPALEDDMESQLDGSLISRRAVYV
+PTM	Glycosylation:95,137;Phosphorylation:10,95,100,104,390,405,406,410,422,426,430,433,445,447,454,459,513,517,518,520,522,524,525;SUMOylation:414;Ubiquitylation:387,407,414,528

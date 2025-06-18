@@ -1,0 +1,25 @@
+UniprotID	Q53SF9
+Accession	Q53SF9
+EntryName	Q53SF9_HUMAN
+ProteinName	Uncharacterized protein DTNB
+GeneName	DTNB
+Length	238
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EGRGKLTVFSVKAMLATMCGGKMLDKLRYVFSQMSDSNGLMIFSKFDQFLKEVLKLPTAVFEGPSFGYTEHSVRTCFPQQRKIMLNMFLDTMMADPPPQCLVWLPLMHRLAHVENVFHPVECSYCRCESMMGFRYRCQQCHNYQLCQNCFWRGHAGGPHSNQHQMKEHSSWKSPAKKLSHAISKSLGCVPTREPPHPVFPEQPEKPLDLAHIVPPRPLTNMNDTMVSHMSSGVPTPTK
+PTM	

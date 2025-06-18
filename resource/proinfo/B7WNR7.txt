@@ -1,0 +1,25 @@
+UniprotID	B7WNR7
+Accession	B7WNR7
+EntryName	B7WNR7_HUMAN
+ProteinName	Transmembrane protein 196
+GeneName	TMEM196
+Length	179
+Function	
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCTSGQIIGSLLVLSVLEIGLGVSSVAVGAVSFSLALREHKPQLGDSSPFLLCGICGILCAKKKSGLVMILFSACCICGLIGGILNFQFLRAVTKKTSSLYPLHLASMSLACIGIGGCTLSSWLTCRLASYEQRRMFSEREHSLHHSHEMAEKRLRAIEITDLPSCPVVPPTPELPTRK
+PTM	

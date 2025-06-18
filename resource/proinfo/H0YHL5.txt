@@ -1,0 +1,25 @@
+UniprotID	H0YHL5
+Accession	H0YHL5
+EntryName	H0YHL5_HUMAN
+ProteinName	protein kinase C (EC 2.7.11.13)
+GeneName	PRKD1
+Length	157
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SSTVMKEGWMVHYTSKDTLRKRHYWRLDSKCITLFQNDTGSRYYKEIPLSEILSLEPVKTSALIPNGANPHCFEITTANVVYYVGENVVNPSSPSPNNSVLTSGVGADVARMWEIAIQHALMPVIPKGSSVGTGTNLHSESASFLTSPKLIMCLPLA
+PTM	

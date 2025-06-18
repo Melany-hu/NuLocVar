@@ -1,0 +1,25 @@
+UniprotID	P98173-3
+Accession	P98173;A6QRH6;B2RBI7;B4DFI8;D3DWX4;Q5HY76;Q96H51
+EntryName	FAM3A_HUMAN
+ProteinName	Protein FAM3A (Cytokine-like protein 2-19)
+GeneName	FAM3A 2-19 2.19
+Length	192
+Function	May act as a defensin against invading fungal microorganisms.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLAGPESSVTAAPRARKYKCGLPQPCPEEHLAFRVVSGAANVIGPKICLEDKMLMSSVKDNVGRGLNIALVNGVSGELIEARAFDMWAGDVNDLLKFIRPLHEGTLVFVASYDDPATKMNEETRKLFSELGSRNAKELAFRDSWVFVGAKGVQNKSPFEQHVKNSKHSNKYEGWPEALEMEGCIPRRSTAS
+PTM	Glycosylation:42,46,47,49;Methylation:135

@@ -1,0 +1,25 @@
+UniprotID	Q8WUH1-2
+Accession	Q8WUH1;A0A0C4DGJ7;B3KQ81;G3V1X3;G3V214;Q9H3K7
+EntryName	CHUR_HUMAN
+ProteinName	Protein Churchill
+GeneName	CHURC1 C14orf52 CHCH My015
+Length	113
+Function	Transcriptional activator that mediates FGF signaling during neural development (By similarity). Plays a role in the regulation of cell movement (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGDCVEKEYPNRGNTCLENGSFLLNFTGCAVCSKRDFMLITNKSLKEEDGEEIVTYDPDLCKNCHHVIARHEYTFSIMDEFQEYTMLCLLCGKAEDTISILPDDPRQMTLLF
+PTM	SUMOylation:74

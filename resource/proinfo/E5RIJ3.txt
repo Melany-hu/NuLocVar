@@ -1,0 +1,25 @@
+UniprotID	E5RIJ3
+Accession	E5RIJ3
+EntryName	E5RIJ3_HUMAN
+ProteinName	Tumor necrosis factor alpha-induced protein 8
+GeneName	TNFAIP8
+Length	68
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSKSIATTLIDDTSSEVLDELYRVTREYTQNKKEAEKIIKNLIKTVIKLAILYRNNQFNQDELALME
+PTM	

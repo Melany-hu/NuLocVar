@@ -1,0 +1,25 @@
+UniprotID	Q9NPF8-2
+Accession	Q9NPF8;Q8N4Q6;Q96SD5
+EntryName	ADAP2_HUMAN
+ProteinName	Arf-GAP with dual PH domain-containing protein 2 (Centaurin-alpha-2) (Cnt-a2)
+GeneName	ADAP2 CENTA2
+Length	380
+Function	GTPase-activating protein for the ADP ribosylation factor family (Potential). Binds phosphatidylinositol 3,4,5-trisphosphate (PtdInsP3) and inositol 1,3,4,5-tetrakisphosphate (InsP4). Possesses a stoichiometry of two binding sites for InsP4 with identical affinity.
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDRERNKKRLLELLRAPDTGNAHCADCGAADPDWASYKLGIFICLNCCGVHRNFPDISRVKSVRLDFWDDSIVEFMIHNGNLRVKAKFEARVPAFYYIPQANDCLVLKEQWIRAKYERREFMADGETISLPGNREGFLWKRGRDNSQFLRRKFVLLAREGLLKYFTKEQGKSPKAVISIKDLNATFQTEKIGHPHGLQITYRRDGHTRNLFVYHESGKEIVDWFNALRAARLQYLKMAFPELPESELVPFLTRNYLKQGFMEKTGPKKEPFKKRWFALDCHERRLLYYKNPLDAFEQGQVFLGNKEQGYEAYEDLPKGIRGNRWKAGLTIVTPERRFVLTCPSEKEQQEWLESLRGVLSSPLTPLNRLTASTESGRSSR
+PTM	Methylation:109,164,258,319;Phosphorylation:179,217;Ubiquitylation:307,347

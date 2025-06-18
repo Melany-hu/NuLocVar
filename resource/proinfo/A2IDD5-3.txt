@@ -1,0 +1,25 @@
+UniprotID	A2IDD5-3
+Accession	A2IDD5;B4DNY4;B4E1U6;Q05BY7;Q05CA0;Q6T2V5;Q6ZR33;Q8IUR3;Q8NAY7;Q96S12
+EntryName	CCD78_HUMAN
+ProteinName	Coiled-coil domain-containing protein 78 (hsCCDC78)
+GeneName	CCDC78 C16orf25 JFP10
+Length	273
+Function	Component of the deuterosome, a structure that promotes de novo centriole amplification in multiciliated cells that can generate more than 100 centrioles. Deuterosome-mediated centriole amplification occurs in terminally differentiated multiciliated cells (G1/0) and not in S phase. Essential for centriole amplification and is required for CEP152 localization to the deuterosome.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Perinuclear region; Cell membrane; Sarcolemma; Sarcoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEHAATTGPRPGPPSRRVENVVLRAKDWLPGAPGGTAVWATSLEAEVPPDLALNKEQQLQISKELVDIQITTHHLHEQHEAEIFQLKSEILRLESRVLELELRGDGTSQGCAVPVESDPRHPRAAAQELRHKAQVPGHSDDHRFQVQPKNTMNPENEQHRLGSGVSVQPPSSGERAAPETPSLGSHPASPVCPTAAGGSEVGAGASGGPAAGTGDACVSGHLTWGPILEQREPLIVGLLSLTPVSSGQPWAGSCREPERRPGQPGSDWPHRLW
+PTM	Methylation:63;Phosphorylation:243,360,361

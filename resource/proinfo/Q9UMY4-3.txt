@@ -1,0 +1,25 @@
+UniprotID	Q9UMY4-3
+Accession	Q9UMY4;F8W8K5;Q8WUG9
+EntryName	SNX12_HUMAN
+ProteinName	Sorting nexin-12
+GeneName	SNX12
+Length	158
+Function	May be involved in several stages of intracellular trafficking.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDTAVADTRRLNSKPQDLTDAYGPPSNFLEIDIFNPQTVGVGRARFTTYETNLPIFKLKESCVRRRYSDFEWLKNELERDSKIVVPPLPGKALKRQLPFRGDEGIFEESFIEERRQGLEQFINKIAGHPLAQNERCLHMFLQEEAIDRNYVPGKVRQ
+PTM	Methylation:44,62,129;Phosphorylation:2,14,20,23,27,72,73,114;SUMOylation:79,87;Ubiquitylation:62,79,87,96,99,129

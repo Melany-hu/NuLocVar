@@ -1,0 +1,25 @@
+UniprotID	Q14694-2
+Accession	Q14694;B2RDJ8;B4DS84;Q9BWG7;Q9NSL7
+EntryName	UBP10_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 10 (EC 3.4.19.12) (Deubiquitinating enzyme 10) (Ubiquitin thioesterase 10) (Ubiquitin-specific-processing protease 10)
+GeneName	USP10 KIAA0190
+Length	846
+Function	Hydrolase that can remove conjugated ubiquitin from target proteins such as p53/TP53, RPS2/us5, RPS3/us3, RPS10/eS10, BECN1, SNX3 and CFTR (PubMed:11439350, PubMed:18632802, PubMed:31981475). Acts as an essential regulator of p53/TP53 stability: in unstressed cells, specifically deubiquitinates p53/TP53 in the cytoplasm, leading to counteract MDM2 action and stabilize p53/TP53 (PubMed:20096447). Following DNA damage, translocates to the nucleus and deubiquitinates p53/TP53, leading to regulate the p53/TP53-dependent DNA damage response (PubMed:20096447). Component of a regulatory loop that controls autophagy and p53/TP53 levels: mediates deubiquitination of BECN1, a key regulator of autophagy, leading to stabilize the PIK3C3/VPS34-containing complexes (PubMed:21962518). In turn, PIK3C3/VPS34-containing complexes regulate USP10 stability, suggesting the existence of a regulatory system by which PIK3C3/VPS34-containing complexes regulate p53/TP53 protein levels via USP10 and USP13 (PubMed:21962518). Does not deubiquitinate MDM2 (PubMed:20096447). Plays a key role in 40S ribosome subunit recycling when a ribosome has stalled during translation: acts both by inhibiting formation of stress granules, which store stalled translation pre-initiation complexes, and mediating deubiquitination of 40S ribosome subunits (PubMed:27022092, PubMed:31981475, PubMed:34348161, PubMed:34469731). Acts as a negative regulator of stress granules formation by lowering G3BP1 and G3BP2 valence, thereby preventing G3BP1 and G3BP2 ability to undergo liquid-liquid phase separation (LLPS) and assembly of stress granules (PubMed:11439350, PubMed:27022092, PubMed:32302570). Promotes 40S ribosome subunit recycling following ribosome dissociation in response to ribosome stalling by mediating deubiquitination of 40S ribosomal proteins RPS2/us5, RPS3/us3 and RPS10/eS10, thereby preventing their degradation by the proteasome (PubMed:31981475, PubMed:34348161, PubMed:34469731). Part of a ribosome quality control that takes place when ribosomes have stalled during translation initiation (iRQC): USP10 acts by removing monoubiquitination of RPS2/us5 and RPS3/us3, promoting 40S ribosomal subunit recycling (PubMed:34469731). Deubiquitinates CFTR in early endosomes, enhancing its endocytic recycling (PubMed:19398555). Involved in a TANK-dependent negative feedback response to attenuate NF-kappa-B activation via deubiquitinating IKBKG or TRAF6 in response to interleukin-1-beta (IL1B) stimulation or upon DNA damage (PubMed:25861989). Deubiquitinates TBX21 leading to its stabilization (PubMed:24845384). Plays a negative role in the RLR signaling pathway upon RNA virus infection by blocking the RIGI-mediated MAVS activation. Mechanistically, removes the unanchored 'Lys-63'-linked polyubiquitin chains of MAVS to inhibit its aggregation, essential for its activation (PubMed:37582970).
+Subcellular Location	Cytoplasm; Nucleus; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	197...203
+validnes_region	
+nesbase_region	
+Sequence	MCSKDTVLSVCALYWRKGIQSHTPLIGAWRRGKQREQPEDRGVPMKRAAALHSPQYIFGDFSPDEFNQFFVTPRSSVELPPYSGTVLCGTQAVDKLPDGQEYQRIEFGVDEVIEPSDTLPRTPSYSISSTLNPQAPEFILGCTASKITPDGITKEASYGSIDCQYPGSALALDGSSNVEAEVLENDGVSGGLGQRERKKKKKRPPGYYSYLKDGGDDSISTEALVNGHANSAVPNSVSAEDAEFMGDMPPSVTPRTCNSPQNSTDSVSDIVPDSPFPGALGSDTRTAGQPEGGPGADFGQSCFPAEAGRDTLSRTAGAQPCVGTDTTENLGVANGQILESSGEGTATNGVELHTTESIDLDPTKPESASPPADGTGSASGTLPVSQPKSWASLFHDSKPSSSSPVAYVETKYSPPAISPLVSEKQVEVKEGLVPVSEDPVAIKIAELLENVTLIHKPVSLQPRGLINKGNWCYINATLQALVACPPMYHLMKFIPLYSKVQRPCTSTPMIDSFVRLMNEFTNMPVPPKPRQALGDKIVRDIRPGAAFEPTYIYRLLTVNKSSLSEKGRQEDAEEYLGFILNGLHEEMLNLKKLLSPSNEKLTISNGPKNHSVNEEEQEEQGEGSEDEWEQVGPRNKTSVTRQADFVQTPITGIFGGHIRSVVYQQSSKESATLQPFFTLQLDIQSDKIRTVQDALESLVARESVQGYTTKTKQEVEISRRVTLEKLPPVLVLHLKRFVYEKTGGCQKLIKNIEYPVDLEISKELLSPGVKNKNFKCHRTYRLFAVVYHHGNSATGGHYTTDVFQIGLNGWLRIDDQTVKVINQYQVVKPTAERTAYLLYYRRVDLL
+PTM	Acetylation:350,376,408,488,518,662,677,693,699,702,714,771,780;Methylation:47,381,420,543,677,780;Phosphorylation:5,8,14,24,27,54,74,76,77,78,80,81,82,95,100,112,160,205,208,211,215,216,218,220,226,236,321,341,354,355,362,364,365,370,374,509,516,547,549,563,576,600,624,691,694,713,718,791;SUMOylation:363;Ubiquitylation:376,381,395,408,451,488,512,518,552,588,662,664,677,693,699,702,714,722,771,780

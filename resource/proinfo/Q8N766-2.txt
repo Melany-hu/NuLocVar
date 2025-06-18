@@ -1,0 +1,25 @@
+UniprotID	Q8N766-2
+Accession	Q8N766;A8K6F3;Q14700;Q5TG62;Q63HL0;Q63HL3;Q8NBH8
+EntryName	EMC1_HUMAN
+ProteinName	ER membrane protein complex subunit 1
+GeneName	EMC1 KIAA0090 PSEC0263
+Length	992
+Function	Part of the endoplasmic reticulum membrane protein complex (EMC) that enables the energy-independent insertion into endoplasmic reticulum membranes of newly synthesized membrane proteins (PubMed:29242231, PubMed:29809151, PubMed:30415835, PubMed:32439656, PubMed:32459176). Preferentially accommodates proteins with transmembrane domains that are weakly hydrophobic or contain destabilizing features such as charged and aromatic residues (PubMed:29242231, PubMed:29809151, PubMed:30415835). Involved in the cotranslational insertion of multi-pass membrane proteins in which stop-transfer membrane-anchor sequences become ER membrane spanning helices (PubMed:29809151, PubMed:30415835). It is also required for the post-translational insertion of tail-anchored/TA proteins in endoplasmic reticulum membranes (PubMed:29242231, PubMed:29809151). By mediating the proper cotranslational insertion of N-terminal transmembrane domains in an N-exo topology, with translocated N-terminus in the lumen of the ER, controls the topology of multi-pass membrane proteins like the G protein-coupled receptors (PubMed:30415835). By regulating the insertion of various proteins in membranes, it is indirectly involved in many cellular processes (Probable).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAEWASRFWLWATLLIPAAAVYEDQVGKFDWRQQYVGKVKFASLEFSPGSKKLVVATEKNVIAALNSRTGEILWRHVDKGTAEGAVDAMLLHGQDVITVSNGGRIMRSWETNIGGLNWEITLDSGSFQALGLVGLQESVRYIAVLKKTTLALHHLSSGHLKWVEHLPESDSIHYQMVYSYGSGVVWALGVVPFSHVNIVKFNVEDGEIVQQVRVSTPWLQHLSGACGVVDEAVLVCPDPSSRSLQTLALETEWELRQIPLQSLDLEFGSGFQPRVLPTQPNPVDASRAQFFLHLSPSHYALLQYHYGTLSLLKNFPQTALVSFATTGEKTVAAVMACRNEVKSSSSEDGSMGSFSEKSSSKDSLACFNQTYTINLYLVETGRRLLDTTITFSLEQSGTRPERLYIQVFLKKDDSVGYRALVQTEDHLLLFLQQLAGKVVLWSREESLAEVVCLEMVDLPLTGAQAELEGEFGKKADGLLGMFLKRLSSQLILLQAWTSHLWKMFYDARKPRSQIKNEINIDTLARDEFNLQKMMVMVTASGKLFGIESSSGTILWKQYLPNVKPDSSFKLMVQRTTAHFPHPPQCTLLVKDKESGMSSLYVFNPIFGKWSQVAPPVLKRPILQSLLLPVMDQDYAKVLLLIDDEYKVTAFPATRNVLRQLHELAPSIFFYLVDAEQGRLCGYRLRKDLTTELSWELTIPPEVQRIVKVKGKRSSEHVHSQGRVMGDRSVLYKSLNPNLLAVVTESTDAHHERTFIGIFLIDGVTGRIIHSSVQKKAKGPVHIVHSENWVVYQYWNTKARRNEFTVLELYEGTEQYNATAFSSLDRPQLPQVLQQSYIFPSSISAMEATITERGITSRHLLIGLPSGAILSLPKALLDPRRPEIPTEQSREENLIPYSPDVQIHAERFINYNQTVSRMRGIYTAPSGLESTCLVVAYGLDIYQTRVYPSKQFDVLKDDYDYVLISSVLFGLVFATMITKRLAQVKLLNRAWR
+PTM	Glycosylation:818,911,913;Methylation:147,201,314,344,592,610,648,957;Phosphorylation:48,311,360,361,599,602,715,716,733,850,852;SUMOylation:517;Ubiquitylation:39,52,60,147,359,517,620,734,875,951,986

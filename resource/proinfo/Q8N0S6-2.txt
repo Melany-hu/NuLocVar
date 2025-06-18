@@ -1,0 +1,25 @@
+UniprotID	Q8N0S6-2
+Accession	Q8N0S6;Q5TEL5;Q96ND4
+EntryName	CENPL_HUMAN
+ProteinName	Centromere protein L (CENP-L) (Interphase centromere complex protein 33)
+GeneName	CENPL C1orf155 ICEN33
+Length	390
+Function	Component of the CENPA-CAD (nucleosome distal) complex, a complex recruited to centromeres which is involved in assembly of kinetochore proteins, mitotic progression and chromosome segregation. May be involved in incorporation of newly synthesized CENPA into centromeres via its interaction with the CENPA-NAC complex.
+Subcellular Location	Nucleus; Chromosome; Centromere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSYSAPESTPSASSRPEDYFIGATPLQKRLESVRKQSSFILTPPRRKIPQCSQLQEDVDPQKVAFLLHKQWTLYSLTPLYKFSYSNLKEYSRLLNAFIVAEKQKGLAVEVGEDFNIKVIFSTLLGMKGTQRDPEAFLVQGLILSPRLEYSGTILVDCNLCLLGSSDPSTLAFQVAGTAGACHHTRIVSKSQLPSENREGKVLWTGWFCCVFGDSLLETVSEDFTCLPLFLANGAESNTAIIGTWFQKTFDCYFSPLAINAFNLSWMAAMWTACKMDHYVATTEFLWSVPCSPQSLDISFAIHPEDAKALWDSVHKTPGEVTQEEVDLFMDCLYSHFHRHFKIHLSATRLVRVSTSVASAHTDGKIKILCHKYLIGVLAYLTELAIFQIE
+PTM	Methylation:103,128,144;Phosphorylation:5,9,10,12,14,15,38,39,43,53;SUMOylation:29;Ubiquitylation:48,63,89,144

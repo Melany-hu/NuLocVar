@@ -1,0 +1,25 @@
+UniprotID	F8W927
+Accession	F8W927
+EntryName	F8W927_HUMAN
+ProteinName	Calcyphosine 2
+GeneName	CAPS2
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDKLKKDLCYDQNIIPENLPAPTDKCKLKYQQCKTEIKEGYKQYSQRNAENTKSNVTHKQSPRNKIDEKCVQDEEANTDDLTTLDRKAILQQGYADNSCDKQQRARKLDAVSCQHFYLFGNCGCREEETDCCRASDDRPLI
+PTM	

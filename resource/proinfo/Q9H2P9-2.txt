@@ -1,0 +1,25 @@
+UniprotID	Q9H2P9-2
+Accession	Q9H2P9;A8JZY6;D3DT62;Q9P017;Q9P0I4;Q9Y319
+EntryName	DPH5_HUMAN
+ProteinName	Diphthine methyl ester synthase (EC 2.1.1.314) (Diphthamide biosynthesis methyltransferase)
+GeneName	DPH5 AD-018 CGI-30 HSPC143 NPD015
+Length	234
+Function	S-adenosyl-L-methionine-dependent methyltransferase that catalyzes four methylations of the modified target histidine residue in translation elongation factor 2 (EF-2), to form an intermediate called diphthine methyl ester. The four successive methylation reactions represent the second step of diphthamide biosynthesis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLYLIGLGLGDAKDITVKGLEVVRRCSRVYLEAYTSVLTVGKEALEEFYGRKLVVADREEVEQEADNILKDADISDVAFLVVGDHLDTWRPESFFDKVKKNRQNGMHTLCLLDIKVKEQSLENLIKGRKIYEPPRYMSVNQAAQQLLEIVQNQRIRGEEPAVTEETLCVGLARVGADDQKIAAGTLRQMCTVDLGEPLHSLIITGGSIHPMEMEMLSLFSIPENSSESQSINGL
+PTM	Acetylation:231;Methylation:70,166,177;Phosphorylation:30,35,36,171,236;SUMOylation:13,52,231;Ubiquitylation:13,18,52,100,177,231

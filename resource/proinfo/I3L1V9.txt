@@ -1,0 +1,25 @@
+UniprotID	I3L1V9
+Accession	I3L1V9
+EntryName	I3L1V9_HUMAN
+ProteinName	Sodium/potassium-transporting ATPase subunit beta
+GeneName	ATP1B2
+Length	166
+Function	Mediates cell adhesion of neurons and astrocytes, and promotes neurite outgrowth.
+Subcellular Location	Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRPKTENLDVIVNVSDTESWDQHVQKLNKFLEPYNDSIQAQKNDVCRPGRYYEQPDNGVLNYPKRACQFNRTQLGNCSGIGDSTHYGYSTGQPCVFIKMNRVINFYAGANQSMNVTCAGKRDEDAENLGNFVMFPANGNIDLMYFPYYGKKFHVNYTQPLVAVKF
+PTM	

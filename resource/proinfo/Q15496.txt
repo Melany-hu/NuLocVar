@@ -1,0 +1,25 @@
+UniprotID	Q15496
+Accession	Q15496
+EntryName	Q15496_HUMAN
+ProteinName	SMPD1 protein
+GeneName	SMPD1
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYAFTLHPNAQHRRTRIGTSVDLSCLLCFRIGGFYALSPYPGLRLISLNMNFCSRENFWLLINSTDPAGQLQWLVGELQAAEDRGDKVRASSGNTVVLGDKQAPVELEHLWAQKFYFPGIPNKCSLGIQLMVTVESLHSVPLSLARAAWTPGCPDYHP
+PTM	

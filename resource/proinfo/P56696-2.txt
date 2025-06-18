@@ -1,0 +1,25 @@
+UniprotID	P56696-2
+Accession	P56696;O96025
+EntryName	KCNQ4_HUMAN
+ProteinName	Potassium voltage-gated channel subfamily KQT member 4 (KQT-like 4) (Potassium channel subunit alpha KvLQT4) (Voltage-gated potassium channel subunit Kv7.4)
+GeneName	KCNQ4
+Length	641
+Function	Pore-forming subunit of the voltage-gated potassium (Kv) channel involved in the regulation of sensory cells excitability in the cochlea (PubMed:10025409, PubMed:34767770). KCNQ4/Kv7.4 channel is composed of 4 pore-forming subunits assembled as tetramers (PubMed:34767770). Promotes the outflow of potassium ions in the repolarization phase of action potential which plays a role in regulating membrane potential of excitable cells (PubMed:10025409, PubMed:11245603, PubMed:34767770). The channel conducts a slowly activating and deactivating current (PubMed:10025409, PubMed:11245603). Current often shows some inward rectification at positive potentials (PubMed:10025409). Channel may be selectively permeable in vitro to other cations besides potassium, in decreasing order of affinity K(+) = Rb(+) > Cs(+) > Na(+) (PubMed:10025409). Important for normal physiological function of inner ear such as sensory perception of sound (PubMed:10025409, PubMed:10369879).
+Subcellular Location	Basal cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEAPPRRLGLGPPPGDAPRAELVALTAVQSEQGEAGGGGSPRRLGLLGSPLPPGAPLPGPGSGSGSACGQRSSAAHKRYRRLQNWVYNVLERPRGWAFVYHVFIFLLVFSCLVLSVLSTIQEHQELANECLLILEFVMIVVFGLEYIVRVWSAGCCCRYRGWQGRFRFARKPFCVIDFIVFVASVAVIAAGTQGNIFATSALRSMRFLQILRMVRMDRRGGTWKLLGSVVYAHSKELITAWYIGFLVLIFASFLVYLAEKDANSDFSSYADSLWWGTITLTTIGYGDKTPHTWLGRVLAAGFALLGISFFALPAGILGSGFALKVQEQHRQKHFEKRRMPAANLIQAAWRLYSTDMSRAYLTATWYYYDSILPSFSSRMGIKDRIRMGSSQRRTGPSKQHLAPPTMPTSPSSEQVGEATSPTKVQKSWSFNDRTRFRASLRLKPRTSAEDAPSEEVAEEKSYQCELTVDDIMPAVKTVIRSIRILKFLVAKRKFKETLRPYDVKDVIEQYSAGHLDMLGRIKSLQTRVDQIVGRGPGDRKAREKGDKGPSDAEVVDEISMMGRVVKVEKQVQSIEHKLDLLLGFYSRCLRSGTSASLGAVQVPLFDPDITSDYHSPVDHEDISVSAQTLSISRSVSTNMD
+PTM	Methylation:261,546,599;Phosphorylation:235,410,484,489,494,640,641

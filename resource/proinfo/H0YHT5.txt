@@ -1,0 +1,25 @@
+UniprotID	H0YHT5
+Accession	H0YHT5
+EntryName	H0YHT5_HUMAN
+ProteinName	EF-hand calcium binding domain 2
+GeneName	EFCAB2
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIIVAEFHKKIKEAFEVFDHESNNTVDVREIGTIIRSLGCCPTEGELHDLIAEVEEEEPTGYIRFEKFLPVMTEILLERKYRPIPEDVLLRAFEVLDSAKRGFLTKDELIKYMTEEGKCDLLLITMTYVRN
+PTM	

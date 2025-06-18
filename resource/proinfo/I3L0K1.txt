@@ -1,0 +1,25 @@
+UniprotID	I3L0K1
+Accession	I3L0K1
+EntryName	I3L0K1_HUMAN
+ProteinName	Golgi SNAP receptor complex member 2
+GeneName	GOSR2
+Length	197
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCLPHFVIHSSVDGHLSCFHHWAVENNTAMNSGVEVSVLVSLLNFLRQVHEIQSCMGRLETADKQSVHIVENEIQASIDQIFSRLERLEILSSKEPPNKRQNARLRVDQLKYDVQHLQTALRNFQHRRHAREQQERQREELLSRTFTTNDSDTTIPMDESLQFNSSLQKVHNGMDDLILDGHNILDGLRTQRLTLKG
+PTM	

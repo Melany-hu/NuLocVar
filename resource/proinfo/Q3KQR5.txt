@@ -1,0 +1,25 @@
+UniprotID	Q3KQR5
+Accession	Q3KQR5
+EntryName	Q3KQR5_HUMAN
+ProteinName	C20orf194 protein
+GeneName	C20orf194
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTQQEIRSIHVKRHLEPLPAGYFYNGTQFVNFFGDKTDFHPLMDQFMNDYVEEANREIEKYNQELEQQEYHDLFELKP
+PTM	

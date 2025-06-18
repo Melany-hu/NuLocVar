@@ -1,0 +1,25 @@
+UniprotID	Q9BX79-3
+Accession	Q9BX79;A8K7F1;B7Z5M9;B7Z862;D3DW54;F5GYI8;I3L1G8;Q6PJF8;Q71RB9;Q7L9G1;Q7Z3U9;Q8TB21;Q9BX78;Q9H9U8
+EntryName	STRA6_HUMAN
+ProteinName	Receptor for retinol uptake STRA6 (Retinol-binding protein receptor STRA6) (Stimulated by retinoic acid gene 6 protein homolog)
+GeneName	STRA6 PP14296 UNQ3126/PRO10282/PRO19578
+Length	658
+Function	Functions as a retinol transporter. Accepts all-trans retinol from the extracellular retinol-binding protein RBP4, facilitates retinol transport across the cell membrane, and then transfers retinol to the cytoplasmic retinol-binding protein RBP1 (PubMed:18316031, PubMed:22665496, PubMed:9452451). Retinol uptake is enhanced by LRAT, an enzyme that converts retinol to all-trans retinyl esters, the storage forms of vitamin A (PubMed:18316031, PubMed:22665496). Contributes to the activation of a signaling cascade that depends on retinol transport and LRAT-dependent generation of retinol metabolites that then trigger activation of JAK2 and its target STAT5, and ultimately increase the expression of SOCS3 and inhibit cellular responses to insulin (PubMed:21368206, PubMed:22665496). Important for the homeostasis of vitamin A and its derivatives, such as retinoic acid (PubMed:18316031). STRA6-mediated transport is particularly important in the eye, and under conditions of dietary vitamin A deficiency (Probable). Does not transport retinoic acid (PubMed:18316031).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSQPAGNQTSPGATEDYSYGSWYIDEPQGGEELQPEGEVPSCHTSIPPGLYHACLASLSILVLLLLAMLVRRRQLWPDCVRGRPGLPRPRAVPAAVFMVLLSSLCLLLPDEDALPFLTLASAPSQDGKTEAPRGAWKILGLFYYAALYYPLAACATAGHTAAHLLGSTLSWAHLGVQVWQRAECPQVPKIYKYYSLLASLPLLLGLGFLSLWYPVQLVRSFSRRTGAGSKGLQSSYSEEYLRNLLCRKKLGSSYHTSKHGFLSWARVCLRHCIYTPQPGFHLPLKLVLSATLTGTAIYQVALLLLVGVVPTIQKVRAGVTTDVSYLLAGFGIVLSEDKQEVVELVKHHLWALEVCYISALVLSCLLTFLVLMRSLVTHRTNLRALHRGAALDLSPLHRSPHPSRQAIFCWMSFSAYQTAFICLGLLVQQIIFFLGTTALAFLVLMPVLHGRNLLLFRSLESSWPFWLTLALAVILQNMAAHWVFLETHDGHPQLTNRRVLYAATFLLFPLNVLVGAMVATWRVLLSALYNAIHLGQMDLSLLPPRAATLDPGYYTYRNFLKIEVSQSHPAMTAFCSLLLQAQSLLPRTMAAPQDSLRPGEEDEGMQLLQTKDSMAKGARPGASRGRARWGLAYTLLHNPTLQVFRKTALLGANGAQP
+PTM	Methylation:324,356,571;Phosphorylation:232,244,245,247,262,263,404,409,564,605;Ubiquitylation:240,621,626

@@ -1,0 +1,25 @@
+UniprotID	A0A494C010
+Accession	A0A494C010
+EntryName	A0A494C010_HUMAN
+ProteinName	Zinc finger protein 875
+GeneName	ZNF875
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLETYNHLVSLEIPSSKPKLIAQLERGEAPWREERKCPLDLCPVSLCCLGWSAVARSRLTATSTSWFQAVLCLSLPISWDYRWSLALLPGWNTVVLYRLTATSASWVQAIPLPQPPE
+PTM	

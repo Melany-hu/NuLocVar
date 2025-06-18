@@ -1,0 +1,25 @@
+UniprotID	Q8N2Z9-2
+Accession	Q8N2Z9;Q8NFE5;Q8NFG5
+EntryName	CENPS_HUMAN
+ProteinName	Centromere protein S (CENP-S) (Apoptosis-inducing TAF9-like domain-containing protein 1) (FANCM-associated histone fold protein 1) (FANCM-interacting histone fold protein 1) (Fanconi anemia-associated polypeptide of 16 kDa)
+GeneName	CENPS APITD1 FAAP16 MHF1
+Length	164
+Function	DNA-binding component of the Fanconi anemia (FA) core complex. Required for the normal activation of the FA pathway, leading to monoubiquitination of the FANCI-FANCD2 complex in response to DNA damage, cellular resistance to DNA cross-linking drugs, and prevention of chromosomal breakage (PubMed:20347428, PubMed:20347429). In complex with CENPX (MHF heterodimer), crucial cofactor for FANCM in both binding and ATP-dependent remodeling of DNA. Stabilizes FANCM (PubMed:20347428, PubMed:20347429). In complex with CENPX and FANCM (but not other FANC proteins), rapidly recruited to blocked forks and promotes gene conversion at blocked replication forks (PubMed:20347428). In complex with CENPT, CENPW and CENPX (CENP-T-W-S-X heterotetramer), involved in the formation of a functional kinetochore outer plate, which is essential for kinetochore-microtubule attachment and faithful mitotic progression (PubMed:19620631). As a component of MHF and CENP-T-W-S-X complexes, binds DNA and bends it to form a nucleosome-like structure (PubMed:20347428, PubMed:22304917). DNA-binding function is fulfilled in the presence of CENPX, with the following preference for DNA substates: Holliday junction > double-stranded > splay arm > single-stranded. Does not bind DNA on its own (PubMed:20347428, PubMed:20347429).
+Subcellular Location	Nucleus; Chromosome; Centromere; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEEAETEEQQRFSYQQRLKAAVHYTVGCLCEEVALDKEMQFSKQTIAAISELTFRQCENFAKDLEMFARHAKRTTINTEDVKLLARRSNSLHMQEAAGIRKSSLLTFLAWWFEWTSQASAGPLIGEEAREVARRQEGAPPQQSARRDRMPCRNFFWKTFSSCK
+PTM	Methylation:83,94;Phosphorylation:91,136;Ubiquitylation:94

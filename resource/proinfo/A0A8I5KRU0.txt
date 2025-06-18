@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KRU0
+Accession	A0A8I5KRU0
+EntryName	A0A8I5KRU0_HUMAN
+ProteinName	Golgin A2
+GeneName	GOLGA2
+Length	152
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPQPRLPPRPAMSEETRQSKLAAAKKKLREYQQRNSPGVPTGAKKKKKIKNGSNPETTTSGGCHSPEDIQDILKVLVSDLNRSNGVALPPLDKWKNHDADNVPNLMDETKTFSSTESLRQLSQQLNGLVCESATCVNGEGPASSANLKDLE
+PTM	

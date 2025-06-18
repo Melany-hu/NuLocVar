@@ -1,0 +1,25 @@
+UniprotID	Q6UXI7-3
+Accession	Q6UXI7;A1A526;A6NKI9;A8K7Y4;E9PF47;Q6P7T3;Q96DM8;Q96DT1;Q9UDN0
+EntryName	VITRN_HUMAN
+ProteinName	Vitrin
+GeneName	VIT UNQ647/PRO1277
+Length	203
+Function	Promotes matrix assembly and cell adhesiveness. Plays a role in spinal cord formation by regulating the proliferation and differentiation of neural stem cells.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTVVLTMKASVIEMFLVLLVTGVHSNKETAKKIKRPKFTVPQINCDVKAGKIIDPEFIVKCPAGCQDPKYHVYGTDVYASYSSVCGAAVHSGVLDNSGGKILVRKVAGQSGYKGSYSNGVQSLSLPRWRESFIVLESKPKKGVTYPSALTYSSSKSPAAQAGKCSRVIESKPSESMNTRRVLGDSGEINILTGQAPLALAIF
+PTM	Glycosylation:520;Methylation:139,362,523,563;Phosphorylation:125,183,198,199,601

@@ -1,0 +1,25 @@
+UniprotID	G8JLA5
+Accession	G8JLA5
+EntryName	G8JLA5_HUMAN
+ProteinName	NOVA alternative splicing regulator 1
+GeneName	NOVA1
+Length	109
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQNVAKTEPVSILQPQTTVNPDRIKQVKIIVPNSTAGLIIGKGGATVKAVMEQSGAWVQLSQKPDGINLQERVVTVSGEPEQNRKAVELIIQKIQEDPQSGSCLNISY
+PTM	

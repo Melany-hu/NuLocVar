@@ -1,0 +1,25 @@
+UniprotID	C9JBS6
+Accession	C9JBS6
+EntryName	C9JBS6_HUMAN
+ProteinName	Rap guanine nucleotide exchange factor 5
+GeneName	RAPGEF5
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTDDLCQALLRHYSAKKYQGKEENSDVPRRKRKVLHLVSQWIALYKDWLPEDEHSKMFLKTIYRNVLDDVYEYPILEKELKEFQKILGMHRRHTVDEYSPQKKNKALFHQFSLKENWLQHRGTVTETEEIFCHVYITEHSY
+PTM	

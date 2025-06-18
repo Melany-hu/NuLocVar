@@ -1,0 +1,25 @@
+UniprotID	A6NKF1-2
+Accession	A6NKF1;A8MX08;Q99773
+EntryName	SAC31_HUMAN
+ProteinName	SAC3 domain-containing protein 1 (SAC3 homology domain-containing protein 1)
+GeneName	SAC3D1 SHD1
+Length	285
+Function	Involved in centrosome duplication and mitotic progression.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRRAQTGSAPPRPAAPHPRPASRAFPQHCRPRDAERPPSPRSPLMPGCELPVGTCPDMCPAAERAQREREHRLHRLEVVPGCRQDPPRADPQRAVKEYSRPAAGKPRPPPSQLRPPSVLLATVRYLAGEVAESADIARAEVASFVADRLRAVLLDLALQGAGDAEAAVVLEAALATLLTVVARLGPDAARGPADPVLLQAQVQEGFGSLRRCYARGAGPHPRQPAFQGLFLLYNLGESGSWRLGRAWGQEPTMTVEARWKPCMRFYSCLLPCAPARPSARPWR
+PTM	Methylation:107,217;Phosphorylation:41,210,397,402;SUMOylation:378;Ubiquitylation:261,315,372,378

@@ -1,0 +1,25 @@
+UniprotID	Q15884-1
+Accession	Q15884;A0A0A0MR12;A0A6F8PH59;Q14CN5;Q5T6C8;Q5T6C9;Q6ZTX4;Q96N10
+EntryName	EREP1_HUMAN
+ProteinName	Endosomal transmembrane epsin interactor 1 (Endosomal transmembrane binding with epsin)
+GeneName	ENTREP1 C9orf61 FAM189A2 X123
+Length	289
+Function	Functions as an activator of the E3 ubiquitin protein ligase ITCH in the ubiquitination of the CXCL12-activated CXCR4 receptor. Thereby, triggers CXCR4 endocytosis and desensitization, negatively regulating the CXCL12/CXCR4 signaling pathway.
+Subcellular Location	Early endosome membrane; Late endosome membrane; Recycling endosome membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRRMVGPDVIPLPHIYGARIKGVEVFCPLDPPPPYEAVVSQMDQEQGSSFQMSEGSEAAVIPLDLGCTQVTQDGDIPNIPAEENASTSTPSSTLVRPIRSRRALPPLRTRSKSDPVLHPSEERAAPVLSCEAATQTERRLDLAAVTLRRGLRSRASRCRPRSLIDYKSYMDTKLLVARFLEQSSCTMTPDIHELVENIKSVLKSDEEHMEEAITSASFLEQIMAPLQPSTSRAHKLPSRRQPGLLHLQSCGDLHTFTPAGRPRAERRPRRVEAERPHSLIGVIRETVL
+PTM	Methylation:69,84,361;Phosphorylation:273,275,324,440

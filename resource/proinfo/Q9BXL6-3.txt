@@ -1,0 +1,25 @@
+UniprotID	Q9BXL6-3
+Accession	Q9BXL6;B8QQJ3;Q9BVB5
+EntryName	CAR14_HUMAN
+ProteinName	Caspase recruitment domain-containing protein 14 (CARD-containing MAGUK protein 2) (Carma 2)
+GeneName	CARD14 CARMA2
+Length	434
+Function	Acts as a scaffolding protein that can activate the inflammatory transcription factor NF-kappa-B and p38/JNK MAP kinase signaling pathways. Forms a signaling complex with BCL10 and MALT1, and activates MALT1 proteolytic activity and inflammatory gene expression. MALT1 is indispensable for CARD14-induced activation of NF-kappa-B and p38/JNK MAP kinases (PubMed:11278692, PubMed:21302310, PubMed:27071417, PubMed:27113748). May play a role in signaling mediated by TRAF2, TRAF3 and TRAF6 and protects cells against apoptosis.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSSCELELQEQSLRTASDQESGDEELNRLKEENEKLRSLTFSLAEKDILEQSLDEARGSRQELVERIHSLRERAVAAERQREQYWEEKEQTLLQFQKSKMACQLYREKVNALQAQVCELQKERDQAYSARDSAQREISQSLVEKDSLRRQVFELTDQVCELRTQLRQLQAEPPGVLKQEARTREPCPREKQRLVRMHAICPRDDSDCSLVSSTESQLLSDLSATSSRELVDSFRSSSPAPPSQQSLYKRVAEDFGEEPWSFSSCLEIPEGDPGALPGAKAGDPHLDYELLDTADLPQLESSLQPVSPGRLDVSESGVLMRRRPARRILSQVTMLAFQGDALLEQISVIGGNLTGIFIHRVTPGSAADQMALRPGTQIVMVSRARPLLSPGLLMGTVAAGGVTQADFTSPRRCRSTLGWASALSWADVKRSAHL
+PTM	Methylation:78,212,230,359,382,415,671,839;Phosphorylation:9,217,240,253,255,259,276,290,307,473,474,475,763,775,782,787,945;SUMOylation:415

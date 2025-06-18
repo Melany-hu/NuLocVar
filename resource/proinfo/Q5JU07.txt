@@ -1,0 +1,25 @@
+UniprotID	Q5JU07
+Accession	Q5JU07
+EntryName	Q5JU07_HUMAN
+ProteinName	Cell division cycle 14B
+GeneName	CDC14B
+Length	228
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	APRRGLEKEGVTLVAFEPAGKTNVRVVTFEKSQPARADRLCFAILYSRPKSASNVHYFSIDNELEYENFYADFGPLNLAMVYRYCCKINKKLKSITMLRKKIVHFTGSDQRKQANAAFLVGCYMVIYLGRTPEEAYRILIFGETSYIPFRDAAYGSCNFYITLLDCFHAVKKAMQYGFLNFNSFNLDEYEHYEKAENGDLNWIIPDRFIAFCGPHSRARLESGYHQHS
+PTM	

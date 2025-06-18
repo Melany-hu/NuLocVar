@@ -1,0 +1,25 @@
+UniprotID	H3BUN6
+Accession	H3BUN6
+EntryName	H3BUN6_HUMAN
+ProteinName	RNA pseudouridine synthase domain containing 1
+GeneName	RPUSD1
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPGSVENLSIVYRSRDFLVVNKHWDVRIDSKAWRETLTLQKQLRYRFPELADPDTCYGFRFCHQLDFSTSGALCVALNKAAAGSAYRCFKERRVTKAYLALVVRTQSQASQISWFWNTGCTQAILSPKCC
+PTM	

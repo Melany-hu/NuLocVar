@@ -1,0 +1,25 @@
+UniprotID	K7EL83
+Accession	K7EL83
+EntryName	K7EL83_HUMAN
+ProteinName	Methyltransferase 23, arginine
+GeneName	METTL23
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHKNPKVQLWSTYQVRSADWSLEALLYKWDMKCVHIPLESFDADKEDIAESTLPGRHTVEMLVISFAKDSL
+PTM	

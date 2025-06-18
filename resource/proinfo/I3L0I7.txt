@@ -1,0 +1,25 @@
+UniprotID	I3L0I7
+Accession	I3L0I7
+EntryName	I3L0I7_HUMAN
+ProteinName	Zinc finger protein 140
+GeneName	ZNF140
+Length	161
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREFGGMRAGHANICPSFQGSVTFRDVAIDFSQEEWKWLQPAQRDLYRCVMLENYGHLVSLGLSISKPDVVSLLEQGKEPWLGKREVKRDLFSVSESSGEIKDFSPKNVIYDDSSQYLIMERILSQGPVYSSFKGGWKCKDHTEMLQENQGCIRKVTVSHQ
+PTM	

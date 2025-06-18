@@ -1,0 +1,25 @@
+UniprotID	Q15777-2
+Accession	Q15777;D3DQZ5;E9PB10;Q59GE6
+EntryName	MPPD2_HUMAN
+ProteinName	Metallophosphoesterase MPPED2 (EC 3.1.-.-) (Fetal brain protein 239) (239FB) (Metallophosphoesterase domain-containing protein 2)
+GeneName	MPPED2 C11orf8 FAM1B
+Length	277
+Function	Displays low metallophosphoesterase activity (in vitro). May play a role in the development of the nervous system.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHGIPSQGKVTITVDEYSSNPTQAFTHYNINQSRFQPPHVHMVDPIPYDTPKPAGHTRFVCISDTHSRTDGIQMPYGDILLHTGDFTELGLPSEVKKFNDWLGNLPYEYKIVIAGNHELTFDKEFMADLVKQDYYRFPSVSKLKPEDFDNVQSLLTNSIYLQDSEVTVKGFRIYGAPWTPWFNGWGFNLPRGQSLLDKWNLIPEGIDILMTHGPPLGFRDWVPKELQRVGCVELLNTVQRRVRPKLHVFGGIHEVNPVSISKALRTKICSLPSKTS
+PTM	Methylation:132,170,199,225;SUMOylation:143

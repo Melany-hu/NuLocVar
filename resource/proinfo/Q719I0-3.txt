@@ -1,0 +1,25 @@
+UniprotID	Q719I0-3
+Accession	Q719I0;B3KS51;D6W5E0;Q8NDU5
+EntryName	AHSA2_HUMAN
+ProteinName	Putative activator of 90 kDa heat shock protein ATPase homolog 2 (Activator of HSP90 ATPase homolog 2 pseudogene)
+GeneName	AHSA2P AHSA2
+Length	137
+Function	Co-chaperone that stimulates HSP90 ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILPTKAMATQELTVKRKLSGNTLQVQASSPVALGVRIPTVALHMMELFDTTVEQLYSIFTVKELTNKKIIMKWRCGNWPEEHYAMVALNFVPTLGQTELQLKEFLSICKEENMKFCWQKQHFEEIKGSLQLTPLNG
+PTM	Methylation:62,133;SUMOylation:3

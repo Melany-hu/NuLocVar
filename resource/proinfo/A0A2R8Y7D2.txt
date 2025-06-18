@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y7D2
+Accession	A0A2R8Y7D2
+EntryName	A0A2R8Y7D2_HUMAN
+ProteinName	Pejvakin
+GeneName	PJVK
+Length	56
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PKGRDKAIVFPAHTTIAFSVFELFIYLDGAFDLCVTSVSKGGFEREETATFALLYR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P35913-3
+Accession	P35913;B7Z9T9;E7ETT3;Q53XN5;Q9BWH5;Q9UD49
+EntryName	PDE6B_HUMAN
+ProteinName	Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit beta (GMP-PDE beta) (EC 3.1.4.35)
+GeneName	PDE6B PDEB
+Length	575
+Function	Rod-specific cGMP phosphodiesterase that catalyzes the hydrolysis of 3',5'-cyclic GMP (PubMed:20940301). Necessary for the formation of a functional phosphodiesterase holoenzyme (By similarity). Involved in retinal circadian rhythm photoentrainment via modulation of UVA and orange light-induced phase-shift of the retina clock (By similarity). May participate in processes of transmission and amplification of the visual signal (PubMed:8394174).
+Subcellular Location	Membrane; Cell projection; Cilium; Photoreceptor outer segment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKEKEFFDVWSVLMGESQPYSGPRTPDGREIVFYKVIDYVLHGKEEIKVIPTPSADHWALASGLPSYVAESGFICNIMNASADEMFKFQEGALDDSGWLIKNVLSMPIVNKKEEIVGVATFYNRKDGKPFDEQDEVLMESLTQFLGWSVMNTDTYDKMNKLENRKDIAQDMVLYHVKCDRDEIQLILPTRARLGKEPADCDEDELGEILKEELPGPTTFDIYEFHFSDLECTELDLVKCGIQMYYELGVVRKFQIPQEVLVRFLFSISKGYRRITYHNWRHGFNVAQTMFTLLMTGKLKSYYTDLEAFAMVTAGLCHDIDHRGTNNLYQMKSQNPLAKLHGSSILERHHLEFGKFLLSEETLNIYQNLNRRQHEHVIHLMDIAIIATDLALYFKKRAMFQKIVDESKNYQDKKSWVEYLSLETTRKEIVMAMMMTACDLSAITKPWEVQSKVALLVAAEFWEQGDLERTVLDQQPIPMMDRNKAAELPKLQVGFIDFVCTFVYKEFSRFHEEILPMFDRLQNNRKEWKALADEYEAKVKALEEKEEEERVAAKKVGTEICNGGPAPKSSTCCIL
+PTM	Acetylation:282,284;Methylation:195,221,328,381,490,518,532,611,618;Phosphorylation:85,93,97,281

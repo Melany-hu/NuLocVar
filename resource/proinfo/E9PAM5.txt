@@ -1,0 +1,25 @@
+UniprotID	E9PAM5
+Accession	E9PAM5
+EntryName	E9PAM5_HUMAN
+ProteinName	Chromosome 11 open reading frame 21
+GeneName	C11orf21
+Length	178
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASFLVWPLRTALRGGKSWAGPGVGCGGDGARGGGELSLSNLDLPGAGEAGLEHHPLLGHLFISAVPRWPHLSSQSGVEPPDRWTGTPGWPSRDQEAPGSMMPPAAAQPSAHGALVPPATAHEPVDHPALHWLACCCCLSLPGQLPLAIRLGWDLDLEAGPSSGKLCPRARRWQPLPS
+PTM	

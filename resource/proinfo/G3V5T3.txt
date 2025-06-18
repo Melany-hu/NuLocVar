@@ -1,0 +1,25 @@
+UniprotID	G3V5T3
+Accession	G3V5T3
+EntryName	G3V5T3_HUMAN
+ProteinName	Cleavage and polyadenylation specificity factor subunit 2 (Cleavage and polyadenylation specificity factor 100 kDa subunit)
+GeneName	CPSF2
+Length	62
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSIIKLTTLSGVQEESALCYLLQVDEFRFLLDCGWDEHFSMDIIDSLRNLDTIQKILHSLH
+PTM	

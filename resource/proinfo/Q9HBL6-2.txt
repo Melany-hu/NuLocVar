@@ -1,0 +1,25 @@
+UniprotID	Q9HBL6-2
+Accession	Q9HBL6;Q8IUU2
+EntryName	LRTM1_HUMAN
+ProteinName	Leucine-rich repeat and transmembrane domain-containing protein 1
+GeneName	LRTM1 HT017
+Length	269
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLNLSNNSLSNLAPGAFHGLQHLQVLNLTQNSLLSLESRLFHSLPQLRELDLSSNNISHLPTSLGETWENLTILAVQQNQLQQLDRALLESMPSVRLLLLKDNLWKCNCHLLGLKLWLEKFVYKGGLTDGIICESPDTWKGKDLLRIPHELYQPCPLPAPDPVSSQAQWPGSAHGVVLRPPENHNAGERELLECELKPKPRPANLRHAIATVIITGVVCGIVCLMMLAAAIYGCTYAAITAQYHGGPLAQTNDPGKVEEKERFDSSPA
+PTM	Methylation:178;Phosphorylation:37

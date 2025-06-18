@@ -719,11 +719,11 @@ section {
   text-align: right;
 }
 .download-div .ri-download-2-line{
-  color: orange;
+  color: #5a5ff5;
   cursor: pointer;
 }
 .download-div .ri-download-2-line:hover{
-  color: #b197fc
+  color: #7579ee
 }
 
 #simple_search_form {

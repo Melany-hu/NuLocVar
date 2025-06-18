@@ -1,0 +1,25 @@
+UniprotID	P10966-6
+Accession	P10966;P14860;P14861;Q15980;Q496E0;Q496E1;Q496E2;Q9UDB4;Q9UDB5;Q9UDB6;Q9UDB7;Q9UDB8;Q9UDB9;Q9UDC0;Q9UQ55
+EntryName	CD8B_HUMAN
+ProteinName	T-cell surface glycoprotein CD8 beta chain (CD antigen CD8b)
+GeneName	CD8B CD8B1
+Length	243
+Function	Integral membrane glycoprotein that plays an essential role in the immune response and serves multiple functions in responses against both external and internal offenses. In T-cells, functions primarily as a coreceptor for MHC class I molecule:peptide complex. The antigens presented by class I peptides are derived from cytosolic proteins while class II derived from extracellular proteins. Interacts simultaneously with the T-cell receptor (TCR) and the MHC class I proteins presented by antigen presenting cells (APCs). In turn, recruits the Src kinase LCK to the vicinity of the TCR-CD3 complex. A palmitoylation site in the cytoplasmic tail of CD8B chain contributes to partitioning of CD8 into the plasma membrane lipid rafts where signaling proteins are enriched. Once LCK recruited, it initiates different intracellular signaling pathways by phosphorylating various substrates ultimately leading to lymphokine production, motility, adhesion and activation of cytotoxic T-lymphocytes (CTLs). Additionally, plays a critical role in thymic selection of CD8+ T-cells.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Cell membrane; Cell membrane; Secreted; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPRLWLLLAAQLTVLHGNSVLQQTPAYIKVQTNKMVMLSCEAKISLSNMRIYWLRQRQAPSSDSHHEFLALWDSAKGTIHGEEVEQEKIAVFRDASRFILNLTSVKPEDSGIYFCMIVGSPELTFGKGTQLSVVDFLPTTAQPTKKSTLKKRVCRLPRPETQKGPLCSPITLGLLVAGVLVLLVSLGVAIHLCCRRRRARLRFMKQPQGEGISGTFVPQCLHGYYSNTTTSQKLLNPWILKT
+PTM	Methylation:30,128

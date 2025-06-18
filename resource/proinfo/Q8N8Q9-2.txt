@@ -1,0 +1,25 @@
+UniprotID	Q8N8Q9-2
+Accession	Q8N8Q9;F8W7Y8;Q96F03;Q9BVS2
+EntryName	NIPA2_HUMAN
+ProteinName	Magnesium transporter NIPA2 (Non-imprinted in Prader-Willi/Angelman syndrome region protein 2)
+GeneName	NIPA2
+Length	341
+Function	Acts as a selective Mg(2+) transporter.
+Subcellular Location	Cell membrane; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQGRGKYDFYIGLGLAMSSSIFIGGSFILKKKGLLRLARKGSMRAVGAGEVANFAAYAFAPATLVTPLGALSVLVSAILSSYFLNERLNLHGKIGCLLSILGSTVMVIHAPKEEEIETLNEMSHKLGDPGFVVFATLVVIVALILIFVVGPRHGQTNILVYITICSVIGAFSVSCVKGLGIAIKELFAGKPVLRHPLAWILLLSLIVCVSTQINYLNRALDIFNTSIVTPIYYVFFTTSVLTCSAILFKEWQDMPVDDVIGTLSGFFTIIVGIFLLHAFKDVSFSLASLPVSFRKDEKAMNGNLSNMYEVLNNNEESLTCGIEQHTGENVSRRNGNLTAF
+PTM	Methylation:55,204,269;Ubiquitylation:210

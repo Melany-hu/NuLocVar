@@ -1,0 +1,25 @@
+UniprotID	Q53EL6-2
+Accession	Q53EL6;B2RCV4;B5ME91;O15501;Q5VZS6;Q6PJI5;Q8TAR5;Q99834
+EntryName	PDCD4_HUMAN
+ProteinName	Programmed cell death protein 4 (Neoplastic transformation inhibitor protein) (Nuclear antigen H731-like) (Protein 197/15a)
+GeneName	PDCD4 H731
+Length	458
+Function	Inhibits translation initiation and cap-dependent translation. May excert its function by hindering the interaction between EIF4A1 and EIF4G. Inhibits the helicase activity of EIF4A. Modulates the activation of JUN kinase. Down-regulates the expression of MAP4K1, thus inhibiting events important in driving invasion, namely, MAPK85 activation and consequent JUN-dependent transcription. May play a role in apoptosis. Tumor suppressor. Inhibits tumor promoter-induced neoplastic transformation. Binds RNA (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	241..250;58..64
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	230...239;47...53
+validnes_region	
+nesbase_region	
+Sequence	MTKYPDNLSDSLFSGDEENAGTEEIKNEINGNWISASSINEARINAKAKRRLRKNSSRDSGRGDSVSDSGSDALRSGLTVPTSPKGRLLDRRSRSGKGRGLPKKGGAGGKGVWGTPGQVYDVEEVDVKDPNYDDDQENCVYETVVLPLDERAFEKTLTPIIQEYFEHGDTNEVAEMLRDLNLGEMKSGVPVLAVSLALEGKASHREMTSKLLSDLCGTVMSTTDVEKSFDKLLKDLPELALDTPRAPQLVGQFIARAVGDGILCNTYIDSYKGTVDCVQARAALDKATVLLSMSKGGKRKDSVWGSGGGQQSVNHLVKEIDMLLKEYLLSGDISEAEHCLKELEVPHFHHELVYEAIIMVLESTGESTFKMILDLLKSLWKSSTITVDQMKRGYERIYNEIPDINLDVPHSYSVLERFVEECFQAGIISKQLRDLCPSRGRKRFVSEGDGGRLKPESY
+PTM	Acetylation:297,402;Methylation:37,73,114,121,283,329,336,388,441;Phosphorylation:25,46,48,49,67,68,71,76,78,80,82,87,90,93,94,126,152,214,219,303,305,313,317,323,345,397,405,457,468;SUMOylation:96,115,166,197,297,306,311,465;Ubiquitylation:166,197,212,238,242,245,283,297,306,392,402

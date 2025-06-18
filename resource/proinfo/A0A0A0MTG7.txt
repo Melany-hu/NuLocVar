@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MTG7
+Accession	A0A0A0MTG7
+EntryName	A0A0A0MTG7_HUMAN
+ProteinName	ADP ribosylation factor like GTPase 6 interacting protein 4
+GeneName	ARL6IP4
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	6...11
+validnes_region	
+nesbase_region	
+Sequence	MAHVGSRKRSRSRSRSRGRGSEKRKKKSRKDTSRNCSASTSQGRKASTAPGAEVLLAPLLPPRPPPLPPVMAGRSGGSTRTRGGRRRRRGRS
+PTM	

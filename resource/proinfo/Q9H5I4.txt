@@ -1,0 +1,25 @@
+UniprotID	Q9H5I4
+Accession	Q9H5I4
+EntryName	Q9H5I4_HUMAN
+ProteinName	Zinc finger protein 33A (cDNA: FLJ23404 fis, clone HEP18862)
+GeneName	ZNF33A hCG_2017529
+Length	138
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNKVEQKSQESVSFKDVTVGFTQEEWQHLDPSQRALYRDVMLENYSNLVSVGYCVHKPEVIFRLQQGEEPWKQEEEFPSQSFPEVWTADHLKERSQENQSKHLWEVVFINNEMLTKEQGDVIGIPFNVDAPEMLMPLD
+PTM	

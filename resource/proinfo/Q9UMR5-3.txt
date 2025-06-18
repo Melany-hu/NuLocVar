@@ -1,0 +1,25 @@
+UniprotID	Q9UMR5-3
+Accession	Q9UMR5;A2ABC9;A2ABD1;A2ARM7;A2BFH7;A2BFH9;A2BFI2;A8K9L4;B0S868;G8JLE1;O14799;Q0P6K0;Q5JP13;Q5JP14;Q5JQF0;Q5SSX4;Q5SSX5;Q5SSX6;Q5STJ4;Q5STJ5;Q5STJ6;Q6FI80;Q99945
+EntryName	PPT2_HUMAN
+ProteinName	Lysosomal thioesterase PPT2 (PPT-2) (EC 3.1.2.-) (S-thioesterase G14)
+GeneName	PPT2
+Length	308
+Function	Removes thioester-linked fatty acyl groups from various substrates including S-palmitoyl-CoA. Has the highest S-thioesterase activity for the acyl groups palmitic and myristic acid followed by other short- and long-chain acyl substrates. However, because of structural constraints, is unable to remove palmitate from peptides or proteins.
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSCGSMLGLCGQRLPAAWVLLLLPFLPLLLLAAPAPHRASYKPVIVVHGLFDSSYSFRHLLEYINETHPGTVVTVLDLFDGRESLRPLWEQVQGFREAVVPIMAKAPQGVHLICYSQGGLVCRALLSVMDDHNVDSFISLSSPQMGQYGDTDYLKWLFPTSMRSNLYRICYSPWGQEFSICNYWHDPHHDDLYLNASSFLALINGERDHPNATVWRKNFLRVGHLVLIGGPDDGVITPWQSSFFGFYDANETVLEMEEQLVYLRDSFGLKTLLARGAIVRCPMAGISHTAWHSNRTLYETCIEPWLS
+PTM	Glycosylation:206;Ubiquitylation:265

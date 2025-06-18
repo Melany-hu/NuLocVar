@@ -1,0 +1,25 @@
+UniprotID	Q9BUN5-3
+Accession	Q9BUN5;A8K789;Q8TBV8
+EntryName	CC28B_HUMAN
+ProteinName	Coiled-coil domain-containing protein 28B
+GeneName	CCDC28B
+Length	241
+Function	Involved in ciliogenesis. Regulates cilia length through its interaction with MAPKAP1/SIN1 but independently of mTORC2 complex. Modulates mTORC2 complex assembly and function, possibly enhances AKT1 phosphorylation. Does not seem to modulate assembly and function of mTORC1 complex.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDKKKKRSPKPCLAQPAQAPGTLRRVPVPTSHSGSLALGLPHLPSPKQRAKFKRVGKEKCRPVLAGGGSGSAGTPLQHSFLTEVTDVYEMEGGLLNLLNDFHSGRLQAFGKECSFEQLEHVREMQEKLARLHFSLDVCGEEEDDEEEEDGVTEGLPEEQKKTMADRNLDQLLSNLEDLSNSMYPFQGTRLCVCVPERSVSSSPALQEYSHTTNFPTSCSPVRFSHRLPKPRYRNLEFPQN
+PTM	Phosphorylation:9,23,46,115

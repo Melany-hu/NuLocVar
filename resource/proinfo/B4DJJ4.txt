@@ -1,0 +1,25 @@
+UniprotID	B4DJJ4
+Accession	B4DJJ4
+EntryName	B4DJJ4_HUMAN
+ProteinName	Granulysin, isoform CRA_d (cDNA FLJ50974, moderately similar to Granulysin)
+GeneName	GNLY hCG_32948
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTRCQLLAPSTPIARAAGTCRVAELGRTHPITMSTVVLLLQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVIQGLVAGETAQQICEDLRLCIPSTGPL
+PTM	

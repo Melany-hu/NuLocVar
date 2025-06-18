@@ -1,0 +1,25 @@
+UniprotID	Q15043-2
+Accession	Q15043;A6NH98;B4DIW3;B6EU88;D3DSR4;Q6ZME8;Q96BB3
+EntryName	S39AE_HUMAN
+ProteinName	Metal cation symporter ZIP14 (LIV-1 subfamily of ZIP zinc transporter 4) (LZT-Hs4) (Solute carrier family 39 member 14) (Zrt- and Irt-like protein 14) (ZIP-14)
+GeneName	SLC39A14 KIAA0062 ZIP14
+Length	481
+Function	Electroneutral transporter of the plasma membrane mediating the cellular uptake of the divalent metal cations zinc, manganese and iron that are important for tissue homeostasis, metabolism, development and immunity (PubMed:15642354, PubMed:27231142, PubMed:29621230). Functions as an energy-dependent symporter, transporting through the membranes an electroneutral complex composed of a divalent metal cation and two bicarbonate anions (By similarity). Beside these endogenous cellular substrates, can also import cadmium a non-essential metal which is cytotoxic and carcinogenic (By similarity). Controls the cellular uptake by the intestinal epithelium of systemic zinc, which is in turn required to maintain tight junctions and the intestinal permeability (By similarity). Modifies the activity of zinc-dependent phosphodiesterases, thereby indirectly regulating G protein-coupled receptor signaling pathways important for gluconeogenesis and chondrocyte differentiation (By similarity). Regulates insulin receptor signaling, glucose uptake, glycogen synthesis and gluconeogenesis in hepatocytes through the zinc-dependent intracellular catabolism of insulin (PubMed:27703010). Through zinc cellular uptake also plays a role in the adaptation of cells to endoplasmic reticulum stress (By similarity). Major manganese transporter of the basolateral membrane of intestinal epithelial cells, it plays a central role in manganese systemic homeostasis through intestinal manganese uptake (PubMed:31028174). Also involved in manganese extracellular uptake by cells of the blood-brain barrier (PubMed:31699897). May also play a role in manganese and zinc homeostasis participating in their elimination from the blood through the hepatobiliary excretion (By similarity). Also functions in the extracellular uptake of free iron. May also function intracellularly and mediate the transport from endosomes to cytosol of iron endocytosed by transferrin (PubMed:20682781). Plays a role in innate immunity by regulating the expression of cytokines by activated macrophages (PubMed:23052185).
+Subcellular Location	Cell membrane; Apical cell membrane; Basolateral cell membrane; Early endosome membrane; Late endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLLLLHPAFQSCLLLTLLGLWRTTPEAHASSLGAPAISAASFLQDLIHRYGEGDSLTLQQLKALLNHLDVGVGRGNVTQHVQGHRNLSTCFSSGDLFTAHNFSEQSRIGSSELQEFCPTILQQLDSRACTSENQENEENEQTEEGRPSAVEVWGYGLLCVTVISLCSLLGASVVPFMKKTFYKRLLLYFIALAIGTLYSNALFQLIPEAFGFNPLEDYYVSKSAVVFGGFYLFFFTEKILKILLKQKNEHHHGHSHYASESLPSKKDQEEGVMEKLQNGDLDHMIPQHCSSELDGKAPMVDEKVIVGSLSVQDLQASQSACYWLKGVRYSDIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGISTSVAILCEEFPHELGDFVILLNAGMSIQQALFFNFLSACCCYLGLAFGILAGSHFSANWIFALAGGMFLYISLADMMEFCSVAQAGVQWCHLSSLQPLPLGLKRLSCLSLPSN
+PTM	Glycosylation:77,87,102;Methylation:63,246,266;Phosphorylation:220,222,258,265,291,292,309,311,318;SUMOylation:267,276,297;Ubiquitylation:63,267,276,297,304,326

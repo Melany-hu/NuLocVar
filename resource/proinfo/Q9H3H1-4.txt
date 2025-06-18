@@ -1,0 +1,25 @@
+UniprotID	Q9H3H1-4
+Accession	Q9H3H1;A1A4X7;Q3T7B5;Q5QPK5;Q5QPK6;Q6IAC9;Q96FJ3;Q96L45;Q9NXT7
+EntryName	MOD5_HUMAN
+ProteinName	tRNA dimethylallyltransferase (EC 2.5.1.75) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (hGRO1) (tRNA isopentenyltransferase 1) (IPTase)
+GeneName	TRIT1 IPT MOD5
+Length	441
+Function	Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 of both cytosolic and mitochondrial tRNAs, leading to the formation of N6-(dimethylallyl)adenosine (i6A37) (PubMed:11111046, PubMed:24126054, PubMed:24901367, PubMed:34774131). Mediates modification of a limited subset of tRNAs: tRNA(Ser)(AGA), tRNA(Ser)(CGA), tRNA(Ser)(UGA), as well as partial modification of the selenocysteine tRNA(Ser)(UCA) (PubMed:24126054). TRIT1 is therefore required for selenoprotein expression (PubMed:24126054).
+Subcellular Location	Mitochondrion; Mitochondrion; Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVAAARAVPVGSGLRGLQRTLPLVVILGATGTGKSTLALQLGQRLGGEIVSADSMQVYEGLDIITNKVSAQEQRICRHHMISFVDPLVTNYTVVDFRNRATALIEDIFARDKIPIVVGGTNYYIESLLWKVLVNTKPQEMGTEKVIDRKVELEKEDGLVLHKRLSQVDPEMAAKLHPHDKRKVARSLQVFEETGISHSEFLHRQHTEEGGGPLGGPLKFSNPCILWLHADQAVLDERLDKRVDDMLAAGLLEELRDFHRRYNQKNVSENSQDYQHGIFQSIGFKEFHEYLITEGKCTLETSNQLLKKGPGPIVPPVYGLEVSDVSKWEESVLEPALEIVQSFIQGHKPTATPIKMPYNEAENKRSYHLCDLCDRIIIGDREWAAHIKSKSHLNQLKKRRRLDSDAVNTIESQSVSPDHNKEPKEKGSPGQNDQELKCSV
+PTM	Methylation:156,220,308,315;Phosphorylation:167,431,436,439,441,443,455;SUMOylation:138,151,176,266,375,382,417,448;Ubiquitylation:138,315,391

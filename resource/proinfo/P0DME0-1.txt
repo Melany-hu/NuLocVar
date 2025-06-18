@@ -1,0 +1,25 @@
+UniprotID	P0DME0-1
+Accession	P0DME0
+EntryName	SETLP_HUMAN
+ProteinName	Protein SETSIP (SET pseudogene protein 18) (SET similar protein) (Similar to SET translocation protein)
+GeneName	SETSIP SETP18
+Length	302
+Function	Plays a role as a transcriptional activator involved in the early stage of somatic cell reprogramming. Promotes the differentiation of protein-induced pluripotent stem (PiPS) cells into endothelial cells and the formation of vascular-like tubes (in vitro). Involved in the transcription induction of vascular endothelial-cadherin (VE-cadherin) expression. Associates to the VE-cadherin gene promoter.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVWFLDFPNSMAPKRQSPLPLQKKKPRPPPALGLEETSASAGLPKKGEKEQQEAIEHIDEVQNEIDRLNEQDSEEILKVEQKYNKLRQPFFQKRSELIAKIPNFGVTTFVNHPQVSSLLGEEDEEALHYLTKVEVTEFEDIKSGYRIDFYFDENPYFENKVFSKEFHLNESGDPSSKSTKIKWKSGKDVTKRSSQTQNKASRKRQHEEPESFFTWFTDHSDAGADELEEVIKDDIWPNPLQYYLVPDMDDEEGGEDDDDDDDDGDEGEEELEDIDEGDEDEGEEDEDDDEGEEGEEDEGEDD
+PTM	Acetylation:49,82,85,93,142;Methylation:45,78,93,100,142,160,177,232;Phosphorylation:17,95,136,143,145,150,156,171,175,176,193,194;Ubiquitylation:82,93,142

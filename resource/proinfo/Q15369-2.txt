@@ -1,0 +1,25 @@
+UniprotID	Q15369-2
+Accession	Q15369;E5RGD9;Q567Q6
+EntryName	ELOC_HUMAN
+ProteinName	Elongin-C (EloC) (Elongin 15 kDa subunit) (RNA polymerase II transcription factor SIII subunit C) (SIII p15) (Transcription elongation factor B polypeptide 1)
+GeneName	ELOC TCEB1
+Length	96
+Function	SIII, also known as elongin, is a general transcription elongation factor that increases the RNA polymerase II transcription elongation past template-encoded arresting sites. Subunit A is transcriptionally active and its transcription activity is strongly enhanced by binding to the dimeric complex of the SIII regulatory subunits B and C (elongin BC complex) (PubMed:7821821). In embryonic stem cells, the elongin BC complex is recruited by EPOP to Polycomb group (PcG) target genes in order generate genomic region that display both active and repressive chromatin properties, an important feature of pluripotent stem cells (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYVKLISSDGHEFIVKREHALTSGTIKAMLSGPGQFAENETNEVNFREIPSHVLSKVCMYFTYKVRYTNSSTEIPEFPIAPEIALELLMAANFLDC
+PTM	Acetylation:32,80;Methylation:43,72;Phosphorylation:8,18,71;SUMOylation:6,32,43;Ubiquitylation:6,20,32,43,72

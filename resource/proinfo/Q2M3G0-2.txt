@@ -1,0 +1,25 @@
+UniprotID	Q2M3G0-2
+Accession	Q2M3G0;A4D131;A7BKA4;B5MD19;B7WPL1;F8QQP8;F8QQP9;J3KQ04;Q2M3I5;Q5I5Q7;Q5I5Q8;Q6KG50;Q6XFQ5;Q8IXA1
+EntryName	ABCB5_HUMAN
+ProteinName	ATP-binding cassette sub-family B member 5 (ABCB5 P-gp) (P-glycoprotein ABCB5) (EC 7.6.2.2)
+GeneName	ABCB5
+Length	131
+Function	Energy-dependent efflux transporter responsible for decreased drug accumulation in multidrug-resistant cells (PubMed:12960149, PubMed:15205344, PubMed:15899824, PubMed:22306008). Specifically present in limbal stem cells, where it plays a key role in corneal development and repair (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDENDIRALNVRHYRDHIGVVSQEPVLFGTTISNNIKYGRDDVTDEEMERAAREANAYDFIMEFPNKFNTLVGEKGAQMSGGQKQRIAIARALVRNPKILILDEATSALDSESKSAVQAALEKDTPRYSF
+PTM	Methylation:173,365,483,569,596,626,680,871,994,1126,1173;Phosphorylation:251,557,672,677,1147

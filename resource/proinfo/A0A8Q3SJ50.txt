@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3SJ50
+Accession	A0A8Q3SJ50
+EntryName	A0A8Q3SJ50_HUMAN
+ProteinName	Adenosine deaminase (EC 3.5.4.4)
+GeneName	ADA
+Length	235
+Function	
+Subcellular Location	Cell membrane; Cytoplasmic vesicle lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWSPKVVELCKKYQQQTVVAIDLAGDETIPGSSLLPGHVQAYQAVDILKTERLGHGYHTLEDQALYNRLRQENMHFEICPWSSYLTGAWKPDTEHAVIRLKNDQANYSLNTDDPLIFKSTLDTDYQMTKRDMGFTEEEFKRLNINAAKSSFLPEDEKRELLDLLYKAYGMPPSASAGRFLSGLLGSCPVLAPVWLSVGLLARCPSILGQRHECVMTPWFLGPGWEQRLIRSVCFL
+PTM	

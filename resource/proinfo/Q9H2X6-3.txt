@@ -1,0 +1,25 @@
+UniprotID	Q9H2X6-3
+Accession	Q9H2X6;Q75MR7;Q8WWI4;Q9H2Y1
+EntryName	HIPK2_HUMAN
+ProteinName	Homeodomain-interacting protein kinase 2 (hHIPk2) (EC 2.7.11.1)
+GeneName	HIPK2
+Length	1171
+Function	Serine/threonine-protein kinase involved in transcription regulation, p53/TP53-mediated cellular apoptosis and regulation of the cell cycle. Acts as a corepressor of several transcription factors, including SMAD1 and POU4F1/Brn3a and probably NK homeodomain transcription factors. Phosphorylates PDX1, ATF1, PML, p53/TP53, CREB1, CTBP1, CBX4, RUNX1, EP300, CTNNB1, HMGA1, ZBTB4 and DAZAP2. Inhibits cell growth and promotes apoptosis through the activation of p53/TP53 both at the transcription level and at the protein level (by phosphorylation and indirect acetylation). The phosphorylation of p53/TP53 may be mediated by a p53/TP53-HIPK2-AXIN1 complex. Involved in the response to hypoxia by acting as a transcriptional co-suppressor of HIF1A. Mediates transcriptional activation of TP73. In response to TGFB, cooperates with DAXX to activate JNK. Negative regulator through phosphorylation and subsequent proteasomal degradation of CTNNB1 and the antiapoptotic factor CTBP1. In the Wnt/beta-catenin signaling pathway acts as an intermediate kinase between MAP3K7/TAK1 and NLK to promote the proteasomal degradation of MYB. Phosphorylates CBX4 upon DNA damage and promotes its E3 SUMO-protein ligase activity. Activates CREB1 and ATF1 transcription factors by phosphorylation in response to genotoxic stress. In response to DNA damage, stabilizes PML by phosphorylation. PML, HIPK2 and FBXO3 may act synergically to activate p53/TP53-dependent transactivation. Promotes angiogenesis, and is involved in erythroid differentiation, especially during fetal liver erythropoiesis. Phosphorylation of RUNX1 and EP300 stimulates EP300 transcription regulation activity. Triggers ZBTB4 protein degradation in response to DNA damage. In response to DNA damage, phosphorylates DAZAP2 which localizes DAZAP2 to the nucleus, reduces interaction of DAZAP2 with HIPK2 and prevents DAZAP2-dependent ubiquitination of HIPK2 by E3 ubiquitin-protein ligase SIAH1 and subsequent proteasomal degradation (PubMed:33591310). Modulates HMGA1 DNA-binding affinity. In response to high glucose, triggers phosphorylation-mediated subnuclear localization shifting of PDX1. Involved in the regulation of eye size, lens formation and retinal lamination during late embryogenesis.
+Subcellular Location	Nucleus; PML body; Cytoplasm; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	802..805;832..835
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	130...135
+validnes_region	
+nesbase_region	
+Sequence	MAPVYEGMASHVQVFSPHTLQSSAFCSVKKLKIEPSSNWDMTGYGSHSKVYSQSKNIPLSQPATTTVSTSLPVPNPSLPYEQTIVFPGSTGHIVVTSASSTSVTGQVLGGPHNLMRRSTVSLLDTYQKCGLKRKSEEIENTSSVQIIEEHPPMIQNNASGATVATATTSTATSKNSGSNSEGDYQLVQHEVLCSMTNTYEVLEFLGRGTFGQVVKCWKRGTNEIVAIKILKNHPSYARQGQIEVSILARLSTESADDYNFVRAYECFQHKNHTCLVFEMLEQNLYDFLKQNKFSPLPLKYIRPVLQQVATALMKLKSLGLIHADLKPENIMLVDPSRQPYRVKVIDFGSASHVSKAVCSTYLQSRYYRAPEIILGLPFCEAIDMWSLGCVIAELFLGWPLYPGASEYDQIRYISQTQGLPAEYLLSAGTKTTRFFNRDTDSPYPLWRLKTPDDHEAETGIKSKEARKYIFNCLDDMAQVNMTTDLEGSDMLVEKADRREFIDLLKKMLTIDADKRITPIETLNHPFVTMTHLLDFPHSTHVKSCFQNMEICKRRVNMYDTVNQSKTPFITHVAPSTSTNLTMTFNNQLTTVHNQPSAASMAAVAQRSMPLQTGTAQICARPDPFQQALIVCPPGFQGLQASPSKHAGYSVRMENAVPIVTQAPGAQPLQIQPGLLAQQAWPSGTQQILLPPAWQQLTGVATHTSVQHATVIPETMAGTQQLADWRNTHAHGSHYNPIMQQPALLTGHVTLPAAQPLNVGVAHVMRQQPTSTTSSRKSKQHQSSVRNVSTCEVSSSQAISSPQRSKRVKENTPPRCAMVHSSPACSTSVTCGWGDVASSTTRERQRQTIVIPDTPSPTVSVITISSDTDEEEEQKHAPTSTVSKQRKNVISCVTVHDSPYSDSSSNTSPYSVQQRAGHNNANAFDTKGSLENHCTGNPRTIIVPPLKTQASEVLVECDSLVPVNTSHHSSSYKSKSSSNVTSTSGHSSGSSSGAITYRQQRPGPHFQQQQPLNLSQAQQHITTDRTGSHRRQQAYITPTMAQAPYSFPHNSPSHGTVHPHLAAAAAAAHLPTQPHLYTYTAPAALGSTGTVAHLVASQGSARHTVQHTAYPASIVHQVPVSMGPRVLPSPTIHPSQYPAQFAHQTYISASPASTVYTGYPLSPAKVNQYPYI
+PTM	Methylation:228,289,494,505;Phosphorylation:169,170,359,360,361,364,815,826,827,848,1155;SUMOylation:30,32,128,343,953,973,1001;Ubiquitylation:292,343,430,552

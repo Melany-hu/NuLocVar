@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MS58
+Accession	A0A0A0MS58
+EntryName	A0A0A0MS58_HUMAN
+ProteinName	Leucine rich repeat containing 20
+GeneName	LRRC20 hCG_1812779
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTFSQLRELHLEGNFLHRLPSEVSALQHLKAIDLSRNQFQDFPEQLTALPALETINLEENEIVDVPVEKLAAMPALRSINLRFNPLNAEVRVIAPPLIKFDMLMSPEGARAPLP
+PTM	

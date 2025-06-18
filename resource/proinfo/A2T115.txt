@@ -1,0 +1,25 @@
+UniprotID	A2T115
+Accession	A2T115
+EntryName	A2T115_HUMAN
+ProteinName	D-amino acid oxidase activator (Schizophrenia-and bipolar disorder-associated protein G72 isoform C) (Schizophrenia-and bipolar disorder-associated protein G72 isoform D)
+GeneName	DAOA
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTAIWKWHRGIYRDHYVLGSLTFLSPMQRAGTSNQWNMGKVMTLDSGDEVTFHKTWPTETGSPYRLEEVSSHVGKVFMARNYEFLAYEASKDRRQPLERMWTCNYNQQKDQSCNHKEITSTKAE
+PTM	

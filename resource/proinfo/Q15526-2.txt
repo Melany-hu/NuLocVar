@@ -1,0 +1,25 @@
+UniprotID	Q15526-2
+Accession	Q15526;Q5T8T3;Q5T8T4
+EntryName	SURF1_HUMAN
+ProteinName	Surfeit locus protein 1
+GeneName	SURF1 SURF-1
+Length	288
+Function	Component of the MITRAC (mitochondrial translation regulation assembly intermediate of cytochrome c oxidase complex) complex, that regulates cytochrome c oxidase assembly.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVAALQLGLRAAGLGRAPASAAWRSVLRVSPRPGVAWRPSRCGSSAAEASATKAEDDSFLQWVLLLIPVTAFGLGTWQVQRRKWKLNLIAELESRVLAEPVPLPADPMELKNLEYRPVKVRGCFDHSKELYMMPRTMVDPVREAREGGLISSSTQSGAYVVTPFHCTDLGKKVNPETRQKGQIEGEVDLIGMVRLTETRQPFVPENNPERNHWHYRDLEAMARITGAEPIFIDANFQSTVPGGPIGGQTRVTLRNEHLQYIVTWYGLSAATSYLWFKKFLRGTPGV
+PTM	Methylation:113,121,184;Phosphorylation:27

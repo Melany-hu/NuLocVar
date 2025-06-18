@@ -1,0 +1,25 @@
+UniprotID	Q4G148-2
+Accession	Q4G148;B3KWJ2;Q8IXV1;Q96BH4
+EntryName	GXLT1_HUMAN
+ProteinName	Glucoside xylosyltransferase 1 (EC 2.4.2.42) (Glycosyltransferase 8 domain-containing protein 3)
+GeneName	GXYLT1 GLT8D3
+Length	409
+Function	Glycosyltransferase which elongates the O-linked glucose attached to EGF-like repeats in the extracellular domain of Notch proteins by catalyzing the addition of xylose.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRYLRVVVLCVACGFCSLLYAFSQLAVSLEEGTGGGGGKPQAAVASWLAGGGRGAVRGAGVAGPAAHPGVSDRYSLKIQPVEKMHLAVVACGERLEETMTMLKSAIIFSIKPLQFHIFAEDQLHHSFKGRLDNWSFLQTFNYTLYPITFPSENAAEWKKLFKPCASQRLFLPLILKEVDSLLYVDTDILFLRPVDDIWSLLKKFNSTQIAAMAPEHEEPRIGWYNRFARHPYYGKTGVNSGVMLMNMTRMRRKYFKNDMTTVRLQWGDILMPLLKKYKLNITWGDQDLLNIVFFHNPESLFVFPCQWNYRPDHCIYGSNCQEAEEGGIFILHGNRGVYHDDKQPAFRAVYEALRNCSFEDDNIRSLLKPLELELQKTVHTYCGKIYKIFIKQLAKSVRDRYARSPKEK
+PTM	Glycosylation:72,173,237,271,278,387;Methylation:143,208,234,400,408;Phosphorylation:141,231,397;Ubiquitylation:400

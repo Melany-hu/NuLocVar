@@ -1,0 +1,25 @@
+UniprotID	Q8N565-2
+Accession	Q8N565;Q53R89;Q53TC1;Q5XKB6;Q9NWC9;Q9P1S1
+EntryName	MREG_HUMAN
+ProteinName	Melanoregulin (Dilute suppressor protein homolog)
+GeneName	MREG DSU HDCGA21P
+Length	224
+Function	Probably functions as a cargo-recognition protein that couples cytoplasmic vesicles to the transport machinery. Plays a role in hair pigmentation, a process that involves shedding of melanosome-containing vesicles from melanocytes, followed by phagocytosis of the melanosome-containing vesicles by keratinocytes. Functions on melanosomes as receptor for RILP and the complex formed by RILP and DCTN1, and thereby contributes to retrograde melanosome transport from the cell periphery to the center. Overexpression causes accumulation of late endosomes and/or lysosomes at the microtubule organising center (MTOC) at the center of the cell. Probably binds cholesterol and requires the presence of cholesterol in membranes to function in microtubule-mediated retrograde organelle transport. Binds phosphatidylinositol 3-phosphate, phosphatidylinositol 4-phosphate, phosphatidylinositol 5-phosphate and phosphatidylinositol 3,5-bisphosphate, but not phosphatidylinositol 3,4-bisphosphate or phosphatidylinositol 4,5-bisphosphate (By similarity). Required for normal phagosome clearing and normal activation of lysosomal enzymes in lysosomes from retinal pigment epithelium cells (PubMed:19240024). Required for normal degradation of the lipofuscin component N-retinylidene-N-retinylethanolamine (A2E) in the eye. May function in membrane fusion and regulate the biogenesis of disk membranes of photoreceptor rod cells (By similarity).
+Subcellular Location	Apical cell membrane; Melanosome membrane; Lysosome membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLRDWLRTVCCCCGCECLEERALPEKEPLVSDNNPYSSFGATLVRDDEKNLWSMPHDVSHTEADDDRTLYNLIVIRNQQAKDSEEWQKLNYDIHTLRQVRREVRNRWKCILEDLGFQKEADSLLSVTKLSTISDSKNTRKAREMLLKLAEETNIFPTSWELSERYLFVVDRLIALDAAEEFFKLARRTYPKKPGVPCLADGQKELHLWGDLSCRLAHMQGVLH
+PTM	Phosphorylation:213;Ubiquitylation:27

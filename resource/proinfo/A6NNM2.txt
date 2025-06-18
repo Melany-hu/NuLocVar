@@ -1,0 +1,25 @@
+UniprotID	A6NNM2
+Accession	A6NNM2
+EntryName	A6NNM2_HUMAN
+ProteinName	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein (Na(+)/K(+)-transporting ATPase subunit beta-1-interacting protein)
+GeneName	NKAIN4 C20orf58 hCG_23425
+Length	146
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVYTLWAAVWVTWNVFIICFYLEVGGLLKDSELLTFSLSRHRSWWRERWPGCLHEEVPAVGLGAPHGQALVSGAGCALEPSYVEALHSCLQILIALLGFVCGCQVVSVFTEEEDSFDFIGGFDPFPLYHVNEKPSSLLSKQVYLPA
+PTM	

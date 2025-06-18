@@ -1,0 +1,25 @@
+UniprotID	K7EM02
+Accession	K7EM02
+EntryName	K7EM02_HUMAN
+ProteinName	Katanin catalytic subunit A1 like 2
+GeneName	KATNAL2
+Length	128
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PQLFTGILSPWKGLLLYGPPGTGKTLLAKAVATECKTTFFNISASTIVSKWRGDSEKLVRVLFELARYHAPSTIFLDELESVMSQRGTASGGEHEGSLRMKTELLVQMDGLARSEDLVFVLAASNLPW
+PTM	

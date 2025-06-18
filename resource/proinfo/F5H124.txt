@@ -1,0 +1,25 @@
+UniprotID	F5H124
+Accession	F5H124
+EntryName	F5H124_HUMAN
+ProteinName	Mago homolog B, exon junction complex subunit
+GeneName	MAGOHB
+Length	81
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVASDFYLRYYVGHKGKFGHEFLEFEFRPDGRMKSTKQEGRGKVPQEGVRKIFLEDGTLEMSLEMRDLAFERKKQTSRAV
+PTM	

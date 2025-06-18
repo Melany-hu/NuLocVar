@@ -1,0 +1,25 @@
+UniprotID	Q8TBB1-2
+Accession	Q8TBB1;Q4W5K7;Q8N4C2;Q96MJ7;Q9BY20
+EntryName	LNX1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase LNX (EC 2.3.2.27) (Ligand of Numb-protein X 1) (Numb-binding protein 1) (PDZ domain-containing RING finger protein 2) (RING-type E3 ubiquitin transferase LNX)
+GeneName	LNX1 LNX PDZRN2 UNQ574/PRO1136
+Length	632
+Function	E3 ubiquitin-protein ligase that mediates ubiquitination and subsequent proteasomal degradation of NUMB. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Mediates ubiquitination of isoform p66 and isoform p72 of NUMB, but not that of isoform p71 or isoform p65.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKALLLLVLPWLSPANYIDNVGNLHFLYSELCKGASHYGLTKDRKRRSQDGCPDGCASLTATAPSPEVSAAATISLMTDEPGLDNPAYVSSAEDGQPAISPVDSGRSNRTRARPFERSTIRSRSFKKINRALSVLRRTKSGSAVANHADQGRENSENTTAPEVFPRLYHLIPDGEITSIKINRVDPSESLSIRLVGGSETPLVHIIIQHIYRDGVIARDGRLLPGDIILKVNGMDISNVPHNYAVRLLRQPCQVLWLTVMREQKFRSRNNGQAPDAYRPRDDSFHVILNKSSPEEQLGIKLVRKVDEPGVFIFNVLDGGVAYRHGQLEENDRVLAINGHDLRYGSPESAAHLIQASERRVHLVVSRQVRQRSPDIFQEAGWNSNGSWSPGPGERSNTPKPLHPTITCHEKVVNIQKDPGESLGMTVAGGASHREWDLPIYVISVEPGGVISRDGRIKTGDILLNVDGVELTEVSRSEAVALLKRTSSSIVLKALEVKEYEPQEDCSSPAALDSNHNMAPPSDWSPSWVMWLELPRCLYNCKDIVLRRNTAGSLGFCIVGGYEEYNGNKPFFIKSIVEGTPAYNDGRIRCGDILLAVNGRSTSGMIHACLARLLKELKGRITLTIVSWPGTFL
+PTM	Acetylation:710;Methylation:72,100,326,386,579,588,593,669,710;Phosphorylation:229,236,238,285,287,418,441,461,468,547,581,582,583,584

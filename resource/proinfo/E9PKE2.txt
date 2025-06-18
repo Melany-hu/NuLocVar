@@ -1,0 +1,25 @@
+UniprotID	E9PKE2
+Accession	E9PKE2
+EntryName	E9PKE2_HUMAN
+ProteinName	Ankyrin repeat domain 42
+GeneName	ANKRD42
+Length	230
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGVANSGPSTSSRETANPCSRKKVHFGSIHDAVRAGDVKQLSEIVVRGASINELDVLHKFTPLHWAAHSGSLECLHWLLWHGADITHVTTRGWTASHIAAIRGQDACVQALIMNGANLTAQDDRGCTPLHLAATHGHSFTLQIMLRSGVDPSVTDKREWRPVHYAAFHGRLGCLQLLVKWGCSIEDVDYNGNLPGGSHLLLSIMATLRPLVKPRIIKKRTKKFFRHQTD
+PTM	

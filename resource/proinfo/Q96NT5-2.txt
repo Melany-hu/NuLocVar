@@ -1,0 +1,25 @@
+UniprotID	Q96NT5-2
+Accession	Q96NT5;Q1HE20;Q86T92;Q8TEG3;Q96FL0
+EntryName	PCFT_HUMAN
+ProteinName	Proton-coupled folate transporter (HsPCFT) (hPCFT) (Heme carrier protein 1) (PCFT/HCP1) (Solute carrier family 46 member 1)
+GeneName	SLC46A1 G21 HCP1 PCFT
+Length	431
+Function	Proton-coupled folate symporter that mediates folate absorption using an H(+) gradient as a driving force (PubMed:17129779, PubMed:17446347, PubMed:17475902, PubMed:19389703, PubMed:19762432, PubMed:25504888, PubMed:29344585, PubMed:30858177, PubMed:31494288, PubMed:31792273, PubMed:32893190, PubMed:34619546). Involved in the intestinal absorption of folates at the brush-border membrane of the proximal jejunum, and the transport from blood to cerebrospinal fluid across the choroid plexus (PubMed:17129779, PubMed:17446347, PubMed:17475902, PubMed:19389703, PubMed:25504888, PubMed:29344585, PubMed:30858177, PubMed:31494288, PubMed:32893190). Functions at acidic pH via alternate outward- and inward-open conformation states (PubMed:32893190, PubMed:34040256). Protonation of residues in the outward open state primes the protein for transport (PubMed:34040256). Binding of folate promotes breaking of salt bridge network and subsequent closure of the extracellular gate, leading to the inward-open state and release of protons and folate (PubMed:34040256). Also able to transport antifolate drugs, such as methotrexate and pemetrexed, which are established treatments for cancer and autoimmune diseases (PubMed:18524888, PubMed:19762432, PubMed:22345511, PubMed:25608532, PubMed:28802835, PubMed:29326243, PubMed:34040256, PubMed:34619546). Involved in FOLR1-mediated endocytosis by serving as a route of export of folates from acidified endosomes (PubMed:19074442). Also acts as a lower-affinity, pH-independent heme carrier protein and constitutes the main importer of heme in the intestine (PubMed:17156779). Imports heme in the retina and retinal pigment epithelium, in neurons of the hippocampus, in hepatocytes and in the renal epithelial cells (PubMed:32621820). Hence, participates in the trafficking of heme and increases intracellular iron content (PubMed:32621820).
+Subcellular Location	Cell membrane; Apical cell membrane; Basolateral cell membrane; Endosome membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGSASPPEKPRARPAAAVLCRGPVEPLVFLANFALVLQGPLTTQYLWHRFSADLGYNGTRQRGGCSNRSADPTMQEVETLTSHWTLYMNVGGFLVGLFSSTLLGAWSDSVGRRPLLVLASLGLLLQALVSVFVVQLQLHVGYFVLGRILCALLGDFGGLLAASFASVADVSSSRSRTFRMALLEASIGVAGMLASLLGGHWLRAQGYANPFWLALALLIAMTLYAAFCFGETLKEPKSTRLFTFRHHRSIVQLYVAPAPEKSRKHLALYSLAIFVVITVHFGAQDILTLYELSTPLCWDSKLIGYGSAAQHLPYLTSLLALKLLQYCLADAWVAEIGLAFNILGMVVFAFATITPLMFTGALFSAVACVNSLAMLTASGIFNSLYPATLNFMKGFPFLLGAGLLLIPAVLIGMLEKADPHLEFQQFPQSP
+PTM	Glycosylation:58;Methylation:235,323;Phosphorylation:4,6,173,174,318,458;SUMOylation:10;Ubiquitylation:10,262

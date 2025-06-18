@@ -1,0 +1,25 @@
+UniprotID	Q6TQD3
+Accession	Q6TQD3;C9JUK5
+EntryName	Q6TQD3_HUMAN
+ProteinName	N-terminal extended acetylcholinesterase
+GeneName	ACHE
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGLVMSCPDRTLVTKVRSHPSGNQHRPTRGGSRSFHCRRGVRPRPAALRVLPRCPAFSDAACPAAMRPPQCLLHTPSLASPLLLLLLWLLGGG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PG36
+Accession	A0A6Q8PG36
+EntryName	A0A6Q8PG36_HUMAN
+ProteinName	5'-nucleotidase, cytosolic II
+GeneName	NT5C2
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTSWSDRLQNAADMPANMDKHALKKYRREAYHRVFVNRSLAMEKIKCFGFDMDYTLAVYKSPEYESLGFELTVERLVSIGYPQELLSFAYDSTFPTRGLVFDTLYGNLLKVDAYGNLLVCAHGFNFIRGPETREQYPNKFIQRDDTERFYILNTLFNLPETYLLACLVDFFTNCPRYTSEFSASERCHIANLRDGTAPAAPCRLSPPTRPLSLPVCCSHHF
+PTM	

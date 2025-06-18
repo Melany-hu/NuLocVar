@@ -1,0 +1,25 @@
+UniprotID	P16410-5
+Accession	P16410;A0N1S0;E9PDH0;O95653;Q0PP65;Q52MC1;Q53TD5;Q5S005;Q8WXJ1;Q96P43;Q9UKN9
+EntryName	CTLA4_HUMAN
+ProteinName	Cytotoxic T-lymphocyte protein 4 (Cytotoxic T-lymphocyte-associated antigen 4) (CTLA-4) (CD antigen CD152)
+GeneName	CTLA4 CD152
+Length	174
+Function	Inhibitory receptor acting as a major negative regulator of T-cell responses. The affinity of CTLA4 for its natural B7 family ligands, CD80 and CD86, is considerably stronger than the affinity of their cognate stimulatory coreceptor CD28.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACLGFQRHKAQLNLATRTWPCTLLFFLLFIPVFCKAMHVAQPAVVLASSRGIASFVCEYASPGKATEVRVTVLRQADSQVTEVCAATYMMGNELTFLDDSICTGTSSGNQVNLTIQGLRAMDTGLYICKVELMYPPPYYLGIGNGTQIYVIAKEKKPSYNRGLCENAPNRARM
+PTM	Phosphorylation:55,60

@@ -1,0 +1,25 @@
+UniprotID	I3L2L5
+Accession	I3L2L5
+EntryName	I3L2L5_HUMAN
+ProteinName	MAPK regulated corepressor interacting protein 1
+GeneName	MCRIP1
+Length	92
+Function	
+Subcellular Location	Cytoplasm; Stress granule; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRVVYNGKRTSSPRSPPSSSEIFTPAHEENVRFIYEAWQGVERDLRGQVPGGERGLVEEYVEKVPNPSLKTFKPIDLSDLKRRSTQDAKKS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43598-2
+Accession	O43598;B2LUJ9
+EntryName	DNPH1_HUMAN
+ProteinName	5-hydroxymethyl-dUMP N-hydrolase (EC 3.2.2.-) (2'-deoxynucleoside 5'-phosphate N-hydrolase 1) (c-Myc-responsive protein RCL)
+GeneName	DNPH1 C6orf108 RCL
+Length	148
+Function	Part of a nucleotide salvage pathway that eliminates epigenetically modified 5-hydroxymethyl-dCMP (hmdCMP) in a two-step process entailing deamination to cytotoxic 5-hydroxymethyl-dUMP (hmdUMP), followed by its hydrolysis into 5-hydroxymethyluracil (hmU) and 2-deoxy-D-ribose 5-phosphate (deoxyribosephosphate) (PubMed:33833118). Catalyzes the second step in that pathway, the hydrolysis of the N-glycosidic bond in hmdUMP, degrading this cytotoxic nucleotide to avoid its genomic integration (PubMed:33833118).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAMVPGRSESWERGEPGRPALYFCGSIRGGREDRTLYERIVSRLRRFGTVLTEHVAAAELGARGEEAAGGDRLIHEQDLEWLQQADVVVAEVTQPSLGVGYELGRAVAFNKRILCLFRPQSGRGEHPKPPSWLSMDPALSSFPGGL
+PTM	Acetylation:113;Methylation:30,36,132;Phosphorylation:10,12,28,123,128,169,174;Ubiquitylation:113

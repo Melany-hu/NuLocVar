@@ -1,0 +1,25 @@
+UniprotID	Q7L8W6-2
+Accession	Q7L8W6;B3KWG1;Q96HJ6
+EntryName	DPH6_HUMAN
+ProteinName	Diphthine--ammonia ligase (EC 6.3.1.14) (ATP-binding domain-containing protein 4) (Diphthamide synthase) (Diphthamide synthetase) (Protein DPH6 homolog)
+GeneName	DPH6 ATPBD4
+Length	165
+Function	Amidase that may catalyze the last step of diphthamide biosynthesis using ammonium and ATP (PubMed:23169644). Diphthamide biosynthesis consists in the conversion of an L-histidine residue in the translation elongation factor (EEF2) to diphthamide (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVAALISGGKDSCYNMMQCIAAGHQIVALANLRPAENQVGSDELDSYMYQTVGHHAIDLYAEAMALPLYRRTIRGRSLDTRQVYTKCEGDEVEDLYELLKLVKGITRMTLLAEYDALNLQDFHMHLKVGSQAIVYRTPNELCTHSKFDKHTFPPFISEIAKCEV
+PTM	Methylation:101;Phosphorylation:97;SUMOylation:87,106,178;Ubiquitylation:87,131

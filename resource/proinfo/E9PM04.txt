@@ -1,0 +1,25 @@
+UniprotID	E9PM04
+Accession	E9PM04
+EntryName	E9PM04_HUMAN
+ProteinName	DCN1-like protein (Defective in cullin neddylation protein 1-like protein)
+GeneName	DCUN1D5
+Length	152
+Function	Contributes to the neddylation of all cullins by transferring NEDD8 from N-terminally acetylated NEDD8-conjugating E2s enzyme to different cullin C-terminal domain-RBX complexes which is necessary for the activation of cullin-RING E3 ubiquitin ligases (CRLs). May play a role in DNA damage response and may participate in cell proliferation and anchorage-independent cell growth.
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVKKKRKSPGVAAAVAEDGGLKKCKISRCDCTEKLQNKFDFLRSQLNDISSFKNIYRYAFDFARDKDQRSLDIDTAKSMLALLLGRTWPLFSVFYQYLEQSKYRVMNKDQWYNVLEFSRTVHADLSNYDEDGAWPVLLDEFVEWQKVRQTS
+PTM	

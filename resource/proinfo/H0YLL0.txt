@@ -1,0 +1,25 @@
+UniprotID	H0YLL0
+Accession	H0YLL0
+EntryName	H0YLL0_HUMAN
+ProteinName	Meis homeobox 3
+GeneName	MEIS3
+Length	177
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGLSLPSQVRSERPLFSSNPELDNLGKMPIDLVIEDRDGGCREDFEDYPASCPSLPDQNNMWIRDHEDSGSVHLGTPGPSSGGLASQSGDNSSDQGDGLDTSVASPSSGGEDEDLDQERRRNKKRGIFPKVATNIMRAWLFQHLSRRSEAPVLPDVCLGLGSPSPGPRWARPWGSDC
+PTM	

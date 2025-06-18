@@ -1,0 +1,25 @@
+UniprotID	A0A096LP44
+Accession	A0A096LP44
+EntryName	A0A096LP44_HUMAN
+ProteinName	RAB7B, member RAS oncogene family
+GeneName	RAB7B
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPRKKVDLKLIIVGAIGVGKTSLLHQYVHKTFYEEYQTTLGASILSKIIILGDTTLKLQIWDTGGQERFRSMVSTFYKGSDGCILAFDVTDLESFEALDIWRGDVLAKIVPMEQSYPMVLLGNKIDLADRKYQSILENHLTESIKLSPDQSRSRCC
+PTM	

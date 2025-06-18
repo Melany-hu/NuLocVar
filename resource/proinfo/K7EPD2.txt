@@ -1,0 +1,25 @@
+UniprotID	K7EPD2
+Accession	K7EPD2
+EntryName	K7EPD2_HUMAN
+ProteinName	La ribonucleoprotein 6, translational regulator
+GeneName	LARP6
+Length	31
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLVYDLYLSPKLWALATPQKNGRVQEKVME
+PTM	

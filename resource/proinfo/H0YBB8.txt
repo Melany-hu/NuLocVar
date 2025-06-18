@@ -1,0 +1,25 @@
+UniprotID	H0YBB8
+Accession	H0YBB8
+EntryName	H0YBB8_HUMAN
+ProteinName	Catenin alpha 1
+GeneName	CTNNA1
+Length	129
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KQLQQAVTGISNAAQATASDDASQHQGGGGGELAYALNNFDKQIIVDPLSFSEERFRPSLEERLESIISGAALMADSSCTRDDRRERIVAECNAVRQALQDLLSEYMGNQHVSIPSAVEMLIPPCIAHC
+PTM	

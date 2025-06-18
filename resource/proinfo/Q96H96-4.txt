@@ -1,0 +1,25 @@
+UniprotID	Q96H96-4
+Accession	Q96H96;A0A1D8H0A6;O95331;Q1JQ78;Q684R2
+EntryName	COQ2_HUMAN
+ProteinName	4-hydroxybenzoate polyprenyltransferase, mitochondrial (4-HB polyprenyltransferase) (EC 2.5.1.39) (4-hydroxybenzoate decaprenyltransferase) (COQ2 homolog) (hCOQ2) (Para-hydroxybenzoate--polyprenyltransferase) (PHB:PPT) (PHB:polyprenyltransferase)
+GeneName	COQ2 CL640
+Length	421
+Function	Mediates the second step in the final reaction sequence of coenzyme Q (CoQ) biosynthesis (PubMed:15153069, PubMed:16400613, PubMed:17374725, PubMed:20526342). Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl donor (such as all-trans-decaprenyl diphosphate) (PubMed:15153069, PubMed:16400613, PubMed:17374725, PubMed:20526342). The length of the polyprenyl side chain varies depending on the species, in humans, the side chain is comprised of 10 isoprenyls (decaprenyl) producing CoQ10 (also known as ubiquinone), whereas rodents predominantly generate CoQ9 (PubMed:15153069, PubMed:16400613). However, this specificity is not complete, human tissues have low amounts of CoQ9 and rodent organs contain some CoQ10 (PubMed:15153069). Plays a central role in the biosynthesis of CoQ10 (PubMed:15153069, PubMed:16400613, PubMed:17374725). CoQ10 is a vital molecule that transports electrons from mitochondrial respiratory chain complexes (PubMed:16400613, PubMed:17374725, PubMed:27493029). CoQs also function as cofactors for uncoupling protein and play a role as regulators of the extracellularly-induced ceramide-dependent apoptotic pathway (PubMed:16400613, PubMed:17374725). Regulates mitochondrial permeability transition pore (mPTP) opening and ROS production (pivotal events in cell death) in a tissue specific manner (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPISQVRMRKGSAHTAAQPGRLGLHPAGATAHACRGMTSIRARPGLTSAMLGSRAAGFARGLRAVALAWLPGWRGRSFALARAAGAPHGGDLQPPACPEPRGRQLSLSAAAVVDSAPRPLQPYLRLMRLDKPIGTWLLYLPCTWSIGLAAEPGCFPDWYMLSLFGTGAILMRGAGCTINDMWDQDYDKKVTRTANRPIAAGDISTFQSFVFLGGQLTLALGVLLCLNYYSIALGAGSLLLVITYPLMKRISYWPQLALGLTFNWGALLGWSAIKGSCDPSVCLPLYFSGVMWTLIYDTIYAHQDKRDDVLIGLKSTALRFGENTKPWLSGFSVAMLGALSLVGVNSGQTAPYYAALGAVGAHLTHQIYTLDIHRPEDCWNKFISNRTLGLIVFLGIVLGNLWKEKKTDKTKKGIENKIEN
+PTM	Methylation:225;Ubiquitylation:265

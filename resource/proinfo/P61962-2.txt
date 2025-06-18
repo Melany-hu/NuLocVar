@@ -1,0 +1,25 @@
+UniprotID	P61962-2
+Accession	P61962;B4E039;D3DU14;O15491;Q9DAE4
+EntryName	DCAF7_HUMAN
+ProteinName	DDB1- and CUL4-associated factor 7 (WD repeat-containing protein 68) (WD repeat-containing protein An11 homolog)
+GeneName	DCAF7 HAN11 WDR68
+Length	142
+Function	Involved in craniofacial development. Acts upstream of the EDN1 pathway and is required for formation of the upper jaw equivalent, the palatoquadrate. The activity required for EDN1 pathway function differs between the first and second arches (By similarity). Associates with DIAPH1 and controls GLI1 transcriptional activity. Could be involved in normal and disease skin development. May function as a substrate receptor for CUL4-DDB1 E3 ubiquitin-protein ligase complex.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLHGKRKEIYKYEAPWTVYAMNWSVRPDKRFRLALGSFVEEYNNKVVILDVRVPCTPVARLNNHRACVNGIAWAPHSSCHICTAADDHQALIWDIQQMPRAIEDPILAYTAEGEINNVQWASTQPDWIAICYNNCLEILRV
+PTM	Acetylation:6;Methylation:46,184;Phosphorylation:2,25,69,71,94,257;SUMOylation:12,73,81,167;Ubiquitylation:8,73,81,167,175

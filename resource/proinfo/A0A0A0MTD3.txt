@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MTD3
+Accession	A0A0A0MTD3
+EntryName	A0A0A0MTD3_HUMAN
+ProteinName	L-dopachrome tautomerase (EC 5.3.3.12) (L-dopachrome Delta-isomerase) (Tyrosinase-related protein 2)
+GeneName	DCT
+Length	233
+Function	Plays a role in melanin biosynthesis. Catalyzes the conversion of L-dopachrome into 5,6-dihydroxyindole-2-carboxylic acid (DHICA).
+Subcellular Location	Melanosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YSVRDTLLGPGRPYRAIDFSHQGPAFVTWHRYHLLCLERDLQRLIGNESFALPYWNFATGRNECDVCTDQLFGAARPDDPTLISRNSRFSSWETVCDSLDDYNHLVTLCNGTYEGLLRRNQMGRNSMKLPTLKDIRDCLSLQKFDNPPFFQNSTFSFRNALEGFDKADGTLDSQVMSLHNLVHSFLNGTNALPHSAANDPIFVKRESDQGTPFPACAGNHEPGRLYSDFLLLA
+PTM	

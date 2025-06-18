@@ -1,0 +1,25 @@
+UniprotID	B4DR24
+Accession	B4DR24
+EntryName	B4DR24_HUMAN
+ProteinName	Zinc finger and SCAN domain containing 32 (cDNA FLJ54133, highly similar to Zinc finger protein 434)
+GeneName	ZSCAN32
+Length	215
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDNRAVSLCQQEWMCPGPAQRALYRGATQRKDSHVSLATGVPWGYEETKTLLAILSSSQFYGKLQTCQQNSQIYRAMAEGLWEQGFLRTPEQCRTKFKSLQLSYRKVRRGRVPEPCIFYEEMNALSGSWASAPPMASDAVPGQEGSDIEAGELNHQNGEPTEVEDGTVDGADRDEKDFRNPGQEVRKLDLPVLFPNRLGKTPLALMVKGWQSPL
+PTM	

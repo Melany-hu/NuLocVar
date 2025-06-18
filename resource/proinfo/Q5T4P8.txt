@@ -1,0 +1,25 @@
+UniprotID	Q5T4P8
+Accession	Q5T4P8
+EntryName	Q5T4P8_HUMAN
+ProteinName	Pleckstrin homology domain containing, family O member 1
+GeneName	PLEKHO1 RP11-458I7.3-007
+Length	224
+Function	
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSTLPSPEPRTVSWMSTSLQVTVEEDSYLAHPTRDRAKIQHSRRPPTRGHLMAVASTSTSDGMLTLDLIQEEDPSPEEPTSCAESFRVDLDKSVAQLAGSRRRADSDRIQPSADRASSLSRPWEKTDKGATYTPQAPKKLTPTEKGRCASLEEILSQRDAASARTLQLRAEEPPTPALPNPGQLSRIQDLVARKLEETQELLAEVQGLGDGKRKAKDPPRSPP
+PTM	

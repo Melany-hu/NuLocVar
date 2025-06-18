@@ -1,0 +1,25 @@
+UniprotID	Q9NZH7-2
+Accession	Q9NZH7;Q3MIH0;Q53SR6;Q7RTZ7;Q9UHA5
+EntryName	IL36B_HUMAN
+ProteinName	Interleukin-36 beta (FIL1 eta) (Interleukin-1 eta) (IL-1 eta) (Interleukin-1 family member 8) (IL-1F8) (Interleukin-1 homolog 2) (IL-1H2)
+GeneName	IL36B IL1F8 IL1H2
+Length	157
+Function	Cytokine that binds to and signals through the IL1RL2/IL-36R receptor which in turn activates NF-kappa-B and MAPK signaling pathways in target cells linked to a pro-inflammatory response. Part of the IL-36 signaling system that is thought to be present in epithelial barriers and to take part in local inflammatory response; similar to the IL-1 system with which it shares the coreceptor IL1RAP. Stimulates production of interleukin-6 and interleukin-8 in synovial fibrobasts, articular chondrocytes and mature adipocytes. Induces expression of a number of antimicrobial peptides including beta-defensins 4 and 103 as well as a number of matrix metalloproteases. Seems to be involved in skin inflammatory response by acting on keratinocytes, dendritic cells and indirectly on T-cells to drive tissue infiltration, cell maturation and cell proliferation. In cultured keratinocytes induces the expression of macrophage, T-cell, and neutrophil chemokines, such as CCL3, CCL4, CCL5, CCL2, CCL17, CCL22, CL20, CCL5, CCL2, CCL17, CCL22, CXCL8, CCL20 and CXCL1, and the production of pro-inflammatory cytokines such as TNF-alpha, IL-8 and IL-6.
+Subcellular Location	Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPQREAAPKSYAIRDSRQMVWVLSGNSLIAAPLSRSIKPVTLHLIACRDTEFSDKEKGNMVYLGIKGKDLCLFCAEIQGKPTLQLKEKNIMDLYVEKKAQKPFLFFHNKEGSTSVFQSVSYPGWFIATSTTSGQPIFLTKERGITNNTNFYLDSVE
+PTM	Methylation:81

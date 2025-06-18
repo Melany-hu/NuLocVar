@@ -1,0 +1,25 @@
+UniprotID	K7EIT7
+Accession	K7EIT7
+EntryName	K7EIT7_HUMAN
+ProteinName	Ubiquitin specific peptidase 36
+GeneName	USP36
+Length	24
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLQTRRNFWSVTHPAKAASLSYRR
+PTM	

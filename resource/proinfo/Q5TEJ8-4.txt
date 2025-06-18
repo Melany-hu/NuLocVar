@@ -1,0 +1,25 @@
+UniprotID	Q5TEJ8-4
+Accession	Q5TEJ8;A2RTZ3;B4DZT9;B4DZY3;O60560;Q5TEJ1;Q5TEJ9;Q5TEK1;Q68DP4;Q9BYB6;Q9NS90
+EntryName	THMS2_HUMAN
+ProteinName	Protein THEMIS2 (Induced by contact to basement membrane 1 protein) (Protein ICB-1) (Thymocyte-expressed molecule involved in selection protein 2)
+GeneName	THEMIS2 C1orf38 ICB1
+Length	123
+Function	May constitute a control point in macrophage inflammatory response, promoting LPS-induced TLR4-mediated TNF production (PubMed:20644716). Determines the threshold for activation of B cells by low-affinity and low-avidity ligands via PLCG2 activation and its downstream pathways (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPVPLQDFVRALDPASLPRVLRVCSGVYFEGSIYEISGNECCLSTGDLIKVTQVRLQKVVCENPKTSQTMELAPNFQVFSSLRIAATRSAAQTQGEDLARVHQGWLQYVQQDSCPQEGPQAR
+PTM	Methylation:51,353,573,599;Phosphorylation:17,416,441,567,568,593,632

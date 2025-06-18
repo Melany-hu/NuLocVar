@@ -1,0 +1,25 @@
+UniprotID	P50225-2
+Accession	P50225;Q2NL71;Q86U58;Q92818;Q9BVU6;Q9UGG7
+EntryName	ST1A1_HUMAN
+ProteinName	Sulfotransferase 1A1 (ST1A1) (EC 2.8.2.1) (Aryl sulfotransferase 1) (HAST1/HAST2) (Phenol sulfotransferase 1) (Phenol-sulfating phenol sulfotransferase 1) (P-PST 1) (ST1A3) (Thermostable phenol sulfotransferase) (Ts-PST)
+GeneName	SULT1A1 STP STP1 OK/SW-cl.88
+Length	217
+Function	Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) as sulfonate donor to catalyze the sulfate conjugation of a wide variety of acceptor molecules bearing a hydroxyl or an amine group. Sulfonation increases the water solubility of most compounds, and therefore their renal excretion, but it can also result in bioactivation to form active metabolites. Displays broad substrate specificity for small phenolic compounds. Plays an important role in the sulfonation of endogenous molecules such as steroid hormones and 3,3'-diiodothyronin (PubMed:10199779, PubMed:12471039, PubMed:16221673, PubMed:21723874, PubMed:22069470, PubMed:7834621). Mediates the sulfate conjugation of a variety of xenobiotics, including the drugs acetaminophen and minoxidil (By similarity). Also mediates the metabolic activation of carcinogenic N-hydroxyarylamines leading to highly reactive intermediates capable of forming DNA adducts, potentially resulting in mutagenesis (PubMed:7834621). May play a role in gut microbiota-host metabolic interaction. O-sulfonates 4-ethylphenol (4-EP), a dietary tyrosine-derived metabolite produced by gut bacteria. The product 4-EPS crosses the blood-brain barrier and may negatively regulate oligodendrocyte maturation and myelination, affecting the functional connectivity of different brain regions associated with the limbic system (PubMed:35165440). Catalyzes the sulfate conjugation of dopamine (PubMed:8093002).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAKLLCDQVVGAPIAVSAFYAGMSILQGKDDIFLDLKQKFWNTYMVVYVARNAKDVAVSYYHFYHMAKVHPEPGTWDSFLEKFMVGEVSYGSWYQHVQEWWELSRTHPVLYLFYEDMKENPKREIQKILEFVGRSLPEETVDFVVQHTSFKEMKKNPMTNYTTVPQEFMDHSISPFMRKGMAGDWKTTFTVAQNERFDADYAEKMAGCSLSFRSEL
+PTM	Acetylation:106;Methylation:69,97,206;Phosphorylation:95,138,251,288;SUMOylation:16,85,97,265;Ubiquitylation:85,97,106,122

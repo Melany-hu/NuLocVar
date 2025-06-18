@@ -1,0 +1,25 @@
+UniprotID	B0QY51
+Accession	B0QY51
+EntryName	B0QY51_HUMAN
+ProteinName	Coiled-coil domain containing 134
+GeneName	CCDC134
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLLQFLAFLFVLLLSGMGATGTLRTSLDPSLEIYKKMFEVKRREQLLALKNLAQLNDIHQQYKILDVMLKGLFKFIPSTDPFQKALREEEKRRKKEEKRKEIRKGPRISRSQSEL
+PTM	

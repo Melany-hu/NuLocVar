@@ -1,0 +1,25 @@
+UniprotID	B5MCR8
+Accession	B5MCR8
+EntryName	B5MCR8_HUMAN
+ProteinName	Solute carrier family 30 (Zinc transporter), member 6, isoform CRA_b (Solute carrier family 30 member 6)
+GeneName	SLC30A6 hCG_23082
+Length	387
+Function	Has probably no intrinsic transporter activity but together with SLC30A5 forms a functional zinc ion:proton antiporter heterodimer, mediating zinc entry into the lumen of organelles along the secretory pathway. As part of that zinc ion:proton antiporter, contributes to zinc ion homeostasis within the early secretory pathway and regulates the activation and folding of enzymes like alkaline phosphatases and enzymes involved in phosphatidylinositol glycan anchor biosynthesis.
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTCLISYWVTLRKPSPVYSFGFERLEVLAVFASTVLAQLGALFILKESAERFLEQPEIHTGRLLVGTFVALCFNLFTMLSIRNKPFAYVSEAASTSWLQEHVADLSRSLCGIIPGLSSIFLPRMNPFVLIDLAGAFALCITYMLIEINNYFAVDTASAIAIALMTFGTMYPMSVYSGKVLLQTTPPHVIGQLDKLIREVSTLDGVLEVRNEHFWTLGFGSLAGSVHVRIRRDANEQMVLAHVTNRLYTLVSTLTVQIFKDDWIRPALLSGPVAANVLNFSDHHVIPMPLLKGTDDLNPVTSTPAKPSSPPPEFSFNTPGKNVNPVILLNTQTRPYGFGLNHGHTPYSSMLNQGLGVPGIGATQGLRTGFTNIPSRYGTNNRIGQPRP
+PTM	

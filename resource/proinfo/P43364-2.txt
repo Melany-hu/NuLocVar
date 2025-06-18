@@ -1,0 +1,25 @@
+UniprotID	P43364-2
+Accession	P43364;Q5ETU4;Q6ZRZ5
+EntryName	MAGAB_HUMAN
+ProteinName	Melanoma-associated antigen 11 (Cancer/testis antigen 1.11) (CT1.11) (MAGE-11 antigen)
+GeneName	MAGEA11 MAGE11
+Length	394
+Function	Acts as androgen receptor coregulator that increases androgen receptor activity by modulating the receptors interdomain interaction. May play a role in embryonal development and tumor transformation or aspects of tumor progression.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSEDDFQSTERAPYGPQLQWSQDLPRVQVFREQANLEDRSPRRTQRITGGEQVLWGPITQIFPTVRPADLTRVIMPLEQRSQHCKPEEGLQAQEEDLGLVGAQALQAEEQEAAFFSSTLNVGTLEELPAAESPSPPQSPQEESFSPTAMDAIFGSLSDEGSGSQEKEGPSTSPDLIDPESFSQDILHDKIIDLVHLLLRKYRVKGLITKAEMLGSVIKNYEDYFPEIFREASVCMQLLFGIDVKEVDPTSHSYVLVTSLNLSYDGIQCNEQSMPKSGLLIIVLGVIFMEGNCIPEEVMWEVLSIMGVYAGREHFLFGEPKRLLTQNWVQEKYLVYRQVPGTDPACYEFLWGPRAHAETSKMKVLEYIANANGRDPTSYPSLYEDALREEGEGV
+PTM	Methylation:236,245,280,367;Phosphorylation:13,16,76,208,216;SUMOylation:245;Ubiquitylation:18,367

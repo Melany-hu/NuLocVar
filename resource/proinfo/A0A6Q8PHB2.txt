@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PHB2
+Accession	A0A6Q8PHB2
+EntryName	A0A6Q8PHB2_HUMAN
+ProteinName	Tripartite motif containing 2
+GeneName	TRIM2
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASEGTNIPSPVVRQIDKQFLICSICLERYKNPKVLPCLHTFCERCLQNYIPAHSLTLSCPVCRQTSILPEKGVAALQNNFFITNLMDVLQRTPGSNAEESSILETVTAVAAGKPLSCPNHDGNDLAPIPRLECSGTIMAHCNLELRSSSNPPTSASQVAGTTGDGILLPVL
+PTM	

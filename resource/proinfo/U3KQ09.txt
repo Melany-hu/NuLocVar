@@ -1,0 +1,25 @@
+UniprotID	U3KQ09
+Accession	U3KQ09
+EntryName	U3KQ09_HUMAN
+ProteinName	Acylphosphatase 2
+GeneName	ACYP2
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLTQSLFGGLFPRTRETMRREAVPDDNELPRNKHLNWKS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	W5S707
+Accession	W5S707
+EntryName	W5S707_HUMAN
+ProteinName	WT1 protein
+GeneName	WT1
+Length	40
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YSTVTFDGTPSYGHTPSHHEAQFPNHSFKHEDPMGQQGSL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7BZ08
+Accession	H7BZ08
+EntryName	H7BZ08_HUMAN
+ProteinName	Coiled-coil domain containing 138
+GeneName	CCDC138
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPRVVKPPGQDLVVESLKSRYGLGGSCPDEYDFSNFYQSKYKRRTLTSPGDLDIYSGDKVGSSLKYSDESKHCRTPLGSLFKHVNVNCLKNVFTFFLSYAVNI
+PTM	

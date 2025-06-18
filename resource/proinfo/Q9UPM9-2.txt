@@ -1,0 +1,25 @@
+UniprotID	Q9UPM9-2
+Accession	Q9UPM9;Q9BU22
+EntryName	B9D1_HUMAN
+ProteinName	B9 domain-containing protein 1 (MKS1-related protein 1)
+GeneName	B9D1 MKSR1
+Length	153
+Function	Component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Required for ciliogenesis and sonic hedgehog/SHH signaling (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATASPSVFLLMVNGQVESAQFPEYDDLYCKYCFVYGQDWAPTAGLEEGISQITSKSQDVRQALVWNFPIDVTFKSTNPYGWPQIVLSVYGPDVFGNDVVRGYGAVHVPFSPGRHKRTIPMFVPESTSKLQKFTSLCLVASSDLQAAPPTEDK
+PTM	Phosphorylation:111;SUMOylation:129,132,176;Ubiquitylation:56,132

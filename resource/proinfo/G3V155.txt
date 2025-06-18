@@ -1,0 +1,25 @@
+UniprotID	G3V155
+Accession	G3V155
+EntryName	G3V155_HUMAN
+ProteinName	Thioredoxin domain containing 14, isoform CRA_a (Thioredoxin related transmembrane protein 2)
+GeneName	TMX2 TXNDC14 hCG_39765
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVLAPLIALVYSVPRLSRWLAQPYYLLSALLSAAFLLVRKLPPLCHGLPTQREDGNPCDFDWREVEILMFLSAIVMMKNRRSMPHEEGQRMGYRSAQPSLTCDISVFQSLWSNI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NR63-2
+Accession	Q9NR63;B2R8M7;B7Z2K6;B7Z2P4;B7Z3B8;E4W5W7;Q32MC0;Q53TW1;Q9NP41
+EntryName	CP26B_HUMAN
+ProteinName	Cytochrome P450 26B1 (EC 1.14.13.-) (Cytochrome P450 26A2) (Cytochrome P450 retinoic acid-inactivating 2) (Cytochrome P450RAI-2) (Retinoic acid-metabolizing cytochrome)
+GeneName	CYP26B1 CYP26A2 P450RAI2
+Length	437
+Function	A cytochrome P450 monooxygenase involved in the metabolism of retinoates (RAs), the active metabolites of vitamin A, and critical signaling molecules in animals (PubMed:10823918, PubMed:22020119). RAs exist as at least four different isomers: all-trans-RA (atRA), 9-cis-RA, 13-cis-RA, and 9,13-dicis-RA, where atRA is considered to be the biologically active isomer, although 9-cis-RA and 13-cis-RA also have activity (Probable). Catalyzes the hydroxylation of atRA primarily at C-4 and C-18, thereby contributing to the regulation of atRA homeostasis and signaling (PubMed:10823918). Hydroxylation of atRA limits its biological activity and initiates a degradative process leading to its eventual elimination (PubMed:10823918, PubMed:22020119). Involved in the convertion of atRA to all-trans-4-oxo-RA. Can oxidize all-trans-13,14-dihydroretinoate (DRA) to metabolites which could include all-trans-4-oxo-DRA, all-trans-4-hydroxy-DRA, all-trans-5,8-epoxy-DRA, and all-trans-18-hydroxy-DRA (By similarity). Shows preference for the following substrates: atRA > 9-cis-RA > 13-cis-RA (PubMed:10823918, PubMed:22020119). Plays a central role in germ cell development: acts by degrading RAs in the developing testis, preventing STRA8 expression, thereby leading to delay of meiosis. Required for the maintenance of the undifferentiated state of male germ cells during embryonic development in Sertoli cells, inducing arrest in G0 phase of the cell cycle and preventing meiotic entry. Plays a role in skeletal development, both at the level of patterning and in the ossification of bone and the establishment of some synovial joints (PubMed:22019272). Essential for postnatal survival (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFEGLDLVSALATLAACLVSVTLLLAVSQQLWQLRWAATRDKSCKLPIPKGSMGFPLIGETGHWLLQVFSKIFSHEALESYLPKIQLVIQDTLRAWSSHPEAINVYQEAQKLTFRMAIRVLLGFSIPEEDLGHLFEVYQQFVDNVFSLPVDLPFSGYRRGIQARQILQKGLEKAIREKLQCTQGKDYLDALDLLIESSKEHGKEMTMQELKDGTLELIFAAYATTASASTSLIMQLLKHPTVLEKLRDELRAHGILHSGGCPCEGTLRLDTLSGLRYLDCVIKEVMRLFTPISGGYRTVLQTFELDGFQIPKGWSVMYSIRDTHDTAPVFKDVNVFDPDRFSQARSEDKDGRFHYLPFGGGVRTCLGKHLAKLFLKVLAVELASTSRFELATRTFPRITLVPVLHPVDGLSVKFFGLDSNQNEILPETEAMLSATV
+PTM	Methylation:245,287,314,359;Phosphorylation:156,349,395,418,460,461,462,470

@@ -1,0 +1,25 @@
+UniprotID	Q8NBK3-2
+Accession	Q8NBK3;B4DXK5;B7XD05;E9PGL0;G5E9B0;Q0VAC6;Q0VAC7;Q2NL78;Q53ZE4;Q6UY39;Q96AK5;Q96DK8
+EntryName	SUMF1_HUMAN
+ProteinName	Formylglycine-generating enzyme (FGE) (EC 1.8.3.7) (C-alpha-formylglycine-generating enzyme 1) (Sulfatase-modifying factor 1)
+GeneName	SUMF1 PSEC0152 UNQ3037/PRO9852
+Length	284
+Function	Oxidase that catalyzes the conversion of cysteine to 3-oxoalanine on target proteins, using molecular oxygen and an unidentified reducing agent (PubMed:12757706, PubMed:15657036, PubMed:15907468, PubMed:16368756, PubMed:21224894, PubMed:25931126). 3-oxoalanine modification, which is also named formylglycine (fGly), occurs in the maturation of arylsulfatases and some alkaline phosphatases that use the hydrated form of 3-oxoalanine as a catalytic nucleophile (PubMed:12757706, PubMed:15657036, PubMed:15907468, PubMed:16368756, PubMed:25931126). Known substrates include GALNS, ARSA, STS and ARSE (PubMed:12757706, PubMed:15657036, PubMed:15907468).
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPIPAGVFTMGTDDPQIKQDGEAPARRVTIDAFYMDAYEVSNTEFEKFVNSTGYLTEAEKFGDSFVFEGMLSEQVKTNIQQAVAAAPWWLPVKGANWRHPEGPDSTILHRPDHPVLHVSWNDAVAYCTWAGKRLPTEAEWEYSCRGGLHNRLFPWGNKLQPKGQHYANIWQGEFPVTNTGEDGFQGTAPVDAFPPNGYGLYNIVGNAWEWTSDWWTVHHSVEETLNPKGPPSGKDRVKKGGSYMCHRSYCYRYRCAARSQNTPDSSASNLGFRCAADRLPTMD
+PTM	Glycosylation:141;Methylation:138,319;Phosphorylation:89;SUMOylation:90,109

@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GW24
+Accession	A0A1B0GW24
+EntryName	A0A1B0GW24_HUMAN
+ProteinName	Calcium binding protein 2
+GeneName	CABP2
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQPQGPAEGSLPTGDPSPSEGTPGTSQAPGSPAATRRRELLRELEAQVQAAYGQDRELRPEEIEELQVAFQEFDRDRDGYIGCRELGACMRTLGYMPTEMELIEISQQISGGKVDFEDFVELMGPKLLAETADMIGVRELRDAFREFDTNGDGRISVGELRAALKALLGERLSQREVDEILQDVDLNGDGLVDFEEFVRMMSR
+PTM	

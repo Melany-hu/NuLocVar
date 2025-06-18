@@ -1,0 +1,25 @@
+UniprotID	Q96P31-6
+Accession	Q96P31;A0N0M4;A8MTH7;D3DVD2;Q5VXZ8;Q8N6S2;Q96LA4;Q96P27;Q96P28;Q96P29;Q96P30
+EntryName	FCRL3_HUMAN
+ProteinName	Fc receptor-like protein 3 (FcR-like protein 3) (FcRL3) (Fc receptor homolog 3) (FcRH3) (IFGP family protein 3) (hIFGP3) (Immune receptor translocation-associated protein 3) (MAIA) (SH2 domain-containing phosphatase anchor protein 2) (CD antigen CD307c)
+GeneName	FCRL3 FCRH3 IFGP3 IRTA3 SPAP2
+Length	742
+Function	Promotes TLR9-induced B-cell proliferation, activation and survival but inhibits antibody production and suppresses plasma cell differentiation. Enhances activation of NF-kappa-B and MAPK signaling pathways in TLR9 stimulated B-cells (PubMed:23857366). Has inhibitory potentional on B-cell receptor (BCR)-mediated signaling, possibly through association with SH2 domain-containing phosphatases. Inhibits cell tyrosine phosphorylation, calcium mobilization and activation-induced cell death induced through BCR signaling (PubMed:19843936). Regulatory T-cells expressing FCRL3 exhibit a memory phenotype, are relatively nonresponsive to antigenic stimulation in presence of IL2 and have reduced capacity to suppress the proliferation of effector T-cells (PubMed:19494275, PubMed:20190142). Acts as a human-specific epitope on the cell surface of oocytes (oolemma) and plays a role during sperm-egg adhesion and fusion (PubMed:36070373). Interacts with the IZUMO1-IZUMO1R/JUNO sperm-egg complex and replaces IZUMO1R/JUNO as IZUMO1 receptor during fertilization, thereby permitting species-specific gamete fusion (PubMed:36070373).
+Subcellular Location	Cell membrane; Cell projection; Microvillus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLWLLLLILTPGREQSGVAPKAVLLLNPPWSTAFKGEKVALICSSISHSLAQGDTYWYHDEKLLKIKHDKIQITEPGNYQCKTRGSSLSDAVHVEFSPDWLILQALHPVFEGDNVILRCQGKDNKNTHQKVYYKDGKQLPNSYNLEKITVNSVSRDNSKYHCTAYRKFYILDIEVTSKPLNIQVQELFLHPVLRASSSTPIEGSPMTLTCETQLSPQRPDVQLQFSLFRDSQTLGLGWSRSPRLQIPAMWTEDSGSYWCEVETVTHSIKKRSLRSQIRVQRVPVSNVNLEIRPTGGQLIEGENMVLICSVAQGSGTVTFSWHKEGRVRSLGRKTQRSLLAELHVLTVKESDAGRYYCAADNVHSPILSTWIRVTVRIPVSHPVLTFRAPRAHTVVGDLLELHCESLRGSPPILYRFYHEDVTLGNSSAPSGGGASFNLSLTAEHSGNYSCDADNGLGAQHSHGVSLRVTVPVSRPVLTLRAPGAQAVVGDLLELHCESLRGSFPILYWFYHEDDTLGNISAHSGGGASFNLSLTTEHSGNYSCEADNGLGAQHSKVVTLNVTGTSRNRTGLTAAGITGLVLSILVLAAAAALLHYARARRKPGGLSATGTSSHSPSECQEPSSSRPSRIDPQEPTHSKPLAPMELEPMYSNVNPGDSNPIYSQIWSIQHTKENSANCPMMHQEHEELTVLYSELKKTHPDDSAGEASSRGRAHEEDDEENYENILNPRKNKVQDFPCLCNT
+PTM	Methylation:148;Phosphorylation:133,134,144,178,216,240,638

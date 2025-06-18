@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KQQ3
+Accession	A0A8I5KQQ3
+EntryName	A0A8I5KQQ3_HUMAN
+ProteinName	Microcephalin 1
+GeneName	MCPH1
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSQMIQQSHDNPSNSLCEAPLNISRDTLCSDEYFAGGLHSSFDDLCGNSGCGNQERKLEGSINDIKSDVLKIDQQGMMF
+PTM	

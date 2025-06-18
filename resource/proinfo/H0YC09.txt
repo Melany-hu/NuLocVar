@@ -1,0 +1,25 @@
+UniprotID	H0YC09
+Accession	H0YC09
+EntryName	H0YC09_HUMAN
+ProteinName	Integrator complex subunit 10
+GeneName	INTS10
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCRYMNNFDSEAHAKYKNQVVYSTMLVFFKNAFQYVNSIQPSLFQEFRR
+PTM	

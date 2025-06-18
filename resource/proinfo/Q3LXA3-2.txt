@@ -1,0 +1,25 @@
+UniprotID	Q3LXA3-2
+Accession	Q3LXA3;Q2L9C1;Q53EQ9;Q9BVA7;Q9H895
+EntryName	TKFC_HUMAN
+ProteinName	Triokinase/FMN cyclase (Bifunctional ATP-dependent dihydroxyacetone kinase/FAD-AMP lyase (cyclizing)) [Includes: ATP-dependent dihydroxyacetone kinase (DHA kinase) (EC 2.7.1.28) (EC 2.7.1.29) (Glycerone kinase) (Triokinase) (Triose kinase); FAD-AMP lyase (cyclizing) (EC 4.6.1.15) (FAD-AMP lyase (cyclic FMN forming)) (FMN cyclase)]
+GeneName	TKFC DAK
+Length	534
+Function	Catalyzes both the phosphorylation of dihydroxyacetone and of glyceraldehyde, and the splitting of ribonucleoside diphosphate-X compounds among which FAD is the best substrate. Represses IFIH1-mediated cellular antiviral response (PubMed:17600090).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	346...351
+validnes_region	
+nesbase_region	
+Sequence	MTSKKLVNSVAGCADDALAGLVACNPNLQLLQGHRVALRSDLDSLKGRVALLSGGGSGHEPAHAGFIGKGMLTGVIAGAVFTSPAVGSILAAIRAVAQAGTVGTLLIVKNYTGDRLNFGLAREQARAEGIPVEMVVIGDDSAFTVLKKAGRRGLCGTVLIHKVAGALAEAGVGLEEIAKQVNVVAKAMGTLGVSLSSCSVPGSKPTFELSADEVELGLGIHGEAGVRRIKMATADEIVKLMLDHMTNTTNASHVPVQPGSSVVMMVNNLGGLSFLELGIIADATVRSLEGRGVKIARALVGTFMSALEMPGISLTLLLVDEPLLKLIDAETTAAAWPNVAAVSITGRKRSRVAPAEPQEAPDSTAAGGSASKRMALVLERVCSTLLGLEEHLNALDRAAGDGDCGTTHSRAARAIQEWLKEGPPPASPAQLLSKLSVLLLEKMGGSSGALYGLFLTAAAQPLKAKTSLPAWSAAMDAGLEAMQKYGKAAPGDRTMLDSLWAAGQELQAWKSPGADLLQVLTKAVKEGGGLVICP
+PTM	Methylation:69,109,147,179,239,372,434,442;Phosphorylation:44,350,369,446,447,456,511,545,575;Ubiquitylation:46,372,487,522

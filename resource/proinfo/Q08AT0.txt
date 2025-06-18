@@ -1,0 +1,25 @@
+UniprotID	Q08AT0
+Accession	Q08AT0
+EntryName	Q08AT0_HUMAN
+ProteinName	SGCZ protein (Sarcoglycan zeta)
+GeneName	SGCZ
+Length	265
+Function	
+Subcellular Location	Cell membrane; Sarcolemma; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTREQYILATQQNNLPRTENAQLYPVGIYGWRKRCLYFFVLLLLVTMIVNLAMTIWILKVMNFTVDSPLVLQSDRNVTVNARNHMGQLTGQLTIGADAVEAQCKRFEVRASEDGRVLFSADEDEITIGAEKLKVTGTEGAVFGHSVETPHIRAEPSQDLRLESPTRSLIMEAPRGVQVSAAAGDFKATCRKELHLQSTEGEIFLNAETIKLGNLPTGSFSSSSPSSSSSRQTVYELCVCPNGKLYLSPAGVGSTCQSSSNICLWS
+PTM	

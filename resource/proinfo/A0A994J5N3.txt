@@ -1,0 +1,25 @@
+UniprotID	A0A994J5N3
+Accession	A0A994J5N3
+EntryName	A0A994J5N3_HUMAN
+ProteinName	Roundabout guidance receptor 2
+GeneName	ROBO2
+Length	223
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDNLDSSVTGKAFTSSQRPRPTSPFSTDSNTSAALSQSQRPRPTKKHKGGRMDQQPALPHRREGMTDDLPPPPDPPPGQGLRQQIGPSQQAGNVENSAERKGSSLERQHASSLEDTKSSLDCPARTSLEWQRQTQEWISSTERQEDIRKAPHKQGVGSEEALVPYSKPSFPSPGGHSSSGTASSKGSTGPRKTEVLRAGHQRNASDLLDIGYMGSNSQGQFTE
+PTM	

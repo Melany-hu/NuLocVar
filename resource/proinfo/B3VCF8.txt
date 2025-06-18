@@ -1,0 +1,25 @@
+UniprotID	B3VCF8
+Accession	B3VCF8
+EntryName	B3VCF8_HUMAN
+ProteinName	Beta chimaerin isoform B2-CHNdel ex2-8,11-12
+GeneName	CHN2
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASSNSSLSGSSVSSDCGLNVHKQCSKHVPNDCQPDLKRIKKVYCCDLTTLVKAHNTQRPMVVDICIREIEARGLKSEGLYRVSGFTEHIEDVKMAFDRGLL
+PTM	

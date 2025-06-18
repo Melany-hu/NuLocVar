@@ -1,0 +1,25 @@
+UniprotID	H0YA10
+Accession	H0YA10
+EntryName	H0YA10_HUMAN
+ProteinName	Inositol polyphosphate-4-phosphatase type II B
+GeneName	INPP4B
+Length	65
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIHPVEQSLTRYSSTEIVEGTRDPLFLTGVTFPSEYPIYEETKIKLTVYDVKDKSHDTIANSSRI
+PTM	

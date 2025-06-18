@@ -1,0 +1,25 @@
+UniprotID	P22732-2
+Accession	P22732;Q14770;Q5T977;Q8IVB3
+EntryName	GTR5_HUMAN
+ProteinName	Solute carrier family 2, facilitated glucose transporter member 5 (Fructose transporter) (Glucose transporter type 5, small intestine) (GLUT-5)
+GeneName	SLC2A5 GLUT5
+Length	244
+Function	Functions as a fructose transporter that has only low activity with other monosaccharides (PubMed:16186102, PubMed:17710649, PubMed:28083649, PubMed:29548810, PubMed:8333543). Can mediate the uptake of 2-deoxyglucose, but with low efficiency (PubMed:1695905). Essential for fructose uptake in the small intestine (By similarity). Plays a role in the regulation of salt uptake and blood pressure in response to dietary fructose (By similarity). Required for the development of high blood pressure in response to high dietary fructose intake (By similarity).
+Subcellular Location	Apical cell membrane; Cell membrane; Cell membrane; Sarcolemma
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQQDQSMKEGRLTLVLALATLIAAFGSSFQYGYNVAAVNSPALLMQQFYNETYYGRTGEFMEDFPLTLLWSVTVSMFPFGGFIGSLLVGPLVNKFGRKGALLFNNIFSIVPAILMGCSRVATSFELIIISRLLVGICAGVSSNVVPMYLGELAPKNLRGALGVVPQLFITVGILVAQIFGLRNLLANVDGEFRTSREHPHPFTTTLGPLLVFQSHHHRTGLSADWSLLTGWMSLGGPSCPEPT
+PTM	Glycosylation:472;Methylation:120,224;Phosphorylation:242

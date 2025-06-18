@@ -1,0 +1,25 @@
+UniprotID	L8E865
+Accession	L8E865
+EntryName	L8E865_HUMAN
+ProteinName	Alternative protein PRUNE2
+GeneName	PRUNE2
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSSCSPAICQRSSSRDDRLLCTQKTWSCAVRFAVSWKSVRTLA
+PTM	

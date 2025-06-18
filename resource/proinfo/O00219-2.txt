@@ -1,0 +1,25 @@
+UniprotID	O00219-2
+Accession	O00219;A8K5T5;Q8WTZ0;Q9NYP0
+EntryName	HYAS3_HUMAN
+ProteinName	Hyaluronan synthase 3 (EC 2.4.1.212) (Hyaluronate synthase 3) (Hyaluronic acid synthase 3) (HA synthase 3)
+GeneName	HAS3
+Length	281
+Function	Catalyzes the addition of GlcNAc or GlcUA monosaccharides to the nascent hyaluronan polymer. Therefore, it is essential to hyaluronan synthesis a major component of most extracellular matrices that has a structural role in tissues architectures and regulates cell adhesion, migration and differentiation. This is one of three isoenzymes responsible for cellular hyaluronan synthesis.
+Subcellular Location	Cell membrane; Golgi apparatus membrane; Golgi apparatus; trans-Golgi network membrane; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVQLTTALRVVGTSLFALAVLGGILAAYVTGYQFIHTEKHYLSFGLYGAILGLHLLIQSLFAFLEHRRMRRAGQALKLPSPRRGSVALCIAAYQEDPDYLRKCLRSAQRISFPDLKVVMVVDGNRQEDAYMLDIFHEVLGGTEQAGFFVWRSNFHEAGEGETEASLQEGMDRVRDVVRASTFSCIMQKWGGKREVMYTAFKALGDSVDYIQVCDSDTVLDPACTIEMLRVLEEDPQVGGVGGDVQPPGKGMAVEDDQVQAAQVRATEAWSVHQRHVSREQ
+PTM	Methylation:78,250,423;Phosphorylation:81,153,163;Ubiquitylation:78,311,332

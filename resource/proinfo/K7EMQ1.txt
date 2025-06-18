@@ -1,0 +1,25 @@
+UniprotID	K7EMQ1
+Accession	K7EMQ1
+EntryName	K7EMQ1_HUMAN
+ProteinName	Calpain small subunit 1
+GeneName	CAPNS1
+Length	94
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFLVNSFLKGGGGGGGGGGGLGAFEAAGFHLNEHLYNMIIRRYSDESGNMDFDNFISCLVRLDAMFRAFKSLDKDGTGQIQVNIQEWLQLTMYS
+PTM	

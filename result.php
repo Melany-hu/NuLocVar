@@ -44,14 +44,13 @@
         <div class="card-body" id='search-alert'></div>
         <div class="card-body" id='search-result'></div>
         <div class="card-body" id='table-show'>
-          <div class="download-div">Download: <i class="ri-download-2-line"></i></div>
+          <div class="download-div"><a href="#" id='download-btn' class="ri-download-2-line" style="font-weight: bolder;">&nbsp Download</a></div>
           <div class="table-responsive">
             <table id='searchResShow' class="table table-bordered table-striped table-hover">
               <thead>
                 <tr>
                   <th class='arrange' value="primaryacc">UniProt ID<i class='arrow ri-arrow-up-down-fill'></i></th>
                   <th class='arrange' value="gene">Gene name</th>
-                  <th class='arrange' value="organism">Organism</th>
                   <th class='arrange' value="pprob">P. Score<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Score" data-content="P. Score represents the nuclear localization probability predicted by pNuLoC, with a value range of 0 ~ 1."></i></sup><i class='arrow ri-arrow-up-down-fill'></i></th>
                   <th class='arrange' value="prank">P. Level<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Level" data-content="P. Level represents the nuclear localization level defined by pNuLoC, including High, Medium, Low and NonNucleus."></i></sup></th>
                   <th>P. Region<sup><i class="ri-question-line" data-toggle="popover" data-trigger="hover" title="About P. Region" data-content="P. Region displays the nuclear localization region predicted by pNuLoC, and the red region represents the potential nuclear localization region."></i></sup></th>

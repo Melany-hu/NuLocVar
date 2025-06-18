@@ -1,0 +1,25 @@
+UniprotID	H0YBN0
+Accession	H0YBN0
+EntryName	H0YBN0_HUMAN
+ProteinName	VPS37A subunit of ESCRT-I
+GeneName	VPS37A
+Length	170
+Function	Component of the ESCRT-I complex, a regulator of vesicular trafficking process. Required for the sorting of endocytic ubiquitinated cargos into multivesicular bodies. May be involved in cell growth and differentiation.
+Subcellular Location	Late endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PDAFPELSELSVSQLTDMNEQEEVLLEQFLTLPQLKQIITDKDDLVKSIEELARKNLLLEPSLEAKRQTVLDKYELLTQMKSTFEKKMQRQHELSESCSASALQARLKVAAHEAEEESDNIAEDFLEGKMEIDDFLSSFMEKRTICHCRRAKEEKLQQAIAMHSQFHAPL
+PTM	

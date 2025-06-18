@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8JGY2
+Accession	A0A6Q8JGY2
+EntryName	A0A6Q8JGY2_HUMAN
+ProteinName	G-patch domain containing 11
+GeneName	GPATCH11
+Length	127
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNQAEEKAAEQFRMRLKNKQDEMKLEGDLRRSQRACQQLDVQKNIQVPREAWYWLRLEEETEEDEEEKEQDEDEYKSEDLSVLEKLQILTSYLREEHLYCIWCGTAYEDKEDLSSNCPGPTSADHD
+PTM	

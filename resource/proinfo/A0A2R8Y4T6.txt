@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y4T6
+Accession	A0A2R8Y4T6
+EntryName	A0A2R8Y4T6_HUMAN
+ProteinName	Uncharacterized protein
+GeneName	LOC112694756
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDWAPRCPRCCPLCDCACTCQLPDCQSLNCLCFEIKLR
+PTM	

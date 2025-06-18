@@ -1,0 +1,25 @@
+UniprotID	H0Y349
+Accession	H0Y349
+EntryName	H0Y349_HUMAN
+ProteinName	Serine/threonine kinase 32C
+GeneName	STK32C
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSAVWGAGGPGAGGAARGQPSRKELLLRHHLWSGPRCLSFPLGSLPASLLGLPGATSHRSCLSPNLASGLAARGTQTQSVLFGEVRLPLDGGVRGARKRSLLRAHPRTGILPGRCGMVWKDKKLQPSGCHEKAGGVFCGPSRGGV
+PTM	

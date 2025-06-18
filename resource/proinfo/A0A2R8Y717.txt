@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y717
+Accession	A0A2R8Y717
+EntryName	A0A2R8Y717_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 3
+GeneName	ST3GAL3
+Length	106
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FSEGACKPGYASALMTAIFPRFSKPAPMFLDDSFRKWARIREFVPPFGIKGQDNLIKAILSVTKEYRLTPALDSLRCRRCIIVGNGGVLANKSLGSRIDDYDIVVR
+PTM	

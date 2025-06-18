@@ -1,0 +1,25 @@
+UniprotID	L8E947
+Accession	L8E947
+EntryName	L8E947_HUMAN
+ProteinName	Alternative protein ZNF418
+GeneName	ZNF418
+Length	143
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIASVIIREFTLGKDLMNVENVGNLLVIRAALFSISEFTLGKDLMNVENVGNLLVIRAALFSISEFILEKDLMSVENVGNLLVKMVLSLNINEFTLEKDLMSVKNVGNVLLRRAISFNINEVTLVKDLMSVKNVENVLVKRAP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F8WCA1
+Accession	F8WCA1
+EntryName	F8WCA1_HUMAN
+ProteinName	Protein phosphatase 4 regulatory subunit 2
+GeneName	PPP4R2
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVERLQEALKDFEKRGKKEVCPVLDQFLCHVAKTGETIIPFTIQRLCELLTDPRRNYTGTDKFLRGVEKNVMVVSCVYPSSEKNNSNSLNRMNGVMFPGNSPSYTESPHDNKWVA
+PTM	

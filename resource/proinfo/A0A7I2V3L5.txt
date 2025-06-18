@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V3L5
+Accession	A0A7I2V3L5
+EntryName	A0A7I2V3L5_HUMAN
+ProteinName	dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109)
+GeneName	POMT1
+Length	190
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQIFFLDDSGPPFGHMVLALGGYLGGFDGNFLWNRIGAEYSSNVPVWSLRLLPALAGALSVPMAYQIVLELHFSHCAAMGAALLMLIENALITQSRLMLLESVLIFFNLLAVLSYLKFFNCQKHSLPLWAPRPNHVQCLPGQLRGRTSSDHSGSATGGGLWVPGHSEERLWETCALLASFPPGHLPHDI
+PTM	

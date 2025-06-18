@@ -1,0 +1,25 @@
+UniprotID	Q8TF39-2
+Accession	Q8TF39;Q5VZN2;Q8NAE1
+EntryName	ZN483_HUMAN
+ProteinName	Zinc finger protein 483 (Zinc finger protein with KRAB and SCAN domains 16)
+GeneName	ZNF483 KIAA1962 ZKSCAN16
+Length	256
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQAVVPLNKMTAISPEPQTLASTEQNEVPRVVTSGEQEAILRGNAADAESFRQRFRWFCYSEVAGPRKALSQLWELCNQWLRPDIHTKEQILELLVFEQFLTILPGEIRIWVKSQHPESSEEVVTLIEDLTQMLEEKDPVSQDSTVSQEENSKEDKMVTVCPNTESCESITLKDVAVNFSRGEWKKLEPFQKELYKEVLLENLRNLEFLDFPVSKLELISQLKWVELPWLLEEVSKSSRLDIHGAVKKMQMFSEAE
+PTM	Acetylation:173;Methylation:173,319;Phosphorylation:14,19,220,270,271,281,305,358,518,546,574,630,648,651;SUMOylation:68,493,521,577

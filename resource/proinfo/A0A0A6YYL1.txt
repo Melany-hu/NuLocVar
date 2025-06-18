@@ -1,0 +1,25 @@
+UniprotID	A0A0A6YYL1
+Accession	A0A0A6YYL1
+EntryName	A0A0A6YYL1_HUMAN
+ProteinName	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+GeneName	ST20-MTHFS
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARSRLTATSVSQVQVIAHSEYQKSKRISIFLSMQDEIETEEIIKDIFQRGKICFIPRYRFQSNHMDMVRIESPEEISLLPKTSWNIPQPGEGDVREEALSTGGLDLIFMPGLGFDKHGNRLGRGKGYYDAYLKRCLQHQEVKPYTLALAFKEQICLQVPVNENDMKVDEVLYEDSSTA
+PTM	

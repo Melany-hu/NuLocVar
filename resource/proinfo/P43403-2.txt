@@ -1,0 +1,25 @@
+UniprotID	P43403-2
+Accession	P43403;A6NFP4;Q6PIA4;Q8IXD6;Q9UBS6
+EntryName	ZAP70_HUMAN
+ProteinName	Tyrosine-protein kinase ZAP-70 (EC 2.7.10.2) (70 kDa zeta-chain associated protein) (Syk-related tyrosine kinase)
+GeneName	ZAP70 SRK
+Length	312
+Function	Tyrosine kinase that plays an essential role in regulation of the adaptive immune response. Regulates motility, adhesion and cytokine expression of mature T-cells, as well as thymocyte development. Also contributes to the development and activation of primary B-lymphocytes. When antigen presenting cells (APC) activate T-cell receptor (TCR), a serie of phosphorylations lead to the recruitment of ZAP70 to the doubly phosphorylated TCR component CD247/CD3Z through ITAM motif at the plasma membrane. This recruitment serves to localization to the stimulated TCR and to relieve its autoinhibited conformation. Release of ZAP70 active conformation is further stabilized by phosphorylation mediated by LCK. Subsequently, ZAP70 phosphorylates at least 2 essential adapter proteins: LAT and LCP2. In turn, a large number of signaling molecules are recruited and ultimately lead to lymphokine production, T-cell proliferation and differentiation. Furthermore, ZAP70 controls cytoskeleton modifications, adhesion and mobility of T-lymphocytes, thus ensuring correct delivery of effectors to the APC. ZAP70 is also required for TCR-CD247/CD3Z internalization and degradation through interaction with the E3 ubiquitin-protein ligase CBL and adapter proteins SLA and SLA2. Thus, ZAP70 regulates both T-cell activation switch on and switch off by modulating TCR expression at the T-cell surface. During thymocyte development, ZAP70 promotes survival and cell-cycle progression of developing thymocytes before positive selection (when cells are still CD4/CD8 double negative). Additionally, ZAP70-dependent signaling pathway may also contribute to primary B-cells formation and activation through B-cell receptor (BCR).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMDTSVYESPYSDPEELKDKKLFLKRDNLLIADIELGCGNFGSVRQGVYRMRKKQIDVAIKVLKQGTEKADTEEMMREAQIMHQLDNPYIVRLIGVCQAEALMLVMEMAGGGPLHKFLVGKREEIPVSNVAELLHQVSMGMKYLEEKNFVHRDLAARNVLLVNRHYAKISDFGLSKALGADDSYYTARSAGKWPLKWYAPECINFRKFSSRSDVWSYGVTMWEALSYGQKPYKKMKGPEVMAFIEQGKRMECPPECPPELYALMSDCWIYKWEDRPDFLTVEQRMRACYYSLASKVEGPPGSTQKAEAACA
+PTM	Acetylation:186,217,369,372,484,556,603;Methylation:151,240,326,455;Phosphorylation:14,16,69,106,164,166,167,169,178,183,197,198,201,204,227,248,286,289,292,293,300,301,312,313,315,317,319,320,357,397,491,492,493,494,597,598,599;Ubiquitylation:75,176,186,193,217,220,361,362,372,377,455,476,484,500,538,541,556,603

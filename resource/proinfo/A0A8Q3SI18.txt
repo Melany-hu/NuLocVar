@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3SI18
+Accession	A0A8Q3SI18
+EntryName	A0A8Q3SI18_HUMAN
+ProteinName	Golgi reassembly stacking protein 1
+GeneName	GORASP1
+Length	210
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLGVSAEQPAGGAEGFHLHGVQENSPAQQAGLEPYFDFIITIGHSRLNKENDTLKALLKANVEKPVKLEVFNMKTMRVREVEVVPSNMWGGQGLLGASVRFCSFRRASEQDVEPSSPAALAGLRPYTDYVVGSDQILQESEDFFTLIESHEGKPLKLMVYNSKSDSCRESGMWHWLWVSTPDPNSAPQLPQEATWHPTTFCSTTWCPTT
+PTM	

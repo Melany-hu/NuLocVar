@@ -1,0 +1,25 @@
+UniprotID	Q96TA2-3
+Accession	Q96TA2;B4DNM1;D3DRV8;D3DRV9;Q5T8D9;Q9H1Q0;Q9UMR9
+EntryName	YMEL1_HUMAN
+ProteinName	ATP-dependent zinc metalloprotease YME1L1 (EC 3.4.24.-) (EC 3.6.-.-) (ATP-dependent metalloprotease FtsH1) (Meg-4) (Presenilin-associated metalloprotease) (PAMP) (YME1-like protein 1)
+GeneName	YME1L1 FTSH1 YME1L UNQ1868/PRO4304
+Length	683
+Function	ATP-dependent metalloprotease that catalyzes the degradation of folded and unfolded proteins with a suitable degron sequence in the mitochondrial intermembrane region (PubMed:24315374, PubMed:26923599, PubMed:27786171, PubMed:31695197, PubMed:33237841, PubMed:36206740). Plays an important role in regulating mitochondrial morphology and function by cleaving OPA1 at position S2, giving rise to a form of OPA1 that promotes maintenance of normal mitochondrial structure and mitochondrial protein metabolism (PubMed:18076378, PubMed:26923599, PubMed:27495975, PubMed:33237841). Ensures cell proliferation, maintains normal cristae morphology and complex I respiration activity, promotes antiapoptotic activity and protects mitochondria from the accumulation of oxidatively damaged membrane proteins (PubMed:22262461). Required to control the accumulation of nonassembled respiratory chain subunits (NDUFB6, OX4 and ND1) (PubMed:22262461). Involved in the mitochondrial adaptation in response to various signals, such as stress or developmental cues, by mediating degradation of mitochondrial proteins to rewire the mitochondrial proteome (PubMed:31695197). Catalyzes degradation of mitochondrial proteins, such as translocases, lipid transfer proteins and metabolic enzymes in response to nutrient starvation in order to limit mitochondrial biogenesis: mechanistically, YME1L is activated by decreased phosphatidylethanolamine levels caused by LPIN1 activity in response to mTORC1 inhibition (PubMed:31695197). Acts as a regulator of adult neural stem cell self-renewal by promoting mitochondrial proteome rewiring, preserving neural stem and progenitor cells self-renewal (By similarity). Required for normal, constitutive degradation of PRELID1 (PubMed:27495975). Catalyzes the degradation of OMA1 in response to membrane depolarization (PubMed:26923599). Mediates degradation of TIMM17A downstream of the integrated stress response (ISR) (PubMed:24315374). Catalyzes degradation of MICU1 when MICU1 is not assembled via an interchain disulfide (PubMed:36206740).
+Subcellular Location	Mitochondrion inner membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSLSSTVQPQVTVPLSHLINAFHTPKNTSVSLSGVSVSQNQHRDVVPEHEAPSSEPSLNLRDLGLSELKIGQIDQLVENLLPGFCKGKNISSHWHTSHVSAQSFFENKYVFIQSRGFKTLKSRTRRLQSTSERLAETQNIAPSFVKGFLLRDRGSDVESLDKLMKTKNIPEAHQDAFKTGFAEGFLKAQALTQKTNDSLRRTRLILFVLLLFGIYGLLKNPFLSVRFRTTTGLDSAVDPVQMKNVTFEHVKGVEEAKQELQEVVEFLKNPQKFTILGGKLPKGILLVGPPGTGKTLLARAVAGEADVPFYYASGSEFDEMFVGVGASRIRNLFREAKANAPCVIFIDELDSVGGKRIESPMHPYSRQTINQLLAEMDGFKPNEGVIIIGATNFPEALDNALIRPGRFDMQVTVPRPDVKGRTEILKWYLNKIKFDQSVDPEIIARGTVGFSGAELENLVNQAALKAAVDGKEMVTMKELEFSKDKILMGPERRSVEIDNKNKTITAYHESGHAIIAYYTKDAMPINKATIMPRGPTLGHVSLLPENDRWNETRAQLLAQMDVSMGGRVAEELIFGTDHITTGASSDFDNATKIAKRMVTKFGMSEKLGVMTYSDTGKLSPETQSAIEQEIRILLRDSYERAKHILKTHAKEHKNLAEALLTYETLDAKEIQIVLEGKKLEVR
+PTM	Acetylation:237,269,683,708;Glycosylation:592;Methylation:166,237,253,285,310,359,370,517,591;Phosphorylation:80,82,182,186,246,337,503,566,573,601,620;Ubiquitylation:144,209,237,258,269,278,285,334,342,363,370,373,385,446,522,556,591,618

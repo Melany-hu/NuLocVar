@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KSA5
+Accession	A0A8I5KSA5
+EntryName	A0A8I5KSA5_HUMAN
+ProteinName	Eukaryotic translation initiation factor 4E family member 2
+GeneName	EIF4E2
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNKFDALKDDDSGDHDQNEENSTQKDGEKEKTERDKNQSSSKRKVEQFWRFYSHMVRPGDLTGHSDFHLFKEGIKPMWEDDANKNGGKWIIRLRKGLASRCWENLILAMLGEQFMVGEEICGAVVSVRFQEDIISIWNKTASDQATTARIRDTLRRVLNLPPNTIMEYKTHTDSIKAWEEFHGLVNSSGR
+PTM	

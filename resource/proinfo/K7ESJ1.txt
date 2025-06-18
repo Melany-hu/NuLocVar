@@ -1,0 +1,25 @@
+UniprotID	K7ESJ1
+Accession	K7ESJ1
+EntryName	K7ESJ1_HUMAN
+ProteinName	Zinc finger protein 420
+GeneName	ZNF420
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCKECGKMFSHGSQLTQHQRIHTGEKPYQCKECGKAFNRGSLLTRHQRIHTGEKPYECKECGKTFSRGSELTQHERIHTAGAPLLSWGL
+PTM	

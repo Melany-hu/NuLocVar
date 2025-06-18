@@ -1,0 +1,25 @@
+UniprotID	Q6X9E4-3
+Accession	Q6X9E4;E9PG36;Q494Y9;Q494Z0
+EntryName	FBW12_HUMAN
+ProteinName	F-box/WD repeat-containing protein 12 (F-box and WD-40 domain-containing protein 12) (F-box only protein 35)
+GeneName	FBXW12 FBW12 FBXO12 FBXO35
+Length	445
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex (PubMed:26171402). Promotes degradation of interleukin-22 receptor subunit IL22RA1 in resting and IL22-stimulated conditions by facilitating its ubiquitination (PubMed:26171402). Functions as a cell growth suppressor (PubMed:26171402).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPTHQIQDPKHWNRIADSDYLWRSLSLQRWDCSNFTNQHLGTHTWKQFFLHQRRKELRLALAQPHNFIYKVTKNIAFETELAYLSGNRLTVDEQEKSIICSVSPKQELCAWDVQEGTMIWSSPVQEFHFSNLVTLPQMHLAITMDRKKTIKVWNCQDRDALAVLPMPQPCYCMEAYLTKDGPFLMVGDAAGDIYTFTLPGLRDVSKVTAFQYGIVLLHCSPDKKWVFACGTYSRTLPQVFLTESLLRPSEGSVPLSTFLPHKLCASACWTPKVKNRITLMSQSSTGKKTEFITFDLTTKKTGGQTVIQAYEIASFQVAAHLKCPIWMGASDGYMIVFTSGPYLLLFSITGFLLQRFEDHQAAINNFWVDPCYVLTTSENSVHVYMWEEGGRHPYLRSCCHLENTWHDHTTDSCISSVMCDNASIVLRVRKVSDSSILVMYSLNT
+PTM	Methylation:11,282;Phosphorylation:46

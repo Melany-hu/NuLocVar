@@ -1,0 +1,25 @@
+UniprotID	P02774-3
+Accession	P02774;B4DPP2;D6RAK8;Q16309;Q16310;Q53F31;Q6GTG1
+EntryName	VTDB_HUMAN
+ProteinName	Vitamin D-binding protein (DBP) (VDB) (Gc protein-derived macrophage activating factor) (Gc-MAF) (GcMAF) (Gc-globulin) (Group-specific component) (Gc) (Vitamin D-binding protein-macrophage activating factor) (DBP-maf)
+GeneName	GC
+Length	493
+Function	Involved in vitamin D transport and storage, scavenging of extracellular G-actin, enhancement of the chemotactic activity of C5 alpha for neutrophils in inflammation and macrophage activation.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLWSWSEERGGAARLSGRKMKRVLVLLLAVAFGHALERGRDYEKNKVCKEFSHLGKEDFTSLSLVLYSRKFPSGTFEQVSQLVKEVVSLTEACCAEGADPDCYDTRTSALSAKSCESNSPFPVHPGTAECCTKEGLERKLCMAALKHQPQEFPTYVEPTNDEICEAFRKDPKEYANQFMWEYSTNYGQAPLSLLVSYTKSYLSMVGSCCTSASPTVCFLKERLQLKHLSLLTTLSNRVCSQYAAYGEKKSRLSNLIKLAQKVPTADLEDVLPLAEDITNILSKCCESASEDCMAKELPEHTVKLCDNLSTKNSKFEDCCQEKTAMDVFVCTYFMPAAQLPELPDVELPTNKDVCDPGNTKVMDKYTFELSRRTHLPEVFLSKVLEPTLKSLGECCDVEDSTTCFNAKGPLLKKELSSFIDKGQELCADYSENTFTEYKKKLAERLKAKLPDATPTELAKLVNKHSDFASNCCSINSPPLYCDSEIDAELKNIL
+PTM	Acetylation:30,94,207,229,242,345,419,421;Methylation:65,238,264,363,440;Phosphorylation:44,89,92,282

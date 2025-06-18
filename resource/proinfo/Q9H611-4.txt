@@ -1,0 +1,25 @@
+UniprotID	Q9H611-4
+Accession	Q9H611;B2RPL7;Q1W5B6;Q330H5;Q33E24
+EntryName	PIF1_HUMAN
+ProteinName	ATP-dependent DNA helicase PIF1 (EC 3.6.4.12) (DNA repair and recombination helicase PIF1) (PIF1/RRM3 DNA helicase-like protein)
+GeneName	PIF1 C15orf20
+Length	588
+Function	DNA-dependent ATPase and 5'-3' DNA helicase required for the maintenance of both mitochondrial and nuclear genome stability. Efficiently unwinds G-quadruplex (G4) DNA structures and forked RNA-DNA hybrids. Resolves G4 structures, preventing replication pausing and double-strand breaks (DSBs) at G4 motifs. Involved in the maintenance of telomeric DNA. Inhibits telomere elongation, de novo telomere formation and telomere addition to DSBs via catalytic inhibition of telomerase. Reduces the processivity of telomerase by displacing active telomerase from DNA ends. Releases telomerase by unwinding the short telomerase RNA/telomeric DNA hybrid that is the intermediate in the telomerase reaction. Possesses an intrinsic strand annealing activity.
+Subcellular Location	Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRLQAPGPAGRPRCFPLRAARLFTRFAEAGRSTLRLPAHDTPGAGAVQLLLSDCPPDRLRRFLRTLRLKLAAAPGPGPASARAQLLGPRPRDFVTISPVQPEERRLRAATRVPDTTLVKRPVEPQAGAEPSTEAPRWPLPVKRLSLPSTKPQLSEEQAAVLRAVLKGQSIFFTGSAGTGKSYLLKRILGSLPPTGTVATASTGVAACHIGGTTLHAFAGIGSGQAPLAQCVALAQRPGVRQGWLNCQRLVIDEISMVEADLFDKLEAVARAVRQQNKPFGGIQLIICGDFLQLPPVTKGSQPPRFCFQSKSWKRCVPVTLELTKVWRQADQTFISLLQAVRLGRCSDEVTRQLQATASHKVGRDGIVATRLCTHQDDVALTNERRLQELPGKVHRFEAMDSNPELASTLDAQCPVSQLLQLKLGAQVMLVKNLSVSRGLVNGARGVVVGFEAEGRGLPQVRFLCGVTEVIHADRWTVQATGGQLLSRQQLPLQLAWAMSIHKSQGMTLDCVEISLGRVFASGQAYVALSRARSLQGLRVLDFDPMAVRCDPRVLHFYATLRRGRSLSLESPDDDEAASDQENMDPIL
+PTM	Glycosylation:486;Methylation:220,239,476;Phosphorylation:27,44,78,86,87,149,151,199,363,488;SUMOylation:173,204;Ubiquitylation:123,196,204,446

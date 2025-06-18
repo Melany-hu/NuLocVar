@@ -1,0 +1,25 @@
+UniprotID	P33316-2
+Accession	P33316;A8K650;B4DPR5;O14785;Q16708;Q16860;Q6FHN1;Q6NSA3;Q96Q81
+EntryName	DUT_HUMAN
+ProteinName	Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase)
+GeneName	DUT
+Length	164
+Function	Catalyzes the cleavage of 2'-deoxyuridine 5'-triphosphate (dUTP) into 2'-deoxyuridine 5'-monophosphate (dUMP) and inorganic pyrophosphate and through its action efficiently prevents uracil misincorporation into DNA and at the same time provides dUMP, the substrate for de novo thymidylate biosynthesis (PubMed:17880943, PubMed:8631816, PubMed:8805593). Inhibits peroxisome proliferator-activated receptor (PPAR) activity by binding of its N-terminal to PPAR, preventing the latter's dimerization with retinoid X receptor (By similarity). Essential for embryonic development (By similarity).
+Subcellular Location	Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...17
+validnes_region	
+nesbase_region	
+Sequence	MPCSEETPAISPSKRARPAEVGGMQLRFARLSEHATAPTRGSARAAGYDLYSAYDYTIPPMEKAVVKTDIQIALPSGCYGRVAPRSGLAAKHFIDVGAGVIDEDYRGNVGVVLFNFGKEKFEVKKGDRIAQLICERIFYPEIEEVQALDDTERGSGGFGSTGKN
+PTM	Acetylation:155,179,208,212,251;Methylation:68,128,132,151,206,216;Phosphorylation:17,88,95,99,101,124,130,164,174,227,239,243,248,249;Ubiquitylation:84,102,151,179,206,208,251

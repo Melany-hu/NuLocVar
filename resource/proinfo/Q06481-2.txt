@@ -1,0 +1,25 @@
+UniprotID	Q06481-2
+Accession	Q06481;B3KXX9;H7BXI4;Q13861;Q14594;Q14662;Q71U10;Q7M4L3;Q9BT36
+EntryName	APLP2_HUMAN
+ProteinName	Amyloid beta precursor like protein 2 (APPH) (Amyloid beta (A4) precursor-like protein 2) (Amyloid protein homolog) (Amyloid-like protein 2) (APLP-2) (CDEI box-binding protein) (CDEBP) (Sperm membrane protein YWK-II)
+GeneName	APLP2 APPL2
+Length	707
+Function	May play a role in the regulation of hemostasis. The soluble form may have inhibitory properties towards coagulation factors. May interact with cellular G-protein signaling pathways. May bind to the DNA 5'-GTCACATG-3'(CDEI box). Inhibits trypsin, chymotrypsin, plasmin, factor XIA and plasma and glandular kallikrein. Modulates the Cu/Zn nitric oxide-catalyzed autodegradation of GPC1 heparan sulfate side chains in fibroblasts (By similarity).
+Subcellular Location	Cell membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATGTAAAAATGRLLLLLLVGLTAPALALAGYIEALAANAGTGFAVAEPQIAMFCGKLNMHVNIQTGKWEPDPTGTKSCFETKEEVLQYCQEMYPELQITNVMEANQRVSIDNWCRRDKKQCKSRFVTPFKCLVGEFVSDVLLVPEKCQFFHKERMEVCENHQHWHTVVKEACLTQGMTLYSYGMLLPCGVDQFHGTEYVCCPQTKIIGSVSKEEEEEDEEEEEEEDEEEDYDVYKSEFPTEADLEDFTEAAVDEDDEDEEEGEEVVEDRDYYYDTFKGDDYNEENPTEPGSDGTMSDKEITHDVKIPPTPLPTNDVDVYFETSADDNEHARFQKAKEQLEIRHRNRMDRVKKEWEEAELQAKNLPKAERQTLIQHFQAMVKALEKEAASEKQQLVETHLARVEAMLNDRRRMALENYLAALQSDPPRPHRILQALRRYVRAENKDRLHTIRHYQHVLAVDPEKAAQMKSQVMTHLHVIEERRNQSLSLLYKVPYVAQEIQEEIDELLQEQRADMDQFTASISETPVDVRVSSEESEEIPPFHPFHPFPALPENEDTQPELYHPMKKGSGVGEQDGGLIGAEEKVINSKNKVDENMVIDETLDVKEMIFNAERVGGLEEERESVGPLREDFSLSSSALIGLLVIAVAIATVIVISLVMLRKRQYGTISHGIVEVDPMLTPEERHLNKMQNHGYENPTYKYLEQMQI
+PTM	Glycosylation:303,541;Methylation:332,420,424,443,662;Phosphorylation:211,213,233,527,736,750,754,755;SUMOylation:424,744;Ubiquitylation:148,154,744,756

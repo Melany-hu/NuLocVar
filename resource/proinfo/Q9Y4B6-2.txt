@@ -1,0 +1,25 @@
+UniprotID	Q9Y4B6-2
+Accession	Q9Y4B6;Q2YD74;Q8TBD9;Q9HCA1;Q9UG37
+EntryName	DCAF1_HUMAN
+ProteinName	DDB1- and CUL4-associated factor 1 (HIV-1 Vpr-binding protein) (VprBP) (Serine/threonine-protein kinase VPRBP) (EC 2.7.11.1) (Vpr-interacting protein)
+GeneName	DCAF1 KIAA0800 RIP VPRBP
+Length	1506
+Function	Acts both as a substrate recognition component of E3 ubiquitin-protein ligase complexes and as an atypical serine/threonine-protein kinase, playing key roles in various processes such as cell cycle, telomerase regulation and histone modification. Probable substrate-specific adapter of a DCX (DDB1-CUL4-X-box) E3 ubiquitin-protein ligase complex, named CUL4A-RBX1-DDB1-DCAF1/VPRBP complex, which mediates ubiquitination and proteasome-dependent degradation of proteins such as NF2 (PubMed:23063525). Involved in the turnover of methylated proteins: recognizes and binds methylated proteins via its chromo domain, leading to ubiquitination of target proteins by the RBX1-DDB1-DCAF1/VPRBP complex (PubMed:23063525). The CUL4A-RBX1-DDB1-DCAF1/VPRBP complex is also involved in B-cell development: DCAF1 is recruited by RAG1 to ubiquitinate proteins, leading to limit error-prone repair during V(D)J recombination (By similarity). Also part of the EDVP complex, an E3 ligase complex that mediates ubiquitination of proteins such as TERT, leading to TERT degradation and telomerase inhibition (PubMed:19287380, PubMed:23362280). The EDVP complex also mediates ubiquitination and degradation of CCP110 (PubMed:28242748, PubMed:34259627). Also acts as an atypical serine/threonine-protein kinase that specifically mediates phosphorylation of 'Thr-120' of histone H2A (H2AT120ph) in a nucleosomal context, thereby repressing transcription (PubMed:24140421). H2AT120ph is present in the regulatory region of many tumor suppresor genes, down-regulates their transcription and is present at high level in a number of tumors (PubMed:24140421). Involved in JNK-mediated apoptosis during cell competition process via its interaction with LLGL1 and LLGL2 (PubMed:20644714). By acting on TET dioxygenses, essential for oocyte maintenance at the primordial follicle stage, hence essential for female fertility (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTVVVHVDSKAELTTLLEQWEKEHGSGQDMVPILTRMSQLIEKETEEYRKGDPDPFDDRHPGRADPECMLGHLLRILFKNDDFMNLVNAYVMTSREPPLNTAACRLLLDIMPGLETAVVFQEKEGIVENLFKWAREADQPLRTYSTGLLGGAMENQDIAANYRDENSQLVAIVLRRLRELQLQEVALRQENKRPSPRKLSSEPLLPLDEEAVDMDYGDMAVDVVDGDQEEASGDMEISFHLDSGHKTSSRVNSTTKPEDGGLKKNKSAKQGDRENFRKAKQKLGFSSSDPDRMFVELSNSSWSEMSPWVIGTNYTLYPMTPAIEQRLILQYLTPLGEYQELLPIFMQLGSRELMMFYIDLKQTNDVLLTFEALKHLASLLLHNKFATEFVAHGGVQKLLEIPRPSMAATGVSMCLYYLSYNQDAMERVCMHPHNVLSDVVNYTLWLMECSHASGCCHATMFFSICFSFRAVLELFDRYDGLRRLVNLISTLEILNLEDQGALLSDDEIFASRQTGKHTCMALRKYFEAHLAIKLEQVKQSLQRTEGGILVHPQPPYKACSYTHEQIVEMMEFLIEYGPAQLYWEPAEVFLKLSCVQLLLQLISIACNWKTYYARNDTVRFALDVLAILTVVPKIQLQLAESVDVLDEAGSTVSTVGISIILGVAEGEFFIHDAEIQKSALQIIINCVCGPDNRISSIGKFISGTPRRKLPQNPKSSEHTLAKMWNVVQSNNGIKVLLSLLSIKMPITDADQIRALACKALVGLSRSSTVRQIISKLPLFSSCQIQQLMKEPVLQDKRSDHVKFCKYAAELIERVSGKPLLIGTDVSLARLQKADVVAQSRISFPEKELLLLIRNHLISKGLGETATVLTKEADLPMTAASHSSAFTPVTAAASPVSLPRTPRIANGIATRLGSHAAVGASAPSAPTAHPQPRPPQGPLALPGPSYAGNSPLIGRISFIRERPSPCNGRKIRVLRQKSDHGAYSQSPAIKKQLDRHLPSPPTLDSIITEYLREQHARCKNPVATCPPFSLFTPHQCPEPKQRRQAPINFTSRLNRRASFPKYGGVDGGCFDRHLIFSRFRPISVFREANEDESGFTCCAFSARERFLMLGTCTGQLKLYNVFSGQEEASYNCHNSAITHLEPSRDGSLLLTSATWSQPLSALWGMKSVFDMKHSFTEDHYVEFSKHSQDRVIGTKGDIAHIYDIQTGNKLLTLFNPDLANNYKRNCATFNPTDDLVLNDGVLWDVRSAQAIHKFDKFNMNISGVFHPNGLEVIINTEIWDLRTFHLLHTVPALDQCRVVFNHTGTVMYGAMLQADDEDDLMEERMKSPFGSSFRTFNATDYKPIATIDVKRNIFDLCTDTKDCYLAVIENQGSMDALNMDTVCRLYEVGRQRLAEDEDEEEDQEEEEQEEEDDDEDDDDTDDLDELDTDQLLEAELEEDDNNENAGEDGDNDFSPSDEELANLLEEGEDGEDEDSDADEEVELILGDTDSSDNSDLEDDIILSLNE
+PTM	Acetylation:701,1224,1343,1362;Methylation:44,80,363,376,405,535,593,679,777,791,798,861,1186,1351;Phosphorylation:197,249,250,251,255,256,257,288,289,290,469,706,740,743,749,768,769,770,817,825,828,879,885,888,891,895,898,902,946,951,979,984,985,987,1000,1003,1006,1059,1148,1161,1181,1328;SUMOylation:258,819,834,1196,1343;Ubiquitylation:134,194,258,284,540,701,710,745,760,777,791,807,819,834,848,861,1062,1186,1196,1210,1224,1254,1327,1343,1351

@@ -1,0 +1,25 @@
+UniprotID	Q8IVF5-3
+Accession	Q8IVF5;B2RP56;C9JZV2;Q6NXN9;Q6ZUP9;Q9UFG6;Q9UKV9;Q9UKW0
+EntryName	TIAM2_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor TIAM2 (SIF and TIAM1-like exchange factor) (T-lymphoma invasion and metastasis-inducing protein 2) (TIAM-2)
+GeneName	TIAM2 KIAA2016 STEF
+Length	626
+Function	Modulates the activity of RHO-like proteins and connects extracellular signals to cytoskeletal activities. Acts as a GDP-dissociation stimulator protein that stimulates the GDP-GTP exchange activity of RHO-like GTPases and activates them. Mediates extracellular laminin signals to activate Rac1, contributing to neurite growth. Involved in lamellipodial formation and advancement of the growth cone of embryonic hippocampal neurons. Promotes migration of neurons in the cerebral cortex. When overexpressed, induces membrane ruffling accompanied by the accumulation of actin filaments along the altered plasma membrane (By similarity). Activates specifically RAC1, but not CDC42 and RHOA.
+Subcellular Location	Cytoplasm; Cell projection; Lamellipodium; Cell projection; Filopodium; Cell projection; Growth cone; Cell projection; Neuron projection; Perikaryon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGPRENQDPPPRSLARHLSDADRLRKVIQELVDTEKSYVKDLSCLFELYLEPLQNETFLTQDEMESLFGSLPEMLEFQKVFLETLEDGISASSDFNTLETPSQFRKLLFSLGGSFLYYADHFKLYSGFCANHIKVQKVLERAKTDKAFKAFLDARNPTKQHSSTLESYLIKPVQRVLKYPLLLKELVSLTDQESEEHYHLTEALKAMEKVASHINEMQKIYEDYGTVFDQLVAEQSGTEKEVTELSMGELLMHSTVSWLNPFLSLGKARKDLELTVFVFKRAVILVYKENCKLKKKLPSNSRPAHNSTDLDPFKFRWLIPISALQVRLGNPAGTENNSIWELIHTKSEIEGRPETIFQLCCSDSESKTNIVKVIRSILRENFRRHIKCELPLEKTCKDRLVPLKNRVPVSAKLASSRSLKVLKNSSSNEWTGETGKGTLLDSDEGSLSSGTQSSGCPTAEGRQDSKSTSPGKYPHPGLADFADNLIKESDILSDEDDDHRQTVKQGSPTKDIEIQFQRLRISEDPDVHPEAEQQPGPESGEGQKGGEQPKLVRGHFCPIKRKANSTKRDRGTLLKAQIRHQSLDSQSENATIDLNSVLEREFSVQSLTSVVSEECFYETESHGKS
+PTM	Methylation:69,164,509,646,686,955,1016,1247,1260,1281,1343,1448,1480,1563,1651;Phosphorylation:29,59,63,66,149,150,158,200,201,203,208,209,218,219,229,293,294,295,297,298,312,337,357,387,389,391,440,443,445,446,538,665,767,784,931,950,962,986,1038,1057,1110,1351,1440,1543,1544,1545,1569,1583,1585,1658;SUMOylation:164,288,526,583;Ubiquitylation:654

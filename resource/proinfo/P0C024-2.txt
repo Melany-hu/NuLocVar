@@ -1,0 +1,25 @@
+UniprotID	P0C024-2
+Accession	P0C024;B4DLE5;H3BUB8
+EntryName	NUDT7_HUMAN
+ProteinName	Peroxisomal coenzyme A diphosphatase NUDT7 (EC 3.6.1.-) (EC 3.6.1.77) (Nucleoside diphosphate-linked moiety X motif 7) (Nudix motif 7)
+GeneName	NUDT7
+Length	185
+Function	Fatty acyl-coenzyme A (CoA) diphosphatase that hydrolyzes fatty acyl-CoA to yield acyl-4'-phosphopantetheine and adenosine 3',5'-bisphosphate (By similarity). Cleaves CoA, CoA esters and oxidized CoA with similar efficiencies (By similarity). Preferentially hydrolyzes medium-chain acyl-CoAs and bile acid-CoAs (By similarity). Has no activity toward NDP-sugars, CDP-alcohols, (deoxy)nucleoside 5'-triphosphates, nucleoside 5'-di or monophosphates, diadenosine polyphosphates, NAD, NADH, NADP, NADPH or thymidine-5'-monophospho-p-nitrophenyl ester (By similarity). May be required to eliminate oxidized CoA from peroxisomes, or regulate CoA and acyl-CoA levels in this organelle in response to metabolic demand (By similarity). Does not play a role in U8 snoRNA decapping activity (By similarity). Binds U8 snoRNA (By similarity). Exhibits decapping activity towards dpCoA-capped RNAs in vitro (By similarity).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRLGLPEEPVRNSLLDDAKARLRKYDIGGKYSHLPYNKYSVLLPLVAKEGKLHLLFTVRSEKTDTLITPFVGLIDHNFQAQPNPAEVKDVFLVPLAYFLHPQVHDQHYVTRLGHRFINHIFEYTNPEDGVTYQIKGMTANLAVLVAFIILEKKPTFEVQFNLNDVLASSEELFLKVHKKATSRL
+PTM	Methylation:31,206

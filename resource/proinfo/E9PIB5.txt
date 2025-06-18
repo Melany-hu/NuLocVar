@@ -1,0 +1,25 @@
+UniprotID	E9PIB5
+Accession	E9PIB5
+EntryName	E9PIB5_HUMAN
+ProteinName	Synaptotagmin like 2
+GeneName	SYTL2
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKSVPAFLQDEVSGSVMSVYSGDFGNLEVKGNIQFAIEYVESLKELHVFVAQCKDLAAADVKKQRSDPWSFTVVAQAGTISAHSNLRLPGSSDSPASAS
+PTM	

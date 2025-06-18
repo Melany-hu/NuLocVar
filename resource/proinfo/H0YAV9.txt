@@ -1,0 +1,25 @@
+UniprotID	H0YAV9
+Accession	H0YAV9
+EntryName	H0YAV9_HUMAN
+ProteinName	poly(A)-specific ribonuclease (EC 3.1.13.4)
+GeneName	CNOT7
+Length	208
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEEMKKIRQVIRKYNYVAMDTEFPGVVARPIGEFRSNADYQYQLLRCNVDLLKIIQLGLTFMNEQGEYPPGTSTWQFNFKFNLTEDMYAQDSIELLTTSGIQFKKHEEEGIETQYFAELLMTSGVVLCEGVKWLSFHSGYDFGYLIKILTNSNLPEEELDFFEILRLFFPVIYDVKYLMKSCKNLKVRLRMALSTAAHCSDQVTVMRA
+PTM	

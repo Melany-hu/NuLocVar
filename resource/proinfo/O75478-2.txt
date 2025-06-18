@@ -1,0 +1,25 @@
+UniprotID	O75478-2
+Accession	O75478;A8MVD0;B3KMU9;Q9BVJ0;Q9UCW2;Q9UP49
+EntryName	TAD2A_HUMAN
+ProteinName	Transcriptional adapter 2-alpha (Transcriptional adapter 2-like) (ADA2-like protein)
+GeneName	TADA2A TADA2L KL04P
+Length	305
+Function	Component of the ATAC complex, a complex with histone acetyltransferase activity on histones H3 and H4. Required for the function of some acidic activation domains, which activate transcription from a distant site (By similarity). Binds double-stranded DNA. Binds dinucleosomes, probably at the linker region between neighboring nucleosomes. Plays a role in chromatin remodeling. May promote TP53/p53 'Lys-321' acetylation, leading to reduced TP53 stability and transcriptional activity (PubMed:22644376). May also promote XRCC6 acetylation thus facilitating cell apoptosis in response to DNA damage (PubMed:22644376).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRLGPFSNDPSDKPPCRGCSSYLMEPYIKCAECGPPPFFLCLQCFTRGFEYKKHQSDHTYEIMTSDFPVLDPSWTAQEEMALLEAVMDCGFGNWQDVANQMCTKTKEECEKHYMKHFINNPLFASTLLNLKQAEEAKTADTAIPFHSTDDPPRPTFDSLLSRDMAGYMPARADFIEEFDNYAEWDLRDIDFVEDDSDILHALKMAVVDIYHSRLKERQRRKKIIRDHGLINLRKFQLMERRYPKEVQDLYETMRRFARIVGPVEHDKFIESHACRWFLSLEQYLCVYIYINRRDNGVFYVKFYK
+PTM	Methylation:132,375,379,421;Phosphorylation:142,159,162,348,361,431;SUMOylation:116,132,138,375;Ubiquitylation:132,407

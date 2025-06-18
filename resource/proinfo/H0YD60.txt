@@ -1,0 +1,25 @@
+UniprotID	H0YD60
+Accession	H0YD60
+EntryName	H0YD60_HUMAN
+ProteinName	DENN domain containing 2B
+GeneName	DENND2B
+Length	111
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPASVCASSSESLPHCCWSAGSFLWQISSAASEHIPGPFWEGRSQGLVLGLAGYSSSANLGSWKRCPSCSAWGLPLAGEGRVPSPAAPTRWWPCSTPSPGSTPSFLSSRPP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O95196-3
+Accession	O95196;Q71M39;Q71M40
+EntryName	CSPG5_HUMAN
+ProteinName	Chondroitin sulfate proteoglycan 5 (Acidic leucine-rich EGF-like domain-containing brain protein) (Neuroglycan C)
+GeneName	CSPG5 CALEB NGC
+Length	401
+Function	May function as a growth and differentiation factor involved in neuritogenesis. May induce ERBB3 activation.
+Subcellular Location	Cell membrane; Synaptic cell membrane; Endoplasmic reticulum membrane; Golgi apparatus membrane; Cell surface; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPAIPEATEASGPPSPTPGDKLSPASELPKESPLEVWLNLGGSTPDPQGPELTYPFQGTLEPQPASDIIDIDYFEGLDGEGRGADLGSFPGSPGTSENHPDTEGETPSWSLLDLYDDFTPFDESDFYPTTSFYDDLDEEEEEEEDDKDAVGGGDLEDENELLVPTGKPGLGPGTGQPTSRWHAVPPQHTLGSVPGSSIALRPRPGEPGRDLASSENGTECRSGFVRHNGSCRSVCDLFPSYCHNGGQCYLVENIGAFCRCNTQDYIWHKGMRCESIITDFQVMCVAVGSAALVLLLLFMMTVFFAKKLYLLKTENTKLRRTNKFRTPSELHNDNFSLSTIAEGSHPNDDPSAPHKIQEVLKSCLKEEESFNIQNSMSPKLEGGKGDQADLDVNCLQNNLT
+PTM	Methylation:47,451,527,550;Phosphorylation:541,543;Ubiquitylation:527

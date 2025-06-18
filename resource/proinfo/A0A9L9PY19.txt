@@ -1,0 +1,25 @@
+UniprotID	A0A9L9PY19
+Accession	A0A9L9PY19
+EntryName	A0A9L9PY19_HUMAN
+ProteinName	Troponin T, fast skeletal muscle
+GeneName	TNNT3
+Length	256
+Function	Troponin T is the tropomyosin-binding subunit of troponin, the thin filament regulatory complex which confers calcium-sensitivity to striated muscle actomyosin ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDEEVEQVEEQYEEEEEAQEEAAEVHEEVHEPEEKPRPKLTAPKIPEGEKVDFDDIQKKRQNKDLMELQALIDSHFEARKKEEEELVALKERIEKRRAERAEQQRIRAEKERERQNRLAEEKARREEEDAKRRAEDDLKKKKALSSMGANYSSYLAKADQKRGKKQTAREMKKKILAERRKPLNIDHLGEDKLRDKAKELWETLHQLEIDKFEFGEKLKRQKYDIMNVRARVQMLAKFSKKAGTPAKGKVGGRWK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YKD9
+Accession	H0YKD9
+EntryName	H0YKD9_HUMAN
+ProteinName	Thyroid hormone receptor interactor 4
+GeneName	TRIP4
+Length	111
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSELQATYRLLRGKDVEFPNDYPSGCLLGCVDLIDCLSQKQFKEQFPDISQESDSPFVFICKNPQEMVVKFPIKGNPKICSLEDERTSEFLGISWKSLFLLYLVSPISFPF
+PTM	

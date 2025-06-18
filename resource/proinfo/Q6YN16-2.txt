@@ -1,0 +1,25 @@
+UniprotID	Q6YN16-2
+Accession	Q6YN16;A8K1L4;A8K8X1;A8MSV3;Q658M8;Q9BT58
+EntryName	HSDL2_HUMAN
+ProteinName	Hydroxysteroid dehydrogenase-like protein 2 (EC 1.-.-.-) (Short chain dehydrogenase/reductase family 13C member 1)
+GeneName	HSDL2 C9orf99 SDR13C1
+Length	345
+Function	Has apparently no steroid dehydrogenase activity (PubMed:19703561). Controls bile acid (BA) and lipid metabolism in response to nutritional cues (PubMed:38820148).
+Subcellular Location	Peroxisome; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPNTGRLAGCTVFITGASRGIGKAIALKAAKDGANIVIAAKTAQPHPKLLGTIYTAAEEIEAVGGKALPCIVDVRDEQQISAAVEKAIKKFGAYTIAKYGMSMYVLGMAEEFKGEIAVNALWPKTAIHTAAMDMLGGPGIESQCRKVDIIADAAYSIFQKPKSFTGNFVIDENILKEEGIENFDVYAIKPGHPLQPDFFLDEYPEAVSKKVESTGAVPEFKEEKLQLQPKPRSGAVEETFRIVKDSLSDDVVKATQAIYLFELSGEDGGTWFLDLKSKGGNVGYGEPSDQADVVMSMTTDDFVKMFSGKLKPTMAFMSGKLKIKGNMALAIKLEKLMNQMNARL
+PTM	Acetylation:32,42,49,87,141,163,263,284,295,298,383,385,394,409;Methylation:24,29,67,87,141,163,172,187,250,263,327,350;Phosphorylation:287,320,351;SUMOylation:295;Ubiquitylation:87,141,144

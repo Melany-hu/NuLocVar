@@ -1,0 +1,25 @@
+UniprotID	H0Y923
+Accession	H0Y923
+EntryName	H0Y923_HUMAN
+ProteinName	Protein kinase C and casein kinase substrate in neurons 2
+GeneName	PACSIN2
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTEVRVRALYDYEGQEHDELSFKAETGFHHIIQSGLELLSSSDPPASASQSAGITGMSP
+PTM	

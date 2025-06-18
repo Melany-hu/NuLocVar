@@ -1,0 +1,25 @@
+UniprotID	P78383-2
+Accession	P78383;B4DEC4;J3KQV4;Q96EW7
+EntryName	S35B1_HUMAN
+ProteinName	Solute carrier family 35 member B1 (ATP/ADP exchanger ER) (AXER) (Endoplasmic reticulum ATP/ADP translocase) (UDP-galactose transporter-related protein 1) (UGTrel1)
+GeneName	SLC35B1 UGTREL1
+Length	359
+Function	ATP:ADP antiporter that catalyzes the exchange of ATP and ADP across the endoplasmic reticulum (ER) membrane. Imports ATP from the cytosol to the ER lumen and exports ADP in the opposite direction (PubMed:30154480, PubMed:35041824). Regulates ER energy metabolism and protein biogenesis. Appears to be part of a calcium-dependent ER to cytosol low energy response axis, where calcium efflux from ER to the cytosol triggers ATP import into the ER lumen to maintain sufficient ATP supply. Provides ATP to ER chaperone HSPA5 that drives protein folding and trafficking in the ER (PubMed:30154480, PubMed:35041824). Can transport dATP, UTP or UDP in exchange for ATP, but the physiological relevance of this process remains to be established (PubMed:30154480, PubMed:35041824).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPLPPVGDVRLELSPPPPLLPVPVVSGSPVGSSGRLMASSSSLVPDRLRLPLCFLGVFVCYFYYGILQEKITRGKYGEGAKQETFTFALTLVFIQCVINAVFAKILIQFFDTARVDRTRSWLYAACSISYLGAMVSSNSALQFVNYPTQVLGKSCKPIPVMLLGVTLLKKKYPLAKYLCVLLIVAGVALFMYKPKKVVGIEEHTVGYGELLLLLSLTLDGLTGVSQDHMRAHYQTGSNHMMLNINLWSTLLLGMGILFTGELWEFLSFAERYPAIIYNILLFGLTSALGQSFIFMTVVYFGPLTCSIITTTRKFFTILASVILFANPISPMQWVGTVLVFLGLGLDAKFGKGAKKTSH
+PTM	Acetylation:34;Methylation:34,117;Ubiquitylation:39,135

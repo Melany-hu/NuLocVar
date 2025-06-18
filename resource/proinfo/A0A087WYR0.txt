@@ -1,0 +1,25 @@
+UniprotID	A0A087WYR0
+Accession	A0A087WYR0
+EntryName	A0A087WYR0_HUMAN
+ProteinName	Signal recognition particle 19 kDa protein
+GeneName	SRP19
+Length	120
+Function	Component of the signal recognition particle (SRP) complex, a ribonucleoprotein complex that mediates the cotranslational targeting of secretory and membrane proteins to the endoplasmic reticulum (ER). Binds directly to 7SL RNA. Mediates binding of SRP54 to the SRP complex.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACAAARSPADQDRFICIYPAYLNNKKTIAEGRRIPISKKNKMYSREWNRDVQYRGRVRVQLKQEDGSLCLVQFPSRKSVMLYAAEMIPKLKTRTQKTGGADQSLQQGEGSKKGKGKKKK
+PTM	

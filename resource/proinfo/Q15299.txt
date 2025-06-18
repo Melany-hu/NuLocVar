@@ -1,0 +1,25 @@
+UniprotID	Q15299
+Accession	Q15299
+EntryName	Q15299_HUMAN
+ProteinName	RARB protein
+GeneName	RARB
+Length	106
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLESWIAEQTSAVNSARGLQEEKEKKTVEWKVSQPKPFPRGSHSLFYSLGLACAFSGVQKYISYNQFNRQKGAQRNLKCGLGGEAVGGRRAGAGGTPFSKLSRRK
+PTM	

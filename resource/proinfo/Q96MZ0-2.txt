@@ -1,0 +1,25 @@
+UniprotID	Q96MZ0-2
+Accession	Q96MZ0;B7Z621;Q5TE60;Q68CW7;Q9BQJ7;Q9BQV4;Q9BWJ4;Q9H3Y2;Q9H4G5
+EntryName	GD1L1_HUMAN
+ProteinName	Ganglioside-induced differentiation-associated protein 1-like 1 (GDAP1-L1)
+GeneName	GDAP1L1
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPNNLTPTNCSWWPISALESDAAKPAEAPDAPEAASPAHWPRESLVLYHWTQSFSSQKVRLVIAEKGLVCEERDVSLPQSEHKEPWFMRLNLGEEVPVIIHRDNIISDYDQIIDYVERTFTGGPRLAASLELRGANPRGQLGRAQ
+PTM	Methylation:68,247;Phosphorylation:38,294

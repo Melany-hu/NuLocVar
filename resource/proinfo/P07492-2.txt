@@ -1,0 +1,25 @@
+UniprotID	P07492-2
+Accession	P07492;P07491;P81553;Q14454;Q53YA0;Q9BSY7
+EntryName	GRP_HUMAN
+ProteinName	Gastrin-releasing peptide (GRP) [Cleaved into: Neuromedin-C (GRP-10) (GRP18-27)]
+GeneName	GRP
+Length	138
+Function	Stimulates the release of gastrin and other gastrointestinal hormones (By similarity). Contributes to the perception of prurient stimuli and to the transmission of itch signals in the spinal cord that promote scratching behavior (By similarity). Contributes primarily to nonhistaminergic itch sensation (By similarity). In one study, shown to act in the amygdala as part of an inhibitory network which inhibits memory specifically related to learned fear (By similarity). In another study, shown to act on vasoactive intestinal peptide (VIP)-expressing cells in the auditory cortex, most likely via extrasynaptic diffusion from local and long-range sources, to mediate disinhibition of glutamatergic cells via VIP cell-specific GRPR signaling which leads to enhanced auditory fear memories (By similarity). Contributes to the regulation of food intake (By similarity). Inhibits voltage-gated sodium channels but enhances voltage-gated potassium channels in hippocampal neurons (By similarity). Induces sighing by acting directly on the pre-Botzinger complex, a cluster of several thousand neurons in the ventrolateral medulla responsible for inspiration during respiratory activity (By similarity).
+Subcellular Location	Secreted; Cytoplasmic vesicle; Secretory vesicle lumen; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGRELPLVLLALVLCLAPRGRAVPLPAGGGTVLTKMYPRGNHWAVGHLMGKKSTGESSSVSERGSLKQQLREYIRWEEAARNLLGLIEAKENRNHQPPQPKALGNQQPSWDSEDSSNFKDLVDSLLQVLNVKEGTPS
+PTM	Methylation:91

@@ -1,0 +1,25 @@
+UniprotID	Q7Z5B4-6
+Accession	Q7Z5B4;B0B1U0;B2RD25;D3DQU5;Q6UX78;Q7Z5B3;Q86T94;Q8TBJ9;Q9HAH8
+EntryName	RIC3_HUMAN
+ProteinName	Protein RIC-3 (Resistant to inhibitor of cholinesterase 3)
+GeneName	RIC3 UNQ720/PRO1385
+Length	288
+Function	Molecular chaperone which facilitates proper subunit assembly and surface trafficking of alpha-7 (CHRNA7) and alpha-8 (CHRNA8) nicotinic acetylcholine receptors (PubMed:12821669, PubMed:15504725, PubMed:16120769, PubMed:18691158, PubMed:32204458). May also promote functional expression of homomeric serotoninergic 5-HT3 receptors, and of heteromeric acetylcholine receptors alpha-3/beta-2, alpha-3/beta-4, alpha-4/beta-2 and alpha-4/beta-4.
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYSTVQRVALASGLVLALSLLLPKAFLSRGKRQEPPPTPEGKLGRFPPMMHHHQAPSDGQTPGARFQRSHLAEAFAKAKGSGGGAGGGGSGRGLMGQIIPIYGFGIFLYILYILFKLSKGKTTAEDGKCYTAMPGNTHRKISYPEETYPIYDLSDCIKRRQETILVDYPDPKELSAEEIAERMGMIEEEESDHLGWESLPTDPRAQEDNSVTSCDPKPETCSCCFHEDEDPAVLAENAGFSADSYPEQEETTKEEWSQDFKDEGLGISTDKAYTGSMLRKRNPQGLE
+PTM	Methylation:32,78,117,153,299;Phosphorylation:82,91,119,143

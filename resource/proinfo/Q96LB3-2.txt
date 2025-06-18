@@ -1,0 +1,25 @@
+UniprotID	Q96LB3-2
+Accession	Q96LB3;Q3B789;Q5VY34;Q6PGQ8;Q9H643;Q9H8G7
+EntryName	IFT74_HUMAN
+ProteinName	Intraflagellar transport protein 74 homolog (Capillary morphogenesis gene 1 protein) (CMG-1) (Coiled-coil domain-containing protein 2)
+GeneName	IFT74 CCDC2 CMG1
+Length	372
+Function	Component of the intraflagellar transport (IFT) complex B: together with IFT81, forms a tubulin-binding module that specifically mediates transport of tubulin within the cilium (PubMed:23990561). Binds beta-tubulin via its basic region (PubMed:23990561). Required for ciliogenesis (PubMed:23990561). Essential for flagellogenesis during spermatogenesis (PubMed:33689014).
+Subcellular Location	Cell projection; Cilium; Cytoplasmic vesicle; Cell projection; Cilium; Flagellum; Cytoplasmic vesicle; Secretory vesicle; Acrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASNHKSSAARPVSRGGVGLTGRPPSGIRPLSGNIRVATAMPPGTARPGSRGCPIGTGGVLSSQIKVAHRPVTQQGLTGMKTGTKGPQRQILDKSYYLGLLRSKISELTTEVNKLQKGIEMYNQENSVYLSYEKRAETLAVEIKELQGQLADYNMLVDKLNTNTEMEEVMNDYNMLKAQNDRETQSLDVIFTERQAKEKQIRSVEEEIEQEKQATDDIIKNMSFENQVKYLEMKTTNEKLLQELDTLQQQLDSQNMKKESLEAEIAHSQVKQEAVLLHEKLYELESHRDQMIAEDKSIGSPMEEREKLLKQIKDDNQEIASMERQLTDTKEKINQFIEEIRQLDMDLEEHQDPTNYGWKILEKNTGSFKKQV
+PTM	Acetylation:144;Methylation:11,15,94,114,144,220,229,239,384,419,434,455,462,530;Phosphorylation:7,14,26,45,260,300,329,469,472,567,570;SUMOylation:271;Ubiquitylation:434,576

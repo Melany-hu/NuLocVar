@@ -1,0 +1,25 @@
+UniprotID	Q9UIS9-11
+Accession	Q9UIS9;A4UTZ0;B4DXJ5;E9PEC5;K7ELI2;K7EQZ4;K7ESN0;O15248;O95241;Q7Z7B5;Q8N4W4;Q9UNZ6;Q9UNZ7;Q9UNZ8;Q9UNZ9
+EntryName	MBD1_HUMAN
+ProteinName	Methyl-CpG-binding domain protein 1 (CXXC-type zinc finger protein 3) (Methyl-CpG-binding protein MBD1) (Protein containing methyl-CpG-binding domain 1)
+GeneName	MBD1 CXXC3 PCM1
+Length	535
+Function	Transcriptional repressor that binds CpG islands in promoters where the DNA is methylated at position 5 of cytosine within CpG dinucleotides. Binding is abolished by the presence of 7-mG that is produced by DNA damage by methylmethanesulfonate (MMS). Acts as transcriptional repressor and plays a role in gene silencing by recruiting ATF7IP, which in turn recruits factors such as the histone methyltransferase SETDB1. Probably forms a complex with SETDB1 and ATF7IP that represses transcription and couples DNA methylation and histone 'Lys-9' trimethylation. Isoform 1 and isoform 2 can also repress transcription from unmethylated promoters.
+Subcellular Location	Nucleus; Nucleus matrix; Nucleus speckle; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	84..88
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	84...89;269...273
+validnes_region	
+nesbase_region	
+Sequence	MAEDWLDCPALGPGWKRREVFRKSGATCGRSDTYYQSPTGDRIRSKVELTRYLGPACDLTLFDFKQGILCYPAPKAHPVAVASKKRKKPSRPAKTRKRQVGPQSGEVRKEAPRDETKADTDTAPASFPAPGCCENCGISFSGDGTQRQRLKTLCKDCRAQRIAFNREQRMFKRVGCGECAACQVTEDCGACSTCLLQLPHDVASGLFCKCERRRCLRIVERSRGCGVCRGCQTQEDCGHCPICLRPPRPGLRRQWKCVQRRCLRGKHARRKGGCDSKMAARRRPGAQPLPPPPPSQSPEPTEPHPRALAPSPPAEFIYYCVDEDELKRLLPSVWSESEDGAGSPPPYRRRKRPSSARRHHLGPTLKPTLATRTAQPDHTQAPTKQEAGGGFVLPPPGTDLVFLREGASSPVQVPGPVAASTEALLQAVDPGLPSVKQEPPDPEEDKEENKDDSASKLAPEEEAGGAGTPVITEIFSLGGTRFRDTAVWLPRAGTREGKMDVKCGRPRTQWSPRARAGTHEDGLEPMSVSHHLQLR
+PTM	Acetylation:84,422;Methylation:44,593;Phosphorylation:37,295,297,301,311,365,388,391,393,399,403,464,465,505,510,513,518,555,557,570,587;SUMOylation:46,75,84,117,256,277,361,383,422,440,499,502,528,538,548,558;Ubiquitylation:75,151,337,422

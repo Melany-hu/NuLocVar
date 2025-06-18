@@ -1,0 +1,25 @@
+UniprotID	A0A7P0TA63
+Accession	A0A7P0TA63
+EntryName	A0A7P0TA63_HUMAN
+ProteinName	Medium-chain specific acyl-CoA dehydrogenase, mitochondrial
+GeneName	ACADM
+Length	236
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGFGRCCRVLRSISRFHWRSQHTKANRQREPGLGFSFEFTEQQKEFQATARKFAREEIIPVAAEYDKTGEYPVPLIRRAWELGLMNTHIPENCGGLGLGTFDACLISEELAYGCTGVQTAIEGNSLGQMPIIIAGNDQQKKKYLGRMTEEPLMCAYCVTEPGAGSDVAGIKTKAEKKGDEYIINGQKMWITNGGKANWPHFLAQDTKRHSLLALVSNVSSLRPGCSWIQSHESQ
+PTM	

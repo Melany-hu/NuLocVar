@@ -1,0 +1,25 @@
+UniprotID	B7Z3L9
+Accession	B7Z3L9
+EntryName	B7Z3L9_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 11 (cDNA FLJ57736, highly similar to PolypeptideN-acetylgalactosaminyltransferase 11)
+GeneName	GALNT11
+Length	133
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSVTVRYFCYGCLFTSATWTVLLFVYFNFSEVTQPLKNVPVKGSGPHGPSPKKFYPRFTRGPSRVLEPQFKANKIDDVIDSRVEDPEEGHLKFSSELDVKKSSTHLTCQLLVLLSVSIMKRFLPCFGQCTVS
+PTM	

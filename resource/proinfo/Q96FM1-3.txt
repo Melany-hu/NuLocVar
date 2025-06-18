@@ -1,0 +1,25 @@
+UniprotID	Q96FM1-3
+Accession	Q96FM1;B4DGK7;Q86Z03;Q8NBJ8
+EntryName	PGAP3_HUMAN
+ProteinName	Post-GPI attachment to proteins factor 3 (COS16 homolog) (hCOS16) (Gene coamplified with ERBB2 protein) (PER1-like domain-containing protein 1)
+GeneName	PGAP3 CAB2 PERLD1 UNQ546/PRO1100
+Length	299
+Function	Involved in the lipid remodeling steps of GPI-anchor maturation. Lipid remodeling steps consist in the generation of 2 saturated fatty chains at the sn-2 position of GPI-anchors proteins. Required for phospholipase A2 activity that removes an acyl-chain at the sn-2 position of GPI-anchors during the remodeling of GPI.
+Subcellular Location	Golgi apparatus membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLAARLVLLAGAAALASGSQGDREPVYRDCVLQCEEQNCSGGALNHFRSRQPIYMSLAGWTCRDDCKYECMWVTVGLYLQEGHKVPQFHGKWPFSRFLFFQEPASAVASFLNGLASLVMLCRYRTFVPASSPMYHTCVAFAWKMDYFCASTVILHSIYLCCVRTVGLQHPAVVSAFRALLLLMLTVHVSYLSLIRFDYGYNLVANVAIGLVNVVWWLAWCLWNQRRLPHVRKCVVVVLLLQGLSLLELLDFPPLFWVLDAHAIWHISTIPVHVLFFSFLEDDSLYLLKESEDKFKLD
+PTM	Glycosylation:40;Methylation:166;Phosphorylation:76,97,213

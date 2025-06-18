@@ -1,0 +1,25 @@
+UniprotID	L8EAF3
+Accession	L8EAF3
+EntryName	L8EAF3_HUMAN
+ProteinName	Alternative protein ZEB1
+GeneName	ZEB1
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNASQMQKMSKTMILMLKSFYNNKTLLSFFLRHLKRTRGRAHQKPVVMMKMEHQMHFHNYSPVHIVIEAINALPL
+PTM	

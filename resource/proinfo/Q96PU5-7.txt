@@ -1,0 +1,25 @@
+UniprotID	Q96PU5-7
+Accession	Q96PU5;O43165;Q3LSM7;Q7Z5F1;Q7Z5F2;Q7Z5N3;Q8N5A7;Q8WUU9;Q9BW58;Q9H2W4;Q9NT88
+EntryName	NED4L_HUMAN
+ProteinName	E3 ubiquitin-protein ligase NEDD4-like (EC 2.3.2.26) (EC 2.3.2.36) (HECT-type E3 ubiquitin transferase NED4L) (NEDD4.2) (Nedd4-2)
+GeneName	NEDD4L KIAA0439 NEDL3
+Length	967
+Function	E3 ubiquitin-protein ligase that mediates the polyubiquitination of lysine and cysteine residues on target proteins and is thereby implicated in the regulation of various signaling pathways including autophagy, innate immunity or DNA repair (PubMed:20064473, PubMed:31959741, PubMed:33608556). Inhibits TGF-beta signaling by triggering SMAD2 and TGFBR1 ubiquitination and proteasome-dependent degradation (PubMed:15496141). Downregulates autophagy and cell growth by ubiquitinating and reducing cellular ULK1 or ASCT2 levels (PubMed:28820317, PubMed:31959741). Promotes ubiquitination and internalization of various plasma membrane channels such as ENaC, SCN2A/Nav1.2, SCN3A/Nav1.3, SCN5A/Nav1.5, SCN9A/Nav1.7, SCN10A/Nav1.8, KCNA3/Kv1.3, KCNH2, EAAT1, KCNQ2/Kv7.2, KCNQ3/Kv7.3 or CLC5 (PubMed:26363003, PubMed:27445338). Promotes ubiquitination and degradation of SGK1 and TNK2. Ubiquitinates BRAT1 and this ubiquitination is enhanced in the presence of NDFIP1 (PubMed:25631046). Plays a role in dendrite formation by melanocytes (PubMed:23999003). Involved in the regulation of TOR signaling (PubMed:27694961). Ubiquitinates and regulates protein levels of NTRK1 once this one is activated by NGF (PubMed:27445338). Plays a role in antiviral innate immunity by catalyzing 'Lys-29'-linked cysteine ubiquitination of TRAF3, resulting in enhanced 'Lys-48' and 'Lys-63'-linked ubiquitination of TRAF3 (PubMed:33608556). Ubiquitinates TTYH2 and TTYH3 and regulates protein levels of TTYH2 (PubMed:18577513).
+Subcellular Location	Cytoplasm; Golgi apparatus; Endosome; Multivesicular body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRLAFEQGESRILRVKVVSGIDLAKKDIFGASDPYVKLSLYVADENRELALVQTKTIKKTLNPKWNEEFYFRVNPSNHRLLFEVFDENRLTRDDFLGQVDVPLSHLPTEDPTMERPYTFKDFLLRPRSHKSRVKGFLRLKMAYMPKNGGQDEENSDQRDDMEHGWEVVDSNDSASQHQEELPPPPLPPGWEEKVDNLGRTYYVNHNNRTTQWHRPSLMDVSSESDNNIRQINQEAAHRRFRSRRHISEDLEPEPSEGGDVPEPWETISEEVNIAGDSLGLALPPPPASPGSRTSPQELSEELSRRLQITPDSNGEQFSSLIQREPSSRLRSCSVTDAVAEQGHLPPPSAPAGRARSSTVTGGEEPTPSVAYVHTTPGLPSGWEERKDAKGRTYYVNHNNRTTTWTRPIMQLAEDGASGSATNSNNHLIEPQIRRPRSLSSPTVTLSAPLEGAKDSPVRRAVKDTLSNPQSPQPSPYNSPKPQHKVTQSFLPPGWEMRIAPNGRPFFIDHNTKTTTWEDPRLKFPVHMRSKTSLNPNDLGPLPPGWEERIHLDGRTFYIDHNSKITQWEDPRLQNPAITGPAVPYSREFKQKYDYFRKKLKKPADIPNRFEMKLHRNNIFEESYRRIMSVKRPDVLKARLWIEFESEKGLDYGGVAREWFFLLSKEMFNPYYGLFEYSATDNYTLQINPNSGLCNEDHLSYFTFIGRVAGLAVFHGKLLDGFFIRPFYKMMLGKQITLNDMESVDSEYYNSLKWILENDPTELDLMFCIDEENFGQTYQVDLKPNGSEIMVTNENKREYIDLVIQWRFVNRVQKQMNAFLEGFTELLPIDLIKIFDENELELLMCGLGDVDVNDWRQHSIYKNGYCPNHPVIQWFWKAVLLMDAEKRIRLLQFVTGTSRVPMNGFAELYGSNGPQLFTIEQWGSPEKLPRAHTCFNRLDLPPYETFEDLREKLLMAVENAQGFEGVD
+PTM	Glycosylation:453;Methylation:34,64,73,639,645,656,673,761,791,841,894;Phosphorylation:13,28,41,50,63,65,225,233,302,303,312,318,321,328,335,336,340,342,344,365,366,367,369,375,377,380,383,384,389,446,448,449,451,453,455,464,473,475,479,483,485,487,495,538,540,541,571,637,932;SUMOylation:462,489,539;Ubiquitylation:34,143,149,155,462,471,489,493,521,531,539,572,639,656,935

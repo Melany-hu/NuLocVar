@@ -1,0 +1,25 @@
+UniprotID	I3QNU8
+Accession	I3QNU8
+EntryName	I3QNU8_HUMAN
+ProteinName	Glutaminyl-tRNA synthetase
+GeneName	QARS
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTCRLGPKFLLVSGVSAMAALDSLSLFTSLGLSEQKARETLKNSALSAQLREAATQAQQTLGSTIDKATGILLYGLASRLRDTRRLSFLVSYIASKKIHTEPQLSAA
+PTM	

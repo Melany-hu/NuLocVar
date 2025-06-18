@@ -1,0 +1,25 @@
+UniprotID	Q9H9B1-4
+Accession	Q9H9B1;B1AQ58;B1AQ59;Q86X08;Q8TCN7;Q96F53;Q96JF1;Q96KH4
+EntryName	EHMT1_HUMAN
+ProteinName	Histone-lysine N-methyltransferase EHMT1 (EC 2.1.1.-) (EC 2.1.1.367) (Euchromatic histone-lysine N-methyltransferase 1) (Eu-HMTase1) (G9a-like protein 1) (GLP) (GLP1) (Histone H3-K9 methyltransferase 5) (H3-K9-HMTase 5) (Lysine N-methyltransferase 1D)
+GeneName	EHMT1 EUHMTASE1 GLP KIAA1876 KMT1D
+Length	808
+Function	Histone methyltransferase that specifically mono- and dimethylates 'Lys-9' of histone H3 (H3K9me1 and H3K9me2, respectively) in euchromatin. H3K9me represents a specific tag for epigenetic transcriptional repression by recruiting HP1 proteins to methylated histones. Also weakly methylates 'Lys-27' of histone H3 (H3K27me). Also required for DNA methylation, the histone methyltransferase activity is not required for DNA methylation, suggesting that these 2 activities function independently. Probably targeted to histone H3 by different DNA-binding proteins like E2F6, MGA, MAX and/or DP1. During G0 phase, it probably contributes to silencing of MYC- and E2F-responsive genes, suggesting a role in G0/G1 transition in cell cycle. In addition to the histone methyltransferase activity, also methylates non-histone proteins: mediates dimethylation of 'Lys-373' of p53/TP53. Represses the expression of mitochondrial function-related genes, perhaps by occupying their promoter regions, working in concert with probable chromatin reader BAZ2B (By similarity).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	731...736;300...305
+validnes_region	
+nesbase_region	
+Sequence	MAAADAEAVPARGEPQQDCCVKTELLGEETPMAADEGSAEKQAGEAHMAADGETNGSCENSDASSHANAAKHTQDSARVNPQDGTNTLTRIAENGVSERDSEAAKQNHVTADDFVQTSVIGSNGYILNKPALQAQPLRTTSTLASSLPGHAAKTLPGGAGKGRTPSAFPQTPAAPPATLGEGSADTEDRKLPAPGADVKVHRARKTMPKSVVGLHAASKDPREVREARDHKEPKEEINKNISDFGRQQLLPPFPSLHQSLPQNQCYMATTKSQTACLPFVLAAAVSRKKKRRMGTYSLVPKKKTKVLKQRTVIEMFKSITHSTVGSKGEKDLGASSLHVNGESLEMDSDEDDSEELEEDDGHGAEQAAAFPTEDSRTSKESMSEADRAQKMDGESEEEQESVDTGEEEEGGDESDLSSESSIKKKFLKRKGKTDSPWIKPARKRRRRSRKKPSGALGSESYKSSAGSAEQTAPGDSTGYMEVSLDSLDLRVKGILSSQAEGLANGPDVLETDGLQEVPLCSCRMETPKSREITTLANNQCMATESVDHELGRCTNSVVKYELMRPSNKAPLLVLCEDHRGRMVKHQCCPGCGYFCTAGNFMECQPESSISHRFHKDCASRVNNASYCPHCGEESSKAKEVTIAKADTTSTVTPVPGQEKGSALEGRADTTTGSAAGPPLSEDDKLQGAASHVPEGFDPTGPAGLGRPTPGLSQGPGKETLESALIALDSEKPKKLRFHPKQLYFSARQGELQKVLLMLVDGIDPNFKMEHQNKRSPLHAAAEAGHVDICHMLVQFCRLGSPRSRGCLW
+PTM	Acetylation:129,219,239,740;Methylation:129,153,161,189,239,432,753,827,835,890,895,1002,1180;Phosphorylation:30,38,142,145,146,164,183,242,343,348,353,372,375,383,395,401,404,433,435,448,453,463,464,467,483,486,497,556,560,652,998,1004,1018,1047,1048,1276;SUMOylation:22,41,190,199,219,231,234,301,317,327,379,432,439,492,528,559,568,636,638,644,659,684,717,731,734,740,767,827;Ubiquitylation:439,644,659,731,740,827,895,968,1180

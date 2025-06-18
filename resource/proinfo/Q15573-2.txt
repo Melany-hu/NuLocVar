@@ -1,0 +1,25 @@
+UniprotID	Q15573-2
+Accession	Q15573;B2RDZ8;D3DTB7;Q9NWA1
+EntryName	TAF1A_HUMAN
+ProteinName	TATA box-binding protein-associated factor RNA polymerase I subunit A (RNA polymerase I-specific TBP-associated factor 48 kDa) (TAFI48) (TATA box-binding protein-associated factor 1A) (TBP-associated factor 1A) (Transcription factor SL1) (Transcription initiation factor SL1/TIF-IB subunit A)
+GeneName	TAF1A
+Length	336
+Function	Component of the transcription factor SL1/TIF-IB complex, which is involved in the assembly of the PIC (pre-initiation complex) during RNA polymerase I-dependent transcription. The rate of PIC formation probably is primarily dependent on the rate of association of SL1/TIF-IB with the rDNA promoter. SL1/TIF-IB is involved in stabilization of nucleolar transcription factor 1/UBTF on rDNA. Formation of SL1/TIF-IB excludes the association of TBP with TFIID subunits.
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	320...324
+validnes_region	
+nesbase_region	
+Sequence	MESFNTFANRMKNIGVMNYLKISLQHALYLLHHGMLKDAKRNLSEAETWRHGENTSSREILINLIQAYKGLLQYYTWSEKKMELSKLDKDDYAYNAVAQDVFNHSWKTSANISALIKIPGVWDPFVKSYVEMLEFYGDRDGAQEVLTNYAYDEKFPSNPNAHIYLYNFLKRQKAPRSKLISVLKILYQIVPSHKLMLEFHTLLRKSEKEEHRKLGLEVLFGVLDFAGCTKNITAWKYLAKYLKNILMGNHLAWVQEEWNSRKNWWPGFHFSYFWAKSDWKEDTALACEKAFVAGLLLGKGCRYFRYILKQDHQILGKKIKRMKRSVKKYSIVNPRL
+PTM	Glycosylation:345;Methylation:9,45,67,135,231,284,319,413,423,431;Phosphorylation:2,5,315;Ubiquitylation:200,292,423

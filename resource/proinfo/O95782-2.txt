@@ -1,0 +1,25 @@
+UniprotID	O95782-2
+Accession	O95782;Q96CI7;Q96PP6;Q96PP7;Q9H070
+EntryName	AP2A1_HUMAN
+ProteinName	AP-2 complex subunit alpha-1 (100 kDa coated vesicle protein A) (Adaptor protein complex AP-2 subunit alpha-1) (Adaptor-related protein complex 2 subunit alpha-1) (Alpha-adaptin A) (Alpha1-adaptin) (Clathrin assembly protein complex 2 alpha-A large chain) (Plasma membrane adaptor HA2/AP2 adaptin alpha A subunit)
+GeneName	AP2A1 ADTAA CLAPA1
+Length	955
+Function	Component of the adaptor protein complex 2 (AP-2). Adaptor protein complexes function in protein transport via transport vesicles in different membrane traffic pathways. Adaptor protein complexes are vesicle coat components and appear to be involved in cargo selection and vesicle formation. AP-2 is involved in clathrin-dependent endocytosis in which cargo proteins are incorporated into vesicles surrounded by clathrin (clathrin-coated vesicles, CCVs) which are destined for fusion with the early endosome. The clathrin lattice serves as a mechanical scaffold but is itself unable to bind directly to membrane components. Clathrin-associated adaptor protein (AP) complexes which can bind directly to both the clathrin lattice and to the lipid and protein components of membranes are considered to be the major clathrin adaptors contributing the CCV formation. AP-2 also serves as a cargo receptor to selectively sort the membrane proteins involved in receptor-mediated endocytosis. AP-2 seems to play a role in the recycling of synaptic vesicle membranes from the presynaptic surface. AP-2 recognizes Y-X-X- (Y-X-X-Phi) and -X-X-X-L- endocytosis signal motifs within the cytosolic tails of transmembrane cargo molecules. AP-2 may also play a role in maintaining normal post-endocytic trafficking through the ARF6-regulated, non-clathrin pathway. During long-term potentiation in hippocampal neurons, AP-2 is responsible for the endocytosis of ADAM10 (PubMed:23676497). The AP-2 alpha subunit binds polyphosphoinositide-containing lipids, positioning AP-2 on the membrane. The AP-2 alpha subunit acts via its C-terminal appendage domain as a scaffolding platform for endocytic accessory proteins. The AP-2 alpha and AP-2 sigma subunits are thought to contribute to the recognition of the -X-X-X-L- motif (By similarity).
+Subcellular Location	Cell membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAVSKGDGMRGLAVFISDIRNCKSKEAEIKRINKELANIRSKFKGDKALDGYSKKKYVCKLLFIFLLGHDIDFGHMEAVNLLSSNKYTEKQIGYLFISVLVNSNSELIRLINNAIKNDLASRNPTFMCLALHCIANVGSREMGEAFAADIPRILVAGDSMDSVKQSAALCLLRLYKASPDLVPMGEWTARVVHLLNDQHMGVVTAAVSLITCLCKKNPDDFKTCVSLAVSRLSRIVSSASTDLQDYTYYFVPAPWLSVKLLRLLQCYPPPEDAAVKGRLVECLETVLNKAQEPPKSKKVQHSNAKNAILFETISLIIHYDSEPNLLVRACNQLGQFLQHRETNLRYLALESMCTLASSEFSHEAVKTHIDTVINALKTERDVSVRQRAADLLYAMCDRSNAKQIVSEMLRYLETADYAIREEIVLKVAILAEKYAVDYSWYVDTILNLIRIAGDYVSEEVWYRVLQIVTNRDDVQGYAAKTVFEALQAPACHENMVKVGGYILGEFGNLIAGDPRSSPPVQFSLLHSKFHLCSVATRALLLSTYIKFINLFPETKATIQGVLRAGSQLRNADVELQQRAVEYLTLSSVASTDVLATVLEEMPPFPERESSILAKLKRKKGPGAGSALDDGRRDPSSNDINGGMEPTPSTVSTPSPSADLLGLRAAPPPAAPPASAGAGNLLVDVFDGPAAQPSLGPTPEEAFLSPGPEDIGPPIPEADELLNKFVCKNNGVLFENQLLQIGVKSEFRQNLGRMYLFYGNKTSVQFQNFSPTVVHPGDLQTQLAVQTKRVAAQVDGGAQVQQVLNIECLRDFLTPPLLSVRFRYGGAPQALTLKLPVTINKFFQPTEMAAQDFFQRWKQLSLPQQEAQKIFKANHPMDAEVTKAKLLGFGSALLDNVDPNPENFVGAGIIQTKALQVGCLLRLEPNAQAQMYRLTLRTSKEPVSRHLCELLAQQF
+PTM	Acetylation:31,48,177;Methylation:21,31,117,290,378,427,434,570,615,746,766,810,856,863,935;Phosphorylation:18,53,54,85,160,163,167,231,234,247,400,407,470,517,518,524,545,567,611,626,636,637,647,649,650,652,653,655,657,836,954,957;Ubiquitylation:26,31,35,45,48,117,165,277,403,615,620,766,810,856,880,907

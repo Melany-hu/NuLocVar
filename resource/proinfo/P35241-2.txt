@@ -1,0 +1,25 @@
+UniprotID	P35241-2
+Accession	P35241;A7YIJ8;A7YIK0;A7YIK3;B7Z9U6;F5H1A7;Q86Y61
+EntryName	RADI_HUMAN
+ProteinName	Radixin
+GeneName	RDX
+Length	257
+Function	Probably plays a crucial role in the binding of the barbed end of actin filaments to the plasma membrane.
+Subcellular Location	Cell membrane; Cytoplasm; Cytoskeleton; Cleavage furrow; Cell projection; Microvillus; Cell projection; Stereocilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLKQIEEQTIKAQKELEEQTRKALELDQERKRAKEEAERLEKERRAAEEAKSAIAKQAADQMKNQEQLAAELAEFTAKIALLEEAKKKKEEEATEWQHKAFAAQEDLEKTKEELKTVMSAPPPPPPPPVIPPTENEHDEHDENNAEASAELSNEGVMNHRSEEERVTETQKNERVKKQLQALSSELAQARDETKKTQNDVLHAENVKAGRDKYKTLRQIRQGNTKQRIDEFEAMWGPKLYALFQMRSCQSSIKQM
+PTM	Acetylation:35,60,71,72,79,83,139,165,237,253,254,258,262,296,316,344,391,400,435,544;Glycosylation:251,547;Methylation:27,35,53,72,79,83,133,151,162,209,237,253,254,258,262,263,273,275,296,306,313,335,344,360,371,380,427,458,464,556;Phosphorylation:66,243,249,270,291,299,532,533,545,564;SUMOylation:71,262;Ubiquitylation:3,27,35,72,79,83,139,162,209,211,233,237,253,254,258,262,263,296,306,316,327,335,352,360,363,371,400,405,412,427,435,458,520,525,526,556

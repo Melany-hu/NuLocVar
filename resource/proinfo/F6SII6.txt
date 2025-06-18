@@ -1,0 +1,25 @@
+UniprotID	F6SII6
+Accession	F6SII6
+EntryName	F6SII6_HUMAN
+ProteinName	Zinc finger and BTB domain containing 8 opposite strand
+GeneName	ZBTB8OS
+Length	64
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQEEEDVRDYNLTEEQKAIKAKYPPVNRKYEYQQTHLLQSPHRIYSHLHSSAIWNPYLHLMGT
+PTM	

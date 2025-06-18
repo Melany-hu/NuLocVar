@@ -1,0 +1,25 @@
+UniprotID	C9JI22
+Accession	C9JI22
+EntryName	C9JI22_HUMAN
+ProteinName	Carboxypeptidase (EC 3.4.16.-)
+GeneName	CPVL
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSYAGFLTVNKTYNSNLFFWFFPAQIQPEDAPVVLWLQGGPGGSSMFGLFVEHGPYVVTSNMTLRDRDFPWTTTLSMLYIDNPVGTGFSFTDDTHGYAVNEDDVARDLYSALIQFFQIFPEYKNNDFYVTGESYAGKYVP
+PTM	

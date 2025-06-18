@@ -1,0 +1,25 @@
+UniprotID	Q6UXF7-2
+Accession	Q6UXF7;B4DF90
+EntryName	CL18B_HUMAN
+ProteinName	C-type lectin domain family 18 member B (Mannose receptor-like protein 1)
+GeneName	CLEC18B MRLP1 UNQ306/PRO347
+Length	277
+Function	Binds polysaccharides in a Ca(2+)-independent manner (By similarity).
+Subcellular Location	Secreted; Endoplasmic reticulum; Golgi apparatus; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHPETSPGRGHLLAVLLALLGTTWAEVWPPQLQEQAPMAGALNRKESFLLLSLHNRLRSWVQPPAADMRRLLVWATSSQLGCGRHLCSAGQTAIEAFVCAYSPGGNWEVNGKTIIPYKKGAWCSLCTASVSGCFKAWDHAGGLCEVPRNPCRMSCQNHGRLNISTCHCHCPPGYTGRYCQGHLPNSNMPHSAMGTKPKTPGVPAIGSLVRCSLQCVHGRFREEECSCVCDIGYGGAQCASESCPRAPKEPAPLKTPLQWGISSQEPAVCLSFQLIQ
+PTM	Methylation:338;Phosphorylation:377,381

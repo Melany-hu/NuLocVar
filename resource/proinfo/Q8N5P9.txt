@@ -1,0 +1,25 @@
+UniprotID	Q8N5P9
+Accession	Q8N5P9
+EntryName	Q8N5P9_HUMAN
+ProteinName	Cell death activator CIDE-A variant 2 (Cell death-inducing DFFA-like effector a)
+GeneName	CIDEA
+Length	253
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGDRASGGPGNHNGSWAREGPRLGPSWKRGLWSPRGGPNRPAEPSRPLTFMGSQTKRVLFTPLMHPARPFRVSNHDRSSRRGVMASSLQELISKTLDALVIATGLVTLVLEEDGTVVDTEEFFQTLGDNTHFMILEKGQKWMPGSQHVPTCSPPKRSGIARVTFDLYRLNPKDFIGCLNVKATMYEMYSVSYDIRCTGLKGLLRSLLRFLSYSAQVTGQFLIYLGTYMLRVLDDKEERPSLRSQAKGRFTCG
+PTM	

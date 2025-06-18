@@ -1,0 +1,25 @@
+UniprotID	Q8IX19-2
+Accession	Q8IX19;Q8IX20
+EntryName	MCEM1_HUMAN
+ProteinName	Mast cell-expressed membrane protein 1
+GeneName	MCEMP1 C19orf59
+Length	174
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQAPAFRDKKQGVSAKNQGAHDPDYENITLAFKNQDHAKGGHSRPTSQVPAQCRPPSDSTQVPCWLYRAILSLYILLALAFVLCIILSAFIMVKNAEMSKELLGFKRELWNVSNSVQACEERQKRGWDSVQQSITMVRSKIDRLETTLAGIKNIDTKVQKILEVLQKMPQSSPQ
+PTM	Glycosylation:30,40,47;Methylation:8;Phosphorylation:38

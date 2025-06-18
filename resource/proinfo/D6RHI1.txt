@@ -1,0 +1,25 @@
+UniprotID	D6RHI1
+Accession	D6RHI1
+EntryName	D6RHI1_HUMAN
+ProteinName	E74 like ETS transcription factor 2
+GeneName	ELF2
+Length	192
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSLHEGPTNQLDLLIRAVEASVHSSNAHCTDKTIEAAEALLHMESPTCLRDSRSPEFIHAAMRPDVITETVVEVSTEESEPMDTSPIPTSPDSHEPMKKKKGNTTYLWEFLLDLLQDKNTCPRYIKWTQREKGIFKLVDSKAVSKLWGKHKNKPDMNYETMGRALRYYYQRGILAKVEGQRLVYQFKDMP
+PTM	

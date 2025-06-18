@@ -1,0 +1,25 @@
+UniprotID	Q9UM22-3
+Accession	Q9UM22;A8K4C0;C9JYS3;Q06BL0;Q99M77
+EntryName	EPDR1_HUMAN
+ProteinName	Mammalian ependymin-related protein 1 (MERP-1) (Upregulated in colorectal cancer gene 1 protein)
+GeneName	EPDR1 MERP1 UCC1
+Length	163
+Function	Binds anionic lipids and gangliosides at acidic pH.
+Subcellular Location	Lysosome lumen; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRDWEGRCAHRGRPAGGGLSNTQRGGGRLFEYILLYKDGVMFQIDQATKQCSKMTLTQPWDPLDIPQNSTFEDQYSIGGPQEQITVQEWSDRKSARSYETWIGIYTVKDCYPVQETFTINYSVILSTRFFDIQLGIKDPSVFTPPSTCQMAQLEKMSEDCSW
+PTM	Glycosylation:180;Methylation:111;Phosphorylation:55,63,110

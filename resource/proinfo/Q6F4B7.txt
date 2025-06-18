@@ -1,0 +1,25 @@
+UniprotID	Q6F4B7
+Accession	Q6F4B7
+EntryName	Q6F4B7_HUMAN
+ProteinName	Adenosine monophosphate deaminase 1 (EC 3.5.4.6)
+GeneName	AMPD1
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GRQTFQRFDKFNDKYNPVGASELRDLYLKTDNYINGEYFATIIK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O60224-2
+Accession	O60224;A8MYD4;B2RPE3;Q3SYD4;Q5JQZ0;Q9UJU9
+EntryName	SSX4_HUMAN
+ProteinName	Protein SSX4 (Cancer/testis antigen 5.4) (CT5.4)
+GeneName	SSX4 SSX4A; SSX4B
+Length	153
+Function	Could act as a modulator of transcription.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGDDAFARRPRDDAQISEKLRKAFDDIAKYFSKKEWEKMKSSEKIVYVYMKLNYEVMTKLGFKVTLPPFMRSKRAADFHGNDFGNDRNHRNQVERPQMTFGSLQRIFPKDPKGGNMPGPTDCVRESSWWFMKRSATLRKMTSNSPRGYDTCP
+PTM	Methylation:30,39,110,150

@@ -1,0 +1,25 @@
+UniprotID	Q15746-11
+Accession	Q15746;B4DUE3;D3DN97;O95796;O95797;O95798;O95799;Q14844;Q16794;Q17S15;Q3ZCP9;Q5MY99;Q5MYA0;Q6P2N0;Q7Z4J0;Q9C0L5;Q9UBG5;Q9UBY6;Q9UIT9
+EntryName	MYLK_HUMAN
+ProteinName	Myosin light chain kinase, smooth muscle (MLCK) (smMLCK) (EC 2.7.11.18) (Kinase-related protein) (KRP) (Telokin) [Cleaved into: Myosin light chain kinase, smooth muscle, deglutamylated form]
+GeneName	MYLK MLCK MLCK1 MYLK1
+Length	991
+Function	Calcium/calmodulin-dependent myosin light chain kinase implicated in smooth muscle contraction via phosphorylation of myosin light chains (MLC). Also regulates actin-myosin interaction through a non-kinase activity. Phosphorylates PTK2B/PYK2 and myosin light-chains. Involved in the inflammatory response (e.g. apoptosis, vascular permeability, leukocyte diapedesis), cell motility and morphology, airway hyperreactivity and other activities relevant to asthma. Required for tonic airway smooth muscle contraction that is necessary for physiological and asthmatic airway resistance. Necessary for gastrointestinal motility. Implicated in the regulation of endothelial as well as vascular permeability, probably via the regulation of cytoskeletal rearrangements. In the nervous system it has been shown to control the growth initiation of astrocytic processes in culture and to participate in transmitter release at synapses formed between cultured sympathetic ganglion cells. Critical participant in signaling sequences that result in fibroblast apoptosis. Plays a role in the regulation of epithelial cell survival. Required for epithelial wound healing, especially during actomyosin ring contraction during purse-string wound closure. Mediates RhoA-dependent membrane blebbing. Triggers TRPC5 channel activity in a calcium-dependent signaling, by inducing its subcellular localization at the plasma membrane. Promotes cell migration (including tumor cells) and tumor metastasis. PTK2B/PYK2 activation by phosphorylation mediates ITGB2 activation and is thus essential to trigger neutrophil transmigration during acute lung injury (ALI). May regulate optic nerve head astrocyte migration. Probably involved in mitotic cytoskeletal regulation. Regulates tight junction probably by modulating ZO-1 exchange in the perijunctional actomyosin ring. Mediates burn-induced microvascular barrier injury; triggers endothelial contraction in the development of microvascular hyperpermeability by phosphorylating MLC. Essential for intestinal barrier dysfunction. Mediates Giardia spp.-mediated reduced epithelial barrier function during giardiasis intestinal infection via reorganization of cytoskeletal F-actin and tight junctional ZO-1. Necessary for hypotonicity-induced Ca(2+) entry and subsequent activation of volume-sensitive organic osmolyte/anion channels (VSOAC) in cervical cancer cells. Responsible for high proliferative ability of breast cancer cells through anti-apoptosis.
+Subcellular Location	Cytoplasm; Cell projection; Lamellipodium; Cleavage furrow; Cytoplasm; Cytoskeleton; Stress fiber
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFRANLQRQVKPKTVSEEERKVHSPQQVDFRSVLAKKGTSKTPVPEKVPPPKPATPDFRSVLGGKKKLPAENGSSSAETLNAKAVESSKPLSNAQPSGPLKPVGNAKPAETLKPMGNAKPAETLKPMGNAKPDENLKSASKEELKKDVKNDVNCKRGHAGTTDNEKRSESQGTAPAFKQKLQDVHVAEGKKLLLQCQVSSDPPATIIWTLNGKTLKTTKFIILSQEGSLCSVSIEKALPEDRGLYKCVAKNDAGQAECSCQVTVDDAPASENTKAPEMKSRRPKSSLPPVLGTESDATVKKKPAPKTPPKAAMPPQIIQFPEDQKVRAGESVELFGKVTGTQPITCTWMKFRKQIQESEHMKVENSENGSKLTILAARQEHCGCYTLLVENKLGSRQAQVNLTVVDKPDPPAGTPCASDIRSSSLTLSWYGSSYDGGSAVQSYSIEIWDSANKTWKELATCRSTSFNVQDLLPDHEYKFRVRAINVYGTSEPSQESELTTVGEKPEEPKDEVEVSDDDEKEPEVDYRTVTINTEQKVSDFYDIEERLGSGKFGQVFRLVEKKTRKVWAGKFFKAYSAKEKENIRQEISIMNCLHHPKLVQCVDAFEEKANIVMVLEIVSGGELFERIIDEDFELTERECIKYMRQISEGVEYIHKQGIVHLDLKPENIMCVNKTGTRIKLIDFGLARRLENAGSLKVLFGTPEFVAPEVINYEPIGYATDMWSIGVICYILVSGLSPFMGDNDNETLANVTSATWDFDDEAFDEISDDAKDFISNLLKKDMKNRLDCTQCLQHPWLMKDTKNMEAKKLSKDRMKKYMARRKWQKTGNAVRAIGRLSSMAMISGLSGRKSSTGSPTSPLNAEKLESEDVSQAFLEAVAEEKPHVKPYFSKTIRDLEVVEGSAARFDCKIEGYPDPEVVWFKDDQSIRESRHFQIDYDEDGNCSLIISDVCGDDDAKYTCKAVNSLGEATCTAELIVETMEEGEGEGEEEEE
+PTM	Acetylation:970,1072,1207;Methylation:196,442,633,782,797,874,903,988,1024,1036,1048,1060,1068,1101,1103,1159,1260,1484,1587,1701,1771;Phosphorylation:259,283,298,299,305,324,328,331,335,343,344,365,367,611,827,909,911,947,978,1011,1061,1063,1096,1151,1208,1209,1230,1412,1413,1438,1449,1617,1759,1760,1765,1772,1773,1774,1776,1778,1779,1788,1852;SUMOylation:960;Ubiquitylation:903

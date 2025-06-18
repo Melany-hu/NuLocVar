@@ -1,0 +1,25 @@
+UniprotID	Q9BY67-5
+Accession	Q9BY67;A4FVB5;F5H0J4;H0YGA7;H1ZZV9;H1ZZW1;H1ZZW2;Q86WB8;Q8N2F4;X5D2C8
+EntryName	CADM1_HUMAN
+ProteinName	Cell adhesion molecule 1 (Immunoglobulin superfamily member 4) (IgSF4) (Nectin-like protein 2) (NECL-2) (Spermatogenic immunoglobulin superfamily) (SgIgSF) (Synaptic cell adhesion molecule) (SynCAM) (Tumor suppressor in lung cancer 1) (TSLC-1)
+GeneName	CADM1 IGSF4 IGSF4A NECL2 SYNCAM TSLC1
+Length	414
+Function	Mediates homophilic cell-cell adhesion in a Ca(2+)-independent manner (PubMed:12050160, PubMed:22438059). Also mediates heterophilic cell-cell adhesion with CADM3 and NECTIN3 in a Ca(2+)-independent manner (By similarity). Interaction with CRTAM promotes natural killer (NK) cell cytotoxicity and interferon-gamma (IFN-gamma) secretion by CD8+ cells in vitro as well as NK cell-mediated rejection of tumors expressing CADM1 in vivo (PubMed:15811952). In mast cells, may mediate attachment to and promote communication with nerves (PubMed:15905536). CADM1, together with MITF, is essential for development and survival of mast cells in vivo (PubMed:22438059). By interacting with CRTAM and thus promoting the adhesion between CD8+ T-cells and CD8+ dendritic cells, regulates the retention of activated CD8+ T-cell within the draining lymph node (By similarity). Required for the intestinal retention of intraepithelial CD4+ CD8+ T-cells and, to a lesser extent, intraepithelial and lamina propria CD8+ T-cells and CD4+ T-cells (By similarity). Interaction with CRTAM promotes the adhesion to gut-associated CD103+ dendritic cells, which may facilitate the expression of gut-homing and adhesion molecules on T-cells and the conversion of CD4+ T-cells into CD4+ CD8+ T-cells (By similarity). Acts as a synaptic cell adhesion molecule and plays a role in the formation of dendritic spines and in synapse assembly (By similarity). May be involved in neuronal migration, axon growth, pathfinding, and fasciculation on the axons of differentiating neurons (By similarity). May play diverse roles in the spermatogenesis including in the adhesion of spermatocytes and spermatids to Sertoli cells and for their normal differentiation into mature spermatozoa (By similarity). Acts as a tumor suppressor in non-small-cell lung cancer (NSCLC) cells (PubMed:11279526, PubMed:12234973). May contribute to the less invasive phenotypes of lepidic growth tumor cells (PubMed:12920246).
+Subcellular Location	Cell membrane; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVVLPSGSQCAAAAAAAAPPGLRLRLLLLLFSAAALIPTGDGQNLFTKDVTVIEGEVATISCQVNKSDDSVIQLLNPNRQTIYFRDFRPLKDSRFQLLNFSSSELKVSLTNVSISDEGRYFCQLYTDPPQESYTTITVLVPPRNLMIDIQKDTAVEGEEIEVNCTAMASKPATTIRWFKGNTELKGKSEVEEWSDMYTVTSQLMLKVHKEDDGVPVICQVEHPAVTGNLQTQRYLEVQYKPQVHIQMTYPLQGLTREGDALELTCEAIGKPQPVMVTWVRVDDEMPQHAVLSGPNLFINNLNKTDNGTYRCEASNIVGKAHSDYMLYVYDSRAGEEGSIRAVDHAVIGGVVAVVVFAMLCLLIILGRYFARHKGTYFTHEAKGADDAADADTAIINAEGGQNNSEEKKEYFI
+PTM	Glycosylation:67,101,113,165,304,308,356,359;Methylation:153,208,305;Phosphorylation:422,434,440;Ubiquitylation:412,437,438

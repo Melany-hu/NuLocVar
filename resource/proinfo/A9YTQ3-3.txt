@@ -1,0 +1,25 @@
+UniprotID	A9YTQ3-3
+Accession	A9YTQ3;A7MBN5;D6RAZ1;Q9HAZ3;Q9ULI6
+EntryName	AHRR_HUMAN
+ProteinName	Aryl hydrocarbon receptor repressor (AhR repressor) (AhRR) (Class E basic helix-loop-helix protein 77) (bHLHe77)
+GeneName	AHRR BHLHE77 KIAA1234
+Length	715
+Function	Mediates dioxin toxicity and is involved in regulation of cell growth and differentiation. Represses the transcription activity of AHR by competing with this transcription factor for heterodimer formation with the ARNT and subsequently binding to the xenobiotic response element (XRE) sequence present in the promoter regulatory region of variety of genes. Represses CYP1A1 by binding the XRE sequence and recruiting ANKRA2, HDAC4 and/or HDAC5. Autoregulates its expression by associating with its own XRE site.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	670...675
+nlsdbnls_region	11...16
+validnes_region	
+nesbase_region	
+Sequence	MIPPGECTYAGRKRRRPLQKQRPAVGAEKSNPSKRHRDRLNAELDHLASLLPFPPDIISKLDKLSVLRLSVSYLRVKSFFQVVQEQSSRQPAAGAPSPGDSCPLAGSAVLEGRLLLESLNGFALVVSAEGTIFYASATIVDYLGFHQTDVMHQNIYDYIHVDDRQDFCRQLHWAMDPPQVVFGQPPPLETGDDAILGRLLRAQEWGTGTPTEYSAFLTRCFICRVRCLLDSTSGFLARGSQAWQLRLCCPEPLMTMQFQGKLKFLFGQKKKAPSGAMLPPRLSLFCIAAPVLLPSAAEMKMRSALLRAKPRADTAATADAKVKATTSLCESELHGKPNYSAGRSSRESGVLVLREQTDAGRWAQVPARAPCLCLRGGPDLVLDPKGGSGDREEEQHRMLSRASGVTGRRETPGPTKPLPWTAGKHSEDGARPRLQPSKNDPPSLRPMPRGSCLPCPCVQGTFRNSPISHPPSPSPSAYSSRTSRPMRDVGEDQVHPPLCHFPQRSLQHQLPQPGAQRFATRGYPMEDMKLQGVPMPPGDLCGPTLLLDVSIKMEKDSGCEGAADGCVPSQVWLGASDRSHPATFPTRMHLKTEPDSRQQVYISHLGHGVRGAQPHGRATAGRSRELTPFHPAHCACLEPTDGLPQSEPPHQLCARGRGEQSCTCRAAEAAPVVKREPLDSPQWATHSQGMVPGMLPKSALATLVPPQASGCTFLP
+PTM	Acetylation:322,402;Methylation:33,64,371,660;Phosphorylation:69,101,334,451,454,458,460;SUMOylation:67,307,371,402,424,538,577,660

@@ -1,0 +1,25 @@
+UniprotID	Q70EL2-2
+Accession	Q70EL2;B2RXG0;Q5T062;Q86T44;Q86TC0;Q9BRU1
+EntryName	UBP45_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 45 (EC 3.4.19.12) (Deubiquitinating enzyme 45) (Ubiquitin thioesterase 45) (Ubiquitin-specific-processing protease 45)
+GeneName	USP45
+Length	289
+Function	Catalyzes the deubiquitination of SPDL1 (PubMed:30258100). Plays a role in the repair of UV-induced DNA damage via deubiquitination of ERCC1, promoting its recruitment to DNA damage sites (PubMed:25538220). May be involved in the maintenance of photoreceptor function (PubMed:30573563). May play a role in normal retinal development (By similarity). Plays a role in cell migration (PubMed:30258100).
+Subcellular Location	Photoreceptor inner segment; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVKDPTKALPEKAKRSKRPTVPHDEDSSDDIAVGLTCQHVSHAISVNHVKRAIAENLWSVCSECLKERRFYDGQLVLTSDIWLCLKCGFQGCGKNSESQHSLKHFKSSRTEPHCIIINLSTWIIWCYECDEKLSTHCNKKVLAQIVDFLQKHASKTQTSAFSRIMKLCEEKCETDEIQKGGKCRNLSVRGITNLGNTCFFNAVMQNLAQTYTLTDLMNEIKESSTKLKIFPSSDSQLDPLVVELSRPGPLTSALFLFLHSMKETEKGPLSPKVLFNQLCQKRVHLHLI
+PTM	Methylation:180,222,273,319,346,593,698,752;Phosphorylation:28,29,271,316,326,390,433,450,451,454,524,526,597,599,614,615,656,765;Ubiquitylation:273,327,391

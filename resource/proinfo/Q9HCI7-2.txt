@@ -1,0 +1,25 @@
+UniprotID	Q9HCI7-2
+Accession	Q9HCI7;B4DYL4;G5E9I1;Q0D2P1;Q8NDB4;Q9NVS4
+EntryName	MSL2_HUMAN
+ProteinName	E3 ubiquitin-protein ligase MSL2 (EC 2.3.2.27) (Male-specific lethal 2-like 1) (MSL2-like 1) (Male-specific lethal-2 homolog) (MSL-2) (Male-specific lethal-2 homolog 1) (RING finger protein 184)
+GeneName	MSL2 KIAA1585 MSL2L1 RNF184
+Length	503
+Function	Non-catalytic component of the MSL histone acetyltransferase complex, a multiprotein complex that mediates the majority of histone H4 acetylation at 'Lys-16' (H4K16ac), an epigenetic mark that prevents chromatin compaction (PubMed:16543150, PubMed:33837287). The MSL complex is required for chromosome stability and genome integrity by maintaining homeostatic levels of H4K16ac (PubMed:33837287). The MSL complex is also involved in gene dosage by promoting up-regulation of genes expressed by the X chromosome (By similarity). X up-regulation is required to compensate for autosomal biallelic expression (By similarity). The MSL complex also participates in gene dosage compensation by promoting expression of Tsix non-coding RNA (By similarity). MSL2 plays a key role in gene dosage by ensuring biallelic expression of a subset of dosage-sensitive genes, including many haploinsufficient genes (By similarity). Acts by promoting promoter-enhancer contacts, thereby preventing DNA methylation of one allele and creating a methylation-free environment for methylation-sensitive transcription factors such as SP1, KANSL1 and KANSL3 (By similarity). Also acts as an E3 ubiquitin ligase that promotes monoubiquitination of histone H2B at 'Lys-35' (H2BK34Ub), but not that of H2A (PubMed:21726816, PubMed:30930284). This activity is greatly enhanced by heterodimerization with MSL1 (PubMed:21726816, PubMed:30930284). H2B ubiquitination in turn stimulates histone H3 methylation at 'Lys-4' (H3K4me) and 'Lys-79' (H3K79me) and leads to gene activation, including that of HOXA9 and MEIS1 (PubMed:21726816). Also involved in the DNA damage response by mediating ubiquitination of TP53/p53 and TP53BP1 (PubMed:19033443, PubMed:23874665).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	265...270
+validnes_region	
+nesbase_region	
+Sequence	MMMKPSCSWCKDYEQFEENKQLSILVNCYKKLCEYITQTTLARDIIEAVDCSSDILALLNDGSLFCEETEKPSDSSFTLCLTHSPLPSTSEPTTDPQASLSPMSESTLSIAIGSSVINGLPTYNGLSIDRFGINIPSPEHSNTIDVCNTVDIKTEDLSDSLPPVCDTVATDLCSTGIDICSFSEDIKPGDSLLLSVEEVLRSLETVSNTEVCCPNLQPNLEATVSNGPFLQLSSQSLSHNVFMSTSPALHGLSCTAATPKIAKLNRKRSRSESDSEKVQPLPISTIIRGPTLGASAPVTVKRESKISLQPIATVPNGGTTPKISKTVLLSTKSMKKSHEHGSKKSHSKTKPGILKKDKAVKEKIPSHHFMPGSPTKTVYKKPQEKKGCKCGRATQNPSVLTCRGQRCPCYSNRKACLDCICRGCQNSYMANGEKKLEAFAVPEKALEQTRLTLGINVTSIAVRNASTSTSVINVTGSPVTTFLAASTHDDKSLDEAIDMRFDC
+PTM	Acetylation:375,406,518;Methylation:227,375,429;Phosphorylation:211,215,343,345,347,349,358,359,365,369,373,404,440,447,449,540,551,566;SUMOylation:337,351,375,379,396,399,429,437,509,518;Ubiquitylation:375,406,409

@@ -1,0 +1,25 @@
+UniprotID	Q969S8-2
+Accession	Q969S8;Q08AP4;Q6STF9;Q96P77;Q96P78;Q9H028;Q9UGX1;Q9UGX2
+EntryName	HDA10_HUMAN
+ProteinName	Polyamine deacetylase HDAC10 (EC 3.5.1.48) (EC 3.5.1.62) (Histone deacetylase 10) (HD10)
+GeneName	HDAC10
+Length	649
+Function	Polyamine deacetylase (PDAC), which acts preferentially on N(8)-acetylspermidine, and also on acetylcadaverine and acetylputrescine (PubMed:28516954). Exhibits attenuated catalytic activity toward N(1),N(8)-diacetylspermidine and very low activity, if any, toward N(1)-acetylspermidine (PubMed:28516954). Histone deacetylase activity has been observed in vitro (PubMed:11677242, PubMed:11726666, PubMed:11739383, PubMed:11861901). Has also been shown to be involved in MSH2 deacetylation (PubMed:26221039). The physiological relevance of protein/histone deacetylase activity is unclear and could be very weak (PubMed:28516954). May play a role in the promotion of late stages of autophagy, possibly autophagosome-lysosome fusion and/or lysosomal exocytosis in neuroblastoma cells (PubMed:23801752, PubMed:29968769). May play a role in homologous recombination (PubMed:21247901). May promote DNA mismatch repair (PubMed:26221039).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTALVYHEDMTATRLLWDDPECEIERPERLTAALDRLRQRGLEQRCLRLSAREASEEELGLVHSPEYVSLVRETQVLGKEELQALSGQFDAIYFHPSTFHCARLAAGAGLQLVDAVLTGAVQNGLALVRPPGHHGQRAAANGFCVFNNVAIAAAHAKQKHGLHRILVVDWDVHHGQGIQYLFEDDPSVLYFSWHRYEHGRFWPFLRESDADAVGRGQGLGFTVNLPWNQVGMGNADYVAAFLHLLLPLAFEGQMQATPECFAHLTQLLQVLAGGRVCAVLEGGYHLESLAESVCMTVQTLLGDPAPPLSGPMAPCQSALESIQSARAAQAPHWKSLQQQDVTAVPMSPSSHSPEGRPPPLLPGGPVCKAAASAPSSLLDQPCLCPAPSVRTAVALTTPDITLVLPPDVIQQEASALREETEAWARPHESLAREEALTALGKLLYLLDGMLDGQVNSGIAATPASAAAATLDVAVRRGLSHGAQRLLCVALGQLDRPPDLAHDGRSLWLNIRGKEAAALSMFHVSTPLPVMTGGFLSCILGLVLPLAYGFQPDLVLVALGPGHGLQGPHAALLAAMLRGLAGGRVLALLEENSTPQLAGILARVLNGEAPPSLGPSSVASPEDVQALMYLRGQLEPQWKMLQCHPHLVA
+PTM	Methylation:80,462;Phosphorylation:368,373

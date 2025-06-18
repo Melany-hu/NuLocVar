@@ -1,0 +1,25 @@
+UniprotID	C0KTE4
+Accession	C0KTE4
+EntryName	C0KTE4_HUMAN
+ProteinName	B cell specific activator protein variant delta 7
+GeneName	PAX5
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DTNKRKRDEGIQESPVPNGHSLPGRDFLRKQMRGDLFTQQQLEVLDRVFERQHYSDIFTTTEPIKPEQAVTWRARPSPGTLHTSPPLDRAATQHRR
+PTM	

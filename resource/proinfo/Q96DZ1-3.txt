@@ -1,0 +1,25 @@
+UniprotID	Q96DZ1-3
+Accession	Q96DZ1;B2RDB4;B5MC72;O95901;Q6UWN7;Q9NUY7;Q9UQL4
+EntryName	ERLEC_HUMAN
+ProteinName	Endoplasmic reticulum lectin 1 (ER lectin) (Erlectin) (XTP3-transactivated gene B protein)
+GeneName	ERLEC1 C2orf30 XTP3TPB UNQ1878/PRO4321
+Length	457
+Function	Probable lectin that binds selectively to improperly folded lumenal proteins. May function in endoplasmic reticulum quality control and endoplasmic reticulum-associated degradation (ERAD) of both non-glycosylated proteins and glycoproteins.
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEGGGGVRSLVPGGPVLLVLCGLLEASGGGRALPQLSDDIPFRVNWPGTEFSLPTTGVLYKEDNYVIMTTAHKEKYKCILPLVTSGDEEEEKDYKGPNPRELLEPLFKQSSCSYRIESYWTYEVCHGKHIRQYHEEKETGQKINIHEYYLGNMLAKNLLFEKEREAEEKEKSNEIPTKNIEGQMTPYYPVGMGNGTPCSLKQNRPRSSTVMYICHPESKHEILSVAEVTTCEYEVVILTPLLCSHPKYRFRASPVNDIFCQSLPGSPFKPLTLRQLEQQEEILRVPFRRNKEEDLQSTKEERFPAIHKSIAIGSQPVLTVGTTHISKLTDDQLIKEFLSGSYCFRGGVGWWKYEFCYGKHVHQYHEDKDSGKTSVVVGTWNQEEHIEWAKKNTARAYHLQDDGTQTVRCKESDSPHAVTVYMLEPHSCQYILGVESPVICKILDTADENGLLSLPN
+PTM	Acetylation:163,292;Methylation:285,300,336,433;Phosphorylation:85,86,340,342,398;SUMOylation:96,143,157,292;Ubiquitylation:96,157,163,202,270

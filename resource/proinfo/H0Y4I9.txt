@@ -1,0 +1,25 @@
+UniprotID	H0Y4I9
+Accession	H0Y4I9
+EntryName	H0Y4I9_HUMAN
+ProteinName	NIPA like domain containing 3
+GeneName	NIPAL3
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVAGMLVLSIQGNLQLDYPIFYVMFVCMVATAVYQAAFSKTDSSPANENNSPYLRESHEALMRMSLGKCPVFESSLTDVRLLFDCQCGLHSVHNHCYHSRCNILPGLHRGGRAAHLHVCTGVPHCILGRLLNHA
+PTM	

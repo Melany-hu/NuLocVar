@@ -1,0 +1,25 @@
+UniprotID	Q96PC5-2
+Accession	Q96PC5;A0A193H6U5;A1L4H0;B3KRA6;B4DQS6;D3DSA6;G3XAC5;O00169;O15320;Q6MZN2;Q6P2R8;Q86TF6;Q8IX92;Q8IX93;Q9H6C1
+EntryName	MIA2_HUMAN
+ProteinName	Melanoma inhibitory activity protein 2 (MIA protein 2) (CTAGE family member 5 ER export factor) (Cutaneous T-cell lymphoma-associated antigen 5) (Meningioma-expressed antigen 6/11)
+GeneName	MIA2 CTAGE5 MEA11 MEA6 MGEA11 MGEA6
+Length	654
+Function	Plays a role in the transport of cargos that are too large to fit into COPII-coated vesicles and require specific mechanisms to be incorporated into membrane-bound carriers and exported from the endoplasmic reticulum (PubMed:21525241, PubMed:25202031, PubMed:27138255, PubMed:27170179). Plays a role in the secretion of lipoproteins, pre-chylomicrons and pre-VLDLs, by participating in their export from the endoplasmic reticulum (PubMed:27138255). Thereby, may play a role in cholesterol and triglyceride homeostasis (By similarity). Required for collagen VII (COL7A1) secretion by loading COL7A1 into transport carriers and recruiting PREB/SEC12 at the endoplasmic reticulum exit sites (PubMed:21525241, PubMed:25202031, PubMed:27170179).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKFGVHRILLLAISLTKCLESTKLLADLKKCGDLECEALINRVSAMRDYRGPDCRYLNFTKGEEISVYVKLAGEREDLWAGSKGKEFGYFPRDAVQIEEVFISEEIQMSTKESDFLCLLGVSYTFDNEDSELNGDYGENIYPYEEDKDEKSSIYESDFQIEPGFYATYESTLFEDQVPALEAPEDIGSTSESKDWEEVVVESMEQDRIPEVHVPPSSAVSGVKEWFGLGGEQAEEKAFESVIEPVQESSFRSRKIAVEDENDLEELNNGEPQTEHQQESESEIDSVPKTQSELASESEHIPKPQSTGWFGGGFTSYLGFGDEDTGLELIAEESNPPLQDFPNSISSDKEATVPCTEILTEKKDTITNDSLSLKPSWFDFGFAILGFAYAKEDKIMLDDRKNEEDGGADEHEHPLTSELDPEKEQEIETIKIIETEDQIDKKPVSEKTDESDTIPYLKKFLYNFDNPWNFQNIPKETELPFPKQILDQNNVIENEETGEFSIDNYPTDNTKVMIFKSSYSLSDMVSNIELPTRIHEEVYFEPSSSKDSDENSKPSVDTEGPALVEIDRSVENTLLNSQMVSTDNSLSSQNYISQKEDASEFQILKYLFQIDVYDFMNSAFSPIVILTERVSLPFKPFAIILPILLNIRVATKYV
+PTM	Acetylation:929;Methylation:362,431,475,605,703,758,779,817,849,868,953,985,1108,1165,1168,1182,1322,1323,1365,1374;Phosphorylation:15,137,191,249,250,253,370,372,429,519,522,591,627,705,724,730,745,747,788,790,870,1009,1057,1111,1118,1125,1127,1130,1139,1144,1147,1156,1167,1186,1191,1198,1200,1202,1204,1237,1239,1243,1250,1255,1262,1269,1270,1274;Ubiquitylation:721

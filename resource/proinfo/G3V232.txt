@@ -1,0 +1,25 @@
+UniprotID	G3V232
+Accession	G3V232
+EntryName	G3V232_HUMAN
+ProteinName	Adenylosuccinate synthase 1
+GeneName	ADSS1
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQKVEVEYETLPGWKADTTGARRWEDLPPQAQNYIRFVENHVGVAVCIITVFSALSVKWVGVGKSRESMIQLF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A0X8AT33
+Accession	A0A0X8AT33
+EntryName	A0A0X8AT33_HUMAN
+ProteinName	BCL-2-like protein 12 isoform 13 (BCL2 like 12)
+GeneName	BCL2L12
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSEELGLREDTLRVLAAFLRRGEAAGSPVPTPPSPAQEEPTDFLSRLRRCLPCSLGRGAAPSESPRPCSLPIRPCYGLEPGPATPDFYALVAQRLEQLVQEQLKSPPSPGGHPGCFTRGLELAIGLSSFSEAATR
+PTM	

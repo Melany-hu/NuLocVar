@@ -1,0 +1,25 @@
+UniprotID	Q13324-4
+Accession	Q13324;B2R967;B3SXS6;B3SXS7;B3SXS8;B3SXT0;F8WA81;O43461;Q4QRJ4;Q99431
+EntryName	CRFR2_HUMAN
+ProteinName	Corticotropin-releasing factor receptor 2 (CRF-R-2) (CRF-R2) (CRFR-2) (Corticotropin-releasing hormone receptor 2) (CRH-R-2) (CRH-R2)
+GeneName	CRHR2 CRF2R CRH2R
+Length	387
+Function	G-protein coupled receptor for CRH (corticotropin-releasing factor), UCN (urocortin), UCN2 and UCN3. Has high affinity for UCN. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and down-stream effectors, such as adenylate cyclase. Promotes the activation of adenylate cyclase, leading to increased intracellular cAMP levels.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAALLHSLLEANCSLALAEELLLDGWGPPLDPEGPYSYCNTTLDQIGTCWPRSAAGALVERPCPEYFNGVKYNTTRNAYRECLENGTWASKINYSQCEPILDDKQRKYDLHYRIALVVNYLGHCVSVAALVAAFLLFLALRSIRCLRNVIHWNLITTFILRNVMWFLLQLVDHEVHESNEVWCRCITTIFNYFVVTNFFWMFVEGCYLHTAIVMTYSTERLRKCLFLFIGWCIPFPIIVAWAIGKLYYENEQCWFGKEPGDLVDYIYQGPIILVLLINFVFLFNIVRILMTKLRASTTSETIQYRKAVKATLVLLPLLGITYMLFFVNPGEDDLSQIMFIYFNSFLQSFQGFFVSVFYCFFNGESWVSKEAQAAGPHGREKPEQRW
+PTM	Methylation:72,105,221;Phosphorylation:392,396

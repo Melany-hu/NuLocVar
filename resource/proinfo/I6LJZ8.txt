@@ -1,0 +1,25 @@
+UniprotID	I6LJZ8
+Accession	I6LJZ8
+EntryName	I6LJZ8_HUMAN
+ProteinName	BCL2L12 protein isoform 6
+GeneName	BCL2L12
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRPAGLFPPLCPFLGFRPEACWERHMQIERAPSVPPFLRWAGYRPGPVRRRGKVELIKFVRVQWRRPQVEWRRRRWGPGPGASMAGSEELGLREDTLRVLAAFLRRGEAAGSPVPTPPRSPAQEEPTDFLSRLRRCLPCSLGRGAAPSESPRPCSLPIRPCYGLEPGPATPDFYALVAQRLEQLVQEQLKSPPSPGGHPGCFTRGLELAIGLSSFSEAATR
+PTM	

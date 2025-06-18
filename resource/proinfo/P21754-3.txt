@@ -1,0 +1,25 @@
+UniprotID	P21754-3
+Accession	P21754;Q06633;Q29RW0
+EntryName	ZP3_HUMAN
+ProteinName	Zona pellucida sperm-binding protein 3 (Sperm receptor) (ZP3A/ZP3B) (Zona pellucida glycoprotein 3) (Zp-3) (Zona pellucida protein C) [Cleaved into: Processed zona pellucida sperm-binding protein 3]
+GeneName	ZP3 ZP3A ZP3B ZPC
+Length	373
+Function	Component of the zona pellucida, an extracellular matrix surrounding oocytes which mediates sperm binding, induction of the acrosome reaction and prevents post-fertilization polyspermy. The zona pellucida is composed of 3 to 4 glycoproteins, ZP1, ZP2, ZP3, and ZP4. ZP3 is essential for sperm binding and zona matrix formation.
+Subcellular Location	Zona pellucida; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVMVSKDLFGTGKLIRAADLTLGPEACEPLVSMDTEDVVRFEVGLHECGNSMQVTDDALVYSTFLLHDPRPVGNLSIVRTNRAEIPIECRYPRQGNVSSQAILPTWLPFRTTVFSEEKLTFSLRLMEENWNAEKRSPTFHLGDAAHLQAEIHTGSHVPLRLFVDHCVATPTPDQNASPYHTIVDFHGCLVDGLTDASSAFKVPRPGPDTLQFTVDVFHFANDSRNMIYITCHLKVTLAEQDPDELNKACSFSKPSNSWFPVEGSADICQCCNKGDCGTPSHSRRQPHVMSQWSRSASRNRRHVTEEADVTVGPLIFLDRRGDHEVEQWALPSDTSVVLLGVGLAVVVSLTLTAVILVLTRRCRTASHPVSASE
+PTM	Methylation:298;Phosphorylation:127,301;Ubiquitylation:185

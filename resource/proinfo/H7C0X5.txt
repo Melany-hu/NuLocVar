@@ -1,0 +1,25 @@
+UniprotID	H7C0X5
+Accession	H7C0X5
+EntryName	H7C0X5_HUMAN
+ProteinName	Carboxypeptidase vitellogenic like
+GeneName	CPVL
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKYFQKQCHECIEHIRKQNWFEAFEEPEDQLYYVKFLSLPEVRQAIHVGNQTFNDGTIVEKYLREDTVQSVKPWLTEIMNNYKVLIYNGQLDIIVAAALTERSLMGMDWKGSQEYKKAEKKVWKIFKSDSEVAGYIRQAGDFHQVIIRGGGHILPYDQPLRAFDMINRFIYGKGWDPYVG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	D6R9G5
+Accession	D6R9G5
+EntryName	D6R9G5_HUMAN
+ProteinName	Kelch like family member 2
+GeneName	KLHL2
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METPPLPPACTKQGHQKPLDSKDDNTEKHCPVTVNPWHMKKAFKVMNELRRQSHSATQAGMQWRDLSSLQPPTPGFKRLSHLSLPSSWDYSQNLLCDVTIVAEDMEISAHRVVLAACSPYFHAMFTGEMSESRAKRVRIKEVDG
+PTM	

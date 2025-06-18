@@ -1,0 +1,25 @@
+UniprotID	Q9UNH6-2
+Accession	Q9UNH6;A8KAF3;D3DT50;Q53FQ3;Q5VT09;Q5VT10;Q86U82;Q8WVD4;Q96FW9;Q9Y3Z7
+EntryName	SNX7_HUMAN
+ProteinName	Sorting nexin-7
+GeneName	SNX7
+Length	336
+Function	Involved in the regulation of endocytosis and in several stages of intracellular trafficking (PubMed:32513819). Together with SNX4, involved in autophagosome assembly by regulating trafficking and recycling of phospholipid scramblase ATG9A (PubMed:32513819).
+Subcellular Location	Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMNSFSPMMPTSPLSMINQIKFEDEPDLKDLFITVDEPESHVTTIETFITYRIITKTSRGEFDSSEFEVRRRYQDFLWLKGKLEEAHPTLIIPPLPEKFIVKGMVERFNDDFIETRRKALHKFLNRIADHPTLTFNEDFKIFLTAQAWELSSHKKQGPGLLSRMGQTVRAVASSMRGVKNRPEEFMEMNNFIELFSQKINLIDKISQRIYKEEREYFDEMKEYGPIHILWSASEEDLVDTLKDVASCIDRCCKATEKRMSGLSEALLPVVHEYVLYSEMLMGVMKRRDQIQAELDSKVEVLTYKKADTDLCLATWESFLTSQTNLHLEEASEDKP
+PTM	Methylation:57,81,83,205,212,243,331;Phosphorylation:41,44,45,197;SUMOylation:22,83,99,103,180,212,306,318;Ubiquitylation:81,83,103,156,205,305,338

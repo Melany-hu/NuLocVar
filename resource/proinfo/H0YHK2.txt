@@ -1,0 +1,25 @@
+UniprotID	H0YHK2
+Accession	H0YHK2
+EntryName	H0YHK2_HUMAN
+ProteinName	Ceramide synthase 5
+GeneName	CERS5
+Length	111
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLFVIFSAVFMVTRLGIYPFWILNTTLFESWEIIGPYASWWLLNGLLLTLQLLHVIWSYLIARIALKALIRGKVTCPGRIRPCTLHSFLTSFLFSMPGGSWTVSSLACIEG
+PTM	

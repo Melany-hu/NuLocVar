@@ -1,0 +1,25 @@
+UniprotID	A0A087WWX2
+Accession	A0A087WWX2
+EntryName	A0A087WWX2_HUMAN
+ProteinName	DnaJ heat shock protein family (Hsp40) member B14
+GeneName	DNAJB14
+Length	109
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGNRDEAEKCVEIAREALNAGNREKAQRFLQKAEKLYPLPSARALLEIIMKNGSTAGNSPHCRKPSGSGDQSKPNCTKDSTSGSGEGGKGYTKDQVDGVLRALWILEH
+PTM	

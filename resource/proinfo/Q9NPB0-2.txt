@@ -1,0 +1,25 @@
+UniprotID	Q9NPB0-2
+Accession	Q9NPB0;Q9H0D8
+EntryName	SAYS1_HUMAN
+ProteinName	SAYSvFN domain-containing protein 1
+GeneName	SAYSD1 C6orf64
+Length	116
+Function	Ufmylation 'reader' component of a translocation-associated quality control pathway, a mechanism that takes place when a ribosome has stalled during translation, and which is required to degrade clogged substrates (PubMed:36848233). Specifically recognizes and binds ufmylated ribosomes when a ribosome has stalled, promoting the transport of stalled nascent chain via the TRAPP complex to lysosomes for degradation (PubMed:36848233).
+Subcellular Location	Endoplasmic reticulum membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLEAAQPQGSTSETPWNTAIPLPSCWDQSFLTNITFLKVLLWLVLLGLFVELEFGLAYFVLSLFYWMYVGTRGPEEKKEGEKSAYSVFNPGCEAIQGTLTAEQLERELQLRPLAGR
+PTM	Phosphorylation:30;Ubiquitylation:149

@@ -1,0 +1,25 @@
+UniprotID	O75473-3
+Accession	O75473;D8MCT0;Q4VAM0;Q4VAM2;Q9UP75
+EntryName	LGR5_HUMAN
+ProteinName	Leucine-rich repeat-containing G-protein coupled receptor 5 (G-protein coupled receptor 49) (G-protein coupled receptor 67) (G-protein coupled receptor HG38)
+GeneName	LGR5 GPR49 GPR67
+Length	835
+Function	Receptor for R-spondins that potentiates the canonical Wnt signaling pathway and acts as a stem cell marker of the intestinal epithelium and the hair follicle. Upon binding to R-spondins (RSPO1, RSPO2, RSPO3 or RSPO4), associates with phosphorylated LRP6 and frizzled receptors that are activated by extracellular Wnt receptors, triggering the canonical Wnt signaling pathway to increase expression of target genes. In contrast to classical G-protein coupled receptors, does not activate heterotrimeric G-proteins to transduce the signal. Involved in the development and/or maintenance of the adult intestinal stem cells during postembryonic development.
+Subcellular Location	Cell membrane; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTSRLGVLLSLPVLLQLATGGSSPRSGVLLRGCPTHCHCEPDGRMLLRVDCSDLGLSELPSNLSVFTSYLDLSMNNISQLLPNPLPSLRFLEELRLAGNALTYIPKGAFTGLYSLKVLMLQNNQLRHVPTEALQNLRSLQSLHLHNNRIHSLGKKCFDGLHSLETLDLNYNNLDEFPTAIRTLSNLKELGFHSNNIRSIPEKAFVGNPSLITIHFYDNPIQFVGRSAFQHLPELRTLTLNGASQITEFPDLTGTANLESLTLTGAQISSLPQTVCNQLPNLQVLDLSYNLLEDLPSFSVCQKLQKIDLRHNEIYEIKVDTFQQLLSLRSLNLAWNKIAIIHPNAFSTLPSLIKLDLSSNLLSSFPITGLHGLTHLKLTGNHALQSLISSENFPELKVIEMPYAYQCCAFGVCENAYKISNQWNKGDNSSMDDLHKKDAGMFQAQDERDLEDFLLDFEEDLKALHSVQCSPSPGPFKPCEHLLDGWLIRIGVWTIAVLALTCNALVTSTVFRSPLYISPIKLLIGVIAAVNMLTGVSSAVLAGVDAFTFGSFARHGAWWENGVGCHVIGFLSIFASESSVFLLTLAALERGFSVKYSAKFETKAPFSSLKVIILLCALLALTMAAVPLLGGSKYGASPLCLPLPFGEPSTMGYMVALILLNSLCFLMMTIAYTKLYCNLDKGDLENIWDCSMVKHIALLLFTNCILNCPVAFLSFSSLINLTFISPEVIKFILLVVVPLPACLNPLLYILFNPHFKEDLVSLRKQTYVWTRSKHPSLMSINSDDVEKQSCDSTQALVTFTSSSITYDLPPSSVPSPAYPVTESCHLSSVAFVPCL
+PTM	Acetylation:497,508,509;Methylation:426,667,753,802,836;Phosphorylation:27,88,192,204,210,211,423,763,833,839,844,848,851,854

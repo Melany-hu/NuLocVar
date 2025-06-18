@@ -1,0 +1,25 @@
+UniprotID	E7ERK9
+Accession	E7ERK9
+EntryName	E7ERK9_HUMAN
+ProteinName	Translation initiation factor eIF2B subunit delta (eIF2B GDP-GTP exchange factor subunit delta)
+GeneName	EIF2B4
+Length	544
+Function	Acts as a component of the translation initiation factor 2B (eIF2B) complex, which catalyzes the exchange of GDP for GTP on eukaryotic initiation factor 2 (eIF2) gamma subunit. Its guanine nucleotide exchange factor activity is repressed when bound to eIF2 complex phosphorylated on the alpha subunit, thereby limiting the amount of methionyl-initiator methionine tRNA available to the ribosome and consequently global translation is repressed.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTQQPAAPSTRAPKPSRSLSGSLCALFSDADSGSGMKAELPPGPGAVGREMTKEEKLQLRKEKKQQKKKRKEEKGAEPETGSAVSAAQCQVGPTRELPESGIQLGTPREKVPAGRSKAELRAERRAKQEAERALKQARKGEQGGPPPKASPSTAGETPSGVKRLPEYPQVDDLLLRRLVKKPERQQVPTRKDYGSKVSLFSHLPQYSRQNSLTQFMSIPSSVIHPAMVRLGLQYSQGLVSGSNARCIALLRALQQVIQDYTTPPNEELSRDLVNKLKPYMSFLTQCRPLSASMHNAIKFLNKEITSVGSSKREEEAKSELRAAIDRYVQEKIVLAAQAISRFAYQKISNGDVILVYGCSSLVSRILQEAWTEGRRFRVVVVDSRPWLEGRHTLRSLVHAGVPASYLLIPAASYVLPEVSKVLLGAHALLANGSVMSRVGTAQLALVARAHNVPVLVCCETYKFCERVQTDAFVSNELDDPDDLQCKRGEHVALANWQNHASLRLLNLVYDVTPPELVDLVITELGMIPCSSVPVVLRVKSSDQ
+PTM	

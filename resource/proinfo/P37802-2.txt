@@ -1,0 +1,25 @@
+UniprotID	P37802-2
+Accession	P37802;E9KL39;Q5JRQ6;Q5JRQ7;Q6FGI1;Q9BUH5;Q9H4P0
+EntryName	TAGL2_HUMAN
+ProteinName	Transgelin-2 (Epididymis tissue protein Li 7e) (SM22-alpha homolog)
+GeneName	TAGLN2 KIAA0120 CDABP0035
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAFSLALALVSSPQPPPPIGMANRGPAYGLSREVQQKIEKQYDADLEQILIQWITTQCRKDVGRPQPGRENFQNWLKDGTVLCELINALYPEGQAPVKKIQASTMAFKQMEQISQFLQAAERYGINTTDIFQTVDLWEGKNMACVQRTLMNLGGLAVARDDGLFSGDPNWFPKKSKENPRNFSDNQLQEGKNVIGLQMGTNRGASQAGMTGYGMPRQIL
+PTM	Acetylation:17,20,78,79,88,120,153,171;Methylation:4,17,57,78,79,88,120,153,171,182,196;Phosphorylation:8,11,60,83,94,128,145,163,180,185,190,192;SUMOylation:17,79,153,171;Ubiquitylation:17,78,79,88,120,153,171

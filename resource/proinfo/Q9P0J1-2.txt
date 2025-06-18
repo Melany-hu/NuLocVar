@@ -1,0 +1,25 @@
+UniprotID	Q9P0J1-2
+Accession	Q9P0J1;B3KX71;J3KPU0;Q5U5K1
+EntryName	PDP1_HUMAN
+ProteinName	[Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial (PDP 1) (EC 3.1.3.43) (Protein phosphatase 2C) (Pyruvate dehydrogenase phosphatase catalytic subunit 1) (PDPC 1)
+GeneName	PDP1 PDP PPM2C
+Length	562
+Function	Mitochondrial enzyme that catalyzes the dephosphorylation and concomitant reactivation of the alpha subunit of the E1 component of the pyruvate dehydrogenase complex (PDC), thereby stimulating the conversion of pyruvate into acetyl-CoA.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCVCPGPRRIGIPVRSSSLPLFSDAMPAPTQLFFPLIRNCELSRIYGTACYCHHKHLCCSSSYIPQSRLRYTPHPAYATFCRPKENWWQYTQGRRYASTPQKFYLTPPQVNSILKANEYSFKVPEFDGKNVSSILGFDSNQLPANAPIEDRRSAATCLQTRGMLLGVFDGHAGCACSQAVSERLFYYIAVSLLPHETLLEIENAVESGRALLPILQWHKHPNDYFSKEASKLYFNSLRTYWQELIDLNTGESTDIDVKEALINAFKRLDNDISLEAQVGDPNSFLNYLVLRVAFSGATACVAHVDGVDLHVANTGDSRAMLGVQEEDGSWSAVTLSNDHNAQNERELERLKLEHPKSEAKSVVKQDRLLGLLMPFRAFGDVKFKWSIDLQKRVIESGPDQLNDNEYTKFIPPNYHTPPYLTAEPEVTYHRLRPQDKFLVLATDGLWETMHRQDVVRIVGEYLTGMHHQQPIAVGGYKVTLGQMHGLLTERRTKMSSVFEDQNAATHLIRHAVGNNEFGTVDHERLSKMLSLPEELARMYRDDITIIVVQFNSHVVGAYQNQE
+PTM	Methylation:90,104,202,233,366,383;Phosphorylation:87,505;SUMOylation:97,335,366,468;Ubiquitylation:59,77,90,97,104,194,202,206,241,326,331,335,339,357,359,366,383,411,452,468,502

@@ -1,0 +1,25 @@
+UniprotID	O43736-2
+Accession	O43736;B2R7X5;B4E062;Q6IBC9
+EntryName	ITM2A_HUMAN
+ProteinName	Integral membrane protein 2A (Protein E25)
+GeneName	ITM2A UNQ603/PRO1189
+Length	219
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKIAFNTPTAVQKEEARQDVEALLSRTVRTQILTGKSTIYRGEMCFFDSEDPANSLRGGEPNFLPVTEEADIREDDNIAIIDVPVPSFSDSDPAAIIHDFEKGMTAYLDLLLGNCYLMPLNTSIVMPPKNLVELFGKLASGRYLPQTYVVREDLVAVEEIRDVSNLGIFIYQLCNNRKSFRLRRRDLLLGFNKRAIDKCWKIRHFPNEFIVETKICQE
+PTM	Methylation:14,147,182,223;Phosphorylation:8,192;Ubiquitylation:3,14,37,46

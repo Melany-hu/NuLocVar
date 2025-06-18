@@ -1,0 +1,25 @@
+UniprotID	O75078-2
+Accession	O75078;Q14808;Q14809;Q14810
+EntryName	ADA11_HUMAN
+ProteinName	Disintegrin and metalloproteinase domain-containing protein 11 (ADAM 11) (Metalloproteinase-like, disintegrin-like, and cysteine-rich protein) (MDC)
+GeneName	ADAM11 MDC
+Length	524
+Function	Probable ligand for integrin in the brain. This is a non catalytic metalloprotease-like protein. Required for localization of the potassium channel subunit proteins KCNA1/KV1.1 and KCNA2/KV1.2 at cerebellar cortex basket cell distal terminals, is thereby involved in ephaptic inhibitory synchronization of Purkinje cell firing and response to stress (By similarity). Plays a role in spatial learning and motor coordination (By similarity). Involved in the nociceptive pain response to chemical-derived stimulation (By similarity).
+Subcellular Location	Presynaptic cell membrane; Perikaryon; Cell projection; Axon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCWLSHHLLSSQYVERHFSREGTTQHSTGAGDHCYYQGKLRGNPHSFAALSTCQGLHGVFSDGNLTYIVEPQEVAGPWGAPQGPLPHLIYRTPLLPDPLGCREPGCLFAVPAQSAPPNRPRLRRKRQVRRGHPTVHSETKYVELIVINDHQLFEQMRQSVVLTSNFAKSVVNLADVIYKEQLNTRIVLVAMETWADGDKIQVQDDLLETLARLMVYRREGLPEPSDATHLFSGRTFQSTSSGAAYVGGICSLSHGGGVNEYGNMGAMAVTLAQTLGQNLGMMWNKHRSSAGDCKCPDIWLGCIMEDTGFYLPRKFSRCSIDEYNQFLQEGGGSCLFNKPLKLLDPPECGNGFVEAGEECDCGSVQECSRAGGNCCKKCTLTHDAMCSDGLCCRRCKYEPRGVSCREAVNECDIAETCTGDSSQCPPNLHKLDGYYCDHEQGRCYGGRCKTRDRQCQVLWGHAAADRFCYEKLNVEGTERGSCGRKGSGWVQCSKQPQQGRAVWLPPLCQHLWSSSARGPGGRHQ
+PTM	Glycosylation:717,721;Methylation:413;Phosphorylation:19,51,283,331

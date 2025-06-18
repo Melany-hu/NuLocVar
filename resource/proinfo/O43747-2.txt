@@ -1,0 +1,25 @@
+UniprotID	O43747-2
+Accession	O43747;O75709;O75842;Q9UG09;Q9Y3U4
+EntryName	AP1G1_HUMAN
+ProteinName	AP-1 complex subunit gamma-1 (Adaptor protein complex AP-1 subunit gamma-1) (Adaptor-related protein complex 1 subunit gamma-1) (Clathrin assembly protein complex 1 gamma-1 large chain) (Gamma1-adaptin) (Golgi adaptor HA1/AP1 adaptin subunit gamma-1)
+GeneName	AP1G1 ADTG CLAPG1
+Length	825
+Function	Subunit of clathrin-associated adaptor protein complex 1 that plays a role in protein sorting in the late-Golgi/trans-Golgi network (TGN) and/or endosomes. The AP complexes mediate both the recruitment of clathrin to membranes and the recognition of sorting signals within the cytosolic tails of transmembrane cargo molecules. In association with AFTPH/aftiphilin in the aftiphilin/p200/gamma-synergin complex, involved in the trafficking of transferrin from early to recycling endosomes, and the membrane trafficking of furin and the lysosomal enzyme cathepsin D between the trans-Golgi network (TGN) and endosomes (PubMed:15758025).
+Subcellular Location	Golgi apparatus; Cytoplasmic vesicle; Clathrin-coated vesicle membrane; Cytoplasm; Cytoplasm; Perinuclear region; Cytoplasmic vesicle; Clathrin-coated vesicle; Membrane; Clathrin-coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAPIRLRELIRTIRTARTQAEEREMIQKECAAIRSSFREEDNTYRCRNVAKLLYMHMLGYPAHFGQLECLKLIASQKFTDKRIGYLGAMLLLDERQDVHLLMTNCIKNDLNHSTQFVQGLALCTLGCMGSSEMCRDLAGEVEKLLKTSNSYLRKKAALCAVHVIRKVPELMEMFLPATKNLLNEKNHGVLHTSVVLLTEMCERSPDMLAHFRKNEKLVPQLVRILKNLIMSGYSPEHDVSGISDPFLQVRILRLLRILGRNDDDSSEAMNDILAQVATNTETSKNVGNAILYETVLTIMDIKSESGLRVLAINILGRFLLNNDKNIRYVALTSLLKTVQTDHNAVQRHRSTIVDCLKDLDVSIKRRAMELSFALVNGNNIRGMMKELLYFLDSCEPEFKADCASGIFLAAEKYAPSKRWHIDTIMRVLTTAGSYVRDDAVPNLIQLITNSVEMHAYTVQRLYKAILGDYSQQPLVQVAAWCIGEYGDLLVSGQCEEEEPIQVTEDEVLDILESVLISNMSTSVTRGYALTAIMKLSTRFTCTVNRIKKVVSIYGSSIDVELQQRAVEYNALFKKYDHMRSALLERMPVMEKVTTNGPTEIVQTNGETEPAPLETKPPPSGPQPTSQANDLLDLLGGNDITPVIPTAPTSKPSSAGGELLDLLGDINLTGAPAAAPAPASVPQISQPPFLLDGLSSQPLFNDIAAGIPSITAYSKNGLKIEFTFERSNTNPSVTVITIQASNSTELDMTDFVFQAAVPKTFQLQLLSPSSSIVPAFNTGTITQVIKVLNPQKQQLRMRIKLTYNHKGSAMQDLAEVNNFPPQSWQ
+PTM	Acetylation:29,78,144,147,322,571,797;Methylation:72,144,167,282,334,397,571,783;Phosphorylation:36,37,76,80,231,331,348,369,421,525,528,549,764;Ubiquitylation:147,180,355,362,415,546,571,572,789

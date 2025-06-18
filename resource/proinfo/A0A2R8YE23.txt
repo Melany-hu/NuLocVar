@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YE23
+Accession	A0A2R8YE23
+EntryName	A0A2R8YE23_HUMAN
+ProteinName	Dermatan sulfate epimerase
+GeneName	DSE
+Length	228
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTHTRGAPSVFFIYLLCFVSAYITDENPEVMIPFTNANYDSHPMLYFSRAEVAELQLRAASSHEHIAARLTEAVHTMLSSPLEYLPPWDPKDYSARWNEIFGNNLGALAMFCVLYPENIEARDMAKDYMERMAAQPSWLVKDAPWDEVPLAHSLVGFATAYDFLYNYLSKTQQEKFLEVIANASGYMYETSYRRGWGFQYLHNHQPTNCMALLTGSLVLMNQGMMAA
+PTM	

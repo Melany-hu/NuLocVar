@@ -1,0 +1,25 @@
+UniprotID	P24844-2
+Accession	P24844;E1P5T6;Q9BQL9;Q9BUF9;Q9H136
+EntryName	MYL9_HUMAN
+ProteinName	Myosin regulatory light polypeptide 9 (20 kDa myosin light chain) (LC20) (MLC-2C) (Myosin RLC) (Myosin regulatory light chain 2, smooth muscle isoform) (Myosin regulatory light chain 9) (Myosin regulatory light chain MRLC1)
+GeneName	MYL9 MLC2 MRLC1 MYRL2
+Length	118
+Function	Myosin regulatory subunit that plays an important role in regulation of both smooth muscle and nonmuscle cell contractile activity via its phosphorylation. Implicated in cytokinesis, receptor capping, and cell locomotion (PubMed:11942626, PubMed:2526655). In myoblasts, may regulate PIEZO1-dependent cortical actomyosin assembly involved in myotube formation (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSKRAKAKTTKKRPQRATSNVFAMFDQSQIQEFKEAFNMIDQNRDGFIDKEDLHDMLASLGFIHEDHLRELLTTMGDRFTDEEVDEMYREAPIDKKGNFNYVEFTRILKHGAKDKDD
+PTM	Acetylation:35,51,150,164;Glycosylation:95;Methylation:35,51,63,93,150,151;Phosphorylation:19,20,29,97,115,135,156;SUMOylation:35,51,151;Ubiquitylation:35,51,150,151

@@ -1,0 +1,25 @@
+UniprotID	A0A3B3IS00
+Accession	A0A3B3IS00
+EntryName	A0A3B3IS00_HUMAN
+ProteinName	Complement factor H related 2
+GeneName	CFHR2
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLLVSVILISRISSVGGEEEGWSPTPKCLRLCFFPFVENGHSESSGQTHLEGDTVQIICNTGYRLQNNENNISCVERGWSTPPKCRSTISAEKCGPPPPIDNGDITSFLLSVYAPGSSVEYQCQNLYQLEGNNQITCRNGQWSEPPKCLDPCVISQEIMEKYNIKLKWTNQQKLYSRTGDIVEFVCKSGYHPTKSHSFRAMCQNGKLVYPSCEEK
+PTM	

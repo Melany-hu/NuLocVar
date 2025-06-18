@@ -1,0 +1,25 @@
+UniprotID	Q9BWJ5
+Accession	Q9BWJ5;B2R568;Q7RTV1
+EntryName	SF3B5_HUMAN
+ProteinName	Splicing factor 3B subunit 5 (SF3b5) (Pre-mRNA-splicing factor SF3b 10 kDa subunit)
+GeneName	SF3B5 SF3B10
+Length	86
+Function	Component of the 17S U2 SnRNP complex of the spliceosome, a large ribonucleoprotein complex that removes introns from transcribed pre-mRNAs (PubMed:12234937, PubMed:27720643, PubMed:28781166, PubMed:32494006, PubMed:34822310). The 17S U2 SnRNP complex (1) directly participates in early spliceosome assembly and (2) mediates recognition of the intron branch site during pre-mRNA splicing by promoting the selection of the pre-mRNA branch-site adenosine, the nucleophile for the first step of splicing (PubMed:12234937, PubMed:32494006, PubMed:34822310). Within the 17S U2 SnRNP complex, SF3B4 is part of the SF3B subcomplex, which is required for 'A' complex assembly formed by the stable binding of U2 snRNP to the branchpoint sequence in pre-mRNA (PubMed:12234937, PubMed:27720643). Sequence independent binding of SF3A and SF3B subcomplexes upstream of the branch site is essential, it may anchor U2 snRNP to the pre-mRNA (PubMed:12234937). Also acts as a component of the minor spliceosome, which is involved in the splicing of U12-type introns in pre-mRNAs (PubMed:15146077, PubMed:33509932).
+Subcellular Location	Nucleus
+Disorder	0.2817,0.3494,0.3740,0.2988,0.3494,0.3740,0.3910,0.3087,0.2575,0.2849,0.3087,0.3494,0.3426,0.3087,0.3149,0.4087,0.4119,0.4801,0.3667,0.3872,0.2609,0.2680,0.2034,0.2164,0.2988,0.2783,0.2817,0.2918,0.3774,0.3566,0.2752,0.2715,0.1881,0.1611,0.1823,0.1731,0.0985,0.1028,0.0690,0.0929,0.0888,0.1028,0.0835,0.1007,0.0618,0.0494,0.0568,0.0605,0.0646,0.0646,0.1070,0.1476,0.1501,0.1791,0.2094,0.1275,0.1373,0.1611,0.1229,0.1914,0.2503,0.2002,0.2193,0.3286,0.3740,0.3599,0.3840,0.3948,0.4051,0.3667,0.3774,0.3774,0.4256,0.4441,0.5176,0.5342,0.6576,0.6269,0.7250,0.7799,0.7505,0.7505,0.8125,0.9081,0.8966,0.8655
+ExposeBuried	1,1,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.800,0.512,0.504,0.414,0.278,0.331,0.078,0.254,0.359,0.248,0.084,0.537,0.392,0.081,0.401,0.500,0.478,0.197,0.140,0.278,0.313,0.337,0.315,0.227,0.460,0.288,0.298,0.387,0.088,0.347,0.141,0.093,0.079,0.361,0.381,0.314,0.373,0.488,0.388,0.183,0.053,0.302,0.175,0.145,0.145,0.169,0.070,0.220,0.048,0.058,0.193,0.089,0.065,0.124,0.086,0.139,0.514,0.505,0.549,0.443,0.425,0.135,0.309,0.115,0.202,0.095,0.366,0.096,0.099,0.411,0.419,0.099,0.136,0.495,0.364,0.136,0.404,0.346,0.414,0.421,0.673,0.508,0.415,0.706,0.740,0.912
+SecondStructure	C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,B,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,B,A,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.7,-3.5,-4.5,-1.3,-0.7,4.5,-3.2,-0.8,-3.5,3.8,-3.5,-3.2,3.8,-3.5,-0.8,-3.9,-1.3,4.5,-0.4,-0.7,-0.4,-3.2,1.8,-3.5,-0.7,-0.7,-3.9,-0.9,-3.5,-0.9,3.8,4.2,-3.5,-3.5,-3.2,-4.5,-3.5,-0.8,-1.3,2.5,-0.8,-1.3,1.9,-0.4,-3.2,2.8,-3.5,3.8,3.8,-3.5,-1.3,2.8,1.8,4.5,1.8,-3.5,-3.5,-3.5,-0.8,-3.9,1.8,-4.5,4.2,-4.5,2.8,-3.5,3.8,1.9,-3.5,-3.9,1.9,3.8,-3.5,-1.6,2.5,-0.4,-1.6,-1.6,1.8,-3.5,-3.9,-1.6,-3.5,-3.5,-3.5
+Polar	0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,1,1,0,1,1,1
+Charge	0,0,-1,1,0,0,0,1,0,0,0,-1,1,0,0,0,1,0,0,0,0,0,1,0,-1,0,0,1,0,-1,0,0,0,0,0,1,1,-1,0,0,0,0,0,0,0,1,0,-1,0,0,0,0,0,0,0,0,-1,0,-1,0,1,0,1,0,1,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,-1,1,0,-1,-1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDRYTIHSQLEHLQSKYIGTGHADTTKWEWLVNQHRDSYCSYMGHFDLLNYFAIAENESKARVRFNLMEKMLQPCGPPADKPEEN
+PTM	Acetylation:17,28,82;Methylation:17;Phosphorylation:5,9;SUMOylation:28,61,71;Ubiquitylation:17,28,71,82

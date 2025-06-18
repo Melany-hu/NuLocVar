@@ -1,0 +1,25 @@
+UniprotID	Q5VIR6-2
+Accession	Q5VIR6;A8K2S8;B3FH42;Q8WYW3;Q9BRR2;Q9BY02;Q9NV25
+EntryName	VPS53_HUMAN
+ProteinName	Vacuolar protein sorting-associated protein 53 homolog
+GeneName	VPS53 PP13624
+Length	670
+Function	Acts as a component of the GARP complex that is involved in retrograde transport from early and late endosomes to the trans-Golgi network (TGN). The GARP complex is required for the maintenance of the cycling of mannose 6-phosphate receptors between the TGN and endosomes, this cycling is necessary for proper lysosomal sorting of acid hydrolases such as CTSD (PubMed:15878329, PubMed:18367545). Acts as a component of the EARP complex that is involved in endocytic recycling. The EARP complex associates with Rab4-positive endosomes and promotes recycling of internalized transferrin receptor (TFRC) to the plasma membrane (PubMed:25799061).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Endosome membrane; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEEEELEFVEELEAVLQLTPEVQLAIEQVFPSQDPLDRADFNAVEYINTLFPTEQSLANIDEVVNKIRLKIRRLDDNIRTVVRGQTNVGQDGRQVKEITRDIKQLDHAKRHLTTSITTLNHLHMLAGGVDSLEAMTRRRQYGEVANLLQGVMNVLEHFHKYMGIPQIRQLSERVKAAQTELGQQILADFEEAFPSQGTKRPGGPSNVLRDACLVANILDPRIKQEIIKKFIKQHLSEYLVLFQENQDVAWLDKIDRRYAWIKRQLVDYEEKYGRMFPREWCMAERIAVEFCHVTRAELAKIMRTRAKEIEVKLLLFAIQRTTNFEGFLAKRFSGCTLTDGTLKKLESPPPSTNPFLEDEPTPEMEELATEKGDLDQPKKPKAPDNPFHGIVSKCFEPHLYVYIESQDKNLGELIDRFVADFKAQGPPKPNTDEGGAVLPSCADLFVYYKKCMVQCSQLSTGEPMIALTTIFQKYLREYAWKILSGNLPKTTTSSGGLTISSLLKEKEGSEVAKFTLEELCLICNILSTAEYCLATTQQLEEKLKEKVDVSLIERINLTGEMDTFSTVISSSIQLLVQDLDAACDPALTAMSKMQWQNVEHVGDQSPYVTSVILHIKQNVPIIRDNLASTRKYFTQFCVKFANSFIPKFITHLFKCKPISMVGAEQVRWT
+PTM	Acetylation:110,133;Methylation:67,102,110,229,258,292,330,342,373,423,519,534,543,646,720,731,741,759;Phosphorylation:87,121,377,381,391,520,524,530,531;SUMOylation:360;Ubiquitylation:301

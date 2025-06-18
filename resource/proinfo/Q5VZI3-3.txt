@@ -1,0 +1,25 @@
+UniprotID	Q5VZI3-3
+Accession	Q5VZI3;A0PJA3;Q3KNS4;Q5VZI2;Q6P5Z7;Q8N1P3;Q8ND43
+EntryName	TM268_HUMAN
+ProteinName	Transmembrane protein 268
+GeneName	TMEM268 C9orf91
+Length	343
+Function	Stabilizes cell surface expression of ITGAM and participates in the adhesion and migration of phagocytes during bacterial clearance.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACEPQVDPGATGPLPPSSPGWSALPGGSPPGWGQELHNGQVLTVLRIDNTCAPISFDLGAAEEQLQTWGIQQVPADQYRSLAESALLEPQVRRYIIYNSRPMRLAFAVVFYVVVWANIYSTSQMFALGNHWAGMLLVTLAAVSLTLTLVLVFERHQKKANTNTDLRLAAANGALLRHRVLLGVTDTVEGCQSVIQLWFVYFDLENCVQFLSDHVQEMKTSQESLLRSRLSQLCVVMETGVSPATAEGPENLEDAPLLPGNSCPNERPLMQTELHQLVPEAEPEEMARQLLAVFGGYYIRLLVTSQLPQAMGTRHTNSPRIPCPCQLIEAYILGTGCCPFLAR
+PTM	Phosphorylation:44

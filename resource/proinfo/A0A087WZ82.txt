@@ -1,0 +1,25 @@
+UniprotID	A0A087WZ82
+Accession	A0A087WZ82
+EntryName	A0A087WZ82_HUMAN
+ProteinName	FXYD domain-containing ion transport regulator
+GeneName	FXYD6-FXYD2
+Length	144
+Function	May be involved in forming the receptor site for cardiac glycoside binding or may modulate the transport function of the sodium ATPase.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELVLVFLCSLLAPMVLASAAEKEKEMDPFHYDYQTLRIGGLVFAVVLFSVGILLILSRRCKCSFNQKPRNRAPESRELKCSHQVEGGSPKGDVDPFYYDYETVRNGGLIFAGLAFIVGLLILLSRRFRCGGNKKRRQINEDEP
+PTM	

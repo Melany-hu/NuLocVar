@@ -1,0 +1,25 @@
+UniprotID	Q6DN72-2
+Accession	Q6DN72;A1KXW6;A2A4D6;Q6DN73;Q6XRC3;Q6ZNI1
+EntryName	FCRL6_HUMAN
+ProteinName	Fc receptor-like protein 6 (FcR-like protein 6) (FcRL6) (Fc receptor homolog 6) (FcRH6) (IFGP6)
+GeneName	FCRL6 FCRH6
+Length	413
+Function	Acts as a MHC class II receptor (PubMed:20519654). When stimulated on its own, does not play a role in cytokine production or the release of cytotoxic granules by NK cells and cytotoxic CD8(+) T cells (PubMed:17213291, PubMed:18991291). Does not act as an Fc receptor (PubMed:18991291).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPSLGPMLLWTAVLLFVPCVGKTVWLYLQAWPNPVFEGDALTLRCQGWKNTPLSQVKFYRDGKFLHFSKENQTLSMGAATVQSRGQYSCSGQVMYIPQTFTQTSETAMVQVQELFPPPVLSAIPSPEPREGSLVTLRCQTKLHPLRSALRLLFSFHKDGHTLQDRGPHPELCIPGAKEGDSGLYWCEVAPEGGQVQKQSPQLEVRVQAPVSRPVLTLHHGPADPAVGDMVQLLCEAQRGSPPILYSFYLDEKIVGNHSAPCGGTTSLLFPVKSEQDAGNYSCEAENSVSRERSEPKKLSLKGSQVLFTPASNWLVPWLPASLLGLMVIAAALLVYVRSWRKAGPLPSQIPPTAPGGEQCPLYANVHHQKGKDEGVVYSVVHRTSKRSEARSAEFTVGRKFYHLCGGEMPAAQ
+PTM	Phosphorylation:36,129

@@ -1,0 +1,25 @@
+UniprotID	Q9NUN7-2
+Accession	Q9NUN7;B2RC99
+EntryName	ACER3_HUMAN
+ProteinName	Alkaline ceramidase 3 (AlkCDase 3) (Alkaline CDase 3) (EC 3.5.1.-) (EC 3.5.1.23) (Alkaline dihydroceramidase SB89) (Alkaline phytoceramidase) (aPHC)
+GeneName	ACER3 APHC PHCA
+Length	134
+Function	Endoplasmic reticulum and Golgi ceramidase that catalyzes the hydrolysis of unsaturated long-chain C18:1-, C20:1- and C20:4-ceramides, dihydroceramides and phytoceramides into sphingoid bases like sphingosine and free fatty acids at alkaline pH (PubMed:11356846, PubMed:20068046, PubMed:20207939, PubMed:26792856, PubMed:30575723). Ceramides, sphingosine, and its phosphorylated form sphingosine-1-phosphate are bioactive lipids that mediate cellular signaling pathways regulating several biological processes including cell proliferation, apoptosis and differentiation (PubMed:20068046). Controls the generation of sphingosine in erythrocytes, and thereby sphingosine-1-phosphate in plasma (PubMed:20207939). Through the regulation of ceramides and sphingosine-1-phosphate homeostasis in the brain may play a role in neurons survival and function (By similarity). By regulating the levels of pro-inflammatory ceramides in immune cells and tissues, may modulate the inflammatory response (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQSRLIGTSTSQVMYGMLVFTLVLRSIYIVTWVYPWLRGLGYTSLGIFLLGFLFWNIDNIFCESLRNFRKKVPPIIGITTQFHAWWHILTGLGSYLHILFSLYTRTLYLRYRPKVKFLFGIWPVILFEPLRKH
+PTM	Methylation:61;Ubiquitylation:61

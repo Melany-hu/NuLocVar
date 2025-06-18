@@ -1,0 +1,25 @@
+UniprotID	S4R3B0
+Accession	S4R3B0
+EntryName	S4R3B0_HUMAN
+ProteinName	Protein tyrosine phosphatase receptor type E
+GeneName	PTPRE
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPLCPLLLVGFSLPLARALRGNETTADSNETTTTSGPPDPGASQPLLAWLLLPLLLLLLVLLLAAYFFRFRKQRKAVVSTSDKKMPNGILEEQAKGDAAQQVTLRAQEVFSHPRGAPGGGDPYQIRRRLQAVSGGVQLIAIWTHTRNF
+PTM	

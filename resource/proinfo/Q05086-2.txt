@@ -1,0 +1,25 @@
+UniprotID	Q05086-2
+Accession	Q05086;A8K8Z9;P78355;Q93066;Q9UEP4;Q9UEP5;Q9UEP6;Q9UEP7;Q9UEP8;Q9UEP9
+EntryName	UBE3A_HUMAN
+ProteinName	Ubiquitin-protein ligase E3A (EC 2.3.2.26) (E6AP ubiquitin-protein ligase) (HECT-type ubiquitin transferase E3A) (Human papillomavirus E6-associated protein) (Oncogenic protein-associated protein E6-AP) (Renal carcinoma antigen NY-REN-54)
+GeneName	UBE3A E6AP EPVE6AP HPVE6A
+Length	852
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and transfers it to its substrates (PubMed:10373495, PubMed:16772533, PubMed:19204938, PubMed:19233847, PubMed:19325566, PubMed:19591933, PubMed:22645313, PubMed:24273172, PubMed:24728990, PubMed:30020076). Several substrates have been identified including the BMAL1, ARC, LAMTOR1, RAD23A and RAD23B, MCM7 (which is involved in DNA replication), annexin A1, the PML tumor suppressor, and the cell cycle regulator CDKN1B (PubMed:10373495, PubMed:19204938, PubMed:19325566, PubMed:19591933, PubMed:22645313, PubMed:24728990, PubMed:30020076). Additionally, may function as a cellular quality control ubiquitin ligase by helping the degradation of the cytoplasmic misfolded proteins (PubMed:19233847). Finally, UBE3A also promotes its own degradation in vivo. Plays an important role in the regulation of the circadian clock: involved in the ubiquitination of the core clock component BMAL1, leading to its proteasomal degradation (PubMed:24728990). Acts as transcriptional coactivator of progesterone receptor PGR upon progesterone hormone activation (PubMed:16772533). Acts as a regulator of synaptic development by mediating ubiquitination and degradation of ARC (By similarity). Required for synaptic remodeling in neurons by mediating ubiquitination and degradation of LAMTOR1, thereby limiting mTORC1 signaling and activity-dependent synaptic remodeling (By similarity). Synergizes with WBP2 in enhancing PGR activity (PubMed:16772533).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRAAAKHLIERYYHQLTEGCGNEACTNEFCASCPTFLRMDNNAAAIKALELYKINAKLCDPHPSKKGASSAYLENSKGAPNNSCSEIKMNKKGARIDFKDVTYLTEEKVYEILELCREREDYSPLIRVIGRVFSSAEALVQSFRKVKQHTKEELKSLQAKDEDKDEDEKEKAACSAAAMEEDSEASSSRIGDSSQGDNNLQKLGPDDVSVDIDAIRRVYTRLLSNEKIETAFLNALVYLSPNVECDLTYHNVYSRDPNYLNLFIIVMENRNLHSPEYLEMALPLFCKAMSKLPLAAQGKLIRLWSKYNADQIRRMMETFQQLITYKVISNEFNSRNLVNDDDAIVAASKCLKMVYYANVVGGEVDTNHNEEDDEEPIPESSELTLQELLGEERRNKKGPRVDPLETELGVKTLDCRKPLIPFEEFINEPLNEVLEMDKDYTFFKVETENKFSFMTCPFILNAVTKNLGLYYDNRIRMYSERRITVLYSLVQGQQLNPYLRLKVRRDHIIDDALVRLEMIAMENPADLKKQLYVEFEGEQGVDEGGVSKEFFQLVVEEIFNPDIGMFTYDESTKLFWFNPSSFETEGQFTLIGIVLGLAIYNNCILDVHFPMVVYRKLMGKKGTFRDLGDSHPVLYQSLKDLLEYEGNVEDDMMITFQISQTDLFGNPMMYDLKENGDKIPITNENRKEFVNLYSDYILNKSVEKQFKAFRRGFHMVTNESPLKYLFRPEEIELLICGSRNLDFQALEETTEYDGGYTRDSVLIREFWEIVHSFTDEQKRLFLQFTTGTDRAPVGGLGKLKMIIAKNGPDTERLPTSHTCFNVLLLPEYSSKEKLKERLLKAITYAKGFGML
+PTM	Acetylation:30,112,123,822;Methylation:71,77,179,226,323,330,373,435,489,724,822,829;Phosphorylation:93,94,107,109,127,134,146,147,158,159,166,207,210,217,218,243,244,329,331,372,494,495,659,744;SUMOylation:184,441,468;Ubiquitylation:30,71,77,90,101,112,123,132,175,179,195,226,311,315,323,330,350,373,421,435,468,474,552,553,711,724,728,731,802,822,824,829,855,864,870

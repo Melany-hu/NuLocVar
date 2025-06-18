@@ -1,0 +1,25 @@
+UniprotID	J3KRY1
+Accession	J3KRY1
+EntryName	J3KRY1_HUMAN
+ProteinName	Rho GDP-dissociation inhibitor 1 (Rho-GDI alpha)
+GeneName	ARHGDIA
+Length	249
+Function	Controls Rho proteins homeostasis. Regulates the GDP/GTP exchange reaction of the Rho proteins by inhibiting the dissociation of GDP from them, and the subsequent binding of GTP to them. Retains Rho proteins such as CDC42, RAC1 and RHOA in an inactive cytosolic pool, regulating their stability and protecting them from degradation. Actively involved in the recycling and distribution of activated Rho GTPases in the cell, mediates extraction from membranes of both inactive and activated molecules due its exceptionally high affinity for prenylated forms. Through the modulation of Rho proteins, may play a role in cell motility regulation. In glioma cells, inhibits cell migration and invasion by mediating the signals of SEMA5A and PLXNB3 that lead to inactivation of RAC1.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEQEPTAEQLAQIAAENEEDEHSVNYKPPAQKSIQEIQELDKDDESLRKYKEALLGRVAVSADPNVPNVVVTGLTLVCSSAPGPLELDLTGDLESFKKQSFVLKEGVEYRIKISFRVNREIVSGMKYIQHTYRKGVKIDKTDYMTTTRPTTCPGSGISPSRRTGRTEPSQRRAGQTDGRTTDRRMCPPQPLPSPYQSADRPSVPLPPWSASLAWLNRVPPTPLLSPPPPTGPASSVSCLVAASACAVG
+PTM	

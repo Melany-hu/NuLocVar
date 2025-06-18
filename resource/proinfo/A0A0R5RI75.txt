@@ -1,0 +1,25 @@
+UniprotID	A0A0R5RI75
+Accession	A0A0R5RI75
+EntryName	A0A0R5RI75_HUMAN
+ProteinName	Thyroid hormone receptor beta 1
+GeneName	THRB
+Length	67
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	18...23
+validnes_region	
+nesbase_region	
+Sequence	VLDDSKRLAKRKLIEENREKRRREELQKSIGHKPEPTDEEWELIKTVTEAHVATNAQGSHWKRKGIF
+PTM	

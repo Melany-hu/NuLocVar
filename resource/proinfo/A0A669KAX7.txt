@@ -1,0 +1,25 @@
+UniprotID	A0A669KAX7
+Accession	A0A669KAX7
+EntryName	A0A669KAX7_HUMAN
+ProteinName	NACHT and WD repeat domain containing 1
+GeneName	NWD1
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFAKGTLANSASKDYTLHLWNLLSGQEKFTIWDGGSKNPAEPQIWNLHVDEAHKVVYSASGSKINAWNLETAEPVFHILGDASDPWMCMAVLASQATLLTVSRDGVVSLWSSATGKLQGKQHMSSIKEETPTCAVSVQKQGKLVTGFSNGSISLALEDRCGYSWRTRGAFADSWPWIWNMKTWWRRLFLVLRTT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99928-2
+Accession	Q99928;G3V594;Q9HD46;Q9NYT2
+EntryName	GBRG3_HUMAN
+ProteinName	Gamma-aminobutyric acid receptor subunit gamma-3 (GABA(A) receptor subunit gamma-3) (GABAAR subunit gamma-3)
+GeneName	GABRG3
+Length	253
+Function	Gamma subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain (By similarity). GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s) (By similarity). When activated by GABA, GABAARs selectively allow the flow of chloride across the cell membrane down their electrochemical gradient (By similarity).
+Subcellular Location	Postsynaptic cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPKLLLLLCLFSGLHARSRKVEEDEYEDSSSNQKWVLAPKSQDTDVTLILNKLLREYDKKLRPDIGIKPTVIDVDIYVNSIGPVSSINMEYQIDIFFAQTWTDSRLRFNSTMKILTLNSNMVGLIWIPDTIFRNSKTAEAHWITTPNQLLRIWNDGKILYTLRLTINAECQLQLHNFPMDEHSCPLIFSSYGYPKEEMIYRWRKNSVEAADQKSWRLYQFDFMGLRNTTEIVTTSAGRNLLKEAQLSKAREA
+PTM	Methylation:53;Phosphorylation:30,31,32,295,298,300;Ubiquitylation:53

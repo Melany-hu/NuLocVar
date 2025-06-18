@@ -1,0 +1,25 @@
+UniprotID	H3BQJ5
+Accession	H3BQJ5
+EntryName	H3BQJ5_HUMAN
+ProteinName	Nucleolar protein 3
+GeneName	NOL3
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGQSVWRGRRTPSSPCWPPGPVLAEPSGGWDRAPTMGNAQERPSETIDRERKRLVETLQADSGLLLDALLARGVLTGPEYEALDALPDAERRATGTAAMTLHAQATGRRRHPARGPHAPGCPELQTLTRPGALRAPRRCNPGPRRSQSQSWKLRPLKRLNRSRSQSQSWNPRLKQNQSRNWSQNRTQSPSPTSRKGTSPKIPEGQSSDRRCPAHAG
+PTM	

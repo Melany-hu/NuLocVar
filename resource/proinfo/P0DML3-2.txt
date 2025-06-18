@@ -1,0 +1,25 @@
+UniprotID	P0DML3-2
+Accession	P0DML3;P01243;Q0VDB1;Q14407
+EntryName	CSH2_HUMAN
+ProteinName	Chorionic somatomammotropin hormone 2 (Choriomammotropin) (Lactogen) (Placental lactogen) (PL)
+GeneName	CSH2
+Length	167
+Function	Produced only during pregnancy and is involved in stimulating lactation, fetal growth and metabolism. Does not interact with GHR but only activates PRLR through zinc-induced dimerization.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGSRTSLLLAFALLCLPWLQEAGAVQTVPLSRLFDHAMLQAHRAHQLAIDTYQEFEETYIPKDQKYSFLHDSQTSFCFSDSIPTPSNMEETQQKSNLELLRISLLLIESWLEPVRFLRSMFANNLVYDTSDSDDYHLLKDLEEGIQTLMGVRVAPGVANPGTPLA
+PTM	Methylation:166,184

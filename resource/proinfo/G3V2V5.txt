@@ -1,0 +1,25 @@
+UniprotID	G3V2V5
+Accession	G3V2V5
+EntryName	G3V2V5_HUMAN
+ProteinName	Zinc finger protein 410
+GeneName	ZNF410
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKHHLQLGAAGSQEQEQTAEPLMGSSLLEEASVPSKNLVSMNSQPSLGGESLNLPNTNSILGVDDEVLAEGSPRSLSSVPDVTHHLVTMQSGRQSYEVSVLTAVNPQEV
+PTM	

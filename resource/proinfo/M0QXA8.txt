@@ -1,0 +1,25 @@
+UniprotID	M0QXA8
+Accession	M0QXA8
+EntryName	M0QXA8_HUMAN
+ProteinName	Spi-B transcription factor
+GeneName	SPIB
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLALEAAQLDGPHFSCLYPDGVFYDLDSCKHSSYPDSEGAPDSLWDWTVAPPVPATPYEAFDPAAAAFSHPQAAQLCYEPPTYSPAGNLELAPSLEAPGPGLPAYPTENFASQPCAIRGGRLTVGQPCPGGLGQRVG
+PTM	

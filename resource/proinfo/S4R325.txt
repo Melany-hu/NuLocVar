@@ -1,0 +1,25 @@
+UniprotID	S4R325
+Accession	S4R325
+EntryName	S4R325_HUMAN
+ProteinName	URGCP-MRPS24 readthrough
+GeneName	URGCP-MRPS24
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPGHSDLGEVAPEIKASERRTAVAIADLEWREMEGDDCEFRYGDGTNEAQDNDFPTGAVLEPRAALRLARPAHLPGLRQEPGGPSTRKQGGQAGDLRGGTRAALHRPP
+PTM	

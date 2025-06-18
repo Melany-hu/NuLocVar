@@ -1,0 +1,25 @@
+UniprotID	Q16613-2
+Accession	Q16613;A0AVF2;J3KMZ5;Q562F4
+EntryName	SNAT_HUMAN
+ProteinName	Serotonin N-acetyltransferase (Serotonin acetylase) (EC 2.3.1.87) (Aralkylamine N-acetyltransferase) (AA-NAT)
+GeneName	AANAT SNAT
+Length	252
+Function	Controls the night/day rhythm of melatonin production in the pineal gland. Catalyzes the N-acetylation of serotonin into N-acetylserotonin, the penultimate step in the synthesis of melatonin.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPQSMKGQKRPFGGPWRLKVLGGPPWLRRTLPKLGRPKEAPVARMSTQSTHPLKPEAPRLPPGIPESPSCQRRHTLPASEFRCLTPEDAVSAFEIEREAFISVLGVCPLYLDEIRHFLTLCPELSLGWFEEGCLVAFIIGSLWDKERLMQESLTLHRSGGHIAHLHVLAVHRAFRQQGRGPILLWRYLHHLGSQPAVRRAALMCEDALVPFYERFSFHAVGPCAITVGSLTFMELHCSLRGHPFLRRNSGC
+PTM	Methylation:10

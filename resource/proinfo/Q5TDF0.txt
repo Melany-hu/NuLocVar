@@ -1,0 +1,25 @@
+UniprotID	Q5TDF0
+Accession	Q5TDF0
+EntryName	Q5TDF0_HUMAN
+ProteinName	Chromosome 1 open reading frame 57, isoform CRA_a (Nucleoside-triphosphatase, cancer-related)
+GeneName	NTPCR C1orf57 hCG_15829
+Length	228
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARHVFLTGPPGVGKTTLIHKASEVLKSSGVPVDGFYTEEVRQGGRRIGFDVVTLSGTRGPLSRVGLEPPPGKRECRVGQYVVDLTSFEQLALPVLRNADCSSGPGQRVCVIDEIGKMELFSQLFIQAVRQTLSTPGTIILGTIPVPKGKPLALVEEIRNRKDVKVFNSPYCVIEDQSKFSSCVSQSTLTEPGWRQKLLQSLLNSEWKKRAPVVPTSVSPPFYLRWIP
+PTM	

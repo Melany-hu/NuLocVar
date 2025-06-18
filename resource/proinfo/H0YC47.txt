@@ -1,0 +1,25 @@
+UniprotID	H0YC47
+Accession	H0YC47
+EntryName	H0YC47_HUMAN
+ProteinName	Splicing regulatory glutamic acid and lysine rich protein 1
+GeneName	SREK1
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XINHSNNAIVKPPEMTPQAAAKELEEVMKRVREAQSFISAAIEPGWLHSTSLCNDFLGCF
+PTM	

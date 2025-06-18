@@ -1,0 +1,25 @@
+UniprotID	E9PI40
+Accession	E9PI40
+EntryName	E9PI40_HUMAN
+ProteinName	Neuraminidase 3
+GeneName	NEU3
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPADLPPRPMEESPASSSAPTETEEPGSSAAPDLCETFWVAMPESPSILLLSSTRSA
+PTM	

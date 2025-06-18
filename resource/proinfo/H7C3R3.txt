@@ -1,0 +1,25 @@
+UniprotID	H7C3R3
+Accession	H7C3R3
+EntryName	H7C3R3_HUMAN
+ProteinName	Zyxin
+GeneName	ZYX
+Length	177
+Function	
+Subcellular Location	Cell junction; Focal adhesion; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PSVCPSPPGWRLLRTGTQSLRTRRRGGHPRRGAHAPACDFPLPPPPLAGDGDDAEGALGGAFPPPPPPIEESFPPAPLEEEIFPSPPPPPEEEGGPEAPIPPPPQPREKVSSIDLEIDSLSSLLDDMTKNDPFKARVSSGYVPPPVATPFSSKSSTKPAAGGTAPLPPWKSPSSSQP
+PTM	

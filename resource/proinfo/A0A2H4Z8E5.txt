@@ -1,0 +1,25 @@
+UniprotID	A0A2H4Z8E5
+Accession	A0A2H4Z8E5
+EntryName	A0A2H4Z8E5_HUMAN
+ProteinName	CD16A
+GeneName	FCGR3A
+Length	84
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	WLLLQAPRWVFKEEDPIHLRCHSWKNTALHKVTYLQNGKGRKYFHHNSDFYIPKATLKDSGSYFRGLFGSKNVSSETVNITITQ
+PTM	

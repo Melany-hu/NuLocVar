@@ -1,0 +1,25 @@
+UniprotID	Q15165-3
+Accession	Q15165;A4D1H7;B2RCP9;B4DJD5;O15114;O15115;O75856;Q5FBX7;Q86YL0
+EntryName	PON2_HUMAN
+ProteinName	Serum paraoxonase/arylesterase 2 (PON 2) (EC 3.1.1.2) (EC 3.1.1.81) (Aromatic esterase 2) (A-esterase 2) (Serum aryldialkylphosphatase 2)
+GeneName	PON2
+Length	342
+Function	Capable of hydrolyzing lactones and a number of aromatic carboxylic acid esters. Has antioxidant activity. Is not associated with high density lipoprotein. Prevents LDL lipid peroxidation, reverses the oxidation of mildly oxidized LDL, and inhibits the ability of MM-LDL to induce monocyte chemotaxis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRLVAVGLLGIALALLGERLLALRNRLKASREVESVDLPHCHLIKGIEAGSEDIDILPNGLAFFSVGLKFPGLHSFAPDKPGGILMMDLKEEKPRARELRISRGFDLASFNPHGISTFIDNEFKNTVEIFKFEEAENSLLHLKTVKHELLPSVNDITAVGPAHFYATNDHYFSDPFLKYLETYLNLHWANVVYYSPNEVKVVAEGFDSANGINISPDDKYIYVADILAHEIHVLEKHTNMNLTQLKVLELDTLVDNLSIDPSSGDIWVGCHPNGQKLFVYDPNNPPSSEVLRIQNILSEKPTVTTVYANNGSVLQGSSVASVYDGKLLIGTLYHRALYCEL
+PTM	Acetylation:156;Glycosylation:252,254,308,322,323;Methylation:156,213;Phosphorylation:336;SUMOylation:91,144,159;Ubiquitylation:46,81,159

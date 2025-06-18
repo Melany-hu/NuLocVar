@@ -1,0 +1,25 @@
+UniprotID	Q96JL9-2
+Accession	Q96JL9;Q6P2E6;Q86WS6;Q8TDL0
+EntryName	ZN333_HUMAN
+ProteinName	Zinc finger protein 333
+GeneName	ZNF333 KIAA1806
+Length	182
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESVTFEDVAVEFIQEWALLDSARRSLCKYRMLDQCRTLASRGTPPCKPSCVSQLGQRAEPKATERGILRATGVAWESQLKPEELPSMQDLLEEASSRDMQMGPGLFLRMQLVPSIEERETPLTREDRPALQEPPWSLGCTLPLLSLLLPSCPEPPLVLLDSSSAPDRHLGSTLDTEARGIP
+PTM	Methylation:109,119,299,317,373,579;Phosphorylation:226,241,417,445;SUMOylation:48,81,308,311,317,358,525,550,560,588

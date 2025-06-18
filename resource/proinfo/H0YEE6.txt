@@ -1,0 +1,25 @@
+UniprotID	H0YEE6
+Accession	H0YEE6
+EntryName	H0YEE6_HUMAN
+ProteinName	Decaprenyl diphosphate synthase subunit 1
+GeneName	PDSS1
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWGEKKAVLAGDLILSAASIALARIGNTTVISILTQVIEDLVRGEFLQLGSKENENERFAHYLEKTFKKTASLIANSCKAVSVLGCPDPVVHEIAYQYGKNVGIAFQLIDDVLDFTSCSDQMGKPTSADLKLGLATGPVLFACQQVHCQGKTGSCCKH
+PTM	

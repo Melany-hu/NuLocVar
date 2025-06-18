@@ -1,0 +1,25 @@
+UniprotID	A5YRV4
+Accession	A5YRV4
+EntryName	A5YRV4_HUMAN
+ProteinName	MUC1 isoform T13
+GeneName	MUC1
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPGTQSPFFLLLLLTVLTATTAPKPATVVTGSGHASSTPGGEKETSATQRSSVPSSTEKNAGAGLCSGCAGHCLSHCLGCLSVPPKELRAAGHLSSPGYLPSYERVPHLPHPWALCAP
+PTM	

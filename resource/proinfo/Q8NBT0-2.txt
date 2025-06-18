@@ -1,0 +1,25 @@
+UniprotID	Q8NBT0-2
+Accession	Q8NBT0;A4FUW4;E9PFC6;Q0VDF8;Q2TAK6;Q96IK6;Q9UFJ8
+EntryName	POC1A_HUMAN
+ProteinName	POC1 centriolar protein homolog A (Pix2) (Proteome of centriole protein 1A) (WD repeat-containing protein 51A)
+GeneName	POC1A WDR51A
+Length	359
+Function	Plays an important role in centriole assembly and/or stability and ciliogenesis. Involved in early steps of centriole duplication, as well as in the later steps of centriole length control. Acts in concert with POC1B to ensure centriole integrity and proper mitotic spindle formation.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPCAEDPSLERHFKGHRDAVTCVDFSINTKQLASGSMDSCLMVWHMKPQSRAYRFTGHKDAVTCVNFSPSGHLLASGSRDKTVRIWVPNVKGESTVFRAHTATVRSVHFCSDGQSFVTASDDKTVKVWATHRQKFLFSLSQHINWVRCAKFSPDGRLIVSASDDKTVKLWDKSSRECVHSYCEHGGFVTYVDFHPSGTCIAAAGMDNTVKVWDVRTHRLLQHYQLHSAAVNGLSFHPSGNYLITASSDSTLKILDLMEGRLLYTLHGHQGPATTVAFSRTGEYFASGGSDEQVMVWKSNFDIVDHGEVTKVPRPPATLASSMGNLTVSILEQRLTLTEDKLKQCLENQQLIMQRATP
+PTM	Phosphorylation:406;SUMOylation:93,392;Ubiquitylation:61,93,167,174

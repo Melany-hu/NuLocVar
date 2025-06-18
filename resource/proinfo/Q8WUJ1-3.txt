@@ -1,0 +1,25 @@
+UniprotID	Q8WUJ1-3
+Accession	Q8WUJ1;B2R7R6;D3DTJ9;I3L1K2
+EntryName	NEUFC_HUMAN
+ProteinName	Neuferricin (Cytochrome b5 domain-containing protein 2)
+GeneName	CYB5D2
+Length	152
+Function	Heme-binding protein which promotes neuronal but not astrocyte differentiation.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLHNWLSFYEKNYVCVGRVTGRFYGEDGLPTPALTQVEAAITRGLEANKLQLQEKQTFPPCNAEWSSARGSRLWCSQKSGGVSRDWIGVPRKLYKPGAKEPRCVCVRTTGPPSGQMPDNPPHRNRGDLDHPNLAEYTGCPPLAITCSFPL
+PTM	Glycosylation:223;Methylation:169;Phosphorylation:208

@@ -1,0 +1,25 @@
+UniprotID	A6NER6
+Accession	A6NER6
+EntryName	A6NER6_HUMAN
+ProteinName	Calbindin 2
+GeneName	CALB2 hCG_2011413
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPQQQPPYLHLAELTASQFLEIWKHFDADGNGYIEGKELENFFQELEKARKGSGMMSKSDNFGEKMKEFMQKYDKNSDGKIEMAELAQILPTEENFLLCFRQHVGSSAEFMEAWRKYDTDRSGYIEANELKGFLSDLLKKANRPYDEPKLQEYTQTILRMFDLNGDGKLGLSEMSRIEAATLTSMSWMPF
+PTM	

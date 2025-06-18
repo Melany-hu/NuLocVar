@@ -1,0 +1,25 @@
+UniprotID	Q8IXY8-2
+Accession	Q8IXY8;A9NIU0;A9NIU9;E7EX15
+EntryName	PPIL6_HUMAN
+ProteinName	Probable inactive peptidyl-prolyl cis-trans isomerase-like 6 (PPIase) (Cyclophilin-like protein PPIL6) (Rotamase PPIL6)
+GeneName	PPIL6
+Length	337
+Function	Probable inactive PPIase with no peptidyl-prolyl cis-trans isomerase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARPQPCGPPHARCGSPSLPERPLQVKVVGLFSCPNFQIAKSAAENLKNNHPSKFEDPILVPLQEFAWHQYLQEKKRELKNETWEYSSSVISFVNGQFLGDALDLQKWAHEVWDIVDIKPSALYDALTEDFSAKFLRDTKHDFVFLDICIDSSPIGRLIFELYCDVCPKTCKNFQVLCTGKAGFSQRGIRLHYKNSIFHRIVQNGWIQGGDIVYGKGDNGESIYGPTFEELYGSLKRSVKRQKESRGVGKIEKYRDENFSVPHNKRGVLGMANKGRHSNGSQFYITLQATPYLDRKFVAFGQLIEGTEVLKQLELVPTQNERPIHMCRITDSGDPYA
+PTM	Methylation:41,48,75,107,119,285;Phosphorylation:16

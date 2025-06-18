@@ -1,0 +1,25 @@
+UniprotID	Q8IUD6-3
+Accession	Q8IUD6;A0AVM5;B2R7G9;B6ZLM5;F5GX60;Q9BSE9
+EntryName	RN135_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF135 (EC 2.3.2.27) (RIG-I E3 ubiquitin ligase) (REUL) (RING finger protein 135) (RING finger protein leading to RIG-I activation) (Riplet) (RING-type E3 ubiquitin transferase RNF135)
+GeneName	RNF135 L13
+Length	286
+Function	E2-dependent E3 ubiquitin-protein ligase that functions as a RIGI coreceptor in the sensing of viral RNAs in cell cytoplasm and the activation of the antiviral innate immune response (PubMed:19017631, PubMed:19484123, PubMed:21147464, PubMed:23950712, PubMed:28469175, PubMed:31006531). Together with the UBE2D3, UBE2N and UB2V1 E2 ligases, catalyzes the 'Lys-63'-linked polyubiquitination of RIGI oligomerized on viral RNAs, an essential step in the activation of the RIG-I signaling pathway (PubMed:19017631, PubMed:21147464, PubMed:28469175, PubMed:31006531). Through a ubiquitin-independent parallel mechanism, which consists in bridging RIGI filaments forming on longer viral RNAs, further activates the RIG-I signaling pathway (PubMed:31006531). This second mechanism that synergizes with the ubiquitin-dependent one would thereby allow an RNA length-dependent regulation of the RIG-I signaling pathway (Probable). Associated with the E2 ligase UBE2N, also constitutively synthesizes unanchored 'Lys-63'-linked polyubiquitin chains that may also activate the RIG-I signaling pathway (PubMed:28469175, PubMed:31006531).
+Subcellular Location	Cytoplasm; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLGLGSAVPVWLAEDDLGCIICQGLLDWPATLPCGHSFCRHCLEALWGARDARRWACPTCRQGAAQQPHLRKNTLLQDLADKYRRAAREIQAGSDPAHCPCPGSSSLSSAAARPRRRPELQRVAVEKSITEVAQELTELVEHLVDIVRSLQNQRPLSESGPDNELSILGKAFSSGVDLSMASPKLVTSDTAAGKIRDILHDLEEIQEKLQESVTWKEAPEAQMQGSLLPRLECSGTITAASISQAQENSWKPRLPPHAHCLTRATLHSGELLGLLSGPSIQPLT
+PTM	Methylation:172,196,210,386;Phosphorylation:159,184;Ubiquitylation:196

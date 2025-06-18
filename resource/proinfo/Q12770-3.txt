@@ -1,0 +1,25 @@
+UniprotID	Q12770-3
+Accession	Q12770;Q8N2E0;Q8WUA1
+EntryName	SCAP_HUMAN
+ProteinName	Sterol regulatory element-binding protein cleavage-activating protein (SCAP) (SREBP cleavage-activating protein)
+GeneName	SCAP KIAA0199 PSEC0227
+Length	771
+Function	Escort protein required for cholesterol as well as lipid homeostasis (By similarity). Regulates export of the SCAP-SREBP complex from the endoplasmic reticulum to the Golgi upon low cholesterol, thereby regulating the processing of sterol regulatory element-binding proteins (SREBPs) SREBF1/SREBP1 and SREBF2/SREBP2 (PubMed:26311497). At high sterol concentrations, formation of a ternary complex with INSIG (INSIG1 or INSIG2) leads to mask the ER export signal in SCAP, promoting retention of the complex in the endoplasmic reticulum (By similarity). Low sterol concentrations trigger release of INSIG, a conformational change in the SSD domain of SCAP, unmasking of the ER export signal, promoting recruitment into COPII-coated vesicles and transport of the SCAP-SREBP to the Golgi: in the Golgi, SREBPs are then processed, releasing the transcription factor fragment of SREBPs from the membrane, its import into the nucleus and up-regulation of LDLR, INSIG1 and the mevalonate pathway (PubMed:26311497). Binds cholesterol via its SSD domain (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane; Cytoplasmic vesicle; COPII-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLTERLREKISRAFYNHGLLCASYPIPIILFTGFCILACCYPLLKLPLPGTGPVEFTTPVKDYSPPPVDSDRKQGEPTEQPEWYVGAPVAYVQQIFVKSSVFPWHKNLLAVDVFRSPLSRAFQLVEEIRNHVLRDSSGIRSLEELCLQVTDLLPGLRKLRNLLPEHGCLLLSPGNFWQNDWERFHADPDIIGTIHQHEPKTLQTSATLKDLLFGVPGKYSGVSLYTRKRMVSYTITLVFQHYHAKFLGSLRARLMLLHPSPNCSLRAESLVHVHFKEEIGVAELIPLVTTYIILFAYIYFSTRKIDMVKSKWGLALAAVVTVLSSLLMSVGLCTLFGLTPTLNGGEIFPYLVVVIGLENVLVLTKSVVSTPVDLEVKLRIAQGLSSESWSIMKNMATELGIILIGYFTLVPAIQEFCLFAVVGLVSDFFLQMLFFTTVLSIDIRRMELADLNKRLPPEACLPSAKPVGQPTRYERSSGRLEVWDAIEGVLCCSSEEVSSGITALVFLDKRIVAARLNGSLDFFSLETHTALSPLQFRGTPGRGSSPASPVYSSSDTVACHLTHTVPCAHQKPITALKAAAGRLVTGSQDHTLRVFRLEDSCCLFTLQGHSGAITTVYIDQTMVLASGGQDGAICLWDVLTGSRVSHVFAHRGDVTSLTCTTSCVISSGLDDLISIWDRSTGIKFYSIQQDLGCGASLGVISDNLLVTGGQGCVSFWDLNYGDLLQTVYLGKNSEAQPARQILVLDNAAIVCNFGSELSLVYVPSVLEKLD
+PTM	Glycosylation:590,641;Methylation:99,366,378,394,454,646,1086;Phosphorylation:250,265,464,483,822,826,833,838,851,904,907,910,930,937,943,952,1057;Ubiquitylation:454,466,842,1086

@@ -1,0 +1,25 @@
+UniprotID	Q3KRA9-2
+Accession	Q3KRA9;A5LGM8;A6NLP1;A8MU96
+EntryName	ALKB6_HUMAN
+ProteinName	Alpha-ketoglutarate-dependent dioxygenase alkB homolog 6 (EC 1.14.11.-) (Alkylated DNA repair protein alkB homolog 6)
+GeneName	ALKBH6 ABH6
+Length	266
+Function	Probable dioxygenase that requires molecular oxygen, alpha-ketoglutarate and iron.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRGMGMLNLEIGGDAGGRIGCKELVLMEEQDARVPALEPFRVEQAPPVIYYVPDFISKEEEEYLLRQVFNAPKPKWTQLSGRKLQNWGGLPHPRGMVPERLPPWLQRYVDKVSNLSLFGGLPANHVLVNQYLPGEGIMPHEDGPLYYPTVSTISLGSHTVLDFYEPRRPEDDDPTEQPRPPPRPTTSLLLEPRSLLVLRGPAYTRLLHGIAAARVDALDAASSPPNAAACPSARPGACLVRGTRVSLTIRRVPRVLRAGLLLGK
+PTM	Methylation:57;Phosphorylation:37,177,178,197,206,222;SUMOylation:32,57;Ubiquitylation:49

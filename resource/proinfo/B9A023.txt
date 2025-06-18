@@ -1,0 +1,25 @@
+UniprotID	B9A023
+Accession	B9A023
+EntryName	B9A023_HUMAN
+ProteinName	Eukaryotic translation initiation factor 4E family member 2
+GeneName	EIF4E2
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNKFDALKDDDSGDHDQNEENSTQKDGEKEKTERDKNQSSSKRKVEQFWRFYSHMVRPGDLTGHSDFHLFKEGIKPMWEDDANKNGGKWIIRLRKGLASRCWENLILAMLGEQFMVGEEICGAVVSVRFQEDIISIWNKTASDQATTARIRDTLRRVLNLPPNTIMEYKTHTDSIKDNSSFRNTKITL
+PTM	

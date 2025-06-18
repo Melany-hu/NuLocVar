@@ -1,0 +1,25 @@
+UniprotID	H0YMS9
+Accession	H0YMS9
+EntryName	H0YMS9_HUMAN
+ProteinName	High mobility group 20A
+GeneName	HMG20A
+Length	29
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNERREQLRAKRPEVPFPEITRMLGNEWS
+PTM	

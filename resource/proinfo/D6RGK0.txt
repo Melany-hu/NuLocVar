@@ -1,0 +1,25 @@
+UniprotID	D6RGK0
+Accession	D6RGK0
+EntryName	D6RGK0_HUMAN
+ProteinName	Pentatricopeptide repeat domain 2
+GeneName	PTCD2
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMLFIKGKYKSALQVLIEMKNQDVKFTKDTYVLAFAICYKLNSPESFKICTTLREEALLKGEILSRRASCFAVALALNQNEMAKAVSIFSQIMNPESIACINLNIIIHIQSNMLENLIKTLKNAAEGNLSKFVKRHVFSEEVLAKVREKVKDVPALVAKFDEIYGTLHITGQVTTDSLDAVLCHTPRDRKSHTLLLNKRMVS
+PTM	

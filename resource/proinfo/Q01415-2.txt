@@ -1,0 +1,25 @@
+UniprotID	Q01415-2
+Accession	Q01415;Q7Z4Q4
+EntryName	GALK2_HUMAN
+ProteinName	N-acetylgalactosamine kinase (EC 2.7.1.157) (GalNAc kinase) (Galactokinase 2)
+GeneName	GALK2 GK2
+Length	447
+Function	Acts on GalNAc. Also acts as a galactokinase when galactose is present at high concentrations. May be involved in a salvage pathway for the reutilization of free GalNAc derived from the degradation of complex carbohydrates.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVLYDRLLKLKEMFNSKFGSIPKFYVRAPGRVNIIGEHIDYCGYSVLPMAVEQDVLIAVEPVKTYALQLANTNPLYPDFSTSANNIQIDKTKPLWHNYFLCGLKGIQEHFGLSNLTGMNCLVDGNIPPSSGLSSSSALVCCAGLVTLTVLGRNLSKVELAEICAKSERYIGTEGGGMDQSISFLAEEGTAKLIEFSPLRATDVKLPSGAVFVIANSCVEMNKAATSHFNIRVMECRLAAKLLAKYKSLQWDKVLRLEEVQAKLGISLEEMLLVTEDALHPEPYNPEEICRCLGISLEELRTQILSPNTQDVLIFKLYQRAKHVYSEAARVLQFKKICEEAPENMVQLLGELMNQSHMSCRDMYECSCPELDQLVDICRKFGAQGSRLTGAGWGGCTVSMVPADKLPSFLANVHKAYYQRSDGSLAPEKQSLFATKPGGGALVLLEA
+PTM	Acetylation:35;Methylation:234,256,327;Phosphorylation:5,110,208,237,238,320;SUMOylation:177;Ubiquitylation:177,252,258,333,346,391

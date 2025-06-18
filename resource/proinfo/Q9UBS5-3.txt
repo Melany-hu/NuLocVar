@@ -1,0 +1,25 @@
+UniprotID	Q9UBS5-3
+Accession	Q9UBS5;B0UXY7;O95375;O95468;O95975;O96022;Q5STL4;Q5SUJ8;Q5SUL3;Q71SG6;Q86W60;Q9UQQ0
+EntryName	GABR1_HUMAN
+ProteinName	Gamma-aminobutyric acid type B receptor subunit 1 (GABA-B receptor 1) (GABA-B-R1) (GABA-BR1) (GABABR1) (Gb1)
+GeneName	GABBR1 GPRC3A
+Length	899
+Function	Component of a heterodimeric G-protein coupled receptor for GABA, formed by GABBR1 and GABBR2 (PubMed:15617512, PubMed:18165688, PubMed:22660477, PubMed:24305054, PubMed:36103875, PubMed:9872316, PubMed:9872744). Within the heterodimeric GABA receptor, only GABBR1 seems to bind agonists, while GABBR2 mediates coupling to G proteins (PubMed:18165688). Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase (PubMed:10075644, PubMed:10773016, PubMed:10906333, PubMed:24305054, PubMed:9872744). Signaling inhibits adenylate cyclase, stimulates phospholipase A2, activates potassium channels, inactivates voltage-dependent calcium-channels and modulates inositol phospholipid hydrolysis (PubMed:10075644). Calcium is required for high affinity binding to GABA (By similarity). Plays a critical role in the fine-tuning of inhibitory synaptic transmission (PubMed:9844003). Pre-synaptic GABA receptor inhibits neurotransmitter release by down-regulating high-voltage activated calcium channels, whereas postsynaptic GABA receptor decreases neuronal excitability by activating a prominent inwardly rectifying potassium (Kir) conductance that underlies the late inhibitory postsynaptic potentials (PubMed:10075644, PubMed:22660477, PubMed:9844003, PubMed:9872316, PubMed:9872744). Not only implicated in synaptic inhibition but also in hippocampal long-term potentiation, slow wave sleep, muscle relaxation and antinociception (Probable). Activated by (-)-baclofen, cgp27492 and blocked by phaclofen (PubMed:24305054, PubMed:9844003, PubMed:9872316).
+Subcellular Location	Cell membrane; Postsynaptic cell membrane; Cell projection; Dendrite; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	390...395
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLLAPLFLRPPGAGGAQTPNATSEGCQIIHPPWEGGIRYRGLTRDQVKAINFLPVDYEIEYVCRGEREVVGPKVRKCLANGSWTDMDTPSRCVNRTPHSERRAVYIGALFPMSGGWPGGQACQPAVEMALEDVNSRRDILPDYELKLIHHDSKCDPGQATKYLYELLYNDPIKIILMPGCSSVSTLVAEAARMWNLIVLSYGSSSPALSNRQRFPTFFRTHPSATLHNPTRVKLFEKWGWKKIATIQQTTEVFTSTLDDLEERVKEAGIEITFRQSFFSDPAVPVKNLKRQDARIIVGLFYETEARKVFCEVYKERLFGKKYVWFLIGWYADNWFKIYDPSINCTVDEMTEAVEGHITTEIVMLNPANTRSISNMTSQEFVEKLTKRLKRHPEETGGFQEAPLAYDAIWALALALNKTSGGGGRSGVRLEDFNYNNQTITDQIYRAMNSSSFEGVSGHVVFDASGSRMAWTLIEQLQGGSYKKIGYYDSTKDDLSWSKTDKWIGGSPPADQTLVIKTFRFLSQKLFISVSVLSSLGIVLAVVCLSFNIYNSHVRYIQNSQPNLNNLTAVGCSLALAAVFPLGLDGYHIGRNQFPFVCQARLWLLGLGFSLGYGSMFTKIWWVHTVFTKKEEKKEWRKTLEPWKLYATVGLLVGMDVLTLAIWQIVDPLHRTIETFAKEEPKEDIDVSILPQLEHCSSRKMNTWLGIFYGYKGLLLLLGIFLAYETKSVSTEKINDHRAVGMAIYNVAVLCLITAPVTMILSSQQDAAFAFASLAIVFSSYITLVVLFVPKMRRLITRGEWQSEAQDTMKTGSSTNNNEEEKSRLLEKENRELEKIIAEKEERVSELRHQLQSRQQLRSRRHPPTPPEPSGGLPRGPPEPPDRLSCDGSRVHLLYK
+PTM	Methylation:212,227,352,386,449,582,893,900,905;Phosphorylation:228,230,234,247,491,768,776,876,878,879,880,930,935;Ubiquitylation:887

@@ -1,0 +1,25 @@
+UniprotID	B4DGZ4
+Accession	B4DGZ4
+EntryName	B4DGZ4_HUMAN
+ProteinName	Splicing factor 3b subunit 1
+GeneName	SF3B1
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKIAKTHEDIEAQIREIQGKKAALDEAQGVGLDSTGYYDQEIYGGSDSRFAGYVTSIAATELEDDDDDYSSSTSLLGQKKPGYHAPVALLNDIPQSTEQYDPFAEHRPPKIADREDEYKKHRRTMIISPERLDPFADGNSFPLFYKYSEIYLY
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43897-2
+Accession	O43897;B2RMU2;Q96AN3;Q9NQS4
+EntryName	TLL1_HUMAN
+ProteinName	Tolloid-like protein 1 (EC 3.4.24.-)
+GeneName	TLL1 TLL
+Length	392
+Function	Protease which processes procollagen C-propeptides, such as chordin, pro-biglycan and pro-lysyl oxidase. Required for the embryonic development. Predominant protease, which in the development, influences dorsal-ventral patterning and skeletogenesis.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLGTLSPRMLVWLVASGIVFYGELWVCAGLDYDYTFDGNEEDKTETIDYKDPCKAAVFWGDIALDDEDLNIFQIDRTIDLTQNPFGNLGHTTGGLGDHAMSKKRGALYQLIDRIRRIGFGLEQNNTVKGKVPLQFSGQNEKNRVPRAATSRTERIWPGGVIPYVIGGNFTGSQRAMFKQAMRHWEKHTCVTFIERSDEESYIVFTYRPCGCCSYVGRRGNGPQAISIGKNCDKFGIVVHELGHVIGFWHEHTRPDRDNHVTIIRENIQPGQEYNFLKMEPGEVNSLGERYDFDSIMHYARNTFSRGMFLDTILPSRDDNGIRPAIGQRTRLSKGDIAQARKLYRCPACGETLQESNGNLSSPGFPNGYPSYTHCIWRVSVTPGEKVVFSLC
+PTM	Methylation:230,278,624;Phosphorylation:5,7,109,150,151,153,613,628,630,684,780,782,895;SUMOylation:278,334,573;Ubiquitylation:278,334

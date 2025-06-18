@@ -1,0 +1,25 @@
+UniprotID	J3QS46
+Accession	J3QS46
+EntryName	J3QS46_HUMAN
+ProteinName	Anaphase promoting complex subunit 11
+GeneName	ANAPC11
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVKIKCWNGVATWLWVANDENCGICRMAFNGCCPDCPLHGESISRCLGWCPQPVPVLGGRAHPQARCPATT
+PTM	

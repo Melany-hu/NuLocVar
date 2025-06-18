@@ -1,0 +1,25 @@
+UniprotID	Q9BRF8-2
+Accession	Q9BRF8;B4DQ68;Q6MZY9;Q9H9M9;Q9NUT6
+EntryName	CPPED_HUMAN
+ProteinName	Serine/threonine-protein phosphatase CPPED1 (EC 3.1.3.16) (Calcineurin-like phosphoesterase domain-containing protein 1) (Complete S-transactivated protein 1)
+GeneName	CPPED1 CSTP1
+Length	172
+Function	Protein phosphatase that dephosphorylates AKT family kinase specifically at 'Ser-473', blocking cell cycle progression and promoting cell apoptosis. May play an inhibitory role in glucose uptake by adipocytes.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAAEAGGVFHRARGRTLAAFPAEKESEWKGPFYFILGADPQFGLIKAWSTGDCDNGGDEWEQEIRLTEQAVQAINKLNPKPKFFVLCGDLIHAMPGVKVVFSGHYHRNAGGTYQNLDMVVSSAIGCQLGRDPHGLRVVVVTAEKIVHRYYSLDELSEKGIEDDLMDLIKKK
+PTM	Acetylation:109;Methylation:47,81;Phosphorylation:294;Ubiquitylation:25,77,109

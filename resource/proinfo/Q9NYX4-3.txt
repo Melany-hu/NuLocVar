@@ -1,0 +1,25 @@
+UniprotID	Q9NYX4-3
+Accession	Q9NYX4;Q5VWX3;Q5VWY5;Q5VWY6
+EntryName	CALY_HUMAN
+ProteinName	Neuron-specific vesicular protein calcyon
+GeneName	CALY DRD1IP
+Length	158
+Function	Interacts with clathrin light chain A and stimulates clathrin self-assembly and clathrin-mediated endocytosis.
+Subcellular Location	Cytoplasmic vesicle membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKLGCSFSGKPGKDPGDQDGAAMDSVPLISPLDISQLQPPLPDQVVIKTQTEYQLSSPDQQNFPDLEGQRLNCSHPEEGRRVTTPTPPTVGTQDRRRRWKAAGGAWVPSRPVWGPLALREERVAVSHPAQSWPHRLPCTHQAPSRGCRCRLTKQWRS
+PTM	Methylation:49,173

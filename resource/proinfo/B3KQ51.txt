@@ -1,0 +1,25 @@
+UniprotID	B3KQ51
+Accession	B3KQ51;E5RHP4
+EntryName	B3KQ51_HUMAN
+ProteinName	Serine/threonine-protein phosphatase (EC 3.1.3.16)
+GeneName	PPP2CA
+Length	244
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	84...93
+nlsdbnls_region	
+validnes_region	84...93
+nesbase_region	
+Sequence	MELFRIGGKSPDTNYLFMGDYVDRGYYSVETVTLLVALKVRYRERITILRGNHESRQITQVYGFYDECLRKYGNANVWKYFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQLVMEGYNWCHDRNVVTIFSAPNYCYRCGNQAAIMELDDTLKYSFLQFDPAPRRGEPHVTRRTPDYFL
+PTM	

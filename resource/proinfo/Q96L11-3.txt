@@ -1,0 +1,25 @@
+UniprotID	Q96L11-3
+Accession	Q96L11;A0A0G2JPS5;A0A0S2Z637;A4D2H8;C9JTW1;Q8TDV6
+EntryName	LCFC1_HUMAN
+ProteinName	Sperm-egg fusion protein LLCFC1 (LLLL and CFNLAS motif-containing protein 1) (MSSP-binding protein CTM-1) (Sperm-oocyte fusion required protein 1)
+GeneName	LLCFC1 C7orf34 SOF1
+Length	147
+Function	Sperm protein required for fusion of sperm with the egg membrane during fertilization.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQEVHGSCWALGAGGGQRQWVGRSMPPLAPQLCRAVFLVPILLLLQVKPLNGSPGPKDGSQTEKTPSADQNQEQFEEHFVASSVGEMWQVVDMAQQEEDQSSKTAAVHKHSFHLSFCFSLASVMVFSGGPLRRTFPNIQLCFMLTH
+PTM	Phosphorylation:38

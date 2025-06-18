@@ -1,0 +1,25 @@
+UniprotID	Q5VXN0
+Accession	Q5VXN0
+EntryName	Q5VXN0_HUMAN
+ProteinName	Ribosome production factor 2 homolog (Ribosome biogenesis protein RPF2 homolog)
+GeneName	RPF2
+Length	214
+Function	
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIKGGNANATVTKVLKDVYALKKPYGVLYKKKNITRPFEDQTSLEFFSKKSDCSLFMFGSHNKKRPNNLVIGRMYDYHVLDMIELGIENFVSLKDIKNSKCPEGTKPMLIFAGDDFDVTEDYRRLKSLLIDFFRGPTVSNIRLAGLEYVLHFTALNGKIYFRSYKLLLKKSGCRTPRIELEEMGPSLDLVLRRTHLASDDLYKLSMKMPKALK
+PTM	

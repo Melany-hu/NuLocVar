@@ -1,0 +1,25 @@
+UniprotID	Q8IYU2-3
+Accession	Q8IYU2;A8K6U5;B3KY89;B4DFM6;B4DTQ4;B7Z9X6;E9PGP0;Q5VU99;Q5VUA0;Q8ND12;Q9P2M6
+EntryName	HACE1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase HACE1 (EC 2.3.2.26) (HECT domain and ankyrin repeat-containing E3 ubiquitin-protein ligase 1) (HECT-type E3 ubiquitin transferase HACE1)
+GeneName	HACE1 KIAA1320
+Length	562
+Function	E3 ubiquitin-protein ligase involved in Golgi membrane fusion and regulation of small GTPases (PubMed:15254018, PubMed:21988917, PubMed:22036506, PubMed:37537642, PubMed:38332367). Acts as a regulator of Golgi membrane dynamics during the cell cycle: recruited to Golgi membrane by Rab proteins and regulates postmitotic Golgi membrane fusion (PubMed:21988917). Acts by mediating ubiquitination during mitotic Golgi disassembly, ubiquitination serving as a signal for Golgi reassembly later, after cell division (PubMed:21988917). Specifically binds GTP-bound RAC1, mediating ubiquitination and subsequent degradation of active RAC1, thereby playing a role in host defense against pathogens (PubMed:22036506, PubMed:37537642, PubMed:38332367). May also act as a transcription regulator via its interaction with RARB (By similarity).
+Subcellular Location	Golgi apparatus; Golgi stack membrane; Cytoplasm; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMFKKHFCFSQPLELLWHSLDEWLVLIATELMKNKRDSTEITSILLKQKGQDQDAASIPPFEPPGPGSYENLSTGTRESKPDALAGRQEASADCQDVISMTANRLSAVIQAFYMCCSCQMPPGMTSPRFIEFVCKHDEVLKCFVNRNPKIIFDHFHFLLECPELMSRFMHIIKAQPFKDRCEWFYEHLHSGQPDSDMVHRPVNENDILLVHRDSIFRSSCEVVSKANCAKLKQGIAVRFHGEEGMGQGVVREWFDILSNEIVNPDYALFTQSADGTTFQPNSNSYVNPDHLNYFRFAGQILGLALNHRQLVNIYFTRSFYKHILGIPVNYQDVASIDPEYAKNLQWILDNDISDLGLELTFSVETDVFGAMEEVPLKPGGGSILVTQNNKAEYVQLVTELRMTRAIQPQINAFLQGFHMFIPPSLIQLFDEYELELLLSGMPEIDVSDWIKNTEYTSGYEREDPVIQWFWEVVEDITQEERVLLLQFVTGSSRVPHGGFANIMGGSGLQNFTIAAVPYTPNLLPTSSTCINMLKLPEYPSKEILKDRLLVALHCGSYGYTMA
+PTM	Methylation:86,394,488,724,892;Phosphorylation:20,263,319,336,337,385,386,389,390,404,415,416,423;SUMOylation:724

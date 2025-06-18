@@ -1,0 +1,25 @@
+UniprotID	H0YK66
+Accession	H0YK66
+EntryName	H0YK66_HUMAN
+ProteinName	Exonuclease 3'-5' domain containing 1
+GeneName	EXD1
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPSSDYHFLSQILWKRVKLTLVCGVFEGVLQHVDPNKIVVLKKVELLDEVEQGS
+PTM	

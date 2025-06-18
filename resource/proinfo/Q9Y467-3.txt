@@ -1,0 +1,25 @@
+UniprotID	Q9Y467-3
+Accession	Q9Y467;B2RMX6;B9EGK8;Q8N656;Q9Y4G1
+EntryName	SALL2_HUMAN
+ProteinName	Sal-like protein 2 (Zinc finger protein 795) (Zinc finger protein SALL2) (Zinc finger protein Spalt-2) (Sal-2) (hSal2)
+GeneName	SALL2 KIAA0360 SAL2 ZNF795
+Length	198
+Function	Probable transcription factor that plays a role in eye development before, during, and after optic fissure closure.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHESERSSRLGVPCGEPAELGGDASEEDHPQVCAKCCAQFTDPTEFLAHQNACSTDPPVMVIIGGQENPNNSSASSEPRPEGHNNPQVMDTEHSNPPDSGSSVPTDPTWGPERRGEESSGHFLVAATEPVCGIPVKWPAHEALEFQLHLHYHSKPGPTSAVWPRNCGWEGASNNGIQGSQGEDSPPPISASCTQGSA
+PTM	Glycosylation:256;Methylation:349,598,863;Phosphorylation:243,250,251,269,344,394,467,542,641,684,797,802,806,814,820,873,889;SUMOylation:246,297,417,475,515,591;Ubiquitylation:246,368,515,552,591,598,698

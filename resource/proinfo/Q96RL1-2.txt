@@ -1,0 +1,25 @@
+UniprotID	Q96RL1-2
+Accession	Q96RL1;A8MSA1;B3KMZ1;B4E3N2;Q5XKQ1;Q7Z3W7;Q8N5B9;Q9BZR1;Q9BZR5;Q9UHX7
+EntryName	UIMC1_HUMAN
+ProteinName	BRCA1-A complex subunit RAP80 (Receptor-associated protein 80) (Retinoid X receptor-interacting protein 110) (Ubiquitin interaction motif-containing protein 1)
+GeneName	UIMC1 RAP80 RXRIP110
+Length	553
+Function	Ubiquitin-binding protein (PubMed:24627472). Specifically recognizes and binds 'Lys-63'-linked ubiquitin (PubMed:19328070, Ref.38). Plays a central role in the BRCA1-A complex by specifically binding 'Lys-63'-linked ubiquitinated histones H2A and H2AX at DNA lesions sites, leading to target the BRCA1-BARD1 heterodimer to sites of DNA damage at double-strand breaks (DSBs). The BRCA1-A complex also possesses deubiquitinase activity that specifically removes 'Lys-63'-linked ubiquitin on histones H2A and H2AX. Also weakly binds monoubiquitin but with much less affinity than 'Lys-63'-linked ubiquitin. May interact with monoubiquitinated histones H2A and H2B; the relevance of such results is however unclear in vivo. Does not bind Lys-48'-linked ubiquitin. May indirectly act as a transcriptional repressor by inhibiting the interaction of NR6A1 with the corepressor NCOR1.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	546...551;31...36
+validnes_region	
+nesbase_region	
+Sequence	MPRRKKKVKEVSESRNLEKKDVETTSSVSVKRKRRLEDAFIVISDSDGEEPKEENGLQKTKTKQSNRAKCLAKRKIAQMTEEEQFALALKMSEQEAREVNSQEEEEEELLRKAIAESLNSCRPSDASATRSRPLATGPSSQSHQEKTTDSGLTEGIWQLVPPSLFKGSHISQGNEAEEREEPWDHTEKTEEEPVSGSSGSWDQSSQPVFENVNVKSFDRCTGHSAEHTQCGKPQSSQGIVEETSEEGNSVPASQSVAALTSKRSLVLMPESSAEEITVCPETQLSSSETFDLEREVSPGSRDILDGVRIIMADKEVGNKEDAEKEVAISTFSSSNQVSCPLCDQCFPPTKIERHAMYCNGLMEEDTVLTRRQKEAKTKSDSGTAAQTSLDIDKNEKCYLCKSLVPFREYQCHVDSCLQLAKADQGDGPEGSGRACSTVEGKWQQRLKNPKEKGHSEGRLLSFLEQSEHKTSDADIKSSETGAFRVPSPGMEEAGCSREMQSSFTRRDLNESPVKSFVSISEATDCLVDFKKQVTVQPGSRTRTKAGRGRRRKF
+PTM	Acetylation:382,480,607;Methylation:19,90,112,239,245,317,358,559,587;Phosphorylation:12,14,24,25,26,27,29,44,46,101,120,124,127,129,131,136,139,140,142,163,168,171,195,197,198,200,204,205,224,250,253,254,330,343,350,380,383,395,396,397,401,402,409,410,415,419,421,426,427,448,463,466,545,549,597,602,603,627,632,653,662,668,670,677,681,684,686,705;SUMOylation:6,7,9,19,20,31,59,69,75,90,112,146,166,188,215,232,245,265,305,308,318,345,358,372,374,382,385,387,428,480,485,542,544,559,562,567,587,607,635,642,680,696,697;Ubiquitylation:9,20,31,59,69,75,90,112,146,166,188,215,232,245,265,305,308,345,372,374,382,387,428,480,485,544,559,562,567,587,607,635,642,696,697

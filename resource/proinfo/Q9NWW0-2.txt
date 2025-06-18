@@ -1,0 +1,25 @@
+UniprotID	Q9NWW0-2
+Accession	Q9NWW0;D3DUA7;Q68EN7
+EntryName	HPIP_HUMAN
+ProteinName	Host cell factor C1 regulator 1 (HCF-1 beta-propeller-interacting protein)
+GeneName	HCFC1R1 HPIP
+Length	119
+Function	Regulates HCFC1 activity by modulating its subcellular localization. Overexpression of HCFC1R1 leads to accumulation of HCFC1 in the cytoplasm. HCFC1R1-mediated export may provide the pool of cytoplasmic HCFC1 required for import of virion-derived VP16 into the nucleus.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	110..119
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	91...100;97...102
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILQQPLQRGPQGGAQRLPRAALGVTWGLDAREPLRKQFLSEENMATHFSQLSLHNDHPYCSPPMTFSPALPPLRSPCSELLLWRYPGSLIPEALRLLRLGDTPSPPYPATPAGDIMEL
+PTM	

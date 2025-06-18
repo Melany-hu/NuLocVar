@@ -1,0 +1,25 @@
+UniprotID	Q9GZZ9-2
+Accession	Q9GZZ9;A6NJL3;D3DNC8;Q96ST1
+EntryName	UBA5_HUMAN
+ProteinName	Ubiquitin-like modifier-activating enzyme 5 (Ubiquitin-activating enzyme 5) (ThiFP1) (UFM1-activating enzyme) (Ubiquitin-activating enzyme E1 domain-containing protein 1)
+GeneName	UBA5 UBE1DC1
+Length	348
+Function	E1-like enzyme which specifically catalyzes the first step in ufmylation (PubMed:15071506, PubMed:18442052, PubMed:20368332, PubMed:25219498, PubMed:26929408, PubMed:27545674, PubMed:27545681, PubMed:27653677, PubMed:30412706, PubMed:30626644, PubMed:34588452). Activates UFM1 by first adenylating its C-terminal glycine residue with ATP, and thereafter linking this residue to the side chain of a cysteine residue in E1, yielding a UFM1-E1 thioester and free AMP (PubMed:20368332, PubMed:26929408, PubMed:27653677, PubMed:30412706). Activates UFM1 via a trans-binding mechanism, in which UFM1 interacts with distinct sites in both subunits of the UBA5 homodimer (PubMed:27653677). Trans-binding also promotes stabilization of the UBA5 homodimer, and enhances ATP-binding (PubMed:29295865). Transfer of UFM1 from UBA5 to the E2-like enzyme UFC1 also takes place using a trans mechanism (PubMed:27653677, PubMed:34588452). Ufmylation plays a key role in various processes, such as ribosome recycling, response to DNA damage, interferon response or reticulophagy (also called ER-phagy) (PubMed:30412706, PubMed:32160526, PubMed:35394863). Ufmylation is essential for erythroid differentiation of both megakaryocytes and erythrocytes (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Endoplasmic reticulum membrane; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALKRMGIVSDYEKIRTFAVAIVGVGGVGSVTAEMLTRCGIGKLLLFDYDKVELANMNRLFFQPHQAGLSKVQAAEHTLRNINPDVLFEVHNYNITTVENFQHFMDRISNGGLEEGKPVDLVLSCVDNFEARMTINTACNELGQTWMESGVSENAVSGHIQLIIPGESACFACAPPLVVAANIDEKTLKREGVCAASLPTTMGVVAGILVQNVLKFLLNFGTVSFYLGYNAMQDFFPTMSMKPNPQCDDRNCRKQQEEYKKKVAALPKQEVIQEEEEIIHEDNEWGIELVSEVSEEELKNFSGPVPDLPEGITVAYTIPKKQEDSVTELTVEDSGESLEDLMAKMKNM
+PTM	Methylation:60,99,173,271,298,355,376,377;Phosphorylation:44,45,50,53,224,296,350,358,369,381,383,386,390,393;Ubiquitylation:127

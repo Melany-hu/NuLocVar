@@ -1,0 +1,25 @@
+UniprotID	Q9NQS3-3
+Accession	Q9NQS3;E9PFR0;Q6NVZ3;Q8NC05;Q8WVU4;Q9BVA9;Q9Y412
+EntryName	NECT3_HUMAN
+ProteinName	Nectin-3 (CDw113) (Nectin cell adhesion molecule 3) (Poliovirus receptor-related protein 3) (CD antigen CD113)
+GeneName	NECTIN3 PRR3 PVRL3
+Length	487
+Function	Cell adhesion molecule that promotes cell-cell adhesion through heterophilic trans-interactions with nectins-like or other nectins, such as trans-interaction with NECTIN2 at Sertoli-spermatid junctions (PubMed:16216929). Trans-interaction with PVR induces activation of CDC42 and RAC small G proteins through common signaling molecules such as SRC and RAP1 (PubMed:16216929). Induces endocytosis-mediated down-regulation of PVR from the cell surface, resulting in reduction of cell movement and proliferation (PubMed:16216929). Involved in axon guidance by promoting contacts between the commissural axons and the floor plate cells (By similarity). Also involved in the formation of cell-cell junctions, including adherens junctions and synapses (By similarity). Promotes formation of checkerboard-like cellular pattern of hair cells and supporting cells in the auditory epithelium via heterophilic interaction with NECTIN1: NECTIN1 is present in the membrane of hair cells and associates with NECTIN3 on supporting cells, thereby mediating heterotypic adhesion between these two cell types (By similarity). Plays a role in the morphology of the ciliary body (By similarity).
+Subcellular Location	Cell membrane; Postsynaptic cell membrane; Cell junction; Adherens junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	369...374
+validnes_region	
+nesbase_region	
+Sequence	MAEGWRWCFVRRTPGLLRGPLLPRSFSGNPRALAGPIIVEPHVTAVWGKNVSLKCLIEVNETITQISWEKIHGKSSQTVAVHHPQYGFSVQGEYQGRVLFKNYSLNDATITLHNIGFSDSGKYICKAVTFPLGNAQSSTTVTVLVEPTVSLIKGPDSLIDGGNETVAAICIAATGKPVAHIDWEGDLGEMESTTTSFPNETATIISQYKLFPTRFARGRRITCVVKHPALEKDIRYSFILDIQYAPEVSVTGYDGNWFVGRKGVNLKCNADANPPPFKSVWSRLDGQWPDGLLASDNTLHFVHPLTFNYSGVYICKVTNSLGQRSDQKVIYISDVPFKQTSSIAVAGAVIGAVLALFIIAIFVTVLLTPRKKRPSYLDKVIDLPPTHKPPPLYEERSPPLPQKDLFQPEHLPLQTQFKEREVGNLQHSNGLNSRSFDYEDENPVGEDGIQQMYPLYNQMCYQDRSPGKHHQNNDPKRVYIDPREHYV
+PTM	Glycosylation:125,222,373,374;Methylation:176,255,290,484;Phosphorylation:173,453,465,466,469,486,510,511,535;SUMOylation:471;Ubiquitylation:255,290,301,351,441,471,475,484,492,515

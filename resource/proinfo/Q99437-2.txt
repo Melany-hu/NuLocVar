@@ -1,0 +1,25 @@
+UniprotID	Q99437-2
+Accession	Q99437;D3DPY5;Q6IB32
+EntryName	VATO_HUMAN
+ProteinName	V-type proton ATPase 21 kDa proteolipid subunit c'' (V-ATPase 21 kDa proteolipid subunit c'') (Vacuolar proton pump 21 kDa proteolipid subunit c'') (hATPL)
+GeneName	ATP6V0B ATP6F
+Length	158
+Function	Proton-conducting pore forming subunit of the V0 complex of vacuolar(H+)-ATPase (V-ATPase), a multisubunit enzyme composed of a peripheral complex (V1) that hydrolyzes ATP and a membrane integral complex (V0) that translocates protons (PubMed:33065002). V-ATPase is responsible for acidifying and maintaining the pH of intracellular compartments and in some cell types, is targeted to the plasma membrane, where it is responsible for acidifying the extracellular environment (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Clathrin-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWSNLGIGLAISLSVVGAAWGIYITGSSIIGGGVKAPRIKTKNLVSIIFCEAVAIYGIIMAIVISNMAEPFSATDPKAIGHRNYHAGYSMFGAGLTVGLSNLFCGVCVGIVGSGAALADAQNPSLFVKILIVEIFGSAIGLFGVIVAILQTSRVKMGD
+PTM	Methylation:87,175

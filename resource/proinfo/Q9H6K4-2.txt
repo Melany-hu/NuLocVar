@@ -1,0 +1,25 @@
+UniprotID	Q9H6K4-2
+Accession	Q9H6K4;Q6P384;Q8N784
+EntryName	OPA3_HUMAN
+ProteinName	Optic atrophy 3 protein
+GeneName	OPA3
+Length	180
+Function	May play some role in mitochondrial processes.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVGAFPMAKLLYLGIRQVSKPLANRIKEAARRSEFFKTYICLPPAQLYHWLEMRTKMRIMGFNAAAIKPLNEGAAAELGAELLGEGIIFITACSCLMLEYWRHQLQQRRKEKERRVAREALRGEVGHLGLALEELQAQVQATSTQLALEELRAQLQEVRAHLCLRDPPPAPPVAPASEK
+PTM	Phosphorylation:20,169,171

@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z5H8
+Accession	A0A0S2Z5H8
+EntryName	A0A0S2Z5H8_HUMAN
+ProteinName	Methylcrotonoyl-CoA carboxylase 1 isoform 2
+GeneName	MCCC1
+Length	45
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAASAVSVLLVAAERNRWHRLPSLLLPPRWVEGQPWVSSSRRKP
+PTM	

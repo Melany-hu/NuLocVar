@@ -1,0 +1,25 @@
+UniprotID	C9JCX1
+Accession	C9JCX1
+EntryName	C9JCX1_HUMAN
+ProteinName	Muscleblind like splicing regulator 1
+GeneName	MBNL1
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMLAQQMQLANAMMPGAPLQPVPMFSVAPSLATNASAAAFNPYLGPVSPSLVPAEILPTAPMLVTGNPGVPVPAAAAAAAQKLMRTDRLEVCREYQRGNCNRGENDCRFAHPADSTMIDTNDNTVTVCMDYIKGRCSREKCKYFHPPAHLQAKI
+PTM	

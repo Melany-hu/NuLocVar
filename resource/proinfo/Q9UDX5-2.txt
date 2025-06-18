@@ -1,0 +1,25 @@
+UniprotID	Q9UDX5-2
+Accession	Q9UDX5;A6NFQ5;Q9H3K1;Q9P0N6
+EntryName	MTFP1_HUMAN
+ProteinName	Mitochondrial fission process protein 1 (Mitochondrial 18 kDa protein) (MTP18)
+GeneName	MTFP1 MTP18 HSPC242 My022
+Length	135
+Function	Involved in the mitochondrial division probably by regulating membrane fission. Loss-of-function induces the release of cytochrome c, which activates the caspase cascade and leads to apoptosis.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEPQPRGAERDLYRDTWVRYLGYANEVGEAFRSLVPAAVVWLSYGVASSYVLADAIDKGKKAGEVGGFPPGLQPAQALPNSGEAQLLLIILWYLACASASCFMSTSYSCQGMWTPGSLVSKDPGTWVGLSWTEA
+PTM	Phosphorylation:157

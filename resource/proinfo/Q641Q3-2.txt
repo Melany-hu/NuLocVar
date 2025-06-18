@@ -1,0 +1,25 @@
+UniprotID	Q641Q3-2
+Accession	Q641Q3;B3KSJ5;Q86VM0
+EntryName	METRL_HUMAN
+ProteinName	Meteorin-like protein (Subfatin)
+GeneName	METRNL
+Length	229
+Function	Hormone induced following exercise or cold exposure that promotes energy expenditure. Induced either in the skeletal muscle after exercise or in adipose tissue following cold exposure and is present in the circulation. Able to stimulate energy expenditure associated with the browning of the white fat depots and improves glucose tolerance. Does not promote an increase in a thermogenic gene program via direct action on adipocytes, but acts by stimulating several immune cell subtypes to enter the adipose tissue and activate their prothermogenic actions. Stimulates an eosinophil-dependent increase in IL4 expression and promotes alternative activation of adipose tissue macrophages, which are required for the increased expression of the thermogenic and anti-inflammatory gene programs in fat. Required for some cold-induced thermogenic responses, suggesting a role in metabolic adaptations to cold temperatures (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYPTGALIVNLRPNTFSPARHLTVCIRSFTDSSGANIYLEKTGELRLLVPDGDGRPGRVQCFGLEQGGLFVEATPQQDIGRRTTGFQYELVRRHRASDLHELSAPCRPCSDTEVLLAVCTSDFAVRGSIQQVTHEPERQDSAIHLRVSRLYRQKSRVFEPVPEGDGHWQGRVRTLLECGVRPGHGDFLFTGHMHFGEARLGCAPRFKDFQRMYRDAQERGLNPCEVGTD
+PTM	

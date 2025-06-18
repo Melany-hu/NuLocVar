@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3SHY8
+Accession	A0A8Q3SHY8
+EntryName	A0A8Q3SHY8_HUMAN
+ProteinName	Mitochondrial ribosomal protein S5
+GeneName	MRPS5
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQQYRPYSFFTKLTADELWKGALAETGAGAKKGRGKRTKKKKRKDLNRGQIIGEGRYGFLWPGLNVPLMKNGAVQTIAQRSKEEQEKVEADMIQQREEWDRKKKMKKHMRILIPGYLR
+PTM	

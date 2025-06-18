@@ -1,0 +1,25 @@
+UniprotID	C9JZH6
+Accession	C9JZH6
+EntryName	C9JZH6_HUMAN
+ProteinName	Cleavage and polyadenylation specific factor 3
+GeneName	CPSF3
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLDCGIHPGLEGMDALPYIDLIDPAEIDLLLISHFHLDHCGALPWFLQKTSFKGRTFMTHATKAIYRWLLSDYVKVSNISADDMLYTETDLEESMDKIETINFHEVKEVAGIKFWCYHAGHVLGAAMFMIEIAGVK
+PTM	

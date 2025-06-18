@@ -1,0 +1,25 @@
+UniprotID	Q7Z7H5-2
+Accession	Q7Z7H5;A4D2K8;B4DFJ4;Q56VW3;Q7Z432;Q8N2P6
+EntryName	TMED4_HUMAN
+ProteinName	Transmembrane emp24 domain-containing protein 4 (Endoplasmic reticulum stress-response protein 25) (ERS25) (GMP25iso) (Putative NF-kappa-B-activating protein 156) (p24 family protein alpha-3) (p24alpha3)
+GeneName	TMED4 ERS25
+Length	211
+Function	Involved in vesicular protein trafficking, mainly in the early secretory pathway. targeting. Involved in the maintenance of the Golgi apparatus. Appears to play a role in the biosynthesis of secreted cargo including processing. Involved in endoplasmic reticulum stress response. May play a role in the regulation of heat-shock response and apoptosis (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVGAGPLRAMGRQALLLLALCATGAQGLYFHIGETEKRCFIEEIPDETMVIGNYRTLGMHVEVKDPDGKVVLSRQYGSEGRFTFTSHTPGDHQICLHSNSTRMALFAGGKLRVHLDIQVGEHANNYPEIAAKDKLTELQLRARQLLDQVEQIQKEQDYQRYREERFRLTSESTNQRVLWWSIAQTVILILTGIWQMRHLKSFFEAKKLV
+PTM	Acetylation:63,128,152,172,218,224;Glycosylation:117;Methylation:82,172;SUMOylation:82,152;Ubiquitylation:63,87,128,152,172

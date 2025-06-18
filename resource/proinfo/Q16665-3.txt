@@ -1,0 +1,25 @@
+UniprotID	Q16665-3
+Accession	Q16665;C0LZJ3;Q53XP6;Q96PT9;Q9UPB1
+EntryName	HIF1A_HUMAN
+ProteinName	Hypoxia-inducible factor 1-alpha (HIF-1-alpha) (HIF1-alpha) (ARNT-interacting protein) (Basic-helix-loop-helix-PAS protein MOP1) (Class E basic helix-loop-helix protein 78) (bHLHe78) (Member of PAS protein 1) (PAS domain-containing protein 8)
+GeneName	HIF1A BHLHE78 MOP1 PASD8
+Length	850
+Function	Functions as a master transcriptional regulator of the adaptive response to hypoxia (PubMed:11292861, PubMed:11566883, PubMed:15465032, PubMed:16973622, PubMed:17610843, PubMed:18658046, PubMed:20624928, PubMed:22009797, PubMed:30125331, PubMed:9887100). Under hypoxic conditions, activates the transcription of over 40 genes, including erythropoietin, glucose transporters, glycolytic enzymes, vascular endothelial growth factor, HILPDA, and other genes whose protein products increase oxygen delivery or facilitate metabolic adaptation to hypoxia (PubMed:11292861, PubMed:11566883, PubMed:15465032, PubMed:16973622, PubMed:17610843, PubMed:20624928, PubMed:22009797, PubMed:30125331, PubMed:9887100). Plays an essential role in embryonic vascularization, tumor angiogenesis and pathophysiology of ischemic disease (PubMed:22009797). Heterodimerizes with ARNT; heterodimer binds to core DNA sequence 5'-TACGTG-3' within the hypoxia response element (HRE) of target gene promoters (By similarity). Activation requires recruitment of transcriptional coactivators such as CREBBP and EP300 (PubMed:16543236, PubMed:9887100). Activity is enhanced by interaction with NCOA1 and/or NCOA2 (PubMed:10594042). Interaction with redox regulatory protein APEX1 seems to activate CTAD and potentiates activation by NCOA1 and CREBBP (PubMed:10202154, PubMed:10594042). Involved in the axonal distribution and transport of mitochondria in neurons during hypoxia (PubMed:19528298).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	718..721
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	798...803;640...682
+nlsdbnls_region	42...47;742...748
+validnes_region	640...682
+nesbase_region	
+Sequence	MSSQCRSLENKFVFLKEGLGNSKPEELEEIRIENGRISSERRKEKSRDAARSRRSKESEVFYELAHQLPLPHNVSSHLDKASVMRLTISYLRVRKLLDAGDLDIEDDMKAQMNCFYLKALDGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGLVKKGKEQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHCTGHIHVYDTNSNQPQCGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRGGYVWVETQATVIYNTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTECVLKPVESSDMKMTQLFTKVESEDTSSLFDKLKKEPDALTLLAPAAGDTIISLDFGSNDTETDDQQLEEVPLYNDVMLPSPNEKLQNINLAMSPLPTAETPKPLRSSADPALNQEVALKLEPNPESLELSFTMPQIQDQTPSPSDGSTRQSSPEPNSPSEYCFYVDSDMVNEFKLELVEKLFAEDTEAKNPFSTQDTDLDLEMLAPYIPMDDDFQLRSFDQLSPLESSSASPESASPQSTVTVFQQTQIQEPTANATTTTATTDELKTVTKDRMEDIKILIASPSPTHIHKETTSATSSPYRDTQSRTASPNRAGKGVIEQTEKSHPRSPNVLSVALSQRTTVPEEELNPKILALQNAQRKRKMEHDGSLFQAVGIGTLLQQPDDHAATTSLSWKRVKGCKSSEQNGMEQKTIILIPSDLACRLLGQSMDESGLPQLTSYDCEVNAPIQGSRNLLQGEELLRALDQVN
+PTM	Acetylation:709;Methylation:362,538,625,709;Phosphorylation:28,63,66,136,149,176,177,247,451,455,458,641,643,645,653,656,657,666,668,687;SUMOylation:10,32,71,85,157,159,172,185,214,240,251,289,297,377,460,636,674,721;Ubiquitylation:32,56,71,85,156,172,185,190,214,240,251,289,297,377,389,391,460,477,532,538,629,636,649,674,682,709,721,769

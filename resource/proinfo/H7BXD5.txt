@@ -1,0 +1,25 @@
+UniprotID	H7BXD5
+Accession	H7BXD5
+EntryName	H7BXD5_HUMAN
+ProteinName	Grancalcin
+GeneName	GCA
+Length	198
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQMGQPVPETGPAILLDGYSGPAYSDTYSSAGDSVYTYFSAVAGQDGEVDAEELQRCLTQSGINGTYSPFSLETCRIMIAMLDRDHTGKMGFNAFKELWAALNAWKENFMTVDQDGSGTVEHHELRQAIGLMGYRLSPQTLTTIVKRYSKNGRIFFDDYVACCVKLRALTDFFRKRDHLQQGSANFIYDDFLQGTMAI
+PTM	

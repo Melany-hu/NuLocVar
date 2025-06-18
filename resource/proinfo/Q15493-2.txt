@@ -1,0 +1,25 @@
+UniprotID	Q15493-2
+Accession	Q15493;A4FTW1;A8K271;Q53FC9;Q5JRR5
+EntryName	RGN_HUMAN
+ProteinName	Regucalcin (RC) (Gluconolactonase) (GNL) (EC 3.1.1.17) (Senescence marker protein 30) (SMP-30)
+GeneName	RGN SMP30
+Length	227
+Function	Gluconolactonase with low activity towards other sugar lactones, including gulonolactone and galactonolactone. Can also hydrolyze diisopropyl phosphorofluoridate and phenylacetate (in vitro). Calcium-binding protein. Modulates Ca(2+) signaling, and Ca(2+)-dependent cellular processes and enzyme activities (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSIKIECVLPENCRCGESPVWEEVSNSLLFVDIPAKKVCRWDSFTKQVQRVTMDAPVSSVALRQSGGYVATIGTKFCALNWKEQSAVVLATVDNDKKNNRFNDGKVDPAGRYFAANRRSVYKLEKEEQIPDGMCIDAEGKLWVACYNGGRVIRLDPVTGKRLQTVKLPVDKTTSCCFGGKNYSEMYVTCARDGMDPEGLLRQPEAGGIFKITGLGVKGIAPYSYAG
+PTM	Phosphorylation:44,46,60

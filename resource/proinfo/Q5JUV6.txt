@@ -1,0 +1,25 @@
+UniprotID	Q5JUV6
+Accession	Q5JUV6
+EntryName	Q5JUV6_HUMAN
+ProteinName	5'-nucleotidase, cytosolic II
+GeneName	NT5C2
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VLRQVDTKTGKLKIGTYTGPLQHGIVYSGGSSDTICDLLGAKGKDILYIGDHIFGDILKSKKRQGWRTFLVIPELAQELHVWTDKSSLFEELQSLDIFLAELYKHLDSSSNERPDISSIQRRIKMPHESTVEHTHVDINEMESPLA
+PTM	

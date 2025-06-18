@@ -1,0 +1,25 @@
+UniprotID	Q6UXG3-4
+Accession	Q6UXG3;B4DNY5;F5H7P9;F8W9M3;Q8IX38;Q8IX39;Q8TA95
+EntryName	CLM9_HUMAN
+ProteinName	CMRF35-like molecule 9 (CLM-9) (CD300 antigen-like family member G) (Triggering receptor expressed on myeloid cells 4) (TREM-4) (CD antigen CD300g)
+GeneName	CD300LG CLM9 TREM4 UNQ422/PRO846
+Length	307
+Function	Receptor which may mediate L-selectin-dependent lymphocyte rollings. Binds SELL in a calcium dependent manner. Binds lymphocyte (By similarity).
+Subcellular Location	Apical cell membrane; Basolateral cell membrane; Endosome; Multivesicular body membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLVLLWGCLLLPGYEALEGPEEISGFEGDTVSLQCTYREELRDHRKYWCRKGGILFSRCSGTIYAEEEGQETMKGRVSIRDSRQELSLIVTLWNLTLQDAGEYWCGVEKRGPDESLLISLFVFPGPCCPPSPSPTFQPLATTRLQPKAKAQQTQPPGLTSPGLYPAATTAKQGKTGAEAPPLPGTSQYGHERTSQYTGTSPHPATSPPAGSSRPPMQLDSTSAEDTSPALSSGSSKPRVSIPMVRILAPVLVLLSLLSAAGLIAFCSHLLLWRKEAQQATETQRNEKFCLSRLNSLMFSLSLPWL
+PTM	Phosphorylation:234

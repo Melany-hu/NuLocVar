@@ -1,0 +1,25 @@
+UniprotID	Q8N1S5-2
+Accession	Q8N1S5;B2R8H7;Q8WZ81
+EntryName	S39AB_HUMAN
+ProteinName	Zinc transporter ZIP11 (Solute carrier family 39 member 11) (Zrt- and Irt-like protein 11) (ZIP-11)
+GeneName	SLC39A11 C17orf26 ZIP11
+Length	335
+Function	Zinc importer that regulates cytosolic zinc concentrations either via zinc influx from the extracellular compartment or efflux from intracellular organelles such as Golgi apparatus. May transport copper ions as well. The transport mechanism remains to be elucidated.
+Subcellular Location	Cell membrane; Nucleus; Cytoplasm; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQGHSSVFQALLGTFFTWGMTAAGAALVFVFSSGQRRILDGSLGFAAGVMLAASYWSLLAPAVEMATSSGGFGAFAFFPVAVGFTLGAAFVYLADLLMPHLGAAEDPQTTLALNFGSTLMKKKSDPEGPALLFPESELSIRIDKSENGEAYQRKKAAATGLPEGPAVPVPSRGNLAQPGGSSWRRIALLILAITIHNVPEGLAVGVGFGAIEKTASATFESARNLAIGIGIQNFPEGLAVSLPLRGAGFSTWRAFWYGQLSGMVEPLAGVFGAFAVVLAEPILPYALAFAAGAMVYVVMDDIIPEAQISGNGKLASWASILGFVVMMSLDVGLG
+PTM	Methylation:221;Phosphorylation:125,140,153,179,224,229,249;Ubiquitylation:163

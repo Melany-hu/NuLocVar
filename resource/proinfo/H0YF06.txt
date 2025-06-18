@@ -1,0 +1,25 @@
+UniprotID	H0YF06
+Accession	H0YF06
+EntryName	H0YF06_HUMAN
+ProteinName	Coiled-coil domain containing 90B
+GeneName	CCDC90B
+Length	133
+Function	
+Subcellular Location	Membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GFDKTQAETIVSALTALSNVSLDTIYKEMVTQAQQEITVQQLMAHLDAIRKDMVILEKSEFANLRAENEKMKIELDQVKQQLMHETSRIRADNKLDINLERSRVTDMFTDQEKQLMETTTEFTKKLRCLLAWQ
+PTM	

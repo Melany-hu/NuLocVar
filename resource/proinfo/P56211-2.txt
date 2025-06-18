@@ -1,0 +1,25 @@
+UniprotID	P56211-2
+Accession	P56211;B2R497;Q6IAM2;Q86TA6;Q9UD70
+EntryName	ARP19_HUMAN
+ProteinName	cAMP-regulated phosphoprotein 19 (ARPP-19)
+GeneName	ARPP19
+Length	96
+Function	Protein phosphatase inhibitor that specifically inhibits protein phosphatase 2A (PP2A) during mitosis (PubMed:38123684). Inhibition of PP2A is enhanced when ARPP19 is phosphorylated (PubMed:38123684). When phosphorylated at Ser-62 during mitosis, specifically interacts with PPP2R2D (PR55-delta) and inhibits its activity, leading to inactivation of PP2A, an essential condition to keep cyclin-B1-CDK1 activity high during M phase (PubMed:21164014). May indirectly enhance GAP-43 expression (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDKVTSPEKAEEAKLKARYPHLGQKPGGSDFLRKRLQKGQKYFDSGDYNMAKAKMKNKQLPTAAPDKTEVTGDHIPTPQDLPQRKPSLVASKLAG
+PTM	Acetylation:20,31,42,55,58,69,84,109;Phosphorylation:2,10,22,23,36,59,62,65,94,104,108;Ubiquitylation:42,69,75

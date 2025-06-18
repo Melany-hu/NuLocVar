@@ -1,0 +1,25 @@
+UniprotID	A0A087WT18
+Accession	A0A087WT18
+EntryName	A0A087WT18_HUMAN
+ProteinName	Putative monooxygenase p33MONOX
+GeneName	KIAA1191
+Length	224
+Function	Potential NADPH-dependent oxidoreductase. May be involved in the regulation of neuronal survival, differentiation and axonal outgrowth.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLSSAIDSVDKVPVVKAKATHVIMNSLITKQTQESIQHFERQAGLRDAGYTPHKGLTTEETKYLRVAEALHKLKLQSGEVTKEERQPASAQSTPSTTPHSSPKQRPRGWFTSGSSTALPGPNPSTMDSGSGDKDRNLSDKWSLFGPRSLQKYDSGSFATQAYRGAQKPSPLELIRAQANRMAEDPAALKPPKMDIPVMEGKKQPPRAHNLKPRDLNVLTPTGF
+PTM	

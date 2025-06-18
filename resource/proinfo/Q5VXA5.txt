@@ -1,0 +1,25 @@
+UniprotID	Q5VXA5
+Accession	Q5VXA5
+EntryName	Q5VXA5_HUMAN
+ProteinName	Fc receptor like A
+GeneName	FCRLA
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ALYLSLGVLWVAQMLLAASFETLQCEGPVCTEESSCHTEDDLTDAREAGFQVKAYTFSEPFHLIVSYGASSSAAPPTLNPAPQKSAAPGTAPEEAPGPLPPPPTPSSEDPGFSSPLGMPDPHLYHQMGLLLKHMQDVRVLLGHLLMELRELSGHRKPGTTKATAE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7C5E9
+Accession	H7C5E9
+EntryName	H7C5E9_HUMAN
+ProteinName	DNA repair protein SWI5 homolog (Protein SAE3 homolog)
+GeneName	SWI5
+Length	139
+Function	Component of the swi5-sfr1 complex, a complex required for double-strand break repair via homologous recombination.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEGTAGPGPRSLETRDQRTPGGPVWGGRRTEPRLTRSCRGAFRSPRPLPKSGQADGTSEESLHLDIQKLKEKRDMLDKEISQFVSEGYSVDELEDHITQLHEYNDIKDVGQMLMGKLAVIRGVTTKELYPEFGLDMND
+PTM	

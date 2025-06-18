@@ -1,0 +1,25 @@
+UniprotID	Q9NVH6-2
+Accession	Q9NVH6;A8K6M9;B4E3R3;Q5TZB5;Q6IA90;Q8TBT0
+EntryName	TMLH_HUMAN
+ProteinName	Trimethyllysine dioxygenase, mitochondrial (EC 1.14.11.8) (Epsilon-trimethyllysine 2-oxoglutarate dioxygenase) (Epsilon-trimethyllysine hydroxylase) (TML hydroxylase) (TML-alpha-ketoglutarate dioxygenase) (TML dioxygenase) (TMLD)
+GeneName	TMLHE TMLH
+Length	376
+Function	Converts trimethyllysine (TML) into hydroxytrimethyllysine (HTML) (PubMed:11431483, PubMed:23092983).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWYHRLSHLHSRLQDLLKGGVIYPALPQPNFKSLLPLAVHWHHTASKSLTCAWQQHEDHFELKYANTVMRFDYVWLRDHCRSASCYNSKTHQRSLDTASVDLCIKPKTIRLDETTLFFTWPDGHVTKYDLNWLVKNSYEGQKQKVIQPRILWNAEIYQQAQVPSVDCQSFLETNEGLKKFLQNFLLYGIAFVENVPPTQEHTEKLAERISLIRETIYGRMWYFTSDFSRGDTAYTKLALDRHTDTTYFQEPCGIQVFHCLKHEGTGGRTLLVDGFYAAEQVLQKAPEEFELLSKVPLKHEYIEDVGECHNHMIGIGPVLNIYPWNKELYLIRLFKEKQNTVNRQWNSSLQCDIPERILTYRHFVSGTSIEHRGSLI
+PTM	Acetylation:135,142,236;Methylation:18,294,298;SUMOylation:298;Ubiquitylation:18,294,373

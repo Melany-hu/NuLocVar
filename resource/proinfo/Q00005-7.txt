@@ -1,0 +1,25 @@
+UniprotID	Q00005-7
+Accession	Q00005;A6NEJ2;A8K102;B3KPD0;B7Z2F2;B7Z304;D3DQF7;D3DQF8;G3V149
+EntryName	2ABB_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform (PP2A subunit B isoform B55-beta) (PP2A subunit B isoform PR55-beta) (PP2A subunit B isoform R2-beta) (PP2A subunit B isoform beta)
+GeneName	PPP2R2B
+Length	549
+Function	The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment. Within the PP2A holoenzyme complex, isoform 2 is required to promote proapoptotic activity (By similarity). Isoform 2 regulates neuronal survival through the mitochondrial fission and fusion balance (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Membrane; Cytoplasm; Mitochondrion; Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	502...507
+validnes_region	
+nesbase_region	
+Sequence	MHQPPPASCSSSSSSSSSSCECARVGVRVSALAPAAAPCPAPRQLPYPRLPEPPSRGTSTLIPARLGPWCSPTGSPAPLSCETGCGEGSWILVCRLLVPTQVSLLSMEEDIDTRKINNSFLRDHSYATEADIISTVEFNHTGELLATGDKGGRVVIFQREQESKNQVHRRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQQNAAYFLLSTNDKTVKLWKVSERDKRPEGYNLKDEEGRLRDPATITTLRVPVLRPMDLMVEATPRRVFANAHTYHINSISVNSDYETYMSADDLRINLWNFEITNQSFNIVDIKPANMEELTEVITAAEFHPHHCNTFVYSSSKGTIRLCDMRASALCDRHTKFFEEPEDPSNRSFFSEIISSISDVKFSHSGRYIMTRDYLTVKVWDLNMENRPIETYQVHDYLRSKLCSLYENDCIFDKFECVWNGSDSVIMTGSYNNFFRMFDRNTKRDVTLEASRENSKPRAILKPRKVCVGGKRRKDEISVDSLDFSKKILHTAWHPSENIIAVAATNNLYIFQDKVN
+PTM	Acetylation:84;Methylation:84,91,214,288,389,413;Phosphorylation:57,226,382;Ubiquitylation:84,91,288

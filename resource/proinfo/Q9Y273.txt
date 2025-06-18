@@ -1,0 +1,25 @@
+UniprotID	Q9Y273
+Accession	Q9Y273
+EntryName	Q9Y273_HUMAN
+ProteinName	92M18.2.1 (Novel protein) (Hypothetical gene CG018, isoform CRA_e) (NEDD4 binding protein 2 like 1)
+GeneName	N4BP2L1 92M18.2 CG018 hCG_33132
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRNGISPIIIDNTNLHAWEMKPYAVMALENNYEVIFREPDTRWKFNVQELARRNIHGVSREKIHRMKERYEHDVTFHSVLHAEKPSRMNRNQDRNNALPSNNARYWNSYTEFPNRRAHGGFTNESSYHRRGGCHHGY
+PTM	

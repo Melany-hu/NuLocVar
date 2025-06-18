@@ -1,0 +1,25 @@
+UniprotID	Q9UBK5-2
+Accession	Q9UBK5;Q9UBS1;Q9Y3Y0
+EntryName	HCST_HUMAN
+ProteinName	Hematopoietic cell signal transducer (DNAX-activation protein 10) (Membrane protein DAP10) (Transmembrane adapter protein KAP10)
+GeneName	HCST DAP10 KAP10 PIK3AP UNQ587/PRO1157
+Length	92
+Function	Transmembrane adapter protein which associates with KLRK1 to form an activation receptor KLRK1-HCST in lymphoid and myeloid cells; this receptor plays a major role in triggering cytotoxicity against target cells expressing cell surface ligands such as MHC class I chain-related MICA and MICB, and UL16-binding proteins (ULBPs); these ligands are up-regulated by stress conditions and pathological state such as viral infection and tumor transformation. Functions as a docking site for PI3-kinase PIK3R1 and GRB2. Interaction of ULBPs with KLRK1-HCST triggers calcium mobilization and activation of the PIK3R1, MAP2K/ERK, and JAK2/STAT5 signaling pathways. Both PIK3R1 and GRB2 are required for full KLRK1-HCST-mediated activation and ultimate killing of target cells. In NK cells, KLRK1-HCST signaling directly induces cytotoxicity and enhances cytokine production initiated via DAP12/TYROBP-associated receptors. In T-cells, it provides primarily costimulation for TCR-induced signals. KLRK1-HCST receptor plays a role in immune surveillance against tumors and is required for cytolysis of tumors cells; indeed, melanoma cells that do not express KLRK1 ligands escape from immune surveillance mediated by NK cells.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIHLGHILFLLLLPVAAAQTTPGERSSLPAFYPGTSGSCSGCGSLSLPLLAGLVAADAVASLLIVGAVFLCARPRRSPAQDGKVYINMPGRG
+PTM	

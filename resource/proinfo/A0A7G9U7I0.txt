@@ -1,0 +1,25 @@
+UniprotID	A0A7G9U7I0
+Accession	A0A7G9U7I0
+EntryName	A0A7G9U7I0_HUMAN
+ProteinName	RhD
+GeneName	RHD
+Length	45
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCCNRVLGIPHSSIMGYNFSLLGLLGEIITTLCCWCLIPSEPAMA
+PTM	

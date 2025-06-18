@@ -1,0 +1,25 @@
+UniprotID	K7ENJ9
+Accession	K7ENJ9
+EntryName	K7ENJ9_HUMAN
+ProteinName	Rabaptin, RAB GTPase binding effector protein 1
+GeneName	RABEP1
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFLKEQIQAEQCLKENLEETLQLEIENCKEEIASISSLKAELERIKVEKGQLESTLREKSQQLESLQEIKISLEEQLKKETAAKATVEQLMFEEKNKAQRLQTELDVSEQVQRDFVKLSQTLQVRHLGNHIQSTKAVLGDRTLPIPDLTTGSS
+PTM	

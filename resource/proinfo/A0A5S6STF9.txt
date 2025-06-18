@@ -1,0 +1,25 @@
+UniprotID	A0A5S6STF9
+Accession	A0A5S6STF9
+EntryName	A0A5S6STF9_HUMAN
+ProteinName	Ngg1 interacting factor 3 like 1 binding protein 1, isoform CRA_b (THO complex subunit 7)
+GeneName	THOC7 NIF3L1BP1 hCG_23514
+Length	152
+Function	Component of the THO subcomplex of the TREX complex which is thought to couple mRNA transcription, processing and nuclear export, and which specifically associates with spliced mRNA and not with unspliced pre-mRNA. Required for efficient export of polyadenylated RNA. Plays a key structural role in the oligomerization of the THO-DDX39B complex. TREX is recruited to spliced mRNAs by a transcription-independent mechanism, binds to mRNA upstream of the exon-junction complex (EJC) and is recruited in a splicing- and cap-dependent manner to a region near the 5' end of the mRNA where it functions in mRNA export to the cytoplasm via the TAP/NXF1 pathway.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSTLSQCEFSMGKTLLVYDMNLREMENYEKIYKEIECSIAGAHEKIAECKKQILQAKRIRKNRQEYDALAKVIQHHPDRHETLKELEALGKELEHLSHIKESVEDKLELRRKQFHVLLSTIHELQQTLENDEKLSEVEEAQEASMETDPKP
+PTM	

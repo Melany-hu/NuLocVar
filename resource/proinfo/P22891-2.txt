@@ -1,0 +1,25 @@
+UniprotID	P22891-2
+Accession	P22891;A6NMB4;Q15213;Q5JVF5;Q5JVF6
+EntryName	PROZ_HUMAN
+ProteinName	Vitamin K-dependent protein Z
+GeneName	PROZ
+Length	422
+Function	Appears to assist hemostasis by binding thrombin and promoting its association with phospholipid vesicles. Inhibits activity of the coagulation protease factor Xa in the presence of SERPINA10, calcium and phospholipids.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGCVPLLQGLVLVLALHRVEPSATSLKERHGLHSDSACTGVQESLFLPASKANDVLVRWKRAGSYLLEELFEGNLEKECYEEICVYEEAREVFENEVVTDEFWRRYKGGSPCISQPCLHNGSCQDSIWGYTCTCSPGYEGSNCELAKNECHPERTDGCQHFCLPGQESYTCSCAQGYRLGEDHKQCVPHDQCACGVLTSEKRAPDLQDLPWQVKLTNSEGKDFCGGVIIRENFVLTTAKCSLLHRNITVKTYFNRTSQDPLMIKITHVHVHMRYDADAGENDLSLLELEWPIQCPGAGLPVCTPEKDFAEHLLIPRTRGLLSGWARNGTDLGNSLTTRPVTLVEGEECGQVLNVTVTTRTYCERSSVAAMHWMDGSVVTREHRGSWFLTGVLGSQPVGGQAHMVLVTKVSRYSLWFKQIMN
+PTM	Methylation:56,126,243;Phosphorylation:220

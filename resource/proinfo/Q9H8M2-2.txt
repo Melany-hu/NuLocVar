@@ -1,0 +1,25 @@
+UniprotID	Q9H8M2-2
+Accession	Q9H8M2;A6NFY8;B4DMQ2;B4DR93;Q2XUS1;Q6UWU9;Q8IUS4;Q9H5Q5;Q9H7R9
+EntryName	BRD9_HUMAN
+ProteinName	Bromodomain-containing protein 9 (Rhabdomyosarcoma antigen MU-RMS-40.8)
+GeneName	BRD9 UNQ3040/PRO9856
+Length	206
+Function	Plays a role in chromatin remodeling and regulation of transcription (PubMed:22464331, PubMed:26365797). Acts as a chromatin reader that recognizes and binds acylated histones: binds histones that are acetylated and/or butyrylated (PubMed:26365797). Component of SWI/SNF chromatin remodeling subcomplex GBAF that carries out key enzymatic activities, changing chromatin structure by altering DNA-histone contacts within a nucleosome in an ATP-dependent manner (PubMed:29374058). Also orchestrates the RAD51-RAD54 complex formation and thereby plays a role in homologous recombination (HR) (PubMed:32457312).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQNNSVFGDLKSDEMELLYSAYGDETGVQCALSLQEFVKDAGSYSKKVVDDLLDQITGGDHSRTLFQLKQRRNVPMKPPDEAKVGDTLGDSSSSVLEFMSMKSYPDVSVDISMLSSLGKVKKELDPDDSHLNLDETTKLLQDLHEAQAERGGSRPSSNLSSLSNASERDQHHLGSPSRLSVGEQPDVTHDPYEFLQSPEPAASAKT
+PTM	Acetylation:26,78,235,322,373,468,510,529;Methylation:33,327,493,510;Phosphorylation:15,37,40,43,45,49,50,51,52,56,103,358,482,491,520,527,544,547,548,551,552,554,557,566,568,571,583,588,594,597;SUMOylation:22,26,78,115,178,187,196,202,235,267,322,362,373,438,460,468,474,512,513,529;Ubiquitylation:373,438,460

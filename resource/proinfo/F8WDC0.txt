@@ -1,0 +1,25 @@
+UniprotID	F8WDC0
+Accession	F8WDC0
+EntryName	F8WDC0_HUMAN
+ProteinName	Gamma-aminobutyric acid type B receptor subunit 1
+GeneName	GABBR1
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLLAPLFLRPPGAGGAQTPNATSEGCQIIHPPWEGGIRYRGLTRDQVKAINFLPVDYEIEYVCRGEREVVGPKVRKCLANGSWTDMDTPSRCVRICSKSYLTLENGKVFLTGGDLPALDGARVDFRCDPDFHLVGSSRSICSQGQWSTPKPHCQGTLPSETQASALPGLQHGQVWEGAGDQAREAGRQW
+PTM	

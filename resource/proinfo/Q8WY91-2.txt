@@ -1,0 +1,25 @@
+UniprotID	Q8WY91-2
+Accession	Q8WY91;Q53NU7;Q6GRN0;Q6IPJ3;Q9NW26;Q9Y325
+EntryName	THAP4_HUMAN
+ProteinName	Peroxynitrite isomerase THAP4 (EC 5.99.-.-) (Ferric Homo sapiens nitrobindin) (Hs-Nb(III)) (THAP domain-containing protein 4)
+GeneName	THAP4 CGI-36 PP238
+Length	165
+Function	Heme-binding protein able to scavenge peroxynitrite and to protect free L-tyrosine against peroxynitrite-mediated nitration, by acting as a peroxynitrite isomerase that converts peroxynitrite to nitrate. Therefore, this protein likely plays a role in peroxynitrite sensing and in the detoxification of reactive nitrogen and oxygen species (RNS and ROS, respectively). Is able to bind nitric oxide (NO) in vitro, but may act as a sensor of peroxynitrite levels in vivo, possibly modulating the transcriptional activity residing in the N-terminal region.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPPKMNPVVEPLSWMLGTWLSDPPGAGTYPTLQPFQYLEEVHISHVGQPMLNFSFNSFHPDTRKPMHRECGFIRLKPDTNKVAFVSAQNTGVVEVEEGEVNGQELCIASHSIARISFAKEPHVEQITRKFRLNSEGKLEQTVSMATTTQPMTQHLHVTYKKVTP
+PTM	Methylation:90,368,393;Phosphorylation:64,128,163,174,237,239,241,250,283,297,299,324,344,351,352,401,410,547;SUMOylation:77,107,138,145,189,243,310,489,550;Ubiquitylation:356,532

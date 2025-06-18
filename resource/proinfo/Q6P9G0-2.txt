@@ -1,0 +1,25 @@
+UniprotID	Q6P9G0-2
+Accession	Q6P9G0;D3DTQ8;Q96DM7
+EntryName	CB5D1_HUMAN
+ProteinName	Cytochrome b5 domain-containing protein 1
+GeneName	CYB5D1
+Length	157
+Function	Radial spoke stalk protein that binds heme under oxidizing conditions. Required for the coordinated beating of multiple cilia maybe by functioning in a redox signaling pathway.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRRGLVAGPDLEYFQRRYFTPAEVAQHNRPEDLWVSYLGRVYDLTSLAQEYKGNLLLKPIVEVAGQDISHWFDPKTRDIRKHIDPLTGCLRYCTPRGRFVHVPPQLPCSDWANDFGKPWWQGSYYEVGRLSAKTRSIRIINTLTSQEHTLELHVEI
+PTM	Methylation:17,59;Ubiquitylation:76

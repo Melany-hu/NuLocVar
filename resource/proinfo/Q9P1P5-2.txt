@@ -1,0 +1,25 @@
+UniprotID	Q9P1P5-2
+Accession	Q9P1P5;Q5QD02;Q6NWS1;Q6NWS2;Q6NWS3
+EntryName	TAAR2_HUMAN
+ProteinName	Trace amine-associated receptor 2 (TaR-2) (Trace amine receptor 2) (G-protein coupled receptor 58)
+GeneName	TAAR2 GPR58
+Length	306
+Function	Orphan olfactory receptor specific for trace amines. Trace amine compounds are enriched in animal body fluids and act on trace amine-associated receptors (TAARs) to elicit both intraspecific and interspecific innate behaviors. Ligand-binding causes a conformation change that triggers signaling via the G(s)-class of G-proteins which activate adenylate cyclase.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSFMAGSIFITIFGNLAMIISISYFKQLHTPTNFLILSMAITDFLLGFTIMPYSMIRSVENCWYFGLTFCKIYYSFDLMLSITSIFHLCSVAIDRFYAICYPLLYSTKITIPVIKRLLLLCWSVPGAFAFGVVFSEAYADGIEGYDILVACSSSCPVMFNKLWGTTLFMAGFFTPGSMMVGIYGKIFAVSRKHAHAINNLRENQNNQVKKDKKAAKTLGIVIGVFLLCWFPCFFTILLDPFLNFSTPVVLFDALTWFGYFNSTCNPLIYGFFYPWFRRALKYILLGKIFSSCFHNTILCMQKESE
+PTM	Methylation:333

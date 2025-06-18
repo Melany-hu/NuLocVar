@@ -1,0 +1,25 @@
+UniprotID	Q14781-2
+Accession	Q14781;Q0VDA5;Q9BTB1
+EntryName	CBX2_HUMAN
+ProteinName	Chromobox protein homolog 2
+GeneName	CBX2
+Length	211
+Function	Component of a Polycomb group (PcG) multiprotein PRC1-like complex, a complex class required to maintain the transcriptionally repressive state of many genes, including Hox genes, throughout development (PubMed:21282530). PcG PRC1 complex acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-119', rendering chromatin heritably changed in its expressibility (PubMed:21282530). Binds to histone H3 trimethylated at 'Lys-9' (H3K9me3) or at 'Lys-27' (H3K27me3) (By similarity). Plays a role in the lineage differentiation of the germ layers in embryonic development (By similarity). Involved in sexual development, acting as activator of NR5A1 expression (PubMed:19361780).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	163..168
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	74...79;72...77;77...82;75...81
+validnes_region	
+nesbase_region	
+Sequence	MEELSSVGEQVFAAECILSKRLRKGKLEYLVKWRGWSSKHNSWEPEENILDPRLLLAFQKKEHEKEVQNRKRGKRPRGRPRKLTAMSSCSRRSKLKVGGCAGYADPTSQHPLGVGGRQREGLGPSGRGWHFCQQSVPLLGKQEPPFFLSLSFCCQGPQPAESSSPPLPGASCFSLSCTPLCWVAGSNCCRQALFPPRGSLGDGKEQEACVQ
+PTM	Acetylation:427;Methylation:20,131,239,247,277,283,291,320;Phosphorylation:87,88,198,230,251,259,302,423,434,436,520;SUMOylation:20,39,60,82,96,146,153,157,184,191,199,215,219,239,277,283,291,296,307,310,320,362,379,390,410,413,427,432;Ubiquitylation:199,215,239,277,362,379,432

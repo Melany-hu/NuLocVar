@@ -1,0 +1,25 @@
+UniprotID	B1APF8
+Accession	B1APF8
+EntryName	B1APF8_HUMAN
+ProteinName	Protein kinase cAMP-activated catalytic subunit beta
+GeneName	PRKACB
+Length	214
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSCSSSEISVKEFLAKAKEDFLKKWENPTQNNAGLEDFERKKTLGTGSFGRVMLVKHKATEQYYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVRLEYAFKDNSNLYMVMEYVPGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYLHSLDLIYRDLKPENLLIDHQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAPEIILSKGYNK
+PTM	

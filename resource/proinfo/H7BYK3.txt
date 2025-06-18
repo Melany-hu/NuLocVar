@@ -1,0 +1,25 @@
+UniprotID	H7BYK3
+Accession	H7BYK3
+EntryName	H7BYK3_HUMAN
+ProteinName	Unc-50 inner nuclear membrane RNA binding protein
+GeneName	UNC50
+Length	128
+Function	Involved in the cell surface expression of neuronal nicotinic receptors. Binds RNA.
+Subcellular Location	Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFISNKYLVKRQSRDYDVEWGYAFDVHLNAFYPLLVILHFIQLFFINHVILTDTFIGYLVGNTLWLVAVGYYIYVTFLGYSVWIPFFSSIAIFEKYSNSSVSICTSDSALRAFPGTGMELHPYSLFFL
+PTM	

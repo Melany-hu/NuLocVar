@@ -1,0 +1,25 @@
+UniprotID	J3KQ25
+Accession	J3KQ25
+EntryName	J3KQ25_HUMAN
+ProteinName	Zinc finger AN1-type containing 2A
+GeneName	ZFAND2A
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	90...95
+validnes_region	
+nesbase_region	
+Sequence	MEFPDLGKHCSEKTCKQLDFLPVKCDACKQDFCKDHFPYAAHKCPFAFQKDVHVPVCPLCNTPIPVKKGQIPDVVVGDHIDRDCDSHPGKKKEKIFTYRCSKEGCKKKEMLQMVCAQCHGNFCIQHRHPLDHSCRHGSRPTIKAGCSPMTVSESRPLGDFLTLAPGGLAQRLGYWFTRLM
+PTM	

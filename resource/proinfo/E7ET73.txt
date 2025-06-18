@@ -1,0 +1,25 @@
+UniprotID	E7ET73
+Accession	E7ET73
+EntryName	E7ET73_HUMAN
+ProteinName	Zinc finger protein 692
+GeneName	ZNF692
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...17
+validnes_region	
+nesbase_region	
+Sequence	MASSPAVDVSCRRREKRRQLDARRSKCRIRLGGHMEQWCLLKERLGFSLHSQLAKFLLDRYTSSGCVLCAAESAAWCPGFGGLAAKMGGLCGSAQQAIPSPGDPL
+PTM	

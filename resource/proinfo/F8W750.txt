@@ -1,0 +1,25 @@
+UniprotID	F8W750
+Accession	F8W750
+EntryName	F8W750_HUMAN
+ProteinName	Discs large MAGUK scaffold protein 2
+GeneName	DLG2
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNHSMSSGSGSLRTNQKRSLYVRAMFDYDKSKDSGLPSQGLSFKYGDILHVINASDDEWWQARRVMLEGDSEEMGVIPSKRRVERKERARLKTVKFNAKPGVIDSKGSFNDKRKKSFIFSRKFPFYKNKEQSEQETSDPERGQEDLILSYEPVTRQEINYTRPVIILGPMKDRINDDLISEFPDKFGSCVPHTTRPKRDYEVDGRDYHFVISREQMEKDI
+PTM	

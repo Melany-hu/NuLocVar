@@ -1,0 +1,25 @@
+UniprotID	P10155-4
+Accession	P10155;B2RBB9;Q5LJ98;Q5LJ99;Q5LJA0;Q86WL3;Q86WL4;Q92787;Q9H1W6
+EntryName	RO60_HUMAN
+ProteinName	RNA-binding protein RO60 (60 kDa SS-A/Ro ribonucleoprotein) (60 kDa Ro protein) (60 kDa ribonucleoprotein Ro) (RoRNP) (Ro 60 kDa autoantigen) (Ro60 autoantigen) (Sjoegren syndrome antigen A2) (Sjoegren syndrome type A antigen) (SS-A) (TROVE domain family member 2)
+GeneName	RO60 SSA2 TROVE2
+Length	534
+Function	RNA-binding protein that binds to misfolded non-coding RNAs, pre-5S rRNA, and several small cytoplasmic RNA molecules known as Y RNAs (PubMed:18056422, PubMed:26382853). Binds to endogenous Alu retroelements which are induced by type I interferon and stimulate porinflammatory cytokine secretion (PubMed:26382853). Regulates the expression of Alu retroelements as well as inflammatory genes (PubMed:26382853). May play roles in cilia formation and/or maintenance (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEESVNQMQPLNEKQIANSQDGYVWQVTDMNRLHRFLCFGSEGGTYYIKEQKLGLENAEALIRLIEDGRGCEVIQEIKSFSQEGRTTKQEPMLFALAICSQCSDISTKQAAFKAVSEVCRIPTHLFTFIQFKKDLKESMKCGMWGRALRKAIADWYNEKGGMALALAVTKYKQRNGWSHKDLLRLSHLKPSSEGLAIVTKYITKGWKEVHELYKEKALSVETEKLLKYLEAVEKVKRTRDELEVIHLIEEHRLVREHLLTNHLKSKEVWKALLQEMPLTALLRNLGKMTANSVLEPGNSEVSLVCEKLCNEKLLKKARIHPFHILIALETYKTGHGLRGKLKWRPDEEILKALDAAFYKTFKTVEPTGKRFLLAVDVSASMNQRVLGSILNASTVAAAMCMVVTRTEKDSYVVAFSDEMVPCPVTTDMTLQQVLMAMSQIPAGGTDCSLPMIWAQKTNTPADVFIVFTDNETFAGGVHPAIALREYRKKMDIPAKLIVCGMTSNGFTIADPDDRGMLDMCGFDTGALDPCKIPY
+PTM	Acetylation:14,170,214,224,312,342,359;Methylation:69,78,113,159,170,234,307,351,359;Phosphorylation:19,23,28,219,260,265,393;SUMOylation:342,359,362;Ubiquitylation:49,78,113,140,170,180,189,200,216,224,227,234,264,307,312,342,359,362

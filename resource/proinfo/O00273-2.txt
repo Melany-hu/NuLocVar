@@ -1,0 +1,25 @@
+UniprotID	O00273-2
+Accession	O00273;Q5T6G5;Q5T6G6;Q96I97;Q9Y6C6
+EntryName	DFFA_HUMAN
+ProteinName	DNA fragmentation factor subunit alpha (DNA fragmentation factor 45 kDa subunit) (DFF-45) (Inhibitor of CAD) (ICAD)
+GeneName	DFFA DFF1 DFF45 H13
+Length	268
+Function	Inhibitor of the caspase-activated DNase (DFF40).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVTGDAGVPESGEIRTLKPCLLRRNYSREQHGVAASCLEDLRSKACDILAIDKSLTPVTLVLAEDGTIVDDDDYFLCLPSNTKFVALASNEKWAYNNSDGGTAWISQESFDVDETDSGAGLKWKNVARQLKEDLSSIILLSEEDLQMLVDAPCSDLAQELRQSCATVQRLQHTLQQVLDQREEVRQSKQLLQLYLQALEKEGSLLSKQEESKAAFGEEVDAVDTGISRETSSDVALASHILTALREKQAPELSLSSQDLEVGGNQGH
+PTM	Acetylation:281,313;Methylation:54,84,123,201,208,265,280,296;Phosphorylation:27,28,37,107,110,188,195,204,228,231,232,233,239,243,256,257,308,310,312,315;SUMOylation:189;Ubiquitylation:189,208,213,313

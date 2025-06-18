@@ -1,0 +1,25 @@
+UniprotID	B5MC27
+Accession	B5MC27
+EntryName	B5MC27_HUMAN
+ProteinName	Solute carrier family 66 member 3
+GeneName	SLC66A3
+Length	120
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAALLGLCNWSTLGVCAALKLPQISAVLAARSARGLSLPSLLLELAGFLVFLRYQCYYGYPPLTYLEYPILIAQDVILLLCIFHFNGNVKQATPYIAVLVSSWFILALQKWIIDLAMQE
+PTM	

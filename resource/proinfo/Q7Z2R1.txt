@@ -1,0 +1,25 @@
+UniprotID	Q7Z2R1
+Accession	Q7Z2R1
+EntryName	Q7Z2R1_HUMAN
+ProteinName	HCG19985, isoform CRA_b (ZNF254 protein) (Zinc finger protein 254)
+GeneName	ZNF254 hCG_19985
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGPPRSLEMGLLTFRDVAIEFSLEEWQHLDIAQQNLYRNVMLENYRNLAFLGIAVSKPDLITCLEQGKEPWNMKRHEMVDEPPGLDFSLL
+PTM	

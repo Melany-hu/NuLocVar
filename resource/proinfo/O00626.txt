@@ -1,0 +1,25 @@
+UniprotID	O00626
+Accession	O00626;A0N0Q6;B2R4W2
+EntryName	CCL22_HUMAN
+ProteinName	C-C motif chemokine 22 (CC chemokine STCP-1) (MDC(1-69)) (Macrophage-derived chemokine) (Small-inducible cytokine A22) (Stimulated T-cell chemotactic protein 1) [Cleaved into: MDC(3-69); MDC(5-69); MDC(7-69)]
+GeneName	CCL22 MDC SCYA22 A-152E5.1
+Length	93
+Function	May play a role in the trafficking of activated/effector T-lymphocytes to inflammatory sites and other aspects of activated T-lymphocyte physiology. Chemotactic for monocytes, dendritic cells and natural killer cells. Mild chemoattractant for primary activated T-lymphocytes and a potent chemoattractant for chronically activated T-lymphocytes but has no chemoattractant activity for neutrophils, eosinophils, and resting T-lymphocytes. Binds to CCR4. Processed forms MDC(3-69), MDC(5-69) and MDC(7-69) seem not be active.
+Subcellular Location	Secreted
+Disorder	0.0244,0.0160,0.0134,0.0101,0.0085,0.0092,0.0085,0.0091,0.0079,0.0097,0.0102,0.0127,0.0127,0.0108,0.0168,0.0188,0.0109,0.0130,0.0168,0.0294,0.0334,0.0555,0.1007,0.1424,0.1554,0.1611,0.1251,0.1791,0.2193,0.2094,0.1476,0.1759,0.0985,0.0909,0.0646,0.0765,0.0364,0.0676,0.0433,0.0356,0.0327,0.0414,0.0188,0.0113,0.0078,0.0102,0.0148,0.0240,0.0240,0.0136,0.0269,0.0405,0.0483,0.0888,0.0592,0.0690,0.0334,0.0341,0.0364,0.0253,0.0389,0.0414,0.0443,0.1048,0.0985,0.1048,0.0799,0.0870,0.0948,0.0948,0.1092,0.1092,0.0568,0.0306,0.0313,0.0364,0.0306,0.0300,0.0581,0.0543,0.0690,0.0676,0.0646,0.0506,0.0356,0.0581,0.0929,0.0948,0.0676,0.0380,0.0263,0.0372,0.0181
+ExposeBuried	1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1
+SurfaceAccessbility	0.839,0.644,0.517,0.233,0.209,0.204,0.184,0.117,0.099,0.076,0.089,0.087,0.069,0.057,0.051,0.064,0.091,0.074,0.054,0.136,0.290,0.273,0.286,0.376,0.375,0.455,0.478,0.297,0.366,0.740,0.383,0.500,0.570,0.415,0.411,0.028,0.040,0.161,0.354,0.192,0.239,0.644,0.410,0.547,0.089,0.165,0.289,0.566,0.187,0.052,0.380,0.315,0.069,0.366,0.500,0.191,0.457,0.731,0.562,0.043,0.543,0.395,0.410,0.041,0.049,0.043,0.041,0.141,0.094,0.376,0.474,0.687,0.446,0.522,0.154,0.061,0.283,0.457,0.260,0.664,0.553,0.581,0.142,0.034,0.425,0.508,0.061,0.167,0.611,0.453,0.188,0.750,0.860
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C
+Hydropathy	1.9,-3.5,-4.5,3.8,-3.5,-0.7,1.8,3.8,3.8,4.2,4.2,3.8,4.2,3.8,3.8,1.8,4.2,1.8,3.8,-3.5,1.8,-0.7,-3.5,1.8,-0.4,-1.6,-1.3,-0.4,1.8,-3.5,1.9,-3.5,-3.5,-0.8,4.2,2.5,2.5,-4.5,-3.5,-1.3,4.2,-4.5,-1.3,-4.5,3.8,-1.6,3.8,-4.5,4.2,4.2,-3.9,-3.2,2.8,-1.3,-0.9,-0.7,-0.8,-3.5,-0.8,2.5,-1.6,-4.5,-1.6,-0.4,4.2,4.2,3.8,3.8,-0.7,2.8,-4.5,-3.5,-3.9,-3.5,4.5,2.5,1.8,-3.5,-1.6,-4.5,4.2,-1.6,-0.9,4.2,-3.9,1.9,4.5,3.8,-3.5,-3.9,3.8,-0.8,-3.5
+Polar	0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1
+Charge	0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,1,-1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,-1,0,0,0,1,0,0,0,0,0,0,0,0,1,-1,1,-1,0,0,0,-1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRLQTALLVVLVLLAVALQATEAGPYGANMEDSVCCRDYVRYRLPLRVVKHFYWTSDSCPRPGVVLLTFRDKEICADPRVPWVKMILNKLSQ
+PTM	

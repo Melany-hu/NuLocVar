@@ -1,0 +1,25 @@
+UniprotID	I3L4Z7
+Accession	I3L4Z7
+EntryName	I3L4Z7_HUMAN
+ProteinName	ADP ribosylation factor like GTPase 16
+GeneName	ARL16
+Length	111
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPIWSSYYGNCRSLLFVMDASDPTQLSASCVQLLGLLSAEQLAEASVLILFNKIDLPCYMSTEEMKSLIRLPDIIACAKQNITTAEISAREGTGLAGVLAWLQATHRAND
+PTM	

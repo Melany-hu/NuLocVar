@@ -1,0 +1,25 @@
+UniprotID	F8VV49
+Accession	F8VV49
+EntryName	F8VV49_HUMAN
+ProteinName	CASP2 and RIPK1 domain containing adaptor with death domain
+GeneName	CRADD
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEARDKQVLRSLRLELGAEVLVEGLVLQYLYQEGILTENHIQEINAQTTGLRKTMLLLDILPSRGPKAFDTFLDSLQEFPWVREKLKKAREEAMTDLPAVAIIRLPRELSLPTLL
+PTM	

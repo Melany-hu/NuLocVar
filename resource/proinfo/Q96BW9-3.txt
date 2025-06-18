@@ -1,0 +1,25 @@
+UniprotID	Q96BW9-3
+Accession	Q96BW9;B4DIY7;C9J2U4
+EntryName	TAM41_HUMAN
+ProteinName	Phosphatidate cytidylyltransferase, mitochondrial (EC 2.7.7.41) (CDP-diacylglycerol synthase) (CDP-DAG synthase) (Mitochondrial translocator assembly and maintenance protein 41 homolog) (TAM41)
+GeneName	TAMM41 C3orf31
+Length	337
+Function	Catalyzes the conversion of phosphatidic acid (PA) to CDP-diacylglycerol (CDP-DAG), an essential intermediate in the synthesis of phosphatidylglycerol, cardiolipin and phosphatidylinositol.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALQTLQSSWVTFRKILSHFPEELSLAFVYGSGVYRQAGPSSDQKNAMLDFVFTVDDPVAWHSKNLKKNWSHYSFLKVLGPKIITSIQNNYGAGVYYNSLIMCNGRLIKYGVISTNVLIEDLLNWNNLYIAGRLQKPVKIISVNEDVTLRSALDRNLKSAVTAAFLMLPESFSEEDLFIEIAGLSYSGDFRMVVGEDKTKVLNIVKPNIAHFRELYGSILQENPQVVYKSQQGWLEIDKSPEGQFTQLMTLPKTLQQQINHIMDPPGKNRDVEETLFQVAHDPDCGDVVRLGLSAIVRPSSIRQSTKGIFTAGLKKSVIYSSLKLHKMWKGWLRKTS
+PTM	Methylation:77,206,253;Phosphorylation:74,148

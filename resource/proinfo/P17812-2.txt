@@ -1,0 +1,25 @@
+UniprotID	P17812-2
+Accession	P17812;B4DR64;D3DPW1;Q5VW67;Q96GK6
+EntryName	PYRG1_HUMAN
+ProteinName	CTP synthase 1 (EC 6.3.4.2) (CTP synthetase 1) (UTP--ammonia ligase 1)
+GeneName	CTPS1 CTPS
+Length	360
+Function	This enzyme is involved in the de novo synthesis of CTP, a precursor of DNA, RNA and phospholipids. Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as a source of nitrogen. This enzyme and its product, CTP, play a crucial role in the proliferation of activated lymphocytes and therefore in immunity.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFCHVEPEQVICVHDVSSIYRVPLLLEEQGVVDYFLRRLDLPIERQPRKMLMKWKEMADRYDRLLETCSIALVGKYTKFSDSYASVIKALEHSALAINHKLEIKYIDSADLEPITSQEEPVRYHEAWQKLCSAHGVLVPGGFGVRGTEGKIQAIAWARNQKKPFLGVCLGMQLAVVEFSRNVLGWQDANSTEFDPTTSHPVVVDMPEHNPGQMGGTMRLGKRRTLFQTKNSVMRKLYGDADYLEERHRHRFEVNPVWKKCLEEQGLKFVGQDVEGERMEIVELEDHPFFVGVQYHPEFLSRPIKPSPPYFGLLLASVGRLSHYLQKGCRLSPRDTYSDRSGSSSPDSEITELKFPSINHD
+PTM	Acetylation:92,100,309,319,331,460,466,489,498,557;Methylation:16,28,92,100,169,205,306,376,466,477,489,490,498;Phosphorylation:12,22,83,89,94,96,210,225,339,462,468,473,540,562,566,567,568,571,573,574,575,578,581,587;SUMOylation:92,103,171,193,195,381,466,489,490;Ubiquitylation:84,92,100,103,109,169,195,227,306,309,319,335,360,381,460,466,489,490,498,557

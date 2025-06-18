@@ -1,0 +1,25 @@
+UniprotID	Q9Y5Z4-2
+Accession	Q9Y5Z4;Q96P57
+EntryName	HEBP2_HUMAN
+ProteinName	Heme-binding protein 2 (Placental protein 23) (PP23) (Protein SOUL)
+GeneName	HEBP2 C6orf34 SOUL
+Length	184
+Function	Can promote mitochondrial permeability transition and facilitate necrotic cell death under different types of stress conditions.
+Subcellular Location	Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEPLQPDPGAFQPGSYEIRHYGPAKWVSTSVESMDWDSAIQTGFTKLNSYIQGKNEKEMKIKMTAPVTSYVEPGSGPFSESTITISLYIPSEQQFDPPRPLESDVFIEDRAEMTVFVRSFDGFSSAQKNQEQLLTLASILREDGKVFDEKVYYTAGYNSPVKLLNRNNEVWLIQKNEPTKENE
+PTM	Acetylation:76,184;Methylation:41;Phosphorylation:22,37,141,174,175,176,179,181;Ubiquitylation:76,184

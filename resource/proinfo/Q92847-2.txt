@@ -1,0 +1,25 @@
+UniprotID	Q92847-2
+Accession	Q92847;Q14D12;Q6ISR8;Q92848;Q96RJ7
+EntryName	GHSR_HUMAN
+ProteinName	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)
+GeneName	GHSR
+Length	289
+Function	Receptor for ghrelin, coupled to G-alpha-11 proteins. Stimulates growth hormone secretion. Also binds other growth hormone releasing peptides (GHRP) (e.g. Met-enkephalin and GHRP-6) as well as non-peptide, low molecular weight secretagogues (e.g. L-692,429, MK-0677, adenosine).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWNATPSEEPGFNLTLADLDWDASPGNDSLGDELLQLFPAPLLAGVTATCVALFVVGIAGNLLTMLVVSRFRELRTTTNLYLSSMAFSDLLIFLCMPLDLVRLWQYRPWNFGDLLCKLFQFVSESCTYATVLTITALSVERYFAICFPLRAKVVVTKGRVKLVIFVIWAVAFCSAGPIFVLVGVEHENGTDPWDTNECRPTEFAVRSGLLTVMVWVSSIFFFLPVFCLTVLYSLIGRKLWRRRRGDAVVGASLRDQNHKQTVKMLGGSQRALRLSLAGPILSLCLLPSL
+PTM	Phosphorylation:69,138,142,287

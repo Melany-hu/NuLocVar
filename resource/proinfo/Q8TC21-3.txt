@@ -1,0 +1,25 @@
+UniprotID	Q8TC21-3
+Accession	Q8TC21;B2R8P4;O95015;Q8N9X0
+EntryName	ZN596_HUMAN
+ProteinName	Zinc finger protein 596
+GeneName	ZNF596
+Length	139
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSHTQEDPFLCNDLGEDFTQHIALTQNVITYMRTKHFVSKKFGKIFSDWLSFNQHKEIHTKCKSYGSHLFDYAFIQNSALRPHSVTHTREITLECRVCGKTFSKNSNLRRHEMIHTGEKPHGCHLCGKAFTHLIIVNT
+PTM	Methylation:64;Phosphorylation:218,414,442;SUMOylation:240

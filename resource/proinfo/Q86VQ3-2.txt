@@ -1,0 +1,25 @@
+UniprotID	Q86VQ3-2
+Accession	Q86VQ3;A5YM73;Q8N7U4;Q96RX3;Q9H0L8
+EntryName	TXND2_HUMAN
+ProteinName	Thioredoxin domain-containing protein 2 (Spermatid-specific thioredoxin-1) (Sptrx-1)
+GeneName	TXNDC2 SPTRX SPTRX1
+Length	486
+Function	Probably plays a regulatory role in sperm development. May participate in regulation of fibrous sheath (FS) assembly by supporting the formation of disulfide bonds during sperm tail morphogenesis. May also be required to rectify incorrect disulfide pairing and generate suitable pairs between the FS constituents. Can reduce disulfide bonds in vitro in the presence of NADP and thioredoxin reductase.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSHTFHMRTEESDASQEGDDLPKSSANTSHPKQDDSPKSSEETIQPKEGDIPKAPEETIQSKKEDLPKSSEKAIQPKESNIPKSSAKPIQPKLGNIPKASVKPSQPKEGDIPKAPEETIQSKKEDLPKSSEEAIQPKEGDIPKSSAKPIQPKLGNIAKTSVKPSQPKESDIPKSPEETIQPKEGDIPKSSAKPIQPKLGNIPKASVKPSQPKEGDISKSPEEAIQPKEGDLPKSLEEAIQPKEGDIPKSPEEAIQPKEGDIPKSLEEAIQPKEGDIPKSPEETIQPKKGDIPKSPEEAIQPKEGDIPKSPKQAIQPKEGDIPKSLEEAIPPKEIDIPKSPEETIQPKEDDSPKSLEEATPSKEGDILKPEEETMEFPEGDKVKVILSKEDFEASLKEAGERLVAVDFSATWCGPCRTIRPFFHALSVKHEDVVFLEVDADNCEEVVRECAIMCVPTFQFYKKEEKVDELCGALKEKLEAVIAELK
+PTM	Methylation:91,106,121,130,136,151,166,181,190,196,211,226,241,256,271,286,301,316,331,346,361,376,391,406,421,436,456;Phosphorylation:232,242,407

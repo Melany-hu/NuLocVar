@@ -1,0 +1,25 @@
+UniprotID	O95671-2
+Accession	O95671;B4DX75;F5GXH4;J3JS33;Q5JQ53;Q8NBH5;Q96G02;Q9BUL6
+EntryName	ASML_HUMAN
+ProteinName	Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein [Includes: dTTP/UTP pyrophosphatase (dTTPase/UTPase) (EC 3.6.1.9) (Nucleoside triphosphate pyrophosphatase) (Nucleotide pyrophosphatase) (Nucleotide PPase); N-acetylserotonin O-methyltransferase-like protein (ASMTL) (EC 2.1.1.-)]
+GeneName	ASMTL
+Length	605
+Function	Nucleoside triphosphate pyrophosphatase that hydrolyzes dTTP and UTP. Can also hydrolyze CTP and the modified nucleotides pseudo-UTP, 5-methyl-UTP (m(5)UTP) and 5-methyl-CTP (m(5)CTP). Has weak activity with dCTP, 8-oxo-GTP and N(4)-methyl-dCTP (PubMed:24210219). May have a dual role in cell division arrest and in preventing the incorporation of modified nucleotides into cellular nucleic acids (PubMed:24210219). In addition, the presence of the putative catalytic domain of S-adenosyl-L-methionine binding in the C-terminal region argues for a methyltransferase activity (Probable).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLCPVIGKLLHKRVVLASASPRRQEILSNAGLRFEVVPSKFKEKLDKASFATPYGYAMETAKQKALEVANRLYQTVGGLILEKPVDKQDAYRMLSRLSGREHSVFTGVAIVHCSSKDHQLDTRVSEFYEETKVKFSELSEELLWEYVHSGEPMDKAGGYGIQALGGMLVESVHGDFLNVVGFPLNHFCKQLVKLYYPPRPEDLRRSVKHDSIPAADTFEDLSDVEGGGSEPTQRDAGSRDEKAEAGEAGQATAEAECHRTRETLPPFPTRLLELIEGFMLSKGLLTACKLKVFDLLKDEAPQKAADIASKVDASACGMERLLDICAAMGLLEKTEQGYSNTETANVYLASDGEYSLHGFIMHNNDLTWNLFTYLEFAIREGTNQHHRALGKKAEDLFQDAYYQSPETRLRFMRAMHGMTKLTACQVATAFNLSRFSSACDVGGCTGALARELAREYPRMQVTVFDLPDIIELAAHFQPPGPQAVQIHFAAGDFFRDPLPSAELYVLCRILHDWPDDKVHKLLSRVAESCKPGAGLLLVETLLDEEKRVAQRALMQSLNMLVQTEGKERSLGEYQCLLELHGFHQVQVVHLGGVLDAILATKVAP
+PTM	Acetylation:41,76;Methylation:9,100,149,172,210,314,327,350,583;Phosphorylation:19,21,212,213,223,228,234,239,246,255,269,419,421,424,473,517,573,580;Ubiquitylation:41,306,320,327

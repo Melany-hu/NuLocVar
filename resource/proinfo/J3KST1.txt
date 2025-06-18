@@ -1,0 +1,25 @@
+UniprotID	J3KST1
+Accession	J3KST1
+EntryName	J3KST1_HUMAN
+ProteinName	ArfGAP with dual PH domains 2
+GeneName	ADAP2
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ESGKEIVDWFNALRAARLQYLKMAFPELPESEQKEPFKKRWFALDCHERRLLYYKNPLDAFEQGQVFLGNKEQGYEAYEDLPKGIRGNRWKAGLTIVT
+PTM	

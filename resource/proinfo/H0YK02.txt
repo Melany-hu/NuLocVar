@@ -1,0 +1,25 @@
+UniprotID	H0YK02
+Accession	H0YK02
+EntryName	H0YK02_HUMAN
+ProteinName	Tetratricopeptide repeat domain 7B
+GeneName	TTC7B
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LQSLCRGPDEALLTCKHMLQIWKSCYNLTNPSDSGRGSSLLDRTIADRRQLNTITLPDFSDPETGSVHATSVAASRVEQALSEVASSLQSSAPKQGPLHPWMTLAQIWLHAGPDPSPARPLQSGGEDPPGRGAGELDSPRGLERAGRGPPSSGQRCGGYGVLPDSLGAGGQQPRRALHHHPPRALSRRLPASPAAQASEALPGTRACAIAPRG
+PTM	

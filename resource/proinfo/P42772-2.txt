@@ -1,0 +1,25 @@
+UniprotID	P42772-2
+Accession	P42772;O15125;Q6FI09
+EntryName	CDN2B_HUMAN
+ProteinName	Cyclin-dependent kinase 4 inhibitor B (Multiple tumor suppressor 2) (MTS-2) (p14-INK4b) (p15-INK4b) (p15INK4B)
+GeneName	CDKN2B MTS2
+Length	78
+Function	Interacts strongly with CDK4 and CDK6. Potent inhibitor. Potential effector of TGF-beta induced cell cycle arrest.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREENKGMPSGGGSDEGLASAAARGLVEKVRQLLEAGADPNGVNRFGRRAIQVAGAPGPRRQGARERGARPRRIGAGT
+PTM	Methylation:29,101,105

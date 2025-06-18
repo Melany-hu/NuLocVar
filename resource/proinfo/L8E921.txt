@@ -1,0 +1,25 @@
+UniprotID	L8E921
+Accession	L8E921
+EntryName	L8E921_HUMAN
+ProteinName	Alternative protein CSRNP1
+GeneName	CSRNP1
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSPSSTSPAARASPVCPAVVAVLWVWPFATVLAVASLWLSLRRSKPVHGTRSSASA
+PTM	

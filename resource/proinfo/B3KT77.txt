@@ -1,0 +1,25 @@
+UniprotID	B3KT77
+Accession	B3KT77
+EntryName	B3KT77_HUMAN
+ProteinName	Leucine rich repeat containing 34, isoform CRA_d (cDNA FLJ37806 fis, clone BRSSN2001426, highly similar to Leucine-rich repeat-containing protein 34)
+GeneName	LRRC34 hCG_1787503
+Length	300
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKSQKINPFILHILQEVDEEIKKGLAAGITLNIAGNNRLVPVERVTGEDFWILSKILKNCLYINGLDVGYNLLCDVGAYYAAKLLQKQLNLIYLNLMFNDIGPEGGELIAKVLHKNRTLKYLRMTGNKIENKGGMFFAAMLQINSSLEKLDLGDCDLGMQSVIAFATVLTQNQAIKAINLNRPILYSEQEESTVHVGRMLKENHCLVALHMCKHDIKNSGIQQLCDALYLNSSLRYLDVSCNKITHDGMVYLADVLKSNTTLEVIDLSFNRIENAGANYLSETLTSHNRSLKALVWFYI
+PTM	

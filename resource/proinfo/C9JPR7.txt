@@ -1,0 +1,25 @@
+UniprotID	C9JPR7
+Accession	C9JPR7
+EntryName	C9JPR7_HUMAN
+ProteinName	C-type lectin domain containing 5A
+GeneName	CLEC5A
+Length	155
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNWHMIISGLIVVVLKVVGMTLFLLYFPQIFNKSNDGFTTTRSYGTVCPKDWEFYQARCFFLSTSESSWNESRDFCKGKGSTLAIVNTPEKLKFLQDITDAEKYFIGLIYHREEKRWRWINNSVFNGKYVNMPQFPGDLGLLQKTKPEIAGFTLE
+PTM	

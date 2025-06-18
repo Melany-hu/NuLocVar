@@ -1,0 +1,25 @@
+UniprotID	Q9BX93-2
+Accession	Q9BX93;B7ZL23;Q52LB2;Q96Q99
+EntryName	PG12B_HUMAN
+ProteinName	Group XIIB secretory phospholipase A2-like protein (Group XIII secretory phospholipase A2-like protein) (GXIII sPLA2-like) (sPLA2-GXIIB) (GXIIB)
+GeneName	PLA2G12B PLA2G13 FKSG71
+Length	194
+Function	Not known; does not seem to have catalytic activity.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLASGFLVLWLSLGGGLAQSDTSPDTEESYSDWGLRHLRGSFESVNSYFDSFLELLGGKNGVCQYRCRYGKAPMPRPGYKPQEPNGCGSYFLGLKVPESMDLGIPAMTKCCNQLDVCYDTCGANKYRCDAKFRWCLHSICSDLKRSLGFVSKVEACDSLVDTVFNTVWTLGCRPFMNSQRAACICAEEEKEEL
+PTM	Methylation:60;Phosphorylation:42

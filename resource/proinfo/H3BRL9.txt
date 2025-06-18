@@ -1,0 +1,25 @@
+UniprotID	H3BRL9
+Accession	H3BRL9
+EntryName	H3BRL9_HUMAN
+ProteinName	Nth like DNA glycosylase 1
+GeneName	NTHL1
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	3...8;18...23;2...26;21...25
+validnes_region	
+nesbase_region	
+Sequence	XPGPLRRREAAAEARKSHSPVKRPRKAQRLRVAYEGSDSEKGEGAEPLKVPVWEPQDWQQQLVNIRAMRNKKDAPVDHLGTEHCYDSSAPPKVRRYQVLLSLMLSSQTKDQVTAGAMQRLRARGLTVDSILQTDDATLGKLIYPVGFWRSKVKYIKQTSAILQQHYGGDIPASVAELVALPGVGPKMAHLAMAVAWGTVSGIGVCGPDHLQGDPRAAS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NRA8-2
+Accession	Q9NRA8;B1AKL2;B1AKL3;B2RBF1;Q8NCF2;Q9H708
+EntryName	4ET_HUMAN
+ProteinName	Eukaryotic translation initiation factor 4E transporter (4E-T) (eIF4E transporter) (Eukaryotic translation initiation factor 4E nuclear import factor 1)
+GeneName	EIF4ENIF1
+Length	811
+Function	EIF4E-binding protein that regulates translation and stability of mRNAs in processing bodies (P-bodies) (PubMed:16157702, PubMed:24335285, PubMed:27342281, PubMed:32354837). Plays a key role in P-bodies to coordinate the storage of translationally inactive mRNAs in the cytoplasm and prevent their degradation (PubMed:24335285, PubMed:32354837). Acts as a binding platform for multiple RNA-binding proteins: promotes deadenylation of mRNAs via its interaction with the CCR4-NOT complex, and blocks decapping via interaction with eIF4E (EIF4E and EIF4E2), thereby protecting deadenylated and repressed mRNAs from degradation (PubMed:27342281, PubMed:32354837). Component of a multiprotein complex that sequesters and represses translation of proneurogenic factors during neurogenesis (By similarity). Promotes miRNA-mediated translational repression (PubMed:24335285, PubMed:27342281, PubMed:28487484). Required for the formation of P-bodies (PubMed:16157702, PubMed:22966201, PubMed:27342281, PubMed:32354837). Involved in mRNA translational repression mediated by the miRNA effector TNRC6B by protecting TNRC6B-targeted mRNAs from decapping and subsequent decay (PubMed:32354837). Also acts as a nucleoplasmic shuttling protein, which mediates the nuclear import of EIF4E and DDX6 by a piggy-back mechanism (PubMed:10856257, PubMed:28216671).
+Subcellular Location	Cytoplasm; P-body; Cytoplasm; Nucleus; Nucleus; PML body; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	195..211
+UniprotNESRegion	438..447;613..638
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	277...282;275...284
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRRSMGETESGDAFLDLKKPPASKCPHRYTKEELLDIKELPHSKQRPSCLSEKYDSDGVWDPEKWHASLYPASGRSSPVESLKKELDTDRPSLVRRIVGIVECNGGVAEEDEVEVILAQEPAADQEVPRDAVLPEQSPGDFDFNEFFNLDKVPCLASMIEDVLGEGSVSASRFSRWFSNPSRSGSRSSSLGSTPHEELERLAGLEQAILSPGQNSGNYFAPIPLEDHAENKVDILEMLQKAKVDLKPLLSSLSANKEKLKESSHSGVVLSVEEVEAGLKGLKVDQQVKNSTPFMAEHLEETLSAVTNNRQLKKDGDMTAFNKLVSTMKRNLESHLMSPAEIPGQPVPKNILQELLGQPVQRPASSNLLSGLMGSLEPTTSLLGQRAPSPPLSQVFQTRAASADYLRPRIPSPIGFTPGPQQLLGDPFQGMRKPMSPITAQQMSQLELQQAALEGLALPHDLAVQAANFYQPGFGKPQVDRTRDGFRNRQQRVTKSPAPVHRGNSSSPAPAASITSMLSPSFTPTSVIRKMYESKEKSKEEPASGKAALGDSKEDTQKASEENLLSSSSVPSADRDSSPTTNSKLSALQRSSCSTPLSQANRYTKEQDYRPKATGRKTPTLASPVPTTPFLRPVHQVPLVPHVPMVRPAHQLHPGLVQRMLAQGVHPQHLPSLLQTGVLPPGMDLSHLQGISGPILGQPFYPLPAASHPLLNPRPGTPLHLAMVQQQLQRSVLHPPGSGSHAAAVSVQTTPQNVPSRSGLPHMHSQLEHRPSQRSSSPVGLAKWFGSDVLQQPLPSMPAKVISVDELEYRQ
+PTM	Acetylation:248,486;Methylation:19,39,315,410,443,492,704,776,791;Phosphorylation:5,9,11,69,71,74,77,78,82,115,120,136,138,144,162,173,201,213,214,215,257,259,301,342,345,347,349,351,352,353,356,357,374,379,382,414,415,417,454,455,465,494,496,509,513,541,564,568,577,580,587,592,611,668,670,679,680,681,687,689,690,693,695,697,700,712,718,726,734,740,741,742,743,746,751,752,754,755,757,765,766,768,769,772,777,792,794,797,891,912,924,946,949,950,951,977;SUMOylation:32,39,395,410,446;Ubiquitylation:404,410,502,727,732

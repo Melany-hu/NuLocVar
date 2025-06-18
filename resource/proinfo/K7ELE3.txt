@@ -1,0 +1,25 @@
+UniprotID	K7ELE3
+Accession	K7ELE3
+EntryName	K7ELE3_HUMAN
+ProteinName	TLE family member 5, transcriptional modulator
+GeneName	TLE5
+Length	264
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAFLQKRKLRLSKNHRPARAKVTEHVRGTRPGRATAGPAASTRAAGSLFFDRWGNRGPAGCRGSSHLPQQLKFTTSDSCDRIKDEFQLLQAQYHSLKLECDKLASEKSEMQRHYVMYYEMSYGLNIEMHKQAEIVKRLNGICAQVLPYLSQEHQQQVLGAIERAKQVTAPELNSIIRVCMGTWAGGRGTGGPQAANVPLPRPAAAAPSPPAVPAAGPGPALDPTTRGAAAAFAAGGQRRHRPPLAVRAGFPGPPLQGRQERARW
+PTM	

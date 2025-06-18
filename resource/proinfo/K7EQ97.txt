@@ -1,0 +1,25 @@
+UniprotID	K7EQ97
+Accession	K7EQ97
+EntryName	K7EQ97_HUMAN
+ProteinName	CUGBP Elav-like family member 4
+GeneName	CELF4
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRPIQVKPADSESRGDRKLFVGMLNKQQSEDDVRRLFEAFGNIEECTILRGPDGNSKGCAFVKYSSHAEAQAAINALHGSQTMPGASSSLVVKFADTDKERTMRRMQQMAGQMGMFNPMAIPFGAYGAYAQALMQQQAALMASVAQGGYLNPM
+PTM	

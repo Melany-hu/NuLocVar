@@ -1,0 +1,25 @@
+UniprotID	Q8NHP6-2
+Accession	Q8NHP6;Q8N3H2;Q8NA83
+EntryName	MSPD2_HUMAN
+ProteinName	Motile sperm domain-containing protein 2
+GeneName	MOSPD2
+Length	455
+Function	Endoplasmic reticulum-anchored protein that mediates the formation of contact sites between the endoplasmic (ER) and endosomes, mitochondria or Golgi through interaction with conventional- and phosphorylated-FFAT-containing organelle-bound proteins (PubMed:29858488, PubMed:33124732, PubMed:35389430). In addition, forms endoplasmic reticulum (ER)-lipid droplets (LDs) contacts through a direct protein-membrane interaction and participates in LDs homeostasis (PubMed:35389430). The attachment mechanism involves an amphipathic helix that has an affinity for lipid packing defects present at the surface of LDs (PubMed:35389430). Promotes migration of primary monocytes and neutrophils, in response to various chemokines (PubMed:28137892).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLDESFQWRKEISVNDLNESSIPRWLLEIGVIYLHGYDKEGNKLFWIRVKYHVKDQKTILDKKKLIAFWLERYAKRENGKPVTVMFDLSETGINSIDMDFVRFIINCFKVYYPKYLSKIVIFDMPWLMNAAFKIVKTWLGPEAVSLLKFTSKNEVQDYVSVEYLPPHMGGTDPFKYSYPPLVDDDFQTPLCENGPITSEDETSSKEDIESDGKETLETISNEEQTPLLKKINPTESTSKAEENEKVDSKVKAFKKPLSVFKGPLLHISPAEELYFGSTESGEKKTLIVLTNVTKNIVAFKVRTTAPEKYRVKPSNSSCDPGASVDIVVSPHGGLTVSAQDRFLIMAAEMEQSSGTGPAELTQFWKEVPRNKVMEHRLRCHTVESSKPNTLTLKDNAFNMSDKTSEDICLQLSRLLESNRKLEDQVQRCIWFQQLLLSLTMLLLAFVTSFFYLLYS
+PTM	Methylation:63,125,196,211,456;Phosphorylation:52,208,251,261,273,278,281,283,288,297,299,300,301,337,452;SUMOylation:357,363;Ubiquitylation:127,292

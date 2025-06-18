@@ -1,0 +1,25 @@
+UniprotID	Q9BUY7-5
+Accession	Q9BUY7;B3KT10;B7Z5G9;G3V5G1;Q86T09;Q86TV7;Q8NDQ1
+EntryName	EFC11_HUMAN
+ProteinName	EF-hand calcium-binding domain-containing protein 11
+GeneName	EFCAB11 C14orf143
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFFSEARARSRTWEASPSEHRKWVEVFKACDEDHKGYLSREDFKTAVVMLFGYKPSKIEVDSVMSSINPNTSGILLEGFLNIVRKKKEAQRYRNEVRHIFTAFDTYYRGFLTLEDFKKAFRQVAPKLPERTVLEVFRGIFSA
+PTM	

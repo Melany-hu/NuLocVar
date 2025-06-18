@@ -1,0 +1,25 @@
+UniprotID	P56181-2
+Accession	P56181;A8K0M1;J3KNX7;Q6FGD3;Q8WU60;Q9HCR5
+EntryName	NDUV3_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial (Complex I-9kD) (CI-9kD) (NADH-ubiquinone oxidoreductase 9 kDa subunit) (Renal carcinoma antigen NY-REN-4)
+GeneName	NDUFV3
+Length	473
+Function	Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone. May be the terminally assembled subunit of Complex I.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPCLLRQGRAGALKTMLQEAQVFRGLASTVSLSAESGKSEKGQPQNSKKQSPPKNVVEPKERGKLLATQTAAELSKNLSSPSSYPPAVNKGRKVASPSPSGSVLFTDEGVPKFLSRKTLVEFPQKVLSPFRKQGSDSEARQVGRKVTSPSSSSSSSSSDSESDDEADVSEVTPRVVSKGRGGLRKPEASHSFENRAPRVTVSAKEKTLLQKPHVDITDPEKPHQPKKKGSPAKPSEGRENARPKTTMPRSQVDEEFLKQSLKEKQLQKTFRLNEIDKESQKPFEVKGPLPVHTKSGLSAPPKGSPAPAVLAEEARAEGQLQASPPGAAEGHLEKPVPEPQRKAAPPLPRKETSGTQGIEGHLKGGQAIVEDQIPPSNLETVPVENNHGFHEKTAALKLEAEGEAMEDAAAPGDDRGGTQEPAPVPAEPFDNTTYKNLQHHDYSTYTFLDLNLELSKFRMPQPSSGRESPRH
+PTM	Acetylation:43;Phosphorylation:38,53,100,101,105

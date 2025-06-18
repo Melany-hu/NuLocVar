@@ -1,0 +1,25 @@
+UniprotID	J3KT90
+Accession	J3KT90
+EntryName	J3KT90_HUMAN
+ProteinName	Tripartite motif containing 37
+GeneName	TRIM37
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VNEEVAKLRRRLMELISLVQEVERNVEAVRNAKDERVREIRNAVEMMIARLDTQLKNKLITLMGQKTSLTQETELLESLLQEVEHQGASCFWKKWCQGRIYTLRSCSKSELISKSSEILMMFQQVHRKPMASFVTTPVPPDFTSELVPSYDSATFVLENFSTLRQRADPVYSPPLQVSGLCWRLKVYPDGNGVV
+PTM	

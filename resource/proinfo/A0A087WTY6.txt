@@ -1,0 +1,25 @@
+UniprotID	A0A087WTY6
+Accession	A0A087WTY6
+EntryName	A0A087WTY6_HUMAN
+ProteinName	Neuroblastoma suppressor of tumorigenicity 1
+GeneName	NBL1
+Length	215
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCSLALQQLISMDLFWRLFFVCGQEGLRALEATGMMLRVLVGAVLPAMLLAAPPPINKLALFPDKSAWCEAKNITQIVGHSGCEAKSIQNRACLGQCFSYSVPNTFPQSTESLVHCDSCMPAQSMWEIVTLECPGHEEVPRVDKLVEKILHCSCQACGKEPSHEGLSVYVQGEDGPGSQPGTHPHPHPHPHPGGQTPEPEDPPGAPHTEEEGAED
+PTM	

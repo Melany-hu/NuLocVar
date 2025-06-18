@@ -1,0 +1,25 @@
+UniprotID	J3KRY7
+Accession	J3KRY7
+EntryName	J3KRY7_HUMAN
+ProteinName	Transmembrane protein 208
+GeneName	TMEM208 HSPC171 hCG_28833
+Length	103
+Function	May function as a negative regulator of endoplasmic reticulum-stress induced autophagy.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSMARAAFSEDGALMDGGMDLNMEQGMAEHLKDVILLTAIVQVLSCFSLYVWSFWLLAPGRALYLLWVNVLGPWFTADSGTPAPEHNEKRQRRQERRQMKRL
+PTM	

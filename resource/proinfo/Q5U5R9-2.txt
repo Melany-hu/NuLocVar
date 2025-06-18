@@ -1,0 +1,25 @@
+UniprotID	Q5U5R9-2
+Accession	Q5U5R9;Q5VZ97;Q5VZ98;Q5VZ99;Q8N1X7;Q8TCP5
+EntryName	HECD2_HUMAN
+ProteinName	Probable E3 ubiquitin-protein ligase HECTD2 (EC 2.3.2.26) (HECT domain-containing protein 2) (HECT-type E3 ubiquitin transferase HECTD2)
+GeneName	HECTD2
+Length	207
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEAVRVPSPATPLVVAAPAPEERKGKESEREKLPPIVSAGAGATAGLDRGAKGQISTFSSFISAVSPKKEAAENRSSPAHLVFPNIKNVREPPPICLDVRQKQRTSMDASSSEMKAPVLPEPILPIQPKTVKDFQEDVEKVKSSGDWKAVHDFYLTTFDSFPELNAAFKKDATASFNTIEDSGINAKFVNAVYDTLLNTVSIMTCK
+PTM	Methylation:170,595,627,689,704;Phosphorylation:9,64,67,292;SUMOylation:103

@@ -1,0 +1,25 @@
+UniprotID	P63241-2
+Accession	P63241;A8K9A0;D3DTP2;P10159;Q16182;Q7L7L3;Q7Z4L1;Q9D0G2
+EntryName	IF5A1_HUMAN
+ProteinName	Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D)
+GeneName	EIF5A
+Length	184
+Function	Translation factor that promotes translation elongation and termination, particularly upon ribosome stalling at specific amino acid sequence contexts (PubMed:33547280). Binds between the exit (E) and peptidyl (P) site of the ribosome and promotes rescue of stalled ribosome: specifically required for efficient translation of polyproline-containing peptides as well as other motifs that stall the ribosome (By similarity). Acts as a ribosome quality control (RQC) cofactor by joining the RQC complex to facilitate peptidyl transfer during CAT tailing step (By similarity). Also involved in actin dynamics and cell cycle progression, mRNA decay and probably in a pathway involved in stress response and maintenance of cell wall integrity (PubMed:16987817). With syntenin SDCBP, functions as a regulator of p53/TP53 and p53/TP53-dependent apoptosis (PubMed:15371445). Also regulates TNF-alpha-mediated apoptosis (PubMed:15452064, PubMed:17187778). Mediates effects of polyamines on neuronal process extension and survival (PubMed:17360499). Is required for autophagy by assisting the ribosome in translating the ATG3 protein at a specific amino acid sequence, the 'ASP-ASP-Gly' motif, leading to the increase of the efficiency of ATG3 translation and facilitation of LC3B lipidation and autophagosome formation (PubMed:29712776).
+Subcellular Location	Cytoplasm; Nucleus; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGTGGTDSKTRRPPHRASFLKRLESKPLKMADDLDFETGDAGASATFPMQCSALRKNGFVVLKGRPCKIVEMSTSKTGKHGHAKVHLVGIDIFTGKKYEDICPSTHNMDVPNIKRNDFQLIGIQDGYLSLLQDSGEVREDLRLPEGDLGKEIEQKYDCGEEILITVLSAMTEEAAVAIKAMAK
+PTM	Acetylation:27,34,39,47,50,67,68,85,121;Methylation:27,34,47,67,68,85,113,121,126;Phosphorylation:9,15,44,45,46,65,69,75,76,98;SUMOylation:27,34,39,67,68,85,121,126;Ubiquitylation:27,34,39,67,68,85,121,126

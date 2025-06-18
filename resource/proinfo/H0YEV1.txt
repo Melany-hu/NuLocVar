@@ -1,0 +1,25 @@
+UniprotID	H0YEV1
+Accession	H0YEV1
+EntryName	H0YEV1_HUMAN
+ProteinName	Transmembrane protein 179B
+GeneName	TMEM179B
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLFWIYSSCIEDSHRGAIGLRIALAISAIAVFLVLVSACILRFGTRSLCNSIISLNTTISCSEAQKIPWTPPGTALQFYSNLHNAEVRPKDRRKN
+PTM	

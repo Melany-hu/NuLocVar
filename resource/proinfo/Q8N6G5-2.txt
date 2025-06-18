@@ -1,0 +1,25 @@
+UniprotID	Q8N6G5-2
+Accession	Q8N6G5;B3KWL7;Q6MZJ5;Q6MZP6;Q8TCH4;Q9P1I6
+EntryName	CGAT2_HUMAN
+ProteinName	Chondroitin sulfate N-acetylgalactosaminyltransferase 2 (EC 2.4.1.174) (Chondroitin beta-1,4-N-acetylgalactosaminyltransferase 2) (Beta4GalNAcT-2) (GalNAcT-2)
+GeneName	CSGALNACT2 CHGN2 GALNACT2 PRO0082
+Length	333
+Function	Transfers 1,4-N-acetylgalactosamine (GalNAc) from UDP-GalNAc to the non-reducing end of glucuronic acid (GlcUA). Required for addition of the first GalNAc to the core tetrasaccharide linker and for elongation of chondroitin chains.
+Subcellular Location	Golgi apparatus; Golgi stack membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	257...261
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRRGLILHTRTHWLLLGLALLCSLVLFMYLLECAPQTDGNASLPGVVGENYGKEYYQALLQEQEEHYQTRATSLKRQIAQLKQELQEMSEKMRSLQERRNVGANGIGYQSNKEQAPSDLLEFLHSQIDKAEVSIGAKLPSEYGVIPFESFTLMKVFQLEMGLTRHPEEKPVRKDKRDELVEVIEAGLEVINNPDEDDEQEDEEGPLGEKLIFNENDFVEGYYRTERDKGTQYELFFKKADLTEYRHVTLFRPFGPLMKVKSEMIDITRSIINIIVPLAERTEAFVQFMQNFRDVCIHQDKKIHLTVVYFGKEGLSKVKSILESVTRLASSTW
+PTM	Methylation:83,506

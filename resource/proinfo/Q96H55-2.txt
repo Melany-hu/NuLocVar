@@ -1,0 +1,25 @@
+UniprotID	Q96H55-2
+Accession	Q96H55;Q59GS4;Q9H5X2
+EntryName	MYO19_HUMAN
+ProteinName	Unconventional myosin-XIX (Myosin head domain-containing protein 1)
+GeneName	MYO19 MYOHD1
+Length	317
+Function	Actin-based motor molecule with ATPase activity that localizes to the mitochondrion outer membrane (PubMed:19932026, PubMed:23568824, PubMed:25447992). Motor protein that moves towards the plus-end of actin filaments (By similarity). Required for mitochondrial inheritance during mitosis (PubMed:25447992). May be involved in mitochondrial transport or positioning (PubMed:23568824).
+Subcellular Location	Mitochondrion outer membrane; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQQVNGHNPGSDGQAREYLREDLQEFLGGEVLLYKLDDLTRVNPVTLETVLRCLQARYMADTFYTNAGCTLVALNPFKPVPQLYSPELMREYHAAPQPQKLKPHVFTVGEQTYRNVKSLIEPVNQSIVVSGESGAGKTWTSRCLMKFYAVVATSPASWESHKIAERIEQRILNSNPVMEAFGNACTLRNNNSSRFGKFIQLQLNRAQQMTGAAVQTYLLEKTRVACQASSERNFHIFYQICKGASEDERLQWHLPEGAAFSWLPNPERSLEEDCFEVTREAMLHLGIDTPTQNNIFKVRRKATPLKFGRDDGQPFA
+PTM	Methylation:222,546,838;Phosphorylation:353,497,498,513,593,596,685,687,799,963;SUMOylation:103,118;Ubiquitylation:101,103,118,163,198,222,520,546,548,576,578,597,599,742,814,830,838,923

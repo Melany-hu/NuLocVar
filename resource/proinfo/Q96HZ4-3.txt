@@ -1,0 +1,25 @@
+UniprotID	Q96HZ4-3
+Accession	Q96HZ4;A8KAP6;B8ZZA9;Q53SN9;Q8N2J2;Q96T93;Q9P2S3
+EntryName	HES6_HUMAN
+ProteinName	Transcription cofactor HES-6 (C-HAIRY1) (Class B basic helix-loop-helix protein 41) (bHLHb41) (Hairy and enhancer of split 6)
+GeneName	HES6 BHLHB41
+Length	222
+Function	Does not bind DNA itself but suppresses both HES1-mediated N box-dependent transcriptional repression and binding of HES1 to E box sequences. Also suppresses HES1-mediated inhibition of the heterodimer formed by ASCL1/MASH1 and TCF3/E47, allowing ASCL1 and TCF3 to up-regulate transcription in its presence. Promotes cell differentiation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPPAAPGRDRVGREDEDGWETRGDRKARKPLVEKKRRARINESLQELRLLLAGAEAKLENAEVLELTVRRVQGVLRGRAREREQLQAEASERFAAGYIQCMHEVHTFVSTCQAIDATVAAELLNHLLESMPLREGSSFQDLLGDALAGPPRAPGRSGWPAGGAPGSPIPSPPGPGDDLCSDLEEAPEAELSQAPAEGPDLVPAALGSLTTAQIARSVWRPW
+PTM	Methylation:35

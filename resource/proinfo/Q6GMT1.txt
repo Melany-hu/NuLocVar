@@ -1,0 +1,25 @@
+UniprotID	Q6GMT1
+Accession	Q6GMT1
+EntryName	Q6GMT1_HUMAN
+ProteinName	Opsin 3
+GeneName	OPN3 hCG_1989351
+Length	142
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSGNRSGGHGYWDGGGAAGAEGPAPAGTLSPAPLFSPGTYERLALLLGSIGLLGVGNNLLVLVLYYKFQRLRTPTHLLLVNISLSDLLVSLFGVTFTFVSCLRNGWVWDTVGCVWDGFSGSLFASLCGRSSDNSSDQDFKI
+PTM	

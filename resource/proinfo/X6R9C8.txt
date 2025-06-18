@@ -1,0 +1,25 @@
+UniprotID	X6R9C8
+Accession	X6R9C8
+EntryName	X6R9C8_HUMAN
+ProteinName	Centromere protein P (HCG1643604)
+GeneName	CENPP hCG_1643604
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEKYPDAVYLSEGPSSCSMGIRSASRPGFELVIVWRIQIDEDGKVFPKLDLLTKVPQRALELDKNRAIETAPLSFRTLVGLLGIEAALESLIKSLCAEENN
+PTM	

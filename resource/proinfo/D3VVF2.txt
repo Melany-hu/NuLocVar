@@ -1,0 +1,25 @@
+UniprotID	D3VVF2
+Accession	D3VVF2
+EntryName	D3VVF2_HUMAN
+ProteinName	ubiquitinyl hydrolase 1 (EC 3.4.19.12)
+GeneName	ATXN3
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESIFHEKQEGSLCAQHCLNNLLQGEYLALWNYPQLHISWMRRRGWEWLKEELLVKIIARFYSSLLEIWMTVVFSLLRL
+PTM	

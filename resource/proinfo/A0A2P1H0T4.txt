@@ -1,0 +1,25 @@
+UniprotID	A0A2P1H0T4
+Accession	A0A2P1H0T4
+EntryName	A0A2P1H0T4_HUMAN
+ProteinName	SCN1A
+GeneName	SCN1A
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NMYIAVILENFSVATEESAEPLSEDDFEMFYEVWEKFDPDATQFMEFAKLSDFADALDPPLLLPQPNKLQLIAMDLPMVSGDRIHCLDILFAFTKRVLGESGEMDALRIQME
+PTM	

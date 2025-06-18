@@ -1,0 +1,25 @@
+UniprotID	Q8N2I9-2
+Accession	Q8N2I9;D3DPS8;Q5VTK8;Q5VTK9;Q6ZMN1;Q8N2J8;Q8N3I6;Q96HN6;Q96I44;Q9BSA3;Q9H7H6
+EntryName	STK40_HUMAN
+ProteinName	Serine/threonine-protein kinase 40 (EC 2.7.11.1) (SINK-homologous serine/threonine-protein kinase) (Sugen kinase 495) (SgK495)
+GeneName	STK40 SGK495 SHIK
+Length	173
+Function	May be a negative regulator of NF-kappa-B and p53-mediated gene transcription.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLRQGNGTVSLGILATDPAPPTEPSSPTPCLRDGRVSENTVCLIRKLLVLDPQQRLAAADVLEALSAIIASWQSLSSLSGPLQVVPDIDDQMSNADSSQEAKVTEECSQYEFENYMRQQLLLAEEKSSIHDARSWVPKRQFGSAPPVRRLGHDAQPMTSLDTAILAQRYLRK
+PTM	Methylation:207,231,309;Phosphorylation:14,170;Ubiquitylation:231

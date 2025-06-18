@@ -1,0 +1,25 @@
+UniprotID	O95861-3
+Accession	O95861;A8K7C8;B4DPS5;B4DUS9;D3DTA9;Q8WVL5;Q9UGJ3
+EntryName	BPNT1_HUMAN
+ProteinName	3'(2'),5'-bisphosphate nucleotidase 1 (EC 3.1.3.7) (3'-phosphoadenosine 5'-phosphate phosphatase) (PAP phosphatase) (Bisphosphate 3'-nucleotidase 1) (BPntase 1) (HsPIP) (Inositol-polyphosphate 1-phosphatase) (EC 3.1.3.57)
+GeneName	BPNT1
+Length	253
+Function	Phosphatase that converts 3'(2')-phosphoadenosine 5'-phosphate (PAP) to AMP and inositol 1,4-bisphosphate (Ins(1,4)P2) to inositol 4-phosphate (PubMed:10675562). Is also able to hydrolyze adenosine 3'-phosphate 5'-phosphosulfate (PAPS) to adenosine 5'-phosphosulfate (APS) (By similarity). Probably prevents the toxic accumulation of PAP, a compound which inhibits a variety of proteins, including PAPS-utilizing enzymes such as sulfotransferases, and RNA processing enzymes. Could also play a role in inositol recycling and phosphoinositide metabolism. Is not active on 3'-AMP, inositol-1-phosphate and inositol-1,4,5-triphosphate (PubMed:10675562).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSICSSLARKFPKLTIIGEEDLPSEEVDQELIEDSQWEEILKQPCPSQYSAIKEEDLVVWVDPLDGTKEYTEGLLDNVTVLIGIAYEGKAIAGVINQPYYNYEAGPDAVLGRTIWGVLGLGAFGFQLKEVPAGKHIITTTRSHSNKLVTDCVAAMNPDAVLRVGGAGNKIIQLIEGKASAYVFASPGCKKWDTCAPEVILHAVGGKLTDIHGNVLQYHKDVKHMNSAGVLATLRNYDYYASRVPESIKNALVP
+PTM	Acetylation:49,189,244,245;Methylation:40,97,108,224,289;Phosphorylation:3,6,14,122,240,293;SUMOylation:108,277;Ubiquitylation:40,49,201,224,244

@@ -1,0 +1,25 @@
+UniprotID	H7C059
+Accession	H7C059
+EntryName	H7C059_HUMAN
+ProteinName	Autophagy related 7
+GeneName	ATG7
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PALCLPESLPLIQGPVGLDQRFSLKQIEALECAYDNLCQTEGVTALPYFLIKYDENMVLVSLLKHYSDFFQGQRTKITIGVYDPCNLAQYPGWPLRNFLVLAAHR
+PTM	

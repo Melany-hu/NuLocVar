@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KQW5
+Accession	A0A8I5KQW5
+EntryName	A0A8I5KQW5_HUMAN
+ProteinName	SH3 and PX domains 2A
+GeneName	SH3PXD2A
+Length	185
+Function	
+Subcellular Location	Cell projection; Podosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAYCVQDATVVDVEKRRNPSKHYVYIINVTWSDSTSQTIYRRYSKFFDLQMQLLDKFPIEGGQKDPKQRIIPFLPGKILFRRSHIRDVAVKRLKPIDEYCRALVRLPPHISQCDEVFRFFEARPEDVNPPKEDYGSSKRKSGADATAEPMILEQYVVVSNYKKQENSELSLQAGEVVDVIEKNE
+PTM	

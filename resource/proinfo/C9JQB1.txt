@@ -1,0 +1,25 @@
+UniprotID	C9JQB1
+Accession	C9JQB1
+EntryName	C9JQB1_HUMAN
+ProteinName	Nucleoside diphosphate kinase (EC 2.7.4.6)
+GeneName	NME6
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRELLWRKEDCQRFYREHEGRFFYQRLVEFMASGPIRAYILAHKDAIQLWRTLMGPTRVFRARHVAPDSIRGSFGLTDTRNTTHGSDSVVSASREIAAFFPDFSEQRWYEEEEPQLRCGPVCYSPEGGVHYVAGTGGLGPA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A087X236
+Accession	A0A087X236
+EntryName	A0A087X236_HUMAN
+ProteinName	Double zinc ribbon and ankyrin repeat domains 1
+GeneName	DZANK1
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDHKPLLTAISPGRGYWRRQLDHISAHLRCYAQNNPEFRALIAEPRMGKLISATVHEDGCEVSIRLNYSQVSNKNLYLNKAVNFSDHLLSSAAEGDGGLCGSRSSWVSDYSQSTSDTIEKIKRIKNFKTKTFQEKKEQL
+PTM	

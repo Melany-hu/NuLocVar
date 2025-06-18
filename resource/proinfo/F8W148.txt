@@ -1,0 +1,25 @@
+UniprotID	F8W148
+Accession	F8W148
+EntryName	F8W148_HUMAN
+ProteinName	Carbonic anhydrase (EC 4.2.1.1)
+GeneName	CA6
+Length	187
+Function	Reversible hydration of carbon dioxide. Its role in saliva is unknown.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRALVLLLSLFLLGGQAQHVSDWTYSEGALDEAHWPQHYPACGGQRQSPINLQRTKISLPSTMRMTVADGTVYIAQQMHFHWGGASSEISGSEHTVDGIRHVIEIHIVHYNSKYKSYDIAQDAPDGLAVLAAFVEVKNYPENTYYSNFISHLANIKYPGQRTTLTGLDVQDMLPRNLQHYYTYHGSL
+PTM	

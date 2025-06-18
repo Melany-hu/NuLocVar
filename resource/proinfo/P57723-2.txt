@@ -1,0 +1,25 @@
+UniprotID	P57723-2
+Accession	P57723;Q96AH7
+EntryName	PCBP4_HUMAN
+ProteinName	Poly(rC)-binding protein 4 (Alpha-CP4)
+GeneName	PCBP4
+Length	360
+Function	Single-stranded nucleic acid binding protein that binds preferentially to oligo dC.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGSDGGLEEEPELSITLTLRMLMHGKEVGSIIGKKGETVKRIREQSSARITISEGSCPERITTITGSTAAVFHAVSMIAFKLDEDLCAAPANGGNVSRPPVTLRLVIPASQCGSLIGKAGTKIKEIRESPPKGATIPYHPSLSLGTVLLSANQGFSVQGQYGAVTPAEVTKLQQLSSHAVPFATPSVVPGLDPGTQTSSQEFLVPNDLIGCVIGRQGSKISEIRQMSGAHIKIGNQAEGAGERHVTITGSPVSIALAQYLITACLETAKSTSGGTPSSAPADLPAPFSPPLTALPTAPPGLLGTPYAISLSNFIGLKPMPFLALPPASPGPPPGLAAYTAKMAAANGSKKAERQKFSPY
+PTM	Acetylation:35;Methylation:35,119,313,361;Phosphorylation:2,4,31,372,401;SUMOylation:35,119,276;Ubiquitylation:35,36,119,276

@@ -1,0 +1,25 @@
+UniprotID	Q15758-2
+Accession	Q15758;A8K9H5;B4DR77;B4DWS4;B7ZB81;D0EYG6;E9PC01;O95720;Q96RL9;Q9BWQ3;Q9UNP2
+EntryName	AAAT_HUMAN
+ProteinName	Neutral amino acid transporter B(0) (ATB(0)) (Baboon M7 virus receptor) (RD114/simian type D retrovirus receptor) (Sodium-dependent neutral amino acid transporter type 2) (Solute carrier family 1 member 5)
+GeneName	SLC1A5 ASCT2 M7V1 RDR RDRC
+Length	339
+Function	Sodium-coupled antiporter of neutral amino acids. In a tri-substrate transport cycle, exchanges neutral amino acids between the extracellular and intracellular compartments, coupled to the inward cotransport of at least one sodium ion (PubMed:17094966, PubMed:23756778, PubMed:26492990, PubMed:29872227, PubMed:34741534, PubMed:8702519). The preferred substrate is the essential amino acid L-glutamine, a precursor for biosynthesis of proteins, nucleotides and amine sugars as well as an alternative fuel for mitochondrial oxidative phosphorylation. Exchanges L-glutamine with other neutral amino acids such as L-serine, L-threonine and L-asparagine in a bidirectional way. Provides L-glutamine to proliferating stem and activated cells driving the metabolic switch toward cell differentiation (PubMed:23756778, PubMed:24953180). The transport cycle is usually pH-independent, with the exception of L-glutamate. Transports extracellular L-glutamate coupled to the cotransport of one proton and one sodium ion in exchange for intracellular L-glutamine counter-ion. May provide for L-glutamate uptake in glial cells regulating glutamine/glutamate cycle in the nervous system (PubMed:32733894). Can transport D-amino acids. Mediates D-serine release from the retinal glia potentially affecting NMDA receptor function in retinal neurons (PubMed:17094966). Displays sodium- and amino acid-dependent but uncoupled channel-like anion conductance with a preference SCN(-) >> NO3(-) > I(-) > Cl(-) (By similarity). Through binding of the fusogenic protein syncytin-1/ERVW-1 may mediate trophoblasts syncytialization, the spontaneous fusion of their plasma membranes, an essential process in placental development (PubMed:10708449, PubMed:23492904).
+Subcellular Location	Cell membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSTTYEERNITGTRVKVPVGQEVEGMNILGLVVFAIVFGVALRKLGPEGELLIRFFNSFNEATMVLVSWIMWYAPVGIMFLVAGKIVEMEDVGLLFARLGKYILCCLLGHAIHGLLVLPLIYFLFTRKNPYRFLWGIVTPLATAFGTSSSSATLPLMMKCVEENNGVAKHISRFILPIGATVNMDGAALFQCVAAVFIAQLSQQSLDFVKIITILVTATASSVGAAGIPAGGVLTLAIILEAVNLPVDHISLILAVDWLVDRSCTVLNVEGDALGAGLLQNYVDRTESRSTEPELIQVKSELPLDPLPVPTEEGNPLLKHYRGPAGDATVASEKESVM
+PTM	Acetylation:372,537;Glycosylation:212;Methylation:288,522,525;Phosphorylation:9,18,27,183,194,198,489,491,493,494,503,514,524,532,535,539;SUMOylation:10,372,502,522;Ubiquitylation:10,247,372,502,522,537

@@ -1,0 +1,25 @@
+UniprotID	Q8TAX9-2
+Accession	Q8TAX9;B4DKK7;Q7Z377;Q8WY76;Q9NX71;Q9P163
+EntryName	GSDMB_HUMAN
+ProteinName	Gasdermin-B (Gasdermin-like protein) [Cleaved into: Gasdermin-B, N-terminal (GSDMB-NT) (p30); Gasdermin-B, C-terminal (GSDMB-CT) (p16)]
+GeneName	GSDMB GSDML PP4052 PRO2521
+Length	394
+Function	Precursor of a pore-forming protein that acts as a downstream mediator of granzyme-mediated cell death (PubMed:32299851). This form constitutes the precursor of the pore-forming protein: upon cleavage, the released N-terminal moiety (Gasdermin-B, N-terminal) binds to membranes and forms pores, triggering pyroptosis (PubMed:32299851). Also acts as a regulator of epithelial cell repair independently of programmed cell death: translocates to the plasma membrane and promotes epithelial maintenance and repair by regulating PTK2/FAK-mediated phosphorylation of PDGFA (PubMed:35021065).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSVFEEITRIVVKEMDAGGDMIAVRSLVDADRFRCFHLVGEKRTFFGCRHYTTGLTLMDILDTDGDKWLDELDSGLQGQKAEFQILDNVDSTGELIVRLPKEITISGSFQGFHHQKIKISENRISQQYLATLENRKLKRELPFSFRSINTRENLYLVTETLETVKEETLKSDRQYKFWSQISQGHLSYKHKGQREVTIPPNRVLSYRVKQLVFPNKETMRKSLGSEDSRNMKEKLEDMESVLKDLTEEKRKDVLNSLAKCLGKEDIRQDLEQRVSEVLISGELHMEDPDKPLLSSLFNAAGVLVEARAKAILDFLDALLELSEEQQFVAEALEKGTLPLLKDQVKSVMEQNWDELASSPPDMDYDPEARILCALYVVVSILLELAEGPTSVSS
+PTM	Methylation:14,81,171,352;Phosphorylation:64,145,206,264,274;SUMOylation:252

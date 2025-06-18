@@ -1,0 +1,25 @@
+UniprotID	Q9C093-3
+Accession	Q9C093;Q2TAC9;Q96LL6;Q9H5C7;Q9H5Q7
+EntryName	SPEF2_HUMAN
+ProteinName	Sperm flagellar protein 2 (Protein KPL2)
+GeneName	SPEF2 KIAA1770 KPL2
+Length	514
+Function	Required for correct axoneme development in spermatozoa. Important for normal development of the manchette and sperm head morphology. Essential for male fertility. Plays a role in localization of the intraflagellar transport protein IFT20 to the manchette, suggesting function as an adapter for dynein-mediated protein transport during spermatogenesis (PubMed:31048344, PubMed:31151990, PubMed:31278745). Also plays a role in bone growth where it seems to be required for normal osteoblast differentiation (By similarity).
+Subcellular Location	Cell projection; Cilium; Flagellum; Cytoplasm; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	307...312
+validnes_region	
+nesbase_region	
+Sequence	MSEILCQWLNKELKVSRTVSPKSFAKAFSSGYLLGEVLHKFELQDDFSEFLDSRVSSAKLNNFSRLEPTLNLLGVQFDQNVAHGIITEKPGVATKLLYQLYIALQKKKKSGLTGVEMQTMQRLTNLRLQNMKSDTFQERLRHMIPRQTDFNLMRITYRFQEKYKHVKEDLAHLHFEKLERFQKLKEEQRCFDIEKQYLNRRRQNEIMAKIQAAIIQIPKPASNRTLKALEAQKMMKKKKEAEDVADEIKKFEALIKKDLQAKESASKTSLDTAGQTTTDLLNTYSDDEYIKKIQKRLEEDAFAREQREKRRRKLLMDQLIAHEAQEEAYREEQLINRLMRQSQQERRIAVQLMHVRHEKEVLWQNRIFREKQHEERRLKDFQDALDREAALAKQAKIDFEEQFLKEKRFHDQIAVERAQARYEKHYSVCAEILDQIVDLSTKVADYRMLTNNLIPYKLMHDWKELFFNAKPIYEQASVKTLPANPSREQLTELEKRDLLDTNDYEEYKVPTDMK
+PTM	Methylation:89,95,106,195,249,256,262,495,567,630,679,695,860,884,969,1043,1072,1339,1371,1560,1566,1726,1776;Phosphorylation:57,264,486,491,543,550,674,676,937,939,979,1044,1220,1471,1720,1723;SUMOylation:132;Ubiquitylation:59,393,1232

@@ -1,0 +1,25 @@
+UniprotID	H0YLI5
+Accession	H0YLI5
+EntryName	H0YLI5_HUMAN
+ProteinName	Coiled-coil domain containing 32
+GeneName	CCDC32 hCG_1999239
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKMFESADSTATRSGQDLWAEICSCLPNPEQEDGANNAFSDSFVDSCPEGEGQREVADFAVQPAVKPWAPLQDSEVYLASLEKKLRRIKGLNQEVTSKDMLRTLAQAKKECWDRFLQEKLASEFFVDGLDSDERPCNSRTPGSSSFSEDGAWDSHQCAEQRWRRTFPAQQSSW
+PTM	

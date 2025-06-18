@@ -1,0 +1,25 @@
+UniprotID	Q9P2X0-2
+Accession	Q9P2X0;Q5SR62;Q5SR63;Q9BXN4;Q9BXN5
+EntryName	DPM3_HUMAN
+ProteinName	Dolichol-phosphate mannosyltransferase subunit 3 (Dolichol-phosphate mannose synthase subunit 3) (DPM synthase subunit 3) (Dolichyl-phosphate beta-D-mannosyltransferase subunit 3) (Mannose-P-dolichol synthase subunit 3) (MPD synthase subunit 3) (Prostin-1)
+GeneName	DPM3
+Length	122
+Function	Stabilizer subunit of the dolichol-phosphate mannose (DPM) synthase complex; tethers catalytic subunit DPM1 to the endoplasmic reticulum.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSVGGLRLSLVRFSFLLLRGALLPSLAVTMTKLAQWLWGLAILGSTWVALTTGALGLELPLSCQEVLWPLPAYLLVSAGCYALGTVGYRVATFHDCEDAARELQSQIQEARADLARRGLRF
+PTM	Glycosylation:63

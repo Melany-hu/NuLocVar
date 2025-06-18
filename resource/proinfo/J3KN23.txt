@@ -1,0 +1,25 @@
+UniprotID	J3KN23
+Accession	J3KN23
+EntryName	J3KN23_HUMAN
+ProteinName	Lin-7 homolog A, crumbs cell polarity complex component
+GeneName	LIN7A
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKPSVTSAPTADMATLTVVQPLTLDRDVARAIELLEKLQESGEVPVHKLQSLKKVLQSEFCTAIREVYQYMHETITVNGCPEFRARATAKVFSCVHCKRI
+PTM	

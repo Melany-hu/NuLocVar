@@ -1,0 +1,25 @@
+UniprotID	Q9H190-3
+Accession	Q9H190;O95892;Q5W0X1;Q9BZ42;Q9H567;Q9NRY8
+EntryName	SDCB2_HUMAN
+ProteinName	Syntenin-2 (Similar to TACIP18) (SITAC) (Syndecan-binding protein 2)
+GeneName	SDCBP2 SITAC18
+Length	207
+Function	Binds phosphatidylinositol 4,5-bisphosphate (PIP2). May play a role in the organization of nuclear PIP2, cell division and cell survival (PubMed:15961997).
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus; Nucleus; Nucleoplasm; Cell membrane; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAPVTGYSLGVRRAEIKPGVREIHLCKDERGKTGLRLRKVDQGLFVQLVQANTPASLVGLRFGDQLLQIDGRDCAGWSSHKAHQVVKKASGDKIVVVVRDRPFQRTVTMHKDSMGHVGFVIKKGKIVSLVKGSSAARNGLLTNHYVCEVDGQNVIGLKDKKIMEILATAGNVVTLTIIPSVIYEHMVKKLPPVLLHHTMDHSIPDA
+PTM	Methylation:12,208,244;Phosphorylation:7,24,91,176

@@ -1,0 +1,25 @@
+UniprotID	Q96BT7-4
+Accession	Q96BT7;B1Q2M0;B4DEF6;Q8N989
+EntryName	ALKB8_HUMAN
+ProteinName	tRNA (carboxymethyluridine(34)-5-O)-methyltransferase ALKBH8 (EC 2.1.1.229) (Alkylated DNA repair protein alkB homolog 8) (Alpha-ketoglutarate-dependent dioxygenase ALKBH8) (S-adenosyl-L-methionine-dependent tRNA methyltransferase ALKBH8)
+GeneName	ALKBH8 ABH8
+Length	667
+Function	Catalyzes the methylation of 5-carboxymethyl uridine to 5-methylcarboxymethyl uridine at the wobble position of the anticodon loop in tRNA via its methyltransferase domain (PubMed:20123966, PubMed:20308323, PubMed:31079898). Catalyzes the last step in the formation of 5-methylcarboxymethyl uridine at the wobble position of the anticodon loop in target tRNA (PubMed:20123966, PubMed:20308323). Has a preference for tRNA(Arg) and tRNA(Glu), and does not bind tRNA(Lys) (PubMed:20308323). Binds tRNA and catalyzes the iron and alpha-ketoglutarate dependent hydroxylation of 5-methylcarboxymethyl uridine at the wobble position of the anticodon loop in tRNA via its dioxygenase domain, giving rise to 5-(S)-methoxycarbonylhydroxymethyluridine; has a preference for tRNA(Gly) (PubMed:21285950). Required for normal survival after DNA damage (PubMed:20308323). May inhibit apoptosis and promote cell survival and angiogenesis (PubMed:19293182).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	213...217
+validnes_region	
+nesbase_region	
+Sequence	MFAMDSNHQSNYKLSKTEKKFLRKQIKAKHTLLRHEGIETVSYATQSLVVANGGLGNGVSRNQLLPVLEKCGLVDALLMPPNKPYSFARYRTTEESKRAYVTLNGKEVVDDLGQKITLYLNFVEKVQWKELRPQALPPGLMVVEEIISSEEEKMLLESVDWTEDTDNQNSQKSLKHRRVKHFGYEFHYENNNVDKDKPLSGGLPDICESFLEKWLRKGYIKHKPDQMTINQYEPGQGIPAHIDTHSAFEDEIVSLSLGSEIVMDFKHPDGIAVPVMLPRRSLLVMTGESRYLWTHGITCRKFDTVQASESLKSGIITSDVGDLTLSKRGLRTSFTFRKVRQTPCNCSYPLVCDSQRKETPPSFPESDKEASRLEQEYVHQVYEEIAGHFSSTRHTPWPHIVEFLKALPSGSIVADIGCGNGKYLGINKELYMIGCDRSQNLVDICRERQFQAFVCDALAVPVRSGSCDACISIAVIHHFATAERRVAALQEIVRLLRPGGKALIYVWAMEQEYNKQKSKYLRGNRNSQGKKEEMNSDTSVQRSLVEQMRDMGSRDSASSVPRINDSQEGGCNSRQVSNSKLPVHVNRTSFYSQDVLVPWHLKGNPDKGKPVEPFGPIGSQDPSPVFHRYYHVFREGELEGACRTVSDVRILQSYYDQGNWCVILQKA
+PTM	Methylation:402;Phosphorylation:57,93,314,315,420,556,563,570;SUMOylation:10

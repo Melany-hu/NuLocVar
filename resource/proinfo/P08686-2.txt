@@ -1,0 +1,25 @@
+UniprotID	P08686-2
+Accession	P08686;A2BHY6;P04033;Q01204;Q08AG8;Q16749;Q16806;Q16874;Q5ST44;Q96NU8
+EntryName	CP21A_HUMAN
+ProteinName	Steroid 21-hydroxylase (EC 1.14.14.16) (21-OHase) (Cytochrome P-450c21) (Cytochrome P450 21) (Cytochrome P450 XXI) (Cytochrome P450-C21) (Cytochrome P450-C21B)
+GeneName	CYP21A2 CYP21 CYP21B
+Length	465
+Function	A cytochrome P450 monooxygenase that plays a major role in adrenal steroidogenesis. Catalyzes the hydroxylation at C-21 of progesterone and 17alpha-hydroxyprogesterone to respectively form 11-deoxycorticosterone and 11-deoxycortisol, intermediate metabolites in the biosynthetic pathway of mineralocorticoids and glucocorticoids (PubMed:10602386, PubMed:16984992, PubMed:22014889, PubMed:25855791, PubMed:27721825). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase) (PubMed:25855791).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLGLLLLLPLLAGARLLWNWWKLRSLHLPPLAPGFLHLLQPDLPIYLLGLTQKFGPIYRLHLGLQDKLVSRNYPDLSLGDYSLLWKAHKKLTRSALLLGIRDSMEPVVEQLTQEFCERMRAQPGTPVAIEEEFSLLTCSIICYLTFGDKIKDDNLMPAYYKCIQEVLKTWSHWSIQIVDVIPFLRFFPNPGLRRLKQAIEKRDHIVEMQLRQHKESLVAGQWRDMMDYMLQGVAQPSMEEGSGQLLEGHVHMAAVDLLIGGTETTANTLSWAVVFLLHHPEIQQRLQEELDHELGPGASSSRVPYKDRARLPLLNATIAEVLRLRPVVPLALPHRTTRPSSISGYDIPEGTVIIPNLQGAHLDETVWERPHEFWPDRFLEPGKNSRALAFGCGARVCLGEPLARLELFVVLTRLLQAFTLLPSGDALPSLQPLPHCSVILKMQPFQVRLQPRGMGAHSPGQSQ
+PTM	Acetylation:232;Methylation:54,102,199,232,472;Phosphorylation:190,191;Ubiquitylation:102,120

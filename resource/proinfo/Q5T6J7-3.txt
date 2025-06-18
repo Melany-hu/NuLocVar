@@ -1,0 +1,25 @@
+UniprotID	Q5T6J7-3
+Accession	Q5T6J7;A5PLN6;Q5T6J6
+EntryName	GNTK_HUMAN
+ProteinName	Probable gluconokinase (EC 2.7.1.12) (Gluconate kinase)
+GeneName	IDNK C9orf103
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKGIPLNDQDRIPWLCNLHDILLRDVASGQRVVLACSALKKTYRDILTQGKDGVALKCEESGKEAKQAEMQLLVVHLSGSFEVISGRLLKREGHFMPPELLQSQFETLEPPAAPENFIQISVDKNVSEIIATIMETLKMK
+PTM	Methylation:87,104;Phosphorylation:108

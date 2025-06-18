@@ -1,0 +1,25 @@
+UniprotID	H0YDD2
+Accession	H0YDD2
+EntryName	H0YDD2_HUMAN
+ProteinName	Endosome-lysosome associated apoptosis and autophagy regulator 1
+GeneName	ELAPOR1
+Length	82
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ILLTVLTCYFWKKNQKLEYKYSKLVMNATLKDCDLPAADSCAIMEGEDVEDDLIFTSKKSLFGKIKSFTSKVSGSSPLGAES
+PTM	

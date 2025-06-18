@@ -1,0 +1,25 @@
+UniprotID	Q5T277
+Accession	Q5T277
+EntryName	Q5T277_HUMAN
+ProteinName	cysteine-S-conjugate beta-lyase (EC 4.4.1.13)
+GeneName	KYAT1
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AMAKQLQARRLDGIDYNPWVEFVKLASEHDVVNLGQGFPDFPPPDFAVEAFQHAVSGDFMLNQYTKTFVSLCYPGWSAMVRSWSTAALTLPVSSGPPTSASGVTGTTGWSQSWLESSFFDPKKKKIIWGYPPLTKILASFFGELLGQEIDPLRNVLVTV
+PTM	

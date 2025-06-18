@@ -1,0 +1,25 @@
+UniprotID	A6NC86-4
+Accession	A6NC86;B7Z457;O95053
+EntryName	PINLY_HUMAN
+ProteinName	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein
+GeneName	PINLYP
+Length	116
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPKDHMVTSSFCCQSDGCNSAFLSVPLTNLTENGLMCPACTASFRDKCMGPMTHCTGKENHCVSLSGHVQAGIFKPRFAMRGCATESMCFTKPGAEVPTGTNVLFLHHIECTHSP
+PTM	Methylation:59,134

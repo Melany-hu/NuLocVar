@@ -1,0 +1,25 @@
+UniprotID	H7C380
+Accession	H7C380
+EntryName	H7C380_HUMAN
+ProteinName	TBC1 domain family member 1
+GeneName	TBC1D1
+Length	226
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SLSSTLSNTSKEPSVCEKEALPISESSFKLLGSSEDLSSDSESHLPEEPAPLSPQQAFRRRANTLSHFPIECQEPPQPARGSPGVSQRKLMRYHSVSTETPHERKDFESKANHLGDSGGTPVKTRRHSWRQQIFLRVATPQKACDSSSRYEEPHCGSPSLACTEDYSELGELPPRSPLEPVCEDGPFGPPPEEKKRTSRELRELWQKAILQQILLLRMEKENQKLQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YAT5
+Accession	H0YAT5
+EntryName	H0YAT5_HUMAN
+ProteinName	Mitoferrin-1 (Mitochondrial iron transporter 1) (Solute carrier family 25 member 37)
+GeneName	SLC25A37
+Length	153
+Function	Mitochondrial iron transporter that specifically mediates iron uptake in developing erythroid cells, thereby playing an essential role in heme biosynthesis.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DSRDGGGGKDATGSEDYENLPTSASVSTHMTAGAMAGILEHSVMYPVDSVKTRMQSLSPDPKAQYTSIYGALKKIMRTEGFWRPLRGVNVMIMGAGPAHAMYFACYENMKRTLNDVFHHQGNSHLANGIAGSMATLLHDAVMNPAEVHPLHHL
+PTM	

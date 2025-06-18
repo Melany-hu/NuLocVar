@@ -1,0 +1,25 @@
+UniprotID	O95998-4
+Accession	O95998;B3KUZ0;B7WPK4;O95993;O96027;Q9NZA9;Q9UBR7
+EntryName	I18BP_HUMAN
+ProteinName	Interleukin-18-binding protein (IL-18BP) (Tadekinig-alfa)
+GeneName	IL18BP
+Length	163
+Function	Isoform A binds to IL-18 and inhibits its activity. Functions as an inhibitor of the early TH1 cytokine response.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMRHNWTPDLSPLWVLLLCAHVVTLLVRATPVSQTTTAATASVRSTKDPCPSQPPVFPAAKQCPALEVTWPEVEVPLNGTLSLSCVACSRFPNFSILYWLGNGSFIEHLPGRLWEGSTSRERGSTGWAEGNLAPHPRSPALQPQQSTAAGLRLSTGPAAAQP
+PTM	Glycosylation:147

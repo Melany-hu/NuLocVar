@@ -1,0 +1,25 @@
+UniprotID	Q9UJU2-7
+Accession	Q9UJU2;B4DG38;B7Z8E2;E9PDK3;Q3ZCU4;Q9HAZ0
+EntryName	LEF1_HUMAN
+ProteinName	Lymphoid enhancer-binding factor 1 (LEF-1) (T cell-specific transcription factor 1-alpha) (TCF1-alpha)
+GeneName	LEF1
+Length	303
+Function	Transcription factor that binds DNA in a sequence-specific manner (PubMed:2010090). Participates in the Wnt signaling pathway (By similarity). Activates transcription of target genes in the presence of CTNNB1 and EP300 (By similarity). PIAG antagonizes both Wnt-dependent and Wnt-independent activation by LEF1 (By similarity). TLE1, TLE2, TLE3 and TLE4 repress transactivation mediated by LEF1 and CTNNB1 (PubMed:11266540). Regulates T-cell receptor alpha enhancer function (PubMed:19653274). Required for IL17A expressing gamma-delta T-cell maturation and development, via binding to regulator loci of BLK to modulate expression (By similarity). Acts as a positive regulator of odontoblast differentiation during mesenchymal tooth germ formation, expression is repressed during the bell stage by MSX1-mediated inhibition of CTNNB1 signaling (By similarity). May play a role in hair cell differentiation and follicle morphogenesis (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	278...284;276...281
+validnes_region	
+nesbase_region	
+Sequence	MAEVARQAQTSQEPYHDKAREHPDDGKHPDGGLYNKGPSYSSYSGYIMMPNMNNDPYMSNGSLSPPIPRTSNKVPVVQPSHAVHPLTPLITYSDEHFSPGSHPSHIPSDVNSKQGMSRHPPAPDIPTFYPLSPGGVGQITPPLGWFSHHMIPGPPGPHTTGIPHPAIVTPQVKQEHPHTDSDLMHVKPQHEQRKEQEPKRPHIKKPLNAFMLYMKEMRANVVAECTLKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSARDNYGKKKKRKREKLQESASGTGPRMTAAYI
+PTM	Acetylation:86,382;Methylation:226,241;Phosphorylation:42,55,79,83,200,208,349;Ubiquitylation:347

@@ -1,0 +1,25 @@
+UniprotID	Q6UXI9-3
+Accession	Q6UXI9;A6NFT9;A8K1W4;B4DIT4;B4DYK3;B4E2H7;B4E3H2;D6RCA1;E9PCK8;E9PCQ1;E9PE64;E9PF04
+EntryName	NPNT_HUMAN
+ProteinName	Nephronectin (Preosteoblast EGF-like repeat protein with MAM domain) (Protein EGFL6-like)
+GeneName	NPNT EGFL6L POEM UNQ295/PRO334
+Length	595
+Function	Functional ligand of integrin alpha-8/beta-1 in kidney development. Regulates the expression of GDNF with integrin alpha-8/beta-1 which is essential for kidney development. May also play a role in the development and function of various tissues, regulating cell adhesion, spreading and survival through the binding of several integrins (By similarity).
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFLLALVLVSSLYLQAAAEFDGRWPRQIVSSIGLCRYGGRIDCCWGWARQSWGQCQPVCQPRCKHGECIGPNKCKCHPGYAGKTCNQDEHIPAPLDQGSEQPLFQPLDHQATSLPSRDLNECGLKPRPCKHRCMNTYGSYKCYCLNGYMLMPDGSCSSALTCSMANCQYGCDVVKGQIRCQCPSPGLQLAPDGRTCVDVDECATGRASCPRFRQCVNTFGSYICKCHKGFDLMYIGGKYQCHDIDECSLGQYQCSSFARCYNIRGSYKCKCKEGYQGDGLTCVYIPKVMIEPSGPIHVPKGNGTILKGDTGNNNWIPDVGSTWWPPKTPYIPPIITNRPTSKPTTRPTPKPTPIPTPPPPPPLPTELRTPLPPTTPERPTTGLTTIAPAASTPPGGITVDNRVQTDPQKPRGDVFIPRQPSNDLFEIFEIERGVSADDEAKDDPGVLVHSCNFDHGLCGWIREKDNDLHWEPIRDPAGGQYLTVSAAKAPGGKAARLVLPLGRLMHSGDLCLSFRHKVTGLHSGTLQVFVRKHGAHGAALWGRNGGHGWRQTQITLRGADIKSVVFKGEKRRGHTGEIGLDDVSLKKGHCSEER
+PTM	Glycosylation:376;Methylation:146,209,278,459,533;Phosphorylation:31,32,38,336,523,526

@@ -1,0 +1,25 @@
+UniprotID	O14920-2
+Accession	O14920;B4DZ30;B4E0U4;O75327
+EntryName	IKKB_HUMAN
+ProteinName	Inhibitor of nuclear factor kappa-B kinase subunit beta (I-kappa-B-kinase beta) (IKK-B) (IKK-beta) (IkBKB) (EC 2.7.11.10) (I-kappa-B kinase 2) (IKK-2) (IKK2) (Nuclear factor NF-kappa-B inhibitor kinase beta) (NFKBIKB) (Serine/threonine protein kinase IKBKB) (EC 2.7.11.1)
+GeneName	IKBKB IKKB
+Length	754
+Function	Serine kinase that plays an essential role in the NF-kappa-B signaling pathway which is activated by multiple stimuli such as inflammatory cytokines, bacterial or viral products, DNA damages or other cellular stresses (PubMed:20434986, PubMed:20797629, PubMed:21138416, PubMed:30337470, PubMed:9346484). Acts as a part of the canonical IKK complex in the conventional pathway of NF-kappa-B activation (PubMed:9346484). Phosphorylates inhibitors of NF-kappa-B on 2 critical serine residues (PubMed:20434986, PubMed:20797629, PubMed:21138416, PubMed:9346484). These modifications allow polyubiquitination of the inhibitors and subsequent degradation by the proteasome (PubMed:20434986, PubMed:20797629, PubMed:21138416, PubMed:9346484). In turn, free NF-kappa-B is translocated into the nucleus and activates the transcription of hundreds of genes involved in immune response, growth control, or protection against apoptosis (PubMed:20434986, PubMed:20797629, PubMed:21138416, PubMed:9346484). In addition to the NF-kappa-B inhibitors, phosphorylates several other components of the signaling pathway including NEMO/IKBKG, NF-kappa-B subunits RELA and NFKB1, as well as IKK-related kinases TBK1 and IKBKE (PubMed:11297557, PubMed:14673179, PubMed:20410276, PubMed:21138416). IKK-related kinase phosphorylations may prevent the overproduction of inflammatory mediators since they exert a negative regulation on canonical IKKs (PubMed:11297557, PubMed:20410276, PubMed:21138416). Phosphorylates FOXO3, mediating the TNF-dependent inactivation of this pro-apoptotic transcription factor (PubMed:15084260). Also phosphorylates other substrates including NAA10, NCOA3, BCL10 and IRS1 (PubMed:17213322, PubMed:19716809). Phosphorylates RIPK1 at 'Ser-25' which represses its kinase activity and consequently prevents TNF-mediated RIPK1-dependent cell death (By similarity). Phosphorylates the C-terminus of IRF5, stimulating IRF5 homodimerization and translocation into the nucleus (PubMed:25326418). Following bacterial lipopolysaccharide (LPS)-induced TLR4 endocytosis, phosphorylates STAT1 at 'Thr-749' which restricts interferon signaling and anti-inflammatory responses and promotes innate inflammatory responses (PubMed:38621137). IKBKB-mediated phosphorylation of STAT1 at 'Thr-749' promotes binding of STAT1 to the ARID5A promoter, resulting in transcriptional activation of ARID5A and subsequent ARID5A-mediated stabilization of IL6 (PubMed:32209697). It also promotes binding of STAT1 to the IL12B promoter and activation of IL12B transcription (PubMed:32209697).
+Subcellular Location	Cytoplasm; Nucleus; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	566...571
+validnes_region	
+nesbase_region	
+Sequence	MFSGGCHSPGFGRPSPAFPAPGSPPPAPRPCRQETGEQIAIKQCRQELSPRNRERWCLEIQIMRRLTHPNVVAARDVPEGMQNLAPNDLPLLAMEYCQGGDLRKYLNQFENCCGLREGAILTLLSDIASALRYLHENRIIHRDLKPENIVLQQGEQRLIHKIIDLGYAKELDQGSLCTSFVGTLQYLAPELLEQQKYTVTVDYWSFGTLAFECITGFRPFLPNWQPVQWHSKVRQKSEVDIVVSEDLNGTVKFSSSLPYPNNLNSVLAERLEKWLQLMLMWHPRQRGTDPTYGPNGCFKALDDILNLKLVHILNMVTGTIHTYPVTEDESLQSLKARIQQDTGIPEEDQELLQEAGLALIPDKPATQCISDGKLNEGHTLDMDLVFLFDNSKITYETQISPRPQPESVSCILQEPKRNLAFFQLRKVWGQVWHSIQTLKEDCNRLQQGQRAAMMNLLRNNSCLSKMKNSMASMSQQLKAKLDFFKTSIQIDLEKYSEQTEFGITSDKLLLAWREMEQAVELCGRENEVKLLVERMMALQTDIVDLQRSPMGRKQGGTLDDLEEQARELYRRLREKPRDQRTEGDSQEMVRLLLQAIQSFEKKVRVIYTQLSKTVVCKQKALELLPKVEEVVSLMNEDEKTVVRLQEKRQKELWNLLKIACSKVRGPVSGSPDSMNASRLSQPGQLMSQPSTASNSLPEPAKKSEELVAEAHNLCTLLENAIQDTVREQDQSFTALDWSWLQTEEEEHSCLEQAS
+PTM	Acetylation:147,467,603;Methylation:44,310,375,441,480,496,509,531,649,659,703;Phosphorylation:4,177,180,181,246,258,261,294,372,402,507,550,600,634,670,672,675,679,682,695,697,705,717;SUMOylation:659;Ubiquitylation:301,619,703

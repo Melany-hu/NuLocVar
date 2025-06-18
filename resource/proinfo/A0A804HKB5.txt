@@ -1,0 +1,25 @@
+UniprotID	A0A804HKB5
+Accession	A0A804HKB5
+EntryName	A0A804HKB5_HUMAN
+ProteinName	Hydroxysteroid 17-beta dehydrogenase 4
+GeneName	HSD17B4
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVILEAPHLLRRKEPETPGLSSRIGPSLCPGFCRKRSVSCCFQNLCNNPMEKIISQCRFFVSMNDLGGDFKGVGKGSLAADKVVEEIRRRGGKAVANYDSVEEGEKVVKTALDAFGRIDVVVNNAGYNPQSSFAGFIPSDTGSMGTHEETEVWKDYYDFISFRNIWQLWPGQL
+PTM	

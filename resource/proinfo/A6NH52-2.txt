@@ -1,0 +1,25 @@
+UniprotID	A6NH52-2
+Accession	A6NH52;B2RUV4;B7ZW18
+EntryName	TV23A_HUMAN
+ProteinName	Golgi apparatus membrane protein TVP23 homolog A
+GeneName	TVP23A FAM18A
+Length	188
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQALVDDTEDVSLDFGNEEELAFRKAKIRDRVSKLLASVILLPWPPKVLGLKNVTGRLLVGLRWWNQIDEDGKSHWIFEARKVSPNSIAATEAEARIFWLGLIICPMIWIVFFFSTLFSLKLKWLALVVAGISLQAANLYGYILCKMGGNSDIGKVTASFLSQTVFQTACPGDFQKPGLEGLEIHQH
+PTM	Methylation:147,181;Phosphorylation:145

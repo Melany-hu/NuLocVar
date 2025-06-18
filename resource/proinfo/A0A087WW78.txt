@@ -1,0 +1,25 @@
+UniprotID	A0A087WW78
+Accession	A0A087WW78
+EntryName	A0A087WW78_HUMAN
+ProteinName	G protein-coupled receptor 89B
+GeneName	GPR89B
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCPYTYMSYFLRNVTDTDILALERRLLQTMDMIISKKKRMAMARRTMFQKGEVHNKPSGFWGMIKSVTTSASGSETSLSLCAKWITPWHKTIP
+PTM	

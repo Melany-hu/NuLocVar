@@ -1,0 +1,25 @@
+UniprotID	P04629-2
+Accession	P04629;B2R6T5;B7ZM34;P08119;Q15655;Q15656;Q5D056;Q5VZS2;Q7Z5C3;Q9UIU7
+EntryName	NTRK1_HUMAN
+ProteinName	High affinity nerve growth factor receptor (EC 2.7.10.1) (Neurotrophic tyrosine kinase receptor type 1) (TRK1-transforming tyrosine kinase protein) (Tropomyosin-related kinase A) (Tyrosine kinase receptor) (Tyrosine kinase receptor A) (Trk-A) (gp140trk) (p140-TrkA)
+GeneName	NTRK1 MTC TRK TRKA
+Length	790
+Function	Receptor tyrosine kinase involved in the development and the maturation of the central and peripheral nervous systems through regulation of proliferation, differentiation and survival of sympathetic and nervous neurons. High affinity receptor for NGF which is its primary ligand (PubMed:1281417, PubMed:15488758, PubMed:17196528, PubMed:1849459, PubMed:1850821, PubMed:22649032, PubMed:27445338, PubMed:8325889). Can also bind and be activated by NTF3/neurotrophin-3. However, NTF3 only supports axonal extension through NTRK1 but has no effect on neuron survival (By similarity). Upon dimeric NGF ligand-binding, undergoes homodimerization, autophosphorylation and activation (PubMed:1281417). Recruits, phosphorylates and/or activates several downstream effectors including SHC1, FRS2, SH2B1, SH2B2 and PLCG1 that regulate distinct overlapping signaling cascades driving cell survival and differentiation. Through SHC1 and FRS2 activates a GRB2-Ras-MAPK cascade that regulates cell differentiation and survival. Through PLCG1 controls NF-Kappa-B activation and the transcription of genes involved in cell survival. Through SHC1 and SH2B1 controls a Ras-PI3 kinase-AKT1 signaling cascade that is also regulating survival. In absence of ligand and activation, may promote cell death, making the survival of neurons dependent on trophic factors.
+Subcellular Location	Cell membrane; Early endosome membrane; Late endosome membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRGGRRGQLGWHSWAAGPGSLLAWLILASAGAAPCPDACCPHGSSGLRCTRDGALDSLHHLPGAENLTELYIENQQHLQHLELRDLRGLGELRNLTIVKSGLRFVAPDAFHFTPRLSRLNLSFNALESLSWKTVQGLSLQELVLSGNPLHCSCALRWLQRWEEEGLGGVPEQKLQCHGQGPLAHMPNASCGVPTLKVQVPNASVDVGDDVLLRCQVEGRGLEQAGWILTELEQSATVMKSGGLPSLGLTLANVTSDLNRKNVTCWAENDVGRAEVSVQVNVSFPASVQLHTAVEMHHWCIPFSVDGQPAPSLRWLFNGSVLNETSFIFTEFLEPAANETVRHGCLRLNQPTHVNNGNYTLLAANPFGQASASIMAAFMDNPFEFNPEDPIPDTNSTSGDPVEKKDETPFGVSVAVGLAVFACLFLSTLLLVLNKCGRRNKFGINRPAVLAPEDGLAMSLHFMTLGGSSLSPTEGKGSGLQGHIIENPQYFSDACVHHIKRRDIVLKWELGEGAFGKVFLAECHNLLPEQDKMLVAVKALKEASESARQDFQREAELLTMLQHQHIVRFFGVCTEGRPLLMVFEYMRHGDLNRFLRSHGPDAKLLAGGEDVAPGPLGLGQLLAVASQVAAGMVYLAGLHFVHRDLATRNCLVGQGLVVKIGDFGMSRDIYSTDYYRVGGRTMLPIRWMPPESILYRKFTTESDVWSFGVVLWEIFTYGKQPWYQLSNTEAIDCITQGRELERPRACPPEVYAIMRGCWQREPQQRHSIKDVHARLQALAQAPPVYLDVLG
+PTM	Methylation:441,513,544,665;Phosphorylation:496,676,677,680,681

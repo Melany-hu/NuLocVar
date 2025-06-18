@@ -1,0 +1,25 @@
+UniprotID	Q96KB5-2
+Accession	Q96KB5;B4DX68;D3DST2;Q9NPD9;Q9NYL7;Q9NZK6
+EntryName	TOPK_HUMAN
+ProteinName	Lymphokine-activated killer T-cell-originated protein kinase (EC 2.7.12.2) (Cancer/testis antigen 84) (CT84) (MAPKK-like protein kinase) (Nori-3) (PDZ-binding kinase) (Spermatogenesis-related protein kinase) (SPK) (T-LAK cell-originated protein kinase)
+GeneName	PBK TOPK
+Length	333
+Function	Phosphorylates MAP kinase p38. Seems to be active only in mitosis. May also play a role in the activation of lymphoid cells. When phosphorylated, forms a complex with TP53, leading to TP53 destabilization and attenuation of G2/M checkpoint during doxorubicin-induced DNA damage.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGISNFKTPSKLSEKKKSVLCSTPTINIPASPFMQKLGFGTGVNVYLMKRSPRGLSHSPWAVKKINPICNDHYRSVYQKRLMDEAKILKSLHHPNIVGYRAFTEANDGSLCLAMEYGGEKSLNDLIEERYKASQDPFPAAIILKVALNMARGLKYLHQEKKLLHGDIKSSNVVIKGDFETIKICDVGVSLPLDENMTAPAFITILLVSVTDPEACYIGTEPWKPKEAVEENGVITDKADIFAFGLTLWEMMTLSIPHINLSNDDDDEDKTFDESDFDDEAYYAALGTRPPINMEELDESYQKVIELFSVCTNEDPKDRPSAAHIVEALETDV
+PTM	Acetylation:8,12,16,64,87;Methylation:8,64,145,176,183,227,292,306;Phosphorylation:5,9,11,14,19,23,24,26,32,47,52,57,59,74,76,91,264,301;SUMOylation:8,12,18,50,64,65,87,90,132,155,162,169,176,183,213,215;Ubiquitylation:8,12,18,64,65,80,87,90,132,155,162,169,176,213

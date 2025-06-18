@@ -1,0 +1,25 @@
+UniprotID	P62937-2
+Accession	P62937;A8K220;P05092;Q3KQW3;Q567Q0;Q6IBU5;Q96IX3;Q9BRU4;Q9BTY9;Q9UC61
+EntryName	PPIA_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Cyclophilin A) (Cyclosporin A-binding protein) (Rotamase A) [Cleaved into: Peptidyl-prolyl cis-trans isomerase A, N-terminally processed]
+GeneName	PPIA CYPA
+Length	105
+Function	Catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides (PubMed:2001362, PubMed:20676357, PubMed:21245143, PubMed:21593166, PubMed:25678563). Exerts a strong chemotactic effect on leukocytes partly through activation of one of its membrane receptors BSG/CD147, initiating a signaling cascade that culminates in MAPK/ERK activation (PubMed:11943775, PubMed:21245143). Activates endothelial cells (ECs) in a pro-inflammatory manner by stimulating activation of NF-kappa-B and ERK, JNK and p38 MAP-kinases and by inducing expression of adhesion molecules including SELE and VCAM1 (PubMed:15130913). Induces apoptosis in ECs by promoting the FOXO1-dependent expression of CCL2 and BCL2L11 which are involved in EC chemotaxis and apoptosis (PubMed:31063815). In response to oxidative stress, initiates proapoptotic and antiapoptotic signaling in ECs via activation of NF-kappa-B and AKT1 and up-regulation of antiapoptotic protein BCL2 (PubMed:23180369). Negatively regulates MAP3K5/ASK1 kinase activity, autophosphorylation and oxidative stress-induced apoptosis mediated by MAP3K5/ASK1 (PubMed:26095851). Necessary for the assembly of TARDBP in heterogeneous nuclear ribonucleoprotein (hnRNP) complexes and regulates TARDBP binding to RNA UG repeats and TARDBP-dependent expression of HDAC6, ATG7 and VCP which are involved in clearance of protein aggregates (PubMed:25678563). Plays an important role in platelet activation and aggregation (By similarity). Regulates calcium mobilization and integrin ITGA2B:ITGB3 bidirectional signaling via increased ROS production as well as by facilitating the interaction between integrin and the cell cytoskeleton (By similarity). Binds heparan sulfate glycosaminoglycans (PubMed:11943775). Inhibits replication of influenza A virus (IAV) (PubMed:19207730). Inhibits ITCH/AIP4-mediated ubiquitination of matrix protein 1 (M1) of IAV by impairing the interaction of ITCH/AIP4 with M1, followed by the suppression of the nuclear export of M1, and finally reduction of the replication of IAV (PubMed:22347431, PubMed:30328013).
+Subcellular Location	Cytoplasm; Secreted; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCQGGDFTRHNGTGGKSIYGEKFEDENFILKHTGPGILSMANAGPNTNGSQFFICTAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE
+PTM	Acetylation:28,31,44,49,76,82,91,118,125,131,155;Glycosylation:108;Methylation:28,31,44,49,76,82,91,118,125,131,133;Phosphorylation:5,21,32,40,48,51,68,73,77,79,93,99,107,110,147;SUMOylation:28,31,44,49,76,82,91,118,125,131,133,155;Ubiquitylation:28,31,44,49,76,82,91,118,125,131,133,155

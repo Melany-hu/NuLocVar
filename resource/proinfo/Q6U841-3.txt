@@ -1,0 +1,25 @@
+UniprotID	Q6U841-3
+Accession	Q6U841;B7Z1R0;B7Z2J0;B7ZLC5;B9EG69;F8W675;Q4ZFX6;Q8TCP2;Q9HCQ6
+EntryName	S4A10_HUMAN
+ProteinName	Sodium-driven chloride bicarbonate exchanger (Solute carrier family 4 member 10)
+GeneName	SLC4A10 NBCN2 NCBE
+Length	1099
+Function	Sodium/bicarbonate cotransporter which plays an important role in regulating intracellular pH (PubMed:18319254). Has been shown to act as a sodium/bicarbonate cotransporter in exchange for intracellular chloride (By similarity). Has also been shown to act as a sodium/biocarbonate cotransporter which does not couple net influx of bicarbonate to net efflux of chloride, with the observed chloride efflux being due to chloride self-exchange (PubMed:18319254). Controls neuronal pH and may contribute to the secretion of cerebrospinal fluid (By similarity). Acting on presynaptic intracellular pH, it promotes GABA release, reduces the excitability of CA1 pyramidal neurons, and modulates short-term synaptic plasticity (By similarity). Required in retinal cells to maintain normal pH which is necessary for normal vision (By similarity). In the kidney, likely to mediate bicarbonate reclamation in the apical membrane of the proximal tubules (By similarity).
+Subcellular Location	Basolateral cell membrane; Apical cell membrane; Cell projection; Dendrite; Cell projection; Axon; Perikaryon; Presynapse; Postsynapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQSLGVSGNRKVMQSGTCEPFQSLSHQRNDEEAVVDRGGTRSILKTHFEKEDLEGHRTLFIGVHVPLGGRKSHRRHRHRGHKHRKRDRERDSGLEDGRESPSFDTPSQRVQFILGTEDDDEEHIPHDLFTELDEICWREGEDAEWRETARWLKFEEDVEDGGERWSKPYVATLSLHSLFELRSCILNGTVLLDMHANTLEEIADMVLDQQVSSGQLNEDVRHRVHEALMKQHHHQNQKKLTNRIPIVRSFADIGKKQSEPNSMDKNAGQVVSPQSAPACVENKNDVSRENSTVDFSKVDLHFMKKIPPGAEASNILVGELEFLDRTVVAFVRLSPAVLLQGLAEVPIPTRFLFILLGPLGKGQQYHEIGRSIATLMTDEVFHDVAYKAKDRNDLVSGIDEFLDQVTVLPPGEWDPSIRIEPPKNVPSQEKRKIPAVPNGTAAHGEAEPHGGHSGPELQRTGRIFGGLILDIKRKAPYFWSDFRDAFSLQCLASFLFLYCACMSPVITFGGLLGEATEGRISAIESLFGASMTGIAYSLFGGQPLTILGSTGPVLVFEKILFKFCKEYGLSYLSLRASIGLWTATLCIILVATDASSLVCYITRFTEEAFASLICIIFIYEALEKLFELSEAYPINMHNDLELLTQYSCNCVEPHNPSNGTLKEWRESNISASDIIWENLTVSECKSLHGEYVGRACGHDHPYVPDVLFWSVILFFSTVTLSATLKQFKTSRYFPTKVRSIVSDFAVFLTILCMVLIDYAIGIPSPKLQVPSVFKPTRDDRGWFVTPLGPNPWWTVIAAIIPALLCTILIFMDQQITAVIINRKEHKLKKGCGYHLDLLMVAVMLGVCSIMGLPWFVAATVLSITHVNSLKLESECSAPGEQPKFLGIREQRVTGLMIFILMGSSVFMTSILKFIPMPVLYGVFLYMGASSLKGIQFFDRIKLFWMPAKHQPDFIYLRHVPLRKVHLFTIIQMSCLGLLWIIKVSRAAIVFPMMVLALVFVRKLMDLLFTKRELSWLDDLMPESKKKKLEDAEKEEEQSMLAMEDEGTVQLPLEGHYRDDPSVINISDEMSKTALWRNLLITADNSKDKESSFPSKSSPS
+PTM	Methylation:34,491,581,643,681,931,951,1001,1043;Phosphorylation:31,89,91,158,238,247,261,264,276,280,281,928,939,1116,1118;Ubiquitylation:142,244,406,902,1105

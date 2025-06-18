@@ -1,0 +1,25 @@
+UniprotID	H3BN53
+Accession	H3BN53
+EntryName	H3BN53_HUMAN
+ProteinName	NDRG family member 4
+GeneName	NDRG4
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLQELRFPEEKPLLRGQDATELEHDIETPYGLLHVVIRGSPKGNRPAILTYHDVGLNHKLCFNTFFNFEDMQEITKHFVVCHVDAPGQQVGASQFPQGYQFPSMEQLAAMLPSVVQHFGFKYVIGIGVGAGAYVLAKFAVSLP
+PTM	

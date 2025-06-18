@@ -1,0 +1,25 @@
+UniprotID	Q17RY6-2
+Accession	Q17RY6;G3V116;O15227;Q9BVD7
+EntryName	LY6K_HUMAN
+ProteinName	Lymphocyte antigen 6K (Ly-6K)
+GeneName	LY6K CO16
+Length	105
+Function	Required for sperm migration into the oviduct and male fertility by controlling binding of sperm to zona pellucida (By similarity). May play a role in cell growth (PubMed:18089789).
+Subcellular Location	Secreted; Cytoplasm; Cell membrane; Cytoplasmic vesicle; Secretory vesicle; Acrosome; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLALLLVVALPRVWTDANLTARQRDPEDSQRTDEGDNRVWCHVCERENTFECQNPRRCKWTEPYCVIAAVTVLRWLCSDGETQARGEAVSPGRAHALLLPQVL
+PTM	Glycosylation:129;SUMOylation:96,100;Ubiquitylation:61,73,83,96,100,114

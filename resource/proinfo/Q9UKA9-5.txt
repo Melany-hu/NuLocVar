@@ -1,0 +1,25 @@
+UniprotID	Q9UKA9-5
+Accession	Q9UKA9;Q8N0Z1;Q8N160;Q8NFB0;Q8NFB1;Q969N9;Q96Q76
+EntryName	PTBP2_HUMAN
+ProteinName	Polypyrimidine tract-binding protein 2 (Neural polypyrimidine tract-binding protein) (Neurally-enriched homolog of PTB) (PTB-like protein)
+GeneName	PTBP2 NPTB PTB PTBLP
+Length	356
+Function	RNA-binding protein which binds to intronic polypyrimidine tracts and mediates negative regulation of exons splicing. May antagonize in a tissue-specific manner the ability of NOVA1 to activate exon selection. In addition to its function in pre-mRNA splicing, plays also a role in the regulation of translation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGIVTEVAVGVKRGSDELLSGSVLSSPNSNMSSMVVTANGNDSKKFKGEDKMDGAPSRVLHIRKLPGEVTETEVIALGLPFGKVTNILMLKGKNQAFLELATEEAAITMVNYYSAVTPHLRNQPIYIQYSNHKELKTDNTLNQRAQAVLQAVTAVQTANTPLSGTTVSESAVTPAQSPVLRIIIDNMYYPVTLDVLHQIFSKFGAVLKIITFTKNNQFQALLQYGDPVNAQQAKLALDGQNIYNACCTLRIDFSKLVNLNVKYNNDKSRDYTRPDLPSGDGQPALDPAIAAAFAKETSLLAVPGALSPLAIPNAAAAAAAAAAGRVGMPGVSAGGNTVLLVSNLNEEVFMEMCSV
+PTM	Acetylation:92,215,369,528;Methylation:92,209,256,263,296;Phosphorylation:26,27,58,71,73,86,127,161,212,299,308,434,529,530;SUMOylation:256;Ubiquitylation:92,137,215,483,528

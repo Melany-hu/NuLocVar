@@ -1,0 +1,25 @@
+UniprotID	Q99808-2
+Accession	Q99808;B3KQV7;B3KQY5;Q5T9W9;Q9UJY2
+EntryName	S29A1_HUMAN
+ProteinName	Equilibrative nucleoside transporter 1 (hENT1) (Equilibrative nitrobenzylmercaptopurine riboside-sensitive nucleoside transporter) (Equilibrative NBMPR-sensitive nucleoside transporter) (es nucleoside transporter) (Nucleoside transporter, es-type) (Solute carrier family 29 member 1)
+GeneName	SLC29A1 ENT1
+Length	535
+Function	Uniporter involved in the facilitative transport of nucleosides and nucleobases, and contributes to maintaining their cellular homeostasis (PubMed:10722669, PubMed:10755314, PubMed:12527552, PubMed:14759222, PubMed:15037197, PubMed:17379602, PubMed:21795683, PubMed:26406980, PubMed:27995448, PubMed:35790189, PubMed:8986748). Functions as a Na(+)-independent transporter (PubMed:8986748). Involved in the transport of nucleosides such as adenosine, guanosine, inosine, uridine, thymidine and cytidine (PubMed:10722669, PubMed:10755314, PubMed:12527552, PubMed:14759222, PubMed:15037197, PubMed:17379602, PubMed:26406980, PubMed:8986748). Also transports purine nucleobases (hypoxanthine, adenine, guanine) and pyrimidine nucleobases (thymine, uracil) (PubMed:21795683, PubMed:27995448). Mediates basolateral nucleoside uptake into Sertoli cells, thereby regulating the transport of nucleosides in testis across the blood-testis barrier (By similarity). Regulates inosine levels in brown adipocytes tissues (BAT) and extracellular inosine levels, which controls BAT-dependent energy expenditure (PubMed:35790189).
+Subcellular Location	Basolateral cell membrane; Apical cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRERTRGPQAWEFPSPTKSGCSLQSLSRDLRELREGEKPEDQAETEESWQGLARKTPGKACAPEGGSCQPGKTENTITMTTSHQPQDRYKAVWLIFFMLGLGTLLPWNFFMTATQYFTNRLDMSQNVSLVTAELSKDAQASAAPAAPLPERNSLSAIFNNVMTLCAMLPLLLFTYLNSFLHQRIPQSVRILGSLVAILLVFLITAILVKVQLDALPFFVITMIKIVLINSFGAILQGSLFGLAGLLPASYTAPIMSGQGLAGFFASVAMICAIASGSELSESAFGYFITACAVIILTIICYLGLPRLEFYRYYQQLKLEGPGEQETKLDLISKGEEPRAGKEESGVSVSNSQPTNESHSIKAILKNISVLAFSVCFIFTITIGMFPAVTVEVKSSIAGSSTWERYFIPVSCFLTFNIFDWLGRSLTAVFMWPGKDSRWLPSLVLARLVFVPLLLLCNIKPRRYLTVVFEHDAWFIFFMAAFAFSNGYLASLCMCFGPKKVKPAEAETAGAIMAFFLCLGLALGAVFSFLFRAIV
+PTM	Glycosylation:48,63;Methylation:131,239,255,287,315;Phosphorylation:143,254,266,269,271,273,276,281,348;SUMOylation:249,255,263;Ubiquitylation:239,249,255,263,283,356,381

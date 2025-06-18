@@ -1,0 +1,25 @@
+UniprotID	Q9UL31
+Accession	Q9UL31
+EntryName	Q9UL31_HUMAN
+ProteinName	GTP-binding protein RAB2B
+GeneName	RAB2B
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GKSCLLLQFTDKRFQPVHDLTIGVEFGARMVNIDGKQIKLQIW
+PTM	

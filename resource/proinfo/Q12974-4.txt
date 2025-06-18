@@ -1,0 +1,25 @@
+UniprotID	Q12974-4
+Accession	Q12974;A8K9I8;B4DM39;D3DPP0;E9PGJ6;O00649;Q15197;Q15259;Q15260;Q15261;R4GN50
+EntryName	TP4A2_HUMAN
+ProteinName	Protein tyrosine phosphatase type IVA 2 (EC 3.1.3.48) (HU-PP-1) (OV-1) (PTP(CAAXII)) (Protein-tyrosine phosphatase 4a2) (Protein-tyrosine phosphatase of regenerating liver 2) (PRL-2)
+GeneName	PTP4A2 PRL2 PTPCAAX2 BM-008
+Length	142
+Function	Protein tyrosine phosphatase which stimulates progression from G1 into S phase during mitosis. Promotes tumors. Inhibits geranylgeranyl transferase type II activity by blocking the association between RABGGTA and RABGGTB.
+Subcellular Location	Cell membrane; Early endosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRPAPVEISYENMRFLITHNPTNATLNKFTEELKKYGVTTLVRVCDATYDKAPVEKEGIHVLDWPFDDGAPPPNQIVDDWLNLLKTKFREEPGCCVAVHCVAGLGRKRRGAFNSKQLLYLEKYRPKMRLRFRDTNGHCCVQ
+PTM	Acetylation:148;Methylation:35,86;Phosphorylation:26,140;SUMOylation:52;Ubiquitylation:29,36,141,148

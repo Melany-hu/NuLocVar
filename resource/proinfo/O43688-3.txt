@@ -1,0 +1,25 @@
+UniprotID	O43688-3
+Accession	O43688;A6NLV0;E9PAY8
+EntryName	PLPP2_HUMAN
+ProteinName	Phospholipid phosphatase 2 (EC 3.1.3.-) (EC 3.1.3.4) (Lipid phosphate phosphohydrolase 2) (PAP2-gamma) (PAP2-G) (Phosphatidate phosphohydrolase type 2c) (Phosphatidic acid phosphatase 2c) (PAP-2c) (PAP2c)
+GeneName	PLPP2 LPP2 PPAP2C
+Length	232
+Function	Magnesium-independent phospholipid phosphatase that catalyzes the dephosphorylation of a variety of glycerolipid and sphingolipid phosphate esters including phosphatidate/PA, lysophosphatidate/LPA, sphingosine 1-phosphate/S1P and ceramide 1-phosphate/C1P (PubMed:16467304, PubMed:9607309, PubMed:9705349). Has no apparent extracellular phosphatase activity and therefore most probably acts intracellularly (PubMed:16467304). Also acts on N-oleoyl ethanolamine phosphate/N-(9Z-octadecenoyl)-ethanolamine phosphate, a potential physiological compound (PubMed:9607309). Through dephosphorylation of these bioactive lipid mediators produces new bioactive compounds and may regulate signal transduction in different cellular processes (Probable). Indirectly regulates, for instance, cell cycle G1/S phase transition through its phospholipid phosphatase activity (By similarity).
+Subcellular Location	Membrane; Cell membrane; Early endosome membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVTITATVILVSAGEAYLVYTDRLYSRSDFNNYVAAVYKVLGTFLFGAAVSQSLTDLAKYMIGRLRPNFLAVCDPDWSRVNCSVYVQLEKVCRGNPADVTEARLSFYSGHSSFGMYCMVFLALYVQARLCWKWARLLRPTVQFFLVAFALYVGYTRVSDYKHHWSDVLVGLLQGALVAALTVCYISDFFKARPPQHCLKEEELERKPSLSLTLTLGEADHNHYGYPHSSS
+PTM	Glycosylation:139;Methylation:117,148;Phosphorylation:266,268,270,281,283;Ubiquitylation:148,257,264

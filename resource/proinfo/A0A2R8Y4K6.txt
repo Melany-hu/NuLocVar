@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y4K6
+Accession	A0A2R8Y4K6
+EntryName	A0A2R8Y4K6_HUMAN
+ProteinName	Cyclin H
+GeneName	CCNH
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLKQKLERCHSAELALNVITKKRKGYEDDDYVSKKSKHEEIAKLWHQSKVHTYH
+PTM	

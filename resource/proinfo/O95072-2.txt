@@ -1,0 +1,25 @@
+UniprotID	O95072-2
+Accession	O95072;A8K576;D3DS62;Q658V5;Q6IA92;Q8WUV8;Q9BTF2;Q9NVQ9
+EntryName	REC8_HUMAN
+ProteinName	Meiotic recombination protein REC8 homolog (Cohesin Rec8p)
+GeneName	REC8 REC8L1
+Length	530
+Function	Required during meiosis for separation of sister chromatids and homologous chromosomes. Proteolytic cleavage of REC8 on chromosome arms by separin during anaphase I allows for homologous chromosome separation in meiosis I and cleavage of REC8 on centromeres during anaphase II allows for sister chromatid separation in meiosis II (By similarity).
+Subcellular Location	Nucleus; Chromosome; Chromosome; Centromere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	279...284;282...288
+validnes_region	
+nesbase_region	
+Sequence	MFYYPNVLQRHTGCFATIWLAATRGSRLVKREYLRVNVVKTCEEILNYVLVRVQPPQPGLPRPRFSLYLSAQLQIGVIRVYSQQCQYLVEDIQHILERLHRAQLQIRIDMETELPSLLLPNHLAMMETLEDAPDPFFGMMSVDPRLPSPFDIPQIRHLLEAAIPERVEEIPPEVPTEPREPERIPVTVLPPEAITILEAEPIRMLEIEGERELPEVSRRELDLLIAEEEEAILLEIPRLPPPAPAEVEGIGEALGPEELRLTGWEPGALLMRRPPVPPPPRRRRRRRLLFWDKETQISPEKFQEQLQTRAHCWECPMVQPPERTIRGPAELFRTPTLSGWLPPELLGLWTHCAQPPPKALRRELPEEAAAEEERRKIEVPSEIEVPREALEPSVPLMVSLEISLEAAEEEKSRISLIPPEERWAWPEVEAPEAPALPVVPELPEVPMEMPLVLPPELELLSLEAVHRAVALELQANREPDFSSLVSPLSPRRMAARVFYLLLVLSAQQILHVKQEKPYGRLLIQPGPRFH
+PTM	Methylation:40,428;Phosphorylation:17,23,286,503

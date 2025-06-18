@@ -1,0 +1,25 @@
+UniprotID	Q12809-6
+Accession	Q12809;A5H1P7;C4PFH9;D3DX04;O75418;O75680;Q708S9;Q9BT72;Q9BUT7;Q9H3P0
+EntryName	KCNH2_HUMAN
+ProteinName	Voltage-gated inwardly rectifying potassium channel KCNH2 (Eag homolog) (Ether-a-go-go-related gene potassium channel 1) (ERG-1) (Eag-related protein 1) (Ether-a-go-go-related protein 1) (H-ERG) (hERG-1) (hERG1) (Potassium voltage-gated channel subfamily H member 2) (Voltage-gated potassium channel subunit Kv11.1)
+GeneName	KCNH2 ERG ERG1 HERG
+Length	548
+Function	Pore-forming (alpha) subunit of voltage-gated inwardly rectifying potassium channel (PubMed:10219239, PubMed:10753933, PubMed:10790218, PubMed:10837251, PubMed:11997281, PubMed:12063277, PubMed:18559421, PubMed:22314138, PubMed:22359612, PubMed:26363003, PubMed:27916661, PubMed:9230439, PubMed:9351446, PubMed:9765245). Channel properties are modulated by cAMP and subunit assembly (PubMed:10837251). Characterized by unusual gating kinetics by producing relatively small outward currents during membrane depolarization and large inward currents during subsequent repolarization which reflect a rapid inactivation during depolarization and quick recovery from inactivation but slow deactivation (closing) during repolarization (PubMed:10219239, PubMed:10753933, PubMed:10790218, PubMed:10837251, PubMed:11997281, PubMed:12063277, PubMed:18559421, PubMed:22314138, PubMed:22359612, PubMed:26363003, PubMed:27916661, PubMed:9230439, PubMed:9351446, PubMed:9765245). Forms a stable complex with KCNE1 or KCNE2, and that this heteromultimerization regulates inward rectifier potassium channel activity (PubMed:10219239, PubMed:9230439).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPAGKASRTGALRPRAQKGRVRRAVRISSLVAQEVLSLGADVLPEYKLQAPRIHRWTILHYSPFKAVWDWLILLLVIYTAVFTPYSAAFLLKETEEGPPATECGYACQPLAVVDLIVDIMFIVDILINFRTTYVNANEEVVSHPGRIAVHYFKGWFLIDMVAAIPFDLLIFGSGSEELIGLLKTARLLRLVRVARKLDRYSEYGAAVLFLLMCTFALIAHWLACIWYAIGNMEQPHMDSRIGWLHNLGDQIGKPYNSSGLGGPSIKDKYVTALYFTFSSLTSVGFGNVSPNTNSEKIFSICVMLIGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWSYTNGIDMNAVLKGFPECLQADICLHLNRSLLQHCKPFRGATKGCLRALAMKFKTTHAPPGDTLVHAGDLLTALYFISRGSIEILRGDVVVAILGMGWGAGTGLEMPSAASRGASLLNMQSLGLWTWDCLQGHWAPLIHLNSGPPSGAMERSPTWGEAAELWGSHILLPFRIRHKQTLFASLK
+PTM	Glycosylation:369;Methylation:21,116,344,434,525,718,801;Phosphorylation:140,239,243,250,261,263,264,266,278,283,284,304,305,318,319,320,322,351,354,747,777,780,783,871,874,875,882,959,1009,1019,1021,1028,1029,1040,1137,1155;Ubiquitylation:166,389,741,897

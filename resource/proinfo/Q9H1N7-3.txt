@@ -1,0 +1,25 @@
+UniprotID	Q9H1N7-3
+Accession	Q9H1N7;A6NKX9;Q1XH11;Q6MZJ0;Q7Z662;Q9Y308
+EntryName	S35B3_HUMAN
+ProteinName	Adenosine 3'-phospho 5'-phosphosulfate transporter 2 (3'-phosphoadenosine 5'-phosphosulfate transporter) (PAPS transporter 2) (Solute carrier family 35 member B3)
+GeneName	SLC35B3 C6orf196 PAPST2 CGI-19
+Length	283
+Function	Probably functions as a 3'-phosphoadenylyl sulfate:adenosine 3',5'-bisphosphate antiporter at the Golgi membranes. Mediates the transport from the cytosol into the lumen of the Golgi of 3'-phosphoadenylyl sulfate/adenosine 3'-phospho 5'-phosphosulfate (PAPS), a universal sulfuryl donor for sulfation events that take place in that compartment.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLTQQAKDIQNITVQETNKNNSESIECSKITMDLKFNNSRKYISITVPSKTQTMSPHIKSVDDVVVLGMNLSKFNKLTQFFICVAGVFVFYLIYGYLQELIFSVEGFKSCGWYLTLVQFAFYSIFGLIELQLIQDKRRRIPGKTYMIIAFLTVGTMGLSNTSLGYLNYPTQVIFKCCKLIPVMLGGVFIQGKRYNVADVSAAICMSLGLIWFTLADSTTAPNFNLTGVVLISLALCADAVIGNVQEKAMKLHNASNSEMNITTSSYSGVFIFPNKLKIPLVL
+PTM	Glycosylation:386;Methylation:137,248,319;Phosphorylation:43,266

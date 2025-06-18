@@ -1,0 +1,25 @@
+UniprotID	P02679-2
+Accession	P02679;A8K057;P04469;P04470;Q53Y18;Q96A14;Q96KJ3;Q9UC62;Q9UC63;Q9UCF3
+EntryName	FIBG_HUMAN
+ProteinName	Fibrinogen gamma chain
+GeneName	FGG PRO2061
+Length	437
+Function	Together with fibrinogen alpha (FGA) and fibrinogen beta (FGB), polymerizes to form an insoluble fibrin matrix. Has a major function in hemostasis as one of the primary components of blood clots. In addition, functions during the early stages of wound repair to stabilize the lesion and guide cell migration during re-epithelialization. Was originally thought to be essential for platelet aggregation, based on in vitro studies using anticoagulated blood. However, subsequent studies have shown that it is not absolutely required for thrombus formation in vivo. Enhances expression of SELP in activated platelets via an ITGB3-dependent pathway. Maternal fibrinogen is essential for successful pregnancy. Fibrin deposition is also associated with infection, where it protects against IFNG-mediated hemorrhage. May also facilitate the antibacterial immune response via both innate and T-cell mediated pathways.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWSLHPRNLILYFYALLFLSSTCVAYVATRDNCCILDERFGSYCPTTCGIADFLSTYQTKVDKDLQSLEDILHQVENKTSEVKQLIKAIQLTYNPDESSKPNMIDAATLKSRKMLEEIMKYEASILTHDSSIRYLQEIYNSNNQKIVNLKEKVAQLEAQCQEPCKDTVQIHDITGKDCQDIANKGAKQSGLYFIKPLKANQQFLVYCEIDGSGNGWTVFQKRLDGSVDFKKNWIQYKEGFGHLSPTGTTEFWLGNEKIHLISTQSAIPYALRVELEDWNGRTSTADYAMFKVGPEADKYRLTYAYFAGGDAGDAFDGFDFGDDPSDKFFTSHNGMQFSTWDNDNDKFEGNCAEQDGSGWWMNKCHAGHLNGVYYQGGTYSKASTPNGYDNGIIWATWKTRWYSMKKTTMKIIPFNRLTIGEGQQHHLGGAKQAGDV
+PTM	Acetylation:114,151,196,231,232,299,411;Glycosylation:78;Methylation:88,151,222,258,432;Phosphorylation:68,93,94,99,446,448

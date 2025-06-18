@@ -1,0 +1,25 @@
+UniprotID	G3V2F7
+Accession	G3V2F7
+EntryName	G3V2F7_HUMAN
+ProteinName	Ubiquitin conjugating enzyme E2 V1
+GeneName	UBE2V1
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLTRWTGMIIGPPRTIYENRIYSLKIECGPKYPEAPPFVRFVTKINMNGVNSSNGVVDPRAISVLAKWQNSYSIKVVLQELRRLMMSKENMKLPQPPEGQCYSN
+PTM	

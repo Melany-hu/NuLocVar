@@ -1,0 +1,25 @@
+UniprotID	F5GZ97
+Accession	F5GZ97
+EntryName	F5GZ97_HUMAN
+ProteinName	WASH complex subunit 3 (Coiled-coil domain-containing protein 53)
+GeneName	WASHC3
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEDGLPLMGSGIDLTKVPAIQQKRTVAFLNQFVVHTVQFLNRFSTVCEEKLADLSLRIQQIETTLNILDAKLSSIPGLDDVTVEVSPLNVTSVTNGAHPEATSEQPQNSTQDSGLQESEVSAENILTVAKDPRYARYLKMVQVGVPVMAIRNKMISEGLDPDLLERPDAPVPDGESEKTVEESSDSESSFSD
+PTM	

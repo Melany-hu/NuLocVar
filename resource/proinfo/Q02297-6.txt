@@ -1,0 +1,25 @@
+UniprotID	Q02297-6
+Accession	Q02297;A5YAK4;A5YAK5;A8K1L2;B7Z4Z3;E9PHH4;O14667;P98202;Q02298;Q02299;Q07110;Q07111;Q12779;Q12780;Q12781;Q12782;Q12783;Q12784;Q15491;Q7RTV9;Q7RTW0;Q7RTW1;Q7RTW2;Q8NFN1;Q8NFN2;Q8NFN3;Q9UPE3
+EntryName	NRG1_HUMAN
+ProteinName	Pro-neuregulin-1, membrane-bound isoform (Pro-NRG1) [Cleaved into: Neuregulin-1 (Acetylcholine receptor-inducing activity) (ARIA) (Breast cancer cell differentiation factor p45) (Glial growth factor) (Heregulin) (HRG) (Neu differentiation factor) (Sensory and motor neuron-derived factor)]
+GeneName	NRG1 GGF HGL HRGA NDF SMDF
+Length	645
+Function	Direct ligand for ERBB3 and ERBB4 tyrosine kinase receptors. Concomitantly recruits ERBB1 and ERBB2 coreceptors, resulting in ligand-stimulated tyrosine phosphorylation and activation of the ERBB receptors. The multiple isoforms perform diverse functions such as inducing growth and differentiation of epithelial, glial, neuronal, and skeletal muscle cells; inducing expression of acetylcholine receptor in synaptic vesicles during the formation of the neuromuscular junction; stimulating lobuloalveolar budding and milk production in the mammary gland and inducing differentiation of mammary tumor cells; stimulating Schwann cell proliferation; implication in the development of the myocardium such as trabeculation of the developing heart. Isoform 10 may play a role in motor and sensory neuron development. Binds to ERBB4 (PubMed:10867024, PubMed:7902537). Binds to ERBB3 (PubMed:20682778). Acts as a ligand for integrins and binds (via EGF domain) to integrins ITGAV:ITGB3 or ITGA6:ITGB4. Its binding to integrins and subsequent ternary complex formation with integrins and ERRB3 are essential for NRG1-ERBB signaling. Induces the phosphorylation and activation of MAPK3/ERK1, MAPK1/ERK2 and AKT1 (PubMed:20682778). Ligand-dependent ERBB4 endocytosis is essential for the NRG1-mediated activation of these kinases in neurons (By similarity).
+Subcellular Location	Cell membrane; Secreted; Nucleus; Secreted; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSERKEGRGKGKGKKKERGSGKKPESAAGSQSPALPPRLKEMKSQESAAGSKLVLRCETSSEYSSLRFKWFKNGNELNRKNKPQNIKIQKKPGKSELRINKASLADSGEYMCKVISKLGNDSASANITIVESNEIITGMPASTEGAYVSSESPIRISVSTEGANTSSSTSTSTTGTSHLVKCAEKEKTFCVNGGECFMVKDLSNPSRYLCKCPNEFTGDRCQNYVMASFYKHLGIEFMEAEELYQKRVLTITGICIALLVVGIMCVVAYCKTKKQRKKLHDRLRQSLRSERNNMMNIANGPHHPNPPPENVQLVNQYVSKNVISSEHIVEREAETSFSTSHYTSTAHHSTTVTQTPSHSWSNGHTESILSESHSVIVMSSVENSRHSSPTGGPRGRLNGTGGPRECNSFLRHARETPDSYRDSPHSERYVSAMTTPARMSPVDFHTPSSPKSPPSEMSPPVSSMTVSMPSMAVSPFMEEERPLLLVTPPRLREKKFDHHPQQFSSFHHNPAHDSNSLPASPLRIVEDEEYETTQEYEPAQEPVKKLANSRRAKRTKPNGHIANRLEVDSNTSSQSSNSESETEDERVGEDTPFLGIQNPLAASLEATPAFRLADSRTNPAGRFSTQEEIQARLSSVIANQDPIAV
+PTM	Glycosylation:30;Methylation:181,234,476;Phosphorylation:32,65,206,239,281,319,382,383,403,429,430,435,441,443,444,511,515,619;SUMOylation:87

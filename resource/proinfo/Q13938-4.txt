@@ -1,0 +1,25 @@
+UniprotID	Q13938-4
+Accession	Q13938;A0A0X1KG78;K7EL21;Q3MJA7;Q8NF12;Q8WUZ3
+EntryName	CAYP1_HUMAN
+ProteinName	Calcyphosin (Calcyphosine)
+GeneName	CAPS
+Length	189
+Function	Calcium-binding protein. May play a role in cellular signaling events (Potential).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAVDATMEKLRAQCLSRGASGIQGLARFFRQLDRDGSRSLDADEFRQGLAKLGLVLDQAEAEGVCRKWDRNGSGTLDLEEFLRALRPPMSQAREAVIAAAFAKLDRSGDGVVTVDDLRGVYSGRAHPKVRSGEWTEDEVLRRFLDNFDSSEKDGQVTLAEFQDYYSGVSASMNTDEEFVAMMTSAWQL
+PTM	Acetylation:96;Methylation:190;Phosphorylation:107,126,160;Ubiquitylation:138

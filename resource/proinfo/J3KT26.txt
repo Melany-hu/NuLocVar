@@ -1,0 +1,25 @@
+UniprotID	J3KT26
+Accession	J3KT26
+EntryName	J3KT26_HUMAN
+ProteinName	DNA fragmentation factor subunit beta
+GeneName	DFFB
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIEKKRTIIPTLVEAIKEQDGREVDWEYFYGLLFTSENLKLVHIVCHKKTTHKLNCDPSRIYKPQTRLKRKQPVRKRQ
+PTM	

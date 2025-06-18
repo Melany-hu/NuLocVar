@@ -1,0 +1,25 @@
+UniprotID	H0YKV0
+Accession	H0YKV0
+EntryName	H0YKV0_HUMAN
+ProteinName	short-chain acyl-CoA dehydrogenase (EC 1.3.8.1) (Butyryl-CoA dehydrogenase)
+GeneName	IVD
+Length	145
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCINQLVRNGNEAQKEKYLPKLISGEYIGALAMSEPNAGSDVVSMKLKAEKKGNHYILNGNKFWITNGPDADVLIVYAKTDLAAVPASRGITAFIVEKGMPGFSTSKKLDKLGMRGSNTCELIFEDCKIPGSCKRSWTTPFPTCT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P48357-3
+Accession	P48357;Q13592;Q13593;Q13594;Q92919;Q92920;Q92921
+EntryName	LEPR_HUMAN
+ProteinName	Leptin receptor (LEP-R) (HuB219) (OB receptor) (OB-R) (CD antigen CD295)
+GeneName	LEPR DB OBR
+Length	958
+Function	Receptor for hormone LEP/leptin (Probable) (PubMed:22405007). On ligand binding, mediates LEP central and peripheral effects through the activation of different signaling pathways such as JAK2/STAT3 and MAPK cascade/FOS. In the hypothalamus, LEP acts as an appetite-regulating factor that induces a decrease in food intake and an increase in energy consumption by inducing anorexinogenic factors and suppressing orexigenic neuropeptides, also regulates bone mass and secretion of hypothalamo-pituitary-adrenal hormones (By similarity) (PubMed:9537324). In the periphery, increases basal metabolism, influences reproductive function, regulates pancreatic beta-cell function and insulin secretion, is pro-angiogenic and affects innate and adaptive immunity (PubMed:12504075, PubMed:25060689, PubMed:8805376). Control of energy homeostasis and melanocortin production (stimulation of POMC and full repression of AgRP transcription) is mediated by STAT3 signaling, whereas distinct signals regulate NPY and the control of fertility, growth and glucose homeostasis. Involved in the regulation of counter-regulatory response to hypoglycemia by inhibiting neurons of the parabrachial nucleus. Has a specific effect on T lymphocyte responses, differentially regulating the proliferation of naive and memory T -ells. Leptin increases Th1 and suppresses Th2 cytokine production (By similarity).
+Subcellular Location	Cell membrane; Basolateral cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MICQKFCVVLLHWEFIYVITAFNLSYPITPWRFKLSCMPPNSTYDYFLLPAGLSKNTSNSNGHYETAVEPKFNSSGTHFSNLSKTTFHCCFRSEQDRNCSLCADNIEGKTFVSTVNSLVFQQIDANWNIQCWLKGDLKLFICYVESLFKNLFRNYNYKVHLLYVLPEVLEDSPLVPQKGSFQMVHCNCSVHECCECLVPVPTAKLNDTLLMCLKITSGGVIFQSPLMSVQPINMVKPDPPLGLHMEITDDGNLKISWSSPPLVPFPLQYQVKYSENSTTVIREADKIVSATSLLVDSILPGSSYEVQVRGKRLDGPGIWSDWSTPRVFTTQDVIYFPPKILTSVGSNVSFHCIYKKENKIVPSKEIVWWMNLAEKIPQSQYDVVSDHVSKVTFFNLNETKPRGKFTYDAVYCCNEHECHHRYAELYVIDVNINISCETDGYLTKMTCRWSTSTIQSLAESTLQLRYHRSSLYCSDIPSIHPISEPKDCYLQSDGFYECIFQPIFLLSGYTMWIRINHSLGSLDSPPTCVLPDSVVKPLPPSSVKAEITINIGLLKISWEKPVFPENNLQFQIRYGLSGKEVQWKMYEVYDAKSKSVSLPVPDLCAVYAVQVRCKRLDGLGYWSNWSNPAYTVVMDIKVPMRGPEFWRIINGDTMKKEKNVTLLWKPLMKNDSLCSVQRYVINHHTSCNGTWSEDVGNHTKFTFLWTEQAHTVTVLAINSIGASVANFNLTFSWPMSKVNIVQSLSAYPLNSSCVIVSWILSPSDYKLMYFIIEWKNLNEDGEIKWLRISSSVKKYYIHDHFIPIEKYQFSLYPIFMEGVGKPKIINSFTQDDIEKHQSDAGLYVIVPVIISSSILLLGTLLISHQRMKKLFWEDVPNPKNCSWAQGLNFQKMLEGSMFVKSHHHSLISSTQGHKHCGRPQGPLHRKTRDLCSLVYLLTLPPLLSYDPAKSPSVRNTQE
+PTM	Glycosylation:23,73,81,187,276,397,670,688,697;Methylation:444,468,555,835,950,1062;Phosphorylation:146,470,863,882,946,1141,1147

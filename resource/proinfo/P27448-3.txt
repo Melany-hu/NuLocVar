@@ -1,0 +1,25 @@
+UniprotID	P27448-3
+Accession	P27448;A0A0A0MQR8;A0A0A0MST9;A0A0A0MT23;O60219;Q86TT8;Q8TB41;Q8WX83;Q96RG1;Q9UMY9;Q9UN34
+EntryName	MARK3_HUMAN
+ProteinName	MAP/microtubule affinity-regulating kinase 3 (EC 2.7.11.1) (C-TAK1) (cTAK1) (Cdc25C-associated protein kinase 1) (ELKL motif kinase 2) (EMK-2) (Protein kinase STK10) (Ser/Thr protein kinase PAR-1) (Par-1a) (Serine/threonine-protein kinase p78)
+GeneName	MARK3 CTAK1 EMK2
+Length	729
+Function	Serine/threonine-protein kinase (PubMed:16822840, PubMed:16980613, PubMed:23666762). Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU (PubMed:23666762). Phosphorylates CDC25C on 'Ser-216' (PubMed:12941695). Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus (PubMed:16980613). Regulates localization and activity of MITF by mediating its phosphorylation, promoting subsequent interaction between MITF and 14-3-3 and retention in the cytosol (PubMed:16822840). Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the kinase activity of STK3/MST2 toward LATS1 (PubMed:28087714). Phosphorylates PKP2 and KSR1 (PubMed:12941695).
+Subcellular Location	Cell membrane; Cell projection; Dendrite; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTRTPLPTVNERDTENHTSHGDGRQEVTSRTSRSGARCRNSIASCADEQPHIGNYRLLKTIGKGNFAKVKLARHILTGREVAIKIIDKTQLNPTSLQKLFREVRIMKILNHPNIVKLFEVIETEKTLYLIMEYASGGEVFDYLVAHGRMKEKEARSKFRQIVSAVQYCHQKRIVHRDLKAENLLLDADMNIKIADFGFSNEFTVGGKLDTFCGSPPYAAPELFQGKKYDGPEVDVWSLGVILYTLVSGSLPFDGQNLKELRERVLRGKYRIPFYMSTDCENLLKRFLVLNPIKRGTLEQIMKDRWINAGHEEDELKPFVEPELDISDQKRIDIMVGMGYSQEEIQESLSKMKYDEITATYLLLGRKSSELDASDSSSSSNLSLAKVRPSSDLNNSTGQSPHHKVQRSVSSSQKQRRYSDHAGPAIPSVVAYPKRSQTSTADSDLKEDGISSRKSSGSAVGGKGIAPASPMLGNASNPNKADIPERKKSSTVPSSNTASGGMTRRNTYVCSERTTADRHSVIQNGKENSTIPDQRTPVASTHSISSAATPDRIRFPRGTASRSTFHGQPRERRTATYNGPPASPSLSHEATPLSQTRSRGSTNLFSKLTSKLTRSRNVSAEQKDENKEAKPRSLRFTWSMKTTSSMDPGDMMREIRKVLDANNCDYEQRERFLLFCVHGDGHAENLVQWEMEVCKLPRLSLNGVRFKRISGTSIAFKNIASKIANELKL
+PTM	Acetylation:294;Methylation:89,117,227,264,285,303,317,599,607;Phosphorylation:42,45,56,61,78,157,211,215,218,354,361,369,374,376,377,378,379,380,383,390,391,396,397,400,418,419,428,436,438,439,440,443,455,456,469,476,489,490,491,494,499,507,508,514,515,520,529,536,540,541,543,545,546,549,563,564,574,576,577,583,585,587,591,594,596,598,601,602,606,609,610,613,618,627,638,639,643,657,724;SUMOylation:259,317;Ubiquitylation:60,64,89,99,172,180,227,294,303,446,607,611,647,681,741

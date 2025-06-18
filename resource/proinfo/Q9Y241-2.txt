@@ -1,0 +1,25 @@
+UniprotID	Q9Y241-2
+Accession	Q9Y241;Q9UFZ2
+EntryName	HIG1A_HUMAN
+ProteinName	HIG1 domain family member 1A, mitochondrial (Hypoxia-inducible gene 1 protein) (RCF1 homolog A) (RCF1a)
+GeneName	HIGD1A HIG1 HSPC010
+Length	107
+Function	Proposed subunit of cytochrome c oxidase (COX, complex IV), which is the terminal component of the mitochondrial respiratory chain that catalyzes the reduction of oxygen to water. May play a role in the assembly of respiratory supercomplexes.
+Subcellular Location	Mitochondrion membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQKLVEEILQAITMSTDTGVSLPSYEEDQGSKLIRKAKEAPFVPVGIAGFAAIVAYGLYKLKSRGNTKMSIHLIHMRVAAQGFVVGAMTVGMGYSMYREFWAKPKP
+PTM	Methylation:23;Phosphorylation:2,5,8,11;SUMOylation:19;Ubiquitylation:19

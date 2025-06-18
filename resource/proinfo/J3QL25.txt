@@ -1,0 +1,25 @@
+UniprotID	J3QL25
+Accession	J3QL25
+EntryName	J3QL25_HUMAN
+ProteinName	Archaelysin family metallopeptidase 2
+GeneName	AMZ2
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEQRLMNEAFQPASDLFGPITLHSPSDWITSHPEAPQDFEQFFSDPYRKTPSPNKRSIYIQSIGKYWLSRKHQNYQ
+PTM	

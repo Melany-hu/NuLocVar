@@ -1,0 +1,25 @@
+UniprotID	E9PNK1
+Accession	E9PNK1
+EntryName	E9PNK1_HUMAN
+ProteinName	Neuraminidase 3
+GeneName	NEU3
+Length	170
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPADLPPRPMEESPASSSAPTETEEPGSSAEVMEEVTTCSFNSPLFRQEDDRGITYRIPALLYIPPTHTFLAFAEKRSTRRDEDALHLVLRRGLRIGQLVQVTLHPRSESGPQFLFTKLRALQDLCLFSSVQESPVWGAEAEKTAKTMALTECLLCARGTLGPHSHSVS
+PTM	

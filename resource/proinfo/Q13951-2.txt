@@ -1,0 +1,25 @@
+UniprotID	Q13951-2
+Accession	Q13951;A8K347;Q13124;Q9HCT2
+EntryName	PEBB_HUMAN
+ProteinName	Core-binding factor subunit beta (CBF-beta) (Polyomavirus enhancer-binding protein 2 beta subunit) (PEA2-beta) (PEBP2-beta) (SL3-3 enhancer factor 1 subunit beta) (SL3/AKV core-binding factor beta subunit)
+GeneName	CBFB
+Length	187
+Function	Forms the heterodimeric complex core-binding factor (CBF) with RUNX family proteins (RUNX1, RUNX2, and RUNX3). RUNX members modulate the transcription of their target genes through recognizing the core consensus binding sequence 5'-TGTGGT-3', or very rarely, 5'-TGCGGT-3', within their regulatory regions via their runt domain, while CBFB is a non-DNA-binding regulatory subunit that allosterically enhances the sequence-specific DNA-binding capacity of RUNX. The heterodimers bind to the core site of a number of enhancers and promoters, including murine leukemia virus, polyomavirus enhancer, T-cell receptor enhancers, LCK, IL3 and GM-CSF promoters. CBF complexes repress ZBTB7B transcription factor during cytotoxic (CD8+) T cell development. They bind to RUNX-binding sequence within the ZBTB7B locus acting as transcriptional silencer and allowing for cytotoxic T cell differentiation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRVVPDQRSKFENEEFFRKLSRECEIKYTGFRDRPHEERQARFQNACRDGRSEIAFVATGTNLSLQFFPASWQGEQRQTPSREYVDLEREAGKVYLKAPMILNGVCVIWKGWIDLQRLDGMGCLEFDEERAQQEDALAQQAFEEARRRTREFEDRDRSHREEMEARRQQDPSPGSNLGGGDDLKLR
+PTM	Acetylation:11,28,177;Methylation:28;Phosphorylation:80,82,85,96,159,169;SUMOylation:11,28;Ubiquitylation:11,28,94

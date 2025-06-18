@@ -1,0 +1,25 @@
+UniprotID	Q96JZ2-2
+Accession	Q96JZ2;B5ME72;Q6ZNG7
+EntryName	HSH2D_HUMAN
+ProteinName	Hematopoietic SH2 domain-containing protein (Hematopoietic SH2 protein) (Adaptor in lymphocytes of unknown function X)
+GeneName	HSH2D ALX
+Length	295
+Function	May be a modulator of the apoptotic response through its ability to affect mitochondrial stability (By similarity). Adapter protein involved in tyrosine kinase and CD28 signaling. Seems to affect CD28-mediated activation of the RE/AP element of the interleukin-2 promoter.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGSRMSQPPQCLRRAQSSCCHFMVKLLDDGTFMIPGEKVAHTSLDALVTFHQQKPIEPRRELLTQPCRQKDPANVDYEDLFLYSNAVAEEAACPVSAPEEASPKPVLCHQSKERKPSAEMNRITTKEATSSCPPKSPLGETRQKLWRSLKMLPERGQRVRQQLKSHLATVNLSSLLDVRRSTVISGPGTGKGSQDHSGDPTSGDRGYTDPCVATSLKSPSQPQAPKDRKVPTRKAERSVSCIEVTPGDRSWHQMVVRALSSQESKPEHQGLAEPENDQLPEEYQQPPPFAPGYC
+PTM	Methylation:222;Phosphorylation:61,175,188,194,251,276,296,298

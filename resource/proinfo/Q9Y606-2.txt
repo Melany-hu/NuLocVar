@@ -1,0 +1,25 @@
+UniprotID	Q9Y606-2
+Accession	Q9Y606;A8K877;B3KQC1;Q8WYT2;Q9BU44
+EntryName	PUS1_HUMAN
+ProteinName	Pseudouridylate synthase 1 homolog (EC 5.4.99.-) (tRNA pseudouridine synthase 1) (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I)
+GeneName	PUS1 PP8985
+Length	399
+Function	Pseudouridylate synthase that catalyzes pseudouridylation of tRNAs and mRNAs (PubMed:15772074, PubMed:24722331). Acts on positions 27/28 in the anticodon stem and also positions 34 and 36 in the anticodon of an intron containing tRNA (PubMed:24722331). Also catalyzes pseudouridylation of mRNAs: mediates pseudouridylation of mRNAs with the consensus sequence 5'-UGUAG-3' (PubMed:31477916, PubMed:35051350). Acts as a regulator of pre-mRNA splicing by mediating pseudouridylation of pre-mRNAs at locations associated with alternatively spliced regions (PubMed:35051350). Pseudouridylation of pre-mRNAs near splice sites directly regulates mRNA splicing and mRNA 3'-end processing (PubMed:35051350). Involved in regulation of nuclear receptor activity through pseudouridylation of SRA1 mRNA (PubMed:24722331).
+Subcellular Location	Mitochondrion; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGNAEPPPAGAACPQDRRSCSGRAGGDRVWEDGEHPAKKLKSGGDEERREKPPKRKIVLLMAYSGKGYHGMQRNVGSSQFKTIEDDLVSALVRSGCIPENHGEDMRKMSFQRCARTDKGVSAAGQVVSLKVWLIDDILEKINSHLPSHIRILGLKRVTGGFNSKNRCDARTYCYLLPTFAFAHKDRDVQDETYRLSAETLQQVNRLLACYKGTHNFHNFTSQKGPQDPSACRYILEMYCEEPFVREGLEFAVIRVKGQSFMMHQIRKMVGLVVAIVKGYAPESVLERSWGTEKVDVPKAPGLGLVLERVHFEKYNQRFGNDGLHEPLDWAQEEGKVAAFKEEHIYPTIIGTERDERSMAQWLSTLPIHNFSATALTAGGTGAKVPSPLEGSEGDGDTD
+PTM	Acetylation:67,147,342;Methylation:110,159,169,252,306,369;Phosphorylation:26,138,192,201,207,343,380,415,420,426;SUMOylation:285,327,364,369;Ubiquitylation:147,193,342

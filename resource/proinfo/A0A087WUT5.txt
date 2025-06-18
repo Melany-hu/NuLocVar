@@ -1,0 +1,25 @@
+UniprotID	A0A087WUT5
+Accession	A0A087WUT5
+EntryName	A0A087WUT5_HUMAN
+ProteinName	nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+GeneName	NAPRT
+Length	232
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFQVPWLESVLIVVSNNIDEEALARLAQEGSEVNVIGIGTSVVTCPQQPSLGGVYKLVAVGGQPRMKLTEDPEKQTLPGSKAAFRLLGSDGSPLMDMLQLAEEPVPQAGQELRVWPPGAQEPCTVRPAQLCEPLPSLAESRALAQLSLSRLSPEHRRLRSPAQYQVGGRPTLSFCPVRPRPHPAHRSCPLLPAGGAVREAAGPGEQSVCGAVPLRLGAGLTGNNTNHSLFPT
+PTM	

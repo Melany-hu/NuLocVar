@@ -1,0 +1,25 @@
+UniprotID	E2GIM7
+Accession	E2GIM7
+EntryName	E2GIM7_HUMAN
+ProteinName	Interferon regulatory factor 3c (Interferon regulatory factor 3f)
+GeneName	IRF3
+Length	281
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLAPLPDPGPPSLAVAPEPCPQPLRSPSLDNPTPFPNLGPSENPLKRLLVPGEEWEFEVTAFYRGRQVFQQTISCPEGLRLVGSEVGDRTLPGWPVTLPDPGMSLTDRGVMSYVRHVLSCLGGGLALWRAGQWLWAQRLGHCHTYWAVSEELLPNSGHGPDGEVPKDKEGGVFDLGPFIVDLITFTEGSGRSPRYALWFCVGESWPQDQPWTKRLVMVKVVPTCLRALVEMARVGGASSLENTVDLHISNSHPLSLTSDQYKAYLQDLVEGMDFQGPGET
+PTM	

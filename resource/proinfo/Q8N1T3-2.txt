@@ -1,0 +1,25 @@
+UniprotID	Q8N1T3-2
+Accession	Q8N1T3;F5H3C6
+EntryName	MYO1H_HUMAN
+ProteinName	Unconventional myosin-Ih (Myosin-1H)
+GeneName	MYO1H
+Length	127
+Function	Myosins are actin-based motor molecules with ATPase activity. Unconventional myosins serve in intracellular movements. Their highly divergent tails are presumed to bind to membranous compartments, which would be moved relative to actin filaments (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCVRNLVQKYCRGITAERKAMMQQKVVTSEIFRGRKDGYTESLNQPFVNSRIDEGDINPKVLQLISHEKIQYGVPVIKYDRKGFKARQRQLILTQKAAYVVELAKIKQKIEYSALKGKKWAIFKTMH
+PTM	Methylation:189,348,588,759,801,819,879,915,924,935,975;Phosphorylation:160,161,257,262,275,364,365,475,932,998,1027

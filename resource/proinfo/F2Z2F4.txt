@@ -1,0 +1,25 @@
+UniprotID	F2Z2F4
+Accession	F2Z2F4
+EntryName	F2Z2F4_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 6
+GeneName	ST3GAL6
+Length	90
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGYLVAIFLSAVFLYYVLHCILWGTNVYWVAPVEMKRRNKIQPCLSKPAFASLLSQSSAYILRKGIEELNQTSILFTQVSSVSPFSVCG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99697-2
+Accession	Q99697;A8K6C6;B2RA02;B3KXS0;O60578;O60579;O60580;Q3KQX9;Q9BY17
+EntryName	PITX2_HUMAN
+ProteinName	Pituitary homeobox 2 (ALL1-responsive protein ARP1) (Homeobox protein PITX2) (Paired-like homeodomain transcription factor 2) (RIEG bicoid-related homeobox transcription factor) (Solurshin)
+GeneName	PITX2 ARP1 RGS RIEG RIEG1
+Length	324
+Function	May play a role in myoblast differentiation. When unphosphorylated, associates with an ELAVL1-containing complex, which stabilizes cyclin mRNA and ensuring cell proliferation. Phosphorylation by AKT2 impairs this association, leading to CCND1 mRNA destabilization and progression towards differentiation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	285..289
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	85...90;88...93;143...147
+validnes_region	
+nesbase_region	
+Sequence	MNCMKGPLHLEHRAAGTKLSAVSSSSCHHPQPLAMASVLAPGQPRSLDSSKHRLEVHTISDTSSPEAAEKDKSQQGKNEDVGAEDPSKKKRQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEARVRVWFKNRRAKWRKRERNQQAELCKNGFGPQFNGLMQPYDDMYPGYSYNNWAAKGLTSASLSTKSFPFFNSMNVNPLSSQSMFSPPNSISSMSMSSSMVPSAVTGVPGSSLNSLNNLNNLSSPSLNSAVPTPACPYAPPTPPYVYRDTCNSSLASLRLKAKQHSSFGYASVQNPASNLSACQYAVDRPV
+PTM	Phosphorylation:27,38,40,190,283;SUMOylation:34,70,81,134,289

@@ -1,0 +1,25 @@
+UniprotID	P53667-2
+Accession	P53667;B7Z6I8;D3DXF4;D3DXF5;O15283;Q15820;Q15821;Q75MU3;Q9Y5Q1
+EntryName	LIMK1_HUMAN
+ProteinName	LIM domain kinase 1 (LIMK-1) (EC 2.7.11.1)
+GeneName	LIMK1 LIMK
+Length	633
+Function	Serine/threonine-protein kinase that plays an essential role in the regulation of actin filament dynamics. Acts downstream of several Rho family GTPase signal transduction pathways (PubMed:10436159, PubMed:11832213, PubMed:12807904, PubMed:15660133, PubMed:16230460, PubMed:18028908, PubMed:22328514, PubMed:23633677). Activated by upstream kinases including ROCK1, PAK1 and PAK4, which phosphorylate LIMK1 on a threonine residue located in its activation loop (PubMed:10436159). LIMK1 subsequently phosphorylates and inactivates the actin binding/depolymerizing factors cofilin-1/CFL1, cofilin-2/CFL2 and destrin/DSTN, thereby preventing the cleavage of filamentous actin (F-actin), and stabilizing the actin cytoskeleton (PubMed:11832213, PubMed:15660133, PubMed:16230460, PubMed:23633677). In this way LIMK1 regulates several actin-dependent biological processes including cell motility, cell cycle progression, and differentiation (PubMed:11832213, PubMed:15660133, PubMed:16230460, PubMed:23633677). Phosphorylates TPPP on serine residues, thereby promoting microtubule disassembly (PubMed:18028908). Stimulates axonal outgrowth and may be involved in brain development (PubMed:18028908).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	485...489
+validnes_region	
+nesbase_region	
+Sequence	MGEEGSELPVCASCGQRIYDGQYLQALNADWHADCFRCCDCSASLSHQYYEKDGQLFCKKDYWARYGESCHGCSEQITKGLVMVAGELKYHPECFICLTCGTFIGDGDTYTLVEHSKLYCGHCYYQTVVTPVIEQILPDSPGSHLPHTVTLVSIPASSHGKRGLSVSIDPPHGPPGCGTEHSHTVRVQGVDPGCMSPDVKNSIHVGDRILEINGTPIRNVPLDEIDLLIQETSRLLQLTLEHDPHDTLGHGLGPETSPLSSPAYTPSGEAGSSARQKPVLRSCSIDRSPGAGSLGSPASQRKDLGRSESLRVVCRPHRIFRPSDLIHGEVLGKGCFGQAIKVTHRETGEVMVMKELIRFDEETQRTFLKEVKVMRCLEHPNVLKFIGVLYKDKRLNFITEYIKGGTLRGIIKSMDSQYPWSQRVSFAKDIASGMAYLHSMNIIHRDLNSHNCLVRENKNVVVADFGLARLMVDEKTQPEGLRSLKKPDRKKRYTVVGNPYWMAPEMINGRSYDEKVDVFSFGIVLCEIIGRVNADPDYLPRTMDFGLNVRGFLDRYCPPNCPPSFFPITVRCCDLDPEKRPSFVKLEHWLETLRMHLAGHLPLGPQLEQLDRGFWETYRRGESGLPAHPEVPD
+PTM	Methylation:103,320,347,355,368,398,426,599;Phosphorylation:210,229,253,261,270,271,274,275,278,279,281,286,287,296,298,302,307,310,313,323,337,427,430,435,606;Ubiquitylation:214,383,405,426

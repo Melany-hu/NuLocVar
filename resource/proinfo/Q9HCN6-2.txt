@@ -1,0 +1,25 @@
+UniprotID	Q9HCN6-2
+Accession	Q9HCN6;Q9HCN7;Q9UIF2
+EntryName	GPVI_HUMAN
+ProteinName	Platelet glycoprotein VI (GPVI) (Glycoprotein 6)
+GeneName	GP6
+Length	321
+Function	Collagen receptor involved in collagen-induced platelet adhesion and activation. Plays a key role in platelet procoagulant activity and subsequent thrombin and fibrin formation. This procoagulant function may contribute to arterial and venous thrombus formation. The signaling pathway involves the FcR gamma-chain, the Src kinases (likely FYN or LYN) and SYK, the adapter protein LAT and leads to the activation of PLCG2.
+Subcellular Location	Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	276...281
+validnes_region	
+nesbase_region	
+Sequence	MSPSPTALFCLGLCLGRVPAQSGPLPKPSLQALPSSLVPLEKPVTLRCQGPPGVDLYRLEKLSSSRYQDQAVLFIPAMKRSLAGRYRCSYQNGSLWSLPSDQLELVATGVFAKPSLSAQPGPAVSSGGDVTLQCQTRYGFDQFALYKEGDPAPYKNPERWYRASFPIITVTAAHSGTYRCYSFSSRDPYLWSAPSDPLELVVTEFSEATAELTVSFTNEVFTTETSRSITASPKESDSPAGPARQYYTKGNLVRICLGAVILIILAGFLAEDWHSRRKRLRHRGRAVQRPLPPLPPLPLTRKSNGGQDGGRQDVHSRGLCS
+PTM	Methylation:147

@@ -1,0 +1,25 @@
+UniprotID	Q460N3-2
+Accession	Q460N3;J3KR47;Q8N1K3
+EntryName	PAR15_HUMAN
+ProteinName	Protein mono-ADP-ribosyltransferase PARP15 (EC 2.4.2.-) (ADP-ribosyltransferase diphtheria toxin-like 7) (ARTD7) (B-aggressive lymphoma protein 3) (Poly [ADP-ribose] polymerase 15) (PARP-15)
+GeneName	PARP15 BAL3
+Length	444
+Function	Mono-ADP-ribosyltransferase that mediates mono-ADP-ribosylation of target proteins (PubMed:16061477, PubMed:25043379, PubMed:25635049). Acts as a negative regulator of transcription (PubMed:16061477).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQRIGLIFLHNIVVVSNCFYFQAFLDEFTNWSRINPNKARIPMAGDTQGVVGTVSKPCFTAYEMKIGAITFQVATGDIATEQVDVIVNSTARTFNRKSGVSRAILEGAGQAVESECAVLAAQPHRDFIITPGGCLKCKIIIHVPGGKDVRKTVTSVLEECEQRKYTSVSLPAIGTGNAGKNPITVADNIIDAIVDFSSQHSTPSLKTVKVVIFQPELLNIFYDSMKKRDLSASLNFQSTFSMTTCNLPEHWTDMNHQLFCMVQLEPGQSEYNTIKDKFTRTCSSYAIEKIERIQNAFLWQSYQVKKRQMDIKNDHKNNERLLFHGTDADSVPYVNQHGFNRSCAGKNAVSYGKGTYFAVDASYSAKDTYSKPDSNGRKHMYVVRVLTGVFTKGRAGLVTPPPKNPHNPTDLFDSVTNNTRSPKLFVVFFDNQAYPEYLITFTA
+PTM	Methylation:92,188,510,524,627;Phosphorylation:31,634

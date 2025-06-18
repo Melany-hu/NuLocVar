@@ -1,0 +1,25 @@
+UniprotID	O14948-2
+Accession	O14948;B2R8X5;Q5H9U8;Q709A4;Q8N6J9
+EntryName	TFEC_HUMAN
+ProteinName	Transcription factor EC (TFE-C) (Class E basic helix-loop-helix protein 34) (bHLHe34) (Transcription factor EC-like) (hTFEC-L)
+GeneName	TFEC BHLHE34 TCFEC TFECL
+Length	318
+Function	Transcriptional regulator that acts as a repressor or an activator. Acts as a transcriptional repressor on minimal promoter containing element F (that includes an E-box sequence). Binds to element F in an E-box sequence-specific manner. Acts as a transcriptional transactivator on the proximal promoter region of the tartrate-resistant acid phosphatase (TRAP) E-box containing promoter (By similarity). Collaborates with MITF in target gene activation (By similarity). Acts as a transcriptional repressor on minimal promoter containing mu E3 enhancer sequence (By similarity). Binds to mu E3 DNA sequence of the immunoglobulin heavy-chain gene enhancer (By similarity). Binds DNA in a homo- or heterodimeric form.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLDHQIINPTLKWSQPAVPSGGPLVQHAHTTLDSDAGLTENPLTKLLAIGKEDDNAQWHLSGSILDVYSGEQGISPINMGLTSASCPSSLPMKREITETDTRALAKERQKKDNHNLIERRRRYNINYRIKELGTLIPKSNDPDMRWNKGTILKASVEYIKWLQKEQQRARELEHRQKKLEQANRRLLLRIQELEIQARTHGLPTLASLGTVDLGAHVTKQQSHPEQNSVDYCQQLTVSQGPSPELCDQAIAFSDPLSYFTDLSFSAALKEEQRLDGMLLDDTISPFGTDPLLSATSPAVSKESSRRSSFSSDDGDEL
+PTM	Acetylation:178;Methylation:52,183;Ubiquitylation:160,168,178

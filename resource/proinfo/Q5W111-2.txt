@@ -1,0 +1,25 @@
+UniprotID	Q5W111-2
+Accession	Q5W111;A8K3G1;O60648;Q8TBG8;Q96T69
+EntryName	SPRY7_HUMAN
+ProteinName	SPRY domain-containing protein 7 (Chronic lymphocytic leukemia deletion region gene 6 protein) (CLL deletion region gene 6 protein)
+GeneName	SPRYD7 C13orf1 CLLD6
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSVLCCLRCCRDGGTGHIPLKEMPAVQLDTQHMGIWGIGVATQKVNLNQIPLGRDMHSLVMRNDGALYHNNEEKNRLPANSLPQEGDVVGITYDHVELNVYLNGKNMHCPASGIRGTVYPVVYVDDSAILDCQFSEFYHTPPPGFEKILFEQQIF
+PTM	Methylation:43;Phosphorylation:160;Ubiquitylation:23,85,115

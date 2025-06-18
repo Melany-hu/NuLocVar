@@ -1,0 +1,25 @@
+UniprotID	Q53HC0-2
+Accession	Q53HC0;B3KNQ0;Q9H697
+EntryName	CCD92_HUMAN
+ProteinName	Coiled-coil domain-containing protein 92 (Limkain beta-2)
+GeneName	CCDC92
+Length	314
+Function	Interferon-stimulated protein that plays a role in innate immunity. Strongly inhibits ebolavirus transcription and replication. Forms a complex with viral RNA-bound nucleocapsid NP and thereby prevents the transport of NP to the cell surface.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATNLENQLHSAQKNLLFLQREHASTLKGLHSEIRRLQQHCTDLTYELTVKSSEQTGDGTSKSSELKKRCEELEAQLKVKENENAELLKELEQKNAMITVLENTIKEREKKYLEELKAKSHKLTLLSSELEQRASTIAYLTSQLHAAKKKLMSSSGTSDASPSGSPVLASYKPAPPKDKLPETPRRRMKKSLSAPLHPEFEEVYRFGAESRKLLLREPVDAMPDPTPFLLARESAEVHLIKERPLVIPPIASDRSGEQHSPAREKPHKAHVGVAHRIHHATPPQAQPEVKTLAVDQVNGGKVVRKHSGTDRTV
+PTM	Methylation:107,112,124,135,283;Phosphorylation:2,145,146,176,179,181,183,201,209,211,299

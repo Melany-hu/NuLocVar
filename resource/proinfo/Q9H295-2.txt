@@ -1,0 +1,25 @@
+UniprotID	Q9H295-2
+Accession	Q9H295;B7ZVW2;E7ESG0;Q2M2D5
+EntryName	DCSTP_HUMAN
+ProteinName	Dendritic cell-specific transmembrane protein (DC-STAMP) (hDC-STAMP) (Dendrocyte-expressed seven transmembrane protein) (IL-four-induced protein) (FIND) (Transmembrane 7 superfamily member 4)
+GeneName	DCSTAMP TM7SF4
+Length	283
+Function	Probable cell surface receptor that plays several roles in cellular fusion, cell differentiation, bone and immune homeostasis. Plays a role in TNFSF11-mediated osteoclastogenesis. Cooperates with OCSTAMP in modulating cell-cell fusion in both osteoclasts and foreign body giant cells (FBGCs). Participates in osteoclast bone resorption. Involved in inducing the expression of tartrate-resistant acid phosphatase in osteoclast precursors. Plays a role in haematopoietic stem cell differentiation of bone marrow cells toward the myeloid lineage. Inhibits the development of neutrophilic granulocytes. Plays also a role in the regulation of dendritic cell (DC) antigen presentation activity by controlling phagocytic activity. Involved in the maintenance of immune self-tolerance and avoidance of autoimmune reactions.
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGIWTSGTDIFLSLWEIYVSPRSPGWMDFIQHLGVCCLVALISVGLLSVAACWFLPSIIAAAASWIITCVLLCCSKHARCFILLVFLSCGLREGRNALIAAGTGIVILGHVENIFHNFKGLLDGMTCNLRAKSFSIHFPLLKKYIEAIQWIYGLATPLSVFDDLVSWNQTLAVSLFSPSHVLEAQLNDSKGEVLSVLYQMATTTEVLSSLGQKLLAFAGLSLVLLGTGLFMKRFLGPCGWKYENIYITRQFVQFDERERHQQRPCVLPLNKEERRKFISGFQS
+PTM	Acetylation:276,423;Methylation:271;Phosphorylation:20,441,445,466;Ubiquitylation:455

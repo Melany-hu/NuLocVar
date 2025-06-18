@@ -1,0 +1,25 @@
+UniprotID	Q9UK80-3
+Accession	Q9UK80;Q59H60;Q5BKT5;Q5VTW9;Q5VTX0;Q9BTV1;Q9HBS2;Q9NYN4
+EntryName	UBP21_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 21 (EC 3.4.19.12) (Deubiquitinating enzyme 21) (Ubiquitin thioesterase 21) (Ubiquitin-specific-processing protease 21)
+GeneName	USP21 USP23 PP1490
+Length	551
+Function	Deubiquitinates histone H2A, a specific tag for epigenetic transcriptional repression, thereby acting as a coactivator (By similarity). Deubiquitination of histone H2A releaves the repression of di- and trimethylation of histone H3 at 'Lys-4', resulting in regulation of transcriptional initiation (By similarity). Regulates gene expression via histone H2A deubiquitination (By similarity). Deubiquitinates BAZ2A/TIP5 leading to its stabilization (PubMed:26100909). Also capable of removing NEDD8 from NEDD8 conjugates but has no effect on Sentrin-1 conjugates (PubMed:10799498). Also acts as a negative regulator of the ribosome quality control (RQC) by mediating deubiquitination of 40S ribosomal proteins RPS10/eS10 and RPS20/uS10, thereby antagonizing ZNF598-mediated 40S ubiquitination (PubMed:32011234).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	134..152
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	134...152;135...152;139...144;140...145
+nlsdbnls_region	
+validnes_region	135...152
+nesbase_region	
+Sequence	MPQASEHRLGRTREPPVNIQPRVGSKLPFAPRARSKERRNPASGPNPMLRPLPPRPGLPDERLKKLELGRGRTSGPRPRGPLRADHGVPLPGSPPPTVALPLPSRTNLARSKSVSSGDLRPMGIALGGHRGTGELGAALSRLALRPEPPTLRRSTSLRRLGGFPGPPTLFSIRTEPPASHGSFHMISARSSEPFYSDDKMAHHTLLLGSGHVGLRNLGNTCFLNAVLQCLSSTRPLRDFCLRRDFRQEVPGGGRAQELTEAFADVIGALWHPDSCEAVNPTRFRAVFQKYVPSFSGYSQQDAQEFLKLLMERLHLEINRRGRRAPPILANGPVPSPPRRGGALLEEPELSDDDRANLMWKRYLEREDSKIVDLFVGQLKSCLKCQACGYRSTTFEVFCDLSLPIPKKGFAGGKVSLRDCFNLFTKEEELESENAPVCDRCRQKTRSTKKLTVQRFPRILVLHLNRFSASRGSIKKSSVGVDFPLQRLSLGDFASDKAGSVHYGHYTALCRCQTGWHVYNDSRVSPVSENQVASSEGYVLFYQLMQEPPRCL
+PTM	Methylation:289,307,320;Phosphorylation:93,111,113,115,451

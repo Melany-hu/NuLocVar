@@ -1,0 +1,25 @@
+UniprotID	Q12951-2
+Accession	Q12951;Q14518;Q66SR7;Q8N6L8
+EntryName	FOXI1_HUMAN
+ProteinName	Forkhead box protein I1 (Forkhead-related protein FKHL10) (Forkhead-related transcription factor 6) (FREAC-6) (Hepatocyte nuclear factor 3 forkhead homolog 3) (HFH-3) (HNF-3/fork-head homolog 3)
+GeneName	FOXI1 FKHL10 FREAC6
+Length	283
+Function	Transcriptional activator required for the development of normal hearing, sense of balance and kidney function. Required for the expression of SLC26A4/PDS, JAG1 and COCH in a subset of epithelial cells and the development of the endolymphatic system in the inner ear. Also required for the expression of SLC4A1/AE1, SLC4A9/AE4, ATP6V1B1 and the differentiation of intercalated cells in the epithelium of distal renal tubules (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSFDLPAPSPPRCSPQFPSIGQEPPEMNLYYENFFHPQGVPSPQRPSFEGGGEYGATPNPYLWFNGPTMTPPPYLPGPNASPFLPQAYGVQRPLLPSVSGLGGSDLGWLPIPSQEELMKLVRPPYSYSALIAMAIHGAPDKRLTLSQIYQYVADNFPFYNKSKAGWQNSIRHNLSLNDCFKKVPRDEDDPAYVSGGSPTSHPLVTPGLSPEPSDKTGQNSLTFNSFSPLTNLSNHSGGGDWANPMPTNMLSYGGSVLSQFSPHFYNSVNTSGVLYPREGTEV
+PTM	Acetylation:219;Methylation:233,244;Phosphorylation:10,170,220,242

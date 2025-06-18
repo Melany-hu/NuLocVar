@@ -1,0 +1,25 @@
+UniprotID	Q3SXY8-2
+Accession	Q3SXY8;D3DN29;G3V1S8;Q504W8;Q8TCL5
+EntryName	AR13B_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 13B (ADP-ribosylation factor-like protein 2-like 1) (ARL2-like protein 1)
+GeneName	ARL13B ARL2L1
+Length	321
+Function	Cilium-specific protein required to control the microtubule-based, ciliary axoneme structure. May act by maintaining the association between IFT subcomplexes A and B. Binds GTP but is not able to hydrolyze fit; the GTPase activity remains unclear. Required to pattern the neural tube. Involved in cerebral cortex development: required for the initial formation of a polarized radial glial scaffold, the first step in the construction of the cerebral cortex, by regulating ciliary signaling. Regulates the migration and placement of postmitotic interneurons in the developing cerebral cortex. Plays a role in ciliar trafficking of phosphatidylinositol phosphatase INPP5E in ciliogenesis (PubMed:38219074). May regulate ARF6- and RAB22A-dependent endocytic recycling traffic (PubMed:23223633).
+Subcellular Location	Cell projection; Cilium membrane; Cell projection; Cilium; Cell membrane; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSLMASCCGWFKRWREPVRLANKQDKEGALGEADVIECLSLEKLVNEHKCLCQIEPCSAISGYGKKIDKSIKKGLYWLLHVIARDFDALNERIQKETTEQRALEEQEKQERAERVRKLREERKQNEQEQAELDGTSGLAELDPEPTNPFQPIASVIIENEGKLEREKKNQKMEKDSDGCHLKHKMEHEQIETQGQVNHNGQKNNEFGLVENYKEALTQQLKNEDETDRPSLESANGKKKTKKLRMKRNHRVEPLNIDDCAPESPTPPPPPPPVGWGTPKVTRLPKLEPLGETHHNDFYRKPLPPLAVPQRPNSDAHDVIS
+PTM	Glycosylation:343;Methylation:103,151,216,329,393;Phosphorylation:7,148,184,385,406;Ubiquitylation:39,57,64,151,203

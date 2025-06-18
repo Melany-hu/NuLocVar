@@ -1,0 +1,25 @@
+UniprotID	Q8NA29-2
+Accession	Q8NA29;A8K675;Q6UWU5;Q96F59;Q9BRC8
+EntryName	NLS1_HUMAN
+ProteinName	Sodium-dependent lysophosphatidylcholine symporter 1 (NLS1) (Sodium-dependent LPC symporter 1) (Major facilitator superfamily domain-containing protein 2A) (HsMFSD2A) (MFSD2a)
+GeneName	MFSD2A MFSD2 NLS1 HMFN0656 PP9177 UNQ300/PRO341
+Length	530
+Function	Sodium-dependent lysophosphatidylcholine (LPC) symporter, which plays an essential role for blood-brain barrier formation and function (PubMed:24828040, PubMed:32572202, PubMed:34135507). Specifically expressed in endothelium of the blood-brain barrier of micro-vessels and transports LPC into the brain (By similarity). Transport of LPC is essential because it constitutes the major mechanism by which docosahexaenoic acid (DHA), an omega-3 fatty acid that is essential for normal brain growth and cognitive function, enters the brain (PubMed:26005868, PubMed:34135507). Transports LPC carrying long-chain fatty acids such LPC oleate and LPC palmitate with a minimum acyl chain length of 14 carbons (By similarity). Does not transport docosahexaenoic acid in unesterified fatty acid (By similarity). Specifically required for blood-brain barrier formation and function, probably by mediating lipid transport (By similarity). Not required for central nervous system vascular morphogenesis (By similarity). Acts as a transporter for tunicamycin, an inhibitor of asparagine-linked glycosylation (PubMed:21677192). In placenta, acts as a receptor for ERVFRD-1/syncytin-2 and is required for trophoblast fusion (PubMed:18988732, PubMed:23177091).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKGEGAESGSAAGLLPTSILQSTERPAQVKKEPKKKKQQLSVCNKLCYALGGAPYQVTGCALGFFLQIYLLDVAQVGPFSASIILFVGRAWDAITDPLVGLCISKSPWTCLGRLMPWIIFSTPLAVIAYFLIWFVPDFPHGQTYWYLLFYCLFETMVTCFHVPYSALTMFISTEQTERDSATAYRMTVEVLGTVLGTAIQGQIVGQADTPCFQDLNSSTVASQSANHTHGTTSHRETQKAYLLAAGVIVCIYIICAVILILGVREQREPYEAQQSEPIAYFRGLRLVMSHGPYIKLITGFLFTSLAFMLVEGNFVLFCTYTLGFRNEFQNLLLAIMLSATLTIPIWQWFLTRFGKKTAVYVGISSAVPFLILVALMESNLIITYAVAVAAGISVAAAFLLPWSMLPDVIDDFHLKQPHFHGTEPIFFSFYVFFTKFASGVSLGISTLSLDFAGYQTRGCSQPERVKFTLNMLVTMAPIVLILLGLLLFKMYPIDEERRRQNKKALQALRDEASSSGCSETDSTELASIL
+PTM	Methylation:503;Phosphorylation:11,120;Ubiquitylation:516,517

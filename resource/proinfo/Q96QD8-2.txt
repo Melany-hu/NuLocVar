@@ -1,0 +1,25 @@
+UniprotID	Q96QD8-2
+Accession	Q96QD8;Q6IA88;Q6ZMG2;Q9HAV3;Q9NVA8;Q9P2G5
+EntryName	S38A2_HUMAN
+ProteinName	Sodium-coupled neutral amino acid symporter 2 (Amino acid transporter A2) (Protein 40-9-1) (Solute carrier family 38 member 2) (System A amino acid transporter 2) (System A transporter 1) (System N amino acid transporter 2)
+GeneName	SLC38A2 ATA2 KIAA1382 SAT2 SNAT2
+Length	406
+Function	Symporter that cotransports neutral amino acids and sodium ions from the extracellular to the intracellular side of the cell membrane (PubMed:10930503, PubMed:15774260, PubMed:15922329, PubMed:16621798). The transport is pH-sensitive, Li(+)-intolerant, electrogenic, driven by the Na(+) electrochemical gradient and cotransports of neutral amino acids and sodium ions with a stoichiometry of 1:1. May function in the transport of amino acids at the blood-brain barrier (PubMed:10930503, PubMed:15774260). May function in the transport of amino acids in the supply of maternal nutrients to the fetus through the placenta (By similarity). Maintains a key metabolic glutamine/glutamate balance underpinning retrograde signaling by dendritic release of the neurotransmitter glutamate (By similarity). Transports L-proline in differentiating osteoblasts for the efficient synthesis of proline-enriched proteins and provides proline essential for osteoblast differentiation and bone formation during bone development (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQNLILLTFVSIFSLYSVHLLLKTANEGGSLLYEQLGYKAFGLVGKLAASGSITMQNIGAMSSYLFIVKYELPLVIQALTNIEDKTGLWYLNGNYLVLLVSLVVILPLSLFRNLGYLGYTSGLSLLCMVFFLIVVICKKFQVPCPVEAALIINETINTTLTQPTALVPALSHNVTENDSCRPHYFIFNSQTVYAVPILIFSFVCHPAVLPIYEELKDRSRRRMMNVSKISFFAMFLMYLLAALFGYLTFYEHVESELLHTYSSILGTDILLLIVRLAVLMAVTLTVPVVIFPIRSSVTHLLCASKDFSWWRHSLITVSILAFTNLLVIFVPTIRDIFGFIGASAASMLIFILPSAFYIKLVKKEPMKSVQKIGALFFLLSGVLVMTGSMALIVLDWVHNAPGGGH
+PTM	Methylation:38,124,317,468;Phosphorylation:10,12,17,18,19,20,21,22,24,28,29,30,39,41,55,210;SUMOylation:33,38,59,60;Ubiquitylation:2,3,33,38,59,60,140,406,464,468

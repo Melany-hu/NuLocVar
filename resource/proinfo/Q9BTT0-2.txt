@@ -1,0 +1,25 @@
+UniprotID	Q9BTT0-2
+Accession	Q9BTT0;B4E0I6;E9PEA6;Q5TB18;Q5TB20;Q8N1S4;Q8WWW9
+EntryName	AN32E_HUMAN
+ProteinName	Acidic leucine-rich nuclear phosphoprotein 32 family member E (LANP-like protein) (LANP-L)
+GeneName	ANP32E
+Length	227
+Function	Histone chaperone that specifically mediates the genome-wide removal of histone H2A.Z/H2AZ1 from the nucleosome: removes H2A.Z/H2AZ1 from its normal sites of deposition, especially from enhancer and insulator regions. Not involved in deposition of H2A.Z/H2AZ1 in the nucleosome. May stabilize the evicted H2A.Z/H2AZ1-H2B dimer, thus shifting the equilibrium towards dissociation and the off-chromatin state (PubMed:24463511). Inhibits activity of protein phosphatase 2A (PP2A). Does not inhibit protein phosphatase 1. May play a role in cerebellar development and synaptogenesis.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	211...216
+validnes_region	
+nesbase_region	
+Sequence	MEMKKKINLELRNRSPEEVTELVLDNCLCVNGEIEGLNDTFKELEFLSMANVELSSLARLPSLNKLRKQNLKNLKSLDLFNCEITNLEDYRESIFELLQQITYLDGFDQEDNEAPDSEEEDDEDGDEDDEEEEENEAGPPEGYEEEEEEEEEEDEDEDEDEDEAGSELGEGEEEVGLSYLMKEEIQDEEDDDDYVEEGEEEEEEEEGGLRGEKRKRDAEDDGEEEDD
+PTM	Acetylation:65,99,113,254;Methylation:12,42,65,68,86,113;Phosphorylation:56,62,104,105,117,235;SUMOylation:4,5,6,65,68,86,99,101,113,223,256;Ubiquitylation:5,6,65,68,86,99,101,113,116,254

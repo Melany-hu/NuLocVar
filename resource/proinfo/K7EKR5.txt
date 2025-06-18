@@ -1,0 +1,25 @@
+UniprotID	K7EKR5
+Accession	K7EKR5
+EntryName	K7EKR5_HUMAN
+ProteinName	UBA like domain containing 1
+GeneName	UBALD1
+Length	122
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVNMDELKHQVMINQFVLTAGCAADQAKQLLQAAHWQFEVRGAGAGRGPGPRAECVPRGRRAGADGVDACRLCAPSGPQTRPAFPTAVPGVRIPRARGGRRQPSAPFSRRPTSPTATITTR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5VW32-2
+Accession	Q5VW32;B7Z9G5;Q96MG1
+EntryName	BROX_HUMAN
+ProteinName	BRO1 domain-containing protein BROX (BRO1 domain- and CAAX motif-containing protein)
+GeneName	BROX BROFTI C1orf58
+Length	379
+Function	Nuclear envelope-associated factor that is involved in the nuclear envelope ruptures during interphase (NERDI) repair, where it is locally recruited by CHMP5 and reduces cytoskeletal stress through its action on SYN2 to help reseal the ruptured membrane.
+Subcellular Location	Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	37...42
+validnes_region	
+nesbase_region	
+Sequence	MTHWFHRNPLKATAPVSFNYYGVVTGPSASKICNDLRSSRARLLELFTDLSCNPEMMKNAADSYFSLLQGFINSLDESTQESKLRYIQNFKWTDTLQGQVPSITEDEAKEVHRSLKIAAGIFKHLKESHLPKLITPAEKGRDLESRLIEAYVIQCQAEAQEVTIARAIELKHAPGLIAALAYETANFYQKADHTLSSLEPAYSAKWRKYLHLKMCFYTAYAYCYHGETLLASDKCGEAIRSLQEAEKLYAKAEALCKEYGETKGPGPTVKPSGHLFFRKLGNLVKNTLEKCQRENGFIYFQKIPTEAPQLELKANYGLVEPIPFEFPPTSVQWTPETLAAFDLTKRPKDDSTKPKPEEEVKPVKEPDIKPQKDTGCYIS
+PTM	Acetylation:141,148,283;Glycosylation:327;Methylation:91,266,279,317,322,345,377;Phosphorylation:281,319,331;Ubiquitylation:31,141,148,171,203,283,289,295,317,334

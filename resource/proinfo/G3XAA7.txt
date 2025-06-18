@@ -1,0 +1,25 @@
+UniprotID	G3XAA7
+Accession	G3XAA7
+EntryName	G3XAA7_HUMAN
+ProteinName	Pregnancy specific beta-1-glycoprotein 9
+GeneName	PSG9 hCG_1995680
+Length	240
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPLPAPSCTQRITWKGLLLTASLLNFWNPPTTAEVTIEAQPPKVSEGKDVLLLVHNLPQNLPGYFWYKGEMTDLYHYIISYIVDGKIIIYGPAYSGRETVYSNASLLIQNVTRKDAGTYTLHIIKRGDETREEIRHFTFTLYYGPDLPRIYPSFTYYRSGENLDLSCFTESNPPAEYFWTINGKFQQSGQKLFIPQITRNHSGLYACSVHNSATGKEISKSMTVKVSGPCHGDLTESQS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	C9JDT8
+Accession	C9JDT8
+EntryName	C9JDT8_HUMAN
+ProteinName	Vasoactive intestinal peptide receptor 1
+GeneName	VIPR1
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPPSPLPARWLCVLAGALAWALGPAGGQAARLQEECDYVQMIEVQHKQCLEEAQLENETIGCSKMWDNLTCWPATPRGQVVVLACPLIFKLFSSIQGRNVSRSCTDEGWTHLEPGPYPIACGLDDKAASLDEQQTMFYGSVKTGYTIGYGLSLATLLVATAILSLFRWAVRQPWSFSNIVSWLTSSGCWWRASTCTPCLPSPSSLSGSTSGGTYSSAG
+PTM	

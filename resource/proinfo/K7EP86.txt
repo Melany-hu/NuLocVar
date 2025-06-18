@@ -1,0 +1,25 @@
+UniprotID	K7EP86
+Accession	K7EP86
+EntryName	K7EP86_HUMAN
+ProteinName	Ras homolog family member T1
+GeneName	RHOT1
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ESEFLTEAEIICDVVCLVYDVSNPKSFEYCARIFKQHFMDSRIPCLIVAAKSDLHEVKQEYSISPTDFCRKHKMPPPQAFTCNTADAPSKDIFVKLTTMAMYPHARLRCMCTCNRCTFCICQNFLNSDLLQSVKNKIFTAVLNRFLTLFTGYQAFC
+PTM	

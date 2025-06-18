@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TMT7
+Accession	A0A8V8TMT7
+EntryName	A0A8V8TMT7_HUMAN
+ProteinName	FERM domain containing kindlin 3
+GeneName	FERMT3
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAHFSDSAQTEACYHMLSRPQPPPDPLLLQRLPRPSSLSDKTQLHSRWLDSSRCLMQQGIKAGDALWLRFKYYSFFDLDPKTDPVRLTQLYEQARWDLLLEEIDCTEEEMMVFAALQYHINKLSQSGEVGEPAGTDPGLDDLDVALSNLEVKLEGSAPTDVLPHHHPRAQGPSPNLSAPEADPEGLPPTLGGVQGDHTVLLQEPGRGPWGPHSAAQPQGL
+PTM	

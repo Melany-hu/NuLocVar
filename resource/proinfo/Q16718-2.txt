@@ -1,0 +1,25 @@
+UniprotID	Q16718-2
+Accession	Q16718;B2RD98;Q5H9R2;Q6IRX7
+EntryName	NDUA5_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5 (Complex I subunit B13) (Complex I-13kD-B) (CI-13kD-B) (NADH-ubiquinone oxidoreductase 13 kDa-B subunit)
+GeneName	NDUFA5
+Length	116
+Function	Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPYRVGQTTGLVGLAVCNTPHERLRILYTKILDVLEEIPKNAAYRKYTEQITNEKLAMVKAEPDVKKLEDQLQGGQLEEVILQAEHELNLARKMREWKLWEPLVEEPPADQWKWPI
+PTM	Acetylation:30,40,46,60;Methylation:6,25,40,55,60,67;Phosphorylation:8,9,19;SUMOylation:60

@@ -1,0 +1,25 @@
+UniprotID	B4DDM3
+Accession	B4DDM3
+EntryName	B4DDM3_HUMAN
+ProteinName	Sorting nexin 17, isoform CRA_a (cDNA FLJ51047, highly similar to Sorting nexin-17) (cDNA FLJ53821, highly similar to Sorting nexin-17) (cDNA FLJ61770, highly similar to Sorting nexin-17)
+GeneName	SNX17 hCG_1784432
+Length	256
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENRVGLNLLYAQTVSDIERGWILVTKEQHRQLKSLQEKVSKKEFLRLAQTLRHYGYLRFDACVADFPEKDCPVVVSAGNSELSLQLRLPGQQLREGSFRVTRMRCWRVTSSVPLPSGSTSSPGRGRGEVRLELAFEYLMSKDRLQWVTITSPQAIMMSICLQSMVDELMVKKSGGSIRKMLRRRVGGTLRRSDSQQAVKSPPLLESPDATRESMVKLSSKLSAVSLRGIGSPSTDASASDVHGNFAFEGIGDEDL
+PTM	

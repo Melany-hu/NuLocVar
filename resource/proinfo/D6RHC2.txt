@@ -1,0 +1,25 @@
+UniprotID	D6RHC2
+Accession	D6RHC2
+EntryName	D6RHC2_HUMAN
+ProteinName	Zinc finger CCHC-type containing 10 (Zinc finger, CCHC domain containing 10, isoform CRA_e)
+GeneName	ZCCHC10 hCG_1639963
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPMHRLIARRQAEANKQHVRCQKCLEFGHWTYECTGKRKYLHRPSRTAELKKALKEKENRLLLQQRSFFPPRVYQHWRNQCRKKGQEKKV
+PTM	

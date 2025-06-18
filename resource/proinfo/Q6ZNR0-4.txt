@@ -1,0 +1,25 @@
+UniprotID	Q6ZNR0-4
+Accession	Q6ZNR0;C9J9D1;C9JZ62;C9K046;Q6P434
+EntryName	TMM91_HUMAN
+ProteinName	Transmembrane protein 91 (Dispanin subfamily C member 3) (DSPC3)
+GeneName	TMEM91
+Length	123
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSPSLRELQQPLLEGTECETPAQKPGRHELGSPLREIAFAESLRGLQFLSPPLPSVSAGLGEPRPPDVEDMSSSDSDSDWDGGSRLSPFLPHDHLGLAVFSMLCCFWPVGIAAFCLAQKPSL
+PTM	

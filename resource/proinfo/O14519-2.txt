@@ -1,0 +1,25 @@
+UniprotID	O14519-2
+Accession	O14519;F5GYA4
+EntryName	CDKA1_HUMAN
+ProteinName	Cyclin-dependent kinase 2-associated protein 1 (CDK2-associated protein 1) (Deleted in oral cancer 1) (DOC-1) (Putative oral cancer suppressor)
+GeneName	CDK2AP1 CDKAP1 DOC1
+Length	87
+Function	Inhibitor of cyclin-dependent kinase CDK2 (By similarity). Also acts as a component of the histone deacetylase NuRD complex which participates in the remodeling of chromatin (PubMed:16428440, PubMed:20523938, PubMed:28977666).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSSQYRQLLSDYGPPSLGYTQGTGNSQVPQSKYAELLAIIEELGKEIRPTYAGSKSAMERLKRGIIHARGLVRECLAETERNARS
+PTM	Methylation:75;Phosphorylation:2,3,24,35;SUMOylation:4

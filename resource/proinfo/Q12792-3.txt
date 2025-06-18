@@ -1,0 +1,25 @@
+UniprotID	Q12792-3
+Accession	Q12792;A8K5A8;B3KXS6;B4DLX9;Q59G07;Q5U0B1;Q6FHJ1;Q6FHL6;Q6NUK9;Q86XL6;Q8TCD3
+EntryName	TWF1_HUMAN
+ProteinName	Twinfilin-1 (Protein A6) (Protein tyrosine kinase 9)
+GeneName	TWF1 PTK9
+Length	357
+Function	Actin-binding protein involved in motile and morphological processes. Inhibits actin polymerization, likely by sequestering G-actin. By capping the barbed ends of filaments, it also regulates motility. Seems to play an important role in clathrin-mediated endocytosis and distribution of endocytic organelles (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSHQTGIQASEDVKEIFARARNGKYRLLKISIENEQLVIGSYSQPSDSWDKDYDSFVLPLLEDKQPCYILFRLDSQNAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFGGGHIKDEVFGTVKEDVSLHGYKKYLLSQSSPAPLTAAEEELRQIKINESPEDHIGVQTDVGVDTKHQTLQGVAFPISREAFQALEKLNNRQLNYVQLEIDIKNEIIILANTTNTELKDLPKRIPKDSARYHFFLYKHSHEGDYLESIVFIYSMPGYTCSIRERMLYSSCKSRLLEIVERQLQMDVIRKIEIDNGDELTADFLYEEVHPKQHAHKQSFAKPKGPAGKRGIRRLIRGPAETEATTD
+PTM	Acetylation:64,118,135,171,192,276,325;Methylation:14,64,171,192,208,223,227,294;Phosphorylation:2,5,10,107,137,140,142,143,148,272,309,322,345,348,349;SUMOylation:109,118,171;Ubiquitylation:171

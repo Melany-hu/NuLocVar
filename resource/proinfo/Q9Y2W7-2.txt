@@ -1,0 +1,25 @@
+UniprotID	Q9Y2W7-2
+Accession	Q9Y2W7;H7BY46;Q3YAC3;Q3YAC4;Q53TJ5;Q96T40;Q9UJ84;Q9UJ85
+EntryName	CSEN_HUMAN
+ProteinName	Calsenilin (A-type potassium channel modulatory protein 3) (DRE-antagonist modulator) (DREAM) (Kv channel-interacting protein 3) (KChIP3)
+GeneName	KCNIP3 CSEN DREAM KCHIP3
+Length	234
+Function	Calcium-dependent transcriptional repressor that binds to the DRE element of genes including PDYN and FOS. Affinity for DNA is reduced upon binding to calcium and enhanced by binding to magnesium. Seems to be involved in nociception (By similarity).
+Subcellular Location	Cytoplasm; Cell membrane; Endoplasmic reticulum; Golgi apparatus; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPAKEVTKASDGSLLGDLGHTPLSKKEGIKWQRPRLSRQALMRCCLVKWILSSTAPQGSDSSDSELELSTVRHQPEGLDQLQAQTKFTKKELQSLYRGFKNGDATTYAHFLFNAFDADGNGAIHFEDFVVGLSILLRGTVHEKLKWAFNLYDINKDGYITKEEMLAIMKSIYDMMGRHTYPILREDAPAEHVERFFEKMDRNQDGVVTIEEFLEACQKDENIMSSMQLFENVI
+PTM	Methylation:178;Phosphorylation:8,14,22,156;Ubiquitylation:26

@@ -1,0 +1,25 @@
+UniprotID	D2XBF0
+Accession	D2XBF0
+EntryName	D2XBF0_HUMAN
+ProteinName	Potassium inwardly-rectifying channel subfamily J member 3 splice variant 1e
+GeneName	KCNJ3
+Length	253
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	40...45
+validnes_region	
+nesbase_region	
+Sequence	MSALRRKFGDDYQVVTTSSSGSGLQPQGPGQDPQQQLVPKKKRQRFVDKNGRCNVQHGNLGSETSRYLSDLFTTLVDLKWRWNLFIFILTYTVAWLFMASMWWVIAYTRGDLNKAHVGNYTPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCMFIKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKVSAPRPFPTGRPASPKPAE
+PTM	

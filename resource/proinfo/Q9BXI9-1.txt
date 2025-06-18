@@ -1,0 +1,25 @@
+UniprotID	Q9BXI9-1
+Accession	Q9BXI9;Q5H9G8;Q6ZRM7
+EntryName	C1QT6_HUMAN
+ProteinName	Complement C1q tumor necrosis factor-related protein 6
+GeneName	C1QTNF6 CTRP6 UNQ581/PRO1151
+Length	259
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTAALGPVWAALLLFLLMCEIPMVELTFDRAVASGCQRCCDSEDPLDPAHVSSASSSGRPHALPEIRPYINITILKGDKGDPGPMGLPGYMGREGPQGEPGPQGSKGDKGEMGSPGAPCQKRFFAFSVGRKTALHSGEDFQTLLFERVFVNLDGCFDMATGQFAAPLRGIYFFSLNVHSWNYKETYVHIMHNQKEAVILYAQPSERSIMQSQSVMLDLAYGDRVWVRLFKRQRENAIYSNDFDTYITFSGHLIKAEDD
+PTM	Phosphorylation:22

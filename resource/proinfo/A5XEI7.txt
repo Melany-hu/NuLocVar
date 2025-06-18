@@ -1,0 +1,25 @@
+UniprotID	A5XEI7
+Accession	A5XEI7
+EntryName	A5XEI7_HUMAN
+ProteinName	Guanine nucleotide-releasing factor 2
+GeneName	RAPGEF1
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVYGFSDSFSGVDSVQELAPPPALPPKQRQLQASCAASSFSSVSHCVQQTKVAFTPEDGSAAQGLSVSVSNSFLSRHGGLPVPSEPPAGKDGHPRDPSAVSGVPGKDSRDGSERAPKSPDALESA
+PTM	

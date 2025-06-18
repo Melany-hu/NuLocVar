@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YDC4
+Accession	A0A2R8YDC4
+EntryName	A0A2R8YDC4_HUMAN
+ProteinName	EF-hand calcium binding domain 10
+GeneName	EFCAB10
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDNSNIVAMFEMMDSSGRGTISFVQYKEALKTLGLCTEDEDLQDDGHKITLDKFKEEVNKRMKEIWSAF
+PTM	

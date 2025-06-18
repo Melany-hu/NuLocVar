@@ -1,0 +1,25 @@
+UniprotID	Q96AH0-2
+Accession	Q96AH0;Q658Y8;Q9H5X6
+EntryName	SOSB2_HUMAN
+ProteinName	SOSS complex subunit B2 (Nucleic acid-binding protein 1) (Oligonucleotide/oligosaccharide-binding fold-containing protein 2A) (Sensor of single-strand DNA complex subunit B2) (Sensor of ssDNA subunit B2) (SOSS-B2) (Single-stranded DNA-binding protein 2) (hSSB2)
+GeneName	NABP1 OBFC2A SSB2
+Length	124
+Function	Component of the SOSS complex, a multiprotein complex that functions downstream of the MRN complex to promote DNA repair and G2/M checkpoint. In the SOSS complex, acts as a sensor of single-stranded DNA that binds to single-stranded DNA, in particular to polypyrimidines. The SOSS complex associates with DNA lesions and influences diverse endpoints in the cellular DNA damage response including cell-cycle checkpoint activation, recombinational repair and maintenance of genomic stability. Required for efficient homologous recombination-dependent repair of double-strand breaks (DSBs) and ATM-dependent signaling pathways.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWKGCLTLYTGRGGELQKIGEFCMVYSEVPNFSEPNPDYRGQQNKGAQSEQKNNSMNSNMGTGTFGPVGNGVHTGPESREHQFSHAGRSNGRGLINPQLQGTASNQTVMTTISNGRDPRRAFKR
+PTM	Methylation:50,98,172;SUMOylation:132

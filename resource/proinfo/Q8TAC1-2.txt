@@ -1,0 +1,25 @@
+UniprotID	Q8TAC1-2
+Accession	Q8TAC1;J3KPH1
+EntryName	RFESD_HUMAN
+ProteinName	Rieske domain-containing protein
+GeneName	RFESD
+Length	210
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKCFRNCLRPSSLSTLPLQYGILFPKLLACLVHLHFGHFSSAVISVTSFYLSMNLDGSAQDPEKREYSSVCVGREDDIKKSERMTAVVHDREVVIFYHKGEYHAMDIRCYHSGGPLHLGDIEDFDGRPCIVCPWHKYKITLATGEGLYQSINPKDPSAKPKWCSKGIKQRIHTVTVDNGNIYVTLSNEPFKCDSDFYATGDFKVIKSSS
+PTM	Methylation:102;Phosphorylation:15,16

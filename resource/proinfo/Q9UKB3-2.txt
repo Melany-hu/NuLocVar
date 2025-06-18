@@ -1,0 +1,25 @@
+UniprotID	Q9UKB3-2
+Accession	Q9UKB3;Q5JVQ1;Q9UKB2
+EntryName	DJC12_HUMAN
+ProteinName	DnaJ homolog subfamily C member 12 (J domain-containing protein 1)
+GeneName	DNAJC12 JDP1
+Length	107
+Function	Probable co-chaperone that participates in the proper folding of biopterin-dependent aromatic amino acid hydroxylases, which include phenylalanine-4-hydroxylase (PAH), tyrosine 3-monooxygenase (TH) and peripheral and neuronal tryptophan hydroxylases (TPH1 and TPH2).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAILNYRSEDTEDYYTLLGCDELSSVEQILAEFKVRALECHPDKHPENPKAVETFQKLQKAKEILTNEESRARYDHWRRSQMSMPFQQWEALNDSVKTVGFSLGAT
+PTM	Acetylation:45;Methylation:191;Phosphorylation:81,158,160,164,166,167,182;SUMOylation:123

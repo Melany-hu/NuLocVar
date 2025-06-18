@@ -1,0 +1,25 @@
+UniprotID	I3L4G6
+Accession	I3L4G6
+EntryName	I3L4G6_HUMAN
+ProteinName	Aldehyde dehydrogenase 3 family member A2
+GeneName	ALDH3A2
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FSHQRPCLLKSLKREGANKLRYPPNSQSKVDWGKFFLLKRFNKEKLGLLLLTFLGIVAAVLVKFTDCVGPVSRDEHQISKPSPVC
+PTM	

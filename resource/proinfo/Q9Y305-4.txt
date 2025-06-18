@@ -1,0 +1,25 @@
+UniprotID	Q9Y305-4
+Accession	Q9Y305;B3KNC9;B7ZM94
+EntryName	ACOT9_HUMAN
+ProteinName	Acyl-coenzyme A thioesterase 9, mitochondrial (Acyl-CoA thioesterase 9) (EC 3.1.2.-) (EC 3.1.2.2) (Acyl-CoA thioester hydrolase 9)
+GeneName	ACOT9 CGI-16
+Length	448
+Function	Mitochondrial acyl-CoA thioesterase. Catalyzes the hydrolysis of acyl-CoAs into free fatty acids and coenzyme A (CoA), regulating their respective intracellular levels. Regulates both mitochondrial lipid and amino acid metabolism.
+Subcellular Location	Mitochondrion; Mitochondrion matrix; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRAALRLCALGKGQLTPGRGLTQGPQNPKKQGIFHIHEACSSIHVNHVRDKLREIVGASTNWRDHVKAMEERKLLHSFLAKSQDGLPPRRMKDSYIEVLLPLGSEPELREKYLTVQNTVRFGRILEDLDSLGVLICYMHNKIHSAKMSPLSIVTALVDKIDMCKKSLSPEQDIKFSGHVSWVGKTSMEVKMQMFQLHGDEFCPVLDATFVMVARDSENKGPAFVNPLIPESPEEEELFRQGELNKGRRIAFSSTSLLKMAPSAEERTTIHEMFLSTLDPKTISFRSRVLPSNAVWMENSKLKSLEICHPQERNIFNRIFGGFLMRKAYELAWATACSFGGSRPFVVAVDDIMFQKPVEVGSLLFLSSQVCFTQNNYIQVRVHSEVASLQEKQHTTTNVFHFTFMSEKEVPLVFPKTYGESMLYLDGQRHFNSMSGPATLRKDYLVEP
+PTM	Acetylation:103,156,157,166,250,272,292,294,407;Methylation:84,166,176,211,237,250,272,292,383,407;Phosphorylation:51,52,69,87,104,106,160,223,245,246,247,275,375;Ubiquitylation:59,103,211,237,294

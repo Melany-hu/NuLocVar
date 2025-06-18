@@ -1,0 +1,25 @@
+UniprotID	Q9Y262-2
+Accession	Q9Y262;B2RDG6;B4DYB2;G8JLH4;Q53HQ1;Q53HT4;Q5QTR1;Q5TI15;Q6ICD2
+EntryName	EIF3L_HUMAN
+ProteinName	Eukaryotic translation initiation factor 3 subunit L (eIF3l) (Eukaryotic translation initiation factor 3 subunit 6-interacting protein) (Eukaryotic translation initiation factor 3 subunit E-interacting protein)
+GeneName	EIF3L EIF3EIP EIF3S6IP HSPC021 HSPC025 MSTP005
+Length	516
+Function	Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is required for several steps in the initiation of protein synthesis (PubMed:17581632, PubMed:25849773, PubMed:27462815). The eIF-3 complex associates with the 40S ribosome and facilitates the recruitment of eIF-1, eIF-1A, eIF-2:GTP:methionyl-tRNAi and eIF-5 to form the 43S pre-initiation complex (43S PIC). The eIF-3 complex stimulates mRNA recruitment to the 43S PIC and scanning of the mRNA for AUG recognition. The eIF-3 complex is also required for disassembly and recycling of post-termination ribosomal complexes and subsequently prevents premature joining of the 40S and 60S ribosomal subunits prior to initiation (PubMed:17581632). The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation, including cell cycling, differentiation and apoptosis, and uses different modes of RNA stem-loop binding to exert either translational activation or repression (PubMed:25849773).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYPADDYESEAAYDPYAYPSDYDMHTGDPKQDLAYERQYEQQTYQVIPEVIKNFIQYFHKTVSDLIDQKVYELQASRVSSDVIDQKVYEIQDIYENSWTKLTERFFKNTPWPEAEAIAPQVGNDAVFLILYKELYYRHIYAKVSFQSFSQYRCKTAKKSEEEIDFLRSNPKIWNVHSVLNVLHSLVDKSNINRQLEVYTSGGDPESVAGEYGRHSLYKMLGYFSLVGLLRLHSLLGDYYQAIKVLENIELNKKSMYSRVPECQVTTYYYVGFAYLMMRRYQDAIRVFANILLYIQRTKSMFQRTTYKYEMINKQNEQMHALLAIALTMYPMRIDESIHLQLREKYGDKMLRMQKGDPQVYEELFSYSCPKFLSPVVPNYDNVHPNYHKEPFLQQLKVFSDEVQQQAQLSTIRSFLKLYTTMPVAKLAGFLDLTEQEFRIQLLVFKHKMKNLVWTSGISALDGEFQSASEVDFYIDKDMIHIADTKVARRYGDFFIRQIHKFEELNRTLKKMGQRP
+PTM	Acetylation:70,101,143,207,301,356,397,403,419,437,465,494,534,549;Methylation:53,70,87,101,203,292,301,445,465;Phosphorylation:2,27,36,40,45,64,72,77,80,81,89,95,247,271,273,355,357,409,416,428,435,462,539;SUMOylation:70,87,207,356,549;Ubiquitylation:31,61,70,87,101,143,237,301,302,347,356,397,403,419,437,465,474,494,534,549

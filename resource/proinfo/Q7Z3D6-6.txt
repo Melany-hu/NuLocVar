@@ -1,0 +1,25 @@
+UniprotID	Q7Z3D6-6
+Accession	Q7Z3D6;B3KUI7;Q86SW3;Q86SX8;Q86SX9;Q86T08;Q86TV5;Q96GW5;Q9H7G0;Q9H8Y9;Q9H9W6
+EntryName	GLUCM_HUMAN
+ProteinName	D-glutamate cyclase, mitochondrial (EC 4.2.1.48)
+GeneName	DGLUCY C14orf159 UNQ2439/PRO5000
+Length	159
+Function	D-glutamate cyclase that converts D-glutamate to 5-oxo-D-proline.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFTLHLRSRLPSAIRSLILQKKPNIRNTSSMAGELRPASLVVLPRSLAPAFERFCQVNTGPLPLLGQSEPEKWMLPPQGAISETSLRDLHSAWHRTSLMTVAQERAALPTVLTPSPITWRLSWLRSLRSWRKSSPGEIPLALPSVHSIAQARNPPVQD
+PTM	Acetylation:171,173;Methylation:22,115,134,257,322,369,397;Phosphorylation:9,13,127,475

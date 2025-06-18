@@ -1,0 +1,25 @@
+UniprotID	A0A8J8ZBD8
+Accession	A0A8J8ZBD8
+EntryName	A0A8J8ZBD8_HUMAN
+ProteinName	Outer dense fiber of sperm tails 2
+GeneName	ODF2
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	10...15
+validnes_region	
+nesbase_region	
+Sequence	MGELPTGCRKRRRKRGGAAARARLHPPRRLHGTTLASDFNDFIRRRFWAQPCRSWFPSCGKNGVTSLTQKKVLRAPCGAPSVTVTINHFCVVLPHLPEANHEGPLFNSPLTCSRG
+PTM	

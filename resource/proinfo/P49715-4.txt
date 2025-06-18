@@ -1,0 +1,25 @@
+UniprotID	P49715-4
+Accession	P49715;A7LNP2;P78319;Q05CA4
+EntryName	CEBPA_HUMAN
+ProteinName	CCAAT/enhancer-binding protein alpha (C/EBP alpha)
+GeneName	CEBPA CEBP
+Length	393
+Function	Transcription factor that coordinates proliferation arrest and the differentiation of myeloid progenitors, adipocytes, hepatocytes, and cells of the lung and the placenta. Binds directly to the consensus DNA sequence 5'-TNNGNAA-3' acting as an activator on distinct target genes (PubMed:11242107). During early embryogenesis, plays essential and redundant functions with CEBPB. Essential for the transition from common myeloid progenitors (CMP) to granulocyte/monocyte progenitors (GMP). Critical for the proper development of the liver and the lung (By similarity). Necessary for terminal adipocyte differentiation, is required for postnatal maintenance of systemic energy homeostasis and lipid storage (By similarity). To regulate these different processes at the proper moment and tissue, interplays with other transcription factors and modulators. Down-regulates the expression of genes that maintain cells in an undifferentiated and proliferative state through E2F1 repression, which is critical for its ability to induce adipocyte and granulocyte terminal differentiation. Reciprocally E2F1 blocks adipocyte differentiation by binding to specific promoters and repressing CEBPA binding to its target gene promoters. Proliferation arrest also depends on a functional binding to SWI/SNF complex (PubMed:14660596). In liver, regulates gluconeogenesis and lipogenesis through different mechanisms. To regulate gluconeogenesis, functionally cooperates with FOXO1 binding to IRE-controlled promoters and regulating the expression of target genes such as PCK1 or G6PC1. To modulate lipogenesis, interacts and transcriptionally synergizes with SREBF1 in promoter activation of specific lipogenic target genes such as ACAS2. In adipose tissue, seems to act as FOXO1 coactivator accessing to ADIPOQ promoter through FOXO1 binding sites (By similarity).
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGRGRAGSPGGRRRRPAQAGGRRGSPCRENSNSPMESADFYEAEPRPPMSSHLQSPPHAPSSAAFGFPRGAGPAQPPAPPAAPEPLGGICEHETSIDISAYIDPAAFNDEFLADLFQHSRQQEKAKAAVGPTGGGGGGDFDYPGAPAGPGGAVMPGGAHGPPPGYGCAAAGYLDGRLEPLYERVGAPALRPLVIKQEPREEDEAKQLALAGLFPYQPPPPPPPSHPHPHPPPAHLAAPHLQFQIAHCGQTTMHLQPGHPTPPPTPVPSPHPAPALGAAGLPGPGSALKGLGAAHPDLRASGGSGAGKAKKSVDKNSNEYRVRRERNNIAVRKSRDKAKQRNVETQQKVLELTSDNDRLRKRVEQLSRELDTLRGIFRQLPESSLVKAMGNCA
+PTM	Acetylation:161;Methylation:161,254;SUMOylation:161;Ubiquitylation:313

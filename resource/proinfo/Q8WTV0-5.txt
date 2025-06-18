@@ -1,0 +1,25 @@
+UniprotID	Q8WTV0-5
+Accession	Q8WTV0;F8W8N0;Q14016;Q52LZ5;Q6KFX4
+EntryName	SCRB1_HUMAN
+ProteinName	Scavenger receptor class B member 1 (SRB1) (CD36 and LIMPII analogous 1) (CLA-1) (CD36 antigen-like 1) (Collagen type I receptor, thrombospondin receptor-like 1) (SR-BI) (CD antigen CD36)
+GeneName	SCARB1 CD36L1 CLA1
+Length	506
+Function	Receptor for different ligands such as phospholipids, cholesterol ester, lipoproteins, phosphatidylserine and apoptotic cells (PubMed:12016218, PubMed:12519372, PubMed:21226579). Receptor for HDL, mediating selective uptake of cholesteryl ether and HDL-dependent cholesterol efflux (PubMed:26965621). Also facilitates the flux of free and esterified cholesterol between the cell surface and apoB-containing lipoproteins and modified lipoproteins, although less efficiently than HDL. May be involved in the phagocytosis of apoptotic cells, via its phosphatidylserine binding activity (PubMed:12016218).
+Subcellular Location	Cell membrane; Membrane; Caveola
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCSAKARWAAGALGVAGLLCAVLGAVMIVMVPSLIKQQVLKNVRIDPSSLSFNMWKEIPIPFYLSVYFFDVMNPSEILKGEKPQVRERGPYVYREFRHKSNITFNNNDTVSFLEYRTFQFQPSKSHGSESDYIVMPNILVLGAAVMMENKPMTLKLIMTLAFTTLGERAFMNRTVGEIMWGYKDPLVNLINKYFPGMFPFKDKFGLFAELNNSDSGLFTVFTGVQNISRIHLVDKWNGLSKVDFWHSDQCNMINGTSGQMWPPFMTPESSLEFYSPEACRSMKLMYKESGVFEGIPTYRFVAPKTLFANGSIYPPNEGFCPCLESGIQNVSTCRFSAPLFLSHPHFLNADPVLAEAVTGLHPNQEAHSLFLDIHPVTGIPMNCSVKLQLSLYMKSVAGIGQTGKIEPVVLPLLWFAESGAMEGETLHTFYTQLVLMPKVMHYAQYVLLALGCVLLLVPVICQIRSQGPEDTVSQPGLAAGPDRPPSPYTPLLPDSPSGQPPSPTA
+PTM	Glycosylation:102,106,107,108,310,317,330,383;Methylation:37,42,80,193;Phosphorylation:34,154,160,165,175,183,287,290,298,299;Ubiquitylation:42,100,184,202,236,284,288,305

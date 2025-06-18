@@ -1,0 +1,25 @@
+UniprotID	Q8NI32-2
+Accession	Q8NI32;D3DP90;Q53TK0;Q7Z747;Q8IXK7
+EntryName	LPD6B_HUMAN
+ProteinName	Ly6/PLAUR domain-containing protein 6B
+GeneName	LYPD6B
+Length	207
+Function	Likely acts as a modulator of nicotinic acetylcholine receptors (nAChRs) activity (PubMed:26586467, PubMed:34631692). In vitro acts on nAChRs in a subtype- and stoichiometry-dependent manner (PubMed:26586467). Modulates specifically alpha-3(3):beta-4(2) nAChRs by enhancing the sensitivity to ACh, decreasing ACh-induced maximal current response and increasing the rate of desensitization to ACh; has no effect on alpha-7 homomeric nAChRs; modulates alpha-3(2):alpha-5:beta-4(2) nAChRs in the context of CHRNA5/alpha-5 variant Asn-398 but not its wild-type sequence (PubMed:26586467). However, according to another report in vitro it can weakly inhibits alpha-7 nAChRs (PubMed:34631692).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLITLSANLFTVPERSLTTTFSFSRYKSSDRPAHKVSMLLLCHALAIAVVQIVIFSESWAFAKNINFYNVRPPLDPTPFPNSFKCFTCENAGDNYNCNRWAEDKWCPQNTQYCLTVHHFTSHGRSTSITKKCASRSECHFVGCHHSRDSEHTECRSCCEGMICNVELPTNHTNAVFAVMHAQRTSGSSAPTLYLPVLAWVFVLPLL
+PTM	Glycosylation:54;Methylation:40

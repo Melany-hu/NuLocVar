@@ -1,0 +1,25 @@
+UniprotID	Q16619-2
+Accession	Q16619;A8MVX4;Q5U5Y7
+EntryName	CTF1_HUMAN
+ProteinName	Cardiotrophin-1 (CT-1)
+GeneName	CTF1
+Length	200
+Function	Induces cardiac myocyte hypertrophy in vitro. Binds to and activates the ILST/gp130 receptor.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRREGSLDPQTDSSVSLLPHLEAKIRQTHSLAHLLTKYAEQLLQEYVQLQGDPFGLPSFSPPRLPVAGLSAPAPSHAGLPVHERLRLDAAALAALPPLLDAVCRRQAELNPRAPRLLRRLEDAARQARALGAAVEALLAALGAANRGPRAEPPAATASAASATGVFPAKVLGLRVCGLYREWLSRTEGDLGQLLPGGSA
+PTM	Methylation:39;Phosphorylation:7,62

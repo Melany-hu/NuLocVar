@@ -1,0 +1,25 @@
+UniprotID	P25063-2
+Accession	P25063;A0A087WYI6;B6EC88;Q16257;Q53XS0;R4I4T5
+EntryName	CD24_HUMAN
+ProteinName	Signal transducer CD24 (Small cell lung carcinoma cluster 4 antigen) (CD antigen CD24)
+GeneName	CD24 CD24A
+Length	129
+Function	May have a pivotal role in cell differentiation of different cell types. Signaling could be triggered by the binding of a lectin-like ligand to the CD24 carbohydrates, and transduced by the release of second messengers derived from the GPI-anchor. Modulates B-cell activation responses. Promotes AG-dependent proliferation of B-cells, and prevents their terminal differentiation into antibody-forming cells (PubMed:11313396). In association with SIGLEC10 may be involved in the selective suppression of the immune response to danger-associated molecular patterns (DAMPs) such as HMGB1, HSP70 and HSP90. Plays a role in the control of autoimmunity (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGRFCPESPPGFVRVAATSAVSLDPPSGEPRPGCGYPGPRSAASRVYGCTAPARETGGWAWETLAGAGAKKIYSSETTTGTSSNSSQSTSNSGLAPNPTNATTKAAGGALQSTASLFVVSLSLLHLYS
+PTM	

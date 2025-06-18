@@ -1,0 +1,25 @@
+UniprotID	P51659-3
+Accession	P51659;B4DNV1;B4DVS5;E9PB82;F5HE57
+EntryName	DHB4_HUMAN
+ProteinName	Peroxisomal multifunctional enzyme type 2 (MFE-2) (17-beta-hydroxysteroid dehydrogenase 4) (17-beta-HSD 4) (D-bifunctional protein) (DBP) (Multifunctional protein 2) (MFP-2) (Short chain dehydrogenase/reductase family 8C member 1) [Cleaved into: (3R)-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.n12); Enoyl-CoA hydratase 2 (EC 4.2.1.107) (EC 4.2.1.119) (3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholest-24-enoyl-CoA hydratase)]
+GeneName	HSD17B4 EDH17B4 SDR8C1
+Length	718
+Function	Bifunctional enzyme acting on the peroxisomal fatty acid beta-oxidation pathway. Catalyzes two of the four reactions in fatty acid degradation: hydration of 2-enoyl-CoA (trans-2-enoyl-CoA) to produce (3R)-3-hydroxyacyl-CoA, and dehydrogenation of (3R)-3-hydroxyacyl-CoA to produce 3-ketoacyl-CoA (3-oxoacyl-CoA), which is further metabolized by SCPx. Can use straight-chain and branched-chain fatty acids, as well as bile acid intermediates as substrates.
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSPLRFDGRVVLVTGAGAVNDLGGDFKGVGKGSLAADKVVEEIRRRGGKAVANYDSVEEGEKVVKTALDAFGRIDVVVNNAGILRDRSFARISDEDWDIIHRVHLRGSFQVTRAAWEHMKKQKYGRIIMTSSASGIYGNFGQANYSAAKLGLLGLANSLAIEGRKSNIHCNTIAPNAGSRMTQTVMPEDLVEALKPEYVAPLVLWLCHESCEENGGLFEVGAGWIGKLRWERTLGAIVRQKNHPMTPEAVKANWKKICDFENASKPQSIQESTGSIIEVLSKIDSEGGVSANHTSRATSTATSGFAGAIGQKLPPFSYAYTELEAIMYALGVGASIKDPKDLKFIYEGSSDFSCLPTFGVIIGQKSMMGGGLAEIPGLSINFAKVLHGEQYLELYKPLPRAGKLKCEAVVADVLDKGSGVVIIMDVYSYSEKELICHNQFSLFLVGSGGFGGKRTSDKVKVAVAIPNRPPDAVLTDTTSLNQAALYRLSGDWNPLHIDPNFASLAGFDKPILHGLCTFGFSARRVLQQFADNDVSRFKAIKARFAKPVYPGQTLQTEMWKEGNRIHFQTKVQETGDIVISNAYVDLAPTSGTSAKTPSEGGKLQSTFVFEEIGRRLKDIGPEVVKKVNAVFEWHITKGGNIGAKWTIDLKSGSGKVYQGPAKGAADTTIILSDEDFMEVVLGKLDPQKAFFSGRLKARGNIMLSQKLQMILKDYAKL
+PTM	Acetylation:46,57,81,84,139,184,270,403,415,424,565,579,614,621,636,644,663,669,674,707,725,731;Methylation:46,81,214,284,301,331,384,415,435,472,644,663,669,702;Phosphorylation:3,112,127,198,265,291,292,294,304,309,313,314,317,318,319,321,322,410,414,498,554,588,617,670,672,676,711;Ubiquitylation:50,68,81,184,270,565,644,645,669,674

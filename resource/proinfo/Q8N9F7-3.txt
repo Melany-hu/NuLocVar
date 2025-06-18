@@ -1,0 +1,25 @@
+UniprotID	Q8N9F7-3
+Accession	Q8N9F7;A8W735;Q56VR1;Q8N4E3
+EntryName	GDPD1_HUMAN
+ProteinName	Lysophospholipase D GDPD1 (EC 3.1.4.-) (Glycerophosphodiester phosphodiesterase 4) (Glycerophosphodiester phosphodiesterase domain-containing protein 1)
+GeneName	GDPD1 GDE4
+Length	289
+Function	Hydrolyzes lysoglycerophospholipids to produce lysophosphatidic acid (LPA) and the corresponding amines (PubMed:25596343, PubMed:27637550). Shows a preference for 1-O-alkyl-sn-glycero-3-phosphocholine (lyso-PAF), lysophosphatidylethanolamine (lyso-PE) and lysophosphatidylcholine (lyso-PC) (PubMed:25596343, PubMed:27637550). May be involved in bioactive N-acylethanolamine biosynthesis from both N-acyl-lysoplasmenylethanolamin (N-acyl-lysoPlsEt) and N-acyl-lysophosphatidylethanolamin (N-acyl-lysoPE) (PubMed:25596343, PubMed:27637550). In addition, hydrolyzes glycerophospho-N-acylethanolamine to N-acylethanolamine (PubMed:27637550). Does not display glycerophosphodiester phosphodiesterase activity, since it cannot hydrolyze either glycerophosphoinositol or glycerophosphocholine (By similarity).
+Subcellular Location	Cytoplasm; Membrane; Cytoplasm; Perinuclear region; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSTAAFYLLSTLGGYLVTSFLLLKYPTLLHQRKKQRFLSKHISHRGGAGENLENTMAAFQHAVKIGTDMLELDCHITKDEQVVVSHDENLKRATGVNVNISDLKYCELPPYLGKLDVSFQRACQCEGKDNRIPLLKEVFEAFPNTPINIDIKVNNNVLIKKVSELVKRYNREHLTVWGNANYEIVEKCYKENSDIPILFSLQRVLLILGLFFTGLLPFVPIREQFFEIPMPSIILKLKEPHTMSRSQKFLIWLSDLLLMRKALFEPLHPASKRNFEGHCSYLVVSCYF
+PTM	Acetylation:92;Methylation:25,92,105,137,153,161,168,188,237;Phosphorylation:95,102;SUMOylation:41;Ubiquitylation:41,65,79,92,105,304

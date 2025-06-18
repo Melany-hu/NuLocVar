@@ -1,0 +1,25 @@
+UniprotID	H0Y4A2
+Accession	H0Y4A2
+EntryName	H0Y4A2_HUMAN
+ProteinName	tRNA aspartic acid methyltransferase 1
+GeneName	TRDMT1
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSCIPAQVVAAIDVNTVANEVYKYNFPHTQLLAKTIERPLDTNNRKLWLSVPRVSIISNLSWHSKFKATIFSYCKASVRAITLSSP
+PTM	

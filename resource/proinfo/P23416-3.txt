@@ -1,0 +1,25 @@
+UniprotID	P23416-3
+Accession	P23416;A8K0J6;B2R6I8;B7Z4F5;J3KQ59;Q53YX7;Q6ICQ0;Q99862
+EntryName	GLRA2_HUMAN
+ProteinName	Glycine receptor subunit alpha-2
+GeneName	GLRA2
+Length	363
+Function	Subunit of heteromeric glycine-gated chloride channels (PubMed:15302677, PubMed:16144831, PubMed:2155780, PubMed:23895467, PubMed:25445488, PubMed:26370147, PubMed:34473954). Plays a role in synaptic plasticity (By similarity). Contributes to the generation of inhibitory postsynaptic currents, and is involved in the down-regulation of neuronal excitability (PubMed:25445488). Plays a role in cellular responses to ethanol (PubMed:23895467).
+Subcellular Location	Postsynaptic cell membrane; Synapse; Cell membrane; Cell projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDYRVNIFLRQQWNDSRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHDVTTDNKLLRISKNGKVLYSIRLTLTLSCPMDLKNFPMDVQTCTMQLESFGYTMNDLIFEWLSDGPVQVAEGLTLPQFILKEEKELGYCTKHYNTGKFTCIEVKFHLERQMGYYLIQMYIPSLLIVILSWVSFWINMDAAPARVALGITTVLTMTTQSSGSRASLPKVSYVKAIDIWMAVCLLFVFAALLEYAAVNFVSRQHKEFLRLRRRQKRQNKEEDVTRESRFNFSGYGMGHCLQVKDGTAVKATPANPLPQPPKDGDAIKKKFVDRAKRIDTISRAAFPLAFLIFNIFYWITYKIIRHEDVHKK
+PTM	Methylation:247,408;Phosphorylation:163,422

@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BI16
+Accession	A0AAQ5BI16
+EntryName	A0AAQ5BI16_HUMAN
+ProteinName	Neurensin 2
+GeneName	NRSN2
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGMGSAPTCTSSMRTVQALLSATTLRDLRSCAPAGPGPHCVGSLSSGTLLLLLGVAALTTGYAVPPKLEGIGEGEFLVLDQRAADYNQALGTCRLAGTALCVAAGVLLAICLFWAMIGWLSQDTKAEPLDPEADSHVEVFGDEPEQQLSPIFRNASGQSWFSPPASPFGQSSVQTIQPKRDS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8N801-2
+Accession	Q8N801;H7C2Z2
+EntryName	STPG4_HUMAN
+ProteinName	Protein STPG4 (Gonad-specific expression gene protein) (GSE) (Sperm-tail PG-rich repeat-containing protein 4)
+GeneName	STPG4 C2orf61
+Length	177
+Function	Maternal factor that plays a role in epigenetic chromatin reprogramming during early development of the zygote. Involved in the regulation of gametic DNA demethylation by inducing the conversion of the modified genomic base 5-methylcytosine (5mC) into 5-hydroxymethylcytosine (5hmC).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQPAVATASTSIREDLVGGESFITASKPAQKTSSFEREGWWRIALTDTPIPGTYHLKTFIEESLLNPVIATYNFKNEGRKKPPLVQRNNPVLNDLPQYMPPDFLDLLKKQVATYSFKDKPRPSPSTLVDKDQSLQLSPGQYNVLPAPVPKYASRSCVFRSTVQRFPTTYFIPVSIM
+PTM	Methylation:109

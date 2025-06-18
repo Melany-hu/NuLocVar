@@ -1,0 +1,25 @@
+UniprotID	P18621-2
+Accession	P18621;B2R4H3;B4E3C2;B5ME31;J3QL51;Q3KQW2;Q6NZ54;Q7M4M5
+EntryName	RL17_HUMAN
+ProteinName	Large ribosomal subunit protein uL22 (60S ribosomal protein L17) (60S ribosomal protein L23) (PD-1)
+GeneName	RPL17
+Length	146
+Function	Component of the large ribosomal subunit (PubMed:12962325, PubMed:23636399, PubMed:32669547). The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:12962325, PubMed:23636399, PubMed:32669547).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKEQIVPKPEEEVAQKKKISQKKLKKQKLMARE
+PTM	Acetylation:13,16,27,37,43,46,49,55,74,86,96,121,159,167,168;Methylation:13,37,55,96,105,121,153,159,167;Phosphorylation:4,5,12,14,29,47,87,100,111,139,141,142,151;SUMOylation:37,55,86,96,105,159,167;Ubiquitylation:13,16,27,37,46,49,55,74,86,96,105,121,159,167,168

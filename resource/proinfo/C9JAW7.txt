@@ -1,0 +1,25 @@
+UniprotID	C9JAW7
+Accession	C9JAW7
+EntryName	C9JAW7_HUMAN
+ProteinName	Protein tyrosine phosphatase non-receptor type 7
+GeneName	PTPN7
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQAHGGRSRAQPLTLSLGAAMTQPPPEKTPAKKHVRLQESGGLCLQAGLQCGSDAGRSVPGGRRTHLLCEHTPGGHPTLSAHCWTPPYPLGPSAPATQPQATGRRILEDPFKLCQPRRPGHPWPRLQGPIQDHLAKSPEPCLSRPGTEPGGR
+PTM	

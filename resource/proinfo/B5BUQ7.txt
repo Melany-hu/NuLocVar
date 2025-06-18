@@ -1,0 +1,25 @@
+UniprotID	B5BUQ7
+Accession	B5BUQ7
+EntryName	B5BUQ7_HUMAN
+ProteinName	Oncostatin M
+GeneName	OSM
+Length	209
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AAIGSCSKEYRVLLGQLQKQTDLMQDTSRLLDPYIRIQGLDVPKLREHCRERPGAFPSEETLRGLGRRGFLQTLNATLGCVLHRLADLEQRLPKAQDLERSGLNIEDLEKLQMARPNILGLRNNIYCMAQLLDNSDTAEPTKAGRGASQPPTPTPASDAFQRKLEGCRFLHGYHRFMHSVGRVFSKWGESPNRSRRHSPHQALRKGVRR
+PTM	

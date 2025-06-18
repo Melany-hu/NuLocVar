@@ -1,0 +1,25 @@
+UniprotID	E5RHW2
+Accession	E5RHW2
+EntryName	E5RHW2_HUMAN
+ProteinName	Zinc finger protein 419
+GeneName	ZNF419
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAALRDPAQVPVAADLLTDHEEGYVTFEDVAVYFSQEEWRLLDDAQRLLYRNVMLENFTLLASLGCWHGAEAEEAPEQIASVGLLSSNIQQHQKQHCGEKPLKRQEGRVPVLRSCKVHLSEKSLQSREVGKALLISSGVLKHQVTHTGEKSHRSSKSREAFHAGKRHYKCS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A5Q0LRV5
+Accession	A0A5Q0LRV5
+EntryName	A0A5Q0LRV5_HUMAN
+ProteinName	Urea transporter 1 (Solute carrier family 14 member 1) (Urea transporter, erythrocyte)
+GeneName	SLC14A1
+Length	64
+Function	
+Subcellular Location	Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PIFSSALNSMLSKWDHPVFTLPFNMALSMYLSATGHYNPFFPAKLVIPITTAPNISWSDLSALE
+PTM	

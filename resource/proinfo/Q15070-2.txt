@@ -1,0 +1,25 @@
+UniprotID	Q15070-2
+Accession	Q15070;A0A087X0L7;B4DPA2
+EntryName	OXA1L_HUMAN
+ProteinName	Mitochondrial inner membrane protein OXA1L (OXA1Hs) (Oxidase assembly 1-like protein) (OXA1-like protein)
+GeneName	OXA1L
+Length	419
+Function	Mitochondrial membrane insertase that mediates the cotranslational insertion of integral membrane proteins into the mitochondrial inner membrane (PubMed:17936786, PubMed:33602856, PubMed:7991568). Essential for the activity and assembly of cytochrome oxidase (PubMed:17936786, PubMed:7991568). Required for the correct biogenesis of ATP synthase and complex I in mitochondria (PubMed:17936786, PubMed:7991568).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGTQVHSVAGPSQWLGKPLTTRLLFPAAPCCCRPHYLFLAASGPRSLSTSAISFAEVQVQAPPVVAATPSPTAVPEVASGETADVVQTAAEQSFAELGLGSYTPVGLIQNLLEFMHVDLGLPWWGAIAACTVFARCLIFPLIVTGQREAARIHNHLPEIQKFSSRIREAKLAGDHIEYYKASSEMALYQKKHGIKLYKPLILPVTQAPIFISFFIALREMANLPVPSLQTGGLWWFQDLTVSDPIYILPLAVTATMWAVLELGAETGVQSSDLQWMRNVIRMMPLITLPITMHFPTAVFMYWLSSNLFSLVQVSCLRIPAVRTVLKIPQRVVHDLDKLPPREGFLESFKKGWKNAEMTRQLREREQRMRNQLELAARGPLRQTFTHNPLLQPGKDNPPNIPSSSSKPKSKYPWHDTLG
+PTM	Acetylation:178,187,207;Methylation:178,354;Phosphorylation:195,364;Ubiquitylation:178,207,343,366

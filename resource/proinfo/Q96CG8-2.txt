@@ -1,0 +1,25 @@
+UniprotID	Q96CG8-2
+Accession	Q96CG8;G3V141;Q6UW91;Q8IX63
+EntryName	CTHR1_HUMAN
+ProteinName	Collagen triple helix repeat-containing protein 1
+GeneName	CTHRC1 UNQ762/PRO1550
+Length	232
+Function	May act as a negative regulator of collagen matrix deposition.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPPGRSITVKLREKTVSRKLEMNGPSAFQGLICGKYNGMCLQGPAGVPGRDGSPGANGIPGTPGIPGRDGFKGEKGECLRESFEESWTPNYKQCSWSSLNYGIDLGKIAECTFTKMRSNSALRVLFSGSLRLKCRNACCQRWYFTFNGAECSGPLPIEAIIYLDQGSPEMNSTINIHRTSSVEGLCEGIGAGLVDVAIWVGTCSDYPKGDASTGWNSVSRIIIEELPIYML
+PTM	SUMOylation:148

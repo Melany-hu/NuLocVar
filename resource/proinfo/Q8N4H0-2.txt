@@ -1,0 +1,25 @@
+UniprotID	Q8N4H0-2
+Accession	Q8N4H0;B4DIY4;Q5JVJ5;Q8IY90
+EntryName	SPA6L_HUMAN
+ProteinName	Spermatogenesis associated 6-like protein
+GeneName	SPATA6L C9orf68
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLEVVVELQIRAISCPGVFLPGKQDVYLGVYLMNQYLETNSFPSAFPIMIQESMRFEKVFESAVDPGAVVDLLESFLARFELIQLVPPVWDELAYYEENTRDFLFPEPKLTPSHPRRCREVLMKTALGFPGIAPKIEFSTRTAIRECVFLHRNRFLVDSKSWLL
+PTM	Methylation:167;Phosphorylation:246

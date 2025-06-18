@@ -1,0 +1,25 @@
+UniprotID	Q9BTA9-2
+Accession	Q9BTA9;A8K2A9;C9JBT9;D3DRW5;D3DRW6;D3DRW7;Q53EN9;Q5JU75;Q5JU77;Q5VXK0;Q5VXK2;Q8TCK1;Q96DP3;Q96FW6;Q96JI3
+EntryName	WAC_HUMAN
+ProteinName	WW domain-containing adapter protein with coiled-coil
+GeneName	WAC KIAA1844
+Length	602
+Function	Acts as a linker between gene transcription and histone H2B monoubiquitination at 'Lys-120' (H2BK120ub1) (PubMed:21329877). Interacts with the RNA polymerase II transcriptional machinery via its WW domain and with RNF20-RNF40 via its coiled coil region, thereby linking and regulating H2BK120ub1 and gene transcription (PubMed:21329877). Regulates the cell-cycle checkpoint activation in response to DNA damage (PubMed:21329877). Positive regulator of amino acid starvation-induced autophagy (PubMed:22354037). Also acts as a negative regulator of basal autophagy (PubMed:26812014). Positively regulates MTOR activity by promoting, in an energy-dependent manner, the assembly of the TTT complex composed of TELO2, TTI1 and TTI2 and the RUVBL complex composed of RUVBL1 and RUVBL2 into the TTT-RUVBL complex. This leads to the dimerization of the mTORC1 complex and its subsequent activation (PubMed:26812014). May negatively regulate the ubiquitin proteasome pathway (PubMed:21329877).
+Subcellular Location	Nucleus speckle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDAGDPSPPNKMLRRSDSPENKYSDSTGHSKAKNVHTHRVRERDGGTSYSPQENSHNHSALHSSNSHSSNPSNNPSKTSDAPYDSADDWSEHISSSGKKYYYNCRTEVSQWEKPKEWLEREQRQKEANKMAVNSFPKDRDYRREVMQATATSGFASGMEDKHSSDASSLLPQNILSQTSRHNDRDYRLPRAETHSSSTPVQHPIKPVVHPTATPSTVPSSPFTLQSDHQPKKSFDANGASTLSKLPTPTSSVPAQKTERKESTSGDKPVSHSCTTPSTSSASGLNPTSAPPTSASAVPVSPVPQSPIPPLLQDPNLLRQLLPALQATLQLNNSNVDISKINEVLTAAVTQASLQSIIHKFLTAGPSAFNITSLISQAAQLSTQAQPSNQSPMSLTSDASSPRSYVSPRISTPQTNTVPIKPLISTPPVSSQPKVSTPVVKQGPVSQSATQQPVTADKQQGHEPVSPRSLQRSSSQRSPSPGPNHTSNSSNASNATVVPQNSSARSTCSLTPALAAHFSENLIKHVQGWPADHAEKQASRLREEAHNMGTIHMSEICTELKNLRSLVRVCEIQATLREQRILFLRQQIKELEKLKNQNSFMV
+PTM	Acetylation:57,144,251,302,466,486;Glycosylation:456;Methylation:29,251,385,466,569;Phosphorylation:4,12,22,25,30,31,53,62,64,69,70,93,94,95,96,101,105,109,110,115,129,131,136,140,141,142,225,239,241,242,243,244,257,259,261,262,265,266,269,272,279,287,289,293,295,373,408,436,445,446,449,450,452,456,457,460,462,470,471,475,476,481,482,491,493,500,511,518,519,520,523,525,531,532,534,535,538,541,547,548;SUMOylation:68,302,466,486;Ubiquitylation:29,33,175,302,466,479,486,634

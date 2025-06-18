@@ -1,0 +1,25 @@
+UniprotID	Q63ZY3-2
+Accession	Q63ZY3;B0I1P4;Q3KQZ3;Q6GUF5;Q9H8S4;Q9NUP0;Q9P210
+EntryName	KANK2_HUMAN
+ProteinName	KN motif and ankyrin repeat domain-containing protein 2 (Ankyrin repeat domain-containing protein 25) (Matrix-remodeling-associated protein 3) (SRC-1-interacting protein) (SIP) (SRC-interacting protein) (SRC1-interacting protein)
+GeneName	KANK2 ANKRD25 KIAA1518 MXRA3 SIP
+Length	859
+Function	Involved in transcription regulation by sequestering in the cytoplasm nuclear receptor coactivators such as NCOA1, NCOA2 and NCOA3 (PubMed:17476305). Involved in regulation of caspase-independent apoptosis by sequestering the proapoptotic factor AIFM1 in mitochondria (PubMed:22371500). Pro-apoptotic stimuli can induce its proteasomal degradation allowing the translocation of AIFM1 to the nucleus to induce apoptosis (PubMed:22371500). Involved in the negative control of vitamin D receptor signaling pathway (PubMed:24671081). Involved in actin stress fibers formation through its interaction with ARHGDIA and the regulation of the Rho signaling pathway (PubMed:17996375, PubMed:25961457). May thereby play a role in cell adhesion and migration, regulating for instance podocytes migration during development of the kidney (PubMed:25961457). Through the Rho signaling pathway may also regulate cell proliferation (By similarity).
+Subcellular Location	Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQVLHVPAPFPGTPGPASPPAFPAKDPDPPYSVETPYGYRLDLDFLKYVDDIEKGHTLRRVAVQRRPRLSSLPRGPGSWWTSTESLCSNASGDSRHSAYSYCGRGFYPQYGALETRGGFNPRVERTLLDARRRLEDQAATPTGLGSLTPSAAGSTASLVGVGLPPPTPRSSGLSTPVPPSAGHLAHVREQMAGALRKLRQLEEQVKLIPVLQVKLSVLQEEKRQLTVQLKSQKFLGHPTAGRGRSELCLDLPDPPEDPVALETRSVGTWVRERDLGMPDGEAALAAKVAVLETQLKKALQELQAAQARQADPQPQAWPPPDSPVRVDTVRVVEGPREVEVVASTAAGAPAQRAQSLEPYGTGLRALAMPGRPESPPVFRSQEVVETMCPVPAAATSNVHMVKKISITERSCDGAAGLPEVPAESSSSPPGSEVASLTQPEKSTGRVPTQEPTHREPTRQAASQESEEAGGTAPPLSSPPGGPPAGVRSIMKRKEEVADPTAHRRSLQFVGVNGGYESSSEDSSTAENISDNDSTENEAPEPRERVPSVAEAPQLRPAGTAAAKTSRQECQLSRESQHIPTAEGASGSNTEEEIRMELSPDLISACLALEKYLDNPNALTERELKVAYTTVLQEWLRLACRSDAHPELVRRHLVTFRAMSARLLDYVVNIADSNGNTALHYSVSHANFPVVQQLLDSGVCKVDKQNRAGYSPIMLTALATLKTQDDIETVLQLFRLGNINAKASQAGQTALMLAVSHGRVDVVKALLACEADVNVQDDDGSTALMCACEHGHKEIAGLLLAVPSCDISLTDRDGSTALMVALDAGQSEIASMLYSRMNIKCSFAPMSDDESPTSSSAEE
+PTM	Acetylation:234,297;Methylation:48,55,105,117,123,231,484,496,603,756;Phosphorylation:14,19,71,72,79,82,83,84,86,92,100,102,111,143,149,158,168,171,172,175,176,181,323,329,356,360,375,406,425,428,436,444,458,463,522,540,552,568,573,580,582,621,622,736;Ubiquitylation:48

@@ -1,0 +1,25 @@
+UniprotID	H0YM36
+Accession	H0YM36
+EntryName	H0YM36_HUMAN
+ProteinName	MOK protein kinase
+GeneName	MOK
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNGIFHRDVKPENILIKQDVLKLGDFGSCRSVYSKQPYTEYISTRWYRAPECLLTDGFYTYKMDLWSAGCVFYEIASLQPLFPGVNELDQISKIHDVIGTPAQKILTKFKQSRAMNFDFPFKKGSGIPLLTTNLSPQCLSLLHAMVAYDPDERIAAHQALQHPYFQEQRRLTP
+PTM	

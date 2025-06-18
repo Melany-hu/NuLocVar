@@ -1,0 +1,25 @@
+UniprotID	L8E8B9
+Accession	L8E8B9
+EntryName	L8E8B9_HUMAN
+ProteinName	Alternative protein TLR9
+GeneName	TLR9
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGRRSGCSLGTLLRPQWTLPALKTSGPTAAPSTSPWICHGTTW
+PTM	

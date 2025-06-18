@@ -1,0 +1,25 @@
+UniprotID	Q9BXD5-5
+Accession	Q9BXD5;B2R839;Q4G0Q8;Q4G0Z2;Q64L88;Q6PEL0
+EntryName	NPL_HUMAN
+ProteinName	N-acetylneuraminate lyase (NALase) (EC 4.1.3.3) (N-acetylneuraminate pyruvate-lyase) (N-acetylneuraminic acid aldolase) (Sialate lyase) (Sialate-pyruvate lyase) (Sialic acid aldolase) (Sialic acid lyase)
+GeneName	NPL C1orf13
+Length	109
+Function	Catalyzes the cleavage of N-acetylneuraminic acid (sialic acid) to form pyruvate and N-acetylmannosamine via a Schiff base intermediate (PubMed:33895133). It prevents sialic acids from being recycled and returning to the cell surface (PubMed:33895133). Involved in the N-glycolylneuraminic acid (Neu5Gc) degradation pathway (PubMed:22692205, PubMed:33895133). Although human is not able to catalyze formation of Neu5Gc due to the inactive CMAHP enzyme, Neu5Gc is present in food and must be degraded (Probable).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFPKKKLQGLVAATITPMTENGEINFSVIGQYVDYLVKEQGVKNIFVNGTTGEGLSLSVSERRQVAEEWVTKGKDKSNHHKLGTIRTTQSRQSSFRRQLKAWHSGSHL
+PTM	Methylation:117,129,152,165;Phosphorylation:89,302;Ubiquitylation:287

@@ -1,0 +1,25 @@
+UniprotID	H3BQT4
+Accession	H3BQT4
+EntryName	H3BQT4_HUMAN
+ProteinName	Lipase maturation factor 1
+GeneName	LMF1
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PSRAGPRPGASGTLLHPEGLCLPGFPGVIQTWGEKNHHPSHTQTQRDSKPGGAGWTQRPSPCQPKGHGPRSPPPAPRAQLCAGHQKPQIMTAAQTVATGPWCSVKPLAPAWAHSRGHERVLLWLHHHTHRAAGAQLCHGSQPGSSRPVG
+PTM	

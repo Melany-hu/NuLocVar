@@ -1,0 +1,25 @@
+UniprotID	B7Z4P9
+Accession	B7Z4P9
+EntryName	B7Z4P9_HUMAN
+ProteinName	Ras-related protein Rab-18
+GeneName	RAB18
+Length	197
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. Required for the localization of ZFYVE1 to lipid droplets and for its function in mediating the formation of endoplasmic reticulum-lipid droplets (ER-LD) contacts. Also required for maintaining endoplasmic reticulum structure. Plays a role in apical endocytosis/recycling. Plays a key role in eye and brain development and neurodegeneration.
+Subcellular Location	Lipid droplet
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEDVLTTLKILIIGESGVGKSSLLLRFTDDTFDPELAATIGVDFKVKTISVDGNKAKLAIWDTAGQERFRTLTPSYYRGAQGVILVYDVTRRDTFVKLDNWLNELETYCTRNDIVNMLVGNKIDKRQVQKPVMVYNVPLKNLLKRSFRPLDCGKVRTRIKESNCHTGKKAKEEEPVVVIALCYKLWEIPSLAYLIR
+PTM	

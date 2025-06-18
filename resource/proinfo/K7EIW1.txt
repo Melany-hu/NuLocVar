@@ -1,0 +1,25 @@
+UniprotID	K7EIW1
+Accession	K7EIW1
+EntryName	K7EIW1_HUMAN
+ProteinName	Zinc finger protein 461
+GeneName	ZNF461
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRDVAIDVSQEEWECLNPAQRNLYKEVMLENYSNLVSLGLSVSKPAVISSLEQGKEPWMVVREETGRWCP
+PTM	

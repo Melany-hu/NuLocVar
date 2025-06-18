@@ -1,0 +1,25 @@
+UniprotID	B4DUJ5
+Accession	B4DUJ5
+EntryName	B4DUJ5_HUMAN
+ProteinName	Coiled-coil domain containing 28A (cDNA FLJ60164, highly similar to Coiled-coil domain-containing protein 28A)
+GeneName	CCDC28A
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEERKVKRRSPKSFSAHCTQVVNAKKNAIPVSKSTGFSNPASQSTSQRPKLKRVMKEKTKPQGGEGKGAQSTPIQHSFLTDVSDVQEMERGLLSLLNDFHSGKLQAFGNECSIEQMEHVRGMQEKLARLNLELYGELEELPEDKRKTASDSNLDRLLSDLEELNSSIQKLHLADAQDVPNTSAS
+PTM	

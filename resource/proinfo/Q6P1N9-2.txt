@@ -1,0 +1,25 @@
+UniprotID	Q6P1N9-2
+Accession	Q6P1N9;B2R5J0;Q8TD02;Q9BY40
+EntryName	TATD1_HUMAN
+ProteinName	Deoxyribonuclease TATDN1 (EC 3.1.21.-) (Hepatocarcinoma high expression protein)
+GeneName	TATDN1 CDA11
+Length	250
+Function	Deoxyribonuclease which catalyzes (in vitro) the decatenation of kinetoplast DNA, which are circular DNA catenated to each other, producing linear DNA molecules (By similarity). Plays an important role in chromosomal segregation and cell cycle progression during eye development probably via its DNA decatenation activity (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	114...118
+validnes_region	
+nesbase_region	
+Sequence	MITGGNLQDSKDALHLAQTNGMFFSTVGCHPTRCGEFEKNNPDLYLKELLNLAENNKGKVVAIGECGLDFDRLQFCPKDTQLKYFEKQFELSEQTKLPMFLHCRNSHAEFLDIMKRNRDRCVGGVVHSFDGTKEAAAALIDLDLYIGFNGCSLKTEANLEVLKSIPSEKLMIETDAPWCGVKSTHAGSKYIRTAFPTKKKWESGHCLKDRNEPCHIIQILEIMSAVRDEDPLELANTLYNNTIKVFFPGI
+PTM	Acetylation:27,45,46,86,130,162,229,245;Methylation:19,45,86,94,210;SUMOylation:58,94,104,130,134,143,229,247;Ubiquitylation:27,45,46,86,94,104,106,125,130,134,143,162,210,229,245

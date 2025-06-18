@@ -1,0 +1,25 @@
+UniprotID	Q8TDM0-2
+Accession	Q8TDM0;Q5TD52;Q5TD53;Q5TD54;Q5U5K7;Q5XKE8;Q8IXI7;Q8NEZ6;Q8TDL9;Q9NX13;Q9Y511
+EntryName	BCAS4_HUMAN
+ProteinName	Breast carcinoma-amplified sequence 4
+GeneName	BCAS4
+Length	147
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRTGGGAPRPGRNHGLPGSLRQPDPVALLMLLVDADQPEPMRSGARELALFLTPEPGAEAKEVEETIEGMLLRLEEFCSLADLIRSDTSQILEENIPVLKAKLTEMRGIYAKVDRLEKSPAPVPVTYELPTLYRTEDYFPVDAGEA
+PTM	Phosphorylation:20,111;Ubiquitylation:113

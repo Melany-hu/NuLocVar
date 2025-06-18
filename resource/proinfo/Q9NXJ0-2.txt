@@ -1,0 +1,25 @@
+UniprotID	Q9NXJ0-2
+Accession	Q9NXJ0;F5GX98;Q8N6L4
+EntryName	M4A12_HUMAN
+ProteinName	Membrane-spanning 4-domains subfamily A member 12
+GeneName	MS4A12
+Length	221
+Function	May be involved in signal transduction as a component of a multimeric receptor complex.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMSSKPTSHAEVNETIPNPYPPSSFMAPGFQQPLGSINLENQAQGAQRAQPYGITSPGIFASSQPGQGNIQMINPSVGTAVMNFKEEAKALGFIISGSLSVSASKELSRCLVKGSLGMNIVSSILAFIGVILLLVDMCINGVAGQDYWAVLSGKGISATLMIFSLLEFFVACATAHFANQANTTTNMSVLVIPNMYESNPVTPASSSAPPRCNNYSANAPK
+PTM	Phosphorylation:113,115

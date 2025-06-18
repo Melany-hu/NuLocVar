@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JQ95
+Accession	A0A0G2JQ95
+EntryName	A0A0G2JQ95_HUMAN
+ProteinName	LSM14A mRNA processing body assembly factor
+GeneName	LSM14A
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EKQEKPVNGEDKGDSGVDTQNSEGNADEEDPLGPNCYYDKTKSFFDNISCDDNRERRPTWAEERRLNAETFGIPLRPNRGRGGYRGRGGLGFRGGRGRGGGRGGTFTAPRGFRGGFRGGRGGREFADFEYRVSVTVNKFFGVDM
+PTM	

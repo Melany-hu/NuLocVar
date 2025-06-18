@@ -1,0 +1,25 @@
+UniprotID	Q14108-2
+Accession	Q14108;B4DKD8;E7EM68;Q53Y63
+EntryName	SCRB2_HUMAN
+ProteinName	Lysosome membrane protein 2 (85 kDa lysosomal membrane sialoglycoprotein) (LGP85) (CD36 antigen-like 2) (Lysosome membrane protein II) (LIMP II) (Scavenger receptor class B member 2) (CD antigen CD36)
+GeneName	SCARB2 CD36L2 LIMP2 LIMPII
+Length	335
+Function	Acts as a lysosomal receptor for glucosylceramidase (GBA1) targeting.
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRCCFYTAGTLSLLLLVTSVTLLVARVFQKAVDQSIEKKIVLRNGTEAFDSWEKPPLPVYTQFYFFNVTNPEEILRGETPRVEEVGPYTYRSLDWWITDKCNMINGTDGDSFHPLITKDEVLYVFPSDFCRSVYITFSDYESVQGLPAFRYKVPAEILANTSDNAGFCIPEGNCLGSGVLNVSICKNGAPIIMSFPHFYQADERFVSAIEGMHPNQEDHETFVDINPLTGIILKAAKRFQINIYVKKLDDFVETGDIRTMVFPVMYLNESVHIDKETASRLKSMINTTLIITNIPYIIMALGVFFGLVFTWLACKGQGSMDEGTADERAPLIRT
+PTM	Glycosylation:68,99,105,206,209,224,246,249,308,317,325,331,412;Methylation:31,39,161,244,262,378;Phosphorylation:36,478

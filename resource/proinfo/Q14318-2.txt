@@ -1,0 +1,25 @@
+UniprotID	Q14318-2
+Accession	Q14318;C8C9T5;Q53GU3;Q7Z349;Q86YK6
+EntryName	FKBP8_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase FKBP8 (PPIase FKBP8) (EC 5.2.1.8) (38 kDa FK506-binding protein) (38 kDa FKBP) (FKBP-38) (hFKBP38) (FK506-binding protein 8) (FKBP-8) (FKBPR38) (Rotamase)
+GeneName	FKBP8 FKBP38
+Length	413
+Function	Constitutively inactive PPiase, which becomes active when bound to calmodulin and calcium. Seems to act as a chaperone for BCL2, targets it to the mitochondria and modulates its phosphorylation state. The BCL2/FKBP8/calmodulin/calcium complex probably interferes with the binding of BCL2 to its targets. The active form of FKBP8 may therefore play a role in the regulation of apoptosis. Involved in the inhibition of viral infection by influenza A viruses (IAV) (PubMed:28169297).
+Subcellular Location	Mitochondrion; Mitochondrion membrane; Mitochondrion membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASCAEPSEPSAPLPAGVPPLEDFEVLDGVEDAEGEEEEEEEEEEEDDLSELPPLEDMGQPPAEEAEQPGALAREFLAAMEPEPAPAPAPEEWLDILGNGLLRKKTLVPGPPGSSRPVKGQVVTVHLQTSLENGTRVQEEPELVFTLGDCDVIQALDLSVPLMDVGETAMVTADSKYCYGPQGSRSPYIPPHAALCLEVTLKTAVDGPDLEMLTGQERVALANRKRECGNAHYQRADFVLAANSYDLAIKAITSSAKVDMTFEEEAQLLQLKVKCLNNLAASQLKLDHYRAALRSCSLVLEHQPDNIKALFRKGKVLAQQGEYSEAIPILRAALKLEPSNKTIHAELSKLVKKHAAQRSTETALYRKMLGNPSRLPAKCPGKGAWSIPWKWLFGATAVALGGVALSVVIAARN
+PTM	Acetylation:307,334,348;Methylation:104,249,271,307;Phosphorylation:294,296,322,323,341,358,364,372;SUMOylation:119,271,273,334;Ubiquitylation:249,271,273,284,307,314,334,340,348,366,377

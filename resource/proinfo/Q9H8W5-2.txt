@@ -1,0 +1,25 @@
+UniprotID	Q9H8W5-2
+Accession	Q9H8W5;Q53GN0;Q5T2K4;Q5T2K5;Q8IYV6
+EntryName	TRI45_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM45 (EC 2.3.2.27) (RING finger protein 99)
+GeneName	TRIM45 RNF99
+Length	562
+Function	E3 ubiquitin-protein ligase that plays a role in the regulation of inflammatory response (PubMed:36681779). Mechanistically, mediates the 'Lys-48'-linked polyubiquitination of TAB2, a regulatory protein of the kinase TAK1, leading to its degradation via the proteasomal pathway and inhibition of the TLR-mediated inflammatory immune response (PubMed:36681779). May act as a transcriptional repressor in mitogen-activated protein kinase signaling pathway.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSENRKPLLGFVSKLTSGTALGNSGKTHCPLCLGLFKAPRLLPCLHTVCTTCLEQLEPFSVVDIRGGDSDTSSEGSIFQELKPRSLQSQIGILCPVCDAQVDLPMGGVKALTIDHLAVNDVMLESLRGEGQGLVCDLCNDREVEKRCQTCKANLCHFCCQAHRRQKKTTYHTMVDLKDLKGYSRIGKPILCPVHPAEELRLFCEFCDRPVCQDCVVGEHREHPCDFTSNVIHKHGDSVWELLKGTQPHVEALEEALAQIHIINSALQKRVEAVAADVRTFSEGYIKAIEEHRDKLLKQLEDIRAQKENSLQLQKAQLEQLLADMRTGVEFTEHLLTSGSDLEILITKRVVVERLRKLNKVQYSTRPGVNDKIRFCPQEKAGQCRGYEIYDLHRAREKQTASFTLLCKDAAGEIMGRGGDNVQVAVVPKDKKDSPVRTMVQDNKDGTYYISYTPKEPGVYTVWVCIKEQHVQGSPFTVMVRRKHRPHSGVFHCCTFCSSGGQKTARCACGGTMPGGYLGCGHGHKGHPGHPHWSCCGKFNEKSECTWTGGQSAPRSLLRTVAL
+PTM	Methylation:82,145,177,243,268,347,415,484;Phosphorylation:451;SUMOylation:6,82,187,359,371,395,446,461

@@ -1,0 +1,25 @@
+UniprotID	Q63HM1-2
+Accession	Q63HM1;A2RUB3
+EntryName	KFA_HUMAN
+ProteinName	Kynurenine formamidase (KFA) (KFase) (EC 3.5.1.9) (Arylformamidase) (N-formylkynurenine formamidase) (FKF)
+GeneName	AFMID
+Length	308
+Function	Catalyzes the hydrolysis of N-formyl-L-kynurenine to L-kynurenine, the second step in the kynurenine pathway of tryptophan degradation. Kynurenine may be further oxidized to nicotinic acid, NAD(H) and NADP(H). Required for elimination of toxic metabolites.
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMDVSGVGFPSKVPWKKMSAEELENQYCPSRWVVRLGAEEALRTYSQIGIEATTRARATRKSLLHVPYGDGEGEKVDIYFPDESSEALPFFLFFHGGYWQSGSKDESAFMVHPLTAQGVAVVIVAYGIAPKGTLDHMVDQVTRSVAFVQKRYPSNKGIYLCGHSAGAHLAAMMLLADWTKHGVTPNLRGFFLVSGVFDLEPIVYTSQNVALQLTLEDAQRNSPQLKVAQAQPVDPTCRVLVVVGQFDSPEFHRQSWEFYQVLPVQTLCQGEWKASFEELHDVDHFEIVENLTQKDNVLTQIILKTIFQ
+PTM	SUMOylation:17;Ubiquitylation:17,226

@@ -1,0 +1,25 @@
+UniprotID	A0A5K1VW64
+Accession	A0A5K1VW64
+EntryName	A0A5K1VW64_HUMAN
+ProteinName	Aprataxin (EC 3.6.1.71) (EC 3.6.1.72) (Forkhead-associated domain histidine triad-like protein)
+GeneName	APTX
+Length	270
+Function	DNA-binding protein involved in single-strand DNA break repair, double-strand DNA break repair and base excision repair. Resolves abortive DNA ligation intermediates formed either at base excision sites, or when DNA ligases attempt to repair non-ligatable breaks induced by reactive oxygen species. Catalyzes the release of adenylate groups covalently linked to 5'-phosphate termini, resulting in the production of 5'-phosphate termini that can be efficiently rejoined. Also able to hydrolyze adenosine 5'-monophosphoramidate (AMP-NH(2)) and diadenosine tetraphosphate (AppppA), but with lower catalytic activity. Likewise, catalyzes the release of 3'-linked guanosine (DNAppG) and inosine (DNAppI) from DNA, but has higher specific activity with 5'-linked adenosine (AppDNA).
+Subcellular Location	Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMRVCWLVRQDSRHQRIRLPHLEAVVIGRGPETKITDKKCSRQQVQLKAECNKGYVKVKQVGVNPTSIDSVVIGKDQEVKLQPGQVLHMESLGHWSQGLKISMQDPKMQVYKDEQVVVIKDKYPKARYHWLVLPWTSISSLKAVAREHLELLKHMHTVGEKVIVDFAGSSKLRFRLGYHAIPSMSHVHLHVISQDFDSPCLKNKKHWNSFNTEYFLESQAVIEMVQEAGRVTVRDGMPELLKLPLRCHECQQLLPSIPQLKEHLRKHWTQ
+PTM	

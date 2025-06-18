@@ -1,0 +1,25 @@
+UniprotID	O95259-2
+Accession	O95259;B1AQ26;O76035;Q14CL3
+EntryName	KCNH1_HUMAN
+ProteinName	Voltage-gated delayed rectifier potassium channel KCNH1 (Ether-a-go-go potassium channel 1) (EAG channel 1) (h-eag) (hEAG1) (Potassium voltage-gated channel subfamily H member 1) (Voltage-gated potassium channel subunit Kv10.1)
+GeneName	KCNH1 EAG EAG1
+Length	962
+Function	Pore-forming (alpha) subunit of a voltage-gated delayed rectifier potassium channel that mediates outward-rectifying potassium currents which, on depolarization, reaches a steady-state level and do not inactivate (PubMed:10880439, PubMed:11943152, PubMed:22732247, PubMed:25420144, PubMed:25556795, PubMed:25915598, PubMed:27005320, PubMed:27325704, PubMed:27618660, PubMed:30149017, PubMed:9738473). The activation kinetics depend on the prepulse potential and external divalent cation concentration (PubMed:11943152). With negative prepulses, the current activation is delayed and slowed down several fold, whereas more positive prepulses speed up activation (PubMed:11943152). The time course of activation is biphasic with a fast and a slowly activating current component (PubMed:11943152). Activates at more positive membrane potentials and exhibit a steeper activation curve (PubMed:11943152). Channel properties are modulated by subunit assembly (PubMed:11943152). Mediates IK(NI) current in myoblasts (PubMed:9738473). Involved in the regulation of cell proliferation and differentiation, in particular adipogenic and osteogenic differentiation in bone marrow-derived mesenchymal stem cells (MSCs) (PubMed:23881642).
+Subcellular Location	Cell membrane; Nucleus inner membrane; Cell projection; Dendrite; Cell projection; Axon; Presynaptic cell membrane; Perikaryon; Postsynaptic density membrane; Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	95...99
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMAGGRRGLVAPQNTFLENIVRRSNDTNFVLGNAQIVDWPIVYSNDGFCKLSGYHRAEVMQKSSTCSFMYGELTDKDTIEKVRQTFENYEMNSFEILMYKKNRTPVWFFVKIAPIRNEQDKVVLFLCTFSDITAFKQPIEDDSCKGWGKFARLTRALTSSRGVLQQLAPSVQKGENVHKHSRLAEVLQLGSDILPQYKQEAPKTPPHIILHYCVFKTTWDWIILILTFYTAILVPYNVSFKTRQNNVAWLVVDSIVDVIFLVDIVLNFHTTFVGPAGEVISDPKLIRMNYLKTWFVIDLLSCLPYDVINAFENVDEGISSLFSSLKVVRLLRLGRVARKLDHYIEYGAAVLVLLVCVFGLAAHWMACIWYSIGDYEIFDEDTKTIRNNSWLYQLAMDIGTPYQFNGSGSGKWEGGPSKNSVYISSLYFTMTSLTSVGFGNIAPSTDIEKIFAVAIMMIGSLLYATIFGNVTTIFQQMYANTNRYHEMLNSVRDFLKLYQVPKGLSERVMDYIVSTWSMSRGIDTEKVLQICPKDMRADICVHLNRKVFKEHPAFRLASDGCLRALAMEFQTVHCAPGDLIYHAGESVDSLCFVVSGSLEVIQDDEVVAILGKGDVFGDVFWKEATLAQSCANVRALTYCDLHVIKRDALQKVLEFYTAFSHSFSRNLILTYNLRKRIVFRKISDVKREEEERMKRKNEAPLILPPDHPVRRLFQRFRQQKEARLAAERGGRDLDDLDVEKGNVLTEHASANHSLVKASVVTVRESPATPVSFQAASTSGVPDHAKLQAPGSECLGPKGGGGDCAKRKSWARFKDACGKSEDWNKVSKAESMETLPERTKASGEATLKKTDSCDSGITKSDLRLDNVGEARSPQDRSPILAEVKHSFYPIPEQTLQATVLEVRHELKEDIKALNAKMTNIEKQLSEILRILTSRRSSQSPQELFEISRPQSPESERDIFGAS
+PTM	Methylation:82,293,477,524,640,679,949;Phosphorylation:79,171,462,463,473,869,899,904,959

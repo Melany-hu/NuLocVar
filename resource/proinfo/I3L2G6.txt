@@ -1,0 +1,25 @@
+UniprotID	I3L2G6
+Accession	I3L2G6
+EntryName	I3L2G6_HUMAN
+ProteinName	Gamma-glutamyltransferase 6
+GeneName	GGT6
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERAEEPVVYQKLLPWEPSLESEEEVEEEETSEALVLNPRRHQDSSRNKAGGLPGTWARVVAALLLLAVGCSLAVRQLQNQGRSTGSLGSVAPPPGGHSHGPGVYHHGAIISPAGRELLVAGGNVVDAGVGAALCLAVVHPHATGLDCCEPREQCPGRRGQQRLCAPSHLLAQLLLWLCT
+PTM	

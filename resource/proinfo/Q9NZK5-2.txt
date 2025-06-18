@@ -1,0 +1,25 @@
+UniprotID	Q9NZK5-2
+Accession	Q9NZK5;A8K9H4;Q6ICF1;Q86UB6;Q8NCJ2;Q96K41
+EntryName	ADA2_HUMAN
+ProteinName	Adenosine deaminase 2 (EC 3.5.4.4) (Cat eye syndrome critical region protein 1)
+GeneName	ADA2 ADGF CECR1 IDGFL
+Length	270
+Function	Adenosine deaminase that may contribute to the degradation of extracellular adenosine, a signaling molecule that controls a variety of cellular responses. Requires elevated adenosine levels for optimal enzyme activity. Binds to cell surfaces via proteoglycans and may play a role in the regulation of cell proliferation and differentiation, independently of its enzyme activity.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSLEWNWALVYELSGEHHDEEWSVKTYQEVAQKFVETHPEFIGIKIIYSDHRSKDVAVIAESIRMAMGLRIKFPTVVAGFDLVGHEDTGHSLHDYKEALMIPAKDGVKLPYFFHAGETDWQGTSIDRNILDALMLNTTRIGHGFALSKHPAVRTYSWKKDIPIEVCPISNQVLKLVSDLRNHPVATLMATGHPMVISSDDPAMFGAKGLSYDFYEVFMGIGGMKADLRTLKQLAMNSIKYSTLLESEKNTFMEIWKKRWDKFIADVATK
+PTM	Glycosylation:174,378;Methylation:40,350,416;Phosphorylation:181,482,488;SUMOylation:72

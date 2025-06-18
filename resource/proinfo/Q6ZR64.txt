@@ -1,0 +1,25 @@
+UniprotID	Q6ZR64
+Accession	Q6ZR64
+EntryName	Q6ZR64_HUMAN
+ProteinName	HBV PreS1-transactivated protein 1 (Matrix remodeling associated 7) (cDNA FLJ46603 fis, clone THYMU3047513)
+GeneName	MXRA7
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTERVGDGKQHRRKQSQRLRWPCCLALVPDRHPSQLSSCTLCLLAAASQWESWAHFSKWHTEASTGTHLGKAKAEGLGCTVKNTPQLSICEPSHFGPSFVHSPHLLVDHDHRAGAATGRGQAGPSRASSVSPTFCPPTTSHHPVCAKGTDPVLVLQEEEQDLDGEKGPSSEGPEEEDGEGFSFKYSPGKLRGNQYKKMMTKEELEEEQRTEE
+PTM	

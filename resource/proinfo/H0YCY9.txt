@@ -1,0 +1,25 @@
+UniprotID	H0YCY9
+Accession	H0YCY9
+EntryName	H0YCY9_HUMAN
+ProteinName	ATP binding cassette subfamily D member 4
+GeneName	ABCD4
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVVIAIPIFSGVYGDLSPAELSTLVSKNAFVCIYLISCFTQLIDLSTTLSDVAGYTHRIGQLRETLLDMSLKSQDCEILGESEWGLDTPPGWPAAEPADTAFLLERVSISAPSSDKPLIKDLSLKISEGQSLLITGNTGTGKTSLLRVLGGLWTSTRGDISPEGGLPRLRFCR
+PTM	

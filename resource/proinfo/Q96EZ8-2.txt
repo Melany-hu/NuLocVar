@@ -1,0 +1,25 @@
+UniprotID	Q96EZ8-2
+Accession	Q96EZ8;O14742;O75497;Q6VN53;Q7Z372
+EntryName	MCRS1_HUMAN
+ProteinName	Microspherule protein 1 (58 kDa microspherule protein) (Cell cycle-regulated factor p78) (INO80 complex subunit J) (MCRS2)
+GeneName	MCRS1 INO80Q MSP58
+Length	475
+Function	Modulates the transcription repressor activity of DAXX by recruiting it to the nucleolus (PubMed:11948183). As part of the NSL complex it may be involved in acetylation of nucleosomal histone H4 on several lysine residues (PubMed:20018852). Putative regulatory component of the chromatin remodeling INO80 complex which is involved in transcriptional regulation, DNA replication and probably DNA repair. May also be an inhibitor of TERT telomerase activity (PubMed:15044100). Binds to G-quadruplex structures in mRNA (PubMed:16571602). Binds to RNA homomer poly(G) and poly(U) (PubMed:16571602).
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	113..123
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	130...135;126...136
+validnes_region	
+nesbase_region	
+Sequence	MTRGTGGTAQRGRSGPDSQGLLDSSLMASGTASRSEDEESLAGQKRASSQALGTIPKRRSSSRFIKRKKFDDELVESSLAKSSTRAKGASGVEPGRCSGSEPSSSEKKKVSKAPSTPVPPSPAPAPGLTKRVKKSKQPLQVTKDLGRWKPADDLLLINAVLQTNDLTSVHLGVKFSCRFTLREVQERWYALLYDPVISKLACQAMRQLHPEAIAAIQSKALFSKAEEQLLSKVGSTSQPTLETFQDLLHRHPDAFYLARTAKALQAHWQLMKQYYLLEDQTVQPLPKGDQVLNFSDAEDLIDDSKLKDMRDEVLEHELMVADRRQKREIRQLEQELHKWQVLVDSITGMSSPDFDNQTLAVLRGRMVRYLMRSREITLGRATKDNQIDVDLSLEGPAWKISRKQGVIKLKNNGDFFIANEGRRPIYIDGRPVLCGSKWRLSNNSVVEIASLRFVFLINQDLIALIRAEAAKITPQ
+PTM	Acetylation:3,32,68,99,117,121,123,130,211,424;Methylation:44,74,161,206,219,395;Phosphorylation:5,11,16,18,20,22,27,47,48,70,85,87,90,91,102,103,108,167,210,282,291,364;SUMOylation:44,56,68,74,99,117,123,130,206,211,219,249,274,292,294,325,386,397;Ubiquitylation:99,211,219,397,424

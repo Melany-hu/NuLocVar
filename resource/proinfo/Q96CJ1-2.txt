@@ -1,0 +1,25 @@
+UniprotID	Q96CJ1-2
+Accession	Q96CJ1;Q9NZ82
+EntryName	EAF2_HUMAN
+ProteinName	ELL-associated factor 2 (Testosterone-regulated apoptosis inducer and tumor suppressor protein)
+GeneName	EAF2 TRAITS BM-040
+Length	130
+Function	Acts as a transcriptional transactivator of TCEA1 elongation activity (By similarity). Acts as a transcriptional transactivator of ELL and ELL2 elongation activities. Potent inducer of apoptosis in prostatic and non-prostatic cell lines. Inhibits prostate tumor growth in vivo.
+Subcellular Location	Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWNSARTPNLVKHSPSEDKMSPASPIDDIERELKAEASLMDQMSSCDSSSDSKSSSSSSSEDSSSDSEDEDCKSSTSDTGNCVSGHPTMTQYRIPDIDASHNRFRDNSGLLMNTLRNDLQLSESGSDSDD
+PTM	Methylation:142;Phosphorylation:22,144,146,151,154,252,254,256,258

@@ -1,0 +1,25 @@
+UniprotID	Q01968-2
+Accession	Q01968;A6NKI1;A8KAP2;B7ZLX2;O60800;Q15684;Q15774;Q4VY09;Q4VY10;Q5JQF1;Q5JQF2;Q9UJG5;Q9UMA5
+EntryName	OCRL_HUMAN
+ProteinName	Inositol polyphosphate 5-phosphatase OCRL (EC 3.1.3.36) (EC 3.1.3.56) (Inositol polyphosphate 5-phosphatase OCRL-1) (OCRL-1) (Lowe oculocerebrorenal syndrome protein) (Phosphatidylinositol 3,4,5-triphosphate 5-phosphatase) (EC 3.1.3.86)
+GeneName	OCRL OCRL1
+Length	893
+Function	Catalyzes the hydrolysis of the 5-position phosphate of phosphatidylinositol 4,5-bisphosphate (PtdIns(4,5)P2) and phosphatidylinositol-3,4,5-bisphosphate (PtdIns(3,4,5)P3), with the greatest catalytic activity towards PtdIns(4,5)P2 (PubMed:10764818, PubMed:15474001, PubMed:7761412, PubMed:9430698). Able also to hydrolyze the 5-phosphate of inositol 1,4,5-trisphosphate and of inositol 1,3,4,5-tetrakisphosphate (PubMed:25869668, PubMed:7761412). Regulates traffic in the endosomal pathway by regulating the specific pool of phosphatidylinositol 4,5-bisphosphate that is associated with endosomes (PubMed:21971085). Involved in primary cilia assembly (PubMed:22228094, PubMed:22543976). Acts as a regulator of phagocytosis, hydrolyzing PtdIns(4,5)P2 to promote phagosome closure, through attenuation of PI3K signaling (PubMed:22072788).
+Subcellular Location	Cytoplasmic vesicle; Phagosome membrane; Early endosome membrane; Membrane; Clathrin-coated pit; Cell projection; Cilium; Photoreceptor outer segment; Cell projection; Cilium; Cytoplasmic vesicle; Endosome; Golgi apparatus; trans-Golgi network; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPPLPVGAQPLATVEGMEMKGPLREPCALTLAQRNGQYELIIQLHEKEQHVQDIIPINSHFRCVQEAEETLLIDIASNSGCKIRVQGDWIRERRFEIPDEEHCLKFLSAVLAAQKAQSQLLVPEQKDSSSWYQKLDTKDKPSVFSGLLGFEDNFSSMNLDKKINSQNQPTGIHREPPPPPFSVNKMLPREKEASNKEQPKVTNTMRKLFVPNTQSGQREGLIKHILAKREKEYVNIQTFRFFVGTWNVNGQSPDSGLEPWLNCDPNPPDIYCIGFQELDLSTEAFFYFESVKEQEWSMAVERGLHSKAKYKKVQLVRLVGMMLLIFARKDQCRYIRDIATETVGTGIMGKMGNKGGVAVRFVFHNTTFCIVNSHLAAHVEDFERRNQDYKDICARMSFVVPNQTLPQLNIMKHEVVIWLGDLNYRLCMPDANEVKSLINKKDLQRLLKFDQLNIQRTQKKAFVDFNEGEIKFIPTYKYDSKTDRWDSSGKCRVPAWCDRILWRGTNVNQLNYRSHMELKTSDHKPVSALFHIGVKVVDERRYRKVFEDSVRIMDRMENDFLPSLELSRREFVFENVKFRQLQKEKFQISNNGQVPCHFSFIPKLNDSQYCKPWLRAEPFEGYLEPNETVDISLDVYVSKDSVTILNSGEDKIEDILVLHLDRGKDYFLTISGNYLPSCFGTSLEALCRMKRPIREVPVTKLIDLEKSLLQMVPLDEGASERPLQVPKEIWLLVDHLFKYACHQEDLFQTPGMQEELQQIIDCLDTSIPETIPGSNHSVAEALLIFLEALPEPVICYELYQRCLDSAYDPRICRQVISQLPRCHRNVFRYLMAFLRELLKFSEYNSVNANMIATLFTSLLLRPPPNLMARQTPSDRQRAIQFLLGFLLGSEED
+PTM	Acetylation:449;Methylation:162,224,229,436,441,536,578,848;Phosphorylation:133,157,405,437,477,479,513,709,854;Ubiquitylation:106,116,127,135,208,351,391,441,449,461,482,491,701,713,715

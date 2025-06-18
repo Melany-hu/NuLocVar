@@ -1,0 +1,25 @@
+UniprotID	H3BUX8
+Accession	H3BUX8
+EntryName	H3BUX8_HUMAN
+ProteinName	Kelch domain containing 4
+GeneName	KLHDC4
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKKGKKEKKGRGAEKTAAKMEKKVSKRSRKEERANNHHSSPEQ
+PTM	

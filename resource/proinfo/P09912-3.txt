@@ -1,0 +1,25 @@
+UniprotID	P09912-3
+Accession	P09912;Q13141;Q13142;Q5VVR2;Q5VVR3;Q6IE95;Q969M8
+EntryName	IFI6_HUMAN
+ProteinName	Interferon alpha-inducible protein 6 (Interferon-induced protein 6-16) (Ifi-6-16)
+GeneName	IFI6 G1P3
+Length	138
+Function	Interferon-stimulated protein that plays an important role in innate immune response against a wide variety of viruses (PubMed:31142663). Inhibits flavivirus replication by preventing the formation of virus-induced endoplasmic reticulum membrane invaginations, which are double-membrane vesicles that flaviviruses use for their replication (PubMed:30224801). Has an antiviral activity towards hepatitis C virus/HCV by inhibiting the EGFR signaling pathway, whose activation is required for entry of the virus into cells (PubMed:25757571). Within the nucleus, restricts hepatitis B virus/HBV promoter activity leading to substantial reduction of viral replication and gene expression (PubMed:33868257). Plays a role in apoptosis, negatively regulating the intrinsinc apoptotic signaling pathway and TNFSF10-induced apoptosis (PubMed:15685448, PubMed:17823654, PubMed:26244642). However, it has also been shown to have a pro-apoptotic activity (PubMed:27673746). Modulates innate immune response mediated by RIGI by preventing its activation (PubMed:36793726).
+Subcellular Location	Endoplasmic reticulum membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQKAVSLFLCYLLLFTCSGVEAGENAGKDAGKKKCSESSDSGSGFWKALTFMAVGGGLAVAGLPALGFTGAGIAANSVAASLMSWSAILNGGGVPAGGLVATLQSLGAGGSSVVIGNIGALMGYATHKYLDSEEDEE
+PTM	Phosphorylation:125

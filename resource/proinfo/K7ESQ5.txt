@@ -1,0 +1,25 @@
+UniprotID	K7ESQ5
+Accession	K7ESQ5
+EntryName	K7ESQ5_HUMAN
+ProteinName	Zinc finger protein 461
+GeneName	ZNF461
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVREETGRWCPDLASRDEPQKLSPKRDIYETELSQWVNMEEFKSHSPERSIFSAIWEGNCHFEQHQGQEEGYFRQLMINHENMPIFSQHTLLTQEFYDREKISECKKCRKIFSYHLFFSHHKRTHSKELSECKECTEIVNT
+PTM	

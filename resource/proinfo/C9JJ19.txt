@@ -1,0 +1,25 @@
+UniprotID	C9JJ19
+Accession	C9JJ19
+EntryName	C9JJ19_HUMAN
+ProteinName	Mitochondrial ribosomal protein S34
+GeneName	MRPS34
+Length	225
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARKKVRPRLIAELARRVRALREQLNRPRDSQLYAVDYETLTRPFSGRRLPVRAWADVRRESRLLQLLGRLPLFGLGRLVTRKSWLWQHDEPCYWRLTRVRPDYTAQNLDHGKAWGILTFKDASFSSSGKTESEAREIEHVMYHDWRLVPKHEEEAFTAFTPAPEDSLASVPYPPLLRAMIIAERQKNGDTSTEEPMLNVQRIRMEPWDYPAKQEDKGRAKGTPV
+PTM	

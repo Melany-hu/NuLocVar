@@ -1,0 +1,25 @@
+UniprotID	A6NKQ9-2
+Accession	A6NKQ9;A4FVC8;A8MUK6
+EntryName	CGB1_HUMAN
+ProteinName	Choriogonadotropin subunit beta variant 1
+GeneName	CGB1
+Length	155
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKRLLLLLLLSMGGTWASKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQDSSSSKAPPPSLPSPSRLPGP
+PTM	Methylation:70;Phosphorylation:2,3,116,146,147,148

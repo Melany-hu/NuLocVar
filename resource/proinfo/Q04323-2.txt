@@ -1,0 +1,25 @@
+UniprotID	Q04323-2
+Accession	Q04323;Q9BV93;Q9BVV5
+EntryName	UBXN1_HUMAN
+ProteinName	UBX domain-containing protein 1 (SAPK substrate protein 1) (UBA/UBX 33.3 kDa protein)
+GeneName	UBXN1 SAKS1
+Length	312
+Function	Ubiquitin-binding protein that plays a role in the modulation of innate immune response. Blocks both the RIG-I-like receptors (RLR) and NF-kappa-B pathways. Following viral infection, UBXN1 is induced and recruited to the RLR component MAVS. In turn, interferes with MAVS oligomerization, and disrupts the MAVS/TRAF3/TRAF6 signalosome. This function probably serves as a brake to prevent excessive RLR signaling (PubMed:23545497). Interferes with the TNFalpha-triggered NF-kappa-B pathway by interacting with cellular inhibitors of apoptosis proteins (cIAPs) and thereby inhibiting their recruitment to TNFR1 (PubMed:25681446). Also prevents the activation of NF-kappa-B by associating with CUL1 and thus inhibiting NF-kappa-B inhibitor alpha/NFKBIA degradation that remains bound to NF-kappa-B (PubMed:28152074). Interacts with the BRCA1-BARD1 heterodimer and regulates its activity. Specifically binds 'Lys-6'-linked polyubiquitin chains. Interaction with autoubiquitinated BRCA1 leads to the inhibition of the E3 ubiquitin-protein ligase activity of the BRCA1-BARD1 heterodimer (PubMed:20351172). Component of a complex required to couple deglycosylation and proteasome-mediated degradation of misfolded proteins in the endoplasmic reticulum that are retrotranslocated in the cytosol.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELTALESLIEMGFPRGRAEKALALTGNQGIEAAMDWLMEHEDDPDVDEPLETPLGHILGREPTSSEQGGLEGSGSAAGEGKPALSEEERQEQTKRMLELVAQKQREREEREEREALERERQRRRQGQELSAARQRLQEDEMRRAAEERRREKAEELAARQRVREKIERDKAERAKKYGGSVGSQPPPVAPEPGPVPSSPSQEPPTKREYDQCRIQVRLPDGTSLTQTFRAREQLAAVRLYVELHRGEELGGGQDPVQLLSGFPRRAFSEADMERPLQELGMAARLETRTRNWGSREACLGKGGMQREGAL
+PTM	Acetylation:83,105;Methylation:83,105,177;Phosphorylation:87,132,179,199,200,202,207,229,242,270;SUMOylation:83,105,178,208;Ubiquitylation:83,96,105,154,178,208,293

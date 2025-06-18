@@ -1,0 +1,25 @@
+UniprotID	O75582-3
+Accession	O75582;B7Z2Y5;O95316;Q96AF7
+EntryName	KS6A5_HUMAN
+ProteinName	Ribosomal protein S6 kinase alpha-5 (S6K-alpha-5) (EC 2.7.11.1) (90 kDa ribosomal protein S6 kinase 5) (Nuclear mitogen- and stress-activated protein kinase 1) (RSK-like protein kinase) (RSKL)
+GeneName	RPS6KA5 MSK1
+Length	723
+Function	Serine/threonine-protein kinase that is required for the mitogen or stress-induced phosphorylation of the transcription factors CREB1 and ATF1 and for the regulation of the transcription factors RELA, STAT3 and ETV1/ER81, and that contributes to gene activation by histone phosphorylation and functions in the regulation of inflammatory genes (PubMed:11909979, PubMed:12569367, PubMed:12763138, PubMed:18511904, PubMed:9687510, PubMed:9873047). Phosphorylates CREB1 and ATF1 in response to mitogenic or stress stimuli such as UV-C irradiation, epidermal growth factor (EGF) and anisomycin (PubMed:11909979, PubMed:9873047). Plays an essential role in the control of RELA transcriptional activity in response to TNF and upon glucocorticoid, associates in the cytoplasm with the glucocorticoid receptor NR3C1 and contributes to RELA inhibition and repression of inflammatory gene expression (PubMed:12628924, PubMed:18511904). In skeletal myoblasts is required for phosphorylation of RELA at 'Ser-276' during oxidative stress (PubMed:12628924). In erythropoietin-stimulated cells, is necessary for the 'Ser-727' phosphorylation of STAT3 and regulation of its transcriptional potential (PubMed:12763138). Phosphorylates ETV1/ER81 at 'Ser-191' and 'Ser-216', and thereby regulates its ability to stimulate transcription, which may be important during development and breast tumor formation (PubMed:12569367). Directly represses transcription via phosphorylation of 'Ser-1' of histone H2A (PubMed:15010469). Phosphorylates 'Ser-10' of histone H3 in response to mitogenics, stress stimuli and EGF, which results in the transcriptional activation of several immediate early genes, including proto-oncogenes c-fos/FOS and c-jun/JUN (PubMed:12773393). May also phosphorylate 'Ser-28' of histone H3 (PubMed:12773393). Mediates the mitogen- and stress-induced phosphorylation of high mobility group protein 1 (HMGN1/HMG14) (PubMed:12773393). In lipopolysaccharide-stimulated primary macrophages, acts downstream of the Toll-like receptor TLR4 to limit the production of pro-inflammatory cytokines (By similarity). Functions probably by inducing transcription of the MAP kinase phosphatase DUSP1 and the anti-inflammatory cytokine interleukin 10 (IL10), via CREB1 and ATF1 transcription factors (By similarity). Plays a role in neuronal cell death by mediating the downstream effects of excitotoxic injury (By similarity). Phosphorylates TRIM7 at 'Ser-107' in response to growth factor signaling via the MEK/ERK pathway, thereby stimulating its ubiquitin ligase activity (PubMed:25851810).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	431...436;660...665
+validnes_region	
+nesbase_region	
+Sequence	MKVLKKATIVQKAKTTEHTRTERQVLEHIRQSPFLVTLHYAFQTETKLHLILDYINGGELFTHLSQRERFTEHEVQIYVGEIVLALEHLHKLGIIYRDIKLENILLDSNGHVVLTDFGLSKEFVADETERAYSFCGTIEYMAPDIVRGGDSGHDKAVDWWSLGVLMYELLTGASPFTVDGEKNSQAEISRRILKSEPPYPQEMSALAKDLIQRLLMKDPKKRLGCGPRDADEIKEHLFFQKINWDDLAAKKVPAPFKPVIRDELDVSNFAEEFTEMDPTYSPAALPQSSEKLFQGYSFVAPSILFKRNAAVIDPLQFHMGVERPGVTNVARSAMMKDSPFYQHYDLDLKDKPLGEGSFSICRKCVHKKSNQAFAVKIISKRMEANTQKEITALKLCEGHPNIVKLHEVFHDQLHTFLVMELLNGGELFERIKKKKHFSETEASYIMRKLVSAVSHMHDVGVVHRDLKPENLLFTDENDNLEIKIIDFGFARLKPPDNQPLKTPCFTLHYAAPELLNQNGYDESCDLWSLGVILYTMLSGQVPFQSHDRSLTCTSAVEIMKKIKKGDFSFEGEAWKNVSQEAKDLIQGLLTVDPNKRLKMSGLRYNEWLQDGSQLSSNPLMTPDILGSSGAAVHTCVKATFHAFNKYKREGFCLQNVDKAPLAKRRKMKKTSTSTETRSSSSESSHSSSSHSHGKTTPTKTLQPSNPADSNNPETLFQFSDSVA
+PTM	Acetylation:473;Methylation:53,313,385,428,459,483,572;Phosphorylation:8,15,38,60,78,199,212,216,360,375,376,381,423,448,523,628,700,779;SUMOylation:29,273,546;Ubiquitylation:53,62

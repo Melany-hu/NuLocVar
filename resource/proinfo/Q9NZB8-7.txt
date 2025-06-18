@@ -1,0 +1,25 @@
+UniprotID	Q9NZB8-7
+Accession	Q9NZB8;B3KPT7;B4DTP1;O14940;O14941;O75710;Q5J7W0;Q5TCE1;Q5TCE2;Q5TCE6;Q5TCE9;Q5TCF0;Q5TCF1;Q8N418;Q9NZB7;Q9UEM1
+EntryName	MOCS1_HUMAN
+ProteinName	Molybdenum cofactor biosynthesis protein 1 (Cell migration-inducing gene 11 protein) (Molybdenum cofactor synthesis-step 1 protein A-B) [Includes: GTP 3',8-cyclase (EC 4.1.99.22) (Molybdenum cofactor biosynthesis protein A); Cyclic pyranopterin monophosphate synthase (EC 4.6.1.17) (Molybdenum cofactor biosynthesis protein C)]
+GeneName	MOCS1 MIG11
+Length	533
+Function	Isoform MOCS1A and isoform MOCS1B probably form a complex that catalyzes the conversion of 5'-GTP to cyclic pyranopterin monophosphate (cPMP). MOCS1A catalyzes the cyclization of GTP to (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate and MOCS1B catalyzes the subsequent conversion of (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate to cPMP.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEEGVPLTPKANLLTTEEILTLARLFVKEGIDKIRLTGGEPLIRPDVVDIVAQLQRLEGLRTIGVTTNGINLARLLPQLQKAGLSAINISLDTLVPAKFEFIVRRKGFHKVMEGIHKAIELGYNPVKVNCVVMRGLNEDELLDFAALTEGLPLDVRFIEYMPFDGNKWNFKKMVSYKEMLDTVRQQWPELEKVPEEESSTAKAFKIPGFQGQISFITSMSEHFCGTCNRLRITADGNLKVCLFGNSEVSLRDHLRAGASEQELLRIIGAAVGRKKRQHAELFLMFPNSPPANPSIFSWDPLHVQGLRPRMSFSSQVATLWKGCRVPQTPPLAQQRLGSGSFQRHYTSRADSDANSKCLSPGSWASAAPSGPQLTSEQLTHVDSEGRAAMVDVGRKPDTERVAVASAVVLLGPVAFKLVQQNQLKKGDALVVAQLAGVQAAKVTSQLIPLCHHVALSHIQVQLELDSTRHAVKIQASCRARGPTGVEMEALTSAAVAALTLYDMCKAVSRDIVLEEIKLISKTGGQRGDFHRA
+PTM	Acetylation:528;Methylation:79,98,116,280,545,621;Phosphorylation:7,44,64,150,347

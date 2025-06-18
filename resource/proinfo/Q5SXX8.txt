@@ -1,0 +1,25 @@
+UniprotID	Q5SXX8
+Accession	Q5SXX8
+EntryName	Q5SXX8_HUMAN
+ProteinName	ethanolamine kinase (EC 2.7.1.82)
+GeneName	ETNK2
+Length	217
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RRLGGGTAEGKTGRGLGGPSWDTGPRAMGSLSRPSFSDRLIALEMAKIHTIHANGSLPKPILWHKMHNYFTLVKNEINPSLSADVPKVEVLERELAWLKEHLSQLESPVVFCHNDLLCKNIIYDSIKGHVRFIDYEYAGYNYQAFDIGNHFNEFAGVNEVDYCLYPARETQLQWLHYYLQAQKGMAVTPREVQRLYVQVNKFALASHFFWALWALIQ
+PTM	

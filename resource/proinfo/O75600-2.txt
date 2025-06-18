@@ -1,0 +1,25 @@
+UniprotID	O75600-2
+Accession	O75600;E2QC23;Q6ZWF1;Q96CA9
+EntryName	KBL_HUMAN
+ProteinName	2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial (AKB ligase) (EC 2.3.1.29) (Aminoacetone synthase) (Glycine acetyltransferase)
+GeneName	GCAT KBL
+Length	445
+Function	Pyridoxal phosphate (PLP) dependent enzyme, which catalyzes the cleavage of 2-amino-3-oxobutanoate to glycine and acetyl-CoA.
+Subcellular Location	Mitochondrion; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPGNAWRAALFWVPRGRRAQSALAQLRGILEGELEGIRGAGTWKSERVITSRQGPHIRVDGVSGGPGTVIFPGLPLPHLSCCIHLLSFTSGILNFCANNYLGLSSHPEVIQAGLQALEEFGAGLSSVRFICGTQSIHKNLEAKIARFHQREDAILYPSCYDANAGLFEALLTPEDAVLSDELNHASIIDGIRLCKAHKYRYRHLDMADLEAKLQEAQKHRLRLVATDGAFSMDGDIAPLQEICCLASRYGALVFMDECHATGFLGPTGRGTDELLGVMDQVTIINSTLGKALGGASGGYTTGPGPLVSLLRQRARPYLFSNSLPPAVVGCASKALDLLMGSNTIVQSMAAKTQRFRSKMEAAGFTISGASHPICPVMLGDARLASRMADDMLKRGIFVIGFSYPVVPKGKARIRVQISAVHSEEDIDRCVEAFVEVGRLHGALP
+PTM	Acetylation:187;Methylation:187;Phosphorylation:51,52,316,318

@@ -1,0 +1,25 @@
+UniprotID	Q11203-24
+Accession	Q11203;A9Z1W2;D3DPX8;Q5T4W9;Q5T4X0;Q5T4X7;Q5T4X8;Q5T4X9;Q5T4Y0;Q5T4Y2;Q5T4Y3;Q5T4Y4;Q86UR6;Q86UR7;Q86UR8;Q86UR9;Q86US0;Q86US1;Q86US2;Q8IX41;Q8IX42;Q8IX43;Q8IX44;Q8IX45;Q8IX46;Q8IX47;Q8IX48;Q8IX49;Q8IX50;Q8IX51;Q8IX52;Q8IX53;Q8IX54;Q8IX55;Q8IX56;Q8IX57;Q8IX58
+EntryName	SIAT6_HUMAN
+ProteinName	CMP-N-acetylneuraminate-beta-1,4-galactoside alpha-2,3-sialyltransferase (EC 2.4.3.6) (Beta-galactoside alpha-2,3-sialyltransferase 3) (Alpha 2,3-ST 3) (Gal beta-1,3(4) GlcNAc alpha-2,3 sialyltransferase) (N-acetyllactosaminide alpha-2,3-sialyltransferase) (ST3Gal III) (ST3GalIII) (ST3N) (Sialyltransferase 6)
+GeneName	ST3GAL3 SIAT6
+Length	201
+Function	Catalyzes the formation of the NeuAc-alpha-2,3-Gal-beta-1,4-GlcNAc-, NeuAc-alpha-2,3-Gal-beta-1,3-GlcNAc- and NeuAc-alpha-2,3-Gal-beta-1,3-GalNAc- sequences found in terminal carbohydrate groups of glycoproteins and glycolipids. The highest activity is toward Gal-beta-1,3-GlcNAc and the lowest toward Gal-beta-1,3-GalNAc.
+Subcellular Location	Golgi apparatus; Golgi stack membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLVFVRNLLLALCLFLVLGFLYYSAWKLHLLQWEEDSSKYSHSSSPQEKPVAEYDRLGFLLNLDSKLPAELATKYANFSEGACKPGYASALMTAIFPRFSKPAPMFLDDSFRKWARIREFVPPFGIKGQDNLIKAILSVTKEYRLTPALDSLRCRRCIIVGNGGVLANKSLGSRIDDYDIVVSPGRTISSERKSFCGSW
+PTM	Methylation:137;Phosphorylation:173

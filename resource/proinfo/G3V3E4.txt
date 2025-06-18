@@ -1,0 +1,25 @@
+UniprotID	G3V3E4
+Accession	G3V3E4
+EntryName	G3V3E4_HUMAN
+ProteinName	Tetratricopeptide repeat domain 7B
+GeneName	TTC7B
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKLNYVEGDYKEALNIYARVGLDDLPLTAVPPYRLRVIAEAYATKGL
+PTM	

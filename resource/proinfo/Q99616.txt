@@ -1,0 +1,25 @@
+UniprotID	Q99616
+Accession	Q99616;O95689;Q6ICQ6
+EntryName	CCL13_HUMAN
+ProteinName	C-C motif chemokine 13 (CK-beta-10) (Monocyte chemoattractant protein 4) (Monocyte chemotactic protein 4) (MCP-4) (NCC-1) (Small-inducible cytokine A13) [Cleaved into: C-C motif chemokine 13, long chain; C-C motif chemokine 13, medium chain; C-C motif chemokine 13, short chain]
+GeneName	CCL13 MCP4 NCC1 SCYA13
+Length	98
+Function	Chemotactic factor that attracts monocytes, lymphocytes, basophils and eosinophils, but not neutrophils. Signals through CCR2B and CCR3 receptors. Plays a role in the accumulation of leukocytes at both sides of allergic and non-allergic inflammation. May be involved in the recruitment of monocytes into the arterial wall during the disease process of atherosclerosis. May play a role in the monocyte attraction in tissues chronically exposed to exogenous pathogens.
+Subcellular Location	Secreted
+Disorder	0.0069,0.0061,0.0070,0.0093,0.0101,0.0111,0.0085,0.0111,0.0165,0.0218,0.0269,0.0205,0.0171,0.0244,0.0294,0.0364,0.0433,0.0424,0.0749,0.1028,0.1791,0.2436,0.3182,0.2470,0.1528,0.1007,0.1184,0.1184,0.1092,0.0909,0.0909,0.0948,0.0888,0.1048,0.0631,0.0555,0.0605,0.0443,0.0749,0.0676,0.0543,0.0313,0.0198,0.0198,0.0364,0.0676,0.1399,0.0719,0.1583,0.1643,0.1731,0.1424,0.1007,0.1028,0.0543,0.0967,0.0948,0.0888,0.0888,0.0851,0.0909,0.1643,0.1424,0.1206,0.1007,0.1007,0.1206,0.1162,0.2193,0.2002,0.1229,0.0835,0.1048,0.1528,0.1424,0.2129,0.2034,0.2064,0.1373,0.2002,0.2164,0.2129,0.1731,0.2609,0.3740,0.3249,0.3286,0.3019,0.2783,0.2436,0.2094,0.2951,0.3494,0.3182,0.2752,0.3948,0.4149,0.3840
+ExposeBuried	1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.728,0.592,0.295,0.249,0.263,0.167,0.138,0.094,0.090,0.075,0.073,0.080,0.069,0.105,0.107,0.108,0.108,0.120,0.309,0.495,0.402,0.259,0.411,0.402,0.528,0.565,0.300,0.603,0.567,0.416,0.389,0.417,0.343,0.044,0.025,0.189,0.416,0.189,0.273,0.667,0.405,0.585,0.091,0.141,0.266,0.601,0.186,0.038,0.391,0.381,0.066,0.335,0.536,0.217,0.456,0.739,0.578,0.041,0.589,0.401,0.426,0.057,0.060,0.046,0.052,0.173,0.111,0.414,0.540,0.673,0.426,0.554,0.177,0.056,0.335,0.483,0.266,0.660,0.596,0.607,0.159,0.035,0.422,0.471,0.045,0.119,0.583,0.316,0.056,0.605,0.628,0.489,0.393,0.706,0.596,0.475,0.674,0.882
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,B,B,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C
+Hydropathy	1.9,-3.9,4.2,-0.8,1.8,4.2,3.8,3.8,2.5,3.8,3.8,3.8,1.9,-0.7,1.8,1.8,2.8,-3.5,-1.6,-3.5,-0.4,3.8,1.8,-3.5,-1.6,-3.5,1.8,3.8,-3.5,4.2,-1.6,-0.8,-0.7,2.5,2.5,2.8,-0.7,2.8,-0.8,-0.8,-3.9,-3.9,4.5,-0.8,3.8,-3.5,-4.5,3.8,-3.9,-0.8,-1.3,4.2,4.5,-0.7,-0.7,-0.8,-4.5,2.5,-1.6,-3.5,-3.9,1.8,4.2,4.5,2.8,-4.5,-0.7,-3.9,3.8,-0.4,-3.9,-3.5,4.5,2.5,1.8,-3.5,-1.6,-3.9,-3.5,-3.9,-0.9,4.2,-3.5,-3.5,-1.3,1.9,-3.9,-3.2,3.8,-0.4,-4.5,-3.9,1.8,-3.2,-0.7,3.8,-3.9,-0.7
+Polar	0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1
+Charge	0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,-1,0,0,0,-1,0,1,-1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVSAVLLCLLLMTAAFNPQGLAQPDALNVPSTCCFTFSSKKISLQRLKSYVITTSRCPQKAVIFRTKLGKEICADPKEKWVQNYMKHLGRKAHTLKT
+PTM	Methylation:49;Phosphorylation:44

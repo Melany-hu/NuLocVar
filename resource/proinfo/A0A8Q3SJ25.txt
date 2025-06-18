@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3SJ25
+Accession	A0A8Q3SJ25
+EntryName	A0A8Q3SJ25_HUMAN
+ProteinName	adenosine deaminase (EC 3.5.4.4)
+GeneName	ADA
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQTPAFDKPKVELHVHLDGSIKPETILYYGRRRGIALPANTAEGLLNVIGMDKPLTLPDFLAKFDYYMPAIALWTYSRQSGWDTATTPWKTRPFITGCGRKTCTSRSAPGPATSLVPGSRTRSMQSFGSKMTRLTTRSTQMTRSSSSPPWTLITR
+PTM	

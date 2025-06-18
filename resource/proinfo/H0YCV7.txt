@@ -1,0 +1,25 @@
+UniprotID	H0YCV7
+Accession	H0YCV7
+EntryName	H0YCV7_HUMAN
+ProteinName	3',5'-cyclic-AMP phosphodiesterase (EC 3.1.4.53)
+GeneName	PDE4B
+Length	66
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XHGDDLIVTPFAQVLASLRSVRNNFTILTNLHGTSNKRSPAASQPPVSRVNPQGRPCHKVYLDVSR
+PTM	

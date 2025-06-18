@@ -1,0 +1,25 @@
+UniprotID	Q13363-2
+Accession	Q13363;Q4W5N3;Q7Z2Q5
+EntryName	CTBP1_HUMAN
+ProteinName	C-terminal-binding protein 1 (CtBP1) (EC 1.1.1.-)
+GeneName	CTBP1 CTBP
+Length	429
+Function	Corepressor targeting diverse transcription regulators such as GLIS2 or BCL6. Has dehydrogenase activity. Involved in controlling the equilibrium between tubular and stacked structures in the Golgi complex. Functions in brown adipose tissue (BAT) differentiation.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGVRPPIMNGPLHPRPLVALLDGRDCTVEMPILKDVATVAFCDAQSTQEIHEKVLNEAVGALMYHTITLTREDLEKFKALRIIVRIGSGFDNIDIKSAGDLGIAVCNVPAASVEETADSTLCHILNLYRRATWLHQALREGTRVQSVEQIREVASGAARIRGETLGIIGLGRVGQAVALRAKAFGFNVLFYDPYLSDGVERALGLQRVSTLQDLLFHSDCVTLHCGLNEHNHHLINDFTVKQMRQGAFLVNTARGGLVDEKALAQALKEGRIRGAALDVHESEPFSFSQGPLKDAPNLICTPHAAWYSEQASIEMREEAAREIRRAITGRIPDSLKNCVNKDHLTAATHWASMDPAVVHPELNGAAYRYPPGVVGVAPTGIPAAVEGIVPSAMSLSHGLPPVAHPPHAPSPGQTVKPEADRDHASDQL
+PTM	Acetylation:88,273,280,348;Methylation:9,46,88,108,266,280,285,305;Phosphorylation:58,76,78,80,167,176,300,381,422;Ubiquitylation:46,273,280,348

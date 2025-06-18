@@ -1,0 +1,25 @@
+UniprotID	H0YJI2
+Accession	H0YJI2
+EntryName	H0YJI2_HUMAN
+ProteinName	Thyroid hormone receptor interactor 11
+GeneName	TRIP11
+Length	176
+Function	
+Subcellular Location	Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RNHLLESEDSYTREALAAEDREAKLRKKVTVLEEKLVSSSNAMENASHQASVQVESLQEQLNVVSKQRDETALQLSVSQEQVKQYALSLANLQMVLEHFQQEEKAMYSAELEKQKQLIAEWKKNAENLEGKVISLQECLDEANAALDSASRLTEQLDVKEEQIEELKRQNIIKKVR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MRR9
+Accession	A0A0A0MRR9
+EntryName	A0A0A0MRR9_HUMAN
+ProteinName	Transmembrane protein 273
+GeneName	TMEM273
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRILFLLDVGGAQVLATGKTPGAEIDFKYALIGTAVGVAISAGFLALKICMIRRHLFDDDSSDLKSTPGGLSDTIPLKKRAPRKLQASTLFSFKSLLQCHHCIMEGLFKAKPQFLQKHLARSVQIHQLQKVKSFPKYAY
+PTM	

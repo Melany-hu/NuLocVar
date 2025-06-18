@@ -1,0 +1,25 @@
+UniprotID	D6RHD0
+Accession	D6RHD0
+EntryName	D6RHD0_HUMAN
+ProteinName	Elongation of very long chain fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)
+GeneName	ELOVL7
+Length	268
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKPINILYPRVEDWLLMSSPLPQTILLGFYVYFVTSLGPKLMENRKPFELKKAMITYNFFIVLFSVYMCYEFVMSGWGIGYSFRCDIVDYSRSPTALRMARTCWLYYFSKFIELLDTIFFVLRKKNSQVTFLHVFHHTIMPWTWWFGVKFAAGGLGTFHALLNTAVHVVMYSYYGLSALGPAYQKYLWWKKYLTSLQLVQFVIVAIHISQFFFMEDCKYQFPVFACIIMSYSFMFLLLFLHFWYRAYTKGQRLPKTVKNGTCKNKDN
+PTM	

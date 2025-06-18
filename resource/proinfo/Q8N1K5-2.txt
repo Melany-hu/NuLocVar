@@ -1,0 +1,25 @@
+UniprotID	Q8N1K5-2
+Accession	Q8N1K5;A1L4F0;A8K7N1;B3KT31;B3KW32;B3KY07;F5H1J9;Q5T3C4;Q5T3C5;Q6MZT7
+EntryName	THMS1_HUMAN
+ProteinName	Protein THEMIS (Thymocyte-expressed molecule involved in selection)
+GeneName	THEMIS C6orf190 C6orf207
+Length	606
+Function	Plays a central role in late thymocyte development by controlling both positive and negative T-cell selection. Required to sustain and/or integrate signals required for proper lineage commitment and maturation of T-cells. Regulates T-cell development through T-cell antigen receptor (TCR) signaling and in particular through the regulation of calcium influx and phosphorylation of Erk.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	87...93
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFGNECCFSTGEVIKITGLKVKKIIAEICEQIEGCESLQPFELPMNFPGLFKIVADKTPYLTMEEITRTIHIGPSRLGHPCFYHQKDIKLENLIIKQGEQIMLNSVEEIDGEIMVSCAVARNHQTHSFNLPLSQEGEFYECEDERIYTLKEIVEWKIPKNRTRTVNLTDFSNKWDSTNPFPKDFYGTLILKPVYEIQGVMKFRKDIIRILPSLDVEVKDITDSYDANWFLQLLSTEDLFEMTSKEFPIVTEVIEAPEGNHLPQSILQPGKTIVIHKKYQASRILASEIRSNFPKRHFLIPTSYKGKFKRRPREFPTAYDLEIAKSEKEPLHVVATKAFHSPHDKLSSVSVGDQFLVHQSETTEVLCEGIKKVVNVLACEKILKKSYEAALLPLYMEGGFVEVIHDKKQYPISELCKQFRLPFNVKVSVRDLSIEEDVLAATPGLQLEEDITDSYLLISDFANPTECWEIPVGRLNMTVQLVSNFSRDAEPFLVRTLVEEITEEQYYMMRRYESSASHPPPRPPKHPSVEETKLTLLTLAEERTVDLPKSPKRHHVDITKKLHPNQAGLDSKVLIGSQNDLVDEEKERSNRGATAIAETFKNEKHQK
+PTM	Acetylation:339,460;Methylation:50,55,92,131,226,253,359,371,567,583,594;Phosphorylation:351,517,520,584,611

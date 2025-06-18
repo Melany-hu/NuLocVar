@@ -1,0 +1,25 @@
+UniprotID	P36941-2
+Accession	P36941;B7Z1D2;D3DUR2;F5GXE7
+EntryName	TNR3_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 3 (Lymphotoxin-beta receptor) (Tumor necrosis factor C receptor) (Tumor necrosis factor receptor 2-related protein) (Tumor necrosis factor receptor type III) (TNF-RIII) (TNFR-III)
+GeneName	LTBR D12S370 TNFCR TNFR3 TNFRSF3
+Length	416
+Function	Receptor for the heterotrimeric lymphotoxin containing LTA and LTB, and for TNFS14/LIGHT (PubMed:24248355). Activates NF-kappa-B signaling pathway upon stimulation with lymphotoxin (LTA(1)-LTB(2)) (PubMed:24248355). Promotes apoptosis via TRAF3 and TRAF5. May play a role in the development of lymphoid organs.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	98...103
+validnes_region	
+nesbase_region	
+Sequence	MEATGISLASQLKVPPYASENQTCRDQEKEYYEPQHRICCSRCPPGTYVSAKCSRIRDTVCATCAENSYNEHWNYLTICQLCRPCDPVMGLEEIAPCTSKRKTQCRCQPGMFCAAWALECTHCELLSDCPPGTEAELKDEVGKGNNHCVPCKAGHFQNTSSPSARCQPHTRCENQGLVEAAPGTAQSDTTCKNPLEPLPPEMSGTMLMLAVLLPLAFFLLLATVFSCIWKSHPSLCRKLGSLLKRRPQGEGPNPVAGSWEPPKAHPYFPDLVQPLLPISGDVSPVSTGLPAAPVLEAGVPQQQSPLDLTREPQLEPGEQSQVAHGTNGIHVTGGSMTITGNIYIYNGPVLGGPPGPGDLPATPEPPYPIPEEGDPGPPGLSTPHQEDGKAWHLAETEHCGATPSNRGPRNQFITHD
+PTM	Glycosylation:177;Methylation:157,263;Phosphorylation:260,298,323,421,423;Ubiquitylation:71,257,263

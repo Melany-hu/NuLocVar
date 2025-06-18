@@ -1,0 +1,25 @@
+UniprotID	O43251-10
+Accession	O43251;A4F5G8;A8K5Z5;B0QYY8;B0QYY9;Q0PRL5;Q0VH35;Q5TF71;Q6IC09;Q8TD00;Q8WYB1;Q96DZ6;Q96NL7;Q9UGW4;Q9UH33
+EntryName	RFOX2_HUMAN
+ProteinName	RNA binding protein fox-1 homolog 2 (Fox-1 homolog B) (Hexaribonucleotide-binding protein 2) (RNA-binding motif protein 9) (RNA-binding protein 9) (Repressor of tamoxifen transcriptional activity)
+GeneName	RBFOX2 FOX2 HRNBP2 RBM9 RTA
+Length	380
+Function	RNA-binding protein that regulates alternative splicing events by binding to 5'-UGCAUGU-3' elements. Prevents binding of U2AF2 to the 3'-splice site. Regulates alternative splicing of tissue-specific exons and of differentially spliced exons during erythropoiesis (By similarity). RNA-binding protein that seems to act as a coregulatory factor of ER-alpha. Together with RNA binding proteins RBPMS and MBNL1/2, activates vascular smooth muscle cells alternative splicing events (PubMed:37548402).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKKKMVTQGNQEPTTTPDAMVQPFTTIPFPPPPQNGIPTEYGVPHTQDYAGQTGEHNLTLYGSTQAHGEQSSNSPSTQNGSLTTEGGAQTDGQQSQTQSSENSESKSTPKRLHVSNIPFRFRDPDLRQMFGQFGKILDVEIIFNERGSKGFGFVTFENSADADRAREKLHGTVVEGRKIEVNNATARVMTNKKMVTPYANGWKLSPVVGAVYGPELYAASSFQADVSLGNDAAVPLSGRGGINTYIPLISLPLVPGFPYPTAATTAAAFRGAHLRGRGRTVYGAVRAVPPTAIPAYPGVVYQDGFYGADLYGGYAAYRYAQPATATAATAAAAAAAAYSDGYGRVYTADPYHALAPAASYGVGAVASLYRGGYSRFAPY
+PTM	Methylation:138,177,179,381,386;Phosphorylation:7,114,183,207,291;SUMOylation:117,160,189,204;Ubiquitylation:179,189,204

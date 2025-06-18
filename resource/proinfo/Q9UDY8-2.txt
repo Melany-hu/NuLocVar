@@ -1,0 +1,25 @@
+UniprotID	Q9UDY8-2
+Accession	Q9UDY8;Q9NTB7;Q9ULX4
+EntryName	MALT1_HUMAN
+ProteinName	Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (EC 3.4.22.-) (MALT lymphoma-associated translocation) (Paracaspase)
+GeneName	MALT1 MLT
+Length	813
+Function	Protease that enhances BCL10-induced activation: acts via formation of CBM complexes that channel adaptive and innate immune signaling downstream of CARD domain-containing proteins (CARD9, CARD11 and CARD14) to activate NF-kappa-B and MAP kinase p38 pathways which stimulate expression of genes encoding pro-inflammatory cytokines and chemokines (PubMed:11262391, PubMed:18264101, PubMed:24074955). Mediates BCL10 cleavage: MALT1-dependent BCL10 cleavage plays an important role in T-cell antigen receptor-induced integrin adhesion (PubMed:11262391, PubMed:18264101). Involved in the induction of T helper 17 cells (Th17) differentiation (PubMed:11262391, PubMed:18264101). Cleaves RC3H1 and ZC3H12A in response to T-cell receptor (TCR) stimulation which releases their cooperatively repressed targets to promote Th17 cell differentiation (By similarity). Also mediates cleavage of N4BP1 in T-cells following TCR-mediated activation, leading to N4BP1 inactivation (PubMed:31133753). May also have ubiquitin ligase activity: binds to TRAF6, inducing TRAF6 oligomerization and activation of its ligase activity (PubMed:14695475).
+Subcellular Location	Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	369..376
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	463...469;358...365
+nlsdbnls_region	
+validnes_region	463...469;358...365
+nesbase_region	
+Sequence	MSLLGDPLQALPPSAAPTGPLLAPPAGATLNRLREPLLRRLSELLDQAPEGRGWRRLAELAGSRGRLRLSCLDLEQCSLKVLEPEGSPSLCLLKLMGEKGCTVTELSDFLQAMEHTEVLQLLSPPGIKITVNPESKAVLAGQFVKLCCRATGHPFVQYQWFKMNKEIPNGNTSELIFNAVHVKDAGFYVCRVNNNFTFEFSQWSQLDVCDIPESFQRSVDGVSESKLQICVEPTSQKLMPGSTLVLQCVAVGSPIPHYQWFKNELPLTHETKKLYMVPYVDLEHQGTYWCHVYNDRDSQDSKKVEIIIDELNNLGHPDNKEQTTDQPLAKDKVALLIGNMNYREHPKLKAPLVDVYELTNLLRQLDFKVVSLLDLTEYEMRNAVDEFLLLLDKGVYGLLYYAGHGYENFGNSFMVPVDAPNPYRSENCLCVQNILKLMQEKETGLNVFLLDMCRKRNDYDDTIPILDALKVTANIVFGYATCQGAEAFEIQHSGLANGIFMKFLKDRLLEDKKITVLLDEVAEDMGKCHLTKGKQALEIRSSLSEKRALTDPIQGTEYSAESLVRNLQWAKAHELPESMCLKFDCGVQIQLGFAAEFSNVMIIYTSIVYKPPEIIMCDAYVTDFPLDLDIDPKDANKGTPEETGSYLVSKDLPKHCLYTRLSSLQKLKEHLVFTVCLSYQYSGLEDTVEDKQEVNVGKPLIAKLDMHRGLGRKTCFQTCLMSNGPYQSSAATSGGAGHYHSLQDPFHGVYHSHPGNPSNVTPADSCHCSRTPDAFISSFAHHASCHFSRSNVPVETTDEIPFSFSDRLRISEK
+PTM	Methylation:162,262,341,404,447,481,582,644,661,665,702,714;Phosphorylation:2,42,63,130,135,223;Ubiquitylation:237,272,341,360,447,545,648,661,677

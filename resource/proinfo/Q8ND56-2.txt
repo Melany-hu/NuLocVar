@@ -1,0 +1,25 @@
+UniprotID	Q8ND56-2
+Accession	Q8ND56;B4DTG6;Q76LX7;Q96AR3;Q96K73;Q96SN5;Q9UFR3
+EntryName	LS14A_HUMAN
+ProteinName	Protein LSM14 homolog A (Protein FAM61A) (Protein SCD6 homolog) (Putative alpha-synuclein-binding protein) (AlphaSNBP) (RNA-associated protein 55A) (hRAP55) (hRAP55A)
+GeneName	LSM14A C19orf13 FAM61A RAP55 RAP55A
+Length	463
+Function	Essential for formation of P-bodies, cytoplasmic structures that provide storage sites for translationally inactive mRNAs and protect them from degradation (PubMed:16484376, PubMed:17074753, PubMed:29510985). Acts as a repressor of mRNA translation (PubMed:29510985). May play a role in mitotic spindle assembly (PubMed:26339800).
+Subcellular Location	Cytoplasm; P-body; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGGTPYIGSKISLISKAEIRYEGILYTIDTENSTVALAKVRSFGTEDRPTDRPIPPRDEVFEYIIFRGSDIKDLTVCEPPKPQCSLPQDPAIVQSSLGSSTSSFQSMGSYGPFGRMPTYSQFSPSSLVGQQFGAVGVAGSSLTSFGTETSNSGTLPQSSAVGSAFTQDTRSLKTQLSQGRSSPQLDPLRKSPTMEQAVQTASAHLPAPAAVGRRSPVSTRPLPSASQKAGENQEHRRAEVHKVSRPENEQLRNDNKRQVAPGAPSAPRRGRGGHRGGRGRFGIRRDGPMKFEKDFDFESANAQFNKEEIDREFHNKLKLKEDKLEKQEKPVNGEDKGDSGVDTQNSEGNADEEDPLGPNCYYDKTKSFFDNISCDDNRERRPTWAEERRLNAETFGIPLRPNRGRGGYRGRGGLGFRGGRGRGGGRGGTFTAPRGFRGGFRGGRGGREFADFEYRKDNKVAA
+PTM	Acetylation:17,174,243,291,317,321;Methylation:17,174,243,269,307,389,427,445,456;Phosphorylation:2,5,7,10,13,172,175,178,182,183,192,194,201,203,216,219,220,225,227,245,266,300,347,368,374,384,409,455;SUMOylation:291;Ubiquitylation:174,294,307,367

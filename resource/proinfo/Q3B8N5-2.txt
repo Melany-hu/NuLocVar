@@ -1,0 +1,25 @@
+UniprotID	Q3B8N5-2
+Accession	Q3B8N5;C9J5W1;Q8N9Q3
+EntryName	PROX2_HUMAN
+ProteinName	Prospero homeobox protein 2 (Homeobox prospero-like protein PROX2) (PROX-2)
+GeneName	PROX2
+Length	365
+Function	Transcription regulator. Does not seem to be essential for embryonic development and postnatal survival (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPNSILLSPQPQICSHLAEACTEGERSSSPPELDRDSPFPWSQVPSSSPTDPEWFGDEHIQAKRARVETIVRGMCLSPNPLVPGNAQAGVSPRCPKKARERKRKQNLPTPQGLLMPAPAWDQGNRKGGPRVREQLHLLKQQLRHLQEHILQAAKPRDTAQGPGGCGTGKGPLSAKQGNGCGPRPWVVDGDHQQGTSKDLSGAEKHQESEKPSFLPSGAPASLEILRKELTRAVSQAVDSVLQKFNRCITSQMIKWFSNFREFYYIQMEKSARQAISDGVTNPKMLVVLRNSELFQALNMHYNKGNDFEVPDCFLEIASLTLQEFFRAVSAGRDSDPSWKKPIYKIISKLDSDIPEIFKSSSYPQ
+PTM	Methylation:155,228,464,576;Phosphorylation:311,459,460

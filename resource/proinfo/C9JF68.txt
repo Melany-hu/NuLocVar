@@ -1,0 +1,25 @@
+UniprotID	C9JF68
+Accession	C9JF68
+EntryName	C9JF68_HUMAN
+ProteinName	TNF superfamily member 13
+GeneName	TNFSF13
+Length	158
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGPVREPALSVALWLSWGAALGAVACAMALLTQQTELQSLRREVSRLQGTGGPSQNGEGYPWQSLPEQSSDALEAWENGERSRKRRAVLTQKQKKQHSVLHLVPINATSKDDSDVTEVMWQPALRRGRGLQAQGYGVRIQDAGVYLLYSQVLFQDVT
+PTM	

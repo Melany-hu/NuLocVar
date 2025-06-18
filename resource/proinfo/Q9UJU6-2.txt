@@ -1,0 +1,25 @@
+UniprotID	Q9UJU6-2
+Accession	Q9UJU6;A4D2I9;B4DDP6;B4DEM2;C9J7P1;P84070;Q6IAI8;Q96F30;Q96K74;Q9HBN8;Q9NR72
+EntryName	DBNL_HUMAN
+ProteinName	Drebrin-like protein (Cervical SH3P7) (Cervical mucin-associated protein) (Drebrin-F) (HPK1-interacting protein of 55 kDa) (HIP-55) (SH3 domain-containing protein 7)
+GeneName	DBNL CMAP SH3P7 PP5423
+Length	431
+Function	Adapter protein that binds F-actin and DNM1, and thereby plays a role in receptor-mediated endocytosis. Plays a role in the reorganization of the actin cytoskeleton, formation of cell projections, such as neurites, in neuron morphogenesis and synapse formation via its interaction with WASL and COBL. Does not bind G-actin and promote actin polymerization by itself. Required for the formation of organized podosome rosettes (By similarity). May act as a common effector of antigen receptor-signaling pathways in leukocytes. Acts as a key component of the immunological synapse that regulates T-cell activation by bridging TCRs and the actin cytoskeleton to gene activation and endocytic processes.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection; Lamellipodium; Cell projection; Ruffle; Cytoplasm; Cell cortex; Cytoplasm; Cytosol; Synapse; Perikaryon; Cell projection; Neuron projection; Cell membrane; Cytoplasmic vesicle; Clathrin-coated vesicle membrane; Golgi apparatus membrane; Cell projection; Podosome; Early endosome; Cell projection; Dendrite; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAANLSRNGPALQEAYVRVVTEKSPTDWALFTYEGNSNDIRVAGTGEGGLEEMVEELNSGKVMYAFCRVKDPNSGLPKFVLINWTGEGVNDVRKGACASHVSTMASFLKGAHVTINARAEEDVEPECIMEKVAKASGANYSFHKESGRFQDVGPQAPVGSVYQKTNAVSEIKRVGKDSFWAKAEKEEENRRLEEKRRAEEAQRQLEQERRERELREAARREQRYQEQGGEASPQSRTWEQQQEVVSRNRNEQESAVHPREIFKQKERAMSTTSISSPQPGKLRSPFLQKQLTQPETHFGREPAAAISRPRADLPAEEPAPSTPPCLVQAEEEAVYEEPPEQETFYEQPPLVQQQGAGSEHIDHHIQGQGLSGQGLCARALYDYQAADDTEISFDPENLITGIEVIDEGWWRGYGPDGHFGMFPANYVELIE
+PTM	Acetylation:23,70,131,172,182,185,280,288;Methylation:61,78,109,131,144,164,172,288;Phosphorylation:6,16,21,24,26,106,140,141,146,160,162,169,178,224,232,236,269,270,271,272,274,275,283,291,295,306,320;Ubiquitylation:23,94,131,134,144,164,172,176,262,288

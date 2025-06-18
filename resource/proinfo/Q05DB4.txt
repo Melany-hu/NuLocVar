@@ -1,0 +1,25 @@
+UniprotID	Q05DB4
+Accession	Q05DB4
+EntryName	Q05DB4_HUMAN
+ProteinName	HEBP2 protein
+GeneName	HEBP2
+Length	214
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEPLQPDPGAAEDAAAQAVETPGWKAPEDAGPQPGSYEIRHYGPAKWVSTSVESMDWDSAIQTGFTKLNSYIQGKNEKEMKIKMTAPVTSYVEPGSGPFSESTITISLYIPSEQQFDPPRPLESDVFIEDRAEMTVFVRSFDGFSSAQKNQEQLLTLASILREDGKVFDEKVYYTAGYNSPVKLLNRNNEVWLIQKNEPTKENEKKKKKKKKK
+PTM	

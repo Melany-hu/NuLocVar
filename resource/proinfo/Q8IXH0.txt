@@ -1,0 +1,25 @@
+UniprotID	Q8IXH0
+Accession	Q8IXH0
+EntryName	Q8IXH0_HUMAN
+ProteinName	KIAA1900, isoform CRA_a (Kelch like family member 32) (UG0030H05)
+GeneName	KLHL32 KIAA1900 hCG_1639824
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPLSHPGGVTNTAQYQNRLMVYEPNQNKWISRSPMLQRRVYHSMAAVQRKLYVLGGNDLDYNNDRILVRHIDSYNIDTDQWTRCNFNLLTGQNESGVAVHNGRIYLVGGYSIWTNEPLACIQVLDVSREGKEEVFYGPTLPFASNGIAACFLPAPYFTCPNLQTLQVPHHRIGTI
+PTM	

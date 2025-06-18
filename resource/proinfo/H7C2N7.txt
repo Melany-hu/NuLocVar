@@ -1,0 +1,25 @@
+UniprotID	H7C2N7
+Accession	H7C2N7
+EntryName	H7C2N7_HUMAN
+ProteinName	Prolactin regulatory element-binding protein (Mammalian guanine nucleotide exchange factor Sec12)
+GeneName	PREB
+Length	106
+Function	Guanine nucleotide exchange factor (GEF) that regulates the assembly of the coat protein complex II/COPII in endoplasmic reticulum (ER) to Golgi vesicle-mediated transport. Selectively activates SAR1A and SAR1B by promoting the exchange of guanosine diphosphate (GDP) for guanosine triphosphate (GTP) in these small GTPases. In their activated GTP-bound state, SAR1A and SAR1B insert into the membrane of the endoplasmic reticulum where they recruit the remainder of the coat protein complex II/COPII which is responsible for both the sorting of proteins and the deformation and budding of membranes into vesicles destined to the Golgi.
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRYQACRFGQVPDQPAGLRLFTVQIPHKRLRQPPPCYLTAWDGSNFLPLRTKSCGHEVVSCLDVSESGTFLGLGTVTGSVAIYIAFSLQGVFLCGSCSCCVSGLLL
+PTM	

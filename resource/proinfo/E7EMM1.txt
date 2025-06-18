@@ -1,0 +1,25 @@
+UniprotID	E7EMM1
+Accession	E7EMM1
+EntryName	E7EMM1_HUMAN
+ProteinName	Transmembrane protein 185A
+GeneName	TMEM185A
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLRGLFQDFNPSKFLIYACLLLFSVLLALRLDGIIQWSYWAVFAPIWLWKLMVIVGASVGTGVWARNPQYRAEGETCVEFKAMLIAVGIHLLLLMFEVLVCDRIERGSHFWLLVFMPLFFVSPVSVAACVWGFRHDRSLELEILCSVNILQFIFIALRLDKIIHWPWLVCNF
+PTM	

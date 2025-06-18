@@ -1,0 +1,25 @@
+UniprotID	O43316-4
+Accession	O43316;O95161;Q6B0H0
+EntryName	PAX4_HUMAN
+ProteinName	Paired box protein Pax-4
+GeneName	PAX4
+Length	343
+Function	Plays an important role in the differentiation and development of pancreatic islet beta cells. Transcriptional repressor that binds to a common element in the glucagon, insulin and somatostatin promoters. Competes with PAX6 for this same promoter binding site. Isoform 2 appears to be a dominant negative form antagonizing PAX4 transcriptional activity.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	213...217
+validnes_region	
+nesbase_region	
+Sequence	MNQLGGLFVNGRPLPLDTRQQIVRLAVSGMRPCDISRILKVSNGCVSKILGRYYRTGVLEPKGIGGSKPRLATPPVVARIAQLKGECPALFAWEIQRQLCAEGLCTQDKTPSVSSINRVLRALQEDQGLPCTRLRSPAVLAPAVLTPHSGSETPRGTHPGTGHRNRTIFSPSQAEALEKEFQRGQYPDSVARGKLATATSLPEDTVRVWFSNRRAKWRRQEKLKWEMQLPGASQGLTVPRVAPGIISAQQSPGSVPTAALPALEPLGPSCYQLCWATAPERCLSDTPPKACLKPCWGHLPPQPNSLDSGLLCLPCPSSHCHLASLSGSQALLWPGCPLLYGLE
+PTM	Methylation:48,92,187;Phosphorylation:64,245

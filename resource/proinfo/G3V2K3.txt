@@ -1,0 +1,25 @@
+UniprotID	G3V2K3
+Accession	G3V2K3
+EntryName	G3V2K3_HUMAN
+ProteinName	Zinc finger and BTB domain containing 25
+GeneName	ZBTB25
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTASHSLVLLQQLNMQREFGFLCDCTVAIGDVYFKAHRAVLAAFSNYFKMIFIHQTRQQITHLEVIKELEAAGCLCCSLDGLSQG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5JVA3
+Accession	Q5JVA3
+EntryName	Q5JVA3_HUMAN
+ProteinName	Interleukin 15 receptor subunit alpha
+GeneName	IL15RA
+Length	148
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVEHADIWVKSYSLYSRERYICNSGFKRKAGTSSLTECVLNKATNVAHWTTPSLKCINPALVHQRPAPPSTVTTAGVTPQPESLSPSGKEPAASSPSSNNTAATTAAIVPGSQLMPSKSPSTGTTEISSHESSHGTPSQTTAKNWEL
+PTM	

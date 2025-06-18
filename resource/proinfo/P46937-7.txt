@@ -1,0 +1,25 @@
+UniprotID	P46937-7
+Accession	P46937;B4DTY1;B7ZA01;E3WEB5;E3WEB6;E9PRV2;F5H202;K0KQ18;K0KYZ8;K0L195;K0L1G3;Q7Z574;Q8IUY9
+EntryName	YAP1_HUMAN
+ProteinName	Transcriptional coactivator YAP1 (Yes-associated protein 1) (Protein yorkie homolog) (Yes-associated protein YAP65 homolog)
+GeneName	YAP1 YAP65
+Length	470
+Function	Transcriptional regulator with dual roles as a coactivator and corepressor. Critical downstream regulatory target in the Hippo signaling pathway, crucial for organ size control and tumor suppression by restricting proliferation and promoting apoptosis (PubMed:17974916, PubMed:18280240, PubMed:18579750, PubMed:21364637, PubMed:30447097). The Hippo signaling pathway core involves a kinase cascade featuring STK3/MST2 and STK4/MST1, along with its regulatory partner SAV1, which phosphorylates and activates LATS1/2 in complex with their regulatory protein, MOB1. This activation leads to the phosphorylation and inactivation of the YAP1 oncoprotein and WWTR1/TAZ (PubMed:18158288). Phosphorylation of YAP1 by LATS1/2 prevents its nuclear translocation, thereby regulating the expression of its target genes (PubMed:18158288, PubMed:26598551, PubMed:34404733). The transcriptional regulation of gene expression requires TEAD transcription factors and modulates cell growth, anchorage-independent growth, and induction of epithelial-mesenchymal transition (EMT) (PubMed:18579750). Plays a key role in tissue tension and 3D tissue shape by regulating the cortical actomyosin network, acting via ARHGAP18, a Rho GTPase activating protein that suppresses F-actin polymerization (PubMed:25778702). It also suppresses ciliogenesis by acting as a transcriptional corepressor of TEAD4 target genes AURKA and PLK1 (PubMed:25849865). In conjunction with WWTR1, regulates TGFB1-dependent SMAD2 and SMAD3 nuclear accumulation (By similarity). Synergizes with WBP2 to enhance PGR activity (PubMed:16772533).
+Subcellular Location	Cytoplasm; Nucleus; Cell junction; Tight junction; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPGQQPPPQPAPQGQGQPPSQPPQGQGPPSGPGQPAPAATQAAPQAPPAGHQIVHVRGDSETDLEALFNAVMNPKTANVPQTVPMRLRKLPDSFFKPPEPKSHSRQASTDAGTAGALTPQHVRAHSSPASLQLGAVSPGTLTPTGVVSGPAATPTAQHLRQSSFEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRKAMLSQMNVTAPTSPPVQQNMMNSASAMNQRISQSAPVKQPPPLAPQSPQGGVMGGSNSNQQQQMRLQQLQMEKERLRLKQQELLRQVRPQAMRNINPSTANSPKCQELALRSQLPTLEQDGGTQNPVSSPGMSQELRTMTTNSSDPFLNSGTYHSRDESTDSGLSMSSYSVPRTPDDFLNSVDEMDTGDTINQSTLPSQQNRFPDYLEAIPGTNVDLGTLEGDGMNIEGEELMPSLQEALSSDILNDMESVLAATKLDKESFLTWL
+PTM	Acetylation:90,97,280,315,342;Methylation:76,89,181;Phosphorylation:61,63,83,103,105,109,110,114,119,127,128,131,138,141,143,145,149,154,156,163,164,217,274,276,289,298,300,336,337,340,350,361,366,367,371,378,379,381,382,388,397,398,400,403,405,406,407,408,412,419,499;SUMOylation:76,342;Ubiquitylation:315,321,497

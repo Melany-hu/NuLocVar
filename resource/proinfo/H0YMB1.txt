@@ -1,0 +1,25 @@
+UniprotID	H0YMB1
+Accession	H0YMB1
+EntryName	H0YMB1_HUMAN
+ProteinName	Regulator of microtubule dynamics protein 3 (Protein FAM82A2) (Protein FAM82C)
+GeneName	RMDN3
+Length	306
+Function	Involved in cellular calcium homeostasis regulation. May participate in differentiation and apoptosis of keratinocytes. Overexpression induces apoptosis.
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle pole; Mitochondrion outer membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XESEDGEDEVSCETVKMGRKDSLDLEEEAASGASSALEAGGSSGLEDVLPLLQQADELHRGDEQGKREGFQLLLNNKLVGVGEGQGPHSPQLRKKGPHPFLSGLQYGSRQDFLWRLARAYSDMCELTEEVSEKKSYALDGKEEAEAALEKGDESADCHLWYAVLCGQLAEHESIQRRIQSGFSFKEHVDKAIALQPENPMAHFLLGRWCYQVSHLSWLEKKTATALLESPLSATVEDALQSFLKAEELQPGFSKAGRVYISKCYRELGKNSEARWWMKLALELPDVTKEDLAIQKDLEELEVILRD
+PTM	

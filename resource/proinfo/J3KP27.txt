@@ -1,0 +1,25 @@
+UniprotID	J3KP27
+Accession	J3KP27
+EntryName	J3KP27_HUMAN
+ProteinName	Trafficking protein particle complex subunit
+GeneName	TRAPPC4
+Length	181
+Function	Core component of the TRAPP complexes which has a function of guanine nucleotide exchange factor activity for Rab1 GTPase. Plays a role in vesicular transport from endoplasmic reticulum to Golgi and autophagy. May play a role in dendrite postsynaptic membrane trafficking.
+Subcellular Location	Endoplasmic reticulum; Golgi apparatus; cis-Golgi network; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAIFSVYVVNKAGGLIYQLDSYAPRAEAEKTFSYPLDLLLKLHDERVLVAFGQRDGIRVGHAVLAINGMDVNGRYTADGKEVLEYLGNPANYPVSIRFGRPRLTSNEKLMLASMFHSLFAIGSQLSPEQGSSGIEMLETDTFKLHCYQTLTEMPIRCELFDQNLKLALEVAEKAGTFGPGS
+PTM	

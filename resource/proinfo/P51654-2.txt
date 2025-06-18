@@ -1,0 +1,25 @@
+UniprotID	P51654-2
+Accession	P51654;C9JLE3;G3V1R0;Q2L880;Q2L882
+EntryName	GPC3_HUMAN
+ProteinName	Glypican-3 (GTR2-2) (Intestinal protein OCI-5) (MXR7) [Cleaved into: Glypican-3 alpha subunit; Glypican-3 beta subunit]
+GeneName	GPC3 OCI5
+Length	526
+Function	Cell surface proteoglycan (PubMed:14610063). Negatively regulates the hedgehog signaling pathway when attached via the GPI-anchor to the cell surface by competing with the hedgehog receptor PTC1 for binding to hedgehog proteins (By similarity). Binding to the hedgehog protein SHH triggers internalization of the complex by endocytosis and its subsequent lysosomal degradation (By similarity). Positively regulates the canonical Wnt signaling pathway by binding to the Wnt receptor Frizzled and stimulating the binding of the Frizzled receptor to Wnt ligands (PubMed:16227623, PubMed:24496449). Positively regulates the non-canonical Wnt signaling pathway (By similarity). Binds to CD81 which decreases the availability of free CD81 for binding to the transcriptional repressor HHEX, resulting in nuclear translocation of HHEX and transcriptional repression (By similarity). Inhibits the dipeptidyl peptidase activity of DPP4 (PubMed:17549790). Plays a role in limb patterning and skeletal development by controlling the cellular response to BMP4 (By similarity). Modulates the effects of growth factors BMP2, BMP7 and FGF7 on renal branching morphogenesis (By similarity). Required for coronary vascular development (By similarity). Plays a role in regulating cell movements during gastrulation (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGTVRTACLVVAMLLSLDFPGQAQPPPPPPDATCHQVRSFFQRLQPGLKWVPETPVPEAFEIVVRHAKNYTNAMFKNNYPSLTPQAFEFVGEFFTDVSLYILGSDINVDDMVNELFDSLFPVIYTQLMNPGLPDSALDINECLRGARRDLKVFGNFPKLIMTQVSKSLQVTRIFLQALNLGIEVINTTDHLKFSKDCGRMLTRMWYCSYCQGLMMVKPCGGYCNVVMQGCMAGVVEIDKYWREYILSLEELVNGMYRIYDMENVLLGLFSTIHDSIQYVQKNAGKLTTTIGKLCAHSQQRQYRSAYYPEDLFIDKKVLKVAHVEHEETLSSRRRELIQKLKSFISFYSALPGYICSHSPVAENDTLCWNGQELVERYSQKAARNGMKNQFNLHELKMKGPEPVVSQIIDKLKHINQLLRTMSMPKGRVLDKNLDEEGFESGDCGDDEDECIGGSGDGMIKVKNQLRFLAELAYDLDVDDAPGNSQQATPKDNEISTFHNLGNVHSPLKLLTSMAISVVCFFFLVH
+PTM	Glycosylation:124,241,359;Methylation:394,465,486;Phosphorylation:4,352,432

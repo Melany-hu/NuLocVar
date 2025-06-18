@@ -1,0 +1,25 @@
+UniprotID	Q86YT5-3
+Accession	Q86YT5;B3KXR0;B7Z4P2;B7ZLB4;F8W7N2;Q6ZMG1
+EntryName	S13A5_HUMAN
+ProteinName	Na(+)/citrate cotransporter (NaCT) (Sodium-coupled citrate transporter) (Sodium-dependent citrate transporter) (Solute carrier family 13 member 5)
+GeneName	SLC13A5 NACT
+Length	551
+Function	High-affinity sodium/citrate cotransporter that mediates the entry of citrate into cells, which is a critical participant of biochemical pathways (PubMed:12445824, PubMed:12826022, PubMed:26324167, PubMed:26384929, PubMed:30054523, PubMed:33597751). May function in various metabolic processes in which citrate has a critical role such as energy production (Krebs cycle), fatty acid synthesis, cholesterol synthesis, glycolysis, and gluconeogenesis (PubMed:12826022). Transports citrate into the cell in a Na(+)-dependent manner, recognizing the trivalent form of citrate (physiological pH) rather than the divalent form (PubMed:12445824, PubMed:12826022, PubMed:26324167, PubMed:26384929, PubMed:30054523, PubMed:33597751). Can recognize succinate as a substrate, but its affinity for succinate is several fold lower than for citrate (PubMed:26324167). The stoichiometry is probably 4 Na(+) for each carboxylate, irrespective of whether the translocated substrate is divalent or trivalent, rendering the process electrogenic (PubMed:12445824, PubMed:12826022). Involved in the regulation of citrate levels in the brain (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASALSYVSKFKSFVILFVTPLLLLPLVILMPAKFVRCAYVIILMAIYWCTEVIPLAVTSLMPVLLFPLFQILDSRQVCVQYMKDTNMLFLGGLIVAVAVERWNLHKRIALRTLLWVGAKPARNTATTAMMVPIVEAILQQMEATSAATEAGLELVDKGKAKELPGSQVIFEGPTLGQQEDQERKRLCKAMTLCICYAASIGGTATLTGTGPNVVLLGQMNELFPDSKDLVNFASWFAFAFPNMLVMLLFAWLWLQFVYMRFNFKKSWGCGLESKKNEKAALKVLQEEYRKLGPLSFAEINVLICFFLLVILWFSRDPGFMPGWLTVAWVEGETKYVSDATVAIFVATLLFIVPSQKPKFNFRSQTEEERKTPFYPPPLLDWKVTQEKVPWGIVLLLGGGFALAKGSEASGLSVWMGKQMEPLHAVPPAAITLILSLLVAVFTECTSNVATTTLFLPIFASMSRSIGLNPLYIMLPCTLSASFAFMLPVATPPNAIVFTYGHLKVADMVKTGVIMNIIGVFCVFLAVNTWGRAIFDLDHFPDWANVTHIET
+PTM	Methylation:292;Phosphorylation:3,184

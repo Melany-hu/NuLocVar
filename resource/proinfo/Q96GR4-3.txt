@@ -1,0 +1,25 @@
+UniprotID	Q96GR4-3
+Accession	Q96GR4;A6NH95;B2RE03;Q5T265;Q5T267;Q5T268;Q86VT5;Q96T09
+EntryName	ZDH12_HUMAN
+ProteinName	Palmitoyltransferase ZDHHC12 (EC 2.3.1.225) (DHHC domain-containing cysteine-rich protein 12) (DHHC-12) (Zinc finger DHHC domain-containing protein 12) (Zinc finger protein 400)
+GeneName	ZDHHC12 ZNF400 PSEC0008
+Length	322
+Function	Palmitoyltransferase that catalyzes the addition of palmitate onto various protein substrates (PubMed:36586411). Has a palmitoyltransferase activity toward gephyrin/GPHN, regulating its clustering at synapses and its function in gamma-aminobutyric acid receptor clustering (By similarity). Thereby, indirectly regulates GABAergic synaptic transmission (By similarity). Acts as an inhibitor of the NLRP3 inflammasome by mediating palmitoylation of NLRP3, thereby promoting NLRP3 degradation by the chaperone-mediated autophagy (CMA) process (PubMed:36586411).
+Subcellular Location	Golgi apparatus membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPWALLSPGVLVRTGHTVLTWGITLVLFLHDTDKSADELLATHSHSWNQHLQAFAQPGTHFPTSNCTPTPPTPVLPGPASLCSPASPELRQWEEQGELLLPLTFLLLVLGSLLLYLAVSLMDPGYVNVQPQPQEELKEEQTAMVPPAIPLRRCRYCLVLQPLRARHCRECRRCVRRYDHHCPWMENCVGERNHPLFVVYLALQLVVLLWGLYLAWSGLRFFQPWGQWLRSSGLLFATFLLLSLFSLVASLLLVSHLYLVASNTTTWEFISSHRIAYLRQRPSNPFDRGLTRNLAHFFCGWPSGSWETLWAEEEEEGSSPAV
+PTM	Methylation:83

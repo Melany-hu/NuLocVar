@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V4L3
+Accession	A0A7I2V4L3
+EntryName	A0A7I2V4L3_HUMAN
+ProteinName	Prostaglandin E synthase 2
+GeneName	PTGES2
+Length	170
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPAARVVRALWPGGCALAWRLGGRPQPLLPTQSRAGFAGAAGGPSPVAAARKGSPRLLGAAALALGGALGLYHTARWHLRAQDLHAERSAAQRHFRRLLWKTPLGAGPGPGGARSRSLFRLLPAALPVQPPAADPVPVQDVSLLQQGPSLPRLPCPALPGGGGEPCAQG
+PTM	

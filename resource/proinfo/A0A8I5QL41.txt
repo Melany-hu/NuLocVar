@@ -1,0 +1,25 @@
+UniprotID	A0A8I5QL41
+Accession	A0A8I5QL41
+EntryName	A0A8I5QL41_HUMAN
+ProteinName	Katanin p60 ATPase-containing subunit A-like 2 (Katanin p60 subunit A-like 2) (EC 5.6.1.1) (p60 katanin-like 2)
+GeneName	KATNAL2
+Length	451
+Function	Severs microtubules in vitro in an ATP-dependent manner. This activity may promote rapid reorganization of cellular microtubule arrays.
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELSYQTLKFTHQAREACEMRTEARRKNLLILISHYLTQEGYIDTANALEQETKLGLRRFEVCDNIDLETILMEYESYYFVKFQKYPKIVKKSSDTENNLPQRSRGKTRRMMNDSCQNLPKINQQRPRSKTTAGKTGDTKSLNKEHPNQEVVDNTRLESANFGLHISRIRKDSGEENAHPRRGQIIDFQGLLTDAIKGATSELALNTFDHNPDPSERLLKPLSAFIGMNSEMRELAAVVSRYPQLFTGILSPWKGLLLYGPPGTGKTLLAKAVATECKTTFFNISASTIVSKWRGDSEKLVRVLFELARYHAPSTIFLDELESVMSQRGTASGGEHEGSLRMKTELLVQMDGLARSEDLVFVLAASNLPCLKAIALQPGDRARLRLKKKKSVLVHFHAAGEDISKTGKKKKLTGLTVSHGWGASESWRGAKDTSYMVAARENEEDARSGNP
+PTM	

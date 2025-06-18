@@ -1,0 +1,25 @@
+UniprotID	A3KPC7
+Accession	A3KPC7
+EntryName	A3KPC7_HUMAN
+ProteinName	Histone H2A
+GeneName	HIST1H2AH hCG_1640359
+Length	128
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAK
+PTM	

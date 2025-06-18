@@ -1,0 +1,25 @@
+UniprotID	A6NFX8
+Accession	A6NFX8
+EntryName	A6NFX8_HUMAN
+ProteinName	Nudix hydrolase 5
+GeneName	NUDT5
+Length	232
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESQEPTESSQNGKQYIISEELISEGKWVKLEKTTYMDPTGKTRRNKEKTTTLLILRTWESVKRTTRKEQTADGVAVIPVLQRTLHYECIVLVKQFRPPMGGYCIEFPAGLIDDGETPEAAALRELEEETGYKGDIAECSPAVCMDPGLSNCTIHIVTVTINGDDAENARPKPKPGDGEFVEVISLPKNDLLQRLDALVAEEHLTVDARVYSYALALKHANAKPFEVPFLKF
+PTM	

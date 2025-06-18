@@ -1,0 +1,25 @@
+UniprotID	F5H6H0
+Accession	F5H6H0
+EntryName	F5H6H0_HUMAN
+ProteinName	High mobility group AT-hook 2
+GeneName	HMGA2
+Length	147
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	30...35;26...31;46...51;74...79;48...53;27...33;29...34;77...82;75...81;44...49
+validnes_region	
+nesbase_region	
+Sequence	MSARGEGAGQPSTSAQGQPAAPAPQKRGRGRPRKQQQEPTGEPSPKRPRGRPKGSKNKSPSKAAQKKAEATGEKRPRGRPRKWAGVQWYNLGSLQPPPPRFKQFSCLRLLSSWDYRHPPPHPANFCIFSRDRVSPCWPGWSRTPDLR
+PTM	

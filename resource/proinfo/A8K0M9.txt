@@ -1,0 +1,25 @@
+UniprotID	A8K0M9
+Accession	A8K0M9
+EntryName	A8K0M9_HUMAN
+ProteinName	Selenoprotein K
+GeneName	SELK hCG_1641209
+Length	91
+Function	Required for Ca(2+) flux in immune cells and plays a role in T-cell proliferation and in T-cell and neutrophil migration. Involved in endoplasmic reticulum-associated degradation (ERAD) of soluble glycosylated proteins. Required for palmitoylation and cell surface expression of CD36 and involved in macrophage uptake of low-density lipoprotein and in foam cell formation. Together with ZDHHC6, required for palmitoylation of ITPR1 in immune cells, leading to regulate ITPR1 stability and function. Plays a role in protection of cells from ER stress-induced apoptosis. Protects cells from oxidative stress when overexpressed in cardiomyocytes.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVYISNGQVLDSRSQSPWRLSLITDFFWGIAEFVVLFFKTLLQQDVKKRRSYGNSSDSRYDDGRGPPGNPPRRMGRINHLRGPSPPPMAGG
+PTM	

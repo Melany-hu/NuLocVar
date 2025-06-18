@@ -1,0 +1,25 @@
+UniprotID	Q5D0E6-4
+Accession	Q5D0E6;Q7Z5S7;Q86WY1;Q8N105;Q8NA89;Q9NVU8
+EntryName	DALD3_HUMAN
+ProteinName	DALR anticodon-binding domain-containing protein 3
+GeneName	DALRD3
+Length	376
+Function	Involved in tRNA methylation. Facilitates the recognition and targeting of tRNA(Arg)(CCU) and tRNA(Arg)(UCU) substrates for N(3)-methylcytidine modification by METTL2A and METTL2B.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTFLQQLRVDWPAASERASSHTLRSHALEELTSANDGRTLSPGILGRLCLKELVEEQGRTAGYDPNLDNCLVTEDLLSVLAELQEALWHWPEDSHPGLAGASDTGTGGCLVVHVVSCEEEFQQQKLDLLWQKLVDKAPLRQKHLICGPVKVAGAPGTLMTAPEYYEFRHTQVCKASALKHGGDLAQDPAWTEIFGVLSVATIKFEMLSTAPQSQLFLALADSSISTKGTKSGTFVMYNCARLATLFESYKCSMEQGLYPTFPPVSSLDFSLLHDEGEWLLLFNSILPFPDLLSRTAVLDCTAPGLHIAVRTEMICKFLVQLSMDFSSYYNRVHILGEPRPHLFGQMFVRLQLLRAVREVLHTGLAMLGLPPLSHI
+PTM	Methylation:347,371;Phosphorylation:209;Ubiquitylation:219,342

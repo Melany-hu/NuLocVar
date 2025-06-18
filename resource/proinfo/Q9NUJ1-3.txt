@@ -1,0 +1,25 @@
+UniprotID	Q9NUJ1-3
+Accession	Q9NUJ1;B7Z6A8;C9IZX5;D3DN63;Q8TCF9
+EntryName	ABHDA_HUMAN
+ProteinName	Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Abhydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial) (EC 3.1.1.93)
+GeneName	ABHD10
+Length	205
+Function	Acts as an acyl-protein thioesterase that hydrolyzes fatty acids from acylated residues in proteins (PubMed:31740833). Regulates the mitochondrial S-depalmitoylation of the nucleophilic active site residue of peroxiredoxin-5/PRDX5, a key antioxidant protein, therefore modulating mitochondrial antioxidant ability (PubMed:31740833). Also catalyzes the deglucuronidation of mycophenolic acid acyl-glucuronide, an active metabolite of the immunosuppressant drug mycophenolate (PubMed:22294686).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVARLAAVAAWVPCRSWGWAAVPFGPHRGLSVLLARIPQRAPRWLPACRQKTSLSFLNRPDLPNLAYKKLKGKSPGIIFIPGYLSYMNGTKALAIEEFCKSLGHACIRFDYSGVGSSDGNSEESTLGKWRKDVLSIIDDLADGPQILVGSSLGGWLMLHAAIARPEKVVALIGVATAADTLVTKFNQLPVEDSGRKNYISLHSA
+PTM	Acetylation:69,101,129,194,195,248;Methylation:92,101,129,185,194,200,223,275;Phosphorylation:75,84,86,87,220,233;SUMOylation:194,200;Ubiquitylation:194,195

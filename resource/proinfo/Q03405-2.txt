@@ -1,0 +1,25 @@
+UniprotID	Q03405-2
+Accession	Q03405;A8K409;Q12876;Q15845;Q16887;Q6IB52;Q9BWT0;Q9NYC8;Q9UD69;Q9UEA6;Q9UM92;Q9UMV0
+EntryName	UPAR_HUMAN
+ProteinName	Urokinase plasminogen activator surface receptor (U-PAR) (uPAR) (Monocyte activation antigen Mo3) (CD antigen CD87)
+GeneName	PLAUR MO3 UPAR
+Length	281
+Function	Acts as a receptor for urokinase plasminogen activator (PubMed:15677461). Plays a role in localizing and promoting plasmin formation. Mediates the proteolysis-independent signal transduction activation effects of U-PA. It is subject to negative-feedback regulation by U-PA which cleaves it into an inactive form.
+Subcellular Location	Cell membrane; Cell projection; Invadopodium membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGHPPLLPLLLLLHTCVPASWGLRCMQCKTNGDCRVEECALGQDLCRTTIVRLWEEGEELELVEKSCTHSEKTNRTLSYRTGLKITSLTEVVCGLDLCNQGNSGRAVTYSRSRYLECISCGSSDMSCERGRHQSLQCRSPEEQCLDVVTHWIQEGEEGRPKDDRHLRGCGYLPGCPGSNGFHNNDTFHFLKCCNTTKCNEGPILELENLPQNGRQCYSCKGNSTHGCSSEETFLIDCRGPMNQCLVATGTHERSLWGSWLPCKSTTALRPPCCEEAQATHV
+PTM	Glycosylation:184,222,255;Methylation:65;SUMOylation:65,161,254

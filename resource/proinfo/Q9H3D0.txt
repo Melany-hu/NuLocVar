@@ -1,0 +1,25 @@
+UniprotID	Q9H3D0
+Accession	Q9H3D0
+EntryName	Q9H3D0_HUMAN
+ProteinName	A431-specific truncated epidermal growth factor receptor
+GeneName	EGFR
+Length	70
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNCTYGSYIVSHFPRSFYKMSVH
+PTM	

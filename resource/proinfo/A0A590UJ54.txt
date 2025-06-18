@@ -1,0 +1,25 @@
+UniprotID	A0A590UJ54
+Accession	A0A590UJ54
+EntryName	A0A590UJ54_HUMAN
+ProteinName	IQ motif containing F6
+GeneName	IQCF6
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTQNVSKALAVGTYLTGNEPCLNLEKTAIKIQSWWRGNMVRRTLLQAALRAWVIQCWWRSMQAKMLEQRRRLALRLYTCQEWAVVKVQAQVRMWQARRRFLQARQAACIIQSHWRWHASQTRGLIRGHYEVRASRLELDIEILMT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E5RGW4
+Accession	E5RGW4
+EntryName	E5RGW4_HUMAN
+ProteinName	Nucleophosmin
+GeneName	NPM1
+Length	59
+Function	
+Subcellular Location	Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	34...41
+nlsdbnls_region	
+validnes_region	34...41
+nesbase_region	
+Sequence	MEDSMDMDMSPLRPQNYLFDYHFKVDNDENEHQLSLRTVSLGAGAKDELHIVEAEAMNY
+PTM	

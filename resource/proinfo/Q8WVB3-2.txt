@@ -1,0 +1,25 @@
+UniprotID	Q8WVB3-2
+Accession	Q8WVB3;B7UUP6;Q8IYN4;Q8TE81
+EntryName	HEXD_HUMAN
+ProteinName	Hexosaminidase D (EC 3.2.1.52) (Beta-N-acetylhexosaminidase) (Beta-hexosaminidase D) (Hexosaminidase domain-containing protein) (N-acetyl-beta-galactosaminidase)
+GeneName	HEXD HEXDC
+Length	585
+Function	Has hexosaminidase activity. Responsible for the cleavage of the monosaccharides N-acetylglucosamine (GlcNAc) and N-acetylgalactosamine (GalNAc) from cellular substrates. Has a preference for galactosaminide over glucosaminide substrates (PubMed:27149221).
+Subcellular Location	Cytoplasm; Nucleus; Extracellular vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGSTPFQMRLVHLDLKGAPPKVSYLSEIFPLFRALGANGLLIEYEDMFPYEGPLRLLRAKYAYSPSEIKEILHLAGLNELEVIPLVQTFGHMEFVLKHTAFAHLREVGSFPCTLNPHEAESLALVGAMIDQVLELHPGAQRLHIGCDEVYYLGEGEASRRWLQQEQNSTGKLCLSHMRAVASGVKARRPSVTPLVWDDMLRDLPEDQLAASGVPQLVEPVLWDYTADLDVHGKVLLMQKYRRCGFPQLWAASAFKGATGPSQAVPPVEHHLRNHVQWLQVAGSGPTDSLQGIILTGWQRYDHYSVLCELLPAGVPSLAACLQLLLRGGFDEDVKAKVENLLGISSLEKTDPVRQAPCSPPCPLLPLPFPRPWRQLFSAGLSAGRGPAPSLAATSLPLSHKSASICAALWMRCWRATGMSLAGSAPTTASGSSSTRSWFSTSSPQRSASWHSGAPSCRSWRLPCSWLSTRMPWRSGWRKTCTPACSGCKLCCRTSARCLPPRCHPPALAGTLLRTPEGRAHARGLLLEAGGALHCQMAWAIRAHVGVVPSGPAVSCPHSVPEGPGQPLGERLENTEGSSTGRPAL
+PTM	Methylation:17,98,335,349;Phosphorylation:2,4,5,176,191,476,477;SUMOylation:337;Ubiquitylation:61,186

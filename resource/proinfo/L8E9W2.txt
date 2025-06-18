@@ -1,0 +1,25 @@
+UniprotID	L8E9W2
+Accession	L8E9W2
+EntryName	L8E9W2_HUMAN
+ProteinName	Alternative protein LOC100130520
+GeneName	LOC100130520
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQENTDVGLQQYCRKMACLVSCPIPSSRFKCWSHRPPVLRTL
+PTM	

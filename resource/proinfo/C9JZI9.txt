@@ -1,0 +1,25 @@
+UniprotID	C9JZI9
+Accession	C9JZI9
+EntryName	C9JZI9_HUMAN
+ProteinName	SEC14 like lipid binding 2
+GeneName	SEC14L2
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRKHVEFRKQKDIDNIISWQPPEVIQQYLSGGMCGYDLDGCPVWYDIIGPLDAKGLLFSASKQDLLRTKMRECELLLQECAHQTTKLGRKVETITIIYDCEGLGLKHLWKPAVEAYGEFLCMFEENYPETLKRLFVVKAPKLFPVAYNLIKPFLSEDTRKKIMVLGANWKEVLLKHISPDQVPVEYGGTMTDPDGNPKCKSK
+PTM	

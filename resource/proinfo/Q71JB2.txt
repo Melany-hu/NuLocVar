@@ -1,0 +1,25 @@
+UniprotID	Q71JB2
+Accession	Q71JB2
+EntryName	Q71JB2_HUMAN
+ProteinName	Uncharacterized protein FP15737
+GeneName	FP15737
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHTVPWGVDFALIAMKNFISQWSSFFRSGMGKSQTGYLPRVPREQPFAAGLWGLAAALSHLAVNAFSLLCPPLPKTSCSLNPHGDVESRKVHATVENVYISALNLPWVRVKWC
+PTM	

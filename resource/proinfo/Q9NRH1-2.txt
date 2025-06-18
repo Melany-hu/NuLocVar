@@ -1,0 +1,25 @@
+UniprotID	Q9NRH1-2
+Accession	Q9NRH1;A4D1W4;B4DE83;Q6IAF7;Q8WVZ5
+EntryName	YAE1_HUMAN
+ProteinName	Protein YAE1 homolog (Yae1 domain-containing protein 1)
+GeneName	YAE1 C7orf36 YAE1D1 GK003
+Length	206
+Function	The complex LTO1:YAE1 functions as a target specific adapter that probably recruits apo-ABCE1 to the cytosolic iron-sulfur protein assembly (CIA) complex machinery (PubMed:26182403). May be required for biogenesis of the large ribosomal subunit and initiation of translation (PubMed:26182403).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWVQAASLIQGPGDKGDVFDEEADESLLAQREWQSNMQRRVKEGYRDGIDAGKAVTLQQGFNQGYKKGAEVILNYGRLRGTLRNSTDWSLLGLRAPLRSPEVGTQLLPRPLPVPGHMASGATPKQPTELEATLLSLVPQSGRATPRFPARLRAPGPGTPSHRRRFRRKPHRDPAAACPAWPPEAPSNSETHFSTYNRIIIRGGHI
+PTM	Methylation:102,169;Phosphorylation:136,176,181,208

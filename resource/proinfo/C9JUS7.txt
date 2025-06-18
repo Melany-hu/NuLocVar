@@ -1,0 +1,25 @@
+UniprotID	C9JUS7
+Accession	C9JUS7
+EntryName	C9JUS7_HUMAN
+ProteinName	Sp4 transcription factor
+GeneName	SP4
+Length	56
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGQQQGQDGVKVQQATIAPVTVAVGGIANATIGAVSPDQLTQVHLQQGQQTSDQE
+PTM	

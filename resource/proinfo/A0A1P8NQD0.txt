@@ -1,0 +1,25 @@
+UniprotID	A0A1P8NQD0
+Accession	A0A1P8NQD0
+EntryName	A0A1P8NQD0_HUMAN
+ProteinName	Low-density lipoprotein receptor-related protein 5
+GeneName	LRP5
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SPLLLFANRRDVRLVDAGGVKLESTIVVSGLEDAAAVYFQFSKGAVYWTDVSEEAIKQTYLNQTGAAVQNVVISGLVSPDGLACDWVGKKLYWTDSETNRIEVANLNGTSRKVLFWQDLDQPRAIALDPAHG
+PTM	

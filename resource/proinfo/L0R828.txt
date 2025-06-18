@@ -1,0 +1,25 @@
+UniprotID	L0R828
+Accession	L0R828
+EntryName	L0R828_HUMAN
+ProteinName	Alternative protein C1orf162
+GeneName	C1orf162
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAWEAMAPHVNPTLKDKALSPQQPQQLALHPVSLTTTTKNI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O94921-3
+Accession	O94921;A4D1E6;A6NK51;A8WFP6;B4DHG5;B4DNM2;Q75N06;Q75N22;Q8N764;Q9H3D7;Q9UDR0
+EntryName	CDK14_HUMAN
+ProteinName	Cyclin-dependent kinase 14 (EC 2.7.11.22) (Cell division protein kinase 14) (Serine/threonine-protein kinase PFTAIRE-1) (hPFTAIRE1)
+GeneName	CDK14 KIAA0834 PFTK1
+Length	423
+Function	Serine/threonine-protein kinase involved in the control of the eukaryotic cell cycle, whose activity is controlled by an associated cyclin. Acts as a cell-cycle regulator of Wnt signaling pathway during G2/M phase by mediating the phosphorylation of LRP6 at 'Ser-1490', leading to the activation of the Wnt signaling pathway. Acts as a regulator of cell cycle progression and cell proliferation via its interaction with CCDN3. Phosphorylates RB1 in vitro, however the relevance of such result remains to be confirmed in vivo. May also play a role in meiosis, neuron differentiation and may indirectly act as a negative regulator of insulin-responsive glucose transport.
+Subcellular Location	Cell membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTRNCQGMDSVIKPLDTIPEDKKVRVQRTQSTFDPFEKPANQVKRVHSENNACINFKTSSTGKESPKVRRHSSPSSPTSPKFGKADSYEKLEKLGEGSYATVYKGKSKVNGKLVALKVIRLQEEEGTPFTAIREASLLKGLKHANIVLLHDIIHTKETLTLVFEYVHTDLCQYMDKHPGGLHPDNVKLFLFQLLRGLSYIHQRYILHRDLKPQNLLISDTGELKLADFGLARAKSVPSHTYSNEVVTLWYRPPDVLLGSTEYSTCLDMWGVGCIFVEMIQGVAAFPGMKDIQDQLERIFLVLGTPNEDTWPGVHSLPHFKPERFTLYSSKNLRQAWNKLSYVNHAEDLASKLLQCSPKNRLSAQAALSHEYFSDLPPRLWELTDMSSIFTVPNVRLQPEAGESMRAFGKNNSYGKSLSNSKH
+PTM	Methylation:33,164,186;Phosphorylation:22,24,26,76,78,79,95,112,119,120,122,123,125,126,134,135,145,146,148,183,459;Ubiquitylation:271,385

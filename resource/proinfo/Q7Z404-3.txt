@@ -1,0 +1,25 @@
+UniprotID	Q7Z404-3
+Accession	Q7Z404;Q7Z5M3;Q8N5E4;Q8TBS7
+EntryName	TMC4_HUMAN
+ProteinName	Voltage-gated chloride channel TMC4 (Transmembrane channel-like protein 4)
+GeneName	TMC4
+Length	294
+Function	Voltage-gated chloride channel involved in high-concentration salt taste sensation (PubMed:34429071, PubMed:34468713). Depolarization induced by high NaCl concentration may trigger the activation of TMC4-mediated chloride influx into taste bud cells, helping the return to resting potential (PubMed:34429071). Also allows permeation of organic anions including gluconate, but their current amplitudes at positive potentials are less than that of chloride (PubMed:34429071). Involved in pH and temperature-dependent modulation of salty taste (PubMed:34468713).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKGGGGQRDVGADRTVFLRLASLVVLLFSLWNQITCGGDSEAEDCKTCGYNYKQLPCWETVLGQEMYKLLLFDLLTVLAVALLIQFPRKLLCGLCPGALGRLAGTQEFQVPDEVLGLIYAQTVVWVGSFFCPLLPLLNTVKFLLLFYLKKLTLFSTCSPAARTFRASAANFFFPLVLLLGLAISSVPLLYSIFLIPPSKLCGPFRGQSSIWAQIPESISSLPETTQNFLFFLGTQAFAVPLLLISSILMAYTVALANSYGRLISELKRQRQTEAQNKVFLARRAVALTSTKPAL
+PTM	Methylation:120,278;Phosphorylation:48,72,109,652,669,670;Ubiquitylation:74,120,136,150,685,695

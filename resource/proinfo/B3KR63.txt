@@ -1,0 +1,25 @@
+UniprotID	B3KR63
+Accession	B3KR63
+EntryName	B3KR63_HUMAN
+ProteinName	Septin 4, isoform CRA_h (cDNA FLJ33746 fis, clone BRCAN1000105, highly similar to Homo sapiens septin 4 (SEPT4), transcript variant 2, mRNA)
+GeneName	SEPT4 hCG_30696
+Length	146
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAGESGLGKSTLVNSLFLTDLYRDRKLLGAEERIMQTVEITKHAVDIEEKGVRLRLTIVDTPGFGDAVNNTECWKPVAEYIDQQFEQYFRDESGLNRKNIQDNRVHCCLYFISPFGHGYGPSLRLLAPPGAVKGTGQEHQGQGCH
+PTM	

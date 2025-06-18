@@ -1,0 +1,25 @@
+UniprotID	O60907-2
+Accession	O60907;A8K044;A8K4J7;Q86UY2
+EntryName	TBL1X_HUMAN
+ProteinName	F-box-like/WD repeat-containing protein TBL1X (SMAP55) (Transducin beta-like protein 1X) (Transducin-beta-like protein 1, X-linked)
+GeneName	TBL1X TBL1
+Length	526
+Function	F-box-like protein involved in the recruitment of the ubiquitin/19S proteasome complex to nuclear receptor-regulated transcription units (PubMed:14980219). Plays an essential role in transcription activation mediated by nuclear receptors. Probably acts as integral component of corepressor complexes that mediates the recruitment of the 19S proteasome complex, leading to the subsequent proteasomal degradation of transcription repressor complexes, thereby allowing cofactor exchange (PubMed:21240272).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSITSDEVNFLVYRYLQESGFSHSAFTFGIESHISQSNINGTLVPPAALISILQKGLQYVEAEISINEDGTVFDGRPIESLSLIDAVMPDVVQTRQQAFREKLAQQQASAAAAAAAATAAATAATTTSAGVSHQNPSKNREATVNGEENRAHSVNNHAKPMEIDGEVEIPSSKATVLRGHESEVFICAWNPVSDLLASGSGDSTARIWNLNENSNGGSTQLVLRHCIREGGHDVPSNKDVTSLDWNTNGTLLATGSYDGFARIWTEDGNLASTLGQHKGPIFALKWNRKGNYILSAGVDKTTIIWDAHTGEAKQQFPFHSAPALDVDWQNNTTFASCSTDMCIHVCRLGCDRPVKTFQGHTNEVNAIKWDPSGMLLASCSDDMTLKIWSMKQEVCIHDLQAHNKEIYTIKWSPTGPATSNPNSNIMLASASFDSTVRLWDIERGVCTHTLTKHQEPVYSVAFSPDGKYLASGSFDKCVHIWNTQSGNLVHSYRGTGGIFEVCWNARGDKVGASASDGSVCVLDLRK
+PTM	Acetylation:210;Methylation:18,106,419,442,527;Phosphorylation:38,43,44,45,204,458,509;SUMOylation:189,442;Ubiquitylation:340

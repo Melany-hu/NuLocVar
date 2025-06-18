@@ -1,0 +1,25 @@
+UniprotID	Q9UJT1-4
+Accession	Q9UJT1;B4DPT8;B4DW01;D3DU02;E9PCA7;E9PCQ8;Q5KU36;Q9BWG9;Q9H7Z8
+EntryName	TBD_HUMAN
+ProteinName	Tubulin delta chain (Delta-tubulin)
+GeneName	TUBD1 TUBD
+Length	237
+Function	Acts as a positive regulator of hedgehog signaling and regulates ciliary function.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cell projection; Cilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNIKQISFSDINQVLAHQLGSVFQPTYSAESSFHYRRNPLGDLMEHLVPHPEFKMLSVRNIPHMSENSLAYTTFTWAGLLKHLRQMLISNAKMEEGIDRHVWPPLSGLPPLSKMSLNKDLHFNTSIANLVILRGKDVQSADVEGFKDPALYTSWLKPVNAFNVWKTQRAFSKYEKSAVLVSNSQFLVKPLDMIVGKAWNMFASKAYIHQYTKFGIEEEDFLDSFTSLEQVVASYCNL
+PTM	Methylation:125,129,297;Phosphorylation:52,78,148,155,341;Ubiquitylation:47,79,270,351,388

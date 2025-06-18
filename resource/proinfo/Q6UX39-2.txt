@@ -1,0 +1,25 @@
+UniprotID	Q6UX39-2
+Accession	Q6UX39;Q0P503;Q0P506
+EntryName	AMTN_HUMAN
+ProteinName	Amelotin
+GeneName	AMTN UNQ689/PRO1329
+Length	208
+Function	Is a promoter of calcium phosphate mineralization, playing a critical role in the formation of the compact, mineralized, aprismatic enamel surface layer during the maturation stage of amelogenesis.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSTILLFCLLGSTRSLPLKPALGLPPTKLAPDQGTLPNQQQSNQVFPSLSLIPLTQMLTLGPDLHLLNPAAGMTPGTQTHPLTLGGLNVQQQLHPHVLPIFVTQLGAQGTILSSEELPQIFTSLIIHSLFPGGILPTSQAGANPDVQDGSLPAGGAGVNPATQGTPAGRLPTPSGTDDDFAVTTPAGIQRSTHAIEEATTESANGIQ
+PTM	

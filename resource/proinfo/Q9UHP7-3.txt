@@ -1,0 +1,25 @@
+UniprotID	Q9UHP7-3
+Accession	Q9UHP7;D6CI39;D6CI40;D6CI41;Q6YID5;Q8WUP7;Q9HD37;Q9HD38
+EntryName	CLC2D_HUMAN
+ProteinName	C-type lectin domain family 2 member D (Lectin-like NK cell receptor) (Lectin-like transcript 1) (LLT-1) (Osteoclast inhibitory lectin)
+GeneName	CLEC2D CLAX LLT1 OCIL
+Length	194
+Function	Receptor for KLRB1 that protects target cells against natural killer cell-mediated lysis (PubMed:16339513, PubMed:20843815). Inhibits osteoclast formation (PubMed:14753741, PubMed:15123656). Inhibits bone resorption (PubMed:14753741). Modulates the release of interferon-gamma (PubMed:15104121). Binds high molecular weight sulfated glycosaminoglycans (PubMed:15123656).
+Subcellular Location	Cell membrane; Endoplasmic reticulum; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHDSNNVEKDITPSELPANPGCLHSKEHSIKATLIWRLFFLIMFLTIIVCGMVAALSAIRANCHQEPSVCLQAACPESWIGFQRKCFYFSDDTKNWTSSQRFCDSQDADLAQVESFQELNFLLRYKGPSDHWIGLSREQGQPWKWINGTEWTRQLVMKEDGANLYVAKVSQVPRMNPRPVMVSYPGSRRVCLFE
+PTM	Methylation:169;Phosphorylation:136,177,178

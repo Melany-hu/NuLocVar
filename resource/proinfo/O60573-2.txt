@@ -1,0 +1,25 @@
+UniprotID	O60573-2
+Accession	O60573;B8ZZJ9;O75349
+EntryName	IF4E2_HUMAN
+ProteinName	Eukaryotic translation initiation factor 4E type 2 (eIF-4E type 2) (eIF4E type 2) (Eukaryotic translation initiation factor 4E homologous protein) (Eukaryotic translation initiation factor 4E-like 3) (eIF4E-like protein 4E-LP) (mRNA cap-binding protein 4EHP) (h4EHP) (mRNA cap-binding protein type 3)
+GeneName	EIF4E2 EIF4EL3
+Length	234
+Function	Recognizes and binds the 7-methylguanosine-containing mRNA cap during an early step in the initiation. Acts as a repressor of translation initiation (PubMed:17368478, PubMed:22751931, PubMed:25624349, PubMed:33581076, PubMed:9582349). In contrast to EIF4E, it is unable to bind eIF4G (EIF4G1, EIF4G2 or EIF4G3), suggesting that it acts by competing with EIF4E and block assembly of eIF4F at the cap (By similarity). In P-bodies, component of a complex that promotes miRNA-mediated translational repression (PubMed:28487484). Involved in virus-induced host response by mediating miRNA MIR34A-induced translational silencing which controls IFNB1 production by a negative feedback mechanism (PubMed:28487484, PubMed:33581076).
+Subcellular Location	Cytoplasm; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNKFDALKDDDSGDHDQNEENSTQKDGEKEKTERDKNQSSSKRKAVVPGPAEHPLQYNYTFWYSRRTPGRPTSSQSYEQNIKQIGTFASVEQFWRFYSHMVRPGDLTGHSDFHLFKEGIKPMWEDDANKNGGKWIIRLRKGLASRCWENLILAMLGEQFMVGEEICGAVVSVRFQEDIISIWNKTASDQATTARIRDTLRRVLNLPPNTIMEYKTHTDSIKDNSSFRNTKITL
+PTM	Acetylation:4,134,239;Methylation:4,9,241;Phosphorylation:13,68,73,74;SUMOylation:9;Ubiquitylation:239

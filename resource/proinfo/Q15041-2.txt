@@ -1,0 +1,25 @@
+UniprotID	Q15041-2
+Accession	Q15041;B7Z6S5;B7Z791;F5GXP4
+EntryName	AR6P1_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 6-interacting protein 1 (ARL-6-interacting protein 1) (Aip-1) (Apoptotic regulator in the membrane of the endoplasmic reticulum)
+GeneName	ARL6IP1 ARL6IP ARMER KIAA0069
+Length	174
+Function	Positively regulates SLC1A1/EAAC1-mediated glutamate transport by increasing its affinity for glutamate in a PKC activity-dependent manner. Promotes the catalytic efficiency of SLC1A1/EAAC1 probably by reducing its interaction with ARL6IP5, a negative regulator of SLC1A1/EAAC1-mediated glutamate transport (By similarity). Plays a role in the formation and stabilization of endoplasmic reticulum tubules (PubMed:24262037). Negatively regulates apoptosis, possibly by modulating the activity of caspase-9 (CASP9). Inhibits cleavage of CASP9-dependent substrates and downstream markers of apoptosis but not CASP9 itself (PubMed:12754298). May be involved in protein transport, membrane trafficking, or cell signaling during hematopoietic maturation (PubMed:10995579).
+Subcellular Location	Endomembrane system; Endoplasmic reticulum membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLMADKVLRWERAWFPPAIMGVVSLVFLIIYYLDPSVLSGVSCFVMFLCLADYLVPILAPRIFGSNKWTTEQQQRFHEICSNLVKTRRRAVGWWKRLFTLKEEKPKMYFMTMIVSLAAVAWVGQQVHNLLLTYLIVTSLLLLPGLNQHGIILKYIGMAKREINKLLKQKEKKNE
+PTM	Acetylation:96,114,124;Methylation:96,114,182;SUMOylation:96;Ubiquitylation:96,114,124,130,188

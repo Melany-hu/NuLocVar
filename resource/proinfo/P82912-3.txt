@@ -1,0 +1,25 @@
+UniprotID	P82912-3
+Accession	P82912;B2RD52;Q969D7;Q96GI3;Q9BYC3
+EntryName	RT11_HUMAN
+ProteinName	Small ribosomal subunit protein uS11m (28S ribosomal protein S11, mitochondrial) (MRP-S11) (S11mt) (Cervical cancer proto-oncogene 2 protein) (HCC-2)
+GeneName	MRPS11 RPMS11 HCC2
+Length	161
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQAVRNAGSRFLRSWTWPQTAGRVVARTPAGTICTGARQLQDAAAKQKVEQNAAPSHTKFSTQIQVVSASNEPLAFASCGTEGFRNAKKGTGIAAQTAGIAAAARAKQKGVIHIRVVVKGLGPGRLSAMHGLIMGGLEVISITDNTPIPHNGCRPRKARKL
+PTM	Acetylation:59,79

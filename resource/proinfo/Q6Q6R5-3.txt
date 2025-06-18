@@ -1,0 +1,25 @@
+UniprotID	Q6Q6R5-3
+Accession	Q6Q6R5;A2A436;Q5T043;Q6Q6R4;Q6Q6R6;Q6Q6R7
+EntryName	CRIP3_HUMAN
+ProteinName	Cysteine-rich protein 3 (CRP-3) (Chromosome 6 LIM domain only protein) (h6LIMo)
+GeneName	CRIP3 CRP3
+Length	204
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWTCPRCQQPVFFAEKVSSLGKNWHRFCLKCERCHSILSPGGHAEHNGRPYCHKPCYGALFGPRGVNIGGVGSYLYNPPTPSPGCTTPLSPSSFSPPRPRTGLPQGKKSPPHMKTFTGETSLCPGCGEPVYFAEKVMSLGRNWHRPCLRCQRCHKTLTAGSHAEHDGVPYCHVPCYGYLFGPKGVNIGDVGCYIYDPVKIKFK
+PTM	Acetylation:31;Phosphorylation:96,132,139

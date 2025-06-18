@@ -1,0 +1,25 @@
+UniprotID	Q676U5-4
+Accession	Q676U5;A3EXK9;A3EXL0;B6ZDH0;Q6IPN1;Q6UXW4;Q6ZVZ5;Q8NCY2;Q96JV5;Q9H619
+EntryName	A16L1_HUMAN
+ProteinName	Autophagy-related protein 16-1 (APG16-like 1)
+GeneName	ATG16L1 APG16L UNQ9393/PRO34307
+Length	428
+Function	Plays an essential role in both canonical and non-canonical autophagy: interacts with ATG12-ATG5 to mediate the lipidation to ATG8 family proteins (MAP1LC3A, MAP1LC3B, MAP1LC3C, GABARAPL1, GABARAPL2 and GABARAP) (PubMed:23376921, PubMed:23392225, PubMed:24553140, PubMed:24954904, PubMed:27273576, PubMed:29317426, PubMed:30778222, PubMed:33909989). Acts as a molecular hub, coordinating autophagy pathways via distinct domains that support either canonical or non-canonical signaling (PubMed:29317426, PubMed:30778222). During canonical autophagy, interacts with ATG12-ATG5 to mediate the conjugation of phosphatidylethanolamine (PE) to ATG8 proteins, to produce a membrane-bound activated form of ATG8 (PubMed:23376921, PubMed:23392225, PubMed:24553140, PubMed:24954904, PubMed:27273576). Thereby, controls the elongation of the nascent autophagosomal membrane (PubMed:23376921, PubMed:23392225, PubMed:24553140, PubMed:24954904, PubMed:27273576). As part of the ATG8 conjugation system with ATG5 and ATG12, required for recruitment of LRRK2 to stressed lysosomes and induction of LRRK2 kinase activity in response to lysosomal stress (By similarity). Also involved in non-canonical autophagy, a parallel pathway involving conjugation of ATG8 proteins to single membranes at endolysosomal compartments, probably by catalyzing conjugation of phosphatidylserine (PS) to ATG8 (PubMed:33909989). Non-canonical autophagy plays a key role in epithelial cells to limit lethal infection by influenza A (IAV) virus (By similarity). Regulates mitochondrial antiviral signaling (MAVS)-dependent type I interferon (IFN-I) production (PubMed:22749352, PubMed:25645662). Negatively regulates NOD1- and NOD2-driven inflammatory cytokine response (PubMed:24238340). Instead, promotes an autophagy-dependent antibacterial pathway together with NOD1 or NOD2 (PubMed:20637199). Plays a role in regulating morphology and function of Paneth cell (PubMed:18849966).
+Subcellular Location	Cytoplasm; Preautophagosomal structure membrane; Endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSGLRAADFPRWKRHISEQLRRRDRLQRQAFEEIILQYNKLLEKSDLHSVLAQKLQAEKHDVPNRHEIRRRQARLQKELAEAAKEPLPVEQDDDIEVIVDETSDHTEETSPVRAISRAATKRLSQPAGGLLDSITNIFGRRSVSSFPVPQDNVDTHPGSGKEVRVPATALCVFDAHDGEVNAVQFSPGITSIEFDSAGSYLLAASNDFASRIWTVDDYRLRHTLTGHSGKVLSAKFLLDNARIVSGSHDRTLKLWDLRSKVCIKTVFAGSSCNDIVCTEQCVMSGHFDKKIRFWDIRSESIVREMELLGKITALDLNPERTELLSCSRDDLLKVIDLRTNAIKQTFSAPGFKCGSDWTRVVFSPDGSYVAAGSAEGSLYIWSVLTGKVEKVLSKQHSSSINAVAWSPSGSHVVSVDKGCKAVLWAQY
+PTM	Acetylation:433;Methylation:41,45,163,444,490,513,523;Phosphorylation:70,76,251,254,255,265,269,278,280,287,289,290,331

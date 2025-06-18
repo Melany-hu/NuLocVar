@@ -1,0 +1,25 @@
+UniprotID	Q9P246-3
+Accession	Q9P246;A6H8L7;B7ZVY0;Q96BF1;Q9BQH2;Q9H8R1
+EntryName	STIM2_HUMAN
+ProteinName	Stromal interaction molecule 2
+GeneName	STIM2 KIAA1482
+Length	599
+Function	Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores. Functions as a highly sensitive Ca(2+) sensor in the endoplasmic reticulum which activates both store-operated and store-independent Ca(2+)-influx. Regulates basal cytosolic and endoplasmic reticulum Ca(2+) concentrations. Upon mild variations of the endoplasmic reticulum Ca(2+) concentration, translocates from the endoplasmic reticulum to the plasma membrane where it probably activates the Ca(2+) release-activated Ca(2+) (CRAC) channels ORAI1, ORAI2 and ORAI3. May inhibit STIM1-mediated Ca(2+) influx.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLVLGLLVAGAADGCELVPRHLRGRRATGSAATAASSPAAAAGDSPALMTDPCMSLSPPCFTEEDRFSLEALQTIHKQMDDDKDGGIEVEESDEFIREDMKYKDATNKHSHLHREDKHITIEDLWKRWKTSEVHNWTLEDTLQWLIEFVELPQYEKNFRDNNVKGTTLPRIAVHEPSFMISQLKISDRSHRQKLQLKALDVVLFGPLTRPPHNWMKDFILTVSIVIGVGGCWFAYTQNKTSKEHVAKMMKDLESLQTAEQSLMDLQERLEKAQEENRNVAVEKQNLERKMMDEINYAKEEACRLRELREGAECELSRRQYAEQELEQVRMALKKAEKEFELRSSWSVPDALQKWLQLTHEVEVQYYNIKRQNAEMQLAIAKDEAEKIKKKRSTVFGTLHVAHSSSLDEVDHKILEAKKALSELTTCLRERLFRWQQIEKICGFQIAHNSGLPSLTSSLYSDHSWVVMPRVSIPPYPIAGGVDDLDEDTPPIVSQFPGTMAKPPGSLARSSSLCRSRRSIVPSSPQPQRAQLAPHAPHPSHPRHPHHPQHTPHSLPSPDPDILSVSSCPALYRNEEEEEAIYFSAEKQCIHLGLGACKSE
+PTM	Methylation:156,353,417,439,677;Phosphorylation:62,181,261,343,344,346,463,518,522,523,563,566,581,583,602,603,609,613,617,619,621,626,631,640,643,661,665,668,671,678,680,685,686,696,697,699,700,705,713,718,719

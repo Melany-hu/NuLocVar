@@ -1,0 +1,25 @@
+UniprotID	Q75L25
+Accession	Q75L25
+EntryName	Q75L25_HUMAN
+ProteinName	Uncharacterized protein SEMA3C
+GeneName	SEMA3C
+Length	21
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VFWPASTIKVEECKMAGKDPT
+PTM	

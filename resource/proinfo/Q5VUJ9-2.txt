@@ -1,0 +1,25 @@
+UniprotID	Q5VUJ9-2
+Accession	Q5VUJ9;B4DZE9;Q59G23;Q9BS36
+EntryName	DRC8_HUMAN
+ProteinName	Dynein regulatory complex protein 8 (EF-hand calcium-binding domain-containing protein 2)
+GeneName	EFCAB2 DRC8
+Length	162
+Function	Component of the nexin-dynein regulatory complex (N-DRC), a key regulator of ciliary/flagellar motility which maintains the alignment and integrity of the distal axoneme and regulates microtubule sliding in motile axonemes.
+Subcellular Location	Cytoplasm; Cytoskeleton; Flagellum axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADEKDREEIIVAEFHKKIKEAFEVFDHESNNTVDVREIGTIIRSLGCCPTEGELHDLIAEVEEEEPTGYIRFEKFLPVMTEILLERKYRPIPEDVLLRAFEVLDSAKRGFLTKDELIKYMTEEGEPFSQEEMEEMLSAAIDPESNSINYKDYITMMVIDEN
+PTM	Phosphorylation:94,96;SUMOylation:224;Ubiquitylation:244,250

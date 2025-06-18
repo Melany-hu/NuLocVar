@@ -1,0 +1,25 @@
+UniprotID	B3KWA3
+Accession	B3KWA3
+EntryName	B3KWA3_HUMAN
+ProteinName	Arginyltransferase 1, isoform CRA_c (cDNA FLJ42678 fis, clone BRAMY2038887, highly similar to Arginyl-tRNA--protein transferase 1)
+GeneName	ATE1 hCG_40721
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVIHKNPPDTPTESQFTRFLCSSPLEAETPPNGPDCGYGSFHQQYWLDGKIIAVGVIDILPNCVSSVYLYYDPDYSFLSLGVYSALREIAFTRQLHEKTSQLSYYYMGFYIHSCPKMKYKGQYRPSDLLCPETYVWVPIEQCLPSLENSKYCRFNQDPEAVDEDRSTEPDRLQVFHKRAIMPYGVYKKQQKDPSEEAAVLQYASLVGQKCSERMLLFRN
+PTM	

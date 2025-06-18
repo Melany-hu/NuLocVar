@@ -1,0 +1,25 @@
+UniprotID	Q5T2H4
+Accession	Q5T2H4
+EntryName	Q5T2H4_HUMAN
+ProteinName	Androgen induced 1
+GeneName	AIG1
+Length	192
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKVLRMAILLSYCSILCNYKAIEMPSHQTYGGSWKFLTFIDLVIQAVFFGICVLTDLSSLLTRGSGNQEQERQLKKLISLRDWMLAVLAFPVGVFVVAVFWIIYAYDREMIYPKLLDNFIPGWLNHGMHTTVLPFILIEMRTSHHQYPSRSSGLTAICTFSVGYILWVCWVHHVTGMWVYPFLEHIGPGAR
+PTM	

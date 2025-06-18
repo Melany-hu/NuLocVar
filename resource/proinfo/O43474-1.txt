@@ -1,0 +1,25 @@
+UniprotID	O43474-1
+Accession	O43474;B2R8S4;B3KT79;L0R3I6;L0R4N5;P78338;Q5T3J8;Q5T3J9;Q8N717;Q9UNP3
+EntryName	KLF4_HUMAN
+ProteinName	Krueppel-like factor 4 (Epithelial zinc finger protein EZF) (Gut-enriched krueppel-like factor)
+GeneName	KLF4 EZF GKLF
+Length	479
+Function	Transcription factor; can act both as activator and as repressor. Binds the 5'-CACCC-3' core sequence. Binds to the promoter region of its own gene and can activate its own transcription. Regulates the expression of key transcription factors during embryonic development. Plays an important role in maintaining embryonic stem cells, and in preventing their differentiation. Required for establishing the barrier function of the skin and for postnatal maturation and maintenance of the ocular surface. Involved in the differentiation of epithelial cells and may also function in skeletal and kidney development. Contributes to the down-regulation of p53/TP53 transcription.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	380...385
+validnes_region	
+nesbase_region	
+Sequence	MRQPPGESDMAVSDALLPSFSTFASGPAGREKTLRQAGAPNNRWREELSHMKRLPPVLPGRPYDLAAATVATDLESGGAGAACGGSNLAPLPRRETEEFNDLLDLDFILSNSLTHPPESVAATVSSSASASSSSSPSSSGPASAPSTCSFTYPIRAGNDPGVAPGGTGGGLLYGRESAPPPTAPFNLADINDVSPSGGFVAELLRPELDPVYIPPQQPQPPGGGLMGKFVLKASLSAPGSEYGSPSVISVSKGSPDGSHPVVVAPYNGGPPRTCPKIKQEAVSSCTHLGAGPPLSNGHRPAAHDFPLGRQLPSRTTPTLGLEEVLSSRDCHPALPLPPGFHPHPGPNYPSFLPDQMQPQVPPLHYQELMPPGSCMPEEPKPKRGRRSWPRKRTATHTCDYAGCGKTYTKSSHLKAHLRTHTGEKPYHCDWDGCGWKFARSDELTRHYRKHTGHRPFQCQKCDRAFSRSDHLALHMKRHF
+PTM	Acetylation:52;Methylation:232;Phosphorylation:234,236,240,244,249,254,258,313,315,316,318,327,474,478;SUMOylation:278,448

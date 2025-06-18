@@ -1,0 +1,25 @@
+UniprotID	Q8NF62
+Accession	Q8NF62
+EntryName	Q8NF62_HUMAN
+ProteinName	FLJ00325 protein
+GeneName	FLJ00325
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PSLITFQRAHRPWEKYSMVLTLVRDLKILQFKGVEKGFAKVQVKSTRSKKRAVRACSQKEAYLKFTRLKGHLGCVGQLVLWTELCVSPQ
+PTM	

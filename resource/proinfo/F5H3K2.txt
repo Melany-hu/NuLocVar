@@ -1,0 +1,25 @@
+UniprotID	F5H3K2
+Accession	F5H3K2
+EntryName	F5H3K2_HUMAN
+ProteinName	Protein CUSTOS
+GeneName	C12orf43
+Length	188
+Function	
+Subcellular Location	Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	145...150
+validnes_region	
+nesbase_region	
+Sequence	MDGAANSQLSTSQPSLRHKVNEHEQDGNELQTTPEFRAHVAKKLGALLDSFITISEAAKEPAKAKVQKVALEDDGFRLFFTSVPGGREKEESPQPRRKRQPSSSSSEDSDEEWRRCREAAVSASDILQESAIHSPGTVEKEAKKKRKLKKKAKKVASVDSAVAATTPTSMATVQKQKSGELNGDQVSL
+PTM	

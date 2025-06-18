@@ -1,0 +1,25 @@
+UniprotID	X5DRA7
+Accession	X5DRA7
+EntryName	X5DRA7_HUMAN
+ProteinName	Tuberous sclerosis 2 isoform M
+GeneName	TSC2
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKPTSKDSGLKEKFKILLGLGTPRPNPRSAEGKQTEFIITAEILRELSMECGLNNRIRMIGQICEVAKTKKFEEHAVEALWKAVADLLQPERPLEARHAVLALLKAIVQGQGERLGARQMALHANMASQVHHSRSNPTDIYPSKWIARLRHIKRLRQRICEEAAYSNPSLPLVHPPSHSKAPAQTPAEPTPGYEVGQRKRLISSVEDFTEFV
+PTM	

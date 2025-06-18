@@ -1,0 +1,25 @@
+UniprotID	A0AA75L0V4
+Accession	A0AA75L0V4
+EntryName	A0AA75L0V4_HUMAN
+ProteinName	Ovo like zinc finger 3
+GeneName	OVOL3
+Length	214
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRAFLVRSRRPQPPNWGHLPDQLRGDAYIPGGPLTVPGGKGQERRSVTIWLFSSDCSSLGGPPAQQSSSVRDPWTAQPTQGNLTSAPRGPGTLGCPLCPKAFPLQRMLTRHLKCHSPVRRHLCRCCGKGFHDAFDLKRHMRTHTGIRPFRCSACGKAFTQRCSLEAHLAKVHGQPASYAYRERREKLHVCEDCGFTSSRPDTYAQHRALHRAA
+PTM	

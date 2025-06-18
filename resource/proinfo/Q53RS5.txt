@@ -1,0 +1,25 @@
+UniprotID	Q53RS5
+Accession	Q53RS5
+EntryName	Q53RS5_HUMAN
+ProteinName	Uncharacterized protein CYP20A1
+GeneName	CYP20A1
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FDPDRFDDELVMKTFSSLGFSGTQECPELRFAYMVTTVLLSVLVKRLHLLSVEGQVIETKYELVTSSREEAWITVSKRY
+PTM	

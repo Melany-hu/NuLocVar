@@ -1,0 +1,25 @@
+UniprotID	Q9UBI4-5
+Accession	Q9UBI4;B3KQN0;B4DUU5;B4DXM9;E7ESC0;H3BRP3;O95675;Q4PNR4;Q6FGL8;Q8WYI7;Q9UMB9;Q9UMC0;Q9Y6H9
+EntryName	STML1_HUMAN
+ProteinName	Stomatin-like protein 1 (SLP-1) (EPB72-like protein 1) (Protein unc-24 homolog) (Stomatin-related protein) (STORP)
+GeneName	STOML1 SLP1 UNC24 MSTP019
+Length	355
+Function	May play a role in cholesterol transfer to late endosomes (PubMed:19696025). May play a role in modulating membrane acid-sensing ion channels. Can specifically inhibit proton-gated current of ASIC1 isoform 1. Can increase inactivation speed of ASIC3. May be involved in regulation of proton sensing in dorsal root ganglions (By similarity). May play a role in protecting FBXW7 isoform 3 from degradation (PubMed:23082202).
+Subcellular Location	Membrane; Late endosome membrane; Membrane raft; Cell membrane; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDVPQSWPSCLCHGLISFLGFLLLLVTFPISGWFALKIVPTYERMIVFRLGRIRTPQGPGMVLLLPFIDSFQRVDLRTRAFNVPPCKLASKDGAVLSVGADVQFRIWDPVLSVMTVKDLNTATRMTAQNAMTKALLKRPLREIQMEKLKISDQLLLEINDVTRAWGLEVDRVELAVEAVLQPPQDSPAGPNLDSTLQQLALHFLGGSMNSMAGGAPSPGPDTVEMVSEVEPPAPQVGARSSPKQPLAEGLLTALQPFLSEALVSQVGACYQFNVVLPSGTQSAYFLDLTTGRGRVGHGVPDGIPDVVVEMAEADLRALLCRELRPLGAYMSGRLKVKGDLAMAMKLEAVLRALK
+PTM	Methylation:180;Phosphorylation:34,284,285,373

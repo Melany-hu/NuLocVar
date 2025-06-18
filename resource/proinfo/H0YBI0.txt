@@ -1,0 +1,25 @@
+UniprotID	H0YBI0
+Accession	H0YBI0
+EntryName	H0YBI0_HUMAN
+ProteinName	SNF2 histone linker PHD RING helicase
+GeneName	SHPRH
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKPEGNHIIKVGIYLLEAGLAKLDFLSDANSRMKKFNQLMKKVMEKLHNSIIPDVASLVRTADSELSAIGHLGRVWMAWCSSSTLLEKQPKFSKFCS
+PTM	

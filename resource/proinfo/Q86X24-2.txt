@@ -1,0 +1,25 @@
+UniprotID	Q86X24-2
+Accession	Q86X24;A6NMK2;B3KUK1;Q4G114;Q5T5I3;Q5T5I4;Q5T5I5;Q6FIC1;Q9H0K8
+EntryName	HORM1_HUMAN
+ProteinName	HORMA domain-containing protein 1 (Cancer/testis antigen 46) (CT46) (Newborn ovary HORMA protein)
+GeneName	HORMAD1 NOHMA
+Length	387
+Function	Plays a key role in meiotic progression. Regulates 3 different functions during meiosis: ensures that sufficient numbers of processed DNA double-strand breaks (DSBs) are available for successful homology search by increasing the steady-state numbers of single-stranded DSB ends. Promotes synaptonemal-complex formation independently of its role in homology search. Plays a key role in the male mid-pachytene checkpoint and the female meiotic prophase checkpoint: required for efficient build-up of ATR activity on unsynapsed chromosome regions, a process believed to form the basis of meiotic silencing of unsynapsed chromatin (MSUC) and meiotic prophase quality control in both sexes.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	383..386
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATAQLQRTPMSALVFPNKISTEHQSLVLVKRLLAVSVSCITYLRGIFPECAYGTRYLDDLCVKILREDKNCPGSTQLVKWMLGCYDALQKKYVYTNPEDPQTISECYQFKFKYTNNGPLMDFISKNQSNESSMLSTDTKKASILLIRKIYILMQNLGPLPNDVCLTMKLFYYDEVTPPDYQPPGFKDGDCEGVIFEGEPMYLNVGEVSTPFHIFKVKVTTERERMENIDSTILSPKQIKTPFQKILRDKDVEDEQEHYTSDDLDIETKMEEQEKNPASSELEEPSLVCEEDEIMRSKESPDLSISHSQVEQLVNKTSELDMSESKTRSGKVFQNKMANGNQPVKSSKENRKRSQHESGRIVLHHFDSSSQESVPKRRKFSEPKEHI
+PTM	Methylation:31,80,91,156,244,276;Phosphorylation:21,26,76,86,121,228,242,307,330,334,388;SUMOylation:19,244,252,333,338,343;Ubiquitylation:338

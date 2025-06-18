@@ -1,0 +1,25 @@
+UniprotID	Q15714-2
+Accession	Q15714;A0A087X0H8;B3KRL7;B9EGI0;O00666;Q6AHX5;Q6IBU1;Q8NCN1;Q96JS5
+EntryName	T22D1_HUMAN
+ProteinName	TSC22 domain family protein 1 (Cerebral protein 2) (HUCEP-2) (Regulatory protein TSC-22) (TGFB-stimulated clone 22 homolog) (Transforming growth factor beta-1-induced transcript 4 protein)
+GeneName	TSC22D1 KIAA1994 TGFB1I4 TSC22 hucep-2
+Length	144
+Function	Transcriptional repressor (PubMed:10488076). Acts on the C-type natriuretic peptide (CNP) promoter (PubMed:9022669). Acts to promote CASP3-mediated apoptosis (PubMed:18325344). Positively regulates TGF-beta signaling by interacting with SMAD7 which inhibits binding of SMAD7 to TGFBR1, preventing recruitment of SMURF ubiquitin ligases to TGFBR1 and inhibiting SMURF-mediated ubiquitination and degradation of TGFBR1 (PubMed:21791611). Contributes to enhancement of TGF-beta signaling by binding to and modulating the transcription activator activity of SMAD4 (PubMed:15881652). Promotes TGF-beta-induced transcription of COL1A2; via its interaction with TFE3 at E-boxes in the gene proximal promoter (By similarity). Plays a role in the repression of hematopoietic precursor cell growth (By similarity). Promotes IL2 deprivation-induced apoptosis in T-lymphocytes, via repression of TSC22D3/GILZ transcription and activation of the caspase cascade (PubMed:26752201).
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane; Cytoplasm; Nucleus; Mitochondrion; Cytoplasm; Nucleus; Mitochondrion; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSQWCRPVAMDLGVYQLRHFSISFLSSLLGTENASVRLDNSSSGASVVAIDNKIEQAMDLVKSHLMYAVREEVEVLKEQIKELIEKNSQLEQENNLLKTLASPEQLAQFQAQLQTGSPPATTQPQGTTQPPAQPASQGSGPTA
+PTM	Glycosylation:439,459;Methylation:446,956,983,992,1007,1011,1016,1028;Phosphorylation:160,263,264,265,267,268,270,272,291,414;Ubiquitylation:983,992,1007,1016

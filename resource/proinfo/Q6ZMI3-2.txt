@@ -1,0 +1,25 @@
+UniprotID	Q6ZMI3-2
+Accession	Q6ZMI3;Q6UXZ7;Q7Z359
+EntryName	GLDN_HUMAN
+ProteinName	Gliomedin [Cleaved into: Gliomedin shedded ectodomain]
+GeneName	GLDN COLM UNQ9339/PRO34011
+Length	427
+Function	Ligand for NRCAM and NFASC/neurofascin that plays a role in the formation and maintenance of the nodes of Ranvier on myelinated axons. Mediates interaction between Schwann cell microvilli and axons via its interactions with NRCAM and NFASC. Nodes of Ranvier contain clustered sodium channels that are crucial for the saltatory propagation of action potentials along myelinated axons. During development, nodes of Ranvier are formed by the fusion of two heminodes. Required for normal clustering of sodium channels at heminodes; not required for the formation of mature nodes with normal sodium channel clusters. Required, together with NRCAM, for maintaining NFASC and sodium channel clusters at mature nodes of Ranvier.
+Subcellular Location	Cell membrane; Cell projection; Axon; Secreted; Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDLCNSTKGICLTGPSGPPGPPGAGGLPGHNGLDGQPGPQGPKGEKGANGKRGKMGIPGAAGNPGERGEKGDHGELGLQGNEGPPGQKGEKGDKGDVSNDVLLAGAKGDQGPPGPPGPPGPPGPPGPPGSRRAKGPRQPSMFNGQCPGETCAIPNDDTLVGKADEKASEHHSPQAESMITSIGNPVQVLKVTETFGTWIRESANKSDDRIWVTEHFSGIMVKEFKDQPSLLNGSYTFIHLPYYFHGCGHVVYNNSLYYHKGGSNTLVRFEFGQETSQTLKLENALYFDRKYLFANSKTYFNLAVDEKGLWIIYASSVDGSSILVAQLDERTFSVVQHVNTTYPKSKAGNAFIARGILYVTDTKDMRVTFAFDLLGGKQINANFDLRTSQSVLAMLAYNMRDQHLYSWEDGHLMLYPVQFLSTTLNQ
+PTM	Methylation:232,287,315,405,502;Phosphorylation:63,73,95,416

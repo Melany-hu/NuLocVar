@@ -1,0 +1,25 @@
+UniprotID	J3QSH2
+Accession	J3QSH2
+EntryName	J3QSH2_HUMAN
+ProteinName	Cyclin L2
+GeneName	CCNL2
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGQVLFQRFFYTKSFVKHSMEHVSMACVHLASKIEEAPRRIRDVINVFHRLRQLRDKKKPVPLLLDQDYVNLKNQIIKAERRV
+PTM	

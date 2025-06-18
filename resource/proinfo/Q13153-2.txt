@@ -1,0 +1,25 @@
+UniprotID	Q13153-2
+Accession	Q13153;O75561;Q13567;Q32M53;Q32M54;Q86W79
+EntryName	PAK1_HUMAN
+ProteinName	Serine/threonine-protein kinase PAK 1 (EC 2.7.11.1) (Alpha-PAK) (p21-activated kinase 1) (PAK-1) (p65-PAK)
+GeneName	PAK1
+Length	553
+Function	Protein kinase involved in intracellular signaling pathways downstream of integrins and receptor-type kinases that plays an important role in cytoskeleton dynamics, in cell adhesion, migration, proliferation, apoptosis, mitosis, and in vesicle-mediated transport processes (PubMed:10551809, PubMed:11896197, PubMed:12876277, PubMed:14585966, PubMed:15611088, PubMed:17726028, PubMed:17989089, PubMed:30290153, PubMed:17420447). Can directly phosphorylate BAD and protects cells against apoptosis (By similarity). Activated by interaction with CDC42 and RAC1 (PubMed:8805275, PubMed:9528787). Functions as a GTPase effector that links the Rho-related GTPases CDC42 and RAC1 to the JNK MAP kinase pathway (PubMed:8805275, PubMed:9528787). Phosphorylates and activates MAP2K1, and thereby mediates activation of downstream MAP kinases (By similarity). Involved in the reorganization of the actin cytoskeleton, actin stress fibers and of focal adhesion complexes (PubMed:9032240, PubMed:9395435). Phosphorylates the tubulin chaperone TBCB and thereby plays a role in the regulation of microtubule biogenesis and organization of the tubulin cytoskeleton (PubMed:15831477). Plays a role in the regulation of insulin secretion in response to elevated glucose levels (PubMed:22669945). Part of a ternary complex that contains PAK1, DVL1 and MUSK that is important for MUSK-dependent regulation of AChR clustering during the formation of the neuromuscular junction (NMJ) (By similarity). Activity is inhibited in cells undergoing apoptosis, potentially due to binding of CDC2L1 and CDC2L2 (PubMed:12624090). Phosphorylates MYL9/MLC2 (By similarity). Phosphorylates RAF1 at 'Ser-338' and 'Ser-339' resulting in: activation of RAF1, stimulation of RAF1 translocation to mitochondria, phosphorylation of BAD by RAF1, and RAF1 binding to BCL2 (PubMed:11733498). Phosphorylates SNAI1 at 'Ser-246' promoting its transcriptional repressor activity by increasing its accumulation in the nucleus (PubMed:15833848). In podocytes, promotes NR3C2 nuclear localization (By similarity). Required for atypical chemokine receptor ACKR2-induced phosphorylation of LIMK1 and cofilin (CFL1) and for the up-regulation of ACKR2 from endosomal compartment to cell membrane, increasing its efficiency in chemokine uptake and degradation (PubMed:23633677). In synapses, seems to mediate the regulation of F-actin cluster formation performed by SHANK3, maybe through CFL1 phosphorylation and inactivation (By similarity). Plays a role in RUFY3-mediated facilitating gastric cancer cells migration and invasion (PubMed:25766321). In response to DNA damage, phosphorylates MORC2 which activates its ATPase activity and facilitates chromatin remodeling (PubMed:23260667). In neurons, plays a crucial role in regulating GABA(A) receptor synaptic stability and hence GABAergic inhibitory synaptic transmission through its role in F-actin stabilization (By similarity). In hippocampal neurons, necessary for the formation of dendritic spines and excitatory synapses; this function is dependent on kinase activity and may be exerted by the regulation of actomyosin contractility through the phosphorylation of myosin II regulatory light chain (MLC) (By similarity). Along with GIT1, positively regulates microtubule nucleation during interphase (PubMed:27012601). Phosphorylates FXR1, promoting its localization to stress granules and activity (PubMed:20417602). Phosphorylates ILK on 'Thr-173' and 'Ser-246', promoting nuclear export of ILK (PubMed:17420447).
+Subcellular Location	Cytoplasm; Cell junction; Focal adhesion; Cell projection; Lamellipodium; Cell membrane; Cell projection; Ruffle membrane; Cell projection; Invadopodium; Nucleus; Nucleoplasm; Chromosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNNGLDIQDKPPAPPMRNTSTMIGAGSKDAGTLNHGSKPLPPNPEEKKKKDRFYRSILPGDKTNKKKEKERPEISLPSDFEHTIHVGFDAVTGEFTGMPEQWARLLQTSNITKSEQKKNPQAVLDVLEFYNSKKTSNSQKYMSFTDKSAEDYNSSNALNVKAVSETPAVPPVSEDEDDDDDDATPPPVIAPRPEHTKSVYTRSVIEPLPVTPTRDVATSPISPTENNTTPPDALTRNTEKQKKKPKMSDEEILEKLRSIVSVGDPKKKYTRFEKIGQGASGTVYTAMDVATGQEVAIKQMNLQQQPKKELIINEILVMRENKNPNIVNYLDSYLVGDELWVVMEYLAGGSLTDVVTETCMDEGQIAAVCRECLQALEFLHSNQVIHRDIKSDNILLGMDGSVKLTDFGFCAQITPEQSKRSTMVGTPYWMAPEVVTRKAYGPKVDIWSLGIMAIEMIEGEPPYLNENPLRALYLIATNGTPELQNPEKLSAIFRDFLNRCLEMDVEKRGSAKELLQVRKLRFQVFSNFSMIAASIPEDCQAPLQPHSTDCCS
+PTM	Acetylation:29,63,508,522;Methylation:11,63,114,162,256,420,489;Phosphorylation:2,38,109,110,113,115,131,136,137,139,142,144,146,149,153,155,156,165,167,174,185,197,199,202,204,212,214,219,220,223,225,229,230,249,259,415,422,423,427,511;Ubiquitylation:391,420

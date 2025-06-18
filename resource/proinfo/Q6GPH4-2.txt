@@ -1,0 +1,25 @@
+UniprotID	Q6GPH4-2
+Accession	Q6GPH4;A2T931;A2T932;A8K2L1;A8K9Y3;D3DTM6;Q6MZE8;Q8N557;Q99982
+EntryName	XAF1_HUMAN
+ProteinName	XIAP-associated factor 1 (BIRC4-binding protein)
+GeneName	XAF1 BIRC4BP XIAPAF1
+Length	282
+Function	Seems to function as a negative regulator of members of the IAP (inhibitor of apoptosis protein) family. Inhibits anti-caspase activity of BIRC4. Induces cleavage and inactivation of BIRC4 independent of caspase activation. Mediates TNF-alpha-induced apoptosis and is involved in apoptosis in trophoblast cells. May inhibit BIRC4 indirectly by activating the mitochondrial apoptosis pathway. After translocation to mitochondria, promotes translocation of BAX to mitochondria and cytochrome c release from mitochondria. Seems to promote the redistribution of BIRC4 from the cytoplasm to the nucleus, probably independent of BIRC4 inactivation which seems to occur in the cytoplasm. The BIRC4-XAF1 complex mediates down-regulation of BIRC5/survivin; the process requires the E3 ligase activity of BIRC4. Seems to be involved in cellular sensitivity to the proapoptotic actions of TRAIL. May be a tumor suppressor by mediating apoptosis resistance of cancer cells.
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion; Nucleus; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	209...214
+validnes_region	
+nesbase_region	
+Sequence	MEGDFSVCRNCKRHVVSANFTLHEAYCLRFLVLCPECEEPVPKETMEEHCKLEHQQANECQERPVECKFCKLDMQLSKLELHESYCGSRTELCQGCGQFIMHRMLAQHRDVCRSEQAQLGKGERISAPEREIYCHYCNQMIPENKYFHHMGKCCPDSEFKKHFPVGNPEILPSSLPSQAAENQTSTMEKDVRPKTRSINRFPLHSESSSKKAPRSKNKTLDPLLMSEPKPRTSSPRGDKAAYDILRRCSQCGILLPLPILNQHQEKCRWLASSKGKQVRNFS
+PTM	Acetylation:140;Methylation:179;Phosphorylation:70,216,226,227,228,261,268

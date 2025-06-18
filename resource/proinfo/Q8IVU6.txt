@@ -1,0 +1,25 @@
+UniprotID	Q8IVU6
+Accession	Q8IVU6
+EntryName	Q8IVU6_HUMAN
+ProteinName	HGSNAT protein
+GeneName	HGSNAT
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VGRALAALLLAASVLSAALLAPGGSSGRDAQAAPPRDLDKKRHAELKMDQALLLIHNELLWTNLTVYWKSECCYHCLFQVLVNVPQSPKAGKPSAAAASVSTQHGSILQLNDTLEEKEVCRLEYRFGEFGNYSLLVKNIHNGVSEIACDLAVNEDPVDSNLPVSIAFLIGLAVIIVISFLRLLLRVLLCHPGWSAVAPSRLTPSSASRVHTILLPQPPE
+PTM	

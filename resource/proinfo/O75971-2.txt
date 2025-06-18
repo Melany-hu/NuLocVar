@@ -1,0 +1,25 @@
+UniprotID	O75971-2
+Accession	O75971;A8K7N6;Q96CF3
+EntryName	SNPC5_HUMAN
+ProteinName	snRNA-activating protein complex subunit 5 (SNAPc subunit 5) (Small nuclear RNA-activating complex polypeptide 5) (snRNA-activating protein complex 19 kDa subunit) (SNAPc 19 kDa subunit)
+GeneName	SNAPC5 SNAP19
+Length	68
+Function	Part of the SNAPc complex required for the transcription of both RNA polymerase II and III small-nuclear RNA genes. Binds to the proximal sequence element (PSE), a non-TATA-box basal promoter element common to these 2 types of genes. Recruits TBP and BRF2 to the U6 snRNA TATA box.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSRLQELRKEEETLLRLKAALHDQLNRLKMLVHVDNEASINQTTLELSTKSHVTEEEEEEEEEESDS
+PTM	Methylation:19;Phosphorylation:96,98

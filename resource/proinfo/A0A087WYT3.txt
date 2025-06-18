@@ -1,0 +1,25 @@
+UniprotID	A0A087WYT3
+Accession	A0A087WYT3
+EntryName	A0A087WYT3_HUMAN
+ProteinName	Prostaglandin E synthase 3 (cPGES) (EC 5.3.99.3) (Cytosolic prostaglandin E2 synthase)
+GeneName	PTGES3
+Length	164
+Function	Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes. Facilitates HIF alpha proteins hydroxylation via interaction with EGLN1/PHD2, leading to recruit EGLN1/PHD2 to the HSP90 pathway.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLEKQPASAKWYDRRDYVFIEFCVEDSKDVNVNFEKSKLTFSCLGGSDNFKHLNEIDLFHCIDPNDSKHKRTDRSILCCLRKGESGQSWPRLTKERAKLNWLSVDFNNWKDWEDDSDEDMSNFDRFSEMMNNMGGDEDVDLPEVDGADDDSQDSDDEKMPDLE
+PTM	

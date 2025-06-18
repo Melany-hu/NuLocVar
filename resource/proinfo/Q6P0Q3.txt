@@ -1,0 +1,25 @@
+UniprotID	Q6P0Q3
+Accession	Q6P0Q3
+EntryName	Q6P0Q3_HUMAN
+ProteinName	IL15RA protein
+GeneName	IL15RA
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSKSPSTGTTEISSHESSHGTPSQTTAKTWELTASASHQPPGVYPQGHSDTTVAISTSTVLLCGLSAVSLLACYLKSRQTPPLASVEMEAMEALPVTWGTSSRDEDLENCSHHL
+PTM	

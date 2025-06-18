@@ -1,0 +1,25 @@
+UniprotID	Q9H2B4-2
+Accession	Q9H2B4;A8K9N2;Q7Z5R3;Q96BK0
+EntryName	S26A1_HUMAN
+ProteinName	Sulfate anion transporter 1 (SAT-1) (Solute carrier family 26 member 1)
+GeneName	SLC26A1 SAT1
+Length	224
+Function	Sodium-independent sulfate anion transporter (PubMed:12713736, PubMed:27125215). Can transport other anions including bicarbonate, thiosulfate and oxalate by mediating sulfate-thiosulfate, sulfate-hydrogencarbonate and sulfate-oxalate anion exchange (PubMed:12713736, PubMed:27125215). Mediates oxalate-hydrogencarbonate anion exchange (By similarity).
+Subcellular Location	Cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDESPEPLQQGRGPVPVRRQRPAPRGLREMLKARLWCSCSCSVLCVRALVQDLLPATRWLRQYRPREYLAGDVMSGLVIGIILVPQAIAYSLLAGLQPIYSLYTSFFANLIYFLMGTSRHVSVGIFSLLCLMVGQVVDRELQLAGFDPSQDGLQPGANSSTLNGSAAMLDCGRDCYAIRVATALTLMTGLYQTSWGRNSFQQHPWQLTQRSDSQELLEEEERSC
+PTM	Methylation:32;Phosphorylation:486,500,580

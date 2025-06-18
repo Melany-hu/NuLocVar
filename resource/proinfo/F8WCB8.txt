@@ -1,0 +1,25 @@
+UniprotID	F8WCB8
+Accession	F8WCB8
+EntryName	F8WCB8_HUMAN
+ProteinName	FTO alpha-ketoglutarate dependent dioxygenase
+GeneName	FTO
+Length	70
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRTPTAEEREREAKKLRLLEELEDTWLPYLTPKDDEFYQQALKRKVRMTLISKAGILIFGMLVLRSHGT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99576-3
+Accession	Q99576;Q5H9S3;Q5JRI9;Q5JRJ2;Q6FIH6;Q8NAI1;Q8WVB9;Q9UBN5;Q9UG13
+EntryName	T22D3_HUMAN
+ProteinName	TSC22 domain family protein 3 (DSIP-immunoreactive peptide) (Protein DIP) (hDIP) (Delta sleep-inducing peptide immunoreactor) (Glucocorticoid-induced leucine zipper protein) (GILZ) (TSC-22-like protein) (TSC-22-related protein) (TSC-22R)
+GeneName	TSC22D3 DSIPI GILZ
+Length	200
+Function	Protects T-cells from IL2 deprivation-induced apoptosis through the inhibition of FOXO3A transcriptional activity that leads to the down-regulation of the pro-apoptotic factor BCL2L11 (PubMed:15031210). In macrophages, plays a role in the anti-inflammatory and immunosuppressive effects of glucocorticoids and IL10 (PubMed:12393603). In T-cells, inhibits anti-CD3-induced NFKB1 nuclear translocation and thereby NFKB1 DNA-binding activities (PubMed:11468175). In vitro, suppresses AP-1 transcription factor complex DNA-binding activities (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQSKLDCRSPVGLDCCNCCLDLAHRSGLQRGSSGENNNPGSPTVSNFRQLQEKLVFENLNTDKLNSIMRQDSLEPVLRDPCYLINEGICNRNIDQTMLSILLFFHSASGASVVAIDNKIEQAMDLVKNHLMYAVREEVEILKEQIRELVEKNSQLERENTLLKTLASPEQLEKFQSCLSPEEPAPESPQVPEAPGGSAV
+PTM	Methylation:53,62,77,86,108;Phosphorylation:35,102,122;SUMOylation:53,98,108;Ubiquitylation:53,62,86,98

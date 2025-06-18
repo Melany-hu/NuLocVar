@@ -1,0 +1,25 @@
+UniprotID	Q99873-5
+Accession	Q99873;A0A087X1W2;B4E3C3;G5E9B6;H7C2I1;Q15529;Q2VP93;Q6LEU5;Q8WUW5;Q99872;Q99874;Q9NZ04;Q9NZ05;Q9NZ06
+EntryName	ANM1_HUMAN
+ProteinName	Protein arginine N-methyltransferase 1 (EC 2.1.1.319) (Histone-arginine N-methyltransferase PRMT1) (Interferon receptor 1-bound protein 4)
+GeneName	PRMT1 HMT2 HRMT1L2 IR1B4
+Length	285
+Function	Arginine methyltransferase that methylates (mono and asymmetric dimethylation) the guanidino nitrogens of arginyl residues present in proteins such as ESR1, histone H2, H3 and H4, FMR1, ILF3, HNRNPA1, HNRNPD, NFATC2IP, SUPT5H, TAF15, EWS, HABP4, SERBP1, RBM15, FOXO1, CHTOP, MAP3K5/ASK1, MICU1 and NPRL2 (PubMed:10749851, PubMed:15741314, PubMed:16879614, PubMed:18951090, PubMed:22095282, PubMed:25284789, PubMed:26575292, PubMed:26876602, PubMed:27642082, PubMed:30765518, PubMed:31257072, PubMed:38006878). Constitutes the main enzyme that mediates monomethylation and asymmetric dimethylation of histone H4 'Arg-3' (H4R3me1 and H4R3me2a, respectively), a specific tag for epigenetic transcriptional activation. May be involved in the regulation of TAF15 transcriptional activity, act as an activator of estrogen receptor (ER)-mediated transactivation, play a key role in neurite outgrowth and act as a negative regulator of megakaryocytic differentiation, by modulating p38 MAPK pathway. Methylates RBM15, promoting ubiquitination and degradation of RBM15 (PubMed:26575292). Methylates MRE11 and TP53BP1, promoting the DNA damage response (PubMed:15741314, PubMed:16294045, PubMed:29651020). Methylates FOXO1 and retains it in the nucleus increasing its transcriptional activity (PubMed:18951090). Methylates CHTOP and this methylation is critical for its 5-hydroxymethylcytosine (5hmC)-binding activity (PubMed:25284789). Methylates MAP3K5/ASK1 at 'Arg-78' and 'Arg-80' which promotes association of MAP3K5 with thioredoxin and negatively regulates MAP3K5 association with TRAF2, inhibiting MAP3K5 stimulation and MAP3K5-induced activation of JNK (PubMed:22095282). Methylates H4R3 in genes involved in glioblastomagenesis in a CHTOP- and/or TET1-dependent manner (PubMed:25284789). Plays a role in regulating alternative splicing in the heart (By similarity). Methylates NPRL2 at 'Arg-78' leading to inhibition of its GTPase activator activity and then the GATOR1 complex and consequently inducing timely mTORC1 activation under methionine-sufficient conditions (PubMed:38006878).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Cytoplasm; Cytoplasm; Cytosol; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAEAANCIMEVSCGQAESSEKPNAEDMTSKDYYFDSYAHFGIHEEMLKDEVRTLTYRNSMFHNRHLFKDKVVLDVGSGTGILCMFAAKAGARKVIGIECSSISDYAVKIVKANKLDHVVTIIKGKVEEVELPVEKVDIIISEWMGYCLFYESMLNTVLYARDKWLEVDIYTVKVEDLTFTSPFCLQVKRNDYVHALVAYFNIEFTRCHKRTGFSTSPESPYTHWKQTVFYMEDYLTVKTGEEIFGTIGMRPNAKNNRDLDFTIDLDFKGQLCELSCSTDYRMR
+PTM	Acetylation:128,134,145,183,233,243,276;Methylation:68,108,128,143,145,155,183,206,233,243,253,261,326,356;Phosphorylation:79,120,121,123,125,199,299,302,303,304,307,309,310,315,318,363,365,366;SUMOylation:108,143,145,233,243;Ubiquitylation:88,108,113,131,134,143,145,183,209,228,233,243,253,276,313,342

@@ -1,0 +1,25 @@
+UniprotID	P20366-2
+Accession	P20366;O60600;O60601;Q00072;Q53GH4;Q549V0;Q549V1;Q549V2;Q6FHM1
+EntryName	TKN1_HUMAN
+ProteinName	Protachykinin-1 (PPT) [Cleaved into: Substance P; Neurokinin A (NKA) (Neuromedin L) (Substance K); Neuropeptide K (NPK); Neuropeptide gamma; C-terminal-flanking peptide]
+GeneName	TAC1 NKA NKNA TAC2
+Length	111
+Function	Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKILVALAVFFLVSTQLFAEEIGANDDLNYWSDWYDSDQIKEELPEPFEHLLQRIARRPKPQQFFGLMGKRDADSSIEKQVALLKALYGHGQISHKMAYERSAMQNYERRR
+PTM	Methylation:41,79,85;Phosphorylation:37

@@ -1,0 +1,25 @@
+UniprotID	Q9UI08-2
+Accession	Q9UI08;A8K105;B7Z3I5;O95884;Q7Z522;Q8TBV1;Q9UF25;Q9UIC2
+EntryName	EVL_HUMAN
+ProteinName	Ena/VASP-like protein (Ena/vasodilator-stimulated phosphoprotein-like)
+GeneName	EVL RNB6
+Length	418
+Function	Ena/VASP proteins are actin-associated proteins involved in a range of processes dependent on cytoskeleton remodeling and cell polarity such as axon guidance and lamellipodial and filopodial dynamics in migrating cells. EVL enhances actin nucleation and polymerization.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Stress fiber; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSEQSICQARASVMVYDDTSKKWVPIKPGQQGFSRINIYHNTASNTFRVVGVKLQDQQVVINYSIVKGLKYNQATPTFHQWRDARQVYGLNFASKEEATTFSNAMLFALNIMNSQEGGPSSQRQVQNGPSPDEMDIQRRQVMEQHQQQRQESLERRTSATGPILPPGHPSSAASAPVSCSGPPPPPPPPVPPPPTGATPPPPPPLPAGGAQGSSHDESSMSGLAAAIAGAKLRRVQRPEDASGGSSPSGTSKSDANRASSGGGGGGLMEEMNKLLAKRRKAASQSDKPAEKKEDESQMEDPSTSPSPGTRAASQPPNSSEAGRKPWERSNSVEKPVSSILSRTPSVAKSPEAKSPLQSQPHSRMKPAGSVNDMALDAFDLDRMKQEILEEVVRELHKVKEEIIDAIRQELSGISTT
+PTM	Acetylation:70,273,334,348;Methylation:27,53,231,273,277,399;Phosphorylation:16,39,130,152,242,245,246,248,250,251,253,259,260,283,285,302,303,304,306,313,318,329,331,337,338,341,343,345,349,354,358,369

@@ -1,0 +1,25 @@
+UniprotID	C9JM75
+Accession	C9JM75
+EntryName	C9JM75_HUMAN
+ProteinName	RNA pseudouridine synthase D3
+GeneName	RPUSD3
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPVVPEFSRHQRQPRGSCQRSGPLGDQPFAGLLPKNLSREELVDALRAAVVDRKGPLVTLNKPQGLPVTGKPGELTLFSVLPELSQSLGLREQELQVVRASGKESSGLVLLSSCPQTASRLQKYFTHARRAQRPTATYCAVTDGIPAASEGKIQAALKLEHIDGVNLTVPVKAPSRKDILEGVKKTLSHFRVVATGSGCALVQLQPLTGPG
+PTM	

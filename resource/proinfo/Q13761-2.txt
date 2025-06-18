@@ -1,0 +1,25 @@
+UniprotID	Q13761-2
+Accession	Q13761;B1AJV5;Q12969;Q13760
+EntryName	RUNX3_HUMAN
+ProteinName	Runt-related transcription factor 3 (Acute myeloid leukemia 2 protein) (Core-binding factor subunit alpha-3) (CBF-alpha-3) (Oncogene AML-2) (Polyomavirus enhancer-binding protein 2 alpha C subunit) (PEA2-alpha C) (PEBP2-alpha C) (SL3-3 enhancer factor 1 alpha C subunit) (SL3/AKV core-binding factor alpha C subunit)
+GeneName	RUNX3 AML2 CBFA3 PEBP2A3
+Length	429
+Function	Forms the heterodimeric complex core-binding factor (CBF) with CBFB. RUNX members modulate the transcription of their target genes through recognizing the core consensus binding sequence 5'-TGTGGT-3', or very rarely, 5'-TGCGGT-3', within their regulatory regions via their runt domain, while CBFB is a non-DNA-binding regulatory subunit that allosterically enhances the sequence-specific DNA-binding capacity of RUNX. The heterodimers bind to the core site of a number of enhancers and promoters, including murine leukemia virus, polyomavirus enhancer, T-cell receptor enhancers, LCK, IL3 and GM-CSF promoters (By similarity). May be involved in the control of cellular proliferation and/or differentiation. In association with ZFHX3, up-regulates CDKN1A promoter activity following TGF-beta stimulation (PubMed:20599712). CBF complexes repress ZBTB7B transcription factor during cytotoxic (CD8+) T cell development. They bind to RUNX-binding sequence within the ZBTB7B locus acting as transcriptional silencer and allowing for cytotoxic T cell differentiation. CBF complexes binding to the transcriptional silencer is essential for recruitment of nuclear protein complexes that catalyze epigenetic modifications to establish epigenetic ZBTB7B silencing (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASNSIFDSFPTYSPTFIRDPSTSRRFTPPSPAFPCGGGGGKMGENSGALSAQAAVGPGGRARPEVRSMVDVLADHAGELVRTDSPNFLCSVLPSHWRCNKTLPVAFKVVALGDVPDGTVVTVMAGNDENYSAELRNASAVMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPTQVATYHRAIKVTVDGPREPRRHRQKLEDQTKPFPDRFGDLERLRMRVTPSTPSPRGSLSTTSHFSSQPQTPIQGTSELNPFSDPRQFDRSFPTLPTLTESRFPDPRMHYPGAMSAAFPYSATPSGTSISSLSVAGMPATSRFHHTYLPPPYPGAPQNQSGPFQANPSPYHLYYGTSSGSYQFSMVAGSSSGGDRSPTRMLASCTSSAASVAAGNLMNPSLGGQSDGVEADGSHSNSPTALSTPGRMDEAVWRPY
+PTM	Acetylation:28,192;Methylation:216,262,267,302;Phosphorylation:14,17,37,209,211,212,214,218,220,227,231,243,251,259;SUMOylation:28,129,186,192

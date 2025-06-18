@@ -1,0 +1,25 @@
+UniprotID	B7Z591
+Accession	B7Z591
+EntryName	B7Z591_HUMAN
+ProteinName	Calcium load-activated calcium channel (CLAC channel)
+GeneName	TMCO1 hCG_1766418
+Length	176
+Function	Endoplasmic reticulum (ER) calcium-selective channel preventing intracellular Ca2(+) stores from overfilling and maintaining calcium homeostasis in the ER. In response to endoplasmic reticulum (ER) Ca2(+) overloading, assembles into a homotetramer, forming a functional calcium-selective channel facilitating Ca2(+) release. Mediates ER Ca2(+) homeostasis in osteoblasts and plays a key role in bone formation, via the CaMKII-HDAC4-RUNX2 signaling axis. Component of the multi-pass translocon (MPT) complex that mediates insertion of multi-pass membrane proteins into the lipid bilayer of membranes. The MPT complex takes over after the SEC61 complex: following membrane insertion of the first few transmembrane segments of proteins by the SEC61 complex, the MPT complex occludes the lateral gate of the SEC61 complex to promote insertion of subsequent transmembrane regions. Within the MPT complex, the GEL subcomplex may mediate insertion of transmembrane regions into the membrane.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESIAEFSLVSGITWVLVYRTDKYKRLKAEVEKQSKKLEKKKETITESAGRQQKKKIERQEEKLKNNNRDLSMVRMKSMFAIGFCFTALMGMFNSIFDGRVVAKLPFTPLSYIQGLSHRNLLGDDTTDCSFIFLYILCTMSIRQNIQKILGLAPSRAATKQAGGFLGPPPPSGKFS
+PTM	

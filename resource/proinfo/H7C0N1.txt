@@ -1,0 +1,25 @@
+UniprotID	H7C0N1
+Accession	H7C0N1
+EntryName	H7C0N1_HUMAN
+ProteinName	D-2-hydroxyglutarate dehydrogenase, mitochondrial (EC 1.1.99.39)
+GeneName	D2HGDH
+Length	189
+Function	Catalyzes the oxidation of D-2-hydroxyglutarate (D-2-HG) to alpha-ketoglutarate. Also catalyzes the oxidation of other D-2-hydroxyacids, such as D-malate (D-MAL) and D-lactate (D-LAC). Exhibits high activities towards D-2-HG and D-MAL but a very weak activity towards D-LAC.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSVFCSDPTPTAVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARLGPHAKHVVGYGHL
+PTM	

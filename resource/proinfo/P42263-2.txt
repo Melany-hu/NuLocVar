@@ -1,0 +1,25 @@
+UniprotID	P42263-2
+Accession	P42263;D3DTF1;Q4VXD5;Q4VXD6;Q9HDA0;Q9HDA1;Q9HDA2;Q9P0H1
+EntryName	GRIA3_HUMAN
+ProteinName	Glutamate receptor 3 (GluR-3) (AMPA-selective glutamate receptor 3) (GluR-C) (GluR-K3) (Glutamate receptor ionotropic, AMPA 3)
+GeneName	GRIA3 GluA3 GLUR3 GLURC
+Length	894
+Function	Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid (By similarity). L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission by inducing long-term potentiation (By similarity). Binding of the excitatory neurotransmitter L-glutamate induces a conformation change, leading to the opening of the cation channel, and thereby converts the chemical signal to an electrical impulse upon entry of calcium (PubMed:17989220). The receptor then desensitizes rapidly and enters a transient inactive state, characterized by the presence of bound agonist (PubMed:17989220). In the presence of CACNG8, shows resensitization which is characterized by a delayed accumulation of current flux upon continued application of glutamate (PubMed:21172611).
+Subcellular Location	Cell membrane; Postsynaptic cell membrane; Postsynaptic density membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARQKKMGQSVLRAVFFLVLGLLGHSHGGFPNTISIGGLFMRNTVQEHSAFRFAVQLYNTNQNTTEKPFHLNYHVDHLDSSNSFSVTNAFCSQFSRGVYAIFGFYDQMSMNTLTSFCGALHTSFVTPSFPTDADVQFVIQMRPALKGAILSLLGHYKWEKFVYLYDTERGFSILQAIMEAAVQNNWQVTARSVGNIKDVQEFRRIIEEMDRRQEKRYLIDCEVERINTILEQVVILGKHSRGYHYMLANLGFTDILLERVMHGGANITGFQIVNNENPMVQQFIQRWVRLDEREFPEAKNAPLKYTSALTHDAILVIAEAFRYLRRQRVDVSRRGSAGDCLANPAVPWSQGIDIERALKMVQVQGMTGNIQFDTYGRRTNYTIDVYEMKVSGSRKAGYWNEYERFVPFSDQQISNDSASSENRTIVVTTILESPYVMYKKNHEQLEGNERYEGYCVDLAYEIAKHVRIKYKLSIVGDGKYGARDPETKIWNGMVGELVYGRADIAVAPLTITLVREEVIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWMCIVFAYIGVSVVLFLVSRFSPYEWHLEDNNEEPRDPQSPPDPPNEFGIFNSLWFSLGAFMQQGCDISPRSLSGRIVGGVWWFFTLIIISSYTANLAAFLTVERMVSPIESAEDLAKQTEIAYGTLDSGSTKEFFRRSKIAVYEKMWSYMKSAEPSVFTKTTADGVARVRKSKGKFAFLLESTMNEYIEQRKPCDTMKVGGNLDSKGYGVATPKGSALRTPVNLAVLKLSEQGILDKLKNKWWYDKGECGAKDSGSKDKTSALSLSNVAGVFYILVGGLGLAMMVALIEFCYKSRAESKRMKLTKNTQNFKPAPATNTQNYATYREGYNVYGTESVKI
+PTM	Methylation:238,464,523,535,673,784,793;Phosphorylation:65,567;Ubiquitylation:197,861,867

@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZHH6
+Accession	A0A5F9ZHH6
+EntryName	A0A5F9ZHH6_HUMAN
+ProteinName	Retinoic acid receptor RXR (Nuclear receptor subfamily 2 group B member)
+GeneName	RXRA
+Length	435
+Function	Receptor for retinoic acid that acts as a transcription factor. Forms homo- or heterodimers with retinoic acid receptors (rars) and binds to target response elements in response to their ligands, all-trans or 9-cis retinoic acid, to regulate gene expression in various biological processes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	153...157
+validnes_region	
+nesbase_region	
+Sequence	MAAPSLHPSLGPGIGSPGQLHSPISTLSSPINGMGPPFSVISSPMGPHSMSVPTTPTLGFSTGSPQLSSPMNPVSSSEDIKPPLGLNGVLKVPAHPSGNMASFTKHICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLIDKRQRNRCQYCRYQKCLAMGMKREAVQEERQRGKDRNENEVESTSSANEDMPVERILEAELAVEPKTETYVEANMGLNPSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVILLRAGWNELLIASFSHRSIAVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDMQMDKTELGCLRAIVLFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLLRLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT
+PTM	

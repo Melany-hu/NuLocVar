@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JQ42
+Accession	A0A0G2JQ42
+EntryName	A0A0G2JQ42_HUMAN
+ProteinName	Proline rich protein BstNI subfamily 1
+GeneName	PRB1
+Length	199
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLILLSVALLALSSAQNLNEDVSQEESPSLIAGNPQGAPPQGGNKPQGPPSPPGKPQGPPPQGGNQPQGPPPPPGKPQGPPPQGGNKPQGPPPPGKPQGPPPQGDKSRSPRSPPGKPQGPPPQGGKPQGPPPQGGSKSRSARSPPGKPQGPPQQEGNNPQGPPPPAGGNPQQPQAPPAGQPQGPPRPPQGGRPSRPPQ
+PTM	

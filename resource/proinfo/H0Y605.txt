@@ -1,0 +1,25 @@
+UniprotID	H0Y605
+Accession	H0Y605
+EntryName	H0Y605_HUMAN
+ProteinName	Forkhead associated phosphopeptide binding domain 1
+GeneName	FHAD1
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKAYLKSAEGFFVLNKSTTIGRHENSDLVLQVSFPWMRGPAPWPGPQPPRATQQPNQAPPPSHIPFHQGVQPAPMQRSWSQAFPRPTVVLPASHRRPVSANKEMFSFVVDDARKPPVIKQVWTNAMKLSEKSVAEGIPGAVPPAEI
+PTM	

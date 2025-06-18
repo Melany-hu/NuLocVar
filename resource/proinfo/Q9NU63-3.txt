@@ -1,0 +1,25 @@
+UniprotID	Q9NU63-3
+Accession	Q9NU63;B0S894;B0V254;B2RXJ7;Q5SSB1
+EntryName	ZFP57_HUMAN
+ProteinName	Zinc finger protein 57 homolog (Zfp-57) (Zinc finger protein 698)
+GeneName	ZFP57 C6orf40 ZNF698
+Length	536
+Function	Transcription regulator required to maintain maternal and paternal gene imprinting, a process by which gene expression is restricted in a parent of origin-specific manner by epigenetic modification of genomic DNA and chromatin, including DNA methylation. Acts by controlling DNA methylation during the earliest multicellular stages of development at multiple imprinting control regions (ICRs) (PubMed:18622393, PubMed:30602440). Acts together with ZNF445, but ZNF445 seems to be the major factor in human early embryonic imprinting maintenance. In contrast, in mice, ZFP57 plays the predominant role in imprinting maintenance (PubMed:30602440). Required for the establishment of maternal methylation imprints at SNRPN locus. Acts as a transcriptional repressor in Schwann cells. Binds to a 5'-TGCCGC-3' consensus sequence and recognizes the methylated CpG within this element (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFEQLKPIEPVQKTLPWVGEVAATLQEAMKRDCWREARVKKKPVTFEDVAVNFTQEEWDCLDASQRVLYQDVMSETFKNLTSVARIFLHKPELITKLEQEEEQWREFVHLPNTEGLSEGKKKELREQHPSLRDEGTSDDKVFLACRGAGQCPLSAPAGTMDRTRVLQASQAGPPFFCYTCGKCFSRRSYLYSHQFVHNPKLTNSCSQCGKLFRSPKSLSYHRRMHLGERPFCCTLCDKTYCDASGLSRHRRVHLGYRPHSCSVCGKSFRDQSELKRHQKIHQNQEPVDGNQECTLRIPGTQAEFQTPIARSQRSIQGLLDVNHAPVARSQEPIFRTEGPMAQNQASVLKNQAPVTRTQAPITGTLCQDARSNSHPVKPSRLNVFCCPHCSLTFSKKSYLSRHQKAHLTEPPNYCFHCSKSFSSFSRLVRHQQTHWKQKSYLCPICDLSFGEKEGLMDHWRGYKGKDLCQSSHHKCRVILGQWLGFSHDVPTMAGEEWKHGGDQSPPRIHTPRRRGLREKACKGDKTKEAVSILKHK
+PTM	Methylation:68,182,414;Phosphorylation:178,183,188,262

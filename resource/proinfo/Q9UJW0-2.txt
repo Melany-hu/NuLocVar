@@ -1,0 +1,25 @@
+UniprotID	Q9UJW0-2
+Accession	Q9UJW0;B3KWW0;D3DQH0;E5RGT5;Q8TAN8
+EntryName	DCTN4_HUMAN
+ProteinName	Dynactin subunit 4 (Dyn4) (Dynactin subunit p62)
+GeneName	DCTN4
+Length	403
+Function	Part of the dynactin complex that activates the molecular motor dynein for ultra-processive transport along microtubules.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Stress fiber; Cytoplasm; Cell cortex; Cytoplasm; Myofibril; Sarcomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSAEAKLKKNRCANCFDCPGCMHTLSTRATSISTQLPDDPAKTTMKKAYYLACGFCRWTSRDVGMADKSVASGGWQEPENPHTQRMNKLIEYYQQLAQKEKVERDRKKLARRRNYMPLAFSDKYGLGTRLQRPRAGASISTLAGLSLKEGEDQKEIKIEPAQAVDEVEPLPEDYYTRPVNLTEVTTLQQRLLQPDFQPVCASQLYPRHKHLLIKRSLRCRKCEHNLSKPEFNPTSIKFKIQLVAVNYIPEVRIMSIPNLRYMKESQVLLTLTNPVENLTHVTLFECEEGDPDDINSTAKVVVPPKELVLAGKDAAAEYDELAEPQDFQDDPDIIAFRKANKVGIFIKVTPQREEGEVTVCFKMKHDFKNLAAPIRPIEESDQGTEVIWLTQHVELSLGPLLP
+PTM	Methylation:272;Phosphorylation:60,84,107,108,150,151,173,196,198,199,204,376;SUMOylation:18,19,64,100,105,126,146,157,181,206,212,215,267,279,286,295,363,370,399;Ubiquitylation:18,19,100,126,146,157,181,212,272,363,370,399

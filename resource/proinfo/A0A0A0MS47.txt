@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MS47
+Accession	A0A0A0MS47
+EntryName	A0A0A0MS47_HUMAN
+ProteinName	Opalin (Oligodendrocytic myelin paranodal and inner loop protein) (Transmembrane protein 10)
+GeneName	OPALIN
+Length	129
+Function	Central nervous system-specific myelin protein that increase myelin genes expression during oligodendrocyte differentiation. Promotes oligodendrocyte terminal differentiation.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSSPVTGGKETDCGPSLGLAAGIPLLVATALLVALLFTLIHRRRSSIEAMEESDRPCEISEIDDNPKISENPRRSPTHEKNTMGAQEAHIYVKTVAGSEEPVHDRYRPTIEMERRRGLWWLVPRLSLE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8IWQ3-3
+Accession	Q8IWQ3;B3KVE9;E9PLM7;O60843;O95099;Q5J5B4;Q6ZMQ4;Q8TB60
+EntryName	BRSK2_HUMAN
+ProteinName	Serine/threonine-protein kinase BRSK2 (EC 2.7.11.1) (Brain-selective kinase 2) (EC 2.7.11.26) (Brain-specific serine/threonine-protein kinase 2) (BR serine/threonine-protein kinase 2) (Serine/threonine-protein kinase 29) (Serine/threonine-protein kinase SAD-A)
+GeneName	BRSK2 C11orf7 PEN11B SADA STK29 HUSSY-12
+Length	668
+Function	Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 activity in polarized neurons. Plays a role in the regulation of the mitotic cell cycle progress and the onset of mitosis. Plays a role in the regulation of insulin secretion in response to elevated glucose levels, probably via phosphorylation of CDK16 and PAK1. While BRSK2 phosphorylated at Thr-174 can inhibit insulin secretion (PubMed:22798068), BRSK2 phosphorylated at Thr-260 can promote insulin secretion (PubMed:22669945). Regulates reorganization of the actin cytoskeleton. May play a role in the apoptotic response triggered by endoplasmic reticulum (ER) stress.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Perinuclear region; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	373...377
+validnes_region	
+nesbase_region	
+Sequence	MTSTGKDGGAQHAQYVGPYRLEKTLGKGQTGLVKLGVHCVTCQKVAIKIVNREKLSESVLMKVEREIAILKLIEHPHVLKLHDVYENKKYLYLVLEHVSGGELFDYLVKKGRLTPKEARKFFRQIISALDFCHSHSICHRDLKPENLLLDEKNNIRIADFGMASLQVGDSLLETSCGSPHYACPEVIRGEKYDGRKADVWSCGVILFALLVGALPFDDDNLRQLLEKVKRGVFHMPHFIPPDCQSLLRGMIEVDAARRLTLEHIQKHIWYIGGKNEPEPEQPIPRKVQIRSLPSLEDIDPDVLDSMHSLGCFRDRNKLLQDLLSEEENQEKMIYFLLLDRKERYPSQEDEDLPPRNEIDPPRKRVDSPMLNRHGKRRPERKSMEVLSVTDGGSPVPARRAIEMAQHGQRSRSISGASSGLSTSPLSSPRVTPHPSPRGSPLPTPKGTPVHTPKESPAGTPNPTPPSSPSVGGVPWRARLNSIKNSFLGSPRFHRRKLQVPTPEEMSNLTPESSPELAKKSWFGNFISLEKEEQIFVVIKDKPLSSIKADIVHAFLSIPSLSHSVISQTSFRAEYKATGGPAVFQKPVKFQVDITYTEGGEAQKENGIYSVTFTLLSGPSRRFKRVVETIQAQLLSTHDPPAAQHLSDTTNCMEMMTGRLSKCGIIPKS
+PTM	Methylation:34,71,116,227,274,409,411,437,483,518,530,539,585,674;Phosphorylation:58,245,294,367,382,389,393,412,414,418,421,422,423,426,427,431,435,439,443,447,451,455,459,463,466,467,469,481,489,506,509,512,513,520,664;SUMOylation:23,27;Ubiquitylation:27,54,71,152,585

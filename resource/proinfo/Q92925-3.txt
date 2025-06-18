@@ -1,0 +1,25 @@
+UniprotID	Q92925-3
+Accession	Q92925;A5PLL5;A6NNQ7;B4DV56;B4E1R6;Q7L2I6;Q9UHZ1
+EntryName	SMRD2_HUMAN
+ProteinName	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2 (60 kDa BRG-1/Brm-associated factor subunit B) (BRG1-associated factor 60B) (BAF60B)
+GeneName	SMARCD2 BAF60B PRO2451
+Length	483
+Function	Involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology). Component of SWI/SNF chromatin remodeling complexes that carry out key enzymatic activities, changing chromatin structure by altering DNA-histone contacts within a nucleosome in an ATP-dependent manner (PubMed:22952240, PubMed:26601204). Critical regulator of myeloid differentiation, controlling granulocytopoiesis and the expression of genes involved in neutrophil granule formation (PubMed:28369036).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRRVGVEVTPRWAPQKCQGARPQRPGMSPGNRMPMAGLQVGPPAGSPFGAAAPLRPGMPPTMMDPFRKRLLVPQAQPPMPAQRRGLKRRKMADKVLPQRIRELVPESQAYMDLLAFERKLDQTIARKRMEIQEAIKKPLTQKRKLRIYISNTFSPSKAEGDSAGTAGTPGGTPAGDKVASWELRVEGKLLDDPSKQKRKFSSFFKSLVIELDKELYGPDNHLVEWHRMPTTQETDGFQVKRPGDLNVKCTLLLMLDHQPPQYKLDPRLARLLGVHTQTRAAIMQALWLYIKHNQLQDGHEREYINCNRYFRQIFSCGRLRFSEIPMKLAGLLQHPDPIVINHVISVDPNDQKKTACYDIDVEVDDPLKAQMSNFLASTTNQQEIASLDVKIHETIESINQLKTQRDFMLSFSTDPQDFIQEWLRSQRRDLKIITDVIGNPEEERRAAFYHQPWAQEAVGRHIFAKVQQRRQELEQVLGIRLT
+PTM	Acetylation:143,185,237,244,248,289,376,401,514;Methylation:4,118,185,191,244,262,297,340,439,451,529;Phosphorylation:15,197,199,201,203,205,211,214,217,221,229,338,352,498,531;SUMOylation:143,168,176,206,226,237,244,289,297,376,401,402,439,451,480,514;Ubiquitylation:186,206,226,237,244,248,262,289,297,312,401,439,451,480,514

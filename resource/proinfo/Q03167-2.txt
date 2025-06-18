@@ -1,0 +1,25 @@
+UniprotID	Q03167-2
+Accession	Q03167;A0AUW8;A8K5N0;B9EG88;Q5T2T4;Q5U731;Q9UGI2
+EntryName	TGBR3_HUMAN
+ProteinName	Transforming growth factor beta receptor type 3 (TGF-beta receptor type 3) (TGFR-3) (Betaglycan) (Transforming growth factor beta receptor III) (TGF-beta receptor type III)
+GeneName	TGFBR3
+Length	850
+Function	Cell surface receptor that regulates diverse cellular processes including cell proliferation, differentiation, migration, and apoptosis (PubMed:12958365, PubMed:19416857). Initiates BMP, inhibin, and TGF-beta signaling pathways by interacting with different ligands including TGFB1, BMP2, BMP5, BMP7 or GDF5 (PubMed:18184661). Alternatively, acts as a cell surface coreceptor for BMP ligands, serving to enhance ligand binding by differentially regulating BMPR1A/ALK3 and BMPR1B/ALK6 receptor trafficking (PubMed:19726563). Promotes epithelial cell adhesion, focal adhesion formation and integrin signaling during epithelial cell spreading on fibronectin (PubMed:22562249). By interacting with the scaffolding protein beta-arrestin2/ARRB2, regulates migration or actin cytoskeleton and promotes the activation of CDC42 as well as the inhibition of NF-kappa-B (PubMed:19416857, PubMed:19325136). In gonadotrope cells, acts as an inhibin A coreceptor and regulates follicle-stimulating hormone (FSH) levels and female fertility (By similarity). Plays a role in the inhibition of directed and random cell migration in epithelial cells by altering the actin cytoskeletal organization (PubMed:19416857). Participates in epithelial-mesenchymal transformation (EMT) upon binding to BMP2 or TGFB2, by activating the PAR6/SMURF1/RHOA pathway (By similarity).
+Subcellular Location	Cell membrane; Secreted; Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSHYVIAIFALMSSCLATAGPEPGALCELSPVSASHPVQALMESFTVLSGCASRGTTGLPQEVHVLNLRTAGQGPGQLQREVTLHLNPISSVHIHHKSVVFLLNSPHPLVWHLKTERLATGVSRLFLVSEGSVVQFSSANFSLTAETEERNFPHGNEHLLNWARKEYGAVTSFTELKIARNIYIKVGEDQVFPPKCNIGKNFLSLNYLAEYLQPKAAEGCVMSSQPQNEEVHIIELITPNSNPYSAFQVDITIDIRPSQEDLEVVKNLILILKCKKSVNWVIKSFDVKGSLKIIAPNSIGFGKESERSMTMTKSIRDDIPSTQGNLVKWALDNGYSPITSYTMAPVANRFHLRLENNEEMGDEEVHTIPPELRILLDPGALPALQNPPIRGGEGQNGGLPFPFPDISRRVWNEEGEDGLPRPKDPVIPSIQLFPGLREPEEVQGSVDIALSVKCDNEKMIVAVEKDSFQASGYSGMDVTLLDPTCKAKMNGTHFVLESPLNGCGTRPRWSALDGVVYYNSIVIQVPALGDSSGWPDGYEDLESGDNGFPGDMDEGDASLFTRPEIVVFNCSLQQVRNPSSFQEQPHGNITFNMELYNTDLFLVPSQGVFSVPENGHVYVEVSVTKAEQELGFAIQTCFISPYSNPDRMSHYTIIENICPKDESVKFYSPKRVHFPIPQADMDKKRFSFVFKPVFNTSLLFLQCELTLCTKMEKHPQKLPKCVPPDEACTSLDASIIWAMMQNKKTFTKPLAVIHHEAESKEKGPSMKEPNPISPPIFHGLDTLTVMGIAFAAFVIGALLTGALWYIYSHTGETAGRQQVPTSPPASENSSAAHSIGSTQSTPCSSSSTA
+PTM	Glycosylation:492,590;Methylation:186,267,274,329;Phosphorylation:84,92,124,651,653

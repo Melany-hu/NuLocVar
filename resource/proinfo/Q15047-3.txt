@@ -1,0 +1,25 @@
+UniprotID	Q15047-3
+Accession	Q15047;A6NEW2;Q5SZD8;Q5SZD9;Q5SZE0;Q5SZE7;Q96GM9
+EntryName	SETB1_HUMAN
+ProteinName	Histone-lysine N-methyltransferase SETDB1 (EC 2.1.1.366) (ERG-associated protein with SET domain) (ESET) (Histone H3-K9 methyltransferase 4) (H3-K9-HMTase 4) (Lysine N-methyltransferase 1E) (SET domain bifurcated 1)
+GeneName	SETDB1 ESET KIAA0067 KMT1E
+Length	1290
+Function	Histone methyltransferase that specifically trimethylates 'Lys-9' of histone H3. H3 'Lys-9' trimethylation represents a specific tag for epigenetic transcriptional repression by recruiting HP1 (CBX1, CBX3 and/or CBX5) proteins to methylated histones. Mainly functions in euchromatin regions, thereby playing a central role in the silencing of euchromatic genes. H3 'Lys-9' trimethylation is coordinated with DNA methylation (PubMed:12869583, PubMed:27237050, PubMed:39096901). Required for HUSH-mediated heterochromatin formation and gene silencing. Forms a complex with MBD1 and ATF7IP that represses transcription and couples DNA methylation and histone 'Lys-9' trimethylation (PubMed:14536086, PubMed:27732843). Its activity is dependent on MBD1 and is heritably maintained through DNA replication by being recruited by CAF-1 (PubMed:14536086). SETDB1 is targeted to histone H3 by TRIM28/TIF1B, a factor recruited by KRAB zinc-finger proteins. Probably forms a corepressor complex required for activated KRAS-mediated promoter hypermethylation and transcriptional silencing of tumor suppressor genes (TSGs) or other tumor-related genes in colorectal cancer (CRC) cells (PubMed:24623306). Required to maintain a transcriptionally repressive state of genes in undifferentiated embryonic stem cells (ESCs) (PubMed:24623306). In ESCs, in collaboration with TRIM28, is also required for H3K9me3 and silencing of endogenous and introduced retroviruses in a DNA-methylation independent-pathway (By similarity). Associates at promoter regions of tumor suppressor genes (TSGs) leading to their gene silencing (PubMed:24623306). The SETDB1-TRIM28-ZNF274 complex may play a role in recruiting ATRX to the 3'-exons of zinc-finger coding genes with atypical chromatin signatures to establish or maintain/protect H3K9me3 at these transcriptionally active regions (PubMed:27029610).
+Subcellular Location	Nucleus; Cytoplasm; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSLPGCIGLDAATATVESEEIAELQQAVVEELGISMEELRHFIDEELEKMDCVQQRKKQLAELETWVIQKESEVAHVDQLFDDASRAVTNCESLVKDFYSKLGLQYRDSSSEDESSRPTEIIEIPDEDDDVLSIDSGDAGSRTPKDQKLREAMAALRKSAQDVQKFMDAVNKKSSSQDLHKGTLSQMSGELSKDGDLIVSMRILGKKRTKTWHKGTLIAIQTVGPGKKYKVKFDNKGKSLLSGNHIAYDYHPPADKLYVGSRVVAKYKDGNQVWLYAGIVAETPNVKNKLRFLIFFDDGYASYVTQSELYPICRPLKKTWEDIEDISCRDFIEEYVTAYPNRPMVLLKSGQLIKTEWEGTWWKSRVEEVDGSLVRILFLDDKRCEWIYRGSTRLEPMFSMKTSSASALEKKQGQLRTRPNMGAVRSKGPVVQYTQDLTGTGTQFKPVEPPQPTAPPAPPFPPAPPLSPQAGDSDLESQLAQSRKQVAKKSTSFRPGSVGSGHSSPTSPALSENVSGGKPGINQTYRSPLGSTASAPAPSALPAPPAPPVFHGMLERAPAEPSYRAPMEKLFYLPHVCSYTCLSRVRPMRNEQYRGKNPLLVPLLYDFRRMTARRRVNRKMGFHVIYKTPCGLCLRTMQEIERYLFETGCDFLFLEMFCLDPYVLVDRKFQPYKPFYYILDITYGKEDVPLSCVNEIDTTPPPQVAYSKERIPGKGVFINTGPEFLVGCDCKDGCRDKSKCACHQLTIQATACTPGGQINPNSGYQYKRLEECLPTGVYECNKRCKCDPNMCTNRLVQHGLQVRLQLFKTQNKGWGIRCLDDIAKGSFVCIYAGKILTDDFADKEGLEMGDEYFANLDHIESVENFKEGYESDAPCSSDSSGVDLKDQEDGNSGTEDPEESNDDSSDDNFCKDEDFSTSSVWRSYATRRQTRGQKENGLSETTSKDSHPPDLGPPHIPVPPSIPVGGCNPPSSEETPKNKVASWLSCNSVSEGGFADSDSHSSFKTNEGGEGRAGGSRMEAEKASTSGLGIKDEGDIKQAKKEDTDDRNKMSVVTESSRNYGYNPSPVKPEGLRRPPSKTSMHQSRRLMASAQSNPDDVLTLSSSTESEGESGTSRKPTAGQTSATAVDSDDIQTISSGSEGDDFEDKKNMTGPMKRQVAVKSTRGFALKSTHGIAIKSTNMASVDKGESAPVRKNTRQFYDGEESCYIIDAKLEGNLGRYLNHSCSPNLFVQNVFVDTHDLRFPWVAFFASKIRAGTELTWDYNYEVGSVEGKELLCCCGAIECRGRLL
+PTM	Acetylation:1032;Methylation:50,173,207,349,355,383,411,490,495,825,886,1032,1148,1170,1178,1213;Phosphorylation:134,137,177,468,491,492,493,498,501,504,505,508,528,673,677,917,920,976,1017,1025,1026,1027,1061,1063,1066,1080,1085,1115,1119,1124,1130,1135,1137,1138,1140,1184,1197;SUMOylation:166,173,174,182,228,239,349,355,383,402,570,620,674,715,978,980,1005,1023,1032,1038,1050,1069,1079,1149;Ubiquitylation:207,288,349,355,383,597,715,732,809,813,825,1069,1178

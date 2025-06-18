@@ -1,0 +1,25 @@
+UniprotID	Q9BV79-2
+Accession	Q9BV79;B3KT72;Q5SYU0;Q5SYU1;Q5SYU2;Q6IBU9;Q9Y373
+EntryName	MECR_HUMAN
+ProteinName	Enoyl-[acyl-carrier-protein] reductase, mitochondrial (EC 1.3.1.104) (2-enoyl thioester reductase) (Nuclear receptor-binding factor 1) (HsNrbf-1) (NRBF-1)
+GeneName	MECR NBRF1 CGI-63
+Length	297
+Function	Catalyzes the NADPH-dependent reduction of trans-2-enoyl thioesters in mitochondrial fatty acid synthesis (fatty acid synthesis type II). Fatty acid chain elongation in mitochondria uses acyl carrier protein (ACP) as an acyl group carrier, but the enzyme accepts both ACP and CoA thioesters as substrates in vitro. Displays a preference for medium-chain over short- and long-chain substrates (PubMed:12654921, PubMed:18479707, PubMed:27817865). May provide the octanoyl chain used for lipoic acid biosynthesis, regulating protein lipoylation and mitochondrial respiratory activity particularly in Purkinje cells (By similarity). Involved in iron homeostasis; affecting Fe-S cluster assembly and ceramide metabolism (PubMed:37653044). Required for proper morphology and bioenergetic functions of mitochondria (PubMed:37653044). Required for maintenance of neurons (By similarity).
+Subcellular Location	Mitochondrion; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAAPINPSDINMIQGNYGFLPELPAVGGNEGVAQVVAVGSNVTGLKPGDWVIPANAGLGTWRTEAVFSEEALIQVPSDIPLQSAATLGVNPCTAYRMLMDFEQLQPGDSVIQNASNSGVGQAVIQIAAALGLRTINVVRDRPDIQKLSDRLKSLGAEHVITEEELRRPEMKNFFKDMPQPRLALNCVGGKSSTELLRQLARGGTMVTYGGMAKQPVVASVSLLIFKDLKLRGFWLSQWKKDHSPDQFKELILTLCDLIRRGQLTAPACSQVPLQDYQSALEASMKPFISSKQILTM
+PTM	Acetylation:61,223,248,267;Methylation:61,223,303;Phosphorylation:320,330

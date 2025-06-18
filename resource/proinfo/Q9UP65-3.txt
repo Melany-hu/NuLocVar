@@ -1,0 +1,25 @@
+UniprotID	Q9UP65-3
+Accession	Q9UP65;B2RB71;B4DI40;O75457;Q6IBI8;Q9UG68
+EntryName	PA24C_HUMAN
+ProteinName	Cytosolic phospholipase A2 gamma (cPLA2-gamma) (EC 3.1.1.4) (Cytosolic lysophospholipase) (EC 3.1.1.5) (Cytosolic lysophospholipid O-acyltransferase) (EC 2.3.1.-) (Phospholipase A2 group IVC)
+GeneName	PLA2G4C
+Length	551
+Function	Calcium-independent phospholipase, lysophospholipase and O-acyltransferase involved in phospholipid remodeling with implications in endoplasmic reticulum membrane homeostasis and lipid droplet biogenesis (PubMed:10085124, PubMed:10358058, PubMed:19501189, PubMed:28336330, PubMed:9705332). Preferentially hydrolyzes the ester bond of the fatty acyl group attached at the sn-2 position of phospholipids with choline and ethanolamine head groups, producing lysophospholipids that are used in deacylation-reacylation cycles (PubMed:10085124, PubMed:10358058, PubMed:19501189, PubMed:28336330, PubMed:9705332). Transfers the sn-1 fatty acyl from one lysophospholipid molecule to the sn-2 position of another lysophospholipid to form diacyl, alkylacyl and alkenylacyl glycerophospholipids. Cleaves ester bonds but not alkyl or alkenyl ether bonds at sn-1 position of lysophospholipids (PubMed:15944408, PubMed:19501189). Catalyzes sn-2 fatty acyl transfer from phospholipids to the sn-2 position of 1-O-alkyl or 1-O-alkenyl lysophospholipids with lower efficiency (PubMed:15944408, PubMed:19501189). In response to dietary fatty acids, may play a role in the formation of nascent lipid droplets from the endoplasmic reticulum likely by regulating the phospholipid composition of these organelles (PubMed:28336330).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Mitochondrion membrane; Lipid droplet
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTRPRPRLRRTENFLTAVHHGKKEEKAAVERRRLHVLKALKKLRIEADEAPVVAVLGSGGGLRAHIACLGVLSEMKEQGLLDAVTYLAGVSGSTWAISSLYTNDGDMEALEADLKHRFTRQEWDLAKSLQKTIQAARSENYSLTDFWAYMVISKQTRELPESHLSNMKKPVEEGTLPYPIFAAIDNDLQPSWQEARAPETWFEFTPHHAGFSALGAFVSITHFGSKFKKGRLVRTHPERDLTFLRGLWGSALGNTEVIREYIFDQLRNLTLKGLWRRAVANAKSIGHLIFARLLRLQESSQGEHPPPEDEGGEPEHTWLTEMLENWTRTSLEKQEQPHEDPERKGSLSNLMDFVKKTGICASKWEWGTTHNFLYKHGGIRDKIMSSRKHLHLVDAGLAINTPFPLVLPPTREVHLILSFDFSAGDPFETIRATTDYCRRHKIPFPQVEEAELDLWSKAPASCYILKGETGPVVMHFPLFNIDACGGDIEAWSDTYDTFKLADTYTLDVVVLLLALAKKNVRENKKKILRELMNVAGLYYPKDSARSCCLA
+PTM	Acetylation:274;Methylation:118,263,274,324,448,457;Phosphorylation:337,339

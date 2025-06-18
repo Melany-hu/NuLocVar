@@ -1,0 +1,25 @@
+UniprotID	K7EMW1
+Accession	K7EMW1
+EntryName	K7EMW1_HUMAN
+ProteinName	Katanin catalytic subunit A1 like 2
+GeneName	KATNAL2
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTEARRKNLLILISHYLTQEGYIDTANALEQETKLGLRRFEVCDNIDLETILMEYESYYFVKFQKYPKIVKKSSDTENNLPQRSRGKTRRMMNDSCQNLPKINQQRPRSKTTAGKTGDTKSLNKEHPNQEVVDNTRLESANFGLHISRIRKDSGEENAHPRRGQIIDFQGLLTDAIKGATSELALNTFDHNPDPSERLLKPLSAFIGMNSEMRELAAVVSR
+PTM	

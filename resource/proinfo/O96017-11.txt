@@ -1,0 +1,25 @@
+UniprotID	O96017-11
+Accession	O96017;A8K3Y9;B7ZBF3;B7ZBF4;B7ZBF5;Q6QA03;Q6QA04;Q6QA05;Q6QA06;Q6QA07;Q6QA08;Q6QA10;Q6QA11;Q6QA12;Q6QA13;Q9HBS5;Q9HCQ8;Q9UGF0;Q9UGF1
+EntryName	CHK2_HUMAN
+ProteinName	Serine/threonine-protein kinase Chk2 (EC 2.7.11.1) (CHK2 checkpoint homolog) (Cds1 homolog) (Hucds1) (hCds1) (Checkpoint kinase 2)
+GeneName	CHEK2 CDS1 CHK2 RAD53
+Length	225
+Function	Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest, activation of DNA repair and apoptosis in response to the presence of DNA double-strand breaks. May also negatively regulate cell cycle progression during unperturbed cell cycles. Following activation, phosphorylates numerous effectors preferentially at the consensus sequence  (PubMed:37943659). Regulates cell cycle checkpoint arrest through phosphorylation of CDC25A, CDC25B and CDC25C, inhibiting their activity. Inhibition of CDC25 phosphatase activity leads to increased inhibitory tyrosine phosphorylation of CDK-cyclin complexes and blocks cell cycle progression. May also phosphorylate NEK6 which is involved in G2/M cell cycle arrest. Regulates DNA repair through phosphorylation of BRCA2, enhancing the association of RAD51 with chromatin which promotes DNA repair by homologous recombination. Also stimulates the transcription of genes involved in DNA repair (including BRCA2) through the phosphorylation and activation of the transcription factor FOXM1. Regulates apoptosis through the phosphorylation of p53/TP53, MDM4 and PML. Phosphorylation of p53/TP53 at 'Ser-20' by CHEK2 may alleviate inhibition by MDM2, leading to accumulation of active p53/TP53. Phosphorylation of MDM4 may also reduce degradation of p53/TP53. Also controls the transcription of pro-apoptotic genes through phosphorylation of the transcription factor E2F1. Tumor suppressor, it may also have a DNA damage-independent function in mitotic spindle assembly by phosphorylating BRCA1. Its absence may be a cause of the chromosomal instability observed in some cancer cells. Promotes the CCAR2-SIRT1 association and is required for CCAR2-mediated SIRT1 inhibition (PubMed:25361978). Under oxidative stress, promotes ATG7 ubiquitination by phosphorylating the E3 ubiquitin ligase TRIM32 at 'Ser-55' leading to positive regulation of the autophagosme assembly (PubMed:37943659).
+Subcellular Location	Nucleus; Nucleus; Nucleus; Nucleus; Nucleus; Nucleus; PML body; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	201...206
+validnes_region	
+nesbase_region	
+Sequence	MSRESDVEAQQSHGSSACSQPHGSVTQSQGSSSQSQGISSSSTSTMPNSSQSSHSSSGTLSSLETVSTQELYSIPEVLVSVGTAGYNRAVDCWSLGVILFICLSGYPPFSEHRTQVSLKDQITSGKYNFIPEVWAEVSEKALDLVKKLLVVDPKARFTTEEALRHPWLQDEDMKRKFQDLLSEENESTALPQVLAQPSTSRKRPREGEAEGAETTKRPAVCAAVL
+PTM	Methylation:253,278,312,464;Phosphorylation:120,123,140,225,260,378,379,383,387,500,505,506,516,517,518;SUMOylation:179,349,458,492,494;Ubiquitylation:320,437

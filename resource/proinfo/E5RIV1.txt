@@ -1,0 +1,25 @@
+UniprotID	E5RIV1
+Accession	E5RIV1
+EntryName	E5RIV1_HUMAN
+ProteinName	N-myc downstream regulated 1
+GeneName	NDRG1
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVPPPGIMKQAGDSRDMSREMQDVDLAEVKPLVEKGETITGLLQEFDVQEQDIETLHGSVHVTLCGTPKGNRPVILTYHDIGMNHKTCYNPLFNYEDMQEITQHFAVCHVDAPGQQDGAASFPAGYMYPSMDQLAEMLPGVLQQFGLKSIIGMGTGAGAYILTRFALNNPEMVEGLVLINVNPCAEGWMDWA
+PTM	

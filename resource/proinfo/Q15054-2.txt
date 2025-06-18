@@ -1,0 +1,25 @@
+UniprotID	Q15054-2
+Accession	Q15054;B7ZAI6;Q32MZ9;Q32N00
+EntryName	DPOD3_HUMAN
+ProteinName	DNA polymerase delta subunit 3 (DNA polymerase delta subunit C) (DNA polymerase delta subunit p66) (DNA polymerase delta subunit p68)
+GeneName	POLD3 KIAA0039
+Length	427
+Function	Accessory component of both the DNA polymerase delta complex and the DNA polymerase zeta complex (PubMed:17317665, PubMed:22801543, PubMed:24449906). As a component of the trimeric and tetrameric DNA polymerase delta complexes (Pol-delta3 and Pol-delta4, respectively), plays a role in high fidelity genome replication, including in lagging strand synthesis, and repair. Required for optimal Pol-delta activity. Stabilizes the Pol-delta complex and plays a major role in Pol-delta stimulation by PCNA (PubMed:10219083, PubMed:10852724, PubMed:11595739, PubMed:16510448, PubMed:24035200). Pol-delta3 and Pol-delta4 are characterized by the absence or the presence of POLD4. They exhibit differences in catalytic activity. Most notably, Pol-delta3 shows higher proofreading activity than Pol-delta4 (PubMed:19074196, PubMed:20334433). Although both Pol-delta3 and Pol-delta4 process Okazaki fragments in vitro, Pol-delta3 may also be better suited to fulfill this task, exhibiting near-absence of strand displacement activity compared to Pol-delta4 and stalling on encounter with the 5'-blocking oligonucleotides. Pol-delta3 idling process may avoid the formation of a gap, while maintaining a nick that can be readily ligated (PubMed:24035200). Along with DNA polymerase kappa, DNA polymerase delta carries out approximately half of nucleotide excision repair (NER) synthesis following UV irradiation. In this context, POLD3, along with PCNA and RFC1-replication factor C complex, is required to recruit POLD1, the catalytic subunit of the polymerase delta complex, to DNA damage sites (PubMed:20227374). Under conditions of DNA replication stress, required for the repair of broken replication forks through break-induced replication (BIR) (PubMed:24310611). Involved in the translesion synthesis (TLS) of templates carrying O6-methylguanine or abasic sites performed by Pol-delta4, independently of DNA polymerase zeta (REV3L) or eta (POLH). Facilitates abasic site bypass by DNA polymerase delta by promoting extension from the nucleotide inserted opposite the lesion (PubMed:19074196, PubMed:25628356, PubMed:27185888). Also involved in TLS, as a component of the tetrameric DNA polymerase zeta complex. Along with POLD2, dramatically increases the efficiency and processivity of DNA synthesis of the DNA polymerase zeta complex compared to the minimal zeta complex, consisting of only REV3L and REV7 (PubMed:24449906).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	341...346;343...348;278...283;340...345;342...347
+validnes_region	
+nesbase_region	
+Sequence	MLYDYVERKRKENSGAQLHVTYLVSGSLIQNGHSCHKVAVVREDKLEAVKSKLAVTASIHVYSIQKAMLKDSGPLFNTDYDILKSNLQNCSKFSAIQCAAAVPRAPAESSSSSKKFEQSHLHMSSETQANNELTTNGHGPPASKQVSQQPKGIMGMFASKAAAKTQETNKETKTEAKEVTNASAAGNKAPGKGNMMSNFFGKAAMNKFKVNLDSEQAVKEEKIVEQPTVSVTEPKLATPAGLKKSSKKAEPVKVLQKEKKRGKRVALSDDETKETENMRKKRRRIKLPESDSSEDEVFPDSPGAYEAESPSPPPPPSPPLEPVPKTEPEPPSVKSSSGENKRKRKRVLKSKTYLDGEGCIVTEKVYESESCTDSEEELNMKTSSVHRPPAMTVKKEPREERKGPKKGTAALGKANRQVSITGFFQRK
+PTM	Acetylation:131,199,203,282,292,452;Methylation:24,123,227,248,274;Phosphorylation:219,222,253,267,269,277,284,307,311,314,389,407,409,411,413,423,458;SUMOylation:109,123,131,153,190,199,212,216,227,231,241,246,248,258,261,274,282,292,433,445;Ubiquitylation:109,131,258

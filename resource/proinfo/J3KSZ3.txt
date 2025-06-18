@@ -1,0 +1,25 @@
+UniprotID	J3KSZ3
+Accession	J3KSZ3
+EntryName	J3KSZ3_HUMAN
+ProteinName	Transmembrane protein 220
+GeneName	TMEM220 LOC388335 hCG_1648253
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPALWRACNGLMAAFFALAALVQVVYTIPAVLTLLVGLNPEVTGNVIWKSISAIHILFCTVWAVGLASYLLHRTQQNILHEEEGRNPVGGRIQLAIAIVITLFPFISWVYIYINKEMRSSWPTHCKTVI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9H112-2
+Accession	Q9H112;Q0VAF2;Q0VAF3;Q8WXU5;Q8WXU6;Q9H113
+EntryName	CST11_HUMAN
+ProteinName	Cystatin-11
+GeneName	CST11 CST8L
+Length	103
+Function	Has antibacterial activity against the Gram-negative bacteria E.coli. May play a role in sperm maturation and fertilization.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMAEPWQALQLLLAILLTLMALPYQARKKTFLSVHEVMAVENYAKDSLQWITDQYNKESDDKYHFRIFRVLKVQRQQVNCFFSVFAVPWFEQYKILNKSCSSD
+PTM	

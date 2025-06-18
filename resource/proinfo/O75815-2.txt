@@ -1,0 +1,25 @@
+UniprotID	O75815-2
+Accession	O75815;D3DT43;Q5TEW3;Q6UW40;Q9BR50
+EntryName	BCAR3_HUMAN
+ProteinName	Breast cancer anti-estrogen resistance protein 3 (Novel SH2-containing protein 2) (SH2 domain-containing protein 3B)
+GeneName	BCAR3 NSP2 SH2D3B UNQ271/PRO308
+Length	501
+Function	Acts as an adapter protein downstream of several growth factor receptors to promote cell proliferation, migration, and redistribution of actin fibers (PubMed:24216110). Specifically involved in INS/insulin signaling pathway by mediating MAPK1/ERK2-MAPK3/ERK1 activation and DNA synthesis (PubMed:24216110). Promotes insulin-mediated membrane ruffling (By similarity). In response to vasoconstrictor peptide EDN1, involved in the activation of RAP1 downstream of PTK2B via interaction with phosphorylated BCAR1 (PubMed:19086031). Inhibits cell migration and invasion via regulation of TGFB-mediated matrix digestion, actin filament rearrangement, and inhibition of invadopodia activity (By similarity). May inhibit TGFB-SMAD signaling, via facilitating BCAR1 and SMAD2 and/or SMAD3 interaction (By similarity). Regulates EGF-induced DNA synthesis (PubMed:18722344). Required for the maintenance of ocular lens morphology and structural integrity, potentially via regulation of focal adhesion complex signaling (By similarity). Acts upstream of PTPRA to regulate the localization of BCAR1 and PTPRA to focal adhesions, via regulation of SRC-mediated phosphorylation of PTPRA (By similarity). Positively regulates integrin-induced tyrosine phosphorylation of BCAR1 (By similarity). Acts as a guanine nucleotide exchange factor (GEF) for small GTPases RALA, RAP1A and RRAS (By similarity). However, in a contrasting study, lacks GEF activity towards RAP1 (PubMed:22081014).
+Subcellular Location	Cytoplasm; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQDRRALSLKAHQSESYLPIGCKLPPQSSGVDTSPCPNSPVFRTGSEPALSPAVVRRVSSDARAGEALRGSDSQLCPKPPPKPCKVPFLKVPSSPSAWLNSEANYCELNPAFATGCGRGAKLPSCAQGSHTELLTAKQNEAPGPRNSGVNYLILDDDDRERPWEPAAAQMEKGQWDKGEFVTPLLETVSSFRPNEFESKFLPPENKPLETAMLKRAKELFTNNDPKVIAQHVLSMDCRVARILGVSEEMRRNMGVSSGLELITLPHGHQLRLDIIERHNTMAIGIAVDILGCTGTLEDRAATLSKIIQVAVELKDSMGDLYSFSALMKALEMPQITRLEKTWTALRHQYTQTAILYEKQLKPFSKLLHEGRESTCVPPNNVSVPLLMPLVTLMERQAVTFEGTDMWEKNDQSCEIMLNHLATARFMAEAADSYRMNAERILAGFQPDEEMNEICKTEFQMRLLWGSKGAQVNQTERYEKFNQILTALSRKLEPPPVKQAEL
+PTM	Acetylation:5,682;Methylation:5,334,638,652,682,779;Phosphorylation:8,30,32,42,50,72,76,78,83,86,93,114,117,130,179,181,182,204,209,212,213,266,268,269,277,290,292,315,317,332,338,340,341,353,357,358,363,368,370,375,395,420,429,471;SUMOylation:5,119,312,314,530,682,689;Ubiquitylation:280,541,791

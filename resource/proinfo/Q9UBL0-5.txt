@@ -1,0 +1,25 @@
+UniprotID	Q9UBL0-5
+Accession	Q9UBL0;B4DG96;Q49AK3;Q49AS6;Q4G0V4;Q6NYC3;Q86V31;Q9UF93
+EntryName	ARP21_HUMAN
+ProteinName	cAMP-regulated phosphoprotein 21 (ARPP-21) (Thymocyte cAMP-regulated phosphoprotein)
+GeneName	ARPP21 TARPP
+Length	335
+Function	Isoform 2 may act as a competitive inhibitor of calmodulin-dependent enzymes such as calcineurin in neurons.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGQSQQQPPQQQPSPQPQQQVQPPQPQMAGPLVTQSVQGLQASSQSVQYPAVSFPPQHLLPVSPTQHFPMRDDVATQFGQMTLSRQSSGETPEPPSGPVYPSSLMPQPAQQPSYVIASTGQQLPTGGFSGSGPPISQQVLQPPPSPQGFVQQPPPAQMPVYYYPSGQYPTSTTQQYRPMAPVQYNAQRSQQMPQAAQQAGYQPVLSGQQGFQGLIGVQQPPQSQNVINNQQGTPVQSVMVSYPTMSSYQVPMTQGSQGLPQQSYQQPIMLPNQAGQGSLPATGMPVYCNVTPPTPQNNLRLIGPHCPSSTVPVMSASCRTNCASMSNAGWQVKF
+PTM	Glycosylation:391;Methylation:158,169,223,354;Phosphorylation:31,33,134,138,278,280,324,325,338,344,356,363,364,367,381,383,391,395,410,412,421,562

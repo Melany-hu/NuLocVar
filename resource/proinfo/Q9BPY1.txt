@@ -1,0 +1,25 @@
+UniprotID	Q9BPY1
+Accession	Q9BPY1
+EntryName	Q9BPY1_HUMAN
+ProteinName	C1orf116 protein
+GeneName	C1orf116
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRCEGQMKGMLLERCLLRLLRISGLCPDGRSTIKAQNF
+PTM	

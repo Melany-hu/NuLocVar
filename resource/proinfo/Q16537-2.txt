@@ -1,0 +1,25 @@
+UniprotID	Q16537-2
+Accession	Q16537;A4FU37;B7ZAW5;B7ZKK8;B7ZKK9;J3KQN6;Q52LW4
+EntryName	2A5E_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit epsilon isoform (PP2A B subunit isoform B'-epsilon) (PP2A B subunit isoform B56-epsilon) (PP2A B subunit isoform PR61-epsilon) (PP2A B subunit isoform R5-epsilon)
+GeneName	PPP2R5E
+Length	462
+Function	The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSAPTTPPSVDKVDGFSRKSVRKARQKRSQSSSQFRSQGKPIELTPLPLLKDVPSSEQPELFLKKLQQCCVIFDFMDTLSDLKMKEYKRSTLNELVDYITISRGCLTEQTYPEVVRMVSCNIFRTLPPSDSNEFDPEEDEPTLEASWPHLQLVYEFFIRFLESQEFQPSIAKKYIDQKFVLQLLELFDSEDPRERDYLKTVLHRIYGKFLGLRAFIRKQINNIFLRFVYETEHFNGVAELLEILGSIINGFALPLKAEHKQFLVKVLIPLHTVRSLSLFHAQLAYCIVQFLEKDPSLTEPVIRGLMKFWPKTCSQKEVMFLGELEEILDVIEPSQFVKIQEPLFKQIAKCVSSPHFQVAERALYYWNNEYIMSLIEENSNVILPIMFSSLYRISKEHWNPAIVALVYNVLKAFMEMNSTMFDELTATYNEKKKEKEREELWKKLEDLELKRGLRRDGIIPT
+PTM	Acetylation:173,200,209;Methylation:84,173,294,339,350,412;Phosphorylation:3,6,7,10,18,21,30,32,33,34,38,46,81,103;Ubiquitylation:41,173,209,219,308,346

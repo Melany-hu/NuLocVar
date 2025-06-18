@@ -1,0 +1,25 @@
+UniprotID	P04085-2
+Accession	P04085;B5BU73
+EntryName	PDGFA_HUMAN
+ProteinName	Platelet-derived growth factor subunit A (PDGF subunit A) (PDGF-1) (Platelet-derived growth factor A chain) (Platelet-derived growth factor alpha polypeptide)
+GeneName	PDGFA PDGF1
+Length	196
+Function	Growth factor that plays an essential role in the regulation of embryonic development, cell proliferation, cell migration, survival and chemotaxis. Potent mitogen for cells of mesenchymal origin. Required for normal lung alveolar septum formation during embryogenesis, normal development of the gastrointestinal tract, normal development of Leydig cells and spermatogenesis. Required for normal oligodendrocyte development and normal myelination in the spinal cord and cerebellum. Plays an important role in wound healing. Signaling is modulated by the formation of heterodimers with PDGFB (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTLACLLLLGCGYLAHVLAEEAEIPREVIERLARSQIHSIRDLQRLLEIDSVGSEDSLDTSLRAHGVHATKHVPEKRPLPIRRKRSIEEAVPAVCKTRTVIYEIPRSQVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVEYVRKKPKLKEVQVRLEEHLECACATTSLNPDYREEDTDVR
+PTM	Methylation:127;Phosphorylation:40,199

@@ -1,0 +1,25 @@
+UniprotID	A0A0K0KMW9
+Accession	A0A0K0KMW9
+EntryName	A0A0K0KMW9_HUMAN
+ProteinName	POU class 5 homeobox 1 transcript variant OCT4B5
+GeneName	POU5F1
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RLFLGATRRFLNPEWKGEIDNWCVYVLTSLLPFKIQSQGRYSAKRPSAALRLCSLASRTCVSCGPCCRSGWRKLTTMKIFR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9P2M4-2
+Accession	Q9P2M4;B9A6L5;D3DVT4;E9PAZ6;Q8IW15;Q8NDK3
+EntryName	TBC14_HUMAN
+ProteinName	TBC1 domain family member 14
+GeneName	TBC1D14 KIAA1322
+Length	413
+Function	Plays a role in the regulation of starvation-induced autophagosome formation (PubMed:22613832). Together with the TRAPPIII complex, regulates a constitutive trafficking step from peripheral recycling endosomes to the early Golgi, maintaining the cycling pool of ATG9 required for initiation of autophagy.
+Subcellular Location	Golgi apparatus; cis-Golgi network; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEYEDKAGRPSKPPSPKQNVRKNLDFEPLSTTALILEDRPANLPAKPAEEAQKHRQQYEEMVVQAKKRELKEAQRRKKQLEERCRVEESIGNAVLTWNNEILPNWETMWCSRKVRDLWWQGIPPSVRGKVWSLAIGNELNITHELFDICLARAKERWRSLSTGGSEVENEDAGFSAADREASLELIKLDISRTFPNLCIFQQGGPYHDMLHSILGAYTCYRPDVGYVQGMSFIAAVLILNLDTADAFIAFSNLLNKPCQMAFFRVDHGLMLTYFAAFEVFFEENLPKLFAHFKKNNLTPDIYLIDWIFTLYSKSLPLDLACRIWDVFCRDGEEFLFRTALGILKLFEDILTKMDFIHMAQFLTRLPEDLPAEELFASIATIQMQSRNKKWAQVLTALQKDSREMEKGSPSLRH
+PTM	Methylation:36,265,326,467,536,567,624,632;Phosphorylation:91,93,103,128,141,142,144,249,291,295,439,441,589,591,688;Ubiquitylation:139

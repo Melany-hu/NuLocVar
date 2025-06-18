@@ -1,0 +1,25 @@
+UniprotID	P13727-2
+Accession	P13727;A6XMW0;B2R5I1;P81448;Q14227;Q6ICT2
+EntryName	PRG2_HUMAN
+ProteinName	Bone marrow proteoglycan (BMPG) (Proteoglycan 2) [Cleaved into: Eosinophil granule major basic protein (EMBP) (MBP) (Pregnancy-associated major basic protein)]
+GeneName	PRG2 MBP
+Length	211
+Function	Cytotoxin and helminthotoxin. Also induces non-cytolytic histamine release from human basophils. Involved in antiparasitic defense mechanisms and immune hypersensitivity reactions. The proform acts as a proteinase inhibitor, reducing the activity of PAPPA.
+Subcellular Location	Secreted; Cytoplasmic vesicle; Secretory vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLPLLLALLFGAVSALHLRSETSTFETPLGAKTLPEDEETPEQEMEETPCRELEEEEEWGSGSEDASKKDGAVESISVPDMVDKNLTCPEEEDTVKVVGIPGCQTCRYLLFTCRRCYRGNLVSIHNFNINYRIQCSVSALNQGQVWIGGRITGSGRCRRFQWVDGSRWNFAYWAAHQPWSRGGHCVALCTRGGHWRRAHCLRRLPFICSY
+PTM	Glycosylation:86

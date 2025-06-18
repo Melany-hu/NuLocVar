@@ -1,0 +1,25 @@
+UniprotID	J3QSF6
+Accession	J3QSF6
+EntryName	J3QSF6_HUMAN
+ProteinName	Tripartite motif containing 37
+GeneName	TRIM37
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TLGANAKGGHLEGLQMTDLENNSETGELQPVLPEGASAAPEEETCSPSFLPGMSSDSDIECDTENEEQEEHTSVGGFHDSFMVMTQPPDEDTHSSFPDGEQIGPEDLSFNTDENSGR
+PTM	

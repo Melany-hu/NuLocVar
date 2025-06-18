@@ -1,0 +1,25 @@
+UniprotID	O75925-2
+Accession	O75925;B2RB67;B3KSY9;C5J4B4;Q147X4;Q99751;Q9UN02
+EntryName	PIAS1_HUMAN
+ProteinName	E3 SUMO-protein ligase PIAS1 (EC 2.3.2.-) (DEAD/H box-binding protein 1) (E3 SUMO-protein transferase PIAS1) (Gu-binding protein) (GBP) (Protein inhibitor of activated STAT protein 1) (RNA helicase II-binding protein)
+GeneName	PIAS1 DDXBP1
+Length	653
+Function	Functions as an E3-type small ubiquitin-like modifier (SUMO) ligase, stabilizing the interaction between UBE2I and the substrate, and as a SUMO-tethering factor (PubMed:11583632, PubMed:11867732, PubMed:14500712, PubMed:21965678, PubMed:36050397). Catalyzes sumoylation of various proteins, such as CEBPB, MRE11, MTA1, PTK2 and PML (PubMed:11583632, PubMed:11867732, PubMed:14500712, PubMed:21965678, PubMed:36050397). Plays a crucial role as a transcriptional coregulation in various cellular pathways, including the STAT pathway, the p53 pathway and the steroid hormone signaling pathway (PubMed:11583632, PubMed:11867732). In vitro, binds A/T-rich DNA (PubMed:15133049). The effects of this transcriptional coregulation, transactivation or silencing, may vary depending upon the biological context (PubMed:11583632, PubMed:11867732, PubMed:14500712, PubMed:21965678, PubMed:36050397). Mediates sumoylation of MRE11, stabilizing MRE11 on chromatin during end resection (PubMed:36050397). Sumoylates PML (at 'Lys-65' and 'Lys-160') and PML-RAR and promotes their ubiquitin-mediated degradation (By similarity). PIAS1-mediated sumoylation of PML promotes its interaction with CSNK2A1/CK2 which in turn promotes PML phosphorylation and degradation (By similarity). Enhances the sumoylation of MTA1 and may participate in its paralog-selective sumoylation (PubMed:21965678). Plays a dynamic role in adipogenesis by promoting the SUMOylation and degradation of CEBPB (By similarity). Mediates the nuclear mobility and localization of MSX1 to the nuclear periphery, whereby MSX1 is brought into the proximity of target myoblast differentiation factor genes (By similarity). Also required for the binding of MSX1 to the core enhancer region in target gene promoter regions, independent of its sumoylation activity (By similarity). Capable of binding to the core enhancer region TAAT box in the MYOD1 gene promoter (By similarity).
+Subcellular Location	Nucleus; Nucleus speckle; Nucleus; PML body; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	368..380;56..64
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	58...66;370...382
+validnes_region	
+nesbase_region	
+Sequence	MFTLQDSYVKQMVMSLRVSELQVLLGYAGRNKHGRKHELLTKALHLLKAGCSPAVQMKIKELYRRRFPQKIMTPADLSIPNVHSSPMPATLSPSTIPQLTYDGHPASSPLLPVSLLGPKHELELPHLTSALHPVHPDIKLQKLPFYDLLDELIKPTSLASDNSQRFRETCFAFALTPQQVQQISSSMDISGTKCDFTVQVQLRFCLSETSCPQEDHFPPNLCVKVNTKPCSLPGYLPPTKNGVEPKRPSRPINITSLVRLSTTVPNTIVVSWTAEIGRNYSMAVYLVKQLSSTVLLQRLRAKGIRNPDHSRALIKEKLTADPDSEIATTSLRVSLLCPLGKMRLTIPCRALTCSHLQCFDATLYIQMNEKKPTWVCPVCDKKAPYEHLIIDGLFMEILKYCTDCDEIQFKEDGTWAPMRSKKEVQEVSASYNGVDGCLSSTLEHQVASHHQSSNKNKKVEVIDLTIDSSSDEEEEEPSAKRTCPSLSPTSPLNNKGILSLPHQASPVSRTPSLPAVDTSYINTSLIQDYRHPFHMTPMPYDLQGLDFFPFLSGDNQHYNTSLLAAAAAAVSDDQDLLHSSRFFPYTSSQMFLDQLSAGGSTSLPTTNGSSSGSNSSLVSSNSLRESHSHTVTNRSSTDTASIFGIIPDIISLD
+PTM	Methylation:40,152,191,313,397;Phosphorylation:4,50,261,308,322,463,466,467,468,476,480,483,485,487,488,497,503,506,508,510,518;SUMOylation:8,30,34,40,46,56,58,68,117,137,140,152,226,238,300,315,339,369,380,408,419,420,453,493;Ubiquitylation:46,58,137,140,226,238,315,339,453,493

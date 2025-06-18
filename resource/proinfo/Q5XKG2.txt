@@ -1,0 +1,25 @@
+UniprotID	Q5XKG2
+Accession	Q5XKG2
+EntryName	Q5XKG2_HUMAN
+ProteinName	Glutamate ionotropic receptor AMPA type subunit 3 (Glutamate receptor, ionotrophic, AMPA 3)
+GeneName	GRIA3
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARQKKMGQSVLRAVFFLVLGLLGHSHGGFPNTISIGGLFMRNTVQEHSAFRFAVQLYNTNQNTTEKPFHLNYHVDHLDSSNSFSVTNACPAERDYLPWPGSIRENNWTALPCCKDHGLLHLKCSPGGARQNWAYCIWGVTGEL
+PTM	

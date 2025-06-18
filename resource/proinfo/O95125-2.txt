@@ -1,0 +1,25 @@
+UniprotID	O95125-2
+Accession	O95125;B0LPH9;Q4JG21;Q9H1B9;Q9NSM4
+EntryName	ZN202_HUMAN
+ProteinName	Zinc finger protein 202 (Zinc finger protein with KRAB and SCAN domains 10)
+GeneName	ZNF202 ZKSCAN10
+Length	424
+Function	Transcriptional repressor that binds to elements found predominantly in genes that participate in lipid metabolism. Among its targets are structural components of lipoprotein particles (apolipoproteins AIV, CIII, and E), enzymes involved in lipid processing (lipoprotein lipase, lecithin cholesteryl ester transferase), transporters involved in lipid homeostasis (ABCA1, ABCG1), and several genes involved in processes related to energy metabolism and vascular disease.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVALLTALSQGLVTFKDVAVCFSQDQWSDLDPTQKEFYGEYVLEEDCGIVVSLSFPIPRPDEISQVREEEPWVPDIQEPQETQEPEILSFTYTGDRSKDEEECLEQEDLSLEDIHRPVLGEPEIHQTPDWEIVFEDNPGRLNERRFGTNISQVNSFVNLRETTPVHPLLGRHHDCSVCGKSFTCNSHLVRHLRTHTGEKPYKCMECGKSYTRSSHLARHQKVHKMNAPYKYPLNRKNLEETSPVTQAERTPSVEKPYRCDDCGKHFRWTSDLVRHQRTHTGEKPFFCTICGKSFSQKSVLTTHQRIHLGGKPYLCGECGEDFSEHRRYLAHRKTHAAEELYLCSECGRCFTHSAAFAKHLRGHASVRPCRCNECGKSFSRRDHLVRHQRTHTGEKPFTCPTCGKSFSRGYHLIRHQRTHSEKTS
+PTM	Methylation:535,582;Phosphorylation:28,33,44,386,387,418,420,466,577;SUMOylation:22,423,454,460,507,516,521

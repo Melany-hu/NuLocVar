@@ -1,0 +1,25 @@
+UniprotID	H3BPQ4
+Accession	H3BPQ4
+EntryName	H3BPQ4_HUMAN
+ProteinName	Hydroxyacylglutathione hydrolase, mitochondrial (EC 3.1.2.6) (Glyoxalase II)
+GeneName	HAGH
+Length	258
+Function	Thiolesterase that catalyzes the hydrolysis of S-D-lactoyl-glutathione to form glutathione and D-lactic acid.
+Subcellular Location	Cytoplasm; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVEVLPALTDNYMYLVIDDETKEAAIVDPVQPQKVVDAARKHGVKLTTVLTTHHHWDHAGGNEKLVKLESGLKVYGGDDRIGALTHKITHLSTLQVGSLNVKCLATPCHTSGHICYFVSKPGGSEPPAVFTGDTLFVAGCGKFYEGTADEMCKALLEVLGRLPPDTRVYCGHEYTINNLKFARHVEPGNAAIREKLAWAKEKYSIGEPTVPSTLAEEFTYNPFMRVSGPGSSGGRGSAQPAARCWPPQGEDGAAARR
+PTM	

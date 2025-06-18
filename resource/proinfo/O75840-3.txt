@@ -1,0 +1,25 @@
+UniprotID	O75840-3
+Accession	O75840;B2RB03;B7Z4F7;C9JF04;E7EWH1;L0R4P2;Q7Z3H8;Q96E51
+EntryName	KLF7_HUMAN
+ProteinName	Krueppel-like factor 7 (Ubiquitous krueppel-like factor)
+GeneName	KLF7 UKLF
+Length	230
+Function	Transcriptional factor (PubMed:16339272, PubMed:9774444). Plays a critical role in neuronal morphogenesis and survival of sensory neurons (By similarity). Represses the corneal epithelium differentiation (PubMed:28916725). Also acts as a metabolic regulator, by modulating insulin sensitivity in pancreatic beta cells and skeletal muscle cells (PubMed:16339272). Inhibits transcriptional inducers of adipogenesis and has a repressive role in the expression of several adipokines, including leptin (PubMed:16339272).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	215..220
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVLASYSIFQELQLVHDTGYFSALPSLEETWQQTCLELERYLQTEPRRISETFGEDLDCFLHASPPPCIEESFRRLDPLLLPVEAAICEKSSAVDILLSRDKLLSETCLSLQPASSSLDSYTAVNQAQLNAVTSLTPPSSPELSRHLVKTSQTLSAVDGTVTLKLVAKKAALSSVKVRSLISAHGRDVSGVLHEAMSSRGTTGNTQVQSPSNATTATGVFPGLTILPST
+PTM	Methylation:150,195;Phosphorylation:65,242,244,263,267;SUMOylation:150,170,247,250

@@ -1,0 +1,25 @@
+UniprotID	M0R1D2
+Accession	M0R1D2
+EntryName	M0R1D2_HUMAN
+ProteinName	Glia maturation factor
+GeneName	GMFG
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVLEEEFQNISPEELKMELPERQPRFVVYSYKYVHDDGRVSYPLCFIFSSPVGCKPEQQMMYAGSKNRLVQTAELTKVFEIRTTDDLTEAWLQEKLSFFR
+PTM	

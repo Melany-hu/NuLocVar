@@ -1,0 +1,25 @@
+UniprotID	H3BQ59
+Accession	H3BQ59
+EntryName	H3BQ59_HUMAN
+ProteinName	Cysteine sulfinic acid decarboxylase
+GeneName	CSAD
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IQKGTSVSQKVCEWKEPEELKQLLDLELRSQGESQKQILERCRAVIRYSVKTGHPRFFNQLFSGLDPHALAGRIITESLNTSQYTYEIAPVFVLMEEEVLRKLRALVGWSSGDGIFCPVSLLHPEGSCVSGTWHRQCPSGQG
+PTM	

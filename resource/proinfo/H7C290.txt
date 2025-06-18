@@ -1,0 +1,25 @@
+UniprotID	H7C290
+Accession	H7C290
+EntryName	H7C290_HUMAN
+ProteinName	D-2-hydroxyglutarate dehydrogenase
+GeneName	D2HGDH
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GNTGMVGGSVPVFDEIILSTARMNRVLSFHSVSESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQR
+PTM	

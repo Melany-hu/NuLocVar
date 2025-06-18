@@ -1,0 +1,25 @@
+UniprotID	H0YA21
+Accession	H0YA21
+EntryName	H0YA21_HUMAN
+ProteinName	ubiquitinyl hydrolase 1 (EC 3.4.19.12)
+GeneName	USP45
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQTSAFSRIMKLCEEKCETDEIQKGGKCRNLSVRGITNLGNTCFFNAVMQNLAQTYTLTDLMNEIKESSTKLKIFPSSDSQLDPLVVELSRPGPLTSALFLFLHSMKETEKGPLSPKVLFNQLCQKAPRFKDFQQQDSQELLHYLLDAVRTEETKRIQASILKAFNNPTTKTADDETRKKVKDLHGERSIH
+PTM	

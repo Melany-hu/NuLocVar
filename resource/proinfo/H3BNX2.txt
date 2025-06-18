@@ -1,0 +1,25 @@
+UniprotID	H3BNX2
+Accession	H3BNX2
+EntryName	H3BNX2_HUMAN
+ProteinName	VPS35 endosomal protein-sorting factor-like
+GeneName	VPS35L
+Length	168
+Function	
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVFPWHSRNRNYKAEFASCRLEAVPLEFGDYHPLKPITVTESKTKKVNRKGSTSSTSSSSSSSVVDPLSSVLDGTDPLSMFAATADPAALAAAMDSSRRKRDRDDNSVVGSDFEPWTNKRGEILARYTTTEKLSIAKLGLPHWQCQRRCGPGWRSWMTLRRVPKRSC
+PTM	

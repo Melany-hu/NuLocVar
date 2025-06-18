@@ -1,0 +1,25 @@
+UniprotID	H7C1Z1
+Accession	H7C1Z1
+EntryName	H7C1Z1_HUMAN
+ProteinName	5-azacytidine-induced protein 2
+GeneName	AZI2
+Length	76
+Function	Adapter protein which binds TBK1 and IKBKE playing a role in antiviral innate immunity. Activates serine/threonine-protein kinase TBK1 and facilitates its oligomerization. Enhances the phosphorylation of NF-kappa-B p65 subunit RELA by TBK1. Promotes TBK1-induced as well as TNF-alpha or PMA-induced activation of NF-kappa-B. Participates in IFNB promoter activation via TICAM1.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLKSRDLQKLSISSDNMQHAYWELKREMSNLHLVTQVQAELLRKLKTSTAIKKALSQNRAMRSTAPVLGTHGVKDK
+PTM	

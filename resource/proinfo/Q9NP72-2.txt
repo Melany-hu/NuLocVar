@@ -1,0 +1,25 @@
+UniprotID	Q9NP72-2
+Accession	Q9NP72;B3KMC7;B7Z333;D3DRW1;Q53FX8;Q56UN9;Q6FIH1
+EntryName	RAB18_HUMAN
+ProteinName	Ras-related protein Rab-18 (EC 3.6.5.2)
+GeneName	RAB18
+Length	235
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes (PubMed:24891604, PubMed:30970241). Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion (PubMed:24891604, PubMed:30970241). RAB18 is required for the localization of ZFYVE1 to lipid droplets and for its function in mediating the formation of endoplasmic reticulum-lipid droplets (ER-LD) contacts (PubMed:30970241). Also required for maintaining endoplasmic reticulum structure (PubMed:24891604). Plays a role in apical endocytosis/recycling (By similarity). Plays a key role in eye and brain development and neurodegeneration (PubMed:21473985).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus; cis-Golgi network membrane; Lipid droplet; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEDVLTTLKILIIGESGVGKSSLLLRFTDDTFDPELAATIGVDFKVKTISVDGNKAKLAIWVTLHQQTANFFLKSQIGNSPILKWAMWQYDTAGQERFRTLTPSYYRGAQGVILVYDVTRRDTFVKLDNWLNELETYCTRNDIVNMLVGNKIDKENREVDRNEGLKFARKHSMLFIEASAKTCDGVQCAFEELVEKIIQTPGLWESENQNKGVKLSHREEGQGGGACGGYCSVL
+PTM	Acetylation:58,138;Methylation:10,46,98,123,168;Phosphorylation:7,49,144;SUMOylation:138,142,183;Ubiquitylation:21,48,56,58,98,123,126,138,142,183,186

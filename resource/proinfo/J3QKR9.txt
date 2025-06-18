@@ -1,0 +1,25 @@
+UniprotID	J3QKR9
+Accession	J3QKR9
+EntryName	J3QKR9_HUMAN
+ProteinName	RAB11 family interacting protein 4
+GeneName	RAB11FIP4
+Length	163
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADTDPRVRVEKLVKYLDPNDLGRINFKDFCRGVFAMKGCEELLKDVLSVESAGTLPCAPEIPDCVEQGSEVTGPTFADGELIPREPGFFPEDEEEAMTLAPPEGPQELYTDSPMESTQSLEGSVGSPAEKDGGLGGLFLPEDKSLVHTPSMTTSDLSTHSTT
+PTM	

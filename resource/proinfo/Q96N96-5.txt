@@ -1,0 +1,25 @@
+UniprotID	Q96N96-5
+Accession	Q96N96;A2VEA9;A6NF85;B4DQB1;B4DSZ0;B4DVM8;J3KPJ7;J3KQH2;Q5VX68;Q6ZML1;Q8N873;Q8TEK6
+EntryName	SPT13_HUMAN
+ProteinName	Spermatogenesis-associated protein 13 (APC-stimulated guanine nucleotide exchange factor 2) (Asef2)
+GeneName	SPATA13
+Length	536
+Function	Acts as a guanine nucleotide exchange factor (GEF) for RHOA, RAC1 and CDC42 GTPases. Regulates cell migration and adhesion assembly and disassembly through a RAC1, PI3K, RHOA and AKT1-dependent mechanism. Increases both RAC1 and CDC42 activity, but decreases the amount of active RHOA. Required for MMP9 up-regulation via the JNK signaling pathway in colorectal tumor cells. Involved in tumor angiogenesis and may play a role in intestinal adenoma formation and tumor progression.
+Subcellular Location	Cytoplasm; Cell projection; Filopodium; Cell projection; Lamellipodium; Cell projection; Ruffle membrane; Cell projection; Podosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	309...314;306...311
+validnes_region	
+nesbase_region	
+Sequence	MPAHQVPPYKAVSARFRPFTFSQSTPIGLDRVGRRRQMRASNVSSDGGTEPSALVDDNGSEEDFSYEDLCQASPRYLQPGGEQLAINELISDGNVVCAEALWDHVTMDDQELGFKAGDVIQVLEASNKDWWWGRSEDKEAWFPASFVRGYIRQCRKHTGMFTVAQLATIFGNIEDIYKFQRKFLKDLEKQYNKEEPHLSEIGSCFLQNQEGFAIYSEYCNNHPGACLELANLMKQGKYRHFFEACRLLQQMIDIAIDGFLLTPVQKICKYPLQLAELLKYTTQEHGDYSNIKAAYEAMKNVACLINERKRKLESIDKIARWQVSIVGWEGLDILDRSSELIHSGELTKITKQGKSQQRTFFLFDHQLVSCKKDLLRRDMLYYKGRLDMDEMELVDLGDGRDKDCNLSVKNAFKLVSRTTDEVYLFCAKKQEDKARWLQACADERRRVQEDKEMGMEISENQKKLAMLNAQKAGHGKSKGYNRCPVAPPHQGLHPIHQRHITMPTSVPQQQVFGLAEPKRKSSLFWHTFNRLTPFRK
+PTM	Methylation:305,395,578;Phosphorylation:74,76,78,79,539;SUMOylation:192

@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TLE4
+Accession	A0A8V8TLE4
+EntryName	A0A8V8TLE4_HUMAN
+ProteinName	Sorting nexin 10
+GeneName	SNX10
+Length	223
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPEQQKEEFVSVWVRDPRIQKEDFWHSYIDYEICIHTNSMCFTMKTSCVRRRYREFVWLRQRLQSNALLVQLPELPSKNLFFNMNNRQHVDQRRQGLEDFLRKQETADRGHRKHSAQTSQTSRSKVLQNALLLSDSSLHLFLQSHLNSEDIEACVSGQTKYSVEEAIHKFALMNRRFPEEDEEGKKENDIDYDSESSSSGLGHSSDDSSSHGCKVNTAPQES
+PTM	

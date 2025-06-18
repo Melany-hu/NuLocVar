@@ -1,0 +1,25 @@
+UniprotID	P07093-3
+Accession	P07093;B2R6A4;B4DIF2;Q53S15;Q5D0C4
+EntryName	GDN_HUMAN
+ProteinName	Glia-derived nexin (GDN) (Peptidase inhibitor 7) (PI-7) (Protease nexin 1) (PN-1) (Protease nexin I) (Serpin E2)
+GeneName	SERPINE2 PI7 PN1
+Length	409
+Function	Serine protease inhibitor with activity toward thrombin, trypsin, and urokinase. Promotes neurite extension by inhibiting thrombin. Binds heparin.
+Subcellular Location	Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDCRSSLVEGTMNWHLPLFLLASVTLPSICSHFNPLSLEELGSNTGIQVFNQIVKSRPHDNIVISPHGIASVLGMLQLGADGRTKKQLAMVMRYGVNGVGKILKKINKAIVSKKNKDIVTVANAVFVKNASEIEVPFVTRNKDVFQCEVRNVNFEDPASACDSINAWVKNETRDMIDNLLSPDLIDGVLTRLVLVNAVYFKGLWKSRFQPENTKKRTFVAADGKSYQVPMLAQLSVFRCGSTSAPNDLWYNFIELPYHGESISMLIALPTESSTPLSAIIPHISTKTIDSWMSIMVPKRVQVILPKFTAVAQTDLKEPLKVLGITDMFDSSKANFAKITRSENLHVSHILQKAKIEVSEDGTKASAATTAILIARSSPPWFIVDRPFLFFIRHNPTGAVLFMGQINKP
+PTM	Glycosylation:118,159;Methylation:44,102,305,342;Ubiquitylation:90,213,305,353

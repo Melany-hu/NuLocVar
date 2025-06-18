@@ -1,0 +1,25 @@
+UniprotID	O75425-3
+Accession	O75425;A4D2D1;A6NG17;C9JE89;D6W5W1;O75423;O75424
+EntryName	MSPD3_HUMAN
+ProteinName	Motile sperm domain-containing protein 3
+GeneName	MOSPD3
+Length	182
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTHMAGLVCVCLYPPVLCTAPAKYTVFDAEGYVKPQSCIDIVIRHVAPIPSHYDVQDRFRIELSEEGAEGRVVGRKDITSILRAPAYPLELQGQPDPAPRPGPPAGTPPPTARHFQEHPRQQLATSSFLLFLLTGIVSVAFLLLPLPDELGSQLPQVLHVSLGQKLVAAYVLGLLTMVFLRT
+PTM	Phosphorylation:21,56,58,133,160;Ubiquitylation:87

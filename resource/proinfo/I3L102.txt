@@ -1,0 +1,25 @@
+UniprotID	I3L102
+Accession	I3L102
+EntryName	I3L102_HUMAN
+ProteinName	Phosphate cytidylyltransferase 2, ethanolamine
+GeneName	PCYT2
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRNGRGAAGGAEQPGPGGRRAVRVWCDGCHRAEIWSHGLPASP
+PTM	

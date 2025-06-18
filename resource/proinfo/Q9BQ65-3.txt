@@ -1,0 +1,25 @@
+UniprotID	Q9BQ65-3
+Accession	Q9BQ65;B4DWE3;B4DZW5;Q96FZ9;Q9H8X8
+EntryName	USB1_HUMAN
+ProteinName	U6 snRNA phosphodiesterase 1 (hUsb1) (3'-5' RNA exonuclease USB1) (EC 4.6.1.-) (Mutated in poikiloderma with neutropenia protein 1) (Mutated in PN protein 1) (hMpn1)
+GeneName	USB1 C16orf57 Mpn1
+Length	186
+Function	3'-5' RNA exonuclease that trims the 3' end of oligo(U) and oligo(A) tracts of the pre-U6 small nuclear RNA (snRNA) molecule, leading to the formation of a mature U6 snRNA 3' end-terminated with a 2',3'-cyclic phosphate (PubMed:22899009, PubMed:23022480, PubMed:23190533, PubMed:26213367, PubMed:28887445, PubMed:30215753, PubMed:31832688). Participates in the U6 snRNA 3' end processing that prevents U6 snRNA degradation (PubMed:22899009, PubMed:23022480, PubMed:23190533, PubMed:26213367, PubMed:28887445, PubMed:30215753, PubMed:31832688). In addition also removes uridines from the 3' end of U6atac snRNA and possibly the vault RNA VTRNA1-1 (PubMed:26213367).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAAPLVGYSSSGSEDESEDGMRTRPGDGSHRRGQSPLPRQRFPVPDSVLNMFPGTEEGPEDDSTKHGGRVRTFPHERGNWATHVYVPYEAKEEFLDLLDVLLPHAQTYVPRLVRMKVFHLSLSQSVVLRHHWILPFVQALKARMTSFHSPHPGPHCLIGTKDAPVTQEIPKDLGALRQEPGSQTR
+PTM	Acetylation:258;Methylation:33,142;Phosphorylation:18,36,255,261

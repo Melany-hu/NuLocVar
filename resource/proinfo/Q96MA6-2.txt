@@ -1,0 +1,25 @@
+UniprotID	Q96MA6-2
+Accession	Q96MA6;A8K821;Q8N9W9
+EntryName	KAD8_HUMAN
+ProteinName	Adenylate kinase 8 (AK 8) (EC 2.7.4.3) (EC 2.7.4.6) (ATP-AMP transphosphorylase 8)
+GeneName	AK8 C9orf98
+Length	275
+Function	Nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. Has highest activity toward AMP, and weaker activity toward dAMP, CMP and dCMP. Also displays broad nucleoside diphosphate kinase activity.
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPEDISELETAQKLLEYHRNIVRVIPSYPKILKVISADQPCVDVFYQALTYVQSNHRTNAPFTPRVLLLGPVGSGKSLQAALLAQKYRLVNVCCGQLLKEAVADRTTFGELIQPFFEKEMAVPDSLLMKVLSQRLDQQDCIQKGWVLHGVPRDLDQAHLLNRLGYNPNRVFFLNVPFDSIMERLTLRRIDPVTGERYHLMYKPPPTMEIQARLLQNPKDAEEQVKLKMDLFYRNSADLEQLYGSAITLNGDQDPYTVFEYIESGIINPLPKKIP
+PTM	Methylation:238,291,304,334;Phosphorylation:4,107,169,232,256,411

@@ -1,0 +1,25 @@
+UniprotID	Q01826-2
+Accession	Q01826;B3KXF1;C9JTR6;Q59EQ0
+EntryName	SATB1_HUMAN
+ProteinName	DNA-binding protein SATB1 (Special AT-rich sequence-binding protein 1)
+GeneName	SATB1
+Length	795
+Function	Crucial silencing factor contributing to the initiation of X inactivation mediated by Xist RNA that occurs during embryogenesis and in lymphoma (By similarity). Binds to DNA at special AT-rich sequences, the consensus SATB1-binding sequence (CSBS), at nuclear matrix- or scaffold-associated regions. Thought to recognize the sugar-phosphate structure of double-stranded DNA. Transcriptional repressor controlling nuclear and viral gene expression in a phosphorylated and acetylated status-dependent manner, by binding to matrix attachment regions (MARs) of DNA and inducing a local chromatin-loop remodeling. Acts as a docking site for several chromatin remodeling enzymes (e.g. PML at the MHC-I locus) and also by recruiting corepressors (HDACs) or coactivators (HATs) directly to promoters and enhancers. Modulates genes that are essential in the maturation of the immune T-cell CD8SP from thymocytes. Required for the switching of fetal globin species, and beta- and gamma-globin genes regulation during erythroid differentiation. Plays a role in chromatin organization and nuclear architecture during apoptosis. Interacts with the unique region (UR) of cytomegalovirus (CMV). Alu-like motifs and SATB1-binding sites provide a unique chromatin context which seems preferentially targeted by the HIV-1 integration machinery. Moreover, HIV-1 Tat may overcome SATB1-mediated repression of IL2 and IL2RA (interleukin) in T-cells by binding to the same domain than HDAC1. Delineates specific epigenetic modifications at target gene loci, directly up-regulating metastasis-associated genes while down-regulating tumor-suppressor genes. Reprograms chromatin organization and the transcription profiles of breast tumors to promote growth and metastasis. Promotes neuronal differentiation of neural stem/progenitor cells in the adult subventricular zone, possibly by positively regulating the expression of NEUROD1 (By similarity).
+Subcellular Location	Nucleus matrix; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	20..40
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDHLNEATQGKEHSEMSNNVSDPKGPPAKIARLEQNGSPLGRGRLGSTGAKMQGVPLKHSGHLMKTNLRKGTMLPVFCVVEHYENAIEYDCKEEHAEFVLVRKDMLFNQLIEMALLSLGYSHSSAAQAKGLIQVGKWNPVPLSYVTDAPDATVADMLQDVYHVVTLKIQLHSCPKLEDLPPEQWSHTTVRNALKDLLKDMNQSSLAKECPLSQSMISSIVNSTYYANVSAAKCQEFGRWYKHFKKTKDMMVEMDSLSELSQQGANHVNFGQQPVPGNTAEQPPSPAQLSHGSQPSVRTPLPNLHPGLVSTPISPQLVNQQLVMAQLLNQQYAVNRLLAQQSLNQQYLNHPPPVSRSMNKPLEQQVSTNTEVSSEIYQWVRDELKRAGISQAVFARVAFNRTQGLLSEILRKEEDPKTASQSLLVNLRAMQNFLQLPEAERDRIYQDERERSLNAASAMGPAPLISTPPSRPPQVKTATIATERNGKPENNTMNINASIYDEIQQEMKRAKVSQALFAKVAATKSQGWLCELLRWKEDPSPENRTLWENLSMIRRFLSLPQPERDAIYEQESNAVHHHGDRPPHIIHVPAEQIQSPSPTTLGKGESRGVFLPGLPTPAPWLGAAPQQQQQQQQQQQQQQQAPPPPQPQQQPQTGPRLPPRQPTVASPAESDEENRQKTRPRTKISVEALGILQSFIQDVGLYPDEEAIQTLSAQLDLPKYTIIKFFQNQRYYLKHHGKLKDNSGLEVDVAEYKEEELLKDLEESVQDKNTNTLFSVKLEEELSVEGNTDINTDLKD
+PTM	Acetylation:11,51,194;Methylation:42,44,58,194,198,232,384,411,686,726,744;Phosphorylation:21,38,47,48,60,203,204,212,214,298,313,421,456,465,466,630,633,637,710;SUMOylation:51,58,686,744

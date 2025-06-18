@@ -1,0 +1,25 @@
+UniprotID	A2RUS2-3
+Accession	A2RUS2;B7ZM28;O94947;Q2TAM7;Q6ZMS6;Q96DK3
+EntryName	DEND3_HUMAN
+ProteinName	DENN domain-containing protein 3
+GeneName	DENND3 KIAA0870
+Length	266
+Function	Guanine nucleotide exchange factor (GEF) activating RAB12. Promotes the exchange of GDP to GTP, converting inactive GDP-bound RAB12 into its active GTP-bound form (PubMed:20937701). Regulates autophagy in response to starvation through RAB12 activation. Starvation leads to ULK1/2-dependent phosphorylation of Ser-472 and Ser-490, which in turn allows recruitment of 14-3-3 adapter proteins and leads to up-regulation of GEF activity towards RAB12 (By similarity). Also plays a role in protein transport from recycling endosomes to lysosomes, regulating, for instance, the degradation of the transferrin receptor and of the amino acid transporter PAT4 (PubMed:20937701). Starvation also induces phosphorylation at Tyr-858, which leads to up-regulated GEF activity and initiates autophagy (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVMADQNQVWVGSEDSVIYIINVHSMSCNKQLTAHCSSVTDLIVQDGQEAPSNVYSCSMDGMVLVWNVSTLQVTSRFQLPRGGLTSIRLHGGRLWCCTGNSIMVMKMNGSLHQELKIEENFKDTSTSFLAFQLLPEEEQLWAACAGRSEVYIWSLKDLAQPPQRVPLEDCSEINCMIRVKKQVGWRARHPQHPRQVSLALAASPCSREPAARPRALLPSPLRVPLLTGTCRVGANGPTGHHVLVSWCGPSTPQRIPPNWMASNDRT
+PTM	Acetylation:879;Methylation:6,17,134,151,341,391,415,528,597,627,798,879,1066;Phosphorylation:3,143,412,445,456,459,460,465,472,489,490,494,496,502,503,509,512,677;Ubiquitylation:391,597,743

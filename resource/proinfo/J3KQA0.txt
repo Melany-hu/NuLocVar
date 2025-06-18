@@ -1,0 +1,25 @@
+UniprotID	J3KQA0
+Accession	J3KQA0
+EntryName	J3KQA0_HUMAN
+ProteinName	Synaptotagmin
+GeneName	SYT1 hCG_2016754
+Length	419
+Function	Calcium sensor that participates in triggering neurotransmitter release at the synapse. May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse. It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)-dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-independent manner; these are neurexins, syntaxin and AP2. Plays a role in dendrite formation by melanocytes.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Chromaffin granule membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSESHHEALAAPPVTTVATVLPSNATEPASPGEGKEDAFSKLKEKFMNELHKIPLPPWALIAIAIVAVLLVLTCCFCICKKCLFKKKNKKKGKEKGGKNAINMKDVKDLGKTMKDQDDDAETGLTDGEEKEEPKEEEKLGKLQYSLDYDFQNNQLLVGIIQAAELPALDMGGTSDPYVKVFLLPDKKKKFETKVHRKTLNPVFNEQFTFKVPYSELGGKTLVMAVYDFDRFSKHDIIGEFKVPMNTVDFGHVTEEWRDLQSAEKEEQEKLGDICFSLRYVPTAGKLTVVILEAKNLKKMDVGGLSDPYVKIHLMQNGKRLKKKKTTIKKNTLNPYYNESFSFEVPFEQIQKVQVVVTVLDYDKIGKNDAIGKVFVGYNSTGAELRHWSDMLANPRRPIAQWHTLQVEEEVDAMLAVKK
+PTM	

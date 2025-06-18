@@ -1,0 +1,25 @@
+UniprotID	A0A087X1R4
+Accession	A0A087X1R4
+EntryName	A0A087X1R4_HUMAN
+ProteinName	Pre-mRNA-splicing regulator WTAP (Female-lethal(2)D homolog) (WT1-associated protein) (Wilms tumor 1-associating protein)
+GeneName	WTAP hCG_34028
+Length	170
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTNEEPLPKKVRLSETDFKVMARDELILRWKQYEAYVQALEGKYTDLNSNDVTGLRESEEKLKQQQQESARRENILVMRLATKEQEMQECTTQIQYLKQVQQPSVAQLRSTMVDPAINLFFLKMKGELEQTKDKLEQAQNELSAWKFTPDRGLMASDYSEEVATSEKFPF
+PTM	

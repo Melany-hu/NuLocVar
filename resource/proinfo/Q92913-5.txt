@@ -1,0 +1,25 @@
+UniprotID	Q92913-5
+Accession	Q92913;B1AK18;B7Z4M7;B7Z8N0;D3DWH4;O95830;Q9NZH9;Q9NZI0
+EntryName	FGF13_HUMAN
+ProteinName	Fibroblast growth factor 13 (FGF-13) (Fibroblast growth factor homologous factor 2) (FHF-2)
+GeneName	FGF13 FHF2
+Length	226
+Function	Microtubule-binding protein which directly binds tubulin and is involved in both polymerization and stabilization of microtubules (By similarity). Through its action on microtubules, may participate in the refinement of axons by negatively regulating axonal and leading processes branching (By similarity). Plays a crucial role in neuron polarization and migration in the cerebral cortex and the hippocampus (By similarity). Regulates voltage-gated sodium channel transport and function (PubMed:15282281, PubMed:33245860, PubMed:36696443). May also play a role in MAPK signaling (By similarity). Required for the development of axonal initial segment-targeting inhibitory GABAergic synapses made by chandelier neurons (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cell projection; Filopodium; Cell projection; Growth cone; Cell projection; Dendrite; Cell membrane; Sarcolemma; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRQDSIQSAELKKKESPFRAKCHEIFCCPLKQVHHKENTEPEEPQLKGIVTKLYSRQGYHLQLQADGTIDGTKDEDSTYTLFNLIPVGLRVVAIQGVQTKLYLAMNSEGYLYTSELFTPECKFKESVFENYYVTYSSMIYRQQQSGRGWYLGLNKEGEIMKGNHVKKNKPAAHFLPKPLKVAMYKEPSLHDLTEFSRSGSGTPTKSRSVSGVLNGGKSMSHNEST
+PTM	Methylation:120;Phosphorylation:8,30,208,228,230

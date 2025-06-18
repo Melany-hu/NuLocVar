@@ -1,0 +1,25 @@
+UniprotID	Q9HCQ5-2
+Accession	Q9HCQ5;Q52LR8;Q6NT54;Q8NFR1
+EntryName	GALT9_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 9 (EC 2.4.1.41) (Polypeptide GalNAc transferase 9) (GalNAc-T9) (pp-GaNTase 9) (Protein-UDP acetylgalactosaminyltransferase 9) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 9)
+GeneName	GALNT9
+Length	237
+Function	Catalyzes the initial reaction in O-linked oligosaccharide biosynthesis, the transfer of an N-acetyl-D-galactosamine residue to a serine or threonine residue on the protein receptor. Does not glycosylate apomucin or SDC3.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVLPCSRVAHIERTRKPYNNDIDYYAKRNALRAAEVWMDDFKSHVYMAWNIPMSNPGVDFGDVSERLALRQRLKCRSFKWYLENVYPEMRVYNNTLTYGEVRNSKASAYCLDQGAEDGDRAILYPCHGMSSQLVRYSADGLLQLGPLGSTAFLPDSKCLVDDGTGRMPTLKKCEDVARPTQRLWDFTQSGPIVSRATGRCLEVEMSKDANFGLRLVVQRCSGQKWMIRNWIKHARH
+PTM	Methylation:83,184,199,278;Phosphorylation:459

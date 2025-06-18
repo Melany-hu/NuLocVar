@@ -1,0 +1,25 @@
+UniprotID	Q09013-7
+Accession	Q09013;E5KR08;Q16205;Q6P5Z6
+EntryName	DMPK_HUMAN
+ProteinName	Myotonin-protein kinase (MT-PK) (EC 2.7.11.1) (DM-kinase) (DMK) (DM1 protein kinase) (DMPK) (Myotonic dystrophy protein kinase)
+GeneName	DMPK DM1PK MDPK
+Length	609
+Function	Non-receptor serine/threonine protein kinase which is necessary for the maintenance of skeletal muscle structure and function. May play a role in myocyte differentiation and survival by regulating the integrity of the nuclear envelope and the expression of muscle-specific genes. May also phosphorylate PPP1R12A and inhibit the myosin phosphatase activity to regulate myosin phosphorylation. Also critical to the modulation of cardiac contractility and to the maintenance of proper cardiac conduction activity probably through the regulation of cellular calcium homeostasis. Phosphorylates PLN, a regulator of calcium pumps and may regulate sarcoplasmic reticulum calcium uptake in myocytes. May also phosphorylate FXYD1/PLM which is able to induce chloride currents. May also play a role in synaptic plasticity.
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus outer membrane; Mitochondrion outer membrane; Sarcoplasmic reticulum membrane; Cell membrane; Cytoplasm; Cytosol; Mitochondrion membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGHFWPPEPYTVFMWGSPWEADSPRVKLRGREKGRQTEGGAFPLVSSALSGDPRFFSPTTPPAEPIVVRLKEVRLQRDDFEILKVIGRGAFSEVAVVKMKQTGQVYAMKIMNKWDMLKRGEVSCFREERDVLVNGDRRWITQLHFAFQDENYLYLVMEYYVGGDLLTLLSKFGERIPAEMARFYLAEIVMAIDSVHRLGYVHRDIKPDNILLDRCGHIRLADFGSCLKLRADGTVRSLVAVGTPDYLSPEILQAVGGGPGTGSYGPECDWWALGVFAYEMFYGQTPFYADSTAETYGKIVHYKEHLSLPLVDEGVPEEARDFIQRLLCPPETRLGRGGAGDFRTHPFFFGLDWDGLRDSVPPFTPDFEGATDTCNFDLVEDGLTAMVSGGGETLSDIREGAPLGVHLPFVGYSYSCMALRDSEVPGPTPMELEAEQLLEPHVQAPSLEPSVSPQDETAEVAVPAAVPAAEAEAEVTLRELQEALEEEVLTRQSLSREMEAIRTDNQNFASQLREAEARNRDLEAHVRQLQERMELLQAEGATAVTGVPSPRATDPPSHVPRPGLSEALSLLLFAVVLSRAAALGCIGLVAHAGQLTAVWRRPGAARAP
+PTM	Methylation:75,89,162;Phosphorylation:161,185,191,540;SUMOylation:100,162

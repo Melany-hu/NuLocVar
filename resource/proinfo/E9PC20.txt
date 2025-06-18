@@ -1,0 +1,25 @@
+UniprotID	E9PC20
+Accession	E9PC20
+EntryName	E9PC20_HUMAN
+ProteinName	Receptor activity-modifying protein 1
+GeneName	RAMP1
+Length	126
+Function	Accessory protein that interacts with and modulates the function of G-protein coupled receptors including calcitonin gene-related peptide type 1 receptor (CALCRL) and calcitonin receptor (CALCR). Required for the transport of CALCRL to the plasma membrane. Together with CALCRL, form the receptor complex for the calcitonin gene-related peptides CGRP1/CALCA and CGRP2/CALCB. Together with CALCR, form the AMYR1 receptor complex for amylin/IAPP and CGRP1/CALCA.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTACQEANYGALLRELCLTQFQVDMEAVGETLWCDWGRTIRSYRELADCTWHMAEKLGCFWPNAEVDRFFLAVHGRYFRSCPISGRAVRDPPGSILYPFIVVPITVTLLVTALVVWQSKRTEGIV
+PTM	

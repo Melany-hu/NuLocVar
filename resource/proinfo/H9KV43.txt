@@ -1,0 +1,25 @@
+UniprotID	H9KV43
+Accession	H9KV43
+EntryName	H9KV43_HUMAN
+ProteinName	Dynein axonemal heavy chain 14
+GeneName	DNAH14
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMLISAEGEGLVLPKKIRVRSAVEQWLVNVEKSMFDVLKKFLSQGIEDWNCQMFSQWVLSHPGQVVLTVSQIMFYNDCVKSFVSSYSREKLEKVHAGLMCHLEEVADLVVLDTSNSRTKAILGALLILYVHCRDIVINLLLKNIFNAEDFEWTRHLQYKWNEKQKLCYVSQGNASFTYGYEYLGCTSRLVITPLTDRCWLTLME
+PTM	

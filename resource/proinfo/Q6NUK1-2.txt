@@ -1,0 +1,25 @@
+UniprotID	Q6NUK1-2
+Accession	Q6NUK1;B7ZAI9;Q5T331;Q5T485;Q6PJJ9;Q705K4;Q9P129
+EntryName	SCMC1_HUMAN
+ProteinName	Mitochondrial adenyl nucleotide antiporter SLC25A24 (Mitochondrial ATP-Mg/Pi carrier protein 1) (Mitochondrial Ca(2+)-dependent solute carrier protein 1) (Short calcium-binding mitochondrial carrier protein 1) (SCaMC-1) (Solute carrier family 25 member 24)
+GeneName	SLC25A24 APC1 MCSC1 SCAMC1
+Length	458
+Function	Electroneutral antiporter that mediates the transport of adenyl nucleotides through the inner mitochondrial membrane. Originally identified as an ATP-magnesium/inorganic phosphate antiporter, it also acts as a broad specificity adenyl nucleotide antiporter. By regulating the mitochondrial matrix adenyl nucleotide pool could adapt to changing cellular energetic demands and indirectly regulate adenyl nucleotide-dependent metabolic pathways (PubMed:15123600, PubMed:22015608). In vitro, a low activity is also observed with guanyl and pyrimidine nucleotides (PubMed:15123600). May play a role in protecting cells against oxidative stress-induced cell death, by buffering calcium levels in the mitochondrial matrix through the formation of calcium-phosphate precipitates (PubMed:22015608, PubMed:29100093).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSLYGDLFWYLDYNKDGTLDIFELQEGLEDVGAIQSLEEAKKIFTTGDVNKDGKLDFEEFMKYLKDHEKKMKLAFKSLDKNNDGKIEASEIVQSLQTLGLTISEQQAELILQSIDVDGTMTVDWNEWRDYFLFNPVTDIEEIIRFWKHSTGIDIGDSLTIPDEFTEDEKKSGQWWRQLLAGGIAGAVSRTSTAPLDRLKIMMQVHGSKSDKMNIFGGFRQMVKEGGIRSLWRGNGTNVIKIAPETAVKFWAYEQYKKLLTEEGQKIGTFERFISGSMAGATAQTFIYPMEVMKTRLAVGKTGQYSGIYDCAKKILKHEGLGAFYKGYVPNLLGIIPYAGIDLAVYELLKSYWLDNFAKDSVNPGVMVLLGCGALSSTCGQLASYPLALVRTRMQAQAMLEGSPQLNMVGLFRRIISKEGIPGLYRGITPNFMKVLPAVGISYVVYENMKQTLGVTQK
+PTM	Acetylation:82,231,243,320,332,336,437;Methylation:260,268,285,320,332,345,369,437;Phosphorylation:208,288,294,328,371,380,395,396,397,403,404;SUMOylation:62,189;Ubiquitylation:62,71,285,320,345

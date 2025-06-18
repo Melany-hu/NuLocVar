@@ -1,0 +1,25 @@
+UniprotID	P55290-3
+Accession	P55290;A8W476;A8W477;B7Z590;C9JRI6;J3KN62;Q6GTW4;Q8TBX3
+EntryName	CAD13_HUMAN
+ProteinName	Cadherin-13 (Heart cadherin) (H-cadherin) (P105) (Truncated cadherin) (T-cad) (T-cadherin)
+GeneName	CDH13 CDHH
+Length	175
+Function	Cadherins are calcium-dependent cell adhesion proteins. They preferentially interact with themselves in a homophilic manner in connecting cells; cadherins may thus contribute to the sorting of heterogeneous cell types. May act as a negative regulator of neural cell growth.
+Subcellular Location	Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPRTPLVLCVLLSQVLLLTSAEDLDCTPGFQQKVFHINQPAEFIEDQSILNLTFSDCKGNDKLRYEVSSPYFKVNSDGGLVALRNITAVGKTLFVHARTPHAEDMAELVIVGGKDIQGSLQDIFKFARTSPVPRQKRSIVVSPILIPENQRQPFPRDVGKMKIWQVLCLARWLT
+PTM	Glycosylation:52,61,86,500,530,598,600,638,639,654,656,671;Methylation:92,356,388,443;Phosphorylation:662,664

@@ -1,0 +1,25 @@
+UniprotID	O14832-2
+Accession	O14832;A8MTS8;B1ALH5
+EntryName	PAHX_HUMAN
+ProteinName	Phytanoyl-CoA dioxygenase, peroxisomal (EC 1.14.11.18) (Phytanic acid oxidase) (Phytanoyl-CoA alpha-hydroxylase) (PhyH)
+GeneName	PHYH PAHX
+Length	238
+Function	Catalyzes the 2-hydroxylation of not only racemic phytanoyl-CoA and the isomers of 3-methylhexadecanoyl-CoA, but also a variety of other mono-branched 3-methylacyl-CoA esters (with a chain length of at least seven carbon atoms) and straight-chain acyl-CoA esters (with a chain length longer than four carbon atoms) (PubMed:10744784, PubMed:12031666, PubMed:12923223, PubMed:9326939). Does not hydroxylate long and very long straight chain acyl-CoAs or 2-methyl- and 4-methyl-branched acyl-CoAs (PubMed:10744784, PubMed:12923223).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDVTISKSEYAPSEKMITKVQDFQEDKELFRYCTLPEILKYVECFTGPNIMAMHTMLINKPPDSGKKTSRHPLHQDLHYFPFRPSDLIVCAWTAMEHISRNNGCLVVLPGTHKGSLKPHDYPKWEGGVNKMFHGIQDYEENKARVHLVMEKGDTVFFHPLLIHGSGQNKTQGFRKAISCHFASADCHYIDVKGTSQENIEKEVVGIAHKFFGAENSVNLKDIWMFRARLVKGERTNL
+PTM	Acetylation:116,120,128;Methylation:70,141,161,293,302,321;Phosphorylation:109;SUMOylation:108;Ubiquitylation:108,116

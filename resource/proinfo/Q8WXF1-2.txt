@@ -1,0 +1,25 @@
+UniprotID	Q8WXF1-2
+Accession	Q8WXF1;Q5JTQ3;Q8NCZ9;Q8WXE8;Q9NV36
+EntryName	PSPC1_HUMAN
+ProteinName	Paraspeckle component 1 (Paraspeckle protein 1)
+GeneName	PSPC1 PSP1
+Length	393
+Function	RNA-binding protein required for the formation of nuclear paraspeckles (PubMed:22416126). Binds to poly(A), poly(G) and poly(U) RNA homopolymers (PubMed:22416126). Regulates, cooperatively with NONO and SFPQ, androgen receptor-mediated gene transcription activity in Sertoli cell line (By similarity). Regulates the circadian clock by repressing the transcriptional activator activity of the CLOCK-BMAL1 heterodimer (By similarity). Plays a role in the regulation of DNA virus-mediated innate immune response by assembling into the HDP-RNP complex, a complex that serves as a platform for IRF3 phosphorylation and subsequent innate immune response activation through the cGAS-STING pathway (PubMed:28712728).
+Subcellular Location	Nucleus speckle; Nucleus; Nucleolus; Nucleus matrix; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMLRGNLKQVRIEKNPARLRALESAVGESEPAAAAAMALALAGEPAPPAPAPPEDHPDEEMGFTIDIKSFLKPGEKTYTQRCRLFVGNLPTDITEEDFKRLFERYGEPSEVFINRDRGFGFIRLESRTLAEIAKAELDGTILKSRPLRIRFATHGAALTVKNLSPVVSNELLEQAFSQFGPVEKAVVVVDDRGRATGKGFVEFAAKPPARKALERCGDGAFLLTTTPRPVIVEPMEQFDDEDGLPEKLMQKTQQYHKEREQPPRFAQPGTFEFEYASRWKALDEMEKQQREQVDRNIREAKEKLEAEMEAARHEHQLMLMRQDLMRRQEELRRLEELRNQELQKRKQIQLRHEEEHRRREEEMIRHREQEELRRQQEGFKPNYMENGDKRKCG
+PTM	Acetylation:8,14,76,99,198,206,380,519;Methylation:4,68,72,134,143,206,344,373,507;Phosphorylation:69,153,159,164,196,409,431,473,477,481,483,485,487;SUMOylation:8,99,134,184,206,346,380;Ubiquitylation:134,143,161,198,206

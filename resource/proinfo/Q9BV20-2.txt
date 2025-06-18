@@ -1,0 +1,25 @@
+UniprotID	Q9BV20-2
+Accession	Q9BV20;Q8NDC9
+EntryName	MTNA_HUMAN
+ProteinName	Methylthioribose-1-phosphate isomerase (M1Pi) (MTR-1-P isomerase) (EC 5.3.1.23) (Mediator of RhoA-dependent invasion) (S-methyl-5-thioribose-1-phosphate isomerase) (Translation initiation factor eIF-2B subunit alpha/beta/delta-like protein)
+GeneName	MRI1 MRDI UNQ6390/PRO21135
+Length	322
+Function	Catalyzes the interconversion of methylthioribose-1-phosphate (MTR-1-P) into methylthioribulose-1-phosphate (MTRu-1-P). Independently from catalytic activity, promotes cell invasion in response to constitutive RhoA activation by promoting FAK tyrosine phosphorylation and stress fiber turnover.
+Subcellular Location	Nucleus; Cytoplasm; Cell projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLEAIRYSRGSLQILDQLLLPKQSRYEAVGSVHQAWEAIRAMKVRGAPAIALVGCLSLAVELQAGAGGPGLAALVAFVRDKLSFLVTARPTAVNMARAARDLADVAAREAEREGATEEAVRERRETELCEHWEEHTRQRELPLRGPLGGTVLETRPYNQGARLTAFELVYEQIPATLITDSMVAAAMAHRGVSAVVVGADRVVANGDTANKVGTYQLAIVAKHHGIPFYVAAPSSSCDLRLETGKEIIIEERPGQELTDVNGVRIAAPGIGVWNPAFDVTPHDLITGGIITELGVFAPEELRTALTTTISSRDGTLDGPQM
+PTM	Acetylation:259;Methylation:23,249,288;Phosphorylation:2,8,9,12,241,263,358,359,363;Ubiquitylation:23,259,293

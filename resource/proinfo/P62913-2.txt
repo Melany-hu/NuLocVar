@@ -1,0 +1,25 @@
+UniprotID	P62913-2
+Accession	P62913;P25121;P39026;Q8TDH2;Q9Y674
+EntryName	RL11_HUMAN
+ProteinName	Large ribosomal subunit protein uL5 (60S ribosomal protein L11) (CLL-associated antigen KW-12)
+GeneName	RPL11
+Length	177
+Function	Component of the ribosome, a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:19191325, PubMed:32669547). The small ribosomal subunit (SSU) binds messenger RNAs (mRNAs) and translates the encoded message by selecting cognate aminoacyl-transfer RNA (tRNA) molecules (PubMed:19191325, PubMed:32669547). The large subunit (LSU) contains the ribosomal catalytic site termed the peptidyl transferase center (PTC), which catalyzes the formation of peptide bonds, thereby polymerizing the amino acids delivered by tRNAs into a polypeptide chain (PubMed:19191325, PubMed:32669547). The nascent polypeptides leave the ribosome through a tunnel in the LSU and interact with protein factors that function in enzymatic processing, targeting, and the membrane insertion of nascent chains at the exit of the ribosomal tunnel (PubMed:19191325, PubMed:32669547). As part of the 5S RNP/5S ribonucleoprotein particle it is an essential component of the LSU, required for its formation and the maturation of rRNAs (PubMed:12962325, PubMed:19061985, PubMed:24120868). It also couples ribosome biogenesis to p53/TP53 activation. As part of the 5S RNP it accumulates in the nucleoplasm and inhibits MDM2, when ribosome biogenesis is perturbed, mediating the stabilization and the activation of TP53 (PubMed:24120868). Promotes nucleolar location of PML (By similarity).
+Subcellular Location	Nucleus; Nucleolus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADQGEKENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTGQTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSDTGNFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGCIGAKHRISKEEAMRWFQQKYDGIILPGK
+PTM	Acetylation:8,38,52,67,78,85,88,144,154,159,169;Methylation:32,52,75,85,95,144,164;Phosphorylation:29,44,47,51,73,92,140,170;SUMOylation:8,19,38,52,67,78,85,88,96,154,159,169;Ubiquitylation:8,19,38,52,67,78,85,144,145,154,159,169

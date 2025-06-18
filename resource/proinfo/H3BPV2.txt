@@ -1,0 +1,25 @@
+UniprotID	H3BPV2
+Accession	H3BPV2
+EntryName	H3BPV2_HUMAN
+ProteinName	Transmembrane protein 62
+GeneName	TMEM62
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKTKWLDIKGNHDAFNIPSLDSIKNYYRKYSAVRRDGSFHYVHSTPFGNYSFICVDATVNPGPKRPYNFFGILDKKKMEELLLLAKESSRSNHTIWFGHFTTSTILSPSPGIRSIMSSAIAYLCGHLH
+PTM	

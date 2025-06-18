@@ -1,0 +1,25 @@
+UniprotID	Q9BXB5-2
+Accession	Q9BXB5;B4E212;Q9BTU5
+EntryName	OSB10_HUMAN
+ProteinName	Oxysterol-binding protein-related protein 10 (ORP-10) (OSBP-related protein 10)
+GeneName	OSBPL10 ORP10 OSBP9
+Length	700
+Function	Probable lipid transporter involved in lipid countertransport between the endoplasmic reticulum and the plasma membrane. Its ability to bind phosphatidylserine, suggests that it specifically exchanges phosphatidylserine with phosphatidylinositol 4-phosphate (PI4P), delivering phosphatidylserine to the plasma membrane in exchange for PI4P (Probable) (PubMed:23934110). Plays a role in negative regulation of lipid biosynthesis (PubMed:19554302). Negatively regulates APOB secretion from hepatocytes (PubMed:19554302, PubMed:22906437). Binds cholesterol and acidic phospholipids (PubMed:22906437). Also binds 25-hydroxycholesterol (PubMed:17428193). Binds phosphatidylserine (PubMed:23934110).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERAVQGTDGGGGSNSSSRSSSRATSAGSSPSCSLAGRGVSSRSAAAGLGGGGSRSSPGSVAASPSGGGGRRREPALEGVLSKYTNLLQGWQNRYFVLDFEAGILQYFVNEQSKHQKPRGVLSLSGAIVSLSDEAPHMLVVYSANGEMFKLRAADAKEKQFWVTQLRACAKYHMEMNSKMMNQVEGQQKNLVHAIESLPGSGPLTALDQDLLLLKATSAATLSCLGECLNLLQQSVHQAGQPSQKPGASENILGWHGSKSHSTEQLKNGTLGSLPSASANITWAILPNSAEDEQTSQPEPEPNSGSELVLSEDEKSDNEDKEETELGVMEDQRSIILHLISQLKLGMDLTKVVLPTFILEKRSLLEMYADFMAHPDLLLAITAGATPEERVICFVEYYLTAFHEGRKGALAKKPYNPIIGETFHCSWEVPKDRVKPKRTASRSPASCHEHPMADDPSKSYKLRFVAEQVSHHPPISCFYCECEEKRLCVNTHVWTKSKFMGMSVGVSMIGEGVLRLLEHGEEYVFTLPSAYARSILTIPWVELGGKVSINCAKTGYSATVIFHTKPFYGGKVHRVTAEVKHNPTNTIVCKAHGEWNGTLEFTYNNGETKVIDTTTLPVYPKKIRPLEKQGPMESRNLWREVTRYLRLGDIDAATEQKRHLEEKQRVEERKRENLRTPWKPKYFIQEGDGWVYFNPLWKAH
+PTM	Methylation:38,43,231,279,331,415,425,610,654,727;Phosphorylation:14,21,25,26,29,30,32,34,44,54,56,57,60,64,66,186,188,190,196,199,201,204,209,217,219,223,232,235,324,326,380,388,405,503,505,507,510,521,561,623;SUMOylation:179,222,231,477,495,644,686,721,745;Ubiquitylation:159,179,222,415,425,560,635,692,721

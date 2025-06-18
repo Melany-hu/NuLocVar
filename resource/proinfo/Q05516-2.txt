@@ -1,0 +1,25 @@
+UniprotID	Q05516-2
+Accession	Q05516;Q8TAL4
+EntryName	ZBT16_HUMAN
+ProteinName	Zinc finger and BTB domain-containing protein 16 (Promyelocytic leukemia zinc finger protein) (Zinc finger protein 145) (Zinc finger protein PLZF)
+GeneName	ZBTB16 PLZF ZNF145
+Length	550
+Function	Acts as a transcriptional repressor (PubMed:10688654, PubMed:24359566). Transcriptional repression may be mediated through recruitment of histone deacetylases to target promoters (PubMed:10688654). May play a role in myeloid maturation and in the development and/or maintenance of other differentiated tissues. Probable substrate-recognition component of an E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins (PubMed:14528312).
+Subcellular Location	Nucleus; Nucleus; Nuclear body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLTKMGMIQLQNPSHPTGLLCKANQMRLAGTLCDVVIMVDSQEFHAHRTVLACTSKMFEILFHRNSQHYTLDFLSPKTFQQILEYAYTATLQAKAEDLDDLLYAAEILEIEYLEEQCLKMLETIQASDDNDTEATMADGGAEEEEDRKARYLKNIFISKHSSEESGYASVAGQSLPGPMVDQSPSVSTSFGLSAMSPTKAAVDSLMTIGQSLLQGTLQPPAGPEEPTLAGGGRHPGVAEVKTEMMQVDEVPSQGFIQRELFSKLGELAVGMKSESRTIGEQCSVCGVELPDNEAVEQHRKLHSGMKTYGCELCGKRFLDSLRLRMHLLAHSAGAKAFVCDQCGAQFSKEDALETHRQTHTGTDMAVFCLLCGKRFQAQSALQQHMEVHAGVRSYICSECNRTFPSHTALKRHLRSHTGDHPYECEFCGSCFRDESTLKSHKRIHTGEKPYECNGCGKKFSLKHQLETHYRVHTGEKPFECKLCHQRSRDYSAMIKHLRTHNGASPYQCTICTEYCPSLSSMQKHMKGHKPEEIPPDWRIEKTYLYLCYV
+PTM	Methylation:5,78,439,459,562,586;Phosphorylation:166,175,256,282,286,386;SUMOylation:242

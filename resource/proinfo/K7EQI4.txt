@@ -1,0 +1,25 @@
+UniprotID	K7EQI4
+Accession	K7EQI4
+EntryName	K7EQI4_HUMAN
+ProteinName	Zinc finger protein 559
+GeneName	ZNF559
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAGWLTNYSQDSVTFEDVAVDFTQEEWTLLDQTQRNLYRDVMLENYKNLVAVDWESHINTKWSAPQQNFLQGKTSSVVEMVRFRRYNLLSSMLEEDWKFLKMEKQHNNLETFETSVFHPKIICLLERLWIMSLTNTLNIPQNIFVYIFPSTFPYVSQMFLINNSLLGRYQLSSI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43683-3
+Accession	O43683;E9PC26;F5GXI5;O43430;O43643;O60626;Q53QE4
+EntryName	BUB1_HUMAN
+ProteinName	Mitotic checkpoint serine/threonine-protein kinase BUB1 (hBUB1) (EC 2.7.11.1) (BUB1A)
+GeneName	BUB1 BUB1L
+Length	1065
+Function	Serine/threonine-protein kinase that performs 2 crucial functions during mitosis: it is essential for spindle-assembly checkpoint signaling and for correct chromosome alignment. Has a key role in the assembly of checkpoint proteins at the kinetochore, being required for the subsequent localization of CENPF, BUB1B, CENPE and MAD2L1. Required for the kinetochore localization of PLK1. Required for centromeric enrichment of AUKRB in prometaphase. Plays an important role in defining SGO1 localization and thereby affects sister chromatid cohesion. Promotes the centromeric localization of TOP2A (PubMed:35044816). Acts as a substrate for anaphase-promoting complex or cyclosome (APC/C) in complex with its activator CDH1 (APC/C-Cdh1). Necessary for ensuring proper chromosome segregation and binding to BUB3 is essential for this function. Can regulate chromosome segregation in a kinetochore-independent manner. Can phosphorylate BUB3. The BUB1-BUB3 complex plays a role in the inhibition of APC/C when spindle-assembly checkpoint is activated and inhibits the ubiquitin ligase activity of APC/C by phosphorylating its activator CDC20. This complex can also phosphorylate MAD1L1. Kinase activity is essential for inhibition of APC/CCDC20 and for chromosome alignment but does not play a major role in the spindle-assembly checkpoint activity. Mediates cell death in response to chromosome missegregation and acts to suppress spontaneous tumorigenesis.
+Subcellular Location	Nucleus; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	58..65
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTPENVLQYIQWVEENFPENKEYLITLLEHLMKEFLDKKKYHNDPRFISYCLKFAEYNSDLHQFFEFLYNHGIGTLSSPLYIAWAGHLEAQGELQHASAVLQRGIQNQAEPREFLQQQYRLFQTRLTETHLPAQARTSEPLHNVQVLNQMITSKSNPGNNMACISKNQGSELSGVISSACDKESNMERRVITISKSEYSVHSSLASKVDVEQVVMYCKEKLIRGESEFSFEELRAQKYNQRRKHEQWVNEDRHYMKRKEANAFEEQLLKQKMDELHKKLHQVVETSHEDLPASQERSEVNPARMGPSVGSQQELRAPCLPVTYQQTPVNMEKNPREAPPVVPPLANAISAALVSPATSQSIAPPVPLKAQTVTDSMFAVASKDAGCVNKSTHEFKPQSGAEIKEGCETHKVANTSSFHTTPNTSLGMVQATPSKVQPSPTVHTKEALGFIMNMFQAPTLPDISDDKDEWQSLDQNEDAFEAQFQKNVRSSGAWGVNKIISSLSSAFHVFEDGNKENYGLPQPKNKPTGARTFGERSVSRLPSKPKEEVPHAEEFLDDSTVWGIRCNKTLAPSPKSPGDFTSAAQLASTPFHKLPVESVHILEDKENVVAKQCTQATLDSCEENMVVPSRDGKFSPIQEKSPKQALSSHMYSASLLRLSQPAAGGVLTCEAELGVEACRLTDTDAAIAEDPPDAIAGLQAEWMQMSSLGTVDAPNFIVGNPWDDKLIFKLLSGLSKPVSSYPNTFEWQCKLPAIKPKTEFQLGSKLVYVHHLLGEGAFAQVYEATQGDLNDAKNKQKFVLKVQKPANPWEFYIGTQLMERLKPSMQHMFMKFYSAHLFQNGSVLVGELYSYGTLLNAINLYKNTPEKVMPQGLVISFAMRMLYMIEQVHDCEIIHGDIKPDNFILGNGFLEQDDEDDLSAGLALIDLGQSIDMKLFPKGTIFTAKCETSGFQCVEMLSNKPWNYQIDYFGVAATVYCMLFGTYMKVKNEGGECKPEGLFRRLPHLDMWNEFFHVMLNIPDCHHLPSLDLLRQKLKKVFQQHYTNKIRALRNRLIVLLLECKRSRK
+PTM	Acetylation:653;Methylation:59,290,389,424,660,749,821,958,1065;Phosphorylation:148,158,173,176,194,198,247,250,259,306,307,314,328,331,375,381,402,411,412,419,435,436,437,440,441,444,445,452,454,459,461,510,511,521,552,563,589,593,596,601,602,608,609,618,640,655,661,667,668,672,679,752,755,778,960;SUMOylation:290,299,455,535,546,566,625,777,813;Ubiquitylation:175,187,203,216,258,353,403,455,544,588,631,653,660,663,756,770,777,817,821,824,958,1014

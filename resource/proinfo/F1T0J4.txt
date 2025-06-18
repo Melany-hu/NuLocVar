@@ -1,0 +1,25 @@
+UniprotID	F1T0J4
+Accession	F1T0J4;F8W1B1
+EntryName	F1T0J4_HUMAN
+ProteinName	H6 family homeobox 1 (Homeobox protein HMX1)
+GeneName	HMX1
+Length	190
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDELTEPGRATPARASSFLIENLLAAEAKGAGRATQGDGSREDEEEDDDDPEDEDAEQARRRRLQRRRQLLAGTGPGGEARARALLGPGALGLGPRPPPGPGPPFALGCGGAARWYPRAHGGYGGGLSPDSTQKITPQPVQCGEGQVTRADKYKVNRSDSGSLWMAEEAAGTGWCSHNTVEPLSAWTPE
+PTM	

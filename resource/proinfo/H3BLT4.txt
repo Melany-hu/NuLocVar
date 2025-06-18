@@ -1,0 +1,25 @@
+UniprotID	H3BLT4
+Accession	H3BLT4
+EntryName	H3BLT4_HUMAN
+ProteinName	Baculoviral IAP repeat-containing protein 5 (Apoptosis inhibitor survivin)
+GeneName	BIRC5
+Length	165
+Function	
+Subcellular Location	Chromosome; Centromere; Kinetochore; Cytoplasm; Cytoskeleton; Spindle; Midbody; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	107...132;112...121
+nlsdbnls_region	
+validnes_region	107...132;112...121
+nesbase_region	
+Sequence	MGAPTLPPAWQPFLKDHRISTFKNWPFLEGCACTPERMAEAGFIHCPTENEPDLAQCFFCFKELEGWEPDDDPIGPGTVAYACNTSTLGGRGGRITREEHKKHSSGCAFLSVKKQFEELTLGEFLKLDRERAKNKIAKETNNKKKEFEETAEKVRRAIEQLAAMD
+PTM	

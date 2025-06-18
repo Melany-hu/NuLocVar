@@ -1,0 +1,25 @@
+UniprotID	Q8NE65-2
+Accession	Q8NE65;A8K4N7
+EntryName	ZN738_HUMAN
+ProteinName	Zinc finger protein 738
+GeneName	ZNF738
+Length	137
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDLRYGVYPVKGASGYPGAERNLLEYSYFEKGPLTFRDVVIEFSQEEWQCLDTAQQDLYRKVMLENFRNLVFLGIDVSKPDLITCLEQGKDPWNMKRHSMVATPPESGVLKFPTIIILLSRCFFQSVNICFIYLEP
+PTM	Methylation:112;Ubiquitylation:12

@@ -1,0 +1,25 @@
+UniprotID	P50416-2
+Accession	P50416;Q8TCU0;Q9BWK0
+EntryName	CPT1A_HUMAN
+ProteinName	Carnitine O-palmitoyltransferase 1, liver isoform (CPT1-L) (EC 2.3.1.21) (Carnitine O-palmitoyltransferase I, liver isoform) (CPT I) (CPTI-L) (Carnitine palmitoyltransferase 1A) (Succinyltransferase CPT1A) (EC 2.3.1.-)
+GeneName	CPT1A CPT1
+Length	756
+Function	Catalyzes the transfer of the acyl group of long-chain fatty acid-CoA conjugates onto carnitine, an essential step for the mitochondrial uptake of long-chain fatty acids and their subsequent beta-oxidation in the mitochondrion (PubMed:11350182, PubMed:14517221, PubMed:16651524, PubMed:9691089). Also possesses a lysine succinyltransferase activity that can regulate enzymatic activity of substrate proteins such as ENO1 and metabolism independent of its classical carnitine O-palmitoyltransferase activity (PubMed:29425493). Plays an important role in hepatic triglyceride metabolism (By similarity). Also plays a role in inducible regulatory T-cell (iTreg) differentiation once activated by butyryl-CoA that antagonizes malonyl-CoA-mediated CPT1A repression (By similarity). Sustains the IFN-I response by recruiting ZDHCC4 to palmitoylate MAVS at the mitochondria leading to MAVS stabilization and activation (PubMed:38016475). Promotes ROS-induced oxidative stress in liver injury via modulation of NFE2L2 and NLRP3-mediated signaling pathways (By similarity).
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEAHQAVAFQFTVTPDGIDLRLSHEALRQIYLSGLHSWKKKFIRFKNGIITGVYPASPSSWLIVVVGVMTTMYAKIDPSLGIIAKINRTLETANCMSSQTKNVVSGVLFGTGLWVALIVTMRYSLKVLLSYHGWMFTEHGKMSRATKIWMGMVKIFSGRKPMLYSFQTSLPRLPVPAVKDTVNRYLQSVRPLMKEEDFKRMTALAQDFAVGLGPRLQWYLKLKSWWATNYVSDWWEEYIYLRGRGPLMVNSNYYAMDLLYILPTHIQAARAGNAIHAILLYRRKLDREEIKPIRLLGSTIPLCSAQWERMFNTSRIPGEETDTIQHMRDSKHIVVYHRGRYFKVWLYHDGRLLKPREMEQQMQRILDNTSEPQPGEARLAALTAGDRVPWARCRQAYFGRGKNKQSLDAVEKAAFFVTLDETEEGYRSEDPDTSMDSYAKSLLHGRCYDRWFDKSFTFVVFKNGKMGLNAEHSWADAPIVAHLWEYVMSIDSLQLGYAEDGHCKGDINPNIPYPTRLQWDIPGECQEVIETSLNTANLLANDVDFHSFPFVAFGKGIIKKCRTSPDAFVQLALQLAHYKDMGKFCLTYEASMTRLFREGRTETVRSCTTESCDFVRAMVDPAQTVEQRLKLFKLASEKHQHMYRLAMTGSGIDRHLFCLYVVSKYLAVESPFLKEVLSEPWRLSTSQTPQQQVELFDLENNPEYVSSGGGFGPVADDGYGVSYILVGENLINFHISSKFSCPETGIISQGPSSDT
+PTM	Acetylation:195,200,285,292,634,639;Methylation:86,292,560;Phosphorylation:158,165,241,371,384,438,514,666,671;SUMOylation:180,292;Ubiquitylation:86,161,180,195,200,292,405,580,631,634,675,772

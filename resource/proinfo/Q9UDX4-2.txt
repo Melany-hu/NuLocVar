@@ -1,0 +1,25 @@
+UniprotID	Q9UDX4-2
+Accession	Q9UDX4;E7EN74;E9PE57;Q495V8;Q495W0;Q495W1
+EntryName	S14L3_HUMAN
+ProteinName	SEC14-like protein 3 (Tocopherol-associated protein 2)
+GeneName	SEC14L3 TAP2
+Length	341
+Function	Probable hydrophobic ligand-binding protein; may play a role in the transport of hydrophobic ligands like tocopherol, squalene and phospholipids.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEFRKTMDIDHILDWQPPEVIQKYMPGGLCGYDRDGCPVWYDIIGPLDPKGLLFSVTKQDLLKTKMRDCERILHECDLQTERLGKKIETIVMIFDCEGLGLKHFWKPLVEVYQEFFGLLEENYPETLKFMLIVKATKLFPVGYNLMKPFLSEDTRRKIIVLGNNWKEGLLKLISPEELPAQFGGTLTDPDGNPKCLTKINYGGEIPKSMYVRDQVKTQYEHSVQINRGSSHQVEYEILFPGCVLRWQFSSDGADIGFGVFLKTKMGERQRAGEMTDVLPSQRYNAHMVPEDGNLTCSEAGVYVLRFDNTYSFVHAKKVSFTVEVLLPDEGMQKYDKELTPV
+PTM	Methylation:11,18,51,58,109,122,161,187,193,230;Phosphorylation:9,289,294,339

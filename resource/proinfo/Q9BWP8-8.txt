@@ -1,0 +1,25 @@
+UniprotID	Q9BWP8-8
+Accession	Q9BWP8;A1IGE4;A1IGE5;A1IGE6;A7VJJ2;A7VJJ3;A7VJJ4;A7VJJ5;B2R9M5;B4E1G0;J3KQY9;Q5CZ85;Q7Z6N1
+EntryName	COL11_HUMAN
+ProteinName	Collectin-11 (Collectin kidney protein 1) (CL-K1)
+GeneName	COLEC11 UNQ596/PRO1182
+Length	197
+Function	Lectin that plays a role in innate immunity, apoptosis and embryogenesis (PubMed:21258343, PubMed:23954398, PubMed:25912189). Calcium-dependent lectin that binds self and non-self glycoproteins presenting high mannose oligosaccharides with at least one terminal alpha-1,2-linked mannose epitope (PubMed:25912189). Primarily recognizes the terminal disaccharide of the glycan (PubMed:25912189). Also recognizes a subset of fucosylated glycans and lipopolysaccharides (PubMed:17179669, PubMed:25912189). Plays a role in innate immunity through its ability to bind non-self sugars presented by microorganisms and to activate the complement through the recruitment of MAPS1 (PubMed:20956340, PubMed:25912189). Also plays a role in apoptosis through its ability to bind in a calcium-independent manner the DNA present at the surface of apoptotic cells and to activate the complement in response to this binding (Probable). Finally, plays a role in development, probably serving as a guidance cue during the migration of neural crest cells and other cell types during embryogenesis (PubMed:21258343, PubMed:28301481).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWWVPPSPYGCLPCALPGEKGDSGDIGPPGPNGEPGLPCECSQLRKAIGEMDNQVSQLTSELKFIKNAVAGVRETESKIYLLVKEEKRYADAQLSCQGRGGTLSMPKDEAANGLMAAYLAQAGLARVFIGINDLEKEGAFVYSDHSPMRTFNKWRSGEPNNAYDEEDCVEMVASGGWNDVACHTTMYFMCEFDKENM
+PTM	Acetylation:140;Methylation:158,210;Phosphorylation:90

@@ -1,0 +1,25 @@
+UniprotID	C9JZW5
+Accession	C9JZW5
+EntryName	C9JZW5_HUMAN
+ProteinName	Lysosomal dipeptide transporter MFSD1 (Major facilitator superfamily domain-containing protein 1)
+GeneName	MFSD1
+Length	161
+Function	Lysosomal dipeptide uniporter that selectively exports lysine, arginine or histidine-containing dipeptides with a net positive charge from the lysosome lumen into the cytosol. Could play a role in a specific type of protein O-glycosylation indirectly regulating macrophages migration and tissue invasion. Also essential for liver homeostasis.
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLVTPRPERGGRGTELGEFCGTPLLFSSYFCYDNPAALQTQVKRDMQVNTTKFMLLYAWYSWPNVVLCFFGGFLIDRVFGIRWGTIIFSCFVCIGQVVFALGGIFNAFWLMEFGRFVFGIGGESLAVAQNTYAVSWFKGKELNLVFGLQLSMARIGSTVN
+PTM	

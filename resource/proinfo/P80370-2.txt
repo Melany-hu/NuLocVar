@@ -1,0 +1,25 @@
+UniprotID	P80370-2
+Accession	P80370;P15803;Q96DW5
+EntryName	DLK1_HUMAN
+ProteinName	Protein delta homolog 1 (DLK-1) (pG2) [Cleaved into: Fetal antigen 1 (FA1)]
+GeneName	DLK1 DLK
+Length	310
+Function	May have a role in neuroendocrine differentiation.
+Subcellular Location	Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTATEALLRVLLLLLAFGHSTYGAECFPACNPQNGFCEDDNVCRCQPGWQGPLCDQCVTSPGCLHGLCGEPGQCICTDGWDGELCDRDVRACSSAPCANNRTCVSLDDGLYECSCAPGYSGKDCQKKDGPCVINGSPCQHGGTCVDDEGRASHASCLCPPGFSGNFCEIVANSCTPNPCENDGVCTDIGGDFRCRCPAGFIDKTCSRPVTNCASSPCQNGGTCLQHTQGQAICFTILGVLTSLVVLGTVGIVFLNKCETWVSNLRYNHMLRKKKNLLLQYNSGEDLAVNIIFPEKIDMTTFSKEAGDEEI
+PTM	Glycosylation:100;Methylation:286,294,329;Phosphorylation:4,353,355,372,373,375;Ubiquitylation:286,290,347,368

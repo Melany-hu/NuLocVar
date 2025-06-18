@@ -1,0 +1,25 @@
+UniprotID	Q96GC6-3
+Accession	Q96GC6;Q53XU4;Q6MZG1;Q8WY37;Q8WY38;Q92969;Q9UII0;Q9UII1
+EntryName	ZN274_HUMAN
+ProteinName	Neurotrophin receptor-interacting factor homolog (Zinc finger protein 274) (Zinc finger protein HFB101) (Zinc finger protein with KRAB and SCAN domains 19) (Zinc finger protein zfp2) (Zf2)
+GeneName	ZNF274 ZKSCAN19 SP2114
+Length	548
+Function	Probable transcription repressor. Specifically binds to the 3'-end of zinc-finger coding genes and recruiting chromatin-modifying proteins such as SETDB1 and TRIM28/KAP1, leading to transcription repression. The SETDB1-TRIM28-ZNF274 complex may play a role in recruiting ATRX to the 3'-exons of zinc-finger coding genes with atypical chromatin signatures to establish or maintain/protect H3K9me3 at these transcriptionally active regions (PubMed:27029610).
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	536...540
+validnes_region	
+nesbase_region	
+Sequence	MNIEVVEVLTLNQEVAGPRNAQIQALYAEDGSLSADAPSEQVQQQGKHPGDPEAARQRFRQFRYKDMTGPREALDQLRELCHQWLQPKARSKEQILELLVLEQFLGALPVKLRTWVESQHPENCQEVVALVEGVTWMSEEEVLPAGQPAEGTTCCLEVTAQQEEKQEDAAICPVTVLPEEPVTFQDVAVDFSREEWGLLGPTQRTEYRDVMLETFGHLVSVGWETTLENKELAPNSDIPEEEPAPSLKVQESSRDCALSSTLEDTLQGGVQEVQDTVLKQMESAQEKDLPQKKHFDNRESQANSGALDTNQVSLQKIDNPESQANSGALDTNQVLLHKIPPRKRLRKRDSQVKSMKHNSRVKIHQKSCERQKAKEGNGCRKTFSRSTKQITFIRIHKGSQVCRCSECGKIFRNPRYFSVHKKIHTGERPYVCQDCGKGFVQSSSLTQHQRVHSGERPFECQECGRTFNDRSAISQHLRTHTGAKPYKCQDCGKAFRQSSHLIRHQRTHTGERPYACNKCGKAFTQSSHLIGHQRTHNRTKRKKKQPTS
+PTM	Methylation:34,95,335;SUMOylation:353;Ubiquitylation:59,152,353

@@ -1,0 +1,25 @@
+UniprotID	H7C220
+Accession	H7C220
+EntryName	H7C220_HUMAN
+ProteinName	Anoctamin
+GeneName	ANO7
+Length	185
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAGGAFRGLRADGGGEPGRDPLPAVLQFGFVTIFVAACPLAPLFALLNNWVEIRLDARKFVCEYRRPVAERAQDIGIWFHILAGLTHLAVISNAFLLAFSSDFLPRAYYRWTRAHDLRGFLNFTLARAPSSFAAAHNRTCRYRAFRDDDGHYSQTYWNLLAIRLAFVIVFEHVVFSVGRLLDLLV
+PTM	

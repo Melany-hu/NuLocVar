@@ -1,0 +1,25 @@
+UniprotID	L0R5E9
+Accession	L0R5E9
+EntryName	L0R5E9_HUMAN
+ProteinName	Alternative protein ZEB1
+GeneName	ZEB1
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYQLDTCEWATKNRTQDISVFFTVSFSITRQSHTTTDTAKDRE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5TBK1-2
+Accession	Q5TBK1;A4QN21;Q5TBK0
+EntryName	N42L1_HUMAN
+ProteinName	NEDD4-binding protein 2-like 1
+GeneName	N4BP2L1 CG081
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDSFLQSFGRLSLQPQQQQQRQRPPRPPPRGTPPRRHSFRKHLYLLRGLPGSGKTTLARQLQHDFPRALIFSTDDFFFREDGAYEFNPDFLEEAHEWNQKRARKAMRNGISPIIIDNTNLHAWEMKPYAVMVFQTEQKNLFRLEMDMVVFRPEMKKHSWCLKRKNPPNERTV
+PTM	

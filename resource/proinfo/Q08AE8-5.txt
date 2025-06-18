@@ -1,0 +1,25 @@
+UniprotID	Q08AE8-5
+Accession	Q08AE8;A8K2B5;J3KQ50;J3KQR5;Q1RMD4;Q8NDP1;Q9NQ71;Q9ULT4
+EntryName	SPIR1_HUMAN
+ProteinName	Protein spire homolog 1 (Spir-1)
+GeneName	SPIRE1 KIAA1135 SPIR1
+Length	622
+Function	Acts as an actin nucleation factor, remains associated with the slow-growing pointed end of the new filament (PubMed:11747823, PubMed:21620703). Involved in intracellular vesicle transport along actin fibers, providing a novel link between actin cytoskeleton dynamics and intracellular transport (PubMed:11747823). Required for asymmetric spindle positioning and asymmetric cell division during meiosis (PubMed:21620703). Required for normal formation of the cleavage furrow and for polar body extrusion during female germ cell meiosis (PubMed:21620703). Also acts in the nucleus: together with FMN2, promotes assembly of nuclear actin filaments in response to DNA damage in order to facilitate movement of chromatin and repair factors after DNA damage (PubMed:26287480). In addition, promotes innate immune signaling downstream of dsRNA sensing (PubMed:35148361). Mechanistically, contributes to IRF3 phosphorylation and activation downstream of MAVS and upstream of TBK1 (PubMed:35148361).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Perinuclear region; Cell membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METEVIESLGIIIYKALDYGLKENEERELSPPLEQLIDHMANTVEADGSNDEGYEAAEEGLGDEDEKRKISAIRSYRDVMKLCAAHLPTESDAPNHYQAVCRALFAETMELHTFLTKIKSAKENLKKIQEMEKSDESSTDLEELKNADWARFWVQVMRDLRNGVKLKKVQERQYNPLPIEYQLTPYEMLMDDIRCKRYTLRKVMVNGDIPPRLKKSAHEIILDFIRSRPPLNPVSARKLKPTPPRPRSLHERILEEIKAERKLRPVSPEEIRRSRLDVTTPESTKNLVESSMVNGGLTSQTKENGLSTSQQVPAQRKKLLRAPTLAELDSSESEEETLHKSTSSSSVSPSFPEEPVLEAVSTRKKPPKFLPISSTPQPERRQPPQRRHSIEKETPTNVRQFLPPSRQSSRSLEEFCYPVECLALTVEEVMHIRQVLVKAELEKYQQYKDIYTALKKGKLCFCCRTRRFSFFTWSYTCQFCKRPVCSQCCKKMRLPSKPYSTLPIFSLGPSALQRGESSMRSEKPSTAHHRPLRSIARFSSKSKSMDKSDEELQFPKELMEDWSTMEVCVDCKKFISEIISSSRRSLVLANKRARLKRKTQSFYMSSPGPSEYCPSERTISEI
+PTM	Methylation:114,246,265,285,322,378,526,572,577,615,730;Phosphorylation:41,97,169,174,209,217,257,362,387,425,433,458,464,465,467,471,475,476,477,478,480,482,484,507,508,509,523,528,545,630,655,660,673,674,676,678,682,719,733,735,739,740;Ubiquitylation:142

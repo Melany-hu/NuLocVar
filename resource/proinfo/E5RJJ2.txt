@@ -1,0 +1,25 @@
+UniprotID	E5RJJ2
+Accession	E5RJJ2
+EntryName	E5RJJ2_HUMAN
+ProteinName	Scaffold protein involved in DNA repair
+GeneName	SPIDR
+Length	45
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRGSRARGSKKKELEYRMPILSRRKTTAGQKSRSQDSRGSCLSL
+PTM	

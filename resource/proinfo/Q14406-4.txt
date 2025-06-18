@@ -1,0 +1,25 @@
+UniprotID	Q14406-4
+Accession	Q14406;D3DU26;D3DU27;Q0VDB2
+EntryName	CSHL_HUMAN
+ProteinName	Chorionic somatomammotropin hormone-like 1 (Chorionic somatomammotropin-like) (Lactogen-like)
+GeneName	CSHL1 CSHP1 CSL
+Length	128
+Function	May be a novel gestational hormone required to compensate for absence of other members of the GH/CS cluster during gestation.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEETQQKSNLELLHISLLLIESRLEPVRFLRSTFTNNLVYDTSDSDDYHLLKDLEEGIQMLMGRLEDGSHLTGQTLKQTYSKFDTNSHNHDALLKNYGLLHCFRKDMDKVETFLRMVQCRSVEGSCGF
+PTM	Methylation:171,189

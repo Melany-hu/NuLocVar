@@ -1,0 +1,25 @@
+UniprotID	A0PK05-2
+Accession	A0PK05;A1L181;Q5T740
+EntryName	TMM72_HUMAN
+ProteinName	Transmembrane protein 72 (Kidney-specific secretory protein of 37 kDa)
+GeneName	TMEM72 C10orf127 KSP37
+Length	157
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIITGLAYFLLSKRKKRKAAPEVLASPEQYTDPSSSAVSTTGSGDTEQTYTFHGALKEGPSSLFIHMKSILKGTKKPSALQPPNTLMELSLEPADSLAKKKQVHFEDNLVRIVPSLAEGLDDGDSEPEETTSDTTPIIPPPQAPLFLSSLTATGLF
+PTM	Methylation:132,191;Phosphorylation:188

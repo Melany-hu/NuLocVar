@@ -1,0 +1,25 @@
+UniprotID	Q13309-4
+Accession	Q13309;A8K5E0;B4DJT4;Q8TDZ0;Q8TDZ1;Q9BV69
+EntryName	SKP2_HUMAN
+ProteinName	S-phase kinase-associated protein 2 (Cyclin-A/CDK2-associated protein p45) (F-box protein Skp2) (F-box/LRR-repeat protein 1) (p45skp2)
+GeneName	SKP2 FBXL1
+Length	210
+Function	Substrate recognition component of a SCF (SKP1-CUL1-F-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins involved in cell cycle progression, signal transduction and transcription (PubMed:11931757, PubMed:12435635, PubMed:12769844, PubMed:12840033, PubMed:15342634, PubMed:15668399, PubMed:15949444, PubMed:16103164, PubMed:16262255, PubMed:16581786, PubMed:16951159, PubMed:17908926, PubMed:17962192, PubMed:22464731, PubMed:22770219, PubMed:32267835). Specifically recognizes phosphorylated CDKN1B/p27kip and is involved in regulation of G1/S transition (By similarity). Degradation of CDKN1B/p27kip also requires CKS1 (By similarity). Recognizes target proteins ORC1, CDT1, RBL2, KMT2A/MLL1, CDK9, RAG2, NBN, FOXO1, UBP43, YTHDF2, and probably MYC, TOB1 and TAL1 (PubMed:11931757, PubMed:12435635, PubMed:12769844, PubMed:12840033, PubMed:15342634, PubMed:15668399, PubMed:15949444, PubMed:16103164, PubMed:16581786, PubMed:16951159, PubMed:17908926, PubMed:17962192, PubMed:22464731, PubMed:32267835). Degradation of TAL1 also requires STUB1 (PubMed:17962192). Recognizes CDKN1A in association with CCNE1 or CCNE2 and CDK2 (PubMed:16262255). Promotes ubiquitination and destruction of CDH1 in a CK1-dependent manner, thereby regulating cell migration (PubMed:22770219). Following phosphorylation in response to DNA damage, mediates 'Lys-63'-linked ubiquitination of NBN, promoting ATM recruitment to DNA damage sites and DNA repair via homologous recombination (PubMed:22464731).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	67..73
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQPLAEHFSTLAKNSNLVRLNLSGCSGFSEFALQTLLSSCSRLDELNLSWCFDFTEKHVQVAVAHVSETITQLNLSGYRKNLQKSDLSTLVRRCPNLVHLDLSDSVMLKNDCFQEFFQLNYLQHLSLSRCYDIIPETLLELGEIPTLKTLQVFGIVPDGTLQLLKEALPHLQINCSHFTTIARPTIGNKKNQEIWGIKCRLTLQKPSCL
+PTM	Acetylation:77,420;Methylation:43,119,380;Phosphorylation:48,57,64,72,75,179,219;SUMOylation:28,43,77,125,207,299;Ubiquitylation:145,207,228,299

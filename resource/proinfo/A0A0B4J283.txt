@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J283
+Accession	A0A0B4J283
+EntryName	A0A0B4J283_HUMAN
+ProteinName	Leucine rich repeat containing 49
+GeneName	LRRC49
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPGKYRSVSGRAANNVNCGLHLVIQTSSLPEKNKVEFKLNKDTSSFPGRLLQHDLERNYSSRQDFTKNIKNVK
+PTM	

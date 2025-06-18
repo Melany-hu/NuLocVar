@@ -1,0 +1,25 @@
+UniprotID	Q99742-2
+Accession	Q99742;B4DR69;Q99632;Q9BY83
+EntryName	NPAS1_HUMAN
+ProteinName	Neuronal PAS domain-containing protein 1 (Neuronal PAS1) (Basic-helix-loop-helix-PAS protein MOP5) (Class E basic helix-loop-helix protein 11) (bHLHe11) (Member of PAS protein 5) (PAS domain-containing protein 5)
+GeneName	NPAS1 BHLHE11 MOP5 PASD5
+Length	234
+Function	May control regulatory pathways relevant to schizophrenia and to psychotic illness. May play a role in late central nervous system development by modulating EPO expression in response to cellular oxygen level (By similarity). Forms a heterodimer that binds core DNA sequence 5'-TACGTG-3' within the hypoxia response element (HRE) leading to transcriptional repression on its target gene TH (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTGSSVFDYIHPGDHSEVLEQLGLRTPTPGPPTPPSVSSSSSSSSSLADTPEIEASLTKVPPSSLVQERSFFVRMKSTLTKRGLHVKASGYKVIHVTGRLRAHALGLVALGHTLPPAPLAELPLHGHMIVFRLSLGLTILACESRVSDHMDLGPSELVGRSCYQFVHGQDATRIRQSHVDSCRGLRVAAVCGHSGWEREEPRGAPCALGQPRAQPSRGWPNSFGCLPASSQRGL
+PTM	Methylation:47,70,360,504;Phosphorylation:253,254,478;SUMOylation:464

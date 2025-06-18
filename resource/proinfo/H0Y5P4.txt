@@ -1,0 +1,25 @@
+UniprotID	H0Y5P4
+Accession	H0Y5P4
+EntryName	H0Y5P4_HUMAN
+ProteinName	MLLT10 histone lysine methyltransferase DOT1L cofactor
+GeneName	MLLT10
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	38...43
+validnes_region	
+nesbase_region	
+Sequence	XSQPKSFENSPGDLGNSSLPTAGYKRAQTSGIEEETVKEKKRKGNKQSKHGPGRPKGNKNQENVSHLSVSSASPTSSVASAAGSITSSSLQKSPTLLRNGSLQSLSVGSSPVGSEISMQYRHDGACPTTSIYNSNDVAVSFPNVVSGSGSSTPVSSSHLPQQSSGHLQQVGALSPSAVS
+PTM	

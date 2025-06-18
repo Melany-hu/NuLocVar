@@ -1,0 +1,25 @@
+UniprotID	Q9Y237-2
+Accession	Q9Y237;A8E0G6;B3KXM0;F5H1P5;Q0D2H3;Q3MHV0;Q52M21;Q5HYW6;Q6IRW4
+EntryName	PIN4_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4 (EC 5.2.1.8) (Parvulin-14) (Par14) (hPar14) (Parvulin-17) (Par17) (hPar17) (Peptidyl-prolyl cis-trans isomerase Pin4) (PPIase Pin4) (Peptidyl-prolyl cis/trans isomerase EPVH) (hEPVH) (Rotamase Pin4)
+GeneName	PIN4
+Length	156
+Function	Isoform 1 is involved as a ribosomal RNA processing factor in ribosome biogenesis. Binds to tightly bent AT-rich stretches of double-stranded DNA.
+Subcellular Location	Nucleus; Nucleolus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Mitochondrion; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMAGLLKGLVRQLERFSVQQQASKMPPKGKSGSGKAGKGGAASGSDSADKKAQGPKGGGNAVKVRHILCEKHGKIMEAMEKLKSGMRFNEVAAQYSEDKARQGGDLGWMTRGSMVGPFQEAAFALPVSGMDKPVFTDPPVKTKFGYHIIMVEGRK
+PTM	Acetylation:26,47,75,119;Phosphorylation:21,122;Ubiquitylation:32,47

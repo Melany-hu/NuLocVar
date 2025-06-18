@@ -1,0 +1,25 @@
+UniprotID	P68106-2
+Accession	P68106;Q13664;Q16645;Q53TM2;Q9BQ40
+EntryName	FKB1B_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase FKBP1B (PPIase FKBP1B) (EC 5.2.1.8) (12.6 kDa FK506-binding protein) (12.6 kDa FKBP) (FKBP-12.6) (FK506-binding protein 1B) (FKBP-1B) (Immunophilin FKBP12.6) (Rotamase) (h-FKBP-12)
+GeneName	FKBP1B FKBP12.6 FKBP1L FKBP9 OTK4
+Length	80
+Function	Has the potential to contribute to the immunosuppressive and toxic effects of FK506 and rapamycin. PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides.
+Subcellular Location	Cytoplasm; Sarcoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVEIETISPGDGRTFPKKGQTCVVHYTGMLQNGKKFDSSRDRNKPFKFRIGKQEVIKGFEEGAAQLGPLSPLPICPHPC
+PTM	Acetylation:36;Methylation:58

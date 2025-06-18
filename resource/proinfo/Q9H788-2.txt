@@ -1,0 +1,25 @@
+UniprotID	Q9H788-2
+Accession	Q9H788;B4DDR1;Q5XKC1;Q6NXE9;Q86YM2;Q96C88;Q9H7F7
+EntryName	SH24A_HUMAN
+ProteinName	SH2 domain-containing protein 4A (Protein SH(2)A) (Protein phosphatase 1 regulatory subunit 38)
+GeneName	SH2D4A PPP1R38 SH2A
+Length	409
+Function	Inhibits estrogen-induced cell proliferation by competing with PLCG for binding to ESR1, blocking the effect of estrogen on PLCG and repressing estrogen-induced proliferation. May play a role in T-cell development and function.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRVIEPPCPGAPSTENGKSVHWKLGADKEVWVWVMGEHHLDKPYDVLCNEIIAERARLKAEQEAEEPRKTHSEEFTNSLKTKSQYHDLQAPDNQQTKDIWKKVAEKEELEQGSRPAPTLEEEKIRSLSSSSRNIQQMLADSINRMKAYAFHQKKESMKKKQDEEINQIEEERTKQICKSWKEDSEWQASLRKSKAADEKRRSLAKQAREDYKRLSLGAQKGRGGERLQSPLRVPQKPERPPLPPKPQFLNSGAYPQKPLRNQGVVRTLSSSAQEDIIRWFKEEQLPLRAGYQKTSDTIAPWFHGILTLKKANELLLSTGMPGSFLIRVSERIKGYALSYLSEDGCKHFLIDASADAYSFLGVDQLQHATLADLVEYHKEEPITSLGKELLLYPCGQQDQLPDYLELFE
+PTM	Acetylation:152,169,303;Methylation:24,74,105,128,238,266,355;Phosphorylation:51,118,122,124,129,131,187,230,235,261,275,313,315,316,317,353;SUMOylation:49,59,105,152,169,199,206,327;Ubiquitylation:55,105,169,199,206,251,266,303,327,339,356

@@ -1,0 +1,25 @@
+UniprotID	P54710-2
+Accession	P54710;Q15332;Q53YC1;Q9GZP3;Q9GZQ7
+EntryName	ATNG_HUMAN
+ProteinName	Sodium/potassium-transporting ATPase subunit gamma (Na(+)/K(+) ATPase subunit gamma) (FXYD domain-containing ion transport regulator 2) (Sodium pump gamma chain)
+GeneName	FXYD2 ATP1C ATP1G1
+Length	64
+Function	May be involved in forming the receptor site for cardiac glycoside binding or may modulate the transport function of the sodium ATPase.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRWYLGGSPKGDVDPFYYDYETVRNGGLIFAGLAFIVGLLILLSRRFRCGGNKKRRQINEDEP
+PTM	Phosphorylation:2,11

@@ -1,0 +1,25 @@
+UniprotID	Q04900-3
+Accession	Q04900;B4DQ85;E1P5E7;E1P5E8;E1P5E9;O95413;Q5JSU6;Q9BPV0;Q9NR26
+EntryName	MUC24_HUMAN
+ProteinName	Sialomucin core protein 24 (MUC-24) (Endolyn) (Multi-glycosylated core protein 24) (MGC-24) (MGC-24v) (CD antigen CD164)
+GeneName	CD164
+Length	184
+Function	Sialomucin that may play a key role in hematopoiesis by facilitating the adhesion of CD34(+) cells to the stroma and by negatively regulating CD34(+)CD38(lo/-) cell proliferation. Modulates the migration of umbilical cord blood CD133+ cells and this is mediated through the CXCL12/CXCR4 axis. May play an important role in prostate cancer metastasis and the infiltration of bone marrow by cancer cells. Promotes myogenesis by enhancing CXCR4-dependent cell motility. Positively regulates myoblast migration and promotes myoblast fusion into myotubes (By similarity).
+Subcellular Location	Lysosome membrane; Endosome membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRLSRSLLWAATCLGVLCVLSADKNTTQHPNVTTLAPISNVTSAPVTSLPLVTTPAPETCEGRNSCVSCFNVSVVNTTCFWIECKDESYCSHNSTVSDCQVGNTTDFCSAKPTVQPSPSTTSKTVTTSGTTNNTVTPTSQPVRKSTFDAASFIGGIVLVLGVQAVIFFLYKFCKSKERNYHTL
+PTM	Glycosylation:54,55,94,104,146,147,148,150,152;Phosphorylation:134,135,136,194,196

@@ -1,0 +1,25 @@
+UniprotID	B8ZZL5
+Accession	B8ZZL5
+EntryName	B8ZZL5_HUMAN
+ProteinName	Microtubule interacting and trafficking domain containing 1
+GeneName	MITD1
+Length	197
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKSGLRQDPQSTAAATVLKRAVELDSESRYPQALVCYQEGIDLLLQVLKGTKDNTKRCNLREKISKYMDRAENIKKYLDQEKEDGKYHKQIKIEENATGFSYESLFREYLNETVTEVWIEDPYIRHTHQGIEQVQQSRGLQEIEESLRSHGVLLEVQYSSSIHDREIRFNNGWMIKIGRGLDYFKKPQSRFSLGYC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q01534-2
+Accession	Q01534;A6NJD2;O00216;P09002;Q0VAD3;Q9UNN7
+EntryName	TSPY1_HUMAN
+ProteinName	Testis-specific Y-encoded protein 1 (Cancer/testis antigen 78) (CT78)
+GeneName	TSPY1 TSPY
+Length	294
+Function	May be involved in sperm differentiation and proliferation.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPEGSLTYRVPERLRQGFCGVGRAAQALVCASAKEGTAFRMEAVQEGAAGVESEQAALGEEAVLLLDDIMAEVEVVAEEEGLVERREEAQRAQQAVPGPGPMTPESAPEELLAVQVELEPVNAQARKAFSRQREKMERRRKPHLDRRGAVIQSVPGFWANVIANHPQMSALITDEDEDMLSYMVSLEVGEEKHPVHLCKIMLFFRSNPYFQNKVITKEYLVNITEYRASHSTPIEWYPDYEVEAYRRRHHNSSLNFFNWFSDHNFAGSNKIAESPDRSYVRTCGAIPCNTTRG
+PTM	Methylation:278

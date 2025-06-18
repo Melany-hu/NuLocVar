@@ -1,0 +1,25 @@
+UniprotID	P16070-11
+Accession	P16070;A5YRN9;B6EAT9;D3DR12;D3DR13;O95370;P22511;Q04858;Q13419;Q13957;Q13958;Q13959;Q13960;Q13961;Q13967;Q13968;Q13980;Q15861;Q16064;Q16065;Q16066;Q16208;Q16522;Q86T72;Q86Z27;Q8N694;Q92493;Q96J24;Q9H5A5;Q9UC28;Q9UC29;Q9UC30;Q9UCB0;Q9UJ36
+EntryName	CD44_HUMAN
+ProteinName	CD44 antigen (CDw44) (Epican) (Extracellular matrix receptor III) (ECMR-III) (GP90 lymphocyte homing/adhesion receptor) (HUTCH-I) (Heparan sulfate proteoglycan) (Hermes antigen) (Hyaluronate receptor) (Phagocytic glycoprotein 1) (PGP-1) (Phagocytic glycoprotein I) (PGP-I) (CD antigen CD44)
+GeneName	CD44 LHR MDU2 MDU3 MIC4
+Length	429
+Function	Cell-surface receptor that plays a role in cell-cell interactions, cell adhesion and migration, helping them to sense and respond to changes in the tissue microenvironment (PubMed:16541107, PubMed:19703720, PubMed:22726066). Participates thereby in a wide variety of cellular functions including the activation, recirculation and homing of T-lymphocytes, hematopoiesis, inflammation and response to bacterial infection (PubMed:7528188). Engages, through its ectodomain, extracellular matrix components such as hyaluronan/HA, collagen, growth factors, cytokines or proteases and serves as a platform for signal transduction by assembling, via its cytoplasmic domain, protein complexes containing receptor kinases and membrane proteases (PubMed:18757307, PubMed:23589287). Such effectors include PKN2, the RhoGTPases RAC1 and RHOA, Rho-kinases and phospholipase C that coordinate signaling pathways promoting calcium mobilization and actin-mediated cytoskeleton reorganization essential for cell migration and adhesion (PubMed:15123640).
+Subcellular Location	Cell membrane; Cell projection; Microvillus; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDKFWWHAAWGLCLVPLSLAQIDLNITCRFAGVFHVEKNGRYSISRTEAADLCKAFNSTLPTMAQMEKALSIGFETCRYGFIEGHVVIPRIHPNSICAANNTGVYILTSNTSQYDTYCFNASAPPEEDCTSVTDLPNAFDGPITITIVNRDGTRYVQKGEYRTNPEDIYPSNPTDDDVSSGSSSERSSTSGGYIFYTFSTVHPIPDEDSPWITDSTDRIPATNRNDVTGGRRDPNHSEGSTTLLEGYTSHYPHTKESRTFIPVTSAKTGSFGVTAVTVGDSNSNVNRSLSGDQDTFHPSGGSHTTHGSESDGHSHGSQEGGANTTSGPIRTPQIPEWLIILASLLALALILAVCIAVNSRRRCGQKKKLVINSGNGAVEDRKPSGLNGEASKSQEMVHLVNKESSETPDQFMTADETRNLQNVDMKIGV
+PTM	Acetylation:38,158,739;Glycosylation:57,550,553,554,555,560,561,562,567,570,595,597,599,637,638;Methylation:38,54,681,695,705,715;Phosphorylation:174,179,180,182,183,184,252,686,697,704,706,717,718,720,726;SUMOylation:158,680,681,695,705,715;Ubiquitylation:38,54,68,158,679,681,695,705,715,739

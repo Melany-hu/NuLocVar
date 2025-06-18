@@ -1,0 +1,25 @@
+UniprotID	A0A2I6U1L6
+Accession	A0A2I6U1L6
+EntryName	A0A2I6U1L6_HUMAN
+ProteinName	Galactosamine (N-acetyl)-6-sulfatase
+GeneName	GALNS
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HLGHRPQFHPLKHGFDEWFGSPNCHFGPYDNKARPNIPVCRDWEMVG
+PTM	

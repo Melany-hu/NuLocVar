@@ -1,0 +1,25 @@
+UniprotID	D6R981
+Accession	D6R981
+EntryName	D6R981_HUMAN
+ProteinName	Solute carrier family 35 member B1
+GeneName	SLC35B1
+Length	227
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCDQCCVCQDLVDRTRSWLYAACSISYLGAMVSSNSALQFVNYPTQVLGKSCKPIPVMLLGVTLLKKKYPLAKYLCVLLIVAGVALFMYKPKKVVGIEEHTVGYGELLLLLSLTLDGLTGVSQDHMRAHYQTGSNHMMLNINLWSTLLLGMGILFTGELWEFLSFAERYPAIIYNILLFGLTSALGQSFIFMTVVYFGPLTCSIITTTRKFFTILASVILFANPISP
+PTM	

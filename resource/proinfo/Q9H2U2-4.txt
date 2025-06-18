@@ -1,0 +1,25 @@
+UniprotID	Q9H2U2-4
+Accession	Q9H2U2;B4DLP7;F8WDN9;I6L9B6;Q4W5E9;Q6PG51;Q8TBW0;Q96E55;Q9H0T0;Q9NX37;Q9P033;Q9ULX0
+EntryName	IPYR2_HUMAN
+ProteinName	Inorganic pyrophosphatase 2, mitochondrial (EC 3.6.1.1) (Pyrophosphatase SID6-306) (Pyrophosphate phospho-hydrolase 2) (PPase 2)
+GeneName	PPA2 HSPC124
+Length	168
+Function	Hydrolyzes inorganic pyrophosphate (PubMed:27523597). This activity is essential for correct regulation of mitochondrial membrane potential, and mitochondrial organization and function (PubMed:27523598).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSALLRLLRTGAPAAACLRLGTSAGTGSRRAMALYHTEERGQPCSQNYRLFFNIDDVKKFKPGYLEATLNWFRLYKVPDGKPENQFAFNGEFKNKAFALEVIKSTHQCWKALLMKKCNGGAINCTNVQISDSPFRCTQEEARSLVESVSSSPNKESNEEEQVWHFLGK
+PTM	Acetylation:53,69,81,105,111,118,122,155,157,216,224,225,242,259,261,269,276,320;Methylation:136,203,269;Phosphorylation:28,37,45,59,158,159,241,309,313,315,316,317,322

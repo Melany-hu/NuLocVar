@@ -1,0 +1,25 @@
+UniprotID	Q6FH24
+Accession	Q6FH24
+EntryName	Q6FH24_HUMAN
+ProteinName	Prefoldin subunit 3
+GeneName	VBP1 hCG_17616
+Length	160
+Function	Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQPGNETADTVLKKLDEQYQKYKFMELNLAQKKRRLKGQIPEIKQTLEILKYMQKKKESTNSMETRFLLADNLYCKASVPPTDKVCLWLGANVMLEYDIDEAQALLEKNLSTATKNLDSLEEDLDFLRDQFTTTEVNMARVYNWDVKRRNKDDSTKNKA
+PTM	

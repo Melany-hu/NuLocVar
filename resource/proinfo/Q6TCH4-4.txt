@@ -1,0 +1,25 @@
+UniprotID	Q6TCH4-4
+Accession	Q6TCH4;B7Z9R9;D3DVB4;D3DVB6;Q5TCK9;Q6PDU0;Q7Z4Q7;Q7Z4Q9;Q8N121;Q8N3M2;Q9H621
+EntryName	PAQR6_HUMAN
+ProteinName	Membrane progestin receptor delta (mPR delta) (Membrane progesterone P4 receptor delta) (Membrane progesterone receptor delta) (Progesterone and adipoQ receptor family member 6) (Progestin and adipoQ receptor family member 6)
+GeneName	PAQR6
+Length	320
+Function	Plasma membrane progesterone (P4) receptor coupled to G proteins (PubMed:23161870, PubMed:23763432). Seems to act through a G(s) mediated pathway (PubMed:23161870). Involved in neurosteroid inhibition of apoptosis (PubMed:23161870). May be involved in regulating rapid P4 signaling in the nervous system (PubMed:23763432). Also binds dehydroepiandrosterone (DHEA), pregnanolone, pregnenolone and allopregnanolone (PubMed:23161870, PubMed:23763432).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGYRRPTSSALDCVLSSFQMTNETVNIWTHFLPTWYFLWRLLALAGGPGFRAEPYHWPLLVFLLPACLYPFASCCAHTFSSMSPRMRHICYFLDYGALSLYSLGCAFPYAAYSMPASWLHGHLHQFFVPAAALNSFLCTGLSCYSRFLELESPGLSKVLRTGAFAYPFLFDNLPLFYRLGLCWGRGHGCGQEALSTSHGYHLFCALLTGFLFASHLPERLAPGRFDYIGHSHQLFHICAVLGTHFQLEAVLADMGSRRAWLATQEPALGLAGTVATLVLAAAGNLLIIAAFTATLLRAPSTCPLLQGGPLEGGTQAKQQ
+PTM	

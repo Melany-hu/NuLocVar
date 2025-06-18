@@ -1,0 +1,25 @@
+UniprotID	X6R9H3
+Accession	X6R9H3
+EntryName	X6R9H3_HUMAN
+ProteinName	Angiotensin II receptor associated protein
+GeneName	AGTRAP
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELPAVNLKCASSSVPRNHPHVILLGHWLLTTCFWRHFSAKPRLETIELTCALCKLRSAAHRATAGLHCILRLLCLGQLHHPGLGRVGCGSAGLHRRHKHVSGWLAGHHLPGHRAHQHLLPAGQPHGHGPLWRGHGHPQLAAQAALLLLRLPHVPGARG
+PTM	

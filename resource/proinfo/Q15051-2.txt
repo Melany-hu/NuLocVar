@@ -1,0 +1,25 @@
+UniprotID	Q15051-2
+Accession	Q15051;Q3KS08;Q3KS09;Q5DKQ7;Q8NI79;Q9BS08
+EntryName	IQCB1_HUMAN
+ProteinName	IQ calmodulin-binding motif-containing protein 1 (Nephrocystin-5) (p53 and DNA damage-regulated IQ motif protein) (PIQ)
+GeneName	IQCB1 KIAA0036 NPHP5 OK/SW-cl.85
+Length	465
+Function	Involved in ciliogenesis. The function in an early step in cilia formation depends on its association with CEP290/NPHP6 (PubMed:21565611, PubMed:23446637). Involved in regulation of the BBSome complex integrity, specifically for presence of BBS2 and BBS5 in the complex, and in ciliary targeting of selected BBSome cargos. May play a role in controlling entry of the BBSome complex to cilia possibly implicating CEP290/NPHP6 (PubMed:25552655).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPTGTDPRILSIAAEVAKSPEQNVPVILLKLKEIINITPLGSSELKKIKQDIYCYDLIQYCLLVLSQDYSRIQGGWTTISQLTQILSHCCVGLEPGEDAEEFYNELLPSAAENFLVLGRQLQTCFINAAKAEEKDELLHFFQIVTDSLFWLLGGHVELIQNVLQSDHFLHLLQADNVQIGSAVMMMLQNILQINRSKRSKMLLEINRQKEEEDLKLQLQLQRQRAMRLSRELQLSMLEIVHPGQVEKHYREMEEKSALIIQKHWRGYRERKNFHQQRQSLIEYKAAVTLQRAALKFLAKCRKKKKLFAPWRGLQELTDARRVELKKRVDDYVRRHLGSPMSDVVSRELHAQAQERLQHYFMGRALEERAQQHREALIAQISTNVEQLMKAPSLKEAEGKEPELFLSRSRPVAAKAKQAHLTTLKHIQAPWWKKLGEESGDEIDVPKDELSIELENLFIGGTKPP
+PTM	Methylation:19,31,263,326,381,396,418,459,523,541;Phosphorylation:4,6,12,327,363,472,572;SUMOylation:293;Ubiquitylation:31,47,263,405,429,533,548

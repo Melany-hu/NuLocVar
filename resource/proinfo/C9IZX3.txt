@@ -1,0 +1,25 @@
+UniprotID	C9IZX3
+Accession	C9IZX3
+EntryName	C9IZX3_HUMAN
+ProteinName	Immunoglobulin superfamily member 11
+GeneName	IGSF11
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTPLSNANQPEQVILYQGGQMFDGAPRFHGRVGFTGTMPATNVSIFINNTQLSDTGTY
+PTM	

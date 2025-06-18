@@ -1,0 +1,25 @@
+UniprotID	Q9NZ81-2
+Accession	Q9NZ81;Q0V8U0;Q6FIG7;Q6MZP8;Q6NXQ6;Q6PKF9
+EntryName	PRR13_HUMAN
+ProteinName	Proline-rich protein 13 (Taxane-resistance protein)
+GeneName	PRR13 TXR1 BM-041
+Length	98
+Function	Negatively regulates TSP1 expression at the level of transcription. This down-regulation was shown to reduce taxane-induced apoptosis.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWNPNAGGPPHPVPQPGYPGCQPLGPYPPPYPPPAPGIPPVNPLAPGMVGPAVIVDKKMQKKMKKAHKKMHKHQKHHKYHKHGKHSSSSSSSSSSDSD
+PTM	

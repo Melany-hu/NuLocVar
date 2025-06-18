@@ -1,0 +1,25 @@
+UniprotID	Q9H1X1-2
+Accession	Q9H1X1;A8K5T4;Q96NH9
+EntryName	RSPH9_HUMAN
+ProteinName	Radial spoke head protein 9 homolog
+GeneName	RSPH9 C6orf206 MRPS18AL1
+Length	306
+Function	Functions as part of axonemal radial spoke complexes that play an important part in the motility of sperm and cilia (PubMed:19200523). Essential for both the radial spoke head assembly and the central pair microtubule stability in ependymal motile cilia (By similarity). Required for motility of olfactory and neural cilia and for the structural integrity of ciliary axonemes in both 9+0 and 9+2 motile cilia (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cell projection; Kinocilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDADSLLLSLELASGSGQGLSPDRRASLLTSLMLVKRDYRYDRVLFWGRILGLVADYYIAQGLSEDQLAPRKTLYSLNCTEWSLLPPATEEMVAQSSVVKGRFMGDPSYEYEHTELQKVNEGEKVFEEEIVIDKAVAIIPRGALFKTPFGPTHVNRTFEGLSLSEAKKLSSYFHFREPVELKNKTLLEKADLDPSLDFMDSLEHDIPKGSEAVVQGDFTWLLSRCGFGWPCSWDSCSVSMRVLEHPDGEGQCPGGAAQPALAGPHLLPCSPHQELWLRLRGHWREEHGLALHAIEWEPAWMFLNRV
+PTM	Acetylation:197;Methylation:118,135,182,197,204,223;Phosphorylation:167

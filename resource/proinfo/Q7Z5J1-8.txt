@@ -1,0 +1,25 @@
+UniprotID	Q7Z5J1-8
+Accession	Q7Z5J1;Q05D45;Q52LF4;Q7Z5I9;Q7Z5J0;Q7Z5P5;Q7Z5P6;Q7Z5P7;Q7Z5P8
+EntryName	DHI1L_HUMAN
+ProteinName	Hydroxysteroid 11-beta-dehydrogenase 1-like protein (EC 1.1.1.-) (11-beta-hydroxysteroid dehydrogenase type 3) (11-DH3) (11-beta-HSD3) (Short chain dehydrogenase/reductase family 26C member 2) (Short-chain dehydrogenase/reductase 10)
+GeneName	HSD11B1L HSD3 SCDR10 SDR26C2
+Length	87
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVLLLTGLGALFFAYYWDDNFDPASLQGARVLLTGANAGVGEELAYHYARLGSHLVLTAHTEALLQKARWLTLVVSTLGGRGKWIT
+PTM	Methylation:68;Phosphorylation:217,260

@@ -1,0 +1,25 @@
+UniprotID	Q8TB05-2
+Accession	Q8TB05;Q71MF6
+EntryName	UBAD1_HUMAN
+ProteinName	UBA-like domain-containing protein 1
+GeneName	UBALD1 FAM100A PP11303
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLLTLQPPGMLWLMERGGLGKPRGPRHRGLLRVRLGRFISRLLLWEPLGGGQAWGSGEGTQSLPRMGQPRISPWEAVGAPPGRGAHPISPLFPSQMCTPANTPATPPNFPDALTMFSRLKASESFHSGGSGSPMAATATSPPPHFPHAATSSSAASSWPTAASPPGGPQHHQPQPPLWTPTPPSPASDWPPLAPQQATSEPRAHPAMEAER
+PTM	Methylation:9;Phosphorylation:2

@@ -1,0 +1,25 @@
+UniprotID	Q4VXA5-2
+Accession	Q4VXA5;Q5JSQ7;Q8WTV2;Q96NQ5
+EntryName	KHDC1_HUMAN
+ProteinName	KH homology domain-containing protein 1
+GeneName	KHDC1 C6orf147 C6orf148
+Length	164
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMGTSALSKKPWWTLPQNFHAPMVFHMEEDQEELIFGHGDTYLRCIEVHSHTLIQLESWFTATGQTRVTVVGPHRARQWLLHMFCCVGSQDSYHHARGLEMLERVRSQPLTNDDLVTSISVPPYTGDLSLAPRISGTVCLSVPQPSPYQVIGCSGFHLSSLYP
+PTM	Phosphorylation:79,82,203

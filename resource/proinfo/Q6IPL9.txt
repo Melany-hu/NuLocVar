@@ -1,0 +1,25 @@
+UniprotID	Q6IPL9
+Accession	Q6IPL9
+EntryName	Q6IPL9_HUMAN
+ProteinName	High mobility group protein HMG-I/HMG-Y (High mobility group AT-hook protein 1)
+GeneName	HMGA1
+Length	107
+Function	HMG-I/Y bind preferentially to the minor groove of A+T rich regions in double-stranded DNA. It is suggested that these proteins could function in nucleosome phasing and in the 3'-end processing of mRNA transcripts. They are also involved in the transcription regulation of genes containing, or in close proximity to A+T-rich regions.
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	27...32;23...28;44...49;46...51;24...30;26...31
+validnes_region	
+nesbase_region	
+Sequence	MSESSSKSSQPLASKQEKDGTEKRGRGRPRKQPPKEPSEVPTPKRPRGRPKGSKNKGAAKTRKTTTLHSTPAAAGLPWAEWGAVFPWPQFPAPPAHPRIHTCPPGQG
+PTM	

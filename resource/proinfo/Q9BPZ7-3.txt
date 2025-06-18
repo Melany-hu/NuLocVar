@@ -1,0 +1,25 @@
+UniprotID	Q9BPZ7-3
+Accession	Q9BPZ7;A8K1Z5;B1AMA4;B7Z309;Q00426;Q5JSV5;Q5JSV6;Q5JSV9;Q658R0;Q699U1;Q699U2;Q699U3;Q699U4;Q6GVJ0;Q6GVJ1;Q6GVJ2
+EntryName	SIN1_HUMAN
+ProteinName	Target of rapamycin complex 2 subunit MAPKAP1 (TORC2 subunit MAPKAP1) (Mitogen-activated protein kinase 2-associated protein 1) (Stress-activated map kinase-interacting protein 1) (SAPK-interacting protein 1) (mSIN1)
+GeneName	MAPKAP1 MIP1 SIN1
+Length	475
+Function	Component of the mechanistic target of rapamycin complex 2 (mTORC2), which transduces signals from growth factors to pathways involved in proliferation, cytoskeletal organization, lipogenesis and anabolic output (PubMed:15467718, PubMed:16919458, PubMed:16962653, PubMed:17043309, PubMed:21806543, PubMed:28264193, PubMed:28968999, PubMed:30837283, PubMed:35926713). In response to growth factors, mTORC2 phosphorylates and activates AGC protein kinase family members, including AKT (AKT1, AKT2 and AKT3), PKC (PRKCA, PRKCB and PRKCE) and SGK1 (PubMed:16919458, PubMed:16962653, PubMed:21806543, PubMed:28264193, PubMed:28968999, PubMed:30837283, PubMed:35926713). In contrast to mTORC1, mTORC2 is nutrient-insensitive (PubMed:16962653). Within the mTORC2 complex, MAPKAP1/SIN1 acts as a substrate adapter which recognizes and binds AGC protein kinase family members for phosphorylation by MTOR (PubMed:21806543, PubMed:28264193). mTORC2 plays a critical role in AKT1 activation by mediating phosphorylation of different sites depending on the context, such as 'Thr-450', 'Ser-473', 'Ser-477' or 'Thr-479', facilitating the phosphorylation of the activation loop of AKT1 on 'Thr-308' by PDPK1/PDK1 which is a prerequisite for full activation (PubMed:28264193, PubMed:35926713). mTORC2 catalyzes the phosphorylation of SGK1 at 'Ser-422' and of PRKCA on 'Ser-657' (PubMed:30837283, PubMed:35926713). The mTORC2 complex also phosphorylates various proteins involved in insulin signaling, such as FBXW8 and IGF2BP1 (By similarity). mTORC2 acts upstream of Rho GTPases to regulate the actin cytoskeleton, probably by activating one or more Rho-type guanine nucleotide exchange factors (PubMed:15467718). mTORC2 promotes the serum-induced formation of stress-fibers or F-actin (PubMed:15467718). MAPKAP1 inhibits MAP3K2 by preventing its dimerization and autophosphorylation (PubMed:15988011). Inhibits HRAS and KRAS independently of mTORC2 complex (PubMed:17303383, PubMed:34380736, PubMed:35522713). Enhances osmotic stress-induced phosphorylation of ATF2 and ATF2-mediated transcription (PubMed:17054722). Involved in ciliogenesis, regulates cilia length through its interaction with CCDC28B independently of mTORC2 complex (PubMed:23727834).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Early endosome membrane; Late endosome membrane; Lysosome membrane; Golgi apparatus membrane; Mitochondrion outer membrane; Cytoplasm; Perinuclear region; Nucleus; Cell membrane; Nucleus; Cell membrane; Nucleus; Cell membrane; Cytoplasm; Cytosol; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFLDNPTIILAHIRQSHVTSDDTGMCEMVLIDHDVDLEKIHPPSMPGDSGSEIQGSNGETQGYVYAQSVDITSSWDFGIRRRSNTAQRLERLRKERQNQIKCKNIQWKERNSKQSAQELKSLFEKKSLKEKPPISGKQSILSVRLEQCPLQLNNPFNEYSKFDGKGHVGTTATKKIDVYLPLHSSQDRLLPMTVVTMASARVQDLIGLICWQYTSEGREPKLNDNVSAYCLHIAEDDGEVDTDFPPLDSNEPIHKFGFSTLALVEKYSSPGLTSKESLFVRINAAHGFSLIQVDNTKVTMKEILLKAVKRRKGSQKVSGPQYRLEKQSEPNVAVDLDSTLESQSAWEFCLVRENSISGDKVEIDPVTNQKASTKFWIKQKPISIDSDLLCACDLAEEKSPSHAIFKLTYLSNHDYKHLYFESDAATVNEIVLKVNYILESRASTARADYFAQKQRKLNRRTSFSFQKEKKSGQQ
+PTM	Methylation:40,121,267,307,481;Phosphorylation:84,86,161,180,185,186,268,269,270,315,319,323,389,431,434,488,491,509,510,512;SUMOylation:114;Ubiquitylation:132,162,418,501

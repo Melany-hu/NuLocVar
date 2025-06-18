@@ -1,0 +1,25 @@
+UniprotID	Q8N3C0-3
+Accession	Q8N3C0;E7EW23;O43738;Q4G1A0;Q5VTN2;Q9H1I9;Q9H5A2;Q9NTR0
+EntryName	ASCC3_HUMAN
+ProteinName	Activating signal cointegrator 1 complex subunit 3 (EC 3.6.4.12) (ASC-1 complex subunit p200) (ASC1p200) (Helicase, ATP binding 1) (Trip4 complex subunit p200)
+GeneName	ASCC3 HELIC1 RQT2
+Length	111
+Function	ATPase involved both in DNA repair and rescue of stalled ribosomes (PubMed:22055184, PubMed:28757607, PubMed:32099016, PubMed:32579943, PubMed:36302773). 3'-5' DNA helicase involved in repair of alkylated DNA: promotes DNA unwinding to generate single-stranded substrate needed for ALKBH3, enabling ALKBH3 to process alkylated N3-methylcytosine (3mC) within double-stranded regions (PubMed:22055184). Also involved in activation of the ribosome quality control (RQC) pathway, a pathway that degrades nascent peptide chains during problematic translation (PubMed:28757607, PubMed:32099016, PubMed:32579943, PubMed:36302773). Drives the splitting of stalled ribosomes that are ubiquitinated in a ZNF598-dependent manner, as part of the ribosome quality control trigger (RQT) complex (PubMed:28757607, PubMed:32099016, PubMed:32579943, PubMed:36302773). Part of the ASC-1 complex that enhances NF-kappa-B, SRF and AP1 transactivation (PubMed:12077347).
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALPRLTGALRSFSNVTKQDNYNEEVADLKIKRSKLHEQVLDLGLTWKKIIKFLNEKLEKSKMQSINEDLKDILHAAKQIEVNCPFQKRRLDGKEEDEKMSRASDRFRGLR
+PTM	Acetylation:30,52,572,860,1709,2022;Methylation:160,229,282,423,527,562,710,761,826,948,1017,1025,1100,1114,1118,1242,1382,1506,1663,1790,1825,1873,2124,2131;Phosphorylation:142,193,209,221,298,438,452,578,583,584,595,837,975,1139,1412,1417,1427,1551,1553,1563,1568,1915,2104,2193,2195,2197;SUMOylation:18,30,197,213,311,319,353,423,456,1416,1983;Ubiquitylation:18,30,57,62,78,116,197,198,213,217,236,311,319,334,338,370,414,423,436,472,475,572,594,689,710,761,834,860,938,1017,1025,1114,1150,1156,1171,1243,1369,1374,1382,1393,1399,1416,1420,1430,1482,1543,1556,1671,1700,1709,1914,2022,2095,2097,2131

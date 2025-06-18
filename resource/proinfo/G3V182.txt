@@ -1,0 +1,25 @@
+UniprotID	G3V182
+Accession	G3V182
+EntryName	G3V182_HUMAN
+ProteinName	HCG1653562, isoform CRA_g (Transmembrane protein 273)
+GeneName	TMEM273 hCG_1653562
+Length	143
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQVACHPKKRGQPLLRPRARAAWTTGVVQEGRMRDVGGAQVLATGKTPGAEIDFKYALIGTAVGVAISAGFLALKICMIRRHLFDDDSSDLKSTPGGLSGEGCGARAWLCPTQRGTEGHSVMLATARMNPQAQSPTGCKGRQ
+PTM	

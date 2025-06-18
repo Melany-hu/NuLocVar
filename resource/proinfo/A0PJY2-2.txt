@@ -1,0 +1,25 @@
+UniprotID	A0PJY2-2
+Accession	A0PJY2;A0PJY3;A4D0W3;B4DUP9;B7ZM98
+EntryName	FEZF1_HUMAN
+ProteinName	Fez family zinc finger protein 1 (Zinc finger protein 312B)
+GeneName	FEZF1 FEZ ZNF312B
+Length	425
+Function	Transcription repressor. Involved in the axonal projection and proper termination of olfactory sensory neurons (OSN). Plays a role in rostro-caudal patterning of the diencephalon and in prethalamic formation. Expression is required in OSN to cell-autonomously regulate OSN axon projections. Regulates non-cell-autonomously the layer formation of the olfactory bulb development and the interneurons. May be required for correct rostral migration of the interneuron progenitors (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSSCHNATTKMLATAPARGNMMSTSKPLAFSIERIMARTPEPKALPVPHFLQGALPKGEPKHSLHLNSSIPCMIPFVPVAYDTSPKAGVTGSEPRKASLEAPAAPAAVPSAPAFSCSDLLNCALSLKGDLARDALPLQQYKLPKTYLAERNKLVVPAVEKYPSGVAFKDLSQAQLQHYMKESAQLLSEKIAFKTSDFSRGSPNAKPKVFTCEVCGKVFNAHYNLTRHMPVHTGARPFVCKVCGKGFRQASTLCRHKIIHTQEKPHKCNQCGKAFNRSSTLNTHTRIHAGYKPFVCEFCGKGFHQKGNYKNHKLTHSGEKQFKCNICNKAFHQVYNLTFHMHTHNDKKPFTCPTCGKGFCRNFDLKKHVRKLHDSSLGLARTPAGEPGTEPPPPLPQQPPMTLPPLQPPLPTPGPLQPGLHQGHQ
+PTM	Phosphorylation:26,84,85,126,238

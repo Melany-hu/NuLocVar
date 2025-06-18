@@ -1,0 +1,25 @@
+UniprotID	O75052-3
+Accession	O75052;B7ZLF5;O43564;Q3T551;Q5VU95
+EntryName	CAPON_HUMAN
+ProteinName	Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein (C-terminal PDZ ligand of neuronal nitric oxide synthase protein) (Nitric oxide synthase 1 adaptor protein)
+GeneName	NOS1AP CAPON KIAA0464
+Length	501
+Function	Adapter protein involved in neuronal nitric-oxide (NO) synthesis regulation via its association with nNOS/NOS1. The complex formed with NOS1 and synapsins is necessary for specific NO and synapsin functions at a presynaptic level. Mediates an indirect interaction between NOS1 and RASD1 leading to enhance the ability of NOS1 to activate RASD1. Competes with DLG4 for interaction with NOS1, possibly affecting NOS1 activity by regulating the interaction between NOS1 and DLG4 (By similarity). In kidney podocytes, plays a role in podosomes and filopodia formation through CDC42 activation (PubMed:33523862).
+Subcellular Location	Cell projection; Filopodium; Cell projection; Podosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	67...72
+validnes_region	
+nesbase_region	
+Sequence	MPSKTKYNLVDDGHDLRIPLHNEDAFQHGICFEAKYVGSLDVPRPNSRVEIVAAMRRIRYEFKAKNIKKKKVSIMVSVDGVKVILKKKKKKKEWTWDESKMLVMQDPIYRIFYVSHDSQDLKIFSYIARDGASNIFRCNVFKSKKKSQAMRIVRTVGQAFEVCHKLSLQHTQQNADGQEDGESERNSNSSGDPGRQLTGAERASTATAEETDIDAVEVPLPGNDVLEFSRGVTDLDAVGKEGGSHTGSKVSHPQEPMLTASPRMLLPSSSSKPPGLGTETPLSTHHQMQLLQQLLQQQQQQTQVAVAQVHLLKDQLAAEAAARLEAQARVHQLLLQNKDMLQHISLLVKQVQELELKLSGQNAMGSQDSLLEITFRSGALPVLCDPTTPKPEDLHSPPLGAGLADFAHPAGSPLGRRDCLVKLECFRFLPPEDTPPPAQGEALLGGLELIKFRESGIASEYESNTDESEERDSWSQEELPRLLNVLQRQELGDGLDDEIAV
+PTM	Methylation:82,86,96,127,245,343,354,456;Phosphorylation:73,176,188,192,194,195,203,209,210,212,238,249,251,253,256,264,266,364,371,374,379,439,460,464;SUMOylation:354;Ubiquitylation:96

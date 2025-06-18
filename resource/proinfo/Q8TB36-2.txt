@@ -1,0 +1,25 @@
+UniprotID	Q8TB36-2
+Accession	Q8TB36;A8K957;E7FJF3;E7FJF4
+EntryName	GDAP1_HUMAN
+ProteinName	Ganglioside-induced differentiation-associated protein 1 (GDAP1)
+GeneName	GDAP1
+Length	290
+Function	Regulates the mitochondrial network by promoting mitochondrial fission.
+Subcellular Location	Mitochondrion outer membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLNSTGEVPVLIHGENIICEATQIIDYLEQTFLDERTPRLMPDKESMYYPRVQHYRELLDSLPMDAYTHGCILHPELTVDSMIPAYATTRIRSQIGNTESELKKLAEENPDLQEAYIAKQKRLKSKLLDHDNVKYLKKILDELEKVLDQVETELQRRNEETPEEGQQPWLCGESFTLADVSLAVTLHRLKFLGFARRNWGNGKRPNLETYYERVLKRKTFNKVLGHVNNILISAVLPTAFRVAKKRAPKVLGTTLVVGLLAGVGYFAFMLFRKRLGSMILAFRPRPNYF
+PTM	Acetylation:203,259;Methylation:47,214;Phosphorylation:11,162,194,204;Ubiquitylation:19,47,172,188,190,195,203,207,272

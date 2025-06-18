@@ -1,0 +1,25 @@
+UniprotID	Q8N0X2-4
+Accession	Q8N0X2;Q498B7;Q658W1;Q68DB3;Q6I9Z6;Q8N9C7;Q9H601
+EntryName	SPG16_HUMAN
+ProteinName	Sperm-associated antigen 16 protein (Pf20 protein homolog)
+GeneName	SPAG16 PF20
+Length	183
+Function	Necessary for sperm flagellar function. Plays a role in motile ciliogenesis. May help to recruit STK36 to the cilium or apical surface of the cell to initiate subsequent steps of construction of the central pair apparatus of motile cilia (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cytoplasm; Cytoskeleton; Cilium axoneme; Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAQRGMPSSAVRVLEEALGMGLTAAGDARDTADAVAAEGAYYLEQVTITEASEDDYEYEEIPDDNFSIPEGEEDLAKAIQMAQEQATDTEILERKTVLPSKHAVPEVIEDFLCNFLIKMGMTRTLDCFQSEWYELIQKGVTELRTVGNVPDVYTQIMLLENENKNLKKDLKHYKQAAEYVIF
+PTM	Methylation:78,139,187,206,239,263,304,383,592;Phosphorylation:101,226,307,336;SUMOylation:96,102,165,187

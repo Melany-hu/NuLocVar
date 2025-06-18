@@ -1,0 +1,25 @@
+UniprotID	C9JHX4
+Accession	C9JHX4
+EntryName	C9JHX4_HUMAN
+ProteinName	Probable proton-coupled zinc antiporter SLC30A3 (Solute carrier family 30 member 3) (Zinc transporter 3)
+GeneName	SLC30A3
+Length	170
+Function	Probable proton-coupled zinc ion antiporter mediating the import of zinc from cytoplasm into synaptic vesicles and participating to cellular zinc ion homeostasis in the brain.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle membrane; Late endosome membrane; Lysosome membrane; Synapse; Synaptosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHRVVVVGRSLFTEPSEPLPEESKPVEMPFHHCHRDPLPPPGLTPERLHARRQLYAACAVCFVFMAGEVVGGYLAHSLAIMTDAAHLLADVGSMMGSLFSLWLSTRPATRTMTFGWHRSETLGALASVVSLWMVTGILLYLAFVRLLHSDYHIEGGAMLLTASIAVCANL
+PTM	

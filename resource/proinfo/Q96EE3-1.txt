@@ -1,0 +1,25 @@
+UniprotID	Q96EE3-1
+Accession	Q96EE3;A8K5B1;Q8NFU6;Q96MH3;Q9C069
+EntryName	SEH1_HUMAN
+ProteinName	Nucleoporin SEH1 (GATOR2 complex protein SEH1) (Nup107-160 subcomplex subunit SEH1) (SEC13-like protein)
+GeneName	SEH1L SEC13L SEH1
+Length	421
+Function	Component of the Nup107-160 subcomplex of the nuclear pore complex (NPC). The Nup107-160 subcomplex is required for the assembly of a functional NPC (PubMed:15146057, PubMed:17363900). The Nup107-160 subcomplex is also required for normal kinetochore microtubule attachment, mitotic progression and chromosome segregation. This subunit plays a role in recruitment of the Nup107-160 subcomplex to the kinetochore (PubMed:15146057, PubMed:17363900).
+Subcellular Location	Chromosome; Centromere; Kinetochore; Nucleus; Nuclear pore complex; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVARSIAADHKDLIHDVSFDFHGRRMATCSSDQSVKVWDKSESGDWHCTASWKTHSGSVWRVTWAHPEFGQVLASCSFDRTAAVWEEIVGESNDKLRGQSHWVKRTTLVDSRTSVTDVKFAPKHMGLMLATCSADGIVRIYEAPDVMNLSQWSLQHEISCKLSCSCISWNPSSSRAHSPMIAVGSDDSSPNAMAKVQIFEYNENTRKYAKAETLMTVTDPVHDIAFAPNLGRSFHILAIATKDVRIFTLKPVRKELTSSGGPTKFEIHIVAQFDNHNSQVWRVSWNITGTVLASSGDDGCVRLWKANYMDNWKCTGILKGNGSPVNGSSQQGTSNPSLGSTIPSLQNSLNGSSAGRYFFTPLDSPRAGSRWSSYAQLLPPPPPPLVEHSCDADTANLQYPHPRRRYLSRPLNPLPENEGI
+PTM	Acetylation:12,41,54,96,120,251,314;Methylation:196,306,320;Phosphorylation:31,32,52,114,115,179,189,190,259,260;SUMOylation:12,96,120,211;Ubiquitylation:12,37,96,105,120,211,251,255,306,314

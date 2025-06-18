@@ -1,0 +1,25 @@
+UniprotID	C9JMI8
+Accession	C9JMI8
+EntryName	C9JMI8_HUMAN
+ProteinName	TBC1 domain family member 25
+GeneName	TBC1D25
+Length	230
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATASGASDLSGSGAPPPGVGAQAAAAAEEEEREVVRVRVKHGDGAPGGLPHVFSPQKCESFLPPEFRSFAVDPQITSLDVLQHILIRAFDLSGKKNFGISYLGRDRLGQEVYLSLLSDWDLSTAFATASKPYLQLRVDIRPSEDSPLLEDWDIISPKDVIGSDVLLAEKRSSLTTAALPFTQSILTQVGRTLSKVQQVLSWSYGEDVKPFKPPLSDAEFHTYLNHEGQL
+PTM	

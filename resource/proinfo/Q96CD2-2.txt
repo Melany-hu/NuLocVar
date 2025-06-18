@@ -1,0 +1,25 @@
+UniprotID	Q96CD2-2
+Accession	Q96CD2;Q96SX0;Q9HC17
+EntryName	COAC_HUMAN
+ProteinName	Phosphopantothenoylcysteine decarboxylase (PPC-DC) (EC 4.1.1.36) (CoaC)
+GeneName	PPCDC COAC MDS018 UNQ9365/PRO34154
+Length	127
+Function	Catalyzes the decarboxylation of the cysteine moiety of 4-phosphopantothenoylcysteine to form 4'-phosphopantotheine and this reaction forms part of the biosynthesis of coenzyme A.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWKSRSDPVLHIDLRRWADLLLVAPLDANTLGKVASGICDNLLTCVMRAWDRSKPLLFCPAMNTAMWEHPITAQQVDQLKAFGYVEIPCVAKKLVCGDEGLGAMAEVGTIVDKVKEVLFQHSGFQQS
+PTM	Methylation:39,110,157;Phosphorylation:130

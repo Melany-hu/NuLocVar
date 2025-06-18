@@ -1,0 +1,25 @@
+UniprotID	J3QLC6
+Accession	J3QLC6
+EntryName	J3QLC6_HUMAN
+ProteinName	RAB34, member RAS oncogene family
+GeneName	RAB34
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMLRSSLRFPITNSAGLQLWDTAGQERFKCIASTYYRGAQAIIIVFNLNDVASLEHTKQWLADALKENDPSSVLLFLTPAQYALMEKDALQVAQEMKAEYWAVSSLTGENVREFFFRVAALTFEANVLAELEKSGARRIGDVVRINSDDSNLYLTA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P49238-4
+Accession	P49238;A0N0N6;B2R5Z4;J3KP17
+EntryName	CX3C1_HUMAN
+ProteinName	CX3C chemokine receptor 1 (C-X3-C CKR-1) (CX3CR1) (Beta chemokine receptor-like 1) (CMK-BRL-1) (CMK-BRL1) (Fractalkine receptor) (G-protein coupled receptor 13) (V28)
+GeneName	CX3CR1 CMKBRL1 GPR13
+Length	387
+Function	Receptor for the C-X3-C chemokine fractalkine (CX3CL1) present on many early leukocyte cells; CX3CR1-CX3CL1 signaling exerts distinct functions in different tissue compartments, such as immune response, inflammation, cell adhesion and chemotaxis (PubMed:12055230, PubMed:23125415, PubMed:9390561, PubMed:9782118). CX3CR1-CX3CL1 signaling mediates cell migratory functions (By similarity). Responsible for the recruitment of natural killer (NK) cells to inflamed tissues (By similarity). Acts as a regulator of inflammation process leading to atherogenesis by mediating macrophage and monocyte recruitment to inflamed atherosclerotic plaques, promoting cell survival (By similarity). Involved in airway inflammation by promoting interleukin 2-producing T helper (Th2) cell survival in inflamed lung (By similarity). Involved in the migration of circulating monocytes to non-inflamed tissues, where they differentiate into macrophages and dendritic cells (By similarity). Acts as a negative regulator of angiogenesis, probably by promoting macrophage chemotaxis (PubMed:14581400, PubMed:18971423). Plays a key role in brain microglia by regulating inflammatory response in the central nervous system (CNS) and regulating synapse maturation (By similarity). Required to restrain the microglial inflammatory response in the CNS and the resulting parenchymal damage in response to pathological stimuli (By similarity). Involved in brain development by participating in synaptic pruning, a natural process during which brain microglia eliminates extra synapses during postnatal development (By similarity). Synaptic pruning by microglia is required to promote the maturation of circuit connectivity during brain development (By similarity). Acts as an important regulator of the gut microbiota by controlling immunity to intestinal bacteria and fungi (By similarity). Expressed in lamina propria dendritic cells in the small intestine, which form transepithelial dendrites capable of taking up bacteria in order to provide defense against pathogenic bacteria (By similarity). Required to initiate innate and adaptive immune responses against dissemination of commensal fungi (mycobiota) component of the gut: expressed in mononuclear phagocytes (MNPs) and acts by promoting induction of antifungal IgG antibodies response to confer protection against disseminated C.albicans or C.auris infection (PubMed:29326275). Also acts as a receptor for C-C motif chemokine CCL26, inducing cell chemotaxis (PubMed:20974991).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREPLEAFKLADLDFRKSSLASGWRMASGAFTMDQFPESVTENFEYDDLAEACYIGDIVVFGTVFLSIFYSVIFAIGLVGNLLVVFALTNSKKPKSVTDIYLLNLALSDLLFVATLPFWTHYLINEKGLHNAMCKFTTAFFFIGFFGSIFFITVISIDRYLAIVLAANSMNNRTVQHGVTISLGVWAAAILVAAPQFMFTKQKENECLGDYPEVLQEIWPVLRNVETNFLGFLLPLLIMSYCYFRIIQTLFSCKNHKKAKAIKLILLVVIVFFLFWTPYNVMIFLETLKLYDFFPSCDMRKDLRLALSVTETVAFSHCCLNPLIYAFAGEKFRRYLYHLYGKCLAVLCGRSVHVDFSSSESQRSRHGSVLSSNFTYHTSDGDALLLL
+PTM	Methylation:257

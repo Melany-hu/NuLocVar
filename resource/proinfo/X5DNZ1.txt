@@ -1,0 +1,25 @@
+UniprotID	X5DNZ1
+Accession	X5DNZ1
+EntryName	X5DNZ1_HUMAN
+ProteinName	Ribosomal protein S6 kinase 90kDa polypeptide 2 isoform C
+GeneName	RPS6KA2
+Length	247
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPIAQLLELWKKIEVEPMEIETTEEDLNLDVGPATEDTAEEVVHRDLKPSNILYRDESGSPESIRVCDFGFAKQLRAGNGLLMTPCYTANFVAPEVLKRQGYDAACDIWSLGILLYTMLAGFTPFANGPDDTPEEILARIGSGKYALSGGNWDSISDAAKDVVSKMLHVDPHQRLTAMQVLKHPWVVNREYLSPNQLSRQDVHLVKGAMAATYFALNRTPQAPRLEPVLSSNLAQRRGMKRLTSTRL
+PTM	

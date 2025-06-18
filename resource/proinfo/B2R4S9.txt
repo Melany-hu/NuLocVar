@@ -1,0 +1,25 @@
+UniprotID	B2R4S9
+Accession	B2R4S9
+EntryName	B2R4S9_HUMAN
+ProteinName	Histone H2B
+GeneName	HIST1H2BE HIST1H2BC HIST1H2BF HIST1H2BG HIST1H2BI hCG_1640484 hCG_1640985 hCG_1641780 hCG_1787353 hCG_1787365
+Length	126
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	27...32;28...33
+validnes_region	
+nesbase_region	
+Sequence	MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+PTM	

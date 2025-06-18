@@ -1,0 +1,25 @@
+UniprotID	Q8NHE4-2
+Accession	Q8NHE4;A2T863;A2T8L7;B5MDP5;J3KQW7;Q6MZW1;Q75L47;Q7Z4R7;Q8N7I8
+EntryName	VA0E2_HUMAN
+ProteinName	V-type proton ATPase subunit e 2 (V-ATPase subunit e 2) (Lysosomal 9 kDa H(+)-transporting ATPase V0 subunit e2) (Vacuolar proton pump subunit e 2)
+GeneName	ATP6V0E2 ATP6V0E2L C7orf32
+Length	164
+Function	Subunit of the V0 complex of vacuolar(H+)-ATPase (V-ATPase), a multisubunit enzyme composed of a peripheral complex (V1) that hydrolyzes ATP and a membrane integral complex (V0) that translocates protons (By similarity). V-ATPase is responsible for acidifying and maintaining the pH of intracellular compartments and in some cell types, is targeted to the plasma membrane, where it is responsible for acidifying the extracellular environment (By similarity).
+Subcellular Location	Membrane; Cytoplasmic vesicle; Clathrin-coated vesicle membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAHSFALPVIIFTTFWGLVGIAGPWFVPKGPNRGVIITMLVATAVCCYLLCPALGMTVAPLSLTTPSSGPSPTQLCLVTSSLLLAPRDPDPQGLPGSWKSSQSSQPARALGSPGHSSGRGDVLLQYPHCSGVCPLSQGDAAGELVWVGSFPLQTGQMPGLSPS
+PTM	

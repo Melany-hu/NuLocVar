@@ -1,0 +1,25 @@
+UniprotID	Q96E93-2
+Accession	Q96E93;B7ZAM2;O43198;O75613
+EntryName	KLRG1_HUMAN
+ProteinName	Killer cell lectin-like receptor subfamily G member 1 (C-type lectin domain family 15 member A) (ITIM-containing receptor MAFA-L) (MAFA-like receptor) (Mast cell function-associated antigen)
+GeneName	KLRG1 CLEC15A MAFA MAFAL
+Length	189
+Function	Plays an inhibitory role on natural killer (NK) cells and T-cell functions upon binding to their non-MHC ligands. May mediate missing self recognition by binding to a highly conserved site on classical cadherins, enabling it to monitor expression of E-cadherin/CDH1, N-cadherin/CDH2 and R-cadherin/CDH4 on target cells.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDSVIYSMLELPTATQAQNDYGPQQKSSSSRPSCSCLVAIALGLLTAVLLSVLLYQWILCQGSNYSTCASCPSCPDRWMKYGNHCYYFSVEEKDWNSSLEFCLARDSHLLVITDNQEMSLLQVFLSEAFCWIGLRNNSGWRWEDGSPLNFSRISSNSFVQTCGAINKNGLQASSCEVPLHWVCKKVRL
+PTM	Phosphorylation:2,7,8,22,90

@@ -1,0 +1,25 @@
+UniprotID	Q9NQ86-2
+Accession	Q9NQ86;A1L3Z1;A6NDD0;B7Z3V4;B7ZAV7;E9PFI8;Q0P5Z9
+EntryName	TRI36_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM36 (EC 2.3.2.27) (RING finger protein 98) (RING-type E3 ubiquitin transferase TRIM36) (Tripartite motif-containing protein 36) (Zinc-binding protein Rbcc728)
+GeneName	TRIM36 RBCC728 RNF98
+Length	60
+Function	E3 ubiquitin-protein ligase which mediates ubiquitination and subsequent proteasomal degradation of target proteins. Involved in chromosome segregation and cell cycle regulation (PubMed:28087737). May play a role in the acrosome reaction and fertilization.
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Secretory vesicle; Acrosome; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSESGEMSEFGYIMELIAKGKMPDWRRGYRCRQGCGKTTELATATDFSQTGNKSGKHFKT
+PTM	Methylation:19,193,270,357,383,533;Phosphorylation:80,87,89,105,107,272,279,384,427,482,483,484,603,609,616,620,622,648,650,651,652;SUMOylation:275

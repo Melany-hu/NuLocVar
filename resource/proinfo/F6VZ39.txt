@@ -1,0 +1,25 @@
+UniprotID	F6VZ39
+Accession	F6VZ39
+EntryName	F6VZ39_HUMAN
+ProteinName	RNA-binding protein 38 (RNA-binding motif protein 38)
+GeneName	RBM38
+Length	123
+Function	
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHGSQKDTTFTKIFVGGLPYHTTDASLRKYFEGFGDIEEAVVITDRQTGKSRGYGFVTMADRAAAERACKDPNPIIDGRKANVNLAYLGAKPRSLQTGFAIGVQQLHPTLIQRTYGGDFMFRK
+PTM	

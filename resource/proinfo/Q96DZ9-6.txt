@@ -1,0 +1,25 @@
+UniprotID	Q96DZ9-6
+Accession	Q96DZ9;E9PH91;Q5PY48
+EntryName	CKLF5_HUMAN
+ProteinName	CKLF-like MARVEL transmembrane domain-containing protein 5 (Chemokine-like factor superfamily member 5)
+GeneName	CMTM5 CKLFSF5
+Length	125
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSARDRRDRHPEEGVVAELQGFAVDKAFLTSHKGILLETELALTLIIFICFTASISAYMAAALLEFFITLAFLFLYATQYYQRFDRINWPCLVFGIILVSIFAYDAFKIYRTEMAPGASQGDQQ
+PTM	Methylation:27;Phosphorylation:40,45,57

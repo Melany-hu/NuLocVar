@@ -1,0 +1,25 @@
+UniprotID	Q92570-3
+Accession	Q92570;A2A3I7;Q12935;Q14979;Q16420;Q4VXA8;Q4VXA9;Q9UEK2;Q9UEK3
+EntryName	NR4A3_HUMAN
+ProteinName	Nuclear receptor subfamily 4 group A member 3 (Mitogen-induced nuclear orphan receptor) (Neuron-derived orphan receptor 1) (Nuclear hormone receptor NOR-1)
+GeneName	NR4A3 CHN CSMF MINOR NOR1 TEC
+Length	637
+Function	Transcriptional activator that binds to regulatory elements in promoter regions in a cell- and response element (target)-specific manner. Induces gene expression by binding as monomers to the NR4A1 response element (NBRE) 5'-AAAAGGTCA-3' site and as homodimers to the Nur response element (NurRE) site in the promoter of their regulated target genes (By similarity). Plays a role in the regulation of proliferation, survival and differentiation of many different cell types and also in metabolism and inflammation. Mediates proliferation of vascular smooth muscle, myeloid progenitor cell and type B pancreatic cells; promotes mitogen-induced vascular smooth muscle cell proliferation through transactivation of SKP2 promoter by binding a NBRE site (By similarity). Upon PDGF stimulation, stimulates vascular smooth muscle cell proliferation by regulating CCND1 and CCND2 expression. In islets, induces type B pancreatic cell proliferation through up-regulation of genes that activate cell cycle, as well as genes that cause degradation of the CDKN1A (By similarity). Negatively regulates myeloid progenitor cell proliferation by repressing RUNX1 in a NBRE site-independent manner. During inner ear, plays a role as a key mediator of the proliferative growth phase of semicircular canal development (By similarity). Also mediates survival of neuron and smooth muscle cells; mediates CREB-induced neuronal survival, and during hippocampus development, plays a critical role in pyramidal cell survival and axonal guidance. Is required for S phase entry of the cell cycle and survival of smooth muscle cells by inducing CCND1, resulting in RB1 phosphorylation. Binds to NBRE motif in CCND1 promoter, resulting in the activation of the promoter and CCND1 transcription (By similarity). Also plays a role in inflammation; upon TNF stimulation, mediates monocyte adhesion by inducing the expression of VCAM1 and ICAM1 by binding to the NBRE consensus site (By similarity) (PubMed:20558821). In mast cells activated by Fc-epsilon receptor cross-linking, promotes the synthesis and release of cytokines but impairs events leading to degranulation (By similarity). Also plays a role in metabolism; by modulating feeding behavior; and by playing a role in energy balance by inhibiting the glucocorticoid-induced orexigenic neuropeptides AGRP expression, at least in part by forming a complex with activated NR3C1 on the AGRP- glucocorticoid response element (GRE), and thus weakening the DNA binding activity of NR3C1. Upon catecholamines stimulation, regulates gene expression that controls oxidative metabolism in skeletal muscle (By similarity). Plays a role in glucose transport by regulating translocation of the SLC2A4 glucose transporter to the cell surface (PubMed:24022864). Finally, during gastrulation plays a crucial role in the formation of anterior mesoderm by controlling cell migration. Inhibits adipogenesis (By similarity). Also participates in cardiac hypertrophy by activating PARP1 (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHDSIRFGNVDMPCVQAQYSPSPPGSSYAAQTYSSEYTTEIMNPDYTKLTMDLGSTEITATATTSLPSISTFVEGYSSNYELKPSCVYQMQRPLIKVEEGRAPSYHHHHHHHHHHHHHHQQQHQQPSIPPASSPEDEVLPSTSMYFKQSPPSTPTTPAFPPQAGALWDEALPSAPGCIAPGPLLDPPMKAVPTVAGARFPLFHFKPSPPHPPAPSPAGGHHLGYDPTAAAALSLPLGAAAAAGSQAAALESHPYGLPLAKRAAPLAFPPLGLTPSPTASSLLGESPSLPSPPSRSSSSGEGTCAVCGDNAACQHYGVRTCEGCKGFFKRTVQKNAKYVCLANKNCPVDKRRRNRCQYCRFQKCLSVGMVKEVVRTDSLKGRRGRLPSKPKSPLQQEPSQPSPPSPPICMMNALVRALTDSTPRDLDYSRYCPTDQAAAGTDAEHVQQFYNLLTASIDVSRSWAEKIPGFTDLPKEDQTLLIESAFLELFVLRLSIRSNTAEDKFVFCNGLVLHRLQCLRGFGEWLDSIKDFSLNLQSLNLDIQALACLSALSMITERHGLKEPKRVEELCNKITSSLKDHQSKGQALEPTESKVLGALVELRKICTLGLQRIFYLKLEDLVSPPSIIDKLFLDTLPF
+PTM	Methylation:85,317,463,518;Phosphorylation:366,376,611;SUMOylation:85,313,325,377;Ubiquitylation:325

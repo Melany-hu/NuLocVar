@@ -1,0 +1,25 @@
+UniprotID	O75897-2
+Accession	O75897;Q069I8;Q08AS5;Q53S63
+EntryName	ST1C4_HUMAN
+ProteinName	Sulfotransferase 1C4 (ST1C4) (EC 2.8.2.1) (Sulfotransferase 1C2) (SULT1C#2)
+GeneName	SULT1C4 SULT1C2
+Length	227
+Function	Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) as sulfonate donor to catalyze the sulfate conjugation of phenolic compounds. Can also sulfonate estrogenic compounds, however, the dietary flavonoids (phytoestrogen) and environmental estrogens, like bisphenol A are better substrates than 17beta-estradiol (E2) (PubMed:17425406, PubMed:26948952, PubMed:28222028, PubMed:9852044). Mediates the sulfation of doxorubicin and its analog epirubicin, two antitumor anthracyclines (PubMed:26948952).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALHDMEDFTFDGTKRLSVNYVKGILQPTDTCDIWDKIWNFQAKPDDLLISTYPKAGTTWTQEIVELIQNEGDVEKSKRAPTHQRFPFLEMKIPSLGSVCWGSWHEHVKGWWEAKDKHRILYLFYEDMKKNPKHEIQKLAEFIGKKLDDKVLDKIVHYTSFDVMKQNPMANYSSIPAEIMDHSISPFMRKGAVGDWKKHFTVAQNERFDEDYKKKMTDTRLTFHFQF
+PTM	Methylation:128,213,225,229;Phosphorylation:124,178;SUMOylation:220

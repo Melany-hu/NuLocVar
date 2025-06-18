@@ -1,0 +1,25 @@
+UniprotID	K7EPV2
+Accession	K7EPV2
+EntryName	K7EPV2_HUMAN
+ProteinName	SNF8 subunit of ESCRT-II
+GeneName	SNF8
+Length	16
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEVCLALKHRNGGEGG
+PTM	

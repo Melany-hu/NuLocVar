@@ -1,0 +1,25 @@
+UniprotID	H0YDP3
+Accession	H0YDP3
+EntryName	H0YDP3_HUMAN
+ProteinName	Thymocyte expressed, positive selection associated 1
+GeneName	TESPA1
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XASVLSPTSWEKRRAWLRQSRNWQTQVLEEEAAAALQDVPDPEPSSLDDVFQEGNPINKIEDWLQDCGKLNTTDSHWKRI
+PTM	

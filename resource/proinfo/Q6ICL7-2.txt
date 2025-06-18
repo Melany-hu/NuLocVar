@@ -1,0 +1,25 @@
+UniprotID	Q6ICL7-2
+Accession	Q6ICL7;Q567P0
+EntryName	S35E4_HUMAN
+ProteinName	Solute carrier family 35 member E4
+GeneName	SLC35E4
+Length	234
+Function	Putative transporter.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRCPPEHHDGRMTSAEVGAAAGGAQAAGPPEWPPGSPQALRQPGRARVAMAALVWLLAGASMSSLNKWIFTVHGFGRPLLLSALHMLVAALACHRGARRPMPGGTRCRVLLLSLTFGTSMACGNVGLRAVPLDLAQLVTTTTPLFTLALSALLLGRRHHPLQLAAMGPLCLGAACSLAGEFRTPPTGCGFLLAATCLRGLKSVQQSLSFQICKMELMIPMERVRMRSAGQGQE
+PTM	Ubiquitylation:202

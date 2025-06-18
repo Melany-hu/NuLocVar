@@ -1,0 +1,25 @@
+UniprotID	F8WB54
+Accession	F8WB54
+EntryName	F8WB54_HUMAN
+ProteinName	Interleukin 17 receptor E
+GeneName	IL17RE
+Length	186
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSSRLAALLLPLLLIVIDLSDSAGIGFRHLPHWNTRCPLASHTEVLPISLAAPGGPSSPQSLGVCESGTVPAVCASICCQVAQVFNGASSTSWCRNPKSLPHSSSIGDTRCQHLLRGSCCLVVTCLRRAITFPSPPQTSPTRDFALKGPNLRIQRHGKVFPDWTHKGMEDPSSPLICCLRPGLFG
+PTM	

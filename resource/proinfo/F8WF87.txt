@@ -1,0 +1,25 @@
+UniprotID	F8WF87
+Accession	F8WF87
+EntryName	F8WF87_HUMAN
+ProteinName	Solute carrier family 25 member 17
+GeneName	SLC25A17
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVLSYESLVHAVAGAVLDFDFRPGTISRVVSSDFQSLLLQFCLFLHF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3WKN9
+Accession	A0A8Q3WKN9
+EntryName	A0A8Q3WKN9_HUMAN
+ProteinName	ACD shelterin complex subunit and telomerase recruitment factor
+GeneName	ACD
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	21...32
+nlsdbnls_region	
+validnes_region	21...32
+nesbase_region	
+Sequence	XLSLSQLLDEMREDQEHQGALVCLAESCLTLEGPCTAPPVTHWAASRCKATEPRPYPATCHPRKVVPASAFCLPCPWLLQTQGREAAPSPHQPSAQPLPP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B4DEX3
+Accession	B4DEX3
+EntryName	B4DEX3_HUMAN
+ProteinName	ADAM metallopeptidase with thrombospondin type 1 motif 18 (cDNA FLJ60448, highly similar to ADAMTS-18)
+GeneName	ADAMTS18
+Length	274
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MECALLLACAFPAAGSGPPRGLAGLGRVAKALQLCCLCCASVAAALASDSSSGASGLNDDYVFVTPVEVDSAGSYISHDILHNGRKKRSAQNARSSLHYRFSAFGQELHLELKPSAILSSHFIVQVLGKDGASETQKPEVQQCFYQGFIRNDSSSSVAVSTCAGLSGLIRTRKNEFLISPLPQLLAQEHNYSSPAGHHPHVLYKRTAEEKIQRYRGYPGSGRNYPGYSPSHIPHASQSRETEYHHRRLQKQHFCGRRKKCICSQASHRGHLSKV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8N114-4
+Accession	Q8N114;B3KW99;F8W9N8;Q69YY9;Q7Z433;Q8NHL9;Q96MW8;Q9BV58
+EntryName	SHSA5_HUMAN
+ProteinName	Protein shisa-5 (Putative NF-kappa-B-activating protein 120) (Scotin)
+GeneName	SHISA5 SCOTIN PSEC0133
+Length	118
+Function	Can induce apoptosis in a caspase-dependent manner and plays a role in p53/TP53-dependent apoptosis.
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFGATLAVGLTIFVLSVVTIIICFTCSCCCLYKTCRRPRPVVTTTTSTTVVHAPYPQPPSVPPSYPGPSYQGYHTMPPQPGMPAAPYPMQYPPPYPAQPMGPPAYHETLAGECPCQL
+PTM	Methylation:9,63

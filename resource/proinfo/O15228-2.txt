@@ -1,0 +1,25 @@
+UniprotID	O15228-2
+Accession	O15228;B4DNM9;Q5TBH7;Q9BWC2
+EntryName	GNPAT_HUMAN
+ProteinName	Dihydroxyacetone phosphate acyltransferase (DAP-AT) (DAPAT) (DHAP-AT) (EC 2.3.1.42) (Acyl-CoA:dihydroxyacetonephosphateacyltransferase) (Glycerone-phosphate O-acyltransferase)
+GeneName	GNPAT DAPAT DHAPAT
+Length	619
+Function	Dihydroxyacetonephosphate acyltransferase catalyzing the first step in the biosynthesis of plasmalogens, a subset of phospholipids that differ from other glycerolipids by having an alkyl chain attached through a vinyl ether linkage at the sn-1 position of the glycerol backbone, and which unique physical properties have an impact on various aspects of cell signaling and membrane biology.
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESSSSSNSYFSVGPTSPSAVVLLYSLSKESLQSVDVLREEVSEILDEMSHKLRLGAIRFCAFTLSKVFKQIFSKVCVNEEGIQKLQRAIQEHPVVLLPSHRSYIDFLMLSFLLYNYDLPVPVIAAGMDFLGMKMVGELLRMSGAFFMRRTFGGNKLYWAVFSEYVKTMLRNGYAPVEFFLEGTRSRSAKTLTPKFGLLNIVMEPFFKREVFDTYLVPISISYDKILEETLYVYELLGVPKPKESTTGLLKARKILSENFGSIHVYFGDPVSLRSLAAGRMSRSSYNLVPRYIPQKQSEDMHAFVTEVAYKMELLQIENMVLSPWTLIVAVLLQNRPSMDFDALVEKTLWLKGLTQAFGGFLIWPDNKPAEEVVPASILLHSNIASLVKDQVILKVDSGDSEVVDGLMLQHITLLMCSAYRNQLLNIFVRPSLVAVALQMTPGFRKEDVYSCFRFLRDVFADEFIFLPGNTLKDFEEGCYLLCKSEAIQVTTKDILVTEKGNTVLEFLVGLFKPFVESYQIICKYLLSEEEDHFSEEQYLAAVRKFTSQLLDQGTSQCYDVLSSDVQKNALAACVRLGVVEKKKINNNCIFNVNEPATTKLEEMLGCKTPIGKPATAKL
+PTM	Acetylation:67,357,554,606,643,644,669,679;Methylation:72,256,312,408,456,534,643;Phosphorylation:10,83,307,308,447,511,617,620,677;Ubiquitylation:49,67,113,136,251,269,304

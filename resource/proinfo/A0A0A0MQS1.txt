@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MQS1
+Accession	A0A0A0MQS1
+EntryName	A0A0A0MQS1_HUMAN
+ProteinName	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+GeneName	PYCR3
+Length	286
+Function	Oxidoreductase that catalyzes the last step in proline biosynthesis, which corresponds to the reduction of pyrroline-5-carboxylate (P5C) to L-proline using NAD(P)H. Proline is synthesized from either glutamate or ornithine; both are converted to P5C, and then to proline via pyrroline-5-carboxylate reductases (PYCRs). PYCR3 is exclusively linked to the biosynthesis of proline from ornithine.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGERSGVRGNKMAAAEPSPRRVGFVGAGRMAGAIAQGLIRAGKVEAQHILASAPTDRNLCHFQALGCRTTHSNQEVLQSCLLVIFATKPHVLPAVLAEVAPVVTTEHILVSVAAGVSLSTLEELLPPNTRVLRVLPNLPCVVQEGAIVMARGRHVGSSETKLLQHLLEACGRCEEVPEAYVDIHTGLSGSGVAFVCAFSEALAEGAVKMGMPSSLAHRIAAQTLLGTAKMLLHEGQHPAQLRSDVCTPGGTTIYGLHALEQGGLRAATMSAVEAATCRAKELSRK
+PTM	

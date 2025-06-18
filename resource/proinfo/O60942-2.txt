@@ -1,0 +1,25 @@
+UniprotID	O60942-2
+Accession	O60942;E1P513;E1P514;O43483;O60257;O60351;Q5TCW8;Q8WUM8
+EntryName	MCE1_HUMAN
+ProteinName	mRNA-capping enzyme (HCAP1) (HCE) [Includes: mRNA 5'-triphosphate monophosphatase (EC 3.6.1.74) (mRNA 5'-phosphatase); mRNA guanylyltransferase (EC 2.7.7.50) (GTP--RNA guanylyltransferase) (GTase)]
+GeneName	RNGTT CAP1A
+Length	574
+Function	Bifunctional mRNA-capping enzyme exhibiting RNA 5'-triphosphate monophosphatase activity in the N-terminal part and mRNA guanylyltransferase activity in the C-terminal part. Catalyzes the first two steps of cap formation: by removing the gamma-phosphate from the 5'-triphosphate end of nascent mRNA to yield a diphosphate end, and by transferring the GMP moiety of GTP to the 5'-diphosphate terminus of RNA via a covalent enzyme-GMP reaction intermediate.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	566...571
+validnes_region	
+nesbase_region	
+Sequence	MAHNKIPPRWLNCPRRGQPVAGRFLPLKTMLGPRYDSQVAEENRFHPSMLSNYLKSLKVKMGLLVDLTNTSRFYDRNDIEKEGIKYIKLQCKGHGECPTTENTETFIRLCERFNERNPPELIGVHCTHGFNRTGFLICAFLVEKMDWSIEAAVATFAQARPPGIYKGDYLKELFRRYGDIEEAPPPPLLPDWCFEDDEDEDEDEDGKKESEPGSSASFGKRRKERLKLGAIFLEGVTVKGVTQVTTQPKLGEVQQKCHQFCGWEGSGFPGAQPVSMDKQNIKLLDLKPYKVSWKADGTRYMMLIDGTNEVFMIDRDNSVFHVSNLEFPFRKDLRMHLSNTLLDGEMIIDRVNGQAVPRYLIYDIIKFNSQPVGDCDFNVRLQCIEREIISPRHEKMKTGLIDKTQEPFSVRNKPFFDICTSRKKYKPGRCDDILKWKPPSLNSVDFRLKITRMGGEGLLPQNVGLLYVGGYERPFAQIKVTKELKQYDNKIIECKFENNSWVFMRQRTDKSFPNAYNTAMAVCNSISNPVTKEMLFEFIDRCTAASQGQKRKHHLDPDTELMPPPPPKRPRPLT
+PTM	Methylation:28,34,55,81,144,239,256,287,366,403,458,573;Phosphorylation:70,71,390;SUMOylation:5,28,55,60,81,88,92,166,171,227,239,249,256,282,287,294,397,403,413,423,431,447,449,502,505,508,518,575;Ubiquitylation:28,88,92,166,171,403,573

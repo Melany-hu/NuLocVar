@@ -1,0 +1,25 @@
+UniprotID	Q7Z7F7-2
+Accession	Q7Z7F7;Q5TBY3;Q5TBY6;Q6UWI8
+EntryName	RM55_HUMAN
+ProteinName	Large ribosomal subunit protein mL55 (39S ribosomal protein L55, mitochondrial) (L55mt) (MRP-L55) (Mitochondrial large ribosomal subunit protein bL31m)
+GeneName	MRPL55 UNQ5835/PRO19675
+Length	164
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVGSLLGLAASSWLGGQNASDHSLWLLRKPRGSSCPGTGHQLCRLRQSTVKATGPALRRLHTSSWRADSSRASLTRVHRQAYARLYPVLLVKQDGSTIHIRYREPRRMLAMPIDLDTLSPEERRARLRKREAQLQSRKEYEQELSDDLHVERYRQFWTRTKK
+PTM	Methylation:58;Phosphorylation:6,85,106,111;SUMOylation:104

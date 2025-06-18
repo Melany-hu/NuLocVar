@@ -1,0 +1,25 @@
+UniprotID	E7ES52
+Accession	E7ES52
+EntryName	E7ES52_HUMAN
+ProteinName	Cyclin-dependent kinase inhibitor 1B (Cyclin-dependent kinase inhibitor p27) (p27Kip1)
+GeneName	CDKN1B
+Length	205
+Function	Important regulator of cell cycle progression. Inhibits the kinase activity of CDK2 bound to cyclin A, but has little inhibitory activity on CDK2 bound to SPDYA. Involved in G1 arrest. Potent inhibitor of cyclin E- and cyclin A-CDK2 complexes. Forms a complex with cyclin type D-CDK4 complexes and is involved in the assembly, stability, and modulation of CCND1-CDK4 complex activation. Acts either as an inhibitor or an activator of cyclin type D-CDK4 complexes depending on its phosphorylation state and/or stoichometry.
+Subcellular Location	Cytoplasm; Endosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNVRVSNGSPSLERMDARQAEHPKPSACRNLFGPVDHEELTRDLEKHCRDMEEASQRKWNFDFQNHKPLEGKYEWQEVEKGSLPEFYYRPPRPPKGACKVPAQESQDVSGSRPAAPLIGAPANSEDTHLVDPKTDPSDSQTGLAEQCAGIRKRPATDDTSLLDEARKIYMKILKIHIADFMEWTSCISTEKQQHNNTKILGTLK
+PTM	

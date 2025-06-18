@@ -1,0 +1,25 @@
+UniprotID	Q9HBU9-2
+Accession	Q9HBU9;Q86UE7
+EntryName	POPD2_HUMAN
+ProteinName	Popeye domain-containing protein 2 (Popeye protein 2)
+GeneName	POPDC2 POP2
+Length	360
+Function	Important for the maintenance of cardiac function. Plays a regulatory function in heart rate dynamics mediated, at least in part, through cAMP-binding and, probably, by increasing cell surface expression of the potassium channel KCNK2 and enhancing current density.
+Subcellular Location	Membrane; Cell membrane; Sarcolemma
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSANSSRVGQLLLQGSACIRWKQDVEGAVYHLANCLLLLGFMGGSGVYGCFYLFGFLSAGYLCCVLWGWFSACGLDIVLWSFLLAVVCLLQLAHLVYRLREDTLPEEFDLLYKTLCLPLQVPLQTYKEIVHCCEEQVLTLATEQTYAVEGETPINRLSLLLSGRVRVSQDGQFLHYIFPYQFMDSPEWESLQPSEEGVFQVTLTAETSCSYISWPRKSLHLLLTKERYISCLFSALLGYDISEKLYTLNDKLFAKFGLRFDIRLPSLYHVLGPTAADAGPESEKGDEEVCEPAVSPPQATPTSLQQTPPCSTPPATTNFPAPPTRARLSRPDSGILEIDDFPSYFHQFGFSGKVAAGRIP
+PTM	Methylation:225,251;Phosphorylation:333,346,361

@@ -1,0 +1,25 @@
+UniprotID	P49763-3
+Accession	P49763;Q07101;Q9BV78;Q9Y6S8
+EntryName	PLGF_HUMAN
+ProteinName	Placenta growth factor (PlGF)
+GeneName	PGF PGFL PLGF
+Length	170
+Function	Growth factor active in angiogenesis and endothelial cell growth, stimulating their proliferation and migration. It binds to the receptor FLT1/VEGFR-1. Isoform PlGF-2 binds NRP1/neuropilin-1 and NRP2/neuropilin-2 in a heparin-dependent manner. Also promotes cell tumor growth.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	151...156
+validnes_region	
+nesbase_region	
+Sequence	MPVMRLFPCFLQLLAGLALPAVPPQQWALSAGNGSSEVEVVPFQEVWGRSYCRALERLVDVVSEYPSEVEHMFSPSCVSLLRCTGCCGDENLHCVPVETANVTMQLLKIRSGDRPSYVELTFSQHVRCECRPLREKMKPERRRPKGRGKRRREKQRPTDCHLCGDAVPRR
+PTM	Methylation:108,198

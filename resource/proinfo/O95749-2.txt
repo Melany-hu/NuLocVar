@@ -1,0 +1,25 @@
+UniprotID	O95749-2
+Accession	O95749;A8MVQ8;Q5T2C8;Q6NW19
+EntryName	GGPPS_HUMAN
+ProteinName	Geranylgeranyl pyrophosphate synthase (GGPP synthase) (GGPPSase) (EC 2.5.1.-) ((2E,6E)-farnesyl diphosphate synthase) (Dimethylallyltranstransferase) (EC 2.5.1.1) (Farnesyl diphosphate synthase) (Farnesyltranstransferase) (EC 2.5.1.29) (Geranylgeranyl diphosphate synthase) (Geranyltranstransferase) (EC 2.5.1.10)
+GeneName	GGPS1
+Length	246
+Function	Catalyzes the trans-addition of the three molecules of IPP onto DMAPP to form geranylgeranyl pyrophosphate, an important precursor of carotenoids and geranylated proteins.
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHNASLLIDDIEDNSKLRRGFPVAHSIYGIPSVINSANYVYFLGLEKVLTLDHPDAVKLFTRQLLELHQGQGLDIYWRDNYTCPTEEEYKAMVLQKTGGLFGLAVGLMQLFSDYKEDLKPLLNTLGLFFQIRDDYANLHSKEYSENKSFCEDLTEGKFSFPTIHAIWSRPESTQVQNILRQRTENIDIKKYCVHYLEDVGSFEYTRNTLKELEAKAYKQIDARGGNPELVALVKHLSKMFKEENE
+PTM	Acetylation:25,30,270,289;Methylation:102,244,265,278;Phosphorylation:16,179,203;SUMOylation:71;Ubiquitylation:3,17,145,244

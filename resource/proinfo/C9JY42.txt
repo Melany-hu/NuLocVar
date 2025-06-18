@@ -1,0 +1,25 @@
+UniprotID	C9JY42
+Accession	C9JY42
+EntryName	C9JY42_HUMAN
+ProteinName	Diacylglycerol kinase delta
+GeneName	DGKD
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAAGAPPPGPPQPPPPPPPEESSDSEPEAEPGSPQKLIRKVSTSGQIRQKVITPCRKLILCADNRKEMEDWIAALKTVQNREHFEPTQYSMDHFSGMHNWYACSHARPTYCNVCREALSGVTSHGLSCEVCKFKAHKRCAVRATNNCKWTTLASI
+PTM	

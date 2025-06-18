@@ -1,0 +1,25 @@
+UniprotID	Q53QV1
+Accession	Q53QV1
+EntryName	Q53QV1_HUMAN
+ProteinName	Uncharacterized protein DTNB
+GeneName	DTNB
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LQYSQDIPSHLADEHALIASYVARLQHCARVLDSPSRLDEEHRLIARYAARLAAEAGNVTRPPTDLSFNFDANKQQRQLIAELENKNREILQEIQRLRLEHEQASQPTPEKAQQNPTLLAELRLLRQRKDELEQRMSALQESRRELMVQLEELMKLLKEEEQKQA
+PTM	

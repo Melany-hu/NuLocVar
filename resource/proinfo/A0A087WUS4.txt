@@ -1,0 +1,25 @@
+UniprotID	A0A087WUS4
+Accession	A0A087WUS4
+EntryName	A0A087WUS4_HUMAN
+ProteinName	Arginyl aminopeptidase
+GeneName	RNPEP
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPGAGSRGLSGTAVLDLRCLEPEGAAELRLDSHPCLEVTAAALRRERPGSEEPPAEPVSFYTQPFSHYGQALCVSFPQPCRAAERLQVLLTYRVGEGPGVCWLAPEQTAGKKKPFVYTQGQAVLNRAFFPCFDTPAVKYKYSALIEEPGVG
+PTM	

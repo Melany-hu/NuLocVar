@@ -1,0 +1,25 @@
+UniprotID	P49643-2
+Accession	P49643;Q53FJ8;Q6P1Q7;Q8WVL2;Q9H413
+EntryName	PRI2_HUMAN
+ProteinName	DNA primase large subunit (DNA primase 58 kDa subunit) (p58)
+GeneName	PRIM2 PRIM2A
+Length	158
+Function	Regulatory subunit of the DNA primase complex and component of the DNA polymerase alpha complex (also known as the alpha DNA polymerase-primase complex) which play an essential role in the initiation of DNA synthesis (PubMed:17893144, PubMed:25550159, PubMed:26975377, PubMed:9705292). During the S phase of the cell cycle, the DNA polymerase alpha complex (composed of a catalytic subunit POLA1, an accessory subunit POLA2 and two primase subunits, the catalytic subunit PRIM1 and the regulatory subunit PRIM2) is recruited to DNA at the replicative forks via direct interactions with MCM10 and WDHD1 (By similarity). The primase subunit of the polymerase alpha complex initiates DNA synthesis by oligomerising short RNA primers on both leading and lagging strands (PubMed:17893144). These primers are initially extended by the polymerase alpha catalytic subunit and subsequently transferred to polymerase delta and polymerase epsilon for processive synthesis on the lagging and leading strand, respectively (By similarity). In the primase complex, both subunits are necessary for the initial di-nucleotide formation, but the extension of the primer depends only on the catalytic subunit (PubMed:17893144, PubMed:25550159). Binds RNA:DNA duplex and coordinates the catalytic activities of PRIM1 and POLA2 during primase-to-polymerase switch.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEFSGRKWRKLRLAGDQRNASYPHCLQFYLQPPSENISLIEFENLAIDRVKLLKSVENLGVSYVKGTEQYQSKLESELRKLKFSYRENLEDEYEPRRRDHISHFILRLAYCQSEELRRWFIQQEMDLLRFRFSILPKDKIQDFLKDSQLQFEAVSIFL
+PTM	Methylation:54,145,177,212,333,395,416;Phosphorylation:4,170,227,280,352,363,366,381,400,401,470,476;SUMOylation:54,65,73,139,145,159,177,199,270,402,462,474;Ubiquitylation:54,65,73,82,137,145,177,185,228,282,293,333,340,343,355,395,397,402,459,479

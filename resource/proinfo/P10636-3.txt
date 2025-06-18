@@ -1,0 +1,25 @@
+UniprotID	P10636-3
+Accession	P10636;P18518;Q14799;Q15549;Q15550;Q15551;Q1RMF6;Q53YB1;Q5CZI7;Q5XWF0;Q6QT54;Q9UDJ3;Q9UMH0;Q9UQ96
+EntryName	TAU_HUMAN
+ProteinName	Microtubule-associated protein tau (Neurofibrillary tangle protein) (Paired helical filament-tau) (PHF-tau)
+GeneName	MAPT MAPTL MTBT1 TAU
+Length	316
+Function	Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity (PubMed:21985311). The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both (PubMed:21985311, PubMed:32961270). Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its stabilization.
+Subcellular Location	Cytoplasm; Cytosol; Cell membrane; Cytoplasm; Cytoskeleton; Cell projection; Axon; Cell projection; Dendrite; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRALQQRKREAGIGDTPSLEDEAAGHVTQARMVSKSKDGTGSDDKKAKGADGKTKIATPRGAAPPGQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVSGDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL
+PTM	Acetylation:402,455,491,628,686;Glycosylation:484,676;Methylation:189,209,375,413,584,597,615,634,657;Phosphorylation:18,46,50,56,61,63,64,68,69,71,113,128,171,214,227,228,232,238,318,341,411,428,437,438,470,486,492,498,501,502,508,512,514,515,516,519,522,525,527,529,531,534,537,548,552,554,555,558,579,580,602,606,610,622,627,641,673,703,711,713,717,720,721,726,729,730,731,733,739,744,752;Ubiquitylation:480,497,507,541,542,551,557,571,574,576,584,591,597,598,607,611,615,628,634,638,648,657,660,670,686,687,692,700,702,712

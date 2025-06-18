@@ -1,0 +1,25 @@
+UniprotID	P43686-2
+Accession	P43686;Q96FV5;Q9UBM3;Q9UEX3
+EntryName	PRS6B_HUMAN
+ProteinName	26S proteasome regulatory subunit 6B (26S proteasome AAA-ATPase subunit RPT3) (MB67-interacting protein) (MIP224) (Proteasome 26S subunit ATPase 4) (Tat-binding protein 7) (TBP-7)
+GeneName	PSMC4 MIP224 TBP7
+Length	387
+Function	Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC4 belongs to the heterohexameric ring of AAA (ATPases associated with diverse cellular activities) proteins that unfolds ubiquitinated target proteins that are concurrently translocated into a proteolytic chamber and degraded into peptides.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEIGILVEKAQDEIPALSVSRPQTGLSFLGPEPEDLEDLYSRYKEEVKRIQSIPLVIGQFLEAVDQNTAIVGSTTGSNYYVRILSTIDRELLKPNASVALHKHSNALVDVLPPEADSSIMMLTSDQKPDVMYADIGGMDIQKQEVREAVELPLTHFELYKQIGIDPPRGVLMYGPPGCGKTMLAKAVAHHTTAAFIRVVGSEFVQKYLGEGPRMVRDVFRLAKENAPAIIFIDEIDAIATKRFDAQTGADREVQRILLELLNQMDGFDQNVNVKVIMATNRADTLDPALLRPGRLDRKIEFPLPDRRQKRLIFSTITSKMNLSEEVDLEDYVARPDKISGADINSICQESGMLAVRENRYIVLAKDFEKAYKTVIKKDEQEHEFYK
+PTM	Acetylation:70,80,125,238,397,401,404;Methylation:10,62,66,125,134,174,192,212,238,255,273,283,306,338,339,369,401;Phosphorylation:19,21,25,28,84,117,205,233,279,346,347,350;SUMOylation:10,46,62,159,174,212,255,330,397;Ubiquitylation:10,46,62,66,70,80,125,192,212,217,238,255,273,330,397,401,409,418

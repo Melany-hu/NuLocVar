@@ -1,0 +1,25 @@
+UniprotID	E9PIP2
+Accession	E9PIP2
+EntryName	E9PIP2_HUMAN
+ProteinName	BTG3 associated nuclear protein
+GeneName	BANP
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMSEHDLADVVQIAVEDLSPDHPGTELWDSSCFGESCSDR
+PTM	

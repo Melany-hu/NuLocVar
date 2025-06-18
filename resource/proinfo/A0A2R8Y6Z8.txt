@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y6Z8
+Accession	A0A2R8Y6Z8
+EntryName	A0A2R8Y6Z8_HUMAN
+ProteinName	Sarcoglycan epsilon
+GeneName	SGCE
+Length	14
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGTFLLTVEYERDK
+PTM	

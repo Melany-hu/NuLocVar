@@ -1,0 +1,25 @@
+UniprotID	A1A512
+Accession	A1A512
+EntryName	A1A512_HUMAN
+ProteinName	KIAA0355 protein
+GeneName	KIAA0355
+Length	206
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEHNLLNPKAIEASLQGCCSEAEAQQTGRRQTPPQPMQCELPTVPVQIGSHFLKGVSFNESAADNLKLKTHTMLQLMKEAGCYNGITSRDDFPVTEVLNQVCPSTWRGACKTAVQLLFGQAGLVVVDTAQIENKEAYAPQISLEGSRIVVQVPSTWCLKEDPATMSLLQRSLDPEKTLGLVDVLYTAVLDLNRWRAGREQALSFF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	J3KTD9
+Accession	J3KTD9
+EntryName	J3KTD9_HUMAN
+ProteinName	aldehyde dehydrogenase (NAD(+)) (EC 1.2.1.3)
+GeneName	ALDH3A2
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GVGSSGMGAYHGKHSFDTFSHQRPCLLKSLKREGANKLRYPPNSQSKVDWGKFFLLKRFNKEKLGLLLLTFLGIVAAVLVKAEYY
+PTM	

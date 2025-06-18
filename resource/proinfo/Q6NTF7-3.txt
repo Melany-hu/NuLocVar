@@ -1,0 +1,25 @@
+UniprotID	Q6NTF7-3
+Accession	Q6NTF7;B0QYP0;B0QYP1;B7TQM5;E9PF38;M4W6S4;Q5JYL9;Q6IC87
+EntryName	ABC3H_HUMAN
+ProteinName	DNA dC->dU-editing enzyme APOBEC-3H (EC 3.5.4.38) (APOBEC-related protein 10) (ARP-10) (Apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like 3H) (A3H)
+GeneName	APOBEC3H
+Length	183
+Function	DNA deaminase (cytidine deaminase) which acts as an inhibitor of retrovirus replication and retrotransposon mobility via deaminase-dependent and -independent mechanisms (PubMed:16571802, PubMed:16920826, PubMed:18779051, PubMed:18827027, PubMed:20062055, PubMed:22915799, PubMed:29290613). The A3H-var/haplotype 2 exhibits antiviral activity against vif-deficient HIV-1 (PubMed:18299330, PubMed:21835787, PubMed:23097438, PubMed:29290613). After the penetration of retroviral nucleocapsids into target cells of infection and the initiation of reverse transcription, it can induce the conversion of cytosine to uracil in the minus-sense single-strand viral DNA, leading to G-to-A hypermutations in the subsequent plus-strand viral DNA (PubMed:18299330). The resultant detrimental levels of mutations in the proviral genome, along with a deamination-independent mechanism that works prior to the proviral integration, together exert efficient antiretroviral effects in infected target cells (PubMed:18299330). Selectively targets single-stranded DNA and does not deaminate double-stranded DNA or single- or double-stranded RNA (PubMed:20062055). Exhibits antiviral activity also against T-cell leukemia virus type 1 (HTLV-1) and may inhibit the mobility of LTR and non-LTR retrotransposons (PubMed:20062055, PubMed:22457529).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLTAETFRLQFNNKRRLRRPYYPRKALLCYQLTPQNGSTPTRGYFENKKKCHAEICFINEIKSMGLDETQCYQVTCYLTWSPCSSCAWELVDFIKAHDHLNLGIFASRLYYHWCKPQQKGLRLLCGSQVPVEVMGFPEFADCWENFVDHEKPLSFNPYKMLEELDKNSRAIKRRLERIKQS
+PTM	Methylation:50,64,97

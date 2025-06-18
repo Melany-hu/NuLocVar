@@ -1,0 +1,25 @@
+UniprotID	Q7Z5A7-2
+Accession	Q7Z5A7;A6NII9;B0QZ13;B0QZ14;B0QZ15;O95902;Q5H9C4;Q6UWC9;Q8IXR8
+EntryName	TAFA5_HUMAN
+ProteinName	Chemokine-like protein TAFA-5
+GeneName	TAFA5 FAM19A5 UNQ5208/PRO34524
+Length	125
+Function	Acts as a chemokine-like protein by regulating cell proliferation and migration through activation of G protein-coupled receptors (GPCRs), such as S1PR2 and FPR2 (By similarity). Stimulates chemotactic migration of macrophages mediated by the MAPK3/ERK1 and AKT1 pathway (By similarity). Blocks TNFSF11/RANKL-induced osteoclast formation from macrophages by inhibiting up-regulation of osteoclast fusogenic and differentiation genes (By similarity). Stimulation of macrophage migration and inhibition of osteoclast formation is mediated via GPCR FPR2 (By similarity). Acts as an adipokine by negatively regulating vascular smooth muscle cell (VSMC) proliferation and migration in response to platelet-derived growth factor stimulation via GPCR S1PR2 and G protein GNA12/GNA13-transmitted RHOA signaling (By similarity). Inhibits injury-induced cell proliferation and neointima formation in the femoral arteries (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLLKALWALAGAALCCFLVLVIHAQFLKEGQLAAGTCEIVTLDRDSSQPRRTIARQTARCACRKGQIAGTTRARPACVDARIIKTKQWCDMLPCLEGEGCDLLINRSGWTCTQPGGRIKTTTVS
+PTM	

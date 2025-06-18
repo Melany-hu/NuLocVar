@@ -1,0 +1,25 @@
+UniprotID	O75323-2
+Accession	O75323;C9IYJ3;O43801;Q53X96
+EntryName	NIPS2_HUMAN
+ProteinName	Protein NipSnap homolog 2 (NipSnap2) (Glioblastoma-amplified sequence)
+GeneName	NIPSNAP2 GBAS
+Length	247
+Function	Protein involved in mitophagy by facilitating recruitment of the autophagy machinery required for clearance of damaged mitochondria (PubMed:30982665). Accumulates on the mitochondria surface in response to mitochondrial depolarization and acts as a 'eat me' signal by recruiting proteins involved in selective autophagy, such as autophagy receptors (CALCOCO2/NDP52, NBR1, SQSTM1/p62, TAX1BP1 and WDFY3/ALFY) and ATG8 family proteins (MAP1LC3A, MAP1LC3B, MAP1LC3C, GABARAP, GABARAPL1 and GABARAPL2) (PubMed:30982665).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAARVLRARGAAWAGGLLQRAAPCSLLPRLRTWTSSSNRSREDSWLKSLFVRKVDPRKDAHSNLLAKKETSNLYKLQFKRCCQRFTKINTTLVLWWGLGTRGMASRTKLEFLEFRKARSDMLLSRKNQLLLEFSFWNEPVPRSGPNIYELRSYQLRPGTMIEWGNYWARAIRFRQDGNEAVGGFFSQIGQLYMVHHLWAYRDLQTREDIRNAAWHKHGWEELVYYTVPLIQEMESRIMIPLKTSPLQ
+PTM	Acetylation:68,75,82,91,99,104,143,148,281;Methylation:67,249;Phosphorylation:40,182

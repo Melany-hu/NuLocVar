@@ -1,0 +1,25 @@
+UniprotID	Q92838-7
+Accession	Q92838;A0AUZ2;A2A337;B7ZLU2;B7ZLU4;O75910;Q5JS00;Q5JUM7;Q9UP77;Q9Y6L0;Q9Y6L1;Q9Y6L2;Q9Y6L3;Q9Y6L4
+EntryName	EDA_HUMAN
+ProteinName	Ectodysplasin-A (Ectodermal dysplasia protein) (EDA protein) [Cleaved into: Ectodysplasin-A, membrane form; Ectodysplasin-A, secreted form]
+GeneName	EDA ED1 EDA2
+Length	148
+Function	Cytokine which is involved in epithelial-mesenchymal signaling during morphogenesis of ectodermal organs. Functions as a ligand activating the DEATH-domain containing receptors EDAR and EDA2R (PubMed:11039935, PubMed:27144394, PubMed:34582123, PubMed:8696334). May also play a role in cell adhesion (By similarity).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGYPEVERRELLPAAAPRERGSQGCGCGGAPARAGEGNSCLLFLGFFGLSLALHLLTLCCYLELRSELRRERGAESRLGGSGTPGTSGTLSSLGGLDPDSPITSHLGQPSPKQQPLEPGEAALHSDSQDGHQDFDYIISFSYGLQGFC
+PTM	Phosphorylation:66

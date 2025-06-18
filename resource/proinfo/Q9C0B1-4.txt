@@ -1,0 +1,25 @@
+UniprotID	Q9C0B1-4
+Accession	Q9C0B1;A2RUH1;B2RNS0;Q0P676;Q7Z785
+EntryName	FTO_HUMAN
+ProteinName	Alpha-ketoglutarate-dependent dioxygenase FTO (Fat mass and obesity-associated protein) (U6 small nuclear RNA (2'-O-methyladenosine-N(6)-)-demethylase FTO) (EC 1.14.11.-) (U6 small nuclear RNA N(6)-methyladenosine-demethylase FTO) (EC 1.14.11.-) (mRNA (2'-O-methyladenosine-N(6)-)-demethylase FTO) (m6A(m)-demethylase FTO) (EC 1.14.11.-) (mRNA N(6)-methyladenosine demethylase FTO) (EC 1.14.11.53) (tRNA N1-methyl adenine demethylase FTO) (EC 1.14.11.-)
+GeneName	FTO KIAA1752
+Length	106
+Function	RNA demethylase that mediates oxidative demethylation of different RNA species, such as mRNAs, tRNAs and snRNAs, and acts as a regulator of fat mass, adipogenesis and energy homeostasis (PubMed:22002720, PubMed:25452335, PubMed:26457839, PubMed:26458103, PubMed:28002401, PubMed:30197295). Specifically demethylates N(6)-methyladenosine (m6A) RNA, the most prevalent internal modification of messenger RNA (mRNA) in higher eukaryotes (PubMed:22002720, PubMed:25452335, PubMed:26457839, PubMed:26458103, PubMed:30197295). M6A demethylation by FTO affects mRNA expression and stability (PubMed:30197295). Also able to demethylate m6A in U6 small nuclear RNA (snRNA) (PubMed:30197295). Mediates demethylation of N(6),2'-O-dimethyladenosine cap (m6A(m)), by demethylating the N(6)-methyladenosine at the second transcribed position of mRNAs and U6 snRNA (PubMed:28002401, PubMed:30197295). Demethylation of m6A(m) in the 5'-cap by FTO affects mRNA stability by promoting susceptibility to decapping (PubMed:28002401). Also acts as a tRNA demethylase by removing N(1)-methyladenine from various tRNAs (PubMed:30197295). Has no activity towards 1-methylguanine (PubMed:20376003). Has no detectable activity towards double-stranded DNA (PubMed:20376003). Also able to repair alkylated DNA and RNA by oxidative demethylation: demethylates single-stranded RNA containing 3-methyluracil, single-stranded DNA containing 3-methylthymine and has low demethylase activity towards single-stranded DNA containing 1-methyladenine or 3-methylcytosine (PubMed:18775698, PubMed:20376003). Ability to repair alkylated DNA and RNA is however unsure in vivo (PubMed:18775698, PubMed:20376003). Involved in the regulation of fat mass, adipogenesis and body weight, thereby contributing to the regulation of body size and body fat accumulation (PubMed:18775698, PubMed:20376003). Involved in the regulation of thermogenesis and the control of adipocyte differentiation into brown or white fat cells (PubMed:26287746). Regulates activity of the dopaminergic midbrain circuitry via its ability to demethylate m6A in mRNAs (By similarity). Plays an oncogenic role in a number of acute myeloid leukemias by enhancing leukemic oncogene-mediated cell transformation: acts by mediating m6A demethylation of target transcripts such as MYC, CEBPA, ASB2 and RARA, leading to promote their expression (PubMed:28017614, PubMed:29249359).
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQLEALWKKMEGVTNAVLHEVKREGLPVEQRNEILTAILASLTARQNLRREWHARCQSRIARTLPADQKPECRPYWEKDDASMPLPFDLTDIVSELRGQLLEAKP
+PTM	Acetylation:216,469;Methylation:34,194,365;Phosphorylation:4,6,183,184,185,256,260,355,414;SUMOylation:121,194,216,422;Ubiquitylation:48,88,107,121,126,141,160,162,194,211,216

@@ -1,0 +1,25 @@
+UniprotID	Q5JYW1
+Accession	Q5JYW1
+EntryName	Q5JYW1_HUMAN
+ProteinName	Forkhead associated phosphopeptide binding domain 1
+GeneName	FHAD1
+Length	251
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILRPPRPCGTISALQKGYSKVLCQTLSERNSEITSLKNEGENLKRDNAITSGMVSSLQKDILAKDEQVQQLKEEVSHLKSQNKDKDHQLEALGSRLEHFRSQVIKATYGRAKPFRDKPVTDQQLIEKITQVTEDNINFQQKKWTLQKETQLSNSKQEETTENIEKLRTSLDSCQACMKISCCSHDLKKEVDLLQHLQVSPPVSGLQKVVLDVLRHALSWLEEVEQLLRDLGILPSSPNKGYWDFFSHMVA
+PTM	

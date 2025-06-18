@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KXV8
+Accession	A0A8I5KXV8
+EntryName	A0A8I5KXV8_HUMAN
+ProteinName	Regulator of G protein signaling 7
+GeneName	RGS7
+Length	50
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQGNNYGQTSNGVADESPNMLVYRKTPYFWPSNCWEPENTDYAWMCKYN
+PTM	

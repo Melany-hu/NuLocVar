@@ -1,0 +1,25 @@
+UniprotID	P09496-4
+Accession	P09496;A8K4W3;B4DIN1;F5H6N3;Q2XPN5;Q53XZ1
+EntryName	CLCA_HUMAN
+ProteinName	Clathrin light chain A (Lca)
+GeneName	CLTA
+Length	230
+Function	Clathrin is the major protein of the polyhedral coat of coated pits and vesicles. Acts as a component of the TACC3/ch-TOG/clathrin complex proposed to contribute to stabilization of kinetochore fibers of the mitotic spindle by acting as inter-microtubule bridge (PubMed:15858577, PubMed:21297582).
+Subcellular Location	Cytoplasmic vesicle membrane; Membrane; Coated pit; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELDPFGAPAGAPGGPALGNGVAGAGEEDPAAAFLAQQESEIAGIENDEAFAILDGGAPGPQPHGEPPGGPDAVDGVMNGEYYQESNGPTDSYAAISQVDRLQSEPESIRKWREEQMERLEALDANSRKQEAEWKEKAIKELEEWYARQDEQLQKTKANNSTNINHPCYSLEQAAEEAFVNDIDESSPGTEWERVARLCDFNPKSSKQAKDVSRMRSVLISLKQAPLVH
+PTM	Acetylation:223,242;Methylation:112,156,170,216,223,226;Phosphorylation:105,109,128,205,206,236;Ubiquitylation:156,223,226,242

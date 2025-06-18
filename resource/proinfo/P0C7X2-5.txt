@@ -1,0 +1,25 @@
+UniprotID	P0C7X2-5
+Accession	P0C7X2;A8MV39;B3KV51;O75701;Q8IW91;Q8WV14;Q96MN0
+EntryName	ZN688_HUMAN
+ProteinName	Zinc finger protein 688
+GeneName	ZNF688
+Length	262
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRSPLRSSLSTEASGPRGPFKCPASPRPITAQLLPGSSPIIGRCVLRVQRGFPGPKPALISWMEQESEAWSPAAQDPEKGERLGGARRGDVPNRKEEEPEEVPRAKGPRKAPVKESPEVLVERNPDPAISVAPARAQPPKNAAWDPTTGAQPPAPIPSMDAQAGQRRHVCTDCGRRFTYPSLLVSHRRMHSGERPFPCPECGMRFKRKFAVEAHQWIHRSCSGGRRGRRPGIRAVPRAPVRGDRDPPVLFRHYPDIFEECG
+PTM	Methylation:256;Phosphorylation:131

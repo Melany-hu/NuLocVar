@@ -1,0 +1,25 @@
+UniprotID	H0YFH1
+Accession	H0YFH1
+EntryName	H0YFH1_HUMAN
+ProteinName	Alpha-2-macroglobulin
+GeneName	A2M
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NGGTLLGLKKLSFYYLIMAKGGIVRTGTHGLLVKQEDMKGHFSISIPVKSDIAPVARFTTCYQKRTSLASLGL
+PTM	

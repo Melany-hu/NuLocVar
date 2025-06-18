@@ -1,0 +1,25 @@
+UniprotID	H7C1X2
+Accession	H7C1X2
+EntryName	H7C1X2_HUMAN
+ProteinName	Gamma-glutamyltransferase 5
+GeneName	GGT5
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSAVAATSTINTPFGAMVYSPRTGIILNNELLDLCERCPRGSGTTPSPVSGDRVGGAPGRCWPPVPGERSPSSMVPSILINKAQGSKLVIGGAGGELIISAVAQAIMSKLWLGFDLRAAIAAPILHVNSKGCVEYEPNFSQKQDLAALPRLVSNSWPQVILLPQPPKLLALQEVQRGLQDRGQNQTQRPFFLNVVQAVSQEGACVYAVSDLRKSGEAAGY
+PTM	

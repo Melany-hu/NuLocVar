@@ -1,0 +1,25 @@
+UniprotID	Q8N841-3
+Accession	Q8N841;B4DZJ5;C9J233;Q24KB1;Q24KB2;Q24KB6;Q24KF3;Q24KJ5;Q24KN7;Q24KS9;Q24KX1;Q24L13;Q24L55;Q24L76;Q658K6;Q8IYW6;Q8NA62
+EntryName	TTLL6_HUMAN
+ProteinName	Tubulin polyglutamylase TTLL6 (EC 6.3.2.-) (Protein polyglutamylase TTLL6) (Tubulin--tyrosine ligase-like protein 6)
+GeneName	TTLL6 TTL.6
+Length	843
+Function	Polyglutamylase which modifies both tubulin and non-tubulin proteins, generating alpha-linked polyglutamate side chains on the gamma-carboxyl group of specific glutamate residues of target proteins. Preferentially mediates ATP-dependent long polyglutamate chain elongation over the initiation step of the polyglutamylation reaction. Preferentially modifies the alpha-tubulin tail over a beta-tail. Promotes tubulin polyglutamylation which stimulates spastin/SPAST-mediated microtubule severing, thereby regulating microtubule functions. Mediates microtubule polyglutamylation in primary cilia axoneme, which is important for ciliary structural formation and motility. Mediates microtubule polyglutamylation in motile cilia, necessary for the regulation of ciliary coordinated beating. Polyglutamylates non-tubulin protein nucleotidyltransferase CGAS, leading to CGAS DNA-binding inhibition, thereby preventing antiviral defense response.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQCPTLESQEGENSEEKGDSSKEDPKETVALAFVRENPGAQNGLQNAQQQGKKKRKKKRLVINLSSCRYESVRRAAQQYGFREGGEDDDWTLYWTDYSVSLERVMEMKSYQKINHFPGMSEICRKDLLARNMSRMLKMFPKDFRFFPRTWCLPADWGDLQTYSRSRKNKTYICKPDSGCQGKGIFITRTVKEIKPGEDMICQLYISKPFIIDGFKFDLRIYVLVTSCDPLRIFVYNEGLARFATTSYSRPCTDNLDDICMHLTNYSINKHSSNFSRDAHSGSKRKLSTFSAYLEDHSYNVEQIWRDIEDVIIKTLISAHPIIRHNYHTCFPNHTLNSACFEILGFDILLDHKLKPWLLEVNHSPSFSTDSRLDKEVKDGLLYDTLVLINLESCDKKKVLEEERQRGQFLQQCCSREMRIEEAKGFRAVQLKKTETYEKENCGGFRLIYPSLNSEKYEKFFQDNNSLFQNTVASRAREEYARQLIQELRLKREKKPFQMKKKVEMQGESAGEQVRKKGMRGWQQKQQQKDKAATQASKQYIQPLTLVSYTPDLLLSVRGERKNETDSSLNQEAPTEEASSVFPKLTSAKPFSSLPDLRNINLSSSKLEPSKPNFSIKEAKSASAVNVFTGTVHLTSVETTPESTTQLSISPKSPPTLAVTASSEYSGPETDRVVSFKCKKQQTPPHLTQKKMLKSFLPTKSKSFWESPNTNWTLLKSDMNKPHLISELLTKLQLSGKLSFFPAHYNPKLGMNNLSQNPSLPGECHSRSDSSGEKRQLDVSSLLLQSPQSYNVTLRDLLVIATPAQLDPRPCRSHASAMRDPCMQDQEAYSHCLISGQKGCERS
+PTM	Methylation:314,432,617,652,690,716,731;Phosphorylation:72,101,603,604,610,739,745

@@ -1,0 +1,25 @@
+UniprotID	Q8N4P3-2
+Accession	Q8N4P3
+EntryName	MESH1_HUMAN
+ProteinName	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase MESH1 (EC 3.1.7.2) (HD domain-containing protein 3) (Metazoan SpoT homolog 1) (MESH1) (Penta-phosphate guanosine-3'-pyrophosphohydrolase) ((ppGpp)ase)
+GeneName	HDDC3 MESH1
+Length	140
+Function	ppGpp hydrolyzing enzyme involved in starvation response.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSEAAQLLEAADFAARKHRQQRRKDPEGTPYINHPIGVARILTHEAGITDIVVLQAALLHDTVEDTDTTLDEVELHFGAQVRRLVEEVTDDKTLPKLERKRLQVEQAPHSSPGAKLVKLADKLYNLRDLNRCTPEVKIQ
+PTM	Acetylation:25,93,97,123;Methylation:97;Phosphorylation:90

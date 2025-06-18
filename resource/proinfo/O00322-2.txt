@@ -1,0 +1,25 @@
+UniprotID	O00322-2
+Accession	O00322;Q3KNU5;Q3KNU6
+EntryName	UPK1A_HUMAN
+ProteinName	Uroplakin-1a (UP1a) (Tetraspanin-21) (Tspan-21) (Uroplakin Ia) (UPIa) (UPKa)
+GeneName	UPK1A TSPAN21
+Length	273
+Function	Component of the asymmetric unit membrane (AUM); a highly specialized biomembrane elaborated by terminally differentiated urothelial cells. May play an important role in normal bladder epithelial physiology, possibly in regulating membrane permeability of superficial umbrella cells or in stabilizing the apical membrane through AUM/cytoskeletal interactions (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	88...92
+validnes_region	
+nesbase_region	
+Sequence	MASAAAAEAEKGSPVVVGLLVVGNIIILLSGLSLFAETIWVTADQYRVYPLMGVSGKDDVFAGAWIAIFCGFSFFMVASFGVGAALCRRRSMVLTYLVLMLIVYIFECASCITSYTHRDYMVSNPSLITKQMLTFYSADTDQGQELTRLWDRVMIEQECCGTSGPMDWVNFTSAFRAATPEVVFPWPPLCCRRTGNFIPLNEEGCRLGHMDYLFTKAGVQWHNLSSLQRLPPGFKGFSHLSFQSSWDYRAASNTSATPSTATRGVSRGLGLPS
+PTM	Methylation:130

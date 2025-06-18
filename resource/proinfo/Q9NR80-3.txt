@@ -1,0 +1,25 @@
+UniprotID	Q9NR80-3
+Accession	Q9NR80;Q9HDC6;Q9UPP0
+EntryName	ARHG4_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 4 (APC-stimulated guanine nucleotide exchange factor 1) (Asef) (Asef1)
+GeneName	ARHGEF4 KIAA1112
+Length	619
+Function	Acts as a guanine nucleotide exchange factor (GEF) for RHOA, RAC1 and CDC42 GTPases. Binding of APC may activate RAC1 GEF activity. The APC-ARHGEF4 complex seems to be involved in cell migration as well as in E-cadherin-mediated cell-cell adhesion. Required for MMP9 up-regulation via the JNK signaling pathway in colorectal tumor cells. Involved in tumor angiogenesis and may play a role in intestinal adenoma formation and tumor progression.
+Subcellular Location	Cytoplasm; Cell projection; Ruffle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPDGQQALDAVVRSFDCHSEAALRQRNDVIYCSLPRTAQGIVQREDQLEVLVSLREVWGRRRGRDGTCTGAMPDGALDTAVCADEVGSEEDLYDDLHSSSHHYSHPGGGGEQLAINELISDGSVVCAEALWDHVTMDDQELGFKAGDVIEVMDATNREWWWGRVADGEGWFPASFVRLRVNQDEPADDDAPLAGNSGAEDGGAEAQSSKDQMRTNVINEILSTERDYIKHLRDICEGYVRQCRKRADMFSEEQLRTIFGNIEDIYRCQKAFVKALEQRFNRERPHLSELGACFLEHQADFQIYSEYCNNHPNACVELSRLTKLSKYVYFFEACRLLQKMIDISLDGFLLTPVQKICKYPLQLAELLKYTHPQHRDFKDVEAALHAMKNVAQLINERKRRLENIDKIAQWQSSIEDWEGEDLLVRSSELIYSGELTRVTQPQAKSQQRMFFLFDHQLIYCKKDLLRRDVLYYKGRLDMDGLEVVDLEDGKDRDLHVSIKNAFRLHRGATGDSHLLCTRKPEQKQRWLKAFAREREQVQLDQETGFSITELQRKQAMLNASKQQVTGKPKAVGRPCYLTRQKHPALPSNRPQQQVLVLAEPRRKPSTFWHSISRLAPFRK
+PTM	Acetylation:426;Methylation:100,410,439,477;Phosphorylation:62,65,105,108,109,112;Ubiquitylation:515

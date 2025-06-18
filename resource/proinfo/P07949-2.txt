@@ -1,0 +1,25 @@
+UniprotID	P07949-2
+Accession	P07949;A8K6Z2;Q15250;Q9BTB0;Q9H4A2
+EntryName	RET_HUMAN
+ProteinName	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) (Cadherin family member 12) (Proto-oncogene c-Ret) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]
+GeneName	RET CDHF12 CDHR16 PTC
+Length	1072
+Function	Receptor tyrosine-protein kinase involved in numerous cellular mechanisms including cell proliferation, neuronal navigation, cell migration, and cell differentiation in response to glia cell line-derived growth family factors (GDNF, NRTN, ARTN, PSPN and GDF15) (PubMed:20064382, PubMed:20616503, PubMed:20702524, PubMed:21357690, PubMed:21454698, PubMed:24560924, PubMed:28846097, PubMed:28846099, PubMed:28953886, PubMed:31118272). In contrast to most receptor tyrosine kinases, RET requires not only its cognate ligands but also coreceptors, for activation (PubMed:21994944, PubMed:23333276, PubMed:28846097, PubMed:28846099, PubMed:28953886). GDNF ligands (GDNF, NRTN, ARTN, PSPN and GDF15) first bind their corresponding GDNFR coreceptors (GFRA1, GFRA2, GFRA3, GFRA4 and GFRAL, respectively), triggering RET autophosphorylation and activation, leading to activation of downstream signaling pathways, including the MAPK- and AKT-signaling pathways (PubMed:21994944, PubMed:23333276, PubMed:24560924, PubMed:25242331, PubMed:28846097, PubMed:28846099, PubMed:28953886). Acts as a dependence receptor via the GDNF-GFRA1 signaling: in the presence of the ligand GDNF in somatotrophs within pituitary, promotes survival and down regulates growth hormone (GH) production, but triggers apoptosis in absence of GDNF (PubMed:20616503, PubMed:21994944). Required for the molecular mechanisms orchestration during intestine organogenesis via the ARTN-GFRA3 signaling: involved in the development of enteric nervous system and renal organogenesis during embryonic life, and promotes the formation of Peyer's patch-like structures, a major component of the gut-associated lymphoid tissue (By similarity). Mediates, through interaction with GDF15-receptor GFRAL, GDF15-induced cell-signaling in the brainstem which triggers an aversive response, characterized by nausea, vomiting, and/or loss of appetite in response to various stresses (PubMed:28846097, PubMed:28846099, PubMed:28953886). Modulates cell adhesion via its cleavage by caspase in sympathetic neurons and mediates cell migration in an integrin (e.g. ITGB1 and ITGB3)-dependent manner (PubMed:20702524, PubMed:21357690). Also active in the absence of ligand, triggering apoptosis through a mechanism that requires receptor intracellular caspase cleavage (PubMed:21357690). Triggers the differentiation of rapidly adapting (RA) mechanoreceptors (PubMed:20064382). Involved in the development of the neural crest (By similarity). Regulates nociceptor survival and size (By similarity). Phosphorylates PTK2/FAK1 (PubMed:21454698).
+Subcellular Location	Cell membrane; Endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKATSGAAGLRLLLLLLLPLLGKVALGLYFSRDAYWEKLYVDQAAGTPLLYVHALRDAPEEVPSFRLGQHLYGTYRTRLHENNWICIQEDTGLLYLNRSLDHSSWEKLSVRNRGFPLLTVYLKVFLSPTSLREGECQWPGCARVYFSFFNTSFPACSSLKPRELCFPETRPSFRIRENRPPGTFHQFRLLPVQFLCPNISVAYRLLEGEGLPFRCAPDSLEVSTRWALDREQREKYELVAVCTVHAGAREEVVMVPFPVTVYDEDDSAPTFPAGVDTASAVVEFKRKEDTVVATLRVFDADVVPASGELVRRYTSTLLPGDTWAQQTFRVEHWPNETSVQANGSFVRATVHDYRLVLNRNLSISENRTMQLAVLVNDSDFQGPGAGVLLLHFNVSVLPVSLHLPSTYSLSVSRRARRFAQIGKVCVENCQAFSGINVQYKLHSSGANCSTLGVVTSAEDTSGILFVNDTKALRRPKCAELHYMVVATDQQTSRQAQAQLLVTVEGSYVAEEAGCPLSCAVSKRRLECEECGGLGSPTGRCEWRQGDGKGITRNFSTCSPSTKTCPDGHCDVVETQDINICPQDCLRGSIVGGHEPGEPRGIKAGYGTCNCFPEEEKCFCEPEDIQDPLCDELCRTVIAAAVLFSFIVSVLLSAFCIHCYHKFAHKPPISSAEMTFRRPAQAFPVSYSSSGARRPSLDSMENQVSVDAFKILEDPKWEFPRKNLVLGKTLGEGEFGKVVKATAFHLKGRAGYTTVAVKMLKENASPSELRDLLSEFNVLKQVNHPHVIKLYGACSQDGPLLLIVEYAKYGSLRGFLRESRKVGPGYLGSGGSRNSSSLDHPDERALTMGDLISFAWQISQGMQYLAEMKLVHRDLAARNILVAEGRKMKISDFGLSRDVYEEDSYVKRSQGRIPVKWMAIESLFDHIYTTQSDVWSFGVLLWEIVTLGGNPYPGIPPERLFNLLKTGHRMERPDNCSEEMYRLMLQCWKQEPDKRPVFADISKDLEKMMVKRRDYLDLAASTPSDSLIYDDGLSEEETPLVDCNNAPLPRALPSTWIENKLYGRISHAFTRF
+PTM	Glycosylation:336,343,468;Methylation:24,424,728,758,780,965,1003,1007,1060;Phosphorylation:41,201,291,411,686,687,688,689,696,699,752,753,754,826,836,900,904,905,1015,1029,1062,1090,1096

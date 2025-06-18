@@ -1,0 +1,25 @@
+UniprotID	A0A096LPC8
+Accession	A0A096LPC8
+EntryName	A0A096LPC8_HUMAN
+ProteinName	Oxysterol binding protein like 9
+GeneName	OSBPL9
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EIFSPNDKKSFCSIEGEWNGVMYAKYATGENTVFVDTKKLPIIKKKVRKLEDQNEYESRSLWKDVTFNLKIRDIDAATEAKHRLEERQRAEARERKEKEIQWETRLFHEDGECWVYDEPLLKRLGAAKH
+PTM	

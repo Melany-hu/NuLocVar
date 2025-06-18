@@ -1,0 +1,25 @@
+UniprotID	P08949-2
+Accession	P08949;Q96A06;Q96HH5
+EntryName	NMB_HUMAN
+ProteinName	Neuromedin-B [Cleaved into: Neuromedin-B-32; Neuromedin-B]
+GeneName	NMB
+Length	154
+Function	Stimulates smooth muscle contraction (By similarity). Induces sighing by acting directly on the pre-Botzinger complex, a cluster of several thousand neurons in the ventrolateral medulla responsible for inspiration during respiratory activity (By similarity). Contributes to the induction of sneezing following exposure to chemical irritants or allergens which causes release of NMB by nasal sensory neurons and activation of NMBR-expressing neurons in the sneeze-evoking region of the brainstem (By similarity). These in turn activate neurons of the caudal ventral respiratory group, giving rise to the sneezing response (By similarity). Contributes to induction of acute itch, possibly through activation of the NMBR receptor on dorsal root ganglion neurons (By similarity). Increases expression of NMBR and steroidogenic mediators STAR, CYP11A1 and HSD3B1 in Leydig cells, induces secretion of testosterone by Leydig cells and also promotes Leydig cell proliferation (By similarity). Plays a role in the innate immune response to influenza A virus infection by enhancing interferon alpha expression and reducing expression of IL6 (PubMed:31601264). Plays a role in CSF1-induced proliferation of osteoclast precursors by contributing to the positive regulation of the expression of the CSF1 receptor CSF1R (By similarity).
+Subcellular Location	Secreted; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARRAGGARMFGSLLLFALLAAGVAPLSWDLPEPRSRASKIRVHSRGNLWATGHFMGKKSLEPSSPSPLGTAPHTSLRDQRLQLSHDLLGILLLKKALGVSLSRPAPQIQEAAGTNTAEMTPIMGQTQQRGLDCAHPGKVLNGTLLMAPSGCKS
+PTM	Methylation:95;Phosphorylation:103

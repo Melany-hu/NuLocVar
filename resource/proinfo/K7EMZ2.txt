@@ -1,0 +1,25 @@
+UniprotID	K7EMZ2
+Accession	K7EMZ2
+EntryName	K7EMZ2_HUMAN
+ProteinName	tRNA methyltransferase 1
+GeneName	TRMT1
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RIQLGAKGIQIKVPGEKDTQKVVVDLSEQEEEKVELKESENLASGDQPRTAAVGEICERCLGSDLWLQTMPPPGLWISYAGMSSSMTWPTWYSRAKQMPGC
+PTM	

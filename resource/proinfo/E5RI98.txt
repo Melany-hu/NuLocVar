@@ -1,0 +1,25 @@
+UniprotID	E5RI98
+Accession	E5RI98
+EntryName	E5RI98_HUMAN
+ProteinName	Nucleophosmin
+GeneName	NPM1
+Length	230
+Function	
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	30...38
+nlsdbnls_region	88...93;127...133
+validnes_region	30...38
+nesbase_region	
+Sequence	MNYEGSPIKVTLATLKMSVQPTVSLGGFEITPPVVLRLKCGSGPVHISGQHLVAVEEDAESEDEEEEDVKLLSISGKRSAPGGGSKVPQKKVKLAADEDDDDDDEEDDDEDDDDDDFDDEEAEEKAPVKKSIRDTPAKNAQKSNQNGKDSKPSSTPRSKGQESFKKQEKTPKTPKGPSSVEDIKAKMQASIEKGGSLPKVEAKFINYVKNCFRMTDQEAIQDLWQWRKSL
+PTM	

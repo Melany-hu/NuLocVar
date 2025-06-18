@@ -1,0 +1,25 @@
+UniprotID	F6S8H2
+Accession	F6S8H2
+EntryName	F6S8H2_HUMAN
+ProteinName	FA core complex associated protein 20
+GeneName	FAAP20
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...17
+validnes_region	
+nesbase_region	
+Sequence	MEAARRPRLGLSRRRPRPAGGSPGAARSPLKSSLSDPRPFPGHPFRRTCGARAVPTGCFTGQEGTWNPPPGPCPSARHLIPAGPPGWSSSRLWRVPRPCAAAPCARRSSPPGTSTPAPTCVPLAPKLPPYVWVASEMWGRRHSRKKGIRGASTSSEHFIPQDATRSLSWRSRSVHRVLFPWKMCTLETA
+PTM	

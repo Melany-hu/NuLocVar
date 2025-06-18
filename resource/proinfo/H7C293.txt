@@ -1,0 +1,25 @@
+UniprotID	H7C293
+Accession	H7C293
+EntryName	H7C293_HUMAN
+ProteinName	Mitotic spindle organizing protein 2B
+GeneName	MZT2B
+Length	120
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GSAAPPGLEAARQKLALRRKKVLSTEEMELYELAQAAGGAIDPDVFKEKQRQRCPRGSIGPGGTQQPRRIQPEDATPAQRYQAAQGGRAWEEPYTGQHLGWGRDLLHLCPQQRLHVTSFN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96T76-9
+Accession	Q96T76;B0QZ75;B3KPE5;B4DQX2;B4E2I3;D3DR55;F8W9Y2;Q17RZ8;Q5T455;Q66K82;Q7L4W8;Q969Z1;Q96DF1;Q96MR1;Q96RK5;Q96SK1;Q9BUE2;Q9BYS9
+EntryName	MMS19_HUMAN
+ProteinName	MMS19 nucleotide excision repair protein homolog (hMMS19) (MET18 homolog) (MMS19-like protein)
+GeneName	MMS19 MMS19L
+Length	987
+Function	Key component of the cytosolic iron-sulfur protein assembly (CIA) complex, a multiprotein complex that mediates the incorporation of iron-sulfur cluster into apoproteins specifically involved in DNA metabolism and genomic integrity (PubMed:29848660). In the CIA complex, MMS19 acts as an adapter between early-acting CIA components and a subset of cellular target iron-sulfur proteins such as ERCC2/XPD, FANCJ and RTEL1, thereby playing a key role in nucleotide excision repair (NER), homologous recombination-mediated double-strand break DNA repair, DNA replication and RNA polymerase II (POL II) transcription (PubMed:22678361, PubMed:22678362, PubMed:23585563, PubMed:29225034). As part of the mitotic spindle-associated MMXD complex, plays a role in chromosome segregation, probably by facilitating iron-sulfur (Fe-S) cluster assembly into ERCC2/XPD (PubMed:20797633). Together with CIAO2, facilitates the transfer of Fe-S clusters to the motor protein KIF4A, which ensures proper localization of KIF4A to mitotic machinery components to promote the progression of mitosis (PubMed:29848660). Indirectly acts as a transcriptional coactivator of estrogen receptor (ER), via its role in iron-sulfur insertion into some component of the TFIIH-machinery (PubMed:11279242).
+Subcellular Location	Nucleus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAAAVEAAAPMGALWGLVHDFVVGQQEGPADQVAADVKSGNYTVLQVVEALGSSLENPEPRTRARAIQLLSQVLLHCHTLLLEKEVVHLILFYENRLKDHHLVIPSVLQGLKALSLCVALPPGLAVSVLKAIFQEVHVQSLPQVDRHTVYNIITNFMRTREEGPFVEELFEVTSCYFPIDFTPPPNDPHGIQREDLILSLRAVLASTPRFAEFLLPLLIEKVDSEVLSAKLDSLQTLNACCAVYGQKELKDFLPSLWASIRREVFQTASERVEAEGLAALHSLTACLSRSVLRADAEDLLDSFLSNILQDCRHHLCEPDMKLVWPSAKLLQAAAGASARACDSVTSNVLPLLLEQFHKHSQSSQRRTILEMLLGFLKLQQKWSYEDKDQRPLNGFKDQLCSLVFMALTDPSTQLQLVGIRTLTVLGAQPDLLSYEDLELAVGHLYRLSFLKEDSQSCRVAALEASGTLAALYPVAFSSHLVPKLAEELRVGESNLTNGDEPTQCSRHLCCLQALSAVSTHPSIVKETLPLLLQHLWQVNRGNMVAQSSDVIAVCQSLRQMAEKCQQDPESCWYFHQTAIPCLLALAVQASMPEKEPSVLRKVLLEDEVLAAMVSVIGTATTHLSPELAAQSVTHIVPLFLDGNVSFLPENSFPSRFQPFQDGSSGQRRLIALLMAFVCSLPRNVEIPQLNQLMRELLELSCCHSCPFSSTAAAKCFAGLLNKHPAGQQLDEFLQLAVDKVEAGLGSGPCRSQAFTLLLWVTKALVLRYHPLSSCLTARLMGLLSDPELGPAAADGFSLLMSDCTDVLTRAGHAEVRIMFRQRFFTDNVPALVQGFHAAPQDVKPNYLKGLSHVLNRLPKPVLLPELPTLLSLLLEALSCPDCVVQLSTLSCLQPLLLEAPQVMSLHVDTLVTKFLNLSSSPSMAVRIAALQCMHALTRLPTPVLLPYKPQVIRALAKPLDDKKRLVRKEAVSARGEWFLLGSPGS
+PTM	Acetylation:366,432,496;Methylation:86,167,266,496,646,759,767,784,893,1007;Phosphorylation:73,81,273,335,493,499,501,510,512,517,522,523,965,967,1027,1030;SUMOylation:432,528;Ubiquitylation:292,366,373,426,496,528,888,993

@@ -1,0 +1,25 @@
+UniprotID	F5H0K7
+Accession	F5H0K7
+EntryName	F5H0K7_HUMAN
+ProteinName	Roundabout guidance receptor 3
+GeneName	ROBO3
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPPLQGPRARFRKKPKALPYRRENSPGDLPPPPLPPPEEEASWALELRAAGSMSSLERERSGERKAVQAVPLAAQRVLHPDEEAWLPYSRPSFLSRGQGTSTCSTAGSNSSRGSSSSRGSRGPGRSRSRSQSRSQSQRPGQKRREEPR
+PTM	

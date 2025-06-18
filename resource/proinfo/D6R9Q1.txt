@@ -1,0 +1,25 @@
+UniprotID	D6R9Q1
+Accession	D6R9Q1
+EntryName	D6R9Q1_HUMAN
+ProteinName	Peptidylprolyl isomerase domain and WD repeat containing 1
+GeneName	PPWD1
+Length	241
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYERSYMHRDVITHVVCTKTDFIITASHDGHVKFWKKIEEGIEFVKHFRSHLGVIESIAVSSEGALFCSVGDDKAMKVFDVVNFDMINMLKLGYFPGQCEWIYCPGDAISSVAASEKSTGKIFIYDGRGDNQPLHIFDKLHTSPLTQIRLNPVYKAVVSSDKSGMIEYWTGPPHEYKFPKNVNWEYKTDTDLYEFAKCKAYPTSVCFSPDGKKIATIGSDRKVRIFRFVTGKLMRVFDESL
+PTM	

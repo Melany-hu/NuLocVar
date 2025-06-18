@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GU62
+Accession	A0A1B0GU62
+EntryName	A0A1B0GU62_HUMAN
+ProteinName	ceramidase (EC 3.5.1.23)
+GeneName	ASAH1
+Length	185
+Function	
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGRSCVALVLLAAAVSCAVAQHAPPWTEDCRKSTYPPSGPTYRGAVPWYTINLDLPPYKRWHELMLDKAPVLKVIVNSLKNMINTFVPSGKIMQVVDEKLPGLLGNFPGPFEEEMKGEIISFNIFYELFTICTSIVAEDKKGHLIHGRNMDFGVFLGWNINNDTWVITEQLKPLTVNLDFQRNN
+PTM	

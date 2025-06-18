@@ -1,0 +1,25 @@
+UniprotID	Q13163-2
+Accession	Q13163;B4DE43;Q92961;Q92962
+EntryName	MP2K5_HUMAN
+ProteinName	Dual specificity mitogen-activated protein kinase kinase 5 (MAP kinase kinase 5) (MAPKK 5) (EC 2.7.12.2) (MAPK/ERK kinase 5) (MEK 5)
+GeneName	MAP2K5 MEK5 MKK5 PRKMK5
+Length	438
+Function	Acts as a scaffold for the formation of a ternary MAP3K2/MAP3K3-MAP3K5-MAPK7 signaling complex. Activation of this pathway appears to play a critical role in protecting cells from stress-induced apoptosis, neuronal survival and cardiac development and angiogenesis. As part of the MAPK/ERK signaling pathway, acts as a negative regulator of apoptosis in cardiomyocytes via promotion of STUB1/CHIP-mediated ubiquitination and degradation of ICER-type isoforms of CREM (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLWLALGPFPAMENQVLVIRIKIPNSGAVDWTVHSGPQLLFRDVLDVIGQVLPEATTTAFEYEDEDGDRITVRSDEEMKAMLSYYYSTVMEQQVNGQLIEPLQIFPRACKPPGERNIHGLKVNTRAGPSQHSSPAVSDSLPSNSLKKSSAELKKILANGQMNEQDIRYRDTLGHGNGGTVYKAYHVPSGKILAVKVILLDITLELQKQIMSELEILYKCDSSYIIGFYGAFFVENRISICTEFMDGGSLDVYRKMPEHVLGRIAVAVVKGLTYLWSLKILHRDVKPSNMLVNTRGQVKLCDFGVSTQLVNSIAKTYVGTNAYMAPERISGEQYGIHSDVWSLGISFMEIQKNQGSLMPLQLLQCIVDEDSPVLPVGEFSEPFVHFITQCMRKQPKERPAPEELMGHPFIVQFNDGNAAVVSMWVCRALEERRSQQGPP
+PTM	Methylation:125,207,269;Phosphorylation:129,132,133,142,144,148,149,306,311;SUMOylation:121,146,285;Ubiquitylation:146,147

@@ -1,0 +1,25 @@
+UniprotID	H0Y5A3
+Accession	H0Y5A3
+EntryName	H0Y5A3_HUMAN
+ProteinName	GRAM domain containing 4
+GeneName	GRAMD4
+Length	223
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEDFRFQPEENTVETEEPLSARRLTENMRRLKRGAKPVTNFVKNLSALSDWYSVYTSAIAFTVYMNAVWHGWAIPLFLFLAILRLSLNYLIARGWRIQWSIVPEVSEPVEPPKEDLTVSEKFQLVLDVAQKAQNLFGKMADILEKIKNLFMWVQPEITQKLYVALWAAFLASCFFPYRLVGLAVVLTRDLSLEGQRLPAPSKDGPSWDLGSLELSCPSWVGHH
+PTM	

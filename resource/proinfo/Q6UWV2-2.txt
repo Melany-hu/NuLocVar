@@ -1,0 +1,25 @@
+UniprotID	Q6UWV2-2
+Accession	Q6UWV2;A8K025;B4DLD5;B4E2I8
+EntryName	MPZL3_HUMAN
+ProteinName	Myelin protein zero-like protein 3
+GeneName	MPZL3 UNQ2966/PRO7425
+Length	223
+Function	Mediates homophilic cell-cell adhesion.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQRGAAGSRGCALFPLLGVLFFQDAHVRGYVGEKIKLKCTFKSTSDVTDKLTIDWTYRPPSSSHTVSIFHYQSFQYPTTAGTFRDRISWVGNVYKGDASISISNPTIKDNGTFSCAVKNPPDVHHNIPMTELTVTERGFGTMLSSVALLSILVFVPSAVVVALLLVRMGRKAAGLKKRSRSGYKKSSIEVSDDTDQEEEEACMARLCVRCAECLDSDYEETY
+PTM	Glycosylation:123;Phosphorylation:204,207;Ubiquitylation:198

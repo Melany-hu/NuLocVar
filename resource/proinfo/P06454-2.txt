@@ -1,0 +1,25 @@
+UniprotID	P06454-2
+Accession	P06454;Q15249;Q15592
+EntryName	PTMA_HUMAN
+ProteinName	Prothymosin alpha [Cleaved into: Prothymosin alpha, N-terminally processed; Thymosin alpha-1]
+GeneName	PTMA TMSA
+Length	110
+Function	Prothymosin alpha may mediate immune function by conferring resistance to certain opportunistic infections.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDAAVDTSSEITTKDLKEKKEVVEEAENGRDAPANGNANEENGEQEADNEVDEEEEEGGEEEEEEEEGDGEEEDGDEDEEAESATGKRAAEDDEDDDVDTKKQKTDEDD
+PTM	Acetylation:15,18,20,21,103;Methylation:90;Phosphorylation:2,8,9,10,13,14,85,102,107;SUMOylation:15;Ubiquitylation:15,18,20,21,103,104

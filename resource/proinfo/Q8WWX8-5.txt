@@ -1,0 +1,25 @@
+UniprotID	Q8WWX8-5
+Accession	Q8WWX8;B7Z329;Q05BF1;Q6PF02;Q6ZUW3;Q86Y55;Q96PP5
+EntryName	SC5AB_HUMAN
+ProteinName	Sodium/myo-inositol cotransporter 2 (Na(+)/myo-inositol cotransporter 2) (Sodium-dependent glucose cotransporter) (Sodium/glucose cotransporter KST1) (Sodium/myo-inositol transporter 2) (SMIT2) (Solute carrier family 5 member 11)
+GeneName	SLC5A11 KST1 SLGTX SMIT2
+Length	605
+Function	Involved in the sodium-dependent cotransport of myo-inositol (MI) with a Na(+):MI stoichiometry of 2:1 (PubMed:15172003, PubMed:19032932). Exclusively responsible for apical MI transport and absorption in intestine (By similarity). Can also transport D-chiro-inositol (DCI) but not L-fucose (PubMed:15172003, PubMed:19032932). Exhibits stereospecific cotransport of both D-glucose and D-xylose (By similarity). May induce apoptosis through the TNF-alpha, PDCD1 pathway (PubMed:15172003, PubMed:18069935). May play a role in the regulation of MI concentration in serum, involving reabsorption in at least the proximal tubule of the kidney (By similarity).
+Subcellular Location	Membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESGTSSPQPPQLDPLDAFPQKGLEPGDIAVLVLYFLFVLAVGLWSTVKTKRDTVKGYFLAGGDMVWWPGLFSVLMLAWIFLPIYIAGQVDMYAGAIFIQQSLHLDLYLAIVGLLAITAVYTVAGGLAAVIYTDALQTLIMLIGALTLMGYSFAAVGGMEGLKEKYFLALASNRSENSSCGLPREDAFHIFRDPLTSDLPWPGVLFGMSIPSLWYWCTDQVIVQRTLAAKNLSHAKGGALMAAYLKVLPLFIMVFPGMVSRILFPDQVACADPEICQKICSNPSGCSDIAYPKLVLELLPTGLRGLMMAVMVAALMSSLTSIFNSASTIFTMDLWNHLRPRASEKELMIVGRVFVLLLVLVSILWIPVVQASQGGQLFIYIQSISSYLQPPVAVVFIMGCFWKRTNEKGAFWGLISGLLLGLVRLVLDFIYVQPRCDQPDERPVLVKSIHYLYFSMILSTVTLITVSTVSWFTEPPSKEMVSHLTWFTRHDPVVQKEQAPPAAPLSLTLSQNGMPEASSSSSVQFEMVQENTSKTHSCDMTPKQSKVVKAILWLCGIQEKGKEELPARAEAIIVSLEENPLVKTLLDVNLIFCVSCAIFIWGYFA
+PTM	Glycosylation:243,247;Methylation:233,316,478,517,566,630

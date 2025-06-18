@@ -1,0 +1,25 @@
+UniprotID	B0QYP2
+Accession	B0QYP2
+EntryName	B0QYP2_HUMAN
+ProteinName	Chromobox 7
+GeneName	CBX7
+Length	158
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	71...76;70...75
+validnes_region	
+nesbase_region	
+Sequence	MELSAIGEQVFAVESIRKKRVRKGKVEYLVKWKGWPPKYSTWEPEEHILDPRLVMAYEEKEERDRASGYRKRGPKPKRLLLQEPPAPDVLQAAGEWEPAAQPPEEEADADLAEGPPPWTPALPSSEVTVTDITANSITVTFREAQAAEGFFRDRSGKF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5J8X5-2
+Accession	Q5J8X5;B2RTS9;Q5J8X3;Q5J8X4
+EntryName	M4A13_HUMAN
+ProteinName	Membrane-spanning 4-domains subfamily A member 13 (Testis-expressed transmembrane protein 4)
+GeneName	MS4A13
+Length	112
+Function	May be involved in signal transduction as a component of a multimeric receptor complex.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIGIFHIFMWYFLLVLYMGQIKGAFGTYEPVTYKTGCTLWGIFFIIAGVFLIRVTKYPTRSGKLGREVSRILLFFYGLEFSIALTHSIYSCSNLFRRQNDLTSVTEEAESTP
+PTM	Methylation:34

@@ -1,0 +1,25 @@
+UniprotID	F8VU19
+Accession	F8VU19
+EntryName	F8VU19_HUMAN
+ProteinName	Glycosyltransferase 8 domain containing 2
+GeneName	GLT8D2
+Length	83
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLRKINQVLLFLLIVTLCVILYKKVHKGTVPKNDAESHSVAPAQIQWHNSSSLQPRPPGLKQSSGLSTPGSWNYRIPVLLG
+PTM	

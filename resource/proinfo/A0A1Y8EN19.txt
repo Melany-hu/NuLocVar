@@ -1,0 +1,25 @@
+UniprotID	A0A1Y8EN19
+Accession	A0A1Y8EN19
+EntryName	A0A1Y8EN19_HUMAN
+ProteinName	Rho/Rac guanine nucleotide exchange factor 2
+GeneName	ARHGEF2
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRTWRREAPNGVALCQLTSLFQGLQLGHPKTGQVTAHRRRGVLPFTSGSPMSAPAVFCPRESSEGGDCKHRDAQAPRRPSSCRSEKDWTPFWDCSTRVATPPGWIRIPVIHLLALWTTRPLACFPSLY
+PTM	

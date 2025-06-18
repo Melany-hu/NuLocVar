@@ -1,0 +1,25 @@
+UniprotID	Q9BRX5-3
+Accession	Q9BRX5;B2RDP3;E9PB21;Q9H870
+EntryName	PSF3_HUMAN
+ProteinName	DNA replication complex GINS protein PSF3 (GINS complex subunit 3)
+GeneName	GINS3 PSF3
+Length	255
+Function	Required for correct functioning of the GINS complex, a complex that plays an essential role in the initiation of DNA replication, and progression of DNA replication forks (PubMed:17417653, PubMed:28414293). GINS complex is a core component of CDC45-MCM-GINS (CMG) helicase, the molecular machine that unwinds template DNA during replication, and around which the replisome is built (PubMed:32453425, PubMed:34694004, PubMed:34700328, PubMed:35585232).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	117...121
+validnes_region	
+nesbase_region	
+Sequence	MSEAYFRVESGALGPEENFLSLDDILMSHEKLPVRTETAMPRLGAFFLERSAGAETDNAVPQGFALLPRLECSGVIWLTAALTSQAPEILPPQPPMWLVLQGSKLELPLWLAKGLFDNKRRILSVELPKIYQEGWRTVFSADPNVVDLHKMGPHFYGFGSQLLHFDSPENADISQSLLQTFIGRFRRIMDSSQNAYNEDTSALVARLDEMERGLFQTGQKGLNDFQCWEKGQASQITASNLVQNYKKRKFTDMED
+PTM	Methylation:80;Phosphorylation:195;SUMOylation:65;Ubiquitylation:31,65,74,80,90,181,191

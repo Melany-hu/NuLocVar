@@ -1,0 +1,25 @@
+UniprotID	Q9NYZ4-2
+Accession	Q9NYZ4;Q7Z728
+EntryName	SIGL8_HUMAN
+ProteinName	Sialic acid-binding Ig-like lectin 8 (Siglec-8) (Sialoadhesin family member 2) (SAF-2)
+GeneName	SIGLEC8 SAF2
+Length	406
+Function	Putative adhesion molecule that mediates sialic-acid dependent binding to blood cells (PubMed:10625619, PubMed:10856141). Preferentially binds to alpha-2,3-linked sialic acid. Also binds to alpha-2,6-linked sialic acid. The sialic acid recognition site may be masked by cis interactions with sialic acids on the same cell surface (PubMed:10625619). Recognizes simultaneously epitopes having a terminal N-acetylneuraminic acid (sialic acid) and an underlying 6-O-sulfated galactose. Preferentially binds to Gal-6-sulfated sialyl-Lewis X glycan epitopes (PubMed:27357658).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLLLPLLWGTKGMEGDRQYGDGYLLQVQELVTVQEGLCVHVPCSFSYPQDGWTDSDPVHGYWFRAGDRPYQDAPVATNNPDREVQAETQGRFQLLGDIWSNDCSLSIRDARKRDKGSYFFRLERGSMKWSYKSQLNYKTKQLSVFVTDPPWNLTMTVFQGDATASTALGNGSSLSVLEGQSLRLVCAVNSNPPARLSWTRGSLTLCPSRSSNPGLLELPRVHVRDEGEFTCRAQNAQGSQHISLSLSLQNEGTGTSRPVSQVTLAAVGGAGATALAFLSFCIIFIIVRSCRKKSARPAAGVGDTGMEDAKAIRGSASQGPLTESWKDGNPLKKPPPAVAPSSGEEGELHYATLSFHKVKPQDPQGQEATDSEYSEIKIHKRETAETQACLRNHNPSSKEVRG
+PTM	Methylation:214;Phosphorylation:108,110,307,327

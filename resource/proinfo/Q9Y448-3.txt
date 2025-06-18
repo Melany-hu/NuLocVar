@@ -1,0 +1,25 @@
+UniprotID	Q9Y448-3
+Accession	Q9Y448;B4DXA7;Q147U5;Q32Q57;Q5ISJ0;Q6P2S5;Q6PJM0;Q86XB4
+EntryName	SKAP_HUMAN
+ProteinName	Small kinetochore-associated protein (SKAP) (Kinetochore-localized astrin-binding protein) (Kinastrin) (Kinetochore-localized astrin/SPAG5-binding protein) (TRAF4-associated factor 1)
+GeneName	KNSTRN C15orf23 SKAP TRAF4AF1 HSD11
+Length	241
+Function	Essential component of the mitotic spindle required for faithful chromosome segregation and progression into anaphase (PubMed:19667759). Promotes the metaphase-to-anaphase transition and is required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture (PubMed:19667759, PubMed:22110139). The astrin (SPAG5)-kinastrin (SKAP) complex promotes stable microtubule-kinetochore attachments (PubMed:21402792). Required for kinetochore oscillations and dynamics of microtubule plus-ends during live cell mitosis, possibly by forming a link between spindle microtubule plus-ends and mitotic chromosomes to achieve faithful cell division (PubMed:23035123). May be involved in UV-induced apoptosis via its interaction with PRPF19; however, these results need additional evidences (PubMed:24718257).
+Subcellular Location	Nucleus; Chromosome; Centromere; Kinetochore; Cytoplasm; Cytoskeleton; Spindle pole; Cytoplasm; Cytoskeleton; Microtubule organizing center
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPEAPPLDRVFRTTWLSTECDSHPLPPSYRKFLFETQAADLAGGTTVAAGNLLNESEKDCGQDRRAPGVQPCRLVTMTSVVKTVYSLQPPSALSGGQPADTQTRATSKSLLPVRSKEVDVSKQLHSGGPENDVTKITKLRRENGQMKATDTATRRNVRKGYKPLSKQKSEEELKDKNQLLEAVNKQLHQKLTETQGELKDLTQKVELLEKFRDNCLAILESKGLDPVAVRNFARGAEAF
+PTM	Acetylation:110,283;Methylation:176,187,206,212,224,260,277,283;Phosphorylation:105,108,109,111,117,123,128,163,167,171,241,248;SUMOylation:110,170,178,201,224;Ubiquitylation:110,178,201,224,267

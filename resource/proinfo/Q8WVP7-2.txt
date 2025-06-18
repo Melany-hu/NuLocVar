@@ -1,0 +1,25 @@
+UniprotID	Q8WVP7-2
+Accession	Q8WVP7;A4D242;Q8N3E3;Q96QZ5;Q9H5N0;Q9HAG9;Q9UDN5;Q9Y6U2
+EntryName	LMBR1_HUMAN
+ProteinName	Limb region 1 protein homolog (Differentiation-related gene 14 protein)
+GeneName	LMBR1 C7orf2 DIF14
+Length	228
+Function	Putative membrane receptor.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGQDEVSAREQHFHSQVRESTICFLLFAILYVVSYFIITRYKRKSDEQEDEDAIVNRISLFLSTFTLAVSAGAVLLLPFSIISNEILLSFPQNYYIQWLNGSLIHGLWNLASLFSNLCLFVLMPFAFFFLESEGFAGLKKGIRARILETLVMLLLLALLILGIVWVASALIDNDAASMESLYDLWEFYLPYLYSCISLMGCLLLHLPNTSRDSETAKPSVNGHQKAL
+PTM	Methylation:226,273;Phosphorylation:368,451,452;Ubiquitylation:45,284,378

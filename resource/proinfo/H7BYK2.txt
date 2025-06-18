@@ -1,0 +1,25 @@
+UniprotID	H7BYK2
+Accession	H7BYK2
+EntryName	H7BYK2_HUMAN
+ProteinName	5-phosphohydroxy-L-lysine phospho-lyase
+GeneName	PHYKPL
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVPDIVTMGKSIGNGHPVACVAATQPVARAFEATGVEYFNTFGGSPVSCAVGLAVLNVLEKEQLQDHATSVGSFLMQLLGQQKIKHPIVGDVRGVGLFIGVDLIKDEATRTPATEEAAYLVSRLKENYVLLSTDGPGRNILKFKPPMCFSLDNARQVVAKLDAILTDMEEKVRSCETLRLQP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	M0QYW9
+Accession	M0QYW9
+EntryName	M0QYW9_HUMAN
+ProteinName	Zinc finger protein 418
+GeneName	ZNF418
+Length	128
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQGTVAFEDVAVNFSQEEWSLLSEVQRCLYHDVMLENWVLISSLGCWCGSEDEEAPSKKSISIQRVSQNVRLSAQAGVARSQLTAASTSRVQAILLPQPPGDLKGISLCPPHLFIFGKLYAFASSPRL
+PTM	

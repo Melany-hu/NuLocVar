@@ -1,0 +1,25 @@
+UniprotID	Q9NTJ5-2
+Accession	Q9NTJ5;A8K527;B4DK71;O94935;Q7LA14;Q7LA22;Q96AX7;Q9NQ46;Q9NQ57
+EntryName	SAC1_HUMAN
+ProteinName	Phosphatidylinositol-3-phosphatase SAC1 (EC 3.1.3.64) (Phosphatidylinositol-4-phosphate phosphatase) (Suppressor of actin mutations 1-like protein)
+GeneName	SACM1L KIAA0851 SAC1
+Length	526
+Function	Phosphoinositide phosphatase which catalyzes the hydrolysis of phosphatidylinositol 4-phosphate (PtdIns(4)P) (PubMed:24209621, PubMed:27044890, PubMed:29461204, PubMed:30659099). Can also catalyze the hydrolysis of phosphatidylinositol 3-phosphate (PtdIns(3)P) and has low activity towards phosphatidylinositol-3,5-bisphosphate (PtdIns(3,5)P2) (By similarity). Shows a very robust PtdIns(4)P phosphatase activity when it binds PtdIns(4)P in a 'cis' configuration in the cellular environment, with much less activity seen when it binds PtdIns(4)P in 'trans' configuration (PubMed:24209621, PubMed:29461204, PubMed:30659099). PtdIns(4)P phosphatase activity (when it binds PtdIns(4)P in 'trans' configuration) is enhanced in the presence of PLEKHA3 (PubMed:30659099).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWKLVMMEQMTYLPLTVCPQRLPLQSRKMFLLQLSQDQYLVYWAQSIWWQLQDNKTFLAMLNHVLNVDGFYFSTTYDLTHTLQRLSNTSPEFQEMSLLERADQRFVWNGHLLRELSAQPEVHRFALPVLHGFITMHSCSINGKYFDWILISRRSCFRAGVRYYVRGIDSEGHAANFVETEQIVHYNGSKASFVQTRGSIPVFWSQRPNLKYKPLPQISKVANHMDGFQRHFDSQVIIYGKQVIINLINQKGSEKPLEQTFATMVSSLGSGMMRYIAFDFHKECKNMRWDRLSILLDQVAEMQDELSYFLVDSAGQVVANQEGVFRSNCMDCLDRTNVIQSLLARRSLQAQLQRLGVLHVGQKLEEQDEFEKIYKNAWADNANACAKQYAGTGALKTDFTRTGKRTHLGLIMDGWNSMIRYYKNNFSDGFRQDSIDLFLGNYSVDELESHSPLSVPRDWKFLALPIIMVVAFSMCIICLLMAGDTWTETLAYVLFWGVASIGTFFIILYNGKDFVDAPRLVQKEKID
+PTM	Acetylation:10,45,101,342,456;Methylation:10,432;Phosphorylation:511,514;Ubiquitylation:101,250,273,280,315,447,456,483

@@ -1,0 +1,25 @@
+UniprotID	A0A087WZZ6
+Accession	A0A087WZZ6
+EntryName	A0A087WZZ6_HUMAN
+ProteinName	Mucin-1
+GeneName	MUC1
+Length	123
+Function	
+Subcellular Location	Apical cell membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPGTQSPFFLLLLLTVLTATTAPKPATVVTGSGHASSTPGGEKETSATQRSSVPSSTEKNALSTGVSFFFLSFHISNLQFNSSLEDPSTDYYQELQRDISEMFLQIYKQGGFLGLSNIKFSE
+PTM	

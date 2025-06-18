@@ -1,0 +1,25 @@
+UniprotID	Q92988-2
+Accession	Q92988;D3DTX2;D3DTX3;O60480;Q13265;Q6PJK0;Q9HBE0
+EntryName	DLX4_HUMAN
+ProteinName	Homeobox protein DLX-4 (Beta protein 1) (Homeobox protein DLX-7) (Homeobox protein DLX-8)
+GeneName	DLX4 BP1 DLX7 DLX8 DLX9
+Length	168
+Function	May play a role in determining the production of hemoglobin S. May act as a repressor. During embryonic development, plays a role in palatogenesis.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	41...46
+validnes_region	
+nesbase_region	
+Sequence	MKLSVLPPRSLLAPYTVLCCPPDSEKPRLSPEPSERRPQAPAKKLRKPRTIYSSLQLQHLNQRFQHTQYLALPERAQLAAQLGLTQTQVKIWFQNKRSKYKKLLKQNSGGQEGDFPGRTFSVSPCSPPLPSLWDLPKAGTLPTSGYGNSFGAWYQHHSSDVLASPQMM
+PTM	Methylation:115,209;Phosphorylation:198

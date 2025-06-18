@@ -1,0 +1,25 @@
+UniprotID	Q96HR3-2
+Accession	Q96HR3;C6GKU9
+EntryName	MED30_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 30 (Mediator complex subunit 30) (TRAP/Mediator complex component TRAP25) (Thyroid hormone receptor-associated protein 6) (Thyroid hormone receptor-associated protein complex 25 kDa component) (Trap25)
+GeneName	MED30 THRAP6 TRAP25
+Length	143
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTPPLAASGMAPGPFAGPQAQQAAREVNTASLCRIGQETVQDIVYRTMEIFQLLRNMQLPNGVTYHTGTYQDRLTKLQDNLRQLSVLFRKLRLVYDKCNENCGGMDPIPVEKLKQKNQQLKQIMDQLRNLIWDINAMLAMRN
+PTM	Acetylation:77,147;Methylation:147,157;Phosphorylation:2,3,9;Ubiquitylation:77,147,150

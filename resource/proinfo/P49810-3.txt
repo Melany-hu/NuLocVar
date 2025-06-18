@@ -1,0 +1,25 @@
+UniprotID	P49810-3
+Accession	P49810;A8K8D4;B1AP21;Q96P32
+EntryName	PSN2_HUMAN
+ProteinName	Presenilin-2 (PS-2) (EC 3.4.23.-) (AD3LP) (AD5) (E5-1) (STM-2) [Cleaved into: Presenilin-2 NTF subunit; Presenilin-2 CTF subunit]
+GeneName	PSEN2 AD4 PS2 PSNL2 STM2
+Length	447
+Function	Probable catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Requires the other members of the gamma-secretase complex to have a protease activity. May play a role in intracellular signaling and gene expression or in linking chromatin to the nuclear membrane. May function in the cytoplasmic partitioning of proteins. The holoprotein functions as a calcium-leak channel that allows the passive movement of calcium from endoplasmic reticulum to cytosol and is involved in calcium homeostasis (PubMed:16959576). Is a regulator of mitochondrion-endoplasmic reticulum membrane tethering and modulates calcium ions shuttling between ER and mitochondria (PubMed:21285369).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTFMASDSEEEVCDERTSLMSAESPTPRSCQEGRQGPEDGENTAQWRSQENEEDGEEDPDRYVCSGVPGRPPGLEEELTLKYGAKHVIMLFVPVTLCMIVVVATIKSVRFYTEKNGQLIYTPFTEDTPSVGQRLLNSVLNTLIMISVIVVMTIFLVVLYKYRCYKFIHGWLIMSSLMLLFLFTYIYLGEVLKTYNVAMDYPTLLLTVWNFGAVGMVCIHWKGPLVLQQAYLIMISALMALVFIKYLPEWSAWVILGAISVYDLVAVLCPKGPLRMLVETAQERNEPIFPALIYSSAMVWTVGMAKLDPSSQGALQLPYDPEMEDSYDSFGEPSYPEVFEPPLTGYPGEELEEEEERGVKLGLGDFIFYSVLVGKAAATGSGDWNTTLACFVAILIGLCLTLLLLAVFKKALPALPISITFGLIFYFSTDNLVRPFMDTLASHQLYI
+PTM	Methylation:82,107,193,376;Phosphorylation:18,19,22,25,27,49,122,125,128,162,165;Ubiquitylation:82,115

@@ -1,0 +1,25 @@
+UniprotID	Q12794-3
+Accession	Q12794;Q6FH23;Q6PIZ6;Q7KYU2;Q7LE34;Q8NFK5;Q8NFK6;Q8NFK7;Q8NFK8;Q8NFK9;Q93013;Q9UKD5;Q9UNI8
+EntryName	HYAL1_HUMAN
+ProteinName	Hyaluronidase-1 (Hyal-1) (EC 3.2.1.35) (Hyaluronoglucosaminidase-1) (Lung carcinoma protein 1) (LuCa-1)
+GeneName	HYAL1 LUCA1
+Length	253
+Function	May have a role in promoting tumor progression. May block the TGFB1-enhanced cell growth.
+Subcellular Location	Secreted; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGTLQLGRALRPRGLWGFYGFPDCYNYDFLSPNYTGQCPSGIRAQNDQLGWLWGQSRALYPSIYMPAVLEGTGKSQMYVQHRVAEAFRVAVAAGDPNLPVLPYVQIFYDTTNHFLPLDELEHSLGESAAQGAAGVVLWVSWENTRTKESCQAIKEYMDTTLGPFILNVTSGALLCSQALCSGHGRCVRRTSHPKALLLLNPASFSIQLTPGGGPLSLRGALSLEDQAQMAVEFKCRCYPGWQAPWCERKSMW
+PTM	Methylation:337;Ubiquitylation:144

@@ -1,0 +1,25 @@
+UniprotID	F5GYB0
+Accession	F5GYB0
+EntryName	F5GYB0_HUMAN
+ProteinName	Adaptor related protein complex 3 subunit beta 2
+GeneName	AP3B2
+Length	141
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAAPAYSEDKGGSAGPGEPEYGHDPASGGIFSSDYKRHDDLKEMLDTNKDSLKLEAMKRIVAMIARGKNASDLFPAVVKNVACKNIEVKKLVYVYLVRYAEEQQDLALLSISTFQRGLKEPVVMAASSMNHLSPRRVESL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O14901-2
+Accession	O14901;B4DZE7;Q9EPF4
+EntryName	KLF11_HUMAN
+ProteinName	Krueppel-like factor 11 (Transforming growth factor-beta-inducible early growth response protein 2) (TGFB-inducible early growth response protein 2) (TIEG-2)
+GeneName	KLF11 FKLF TIEG2
+Length	495
+Function	Transcription factor (PubMed:10207080, PubMed:9748269). Activates the epsilon- and gamma-globin gene promoters and, to a much lower degree, the beta-globin gene and represses promoters containing SP1-like binding inhibiting cell growth (PubMed:10207080, PubMed:16131492, PubMed:9748269). Represses transcription of SMAD7 which enhances TGF-beta signaling (By similarity). Induces apoptosis (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDICESILERKRHDSERSTCSILEQTDMEAVEALVCMSSWGQRSQKGDLLRIRPLTPVSDSGDVTTTVHMDAATPELPKDFHSLSTLCITPPQSPDLVEPSTRTPVSPQVTDSKACTATDVLQSSAVVARALSGGAERGLLGLEPVPSSPCRAKGTSVIRHTGESPAACFPTIQTPDCRLSDSREGEEQLLGHFETLQDTHLTDSLLSTNLVSCQPCLHKSGGLLLTDKGQQAGWPGAVQTCSPKNYENDLPRKTTPLISVSVPAPPVLCQMIPVTGQSSMLPAFLKPPPQLSVGTVRPILAQAAPAPQPVFVGPAVPQGAVMLVLPQGALPPPAPCAANVMAAGNTKLLPLAPAPVFITSSQNCVPQVDFSRRRNYVCSFPGCRKTYFKSSHLKAHLRTHTGEKPFNCSWDGCDKKFARSDELSRHRRTHTGEKKFVCPVCDRRFMRSDHLTKHARRHMTTKKIPGWQAEVGKLNRIASAESPGSPLVSMPASA
+PTM	Phosphorylation:32,111,124,150,165,166;SUMOylation:63,131,246,262,407,412,453,481,491

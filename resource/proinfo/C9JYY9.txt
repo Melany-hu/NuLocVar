@@ -1,0 +1,25 @@
+UniprotID	C9JYY9
+Accession	C9JYY9
+EntryName	C9JYY9_HUMAN
+ProteinName	Nudix hydrolase 5
+GeneName	NUDT5
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESQEPTESSQNGKQYIISEELISEGKWVKLEKTTYMDPTGKTRTWESVKRTTRKEQTADGRSANLFQPFRKEVSTCDRVAVIPVLQRTLHYECIVL
+PTM	

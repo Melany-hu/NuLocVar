@@ -1,0 +1,25 @@
+UniprotID	Q6ZVN8-3
+Accession	Q6ZVN8;B1ALI7;Q2PQ63;Q6IMF6;Q8NAH2;Q8WVJ5
+EntryName	RGMC_HUMAN
+ProteinName	Hemojuvelin (Hemochromatosis type 2 protein) (Hemojuvelin BMP coreceptor) (RGM domain family member C)
+GeneName	HJV HFE2 RGMC
+Length	200
+Function	Acts as a bone morphogenetic protein (BMP) coreceptor (PubMed:18976966). Through enhancement of BMP signaling regulates hepcidin (HAMP) expression and regulates iron homeostasis (PubMed:18976966).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQECIDQKVYQAEVDNLPVAFEDGSINGGDRPGGSSLSIQTANPGNHVEIQAAYIGTTIIIRQTAGQLSFSIKVAEDVAMAFSAEQDLQLCVGGCPPSQRLSRSERNRRGAITIDTARRLCKEGLPVEDAYFHSCVFDVLISGDPNFTVAAQAALEDARAFLPDLEKLHLFPSDAGVPLSSATLLAPLLSGLFVLWLCIQ
+PTM	Glycosylation:196,213;Methylation:225,299,393;Phosphorylation:9,52,58,59,284,290,295,297

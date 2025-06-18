@@ -1,0 +1,25 @@
+UniprotID	Q8IUQ4-2
+Accession	Q8IUQ4;A0FKF3;O43269;Q49A58;Q92880
+EntryName	SIAH1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase SIAH1 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase SIAH1) (Seven in absentia homolog 1) (Siah-1) (Siah-1a)
+GeneName	SIAH1 HUMSIAH
+Length	313
+Function	E3 ubiquitin-protein ligase that mediates ubiquitination and subsequent proteasomal degradation of target proteins (PubMed:14506261, PubMed:14645235, PubMed:14654780, PubMed:15064394, PubMed:16085652, PubMed:19224863, PubMed:20508617, PubMed:22483617, PubMed:28546513, PubMed:32430360, PubMed:33591310, PubMed:9334332, PubMed:9858595). E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates (PubMed:14506261, PubMed:14645235, PubMed:14654780, PubMed:15064394, PubMed:16085652, PubMed:19224863, PubMed:20508617, PubMed:22483617, PubMed:9334332, PubMed:9858595). Mediates E3 ubiquitin ligase activity either through direct binding to substrates or by functioning as the essential RING domain subunit of larger E3 complexes (PubMed:14506261, PubMed:14645235, PubMed:14654780, PubMed:15064394, PubMed:16085652, PubMed:19224863, PubMed:20508617, PubMed:22483617, PubMed:9334332, PubMed:9858595). Triggers the ubiquitin-mediated degradation of many substrates, including proteins involved in transcription regulation (ELL2, MYB, POU2AF1, PML and RBBP8), a cell surface receptor (DCC), the cell-surface receptor-type tyrosine kinase FLT3, the cytoplasmic signal transduction molecules (KLF10/TIEG1 and NUMB), an antiapoptotic protein (BAG1), a microtubule motor protein (KIF22), a protein involved in synaptic vesicle function in neurons (SYP), a structural protein (CTNNB1) and SNCAIP (PubMed:10747903, PubMed:11146551, PubMed:11389839, PubMed:11389840, PubMed:11483517, PubMed:11483518, PubMed:11752454, PubMed:12072443). Confers constitutive instability to HIPK2 through proteasomal degradation (PubMed:18536714, PubMed:33591310). It is thereby involved in many cellular processes such as apoptosis, tumor suppression, cell cycle, axon guidance, transcription regulation, spermatogenesis and TNF-alpha signaling (PubMed:14506261, PubMed:14645235, PubMed:14654780, PubMed:15064394, PubMed:16085652, PubMed:19224863, PubMed:20508617, PubMed:22483617, PubMed:9334332, PubMed:9858595). Has some overlapping function with SIAH2 (PubMed:14506261, PubMed:14645235, PubMed:14654780, PubMed:15064394, PubMed:16085652, PubMed:19224863, PubMed:20508617, PubMed:22483617, PubMed:9334332, PubMed:9858595). Induces apoptosis in cooperation with PEG3 (By similarity). Upon nitric oxid (NO) generation that follows apoptotic stimulation, interacts with S-nitrosylated GAPDH, mediating the translocation of GAPDH to the nucleus (By similarity). GAPDH acts as a stabilizer of SIAH1, facilitating the degradation of nuclear proteins (By similarity). Mediates ubiquitination and degradation of EGLN2 and EGLN3 in response to the unfolded protein response (UPR), leading to their degradation and subsequent stabilization of ATF4 (By similarity). Also part of the Wnt signaling pathway in which it mediates the Wnt-induced ubiquitin-mediated proteasomal degradation of AXIN1 (PubMed:28546513, PubMed:32430360).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTGKATPPSLYSWRGVLFTCLPAARTRKRKEMSRQTATALPTGTSKCPPSQRVPALTGTTASNNDLASLFECPVCFDYVLPPILQCQSGHLVCSNCRPKLTCCPTCRGPLGSIRNLAMEKVANSVLFPCKYASSGCEITLPHTEKADHEELCEFRPYSCPCPGASCKWQGSLDAVMPHLMHQHKSITTLQGEDIVFLATDINLPGAVDWVMMQSCFGFHFMLVLEKQEKYDGHQQFFAIVQLIGTRKQAENFAYRLELNGHRRRLTWEATPRSIHEGIATAIMNSDCLVFDTSIAQLFAENGNLGINVTISMC
+PTM	Phosphorylation:5,7,11,13,14,70;Ubiquitylation:15

@@ -1,0 +1,25 @@
+UniprotID	Q8WUR7-3
+Accession	Q8WUR7;A6NIC9;B2R5E7;F5GX92;F8WD31;G5EA00
+EntryName	CO040_HUMAN
+ProteinName	UPF0235 protein C15orf40
+GeneName	C15orf40
+Length	167
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRLRSGLRHLRATPNTRGSARLLCAEMPKKAGATTKGKSQSKEPERPLPPLGPVAVDPKGCVTIAIHAKPGSKQNAVTDLTAEAVNVAIAAPPSEGEANAELCRYLSKVLELRKSDVVLDKTGSCYIAQAGLELLASSDLPASASQSAGITGVSHHTQPALLLISL
+PTM	Methylation:30,122;Phosphorylation:116

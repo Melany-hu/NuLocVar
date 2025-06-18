@@ -1,0 +1,25 @@
+UniprotID	B4DIH2
+Accession	B4DIH2
+EntryName	B4DIH2_HUMAN
+ProteinName	Ganglioside induced differentiation associated protein 1 (cDNA FLJ60563, highly similar to Ganglioside-induceddifferentiation-associated protein 1)
+GeneName	GDAP1
+Length	249
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDKESMYYPRVQHYRELLDSLPMDAYTHGCILHPELTVDSMIPAYATTRIRSQIGNTESELKKLAEENPDLQEAYIAKQKRLKSKLLDHDNVKYLKKILDELEKVLDQVETELQRRNEETPEEGQQPWLCGESFTLADVSLAVTLHRLKFLGFARRNWGNGKRPNLETYYERVLKRKTFNKVLGHVNNILISAVLPTAFRVAKKRAPKVLGTTLVVGLLAGVGYFAFMLFRKRLGSMILAFRPRPNYF
+PTM	

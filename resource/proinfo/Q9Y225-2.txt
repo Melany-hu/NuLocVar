@@ -1,0 +1,25 @@
+UniprotID	Q9Y225-2
+Accession	Q9Y225;D3DVZ2;D3DVZ3;Q9UMH1
+EntryName	RNF24_HUMAN
+ProteinName	RING finger protein 24
+GeneName	RNF24
+Length	169
+Function	May play a role in TRPCs intracellular trafficking.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLNKSGESRYPALFPVLGGSSMSSDFPHYNFRMPNIGFQNLPLNIYIVVFGTAIFVFILSLLFCCYLIRLRHQAHKEFYAYKQVILKEKVKELNLHELCAVCLEDFKPRDELGICPCKHAFHRKCLIKWLEVRKVCPLCNMPVLQLAQLHSKQDRGPPQGPLPGAENIV
+PTM	Methylation:66;Phosphorylation:60;Ubiquitylation:61,70,97,103,107,113,131

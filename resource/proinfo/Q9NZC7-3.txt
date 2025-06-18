@@ -1,0 +1,25 @@
+UniprotID	Q9NZC7-3
+Accession	Q9NZC7;A8K323;Q5MYT5;Q96KM3;Q96RF2;Q9BTT8;Q9NPC9;Q9NRF4;Q9NRF5;Q9NRF6;Q9NRK1;Q9NZC5
+EntryName	WWOX_HUMAN
+ProteinName	WW domain-containing oxidoreductase (EC 1.1.1.-) (Fragile site FRA16D oxidoreductase) (Short chain dehydrogenase/reductase family 41C member 1)
+GeneName	WWOX FOR SDR41C1 WOX1
+Length	189
+Function	Putative oxidoreductase. Acts as a tumor suppressor and plays a role in apoptosis. Required for normal bone development (By similarity). May function synergistically with p53/TP53 to control genotoxic stress-induced cell death. Plays a role in TGFB1 signaling and TGFB1-mediated cell death. May also play a role in tumor necrosis factor (TNF)-mediated cell death. Inhibits Wnt signaling, probably by sequestering DVL2 in the cytoplasm.
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion; Golgi apparatus; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	50..55
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	50...55;48...53;49...54
+validnes_region	
+nesbase_region	
+Sequence	MAALRYAGLDDTDSEDELPPGWEERTTKDGWVYYANHTEEKTQWEHPKTGKRKRVAGDLPYGWEQETDENGQVFFVDHINKRTTYLDPRLAFTVDDNPTKPTTRQRYDGSTTAMEILQGRDFTGKVVVVTGANSGIGFETAKSFALHGAHVILACRNMARASEAVSRILEEWKTKYHPPPEKCRIKIFH
+PTM	Phosphorylation:6,12,14,281,283,312,329;SUMOylation:100;Ubiquitylation:100

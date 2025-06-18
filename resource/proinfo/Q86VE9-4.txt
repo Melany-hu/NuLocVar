@@ -1,0 +1,25 @@
+UniprotID	Q86VE9-4
+Accession	Q86VE9;B4DMH7;Q495A4;Q495A6
+EntryName	SERC5_HUMAN
+ProteinName	Serine incorporator 5
+GeneName	SERINC5 C5orf12
+Length	461
+Function	Restriction factor required to restrict infectivity of lentiviruses, such as HIV-1: acts by inhibiting an early step of viral infection. Impairs the penetration of the viral particle into the cytoplasm (PubMed:26416733, PubMed:26416734). Non-ATP-dependent, non-specific lipid transporter for phosphatidylserine, phosphatidylcholine, and phosphatidylethanolamine. Functions as a scramblase that flips lipids in both directions across the membrane. Phospholipid scrambling results in HIV-1 surface exposure of phosphatidylserine and loss of membrane asymmetry, which leads to changes in HIV-1 Env conformation and loss of infectivity (PubMed:37474505). Enhances the incorporation of serine into phosphatidylserine and sphingolipids. May play a role in providing serine molecules for the formation of myelin glycosphingolipids in oligodendrocytes (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAQCCAGQLACCCGSAGCSLCCDCCPRIRQSLSTRFMYALYFILVVVLCCIMMSTTVAHKMKEHIPFFEDMCKGIKAGDTCEKLVGYSAVYRVCFGMACFFFIFCLLTLKINNSKSCRAHIHNGFWFFKLLLLGAMCSGAFFIPDQDTFLNAWRYVGAVGGFLFIGIQLLLLVEFAHKWNKNWTAGTASNKLWYASLALVTLIMYSIATGGLVLMAVFYTQKDSCMENKILLGVNGGLCLLISLVAISPWVQNRQPHSGLLQSGVISCYVTYLTFSALSSKPAEVVLDEHGKNVTICVPDFGQDLYRDENLVTILGTSLLIGCILYSCLTSTTRSSSDALQGRYAAPELEIARCCFCFSPGGEDTEEQQPGKEGPRVIYDEKKGTVYIYSYFHFVFFLASLYVMMTVTNWFNYESANIESFFSGSWSIFWVKMASCWICVLLYLCTLVAPLCCPTREFSV
+PTM	Methylation:111;Phosphorylation:35,39,345;Ubiquitylation:77,116,182,373,383

@@ -1,0 +1,25 @@
+UniprotID	P16220-1
+Accession	P16220;P21934;Q6V963;Q9UMA7
+EntryName	CREB1_HUMAN
+ProteinName	Cyclic AMP-responsive element-binding protein 1 (CREB-1) (cAMP-responsive element-binding protein 1)
+GeneName	CREB1
+Length	341
+Function	Phosphorylation-dependent transcription factor that stimulates transcription upon binding to the DNA cAMP response element (CRE), a sequence present in many viral and cellular promoters (By similarity). Transcription activation is enhanced by the TORC coactivators which act independently of Ser-119 phosphorylation (PubMed:14536081). Involved in different cellular processes including the synchronization of circadian rhythmicity and the differentiation of adipose cells (By similarity). Regulates the expression of apoptotic and inflammatory response factors in cardiomyocytes in response to ERFE-mediated activation of AKT signaling (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMESGAENQQSGDAAVTEAENQQMTVQAQPQIATLAQVSMPAAHATSSAPTVTLVQLPNGQTVQVHGVIQAAQPSVIQSPQVQTVQSSCKDLKRLFSGTQISTIAESEDSQESVDSVTDSQKRREILSRRPSYRKILNDLSSDAPGVPRIEEEKSEEETSAPAITTVTVPTPIYQTSSGQYIAITQGGAIQLANNGTDGVQGLQTLTMTNAAATQPGTTILQYAQTTDGQQILVPSNQVVVQAASGDVQTYQIRTAPTSTIAPGVVMASSPALPTQPAEEAARKREVRLMKNREAARECRRKKKEYVKCLENRVAVLENQNKTLIEELKALKDLYCHKSD
+PTM	Methylation:314;Phosphorylation:94,97,108,111,115,119,128,129,133,142,143,156,242,246,247,256,257,270,271,326,340;SUMOylation:122,295;Ubiquitylation:295,309,323,330,333

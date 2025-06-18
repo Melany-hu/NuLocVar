@@ -1,0 +1,25 @@
+UniprotID	Q06HB5
+Accession	Q06HB5
+EntryName	Q06HB5_HUMAN
+ProteinName	Basonuclin 2 (Basonuclin zinc finger protein 2)
+GeneName	BNC2
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PEGDLCSSPDPKICYVCKKSFKSSYSVKLHYRNVHLKEMHVCTVAGCNAAFPSRRSRDRNRNLRMERTIGPGHRDSLHLRSKRLES
+PTM	

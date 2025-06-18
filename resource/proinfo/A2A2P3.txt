@@ -1,0 +1,25 @@
+UniprotID	A2A2P3
+Accession	A2A2P3
+EntryName	A2A2P3_HUMAN
+ProteinName	APC down-regulated 1 like
+GeneName	APCDD1L
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAENSGPGVRPPGWEAQINIISTRLALAHTAPAAGEAGGSCLRWEPHCQQPLPDRVPSTAILPPRLNGPWISTGCEVRPG
+PTM	

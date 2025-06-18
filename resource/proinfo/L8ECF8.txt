@@ -1,0 +1,25 @@
+UniprotID	L8ECF8
+Accession	L8ECF8
+EntryName	L8ECF8_HUMAN
+ProteinName	Alternative protein KIAA0556
+GeneName	KIAA0556
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSMTLLRKTYSLSLSQRTRHWWAIPDMTALLPVATGLRKMFTGNRRQKDALLQAQTPSWCWNLTQLPKVIKGKGICLQSGRTMLRFSFPPNLSQT
+PTM	

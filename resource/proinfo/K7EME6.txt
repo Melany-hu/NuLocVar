@@ -1,0 +1,25 @@
+UniprotID	K7EME6
+Accession	K7EME6
+EntryName	K7EME6_HUMAN
+ProteinName	GLI-Kruppel family member HKR1, isoform CRA_d (Zinc finger protein 875)
+GeneName	ZNF875 HKR1 hCG_42404
+Length	171
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGLLRAKKEAFVAFRDVAVYFTQEEWRLLSPAQRTLHREVMLETYNHLVSLEIPSSKPKLIAQLERGEAPWREERKCPLDLCPDGALLCCQAGIQWCYIGSLQPLPPGFKQFPCLSLLSSWDYRCTPPHLANFLYFSRDGVSPCWPGWSQSPDLVIHPPQPPKVLGLQA
+PTM	

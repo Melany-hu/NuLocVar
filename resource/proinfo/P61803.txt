@@ -1,0 +1,25 @@
+UniprotID	P61803
+Accession	P61803;D3DS25;O08552;O70364;P46966;P46968;Q6FGA3;Q96GB7
+EntryName	DAD1_HUMAN
+ProteinName	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1 (Oligosaccharyl transferase subunit DAD1) (Defender against cell death 1) (DAD-1)
+GeneName	DAD1
+Length	113
+Function	Subunit of the oligosaccharyl transferase (OST) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol-pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation (PubMed:22467853, PubMed:31831667). N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER). All subunits are required for a maximal enzyme activity (By similarity). Required for the assembly of both SST3A- and SS3B-containing OST complexes. Loss of the DAD1 protein triggers apoptosis (PubMed:22467853).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	0.0102,0.0058,0.0044,0.0064,0.0091,0.0069,0.0055,0.0065,0.0076,0.0095,0.0134,0.0181,0.0194,0.0138,0.0143,0.0127,0.0113,0.0127,0.0160,0.0165,0.0100,0.0067,0.0076,0.0076,0.0050,0.0034,0.0047,0.0066,0.0059,0.0044,0.0043,0.0025,0.0025,0.0017,0.0018,0.0013,0.0013,0.0014,0.0013,0.0016,0.0014,0.0023,0.0020,0.0029,0.0040,0.0036,0.0036,0.0035,0.0035,0.0025,0.0025,0.0024,0.0029,0.0022,0.0031,0.0039,0.0035,0.0035,0.0033,0.0028,0.0021,0.0025,0.0015,0.0026,0.0017,0.0017,0.0019,0.0029,0.0033,0.0033,0.0053,0.0075,0.0066,0.0093,0.0076,0.0080,0.0081,0.0090,0.0138,0.0306,0.0494,0.0929,0.1184,0.0967,0.0690,0.1501,0.0605,0.0646,0.0235,0.0153,0.0143,0.0138,0.0086,0.0070,0.0065,0.0072,0.0053,0.0041,0.0049,0.0053,0.0032,0.0022,0.0022,0.0020,0.0026,0.0024,0.0017,0.0023,0.0027,0.0039,0.0037,0.0027,0.0017
+ExposeBuried	1,1,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+SurfaceAccessbility	0.787,0.625,0.451,0.512,0.178,0.182,0.433,0.122,0.060,0.291,0.440,0.101,0.078,0.574,0.585,0.145,0.161,0.672,0.587,0.353,0.466,0.595,0.246,0.121,0.481,0.142,0.068,0.244,0.121,0.116,0.078,0.075,0.106,0.060,0.083,0.095,0.194,0.154,0.101,0.135,0.358,0.145,0.164,0.122,0.024,0.053,0.041,0.054,0.078,0.237,0.101,0.311,0.136,0.432,0.374,0.144,0.135,0.416,0.199,0.106,0.171,0.378,0.063,0.090,0.148,0.287,0.080,0.060,0.091,0.095,0.051,0.037,0.093,0.284,0.083,0.431,0.093,0.392,0.447,0.659,0.515,0.535,0.404,0.542,0.159,0.626,0.575,0.139,0.433,0.352,0.625,0.406,0.168,0.109,0.157,0.334,0.108,0.114,0.113,0.085,0.214,0.129,0.069,0.082,0.196,0.112,0.119,0.168,0.262,0.491,0.246,0.380,0.894
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,B,B,B,B,B,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C
+Hydropathy	1.9,-0.8,1.8,-0.8,4.2,4.2,-0.8,4.2,4.5,-0.8,-4.5,2.8,3.8,-3.5,-3.5,-1.3,3.8,-0.8,-0.8,-0.7,-1.6,-3.5,-4.5,3.8,-3.9,3.8,3.8,-3.5,1.8,-1.3,3.8,3.8,-1.3,4.5,3.8,3.8,-0.7,-0.4,1.8,3.8,-3.5,2.8,-0.4,-1.3,2.5,3.8,3.8,4.2,-0.4,-0.7,2.8,-1.6,2.8,-3.5,-0.8,2.8,3.8,-0.8,-0.4,2.8,4.5,-0.8,2.5,4.2,-0.4,-0.8,2.8,4.5,3.8,1.8,4.2,2.5,3.8,-4.5,4.5,-3.5,4.5,-3.5,-1.6,-3.5,-3.5,-3.9,1.8,-3.5,2.8,-3.5,-0.4,4.5,-0.8,-1.6,-3.5,-4.5,1.8,2.8,1.8,-3.5,2.8,3.8,2.8,1.8,-0.8,-0.7,4.5,3.8,-3.2,3.8,4.2,4.2,1.9,-3.5,2.8,4.2,-0.4
+Polar	0,1,0,1,0,0,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1
+Charge	0,0,0,0,0,0,0,0,0,0,1,0,0,-1,-1,0,0,0,0,0,0,0,1,0,1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,-1,0,0,0,0,0,0,-1,1,0,0,0,-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSASVVSVISRFLEEYLSSTPQRLKLLDAYLLYILLTGALQFGYCLLVGTFPFNSFLSGFISCVGSFILAVCLRIQINPQNKADFQGISPERAFADFLFASTILHLVVMNFVG
+PTM	Phosphorylation:2;Ubiquitylation:82

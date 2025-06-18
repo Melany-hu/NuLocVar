@@ -1,0 +1,25 @@
+UniprotID	Q3B7T3-2
+Accession	Q3B7T3;B3KPC0;H3BP97
+EntryName	BEAN1_HUMAN
+ProteinName	Protein BEAN1 (Brain-expressed protein associating with Nedd4 homolog) (BEAN)
+GeneName	BEAN1
+Length	150
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRYACSSSEDWPPPLDISSDGDVDATVLRELYPDSPPGYEECVGPGATQLYVPTDAPPPYSLTDSCPTLDGTSDSGSGHSPGRHQQEQRTPAQGGLHTVSMDTLPPYEAVCGAGPPSGLLPLPGPDPGPRGSQGSPTPTRAPASGPERIV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8NFG4-3
+Accession	Q8NFG4;A6NJJ8;Q6ZRX1;Q96BD2;Q96BE4
+EntryName	FLCN_HUMAN
+ProteinName	Folliculin (BHD skin lesion fibrofolliculoma protein) (Birt-Hogg-Dube syndrome protein)
+GeneName	FLCN BHD
+Length	197
+Function	Multi-functional protein, involved in both the cellular response to amino acid availability and in the regulation of glycolysis (PubMed:17028174, PubMed:18663353, PubMed:21209915, PubMed:24081491, PubMed:24095279, PubMed:31672913, PubMed:31704029, PubMed:32612235, PubMed:34381247, PubMed:36103527, PubMed:37079666). GTPase-activating protein that plays a key role in the cellular response to amino acid availability through regulation of the non-canonical mTORC1 signaling cascade controlling the MiT/TFE factors TFEB and TFE3 (PubMed:17028174, PubMed:18663353, PubMed:21209915, PubMed:24081491, PubMed:24095279, PubMed:24448649, PubMed:31672913, PubMed:31704029, PubMed:32612235, PubMed:36103527, PubMed:37079666). Activates mTORC1 by acting as a GTPase-activating protein: specifically stimulates GTP hydrolysis by RagC/RRAGC or RagD/RRAGD, promoting the conversion to the GDP-bound state of RagC/RRAGC or RagD/RRAGD, and thereby activating the kinase activity of mTORC1 (PubMed:24095279, PubMed:31672913, PubMed:31704029, PubMed:32612235, PubMed:37079666). The GTPase-activating activity is inhibited during starvation and activated in presence of nutrients (PubMed:31672913, PubMed:32612235). Acts as a key component for non-canonical mTORC1-dependent control of the MiT/TFE factors TFEB and TFE3, while it is not involved in mTORC1-dependent phosphorylation of canonical RPS6KB1/S6K1 and EIF4EBP1/4E-BP1 (PubMed:21209915, PubMed:24081491, PubMed:31672913, PubMed:32612235). In low-amino acid conditions, the lysosomal folliculin complex (LFC) is formed on the membrane of lysosomes, which inhibits the GTPase-activating activity of FLCN, inactivates mTORC1 and maximizes nuclear translocation of TFEB and TFE3 (PubMed:31672913). Upon amino acid restimulation, RagA/RRAGA (or RagB/RRAGB) nucleotide exchange promotes disassembly of the LFC complex and liberates the GTPase-activating activity of FLCN, leading to activation of mTORC1 and subsequent cytoplasmic retention of TFEB and TFE3 (PubMed:31672913). Indirectly acts as a positive regulator of Wnt signaling by promoting mTOR-dependent cytoplasmic retention of MiT/TFE factor TFE3 (PubMed:31272105). Required for the exit of hematopoietic stem cell from pluripotency by promoting mTOR-dependent cytoplasmic retention of TFE3, thereby increasing Wnt signaling (PubMed:30733432). Acts as an inhibitor of browning of adipose tissue by regulating mTOR-dependent cytoplasmic retention of TFE3 (By similarity). Involved in the control of embryonic stem cells differentiation; together with LAMTOR1 it is necessary to recruit and activate RagC/RRAGC and RagD/RRAGD at the lysosomes, and to induce exit of embryonic stem cells from pluripotency via non-canonical, mTOR-independent TFE3 inactivation (By similarity). In response to flow stress, regulates STK11/LKB1 accumulation and mTORC1 activation through primary cilia: may act by recruiting STK11/LKB1 to primary cilia for activation of AMPK resided at basal bodies, causing mTORC1 down-regulation (PubMed:27072130). Together with FNIP1 and/or FNIP2, regulates autophagy: following phosphorylation by ULK1, interacts with GABARAP and promotes autophagy (PubMed:25126726). Required for starvation-induced perinuclear clustering of lysosomes by promoting association of RILP with its effector RAB34 (PubMed:27113757). Regulates glycolysis by binding to lactate dehydrogenase LDHA, acting as an uncompetitive inhibitor (PubMed:34381247).
+Subcellular Location	Lysosome membrane; Cytoplasm; Cytosol; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNAIVALCHFCELHGPRTLFCTEVLHAPLPQGDGNEDSPGQGEQAEEEEGGIQMNSRMRAHSPAEGASVESSSPGPKKSDMCEGCRSLAAGHPGYISHDKETSIKYVSHQHPSHPQLFSIVRQACVRSLSCEVSLVATEPVSVGAHMLPGALGGLGASIAQGGRHWSSLRADPQISTAQGTGRLPCPELREESCWTC
+PTM	Methylation:105,159,192,203,263,272,485,508;Phosphorylation:62,68,71,72,73,296,298,302,360,567,568,571;SUMOylation:272,342,534

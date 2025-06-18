@@ -1,0 +1,25 @@
+UniprotID	Q9H165-6
+Accession	Q9H165;D6W5D7;Q66LN6;Q86W14;Q8WU92;Q96JL6;Q9H163;Q9H164;Q9H3G9;Q9NWA7
+EntryName	BC11A_HUMAN
+ProteinName	B-cell lymphoma/leukemia 11A (BCL-11A) (B-cell CLL/lymphoma 11A) (COUP-TF-interacting protein 1) (Ecotropic viral integration site 9 protein homolog) (EVI-9) (Zinc finger protein 856)
+GeneName	BCL11A CTIP1 EVI9 KIAA1809 ZNF856
+Length	801
+Function	Transcription factor (PubMed:16704730, PubMed:29606353). Associated with the BAF SWI/SNF chromatin remodeling complex (PubMed:23644491). Binds to the 5'-TGACCA-3' sequence motif in regulatory regions of target genes, including a distal promoter of the HBG1 hemoglobin subunit gamma-1 gene (PubMed:29606353). Involved in regulation of the developmental switch from gamma- to beta-globin, probably via direct repression of HBG1; hence indirectly repressing fetal hemoglobin (HbF) level (PubMed:26375765, PubMed:29606353). Involved in brain development (PubMed:27453576). May play a role in hematopoiesis (By similarity). Essential factor in lymphopoiesis required for B-cell formation in fetal liver (By similarity). May function as a modulator of the transcriptional repression activity of NR2F2 (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Chromosome; Nucleus matrix; Cytoplasm; Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRRKQGKPQHLSKREFSPEPLEAILTDDEPDHGPLGAPEGDHDLLTCGQCQMNFPLGDILIFIEHKRKQCNGSLCLEKAVDKPPSPSPIEMKKASNPVEVGIQVTPEDDDCLSTSSRGICPKQEHIAGKDEPSSYTCTTCKQPFTSAWFLLQHAQNTHGLRIYLESEHGSPLTPRVGIPSGLGAECPSQPPLHGIHIADNNPFNLLRIPGSVSREASGLAEGRFPPTPPLFSPPPRHHLDPHRIERLGAEEMALATHHPSAFDRVLRLNPMAMEPPAMDFSRRLRELAGNTSSPPLSPGRPSPMQRLLQPFQPGSKPPFLATPPLPPLQSAPPPSQPPVKSKSCEFCGKTFKFQSNLVVHRRSHTGEKPYKCNLCDHACTQASKLKRHMKTHMHKSSPMTVKSDDGLSTASSPEPGTSDLVGSASSALKSVVAKFKSENDPNLIPENGDEEEEEDDEEEEEEEEEEEEELTESERVDYGFGLSLEAARHHENSSRGAVVGVGDESRALPDVMQGMVLSSMQHFSEAFHQVLGEKHKRGHLAEAEGHRDTCDEDSVAGESDRIDDGTVNGRGCSPGESASGGLSKKLLLGSPSSLSPFSKRIKLEKEFDLPPAAMPNTENVYSQWLAGYAASRQLKDPFLSFGDSRQSPFASSSEHSSENGSLRFSTPPGELDGGISGRSGTGSGGSTPHISGPGPGRPSSKEGRRSDTCEYCGKVFKNCSNLTVHRRSHTGERPYKCELCNYACAQSSKLTRHMKTHGQVGKDVYKCEICKMPFSVYSTLEKHMKKWHSDRVLNNDIKTE
+PTM	Acetylation:384,749,784;Methylation:79,83,464,569,817;Phosphorylation:74,86,88,114,115,116,117,138,139,171,198,201,205,208,262,267,326,327,328,332,337,357,400,432,435,438,443,444,446,447,518,528,529,540,584,589,594,608,612,614,625,627,628,630,633,679,700,701,711,714,716,718,721,722,726,734,735,741,763;SUMOylation:83,93,94,123,130,164,387,403,437,464,471,620,634,637,640,670,752,771,797,801

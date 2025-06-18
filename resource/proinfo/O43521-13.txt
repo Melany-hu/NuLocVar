@@ -1,0 +1,25 @@
+UniprotID	O43521-13
+Accession	O43521;A8K2W2;O43522;Q0MSE7;Q0MSE8;Q0MSE9;Q53R28;Q6JTU6;Q6T851;Q6TE14;Q6TE15;Q6TE16;Q6V402;Q8WYL6;Q8WYL7;Q8WYL8;Q8WYL9;Q8WYM0;Q8WYM1
+EntryName	B2L11_HUMAN
+ProteinName	Bcl-2-like protein 11 (Bcl2-L-11) (Bcl2-interacting mediator of cell death)
+GeneName	BCL2L11 BIM
+Length	44
+Function	Induces apoptosis and anoikis. Isoform BimL is more potent than isoform BimEL. Isoform Bim-alpha1, isoform Bim-alpha2 and isoform Bim-alpha3 induce apoptosis, although less potent than isoform BimEL, isoform BimL and isoform BimS. Isoform Bim-gamma induces apoptosis. Isoform Bim-alpha3 induces apoptosis possibly through a caspase-mediated pathway. Isoform BimAC and isoform BimABC lack the ability to induce apoptosis.
+Subcellular Location	Endomembrane system; Mitochondrion; Mitochondrion; Mitochondrion; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKQPSDVSSECDREGRQLQPAERPPQLRPGAPTSLQTEPQGIF
+PTM	Acetylation:3;Phosphorylation:10,77,86,87,90,93,94,104,113,116,118

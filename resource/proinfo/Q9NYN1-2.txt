@@ -1,0 +1,25 @@
+UniprotID	Q9NYN1-2
+Accession	Q9NYN1;B2RC29;B4DJW2;B4DU82
+EntryName	RASLC_HUMAN
+ProteinName	Ras-like protein family member 12 (EC 3.6.5.2) (Ras-like protein Ris)
+GeneName	RASL12 RIS
+Length	255
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVIMGPELVGSWSDFKNEAADPRALTVKFLTKRFISEYDPNLEDTYSSEETVDHQPVHLRVMDTADLDTPRNCERYLNWAHAFLVVYSVDSRQSFDSSSSYLELLALHAKETQRSIPALLLGNKLDMAQYRQVTKAEGVALAGRFGCLFFEVSACLDFEHVQHVFHEAVREARRELEKSPLTRPLFISEERALPHQAPLTARHGLASCTFNTLSTINLKEMPTVAQAKLVTVKSSRAQSKRKAPTLTLLKGFKIF
+PTM	Methylation:189,230,244;Phosphorylation:190

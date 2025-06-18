@@ -1,0 +1,25 @@
+UniprotID	Q13795-4
+Accession	Q13795;A0A087WY13;B7ZKX7;E1P5J9;Q6IBQ0;V9GYH4
+EntryName	ARFRP_HUMAN
+ProteinName	ADP-ribosylation factor-related protein 1 (ARF-related protein 1) (ARP)
+GeneName	ARFRP1 ARP1
+Length	121
+Function	Trans-Golgi-associated GTPase that regulates protein sorting. Controls the targeting of ARL1 and its effector to the trans-Golgi. Required for the lipidation of chylomicrons in the intestine and required for VLDL lipidation in the liver.
+Subcellular Location	Golgi apparatus; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYTLLSGLYKYMFQKDEYCILILGLDNAGKTTFLEQSKTRFNKNYKGMSLSKITTTVGLNIGTVDVGKARLMFWDLGGQEELQSLWDKYYAECHGVIYVIDSTDEERLAESKQAFDVPLNP
+PTM	SUMOylation:38;Ubiquitylation:38,157,174

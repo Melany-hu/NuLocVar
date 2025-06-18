@@ -1,0 +1,25 @@
+UniprotID	H3BRX0
+Accession	H3BRX0
+EntryName	H3BRX0_HUMAN
+ProteinName	COMM domain containing 4
+GeneName	COMMD4
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFRFCGDLDCPDWVLAEISTLAKMSSVKLRLLCSQVLKELLGQGIDYEKILKLTADAKFVRPSTVSMANPCPVNCSSWGCPKSTRPACAAVMRRSKAPCRSTCGSAAYA
+PTM	

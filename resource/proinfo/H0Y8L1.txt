@@ -1,0 +1,25 @@
+UniprotID	H0Y8L1
+Accession	H0Y8L1
+EntryName	H0Y8L1_HUMAN
+ProteinName	DExH-box helicase 29
+GeneName	DHX29
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRPRWSGPPCLLPEPNLPRLELPGRPKARSQCPGRPPLPLPLPAPGSPVSSKVVINNKLEQRIIGVINEHKKQNNDKGMISGRLTAKKLQDLYMALQAFSFKTKDIEDAMTNTLLYGGDLHSALDWLCLNLSDDALPEGFSQEFEEQQPKSRPKFQSPQI
+PTM	

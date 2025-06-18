@@ -1,0 +1,25 @@
+UniprotID	A6NHK2
+Accession	A6NHK2
+EntryName	A6NHK2_HUMAN
+ProteinName	Small nuclear ribonucleoprotein E (snRNP-E) (Sm protein E)
+GeneName	SNRPE
+Length	52
+Function	Plays a role in pre-mRNA splicing as a core component of the spliceosomal U1, U2, U4 and U5 small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome. Component of both the pre-catalytic spliceosome B complex and activated spliceosome C complexes. As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs. As part of the U7 snRNP it is involved in histone 3'-end processing.
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRIEGCIIGFDEYMNLVLDDAEEIHSKTKSRKQLGRIMLKGDNITLLQSVSN
+PTM	

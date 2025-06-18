@@ -1,0 +1,25 @@
+UniprotID	C9JIZ3
+Accession	C9JIZ3
+EntryName	C9JIZ3_HUMAN
+ProteinName	Grancalcin
+GeneName	GCA
+Length	132
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQMGQPVPETGPAILLDGYSGPAYSDTYSSAGDSVYTYFSAVAGQDGEVDAEELQRCLTQSGINGTYSPFSLETCRIMIAMLDRDHTGKMGFNAFKELWAALNAWKENFMTVDQDGSGTVEHHELRQAIGLM
+PTM	

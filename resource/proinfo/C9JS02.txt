@@ -1,0 +1,25 @@
+UniprotID	C9JS02
+Accession	C9JS02
+EntryName	C9JS02_HUMAN
+ProteinName	Eva-1 homolog C
+GeneName	EVA1C
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCSSQKPASQREDSLTCVAATTFQKVLDECQNQRACHLLVNSRVFGPDLCPGSSKYLLVSFKCQPNELKNKTVCEDQELKLHCHESKFLNIYSATYGRRTQERDICSSKAERLPPFDCLSYSALQVLSRRCYGKQRCKIIVNNHHFGSPCLPG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O75347-2
+Accession	O75347;B4DT30
+EntryName	TBCA_HUMAN
+ProteinName	Tubulin-specific chaperone A (TCP1-chaperonin cofactor A) (Tubulin-folding cofactor A) (CFA)
+GeneName	TBCA
+Length	129
+Function	Tubulin-folding protein; involved in the early step of the tubulin folding pathway.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADPRVRQIKIKTGVVKRLVKEKVMYEKEAKQQEEKIEKMRAEDGENYDIKKQAEILQESRMMIPDCQRRLEAAYLDLQRILVSKDFCVMFKFFFSIQYMESQKFKYLTLRTSWQYFLFTCPLYRYILK
+PTM	Acetylation:17,21,23,28,36,51,86,95;Methylation:17,51,52,86;Phosphorylation:48,75,103;Ubiquitylation:10,17,28,31,36,51,52,86,95,105

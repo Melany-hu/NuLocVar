@@ -1,0 +1,25 @@
+UniprotID	Q15286-2
+Accession	Q15286;B2R6E0;B4E390
+EntryName	RAB35_HUMAN
+ProteinName	Ras-related protein Rab-35 (EC 3.6.5.2) (GTP-binding protein RAY) (Ras-related protein Rab-1C)
+GeneName	RAB35 RAB1C RAY
+Length	152
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion (PubMed:30905672). RAB35 is involved in the process of endocytosis and is an essential rate-limiting regulator of the fast recycling pathway back to the plasma membrane (PubMed:21951725). During cytokinesis, required for the postfurrowing terminal steps, namely for intercellular bridge stability and abscission, possibly by controlling phosphatidylinositol 4,5-bis phosphate (PIP2) and SEPT2 localization at the intercellular bridge (PubMed:16950109). May indirectly regulate neurite outgrowth. Together with TBC1D13 may be involved in regulation of insulin-induced glucose transporter SLC2A4/GLUT4 translocation to the plasma membrane in adipocytes (By similarity).
+Subcellular Location	Cell membrane; Membrane; Clathrin-coated pit; Cytoplasmic vesicle; Clathrin-coated vesicle; Endosome; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARDYDHLFKLLIIGDSGVGKSSLLLRFADNTFSGSYITTIGVDFKIRTVEINGEKVKLQIWDTAGQERFRTITSTYYRGTHGVIVVYDVTSAESFVNVKRWLHEINQNCDDVCRILDVQLHHGAGPPSKERQPGKTAAATTERCGEAHEEQ
+PTM	Acetylation:10,58,121;Glycosylation:185;Methylation:21,121,137,152,178;Phosphorylation:5,17,49,64,72,75,76,136;SUMOylation:178;Ubiquitylation:56,100,121,137,178,189

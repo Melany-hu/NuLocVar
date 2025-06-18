@@ -1,0 +1,25 @@
+UniprotID	E5G744
+Accession	E5G744
+EntryName	E5G744_HUMAN
+ProteinName	Truncated glutaminase 2 (EC 3.5.1.2)
+GeneName	GLS2
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQKEEQVAVLRPHFPPHSLPPNSDSSESGMLSRLGDLLFYTIAEGQERIPIHKFTTALKATGLQTSDPRLRDCMSEMHRVVQESSSGGLLDRDLFRKWQPTSLSWPSQTQTCGVSPCALWMVNGTLWATQRSPSACSPV
+PTM	

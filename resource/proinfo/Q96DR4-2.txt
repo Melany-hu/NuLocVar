@@ -1,0 +1,25 @@
+UniprotID	Q96DR4-2
+Accession	Q96DR4;Q86TN9
+EntryName	STAR4_HUMAN
+ProteinName	StAR-related lipid transfer protein 4 (START domain-containing protein 4) (StARD4)
+GeneName	STARD4
+Length	159
+Function	Involved in the intracellular transport of cholesterol. Binds cholesterol or other sterols.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGLSDVASFATKLKNTLIQYHSIEEDKWRVAKKTKDVTVWRKPSEEFNGYLYKAQGVIDDLVYSIIDHIRPGPCRLDWDSLMTSLDILENFEENCCVMRYTTAGQLWNIISPREFVDFSYTVGYKEGLLSCGNNLNMLCFFSVWFKYLCFLGWMSLSL
+PTM	Methylation:71,161;Phosphorylation:5,112,125;SUMOylation:13,15,28,141;Ubiquitylation:13,15,28,34,36,43

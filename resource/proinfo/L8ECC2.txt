@@ -1,0 +1,25 @@
+UniprotID	L8ECC2
+Accession	L8ECC2
+EntryName	L8ECC2_HUMAN
+ProteinName	Alternative protein GFRA1
+GeneName	GFRA1
+Length	61
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKAEMGVSALTRAAFIEECMGRQYINYILKSLICHQQISHFSSVIKAYSSYQLLNLKISC
+PTM	

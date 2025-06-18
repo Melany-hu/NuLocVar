@@ -1,0 +1,25 @@
+UniprotID	Q99612-3
+Accession	Q99612;B2RE86;B4DDN0;D3DRR1;F5H3M5;Q5VUT7;Q5VUT8;Q9BT79
+EntryName	KLF6_HUMAN
+ProteinName	Krueppel-like factor 6 (B-cell-derived protein 1) (Core promoter element-binding protein) (GC-rich sites-binding factor GBF) (Proto-oncogene BCD1) (Suppressor of tumorigenicity 12 protein) (Transcription factor Zf9)
+GeneName	KLF6 BCD1 COPEB CPBP ST12
+Length	237
+Function	Transcriptional activator (By similarity). Binds a GC box motif. Could play a role in B-cell growth and development.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVLPMCSIFQELQIVHETGYFSALPSLEEYWQQTCLELERYLQSEPCYVSASEIKFDSQEDLWTKIILAREKKEESELKISSSPPEDTLISPSFCYNLETNSLNSDVSSESSDSSEELSPTAKFTSDPIGEVLVSSGKLSSSVTSTPPSSPELSREPSQLWGCVPGELPSPGKVRSGTSGKPGDKGNGDASPDGRRRVHRCHFNGCRKVYTKSSHLKAHQRTHTGVFPGLTTWPCT
+PTM	Acetylation:228;Methylation:73;Phosphorylation:143,145,146,147,150,151,155,171,192,225,230,244,248;SUMOylation:66,73,74,258;Ubiquitylation:66

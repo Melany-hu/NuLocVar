@@ -1,0 +1,25 @@
+UniprotID	O76054-4
+Accession	O76054;B7Z8Q1;F5H3U4;Q53EQ2;Q6PD61;Q9ULN4
+EntryName	S14L2_HUMAN
+ProteinName	SEC14-like protein 2 (Alpha-tocopherol-associated protein) (TAP) (hTAP) (Squalene transfer protein) (Supernatant protein factor) (SPF)
+GeneName	SEC14L2 C22orf6 KIAA1186 KIAA1658
+Length	392
+Function	Carrier protein. Binds to some hydrophobic molecules and promotes their transfer between the different cellular sites. Binds with high affinity to alpha-tocopherol. Also binds with a weaker affinity to other tocopherols and to tocotrienols. May have a transcriptional activatory activity via its association with alpha-tocopherol. Probably recognizes and binds some squalene structure, suggesting that it may regulate cholesterol biosynthesis by increasing the transfer of squalene to a metabolic active pool in the cell.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGRVGDLSPRQKEALAKFRENVQDVLPALPNPDDYFLLRWLRARSFDLQKSEAMLRKHVEFRKQKDIDNIISWQPPEVIQQYLSGGMCGYDLDGCPVWYDIIGPLDAKGLLFSASKQDLLRTKMRECELLLQECAHQTTKLGRKVETITIIYDCEGLGLKHLWKPAVEAYGEFLCMFEENYPETLKRLFVVKAPKLFPVAYNLIKPFLSEDTRKKIMVLGANWKEVLLKHISPDQVPVEYGGTMTDPDGNPKCKSKINYGGDIPRKYYVRDQVKQQYEHSVQISRGSSHQVEYEILFPGCVLRWQFMSDGADVGFGIFLKTKMGERQRAGEMTEVLPNQRYNSHLVPEDGTLTCSDPGICKYLCLGNALKPHVQLSACEVPLPPWIFGSEC
+PTM	Methylation:18,51,109,117,161,187,193,206,230;Phosphorylation:9,116,289,294,401;Ubiquitylation:117,193

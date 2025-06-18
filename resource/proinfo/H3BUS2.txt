@@ -1,0 +1,25 @@
+UniprotID	H3BUS2
+Accession	H3BUS2
+EntryName	H3BUS2_HUMAN
+ProteinName	TLC domain containing 3B
+GeneName	TLCD3B
+Length	170
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASTAGYIVSTSCKHIIDDQHWLSSAYTQFAVPYFIYDIYAMFLCHWHKHQVKGHGGDDGAARAPGSTWAIARGYLHKEFLMVLHHAAMVLVCFPLSVVWRQGKGDFFLGCMLMAEVSTPFVCLGKILIQVSEHGRVQEPNGEVTGRGGTFKVAAKGSSPFVIPPSPRAF
+PTM	

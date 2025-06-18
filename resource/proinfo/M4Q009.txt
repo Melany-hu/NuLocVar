@@ -1,0 +1,25 @@
+UniprotID	M4Q009
+Accession	M4Q009
+EntryName	M4Q009_HUMAN
+ProteinName	Phosphotransferase (EC 2.7.1.-)
+GeneName	GCK
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YEKLIGGKYIGALVRLVLLRLVDENLLFHGEASEQLRTRGAFETRFVSQVE
+PTM	

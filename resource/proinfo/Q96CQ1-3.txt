@@ -1,0 +1,25 @@
+UniprotID	Q96CQ1-3
+Accession	Q96CQ1;A8MYF7;Q05CY1;Q9H0G8;Q9NVN5
+EntryName	S2536_HUMAN
+ProteinName	Solute carrier family 25 member 36
+GeneName	SLC25A36
+Length	310
+Function	Mitochondrial transporter that imports/exports pyrimidine nucleotides into and from mitochondria. Selectively transports cytosine, guanosine, inosine and uridine (deoxy)nucleoside mono-, di-, and triphosphates by antiport mechanism. Catalyzes uniport at much lower rate (PubMed:25320081). May import (deoxy)nucleoside triphosphates in exchange for intramitochondrial (deoxy)nucleoside mono- and diphosphates, thus providing precursors necessary for de novo synthesis of mitochondrial DNA and RNA while exporting products of their catabolism (PubMed:25320081). Participates in mitochondrial genome maintenance, regulation of mitochondrial membrane potential and mitochondrial respiration.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQRDTLVHLFAGGCGGTVGAILTCPLEVVKTRLQSSSVTLYISEVQLNTMAGASVNRVVSPGPLHCLKVILEKEGPRSLFRGLGPNLVGVAPSRAIYFAAYSNCKEKLNDVFDPDSTQVHMISAAMAGFTAITATNPIWLIKTRLQLDARNRGERRMGAFECVRKVYQTDGLKGFYRGMSASYAGISETVIHFVIYESIKQKLLEYKTASTMENDEESVKEASDFVGMMLAAATSKTCATTIAYPHVVRTRLREEGTKYRSFFQTLSLLVQEEGYGSLYRGLTTHLVRQIPNTAIMMATYELVVYLLNG
+PTM	Methylation:31,74,143,208;Phosphorylation:94,207,211,219;Ubiquitylation:74

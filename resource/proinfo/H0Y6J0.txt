@@ -1,0 +1,25 @@
+UniprotID	H0Y6J0
+Accession	H0Y6J0
+EntryName	H0Y6J0_HUMAN
+ProteinName	nucleoside-diphosphate kinase (EC 2.7.4.6)
+GeneName	NME4
+Length	169
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWRSALRGLRCGPRAPGPSLLVRHGSGGPSWTRERTLVAVKPDGVQRRLVGDVIQRFERRGFTLVGMKMLQAPESVLAEHYQDLRRKPFYPALIRYMSSGPVVAMVWEGYNVVRASRAMIGHTDSAEAAPGTIRGDFSVHISSHRLAPLDRGQREQQMVPGIPQGAHEA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B4DMX9
+Accession	B4DMX9
+EntryName	B4DMX9_HUMAN
+ProteinName	Scaffold protein involved in DNA repair (cDNA FLJ59936)
+GeneName	SPIDR
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...16;10...15
+validnes_region	
+nesbase_region	
+Sequence	MPRGSRARGSKRKRSWNTECPSFPGERPLQVRRAGLRTAGAAASLSEAWLRCGEGFQNTSGNPSLTAEEKTITEKHLELCPRPKQETTTSKSTSGLTDITWSSSGSDLSDEDKTLSQLQRDELQFIDWEIDSDRAEASDCDEFEDDEGAVEISDCASCASNQSLTSDEKLSELPKRWTSRKTKWTAESREICYFFVETSMYFLPKDTFR
+PTM	

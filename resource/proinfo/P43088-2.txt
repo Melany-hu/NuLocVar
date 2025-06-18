@@ -1,0 +1,25 @@
+UniprotID	P43088-2
+Accession	P43088;A8K9Y0;Q2KHP3;Q6RYQ6;Q9P1X4
+EntryName	PF2R_HUMAN
+ProteinName	Prostaglandin F2-alpha receptor (PGF receptor) (PGF2-alpha receptor) (Prostanoid FP receptor)
+GeneName	PTGFR
+Length	297
+Function	Receptor for prostaglandin F2-alpha (PGF2-alpha). The activity of this receptor is mediated by G proteins which activate a phosphatidylinositol-calcium second messenger system. Initiates luteolysis in the corpus luteum (By similarity). Isoforms 2 to 7 do not bind PGF2-alpha but are proposed to modulate signaling by participating in variant receptor complexes; heterodimers between isoform 1 and isoform 5 are proposed to be a receptor for prostamides including the synthetic analog bimatoprost.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSMNNSKQLVSPAAALLSNTTCQTENRLSVFFSVIFMTVGILSNSLAIAILMKAYQRFRQKSKASFLLLASGLVITDFFGHLINGAIAVFVYASDKEWIRFDQSNVLCSIFGICMVFSGLCPLLLGSVMAIERCIGVTKPIFHSTKITSKHVKMMLSGVCLFAVFIALLPILGHRDYKIQASRTWCFYNTEDIKDWEDRFYLLLFSFLGLLALGVSLLCNAITGITLLRVKFKSQQHRQGRSHHLEMVIQLLAIMCVSCICWSPFLGYRIILNGKEKYKVYEEQSDFLHRLQWPTLE
+PTM	Methylation:309,313

@@ -1,0 +1,25 @@
+UniprotID	P25791-3
+Accession	P25791;Q9HD58
+EntryName	RBTN2_HUMAN
+ProteinName	Rhombotin-2 (Cysteine-rich protein TTG-2) (LIM domain only protein 2) (LMO-2) (T-cell translocation protein 2)
+GeneName	LMO2 RBTN2 RBTNL1 RHOM2 TTG2
+Length	227
+Function	Acts with TAL1/SCL to regulate red blood cell development. Also acts with LDB1 to maintain erythroid precursors in an immature state.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGSAVTVLERGGASSPAERRSKRRRRSGGDGGGGGGARAPEGVRAPAAGQPRATKGAPPPPGTPPPSPMSSAIERKSLDPSEEPVDEVLQIPPSLLTCGGCQQNIGDRYFLKAIDQYWHEDCLSCDLCGCRLGEVGRRLYYKLGRKLCRRDYLRLFGQDGLCASCDKRIRAYEMTMRVKDKVYHLECFKCAACQKHFCVGDRYLLINSDIVCEQDIYEWTKINGMI
+PTM	Phosphorylation:104

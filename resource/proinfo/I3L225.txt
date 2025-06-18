@@ -1,0 +1,25 @@
+UniprotID	I3L225
+Accession	I3L225
+EntryName	I3L225_HUMAN
+ProteinName	Cell division cycle 27
+GeneName	CDC27
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XETVLTETPQDTIELNRLNLESSNSKYSLNTDSSVSYIDSAVISPDTVPLGTGTSILSKQVQNKPKTGRSLLGGPAALSPLTPRPSNLSILLLYICLDDFLTP
+PTM	

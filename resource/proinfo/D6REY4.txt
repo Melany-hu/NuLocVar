@@ -1,0 +1,25 @@
+UniprotID	D6REY4
+Accession	D6REY4
+EntryName	D6REY4_HUMAN
+ProteinName	Transmembrane and coiled-coil domains 6
+GeneName	TMCO6
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTLVGLLTSNQALLQLEAARCLHELSHSEQSTVAEACLPATSYLLTYLSSHSSDFI
+PTM	

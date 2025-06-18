@@ -1,0 +1,25 @@
+UniprotID	Q8NI38-2
+Accession	Q8NI38;Q8NI39;Q9BRG9
+EntryName	IKBD_HUMAN
+ProteinName	NF-kappa-B inhibitor delta (NFKB inhibitor delta) (I-kappa-B-delta) (IkB-delta) (IkappaBdelta) (IkappaBNS) (T-cell activation NFKB-like protein) (TA-NFKBH)
+GeneName	NFKBID IKBNS
+Length	465
+Function	Regulates the expression of IL-2, IL-6, and other cytokines through regulation on NF-kappa-B activity. Functions in the regulation of inflammatory responses. Involved in the induction of T helper 17 cells (Th17) differentiation upon recognition of antigen by T cell antigen receptor (TCR). May also regulate TCR-induced negative selection of thymocytes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVCLRGILDSQAFWHETLRRWECLLAEMKVSRGERSHCPTQTVKKLLEEQRRRQQQQPDAGGVQGQFLPPPEQPLTPSVNEAVTGHPPFPAHSETVGSGPSSLGFPDWDPNTHAAYTDSPYSCPASAAENFLPPDFYPPSDPGQPCPFPQGMEAGPWRVSAPPSGPPQFPAVVPGPSLEVARAHMLALGPQQLLAQDEEGDTLLHLFAARGLRWAAYAAAEVLQVYRRLDIREHKGKTPLLVAAAANQPLIVEDLLNLGAEPNAADHQGRSVLHVAATYGLPGVLLAVLNSGVQVDLEARDFEGLTPLHTAILALNVAMRPSDLCPRVLSTQARDRLDCVHMLLQMGANHTSQEIKSNKTVLHLAVQAANPTLVQLLLELPRGDLRTFVNMKAHGNTALHMAAALPPGPAQEAIVRHLLAAGADPTLRNLENEQPVHLLRPGPGPEGLRQLLKRSRVAPPGLSS
+PTM	Methylation:205;Phosphorylation:180

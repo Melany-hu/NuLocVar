@@ -1,0 +1,25 @@
+UniprotID	S4R3E9
+Accession	S4R3E9
+EntryName	S4R3E9_HUMAN
+ProteinName	Ubiquitin-like protein NEDD8 (Neddylin)
+GeneName	NEDD8-MDP1
+Length	84
+Function	Ubiquitin-like protein which plays an important role in cell cycle control and embryogenesis via its conjugation to a limited number of cellular proteins, such as cullins or p53/TP53. Attachment of NEDD8 to cullins is critical for the recruitment of E2 to the cullin-RING-based E3 ubiquitin-protein ligase complex, thus facilitating polyubiquitination and proteasomal degradation of cyclins and other regulatory proteins. Attachment of NEDD8 to p53/TP53 inhibits p53/TP53 transcriptional activity. Covalent attachment to its substrates requires prior activation by the E1 complex UBE1C-APPBP1 and linkage to the E2 enzyme UBE2M.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIKVKTLTGKEIEIDIEPTDKVERIKERVEEKEGIPPQQQRLIYSGKQMNDEKTAADYKILVMELYEIGGAKTSDCTQRCLRS
+PTM	

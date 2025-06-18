@@ -1,0 +1,25 @@
+UniprotID	Q9BRK0-2
+Accession	Q9BRK0;Q53EM8;Q9NYF2
+EntryName	REEP2_HUMAN
+ProteinName	Receptor expression-enhancing protein 2
+GeneName	REEP2 C5orf19 SGC32445
+Length	254
+Function	Required for endoplasmic reticulum (ER) network formation, shaping and remodeling. May enhance the cell surface expression of odorant receptors (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSWIISRLVVLIFGTLYPAYSSYKAVKTKNVKEYVKWMMYWIVFAFFTTAETLTDIVLSWFPFYFELKIAFVIWLLSPYTKGSSVLYRKFVHPTLSNKEKEIDEYITQARDKSYETMMRVGKRGLNLAANAAVTAAAKGQGVLSEKLRSFSMQDLTLIRDEDALPLQRPDGRLRPSPGSLLDTIEDLGDDPALSLRSSTNPADSRTEASEDDMGDKAPKRAKPIKKAPKAEPLASKTLKTRPKKKTSGGGDSA
+PTM	Phosphorylation:97,148,150,155,175,193,203,205,208

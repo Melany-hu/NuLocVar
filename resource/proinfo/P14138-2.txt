@@ -1,0 +1,25 @@
+UniprotID	P14138-2
+Accession	P14138;E1P5I5;Q03229;Q7Z6D2;Q9UGT7
+EntryName	EDN3_HUMAN
+ProteinName	Endothelin-3 (ET-3) (Preproendothelin-3) (PPET3)
+GeneName	EDN3
+Length	224
+Function	Endothelins are endothelium-derived vasoconstrictor peptides.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPGLWLLFGLTVTSAAGFVPCSQSGDAGRRGVSQAPTAARSEGDCEETVAGPGEETVAGPGEGTVAPTALQGPSPGSPGQEQAAEGAPEHHRSRRCTCFTYKDKECVYYCHLDIIWINTPEQTVPYGLSNYRGSFRGKRSAGPLPGNLQLSHRPHLRCACVGRYDKACLHFCTQTLDVSRQVEVKDQQSKQALDLHHPKLMPGSGLALAPSTCPRCLFQEGAP
+PTM	Methylation:196,200;SUMOylation:188

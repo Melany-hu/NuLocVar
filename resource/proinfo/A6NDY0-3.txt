@@ -1,0 +1,25 @@
+UniprotID	A6NDY0-3
+Accession	A6NDY0;A1L3B3;A2VDI2
+EntryName	EPAB2_HUMAN
+ProteinName	Embryonic polyadenylate-binding protein 2 (Embryonic poly(A)-binding protein 2) (ePABP-2) (ePABP2) (Embryonic poly(A)-binding protein type II) (Poly(A)-binding protein nuclear-like 1)
+GeneName	PABPN1L EPABP2 PABPNL1
+Length	267
+Function	Binds the poly(A) tail of mRNA.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPFPSRSLFPPPTQAWLQTVSSDPEAQGWGAWNETKEILGPEGGEGKEEKEEEEDAEEDQDGDAGFLLSLLEQENLAECPLPDQELEAIKMKVCAMEQAEGTPRPPGVQQQAEEEEGTAAGQLLSPETVGCPLSGTPEEKVEADHRSVYVGNLCLHRVCHQGLRAGRRGAGPEPLPGPGHQGAAEKNQLPWDQLHRPRGPSRTPRLQGGTLPPQRPPGQAPAQTTRAEPGPWKILTMVFTVLKGRPDFERGAGAWIRSKPLVLHPG
+PTM	Acetylation:182;Methylation:91,182,218;Ubiquitylation:182

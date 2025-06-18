@@ -1,0 +1,25 @@
+UniprotID	B3KTR9
+Accession	B3KTR9
+EntryName	B3KTR9_HUMAN
+ProteinName	Gremlin-1
+GeneName	GREM1 hCG_1811964
+Length	114
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRTAYTVGALHVTERKYLKRDWCKTQPLKQTIHEEGCNSRTIINRFCYGQCNSFYIPRHIRKEEGSFQSCSFCKPKKFTTMMVTLNCPELQPPTKKKRVTRVKQCRCISIDLD
+PTM	

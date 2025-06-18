@@ -1,0 +1,25 @@
+UniprotID	H0YJ01
+Accession	H0YJ01
+EntryName	H0YJ01_HUMAN
+ProteinName	Tetratricopeptide repeat domain 6
+GeneName	TTC6
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PKYSLAYFNAGNIYFHHRQFSQEESLGLAWSLSLDSFLRTGGATFSSGVNPLQTLHRRMSILSPLPPTCPRDEMDFTS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UK53-2
+Accession	Q9UK53;O00532;O43658;Q53ZR3;Q5T9G8;Q5T9G9;Q5T9H0;Q5T9H1;Q9H007;Q9HD98;Q9HD99;Q9NS83;Q9P0U6;Q9UBC6;Q9UIJ1;Q9UIJ2;Q9UIJ3;Q9UIJ4;Q9UK52
+EntryName	ING1_HUMAN
+ProteinName	Inhibitor of growth protein 1
+GeneName	ING1
+Length	279
+Function	Cooperates with p53/TP53 in the negative regulatory pathway of cell growth by modulating p53-dependent transcriptional activation. Implicated as a tumor suppressor gene.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	187...192
+validnes_region	
+nesbase_region	
+Sequence	MLSPANGEQLHLVNYVEDYLDSIESLPFDLQRNVSLMREIDAKYQEILKELDECYERFSRETDGAQKRRMLHCVQRALIRSQELGDEKIQIVSQMVELVENRTRQVDSHVELFEAQQELGDTAGNSGKAGADRPKGEAAAQADKPNSKRSRRQRNNENRENASSNHDHDDGASGTPKEKKAKTSKKKKRSKAKAEREASPADLPIDPNEPTYCLCNQVSYGEMIGCDNDECPIEWFHFSCVGLNHKPKGKWYCPKCRGENEKTMDKALEKSKKERAYNR
+PTM	Acetylation:287,291;Methylation:192,287;Phosphorylation:224,269,318;SUMOylation:278;Ubiquitylation:398

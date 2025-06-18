@@ -1,0 +1,25 @@
+UniprotID	A0A087X0G9
+Accession	A0A087X0G9
+EntryName	A0A087X0G9_HUMAN
+ProteinName	Cyclin Q
+GeneName	CCNQ
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPGGAAGARSQGALPSGEVHHGGVKLGMRSIPIATACTIYHKFFCETNLDAYDPYLIAMSSIYLAGKVEEQHLRTRDIINVSNSTCSTTWFPSRTG
+PTM	

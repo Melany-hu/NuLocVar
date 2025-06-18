@@ -1,0 +1,25 @@
+UniprotID	Q92985-4
+Accession	Q92985;B9EGL3;O00331;O00332;O00333;O75924;Q9UE79
+EntryName	IRF7_HUMAN
+ProteinName	Interferon regulatory factor 7 (IRF-7)
+GeneName	IRF7
+Length	516
+Function	Key transcriptional regulator of type I interferon (IFN)-dependent immune responses and plays a critical role in the innate immune response against DNA and RNA viruses (PubMed:28342865, PubMed:28768858). Regulates the transcription of type I IFN genes (IFN-alpha and IFN-beta) and IFN-stimulated genes (ISG) by binding to an interferon-stimulated response element (ISRE) in their promoters (PubMed:17574024, PubMed:32972995). Can efficiently activate both the IFN-beta (IFNB) and the IFN-alpha (IFNA) genes and mediate their induction via both the virus-activated, MyD88-independent pathway and the TLR-activated, MyD88-dependent pathway. Induces transcription of ubiquitin hydrolase USP25 mRNA in response to lipopolysaccharide (LPS) or viral infection in a type I IFN-dependent manner (By similarity). Required during both the early and late phases of the IFN gene induction but is more critical for the late than for the early phase. Exists in an inactive form in the cytoplasm of uninfected cells and following viral infection, double-stranded RNA (dsRNA), or toll-like receptor (TLR) signaling, becomes phosphorylated by IKBKE and TBK1 kinases. This induces a conformational change, leading to its dimerization and nuclear localization where along with other coactivators it can activate transcription of the type I IFN and ISG genes. Can also play a role in regulating adaptive immune responses by inducing PSMB9/LMP2 expression, either directly or through induction of IRF1. Binds to the Q promoter (Qp) of EBV nuclear antigen 1 a (EBNA1) and may play a role in the regulation of EBV latency. Can activate distinct gene expression programs in macrophages and regulate the anti-tumor properties of primary macrophages (By similarity) (PubMed:11073981, PubMed:12374802, PubMed:15361868, PubMed:17404045).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVPERPAAGPDSPRPGTRRAAPRVLFGEWLLGEISSGCYEGLQWLDEARTCFRVPWKHFARKDLSEADARIFKAWAVARGRWPPSSRGGGPPPEAETAERAGWKTNFRCALRSTRRFVMLRDNSGDPADPHKVYALSRELCWREGPGTDQTEAEAPAAVPPPQGGPPGPFLAHTHAGLQAPGPLPAPAGDKGDLLLQAVQQSCLADHLLTASWGADPVPTKAPGEGQEGLPLTGACAGGPGLPAGELYGWAVETTPSPGPQPAALTTGEAAAPESPHQAEPYLSPSPSACTAVQEPSPGALDVTIMYKGRTVLQKVVGHPSCTFLYGPPDPAVRATDPQQVAFPSPAELPDQKQLRYTEELLRHVAPGLHLELRGPQLWARRMGKCKVYWEVGGPPGSASPSTPACLLPRNCDTPIFDFRVFFQELVEFRARQRRGSPRYTIYLGFGQDLSAGRPKEKSLVLVKLEPWLCRVHLEGTQREGVSSLDSSSLSLCLSSANSLYDDIECFLMELEQPA
+PTM	Methylation:452;Phosphorylation:53,125;Ubiquitylation:341

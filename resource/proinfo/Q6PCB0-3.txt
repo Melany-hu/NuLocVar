@@ -1,0 +1,25 @@
+UniprotID	Q6PCB0-3
+Accession	Q6PCB0;A8K692;B3KUA1;E9PB53;Q7L5D7;Q9H6J5
+EntryName	VWA1_HUMAN
+ProteinName	von Willebrand factor A domain-containing protein 1
+GeneName	VWA1
+Length	64
+Function	Promotes matrix assembly (By similarity). Involved in the organization of skeletal muscles and in the formation of neuromuscular junctions (Probable).
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix; Basement membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPWTALGLALSLRLALARSGAERGAQGPGRHRVHCQHRPRQLPGAVSRCLSPCREAPALCGRG
+PTM	Methylation:159;Phosphorylation:12,83,93,164,170;Ubiquitylation:121,418

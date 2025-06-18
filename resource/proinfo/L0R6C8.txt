@@ -1,0 +1,25 @@
+UniprotID	L0R6C8
+Accession	L0R6C8
+EntryName	L0R6C8_HUMAN
+ProteinName	Alternative protein ARL13B
+GeneName	ARL13B
+Length	61
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVLLRVQRHPHPLLLLAGEPLKSLDFQNLSLLVKHIIMISIGSHCLPWLCHSDLTVMLMM
+PTM	

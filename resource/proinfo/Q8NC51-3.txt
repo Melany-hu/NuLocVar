@@ -1,0 +1,25 @@
+UniprotID	Q8NC51-3
+Accession	Q8NC51;Q5VU19;Q5VU20;Q5VU22;Q8WUH0;Q96SE2;Q9BTY3;Q9BUM4;Q9Y367;Q9Y4S3
+EntryName	SERB1_HUMAN
+ProteinName	SERPINE1 mRNA-binding protein 1 (PAI1 RNA-binding protein 1) (PAI-RBP1) (Plasminogen activator inhibitor 1 RNA-binding protein)
+GeneName	SERBP1 PAIRBP1 CGI-55
+Length	393
+Function	Ribosome-binding protein that promotes ribosome hibernation, a process during which ribosomes are stabilized in an inactive state and preserved from proteasomal degradation (PubMed:36691768). Acts via its association with EEF2/eEF2 factor, sequestering EEF2/eEF2 at the A-site of the ribosome and promoting ribosome stabilization and storage in an inactive state (By similarity). May also play a role in the regulation of mRNA stability: binds to the 3'-most 134 nt of the SERPINE1/PAI1 mRNA, a region which confers cyclic nucleotide regulation of message decay (PubMed:11001948). Seems to play a role in PML-nuclear bodies formation (PubMed:28695742).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGHLQEGFGCVVTNRFDQLFDDESDPFEVLKAAENKKKEAGGGGVGGPGAKSAAQAAAQTNSNAAGKQLRKESQKDRKNPLPPSVGVVDKKEETQPPVALKKEGIRRVGRRPDQQLQGEGKIIDRRPERRPPRERRFEKPLEEKGEGGEFSVDRPIIDRPIRGRGGLGRGRGGRGRGMGRGDGFDSRGKREFDRHSGSDRSSFSHYSGLKHEDKRGGSGSHNWGTVKDELTDLDQSNVTEETPEGEEHHPVADTENKENEVEEVKEEGPKEMTLDEWKAIQNKDRAKVEFNIRKPNEGADGQWKKGFVLHKSKSEEAHAEDSVMDHHFRKPANDITSQLEINFGDLGRPGRGGRGGRGGRGRGGRPNRGSRTDKSSASAPDVDDPEAFPALA
+PTM	Acetylation:32,52,68,91,92,102,122,140,211,228,236,281,294,303,310,320,321,327,329,390;Methylation:32,68,102,111,112,122,126,127,160,163,165,170,172,177,181,188,195,201,211,216,281,286,294,299,309,327,346,364,367,370,373;Phosphorylation:25,53,61,63,74,85,152,187,197,199,202,203,205,207,208,219,221,226,232,234,237,243,244,246,247,252,255,258,270,328,330,338,352,353,388,391,392,394;SUMOylation:52,68,92,102,122,140,211,228,236,240,281,294,299,303,321,329;Ubiquitylation:32,37,39,52,68,91,102,103,122,140,211,228,236,240,273,281,294,299,303,310,320,321,327,329,346,390

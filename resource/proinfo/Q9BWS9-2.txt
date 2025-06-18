@@ -1,0 +1,25 @@
+UniprotID	Q9BWS9-2
+Accession	Q9BWS9;B3KWB0;Q8NBM9;Q96CZ3;Q96S93;Q96SK0;Q9BY52
+EntryName	CHID1_HUMAN
+ProteinName	Chitinase domain-containing protein 1 (Stabilin-1-interacting chitinase-like protein) (SI-CLP)
+GeneName	CHID1 GL008 PSEC0104 SB139
+Length	418
+Function	Saccharide- and LPS-binding protein with possible roles in pathogen sensing and endotoxin neutralization. Ligand-binding specificity relates to the length of the oligosaccharides, with preference for chitotetraose (in vitro).
+Subcellular Location	Secreted; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTLFNLLWLALACSPVHTTLSKSDAKKAASKTLLEKVKFCSCCPGWSAMARSWLTATSATQSQFSDKPVQDRGLVVTDLKAESVVLEHRSYCSAKARDRHFAGDVLGYVTPWNSHGYDVTKVFGSKFTQISPVWLQLKRRGREMFEVTGLHDVDQGWMRAVRKHAKGLHIVPRLLFEDWTYDDFRNVLDSEDEIEELSKTVVQVAKNQHFDGFVVEVWNQLLSQKRVGLIHMLTHLAEALHQARLLALLVIPPAITPGTDQLGMFTHKEFEQLAPVLDGFSLMTYDYSTAHQPGPNAPLSWVRACVQVLDPKSKWRSKILLGLNFYGMDYATSKDAREPVVGARYIQTLKDHRPRMVWDSQASEHFFEYKKSRSGRHVVFYPTLKSLQVRLELARELGVGVSIWELGQGLDYFYDLL
+PTM	Methylation:37,56,175,288,310,326;Phosphorylation:41,84,93,166;SUMOylation:56;Ubiquitylation:32,37,71,114,310,361

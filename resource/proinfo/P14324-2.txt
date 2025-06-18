@@ -1,0 +1,25 @@
+UniprotID	P14324-2
+Accession	P14324;D3DV91;E9PCI9;Q96G29
+EntryName	FPPS_HUMAN
+ProteinName	Farnesyl pyrophosphate synthase (FPP synthase) (FPS) (EC 2.5.1.10) ((2E,6E)-farnesyl diphosphate synthase) (Dimethylallyltranstransferase) (EC 2.5.1.1) (Farnesyl diphosphate synthase) (Geranyltranstransferase)
+GeneName	FDPS FPS KIAA1293
+Length	353
+Function	Key enzyme in isoprenoid biosynthesis which catalyzes the formation of farnesyl diphosphate (FPP), a precursor for several classes of essential metabolites including sterols, dolichols, carotenoids, and ubiquinones. FPP also serves as substrate for protein farnesylation and geranylgeranylation. Catalyzes the sequential condensation of isopentenyl pyrophosphate with the allylic pyrophosphates, dimethylallyl pyrophosphate, and then with the resultant geranylpyrophosphate to the ultimate product farnesyl pyrophosphate.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGDQNSDVYAQEKQDFVQHFSQIVRVLTEDEMGHPEIGDAIARLKEVLEYNAIGGKYNRGLTVVVAFRELVEPRKQDADSLQRAWTVGWCVELLQAFFLVADDIMDSSLTRRGQICWYQKPGVGLDAINDANLLEACIYRLLKLYCREQPYYLNLIELFLQSSYQTEIGQTLDLLTAPQGNVDLVRFTEKRYKSIVKYKTAFYSFYLPIAAAMYMAGIDGEKEHANAKKILLEMGEFFQIQDDYLDLFGDPSVTGKIGTDIQDNKCSWLVVQCLQRATPEQYQILKENYGQKEAEKVARVKALYEELDLPAVFLQYEEDSYSHIMALIEQYAAPLPPAVFLGLARKIYKRRK
+PTM	Acetylation:80,123,210,353;Methylation:112,123,289,353;Phosphorylation:29,117,265;SUMOylation:260,332,353,359;Ubiquitylation:80,112,123,142,187,210,264,332,353,359,363

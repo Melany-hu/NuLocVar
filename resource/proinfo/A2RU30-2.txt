@@ -1,0 +1,25 @@
+UniprotID	A2RU30-2
+Accession	A2RU30;B4DPM3;B4E048;B7Z9K7;O94849;Q4G0P2;Q9P0C4
+EntryName	TESP1_HUMAN
+ProteinName	Protein TESPA1 (Thymocyte-expressed positive selection-associated protein 1)
+GeneName	TESPA1 KIAA0748 HSPC257
+Length	383
+Function	Required for the development and maturation of T-cells, its function being essential for the late stages of thymocyte development (By similarity). Plays a role in T-cell antigen receptor (TCR)-mediated activation of the ERK and NFAT signaling pathways, possibly by serving as a scaffolding protein that promotes the assembly of the LAT signalosome in thymocytes. May play a role in the regulation of inositol 1,4,5-trisphosphate receptor-mediated Ca(2+) release and mitochondrial Ca(2+) uptake via the mitochondria-associated endoplasmic reticulum membrane (MAM) compartment.
+Subcellular Location	Cytoplasm; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTGGTNKTSSSISEILDKVQEDAEDVLFSLGFGQEDHKDTSRIPARFFTTPSQAKGIDFQLFLKSQVRRIEMEDPCLMLASRFKQVQTLAVTADAFFCLYSYVSKTPVQKFTPSHMFWNCNHPTDVPSIRILSREPEPQSPRDRLRKAISKMCLYTCPRDRPPPPHNTPKRNSLDQVVLEVMDKVKEEKQFLQQDSDLGQFSQEDPVPPAEGKKLPTSPYPCVFCCEEETQQRMSTVLAPSQTLDSNPKVPCCTHSLPIEDPQWSTDPAQIRRELCSLPATNTETHPAKDETFWKRKSRARKSLFQKNLMGRKVKSLDLSITQQKWKQSVDRPELRRSLSQQPQDTFDLEEVQSNSEEEQSQSRWPSRPRHPHHHQTFAGKDS
+PTM	Methylation:156;Phosphorylation:7,278,311,356,454,467;SUMOylation:60

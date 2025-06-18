@@ -1,0 +1,25 @@
+UniprotID	H0YM44
+Accession	H0YM44
+EntryName	H0YM44_HUMAN
+ProteinName	Galactokinase 2
+GeneName	GALK2
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVLYDRWSLALLPSLECSGMISAHYNLRLLGSSDSPASASLEAGITGY
+PTM	

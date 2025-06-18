@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GVI0
+Accession	A0A1B0GVI0
+EntryName	A0A1B0GVI0_HUMAN
+ProteinName	SAM and SH3 domain containing 1
+GeneName	SASH1
+Length	161
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKPSREQSDDETEESVKFKRLHKLVNSTRRVRKKLIRVEEMKKPSTEGGEEHVFENSPVLDERSALYSGVHKKPLFFDGSPEKPPEDDSDSLTTSPSSSSLDTWGAGRKLVKTFSKGESRGLIKPPKKMGTFFSYPEEEKAQKVSRSLTEGEMKKGLGSL
+PTM	

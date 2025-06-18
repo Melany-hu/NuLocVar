@@ -1,0 +1,25 @@
+UniprotID	Q9UKA1-2
+Accession	Q9UKA1;A8MSK4;B4DIB5;Q4W5A8;Q8NHP3;Q9NXN2;Q9P0I0;Q9P0X5;Q9UJT7;Q9UKC8
+EntryName	FBXL5_HUMAN
+ProteinName	F-box/LRR-repeat protein 5 (F-box and leucine-rich repeat protein 5) (F-box protein FBL4/FBL5) (p45SKP2-like protein)
+GeneName	FBXL5 FBL4 FBL5 FLR1
+Length	674
+Function	Component of some SCF (SKP1-cullin-F-box) protein ligase complex that plays a central role in iron homeostasis by promoting the ubiquitination and subsequent degradation of IREB2/IRP2 (PubMed:19762596, PubMed:19762597). The C-terminal domain of FBXL5 contains a redox-sensitive  cluster that, upon oxidation, promotes binding to IRP2 to effect its oxygen-dependent degradation (PubMed:32126207). Under iron deficiency conditions, the N-terminal hemerythrin-like (Hr) region, which contains a diiron metal center, cannot bind iron and undergoes conformational changes that destabilize the FBXL5 protein and cause its ubiquitination and degradation (PubMed:19762596, PubMed:19762597). When intracellular iron levels start rising, the Hr region is stabilized (PubMed:19762596, PubMed:19762597). Additional increases in iron levels facilitate the assembly and incorporation of a redox active  cluster in the C-terminal domain (PubMed:32126207). Only when oxygen level is high enough to maintain the cluster in its oxidized state can FBXL5 recruit IRP2 as a substrate for polyubiquination and degradation (PubMed:32126207). Promotes ubiquitination and subsequent degradation of the dynactin complex component DCTN1 (PubMed:17532294). Within the nucleus, promotes the ubiquitination of SNAI1; preventing its interaction with DNA and promoting its degradation (PubMed:24157836). Negatively regulates DNA damage response by mediating the ubiquitin-proteasome degradation of the DNA repair protein NABP2 (PubMed:25249620).
+Subcellular Location	Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPFPEEVDVFTAPHWRMKQLVGLYCDKSLYATFKEFKMHEQIENEYIIGLLQQRSQTIYNVHSDNKLSEMLSLFEKGLKNVKNEYEQLNYAKQLKERLEAFTRDFLPHMKEEEEVFQPMLMEYFTYEELKDIKKKVIAQHCSQKDTAELLRGLSLWNHAEERQKFFKYSVDEKSDKEAEVSEHSTGITHLPPEVMLSIFSYLNPQELCRCSQVSMKWSQLTKTGSLWKHLYPVHWARGDWYSGPATELDTEPDDEWVKNRKDESRAFHEWDEDADIDESEESAEESIAISIAQMEKRLLHGLIHNVLPYVGTSVKTLVLAYSSAVSSKMVRQILELCPNLEHLDLTQTDISDSAFDSWSWLGCCQSLRHLDLSGCEKITDVALEKISRALGILTSHQSGFLKTSTSKITSTAWKNKDITMQSTKQYACLHDLTNKGIGEEIDNEHPWTKPVSSENFTSPYVWMLDAEDLADIEDTVEWRHRNVESLCVMETASNFSCSTSGCFSKDIVGLRTSVCWQQHCASPAFAYCGHSFCCTGTALRTMSSLPESSAMCRKAARTRLPRGKDLIYFGSEKSDQETGRVLLFLSLSGCYQITDHGLRVLTLGGGLPYLEHLNLSGCLTITGAGLQDLVSACPSLNDEYFYYCDNINGPHADTASGCQNLQCGFRACCRSGE
+PTM	Methylation:148,403,558,571;Phosphorylation:103,192;SUMOylation:100,128,276;Ubiquitylation:31,94,100,162,191,434,582

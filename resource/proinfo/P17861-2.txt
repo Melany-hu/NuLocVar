@@ -1,0 +1,25 @@
+UniprotID	P17861-2
+Accession	P17861;Q8WYK6;Q969P1;Q96BD7
+EntryName	XBP1_HUMAN
+ProteinName	X-box-binding protein 1 (XBP-1) (Tax-responsive element-binding protein 5) (TREB-5) [Cleaved into: X-box-binding protein 1, cytoplasmic form; X-box-binding protein 1, luminal form]
+GeneName	XBP1 TREB5 XBP2
+Length	376
+Function	Functions as a transcription factor during endoplasmic reticulum (ER) stress by regulating the unfolded protein response (UPR). Required for cardiac myogenesis and hepatogenesis during embryonic development, and the development of secretory tissues such as exocrine pancreas and salivary gland (By similarity). Involved in terminal differentiation of B lymphocytes to plasma cells and production of immunoglobulins (PubMed:11460154). Modulates the cellular response to ER stress in a PIK3R-dependent manner (PubMed:20348923). Binds to the cis-acting X box present in the promoter regions of major histocompatibility complex class II genes (PubMed:8349596). Involved in VEGF-induced endothelial cell (EC) proliferation and retinal blood vessel formation during embryonic development but also for angiogenesis in adult tissues under ischemic conditions. Also functions as a major regulator of the UPR in obesity-induced insulin resistance and type 2 diabetes for the management of obesity and diabetes prevention (By similarity).
+Subcellular Location	Endoplasmic reticulum; Nucleus; Cytoplasm; Endoplasmic reticulum membrane; Endoplasmic reticulum membrane; Membrane; Nucleus; Cytoplasm; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVVAAAPNPADGTPKVLLLSGQPASAAGAPAGQALPLMVPAQRGASPEAASGGLPQARKRQRLTHLSPEEKALRRKLKNRVAAQTARDRKKARMSELEQQVVDLEEENQKLLLENQLLREKTHGLVVENQELRQRLGMDALVAEEEAEAKGNEVRPVAGSAESAAGAGPVVTPPEHLPMDSGGIDSSDSESDILLGILDNLDPVMFFKCPSPEPASLEELPEVYPEGPSSLPASLSLSVGTSSAKLEAINELIRFDHIYTKPLVLEIPSETESQANVVVKIEEAPLSPSENDHPEFIVSVKEEPVEDDLVPELGISNLLSSSHCPKPSSCLLDAYSDCGYGGSLSPFSDMSSLLGVNHSWEDTFANELFPQLISV
+PTM	Methylation:111;Phosphorylation:47,68;SUMOylation:16,72,92,111,151;Ubiquitylation:151,236

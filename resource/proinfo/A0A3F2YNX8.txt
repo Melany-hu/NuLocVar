@@ -1,0 +1,25 @@
+UniprotID	A0A3F2YNX8
+Accession	A0A3F2YNX8
+EntryName	A0A3F2YNX8_HUMAN
+ProteinName	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+GeneName	PCMT1
+Length	250
+Function	Initiates the repair of damaged proteins by catalyzing methyl esterification of L-isoaspartyl and D-aspartyl residues produced by spontaneous isomerization and racemization of L-aspartyl and L-asparaginyl residues in aging peptides and proteins. Acts on EIF4EBP2, microtubule-associated protein 2, calreticulin, clathrin light chains a and b, Ubiquitin C-terminal hydrolase isozyme L1, phosphatidylethanolamine-binding protein 1, stathmin, beta-synuclein and alpha-synuclein.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGARSGGSGGDGSNSGSYSGDASGAVTVWEVVSLLGKLLGTVVALKVVLYLLRVCLAMAWKSGGASHSELIHNLRSFQATISAPHMHAYALELLFDQLHEGAKALDVGSGSGILTACFARMVGCTGKVIGIDHIKELVDDSVNNVRKDDPTLLSSGRVQLVVGDGRMGYAEEAPYDAIHVGAAAPVVPQALIDQLKPGGRLILPVGPAGGNQMLEQYDKLQDGSIKMKPLMGVIYVPLTDKEKQWSRWK
+PTM	

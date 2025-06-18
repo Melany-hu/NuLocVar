@@ -1,0 +1,25 @@
+UniprotID	O75618-2
+Accession	O75618;D3DVF5;O60737
+EntryName	DEDD_HUMAN
+ProteinName	Death effector domain-containing protein (DEDPro1) (Death effector domain-containing testicular molecule) (FLDED-1)
+GeneName	DEDD DEDPRO1 DEFT KE05
+Length	348
+Function	A scaffold protein that directs CASP3 to certain substrates and facilitates their ordered degradation during apoptosis. May also play a role in mediating CASP3 cleavage of KRT18. Regulates degradation of intermediate filaments during apoptosis. May play a role in the general transcription machinery in the nucleus and might be an important regulator of the activity of GTF3C3. Inhibits DNA transcription in vitro (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	176...181
+validnes_region	
+nesbase_region	
+Sequence	MAGLKRRASQVWPEEHGEQEHGLYSLHRMFDIVGTHLTHRDVRVLSFLFVDVIDDHERGLIRNGRDFLLALERQGRCDESNFRQVLQLLRIITRHDLLPYVTLKRRRAVCPDLVDKYLEETSIRYVTPRALSDPEPRPPQPSKTVPPHYPVVCCPTSGPQMCSKRPARGRATLGSQRKRRKSVTPDPKEKQTCGEEIQGFQRWSRLEGEYKELLGHWAVYAIQYIRLRVRAEYCQHETALQGNVFSNKQDPLERQFERFNQANTILKSRDLGSIICDIKFSELTYLDAFWRDYINGSLLEALKGVFITDSLKQAVGHEAIKLLVNVDEEDYELGRQKLLRNLMLQALP
+PTM	Methylation:273,291;Phosphorylation:9,182;SUMOylation:218,237;Ubiquitylation:116,237

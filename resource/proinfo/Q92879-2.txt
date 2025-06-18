@@ -1,0 +1,25 @@
+UniprotID	Q92879-2
+Accession	Q92879;B4E2U5;D3DQS0;F8W940;Q4LE52;Q9NP83;Q9NR06
+EntryName	CELF1_HUMAN
+ProteinName	CUGBP Elav-like family member 1 (CELF-1) (50 kDa nuclear polyadenylated RNA-binding protein) (Bruno-like protein 2) (CUG triplet repeat RNA-binding protein 1) (CUG-BP1) (CUG-BP- and ETR-3-like factor 1) (Deadenylation factor CUG-BP) (Embryo deadenylation element-binding protein homolog) (EDEN-BP homolog) (RNA-binding protein BRUNOL-2)
+GeneName	CELF1 BRUNOL2 CUGBP CUGBP1 NAB50
+Length	482
+Function	RNA-binding protein implicated in the regulation of several post-transcriptional events. Involved in pre-mRNA alternative splicing, mRNA translation and stability. Mediates exon inclusion and/or exclusion in pre-mRNA that are subject to tissue-specific and developmentally regulated alternative splicing. Specifically activates exon 5 inclusion of cardiac isoforms of TNNT2 during heart remodeling at the juvenile to adult transition. Acts both as an activator and as a repressor of a pair of coregulated exons: promotes inclusion of the smooth muscle (SM) exon but exclusion of the non-muscle (NM) exon in actinin pre-mRNAs. Activates SM exon 5 inclusion by antagonizing the repressive effect of PTB. Promotes exclusion of exon 11 of the INSR pre-mRNA. Inhibits, together with HNRNPH1, insulin receptor (IR) pre-mRNA exon 11 inclusion in myoblast. Increases translation and controls the choice of translation initiation codon of CEBPB mRNA. Increases mRNA translation of CEBPB in aging liver (By similarity). Increases translation of CDKN1A mRNA by antagonizing the repressive effect of CALR3. Mediates rapid cytoplasmic mRNA deadenylation. Recruits the deadenylase PARN to the poly(A) tail of EDEN-containing mRNAs to promote their deadenylation. Required for completion of spermatogenesis (By similarity). Binds to (CUG)n triplet repeats in the 3'-UTR of transcripts such as DMPK and to Bruno response elements (BREs). Binds to muscle-specific splicing enhancer (MSE) intronic sites flanking the alternative exon 5 of TNNT2 pre-mRNA. Binds to AU-rich sequences (AREs or EDEN-like) localized in the 3'-UTR of JUN and FOS mRNAs. Binds to the IR RNA. Binds to the 5'-region of CDKN1A and CEBPB mRNAs. Binds with the 5'-region of CEBPB mRNA in aging liver. May be a specific regulator of miRNA biogenesis. Binds to primary microRNA pri-MIR140 and, with CELF2, negatively regulates the processing to mature miRNA (PubMed:28431233).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGTLDHPDQPDLDAIKMFVGQVPRTWSEKDLRELFEQYGAVYEINVLRDRSQNPPQSKGCCFVTFYTRKAALEAQNALHNMKVLPGMHHPIQMKPADSEKNNAVEDRKLFIGMISKKCTENDIRVMFSSFGQIEECRILRGPDGLSRGCAFVTFTTRAMAQTAIKAMHQAQTMEGCSSPMVVKFADTQKDKEQKRMAQQLQQQMQQISAASVWGNLAGLNTLGPQYLALLQQTASSGNLNTLSSLHPMGGLNAMQLQNLAALAAAASAAQNTPSGTNALTTSSSPLSVLTSSGSSPSSSSSNSVNPIASLGALQTLAGATAGLNVGSLAGMAALNGGLGSSGLSNGTGSTMEALTQAYSGIQQYAAAALPTLYNQNLLTQQSIGAAGSQKEGPEGANLFIYHLPQEFGDQDLLQMFMPFGNVVSAKVFIDKQTNLSKCFGFVSYDNPVSAQAAIQSMNGFQIGMKRLKVQLKRSKNDSKPY
+PTM	Acetylation:30,101,117,436;Methylation:17,25,166,431;Phosphorylation:26,28,178,179;SUMOylation:17,30,70,83,95,109,166,184,436;Ubiquitylation:17,30,59,70,95,101,117,166,190,436,484

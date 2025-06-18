@@ -1,0 +1,25 @@
+UniprotID	C9J7P5
+Accession	C9J7P5
+EntryName	C9J7P5_HUMAN
+ProteinName	Transforming growth factor beta regulator 4
+GeneName	TBRG4
+Length	248
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPVEKERASTPYIEKQVDHLIKKATRPEELLELLGGSHDLDSNQAAMVLIRLSHLLSEKPEDKGLLIQDAHFHQLLCLLNSQIASVWHGTLSKLLGSLYALGIPKASKELQSVEQEVRWRMRKLKYKHLAFLAESCATLSQEQHSQELLAELLTHLERRWTEIEDSHTLVTVMMKVGHLSEPLMNRLEDKCLELVEHFGPNELRKVLVMLAAQSRRSVPLLRAISYHLVQKPFSLTKDVLLDVAYAY
+PTM	

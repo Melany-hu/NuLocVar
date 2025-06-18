@@ -1,0 +1,25 @@
+UniprotID	Q9HA47-3
+Accession	Q9HA47;Q5JT09;Q5JT10;Q5JT12;Q5JT13;Q6IA74;Q96BJ0
+EntryName	UCK1_HUMAN
+ProteinName	Uridine-cytidine kinase 1 (UCK 1) (EC 2.7.1.48) (Cytidine monophosphokinase 1) (Uridine monophosphokinase 1)
+GeneName	UCK1 URK1
+Length	268
+Function	Phosphorylates uridine and cytidine to uridine monophosphate and cytidine monophosphate (PubMed:11306702). Does not phosphorylate deoxyribonucleosides or purine ribonucleosides (PubMed:11306702). Can use ATP or GTP as a phosphate donor (PubMed:11306702). Can also phosphorylate cytidine and uridine nucleoside analogs such as 6-azauridine, 5-fluorouridine, 4-thiouridine, 5-bromouridine, N(4)-acetylcytidine, N(4)-benzoylcytidine, 5-fluorocytidine, 2-thiocytidine, 5-methylcytidine, and N(4)-anisoylcytidine (PubMed:11306702).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASAGGEDCESPAPEADRPHQRPFLIGSTVCEKIMELLGQNEVEQRQRKVVILSQDRFYKVLTAEQKAKALKGQYNFDHPDAFDNDLMHRTLKNIVEGKTVEVPTYDFVTHSRLPETTVVYPADVVLFEGILVFYSQEIRDMFHLRLFVDTDSDVRLSRRVLRDVRRGRDLEQILTQYTTFVKPAFEEFCLPTKKYADVIIPRGVDNMVAINLIVQHIQDILNGDICKWHRGGSNGRSYKRTFSEPGDHPGMLTSGKRSHLESSSRPH
+PTM	Acetylation:266;Methylation:66;Phosphorylation:11,205,251,253;SUMOylation:81;Ubiquitylation:81,203,204

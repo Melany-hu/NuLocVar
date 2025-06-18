@@ -1,0 +1,25 @@
+UniprotID	P01116-2
+Accession	P01116;A8K8Z5;B0LPF9;P01118;Q96D10
+EntryName	RASK_HUMAN
+ProteinName	GTPase KRas (EC 3.6.5.2) (K-Ras 2) (Ki-Ras) (c-K-ras) (c-Ki-ras) [Cleaved into: GTPase KRas, N-terminally processed]
+GeneName	KRAS KRAS2 RASK2
+Length	188
+Function	Ras proteins bind GDP/GTP and possess intrinsic GTPase activity (PubMed:20949621). Plays an important role in the regulation of cell proliferation (PubMed:22711838, PubMed:23698361). Plays a role in promoting oncogenic events by inducing transcriptional silencing of tumor suppressor genes (TSGs) in colorectal cancer (CRC) cells in a ZNF304-dependent manner (PubMed:24623306).
+Subcellular Location	Cell membrane; Endomembrane system; Cytoplasm; Cytosol; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEKMSKDGKKKKKKSKTKCVIM
+PTM	Methylation:42,101;Phosphorylation:39,40,137,172;SUMOylation:128;Ubiquitylation:5,42,88,117,128,147

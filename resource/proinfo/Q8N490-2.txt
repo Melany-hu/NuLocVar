@@ -1,0 +1,25 @@
+UniprotID	Q8N490-2
+Accession	Q8N490;A8K1F2;Q96A48;Q9BU26;Q9NSX4;Q9ULN6;Q9Y4T1
+EntryName	PNKD_HUMAN
+ProteinName	Probable thioesterase PNKD (EC 3.1.2.-) (Myofibrillogenesis regulator 1) (MR-1) (Paroxysmal nonkinesiogenic dyskinesia protein) (Trans-activated by hepatitis C virus core protein 2)
+GeneName	PNKD KIAA1184 MR1 TAHCCP2 FKSG19 UNQ2491/PRO5778
+Length	142
+Function	Probable thioesterase that may play a role in cellular detoxification processes; it likely acts on a yet-unknown alpha-hydroxythioester substrate (Probable). In vitro, it is able to catalyze the hydrolysis of S-D-lactoyl-glutathione to form glutathione and D-lactic acid at very low rate, though this reaction is not physiologically relevant in vivo (PubMed:21487022).
+Subcellular Location	Cell membrane; Mitochondrion; Cytoplasm; Mitochondrion; Mitochondrion; Golgi apparatus; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVVAATALKGRGARNARVLRGILAGATANKASHNRTRALQSHSSPEGKEEPEPLSPELEYIPRKRGKNPMKAVGLAWAIGFPCGILLFILTKREVDKDRVKQMKARQNMRLSNTGEYESQRFRASSQSAPSPDVGSGVQT
+PTM	Methylation:11,120,160;Phosphorylation:57,157;SUMOylation:11,50;Ubiquitylation:11,106,244

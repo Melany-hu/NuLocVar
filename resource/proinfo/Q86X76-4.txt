@@ -1,0 +1,25 @@
+UniprotID	Q86X76-4
+Accession	Q86X76;B1AQP3;D3DVF4;O76091
+EntryName	NIT1_HUMAN
+ProteinName	Deaminated glutathione amidase (dGSH amidase) (EC 3.5.1.128) (Nitrilase homolog 1)
+GeneName	NIT1
+Length	312
+Function	Catalyzes the hydrolysis of the amide bond in N-(4-oxoglutarate)-L-cysteinylglycine (deaminated glutathione), a metabolite repair reaction to dispose of the harmful deaminated glutathione. Plays a role in cell growth and apoptosis: loss of expression promotes cell growth, resistance to DNA damage stress and increased incidence to NMBA-induced tumors. Has tumor suppressor properties that enhances the apoptotic responsiveness in cancer cells; this effect is additive to the tumor suppressor activity of FHIT. It is also a negative regulator of primary T-cells.
+Subcellular Location	Mitochondrion; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTFGLRKRLSEERGFSLMPRAMAISSSSCELPLVAVCQVTSTPDKQQNFKTCAELVREAARLGACLAFLPEAFDFIARDPAETLHLSEPLGGKLLEEYTQLARECGLWLSLGGFHERGQDWEQTQKIYNCHVLLNSKGAVVATYRKTHLCDVEIPGQGPMCESNSTMPGPSLESPVSTPAGKIGLAVCYDMRFPELSLALAQAGAEILTYPSAFGSITGPAHWEVLLRARAIETQCYVVAAAQCGRHHEKRASYGHSMVVDPWGTVVARCSEGPGLCLARIDLNYLRQLRRHLPVFQHRRPDLYGNLGHPLS
+PTM	Methylation:108;Phosphorylation:102,143,268,327;Ubiquitylation:65,108

@@ -1,0 +1,25 @@
+UniprotID	E9PPM3
+Accession	E9PPM3
+EntryName	E9PPM3_HUMAN
+ProteinName	Adenylate kinase 9
+GeneName	AK9
+Length	227
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	107...111
+validnes_region	
+nesbase_region	
+Sequence	MLQSMLISGQSIPDELVIKLMLEKLNSPEVCHFGYIITEIPSLSQDAMTTLQQIELIKNLNLKPDVIINIKCPDYDLCQRISGQRQHNNTGYIYSRDQWDPEVIENHRKKKKEAQKDGKGEEEEEEEEQEEEEAFIAEMQMVAEILHHLVQRPEDYLENVENIVKLYKETILQTLEEVMAEHNPQYLIELNGNKPAEELFMIVMDRLKYLNLKRAAILTKLQGAEEE
+PTM	

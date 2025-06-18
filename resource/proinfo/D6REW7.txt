@@ -1,0 +1,25 @@
+UniprotID	D6REW7
+Accession	D6REW7
+EntryName	D6REW7_HUMAN
+ProteinName	E3 ubiquitin-protein transferase MAEA (Macrophage erythroblast attacher)
+GeneName	MAEA
+Length	274
+Function	
+Subcellular Location	Nucleus matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	188...193
+validnes_region	
+nesbase_region	
+Sequence	MAVQESAAQLSMTLKVQEYPTLKVPYETLNKRFRAAQKNIDRETSHVTMVVAELEKTLSGCPAVDSVVSLLDGVVEKLSVLKRKAVESIQAEDESAKLCKRRIEHLKEHSSDQPAAASVWKRKRMDRMMVEHLLRCGYYNTAVKLARQSGIEDLVNIEMFLTAKEVEESLERRETATCLAWCHDNKSRLRKMKTCKKALQPSRREPAGRGAPGHGHAGLPARHAHLPVQGPSGPCTVADADPAVPVRQLPTTPAGKQFCVHPHPAGWPLSHQDT
+PTM	

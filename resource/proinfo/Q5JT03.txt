@@ -1,0 +1,25 @@
+UniprotID	Q5JT03
+Accession	Q5JT03
+EntryName	Q5JT03_HUMAN
+ProteinName	dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109)
+GeneName	POMT1
+Length	296
+Function	Transfers mannosyl residues to the hydroxyl group of serine or threonine residues. Coexpression of both POMT1 and POMT2 is necessary for enzyme activity, expression of either POMT1 or POMT2 alone is insufficient. Essentially dedicated to O-mannosylation of alpha-DAG1 and few other proteins but not of cadherins and protocaherins.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYQIVLELHFSHCAAMGAALLMLIENALITQSRLMLLESVLIFFNLLAVLSYLKFFNCQKHSPFSLSWWFWLTLTGVACSCAVGIKYMGVFTYVLVLGVAAVHAWHLLGDQTLSNVGADVQCCMRPACMGQMQMSQGVCVFCHLLARAVALLVIPVVLYLLFFYVHLILVFRSGPHDQIMSSAFQASLEGGLARITQGQPLEVAFGSQVTLRNVFGKPVPCWLHSHQDTYPMIYENGRGSSHQQQVTCYPFKDVNNWWIVKDPRRHQLVVSSPPRPVRHGDMVQLVHGMTTRSLN
+PTM	

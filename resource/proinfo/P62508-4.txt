@@ -1,0 +1,25 @@
+UniprotID	P62508-4
+Accession	P62508;A8K4I0;A8K6I2;B3KY84;E9PGB7;F8W8J3;O75454;O96021;Q68DA0;Q6P274;Q6PK28;Q6TS38;Q9R1F3;Q9UNJ4
+EntryName	ERR3_HUMAN
+ProteinName	Estrogen-related receptor gamma (ERR gamma-2) (Estrogen receptor-related protein 3) (Nuclear receptor subfamily 3 group B member 3)
+GeneName	ESRRG ERR3 ERRG2 KIAA0832 NR3B3
+Length	396
+Function	Orphan receptor that acts as a transcription activator in the absence of bound ligand. Binds specifically to an estrogen response element and activates reporter genes controlled by estrogen response elements (By similarity). Induces the expression of PERM1 in the skeletal muscle.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNKDRHIDSSCSSFIKTEPSSPASLTDSVNHHSPGGSSDASGSYSSTMNGHQNGLDSPPLYPSAPILGGSGPVRKLYDDCSSTIVEDPQTKCEYMLNSMPKRLCLVCGDIASGYHYGVASCEACKAFFKRTIQGVRLDRVRGGRQKYKRRIDAENSPYLNPQLVQPAKKPYNKIVSHLLVAEPEKIYAMPDPTVPDSDIKALTTLCDLADRELVVIIGWAKHIPGFSTLSLADQMSLLQSAWMEILILGVVYRSLSFEDELVYADDYIMDEDQSKLAGLLDLNNAILQLVKKYKSMKLEKEEFVTLKAIALANSDSMHIEDVEAVQKLQDVLHEALQDYEAGQHMEDPRRAGKMLMTLPLLRQTSTKAVQHFYNIKLEGKVPMHKLFLEMLEAKV
+PTM	Methylation:40,354,390;Phosphorylation:34,37,219,239;SUMOylation:40,115,439;Ubiquitylation:443

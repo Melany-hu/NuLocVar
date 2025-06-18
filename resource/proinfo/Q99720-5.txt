@@ -1,0 +1,25 @@
+UniprotID	Q99720-5
+Accession	Q99720;D3DRM7;O00673;O00725;Q0Z9W6;Q153Z1;Q2TSD1;Q53GN2;Q7Z653;Q8N7H3;Q9NYX0
+EntryName	SGMR1_HUMAN
+ProteinName	Sigma non-opioid intracellular receptor 1 (Aging-associated gene 8 protein) (SR31747-binding protein) (SR-BP) (Sigma 1-type opioid receptor) (SIG-1R) (Sigma1-receptor) (Sigma1R) (hSigmaR1)
+GeneName	SIGMAR1 OPRS1 SRBP AAG8
+Length	187
+Function	Functions in lipid transport from the endoplasmic reticulum and is involved in a wide array of cellular functions probably through regulation of the biogenesis of lipid microdomains at the plasma membrane. Involved in the regulation of different receptors it plays a role in BDNF signaling and EGF signaling. Also regulates ion channels like the potassium channel and could modulate neurotransmitter release. Plays a role in calcium signaling through modulation together with ANK2 of the ITP3R-dependent calcium efflux at the endoplasmic reticulum. Plays a role in several other cell functions including proliferation, survival and death. Originally identified for its ability to bind various psychoactive drugs it is involved in learning processes, memory and mood alteration (PubMed:16472803, PubMed:9341151). Necessary for proper mitochondrial axonal transport in motor neurons, in particular the retrograde movement of mitochondria. Plays a role in protecting cells against oxidative stress-induced cell death via its interaction with RNF112 (By similarity).
+Subcellular Location	Nucleus inner membrane; Nucleus outer membrane; Nucleus envelope; Cytoplasmic vesicle; Endoplasmic reticulum membrane; Membrane; Lipid droplet; Cell junction; Cell membrane; Cell projection; Growth cone; Postsynaptic density membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQWAVGRRWAWAALLLAVAAVLTQVVWLWLDHELAFSRLIEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGHSGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRGVIPSTLAFALADTVFSTQDFLTLFYTLRSYARGLRLELTTYLFGQDP
+PTM	Phosphorylation:140,141;Ubiquitylation:142

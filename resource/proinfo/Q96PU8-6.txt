@@ -1,0 +1,25 @@
+UniprotID	Q96PU8-6
+Accession	Q96PU8;Q2I375;Q5MJQ1;Q969L9;Q96EJ3;Q96KA3;Q96PU6;Q96PU7;Q9P0X6;Q9P0X7;Q9P0X8;Q9P0X9;Q9P0Y0;Q9P0Y1
+EntryName	QKI_HUMAN
+ProteinName	KH domain-containing RNA-binding protein QKI (Protein quaking) (Hqk) (HqkI)
+GeneName	QKI HKQ
+Length	325
+Function	RNA reader protein, which recognizes and binds specific RNAs, thereby regulating RNA metabolic processes, such as pre-mRNA splicing, circular RNA (circRNA) formation, mRNA export, mRNA stability and/or translation (PubMed:22398723, PubMed:23630077, PubMed:25768908, PubMed:27029405, PubMed:31331967, PubMed:37379838). Involved in various cellular processes, such as mRNA storage into stress granules, apoptosis, lipid deposition, interferon response, glial cell fate and development (PubMed:25768908, PubMed:31829086, PubMed:34428287, PubMed:37379838). Binds to the 5'-NACUAAY-N(1,20)-UAAY-3' RNA core sequence (PubMed:23630077). Acts as a mRNA modification reader that specifically recognizes and binds mRNA transcripts modified by internal N(7)-methylguanine (m7G) (PubMed:37379838). Promotes the formation of circular RNAs (circRNAs) during the epithelial to mesenchymal transition and in cardiomyocytes: acts by binding to sites flanking circRNA-forming exons (PubMed:25768908). CircRNAs are produced by back-splicing circularization of pre-mRNAs (PubMed:25768908). Plays a central role in myelinization via 3 distinct mechanisms (PubMed:16641098). First, acts by protecting and promoting stability of target mRNAs such as MBP, SIRT2 and CDKN1B, which promotes oligodendrocyte differentiation (By similarity). Second, participates in mRNA transport by regulating the nuclear export of MBP mRNA (By similarity). Finally, indirectly regulates mRNA splicing of MAG pre-mRNA during oligodendrocyte differentiation by acting as a negative regulator of MAG exon 12 alternative splicing: acts by binding to HNRNPA1 mRNA splicing factor, preventing its translation (By similarity). Involved in microglia differentiation and remyelination by regulating microexon alternative splicing of the Rho GTPase pathway (By similarity). Involved in macrophage differentiation: promotes monocyte differentiation by regulating pre-mRNA splicing in naive peripheral blood monocytes (PubMed:27029405). Acts as an important regulator of muscle development: required for the contractile function of cardiomyocytes by regulating alternative splicing of cardiomyocyte transcripts (By similarity). Acts as a negative regulator of thermogenesis by decreasing stability, nuclear export and translation of mRNAs encoding PPARGC1A and UCP1 (By similarity). Also required for visceral endoderm function and blood vessel development (By similarity). May also play a role in smooth muscle development (PubMed:31331967). In addition to its RNA-binding activity, also acts as a nuclear transcription coactivator for SREBF2/SREBP2 (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; Cytoplasm; Cytoplasm; Cytosol; Nucleus; Cytoplasm; Cytosol; Cytoplasm; Stress granule; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	324..330
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGEMETKEKPKPTPDYLMQLMNDKKLMSSLPNFCGIFNHLERLLDEEISRVRKDMYNDTLNGSTEKRSAELPDAVGPIVQLQEKLYVPVKEYPDFNFVGRILGPRGLTAKQLEAETGCKIMVRGKGSMRDKKKEEQNRGKPNWEHLNEDLHVLITVEDAQNRAEIKLKRAVEEVKKLLVPAAEGEDSLKKMQLMELAILNGTYRDANIKSPALAFSLAATAQAAPRIITGPAPVLPPAALRTPTPAGPTIMPLIRQIQTAVMPNGTPHPTAAIVPPGPEAGLIYTPYEYPYTLAPATSILEYPIEPSGVLEWIEMPVMPDISAH
+PTM	Acetylation:190;Glycosylation:217;Methylation:85,190,210,227,242,256,317,336;Phosphorylation:7,57,60,64,69,87,188,203,211,243,245;SUMOylation:8,10,12,26,91,190;Ubiquitylation:26,67,91,111,190

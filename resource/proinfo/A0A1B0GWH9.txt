@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GWH9
+Accession	A0A1B0GWH9
+EntryName	A0A1B0GWH9_HUMAN
+ProteinName	Battenin
+GeneName	CLN3
+Length	159
+Function	
+Subcellular Location	Endomembrane system; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLLWYIVPLVVVYFAEYFINQGLFELLFFWNTSLSHAQQYRWYQMLYQAGVFASRSSLRCCRIRFTWALALLQCLNLVFLLADVWFGFLPSIYLVFLIILYEGLLGGAAYVNTFHNIALETSDEHREFAMAATCISDTLGISLSGLLALPLHDFLCQLS
+PTM	

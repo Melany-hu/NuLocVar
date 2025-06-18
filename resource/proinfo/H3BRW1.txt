@@ -1,0 +1,25 @@
+UniprotID	H3BRW1
+Accession	H3BRW1
+EntryName	H3BRW1_HUMAN
+ProteinName	Brain expressed associated with NEDD4 1
+GeneName	BEAN1
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRYACSSSEDWPPPLDISSDGDVDATVLRELYPDSPPGQGLTQSPTLECNGMNIAHCSLELLGSSDPPTSAS
+PTM	

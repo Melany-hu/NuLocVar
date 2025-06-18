@@ -1,0 +1,25 @@
+UniprotID	P48380-3
+Accession	P48380;A8K0H5;D3DRH8;D3DRH9;Q5JTL7;Q5JTL8;Q6NW13;Q8WTU4;Q95HL5;Q95HL6
+EntryName	RFX3_HUMAN
+ProteinName	Transcription factor RFX3 (Regulatory factor X 3)
+GeneName	RFX3
+Length	413
+Function	Transcription factor required for ciliogenesis and islet cell differentiation during endocrine pancreas development. Essential for the differentiation of nodal monocilia and left-right asymmetry specification during embryogenesis. Required for the biogenesis of motile cilia by governing growth and beating efficiency of motile cells. Also required for ciliated ependymal cell differentiation. Regulates the expression of genes involved in ciliary assembly (DYNC2LI1, FOXJ1 and BBS4) and genes involved in ciliary motility (DNAH11, DNAH9 and DNAH5) (By similarity). Together with RFX6, participates in the differentiation of 4 of the 5 islet cell types during endocrine pancreas development, with the exception of pancreatic PP (polypeptide-producing) cells. Regulates transcription by forming a heterodimer with another RFX protein and binding to the X-box in the promoter of target genes (PubMed:20148032). Represses transcription of MAP1A in non-neuronal cells but not in neuronal cells (PubMed:12411430).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQTSETGSDTGSTVTLQTSVASQAAVPTQVVQQVPVQQQVQQVQTVQQVQHVYPAQVQYVEGSDTVYTNGAIRTTTYPYTETQMYSQNTGGNYFDTQGSSAQVTTVVSSHSMVGTGGIQMGVTGGQLISSSGGTYLIGNSMENSGHSVTHTTRASPATIEMAIETLQKSDGLSTHRSSLLNSHLQWLLDNYETAEGVSLPRSTLYNHYLRHCQEHKLDPVNAASFGKLIRSIFMGLRTRRLGTRGNSKYHYYGIRVKPDSPLNRLQEDMQYMAMRQQPMQQKQRYKPMQKVDGVADGFTGSGQQTGTSVEQTVIAQSQHHQQFLDASRALPEFGEVEISSLPDGTTFEDIKSLQSLYREHCEAILDVVVNLQFSLIEKLWQTFWRYSPSTPTDGTTITESRSESTSFPIHFHG
+PTM	Methylation:168,378,426,582,670;Phosphorylation:155,158,198,260,374,423,616,664,674,678,740

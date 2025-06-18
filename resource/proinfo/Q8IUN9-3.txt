@@ -1,0 +1,25 @@
+UniprotID	Q8IUN9-3
+Accession	Q8IUN9;A8K8J8;Q14538;Q6PIW3
+EntryName	CLC10_HUMAN
+ProteinName	C-type lectin domain family 10 member A (C-type lectin superfamily member 14) (DC-asialoglycoprotein receptor) (DC-ASGPR) (Macrophage galactose-type lectin) (MGL) (Macrophage lectin 2) (CD antigen CD301)
+GeneName	CLEC10A CLECSF13 CLECSF14 HML
+Length	256
+Function	C-type lectin receptor involved in recognition of N-acetylgalactosamine (GalNAc)-terminated glycans by myeloid antigen presenting cells (APCs) (PubMed:15802303, PubMed:16998493, PubMed:17616966, PubMed:22213806, PubMed:33724805, PubMed:8598452). Binds in a Ca(2+)-dependent manner to alpha- and beta-linked GalNAc residues on glycoprotein and glycolipid antigens, including alphaGalNAc- and Galbeta1->3GalNAc-O-Ser/Thr also known as Tn and T antigens, LacdiNAc epitope GalNAcbeta1->4GlcNAc and its derivative GalNAcbeta1->4-(Fucalpha1->3)GlcNAc, O-linked core 5 and 6 glycans, and GM2 and GD2 gangliosides (PubMed:15802303, PubMed:23507963). Acts as a signaling receptor at the interface of APC-T cell interactions. On immature dendritic cells, recognizes Tn antigen-carrying PTPRC/CD45 receptor on effector T cells and downregulates PTRPN/CD45 phosphatase activity with an impact on T cell activation threshold, cytokine production and proliferation. Modulates dendritic cell maturation toward a tolerogenic phenotype leading to generation of regulatory CD4-positive T cell subset with immune suppressive functions (PubMed:15802303, PubMed:16998493, PubMed:22213806). Acts as an endocytic pattern recognition receptor involved in antitumor immunity. During tumorigenesis, recognizes Tn antigens and its sialylated forms Neu5Ac-Tn and Neu5Gc-Tn expressed on tumor cell mucins. On immature dendritic cells, can internalize Tn-terminated immunogens and target them to endolysosomal compartment for MHC class I and II antigen presentation to CD8-positive and CD4-positive T cells, respectively (PubMed:15802303, PubMed:17616966, PubMed:17804752).
+Subcellular Location	Cell membrane; Early endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRTYENFQYLENKVKVQGFKNGPLPLQSLLQRLCSGPCHLLLSLGLGLLLLVIICVVGFQNSKFQRDLVTLRTDFSNFTSNTVAEIQALTSQGSSLEETIASLKAEVEGFKQERQAVHSEMLLRVQQLVQDLKKLTCQVATLNNNASTEGTCCPVNWVEHQDSCYWFSHSGMSWAEAEKYCQLKNAHLVVINSREEQVRASGTQFLRHVPFREMVLKLGRTLESSGSFQNDCHLCHTLRDLIGLSIQRNISKLLS
+PTM	Methylation:14,112,161;Phosphorylation:71

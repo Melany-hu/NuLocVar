@@ -1,0 +1,25 @@
+UniprotID	Q5TC82-2
+Accession	Q5TC82;B3KVK1;Q5W180;Q5W181;Q8IVE6;Q8N9V1
+EntryName	RC3H1_HUMAN
+ProteinName	Roquin-1 (Roquin) (EC 2.3.2.27) (RING finger and C3H zinc finger protein 1) (RING finger and CCCH-type zinc finger domain-containing protein 1) (RING finger protein 198)
+GeneName	RC3H1 KIAA2025 RNF198
+Length	1125
+Function	Post-transcriptional repressor of mRNAs containing a conserved stem loop motif, called constitutive decay element (CDE), which is often located in the 3'-UTR, as in HMGXB3, ICOS, IER3, NFKBID, NFKBIZ, PPP1R10, TNF, TNFRSF4 and in many more mRNAs (PubMed:25026078, PubMed:31636267). Cleaves translationally inactive mRNAs harboring a stem-loop (SL), often located in their 3'-UTRs, during the early phase of inflammation in a helicase UPF1-independent manner (By similarity). Binds to CDE and promotes mRNA deadenylation and degradation. This process does not involve miRNAs (By similarity). In follicular helper T (Tfh) cells, represses of ICOS and TNFRSF4 expression, thus preventing spontaneous Tfh cell differentiation, germinal center B-cell differentiation in the absence of immunization and autoimmunity (By similarity). In resting or LPS-stimulated macrophages, controls inflammation by suppressing TNF expression (By similarity). Also recognizes CDE in its own mRNA and in that of paralogous RC3H2, possibly leading to feedback loop regulation (By similarity). Recognizes and binds mRNAs containing a hexaloop stem-loop motif, called alternative decay element (ADE) (By similarity). Together with ZC3H12A, destabilizes TNFRSF4/OX40 mRNA by binding to the conserved stem loop structure in its 3'UTR (By similarity). Able to interact with double-stranded RNA (dsRNA) (PubMed:25026078, PubMed:25504471). miRNA-binding protein that regulates microRNA homeostasis. Enhances DICER-mediated processing of pre-MIR146a but reduces mature MIR146a levels through an increase of 3' end uridylation. Both inhibits ICOS mRNA expression and they may act together to exert the suppression (PubMed:25697406, PubMed:31636267). Acts as a ubiquitin E3 ligase. Pairs with E2 enzymes UBE2A, UBE2B, UBE2D2, UBE2F, UBE2G1, UBE2G2 and UBE2L3 and produces polyubiquitin chains (PubMed:26489670). Shows the strongest activity when paired with UBE2N:UBE2V1 or UBE2N:UBE2V2 E2 complexes and generate both short and long polyubiquitin chains (PubMed:26489670).
+Subcellular Location	Cytoplasm; P-body; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVQAPQWTDFLSCPICTQTFDETIRKPISLGCGHTVCKMCLNKLHRKACPFDQTTINTDIELLPVNSALLQLVGAQVPEQQPITLCSGVEDTKHYEEAKKCVEELALYLKPLSSARGVGLNSTTQSVLSRPMQRKLVTLVHCQLVEEEGRIRAMRAARSLGERTVTELILQHQNPQQLSSNLWAAVRARGCQFLGPAMQEEALKLVLLALEDGSALSRKVLVLFVVQRLEPRFPQASKTSIGHVVQLLYRASCFKVTKRDEDSSLMQLKEEFRTYEALRREHDSQIVQIAMEAGLRIAPDQWSSLLYGDQSHKSHMQSIIDKLQTPASFAQSVQELTIALQRTGDPANLNRLRPHLELLANIDPSPDAPPPTWEQLENGLVAVRTVVHGLVDYIQNHSKKGADQQQPPQHSKYKTYMCRDMKQRGGCPRGASCTFAHSQEELEKFRKMNKRLVPRRPLSASLGQLNEVGLPSAAILPDEGAVDLPSRKPPALPNGIVSTGNTVTQLIPRGTDPSYDSSLKPGKIDHLSSSAPGSPPDLLESVPKSISALPVNPHSIPPRGPADLPPMPVTKPLQMVPRGSQLYPAQQTDVYYQDPRGAAPPFEPAPYQQGMYYTPPPQCVSRFVRPPPSAPEPAPPYLDHYPPYLQERVVNSQYGTQPQQYPPIYPSHYDGRRVYPAPSYTREEIFRESPIPIEIPPAAVPSYVPESRERYQQIESYYPVAPHPTQIRPSYLREPPYSRLPPPPQPHPSLDELHRRRKEIMAQLEERKVISPPPFAPSPTLPPTFHPEEFLDEDLKVAGKYKGNDYSQYSPWSCDTIGSYIGTKDAKPKDVVAAGSVEMMNVESKGMRDQRLDLQRRAAETSDDDLIPFGDRPTVSRFGAISRTSKTIYQGAGPMQAMAPQGAPTKSINISDYSPYGTHGGWGASPYSPHQNIPSQGHFSERERISMSEVASHGKPLPSAEREQLRLELQQLNHQISQQTQLRGLEREANTLAGQSQPPPPPPPKWPGMISSEQLSLELHQVEREIGKRTRELSMENQCSLDMKSKLNTSKQAENGQPEPQNKVPAEDLTLTFSSDVPNGSALTQENISLLSNKTSSLNLSEDPEGGGDNNDSQRSGVTPSSAP
+PTM	Methylation:27,111,205,323,445,597,623,801;Phosphorylation:460,462,473,512,515,516,518,519,529,530,531,535,542,556,690,772,779,781,785,807,814,817,824,862,863,875,877,886,888,1050

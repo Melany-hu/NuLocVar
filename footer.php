@@ -20,7 +20,7 @@
             <li><i class="bx bx-chevron-right"></i> <a href="index.php">Search</a></li>            
             <li><i class="bx bx-chevron-right"></i> <a href="download.php">Download</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="help.php">Help</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="about.php">Contact</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="about.php">About</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="cite.php">Cite</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="https://www.omicsbio.info">LZX Lab</a></li>
           </ul>

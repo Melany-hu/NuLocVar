@@ -1,0 +1,25 @@
+UniprotID	Q9H252-2
+Accession	Q9H252;J9JID4;Q9BRD7
+EntryName	KCNH6_HUMAN
+ProteinName	Voltage-gated inwardly rectifying potassium channel KCNH6 (Ether-a-go-go-related gene potassium channel 2) (ERG-2) (Eag-related protein 2) (Ether-a-go-go-related protein 2) (hERG-2) (hERG2) (Potassium voltage-gated channel subfamily H member 6) (Voltage-gated potassium channel subunit Kv11.2)
+GeneName	KCNH6 ERG2
+Length	905
+Function	Pore-forming (alpha) subunit of voltage-gated inwardly rectifying potassium channel. Characterized by unusual gating kinetics by producing relatively small outward currents during membrane depolarization and large inward currents during subsequent repolarization which reflect a rapid inactivation during depolarization and quick recovery from inactivation but slow deactivation (closing) during repolarization. Activates even more slowly than KCNH2.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVRRGHVAPQNTYLDTIIRKFEGQSRKFLIANAQMENCAIIYCNDGFCELFGYSRVEVMQQPCTCDFLTGPNTPSSAVSRLAQALLGAEECKVDILYYRKDASSFRCLVDVVPVKNEDGAVIMFILNFEDLAQLLAKCSSRSLSQRLLSQSFLGSEGSHGRPGGPGPGTGRGKYRTISQIPQFTLNFVEFNLEKHRSSSTTEIEIIAPHKVVERTQNVTEKVTQVLSLGADVLPEYKLQAPRIHRWTILHYSPFKAVWDWLILLLVIYTAVFTPYSAAFLLSDQDESRRGACSYTCSPLTVVDLIVDIMFVVDIVINFRTTYVNTNDEVVSHPRRIAVHYFKGWFLIDMVAAIPFDLLIFRTGSDETTTLIGLLKTARLLRLVRVARKLDRYSEYGAAVLFLLMCTFALIAHWLACICSLTSVGFGNVSPNTNSEKVFSICVMLIGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVKEFIRFHQIPNPLRQRLEEYFQHAWSYTNGIDMNAVLKGFPECLQADICLHLHRALLQHCPAFSGAGKGCLRALAVKFKTTHAPPGDTLVHLGDVLSTLYFISRGSIEILRDDVVVAILGKNDIFGEPVSLHAQPGKSSADVRALTYCDLHKIQRADLLEVLDMYPAFAESFWSKLEVTFNLRDAAGGLHSSPRQAPGSQDHQGFFLSDNQSDAAPPLSISDASGLWPELLQEMPPRHSPQSPQEDPDCWPLKLGSRLEQLQAQMNRLESRVSSDLSRILQLLQKPMPQGHASYILEAPASNDLALVPIASETTSPGPRLPQGFLPPAQTPSYGDLDDCSPKHRNSSPRMPHLAVATDKTLAPSSEQEQPEGLWPPLASPLHPLEVQGLICGPCFSSLPEHLGSVPKQLDFQRHGSDPGFAGSWGH
+PTM	Acetylation:910;Methylation:21,116,138,195,376,570,653,853;Phosphorylation:145,201,202,216;Ubiquitylation:238

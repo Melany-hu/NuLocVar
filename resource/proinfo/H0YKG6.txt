@@ -1,0 +1,25 @@
+UniprotID	H0YKG6
+Accession	H0YKG6
+EntryName	H0YKG6_HUMAN
+ProteinName	Inhibitory synaptic factor 1
+GeneName	INSYN1
+Length	153
+Function	
+Subcellular Location	Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKMVIGQLEGILRELKEVAKELREVVSQIDKLTSDFDFELEPDDWTTATVSSTSSSDKAGMGGPFDLGHLDFMTADILSDSWEFCSFLDVSTPSDSVDGPESTRPGAGPDYRLMNGGTPIPNGPRVETPDSSSEEAFGAGPTVKSQLPQRTPG
+PTM	

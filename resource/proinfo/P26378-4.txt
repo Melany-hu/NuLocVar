@@ -1,0 +1,25 @@
+UniprotID	P26378-4
+Accession	P26378;B1APY6;B1APY7;B1APY8;B7Z4G7;Q8IYD4;Q96J74;Q96J75;Q9UD24
+EntryName	ELAV4_HUMAN
+ProteinName	ELAV-like protein 4 (Hu-antigen D) (HuD) (Paraneoplastic encephalomyelitis antigen HuD)
+GeneName	ELAVL4 HUD PNEM
+Length	366
+Function	RNA-binding protein that is involved in the post-transcriptional regulation of mRNAs (PubMed:10710437, PubMed:12034726, PubMed:12468554, PubMed:17035636, PubMed:17234598, PubMed:7898713). Plays a role in the regulation of mRNA stability, alternative splicing and translation (PubMed:10710437, PubMed:12034726, PubMed:12468554, PubMed:17035636, PubMed:17234598, PubMed:7898713). Binds to AU-rich element (ARE) sequences in the 3' untranslated region (UTR) of target mRNAs, including GAP43, VEGF, FOS, CDKN1A and ACHE mRNA (PubMed:10710437, PubMed:12034726, PubMed:12468554, PubMed:7898713). Many of the target mRNAs are coding for RNA-binding proteins, transcription factors and proteins involved in RNA processing and/or neuronal development and function (By similarity). By binding to the mRNA 3'UTR, decreases mRNA deadenylation and thereby contributes to the stabilization of mRNA molecules and their protection from decay (PubMed:12034726). Also binds to the polyadenylated (poly(A)) tail in the 3'UTR of mRNA, thereby increasing its affinity for mRNA binding (PubMed:12034726). Mainly plays a role in neuron-specific RNA processing by stabilization of mRNAs such as GAP43, ACHE and mRNAs of other neuronal proteins, thereby contributing to the differentiation of neural progenitor cells, nervous system development, learning and memory mechanisms (PubMed:12034726, PubMed:12468554, PubMed:17234598, PubMed:18218628). Involved in the negative regulation of the proliferative activity of neuronal stem cells and in the positive regulation of neuronal differentiation of neural progenitor cells (By similarity). Promotes neuronal differentiation of neural stem/progenitor cells in the adult subventricular zone of the hippocampus by binding to and stabilizing SATB1 mRNA (By similarity). Binds and stabilizes MSI1 mRNA in neural stem cells (By similarity). Exhibits increased binding to ACHE mRNA during neuronal differentiation, thereby stabilizing ACHE mRNA and enhancing its expression (PubMed:12468554, PubMed:17234598). Protects CDKN1A mRNA from decay by binding to its 3'-UTR (By similarity). May bind to APP and BACE1 mRNAS and the BACE1AS lncRNA and enhance their stabilization (PubMed:24857657). Plays a role in neurite outgrowth and in the establishment and maturation of dendritic arbors, thereby contributing to neocortical and hippocampal circuitry function (By similarity). Stabilizes GAP43 mRNA and protects it from decay during postembryonic development in the brain (PubMed:12034726). By promoting the stabilization of GAP43 mRNA, plays a role in NGF-mediated neurite outgrowth (By similarity). Binds to BDNF long 3'UTR mRNA, thereby leading to its stabilization and increased dendritic translation after activation of PKC (By similarity). By increasing translation of BDNF after nerve injury, may contribute to nerve regeneration (By similarity). Acts as a stabilizing factor by binding to the 3'UTR of NOVA1 mRNA, thereby increasing its translation and enhancing its functional activity in neuron-specific splicing (PubMed:18218628). Stimulates translation of mRNA in a poly(A)- and cap-dependent manner, possibly by associating with the EIF4F cap-binding complex (By similarity). May also negatively regulate translation by binding to the 5'UTR of Ins2 mRNA, thereby repressing its translation (By similarity). Upon glucose stimulation, Ins2 mRNA is released from ELAVL4 and translational inhibition is abolished (By similarity). Also plays a role in the regulation of alternative splicing (PubMed:17035636). May regulate alternative splicing of CALCA pre-mRNA into Calcitonin and Calcitonin gene-related peptide 1 (CGRP) by competing with splicing regulator TIAR for binding to U-rich intronic sequences of CALCA pre-mRNA (PubMed:17035636).
+Subcellular Location	Cytoplasm; Perikaryon; Cell projection; Dendrite; Cell projection; Axon; Cell projection; Growth cone
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQIISTMEPQVSNGPTSNTSNGPSSNNRNCPSPMQTGATTDDSKTNLIVNYLPQNMTQEEFRSLFGSIGEIESCKLVRDKITGQSLGYGFVNYIDPKDAEKAINTLNGLRLQTKTIKVSYARPSSASIRDANLYVSGLPKTMTQKELEQLFSQYGRIITSRILVDQVTGVSRGVGFIRFDKRIEAEEAIKGLNGQKPSGATEPITVKFANNPSQKSSQALLSQLYQSPNRRYPGPLHHQAQRFRLDNLLNMAYGVKRFSPITIDGMTSLVGMNIPGHTGTGWCIFVYNLSPDSDESVLWQLFGPFGAVNNVKVIRDFNTNKCKGFGFVTMTNYDEAAMAIASLNGYRLGDRVLQVSFKTNKAHKS
+PTM	Acetylation:341;Methylation:103,146,196;Phosphorylation:38,57,119,121,126,130,131,166,228,231,233,259,376,379;Ubiquitylation:86,146,151,221,262,341

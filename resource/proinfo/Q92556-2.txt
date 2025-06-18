@@ -1,0 +1,25 @@
+UniprotID	Q92556-2
+Accession	Q92556;A4D1X6;Q29R79;Q6ZTJ0;Q96PB0;Q9H0I1
+EntryName	ELMO1_HUMAN
+ProteinName	Engulfment and cell motility protein 1 (Protein ced-12 homolog)
+GeneName	ELMO1 KIAA0281
+Length	247
+Function	Involved in cytoskeletal rearrangements required for phagocytosis of apoptotic cells and cell motility. Acts in association with DOCK1 and CRK. Was initially proposed to be required in complex with DOCK1 to activate Rac Rho small GTPases. May enhance the guanine nucleotide exchange factor (GEF) activity of DOCK1.
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQVVKEQVMRALTTKPSSLDQFKSKLQNLSYTEILKIRQSERMNQEDFQSRPILELKEKIQPEILELIKQQRLNRLVEGTCFRKLNARRRQDKFWYCRLSPNHKVLHYGDLEESPQGEVPHDSLQDKLPVADIKAVVTGKDCPHMKEKGALKQNKEVLELAFSILYDSNCQLNFIAPDKHEYCIWTDGLNALLGKDMMSDLTRNDLDTLLSMEIKLRLLDLENIQIPDAPPPIPKEPSNYDFVYDCN
+PTM	Acetylation:100,105,408,503,505,539,573;Methylation:9,35,64,70,105,269,429,465,516,537,549,607,675;Phosphorylation:31,109,336,341,342,344,510,511,512,594,724;Ubiquitylation:105,539,549

@@ -1,0 +1,25 @@
+UniprotID	Q8NDZ4-2
+Accession	Q8NDZ4;B2RCF2;B7Z1W3
+EntryName	DIK2A_HUMAN
+ProteinName	Divergent protein kinase domain 2A (Deleted in autism protein 1) (Golgi Protein of 49 kDa) (GoPro49) (Hypoxia and AKT-induced stem cell factor) (HASF)
+GeneName	DIPK2A C3orf58 DIA1
+Length	221
+Function	May play a role in cardiomyocyte proliferation through paracrine signaling and activation of the PPI3K-AKT-CDK7 signaling cascade.
+Subcellular Location	Cytoplasmic vesicle; COPI-coated vesicle; Golgi apparatus; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSENGTVVGSFPSDEGWPFAKYLGACGRMVAVNYVGEELWSYFNAPWEKRVDLAWQLMEIAEQLTNNDFEFALYLLDVSFDNFAVGPRDGKVIIVDAENVLVADKRLIRQNKPENWDVWYESKFDDCDKEACLSFSKEILCARATVDHNYYAVCQNLLSRHATWRGTSGGLLHDPPSEIAKDGRLEALLDECANPKKRYGRFQAAKELREYLAQLSNNVR
+PTM	Methylation:89,110,315,391;Phosphorylation:189,191,344;Ubiquitylation:8,127,187

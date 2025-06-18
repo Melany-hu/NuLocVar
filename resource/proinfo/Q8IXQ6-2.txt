@@ -1,0 +1,25 @@
+UniprotID	Q8IXQ6-2
+Accession	Q8IXQ6;A8KA94;B2R8S9;E9PFM7;Q8TCP3;Q9BZL8;Q9BZL9
+EntryName	PARP9_HUMAN
+ProteinName	Protein mono-ADP-ribosyltransferase PARP9 (EC 2.4.2.-) (ADP-ribosyltransferase diphtheria toxin-like 9) (ARTD9) (B aggressive lymphoma protein) (Poly [ADP-ribose] polymerase 9) (PARP-9)
+GeneName	PARP9 BAL BAL1
+Length	819
+Function	ADP-ribosyltransferase which, in association with E3 ligase DTX3L, plays a role in DNA damage repair and in immune responses including interferon-mediated antiviral defenses (PubMed:16809771, PubMed:23230272, PubMed:26479788, PubMed:27796300). Within the complex, enhances DTX3L E3 ligase activity which is further enhanced by PARP9 binding to poly(ADP-ribose) (PubMed:28525742). In association with DTX3L and in presence of E1 and E2 enzymes, mediates NAD(+)-dependent mono-ADP-ribosylation of ubiquitin which prevents ubiquitin conjugation to substrates such as histones (PubMed:28525742). During DNA repair, PARP1 recruits PARP9/BAL1-DTX3L complex to DNA damage sites via PARP9 binding to ribosylated PARP1 (PubMed:23230272). Subsequent PARP1-dependent PARP9/BAL1-DTX3L-mediated ubiquitination promotes the rapid and specific recruitment of 53BP1/TP53BP1, UIMC1/RAP80, and BRCA1 to DNA damage sites (PubMed:23230272, PubMed:28525742). In response to DNA damage, PARP9-DTX3L complex is required for efficient non-homologous end joining (NHEJ); the complex function is negatively modulated by PARP9 activity (PubMed:28525742). Dispensable for B-cell receptor (BCR) assembly through V(D)J recombination and class switch recombination (CSR) (By similarity). In macrophages, positively regulates pro-inflammatory cytokines production in response to IFNG stimulation by suppressing PARP14-mediated STAT1 ADP-ribosylation and thus promoting STAT1 phosphorylation (PubMed:27796300). Also suppresses PARP14-mediated STAT6 ADP-ribosylation (PubMed:27796300).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFSMVAGAAAYNEKSETGALGENYSWQIPINHNDFKILKNNERQLCEVLQNKFGCISTLVSPVQEGNSKSLQVFRKMLTPRIELSVWKDDLTTHAVDAVVNAANEDLLHGGGLALALVKAGGFEIQEESKQFVARYGKVSAGEIAVTGAGRLPCKQIIHAVGPRWMEWDKQGCTGKLQRAIVSILNYVIYKNTHIKTVAIPALSSGIFQFPLNLCTKTIVETIRVSLQGKPMMSNLKEIHLVSNEDPTVAAFKAASEFILGKSELGQETTPSFNAMVVNNLTLQIVQGHIEWQTADVIVNSVNPHDITVGPVAKSILQQAGVEMKSEFLATKAKQFQRSQLVLVTKGFNLFCKYIYHVLWHSEFPKPQILKHAMKECLEKCIEQNITSISFPALGTGNMEIKKETAAEILFDEVLTFAKDHVKHQLTVKFVIFPTDLEIYKAFSSEMAKRSKMLSLNNYSVPQSTREEKRENGLEARSPAINLMGFNVEEMYEAHAWIQRILSLQNHHIIENNHILYLGRKEHDILSQLQKTSSVSITEIISPGRTELEIEGARADLIEVVMNIEDMLCKVQEEMARKKERGLWRSLGQWTIQQQKTQDEMKENIIFLKCPVPPTQELLDQKKQFEKCGLQVLKVEKIDNEVLMAAFQRKKKMMEEKLHRQPVSHRLFQQVPYQFCNVVCRVGFQRMYSTPCDPKYGAGIYFTKNLKNLAEKAKKISAADKLIYVFEAEVLTGFFCQGHPLNIVPPPLSPGAIDGHDSVVDNVSSPETFVIFSGMQAIPQYLWTCTQEYVQSQDYSSGPMRPFAQHPWRGFASGSPVD
+PTM	Methylation:28,88,155,289,298,407,485,567,632,670;Phosphorylation:4,12,16,20,21,23,115,491,500,563,651,732,851;SUMOylation:361,638;Ubiquitylation:105,166,174,191,206,368,477,488,632,638,658,740,743

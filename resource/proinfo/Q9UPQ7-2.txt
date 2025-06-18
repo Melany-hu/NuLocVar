@@ -1,0 +1,25 @@
+UniprotID	Q9UPQ7-2
+Accession	Q9UPQ7;A7MCZ6;Q8N2N7;Q96CC2;Q9NSQ2
+EntryName	PZRN3_HUMAN
+ProteinName	E3 ubiquitin-protein ligase PDZRN3 (EC 2.3.2.27) (Ligand of Numb protein X 3) (PDZ domain-containing RING finger protein 3) (RING-type E3 ubiquitin transferase PDZRN3) (Semaphorin cytoplasmic domain-associated protein 3) (Protein SEMACAP3)
+GeneName	PDZRN3 KIAA1095 LNX3 SEMCAP3
+Length	360
+Function	E3 ubiquitin-protein ligase. Plays an important role in regulating the surface level of MUSK on myotubes. Mediates the ubiquitination of MUSK, promoting its endocytosis and lysosomal degradation. Might contribute to terminal myogenic differentiation.
+Subcellular Location	Synapse; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFELDRFDGDVDPDLKCALCHKVLEDPLTTPCGHVFCAGCVLPWVVQEGSCPARCRGRLSAKELNHVLPLKRLILKLDIKCAYATRGCGRVVKLQQLPEHLERCDFAPARCRHAGCGQVLLRRDVEAHMRDACDARPVGRCQEGCGLPLTHGEQRAGGHCCARALRAHNGALQARLGALHKALKKEALRAGKREKSLVAQLAAAQLELQMTALRYQKKFTEYSARLDSLSRCVAAPPGGKGEETKSLTLVLHRDSGSLGFNIIGGRPSVDNHDGSSSEGIFVSKIVDSGPAAKEGGLQIHDRIIEMRKLELRTVKLPKAHSQDSNAGFIPQLLSLHTPPLSCEKGGGHLACGGAYLNCI
+PTM	Glycosylation:1065;Methylation:72,77,81,653,712,838,975,984,986;Phosphorylation:51,229,247,249,427,583,584,676,701,750,770,774,778,819,848,866,911,927,930,932,934,959,974,1039,1045

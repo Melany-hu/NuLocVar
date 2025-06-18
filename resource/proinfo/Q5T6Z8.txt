@@ -1,0 +1,25 @@
+UniprotID	Q5T6Z8
+Accession	Q5T6Z8;A0A9K3Y7R5;D3DQ49
+EntryName	Q5T6Z8_HUMAN
+ProteinName	Transmembrane protein 59
+GeneName	TMEM59 hCG_33694
+Length	192
+Function	Acts as a regulator of autophagy in response to S.aureus infection by promoting activation of LC3 (MAP1LC3A, MAP1LC3B or MAP1LC3C). Acts by interacting with ATG16L1, leading to promote a functional complex between LC3 and ATG16L1 and promoting LC3 lipidation and subsequent activation of autophagy. Modulates the O-glycosylation and complex N-glycosylation steps occurring during the Golgi maturation of several proteins such as APP, BACE1, SEAP or PRNP. Inhibits APP transport to the cell surface and further shedding.
+Subcellular Location	Cell membrane; Golgi apparatus membrane; Late endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLMPKMHLLFPLTLVRSFWSDMMDSAQSFITSSWTFYLQADDGKIVIFQSKPEIQYAPHLEQEPTNLRESSLSKMSYLQMRNSQAHRNFLEDGESDGFLRCLSLNSGWILTTTLVLSVMVLLWICCATVATAVEQYVPSEKLSIYGDLEFMNEQKLNRYPASSLVVVRSKTEDHEEAGPLPTKVNLAHSEI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99966-2
+Accession	Q99966;B5BU50;B5BUI2
+EntryName	CITE1_HUMAN
+ProteinName	Cbp/p300-interacting transactivator 1 (Melanocyte-specific protein 1)
+GeneName	CITED1 MSG1
+Length	219
+Function	Transcriptional coactivator of the p300/CBP-mediated transcription complex. Enhances SMAD-mediated transcription by strengthening the functional link between the DNA-binding SMAD transcription factors and the p300/CBP transcription coactivator complex. Stimulates estrogen-dependent transactivation activity mediated by estrogen receptors signaling; stabilizes the interaction of estrogen receptor ESR1 and histone acetyltransferase EP300. Positively regulates TGF-beta signaling through its association with the SMAD/p300/CBP-mediated transcriptional coactivator complex. Induces transcription from estrogen-responsive promoters and protection against cell death. Potentiates EGR2-mediated transcriptional activation activity from the ERBB2 promoter. Acts as an inhibitor of osteoblastic mineralization through a cAMP-dependent parathyroid hormone receptor signaling. May play a role in pigmentation of melanocytes. Associates with chromatin to the estrogen-responsive TGF-alpha promoter region in a estrogen-dependent manner.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	158..167
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	184...193
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPSAQQLQLAASLPANLSNFCQGSEMPTTSRPALDVKGGTSPAKEDANQEMSSVAYSNLAVKDRKAVAILHYPGVASNGTKASGAPTSSSGSPIGSPTTTPPTKPPSFNLHPAPHLLASMHLQKLNSQYQGMAAATPGQPGEAGPLQNWDFGAQAGGAESLSPSAGAQSPAIIDSDPVDEEVLMSLVVELGLDRANELPELWLGQNEFDFTADFPSSC
+PTM	Acetylation:37;Methylation:12;Phosphorylation:16

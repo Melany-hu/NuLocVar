@@ -1,0 +1,25 @@
+UniprotID	Q9UBP0-3
+Accession	Q9UBP0;A7E2A7;Q9UPR9
+EntryName	SPAST_HUMAN
+ProteinName	Spastin (EC 5.6.1.1) (Spastic paraplegia 4 protein)
+GeneName	SPAST ADPSP FSP2 KIAA1083 SPG4
+Length	530
+Function	ATP-dependent microtubule severing protein that specifically recognizes and cuts microtubules that are polyglutamylated (PubMed:11809724, PubMed:15716377, PubMed:16219033, PubMed:17389232, PubMed:20530212, PubMed:22637577, PubMed:26875866). Preferentially recognizes and acts on microtubules decorated with short polyglutamate tails: severing activity increases as the number of glutamates per tubulin rises from one to eight, but decreases beyond this glutamylation threshold (PubMed:26875866). Severing activity is not dependent on tubulin acetylation or detyrosination (PubMed:26875866). Microtubule severing promotes reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. It is critical for the biogenesis and maintenance of complex microtubule arrays in axons, spindles and cilia. SPAST is involved in abscission step of cytokinesis and nuclear envelope reassembly during anaphase in cooperation with the ESCRT-III complex (PubMed:19000169, PubMed:21310966, PubMed:26040712). Recruited at the midbody, probably by IST1, and participates in membrane fission during abscission together with the ESCRT-III complex (PubMed:21310966). Recruited to the nuclear membrane by IST1 and mediates microtubule severing, promoting nuclear envelope sealing and mitotic spindle disassembly during late anaphase (PubMed:26040712). Required for membrane traffic from the endoplasmic reticulum (ER) to the Golgi and endosome recycling (PubMed:23897888). Recruited by IST1 to endosomes and regulates early endosomal tubulation and recycling by mediating microtubule severing (PubMed:23897888). Probably plays a role in axon growth and the formation of axonal branches (PubMed:15716377).
+Subcellular Location	Membrane; Endoplasmic reticulum; Midbody; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Cytoplasm; Perinuclear region; Nucleus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cell projection; Axon; Endoplasmic reticulum membrane; Nucleus membrane; Lipid droplet; Cytoplasm; Cytoskeleton; Endosome; Cytoplasm; Endosome; Nucleus membrane; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	309..312;4..11
+UniprotNESRegion	59..67
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAKRSSGAAPAPASASAPAPVPGGEAERVRVFHKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKGIAVIVTGQGEQCERARRLQAKMMTNLVMAKDRLQLLEKMQPVLPFSKSQTDVYNDSTNLACRNGHLQSESGAVPKRKDPLTHTSNSLPRSKTVMKTGSAGLSGHHRAPSYSGLSMVSGVKQGSGPAPTTHKGTPKTNRTNKPSTPTTATRKKKDLKNFRNVDSNLANLIMNEIVDNGTAVKFDDIAGQDLAKQALQEIVILPSLRPELFTGLRAPARGLLLFGPPGNGKTMLAKAVAAESNATFFNISAASLTSKYVGEGEKLVRALFAVARELQPSIIFIDEVDSLLCERREGEHDASRRLKTEFLIEFDGVQSAGDDRVLVMGATNRPQELDEAVLRRFIKRVYVSLPNEETRLLLLKNLLCKQGSPLTQKELAQLARMTDGYSGSDLTALAKDAALGPIRELKPEQVKNMSASEMRNIRLSDFTESLKKIKRSVSPQTLEAYIRWNKDFGDTTV
+PTM	Acetylation:519;Glycosylation:222;Methylation:158,189,197,235,236,351,388,499,519,532;Phosphorylation:3,92,93,128,207,212,240,242,243,245,255,268,269,270,273,282,287,288,292,298,302,303,305,306,362,410,597;SUMOylation:254,279;Ubiquitylation:197,206,519,532,554

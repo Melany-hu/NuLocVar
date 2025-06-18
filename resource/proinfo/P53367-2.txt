@@ -1,0 +1,25 @@
+UniprotID	P53367-2
+Accession	P53367;B4DS69;Q2M2X4;Q3SYL4;Q9Y2X6
+EntryName	ARFP1_HUMAN
+ProteinName	Arfaptin-1 (ADP-ribosylation factor-interacting protein 1)
+GeneName	ARFIP1
+Length	341
+Function	Plays a role in controlling biogenesis of secretory granules at the trans-Golgi network (PubMed:22981988). Mechanistically, binds ARF-GTP at the neck of a growing secretory granule precursor and forms a protective scaffold (PubMed:22981988, PubMed:9038142). Once the granule precursor has been completely loaded, active PRKD1 phosphorylates ARFIP1 and releases it from ARFs (PubMed:22981988). In turn, ARFs induce fission (PubMed:22981988). Through this mechanism, ensures proper secretory granule formation at the Golgi of pancreatic beta cells (PubMed:22981988).
+Subcellular Location	Golgi apparatus; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQESPKNSAAEIPVTSNGEVDDSREHSFNRDLKHSLPSGLGLSETQITSHGFDNTKEGVIEAGAFQGGQRTQTKSGPVILADEIKNPAMEKLELVRKWSLNTYKCTRQIISEKLGRGSRTVDLELEAQIDILRDNKKKYENILKLAQTLSTQLFQMVHTQRQLGDAFADLSLKSLELHEEFGYNADTQKLLAKNGETLLGAINFFIASVNTLVNKTIEDTLMTVKQYESARIEYDAYRTDLEELNLGPRDANTLPKIEQSQHLFQAHKEKYDKMRNDVSVKLKFLEENKVKVLHNQLVLFHNAIAAYFAGNQKQLEQTLKQFHIKLKTPGVDAPSWLEEQ
+PTM	Acetylation:146,316;Methylation:118,177,226,258,289,353;Phosphorylation:5,9,16,24,28,36,39,44,46,50,69,76,79,81,93,108,132,135,136,144,151,249,272,361,368;SUMOylation:34,289;Ubiquitylation:34,107,118,124,146,316

@@ -1,0 +1,25 @@
+UniprotID	Q14CW9-2
+Accession	Q14CW9;Q8IY68;Q96N40;Q9NPU5
+EntryName	AT7L3_HUMAN
+ProteinName	Ataxin-7-like protein 3 (SAGA-associated factor 11 homolog)
+GeneName	ATXN7L3
+Length	354
+Function	Component of the transcription regulatory histone acetylation (HAT) complex SAGA, a multiprotein complex that activates transcription by remodeling chromatin and mediating histone acetylation and deubiquitination. Within the SAGA complex, participates in a subcomplex that specifically deubiquitinates both histones H2A and H2B (PubMed:18206972, PubMed:21746879). The SAGA complex is recruited to specific gene promoters by activators such as MYC, where it is required for transcription. Required for nuclear receptor-mediated transactivation. Within the complex, it is required to recruit USP22 and ENY2 into the SAGA complex (PubMed:18206972). Regulates H2B monoubiquitination (H2Bub1) levels. Affects subcellular distribution of ENY2, USP22 and ATXN7L3B (PubMed:27601583).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	152...157
+validnes_region	
+nesbase_region	
+Sequence	MKMEEMSLSGLDNSKLEAIAQEIYADLVEDSCLGFCFEVHRAVKCGYFFLDDTDPDSMKDFEIVDQPGLDIFGQVFNQWKSKECVCPNCSRSIAASRFAPHLEKCLGMGRNSSRIANRRIANSNNMNKSESDQEDNDDINDNDWSYGSEKKAKKRKSDKLWYLPFQNPNSPRRSKSLKHKNGELSNSDPFKYNNSTGISYETLGPEELRSLLTTQCGVISEHTKKMCTRSLRCPQHTDEQRRTVRIYFLGPSAVLPEVESSLDNDSFDMTDSQALISRLQWDGSSDLSPSDSGSSKTSENQGWGLGTNSSESRKTKKKKSHLSLVGTASGLGSNKKKKPKPPAPPTPSIYDDIN
+PTM	Methylation:128;Phosphorylation:112,123,129,131,180,213,277,278,281,283,285,288,320,326,339,341,343;SUMOylation:2

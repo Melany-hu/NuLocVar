@@ -1,0 +1,25 @@
+UniprotID	Q86VI4-2
+Accession	Q86VI4;Q3ZCV5;Q7L909;Q86VH8;Q9H060
+EntryName	LAP4B_HUMAN
+ProteinName	Lysosomal-associated transmembrane protein 4B (Lysosome-associated transmembrane protein 4-beta)
+GeneName	LAPTM4B PSEC0001
+Length	226
+Function	Required for optimal lysosomal function (PubMed:21224396). Blocks EGF-stimulated EGFR intraluminal sorting and degradation. Conversely by binding with the phosphatidylinositol 4,5-bisphosphate, regulates its PIP5K1C interaction, inhibits HGS ubiquitination and relieves LAPTM4B inhibition of EGFR degradation (PubMed:25588945). Recruits SLC3A2 and SLC7A5 (the Leu transporter) to the lysosome, promoting entry of leucine and other essential amino acid (EAA) into the lysosome, stimulating activation of proton-transporting vacuolar (V)-ATPase protein pump (V-ATPase) and hence mTORC1 activation (PubMed:25998567). Plays a role as negative regulator of TGFB1 production in regulatory T cells (PubMed:26126825). Binds ceramide and facilitates its exit from late endosome in order to control cell death pathways (PubMed:26280656).
+Subcellular Location	Endomembrane system; Late endosome membrane; Cell membrane; Cell projection; Lysosome membrane; Endosome membrane; Endosome; Multivesicular body membrane; Endosome; Multivesicular body lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKMVAPWTRFYSNSCCLCCHVRTGTILLGVWYLIINAVVLLILLSALADPDQYNFSSSELGGDFEFMDDANMCIAIAISLLMILICAMATYGAYKQRAAWIIPFFCYQIFDFALNMLVAITVLIYPNSIQEYIRQLPPNFPYRDDVMSVNPTCLVLIILLFISIILTFKGYLISCVWNCYRYINGRNSSDVLVYVTSNDTTVLLPPYDDATVNGAAKEPPPPYVSA
+PTM	Phosphorylation:314;Ubiquitylation:93

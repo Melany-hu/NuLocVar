@@ -1,0 +1,25 @@
+UniprotID	Q9ULV5-2
+Accession	Q9ULV5;Q99472;Q9ULV6
+EntryName	HSF4_HUMAN
+ProteinName	Heat shock factor protein 4 (HSF 4) (hHSF4) (Heat shock transcription factor 4) (HSTF 4)
+GeneName	HSF4
+Length	462
+Function	Heat-shock transcription factor that specifically binds heat shock promoter elements (HSE) (PubMed:22587838, PubMed:23507146). Required for denucleation and organelle rupture and degradation that occur during eye lens terminal differentiation, when fiber cells that compose the lens degrade all membrane-bound organelles in order to provide lens with transparency to allow the passage of light (By similarity). In this process, may regulate denucleation of lens fiber cells in part by activating DNASE2B transcription (By similarity). May be involved in DNA repair through the transcriptional regulation of RAD51 (PubMed:22587838). May up-regulate p53/TP53 protein in eye lens fiber cells, possibly through protein stabilization (PubMed:28981088). In the eye lens, controls the expression of alpha-crystallin B chain/CRYAB and consequently may be involved in the regulation of lysosomal acidification (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	118...122
+validnes_region	
+nesbase_region	
+Sequence	MQEAPAALPTEPGPSPVPAFLGKLWALVGDPGTDHLIRWSPSGTSFLVSDQSRFAKEVLPQYFKHSNMASFVRQLNMYGFRKVVSIEQGGLLRPERDHVEFQHPSFVRGREQLLERVRRKVPALRGDDGRWRPEDLGRLLGEVQALRGVQESTEARLRELRQQNEILWREVVTLRQSHGQQHRVIGKLIQCLFGPLQAGPSNAGGKRKLSLMLDEGSSCPTPAKFNTCPLPGALLQDPYFIQSPSTYSLSQRQIWALALTGPGAPSSLTSQKTLHPLRGPGFLPPVMAGAPPPLPVAVVQAILEGKGSFSPEGPRNAQQPEPGDPREIPDRGPLGLESGDRSPESLLPPMLLQPPQESVEPAGPLDVLGPSLQGREWTLMDLDMELSLMQPLVPERGEPELAVKGLNSPSPGKDPTLGAPLLLDVQAALGGPALGLPGALTIYSTPESRTASYLGPEASPSP
+PTM	Methylation:187,293;Phosphorylation:45,49,52,78

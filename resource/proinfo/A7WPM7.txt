@@ -1,0 +1,25 @@
+UniprotID	A7WPM7
+Accession	A7WPM7
+EntryName	A7WPM7_HUMAN
+ProteinName	POU domain class 5 transcription factor 1
+GeneName	POU5F1
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYCGPQVGVGLVPQGGLETSQPEGEAGVGVESNSDGASPEPCTVTPVPEXXKK
+PTM	

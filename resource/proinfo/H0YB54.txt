@@ -1,0 +1,25 @@
+UniprotID	H0YB54
+Accession	H0YB54
+EntryName	H0YB54_HUMAN
+ProteinName	Catenin alpha 1
+GeneName	CTNNA1
+Length	22
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVRMSASQLEALCPQRITFWKM
+PTM	

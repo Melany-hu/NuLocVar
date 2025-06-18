@@ -1,0 +1,25 @@
+UniprotID	A0A087WY42
+Accession	A0A087WY42
+EntryName	A0A087WY42_HUMAN
+ProteinName	Zinc finger HIT-type containing 3
+GeneName	ZNHIT3
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVNLDQGEDKAKLMRAYMQEPLFVEFADCCLGIVEPSQNEES
+PTM	

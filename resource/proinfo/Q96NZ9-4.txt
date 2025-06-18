@@ -1,0 +1,25 @@
+UniprotID	Q96NZ9-4
+Accession	Q96NZ9;B7ZL57;B7ZL58;E9KL31;Q5VWY4;Q7Z4X5;Q8IWR3;Q8NCS2
+EntryName	PRAP1_HUMAN
+ProteinName	Proline-rich acidic protein 1 (Epididymis tissue protein Li 178) (Uterine-specific proline-rich acidic protein)
+GeneName	PRAP1 UPA UNQ608/PRO1195
+Length	142
+Function	Lipid-binding protein which promotes lipid absorption by facilitating MTTP-mediated lipid transfer (mainly triglycerides and phospholipids) and MTTP-mediated apoB lipoprotein assembly and secretion (By similarity). Protects the gastrointestinal epithelium from irradiation-induced apoptosis (By similarity). May play an important role in maintaining normal growth homeostasis in epithelial cells (PubMed:14583459). Involved in p53/TP53-dependent cell survival after DNA damage (PubMed:23235459). May down-regulate the expression of MAD1L1 and exert a suppressive role in mitotic spindle assembly checkpoint in hepatocellular carcinomas (PubMed:24374861).
+Subcellular Location	Secreted; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRLLLVTSLVVVLLWEAGAVPAPKVPIKMQVKHWPSEQDPEKAWGARVVEPPEKDDQLVVLFPVQKPKLLTTEEKPRGTKAWMETEDTLGHVLSPEPDHDSLYHPPPEEDQGEERPRLWVMPNHQVLLGPEEDQDHIYHPQ
+PTM	Glycosylation:73;Methylation:29

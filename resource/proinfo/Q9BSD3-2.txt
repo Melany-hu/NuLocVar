@@ -1,0 +1,25 @@
+UniprotID	Q9BSD3-2
+Accession	Q9BSD3;B7Z989
+EntryName	RHNO1_HUMAN
+ProteinName	RAD9, HUS1, RAD1-interacting nuclear orphan protein 1 (RAD9, RAD1, HUS1-interacting nuclear orphan protein)
+GeneName	RHNO1 C12orf32 RHINO HKMT1188
+Length	224
+Function	Involved in microhomology-mediated end-joining (MMEJ) DNA repair by promoting recruitment of polymerase theta (POLQ) to DNA damage sites during mitosis (PubMed:37440612). MMEJ is an alternative non-homologous end-joining (NHEJ) machinery that takes place during mitosis to repair double-strand breaks in DNA that originate in S-phase (PubMed:37440612). Accumulates in M-phase; following phosphorylation by PLK1, interacts with POLQ, enabling its recruitment to double-strand breaks for subsequent repair (PubMed:37440612). Also involved in the DNA damage response (DDR) signaling in response to genotoxic stresses such as ionizing radiation (IR) during the S phase (PubMed:21659603, PubMed:25602520). Recruited to sites of DNA damage through interaction with the 9-1-1 cell-cycle checkpoint response complex and TOPBP1 in a ATR-dependent manner (PubMed:21659603, PubMed:25602520). Required for the progression of the G1 to S phase transition (PubMed:21659603). Plays a role in the stimulation of CHEK1 phosphorylation (PubMed:21659603).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	4...9
+validnes_region	
+nesbase_region	
+Sequence	MPPRKKRRQPSQKAPLLFHQQPLEGPKHSCASTQLPITHTRQVSPDFDTAAGSLFPAYQKHQNRARHSSRKPTTSKFPHLTFESPQSSSSETLGIPLIRECPSESEKDVSRRPLVPVLSPQSCGNMSVQALQSLPYVFIPPDIQTPESSSVKEELIPQDQKENSLLSCTLHTGTPNSPEPGPVLVKDTPEDKYGIKVTWRRRQHLLAYLRERGKLSRSQFLVKS
+PTM	Methylation:200;Phosphorylation:222,232,238;SUMOylation:166

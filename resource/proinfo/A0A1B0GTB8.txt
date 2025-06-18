@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GTB8
+Accession	A0A1B0GTB8
+EntryName	A0A1B0GTB8_HUMAN
+ProteinName	Carnitine O-palmitoyltransferase 2, mitochondrial (EC 2.3.1.21) (Carnitine palmitoyltransferase II)
+GeneName	CPT2
+Length	635
+Function	Involved in the intramitochondrial synthesis of acylcarnitines from accumulated acyl-CoA metabolites. Reconverts acylcarnitines back into the respective acyl-CoA esters that can then undergo beta-oxidation, an essential step for the mitochondrial uptake of long-chain fatty acids and their subsequent beta-oxidation in the mitochondrion. Active with medium (C8-C12) and long-chain (C14-C18) acyl-CoA esters.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPRLLLRAWPRGPAVGPGAPSRPLSAGSGPGQYLQRSIVPTMHYQDSLPRLPIPKLEDTIRRYLSAQKPLLNDGQFRKTEQFCKSFENGIGKELHEQLVALDKQNKHTSYISGPWFDMYLSARDSVVLNFNPFMAFNPDPKSEYNDQLTRATNMTVSAIRFLKTLRAGLLEPEVFHLNPAKSDTITFKRLIRFVPSSLSWYGAYLVNAYPLDMSQYFRLFNSTRLPKPSRDELFTDDKARHLLVLRKGNFYIFDVLDQDGNIVSPSEIQAHLKYILSDSSPAPEFPLAYLTSENRDIWAELRQKLMSSGNEESLRKVDSAVFCLCLDDFPIKDLVHLSHNMLHGDGTNRWFDKSFNLIIAKDGSTAVHFEHSWGDGVAVLRFFNEVFKDSTQTPAVTPQSQPATTDSTVTVQKLNFELTDALKTGITAAKEKFDATMKTLTIDCVQFQRGGKEFLKKQKLSPDAVAQLAFQMAFLRQYGQTVATYESCSTAAFKHGRTETIRPASVYTKRCSEAFVREPSRHSAGQGFDRHLFALRHLAAAKGIILPELYLDPAYGQINHNVLSTSTLSSPAVNLGGFAPVVSDGFGVGYAVHDNWIGCNVSSYPGRNAREFLQCVEKALEDMFDALEGKSIKS
+PTM	

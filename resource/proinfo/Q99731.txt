@@ -1,0 +1,25 @@
+UniprotID	Q99731
+Accession	Q99731;O00697;O00736
+EntryName	CCL19_HUMAN
+ProteinName	C-C motif chemokine 19 (Beta-chemokine exodus-3) (CK beta-11) (Epstein-Barr virus-induced molecule 1 ligand chemokine) (EBI1 ligand chemokine) (ELC) (Macrophage inflammatory protein 3 beta) (MIP-3-beta) (Small-inducible cytokine A19)
+GeneName	CCL19 ELC MIP3B SCYA19
+Length	98
+Function	May play a role not only in inflammatory and immunological responses but also in normal lymphocyte recirculation and homing. May play an important role in trafficking of T-cells in thymus, and T-cell and B-cell migration to secondary lymphoid organs. Binds to chemokine receptor CCR7. Recombinant CCL19 shows potent chemotactic activity for T-cells and B-cells but not for granulocytes and monocytes. Binds to atypical chemokine receptor ACKR4 and mediates the recruitment of beta-arrestin (ARRB1/2) to ACKR4.
+Subcellular Location	Secreted
+Disorder	0.0059,0.0052,0.0044,0.0059,0.0074,0.0108,0.0119,0.0188,0.0253,0.0198,0.0248,0.0300,0.0372,0.0676,0.1162,0.1501,0.1852,0.2752,0.1942,0.1942,0.1914,0.2470,0.2609,0.3704,0.3704,0.3740,0.3774,0.3149,0.3149,0.3117,0.3053,0.2193,0.1611,0.1583,0.1583,0.0799,0.0985,0.0518,0.0287,0.0300,0.0287,0.0494,0.0543,0.0835,0.0433,0.0424,0.0281,0.0275,0.0405,0.0235,0.0168,0.0153,0.0258,0.0398,0.0235,0.0223,0.0433,0.0443,0.0835,0.0817,0.0734,0.1048,0.1206,0.1323,0.1373,0.2224,0.2503,0.2094,0.1349,0.1671,0.2292,0.2002,0.2193,0.2193,0.2164,0.2164,0.2193,0.2193,0.2224,0.2164,0.2680,0.3667,0.3631,0.3392,0.3117,0.3087,0.2988,0.2680,0.3529,0.4051,0.3740,0.3494,0.4441,0.5620,0.5382,0.5139,0.6851,0.6576
+ExposeBuried	1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.676,0.422,0.253,0.196,0.217,0.150,0.112,0.113,0.140,0.103,0.062,0.132,0.148,0.209,0.280,0.266,0.244,0.391,0.447,0.523,0.483,0.427,0.543,0.604,0.368,0.285,0.450,0.389,0.041,0.028,0.187,0.416,0.224,0.233,0.636,0.391,0.539,0.084,0.187,0.315,0.572,0.174,0.054,0.473,0.427,0.098,0.430,0.380,0.312,0.541,0.423,0.493,0.739,0.564,0.041,0.515,0.397,0.412,0.064,0.049,0.045,0.046,0.159,0.126,0.416,0.567,0.699,0.448,0.505,0.179,0.056,0.313,0.445,0.256,0.637,0.558,0.592,0.141,0.036,0.424,0.465,0.044,0.105,0.591,0.292,0.045,0.585,0.657,0.438,0.381,0.701,0.541,0.391,0.543,0.487,0.630,0.728,0.920
+SecondStructure	C,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,C,C,C,C,C,C,C,A,A,A,A,A,A,A,B,B,B,C,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,B,B,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,3.8,3.8,3.8,1.8,3.8,-0.8,3.8,3.8,4.2,3.8,-0.9,-0.7,-0.8,-1.6,1.8,-1.6,-0.7,3.8,-0.8,-0.4,-0.7,-3.5,-3.5,1.8,-3.5,-3.5,2.5,2.5,3.8,-0.8,4.2,-0.7,-3.5,-3.9,-1.6,4.5,-1.6,-0.4,-1.3,4.5,4.2,-4.5,-3.5,2.8,-3.2,-1.3,3.8,3.8,4.5,-3.9,-3.5,-0.4,2.5,-4.5,4.2,-1.6,1.8,4.2,4.2,2.8,-0.7,-0.7,3.8,-4.5,-0.4,-4.5,-3.5,3.8,2.5,1.8,-1.6,-1.6,-3.5,-3.5,-1.6,-0.9,4.2,-3.5,-4.5,4.5,4.5,-3.5,-4.5,3.8,-3.5,-4.5,-0.7,-0.8,1.8,-3.9,1.9,-3.9,-4.5,-4.5,-0.8,-0.8
+Polar	0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1
+Charge	0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,-1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLLALSLLVLWTSPAPTLSGTNDAEDCCLSVTQKPIPGYIVRNFHYLLIKDGCRVPAVVFTTLRGRQLCAPPDQPWVERIIQRLQRTSAKMKRRSS
+PTM	Methylation:36,52

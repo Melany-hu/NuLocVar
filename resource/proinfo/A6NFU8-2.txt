@@ -1,0 +1,25 @@
+UniprotID	A6NFU8-2
+Accession	A6NFU8;H0YF86
+EntryName	PGPIL_HUMAN
+ProteinName	Pyroglutamyl-peptidase 1-like protein (EC 3.4.19.-)
+GeneName	PGPEP1L
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTAAKAIILEQSGKNQGYRDADIRSFWPEGGVCLPGSPDVLESGVCMKAVCKRVAVEGVDVIFSRDAGRYVCDYTYYLSLHHGKGCAALIHVPPLSRGLPASLLGRALRVIIQEMLEEVGKPKHRAQFEENSTMVLPAKGN
+PTM	

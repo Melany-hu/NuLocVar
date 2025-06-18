@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SFR4
+Accession	A0A0D9SFR4
+EntryName	A0A0D9SFR4_HUMAN
+ProteinName	PDZ and LIM domain 5
+GeneName	PDLIM5
+Length	176
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVIKLKDGGKAAQANVRIGDVVLSIDGINAQGMTHLEAQNKIKGCTGSLNMTLQRASAAPKPEPVPVQKGEPKEVVKPVPITSPAVSKVTSTNNMAYNKAPRPFGSVSSPKVTSIPSPSSAFTPAHATTSSHASPSPVAAVTPPLFAASGLHANANLSADQSPSALSAGKTAVNVP
+PTM	

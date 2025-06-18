@@ -1,0 +1,25 @@
+UniprotID	P49802-2
+Accession	P49802;Q5T3H4;Q8TD66;Q8TD67;Q8WW09;Q9UNU7;Q9Y6B9
+EntryName	RGS7_HUMAN
+ProteinName	Regulator of G-protein signaling 7 (RGS7)
+GeneName	RGS7
+Length	469
+Function	GTPase activator component of the RGS7-GNB5 complex that regulates G protein-coupled receptor signaling cascades (PubMed:10521509, PubMed:10862767, PubMed:31189666). The RGS7-GNB5 complex acts as an inhibitor signal transduction by promoting the GTPase activity of G protein alpha subunits, such as GNAO1, thereby driving them into their inactive GDP-bound form (PubMed:10521509, PubMed:10862767). May play a role in synaptic vesicle exocytosis (Probable) (PubMed:12659861). Glycine-dependent regulation of the RGS7-GNB5 complex by GPR158 affects mood and cognition via its ability to regulate neuronal excitability in L2/L3 pyramidal neurons of the prefrontal cortex (By similarity). Modulates the activity of potassium channels that are activated by GNAO1 in response to muscarinic acetylcholine receptor M2/CHRM2 signaling (PubMed:15897264).
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasm; Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQGNNYGQTSNGVADESPNMLVYRKMEDVIARMQDEKNGIPIRTVKSFLSKIPSVFSGSDIVQWLIKNLTIEDPVEALHLGTLMAAHGYFFPISDHVLTLKDDGTFYRFQTPYFWPSNCWEPENTDYAVYLCKRTMQNKARLELADYEAESLARLQRAFARKWEFIFMQAEAQAKVDKKRDKIERKILDSQERAFWDVHRPVPGCVNTTEVDIKKSSRMRNPHKTRKSVYGLQNDIRSHSPTHTPTPETKPPTEDELQQQIKYWQIQLDRHRLKMSKVADSLLSYTEQYLEYDPFLLPPDPSNPWLSDDTTFWELEASKEPSQQRVKRWGFGMDEALKDPVGREQFLKFLESEFSSENLRFWLAVEDLKKRPIKEVPSRVQEIWQEFLAPGAPSAINLDSKSYDKTTQNVKEPGRYTFEDAQEHIYKLMKSDSYPRFIRSSAYQELLQAKKKGKSLTSKRLTSLAQSY
+PTM	Methylation:68,102,215,263,339,412;Phosphorylation:229,241,243,245,277,285,457;Ubiquitylation:349

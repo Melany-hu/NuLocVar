@@ -1,0 +1,25 @@
+UniprotID	O95218-2
+Accession	O95218;D3DQ75;Q53GS3;Q59F92;Q5VV33;Q5VV34;Q8IXN6;Q9UP63
+EntryName	ZRAB2_HUMAN
+ProteinName	Zinc finger Ran-binding domain-containing protein 2 (Zinc finger protein 265) (Zinc finger, splicing)
+GeneName	ZRANB2 ZIS ZNF265
+Length	320
+Function	Splice factor required for alternative splicing of TRA2B/SFRS10 transcripts. May interfere with constitutive 5'-splice site selection.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	128...133;284...289;301...306
+validnes_region	
+nesbase_region	
+Sequence	MSTKNFRVSDGDWICPDKKCGNVNFARRTSCNRCGREKTTEAKMMKAGGTEIGKTLAEKSRGLFSANDWQCKTCSNVNWARRSECNMCNTPKYAKLEERTGYGGGFNERENVEYIEREESDGEYDEFGRKKKKYRGKAVGPASILKEVEDKESEGEEEDEDEDLSKYKLDEDEDEDDADLSKYNLDASEEEDSNKKKSNRRSRSKSRSSHSRSSSRSSSPSSSRSRSRSRSRSSSSSQSRSRSSSRERSRSRGSKSRSSSRSHRGSSSPRKRSYSSSSSSPERNRKRSRSRSSSSGDRKKRRTRSRSPESQVIGENTKQP
+PTM	Acetylation:4,18,19,43,54,59,92,168,195,196;Methylation:61,137,146,151,166,182;Phosphorylation:9,50,60,65,73,83,90,114,120,124,143,153,165,167,181,183,188,193,222,223,239,245,249,275,276,277,278,279,280,303,305,307,314,315,318,319;SUMOylation:19,43,46,54,95,137,146,168;Ubiquitylation:19,54,59,72,92,137

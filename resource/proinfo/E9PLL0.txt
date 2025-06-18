@@ -1,0 +1,25 @@
+UniprotID	E9PLL0
+Accession	E9PLL0
+EntryName	E9PLL0_HUMAN
+ProteinName	Multivesicular body subunit 12A
+GeneName	MVB12A
+Length	121
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSKASVSKKKRMCVKLLPLGATDTAVFDVRLSGKTKTVPGYLRIGDMGGFAIWCKKAKAPRPVPKPRGLSRDMQGLSLDAASQPSKGGLLERTASRLGSRASTLRRNDSIYEASSLYGIS
+PTM	

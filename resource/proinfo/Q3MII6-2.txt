@@ -1,0 +1,25 @@
+UniprotID	Q3MII6-2
+Accession	Q3MII6;Q08AN9;Q3MII4;Q8TAR9
+EntryName	TBC25_HUMAN
+ProteinName	TBC1 domain family member 25
+GeneName	TBC1D25 OATL1
+Length	100
+Function	Acts as a GTPase-activating protein specific for RAB33B. Involved in the regulation of autophagosome maturation, the process in which autophagosomes fuse with endosomes and lysosomes.
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Autophagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATASGASDLSGSGAPPPGVGAQAAAAAEEEEREVVRVRVKKCESFLPPEFRSFAVDPQITSLDVLQHILIRAFDLSGPIARRLGHNQPQRCHWLRRVAG
+PTM	Methylation:79,142,154,193,235,269,415;Phosphorylation:130,140,156,157,159,160,375,506,670,678,688;Ubiquitylation:154,269

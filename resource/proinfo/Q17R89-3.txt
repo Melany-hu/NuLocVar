@@ -1,0 +1,25 @@
+UniprotID	Q17R89-3
+Accession	Q17R89;A6NCP5;A8MQB2;O75160;Q7Z5Z7;Q9Y4Q4
+EntryName	RHG44_HUMAN
+ProteinName	Rho GTPase-activating protein 44 (NPC-A-10) (Rho-type GTPase-activating protein RICH2) (RhoGAP interacting with CIP4 homologs protein 2) (RICH-2)
+GeneName	ARHGAP44 KIAA0672 RICH2
+Length	812
+Function	GTPase-activating protein (GAP) that stimulates the GTPase activity of Rho-type GTPases. Thereby, controls Rho-type GTPases cycling between their active GTP-bound and inactive GDP-bound states. Acts as a GAP at least for CDC42 and RAC1 (PubMed:11431473). In neurons, is involved in dendritic spine formation and synaptic plasticity in a specific RAC1-GAP activity (By similarity). Limits the initiation of exploratory dendritic filopodia. Recruited to actin-patches that seed filopodia, binds specifically to plasma membrane sections that are deformed inward by acto-myosin mediated contractile forces. Acts through GAP activity on RAC1 to reduce actin polymerization necessary for filopodia formation (By similarity). In association with SHANK3, promotes GRIA1 exocytosis from recycling endosomes and spine morphological changes associated to long-term potentiation (By similarity).
+Subcellular Location	Cell projection; Dendritic spine; Recycling endosome; Presynapse; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKKQFNRMRQLANQTVGRAEKTEVLSEDLLQVEKRLELVKQVSHSTHKKLTACLQGQQGAEADKRSKKLPLTTLAQCLMEGSAILGDDTLLGKMLKLCGETEDKLAQELIHFELQVERDVIEPLFLLAEVEIPNIQKQRKHLAKLVLDMDSSRTRWQQTSKSSGLSSSLQPAGAKADALREEMEEAANRVEICRDQLSADMYSFVAKEIDYANYFQTLIEVQAEYHRKSLTLLQAVLPQIKAQQEAWVEKPSFGKPLEEHLTISGREIAFPIEACVTMLLECGMQEEGLFRVAPSASKLKKLKAALDCCVVDVQEYSADPHAIAGALKSYLRELPEPLMTFELYDEWIQASNVQEQDKKLQALWNACEKLPKANHNNIRYLIKFLSKLSEYQDVNKMTPSNMAIVLGPNLLWPQAEGNITEMMTTVSLQIVGIIEPIIQHADWFFPGEIEFNITGNYGSPVHVNHNANYSSMPSPDMDPADRRQPEQARRPLSVATDNMMLEFYKKDGMGVRVMDTNWVARRGSSAGRKVSCAPPSMQPPAPPAELAAPLPSPLPEQPLDSPAAPALSPSGLGLQPGPERTSTTKSKELSPGSAQKGSPGSSQGTACAGTQPGAQPGAQPGASPSPSQPPADQSPHTLRKVSKKLAPIPPKVPFGQPGAMADQSAGQPSPVSLSPTPPSTPSPYGLSYPQGYSLASGQLSPAAAPPLASPSVFTSTLSKSRPTPKPRQRPTLPPPQPPTVNLSASSPQSTEAPMLDGMSPGESMSTDLVHFDIPSIHIELGSTLRLSPLEHMRRHSVTDKRDSEEESESTAL
+PTM	Methylation:34,40,64,93,175,383,646;Phosphorylation:15,101,493,496,596,640,793,804,809

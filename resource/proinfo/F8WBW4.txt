@@ -1,0 +1,25 @@
+UniprotID	F8WBW4
+Accession	F8WBW4
+EntryName	F8WBW4_HUMAN
+ProteinName	non-specific serine/threonine protein kinase (EC 2.7.11.1)
+GeneName	SRPK2
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFELATGDYLFEPHSGEDYSRDEDHIAHIIELLGSIPRHFALSGKYSREFFNRRDHIALIIELLGKVPRKYAMLGKYSKEFFTRKGELRHITKLKPWSLFDVLVEKYGWPHEDAAQFTDFLIPMLEMVPEKRASAGECLRHPWLNS
+PTM	

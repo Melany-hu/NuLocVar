@@ -1,0 +1,25 @@
+UniprotID	Q8IZL9-2
+Accession	Q8IZL9;A2A389;A2A390;B4DQX1;O95137;Q5EDC4;Q5VYW1;Q9BUF4
+EntryName	CDK20_HUMAN
+ProteinName	Cyclin-dependent kinase 20 (EC 2.7.11.22) (CDK-activating kinase p42) (CAK-kinase p42) (Cell cycle-related kinase) (Cell division protein kinase 20) (Cyclin-dependent protein kinase H) (Cyclin-kinase-activating kinase p42)
+GeneName	CDK20 CCRK CDCH
+Length	243
+Function	Required for high-level Shh responses in the developing neural tube. Together with TBC1D32, controls the structure of the primary cilium by coordinating assembly of the ciliary membrane and axoneme, allowing GLI2 to be properly activated in response to SHH signaling (By similarity). Involved in cell growth. Activates CDK2, a kinase involved in the control of the cell cycle, by phosphorylating residue 'Thr-160'.
+Subcellular Location	Nucleus; Cytoplasm; Cell projection; Cilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQYCILGRIGEGAHGIVFKAKHVETGEIVALKKVALRRLEDGFPNQALREIKALQEMEDNQYVVQLKAVFPHGGGFVLAFEFMLSDLAEVVRHAQRPLAQAQVKSYLQMLLKGVAFCHANNIVHRDLKPANLLISASGQLKIADFGLARVFSPDGSRLYTHQVATRSSLSCRTTTRSPLRSRCPCPWRRCCLTSLPRHWICWVNSFSTLLTSASQLPRLSSISTSSQLPCLPIHLSCRFLSV
+PTM	Methylation:33,68;Phosphorylation:160,161,241;SUMOylation:53,129;Ubiquitylation:34,239

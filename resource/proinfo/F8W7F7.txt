@@ -1,0 +1,25 @@
+UniprotID	F8W7F7
+Accession	F8W7F7
+EntryName	F8W7F7_HUMAN
+ProteinName	Transmembrane p24 trafficking protein 4
+GeneName	TMED4
+Length	178
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVGAGPLRAMGRQALLLLALCATGAQGLYFHIGETEKRCFIEEIPDETMVIGNYRTQMWDKQKEVFLPSTPGLGMHVEVKDPDGKVVLSRQYGSEGRFTFTSHTPGDHQICLHSNSTRMALFAGGKLYREERFRLTSESTNQRVLWWSIAQTVILILTGIWQMRHLKSFFEAKKLV
+PTM	

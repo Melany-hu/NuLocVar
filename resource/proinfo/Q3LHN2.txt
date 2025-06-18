@@ -1,0 +1,25 @@
+UniprotID	Q3LHN2
+Accession	Q3LHN2
+EntryName	KR192_HUMAN
+ProteinName	Keratin-associated protein 19-2
+GeneName	KRTAP19-2 KAP19.2
+Length	52
+Function	In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high-sulfur and high-glycine-tyrosine keratins.
+Subcellular Location	
+Disorder	0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0001,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0001,0.0002,0.0001,0.0000,0.0002,0.0002,0.0003,0.0001,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0001,0.0001,0.0001,0.0001,0.0000,0.0001,0.0001,0.0001,0.0000,0.0001,0.0007,0.0030,0.0021,0.0014
+ExposeBuried	1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1
+SurfaceAccessbility	0.665,0.199,0.319,0.253,0.291,0.212,0.066,0.117,0.059,0.127,0.231,0.092,0.029,0.232,0.089,0.127,0.178,0.153,0.054,0.220,0.268,0.515,0.293,0.046,0.324,0.267,0.172,0.081,0.313,0.363,0.390,0.234,0.088,0.300,0.527,0.236,0.061,0.076,0.057,0.288,0.460,0.082,0.215,0.358,0.374,0.187,0.404,0.172,0.429,0.401,0.292,0.663
+SecondStructure	C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,C
+Hydropathy	1.9,2.5,-1.3,-0.4,-1.3,-0.4,2.5,-0.4,2.5,-0.4,-0.8,2.8,2.5,-4.5,3.8,-0.4,-1.3,-0.4,2.5,-0.4,-1.3,-3.5,-0.4,2.5,-4.5,-1.3,-0.4,2.5,-0.4,-3.2,-4.5,-0.4,2.5,-0.4,-3.5,-0.4,2.5,2.5,2.5,-1.6,-0.8,2.5,-1.3,-4.5,-4.5,-1.3,-4.5,2.8,-0.7,-0.4,2.8,-1.3
+Polar	0,0,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1
+Charge	0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,1,0,0,0,0,1,1,0,0,0,-1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCYGYGCGCGSFCRLGYGCGYEGCRYGCGHRGCGDGCCCPSCYRRYRFTGFY
+PTM	

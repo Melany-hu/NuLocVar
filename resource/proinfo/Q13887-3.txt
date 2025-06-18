@@ -1,0 +1,25 @@
+UniprotID	Q13887-3
+Accession	Q13887;A2TJX0;L0R3U5;L0R4T9;Q9UHP8
+EntryName	KLF5_HUMAN
+ProteinName	Krueppel-like factor 5 (Basic transcription element-binding protein 2) (BTE-binding protein 2) (Colon krueppel-like factor) (GC-box-binding protein 2) (Intestinal-enriched krueppel-like factor) (Transcription factor BTEB2)
+GeneName	KLF5 BTEB2 CKLF IKLF
+Length	166
+Function	Transcription factor that binds to GC box promoter elements. Activates the transcription of these genes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATRVLSMSARLGPVPQPPAPQDEPVFAQLKPVLGAANPARDAALFPGEELKHAHHRPQAQPAPAQAPQPAQPPATGPRLPPEDLVQTRCEMEKYLTPQLPPVPMLLQLLLNWQFTIQIYPPPCQLTHKTSNLSDTIEGVTPIWRNDASTTAITLVAQKFIPSLLI
+PTM	Acetylation:31;Glycosylation:159;Methylation:52,209,369;Phosphorylation:116,323,363,396,398,417,421,428,441,443;SUMOylation:31,52,94,110,162,209,382,386,391,401,404,431;Ubiquitylation:31,110,152,369,453

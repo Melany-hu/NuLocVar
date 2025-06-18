@@ -1,0 +1,25 @@
+UniprotID	O14682-2
+Accession	O14682;B4DHJ1;E9PFU0;O75464;Q9UPG9
+EntryName	ENC1_HUMAN
+ProteinName	Ectoderm-neural cortex protein 1 (ENC-1) (Kelch-like protein 37) (Nuclear matrix protein NRP/B) (p53-induced gene 10 protein)
+GeneName	ENC1 KLHL37 NRPB PIG10
+Length	516
+Function	Actin-binding protein involved in the regulation of neuronal process formation and in differentiation of neural crest cells. Down-regulates transcription factor NF2L2/NRF2 by decreasing the rate of protein synthesis and not via a ubiquitin-mediated proteasomal degradation mechanism.
+Subcellular Location	Nucleus matrix; Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSGGLKESQDSEVNFDNSIHPEVLELLLDYAYSSRVIINEENAESLLEAGDMLEFQDIRDACAEFLEKNLHPTNCLGMLLLSDAHQCTKLYELSWRMCLSNFQTIRKNEDFLQLPQDMVVQLLSSEELETEDERLVYESAINWISYDLKKRYCYLPELLQTVRLALLPAIYLMENVAMEELITKQRKSKEIVEEAIRCKLKILQNDGVVTSLCARPRKTGHALFLLGGQTFMCDKLYLVDQKAKEIIPKADIPSPRKEFSACAIGCKVYITGGRGSENGVSKDVWVYDTLHEEWSKAAPMLVARFGHGSAELKHCLYVVGGHTAATGCLPASPSVSLKQVEHYDPTINKWTMVAPLREGVSNAAVVSAKLKLFAFGGTSVSHDKLPKVQCYDQCENRWTVPATCPQPWRYTAAAVLGNQIFIMGGDTEFSACSAYKFNSETYQWTKVGDVTAKRMSCHAVASGNKLYVVGGYFGIQRCKTLDCYDPTLDVWNSITTVPYSLIPTAFVSTWKHLPS
+PTM	Methylation:142,181,258;Phosphorylation:14,15,17,168,213,406,530,541;SUMOylation:263,275,292,316,318,341,356,370,423,445,458,461,520;Ubiquitylation:263,275,316,331,443,458,461,520

@@ -1,0 +1,25 @@
+UniprotID	Q53S20
+Accession	Q53S20
+EntryName	Q53S20_HUMAN
+ProteinName	Uncharacterized protein MGC4771
+GeneName	MGC4771
+Length	34
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPSPQRGFAELSTQSPGGEEARSAGRHSVSSTR
+PTM	

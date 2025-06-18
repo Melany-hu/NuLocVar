@@ -1,0 +1,25 @@
+UniprotID	O00463-2
+Accession	O00463;B4DIS9;B4E0A2;Q6FHY1
+EntryName	TRAF5_HUMAN
+ProteinName	TNF receptor-associated factor 5 (RING finger protein 84)
+GeneName	TRAF5 RNF84
+Length	568
+Function	Adapter protein and signal transducer that links members of the tumor necrosis factor receptor family to different signaling pathways by association with the receptor cytoplasmic domain and kinases. Mediates activation of NF-kappa-B and probably JNK. Seems to be involved in apoptosis. Plays a role in mediating activation of NF-kappa-B by EIF2AK2/PKR.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYSEEHKGMPCGFIRQNSGNSISLDFEPSIEYQFVERLEERYKCAFCHSVLHNPHQTGCGHRFCQHCILSLRELNTVPICPVDKEVIKSQEVFKDNCCKREVLNLYVYCSNAPGCNAKVILGRYQQVPLACCYLLQDHLQQCLFQPVQCSNEKCREPVLRKDLKEHLSASCQFRKEKCLYCKKDVVVINLQNHEENLCPEYPVFCPNNCAKIILKTEVDEHLAVCPEAEQDCPFKHYGCAVTDKRRNLQQHEHSALREHMRLVLEKNVQLEEQISDLHKSLEQKESKIQQLAETIKKLEKEFKQFAQLFGKNGSFLPNIQVFASHIDKSAWLEAQVHQLLQMVNQQQNKFDLRPLMEAVDTVKQKITLLENNDQRLAVLEEETNKHDTHINIHKAQLSKNEERFKLLEGTCYNGKLIWKVTDYKMKKREAVDGHTVSIFSQSFYTSRCGYRLCARAYLNGDGSGRGSHLSLYFVVMRGEFDSLLQWPFRQRVTLMLLDQSGKKNIMETFKPDPNSSSFKRPDGEMNIASGCPRFVAHSVLENAKNAYIKDDTLFLKVAVDLTDLEDL
+PTM	Methylation:89,151,205,286,301,539;SUMOylation:8,500;Ubiquitylation:89,355

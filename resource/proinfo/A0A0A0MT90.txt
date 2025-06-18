@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MT90
+Accession	A0A0A0MT90
+EntryName	A0A0A0MT90_HUMAN
+ProteinName	Zinc finger protein 138
+GeneName	ZNF138
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPLTFMDVAIEFSLEEWQCLDTAQRNVYRHVMLENYRNLVFLDLITCLEQGKEPWNMKRHEMVVAKHSAVAFTFDLSGLNILSFQSILPFVSALYVMGNRNQCLQKHLEARNKDLCVLVLPKTFG
+PTM	

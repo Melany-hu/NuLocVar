@@ -1,0 +1,25 @@
+UniprotID	F2Z2I8
+Accession	F2Z2I8
+EntryName	F2Z2I8_HUMAN
+ProteinName	Stomatin like 2
+GeneName	STOML2
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQMQVEAERRKRATVLESEGTRESAINVAEGKKQAQILASEAEKAEQINQAAGEASAVLAKAKAKAEAIRILAAALTQHVRGPWVGMGTGIDSGRGSLIYA
+PTM	

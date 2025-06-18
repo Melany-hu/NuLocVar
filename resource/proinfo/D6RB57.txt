@@ -1,0 +1,25 @@
+UniprotID	D6RB57
+Accession	D6RB57
+EntryName	D6RB57_HUMAN
+ProteinName	Protein phosphatase 2 regulatory subunit Bbeta
+GeneName	PPP2R2B
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKCFSRYLPYIFRPPNTILSSSCHTEGNSSFLEIGPIYTQNELKRLRCY
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O15130-2
+Accession	O15130;Q3SXL4
+EntryName	NPFF_HUMAN
+ProteinName	Pro-FMRFamide-related neuropeptide FF (FMRFamide-related peptides) [Cleaved into: Neuropeptide SF (NPSF); Neuropeptide FF (NPFF); Neuropeptide AF (NPAF)]
+GeneName	NPFF
+Length	116
+Function	Morphine modulating peptides. Have wide-ranging physiologic effects, including the modulation of morphine-induced analgesia, elevation of arterial blood pressure, and increased somatostatin secretion from the pancreas. Neuropeptide FF potentiates and sensitizes ASIC1 and ASIC3 channels.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPQPPTTCPWKPVPSPCDLRVQGICPSSFPDTPLAQEEDSEPLPPQDAQTSGSLLHYLLQAMERPGRSQAFLFQPQRFGRNTQGSWRNEWLSPRAGEGLNSQFWSLAAPQRFGKK
+PTM	

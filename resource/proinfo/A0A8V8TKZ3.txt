@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TKZ3
+Accession	A0A8V8TKZ3
+EntryName	A0A8V8TKZ3_HUMAN
+ProteinName	Glutamate rich 2
+GeneName	ERICH2
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTDIPTFFPSSALLKDFCRQDRYCKDSKEQTEWQIANV
+PTM	

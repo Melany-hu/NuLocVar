@@ -1,0 +1,25 @@
+UniprotID	P49366-3
+Accession	P49366;A8K688;M0R1I5;Q13184;Q13276;Q9UDG0
+EntryName	DHYS_HUMAN
+ProteinName	Deoxyhypusine synthase (DHS) (EC 2.5.1.46)
+GeneName	DHPS DS
+Length	327
+Function	Catalyzes the NAD-dependent oxidative cleavage of spermidine and the subsequent transfer of the butylamine moiety of spermidine to the epsilon-amino group of a critical lysine residue of the eIF-5A precursor protein to form the intermediate deoxyhypusine residue (PubMed:30661771). This is the first step of the post-translational modification of that lysine into an unusual amino acid residue named hypusine. Hypusination is unique to mature eIF-5A factor and is essential for its function.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPIIPAFWEAEAGGSREEEFETSLANMIEKKLEPLSQDEDQHADLTQSRRPLTSCTIFLGYTSNLISSGIRETIRYLVQHNMVDVLVTTAGGVEEDLIKCLAPTYLGEFSLRGKELRENGINRIGNLLVPNENYCKFEDWLMPILDQMVMEQNTEGVKWTPSKMIARLGKEINNPESVYYWAQKNHIPVFSPALTDGSLGDMIFFHSYKNPGLVLDIVEDLRLINTQAIFAKCTGMIILGGGVVKHHIANANLMRNGADYAVYINTAQEFDGSDSGARPDEAVSWGKIRVDAQPVKVYADASLVFPLLVAETFAQKMDAFMHEKNED
+PTM	Acetylation:156;Methylation:19,38,72,141,200,226;Phosphorylation:4,78,196,302,340;SUMOylation:205,329;Ubiquitylation:19,72,73,205,212,366

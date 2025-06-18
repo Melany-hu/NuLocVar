@@ -1,0 +1,25 @@
+UniprotID	Q8N9A8-2
+Accession	Q8N9A8;Q4G1A9;Q5H9V0;Q8NE06
+EntryName	NEPR1_HUMAN
+ProteinName	Nuclear envelope phosphatase-regulatory subunit 1 (NEP1-R1) (Transmembrane protein 188)
+GeneName	CNEP1R1 C16orf69 TMEM188
+Length	142
+Function	Forms with the serine/threonine protein phosphatase CTDNEP1 an active complex which dephosphorylates and may activate LPIN1 and LPIN2. LPIN1 and LPIN2 are phosphatidate phosphatases that catalyze the conversion of phosphatidic acid to diacylglycerol and control the metabolism of fatty acids at different levels. May indirectly modulate the lipid composition of nuclear and/or endoplasmic reticulum membranes and be required for proper nuclear membrane morphology and/or dynamics. May also indirectly regulate the production of lipid droplets and triacylglycerol.
+Subcellular Location	Nucleus membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSLEQAEAPRVVSLIPAVVSGNCQDLKAFERRLTEYIHCLQPATGRWRMLLIVVSVCTATGAWNWLIDPETQKVSFFTSLWNHPFFTISCITLIGLFFAGIHKRVVAPSIIAARCRTVLAEYNMSCDDTGKLILKPRPHVQ
+PTM	Phosphorylation:3

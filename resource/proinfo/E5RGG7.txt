@@ -1,0 +1,25 @@
+UniprotID	E5RGG7
+Accession	E5RGG7
+EntryName	E5RGG7_HUMAN
+ProteinName	Protein-L-isoaspartate O-methyltransferase domain-containing protein 1
+GeneName	PCMTD1
+Length	105
+Function	Substrate recognition component of an ECS (Elongin BC-CUL5-SOCS-box protein) E3 ubiquitin ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Specifically binds to the methyltransferase cofactor S-adenosylmethionine (AdoMet) via the N-terminal AdoMet binding motif, but does not display methyltransferase activity. May provide an alternate maintenance pathway for modified proteins by acting as a damage-specific E3 ubiquitin ligase adaptor protein.
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGAVSAGEDNDDLIDNLKEAQYIRTERVEQAFRAIDRGDYYLEGYRDNAYKDLAWKHGNIHLSAPCIYSEVMEALKLQPGLSFLNLGSGTGYLSTMYFDLRVLN
+PTM	

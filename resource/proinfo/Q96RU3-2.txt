@@ -1,0 +1,25 @@
+UniprotID	Q96RU3-2
+Accession	Q96RU3;B7ZL12;E9PGQ4;O60301;Q3MIN8;Q5TC87;Q5TC88;Q6P658;Q7LGG2;Q9H8H8;Q9NWD1
+EntryName	FNBP1_HUMAN
+ProteinName	Formin-binding protein 1 (Formin-binding protein 17) (hFBP17)
+GeneName	FNBP1 FBP17 KIAA0554
+Length	616
+Function	May act as a link between RND2 signaling and regulation of the actin cytoskeleton (By similarity). Required to coordinate membrane tubulation with reorganization of the actin cytoskeleton during the late stage of clathrin-mediated endocytosis. Binds to lipids such as phosphatidylinositol 4,5-bisphosphate and phosphatidylserine and promotes membrane invagination and the formation of tubules. Also enhances actin polymerization via the recruitment of WASL/N-WASP, which in turn activates the Arp2/3 complex. Actin polymerization may promote the fission of membrane tubules to form endocytic vesicles. May be required for the lysosomal retention of FASLG/FASL.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cell cortex; Lysosome; Cytoplasmic vesicle; Cell membrane; Membrane; Clathrin-coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWGTELWDQFDNLEKHTQWGIDILEKYIKFVKERTEIELSYAKQLRNLSKKYQPKKNSKEEEEYKYTSCKAFISNLNEMNDYAGQHEVISENMASQIIVDLARYVQELKQERKSNFHDGRKAQQHIETCWKQLESSKRRFERDCKEADRAQQYFEKMDADINVTKADVEKARQQAQIRHQMAEDSKADYSSILQKFNHEQHEYYHTHIPNIFQKIQEMEERRIVRMGESMKTYAEVDRQVIPIIGKCLDGIVKAAESIDQKNDSQLVIEAYKSGFEPPGDIEFEDYTQPMKRTVSDNSLSNSRGEGKPDLKFGGKSKGKLWPFIKKNKLMSLLTSPHQPPPPPPASASPSAVPNGPQSPKQQKEPLSHRFNEFMTSKPKIHCFRSLKRGGATPEDFSNLPPEQRRKKLQQKVDELNKEIQKEMDQRDAITKMKDVYLKNPQMGDPASLDHKLAEVSQNIEKLRVETQKFEAWLAEVEGRLPARSEQARRQSGLYDSQNPPTVNNCAQDRESPDGSYTEEQSQESEMKVLATDFDDEFDDEEPLPAIGTCKALYTFEGQNEGTISVVEGETLYVIEEDKGDGWTRIRRNEDEEGYVPTSYVEVCLDKNAKGAKTYI
+PTM	Acetylation:132,196,247,320,378,423,457,467;Methylation:16,27,110,196,247,423,427,467,556;Phosphorylation:190,274,287,288,294,296,299,301,303,332,336,347,349,351,359,386,392,436,497,500,502,507,517,521,522,523,527;Ubiquitylation:166,254,292,312,378,457

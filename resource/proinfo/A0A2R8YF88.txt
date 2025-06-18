@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YF88
+Accession	A0A2R8YF88
+EntryName	A0A2R8YF88_HUMAN
+ProteinName	OCRL inositol polyphosphate-5-phosphatase
+GeneName	OCRL
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEGMEMKGPLREPCALTLAQRNGQYELIIQLHEKEQHVQDIIPINSHFRCVQEAEETLLIDIASNSLIR
+PTM	

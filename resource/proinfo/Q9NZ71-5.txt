@@ -1,0 +1,25 @@
+UniprotID	Q9NZ71-5
+Accession	Q9NZ71;A2A397;A2A398;B4DRM5;B4DYM3;B4E3N6;E1P5J4;E1P5J5;Q5JTV3;Q5JTV4;Q9BW37;Q9H402;Q9H4X6;Q9NX25;Q9NZ73;Q9UPR4;Q9Y4R6
+EntryName	RTEL1_HUMAN
+ProteinName	Regulator of telomere elongation helicase 1 (EC 5.6.2.-) (Novel helicase-like)
+GeneName	RTEL1 C20orf41 KIAA1088 NHL
+Length	545
+Function	A probable ATP-dependent DNA helicase implicated in telomere-length regulation, DNA repair and the maintenance of genomic stability. Acts as an anti-recombinase to counteract toxic recombination and limit crossover during meiosis. Regulates meiotic recombination and crossover homeostasis by physically dissociating strand invasion events and thereby promotes noncrossover repair by meiotic synthesis dependent strand annealing (SDSA) as well as disassembly of D loop recombination intermediates. Also disassembles T loops and prevents telomere fragility by counteracting telomeric G4-DNA structures, which together ensure the dynamics and stability of the telomere.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	151..167;871..877
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAPAPRATAPSVRGEDAVSEAKSPGPFFSTRKAKSLDLHVPSLKQRSSGSPAAGDPESSLCVEYEQEPVPARQRPRGLLAALEHSEQRAGSPGEEQAHSCSTLSLLSEKRPAEEPRGGRKKIRLVSHPEEPVAGAQTDRAKLFMVAVKQELSQANFATFTQALQDYKGSDDFAALAACLGPLFAEDPKKHNLLQGFYQFVRPHHKQQFEEVCIQLTGRGCGYRPEHSIPRRQRAQPVLDPTGRTAPDPKLTVSTAAAQQLDPQEHLNQGRPHLSPRPPPTGDPGSQPQWGSGVPRAGKQGQHAVSAYLADARRALGSAGCSQLLAALTAYKQDDDLDKVLAVLAALTTAKPEDFPLLHRFSMFVRPHHKQRFSQTCTDLTGRPYPGMEPPGPQEERLAVPPVLTHRAPQPGPSRSEKTGKTQSKISSFLRQRPAGTVGAGGEDAGPSQSSGPPHGPAASEWGEPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPACDFQRCQACWQRHLQASRMCPACHTASRKQSVMQVFWPEPQ
+PTM	Acetylation:1180;Methylation:108,199,233,243,317,508,586,659,1094;Phosphorylation:274,303,305,420,421,526,527,775,779,785,786,791,798,803,806,847,855,863,953;SUMOylation:3,19,134,152,181,199,216,243,288,317,422,586,778,790,800,877,904,944,945,1054,1106,1180;Ubiquitylation:233,626,659,1180

@@ -1,0 +1,25 @@
+UniprotID	C9JEE0
+Accession	C9JEE0
+EntryName	C9JEE0_HUMAN
+ProteinName	Immunoglobulin lambda like polypeptide 1
+GeneName	IGLL1
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPGTGQGGLEAPGEPGPNLRQRWPLLLLGLAVVTHGLLRPTAASQSRALGPGAPGGSSRSSLRSRWGSRFLLQRGSWTGPRCWPRGFQSKHNSVTHVFGSGTQLTVLSQPKATPSVTLFPPSSEELQANKATLVCLMNDFYPGILTVTWKADGTPITQGVEMTTPSKQSNNKYAASSYL
+PTM	

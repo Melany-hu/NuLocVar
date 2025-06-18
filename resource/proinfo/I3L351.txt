@@ -1,0 +1,25 @@
+UniprotID	I3L351
+Accession	I3L351
+EntryName	I3L351_HUMAN
+ProteinName	Coronin 7
+GeneName	CORO7
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCSQSERQLLLYEAEALAGGPLAVLGLDVAPSTLLPSYDPDTGLVLLTGKGDTRVFLYELLPESPFFLECNSFTSPDPHKGLVLLPKTECDVREVELMRCLRLRQSSLEPVAFRLPRVR
+PTM	

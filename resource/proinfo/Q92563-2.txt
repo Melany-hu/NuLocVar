@@ -1,0 +1,25 @@
+UniprotID	Q92563-2
+Accession	Q92563;C9J767;Q6UW87
+EntryName	TICN2_HUMAN
+ProteinName	Testican-2 (SPARC/osteonectin, CWCV, and Kazal-like domains proteoglycan 2)
+GeneName	SPOCK2 KIAA0275 TICN2 UNQ269/PRO306
+Length	77
+Function	May participate in diverse steps of neurogenesis. Binds calcium.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAPGCGRLVLPLLLLAAAALAEGDAKGLKEGETPGNFMEDEQWLSSISQYSGKIKHWNRFRDVPSSDPPSTTQATP
+PTM	Glycosylation:225;Methylation:277;Phosphorylation:72

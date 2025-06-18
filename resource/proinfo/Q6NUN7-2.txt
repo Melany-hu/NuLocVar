@@ -1,0 +1,25 @@
+UniprotID	Q6NUN7-2
+Accession	Q6NUN7;A8K6G0;Q96GB5;Q9H5D6
+EntryName	JHY_HUMAN
+ProteinName	Jhy protein homolog
+GeneName	JHY C11orf63
+Length	307
+Function	Required for the normal development of cilia in brain ependymal cells lining the ventricular surfaces.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKRKLIPKLSIQSPVLHTNLNVQSTHPPLKKEDLHRISKDSLESDSESLTQEIMCHSEFDDRIRGNGMEPDSLDEEESPRWGSLHEMEEEASGKAAQMAREQNHHTWDQGANNRQQPIEDKYSDLRYDPNWKSKKEEGQLLSVEALPESTDSSLENLPLAPLYPSQETSMELSGGKGEQKESPQSAASLLGSEFLSPNYEHGARRSKPFSELSDSDLEEKSSSLSPYVKSSSSHNEVFLPGSRGPRRRKSKQHFVEKNKLTLGLPTPKTDSYLQLHNKKRGESHPEQVILRVNSLPRDGFKTFWSQ
+PTM	Methylation:326,632,697,719,723;Phosphorylation:214,216,243,462,602,604,607,619,621,623,626,666,693

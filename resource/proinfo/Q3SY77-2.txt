@@ -1,0 +1,25 @@
+UniprotID	Q3SY77-2
+Accession	Q3SY77;B4DUQ7;E9PFK7;Q6UXC4;Q8NBP2
+EntryName	UD3A2_HUMAN
+ProteinName	UDP-glucuronosyltransferase 3A2 (UDPGT 3A2) (EC 2.4.1.17)
+GeneName	UGT3A2 PSEC0073 UNQ842/PRO1780
+Length	489
+Function	UDP-glucuronosyltransferases catalyze phase II biotransformation reactions in which lipophilic substrates are conjugated with glucuronic acid to increase water solubility and enhance excretion. They are of major importance in the conjugation and subsequent elimination of potentially toxic xenobiotics and endogenous compounds (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGQRVLLLVGFLLPGVLLSEAAKILTISTVDFKKEEKSYQVISWLAPEDHQREFKKSFDFFLEETLGGRGKFENLLNVLEYLALQCSHFLNRKDIMDSLKNENFDMVIVETFDYCPFLIAEKLGKPFVAILSTSFGSLEFGLPIPLSYVPVFRSLLTDHMDFWGRVKNFLMFFSFCRRQQHMQSTFDNTIKEHFTEGSRPVLSHLLLKAELWFINSDFAFDFARPLLPNTVYVGGLMEKPIKPVPQDLENFIAKFGDSGFVLVTLGSMVNTCQNPEIFKEMNNAFAHLPQGVIWKCQCSHWPKDVHLAANVKIVDWLPQSDLLAHPSIRLFVTHGGQNSIMEAIQHGVPMVGIPLFGDQPENMVRVEAKKFGVSIQLKKLKAETLALKMKQIMEDKRYKSAAVAASVILRSHPLSPTQRLVGWIDHVLQTGGATHLKPYVFQQPWHEQYLLDVFVFLLGLTLGTLWLCGKLLGMAVWWLRGARKVKET
+PTM	Methylation:157,226,243,423;Phosphorylation:224,446,450,452

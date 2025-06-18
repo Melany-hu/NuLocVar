@@ -1,0 +1,25 @@
+UniprotID	O75386-2
+Accession	O75386;B3KNB7;B7Z6A2;D3DUQ4;F8WBZ9;Q8N5B0
+EntryName	TULP3_HUMAN
+ProteinName	Tubby-related protein 3 (Tubby-like protein 3)
+GeneName	TULP3 TUBL3
+Length	501
+Function	Negative regulator of the Shh signaling transduction pathway: recruited to primary cilia via association with the IFT complex A (IFT-A) and is required for recruitment of G protein-coupled receptor GPR161 to cilia, a promoter of PKA-dependent basal repression machinery in Shh signaling. Binds to phosphorylated inositide (phosphoinositide) lipids. Both IFT-A- and phosphoinositide-binding properties are required to regulate ciliary G protein-coupled receptor trafficking. During adipogenesis, regulates ciliary trafficking of FFAR4 in preadipocytes.
+Subcellular Location	Nucleus; Cell membrane; Cell projection; Cilium; Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	239...245
+validnes_region	
+nesbase_region	
+Sequence	MEASRCRLSPSGDSVFHEEMMKMRQAKLDYQRLLLEKRQRKKRLEPFMVQPNPEARLRRAKPRASDEQTPLVNCHTPHSNVILHGIDGPAAVLKPDEVHAPSVSSSVVEEDAENTVDTASKPGLQERLQKHDISESVNFDEETDGISQSACLERPNSASSQNSTDTGTSGSATAAQPADNLLGDIDDLEDFVYSPAPQGVTVRCRIIRDKRGMDRGLFPTYYMYLEKEENQKIFLLAARKRKKSKTANYLISIDPVDLSREGESYVGKLRSNLMGTKFTVYDRGICPMKGRGLVGAAHTRQELAAISYETNVLGFKGPRKMSVIIPGMTLNHKQIPYQPQNNHDSLLSRWQNRTMENLVELHNKAPVWNSDTQSYVLNFRGRVTQASVKNFQIVHKNDPDYIVMQFGRVADDVFTLDYNYPLCAVQAFGIGLSSFDKCIQTLRMQELCELHRQHHSAASLVHRTVCQRWVGHPWRLLPQTSLLWTDLSPPPVVPAPHQISM
+PTM	Acetylation:37;Methylation:37,94,121,232;Phosphorylation:9,11,322,345,348,401;SUMOylation:268,320;Ubiquitylation:22,245,268,316,333

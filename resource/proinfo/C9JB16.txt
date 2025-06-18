@@ -1,0 +1,25 @@
+UniprotID	C9JB16
+Accession	C9JB16
+EntryName	C9JB16_HUMAN
+ProteinName	ELAV like RNA binding protein 2
+GeneName	ELAVL2
+Length	90
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTQKELEQLFSQYGRIITSRILVDQVTGISRGVGFIRFDKRIEAEEAIKGLNGQKPPGATEPITVKFANNPSQKTNQAILSQLYQSPNRR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F2Z2Y8
+Accession	F2Z2Y8
+EntryName	F2Z2Y8_HUMAN
+ProteinName	Toll interacting protein
+GeneName	TOLLIP
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATTVSTQRGPVYIGELPQDFLRITPTQQQRQVQLDAQAAQQLQYGGAVGTVGRLNITVVQRAFSMDDRIAWTHITIPESLRQGKVEDKWYSLSGRQGDDKEGMINLVMSYALLPAAMVMPPQPVVLMPTVYQQGVGYVPITGMPAVCSPGMVPVALPPAAVNAQPRCSEEDLKAIQDMFPNMDQEVIRSVLEAQRGNKDAAINSLLQMGEEP
+PTM	

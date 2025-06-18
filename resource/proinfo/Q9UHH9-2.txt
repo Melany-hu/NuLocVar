@@ -1,0 +1,25 @@
+UniprotID	Q9UHH9-2
+Accession	Q9UHH9;A8K3B1;B4E3G6;G8JLL6;Q6P0N8;Q9BSZ6;Q9BUW3;Q9H4P7;Q9NT63;Q9UFU6
+EntryName	IP6K2_HUMAN
+ProteinName	Inositol hexakisphosphate kinase 2 (InsP6 kinase 2) (InsP6K2) (EC 2.7.4.-) (P(i)-uptake stimulator) (PiUS)
+GeneName	IP6K2 IHPK2 TCCCIA00113
+Length	97
+Function	Converts inositol hexakisphosphate (InsP6) to diphosphoinositol pentakisphosphate (InsP7/PP-InsP5).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPAFRAMDVEPRAKGVLLEPFVHQVGGHSCVLRFNETTLCKPLVPREHQFYETLPAEMRKFTPQYKGQSQRPLVSWPSLPHFFPWSFPLWPQGSVA
+PTM	Methylation:140,142,222;Phosphorylation:2,347,356,359;SUMOylation:15,42,61,67,90,107,118,126,129,145,155,166,174,182,202,222,236,243,274,279;Ubiquitylation:15,42,61,67,129,166,222,236,243,309

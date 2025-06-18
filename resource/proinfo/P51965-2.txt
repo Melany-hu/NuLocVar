@@ -1,0 +1,25 @@
+UniprotID	P51965-2
+Accession	P51965;B2RBX4;C9J8K2;K4DI90
+EntryName	UB2E1_HUMAN
+ProteinName	Ubiquitin-conjugating enzyme E2 E1 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme E1) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme E1) (UbcH6) (Ubiquitin carrier protein E1) (Ubiquitin-protein ligase E1)
+GeneName	UBE2E1 UBCH6
+Length	160
+Function	Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. Catalyzes the covalent attachment of ISG15 to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. In vitro also catalyzes 'Lys-48'-linked polyubiquitination. Catalyzes monoubiquitination of other proteins in both an E3-dependent and E3-independent manner (PubMed:27237050).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEVGRPREVRGRPGKSRIQKELADITLDPPPNCSAGPKGDNIYEWRSTILGPPGSVYEGGVFFLDITFTPEYPFKPPKVTFRTRIYHCNINSQGVICLDILKDNWSPALTISKVLLSICSLLTDCNPADPLVGSIATQYMTNRAEHDRMARQWTKRYAT
+PTM	Acetylation:43,50;Methylation:136;Phosphorylation:2,6,9,10,11,12,13,14,15,16,17,18,22,26,28,46,60,77;SUMOylation:35,43,50;Ubiquitylation:24,40,43,50,54,72,136

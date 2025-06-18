@@ -1,0 +1,25 @@
+UniprotID	E9PRU5
+Accession	E9PRU5
+EntryName	E9PRU5_HUMAN
+ProteinName	Chromosome 11 open reading frame 24
+GeneName	C11orf24
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTALVLIWIFSLSLSESHAASNDPRNFVPNKMWKGLVKRNASVETVDNKTSEDVTMAAASPVTLTKGTSAAHLNSMEVTTEDTSRTDAYESYKKKDYTQVDYLINGMYADSEM
+PTM	

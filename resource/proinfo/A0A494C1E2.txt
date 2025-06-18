@@ -1,0 +1,25 @@
+UniprotID	A0A494C1E2
+Accession	A0A494C1E2
+EntryName	A0A494C1E2_HUMAN
+ProteinName	Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (N-acetylglucosamine-phosphate mutase)
+GeneName	PGM3
+Length	461
+Function	Catalyzes the conversion of GlcNAc-6-P into GlcNAc-1-P during the synthesis of uridine diphosphate/UDP-GlcNAc, a sugar nucleotide critical to multiple glycosylation pathways including protein N- and O-glycosylation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	273...277
+validnes_region	
+nesbase_region	
+Sequence	MLAPSWEEHATCLANAEEQDMQRVLIDISEKEAVNLQQDAFVVIGRDTRPSSEKLSQSVIDGVTVLGGQFHDYGLLTTPQLHYMVYCRNTGGRYGKATIEGYYQKLSKAFVELTKQASCSGDEYRSLKVDCANGIGALKLREMEHYFSQGLSVQLFNDGSKGKLNHLCGADFVKSHQKPPQGMEIKSNERCCSFDGDADRIVYYYHDADGHFHLIDGDKIATLISSFLKELLVEIGESLNIGVVQTAYANGSSTRYLEEVMKVPVYCTKTGVKHLHHKAQEFDIGVYFEANGHGTALFSTAVEMKIKQSAEQLEDKKRKAAKMLENIIDLFNQAAGDAISDMLVIEAILALKGLTVQQWDALYTDLPNRQLKVQVADRRVISTTDAERQAVTPPGLQEAINDLVKKYKLSRAFVRPSGTEDVVRVYAEADSQESADHLAHEVSLAVFQLAGGIGERPQPGF
+PTM	

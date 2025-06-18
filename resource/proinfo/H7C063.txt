@@ -1,0 +1,25 @@
+UniprotID	H7C063
+Accession	H7C063
+EntryName	H7C063_HUMAN
+ProteinName	Ral guanine nucleotide dissociation stimulator like 4
+GeneName	RGL4
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWASGMSTVPGGSRHSLGIQVRGGWGVTGGEEESLTVPVADTWQAGSFKVATQERNPQRVQMRLRRQKKGVVPFLGDFLTELQRLDSAIPDDLDGNTNKRSKEVRVLQEMQLLQVAAMNYRLRPLEKFVTYFTRMEQLSDKESYKLSCQLEPENP
+PTM	

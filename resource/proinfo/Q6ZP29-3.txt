@@ -1,0 +1,25 @@
+UniprotID	Q6ZP29-3
+Accession	Q6ZP29;B3KWQ5;Q6ZMJ3;Q6ZP27;Q9NXC7
+EntryName	LAAT1_HUMAN
+ProteinName	Lysosomal amino acid transporter 1 homolog (PQ-loop repeat-containing protein 2) (Solute carrier family 66 member 1)
+GeneName	SLC66A1 PQLC2
+Length	226
+Function	Amino acid transporter that specifically mediates the pH-dependent export of the cationic amino acids arginine, histidine and lysine from lysosomes.
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQALSLWFLLGWIGGDSCNLIGSFLADQLPLQTYTAVYYVLADLVMLTLYFYYKFRTRPSLLSAPINSVLLFLMGMACATPLLSAAGPVAAPREAFRGRALLSVESGSKPFTRQEVIGFVIGSISSVLYLLSRLPQIRTNFLRKSTQGISYSLFALVMLGNTLYGLSVLLKNPEEGQSEGSYLLHHLPWLVGSLGVLLLDTIISIQFLVYRRSTAASELEPLLPS
+PTM	Methylation:237

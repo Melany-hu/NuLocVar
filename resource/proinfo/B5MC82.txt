@@ -1,0 +1,25 @@
+UniprotID	B5MC82
+Accession	B5MC82;B5MCS6
+EntryName	B5MC82_HUMAN
+ProteinName	D-dopachrome tautomerase
+GeneName	DDT
+Length	166
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFLELDTNLPANRVPAGLEKRLCAAAASILGKPADRVNVTVRPGLAMALSGSTEPCAQLSISSIGVVGTAEDNRSHSAHFFEFLTKELALGQDRFQVKFTGDSQSSERPLAWMSRHLLSGSCIAGGPQTNLEMNHLQLATSSSVNTGEKTSLPHKKRLQPKPGVL
+PTM	

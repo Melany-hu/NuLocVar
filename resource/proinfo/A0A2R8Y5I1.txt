@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5I1
+Accession	A0A2R8Y5I1
+EntryName	A0A2R8Y5I1_HUMAN
+ProteinName	DNA excision repair protein ERCC-8
+GeneName	ERCC8
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLRRAESTRRVLGLELNKDRDVERIHGGGINTLDIEPVEGRYMLSGGSDGVIVLYDLENSSRQSYYTCKAVCSIGRDHPDVHRYSVETVQWYPHDTGMFTSSSFDKTLKVWDTNTLQTADVFNFEETVYSHHMSPVSTKHCLVAVGTRGPKVQLCDLKSGSCSHILQGIFILFQTATTLSKRFNKKKRY
+PTM	

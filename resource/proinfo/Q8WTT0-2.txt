@@ -1,0 +1,25 @@
+UniprotID	Q8WTT0-2
+Accession	Q8WTT0;D3DUU3;Q3T1C3;Q6UXS8;Q8WXX8
+EntryName	CLC4C_HUMAN
+ProteinName	C-type lectin domain family 4 member C (Blood dendritic cell antigen 2) (BDCA-2) (C-type lectin superfamily member 7) (Dendritic lectin) (CD antigen CD303)
+GeneName	CLEC4C BDCA2 CLECSF11 CLECSF7 DLEC HECL UNQ9361/PRO34150
+Length	182
+Function	Lectin-type cell surface receptor which may play a role in antigen capturing by dendritic cells (PubMed:11748283, PubMed:21880719, PubMed:25995448). Specifically recognizes non-sialylated galactose-terminated biantennary glycans containing the trisaccharide epitope Gal(beta1-3/4)GlcNAc(beta1-2)Man (PubMed:21880719, PubMed:25995448). Binds to serum IgG (PubMed:25995448). Efficiently targets ligand into antigen-processing and peptide-loading compartments for presentation to T-cells (PubMed:11748283). May mediate potent inhibition of induction of IFN-alpha/beta expression in plasmacytoid dendritic cells (PubMed:11748283, PubMed:21880719). May act as a signaling receptor that activates protein-tyrosine kinases and mobilizes intracellular calcium (PubMed:11748283).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPEEEPQDRVPHNFMYSKTVKRLSKLREYQQYHPSLTCVMEGKDIEDWSCCPTPWTSFQSSCYFISTGMQSWTKSQKNCSVMGADLVVINTREEQDFIIQNLKRNSSYFLGLSDPGGRRHWQWVDQTPYNENVTFWHSGEPNNLDERCAIINFRSSEEWGWNDIHCHVPQKSICKMKKIYI
+PTM	Methylation:135;Phosphorylation:49

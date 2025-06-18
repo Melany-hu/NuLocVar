@@ -1,0 +1,25 @@
+UniprotID	Q5SSQ6-2
+Accession	Q5SSQ6;A2ABF2;A2ABS9;Q9Y335
+EntryName	SAPC1_HUMAN
+ProteinName	Suppressor APC domain-containing protein 1 (Protein G7d)
+GeneName	SAPCD1 C6orf26 G7D NG23
+Length	178
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSQGSGGVPLVQAPYTVLLLPLGTSRQDPGAQSFFLWLRRMQALEREQDALWQGLELLQHGQAWFEDHLREAQRQQLHLGALGENFLTDLHSEPGRPPLAQIQKVNICLQNLIHEKFSPSPLNKASSCTTQDSKERRREQNLWQQQELSRQQKGVTQPKEEMAQRGCTKGPRGPTRV
+PTM	Methylation:105

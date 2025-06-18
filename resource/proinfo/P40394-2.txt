@@ -1,0 +1,25 @@
+UniprotID	P40394-2
+Accession	P40394;A2RRB6;A8MVN9;B2R760;B4DWV6;Q13713
+EntryName	ADH7_HUMAN
+ProteinName	All-trans-retinol dehydrogenase [NAD(+)] ADH7 (EC 1.1.1.105) (Alcohol dehydrogenase class 4 mu/sigma chain) (EC 1.1.1.1) (Alcohol dehydrogenase class IV mu/sigma chain) (Gastric alcohol dehydrogenase) (Omega-hydroxydecanoate dehydrogenase ADH7) (EC 1.1.1.66) (Retinol dehydrogenase)
+GeneName	ADH7
+Length	394
+Function	Catalyzes the NAD-dependent oxidation of all-trans-retinol, alcohol, and omega-hydroxy fatty acids and their derivatives (PubMed:15369820, PubMed:16787387, PubMed:9600267). Oxidizes preferentially all trans-retinol, all-trans-4-hydroxyretinol, 9-cis-retinol, 2-hexenol, and long chain omega-hydroxy fatty acids such as juniperic acid (PubMed:15369820, PubMed:16787387, PubMed:9600267). In vitro can also catalyze the NADH-dependent reduction of all-trans-retinal and aldehydes and their derivatives (PubMed:15369820, PubMed:16787387, PubMed:9600267). Reduces preferentially all trans-retinal, all-trans-4-oxoretinal and hexanal (PubMed:15369820, PubMed:16787387). Catalyzes in the oxidative direction with higher efficiency (PubMed:15369820, PubMed:16787387). Therefore may participate in retinoid metabolism, fatty acid omega-oxidation, and elimination of cytotoxic aldehydes produced by lipid peroxidation (PubMed:15369820, PubMed:16787387, PubMed:9600267).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKCLVSRHTVRETLDMVFQRMSVEAGVIKCKAAVLWEQKQPFSIEEIEVAPPKTKEVRIKILATGICRTDDHVIKGTMVSKFPVIVGHEATGIVESIGEGVTTVKPGDKVIPLFLPQCRECNACRNPDGNLCIRSDITGRGVLADGTTRFTCKGKPVHHFMNTSTFTEYTVVDESSVAKIDDAAPPEKVCLIGCGFSTGYGAAVKTGKVKPGSTCVVFGLGGVGLSVIMGCKSAGASRIIGIDLNKDKFEKAMAVGATECISPKDSTKPISEVLSEMTGNNVGYTFEVIGHLETMIDALASCHMNYGTSVVVGVPPSAKMLTYDPMLLFTGRTWKGCVFGGLKSRDDVPKLVTEFLAKKFDLDQLITHVLPFKKISEGFELLNSGQSIRTVLTF
+PTM	Methylation:10,45,197,238,256,350;Phosphorylation:168

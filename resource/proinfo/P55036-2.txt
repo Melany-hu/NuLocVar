@@ -1,0 +1,25 @@
+UniprotID	P55036-2
+Accession	P55036;D3DV16;Q5VWC5;Q9NS92
+EntryName	PSMD4_HUMAN
+ProteinName	26S proteasome non-ATPase regulatory subunit 4 (26S proteasome regulatory subunit RPN10) (26S proteasome regulatory subunit S5A) (Antisecretory factor 1) (AF) (ASF) (Multiubiquitin chain-binding protein)
+GeneName	PSMD4 MCB1
+Length	268
+Function	Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMD4 acts as an ubiquitin receptor subunit through ubiquitin-interacting motifs and selects ubiquitin-conjugates for destruction. Displays a preferred selectivity for longer polyubiquitin chains.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLESTMVCVDNSEYMRNGDFLPTRLQAQQDAVNIVCHSKTRSNPENNVGLITLANDCEVLTTLTPDTGRILSKLHTVQPKGKITFCTGIRVAHLALKHRQGKNHKMRIIAFVGSPVEDNEKDLVKLAKRLKKEKVNVDIINFGEEEVNTEKLTAFVNTLNGKDGTGSHLVTVPPGPSLADALISSPILAGEGGAMLGLGASDFEFGVDPSADPELALALRVSMEEQRQRQEEEARRAAAASAAEAGIATTGTEGERGGIRSPGTAGC
+PTM	Acetylation:40,74,98,122,126,129,365,368;Methylation:74,98,122,126,152,163,262;Phosphorylation:65,115,242,250,251,253,256,264,266,358,361;SUMOylation:40,122,126,262,321;Ubiquitylation:40,74,81,83,98,122,126,129,135,152,262,365

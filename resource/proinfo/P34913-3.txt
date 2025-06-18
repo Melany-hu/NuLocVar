@@ -1,0 +1,25 @@
+UniprotID	P34913-3
+Accession	P34913;B2Z3B1;B3KTU8;B3KUA0;G3V134;J3KPH7;Q16764;Q9HBJ1;Q9HBJ2
+EntryName	HYES_HUMAN
+ProteinName	Bifunctional epoxide hydrolase 2 [Includes: Cytosolic epoxide hydrolase 2 (CEH) (EC 3.3.2.10) (Epoxide hydratase) (Soluble epoxide hydrolase) (SEH); Lipid-phosphate phosphatase (EC 3.1.3.76)]
+GeneName	EPHX2
+Length	489
+Function	Bifunctional enzyme (PubMed:12574510). The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides (PubMed:12574510, PubMed:12869654, PubMed:22798687). Plays a role in xenobiotic metabolism by degrading potentially toxic epoxides (By similarity). Also determines steady-state levels of physiological mediators (PubMed:12574510, PubMed:12869654, PubMed:21217101, PubMed:22798687).
+Subcellular Location	Cytoplasm; Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEENCRKCSETAKVCLPKNFSIKEIFDKAISARKINRPMLQAALMLRKKGFTTAILTNTWLDDRAERDGLAQLMCELKMHFDFLIESCQVGMVKPEPQIYKFLLDTLKASPSEVVFLDDIGANLKPARDLGMVTILVQDTDTALKELEKVTGIQLLNTPAPLPTSCNPSDMSHGYVTVKPRVRLHFVELGSGPAVCLCHGFPESWYSWRYQIPALAQAGYRVLAMDMKGYGESSAPPEIEEYCMEVLCKEMVTFLDKLGLSQAVFIGHDWGGMLVWYMALFYPERVRAVASLNTPFIPANPNMSPLESIKANPVFDYQLYFQEPGVAEAELEQNLSRTFKSLFRASDESVLSMHKVCEAGGLFVNSPEEPSLSRMVTEEEIQFYVQQFKKSGFRGPLNWYRNMERNWKWACKSLGRKILIPALMVTAEKDFVLVPQMSQHMEDWIPHLKRGHIEDCGHWTQMDKPTEVNQILIKWLDSDARNPPVVSKM
+PTM	Acetylation:43,94,191;Methylation:89,94,174,191,215,245,540;Phosphorylation:370,374

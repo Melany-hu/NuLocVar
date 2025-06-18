@@ -1,0 +1,25 @@
+UniprotID	Q8TB92-2
+Accession	Q8TB92;B1AQ42;B3KNV0;B7Z1S7;F8W793;Q6ZSA9
+EntryName	HMGC2_HUMAN
+ProteinName	3-hydroxy-3-methylglutaryl-CoA lyase, cytoplasmic (EC 4.1.3.4) (3-hydroxy-3-methylglutaryl-CoA lyase-like protein 1) (HMGCL-like 1) (Endoplasmic reticulum 3-hydroxy-3-methylglutaryl-CoA lyase) (er-cHL)
+GeneName	HMGCLL1
+Length	340
+Function	Non-mitochondrial 3-hydroxy-3-methylglutaryl-CoA lyase that catalyzes a cation-dependent cleavage of (S)-3-hydroxy-3-methylglutaryl-CoA into acetyl-CoA and acetoacetate, a key step in ketogenesis, the products of which support energy production in nonhepatic animal tissues.
+Subcellular Location	Cytoplasm; Cytosol; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNVPSAVKHCLSYQQLLREHLWIGDSVAGALDPAQETSQLSGLPEFVKIVEVGPRDGLQNEKVIVPTDIKIEFINRLSQTGLSVIEVTSFVSSRWVPQMADHTEVMKGIHQYPGVRYPVLTPNLQGFHHAVAAGATEISVFGAASESFSKKNINCSIEESMGKFEEVVKSARHMNIPARGYVSCALGCPYEGSITPQKVTEVSKRLYGMGCYEISLGDTIGVGTPGSMKRMLESVMKEIPPGALAVHCHDTYGQALANILTALQMGINVVDSAVSGLGGCPYAKGASGNVATEDLIYMLNGLGLNTGVNLYKVMEAGDFICKAVNKTTNSKVAQASFNA
+PTM	Methylation:101,200;Phosphorylation:178,265

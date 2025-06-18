@@ -1,0 +1,25 @@
+UniprotID	Q9BQ22
+Accession	Q9BQ22
+EntryName	Q9BQ22_HUMAN
+ProteinName	Alpha-2-macroglobulin
+GeneName	A2M
+Length	37
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SDVMGRGHARLVHVEEPHTETVRKYFPETWIWDLVVV
+PTM	

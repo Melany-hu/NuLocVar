@@ -1,0 +1,25 @@
+UniprotID	Q8N7K6
+Accession	Q8N7K6
+EntryName	Q8N7K6_HUMAN
+ProteinName	Protein GOLM2 (Golgi membrane protein 2)
+GeneName	CASC4 hCG_2003796
+Length	169
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGFGANRRAGRLPSLVLVVLLVVIVVLAFNYWSISSRHVLLQEEVAELQGQVQRTEVARGRLEKRNSDLLLLVDTHKKQIDQKEADYGRLSSRLQAREGLGKRCEDDKSLALWPRLKCSGTISAHCKLCLPGSRHSPASASRIAGTTGAYHHAWLIFCIFSRDGVSQC
+PTM	

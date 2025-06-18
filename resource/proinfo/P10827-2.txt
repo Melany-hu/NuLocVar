@@ -1,0 +1,25 @@
+UniprotID	P10827-2
+Accession	P10827;A8K3B5;P21205;Q8N6A1;Q96H73
+EntryName	THA_HUMAN
+ProteinName	Thyroid hormone receptor alpha (Nuclear receptor subfamily 1 group A member 1) (V-erbA-related protein 7) (EAR-7) (c-erbA-1) (c-erbA-alpha)
+GeneName	THRA EAR7 ERBA1 NR1A1 THRA1 THRA2
+Length	410
+Function	Nuclear hormone receptor that can act as a repressor or activator of transcription. High affinity receptor for thyroid hormones, including triiodothyronine and thyroxine.
+Subcellular Location	Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	24...29
+validnes_region	
+nesbase_region	
+Sequence	MEQKPSKVECGSDPEENSARSPDGKRKRKNGQCSLKTSMSGYIPSYLDKDEQCVVCGDKATGYHYRCITCEGCKGFFRRTIQKNLHPTYSCKYDSCCVIDKITRNQCQLCRFKKCIAVGMAMDLVLDDSKRVAKRKLIEQNRERRRKEEMIRSLQQRPEPTPEEWDLIHIATEAHRSTNAQGSHWKQRRKFLPDDIGQSPIVSMPDGDKVDLEAFSEFTKIITPAITRVVDFAKKLPMFSELPCEDQIILLKGCCMEIMSLRAAVRYDPESDTLTLSGEMAVKREQLKNGGLGVVSDAIFELGKSLSAFNLDDTEVALLQAVLLMSTDRSGLLCVDKIEKSQEAYLLAFEHYVNHRKHNIPHFWPKLLMKVTDLRMIGACHASRFLHMKVECPTELFPPLFLEVFEDQEV
+PTM	Methylation:83,101,252,288,304;Phosphorylation:12,18,45,46,216,435;SUMOylation:190

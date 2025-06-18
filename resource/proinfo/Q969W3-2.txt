@@ -1,0 +1,25 @@
+UniprotID	Q969W3-2
+Accession	Q969W3;B4E339
+EntryName	VCF1_HUMAN
+ProteinName	Protein VCF1 (VCP nuclear cofactor family member 1)
+GeneName	VCF1 FAM104A
+Length	207
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	73...78
+validnes_region	
+nesbase_region	
+Sequence	MGGRGADAGSSGGTGPTEGYSPPAASTRAAARAKARGGGRGGRRNTTPSVPSLRGAAPRSFHPPAAMSERLRPRKRRRNGNEEDNHLPPQTKRSSRNPVFQDSWDTETVPVMRNSKENRLRGNKAFCASSGSDSGGSSSSSSSSINSPDRASGPEGSLSQTMAGSSPNTPQPVPEQSALCQGLYFHINQTLREAHFHSLQHRGRPLT
+PTM	Methylation:4,54,59,183;Phosphorylation:17,21,46,47,52

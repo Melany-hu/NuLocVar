@@ -1,0 +1,25 @@
+UniprotID	I0EZ72
+Accession	I0EZ72
+EntryName	I0EZ72_HUMAN
+ProteinName	Cell division cycle protein 27
+GeneName	CDC27
+Length	33
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TTPQVLSPTITSPPNALPRRSSRLFTSDSSTTK
+PTM	

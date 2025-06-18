@@ -1,0 +1,25 @@
+UniprotID	P20591-2
+Accession	P20591;B2RDA5;B3KU10;C9IYV7;C9J8D6;C9JN19;C9JN88;C9JUL1;C9JZS6;D3DSI8;Q86YP5;Q96CI3
+EntryName	MX1_HUMAN
+ProteinName	Interferon-induced GTP-binding protein Mx1 (Interferon-induced protein p78) (IFI-78K) (Interferon-regulated resistance GTP-binding protein MxA) (Myxoma resistance protein 1) (Myxovirus resistance protein 1) [Cleaved into: Interferon-induced GTP-binding protein Mx1, N-terminally processed]
+GeneName	MX1
+Length	508
+Function	Interferon-induced dynamin-like GTPase with antiviral activity against a wide range of RNA viruses and some DNA viruses. Its target viruses include negative-stranded RNA viruses and HBV through binding and inactivation of their ribonucleocapsid. May also antagonize reoviridae and asfarviridae replication. Inhibits thogoto virus (THOV) replication by preventing the nuclear import of viral nucleocapsids. Inhibits La Crosse virus (LACV) replication by sequestering viral nucleoprotein in perinuclear complexes, preventing genome amplification, budding, and egress. Inhibits influenza A virus (IAV) replication by decreasing or delaying NP synthesis and by blocking endocytic traffic of incoming virus particles. Enhances ER stress-mediated cell death after influenza virus infection. May regulate the calcium channel activity of TRPCs.
+Subcellular Location	Cytoplasm; Endoplasmic reticulum membrane; Cytoplasm; Perinuclear region; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVSEVDIAKADPAAASHPLLLNGDATVAQKNPGSVAENNLCSQYEEKVRPCIDLIDSLRALGVEQDLALPAIAVIGDQSSGKSSVLEALSGVALPRGSGIVTRCPLVLKLKKLVNEDKWRGKVSYQDYEIEISDASEVEKEINKAQNAIAGEGMGISHELITLEISSRDVPDLTLIDLPGITRVAVGNQPADIGYKIKTLIKKYIQRQETISLVVVPSNVDIATTEALSMAQEVDPEGDRTIGILTKPDLVDKGTEDKVVDVVRNLVFHLKKGYMIVKCRGQQEIQDQLSLSEALQREKIFFENHPYFRDLLEEGKATVPCLAEKLTSELITHICKSLPLLENQIKETHQRITEELQKYGVDIPEDENEKMFFLIDKVNAFNQDITALMQGEETVGEEDIRLFTRLRHEFHKWSTIIENNFQEGGQQAHLQPHPFDHPVLHAPDVRPAASEGHAAAPAGQGHLQLAPEGAERHQRQAEVPEGAACTADAGSAPACPVPRLTTLCPAP
+PTM	Acetylation:113,197;Methylation:10,110,141,145,248,317,359,378,463,544,623,631;Phosphorylation:4,35,99,129,558;SUMOylation:505;Ubiquitylation:123,141,145,197,199,300,317,326,435

@@ -1,0 +1,25 @@
+UniprotID	H7C254
+Accession	H7C254
+EntryName	H7C254_HUMAN
+ProteinName	Ankyrin repeat and MYND domain containing 1
+GeneName	ANKMY1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ALPRKSEGATRTNGGGAIQSGPAVWARCRDLPRWQPGRGAVVPRAAHQAVHPDPQWLLPPQIP
+PTM	

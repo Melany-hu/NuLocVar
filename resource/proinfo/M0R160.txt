@@ -1,0 +1,25 @@
+UniprotID	M0R160
+Accession	M0R160
+EntryName	M0R160_HUMAN
+ProteinName	Zinc finger protein 44
+GeneName	ZNF44 hCG_2002471
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALCYGTFWGYPKMLEAANLMEGLVDIGPWVTLPRGQPEVLEWGLPKDQDSVAFEDVAVNFTHEEWALLGPSQKNLYRDVMRETIRNLNCIGMKWENQNIDDQHQNLRRNPRLSETWLQNFILIHYGHLVALSDGGLLQFSTGQGLPVTQAGVQ
+PTM	

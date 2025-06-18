@@ -1,0 +1,25 @@
+UniprotID	Q9Y2K7-2
+Accession	Q9Y2K7;D4QA03;E9PIL6;I3VM55;Q49A21;Q4G0M3;Q69YY8;Q9BVH5;Q9H7H5;Q9UK66
+EntryName	KDM2A_HUMAN
+ProteinName	Lysine-specific demethylase 2A (EC 1.14.11.27) (CXXC-type zinc finger protein 8) (F-box and leucine-rich repeat protein 11) (F-box protein FBL7) (F-box protein Lilina) (F-box/LRR-repeat protein 11) (JmjC domain-containing histone demethylation protein 1A) ([Histone-H3]-lysine-36 demethylase 1A)
+GeneName	KDM2A CXXC8 FBL11 FBL7 FBXL11 JHDM1A KIAA1004
+Length	856
+Function	Histone demethylase that specifically demethylates 'Lys-36' of histone H3, thereby playing a central role in histone code. Preferentially demethylates dimethylated H3 'Lys-36' residue while it has weak or no activity for mono- and tri-methylated H3 'Lys-36'. May also recognize and bind to some phosphorylated proteins and promote their ubiquitination and degradation. Required to maintain the heterochromatic state. Associates with centromeres and represses transcription of small non-coding RNAs that are encoded by the clusters of satellite repeats at the centromere. Required to sustain centromeric integrity and genomic stability, particularly during mitosis. Regulates circadian gene expression by repressing the transcriptional activator activity of CLOCK-BMAL1 heterodimer and RORA in a catalytically-independent manner (PubMed:26037310).
+Subcellular Location	Nucleus; Nucleoplasm; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	265...269;261...265
+validnes_region	
+nesbase_region	
+Sequence	MQLKIYNIEDRTRVPNKFRYPFYYEMCWYVLERYVYCITNRSHLTKEFQKESLSMDLELNGLESGNGDEEAVDREPRRLSSRRSVLTSPVANGVNLDYDGLGKTCRSLPSLKKTLAGDSSSDCSRGSHNGQVWDPQCAPRKDRQVHLTHFELEGLRCLVDKLESLPLHKKCVPTGIEDEDALIADVKILLEELANSDPKLALTGVPIVQWPKRDKLKFPTRPKVRVPTIPITKPHTMKPAPRLTPVRPAAASPIVSGARRRRVRCRKCKACVQGECGVCHYCRDMKKFGGPGRMKQSCVLRQCLAPRLPHSVTCSLCGEVDQNEETQDFEKKLMECCICNEIVHPGCLQMDGEGLLNEELPNCWECPKCYQEDSSEKAQKRKMEESDEEAVQAKVLRPLRSCDEPLTPPPHSPTSMLQLIHDPVSPRGMVTRSSPGAGPSDHHSASRDERFKRRQLLRLQATERTMVREKENNPSGKKELSEVEKAKIRGSYLTVTLQRPTKELHGTSIVPKLQAITASSANLRHSPRVLVQHCPARTPQRGDEEGLGGEEEEEEEEEEEDDSAEEGGAARLNGRGSWAQDGDESWMQREVWMSVFRYLSRRELCECMRVCKTWYKWCCDKRLWTKIDLSRCKAIVPQALSGIIKRQPVSLDLSWTNISKKQLTWLVNRLPGLKDLLLAGCSWSAVSALSTSSCPLLRTLDLRWAVGIKDPQIRDLLTPPADKPGQDNRSKLRNMTDFRLAGLDITDATLRLIIRHMPLLSRLDLSHCSHLTDQSSNLLTAVGSSTRYSLTELNMAGCNKLTDQTLIYLRRIANVTLIDLRGCKQITRKACEHFISDLSINSLYCLSDEKLIQKIS
+PTM	Acetylation:60,409,544,700,818,927,1029;Methylation:35,79,87,409,637,791,951;Phosphorylation:28,55,81,104,115,199,386,387,390,393,394,413,416,420,427,430,470,550,558,562,692,707,713,718,720,721,731,737,739,740,746,750,752,768,781,798,800,807,823,825,826,832,844,869,883,1024,1094,1095,1148;SUMOylation:505,518,544,601,688,700,784,791,818,939,951;Ubiquitylation:79,505,637,688,791,932,951,1015,1029

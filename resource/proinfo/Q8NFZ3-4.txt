@@ -1,0 +1,25 @@
+UniprotID	Q8NFZ3-4
+Accession	Q8NFZ3;F5H6W0;Q14D08;Q7Z3T5;Q8N5B6;Q9Y2F8
+EntryName	NLGNY_HUMAN
+ProteinName	Neuroligin-4, Y-linked (Neuroligin Y)
+GeneName	NLGN4Y KIAA0951
+Length	256
+Function	Cell surface protein involved in cell-cell-interactions via its interactions with neurexin family members.
+Subcellular Location	Cell membrane; Postsynaptic density membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRPQGLLWLPLLFTSVCVMLNSNVLLWITALAIKFTLIDSQAQYPVVNTNYGKIQGLRTPLPSEILGPVEQYLGVPYASPPTGERRFQPPESPSSWTGIRNATQFSAVCPQHLDERFLLHDMLPIWFTTSLDTLMTYVQDQNEDCLYLNIYVPMEDGTNIKRNADDITSNDHGEDKDIHEQNSKKPVMVYIHGGSYMEGTGNMIDGSILASYGNVIVITINYRLGILGMQEARLCGSSKMFNYFKSPFTNLINFF
+PTM	Methylation:35,219,421;Phosphorylation:745;Ubiquitylation:545

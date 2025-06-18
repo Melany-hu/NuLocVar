@@ -1,0 +1,25 @@
+UniprotID	Q04912-4
+Accession	Q04912;A0A087WZG2;B5A944;B5A945;B5A946;B5A947
+EntryName	RON_HUMAN
+ProteinName	Macrophage-stimulating protein receptor (MSP receptor) (EC 2.7.10.1) (CDw136) (Protein-tyrosine kinase 8) (p185-Ron) (CD antigen CD136) [Cleaved into: Macrophage-stimulating protein receptor alpha chain; Macrophage-stimulating protein receptor beta chain]
+GeneName	MST1R PTK8 RON
+Length	541
+Function	Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding to MST1 ligand. Regulates many physiological processes including cell survival, migration and differentiation. Ligand binding at the cell surface induces autophosphorylation of RON on its intracellular domain that provides docking sites for downstream signaling molecules. Following activation by ligand, interacts with the PI3-kinase subunit PIK3R1, PLCG1 or the adapter GAB1. Recruitment of these downstream effectors by RON leads to the activation of several signaling cascades including the RAS-ERK, PI3 kinase-AKT, or PLCgamma-PKC. RON signaling activates the wound healing response by promoting epithelial cell migration, proliferation as well as survival at the wound site. Also plays a role in the innate immune response by regulating the migration and phagocytic activity of macrophages. Alternatively, RON can also promote signals such as cell migration and proliferation in response to growth factors other than MST1 ligand.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELLPPLPQSFLLLLLLPAKPAAGEDWQCPRTPYAASRDFDVKYVVPSFSAGGLVQAMVTYEGDRNESAVFVAIRNRLHVLGPDLKSVQSLATGPAGDPGCQTCAACGPGPHGPPGDTDTKVLVLDPALPALVSCGSSLQGRCFLHDLEPQGTAVHLAAPACLFSAHHNRPDDCPDCVASPLGTRVTVVEQGQASYFYVASSLDAAVAASFSPRSVSIRRLKADASGFAPGFVALSVLPKHLVSYSIEYVHSFHTGAFVYFLTVQPASVTDDPSALHTRLARLSATEPELGDYRELVLDCRFAPKRRRRGAPEGGQPYPVLRVAHSAPVGAQLATELSIAEGQEVLFGVFVTGKDGGPGVGPNSVVCAFPIDLLDTLIDEGVERCCESPVHPGLRRGLDFFQSPSFCPNPVFQVPIQGPGCRHFLTCGRCLRAWHFMGCGWCGNMCGQQKECPGSWQQDHCPPKLTEFHPHSGPLRGSTRLTLCGSNFYLHPSGLVPEGTHQVTVGQSPCRPLPKDSSKLRYNLVPPLPFPEGGNQAAPSP
+PTM	Glycosylation:419,458,720,841;Methylation:874,1054,1090;Phosphorylation:217,956,1039,1041,1043,1056,1238,1239,1394,1400;Ubiquitylation:86,222,1054,1114,1183,1203,1223,1252

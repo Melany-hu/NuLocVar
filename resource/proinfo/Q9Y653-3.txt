@@ -1,0 +1,25 @@
+UniprotID	Q9Y653-3
+Accession	Q9Y653;A6NIT7;A6NJV9;B0M0K4;B4DR54;O95966;Q6ZMP1;Q8NGB3;Q96HB4
+EntryName	AGRG1_HUMAN
+ProteinName	Adhesion G-protein coupled receptor G1 (G-protein coupled receptor 56) (Protein TM7XN1) [Cleaved into: ADGRG1 N-terminal fragment (ADGRG1 NT) (GPR56 N-terminal fragment) (GPR56 NT) (GPR56(N)) (GPR56 extracellular subunit) (GPR56 subunit alpha); ADGRG1 C-terminal fragment (ADGRG1 CT) (GPR56 C-terminal fragment) (GPR56 CT) (GPR56(C)) (GPR56 seven-transmembrane subunit) (GPR56 7TM) (GPR56 subunit beta)]
+GeneName	ADGRG1 GPR56 TM7LN4 TM7XN1 UNQ540/PRO1083
+Length	692
+Function	Receptor involved in cell adhesion and probably in cell-cell interactions. Mediates cell matrix adhesion in developing neurons and hematopoietic stem cells. Receptor for collagen III/COL3A1 in the developing brain and involved in regulation of cortical development, specifically in maintenance of the pial basement membrane integrity and in cortical lamination (By similarity). Binding to the COL3A1 ligand inhibits neuronal migration and activates the RhoA pathway by coupling to GNA13 and possibly GNA12 (PubMed:22238662). Plays a role in the maintenance of hematopoietic stem cells and/or leukemia stem cells in bone marrow niche (By similarity). Plays a critical role in cancer progression by inhibiting VEGFA production thereby inhibiting angiogenesis through a signaling pathway mediated by PRKCA (PubMed:16757564, PubMed:21724588). Plays an essential role in testis development (By similarity).
+Subcellular Location	Cell membrane; Secreted; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPQSLLQTTLFLLSLLFLVQASASSGAHGRGHREDFRFCSQRNQTHRSSLHYKPTPDLRISIENSEEALTVHAPFPAAHPASRSFPDPRGLYHFCLYWNRHAGRLHLLYGKRDFLLSDKASSLLCFQHQEESLAQGPPLLATSVTSWWSPQNISLPSAASFTFSFHSPPHTAAHNASVDMCELKRDLQLLSQFLKHPQKASRRPSAAPASQQLQSLESKLTSVRFMGDMVSFEEDRINATVWKLQPTAGLQDLHIHSRQEEEQSEIMEYSVLLPRTLFQRTKGRSGEAEKRLLLVDFSSQALFQDKNSSQVLGEKVLGIVVQNTKVANLTEPVVLTFQHQLQPKNVTLQCVFWVEDPTLSSPGHWSSAGCETVRRETQTSCFCNHLTYFAVLMVSSVEVDAVHKHYLSLLSYVGCVVSALACLVTIAAYLCSRRKPRDYTIKVHMNLLLAVFLLDTSFLLSEPVALTGSEAGCRASAIFLHFSLLTCLSWMGLEGYNLYRLVVEVFGTYVPGYLLKLSAMGWGFPIFLVTLVALVDVDNYGPIILAVHRTPEGVIYPSMCWIRDSLVSYITNLGLFSLVFLFNMAMLATMVVQILRLRPHTQKWSHVLTLLGLSLVLGLPWALIFFSFASGTFQLVVLYLFSIITSFQGFLIFIWYWSMRLQARGGPSPLKSNSDSARLPISSGSTSSSRI
+PTM	Glycosylation:234,324;Methylation:215,302,311,518;Phosphorylation:187,201,206,211,670,674,676,678,684,685,687,688,689,690,691;SUMOylation:215;Ubiquitylation:673

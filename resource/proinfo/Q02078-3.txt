@@ -1,0 +1,25 @@
+UniprotID	Q02078-3
+Accession	Q02078;B4DFQ7;F6XG23;O43814;Q14223;Q14224;Q59GX4;Q7Z6C9;Q96D14
+EntryName	MEF2A_HUMAN
+ProteinName	Myocyte-specific enhancer factor 2A (Serum response factor-like protein 1)
+GeneName	MEF2A MEF2
+Length	497
+Function	Transcriptional activator which binds specifically to the MEF2 element, 5'-YTA(4)TAR-3', found in numerous muscle-specific genes. Also involved in the activation of numerous growth factor- and stress-induced genes. Mediates cellular functions not only in skeletal and cardiac muscle development, but also in neuronal differentiation and survival. Plays diverse roles in the control of cell growth, survival and apoptosis via p38 MAPK signaling in muscle-specific and/or growth factor-related transcription. In cerebellar granule neurons, phosphorylated and sumoylated MEF2A represses transcription of NUR77 promoting synaptic differentiation. Associates with chromatin to the ZNF16 promoter.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRKKIQITRIMDERNRQVTFTKRKFGLMKKAYELSVLCDCEIALIIFNSSNKLFQYASTDMDKVLLKYTEYNEPHESRTNSDIVEALNKKEHRGCDSPDPDTSYVLTPHTEEKYKKINEEFDNMMRNHKIAPGLPPQNFSMSVTVPVTSPNALSYTNPGSSLVSPSLAASSTLTDSSMLSPPQTTLHRNVSPGAPQRPPSTGNAGGMLSTTDLTVPNGAGSSPVGNGFVNSRASPNLIGATGANSLGKVMPTKSPPPPGGGNLGMNSRKPDLRVVIPPSSKGMMPPLNTQRISSSQATQPLATPVVSVTTPSLPPQGLVYSAMPTAYNTDYSLTSADLSALQGFNSPGMLSLGQVSAWQQHHLGQAALSSLVAGGQLSQGSNLSINTNQNISIKSEPISPPRDRMTPSGFQQQQQQQQQPPPPPQPQPQPPQPQPRQEMGRSPVDSLSSSSSSYDGSDREDPRGDFHSPIVLGRPPNTEDRESPSVKRMRMDAWVT
+PTM	Acetylation:249,498;Methylation:68,249;Phosphorylation:59,98,103,104,105,108,111,115,192,201,202,210,211,212,215,223,235,253,255,268,401,408,453,462,463,479,489,494,496;SUMOylation:90,117;Ubiquitylation:23,68

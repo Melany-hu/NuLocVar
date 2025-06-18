@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YXW2
+Accession	A0A0J9YXW2
+EntryName	A0A0J9YXW2_HUMAN
+ProteinName	Serpin family F member 1
+GeneName	SERPINF1
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRQQPLQFGQKGPRMQALVLLLCIGALLGHSSCQNPASPPEE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8IZU9-2
+Accession	Q8IZU9;Q3MIJ7;Q6UWJ9;Q6UWL5;Q96JG0
+EntryName	KIRR3_HUMAN
+ProteinName	Kin of IRRE-like protein 3 (Kin of irregular chiasm-like protein 3) (Nephrin-like protein 2) [Cleaved into: Processed kin of IRRE-like protein 3]
+GeneName	KIRREL3 KIAA1867 NEPH2 UNQ5923/PRO4502/PRO19814
+Length	600
+Function	Synaptic adhesion molecule required for the formation of target-specific synapses. Required for formation of target-specific synapses at hippocampal mossy fiber synapses. Required for formation of mossy fiber filopodia, the synaptic structures connecting dentate granule and GABA neurons. Probably acts as a homophilic adhesion molecule that promotes trans-cellular interactions and stabilize mossy fiber filipodia contact and subsequent synapse formation. Required for the coalescence of vomeronasal sensory neuron axons. May be involved in the hematopoietic supportive capacity of stroma cells; the secreted extracellular domain is directly responsible for supporting hematopoietic stem cells.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPFQLDLLFVCFFLFSQELGLQKRGCCLVLGYMAKDKFRRMNEGQVYSFSQQPQDQVVVSGQPVTLLCAIPEYDGFVLWIKDGLALGVGRDLSSYPQYLVVGNHLSGEHHLKILRAELQDDAVYECQAIQAAIRSRPARLTVLVPPDDPVILGGPVISLRAGDPLNLTCHADNAKPAASIIWLRKGEVINGATYSKTLLRDGKRESIVSTLFISPGDVENGQSIVCRATNKAIPGGKETSVTIDIQHPPLVNLSVEPQPVLEDNVVTFHCSAKANPAVTQYRWAKRGQIIKEASGEVYRTTVDYTYFSEPVSCEVTNALGSTNLSRTVDVYFGPRMTTEPQSLLVDLGSDAIFSCAWTGNPSLTIVWMKRGSGVVLSNEKTLTLKSVRQEDAGKYVCRAVVPRVGAGEREVTLTVNGPPIISSTQTQHALHGEKGQIKCFIRSTPPPDRIAWSWKENVLESGTSGRYTVETISTEEGVISTLTISNIVRADFQTIYNCTAWNSFGSDTEIIRLKEQGSEMKSGAGLEAESVPMAVIIGVAVGAGVAFLVLMATIVAFCCARSQRSTGGRSGISGRGTEKKARLRLPRRASKQECNEQGS
+PTM	Methylation:292,386,621;Phosphorylation:159,309,671;Ubiquitylation:568

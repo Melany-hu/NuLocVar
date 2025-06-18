@@ -1,0 +1,25 @@
+UniprotID	P22694-5
+Accession	P22694;B1APG4;B4DKB0;B4E2Q1;Q14VH1;Q59GC0;Q5BNE9;Q5BNF0;Q5BNF1;Q5BNF2;Q5BNF3;Q5CZ92;Q5T1K3;Q7Z3M1;Q8IYR5;Q8IZQ0;Q96B09
+EntryName	KAPCB_HUMAN
+ProteinName	cAMP-dependent protein kinase catalytic subunit beta (PKA C-beta) (EC 2.7.11.11)
+GeneName	PRKACB
+Length	354
+Function	Mediates cAMP-dependent signaling triggered by receptor binding to GPCRs (PubMed:12420224, PubMed:21423175, PubMed:31112131). PKA activation regulates diverse cellular processes such as cell proliferation, the cell cycle, differentiation and regulation of microtubule dynamics, chromatin condensation and decondensation, nuclear envelope disassembly and reassembly, as well as regulation of intracellular transport mechanisms and ion flux (PubMed:12420224, PubMed:21423175). Regulates the abundance of compartmentalized pools of its regulatory subunits through phosphorylation of PJA2 which binds and ubiquitinates these subunits, leading to their subsequent proteolysis (PubMed:12420224, PubMed:21423175). Phosphorylates GPKOW which regulates its ability to bind RNA (PubMed:21880142). Acts as a negative regulator of mTORC1 by mediating phosphorylation of RPTOR (PubMed:31112131).
+Subcellular Location	Cytoplasm; Cell membrane; Membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSARKSSDASACSSSEISVKEFLAKAKEDFLKKWENPTQNNAGLEDFERKKTLGTGSFGRVMLVKHKATEQYYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVRLEYAFKDNSNLYMVMEYVPGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYLHSLDLIYRDLKPENLLIDHQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAPEIILSKGYNKAVDWWALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRFPSHFSSDLKDLLRNLLQVDLTKRFGNLKNGVSDIKTHKWFATTDWIAIYQRKVEAPFIPKFRGSGDTSNFDDYEEEDIRVSITEKCAKEFGEF
+PTM	Acetylation:24,29,62,93,267,280,310,318,343;Methylation:22,29,77,214,255,280;Phosphorylation:11,54,69,70,140,157,165,180,184,196,198,202,205,260,263,264,322,326,331,339,341;Ubiquitylation:24,29,48,62,77,84,93,190,214,255,267,280,286,293,318

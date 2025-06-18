@@ -1,0 +1,25 @@
+UniprotID	Q8N5A5-2
+Accession	Q8N5A5;E1P5K1;Q4VXN9;Q5JWI9;Q5JWJ0;Q8NC55;Q8WUV4;Q96JI0;Q96JU4;Q9H401
+EntryName	ZGPAT_HUMAN
+ProteinName	Zinc finger CCCH-type with G patch domain-containing protein (G patch domain-containing protein 6) (Zinc finger CCCH domain-containing protein 9) (Zinc finger and G patch domain-containing protein)
+GeneName	ZGPAT GPATC6 GPATCH6 KIAA1847 ZC3H9 ZC3HDC9 ZIP
+Length	511
+Function	Transcription repressor that specifically binds the 5'-GGAGAA-3' consensus sequence. Represses transcription by recruiting the chromatin multiprotein complex NuRD to target promoters. Negatively regulates expression of EGFR, a gene involved in cell proliferation, survival and migration. Its ability to repress genes of the EGFR pathway suggest it may act as a tumor suppressor. Able to suppress breast carcinogenesis.
+Subcellular Location	Nucleus; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEESLESALQTYRAQLQQVELALGAGLDSSEQADLRQLQGDLKELIELTEASLVSVRKSSLLAALDEERPGRQEDAEYQAFREAITEAVEAPAAARGSGSETVPKAEAGPESAAGGQEEEEGEDEEELSGTKVSAPYYSSWGTLEYHNAMVVGTEEAEDGSAGVRVLYLYPTHKSLKPCPFFLEGKCRFKENCRFSHGQVVSLDELRPFQDPDLSSLQAGSACLAKHQDGLWHAARITDVDNGYYTVKFDSLLLREAVVEGDGILPPLRTEATESDSDSDGTGDSSYARVVGSDAVDSGTCSSAFAGWEVHTRGIGSRLLTKMGYEFGKGLGRHAEGRVEPIHAVVLPRGKSLDQCVETLQKQTRVGKAGTNKPPRCRGRGARPGGRPAPRNVFDFLNEKLQGQAPGALEAGAAPAGRRSKDMYHASKSAKRALSLRLFQTEEKIERTQRDIRSIQEALARNAGRHSVASAQLQEKLAGAQRQLGQLRAQEAGLQQEQRKADTHKKMTEF
+PTM	Methylation:106,133,187,343,370,383,401,404,497;Phosphorylation:101,217,271,274,276,278,280,283,286,373,456;SUMOylation:106,178,343,389,465,497;Ubiquitylation:106,350,372,383

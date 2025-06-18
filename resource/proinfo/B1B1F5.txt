@@ -1,0 +1,25 @@
+UniprotID	B1B1F5
+Accession	B1B1F5
+EntryName	B1B1F5_HUMAN
+ProteinName	GATOR complex protein NPRL3 (Nitrogen permease regulator 3-like protein)
+GeneName	NPRL3 C16orf35 Z69666.1-011
+Length	182
+Function	As a component of the GATOR1 complex functions as an inhibitor of the amino acid-sensing branch of the TORC1 pathway.
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDNTSPISVILVSSGSRGNKLLFRYPFQRSQEHPASQTSKPRSRYAASNTGDHADEQDGDSSEPCPPTDEQLVAGFSDVILATILATKSEMCGQKFELKIDNVRFVGHPTLLQHALGQISKTDPSPKREAPTMILFNVVFALRANADPSVINCLHNLSRRIATVLQHEERRCQYLTREAKL
+PTM	

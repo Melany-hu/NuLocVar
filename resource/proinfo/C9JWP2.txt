@@ -1,0 +1,25 @@
+UniprotID	C9JWP2
+Accession	C9JWP2
+EntryName	C9JWP2_HUMAN
+ProteinName	Pregnancy specific beta-1-glycoprotein 4
+GeneName	PSG4
+Length	252
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKHCPQQETSTIGGKKKHPEGGDPENSHIYRSLPPVPASLLNFWNPPTTAQVTIEAQPPKVSEGKDVLLLVHNLPQNLAGYIWYKGQMTYLYHYITSYVVDGQRIIYGPAYSGRERVYSNASLLIQNVTQEDAGSYTLHIIKRRDGTGGVTGHFTFTLHLETPKPSISSSNLNPREAMEAVILTCDPATPAASYQWWMNGQSLPMTHRLQLSKTNRTLFIFGVTKYIAGPYECEIRNPVSASRSDPVTLNLL
+PTM	

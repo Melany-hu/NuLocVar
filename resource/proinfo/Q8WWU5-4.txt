@@ -1,0 +1,25 @@
+UniprotID	Q8WWU5-4
+Accession	Q8WWU5;B2RCE9;B3KQ27;B7Z7B5;B7Z7G1;B7Z7H4;B7Z7S8;E7EP29;J3KNG1;Q8NF85;Q9NQZ9;Q9NR39
+EntryName	TCP11_HUMAN
+ProteinName	T-complex protein 11 homolog
+GeneName	TCP11
+Length	470
+Function	Plays a role in the process of sperm capacitation and acrosome reactions. Probable receptor for the putative fertilization-promoting peptide (FPP) at the sperm membrane that may modulate the activity of the adenylyl cyclase cAMP pathway.
+Subcellular Location	Membrane; Cell projection; Cilium; Flagellum; Cytoplasmic vesicle; Secretory vesicle; Acrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRGGGGGVLSVTGLTETVNEVSKLSNKIGMNCDYYMEEKVLPPSSLEGKVKETVHNAFWDHLKEQLSATPPDFSCALELLKEIKEILLSLLLPRQNRLRIEIEEALDMDLLKQEAEHGALKVLYLSKYVLNMMALLCAPVRDEAVQKLENITDPVWLLRGIFQVLGRMKMDMVNYTIQSLQPHLQEHSIQYERAKFQELLNKQPSLLNHTTKWLTQAAGDLTMSPPTCPDTSDSSSVAGPSPNEAANNPEPLSPTMVLCQGFLNLLLWDLENEEFPETLLMDRTRLQELKSQLHQLTVMASVLLVASSFSGSVLFGSPQFVDKLKRITKSLLEDFHSRPEEAILTVSEQVSQEIHQSLKNMGLVALSSDNTASLMGQLQNIAKKENCVCSVIDQRIHLFLKCCLVLGVQRSLLDLPGGLTLIEAELAELGQKFVNLTHHNQQVFGPYYTEILKTLISPAQALETKVESV
+PTM	Methylation:115,146,181,236,324,417,466,487

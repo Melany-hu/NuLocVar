@@ -1,0 +1,25 @@
+UniprotID	C9JD91
+Accession	C9JD91
+EntryName	C9JD91_HUMAN
+ProteinName	Protein tyrosine phosphatase non-receptor type 23
+GeneName	PTPN23
+Length	169
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAVPRMPMIWLDLKEAGDFHFQPAVKKNAVRVPRDFEGCSVLRKYLGQLHYLQSRVPMGSGQEAAVPVTWTEIFSGKSVAHEDIKYEQACILYNLGALHSMLGAMDKRVSEECAAGAFAYLREHFPQAYSVDMSRQILTLNVNLMLGQAQECLLEKSMLDNRKSFLVA
+PTM	

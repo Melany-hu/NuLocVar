@@ -1,0 +1,25 @@
+UniprotID	P01106-3
+Accession	P01106;A0A024R9L7;A0A087WUS5;A8WFE7;H0YBT0;P01107;Q14026
+EntryName	MYC_HUMAN
+ProteinName	Myc proto-oncogene protein (Class E basic helix-loop-helix protein 39) (bHLHe39) (Proto-oncogene c-Myc) (Transcription factor p64)
+GeneName	MYC BHLHE39
+Length	453
+Function	Transcription factor that binds DNA in a non-specific manner, yet also specifically recognizes the core sequence 5'-CACTG-3' (PubMed:24940000, PubMed:25956029). Activates the transcription of growth-related genes (PubMed:24940000, PubMed:25956029). Binds to the VEGFA promoter, promoting VEGFA production and subsequent sprouting angiogenesis (PubMed:24940000, PubMed:25956029). Regulator of somatic reprogramming, controls self-renewal of embryonic stem cells (By similarity). Functions with TAF6L to activate target gene expression through RNA polymerase II pause release (By similarity). Positively regulates transcription of HNRNPA1, HNRNPA2 and PTBP1 which in turn regulate splicing of pyruvate kinase PKM by binding repressively to sequences flanking PKM exon 9, inhibiting exon 9 inclusion and resulting in exon 10 inclusion and production of the PKM M2 isoform (PubMed:20010808).
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus; Nucleolus; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFFRVVENQPPATMPLNVSFTNRNYDLDYDSVQPYFYCDEEENFYQQQQQSELQPPAPSEDIWKKFELLPTPPLSPSRRSGLCSPSYVAVTPFSLRGDNDGGGGSFSTADQLEMVTELLGGDMVNQSFICDPDDETFIKNIIIQDCMWSGFSAAAKLVSEKLASYQAARKDSGSPNPARGHSVCSTSSLYLQDLSAAASECIDPSVVFPYPLNDSSSPKSCASQDSSAFSPSSDSLLSSTESSPQGSPEPLVLHEETPPTTSSDSEEEQEDEEEIDVVSVEKRQAPGKRSESGSPSAGGHSKPPHSPLVLKRCHVSTHQHNYAAPPSTRKDYPAAKRVKLDSVRVLRQISNNRKCTSPRSSDTEENVKRRTHNVLERQRRNELKRSFFALRDQIPELENNEKAPKVVILKKATAYILSVQAEEQKLISEEDLLRKRREQLKHKLEQLRNSCA
+PTM	Acetylation:148,157,275,323;Methylation:275,298,355,371,397,422;Phosphorylation:6,8,58,62,64,67,71,73,74,78,81,151,161,203,204,277,279,281,283,288,293,309,314,315,329,337,343,344,347,348,350,415;SUMOylation:52,143,148,157,275,289,298,317,323,326,341,355,389,392,397,398,412,430;Ubiquitylation:51,52,143,148,157,317,323,326,355,389,392,397,398,412,428,430

@@ -1,0 +1,25 @@
+UniprotID	F8VWP7
+Accession	F8VWP7
+EntryName	F8VWP7_HUMAN
+ProteinName	Calcyphosine 2
+GeneName	CAPS2
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDKLKKDLCYDQNIIPENLPAPTDKCKLKYQQCKTEIKEGYKQYSQRNAENTKSNVTHKQSPRNKIDEKCVQDEEANTDDLTTLDRKAILQQGYADNSCDKQQRARKLDAEIVAAEKKKQIVAEQVMIDHLSRAVISDPEQNLAIEQKESDHILPDSKMTPLRFRKRTLHETKIRTHSTLTENVLS
+PTM	

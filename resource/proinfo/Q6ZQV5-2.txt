@@ -1,0 +1,25 @@
+UniprotID	Q6ZQV5-2
+Accession	Q6ZQV5;A0A0A0MSK0;M0R3I2;Q6ZRE4
+EntryName	ZN788_HUMAN
+ProteinName	Putative KRAB domain-containing protein ZNF788 (Zinc finger family member 788, pseudogene)
+GeneName	ZNF788P ZNF788
+Length	62
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSVAFEDVAVNFTPDEWALLDPSQKNLYREVMQETLRNLASIEVLWKRDSLKVKVISMEKF
+PTM	Phosphorylation:71,78

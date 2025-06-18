@@ -1,0 +1,25 @@
+UniprotID	Q96MS3-2
+Accession	Q96MS3;Q86XG8
+EntryName	GL1D1_HUMAN
+ProteinName	Glycosyltransferase 1 domain-containing protein 1 (EC 2.4.-.-)
+GeneName	GLT1D1
+Length	266
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLFLAVLRPHTGNAVTAQRVRAHLEAAGHVCVLKDAFDFESRSEIANLILAENCEAALALHLYRGGRLLQGHRIPFGVIFGGTDVNEDANQAEKNTVMGRVLEEARFAVAFTESMKEMAQAQWVDPVFTREVKAKVKRAAGVRLIGEMPQEDLHAVVKNCFAVVNSSVSEGMSAAILEAMDLEVPVLARNIPGNAAVVKHEVTGLLFSNPQEFVHLAKRLVSDPALEKEIVVNGREYVRMYHSWQVERDTYQQLIRKLEGSTED
+PTM	Methylation:36,310;Phosphorylation:116,332,333

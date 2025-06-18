@@ -1,0 +1,25 @@
+UniprotID	C9J3S3
+Accession	C9J3S3
+EntryName	C9J3S3_HUMAN
+ProteinName	Galactose-3-O-sulfotransferase 1
+GeneName	GAL3ST1
+Length	163
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPPQKKPWESMAKGLVLGALFTSFLLLVYSYAVPPLHAGLASTRTPEAAASCSPPALEPEAVIRANGSAGECQPRRNIVFLKTHKTASSTLLNILFRFGQKHRLKFAFPNGRNDFDYPTFFARSLVQDYRPGACFNIICNHMRFHYDEVRGLVPTNAIFITV
+PTM	

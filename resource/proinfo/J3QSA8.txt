@@ -1,0 +1,25 @@
+UniprotID	J3QSA8
+Accession	J3QSA8
+EntryName	J3QSA8_HUMAN
+ProteinName	Protein interacting with cyclin A1
+GeneName	PROCA1
+Length	41
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVRTTLTIERWTKEKTEPKARSWDESRCRGAKATDLSLWQ
+PTM	

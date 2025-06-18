@@ -1,0 +1,25 @@
+UniprotID	H0YND2
+Accession	H0YND2
+EntryName	H0YND2_HUMAN
+ProteinName	Testis expressed 9
+GeneName	TEX9
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQSQVEKYKTLFEEANKKYDGLQQQLSSVERELENKRRLQKQAASSQSATEVRLNRALEEAEKYKLELSKLRQNNKMHIEAAKMLSFTEEEFMKALEWGNS
+PTM	

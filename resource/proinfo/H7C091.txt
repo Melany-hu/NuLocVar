@@ -1,0 +1,25 @@
+UniprotID	H7C091
+Accession	H7C091
+EntryName	H7C091_HUMAN
+ProteinName	Ribokinase
+GeneName	RBKS
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNVISRAKVMVCQLEITPATSLEALTMARRSGVKTLFNPAPAIADLDPQFYTLSDVFCCNESEAEILTGLTVGSAADAGEAALVLLKRGCQVVIITLGAEGCVVLSQTEPEPKHIPTEKVKAVDTTCRPGSRPKSEAASVKKQKHYK
+PTM	

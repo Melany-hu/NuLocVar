@@ -1,0 +1,25 @@
+UniprotID	Q9NPA1-3
+Accession	Q9NPA1;B7Z9C9;D3DNR2;E9PER5;Q9NPG7;Q9NRM9;Q9UHN3
+EntryName	KCMB3_HUMAN
+ProteinName	Calcium-activated potassium channel subunit beta-3 (BK channel subunit beta-3) (BKbeta3) (Hbeta3) (Calcium-activated potassium channel, subfamily M subunit beta-3) (Charybdotoxin receptor subunit beta-3) (K(VCA)beta-3) (Maxi K channel subunit beta-3) (Slo-beta-3)
+GeneName	KCNMB3 KCNMB2 KCNMBL
+Length	275
+Function	Regulatory subunit of the calcium activated potassium KCNMA1 (maxiK) channel. Modulates the calcium sensitivity and gating kinetics of KCNMA1, thereby contributing to KCNMA1 channel diversity. Alters the functional properties of the current expressed by the KCNMA1 channel. Isoform 2, isoform 3 and isoform 4 partially inactivate the current of KCNBMA. Isoform 4 induces a fast and incomplete inactivation of KCNMA1 channel that is detectable only at large depolarizations. In contrast, isoform 1 does not induce detectable inactivation of KCNMA1. Two or more subunits of KCNMB3 are required to block the KCNMA1 tetramer.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPLLYELTAVSPSPFPQRTAFPASGKKRETDYSDGDPLDVHKRLPSSAGEDRAVMLGFAMMGFSVLMFFLLGTTILKPFMLSIQREESTCTAIHTDIMDDWLDCAFTCGVHCHGQGKYPCLQVFVNLSHPGQKALLHYNEEAVQINPKCFYTPKCHQDRNDLLNSALDIKEFFDHKNGTPFSCFYSPASQSEDVILIKKYDQMAIFHCLFWPSLTLLGGALIVGMVRLTQHLSLLCEKYSTVVRDEVGGKVPYIEQHQFKLCIMRRSKGRAEKS
+PTM	Methylation:122,153,175,203;Phosphorylation:87

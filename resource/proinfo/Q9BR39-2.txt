@@ -1,0 +1,25 @@
+UniprotID	Q9BR39-2
+Accession	Q9BR39;E1P5X1;O95913;Q5JY74;Q9UJN4
+EntryName	JPH2_HUMAN
+ProteinName	Junctophilin-2 (JP-2) (Junctophilin type 2) [Cleaved into: Junctophilin-2 N-terminal fragment (JP2NT)]
+GeneName	JPH2 JP2
+Length	129
+Function	Membrane-binding protein that provides a structural bridge between the plasma membrane and the sarcoplasmic reticulum and is required for normal excitation-contraction coupling in cardiomyocytes (PubMed:20095964). Provides a structural foundation for functional cross-talk between the cell surface and intracellular Ca(2+) release channels by maintaining the 12-15 nm gap between the sarcolemma and the sarcoplasmic reticulum membranes in the cardiac dyads (By similarity). Necessary for proper intracellular Ca(2+) signaling in cardiac myocytes via its involvement in ryanodine receptor-mediated calcium ion release (By similarity). Contributes to the construction of skeletal muscle triad junctions (By similarity).
+Subcellular Location	Cell membrane; Sarcoplasmic reticulum membrane; Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	351..365;495..499
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGGRFDFDDGGAYCGGWEGGKAHGHGLCTGPKGQGEYSGSWNFGFEVAGVYTWPSGNTFEGYWSQGKRHGLGIETKGRWLYKGEWTHGFKGRYGIRQSSSSGAKYEGTWNNGLQDGYGTETYADGGMC
+PTM	Acetylation:647,651;Methylation:83,229,250,348,435,651;Phosphorylation:141,157,161,162,164,165,179,182,192,235,237,238,241,247,448,469,477,484,486,490,508,525,527,534,555,563,573,574,592,618;Ubiquitylation:435

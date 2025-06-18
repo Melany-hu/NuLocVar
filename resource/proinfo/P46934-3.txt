@@ -1,0 +1,25 @@
+UniprotID	P46934-3
+Accession	P46934;A1KY35;A6ND72;A7MD29;B4E2R7;B7ZM59;B7ZM60;B9EGN5;D6RF89
+EntryName	NEDD4_HUMAN
+ProteinName	E3 ubiquitin-protein ligase NEDD4 (EC 2.3.2.26) (Cell proliferation-inducing gene 53 protein) (HECT-type E3 ubiquitin transferase NEDD4) (Neural precursor cell expressed developmentally down-regulated protein 4) (NEDD-4)
+GeneName	NEDD4 KIAA0093 NEDD4-1 RPF1 PIG53
+Length	1247
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Specifically ubiquitinates 'Lys-63' in target proteins (PubMed:19920177, PubMed:21399620, PubMed:23644597). Involved in the pathway leading to the degradation of VEGFR-2/KDFR, independently of its ubiquitin-ligase activity. Monoubiquitinates IGF1R at multiple sites, thus leading to receptor internalization and degradation in lysosomes (By similarity). Ubiquitinates FGFR1, leading to receptor internalization and degradation in lysosomes (PubMed:21765395). Promotes ubiquitination of RAPGEF2 (PubMed:11598133). According to PubMed:18562292 the direct link between NEDD4 and PTEN regulation through polyubiquitination described in PubMed:17218260 is questionable. Involved in ubiquitination of ERBB4 intracellular domain E4ICD (By similarity). Part of a signaling complex composed of NEDD4, RAP2A and TNIK which regulates neuronal dendrite extension and arborization during development (By similarity). Ubiquitinates TNK2 and regulates EGF-induced degradation of EGFR and TNF2 (PubMed:20086093). Ubiquitinates BRAT1 and this ubiquitination is enhanced in the presence of NDFIP1 (PubMed:25631046). Ubiquitinates DAZAP2, leading to its proteasomal degradation (PubMed:11342538). Ubiquitinates POLR2A (PubMed:19920177). Functions as a platform to recruit USP13 to form an NEDD4-USP13 deubiquitination complex that plays a critical role in cleaving the 'Lys-48'-linked ubiquitin chains of VPS34 and then stabilizing VPS34, thus promoting the formation of autophagosomes (PubMed:32101753).
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	716..726
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	36...40
+validnes_region	
+nesbase_region	
+Sequence	MAQSLRLHFAARRSNTYPLSETSGDDLDSHVHMCFKRPTRISTSNVVQMKLTPRQTALAPLIKENVQSQERSSVPSSENVNKKSSCLQISLQPTRYSGYLQSSNVLADSDDASFTCILKDGIYSSAVVDNELNAVNDGHLVSSPAICSGSLSNFSTSDNGSYSSNGSDFGSCASITSGGSYTNSVISDSSSYTFPPSDDTFLGGNLPSDSTSNRSVPNRNTTPCEIFSRSTSTDPFVQDDLEHGLEIMKLPVSRNTKIPLKRYSSLVIFPRSPSTTRPTSPTSLCTLLSKGSYQTSHQFIISPSEIAHNEDGTSAKGFLSTAVNGLRLSKTICTPGEVRDIRPLHRKGSLQKKIVLSNNTPRQTVCEKSSEGYSCVSVHFTQRKAATLDCETTNGDCKPEMSEIKLNSDSEYIKLMHRTSACLPSSQNVDCQININGELERPHSQMNKNHGILRRSISLGGAYPNISCLSSLKHNCSKGGPSQLLIKFASGNEGKVDNLSRDSNRDCTNELSNSCKPGWVVLDQPDAACHLQQQQEPSPLPPGWEERQDILGRTYYVNHESRRTQWKRPTPQDNLTDAENGNIQLQAQRAFTTRRQISEETESVDNRESSENWEIIREDEATMYSNQAFPSPPPSSNLDVPTHLAEELNARLTIFGNSAVSQPASSSNHSSRRGSLQAYTFEEQPTLPVLLPTSSGLPPGWEEKQDERGRSYYVDHNSRTTTWTKPTVQATVETSQLTSSQSSAGPQSQASTSDSGQQVTQPSEIEQGFLPKGWEVRHAPNGRPFFIDHNTKTTTWEDPRLKIPAHLRGKTSLDTSNDLGPLPPGWEERTHTDGRIFYINHNIKRTQWEDPRLENVAITGPAVPYSRDYKRKYEFFRRKLKKQNDIPNKFEMKLRRATVLEDSYRRIMGVKRADFLKARLWIEFDGEKGLDYGGVAREWFFLISKEMFNPYYGLFEYSATDNYTLQINPNSGLCNEDHLSYFKFIGRVAGMAVYHGKLLDGFFIRPFYKMMLHKPITLHDMESVDSEYYNSLRWILENDPTELDLRFIIDEELFGQTHQHELKNGGSEIVVTNKNKKEYIYLVIQWRFVNRIQKQMAAFKEGFFELIPQDLIKIFDENELELLMCGLGDVDVNDWREHTKYKNGYSANHQVIQWFWKAVLMMDSEKRIRLLQFVTGTSRVPMNGFAELYGSNGPQSFTVEQWGTPEKLPRAHTCFNRLDLPPYESFEELWDKLQMAIENTQGFDGVD
+PTM	Acetylation:566,961;Methylation:290,487,989,1017,1069,1135,1172,1185,1304;Phosphorylation:52,265,289,410,412,456,458,463,467,470,670,725,730,733,737,738,739,742,743,747,751,758,884,888;SUMOylation:882;Ubiquitylation:63,398,495,516,546,639,864,874,882,916,942,989,1000,1146

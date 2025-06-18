@@ -1,0 +1,25 @@
+UniprotID	K7EQG4
+Accession	K7EQG4
+EntryName	K7EQG4_HUMAN
+ProteinName	FXYD domain-containing ion transport regulator
+GeneName	FXYD1
+Length	115
+Function	Associates with and regulates the activity of the sodium/potassium-transporting ATPase (NKA) which transports Na(+) out of the cell and K(+) into the cell. Inhibits NKA activity in its unphosphorylated state and stimulates activity when phosphorylated. Reduces glutathionylation of the NKA beta-1 subunit ATP1B1, thus reversing glutathionylation-mediated inhibition of ATP1B1. Contributes to female sexual development by maintaining the excitability of neurons which secrete gonadotropin-releasing hormone.
+Subcellular Location	Apical cell membrane; Cell membrane; Sarcolemma; T-tubule; Cell membrane; Sarcolemma; Membrane; Caveola
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFCVGLLTMAKAESPKEHDPFTYDYQSLQIGGLVIAGILFILGILIVLTPPLARASWSYSAAWRPPGGSLSFSYLSTPTGRRCRCKFNQQQRTGEPDEEEGTFRSSIRRLSTRRR
+PTM	

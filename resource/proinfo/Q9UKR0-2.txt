@@ -1,0 +1,25 @@
+UniprotID	Q9UKR0-2
+Accession	Q9UKR0;Q9UKR1;Q9UKR2
+EntryName	KLK12_HUMAN
+ProteinName	Kallikrein-12 (EC 3.4.21.-) (Kallikrein-like protein 5) (KLK-L5)
+GeneName	KLK12 KLKL5 UNQ669/PRO1303
+Length	254
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSIFLLLCVLGLSQAATPKIFNGTECGRNSQPWQVGLFEGTSLRCGGVLIDHRWVLTAAHCSGSRYWVRLGEHSLSQLDWTEQIRHSGFSVTHPGYLGASTSHEHDLRLLRLRLPVRVTSSVQPLPLPNDCATAGTECHVSGWGITNHPRNPFPDLLQCLNLSIVSHATCHGVYPGRITSNMVCAGGVPGQDACQGDSGGPLVCGGVLQGLVSWGSVGPCGQDGIPGVYTYICNSTLVGLGTSWNFNSCQPF
+PTM	Phosphorylation:19

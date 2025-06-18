@@ -1,0 +1,25 @@
+UniprotID	O43826-2
+Accession	O43826;O96016;Q5J7V4;Q9UI19;Q9UNS4
+EntryName	G6PT1_HUMAN
+ProteinName	Glucose-6-phosphate exchanger SLC37A4 (Glucose-5-phosphate transporter) (Glucose-6-phosphate translocase) (Solute carrier family 37 member 4) (Transformation-related gene 19 protein) (TRG-19)
+GeneName	SLC37A4 G6PT G6PT1 PRO0685 TRG19
+Length	451
+Function	Inorganic phosphate and glucose-6-phosphate antiporter of the endoplasmic reticulum. Transports cytoplasmic glucose-6-phosphate into the lumen of the endoplasmic reticulum and translocates inorganic phosphate into the opposite direction (PubMed:33964207). Forms with glucose-6-phosphatase the complex responsible for glucose production through glycogenolysis and gluconeogenesis. Hence, it plays a central role in homeostatic regulation of blood glucose levels.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAQGYGYYRTVIFSAMFGGYSLYYFNRKTFSFVMPSLVEEIPLDKDDLGFITSSQSAAYAISKFVSGVLSDQMSARWLFSSGLLLVGLVNIFFAWSSTVPVFAALWFLNGLAQGLGWPPCGKVLRKWFEPSQFGTWWAILSTSMNLAGGLGPILATILAQSYSWRSTLALSGALCVVVSFLCLLLIHNEPADVGLRNLDPMPSEGKKGSLKEESTLQELLLSPYLWVLSTGYLVVFGVKTCCTDWGQFFLIQEKGQSALVGSSYMSALEVGGLVGSIAAGYLSDRAMAKAGLSNYGNPRHGLLLFMMAGMTVSMYLFRVTVTSDSPKDVAFWTLALHPLAELTGFTEHELWILVLGAVFGFSSYGPIALFGVIANESAPPNLCGTSHAIVGLMANVGGFLAGLPFSTIAKHYSWSTAFWVAEVICAASTAAFFLLRNIRTKMGRVSKKAE
+PTM	Methylation:127,255,290,328;Ubiquitylation:207,290

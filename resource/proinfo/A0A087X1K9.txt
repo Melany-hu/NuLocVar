@@ -1,0 +1,25 @@
+UniprotID	A0A087X1K9
+Accession	A0A087X1K9
+EntryName	A0A087X1K9_HUMAN
+ProteinName	Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase)
+GeneName	LYPLA1
+Length	166
+Function	Acts as an acyl-protein thioesterase. Hydrolyzes fatty acids from S-acylated cysteine residues in proteins such as trimeric G alpha proteins or HRAS. Acts as a palmitoyl thioesterase that catalyzes depalmitoylation of proteins, such as ADRB2, KCNMA1 and SQSTM1. Acts as a negative regulator of autophagy by mediating palmitoylation of SQSTM1, decreasing affinity between SQSTM1 and ATG8 proteins and recruitment of ubiquitinated cargo proteins to autophagosomes. Acts as a lysophospholipase and hydrolyzes lysophosphatidylcholine (lyso-PC). Also hydrolyzes lysophosphatidylethanolamine (lyso-PE), lysophosphatidylinositol (lyso-PI) and lysophosphatidylserine (lyso-PS). Has much higher thioesterase activity than lysophospholipase activity. Contributes to the production of lysophosphatidic acid (LPA) during blood coagulation by recognizing and cleaving plasma phospholipids to generate lysophospholipids which in turn act as substrates for ENPP2 to produce LPA.
+Subcellular Location	Cell membrane; Cytoplasm; Endoplasmic reticulum; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNVAMPSWFDIIGLSPDSQEDESGIKQAAENIKALIDQEVKNGIPSNRIILGGFSQGGALSLYTALTTQQKLAGVTALSCWLPLRASFPQGPIGGANRDISILQCHGDCDPLVPLMFGSLTVEKLKTLVNPANVTFKTYEGMMHSSCQQEMMDVKQFIDKLLPPID
+PTM	

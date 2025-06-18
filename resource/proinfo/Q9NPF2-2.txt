@@ -1,0 +1,25 @@
+UniprotID	Q9NPF2-2
+Accession	Q9NPF2;A8K4F8;Q9NXY6;Q9NY36
+EntryName	CHSTB_HUMAN
+ProteinName	Carbohydrate sulfotransferase 11 (EC 2.8.2.5) (Chondroitin 4-O-sulfotransferase 1) (Chondroitin 4-sulfotransferase 1) (C4S-1) (C4ST-1) (C4ST1)
+GeneName	CHST11
+Length	347
+Function	Catalyzes the transfer of sulfate to position 4 of the N-acetylgalactosamine (GalNAc) residue of chondroitin. Chondroitin sulfate constitutes the predominant proteoglycan present in cartilage and is distributed on the surfaces of many cells and extracellular matrices. Can also sulfate Gal residues in desulfated dermatan sulfate. Preferentially sulfates in GlcA->GalNAc unit than in IdoA->GalNAc unit. Does not form 4, 6-di-O-sulfated GalNAc when chondroitin sulfate C is used as an acceptor.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	214...218
+validnes_region	
+nesbase_region	
+Sequence	MKPALLEVMRMNRICRMVLATCLGSFILVIFYFQIMRRNPFGVDICCRKGSRSPLQELYNPIQLELSNTAVLHQMRRDQVTDTCRANSATSRKRRVLTPNDLKHLVVDEDHELIYCYVPKVACTNWKRLMMVLTGRGKYSDPMEIPANEAHVSANLKTLNQYSIPEINHRLKSYMKFLFVREPFERLVSAYRNKFTQKYNISFHKRYGTKIIKRQRKNATQEALRKGDDVKFEEFVAYLIDPHTQREEPFNEHWQTVYSLCHPCHIHYDLVGKYETLEEDSNYVLQLAGVGSYLKFPTYAKSTRTTDEMTTEFFQNISSEHQTQLYEVYKLDFLMFNYSVPSYLKLE
+PTM	Glycosylation:205,223,225;Methylation:162;Ubiquitylation:2

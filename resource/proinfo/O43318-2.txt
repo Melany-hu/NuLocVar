@@ -1,0 +1,25 @@
+UniprotID	O43318-2
+Accession	O43318;B2RE27;E1P523;O43317;O43319;Q5TDN2;Q5TDN3;Q5TDT7;Q9NTR3;Q9NZ70
+EntryName	M3K7_HUMAN
+ProteinName	Mitogen-activated protein kinase kinase kinase 7 (EC 2.7.11.25) (Transforming growth factor-beta-activated kinase 1) (TGF-beta-activated kinase 1)
+GeneName	MAP3K7 TAK1
+Length	579
+Function	Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway (PubMed:10094049, PubMed:11460167, PubMed:12589052, PubMed:16845370, PubMed:16893890, PubMed:21512573, PubMed:8663074, PubMed:9079627). Plays an important role in the cascades of cellular responses evoked by changes in the environment (PubMed:10094049, PubMed:11460167, PubMed:12589052, PubMed:16845370, PubMed:16893890, PubMed:21512573, PubMed:8663074, PubMed:9079627). Mediates signal transduction of TRAF6, various cytokines including interleukin-1 (IL-1), transforming growth factor-beta (TGFB), TGFB-related factors like BMP2 and BMP4, toll-like receptors (TLR), tumor necrosis factor receptor CD40 and B-cell receptor (BCR) (PubMed:16893890, PubMed:9079627). Once activated, acts as an upstream activator of the MKK/JNK signal transduction cascade and the p38 MAPK signal transduction cascade through the phosphorylation and activation of several MAP kinase kinases like MAP2K1/MEK1, MAP2K3/MKK3, MAP2K6/MKK6 and MAP2K7/MKK7 (PubMed:11460167, PubMed:8663074). These MAP2Ks in turn activate p38 MAPKs and c-jun N-terminal kinases (JNKs); both p38 MAPK and JNK pathways control the transcription factors activator protein-1 (AP-1) (PubMed:11460167, PubMed:12589052, PubMed:8663074). Independently of MAP2Ks and p38 MAPKs, acts as a key activator of NF-kappa-B by promoting activation of the I-kappa-B-kinase (IKK) core complex (PubMed:12589052, PubMed:8663074). Mechanistically, recruited to polyubiquitin chains of RIPK2 and IKBKG/NEMO via TAB2/MAP3K7IP2 and TAB3/MAP3K7IP3, and catalyzes phosphorylation and activation of IKBKB/IKKB component of the IKK complex, leading to NF-kappa-B activation (PubMed:10094049, PubMed:11460167). In osmotic stress signaling, plays a major role in the activation of MAPK8/JNK1, but not that of NF-kappa-B (PubMed:16893890). Promotes TRIM5 capsid-specific restriction activity (PubMed:21512573). Phosphorylates RIPK1 at 'Ser-321' which positively regulates RIPK1 interaction with RIPK3 to promote necroptosis but negatively regulates RIPK1 kinase activity and its interaction with FADD to mediate apoptosis (By similarity). Phosphorylates STING1 in response to cGAMP-activation, promoting association between STEEP1 and STING1 and STING1 translocation to COPII vesicles (PubMed:37832545).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTASAASSSSSSSAGEMIEAPSQVLNFEEIDYKEIEVEEVVGRGAFGVVCKAKWRAKDVAIKQIESESERKAFIVELRQLSRVNHPNIVKLYGACLNPVCLVMEYAEGGSLYNVLHGAEPLPYYTAAHAMSWCLQCSQGVAYLHSMQPKALIHRDLKPPNLLLVAGGTVLKICDFGTACDIQTHMTNNKGSAAWMAPEVFEGSNYSEKCDVFSWGIILWEVITRRKPFDEIGGPAFRIMWAVHNGTRPPLIKNLPKPIESLMTRCWSKDPSQRPSMEEIVKIMTHLMRYFPGADEPLQYPCQYSDEGQSNSATSTGSFMDIASTNTSNKSDTNMEQVPATNDTIKRLESKLLKNQAKQQSESGRLSLGASRGSSVESLPPTSEGKRMSADMSEIEARIAATTGNGQPRRRSIQDLTVTGTEPGQVSSRSSSPSVRMITTSGPTSEKPTRSHPWTPDDSTDTNGSDNSIPMAYLTLDHQLQPLAPCPNSKESMAVFEQHCKMAQEYMKVQTEIALLLQRKQELVAELDQDEKDQQNTSRLVQEHKKLLDENKSLSTYYQQCKKQLEVIRSQQQKRQGTS
+PTM	Acetylation:474;Glycosylation:383,446,578;Methylation:91,257,282,346,351;Phosphorylation:69,331,333,361,367,371,374,375,378,382,383,389,393,415,417,430,439,444,446,448,454,455,457,458,459,461,466,467,468,471,472,476,516,580;Ubiquitylation:52,346,351,386,407,572,579,589,590

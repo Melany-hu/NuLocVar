@@ -1,0 +1,25 @@
+UniprotID	F2Z2F0
+Accession	F2Z2F0
+EntryName	F2Z2F0_HUMAN
+ProteinName	HemK methyltransferase family member 1
+GeneName	HEMK1
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELWGRMLWALLSGPGRRGSTRGWAFSSWQPQPPLAGLSSAIELVSHWTGVFEKRGIPEARESISEPEAGTLDPALDLSATTVYPGAE
+PTM	

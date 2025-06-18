@@ -1,0 +1,25 @@
+UniprotID	Q15038-2
+Accession	Q15038;A8K254;B4DDT5;B4E1G3;C9JA96;C9JP84;E9PB45;F8VU62
+EntryName	DAZP2_HUMAN
+ProteinName	DAZ-associated protein 2 (Deleted in azoospermia-associated protein 2) (Proline-rich transcript in brain protein)
+GeneName	DAZAP2 KIAA0058 PRTB
+Length	153
+Function	In unstressed cells, promotes SIAH1-mediated polyubiquitination and degradation of the serine/threonine-protein kinase HIPK2, probably by acting as a loading factor that potentiates complex formation between HIPK2 and ubiquitin ligase SIAH1 (PubMed:33591310). In response to DNA damage, localizes to the nucleus following phosphorylation by HIPK2 and modulates the expression of a subset of TP53/p53 target genes by binding to TP53 at target gene promoters (PubMed:33591310). This limits the expression of a number of cell death-mediating TP53 target genes, reducing DNA damage-induced cell death (PubMed:33591310). Enhances the binding of transcription factor TCF7L2/TCF4, a Wnt signaling pathway effector, to the promoters of target genes (By similarity). Plays a role in stress granule formation (PubMed:17984221).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus speckle; Nucleus; Nuclear body; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSKGQYPTQPTYPVQPPGNPVYPQTLHLPQAPPYTDAPPAYSELYRPSFVHPGAATVPTMSAAFPGASLYLPMAQSVAVGPLGSTIPMAYYPVGPIYPPGSTVLVEGGYDAGARFGAGATAGNIPVKEDQDHDREQGEEDNGDNNLERRGKM
+PTM	Phosphorylation:165;SUMOylation:153;Ubiquitylation:153

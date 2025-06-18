@@ -1,0 +1,25 @@
+UniprotID	Q8TC41-2
+Accession	Q8TC41;H7C5V4;Q5TCA4;Q9BX48
+EntryName	RN217_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF217 (EC 2.3.2.31) (IBR domain-containing protein 1) (Opposite STL) (RING finger protein 217)
+GeneName	RNF217 C6orf172 IBRDC1 OSTL
+Length	275
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from E2 ubiquitin-conjugating enzymes in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Mediates the degradation of the iron exporter ferroportin/SLC40A1 and thus regulates iron homeostasis.
+Subcellular Location	Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVQLGQVEIKCPITECFEFLEETTVVYNLTHEDSIKYKYFLELGRIDSSTKPCPQCKHFTTFKKKGHIPTPSRSESKYKIQCPTCQFVWCFKCHSPWHEGVNCKEYKKGDKLLRHWASEIEHGQRNAQKCPKCKIHIQRTEGCDHMTCSQCNTNFCYRCGERYRQLRFFGDHTSNLSIFGCKYRYLPERPHLRRLVRGSVCAGKLFIAPLIMVLGLALGAIAVVIVEEIKTYWNLISGRTRNQTQHLAPQPVLLSDMLYCLKQVFICISYLLPL
+PTM	Methylation:270,273,303,329;Phosphorylation:156,203,342,343,367,411

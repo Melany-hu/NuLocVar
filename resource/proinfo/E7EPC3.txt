@@ -1,0 +1,25 @@
+UniprotID	E7EPC3
+Accession	E7EPC3
+EntryName	E7EPC3_HUMAN
+ProteinName	Protein Wnt
+GeneName	WNT9B
+Length	329
+Function	Ligand for members of the frizzled family of seven transmembrane receptors.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPPPALALAGLCLLALPAAAASYFGLTGREVLTPFPGLGTAAAPAQGGAHLKQCDLLKLSRRQKQLCRREPGLAETLRDAAHLGLLECQFQFRHERWNCSLEGRMGLLKRGFKETAFLYAVSSAALTHTLARACSAGRMERCTCDDSPGLESRQAWQWGVCGDNLKYSTKFLSNFLGSKRGNKDLRARADAHNTHVGIKAVKSGLRTTCKCHGVSGSCAVRTCWKQLSPFRETGQVLKLRYDSAVKVSSATNEALGRLELWAPARQGSLTKGLAPRSGDLVYMEDSPSFCRPSKYSPGTAGWSAVARSQLITTSTSRIQAILPSQLPE
+PTM	

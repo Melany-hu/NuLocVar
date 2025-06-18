@@ -1,0 +1,25 @@
+UniprotID	Q9Y286-2
+Accession	Q9Y286;Q9NZQ1;Q9UJ86;Q9UJ87;Q9Y502
+EntryName	SIGL7_HUMAN
+ProteinName	Sialic acid-binding Ig-like lectin 7 (Siglec-7) (Adhesion inhibitory receptor molecule 1) (AIRM-1) (CDw328) (D-siglec) (QA79 membrane protein) (p75) (CD antigen CD328)
+GeneName	SIGLEC7 AIRM1
+Length	374
+Function	Putative adhesion molecule that mediates sialic-acid dependent binding to cells. Preferentially binds to alpha-2,3- and alpha-2,6-linked sialic acid. Also binds disialogangliosides (disialogalactosyl globoside, disialyl lactotetraosylceramide and disialyl GalNAc lactotetraoslylceramide). The sialic acid recognition site may be masked by cis interactions with sialic acids on the same cell surface. In the immune response, may act as an inhibitory receptor upon ligand induced tyrosine phosphorylation by recruiting cytoplasmic phosphatase(s) via their SH2 domain(s) that block signal transduction through dephosphorylation of signaling molecules. Mediates inhibition of natural killer cells cytotoxicity. May play a role in hemopoiesis. Inhibits differentiation of CD34+ cell precursors towards myelomonocytic cell lineage and proliferation of leukemic myeloid cells (in vitro).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLLPLLWGRERVEGQKSNRKDYSLTMQSSVTVQEGMCVHVRCSFSYPVDSQTDSDPVHGYWFRAGNDISWKAPVATNNPAWAVQEETRDRFHLLGDPQTKNCTLSIRDARMSDAGRYFFRMEKGNIKWNYKYDQLSVNVTDPPQNLTVTVFQGEGTASTALGNSSSLSVLEGQSLRLVCAVDSNPPARLSWTWRSLTLYPSQPSNPLVLELQVHLGDEGEFTCRAQNSLGSQHVSLNLSLQQEYTGKMRPVSGVLLGAVGGAGATALVFLSFCVIFIVVRSCRKKSARPAADVGDIGMKDANTIRGSASQGNLTESWADDNPRHHGLAAHSSGEEREIQYAPLSFHKGEPQDLSGQEATNNEYSEIKIPK
+PTM	Phosphorylation:109,404,406,413,441

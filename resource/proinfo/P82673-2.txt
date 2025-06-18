@@ -1,0 +1,25 @@
+UniprotID	P82673-2
+Accession	P82673;Q32LZ1;Q6P4C6;Q7L1M6;Q8NBP4;Q96AI0;Q9H044;Q9HC14;Q9P1R5
+EntryName	RT35_HUMAN
+ProteinName	Small ribosomal subunit protein mS35 (28S ribosomal protein S28, mitochondrial) (MRP-S28) (S28mt) (28S ribosomal protein S35, mitochondrial) (MRP-S35) (S35mt)
+GeneName	MRPS35 MRPS28 HDCMD11P MDS023 PSEC0213
+Length	194
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAALPAWLSLQSRARTLRAFSTAVYSATPVPTPSLPERTPGNERPPRRKALPPRTEKMAVDQDWPSVYPVAAPFKPSAVPLPVRMGYPVKKGVPMAKEGNLELLKIPNFLHLTPVAIKKHCEALKDFCTEWPAALDSDEKCEKHFPIEIDSTDYVSSGPSVRNPRARVVVLRVPFKEAELRLCSVSTNSVIP
+PTM	Acetylation:120,127,208;Methylation:107,127,208,241,280;SUMOylation:51,243,280,300;Ubiquitylation:77,200,270,313

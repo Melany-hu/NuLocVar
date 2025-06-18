@@ -1,0 +1,25 @@
+UniprotID	D6RBP2
+Accession	D6RBP2
+EntryName	D6RBP2_HUMAN
+ProteinName	Glycophorin B (MNS blood group)
+GeneName	GYPB
+Length	65
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHTSTSSSVTKSYISSQTNGETGQLVHRFTVPAPVVIILIILCVMAGIIGTILLISYSIRRLIKA
+PTM	

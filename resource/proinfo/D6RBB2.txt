@@ -1,0 +1,25 @@
+UniprotID	D6RBB2
+Accession	D6RBB2
+EntryName	D6RBB2_HUMAN
+ProteinName	Phosphodiesterase 4D
+GeneName	PDE4D
+Length	29
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRNTCDLLSRSKSPAYCDLIFLLWPLKL
+PTM	

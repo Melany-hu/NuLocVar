@@ -1,0 +1,25 @@
+UniprotID	F5H8B7
+Accession	F5H8B7
+EntryName	F5H8B7_HUMAN
+ProteinName	Protein CUSTOS
+GeneName	C12orf43
+Length	195
+Function	
+Subcellular Location	Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	143...148
+validnes_region	
+nesbase_region	
+Sequence	SSSDAEELERCREAAMPAWGLEQRPHVAGKPRAGAANSQLSTSQPSLSFITISEAAKEPAKAKVQKVALEDDGFRLFFTSVPGGREKEESPQPRRKRQPSSSSSEDSDEEWRRCREAAVSASDILQESAIHSPGTVEKEAKKKRKLKKKAKKVASVDSAVAATTPTSMATVQKQKSGELNGDQVSLGTKKKKKAK
+PTM	

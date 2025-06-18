@@ -1,0 +1,25 @@
+UniprotID	G3V1K2
+Accession	G3V1K2
+EntryName	G3V1K2_HUMAN
+ProteinName	Ribitol xylosyltransferase 1
+GeneName	RXYLT1
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEICGNAPGRPQNRRKNSPLWKVKNGILGKEMKKMSNNTDLKLAFKY
+PTM	

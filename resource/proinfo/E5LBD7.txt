@@ -1,0 +1,25 @@
+UniprotID	E5LBD7
+Accession	E5LBD7
+EntryName	E5LBD7_HUMAN
+ProteinName	Paired box 6
+GeneName	PAX6
+Length	31
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCVSKILGRYYETGSIRPRAIGGSKPRVATP
+PTM	

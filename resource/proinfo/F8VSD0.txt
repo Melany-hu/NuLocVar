@@ -1,0 +1,25 @@
+UniprotID	F8VSD0
+Accession	F8VSD0
+EntryName	F8VSD0_HUMAN
+ProteinName	Rho GTPase activating protein 9
+GeneName	ARHGAP9
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIEESIPSQSPTTVIPGQLLWTPGPKLFHGSLEELSQALPSRAQASSEQPPPLPRKMCRSVSTDNLSPSLLKPFQEGPSGRSLSQEDLPSEASASTAGPQPLMSEPPVYCNLVDLRRCPRSPPPGPACPLLQRLDAWEQHLD
+PTM	

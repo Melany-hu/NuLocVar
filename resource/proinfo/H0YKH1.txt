@@ -1,0 +1,25 @@
+UniprotID	H0YKH1
+Accession	H0YKH1
+EntryName	H0YKH1_HUMAN
+ProteinName	PBX homeobox 1
+GeneName	PBX1
+Length	159
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPALFNVLCEIKEKTVLSIRGAQEEEPTDPQLMRLDNMLLAEGVAGPEKGGGSAAAAAAAAASGGAGSDNSVEHSDYRAKLSQIRQIYHTELEKYEQACNEFTTHVMNLLREQSRTRPISPKEIERMVSIIHRKFSSIQMQLKQSTCEAVMILRSRFL
+PTM	

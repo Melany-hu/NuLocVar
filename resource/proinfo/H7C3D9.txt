@@ -1,0 +1,25 @@
+UniprotID	H7C3D9
+Accession	H7C3D9
+EntryName	H7C3D9_HUMAN
+ProteinName	Cilia and flagella associated protein 298
+GeneName	CFAP298
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLRRTKKLSDYVGKNEKTKIIAKIQQIFATFQVVVLCPPELGPRSLGPLDQNPNQLRNRLLADEPGGSGARDAVSNVAP
+PTM	

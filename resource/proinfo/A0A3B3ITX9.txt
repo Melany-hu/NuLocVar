@@ -1,0 +1,25 @@
+UniprotID	A0A3B3ITX9
+Accession	A0A3B3ITX9
+EntryName	A0A3B3ITX9_HUMAN
+ProteinName	Guided entry of tail-anchored proteins factor 1 (Tail-anchored protein insertion receptor WRB) (Tryptophan-rich basic protein)
+GeneName	GET1-SH3BGR
+Length	273
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSAAADHWAWLLVLSFVFGCNVLRILLPSFSSFMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWVISVAFYVLQIRKKQQEVVGFLEANKIDFKELDIAGDEDNRRWMRENVPGEKKPQNGIPLPPQIFNEEQYCGDFDSFFSAKEENIIYSFLGLAPPPDSKGSEKAEEGGETEAQKEGSEDVGNLPEAQEKNEEEGETATEETEEIAMEGAEGEAEEEEETAEGEEPGEDEDS
+PTM	

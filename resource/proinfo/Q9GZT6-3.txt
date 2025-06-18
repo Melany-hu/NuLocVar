@@ -1,0 +1,25 @@
+UniprotID	Q9GZT6-3
+Accession	Q9GZT6;A8K8I4;B3KP87;B4E3L2;Q3B781;Q9GZU6
+EntryName	CC90B_HUMAN
+ProteinName	Coiled-coil domain-containing protein 90B, mitochondrial
+GeneName	CCDC90B CUA003 MDS011 MDS025
+Length	153
+Function	
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTQAQQEITVQQLMAHLDAIRKDMVILEKSEFANLRAENEKMKIELDQVKQQLMHETSRIRADNKLDINLERSRVTDMFTDQEKQLMETTTEFTKKDTQTKSIISETSNKIDAEIASLKTLMESNKLETIRYLAASVFTCLAIALGFYRFWK
+PTM	Methylation:131;Phosphorylation:38,207,219,231;Ubiquitylation:203

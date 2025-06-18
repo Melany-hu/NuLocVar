@@ -1,0 +1,25 @@
+UniprotID	Q8N4Z0-1
+Accession	Q8N4Z0;A0A1W2PQ57;B2R5G2
+EntryName	RAB42_HUMAN
+ProteinName	Ras-related protein Rab-42
+GeneName	RAB42
+Length	105
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATQGPDKVIFLLVGHKSDLQSTRCVSAQEAEELAASLGMAFVETSVKNNCNVDLAFDTLADAIQQALQQGDIKLEEGWGGVRLIHKTQIPRSPSRKQHSGPCQC
+PTM	Methylation:22;Phosphorylation:24,83,201,206;Ubiquitylation:22,65

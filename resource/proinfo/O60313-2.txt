@@ -1,0 +1,25 @@
+UniprotID	O60313-2
+Accession	O60313;D3DNW4;E5KLJ5;E5KLJ6;E5KLJ7;E5KLK1;E5KLK2
+EntryName	OPA1_HUMAN
+ProteinName	Dynamin-like GTPase OPA1, mitochondrial (EC 3.6.5.5) (Optic atrophy protein 1) [Cleaved into: Dynamin-like GTPase OPA1, long form (L-OPA1); Dynamin-like GTPase OPA1, short form (S-OPA1)]
+GeneName	OPA1 KIAA0567
+Length	997
+Function	Dynamin-related GTPase that is essential for normal mitochondrial morphology by mediating fusion of the mitochondrial inner membranes, regulating cristae morphology and maintaining respiratory chain function (PubMed:16778770, PubMed:17709429, PubMed:20185555, PubMed:24616225, PubMed:28628083, PubMed:28746876, PubMed:31922487, PubMed:32228866, PubMed:32567732, PubMed:33130824, PubMed:33237841, PubMed:37612504, PubMed:37612506). Exists in two forms: the transmembrane, long form (Dynamin-like GTPase OPA1, long form; L-OPA1), which is tethered to the inner mitochondrial membrane, and the short soluble form (Dynamin-like GTPase OPA1, short form; S-OPA1), which results from proteolytic cleavage and localizes in the intermembrane space (PubMed:31922487, PubMed:32228866, PubMed:33237841, PubMed:37612504, PubMed:37612506). Both forms (L-OPA1 and S-OPA1) cooperate to catalyze the fusion of the mitochondrial inner membrane (PubMed:31922487, PubMed:37612504, PubMed:37612506). The equilibrium between L-OPA1 and S-OPA1 is essential: excess levels of S-OPA1, produced by cleavage by OMA1 following loss of mitochondrial membrane potential, lead to an impaired equilibrium between L-OPA1 and S-OPA1, inhibiting mitochondrial fusion (PubMed:20038677, PubMed:31922487). The balance between L-OPA1 and S-OPA1 also influences cristae shape and morphology (By similarity). Involved in remodeling cristae and the release of cytochrome c during apoptosis (By similarity). Proteolytic processing by PARL in response to intrinsic apoptotic signals may lead to disassembly of OPA1 oligomers and release of the caspase activator cytochrome C (CYCS) into the mitochondrial intermembrane space (By similarity). Acts as a regulator of T-helper Th17 cells, which are characterized by cells with fused mitochondria with tight cristae, by mediating mitochondrial membrane remodeling: OPA1 is required for interleukin-17 (IL-17) production (By similarity). Its role in mitochondrial morphology is required for mitochondrial genome maintenance (PubMed:18158317, PubMed:20974897).
+Subcellular Location	Mitochondrion inner membrane; Mitochondrion intermembrane space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRLRRAAVACEVCQSLVKHSSGIKGSLPLQKLHLVSRSIYHSHHPTLKLQRPQLRTSFQQFSSLTNLPLRKLKFSPIKYGYQPRRNFWPARLATRLLKLRYLILGSAVGGGYTAKKTFDQWKDMIPDLSEYKWIVPDIVWEIDEYIDFEKIRKALPSSEDLVKLAPDFDKIVESLSLLKDFFTSGSPEETAFRATDRGSESDKHFRKGLLGELILLQQQIQEHEEEARRAAGQYSTSYAQQKRKVSDKEKIDQLQEELLHTQLKYQRILERLEKENKELRKLVLQKDDKGIHHRKLKKSLIDMYSEVLDVLSDYDASYNTQDHLPRVVVVGDQSAGKTSVLEMIAQARIFPRGSGEMMTRSPVKVTLSEGPHHVALFKDSSREFDLTKEEDLAALRHEIELRMRKNVKEGCTVSPETISLNVKGPGLQRMVLVDLPGVINTVTSGMAPDTKETIFSISKAYMQNPNAIILCIQDGSVDAERSIVTDLVSQMDPHGRRTIFVLTKVDLAEKNVASPSRIQQIIEGKLFPMKALGYFAVVTGKGNSSESIEAIREYEEEFFQNSKLLKTSMLKAHQVTTRNLSLAVSDCFWKMVRESVEQQADSFKATRFNLETEWKNNYPRLRELDRNELFEKAKNEILDEVISLSQVTPKHWEEILQQSLWERVSTHVIENIYLPAAQTMNSGTFNTTVDIKLKQWTDKQLPNKAVEVAWETLQEEFSRFMTEPKGKEHDDIFDKLKEAVKEESIKRHKWNDFAEDSLRVIQHNALEDRSISDKQQWDAAIYFMEEALQARLKDTENAIENMVGPDWKKRWLYWKNRTQEQCVHNETKNELEKMLKCNEEHPAYLASDEITTVRKNLESRGVEVDPSLIKDTWHQVYRRHFLKTALNHCNLCRRGFYYYQRHFVDSELECNDVVLFWRIQRMLAITANTLRQQLTNTEVRRLEKNVKEVLEDFAEDGEKKIKLLTGKRVQLAEDLKKVREIQEKLDAFIEALHQEK
+PTM	Acetylation:228,792,834;Methylation:25,151,164,180,250,352,387,489,527,554,568,596,614,656,733,757,797,824,834,923,924;Phosphorylation:130,158,177,298,420,422,498,503,531,532,686,734,831,841,890;SUMOylation:598,705,926;Ubiquitylation:79,154,228,387,474,489,527,535,568,579,658,663,701,792,800,926,940

@@ -1,0 +1,25 @@
+UniprotID	Q8IY57-3
+Accession	Q8IY57;A8K5P0;B4DFU3;G3V465;Q99710
+EntryName	YAF2_HUMAN
+ProteinName	YY1-associated factor 2
+GeneName	YAF2
+Length	138
+Function	Binds to MYC and inhibits MYC-mediated transactivation. Also binds to MYCN and enhances MYCN-dependent transcriptional activation. Increases calpain 2-mediated proteolysis of YY1 in vitro. Component of the E2F6.com-1 complex, a repressive complex that methylates 'Lys-9' of histone H3, suggesting that it is involved in chromatin-remodeling.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDKKSPTRKPRPVSQLVAQQVTQQFVPPTQSKKEKKDKVEKEKSEKETTSKKNSHKKTRPRLKNVDRSSAQHLEVTVGDLTVIITDFKEKTKSPPASSAASADQHSQSGSSSDNTERGMSRSSSPRGEASSLNGESH
+PTM	Phosphorylation:6,8,57,134,136,140,141,149,151,153,154,155,158,163,165,166,167,173,174,179;SUMOylation:15,52,75;Ubiquitylation:38,52,75

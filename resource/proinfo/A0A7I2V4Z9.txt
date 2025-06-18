@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V4Z9
+Accession	A0A7I2V4Z9
+EntryName	A0A7I2V4Z9_HUMAN
+ProteinName	Cathepsin B (EC 3.4.22.1)
+GeneName	CTSB
+Length	323
+Function	Thiol protease which is believed to participate in intracellular degradation and turnover of proteins. Cleaves matrix extracellular phosphoglycoprotein MEPE. Involved in the solubilization of cross-linked TG/thyroglobulin in the thyroid follicle lumen. Has also been implicated in tumor invasion and metastasis.
+Subcellular Location	Apical cell membrane; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQLWASLCCLLVLANARSRPSFHPLSDELVNYVNKRNTTWQAGHNFYNVDMSYLKRLCGTFLGGPKPPQRVMFTEDLKLPASFDAREQWPQCPTIKEIRDQGSCGSCWAFGAVEAISDRICIHTNAHVSVEVSAEDLLTCCGSMCGDGELVVFLSTLGKFSVCSVENQCSTRKGTRSLVCCNGGYPAEAWNFWTRKGLVSGGLYESHVGYNSYSVSNSEKDIMAEIYKNGPVEGAFSVYSDFLLYKSGVYQHVTGEMMGGHAIRILGWGVENGTPYWLVANSWNTDWGDNGFFKILRGQDHCGIESEVVAGIPRTDQYWEKI
+PTM	

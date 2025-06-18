@@ -1,0 +1,25 @@
+UniprotID	B4DFZ0
+Accession	B4DFZ0
+EntryName	B4DFZ0_HUMAN
+ProteinName	Lipase maturation factor 1 (cDNA FLJ52484)
+GeneName	LMF1
+Length	184
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPDSPTMAAPAESLRRRKTGYSDPEPESPPAPGRGPAGSPAHLHTGTFWLTRIVLLKALAFVYFVAFLVAFHQNKQLIGDRGLLPCRVFLKNFQQYFQDRTSWEVFSYMPTILWLMDWSDMNSNLDLLALLGLGISSFVLITGCANMLLMAALWGLYMSLVNVGHVWYSFASAISLPSMHGGQ
+PTM	

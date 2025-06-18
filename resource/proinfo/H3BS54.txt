@@ -1,0 +1,25 @@
+UniprotID	H3BS54
+Accession	H3BS54
+EntryName	H3BS54_HUMAN
+ProteinName	Adhesion G protein-coupled receptor G1
+GeneName	ADGRG1
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPQSLLQTTLFLLSLLFLVQAPATGSHLQPLPPQVPTAGATGKTFASAASGTRHTGAASTTNPHQTCASPSRTPKRPSQSMPLSLQPTLLPDPSLTPGASTTSASTGTDMLGDYIFS
+PTM	

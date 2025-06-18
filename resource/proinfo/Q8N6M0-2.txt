@@ -1,0 +1,25 @@
+UniprotID	Q8N6M0-2
+Accession	Q8N6M0;A8K6I1;B4DEY0;Q9NTA4;Q9Y387
+EntryName	OTU6B_HUMAN
+ProteinName	Deubiquitinase OTUD6B (EC 3.4.19.12) (DUBA-5) (OTU domain-containing protein 6B)
+GeneName	OTUD6B DUBA5 CGI-77
+Length	192
+Function	Deubiquitinating enzyme that may play a role in the ubiquitin-dependent regulation of protein synthesis, downstream of mTORC1 (PubMed:21267069, PubMed:27864334). May associate with the protein synthesis initiation complex and modify its ubiquitination to repress translation (PubMed:27864334). May also repress DNA synthesis and modify different cellular targets thereby regulating cell growth and proliferation (PubMed:27864334). May also play a role in proteasome assembly and function (PubMed:28343629).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISKEKKAALEKEREERIAEAEIENLTGARHMESEKLAQILAARQLEIKQIPSDGHCMYKAIEDQLKEKDCALTVVALRSQTAEYMQSHVEDFLPFLTNPNTGDMYTPEEFQKYCEDIVNTAAWGGQLELRALSHILQTPIEIIQADSPPIIVGEEYSKKPLILVYMRHAYGLGEHYNSVTRLVNIVTENCS
+PTM	Acetylation:29;Methylation:29,71,113,150,168;Phosphorylation:272;Ubiquitylation:29,34,71,113,137

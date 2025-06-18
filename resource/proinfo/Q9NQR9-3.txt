@@ -1,0 +1,25 @@
+UniprotID	Q9NQR9-3
+Accession	Q9NQR9;E9PAX2;Q6AHZ0
+EntryName	G6PC2_HUMAN
+ProteinName	Glucose-6-phosphatase 2 (G-6-Pase 2) (G6Pase 2) (EC 3.1.3.9) (Islet-specific glucose-6-phosphatase catalytic subunit-related protein)
+GeneName	G6PC2 IGRP
+Length	154
+Function	May hydrolyze glucose-6-phosphate to glucose in the endoplasmic reticulum. May be responsible for glucose production through glycogenolysis and gluconeogenesis (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFLHRNGVLIIQHLQKDYRAYYTFLNFMSNVGDPRNIFFIYFPLCFQFNQTVGTKMIWVAVIGDWLNLIFKWILFGHRPYWWVQETQIYPNHSSPCLEQFPTTCETGPGSPSGHAMGASCVWYVMVTAALSHTVCGMDKFSITLHRHAGGRGL
+PTM	Methylation:72;Phosphorylation:291

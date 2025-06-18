@@ -1,0 +1,25 @@
+UniprotID	M0QZN6
+Accession	M0QZN6
+EntryName	M0QZN6_HUMAN
+ProteinName	Zinc finger protein 85
+GeneName	ZNF85
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRHEIMVAKPTVMCSHFAQDLWPEQNIKDSFQKVTLKRYGKCRHENLPLRKGCESMDECKMHKGGCNGLNQCLTATQSKIFQCDKYVKVAHKFSNSNRHEIRHTKKKPFKCTKCGKSFGMISCLTEHS
+PTM	

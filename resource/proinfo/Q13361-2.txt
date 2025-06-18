@@ -1,0 +1,25 @@
+UniprotID	Q13361-2
+Accession	Q13361;B0AZL6;D3DUV1;Q7Z490
+EntryName	MFAP5_HUMAN
+ProteinName	Microfibrillar-associated protein 5 (MFAP-5) (MP25) (Microfibril-associated glycoprotein 2) (MAGP-2)
+GeneName	MFAP5 MAGP2
+Length	163
+Function	May play a role in hematopoiesis. In the cardiovascular system, could regulate growth factors or participate in cell signaling in maintaining large vessel integrity (By similarity). Component of the elastin-associated microfibrils (PubMed:8557636).
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLLGPKVLLFLAAFIITSDWIPLGVNSQRGDDVTQATPETFTEDPNLVNDPATDETVLAVLADIAPSTDDLECWDEKFTCTRLYSVHRPVKQCIHQLCFTSLRRMYIVNKEICSRLVCKEHEAMKDELCRQMAGLPPRRLRRSNYFRLPPCENVDLQRPNGL
+PTM	Acetylation:136;Methylation:130;Phosphorylation:35

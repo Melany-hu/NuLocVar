@@ -1,0 +1,25 @@
+UniprotID	J3KTI3
+Accession	J3KTI3
+EntryName	J3KTI3_HUMAN
+ProteinName	NAD(+) kinase (EC 2.7.1.23)
+GeneName	NADK
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ENMIVYVEKKVLEDPAIASDESFGAVKKKFCTFREDYDDISNQIDFIICLGGDGTLLYASSLFQGTQLLFSGVG
+PTM	

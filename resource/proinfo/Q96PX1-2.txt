@@ -1,0 +1,25 @@
+UniprotID	Q96PX1-2
+Accession	Q96PX1;Q8NB72;Q96N56
+EntryName	RN157_HUMAN
+ProteinName	E3 ubiquitin ligase RNF157 (EC 2.3.2.27) (RING finger protein 157) (RING-type E3 ubiquitin transferase RNF157)
+GeneName	RNF157 KIAA1917
+Length	657
+Function	E3 ubiquitin ligase that ubiquitinates APBB1 for its degradation by the proteasome and thus prevents apoptosis and promotes survival of neurons (PubMed:25342469). Has a dual role in neurons as it is also required for dendrite growth and maintenance for which its ligase activity is not critical (PubMed:25342469). May act as a scaffold molecule to regulate this process (PubMed:25342469). Acts as a downstream effector of the interconnected PI3K and MAPK signaling pathways and thus participates in the regulation of the cell cycle (PubMed:28655764).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGALTSRQHAGVEEVDIPSNSVYRYPPKSGSYFASHFIMGGEKFDSTHPEGYLFGENSDLNFLGNRPVVFPYAAPPPQEPVKTLRSLVNIRKDTLRLVKCAEEVKSPGEEASKAKVHYNVEFTFDTDARVAITIYYQATEEFQNGIASYIPKDNSLQSETVQYKRGVCQQFCLPSHTVDPSEWAEEELGFDLDREVYPLVVHAVVDEGDEYFGHCHVLLGTFEKHTDGTFCVKPLKQKQVVDGVSYLLQEIYGIENKYNTQDSKVAEDEVSDNSAECVVCLSDVRDTLILPCRHLCLCNTCADTLRYQANNCPICRLPFRALLQIRAMRKKLGPLSPTSFNPIISSQTSDSEEHPSSENIPPGYEVVSLLEALNGPLTPSPAVPPLHVLGDGHLSGMLPSYGSDGHLPPVRTISPLDRLSDSSSQGLKLKKSLSKSTSQNSSVLHEEEDEHSCSESETQLSQRPSVQHLGEECGVTPESENLTLSSSGAIDQSSCTGTPLSSTISSPEGPASSSLAQSVMSMASSQISTDTVSSMSGSYIAPGTEEEGEALSSPQPASRAPSEEGEGNDVIEEEDGSPTQEGQRTCAFLGMECDNNNDFDIASVKALDNKLCSEVCLPGAWQADDNAVSRNAQRRRLSSSSLEDSETRPCVWGPLAV
+PTM	Methylation:257,632;Phosphorylation:660,661,662,663;Ubiquitylation:164

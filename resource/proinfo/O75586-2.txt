@@ -1,0 +1,25 @@
+UniprotID	O75586-2
+Accession	O75586;B4DU17;B4E2P0;O15401;Q53FE3;Q53HJ3;Q6FHQ4;Q9BTH1;Q9UHL1
+EntryName	MED6_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 6 (Activator-recruited cofactor 33 kDa component) (ARC33) (Mediator complex subunit 6) (hMed6) (Renal carcinoma antigen NY-REN-28)
+GeneName	MED6 ARC33
+Length	253
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVDIRDNLLGISWVDSSWIPILNSGSVLDYFSERSNPFYDRTCNNEVVKMQRLTLEHLNQMVGIEYILLHAQEPILFIIRKQQRQSPAQVIPLADYYIIAGVIYQAPDLGSVINSRVSLFSFYKLTAVHGIQSAFDEAMSYCRYHPSKGYWWHFKDHEEQDKVRPKAKRKEEPSSIFQRQRVDALLLDLRQKFPPKFVQLKPGEKPVPVDQTKKEAEPIPETVKPEEKETTKNVQQTVSAKGPPEKRMRLQ
+PTM	Acetylation:200,219,227,236,241;Methylation:51,83,196;Phosphorylation:44,225,226;SUMOylation:150,157,165,196,200,208,219,223,227;Ubiquitylation:51,165,187,196,200,208,219,227,236

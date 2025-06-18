@@ -1,0 +1,25 @@
+UniprotID	H0YE67
+Accession	H0YE67
+EntryName	H0YE67_HUMAN
+ProteinName	MAPK interacting serine/threonine kinase 1
+GeneName	MKNK1
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTPELTTPCGSAEYMAPEVVEVFTDQATFYDKRCDLWSLGVVLYIMLSGYPPFVGHCGADCGWDRGEVCRVCQEQQHNGPDALRS
+PTM	

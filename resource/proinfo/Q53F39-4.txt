@@ -1,0 +1,25 @@
+UniprotID	Q53F39-4
+Accession	Q53F39;B0YJ39;B0YJ40;B0YJ41;B5ME53;B7WNJ3;D3DUI5;D3DUI7;Q6GMP1;Q8TAD6;Q8TE26;Q8WZ32;Q9BU58;Q9H958;Q9HAI4
+EntryName	MPPE1_HUMAN
+ProteinName	Metallophosphoesterase 1 (EC 3.1.-.-) (Post-GPI attachment to proteins factor 5)
+GeneName	MPPE1 PGAP5 PP579
+Length	333
+Function	Metallophosphoesterase required for transport of GPI-anchor proteins from the endoplasmic reticulum to the Golgi. Acts in lipid remodeling steps of GPI-anchor maturation by mediating the removal of a side-chain ethanolamine-phosphate (EtNP) from the second Man (Man2) of the GPI intermediate, an essential step for efficient transport of GPI-anchor proteins.
+Subcellular Location	Endoplasmic reticulum-Golgi intermediate compartment membrane; Golgi apparatus; cis-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMIELGFGRQNFHPLKRKSSLLLKLIAVVFAVLLFCEFLIYYLAIFQCNWPEVKTTASDGEQTTREPVLKAMFLADTHLLGEFLGHWLDKLRREWQMERAFQTALWLLQPEVVFILGDIFDEGKWSTPEAWADDVERFQKMFRHPSHVQLKVVAGNHDIGFHYEMNTYKVERFEKVFSSERLFSWKGINFVMVNSVALNGDGCGICSETEAELIEVSHRLNCSRELLWWLQPRLVLSGHTHSACEVHHGGRVPELSVPSFSWRNRNNPSFIMGSITPTDYTLSKCYLPREDVVLIIYCGVVGFLVVLTLTHFGLLASPFLSGLNLLGKRKTR
+PTM	Methylation:17,25,152;Phosphorylation:320,347;Ubiquitylation:276

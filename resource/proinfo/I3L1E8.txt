@@ -1,0 +1,25 @@
+UniprotID	I3L1E8
+Accession	I3L1E8
+EntryName	I3L1E8_HUMAN
+ProteinName	Solute carrier family 25 member 10
+GeneName	SLC25A10
+Length	113
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQTQQEVKLRMTGMALRVVRTDGILALYSGLSASLCRQMTYSLTRFAIYETVRDRVAKGSQGPLPFHEKVLLGSVSGLAGGFVGTPADLVNVRMQNDVKLPQGQRRKERSSGP
+PTM	

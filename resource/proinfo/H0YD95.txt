@@ -1,0 +1,25 @@
+UniprotID	H0YD95
+Accession	H0YD95
+EntryName	H0YD95_HUMAN
+ProteinName	Coiled-coil domain containing 90B
+GeneName	CCDC90B
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRQAWRLFLSQGRGDRWVSRPRGHFSPALRREFFTTTTKEGYDRRPVDITPLEQRKLTFDTHALVQDLETHGNNSTTANGSFGCYQERHGHPREK
+PTM	

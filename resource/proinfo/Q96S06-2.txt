@@ -1,0 +1,25 @@
+UniprotID	Q96S06-2
+Accession	Q96S06;B3KS80;Q68CJ3;Q96FJ4;Q9H6G4;Q9H9K7
+EntryName	LMF1_HUMAN
+ProteinName	Lipase maturation factor 1 (Transmembrane protein 112)
+GeneName	LMF1 C16orf26 TMEM112 HMFN1876 JFP11
+Length	330
+Function	Involved in the maturation of specific proteins in the endoplasmic reticulum. Required for maturation and transport of active lipoprotein lipase (LPL) through the secretory pathway. Each LMF1 molecule chaperones 50 or more molecules of LPL.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFHYETQPMPNPVAYYLHHSPWWFHRFETLSNHFIELLVPFFLFLGRRACIIHGVLQILFQAVLIVSGNLSFLNWLTMVPSLACFDDATLGFLFPSGPGSLKDRVLQMQRDIRGARPEPRFGSVVRRAANVSLGVLLAWLSVPVVLNLLSSRQVMNTHFNSLHIVNTYGAFGSITKERAEVILQGTASSNASAPDAMWEDYEFKCKPGDPSRRPCLISPYHYRLDWLMWFAAFQTYEHNDWIIHLAGKLLASDAEALSLLAHNPFAGRPPPRWVRGEHYRYKFSRPGGRHAAEGKWWVRKRIGAYFPPLSLEELRPYFRDRGWPLPGPL
+PTM	Glycosylation:428;Methylation:58,225,520;Phosphorylation:14,389,522

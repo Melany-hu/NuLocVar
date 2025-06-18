@@ -1,0 +1,25 @@
+UniprotID	F5GZT7
+Accession	F5GZT7
+EntryName	F5GZT7_HUMAN
+ProteinName	Protoporphyrinogen oxidase
+GeneName	PPOX
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRTVVVLGGGISGLAASYHLSRAPCPPKVVLVESSERLGGWIRSVRGPNGAIFELGPRGIRPAGALGARTLLLVMLGGSWLQTLEASGCVLSQELFQQRAQEAAATQLGLKEMPSHCLVHLHKNCIPQYTLGHWQKLESARQFLTAHRLPLTLAGASYEGVAVNDCIESGRQAAVSVLGTEPNS
+PTM	

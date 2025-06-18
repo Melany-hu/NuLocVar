@@ -1,0 +1,25 @@
+UniprotID	B4DFJ7
+Accession	B4DFJ7
+EntryName	B4DFJ7_HUMAN
+ProteinName	Tetraspanin 31, isoform CRA_a (cDNA FLJ55837, highly similar to Tetraspanin-31)
+GeneName	TSPAN31 hCG_40149
+Length	132
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIILGLVFIFQFVISCSCLAINRSKQTDVINASWWVMSNKTRDELERSFDCCGLFNLTTLYQQDYDFCTAICKSQSPTCQMCGEKFLKHSDEALKILGGVGLFFSFTEILGVWLAMRFRNQKDPRANPSAFL
+PTM	

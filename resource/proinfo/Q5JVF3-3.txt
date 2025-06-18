@@ -1,0 +1,25 @@
+UniprotID	Q5JVF3-3
+Accession	Q5JVF3;A6NK09;Q3ZCX1;Q5TC57;Q5TC58;Q9H7K1;Q9HBZ7;Q9NUK6;Q9NVY1;Q9NW44;Q9NWH3
+EntryName	PCID2_HUMAN
+ProteinName	PCI domain-containing protein 2 (CSN12-like protein)
+GeneName	PCID2 HT004
+Length	376
+Function	Required for B-cell survival through the regulation of the expression of cell-cycle checkpoint MAD2L1 protein during B cell differentiation (By similarity). As a component of the TREX-2 complex, involved in the export of mRNAs to the cytoplasm through the nuclear pores (PubMed:22307388). Binds and stabilizes BRCA2 and is thus involved in the control of R-loop-associated DNA damage and transcription-associated genomic instability (PubMed:24896180). Blocks the activity of the SRCAP chromatin remodeling complex by interacting with SRCAP complex member ZNHIT1 and inhibiting its interaction with the complex (By similarity). This prevents the deposition of histone variant H2AZ1/H2A.Z at the nucleosomes of key lymphoid fate regulator genes which suppresses their expression and restricts lymphoid lineage commitment (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Nuclear pore complex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHITINQYLQQVYEAIDSRDGASCAELVSFKHPHVANPRLQMASPEEKCQQVLEPPYDEMFAAHLRCTYAVGNHDFIEAYKCQTVIVQSFLRVFANNADQQLVKKGKSKVGDMLEKAAELLMSCFRVCASDTRAGIEDSKKWGMLFLVNQLFKIYFKINKLHLCKPLIRAIDSSNLKDDYSTAQRVTYKYYVGRKAMFDSDFKQAEEYLSFAFEHCHRSSQKNKRMILIYLLPVKMLLGHMPTVELLKKYHLMQFAEVTRAVSEGNLLLLHEALAKHEAFFIRCGIFLILEKLKIITYRNLFKKVYLLLKTHQLSLDAFLVALKFMQVEDVDIDEVQCILANLIYMGHVKGYISHQHQKLVVSKQNPFPPLSTVC
+PTM	Acetylation:133,189,213,383;Methylation:128,213,219,272,300,316,334,348;Phosphorylation:24,45,232;SUMOylation:32,49,189,201,227;Ubiquitylation:32,49,99,128,133,164,189,201,213,219,272,273,388

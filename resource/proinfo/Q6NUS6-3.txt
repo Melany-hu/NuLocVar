@@ -1,0 +1,25 @@
+UniprotID	Q6NUS6-3
+Accession	Q6NUS6;A6NIC8;B0QZ90;B4DR81;Q6P7P3;Q6UW27;Q6ZQQ0;Q8N7K1;Q8NBQ0;Q96GF7;Q9Y3U1
+EntryName	TECT3_HUMAN
+ProteinName	Tectonic-3
+GeneName	TCTN3 C10orf61 TECT3 PSEC0041 UNQ1881/PRO4324
+Length	429
+Function	Part of the tectonic-like complex which is required for tissue-specific ciliogenesis and may regulate ciliary membrane composition (By similarity). May be involved in apoptosis regulation. Necessary for signal transduction through the sonic hedgehog (Shh) signaling pathway.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSNGIRQFCVHVNNSNLNYFQKLQKVNATNFQALAAEFGGESFTSTFQTQSPPSFYRAGDPILTYFPKWSVISLLRQPAGVGAGGLCAESNPAGFLESKSTTCTRFFKNLASSCTLDSALNAASYYNFTVLKVPRSMTDPQNMEVTYEIETNGTFGIQKVSVSLGQTNLTVEPGASLQQHFILRFRAFQQSTAASLTSPRSGNPGYIVGKPLLALTDDISYSMTLLQSQGNGSCSVKRHEVQFGVNAISGCKLRLKKADCSHLQQEIYQTLHGRPRPEYVAIFGNADPAQKGGWTRILNRHCSISAINCTSCCLIPVSLEIQVLWAYVGLLSNPQAHVSGVRFLYQCQSIQDSQQVTEVSLTTLVNFVDITQKPQPPRGQPKMDWKWPFDFFPFKVAFSRGVFSQKCSVSPILILCLLLLGVLNLETM
+PTM	Glycosylation:165,279,371,410;Methylation:251,552,574;Ubiquitylation:220,251,470

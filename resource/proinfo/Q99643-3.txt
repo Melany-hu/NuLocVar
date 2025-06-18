@@ -1,0 +1,25 @@
+UniprotID	Q99643-3
+Accession	Q99643;O75609;Q3C259;Q3C2D8;Q3C2H4;Q5VTH3
+EntryName	C560_HUMAN
+ProteinName	Succinate dehydrogenase cytochrome b560 subunit, mitochondrial (Integral membrane protein CII-3) (Malate dehydrogenase [quinone] cytochrome b560 subunit) (QPs-1) (QPs1) (Succinate dehydrogenase complex subunit C) (Succinate-ubiquinone oxidoreductase cytochrome B large subunit) (CYBL)
+GeneName	SDHC CYB560 SDH3
+Length	135
+Function	Membrane-anchoring subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q) (PubMed:9533030). SDH also oxidizes malate to the non-canonical enol form of oxaloacetate, enol-oxaloacetate (By similarity). Enol-oxaloacetate, which is a potent inhibitor of the succinate dehydrogenase activity, is further isomerized into keto-oxaloacetate (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALLLRHVGRHCLRAHFSPQLCIRNWSLPMAMSICHRGTGIALSAGVSLFGMSALLLPGNFESYLELVKSLCLGPALIHTAKFALVFPLMYHTWNGIRHLMWDLGKGLKIPQLYQSGVVVLVLTVLSSMGLAAM
+PTM	Methylation:104;Ubiquitylation:35,44,141

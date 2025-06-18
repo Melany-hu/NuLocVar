@@ -1,0 +1,25 @@
+UniprotID	Q96J42-2
+Accession	Q96J42;D3DQA9;Q96MT2;Q9H639
+EntryName	TXD15_HUMAN
+ProteinName	Thioredoxin domain-containing protein 15
+GeneName	TXNDC15 C5orf14 UNQ335/PRO534
+Length	343
+Function	Acts as a positive regulator of ciliary hedgehog signaling (By similarity). Involved in ciliogenesis (PubMed:27894351).
+Subcellular Location	Cell projection; Cilium membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPAAGRRPPRVMRLLGWWQVLLWVLGLPVRGVEVAEESGRLWSEELLHDPMGQDRAAEEANAVLGLDTQGDHMVMLSVIPGEAEDKVSSEPSGVTCGAGGAEDSRCNVRESLFSLDGAGAHFPDREEEYYTEPEVAESDAAPTEDSNNTESLKSPKVNCEERNITGLENFTLKILNMSQDLMDFLNPNGSDCTLVLFYTPWCRFSASLAPHFNSLPRAFPALHFLALDASQHSSLSTRFGTVAVPNILLFQGAKPMARFNHTDRTLETLKIFIFNQTGIEAKKNVVVTQADQIGPLPSTLIKSVDWLLVFSLFFLISFIMYATIRTESIRWLIPGQEQEHVE
+PTM	Glycosylation:165,181,187,293,302;Methylation:288;Phosphorylation:172,223,225;Ubiquitylation:272,301

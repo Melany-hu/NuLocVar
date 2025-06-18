@@ -1,0 +1,25 @@
+UniprotID	F5H7C8
+Accession	F5H7C8
+EntryName	F5H7C8_HUMAN
+ProteinName	Complement C1r subcomponent like
+GeneName	C1RL
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGPRVWGKYLWRSPHSKGCPGAMWWLLLWGVLQACPTRGSVLLAQELPQQLTSPGYPEPYGKGQESSTDIKAPEGFAVRLVFQDFDLEPSQDCAGDSVTISFVGSDPSQFCGQQGSPLGRPPGQREFVSSGRSLRLTFRTQPSSENKTAHLHKGFLALYQTVGECPSWGCREGASVPSHDPGIFKP
+PTM	

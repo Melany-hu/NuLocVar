@@ -1,0 +1,25 @@
+UniprotID	C9JYB5
+Accession	C9JYB5
+EntryName	C9JYB5_HUMAN
+ProteinName	adenylate cyclase (EC 4.6.1.1)
+GeneName	ADCY3
+Length	154
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLILANVFLYLCAIAVGIMSYYMADRKHRKAFLEARQSLEVKMNLEEQSQQQENLMLSILPKHVADEMLKDMKKDESQKDQQQFNTMYMYRHENVSILFADIVGFTQLSSACSAQELVKLLNELFARFDKLAAKYHQLRIKILGDCYYCICGL
+PTM	

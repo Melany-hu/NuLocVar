@@ -1,0 +1,25 @@
+UniprotID	E5RHX9
+Accession	E5RHX9
+EntryName	E5RHX9_HUMAN
+ProteinName	NADH:ubiquinone oxidoreductase complex assembly factor 6
+GeneName	NDUFAF6
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRMQFWKKTVEDIYCDNPPHQPVAIELWKAVKRHNLTKRWLMKIVDEREKNLDDKAYRNIKELENYAENTQSSLLYLTLEILGIKDLHADHAASH
+PTM	

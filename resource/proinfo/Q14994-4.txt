@@ -1,0 +1,25 @@
+UniprotID	Q14994-4
+Accession	Q14994;E9PB75;E9PC13;E9PDU3;E9PGH6;E9PH10;E9PHC8;E9PHN4;F1D8Q0;F1D8Q1;Q0VAC9;Q4U0F0;Q5VTW5;Q5VTW6;Q6GZ68;Q6GZ76;Q6GZ77;Q6GZ78;Q6GZ79;Q6GZ82;Q6GZ83;Q6GZ84;Q6GZ85;Q6GZ87;Q6GZ89
+EntryName	NR1I3_HUMAN
+ProteinName	Nuclear receptor subfamily 1 group I member 3 (Constitutive activator of retinoid response) (Constitutive active response) (Constitutive androstane receptor) (CAR) (Orphan nuclear receptor MB67)
+GeneName	NR1I3 CAR
+Length	280
+Function	Binds and transactivates the retinoic acid response elements that control expression of the retinoic acid receptor beta 2 and alcohol dehydrogenase 3 genes. Transactivates both the phenobarbital responsive element module of the human CYP2B6 gene and the CYP3A4 xenobiotic response element.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPKRSRRTVSKSIGPTCPFAGSCEVSKTQRRHCPACRLQKCLDAGMRKDMILSAEALALRRAKQAQRRAQQTPVQLSKEQEELIRTLLGAHTRHMGTMFEQFVQFRPPAHLFIHHQPLPTLAPVLPLVTHFADINTFMVLQVIKFTKDLPVFRSLPIEDQISLLKGAAVEICHIVLNTTFCLQTQNFLCGPLRYTIEDGARDRPGVTQRDEIDQLQEEMALTLQSYIKGQQRRPRDRFLYAKLLGLLAELRSINEAYGYQIQHIQGLSAMMPLLQEICS
+PTM	Methylation:108,174,195,255,315;Phosphorylation:192

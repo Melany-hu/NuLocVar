@@ -1,0 +1,25 @@
+UniprotID	Q9UKV8-2
+Accession	Q9UKV8;Q8TCZ5;Q8WV58;Q96ID1
+EntryName	AGO2_HUMAN
+ProteinName	Protein argonaute-2 (Argonaute2) (hAgo2) (EC 3.1.26.n2) (Argonaute RISC catalytic component 2) (Eukaryotic translation initiation factor 2C 2) (eIF-2C 2) (eIF2C 2) (PAZ Piwi domain protein) (PPD) (Protein slicer)
+GeneName	AGO2 EIF2C2
+Length	825
+Function	Required for RNA-mediated gene silencing (RNAi) by the RNA-induced silencing complex (RISC). The 'minimal RISC' appears to include AGO2 bound to a short guide RNA such as a microRNA (miRNA) or short interfering RNA (siRNA). These guide RNAs direct RISC to complementary mRNAs that are targets for RISC-mediated gene silencing. The precise mechanism of gene silencing depends on the degree of complementarity between the miRNA or siRNA and its target. Binding of RISC to a perfectly complementary mRNA generally results in silencing due to endonucleolytic cleavage of the mRNA specifically by AGO2. Binding of RISC to a partially complementary mRNA results in silencing through inhibition of translation, and this is independent of endonuclease activity. May inhibit translation initiation by binding to the 7-methylguanosine cap, thereby preventing the recruitment of the translation initiation factor eIF4-E. May also inhibit translation initiation via interaction with EIF6, which itself binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit. The inhibition of translational initiation leads to the accumulation of the affected mRNA in cytoplasmic processing bodies (P-bodies), where mRNA degradation may subsequently occur. In some cases RISC-mediated translational repression is also observed for miRNAs that perfectly match the 3' untranslated region (3'-UTR). Can also up-regulate the translation of specific mRNAs under certain growth conditions. Binds to the AU element of the 3'-UTR of the TNF (TNF-alpha) mRNA and up-regulates translation under conditions of serum starvation. Also required for transcriptional gene silencing (TGS), in which short RNAs known as antigene RNAs or agRNAs direct the transcriptional repression of complementary promoter regions.
+Subcellular Location	Cytoplasm; P-body; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSGAGPALAPPAPPPPIQGYAFKPPPRPDFGTSGRTIKLQANFFEMDIPKIDIYHYELDIKPEKCPRRVNREIVEHMVQHFKTQIFGDRKPVFDGRKNLYTAMPLPIGRDKVELEVTLPGEGKDRIFKVSIKWVSCVSLQALHDALSGRLPSVPFETIQALDVVMRHLPSMRYTPVGRSFFTASEGCSNPLGGGREVWFGFHQSVRPSLWKMMLNIDVSATAFYKAQPVIEFVCEVLDFKSIEEQQKPLTDSQRVKFTKEIKGLKVEITHCGQMKRKYRVCNVTRRPASHQTFPLQQESGQTVECTVAQYFKDRHKLVLRYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIRATARSAPDRQEEISKLMRSASFNTDPYVREFGIMVKDEMTDVTGRVLQPPSILYGGRNKAIATPVQGVWDMRNKQFHTGIEIKVWAIACFAPQRQCTEVHLKSFTEQLRKISRDAGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYAGLQLVVVILPGKTPVYAEVKRVGDTVLGMATQCVQMKNVQRTTPQTLSNLCLKINVKLGGVNNILLPQGRPPVFQQPVIFLGADVTHPPAGDGKKPSIAAVVGSMDAHPNRYCATVRVQQHRQEIIQDLAAMVRELLIQFYKSTRFKPTRIIFYRDGVSEGQFQQVLHHELLAIREACIKLEKDYQPGITFIVVQKRHHTRLFCTDKNERGTSRPSHYHVLWDDNRFSSDELQILTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDKEHDSAEGSHTSGQSNGRDHQALAKAVQVHQDTLRTMYFA
+PTM	Acetylation:62,726;Methylation:51,62,226,381,570,709,844;Phosphorylation:337,338,385,387,390,471,734,824,828,830,831,834;SUMOylation:62,112,266,402;Ubiquitylation:24,381,425,493,533,550,655,693,696,720,726,844

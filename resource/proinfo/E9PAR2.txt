@@ -1,0 +1,25 @@
+UniprotID	E9PAR2
+Accession	E9PAR2
+EntryName	E9PAR2_HUMAN
+ProteinName	cAMP responsive element modulator
+GeneName	CREM
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTYQIRAPTAALPQGVVMAASPGSLHSPQQLAEEATRKRELRLMKNREAARECRRKKKEYVKCLENRVAVLENQNKTLIEELKALKDLYCHKVE
+PTM	

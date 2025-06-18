@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GWC2
+Accession	A0A1B0GWC2
+EntryName	A0A1B0GWC2_HUMAN
+ProteinName	Mevalonate kinase (MK) (EC 2.7.1.36)
+GeneName	MVK
+Length	346
+Function	Catalyzes the phosphorylation of mevalonate to mevalonate 5-phosphate, a key step in isoprenoid and cholesterol biosynthesis.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRSPTGVCSGESHPSWRTCRGTWQGSTGCILELENIPPASTPQQWESGPQLTQHWYQAGLGCGQASVTGHKLSGALPSLDIVVWSELPPGAGLGSSAAYSVCLAAALLTVCEEIPNPLKDGDCVNRWTKEDLELINKWAFQGERMIHGNPSGVDNAVSTWGGALRYHQGKISSLKRSPALQILLTNTKVPRNTRALVAGVRNRLLKFPEIVAPLLTSIDAISLECERVLGEMGEAPAPEQYLVLEELIDMNQHHLNALGVGHASLDQLCQVTRARGLHSKLTGAGGGGCGITLLKPGLEQPEVEATKQALTSCGFDCLETSIGAPGVSIHSATSLDSRVQQALDGL
+PTM	

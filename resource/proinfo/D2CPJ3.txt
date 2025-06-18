@@ -1,0 +1,25 @@
+UniprotID	D2CPJ3
+Accession	D2CPJ3
+EntryName	D2CPJ3_HUMAN
+ProteinName	Mutant xeroderma pigmentosum group C
+GeneName	XPC
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SASRTHRGSHRKDPSLPAASSSSSSSKRGKKMCSDGEKAEKRSIAGIDQWLEVFCEQEEKWVCVDCVHGVVGQPLTCYKYATKPMTYVVGIDSDGWVRDVTQRYDPVWMTVTRKCRVDAEWWAETLRPYQSPFMDREKKEDLEFQAKHMDQPLPTAIGLYKNHPLYALKRHLLKY
+PTM	

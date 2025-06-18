@@ -1,0 +1,25 @@
+UniprotID	Q71MF4
+Accession	Q71MF4
+EntryName	Q71MF4_HUMAN
+ProteinName	Hypothetical gene supported by AF447883
+GeneName	PP13004 LOC401325 tcag7.996
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLPPCAPGHHGESRFFTFKSMTVAGQGDSDTAAISREPVACLLCVLPHWPPTCQLVLPASLTPAAGVAASAGGAESSKWLEQPREGGDPWEARSEFTWRTLEPQKHVCLWQPHGSTAGVNDP
+PTM	

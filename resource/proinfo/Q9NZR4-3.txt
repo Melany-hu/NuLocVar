@@ -1,0 +1,25 @@
+UniprotID	Q9NZR4-3
+Accession	Q9NZR4;B9EGJ4;D1MF28;Q0GM60;Q0GM61;Q0GM62;Q0GM63;Q0GM64;Q0GM65;Q5TF40;Q5TF41;Q9HCU3;Q9NU27
+EntryName	VSX1_HUMAN
+ProteinName	Visual system homeobox 1 (Homeodomain protein RINX) (Retinal inner nuclear layer homeobox protein) (Transcription factor VSX1)
+GeneName	VSX1 RINX
+Length	374
+Function	Binds to the 37-bp core of the locus control region (LCR) of the red/green visual pigment gene cluster (PubMed:10903837). May regulate the activity of the LCR and the cone opsin genes at earlier stages of development (PubMed:10903837). Dispensable in early retinal development (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	161..166
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	31...39
+nlsdbnls_region	
+validnes_region	31...39
+nesbase_region	
+Sequence	MTGRDSLSDGRTSSRALVPGGSPRGSRPRGFAITDLLGLEAELPAPAGPGQGSGCEGPAVAPCPGPGLDGSSLARGALPLGLGLLCGFGTQPPAAARAPCLLLADVPFLPPRGPEPAAPLAPSRPPPALGRQKRSDSVSTSGNQARAFRSCPCPLGSEPRRGHRPSPHRTPGPSGPDLGGEPRARPRRGRGIRGAAPPAPCCILNPCLSSGVLFPQRCETATTWFRVEPFDETLGSSTTISRGPFFPPAPGASLRLWQLRGSGRPGPVVVTSSTEQDEDSQSEDRNDLKASPTLGKRKKRRHRTVFTAHQLEELEKAFSEAHYPDVYAREMLAVKTELPEDRIQVSGVPFLRSKDTTENVSFPHSVSQSAVPSL
+PTM	Methylation:181;Phosphorylation:22,123,139

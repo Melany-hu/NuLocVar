@@ -1,0 +1,25 @@
+UniprotID	B3KNT3
+Accession	B3KNT3
+EntryName	B3KNT3_HUMAN
+ProteinName	Steroid receptor RNA activator 1, isoform CRA_a (cDNA FLJ30398 fis, clone BRACE2008402, highly similar to Steroid receptor RNA activator 1)
+GeneName	SRA1 hCG_20299
+Length	237
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRCPAGQAEVEMAELYVKPGNKERGWNDPPQFSYGLQTQAGGPRRSLLTKRVAAPQDGSPRVPASETSPGPPPMGPPPPSSKAPRSPPVGSGPASGVEPTSFPVESEARLMEDVLRPLEQALEDCRGHTRKQVCDDISRRLALLQEQWAGGKLSIPVKKRMALLVQELSSHRWDAADDIHRSLMVDHVTEVSQWMVGVKRLIAEKRSLFSEEAANEEKSAATAEKNHTIPGFQQAS
+PTM	

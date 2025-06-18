@@ -1,0 +1,25 @@
+UniprotID	A6NHH0
+Accession	A6NHH0;A0A024R8C3
+EntryName	A6NHH0_HUMAN
+ProteinName	Prostaglandin E synthase 2
+GeneName	PTGES2 hCG_1785478
+Length	186
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKAVNEQGKEVTEFGNKYWLMLNEKEAQQVYGGKEARTEEMKWRQWADDWLVHLISPNVYRTPTEALASFDYIVREGKFGAVEGAVAKYMGAAAMYLISKRLKSRHRLQDNVREDLYEAADKWVAAVGKDRPFMGGQKPNLADLAVYGVLRVMEGLDAFDDLMQHTHIQPWYLRVERAITEASPAH
+PTM	

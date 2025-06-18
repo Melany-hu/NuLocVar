@@ -1,0 +1,25 @@
+UniprotID	R4GMX3
+Accession	R4GMX3
+EntryName	R4GMX3_HUMAN
+ProteinName	Polycomb complex protein BMI-1 (Polycomb group RING finger protein 4)
+GeneName	COMMD3-BMI1
+Length	469
+Function	Component of a Polycomb group (PcG) multiprotein PRC1-like complex, a complex class required to maintain the transcriptionally repressive state of many genes, including Hox genes, throughout development. PcG PRC1 complex acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-119', rendering chromatin heritably changed in its expressibility. The complex composed of RNF2, UB2D3 and BMI1 binds nucleosomes, and has activity only with nucleosomal histone H2A. In the PRC1-like complex, regulates the E3 ubiquitin-protein ligase activity of RNF2/RING2.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	224...238
+validnes_region	
+nesbase_region	
+Sequence	MELSESVQKGFQMLADPRSFDSNAFTLLLRAAFQSLLDAQADEAVLDHPDLKHIDPVVLKHCHAAAATYILEAGKHRADKSTLSTYLEDCKFDRERIELFCTEYQNNKNSLEILLGRTLIPHPIQRLVLVAAWNNYRIFYQAEMHRTTRIKITELNPHLMCVLCGGYFIDATTIIECLHSFCKTCIVRYLETSKYCPICDVQVHKTRPLLNIRSDKTLQDIVYKLVPGLFKNEMKRRRDFYAAHPSADAANGSNEDRGEVADEDKRIITDDEIISLSIEFFDQNRLDRKVNKDKEKSKEEVNDKRYLRCPAAMTVMHLRKFLRSKMDIPNTFQIDVMYEEEPLKDYYTLMDIAYIYTWRRNGPLPLKYRVRPTCKRMKISHQRDGLTNAGELESDSGSDKANSPAGGIPSTSSCLPSPSTPVQSPHPQFPHISSTMNGTSNSPSGNHQSSFANRPRKSSVNGSSATSSG
+PTM	

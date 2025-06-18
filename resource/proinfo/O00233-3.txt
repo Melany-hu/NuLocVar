@@ -1,0 +1,25 @@
+UniprotID	O00233-3
+Accession	O00233;B2RD35;G3V1Q6;Q9BQ42
+EntryName	PSMD9_HUMAN
+ProteinName	26S proteasome non-ATPase regulatory subunit 9 (26S proteasome regulatory subunit p27)
+GeneName	PSMD9
+Length	118
+Function	Acts as a chaperone during the assembly of the 26S proteasome, specifically of the base subcomplex of the PA700/19S regulatory complex (RC). During the base subcomplex assembly is part of an intermediate PSMD9:PSMC6:PSMC3 module, also known as modulator trimer complex; PSMD9 is released during the further base assembly process.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDEEARQSGGSSQAGVVTVSDVQELMRRKEEIEAQIKANYDVLESGLQVDDEIVEFGSVNTQNFQSLHNIGSVVQHSEGKPLNVTVIRRGEKHQLRLVPTRWAGKGLLGCNIIPLQR
+PTM	Acetylation:198;Methylation:73,138;Phosphorylation:2,9,41,70;SUMOylation:48;Ubiquitylation:38,48,91,117,123,211

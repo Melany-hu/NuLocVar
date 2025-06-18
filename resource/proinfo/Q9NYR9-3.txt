@@ -1,0 +1,25 @@
+UniprotID	Q9NYR9-3
+Accession	Q9NYR9;A6NCZ5;B3KNN0;B4DNM3;Q6PK52;Q96KC7;Q9NSX1
+EntryName	KBRS2_HUMAN
+ProteinName	NF-kappa-B inhibitor-interacting Ras-like protein 2 (I-kappa-B-interacting Ras-like protein 2) (Kappa B-Ras protein 2) (KappaB-Ras2)
+GeneName	NKIRAS2 KBRAS2
+Length	135
+Function	Atypical Ras-like protein that acts as a potent regulator of NF-kappa-B activity by preventing the degradation of NF-kappa-B inhibitor beta (NFKBIB) by most signals, explaining why NFKBIB is more resistant to degradation. May act by blocking phosphorylation of NFKBIB and nuclear localization of p65/RELA NF-kappa-B subunit. It is unclear whether it acts as a GTPase. Both GTP- and GDP-bound forms block phosphorylation of NFKBIB (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKSCKVVVCGQASVGKTSILEQLLYGNHVVGSEMIETQEDIYVGSIETDRGVREQVTIVVLGNKCDLQEQRRVDPDVAQHWAKSEKVKLWEVSVADRRSLLEPFVYLASKMTQPQSKSAFPLSRKNKGSGSLDG
+PTM	Acetylation:140;Methylation:101,154,155;Phosphorylation:156,180,186;SUMOylation:140,145,174;Ubiquitylation:121,140,167,174

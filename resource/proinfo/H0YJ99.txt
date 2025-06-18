@@ -1,0 +1,25 @@
+UniprotID	H0YJ99
+Accession	H0YJ99
+EntryName	H0YJ99_HUMAN
+ProteinName	RPGR interacting protein 1
+GeneName	RPGRIP1
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ERLTRLLDLKNNRIKQLEERAPYPLTDRQLSFPSRTAQRCCLWHPTVVVMFGNTASPWR
+PTM	

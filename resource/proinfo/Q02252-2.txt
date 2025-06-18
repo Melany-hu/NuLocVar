@@ -1,0 +1,25 @@
+UniprotID	Q02252-2
+Accession	Q02252;B2R609;B4DFS8;J3KNU8;Q9UKM8
+EntryName	MMSA_HUMAN
+ProteinName	Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial (MMSDH) (EC 1.2.1.27) (Aldehyde dehydrogenase family 6 member A1) (Malonate-semialdehyde dehydrogenase [acylating])
+GeneName	ALDH6A1 MMSDH
+Length	522
+Function	Malonate and methylmalonate semialdehyde dehydrogenase involved in the catabolism of valine, thymine, and compounds catabolized by way of beta-alanine, including uracil and cytidine.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALLAAAAVRARILQVSSKVKSSPTWYSASSFSSSVPTVKLFIGGKFVESKSDKWIDIHNPATNEVIGRVPQATKAEMDAAIASCKRAFPAWADTSVLSRQQKEIAKLITLEQGKTLADAEGDVFRGLQVVEHACSVTSLMMGETMPSITKDMDLYSYRLPLGVCAGIAPFNFPAMIPLWMFPMAMVCGNTFLMKPSERVPGATMLLAKLLQDSGAPDGTLNIIHGQHEAVNFICDHPDIKAISFVGSNKAGEYIFERGSRHGKRVQANMGAKNHGVVMPDANKENTLNQLVGAAFGAAGQRCMALSTAVLVGEAKKWLPELVEHAKNLRVNAGDQPGADLGPLITPQAKERVCNLIDSGTKEGASILLDGRKIKVKGYENGNFVGPTIISNVKPNMTCYKEEIFGPVLVVLETETLDEAIQIVNNNPYGNGTAIFTTNGATARKYAHLVDVGQVGVNVPIPVPLPMFSFTGSRSSFRGDTNFYGKQGIQFYTQLKTITSQWKEEDATLSSPAVVMPTMGR
+PTM	Acetylation:47,52,55,113,121,129,264,331,341,364;Methylation:47,76,113,117,121,223,272,376,408,492;Phosphorylation:171,373,375,489,490;Ubiquitylation:364

@@ -1,0 +1,25 @@
+UniprotID	Q9NWW6-2
+Accession	Q9NWW6;Q5W124;Q8N430
+EntryName	NRK1_HUMAN
+ProteinName	Nicotinamide riboside kinase 1 (NRK 1) (NmR-K 1) (EC 2.7.1.22) (Nicotinic acid riboside kinase 1) (EC 2.7.1.173) (Ribosylnicotinamide kinase 1) (RNK 1) (Ribosylnicotinic acid kinase 1)
+GeneName	NMRK1 C9orf95 NRK1
+Length	175
+Function	Catalyzes the phosphorylation of nicotinamide riboside (NR) and nicotinic acid riboside (NaR) to form nicotinamide mononucleotide (NMN) and nicotinic acid mononucleotide (NaMN). The enzyme also phosphorylates the antitumor drugs tiazofurin and 3-deazaguanosine.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTFIIGISGVTNSGKTTLAKNLQKHLPNCSVISQDDFFKPESEIETDKNGFLQYDVLEALNMEKMMSAISCWMESARHSVVSTDQESAEEIPILIIEGFLLFNYNTRVYQPPDSPGYFDGHVWPMYLKYRQEMQDITWEVVYLDGTKSEEDLFLQVYEDLIQELAKQKCLQVTA
+PTM	Phosphorylation:139;Ubiquitylation:126

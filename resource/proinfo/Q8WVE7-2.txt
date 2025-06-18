@@ -1,0 +1,25 @@
+UniprotID	Q8WVE7-2
+Accession	Q8WVE7;B2R4R3;B4DPS4;D3DUK2;Q7Z6F3
+EntryName	T170A_HUMAN
+ProteinName	Transmembrane protein 170A
+GeneName	TMEM170A TMEM170
+Length	121
+Function	Acts as a regulator of endoplasmic reticulum (ER) and nuclear envelope (NE) morphogenesis. Affects the ratio between tubular ER and ER sheets by promoting sheet formation at the expense of tubules. Influences NE expansion, nuclear pore complex formation and proper localization of inner nuclear membrane proteins (PubMed:26906412).
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEREGSGGSGGSAGLLQQILSLKVVPRVGNGTLCPNSTSLCSFPEMWYGVFLWALVSSLFFHVPAGLLALFTLRHHKYGAAIAGVYRAAGKEMIPFEALTLGTGQTFCVLVVSFLRILATL
+PTM	Methylation:114;Phosphorylation:21,72;Ubiquitylation:23

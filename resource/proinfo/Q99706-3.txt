@@ -1,0 +1,25 @@
+UniprotID	Q99706-3
+Accession	Q99706;A8W795;O14621;O14622;O14623;O14624;O43534;P78400;P78401;Q8N738;Q99559;Q99560;Q99561;Q99562;Q9UQJ7
+EntryName	KI2L4_HUMAN
+ProteinName	Killer cell immunoglobulin-like receptor 2DL4 (CD158 antigen-like family member D) (G9P) (Killer cell inhibitory receptor 103AS) (KIR-103AS) (MHC class I NK cell receptor KIR103AS) (CD antigen CD158d)
+GeneName	KIR2DL4 CD158D KIR103AS
+Length	342
+Function	Receptor for non-classical major histocompatibility class Ib HLA-G molecules. Recognizes HLA-G in complex with B2M/beta-2 microglobulin and a nonamer self-peptide (peptide-bound HLA-G-B2M). In decidual NK cells, binds peptide-bound HLA-G-B2M complex and triggers NK cell senescence-associated secretory phenotype as a molecular switch to promote vascular remodeling and fetal growth in early pregnancy (PubMed:16366734, PubMed:23184984, PubMed:29262349). May play a role in balancing tolerance and antiviral-immunity at maternal-fetal interface by keeping in check the effector functions of NK, CD8+ T cells and B cells (PubMed:10190900, PubMed:16366734). Upon interaction with peptide-bound HLA-G-B2M, initiates signaling from the endosomal compartment leading to downstream activation of PRKDC-XRCC5 and AKT1, and ultimately triggering NF-kappa-B-dependent pro-inflammatory response (PubMed:20179272).
+Subcellular Location	Cell membrane; Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	282...287
+validnes_region	
+nesbase_region	
+Sequence	MSMSPTVIILACLGFFLDQSVWAHVGGQDKPFCSAWPSAVVPQGGHVTLRCHYRRGFNIFTLYKKDGVPVPELYNRIFWNSFLISPVTPAHAGTYRCRGFHPHSPTEWSAPSNPLVIMVTGLYEKPSLTARPGPTVRAGENVTLSCSSQSSFDIYHLSREGEAHELRLPAVPSINGTFQADFPLGPATHGETYRCFGSFHGSPYEWSDPSDPLPVSVTGNPSSSWPSPTEPSFKTDAAVMNQEPAGHRTVNREDSDEQDPQEVTYAQLDHCIFTQRKITGPSQRSKRPSTDTSVCIELPNAEPRALSPAHEHHSQALMGSSRETTALSQTQLASSNVPAAGI
+PTM	Methylation:319;Phosphorylation:120,123,320

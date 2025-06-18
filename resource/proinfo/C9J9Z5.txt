@@ -1,0 +1,25 @@
+UniprotID	C9J9Z5
+Accession	C9J9Z5
+EntryName	C9J9Z5_HUMAN
+ProteinName	Transmembrane protein 45A
+GeneName	TMEM45A
+Length	191
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTNDSEGKMGFKHPKIMGNFRGHALPGTFFFIIGLWWCTKSILKYICKKQKRTCYLGSKTLFYRLEILEGITIVGMALTGMAGEQFIPGGPHLMLYDYKQGHWNQLLGWHHFTMYFFFGLLGVADILCFTISSLPVSLTKLMLSNALFVEAFIFYNHTHGREMLDIFVHQLLVLVVFLTGLVAFLEFLVRN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96T68-2
+Accession	Q96T68;Q5TC65;Q5TC66;Q5W0A7;Q659A7;Q86UD6;Q96AI6
+EntryName	SETB2_HUMAN
+ProteinName	Histone-lysine N-methyltransferase SETDB2 (EC 2.1.1.366) (Chronic lymphocytic leukemia deletion region gene 8 protein) (Lysine N-methyltransferase 1F) (SET domain bifurcated 2)
+GeneName	SETDB2 C13orf4 CLLD8 KMT1F
+Length	707
+Function	Histone methyltransferase involved in left-right axis specification in early development and mitosis. Specifically trimethylates 'Lys-9' of histone H3 (H3K9me3). H3K9me3 is a specific tag for epigenetic transcriptional repression that recruits HP1 (CBX1, CBX3 and/or CBX5) proteins to methylated histones. Contributes to H3K9me3 in both the interspersed repetitive elements and centromere-associated repeats. Plays a role in chromosome condensation and segregation during mitosis.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	416...421
+validnes_region	
+nesbase_region	
+Sequence	MGEKNGDAKTFWMELEDDGKVDFIFEQVQNVLQSLKQKIKDGSATNKEYIQAMILVNEATIINSSTSIKDPMPVTQKEQENKSNAFPSTSCENSFPEDCTFLTTENKEILSLEDKVVDFREKDSSSNLSYQSHDCSGACLMKMPLNLKGENPLQLPIKCHFQRRHAKTNSHSSALHVSYKTPCGRSLRNVEEVFRYLLETECNFLFTDNFSFNTYVQLARNYPKQKEVVSDVDISNGVESVPISFCNEIDSRKLPQFKYRKTVWPRAYNLTNFSSMFTDSCDCSEGCIDITKCACLQLTARNAKTSPLSSDKITTGYKYKRLQRQIPTGIYECSLLCKCNRQLCQNRVVQHGPQVRLQVFKTEQKGWGVRCLDDIDRGTFVCIYSGRLLSRANTEKSYGIDENGRDENTMKNIFSKKRKLEVACSDCEVEVLPLGLETHPRTAKTEKCPPKFSNNPKELTVETKYDNISRIQYHSVIRDPESKTAIFQHNGKKMEFVSSESVTPEDNDGFKPPREHLNSKTKGAQKDSSSNHVDEFEDNLLIESDVIDITKYREETPPRSRCNQATTLDNQNIKKAIEVQIQKPQEGRSTACQRQQVFCDEELLSETKNTSSDSLTKFNKGNVFLLDATKEGNVGRFLNHSCCPNLLVQNVFVETHNRNFPLVAFFTNRYVKARTELTWDYGYEAGTVPEKEIFCQCGVNKCRKKIL
+PTM	Methylation:89,160,304,563;Phosphorylation:123,317,318,321,322,326,327,329,409,437,496,513,515,568;SUMOylation:9,127,160,373,423,495,523,620

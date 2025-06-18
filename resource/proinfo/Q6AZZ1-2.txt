@@ -1,0 +1,25 @@
+UniprotID	Q6AZZ1-2
+Accession	Q6AZZ1;A6NI19;A8K551;B3KPM5;B4DVK4;Q8WZ70;Q96LE5;Q96PF7;Q9H9C2;Q9NW18
+EntryName	TRI68_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM68 (EC 2.3.2.27) (RING finger protein 137) (RING-type E3 ubiquitin transferase TRIM68) (SSA protein SS-56) (SS-56) (Tripartite motif-containing protein 68)
+GeneName	TRIM68 GC109 RNF137 SS56
+Length	206
+Function	Functions as a ubiquitin E3 ligase. Acts as a coactivator of androgen receptor (AR) depending on its ubiquitin ligase activity.
+Subcellular Location	Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQKLELKTDCRVLGLREILKTYAADVRLDPDTAYSRLIVSEDRKRVHYGDTNQKLPDNPERFYRYNIVLGSQCISSGRHYWEVEVGDRSEWGLGVCKQNVDRKEVVYLSPHYGFWVIRLRKGNEYRAGTDEYPILSLPVPPRRVGIFVDYEAHDISFYNVTDCGSHIFTFPRYPFPGRLLPYFSPCYSIGTNNTAPLAICSLDGED
+PTM	Methylation:81,153,197,249,299;Phosphorylation:215,301,313,408,411;SUMOylation:153;Ubiquitylation:81,299

@@ -1,0 +1,25 @@
+UniprotID	O75829-2
+Accession	O75829;Q5TAM4;Q8TAY6;Q9UM18
+EntryName	CNMD_HUMAN
+ProteinName	Leukocyte cell-derived chemotaxin 1 (Chondromodulin) [Cleaved into: Chondrosurfactant protein (CH-SP); Chondromodulin-1 (Chondromodulin-I) (ChM-I)]
+GeneName	CNMD CHMI LECT1 MYETS1
+Length	333
+Function	Bifunctional growth regulator that stimulates the growth of cultured chondrocytes in the presence of basic fibroblast growth factor (FGF) but inhibits the growth of cultured vascular endothelial cells. May contribute to the rapid growth of cartilage and vascular invasion prior to the replacement of cartilage by bone during endochondral bone development. Inhibits in vitro tube formation and mobilization of endothelial cells. Plays a role as antiangiogenic factor in cardiac valves to suppress neovascularization.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTENSDKVPIALVGPDDVEFCSPPAYATLTVKPSSPARLLKVGAVVLISGAVLLLFGAIGAFYFWKGSDSHIYNVHYTMSINGKLQDGSMEIDAGNNLETFKMGSGAEEAIAVNDFQNGITGIRFAGGEKCYIKAQVKARIPEVGAVTKQSISSKLEGKIMPVKYEENSLIWVAVDQPVKDNSFLSSKVLELCGDLPIFWLKPTYPKEIQRERREVVRKIVPTTTKRPHSGPRSNPGAGRLNNETRPSVQEDSQAFNPDNPYHQEGESMTFDPRLDHEGICCIECRRSYTHCQKICEPLGGYYPWPYNYQGCRSACRVIMPCSWWVARILGMV
+PTM	Methylation:41,149,219

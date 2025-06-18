@@ -1,0 +1,25 @@
+UniprotID	P30793-4
+Accession	P30793;Q6FHY7;Q9Y4I8
+EntryName	GCH1_HUMAN
+ProteinName	GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I) (GTP-CH-I)
+GeneName	GCH1 DYT5 GCH
+Length	233
+Function	Positively regulates nitric oxide synthesis in umbilical vein endothelial cells (HUVECs). May be involved in dopamine synthesis. May modify pain sensitivity and persistence. Isoform GCH-1 is the functional enzyme, the potential function of the enzymatically inactive isoforms remains unknown.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKGPVRAPAEKPRGARCSNGFPERDPPRPGPSRPAEKPPRPEAKSAQPADGWKGERPRSEEDNELNLPNLAAAYSSILSSLGENPQRQGLLKTPWRAASAMQFFTKGYQETISDVLNDAIFDEDHDEMVIVKDIDMFSMCEHHLVPFVGKVHIGYLPNKQVLGLSKLARIVEIYSRRLQVQERLTKQIAVAITEALRPAGVGVVVEATKSNKYNKGLSPLLSSCHLFVAILK
+PTM	Methylation:93,107,133;Phosphorylation:60,94,106;SUMOylation:12,160;Ubiquitylation:93,167

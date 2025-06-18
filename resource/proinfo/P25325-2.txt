@@ -1,0 +1,25 @@
+UniprotID	P25325-2
+Accession	P25325;A8MZ34;B3KP52;J3KPV7;O75750;Q6FHN9
+EntryName	THTM_HUMAN
+ProteinName	3-mercaptopyruvate sulfurtransferase (MST) (EC 2.8.1.2)
+GeneName	MPST TST2
+Length	317
+Function	Transfer of a sulfur ion to cyanide or to other thiol compounds. Also has weak rhodanese activity. Detoxifies cyanide and is required for thiosulfate biosynthesis. Acts as an antioxidant. In combination with cysteine aminotransferase (CAT), contributes to the catabolism of cysteine and is an important producer of hydrogen sulfide in the brain, retina and vascular endothelial cells. Hydrogen sulfide H(2)S is an important synaptic modulator, signaling molecule, smooth muscle contractor and neuroprotectant. Its production by the 3MST/CAT pathway is regulated by calcium ions.
+Subcellular Location	Cytoplasm; Mitochondrion; Synapse; Synaptosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEPGSRESETRARSPSVAAMASPQLCRALVSAQWVAEALRAPRAGQPLQLLDASWYLPKLGRDARREFEERHIPGAAFFDIDQCSDRTSPYDHMLPGAEHFAEYAGRLGVGAATHVVIYDASDQGLYSAPRVWWMFRAFGHHAVSLLDGGLRHWLRQNLPLSSGKSQPAPAEFRAQLDPAFIKTYEDIKENLESRRFQVVDSRATGRFRGTEPEPRDGIEPGHIPGTVNIPFTDFLSQEGLEKSPEEIRHLFQEKKVDLSKPLVATCGSGVTACHVALGAYLCGKPDVPIYDGSWVEWYMRARPEDVISEGRGKTH
+PTM	Acetylation:40,164;Methylation:224,242,293;Phosphorylation:3,12,35,143,166,218,225,241,296;SUMOylation:170;Ubiquitylation:40,146,164,224,236

@@ -1,0 +1,25 @@
+UniprotID	F8VS60
+Accession	F8VS60
+EntryName	F8VS60_HUMAN
+ProteinName	LETM1 domain containing 1
+GeneName	LETMD1
+Length	158
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYVVTKTKAINGKYHRFLGRHFPRFYVLYTIFMKVPPRRHQVSFPRYYFHSTFCQLPGLLANRGTHPAIHDILALRECFSNHPLGMNQLQALHVKALSRAMLLTSYLPPPLLRHRLKTHTTVIHQLDKALAKLGIGQLTAQEVKSACYLRGLNSTHI
+PTM	

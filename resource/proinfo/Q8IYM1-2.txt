@@ -1,0 +1,25 @@
+UniprotID	Q8IYM1-2
+Accession	Q8IYM1;Q0P6B0;Q1PBH0;Q96LL0
+EntryName	SEP12_HUMAN
+ProteinName	Septin-12
+GeneName	SEPTIN12 SEPT12
+Length	312
+Function	Filament-forming cytoskeletal GTPase (By similarity). Involved in spermatogenesis. Involved in the morphogenesis of sperm heads and the elongation of sperm tails probably implicating the association with alpha- and beta-tubulins (PubMed:24213608). Forms a filamentous structure with SEPTIN7, SEPTIN6, SEPTIN2 and probably SEPTIN4 at the sperm annulus which is required for the structural integrity and motility of the sperm tail during postmeiotic differentiation (PubMed:25588830). May play a role in cytokinesis (Potential).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Spindle; Nucleus; Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPLRRSPSPCLSSQPSSPSTPPCEMLGPVGIEAVLDQLKIKAMKMGFEFNIMVVGQSGLGKSTMVNTLFKSKVWKSNPPGLGVPTPQTLQLHSLTHVIEEKGVKLKLTVTDTPGFGDQINNDNCLRPLDIEFLQRLCRTVNVVPVIARADSLTMEEREAFRRRIQQNLRTHCIDVYPQMCFDEDINDKILNSKLRDRIPFAVVGADQEHLVNGRCVLGRKTKWGIIEVENMAHCEFPLLRDLLIRSHLQDLKDITHNIHYENYRVIRLNESHLLPRGPGWVNLAPASPGQLTTPRTFKVCRGAHDDSDDEF
+PTM	Methylation:40,62,235,299;Phosphorylation:58,72,339

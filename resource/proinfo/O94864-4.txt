@@ -1,0 +1,25 @@
+UniprotID	O94864-4
+Accession	O94864;B4E3W3;Q6IB21;Q9H2T6
+EntryName	ST65G_HUMAN
+ProteinName	STAGA complex 65 subunit gamma (Adenocarcinoma antigen ART1) (SPTF-associated factor 65 gamma) (STAF65gamma) (Suppressor of Ty 7-like)
+GeneName	SUPT7L KIAA0764
+Length	279
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLQSGKGEPVTELSWHSCRQLLYQAVATILAHAGFDCANESVLETLTDVAHEYCLKFTKLLRFAVDREARLGQTPFPDVMEQVFHEVGIGSVLSLQKFWQHRIKDYHSYMLQISKQLSEEYERIVNPEKATEDAKPVKIKEEPVSDITFPVSEELEADLASGDQSLPMGVLGAQSERFPSNLEVEASPQASSAEVNASPLWNLAHVKMEPQESEEGNVSGHGVLGSDVFEEPMSGMSEAGIPQSPDDSDSSYGSHSTDSLMGSSPVFNQRCKKRMRKI
+PTM	Methylation:95,251;Phosphorylation:6,17,20,21,82,91,99,104,108,230,316,323,327,328,334;SUMOylation:121,251,271,276,343;Ubiquitylation:142,195,271

@@ -1,0 +1,25 @@
+UniprotID	Q00059-2
+Accession	Q00059;A8MRB2;A9QXC6;B5BU05;Q5U0C6
+EntryName	TFAM_HUMAN
+ProteinName	Transcription factor A, mitochondrial (mtTFA) (Mitochondrial transcription factor 1) (MtTF1) (Transcription factor 6) (TCF-6) (Transcription factor 6-like 2)
+GeneName	TFAM TCF6 TCF6L2
+Length	214
+Function	Binds to the mitochondrial light strand promoter and functions in mitochondrial transcription regulation (PubMed:29445193, PubMed:32183942). Component of the mitochondrial transcription initiation complex, composed at least of TFB2M, TFAM and POLRMT that is required for basal transcription of mitochondrial DNA (PubMed:29149603). In this complex, TFAM recruits POLRMT to a specific promoter whereas TFB2M induces structural changes in POLRMT to enable promoter opening and trapping of the DNA non-template strand (PubMed:20410300). Required for accurate and efficient promoter recognition by the mitochondrial RNA polymerase (PubMed:22037172). Promotes transcription initiation from the HSP1 and the light strand promoter by binding immediately upstream of transcriptional start sites (PubMed:22037172). Is able to unwind DNA (PubMed:22037172). Bends the mitochondrial light strand promoter DNA into a U-turn shape via its HMG boxes (PubMed:1737790). Required for maintenance of normal levels of mitochondrial DNA (PubMed:19304746, PubMed:22841477). May play a role in organizing and compacting mitochondrial DNA (PubMed:22037171).
+Subcellular Location	Mitochondrion; Mitochondrion matrix; Mitochondrion nucleoid
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFLRSMWGVLSALGRSGAELCTGCGSRLRSPFSFVYLPRWFSSVLASCPKKPVSSYLRFSKEQLPIFKAQNPDAKTTELIRRIAQRWRELPDSKKKIYQDAYRAEWQVYKEEISRFKEQLTPSQIMSLEKEIMDKHLKRKAMTKKKEKLKTVKENWKNLSDSEKELYIQHAKEDETRYHNEMKSWEEQMIEVGRKDLLRRTIKKQRKYGAEEC
+PTM	Acetylation:62,76,95,111,136,174,197,205;Methylation:69,82,131,154;Phosphorylation:44,48,99,122,124,128,177,193,195,200;Ubiquitylation:52,62,69,76,111,118,174,240

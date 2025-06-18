@@ -1,0 +1,25 @@
+UniprotID	F8W6Y5
+Accession	F8W6Y5
+EntryName	F8W6Y5_HUMAN
+ProteinName	AGBL carboxypeptidase 3
+GeneName	AGBL3
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEDSEKEDYSDRTISDEDESDEDMFMKFVSEDLHRCALLTDWTPSCPEPVYIPTGLETEPLYPDSKEATVVYLAEDGEHIMTHVAVKYNLVL
+PTM	

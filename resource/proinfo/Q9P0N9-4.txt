@@ -1,0 +1,25 @@
+UniprotID	Q9P0N9-4
+Accession	Q9P0N9;E7EV96;Q2TU37;Q53F44;Q5SZL7;Q86VM8;Q96MB8
+EntryName	TBCD7_HUMAN
+ProteinName	TBC1 domain family member 7 (Cell migration-inducing protein 23)
+GeneName	TBC1D7 TBC7 HSPC239
+Length	247
+Function	Non-catalytic component of the TSC-TBC complex, a multiprotein complex that acts as a negative regulator of the canonical mTORC1 complex, an evolutionarily conserved central nutrient sensor that stimulates anabolic reactions and macromolecule biosynthesis to promote cellular biomass generation and growth (PubMed:22795129, PubMed:24529379). The TSC-TBC complex acts as a GTPase-activating protein (GAP) for the small GTPase RHEB, a direct activator of the protein kinase activity of mTORC1 (PubMed:22795129, PubMed:24529379). In absence of nutrients, the TSC-TBC complex inhibits mTORC1, thereby preventing phosphorylation of ribosomal protein S6 kinase (RPS6KB1 and RPS6KB2) and EIF4EBP1 (4E-BP1) by the mTORC1 signaling (PubMed:22795129). The TSC-TBC complex is inactivated in response to nutrients, relieving inhibition of mTORC1 (PubMed:24529379).
+Subcellular Location	Lysosome membrane; Cytoplasmic vesicle; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEDSQRNFRSVYYEKVGFRGVEEKKSLEILLKDDRLDTEKLCTFSQRFPLPSMYRALVWKVLLGILPPHHESHAKVMMYRKEQYLDVLHALKVVRFVSDATPQAEVYLRMYQLESGKLPRSPSFPLPKAFEQYLNLEDGRLLTHLRMCSAAPKLPYDLWFKRCFAGCLPESSLQRVWDKVVSGSCKILVFVAVEILLTFKIKVMALNSAEKITKFLENIPQDSSDAIVSKAIDLWHKHCGTPVHSS
+PTM	Methylation:25,33,277;Phosphorylation:11,13,14,73,80,116;Ubiquitylation:16,165

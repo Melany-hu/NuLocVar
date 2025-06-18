@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J207
+Accession	A0A0B4J207
+EntryName	A0A0B4J207_HUMAN
+ProteinName	ribose-phosphate diphosphokinase (EC 2.7.6.1)
+GeneName	PRPS1L1
+Length	318
+Function	Catalyzes the synthesis of phosphoribosylpyrophosphate (PRPP) that is essential for nucleotide synthesis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TPNIKIFSGSSHQDLSQKIADRLGLELGKVVTKKFSNQETCVEIDESVRGEDVYIVQSGCGEINDSLMELLIMINACKIASASRVTAVIPCFPYARQDKKDKSRSPISAKLVANMLSIAGADHIITMDLHASQIQGFFDIPVDNLYAEPTVLKWIRENIPEWKNCIIVSPDAGGAKRVTSIADQLNVDFALIHKERKKANEVDCIVLVGDVNDRVAILVDDMADTCVTICLAADKLLSAGATRVYAILTHGIFSGPAISRINTACFEAVVVTNTIPQDEKMKHCSKIRVIDISMILAEAIRRTHNGESVSYLFSHVPL
+PTM	

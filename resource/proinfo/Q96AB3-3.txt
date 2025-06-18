@@ -1,0 +1,25 @@
+UniprotID	Q96AB3-3
+Accession	Q96AB3;Q6ZN91;Q9H5G0
+EntryName	ISOC2_HUMAN
+ProteinName	Isochorismatase domain-containing protein 2
+GeneName	ISOC2
+Length	135
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAARPSLGRVLPGSSVLFLCDMQEKFRHNIAYFPQIVSVAARMLKNTTLDLLDRGLQVHVVVDACSSRSQVDRLVALARMRQSGAFLSTSEGLILQLVGDAVHPQFKEIQKLIKEPAPDSGLLGLFQGQNSLLH
+PTM	Acetylation:26,182,185;Methylation:144,182;Phosphorylation:7,191,202;SUMOylation:185;Ubiquitylation:178,185

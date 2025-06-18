@@ -1,0 +1,25 @@
+UniprotID	Q8IW36-1
+Accession	Q8IW36;Q5T0N9;Q5T0P1;Q5T0P3;Q7Z2W8;Q7Z648
+EntryName	ZN695_HUMAN
+ProteinName	Zinc finger protein 695 (Zinc finger protein SBZF3)
+GeneName	ZNF695
+Length	172
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLAFRDVALEFSPEEWECLDPAQRSLYRDVMLENYRNLISLGEDSFNMQFLFHSLAMSKPELIICLEARKEPWNVNTEKTARHSVLSSYLTEDILPEQGLQVSFQKVMLRRYERCCLEKLRLRNDWEIPCEDVLASPLPSAMILSFLRPPQKQKHVKPTEPVQSSTIELL
+PTM	Methylation:260;Phosphorylation:27,291,337,375,431,459;SUMOylation:167,182,294,297,306,325,334,378,381,409,434,462,465,493;Ubiquitylation:167,297,378,381,437,462,465

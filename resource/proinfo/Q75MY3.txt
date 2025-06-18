@@ -1,0 +1,25 @@
+UniprotID	Q75MY3
+Accession	Q75MY3
+EntryName	Q75MY3_HUMAN
+ProteinName	Uncharacterized protein SNX10
+GeneName	SNX10
+Length	97
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VLQNALLLSDSSLHLFLQSHLNSEDIEACVSGQTKYSVEEAIHKFALMNRRFPEEDEEGKKENDIDYDSESSSSGLGHSSDDSSSHGCKVNTAPQES
+PTM	

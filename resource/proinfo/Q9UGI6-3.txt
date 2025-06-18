@@ -1,0 +1,25 @@
+UniprotID	Q9UGI6-3
+Accession	Q9UGI6;B1ANX0;O43517;Q86VF9;Q8WXG7
+EntryName	KCNN3_HUMAN
+ProteinName	Small conductance calcium-activated potassium channel protein 3 (SK3) (SKCa 3) (SKCa3) (KCa2.3)
+GeneName	KCNN3 K3
+Length	418
+Function	Small conductance calcium-activated potassium channel that mediates the voltage-independent transmembrane transfer of potassium across the cell membrane through a constitutive interaction with calmodulin which binds the intracellular calcium allowing its opening (PubMed:12808432, PubMed:20562108, PubMed:31155282, PubMed:36502918). The current is characterized by a voltage-independent activation, an intracellular calcium concentration increase-dependent activation and a single-channel conductance of 10 picosiemens (PubMed:12808432, PubMed:20562108, PubMed:31155282, PubMed:36502918). Also presents an inwardly rectifying current, thus reducing its already small outward conductance of potassium ions, which is particularly the case when the membrane potential displays positive values, above + 20 mV (PubMed:12808432). Activation is followed by membrane hyperpolarization. Thought to regulate neuronal excitability by contributing to the slow component of synaptic afterhyperpolarization (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSLALKCLISLSTIILLGLIIAYHTREVQLFVIDNGADDWRIAMTYERILYISLEMLVCAIHPIPGEYKFFWTARLAFSYTPSRAEADVDIILSIPMFLRLYLIARVMLLHSKLFTDASSRSIGALNKINFNTRFVMKTLMTICPGTVLLVFSISLWIIAAWTVRVCERYHDQQDVTSNFLGAMWLISITFLSIGYGDMVPHTYCGKGVCLLTGIMGAGCTALVVAVVARKLELTKAEKHVHNFMMDTQLTKRIKNAAANVLRETWLIYKHTKLLKKIDHAKVRKHQRKFLQAIHQLRSVKMEQRKLSDQANTLVDLSKMQNVMYDLITELNDRSEDLEKQIGSLESKLEHLTASFNSLPLLIADTLRQQQQQLLSAIIEARGVSVAVGTTHTPISDSPIGVSSTSFPTPYTSSSSC
+PTM	Methylation:320,452,633,654,662;Phosphorylation:128,159,167,189,192,194,223,622,627,632;Ubiquitylation:654

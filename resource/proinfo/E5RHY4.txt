@@ -1,0 +1,25 @@
+UniprotID	E5RHY4
+Accession	E5RHY4
+EntryName	E5RHY4_HUMAN
+ProteinName	MOK protein kinase
+GeneName	MOK
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNYKAIGKIGEGTFSEVMKMQSLRDGNYYACKQMKQRFEREKIPIIRKKNYALYVPVM
+PTM	

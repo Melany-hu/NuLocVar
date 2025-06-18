@@ -1,0 +1,25 @@
+UniprotID	M0QZP7
+Accession	M0QZP7
+EntryName	M0QZP7_HUMAN
+ProteinName	Distal membrane arm assembly component 2
+GeneName	DMAC2
+Length	150
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYGAGAFFILKQGGAVKFRDKEWIRPDKYGHFSQEFWNFCEVPVEAVDAGDCDINYEGLDNLLRLKELQSLSLQRCCHVDDWCLSRLYPLADSLQELSLAGCPRISERGLACLHHLQNLRRLDISDLPAVSNPGLTQILVEEMLPNCEGP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UM11-2
+Accession	Q9UM11;O75869;Q86U66;Q96NW8;Q9UI96;Q9ULH8;Q9UM10;Q9UNQ1;Q9Y2T8
+EntryName	FZR1_HUMAN
+ProteinName	Fizzy-related protein homolog (Fzr) (CDC20-like protein 1) (Cdh1/Hct1 homolog) (hCDH1)
+GeneName	FZR1 CDH1 FYR FZR KIAA1242
+Length	493
+Function	Substrate-specific adapter for the anaphase promoting complex/cyclosome (APC/C) E3 ubiquitin-protein ligase complex. Associates with the APC/C in late mitosis, in replacement of CDC20, and activates the APC/C during anaphase and telophase. The APC/C remains active in degrading substrates to ensure that positive regulators of the cell cycle do not accumulate prematurely. At the G1/S transition FZR1 is phosphorylated, leading to its dissociation from the APC/C. Following DNA damage, it is required for the G2 DNA damage checkpoint: its dephosphorylation and reassociation with the APC/C leads to the ubiquitination of PLK1, preventing entry into mitosis. Acts as an adapter for APC/C to target the DNA-end resection factor RBBP8/CtIP for ubiquitination and subsequent proteasomal degradation. Through the regulation of RBBP8/CtIP protein turnover, may play a role in DNA damage response, favoring DNA double-strand repair through error-prone non-homologous end joining (NHEJ) over error-free, RBBP8-mediated homologous recombination (HR) (PubMed:25349192).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQDYERRLLRQIVIQNENTMPRVTEMRRTLTPASSPVSSPSKHGDRFIPSRAGANWSVNFHRINENEKSPSQNRKAKDATSDNGKDGLAYSALLKNELLGAGIEKVQDPQTEDRRLQPSTPEKKGLFTYSLSTKRSSPDDGNDVSPYSLSPVSNKSQKLLRSPRKPTRKISKIPFKVLDAPELQDDFYLNLVDWSSLNVLSVGLGTCVYLWSACTSQVTRLCDLSVEGDSVTSVGWSERGNLVAVGTHKGFVQIWDAAAGKKLSMLEGHTARVGALAWNAEQLSSGSRDRMILQRDIRTPPLQSERRLQGHRQEVCGLKWSTDHQLLASGGNDNKLLVWNHSSLSPVQQYTEHLAAVKAIAWSPHQHGLLASGGGTADRCIRFWNTLTGQPLQCIDTGSQVCNLAWSKHANELVSTHGYSQNQILVWKYPSLTQVAKLTGHSYRVLYLAMSPDGEAIVTGAGDETLRFWNVFSKTRSTKESVSVLNLFTRIR
+PTM	Methylation:96,262;Phosphorylation:30,32,35,36,39,40,42,70,72,120,121,133,134,137,138,146,148,149,151,154,163;SUMOylation:69,86,96,106,124,125,135,173,263,336;Ubiquitylation:69,86,96,135,156,173,262,263

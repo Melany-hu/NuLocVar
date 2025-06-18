@@ -1,0 +1,25 @@
+UniprotID	C9JDJ7
+Accession	C9JDJ7
+EntryName	C9JDJ7_HUMAN
+ProteinName	U2 snRNP associated SURP domain containing
+GeneName	U2SURP
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	46...51
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDASGPSDSDMPSRTRPKSPRKHNYRNESARESLCDSPHQNLSRPLLENKLKAFSIGKMSTAKRTLSKKEQEELKKKEDEKAAAEIYEEFLAAFEGSDGNKVKTFVRGGVVNAAKEEHETDEKRGKIYKP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O95379-4
+Accession	O95379;B3KMH1;B3KMI2;B7Z713;Q9P1Q1;Q9UER5;Q9UP47
+EntryName	TFIP8_HUMAN
+ProteinName	Tumor necrosis factor alpha-induced protein 8 (TNF alpha-induced protein 8) (Head and neck tumor and metastasis-related protein) (MDC-3.13) (NF-kappa-B-inducible DED-containing protein) (NDED) (SCC-S2) (TNF-induced protein GG2-1)
+GeneName	TNFAIP8
+Length	210
+Function	Acts as a negative mediator of apoptosis and may play a role in tumor progression. Suppresses the TNF-mediated apoptosis by inhibiting caspase-8 activity but not the processing of procaspase-8, subsequently resulting in inhibition of BID cleavage and caspase-3 activation.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLPRYCEVVLLIAHGEKMLKLVATDVFNSKNLAVQAQKKILGKMVSKSIATTLIDDTSSEVLDELYRVTREYTQNKKEAEKIIKNLIKTVIKLAILYRNNQFNQDELALMEKFKKKVHQLAMTVVSFHQVDYTFDRNVLSRLLNECREMLHQIIQRHLTAKSHGRVNNVFDHFSDCEFLAALYNPFGNFKPHLQKLCDGINKMLDEENI
+PTM	Methylation:32,77;Phosphorylation:3,8,13

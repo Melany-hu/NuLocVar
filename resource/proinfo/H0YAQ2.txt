@@ -1,0 +1,25 @@
+UniprotID	H0YAQ2
+Accession	H0YAQ2
+EntryName	H0YAQ2_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoprotein H1
+GeneName	HNRNPH1
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SGEAFVELESEDEVKLALKKDRETMGHRYVEVFKSNNVEMDWVLKHTGPNSPDTANDGFVRLRGLPFGCSKEEIVQFFSGILKSLRAVELKLELIMIHHESLWPCSGQVLMTDLGLVEGITALAEELALRG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96S90-2
+Accession	Q96S90;B4DQA1;Q69YX9
+EntryName	LYSM1_HUMAN
+ProteinName	LysM and putative peptidoglycan-binding domain-containing protein 1
+GeneName	LYSMD1 SB145
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSGPLRISEWKMEQIKRANRLYTNDSIFLKKTLYIPILTEPRDLFNGLDSEEEKDGEEKVHPSNSEVWPHSTERKKQETGAGRANGEVLPTPGQETPTPIHDLSASDFLKKLDSQISLSKKAAAQKLKKGENGVPGEDAGLHLSSPWMQQRAVLGPVPLTRTSRTRTLRDQEDEIFKL
+PTM	Methylation:56,65,159;Phosphorylation:3,5,19,23,24,26,30,33,83,99,120,145,147,153,166,168,194;SUMOylation:169

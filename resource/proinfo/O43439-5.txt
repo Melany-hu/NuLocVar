@@ -1,0 +1,25 @@
+UniprotID	O43439-5
+Accession	O43439;B2RAE6;F8W6D7;Q5TGE4;Q5TGE5;Q5TGE6;Q5TGE7;Q8IWF3;Q96B06;Q96L00;Q9H436;Q9UJP8;Q9UJP9;Q9UP24
+EntryName	MTG8R_HUMAN
+ProteinName	Protein CBFA2T2 (ETO homologous on chromosome 20) (MTG8-like protein) (MTG8-related protein 1) (Myeloid translocation-related protein 1) (p85)
+GeneName	CBFA2T2 EHT MTGR1
+Length	595
+Function	Transcriptional corepressor which facilitates transcriptional repression via its association with DNA-binding transcription factors and recruitment of other corepressors and histone-modifying enzymes (PubMed:12559562, PubMed:15203199). Via association with PRDM14 is involved in regulation of embryonic stem cell (ESC) pluripotency (PubMed:27281218). Involved in primordial germ cell (PCG) formation. Stabilizes PRDM14 and OCT4 on chromatin in a homooligomerization-dependent manner (By similarity). Can repress the expression of MMP7 in a ZBTB33-dependent manner (PubMed:23251453). May function as a complex with the chimeric protein RUNX1/AML1-CBFA2T1/MTG8 (AML1-MTG8/ETO fusion protein) which is produced in acute myeloid leukemia with the chromosomal translocation t(8;21). May thus be involved in the repression of AML1-dependent transcription and the induction of G-CSF/CSF3-dependent cell growth. May be a tumor suppressor gene candidate involved in myeloid tumors with the deletion of the 20q11 region. Through heteromerization with CBFA2T3/MTG16 may be involved in regulation of the proliferation and the differentiation of erythroid progenitors by repressing the expression of TAL1 target genes (By similarity). Required for the maintenance of the secretory cell lineage in the small intestine. Can inhibit Notch signaling probably by association with RBPJ and may be involved in GFI1-mediated Paneth cell differentiation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGVPGAAAFQLGPEKRVPAMPGSPVEVKIQSRSSPPTMPPLPPINPGGPRPVSFTPTALSNGINHSPPTLNGAPSPPQRFSNGPASSTSSALTNQQLPATCGARQLSKLKRFLTTLQQFGNDISPEIGEKVRTLVLALVNSTVTIEEFHCKLQEATNFPLRPFVIPFLKANLPLLQRELLHCARAAKQTPSQYLAQHEHLLLNTSIASPADSSELLMEVHGNGKRPSPERREENSFDRDTIAPEPPAKRVCTISPAPRHSPALTVPLMNPGGQFHPTPPPLQHYTLEDIATSHLYREPNKMLEHREVRDRHHSLGLNGGYQDELVDHRLTEREWADEWKHLDHALNCIMEMVEKTRRSMAVLRRCQESDREELNYWKRRYNENTELRKTGTELVSRQHSPGSADSLSNDSQREFNSRPGTGYVPVEFWKKTEEAVNKVKIQAMSEVQKAVAEAEQKAFEVIATERARMEQTIADVKRQAAEDAFLVINEQEESTENCWNCGRKASETCSGCNIARYCGSFCQHKDWERHHRLCGQNLHGQSPHGQGRPLLPVGRGSSARSADCSVPSPALDKTSATTSRSSTPASVTAIDTNGL
+PTM	Acetylation:258,447;Methylation:38,140,258,447,458;Phosphorylation:33,43,44,47,237,262,264,270,323,365,399,401,409,412,415,417,420,551,570,574,577,583,584,588,590,591,592,595;SUMOylation:38,258,310,398,449,466,486

@@ -1,0 +1,25 @@
+UniprotID	O15160-2
+Accession	O15160;O75395;Q5JTE3
+EntryName	RPAC1_HUMAN
+ProteinName	DNA-directed RNA polymerases I and III subunit RPAC1 (DNA-directed RNA polymerase I subunit C) (RNA polymerases I and III subunit AC1) (AC40) (DNA-directed RNA polymerases I and III 40 kDa polypeptide) (RPA40) (RPA39) (RPC40)
+GeneName	POLR1C POLR1E
+Length	342
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I and III which synthesize ribosomal RNA precursors and short non-coding RNAs including 5S rRNA, snRNAs, tRNAs and miRNAs, respectively. POLR1C/RPAC1 is part of the polymerase core and may function as a clamp element that moves to open and close the cleft.
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASQAVEEMRSRVVLGEFGVRNVHTTDFPGNYSGYDDAWDQDRFEKNFRVDVVHMDENSLEFDMVGIDAAIANAFRRILLAEVPTMAVEKVLVYNNTSIVQDEILAHRLGLIPIHADPRLFEYRNQGDEEGTEIDTLQFRLQVRCTRNPHAAKDSSDPNELYVNHKVYTRHMTWIPLGNQADLFPEGTIRPVHDDILIAQLRPGQEIDLLMHCVKGIGKDHAKFSPVATASYRLLPDITLLEPVEGEAAEELSRCFSPGVIEVQEVQGKKVARVANPRLDTFSREIFRNEKLKKVVRLARVRDHYICKKDLLAAVAHTCNPSTLGGQGEWITGSRERDHPG
+PTM	Acetylation:167;Methylation:77,78,91,220,270,327;Phosphorylation:4,12,156,163,169,254,258;SUMOylation:47,154,167,224,270;Ubiquitylation:47,154,167,224,270,271

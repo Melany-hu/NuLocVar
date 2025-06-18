@@ -1,0 +1,25 @@
+UniprotID	Q9NYS7-2
+Accession	Q9NYS7;B4DIE6;B4DPV6;Q9NRX9
+EntryName	WSB2_HUMAN
+ProteinName	WD repeat and SOCS box-containing protein 2 (WSB-2) (CS box-containing WD protein)
+GeneName	WSB2
+Length	421
+Function	May be a substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVDRESRFLRGTGTGEAVAVEEPLLLAELKPGRPHQFDWKSSCETWSVAFSPDGSWFAWSQGHCIVKLIPWPLEEQFIPKGFEAKSRSSKNETKGRGSPKEKTLDCGQIVWGLAFSPWPSPPSRKLWARHHPQVPDVSCLVLATGLNDGQIKIWEVQTGLLLLNLSGHQDVVRDLSFTPSGSLILVSASRDKTLRIWDLNKHGKQIQVLSGHLQWVYCCSISPDCSMLCSAAGEKSVFLWSMRSYTLIRKLEGHQSSVVSCDFSPDSALLVTASYDTNVIMWDPYTGERLRSLHHTQVDPAMDDSDVHISSLRSVCFSPEGLYLATVADDRLLRIWALELKTPIAFAPMTNGLCCTFFPHGGVIATGTRDGHVQFWTAPRVLSSLKHLCRKALRSFLTTYQVLALPIPKKMKEFLTYRTF
+PTM	Methylation:14,185,234;Phosphorylation:73,214,220,294,379,384;SUMOylation:14;Ubiquitylation:64,69,370

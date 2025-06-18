@@ -1,0 +1,25 @@
+UniprotID	Q15555-2
+Accession	Q15555;B2RE21;B3KR39;B4DJV4;B7Z2L3;E9PHR3;F5H1V8;G5E9I6;Q9UQ33
+EntryName	MARE2_HUMAN
+ProteinName	Microtubule-associated protein RP/EB family member 2 (APC-binding protein EB2) (End-binding protein 2) (EB2)
+GeneName	MAPRE2 RP1
+Length	259
+Function	Adapter protein that is involved in microtubule polymerization, and spindle function by stabilizing microtubules and anchoring them at centrosomes. Therefore, ensures mitotic progression and genome stability (PubMed:27030108). Acts as a central regulator of microtubule reorganization in apico-basal epithelial differentiation (By similarity). Plays a role during oocyte meiosis by regulating microtubule dynamics (By similarity). Participates in neurite growth by interacting with plexin B3/PLXNB3 and microtubule reorganization during apico-basal epithelial differentiation (PubMed:22373814). Also plays an essential role for cell migration and focal adhesion dynamics. Mechanistically, recruits HAX1 to microtubules in order to regulate focal adhesion dynamics (PubMed:26527684).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGPTQTLSPNGENNNDIIQDNNGTIIPFRKHTVRGERSYSWGMAVNVYSTSITQETMSRHDIIAWVNDIVSLNYTKVEQLCSGAAYCQFMDMLFPGCISLKKVKFQAKLEHEYIHNFKLLQASFKRMNVDKVIPVEKLVKGRFQDNLDFIQWFKKFYDANYDGKEYDPVEARQGQDAIPPPDPGEQIFNLPKKSHHANSPTAGAAKSSPAAKPGSTPSRPSSAKRASSSGSASKSDKDLETQVIQLNEQVMHQLWPRL
+PTM	Acetylation:105,109,119,126,138,156,213,225,235,238,263,271;Methylation:155,193,207,271;Phosphorylation:5,7,9,25,51,76,124,158,162,167,195,200,202,208,209,216,217,219,222,223,228,229,230,232,234,236,242,253;SUMOylation:102,109,119,126,138,141,155,165,207,213,235,238;Ubiquitylation:105,109,126,132,138,155,156,165,194,213,238,271

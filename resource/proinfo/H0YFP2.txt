@@ -1,0 +1,25 @@
+UniprotID	H0YFP2
+Accession	H0YFP2
+EntryName	H0YFP2_HUMAN
+ProteinName	WD repeat domain 74
+GeneName	WDR74
+Length	38
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWASLEAAAKRKLSGLEQPQGALQTRRRKKKRPGSTSP
+PTM	

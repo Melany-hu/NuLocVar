@@ -1,0 +1,25 @@
+UniprotID	Q9BV81
+Accession	Q9BV81
+EntryName	EMC6_HUMAN
+ProteinName	ER membrane protein complex subunit 6 (Transmembrane protein 93)
+GeneName	EMC6 TMEM93
+Length	110
+Function	Part of the endoplasmic reticulum membrane protein complex (EMC) that enables the energy-independent insertion into endoplasmic reticulum membranes of newly synthesized membrane proteins (PubMed:29242231, PubMed:29809151, PubMed:30415835, PubMed:32439656, PubMed:32459176). Preferentially accommodates proteins with transmembrane domains that are weakly hydrophobic or contain destabilizing features such as charged and aromatic residues (PubMed:29242231, PubMed:29809151, PubMed:30415835). Involved in the cotranslational insertion of multi-pass membrane proteins in which stop-transfer membrane-anchor sequences become ER membrane spanning helices (PubMed:29809151, PubMed:30415835). It is also required for the post-translational insertion of tail-anchored/TA proteins in endoplasmic reticulum membranes (PubMed:29242231, PubMed:29809151). By mediating the proper cotranslational insertion of N-terminal transmembrane domains in an N-exo topology, with translocated N-terminus in the lumen of the ER, controls the topology of multi-pass membrane proteins like the G protein-coupled receptors (PubMed:30415835). By regulating the insertion of various proteins in membranes, it is indirectly involved in many cellular processes (Probable).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	0.0929,0.1643,0.0518,0.0231,0.0300,0.0494,0.0433,0.0380,0.0269,0.0364,0.0443,0.0704,0.0704,0.0690,0.0690,0.0581,0.0835,0.0398,0.0253,0.0231,0.0253,0.0209,0.0115,0.0235,0.0364,0.0194,0.0168,0.0214,0.0214,0.0380,0.0263,0.0269,0.0130,0.0100,0.0120,0.0107,0.0194,0.0184,0.0188,0.0143,0.0136,0.0074,0.0052,0.0045,0.0033,0.0027,0.0027,0.0024,0.0024,0.0022,0.0015,0.0012,0.0012,0.0012,0.0012,0.0008,0.0008,0.0004,0.0005,0.0006,0.0010,0.0011,0.0017,0.0017,0.0029,0.0041,0.0041,0.0037,0.0043,0.0043,0.0056,0.0081,0.0141,0.0091,0.0081,0.0130,0.0223,0.0443,0.0443,0.0209,0.0275,0.0275,0.0146,0.0078,0.0133,0.0079,0.0060,0.0061,0.0061,0.0042,0.0044,0.0028,0.0020,0.0013,0.0017,0.0023,0.0017,0.0017,0.0013,0.0013,0.0014,0.0011,0.0007,0.0009,0.0012,0.0007,0.0008,0.0008,0.0010,0.0015
+ExposeBuried	1,1,0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+SurfaceAccessbility	0.737,0.431,0.339,0.309,0.234,0.223,0.502,0.452,0.761,0.514,0.376,0.435,0.180,0.134,0.460,0.525,0.191,0.256,0.219,0.430,0.466,0.417,0.259,0.238,0.071,0.116,0.450,0.214,0.033,0.378,0.454,0.247,0.083,0.491,0.318,0.161,0.440,0.405,0.234,0.323,0.228,0.182,0.093,0.130,0.142,0.102,0.220,0.194,0.114,0.170,0.138,0.130,0.111,0.117,0.163,0.135,0.133,0.138,0.275,0.121,0.099,0.100,0.191,0.064,0.093,0.103,0.061,0.086,0.397,0.185,0.276,0.462,0.428,0.113,0.374,0.588,0.307,0.101,0.572,0.618,0.444,0.352,0.341,0.165,0.117,0.292,0.250,0.193,0.144,0.106,0.141,0.120,0.110,0.145,0.151,0.115,0.110,0.150,0.115,0.121,0.174,0.163,0.110,0.197,0.249,0.200,0.213,0.443,0.338,0.640
+SecondStructure	C,C,B,B,B,B,C,C,C,C,C,C,C,C,C,A,A,A,A,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C
+Hydropathy	1.9,1.8,1.8,4.2,4.2,1.8,-3.9,-4.5,-3.5,-0.4,-1.6,-1.6,2.8,4.5,-0.8,-3.5,1.8,1.8,4.2,-4.5,-0.4,-3.5,1.8,1.8,4.2,3.8,-3.5,-1.3,2.5,-4.5,-0.7,-0.8,4.2,-0.8,1.8,3.8,-0.8,-0.4,1.8,-0.7,1.8,-0.4,4.5,3.8,-0.4,3.8,-0.7,-0.4,3.8,-1.3,-0.4,2.8,4.5,2.8,-1.3,3.8,3.8,1.8,-0.8,4.2,3.8,3.8,-0.8,3.8,3.8,3.8,4.5,3.8,-3.9,1.8,-0.4,-4.5,-4.5,-0.9,-3.5,-3.9,-1.3,2.8,-3.9,-0.8,-4.5,-4.5,-1.6,3.8,2.8,-0.7,-0.4,-0.4,3.8,4.5,-0.4,-0.4,3.8,2.8,-0.7,-1.3,4.2,3.8,2.8,-0.9,-0.7,2.8,3.8,-1.3,-0.4,1.9,4.2,-3.2,4.2,-1.3
+Polar	0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1,1,0,1,0,1,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,0,1,1,0,1,1,0,0,1,0,1
+Charge	0,0,0,0,0,0,1,1,-1,0,0,0,0,0,0,-1,0,0,0,1,0,0,0,0,0,0,-1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVVAKREGPPFISEAAVRGNAAVLDYCRTSVSALSGATAGILGLTGLYGFIFYLLASVLLSLLLILKAGRRWNKYFKSRRPLFTGGLIGGLFTYVLFWTFLYGMVHVY
+PTM	Methylation:69;Ubiquitylation:7

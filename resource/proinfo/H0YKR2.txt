@@ -1,0 +1,25 @@
+UniprotID	H0YKR2
+Accession	H0YKR2
+EntryName	H0YKR2_HUMAN
+ProteinName	HCG40828, isoform CRA_a (REC114 meiotic recombination protein)
+GeneName	REC114 hCG_40828
+Length	238
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEAGKVPLSLGLTGGEAAEWPLQRYARCIPSNTRDPPGPCLEAGTAPCPTWKVFDSNEESGYLVLTIVISGHFFIFQGQTLLDKSRLFRVQFSGESKEQALEHCCSCVQKLAQYITVQVPDGNIQELQLIPGPPRATESQGKDSAKSVPRQPGSHQHSEQQQVCVTAGTGAPDGRTSLTQLAQTLLASEELPHVYEQSAWGAEELGPFLRLCLMDQNFPAFVEEVEKELKKLAGLRN
+PTM	

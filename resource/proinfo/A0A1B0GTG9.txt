@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GTG9
+Accession	A0A1B0GTG9
+EntryName	A0A1B0GTG9_HUMAN
+ProteinName	Adenylosuccinate lyase
+GeneName	ADSL
+Length	467
+Function	Catalyzes two non-sequential steps in de novo AMP synthesis: converts (S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate (SAICAR) to fumarate plus 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide, and thereby also contributes to de novo IMP synthesis, and converts succinyladenosine monophosphate (SAMP) to AMP and fumarate.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGGDHGSPDSYRSPLASRYASPEMCFVFSDRYKFRTWRQLWLWLAEAEQTLGLPITDEQIQEMKSNLENIDFKMAAEEEKRLRHDVMAHVHTFGHCCPKAAGIIHLGATSCYVGDNTDLIILRNALDLLLPKLARVISRLADFAKERASLPTLGFTHFQPAQLTTVGKRCCLWIQDLCMDLQNLKRVRDDLRFRGVKGTTGTQASFLQLFEGDDHKVEQLDKMVTEKAGFKRAFIITGQTYTRKVDIEVLSVLASLGASVHKICTDIRLLANLKEMEEPFEKQQIGSSAMPYKRNPMRSERCCSLARHLMTLVMDPLQTASVQWFERTLDDSANRRICLAEAFLTADTILNTLQNISEGLVVYPKVIERRIRQELPFMATENIIMAMVKAGGSRQVQRFLEEEVYPLLKPYESVMKCKQVPLDKNVVCVIPCCISNSKSTSDTWQLGSLPASATAPDFLVAWIYS
+PTM	

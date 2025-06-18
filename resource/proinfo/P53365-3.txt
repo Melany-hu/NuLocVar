@@ -1,0 +1,25 @@
+UniprotID	P53365-3
+Accession	P53365;B4DX86;B4E306;D3DQT5
+EntryName	ARFP2_HUMAN
+ProteinName	Arfaptin-2 (ADP-ribosylation factor-interacting protein 2) (Partner of RAC1) (POR1)
+GeneName	ARFIP2 POR1
+Length	303
+Function	Plays a role in constitutive metalloproteinase (MMP) secretion from the trans Golgi network (PubMed:26507660). May have important functions during vesicle biogenesis at certain cargo subdomains, which could be predominantly utilized by secreted MMPs, such as MMP7 and MMP2 (PubMed:26507660). Also involved in autophagy by regulating the starvation-dependent trafficking of ATG9A vesicles which deliver the phosphatidylinositol 4-kinase beta (PI4KB) to the autophagosome initiation site (PubMed:30917996, PubMed:31204568). Involved in phagophore growth during mitophagy by regulating ATG9A trafficking to mitochondria (PubMed:33773106). In addition, plays a role in NF-kappa-B inhibition by interacting with IKBKB and IKBKG (PubMed:26296658).
+Subcellular Location	Golgi apparatus; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSGPNLNETSIVSGGYGGSGDGLIPTGSGRHPSHSTTPSGPGDEVARGIAGEKFDIVKKWGINTYKCTKQLLSERFGRGSRTVDLELELQIELLRETKRKYESVLQLGRALTAHLYSLLQTQHALGDAFADLSQKSPELQEEFGYNAETQKLLCKNGETLLGAVNFFVSSINTLVTKTMEDTLMTVKQYEAARLEYDAYRTDLEELSLGPRDAGTRGRLESAQATFQAHRDKYEKLRGDVAIKLKFLEENKIKVMHKQLLLFHNAVSAYFAGNQKQLEQTLQQFNIKLRPPGAEKPSWLEEQ
+PTM	Acetylation:284;Methylation:8,86,97;Phosphorylation:72,74,75,76,78,119,246,260,272;Ubiquitylation:105,284,290

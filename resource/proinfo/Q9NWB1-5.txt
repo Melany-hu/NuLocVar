@@ -1,0 +1,25 @@
+UniprotID	Q9NWB1-5
+Accession	Q9NWB1;Q7Z7I7;Q8TAE3;Q8TAF2;Q8WYB2;Q9NS20
+EntryName	RFOX1_HUMAN
+ProteinName	RNA binding protein fox-1 homolog 1 (Ataxin-2-binding protein 1) (Fox-1 homolog A) (Hexaribonucleotide-binding protein 1)
+GeneName	RBFOX1 A2BP A2BP1 FOX1 HRNBP1
+Length	395
+Function	RNA-binding protein that regulates alternative splicing events by binding to 5'-UGCAUGU-3' elements. Regulates alternative splicing of tissue-specific exons and of differentially spliced exons during erythropoiesis.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLASQGVLLHPYGVPMIVPAAPYLPGLIQGNQEAAAAPDTMAQPYASAQFAPPQNGIPAEYTAPHPHPAPEYTGQTTVPEHTLNLYPPAQTHSEQSPADTSAQTVSGTATQTDDAAPTDGQPQTQPSENTENKSQPKRLHVSNIPFRFRDPDLRQMFGQFGKILDVEIIFNERGSKGFGFVTFENSADADRAREKLHGTVVEGRKIEVNNATARVMTNKKTVNPYTNGWKLNPVVGAVYSPEFYAGTVLLCQANQEGSSMYSAPSSLVYTSAMPGFPYPAATAAAAYRGAHLRGRGRTVYNTFRAAAPPPPIPAYGGVVYQEPVYGNKLLQGGYAAYRYAQPTPATAAAYSDRNQFVFVAADEISCNTSAVTDEFMLPTPTTTHLLQPPPTALVP
+PTM	Methylation:134,173,175;Phosphorylation:179;SUMOylation:156,185;Ubiquitylation:175,185

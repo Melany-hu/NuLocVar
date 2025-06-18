@@ -1,0 +1,25 @@
+UniprotID	E9PK21
+Accession	E9PK21
+EntryName	E9PK21_HUMAN
+ProteinName	Peptidylprolyl isomerase E
+GeneName	PPIE
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATTKRVLYVGGLAEEVDDKVLHAAFIPFGDITDIQIPLDYETEKHRGFAFVEFELAEDAAAAIDNMNESELFGRTIRVNLAKPMRIKEGSSRPVWSDDDWLKKFSGKTLEENKEEEGSEPPKAETQERISAACALMKRALALREAASTASSPSSCARAVISQTTMALGASPSMGRSSMMKTLSSSIRDQVYYPWPTLAQTPMALSSS
+PTM	

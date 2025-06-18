@@ -1,0 +1,25 @@
+UniprotID	A0A0G3VPD9
+Accession	A0A0G3VPD9
+EntryName	A0A0G3VPD9_HUMAN
+ProteinName	Platelet glycoprotein 4 (Glycoprotein IIIb) (PAS IV) (PAS-4) (Platelet glycoprotein IV)
+GeneName	CD36
+Length	103
+Function	
+Subcellular Location	Apical cell membrane; Cell membrane; Golgi apparatus; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QVVLEEGTIAFKNWVKTGTEVYRQFWIFDVQNPQEVMMNSSNIQVKQRGPYTYRVPFLAKENVTQDAEDNTVSFLQPNGAIFEPSLSVGTEADNFTVLNLAVA
+PTM	

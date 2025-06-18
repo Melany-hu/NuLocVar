@@ -1,0 +1,25 @@
+UniprotID	Q86SK9-2
+Accession	Q86SK9;B2RPG0;Q4W5Q5;Q8NDS0;Q9H7D1
+EntryName	SCD5_HUMAN
+ProteinName	Stearoyl-CoA desaturase 5 (EC 1.14.19.1) (Acyl-CoA-desaturase 4) (HSCD5) (Stearoyl-CoA 9-desaturase) (Stearoyl-CoA desaturase 2)
+GeneName	SCD5 ACOD4 SCD2 SCD4
+Length	256
+Function	Stearoyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates. Catalyzes the insertion of a cis double bond at the delta-9 position into fatty acyl-CoA substrates including palmitoyl-CoA and stearoyl-CoA (PubMed:15610069, PubMed:15907797, PubMed:22745828). Gives rise to a mixture of 16:1 and 18:1 unsaturated fatty acids (PubMed:15610069, PubMed:15907797). Involved in neuronal cell proliferation and differentiation through down-regulation of EGFR/AKT/MAPK and Wnt signaling pathways (PubMed:22745828).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGPATDAGKIPFCDAKEEIRAGLESSEGGGGPERPGARGQRQNIVWRNVVLMSLLHLGAVYSLVLIPKAKPLTLLWAYFCFLLAALGVTAGAHRLWSHRSYRAKLPLRIFLAVANSMAFQNDIFEWSRDHRAHHKYSETDADPHNARRGFFFSHIGWLFVRKHRDVIEKGRKLDVTDLLADPVVRIQRNTQHIQKEGRALNQEAACEMLREWHQGHILKVTLPGLHILALLHTHCNHSEKCCLMLRALSVSLEVF
+PTM	Phosphorylation:26,27;Ubiquitylation:10,17,105,136,170,173

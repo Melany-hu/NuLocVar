@@ -1,0 +1,25 @@
+UniprotID	Q9UHW5-2
+Accession	Q9UHW5;B2RC54;D4YWV1;F5H759;Q53FS3;Q6UVZ6;Q7Z3D3;Q8NEI2;Q96HK9
+EntryName	GPN3_HUMAN
+ProteinName	GPN-loop GTPase 3 (ATP-binding domain 1 family member C)
+GeneName	GPN3 ATPBD1C AD-009 UNQ1876/PRO4319
+Length	294
+Function	Small GTPase required for proper localization of RNA polymerase II (RNAPII). May act at an RNAP assembly step prior to nuclear import.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRYAQLVMGPAGSGKVRICGDKERKSTYCATMVQHCEALNRSVQVVNLDPAAEHFNYSVMADIRELIEVDDVMEDDSLRFGPNGGLVFCMEYFANNFDWLENCLGHVEDDYILFDCPGQIELYTHLPVMKQLVQQLEQWEFRVCGVFLVDSQFMVESFKFISGILAALSAMISLEIPQVNIMTKMDLLSKKAKKEIEKFLDPDMYSLLEDSTSDLRSKKFKKLTKAICGLIDDYSMVRFLPYDQSDEESMNIVLQHIDFAIQYGEDLEFKEPKEREDESSSMFDEYFQECQDE
+PTM	Methylation:181,189;Phosphorylation:4,14,18,19,22,49,270,271;Ubiquitylation:16,181,216

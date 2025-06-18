@@ -1,0 +1,25 @@
+UniprotID	E9PEF9
+Accession	E9PEF9
+EntryName	E9PEF9_HUMAN
+ProteinName	Aldo-keto reductase family 1 member B
+GeneName	AKR1B1
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRLLLNNGAKMPILGLGTWKSPPGQVTEAVKVAIDVGYRHIDCAHVYQNENEVGVAIQEKLREQVVKREELFIVSKPGSCLVAGNDDMCPLAGLAVVHVP
+PTM	

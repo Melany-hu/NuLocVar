@@ -1,0 +1,25 @@
+UniprotID	K7ERR1
+Accession	K7ERR1
+EntryName	K7ERR1_HUMAN
+ProteinName	Tetratricopeptide repeat domain 19
+GeneName	TTC19
+Length	63
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGERHPQTIVLMSDLATTLDAQGRFDEAYIYMQRASDLARQINHPELHMVLSNLAAVLMHRGR
+PTM	

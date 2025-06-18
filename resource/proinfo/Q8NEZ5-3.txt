@@ -1,0 +1,25 @@
+UniprotID	Q8NEZ5-3
+Accession	Q8NEZ5;Q0D2P8;Q6PIL5;Q8IXW3;Q9H824;Q9UKC0
+EntryName	FBX22_HUMAN
+ProteinName	F-box only protein 22 (F-box protein FBX22p44)
+GeneName	FBXO22 FBX22
+Length	276
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex that is implicated in the control of various cellular processes such as cell cycle control, transcriptional regulation, DNA damage repair, and apoptosis. Promotes the proteasome-dependent degradation of key sarcomeric proteins, such as alpha-actinin (ACTN2) and filamin-C (FLNC), essential for maintenance of normal contractile function. Acts as a key regulator of histone methylation marks namely H3K9 and H3K36 methylation through the regulation of histone demethylase KDM4A protein levels (PubMed:21768309). In complex with KDM4A, also regulates the abundance of TP53 by targeting methylated TP53 for degradation at the late senescent stage (PubMed:26868148). Under oxidative stress, promotes the ubiquitination and degradation of BACH1. Mechanistically, reactive oxygen species (ROS) covalently modify cysteine residues on the bZIP domain of BACH1, leading to its release from chromatin and making it accessible to FBXO22 (PubMed:39504958). Upon amino acid depletion, mediates 'Lys-27'-linked ubiquitination of MTOR and thereby inhibits substrate recruitment to mTORC1 (PubMed:37979583). Also inhibits SARS-CoV-2 replication by inducing NSP5 degradation (PubMed:39223933).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPVGCCGECRGSSVDPRSTFVLSNLAEVVERVLTFLPAKALLRVACVCRLWRECVRRVLRTHRSVTWISAGLAEAGHLEGHCLVRVVAEELENVRILPHTVLYMADSETFISLEECRGHKRARKRTSMETALALEKLFPKQCQVLGIVTPGIVVTPMGSGSNRPQEIEIGESGFALLFPQIEGIKIQPFHFIKDPKNLTLERHQLTEVGLLDNPELRVVLVFGYNCCKVGASNYLQQVVSTFSDMNIILAGGQVDNLSSLTSEKYVLCASDFVCE
+PTM	Acetylation:40,194;Methylation:137,141,300,377,382;Phosphorylation:108,113,127,128,131;Ubiquitylation:40,194,300

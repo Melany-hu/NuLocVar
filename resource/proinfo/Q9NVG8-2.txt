@@ -1,0 +1,25 @@
+UniprotID	Q9NVG8-2
+Accession	Q9NVG8;A7E2E7;B3KW04;B9EGJ8;Q5T270;Q5T271
+EntryName	TBC13_HUMAN
+ProteinName	TBC1 domain family member 13
+GeneName	TBC1D13
+Length	275
+Function	Acts as a GTPase-activating protein for RAB35. Together with RAB35 may be involved in regulation of insulin-induced glucose transporter SLC2A4/GLUT4 translocation to the plasma membrane in adipocytes.
+Subcellular Location	Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSLHKSRIADFQDVLKEPSIALEKLRELSFSGIPCEGGLRCLCWKILLNYLPLERASWTSILAKQRELYAQFLREMIIQPGIAKANMGVSREDVTFEDHPLNPNPDSRWNTYFKDNEVLLQIDKDVRRLCPDISFFQRATDYPCLLILDPQNEFETLRKRVEQTTLKSQTVARNRSGVTNQEQNIKPQFFAFRWLTLLLSQEFLLPDVIRIWDSLFADDNRFDFLLLVCCAMLMLIREQLLEGDFTVNMRLLQDYPITDVCQILQKAKELQDSK
+PTM	Acetylation:6,17,290;Methylation:17,25,65,160,275,305;Phosphorylation:135,143,177,180,183,184;Ubiquitylation:168

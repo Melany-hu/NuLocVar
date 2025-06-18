@@ -1,0 +1,25 @@
+UniprotID	Q8IY45-2
+Accession	Q8IY45;B7Z7J3;Q6NVU4;Q86X98
+EntryName	AMN1_HUMAN
+ProteinName	Protein AMN1 homolog
+GeneName	AMN1
+Length	240
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNISRYLTDIKPLPPNIKDRLIKIMSMQGQITDSNISEILHPEVQTLDLRSCDISDAALLHLSNCRKLKKLNLNASKGNRVSVTSEGIKAVASSCSYLHEASLKRCCNLTDEGVVALALNCQLLKIIDLGGCLSITDVSLHALGKNCPFLQCVDFSATQVSDSGVIALVSGPCAKKLEEIHMGHCVNLTDGAVEAVLTYCPQIRILLFHGCPLITDHSREVLEQLVGPNKLKQVTWTVY
+PTM	Methylation:30,144;Phosphorylation:8,27;Ubiquitylation:96

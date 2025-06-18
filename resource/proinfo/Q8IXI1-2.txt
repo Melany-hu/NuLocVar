@@ -1,0 +1,25 @@
+UniprotID	Q8IXI1-2
+Accession	Q8IXI1;A2IDC2;Q8NF53;Q96C13;Q96S17;Q9BT60;Q9H7M8
+EntryName	MIRO2_HUMAN
+ProteinName	Mitochondrial Rho GTPase 2 (MIRO-2) (hMiro-2) (EC 3.6.5.-) (Ras homolog gene family member T2)
+GeneName	RHOT2 ARHT2 C16orf39
+Length	213
+Function	Mitochondrial GTPase involved in mitochondrial trafficking (PubMed:16630562, PubMed:22396657). Probably involved in control of anterograde transport of mitochondria and their subcellular distribution (PubMed:22396657).
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAVLPIMSQFPEIETCVECSAKNLRNISELFYYAQKAVLHPTAPLYDPEAKQLRPACAQALTRIFRLSDQDLDQALSDEELNAFQKSCFGHPLAPQALEDVKTVVCRNVAGGVREDRLTLDGEAGCPPVPGECGEGAVPGAPPALSRCRFPLPEHALHPARPARDHLDHPAALRLQRCPGADCGLSLPSDPRAPRLQHGAQPPWLPVCAESV
+PTM	Acetylation:509;Methylation:92,119,230;Phosphorylation:59,196,325,535;Ubiquitylation:96,119,150,164,179,214,230,315,409,420,429,525

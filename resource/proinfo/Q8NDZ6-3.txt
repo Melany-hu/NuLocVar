@@ -1,0 +1,25 @@
+UniprotID	Q8NDZ6-3
+Accession	Q8NDZ6;Q5CZH7;Q6UWQ6
+EntryName	T161B_HUMAN
+ProteinName	Transmembrane protein 161B
+GeneName	TMEM161B UNQ679/PRO1313
+Length	140
+Function	Essential for maintaining normal cardiac rhythm in the developing heart and for neonatal survival (By similarity). Inhibits potassium and calcium currents in the cardiomyocytes, this assists in timely action potential repolarization and thereby maintains normal cardiac rhythm (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPTQEMNISLVWCLLVLSFAIKVLFSLTTHYFKVEDGGERSVCVTFGFFFFVKAMAVLIVTENYLEFGLETGFTNFSDSAMQFLEKQGLESQSPVSKLTFKFFLAIFCSFIGAFLTFPGLRLAQMHLDALNLATEKITQ
+PTM	Methylation:54,73,79,214,362,393;Phosphorylation:36,72,221,224;SUMOylation:54

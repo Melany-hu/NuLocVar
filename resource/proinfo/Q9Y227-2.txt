@@ -1,0 +1,25 @@
+UniprotID	Q9Y227-2
+Accession	Q9Y227;D3DSS3;O15092
+EntryName	ENTP4_HUMAN
+ProteinName	Ectonucleoside triphosphate diphosphohydrolase 4 (NTPDase 4) (EC 3.6.1.15) (EC 3.6.1.6) (Golgi UDPase) (Lysosomal apyrase-like protein of 70 kDa) (Uridine-diphosphatase) (UDPase) (EC 3.6.1.42)
+GeneName	ENTPD4 KIAA0392 LALP70 LYSAL1
+Length	608
+Function	Catalyzes the hydrolysis of nucleoside triphosphates and diphosphates in a calcium- or magnesium-dependent manner, with a preference for pyrimidines. Preferentially hydrolyzes UTP and TTP. AMP, ADP, ATP and UMP are not substrates (PubMed:10858452, PubMed:9556635). Preferentially activated by Ca(2+) over Mg(2+) (PubMed:10858452).
+Subcellular Location	Cytoplasmic vesicle; Autophagosome membrane; Lysosome membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRIGISCLFPASWHFSISPVGCPRILNTNLRQIMVISVLAAAVSLLYFSVVIIRNKYGRLTRDKKFQRYLARVTDIEATDTNNPNVNYGIVVDCGSSGSRVFVYCWPRHNGNPHDLLDIRQMRDKNRKPVVMKIKPGISEFATSPEKVSDYISPLLNFAAEHVPRAKHKETPLYILCTAGMRILPESQQKAILEDLLTDIPVHFDFLFSDSHAEVISGKQEGVYAWIGINFVLGRFEHIEDDDEAVVEVNIPGSESSEAIVRKRTAGILDMGGVSTQIAYEVPKTEEVAKNLLAEFNLGCDVHQTEHVYRVYVATFLGFGGNAARQRYEDRIFANTIQKNRLLGKQTGLTPDMPYLDPCLPLDIKDEIQQNGQTIYLRGTGDFDLCRETIQPFMNKTNETQTSLNGVYQPPIHFQNSEFYGFSEFYYCTEDVLRMGGDYNAAKFTKAAKDYCATKWSILRERFDRGLYASHADLHRLKYQCFKSAWMFEVFHRGFSFPVNYKSLKTALQVYDKEVQWTLGAILYRTRFLPLRDIQQEAFRASHTHWRGVSFVYNHYLFSGCFLVVLLAILLYLLRLRRIHRRTPRSSSAAALWMEEGLPAQNAPGTL
+PTM	Glycosylation:404;Methylation:299,348,354,374;Phosphorylation:448,596;Ubiquitylation:348,487,511

@@ -1,0 +1,25 @@
+UniprotID	P0DW28
+Accession	P0DW28
+EntryName	MNS60_HUMAN
+ProteinName	Ribosome biogenesis inhibitor MINAS-60 (MINAS-60)
+GeneName	RBM10
+Length	130
+Function	Acts as a late-stage inhibitor of pre-60S ribosome assembly by preventing pre-60S ribosome export from nucleus.
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	21...25
+nlsdbnls_region	110...117
+validnes_region	
+nesbase_region	
+Sequence	MKDVVVVVTGLAAMEPLTARRMMVGRTAAETTTTGTWTTVHILASMAARRASMTMTTHLRSRVRRIPTRPPRAPRLSVGGGGGTGTAPPARQASPETATIGTRTIGPSKGRRRRRRRMRRRRRRPVTSSC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P29317-2
+Accession	P29317;B5A968;Q8N3Z2
+EntryName	EPHA2_HUMAN
+ProteinName	Ephrin type-A receptor 2 (EC 2.7.10.1) (Epithelial cell kinase) (Tyrosine-protein kinase receptor ECK)
+GeneName	EPHA2 ECK
+Length	497
+Function	Receptor tyrosine kinase which binds promiscuously membrane-bound ephrin-A family ligands residing on adjacent cells, leading to contact-dependent bidirectional signaling into neighboring cells. The signaling pathway downstream of the receptor is referred to as forward signaling while the signaling pathway downstream of the ephrin ligand is referred to as reverse signaling. Activated by the ligand ephrin-A1/EFNA1 regulates migration, integrin-mediated adhesion, proliferation and differentiation of cells. Regulates cell adhesion and differentiation through DSG1/desmoglein-1 and inhibition of the ERK1/ERK2 (MAPK3/MAPK1, respectively) signaling pathway. May also participate in UV radiation-induced apoptosis and have a ligand-independent stimulatory effect on chemotactic cell migration. During development, may function in distinctive aspects of pattern formation and subsequently in development of several fetal tissues. Involved for instance in angiogenesis, in early hindbrain development and epithelial proliferation and branching morphogenesis during mammary gland development. Engaged by the ligand ephrin-A5/EFNA5 may regulate lens fiber cells shape and interactions and be important for lens transparency development and maintenance. With ephrin-A2/EFNA2 may play a role in bone remodeling through regulation of osteoclastogenesis and osteoblastogenesis.
+Subcellular Location	Cell membrane; Cell projection; Ruffle membrane; Cell projection; Lamellipodium membrane; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELQAARACFALLWGCALAAAAAAQGKEVVLLDFAAAGGELGWLTHPYGKGWDLMQNIMNDMPIYMYSVCNVMSGDQDNWLRTNWVYRGEAERIFIELKFTVRDCNSFPGGASSCKETFNLYYAESDLDYGTNFQKRLFTKIDTIAPDEITVSSDFEARHVKLNVEERSVGPLTRKGFYLAFQDIGACVALLSVRVYYKKCPELLQGLAHFPETIAGSDAPSLATVAGTCVDHAVVPPGGEEPRMHCAVDGEWLVPIGQCLCQAGYEKVEDACQACSPGFFKFEASESPCLECPEHTLPSPEGATSCECEEGFFRAPQDPASMPCTRPPSAPHYLTAVGMGAKVELRWTPPQDSGGREDIVYSVTCEQCWPESGECGPCEASVRYSEPPHGLTRTSVTVSDLEPHMNYTFTVEARNGVSGLVTSRSFRTASVSINQTEPPKVRLEGRSTTSLSVSWSIPPPQQSRVWKYEVTYRKKVTPRGAGLALAGPTAGDRLVT
+PTM	Glycosylation:407,435;Methylation:27,99,136,282,394,415,583,603,629,646,702,754,778,873,917,935;Phosphorylation:153,197,198,373,570,575,577,579,587,588,593,594,628,635,636,647,685,694,735,756,771,772,773,774,775,790,791,892,897,898,899,901,910,921,922,930,960,961;SUMOylation:578,583,603,617,778,828,882,935;Ubiquitylation:141,162,441,476,578,583,586,603,617,629,633,639,646,649,655,684,728,754,778,863,882,935,945,956

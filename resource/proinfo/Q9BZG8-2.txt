@@ -1,0 +1,25 @@
+UniprotID	Q9BZG8-2
+Accession	Q9BZG8;A0A6Q8JGF9;D3DTI3;Q16439;Q4VBA2;Q9BTW7;Q9UCY0
+EntryName	DPH1_HUMAN
+ProteinName	2-(3-amino-3-carboxypropyl)histidine synthase subunit 1 (EC 2.5.1.108) (Diphthamide biosynthesis protein 1) (Diphtheria toxin resistance protein 1) (Ovarian cancer-associated gene 1 protein) (S-adenosyl-L-methionine:L-histidine 3-amino-3-carboxypropyltransferase 1)
+GeneName	DPH1 DPH2L DPH2L1 OVCA1
+Length	363
+Function	Catalyzes the first step of diphthamide biosynthesis, a post-translational modification of histidine which occurs in elongation factor 2 (PubMed:30877278). DPH1 and DPH2 transfer a 3-amino-3-carboxypropyl (ACP) group from S-adenosyl-L-methionine (SAM) to a histidine residue, the reaction is assisted by a reduction system comprising DPH3 and a NADH-dependent reductase (By similarity). Acts as a tumor suppressor (PubMed:10519411).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEGLLLFACTIVDILERFTEAEVMVMGDVTYGACCVDDFTARALGADFLVHYGHSCLIPMDTSAQDFRVLYVFVDIRIDTTHLLDSLRLTFPPATALALVSTIQFVSTLQAAAQELKAEYRVSVPQCKPLSPGEILGCTSPRLSKEVEAVVYLGDGRFHLESVMIANPNVPAYRYDPYSKVLSREHYDHQRMQAARQEAIATARSAKSWGLILGTLGRQGSPKILEHLESRLRALGLSFVRLLLSEIFPSKLSLLPEVDVWVQVACPRLSIDWGTAFPKPLLTPYEAAVALRDISWQQPYPMDFYAGSSLGPWTVNHGQDRRPHAPGRPARGKVQEGSARPPSAVACEDCSCRDEKVAPLAP
+PTM	Methylation:43,198;Phosphorylation:204,212,221,419,424,432;SUMOylation:64,75,209,261,288;Ubiquitylation:43,64,75,209,226,261,288,360,414

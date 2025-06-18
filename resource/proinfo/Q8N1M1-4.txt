@@ -1,0 +1,25 @@
+UniprotID	Q8N1M1-4
+Accession	Q8N1M1;B5MDI8;F8VVZ2;Q53YQ7;Q8N356;Q8NFT9;Q9BR80
+EntryName	BEST3_HUMAN
+ProteinName	Bestrophin-3 (Vitelliform macular dystrophy 2-like protein 3)
+GeneName	BEST3 VMD2L3
+Length	72
+Function	Ligand-gated anion channel that allows the movement of chloride monoatomic anions across cell membranes when activated by calcium (Ca2+).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFLISSSVHGSDEHGRLLRRTLMRYVNLTSLLIFRSVSTAVYKRFPTMDHVVEAERTGMKPILPSSFEMQSF
+PTM	Methylation:23;Phosphorylation:27,29,400,406,407,440

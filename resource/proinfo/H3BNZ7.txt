@@ -1,0 +1,25 @@
+UniprotID	H3BNZ7
+Accession	H3BNZ7
+EntryName	H3BNZ7_HUMAN
+ProteinName	Chromosome 16 open reading frame 95
+GeneName	C16orf95
+Length	239
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRASRSPPSPRRCHHHHEATGAASGAAAGGPGAGCVGLCRLALTPSAQDGRNSTFQTYKKEVCLPRHSMHPGPWAICCECQTRFGGRLPVSRVEAALPYWVPLSLRPRKQSQKTVQFPIPQTAKMCPCLCHRFGGRLPMPRDQAVMPYWVPQVLRSQQQIVRRQQSLKGIQAPLLDACCWHNCWRICGDECLLSKFQQLQAPYQDQLPAPAARLLPLGLLTLLQAIPRVIMAIRQCFGV
+PTM	

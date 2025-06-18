@@ -1,0 +1,25 @@
+UniprotID	F8WA26
+Accession	F8WA26
+EntryName	F8WA26_HUMAN
+ProteinName	Palladin, cytoskeletal associated protein
+GeneName	PALLD
+Length	164
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARRLLGADSATVFNIQEPEEETANQEYKVSSCEQRLISEIEYRLERSPVDESGDEVQYGDVPVENGMAPFFEMKLKHYKIFEGMPVTFTCRVAGNPKPKIYWFKDGKQISPKSDHYTIQRDLDGTCSLHTTASTLDDDGNYTIMAANPQGRISCTGRLMVQAV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A1L1B8
+Accession	A1L1B8
+EntryName	A1L1B8_HUMAN
+ProteinName	FSIP2 protein
+GeneName	FSIP2
+Length	231
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRHRYLDMISRKLEQLERTAEEQRLFLMDREERRQREHTRRKLTLRRKIEEEWKTKEMLLLTRMAEDVKREERIEEQQHRNREESDRKKQDLLEKKMAYHLQKMQDTGFNGEDIGKNTFKYRGQDGTHGESSPKNKKKTSEDIMLVYPAGDQNTYKETHGHTANAAHQRQNSSNNFTKKNSASVVYQADVQDNGINQKRDGMVSKNSSIFDDRGGINISGQGSITSAQVSP
+PTM	

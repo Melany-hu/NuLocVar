@@ -1,0 +1,25 @@
+UniprotID	Q9H0R8
+Accession	Q9H0R8;B4E0Y7;Q6FIE6
+EntryName	GBRL1_HUMAN
+ProteinName	Gamma-aminobutyric acid receptor-associated protein-like 1 (Early estrogen-regulated protein) (GABA(A) receptor-associated protein-like 1) (Glandular epithelial cell protein 1) (GEC-1)
+GeneName	GABARAPL1 GEC1
+Length	117
+Function	Ubiquitin-like modifier that increases cell-surface expression of kappa-type opioid receptor through facilitating anterograde intracellular trafficking of the receptor (PubMed:16431922). Involved in formation of autophagosomal vacuoles (PubMed:20404487). While LC3s are involved in elongation of the phagophore membrane, the GABARAP/GATE-16 subfamily is essential for a later stage in autophagosome maturation (PubMed:20404487). Through its interaction with the reticulophagy receptor TEX264, participates in the remodeling of subdomains of the endoplasmic reticulum into autophagosomes upon nutrient stress, which then fuse with lysosomes for endoplasmic reticulum turnover (PubMed:31006537, PubMed:31006538).
+Subcellular Location	Cytoplasmic vesicle; Autophagosome; Cytoplasmic vesicle membrane; Cytoplasm; Cytoskeleton; Endoplasmic reticulum; Golgi apparatus
+Disorder	0.1881,0.2470,0.1611,0.1969,0.2193,0.2436,0.2884,0.3149,0.3494,0.3631,0.2988,0.3321,0.3321,0.4330,0.3356,0.4409,0.4541,0.4441,0.3704,0.3948,0.3087,0.3460,0.2752,0.3667,0.3631,0.3392,0.3704,0.3529,0.3215,0.3117,0.2503,0.3566,0.3631,0.2951,0.3087,0.3807,0.3599,0.3426,0.2645,0.2541,0.1731,0.2541,0.3321,0.4017,0.3149,0.3249,0.2884,0.2680,0.2918,0.2094,0.1424,0.1115,0.0631,0.0364,0.0592,0.0531,0.0555,0.0334,0.0349,0.0356,0.0568,0.0967,0.0888,0.0948,0.0749,0.0765,0.0372,0.0281,0.0153,0.0105,0.0202,0.0356,0.0734,0.0690,0.1275,0.1449,0.1528,0.1528,0.1969,0.2034,0.2328,0.2328,0.2292,0.1528,0.0929,0.1162,0.1791,0.3019,0.4087,0.5382,0.6322,0.6183,0.4979,0.3807,0.3910,0.2918,0.2094,0.1823,0.1206,0.1399,0.1424,0.1852,0.1852,0.1206,0.1206,0.1852,0.1702,0.1399,0.1048,0.0835,0.0605,0.0405,0.0269,0.0380,0.0765,0.1137,0.1791
+ExposeBuried	1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+SurfaceAccessbility	0.699,0.574,0.228,0.457,0.208,0.471,0.542,0.589,0.358,0.412,0.150,0.529,0.443,0.201,0.268,0.648,0.378,0.065,0.552,0.473,0.036,0.262,0.710,0.556,0.114,0.422,0.668,0.390,0.068,0.173,0.069,0.069,0.066,0.365,0.419,0.295,0.527,0.696,0.561,0.538,0.119,0.362,0.516,0.199,0.479,0.555,0.443,0.396,0.159,0.130,0.090,0.177,0.537,0.396,0.071,0.247,0.109,0.179,0.254,0.035,0.077,0.249,0.052,0.029,0.244,0.431,0.291,0.077,0.525,0.068,0.425,0.279,0.542,0.401,0.049,0.037,0.044,0.028,0.028,0.033,0.177,0.274,0.260,0.185,0.167,0.447,0.332,0.431,0.257,0.339,0.117,0.203,0.504,0.083,0.132,0.585,0.630,0.392,0.487,0.596,0.623,0.383,0.118,0.046,0.033,0.047,0.028,0.038,0.096,0.183,0.392,0.491,0.563,0.348,0.337,0.546,0.847
+SecondStructure	C,C,C,B,B,B,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-3.9,2.8,-3.5,-1.3,-3.9,-3.5,-3.5,-3.2,-1.6,2.8,-3.5,-1.3,-4.5,-3.9,-3.9,-3.5,-0.4,-3.5,-3.9,4.5,-4.5,-3.9,-3.9,-1.3,-1.6,-3.5,-4.5,4.2,-1.6,4.2,4.5,4.2,-3.5,-3.9,1.8,-1.6,-3.9,1.8,-4.5,4.2,-1.6,-3.5,3.8,-3.5,-3.9,-4.5,-3.9,-1.3,3.8,4.2,-1.6,-0.8,-3.5,3.8,-0.7,4.2,-0.4,-3.5,2.8,-1.3,2.8,3.8,4.5,-4.5,-3.9,-4.5,4.5,-3.2,3.8,-4.5,-1.6,-3.5,-3.5,1.8,3.8,2.8,2.8,2.8,4.2,-3.5,-3.5,-0.7,4.5,-1.6,-1.6,-0.7,-0.8,1.8,-0.7,1.9,-0.4,-3.5,3.8,-1.3,-3.5,-3.5,-3.5,-3.2,-3.5,-3.5,-3.5,-1.3,2.8,3.8,-1.3,4.2,1.8,-1.3,-0.8,-3.5,-3.5,-0.8,4.2,-1.3,-0.4,-3.9
+Polar	0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1
+Charge	0,1,0,0,0,1,-1,-1,1,0,0,-1,0,1,1,1,-1,0,-1,1,0,1,1,1,0,0,-1,1,0,0,0,0,0,-1,1,0,0,1,0,1,0,0,-1,0,-1,1,1,1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,1,-1,-1,-1,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFQYKEDHPFEYRKKEGEKIRKKYPDRVPVIVEKAPKARVPDLDKRKYLVPSDLTVGQFYFLIRKRIHLRPEDALFFFVNNTIPPTSATMGQLYEDNHEEDYFLYVAYSDESVYGK
+PTM	Methylation:35,46,66;Phosphorylation:25;Ubiquitylation:23,24,35

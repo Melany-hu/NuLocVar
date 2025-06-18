@@ -1,0 +1,25 @@
+UniprotID	P41182-2
+Accession	P41182;A7E241;B8PSA7;D3DNV5
+EntryName	BCL6_HUMAN
+ProteinName	B-cell lymphoma 6 protein (BCL-6) (B-cell lymphoma 5 protein) (BCL-5) (Protein LAZ-3) (Zinc finger and BTB domain-containing protein 27) (Zinc finger protein 51)
+GeneName	BCL6 BCL5 LAZ3 ZBTB27 ZNF51
+Length	650
+Function	Transcriptional repressor mainly required for germinal center (GC) formation and antibody affinity maturation which has different mechanisms of action specific to the lineage and biological functions. Forms complexes with different corepressors and histone deacetylases to repress the transcriptional expression of different subsets of target genes. Represses its target genes by binding directly to the DNA sequence 5'-TTCCTAGAA-3' (BCL6-binding site) or indirectly by repressing the transcriptional activity of transcription factors. In GC B-cells, represses genes that function in differentiation, inflammation, apoptosis and cell cycle control, also autoregulates its transcriptional expression and up-regulates, indirectly, the expression of some genes important for GC reactions, such as AICDA, through the repression of microRNAs expression, like miR155. An important function is to allow GC B-cells to proliferate very rapidly in response to T-cell dependent antigens and tolerate the physiological DNA breaks required for immunglobulin class switch recombination and somatic hypermutation without inducing a p53/TP53-dependent apoptotic response. In follicular helper CD4(+) T-cells (T(FH) cells), promotes the expression of T(FH)-related genes but inhibits the differentiation of T(H)1, T(H)2 and T(H)17 cells. Also required for the establishment and maintenance of immunological memory for both T- and B-cells. Suppresses macrophage proliferation through competition with STAT5 for STAT-binding motifs binding on certain target genes, such as CCL2 and CCND2. In response to genotoxic stress, controls cell cycle arrest in GC B-cells in both p53/TP53-dependedent and -independent manners. Besides, also controls neurogenesis through the alteration of the composition of NOTCH-dependent transcriptional complexes at selective NOTCH targets, such as HES5, including the recruitment of the deacetylase SIRT1 and resulting in an epigenetic silencing leading to neuronal differentiation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPADSCIQFTRHASDVLLNLNRLRSRDILTDVVIVVSREQFRAHKTVLMACSGLFYSIFTDQLKCNLSVINLDPEINPEGFCILLDFMYTSRLNLREGNIMAVMATAMYLQMEHVVDTCRKFIKASEAEMVSAIKPPREEFLNSRMLMPQDIMAYRGREVVENNLPLRSAPGCESRAFAPSLYSGLSTPPASYSMYSHLPVSSLLFSDEEFRDVRMPVANPFPKERALPCDSARPVPGEYSRPTLEVSPNVCHSNIYSPKETIPEEARSDMHYSVAEGLKPAAPSARNAPYFPCDKASKEEERPSSEDEIALHFEPPNAPLNRKGLVSPQSPQKSDCQPNSPTESCSSKNACILQASGSPPAKSPTDPKACNWKKYKFIVLNSLNQNAKPEGPEQAELGRLSPRAYTAPPACQPPMEPENLDLQSPTKLSASGEDSTIPQASRLNNIVNRSMTGSPRSSSESHSPLYMHPPKCTSCGSQSPQHAEMCLHTAGPTFPEEMGETQSEYSDSSCGEKPYRCNICGAQFNRPANLKTHTRIHSGEKPYKCETCGARFVQVAHLRAHVLIHTGEKPYPCEICGTRFRHLQTLKSHLRIHTGEKPYHCEKCNLHFRHKSQLRLHLRQKHGAITNTKVQYRVSATDLPPELPKAC
+PTM	Methylation:66,137,590,646;Phosphorylation:3,39,250,256,260,307,308,330,333,337,343,359,361,366,368,385,404,427,429,457,462,464,466,597,625;SUMOylation:126,137,226,282,379,391,534,558,565,572,603,662,688;Ubiquitylation:282,365

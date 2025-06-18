@@ -1,0 +1,25 @@
+UniprotID	K7ELM9
+Accession	K7ELM9
+EntryName	K7ELM9_HUMAN
+ProteinName	Apolipoprotein C1
+GeneName	APOC1
+Length	92
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLFLSLPVLVVVLSIVLEGPAPAQGTPDVSSALDKLKEFGNTLEDKARELISRIKQSELSAKMRLEPFPGHGRAGGVVFRDISESEGETQD
+PTM	

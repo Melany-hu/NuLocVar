@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SG11
+Accession	A0A0D9SG11
+EntryName	A0A0D9SG11_HUMAN
+ProteinName	CCDC163 homolog
+GeneName	CCDC163
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNTSLSWFEQLDVLLNATDGNVVRNKQWLYPLGVSTELIGLCICFFCSSGCIFLGSPPQNSTAVTPAVLWEESEIMQKELKLLQYQLSQHQELLLKQLAEGRQAQVGSWKLLIQSSGQ
+PTM	

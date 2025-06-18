@@ -1,0 +1,25 @@
+UniprotID	H0YJE7
+Accession	H0YJE7
+EntryName	H0YJE7_HUMAN
+ProteinName	Diacylglycerol kinase alpha
+GeneName	DGKA
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	CNLCESSIGLGKQGLSCNLCKYTVHDQCAMKALPCEVSTYAKSRKDIGPLPPLGPAQTLPDKELPFSPRSNHMCGCEEAVSPGAATAVRKRSGSTTV
+PTM	

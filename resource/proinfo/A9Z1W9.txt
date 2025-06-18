@@ -1,0 +1,25 @@
+UniprotID	A9Z1W9
+Accession	A9Z1W9
+EntryName	A9Z1W9_HUMAN
+ProteinName	Thioredoxin domain containing 8
+GeneName	TXNDC8 hCG_1994624
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQIIKDTNEFKTFLTAAGHKLAVVQFSSKRCGPCKRMFPVFHELAETCHIKTIPTFQMFKKSQKGSISRPTPTSELHPHQKWTLDSSQANPSQTRANFRTLLKQLGK
+PTM	

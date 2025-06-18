@@ -1,0 +1,25 @@
+UniprotID	Q86VK4-4
+Accession	Q86VK4;B4DDV5;B4DR78;O00153;Q9BQ19
+EntryName	ZN410_HUMAN
+ProteinName	Zinc finger protein 410 (Another partner for ARF 1)
+GeneName	ZNF410 APA1
+Length	405
+Function	Transcription factor that binds to the sequence motif 5'-CATCCCATAATA-3', and is specifically required to silence expression of fetal hemoglobin in adult erythroid cells (PubMed:33301730, PubMed:33859416). Prevents expression of fetal hemoglobin genes HBG1 and HBG2 through CHD4: acts as a direct transcriptional activator of CHD4, a central component of the NuRD complex that represses transcription of fetal hemoglobin genes HBG1 and HBG2 in erythroid cells (PubMed:33301730, PubMed:33859416). May also activate transcription of matrix-remodeling genes such as MMP1 during fibroblast senescence (PubMed:12370286). May activate transcription of the gap junction gene GJC1, perhaps in response to increasing glucose (PubMed:30078215). However, recent studies suggest that ZNF410 is dedicated to regulate expression of a single gene: CHD4 (PubMed:33301730, PubMed:33859416).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	166...170
+validnes_region	
+nesbase_region	
+Sequence	MLSDELESKPELLVQFVQNTSIPLGQGLVESEAKDITCLSLLPVTEASECSRLMLPGLGSSAEHLVFVQDEAEDSGNDFLSSESTDSSIPWFLRVQELAHDSLIAATRAQLAKNAKTSSNGENVHLGSGDGQSKDSGPLPQVEKKLKCTVEGCDRTFVWPAHFKYHLKTHRNDRSFICPAEGCGKSFYVLQRLKVHMRTHNGEKPFMCHESGCGKQFTTAGNLKNHRRIHTGEKPFLCEAQGCGRSFAEYSSLRKHLVVHSGEKPHQCQVCGKTFSQSGSRNVHMRKHHLQLGAAGSQEQEQTAEPLMGSSLLEEASVPSKNLVSMNSQPSLGGESLNLPNTNSILGVDDEVLAEGSPRSLSSVPDVTHHLVTMQSGRQSYEVSVLTAVNPQELLNQGDLTERRT
+PTM	Methylation:9,186,217,267,328;Phosphorylation:292,304,334,430,433,436,474;SUMOylation:9,67,96,189,207,220,237,258,288,297,328,346;Ubiquitylation:186,297

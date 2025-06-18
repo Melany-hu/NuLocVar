@@ -1,0 +1,25 @@
+UniprotID	Q15326-6
+Accession	Q15326;B2R6G8;B7Z293;F6UH50;Q2LD45;Q2LD46;Q2LD47;Q2LD48;Q5VUI1;Q8N4B3
+EntryName	ZMY11_HUMAN
+ProteinName	Zinc finger MYND domain-containing protein 11 (Adenovirus 5 E1A-binding protein) (Bone morphogenetic protein receptor-associated molecule 1) (Protein BS69)
+GeneName	ZMYND11 BRAM1 BS69
+Length	567
+Function	Chromatin reader that specifically recognizes and binds histone H3.3 trimethylated at 'Lys-36' (H3.3K36me3) and regulates RNA polymerase II elongation. Does not bind other histone H3 subtypes (H3.1 or H3.2) (By similarity). Colocalizes with highly expressed genes and functions as a transcription corepressor by modulating RNA polymerase II at the elongation stage. Binds non-specifically to dsDNA (PubMed:24675531). Acts as a tumor-suppressor by repressing a transcriptional program essential for tumor cell growth.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	394..400
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARLTKRRQADTKAIQHLWAAIEIIRNQKQIANIDRITKYMSRVHGMHPKETTRQLSLAVKDGLIVETLTVGCKGSKAGIEQEGYWLPGDEIDWETENHDWYCFECHLPGEVLICDLCFRVYHSKCLSDEFRLRDSSSPWQCPVCRSIKKKNTNKQEMGTYLRFIVSRMKERAIDLNKKGKDNKHPMYRRLVHSAVDVPTIQEKVNEGKYRSYEEFKADAQLLLHNTVIFYGDSEQADIARMLYKDTCHELDELQLCKNCFYLSNARPDNWFCYPCIPNHELVWAKMKGFGFWPAKVMQKEDNQVDVRFFGHHHQRAWIPSENIQDITVNIHRLHVKRSMGWKKACDELELHQRFLREGRFWKSKNEDRGEEEAESSISSTSNEQLKVTQEPRAKKGRRNQSVEPKKEEPEPETEAVSSSQEIPTMPQPIEKVSVSTQTKKLSASSPRMLHRSTQTTNDGVCQSMCHDKYTKIFNDFKDRMKSDHKRETERVVREALEKLRSEMEEEKRQAVNKAVANMQGEMDRKCKQVKEKCKEEFVEEIKKLATQHKQLISQTKKKQWVNTSLF
+PTM	Acetylation:289,366,408,441,470,479;Methylation:61,178,204,388,500,515,544;Phosphorylation:57,160,161,167,377,378,380,381,382,403,415,420,421,444,446,447;SUMOylation:13,61,184,297,366,397,407,408,473;Ubiquitylation:125,155,209,246,301,366,388,473,479,545,551,558,559

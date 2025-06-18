@@ -1,0 +1,25 @@
+UniprotID	F6UJY1
+Accession	F6UJY1
+EntryName	F6UJY1_HUMAN
+ProteinName	Putative hydroxypyruvate isomerase (EC 5.3.1.22)
+GeneName	HYI
+Length	302
+Function	Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPLRFSANLSWLFPELSGLPARVRAAGSSGFEAVEVAWPYAETPEALARAAREAGLRLVLINTPPGDQEKGEMGLGAVPGRQAAFREGLEQAVRSGHCLMGRKLSVPCKGAVARGGLVYLAAFLRLDMIHLMAGRVPQGADRIAVKAEMEAVFLENLRHAAGVLAQEDLVGLLEPINTRITDPQYFLDTPQQAAAILQKVGRPNLQLQMDIFHWQIMDGNLTGNIREFLPIVGHVQVAQVPGRGEPSSPGELNFPYLFQLLEDEGYKGFVGCEYQPRGDTVEGLSWLRSYWDRRGHPEAGQ
+PTM	

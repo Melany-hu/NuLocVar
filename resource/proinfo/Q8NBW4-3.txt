@@ -1,0 +1,25 @@
+UniprotID	Q8NBW4-3
+Accession	Q8NBW4;A0A0A8K8P2;B3KXV1;B7Z7D0;Q0P5S0;Q6MZJ8
+EntryName	S38A9_HUMAN
+ProteinName	Neutral amino acid transporter 9 (Solute carrier family 38 member 9) (Up-regulated in lung cancer 11)
+GeneName	SLC38A9 URLC11
+Length	498
+Function	Lysosomal amino acid transporter involved in the activation of mTORC1 in response to amino acid levels (PubMed:25561175, PubMed:25567906, PubMed:29053970). Probably acts as an amino acid sensor of the Rag GTPases and Ragulator complexes, 2 complexes involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids (PubMed:25567906, PubMed:29053970). Following activation by amino acids, the Ragulator and Rag GTPases function as a scaffold recruiting mTORC1 to lysosomes where it is in turn activated (PubMed:25561175, PubMed:25567906). SLC38A9 mediates transport of amino acids with low capacity and specificity with a slight preference for polar amino acids (PubMed:25561175, PubMed:25567906). Acts as an arginine sensor (PubMed:25567906, PubMed:29053970, PubMed:31295473). Following activation by arginine binding, mediates transport of L-glutamine, leucine and tyrosine with high efficiency, and is required for the efficient utilization of these amino acids after lysosomal protein degradation (PubMed:29053970, PubMed:31295473). However, the transport mechanism is not well defined and the role of sodium is not clear (PubMed:25561175, PubMed:31295473). Can disassemble the lysosomal folliculin complex (LFC), and thereby triggers GAP activity of FLCN:FNIP2 toward RRAGC (PubMed:32868926). Acts as an cholesterol sensor that conveys increases in lysosomal cholesterol, leading to lysosomal recruitment and activation of mTORC1 via the Rag GTPases (PubMed:28336668). Guanine exchange factor (GEF) that, upon arginine binding, stimulates GDP release from RRAGA and therefore activates the Rag GTPase heterodimer and the mTORC1 pathway in response to nutrient sufficiency (PubMed:30181260).
+Subcellular Location	Lysosome membrane; Late endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAICILTWRIRPFCIEPTNIVNVNHVIQRVSDHASAMNKRIHYYSRLTTPADKALIAPDHVVPAPEECYVYSPLGSAYKLQSYTEGYGKNTSLVTIFMIWNTMMGTSILSIPWGIKQAGFTTGMCVIILMGLLTLYCCYRVVKSRTMMFSLDTTSWEYPDVCRHYFGSFGQWSSLLFSLVSLIGAMIVYWVLMSNFLFNTGKFIFNFIHHINDTDTILSTNNSNPVICPSAGSGGHPDNSSMIFYANDTGAQQFEKWWDKSRTVPFYLVGLLLPLLNFKSPSFFSKFNILEIRFQFPQLTGVLTLAFFIHNCIITLLKNNKKQENNVRDLCIAYMLVTLTYLYIGVLVFASFPSPPLSKDCIEQNFLDNFPSSDTLSFIARIFLLFQMMTVYPLLGYLARVQLLGHIFGDIYPSIFHVLILNLIIVGAGVIMACFYPNIGGIIRYSGAACGLAFVFIYPSLIYIISLHQEERLTWPKLIFHVFIIILGVANLIVQFFM
+PTM	Methylation:381;Phosphorylation:14;Ubiquitylation:37,80,106,287,384

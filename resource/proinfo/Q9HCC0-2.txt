@@ -1,0 +1,25 @@
+UniprotID	Q9HCC0-2
+Accession	Q9HCC0;A6NIY9;Q96C27;Q9Y4L7
+EntryName	MCCB_HUMAN
+ProteinName	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial (MCCase subunit beta) (EC 6.4.1.4) (3-methylcrotonyl-CoA carboxylase 2) (3-methylcrotonyl-CoA carboxylase non-biotin-containing subunit) (3-methylcrotonyl-CoA:carbon dioxide ligase subunit beta)
+GeneName	MCCC2 MCCB
+Length	525
+Function	Carboxyltransferase subunit of the 3-methylcrotonyl-CoA carboxylase, an enzyme that catalyzes the conversion of 3-methylcrotonyl-CoA to 3-methylglutaconyl-CoA, a critical step for leucine and isovaleric acid catabolism.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWAVLRLALRPCARASPAGPRAYHGDSVASLGTQPDLGSALYQENYKQMKALVNQLHERVEHIKLGGGEKARALHISRGKLLPRERIDNLIDPGSPFLELSQFAGYQLYDNEEVPGGGIITGIGRVSGVECMIIANDATVKGGAYYPVTVKKQLRAQEIAMQNRLPCIYLVDSGGAYLPRQADVFPDRDHFGRTFYNQAIMSSKNIAQVKAATGEEVSAEDLGGADLHCRKSGVSDHWALDDHHALHLTRKVVRNLNYQKKLDVTIEPSEEPLFPADELYGIVGANLKRSFDVREVIARIVDGSRFTEFKAFYGDTLVTGFARIFGYPVGIVGNNGVLFSESAKKGTHFVQLCCQRNIPLLFLQNITGFMVGREYEAEGIAKDGAKMVAAVACAQVPKITLIIGGSYGAGNYGMCGRAYSPRFLYIWPNARISVMGGEQAANVLATITKDQRAREGKQFSSADEAALKEPIIKKFEEEGNPYYSSARVWDDGIIDPADTRLVLGLSFSAALNAPIEKTDFGIFRM
+PTM	Acetylation:50,70,382,420;Methylation:70,80,151,188,326,420,562;Phosphorylation:16,145,202,203,438,444,445,450,458,498,499;SUMOylation:512;Ubiquitylation:64,70,80,151,235,298,326,382,487,495,506,511

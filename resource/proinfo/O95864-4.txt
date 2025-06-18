@@ -1,0 +1,25 @@
+UniprotID	O95864-4
+Accession	O95864;A8K2M6;B7Z634;Q6MZQ7;Q96H07;Q96SV8;Q9H3G3;Q9Y3X4
+EntryName	FADS2_HUMAN
+ProteinName	Acyl-CoA 6-desaturase (EC 1.14.19.3) (Delta(6) fatty acid desaturase) (D6D) (Delta(6) desaturase) (Delta-6 desaturase) (Fatty acid desaturase 2)
+GeneName	FADS2
+Length	413
+Function	Involved in the biosynthesis of highly unsaturated fatty acids (HUFA) from the essential polyunsaturated fatty acids (PUFA) linoleic acid (LA) (18:2n-6) and alpha-linolenic acid (ALA) (18:3n-3) precursors, acting as a fatty acyl-coenzyme A (CoA) desaturase that introduces a cis double bond at carbon 6 of the fatty acyl chain. Catalyzes the first and rate limiting step in this pathway which is the desaturation of LA (18:2n-6) and ALA (18:3n-3) into gamma-linoleate (GLA) (18:3n-6) and stearidonate (18:4n-3), respectively (PubMed:12713571). Subsequently, in the biosynthetic pathway of HUFA n-3 series, it desaturates tetracosapentaenoate (24:5n-3) to tetracosahexaenoate (24:6n-3), which is then converted to docosahexaenoate (DHA)(22:6n-3), an important lipid for nervous system function (By similarity). Desaturates hexadecanate (palmitate) to produce 6Z-hexadecenoate (sapienate), a fatty acid unique to humans and major component of human sebum, that has been implicated in the development of acne and may have potent antibacterial activity (PubMed:12713571). It can also desaturate (11E)-octadecenoate (trans-vaccenoate, the predominant trans fatty acid in human milk) at carbon 6 generating (6Z,11E)-octadecadienoate (By similarity). In addition to Delta-6 activity, this enzyme exhibits Delta-8 activity with slight biases toward n-3 fatty acyl-CoA substrates (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTREPPGCRRVNSLMLYTLRSITSHRSSHPERWATSSQDAFRAFHPDLEFVGKFLKPLLIGELAPEEPSQDHGKNSKITEDFRALRKTAEDMNLFKTNHVFFLLLLAHIIALESIAWFTVFYFGNGWIPTLITAFVLATSQAQAGWLQHDYGHLSVYRKPKWNHLVHKFVIGHLKGASANWWNHRHFQHHAKPNIFHKDPDVNMLHVFVLGEWQPIEYGKKKLKYLPYNHQHEYFFLIGPPLLIPMYFQYQIIMTMIVHKNWVDLAWAVSYYIRFFITYIPFYGILGALLFLNFIRFLESHWFVWVTQMNHIVMEIDQEAYRDWFSSQLTATCNVEQSFFNDWFSGHLNFQIEHHLFPTMPRHNLHKIAPLVKSLCAKHGIEYQEKPLLRALLDIIRSLKKSGKLWLDAYLHK
+PTM	Acetylation:28,48,398;Methylation:28,48,404;SUMOylation:84,87,105,223;Ubiquitylation:28,42,48,84,87,105,108,118,190,192,206,223,398,404,409,417,435,444

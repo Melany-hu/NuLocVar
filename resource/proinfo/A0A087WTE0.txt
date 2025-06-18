@@ -1,0 +1,25 @@
+UniprotID	A0A087WTE0
+Accession	A0A087WTE0
+EntryName	A0A087WTE0_HUMAN
+ProteinName	Aldehyde dehydrogenase 3 family member B1
+GeneName	ALDH3B1
+Length	66
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LALRNLRAWMKDERVPKNLATQLDSAFIRKEPFGLVLIIAPWNYPLNLTLVPLVGALAAGSASESG
+PTM	

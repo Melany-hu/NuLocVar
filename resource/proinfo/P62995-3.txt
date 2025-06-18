@@ -1,0 +1,25 @@
+UniprotID	P62995-3
+Accession	P62995;B4DVK2;D3DNU3;O15449;Q15815;Q64283
+EntryName	TRA2B_HUMAN
+ProteinName	Transformer-2 protein homolog beta (TRA-2 beta) (TRA2-beta) (hTRA2-beta) (Splicing factor, arginine/serine-rich 10) (Transformer-2 protein homolog B)
+GeneName	TRA2B SFRS10
+Length	188
+Function	Sequence-specific RNA-binding protein which participates in the control of pre-mRNA splicing. Can either activate or suppress exon inclusion. Acts additively with RBMX to promote exon 7 inclusion of the survival motor neuron SMN2. Activates the splicing of MAPT/Tau exon 10. Alters pre-mRNA splicing patterns by antagonizing the effects of splicing regulators, like RBMX. Binds to the AG-rich SE2 domain in the SMN exon 7 RNA. Binds to pre-mRNA.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	161...167
+validnes_region	
+nesbase_region	
+Sequence	MSTRRRHVGNRANPDPNCCLGVFGLSLYTTERDLREVFSKYGPIADVSIVYDQQSRRSRGFAFVYFENVDDAKEAKERANGMELDGRRIRVDFSITKRPHTPTPGIYMGRPTYGSSRRRDYYDRGYDRGYDDRDYYSRSYRGGGGGGGGWRAAQDRDQIYRRRSPSPYYSRGGYRSRSRSRSYSPRRY
+PTM	Acetylation:140,173,197;Methylation:140,173,187,197,210,224,228,233,238,241,251,261,271,275;Phosphorylation:2,4,9,14,16,18,20,22,26,29,33,37,39,46,50,52,69,71,81,83,85,86,87,90,95,97,99,102,103,128,155,201,203,207,212,213,215,216,221,222,226,230,235,236,237,239,240,260,264,266,268,269,270,276,278,280,282,283,284;SUMOylation:197;Ubiquitylation:140,173,197

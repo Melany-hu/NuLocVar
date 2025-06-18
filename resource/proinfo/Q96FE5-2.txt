@@ -1,0 +1,25 @@
+UniprotID	Q96FE5-2
+Accession	Q96FE5;D3DW80;Q6NUK3;Q6UXM3;Q6VVG0;Q6VVG1;Q6VVG2;Q8N3K5;Q96K52
+EntryName	LIGO1_HUMAN
+ProteinName	Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1 (Leucine-rich repeat and immunoglobulin domain-containing protein 1) (Leucine-rich repeat neuronal protein 1) (Leucine-rich repeat neuronal protein 6A)
+GeneName	LINGO1 LERN1 LRRN6A UNQ201/PRO227
+Length	614
+Function	Functional component of the Nogo receptor signaling complex (RTN4R/NGFR) in RhoA activation responsible for some inhibition of axonal regeneration by myelin-associated factors (PubMed:14966521, PubMed:15694321). Is also an important negative regulator of oligodentrocyte differentiation and axonal myelination (PubMed:15895088). Acts in conjunction with RTN4 and RTN4R in regulating neuronal precursor cell motility during cortical development (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAGGVRSMPSPLLACWQPILLLVLGSVLSGSATGCPPRCECSAQDRAVLCHRKRFVAVPEGIPTETRLLDLGKNRIKTLNQDEFASFPHLEELELNENIVSAVEPGAFNNLFNLRTLGLRSNRLKLIPLGVFTGLSNLTKLDISENKIVILLDYMFQDLYNLKSLEVGDNDLVYISHRAFSGLNSLEQLTLEKCNLTSIPTEALSHLHGLIVLRLRHLNINAIRDYSFKRLYRLKVLEISHWPYLDTMTPNCLYGLNLTSLSITHCNLTAVPYLAVRHLVYLRFLNLSYNPISTIEGSMLHELLRLQEIQLVGGQLAVVEPYAFRGLNYLRVLNVSGNQLTTLEESVFHSVGNLETLILDSNPLACDCRLLWVFRRRWRLNFNRQQPTCATPEFVQGKEFKDFPDVLLPNYFTCRRARIRDRKAQQVFVDEGHTVQFVCRADGDPPPAILWLSPRKHLVSAKSNGRLTVFPDGTLEVRYAQVQDNGTYLCIAANAGGNDSMPAHLHVRSYSPDWPHQPNKTFAFISNQPGEGEANSTRATVPFPFDIKTLIIATTMGFISFLGVVLFCLVLLFLWSRGKGNTKHNIEIEYVPRKSDAGISSADAPRKFNMKMI
+PTM	Glycosylation:144;Methylation:147,200;Phosphorylation:602;Ubiquitylation:590,601

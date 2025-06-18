@@ -1,0 +1,25 @@
+UniprotID	J3QRV1
+Accession	J3QRV1
+EntryName	J3QRV1_HUMAN
+ProteinName	Solute carrier family 9 member A5
+GeneName	SLC9A5
+Length	178
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FFDNLGAILTYAVVGTLWNAFTTGAALWGLQQAGLVGLTLPSMPSRNSVAETSVTNLLRESGSGACLDLQVIDTVRSGRDREDAVMHHLLCGGLYKPRRRYKASCSRHFISEDAQERQDKEVFQQNMKRRLESFKSTKHNICFTKSKPRPRKTGRRKDGVANAEATNGKHRGLGFQDT
+PTM	

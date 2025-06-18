@@ -1,0 +1,25 @@
+UniprotID	H3BMC5
+Accession	H3BMC5
+EntryName	H3BMC5_HUMAN
+ProteinName	Sodium-coupled neutral amino acid transporter 7 (Solute carrier family 38 member 7)
+GeneName	SLC38A7
+Length	354
+Function	Symporter that selectively cotransports sodium ions and amino acids, such as L-glutamine and L-asparagine from the lysosome into the cytoplasm and may participates in mTORC1 activation. The transport activity requires an acidic lysosomal lumen.
+Subcellular Location	Cell projection; Axon; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQVSINNDYSEWDLSTDAGERARLLQSPCVDTAPKSEWEASPGGLDRGTTSTLGAIFIVVNACLGAGLLNFPAAFSTAGGVAAGIALQMGMLVFIISGLVILAYCSQASNERTYQEVVWAVCGKLTGVLCEVAIAVYTFGTCIAFLIIIGDQQDKIIAVMAKEPEGASGPWYTDRKFTISLTAFLFILPLSIPREIGFQKYASFLSVVGTWYVTAIVIIKYIWPDKEMTPGNILTRPASWMAVFNAMPTICFGFQCHVSSVPVFNSMQQPEVKTWGGVVTAAMVIALAVYMGTAGGCWSATESSWSPWEPSSSARPQPTPSLWISWHNHCLPGNTRPLPLVAGTHLLELWGHS
+PTM	

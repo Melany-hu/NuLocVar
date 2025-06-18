@@ -1,0 +1,25 @@
+UniprotID	C9J8T6
+Accession	C9J8T6
+EntryName	C9J8T6_HUMAN
+ProteinName	Cytochrome c oxidase copper chaperone COX17 (HCG2022684, isoform CRA_b)
+GeneName	COX17 hCG_2022684
+Length	98
+Function	
+Subcellular Location	Mitochondrion intermembrane space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGLVDSNPAPPESQEKKPLKPCCACPETKKARDAWFRGRVSVDLSRSLVPGNDGERGERQASTTHSFLQIIIEKGEEHCGHLIEAHKECMRALGFKI
+PTM	

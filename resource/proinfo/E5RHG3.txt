@@ -1,0 +1,25 @@
+UniprotID	E5RHG3
+Accession	E5RHG3
+EntryName	E5RHG3_HUMAN
+ProteinName	Scaffold protein involved in DNA repair
+GeneName	SPIDR
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...16;10...15
+validnes_region	
+nesbase_region	
+Sequence	MPRGSRARGSKRKRSWNTECPSFPGERPLQVRRAGLRTAGAAASLSEAWLRCGEGFQNTSGNPKPPHLKAPVGLQT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43464-2
+Accession	O43464;Q9HBZ4;Q9P0Y3;Q9P0Y4
+EntryName	HTRA2_HUMAN
+ProteinName	Serine protease HTRA2, mitochondrial (EC 3.4.21.108) (High temperature requirement protein A2) (HtrA2) (Omi stress-regulated endoprotease) (Serine protease 25) (Serine proteinase OMI)
+GeneName	HTRA2 OMI PRSS25
+Length	361
+Function	Serine protease that shows proteolytic activity against a non-specific substrate beta-casein (PubMed:10873535). Promotes apoptosis by either relieving the inhibition of BIRC proteins on caspases, leading to an increase in caspase activity; or by a BIRC inhibition-independent, caspase-independent and serine protease activity-dependent mechanism (PubMed:15200957). Cleaves BIRC6 and relieves its inhibition on CASP3, CASP7 and CASP9, but it is also prone to inhibition by BIRC6 (PubMed:36758104, PubMed:36758105). Cleaves THAP5 and promotes its degradation during apoptosis (PubMed:19502560).
+Subcellular Location	Mitochondrion intermembrane space; Mitochondrion membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPRAGRGAGWSLRAWRALGGIRWGRRPRLTPDLRALLTSGTSDPRARVTYGTPSLWARLSVGVTEPRACLTSGTPGPRAQLTAVTPDTRTREASENSGTRSRAWLAVALGAGGAVLLLLWGGGRGPPAVLAAVPSPPPASPRSQYNFIADVVEKTAPAVVYIEILDRHPFLGREVPISNGSGFVVAADGLIVTNAHVVADRRRVRVRLLSGDTYEAVVTAVDPVADIATLRIQTKFGNSGGPLVNLDGEVIGVNTMKVTAGISFAIPSDRLREFLHRGEKKNSSSGISGSQRRYIGVMMLTLSPRAGLRPGDVILAIGEQMVQNAEDVYEAVRTQSQLAVQIRRGRETLTLYVTPEVTE
+PTM	Methylation:8,156;Phosphorylation:13,73,74,76,215,435;SUMOylation:237;Ubiquitylation:237,348

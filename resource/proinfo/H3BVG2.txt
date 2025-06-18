@@ -1,0 +1,25 @@
+UniprotID	H3BVG2
+Accession	H3BVG2
+EntryName	H3BVG2_HUMAN
+ProteinName	Methenyltetrahydrofolate synthetase domain containing
+GeneName	MTHFSD
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESQNLADFPRPVHHRIPNFKGASHAAEQLPRLQAFKTARTIKVNPDAPQKSARFFVLESKKTLLVPTPRLRTGLFNKITPPPGATKDILRKCATSQGVRNYSVPIGLDSRV
+PTM	

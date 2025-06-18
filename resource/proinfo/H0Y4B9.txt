@@ -1,0 +1,25 @@
+UniprotID	H0Y4B9
+Accession	H0Y4B9
+EntryName	H0Y4B9_HUMAN
+ProteinName	propionyl-CoA carboxylase (EC 6.4.1.3)
+GeneName	PCCA
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMPVIKPDIANWELSVKLHDKVHTVVASNNGSVFSVEVDGSKLNVTSTWNLASPLLSVSVDGTQRTVQCLSREAGGNMSIQFLGTVVAEGQEICVIEAMKMQNSMTAGKTGTVKSVHCQAGDTVGEGDLLVELE
+PTM	

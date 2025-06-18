@@ -1,0 +1,25 @@
+UniprotID	P52434-4
+Accession	P52434;C9J413;C9JBJ6;C9JCU7;C9JUA8;P53802;Q969R0
+EntryName	RPAB3_HUMAN
+ProteinName	DNA-directed RNA polymerases I, II, and III subunit RPABC3 (RNA polymerases I, II, and III subunit ABC3) (DNA-directed RNA polymerase II subunit H) (DNA-directed RNA polymerases I, II, and III 17.1 kDa polypeptide) (RPB17) (RPB8 homolog) (hRPB8)
+GeneName	POLR2H
+Length	175
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively.
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGILFEDIFDVKDIDPEGKKFDRVSRLHCESESFKMDLILDVNIQIYPVDLGDKFRLVIASTLYEDGTLDDGEYNPTDDRPSRADQFEYVMYGKVYRIEGDETSTEAATRLLRLRAAEWQCSRITGWGLLFQLCVRVLWGPAHEAAGGCQQPAWIRGGLQSLSPDEEASLLNLA
+PTM	Acetylation:20;Methylation:20;Phosphorylation:93,104,105;SUMOylation:13,20;Ubiquitylation:13,20,95,146

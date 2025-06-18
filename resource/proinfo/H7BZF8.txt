@@ -1,0 +1,25 @@
+UniprotID	H7BZF8
+Accession	H7BZF8
+EntryName	H7BZF8_HUMAN
+ProteinName	HAUS augmin like complex subunit 7
+GeneName	HAUS7
+Length	211
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKSEEEEKLAELARQLQESAAKLHALRTEYFAQHEQGAAAGAADISTLDQKLRLVTSDFHQLILAFLQVYDDELGECCQRPGPDLHPCGPIIQATHQNLTSYSQIPRGQPKKPALVTMTTVPTCATLPLAQGFRDVHFGFLSERLRAFQPLTGWSCETPRSGMLLQVVMAVADTSAKAVETVKKQQGEQICWGGSSSVMSLATKMNELMEK
+PTM	

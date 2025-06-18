@@ -1,0 +1,25 @@
+UniprotID	Q9H9L7-2
+Accession	Q9H9L7;B4DZU6;Q0VDB3;Q53FK8
+EntryName	AKIR1_HUMAN
+ProteinName	Akirin-1
+GeneName	AKIRIN1 C1orf108
+Length	147
+Function	Molecular adapter that acts as a bridge between proteins, and which is involved skeletal muscle development (By similarity). Functions as a signal transducer for MSTN during skeletal muscle regeneration and myogenesis (By similarity). May regulate chemotaxis of both macrophages and myoblasts by reorganising actin cytoskeleton, leading to more efficient lamellipodia formation via a PI3 kinase dependent pathway (By similarity). In contrast to AKIRIN2, not involved in nuclear import of proteasomes (PubMed:34711951).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	23..28
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACGATLKRPMEFEAALLSPGSPKRRRCAPLPGPTPGLRPPDAEPPPPFQTQTPPQSLQQPAPPGSERRLPTPEQIFQNIKQEYSRYQRWRHLEVVLNQSEACASESQPHSSALTAPSSPEQYESFVKFTHDQIMRRYGTRPTSYVS
+PTM	Methylation:8,173;Phosphorylation:19,22,53,72,133;SUMOylation:8,81,126,151,163,173

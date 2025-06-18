@@ -1,0 +1,25 @@
+UniprotID	H0YJD2
+Accession	H0YJD2
+EntryName	H0YJD2_HUMAN
+ProteinName	Proteasome 26S subunit, ATPase 6
+GeneName	PSMC6
+Length	33
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRDKALQDYRKKLLEHKEIDGRLKECECTFLSI
+PTM	

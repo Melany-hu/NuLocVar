@@ -1,0 +1,25 @@
+UniprotID	K7EK37
+Accession	K7EK37
+EntryName	K7EK37_HUMAN
+ProteinName	F-box and leucine rich repeat protein 12
+GeneName	FBXL12
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLVELPDSVLLEIFSYLPVRDRIRISRVCHRWKRLVDDRWLWRHVDLTLYTVRAAGRAGLGRGRGARTPKTTSPTLGLCVGARAGDLEPGDPGPISASSLTSSSSTSGPQFPHPCNGDKGQYLPHGAIMGLH
+PTM	

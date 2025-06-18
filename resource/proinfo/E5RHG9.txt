@@ -1,0 +1,25 @@
+UniprotID	E5RHG9
+Accession	E5RHG9
+EntryName	E5RHG9_HUMAN
+ProteinName	Cytochrome b-c1 complex subunit 7 (Complex III subunit VII) (Ubiquinol-cytochrome c reductase complex 14 kDa protein)
+GeneName	UQCRB
+Length	76
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDDTIYEDEDVKEAIRRLPENLYNDRMFRIKRALDLNLKHQILPKEQWTKYEEKKTTLSLTCEMILLKLLSKSLI
+PTM	

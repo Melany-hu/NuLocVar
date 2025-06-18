@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J287
+Accession	A0A0B4J287
+EntryName	A0A0B4J287_HUMAN
+ProteinName	COMM domain containing 4
+GeneName	COMMD4
+Length	177
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFRFCGDLDCPDWVLAEISTLAKMYEKILKLTADAKFESGDVKATVAVLSFILSSAAKHSVDGESLSSELQQLGLPKEHAASLCRCYEEKQSPLQKHLRVCSLRMNRLAGVGWRVDYTLSSSLLQSVEEPMVHLRLEVAAAPGTPAQPVAMSLSADKFQVLLAELKQAQTLMSSLG
+PTM	

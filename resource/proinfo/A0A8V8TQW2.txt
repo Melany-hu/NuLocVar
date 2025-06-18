@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQW2
+Accession	A0A8V8TQW2
+EntryName	A0A8V8TQW2_HUMAN
+ProteinName	Inducible T cell costimulator ligand
+GeneName	ICOSLG
+Length	214
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPAGMLRGDFSLRLFNVTPQDEQKFHCLVLSQSLGFQEVLSVEVTLHVAANFSVPVVSAPHSPSQDELTFTCTSINGYPRPNVYWINKTDNSLLDQALQNDTVFLNMRGLYDVVSVLRIARTPSVNIGCCIENVLLQQNLTVGSQTGNDIGERDKITENPVSTGEKNAATWSILAVLCLLVVVAVAIGWVCRDRCLQHSYAGAWAVSPETELT
+PTM	

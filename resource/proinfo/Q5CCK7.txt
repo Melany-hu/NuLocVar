@@ -1,0 +1,25 @@
+UniprotID	Q5CCK7
+Accession	Q5CCK7
+EntryName	Q5CCK7_HUMAN
+ProteinName	Cystathionine B synthase
+GeneName	CBS
+Length	23
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YRNASNPLADYDTTADEILQQCD
+PTM	

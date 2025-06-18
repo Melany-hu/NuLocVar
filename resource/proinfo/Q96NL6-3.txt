@@ -1,0 +1,25 @@
+UniprotID	Q96NL6-3
+Accession	Q96NL6;A4QN04;Q0VAH2;Q6P2M4
+EntryName	SCLT1_HUMAN
+ProteinName	Sodium channel and clathrin linker 1 (Sodium channel-associated protein 1)
+GeneName	SCLT1 SAP1
+Length	175
+Function	Adapter protein that links SCN10A to clathrin. Regulates SCN10A channel activity, possibly by promoting channel internalization (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAEIDFLREQNRRLNEDFRRYQMESFSKYSSVQKAVCQGEGDDTFENLVFDQSFLAPLVTEYDKHLGELNGQLKYYQKQVGEMKLQLENVIKENERSELSRQKLHTQELLSQLEMANEKVAENEKLILEHQEKANRLQRRLSQAEERAASASQQLSVITVQRRKAASLMNLENI
+PTM	Methylation:93,318,363,431,532,555,610;Phosphorylation:26,28,294,303,312,398,402,553,656,664,673,681;Ubiquitylation:347,521,539,540

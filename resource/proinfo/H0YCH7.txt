@@ -1,0 +1,25 @@
+UniprotID	H0YCH7
+Accession	H0YCH7
+EntryName	H0YCH7_HUMAN
+ProteinName	Phosphodiesterase 4D interacting protein
+GeneName	PDE4DIP
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAERQLYSSLVKFHAHPESSERDRTLQVELEGAQVLRSRLEEVLGRSLERLNRLETLAAIGGAAAGDDTEDTSTEFTDSIEEEAAHHSHQQPSFL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9H6R6-2
+Accession	Q9H6R6;D3DRB6;Q53G45;Q96IV7;Q9H605
+EntryName	ZDHC6_HUMAN
+ProteinName	Palmitoyltransferase ZDHHC6 (EC 2.3.1.225) (Stearoyltransferase ZDHHC6) (EC 2.3.1.-) (Transmembrane protein H4) (Zinc finger DHHC domain-containing protein 6) (DHHC-6) (Zinc finger protein 376)
+GeneName	ZDHHC6 ZNF376
+Length	409
+Function	Endoplasmic reticulum palmitoyl acyltransferase that mediates palmitoylation of proteins such as AMFR, CALX, ITPR1 and TFRC (PubMed:22314232, PubMed:22728137, PubMed:25368151, PubMed:28826475). Palmitoylates calnexin (CALX), which is required for its association with the ribosome-translocon complex and efficient folding of glycosylated proteins (PubMed:22314232). Mediates palmitoylation of AMFR, promoting AMFR distribution to the peripheral endoplasmic reticulum (PubMed:22728137). Together with SELENOK, palmitoylates ITPR1 in immune cells, leading to regulate ITPR1 stability and function (PubMed:25368151). Stearoyltransferase that mediates stearoylation of TFRC to inhibit TFRC-mediated activation of the JNK pathway and mitochondrial fragmentation (PubMed:26214738).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTFCSVIKFENLQELKRLCHWGPIIALGVIAICSTMAMIDSVLWYWPLHTTGGSVNFIMLINWTVMILYNYFNAMFVGPGFVPLGWKPDTMYLQYCKVCQAYKAPRSHHCRKCNRCVMKMDHHCPWINNCCGYQNHASFTLFLLLAPLGCIHAAFIFVMTMYTQLYHRLSFGWNTVKIDMSAARRDPLPIVPFGLAAFATTLFALGLALGTTIAVGMLFFIQMKIILRNKTSIESWIEEKAKDRIQYYQLDEVFVFPYDMGSRWRNFKQVFTWSGVPEGDGLEWPVREGCHQYSLTIEQLKQKADKRVRSVRYKVIEDYSGACCPLNKGIKTFFTSPCTEEPRIQLQKGEFILATRGLRYWLYGDKILDDSFIEGVSRIRGWFPRKCVEKCPCDAETDQAPEGEKKNR
+PTM	Methylation:17,306,353;Phosphorylation:253;Ubiquitylation:17,273,336,353

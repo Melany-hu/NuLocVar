@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRA3
+Accession	A0A1W2PRA3
+EntryName	A0A1W2PRA3_HUMAN
+ProteinName	Docking protein 7
+GeneName	DOK7
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGASRPPPKPLRPRQLQEVGRQSSSDSGIATGSHSSYSSSLSSYAGSSLDVWRATDELGSLLSLPAAGAPEPSLCTCLPGTVEYQVPTSLRAHYDTPRSLCLAPRDHSPPSQGSPGNSAARDSGGQTSAGCPSGWLGTRRRGLVMEAPQGSEATLPGPAPGEPWEAGGPHAGPPPAFFSACPVCGGLKVNPPP
+PTM	

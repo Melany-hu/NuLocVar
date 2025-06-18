@@ -1,0 +1,25 @@
+UniprotID	B4E1Z9
+Accession	B4E1Z9
+EntryName	B4E1Z9_HUMAN
+ProteinName	Proline-serine-threonine phosphatase interacting protein 1 (cDNA FLJ60215, highly similar to Proline-serine-threoninephosphatase-interacting protein 1)
+GeneName	PSTPIP1
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMPQLQFKDAFWCRDFTAHTGYEVLLQRLLDGRKMCKDMEELLRQRAQAEERYGKELVQIARKAGGQTEINSLRASFDSLKQQMENVGSSHIQLALTLREELRSLEEFRERQKEQRKKGSLPRPRPSAQNLVSPAV
+PTM	

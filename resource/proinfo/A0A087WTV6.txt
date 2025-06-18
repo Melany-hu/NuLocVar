@@ -1,0 +1,25 @@
+UniprotID	A0A087WTV6
+Accession	A0A087WTV6
+EntryName	A0A087WTV6_HUMAN
+ProteinName	Pyrroline-5-carboxylate reductase 2 (EC 1.5.1.2)
+GeneName	PYCR2
+Length	246
+Function	Oxidoreductase that catalyzes the last step in proline biosynthesis, which corresponds to the reduction of pyrroline-5-carboxylate to L-proline using NAD(P)H. At physiologic concentrations, has higher specific activity in the presence of NADH. Involved in cellular response to oxidative stress. In some cell types, such as erythrocytes, its primary function may be the generation of NADP(+).
+Subcellular Location	Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVGFIGAGQLAYALARGFTAAGILSAHKIIASSPEMNLPTVSALRKMGVNLTRSNKETVKHSDVLFLAVKPHIIPFILDEIGADVQARHIVVSCAAGVTISSVEKAFMALDALADGGVKMGLPRRLAIQLGAQALLGAAKMLLDSEQHPCQLKDNVCSPGGATIHALHFLESGGFRSLLINAVEASCIRTRELQSMADQEKISPAALKKTLLDRVKLESPTVSTLTPSSPGKLLTRSLALGGKKD
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E7EMP6
+Accession	E7EMP6
+EntryName	E7EMP6_HUMAN
+ProteinName	Abasic site processing protein HMCES (ES cell-specific 5hmC-binding protein) (EC 3.4.-.-) (Embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein) (Peptidase HMCES) (SRAP domain-containing protein 1)
+GeneName	HMCES
+Length	312
+Function	Sensor of abasic sites in single-stranded DNA (ssDNA) required to preserve genome integrity by promoting error-free repair of abasic sites. Acts as an enzyme that recognizes and binds abasic sites in ssDNA at replication forks and chemically modifies the lesion by forming a covalent cross-link with DNA: forms a stable thiazolidine linkage between a ring-opened abasic site and the alpha-amino and sulfhydryl substituents of its N-terminal catalytic cysteine residue. The HMCES DNA-protein cross-link is then either reversed or degraded. HMCES is able to catalyze the reversal of its thiazolidine cross-link and cycle between a cross-link and a non-cross-linked state depending on DNA context: mediates self-reversal of the thiazolidine cross-link in double stranded DNA, allowing APEX1 to initiate downstream repair of abasic sites. The HMCES DNA-protein cross-link can also be degraded by the SPRTN metalloprotease following unfolding by the BRIP1/FANCJ helicase. Acts as a protease: mediates autocatalytic processing of its N-terminal methionine in order to expose the catalytic cysteine.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGRTSCHLPRDVLTRACAYQDRRGQQRLPEWRDPDKYCPSYNKSPQSNSPVLLSRLHFEKDADSSERIIAPMRWGLVPSWFKESDPSKLQFNTTNCRSDTVMEKRSFKSGSIGAADSPENWEKVWDNWRLLTMAGIFDCWEPPEGGDVLYSYTIITVDSCKGLSDIHHRMPAILDGEEAVSKWLDFGEVSTQEALKLIHPTENITFHAVSSVVNNSRNNTPECLAPVDLVVKKELRASGSSQRMLQWLATKSPKKEDSKTPQKEESDVPQWSSQFLQKSPLPTKRGTAGLLEQWLKREKEEEPVAKRPYSQ
+PTM	

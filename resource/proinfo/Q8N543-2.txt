@@ -1,0 +1,25 @@
+UniprotID	Q8N543-2
+Accession	Q8N543;H3BUQ2;Q9H7U5;Q9H9J9;Q9HA87;Q9HCG0;Q9NVB6
+EntryName	OGFD1_HUMAN
+ProteinName	Prolyl 3-hydroxylase OGFOD1 (EC 1.14.11.-) (2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1) (Termination and polyadenylation 1 homolog) (uS12 prolyl 3-hydroxylase)
+GeneName	OGFOD1 KIAA1612 TPA1
+Length	402
+Function	Prolyl 3-hydroxylase that catalyzes 3-hydroxylation of 'Pro-62' of small ribosomal subunit uS12 (RPS23), thereby regulating protein translation termination efficiency. Involved in stress granule formation.
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	4..20
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCAKYEFTDALLCHDDELEGRRIAFILYLVPPWDRSMGGTLDLYSIDEHFQPKQIVKSLIPSWNKLVFFEVSPVSFHQVSEVLSEEKSRLSISGWFHGPSLTRPPNYFEPPIPRSPHIPQDHEILYDWINPTYLDMDYQVQIQEEFEESSEILLKEFLKPEKFTKVCEALEHGHVEWSSRGPPNKRFYEKAEESKLPEILKECMKLFRSEALFLLLSNFTGLKLHFLAPSEEDEMNDKKEAETTDITEEGTSHSPPEPENNQMAISNNSQQSNEQTDPEPEENETKKESSVPMCQGELRHWKTGHYTLIHDHSKAEFALDLILYCGCEGWEPEYGGFTSYIAKGEDEELLTVNPESNSLALVYRDRETLKFVKHINHRSLEQKKTFPNRTGFWDFSFIYYE
+PTM	Acetylation:4,91,105;Methylation:36,117,132,163,198,296,300,342,440,511;Phosphorylation:138,371,385,392,410;SUMOylation:36,37,97,105,117,194,228,300,306,336,379,427,428;Ubiquitylation:97,105,117,145,194,198,228,306,331,336,379,511,524,525

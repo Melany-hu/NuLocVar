@@ -1,0 +1,25 @@
+UniprotID	O15498-2
+Accession	O15498;B4DR94;Q53F01;Q6FGU9;Q6IB15
+EntryName	YKT6_HUMAN
+ProteinName	Synaptobrevin homolog YKT6 (EC 2.3.1.-)
+GeneName	YKT6
+Length	164
+Function	Vesicular soluble NSF attachment protein receptor (v-SNARE) mediating vesicle docking and fusion to a specific acceptor cellular compartment. Functions in endoplasmic reticulum to Golgi transport; as part of a SNARE complex composed of GOSR1, GOSR2 and STX5. Functions in early/recycling endosome to TGN transport; as part of a SNARE complex composed of BET1L, GOSR1 and STX5. Has a S-palmitoyl transferase activity.
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasmic vesicle membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLYSLSVLYKGEAKVVLLKAAYDVSSFSFFQRSSVQEFMTFTSQLIVERSSKGTRASVKEQDYLCHVYVRNDSLAGVVIADNEYPSRVAFTLLEKVLDEFSKQVDRIDWPVGSPATIHYPALDGHLSRYQNPREADPMTKVQAELDETKIILARKQNSCCAIM
+PTM	Acetylation:15,103,166,182;Methylation:20,71,88,96,103,107,150,173;Phosphorylation:4,55,58,64,69,114,117,159,172,174,179;SUMOylation:11;Ubiquitylation:96,103,141,150,173,182

@@ -1,0 +1,25 @@
+UniprotID	C9JVE2
+Accession	C9JVE2;C9JUW4
+EntryName	C9JVE2_HUMAN
+ProteinName	DCN1-like protein (Defective in cullin neddylation protein 1-like protein)
+GeneName	DCUN1D1 hCG_17206
+Length	244
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIFTQSSEKTAVSCLSQNDWKLDVATDNFFQNPELYIRESVKGSLDRKKLEQLYNRYKDPQDENKIGIDGIQQFCDDLALDPASISVLIIAWKFRAATQCEFSKQEFMDGMTELGCDSIEKLKAQIPKMEQELKEPGRFKDFYQFTFNFAKNPGQKGLDLEMAIAYWNLVLNGRFKFLDLWNKFLLEHHKRSIPKDTWNLLLDFSTMIADDMSNYDEEGAWPVLIDDFVEFARPQIAGTKSTTV
+PTM	

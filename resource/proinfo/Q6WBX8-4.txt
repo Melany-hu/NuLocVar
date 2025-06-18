@@ -1,0 +1,25 @@
+UniprotID	Q6WBX8-4
+Accession	Q6WBX8;Q5U5K0;Q6NVJ1;Q6ZVT7;Q8N7T9;Q96LI8
+EntryName	RAD9B_HUMAN
+ProteinName	Cell cycle checkpoint control protein RAD9B (DNA repair exonuclease rad9 homolog B) (hRAD9B)
+GeneName	RAD9B
+Length	271
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIQPRLLADAIVLFTSSQEEVTLAVTPLNFCLKSSNEESMDLSNAVHSEMFVGSDEFDFFQIGMDTEITFCFKELKGILTFSEATHAPISIYFDFPGKPLALSIDDMLVEANFILATLADEQSRASSPQSLCLSQKRKRSDLIEKKAGKNVTGQALECISKKAAPRRLYPKETLTNISALENCGSPAMKRVDGDVSEVSESSVSNTEEVPGSLCLRKFSCMFFGAVSSDQQEHFNHPFDSLARASDSEEDMNNVCCRKEFNGSDAKYFCII
+PTM	Methylation:69,106,300,326;Phosphorylation:282

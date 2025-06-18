@@ -1,0 +1,25 @@
+UniprotID	Q9UER7-4
+Accession	Q9UER7;B4E1I3;F5ANJ6;F5ANJ7;F5H082;O14747;O15141;O15208;Q5STK9;Q9BWI3
+EntryName	DAXX_HUMAN
+ProteinName	Death domain-associated protein 6 (Daxx) (hDaxx) (ETS1-associated protein 1) (EAP1) (Fas death domain-associated protein)
+GeneName	DAXX BING2 DAP6
+Length	688
+Function	Transcription corepressor known to repress transcriptional potential of several sumoylated transcription factors. Down-regulates basal and activated transcription. Its transcription repressor activity is modulated by recruiting it to subnuclear compartments like the nucleolus or PML/POD/ND10 nuclear bodies through interactions with MCSR1 and PML, respectively. Seems to regulate transcription in PML/POD/ND10 nuclear bodies together with PML and may influence TNFRSF6-dependent apoptosis thereby. Inhibits transcriptional activation of PAX3 and ETS1 through direct protein-protein interactions. Modulates PAX5 activity; the function seems to involve CREBBP. Acts as an adapter protein in a MDM2-DAXX-USP7 complex by regulating the RING-finger E3 ligase MDM2 ubiquitination activity. Under non-stress condition, in association with the deubiquitinating USP7, prevents MDM2 self-ubiquitination and enhances the intrinsic E3 ligase activity of MDM2 towards TP53, thereby promoting TP53 ubiquitination and subsequent proteasomal degradation. Upon DNA damage, its association with MDM2 and USP7 is disrupted, resulting in increased MDM2 autoubiquitination and consequently, MDM2 degradation, which leads to TP53 stabilization. Acts as a histone chaperone that facilitates deposition of histone H3.3. Acts as a targeting component of the chromatin remodeling complex ATRX:DAXX which has ATP-dependent DNA translocase activity and catalyzes the replication-independent deposition of histone H3.3 in pericentric DNA repeats outside S-phase and telomeres, and the in vitro remodeling of H3.3-containing nucleosomes. Does not affect the ATPase activity of ATRX but alleviates its transcription repression activity. Upon neuronal activation associates with regulatory elements of selected immediate early genes where it promotes deposition of histone H3.3 which may be linked to transcriptional induction of these genes. Required for the recruitment of histone H3.3:H4 dimers to PML-nuclear bodies (PML-NBs); the process is independent of ATRX and facilitated by ASF1A; PML-NBs are suggested to function as regulatory sites for the incorporation of newly synthesized histone H3.3 into chromatin. In case of overexpression of centromeric histone variant CENPA (as found in various tumors) is involved in its mislocalization to chromosomes; the ectopic localization involves a heterotypic tetramer containing CENPA, and histones H3.3 and H4 and decreases binding of CTCF to chromatin. Proposed to mediate activation of the JNK pathway and apoptosis via MAP3K5 in response to signaling from TNFRSF6 and TGFBR2. Interaction with HSPB1/HSP27 may prevent interaction with TNFRSF6 and MAP3K5 and block DAXX-mediated apoptosis. In contrast, in lymphoid cells JNC activation and TNFRSF6-mediated apoptosis may not involve DAXX. Shows restriction activity towards human cytomegalovirus (HCMV). Plays a role as a positive regulator of the heat shock transcription factor HSF1 activity during the stress protein response (PubMed:15016915).
+Subcellular Location	Cytoplasm; Nucleus; Nucleoplasm; Nucleus; PML body; Nucleus; Nucleolus; Chromosome; Centromere; Nucleus; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	391..395;628..634
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	629...634;135...140;56...60;628...634
+validnes_region	
+nesbase_region	
+Sequence	MATANSIIVLDDDDEDEAAAQPGPSHPLPNAASPGAEAPSSSEPHGARGSSSSGGKKCYKLENEKLFEEFLELCKMQTADHPEVVPFLYNRQQRAHSLFLASAEFCNILSRVLSRARSRPAKLYVYINELCTVLKAHSAKKKLNLAPAATTSNEPSGNNPPTHLSLDPTNAENTASQSPRTRGSRRQIQRLEQLLALYVAEIRRLQEKELDLSELDDPDSAYLQEARLKRKLIRLFGRLCELKDCSSLTGRVIEQRIPYRGTRYPEVNRRIERLINKPGPDTFPDYGDVLRAVEKAAARHSLGLPRQQLQLMAQDAFRDVGIRLQERRHLDLIYNFGCHLTDDYRPGVDPALSDPVLARRLRENRSLAMSRLDEVISKYAMLQDKSEEGERKKRRARLQGTSSHSADTPEASLDSGEGPSGMASQGCPSASRAETDDEDDEESDEEEEEEEEEEEEEATDSEEEEDLEQMQEGQEDDEEEDEEEEAAAGKDGDKSPMSSLQISNEKNLEPGKQISRSSGEQQNKGRIVSPSLLSEEPLAPSSIDAESNGEQPEELTLEEESPVSQLFELEIEALPLDTPSSVETDISSSRKQSEEPFTTVLENGAGMVSSTSFNGGVSPHNWGDSGPPCKKSRKEKKQTGSGPLGNSYVERQSPAVPNPPFTASSAWYLQDKCGHTMRSRRDHRALRL
+PTM	Acetylation:243,512;Methylation:208,229,277,385,490;Phosphorylation:6,25,33,97,102,150,162,169,174,176,178,213,370,377,402,403,405,408,412,415,429,431,495,498,499,503,517,593,618,639,641,647,648,654,665,668,671,675,683,688,690,695,697,702,707,709,722,723,726,737,739;SUMOylation:60,65,135,141,142,208,277,295,378,385,494,506,512,524,591,630,636,637,662,721;Ubiquitylation:243,277,378,385,512,637

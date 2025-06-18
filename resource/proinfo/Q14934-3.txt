@@ -1,0 +1,25 @@
+UniprotID	Q14934-3
+Accession	Q14934;B4DDG5;B4DY55;B5B2U7;B5B2U8;B5B2U9;B5B2V0;B5B2V1;B5B2V2;B5B2V3;B5B2V4;B5B2V5;B5B2V7;B5B2V8;B5B2V9;B5B2W0;B5B2W1;B5B2W2;B5B2W3;B5B2W4;B5B2W5;B5B2W6;B5B2W7;B5B2W8;B5B2W9;B5B2X0;Q7Z598;Q96H68
+EntryName	NFAC4_HUMAN
+ProteinName	Nuclear factor of activated T-cells, cytoplasmic 4 (NF-ATc4) (NFATc4) (T-cell transcription factor NFAT3) (NF-AT3)
+GeneName	NFATC4 NFAT3
+Length	964
+Function	Ca(2+)-regulated transcription factor that is involved in several processes, including the development and function of the immune, cardiovascular, musculoskeletal, and nervous systems (PubMed:11514544, PubMed:11997522, PubMed:17213202, PubMed:17875713, PubMed:18668201, PubMed:25663301, PubMed:7749981). Involved in T-cell activation, stimulating the transcription of cytokine genes, including that of IL2 and IL4 (PubMed:18347059, PubMed:18668201, PubMed:7749981). Along with NFATC3, involved in embryonic heart development. Following JAK/STAT signaling activation and as part of a complex with NFATC3 and STAT3, binds to the alpha-beta E4 promoter region of CRYAB and activates transcription in cardiomyocytes (By similarity). Involved in mitochondrial energy metabolism required for cardiac morphogenesis and function (By similarity). Transactivates many genes involved in the cardiovascular system, including AGTR2, NPPB/BNP (in synergy with GATA4), NPPA/ANP/ANF and MYH7/beta-MHC (By similarity). Involved in the regulation of adult hippocampal neurogenesis. Involved in BDNF-driven pro-survival signaling in hippocampal adult-born neurons. Involved in the formation of long-term spatial memory and long-term potentiation (By similarity). In cochlear nucleus neurons, may play a role in deafferentation-induced apoptosis during the developmental critical period, when auditory neurons depend on afferent input for survival (By similarity). Binds to and activates the BACE1/Beta-secretase 1 promoter, hence may regulate the proteolytic processing of the amyloid precursor protein (APP) (PubMed:25663301). Plays a role in adipocyte differentiation (PubMed:11997522). May be involved in myoblast differentiation into myotubes (PubMed:17213202). Binds the consensus DNA sequence 5'-GGAAAAT-3' (Probable). In the presence of CREBBP, activates TNF transcription (PubMed:11514544). Binds to PPARG gene promoter and regulates its activity (PubMed:11997522). Binds to PPARG and REG3G gene promoters (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	268..270;672..674
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITTLPSLLPASLASISHRVTNLPSNSLSHNPGLSKPDFPGNSSPGLPSSSSPGRDLGAPAGSMGAASCEDEELEFKLVFGEEKEAPPLGAGGLGEELDSEDAPPCCRLALGEPPPYGAAPIGIPRPPPPRPGMHSPPPRPAPSPGTWESQPARSVRLGGPGGGAGGAGGGRVLECPSIRITSISPTPEPPAALEDNPDAWGDGSPRDYPPPEGFGGYREAGGQGGGAFFSPSPGSSSLSSWSFFSDASDEAALYAACDEVESELNEAASRFGLGSPLPSPRASPRPWTPEDPWSLYGPSPGGRGPEDSWLLLSAPGPTPASPRPASPCGKRRYSSSGTPSSASPALSRRGSLGEEGSEPPPPPPLPLARDPGSPGPFDYVGAPPAESIPQKTRRTSSEQAVALPRSEEPASCNGKLPLGAEESVAPPGGSRKEVAGMDYLAVPSPLAWSKARIGGHSPIFRTSALPPLDWPLPSQYEQLELRIEVQPRAHHRAHYETEGSRGAVKAAPGGHPVVKLLGYSEKPLTLQMFIGTADERNLRPHAFYQVHRITGKMVATASYEAVVSGTKVLEMTLLPENNMAANIDCAGILKLRNSDIELRKGETDIGRKNTRVRLVFRVHVPQGGGKVVSVQAASVPIECSQRSAQELPQVEAYSPSACSVRGGEELVLTGSNFLPDSKVVFIERGPDGKLQWEEEATVNRLQSNEVTLTLTVPEYSNKRVSRPVQVYFYVSNGRRKRSPTQSFRFLPVICKEEPLPDSSLRGFPSASATPFGTDMDFSPPRPPYPSYPHEDPACETPYLSEGFGYGMPPLYPQTGPPPSYRPGLRMFPETRGTTGCAQPPAVSFLPRPFPSDPYGGRGSSFSLGLPFSPPAPFRPPPLPASPPLEGPFPSQSDVHPLPAEGYNKVGPGYGPGEGAPEQEKSRGGYSSGFRDSVPIQGITLEEGGCGTGGCECECVQEIALHVC
+PTM	Methylation:505,528;Phosphorylation:73,119,122,124,142,213,217,221,226,232,234,237,256,259,264,271,272,273,274,276,278,279,281,285,289,295,311,317,325,330,333,334,335,382,510,532,665,716;SUMOylation:689

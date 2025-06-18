@@ -1,0 +1,25 @@
+UniprotID	H0YGU0
+Accession	H0YGU0
+EntryName	H0YGU0_HUMAN
+ProteinName	Pyridine nucleotide-disulphide oxidoreductase domain 1
+GeneName	PYROXD1
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKSEAKIAHKRTRYTTEGRKKEARSKSKADNVGSALGPDWHEGLNLKGTKEQYSQHPHQK
+PTM	

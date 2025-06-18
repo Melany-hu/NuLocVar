@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQU8
+Accession	A0A8V8TQU8
+EntryName	A0A8V8TQU8_HUMAN
+ProteinName	Serine/threonine-protein phosphatase (EC 3.1.3.16)
+GeneName	PPP2CA
+Length	239
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	79...88
+nlsdbnls_region	
+validnes_region	79...88
+nesbase_region	
+Sequence	MDEKVFTKELDQWIEQLNECKQLSESQVKSLCEKVRYRERITILRGNHESRQITQVYGFYDECLRKYGNANVWKYFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQLVMEGYNWCHDRNVVTIFSAPNYCYRCGNQAAIMELDDTLKYSFLQFDPAPRRGEPHVTRRTPDYFL
+PTM	

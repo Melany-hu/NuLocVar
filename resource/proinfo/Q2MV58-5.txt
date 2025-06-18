@@ -1,0 +1,25 @@
+UniprotID	Q2MV58-5
+Accession	Q2MV58;A8MX11;Q49A60;Q6P5X1;Q6UXW2;Q8NAE9;Q96N72;Q9H798
+EntryName	TECT1_HUMAN
+ProteinName	Tectonic-1
+GeneName	TCTN1 TECT1 UNQ9369/PRO34160
+Length	483
+Function	Component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Regulator of Hedgehog (Hh), required for both activation and inhibition of the Hh pathway in the patterning of the neural tube. During neural tube development, it is required for formation of the most ventral cell types and for full Hh pathway activation. Functions in Hh signal transduction to fully activate the pathway in the presence of high Hh levels and to repress the pathway in the absence of Hh signals. Modulates Hh signal transduction downstream of SMO and RAB23 (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITAHCGLDLLGSVAVLCVCDLSPAQCDINCCCDPDCSSVDFSVFSACSVPVVTGDSQFCSQKAVIYSLNFTANPPQRVFELVDQINPSIFCIHITNYKPALSFINPEVPDENNFDTLMKTSDGFTLNAESYVSFTTKLDIPTAAKYEYGVPLQTSDSFLRFPSSLTSSLCTDNNPAAFLVNQAVKCTRKINLEQCEEIEALSMAFYSSPEILRVPDSRKKVPITVQSIVIQSLNKTLTRREDTDVLQPTLVNAGHFSLCVNVVLEVKYSLTYTDAGEVTKADLSFVLGTVSSVVVPLQQKFEIHFLQENTQPVPLSGNPGYVVGLPLAAGFQPHKGGALPCQLVAQKVKSLLWGQGFPDYVAPFGNSQAQDMLDWVPIHFITQSFNRKHFVLQDSCQLPGALVIEVKWTKYGSLLNPQAKIVNVTANLISSSFPEANSGNERTILISTAVTFVDVSAPAEAGFRAPPAINARLPFNFFFPFV
+PTM	Methylation:328,457,512

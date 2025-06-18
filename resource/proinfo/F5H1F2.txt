@@ -1,0 +1,25 @@
+UniprotID	F5H1F2
+Accession	F5H1F2
+EntryName	F5H1F2_HUMAN
+ProteinName	Septin 10
+GeneName	SEPTIN10
+Length	98
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNLDSKVNIIPVIAKADTVSKTELQKFKIKLMSELVSNGVQIYQFPTDDDTIAKVNAAMNGQLPFAVVGSMDEVKVGNKMVKARQYPWGVVQVENEN
+PTM	

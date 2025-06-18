@@ -1,0 +1,25 @@
+UniprotID	Q16822-3
+Accession	Q16822;B4DW73;O43253;Q86U01;Q9BV62
+EntryName	PCKGM_HUMAN
+ProteinName	Phosphoenolpyruvate carboxykinase [GTP], mitochondrial (PEPCK-M) (EC 4.1.1.32) (Phosphoenolpyruvate carboxykinase 2, mitochondrial) (mtPCK2)
+GeneName	PCK2 PEPCK2
+Length	506
+Function	Mitochondrial phosphoenolpyruvate carboxykinase that catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP), the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle (PubMed:28955899). Can play an active role in glyceroneogenesis and gluconeogenesis (PubMed:28955899).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPADFQRAVDERFPGCMQGRTMYVLPFSMGPVGSPLSRIGVQLTDSAYVVASMRIMTRLGTPVLQALGDGDFVKCLHSVGQPLTGQGEPVSQWPCNPEKTLIGHVPDQREIISFGSGYGGNSLLGKKCFALRIASRLARDEGWLAEHMLILGITSPAGKKRYVAAAFPSACGKTNLAMMRPALPGWKVECVGDDIAWMRFDSEGRLRAINPENGFFGVAPGTSATTNPNAMATIQSNTIFTNVAETSDGGVYWEGIDQPLPPGVTVTSWLGKPWKPGDKEPCAHPNSRFCAPARQCPIMDPAWEAPEGVPIDAIIFGGRRPKGVPLVYEAFNWRHGVFVGSAMRSESTAAAEHKGKIIMHDPFAMRPFFGYNFGHYLEHWLSMEGRKGAQLPRIFHVNWFRRDEAGHFLWPGFGENARVLDWICRRLEGEDSARETPIGLVPKEGALDLSGLRAIDTTQLFSLPKDFWEQEVRDIRSYLTEQVNQDLPKEVLAELEALERRVHKM
+PTM	Acetylation:88,100,108,410,414,491,578;Methylation:45,85,209,261,340,479,624;Phosphorylation:42,107,235,270,289,304,309,585,597;Ubiquitylation:108,261,262,522

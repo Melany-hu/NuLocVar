@@ -1,0 +1,25 @@
+UniprotID	J7ME35
+Accession	J7ME35
+EntryName	J7ME35_HUMAN
+ProteinName	Zinc finger protein with KRAB and SCAN domains 5
+GeneName	ZKSCAN5
+Length	115
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PWVREHHPESGEEAVAVIENIQRELEERRQQIVACPDVLPRKMATPGAVQESCSPHPLTVDTQPEQAPQKPRLLEENGYESRDNMELIVKQISDDSESHWVAPEHTERSVPQDPD
+PTM	

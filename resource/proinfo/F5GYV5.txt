@@ -1,0 +1,25 @@
+UniprotID	F5GYV5
+Accession	F5GYV5
+EntryName	F5GYV5_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 6-interacting protein 4
+GeneName	ARL6IP4
+Length	211
+Function	
+Subcellular Location	Nucleus speckle; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	109...114;104...110;93...98;103...109;6...11
+validnes_region	
+nesbase_region	
+Sequence	MAHVGSRKRSRSRSRSRGRGSEKRKKKSRKDTSRNCSASTSQGRKASTAPGAEERSKQKARRRTRSSSSSSSSSSSSSSSSSSSSSSSSSDGRKKRGKYKDKRRKKKKKRKKLKKKGKEKAEAQQVEALPGPSLDQWHRSAGEEEDGPVLTDEQKSRIQAMKPMTKEEWDARQSIIRKVVDPETGRTRLIKGDGEVLEEIVTKERHREINK
+PTM	

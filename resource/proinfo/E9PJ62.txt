@@ -1,0 +1,25 @@
+UniprotID	E9PJ62
+Accession	E9PJ62
+EntryName	E9PJ62_HUMAN
+ProteinName	Ribonucleoside-diphosphate reductase large subunit (Ribonucleotide reductase large subunit)
+GeneName	RRM1
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHVIKRDGRQERVMFDKITSRIQKLCYGLNMDFVDPGLTLPPRLECSGIITAHCSLSFPSSWDHRLRSP
+PTM	

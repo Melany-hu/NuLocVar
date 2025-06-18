@@ -1,0 +1,25 @@
+UniprotID	P30968-2
+Accession	P30968;O75793;Q14D13;Q92644
+EntryName	GNRHR_HUMAN
+ProteinName	Gonadotropin-releasing hormone receptor (GnRH receptor) (GnRH-R)
+GeneName	GNRHR GRHR
+Length	249
+Function	Receptor for gonadotropin releasing hormone (GnRH) that mediates the action of GnRH to stimulate the secretion of the gonadotropic hormones luteinizing hormone (LH) and follicle-stimulating hormone (FSH). This receptor mediates its action by association with G-proteins that activate a phosphatidylinositol-calcium second messenger system. Isoform 2 may act as an inhibitor of GnRH-R signaling.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANSASPEQNQNHCSAINNSIPLMQGNLPTLTLSGKIRVTVTFFLFLLSATFNASFLLKLQKWTQKKEKGKKLSRMKLLLKHLTLANLLETLIVMPLDGMWNITVQWYAGELLCKVLSYLKLFSMYAPAFMMVVISLDRSLAITRPLALKSNSKVGQSMVGLAWILSSVFAGPQLPLHHPSFHHADLQCKNHLHPDTGPSSGPPRTTTESVQEQYTKSTAEDSKNDGCICHFIYCLLDSLLCPRNLVLV
+PTM	Methylation:81,115,150,264;Phosphorylation:124,126,136,254

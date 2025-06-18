@@ -1,0 +1,25 @@
+UniprotID	E9PKX4
+Accession	E9PKX4
+EntryName	E9PKX4_HUMAN
+ProteinName	Zinc finger protein 707
+GeneName	ZNF707
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMAQEPVTFRDVAIYFSREEWACLEPSQRALYRDVMLDNFSSVAALGFCSPRPDLVSRLEQWEEPWVEDRERPEFQAVQRGPRPEWDGAAM
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q3B7A3
+Accession	Q3B7A3
+EntryName	Q3B7A3_HUMAN
+ProteinName	SEPT7 protein
+GeneName	SEPT7
+Length	235
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	129...134
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVSARSAAAEERSVNSSTMAQQKNLEGYVGFANLPNQVYRKSVKRGFEFTLMVVGESGLGKSTLINSLFLTDLYSPEYPGPSHRIKKTVQVEQSKVLIKEGGVQLLLTIVDTPGFGDAVDNSNCWQPVIDYIDSKFEDYLNAESRVNRRQMPDNRVQCCLYFIAPSGHGLKPLDIEFMKRLHEKVNIIPLIAKADTLTPEECQQFKKQIMKEIQEHKIKIYEFPEKKKKKKKKK
+PTM	

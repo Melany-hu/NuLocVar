@@ -1,0 +1,25 @@
+UniprotID	H0YDR0
+Accession	H0YDR0
+EntryName	H0YDR0_HUMAN
+ProteinName	Autophagy related 13
+GeneName	ATG13
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPSVEDSQEVCTTSFSTSPPSQDSLPEKLAVHEKNVREFDAFVETLQ
+PTM	

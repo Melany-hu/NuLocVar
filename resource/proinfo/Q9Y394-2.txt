@@ -1,0 +1,25 @@
+UniprotID	Q9Y394-2
+Accession	Q9Y394;B2R896;Q9UKU2
+EntryName	DHRS7_HUMAN
+ProteinName	Dehydrogenase/reductase SDR family member 7 (EC 1.1.1.-) (Retinal short-chain dehydrogenase/reductase 4) (retSDR4) (Short chain dehydrogenase/reductase family 34C member 1) (Protein SDR34C1)
+GeneName	DHRS7 DHRS7A RETSDR4 SDR34C1 CGI-86 UNQ285/PRO3448
+Length	289
+Function	NADPH-dependent oxidoreductase which catalyzes the reduction of a variety of compounds bearing carbonyl groups including steroids, retinoids and xenobiotics (PubMed:24246760, PubMed:26466768, PubMed:28457967, PubMed:28687384). Catalyzes the reduction/inactivation of 5alpha-dihydrotestosterone to 3alpha-androstanediol, with a possible role in the modulation of androgen receptor function (PubMed:28457967, PubMed:28687384). Involved in the reduction of all-trans-retinal to all-trans-retinol (PubMed:26466768). Converts cortisone to 20beta-dihydrocortisone in vitro, although the physiological relevance of this activity is questionable (PubMed:28457967). Reduces exogenous compounds such as quinones (1,2-naphtoquinone, 9,10-phenantrenequinone and benzoquinone) and other xenobiotics (alpha-diketones) in vitro, suggesting a role in the biotransformation of xenobiotics with carbonyl group (PubMed:24246760, PubMed:26466768). A dehydrogenase activity has not been detected so far (PubMed:24246760). May play a role as tumor suppressor (PubMed:26311046).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVWVTGASSGIGEELAYQLSKLGVSLVLSARRVHELERVKRRCLENGNLKEKDILVLPLDLTDTGSHEAATKAVLQEFGRIDILVNNGGMSQRSLCMDTSLDVYRKLIELNYLGTVSLTKCVLPHMIERKQGKIVTVNSILGIISVPLSIGYCASKHALRGFFNGLRTELATYPGIIVSNICPGPVQSNIVENSLAGEVTKTIGNNGDQSHKMTTSRCVRLMLISMANDLKEVWISEQPFLLVTYLWQYMPTWAWWITNKMGKKRIENFKSGVDADSSYFKIFKTKHD
+PTM	Methylation:321;Phosphorylation:145,224,276,329;Ubiquitylation:101,103,123,263,321

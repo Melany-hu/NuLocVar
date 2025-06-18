@@ -1,0 +1,25 @@
+UniprotID	H0YDJ2
+Accession	H0YDJ2
+EntryName	H0YDJ2_HUMAN
+ProteinName	PPFIA binding protein 2
+GeneName	PPFIBP2
+Length	225
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGPSERTLSINEEEPEGGFSKWNATNKDPEELFKQEMPPRCSSPTVGPPPLPQKSLETRAQKKLSCSLEDLRSESVDKCMDGNQPFPVLEPKDSPFLAEHKYPTLPGKLSGATPNGEAAKSPPTICQPDATGSSLLRLNRGRSVSAPVLGDTESGWDDTAVVNDLSSTSSGTESGPQSPLTPDGKRNPKGIKKFWGKIRRTQSGNFYTDTLGMAEFRRGGLRATA
+PTM	

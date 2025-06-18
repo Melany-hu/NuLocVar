@@ -1,0 +1,25 @@
+UniprotID	A0A126GVG5
+Accession	A0A126GVG5
+EntryName	A0A126GVG5_HUMAN
+ProteinName	Olfactory receptor
+GeneName	OR1S2
+Length	229
+Function	
+Subcellular Location	Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQNNNISEFVLLGFSQDPGVQKALFVMFLLTHLVTVVGNLLIVVTIIASPSLGSPVYFFLACLSFIDAAYSTTISPKLIVDLLCDKKTISFPGCMGQLFIDHFFGSAEVFLLVVMACDRYVAICKPLHYLTIMNRQVCFLLLVVAMIGGFVHSAFQIVVYSLPFCGPNVIDHFGCDMYPLLKVACTDTYFVGLTVVFNSGAICMVIFTLLLISCGVILNSLKQSGKEA
+PTM	

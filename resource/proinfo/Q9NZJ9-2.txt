@@ -1,0 +1,25 @@
+UniprotID	Q9NZJ9-2
+Accession	Q9NZJ9;B7Z916;Q4AEJ6;Q53EZ2;Q68DD7;Q9NPC5;Q9NS30;Q9NZK0;Q9NZK1
+EntryName	NUDT4_HUMAN
+ProteinName	Diphosphoinositol polyphosphate phosphohydrolase 2 (DIPP-2) (EC 3.6.1.52) (Diadenosine 5',5'''-P1,P6-hexaphosphate hydrolase 2) (EC 3.6.1.61) (Nucleoside diphosphate-linked moiety X motif 4) (Nudix motif 4)
+GeneName	NUDT4 DIPP2 KIAA0487 HDCMB47P
+Length	181
+Function	Cleaves the beta-phosphate from diphosphoinositol polyphosphates such as PP-InsP5 (diphosphoinositol pentakisphosphate), PP-InsP4 (diphosphoinositol tetrakisphosphate) and 2-InsP4 (bisdiphosphoinositol tetrakisphosphate), suggesting that it may play a role in signal transduction (PubMed:10777568). Diadenosine polyphosphates, particularly Ap6A (P(1),P(6)-bis(5a-adenosyl) hexaphosphate) and Ap5A (P(1),P(5)-bis(5'-adenosyl) pentaphosphate) are downstream effectors of a signaling cascade that regulates cardiac KATP channels, can also be substrates, although with lower preference than the diphosphoinositol polyphosphates (PubMed:10777568). Can also catalyze the hydrolysis of 5-phosphoribose 1-diphosphate, generating the glycolytic activator ribose 1,5-bisphosphate (PubMed:12370170). Does not play a role in U8 snoRNA decapping activity (By similarity). Binds U8 snoRNA (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMKFKPNQTRTYDREGFKKRAACLCFRSEQEDEVLLVSSSRYPDQWIVPGGGMEPEEEPGGAAVREVYEEAGVKGKLGRLLGIFEQNQDRKHRTYVYVLTVTEILEDWEDSVNIGRKREWFKVEDAIKVLQCHKPVHAEYLEKLKLGCSPANGNSTVPSLPDNNALFVTAAQTSGLPSSVR
+PTM	Methylation:74,127,142;Phosphorylation:68,94,96,148,155,158;SUMOylation:3,74,121,142;Ubiquitylation:74,133

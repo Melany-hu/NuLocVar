@@ -1,0 +1,25 @@
+UniprotID	B4DNN2
+Accession	B4DNN2
+EntryName	B4DNN2_HUMAN
+ProteinName	DnaJ (Hsp40) homolog, subfamily B, member 4, isoform CRA_b (cDNA FLJ50816, highly similar to DnaJ homolog subfamily B member 4)
+GeneName	DNAJB4 hCG_22857
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGGRDSEEMEIDGDPFSAFGFSMNGYPRDRNSVGPSRLKQDPPVIHELRVSLEEIYSGCTKRMKISRKRLNADGRSYRSEDKILTIEIKKGWKEGTKITFPREGDETPNSIPADIVFIIKDKDHPKFKRDGSNIIYTAKISLREALCGCSINVPTLDGRNIPMSVNDIVKPGMRRRIIGYGLPFPKNPDQRGDLLIEFEVSFPDTISSSSKEVLRKHLPAS
+PTM	

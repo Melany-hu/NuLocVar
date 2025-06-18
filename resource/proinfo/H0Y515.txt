@@ -1,0 +1,25 @@
+UniprotID	H0Y515
+Accession	H0Y515
+EntryName	H0Y515_HUMAN
+ProteinName	Fibrous sheath interacting protein 2
+GeneName	FSIP2
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KDQERLMRHRYLDMISRKLEQLERTAEEQRLFLMDREERRQREHTRRKLTLRRKIEEEWKTKEMLLLTRMAEDVKREERIEEQQHRNREESDRKKQDLLEKKMAYHLQKMQDTGFNGEDIGKNTFKYRGQDGTHGE
+PTM	

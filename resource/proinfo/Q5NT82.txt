@@ -1,0 +1,25 @@
+UniprotID	Q5NT82
+Accession	Q5NT82
+EntryName	Q5NT82_HUMAN
+ProteinName	ITPase
+GeneName	ITPA
+Length	41
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VVQILGDKFPCTLVAQKIDLPEYQGEPDEISIQKCQEAVRQ
+PTM	

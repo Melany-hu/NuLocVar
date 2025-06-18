@@ -1,0 +1,25 @@
+UniprotID	Q16627-2
+Accession	Q16627;E1P649;E1P650;Q13954
+EntryName	CCL14_HUMAN
+ProteinName	C-C motif chemokine 14 (Chemokine CC-1/CC-3) (HCC-1/HCC-3) (HCC-1(1-74)) (NCC-2) (Small-inducible cytokine A14) [Cleaved into: HCC-1(3-74); HCC-1(4-74); HCC-1(9-74)]
+GeneName	CCL14 NCC2 SCYA14
+Length	109
+Function	Has weak activities on human monocytes and acts via receptors that also recognize MIP-1 alpha. It induces intracellular Ca(2+) changes and enzyme release, but no chemotaxis, at concentrations of 100-1,000 nM, and is inactive on T-lymphocytes, neutrophils, and eosinophil leukocytes. Enhances the proliferation of CD34 myeloid progenitor cells. The processed form HCC-1(9-74) is a chemotactic factor that attracts monocytes, eosinophils, and T-cells and is a ligand for CCR1, CCR3 and CCR5.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKISVAAIPFFLLITIALGTKTESSSQTGGKPKVVKIQLKLVGGPYHPSECCFTYTTYKIPRQRIMDYYETNSQCSKPGIVFITKRGHSVCTNPSDKWVQDYIKDMKEN
+PTM	Phosphorylation:57,60

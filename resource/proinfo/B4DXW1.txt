@@ -1,0 +1,25 @@
+UniprotID	B4DXW1
+Accession	B4DXW1
+EntryName	B4DXW1_HUMAN
+ProteinName	Actin related protein 3 (cDNA FLJ51148, highly similar to Actin-like protein 3) (cDNA FLJ52434, highly similar to Actin-like protein 3) (cDNA, FLJ79112, highly similar to Actin-like protein 3) (cDNA, FLJ79295, highly similar to Actin-like protein 3)
+GeneName	ACTR3
+Length	367
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKGVDDLDFFIGDEAIEKPTYATKWPIRHGIVEDWDLMERFMEQVIFKYLRAEPEDHYFLLTEPPLNTPENREYTAEIMFESFNVPGLYIAVQAVLALAASWTSRQVGERTLTGTVIDSGDGVTHVIPVAEGYVIGSCIKHIPIAGRDITYFIQQLLRDREVGIPPEQSLETAKAVKERYSYVCPDLVKEFNKYDTDGSKWIKQYTGINAISKKEFSIDVGYERFLGPEIFFHPEFANPDFTQPISEVVDEVIQNCPIDVRRPLYKNIVLSGGSTMFRDFGRRLQRDLKRTVDARLKLSEELSGGRLKPKPIDVQVITHHMQRYAVWFGGSMLASTPEFYQVCHTKKDYEEIGPSICRHNPVFGVMS
+PTM	

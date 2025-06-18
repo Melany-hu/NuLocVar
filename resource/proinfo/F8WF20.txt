@@ -1,0 +1,25 @@
+UniprotID	F8WF20
+Accession	F8WF20
+EntryName	F8WF20_HUMAN
+ProteinName	Integrin subunit beta 1 binding protein 1
+GeneName	ITGB1BP1
+Length	38
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRKGKKRHSSSSSQSSEISTKSKDKATIIQIPVQNFE
+PTM	

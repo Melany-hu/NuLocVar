@@ -1,0 +1,25 @@
+UniprotID	K7EQ65
+Accession	K7EQ65
+EntryName	K7EQ65_HUMAN
+ProteinName	Regulator of MON1-CCZ1
+GeneName	RMC1
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEEDYYLELCERPVQFEKANPVNCVFFDEANKQVFAVRSGGATGVVVKGPDDRNPISFRMDDKGEVKCIKFSLENKILAVQRTSKTVDFCNFIPDNSQLEYTQECKGGLFGEERCIPTTVLPALQWPRVKRPSARPFSNLSALKRVGLRMPTF
+PTM	

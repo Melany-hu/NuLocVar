@@ -1,0 +1,25 @@
+UniprotID	Q9H665-2
+Accession	Q9H665;Q8N5X0
+EntryName	IGFR1_HUMAN
+ProteinName	IGF-like family receptor 1 (Transmembrane protein 149) (U2 small nuclear RNA auxiliary factor 1-like 4)
+GeneName	IGFLR1 TMEM149 U2AF1L4
+Length	167
+Function	Probable cell membrane receptor for the IGF-like family proteins. Binds IGFL1 and IGFL3 with a higher affinity. May also bind IGFL2.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPGRCLLTALLLLALAPPPEASQYCGRLEYWNPDNKCCSSCLQRFGPPPCPELSSLASQPLSRLLDELEVLEELIVLLDPEPGPGGGMAHGTTRHLAARYGLPAAWSTFAYSLRPSRSPLRALIEMVVAREPSASLGQLGTHLAQLGRADALRVLSKLGSSGVCWA
+PTM	Phosphorylation:90,98,301,305,307

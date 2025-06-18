@@ -1,0 +1,25 @@
+UniprotID	P35250-2
+Accession	P35250;B5BU07;D3DXG3;P32846;Q9BU93
+EntryName	RFC2_HUMAN
+ProteinName	Replication factor C subunit 2 (Activator 1 40 kDa subunit) (A1 40 kDa subunit) (Activator 1 subunit 2) (Replication factor C 40 kDa subunit) (RF-C 40 kDa subunit) (RFC40)
+GeneName	RFC2
+Length	320
+Function	Subunit of the replication factor C (RFC) complex which acts during elongation of primed DNA templates by DNA polymerases delta and epsilon, and is necessary for ATP-dependent loading of proliferating cell nuclear antigen (PCNA) onto primed DNA (PubMed:9488738). This subunit binds ATP (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVEAVCGGAGEVEAQDSDPAPAFSKAPGSAGHYELPWVEKYRPVKLNEIVGNEDTVSRLEVFAREGNVPNIIIAGPPGTGKTTSILCLARALLGPALKDAMLELNASNDSMTDGAQQALRRTMEIYSKTTRFALACNASDKIIEPIQSRCAVLRYTKLTDAQILTRLMNVIEKERVPYTDDGLEAIIFTAQGDMRQALNNLQSTFSGFGFINSENVFKVCDEPHPLLVKEMIQHCVNANIDEAYKILAHLWHLGYSPEDIIGNIFRVCKTFQMAEYLKLEFIKEIGYTHMKIAEGVNSLLQMAGLLARLCQKTMAPVAS
+PTM	Acetylation:46,121,163,176,192,264,304,318;Methylation:82,132,253,264,318;Phosphorylation:18,30,56,161,162,174,190,354;SUMOylation:41,46,121,136,176;Ubiquitylation:82,99,121,127,132,163,176,192,208,264,318

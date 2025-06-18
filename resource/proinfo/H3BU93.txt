@@ -1,0 +1,25 @@
+UniprotID	H3BU93
+Accession	H3BU93
+EntryName	H3BU93_HUMAN
+ProteinName	Proteasome activator subunit 3 interacting protein 1
+GeneName	PSME3IP1
+Length	177
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRGLDEDETNFLDEVSRQQELIEKQRREEELKELKEYRNNLKKVGISQENKKEVEKKLTVKPIETKNKFSQAKLLAGAVKHKSSESGNSVKRLKPDPEPDDKNQEPSSCKSLGNTSLSGPSIHCPSAAVCIGILPGLGAYSGSSDSESSSDSEGTINATGKIVSSIFRTNTFLEAP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P55084-2
+Accession	P55084;B2RB16;B4E2W0;O14969;Q53TA6;Q96C77;Q9H3F5;Q9T2V8
+EntryName	ECHB_HUMAN
+ProteinName	Trifunctional enzyme subunit beta, mitochondrial (TP-beta) [Includes: 3-ketoacyl-CoA thiolase (EC 2.3.1.155) (EC 2.3.1.16) (Acetyl-CoA acyltransferase) (Beta-ketothiolase)]
+GeneName	HADHB MSTP029
+Length	452
+Function	Mitochondrial trifunctional enzyme catalyzes the last three of the four reactions of the mitochondrial beta-oxidation pathway (PubMed:29915090, PubMed:30850536, PubMed:8135828). The mitochondrial beta-oxidation pathway is the major energy-producing process in tissues and is performed through four consecutive reactions breaking down fatty acids into acetyl-CoA (PubMed:29915090). Among the enzymes involved in this pathway, the trifunctional enzyme exhibits specificity for long-chain fatty acids (PubMed:30850536). Mitochondrial trifunctional enzyme is a heterotetrameric complex composed of two proteins, the trifunctional enzyme subunit alpha/HADHA carries the 2,3-enoyl-CoA hydratase and the 3-hydroxyacyl-CoA dehydrogenase activities, while the trifunctional enzyme subunit beta/HADHB described here bears the 3-ketoacyl-CoA thiolase activity (PubMed:29915090, PubMed:30850536, PubMed:8135828).
+Subcellular Location	Mitochondrion; Mitochondrion inner membrane; Mitochondrion outer membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLVSGWLLYGWIIAVQTKTKKTLAKPNIRNVVVVDGVRTPFLLSGTSYKDLMPHDLARAALTGLLHRTSVPKEVVDYIIFGTVIQEVKTSNVAREAALGAGFSDKTPAHTVTMACISANQAMTTGVGLIASGQCDVIVAGGVELMSDVPIRHSRKMRKLMLDLNKAKSMGQRLSLISKFRFNFLAPELPAVSEFSTSETMGHSADRLAAAFAVSRLEQDEYALRSHSLAKKAQDEGLLSDVVPFKVPGKDTVTKDNGIRPSSLEQMAKLKPAFIKPYGTVTAANSSFLTDGASAMLIMAEEKALAMGYKPKAYLRDFMYVSQDPKDQLLLGPTYATPKVLEKAGLTMNDIDAFEFHEAFSGQILANFKAMDSDWFAENYMGRKTKVGLPPLEKFNNWGGSLSLGHPFGATGCRLVMAAANRLRKEGGQYGLVAACAAGGQGHAMIVEAYPK
+PTM	Acetylation:72,181,188,190,201,253,268,272,277,291,293,298,325,332,334,348,361;Methylation:41,72,111,128,188,201,247,254,291,332,334,348,361,416;Phosphorylation:69,70,91,92,197,200,250,284,336,423;Ubiquitylation:41,72,201,416

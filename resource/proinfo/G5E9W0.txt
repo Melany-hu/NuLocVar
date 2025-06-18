@@ -1,0 +1,25 @@
+UniprotID	G5E9W0
+Accession	G5E9W0
+EntryName	G5E9W0_HUMAN
+ProteinName	Phospholipase A1 member A (EC 3.1.1.111)
+GeneName	PLA1A hCG_22568
+Length	440
+Function	Hydrolyzes the ester bond of the acyl group attached at the sn-1 position of phosphatidylserines (phospholipase A1 activity) and 1-acyl-2-lysophosphatidylserines (lysophospholipase activity) in the pathway of phosphatidylserines acyl chain remodeling. Cleaves phosphatidylserines exposed on the outer leaflet of the plasma membrane of apoptotic cells producing 2-acyl-1-lysophosphatidylserines, which in turn enhance mast cell activation and histamine production. Has no activity toward other glycerophospholipids including phosphatidylcholines, phosphatidylethanolamines, phosphatidic acids or phosphatidylinositols, or glycerolipids such as triolein.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHKSSSIWGDAPPTPQPKCADFQSANLFEGTDLKVQFLLFVPSNPSCGQLVEGSSDLQNSGFNATLGTKLIIHGFRVLGTKPSWIDTFIRTLLRATNANVIAVDWIYGSTGVYFSAVKNVIKLSLEISLFLNKLLVLGVSESSIHIIGVSLGAHVGGMVGQLFGGQLGQITGLDPAGPEYTRASVEERLDAGDALFVEAIHTDTDNLGIRIPVGHVDYFVNGGQDQPGCPTFFYAGYSYLICDHMRAVHLYISALENSCPLMAFPCASYKAFLAGRCLDCFNPFLLSCPRIGLVEQGGVKIEPLPKEVKVYLLTTSSAPYCMHHSLVEFHLKELRNKDTNIEVTFLSSNITSSSKITIPKQQRYGKGIIAHATPQCQINQVKFKFQSSNRVWKKDRTTIIGKFCTALLPVNDREKMVCLPEPVNLQASVTVSCDLKIACV
+PTM	

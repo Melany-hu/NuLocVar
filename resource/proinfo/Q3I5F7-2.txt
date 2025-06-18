@@ -1,0 +1,25 @@
+UniprotID	Q3I5F7-2
+Accession	Q3I5F7;A0A2R8Y7H3
+EntryName	ACOT6_HUMAN
+ProteinName	Acyl-coenzyme A thioesterase 6 (Acyl-CoA thioesterase 6) (EC 3.1.2.-)
+GeneName	ACOT6 C14orf42
+Length	207
+Function	Catalyzes the hydrolysis of acyl-CoAs into free fatty acids and coenzyme A (CoASH), regulating their respective intracellular levels. Catalyzes the hydrolysis of phytanoyl-CoA and pristanoyl-CoA, two methyl-branched fatty acids derived from phytol, that enter the body via the diet.
+Subcellular Location	Peroxisome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQHPKVKGPSIALLGFSKGGDLCLSMASFLKGITATVLINACVANTVAPLHYKDMIIPKLVDDLGKVKITKSGFLTFMDTWSNPLEEHNHQSLVPLEKAQVPFLFIVGMDDQSWKSEFYAQIASERLQAHGKERPQIICYPETGHCIDPPYFPPSRASVHAVLGEAIFYGGEPKAHSKAQVDAWQQIQTFFHKHLNGKKSVKHSKI
+PTM	Methylation:32,67;Phosphorylation:29,178

@@ -1,0 +1,25 @@
+UniprotID	E9PK18
+Accession	E9PK18
+EntryName	E9PK18_HUMAN
+ProteinName	Rho GTPase activating protein 27
+GeneName	ARHGAP27
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPGLSPGSPGDPRPPTPETDYPESLTSYPEEDYSPVGSFVGEAGGPPREAILLQSRGLLCSMGAAPGPCPCPSKHP
+PTM	

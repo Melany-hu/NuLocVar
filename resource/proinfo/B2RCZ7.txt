@@ -1,0 +1,25 @@
+UniprotID	B2RCZ7
+Accession	B2RCZ7
+EntryName	B2RCZ7_HUMAN
+ProteinName	Ethylmalonic encephalopathy 1, isoform CRA_a (cDNA, FLJ96390, highly similar to Homo sapiens protein expressed in thyroid (YF13H12), mRNA)
+GeneName	ETHE1 hCG_1995670
+Length	227
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFEPVSCTFTYLLGDRESREAVLIDPVLETAPRDAQLIKELGLRLLYAVNTHCHADHITGSGLLRSLLPGCQSVISRLSGAQADLHIEDGDSIRFGRFALETRASPGHTPGCVTFVLNDHSMAFTGDALLIRGCGRTDFQQGCAKTLYHSVHEKIFTLPGDCLIYPAHDYHGFTVSTVEEERTLNPRLTLSCEEFVKIMGNLNLPKPQQIDFAVPANMRCGVQTPTA
+PTM	

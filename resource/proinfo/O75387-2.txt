@@ -1,0 +1,25 @@
+UniprotID	O75387-2
+Accession	O75387
+EntryName	LAT3_HUMAN
+ProteinName	Large neutral amino acids transporter small subunit 3 (L-type amino acid transporter 3) (Prostate cancer overexpressed gene 1 protein) (Solute carrier family 43 member 1)
+GeneName	SLC43A1 LAT3 PB39 POV1
+Length	560
+Function	Uniport that mediates the transport of neutral amino acids such as L-leucine, L-isoleucine, L-valine, and L-phenylalanine (PubMed:12930836). The transport activity is sodium ions-independent, electroneutral and mediated by a facilitated diffusion (PubMed:12930836).
+Subcellular Location	Cell membrane; Apical cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPTLQQAYRRRWWMACTAVLENLFFSAVLLGWGSLLIILKNEGFYSSTCPAESSTNTTQDEQRRWPGCDQQDEMLNLGFTIGSFVLSATTLPLGILMDRFGPRPVRLVGSACFTASCTLMALASRDVEALSPLIFLALSLNGFGGICLTFTSLTLPNMFGNLRSTLMALMIGSYASSAITFPGIKLIYDAGVAFVVIMFTWSGLACLIFLNCTLNWPIEAFPAPEEVNYTKKIKLSGLALDHKVTGDLFYTHVTTMGQRLSQKAPSLEDGSDAFMSPQDVRGTSENLPERSVPLRKSLCSPTFLWSLLTMGMTQLRIIFYMAAVNKMLEYLVTGGQEHETNEQQQKVAETVGFYSSVFGAMQLLCLLTCPLIGYIMDWRIKDCVDAPTQGTVLGDARDGVATKSIRPRYCKIQKLTNAISAFTLTNLLLVGFGITCLINNLHLQFVTFVLHTIVRGFFHSACGSLYAAVFPSNHFGTLTGLQSLISAVFALLQQPLFMAMVGPLKGEPFWVRARVGVGGAGATLLGAGVGPCMWCHPSLISARGTSEVSNLQVSKLSAF
+PTM	Glycosylation:57;Methylation:41,327,404,506;Phosphorylation:177,237,251,252,262,267,272,284,285,392;SUMOylation:264;Ubiquitylation:264,382,404

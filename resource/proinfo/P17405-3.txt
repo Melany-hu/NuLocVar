@@ -1,0 +1,25 @@
+UniprotID	P17405-3
+Accession	P17405;A8K8M3;E9PKS3;P17406;Q13811;Q16837;Q16841
+EntryName	ASM_HUMAN
+ProteinName	Sphingomyelin phosphodiesterase (EC 3.1.4.12) (EC 3.1.4.3) (Acid sphingomyelinase) (aSMase) [Cleaved into: Sphingomyelin phosphodiesterase, processed form]
+GeneName	SMPD1 ASM
+Length	575
+Function	Converts sphingomyelin to ceramide (PubMed:12563314, PubMed:1840600, PubMed:18815062, PubMed:25339683, PubMed:25920558, PubMed:27659707, PubMed:33163980). Exists as two enzymatic forms that arise from alternative trafficking of a single protein precursor, one that is targeted to the endolysosomal compartment, whereas the other is released extracellularly (PubMed:20807762, PubMed:21098024, PubMed:9660788). However, in response to various forms of stress, lysosomal exocytosis may represent a major source of the secretory form (PubMed:12563314, PubMed:20530211, PubMed:20807762, PubMed:22573858, PubMed:9393854).
+Subcellular Location	Lysosome; Lipid droplet; Secreted; Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRYGASLRQSCPRSGREQGQDGTAGAPGLLWMGLVLALALALALALALSDSRVLWAPAEAHPLSPQGHPARLHRIVPRLRDVFGWGNLTCPICKGLFTAINLGLKKEPNVARVGSVAIKLCNLLKIAPPAVCQSIVHLFEDDMVEVWRRSVLSPSEACGLLLGSTCGHWDIFSSWNISLPTVPKPPPKPPSPPAPGAPVSRILFLTDLHWDHDYLEGTDPDCADPLCCRRGSGLPPASRPGAGYWGEYSKCDLPLRTLESLLSGLGPAGPFDMVYWTGDIPAHDVWHQTRQDQLRALTTVTALVRKFLGPVPVYPAVGNHESTPVNSFPPPFIEGNHSSRWLYEAMAKAWEPWLPAEALRTLRKVHIIGHIPPGHCLKSWSWNYYRIVARYENTLAAQFFGHTHVDEFEVFYDEETLSRPLAVAFLAPSATTYIGLNPGYRVYQIDGNYSGSSHVVLDHETYILNLTQANIPGAIPHWQLLYRARETYGLPNTLPTAWHNLVYRMRGDMQLFQTFWFLYHKGHPPSEPCGTPCRLATLCAQLSARADSPALCRHLMPDGSLPEAQSLWPRPLFC
+PTM	Methylation:126,185,349;Phosphorylation:7,116

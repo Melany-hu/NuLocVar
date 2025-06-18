@@ -1,0 +1,25 @@
+UniprotID	Q8N4Y2-3
+Accession	Q8N4Y2;D5LPR2;Q8NBW8
+EntryName	EFC4A_HUMAN
+ProteinName	EF-hand calcium-binding domain-containing protein 4A (Calcium release-activated calcium channel regulator 2B) (CRAC channel regulator 2B) (Calcium release-activated channel regulator 2B)
+GeneName	CRACR2B EFCAB4A
+Length	294
+Function	Plays a role in store-operated Ca(2+) entry (SOCE).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPGKPGADEAQEEEGELEGGSAGPRAAILEQAEELFLLCDKEAKGFITKHDLQGLQSDLPLTPEQLEAVFESLDRAHTGFLTAREFCLGLGMFVGVASAQGANPCRTPEETFESGGLDVQGTAGSLDEEEEEEERFHTVLEQLGVAPVLGKQRAVRTLWARLQRERPELLGSFEDVLIRASACLEEAARERDGLEQALRRRESEHEREVRALYEETEQLREQSRRPPSQNFARGERRSRLELELQSREQDLERAGLRQRERRGRRLQEHAERESQPATATGAAQGAEYTAAG
+PTM	Methylation:153;Phosphorylation:3,174,230,324,392,397

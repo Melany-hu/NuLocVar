@@ -1,0 +1,25 @@
+UniprotID	Q96LW9-2
+Accession	Q96LW9;Q6P178;Q8WWS5
+EntryName	ZSC31_HUMAN
+ProteinName	Zinc finger and SCAN domain-containing protein 31 (Zinc finger protein 323)
+GeneName	ZSCAN31 ZNF310P ZNF323
+Length	247
+Function	May function as a transcription factor. May be involved in the development of multiple embryonic organs.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTQLRYESFCLHQFQEQDGESIPENQELASKQEILKEMEHLGDSKLQRDVSLDSKYRETCKRDSKAEKQQAHSTGERRHRCNECGKSFTKSSVLIEHQRIHTGEKPYECEECGKAFSRRSSLNEHRRSHTGEKPYQCKECGKAFSASNGLTRHRRIHTGEKPYECKVCGKAFLLSSCLVQHQRIHTGEKRYQCRECGKAFIQNAGLFQHLRVHTGEKPYQCSQCSKLFSKRTLLKKHQKIHTGERP
+PTM	Methylation:191,196;Phosphorylation:4,211,247,318,389;SUMOylation:11,14,149,191,196,205,215,228,250,274,293,302,321,326,330,358,377,386

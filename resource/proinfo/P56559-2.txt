@@ -1,0 +1,25 @@
+UniprotID	P56559-2
+Accession	P56559;Q4A519;Q53R10;Q9BVN1;Q9UQ34
+EntryName	ARL4C_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 4C (ADP-ribosylation factor-like protein 7) (ADP-ribosylation factor-like protein LAK)
+GeneName	ARL4C ARL7
+Length	201
+Function	Small GTP-binding protein which cycles between an inactive GDP-bound and an active GTP-bound form, and the rate of cycling is regulated by guanine nucleotide exchange factors (GEF) and GTPase-activating proteins (GAP). GTP-binding protein that does not act as an allosteric activator of the cholera toxin catalytic subunit. May be involved in transport between a perinuclear compartment and the plasma membrane, apparently linked to the ABCA1-mediated cholesterol secretion pathway. Recruits CYTH1, CYTH2, CYTH3 and CYTH4 to the plasma membrane in the GDP-bound form. Regulates the microtubule-dependent intracellular vesicular transport from early endosome to recycling endosome process.
+Subcellular Location	Cell projection; Filopodium; Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNISSNISAFQSLHIVMLGLDSAGKTTVLYRLKFNEFVNTVPTIGFNTEKIKLSNGTAKGISCHFWDVGGQEKLRPLWKSYSRCTDGIIYVVDSVDVDRLEEAKTELHKVTKFAENQGTPLLVIANKQDLPKSLPVAEIEKQLALHELIPATTYHVQPACAIIGEGLTEGMDKLYEMILKRRKSLKQKKKRTGDLRSCEV
+PTM	Methylation:128,133,142;SUMOylation:51,113;Ubiquitylation:34,60,80,113,133,181

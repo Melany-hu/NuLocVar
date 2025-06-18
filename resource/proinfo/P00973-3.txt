@@ -1,0 +1,25 @@
+UniprotID	P00973-3
+Accession	P00973;A8K4N8;F8VXY3;P04820;P29080;P29081;P78485;P78486;Q16700;Q16701;Q1PG42;Q3ZM01;Q53GC5;Q53YA4;Q6A1Z3;Q6IPC6;Q6P7N9;Q96J61
+EntryName	OAS1_HUMAN
+ProteinName	2'-5'-oligoadenylate synthase 1 ((2-5')oligo(A) synthase 1) (2-5A synthase 1) (EC 2.7.7.84) (E18/E16) (p46/p42 OAS)
+GeneName	OAS1 OIAS
+Length	414
+Function	Interferon-induced, dsRNA-activated antiviral enzyme which plays a critical role in cellular innate antiviral response (PubMed:34581622). In addition, it may also play a role in other cellular processes such as apoptosis, cell growth, differentiation and gene regulation. Synthesizes higher oligomers of 2'-5'-oligoadenylates (2-5A) from ATP which then bind to the inactive monomeric form of ribonuclease L (RNase L) leading to its dimerization and subsequent activation. Activation of RNase L leads to degradation of cellular as well as viral RNA, resulting in the inhibition of protein synthesis, thus terminating viral replication (PubMed:34145065, PubMed:34581622). Can mediate the antiviral effect via the classical RNase L-dependent pathway or an alternative antiviral pathway independent of RNase L. The secreted form displays antiviral effect against vesicular stomatitis virus (VSV), herpes simplex virus type 2 (HSV-2), and encephalomyocarditis virus (EMCV) and stimulates the alternative antiviral pathway independent of RNase L.
+Subcellular Location	Cytoplasm; Mitochondrion; Nucleus; Microsome; Endoplasmic reticulum; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMDLRNTPAKSLDKFIEDYLLPDTCFRMQINHAIDIICGFLKERCFRGSSYPVCVSKVVKGGSSGKGTTLRGRSDADLVVFLSPLTTFQDQLNRRGEFIQEIRRQLEACQRERAFSVKFEVQAPRWGNPRALSFVLSSLQLGEGVEFDVLPAFDALGQLTGGYKPNPQIYVKLIEECTDLQKEGEFSTCFTELQRDFLKQRPTKLKSLIRLVKHWYQNCKKKLGKLPPQYALELLTVYAWERGSMKTHFNTAQGFRTVLELVINYQQLCIYWTKYYDFKNPIIEKYLRRQLTKPRPVILDPADPTGNLGGGDPKGWRQLAQEAEAWLNYPCFKNWDGSPVSSWILLTQHTPGSIHPTGRRGLDLHHPLNASASWGKGLQCYLDQFLHFQVGLLIQRGQSSSVSWCIIQDRTQVS
+PTM	Acetylation:42;Methylation:10,118,182,199,285;Phosphorylation:49,50,51,207,351;Ubiquitylation:42,66,279,314

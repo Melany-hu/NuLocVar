@@ -1,0 +1,25 @@
+UniprotID	Q9BV40
+Accession	Q9BV40;O60625;Q53SP9;Q6IB09
+EntryName	VAMP8_HUMAN
+ProteinName	Vesicle-associated membrane protein 8 (VAMP-8) (Endobrevin) (EDB)
+GeneName	VAMP8
+Length	100
+Function	SNAREs, soluble N-ethylmaleimide-sensitive factor-attachment protein receptors, are essential proteins for fusion of cellular membranes. SNAREs localized on opposing membranes assemble to form a trans-SNARE complex, an extended, parallel four alpha-helical bundle that drives membrane fusion. VAMP8 is a SNARE involved in autophagy through the direct control of autophagosome membrane fusion with the lysososome membrane via its interaction with the STX17-SNAP29 binary t-SNARE complex (PubMed:23217709, PubMed:25686604). Also required for dense-granule secretion in platelets (PubMed:12130530). Also plays a role in regulated enzyme secretion in pancreatic acinar cells (By similarity). Involved in the abscission of the midbody during cell division, which leads to completely separate daughter cells (By similarity). Involved in the homotypic fusion of early and late endosomes (By similarity). Also participates in the activation of type I interferon antiviral response through a TRIM6-dependent mechanism (PubMed:31694946).
+Subcellular Location	Lysosome membrane; Early endosome membrane; Late endosome membrane; Cell membrane; Zymogen granule membrane
+Disorder	0.7547,0.7547,0.5992,0.6089,0.6427,0.4979,0.5176,0.5254,0.5533,0.4801,0.5055,0.5419,0.4507,0.4369,0.4801,0.3910,0.3494,0.3566,0.3599,0.3704,0.2849,0.2951,0.2951,0.2817,0.1969,0.1611,0.2436,0.2364,0.2541,0.2541,0.2328,0.2328,0.2364,0.2193,0.2193,0.2164,0.3053,0.3460,0.3460,0.3494,0.2436,0.3286,0.2849,0.2951,0.3774,0.4831,0.5211,0.4087,0.4087,0.4051,0.4051,0.4979,0.4901,0.4801,0.5017,0.4766,0.4582,0.4582,0.3392,0.2399,0.1528,0.2328,0.2328,0.1942,0.1823,0.1583,0.0909,0.0568,0.0646,0.0372,0.0253,0.0163,0.0108,0.0085,0.0061,0.0059,0.0049,0.0039,0.0031,0.0031,0.0032,0.0034,0.0026,0.0017,0.0021,0.0022,0.0024,0.0028,0.0025,0.0033,0.0035,0.0033,0.0034,0.0036,0.0036,0.0042,0.0046,0.0052,0.0059,0.0070
+ExposeBuried	1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+SurfaceAccessbility	0.778,0.711,0.606,0.459,0.593,0.722,0.546,0.562,0.473,0.355,0.627,0.410,0.093,0.496,0.594,0.087,0.434,0.644,0.382,0.069,0.660,0.507,0.051,0.255,0.533,0.109,0.065,0.408,0.484,0.173,0.055,0.522,0.392,0.058,0.169,0.678,0.400,0.421,0.556,0.490,0.075,0.654,0.516,0.084,0.468,0.688,0.361,0.153,0.673,0.499,0.095,0.469,0.642,0.283,0.188,0.647,0.442,0.074,0.531,0.594,0.275,0.173,0.555,0.553,0.113,0.293,0.417,0.497,0.270,0.106,0.193,0.535,0.425,0.067,0.375,0.157,0.174,0.108,0.108,0.100,0.103,0.141,0.124,0.081,0.117,0.136,0.115,0.104,0.127,0.134,0.116,0.126,0.113,0.168,0.284,0.378,0.427,0.430,0.337,0.873
+SecondStructure	C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C
+Hydropathy	1.9,-3.5,-3.5,1.8,-0.8,-3.5,-0.4,-0.4,-0.4,-3.5,-3.5,-4.5,4.2,-4.5,-3.5,3.8,-3.5,-0.8,-3.5,4.2,-3.5,-0.4,4.2,-3.9,-3.5,4.5,1.9,-0.7,-3.5,-3.5,4.2,-3.5,-4.5,4.5,3.8,1.8,-4.5,-0.4,-3.5,-3.5,3.8,-3.5,-3.2,3.8,-4.5,-3.5,-3.9,-0.7,-3.5,-3.5,3.8,-3.5,1.8,-0.7,-0.8,-3.5,-3.2,2.8,-3.9,-0.7,-0.7,-0.8,-3.5,-3.9,4.2,1.8,-4.5,-3.9,2.8,-0.9,-0.9,-3.9,-3.5,4.2,-3.9,1.9,4.5,4.2,3.8,4.5,2.5,4.2,4.5,4.2,2.8,4.5,4.5,4.5,3.8,2.8,4.5,4.2,3.8,2.8,1.8,-0.7,-0.4,1.8,2.8,-0.8
+Polar	0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1
+Charge	0,-1,-1,0,0,-1,0,0,0,0,-1,1,0,1,0,0,0,0,-1,0,-1,0,0,1,0,0,0,0,0,0,0,-1,1,0,0,0,1,0,-1,0,0,-1,1,0,1,0,1,0,-1,-1,0,-1,0,0,0,-1,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEASEGGGNDRVRNLQSEVEGVKNIMTQNVERILARGENLEHLRNKTEDLEATSEHFKTTSQKVARKFWWKNVKMIVLICVIVFIIILFIVLFATGAFS
+PTM	Acetylation:47;Methylation:24;Phosphorylation:5,18,28,48,54,55,60,61,62;SUMOylation:24,47;Ubiquitylation:24,47,59,64

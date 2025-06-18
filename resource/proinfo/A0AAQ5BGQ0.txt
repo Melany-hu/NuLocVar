@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BGQ0
+Accession	A0AAQ5BGQ0
+EntryName	A0AAQ5BGQ0_HUMAN
+ProteinName	Spastin (EC 5.6.1.1)
+GeneName	SPAST SPG4
+Length	651
+Function	ATP-dependent microtubule severing protein that specifically recognizes and cuts microtubules that are polyglutamylated. Preferentially recognizes and acts on microtubules decorated with short polyglutamate tails: severing activity increases as the number of glutamates per tubulin rises from one to eight, but decreases beyond this glutamylation threshold. Severing activity is not dependent on tubulin acetylation or detyrosination. Microtubule severing promotes reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. It is critical for the biogenesis and maintenance of complex microtubule arrays in axons, spindles and cilia. SPAST is involved in abscission step of cytokinesis and nuclear envelope reassembly during anaphase in cooperation with the ESCRT-III complex. Recruited at the midbody, probably by IST1, and participates in membrane fission during abscission together with the ESCRT-III complex. Recruited to the nuclear membrane by IST1 and mediates microtubule severing, promoting nuclear envelope sealing and mitotic spindle disassembly during late anaphase. Required for membrane traffic from the endoplasmic reticulum (ER) to the Golgi and endosome recycling. Recruited by IST1 to endosomes and regulates early endosomal tubulation and recycling by mediating microtubule severing. Probably plays a role in axon growth and the formation of axonal branches.
+Subcellular Location	Cell projection; Axon; Membrane; Endoplasmic reticulum; Midbody; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Cytoplasm; Perinuclear region; Nucleus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	62...67;59...67
+nlsdbnls_region	4...11
+validnes_region	
+nesbase_region	
+Sequence	MNSPGGRGKKKGSGGASNPVPPRPPPPCLAPAPPAAGPAPPPESPHKRNLYYFSYPLFVGFALLRLVAFHLGLLFVWLCQRFSRALMAAKRSSGAAPAPASASAPAPVPGGEAERVRVFHKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKGIAVIVTGQGEQCERARRLQAKMMTNLVMAKDRLQLLEKMQPVLPFSKSQTDVYNDSTNLACRNGHLQSDGISLCRQAGVQWHDLGSLQPLTPWFKQFSCLSLPESGAVPKRKDPLTHTSNSLPRSKTVMKTGSAGLSGHHRAPSYSGLSMVSGVKQGSGPAPTTHKGTPKTNRTNKPSTPTTATRKKKDLKNFRNVDSNLANLIMNEIVDNGTAVKFDDIAGQDLAKQALQEIVILPSLRPELFTGLRAPARGLLLFGPPGNGKTMLAKAVAAESNATFFNISAASLTSKYVGEGEKLVRALFAVARELQPSIIFIDEVDSLLCERREGEHDASRRLKTEFLIEFDGVQSAGDDRVLVMGATNRPQELDEAVLRRFIKRVYVSLPNEETRLLLLKNLLCKQGSPLTQKELAQLARMTDGYSGSDLTALAKDAALGPIRELKPEQVKNMSASEMRNIRLSDFTESLKKIKRSVSPQTLEAYIRWNKDFGDTTV
+PTM	

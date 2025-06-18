@@ -1,0 +1,25 @@
+UniprotID	Q7L1Q6-4
+Accession	Q7L1Q6;B4DLZ8;B4DWF7;Q14281;Q15394;Q9BUY0
+EntryName	5MP2_HUMAN
+ProteinName	eIF5-mimic protein 2 (Basic leucine zipper and W2 domain-containing protein 1) (Protein Orf)
+GeneName	BZW1 5MP2 BZAP45 KIAA0005
+Length	423
+Function	Translation initiation regulator which represses repeat-associated non-AUG (RAN) initiated translation probably by acting as a competitive inhibitor of eukaryotic translation initiation factor 5 (EIF5) function (PubMed:29470543, PubMed:34260931). Enhances histone H4 gene transcription but does not seem to bind DNA directly (PubMed:11524015).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSFMNNQKQQKPTLSGQRFKTRKRDEKERFDPTQFQDCIIQGLTETGTDLEAVAKFLDASGAKLDYRRYAETLFDILVAGGMLAPGGTLADDMMRTDVCVFAAQEDLETMQAFAQVFNKLIRRYKYLEKGFEDEVKKLLLFLKGFSESERNKLAMLTGVLLANGTLNASILNSLYNENLVKEGVSAAFAVKLFKSWINEKDINAVAASLRKVSMDNRLMELFPANKQSVEHFTKYFTEAGLKELSEYVRNQQTIGARKELQKELQEQMSRGDPFKDIILYVKEEMKKNNIPEPVVIGIVWSSVMSTVEWNKKEELVAEQAIKHLKQYSPLLAAFTTQGQSELTLLLKIQEYCYDNIHFMKAFQKIVVLFYKAEVLSEEPILKWYKDAHVAKGKSVFLEQMKKFVEWLKNAEEESESEAEEGD
+PTM	Acetylation:8,60,126,133,191,197,223,231,239,259,272,379,390,398,399;Methylation:52,60,116,133,178,188,208,223,239,259,279,309,319,344,379,398;Phosphorylation:10,12,57,121,123,143,145,182,192,205,210,242,244,266,332,333,367,391,411,413;SUMOylation:5,223,357,368,379;Ubiquitylation:5,8,60,122,126,133,191,197,223,231,239,259,272,357,379,382,390,399

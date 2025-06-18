@@ -1,0 +1,25 @@
+UniprotID	Q13258-2
+Accession	Q13258;G3V5L3;Q13250;Q13251;Q1ZZ52
+EntryName	PD2R_HUMAN
+ProteinName	Prostaglandin D2 receptor (PGD receptor) (PGD2 receptor) (Prostanoid DP receptor)
+GeneName	PTGDR
+Length	296
+Function	Receptor for prostaglandin D2 (PGD2). The activity of this receptor is mainly mediated by G(s) proteins that stimulate adenylate cyclase, resulting in an elevation of intracellular cAMP. A mobilization of calcium is also observed, but without formation of inositol 1,4,5-trisphosphate (By similarity). Involved in PLA2G3-dependent maturation of mast cells. PLA2G3 is secreted by immature mast cells and acts on nearby fibroblasts upstream to PTDGS to synthesize PGD2, which in turn promotes mast cell maturation and degranulation via PTGDR (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSPFYRCQNTTSVEKGNSAVMGGVLFSTGLLGNLLALGLLARSGLGWCSRRPLRPLPSVFYMLVCGLTVTDLLGKCLLSPVVLAAYAQNRSLRVLAPALDNSLCQAFAFFMSFFGLSSTLQLLAMALECWLSLGHPFFYRRHITLRLGALVAPVVSAFSLAFCALPFMGFGKFVQYCPGTWCFIQMVHEEGSLSVLGYSVLYSSLMALLVLATVLCNLGAMRNLYAMHRRLQRHPRSCTRDCAEPRADGREASPQPLEELDHLLLLALMTVLFTMCSLPVIAFVPGVPAKTPGSR
+PTM	Methylation:76;Phosphorylation:3,13

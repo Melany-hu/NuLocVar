@@ -1,0 +1,25 @@
+UniprotID	P36404-2
+Accession	P36404;G3V184;Q9BUK8
+EntryName	ARL2_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 2
+GeneName	ARL2
+Length	157
+Function	Small GTP-binding protein which cycles between an inactive GDP-bound and an active GTP-bound form, and the rate of cycling is regulated by guanine nucleotide exchange factors (GEF) and GTPase-activating proteins (GAP). GTP-binding protein that does not act as an allosteric activator of the cholera toxin catalytic subunit. Regulates formation of new microtubules and centrosome integrity. Prevents the TBCD-induced microtubule destruction. Participates in association with TBCD, in the disassembly of the apical junction complexes. Antagonizes the effect of TBCD on epithelial cell detachment and tight and adherens junctions disassembly. Together with ARL2, plays a role in the nuclear translocation, retention and transcriptional activity of STAT3. Component of a regulated secretory pathway involved in Ca(2+)-dependent release of acetylcholine. Required for normal progress through the cell cycle (PubMed:10831612, PubMed:16525022, PubMed:18234692, PubMed:18588884, PubMed:20740604). Also regulates mitochondrial integrity and function (PubMed:30945270).
+Subcellular Location	Mitochondrion intermembrane space; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLTILKKMKQKERELRLLMLGLDNAGKTTILKKFNGEDIDTISPTLGFNIKTLEHRGFKLNIWDVGGQKSLRSYWRNYFESTDGLIWVVDSADRQRMQDCQRELQSLLVEEVLELDSIRSHHWCIQGCSAVTGENLLPGIDWLLDDISSRIFTAD
+PTM	Methylation:8,53;Phosphorylation:43,45,47,72;Ubiquitylation:8,9,34,35,53,61,71

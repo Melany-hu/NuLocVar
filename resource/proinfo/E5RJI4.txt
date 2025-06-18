@@ -1,0 +1,25 @@
+UniprotID	E5RJI4
+Accession	E5RJI4
+EntryName	E5RJI4_HUMAN
+ProteinName	Protein tyrosine kinase 2
+GeneName	PTK2
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKYQEVRCLTSFNISVSFPAETDDYAEIIDEEDTYTMPSKSYGIDEARDYEIQRERIELGRCIGEGQFGDVHQGIYMSPENPALAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIMELCTLGELRSFLQVRKYSLDLASLILYAYQLSTA
+PTM	

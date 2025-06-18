@@ -1,0 +1,25 @@
+UniprotID	K7EN61
+Accession	K7EN61
+EntryName	K7EN61_HUMAN
+ProteinName	Amyloid beta precursor protein binding protein 2
+GeneName	APPBP2
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVELEWIPETLYNTAISAVVDNYIRSRRDIRSLPENIQFDVYYKLYQQGRLCQLGSEFCELEVFAKVLRALDKRLSFTKSKSFDICFIIVFRL
+PTM	

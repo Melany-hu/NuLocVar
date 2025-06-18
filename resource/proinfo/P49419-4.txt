@@ -1,0 +1,25 @@
+UniprotID	P49419-4
+Accession	P49419;B2R669;B4DIC7;B4DMA0;E7EPT3;O14619;Q6IPU8;Q9BUL4
+EntryName	AL7A1_HUMAN
+ProteinName	Alpha-aminoadipic semialdehyde dehydrogenase (Alpha-AASA dehydrogenase) (EC 1.2.1.31) (Aldehyde dehydrogenase family 7 member A1) (EC 1.2.1.3) (Antiquitin-1) (Betaine aldehyde dehydrogenase) (EC 1.2.1.8) (Delta1-piperideine-6-carboxylate dehydrogenase) (P6c dehydrogenase)
+GeneName	ALDH7A1 ATQ1
+Length	475
+Function	Multifunctional enzyme mediating important protective effects. Metabolizes betaine aldehyde to betaine, an important cellular osmolyte and methyl donor. Protects cells from oxidative stress by metabolizing a number of lipid peroxidation-derived aldehydes. Involved in lysine catabolism.
+Subcellular Location	Cytoplasm; Cytosol; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRLPRALCVHAAKTSKLSGPWSRPAAFMSTLLINQPQYAWLKELGLREENEGVYNGSWGGRGEVITTYCPANNEPIARVRQASVADYEETVKKAREAWKIWADIPAPKRGEIVRQIGDALREKIQVLGSLVSLEMGKILVEGVGEVQEYVDICDYAVGLSRMIGGPILPSERSGHALIEQWNPVGLVGIITAFNFPVAVYGWNNAIAMICGNVCLWKGAPTTSLISVAVTKIIAKVLEDNKLPGAICSLTCGGADIGTAMAKDERVNLLSFTGSTQVGKQVGLMVQERFGRSLLELGGNNAIIAFEDADLSLVVPSALFAAVGTAGQRCTTARRLVMDRPGNYVEPTIVTGLGHDASIAHTETFAPILYVFKFKNEEEVFAWNNEVKQGLSSSIFTKDLGRIFRWLGPKGSDCGIVNVNIPTSGAEIGGAFGGEKHTGGGRESGSDAWKQYMRRSTCTINYSKDLPLAQGIKFQ
+PTM	Acetylation:93,100,389,439,462,514,537;Glycosylation:56;Methylation:3,6,93,138,232,236,263,280,389,439,452,500;Phosphorylation:30,84,275,354,379,394,397,457;SUMOylation:109,439;Ubiquitylation:17,280,352,389,452

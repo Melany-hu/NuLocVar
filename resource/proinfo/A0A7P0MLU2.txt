@@ -1,0 +1,25 @@
+UniprotID	A0A7P0MLU2
+Accession	A0A7P0MLU2
+EntryName	A0A7P0MLU2_HUMAN
+ProteinName	Thymidine kinase 2
+GeneName	TK2
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAFCQRPSSDKEQEKEKKSVVLTEPVSKWRNVRGHNPLGLMYHDASRWGLTLQTYVQLTMLDRHTRPQVSSVRLMERSIHSARYIFVENLYRSGKMPEVDYVVLSEWFDWILRNMDVSVDLIVYLRTNPETCYQRLKKRCREEEKVIPLEYLEAIHHLHEEWLIKGSLFPMAAPVLVIEADHHMERMLELFEQNRDRILTPENRKHCP
+PTM	

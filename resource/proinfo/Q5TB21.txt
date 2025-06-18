@@ -1,0 +1,25 @@
+UniprotID	Q5TB21
+Accession	Q5TB21;A6NM39
+EntryName	Q5TB21_HUMAN
+ProteinName	Gamma-secretase subunit APH-1 (APH-1)
+GeneName	APH1A RP4-790G17.3-008
+Length	150
+Function	Potential subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral proteins such as Notch receptors.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAAVFFGCTFVAFGPAFALFLITVAGDPLRVIILVAGKADEGLASLSEDGRSPISIRQMAYVSGLSFGIISGVFSVINILADALGPGVVGIHGDSPYYFLTSAFLTAAIILLHTFWGVVFFDACERRRYWALGLVVGSHLLTSGLTFLN
+PTM	

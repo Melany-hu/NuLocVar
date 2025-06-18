@@ -1,0 +1,25 @@
+UniprotID	Q8WXX7-3
+Accession	Q8WXX7;A4D1Y9;L7QET3;L7QF75;Q5D049;Q6PJU5;Q9Y4F2
+EntryName	AUTS2_HUMAN
+ProteinName	Autism susceptibility gene 2 protein
+GeneName	AUTS2 KIAA0442
+Length	266
+Function	Component of a Polycomb group (PcG) multiprotein PRC1-like complex, a complex class required to maintain the transcriptionally repressive state of many genes, including Hox genes, throughout development. PcG PRC1 complex acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-119', rendering chromatin heritably changed in its expressibility (PubMed:25519132). The PRC1-like complex that contains PCGF5, RNF2, CSNK2B, RYBP and AUTS2 has decreased histone H2A ubiquitination activity, due to the phosphorylation of RNF2 by CSNK2B (PubMed:25519132). As a consequence, the complex mediates transcriptional activation (PubMed:25519132). In the cytoplasm, plays a role in axon and dendrite elongation and in neuronal migration during embryonic brain development. Promotes reorganization of the actin cytoskeleton, lamellipodia formation and neurite elongation via its interaction with RAC guanine nucleotide exchange factors, which then leads to the activation of RAC1 (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cytoskeleton; Cell projection; Growth cone
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	73...78
+validnes_region	
+nesbase_region	
+Sequence	MDGPTRGHGLRKKRRSRSQRDRERRSRGGLGAGAAGGGGAGRTRALSLASSSGSDKEDNGKPPSSAPSRPRPPRRKRRESTSAEEDIIDGFAMTSFVTFEALEKDVALKPQERVEKRQTPLTKKKREALTNGLSFHSKKSRLSHPHHYSSDRENDRNLCQHLGKRKKMPKALRQLKPGQNSCRDSDSESASGESKGFHRSSSRERLSDSSAPSSLGTGYFRSGKMCLGEEACLKSGNDMKRDVSNTSSWASNRESFFSLVKLLKGF
+PTM	Acetylation:919,934,975,1254;Methylation:6,27,104,296,510,631,795,887,983,1103,1108,1114,1210;Phosphorylation:5,47,50,51,52,54,68,80,81,82,130,137,143,150,255,261,319,799,852,853,856,941,951,956,957,958,959,1198,1200,1211,1218,1225,1226,1233,1238,1241,1250;SUMOylation:570,683

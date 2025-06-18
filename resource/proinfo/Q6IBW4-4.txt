@@ -1,0 +1,25 @@
+UniprotID	Q6IBW4-4
+Accession	Q6IBW4;B7WPH1;O43788;Q13391;Q96C14;Q96GJ0;Q9BQ71;Q9BUT3;Q9BVD1
+EntryName	CNDH2_HUMAN
+ProteinName	Condensin-2 complex subunit H2 (Chromosome-associated protein H2) (hCAP-H2) (Kleisin-beta) (Non-SMC condensin II complex subunit H2)
+GeneName	NCAPH2 CAPH2
+Length	606
+Function	Regulatory subunit of the condensin-2 complex, a complex that seems to provide chromosomes with an additional level of organization and rigidity and in establishing mitotic chromosome architecture (PubMed:14532007). May promote the resolution of double-strand DNA catenanes (intertwines) between sister chromatids. Condensin-mediated compaction likely increases tension in catenated sister chromatids, providing directionality for type II topoisomerase-mediated strand exchanges toward chromatid decatenation. Required for decatenation of chromatin bridges at anaphase. Early in neurogenesis, may play an essential role to ensure accurate mitotic chromosome condensation in neuron stem cells, ultimately affecting neuron pool and cortex size (By similarity). Seems to have lineage-specific role in T-cell development (PubMed:14532007).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDVEARFAHLLQPIRDLTKNWEVDVAAQLGEYLEELDQICISFDEGKTTMNFIEAALLIQGSACVYSKKVEYLYSLVYQALDFISGKRRAKQLSSVQEDRANGVASSGVPQEAENEFLSLDDFPDSRTNVDLKNDQTPSEVLIIPLLPMALVAPDEMEKNNNPLYSRQGEVLASRKDFRMNTCVPHPRGAFMLEPEGMSPMEPAGVSPMPGTQKDTGRTEEQPMEVSVCRSPVPALGFSQEPGPSPEGPMPLGGGEDEDAEEAVELPEASAPKAALEPKESRSPQQSAALPRRYMLREREGAPEPASCVKETPDPWQSLDPFDSLESKPFKKGRPYSVPPCVEEALGQKRKRKGAAKLQDFHQWYLAAYADHADSRRLRRKGPSFADMEVLYWTHVKEQLETLRKLQRREVAEQWLRPAEEDHLEDSLEDLGAAADDFLEPEEYMEPEGADPREAADLDAVPMSLSYEELVRRNVELFIATSQKFVQETELSQRIRDWEDTVQPLLQEQEQHVPFDIHTYGDQLVSRFPQLNEWCPFAELVAGQPAFEVCRSMLASLQLANDYTVEITQQPGLEMAVDTMSLRLLTHQRAHKRFQTYAAPSMAQP
+PTM	Acetylation:354,358;Methylation:20,88,134,329,358,406;Phosphorylation:19,95,96,120,129,138,140,200,208,213,228,232,240,246,282,284,288,308,313,319,325,328,403,428,464,466,467,489,492;SUMOylation:92,134,160,274,280,329,358,382;Ubiquitylation:92

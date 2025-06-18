@@ -1,0 +1,25 @@
+UniprotID	R4GNF7
+Accession	R4GNF7
+EntryName	R4GNF7_HUMAN
+ProteinName	LAS1 like ribosome biogenesis factor
+GeneName	LAS1L
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMVESCLGSPCWASPQLLRIACRVEAAGLGEVWTTEIFSQPKHTRGMRHMPAVTAAHLGTISCAQILPFPDKQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q86YL7-6
+Accession	Q86YL7;A9Z1Y2;B2R6J8;E9PB68;F6QWX5;O60836;O95128;Q7L375;Q8NBQ8;Q8NBR3
+EntryName	PDPN_HUMAN
+ProteinName	Podoplanin (Aggrus) (Glycoprotein 36) (Gp36) (PA2.26 antigen) (T1-alpha) (T1A) [Cleaved into: 29kDa cytosolic podoplanin intracellular domain (PICD)]
+GeneName	PDPN GP36 PSEC0003 PSEC0025
+Length	120
+Function	Mediates effects on cell migration and adhesion through its different partners. During development plays a role in blood and lymphatic vessels separation by binding CLEC1B, triggering CLEC1B activation in platelets and leading to platelet activation and/or aggregation (PubMed:14522983, PubMed:15231832, PubMed:17222411, PubMed:17616532, PubMed:18215137). Interaction with CD9, on the contrary, attenuates platelet aggregation induced by PDPN (PubMed:18541721). Through MSN or EZR interaction promotes epithelial-mesenchymal transition (EMT) leading to ERZ phosphorylation and triggering RHOA activation leading to cell migration increase and invasiveness (PubMed:17046996, PubMed:21376833). Interaction with CD44 promotes directional cell migration in epithelial and tumor cells (PubMed:20962267). In lymph nodes (LNs), controls fibroblastic reticular cells (FRCs) adhesion to the extracellular matrix (ECM) and contraction of the actomyosin by maintaining ERM proteins (EZR; MSN and RDX) and MYL9 activation through association with unknown transmembrane proteins. Engagement of CLEC1B by PDPN promotes FRCs relaxation by blocking lateral membrane interactions leading to reduction of ERM proteins (EZR; MSN and RDX) and MYL9 activation (By similarity). Through binding with LGALS8 may participate in connection of the lymphatic endothelium to the surrounding extracellular matrix (PubMed:19268462). In keratinocytes, induces changes in cell morphology showing an elongated shape, numerous membrane protrusions, major reorganization of the actin cytoskeleton, increased motility and decreased cell adhesion (PubMed:15515019). Controls invadopodia stability and maturation leading to efficient degradation of the extracellular matrix (ECM) in tumor cells through modulation of RHOC activity in order to activate ROCK1/ROCK2 and LIMK1/LIMK2 and inactivation of CFL1 (PubMed:25486435). Required for normal lung cell proliferation and alveolus formation at birth (By similarity). Does not function as a water channel or as a regulator of aquaporin-type water channels (PubMed:9651190). Does not have any effect on folic acid or amino acid transport (By similarity).
+Subcellular Location	Membrane; Cell projection; Lamellipodium membrane; Cell projection; Filopodium membrane; Cell projection; Microvillus membrane; Cell projection; Ruffle membrane; Membrane raft; Apical cell membrane; Basolateral cell membrane; Cell projection; Invadopodium; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGAEDDVVTPGTSEDRYKSGLTTLVATSVNSVTGIRIEDLPTSESTVHAQEQSPSATASNVATSHSTEKVDGDTQTTVEKDGLSTVTLVGIIVGVLLAIGFIGAIIVVVMRKMSGRYSP
+PTM	Glycosylation:52,106,109

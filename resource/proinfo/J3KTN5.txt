@@ -1,0 +1,25 @@
+UniprotID	J3KTN5
+Accession	J3KTN5
+EntryName	J3KTN5_HUMAN
+ProteinName	C-C motif chemokine receptor 7
+GeneName	CCR7
+Length	199
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSIICFVGLLGNGLVVLTYIYFKRLKTMTDTYLLNLAVADILFLLTLPFWAYSAAKSWVFGVHFCKLIFAIYKMSFFSGMLLLLCISIDRYVAIVQAVSAHRHRARVLLISKLSCVGIWILATVLSIPELLYSDLQRSSSEQAMRCSLITEHVEAFITIQVAQMVIGFLVPLLAMSFCYLVIIRTLLQARNFERNKAI
+PTM	

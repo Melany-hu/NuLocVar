@@ -1,0 +1,25 @@
+UniprotID	Q9Y483-3
+Accession	Q9Y483;A6NGQ9;A8K2Q3;B1AKT5;B1AKT6;Q96G26;Q9UES9;Q9UP40
+EntryName	MTF2_HUMAN
+ProteinName	Metal-response element-binding transcription factor 2 (Metal regulatory transcription factor 2) (Metal-response element DNA-binding protein M96) (Polycomb-like protein 2) (hPCl2)
+GeneName	MTF2 PCL2
+Length	491
+Function	Polycomb group (PcG) protein that specifically binds histone H3 trimethylated at 'Lys-36' (H3K36me3) and recruits the PRC2 complex, thus enhancing PRC2 H3K27me3 methylation activity (PubMed:23142980, PubMed:23228662, PubMed:31959557). Regulates the transcriptional networks during embryonic stem cell self-renewal and differentiation (By similarity). Promotes recruitment of the PRC2 complex to the inactive X chromosome in differentiating XX ES cells and PRC2 recruitment to target genes in undifferentiated ES cells (By similarity). Required to repress Hox genes by enhancing H3K27me3 methylation of the PRC2 complex (By similarity). In some conditions may act as an inhibitor of PRC2 activity: able to activate the CDKN2A gene and promote cellular senescence by suppressing the catalytic activity of the PRC2 complex locally (By similarity). Binds to the metal-regulating-element (MRE) of MT1A gene promoter (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	235...240
+validnes_region	
+nesbase_region	
+Sequence	MVCTICQEEYSEAPNEMVICDKCGQGYHQLCHTPHIDSSVIDSDEKWLCRQCVFATTTKRGGALKKGPNAKALQVMKQTLPYSVADLEWDAGHKTNVQQCYCYCGGPGDWYLKMLQCCKCKQWFHEACVQCLQKPMLFGDRFYTFICSVCSSGPEYLKRLPLQWVDIAHLCLYNLSVIHKKKYFDSELELMTYINENWDRLHPGELADTPKSERYEHVLEALNDYKTMFMSGKEIKKKKHLFGLRIRVPPVPPNVAFKAEKEPEGTSHEFKIKGRKASKPISDSREVSNGIEKKGKKKSVGRPPGPYTRKMIQKTAEPLLDKESISENPTLDLPCSIGRTEGTAHSSNTSDVDFTGASSAKETTSSSISRHYGLSDSRKRTRTGRSWPAAIPHLRRRRGRLPRRALQTQNSEIVKDDEGKEDYQFDELNTEILNNLADQELQLNHLKNSITSYFGAAGRIACGEKYRVLARRVTLDGKVQYLVEWEGATAS
+PTM	Acetylation:30,161;Methylation:30,45,67,73,412,416,424,517;Phosphorylation:4,16,24,26,27,380,401,417,426,428,432,438,452,477,479,485,488,513;SUMOylation:30,45,161,173,179,313,328,360,416,424,522;Ubiquitylation:161,313,424,463,522

@@ -1,0 +1,25 @@
+UniprotID	Q9Y535-2
+Accession	Q9Y535;B0QYH9;Q5M7Y8;Q96AE3;Q9BY95
+EntryName	RPC8_HUMAN
+ProteinName	DNA-directed RNA polymerase III subunit RPC8 (RNA polymerase III subunit C8) (DNA-directed RNA polymerase III subunit H) (RNA polymerase III subunit 22.9 kDa subunit) (RPC22.9)
+GeneName	POLR3H KIAA1665 RPC8
+Length	175
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (PubMed:20413673, PubMed:33558764, PubMed:34675218). Specific peripheric component of RNA polymerase III (Pol III) which synthesizes small non-coding RNAs including 5S rRNA, snRNAs, tRNAs and miRNAs from at least 500 distinct genomic loci. With CRCP/RPC9 forms a mobile stalk that protrudes from Pol III core and functions primarily in transcription initiation (By similarity) (PubMed:33558764, PubMed:34675218). Pol III plays a key role in sensing and limiting infection by intracellular bacteria and DNA viruses. Acts as nuclear and cytosolic DNA sensor involved in innate immune response. Can sense non-self dsDNA that serves as template for transcription into dsRNA. The non-self RNA polymerase III transcripts, such as Epstein-Barr virus-encoded RNAs (EBERs) induce type I interferon and NF-kappa-B through the RIG-I pathway (PubMed:19609254, PubMed:19631370).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVLVEMVDTVRIPPWQFERKLNDSIAEELNKKLANKVVYNVGLCICLFDITKLEDAYVFPGDGASHTKVSLGFFDDILIPPESLQQPAKFDEAEQVWVWEYETEEGAHDLYMDTGEEIRFRVVDESFVDTSPTGPSSADATTSSEELPKKEAPYTLVGSISEPGLGLLSWWTSN
+PTM	Acetylation:32;Methylation:32,53,88;Phosphorylation:174;SUMOylation:21,179;Ubiquitylation:21,88

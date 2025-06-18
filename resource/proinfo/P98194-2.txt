@@ -1,0 +1,25 @@
+UniprotID	P98194-2
+Accession	P98194;B2RAT7;B4DSW3;B7Z3X9;G3XAH8;G8JLN9;O76005;Q86V72;Q86V73;Q8N6V1;Q8NCJ7
+EntryName	AT2C1_HUMAN
+ProteinName	Calcium-transporting ATPase type 2C member 1 (ATPase 2C1) (EC 7.2.2.10) (ATP-dependent Ca(2+) pump PMR1) (Ca(2+)/Mn(2+)-ATPase 2C1) (Secretory pathway Ca(2+)-transporting ATPase type 1) (SPCA1)
+GeneName	ATP2C1 KIAA1347 PMR1L HUSSY-28
+Length	888
+Function	ATP-driven pump that supplies the Golgi apparatus with Ca(2+) and Mn(2+) ions, both essential cofactors for processing and trafficking of newly synthesized proteins in the secretory pathway (PubMed:12707275, PubMed:16192278, PubMed:20439740, PubMed:21187401, PubMed:30923126). Within a catalytic cycle, acquires Ca(2+) or Mn(2+) ions on the cytoplasmic side of the membrane and delivers them to the lumenal side. The transfer of ions across the membrane is coupled to ATP hydrolysis and is associated with a transient phosphorylation that shifts the pump conformation from inward-facing to outward-facing state (PubMed:16192278, PubMed:16332677, PubMed:30923126). Plays a primary role in the maintenance of Ca(2+) homeostasis in the trans-Golgi compartment with a functional impact on Golgi and post-Golgi protein sorting as well as a structural impact on cisternae morphology (PubMed:14632183, PubMed:20439740). Responsible for loading the Golgi stores with Ca(2+) ions in keratinocytes, contributing to keratinocyte differentiation and epidermis integrity (PubMed:10615129, PubMed:14632183, PubMed:20439740). Participates in Ca(2+) and Mn(2+) ions uptake into the Golgi store of hippocampal neurons and regulates protein trafficking required for neural polarity (By similarity). May also play a role in the maintenance of Ca(2+) and Mn(2+) homeostasis and signaling in the cytosol while preventing cytotoxicity (PubMed:21187401).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Golgi apparatus; Golgi stack membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVARFQKIPNGENETMIPVLTSKKASELPVSEVASILQADLQNGLNKCEVSHRRAFHGWNEFDISEDEPLWKKYISQFKNPLIMLLLASAVISVLMHQFDDAVSITVAILIVVTVAFVQEYRSEKSLEELSKLVPPECHCVREGKLEHTLARDLVPGDTVCLSVGDRVPADLRLFEAVDLSIDESSLTGETTPCSKVTAPQPAATNGDLASRSNIAFMGTLVRCGKAKGVVIGTGENSEFGEVFKMMQAEEAPKTPLQKSMDLLGKQLSFYSFGIIGIIMLVGWLLGKDILEMFTISVSLAVAAIPEGLPIVVTVTLALGVMRMVKKRAIVKKLPIVETLGCCNVICSDKTGTLTKNEMTVTHIFTSDGLHAEVTGVGYNQFGEVIVDGDVVHGFYNPAVSRIVEAGCVCNDAVIRNNTLMGKPTEGALIALAMKMGLDGLQQDYIRKAEYPFSSEQKWMAVKCVHRTQQDRPEICFMKGAYEQVIKYCTTYQSKGQTLTLTQQQRDVYQQEKARMGSAGLRVLALASGPELGQLTFLGLVGIIDPPRTGVKEAVTTLIASGVSIKMITGDSQETAVAIASRLGLYSKTSQSVSGEEIDAMDVQQLSQIVPKVAVFYRASPRHKMKIIKSLQKNGSVVAMTGDGVNDAVALKAADIGVAMGQTGTDVCKEAADMILVDDDFQTIMSAIEEGKGIYNNIKNFVRFQLSTSIAALTLISLATLMNFPNPLNAMQILWINIIMDGPPAQSLGVEPVDKDVIRKPPRNWKDSILTKNLILKILVSSIIIVCGTLFVFWRELRDNVITPRDTTMTFTCFVFFDMFNALSSRSQTKSVFEIGLCSNRMFCYAVLGSIMGQLLVIYFPPLQKVFQTESLSILGLALGEEWTAAG
+PTM	Acetylation:514;Methylation:80,133,267,289,333,488,693,700,761,773,778,896;Phosphorylation:77,621,637,642,664,769,901,910,911,912,913,914,915;SUMOylation:8,496;Ubiquitylation:8,25,48,126,133,146,229,246,260,424,449,464,488,496,514,589,630,634,773,831,907

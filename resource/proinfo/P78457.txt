@@ -1,0 +1,25 @@
+UniprotID	P78457
+Accession	P78457
+EntryName	P78457_HUMAN
+ProteinName	Phosphofructokinase
+GeneName	PFKM
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VRIGLIQGNRVLVVHDGFEGLAKGQIEEAGWSYVGGWTGQGGSKLGTK
+PTM	

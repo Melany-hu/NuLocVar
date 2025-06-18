@@ -1,0 +1,25 @@
+UniprotID	Q969M7-6
+Accession	Q969M7;A8K1Z8;B4DDT9;B4DFI1;B4DMK3;B4DZU2;B8ZZG2;C9J212;H9KVB9
+EntryName	UBE2F_HUMAN
+ProteinName	NEDD8-conjugating enzyme UBE2F (EC 2.3.2.34) (NEDD8 carrier protein UBE2F) (NEDD8 protein ligase UBE2F) (NEDD8-conjugating enzyme 2) (RING-type E3 NEDD8 transferase UBE2F) (Ubiquitin-conjugating enzyme E2 F)
+GeneName	UBE2F NCE2
+Length	164
+Function	Accepts the ubiquitin-like protein NEDD8 from the UBA3-NAE1 E1 complex and catalyzes its covalent attachment to other proteins (PubMed:19250909, PubMed:23201271). Together with the E3 ubiquitin ligase RNF7/RBX2, specifically neddylates cullin-5 (CUL5) (PubMed:19250909, PubMed:23201271, PubMed:23300442). Does not neddylate CUL1, CUL2, CUL3, CUL4A or CUL4B (PubMed:19250909, PubMed:23201271). Mediates neddylation of the CUL9-RBX1 complex (PubMed:38605244).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLASKLKRDDGLKGSRTAATASDSTRRVSVRDKLLVKEVAELEANLPCTCKVHFPDPNKLHCFQLTVTPDEGYYQGGKFQFETEVPDAYNMVPPKVKCLTKIWHPNITETGEICLSLLREHSIDGTGWAPTRTLKDVVWGLNSLFTEDFRNKVDDYIKRYAR
+PTM	Acetylation:7;Methylation:7,39;Phosphorylation:19,24,26,124,179;Ubiquitylation:7,9,15,53,97

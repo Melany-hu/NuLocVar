@@ -1,0 +1,25 @@
+UniprotID	E5RGP1
+Accession	E5RGP1
+EntryName	E5RGP1_HUMAN
+ProteinName	Protein tyrosine kinase 2
+GeneName	PTK2
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKYQEVRCLTSFNISVSFPAETDDYAEIIDEEDTYTMPSTRDYEIQRERIELGRCIGEGQFGDVHQGIYMSPVCVCGRY
+PTM	

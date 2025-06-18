@@ -1,0 +1,25 @@
+UniprotID	Q86VV4-3
+Accession	Q86VV4;B7Z866;E9PGP9;Q96LK2
+EntryName	RNB3L_HUMAN
+ProteinName	Ran-binding protein 3-like
+GeneName	RANBP3L
+Length	490
+Function	Nuclear export factor for BMP-specific SMAD1/5/8 that plays a critical role in terminating BMP signaling and regulating mesenchymal stem cell differentiation by blocking osteoblast differentiation to promote myogenic differention. Directly recognizes dephosphorylated SMAD1/5/8 and mediates their nuclear export in a Ran-dependent manner.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTIPRKGSSHLPGSLHTCKLKLQEDRRQQEKSVIAQPIFVFEKGEQTFKRPAEDTLYEAAEPECNGFPTKRVRSSSFTFHITDSQSQGVSTLSQKQMRCSSVTNLPTFPHSGPVRKNNVFMTSALVQSSVDIKSAEQGPVKHSKHVIRPAILQLPQARSCAKVRKTFGHKALESCKTKEKTNNKISEGNSYLLSENLSRARISVQLSTNQDFLGATSVGCQPNEDKCSFKSCSSNFVFGENMVERVLGTQKLTQPQLENDSYAKEKPFKSIPKFPVNFLSSRTDSIKNTSLIESAAAFSSQPSRKCLLEKIDVITGEETEHNVLKINCKLFIFNKTTQSWIERGRGTLRLNDTASTDCGTLQSRLIMRNQGSLRLILNSKLWAQMKIQRANHKNVRITATDLEDYSIKIFLIQASAQDTAYLYAAIHHRLVALQSFNKQRDVNQAESLSETAQQLNCESCDENEDDFIQVTKNGSDPSSWTHRQSVACS
+PTM	Methylation:109,286,301;Phosphorylation:98,153,237,265,279

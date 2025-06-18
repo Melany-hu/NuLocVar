@@ -1,0 +1,25 @@
+UniprotID	F5H802
+Accession	F5H802
+EntryName	F5H802_HUMAN
+ProteinName	Lipase maturation factor 1
+GeneName	LMF1
+Length	95
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTILWLMDWSDMNSNLDLLALLGLGISSFVLITGCANMLLMAALWGLYMSLVNVGHVWYSFAAQHVTLDCRAEIQKTRSSFGSALPAFRAAMRL
+PTM	

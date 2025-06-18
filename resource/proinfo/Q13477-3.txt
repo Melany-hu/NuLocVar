@@ -1,0 +1,25 @@
+UniprotID	Q13477-3
+Accession	Q13477;A5PKV4;B2RPL9;O60222;O75867;Q5UGI7
+EntryName	MADCA_HUMAN
+ProteinName	Mucosal addressin cell adhesion molecule 1 (MAdCAM-1) (hMAdCAM-1)
+GeneName	MADCAM1
+Length	295
+Function	Cell adhesion leukocyte receptor expressed by mucosal venules, helps to direct lymphocyte traffic into mucosal tissues including the Peyer patches and the intestinal lamina propria. It can bind both integrin alpha-4/beta-7 and L-selectin, regulating both the passage and retention of leukocytes. Isoform 2, lacking the mucin-like domain, may be specialized in supporting integrin alpha-4/beta-7-dependent adhesion strengthening, independent of L-selectin binding.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFGLALLLAGLLGLLLGQSLQVKPLQVEPPEPVVAVALGASRQLTCRLACADRGASVQWRGLDTSLGAVQSDTGRSVLTVRNASLSAAGTRVCVGSCGGRTFQHTVQLLVYAFPDQLTVSPAALVPGDPEVACTAHKVTPVDPNALSFSLLVGGQELEGAQALGPEVQEEEEEPQGDEDVLFRVTERWRLPPLGTPVPPALYCQATMRLPGLELSHRQAIPASKPAGDQLPAALWTSSAVLGLLLLALPTYHLWKRCRHLAEDDTHPPASLRLLPQVSAWAGLRGTGQVGISPS
+PTM	Phosphorylation:85,87

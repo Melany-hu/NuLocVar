@@ -1,0 +1,25 @@
+UniprotID	F5H4N2
+Accession	F5H4N2
+EntryName	F5H4N2_HUMAN
+ProteinName	Prickle planar cell polarity protein 3
+GeneName	PRICKLE3
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRLISDFQRHSISDDDSGCASEEYAWVPPGLKPEQVTRGQPSTLAVQWVHTNAHTHTHTLRHSTAQHWKRRKRKSSEPLASSGSGRIWGVASCASSR
+PTM	

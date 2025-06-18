@@ -1,0 +1,25 @@
+UniprotID	P25800-2
+Accession	P25800;E9PSF5;Q4VBC5;Q8IXR0
+EntryName	RBTN1_HUMAN
+ProteinName	Rhombotin-1 (Cysteine-rich protein TTG-1) (LIM domain only protein 1) (LMO-1) (T-cell translocation protein 1)
+GeneName	LMO1 RBTN1 RHOM1 TTG1
+Length	155
+Function	May be involved in gene regulation within neural lineage cells potentially by direct DNA binding or by binding to other transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLDQEDGVPMLSVQPKGKQKGCAGCNRKIKDRYLLKALDKYWHEDCLKCACCDCRLGEVGSTLYTKANLILCRRDYLRLFGTTGNCAACSKLIPAFEMVMRARDNVYHLDCFACQLCNQRFCVGDKFFLKNNMILCQMDYEEGQLNGTFESQVQ
+PTM	Methylation:6,38,132

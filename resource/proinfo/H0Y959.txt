@@ -1,0 +1,25 @@
+UniprotID	H0Y959
+Accession	H0Y959
+EntryName	H0Y959_HUMAN
+ProteinName	TBC1 domain containing kinase
+GeneName	TBCK
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYPSYLAPEVIAQGIFKTTDHMPSKKPLPSGPKSDVWSLGIILFELCVMRKVKLQVVLSSLPNLYNYLMVEESNLAHNHCSTHKC
+PTM	

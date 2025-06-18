@@ -1,0 +1,25 @@
+UniprotID	L8ECM7
+Accession	L8ECM7
+EntryName	L8ECM7_HUMAN
+ProteinName	Alternative protein TAF6
+GeneName	TAF6
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHLPAPGFPHMQTCTHVHVHTCMLAKRKEVVDCFLHVTFFLDIVQPVSQNKSLVCKF
+PTM	

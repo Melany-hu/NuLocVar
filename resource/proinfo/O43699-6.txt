@@ -1,0 +1,25 @@
+UniprotID	O43699-6
+Accession	O43699;A8MV71;B2RTS8;C9JBE5;F8WA78;O15388;O43700
+EntryName	SIGL6_HUMAN
+ProteinName	Sialic acid-binding Ig-like lectin 6 (Siglec-6) (CD33 antigen-like 1) (CDw327) (Obesity-binding protein 1) (OB-BP1) (CD antigen CD327)
+GeneName	SIGLEC6 CD33L CD33L1 OBBP1
+Length	401
+Function	Putative adhesion molecule that mediates sialic-acid dependent binding to cells. Binds to alpha-2,6-linked sialic acid. The sialic acid recognition site may be masked by cis interactions with sialic acids on the same cell surface.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQGAQEASASEMLPLLLPLLWAASYYGYGYWFLEGADVPVATNDPDEEVQEETRGRFHLLWDPRRKNCSLSIRDARRRDNAAYFFRLKSKWMKYGYTSSKLSVRVMALTHRPNISIPGTLESGHPSNLTCSVPWVCEQGTPPIFSWMSAAPTSLGPRTTQSSVLTITPRPQDHSTNLTCQVTFPGAGVTMERTIQLNVSSFKILQNTSSLPVLEGQALRLLCDADGNPPAHLSWFQGFPALNATPISNTGVLELPQVGSAEEGDFTCRAQHPLGSLQISLSLFVHWKPEGRAGGVLGAVWGASITTLVFLCVCFIFRVKTRRKKAAQPVQNTDDVNPVMVSGSRGHQHQFQTGIVSDHPAEAGPISEDEQELHYAVLHFHKVQPQEPKVTDTEYSEIKIHK
+PTM	Glycosylation:103,212,233,258;Methylation:136,254;Phosphorylation:105,107,125,176

@@ -1,0 +1,25 @@
+UniprotID	Q9C0K7-2
+Accession	Q9C0K7;Q5BKY7;Q9P1L0
+EntryName	STRAB_HUMAN
+ProteinName	STE20-related kinase adapter protein beta (STRAD beta) (Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 2 protein) (CALS-21) (ILP-interacting protein) (Pseudokinase ALS2CR2)
+GeneName	STRADB ALS2CR2 ILPIP PRO1038
+Length	377
+Function	Pseudokinase which, in complex with CAB39/MO25 (CAB39/MO25alpha or CAB39L/MO25beta), binds to and activates STK11/LKB1. Adopts a closed conformation typical of active protein kinases and binds STK11/LKB1 as a pseudosubstrate, promoting conformational change of STK11/LKB1 in an active conformation (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLLDCFCTSRTQVESLRPEKQSETSIHQYLVDEPTLSWSRPSTRASEVLCSTNVSHYELQVEIGRGFDNLTSVHLARHTPTGTLVTIKITNLENCNEERLKALQKAVILSHFFRHPNITTYWTVFTVGSWLWVISPFMAYGSASQLLRTYFPEGMSETLIRNILFGAVRGLNYLHQNGCIHRSIKASHILISGDGLVTLSGLSHLHSLVKHGQRHRAVYDFPQFSTSVQPWLSPELLRQDLHGYNVKSDIYSVGITACELASGQVPFQDMHRTQMLLQKLKGPPYSPLDISIFPQSESRMKNSQSGVDSGIGESVLVSSGTHTVNSDRLHTPSSKTFSPAFFSLVQLCLQQDPEKRPSASSLLSHVFFKQPYFEFL
+PTM	Methylation:89,106,280;Phosphorylation:304,306,315,327

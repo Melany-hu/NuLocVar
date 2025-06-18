@@ -1,0 +1,25 @@
+UniprotID	Q9NRI5-11
+Accession	Q9NRI5;A6NLH2;C4P091;C4P095;C4P0A1;C4P0A3;C4P0B3;C4P0B6;C4P0C1;C9J6D0;O75045;Q5VT44;Q5VT45;Q8IXJ0;Q8IXJ1;Q9BX19;Q9NRI3;Q9NRI4
+EntryName	DISC1_HUMAN
+ProteinName	Disrupted in schizophrenia 1 protein
+GeneName	DISC1 KIAA0457
+Length	201
+Function	Involved in the regulation of multiple aspects of embryonic and adult neurogenesis (PubMed:19303846, PubMed:19502360). Required for neural progenitor proliferation in the ventrical/subventrical zone during embryonic brain development and in the adult dentate gyrus of the hippocampus (By similarity). Participates in the Wnt-mediated neural progenitor proliferation as a positive regulator by modulating GSK3B activity and CTNNB1 abundance (PubMed:19303846). Plays a role as a modulator of the AKT-mTOR signaling pathway controlling the tempo of the process of newborn neurons integration during adult neurogenesis, including neuron positioning, dendritic development and synapse formation (By similarity). Inhibits the activation of AKT-mTOR signaling upon interaction with CCDC88A (By similarity). Regulates the migration of early-born granule cell precursors toward the dentate gyrus during the hippocampal development (PubMed:19502360). Inhibits ATF4 transcription factor activity in neurons by disrupting ATF4 dimerization and DNA-binding (By similarity). Plays a role, together with PCNT, in the microtubule network formation (PubMed:18955030).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Mitochondrion; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGGGPQGAPAAAGGGGVSHRAAETLQQRLEDLEQEKISLHFQLPSRQPALSSFLGHLAAQVQAALRRGATQQASGDDTHTPLRMEPRLLEPTAQDSLHVSITRRDWLLQEKQQLQKEIEALQARMFVLEAKDQQLRREIEEQEQQLQWQGCDLTPLVGQLSLGQLQEVSKALQDTLASAGQIPFHAEPPETIRRKPFLDG
+PTM	Glycosylation:554;Methylation:21,25,112,332,462,576,592,627,676,689,753,781;Phosphorylation:90,97,100,153,155,159,241,274,284,285,328,352,542,556,567,633,641,646,713,738,810

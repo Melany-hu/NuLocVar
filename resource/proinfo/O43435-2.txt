@@ -1,0 +1,25 @@
+UniprotID	O43435-2
+Accession	O43435;C6G493;C6G494;O43436;Q96RJ2
+EntryName	TBX1_HUMAN
+ProteinName	T-box transcription factor TBX1 (T-box protein 1) (Testis-specific T-box protein)
+GeneName	TBX1
+Length	372
+Function	Transcription factor that plays a key role in cardiovascular development by promoting pharyngeal arch segmentation during embryonic development (By similarity). Also involved in craniofacial muscle development (By similarity). Together with NKX2-5, acts as a regulator of asymmetric cardiac morphogenesis by promoting expression of PITX2 (By similarity). Acts upstream of TBX1 for the formation of the thymus and parathyroid glands from the third pharyngeal pouch (By similarity). Required for hair follicle stem cell self-renewal (By similarity). Binds to the palindromic T site 5'-TTCACACCTAGGTGTGAA-3' DNA sequence (PubMed:11111039, PubMed:22095455).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHFSTVTRDMEAFTASSLSSLGAAGGFPGAASPGADPYGPREPPPPPPRYDPCAAAAPGAPGPPPPPHAYPFAPAAGAATSAAAEPEGPGASCAAAAKAPVKKNAKVAGVSVQLEMKALWDEFNQLGTEMIVTKAGRRMFPTFQVKLFGMDPMADYMLLMDFVPVDDKRYRYAFHSSSWLVAGKADPATPGRVHYHPDSPAKGAQWMKQIVSFDKLKLTNNLLDDNGHIILNSMHRYQPRFHVVYVDPRKDSEKYAEENFKTFVFEETRFTAVTAYQNHRITQLKIASNPFAKGFRDCDPEDWPRNHRPGALPLMSAFARSRNPVASPTQPSGTEKGLVTEGSGLQPGLLDVLLKPPSKKSESLRPPHCKDT
+PTM	Methylation:184;Phosphorylation:327;SUMOylation:134,202,285,293;Ubiquitylation:293

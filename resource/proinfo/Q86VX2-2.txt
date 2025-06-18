@@ -1,0 +1,25 @@
+UniprotID	Q86VX2-2
+Accession	Q86VX2;A2BHJ2;B3KTZ2;Q5JYB0;Q96SI7;Q9BW53
+EntryName	COMD7_HUMAN
+ProteinName	COMM domain-containing protein 7
+GeneName	COMMD7 C20orf92
+Length	199
+Function	May modulate activity of cullin-RING E3 ubiquitin ligase (CRL) complexes (PubMed:21778237). Associates with the NF-kappa-B complex and suppresses its transcriptional activity (PubMed:15799966).
+Subcellular Location	Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRLHCTEDPVPEAVGGDMQQLNQLGAQFSALTEVLFHFLTEPKEVERFLAQLSEFATTNQISLGSLRSIVKSLLLVPNGALKKSLTAKQVQADFITLGLSEEKATYFSEKWKQNAPTLARWAIGQTLMINQLIDMEWKFGVTSGSSELEKVGSIFLQLKLVVKKGNQTENVYIELTLPQFYSFLHEMERVRTSMECFC
+PTM	Methylation:152,161,165;Phosphorylation:67;SUMOylation:90;Ubiquitylation:90

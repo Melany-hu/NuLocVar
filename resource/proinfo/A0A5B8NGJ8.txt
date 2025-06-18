@@ -1,0 +1,25 @@
+UniprotID	A0A5B8NGJ8
+Accession	A0A5B8NGJ8
+EntryName	A0A5B8NGJ8_HUMAN
+ProteinName	KLK4-KLKP1 fusion protein
+GeneName	KLK4 KLKP1 fusion
+Length	164
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENELFCSGVLVHPQWVLSAAHCFQNSYTIGLGLHSLEADQEPGSQMVEASLSVRHPEYNRPLLANDLMLIKLDESVSESDTIRSISIASQCPTAGNSCLVSGWGLLANDAVIAIQSQTVGGWECEKLSQPWQGCTISATSSARTSCCILTGCSLLLTASPGTL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P42575-2
+Accession	P42575;A8K5F9;D3DXD6;E9PDN0;P42576;Q59F21;Q7KZL6;Q86UJ3;Q9BUP7;Q9BZK9;Q9BZL0
+EntryName	CASP2_HUMAN
+ProteinName	Caspase-2 (CASP-2) (EC 3.4.22.55) (Neural precursor cell expressed developmentally down-regulated protein 2) (NEDD-2) (Protease ICH-1) [Cleaved into: Caspase-2 subunit p18; Caspase-2 subunit p13; Caspase-2 subunit p12]
+GeneName	CASP2 ICH1 NEDD2
+Length	313
+Function	Is a regulator of the cascade of caspases responsible for apoptosis execution (PubMed:11156409, PubMed:15073321, PubMed:8087842). Might function by either activating some proteins required for cell death or inactivating proteins necessary for cell survival (PubMed:15073321). Associates with PIDD1 and CRADD to form the PIDDosome, a complex that activates CASP2 and triggers apoptosis in response to genotoxic stress (PubMed:15073321).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHPHHQETLKKNRVVLAKQLLLSELLEHLLEKDIITLEMRELIQAKVGSFSQNVELLNLLPKRGPQAFDAFCEALRETKQGHLEDMLLTTLSGLQHVLPPLSCDYDLSLPFPVCESCPLYKKLRLSTDTVEHSLDNKDGPVCLQVKPCTPEFYQTHFQLAYRLQSRPRGLALVLSNVHFTGEKELEFRSGGDVDHSTLVTLFKLLGYDVHVLCDQTAQEMQEKLQNFAQLPAHRVTDSCIVALLSHGVEGAIYGVDGKLLQLQEVFQLFDNANCPSLQNKPKMFFIQACRGGGAIGSLGHLLLFTAATASLAL
+PTM	Methylation:22,24,41,63,93,94,107,168,311,415;Phosphorylation:8,157,158,160,164,284,340,346;SUMOylation:15,168,214,335,350;Ubiquitylation:15,77,311,335,415

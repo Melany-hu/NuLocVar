@@ -1,0 +1,25 @@
+UniprotID	Q9UBK5
+Accession	Q9UBK5;Q9UBS1;Q9Y3Y0
+EntryName	HCST_HUMAN
+ProteinName	Hematopoietic cell signal transducer (DNAX-activation protein 10) (Membrane protein DAP10) (Transmembrane adapter protein KAP10)
+GeneName	HCST DAP10 KAP10 PIK3AP UNQ587/PRO1157
+Length	93
+Function	Transmembrane adapter protein which associates with KLRK1 to form an activation receptor KLRK1-HCST in lymphoid and myeloid cells; this receptor plays a major role in triggering cytotoxicity against target cells expressing cell surface ligands such as MHC class I chain-related MICA and MICB, and UL16-binding proteins (ULBPs); these ligands are up-regulated by stress conditions and pathological state such as viral infection and tumor transformation. Functions as a docking site for PI3-kinase PIK3R1 and GRB2. Interaction of ULBPs with KLRK1-HCST triggers calcium mobilization and activation of the PIK3R1, MAP2K/ERK, and JAK2/STAT5 signaling pathways. Both PIK3R1 and GRB2 are required for full KLRK1-HCST-mediated activation and ultimate killing of target cells. In NK cells, KLRK1-HCST signaling directly induces cytotoxicity and enhances cytokine production initiated via DAP12/TYROBP-associated receptors. In T-cells, it provides primarily costimulation for TCR-induced signals. KLRK1-HCST receptor plays a role in immune surveillance against tumors and is required for cytolysis of tumors cells; indeed, melanoma cells that do not express KLRK1 ligands escape from immune surveillance mediated by NK cells.
+Subcellular Location	Membrane
+Disorder	0.0042,0.0038,0.0034,0.0052,0.0049,0.0053,0.0058,0.0061,0.0079,0.0100,0.0133,0.0188,0.0334,0.0389,0.0734,0.0734,0.0704,0.0749,0.1476,0.2129,0.1852,0.1702,0.2817,0.3667,0.3460,0.4186,0.4541,0.4940,0.4330,0.4186,0.4051,0.2951,0.2645,0.2645,0.1554,0.1476,0.0888,0.1092,0.1092,0.0531,0.0531,0.1092,0.1184,0.0631,0.0494,0.0356,0.0405,0.0327,0.0214,0.0300,0.0300,0.0184,0.0198,0.0119,0.0091,0.0133,0.0109,0.0120,0.0071,0.0072,0.0069,0.0069,0.0071,0.0108,0.0160,0.0202,0.0248,0.0269,0.0269,0.0454,0.0690,0.0765,0.1275,0.2002,0.2258,0.1942,0.1162,0.1528,0.1759,0.3182,0.4017,0.5139,0.5533,0.5342,0.4831,0.4619,0.4330,0.4186,0.3566,0.3910,0.3426,0.2715,0.2002
+ExposeBuried	1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1
+SurfaceAccessbility	0.764,0.358,0.402,0.273,0.279,0.244,0.112,0.104,0.085,0.072,0.079,0.093,0.092,0.154,0.134,0.212,0.249,0.297,0.543,0.397,0.358,0.495,0.461,0.614,0.465,0.493,0.545,0.149,0.298,0.309,0.199,0.208,0.329,0.360,0.448,0.581,0.398,0.491,0.139,0.525,0.404,0.157,0.278,0.382,0.151,0.261,0.146,0.182,0.138,0.110,0.145,0.182,0.114,0.134,0.133,0.117,0.358,0.132,0.087,0.109,0.237,0.086,0.104,0.095,0.085,0.113,0.074,0.077,0.078,0.067,0.045,0.178,0.348,0.315,0.515,0.523,0.443,0.433,0.378,0.549,0.708,0.687,0.335,0.451,0.135,0.191,0.130,0.368,0.211,0.403,0.607,0.581,0.912
+SecondStructure	C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C
+Hydropathy	1.9,4.5,-3.2,3.8,-0.4,-3.2,4.5,3.8,2.8,3.8,3.8,3.8,3.8,-1.6,4.2,1.8,1.8,1.8,-3.5,-0.7,-0.7,-1.6,-0.4,-3.5,-4.5,-0.8,-0.8,3.8,-1.6,1.8,2.8,-1.3,-1.6,-0.4,-0.7,-0.8,-0.4,-0.8,2.5,-0.8,-0.4,2.5,-0.4,-0.8,3.8,-0.8,3.8,-1.6,3.8,3.8,1.8,-0.4,3.8,4.2,1.8,1.8,-3.5,1.8,4.2,1.8,-0.8,3.8,3.8,4.5,4.2,-0.4,1.8,4.2,2.8,3.8,2.5,1.8,-4.5,-1.6,-4.5,-4.5,-0.8,-1.6,1.8,-3.5,-3.5,-3.5,-0.4,-3.9,4.2,-1.3,4.5,-3.5,1.9,-1.6,-0.4,-4.5,-0.4
+Polar	0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,1,1,1,1,1,0,1,0,1,0,0,1,1,1
+Charge	0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,-1,-1,0,1,0,0,0,0,0,0,0,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIHLGHILFLLLLPVAAAQTTPGERSSLPAFYPGTSGSCSGCGSLSLPLLAGLVAADAVASLLIVGAVFLCARPRRSPAQEDGKVYINMPGRG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8NHY2-2
+Accession	Q8NHY2;E9PKI0;Q504W6;Q6H103;Q9H6L7;X5D9B4
+EntryName	COP1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase COP1 (EC 2.3.2.27) (Constitutive photomorphogenesis protein 1 homolog) (hCOP1) (RING finger and WD repeat domain protein 2) (RING finger protein 200) (RING-type E3 ubiquitin transferase RFWD2)
+GeneName	COP1 RFWD2 RNF200
+Length	707
+Function	E3 ubiquitin-protein ligase that mediates ubiquitination and subsequent proteasomal degradation of target proteins. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Involved in JUN ubiquitination and degradation. Directly involved in p53 (TP53) ubiquitination and degradation, thereby abolishing p53-dependent transcription and apoptosis. Ubiquitinates p53 independently of MDM2 or RCHY1. Probably mediates E3 ubiquitin ligase activity by functioning as the essential RING domain subunit of larger E3 complexes. In contrast, it does not constitute the catalytic RING subunit in the DCX DET1-COP1 complex that negatively regulates JUN, the ubiquitin ligase activity being mediated by RBX1. Involved in 14-3-3 protein sigma/SFN ubiquitination and proteasomal degradation, leading to AKT activation and promotion of cell survival. Ubiquitinates MTA1 leading to its proteasomal degradation. Upon binding to TRIB1, ubiquitinates CEBPA, which lacks a canonical COP1-binding motif (Probable).
+Subcellular Location	Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	109..113;195..206
+UniprotNESRegion	235..245
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	231...241
+nlsdbnls_region	111...116
+validnes_region	231...241
+nesbase_region	
+Sequence	MSGSRQAGSGSAGTSPGSSAASSVTSASSSLSSSPSPPSVAVSAAALVSGGVAQAAGSGGLGGPVRPVLVAPAVSGSGGGAVSTGLSRHSCAARPSAGVGGSSSSLGSGSRKRPLLAPLCNGLINSYEDKSNDFVCPICFDMIEEAYMTKCGHSFCYKCIHQSLEDNNRCPKCNYVVDNIDHLYPNFLVNELILKQKQRFEEKRFKLDHSNGHRWQIFQDWLGTDQDNLDLANVNLMLELLVQKKKQLEAESHAAQLQILMEFLKVARRNKREEMSGLYSPVSEDSTVPQFEAPSPSHSSIIDSTEYSQPPGFSGSSQTKKQPWYNSTLASRRKRLTAHFEDLEQCYFSTRMSRISDDSRTASQLDEFQECLSKFTRYNSVRPLATLSYASDLYNGSSIVSSIEFDRDCDYFAIAGVTKKIKVYEYDTVIQDAVDIHYPENEMTCNSKISCISWSSYHKNLLASSDYEGTVILWDGFTGQRSKVYQEHEKRCWSVDFNLMDPKLLASGSDDAKVKLWSTNLDNSVASIEAKANVCCVKFSPSSRYHLAFGCADHCVHYYDLRNTKQPIMVFKGHRKAVSYAKFVSGEEIVSASTDSQLKLWNVGKPYCLRSFKGHINEKNFVGLASNGDYIACGSENNSLYLYYKGLSKTLLTFKFDTVKSVLDKDRKEDDTNEFVSAVCWRALPDGESNVLIAANSQGTIKVLELV
+PTM	Methylation:195,269,284,689;Phosphorylation:108,110;SUMOylation:112,206,250,344,345,398,589,629,673,684,692;Ubiquitylation:195,345,629,684

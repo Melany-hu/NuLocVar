@@ -1,0 +1,25 @@
+UniprotID	W0TYI6
+Accession	W0TYI6
+EntryName	W0TYI6_HUMAN
+ProteinName	H2B histone family, member M
+GeneName	H2BFM LL0XNC01-240C2.2-001
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAASAMAEASSETTSEEGQSIQEPKEANSTKAQKQKRRGCRGSRRRHANRRGDSFGDSFTPYFPRVLKQVHQGLSLSQEAVSVMDSMIHDILDRIATEAGQLAHYTKRVTITSRDIQMAVRLLLPGKMGKLAEAQGTNAALRTSLCAIWQQRK
+PTM	

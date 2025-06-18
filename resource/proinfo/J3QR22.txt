@@ -1,0 +1,25 @@
+UniprotID	J3QR22
+Accession	J3QR22
+EntryName	J3QR22_HUMAN
+ProteinName	Transmembrane protein 241
+GeneName	TMEM241
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DVREEVSGRPHLLYLLPGFLPHEQVCAVCLEIYLPYIIPRVADAHWWTFASCVLETGLGRDQQQFKISCSCVASCFSAVCGYNLCWVQSIVQTGHSCVSHFA
+PTM	

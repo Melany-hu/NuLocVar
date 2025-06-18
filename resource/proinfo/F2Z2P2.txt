@@ -1,0 +1,25 @@
+UniprotID	F2Z2P2
+Accession	F2Z2P2
+EntryName	F2Z2P2_HUMAN
+ProteinName	Dual specificity phosphatase 18
+GeneName	DUSP18
+Length	117
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAPSCAFPVQFRQPSVSGLSQITKSLYISNGVAANNKLMLSSNQITMVINVSVERGDEAGPYFAALCCWCEPLSCPVPRLPHEVPRHVPAGRPHVDQVMPAHHPTQQRLLGAAHPL
+PTM	

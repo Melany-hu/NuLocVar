@@ -1,0 +1,25 @@
+UniprotID	E9PIS6
+Accession	E9PIS6
+EntryName	E9PIS6_HUMAN
+ProteinName	Tetratricopeptide repeat domain 12
+GeneName	TTC12
+Length	171
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	70...75
+validnes_region	
+nesbase_region	
+Sequence	MNSDDPVVQQKAVLETEKRLLLMEEDQEEDECRTTLNKTMISPPQTAMKSAEEINSEAFLASVEKDAKERAKRRRENKVLADALKEKGNEAFAEGNYETAILRYSEGLEKLKDMKVLYTNRAQAYMKLEDYEKALVDCEWALKCDEKCTKAYFHMGKANLALKNYSVSREC
+PTM	

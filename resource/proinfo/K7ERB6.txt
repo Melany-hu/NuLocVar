@@ -1,0 +1,25 @@
+UniprotID	K7ERB6
+Accession	K7ERB6
+EntryName	K7ERB6_HUMAN
+ProteinName	PSMC3 interacting protein
+GeneName	PSMC3IP hCG_16948
+Length	154
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYGKQKIYFADQDQFDMVSDADLQVLDGKIVALTAKVQSLQQSCRYMEAELKELSSALTTPEMQKEIQELKKECAGYRERLKNIKAATNHVTPEEKEQVYRERQKYCKEWRKRKRMATELSDAILEGYPKSKKQFFEEVGIETDEDYNVTLPDP
+PTM	

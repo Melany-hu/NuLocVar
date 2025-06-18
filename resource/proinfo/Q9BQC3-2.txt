@@ -1,0 +1,25 @@
+UniprotID	Q9BQC3-2
+Accession	Q9BQC3;A8MVC9;B2RDE3;B4DNI8;O60623
+EntryName	DPH2_HUMAN
+ProteinName	2-(3-amino-3-carboxypropyl)histidine synthase subunit 2 (Diphthamide biosynthesis protein 2) (Diphtheria toxin resistance protein 2) (S-adenosyl-L-methionine:L-histidine 3-amino-3-carboxypropyltransferase 2)
+GeneName	DPH2 DPH2L2
+Length	261
+Function	Required for the first step of diphthamide biosynthesis, a post-translational modification of histidine which occurs in elongation factor 2 (PubMed:32576952). DPH1 and DPH2 transfer a 3-amino-3-carboxypropyl (ACP) group from S-adenosyl-L-methionine (SAM) to a histidine residue, the reaction is assisted by a reduction system comprising DPH3 and a NADH-dependent reductase (By similarity). Facilitates the reduction of the catalytic iron-sulfur cluster found in the DPH1 subunit (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESMFSSPAEAALQRETGVPGLLTPLPDLDGVYELERVAGFVRDLGCERVALQFPDQLLGDAVAVAARLEETTGSKMFILGDTAYGSCCVDVLGAEQAGAQALIHFGPACLSPPARPLPVAFVLRQRSVALELCVKAFEAQNPDPKAPVVLLSEPACAHALGSPFHVALPPPESELWETPDVSLITGDLRPPPAWKSSNDHGSLALTPRPQLELAESSPAASFLSSRSWQGLEPRLGQTPVTEAVSGRRGIAIAYEDEGSG
+PTM	Glycosylation:470;Methylation:312;Phosphorylation:7,314,435,445,446,450,456,467,470,474,483,488;Ubiquitylation:256,312

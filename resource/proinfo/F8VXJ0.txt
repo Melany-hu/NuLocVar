@@ -1,0 +1,25 @@
+UniprotID	F8VXJ0
+Accession	F8VXJ0
+EntryName	F8VXJ0_HUMAN
+ProteinName	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC 2.4.1.256)
+GeneName	ALG10B
+Length	126
+Function	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase that operates in the biosynthetic pathway of dolichol-linked oligosaccharides, the glycan precursors employed in protein asparagine (N)-glycosylation. The assembly of dolichol-linked oligosaccharides begins on the cytosolic side of the endoplasmic reticulum membrane and finishes in its lumen. The sequential addition of sugars to dolichol pyrophosphate produces dolichol-linked oligosaccharides containing fourteen sugars, including two GlcNAcs, nine mannoses and three glucoses. Once assembled, the oligosaccharide is transferred from the lipid to nascent proteins by oligosaccharyltransferases. In the lumen of the endoplasmic reticulum, adds the third and last glucose residue from dolichyl phosphate glucose (Dol-P-Glc) onto the lipid-linked oligosaccharide intermediate Glc(2)Man(9)GlcNAc(2)-PP-Dol to produce Glc(3)Man(9)GlcNAc(2)-PP-Dol.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQLEGYCFSAALSCTFLVSCLLFSAFSRALREPYMDEIFHLPQAQRYCEGHFSLSQWDPMITTLPGLYLVSVGVVKPAIWIFAWSEHVVCSIGMLRFVNLLFSVGNFYLLYLLFHKVQPRNKEYF
+PTM	

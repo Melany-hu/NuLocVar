@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5H8
+Accession	A0A2R8Y5H8
+EntryName	A0A2R8Y5H8_HUMAN
+ProteinName	RIMS binding protein 2
+GeneName	RIMBP2
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREAAERRQQLQLEHDQALAVLSAKQQEIDLLQKAQVEAKKEHEGAVRLLESKVRELEEKCRTQSEQFNLLSRDLEKFRQHAGKIDLLGGSAVAPLDISTAPSKPFPQFMNGLATSLGK
+PTM	

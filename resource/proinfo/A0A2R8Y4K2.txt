@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y4K2
+Accession	A0A2R8Y4K2
+EntryName	A0A2R8Y4K2_HUMAN
+ProteinName	L-gulonate 3-dehydrogenase (EC 1.1.1.45) (L-gulonate 3-dehydrogenase)
+GeneName	CRYL1 hCG_20495
+Length	265
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSAAGCVVIVGSGVIGRSWAMLFASGGFQVKLYDIEQQQIRNALENIRKEMKLLEQAGSLKGSLSVEEQLSLISGCPNIQEAVEGAMHIQVNPPYYIPLVELVPHPETAPTTVDRTHALMKKIGQCPMRVQKEVAGFVLNRLQYAIISEAWRLVEEGIVSPSDLDLVMSEGLGMRYAFIGPLETMHLNAEGMLSYCDRYSEGIKHVLQTFGPIPEFSRATAEKVNQDMCMKVPDDPEHLAARRQWRDECLMRLAKLKSQVQPQ
+PTM	

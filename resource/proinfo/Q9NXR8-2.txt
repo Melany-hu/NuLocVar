@@ -1,0 +1,25 @@
+UniprotID	Q9NXR8-2
+Accession	Q9NXR8;A8K790;O60394;Q567P3;Q6GMT3;Q7Z762;Q969G0;Q96DT4;Q9HC99;Q9P081
+EntryName	ING3_HUMAN
+ProteinName	Inhibitor of growth protein 3 (p47ING3)
+GeneName	ING3 HSPC301
+Length	92
+Function	Component of the NuA4 histone acetyltransferase (HAT) complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative senescence, apoptosis, and DNA repair. NuA4 may also play a direct role in DNA repair when directly recruited to sites of DNA damage. Component of a SWR1-like complex that specifically mediates the removal of histone H2A.Z/H2AZ1 from the nucleosome.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	51...56
+validnes_region	
+nesbase_region	
+Sequence	MLYLEDYLEMIEQLPMDLRDRFTEMREMDLQVQNAMDQLEQRVSEFFMNAKKNKPEWREEQMASIKKDYYKALEDADEKVQLANQIYDLQHF
+PTM	Acetylation:51,103,164,167,181,256,264,400;Methylation:103;Phosphorylation:123,140,142,246,247,252,296;SUMOylation:66,79,105,148,165,167,249,256,264;Ubiquitylation:54,79

@@ -1,0 +1,25 @@
+UniprotID	Q96RF0-2
+Accession	Q96RF0;B4E2B3;H7BXX3;Q05BB3;Q0VG02
+EntryName	SNX18_HUMAN
+ProteinName	Sorting nexin-18 (SH3 and PX domain-containing protein 3B)
+GeneName	SNX18 SH3PXD3B
+Length	624
+Function	Involved in endocytosis and intracellular vesicle trafficking, both during interphase and at the end of mitosis (PubMed:18411244, PubMed:20427313, PubMed:21048941, PubMed:22718350). Required for efficient progress through mitosis and cytokinesis (PubMed:22718350). Required for normal formation of the cleavage furrow at the end of mitosis (PubMed:22718350). Plays a role in endocytosis via clathrin-coated pits, but also clathrin-independent, actin-dependent fluid-phase endocytosis (PubMed:20427313). Plays a role in macropinocytosis (PubMed:21048941). Binds to membranes enriched in phosphatidylinositol 4,5-bisphosphate and promotes membrane tubulation (PubMed:18411244). Stimulates the GTPase activity of DNM2 (PubMed:20427313). Promotes DNM2 location at the plasma membrane (PubMed:20427313). Together with DNM2, involved in autophagosome assembly by regulating trafficking from recycling endosomes of phospholipid scramblase ATG9A (PubMed:29437695).
+Subcellular Location	Endomembrane system; Endosome membrane; Recycling endosome membrane; Cell membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	393...398;394...399
+validnes_region	
+nesbase_region	
+Sequence	MALRARALYDFRSENPGEISLREHEVLSLCSEQDIEGWLEGVNSRGDRGLFPASYVQVIRAPEPGPAGDGGPGAPARYANVPPGGFEPLPVAPPASFKPPPDAFQALLQPQQAPPPSTFQPPGAGFPYGGGALQPSPQQLYGGYQASQGSDDDWDDEWDDSSTVADEPGALGSGAYPDLDGSSSAGVGAAGRYRLSTRSDLSLGSRGGSVPPQHHPSGPKSSATVSRNLNRFSTFVKSGGEAFVLGEASGFVKDGDKLCVVLGPYGPEWQENPYPFQCTIDDPTKQTKFKGMKSYISYKLVPTHTQVPVHRRYKHFDWLYARLAEKFPVISVPHLPEKQATGRFEEDFISKRRKGLIWWMNHMASHPVLAQCDVFQHFLTCPSSTDEKAWKQGKRKAEKDEMVGANFFLTLSTPPAAALDLQEVESKIDGFKCFTKKMDDSALQLNHTANEFARKQVTGFKKEYQKVGQSFRGLSQAFELDQQAFSVGLNQAIAFTGDAYDAIGELFAEQPRQDLDPVMDLLALYQGHLANFPDIIHVQKGALTKVKESRRHVEEGKMEVQKADGIQDRCNTISFATLAEIHHFHQIRVRDFKSQMQHFLQQQIIFFQKVTQKLEEALHKYDSV
+PTM	Acetylation:437;Methylation:206,253,466;Phosphorylation:20,78,96,196,197,199,202,205,209,233,234,613;SUMOylation:237,437,461;Ubiquitylation:220,253,338,351,432,455,466

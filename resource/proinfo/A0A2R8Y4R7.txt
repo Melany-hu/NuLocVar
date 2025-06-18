@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y4R7
+Accession	A0A2R8Y4R7
+EntryName	A0A2R8Y4R7_HUMAN
+ProteinName	Mitochondrial tRNA-specific 2-thiouridylase 1 (EC 2.8.1.14)
+GeneName	TRMU
+Length	331
+Function	Catalyzes the 2-thiolation of uridine at the wobble position (U34) of mitochondrial tRNA(Lys), tRNA(Glu) and tRNA(Gln). Required for the formation of 5-taurinomethyl-2-thiouridine (tm5s2U) of mitochondrial tRNA(Lys), tRNA(Glu), and tRNA(Gln) at the wobble position. ATP is required to activate the C2 atom of the wobble base.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNWDSLDEHGVCTADKDCEDAYRVCQILDIPFHQVSYVKEYWNDVFSDFLNEYEKGRTPNPDIVCNKHIKFSCFFHYAVDNLGADAIATGHYARTSLEDEEVFEQKHVKKPEGLFRNRFEVRNAVKLLQAADSFKDQTFFLSQVSQDALRRTIFPLGGLTKEFVKKIAAENRLHHVLQKKESMGMCFIGKRNFEHFLLQYLQPRPGHFISIEDNKVLGTHKGWFLYTLGQRANIGGLREPWYVVEKDSVKGDVFVAPRTDHPALYRDLLRTSRVHWIAEEPPAALVRDKMMECHFRFRHQMALVPCVLTLNQDGTVWVTAVQAVRALATG
+PTM	

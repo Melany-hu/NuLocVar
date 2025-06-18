@@ -1,0 +1,25 @@
+UniprotID	Q9UMS0-2
+Accession	Q9UMS0;B4DUL9;Q53QE5;Q6VNZ8;Q7Z5B1;Q7Z5B2;Q9Y322
+EntryName	NFU1_HUMAN
+ProteinName	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial (HIRA-interacting protein 5)
+GeneName	NFU1 HIRIP5 CGI-33
+Length	113
+Function	Iron-sulfur cluster scaffold protein which can assemble  clusters and deliver them to target proteins.
+Subcellular Location	Mitochondrion; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFFASGLPLVTEETPSGEAGSEEDDEVVAMIKELLDTRIRPTVQEDGGDVIYKGFEDGIVQLKLQGSCTSCPSSIITLKNGIQNMLQFYIPEVEGVEQVMDDESDEKEANSP
+PTM	Methylation:7,110,123,134,205,221

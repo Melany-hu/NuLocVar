@@ -1,0 +1,25 @@
+UniprotID	B4E372
+Accession	B4E372
+EntryName	B4E372_HUMAN
+ProteinName	RCC1 and BTB domain containing protein 2 (cDNA FLJ54251, highly similar to RCC1 and BTB domain-containing protein 2)
+GeneName	RCBTB2
+Length	277
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGVTTETGSLDSATVATSQPLAEWQLCKASVSRGIIEIAACHSTHTSAAKTQGGHVYMWGQCRGQSVILPHLTHFSCTDDVFACFATPAVTWRLLSVEPDDHLTVAESLKREFDNPDTADLKFLVDGKYIYAHKVLLKIRCEHFRSSLEDNEDDIVEMSEFSYPVYRAFLEYLYTDSISLSPEEAVGLLDLATFYRENRLKKLCQQTIKQGICEENAIALLSAAVKYDAQDLEEFCFRFCINHLTVVTQTSGFAEMDHDLLKNFISKASRVGAFKN
+PTM	

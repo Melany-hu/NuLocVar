@@ -1,0 +1,25 @@
+UniprotID	P27105-2
+Accession	P27105;B1AM77;Q14087;Q15609;Q5VX96;Q96FK4
+EntryName	STOM_HUMAN
+ProteinName	Stomatin (Erythrocyte band 7 integral membrane protein) (Erythrocyte membrane protein band 7.2) (Protein 7.2b)
+GeneName	STOM BND7 EPB72
+Length	123
+Function	Regulates ion channel activity and transmembrane ion transport. Regulates ASIC2 and ASIC3 channel activity.
+Subcellular Location	Cell membrane; Cytoplasm; Cytoskeleton; Cell membrane; Membrane raft; Melanosome; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEKRHTRDSEAQRLPDSFKDSPSKGLGPCGWILVAFSFLFTVITFPISIWMCIKVIAAEGEMNASRALKEASMVITESPAALQLRYLQTLTTIAAEKNSTIVFPLPIDMLQGIIGAKHSHLG
+PTM	Acetylation:20;Glycosylation:128,138;Methylation:77,93,111,195;Phosphorylation:7,10,18,90,161,231,238,242,244;SUMOylation:188;Ubiquitylation:20,77,158,188,198,220,235,283

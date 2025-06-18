@@ -1,0 +1,25 @@
+UniprotID	Q702N8-3
+Accession	Q702N8;A0JP25;A4QPE2;Q68DF2;Q6ZTR3;Q702N9;Q8IVN7;Q8N1N3;Q8N904;Q8TCG7
+EntryName	XIRP1_HUMAN
+ProteinName	Xin actin-binding repeat-containing protein 1 (Cardiomyopathy-associated protein 1)
+GeneName	XIRP1 CMYA1 XIN
+Length	526
+Function	Protects actin filaments from depolymerization (PubMed:15454575). Required for correct cardiac intercalated disk ultrastructure via maintenance of cell-cell adhesion stability, and as a result maintains cardiac organ morphology, conductance and heart beat rhythm (By similarity). Required for development of normal skeletal muscle morphology and muscle fiber type composition (By similarity). Plays a role in regulating muscle satellite cell activation and survival, as a result promotes muscle fiber recovery from injury and fatigue (By similarity).
+Subcellular Location	Cell junction; Adherens junction; Cell junction; Desmosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPKKKPQLPPKPAHLTQSHPPQRLPKPLPLSPSFSSEVGQREHQRGERDTAIPQPAKVPTTVDQGHIPLARCPSGHSQPSLQHGLSTTAPRPTKNQATGSNAQSSEPPKLNALNHDPTSPQWGPGPSGEQPMEGSHQGAPESPDSLQRNQKELQGLLNQVQALEKEAASSVDVQALRRLFEAVPQLGGAAPQAPAAHQKPEASVEQAFGELTRVSTEVAQLKEQTLARLLDIEEAVHKALSSMSSLQPEASARGHFQGPPKDHSAHKISVTVSSSARPSGSGQEVGGQTAVKNQAKVECHTEAQSQVKIRNHTEARGHTASTAPSTRRQETSREYLCPPRVLPSSRDSPSSPTFISIQSATRKPLETPSFKGNPDVSVKSTQLAQDIGQALLHQKGVQDKTGKKDITQCSVQPEPAPPSASPLPRGWQKSVLELQTGPGSSQHYGAMRTVTEQYEEVDQFGNTVLMSSTTVTEQAEPPRNPGSHLGLHASPLLRQFLHSPAGFSSDLTEAETVQVSCSYSQPAAQ
+PTM	Methylation:225,358,435,572,609,858,892,1035,1075,1483;Phosphorylation:41,52,138,139,205,208,213,295,425,427,481,498,527,529,682,684,690,694,724,757,925,1023,1042,1121,1349,1351,1392,1398,1404,1405,1460,1666,1669,1739,1808

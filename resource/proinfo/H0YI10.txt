@@ -1,0 +1,25 @@
+UniprotID	H0YI10
+Accession	H0YI10
+EntryName	H0YI10_HUMAN
+ProteinName	Ceramide synthase 5
+GeneName	CERS5
+Length	259
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATAAQGPLSLLWGWLWSERFWLPENVSWADLEGPADGYGYPRGRHILSVFPLAAGIFFVRLLFERFIAKPCALCIGIEDSGPYQAQPNAILEKVFISITKYPDKKRLEGLSKQLDWNVRKIQCWFRHRRNQDKPPTLTKFCESMWRFTFYLCIFCYGIRFLWSSPWFWDIRQCWHNYPFQDFLIMFVHHLVTIGLISFSYINNMVRVGTLIMCLHDVSDFLLEAAKLANYAKYQRLCDTLFVIFSAVFMVTRLGIYPF
+PTM	

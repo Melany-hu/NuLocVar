@@ -1,0 +1,25 @@
+UniprotID	Q5T9C9-2
+Accession	Q5T9C9;Q8IVS3
+EntryName	PI5L1_HUMAN
+ProteinName	Phosphatidylinositol 4-phosphate 5-kinase-like protein 1 (PI(4)P 5-kinase-like protein 1) (PtdIns(4)P-5-kinase-like protein 1) (EC 2.7.1.68)
+GeneName	PIP5KL1
+Length	191
+Function	May act as a scaffold to localize and regulate type I PI(4)P 5-kinases to specific compartments within the cell, where they generate PI(4,5)P2 for actin nucleation, signaling and scaffold protein recruitment and conversion to PI(3,4,5)P3.
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQSVFYPAGRISERYDIKGCEVSRWVDPAPEGSPLVLVLKDLNFQGKTINLGPQRSWFLRQMELDTTFLRELNVLDYSLLIAFQRLHEDERGPGSSLIFRTARSVQGAQSPEESRAQNRRLLPDAPNALHILDGPEQRYFLGVVDLATVYGLRKRLEHLWKTLRYPGRTFSTVSPARYARRLCQWVEAHTE
+PTM	Methylation:153,243;Phosphorylation:5

@@ -1,0 +1,25 @@
+UniprotID	D6RJ89
+Accession	D6RJ89
+EntryName	D6RJ89_HUMAN
+ProteinName	Acyl-CoA oxidase 3, pristanoyl
+GeneName	ACOX3
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFKSPLKVPALIQCLGMYDSSLAAKYLLHSLVFGSAVYSSGSERHLTYIQKIFRMEIFGCFALTELSHGSNTKAIRTTAHYDPATEEFIIHSPDFEAAKFWVGNMGKTAT
+PTM	

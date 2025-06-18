@@ -1,0 +1,25 @@
+UniprotID	B4DV37
+Accession	B4DV37
+EntryName	B4DV37_HUMAN
+ProteinName	Basic leucine zipper ATF-like transcription factor 2 (cDNA FLJ54822)
+GeneName	BATF2
+Length	250
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPVGKRIGGLGDTRVGGPCISQQHESLEKDNLALRKEIQSLQAELAWWSRTLHVHERLCPMDCASCSAPGLLGCWDQAEGLLGPGPQGQHGCREQLELFQTPGSCYPAQPLSPGPQPHDSPSLLQCPLPSLSLGPAVVAEPPVQLSPSPLLFASHTGSSLQGSSSKLSALQPSLTAQTAPPQPLELEHPTRGKLGSSPDNPSSALGLARLQSREHKPALSAATWQGLVVDPSPHPLLAFPLLSSAQVHF
+PTM	

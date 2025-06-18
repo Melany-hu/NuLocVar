@@ -1,0 +1,25 @@
+UniprotID	F5H1S4
+Accession	F5H1S4
+EntryName	F5H1S4_HUMAN
+ProteinName	Transmembrane BAX inhibitor motif containing 4
+GeneName	TMBIM4
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADPDPRYPRSSIEDDFNYGSSVASATVHIRMDAVGSSDCGSCCYFL
+PTM	

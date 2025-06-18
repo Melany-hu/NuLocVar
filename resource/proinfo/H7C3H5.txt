@@ -1,0 +1,25 @@
+UniprotID	H7C3H5
+Accession	H7C3H5
+EntryName	H7C3H5_HUMAN
+ProteinName	WD repeat domain 27
+GeneName	WDR27
+Length	195
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEVEAALYYKDFQSLSILLAGSCALRNRTADQKVLCLLASLFGGKIAVLEINPAALVRAQQCPSMGQSLSVPASSCVLPTSPLYLGIAKEKSTKAASEQRRAARNVMKDQRLVFHSKVRSSGYASAPHVTMFSPKTNIKSEGKGSSRSRSSCAREAYPVECAVPTKPGPQVAAAPTCTRVCCIQYSGAPRPAGAG
+PTM	

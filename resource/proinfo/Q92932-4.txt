@@ -1,0 +1,25 @@
+UniprotID	Q92932-4
+Accession	Q92932;E9PC57;Q8N4I5;Q92662;Q9Y4F8;Q9Y4I6
+EntryName	PTPR2_HUMAN
+ProteinName	Receptor-type tyrosine-protein phosphatase N2 (R-PTP-N2) (EC 3.1.3.-) (EC 3.1.3.48) (Islet cell autoantigen-related protein) (IAR) (ICAAR) (Phogrin) [Cleaved into: IA-2beta60]
+GeneName	PTPRN2 KIAA0387
+Length	998
+Function	Plays a role in vesicle-mediated secretory processes. Required for normal accumulation of secretory vesicles in hippocampus, pituitary and pancreatic islets. Required for the accumulation of normal levels of insulin-containing vesicles and preventing their degradation. Plays a role in insulin secretion in response to glucose stimuli. Required for normal accumulation of the neurotransmitters norepinephrine, dopamine and serotonin in the brain. In females, but not in males, required for normal accumulation and secretion of pituitary hormones, such as luteinizing hormone (LH) and follicle-stimulating hormone (FSH) (By similarity). Required to maintain normal levels of renin expression and renin release (By similarity). May regulate catalytic active protein-tyrosine phosphatases such as PTPRA through dimerization (By similarity). Has phosphatidylinositol phosphatase activity; the PIPase activity is involved in its ability to regulate insulin secretion. Can dephosphorylate phosphatidylinositol 4,5-biphosphate (PI(4,5)P2), phosphatidylinositol 5-phosphate and phosphatidylinositol 3-phosphate (By similarity). Regulates PI(4,5)P2 level in the plasma membrane and localization of cofilin at the plasma membrane and thus is indirectly involved in regulation of actin dynamics related to cell migration and metastasis; upon hydrolysis of PI(4,5)P2 cofilin is released from the plasma membrane and acts in the cytoplasm in severing F-actin filaments (PubMed:26620550).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Cytoplasmic vesicle; Secretory vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPPLPLLLLLLLLLPPRVLPAAPSSVPRGRQLPGRLDGVFGRCQKVPAMDFYRYEVSPVALQRLRVALQKLSGTGFTWQDDYTQYVMDQELADLPKTYLRRPEASSPARPSKHSVGSERRYSREGGAALANALRRHLPFLEALSQAPASDVLARTHTAQDRPPAEGDDRFSESILTYVAHTSALTYPPGSRTQLREDLLPRTLGQLQPDELSPKVDSGVDRHHLMAALSAYAAQRPPAPPGEGSLEPQYLLRAPSRMPRPLLAPAAPQKWPSPLGDSEDPSSTGDGARIHTLLKDLQRQPAEVRGLSGLELDGMAELMAGLMQGVDHGVARGSPGRAALGESGEQADGPKATLRGDSFPDDGVQDDDDRLYQEVHRLSATLGGLLQDHGSRLLPGALPFARPLDMERKKSEHPESSLSSEEETAGVENVKSQTYSKDLLGQQPHSEPGAAAFGELQNQMPGPSKEEQSLPAGAQEALSDGLQLEVQPSEEEARGYIVTDRDPLRPEEGRRLVEDVARLLQVPSSAFADVEVLGPAVTFKVSANVQNVTTEDVEKATVDNKDKLEETSGLKILQTGVGSKSKLKFLPPQAEQEDSTKFIALTLVSLACILGVLLASGLIYCLRHSSQHRLKEKLSGLGGDPGADATAAYQELCRQRMATRPPDRPEGPHTSRISSVSSQFSDGPIPSPSARSSASSWSEEPVQSNMDISTGHMILSYMEDHLKNKNRLEKEWEALCAYQAEPNSSFVAQREENVPKNRSLAVLTYDHSRVLLKAENSHSHSDYINASPIMDHDPRNPAYIATQGPLPATVADFWQMVWESGCVVIVMLTPLAENGVRQCYHYWPDEGSNLYHIYEVNLVSEHIWCEDFLVRSFYLKNLQTNETRTVTQFHFLSWYDRGVPSSSRSLLDFRRKVNKCYRGRSCPIIVHCSDGAGRSGTYVLIDMVLNKMAKGAKEIDIAATLEHLRDQRPGMVQTKEQFEFALTAVAEEVNAILKALPQ
+PTM	Glycosylation:564,894,898;Methylation:88,114,232,448,588,790,964,992;Phosphorylation:220,230,273,360,433,436,437,506,555,559,567,692,704;SUMOylation:557;Ubiquitylation:648,650,747

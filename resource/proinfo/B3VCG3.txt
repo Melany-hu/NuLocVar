@@ -1,0 +1,25 @@
+UniprotID	B3VCG3
+Accession	B3VCG3
+EntryName	B3VCG3_HUMAN
+ProteinName	Beta chimaerin isoform B2-CHNdel ex6-11p
+GeneName	CHN2
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASSNSSLSGSSVSSDAEEYQPPIWKSYLYQLQQEAPRPKRIICPREVENRPKYYGREFHGIISREQADELLGGVEGAYILRESQRQPGCYTLALRDAAKISNADERLEAVHEVLMLLPPAHYETLRYLMIHLKKVTMNEKDNFMNAENLGIVFGPTLMRPPEDSTLTTLHDMRYQKLIVQILIENEDVLF
+PTM	

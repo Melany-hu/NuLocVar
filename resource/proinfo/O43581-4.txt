@@ -1,0 +1,25 @@
+UniprotID	O43581-4
+Accession	O43581;F5GZC2;F5GZU9;F5H126;F5H1N2;F5H6C1;Q08AH6
+EntryName	SYT7_HUMAN
+ProteinName	Synaptotagmin-7 (IPCA-7) (Prostate cancer-associated protein 7) (Synaptotagmin VII) (SytVII)
+GeneName	SYT7 PCANAP7
+Length	611
+Function	Ca(2+) sensor involved in Ca(2+)-dependent exocytosis of secretory and synaptic vesicles through Ca(2+) and phospholipid binding to the C2 domain (By similarity). Ca(2+) induces binding of the C2-domains to phospholipid membranes and to assembled SNARE-complexes; both actions contribute to triggering exocytosis (By similarity). SYT7 binds Ca(2+) with high affinity and slow kinetics compared to other synaptotagmins (By similarity). Involved in Ca(2+)-triggered lysosomal exocytosis, a major component of the plasma membrane repair (PubMed:11342594). Ca(2+)-regulated delivery of lysosomal membranes to the cell surface is also involved in the phagocytic uptake of particles by macrophages (By similarity). Ca(2+)-triggered lysosomal exocytosis also plays a role in bone remodeling by regulating secretory pathways in osteoclasts and osteoblasts (By similarity). In case of infection, involved in participates cell invasion by Trypanosoma cruzi via Ca(2+)-triggered lysosomal exocytosis (PubMed:11342594, PubMed:15811535). Involved in cholesterol transport from lysosome to peroxisome by promoting membrane contacts between lysosomes and peroxisomes: probably acts by promoting vesicle fusion by binding phosphatidylinositol-4,5-bisphosphate on peroxisomal membranes (By similarity). Acts as a key mediator of synaptic facilitation, a process also named short-term synaptic potentiation: synaptic facilitation takes place at synapses with a low initial release probability and is caused by influx of Ca(2+) into the axon terminal after spike generation, increasing the release probability of neurotransmitters (By similarity). Probably mediates synaptic facilitation by directly increasing the probability of release (By similarity). May also contribute to synaptic facilitation by regulating synaptic vesicle replenishment, a process required to ensure that synaptic vesicles are ready for the arrival of the next action potential: SYT7 is required for synaptic vesicle replenishment by acting as a sensor for Ca(2+) and by forming a complex with calmodulin (By similarity). Also acts as a regulator of Ca(2+)-dependent insulin and glucagon secretion in beta-cells (By similarity). Triggers exocytosis by promoting fusion pore opening and fusion pore expansion in chromaffin cells (By similarity). Also regulates the secretion of some non-synaptic secretory granules of specialized cells (By similarity).
+Subcellular Location	Cell membrane; Presynaptic cell membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Lysosome membrane; Cytoplasmic vesicle; Phagosome membrane; Peroxisome membrane; Cytoplasmic vesicle; Secretory vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYRDPEAASPGAPSRDVLLVSAIITVSLSVTVVLCGLCHWCQRKLGKRYKNSLETVGTPDSGRGRSEKKAINDLDRDFWNNNESTVQQKWSSYPPKEFILNISPYAPYGDPRLSLNFEDSTLSTATTLESIPSSTGEPKCQRPRTLMRQQSLQQPLSQHQRGRQPSQPTTSQSLGQLQAHMASAPGPNPRAYGRGQARQGTSAGSKYRAAGGRSRSNPGSWDHVVGQIRNRGLDMKSFLEGRMVVLSLVLGLSEQDDFANIPDLQNPGTQQNQNAQGDKRLPAGGKAVNTAPVPGQTPHDESDRRTEPRSSVSDLVNSLTSEMLMLSPGSEEDEAHEGCSRENLGRIQFSVGYNFQESTLTVKIMKAQELPAKDFSGTSDPFVKIYLLPDKKHKLETKVKRKNLNPHWNETFLFEGFPYEKVVQRILYLQVLDYDRFSRNDPIGEVSIPLNKVDLTQMQTFWKDLKPCSDGSGSRGELLLSLCYNPSANSIIVNIIKARNLKAMDIGGTSDPYVKVWLMYKDKRVEKKKTVTMKRNLNPIFNESFAFDIPTEKLRETTIIITVMDKDKLSRNDVIGKIYLSWKSGPGEVKHWKDMIARPRQPVAQWHQLKA
+PTM	Methylation:289,369;Phosphorylation:14,49,52,55,58,61,305,362;SUMOylation:50;Ubiquitylation:50

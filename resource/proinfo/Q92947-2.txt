@@ -1,0 +1,25 @@
+UniprotID	Q92947-2
+Accession	Q92947;A8K2Z2;O14719
+EntryName	GCDH_HUMAN
+ProteinName	Glutaryl-CoA dehydrogenase, mitochondrial (GCD) (EC 1.3.8.6)
+GeneName	GCDH
+Length	428
+Function	Catalyzes the oxidative decarboxylation of glutaryl-CoA to crotonyl-CoA and CO(2) in the degradative pathway of L-lysine, L-hydroxylysine, and L-tryptophan metabolism. It uses electron transfer flavoprotein as its electron acceptor. Isoform Short is inactive.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRGVSVRLLSRGPGLHVLRTWVSSAAQTEKGGRTQSQLAKSSRPEFDWQDPLVLEEQLTTDEILIRDTFRTYCQERLMPRILLANRNEVFHREIISEMGELGVLGPTIKGYGCAGVSSVAYGLLARELERVDSGYRSAMSVQSSLVMHPIYAYGSEEQRQKYLPQLAKGELLGCFGLTEPNSGSDPSSMETRAHYNSSNKSYTLNGTKTWITNSPMADLFVVWARCEDGCIRGFLLEKGMRGLSAPRIQGKFSLRASATGMIIMDGVEVPEENVLPGASSLGGPFGCLNNARYGIAWGVLGASEFCLHTARQYALDRMQFGVPLARNQLIQKKLADMLTEITLGLHACLQLGRLKDQDKAAPEMVSLLKRNNCGKALDIARQARDMLGGNGISDEYHVIRHAMNLEAVNTYEVVQMCSLKRRWNSL
+PTM	Acetylation:240,253,371;Methylation:42,170,240,334,371;Phosphorylation:38,135,246,255,368,435;Ubiquitylation:32,253,371

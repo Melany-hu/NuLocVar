@@ -1,0 +1,25 @@
+UniprotID	Q8N983-6
+Accession	Q8N983;B1AL06;B1AL07;B1AL09;B1AL10;C9J5Q3;D3DR71;Q5JW06;Q7Z719;Q7Z7H6;Q86XN1;Q9BYC7
+EntryName	RM43_HUMAN
+ProteinName	Large ribosomal subunit protein mL43 (39S ribosomal protein L43, mitochondrial) (L43mt) (MRP-L43) (Mitochondrial ribosomal protein bMRP36a)
+GeneName	MRPL43
+Length	235
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTARGTPSRFLASVLHNGLGRYVQQLQRLSFSVSRDGASSRGAREFVEREVIDFARRNPGVVIYVNSRPCCVPRVVAEYLNGAVREESIHCKSVEEISTLVQKLADQSGLDVIRIRKPFHTDNPSIQGQWHPFTNKPTTFRGLRPREVQDPAPAQDAAEFLGEGAGPCWYSIVALPQKHIAIAIHPPQPAGQCHQAIGHWPETVCSCTADPPARLARPNISSVIRSSLGKYPLPS
+PTM	Methylation:4;Phosphorylation:93;Ubiquitylation:117,136

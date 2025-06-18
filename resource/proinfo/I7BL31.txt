@@ -1,0 +1,25 @@
+UniprotID	I7BL31
+Accession	I7BL31
+EntryName	I7BL31_HUMAN
+ProteinName	Protein C (EC 3.4.21.69)
+GeneName	PROC
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TVTSAWSCPWSTRAPACAAGTARASTASAASAATAAAAGRAASASA
+PTM	

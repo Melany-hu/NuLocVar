@@ -1,0 +1,25 @@
+UniprotID	X6RGC9
+Accession	X6RGC9
+EntryName	X6RGC9_HUMAN
+ProteinName	TYRO protein tyrosine kinase-binding protein (DNAX-activation protein 12)
+GeneName	TYROBP
+Length	101
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGLEPCSRLLLLPLLLAVSDCSCSTVSPGVLAGIVMGDLVLTVLIALAVYFLGRLVPRGRGAAEATRKQRITETESPYQELQGQRSDVYSDLNTQRPYYK
+PTM	

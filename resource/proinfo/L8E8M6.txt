@@ -1,0 +1,25 @@
+UniprotID	L8E8M6
+Accession	L8E8M6
+EntryName	L8E8M6_HUMAN
+ProteinName	Alternative protein SNX13
+GeneName	SNX13
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTFQMFLLMTQYNFMPTFQTQAFVMIMARHMHYMPSLYTGAT
+PTM	

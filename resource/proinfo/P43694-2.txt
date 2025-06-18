@@ -1,0 +1,25 @@
+UniprotID	P43694-2
+Accession	P43694;B7ZKX0;B7ZKZ4;Q3MJ45;Q5IFM8
+EntryName	GATA4_HUMAN
+ProteinName	Transcription factor GATA-4 (GATA-binding factor 4)
+GeneName	GATA4
+Length	443
+Function	Transcriptional activator that binds to the consensus sequence 5'-AGATAG-3' and plays a key role in cardiac development and function (PubMed:24000169, PubMed:27984724, PubMed:35182466). In cooperation with TBX5, it binds to cardiac super-enhancers and promotes cardiomyocyte gene expression, while it down-regulates endocardial and endothelial gene expression (PubMed:27984724). Involved in bone morphogenetic protein (BMP)-mediated induction of cardiac-specific gene expression. Binds to BMP response element (BMPRE) DNA sequences within cardiac activating regions (By similarity). Acts as a transcriptional activator of ANF in cooperation with NKX2-5 (By similarity). Promotes cardiac myocyte enlargement (PubMed:20081228). Required during testicular development (PubMed:21220346). May play a role in sphingolipid signaling by regulating the expression of sphingosine-1-phosphate degrading enzyme, sphingosine-1-phosphate lyase (PubMed:15734735).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	319...324
+validnes_region	
+nesbase_region	
+Sequence	MYQSLAMAANHGPPPGAYEAGGPGAFMHGAGAASSPVYVPTPRVPSSVLGLSYLQGGGAGSASGGASGGSSGGAASGAGPGTQQGSPGWSQAGADGAAYTPPPVSPRFSFPGTTGSLAAAAAAAAAREAAAYSSGGGAAGAGLAGREQYGRAGFAGSYSSPYPAYMADVGASWAAAAAASAGPFDSPVLHSLPGRANPAARHPNLVDMFDDFSEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKRKPKNLNKSKTPAAPSGSESLPPASGASSNSSNATTSSSEEMRPIKTEPGLSSHYGHSSSVSQTFSVSAMSGHGPSIHPVLSALKLSPQGYASPVSQSPQTSSKQDSWNSLVLADSHGDIITA
+PTM	Methylation:404;Phosphorylation:133,134,262,264,406,412,415,417;SUMOylation:365

@@ -1,0 +1,25 @@
+UniprotID	H7BZH3
+Accession	H7BZH3
+EntryName	H7BZH3_HUMAN
+ProteinName	Peroxisomal biogenesis factor 1
+GeneName	PEX1
+Length	196
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKKIRSDHNEEDEKACVLQVVWNGLEELNNAIKYTKNVEVLHLGKVWIPDDLRKRLNIEMHAVVRITPVEVTPKIPRSLKLQPRENLPKDISEEDIKTVFYSWLQQSTTTMLPLVISEEEFIKLETKDGLKEFSLSIVHSWEKEKDKNIFLLSPNLLQKTTIQRSEFLRRILLGAHHSQPPGTPFVSAADVSCCRT
+PTM	

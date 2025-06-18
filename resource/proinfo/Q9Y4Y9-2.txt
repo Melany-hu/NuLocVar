@@ -1,0 +1,25 @@
+UniprotID	Q9Y4Y9-2
+Accession	Q9Y4Y9
+EntryName	LSM5_HUMAN
+ProteinName	U6 snRNA-associated Sm-like protein LSm5
+GeneName	LSM5
+Length	62
+Function	Plays a role in pre-mRNA splicing as component of the U4/U6-U5 tri-snRNP complex that is involved in spliceosome assembly, and as component of the precatalytic spliceosome (spliceosome B complex) (PubMed:28781166). The heptameric LSM2-8 complex binds specifically to the 3'-terminal U-tract of U6 snRNA (PubMed:10523320).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSDKEIVGTLLGFDDFVNMVLEDVTEFEITPEGRRITKLDQILLNGNNITMLVPGGEGPEV
+PTM	Acetylation:20,31,68;Phosphorylation:67,80;Ubiquitylation:20,68

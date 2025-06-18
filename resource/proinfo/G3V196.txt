@@ -1,0 +1,25 @@
+UniprotID	G3V196
+Accession	G3V196
+EntryName	G3V196_HUMAN
+ProteinName	RAB15, member RAS oncogene family
+GeneName	RAB15
+Length	237
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METGVRIQILLKAFLPRFPAPLAPVMAKQYDVLFRLLLIGDSGVGKTCLLCRFTDNEFHSSHISTIGVDFKMKTIEVDGIKVRIQIWDTAGQERYQTITKQYYRRAQGIFLVYDISSERSYQHIMKWVSDVDEYAPEGVQKILIGNKADEEQKRQVGREQGQQLAKEYGMDFYETSACTNLNIKESFTRLTELVLQAHRKELEGLRMRASNELALAELEEEEGKPEGPANSSKTCWC
+PTM	

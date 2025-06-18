@@ -1,0 +1,25 @@
+UniprotID	A0A804HI34
+Accession	A0A804HI34
+EntryName	A0A804HI34_HUMAN
+ProteinName	Kinase non-catalytic C-lobe domain containing 1
+GeneName	KNDC1
+Length	133
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQAMDPAAADLYEEDGKDLDFYDFEPLPTLPEDEENVSLADILSLRDRGLSEQEAWAVCLECSLSMRSVAHAAIFQSLCITPDTLAFNTSGNVCFMEQLSDDPEGAFVPPEFDVTGNTFEPPPHEAPLSTPLP
+PTM	

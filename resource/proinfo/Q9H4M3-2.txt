@@ -1,0 +1,25 @@
+UniprotID	Q9H4M3-2
+Accession	Q9H4M3;B3KNZ2;B7Z743;Q5TGX2;Q5TGX4;Q5TGX5;Q68DJ9;Q8WWY2
+EntryName	FBX44_HUMAN
+ProteinName	F-box only protein 44 (F-box protein FBX30) (F-box/G-domain protein 3)
+GeneName	FBXO44 FBG3 FBX30 FBX44 FBX6A FBXO6A
+Length	224
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVGNINELPENILLELFTHVPARQLLLNCRLVCSLWRDLIDLVTLWKRKCLREGFITEDWDQPVADWKIFYFLRSLHRNLLHNPCAEEGFEFWSLDVNGGDEWKVEDLSRDQRKEFPNDQVRSQARLRVQVPAVRSAPVVRARASGDLPARPGDHPAEERCQVEGGLPHILQLPARRPLHLVSARRRGHSLLGRLVRPEGHQQQHHHRAPAALTPPEPPSAEP
+PTM	Methylation:48,142,161

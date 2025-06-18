@@ -1,0 +1,25 @@
+UniprotID	Q8IXM6-6
+Accession	Q8IXM6;B0S7R0;B0S7R1;I3XIE2;I3XIE3;Q5JP57;Q5JP58;Q5JP59;Q5JP60;Q8WU45;Q9BSX3;Q9UN92
+EntryName	NRM_HUMAN
+ProteinName	Nurim (Nuclear envelope membrane protein) (Nuclear rim protein)
+GeneName	NRM NRM29 UNQ555/PRO1112
+Length	109
+Function	
+Subcellular Location	Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPALLLIPAALASFILAFGTGVEFVRFTSLRPLLGGIPESGGPGILPCAGAGRASGPEVSPGSQTLLPPAPPSVCGAADSAVGGAYPGHGPSPPCFPPYPLPGPGSRA
+PTM	Methylation:184;Phosphorylation:185;Ubiquitylation:86,121

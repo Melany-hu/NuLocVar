@@ -1,0 +1,25 @@
+UniprotID	B3KU87
+Accession	B3KU87;B7WP49;D6W579
+EntryName	B3KU87_HUMAN
+ProteinName	Solute carrier family 30 (Zinc transporter), member 6, isoform CRA_c (cDNA FLJ39353 fis, clone PEBLM2002432, highly similar to Homo sapiens solute carrier family 30 (zinc transporter), member 6 (SLC30A6), mRNA) (cDNA FLJ45816 fis, clone NT2RP7019682, highly similar to Homo sapiens solute carrier family 30 (zinc transporter), member 6 (SLC30A6), mRNA)
+GeneName	SLC30A6 hCG_23082
+Length	264
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPFVLIDLAGAFALCITYMLIEINNYFAVDTASAIAIALMTFGTMYPMSVYSGKVLLQTTPPHVIGQLDKLIREVSTLDGVLEVRNEHFWTLGFGSLAGSVHVRIRRDANEQMVLAHVTNRLYTLVSTLTVQIFKDDWIRPALLSGPVAANVLNFSDHHVIPMPLLKGTDDLNPVTSTPAKPSSPPPEFSFNTPGKNVNPVILLNTQTRPYGFGLNHGHTPYSSMLNQGLGVPGIGATQGLRTGFTNIPSRYGTNNRIGQPRP
+PTM	

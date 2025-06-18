@@ -1,0 +1,25 @@
+UniprotID	Q02985-2
+Accession	Q02985;B4DPR0;Q9UJ16
+EntryName	FHR3_HUMAN
+ProteinName	Complement factor H-related protein 3 (FHR-3) (DOWN16) (H factor-like protein 3)
+GeneName	CFHR3 CFHL3 FHR3
+Length	269
+Function	Might be involved in complement regulation.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLINVILTLWVSCANGQVKPCDFPDIKHGGLFHENMRRPYFPVAVGKYYSYYCDEHFETPSGSYWDYIHCTQNGWSPAVPCLRKCYFPYLENGYNQNYGRKFVQGNSTEVACHPGYGLPKAQTTVTCTEKGWSPTPRCIRVNSSEKCGPPPPISNGDTTSFLLKVYVPQSRVEYQCQPYYELQGSNYVTCSNGEWSEPPRCIHPCIITEENMNKNNIKLKGRSDRKYYAKTGDTIEFMCKLGYNANTSILSFQAVCREGIVEYPRCE
+PTM	Glycosylation:108;Methylation:49,122,169,227,277,281;Phosphorylation:207

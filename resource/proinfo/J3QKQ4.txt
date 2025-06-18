@@ -1,0 +1,25 @@
+UniprotID	J3QKQ4
+Accession	J3QKQ4
+EntryName	J3QKQ4_HUMAN
+ProteinName	CD300a molecule
+GeneName	CD300A
+Length	169
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPASITAAKTSTITTAFPPVSSTTLFAVGATHSASIQEETEEVVNSQLPLLLSLLALLLLLLVGASLLAWRMFQKWIKAGDHSELSQNPKQAATQSELHYANLELLMWPLQEKPAPPREVEVEYSTVASPREELHYASVVFDSNTNRIAAQRPREEEPDSDYSVIRKT
+PTM	

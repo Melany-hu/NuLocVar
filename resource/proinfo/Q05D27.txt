@@ -1,0 +1,25 @@
+UniprotID	Q05D27
+Accession	Q05D27
+EntryName	Q05D27_HUMAN
+ProteinName	WDR75 protein
+GeneName	WDR75
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVNSLLLSKETKSAKEIPEDVDMEEEKESEDSDEENDFTEKVQDTSNTGLGEDIIHQLSKSEEKELRKFRKIDYSWIAAL
+PTM	

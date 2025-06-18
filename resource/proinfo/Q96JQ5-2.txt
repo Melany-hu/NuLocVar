@@ -1,0 +1,25 @@
+UniprotID	Q96JQ5-2
+Accession	Q96JQ5;Q8TEZ6;Q96PG7;Q9BY18;Q9H3V3;Q9P1S3
+EntryName	M4A4A_HUMAN
+ProteinName	Membrane-spanning 4-domains subfamily A member 4A (CD20 antigen-like 1) (Four-span transmembrane protein 1)
+GeneName	MS4A4A 4SPAN1 CD20L1 MS4A4 HDCME31P
+Length	186
+Function	May be involved in signal transduction as a component of a multimeric receptor complex.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHQTYSRHCRPEESTFSAAMTTMQGMEQAMPGAGPGVPQLGNMAVIHSHLWKGLQEKFLKGEPKVLGVVQILTALMSLSMGITMMCMASNTYGSNPISVYIGYTIWGSVMFIISGSLSIAAGIRTTKGLGLDGMVLLLSVLEFCIAVSLSAFGCKVLCCTPGGVVLILPSHSHMAETASPTPLNEV
+PTM	Methylation:57

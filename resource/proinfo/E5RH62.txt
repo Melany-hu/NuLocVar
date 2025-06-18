@@ -1,0 +1,25 @@
+UniprotID	E5RH62
+Accession	E5RH62
+EntryName	E5RH62_HUMAN
+ProteinName	Zinc finger protein 419
+GeneName	ZNF419
+Length	50
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLENFTLLASLGCWHGAEAEEAPEQIASVGLLSSNIQQHQKQHCGEKPLK
+PTM	

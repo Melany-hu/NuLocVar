@@ -1,0 +1,25 @@
+UniprotID	Q9GZR2-2
+Accession	Q9GZR2;B2RAT2;Q5T8S4;Q5T8S5;Q5T8S6;Q9GZW3
+EntryName	REXO4_HUMAN
+ProteinName	RNA exonuclease 4 (EC 3.1.-.-) (Exonuclease XPMC2) (Prevents mitotic catastrophe 2 protein homolog) (hPMC2)
+GeneName	REXO4 PMC2 XPMC2H
+Length	250
+Function	
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKAKVPASKRAPSSPVAKPGPVKTLTRKKNKKKKRFWKSKAREVSKKPASGPGAVVRPPKAPEDFSQNWKALQEVPRWTGGRQYLAPRPVEQSTIRKEPRKGQMVILFQNEGTSSIRSGKLRRQPQPHPPREELEVVQKEVAEMLKGRILVGHALHNDLKVLFLDHPKKKIRDTQKYKPFKSQVKSGRPSLRLLSEKILGLQVQQAEHCSIQDAQAAMRLYVMVKKEWESMARDRRPLLTAPDHCSDDA
+PTM	Acetylation:5,10,19,24,87,97,123,278,302,333,398;Methylation:79,233,302,312,319;Phosphorylation:14,15,92,96,110,111,128,163,294,368,419;SUMOylation:24,87,107,115,281,302,349,358,398;Ubiquitylation:256,273,319

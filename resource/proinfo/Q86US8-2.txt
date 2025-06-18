@@ -1,0 +1,25 @@
+UniprotID	Q86US8-2
+Accession	Q86US8;B7Z874;O94837;Q86VH6;Q9UF60
+EntryName	EST1A_HUMAN
+ProteinName	Telomerase-binding protein EST1A (EC 3.1.-.-) (Ever shorter telomeres 1A) (hEST1A) (Nonsense mediated mRNA decay factor SMG6) (Smg-6 homolog) (hSmg5/7a)
+GeneName	SMG6 C17orf31 EST1A KIAA0732
+Length	330
+Function	Component of the telomerase ribonucleoprotein (RNP) complex that is essential for the replication of chromosome termini (PubMed:19179534). May have a general role in telomere regulation (PubMed:12676087, PubMed:12699629). Promotes in vitro the ability of TERT to elongate telomeres (PubMed:12676087, PubMed:12699629). Overexpression induces telomere uncapping, chromosomal end-to-end fusions (telomeric DNA persists at the fusion points) and did not perturb TRF2 telomeric localization (PubMed:12676087, PubMed:12699629). Binds to the single-stranded 5'-(GTGTGG)(4)GTGT-3' telomeric DNA, but not to a telomerase RNA template component (TER) (PubMed:12676087, PubMed:12699629).
+Subcellular Location	Nucleus; Nucleolus; Chromosome; Telomere; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFRLCHQRGCCPHERENTCTCKMIISSLQVIAADCKRVTVLKYFLEALCGQEEPLLAFKGGKYVSVAPVPDTMGKEMGSQEGTRLEDEEEDVVIEDFEEDSEAEGSGGEDDIRELRAKKLALARKIAEQQRRQEKIQAVLEDHSQMRQMELEIRPLFLVPDTNGFIDHLASLARLLESRKYILVVPLIVINELDGLAKGQETDHRAGGYARVVQEKARKSIEFLEQRFESRDSCLRALTSRGNELESIAFRSEDITGQLGNNDDLILSCCLHYCKDKAKDFMPASKEEPIRLLREVVLLTDDRNLRVKALTRNVPVRDIPAFLTWAQVG
+PTM	Acetylation:53,157;Methylation:194,202,213,404,406,512,654,660,691,697,712,890,918,991,1306;Phosphorylation:11,52,71,85,91,146,203,240,256,260,267,297,299,300,301,303,332,353,363,368,424,438,440,469,471,479,484,486,508,509,703,711,720,831,860,864,865,868,870,874,884,886,1000,1025,1169,1173,1191,1196;Ubiquitylation:387,441,660,750,995

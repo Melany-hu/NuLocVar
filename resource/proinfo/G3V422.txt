@@ -1,0 +1,25 @@
+UniprotID	G3V422
+Accession	G3V422
+EntryName	G3V422_HUMAN
+ProteinName	Protein phosphatase 4 regulatory subunit 4
+GeneName	PPP4R4
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQNPTETLRRVLPKVREALHVAGVEMQLTAAMSFLTILQDESVSIHAYTHSFLQVI
+PTM	

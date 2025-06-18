@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KX22
+Accession	A0A8I5KX22
+EntryName	A0A8I5KX22_HUMAN
+ProteinName	Golgin, RAB6 interacting
+GeneName	GORAB
+Length	84
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQGYKCPGLWSDSSRLMRRQTTKLCDSRYCKNLLQRQEEPHSAGDWMELGKISQSLCVSRGAFSRTKEKSTKDMNRYFLEKEI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	G1UD79
+Accession	G1UD79;A0A087WV35
+EntryName	G1UD79_HUMAN
+ProteinName	PABIR family member 2 (Synoviocyte proliferation associated in collagen-induced arthritis 2)
+GeneName	PABIR2 RP11-308B5.5 SPACIA2 hCG_15414
+Length	267
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQEKMELDLEPDTSYGGTLRRSSSAPLIHGLSDLSQVFQPYTLRTRRNSTTIMSRHSLLLSSSPNRIPSSRLHQIKREEGLDMVNRETAHEREMQTAMQISQSWDESLSLSDSDFDKPEKLYSPKRIDFTPVSPAPSPTRGFGKMFVSSSGLPPSPVPSPRRFSSRRSQSPVKCIRPSVLGPLKRKGEMETESQPKRLFQGTTNMLSPDAAQLSDLSSCSDILDGSSSSSGLSSDPLAKGSATAESPVACSNSCSSFILMDDLSPK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P58340-3
+Accession	P58340;E9PEU9;Q2TLE3;Q2TLE5;Q8N8F8;Q96MH1
+EntryName	MLF1_HUMAN
+ProteinName	Myeloid leukemia factor 1 (Myelodysplasia-myeloid leukemia factor 1)
+GeneName	MLF1
+Length	299
+Function	Involved in lineage commitment of primary hemopoietic progenitors by restricting erythroid formation and enhancing myeloid formation. Interferes with erythropoietin-induced erythroid terminal differentiation by preventing cells from exiting the cell cycle through suppression of CDKN1B/p27Kip1 levels. Suppresses COP1 activity via CSN3 which activates p53 and induces cell cycle arrest. Binds DNA and affects the expression of a number of genes so may function as a transcription factor in the nucleus.
+Subcellular Location	Cytoplasm; Nucleus; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKEVLQREGKSYKSETLMYIKKARASENKLSESILAHRENMRQMIRSFSEPFGRDLLSISDGRGRAHNRRGHNDGEDSLTATSCSLVPFGDFGGMHTDVSSFQTMDQMVSNMRNYMQKLERNFGQLSVDPNGHSFCSSSVMTYSKIGDEPPKVFQASTQTRRAPGGIKETRKAMRDSDSGLEKMAIGHHIHDRAHVIKKSKNKKTGDEEVNQEFINMNESDAHAFDEEWQSEVLKYKPGRHNLGNTRMRSVGHENPGSRELKRREKPQQSPAIEHGRRSNVLGDKLHIKGSSVKSNKK
+PTM	Methylation:48,50,88,205;Phosphorylation:7,8,32,34,85,220,240;SUMOylation:122,153,174,205,207,236;Ubiquitylation:88,122,138,236

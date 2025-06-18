@@ -1,0 +1,25 @@
+UniprotID	P09455-3
+Accession	P09455;A8K2Q0;B7Z7A0;E7EWV0;F2Z2F2;Q6FGX8
+EntryName	RET1_HUMAN
+ProteinName	Retinol-binding protein 1 (Cellular retinol-binding protein) (CRBP) (Cellular retinol-binding protein I) (CRBP-I)
+GeneName	RBP1 CRBP1
+Length	157
+Function	Cytoplasmic retinol-binding protein (PubMed:22665496, PubMed:26900151, PubMed:28057518). Accepts retinol from the transport protein STRA6, and thereby contributes to retinol uptake, storage and retinoid homeostasis (PubMed:15632377, PubMed:22665496).
+Subcellular Location	Cytoplasm; Lipid droplet
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPPAGFVRAGNPAVAAPQSPLSPEGAHFRAAHHPRSTGSRCPGSLQPSRPLVANWLQSLPEMPVDFTGYWKMLVNENFEEYLRALDVNVALRKIANLLKPDKEIVQDGDHMIIRTLSTFRNYIMDFQVGKEFEEDLTGIDDRKCMAGVQSRDLSSL
+PTM	Acetylation:99,128;Methylation:38;Phosphorylation:8,56;SUMOylation:38,69,82,99;Ubiquitylation:32,38,69,82,93,99,128

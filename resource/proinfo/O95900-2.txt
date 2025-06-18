@@ -1,0 +1,25 @@
+UniprotID	O95900-2
+Accession	O95900;B7Z7G5
+EntryName	TRUB2_HUMAN
+ProteinName	Pseudouridylate synthase TRUB2, mitochondrial (EC 5.4.99.-) (TruB pseudouridine synthase homolog 2) (tRNA pseudouridine 55 synthase TRUB2) (Psi55 synthase TRUB2) (EC 5.4.99.25)
+GeneName	TRUB2
+Length	275
+Function	Minor enzyme contributing to the isomerization of uridine to pseudouridine (pseudouridylation) of specific mitochondrial mRNAs (mt-mRNAs) such as COXI and COXIII mt-mRNAs (PubMed:27974379, PubMed:31477916). As a component of a functional protein-RNA module, consisting of RCC1L, NGRN, RPUSD3, RPUSD4, TRUB2, FASTKD2 and 16S mitochondrial ribosomal RNA (16S mt-rRNA), controls 16S mt-rRNA abundance and is required for intra-mitochondrial translation (PubMed:27667664). Also catalyzes pseudouridylation of some tRNAs, including synthesis of pseudouridine(55) from uracil-55, in the psi GC loop of a subset of tRNAs (PubMed:33023933).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGSEEKELTLTATSVPSFINHPLVCGPAFAHLKVGVGHRLDAQASGVLVLGVGHGCRLLTDMYNAHLTKDYTVRGLLGKATDDFREDGRLVEKTTYDHVTREKLDRILAVIQGSHQKALVMYSNLDLKTQEAYEMAVRGLIRPMNKSPMLITGIRCLYFAPPEFLLEVQCMHETQKELRKLVHEIGLELKTTAVCTQVRRTRDGFFTLDSALLRTQWDLTNIQDAIRAATPQVAAELEKSLSPGLDTKQLPSPGWSWDSQGPSSTLGLERGAGQ
+PTM	Methylation:36,49,51,136,150,185,296;Phosphorylation:60,204,209,299;Ubiquitylation:305

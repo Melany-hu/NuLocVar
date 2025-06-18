@@ -1,0 +1,25 @@
+UniprotID	Q9Y2B0-2
+Accession	Q9Y2B0;B2R7B9;Q9UHE9
+EntryName	CNPY2_HUMAN
+ProteinName	Protein canopy homolog 2 (MIR-interacting saposin-like protein) (Putative secreted protein Zsig9) (Transmembrane protein 4)
+GeneName	CNPY2 MSAP TMEM4 ZSIG9 UNQ1943/PRO4426
+Length	84
+Function	Positive regulator of neurite outgrowth by stabilizing myosin regulatory light chain (MRLC). It prevents MIR-mediated MRLC ubiquitination and its subsequent proteasomal degradation.
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKGWGWLALLLGALLGTAWARRSQDLHCGACRALVDELEWEIAQVDPKKTIQMGSFRINPDGSQSVVEVTVTVPPNKVAHSGFG
+PTM	Methylation:48,134;Phosphorylation:55,63,65,115,116,127,130,178;SUMOylation:48;Ubiquitylation:48

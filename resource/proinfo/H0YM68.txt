@@ -1,0 +1,25 @@
+UniprotID	H0YM68
+Accession	H0YM68
+EntryName	H0YM68_HUMAN
+ProteinName	Semaphorin 4B
+GeneName	SEMA4B
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRTAMGLRSWLAAPWGALPPRPPLLLLLLLLLLLQPPPPTWALSPRISLPLGWGYVKTLHRL
+PTM	

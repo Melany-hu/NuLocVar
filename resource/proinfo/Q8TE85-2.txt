@@ -1,0 +1,25 @@
+UniprotID	Q8TE85-2
+Accession	Q8TE85;A2A297;B2RCL1;G3XAF0;Q5TH78;Q86Y06;Q8N407
+EntryName	GRHL3_HUMAN
+ProteinName	Grainyhead-like protein 3 homolog (Sister of mammalian grainyhead) (Transcription factor CP2-like 4)
+GeneName	GRHL3 SOM TFCP2L4
+Length	607
+Function	Transcription factor playing important roles in primary neurulation and in the differentiation of stratified epithelia of both ectodermal and endodermal origin (By similarity). Binds directly to the consensus DNA sequence 5'-AACCGGTT-3' acting as an activator and repressor on distinct target genes (PubMed:21081122, PubMed:25347468). xhibits functional redundancy with GRHL2 in epidermal morphogenetic events and epidermal wound repair (By similarity). Exhibits functional redundancy with GRHL2 in epidermal morphogenetic events and epidermal wound repair but is essential to form the epidermal barrier with TGM3 as critical direct target gene among others. Despite being dispensable during normal epidermal homeostasis in the adulthood, is again required for barrier repair after immune-mediated epidermal damage, regulates distinct gene batteries in embryonic epidermal differentiation and adult epidermal barrier reformation after injury. Plays unique and cooperative roles with GRHL2 in establishing distinct zones of primary neurulation. Essential for spinal closure, functions cooperatively with GRHL2 in closure 2 (forebrain/midbrain boundary) and posterior neuropore closure (By similarity). Also required for proper development of the oral periderm (PubMed:24360809). No genetic interaction with GRHL3, no functional cooperativity due to diverse target gene selectivity (PubMed:21081122).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWMNSILPIFLFRSVRLLKNDPVNLQKFSYTSEDEAWKTYLENPLTAATKAMMRVNGDDDSVAALSFLYDYYMGPKEKRILSSSTGGRNDQGKRYYHGMEYETDLTPLESPTHLMKFLTENVSGTPEYPDLLKKNNLMSLEGALPTPGKAAPLPAGPSKLEAGSVDSYLLPTTDMYDNGSLNSLFESIHGVPPTQRWQPDSTFKDDPQESMLFPDILKTSPEPPCPEDYPSLKSDFEYTLGSPKAIHIKSGESPMAYLNKGQFYPVTLRTPAGGKGLALSSNKVKSVVMVVFDNEKVPVEQLRFWKHWHSRQPTAKQRVIDVADCKENFNTVEHIEEVAYNALSFVWNVNEEAKVFIGVNCLSTDFSSQKGVKGVPLNLQIDTYDCGLGTERLVHRAVCQIKIFCDKGAERKMRDDERKQFRRKVKCPDSSNSGVKGCLLSGFRGNETTYLRPETDLETPPVLFIPNVHFSSLQRSGGAAPSAGPSSSNRLPLKRTCSPFTEEFEPLPSKQAKEGDLQRVLLYVRRETEEVFDALMLKTPDLKGLRNAISEKYGFPEENIYKVYKKCKRGILVNMDNNIIQHYSNHVAFLLDMGELDGKIQIILKEL
+PTM	Methylation:128,213,533;Phosphorylation:24,385,426,491,493,504

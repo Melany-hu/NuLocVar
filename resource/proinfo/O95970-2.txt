@@ -1,0 +1,25 @@
+UniprotID	O95970-2
+Accession	O95970;A8K0Z1;B4E1S0;Q5W001;Q5W002;Q8NI23;Q96LF5
+EntryName	LGI1_HUMAN
+ProteinName	Leucine-rich glioma-inactivated protein 1 (Epitempin-1)
+GeneName	LGI1 EPT UNQ775/PRO1569
+Length	291
+Function	Regulates voltage-gated potassium channels assembled from KCNA1, KCNA4 and KCNAB1. It slows down channel inactivation by precluding channel closure mediated by the KCNAB1 subunit. Ligand for ADAM22 that positively regulates synaptic transmission mediated by AMPA-type glutamate receptors (By similarity). Plays a role in suppressing the production of MMP1/3 through the phosphatidylinositol 3-kinase/ERK pathway. May play a role in the control of neuroblastoma cell survival.
+Subcellular Location	Secreted; Synapse; Cytoplasm; Golgi apparatus; Secreted; Cytoplasm; Endoplasmic reticulum; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESERSKRMGNACIPLKRIAYFLCLLSALLLTEGKKPAKPKCPAVCTCTKDNALCENARSIPRTVPPDVISLSFVRSGFTEISEGSFLFTPSLQLLLFTSNSFDVISDDAFIGLPHLEYLFIENNNIKSISRHTFRGLKSLIHLSLANNNLQTLPKDIFKGLDSLTNVDLRGNSFNCDCKLKWLVEWLGHTNATVEDIYCEGPPEYKKRKINSLSSKDFDCIITEFAKSQDLPYQSLSIDTFSYLNDEYVVIAQPFTGKCIFLEWDHVEKTFRNYDNITVLREIHRFTNMS
+PTM	Methylation:128,156,328,436,441;Phosphorylation:145,357,358,360

@@ -1,0 +1,25 @@
+UniprotID	Q9BTI9
+Accession	Q9BTI9
+EntryName	Q9BTI9_HUMAN
+ProteinName	Nucleophosmin
+GeneName	NPM1
+Length	228
+Function	
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	28...36
+nlsdbnls_region	86...91;125...131
+validnes_region	28...36
+nesbase_region	
+Sequence	YEGSPIKVTLATLKMSVQPTVSLGGFEITPPVVLRLKCGSGPVHISGQHLVAVEEDAESEDEEEEDVKLLSISGKRSAPGGGSKVPQKKVKLAADEDDDDDDEEDDDEDDDDDDFDDEEAEEKAPVKKSIRDTPAKNAQKSNQNGKDSKPSSTPRSKGQESFKKQEKTPKTPKGPSSVEDIKAKMQASIEKGGSLPKVEAKFINYVKNCFRMTDQEAIQDLWQWRKSL
+PTM	

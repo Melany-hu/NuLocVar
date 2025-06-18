@@ -1,0 +1,25 @@
+UniprotID	I3L183
+Accession	I3L183
+EntryName	I3L183_HUMAN
+ProteinName	TLC domain containing 3A
+GeneName	TLCD3A
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	28...33
+validnes_region	
+nesbase_region	
+Sequence	MISTRYRRRRDAPRGPGRCPPHPTRPRGPGRKRGAAGSPGAAPSASRRPEFPKPLRVLPWRERGRGGREWPMSLRSPLPTSACGWGESGRRAGPGSLRSSDRTERARCSLRPR
+PTM	

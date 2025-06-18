@@ -1,0 +1,25 @@
+UniprotID	A8MZ59-1
+Accession	A8MZ59;A0A1W2PQ33
+EntryName	LEUTX_HUMAN
+ProteinName	Paired-like homeodomain transcription factor LEUTX (Leucine-twenty homeobox) (Paired-like homeobox transcription factor LEUTX) (PRD-LIKE homeobox transcription factor LEUTX)
+GeneName	LEUTX
+Length	168
+Function	Paired-like homeobox transcription factor involved in embryogenesis (PubMed:27578796, PubMed:30479355). May act as a regulator of embryo genome activation (PubMed:27578796). Binds to a 36 bp DNA elements containing a 5'-TAATCC-3' sequence motif, referred to as EEA motif (EGA-enriched Alu-motif), present in the promoters of target genes activated in early embryos (PubMed:27578796, PubMed:30479355).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHPSLATMGKLASKLQLDLSVVKIWFKNQRAKWKRQQRQQMQTRPSLGPANQTTSVKKEETPSAITTANIRPVSPGISDANDHDLREPSGIKNPGGASASARVSSWDSQSYDIEQICLGASNPPWASTLFEIDEFVKIYDLPGEDDTSSLNQYLFPVCLEYDQLQSSV
+PTM	Acetylation:18;Methylation:29,122;SUMOylation:40

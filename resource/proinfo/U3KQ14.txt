@@ -1,0 +1,25 @@
+UniprotID	U3KQ14
+Accession	U3KQ14
+EntryName	U3KQ14_HUMAN
+ProteinName	NEDD4 binding protein 2 like 1
+GeneName	N4BP2L1
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRPPRPPPRGTPPRRHSFRKHLYLLRGLPGSGKTTLARDDWSEHWPGSLKIVPSDLLRHLLAGDFGQSSSFSGPYVPYM
+PTM	

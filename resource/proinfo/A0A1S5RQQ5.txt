@@ -1,0 +1,25 @@
+UniprotID	A0A1S5RQQ5
+Accession	A0A1S5RQQ5
+EntryName	A0A1S5RQQ5_HUMAN
+ProteinName	Glycophorin B
+GeneName	GYPB
+Length	44
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ETGQLVHRFTVPAPVVIILIILCVMAGIIGTILLISYSIRRLIK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8TBL5
+Accession	Q8TBL5;E7EU11
+EntryName	Q8TBL5_HUMAN
+ProteinName	LARP4 protein
+GeneName	LARP4
+Length	188
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSSSCETTRNTTGIEESTDGMILGPEDLSYQIYDVSGESNSAVSTEDLKECLKKQLEFCFSRENLSKDLYLISQMDSDQFIPIWTVANMEEIKKLTTDPDLILEVLRSSPMVQVDEKGEKVRPSHKRCIVILREIPETTPIEEVKGLFKSENCPKVISCEFAHNSNWYITFQSDTDAQQAFILKRRS
+PTM	

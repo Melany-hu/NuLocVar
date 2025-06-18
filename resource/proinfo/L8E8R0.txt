@@ -1,0 +1,25 @@
+UniprotID	L8E8R0
+Accession	L8E8R0
+EntryName	L8E8R0_HUMAN
+ProteinName	Alternative protein DLG2
+GeneName	DLG2
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHLFRSMGQKLNMNLKKLHWRGGILAWDSVLLGGQIIPTLEMTLAYLLRRLYQEVLQQRMADSGSMIVSCG
+PTM	

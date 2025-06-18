@@ -1,0 +1,25 @@
+UniprotID	P29692-4
+Accession	P29692;B4DDU4;D3DWK3;E9PBQ9;Q4VBZ6;Q969J1;Q96I38
+EntryName	EF1D_HUMAN
+ProteinName	Elongation factor 1-delta (EF-1-delta) (Antigen NY-CO-4)
+GeneName	EEF1D EF1D
+Length	262
+Function	EF-1-beta and EF-1-delta stimulate the exchange of GDP bound to EF-1-alpha to GTP, regenerating EF-1-alpha for another round of transfer of aminoacyl-tRNAs to the ribosome.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	164...169
+validnes_region	
+nesbase_region	
+Sequence	MATNFLAHEKIWFDKFKYDDAERRFYEQMNGPVAGASRQENGASVILRDIARARENIQKSLAGSSGPGASSGTSGDHVVQELQQAISKLEARLNVLEKSSPGHRATAPQTQHVSPMRQVEPPAKKPATPAEDDEDDDIDLFGSDNEEEDKEAAQLREERLRQYAEKKAKKPALVAKSSILLDVKPWDDETDMAQLEACVRSIQLDGLVWGASKLVPVGYGIRKLQIQCVVEDDKVGTDLLEEEITKFEEHVQSVDIAAFNKI
+PTM	Acetylation:10,15,17,59,107,117,143,185,203,232;Methylation:15,23,24,59,107,117,143,178,189,195,203,232,265;Phosphorylation:18,26,37,44,60,64,65,70,71,73,74,86,93,106,118,119,125,129,133,147,162,182,196,197,220,231,238;SUMOylation:59,265;Ubiquitylation:10,15,17,59,107,117,143,169,185,188,189,203,232,242

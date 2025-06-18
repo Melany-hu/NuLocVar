@@ -1,0 +1,25 @@
+UniprotID	O60225-2
+Accession	O60225;Q5JQ59;Q5JQ60;Q96AW3
+EntryName	SSX5_HUMAN
+ProteinName	Protein SSX5
+GeneName	SSX5
+Length	229
+Function	Could act as a modulator of transcription.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGDDAFVRRPRVGSQIPEKMQKHPWRQVCDRGIHLVNLSPFWKVGREPASSIKALLCGRGEARAFDDIAKYFSEKEWEKMKASEKIIYVYMKRKYEAMTKLGFKATLPPFMRNKRVADFQGNDFDNDPNRGNQVEHPQMTFGRLQGIFPKITPEKPAEEGNDSKGVPEASGPQNNGKQLRPSGKLNTSEKVNKTSGPKRGKHAWTHRVRERKQLVIYEEISDPQEDDE
+PTM	Methylation:30,39,110

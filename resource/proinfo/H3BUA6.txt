@@ -1,0 +1,25 @@
+UniprotID	H3BUA6
+Accession	H3BUA6
+EntryName	H3BUA6_HUMAN
+ProteinName	2-oxoglutarate and iron dependent oxygenase domain containing 1
+GeneName	OGFOD1
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMDPFLHCVIPNFIQSQDFLEGLQKELMNLDFHEKYNDLYKFQQSDDLKKRREPHISTLRKILFEDFRSWLSDISKIDLESTIDMSCAKYEFTDALLCHDDELEGRRIAFILYLVPPWDRSMGGTLDLYSIDEHFQPKQIVKSLIPSWNKLVFFEVSPVSFHQVSEVLSEEKSR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9BY32-2
+Accession	Q9BY32;A2A2N2;A4UIM5;B2BCH7;O14878;Q5JWH4;Q9BYN1;Q9BYX0;Q9H3H8
+EntryName	ITPA_HUMAN
+ProteinName	Inosine triphosphate pyrophosphatase (ITPase) (Inosine triphosphatase) (EC 3.6.1.9) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase) (Putative oncogene protein hlc14-06-p)
+GeneName	ITPA C20orf37 My049 OK/SW-cl.9
+Length	177
+Function	Pyrophosphatase that hydrolyzes the non-canonical purine nucleotides inosine triphosphate (ITP), deoxyinosine triphosphate (dITP) as well as 2'-deoxy-N-6-hydroxylaminopurine triphosphate (dHAPTP) and xanthosine 5'-triphosphate (XTP) to their respective monophosphate derivatives. The enzyme does not distinguish between the deoxy- and ribose forms. Probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASLVVQILGDKFPCTLVAQKIDLPEYQGEPDEISIQKCQEAVRQVQGPVLVEDTCLCFNALGGLPGPYIKWFLEKLKPEGLHQLLAGFEDKSAYALCTFALSTGDPSQPVRLFRGRTSGRIVAPRGCQDFGWDPCFQPDGYEQTYAEMPKAEKNAVSHRFRALLELQEYFGSLAA
+PTM	Acetylation:8,18,30,172;Methylation:8,39,56,89,110,169;Phosphorylation:53,111,113,137;SUMOylation:18,19,39,56;Ubiquitylation:9,18,19,30,39,56,96,169,172

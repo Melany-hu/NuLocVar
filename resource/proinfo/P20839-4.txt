@@ -1,0 +1,25 @@
+UniprotID	P20839-4
+Accession	P20839;A4D0Z6;A4D0Z7;A6NDW5;A6NNI6;B3KNP7;B3KVM8;B4DE09;C9JV30;J3KNX8;Q8N194;Q96NU2
+EntryName	IMDH1_HUMAN
+ProteinName	Inosine-5'-monophosphate dehydrogenase 1 (IMP dehydrogenase 1) (IMPD 1) (IMPDH 1) (EC 1.1.1.205) (IMPDH-I)
+GeneName	IMPDH1 IMPD1
+Length	509
+Function	Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate-limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth. Could also have a single-stranded nucleic acid-binding activity and could play a role in RNA and/or DNA metabolism. It may also have a role in the development of malignancy and the growth progression of some tumors.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADYLISGGTGYVPEDGLTAQQLFASADGLTYNDFLILPGFIDFIADEVDLTSALTRKITLKTPLISSPMDTVTEADMAIAMALMGGIGFIHHNCTPEFQANEKFEQGFITDPVVLSPSHTVGDVLEAKMRHGFSGIPITETGTMGSKLVGIVTSRDIDFLAEKDHTTLLSEVMTPRIELVVAPAGVTLKEANEILQRSKKGKLPIVNDCDELVAIIARTDLKKNRDYPLASKDSQKQLLCGAAVGTREDDKYRLDLLTQAGVDVIVLDSSQGNSVYQIAMVHYIKQKYPHLQVIGGNVVTAAQAKNLIDAGVDGLRVGMGCGSICITQEVMACGRPQGTAVYKVAEYARRFGVPIIADGGIQTVGHVVKALALGASTVMMGSLLAATTEAPGEYFFSDGVRLKKYRGMGSLDAMEKSSSSQKRYFSEGDKVKIAQGVSGSIQDKGSIQKFVPYLIAGIQHGCQDIGARSLSVLRSMMYSGELKFEKRTMSAQIEGGVHGLHSYEKRLY
+PTM	Acetylation:436,511;Methylation:62,228,238,322,450;Phosphorylation:159,160,237,240,333,348,416,430,432,477;SUMOylation:109,134,153;Ubiquitylation:134,153,169,195,206,208,238,242,311,349,422,436,450,455

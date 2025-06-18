@@ -1,0 +1,25 @@
+UniprotID	H0Y9N8
+Accession	H0Y9N8
+EntryName	H0Y9N8_HUMAN
+ProteinName	DNA-directed primase/polymerase protein (EC 2.7.7.102) (EC 2.7.7.7)
+GeneName	PRIMPOL
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KLESVWLWRLLKITNFFLYSQKMFLTNINIFSLLWSAMSVETIEGFQCSPYPEVDHFVLSLVNKDGIKGGIRRWNYFFPEELLVYDICKYRWCENIGRAHKSNNIMILVDLKNEVWYQKCHDPVCKAENFKSDCFPLPAEVCLLFLFKEEEEFTTDEADETRSNETQNPHKP
+PTM	

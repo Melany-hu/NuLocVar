@@ -1,0 +1,25 @@
+UniprotID	B7ZL33
+Accession	B7ZL33
+EntryName	B7ZL33_HUMAN
+ProteinName	Gamma-secretase activating protein (PION protein)
+GeneName	GSAP PION
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRILEATNSLFLPLPPGFHTLHTILGVQCLPLHNLLHCIDSGVLLLTETAVIRLMKDLDNTEKNEKLKFSIIVRLPPLIGQKICRLWDHPMSSNIISRNHVTRLLQNYKKQPRNSMINKSSFSVEFLPLNYFIEILTDIESSNQALYPFEGHDNVDAEFVEEAALKHTAMLLGL
+PTM	

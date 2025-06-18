@@ -1,0 +1,25 @@
+UniprotID	Q7L2H7-2
+Accession	Q7L2H7;A8K7X4;B4E2Q4;O60735;Q2F836;Q53HL6;Q9BXW1
+EntryName	EIF3M_HUMAN
+ProteinName	Eukaryotic translation initiation factor 3 subunit M (eIF3m) (Fetal lung protein B5) (hFL-B5) (PCI domain-containing protein 1)
+GeneName	EIF3M HFLB5 PCID1 GA17 PNAS-125
+Length	242
+Function	Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is required for several steps in the initiation of protein synthesis (PubMed:17403899, PubMed:25849773, PubMed:27462815). The eIF-3 complex associates with the 40S ribosome and facilitates the recruitment of eIF-1, eIF-1A, eIF-2:GTP:methionyl-tRNAi and eIF-5 to form the 43S pre-initiation complex (43S PIC). The eIF-3 complex stimulates mRNA recruitment to the 43S PIC and scanning of the mRNA for AUG recognition. The eIF-3 complex is also required for disassembly and recycling of post-termination ribosomal complexes and subsequently prevents premature joining of the 40S and 60S ribosomal subunits prior to initiation (PubMed:17403899). The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation, including cell cycling, differentiation and apoptosis, and uses different modes of RNA stem-loop binding to exert either translational activation or repression (PubMed:25849773).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVPAFIDISEEDQVRKWISDWNLTTEKKHTLLRLLYEALVDCKKSDAASKVMVELLGSYTEDNASQARVDAHRCIVRALKDPNAFLFDHLLTLKPVKFLEGELIHDLLTIFVSAKLASYVKFYQNNKDFIDSLGLLHEQNMAKMRLLTFMGMAVENKEISFDTMQQELQIGADDVEAFVIDAVRTKMVYCKIDQTQRKVVVSHSTHRTFGKQQWQQLYDTLNAWKQNLNKVKNSLLSLSDT
+PTM	Acetylation:115,149,160,176,213,227,254,260,276,324,344,358;Methylation:23,54,78,89,129,160,176,227,254,276,324,344,358;Phosphorylation:2,10,24,100,126,152,158,169,225,335,337,338,351,367,370,372,374;SUMOylation:149,183,227,254;Ubiquitylation:23,115,160,161,176,183,213,227,254,260,276,324,344,358,365

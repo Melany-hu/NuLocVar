@@ -1,0 +1,25 @@
+UniprotID	Q6UXH1-4
+Accession	Q6UXH1;A5GZA2;A5GZA3;A5GZA4;A5GZA5;A5GZA6;Q4W0V0;Q86UC0;Q9BU47
+EntryName	CREL2_HUMAN
+ProteinName	Protein disulfide isomerase CRELD2 (EC 5.3.4.1) (Cysteine-rich with EGF-like domain protein 2)
+GeneName	CRELD2 UNQ185/PRO211
+Length	325
+Function	Protein disulfide isomerase (By similarity). Might play a role in the unfolded protein response (By similarity). May regulate transport of alpha4-beta2 neuronal acetylcholine receptor (PubMed:16238698).
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLPRRAALGLLPLLLLLPPAPEAAKKPTPCHRCRGLVDKFNQGMVDTAKKNFGGGNTAWEEKTLSKYESSEIRLLEILEGLCESSDFECNQMLEAQEEHLEAWWLQLKSEYPDLFEWFCVKTLKVCCSPGTYGPDCLACQGGSQRPCSGNGHCSGDGSRQGDGSCRCHMGYQGPLCTDCMDGYFSSLRNETHSICTACDESCKTCSGLTNRDCGECEVGWVLDEGACVECDSSCVGCTGEGPGNCKECISGYAREHGQCADVDECSLAEKTCVRKNENCYNTPGSYVCVCPDGFEETEDACVPPAEAEATEGESPTQLPSREDL
+PTM	Acetylation:63;Glycosylation:190,249,251;Methylation:248;Phosphorylation:64,66,68,70,71,187;SUMOylation:27,40,50,51,63,67,204;Ubiquitylation:67,204

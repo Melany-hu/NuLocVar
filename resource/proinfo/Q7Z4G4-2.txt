@@ -1,0 +1,25 @@
+UniprotID	Q7Z4G4-2
+Accession	Q7Z4G4;E1P570;Q5JY11;Q6PGQ5;Q9HC13
+EntryName	TRM11_HUMAN
+ProteinName	tRNA (guanine(10)-N(2))-methyltransferase TRMT11 (EC 2.1.1.214) (tRNA methyltransferase 11 homolog)
+GeneName	TRMT11 C6orf75 MDS024
+Length	458
+Function	Catalytic subunit of the TRMT11-TRM112 methyltransferase complex, that specifically mediates the S-adenosyl-L-methionine-dependent N(2)-methylation of guanosine nucleotide at position 10 (m2G10) in tRNAs (PubMed:37283053). This is one of the major tRNA (guanine-N(2))-methyltransferases (PubMed:37283053).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSCTLNRYLLLMAQEHLEFRLPEIKSLLLLFGGQFASSQETYGKSPFWILSIPSEDIARNLMKRTVCAKSIFELWGHGQSPEELYSSLKNYPVEKMVPFLHSDSTYKIKIHTFNKTLTQEEKIKRIDALEFLPFEGKVNLKKPQHVFSVLEDYGLDPNCIPENPHNIYFGRWIADGQRELIESYSVKKRHFIGNTSMDAGLSFIMANHGKVKENDIVFDPFVGTGGLLIACAHFGAYVYGTDIDYNTVHGLGKATRKNQKWRGPDENIRANLRQYGLEKYYLDVLVSDASKPSWRKGTYFDAIITDPPYGIRESTRRTGSQKEIPKGIEKWEKCPESHVPVSLSYHLSDMFLDLLNFAAETLVLGGRLVYWLPVYTPEYTEEMVPWHPCLELVSNCEQKLSSHTSRRLITMEKNRDQYSHLLSDHFLPYQGHNSFREKYFSGVTKRIAKEEKSTQE
+PTM	Acetylation:452;Methylation:143,255;Phosphorylation:436,441;SUMOylation:139;Ubiquitylation:189

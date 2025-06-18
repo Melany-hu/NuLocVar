@@ -1,0 +1,25 @@
+UniprotID	Q8NBZ7-2
+Accession	Q8NBZ7;Q8NBX3;Q9H5C2
+EntryName	UXS1_HUMAN
+ProteinName	UDP-glucuronic acid decarboxylase 1 (EC 4.1.1.35) (UDP-glucuronate decarboxylase 1) (UGD) (UXS-1) (hUXS) (hUXS1)
+GeneName	UXS1 UNQ2538/PRO6079
+Length	425
+Function	Catalyzes the NAD-dependent decarboxylation of UDP-glucuronic acid to UDP-xylose (PubMed:22810237, PubMed:23656592, PubMed:25521717). Necessary for the biosynthesis of the core tetrasaccharide in glycosaminoglycan biosynthesis (PubMed:22810237, PubMed:23656592, PubMed:25521717).
+Subcellular Location	Golgi apparatus; Golgi stack membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	5...10
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSKALLRLVSAVNRRRMKLLLGIALLAYVASVWGNFVNMSFLLNRSIQENGELKIESKIEEMVEPLREKIRDLEKSFTQKYPPVKFLSEKDRKRILITGGAGFVGSHLTDKLMMDGHEVTVVDNFFTGRKRNVEHWIGHENFELINHDVVEPLYIEVDQIYHLASPASPPNYMYNPIKTLKTNTIGTLNMLGLAKRVGARLLLASTSEVYGDPEVHPQSEDYWGHVNPIGPRACYDEGKRVAETMCYAYMKQEGVEVRVARIFNTFGPRMHMNDGRVVSNFILQALQGEPLTVYGSGSQTRAFQYVSDLVNGLVALMNSNVSSPVNLGNPEEHTILEFAQLIKNLVGSGSEIQFLSEAQDDPQKRKPDIKKAKLMLGWEPVVPLEEGLNKAIHYFRKELEYQANNQYIPKPKPARIKKGRTRHS
+PTM	Glycosylation:42,74;Methylation:54,71,191,339;Phosphorylation:175,183;Ubiquitylation:4,76,86

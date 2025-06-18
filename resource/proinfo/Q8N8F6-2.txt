@@ -1,0 +1,25 @@
+UniprotID	Q8N8F6-2
+Accession	Q8N8F6;J3KR00;Q3SY21;Q3SY22
+EntryName	YIPF7_HUMAN
+ProteinName	Protein YIPF7 (Five-pass transmembrane protein localizing in the Golgi apparatus and the endoplasmic reticulum 9) (YIP1 family member 7)
+GeneName	YIPF7 FINGER9 YIP1B
+Length	184
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus; cis-Golgi network membrane; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNLAQFDSDFYQSNFTIDNQEQSGNDSNAYGNLYGSRKQQAGEQPQPASFVPSEMLMSSGYAGQFFQPASNSDYYSQSPYIDSFDEEPPLLEELGIHFDHIWQKTLTVLNPMKPVDGSIMNETDLTGPILFCVALGATLLLVMCHRKHQILMLVLSSAGFEAICINIRETVSPYIVNFLSERE
+PTM	Methylation:5,169

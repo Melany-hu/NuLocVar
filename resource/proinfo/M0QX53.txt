@@ -1,0 +1,25 @@
+UniprotID	M0QX53
+Accession	M0QX53
+EntryName	M0QX53_HUMAN
+ProteinName	PTOV1 extended AT-hook containing adaptor protein
+GeneName	PTOV1
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QVLQRNLEQEQQQRGVRWPASRAAQSPSTPAACSPLASDFSP
+PTM	

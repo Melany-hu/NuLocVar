@@ -1,0 +1,25 @@
+UniprotID	Q16378-2
+Accession	Q16378;A8KA69;F5H0D7;Q8NFB3
+EntryName	PROL4_HUMAN
+ProteinName	Proline-rich protein 4 (Lacrimal proline-rich protein) (Nasopharyngeal carcinoma-associated proline-rich protein 4)
+GeneName	PRR4 LPRP PROL4
+Length	65
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLVLLSVVLLALSSAQSTDNDVNYEDFTFTIPACRKHHHSSRGTDQQDIPRSNHSGNLEFSGRK
+PTM	Phosphorylation:103

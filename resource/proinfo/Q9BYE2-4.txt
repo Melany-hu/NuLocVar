@@ -1,0 +1,25 @@
+UniprotID	Q9BYE2-4
+Accession	Q9BYE2;B4DTM9;E9PIJ5;E9PRA0;F8WAJ3;J3KQC6;Q1RMF8;Q86YM4;Q96JY8;Q9BYE1
+EntryName	TMPSD_HUMAN
+ProteinName	Transmembrane protease serine 13 (EC 3.4.21.-) (Membrane-type mosaic serine protease) (Mosaic serine protease)
+GeneName	TMPRSS13 MSP TMPRSS11
+Length	491
+Function	Serine protease (PubMed:20977675, PubMed:28710277, PubMed:34562451). Cleaves the proform of PRSS8/prostasin to form the active protein (PubMed:34562451). Cleaves the proform of HGF to form the active protein which promotes MAPK signaling (PubMed:20977675). Promotes the formation of the stratum corneum and subsequently the epidermal barrier in embryos (By similarity).
+Subcellular Location	Cell membrane; Secreted; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERDSHGNASPARTPSAGASPAQASPAGTPPGRASPAQASPAQASPAGTPPGRASPAQASPAGTPPGRASPGRASPAQASPAQASPARASPALASLSRSSSGRSSSARSASVTTSPTRVYLVRATPVGAVPIRSSPARSAPATRATRESPGTSLPKFTWREGQKQLPLIGCVLLLIALVVSLIILFQFWQGHTGIRYKEQRESCPKHAVRCDGVVDCKLKSDELGCVRFDWDKSLLKIYSGSSHQWLPICSSNWNDSYSEKTCQQLGFESAHRTTEVAHRDFANSFSILRYNSTIQESLHRSECPSQRYISLQCSHCGLRAMTGRIVGGALASDSKWPWQVSLHFGTTHICGGTLIDAQWVLTAAHCFFVTREKVLEGWKVYAGTSNLHQLPEAASIAEIIINSNYTDEEDDYDIALMRLSKPLTLSGEGICTPRSPAPQPQHPLQPSHLSASVNSYPGPKASAGQKSKTLKDPYMEHFCFIIRETEAQGL
+PTM	Methylation:198,237,540,546;Phosphorylation:29,70,95,97,111,115,125,134,139,149,153,234,323,333,335,421,459,491,524,544,545,555,556,570,575,576;Ubiquitylation:546

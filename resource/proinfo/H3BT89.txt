@@ -1,0 +1,25 @@
+UniprotID	H3BT89
+Accession	H3BT89
+EntryName	H3BT89_HUMAN
+ProteinName	protein disulfide-isomerase (EC 5.3.4.1)
+GeneName	TMX3
+Length	69
+Function	Probable disulfide isomerase, which participates in the folding of proteins containing disulfide bonds. May act as a dithiol oxidase. Acts as a regulator of endoplasmic reticulum-mitochondria contact sites via its ability to regulate redox signals.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVCKGFVEDLDESFKENRNDDIWLVDFYAPWCGHCKKLEPIWNEVGLEMKSIGSPVKVGKMDATSYSN
+PTM	

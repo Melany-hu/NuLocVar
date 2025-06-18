@@ -1,0 +1,25 @@
+UniprotID	Q7LG56-6
+Accession	Q7LG56;B4E2N4;Q17R22;Q75PQ6;Q75PQ7;Q75PY8;Q75PY9;Q86YE3;Q9NPD6;Q9NTD8;Q9NUW3
+EntryName	RIR2B_HUMAN
+ProteinName	Ribonucleoside-diphosphate reductase subunit M2 B (EC 1.17.4.1) (TP53-inducible ribonucleotide reductase M2 B) (p53-inducible ribonucleotide reductase small subunit 2-like protein) (p53R2)
+GeneName	RRM2B P53R2
+Length	423
+Function	Plays a pivotal role in cell survival by repairing damaged DNA in a p53/TP53-dependent manner. Supplies deoxyribonucleotides for DNA repair in cells arrested at G1 or G2. Contains an iron-tyrosyl free radical center required for catalysis. Forms an active ribonucleotide reductase (RNR) complex with RRM1 which is expressed both in resting and proliferating cells in response to DNA damage.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLRLPPHRSHASPLDCKLQDRCRKCYSPRSGQACPPALAAAWLRRCERRGGRPRGGRRKELTLGLRPARCSAPGPAKDDAWRPQAGRSSSDTNESEIKSNEEPLLRKSSRRFVIFPIQYPDIWKMYKQAQASFWTAEEVDLSKDLPHWNKLKADEKYFISHILAFFAASDGIVNENLVERFSQEVQVPEARCFYGFQILIENVHSEMYSLLIDTYIRDPKKREFLFNAIETMPYVKKKADWALRWIADRKSTFGERVVAFAAVEGVFFSGSFAAIFWLKKRGLMPGLTFSNELISRDEGLHCDFACLMFQYLVNKPSEERVREIIVDAVKIEQEFLTEALPVGLIGMNCILMKQYIEFVADRLLVELGFSKVFQAENPFDFMENISLEGKTNFFEKRVSEYQRFAVMAETTDNVFTLDADF
+PTM	Methylation:37,73;Phosphorylation:18,19,20,161,164,182,225;SUMOylation:57;Ubiquitylation:28,80,166,167,168,180,320,326

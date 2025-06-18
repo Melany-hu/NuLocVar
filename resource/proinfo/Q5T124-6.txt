@@ -1,0 +1,25 @@
+UniprotID	Q5T124-6
+Accession	Q5T124;D3DPK6;Q5T117;Q5T120;Q5T125;Q5T126;Q5T129;Q5T131;Q5T133;Q63HM6;Q71RB3;Q8IY27;Q8N1L6;Q8N9M4;Q8NA18;Q8NFE3;Q8NFE4;Q8NFE6
+EntryName	UBX11_HUMAN
+ProteinName	UBX domain-containing protein 11 (Colorectal tumor-associated antigen COA-1) (Socius) (UBX domain-containing protein 5)
+GeneName	UBXN11 SOC UBXD5 PP2243
+Length	324
+Function	May be involved in the reorganization of actin cytoskeleton mediated by RND1, RND2 and RND3. Promotes RHOA activation mediated by GNA12 and GNA13 (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSPLASLSKTRKVPLPSEPMNPGRRGIRIYGDEDEVDMLSDGCGSEEKISVPSCYGGIGAPVSRQVPASHDSELMAFMTRKLWDLEQQVKAQTDEILSKDQKIAALEDLVQTLRPHPAEATLQRQEELETMCVQLQRQVREMERFLSDYGLQWVGEPMDQEDSESKTVSEHGERDWMTAKKFWKPGDSLAPPEVDFDRLLASLQDLSELVVEGDTQVTPVPGGARLRTLEPIPLKLYRNGIMMFDGPFQPFYDPSTQRCLRDILDGFFPSELQRLYPNGVPFKVISCSSNHTFGDFEGSGDTQPPQTPPILRGSRCTPWGTPV
+PTM	Methylation:10,100;Phosphorylation:2,3,164;SUMOylation:103,167,402;Ubiquitylation:284

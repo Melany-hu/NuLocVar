@@ -1,0 +1,25 @@
+UniprotID	I3L3Q2
+Accession	I3L3Q2
+EntryName	I3L3Q2_HUMAN
+ProteinName	XIAP associated factor 1
+GeneName	XAF1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGDFSVCRNCKRHVVSANFTLHEAYCLRFLVLCPECEEPVPKETMEEHCKLEHQQAWRAVEN
+PTM	

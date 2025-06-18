@@ -1,0 +1,25 @@
+UniprotID	B1AN62
+Accession	B1AN62
+EntryName	B1AN62_HUMAN
+ProteinName	Nicotinamide nucleotide adenylyltransferase 1
+GeneName	NMNAT1
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	53...58;124...129;123...129;122...127
+validnes_region	
+nesbase_region	
+Sequence	MENSEKTEVVLLACGSFNPITNMHLRLFELAKDYMNGTGRYTVVKGIISPVGDAYKKKGLIPAYHRVIMAELATKNSKWVEVDTWESLQKEWKETLKVLRHHQEKLEASDCDHQQNSPTLERPGRKRKWTETQDSSQKKSLEPKTKDGVSLYHPGWSAVA
+PTM	

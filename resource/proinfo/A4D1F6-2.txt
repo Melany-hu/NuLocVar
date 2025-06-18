@@ -1,0 +1,25 @@
+UniprotID	A4D1F6-2
+Accession	A4D1F6;B7ZMM9;Q49AT9
+EntryName	LRRD1_HUMAN
+ProteinName	Leucine-rich repeat and death domain-containing protein 1
+GeneName	LRRD1
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTQLKELDISNNAIREIPRNIGELRNLVSLHAYNNQISYLPPSLLSLNDLQQLNLSGNNLTALPSAIYNIFSLKEINFDDNPLLRPPVEICKGKQLYTIARYLQRADERDGLQLHS
+PTM	Methylation:135,162,266,350,381,385,536,723,765;Phosphorylation:26,58,168,170,278,316,507,633,659,842,855

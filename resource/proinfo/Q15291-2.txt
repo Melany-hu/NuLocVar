@@ -1,0 +1,25 @@
+UniprotID	Q15291-2
+Accession	Q15291;A8K272;Q7Z6D8;Q8NDZ7
+EntryName	RBBP5_HUMAN
+ProteinName	Retinoblastoma-binding protein 5 (RBBP-5) (Retinoblastoma-binding protein RBQ-3)
+GeneName	RBBP5 RBQ3
+Length	500
+Function	In embryonic stem (ES) cells, plays a crucial role in the differentiation potential, particularly along the neural lineage, regulating gene induction and H3 'Lys-4' methylation at key developmental loci, including that mediated by retinoic acid (By similarity). Does not affect ES cell self-renewal (By similarity). Component or associated component of some histone methyltransferase complexes which regulates transcription through recruitment of those complexes to gene promoters (PubMed:19131338). As part of the MLL1/MLL complex, involved in mono-, di- and trimethylation at 'Lys-4' of histone H3 (PubMed:19556245). Histone H3 'Lys-4' methylation represents a specific tag for epigenetic transcriptional activation (PubMed:19556245). In association with ASH2L and WDR5, stimulates the histone methyltransferase activities of KMT2A, KMT2B, KMT2C, KMT2D, SETD1A and SETD1B (PubMed:21220120, PubMed:22266653).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLELLESFGQNYPEEADGTLDCISMALTCTFNRWGTLLAVGCNDGRIVIWDFLTRGIAKIISAHIHPVCSLCWSRDGHKLVSASTDNIVSQWDVLSGDCDQRFRFPSPILKVQYHPRDQNKVLVCPMKSAPVMLTLSDSKHVVLPVDDDSDLNVVASFDRRGEYIYTGNAKGKILVLKTDSQDLVASFRVTTGTSNTTAIKSIEFARKGSCFLINTADRIIRVYDGREILTCGRDGEPEPMQKLQDLVNRTPWKKCCFSGDGEYIVAGSARQHALYIWEKSIGNLVKILHGTRGELLLDVAWHPVRPIIASISSGVVSIWAQNQVENWSAFAPDFKELDENVEYEERESEFDIEDEDKSEPEQTGADAAEDEEVDVTSVDPIAAFCSSDEELEDSKALLYLPIAPEVEDPEENPYGPPPDAVQTSLMDEGASSEKKRQSSADGSQPPKKKPKTTNIELQGVPNDEVHPLLGVKGDGKSKKKQAGRPKGSKAGGAISELL
+PTM	Acetylation:202,209,281,474,500,505,517;Methylation:112,179,288,474,488;Phosphorylation:108,182,188,211,345,350,388,389,440,441,497,515,525;SUMOylation:129,474;Ubiquitylation:129,172,202,244,449,517

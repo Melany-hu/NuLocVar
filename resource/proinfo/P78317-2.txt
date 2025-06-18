@@ -1,0 +1,25 @@
+UniprotID	P78317-2
+Accession	P78317;B2R6D6;D6RF58;Q49AR8
+EntryName	RNF4_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF4 (EC 2.3.2.27) (RING finger protein 4) (Small nuclear ring finger protein) (Protein SNURF)
+GeneName	RNF4 SNURF RES4-26
+Length	113
+Function	E3 ubiquitin-protein ligase which binds polysumoylated chains covalently attached to proteins and mediates 'Lys-6'-, 'Lys-11'-, 'Lys-48'- and 'Lys-63'-linked polyubiquitination of those substrates and their subsequent targeting to the proteasome for degradation (PubMed:18408734, PubMed:19307308, PubMed:35013556). Regulates the degradation of several proteins including PML and the transcriptional activator PEA3 (PubMed:18408734, PubMed:19307308, PubMed:20943951). Involved in chromosome alignment and spindle assembly, it regulates the kinetochore CENPH-CENPI-CENPK complex by targeting polysumoylated CENPI to proteasomal degradation (PubMed:20212317). Regulates the cellular responses to hypoxia and heat shock through degradation of respectively EPAS1 and PARP1 (PubMed:19779455, PubMed:20026589). Alternatively, it may also bind DNA/nucleosomes and have a more direct role in the regulation of transcription for instance enhancing basal transcription and steroid receptor-mediated transcriptional activation (PubMed:12885770). Catalyzes ubiquitination of sumoylated PARP1 in response to PARP1 trapping to chromatin, leading to PARP1 removal from chromatin by VCP/p97 (PubMed:35013556).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	4...9
+validnes_region	
+nesbase_region	
+Sequence	MSTRKRRGGAINSRQAQKRTREATSTPEISLEAEPIELVETAGDEIVDLTCESLEPVVVDLTHNDSVVIVDGPQVLSVVPSAWTDTQRSCRMDVSSFPQNAAMSSVASASVIP
+PTM	Methylation:7;Phosphorylation:90,94,95,101,107,109,110,112,152;SUMOylation:168;Ubiquitylation:168

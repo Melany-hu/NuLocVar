@@ -1,0 +1,25 @@
+UniprotID	Q70IA6-3
+Accession	Q70IA6;B4DKP3;Q96M67
+EntryName	MOB2_HUMAN
+ProteinName	MOB kinase activator 2 (HCCA2) (Mob2 homolog) (Mps one binder kinase activator-like 2)
+GeneName	MOB2 HCCA2
+Length	268
+Function	Stimulates the autophosphorylation and kinase activity of STK38 and STK38L.
+Subcellular Location	Nucleus; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGDHCSLPEDQARPGQSLQSGLCCKMVLQAVSKVLRKSKAKPNGKKPAAEERKAYLEPEHTKARITDFQFKELVVLPREIDLNEWLASNTTTFFHHINLQYSTISEFCTGETCQTMAVCNTQYYWYDERGKKVKCTAPQYVDFVMSSVQKLVTDEDVFPTKYGREFPSSFESLVRKICRHLFHVLAHIYWAHFKETLALELHGHLNTLYVHFILFAREFNLLDPKETAIMDDLTEVLCSGAGGVHSGGSGDGAGSGGPGAQNHVKER
+PTM	Acetylation:7;Methylation:195;Ubiquitylation:7,23,32,131

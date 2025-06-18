@@ -1,0 +1,25 @@
+UniprotID	P36873-2
+Accession	P36873
+EntryName	PP1G_HUMAN
+ProteinName	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit (PP-1G) (EC 3.1.3.16) (Protein phosphatase 1C catalytic subunit)
+GeneName	PPP1CC
+Length	337
+Function	Protein phosphatase that associates with over 200 regulatory proteins to form highly specific holoenzymes which dephosphorylate hundreds of biological targets (PubMed:17936702, PubMed:25012651). Protein phosphatase 1 (PP1) is essential for cell division, and participates in the regulation of glycogen metabolism, muscle contractility and protein synthesis. Dephosphorylates RPS6KB1 (PubMed:17936702). Involved in regulation of ionic conductances and long-term synaptic plasticity. May play an important role in dephosphorylating substrates such as the postsynaptic density-associated Ca(2+)/calmodulin dependent protein kinase II. Component of the PTW/PP1 phosphatase complex, which plays a role in the control of chromatin structure and cell cycle progression during the transition from mitosis into interphase (PubMed:20516061). In balance with CSNK1D and CSNK1E, determines the circadian period length, through the regulation of the speed and rhythmicity of PER1 and PER2 phosphorylation (PubMed:21712997). May dephosphorylate CSNK1D and CSNK1E (By similarity). Regulates the recruitment of the SKA complex to kinetochores (PubMed:28982702). Dephosphorylates the 'Ser-418' residue of FOXP3 in regulatory T-cells (Treg) from patients with rheumatoid arthritis, thereby inactivating FOXP3 and rendering Treg cells functionally defective (PubMed:23396208). Together with PPP1CA (PP1-alpha subunit), dephosphorylates IFIH1/MDA5 and RIG-I leading to their activation and a functional innate immune response (PubMed:23499489). Core component of the SHOC2-MRAS-PP1c (SMP) holophosphatase complex that regulates the MAPK pathway activation (PubMed:35768504, PubMed:35831509). The SMP complex specifically dephosphorylates the inhibitory phosphorylation at 'Ser-259' of RAF1 kinase, 'Ser-365' of BRAF kinase and 'Ser-214' of ARAF kinase, stimulating their kinase activities (PubMed:35768504, PubMed:35831509). Dephosphorylates MKI67 at the onset of anaphase (PubMed:25012651). The SMP complex enhances the dephosphorylation activity and substrate specificity of PP1c (PubMed:35768504, PubMed:35831509).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; Nucleolus; Nucleus; Nucleoplasm; Nucleus speckle; Chromosome; Centromere; Kinetochore; Cleavage furrow; Midbody; Mitochondrion; Cytoplasm; Cytoskeleton; Microtubule organizing center
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADLDKLNIDSIIQRLLEVRGSKPGKNVQLQENEIRGLCLKSREIFLSQPILLELEAPLKICGDIHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKIKYPENFFLLRGNHECASINRIYGFYDECKRRYNIKLWKTFTDCFNCLPIAAIVDEKIFCCHGGLSPDLQSMEQIRRIMRPTDVPDQGLLCDLLWSDPDKDVLGWGENDRGVSFTFGAEVVAKFLHKHDLDLICRAHQVVEDGYEFFAKRQLVTLFSAPNYCGEFDNAGAMMSVDETLMCSFQILKPAEKKKPNATRPVTPPRVASGLNPSIQKASNYRNNTVLYE
+PTM	Acetylation:6,113,141,147,150,238,260,319;Methylation:6,36,41,60,111,113,122,141,168,187,188,260,297;Phosphorylation:42,48,129,134,137,182,255,307,311,318;SUMOylation:6,26,113,147,168,238,260;Ubiquitylation:6,23,26,41,60,98,113,141,147,150,168,238,260,303

@@ -1,0 +1,25 @@
+UniprotID	P57054-3
+Accession	P57054;A0A0C4DH71;B2RB18;B2RE99;B5BU92;D3DSG7;J3KR75;Q53Y28;Q96KI1;Q9NZA6
+EntryName	PIGP_HUMAN
+ProteinName	Phosphatidylinositol N-acetylglucosaminyltransferase subunit P (Down syndrome critical region protein 5) (Down syndrome critical region protein C) (Phosphatidylinositol-glycan biosynthesis class P protein) (PIG-P)
+GeneName	PIGP DCRC DSCR5 DSCRC NPD010
+Length	108
+Function	Part of the glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex that catalyzes the transfer of N-acetylglucosamine from UDP-N-acetylglucosamine to phosphatidylinositol and participates in the first step of GPI biosynthesis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLYLVWAFIPESWLNSLGLTYWPQKYWAVALPVYLLIAIVIGYVLLFGINMMSTSPLDSIHTITDNYAKNQQQKKYQEEAIPALRDISISEVNQMFFLAAKELYTKN
+PTM	Phosphorylation:31

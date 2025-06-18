@@ -1,0 +1,25 @@
+UniprotID	Q8TBG9-2
+Accession	Q8TBG9;B2R675;G5E9W4
+EntryName	SYNPR_HUMAN
+ProteinName	Synaptoporin
+GeneName	SYNPR
+Length	285
+Function	Intrinsic membrane protein of small synaptic vesicles. Probable vesicular channel protein (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Synapse; Synaptosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPVSQLASAGTFRVLKEPLAFLRALELLFAIFAFATCGGYSGGLRLSVDCVNKTESNLSIDIAFAYPFRLHQVTFEVPTCEGKERQKLALIGDSSSSAEFFVTVAVFAFLYSLAATVVYIFFQNKYRENNRGPLIDFIVTVVFSFLWLVGSSAWAKGLSDVKVATDPKEVLLLMSACKQPSNKCMAIHSPVMSSLNTSVVFGFLNFILWAGNIWFVFKETGWHSSGQRYLSDPMEKHSSSYNQGGYNQDSYGSSSGYSQQASLGPTSDEFGQQPTGPTSFTNQI
+PTM	SUMOylation:159

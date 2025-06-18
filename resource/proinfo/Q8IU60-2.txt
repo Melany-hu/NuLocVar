@@ -1,0 +1,25 @@
+UniprotID	Q8IU60-2
+Accession	Q8IU60;C9J778;Q6P2D4;Q7Z5W5;Q8NBG5
+EntryName	DCP2_HUMAN
+ProteinName	m7GpppN-mRNA hydrolase (EC 3.6.1.62) (Nucleoside diphosphate-linked moiety X motif 20) (Nudix motif 20) (mRNA-decapping enzyme 2) (hDpc)
+GeneName	DCP2 NUDT20
+Length	385
+Function	Decapping metalloenzyme that catalyzes the cleavage of the cap structure on mRNAs (PubMed:12218187, PubMed:12417715, PubMed:12923261, PubMed:21070968, PubMed:28002401, PubMed:31875550). Removes the 7-methyl guanine cap structure from mRNA molecules, yielding a 5'-phosphorylated mRNA fragment and 7m-GDP (PubMed:12486012, PubMed:12923261, PubMed:21070968, PubMed:28002401, PubMed:31875550). Necessary for the degradation of mRNAs, both in normal mRNA turnover and in nonsense-mediated mRNA decay (PubMed:14527413). Plays a role in replication-dependent histone mRNA degradation (PubMed:18172165). Has higher activity towards mRNAs that lack a poly(A) tail (PubMed:21070968). Has no activity towards a cap structure lacking an RNA moiety (PubMed:21070968). The presence of a N(6)-methyladenosine methylation at the second transcribed position of mRNAs (N(6),2'-O-dimethyladenosine cap; m6A(m)) provides resistance to DCP2-mediated decapping (PubMed:28002401). Blocks autophagy in nutrient-rich conditions by repressing the expression of ATG-related genes through degradation of their transcripts (PubMed:26098573).
+Subcellular Location	Cytoplasm; P-body; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METKRVEIPGSVLDDLCSRFILHIPSEERDNAIRVCFQIELAHWFYLDFYMQNTPGLPQCGIRDFAKAVFSHCPFLLPQGEDVEKVLDEWKEYKMGVPTYGAIILDETLENVLLVQGYLAKSGWGFPKGKVNKEEAPHDCAAREVFEETGFDIKDYICKDDYIELRINDQLARLYIIPGIPKDTKFNPKTRREIRNIEWFSIEKLPCHRNDMTPKSKLGLAPNKFFMAIPFIRPLRDWLSRRFGDSSDSDNGFSSTGSTPAKPTVEKLSRTKFRHSQQLFPDGSPGDQWVKHRQPLQQKPYNNHSEMSDLLKGKKCEKKLHPRKLQDNFETDAVYDLPSSSEDQLLEHAEGQPVACNGHCKFPFSSRAFLSFKFDHNAIMKILDL
+PTM	Methylation:182,204,312,314,319,350;Phosphorylation:162,201,246,247,249,254,255,256,276,284,329,347;SUMOylation:185;Ubiquitylation:130

@@ -1,0 +1,25 @@
+UniprotID	Q9Y577-2
+Accession	Q9Y577;B4DVJ2;Q5VST8
+EntryName	TRI17_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM17 (EC 2.3.2.27) (RING finger protein 16) (RING-type E3 ubiquitin transferase TRIM17) (Testis RING finger protein) (Tripartite motif-containing protein 17)
+GeneName	TRIM17 RBCC RNF16 TERF
+Length	343
+Function	E3 ubiquitin ligase that plays important roles in the regulation of neuronal apoptosis, selective autophagy or cell proliferation (PubMed:19358823, PubMed:22023800, PubMed:27562068). Stimulates the degradation of kinetochore ZW10 interacting protein ZWINT in a proteasome-dependent manner, leading to negative regulation of cell proliferation (PubMed:22023800). Inhibits autophagic degradation of diverse known targets while contributing to autophagy of midbodies. Autophagy-inhibitory activity involves MCL1, which TRIM17 assembles into complexes with the key autophagy regulator BECN1 (PubMed:27562068). Controls neuronal apoptosis by mediating ubiquitination and degradation of MCL1 to initiate neuronal death. In addition, regulates NFAT transcription factors NFATC3 and NFATC4 activities by preventing their nuclear localization, thus inhibiting their transcriptional activities. Decreases TRIM41-mediated degradation of ZSCAN2 thereby stimulating alpha-synuclein/SNCA transcription in neuronal cells (By similarity). Prevents the E3 ubiquitin-ligase activity of TRIM28 and its interaction with anti-apoptotic BCL2A1, blocking TRIM28 from ubiquitinating BCL2A1 (PubMed:19358823).
+Subcellular Location	Cytoplasm; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	54...59
+validnes_region	
+nesbase_region	
+Sequence	MEAVELARKLQEEATCSICLDYFTDPVMTTCGHNFCRACIQLSWEKARGKKGRRKRKGSFPCPECREMSPQRNLLPNRLLTKVAEMAQQHPGLQKQDLCQEHHEPLKLFCQKDQSPICVVCRESREHRLHRVLPAEEAVQGYKLKLEEDMEYLREQITRTGNLQAREEQSLAEWQGKVKERRERIVLEFEKMNLYLVEEEQRLLQALETEEEETASRLRESVACLDRQGHSLELLLLQLEERSTQGPLQMLQDMKEPLSRKNNVSVQCPEVAPPTRPRTVCRVPGQIEVLRGFLGKWAPRARTSDPGSLGDAPLYPLASEATNGGGSTSALPGDGHWLFTVPS
+PTM	Methylation:82,395;Phosphorylation:407;SUMOylation:145

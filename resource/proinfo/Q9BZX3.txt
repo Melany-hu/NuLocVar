@@ -1,0 +1,25 @@
+UniprotID	Q9BZX3
+Accession	Q9BZX3
+EntryName	Q9BZX3_HUMAN
+ProteinName	Neuron specific transcription factor
+GeneName	CUX2
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAPVLKSFQAEVVALSKRSQEAEAAFLSVYKQLIEAPDPVPVFEAARSLDDRLQPPSFDPSGQPRRDLHTSWKRNPELLSPKEQREGTSPAGPTLTEGSRLPGIPGKALLTETLLQRNEAEKQKGLQE
+PTM	

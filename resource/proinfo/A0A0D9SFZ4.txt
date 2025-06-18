@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SFZ4
+Accession	A0A0D9SFZ4
+EntryName	A0A0D9SFZ4_HUMAN
+ProteinName	Receptor like tyrosine kinase
+GeneName	RYK
+Length	157
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ESCKLRGLHHRNLLPITHVCIEEGEKPMVILPYMNWGNLKLFLRQCKLVEANNPQAISQQDLVHMAIQIACGMSYLARREVIHKDLAARNCVIDDTLQVKITDNALSRDLFPMDYHCLGDNENRPVRWMALESLVNNEFSSASDVAPPCGAALFGVS
+PTM	

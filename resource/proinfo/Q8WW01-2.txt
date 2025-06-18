@@ -1,0 +1,25 @@
+UniprotID	Q8WW01-2
+Accession	Q8WW01;B4DKP0;Q9BZQ5
+EntryName	SEN15_HUMAN
+ProteinName	tRNA-splicing endonuclease subunit Sen15 (SEN15 homolog) (HsSEN15) (tRNA-intron endonuclease Sen15)
+GeneName	TSEN15 C1orf19 SEN15
+Length	129
+Function	Non-catalytic subunit of the tRNA-splicing endonuclease complex, a complex responsible for identification and cleavage of the splice sites in pre-tRNA. It cleaves pre-tRNA at the 5' and 3' splice sites to release the intron. The products are an intron and two tRNA half-molecules bearing 2',3' cyclic phosphate and 5'-OH termini (PubMed:15109492, PubMed:27392077). There are no conserved sequences at the splice sites, but the intron is invariably located at the same site in the gene, placing the splice sites an invariant distance from the constant structural features of the tRNA body. The tRNA splicing endonuclease is also involved in mRNA processing via its association with pre-mRNA 3'-end processing factors, establishing a link between pre-tRNA splicing and pre-mRNA 3'-end formation, suggesting that the endonuclease subunits function in multiple RNA-processing events (PubMed:15109492).
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEERGDSEPTPGCSGLGPGGVRGFGDGGGAPSWAPEDAWMGTHPKYLEMMELDIGDATQVYVAFLVYLDLMESKSWHEVNCVGLPELQLICLVGTEIEGEGLQTVVPTPITASLSHNRIFLLEDDIHVS
+PTM	Methylation:124;Phosphorylation:7,10,168;Ubiquitylation:124

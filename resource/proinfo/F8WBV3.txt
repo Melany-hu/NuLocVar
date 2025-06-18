@@ -1,0 +1,25 @@
+UniprotID	F8WBV3
+Accession	F8WBV3
+EntryName	F8WBV3_HUMAN
+ProteinName	Zinc finger protein 28
+GeneName	ZNF28
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLENYRNLVSLDFRSVTQAKVQWCHLGSLQPPLPRFKQFSCLSLPSSWDYRARQYRSVPHRDIAKTSKSSHWRFLLPEN
+PTM	

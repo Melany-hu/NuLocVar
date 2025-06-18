@@ -1,0 +1,25 @@
+UniprotID	Q8WYA6-3
+Accession	Q8WYA6;B4DE16;Q0VAL9;Q0VAM0;Q53HI8;Q5JWZ2;Q5JWZ3;Q5JWZ7;Q5JWZ8;Q8N454;Q8NCL2;Q8TBD6;Q96KD2;Q9H7A5;Q9NQF9;Q9NTX0;Q9Y3M7
+EntryName	CTBL1_HUMAN
+ProteinName	Beta-catenin-like protein 1 (Nuclear-associated protein) (NAP) (Testis development protein NYD-SP19)
+GeneName	CTNNBL1 C20orf33 PP8304
+Length	311
+Function	Component of the PRP19-CDC5L complex that forms an integral part of the spliceosome and is required for activating pre-mRNA splicing. Participates in AID/AICDA-mediated somatic hypermutation (SHM) and class-switch recombination (CSR), 2 processes resulting in the production of high-affinity, mutated isotype-switched antibodies (PubMed:32484799).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	16..33
+UniprotNESRegion	130..140
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFDANKLYCSEVLAILLQDNDENRELLGELDGIDVLLQQLSVFKRHNPSTAEEQEMMENLFDSLCSCLMLSSNRERFLKGEGLQLMNLMLREKKISRSSALKVLDHAMIGPEGTDNCHKFVDILGLRTIFPLFMKSPRKIKKVGTTEKEHEEHVCSILASLLRNLRGQQRTRLLNKFTENDSEKVDRLMELHFKYLGAMQVADKKIEGEKHDMVRRGEIIDNDTEEEFYLRRLDAGLFVLQHICYIMAEICNANVPQIRQRVHQILNMRGSSIKIVRHIIKEYAENIGDGRSPEFRENEQKRILGLLENF
+PTM	Acetylation:27,83,91,95,102,372,429,437,457,463,527,534;Methylation:65,83,91,247,297,355,429,437,457,463,469,484;Phosphorylation:80,81,389,399,536,545;SUMOylation:16,27,56,57,83,332;Ubiquitylation:332,527

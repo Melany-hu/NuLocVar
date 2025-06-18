@@ -1,0 +1,25 @@
+UniprotID	Q96L15-2
+Accession	Q96L15;C9IYG7;Q6UX84;Q86W02
+EntryName	NAR5_HUMAN
+ProteinName	Ecto-ADP-ribosyltransferase 5 (EC 2.4.2.31) (ADP-ribosyltransferase C2 and C3 toxin-like 5) (ARTC5) (Mono(ADP-ribosyl)transferase 5) (NAD(P)(+)--arginine ADP-ribosyltransferase 5)
+GeneName	ART5 UNQ575/PRO1137
+Length	239
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALAALMIALGSLGLHTWQAQAVPILPLGLAPDTFDDTYVGCAEEMEEKAAPLLKEEMAHHALLRESWEAAQETWEDKRRGLTLPPGFKAQNGIAIMVYTNSSNTLYWELNQAVRTGGGSRELYMRHFPFKALHFYLIRALQLLRGSGGCSRGPGEVVFRGVGSLRFEPKRLGDSVRLGQFASSSLDKAVAHRFGEKRRGCVSAPGVQLGSQSEGASSLPPWKTLLLAPGEFQLSGVGP
+PTM	Methylation:55

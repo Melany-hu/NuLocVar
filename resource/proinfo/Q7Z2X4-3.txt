@@ -1,0 +1,25 @@
+UniprotID	Q7Z2X4-3
+Accession	Q7Z2X4;B3KU82;Q68CJ2;Q6ZUS3;Q8IXL0;Q9NWP6
+EntryName	PCLI1_HUMAN
+ProteinName	PTB-containing, cubilin and LRP1-interacting protein (P-CLI1) (Phosphotyrosine interaction domain-containing protein 1) (Protein NYGGF4)
+GeneName	PID1 NYGGF4 PCLI1 HMFN2073
+Length	168
+Function	Increases proliferation of preadipocytes without affecting adipocytic differentiation.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQPATERLQVTYLGKVSTTGMQFLSGCTEKPVIELWKKHTLAREDVFPANALLEIRPFQVWLHHLDHKGEATVHMDTFQVARIAYCTADHNVSPNIFAWVYREINDDLSYQMDCHAVECESKLEAKKLAHAMMEAFRKTFHSMKSDGRIHSNSSSEEVSQELESDDG
+PTM	Methylation:59,98,165,185;Phosphorylation:19,51,234,236,237,242,247;SUMOylation:59

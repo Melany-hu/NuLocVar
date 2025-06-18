@@ -1,0 +1,25 @@
+UniprotID	A0A499FJ41
+Accession	A0A499FJ41
+EntryName	A0A499FJ41_HUMAN
+ProteinName	Calcyphosine
+GeneName	CAPS hCG_23051
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAVDATMEKLRAQCLSRGASGIQGLARFFRQLDRDGSRSLDADEFRQGLAKLGLVLDQAEAEGVCRKWDRNGSGTLDLEEFLRALRPPMSQAREAVIAAAFAKLDRSGDGVVTVDDLRGVYSGRAHPKVTLAEFQDYYSGVSASMNTDEEFVAMMTSAWQL
+PTM	

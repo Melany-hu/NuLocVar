@@ -1,0 +1,25 @@
+UniprotID	Q96DZ4
+Accession	Q96DZ4
+EntryName	Q96DZ4_HUMAN
+ProteinName	interstitial collagenase (EC 3.4.24.7)
+GeneName	MMP1
+Length	232
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PSYTFSGDVQLAQDDIDGIQAIYGRSQNPVQPIGPQTPKACDSKLTFDAITTIRGEVMFFKDRFYMRTNPFYPEVELNFISVFWPQLPNGLEAAYEFADRDEVRFFKGNKYWAVQGQNVLHGYPKDIYSSFGFPRTVKHIDAALSEENTGKTYFFVANKYWRYDEYKRSMDPGYPKMIAHDFPGIGHKVDAVFMKDGFFYFFHGTRQYKFDPKTKRILTLQKANSWFNCRKN
+PTM	

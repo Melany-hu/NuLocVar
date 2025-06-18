@@ -1,0 +1,25 @@
+UniprotID	Q08AJ9
+Accession	Q08AJ9
+EntryName	Q08AJ9_HUMAN
+ProteinName	Histone H2A
+GeneName	HIST1H2AB HIST1H2AE hCG_1640984 hCG_1787383
+Length	130
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYSERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTESHHKAKGK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8TCJ0-2
+Accession	Q8TCJ0;Q6PJ83;Q7Z4V4;Q9UKB8
+EntryName	FBX25_HUMAN
+ProteinName	F-box only protein 25
+GeneName	FBXO25 FBX25
+Length	358
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex. May play a role in accumulation of expanded polyglutamine (polyQ) protein huntingtin (HTT) (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	65...70
+validnes_region	
+nesbase_region	
+Sequence	MPFLGQDWRSPGWSWIKTEDGWKRCESCSQKLERENNRCNISHSIILNSEDGEIFNNEEHEYASKKRKKDHFRNDTNTQSFYREKWIYVHKESTKERHGYCTLGEAFNRLDFSSAIQDIRRFNYVVKLLQLIAKSQLTSLSGVAQKNYFNILDKIVQKVLDDHHNPRLIKDLLQDLSSTLCILIRGVGKSVLVGNINIWICRLETILAWQQQLQDLQMTKQVNNGLTLSDLPLHMLNNILYRFSDGWDIITLGQVTPTLYMLSEDRQLWKKLCQYHFAEKQFCRHLILSEKGHIEWKLMYFALQKHYPAKEQYGDTLHFCRHCSILFWKDSGHPCTAADPDSCFTPVSPQHFIDLFKF
+PTM	Methylation:134,154,305,329,338;Phosphorylation:138,139,141,241,289;SUMOylation:17,31

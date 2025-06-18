@@ -1,0 +1,25 @@
+UniprotID	P61313-2
+Accession	P61313;P39030;P41051;Q5U0C0;Q642I1;Q6IPX6;Q8WYP2;Q96C44;Q9H2E5
+EntryName	RL15_HUMAN
+ProteinName	Large ribosomal subunit protein eL15 (60S ribosomal protein L15)
+GeneName	RPL15 EC45 TCBAP0781
+Length	145
+Function	Component of the large ribosomal subunit. The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAYKYIQELWRKKQSDVMRFLLRVRCWQYRQLSALHRAPRPTRPDKARRLGYKAKQGYVIYRIRVRRGGRKRPVPKGATYGKPVHHGVNQLKFARSLQSVAEERAGRHCGALRVLNSYWMESHSHSGGSAVGQSRLTATSVSRV
+PTM	Acetylation:5,83,93,140,153,176,179;Methylation:5,12,63,105,128,140,162,176;Phosphorylation:34,59,81,97,100,127,183,187,197;SUMOylation:5,56,77,83,93,140,153,157,176,179;Ubiquitylation:5,54,56,77,83,93,140,153,157,179

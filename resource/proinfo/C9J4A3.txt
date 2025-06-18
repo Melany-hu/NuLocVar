@@ -1,0 +1,25 @@
+UniprotID	C9J4A3
+Accession	C9J4A3
+EntryName	C9J4A3_HUMAN
+ProteinName	HCG2018530, isoform CRA_c (Solute carrier family 13 member 3)
+GeneName	SLC13A3 hCG_2018530
+Length	185
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVYWCTEALPLSVTALLPIVLFPFMGILPSNKVCPQYFLDTNFLFLSGLIMASAIEEWNLHRRIALKILMLVGVQPARLILGMMVTTSFLSMWLSNTASTAMMLPIANAILKSLFGQKEVRKDPSQESEENTGIEPNTFLSEERLKLQAPLVIRLGQITESGQWNMSGNDVCNFRVLSFLPGGM
+PTM	

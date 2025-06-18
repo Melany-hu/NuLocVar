@@ -1,0 +1,25 @@
+UniprotID	M0QYN5
+Accession	M0QYN5
+EntryName	M0QYN5_HUMAN
+ProteinName	Kallikrein related peptidase 4
+GeneName	KLK4
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEASLSVRHPEYNRPLLANDLMLIKLDESVSESDTIRSISIASQCPTAGNSCLVSGWGLLANECLPCCSA
+PTM	

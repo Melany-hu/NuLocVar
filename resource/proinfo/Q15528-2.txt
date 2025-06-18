@@ -1,0 +1,25 @@
+UniprotID	Q15528-2
+Accession	Q15528;B3KW83;B3KWX4;O76072;Q5T8U0
+EntryName	MED22_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 22 (Mediator complex subunit 22) (Surfeit locus protein 5) (Surf-5)
+GeneName	MED22 SURF5
+Length	140
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQQRALPQSKETLLQSYNKRLKDDIKSIMDNFTEIIKTAKIEDETQVSRATQGEQDNYEMHVRAANIVRAGESLMKLVSDLKQFLILNDFPSVNEAIDQRNQQLRTLQEECDRKLITLRDEISIDLYELEEEYYSSRYK
+PTM	Methylation:38,77;Phosphorylation:173;SUMOylation:11;Ubiquitylation:11,38,83

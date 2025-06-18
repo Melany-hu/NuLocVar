@@ -1,0 +1,25 @@
+UniprotID	O95684-2
+Accession	O95684;A8K1D1;B2R705;Q49AI0;Q5R3F6;Q96EW1
+EntryName	CEP43_HUMAN
+ProteinName	Centrosomal protein 43 (FGFR1 oncogene partner)
+GeneName	CEP43 FGFR1OP FOP
+Length	379
+Function	Required for anchoring microtubules to the centrosomes (PubMed:16314388, PubMed:28659385). Required for ciliation (PubMed:28625565, PubMed:28659385).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATAAAVVAEEDTELRDLLVQTLENSGVLNRIKAELRAAVFLALEEQEKVENKTPLVNESLKKFLNTKDGRLVASLVAEFLQFFNLDFTLAVFQPETSTLQGLEGRENLARDLGIIEAEGTVGGPLLLEVIRRCQQKEKGPTTGEGALDLSDVHSPPKSPEGKTSAQTTPSKKANDEANQSDTSVSLSEPKSKSSLHLLSHETKIGSFLSNRTLDGKDKAGLCPDEDDMEGDSFFDDPIPKPEKTYGLRKEPRKQAGSLASLSDAPPLKSGLSSLAGAPSLKDSESKRGNTVLKDLKLISDKIGSLGLGTGEDDDYVDDFNSTSHRSEKSEISIGEEIEEDLSVEIDDINTSDKLDDLTQDLTVSQLSDVADYLEDVA
+PTM	Acetylation:173,225,315,318;Methylation:182,212;Phosphorylation:55,143,144,152,156,160,165,166,169,170,172,202,204,205,207,209,213,215,216,228,231,234,254,301,305,326,337,343,348,364;Ubiquitylation:63,69,303,318

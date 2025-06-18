@@ -1,0 +1,25 @@
+UniprotID	Q9Y5K1-2
+Accession	Q9Y5K1;Q5TCI1;Q8N4V0;Q9NQM7;Q9NQM8
+EntryName	SPO11_HUMAN
+ProteinName	Meiotic recombination protein SPO11 (EC 5.6.2.2) (Cancer/testis antigen 35) (CT35)
+GeneName	SPO11
+Length	358
+Function	Component of a topoisomerase 6 complex specifically required for meiotic recombination. Together with TOP6BL, mediates DNA cleavage that forms the double-strand breaks (DSB) that initiate meiotic recombination. The complex promotes relaxation of negative and positive supercoiled DNA and DNA decatenation through cleavage and ligation cycles. Essential for the phosphorylation of SMC3, HORMAD1 and HORMAD2.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFAPMGPEASFFDVLDRHRESLLAALRRGGREPPTGGSRLASRFEDSVGLQMVSHCTTRKIKSDSPKSAQKFSLILKILSMIYKLVQSNTYATKRDIYYTDSQLFGNQTVVDNIINDISCMLKVSRRSLHILSTSKGLIAGNLRYIEEDGTKVNCTCGATAVAVPSNIQGIRNLVTDAKFVLIVEKDATFQRLLDDNFCNKLSPCIMITGKGVPDLNTRLLVKKLWDTFHVPVFTLVDADPHGIEIMCIYKYGSMSMSFEAHHLTVPAIRWLGLLPSDLKRLNVPKDSLIPLTKRDQMKLDSILRRPYVTCQPFWRKEMEIMADSKMKAEIQALTFLSSDYLSRVYLPNKLKFGGWI
+PTM	Methylation:82,106,116,225,262,325;Phosphorylation:341

@@ -1,0 +1,25 @@
+UniprotID	K7EMB6
+Accession	K7EMB6
+EntryName	K7EMB6_HUMAN
+ProteinName	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (EC 2.4.3.3)
+GeneName	ST6GALNAC1
+Length	152
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GSLRCITCAVVGNGGILNNSHMGQEIDSHDYVFRLSGALIKGYEQDVGTRTSFYGFTAFSLTQSLLILGNRGFKNVPLGKDVRYLHFLEGTRDYEWLEALLMNQTVMSKNLFWFRHRPQEAFREALHMDRFLRSKTLDGAHWRIYRPTTGAL
+PTM	

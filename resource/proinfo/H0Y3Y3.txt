@@ -1,0 +1,25 @@
+UniprotID	H0Y3Y3
+Accession	H0Y3Y3
+EntryName	H0Y3Y3_HUMAN
+ProteinName	Phosphofructokinase, platelet
+GeneName	PFKP
+Length	166
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XADGHRMLAIYDGFDGFAKGQIKEIGWTDVGGWTGQGGSILGTKRVLPGKYLEEIATQMRTHSINALLIIGGFEAYKSACDMAEARGRHQELCIPLCVVPATISNNVPGTEISLGSDTGLNAVVETCDRIKQSASGTKRRVFIIETMGGYCGYLANMGGLAAGADA
+PTM	

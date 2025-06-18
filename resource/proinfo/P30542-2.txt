@@ -1,0 +1,25 @@
+UniprotID	P30542-2
+Accession	P30542;A6NFY5;A6NGP4;A8K1L3;B3KXQ4;D2CGD0;Q6FHK3;Q8TAM8
+EntryName	AA1R_HUMAN
+ProteinName	Adenosine receptor A1
+GeneName	ADORA1
+Length	125
+Function	Receptor for adenosine. The activity of this receptor is mediated by G proteins which inhibit adenylyl cyclase.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPSISAFQAAYIGIEVLIALVSVPGNVLVIWAVKVNQALRDATFCFIVSLAVADVAVGALVIPLAILINIGPQTYFHTCLMVACPVLILTQSSILALLAIAVDRYLRVKIPLRRISQCMASTKS
+PTM	Methylation:209

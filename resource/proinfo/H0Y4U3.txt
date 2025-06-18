@@ -1,0 +1,25 @@
+UniprotID	H0Y4U3
+Accession	H0Y4U3
+EntryName	H0Y4U3_HUMAN
+ProteinName	Fc gamma receptor IIIb
+GeneName	FCGR3B
+Length	232
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQLLLPTALLLLVSAGMRTDLPKAVVFLEPQWYSVLEKDSVTLKCQGAYSPEDNSTQWFHNENLISSQASSYFIDAATVNDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKEEDPIHLRCHSWKNTALHKVTYLQNGKDRKYFHHNSDFHIPKATLKDSGSYFCRGLVGSKNVSSETVNITITQGLAVSTISSFSPPGYQVSFCLVMVLLFAVDTGLYFSVKTNI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8N4L8-2
+Accession	Q8N4L8;Q6RWT2
+EntryName	CCD24_HUMAN
+ProteinName	Coiled-coil domain-containing protein 24
+GeneName	CCDC24
+Length	271
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRHSPSLWELVEEHVPLRERREVKRILGEAAVDLSLELRAEDLLRQELRQLLQGLRHKAICEGRDQAQAWVQYSPRVLHFALEEPRCDLPEQEIFQMRGGGPSSGHRDLSIIKDQLNVSNIDQVARHLRGLLEEECHTLEREILILQRCLEEEYLRPCHPSEAALEPTLAELKEQKKAMEQELQASVGPSCVSPNHRQRPLGSSTQGLRPPLPLCGVAPLQCCLPAPPLEPYLRPRGQSATHRWGRQLQCSPREGPASTPMSSAAPQAPA
+PTM	Methylation:150,210;Phosphorylation:36

@@ -1,0 +1,25 @@
+UniprotID	Q8N118-2
+Accession	Q8N118;G3V1U1;Q5VVE5;Q6ZN67;Q8NAZ3
+EntryName	CP4X1_HUMAN
+ProteinName	Cytochrome P450 4X1 (EC 1.14.14.-) (CYPIVX1)
+GeneName	CYP4X1 UNQ1929/PRO4404
+Length	508
+Function	A cytochrome P450 monooxygenase that selectively catalyzes the epoxidation of the last double bond of the arachidonoyl moiety of anandamide, potentially modulating endocannabinoid signaling. Has no hydroxylase activity toward various fatty acids, steroids and prostaglandins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMWGGGLDLCPMPGQLKFPPCLSRCLLWEPPSLYLTQPTSSLAEPQALICMTSSSSGLFIQDDNMEKLEEIIEKYPRAFPFWIGPFQAFFCIYDPDYAKTLLSRTDPKSQYLQKFSPPLLGKGLAALDGPKWFQHRRLLTPGFHFNILKAYIEVMAHSVKMMLDKWEKICSTQDTSVEVYEHINSMSLDIIMKCAFSKETNCQTNSTHDPYAKAIFELSKIIFHRLYSLLYHSDIIFKLSPQGYRFQKLSRVLNQYTDTIIQERKKSLQAGVKQDNTPKRKYQDFLDIVLSAKDESGSSFSDIDVHSEVSTFLLAGHDTLAASISWILYCLALNPEHQERCREEVRGILGDGSSITWDQLGEMSYTTMCIKETCRLIPAVPSISRDLSKPLTFPDGCTLPAGITVVLSIWGLHHNPAVWKNPKVFDPLRFSQENSDQRHPYAYLPFSAGSRNCIGQEFAMIELKVTIALILLHFRVTPDPTRPLTFPNHFILKPKNGMYLHLKKLSEC
+PTM	Methylation:31,75,123,150,239,390,421;Phosphorylation:241,268,389

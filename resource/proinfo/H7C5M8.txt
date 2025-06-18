@@ -1,0 +1,25 @@
+UniprotID	H7C5M8
+Accession	H7C5M8
+EntryName	H7C5M8_HUMAN
+ProteinName	Cytoplasmic linker associated protein 2
+GeneName	CLASP2
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSMPTHSSPRSRDYNPYNYSDSISPFNKSALKEAMFDDDADQFPDDLSLDHSDLVAELLKELSNHNERVEERKIALYELMKLTQEESFSVWDEHFKTILLLLLETLGDKEPTIRALALKVLREILRHQPARFKNYAELTVMKTLEAHKDPHKEGYDNSESSVRKACVFCLVAVHAVIGDELKPHLSQLTGSKMKLLNLYIKRAQTGSGGADPTTDVSGQS
+PTM	

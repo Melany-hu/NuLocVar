@@ -1,0 +1,25 @@
+UniprotID	Q8WYK2-2
+Accession	Q8WYK2;J3KN58;O95430;Q9UIE4
+EntryName	JDP2_HUMAN
+ProteinName	Jun dimerization protein 2
+GeneName	JDP2
+Length	174
+Function	Component of the AP-1 transcription factor that represses transactivation mediated by the Jun family of proteins. Involved in a variety of transcriptional responses associated with AP-1 such as UV-induced apoptosis, cell differentiation, tumorigenesis and antitumogeneris. Can also function as a repressor by recruiting histone deacetylase 3/HDAC3 to the promoter region of JUN. May control transcription via direct regulation of the modification of histones and the assembly of chromatin.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	84...89
+validnes_region	
+nesbase_region	
+Sequence	MVAGWPATPPAMMPGQIPDPSVTTGSLPGLGPLTGLPSSALTVEELKYADIRNLGAMIAPLHFLEVKLGKRPQPVKSELDEEEERRKRRREKNKVAAARCRNKKKERTEFLQRESERLELMNAELKTQIEELKQERQQLILMLNRHRPTCIVRTDSVKTPESEGNPLLEQLEKK
+PTM	Methylation:36,56,122;Phosphorylation:143,145,148,151;SUMOylation:65,147

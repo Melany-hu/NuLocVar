@@ -1,0 +1,25 @@
+UniprotID	Q9BRJ7-2
+Accession	Q9BRJ7;Q8NAI2
+EntryName	TIRR_HUMAN
+ProteinName	Tudor-interacting repair regulator protein (NUDT16-like protein 1) (Protein syndesmos)
+GeneName	NUDT16L1 SDOS TIRR
+Length	247
+Function	Key regulator of TP53BP1 required to stabilize TP53BP1 and regulate its recruitment to chromatin (PubMed:28241136). In absence of DNA damage, interacts with the tandem Tudor-like domain of TP53BP1, masking the region that binds histone H4 dimethylated at 'Lys-20' (H4K20me2), thereby preventing TP53BP1 recruitment to chromatin and maintaining TP53BP1 localization to the nucleus (PubMed:28241136). Following DNA damage, ATM-induced phosphorylation of TP53BP1 and subsequent recruitment of RIF1 leads to dissociate NUDT16L1/TIRR from TP53BP1, unmasking the tandem Tudor-like domain and allowing recruitment of TP53BP1 to DNA double strand breaks (DSBs) (PubMed:28241136). Binds U8 snoRNA (PubMed:18820299).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTAAVPELKQISRVEAMRLGPGWSHSCHAMLYAANPGQLFGRIPMRFSVLMQMRFDGLLGFPGGFVDRRFWSLEDGLNRVLGLGLGCLRLTEADYLSSHLTEGPHRVVAHLYARQLTLEQLHAVEISAVHSRDHGLEVGPPPGPRPPPRGLALAPWKAPMGNTSPEGPLAGLGRVSLSPAMGWGEGSGAGRPGKEGRGWGPALGLPQGCVTSALLPAIANPGSGGVGSVGRKGWGRSGDCLGSWET
+PTM	Phosphorylation:148;Ubiquitylation:10,151

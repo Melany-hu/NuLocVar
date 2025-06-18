@@ -1,0 +1,25 @@
+UniprotID	P53355-3
+Accession	P53355;B7ZLD2;B7ZLE7;Q14CQ7;Q1W5W0;Q68CP8;Q6ZRZ3;Q9BTL8
+EntryName	DAPK1_HUMAN
+ProteinName	Death-associated protein kinase 1 (DAP kinase 1) (EC 2.7.11.1)
+GeneName	DAPK1 DAPK
+Length	1440
+Function	Calcium/calmodulin-dependent serine/threonine kinase involved in multiple cellular signaling pathways that trigger cell survival, apoptosis, and autophagy. Regulates both type I apoptotic and type II autophagic cell deaths signal, depending on the cellular setting. The former is caspase-dependent, while the latter is caspase-independent and is characterized by the accumulation of autophagic vesicles. Phosphorylates PIN1 resulting in inhibition of its catalytic activity, nuclear localization, and cellular function. Phosphorylates TPM1, enhancing stress fiber formation in endothelial cells. Phosphorylates STX1A and significantly decreases its binding to STXBP1. Phosphorylates PRKD1 and regulates JNK signaling by binding and activating PRKD1 under oxidative stress. Phosphorylates BECN1, reducing its interaction with BCL2 and BCL2L1 and promoting the induction of autophagy. Phosphorylates TSC2, disrupting the TSC1-TSC2 complex and stimulating mTORC1 activity in a growth factor-dependent pathway. Phosphorylates RPS6, MYL9 and DAPK3. Acts as a signaling amplifier of NMDA receptors at extrasynaptic sites for mediating brain damage in stroke. Cerebral ischemia recruits DAPK1 into the NMDA receptor complex and it phosphorylates GRINB at Ser-1303 inducing injurious Ca(2+) influx through NMDA receptor channels, resulting in an irreversible neuronal death. Required together with DAPK3 for phosphorylation of RPL13A upon interferon-gamma activation which is causing RPL13A involvement in transcript-selective translation inhibition.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVFRQENVDDYYDTGEELGSGQFAVVKKCREKSTGLQYAAKFIKKRRTKSSRRGVSREDIEREVSILKEIQHPNVITLHEVYENKTDVILILELVAGGELFDFLAEKESLTEEEATEFLKQILNGVYYLHSLQIAHFDLKPENIMLLDRNVPKPRIKIIDFGLAHKIDFGNEFKNIFGTPEFVAPEIVNYEPLGLEADMWSIGVITYILLSGASPFLGDTKQETLANVSAVNYEFEDEYFSNTSALAKDFIRRLLVKDPKKRMTIQDSLQHPWIKPKDTQQALSRKASAVNMEKFKKFAARKKWKQSVRLISLCQRLSRSFLSRSNMSVARSDDTLDEEDSFVMKAIIHAINDDNVPGLQHLLGSLSNYDVNQPNKHGTPPLLIAAGCGNIQILQLLIKRGSRIDVQDKGGSNAVYWAARHGHVDTLKFLSENKCPLDVKDKSGEMALHVAARYGHADVAQLLCSFGSNPNIQDKEEETPLHCAAWHGYYSVAKALCEAGCNVNIKNREGETPLLTASARGYHDIVECLAEHGADLNACDKDGHIALHLAVRRCQMEVIKTLLSQGCFVDYQDRHGNTPLHVACKDGNMPIVVALCEANCNLDISNKYGRTPLHLAANNGILDVVRYLCLMGASVEALTTDGKTAEDLARSEQHEHVAGLLARLRKDTHRGLFIQQLRPTQNLQPRIKLKLFGHSGSGKTTLVESLKCGLLRSFFRRRRPRLSSTNSSRFPPSPLASKPTVSVSINNLYPGCENVSVRSRSMMFEPGLTKGMLEVFVAPTHHPHCSADDQSTKAIDIQNAYLNGVGDFSVWEFSGNPVYFCCYDYFAANDPTSIHVVVFSLEEPYEIQLNQVIFWLSFLKSLVPVEEPIAFGGKLKNPLQVVLVATHADIMNVPRPAGGEFGYDKDTSLLKEIRNRFGNDLHISNKLFVLDAGASGSKDMKVLRNHLQEIRSQIVSVCPPMTHLCEKIISTLPSWRKLNGPNQLMSLQQFVYDVQDQLNPLASEEDLRRIAQQLHSTGEINIMQSETVQDVLLLDPRWLCTNVLGKLLSVETPRALHHYRGRYTVEDIQRLVPDSDVEELLQILDAMDICARDLSSGTMVDVPALIKTDNLHRSWADEEDEVMVYGGVRIVPVEHLTPFPCGIFHKVQVNLCRWIHQQSTEGDADIRLWVNGCKLANRGAELLVLLVNHGQGIEVQVRGLETEKIKCCLLLDSVCSTIENVMATTLPGLLTVKHYLSPQQLREHHEPVMIYQPRDFFRAQTLKETSLTNTMGGYKESFSSIMCFGCHDVYSQASLGMDIHASDLNLLTRRKLSRLLDPPDPLGKDWCLLAMNLGLPDLVAKYNTSNGAPKDFLPSPLHALLREWTTYPESTVGTLMSKLRELGRRDAADFLLKASSVFKINLDGNGQEAYASSCNSGTSYNSISSVVSRRNSHVWNPTV
+PTM	Acetylation:261;Methylation:69,121,258,346,400,429,441,476,507,561,861,912,1047,1108,1264,1394;Phosphorylation:2,66,285,289,308,313,319,321,324,326,333,336,366,609,696,698,762,858,909,1115,1160,1161,1269,1421,1425;Ubiquitylation:295,297,939,942

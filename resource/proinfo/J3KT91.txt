@@ -1,0 +1,25 @@
+UniprotID	J3KT91
+Accession	J3KT91
+EntryName	J3KT91_HUMAN
+ProteinName	Leucine rich repeat containing 37 member A3
+GeneName	LRRC37A3
+Length	231
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XALEKTTAPRPDRVQTLHRSLTEVTGPPTELEPAQDSLVQSESYTQNKALTAPEEHKASTSTNICELCTCGDEMLSCIDLNPEQRLRQVPVPEPNTHNGTFTILNFQGNYISYIDGNVWKAYSWTEKLILRENNLTELHKDSFEGLLSLQYLDLSCNKIQSIERHTFEPLPFLKFINLSCNVITELSFGTFQAWHGMQFLHKLIVPSHMACCLCQFKNSIEAVCKTVKLHC
+PTM	

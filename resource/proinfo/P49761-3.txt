@@ -1,0 +1,25 @@
+UniprotID	P49761-3
+Accession	P49761;D3DW59;Q53Y48;Q9BRS3;Q9BUJ7
+EntryName	CLK3_HUMAN
+ProteinName	Dual specificity protein kinase CLK3 (EC 2.7.12.1) (CDC-like kinase 3)
+GeneName	CLK3
+Length	467
+Function	Dual specificity kinase acting on both serine/threonine and tyrosine-containing substrates. Phosphorylates serine- and arginine-rich (SR) proteins of the spliceosomal complex. May be a constituent of a network of regulatory mechanisms that enable SR proteins to control RNA splicing and can cause redistribution of SR proteins from speckles to a diffuse nucleoplasmic distribution. Phosphorylates SRSF1 and SRSF3. Regulates the alternative splicing of tissue factor (F3) pre-mRNA in endothelial cells.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasmic vesicle; Secretory vesicle; Acrosome; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	377...381;89...94
+validnes_region	
+nesbase_region	
+Sequence	MHHCKRYRSPEPDPYLSYRWKRRRSYSREHEGRLRYPSRREPPPRRSRSRSHDRLPYQRRYRERRDSDTYRCEERSPSFGEDYYGPSRSRHRRRSRERGPYRTRKHAHHCHKRRTRSCSSASSRSQQSSKRSSRSVEDDKEGHLVCRIGDWLQERYESQVALKIIRNVGKYREAARLEINVLKKIKEKDKENKFLCVLMSDWFNFHGHMCIAFELLGKNTFEFLKENNFQPYPLPHVRHMAYQLCHALRFLHENQLTHTDLKPENILFVNSEFETLYNEHKSCEEKSVKNTSIRVADFGSATFDHEHHTTIVATRHYRPPEVILELGWAQPCDVWSIGCILFEYYRGFTLFQTHENREHLVMMEKILGPIPSHMIHRTRKQKYFYKGGLVWDENSSDGRYVKENCKPLKSYMLQDSLEHVQLFDLMRRMLEFDPAQRITLAEALLHPFFAGLTPEERSFHTSRNPSR
+PTM	Methylation:354,389,396,433;Phosphorylation:155,157,163,165,166,173,174,175,186,195,197,199,215,217,218,224,226,231,235,243,270,271,280,281,283,637;SUMOylation:153,288,317,328,334,354,396,433,452,457,460,557,573,580;Ubiquitylation:317,328,334,433,460,557,573

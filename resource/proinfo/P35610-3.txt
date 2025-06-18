@@ -1,0 +1,25 @@
+UniprotID	P35610-3
+Accession	P35610;A6NC40;A8K3P4;A9Z1V7;B4DU95;Q5T0X4;Q8N1E4
+EntryName	SOAT1_HUMAN
+ProteinName	Sterol O-acyltransferase 1 (EC 2.3.1.26) (Acyl-coenzyme A:cholesterol acyltransferase 1) (ACAT-1) (Cholesterol acyltransferase 1)
+GeneName	SOAT1 ACACT ACACT1 ACAT ACAT1 SOAT STAT
+Length	485
+Function	Catalyzes the formation of fatty acid-cholesterol esters, which are less soluble in membranes than cholesterol (PubMed:16154994, PubMed:16647063, PubMed:32433613, PubMed:32433614, PubMed:32944968, PubMed:9020103). Plays a role in lipoprotein assembly and dietary cholesterol absorption (PubMed:16154994, PubMed:9020103). Preferentially utilizes oleoyl-CoA ((9Z)-octadecenoyl-CoA) as a substrate: shows a higher activity towards an acyl-CoA substrate with a double bond at the delta-9 position (9Z) than towards saturated acyl-CoA or an unsaturated acyl-CoA with a double bond at the delta-7 (7Z) or delta-11 (11Z) positions (PubMed:11294643, PubMed:32433614).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEVGSHFDDFVTNLIEKSASLDNGGCALTTFSVLEGEKNNHRAKDLRAPPEQGKIFIARRSLLDELLEVDHIRTIYHMFIALLILFILSTLVVDYIDEGRLVLEFSLLSYAFGKFPTVVWTWWIMFLSTFSVPYFLFQHWATGYSKSSHPLIRSLFHGFLFMIFQIGVLGFGPTYVVLAYTLPPASRFIIIFEQIRFVMKAHSFVRENVPRVLNSAKEKSSTVPIPTVNQYLYFLFAPTLIYRDSYPRNPTVRWGYVAMKFAQVFGCFFYVYYIFERLCAPLFRNIKQEPFSARVLVLCVFNSILPGVLILFLTFFAFLHCWLNAFAEMLRFGDRMFYKDWWNSTSYSNYYRTWNVVVHDWLYYYAYKDFLWFFSKRFKSAAMLAVFAVSAVVHEYALAVCLSFFYPVLFVLFMFFGMAFNFIVNDSRKKPIWNVLMWTSLFLGNGVLLCFYSQEWYARQHCPLKNPTFLDYVRPRSWTCRYVF
+PTM	Acetylation:45,53,62,104,353;Methylation:45,50,62,83,104,266;Phosphorylation:8,16,33,36,84,86,545;SUMOylation:62,67;Ubiquitylation:6,31,45,62,104,120,283,353,531

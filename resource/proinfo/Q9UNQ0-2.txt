@@ -1,0 +1,25 @@
+UniprotID	Q9UNQ0-2
+Accession	Q9UNQ0;A0A1W3;A8K1T5;O95374;Q4W5I3;Q53ZQ1;Q569L4;Q5YLG4;Q86V64;Q8IX16;Q96LD6;Q96TA8;Q9BY73;Q9NUS0
+EntryName	ABCG2_HUMAN
+ProteinName	Broad substrate specificity ATP-binding cassette transporter ABCG2 (EC 7.6.2.2) (ATP-binding cassette sub-family G member 2) (Breast cancer resistance protein) (CDw338) (Mitoxantrone resistance-associated protein) (Placenta-specific ATP-binding cassette transporter) (Urate exporter) (CD antigen CD338)
+GeneName	ABCG2 ABCP BCRP BCRP1 MXR
+Length	611
+Function	Broad substrate specificity ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes a wide variety of physiological compounds, dietary toxins and xenobiotics from cells (PubMed:11306452, PubMed:12958161, PubMed:19506252, PubMed:20705604, PubMed:28554189, PubMed:30405239, PubMed:31003562). Involved in porphyrin homeostasis, mediating the export of protoporphyrin IX (PPIX) from both mitochondria to cytosol and cytosol to extracellular space, it also functions in the cellular export of heme (PubMed:20705604, PubMed:23189181). Also mediates the efflux of sphingosine-1-P from cells (PubMed:20110355). Acts as a urate exporter functioning in both renal and extrarenal urate excretion (PubMed:19506252, PubMed:20368174, PubMed:22132962, PubMed:31003562, PubMed:36749388). In kidney, it also functions as a physiological exporter of the uremic toxin indoxyl sulfate (By similarity). Also involved in the excretion of steroids like estrone 3-sulfate/E1S, 3beta-sulfooxy-androst-5-en-17-one/DHEAS, and other sulfate conjugates (PubMed:12682043, PubMed:28554189, PubMed:30405239). Mediates the secretion of the riboflavin and biotin vitamins into milk (By similarity). Extrudes pheophorbide a, a phototoxic porphyrin catabolite of chlorophyll, reducing its bioavailability (By similarity). Plays an important role in the exclusion of xenobiotics from the brain (Probable). It confers to cells a resistance to multiple drugs and other xenobiotics including mitoxantrone, pheophorbide, camptothecin, methotrexate, azidothymidine, and the anthracyclines daunorubicin and doxorubicin, through the control of their efflux (PubMed:11306452, PubMed:12477054, PubMed:15670731, PubMed:18056989, PubMed:31254042). In placenta, it limits the penetration of drugs from the maternal plasma into the fetus (By similarity). May play a role in early stem cell self-renewal by blocking differentiation (By similarity). In inflammatory macrophages, exports itaconate from the cytosol to the extracellular compartment and limits the activation of TFEB-dependent lysosome biogenesis involved in antibacterial innate immune response.
+Subcellular Location	Cell membrane; Apical cell membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEGAVLSFHNICYRVKLKSGFLPCRKPVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCNSGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIFSIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGDSTAVALNREEDFKATEIIEPSKQDKPLIEKLAEIYVNSSFYKETKAELHQLSGGEKKKKITVFKEISYTTSFCHQLRWVSKRSFKNLLGNPQASIAQIIVTVVLGLVIGAIYFGLKNDSTGIQNRAGVLFFLTTNQCFSSVSAVELFVVEKKLFIHEYISGYYRVSSYFLGKLLSDLLPMRMLPSIIFTCIVYFMLGLKPKADAFFVMMFTLMMVAYSASSMALAIAAGQSVVSVATLLMTICFVFMMVCWSISQPLHLGCHGFSTSAFHDMDLRLCSIMNFWDKTSAQDSMQQETILVTMQHVLAKNIW
+PTM	Acetylation:172;Methylation:229,331,452,500;Phosphorylation:100,103,248,261;Ubiquitylation:72,86,172,177,314,323,326,331,343,357,365

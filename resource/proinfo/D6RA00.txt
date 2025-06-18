@@ -1,0 +1,25 @@
+UniprotID	D6RA00
+Accession	D6RA00
+EntryName	D6RA00_HUMAN
+ProteinName	Enolase-phosphatase 1
+GeneName	ENOPH1
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIQAVVDNVCWQMSLDRKTTALKQLQGHMWRAAFTAGRMKAEFFADVVPAVRKWREAGMKVYIYSSGSVEAQKLLFGHSTEGDILELVDGHFDTKIGHKVESESYRKIADSIGCSTNNILFLTDVTREASAAEEADVHVAVVVRPGNAGLTDDEKTYYSLITSFSELYLPSST
+PTM	

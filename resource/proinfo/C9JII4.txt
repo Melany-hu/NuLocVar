@@ -1,0 +1,25 @@
+UniprotID	C9JII4
+Accession	C9JII4
+EntryName	C9JII4_HUMAN
+ProteinName	GC-rich sequence DNA-binding factor 2
+GeneName	GCFC2
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHRPKRTFRQRAADSSDSDGAEESPAEPGAPRELPVPGSAEEEPPSGGGRAQVAGLPHRVRGPRGRGRVWASSRRATKAAPRADEGSESRTLDVSTDEEDKIHHSSESKDDQGLSSDSSSSLGEKELSSTVSRNEETSEESQEDEKQDTWEQQQMRKAVKIIEERDIDLSCGNGSSKVKKFDTS
+PTM	

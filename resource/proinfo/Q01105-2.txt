@@ -1,0 +1,25 @@
+UniprotID	Q01105-2
+Accession	Q01105;A5A5H4;A6NGV1;B4DUE2;Q15541;Q5VXV1;Q5VXV2;Q6FHZ5
+EntryName	SET_HUMAN
+ProteinName	Protein SET (HLA-DR-associated protein II) (Inhibitor of granzyme A-activated DNase) (IGAAD) (PHAPII) (Phosphatase 2A inhibitor I2PP2A) (I-2PP2A) (Template-activating factor I) (TAF-I)
+GeneName	SET
+Length	277
+Function	Multitasking protein, involved in apoptosis, transcription, nucleosome assembly and histone chaperoning. Isoform 2 anti-apoptotic activity is mediated by inhibition of the GZMA-activated DNase, NME1. In the course of cytotoxic T-lymphocyte (CTL)-induced apoptosis, GZMA cleaves SET, disrupting its binding to NME1 and releasing NME1 inhibition. Isoform 1 and isoform 2 are potent inhibitors of protein phosphatase 2A. Isoform 1 and isoform 2 inhibit EP300/CREBBP and PCAF-mediated acetylation of histones (HAT) and nucleosomes, most probably by masking the accessibility of lysines of histones to the acetylases. The predominant target for inhibition is histone H4. HAT inhibition leads to silencing of HAT-dependent transcription and prevents active demethylation of DNA. Both isoforms stimulate DNA replication of the adenovirus genome complexed with viral core proteins; however, isoform 2 specific activity is higher.
+Subcellular Location	Cytoplasm; Cytosol; Endoplasmic reticulum; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAPAAKVSKKELNSNHDGADETSEKEQQEAIEHIDEVQNEIDRLNEQASEEILKVEQKYNKLRQPFFQKRSELIAKIPNFWVTTFVNHPQVSALLGEEDEEALHYLTRVEVTEFEDIKSGYRIDFYFDENPYFENKVLSKEFHLNESGDPSSKSTEIKWKSGKDLTKRSSQTQNKASRKRQHEEPESFFTWFTDHSDAGADELGEVIKDDIWPNPLQYYLVPDMDDEEGEGEEDDDDDEEEEGLEDIDEEGDEDEGEEDEDDDEGEEGEEDEGEDD
+PTM	Acetylation:13,39,68,72,75,83,132,150,154,167,172;Methylation:35,57,68,72,83,90,132,150,167,181,222;Phosphorylation:7,27,28,30,63,85,126,133,135,140,146,161,165,166,175,183,184;SUMOylation:75,83,150,154,167;Ubiquitylation:15,68,72,83,132,150,154,167,172

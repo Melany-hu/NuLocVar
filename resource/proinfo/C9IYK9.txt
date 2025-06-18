@@ -1,0 +1,25 @@
+UniprotID	C9IYK9
+Accession	C9IYK9
+EntryName	C9IYK9_HUMAN
+ProteinName	Coiled-coil domain containing 74A
+GeneName	CCDC74A
+Length	206
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEADMPGGLCLGNRQGHSWPDTHDEGVVESGIHGAGPNQPVGGQDFWAQQPGEDRPGFFSQNSCGFTSAEESVCLLSDLHYKLIMNQTSQKKDSLSMSSFQSVKSISNSGKARPQPGSFNKQDSKADVSQKADLEEEPLLHNSKLDKVPGVQGQASPPHLGSAKCSSASCGIPTSCRPKSCGTSSPSWKGARGPRQPRRKLAFPG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q4ZFV7
+Accession	Q4ZFV7
+EntryName	Q4ZFV7_HUMAN
+ProteinName	acylphosphatase (EC 3.6.1.7) (Acylphosphatase, muscle type isozyme)
+GeneName	ACYP2
+Length	37
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KSWLSKVGSPSSRIDRTNFSNEKTISKLEYSNFSIRY
+PTM	

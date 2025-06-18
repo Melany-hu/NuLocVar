@@ -1,0 +1,25 @@
+UniprotID	D6RI00
+Accession	D6RI00
+EntryName	D6RI00_HUMAN
+ProteinName	Cyclin D3
+GeneName	CCND3
+Length	195
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNYLDRYLSCVPTRKAQLQLLGAVCMLLASKLRETTPLTIEKLCIYTDHAVSPRQLRDWEVLVLGKLKWDLAAVIAHDFLAFILHRLSLPRDRQALVKKHAQTFLALCATGLPAGLSGADRSCTQGEPQGSLSDQLQPSAQSPPGLQQPRAQPDQHSYRCHSHTPVALERPSGVATKQRRGRCHPPPCLQEPHHI
+PTM	

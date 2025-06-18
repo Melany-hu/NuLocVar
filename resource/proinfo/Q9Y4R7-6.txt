@@ -1,0 +1,25 @@
+UniprotID	Q9Y4R7-6
+Accession	Q9Y4R7;Q4KMS8;Q6AWA3;Q6ZU95;Q8NDN8;Q96GG8;Q9H876;Q9UI99
+EntryName	TTLL3_HUMAN
+ProteinName	Tubulin monoglycylase TTLL3 (EC 6.3.2.-) (HOTTL) (Tubulin--tyrosine ligase-like protein 3)
+GeneName	TTLL3 PRO0207
+Length	292
+Function	Monoglycylase which modifies alpha- and beta-tubulin, adding a single glycine on the gamma-carboxyl groups of specific glutamate residues to generate monoglycine side chains within the C-terminal tail of tubulin. Not involved in elongation step of the polyglycylation reaction (By similarity). Preferentially glycylates a beta-tail peptide over the alpha-tail, although shifts its preference toward alpha-tail as beta-tail glutamylation increases (By similarity). Competes with polyglutamylases for modification site on beta-tubulin substrate, thereby creating an anticorrelation between glycylation and glutamylation reactions (By similarity). Together with TTLL8, mediates microtubule glycylation of primary and motile cilia, which is essential for their stability and maintenance (By similarity). Involved in microtubule glycylation of primary cilia in colon which controls cell proliferation of epithelial cells and plays an essential role in colon cancer development (PubMed:25180231). Together with TTLL8, glycylates sperm flagella which regulates axonemal dynein motor activity, thereby controlling flagellar beat, directional sperm swimming and male fertility (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Flagellum axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGDRNIWIVKPGAKSRGRGIMCMDHLEEMLKLVNGNPVVMKDGKWVVQKYIERPLLIFGTKFDLRQWFLVTDWNPLTVWFYRDSYIRFSTQPFSLKNLDNSVHLCNNSIQKHLENSCHRHPLLPPDNMWSSQRFQAHLQEMGAPNAWSTIIVPGMKDAVIHALQTSQDTVQCRKASFELYGADFVFGEDFQPWLIEINASPTMAPSTAVTARLCAGVQADTLRVVIDRMLDRNCDTGAFELIYKQPVTTSPASTPRPSCLLPMYSDTRARSSDDSTASWWALRPCRPQARP
+PTM	Methylation:94,156,160,217,304,322,369,517,638;Phosphorylation:149,453,480,483,516,581,597,602,606,607,608,635,698;Ubiquitylation:314

@@ -1,0 +1,25 @@
+UniprotID	C9JCY4
+Accession	C9JCY4
+EntryName	C9JCY4_HUMAN
+ProteinName	Transmembrane protein 14B
+GeneName	TMEM14B
+Length	151
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKPLFPLVPLHWFGFGYTALVVSGGIVGYVKTGSVPSLAAGLLFGSLAGLGAYQLYQDPRNVWGFLAATSVTFVGVMGMRSYYYGKFMPVGLIAGARWSMALVAQAGVQWCDLSSLQPPPPRFKRFSCLTLLSSWDFRCAPPHPANFLYF
+PTM	

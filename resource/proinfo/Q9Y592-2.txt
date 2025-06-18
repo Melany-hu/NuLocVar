@@ -1,0 +1,25 @@
+UniprotID	Q9Y592-2
+Accession	Q9Y592;A4FVB1;Q08AP1
+EntryName	CEP83_HUMAN
+ProteinName	Centrosomal protein of 83 kDa (Cep83) (Coiled-coil domain-containing protein 41) (Renal carcinoma antigen NY-REN-58)
+GeneName	CEP83 CCDC41
+Length	576
+Function	Component of the distal appendage region of the centriole involved in the initiation of primary cilium assembly. May collaborate with IFT20 in the trafficking of ciliary membrane proteins from the Golgi complex to the cilium during the initiation of primary cilium assembly.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIDERLRCEHHKANYQTLKAEHTRLQNEHVKLQNELKHLFNEKQTQQEKLQLLLEELRGELVEKTKDLEEMKLQILTPQKLELLRAQIQQELETPMRERFRNLDEEVEKYRAVYNKLRYEHTFLKSEFEHQKEEYARILDEGKIKYESEIARLEEDKEELRNQLLNVDLTKDSKRVEQLAREKVYLCQKLKGLEAEVAELKAEKENSEAQVENAQRIQVRQLAEMQATVRSLEAEKQSANLRAERLEKELQSSSEQNTFLINKLHKAEREINTLSSKVKELKHSNKLEITDIKLETARAKSELERERNKIQSELDGLQSDNEILKAAVEHHKVLLVEKDRELIRKVQAAKEEGYQKLVVLQDEKLELENRLADLEKMKVEHDVWRQSEKDQYEEKLRASQMAEEITRKELQSVRLKLQQQIVTIENAEKEKNENSDLKQQISSLQIQVTSLAQSENDLLNSNQMLKEMVERLKQECRNFRSQAEKAQLEAEKTLEEKQIQWLEEKHKLHERITDREEKYNQAKEKLQRAAIAQKKLEQDLELGCPSVTDTYRESVFPPPPLKRDLLKEELGSSGE
+PTM	Methylation:53,71,98,143,205,217,270,297,327,359,372,379,384,410,423,526,584,680;Phosphorylation:79,111,180,272,307,309,310,388,641,652,676;SUMOylation:191

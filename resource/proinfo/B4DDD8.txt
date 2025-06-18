@@ -1,0 +1,25 @@
+UniprotID	B4DDD8
+Accession	B4DDD8
+EntryName	B4DDD8_HUMAN
+ProteinName	Histidine--tRNA ligase, cytoplasmic (EC 6.1.1.21) (Histidyl-tRNA synthetase)
+GeneName	HARS1
+Length	435
+Function	Catalyzes the ATP-dependent ligation of histidine to the 3'-end of its cognate tRNA, via the formation of an aminoacyl-adenylate intermediate (His-AMP). Plays a role in axon guidance.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAERAALEELVKLQGERVRGLKQQKASAELIEEEVAKLLKLKAQLGPDESKQKFVLKTPKGTRDYSPRQMAVREKVFDVIIRCFKRHGAEVIDTPVFELKDFDIAGNFDPMIPDAECLKIMCEILSSLQIGDFLVKVNDRRILDGMFAICGVSDSKFRTICSSVDKLDKVSWEEVKNEMVGEKGLAPEVADRIGDYVQQHGGVSLVEQLLQDPKLSQNKQALEGLGDLKLLFEYLTLFGIDDKISFDLSLARGLDYYTGVIYEAVLLQTPAQAGEEPLGVGSVAAGGRYDGLVGMFDPKGRKVPCVGLSIGVERIFSIVEQRLEALEEKIRTTETQVLVASAQKKLLEERLKLVSELWDAGIKAELLYKKNPKLLNQLQYCEEAGIPLVAIIGEQELKDGVIKLRSVTSREEVDVRREDLVEEIKRRTGQPLCIC
+PTM	

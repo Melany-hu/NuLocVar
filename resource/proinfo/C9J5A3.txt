@@ -1,0 +1,25 @@
+UniprotID	C9J5A3
+Accession	C9J5A3
+EntryName	C9J5A3_HUMAN
+ProteinName	Heat shock protein family B (small) member 7
+GeneName	HSPB7
+Length	124
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSDDFGSFMRPHSEPLAFPAAHPTARPGGAGNIKTLGDAYEFAVDVRDFSPEDIIVTTSNNHIELAADGTVMNTFAHKCQLPEDVDPTSVTSALREDGSLTIRARRHPHTEHVQQTFRTEIKI
+PTM	

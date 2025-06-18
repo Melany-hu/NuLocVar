@@ -1,0 +1,25 @@
+UniprotID	Q8N0V5-3
+Accession	Q8N0V5;Q06430;Q5T4J1;Q5W0E9;Q6T5E5;Q8NFS9
+EntryName	GNT2A_HUMAN
+ProteinName	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase (N-acetylglucosaminyltransferase) (EC 2.4.1.150) (I-branching enzyme) (IGNT)
+GeneName	GCNT2 GCNT5 II NACGT1
+Length	402
+Function	Branching enzyme that converts linear into branched poly-N-acetyllactosaminoglycans. Introduces the blood group I antigen during embryonic development. It is closely associated with the development and maturation of erythroid cells.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNFWRYCFFAFTLLSVVIFVRFYSSQLSPPKSYEKLNSSSERYFRKTACNHALEKMPVFLWENILPSPLRSVPCKDYLTQNHYITSPLSEEEAAFPLAYVMVIHKDFDTFERLFRAIYMPQNVYCVHVDEKAPAEYKESVRQLLSCFQNAFIASKTESVVYAGISRLQADLNCLKDLVASEVPWKYVINTCGQDFPLKTNREIVQHLKGFKGKNITPGVLPPDHAIKRTKYVHQEHTDKGGFFVKNTNILKTSPPHQLTIYFGTAYVALTRDFVDFVLRDQRAIDLLQWSKDTYSPDEHFWVTLNRVSGVPGSMPNASWTGNLRAIKWSDMEDRHGGCHGHYVHGICIYGNGDLKWLVNSPSLFANKFELNTYPLTVECLELRHRERTLNQSETAIQPSWYF
+PTM	Glycosylation:41,61,316;Methylation:66

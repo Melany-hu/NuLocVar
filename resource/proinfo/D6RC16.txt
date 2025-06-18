@@ -1,0 +1,25 @@
+UniprotID	D6RC16
+Accession	D6RC16
+EntryName	D6RC16_HUMAN
+ProteinName	Phosphatidylinositol glycan anchor biosynthesis class G (EMM blood group)
+GeneName	PIGG
+Length	24
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKFIWKPLRHDAAEITVMHYWFG
+PTM	

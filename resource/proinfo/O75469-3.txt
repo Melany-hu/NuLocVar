@@ -1,0 +1,25 @@
+UniprotID	O75469-3
+Accession	O75469;Q006P5;Q008C8;Q96AC7;Q9UJ22;Q9UJ23;Q9UJ24;Q9UJ25;Q9UJ26;Q9UJ27;Q9UNW4
+EntryName	NR1I2_HUMAN
+ProteinName	Nuclear receptor subfamily 1 group I member 2 (Orphan nuclear receptor PAR1) (Orphan nuclear receptor PXR) (Pregnane X receptor) (Steroid and xenobiotic receptor) (SXR)
+GeneName	NR1I2 PXR
+Length	457
+Function	Nuclear receptor that binds and is activated by variety of endogenous and xenobiotic compounds. Transcription factor that activates the transcription of multiple genes involved in the metabolism and secretion of potentially harmful xenobiotics, drugs and endogenous compounds. Activated by the antibiotic rifampicin and various plant metabolites, such as hyperforin, guggulipid, colupulone, and isoflavones. Response to specific ligands is species-specific. Activated by naturally occurring steroids, such as pregnenolone and progesterone. Binds to a response element in the promoters of the CYP3A4 and ABCB1/MDR1 genes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	66..92
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	93...98;89...115
+validnes_region	
+nesbase_region	
+Sequence	MDPRGEVGAKNLPPNSPRGPEANLEVRPKESWNHADFVHCEDTESVPGKPSVNADEEVGGPQICRVCGDKATGYHFNVMTCEGCKGFFRRAMKRNARLRCPFRKGACEITRKTRRQCQACRLRKCLESGMKKEMIMSDEAVEERRALIKRKKSERTGTQPLGVQGLTEEQRMMIRELMDAQMKTFDTTFSHFKNFRLPGVLSSGCELPESLQAPSREEAAKWSQVRKDLCSLKVSLQLRGEDGSVWNYKPPADSGGKEIFSLLPHMADMSTYMFKGIISFAKVISYFRDLPIEDQISLLKGAAFELCQLRFNTVFNAETGTWECGRLSYCLEDTAGGFQQLLLEPMLKFHYMLKKLQLHEEEYVLMQAISLFSPDRPGVLQHRVVDQLQEQFAITLKSYIECNRPQPAHRFLFLKIMAMLTELRSINAQHTQRLLRIQDIHPFATPLMQELFGITGS
+PTM	Methylation:126,277,374;Phosphorylation:192,274

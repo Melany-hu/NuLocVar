@@ -1,0 +1,25 @@
+UniprotID	E5RIH3
+Accession	E5RIH3
+EntryName	E5RIH3_HUMAN
+ProteinName	Pleckstrin and Sec7 domain containing 3
+GeneName	PSD3
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDESSSPSMGWKHWPVTSATQDLWGMDPRCRDALGCSPPRAVLVHAADGAERTVLRRGAETCQILPRSCKEATGTTAQATRAWLYRYCPAVHTSKGCPAPPATLPLKAETFVWVNNASAHSQSVAKAKYEFLFGRSEGKAP
+PTM	

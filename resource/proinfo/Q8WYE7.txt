@@ -1,0 +1,25 @@
+UniprotID	Q8WYE7
+Accession	Q8WYE7
+EntryName	Q8WYE7_HUMAN
+ProteinName	Dystrophin
+GeneName	DMD
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GYMMDLTAHQGRVGNILQLGSKLIGTGKLSEDEETEVQEQMNLLNSRWECLRVASMEKQS
+PTM	

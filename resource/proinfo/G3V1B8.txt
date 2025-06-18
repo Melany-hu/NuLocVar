@@ -1,0 +1,25 @@
+UniprotID	G3V1B8
+Accession	G3V1B8
+EntryName	G3V1B8_HUMAN
+ProteinName	Sjogren's syndrome/scleroderma autoantigen 1, isoform CRA_b (Zinc ribbon domain containing 2)
+GeneName	ZNRD2 SSSCA1 hCG_23279
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDYLLRGYRMLGETCADCGTILLQDKQRKIYCVACQELDSDVDKDNPALNAQAALSQAREHQLASASELPLGSRPAPQPPVPRPEHCEGAAAGLKAAQGPPAPAVPPNTDVMACTQTALLQKLTWASAELGSSTSLETSIQLCGLIRACAEALRSLQQLQH
+PTM	

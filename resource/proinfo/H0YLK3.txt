@@ -1,0 +1,25 @@
+UniprotID	H0YLK3
+Accession	H0YLK3
+EntryName	H0YLK3_HUMAN
+ProteinName	Galactokinase 2
+GeneName	GALK2
+Length	45
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVLYDRWSLALSPVLEARVQVARSWLTATSASWVEVILLPPPPE
+PTM	

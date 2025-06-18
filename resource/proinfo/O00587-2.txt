@@ -1,0 +1,25 @@
+UniprotID	O00587-2
+Accession	O00587;B4DLT6;O43730;Q504S9
+EntryName	MFNG_HUMAN
+ProteinName	Beta-1,3-N-acetylglucosaminyltransferase manic fringe (EC 2.4.1.222) (O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase)
+GeneName	MFNG
+Length	307
+Function	Glycosyltransferase that initiates the elongation of O-linked fucose residues attached to EGF-like repeats in the extracellular domain of Notch molecules (By similarity). Modulates NOTCH1 activity by modifying O-fucose residues at specific EGF-like domains resulting in inhibition of NOTCH1 activation by JAG1 and enhancement of NOTCH1 activation by DLL1 via an increase in its binding to DLL1 (By similarity).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQCRLPRGLAGALLTLLCMGLLCLRYHLNLSPQRVQGTPELSQPNPGPPKLQLHDVFIAVKTTRAFHRLRLELLLDTWVSRTREQVTRSHLVVTNCSAEHSHPALSCKMAAEFDTFLASGLRWFCHVDDDNYVNPRALLQLLRAFPLARDVYVGRPSLNRPIHASEPQPHNRTRLVQFWFATGGAGFCINRKLALKMAPWASGSRFMDTSALIRLPDDCTMGYIIECKLGGRLQPSPLFHSHLETLQLLRTAQLPEQVTLSYGVFEGKLNVIKLQGPFSPEEDPSRFRSLHCLLYPDTPWCPQLGAR
+PTM	Methylation:210,287;Phosphorylation:31

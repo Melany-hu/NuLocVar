@@ -1,0 +1,25 @@
+UniprotID	Q96DN7
+Accession	Q96DN7
+EntryName	Q96DN7_HUMAN
+ProteinName	BOC cell adhesion associated, oncogene regulated (BOC protein) (Boc homolog (Mouse), isoform CRA_b) (cDNA FLJ31797 fis, clone NT2RI2008942, weakly similar to NEURAL CELL ADHESION MOLECULE L1)
+GeneName	BOC hCG_17534
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRGTMTAWRGMRPEVTLACLLLATAGCFADLNEVPQVTVQPASTVQKPGGTVILGCVVEPPRMNVTWRLNGKELNGSDDALGVLITHGTLVITALNNHTVGRYQCVARMPAGAVASVPATVTLASESAPLPPCHGAVPPHLSHPEAPTIHAASCYS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRW7
+Accession	A0A1W2PRW7
+EntryName	A0A1W2PRW7_HUMAN
+ProteinName	Paired box 6
+GeneName	PAX6
+Length	205
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	96...101;90...94
+validnes_region	
+nesbase_region	
+Sequence	MQNNGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPH
+PTM	

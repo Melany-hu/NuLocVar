@@ -1,0 +1,25 @@
+UniprotID	Q9BXU9-1
+Accession	Q9BXU9;J3KQA7
+EntryName	CABP8_HUMAN
+ProteinName	Calcium-binding protein 8 (CaBP8) (Calneuron I) (Calneuron-1)
+GeneName	CALN1 CABP8
+Length	219
+Function	Negatively regulates Golgi-to-plasma membrane trafficking by interacting with PI4KB and inhibiting its activity. May play a role in the physiology of neurons and is potentially important in memory and learning.
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Cytoplasm; Perinuclear region; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFHHVTAGLLYKGNYLNRSLSAGSDSEQLANISVEELDEIREAFRVLDRDGNGFISKQELGMAMRSLGYMPSEVELAIIMQRLDMDGDGQVDFDEFMTILGPKLVSSEGRDGFLGNTIDSIFWQFDMQRITLEELKHILYHAFRDHLTMKDIENIIINEEESLNETSGNCQTEFEGVHSQKQNRQTCVRKSLICAFAMAFIISVMLIAANQILRSGME
+PTM	Methylation:137

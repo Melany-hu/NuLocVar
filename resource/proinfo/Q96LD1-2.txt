@@ -1,0 +1,25 @@
+UniprotID	Q96LD1-2
+Accession	Q96LD1;Q6REU0
+EntryName	SGCZ_HUMAN
+ProteinName	Zeta-sarcoglycan (Zeta-SG) (ZSG1)
+GeneName	SGCZ
+Length	312
+Function	Component of the sarcoglycan complex, a subcomplex of the dystrophin-glycoprotein complex which forms a link between the F-actin cytoskeleton and the extracellular matrix. May play a role in the maintenance of striated muscle membrane stability (By similarity).
+Subcellular Location	Cell membrane; Sarcolemma; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRSTNLDIEELKMTREQYILATQQNNLPRTENAQLYPVGIYGWRKRCLYFFVLLLLVTMIVNLAMTIWILKVMNFTVDGMGNLRVTKKGIRLEGISEFLLPLYVKEIHSRKDSPLVLQSDRNVTVNARNHMGQLTGQLTIGADAVEAQCKRFEVRASEDGRVLFSADEDEITIGAEKLKVTGTEGAVFGHSVETPHIRAEPSQDLRLESPTRSLIMEAPRGVQVSAAAGDFKATCRKELHLQSTEGEIFLNAETIKLGNLPTGSFSSSSPSSSSSRQTVYELCVCPNGKLYLSPAGVGSTCQSSSNICLWS
+PTM	Acetylation:225;Methylation:59,165,244;Phosphorylation:64,107

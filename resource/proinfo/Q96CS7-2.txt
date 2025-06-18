@@ -1,0 +1,25 @@
+UniprotID	Q96CS7-2
+Accession	Q96CS7;B4DF08;B4DZ66;B8ZZN1;Q53FF1;Q53TH7;Q86W37;Q9BV75;Q9NWK1
+EntryName	PKHB2_HUMAN
+ProteinName	Pleckstrin homology domain-containing family B member 2 (PH domain-containing family B member 2) (Evectin-2)
+GeneName	PLEKHB2 EVT2
+Length	309
+Function	Involved in retrograde transport of recycling endosomes.
+Subcellular Location	Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFVKSGWLLRQSTILKRWKKNWFDLWSDGHLIYYDDQTRQNIEDKVHMPMDCINIRTGQECRDTQPPDGKSKDCMLQIVCRDGKTISLCAESTDDCLAWKFTLQDSRTNTAYVGSAVMTDETSVVSSPPPYTAYAAPAPEELHSKGPKIHTTTSAKTQAVLPTRCFFPSESPIRRSVQISVLLPAVNIRRRIKLTFPQPARPRAPRSLCLWQTWFAGKRAPSLPTAATAPALPSCPSPPAPSKALPPSLAGWRSPSSAPLPPEQALAPRSFQLSKHQARPRPHRPGTPPVPAWPGVPPPPPARPPALR
+PTM	Ubiquitylation:17,46,71,73

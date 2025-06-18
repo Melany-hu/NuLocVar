@@ -1,0 +1,25 @@
+UniprotID	Q86YN1-2
+Accession	Q86YN1;A8K3U8;B0QZG4;Q96GF8;Q9Y3G1
+EntryName	DOPP1_HUMAN
+ProteinName	Dolichyldiphosphatase 1 (EC 3.6.1.43) (Dolichyl pyrophosphate phosphatase 1)
+GeneName	DOLPP1 LSFR2
+Length	195
+Function	Required for efficient N-glycosylation. Necessary for maintaining optimal levels of dolichol-linked oligosaccharides. Hydrolyzes dolichyl pyrophosphate at a very high rate and dolichyl monophosphate at a much lower rate. Does not act on phosphatidate (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAADGQCSLPASWRPVTLTHVEYPAGDLSGHLLAYLSLSPVFVIVGFVTLIIFKRELHTISFLGGLALNEGVNWLIKNVIQEPRPCGGPHTAVGTKYGMPSSHSQFMWFFSVYSFLFLYLRMHQTNNARFLDLLWRHVLSLGLLAVAFLVSYSRPVSEFFLIRDTSLIPNVLWFEYTVTRAEARNRQRKLGTKLQ
+PTM	Methylation:54,77

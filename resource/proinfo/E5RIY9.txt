@@ -1,0 +1,25 @@
+UniprotID	E5RIY9
+Accession	E5RIY9
+EntryName	E5RIY9_HUMAN
+ProteinName	Protein N-terminal glutamine amidohydrolase (EC 3.5.1.122) (Protein NH2-terminal glutamine deamidase)
+GeneName	NTAQ1
+Length	57
+Function	Mediates the side-chain deamidation of N-terminal glutamine residues to glutamate, an important step in N-end rule pathway of protein degradation. Conversion of the resulting N-terminal glutamine to glutamate renders the protein susceptible to arginylation, polyubiquitination and degradation as specified by the N-end rule. Does not act on substrates with internal or C-terminal glutamine and does not act on non-glutamine residues in any position. Does not deaminate acetylated N-terminal glutamine. With the exception of proline, all tested second-position residues on substrate peptides do not greatly influence the activity. In contrast, a proline at position 2, virtually abolishes deamidation of N-terminal glutamine.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKDSSGNWREPPPPYPCIETGDSKMNLNDFISMDPKVGWGAVYTLSEFTHRFGSKNC
+PTM	

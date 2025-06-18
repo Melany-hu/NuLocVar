@@ -1,0 +1,25 @@
+UniprotID	Q969K3-2
+Accession	Q969K3;B7Z933;Q8NG47;Q9H6W8
+EntryName	RNF34_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF34 (EC 2.3.2.27) (Caspase regulator CARP1) (Caspases-8 and -10-associated RING finger protein 1) (CARP-1) (FYVE-RING finger protein Momo) (Human RING finger homologous to inhibitor of apoptosis protein) (hRFI) (RING finger protein 34) (RING finger protein RIFF) (RING-type E3 ubiquitin transferase RNF34)
+GeneName	RNF34
+Length	373
+Function	E3 ubiquitin-protein ligase that regulates several biological processes through the ubiquitin-mediated proteasomal degradation of various target proteins. Ubiquitinates the caspases CASP8 and CASP10, promoting their proteasomal degradation, to negatively regulate cell death downstream of death domain receptors in the extrinsic pathway of apoptosis (PubMed:15069192). May mediate 'Lys-48'-linked polyubiquitination of RIPK1 and its subsequent proteasomal degradation thereby indirectly regulating the tumor necrosis factor-mediated signaling pathway (Ref.13). Negatively regulates p53/TP53 through its direct ubiquitination and targeting to proteasomal degradation (PubMed:17121812). Indirectly, may also negatively regulate p53/TP53 through ubiquitination and degradation of SFN (PubMed:18382127). Mediates PPARGC1A proteasomal degradation probably through ubiquitination thereby indirectly regulating the metabolism of brown fat cells (PubMed:22064484). Possibly involved in innate immunity, through 'Lys-48'-linked polyubiquitination of NOD1 and its subsequent proteasomal degradation (PubMed:25012219).
+Subcellular Location	Cell membrane; Endomembrane system; Nucleus; Nucleus speckle; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKAGATSMWASCCGLLNEVMGTGAVRGQQSAFAGATGPFRFTPNPEFSTYPPAATEGPNIVCKACGLSFSVFRKKHVCCDCKKDFCSVCSVLQENLRRCSTCHLLQETAFQRPQLMRLKVKDLRQYLILRNIPIDTCREKEDLVDLVLCHHGLGSEDDMDTSSLNSSRSQTSSFFTRSFFSNYTAPSATMSSFQGELMDGDQTSRSGVPAQVQSEITSANTEDDDDDDDEDDDDEEENAEDRNPGLSKERVRASLSDLSSLDDVEGMSVRQLKEILARNFVNYSGCCEKWELVEKVNRLYKENEENQKSYGERLQLQDEEDDSLCRICMDAVIDCVLLECGHMVTCTKCGKRMSECPICRQYVVRAVHVFKS
+PTM	Methylation:63,295,308;Phosphorylation:163,169,221,254,256,259,354,372;SUMOylation:308;Ubiquitylation:2,248,273,308

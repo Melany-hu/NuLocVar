@@ -1,0 +1,25 @@
+UniprotID	J3KRJ9
+Accession	J3KRJ9
+EntryName	J3KRJ9_HUMAN
+ProteinName	Coatomer subunit zeta
+GeneName	COPZ2
+Length	141
+Function	The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. The zeta subunit may be involved in regulating the coat assembly and, hence, the rate of biosynthetic protein transport due to its association-dissociation properties with the coatomer complex.
+Subcellular Location	Cytoplasm; Golgi apparatus membrane; Cytoplasmic vesicle; COPI-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTIKAVFILDNDGRRLLAKYYDDTFPSMKEQMVFEKNVFNKTSRTESEIAFFGGMTIVYKNSIDLFLYVVGSSYENELMLMSVLTCLFESLNHMLSVILESDPQQVIQKVNFRADDGGLTEQSVAQVLQSAKEQIKWSLLK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0AAG2UXQ3
+Accession	A0AAG2UXQ3
+EntryName	A0AAG2UXQ3_HUMAN
+ProteinName	Chondrosarcoma associated gene 1
+GeneName	CSAG1
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSATTACWPAFTVLGEARGDQVDWSRLYRDTGLVKMSRKPRASSPFSNNHPSTPKRFPRQPKREKGPVKEVPGTKGSP
+PTM	

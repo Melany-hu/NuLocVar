@@ -1,0 +1,25 @@
+UniprotID	A6NKM8
+Accession	A6NKM8
+EntryName	A6NKM8_HUMAN
+ProteinName	Solute carrier family 35 member A2
+GeneName	SLC35A2
+Length	218
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLCRDAHRRLKYISLAVLVVQNASLILSIRYARTLPGDRFFATTAVVMAEVLKGLTCLLLLFAQKRGNVKHLVLFLHEAVLVQYVDTLKLAVPSLIYTLQNNLQYVAISNLPAATFQPSPRCSQSHSLCLCLRLRALRSPAASRAATTTAAVFPPWRPHHGALSAKVSAGEVRAGSNGGTQGRGTGVEGVGHLQDPSRHPPGPGSSGFGRWSFLPGH
+PTM	

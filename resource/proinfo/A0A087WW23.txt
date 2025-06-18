@@ -1,0 +1,25 @@
+UniprotID	A0A087WW23
+Accession	A0A087WW23
+EntryName	A0A087WW23_HUMAN
+ProteinName	Arachidonate 5-lipoxygenase-activating protein (MK-886-binding protein)
+GeneName	ALOX5AP
+Length	218
+Function	Required for leukotriene biosynthesis by ALOX5 (5-lipoxygenase). Anchors ALOX5 to the membrane. Binds arachidonic acid, and could play an essential role in the transfer of arachidonic acid to ALOX5. Binds to MK-886, a compound that blocks the biosynthesis of leukotrienes.
+Subcellular Location	Nucleus membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTFNHDAPWHTQKTLKTSEFGKSFGTLGHIGNISHQCWAGCAAGGRAVLSGEPEANMDQETVGNVVLLAIVTLISVVQNGFFAHKVEHESRTQNGRSFQRTGTLAFERVYTANQNCVDAYPTFLAVLWSAGLLCSQVPAAFAGLMYLFVRQKYFVGYLGERTQSTPGYIFGKRIILFLFLMSVAGIFNYYLIFFFGSDFENYIKTISTTISPLLLIP
+PTM	

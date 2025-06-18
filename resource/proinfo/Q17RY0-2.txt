@@ -1,0 +1,25 @@
+UniprotID	Q17RY0-2
+Accession	Q17RY0;B7ZLQ7;Q7Z310;Q8N405;Q9C0J0
+EntryName	CPEB4_HUMAN
+ProteinName	Cytoplasmic polyadenylation element-binding protein 4 (CPE-BP4) (CPE-binding protein 4) (hCPEB-4)
+GeneName	CPEB4 KIAA1673
+Length	712
+Function	Sequence-specific RNA-binding protein that binds to the cytoplasmic polyadenylation element (CPE), an uridine-rich sequence element (consensus sequence 5'-UUUUUAU-3') within the mRNA 3'-UTR (PubMed:24990967). RNA binding results in a clear conformational change analogous to the Venus fly trap mechanism (PubMed:24990967). Regulates activation of unfolded protein response (UPR) in the process of adaptation to ER stress in liver, by maintaining translation of CPE-regulated mRNAs in conditions in which global protein synthesis is inhibited (By similarity). Required for cell cycle progression, specifically for cytokinesis and chromosomal segregation (PubMed:26398195). Plays a role as an oncogene promoting tumor growth and progression by positively regulating translation of t-plasminogen activator/PLAT (PubMed:22138752). Stimulates proliferation of melanocytes (PubMed:27857118). In contrast to CPEB1 and CPEB3, does not play role in synaptic plasticity, learning and memory (By similarity).
+Subcellular Location	Cytoplasm; Cell projection; Dendrite; Cell projection; Dendritic spine; Postsynaptic density; Cell projection; Axon; Cell projection; Growth cone; Endoplasmic reticulum; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDYGFGVLVQSNTGNKSAFPVRFHPHLQPPHHHQNATPSPAAFINNNTAANGSSAGSAWLFPAPATHNIQDEILGSEKAKSQQQEQQDPLEKQQLSPSPGQEAGILPETEKAKSEENQGDNSSENGNGKEKIRIESPVLTGFDYQEATGLGTSTQPLTSSASSLTGFSNWSAAIAPSSSTIINEDASFFHQGGVPAASANNGALLFQNFPHHVSPGFGGSFSPQIGPLSQHHPHHPHFQHHHSQHQQQRRSPASPHPPPFTHRNAAFNQLPHLANNLNKPPSPWSSYQSPSPTPSSSWSPGGGGYGGWGGSQGRDHRRGLNGGITPLNSISPLKKNFASNHIQLQKYARPSSAFAPKSWMEDSLNRADNIFPFPDRPRTFDMHSLESSLIDIMRAENDTIKARTYGRRRGQSSLFPMEDGFLDDGRGDQPLHSGLGSPHCFSHQNGERVERYSRKVFVGGLPPDIDEDEITASFRRFGPLIVDWPHKAESKSYFPPKGYAFLLFQDESSVQALIDACIEEDGKLYLCVSSPTIKDKPVQIRPWNLSDSDFVMDGSQPLDPRKTIFVGGVPRPLRAVELAMIMDRLYGGVCYAGIDTDPELKYPKGAGRVAFSNQQSYIAAISARFVQLQHGEIDKRVEVKPYVLDDQLCDECQGARCGGKFAPFFCANVTCLQYYCEYCWAAIHSRAGREFHKPLVKEGGDRPRHISFRWN
+PTM	Methylation:23,347,402,559,579,658;Phosphorylation:97,99,110,115,252,255,326,330,332,348,352,353,455;Ubiquitylation:509

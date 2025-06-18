@@ -1,0 +1,25 @@
+UniprotID	I3L1N5
+Accession	I3L1N5
+EntryName	I3L1N5_HUMAN
+ProteinName	Host cell factor C1 regulator 1
+GeneName	HCFC1R1
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	70...79;76...81
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTKRRLEEEQEPLRKQFLSEENMATHFSQLSLHNDHPYCSPPMTFSPALPPLRSPCSELLLWRYPGSLIPEALRLLRLGDTPSPPYPATPAGDIMEL
+PTM	

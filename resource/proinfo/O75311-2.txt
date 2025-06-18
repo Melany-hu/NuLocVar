@@ -1,0 +1,25 @@
+UniprotID	O75311-2
+Accession	O75311;D3DP44;O75816;Q5D0E3
+EntryName	GLRA3_HUMAN
+ProteinName	Glycine receptor subunit alpha-3
+GeneName	GLRA3
+Length	449
+Function	Glycine receptors are ligand-gated chloride channels. Channel opening is triggered by extracellular glycine (PubMed:26416729, PubMed:9677400). Channel characteristics depend on the subunit composition; heteropentameric channels display faster channel closure (By similarity). Plays an important role in the down-regulation of neuronal excitability (By similarity). Contributes to the generation of inhibitory postsynaptic currents (By similarity). Contributes to increased pain perception in response to increased prostaglandin E2 levels (By similarity). Plays a role in cellular responses to ethanol (By similarity).
+Subcellular Location	Postsynaptic cell membrane; Perikaryon; Cell projection; Dendrite; Synapse; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	354...358
+validnes_region	
+nesbase_region	
+Sequence	MAHVRHFRTLVSGFYFWEAALLLSLVATKETDSARSRSAPMSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRIFKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQMYIPSLLIVILSWVSFWINMDAAPARVALGITTVLTMTTQSSGSRASLPKVSYVKAIDIWMAVCLLFVFSALLEYAAVNFVSRQHKELLRFRRKRKNKDDEVRESRFSFTAYGMGPCLQAKDGMTPKGPNHPVQVMPKSPDEMRKVFIDRAKKIDTISRACFPLAFLIFNIFYWVIYKILRHEDIHQQQD
+PTM	Methylation:29,223,365;Phosphorylation:162;SUMOylation:223

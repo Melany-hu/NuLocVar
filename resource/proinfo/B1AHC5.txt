@@ -1,0 +1,25 @@
+UniprotID	B1AHC5
+Accession	B1AHC5
+EntryName	B1AHC5_HUMAN
+ProteinName	PHD finger protein 21B
+GeneName	PHF21B
+Length	75
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRQPQNGDLKKQLHERQPRIAALSDKQIAGRTSHLCTRDPARGFGNDHCSACHGSSGQLLAEVGRARSGSATSG
+PTM	

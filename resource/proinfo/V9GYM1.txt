@@ -1,0 +1,25 @@
+UniprotID	V9GYM1
+Accession	V9GYM1
+EntryName	V9GYM1_HUMAN
+ProteinName	Telomeric repeat binding factor 2
+GeneName	TERF2
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQCLSRIEEGENLDCSFDMEAELTPLESAINVLEMIKTEFTLTEAVVESSRKLVKEAAVIICIKNKEFEKASKILKKHMSKDPTTQ
+PTM	

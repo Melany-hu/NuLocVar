@@ -1,0 +1,25 @@
+UniprotID	B4DMN2
+Accession	B4DMN2
+EntryName	B4DMN2_HUMAN
+ProteinName	Zinc finger protein 302
+GeneName	ZNF302
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQVTFSDVAIDFSHEEWACLDSAQRDLYKDVMVQNYENLVSVAGLSVTKPYVIMLLEDGKEPWMMEKKLSKAYPFPLSHSVPASVNFGFSALFEHCSEVTEIFELSELCVFWVLHFLSNSPNSTVEAFFKK
+PTM	

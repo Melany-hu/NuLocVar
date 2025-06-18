@@ -1,0 +1,25 @@
+UniprotID	H7C2H4
+Accession	H7C2H4
+EntryName	H7C2H4_HUMAN
+ProteinName	Cystathionine beta-synthase
+GeneName	CBS
+Length	224
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGSAGSTVAVAVKAAQELQEGQRCVVILPDSVRNYMTKFLSDRWMLQKGFLKEEDLTEKKPWWWHLRVQELGLSAPLTVLPTITCGHTIEILREKGFDQAPVVDEAGVILGMVTLGNMLSSLLAGKVQPSDQVGKVIYKQFKQIRLTDTLGRLSHILEMDHFALVVHEQIQSQDQAWAGVVGGPAGSPNQVFLEHVHACHHRLWLLSSTSGLRAHNRDGTAPKT
+PTM	

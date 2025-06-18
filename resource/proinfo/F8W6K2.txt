@@ -1,0 +1,25 @@
+UniprotID	F8W6K2
+Accession	F8W6K2
+EntryName	F8W6K2_HUMAN
+ProteinName	Chimerin 1
+GeneName	CHN1
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWGLIAQGVKCAVLEARKSKIKLAAGSVSDCGLNVHKQCSKMVPNDCKPDLKHVKKVYSCDLTTLVKAHTTKRPMVVDMCIREIESRGLNSEGLYRVSGFSDLIEDVKMAFDRDGEKADISVNMYEDINIITGALKLYFRDLPIPLITYDAYPKFIESAKIMDPDEQLETLHEALKLLPPAHCETLRYLMAHLKRVTLHEKENL
+PTM	

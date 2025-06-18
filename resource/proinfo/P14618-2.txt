@@ -1,0 +1,25 @@
+UniprotID	P14618-2
+Accession	P14618;A6NFK3;B2R5N8;B3KRY0;B4DFX8;B4DUU6;P14786;Q53GK4;Q96E76;Q9BWB5;Q9UCV6;Q9UPF2
+EntryName	KPYM_HUMAN
+ProteinName	Pyruvate kinase PKM (EC 2.7.1.40) (Cytosolic thyroid hormone-binding protein) (CTHBP) (Opa-interacting protein 3) (OIP-3) (Pyruvate kinase 2/3) (Pyruvate kinase muscle isozyme) (Threonine-protein kinase PKM2) (EC 2.7.11.1) (Thyroid hormone-binding protein 1) (THBP1) (Tumor M2-PK) (Tyrosine-protein kinase PKM2) (EC 2.7.10.2) (p58)
+GeneName	PKM OIP3 PK2 PK3 PKM2
+Length	531
+Function	Catalyzes the final rate-limiting step of glycolysis by mediating the transfer of a phosphoryl group from phosphoenolpyruvate (PEP) to ADP, generating ATP (PubMed:15996096, PubMed:1854723, PubMed:20847263). The ratio between the highly active tetrameric form and nearly inactive dimeric form determines whether glucose carbons are channeled to biosynthetic processes or used for glycolytic ATP production (PubMed:15996096, PubMed:1854723, PubMed:20847263). The transition between the 2 forms contributes to the control of glycolysis and is important for tumor cell proliferation and survival (PubMed:15996096, PubMed:1854723, PubMed:20847263).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKPHSEAGTAFIQTQQLHAAMADTFLEHMCRLDIDSPPITARNTGIICTIGPASRSVETLKEMIKSGMNVARLNFSHGTHEYHAETIKNVRTATESFASDPILYRPVAVALDTKGPEIRTGLIKGSGTAEVELKKGATLKITLDNAYMEKCDENILWLDYKNICKVVEVGSKIYVDDGLISLQVKQKGADFLVTEVENGGSLGSKKGVNLPGAAVDLPAVSEKDIQDLKFGVEQDVDMVFASFIRKASDVHEVRKVLGEKGKNIKIISKIENHEGVRRFDEILEASDGIMVARGDLGIEIPAEKVFLAQKMMIGRCNRAGKPVICATQMLESMIKKPRPTRAEGSDVANAVLDGADCIMLSGETAKGDYPLEAVRMQHLIAREAEAAMFHRKLFEELVRASSHSTDLMEAMAMGSVEASYKCLAAALIVLTESGRSAHQVARYRPRAPIIAVTRNPQTARQAHLYRGIFPVLCKDPVQEAWAEDVDLRVNFAMNVGKARGFFKKGDVVIVLTGWRPGSGFTNTMRVVPVP
+PTM	Acetylation:3,62,66,89,115,125,135,136,141,162,166,186,188,206,207,224,230,256,261,263,266,270,305,311,322,336,337,367,433,475,498;Glycosylation:44,75,199,523;Methylation:62,66,89,92,115,125,135,136,141,151,162,166,173,186,188,206,207,224,230,247,255,256,261,270,278,305,322,336,367,399,400,422,433,467,475,498,504,505;Phosphorylation:6,10,25,37,41,45,50,55,57,60,67,77,80,83,87,93,95,97,100,105,114,121,127,129,143,148,161,172,175,182,195,202,205,222,243,249,269,287,328,333,346,362,365,370,390,405,406,409,412,420,425,432,434,437,444,454,459,466,513,519;SUMOylation:3,66,89,115,135,166,173,186,188,206,207,224,230,247,261,266,270,305,311,322,336,367,475,498,505;Ubiquitylation:3,62,66,89,115,125,135,136,141,151,162,166,173,186,188,206,207,224,256,261,266,270,305,311,322,336,337,367,422,433,475,498

@@ -1,0 +1,25 @@
+UniprotID	H0YB65
+Accession	H0YB65
+EntryName	H0YB65_HUMAN
+ProteinName	Transmembrane protein 71
+GeneName	TMEM71
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDDLDCSSLTDDWESGKMNAESVITSSSSHIISQPPGGNSHSLSLQSQLTASERFQENSSDHSETRLLQEVFFQAILLAVCLIISACARNNNANHTMGED
+PTM	

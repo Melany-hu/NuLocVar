@@ -1,0 +1,25 @@
+UniprotID	Q8NB37-4
+Accession	Q8NB37;B7ZKW5;Q2NL76;Q6ZQY0;Q8NAE0
+EntryName	GALD1_HUMAN
+ProteinName	Glutamine amidotransferase-like class 1 domain-containing protein 1 (Ferry endosomal RAB5 effector complex subunit 5) (Fy-5) (Parkinson disease 7 domain-containing protein 1)
+GeneName	GATD1 FERRY5 PDDC1
+Length	150
+Function	Component of the FERRY complex (Five-subunit Endosomal Rab5 and RNA/ribosome intermediary) (PubMed:37267905, PubMed:37267906). The FERRY complex directly interacts with mRNAs and RAB5A, and functions as a RAB5A effector involved in the localization and the distribution of specific mRNAs most likely by mediating their endosomal transport. The complex recruits mRNAs and ribosomes to early endosomes through direct mRNA-interaction (PubMed:37267905).
+Subcellular Location	Secreted; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASERLPNRPACLLVASGAAEGVSAQSFLHCFTMASTAFNLQVATPGGKAMEFVDVTESNARWVQDFRLKAYASPAKLESIDEPICAVGHGVAALCCATNEDRSWVFDSYSLTGGLGLSQEPPPRSRSPLCVSSSGPPASPACRSWWRTS
+PTM	Phosphorylation:86,116;SUMOylation:77;Ubiquitylation:70,77

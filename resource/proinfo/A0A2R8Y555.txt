@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y555
+Accession	A0A2R8Y555
+EntryName	A0A2R8Y555_HUMAN
+ProteinName	Voltage-dependent L-type calcium channel subunit beta-2 (Calcium channel voltage-dependent subunit beta 2)
+GeneName	CACNB2
+Length	584
+Function	Beta subunit of voltage-dependent calcium channels which contributes to the function of the calcium channel by increasing peak calcium current. Plays a role in shifting voltage dependencies of activation and inactivation of the channel. May modulate G protein inhibition. May contribute to beta-adrenergic augmentation of Ca(2+) influx in cardiomyocytes, thereby regulating increases in heart rate and contractile force. Involved in membrane targeting of the alpha-1 subunit CACNA1C.
+Subcellular Location	Cell membrane; Sarcolemma
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNQGSGLDLLKISYGKGARRKNRFKGSDGSTSSDTTSNSFVRQGSADSYTSRPSDSDVSLEEDREAVRREAERQAQAQLEKAKTKPVAFAVRTNVSYSAAHEDDVPVPGMAISFEAKDFLHVKEKFNNDWWIGRLVKEGCEIGFIPSPVKLENMRLQHEQRAKQGKFYSSKSGGNSSSSLGDIVPSSRKSTPPSSAKQKQKSTEHTPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFEGRISITRVTADISLAKRSVLNNPSKHAIIERSNTRSSLAEVQSEIERIFELARTLQLVVLDADTINHPAQLSKTSLAPIIVYVKISSPKVLQRLIKSRGKSQAKHLNVQMVAADKLAQCPPELFDVILDENQLEDACEHLADYLEAYWKATHPPSSSLPNPLLSRTLATSSLPLSPTLASNSQGSQGDQRTDRSAPIRSASQAEEEPSVEPVKKSQHRSSSSAPHHNHRSGTSRGLSRQETFDSETQESRDSAYVEPKEDYSHDHVDHYASHRDHNHRDETHGSSDHRHRESRHRSRDVDREQDHNECNKQRSRHKSKDRYCEKDGEVISKKRNEAG
+PTM	

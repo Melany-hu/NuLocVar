@@ -1,0 +1,25 @@
+UniprotID	Q92734-2
+Accession	Q92734;D3DN49;G5E9V1;K0J5S8;K0J6K2;Q15656;Q969I2
+EntryName	TFG_HUMAN
+ProteinName	Protein TFG (TRK-fused gene protein)
+GeneName	TFG
+Length	396
+Function	Plays a role in the normal dynamic function of the endoplasmic reticulum (ER) and its associated microtubules (PubMed:23479643, PubMed:27813252). Required for secretory cargo traffic from the endoplasmic reticulum to the Golgi apparatus (PubMed:21478858).
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGQLDLSGKLIIKAQLGEDIRRIPIHNEDITYDELVLMMQRVFRGKLLSNDEVTIKYKDEDGDLITIFDSSDLSFAIQCSRILKLTLFVNGQPRPLESSQVKYLRRELIELRNKVNRLLDSLEPPGEPGPSTNIPENDTVDGREEKSASDSSGKQSTQVMAASMSAFDPLKNQDEINKNVMSAFGLTDDQVSGPPSAPAEDRSGTPDSIASSSSAAHPPGVQPQQPPYTGAQTQAGQMYQQYQQQAGYGAQQPQAPPQQPQQYGIQYSASYSQQTGPQQPQQFQGYGQQPTSQAPAPAFSGQPQQLPAQPPQQYQASNYPAQTYTAQTSQPTNYTVAPASQPGMAPSQPGAYQPRPGFTSLPGSTMTPPPSGPNPYARNRPPFGQGYTQPGPGYR
+PTM	Acetylation:103;Glycosylation:2;Methylation:10,14,22,57,144,147,172,179,385,400;Phosphorylation:8,50,99,100,132,148,150,152,153,157,158,164,166,188,193,197,392,393;Ubiquitylation:47,103,155,172,179

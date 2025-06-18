@@ -1,0 +1,25 @@
+UniprotID	G3V0Z9
+Accession	G3V0Z9
+EntryName	G3V0Z9_HUMAN
+ProteinName	HCG2043033, isoform CRA_b (LYNX1-SLURP2 readthrough)
+GeneName	LYNX1-SLURP2 hCG_2043033
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPLLTLILVVLMGLPLAQALDCHVCAYNGDNCFNPMRCPAMVAYCMTTRTYYTPTRMKLQPKPYGVTSARASEGAPMDPDA
+PTM	

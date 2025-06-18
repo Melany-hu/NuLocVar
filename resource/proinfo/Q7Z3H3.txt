@@ -1,0 +1,25 @@
+UniprotID	Q7Z3H3
+Accession	Q7Z3H3
+EntryName	Q7Z3H3_HUMAN
+ProteinName	Autophagy related 5 (Uncharacterized protein DKFZp686F0183)
+GeneName	ATG5 DKFZp686F0183
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDDKDVLRDVWFGRIPTCFTLYQDEITEREAEPYYTDLTSFGPSIGNSWNILQKKMDFVISPLEYIRQRLKDLSFRSCFVLWLQMDSCTH
+PTM	

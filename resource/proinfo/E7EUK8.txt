@@ -1,0 +1,25 @@
+UniprotID	E7EUK8
+Accession	E7EUK8
+EntryName	E7EUK8_HUMAN
+ProteinName	Cyclin-dependent kinase 14 (EC 2.7.11.22) (Cell division protein kinase 14)
+GeneName	CDK14
+Length	340
+Function	Serine/threonine-protein kinase involved in the control of the eukaryotic cell cycle, whose activity is controlled by an associated cyclin. Acts as a cell-cycle regulator of Wnt signaling pathway during G2/M phase by mediating the phosphorylation of LRP6 at 'Ser-1490', leading to the activation of the Wnt signaling pathway. Acts as a regulator of cell cycle progression and cell proliferation via its interaction with CCDN3. Phosphorylates RB1 in vitro, however the relevance of such result remains to be confirmed in vivo. May also play a role in meiosis, neuron differentiation and may indirectly act as a negative regulator of insulin-responsive glucose transport.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLALTLRPPPLAKSHLKLGGTPAPARVNGKLVALKVIRLQEEEGTPFTAIREASLLKGLKHANIVLLHDIIHTKETLTLVFEYVHTDLCQYMDKHPGGLHPDNVKLFLFQLLRGLSYIHQRYILHRDLKPQNLLISDTGELKLADFGLARAKSVPSHTYSNEVVTLWYRPPDVLLGSTEYSTCLDMWGVGCIFVEMIQGVAAFPGMKDIQDQLERIFLVLGTPNEDTWPGVHSLPHFKPERFTLYSSKNLRQAWNKLSYVNHAEDLASKLLQCSPKNRLSAQAALSHEYFSDLPPRLWELTDMSSIFTVPNVRLQPEAGESMRAFGKNNSYGKSLSNSKH
+PTM	

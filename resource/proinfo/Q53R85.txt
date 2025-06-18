@@ -1,0 +1,25 @@
+UniprotID	Q53R85
+Accession	Q53R85
+EntryName	Q53R85_HUMAN
+ProteinName	Aspartyl-tRNA synthetase
+GeneName	DARS
+Length	188
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSASASRKSQEKPREIMDAAEDYAKERYGISSMIQSQEKPDRVLVRVRDLTIQKADEVVWVRARVHTSRAKGKQCFLVLRQQQFNVQALVAVGDHASKQMVKFAANINKESIVDVEGVVRKVNQKIGSCTQQDVELHVQKIYVISLAEPRLPLQLDDAVRPEAEGEEEGRATVNQDTRLDNRVIDLR
+PTM	

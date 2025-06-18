@@ -1,0 +1,25 @@
+UniprotID	A8MTZ0-3
+Accession	A8MTZ0;E9PIY9;E9PM41;E9PRI7
+EntryName	BBIP1_HUMAN
+ProteinName	BBSome-interacting protein 1 (BBSome-interacting protein of 10 kDa)
+GeneName	BBIP1 BBIP10 NCRNA00081
+Length	67
+Function	The BBSome complex is thought to function as a coat complex required for sorting of specific membrane proteins to the primary cilia. The BBSome complex is required for ciliogenesis but is dispensable for centriolar satellite function. This ciliogenic function is mediated in part by the Rab8 GDP/GTP exchange factor, which localizes to the basal body and contacts the BBSome. Rab8(GTP) enters the primary cilium and promotes extension of the ciliary membrane. Firstly the BBSome associates with the ciliary membrane and binds to RAB3IP/Rabin8, the guanosyl exchange factor (GEF) for Rab8 and then the Rab8-GTP localizes to the cilium and promotes docking and fusion of carrier vesicles to the base of the ciliary membrane. Required for primary cilia assembly and BBSome stability. Regulates cytoplasmic microtubule stability and acetylation.
+Subcellular Location	Cell projection; Cilium; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKAAAKRPELSGPLFVEDIMTMVLCKPKLLPLKSLTLEKLEKMHQAAQNTIRQQEMAEKDQRQITH
+PTM	Methylation:65

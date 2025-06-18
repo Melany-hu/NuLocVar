@@ -1,0 +1,25 @@
+UniprotID	O60504-2
+Accession	O60504;Q5BJE4;Q6NX54;Q96FY4;Q9UQE4
+EntryName	VINEX_HUMAN
+ProteinName	Vinexin (SH3-containing adapter molecule 1) (SCAM-1) (Sorbin and SH3 domain-containing protein 3)
+GeneName	SORBS3 SCAM1
+Length	329
+Function	Vinexin alpha isoform promotes up-regulation of actin stress fiber formation. Vinexin beta isoform plays a role in cell spreading and enhances the activation of JNK/SAPK in response to EGF stimulation by using its third SH3 domain.
+Subcellular Location	Cell junction; Cytoplasm; Cytoskeleton; Cell junction; Nucleus; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADGGSPFLGRRDFVYPSSTRDPSASNGGGSPARREEKKRKAARLKFDFQAQSPKELTLQKGDIVYIHKEVDKNWLEGEHHGRLGIFPANYVEVLPADEIPKPIKPPTYQVLEYGEAVAQYTFKGDLEVELSFRKGEHICLIRKVNENWYEGRITGTGRQGIFPASYVQVSREPRLRLCDDGPQLPTSPRLTAAARSARHPSSPSALRSPADPIDLGGQTSPRRTGFSFPTQEPRPQTQNLGTPGPALSHSRGPSHPLDLGTSSPNTSQIHWTPYRAMYQYRPQNEDELELREGDRVDVMQQCDDGWFVGVSRRTQKFGTFPGNYVAPV
+PTM	Acetylation:486;Glycosylation:192;Methylation:388,403,415,486;Phosphorylation:13,24,106,217,218,295,299,302,303,337,339,348,362,366,368,373,395,529,530,534,544,545,547,551,562,563,585,597,604,605,606,609,610,615,617

@@ -1,0 +1,25 @@
+UniprotID	Q02045-2
+Accession	Q02045;Q8IXL8
+EntryName	MYL5_HUMAN
+ProteinName	Myosin light chain 5 (Myosin regulatory light chain 5) (Superfast myosin regulatory light chain 2) (MYLC2) (MyLC-2)
+GeneName	MYL5
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQNRDGFIDKEDLKDTYASLGKTNVKDDELDAMLKEASGPINFTMFLNLFGEKLSGTDAEETILNAFKMLDPDGKGKINKEYIKRLLMSQADKMTAEEVDQMFQFASIDVAGNLDYKALSYVITHGEEKEE
+PTM	Methylation:95;Phosphorylation:21,25,30,40

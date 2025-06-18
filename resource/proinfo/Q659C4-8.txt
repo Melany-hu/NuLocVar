@@ -1,0 +1,25 @@
+UniprotID	Q659C4-8
+Accession	Q659C4;Q2YDB6;Q4W599;Q4W5B2;Q659A0;Q6P5X2;Q7Z3F7;Q86VK7;Q8N6F4;Q8N7H4;Q8NAF2;Q9H5E7;Q9NW12
+EntryName	LAR1B_HUMAN
+ProteinName	La-related protein 1B (La ribonucleoprotein domain family member 1B) (La ribonucleoprotein domain family member 2) (La-related protein 2)
+GeneName	LARP1B LARP2
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	67...71
+validnes_region	
+nesbase_region	
+Sequence	MRNLDNLLGKMQKKITGQLYGLEKFWAYLKYSQSKTQSIDPKLQEYLCSFKRLEDFRVDPPISDEFGRKRHSSTSGEESNRHRLPPNSSTKPPNAAKPTSTSELQVPINSPRRNISPESSDNSH
+PTM	Acetylation:624;Methylation:127,216,274,345,376,447,482,522,570,632,703,724,820,832;Phosphorylation:42,44,50,60,66,67,88,90,99,100,136,327,329,331,335,340,343,348,351,361,362,363,369,391,427,429,432,436,438,452,454,593,616,633,673,721,821,863,900,906;SUMOylation:77,216,285,288,289,376;Ubiquitylation:51,241,285

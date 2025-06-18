@@ -1,0 +1,25 @@
+UniprotID	O76081-6
+Accession	O76081;Q96BG9
+EntryName	RGS20_HUMAN
+ProteinName	Regulator of G-protein signaling 20 (RGS20) (Gz-selective GTPase-activating protein) (G(z)GAP) (Gz-GAP) (Regulator of G-protein signaling Z1) (Regulator of Gz-selective protein signaling 1)
+GeneName	RGS20 RGSZ1 ZGAP1
+Length	241
+Function	Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form. Binds selectively to G(z)-alpha and G(alpha)-i2 subunits, accelerates their GTPase activity and regulates their signaling activities. The G(z)-alpha activity is inhibited by the phosphorylation and palmitoylation of the G-protein. Negatively regulates mu-opioid receptor-mediated activation of the G-proteins (By similarity).
+Subcellular Location	Membrane; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTADGGEPAGASSPAGRVDGGLQMGSERMEMRKRQMPAAQDTPGAAPGQPGAGSRGSNACCFCWCCCCSCSCLTVRNQEDQRPTIASHELRADLPTWEESPAPTLEEVNAWAQSFDKLMVTPAGRNAFREFLRTEFSEENMLFWMACEELKKEANKNIIEEKARIIYEDYISILSPKEVSLDSRVREVINRNMVEPSQHIFDDAQLQIYTLMHRDSYPRFMNSAVYKDLLQSLSEKSIEA
+PTM	Methylation:299,325;Phosphorylation:190,235,269,385;Ubiquitylation:310

@@ -1,0 +1,25 @@
+UniprotID	A4IF27
+Accession	A4IF27
+EntryName	A4IF27_HUMAN
+ProteinName	KRTAP6-3 protein
+GeneName	KRTAP6-3
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGSYYRNYNGGHGYGCCGYGGLGCGYGGCGYGCCGYGGLGFGSGGLDCGYGGLGCGYGSFCGCGYRGLDCGYGCGYGYVSHSFCGCGYRCGSGYGSSFGYY
+PTM	

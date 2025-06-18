@@ -1,0 +1,25 @@
+UniprotID	C9J2Y7
+Accession	C9J2Y7
+EntryName	C9J2Y7_HUMAN
+ProteinName	G protein subunit alpha 12
+GeneName	GNA12
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRRMFPRPCLARMPGSRGSRVLVDARDKLGIPWQYSENEKHGMFLMAFENKAGLPVEPATFQLYVPALSALWRDSG
+PTM	

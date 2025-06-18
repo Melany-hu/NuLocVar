@@ -1,0 +1,25 @@
+UniprotID	Q96CW1-2
+Accession	Q96CW1;A6NE12;D3DNT1;P20172;P53679
+EntryName	AP2M1_HUMAN
+ProteinName	AP-2 complex subunit mu (AP-2 mu chain) (Adaptin-mu2) (Adaptor protein complex AP-2 subunit mu) (Adaptor-related protein complex 2 subunit mu) (Clathrin assembly protein complex 2 mu medium chain) (Clathrin coat assembly protein AP50) (Clathrin coat-associated protein AP50) (HA2 50 kDa subunit) (Plasma membrane adaptor AP-2 50 kDa protein)
+GeneName	AP2M1 CLAPM1 KIAA0109
+Length	433
+Function	Component of the adaptor protein complex 2 (AP-2) (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). Adaptor protein complexes function in protein transport via transport vesicles in different membrane traffic pathways (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). Adaptor protein complexes are vesicle coat components and appear to be involved in cargo selection and vesicle formation (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). AP-2 is involved in clathrin-dependent endocytosis in which cargo proteins are incorporated into vesicles surrounded by clathrin (clathrin-coated vesicles, CCVs) which are destined for fusion with the early endosome (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). The clathrin lattice serves as a mechanical scaffold but is itself unable to bind directly to membrane components (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). Clathrin-associated adaptor protein (AP) complexes which can bind directly to both the clathrin lattice and to the lipid and protein components of membranes are considered to be the major clathrin adaptors contributing the CCV formation (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). AP-2 also serves as a cargo receptor to selectively sort the membrane proteins involved in receptor-mediated endocytosis (PubMed:16581796). AP-2 seems to play a role in the recycling of synaptic vesicle membranes from the presynaptic surface (PubMed:12694563, PubMed:12952941, PubMed:14745134, PubMed:14985334, PubMed:15473838, PubMed:31104773). AP-2 recognizes Y-X-X- (Y-X-X-Phi) and -X-X-X-L- endocytosis signal motifs within the cytosolic tails of transmembrane cargo molecules (By similarity). AP-2 may also play a role in maintaining normal post-endocytic trafficking through the ARF6-regulated, non-clathrin pathway (PubMed:19033387). During long-term potentiation in hippocampal neurons, AP-2 is responsible for the endocytosis of ADAM10 (PubMed:23676497). The AP-2 mu subunit binds to transmembrane cargo proteins; it recognizes the Y-X-X-Phi motifs (By similarity). The surface region interacting with to the Y-X-X-Phi motif is inaccessible in cytosolic AP-2, but becomes accessible through a conformational change following phosphorylation of AP-2 mu subunit at Thr-156 in membrane-associated AP-2 (PubMed:11877457). The membrane-specific phosphorylation event appears to involve assembled clathrin which activates the AP-2 mu kinase AAK1 (PubMed:11877457). Plays a role in endocytosis of frizzled family members upon Wnt signaling (By similarity).
+Subcellular Location	Cell membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIGGLFIYNHKGEVLISRVYRDDIGRNAVDAFRVNVIHARQQVRSPVTNIARTSFFHVKRSNIWLAAVTKQNVNAAMVFEFLYKMCDVMAAYFGKISEENIKNNFVLIYELLDEILDFGYPQNSETGALKTFITQQGIKSQTKEEQSQITSQVTGQIGWRREGIKYRRNELFLDVLESVNLLMSPQGQVLSAHVSGRVVMKSYLSGMPECKFGMNDKIVIEKQGKGTADETSKSGKQSIAIDDCTFHQCVRLSKFDSERSISFIPPDGEFELMRYRTTKDIILPFRVIPLVREVGRTKLEVKVVIKSNFKPSLLAQKIEVRIPTPLNTSGVQVICMKGKAKYKASENAIVWKIKRMAGMKESQISAEIELLPTNDKKKWARPPISMNFEVPFAPSGLKVRYLKVFEPKLNYSDHDVIKWVRYIGRSGIYETRC
+PTM	Acetylation:213,219,224,256,312,319,339,354,400,405,410,420;Methylation:70,102,304,308,319,378,400,420;Phosphorylation:45,149,152,153,156,229,236,387,397,431;SUMOylation:139,145,203,213,219,224,238,256,281,300,308,312,319,378,380,400,410;Ubiquitylation:139,145,167,224,227,235,238,256,281,308,312,319,339,345,354,378,380,400,405,410,420

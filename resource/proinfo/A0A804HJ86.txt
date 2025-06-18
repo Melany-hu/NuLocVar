@@ -1,0 +1,25 @@
+UniprotID	A0A804HJ86
+Accession	A0A804HJ86
+EntryName	A0A804HJ86_HUMAN
+ProteinName	Ubiquitin-like modifier-activating enzyme 5 (UFM1-activating enzyme)
+GeneName	UBA5
+Length	461
+Function	E1-like enzyme which specifically catalyzes the first step in ufmylation. Activates UFM1 by first adenylating its C-terminal glycine residue with ATP, and thereafter linking this residue to the side chain of a cysteine residue in E1, yielding a UFM1-E1 thioester and free AMP. Activates UFM1 via a trans-binding mechanism, in which UFM1 interacts with distinct sites in both subunits of the UBA5 homodimer. Trans-binding also promotes stabilization of the UBA5 homodimer, and enhances ATP-binding. Transfer of UFM1 from UBA5 to the E2-like enzyme UFC1 also takes place using a trans mechanism. Ufmylation plays a key role in various processes, such as ribosome recycling, response to DNA damage, interferon response or reticulophagy (also called ER-phagy). Ufmylation is essential for erythroid differentiation of both megakaryocytes and erythrocytes.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGSDVCDAPEAAPRKACGSLGDVSVCEALGARPQGSGLGRRRRRPGLGALAAGVPAMAESVERLQQRVQELERELAQERSLQVPRSGDGGGGRVRIEKMSSEVVDSNPYSRLMALKRMGIVSDYEKIRTFAVAIVGVGGVGSVTAEMLTRCGIGKLLLFDYDKVELANMNRLFFQPHQAGLSKVQAAEHTLRNINPDVLFEVHNYNITTVENFQHFMDRISNGGLEEGKPVDLVLSCVDNFEARMTINTACNELGQTWMESGVSENAVSGHIQLIIPGESACFACAPPLVVAANIDEKTLKREGVCAASLPTTMGVVAGILVQNVLKFLLNFGTVSFYLGYNAMQDFFPTMSMKPNPQCDDRNCRKQQEEYKKKVAALPKQEVIQEEEEIIHEDNEWGIELVSEVSEEELKNFSGPVPDLPEGITVAYTIPKKQEDSVTELTVEDSGESLEDLMAKMKNM
+PTM	

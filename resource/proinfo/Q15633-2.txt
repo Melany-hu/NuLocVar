@@ -1,0 +1,25 @@
+UniprotID	Q15633-2
+Accession	Q15633;Q12878;Q8WY32;Q8WY33;Q9BRY2
+EntryName	TRBP2_HUMAN
+ProteinName	RISC-loading complex subunit TARBP2 (TAR RNA-binding protein 2) (Trans-activation-responsive RNA-binding protein)
+GeneName	TARBP2 TRBP
+Length	345
+Function	Required for formation of the RNA induced silencing complex (RISC). Component of the RISC loading complex (RLC), also known as the micro-RNA (miRNA) loading complex (miRLC), which is composed of DICER1, AGO2 and TARBP2. Within the RLC/miRLC, DICER1 and TARBP2 are required to process precursor miRNAs (pre-miRNAs) to mature miRNAs and then load them onto AGO2. AGO2 bound to the mature miRNA constitutes the minimal RISC and may subsequently dissociate from DICER1 and TARBP2. May also play a role in the production of short interfering RNAs (siRNAs) from double-stranded RNA (dsRNA) by DICER1 (By similarity) (PubMed:15973356, PubMed:16142218, PubMed:16271387, PubMed:16357216, PubMed:16424907, PubMed:17452327, PubMed:18178619). Binds in vitro to the PRM1 3'-UTR (By similarity). Seems to act as a repressor of translation (By similarity). For some pre-miRNA substrates, may also alter the choice of cleavage site by DICER1 (PubMed:23063653). Negatively regulates IRF7-mediated IFN-beta signaling triggered by viral infection by inhibiting the phosphorylation of IRF7 and promoting its 'Lys'-48-linked ubiquitination and degradation (PubMed:30927622).
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAANPGKTPISLLQEYGTRIGKTPVYDLLKAEGQAHQPNFTFRVTVGDTSCTGQGPSKKAAKHKAAEVALKHLKGGSMLEPALEDSSSFSPLDSSLPEDIPVFTAAAAATPVPSVVLTRSPPMELQPPVSPQQSECNPVGALQELVVQKGWRLPEYTVTQESGPAHRKEFTMTCRVERFIEIGSGTSKKLAKRNAAAKMLLRVHTVPLDARDGNEVEPDDDHFSIGVGSRLDGLRNRGPGCTWDSLRNSVGEKILSLRSCSLGSLGALGPACCRVLSELSEEQAFHVSYLDIEELSLSGLCQCLVELSTQPATVCHGSATTREAARGEAARRALQYLKIMAGSK
+PTM	Acetylation:93,275;Methylation:52,171;Phosphorylation:142,152,156,246,281,283,286

@@ -1,0 +1,25 @@
+UniprotID	K7ENP1
+Accession	K7ENP1
+EntryName	K7ENP1_HUMAN
+ProteinName	tRNA methyltransferase 11 homolog
+GeneName	TRMT11
+Length	230
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSCTLNRYLLLMAQEHLEFRLPEIKSLLLLFGGQFASSQETYGKSPFWILSIPSEDIARNLMKRTVCAKSIFELWGHGQSPEELYSSLKNYPVEKMVPFLHSDSTYKIKIHTFNKTLTQEEKIKRIDALEFLPFEGKVNLKKPQHVFSVLEDYGLDPNCIPENPHNIYFGRWIADGQRELIESYSVKKRHFIGNTSMDAGLSFIMANHGKVKENDIVFDPFVGTAVYL
+PTM	

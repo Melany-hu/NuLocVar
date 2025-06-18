@@ -1,0 +1,25 @@
+UniprotID	Q9NQ48-3
+Accession	Q9NQ48;B3KSI9;B4E0K7;Q8TC61;Q9NQ56
+EntryName	LZTL1_HUMAN
+ProteinName	Leucine zipper transcription factor-like protein 1
+GeneName	LZTFL1
+Length	256
+Function	Regulates ciliary localization of the BBSome complex. Together with the BBSome complex, controls SMO ciliary trafficking and contributes to the sonic hedgehog (SHH) pathway regulation. May play a role in neurite outgrowth. May have tumor suppressor function.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRNQDPGKMGRQRKSIKLYPTHPLVTFPRSWAKFQEKALLVEDTFTIDEVSEVLNGLQAVVHSEVESELINTAYTNVLLLRQLFAQAEKWYLKLQTDISELENRELLEQVAEFEKAEITSSNKKPILDVTKPKLAPLNEGGTAELLNKEILRLQEENEKLKSRLKTIEIQATNALDEKSKLEKALQDLQLDQGNQKDFIKAQDLSNLENTVAALKSEFQKTLNDKTENQKSLEENLATAKHDLLRVQEQLHMAEKI
+PTM	Acetylation:163,259,275;Methylation:40,119,152,182,204,219,229,234,263,280;Phosphorylation:271;Ubiquitylation:40,219,229

@@ -1,0 +1,25 @@
+UniprotID	Q15651
+Accession	Q15651;B2RD37;Q5HYD3;Q7RTT0;Q969M5;Q9BZT7
+EntryName	HMGN3_HUMAN
+ProteinName	High mobility group nucleosome-binding domain-containing protein 3 (Thyroid receptor-interacting protein 7) (TR-interacting protein 7) (TRIP-7)
+GeneName	HMGN3 TRIP7 PNAS-24
+Length	99
+Function	Binds to nucleosomes, regulating chromatin structure and consequently, chromatin-dependent processes such as transcription, DNA replication and DNA repair. Affects both insulin and glucagon levels and modulates the expression of pancreatic genes involved in insulin secretion. Regulates the expression of the glucose transporter SLC2A2 by binding specifically to its promoter region and recruiting PDX1 and additional transcription factors. Regulates the expression of SLC6A9, a glycine transporter which regulates the glycine concentration in synaptic junctions in the central nervous system, by binding to its transcription start site. May play a role in ocular development and astrocyte function (By similarity).
+Subcellular Location	Nucleus
+Disorder	0.9664,0.9677,0.9593,0.9606,0.9621,0.9621,0.9534,0.9396,0.9396,0.9329,0.9396,0.9308,0.9308,0.9362,0.9362,0.9457,0.9457,0.9308,0.9346,0.9211,0.9230,0.9249,0.9151,0.9362,0.9329,0.9433,0.9547,0.9547,0.9711,0.9703,0.9783,0.9725,0.9787,0.9733,0.9711,0.9711,0.9711,0.9711,0.9677,0.9634,0.9677,0.9733,0.9744,0.9770,0.9684,0.9593,0.9488,0.9362,0.9457,0.9329,0.9269,0.9168,0.9168,0.8920,0.8894,0.8966,0.8894,0.8966,0.8942,0.9039,0.9151,0.9081,0.8894,0.8894,0.8894,0.8966,0.9287,0.9287,0.9269,0.9287,0.9308,0.9346,0.9308,0.9329,0.9381,0.9381,0.9362,0.9415,0.9415,0.9381,0.9381,0.9329,0.9381,0.9287,0.9287,0.9329,0.9308,0.9190,0.9168,0.9190,0.9126,0.9057,0.9081,0.9081,0.9151,0.9151,0.9168,0.9211,0.9190
+ExposeBuried	1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+SurfaceAccessbility	0.773,0.459,0.611,0.527,0.540,0.253,0.637,0.691,0.550,0.320,0.646,0.467,0.583,0.585,0.435,0.430,0.501,0.117,0.456,0.445,0.629,0.510,0.467,0.474,0.572,0.317,0.403,0.281,0.553,0.243,0.470,0.452,0.606,0.377,0.536,0.385,0.396,0.638,0.353,0.605,0.512,0.598,0.295,0.507,0.457,0.640,0.564,0.461,0.540,0.453,0.554,0.604,0.502,0.541,0.621,0.136,0.516,0.567,0.323,0.531,0.602,0.465,0.484,0.488,0.568,0.554,0.429,0.387,0.600,0.302,0.223,0.589,0.638,0.307,0.427,0.355,0.322,0.246,0.646,0.606,0.351,0.577,0.517,0.498,0.436,0.506,0.514,0.284,0.416,0.393,0.399,0.561,0.277,0.174,0.620,0.640,0.522,0.571,0.909
+SecondStructure	C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C
+Hydropathy	1.9,-1.6,-3.9,-4.5,-3.9,-0.8,-1.6,-3.5,-3.5,-0.7,-3.5,-0.4,-3.9,-3.5,-0.4,-0.8,-3.9,4.2,-0.7,-3.9,-3.5,-3.5,-1.6,-0.7,-4.5,-4.5,-0.8,1.8,-4.5,3.8,-0.8,1.8,-3.9,-1.6,1.8,-1.6,-1.6,-3.9,-1.6,-3.5,-1.6,-3.9,-1.6,-4.5,-3.9,-0.7,-0.8,1.8,-3.9,-3.9,-3.5,-1.6,-0.4,1.8,-3.9,4.5,-0.8,-4.5,-0.4,1.8,-3.9,-0.4,-3.9,-3.9,-3.5,-3.5,-3.9,-3.5,-3.5,1.8,-0.4,-3.9,-3.5,-0.4,-0.7,1.8,-1.6,-0.8,-3.5,-3.5,-0.4,-3.5,-0.7,-3.9,1.8,-3.5,-3.5,1.8,-3.5,-3.9,-0.7,-3.5,-0.8,4.2,-3.5,-3.5,-3.5,-0.4,-3.5
+Polar	0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1
+Charge	0,0,1,1,1,0,0,-1,0,0,-1,0,1,-1,0,0,1,0,0,1,0,-1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,-1,0,1,0,1,1,0,0,0,1,1,-1,0,0,0,1,0,0,1,0,0,1,0,1,1,-1,-1,1,0,-1,0,0,1,-1,0,0,0,0,0,-1,0,0,-1,0,1,0,-1,-1,0,0,1,0,-1,0,0,-1,0,-1,0,-1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1...5
+validnes_region	
+nesbase_region	
+Sequence	MPKRKSPENTEGKDGSKVTKQEPTRRSARLSAKPAPPKPEPKPRKTSAKKEPGAKISRGAKGKKEEKQEAGKEGTAPSENGETKAEEAQKTESVDNEGE
+PTM	Acetylation:5,13,17,33,38,55,67,72,84,90;Phosphorylation:6,10,16,27,31,75,78,83,91,93;SUMOylation:38,84;Ubiquitylation:13,20,33,55,72,84,90

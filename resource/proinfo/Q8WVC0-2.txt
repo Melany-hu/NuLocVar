@@ -1,0 +1,25 @@
+UniprotID	Q8WVC0-2
+Accession	Q8WVC0;Q96N99
+EntryName	LEO1_HUMAN
+ProteinName	RNA polymerase-associated protein LEO1 (Replicative senescence down-regulated leo1-like protein)
+GeneName	LEO1 RDL
+Length	606
+Function	Component of the PAF1 complex (PAF1C) which has multiple functions during transcription by RNA polymerase II and is implicated in regulation of development and maintenance of embryonic stem cell pluripotency. PAF1C associates with RNA polymerase II through interaction with POLR2A CTD non-phosphorylated and 'Ser-2'- and 'Ser-5'-phosphorylated forms and is involved in transcriptional elongation, acting both independently and synergistically with TCEA1 and in cooperation with the DSIF complex and HTATSF1. PAF1C is required for transcription of Hox and Wnt target genes. PAF1C is involved in hematopoiesis and stimulates transcriptional activity of KMT2A/MLL1; it promotes leukemogenesis through association with KMT2A/MLL1-rearranged oncoproteins, such as KMT2A/MLL1-MLLT3/AF9 and KMT2A/MLL1-MLLT1/ENL. PAF1C is involved in histone modifications such as ubiquitination of histone H2B and methylation on histone H3 'Lys-4' (H3K4me3). PAF1C recruits the RNF20/40 E3 ubiquitin-protein ligase complex and the E2 enzyme UBE2A or UBE2B to chromatin which mediate monoubiquitination of 'Lys-120' of histone H2B (H2BK120ub1); UB2A/B-mediated H2B ubiquitination is proposed to be coupled to transcription. PAF1C is involved in mRNA 3' end formation probably through association with cleavage and poly(A) factors. In case of infection by influenza A strain H3N2, PAF1C associates with viral NS1 protein, thereby regulating gene transcription. Involved in polyadenylation of mRNA precursors. Connects PAF1C to Wnt signaling.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	578...583
+validnes_region	
+nesbase_region	
+Sequence	MADMEDLFGSDADSEAERKDSDSGSDSDSDQENAASGSNASGSESDQDERGDSGQPSNKELFGDDSEDEGASHHSGSDNHSERSDNRSEASERSDHEDNDPSDVDQHSGSEAPNDDEDEGHRSDGGSHHSEAEGSEKAHSDDEKWGREDKSDQSDDEKIQNSDDEERAQGSDEDKLQNSDDDEKMQNTDDEERPQLSDDERQQLSEEEKANSDDERPVASDNDDEKQNSDDEEQPQLSDEEKMQNSDDERPQASDEEHRHSDDEEEQDHKSESARGSDSEDEVLRMKRKNAIASDSEADSDTEVPKDNSGTMDLFGGADDISSGSDGEDKPPTPGQPVDENGLPQDQQEEEPIPETRIEVEIPKVNTDLGNDLYFVKLPNFLSVEPSMSLHLGNEVFDVYKAPLQGDHNHLFIRQGTGLQGQAVFKTKLTFRPHSTDSATHRKMTLSLADRCSKTQKIRILPMAGRDPECQRTEMIKKEEERLRASIRRESQQRRMREKQHQRGLSASYLEPDRYDEEEEGEESISLAAIKNRYKGGIREERARIYSSDSDEGSEEDKAQRLLKAKKLTSDEEGEPSGKRKAEDDDKANKKHKKYVISDEEEEDDD
+PTM	Acetylation:639;Methylation:434,486,511,537,639;Phosphorylation:10,14,27,29,53,66,72,75,77,81,84,88,108,123,127,130,135,140,151,154,162,171,179,188,197,205,212,220,229,238,246,254,261,271,273,277,279,294,296,300,302,309,311,322,323,325,333,356,495,496,498,546,566,568,606,607,608,610,614,629,630,637,655,658;SUMOylation:364,377,591;Ubiquitylation:364,413,415,434,486,488,591,595

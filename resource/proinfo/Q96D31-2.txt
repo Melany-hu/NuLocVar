@@ -1,0 +1,25 @@
+UniprotID	Q96D31-2
+Accession	Q96D31;Q3MHV3;Q6DHX2;Q96BP7;Q96K71
+EntryName	ORAI1_HUMAN
+ProteinName	Calcium release-activated calcium channel protein 1 (Protein orai-1) (Transmembrane protein 142A)
+GeneName	ORAI1 CRACM1 TMEM142A
+Length	231
+Function	Pore-forming subunit of two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels (Probable) (PubMed:16645049, PubMed:16733527, PubMed:16807233, PubMed:16921383, PubMed:19249086, PubMed:19706554, PubMed:23307288, PubMed:26956484, PubMed:28219928). Assembles with ORAI2 and ORAI3 to form hexameric CRAC channels that mediate Ca(2+) influx upon depletion of endoplasmic reticulum Ca(2+) store and channel activation by Ca(2+) sensor STIM1, a process known as store-operated Ca(2+) entry (SOCE). Various pore subunit combinations may account for distinct CRAC channel spatiotemporal and cell-type specific dynamics. ORAI1 mainly contributes to the generation of Ca(2+) plateaus involved in sustained Ca(2+) entry and is dispensable for cytosolic Ca(2+) oscillations, whereas ORAI2 and ORAI3 generate oscillatory patterns. CRAC channels assemble in Ca(2+) signaling microdomains where Ca(2+) influx is coupled to calmodulin and calcineurin signaling and activation of NFAT transcription factors recruited to ORAI1 via AKAP5. Activates NFATC2/NFAT1 and NFATC3/NFAT4-mediated transcriptional responses. CRAC channels are the main pathway for Ca(2+) influx in T cells and promote the immune response to pathogens by activating NFAT-dependent cytokine and chemokine transcription (PubMed:16582901, PubMed:17442569, PubMed:19182790, PubMed:20354224, PubMed:22641696, PubMed:26221052, PubMed:32415068, PubMed:33941685). Assembles with ORAI3 to form channels that mediate store-independent Ca(2+) influx in response to inflammatory metabolites arachidonate or its derivative leukotriene C4, termed ARC and LRC channels respectively (PubMed:19622606, PubMed:32415068). Plays a prominent role in Ca(2+) influx at the basolateral membrane of mammary epithelial cells independently of the Ca(2+) content of endoplasmic reticulum or Golgi stores. May mediate transepithelial transport of large quantities of Ca(2+) for milk secretion (By similarity) (PubMed:20887894).
+Subcellular Location	Cell membrane; Basolateral cell membrane; Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQALSWRKLYLSRAKLKASSRTSALLSGFAMVAMVEVQLDADHDYPPGLLIAFSACTTVLVAVHLFALMISTCILPNIEAVSNVHNLNSVKESPHERMHRHIELAWAFSTVIGTLLFLAEVVLLCWVKFLPLKKQPGQPRPTSKPPASGAAANVSTSGITPGQAAAIASTTIMVPFGLIFIVFAVHFYRSLVSHKTDRQFQELNELAEFARLQDQLDHRGDHPLTPGSHYA
+PTM	Methylation:203;Phosphorylation:13,65,75,295,298,300;Ubiquitylation:203

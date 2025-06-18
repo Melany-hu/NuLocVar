@@ -1,0 +1,25 @@
+UniprotID	P41586-2
+Accession	P41586;A8K1Y1;B7ZLA7;B8ZZK3;Q17S10
+EntryName	PACR_HUMAN
+ProteinName	Pituitary adenylate cyclase-activating polypeptide type I receptor (PAC1 receptor) (PAC1R) (PACAP type I receptor) (PACAP-R-1) (PACAP-R1)
+GeneName	ADCYAP1R1
+Length	496
+Function	G protein-coupled receptor activated by the neuropeptide pituitary adenylate cyclase-activating polypeptide (ADCYAP1/PACAP) (PubMed:32047270, PubMed:33715378, PubMed:35477937, PubMed:36385145). Binds both PACAP27 and PACAP38 bioactive peptides (PubMed:32047270, PubMed:35477937, PubMed:36385145). Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of downstream effectors. Activates cAMP-dependent pathway (PubMed:32047270, PubMed:33715378, PubMed:35477937, PubMed:36385145). May regulate the release of adrenocorticotropin, luteinizing hormone, growth hormone, prolactin, epinephrine, and catecholamine. May play a role in spermatogenesis and sperm motility. Causes smooth muscle relaxation and secretion in the gastrointestinal tract (PubMed:32047270, PubMed:33715378).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVVHVSLAALLLLPMAPAMHSDCIFKKEQAMCLEKIQRANELMGFNDSSPGCPGMWDNITCWKPAHVGEMVLVSCPELFRIFNPDQVWETETIGESDFGDSNSLDLSDMGVVSRNCTEDGWSEPFPHYFDACGFDEYESETGDQDYYYLSVKALYTVGYSTSLVTLTTAMVILCRFRKLHCTRNFIHMNLFVSFMLRAISVFIKDWILYAEQDSNHCFISTVECKAVMVFFHYCVVSNYFWLFIEGLYLFTLLVETFFPERRYFYWYTIIGWGTPTVCVTVWATLRLYFDDTGCWDMNDSTALWWVIKGPVVGSIMVNFVLFIGIIVILVQKLQSPDMGGNESSIYFSCVQKCYCKPQRAQQHSCKMSELSTITLRLARSTLLLIPLFGIHYTVFAFSPENVSKRERLVFELGLGSFQGFVVAVLYCFLNGEVQAEIKRKWRSWKVNRYFAVDFKHRHPSLASSGVNGGTQLSILSKSSSQIRMSGLPADNLAT
+PTM	Methylation:451;Phosphorylation:434,437,438,447,450,452,454;SUMOylation:414

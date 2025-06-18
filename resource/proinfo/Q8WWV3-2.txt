@@ -1,0 +1,25 @@
+UniprotID	Q8WWV3-2
+Accession	Q8WWV3;Q8N9B3;Q8WZ66;Q9BRA4
+EntryName	RT4I1_HUMAN
+ProteinName	NAD(P)H oxidoreductase RTN4IP1, mitochondrial (EC 1.6.5.-) (NOGO-interacting mitochondrial protein) (Reticulon-4-interacting protein 1)
+GeneName	RTN4IP1 NIMP
+Length	296
+Function	NAD(P)H oxidoreductase involved in the ubiquinone biosynthetic pathway (PubMed:37884807). Required for the O-methyltransferase activity of COQ3 (PubMed:37884807). Able to catalyze the oxidoreduction of 3-demethylubiquinone into 3-demethylubiquinol in vitro (PubMed:37884807). However, it is unclear if 3-demethylubiquinone constitutes a substrate in vivo (PubMed:37884807). May also play a role in the regulation of retinal ganglion cell (RGC) neurite outgrowth, and hence in the development of the inner retina and optic nerve (By similarity). Appears to be a potent inhibitor of regeneration following spinal cord injury (By similarity).
+Subcellular Location	Mitochondrion matrix; Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRDPLHVKIKGEEFPLTLGRDVSGVVMECGLDVKYFKPGDEVWAAVPPWKQGTLSEFVVVSGNEVSHKPKSLTHTQAASLPYVALTAWSAINKVGGLNDKNCTGKRVLILGASGGVGTFAIQVMKAWDAHVTAVCSQDASELVRKLGADDVIDYKSGSVEEQLKSLKPFDFILDNVGGSTETWAPDFLKKWSGATYVTLVTPFLLNMDRLGIADGMLQTGVTVGSKALKHFWKGVHYRWAFFMASGPCLDDIAELVDAGKIRPVIEQTFPFSKVPEAFLKVERGHARGKTVINVV
+PTM	Acetylation:246;Glycosylation:40;Methylation:5,27,50,77,135,201,265,290,381;Phosphorylation:29,34,35;SUMOylation:111,381

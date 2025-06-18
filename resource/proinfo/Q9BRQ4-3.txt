@@ -1,0 +1,25 @@
+UniprotID	Q9BRQ4-3
+Accession	Q9BRQ4;E9PJU1
+EntryName	CF300_HUMAN
+ProteinName	Cilia- and flagella-associated protein 300
+GeneName	CFAP300 C11orf70
+Length	99
+Function	Cilium- and flagellum-specific protein that plays a role in axonemal structure organization and motility. May play a role in outer and inner dynein arm assembly.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGELGDLGGYYFRFLPQKTFQSLSSKEITSRLRQWSMLGRIKAQAFGFDQTFQSYRKDDFVMAFFKDPNVIPNLKLLSDSSGQWIILGFASGRLRKI
+PTM	Methylation:128;Phosphorylation:21,80,140,193,194

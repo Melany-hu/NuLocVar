@@ -1,0 +1,25 @@
+UniprotID	O00182-2
+Accession	O00182;A7VJG6;F8W9W4;O14532;O75028;Q3B8N1;Q53FQ0;Q8WYQ7;Q9NQ58
+EntryName	LEG9_HUMAN
+ProteinName	Galectin-9 (Gal-9) (Ecalectin) (Tumor antigen HOM-HD-21)
+GeneName	LGALS9
+Length	323
+Function	Binds galactosides (PubMed:18005988). Has high affinity for the Forssman pentasaccharide (PubMed:18005988). Ligand for HAVCR2/TIM3 (PubMed:16286920). Binding to HAVCR2 induces T-helper type 1 lymphocyte (Th1) death (PubMed:16286920). Also stimulates bactericidal activity in infected macrophages by causing macrophage activation and IL1B secretion which restricts intracellular bacterial growth (By similarity). Ligand for P4HB; the interaction retains P4HB at the cell surface of Th2 T-helper cells, increasing disulfide reductase activity at the plasma membrane, altering the plasma membrane redox state and enhancing cell migration (PubMed:21670307). Ligand for CD44; the interaction enhances binding of SMAD3 to the FOXP3 promoter, leading to up-regulation of FOXP3 expression and increased induced regulatory T (iTreg) cell stability and suppressive function (By similarity). Promotes ability of mesenchymal stromal cells to suppress T-cell proliferation (PubMed:23817958). Expands regulatory T-cells and induces cytotoxic T-cell apoptosis following virus infection (PubMed:20209097). Activates ERK1/2 phosphorylation inducing cytokine (IL-6, IL-8, IL-12) and chemokine (CCL2) production in mast and dendritic cells (PubMed:16116184, PubMed:24465902). Inhibits degranulation and induces apoptosis of mast cells (PubMed:24465902). Induces maturation and migration of dendritic cells (PubMed:16116184, PubMed:25754930). Inhibits natural killer (NK) cell function (PubMed:23408620). Can transform NK cell phenotype from peripheral to decidual during pregnancy (PubMed:25578313). Astrocyte derived galectin-9 enhances microglial TNF production (By similarity). May play a role in thymocyte-epithelial interactions relevant to the biology of the thymus. May provide the molecular basis for urate flux across cell membranes, allowing urate that is formed during purine metabolism to efflux from cells and serving as an electrogenic transporter that plays an important role in renal and gastrointestinal urate excretion (By similarity). Highly selective to the anion urate (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Secreted; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFSGSQAPYLSPAVPFSGTIQGGLQDGLQITVNGTVLSSSGTRFAVNFQTGFSGNDIAFHFNPRFEDGGYVVCNTRQNGSWGPEERKTHMPFQKGMPFDLCFLVQSSDFKVMVNGILFVQYFHRVPFHRVDTISVNGSVQLSYISFQPPGVWPANPAPITQTVIHTVQSAPGQMFSTPAIPPMMYPHPAYPMPFITTILGGLYPSKSILLSGTVLPSAQRFHINLCSGNHIAFHLNPRFDENAVVRNTQIDNSWGSEERSLPRKMPFVRGQSFSVWILCEAHCLKVAVDGQHLFEYYHRLRNLPTINRLEVGGDIQLTHVQT
+PTM	Methylation:173,175;Phosphorylation:71,286,289,305

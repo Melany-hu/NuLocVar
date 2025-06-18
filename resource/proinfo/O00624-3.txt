@@ -1,0 +1,25 @@
+UniprotID	O00624-3
+Accession	O00624;A6NK81;A6NLD6;Q5TB84;Q76P85
+EntryName	NPT3_HUMAN
+ProteinName	Sodium-dependent phosphate transport protein 3 (Na(+)/PI cotransporter 3) (Sodium/phosphate cotransporter 3) (Solute carrier family 17 member 2)
+GeneName	SLC17A2 NPT3
+Length	478
+Function	Acts as a membrane potential-dependent organic anion transporter, the transport requires a low concentration of chloride ions (By similarity). Mediates chloride-dependent transport of urate (By similarity). Can actively transport inorganic phosphate into cells via Na(+) cotransport (By similarity).
+Subcellular Location	Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGKPATRKGPDFCSLRYGLALIMHFSNFTMITQRVSLSIAIIAMVNTTQQQGLSNASTEGPVADAFNNSSISIKEFDTKASVYQWSPETQGIIFSSINYGIILTLIPSGYLAGIFGAKKMLGAGLLISSLLTLFTPLAADFGVILVIMVRTVQGMAQGMAWTGQFTIWAKWAPPLERSKLTTIAGSGSAFGSFIILCVGGLISQALSWPFIFYIFGSTGCVCCLLWFTVIYDDPMHHPCISVREKEHILSSLAQQPSSPGRAVPIKAMVTCLPLWAIFLGFFSHFWLCTIILTYLPTYISTLLHVNIRDSGVLSSLPFIAAASCTILGGQLADFLLSRNLLRLITVRKLFSSLGLLLPSICAVALPFVASSYVITIILLILIPGTSNLCDSGFIINTLDIAPRYASFLMGISRGFGLIAGIISSTATGFLISQDFESGWRNVFFLSAAVNMFGLVFYLTFGQAELQDWAKERTLTRL
+PTM	Methylation:267;Phosphorylation:71,73

@@ -1,0 +1,25 @@
+UniprotID	J3QLP0
+Accession	J3QLP0
+EntryName	J3QLP0_HUMAN
+ProteinName	Tripartite motif containing 16
+GeneName	TRIM16
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQFGELLAAVRKAQANVMLFLEEKEQAALSQANGIKAHLEYRSAEMEKSKQELERMAAISNTVQFLEMRMTSRLTRTQHTSISGCRRRTARSPTPRPGSIPTRTSPAGSCTGGRCCPSRVCTCTGTILRWRSSGQAPMLA
+PTM	

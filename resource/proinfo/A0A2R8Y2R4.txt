@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y2R4
+Accession	A0A2R8Y2R4
+EntryName	A0A2R8Y2R4_HUMAN
+ProteinName	Aquaporin-3 (Aquaglyceroporin-3)
+GeneName	AQP3 hCG_30266
+Length	237
+Function	Aquaglyceroporins form homotetrameric transmembrane channels, with each monomer independently mediating glycerol and water transport across the plasma membrane along their osmotic gradient. Could also be permeable to urea. Also participates in cell permeability to H2O2 and H2O2-mediated signaling. In skin, transports glycerol to the epidermis and stratum corneum, where it maintains hydration, elasticity, and supports lipid biosynthesis for barrier repair. In kidney, contributes to the reabsorption of water, helping the body maintain proper fluid balance.
+Subcellular Location	Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRQKELVSRCGEMLHIRYRLLRQALAECLGTLILVMFGCGSVAQVVLSRGTHGGFLTINLAFGFAVTLGILIAGQVSGAHLNPAVTFAMCFLAREPWIKLPIYTLAQTLGAFLGAGIVFGLYYDAIWHFADNQLFVSGPNGTAGIFATYPSGHLDMINGFFDQDRPALVVGAHRVPTPGLHCGCLRVPADDRLPPGAAPTLQRGRECEAGPCEAQGADLSGQGPSPHSAALALSIH
+PTM	

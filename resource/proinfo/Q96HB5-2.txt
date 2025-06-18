@@ -1,0 +1,25 @@
+UniprotID	Q96HB5-2
+Accession	Q96HB5;A8K5Q5;B4DF24;B4DFC1;B4DTU2;F5GZU4
+EntryName	CC120_HUMAN
+ProteinName	Coiled-coil domain-containing protein 120
+GeneName	CCDC120 JM11
+Length	618
+Function	Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells (PubMed:28422092). Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly (PubMed:28422092). Recruits NIN and CEP170 to centrosomes (PubMed:28422092). Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cell projection; Neuron projection; Cell projection; Growth cone; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVKAALFGEAAPQVKSERLRGLLDRQRTLQEALSLKLQELRKVCLQEAELTGQLPPECPLEPGERPQLVRRRPPTARAYPPPHPNQAHHSLCPAEELALEALEREVSVQQQIAAAARRLALAPDLSTEQRRRRRQVQADALRRLHELEEQLRDVRARLGLPVLPLPQPLPLSTGSVITTQGVCLGMRLAQLSQEDVVLHSESSSLSESGASHDNEEPHGCFSLAERPSPPKAWDQLRAVSGGSPERRTPWKPPPSDLYGDLKSRRNSVASPTSPTRSLPRSASSFEGRSVPATPVLTRGAGPQLCKPEGLHSRQWSGSQDSQMGFPRADPASDRASLFVARTRRSNSSEALLVDRAAGGGAGSPPAPLAPSASGPPVCKSSEVLYERPQPTPAFSSRTAGPPDPPRAARPSSAAPASRGAPRLPPVCGDFLLDYSLDRGLPRSGGGTGWGELPPAAEVPGPLSRRDGLLTMLPGPPPVYAADSNSPLLRTKDPHTRATRTKPCGLPPEAAEGPEVHPNPLLWMPPPTRIPSAGERSGHKNLALEGLRDWYIRNSGLAAGPQRRPVLPSVGPPHPPFLHARCYEVGQALYGAPSQAPLPHSRSFTAPPVSGRYGGCFY
+PTM	Methylation:311;Phosphorylation:9,10,12,47,88,253,256,271,280,283,285,286,288,290,294,296,297,302,306,310,329,331,355,358,360,361,376,384,386,393,394,398,404,408,409,425,496,498,615,617

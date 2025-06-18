@@ -1,0 +1,25 @@
+UniprotID	Q5F2G0
+Accession	Q5F2G0
+EntryName	Q5F2G0_HUMAN
+ProteinName	Protein phosphatase 3 catalytic subunit beta
+GeneName	PPP3CB
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HPYWLPNFMDVFTWSLPFVGEKVTEMLVNVLSICSDDELMTEGEDQFDERLIYGNKKVGSAAARKEIIRNKIRAIGKMARVFSVLREESESVLTLKGLTPTGMLPSGVLAGGRQTLQSATVEAIEAEKAIRGFSPPHRICSFEEAKGLDRINERMPPRKDAVQQDGFNSLNTAHATENHGTGNHTAQ
+PTM	

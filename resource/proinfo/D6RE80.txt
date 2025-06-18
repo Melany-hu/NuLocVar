@@ -1,0 +1,25 @@
+UniprotID	D6RE80
+Accession	D6RE80
+EntryName	D6RE80_HUMAN
+ProteinName	Macrophage erythroblast attacher, E3 ubiquitin ligase
+GeneName	MAEA
+Length	183
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	120...125
+validnes_region	
+nesbase_region	
+Sequence	MAVQESAAQLSMTLKVQEYPTLKVPYETLNKRFRAAQKNIDRETSHVTMVVAELEKTLSGCPAVDSVVSLLDGVVEKLSVLKRKDLVNIEMFLTAKEVEESLERRETATCLAWCHDNKSRLRKMKSCLEFSLRIQEFIELIRQNKRLDAVRHARKHFSQAEGSQLDEVRQAMGMLAFPPDTHI
+PTM	

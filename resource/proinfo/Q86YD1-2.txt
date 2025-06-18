@@ -1,0 +1,25 @@
+UniprotID	Q86YD1-2
+Accession	Q86YD1;Q6UXX7;Q96BU3;Q9HBN4;Q9NYL1
+EntryName	PTOV1_HUMAN
+ProteinName	Prostate tumor-overexpressed gene 1 protein (PTOV-1) (Activator interaction domain-containing protein 2)
+GeneName	PTOV1 ACID2 PP642 UNQ6127/PRO20092
+Length	384
+Function	May activate transcription. Required for nuclear translocation of FLOT1. Promotes cell proliferation.
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSPAVPTPARGQLGVAFVLLPPHSEGARVFGALGPIGPSSPGLTLGGLAVSEHRLSNKLLAWSGVLEWQEKRRPYSDSTAKLKRTLPCQAYVNQGENLETDQWPQKLIMQLIPQQLLTTLGPLFRNSQLAQFHFTNRDCDSLKGLCRIMGNGFAGCMLFPHISPCEVRVLMLLYSSKKKIFMGLIPYDQSGFVSAIRQVITTRKQAVGPGGVNSGPVQIVNNKFLAWSGVMEWQEPRPEPNSRSKRWLPSHVYVNQGEILRTEQWPRKLYMQLIPQQLLTTLVPLFRNSRLVQFHFTKDLETLKSLCRIMDNGFRRKSSLASSPMTRATLSTASGVSLPTSSRSCSGTWSRSNSNEGWGGSGYPQQVLQRNLEQEQQQRGMGG
+PTM	Methylation:337;Phosphorylation:34,36,40,53,72,73,77,109,111,112,207,208,209,234,235,247,275,368,369,370;SUMOylation:114,116,237,373;Ubiquitylation:104,114,176,210,237,256,331,337,373

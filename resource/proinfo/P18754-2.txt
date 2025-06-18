@@ -1,0 +1,25 @@
+UniprotID	P18754-2
+Accession	P18754;Q16269;Q6NT97
+EntryName	RCC1_HUMAN
+ProteinName	Regulator of chromosome condensation (Cell cycle regulatory protein) (Chromosome condensation protein 1)
+GeneName	RCC1 CHC1
+Length	452
+Function	Guanine-nucleotide releasing factor that promotes the exchange of Ran-bound GDP by GTP, and thereby plays an important role in RAN-mediated functions in nuclear import and mitosis (PubMed:11336674, PubMed:17435751, PubMed:1944575, PubMed:20668449, PubMed:22215983, PubMed:29042532). Contributes to the generation of high levels of chromosome-associated, GTP-bound RAN, which is important for mitotic spindle assembly and normal progress through mitosis (PubMed:12194828, PubMed:17435751, PubMed:22215983). Via its role in maintaining high levels of GTP-bound RAN in the nucleus, contributes to the release of cargo proteins from importins after nuclear import (PubMed:22215983). Involved in the regulation of onset of chromosome condensation in the S phase (PubMed:3678831). Binds both to the nucleosomes and double-stranded DNA (PubMed:17435751, PubMed:18762580).
+Subcellular Location	Nucleus; Chromosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	4..24
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPKRIAKRRSPPADAIPKSKKVKDTRAAASRRVPGARSCQGACGPSPPDQKTRPVSHRSHSTEPGLVLTLGQGDVGQLGLGENVMERKKPALVSIPEDVVQAEAGGMHTVCLSKSGQVYSFGCNDEGALGRDTSVEGSEMVPGKVELQEKVVQVSAGDSHTAALTDDGRVFLWGSFRDNNGVIGLLEPMKKSMVPVQVQLDVPVVKVASGNDHLVMLTADGDLYTLGCGEQGQLGRVPELFANRGGRQGLERLLVPKCVMLKSRGSRGHVRFQDAFCGAYFTFAISHEGHVYGFGLSNYHQLGTPGTESCFIPQNLTSFKNSTKSWVGFSGGQHHTVCMDSEGKAYSLGRAEYGRLGLGEGAEEKSIPTLISRLPAVSSVACGASVGYAVTKDGRVFAWGMGTNYQLGTGQDEDAWSPVEMMGKQLENRVVLSVSSGGQHTVLLVKDKEQS
+PTM	Acetylation:114,160,232,314,335,362;Methylation:114,120,160,176,214,227,335,362;Phosphorylation:2,11,20,32,85,89,103,104,108,311,316,317,323,336,339,342,348,349,355,358,361;SUMOylation:24,58,59,84,114,160,161,176,227,294,314,335;Ubiquitylation:58,84,114,120,161,227,335,362,394

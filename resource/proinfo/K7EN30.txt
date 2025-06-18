@@ -1,0 +1,25 @@
+UniprotID	K7EN30
+Accession	K7EN30
+EntryName	K7EN30_HUMAN
+ProteinName	Cysteine protease (EC 3.4.22.-)
+GeneName	ATG4D
+Length	177
+Function	Cysteine protease that plays a key role in autophagy by mediating both proteolytic activation and delipidation of ATG8 family proteins.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VKELLRCELCLGIMGGKPRHSLYFIGYQGRPTPSSLLPPPTAPPLTPAPPADDFLLYLDPHYCQPTVDVSQADFPLESFHCTSPRKMAFAKMDPSCTVGFYAGDRKEFETLCSELTRVLSSSSATERYPMFTLAEGHAQDHSLDDLCSQLAQPTLRLPRTGRLLRAKRPSSEDFVFL
+PTM	

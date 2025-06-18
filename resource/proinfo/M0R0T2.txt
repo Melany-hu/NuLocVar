@@ -1,0 +1,25 @@
+UniprotID	M0R0T2
+Accession	M0R0T2
+EntryName	M0R0T2_HUMAN
+ProteinName	Ceramide synthase 1
+GeneName	CERS1
+Length	216
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAAAYLLQGSFYGHSIYATLYMDTWRKDSVVMLLHHVVTLILIVSSYAFRYHNVGILVLFLHDISDVQLEFTKLNIYFKSRGGSYHRLHALAADLGCLSFGFSWFWFRLYWFPLKVLYATSHCSLRTVPDIPFYFFFNALLLLLTLMNLYWFLYIVAFAAKVLTGQVHELKDLREYDTAEAQSLKPSKAEEAVAQSSVTFFGTGGARCRHLTHPGL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9Y587-2
+Accession	Q9Y587;G3V2N8;Q6IAQ4;Q86U36;Q9BVE7
+EntryName	AP4S1_HUMAN
+ProteinName	AP-4 complex subunit sigma-1 (AP-4 adaptor complex subunit sigma-1) (Adaptor-related protein complex 4 subunit sigma-1) (Sigma-1 subunit of AP-4) (Sigma-4-adaptin) (Sigma4-adaptin)
+GeneName	AP4S1
+Length	159
+Function	Component of the adaptor protein complex 4 (AP-4). Adaptor protein complexes are vesicle coat components involved both in vesicle formation and cargo selection. They control the vesicular transport of proteins in different trafficking pathways (PubMed:10066790, PubMed:10436028). AP-4 forms a non clathrin-associated coat on vesicles departing the trans-Golgi network (TGN) and may be involved in the targeting of proteins from the trans-Golgi network (TGN) to the endosomal-lysosomal system. It is also involved in protein sorting to the basolateral membrane in epithelial cells and the proper asymmetric localization of somatodendritic proteins in neurons. AP-4 is involved in the recognition and binding of tyrosine-based sorting signals found in the cytoplasmic part of cargos, but may also recognize other types of sorting signal (Probable).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIKFFLMVNKQGQTRLSKYYEHVDINKRTLLETEVIKSCLSRSNEQCSFIEYKDFKLIYRQYAALFIVVGVNDTENEMAIYEFIHNFVEVLDEYFSRVSELDVSFFNTVFHSTWQMHSGPYQEPIDELPKICSALEPQQTCFSPDSSSFKGAASTTPIY
+PTM	Methylation:27,37,109;Phosphorylation:33,43;Ubiquitylation:27,140

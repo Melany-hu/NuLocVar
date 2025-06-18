@@ -1,0 +1,25 @@
+UniprotID	Q7L9L4-2
+Accession	Q7L9L4;B2R8U6;B4DRY3;Q8IY23
+EntryName	MOB1B_HUMAN
+ProteinName	MOB kinase activator 1B (Mob1 homolog 1A) (Mob1A) (Mob1B) (Mps one binder kinase activator-like 1A)
+GeneName	MOB1B MOB4A MOBKL1A
+Length	221
+Function	Activator of LATS1/2 in the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein STK3/MST2 and STK4/MST1, in complex with its regulatory protein SAV1, phosphorylates and activates LATS1/2 in complex with its regulatory protein MOB1, which in turn phosphorylates and inactivates YAP1 oncoprotein and WWTR1/TAZ. Phosphorylation of YAP1 by LATS1/2 inhibits its translocation into the nucleus to regulate cellular genes important for cell proliferation, cell death, and cell migration. Stimulates the kinase activity of STK38L.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGATDVNESGSRSSKTFKPKKNIPEGSHQYELLKHAEATLGSGNLRMAVMLPEGEDLNEWVAVNTVDFFNQINMLYGTITDFCTEESCPVMSAGPKYEYHWADGTNIKKPIKCSAPKYIDYLMTWVQDQLDDETLFPSKIGVPFPKNFMSVAKTILKRLFRVYAHIYHQHFDPVIQLQEEAHLNTSFKHFIFFVQEFNLIDRRELAPLQELIEKLTSKDR
+PTM	Acetylation:17,30;Methylation:30,104;Phosphorylation:2,7,9,10,12,26,35,38,95;Ubiquitylation:17,30,104,105,108,142

@@ -1,0 +1,25 @@
+UniprotID	Q6UW56-3
+Accession	Q6UW56;A8C1S2;A8K779;Q96FF6;Q96RT2;Q9Y2R7;Q9Y5L7
+EntryName	ARAID_HUMAN
+ProteinName	All-trans retinoic acid-induced differentiation factor (Apoptosis-related protein 3) (APR-3) (p18)
+GeneName	ATRAID APR3 C2orf28 HSPC013 UNQ214/PRO240
+Length	284
+Function	Promotes osteoblast cell differentiation and terminal mineralization. Plays a role in inducing the cell cycle arrest via inhibiting CCND1 expression in all-trans-retinoic acid (ATRA) signal pathway. In osteoclasts, forms a transporter complex with ATRAID for nitrogen-containing-bisphophonates (N-BPs) required for releasing N-BP molecules that have trafficked to lysosomes through fluid-phase endocytosis into the cytosol (PubMed:29745899).
+Subcellular Location	Nucleus envelope; Cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTSAELHEQEKPPSSPRATGPGRLGHARGRGPDALRGGAAGPGRASSGAPRERKMAPHDPGSLTTLVPWAAALLLALGVERALALPEICTQCPGSVQNLSKVAFYCKTTRELMLHARCCLNQKGTILGLDLQNCSLEDPGPNFHQAHTTVIIDLQANPLKGDLANTFRGFTQLQTLILPQHVNCPGGINAWNTITSYIDNQICQGQKNLCNNTGDPEMCPENGSCVPDGPGLLQCVCADGFHGYKCMRQGSFSLLMFFGILGATTLSVSILLWATQRRKAKTS
+PTM	Methylation:153;Ubiquitylation:53

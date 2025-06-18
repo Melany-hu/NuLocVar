@@ -1,0 +1,25 @@
+UniprotID	P16520-2
+Accession	P16520;Q96B71;Q9BQC0
+EntryName	GBB3_HUMAN
+ProteinName	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3 (Transducin beta chain 3)
+GeneName	GNB3
+Length	297
+Function	Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEMEQLRQEAEQLKKQIADARKACADVTLAELVSGLEVVGRVQMRTRRTLRGHLAKIYAMHWATDSKLLVSASQDGKLIVWDSYTTNKVHAIPLRSSWVMTCAYAPSGNFVACGGLDNMCSIYNLKSREGNVKVSRELSAHTGYLSCCRFLDDNNIVTSSGDTTCALWDIETGQQKTVFVGHTGDCMSLAVSPDFNLFISGACDASAKLWDVREGTCRQTFTGHESDINAICFFSLSGRLLFAGYDDFNCNVWDSMKSERVGILSGHDNRVSCLGVTADGMAVATGSWDSFLKIWN
+PTM	Acetylation:57,89,209;Methylation:15,78;Phosphorylation:74;Ubiquitylation:89,209

@@ -1,0 +1,25 @@
+UniprotID	Q6ZTQ3-3
+Accession	Q6ZTQ3;Q68DT2;Q6PDA6;Q86WG9;Q86WH0
+EntryName	RASF6_HUMAN
+ProteinName	Ras association domain-containing protein 6
+GeneName	RASSF6
+Length	325
+Function	Involved in the induction of apoptosis, through both caspase-dependent and caspase-independent pathways. May act as a Ras effector protein. May suppress the serum-induced basal levels of NF-kappa-B (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLWEETGAAPAPARASDLPYRIHFLSSGLILVTRQLTEDGKLIVEGMLDIFWGVKRPIQLKIQDEKPFSSFTSMKSSDVFSSKGMTRWGEFDDLYRISELDRTQIPMSEKRNSQEDYLSYHSNTLKPHAKDEPDSPVLYRTMSEAALVRKRMKPLMMDRKERQKNRASINGHFYNHETSIFIPAFESETKVRVNSNMRTEEVIKQLLQKFKIENSPQDFALHIIFATGEQRRLKKTDIPLLQRLLQGPSEKNARIFLMDKDAEEISSDVAQYINFHFSLLESILQRLNEEEKREIQRIVTKFNKEKAIILKCLQNKLVIKTETTV
+PTM	Methylation:62,72,170,248,253,345;Phosphorylation:59,121,152,157,179,187

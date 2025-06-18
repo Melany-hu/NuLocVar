@@ -1,0 +1,25 @@
+UniprotID	A0A0A6YYG8
+Accession	A0A0A6YYG8
+EntryName	A0A0A6YYG8_HUMAN
+ProteinName	Protein RBAK-RBAKDN
+GeneName	RBAK-RBAKDN
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNTLQGPVSFKDVAVDFTQEEWQQLDPDEKITYRDVMLENYSHLVSVGYDTTKPNVIIKLEQGEEPWIMGGEFPCQHSPAALPAGHVAPAVAAAAAAPGRPGPHRQSRSPPGC
+PTM	

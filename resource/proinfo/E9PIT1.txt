@@ -1,0 +1,25 @@
+UniprotID	E9PIT1
+Accession	E9PIT1
+EntryName	E9PIT1_HUMAN
+ProteinName	Exophilin 5
+GeneName	EXPH5
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKQPLTYRLSKEMAKNDPIELPTSRSKNVTNQKKPTPFSSRMSFRSSFASLFSFRKSGKETSKLPSLGQKGCDGHAGP
+PTM	

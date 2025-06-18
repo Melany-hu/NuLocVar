@@ -1,0 +1,25 @@
+UniprotID	Q5T3J3-2
+Accession	Q5T3J3;Q86XS4;Q8N3B6;Q96HT4;Q9NUM5;Q9NV32
+EntryName	LRIF1_HUMAN
+ProteinName	Ligand-dependent nuclear receptor-interacting factor 1 (HP1-binding protein enriched in inactive X chromosome protein 1) (HBiX1) (Receptor-interacting factor 1)
+GeneName	LRIF1 C1orf103 RIF1
+Length	233
+Function	Together with SMCHD1, involved in chromosome X inactivation in females by promoting the compaction of heterochromatin (PubMed:23542155). Also able to repress the ligand-induced transcriptional activity of retinoic acid receptor alpha (RARA), possibly through direct recruitment of histone deacetylases (PubMed:17455211). Also required for silencing of the DUX4 locus in somatic cells (PubMed:32467133).
+Subcellular Location	Chromosome; Nucleus matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	628..631;642..645
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	106...111
+validnes_region	
+nesbase_region	
+Sequence	MASTSDKGAQGRNDKKDSQGRSNKALHLKSDAEFKKIFGLTKDLRVCLTRIPDHLTSGEGFDSFSSLVKSGTYKETEFMVKEGERKQQNFDKKRKAKTNKKMDHIKKRKTENAYNAIINGEANVTGSQLLSSILPTSDVSQHNILTSHSKTRQEKRTEMEYYTHEKQEKGTLNSNAAYEQSHFFNKNYTEDIFPVTPPELEETIRDEKIRRLKQVLREKEAALEEMRKKMHQK
+PTM	Acetylation:11,316,543;Glycosylation:51;Methylation:69,175,252,259,279,369,467,509,565,605;Phosphorylation:17,176,386,389,400,401,402,451,502,506,539,541,554,558,566,599,661,663,707,714,732;SUMOylation:11,40,50,117,134,141,175,194,239,244,252,259,270,279,290,308,316,319,325,348,353,363,369,370,393,418,420,427,444,446,449,467,470,491,500,509,532,543,560,565,571,572,578,605,610,617,622,637,642,645,686,702,705,722,744;Ubiquitylation:11,50,134,279,290,308,316,369,393,418,427,470,578,605,755

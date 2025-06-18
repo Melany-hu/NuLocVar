@@ -1,0 +1,25 @@
+UniprotID	Q9BWX1-2
+Accession	Q9BWX1;K4DI82
+EntryName	PHF7_HUMAN
+ProteinName	E3 ubiquitin-protein ligase PHF7 (EC 2.3.2.27) (PHD finger protein 7) (Testis development protein NYD-SP6)
+GeneName	PHF7
+Length	342
+Function	E3 ubiquitin-protein ligase which ubiquitinates histone H3 at 'Lys-14' (By similarity). Required for male fertility, via inhibition of SPOP-mediated BRDT degradation when in the presence of acetylated histone H4 in early condensing spermatids (By similarity). Stabilization of BRDT allows it to facilitate histone removal in early condensing spermatids and promote the progression of histone-to-protamine exchange (By similarity). Promotes the expression of steroidogenesis proteins in the testes, and as a result plays a role in maintaining testosterone levels and repressing osteoclastogenesis (By similarity). Promotes transcription of cardiac enhancer genes by facilitating binding of cardiac transcription factors such as MEF2C and GATA4 to target gene promoters (By similarity). Ubiquitinates histone H4 (PubMed:32726616). Ubiquitinates histone H2A and H3 as part of the nucleosome core particle (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTVKEKKECQRLRKSAKTRRVTQRKPSSGPVCWLCLREPGDPEKLGEFLQKDNISVHYFCLILSSKLPQRGQSNRGFHGFLPEDIKKEAARASRKICFVCKKKGAAINCQKDQCLRNFHLPCGQERGCLSQFFGEYKSFCDKHRPTQNIQHGHVGEESCILCCEDLSQQSVENIQSPCCSQAIYHRKCIQKYAHTSAKHFFKCPQCNNRKEFPQEMLRMGIHIPDRRWCLILCATCGSHGTHRDCSSLRSNSKKWECEECSPAAATDYIPENSGDIPCCSSTFHPEEHFCRDNTLEENPGLSWTDWPEPSLLEKPESSRGRRSYSWRSKGVRITNSCKKSK
+PTM	Methylation:52,354;Phosphorylation:196,197,350

@@ -1,0 +1,25 @@
+UniprotID	A8MQT7
+Accession	A8MQT7
+EntryName	A8MQT7_HUMAN
+ProteinName	CD99 molecule (Xg blood group)
+GeneName	CD99
+Length	177
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARGAALALLLFGLLGVLVAAPDGGFDLSDALPDNENKKPTAIPKKPSAGDDFDLGDAVVDGENDDPRPPNPPKPMPNPNPNHPSSSGSFSDADLADGVSGGEGKGGSDGGGSHRKEGEEADAPGVIPGIVGAVVVAVAGAISSFIAYQKKKLCFKENGQLAGSLGPCIGIRREADG
+PTM	

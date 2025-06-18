@@ -1,0 +1,25 @@
+UniprotID	K7EIK3
+Accession	K7EIK3
+EntryName	K7EIK3_HUMAN
+ProteinName	F-box and leucine rich repeat protein 12
+GeneName	FBXL12
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLVELPDSVLLEIFSYLPGLSPLEEAGGRPVAVATCRPDALHGPMMPSREIQQ
+PTM	

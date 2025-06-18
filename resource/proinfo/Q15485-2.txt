@@ -1,0 +1,25 @@
+UniprotID	Q15485-2
+Accession	Q15485;A6NFG7;A8K478;Q6IS69;Q7M4P4;Q9UC57
+EntryName	FCN2_HUMAN
+ProteinName	Ficolin-2 (37 kDa elastin-binding protein) (Collagen/fibrinogen domain-containing protein 2) (EBP-37) (Ficolin-B) (Ficolin-beta) (Hucolin) (L-ficolin) (Serum lectin p35)
+GeneName	FCN2 FCNL
+Length	275
+Function	May function in innate immunity through activation of the lectin complement pathway. Calcium-dependent and GlcNAc-binding lectin. Enhances phagocytosis of S.typhimurium by neutrophils, suggesting an opsonic effect via the collagen region.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELDRAVGVLGAATLLLSFLGMAWALQAADTCPGERGPPGPPGKAGPPGPNGAPGEPQPCLTGPRTCKDLLDRGHFLSGWHTIYLPDCRPLTVLCDMDTDGGGWTVFQRRVDGSVDFYRDWATYKQGFGSRLGEFWLGNDNIHALTAQGTSELRVDLVDFEDNYQFAKYRSFKVADEAEKYNLVLGAFVEGSAGDSLTFHNNQSFSTKDQDNDLNTGNCAVMFQGAWWYKNCHVSNLNGRYLRGTHGSFANGINWKSGKGYNYSYKVSEMKVRPA
+PTM	

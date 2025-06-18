@@ -1,0 +1,25 @@
+UniprotID	Q5W0Y9
+Accession	Q5W0Y9
+EntryName	Q5W0Y9_HUMAN
+ProteinName	Nuclear factor 1 B-type (CCAAT-box-binding transcription factor) (Nuclear factor I/B) (TGGCA-binding protein)
+GeneName	NFIB
+Length	200
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMYSPICLTQDEFHPFIEALLPHVRAIAYTWFNLQARKRKYFKKHEKRMSKDEERAVKDELLSEKPEIKQKWASRLLAKLRKDIRQEYREDFVLTVTGKKHPCCVLSNPDQKGKIRRIDCLRQADKVWRLDLVMVILFKGIPLESTDGERLMKSPHCTNPALCVQPHHITVSVKELDLFLAYYVQEQGKNFFSSNKCIKI
+PTM	

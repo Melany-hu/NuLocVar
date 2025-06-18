@@ -1,0 +1,25 @@
+UniprotID	P63092-4
+Accession	P63092;A6NI00;E1P5G5;P04895;Q12927;Q14433;Q32P26;Q5JWD2;Q5JWD4;Q5JWD5;Q6NR75;Q6NXS0;Q8TBC0;Q96H70
+EntryName	GNAS2_HUMAN
+ProteinName	Guanine nucleotide-binding protein G(s) subunit alpha isoforms short (EC 3.6.5.-) (Adenylate cyclase-stimulating G alpha protein)
+GeneName	GNAS GNAS1 GSP
+Length	395
+Function	Guanine nucleotide-binding proteins (G proteins) function as transducers in numerous signaling pathways controlled by G protein-coupled receptors (GPCRs) (PubMed:12391161, PubMed:17110384, PubMed:21488135, PubMed:26206488, PubMed:8702665, PubMed:10200251). The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state (PubMed:12391161, PubMed:17110384, PubMed:10200251). Signaling by an activated GPCR promotes GDP release and GTP binding (PubMed:12391161, PubMed:17110384, PubMed:10200251). The alpha subunit has a low GTPase activity that converts bound GTP to GDP, thereby terminating the signal (PubMed:12391161, PubMed:17110384, PubMed:10200251). Both GDP release and GTP hydrolysis are modulated by numerous regulatory proteins (PubMed:12391161, PubMed:17110384, PubMed:10200251). Signaling involves the activation of adenylyl cyclases, resulting in increased levels of the signaling molecule cAMP (PubMed:17110384, PubMed:26206488, PubMed:26206488, PubMed:8702665). Functions downstream of beta-adrenergic receptors (PubMed:21488135). Stimulates the Ras signaling pathway via RAPGEF2 (PubMed:12391161).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCLGNSKTEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLGAGESGKSTIVKQMRILHVNGFNGEGGEEDPQAARSNSDGSEKATKVQDIKNNLKEAIETIVAAMSNLVPPVELANPENQFRVDYILSVMNVPDFDFPPEFYEHAKALWEDEGVRACYERSNEYQLIDCAQYFLDKIDVIKQADYVPSDQDLLRCRVLTSGIFETKFQVDKVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVASSSYNMVIREDNQTNRLQEALNLFKSIWNNRWLRTISVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYCYPHFTCAVDTENIRRVFNDCRDIIQRMHLRQYELL
+PTM	Acetylation:96;Glycosylation:66,69;Methylation:8,53,96,100,186,211,274,293,300,347;Phosphorylation:51,306,311,318,339,350,352,358,360,391;SUMOylation:8,17,58,91,96,186,211,307,338;Ubiquitylation:8,17,32,34,53,58,88,91,96,181,186,211,216,274,293,300,305,307,338

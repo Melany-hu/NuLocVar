@@ -1,0 +1,25 @@
+UniprotID	Q9BT22-2
+Accession	Q9BT22;B4DP08;Q6UVZ9;Q8N5Y4;Q9P2Y2
+EntryName	ALG1_HUMAN
+ProteinName	Chitobiosyldiphosphodolichol beta-mannosyltransferase (EC 2.4.1.142) (Asparagine-linked glycosylation protein 1 homolog) (Beta-1,4-mannosyltransferase) (GDP-Man:GlcNAc2-PP-dolichol mannosyltransferase) (GDP-mannose-dolichol diphosphochitobiose mannosyltransferase) (Mannosyltransferase-1) (MT-1) (hMat-1)
+GeneName	ALG1 HMAT1 HMT1 PSEC0061 UNQ861/PRO1870
+Length	353
+Function	Mannosyltransferase that operates in the biosynthetic pathway of dolichol-linked oligosaccharides, the glycan precursors employed in protein asparagine (N)-glycosylation. The assembly of dolichol-linked oligosaccharides begins on the cytosolic side of the endoplasmic reticulum membrane and finishes in its lumen. The sequential addition of sugars to dolichol pyrophosphate produces dolichol-linked oligosaccharides containing fourteen sugars, including two GlcNAcs, nine mannoses and three glucoses. Once assembled, the oligosaccharide is transferred from the lipid to nascent proteins by oligosaccharyltransferases. Catalyzes, on the cytoplasmic face of the endoplasmic reticulum, the addition of the first mannose residues to the dolichol-linked oligosaccharide chain, to produce Man1GlcNAc(2)-PP-dolichol core oligosaccharide. Man1GlcNAc(2)-PP-dolichol is a substrate for ALG2, the following enzyme in the biosynthetic pathway.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYLLWKLMWREPGAYIFLQNPPGLPSIAVCWFVGCLCGSKLVIDWHNYGYSIMGLVHGPNHPLVLLAKWYEKFFGRLSHLNLCVTNAMREDLADNWHIRAVTVYDKPASFFKETPLDLQHRLFMKLGSMHSPFRARSEPEDPVTERSAFTERDAGSGLVTRLRERPALLVSSTSWTEDEDFSILLAALEKFEQLTLDGHNLPSLVCVITGKGPLREYYSRLIHQKHFQHIQVCTPWLEAEDYPLLLGSADLGVCLHTSSSGLDLPMKVVDMFGCCLPVCAVNFKCLHELVKHEENGLVFEDSEELAAQLQMLFSNFPDPAGKLNQFRKNLRESQQLRWDESWVQTVLPLVMDT
+PTM	Methylation:179,301,402;Phosphorylation:46,239,242;Ubiquitylation:217,223,236,322,395

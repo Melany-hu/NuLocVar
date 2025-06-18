@@ -1,0 +1,25 @@
+UniprotID	H3BQ86
+Accession	H3BQ86
+EntryName	H3BQ86_HUMAN
+ProteinName	NDRG family member 4
+GeneName	NDRG4
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTDSSLLLHDVTMAGLQELRFPEEKPLLRGQDATELESSDAFLLAADTDWKEHDIETPYGLLHVVIRGSPKGNRPAILTYHDVGLNHKLCFNTFFNFEDMQEITKHFVVCHVDAPGQQVGASQFPQGYQFPSMEQLAAMLPSVVQHFGFKYVIGIGVGAGAYVLAKFAVSLP
+PTM	

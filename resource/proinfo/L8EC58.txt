@@ -1,0 +1,25 @@
+UniprotID	L8EC58
+Accession	L8EC58
+EntryName	L8EC58_HUMAN
+ProteinName	Alternative protein CYP3A5
+GeneName	CYP3A5
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEENTVIAVSNLHQRKTQGDVPHHCPVWRCIGEKLEAGSRERQACHLERHLWGLQHGCDYWHIIWSEHRLSQQSTRPLCGEH
+PTM	

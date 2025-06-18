@@ -1,0 +1,25 @@
+UniprotID	Q9NSK7-1
+Accession	Q9NSK7;B3KQ16;Q0D2Q0;Q6P4C5;Q9BSL7
+EntryName	CS012_HUMAN
+ProteinName	Protein C19orf12
+GeneName	C19orf12
+Length	152
+Function	
+Subcellular Location	Mitochondrion; Mitochondrion membrane; Endoplasmic reticulum; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLKSHKPATMTIMVEDIMKLLCSLSGERKMKAAVKHSGKGALVTGAMAFVGGLVGGPPGLAVGGAVGGLLGAWMTSGQFKPVPQILMELPPAEQQRLFNEAAAIIRHLEWTDAVQLTALVMGSEALQQQLLAMLVNYVTKELRAEIQYDD
+PTM	

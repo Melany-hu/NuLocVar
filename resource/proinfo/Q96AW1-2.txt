@@ -1,0 +1,25 @@
+UniprotID	Q96AW1-2
+Accession	Q96AW1;B0AZU1;B2RAT4;B3KS72;C9JWR3;Q6FIE3;Q8NBN8;Q96RE5;Q9H0W4
+EntryName	VOPP1_HUMAN
+ProteinName	WW domain binding protein VOPP1 (EGFR-coamplified and overexpressed protein) (ECop) (Glioblastoma-amplified secreted protein) (Putative NF-kappa-B-activating protein 055N) (Vesicular, overexpressed in cancer, prosurvival protein 1)
+GeneName	VOPP1 ECOP GASP
+Length	163
+Function	Increases the transcriptional activity of NFKB1 by facilitating its nuclear translocation, DNA-binding and associated apoptotic response, when overexpressed (PubMed:15735698). May sequester WWOX in lysosomal vesicles and thereby regulate WWOX role as tumor suppressor (PubMed:30285739).
+Subcellular Location	Cytoplasmic vesicle membrane; Late endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRTGSHAQCTEAKKHCWYFEGLYPTYYICRSYEDCCGSRCCVRALSIQRLWYFWFLLMMGVLFCCGAGFFIRRRMYPPPLIEEPAFNVSYTRQPPNPGPGAQQPGPPYYTDPGGPGMNPVGNSMAMAFQVPPNSPQGSVACPPPPAYCNTPPPPYEQVVKAK
+PTM	Phosphorylation:56

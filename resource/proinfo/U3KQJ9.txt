@@ -1,0 +1,25 @@
+UniprotID	U3KQJ9
+Accession	U3KQJ9
+EntryName	U3KQJ9_HUMAN
+ProteinName	Meis homeobox 3
+GeneName	MEIS3
+Length	126
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FPKVATNIMRAWLFQHLSAGAGRHVIAPSLRLPWSPSWGAQRRSEAPVLPDVCLGLGSPSPGPRWARPWGSDCGRPGRQSDSCWWLQHPYPSEEQKKQLAQDTGLTILQVNNWFINARRRIVQPMI
+PTM	

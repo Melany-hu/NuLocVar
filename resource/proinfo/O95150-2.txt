@@ -1,0 +1,25 @@
+UniprotID	O95150-2
+Accession	O95150;Q3SX69;Q5VJK8;Q5VWH1;Q8NFE9
+EntryName	TNF15_HUMAN
+ProteinName	Tumor necrosis factor ligand superfamily member 15 (TNF ligand-related molecule 1) (Vascular endothelial cell growth inhibitor) [Cleaved into: Tumor necrosis factor ligand superfamily member 15, membrane form; Tumor necrosis factor ligand superfamily member 15, secreted form]
+GeneName	TNFSF15 TL1 VEGI
+Length	192
+Function	Receptor for TNFRSF25 and TNFRSF6B. Mediates activation of NF-kappa-B. Inhibits vascular endothelial growth and angiogenesis (in vitro). Promotes activation of caspases and apoptosis.
+Subcellular Location	Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLTKGRLHFSHPLSHTKHISPFVTDAPLRADGDKPRAHLTVVRQTPTQHFKNQFPALHWEHELGLAFTKNRMNYTNKFLLIPESGDYFIYSQVTFRGMTSECSEIRQAGRPNKPDSITVVITKVTDSYPEPTQLLMGTKSVCEVGSNWFQPIYLGAMFSLQEGDKLMVNVSDISLVDYTKEDKTFFGAFLL
+PTM	Methylation:73,137

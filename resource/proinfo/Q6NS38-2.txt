@@ -1,0 +1,25 @@
+UniprotID	Q6NS38-2
+Accession	Q6NS38;A4PET2;Q5XLE3
+EntryName	ALKB2_HUMAN
+ProteinName	DNA oxidative demethylase ALKBH2 (EC 1.14.11.33) (Alkylated DNA repair protein alkB homolog 2) (Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2) (Oxy DC1)
+GeneName	ALKBH2 ABH2
+Length	157
+Function	Dioxygenase that repairs alkylated nucleic acid bases by direct reversal oxidative dealkylation. Can process both double-stranded (ds) and single-stranded (ss) DNA substrates, with a strong preference for dsDNA (PubMed:12486230, PubMed:12594517, PubMed:16174769, PubMed:20714506, PubMed:23972994, PubMed:25797601). Uses molecular oxygen, 2-oxoglutarate and iron as cofactors to oxidize the alkyl groups that are subsequently released as aldehydes, regenerating the undamaged bases. Probes the base pair stability, locates a weakened base pair and flips the damaged base to accommodate the lesion in its active site for efficient catalysis (PubMed:18432238, PubMed:22659876). Repairs monoalkylated bases, specifically N1-methyladenine and N3-methylcytosine, as well as higher order alkyl adducts such as bases modified with exocyclic bridged adducts known as etheno adducts including 1,N6-ethenoadenine, 3,N4-ethenocytosine and 1,N2-ethenoguanine (PubMed:12486230, PubMed:12594517, PubMed:16174769, PubMed:20714506, PubMed:23972994, PubMed:25797601, PubMed:26408825). Acts as a gatekeeper of genomic integrity under alkylation stress. Efficiently repairs alkylated lesions in ribosomal DNA (rDNA). These lesions can cause ss- and dsDNA strand breaks that severely impair rDNA transcription (PubMed:23972994). In a response mechanism to DNA damage, associates with PCNA at replication forks to repair alkylated adducts prior to replication (PubMed:19736315, PubMed:26408825).
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	38...43
+validnes_region	
+nesbase_region	
+Sequence	MDRFLVKGAQGGLLRKQEEQEPTGEEPAVLGGDKESTRKRPRREAPGNGGHSAGPSWRHIRAEGLDCSYTVLFGKAEADEIFQELEKEVEYFTGIKMAVTTSGSTEMMKENWPLGAPLPLSPSVPAETLSSGIRIPVGKAPPGGWRWSGCRWPTGAY
+PTM	Acetylation:7,34,104;Methylation:16,75,87,132;Phosphorylation:37,182,259;SUMOylation:7,16,75,104,111;Ubiquitylation:7

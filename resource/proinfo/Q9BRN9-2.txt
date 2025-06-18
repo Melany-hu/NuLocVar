@@ -1,0 +1,25 @@
+UniprotID	Q9BRN9-2
+Accession	Q9BRN9;B2RDK9;Q9H046;Q9H651
+EntryName	TM2D3_HUMAN
+ProteinName	TM2 domain-containing protein 3 (Beta-amyloid-binding protein-like protein 2) (BBP-like protein 2)
+GeneName	TM2D3 BLP2
+Length	221
+Function	Probable positive regulator of Notch signaling.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGGVLPLRGLRALCRVLLFLSQFCILSGGESTEIPPYVMKCPSNGLCSRLPADCIDCTTNFSCTYGKPVTFDCAVKPSVTCVDQDFKSQKNFIINMTCRFCWQLPETDYECTNSTSCMTVSCPRQRYPANCTVRDHVHCLGNRTFPKMLYCNWTGGYKWSTALALSITLGGFGADRFYLGQWREGLGKLFSFGGLGIWTLIDVLLIGVGYVGPADGSLYI
+PTM	Glycosylation:58,59,87,122,157,169;Methylation:215;Ubiquitylation:103

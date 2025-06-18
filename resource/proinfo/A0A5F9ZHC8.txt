@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZHC8
+Accession	A0A5F9ZHC8
+EntryName	A0A5F9ZHC8_HUMAN
+ProteinName	ASXL transcriptional regulator 2
+GeneName	ASXL2
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHTNSRGEEGIFYKVPGRMGVYTLKKDVPDGVKELSEGSEESSDGQSDSQSSENSSSSSDGGSNKEGKKSRWKRKVSSSSPQSGCPSPTIPAGKVISPSQKHSKKALKQALKQQQQKKQQQQCRPSISISSNQHLSLKTVKAAS
+PTM	

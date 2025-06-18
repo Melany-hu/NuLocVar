@@ -1,0 +1,25 @@
+UniprotID	C9J582
+Accession	C9J582
+EntryName	C9J582_HUMAN
+ProteinName	Regulator of G protein signaling 3
+GeneName	RGS3
+Length	247
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	184...189;186...191
+validnes_region	
+nesbase_region	
+Sequence	MFETEADEKREMALEEGKGPGAEDSPPSKEPSPGQELPPGQDLPPNKDSPSGQEPAPSQEPLSSKDSATSEGSPPGPDAPPSKDVPPCQGAEGGLSLRVQNSLRRRTHSEGSLLQEPRGPCFASDTTLHCSDGEGAASTWGMPSPSTLKKELGRNGGSMHHLSLFFTGHRKMSGADTVGDDDEASRKRKSKNLAKDMKNKLGIFRRRNESPGAPPAGKADKMMKSFKPTSEEALKWGESLEKLLVHK
+PTM	

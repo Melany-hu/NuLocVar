@@ -1,0 +1,25 @@
+UniprotID	Q5XG87-2
+Accession	Q5XG87;A0A0X1KG68;A8K1E2;M1JCE6;O43289;Q17RZ1;Q9Y6C1
+EntryName	PAPD7_HUMAN
+ProteinName	Terminal nucleotidyltransferase 4A (DNA polymerase sigma) (LAK-1) (Non-canonical poly(A) RNA polymerase PAPD7) (EC 2.7.7.19) (PAP-associated domain-containing protein 7) (TRAMP-like complex polyadenylate polymerase) (Terminal guanylyltransferase) (EC 2.7.7.-) (Terminal uridylyltransferase 5) (TUTase 5) (Topoisomerase-related function protein 4-1) (TRF4-1)
+GeneName	TENT4A PAPD7 POLS TRF4
+Length	562
+Function	Terminal nucleotidyltransferase that catalyzes preferentially the transfer of ATP and GTP on RNA 3' poly(A) tail creating a heterogeneous 3' poly(A) tail leading to mRNAs stabilization by protecting mRNAs from active deadenylation (PubMed:23376078, PubMed:30026317). Also functions as a catalytic subunit of a TRAMP-like complex which has a poly(A) RNA polymerase activity and is involved in a post-transcriptional quality control mechanism. Polyadenylation with short oligo(A) tails is required for the degradative activity of the exosome on several of its nuclear RNA substrates. Has no terminal uridylyltransferase activity, and does not play a role in replication-dependent histone mRNA degradation via uridylation (PubMed:23376078).
+Subcellular Location	Cytoplasm; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPRVAWIQPEQKGPANALWMSPCPEEAAMRREVVKRIETVVKDLWPTADVQIFGSFSTGLYLPTSDIDLVVFGKWERPPLQLLEQALRKHNVAEPCSIKVLDKATVPIIKLTDQETEVKVDISFNMETGVRAAEFIKNYMKKYSLLPYLILVLKQFLLQRDLNEVFTGGISSYSLILMAISFLQLHPRIDARRADENLGMLLVEFFELYGRNFNYLKTGIRIKEGGAYIAKEEIMKAMTSGYRPSMLCIEDPLLPGNDVGRSSYGAMQVKQVFDYAYIVLSHAVSPLARSYPNRDAESTLGRIIKVTQEVIDYRRWIKEKWGSKAHPSPGMDSRIKIKERIATCNGEQTQNREPESPYGQRLTLSLSSPQLLSSGSSASSVSSLSGSDVDSDTPPCTTPSVYQFSLQAPAPLMAGLPTALPMPSGKPQPTTSRTLIMTTNNQTRFTIPPPTLGVAPVPCRQAGVEGTASLKAVHHMSSPAIPSASPNPLSSPHLYHKQHNGMKLSMKGSHGHTQGGGYSSVGSGGVRPPVGNRGHHQYNRTGWRRKKHTHTRDSLPVSLSR
+PTM	Acetylation:516;Glycosylation:769;Methylation:246,314,348,365,428,751;Phosphorylation:157,177,181,184,323,439,475,539,567,569,771;SUMOylation:173,310,314,321,442,718;Ubiquitylation:314

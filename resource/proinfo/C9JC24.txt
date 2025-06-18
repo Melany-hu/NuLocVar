@@ -1,0 +1,25 @@
+UniprotID	C9JC24
+Accession	C9JC24
+EntryName	C9JC24_HUMAN
+ProteinName	WD repeat domain 48
+GeneName	WDR48
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEHHTDWVNDIVLCCNGKTLISASSDTTVKVWNAHKGFCMSTLRTHKDYVKALAYAKDKELVASAGLDRQIFLWDVNTLTALTASNNTVTTSSLSGNKDSIYSLAMNQLGTIIVSGSTEKVLRVWDPRTCAKLMKLKGHTDNVKALLLNRDGTQCLSGSSDG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q92484-2
+Accession	Q92484;B7Z729;Q8WV13
+EntryName	ASM3A_HUMAN
+ProteinName	Cyclic GMP-AMP phosphodiesterase SMPDL3A (2',3'-cGAMP phosphodiesterase SMPDL3A) (EC 3.1.4.-) (Acid sphingomyelinase-like phosphodiesterase 3a) (ASM-like phosphodiesterase 3a) (EC 3.6.1.15)
+GeneName	SMPDL3A ASML3A
+Length	322
+Function	Cyclic-nucleotide phosphodiesterase that acts as a negative regulator of innate immunity by mediating degradation of 2',3'-cGAMP, thereby inhibiting the cGAS-STING signaling (PubMed:37890481). Specifically linearizes 2',3'-cGAMP into 2'5'-bond pGpA and further hydrolyzes pGpA to produce GpA (PubMed:37890481). Also has in vitro nucleotide phosphodiesterase activity with nucleoside triphosphates, such as ATP (PubMed:25288789, PubMed:26783088). Has in vitro activity with p-nitrophenyl-TMP (PubMed:25288789). Has lower activity with nucleoside diphosphates, and no activity with nucleoside monophosphates (PubMed:25288789, PubMed:26783088, PubMed:28104755). Has in vitro activity with CDP-choline, giving rise to CMP and phosphocholine. Has in vitro activity with CDP-ethanolamine (PubMed:26783088). Does not have sphingomyelin phosphodiesterase activity (PubMed:25288789, PubMed:26783088).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTTIQSLFPNLQVFPALGNHDYWPQDQLPVVTSKVYNAVANLWKPWLDEEAISTLRKGGFYSQKVTTNPNLRIISLNTNLYYGPNIMTLNKTDPANQFEWLESTLNNSQQNKEKVYIIAHVPVGYLPSSQNITAMREYYNEKLIDIFQKYSDVIAGQFYGHTHRDSIMVLSDKKGSPVNSLFVAPAVTPVKSVLEKQTNNPGIRLFQYDPRDYKLLDMLQYYLNLTEANLKGESIWKLEYILTQTYDIEDLQPESLYGLAKQFTILDSKQFIKYYNYFFVSYDSSVTCDKTCKAFQICAIMNLDNISYADCLKQLYIKHNY
+PTM	Glycosylation:238,239,263,356;Methylation:96,189,363;Phosphorylation:83,90,193,194,303,324,330

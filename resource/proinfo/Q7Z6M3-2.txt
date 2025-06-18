@@ -1,0 +1,25 @@
+UniprotID	Q7Z6M3-2
+Accession	Q7Z6M3;A1L458;B4DUS1;B7ZM50;B9EGN0;D6RUW6;D6RUW8
+EntryName	MILR1_HUMAN
+ProteinName	Allergin-1 (Allergy inhibitory receptor 1) (Mast cell antigen 32) (MCA-32) (Mast cell immunoglobulin-like receptor 1)
+GeneName	MILR1 C17orf60 MCA32
+Length	248
+Function	Immunoglobulin-like receptor which plays an inhibitory role in degranulation of mast cells. Negatively regulates IgE-mediated mast cell activation and suppresses the type I immediate hypersensitivity reaction (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWSHLNRLLFWSIFSSVTCRKAVLDCEAMKTNEFPSPCLDSKTKVVMKGQNVSMFCSHKNKSLQITYSLFRRKTHLGTQDGKGEPAIFNLSITEAHESGPYKCKAQVTSCSKYSRDFSFTIVGGDSCPFCLKLLLPGLLLLLVVIILILAFWVLPKYKTRKAMRNNVPRDRGDTAMEVGIYANILEKQAKEESVPEVGSRPCVSTAQDEAKHSQELQYATPVFQEVAPREQEACDSYKSGYVYSELNF
+PTM	Glycosylation:182;Methylation:185,282

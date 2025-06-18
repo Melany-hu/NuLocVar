@@ -1,0 +1,25 @@
+UniprotID	D2CPK6
+Accession	D2CPK6
+EntryName	D2CPK6_HUMAN
+ProteinName	Mutant xeroderma pigmentosum group C
+GeneName	XPC
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KATQRRPHGRERRVASRVSYKEESGSDEAGSGSDFELSSGEASDPSDEDSEPGPPKQRKAPAPQRAKAGSKSASRT
+PTM	

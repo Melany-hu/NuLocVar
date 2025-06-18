@@ -1,0 +1,25 @@
+UniprotID	Q8TAQ2-2
+Accession	Q8TAQ2;F8VTJ5;Q59GV3;Q92923;Q96E12;Q96GY4
+EntryName	SMRC2_HUMAN
+ProteinName	SWI/SNF complex subunit SMARCC2 (BRG1-associated factor 170) (BAF170) (SWI/SNF complex 170 kDa subunit) (SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C member 2)
+GeneName	SMARCC2 BAF170
+Length	1130
+Function	Involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology). Component of SWI/SNF chromatin remodeling complexes that carry out key enzymatic activities, changing chromatin structure by altering DNA-histone contacts within a nucleosome in an ATP-dependent manner (PubMed:11018012). Can stimulate the ATPase activity of the catalytic subunit of these complexes (PubMed:10078207). May be required for CoREST dependent repression of neuronal specific gene promoters in non-neuronal cells (PubMed:12192000). Belongs to the neural progenitors-specific chromatin remodeling complex (npBAF complex) and the neuron-specific chromatin remodeling complex (nBAF complex). During neural development a switch from a stem/progenitor to a postmitotic chromatin remodeling mechanism occurs as neurons exit the cell cycle and become committed to their adult state. The transition from proliferating neural stem/progenitor cells to postmitotic neurons requires a switch in subunit composition of the npBAF and nBAF complexes. As neural progenitors exit mitosis and differentiate into neurons, npBAF complexes which contain ACTL6A/BAF53A and PHF10/BAF45A, are exchanged for homologous alternative ACTL6B/BAF53B and DPF1/BAF45B or DPF3/BAF45C subunits in neuron-specific complexes (nBAF). The npBAF complex is essential for the self-renewal/proliferative capacity of the multipotent neural stem cells. The nBAF complex along with CREST plays a role regulating the activity of genes essential for dendrite growth (By similarity). Critical regulator of myeloid differentiation, controlling granulocytopoiesis and the expression of genes involved in neutrophil granule formation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	297...302
+validnes_region	
+nesbase_region	
+Sequence	MAVRKKDGGPNVKYYEAADTVTQFDNVRLWLGKNYKKYIQAEPPTNKSLSSLVVQLLQFQEEVFGKHVSNAPLTKLPIKCFLDFKAGGSLCHILAAAYKFKSDQGWRRYDFQNPSRMDRNVEMFMTIEKSLVQNNCLSRPNIFLCPEIEPKLLGKLKDIIKRHQGTVTEDKNNASHVVYPVPGNLEEEEWVRPVMKRDKQVLLHWGYYPDSYDTWIPASEIEASVEDAPTPEKPRKVHAKWILDTDTFNEWMNEEDYEVNDDKNPVSRRKKISAKTLTDEVNSPDSDRRDKKGGNYKKRKRSPSPSPTPEAKKKNAKKGPSTPYTKSKRGHREEEQEDLTKDMDEPSPVPNVEEVTLPKTVNTKKDSESAPVKGGTMTDLDEQEDESMETTGKDEDENSTGNKGEQTKNPDLHEDNVTEQTHHIIIPSYAAWFDYNSVHAIERRALPEFFNGKNKSKTPEIYLAYRNFMIDTYRLNPQEYLTSTACRRNLAGDVCAIMRVHAFLEQWGLINYQVDAESRPTPMGPPPTSHFHVLADTPSGLVPLQPKTPQGRQVDADTKAGRKGKELDDLVPETAKGKPELQTSASQQMLNFPDKGKEKPTDMQNFGLRTDMYTKKNVPSKSKAAASATREWTEQETLLLLEALEMYKDDWNKVSEHVGSRTQDECILHFLRLPIEDPYLEDSEASLGPLAYQPIPFSQSGNPVMSTVAFLASVVDPRVASAAAKSALEEFSKMKEEVPTALVEAHVRKVEEAAKVTGKADPAFGLESSGIAGTTSDEPERIEESGNDEARVEGQATDEKKEPKEPREGGGAIEEEAKEKTSEAPKKDEEKGKEGDSEKESEKSDGDPIVDPEKEKEPKEGQEEVLKEVVESEGERKTKVERDIGEGNLSTAAAAALAAAAVKAKHLAAVEERKIKSLVALLVETQMKKLEIKLRHFEELETIMDREREALEYQRQQLLADRQAFHMEQLKYAEMRARQQHFQQMHQQQQQPPPALPPGSQPIPPTGAAGPPAVHGLAVAPASVVPAPAGSGAPPGSLGPSEQIGQAGSTAGPQQQQPAGAPQPGAVPPGVPPPGPHGPSPFPNQQTPPSMMPGAVPGSGHPGVADPGTPLPPDPTAPSPGTVTPVPPPQ
+PTM	Acetylation:37,79,99,101,275,297,326,359,364,373,564,568,584,590,694,704,724,728,769,770,787,796,874,897;Methylation:33,129,155,161,341,359,617,622,836,872,931,940;Phosphorylation:69,74,102,115,276,278,283,286,296,302,304,306,308,321,322,324,325,327,340,347,356,367,376,378,387,390,391,399,400,548,552,553,555,743,745,754,806,810,813,841,859,886,922;SUMOylation:341,359,373,393,564,566,568,590,592,694,702,704,718,724,728,787,812,823,836,846,848,874;Ubiquitylation:33,151,275,373,453,455,457,564,566,568,590,592,694,702,704,728,836,872,874,897,902,940

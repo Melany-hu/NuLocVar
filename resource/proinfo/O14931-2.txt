@@ -1,0 +1,25 @@
+UniprotID	O14931-2
+Accession	O14931;B0S8F2;B0S8F4;B0S8F5;O14930;O14932;O95667;O95668;O95669;Q5ST89;Q5ST90;Q5ST91;Q5ST92;Q5STA3
+EntryName	NCTR3_HUMAN
+ProteinName	Natural cytotoxicity triggering receptor 3 (Activating natural killer receptor p30) (Natural killer cell p30-related protein) (NK-p30) (NKp30) (CD antigen CD337)
+GeneName	NCR3 1C7 LY117
+Length	190
+Function	Cell membrane receptor of natural killer/NK cells that is activated by binding of extracellular ligands including BAG6 and NCR3LG1. Stimulates NK cells cytotoxicity toward neighboring cells producing these ligands. It controls, for instance, NK cells cytotoxicity against tumor cells. Engagement of NCR3 by BAG6 also promotes myeloid dendritic cells (DC) maturation, both through killing DCs that did not acquire a mature phenotype, and inducing the release by NK cells of TNFA and IFNG which promote DC maturation.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWMLLLILIMVHPGSCALWVSQPPEIRTLEGSSAFLPCSFNASQGRLAIGSVTWFRDEVVPGKEVRNGTPEFRGRLAPLASSRFLHDHQAELHIRDVRGHDASIYVCRVEVLGLGVGTGNGTRLVVEKEHPQLGAGTVLLLRAGFYAVSFLSVAVGSTVYYQGKCHCHMGTHCHSSDGPRGVIPEPRCP
+PTM	Methylation:129

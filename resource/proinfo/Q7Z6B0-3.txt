@@ -1,0 +1,25 @@
+UniprotID	Q7Z6B0-3
+Accession	Q7Z6B0;B3KSA3;C9JR07;Q68D43;Q6IA78;Q8NEN7;Q9NUW9
+EntryName	CCD91_HUMAN
+ProteinName	Coiled-coil domain-containing protein 91 (GGA-binding partner) (p56 accessory protein)
+GeneName	CCDC91 GGABP HSD8
+Length	405
+Function	Involved in the regulation of membrane traffic through the trans-Golgi network (TGN). Functions in close cooperation with the GGAs in the sorting of hydrolases to lysosomes.
+Subcellular Location	Membrane; Golgi apparatus; trans-Golgi network membrane; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDDDFGGFEAAETFDGGSGETQTTSPAIPWAAFPAVSGVHLSPSSPEIVLDRDHSSSIGCLSSDAIISSPENTHAANSIVSQTIPKAQIQQSTHTHLDISLFPLGLTDEKSNGTIALVDDSEDPGANVSNIQLQQKISSLEIKLKVSEEEKQRIKQDVESLMEKHNVLEKGFLKEKEQEAISFQDRYKELQEKHKQELEDMRKAGHEALSIIVDEYKHQRLLEMLDTEKELLKEKIKEALIQQSQEQKEILEKCLEEERQRNKEALVSAAKLEKEAVKDAVLKVVEEERKNLEKAHAEERELWKTEHAKDQEKVSQEIQKAIQEQRKISQETVKAAIIEEQKRSEKAVEEAVKRTRDELIEYIKEQKRLDQVIRQRSLSSLELFLSCAQKQLSALIATEPVDIE
+PTM	Methylation:87,171,194,234,242,270,290,308,320,331,357;Phosphorylation:43,58,69,139,352,381,414,416,417;SUMOylation:364;Ubiquitylation:146,171,274,300

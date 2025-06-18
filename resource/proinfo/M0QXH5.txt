@@ -1,0 +1,25 @@
+UniprotID	M0QXH5
+Accession	M0QXH5
+EntryName	M0QXH5_HUMAN
+ProteinName	Zinc finger protein 546
+GeneName	ZNF546
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEETQGELTSSCGSKTMANVSLAFRDVSIDLSQEEWECLDAVQRDLYKDVMLENYSNLVSLGYTIPKPDVITLLEQEKEPWIVMREGTRNWFTESRSVTQAGVQWHNLGSLQPPPPGFKQFFCLSL
+PTM	

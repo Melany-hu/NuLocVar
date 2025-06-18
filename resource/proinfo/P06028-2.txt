@@ -1,0 +1,25 @@
+UniprotID	P06028-2
+Accession	P06028;B8Q174;E2QBW7;Q0VAF4;Q58HE9;Q58HF0;Q58HF1;Q9UCH7
+EntryName	GLPB_HUMAN
+ProteinName	Glycophorin-B (PAS-3) (SS-active sialoglycoprotein) (Sialoglycoprotein delta) (CD antigen CD235b)
+GeneName	GYPB GPB
+Length	58
+Function	Component of the ankyrin-1 complex, a multiprotein complex involved in the stability and shape of the erythrocyte membrane.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYGKIIFVLLLSGETGQLVHRFTVPAPVVIILIILCVMAGIIGTILLISYSIRRLIKA
+PTM	

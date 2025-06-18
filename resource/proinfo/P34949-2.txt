@@ -1,0 +1,25 @@
+UniprotID	P34949-2
+Accession	P34949;A8K8K9;Q96AB0
+EntryName	MPI_HUMAN
+ProteinName	Mannose-6-phosphate isomerase (EC 5.3.1.8) (Phosphohexomutase) (Phosphomannose isomerase) (PMI)
+GeneName	MPI PMI1
+Length	362
+Function	Isomerase that catalyzes the interconversion of fructose-6-P and mannose-6-P and has a critical role in the supply of D-mannose derivatives required for many eukaryotic glycosylation reactions.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPRVFPLSCAVQQYAWGKMGSNSEVARLLASSDPLAQIAEDKPYAELWMGTHPRGDAKILDNRISQKTLSQWIAENQDSLGSKVKDTFNGNLPFLFKVLSVETPLSIQAHPNKELAEKLHLQAPQHYPDANHKPEMAIALTPFQGLCGFRPVEEIVTFLKTAAGNNMEDIFGELLLQLHQQYPGDIGCFAIYFLNLLTLKPGEAMFLEANVPHAYLKGDCVECMACSDNTVRAGLTPKFIDVPTLCEMLSYTPSSSKDRLFLPTRSQEDPYLSIYDPPVPDFTIMKTEVPGSVTEYKVLALDSASILLMVQGTVIASTPTTQTPIPLQRGGVLFIGANESVSLKLTEPKDLLIFRACCLL
+PTM	Methylation:120,218,263,280,301,322;Phosphorylation:108;SUMOylation:69,135,203,207,301,349;Ubiquitylation:60,320

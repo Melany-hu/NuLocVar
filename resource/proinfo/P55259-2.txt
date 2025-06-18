@@ -1,0 +1,25 @@
+UniprotID	P55259-2
+Accession	P55259;A6NFM9;A6NJA8;Q13338;Q9UIF1
+EntryName	GP2_HUMAN
+ProteinName	Pancreatic secretory granule membrane major glycoprotein GP2 (Pancreatic zymogen granule membrane protein GP-2) (ZAP75)
+GeneName	GP2
+Length	390
+Function	Functions as an intestinal M-cell transcytotic receptor specific for type-I-piliated bacteria that participates in the mucosal immune response toward these bacteria. At the apical membrane of M-cells it binds fimH, a protein of the bacteria type I pilus tip. Internalizes bound bacteria, like E.coli and S.typhimurium, from the lumen of the intestine and delivers them, through M-cells, to the underlying organized lymphoid follicles where they are captured by antigen-presenting dendritic cells to elicit a mucosal immune response.
+Subcellular Location	Zymogen granule membrane; Secreted; Cell membrane; Apical cell membrane; Membrane raft; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHLMERMVGSGLLWLALVSCILTQASAVQRVPRDPSTVEDKCEKACRPEEECLALNSTWGCFCRQDLNSSDVHSLQPQLDCGPREIKVKVDKCLLGGLGLGEEVIAYLRDPNCSSILQTEERNWVSVTSPVQASACRNILERNQTHAIYKNTLSLVNDFIIRDTILNINFQCAYPLDMKVSLQAALQPIVSSLNVSVDGNGEFIVRMALFQDQNYTNPYEGDAVELSVESVLYVGAILEQGDTSRFNLVLRNCYATPTEDKADLVKYFIIRNSCSNQRDSTIHVEENGQSSESRFSVQMFMFAGHYDLVFLHCEIHLCDSLNEQCQPSCSRSQVRSEVPAIDLARVLDLGPITRRGAQSPGVMNGTPSTAGFLVAWPMVLLTVLLAWLF
+PTM	Glycosylation:204,216,260,291,435;Methylation:155,189,414

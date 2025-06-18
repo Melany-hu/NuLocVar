@@ -1,0 +1,25 @@
+UniprotID	Q6L981
+Accession	Q6L981
+EntryName	Q6L981_HUMAN
+ProteinName	Synphilin-1f protein (Synuclein alpha interacting protein)
+GeneName	SNCAIP
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPEYLDLDEIDFSDDISYSVTSLKTIPELCRRCDTQNEDRSATPSCRQSRQNSRRKWKQSITYCGVTGTRRVSTAPHFFDGRRLPQ
+PTM	

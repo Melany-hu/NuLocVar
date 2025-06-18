@@ -1,0 +1,25 @@
+UniprotID	C9JRX8
+Accession	C9JRX8
+EntryName	C9JRX8_HUMAN
+ProteinName	LYR motif containing 4
+GeneName	LYRM4
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASSRAQVLSLYRAMLRESKRFSAYNYRTYAVRRIRDAFRENKNVKDPVEIQTLVNKAKRDLGVIRRQVAEQGTAARRKSGNSSRSLGKPCTSWP
+PTM	

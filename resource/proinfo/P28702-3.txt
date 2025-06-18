@@ -1,0 +1,25 @@
+UniprotID	P28702-3
+Accession	P28702;P28703;Q59G65;Q5JP92;Q5STQ1
+EntryName	RXRB_HUMAN
+ProteinName	Retinoic acid receptor RXR-beta (Nuclear receptor subfamily 2 group B member 2) (Retinoid X receptor beta)
+GeneName	RXRB NR2B2
+Length	537
+Function	Receptor for retinoic acid. Retinoic acid receptors bind as heterodimers to their target response elements in response to their ligands, all-trans or 9-cis retinoic acid, and regulate gene expression in various biological processes. The RAR/RXR heterodimers bind to the retinoic acid response elements (RARE).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	250...254
+validnes_region	
+nesbase_region	
+Sequence	MSWAARPPFLPQRHAAGQCGPVGVRKEMHCGVASRWRRRRPWLDPAAAAAAAVAGGEQQTPEPEPGEAGRDGMGDSGRDSRSPDSSSPNPLPQGVPPPSPPGPPLPPSTAPSLGGSGAPPPPPMPPPPLGSPFPVISSSMGSPGLPPPAPPGFSGPVSSPQINSTVSLPGGGSGPPEDVKPPVLGVRGLHCPPPPGGPGAGKRLCAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLTYSCRDNKDCTVDKRQRNRCQYCRYQKCLATGMKREAVQEERQRGKDKDGDGEGAGGAPEEMPVDRILEAELAVEQKSDQGVEGPGGTGGSGSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSSLPLDDQVILLRAGWNELLIASFSHRSIDVRDGILLATGLHVHRNSAHSAGVGAIFDRSLSRVLTELVSKMRDMRMDKTELGCLRAIILFNPDAKGLSNPSEVEVLREKVYASLETYCKQKYPEQQGRFAKLLLRLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQLA
+PTM	Acetylation:202,488;Methylation:6,25,180,230,235,314,427,502;Phosphorylation:220,331,426;SUMOylation:180,271,314,452;Ubiquitylation:452,476,488

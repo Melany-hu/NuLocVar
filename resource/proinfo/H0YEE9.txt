@@ -1,0 +1,25 @@
+UniprotID	H0YEE9
+Accession	H0YEE9
+EntryName	H0YEE9_HUMAN
+ProteinName	Post-GPI attachment to proteins 2
+GeneName	PGAP2
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLTCILWRLTKKHTVSQEVRSIPSGGSKAAQKKIKDICPQDSGNGSQVLQLETAALHHQLHLLLLGAGCLLSAQHVL
+PTM	

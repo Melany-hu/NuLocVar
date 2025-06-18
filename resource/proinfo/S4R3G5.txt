@@ -1,0 +1,25 @@
+UniprotID	S4R3G5
+Accession	S4R3G5
+EntryName	S4R3G5_HUMAN
+ProteinName	Ataxin 7 like 2
+GeneName	ATXN7L2
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVRERAAAAMAALERRVPSLDDFAGQSWSSWVERADLPAADETEVQGQPLPKGPLRRGGTCIADQGDFEDAQGPKTAVSLLCDHPISAGPEKLGVTLTMLWG
+PTM	

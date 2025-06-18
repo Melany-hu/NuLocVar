@@ -1,0 +1,25 @@
+UniprotID	Q8IVL6-2
+Accession	Q8IVL6;Q13512;Q15740;Q66K32;Q6NX61;Q7L2T1
+EntryName	P3H3_HUMAN
+ProteinName	Prolyl 3-hydroxylase 3 (EC 1.14.11.7) (Leprecan-like protein 2) (Protein B)
+GeneName	P3H3 LEPREL2
+Length	551
+Function	Part of a complex composed of PLOD1, P3H3 and P3H4 that catalyzes hydroxylation of lysine residues in collagen alpha chains and is required for normal assembly and cross-linkling of collagen fibrils. Required for normal hydroxylation of lysine residues in type I collagen chains in skin, bone, tendon, aorta and cornea. Required for normal skin stability via its role in hydroxylation of lysine residues in collagen alpha chains and in collagen fibril assembly. Apparently not required for normal prolyl 3-hydroxylation on collagen chains, possibly because it functions redundantly with other prolyl 3-hydroxylases.
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHLQMREDMAKYRRMSGVRPQSFRDLETPPHWAAYDTGLELLGRQEAGLALPRLEEALQGSLAQMESCRADCEGPEEQQGAEEEEDGAASQGGLYEAIAGHWIQVLQCRQRCVGETATRPGRSFPVPDFLPNQLRRLHEAHAQVGNLSQAIENVLSVLLFYPEDEAAKRALNQYQAQLGEPRPGLGPREDIQRFILRSLGEKRQLYYAMEHLGTSFKDPDPWTPAALIPEALREKLREDQEKRPWDHEPVKPKPLTYWKDVLLLEGVTLTQDSRQLNGSERAVLDGLLTPAECGVLLQLAKDAAGAGARSGYRGRRSPHTPHERFEGLTVLKAAQLARAGTVGSQGAKLLLEVSERVRTLTQAYFSPERPLHLSFTHLVCRSAIEGEQEQRMDLSHPVHADNCVLDPDTGECWREPPAYTYRDYSGLLYLNDDFQGGDLFFTEPNALTVTARVRPRCGRLVAFSSGVENPHGVWAVTRGRRCALALWHTWAPEHREQEWIEAKELLQESQEEEEEEEEEMPSKDPSPEPPSRRHQRVQDKTGRAPRVREEL
+PTM	Glycosylation:462;Methylation:427,486;Phosphorylation:165,201,694;SUMOylation:436,517;Ubiquitylation:517

@@ -1,0 +1,25 @@
+UniprotID	P15309-2
+Accession	P15309;D3DNC6;Q5FBY0;Q96KY0;Q96QK9;Q96QM0
+EntryName	PPAP_HUMAN
+ProteinName	Prostatic acid phosphatase (PAP) (EC 3.1.3.2) (5'-nucleotidase) (5'-NT) (EC 3.1.3.5) (Acid phosphatase 3) (Ecto-5'-nucleotidase) (Protein tyrosine phosphatase ACP3) (EC 3.1.3.48) (Thiamine monophosphatase) (TMPase) [Cleaved into: PAPf39]
+GeneName	ACP3 ACPP
+Length	418
+Function	A non-specific tyrosine phosphatase that dephosphorylates a diverse number of substrates under acidic conditions (pH 4-6) including alkyl, aryl, and acyl orthophosphate monoesters and phosphorylated proteins (PubMed:10506173, PubMed:15280042, PubMed:20498373, PubMed:9584846). Has lipid phosphatase activity and inactivates lysophosphatidic acid in seminal plasma (PubMed:10506173, PubMed:15280042).
+Subcellular Location	Secreted; Cell membrane; Lysosome membrane; Nucleus; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAAPLLLARAASLSLGFLFLLFFWLDRSVLAKELKFVTLVFRHGDRSPIDTFPTDPIKESSWPQGFGQLTQLGMEQHYELGEYIRKRYRKFLNESYKHEQVYIRSTDVDRTLMSAMTNLAALFPPEGVSIWNPILLWQPIPVHTVPLSEDQLLYLPFRNCPRFQELESETLKSEEFQKRLHPYKDFIATLGKLSGLHGQDLFGIWSKVYDPLYCESVHNFTLPSWATEDTMTKLRELSELSLLSLYGIHKQKEKSRLQGGVLVNEILNHMKRATQIPSYKKLIMYSAHDTTVSGLQMALDVYNGLLPPYASCHLTELYFEKGEYFVEMYYRNETQHEPYPLMLPGCSPSCPLERFAELVGPVIPQDWSTECMTTNSHQVLKVIFAVAFCLISAVLMVLLFIHIRRGLCWQRESYGNI
+PTM	Glycosylation:94,220,333;Methylation:173,179,208;Phosphorylation:96

@@ -1,0 +1,25 @@
+UniprotID	A0A804HK98
+Accession	A0A804HK98
+EntryName	A0A804HK98_HUMAN
+ProteinName	OFD1 centriole and centriolar satellite protein
+GeneName	OFD1
+Length	84
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMAQSNMFTVADVLSQDELRKKLYQTFKDRGILDTLKKVVWQKKRYLLCRIYYNSLKSTLLPVSTNHWFQDLIKKIKKVFLCIF
+PTM	

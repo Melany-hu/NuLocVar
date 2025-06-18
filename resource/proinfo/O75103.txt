@@ -1,0 +1,25 @@
+UniprotID	O75103
+Accession	O75103
+EntryName	O75103_HUMAN
+ProteinName	Rh blood group antigen
+GeneName	RHD
+Length	93
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FAAYFGLSVAWCLPKPLPEGTEDKDQTATIPSLSAMLGALFLWMFWPSVNSALLRSPIQRKNAMFNTYYALAVSVVTAISGSSLAHPQGKISK
+PTM	

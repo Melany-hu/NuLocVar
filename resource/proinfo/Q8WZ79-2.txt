@@ -1,0 +1,25 @@
+UniprotID	Q8WZ79-2
+Accession	Q8WZ79;Q5VXD0;Q5VXD1;Q8WZ80;Q9NQW3
+EntryName	DNS2B_HUMAN
+ProteinName	Deoxyribonuclease-2-beta (EC 3.1.22.1) (DNase II-like acid DNase) (DNase2-like acid DNase) (Deoxyribonuclease II beta) (DNase II beta) (Endonuclease DLAD)
+GeneName	DNASE2B DLAD
+Length	153
+Function	Hydrolyzes DNA under acidic conditions. Does not require divalent cations for activity. Participates in the degradation of nuclear DNA during lens cell differentiation.
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQLCTRASSSEIPGRLLTTLQSAQGQKFLHFAKSDSFLDDIFAAWMAQRLKTHLLTETWQRKRQELPSNCSLPYHVYNIKAIKLSRHSYFSSYQDHAKWCISQKGTKNRWTCIGDLNRSPHQAFRSGGFICTQNWQIYQAFQGLVLYYESCK
+PTM	Methylation:236;Phosphorylation:105,107

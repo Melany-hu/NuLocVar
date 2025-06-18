@@ -1,0 +1,25 @@
+UniprotID	Q13740-2
+Accession	Q13740;B2RNS3;B4DTU0;O60892;Q1HGM8;Q1HGM9;Q6PEY4;Q6ZS95
+EntryName	CD166_HUMAN
+ProteinName	CD166 antigen (Activated leukocyte cell adhesion molecule) (CD antigen CD166)
+GeneName	ALCAM MEMD
+Length	570
+Function	Cell adhesion molecule that mediates both heterotypic cell-cell contacts via its interaction with CD6, as well as homotypic cell-cell contacts (PubMed:15048703, PubMed:15496415, PubMed:16352806, PubMed:23169771, PubMed:24945728, PubMed:7760007). Promotes T-cell activation and proliferation via its interactions with CD6 (PubMed:15048703, PubMed:16352806, PubMed:24945728). Contributes to the formation and maturation of the immunological synapse via its interactions with CD6 (PubMed:15294938, PubMed:16352806). Mediates homotypic interactions with cells that express ALCAM (PubMed:15496415, PubMed:16352806). Acts as a ligand for the LILRB4 receptor, enhancing LILRB4-mediated inhibition of T cell proliferation (PubMed:29263213). Required for normal hematopoietic stem cell engraftment in the bone marrow (PubMed:24740813). Mediates attachment of dendritic cells onto endothelial cells via homotypic interaction (PubMed:23169771). Inhibits endothelial cell migration and promotes endothelial tube formation via homotypic interactions (PubMed:15496415, PubMed:23169771). Required for normal organization of the lymph vessel network. Required for normal hematopoietic stem cell engraftment in the bone marrow. Plays a role in hematopoiesis; required for normal numbers of hematopoietic stem cells in bone marrow. Promotes in vitro osteoblast proliferation and differentiation (By similarity). Promotes neurite extension, axon growth and axon guidance; axons grow preferentially on surfaces that contain ALCAM. Mediates outgrowth and pathfinding for retinal ganglion cell axons (By similarity).
+Subcellular Location	Cell membrane; Cell projection; Axon; Cell projection; Dendrite; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESKGASSCRLLFCLLISATVFRPGLGWYTVNSAYGDTIIIPCRLDVPQNLMFGKWKYEKPDGSPVFIAFRSSTKKSVQYDDVPEYKDRLNLSENYTLSISNARISDEKRFVCMLVTEDNVFEAPTIVKVFKQPSKPEIVSKALFLETEQLKKLGDCISEDSYPDGNITWYRNGKVLHPLEGAVVIIFKKEMDPVTQLYTMTSTLEYKTTKADIQMPFTCSVTYYGPSGQKTIHSEQAVFDIYYPTEQVTIQVLPPKNAIKEGDNITLKCLGNGNPPPEEFLFYLPGQPEGIRSSNTYTLTDVRRNATGDYKCSLIDKKSMIASTAITVHYLDLSLNPSGEVTRQIGDALPVSCTISASRNATVVWMKDNIRLRSSPSFSSLHYQDAGNYVCETALQEVEGLKKRESLTLIVEGKPQIKMTKKTDPSGLSKTIICHVEGFPKPAIQWTITGSGSVINQTEESPYINGRYYSKIIISPEENVTLTCTAENQLERTVNSLNVSANENREKVNDQAKLIVGIVVGLLLAALVAGVVYWLYMKKSKTASKHVNKDLGNMEENKKLEENNHKTEA
+PTM	Acetylation:57,60;Glycosylation:95,167,265,306,361,457,480,496,499;Methylation:55,60,87,129,142,152,153,189,208,231,257,261,269,318,403,415,419;Phosphorylation:3,77,117,126,554;Ubiquitylation:152,563,572,573

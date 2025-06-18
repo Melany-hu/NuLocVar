@@ -1,0 +1,25 @@
+UniprotID	H7C5P1
+Accession	H7C5P1
+EntryName	H7C5P1_HUMAN
+ProteinName	Replication factor C subunit 2
+GeneName	RFC2
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDSDPAPAFSKAPGSAGHYELPWVEKYRPVKLNEIVGNEDTVSRLESSRSKF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7BZY7
+Accession	H7BZY7
+EntryName	H7BZY7_HUMAN
+ProteinName	Transmembrane protein 40
+GeneName	TMEM40
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LHPGPGHGEPDVLKDELQLYGDEFFHFVLLCFAIGALLVCYHYYADWFMSLGVGLLTFASLETVGIYFGLVYRIHSVLQGFIPLFQKFRLTGFRKTD
+PTM	

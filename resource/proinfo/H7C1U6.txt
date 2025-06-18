@@ -1,0 +1,25 @@
+UniprotID	H7C1U6
+Accession	H7C1U6
+EntryName	H7C1U6_HUMAN
+ProteinName	Zinc finger DHHC-type palmitoyltransferase 3
+GeneName	ZDHHC3
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVMFGTQVHSICTDETAADDHPGRECRMPKANHLSWSLLLCQEGRPGEGPVRKQHGITCS
+PTM	

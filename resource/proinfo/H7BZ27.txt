@@ -1,0 +1,25 @@
+UniprotID	H7BZ27
+Accession	H7BZ27
+EntryName	H7BZ27_HUMAN
+ProteinName	Cyclin T2
+GeneName	CCNT2
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNSLHLTTFCLQYKPTVIACVCIHLACKWSNWEIPVSTDGKHWWEYVDPTVTLELLDELTHEFLQILEKTPNRLKKIRNWRANQAARKPKVDGQVGYGHLSTLVKLDKKPVETNGPDANHEYSTSSQHMDYKDTFDMLDSLLSAQGMNM
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NYM4-2
+Accession	Q9NYM4;B0M0K5;F5GZ43;Q6NWR4;Q9P1Y8
+EntryName	GPR83_HUMAN
+ProteinName	G-protein coupled receptor 83 (G-protein coupled receptor 72)
+GeneName	GPR83 GPR72 JP05 KIAA1540
+Length	381
+Function	G-protein coupled receptor for PEN, a neuropeptide produced from the precursor protein, proSAAS (encoded by PCSK1N). Acts through a G(i)- and G(q)-alpha-alpha-mediated pathway in response to PEN (PubMed:27117253). Plays a role in food intake and body weight regulation. May contribute to the regulation of anxiety-related behaviors (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPHLLLLCLLPLVRATEPHEGRADEQSAEAALAVPNASHFFSWNNYTFSDWQNFVGRRRYGAESQNPTVKALLIVAYSFIIVFSLFGNVLVCHVIFKNQRMHSATSLFIVNLAVADIMITLLNTPFTLVIMHPLKPRISITKGVIYIAVIWTMATFFSLPHAICQKLFTFKYSEDIVRSLCLPDFPEPADLFWKYLDLATFILLYILPLLIISVAYARVAKKLWLCNMIGDVTTEQYFALRRKKKKTIKMLMLVVVLFALCWFPLNCYVLLLSSKVIRTNNALYFAFHWFAMSSTCYNPFIYCWLNENFRIELKALLSMCQRPPKPQEDRPPSPVPSFRVAWTEKNDGQRAPLANNLLPTSQLQSGKTDLSSVEPIVTMS
+PTM	Methylation:141,178,237;Phosphorylation:182,376

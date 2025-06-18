@@ -1,0 +1,25 @@
+UniprotID	Q9Y633
+Accession	Q9Y633
+EntryName	Q9Y633_HUMAN
+ProteinName	Calcium/calmodulin-stimulated cyclic nucleotide phosphodiesterase
+GeneName	PDE1A
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SSYVASSSTTIVGLHIADALRRSNTKGSMSDGSYSPDYSLAAVDLKSFKNNLVDIIQQNKERWKELAAQGESDLHKNSEDLVNAEEKHDETHS
+PTM	

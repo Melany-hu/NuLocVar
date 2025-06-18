@@ -1,0 +1,25 @@
+UniprotID	U3KPV2
+Accession	U3KPV2
+EntryName	U3KPV2_HUMAN
+ProteinName	G protein-coupled receptor 89B
+GeneName	GPR89B
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFLIDSSIMITSQIRQYVVQVIFSVTFAFSCTMFELIIFEILGVLNSSSRYFHWKMNLCVILLILVFMVPFYIGYFIVSNIRLLHKQRLLFSCLLWLTFMYFFWKLGDPFPILSPKHGILSIEQLISRVGVIGVTLMALLSGFGAVNCPYTYMSYFLRNVTDTDILALERRLLQTMDMIISKKKRMAMARRTMFQKGEVHNKPSGFWGMIKSVTT
+PTM	

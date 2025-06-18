@@ -1,0 +1,25 @@
+UniprotID	A0AAA9YHJ3
+Accession	A0AAA9YHJ3
+EntryName	A0AAA9YHJ3_HUMAN
+ProteinName	Thioredoxin domain containing 8
+GeneName	TXNDC8
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQIIKDTNEFKTFLTAAGHKLAVVQFSSKRCGPCKRMFPVFHAMSVKYQNVFFANVDVNNSPELAETCHIKTIPTFQMFKKSQKIFEFCGADAKKLEAKTQELM
+PTM	

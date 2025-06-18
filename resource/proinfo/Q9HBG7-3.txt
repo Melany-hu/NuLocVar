@@ -1,0 +1,25 @@
+UniprotID	Q9HBG7-3
+Accession	Q9HBG7;A8K7N3;Q14775;Q5VYI3;Q6P2J4;Q9H4N5;Q9NQ24
+EntryName	LY9_HUMAN
+ProteinName	T-lymphocyte surface antigen Ly-9 (Cell surface molecule Ly-9) (Lymphocyte antigen 9) (SLAM family member 3) (SLAMF3) (Signaling lymphocytic activation molecule 3) (CD antigen CD229)
+GeneName	LY9 CDABP0070
+Length	521
+Function	Self-ligand receptor of the signaling lymphocytic activation molecule (SLAM) family. SLAM receptors triggered by homo- or heterotypic cell-cell interactions are modulating the activation and differentiation of a wide variety of immune cells and thus are involved in the regulation and interconnection of both innate and adaptive immune response. Activities are controlled by presence or absence of small cytoplasmic adapter proteins, SH2D1A/SAP and/or SH2D1B/EAT-2. May participate in adhesion reactions between T lymphocytes and accessory cells by homophilic interaction. Promotes T-cell differentiation into a helper T-cell Th17 phenotype leading to increased IL-17 secretion; the costimulatory activity requires SH2D1A (PubMed:22184727). Promotes recruitment of RORC to the IL-17 promoter (PubMed:22989874). May be involved in the maintenance of peripheral cell tolerance by serving as a negative regulator of the immune response. May disable autoantibody responses and inhibit IFN-gamma secretion by CD4(+) T-cells. May negatively regulate the size of thymic innate CD8(+) T-cells and the development of invariant natural killer T (iNKT) cells (By similarity).
+Subcellular Location	Membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAPKSHTDDWAPGPFSSKPQRSQLQIFSSVLQTSLLFLLMGLRASGKDSAPTVVSGILGGSVTLPLNISVDTEIENVIWIGPKNALAFARPKENVTIMVKSYLGRLDITKWSYSLCISNLTLNDAGSYKAQINQRNFEVTTEEEFTLFVYEQLQEPQVTMKSVKVSENFSCNITLMCSVKGAEKSVLYSWTPREPHASESNGGSILTVSRTPCDPDLPYICTAQNPVSQRSSLPVHVGQFCTDPGASRGGTTGETVVGVLGEPVTLPLALPACRDTEKVVWLFNTSIISKEREEAATADPLIKSRDPYKNRVWVSSQDCSLKISQLKIEDAGPYHAYVCSEASSVTSMTHVTLLIYRPERNTKLWIGLFLMVCLLCVGIFSWCIWKRKGRCSVPAFCSSQAEAPADTPGYEKLDTPLRQPISGRYEVFDQVTQEGAGHDPAPEGQADYDPVTPYVTEVESVVGENTMYAQVFNLQGKTPVSQKEESSATIYCSIRKPQVVPPPQQNDLEIPESPTYENFT
+PTM	Methylation:111,291,554,631;Phosphorylation:103,210,287,309,325,368,415,616,626,648

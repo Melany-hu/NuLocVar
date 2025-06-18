@@ -1,0 +1,25 @@
+UniprotID	H0YMC7
+Accession	H0YMC7
+EntryName	H0YMC7_HUMAN
+ProteinName	Peroxisomal biogenesis factor 11 alpha
+GeneName	PEX11A
+Length	64
+Function	
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAFTRFTNQTQGRDRLFRATQYTCMLLRYLLEPKAGKEKVVMKLKKLESSVSTGRKYKIDLCL
+PTM	

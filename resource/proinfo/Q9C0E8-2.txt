@@ -1,0 +1,25 @@
+UniprotID	Q9C0E8-2
+Accession	Q9C0E8;B7ZLA8;Q2M2V8;Q2YD99;Q658W8;Q8N5V9;Q96MS5
+EntryName	LNP_HUMAN
+ProteinName	Endoplasmic reticulum junction formation protein lunapark (ER junction formation factor lunapark)
+GeneName	LNPK KIAA1715 LNP
+Length	423
+Function	Endoplasmic reticulum (ER)-shaping membrane protein that plays a role in determining ER morphology (PubMed:30032983). Involved in the stabilization of nascent three-way ER tubular junctions within the ER network (PubMed:24223779, PubMed:25404289, PubMed:25548161, PubMed:27619977). May also play a role as a curvature-stabilizing protein within the three-way ER tubular junction network (PubMed:25404289). May be involved in limb development (By similarity). Is involved in central nervous system development (PubMed:30032983).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGKTKPSTVEVLESIDKEIQALEEFREKNQRLQKLWVGRLILYSSVLYLFTCLIVYLWYLPDEFTARLAMTLPFFAFPLIIWSIRTVIIFFFSKRTERNNEALDDLKSQRKKILEEVMEKETYKTAKLILERFDPDSKKAKECEPPSAGAAVTARPGQEIRQRTAAQRNLSPTPASPNQGPPPQVPVSPGPPKDSSAPGGPPERTVTPALSSNVLPRHLGSPATSVPGMGLHPPGPPLARPILPRERGALDRIVEYLVGDGPQNRYALICQQCFSHNGMALKEEFEYIAFRCAYCFFLNPARKTRPQAPRLPEFSFEKRQVVEGSSSVGPLPSGSVLSSDNQFNEESLEHDVLDDNTEQTDDKIPATEQTNQVIEKASDSEEPEEKQETENEEASVIETNSTVPGADSIPDPELSGESLTAE
+PTM	Methylation:382;Phosphorylation:159,177,179,182,194,201,202,211,213,217,218,227,321,366,384,386;SUMOylation:130;Ubiquitylation:113,130,133,144,324

@@ -1,0 +1,25 @@
+UniprotID	O43567-2
+Accession	O43567;A6NC87;B3KR12;Q05D66;Q6IBJ9
+EntryName	RNF13_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF13 (EC 2.3.2.27) (RING finger protein 13)
+GeneName	RNF13 RZF
+Length	262
+Function	E3 ubiquitin-protein ligase that regulates cell proliferation (PubMed:18794910, PubMed:23378536, PubMed:30595371). Involved in apoptosis regulation (PubMed:23378536, PubMed:30595371). Mediates ER stress-induced activation of JNK signaling pathway and apoptosis by promoting ERN1 activation and splicing of XBP1 mRNA (PubMed:23378536, PubMed:30595371). Also involved in protein trafficking and localization (PubMed:24387786).
+Subcellular Location	Endoplasmic reticulum membrane; Late endosome membrane; Lysosome membrane; Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLILMTSLAWDPTTVSTVEVLKKIDIPSVFIGESSANSLKDEFTYEKGGHLILVPEFSLPLEYYLIPFLIIVGICLILIVIFMITKFVQDRHRARRNRLRKDQLKKLPVHKFKKGDEYDVCAICLDEYEDGDKLRILPCSHAYHCKCVDPWLTKTKKTCPVCKQKVVPSQGDSDSDTDSSQEENEVTEHTPLLRPLASVSAQSFGALSESRSHQNMTESSDYEEDDNEDTDSSDAENEINEHDVVVQLQPNGERDYNIANTV
+PTM	Glycosylation:75,88;Methylation:141,224;Phosphorylation:319,322,327,380;SUMOylation:232,233;Ubiquitylation:107,220,233,252,273,282

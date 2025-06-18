@@ -1,0 +1,25 @@
+UniprotID	P40121-2
+Accession	P40121;B8ZZS7;D6W5K8;Q53SA7
+EntryName	CAPG_HUMAN
+ProteinName	Macrophage-capping protein (Actin regulatory protein CAP-G)
+GeneName	CAPG AFCP MCP
+Length	333
+Function	Calcium-sensitive protein which reversibly blocks the barbed ends of actin filaments but does not sever preformed actin filaments. May play an important role in macrophage function. May play a role in regulating cytoplasmic and/or nuclear structures through potential interactions with actin. May bind DNA.
+Subcellular Location	Nucleus; Cytoplasm; Melanosome; Cell projection; Lamellipodium; Cell projection; Ruffle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	137..146
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	137...146;141...146
+validnes_region	
+nesbase_region	
+Sequence	MYTAIPQSGSPFPGSVQDPGLHVWRVEKLKPVPVAQENQGVFFSGDSYLVLHNGPEEVSHLHLWIGQQSSRDEQGACAVLAVHLNTLLGERPVQHREVQGNESDLFMSYFPRGLKYQEGGVESAFHKTSTGAPAAIKKLYQVKGKKNIRATERALNWDSFNTGDCFILDLGQNIFAWCGGKSNILERNKARDLALAIRDSERQGKAQVLGPKPALKEGNPEEDLTADKANAQAAALYKVSDATGQMNLTKVADSSPFALELLISDDCFVLDNGLCGKIYIWKGRKANEKERQAALQVAEGFISRMQYAPNTQVEILPQGHESPIFKQFFKDWK
+PTM	Acetylation:115,127,137,138,243,253;Methylation:127,227,231,243,253,265,297;Phosphorylation:2,3,8,10,15,128,129,130,212,318,326,337;SUMOylation:115;Ubiquitylation:127,137,143,205,243,297

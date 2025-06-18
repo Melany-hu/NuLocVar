@@ -1,0 +1,25 @@
+UniprotID	O95238-2
+Accession	O95238;B4DWH8;F5H778
+EntryName	SPDEF_HUMAN
+ProteinName	SAM pointed domain-containing Ets transcription factor (Prostate epithelium-specific Ets transcription factor) (Prostate-specific Ets) (Prostate-derived Ets factor)
+GeneName	SPDEF PDEF PSE
+Length	319
+Function	May function as an androgen-independent transactivator of the prostate-specific antigen (PSA) promoter. Binds to 5'-GGAT-3' DNA sequences. May play a role in the regulation of the prostate gland and/or prostate cancer development. Acts as a transcriptional activator for SERPINB5 promoter.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSASPGLSSVSPSHLLLPPDTVSRTGLEKAAAGAVGLERRDWSPSPPATPEQGLSAFYLSYFDMLYPEDSSWAAKAPGASSREEPPEEPEQCPVIDSQAPAGSLDLVPGGLTLEEHSLEQVQSMVVGEVLKDIETACKLLNITADPMDWSPSNVQKWLLWTEHQYRLPPMGKAFQELAGKELCAMSEEQFRQRSPLGGDVLHAHLDIWKSASTSEESWTDSEVDSSCSGQPIHLWQFLKELLLKPHSYGRFIRWLNKEKGIFKIEDSAQVARLWGIRKNRPAMNYDKLSRSIRQYYKKGIIRKPDISQRLVYQFVHPI
+PTM	Methylation:132,181,261,320;Phosphorylation:3,5,10,12,151,153

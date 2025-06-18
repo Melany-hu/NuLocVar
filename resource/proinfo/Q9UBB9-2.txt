@@ -1,0 +1,25 @@
+UniprotID	Q9UBB9-2
+Accession	Q9UBB9;O95908;Q20WL0;Q5H8V8;Q9UGV7;Q9Y2Q8
+EntryName	TFP11_HUMAN
+ProteinName	Tuftelin-interacting protein 11 (Septin and tuftelin-interacting protein 1) (STIP-1)
+GeneName	TFIP11 STIP HSPC006
+Length	196
+Function	Involved in pre-mRNA splicing, specifically in spliceosome disassembly during late-stage splicing events. Intron turnover seems to proceed through reactions in two lariat-intron associated complexes termed Intron Large (IL) and Intron Small (IS). In cooperation with DHX15 seems to mediate the transition of the U2, U5 and U6 snRNP-containing IL complex to the snRNP-free IS complex leading to efficient debranching and turnover of excised introns. May play a role in the differentiation of ameloblasts and odontoblasts or in the forming of the enamel extracellular matrix.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	700..705
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSEILPSFVATMDASNFSFWQVLCSWLSNSPNYEEITKWYLGWKSMFSDQVLAHPSVKDKFNEALDIMNRAVSSNVGAYMQPGARENIAYLTHTERRKDFQYEAMQERREAENMAQRGIGVAASSVPMNFKDLIETKAEEHNIVFMPVIGKRHEGKQLYTFGRIVIYIDRGVVFVQGEKTWVPTSLQSLIDMAK
+PTM	Acetylation:69,86,155,182,241,261,267,288,308,580;Methylation:69,159,166,170,247,358,410,454,479,490,531,580,656,794;Phosphorylation:2,50,51,59,65,74,75,82,98,128,144,162,199,201,210,223,279,282,283,286,371,392,567,568,668,671,673,676;SUMOylation:46,86,120,126,130,137,155,159,170,182,187,241,261,267,277,288,308,311,454,573,589,701,741,774,780;Ubiquitylation:86,87,126,155,159,170,182,187,241,247,261,267,308,410,443,454,573,580,774,780

@@ -1,0 +1,25 @@
+UniprotID	Q13356-2
+Accession	Q13356;Q13357;Q8TAH2;Q9BWR8
+EntryName	PPIL2_HUMAN
+ProteinName	RING-type E3 ubiquitin-protein ligase PPIL2 (EC 2.3.2.27) (CYC4) (Cyclophilin-60) (Cyclophilin-like protein Cyp-60) (Cyp60) (hCyP-60) (Probable inactive peptidyl-prolyl cis-trans isomerase-like 2) (PPIase) (Rotamase PPIL2)
+GeneName	PPIL2
+Length	527
+Function	Has a ubiquitin-protein ligase activity acting as an E3 ubiquitin protein ligase or as an ubiquitin-ubiquitin ligase promoting elongation of ubiquitin chains on substrates. By mediating 'Lys-48'-linked polyubiquitination of proteins could target them for proteasomal degradation (PubMed:11435423). May also function as a chaperone, playing a role in transport to the cell membrane of BSG/Basigin for instance (PubMed:15946952). Probable inactive PPIase with no peptidyl-prolyl cis-trans isomerase activity (PubMed:20676357). As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (Probable).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKRQHQKDKMYITCAEYTHFYGGKKPDLPQTNFRRLPFDHCSLSLQPFVYPVCTPDGIVFDLLNIVPWLKKYGTNPSNGEKLDGRSLIKLNFSKNSEGKYHCPVLFTVFTNNTHIVAVRTTGNVYAYEAVEQLNIKAKNFRDLLTDEPFSRQDIITLQDPTNLDKFNVSNFYHVKNNMKIIDPDEEKAKQDPSYYLKNTNAETRETLQELYKEFKGDEILAATMKAPEKKKVDKLNAAHYSTGKVSASFTSTAMVPETTHEAAAIDEDVLRYQFVKKKGYVRLHTNKGDLNLELHCDLTPKTCENFIRLCKKHYYDGTIFHRSIRNFVIQGGDPTGTGTGGESYWGKPFKDEFRPNLSHTGRGILSMANSGPNSNRSQFFITFRSCAYLDKKHTIFGRVVGGFDVLTAMENVESDPKTDRPKEEIRIDATTVFVDPYEEADAQIAQERKTQLKVAPETKVKSSQPQAGSQGPQTFRQGVGKYINPAATEQQRKSPQPVPLSPCPRRSPVGVLGTSAPGSSRLPDDH
+PTM	Acetylation:235,482,490;Methylation:90,137,166,302;Phosphorylation:19,32,87,162,459,483,502;SUMOylation:82,90,100,137,166,176,180,188,190,198,213,216,226,232,245,351,418,423,450,454,460,462,482,490;Ubiquitylation:90,95,190,198,454,462,482

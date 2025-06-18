@@ -1,0 +1,25 @@
+UniprotID	P08962-3
+Accession	P08962;F8VZE2;Q5TZP3;Q8N6Z9;Q9UCG6
+EntryName	CD63_HUMAN
+ProteinName	CD63 antigen (Granulophysin) (Lysosomal-associated membrane protein 3) (LAMP-3) (Lysosome integral membrane protein 1) (Limp1) (Melanoma-associated antigen ME491) (OMA81H) (Ocular melanoma-associated antigen) (Tetraspanin-30) (Tspan-30) (CD antigen CD63)
+GeneName	CD63 MLA1 TSPAN30
+Length	156
+Function	Functions as a cell surface receptor for TIMP1 and plays a role in the activation of cellular signaling cascades. Plays a role in the activation of ITGB1 and integrin signaling, leading to the activation of AKT, FAK/PTK2 and MAP kinases. Promotes cell survival, reorganization of the actin cytoskeleton, cell adhesion, spreading and migration, via its role in the activation of AKT and FAK/PTK2. Plays a role in VEGFA signaling via its role in regulating the internalization of KDR/VEGFR2. Plays a role in intracellular vesicular transport processes, and is required for normal trafficking of the PMEL luminal domain that is essential for the development and maturation of melanocytes. Plays a role in the adhesion of leukocytes onto endothelial cells via its role in the regulation of SELP trafficking. May play a role in mast cell degranulation in response to Ms4a2/FceRI stimulation, but not in mast cell degranulation in response to other stimuli.
+Subcellular Location	Cell membrane; Lysosome membrane; Late endosome membrane; Endosome; Multivesicular body; Melanosome; Secreted; Extracellular exosome; Cell surface
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITFAIFLSLIMLVEVAAAIAGYVFRDKVMSEFNNNFRQQMENYPKNNHTASILDRMQADFKCCGAANYTDWEKIPSMSKNRVPDSCCINVTVGCGINFNEKAIHKEGCVEKIGGWLRKNVLVVAAAALGIAFVEVLGIVFACCLVKSIRSGYEVM
+PTM	Glycosylation:116,117,129,130,150,172;Phosphorylation:113,161;SUMOylation:8,11;Ubiquitylation:110,128,144,156,162

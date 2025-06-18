@@ -1,0 +1,25 @@
+UniprotID	E9PLI7
+Accession	E9PLI7
+EntryName	E9PLI7_HUMAN
+ProteinName	Zinc finger protein 726
+GeneName	ZNF726
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLTFRDVAIEFSLEEWQCLDTAQKNLYRNVMLENYRNLAFLGIAVSKPDLIICLEKEKEPWNMKRDEMVDEPPDGVSLCHPGWSAVA
+PTM	

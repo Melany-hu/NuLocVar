@@ -1,0 +1,25 @@
+UniprotID	Q13239-2
+Accession	Q13239;B7Z4J2;B7Z4L6;Q6FI01;Q9UMQ8
+EntryName	SLAP1_HUMAN
+ProteinName	Src-like-adapter (Src-like-adapter protein 1) (SLAP-1) (hSLAP)
+GeneName	SLA SLAP SLAP1
+Length	168
+Function	Adapter protein, which negatively regulates T-cell receptor (TCR) signaling. Inhibits T-cell antigen-receptor induced activation of nuclear factor of activated T-cells. Involved in the negative regulation of positive selection and mitosis of T-cells. May act by linking signaling proteins such as ZAP70 with CBL, leading to a CBL dependent degradation of signaling proteins.
+Subcellular Location	Cytoplasm; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRESETKKGFYSLSVRHRQVKHYRIFRLPNNWYYISPRLTFQCLEDLVNHYSEVADGLCCVLTTPCLTQSTAAPAVRASSSPVTLRQKTVDWRRVSRLQEDPEGTENPLGVDESLFSYGLRESIASYLSLTSEDNTSFDRKKKSISLMYGGSKRKSSFFSSPPYFED
+PTM	Phosphorylation:188,189,190,193,205,226,253,255,258,261,265,266,270

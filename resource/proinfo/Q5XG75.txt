@@ -1,0 +1,25 @@
+UniprotID	Q5XG75
+Accession	Q5XG75
+EntryName	Q5XG75_HUMAN
+ProteinName	Ceramide synthase 1 (LASS1 protein)
+GeneName	CERS1 LASS1
+Length	239
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPESAWKFLFYLGSWSYSAYLLFGTDYPFFHDPPSVFYDWTPGMAVPRDIAAAYLLQGSFYGHSIYATLYMDTWRKDSVVMLLHHVVTLILIVSSYAFRYHNVGILVLFLHDISDVQLEFTKLNIYFKSRGGSYHRLHALAADLGCLSFGFSWFWFRLYWFPLKVLYATSHCSLRTVPDIPFYFFFNALLLLLTLMNLYWFLYIVAFAAKVLTGQVHELKDLREYDTAEAQSLKPSKAE
+PTM	

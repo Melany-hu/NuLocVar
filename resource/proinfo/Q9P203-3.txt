@@ -1,0 +1,25 @@
+UniprotID	Q9P203-3
+Accession	Q9P203;A8K5V7;Q69Z05;Q7Z308;Q86TS0;Q9HAA4;Q9NVM0
+EntryName	BTBD7_HUMAN
+ProteinName	BTB/POZ domain-containing protein 7
+GeneName	BTBD7 KIAA1525
+Length	410
+Function	Acts as a mediator of epithelial dynamics and organ branching by promoting cleft progression. Induced following accumulation of fibronectin in forming clefts, leading to local expression of the cell-scattering SNAIL2 and suppression of E-cadherin levels, thereby altering cell morphology and reducing cell-cell adhesion. This stimulates cell separation at the base of forming clefts by local, dynamic intercellular gap formation and promotes cleft progression (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGANASNYPHSCSPRVGGNSQAQQTFIGTSSYSQQGYGCESKLYSLDHGHEKPQDKKKRTSGLATLKKKFIKRRKSNRSADHAKQMRELLSGWDVRDVNALVEEYEGTSALKELSLQASLARPEARTLQKDMADLYEYKYCTDVDLIFQETCFPVHRAILAARCPFFKTLLSSSPEYGAEIIMDINTAGIDMPMFSALLHYLYTGEFGMEDSRFQNVDILVQLSEEFGTPNSLDVDMRGLFDYMCYYDVVLSFSSDSELVEAFGGNQNCLDEELKAHKAVISARSPFFRNLLQRRIRTGEEITDRTLRTPTRIILDESIIPKKYATVILHCMYTDVVDLSVLHCSPSVGSLSEVQALVAGKPNMTRAEEAMELYHIALFLEFNMLAQEETTVIRPACAAELSNSCLLPQS
+PTM	Methylation:112,130,275,361,407,465,469,989;Phosphorylation:140,142,151,318,488,493,722,786,794,920,922,923,949,957,964,966,968,972,997,998,1012,1112,1119,1121;Ubiquitylation:278,496,565,711

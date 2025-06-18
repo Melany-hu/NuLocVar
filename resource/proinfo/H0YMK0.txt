@@ -1,0 +1,25 @@
+UniprotID	H0YMK0
+Accession	H0YMK0
+EntryName	H0YMK0_HUMAN
+ProteinName	ARPIN-AP3S2 readthrough
+GeneName	ARPIN-AP3S2
+Length	184
+Function	Part of the AP-3 complex, an adaptor-related complex which is not clathrin-associated. The complex is associated with the Golgi region as well as more peripheral structures. It facilitates the budding of vesicles from the Golgi membrane and may be directly involved in trafficking to lysosomes. In concert with the BLOC-1 complex, AP-3 is required to target cargos into vesicles assembled at cell bodies for delivery into neurites and nerve terminals.
+Subcellular Location	Cytoplasmic vesicle membrane; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSYNSLAKLEAGTVTKCNFTGDGKTGASWTDNIMAQKCSKGAAAEIREQGDGAEDEEWPEEIQQQIVRETFHLVLKRDDNICNFLEGGSLIGGSDYKLIYRHYATLYFVFCVDSSESELGILDLIQVFVETLDKCFENVCELDLIFHMDKVHYILQEVVMGGMVLETNMNEIVAQIEAQNRLE
+PTM	

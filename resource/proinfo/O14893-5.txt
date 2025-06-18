@@ -1,0 +1,25 @@
+UniprotID	O14893-5
+Accession	O14893;B2R9W8;Q2M3B3;Q9H4F5;Q9NS77;Q9NS78;Q9NS79
+EntryName	GEMI2_HUMAN
+ProteinName	Gem-associated protein 2 (Gemin-2) (Component of gems 2) (Survival of motor neuron protein-interacting protein 1) (SMN-interacting protein 1)
+GeneName	GEMIN2 SIP1
+Length	269
+Function	The SMN complex catalyzes the assembly of small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome, and thereby plays an important role in the splicing of cellular pre-mRNAs (PubMed:18984161, PubMed:9323129). Most spliceosomal snRNPs contain a common set of Sm proteins SNRPB, SNRPD1, SNRPD2, SNRPD3, SNRPE, SNRPF and SNRPG that assemble in a heptameric protein ring on the Sm site of the small nuclear RNA to form the core snRNP (Sm core) (PubMed:18984161). In the cytosol, the Sm proteins SNRPD1, SNRPD2, SNRPE, SNRPF and SNRPG (5Sm) are trapped in an inactive 6S pICln-Sm complex by the chaperone CLNS1A that controls the assembly of the core snRNP (PubMed:18984161). To assemble core snRNPs, the SMN complex accepts the trapped 5Sm proteins from CLNS1A (PubMed:18984161, PubMed:9323129). Binding of snRNA inside 5Sm ultimately triggers eviction of the SMN complex, thereby allowing binding of SNRPD3 and SNRPB to complete assembly of the core snRNP (PubMed:31799625). Within the SMN complex, GEMIN2 constrains the conformation of 5Sm, thereby promoting 5Sm binding to snRNA containing the snRNP code (a nonameric Sm site and a 3'-adjacent stem-loop), thus preventing progression of assembly until a cognate substrate is bound (PubMed:16314521, PubMed:21816274, PubMed:31799625).
+Subcellular Location	Nucleus; Gem; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWVPAESAVEELMPRLLPVEPCDLTEGFDPSVPPRTPQEYLRRVQIEAAQCPDVVVAQIDPKKLKRKQSVNISLSGCQPAPEGYSPTLQWQQQQVAQFSTVRQNVNKHRSHWKSQQLDSNVTMPKSEDEEGWKKFCLGEKLCADGAVGPATNESPGIDYVQIGFPPLLSIVSRMNQATVTSVLEYLSNWFGERDFTPELGRWLYALLACLEKPLLPEAHSLIRQLARRCSEVRLLVDSKDDERVPALNLLICLVSRYFDQRDLADEPS
+PTM	Acetylation:145;Methylation:54,74,125,251;Phosphorylation:11,19,48,81,166,171,250,280;SUMOylation:79,137;Ubiquitylation:79

@@ -1,0 +1,25 @@
+UniprotID	Q8TD46-1
+Accession	Q8TD46;B3KWZ9;E9PCM9;Q52LJ7;Q6IS95;Q6UW94;Q6WHB8;Q8TD44;Q8TD45;Q8TD52
+EntryName	MO2R1_HUMAN
+ProteinName	Cell surface glycoprotein CD200 receptor 1 (CD200 cell surface glycoprotein receptor) (Cell surface glycoprotein OX2 receptor 1)
+GeneName	CD200R1 CD200R CRTR2 MOX2R OX2R UNQ2522/PRO6015
+Length	325
+Function	Inhibitory receptor for the CD200/OX2 cell surface glycoprotein. Limits inflammation by inhibiting the expression of pro-inflammatory molecules including TNF-alpha, interferons, and inducible nitric oxide synthase (iNOS) in response to selected stimuli. Also binds to HHV-8 K14 viral CD200 homolog with identical affinity and kinetics as the host CD200.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCPWRTANLGLLLILTIFLVAASSSLCMDEKQITQNYSKVLAEVNTSWPVKMATNAVLCCPPIALRNLIIITWEIILRGQPSCTKAYKKETNETKETNCTDERITWVSRPDQNSDLQIRTVAITHDGYYRCIMVTPDGNFHRGYHLQVLVTPEVTLFQNRNRTAVCKAVAGKPAAHISWIPEGDCATKQEYWSNGTVTVKSTCHWEVHNVSTVTCHVSHLTGNKSLYIELLPVPGAKKSAKLYIPYIILTIIILTIVGFIWLLKVNGCRKYKLNKTESTPVVEEDEMQPYASYTEKNNPLYDTTNKVKASEALQSEVDTDLHTL
+PTM	Glycosylation:93,99,195;Methylation:86,173,201,265

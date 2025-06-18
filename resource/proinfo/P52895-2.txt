@@ -1,0 +1,25 @@
+UniprotID	P52895-2
+Accession	P52895;A8K2N9;B4DKR9;Q14133;Q5SR16;Q7M4N1;Q96A71
+EntryName	AK1C2_HUMAN
+ProteinName	Aldo-keto reductase family 1 member C2 (EC 1.-.-.-) (EC 1.1.1.112) (EC 1.1.1.209) (EC 1.1.1.53) (EC 1.1.1.62) (EC 1.3.1.20) (3-alpha-HSD3) (Chlordecone reductase homolog HAKRD) (Dihydrodiol dehydrogenase 2) (DD-2) (DD2) (Dihydrodiol dehydrogenase/bile acid-binding protein) (DD/BABP) (Type III 3-alpha-hydroxysteroid dehydrogenase) (EC 1.1.1.357)
+GeneName	AKR1C2 DDH2
+Length	139
+Function	Cytosolic aldo-keto reductase that catalyzes the NADH and NADPH-dependent reduction of ketosteroids to hydroxysteroids (PubMed:19218247). Most probably acts as a reductase in vivo since the oxidase activity measured in vitro is inhibited by physiological concentrations of NADPH (PubMed:14672942). Displays a broad positional specificity acting on positions 3, 17 and 20 of steroids and regulates the metabolism of hormones like estrogens and androgens (PubMed:10998348). Works in concert with the 5-alpha/5-beta-steroid reductases to convert steroid hormones into the 3-alpha/5-alpha and 3-alpha/5-beta-tetrahydrosteroids. Catalyzes the inactivation of the most potent androgen 5-alpha-dihydrotestosterone (5-alpha-DHT) to 5-alpha-androstane-3-alpha,17-beta-diol (3-alpha-diol) (PubMed:15929998, PubMed:17034817, PubMed:17442338, PubMed:8573067). Also specifically able to produce 17beta-hydroxy-5alpha-androstan-3-one/5alphaDHT (PubMed:10998348). May also reduce conjugated steroids such as 5alpha-dihydrotestosterone sulfate (PubMed:19218247). Displays affinity for bile acids (PubMed:8486699).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSKYQCVKLNDGHFMPVLGFGTYAPAEVPKSKALEAVKLAIEAGFHHIDSAHVYNNEEQVGLAIRSKIADGSVKREDIFYTSKLWSNSHRPELVRPALERSLKNLQLDYVDLYLIHFPVSVKEDIGILTWKKSPKHNS
+PTM	Acetylation:4,31,68,75,131,161,207,246,270;Methylation:68,104,179;Phosphorylation:24,162,216,217,221,232,251,289,290;SUMOylation:4,9,39,84,123,131,161,179,183,185,246,270;Ubiquitylation:4,9,31,33,68,75,155,161,179,183,185,201,207,209,246,270

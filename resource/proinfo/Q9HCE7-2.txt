@@ -1,0 +1,25 @@
+UniprotID	Q9HCE7-2
+Accession	Q9HCE7;A4D279;B7ZMB6;B9EGV3;O75853;Q547Q3;Q9UJT8
+EntryName	SMUF1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase SMURF1 (hSMURF1) (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase SMURF1) (SMAD ubiquitination regulatory factor 1) (SMAD-specific E3 ubiquitin-protein ligase 1)
+GeneName	SMURF1 KIAA1625
+Length	731
+Function	E3 ubiquitin-protein ligase that acts as a negative regulator of BMP signaling pathway. Mediates ubiquitination and degradation of SMAD1 and SMAD5, 2 receptor-regulated SMADs specific for the BMP pathway. Promotes ubiquitination and subsequent proteasomal degradation of TRAF family members and RHOA. Promotes ubiquitination and subsequent proteasomal degradation of MAVS (PubMed:23087404). Acts as an antagonist of TGF-beta signaling by ubiquitinating TGFBR1 and targeting it for degradation (PubMed:21791611). Plays a role in dendrite formation by melanocytes (PubMed:23999003).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNPGTRRNGSSIKIRLTVLCAKNLAKKDFFRLPDPFAKIVVDGSGQCHSTDTVKNTLDPKWNQHYDLYVGKTDSITISVWNHKKIHKKQGAGFLGCVRLLSNAISRLKDTGYQRLDLCKLNPSDTDAVRGQIVVSLQTRDRIGTGGSVVDCRGLLENEGTVYEDSGPGRPLSCFMEEPAPYTDSTGAAAGGGNCRFVESPSQDQRLQAQRLRNPDVRGSLQTPQNRPHGHQSPELPEGYEQRTTVQGQVYFLHTQTGVSTWHDPRIPRDLNSVNCDELGPLPPGWEVRSTVSGRIYFVDHNNRTTQFTDPRLHHIMNHQCQLKEPSQPLPLPSEGSLEDEELPAQRYERDLVQKLKVLRHELSLQQPQAGHCRIEVSREEIFEESYRQIMKMRPKDLKKRLMVKFRGEEGLDYGGVAREWLYLLCHEMLNPYYGLFQYSTDNIYMLQINPDSSINPDHLSYFHFVGRIMGLAVFHGHYINGGFTVPFYKQLLGKPIQLSDLESVDPELHKSLVWILENDITPVLDHTFCVEHNAFGRILQHELKPNGRNVPVTEENKKEYVRLYVNWRFMRGIEAQFLALQKGFNELIPQHLLKPFDQKELELIIGGLDKIDLNDWKSNTRLKHCVADSNIVRWFWQAVETFDEERRARLLQFVTGSTRVPLQGFKALQGSTGAAGPRLFTIHLIDANTDNLPKAHTCFNRIDIPPYESYEKLYEKLLTAVEETCGFAVE
+PTM	Methylation:27,61,521,571,609,621,721;Phosphorylation:145,148,200,233,390;SUMOylation:644;Ubiquitylation:23,89,350,418,621,693

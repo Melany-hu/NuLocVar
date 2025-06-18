@@ -1,0 +1,25 @@
+UniprotID	H3BUB6
+Accession	H3BUB6
+EntryName	H3BUB6_HUMAN
+ProteinName	Secretory carrier-associated membrane protein (Secretory carrier membrane protein)
+GeneName	SCAMP2
+Length	254
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAFDTNPFADPVDVNPFQDPSVTQLTNAPQGGLAEFNPFSETNAATTVPVTQLPGSSQPAVLQPSVEPTQPTPQLLLRQASKFPPAQFLAVSELSERQMLLGGESILRDSYMRKLPKAVVSAAQAGLLRQQEELDRKAAELERKERELQNTVANLHVRQNNWPPLPSWCPVKPCFYQDFSTEIPADYQRICKMLYYLWMLHSVTLFLNLLACLAWFSGNSSKGVDFGLSILWFLIFTPCAFLCWYRPIYKAFR
+PTM	

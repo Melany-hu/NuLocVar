@@ -1,0 +1,25 @@
+UniprotID	P49821-2
+Accession	P49821;O60924;O60940;Q16104;Q6IBR3;Q96BF8;Q96HS7
+EntryName	NDUV1_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (NDUFV1) (EC 7.1.1.2) (Complex I-51kD) (CI-51kD) (NADH dehydrogenase flavoprotein 1) (NADH-ubiquinone oxidoreductase 51 kDa subunit)
+GeneName	NDUFV1 UQOR1
+Length	455
+Function	Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) which catalyzes electron transfer from NADH through the respiratory chain, using ubiquinone as an electron acceptor (PubMed:28844695). Part of the peripheral arm of the enzyme, where the electrons from NADH are accepted by flavin mononucleotide (FMN) and then passed along a chain of iron-sulfur clusters by electron tunnelling to the final acceptor ubiquinone (PubMed:28844695). Contains FMN, which is the initial electron acceptor as well as one iron-sulfur cluster (PubMed:28844695).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLATRRLLGWSLPARTAPKKTSFGSLKDEDRIFTNLYGRHDWRLKGSLSRGDWYKTKEILLKGPDWILGEIKTSGLRGRGGAGFPTGLKWSFMNKPSDGRPKYLVVNADEGEPGTCKDREILRHDPHKLLEGCLVGGRAMGARAAYIYIRGEFYNEASNLQVAIREAYEAGLIGKNACGSGYDFDVFVVRGAGAYICGEETALIESIEGKQGKPRLKPPFPADVGVFGCPTTVANVETVAVSPTICRRGGTWFAGFGRERNSGTKLFNISGHVNHPCTVEEEMSVPLKELIEKHAGGVTGGWDNLLAVIPGGSSTPLIPKSVCETVLMDFDALVQAQTGLGTAAVIVMDRSTDIVKAIARLIEFYKHESCGQCTPCREGVDWMNKVMARFVRGDARPAEIDSLWEISKQIEGHTICALGDGAAWPVQGLIRHFRPELEERMQRFAQQHQARQAAS
+PTM	Acetylation:29,81,104,137,365,375;Methylation:40,71,81,88,184,219,257,274,297,302,365;Phosphorylation:11,34,46,374;SUMOylation:111,126,274;Ubiquitylation:66,71,81,126,365

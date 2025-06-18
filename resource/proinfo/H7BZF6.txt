@@ -1,0 +1,25 @@
+UniprotID	H7BZF6
+Accession	H7BZF6
+EntryName	H7BZF6_HUMAN
+ProteinName	BCS1 homolog, ubiquinol-cytochrome c reductase complex chaperone
+GeneName	BCS1L
+Length	121
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIPYRRGYLLYGPPGCGKSSFITALAGELEHSICLLSLTDSSLSDDRLNHLLSVAPQQSLVLLEDVDAAFLSRDLAVENPVKYQGLGRLTFSGLLNALDGVASTEARIVFMTTNHVDRHLP
+PTM	

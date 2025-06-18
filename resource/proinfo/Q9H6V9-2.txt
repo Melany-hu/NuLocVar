@@ -1,0 +1,25 @@
+UniprotID	Q9H6V9-2
+Accession	Q9H6V9;B7ZA47;B7ZAJ5;D6W530;E7ESN0;Q53T37;Q53T58
+EntryName	LDAH_HUMAN
+ProteinName	Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase) (hLDAH)
+GeneName	LDAH C2orf43
+Length	331
+Function	Probable serine lipid hydrolase associated with lipid droplets (By similarity). Has low cholesterol esterase activity (By similarity). Appears to lack triglyceride lipase activity (By similarity). Involved in cholesterol and triglyceride homeostasis; has opposing effects, stimulating cellular triglyceride accumulation and cellular cholesterol release (PubMed:24357060, PubMed:28578400). Acts antagonistically with PNPLA2/ATGL in regulation of cellular lipid stores (PubMed:28578400). May regulate triglyceride accumulation indirectly through stimulation of PNPLA2/ATGL ubiquitination and proteasomal degradation (PubMed:28578400). Promotes microtubule-dependent lipid droplet fusion (PubMed:28578400). Highly expressed in macrophage-rich areas in atherosclerotic lesions, suggesting that it could promote cholesterol ester turnover in macrophages (By similarity).
+Subcellular Location	Lipid droplet; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSELKEEIPVHEEFILCGGAETQVLKCGPWTDLFHDQSVKRPKLLIFIIPGERKSLGNPGFSAFYVPFAKALYSLTNRRFPVWTISHAGHALAPKDKKILTTSEDSNAQEIKDIYGLNGQIEHKLAFLRTHVPKDMKLVLIGHSIGSYFTLQMLKRVPELPVIRAFLLFPTIERMSESPNGRIATPLLCWFRYVLYVTGYLLLKPCPETIKSLLIRRGLQVMNLENEFSPLNILEPFCLANAAYLGGQEMMEVVKRDDETIKEHLCKLTFYYGTIDPWCPKEYYEDIKKDFPEGDIRLCEKNIPHAFITHFNQEMADMIADSLKDDLSKM
+PTM	Acetylation:257;Methylation:27,107,199,206,250,257;Phosphorylation:96,98,101

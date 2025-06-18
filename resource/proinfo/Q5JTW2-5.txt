@@ -1,0 +1,25 @@
+UniprotID	Q5JTW2-5
+Accession	Q5JTW2;A1A4S8;E9PHX5;Q5BJE3;Q5JTW0;Q5JTW1;Q9H9N3
+EntryName	CEP78_HUMAN
+ProteinName	Centrosomal protein of 78 kDa (Cep78)
+GeneName	CEP78 C9orf81
+Length	706
+Function	Centriole wall protein that localizes to mature centrioles and regulates centriole and cilia biogenesis (PubMed:27246242, PubMed:27588451, PubMed:28242748, PubMed:34259627). Involved in centrosome duplication: required for efficient PLK4 centrosomal localization and PLK4-induced overduplication of centrioles (PubMed:27246242). Involved in cilium biogenesis and controls cilium length (PubMed:27588451). Acts as a regulator of protein stability by preventing ubiquitination of centrosomal proteins, such as CCP110 and tektins (PubMed:28242748, PubMed:34259627). Associates with the EDVP complex, preventing ubiquitination and degradation of CCP110 (PubMed:28242748, PubMed:34259627). Promotes deubiquitination of tektin proteins (TEKT1, TEKT2, TEK3, TEKT4 and TEKT5) via its interaction with USP16 (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIDSVKLRRDSAADFFSHYEYLCALQNSVPLPAVRACLREGVLDFNADRLRGVDWAPLLSTLKINKDLPLVSIKSFFQPWLGDTGSDMNKFCRSRVPAIRYKDVTFQLCKALKGCLSISSVLKNLELNGLILRERDLTILAKGLNKSASLVHLSLANCPIGDGGLEIICQGIKSSITLKTVNFTGCNLTWQGADHMAKILKYQTMRRHEETWAESLRYRRPDLDCMAGLRRITLNCNTLIGDLGACAFADSLSEDLWLRALDLQQCGLTNEGAKALLEALETNTTLVVLDIRKNPLIDHSMMKAVIKKVLQNGRSAKSEYQWITSPSVKEPSKTAKQKRRTIILGSGHKGKATIRIVGLATKKPVSSGRKHSLGKEYYAPAPLPPGVSGFLPWRTAERAKRHRGFPLIKTRDICNQLQQPGFPVTVTVESPSSSEVEEVDDSSESVHEVPEKTSIEQEALQEKLEECLKQLKEERVIRLKVDKRVSELEHENAQLRNINFSLSEALHAQSLTNMILDDEGVLGSIENSFQKFHAFLDLLKDAGLGQLATMAGIDQSDFQLLGHPQMTSTVSNPPKEEKKALEDEKPEPKQNALGQMQNIQFQKITGDARIPLPLDSFPVPVSTPEGLGTSSNNLGVPATEQRQESFEGFIARMCSPSPDATSGTGSQRKEEELSRNSRSSSEKKTKTGEYTKKHSDKQHPGKDLHS
+PTM	Acetylation:361;Methylation:49,142,179,307,399,462,471,539;Phosphorylation:318,320,324,325,327,332,334,346,371,615,621,622,644,654,656,673;SUMOylation:90,303,317,329,349,374,408,574,584;Ubiquitylation:6,63,90,102,201,317,408,584,602

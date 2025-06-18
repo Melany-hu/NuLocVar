@@ -1,0 +1,25 @@
+UniprotID	O95843-2
+Accession	O95843;O95844;Q9UNM0
+EntryName	GUC1C_HUMAN
+ProteinName	Guanylyl cyclase-activating protein 3 (GCAP 3) (Guanylate cyclase activator 1C)
+GeneName	GUCA1C GCAP3
+Length	196
+Function	Stimulates guanylyl cyclase 1 (GC1) and GC2 when free calcium ions concentration is low and inhibits guanylyl cyclases when free calcium ions concentration is elevated. This Ca(2+)-sensitive regulation of guanylyl cyclase (GC) is a key event in recovery of the dark state of rod photoreceptors following light exposure.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNGKSIAGDQKAVPTQETHVWYRTFMMEYPSGLQTLHEFKTLLGLQGLNQKANKHIDQVYNTFDTNKDGFVDFLEFIAAVNLIMQEKMEQKLKWYFKLYDADGNGSIDKNELLDMFMAVQALNGQQTLSPEEFINLVFHKIDINNDGNGATLYWITFPTKGIDFRRIYQWHGKRSGSPGDCSQELRLLQCAESNL
+PTM	Phosphorylation:63

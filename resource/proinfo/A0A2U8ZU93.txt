@@ -1,0 +1,25 @@
+UniprotID	A0A2U8ZU93
+Accession	A0A2U8ZU93
+EntryName	A0A2U8ZU93_HUMAN
+ProteinName	BCL2/adenovirus E1B interacting protein 3
+GeneName	BNIP3
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQNGAPGMQEESLQAHLARRHHKIPTELLKQIPIALERKTAHSLRKMILKEGKKLKAS
+PTM	

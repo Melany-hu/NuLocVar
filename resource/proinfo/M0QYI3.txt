@@ -1,0 +1,25 @@
+UniprotID	M0QYI3
+Accession	M0QYI3
+EntryName	M0QYI3_HUMAN
+ProteinName	F-box protein 17
+GeneName	FBXO17
+Length	109
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IVDGPTVWLLQLARDRSAEGRALYAVAQRCLPSNEDKEEFPLCALARYCLRAPFGRNLIFNSCGEQGFRGWEVEHGGNGWAIEKNLTPVPGAPSQTCFVTSFEEEVSPY
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B2LYL6
+Accession	B2LYL6
+EntryName	B2LYL6_HUMAN
+ProteinName	Apolipoprotein B mRNA editing enzyme
+GeneName	APOBEC3G
+Length	37
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FQHCWSKFVYSQRELFEPWNNLPKYYILLHIMLGEIL
+PTM	

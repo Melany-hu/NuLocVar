@@ -1,0 +1,25 @@
+UniprotID	Q6ZNQ3-2
+Accession	Q6ZNQ3
+EntryName	LRC69_HUMAN
+ProteinName	Leucine-rich repeat-containing protein 69
+GeneName	LRRC69
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTERLLIKALSGGKNTKIITLNGKKMTKMPSALGKLPGLKTLVLQNNLIPKVCPELCNLTQFQDLKLREFYCEGNPLFLQQPVISTQQENVWSLQEITSRFVMNQLAENNPFLMDDIERYPQVRSMISQGKTCAICGQYFITVWLECVRFVPPPKDWKISKNLKLVPLQVLICSYKCFTQRDPNLFGIAQV
+PTM	Methylation:8,51,173,222;Phosphorylation:2

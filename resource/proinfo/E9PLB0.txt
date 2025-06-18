@@ -1,0 +1,25 @@
+UniprotID	E9PLB0
+Accession	E9PLB0
+EntryName	E9PLB0_HUMAN
+ProteinName	RNA binding motif protein 4B
+GeneName	RBM4B
+Length	143
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKLFIGNLPREATEQEIRSLFEQYGKVLECDIIKNYGFVHIEDKTAAEDAIRNLHHYKLHGVNINVEASKNKSKASTKLHVGNISPTCTNQELRAKFEEYGPVIECDIVKDYAFVHMERAEDAVEAIRGLDNTEFQGRIIAD
+PTM	

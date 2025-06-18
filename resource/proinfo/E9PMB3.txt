@@ -1,0 +1,25 @@
+UniprotID	E9PMB3
+Accession	E9PMB3
+EntryName	E9PMB3_HUMAN
+ProteinName	von Willebrand factor A domain containing 5B1
+GeneName	VWA5B1
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGLLNWITGAALPLTASDVTSCVSGYALGLTASLTYGNLEAQPFQGLFVYPLDECTTVIGFEAVIADRVVTVQIKDKAKLESGHFDASHVRSPTVTGDLGRGFGADPVRGQPGDHCPHGECHHLHQHLLGAPNAAQRGCEGPSACCLCPNRAPVLHQEHWHLQPTGPGQRQALLRCLGPGLLE
+PTM	

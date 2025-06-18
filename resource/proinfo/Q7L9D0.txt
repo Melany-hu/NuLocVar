@@ -1,0 +1,25 @@
+UniprotID	Q7L9D0
+Accession	Q7L9D0
+EntryName	Q7L9D0_HUMAN
+ProteinName	SLC22A23 protein (cDNA: FLJ21380 fis, clone COL03329) (cDNA: FLJ22174 fis, clone HRC00767)
+GeneName	SLC22A23
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSRRGGPTALLPGQPEEEEAGCLFGGSFSLGIPEAVEQHLYEMLPEQQHFPVGTAPGNPVPSEQGGRTHPSLIRIWARRAQQGRLLRLPTSQHRLSGLNPSVLFPSWLIGRPFAGTHCFNLTLPPPATLLHTPLRSASLPCQPFNKSYAQM
+PTM	

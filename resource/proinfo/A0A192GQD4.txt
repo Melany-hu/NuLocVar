@@ -1,0 +1,25 @@
+UniprotID	A0A192GQD4
+Accession	A0A192GQD4
+EntryName	A0A192GQD4_HUMAN
+ProteinName	Myeloid differentiation primary response 88
+GeneName	MYD88
+Length	113
+Function	Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response. Increases IL-8 transcription. Involved in IL-18-mediated signaling pathway. Activates IRF1 resulting in its rapid migration into the nucleus to mediate an efficient induction of IFN-beta, NOS2/INOS, and IL12A genes. Upon TLR8 activation by GU-rich single-stranded RNA (GU-rich RNA) derived from viruses, induces IL1B release through NLRP3 inflammasome activation. MyD88-mediated signaling in intestinal epithelial cells is crucial for maintenance of gut homeostasis and controls the expression of the antimicrobial lectin REG3G in the small intestine.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EDCQKYILKQQQEEAEKPLQVAAVDSSVPRTAELAGITTLDDPLGHMPERFDAFICYCPSDIQFVQEMIRQLEQTNYRLKLCVSDRDVLPGTCVWSIASELIEKRLARRPRGG
+PTM	

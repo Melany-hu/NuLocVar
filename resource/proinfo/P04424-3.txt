@@ -1,0 +1,25 @@
+UniprotID	P04424-3
+Accession	P04424;E7EMI0;E9PE48;Q6LDS5;Q96HS2
+EntryName	ARLY_HUMAN
+ProteinName	Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)
+GeneName	ASL
+Length	438
+Function	Catalyzes the reversible cleavage of L-argininosuccinate to fumarate and L-arginine, an intermediate step reaction in the urea cycle mostly providing for hepatic nitrogen detoxification into excretable urea as well as de novo L-arginine synthesis in nonhepatic tissues (PubMed:11747432, PubMed:11747433, PubMed:22081021, PubMed:2263616, PubMed:9045711). Essential regulator of intracellular and extracellular L-arginine pools. As part of citrulline-nitric oxide cycle, forms tissue-specific multiprotein complexes with argininosuccinate synthase ASS1, transport protein SLC7A1 and nitric oxide synthase NOS1, NOS2 or NOS3, allowing for cell-autonomous L-arginine synthesis while channeling extracellular L-arginine to nitric oxide synthesis pathway (PubMed:22081021).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASESGKLWGGRFVGAVDPIMEKFNASIAYDRHLWEVDVQGSKAYSRGLEKAGLLTKAEMDQILHGLDKVAEEWAQGTFKLNSNDEDIHTANERRLKELIGATAGKLHTGRSRNDQVVTDLRLWMRQTCSTLSGLLWELIRTMVDRAEAERDVLFPGYTHLQRAQPIRWSHWILSGAIAGNPLGVDRELLRAELNFGAITLNSMDATSERDFVAEFLFWASLCMTHLSRMAEDLILYCTKEFSFVQLSDAYSTGSSLMPQKKNPDSLELIRSKAGRVFGRCAGLLMTLKGLPSTYNKDLQEDKEAVFEVSDTMSAVLQVATGVISTLQIHQENMGQALSPDMLATDLAYYLVRKGMPFRQAHEASGKAVFMAETKGVALNQLSLQELQTISPLFSGDVICVWDYGHSVEQYGALGGTARSSVDWQIRQVRALLQAQQA
+PTM	Acetylation:7;Methylation:23,57;Phosphorylation:5,27,30,83,90,103,119,292,446,447;SUMOylation:7,57,97;Ubiquitylation:23,43,51,97,106,323,393

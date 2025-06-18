@@ -1,0 +1,25 @@
+UniprotID	Q96QF0-3
+Accession	Q96QF0;B7WPJ6;Q6PCE4;Q96A24;Q96QE6;Q96QE7;Q96QE8;Q96QE9;Q96QF1;Q9H673
+EntryName	RAB3I_HUMAN
+ProteinName	Rab-3A-interacting protein (Rab3A-interacting protein) (Rabin-3) (Rabin8) (SSX2-interacting protein)
+GeneName	RAB3IP RABIN8
+Length	395
+Function	Guanine nucleotide exchange factor (GEF) which may activate RAB8A and RAB8B (PubMed:12221131, PubMed:26824392). Promotes the exchange of GDP to GTP, converting inactive GDP-bound Rab proteins into their active GTP-bound form (PubMed:12221131, PubMed:26824392). Mediates the release of GDP from RAB8A and RAB8B but not from RAB3A or RAB5 (PubMed:20937701, PubMed:26824392). Modulates actin organization and promotes polarized transport of RAB8A-specific vesicles to the cell surface (PubMed:12221131). Together with RAB11A, RAB8A, the exocyst complex, PARD3, PRKCI, ANXA2, CDC42 and DNMBP promotes transcytosis of PODXL to the apical membrane initiation sites (AMIS), apical surface formation and lumenogenesis (PubMed:20890297). Part of the ciliary targeting complex containing Rab11, ASAP1, RAB3IP and RAB11FIP3 and ARF4 that promotes RAB3IP preciliary vesicle trafficking to mother centriole and ciliogenesis initiation (PubMed:25673879, PubMed:31204173).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton; Cell projection; Lamellipodium; Vesicle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANDPLEGFHEVNLASPTSPDLLGVYESGTQEQTTSPSVIYRPHPSALSSVPIQANALDVSELPTQPVYSSPRRLNCAEISSISFHVTDPAPCSTSGVTAGLTKLTTRKDNYNAEREFLQGATITEACDGSDDIFGLSTDSLSRLRSPSVLEVREKGYERLKEELAKAQRELKLKDEECERLSKVRDQLGQELEELTASLFEEAHKMVREANIKQATAEKQLKEAQGKIDVLQAEVAALKTLVLSSSPTSPTQEPLPGGKTPFKKGHTRNKSTSSAMSGSHQDLSVIQPIVKDCKEADLSLYNEFRLWKDEPTMDRTCPFLDKIYQEDIFPCLTFSKSELASAVLEAVENNTLSIEPVGLQPIRFVKASAVECGGPKSLLYVTFLHTFDTFSRDS
+PTM	Acetylation:236;Methylation:183,230;Phosphorylation:87,154,157,159,163,165,257,261,262,263,265,266,268,277,284,288,289,290,291,294,296,301,416;Ubiquitylation:311

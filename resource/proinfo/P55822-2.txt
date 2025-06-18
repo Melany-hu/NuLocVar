@@ -1,0 +1,25 @@
+UniprotID	P55822-2
+Accession	P55822;A6ND59;D3DSI2;Q9BRB8
+EntryName	SH3BG_HUMAN
+ProteinName	SH3 domain-binding glutamic acid-rich protein (SH3BGR protein) (21-glutamic acid-rich protein) (21-GARP)
+GeneName	SH3BGR
+Length	128
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRENVPGEKKPQNGIPLPPQIFNEEQYCGDFDSFFSAKEENIIYSFLGLAPPPDSKGSEKAEEGGETEAQKEGSEDVGNLPEAQEKNEEEGETATEETEEIAMEGAEGEAEEEEETAEGEEPGEDEDS
+PTM	Methylation:81

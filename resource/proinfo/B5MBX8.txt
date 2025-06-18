@@ -1,0 +1,25 @@
+UniprotID	B5MBX8
+Accession	B5MBX8
+EntryName	B5MBX8_HUMAN
+ProteinName	Transmembrane protein 18
+GeneName	TMEM18
+Length	143
+Function	
+Subcellular Location	Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	134...139;136...141;133...138
+validnes_region	
+nesbase_region	
+Sequence	MGTRWGLGRKPCSPHLRASGLLQTDWTEPWLMGLATFHALCVLLTCLSSRSYRLQIGHFLCLVILVYCAEYINEAAAMNWRLFSKYQYFDSRGMFISIVFSAPLLVNAMIIVVMWVWKTLNVMTDLKNAQERRKEKKRRRKED
+PTM	

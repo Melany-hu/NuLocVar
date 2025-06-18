@@ -1,0 +1,25 @@
+UniprotID	Q969H6-2
+Accession	Q969H6;A6NL80;Q53FS5;Q9Y2Q6
+EntryName	POP5_HUMAN
+ProteinName	Ribonuclease P/MRP protein subunit POP5 (hPop5)
+GeneName	POP5 AD-008 HSPC004 x0003
+Length	113
+Function	Component of ribonuclease P, a protein complex that generates mature tRNA molecules by cleaving their 5'-ends (PubMed:11413139, PubMed:30454648). Also a component of the MRP ribonuclease complex, which cleaves pre-rRNA sequences (PubMed:28115465).
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRFKHRYLLCELVSDDPRCRLSLDDRVLSSLVRDTIARVHGTFGAAACSIGFAGTIRTCQKFLIQYNRRQLLILLQNCTDEGEREAIQKSVTRSCLLEEEEESGEEAAEAME
+PTM	Methylation:90,140;Phosphorylation:8,154;Ubiquitylation:112,140

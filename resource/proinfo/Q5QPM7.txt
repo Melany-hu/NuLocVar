@@ -1,0 +1,25 @@
+UniprotID	Q5QPM7
+Accession	Q5QPM7
+EntryName	Q5QPM7_HUMAN
+ProteinName	Proteasome inhibitor PI31 subunit
+GeneName	PSMF1
+Length	263
+Function	Plays an important role in control of proteasome function. Inhibits the hydrolysis of protein and peptide substrates by the 20S proteasome. Also inhibits the activation of the proteasome by the proteasome regulatory proteins PA700 and PA28.
+Subcellular Location	Cytoplasm; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLEVLFASAAPAITCRQDALVCFLHWEVVTHGYFGLGVGDQPGPNDKKSELLPAGWNNNKDLYVLRYEYKDGSRKLLVKAITVESSMILNVLEYGSQQVADLTLNLDDYIDAEHLGDFHRTYKNSEELRSRIVSGIITPIHEQWEKANVSSPHREFPPATAREVDPLRIPPHHPHTSRQPPWCDPLGPFVVGGEDLDPFGPRRGGMIVDPLRSGFPRALIDPSSGLPNRLPPGAVPPGARFDPFGPIGTSPPGPRPDRRGQ
+PTM	

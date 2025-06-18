@@ -1,0 +1,25 @@
+UniprotID	H0YHF4
+Accession	H0YHF4
+EntryName	H0YHF4_HUMAN
+ProteinName	LETM1 domain containing 1
+GeneName	LETMD1
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLALRECFSNHPLGMNQLQALHVKALSRAMLLTSYLPPPLLRHRLKTHTTVIHQLDKALAKLGIGQLTAQEVKSKLSCLSCCTTWSCSPPTTLGQGAE
+PTM	

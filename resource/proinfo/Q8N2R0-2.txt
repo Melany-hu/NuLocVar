@@ -1,0 +1,25 @@
+UniprotID	Q8N2R0-2
+Accession	Q8N2R0;A8K626;B4E3B7;Q96AM6;Q96LB6;Q96LB7
+EntryName	OSR2_HUMAN
+ProteinName	Protein odd-skipped-related 2
+GeneName	OSR2
+Length	276
+Function	May be involved in the development of the mandibular molar tooth germ at the bud stage.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSKALPAPIPLHPSLQLTNYSFLQAVNTFPATVDHLQGLYGLSAVQTMHMNHWTLGYPNVHEITRSTITEMAAAQGLVDARFPFPALPFTTHLFHPKQGAIAHVLPALHKDRPRFDFANLAVAATQEDPPKMGDLSKLSPGLGSPISGLSKLTPDRKPSRGRLPSKTKKEFICKFCGRHFTKSYNLLIHERTHTDERPYTCDICHKAFRRQDHLRDHRYIHSKEKPFKCQECGKGFCQSRTLAVHKTLHMQTSSPTAASSAAKCSGETVICGGTA
+PTM	Methylation:138,282;Phosphorylation:137,140,145,151,166;SUMOylation:132,138,158,183,229

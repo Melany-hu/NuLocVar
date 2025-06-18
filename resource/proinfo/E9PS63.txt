@@ -1,0 +1,25 @@
+UniprotID	E9PS63
+Accession	E9PS63
+EntryName	E9PS63_HUMAN
+ProteinName	RAB GTPase activating protein 1 like
+GeneName	RABGAP1L
+Length	190
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEEISIMVAYDAHVFSQLHDEDFLTSLVAISKPRSMVPTKKLKKYEKEYQTMRESQLQQEDPMDRYKRENRRLQEASMRLEQENDDLAHELVTSKIALRNDLDQAEDKADVLNKELLLTKQRLVETEEEKRKQEEETAQLKEVFRKQLEKAEYEIKKTTAIIAEYKQICSQLSTRLEKQQAASKEELEV
+PTM	

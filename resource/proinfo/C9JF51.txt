@@ -1,0 +1,25 @@
+UniprotID	C9JF51
+Accession	C9JF51
+EntryName	C9JF51_HUMAN
+ProteinName	Protein FAM136A
+GeneName	FAM136A
+Length	163
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKSLERENIRKMQVAGLGPNQDPLLSGWVPGPSLSHHATPCTAAASPQTGCGRPWGRRGGLGQDFGSFGGSDEIRVPLPCARLFSAPSSPGQERPRRQGLMFRCSASCCEDSQASMKQVHQCIERCHVPLAQAQALVTSELEKFQDRLARCTMHCNDKAKDS
+PTM	

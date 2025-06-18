@@ -1,0 +1,25 @@
+UniprotID	P46977-2
+Accession	P46977;B4DJ24;E9PNQ1;Q86XU9;Q8TE35;Q8WUB4
+EntryName	STT3A_HUMAN
+ProteinName	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A (Oligosaccharyl transferase subunit STT3A) (STT3-A) (EC 2.4.99.18) (B5) (Integral membrane protein 1) (Transmembrane protein TMC)
+GeneName	STT3A ITM1 TMC
+Length	613
+Function	Catalytic subunit of the oligosaccharyl transferase (OST) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol-pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation (PubMed:19167329, PubMed:31296534, PubMed:31831667, PubMed:34653363, PubMed:38670073, PubMed:39509507). N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER) (PubMed:19167329, PubMed:31296534, PubMed:31831667, PubMed:34653363, PubMed:38670073, PubMed:39509507). All subunits are required for a maximal enzyme activity (PubMed:19167329, PubMed:31831667, PubMed:34653363). This subunit contains the active site and the acceptor peptide and donor lipid-linked oligosaccharide (LLO) binding pockets (PubMed:19167329). STT3A is present in the majority of OST complexes and mediates cotranslational N-glycosylation of most sites on target proteins, while STT3B-containing complexes are required for efficient post-translational glycosylation and mediate glycosylation of sites that have been skipped by STT3A (PubMed:19167329, PubMed:38670073, PubMed:39509507). STT3A-containing OST-A complex is also required to prevent hyperglycosylation of some target proteins by preventing glycosylation of facultative sites before folding of target proteins is completed (PubMed:39509507).
+Subcellular Location	Endoplasmic reticulum; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITSAAIYHVLHFFHITIDIRNVCVFLAPLFSSFTTIVTYHLTKELKDAGAGLLAAAMIAVVPGYISRSVAGSYDNEGIAIFCMLLTYYMWIKAVKTGSICWAAKCALAYFYMVSSWGGYVFLINLIPLHVLVLMLTGRFSHRIYVAYCTVYCLGTILSMQISFVGFQPVLSSEHMAAFGVFGLCQIHAFVDYLRSKLNPQQFEVLFRSVISLVGFVLLTVGALLMLTGKISPWTGRFYSLLDPSYAKNNIPIIASVSEHQPTTWSSYYFDLQLLVFMFPVGLYYCFSNLSDARIFIIMYGVTSMYFSAVMVRLMLVLAPVMCILSGIGVSQVLSTYMKNLDISRPDKKSKKQQDSTYPIKNEVASGMILVMAFFLITYTFHSTWVTSEAYSSPSIVLSARGGDGSRIIFDDFREAYYWLRHNTPEDAKVMSWWDYGYQITAMANRTILVDNNTWNNTHISRVGQAMASTEEKAYEIMRELDVSYVLVIFGGLTGYSSDDINKFLWMVRIGGSTDTGKHIKENDYYTPTGEFRVDREGSPVLLNCLMYKMCYYRFGQVYTEAKRPPGFDRVRNAEIGNKDFELDVLEEAYTTEHWLVRIYKVKDLDNRGLSRT
+PTM	Acetylation:3,13,67;Glycosylation:537,544,545,548,549;Methylation:185,565,595;Phosphorylation:78,524,528,533,562,567;Ubiquitylation:3,13,67,188,289,440,441,444,521,565,610,613,641,655,671

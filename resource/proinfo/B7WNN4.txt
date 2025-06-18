@@ -1,0 +1,25 @@
+UniprotID	B7WNN4
+Accession	B7WNN4
+EntryName	B7WNN4_HUMAN
+ProteinName	Sirtuin 3
+GeneName	SIRT3
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFWGWRAAAALRLWGRVVERVEAGGGVGPFQACGCRLVLGGRDDADVMADRVPRCPVCTGVVKPDIVFFGEPLPQRFLLHVVDFPMADLLLILGTSLEVCQQACAGRRLEGRGREGYRSHLMGPSRAGATLGR
+PTM	

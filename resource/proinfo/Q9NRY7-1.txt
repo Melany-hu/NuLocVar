@@ -1,0 +1,25 @@
+UniprotID	Q9NRY7-1
+Accession	Q9NRY7;B4DXC3;J3KR76;Q0VAQ1;Q6NSW9;Q7Z4L7
+EntryName	PLS2_HUMAN
+ProteinName	Phospholipid scramblase 2 (PL scramblase 2) (Ca(2+)-dependent phospholipid scramblase 2)
+GeneName	PLSCR2
+Length	224
+Function	May catalyze calcium-induced ATP-independent rapid bidirectional and non-specific movement of phospholipids (lipid scrambling or lipid flip-flop) between the inner and outer leaflet of the plasma membrane.
+Subcellular Location	Membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAPPPPLNCPPGLEYLSQIDMILIHQQIELLEVLFSFESSNMYEIKNSFGQRIYFAAEDTNFCIRNCCGRSRPFTLRITDNVGREVITLERPLRCNCCCCPCCLQEIEIQAPPGVPVGYVTQTWHPCLTKFTIKNQKREDVLKISGPCIVCSCIAGVDFEITSLDEQIVVGRISKHWSGFLREAFTDADNFGIQFPRDLDVKMKAVMIGACFLIDYMFFERTR
+PTM	Methylation:217,276;Phosphorylation:149;Ubiquitylation:120

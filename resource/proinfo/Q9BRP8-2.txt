@@ -1,0 +1,25 @@
+UniprotID	Q9BRP8-2
+Accession	Q9BRP8;B6ZDM5;Q8IXJ8;Q8N8E7
+EntryName	PYM1_HUMAN
+ProteinName	Partner of Y14 and mago (PYM homolog 1 exon junction complex-associated factor) (Protein wibg homolog)
+GeneName	PYM1 PYM WIBG
+Length	203
+Function	Key regulator of the exon junction complex (EJC), a multiprotein complex that associates immediately upstream of the exon-exon junction on mRNAs and serves as a positional landmark for the intron exon structure of genes and directs post-transcriptional processes in the cytoplasm such as mRNA export, nonsense-mediated mRNA decay (NMD) or translation. Acts as an EJC disassembly factor, allowing translation-dependent EJC removal and recycling by disrupting mature EJC from spliced mRNAs. Its association with the 40S ribosomal subunit probably prevents a translation-independent disassembly of the EJC from spliced mRNAs, by restricting its activity to mRNAs that have been translated. Interferes with NMD and enhances translation of spliced mRNAs, probably by antagonizing EJC functions. May bind RNA; the relevance of RNA-binding remains unclear in vivo, RNA-binding was detected by PubMed:14968132, while PubMed:19410547 did not detect RNA-binding activity independently of the EJC.
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPYVTDETGGKYIASTQRPDGTWRKQRRVKEGYVPQEEVPVYENKYVKFFKSKPELPPGLSPEATAPVTPSRPEGGEPGLSKTAKRNLKRKEKRRQQQEKGEAEALSRTLDKVSLEETAQLPSAPQGSRAAPTAASDQPDSAATTEKAKKIKNLKKKLRQVEELQQRIQAGEVSQPSKEQLEKLARRRALEEELEDLELGL
+PTM	Acetylation:33,186;Methylation:186;Phosphorylation:6,12,25,45,55,64,68,72,74,84,112,117,121,139,148;SUMOylation:56;Ubiquitylation:115

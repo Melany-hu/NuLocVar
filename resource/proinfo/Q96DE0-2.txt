@@ -1,0 +1,25 @@
+UniprotID	Q96DE0-2
+Accession	Q96DE0;B4E3B4;E9PED4;F5GYJ1;Q96N82
+EntryName	NUD16_HUMAN
+ProteinName	U8 snoRNA-decapping enzyme (EC 3.6.1.62) (IDP phosphatase) (IDPase) (EC 3.6.1.64) (Inosine diphosphate phosphatase) (Nucleoside diphosphate-linked moiety X motif 16) (Nudix motif 16) (Nudix hydrolase 16) (U8 snoRNA-binding protein H29K) (m7GpppN-mRNA hydrolase)
+GeneName	NUDT16
+Length	194
+Function	RNA-binding and decapping enzyme that catalyzes the cleavage of the cap structure of snoRNAs and mRNAs in a metal-dependent manner. Part of the U8 snoRNP complex that is required for the accumulation of mature 5.8S and 28S rRNA. Has diphosphatase activity and removes m7G and/or m227G caps from U8 snoRNA and leaves a 5'monophosphate on the RNA. Also catalyzes the cleavage of the cap structure on mRNAs. Does not hydrolyze cap analog structures like 7-methylguanosine nucleoside triphosphate (m7GpppG). Also hydrolysis m7G- and m227G U3-capped RNAs but with less efficiencies. Has broad substrate specificity with manganese or cobalt as cofactor and can act on various RNA species. Binds to the U8 snoRNA; metal is not required for RNA-binding. May play a role in the regulation of snoRNAs and mRNAs degradation. Also acts as a phosphatase; hydrolyzes the non-canonical purine nucleotides inosine diphosphate (IDP) and deoxyinosine diphosphate (dITP) as well as guanosine diphosphate (GDP), deoxyguanosine diphosphate (dGDP), xanthine diphosphate (XDP), inosine triphosphate (ITP) and deoxyinosine triphosphate (ITP) to their respective monophosphate derivatives and does not distinguish between the deoxy- and ribose forms (PubMed:20385596, PubMed:26121039). The order of activity with different substrates is IDP > dIDP >> GDP = dGDP > XDP = ITP = dITP (PubMed:20385596). Binds strongly to GTP, ITP and XTP. Participates in the hydrolysis of dIDP/IDP and probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions (PubMed:20385596). Exhibits decapping activity towards NAD-capped RNAs and FAD-capped RNAs (PubMed:32432673). Exhibits decapping activity towards dpCoA-capped RNAs in vitro (By similarity).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Nucleus; Nucleolus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFGRIPLRYAILMQMRFDGRLGFPGGFVDTQDRSLEDGLNRELREELGEAAAAFRVERTDYRSSHVGSGPRVVAHFYAKRLTLEELLAVEAGATRAKDHGLEVGPAWDSVPFPISSSPKAFSPPRKHPWRKVFAPLTLPSPQLSWWSWDRDHLYSELVLPTWAFCKGLSHPLPGEILSRTHSSMSLCCSLLTV
+PTM	Ubiquitylation:190

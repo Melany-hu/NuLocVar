@@ -1,0 +1,25 @@
+UniprotID	O00476-2
+Accession	O00476;B7WNJ5;B7Z511;Q8WWC7;Q9H533
+EntryName	NPT4_HUMAN
+ProteinName	Sodium-dependent phosphate transport protein 4 (Na(+)/PI cotransporter 4) (NPT4) (Sodium/phosphate cotransporter 4) (Solute carrier family 17 member 3)
+GeneName	SLC17A3 NPT4
+Length	498
+Function	Transports organic anions in a voltage-driven, multispecific, manner, on the apical side of renal proximal tubule (PubMed:20810651). In particular, participates in the secretion of urate from the cell into the lumen (PubMed:20810651). Urate is the end product of purine metabolism (PubMed:20810651). May have roles in the metabolism and secretion of estrone sulfate, estradiol-17-beta-glucuronide, ochratoxin A, as wells as drugs such as bumetanide (PubMed:20810651).
+Subcellular Location	Endoplasmic reticulum membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATKTELSPTARESKNAQDMQVDETLIPRKVPSLCSARYGIALVLHFCNFTTIAQNVIMNITMVAMVNSTSPQSQLNDSSEVLPVDSFGGLSKAPKSLPAKAPVYDWSPQIQGIIFGAVGYGGILTMAPSGYLAGRVGTKRVVGISLFATSFLTLCIPLATDFGIVLLIVTRIVQGLSQSSILGGQFAIWEKWGPPQERSRLCSIALSGMLLGCFTAILIGGFISETLGWPFVFYIFGGVGCVCCLLWFVVIYDDPVSYPWISTSEKEYIISSLKQQVGSSKQPLPIKAMLRSLPIWSICLGCFSHQWLVSTMVVYIPTYISSVYHVNIRDNGLLSALPFIVAWVIGMVGGYLADFLLTKKFRLITVRKIATILGSLPSSALIVSLPYLNSGYITATALLTLSCGLSTLCQSGIYINVLDIAPRYSSFLMGASRGFSSIAPVIVPTVSGFLLSQDPEFGWRNVFFLLFAVNLLGLLFYLIFGEADVQEWAKERKLTRL
+PTM	Methylation:282;Phosphorylation:14

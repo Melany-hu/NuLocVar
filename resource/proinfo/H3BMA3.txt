@@ -1,0 +1,25 @@
+UniprotID	H3BMA3
+Accession	H3BMA3
+EntryName	H3BMA3_HUMAN
+ProteinName	Poly(ADP-ribose) polymerase family member 6
+GeneName	PARP6
+Length	251
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDIKGQFWNDDDSEGDNESEEFLYGVQGSCAADLYRHPQLDADIEAVKEIYSENSVSIREYGTIDDVDIDLHINISFLDEEVSTAWKVLRTEPIVLRLRFSLSQYLDGPEPSIEVFQPSNKEGFGLGLQLKKILGMFTSQQWKHLSNDFLKTQQEKRHSWFKASGTIKKFRAGLSIFSPIPKSPSFPIIQDSMLKGKLGVPELRVGRLMNRSISCTMKNPKVEVFGYPPSPQAVVTARTFPLWSMDSSFRS
+PTM	

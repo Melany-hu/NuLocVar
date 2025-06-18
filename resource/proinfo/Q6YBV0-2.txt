@@ -1,0 +1,25 @@
+UniprotID	Q6YBV0-2
+Accession	Q6YBV0;Q86X30;Q8IVM5;Q8N8S6
+EntryName	S36A4_HUMAN
+ProteinName	Neutral amino acid uniporter 4 (Solute carrier family 36 member 4)
+GeneName	SLC36A4 PAT4
+Length	369
+Function	Uniporter that mediates the transport of neutral amino acids like L-tryptophan, proline and alanine (PubMed:21097500). The transport activity is sodium ions-independent, electroneutral and therefore functions via facilitated diffusion (PubMed:21097500).
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVSPWSCLQKQAAWGRSVVDFFLVITQLGFCSVYIVFLAENVKQVHEGFLESKVFISNSTNSSNPCERRSVDLRIYMLCFLPFIILLVFIRELKNLFVLSFLANVSMAVSLVIIYQYVVRNMPDPHNLPIVAGWKKYPLFFGTAVFAFEGIGVVLPLENQMKESKRFPQALNIGMGIVTTLYVTLATLGYMCFHDEIKGSITLNLPQDVWLYQSVKILYSFGIFVTYSIQFYVPAEIIIPGITSKFHTKWKQICEFGIRSFLVSITCAGAILIPRLDIVISFVGAVSSSTLALILPPLVEILTFSKEHYNIWMVLKNISIAFTGVVGFLLGTYITVEEIIYPTPKVVAGTPQSPFLNLNSTCLTSGLK
+PTM	Methylation:85,179,189,334;Phosphorylation:35,36;Ubiquitylation:385

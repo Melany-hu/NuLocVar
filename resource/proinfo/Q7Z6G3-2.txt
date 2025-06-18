@@ -1,0 +1,25 @@
+UniprotID	Q7Z6G3-2
+Accession	Q7Z6G3;A2RRG3;H3BTW2;O75547;Q6ZSK0
+EntryName	NECA2_HUMAN
+ProteinName	N-terminal EF-hand calcium-binding protein 2 (EF-hand calcium-binding protein 2) (Neuronal calcium-binding protein 2) (Synaptotagmin-interacting protein 2) (Stip-2)
+GeneName	NECAB2 EFCBP2
+Length	303
+Function	May act as a signaling scaffold protein that senses intracellular calcium. Can modulate ligand-induced internalization of ADORA2A and coupling efficiency of mGluR5/GRM5; for both receptors may regulate signaling activity such as promoting MAPK1/3 (ERK1/2) activation.
+Subcellular Location	Cytoplasm; Cell projection; Dendrite; Cell projection; Axon; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMMGSCPWRNSSSSLQMASLMRKNWRISFTRLTLTTPNYFVDHMGDYEDVLASLETLNHSVLKAMGYTKKVYEGGSNVDQFVTRFLLKETANQIQSLLSSVESAVEAIEEQTSQLRQNHIKPSHSAAQTWCGSPTPASAPNHKLMAMEQGKTLPSATEDAKEEGLEAQISRLAELIGRLESKALWFDLQQRLSDEDGTNMHLQLVRQEMAVCPEQLSEFLDSLRQYLRGTTGVRNCFHITAVRLSDGFTFVIYEFWETEEAWKRHLQSPLCKAFRHVKVDTLSQPEALSRILVPAAWCTVGRD
+PTM	Methylation:97,171,265;Phosphorylation:57,218,253,309,313,314,323

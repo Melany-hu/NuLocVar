@@ -1,0 +1,25 @@
+UniprotID	Q9UQ90-2
+Accession	Q9UQ90;O75756;Q2TB70;Q58F00;Q96IB0
+EntryName	SPG7_HUMAN
+ProteinName	Mitochondrial inner membrane m-AAA protease component paraplegin (EC 3.4.24.-) (EC 3.6.-.-) (Cell matrix adhesion regulator) (Paraplegin) (Spastic paraplegia 7 protein)
+GeneName	SPG7 CAR CMAR PGN
+Length	489
+Function	Catalytic component of the m-AAA protease, a protease that plays a key role in proteostasis of inner mitochondrial membrane proteins, and which is essential for axonal and neuron development (PubMed:11549317, PubMed:28396416, PubMed:31097542, PubMed:9635427). SPG7 possesses both ATPase and protease activities: the ATPase activity is required to unfold substrates, threading them into the internal proteolytic cavity for hydrolysis into small peptide fragments (By similarity). The m-AAA protease exerts a dual role in the mitochondrial inner membrane: it mediates the processing of specific regulatory proteins and ensures protein quality control by degrading misfolded polypeptides (By similarity). Mediates protein maturation of the mitochondrial ribosomal subunit MRPL32/bL32m by catalyzing the cleavage of the presequence of MRPL32/bL32m prior to assembly into the mitochondrial ribosome (By similarity). Acts as a regulator of calcium in neurons by mediating degradation of SMDT1/EMRE before its assembly with the uniporter complex, limiting the availability of SMDT1/EMRE for MCU assembly and promoting efficient assembly of gatekeeper subunits with MCU (PubMed:28396416, PubMed:31097542). Also regulates mitochondrial calcium by catalyzing degradation of MCU (PubMed:31097542). Plays a role in the formation and regulation of the mitochondrial permeability transition pore (mPTP) and its proteolytic activity is dispensable for this function (PubMed:26387735).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVLLLLLRALRRGPGPGPRPLWGPGPAWSPGFPARPGRGRPYMASRPPGDLAEAGGRALQSLQLRLLTPTFEGINGLLLKQHLVQNPVRLWQLLGGTFYFNTSRLKQKNKEKDKSKGKAPEEDEEERRRRERDDQMYRERLRTLLVIAVVMSLLNALSTSGGSISWNDFVHEMLAKGEVQRVQVVPESDVVEVYLHPGAVVFGRPRLALMYRMQVANIDKFEEKLRAAEDELNIEAKDRIPVSYKRTGFFGNALYSVGMTAVGLAILWYVFRLAGMTGREGGFSAFNQLKMARFTIVDGKMGKGVSFKDVAGMHEAKLEVREFVDYLKSPERFLQLGAKVPKGALLLGPPGCGKTLLAKAVATEAQVPFLAMAGPEFVEVIGGLGAARVRSLFKEARARAPCIVYIDEIDAVGKKRSTTMSGFSNTEEEQTLNQLLVEMDGASLDQLPSQGTMRKLRGKTPACSCLTEPTGSRRAMEGHSLCWGCLLH
+PTM	Acetylation:355,619;Methylation:81,221,301,360,415,565,709,724,735;Phosphorylation:244,248,256,257,261,270,392,495,499,595,635;Ubiquitylation:119,340,355,395

@@ -1,0 +1,25 @@
+UniprotID	O75354-2
+Accession	O75354;A6NCX6;D3DW49;Q5QPJ2;Q5QPJ5;Q7Z5B5;Q8N3H3;Q8TAS7;Q9UJD1
+EntryName	ENTP6_HUMAN
+ProteinName	Ectonucleoside triphosphate diphosphohydrolase 6 (NTPDase 6) (EC 3.6.1.6) (CD39 antigen-like 2)
+GeneName	ENTPD6 CD39L2 IL6ST2
+Length	467
+Function	Catalyzes the hydrolysis of nucleoside triphosphates and diphosphates in a calcium- or magnesium-dependent manner. Has a strong preference for nucleoside diphosphates, preferentially hydrolyzes GDP, IDP, and UDP, with slower hydrolysis of CDP, ITP, GTP, CTP, ADP, and UTP and virtually no hydrolysis of ATP (PubMed:10948193, PubMed:11041856, PubMed:14529283). The membrane bound form might support glycosylation reactions in the Golgi apparatus and, when released from cells, might catalyze the hydrolysis of extracellular nucleotides (PubMed:10948193, PubMed:11041856, PubMed:14529283).
+Subcellular Location	Golgi apparatus membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPQHGPWQTRMRKISNHGSLRVAKVAYPLGLCVGVFIYVAYIKWHRATATQAFFSITRAAPGARWGQQAHSPLGTAADGHEVFYGIMFDAGSTGTRVHVFQFTRPPRETPTLTHETFKALKPGLSAYADDVEKSAQGIRELLDVAKQDIPFDFWKATPLVLKATAGLRLLPGEKAQKLLQKVKKVFKASPFLVGDDCVSIMNGTDEGVSAWITINFLTGSLKTPGGSSVGMLDLGGGSTQIAFLPRVEGTLQASPPGYLTALRMFNRTYKLYSYSYLGLGLMSARLAILGGVEGQPAKDGKELVSPCLSPSFKGEWEHAEVTYRVSGQKAAASLHELCAARVSEVLQNRVHRTEEVKHVDFYAFSYYYDLAAGVGLIDAEKGGSLVVGDFEIAAKYVCRTLETQPQSSPFSCMDLTYVSLLLQEFGFPRSKVLKLTRKIDNVETSWALGAIFHYIDSLNRQKSPAS
+PTM	Glycosylation:75;Methylation:61,136,164,180,199;Ubiquitylation:199,316,452

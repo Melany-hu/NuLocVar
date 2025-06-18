@@ -1,0 +1,25 @@
+UniprotID	Q96A70-2
+Accession	Q96A70;B2RDU5;D3DPQ9;Q5TIF4;Q5TIF5;Q5TIF6;Q8TF56;Q96L54;Q96L55;Q96L56;Q96L57;Q96MD9
+EntryName	AZIN2_HUMAN
+ProteinName	Antizyme inhibitor 2 (AzI2) (Arginine decarboxylase) (ADC) (ARGDC) (Ornithine decarboxylase-like protein) (ODC-like protein) (ornithine decarboxylase paralog) (ODC-p)
+GeneName	AZIN2 ADC KIAA1945 ODCP
+Length	480
+Function	Antizyme inhibitor (AZI) protein that positively regulates ornithine decarboxylase (ODC) activity and polyamine uptake. AZI is an enzymatically inactive ODC homolog that counteracts the negative effect of ODC antizymes (AZs) OAZ1, OAZ2 and OAZ3 on ODC activity by competing with ODC for antizyme-binding (PubMed:17900240). Inhibits antizyme-dependent ODC degradation and releases ODC monomers from their inactive complex with antizymes, leading to formation of the catalytically active ODC homodimer and restoring polyamine production (PubMed:17900240). Participates in the morphological integrity of the trans-Golgi network (TGN) and functions as a regulator of intracellular secretory vesicle trafficking (PubMed:20188728).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Perinuclear region; Membrane; Cytoplasmic vesicle; Endoplasmic reticulum-Golgi intermediate compartment; Golgi apparatus; cis-Golgi network; Golgi apparatus; trans-Golgi network; Cytoplasmic granule; Cell projection; Axon; Cell projection; Dendrite; Perikaryon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGYLSESDFVMVEEGFSTRDLLKELTLGASQATTDEVAAFFVADLGAIVRKHFCFLKCLPRVRPFYAVKCNSSPGVLKVLAQLGLGFSCANKAEMELVQHIGIPASKIICANPCKQIAQIKYAAKHGIQLLSFDNEMELAKVVKSHPSAKMVLCIATDDSHSLSCLSLKFGVSLKSCRHLLENAKKHHVEVVGVSFHIGSGCPDPQAYAQSIADARLVFEMGTELGHKMHVLDLGGGFPGTEGAKVRFEEIASVINSALDLYFPEGCGVDIFAELGRYYVTSAFTVAVSIIAKKEVLLDQPGREAPLPPPHIATCAASEPSPPAEENGSTSKTIVYHLDEGVYGIFNSVLFDNICPTPILQKKPSTEQPLYSSSLWGPAVDGCDCVAEGLWLPQLHVGDWLVFDNMGAYTVGMGSPFWGTQACHITYAMSRVAWEALRRQLMAAEQEDDVEGVCKPLSCGWEITDTLCVGPVFTPASIM
+PTM	Methylation:24,70,79,122,142,294,343;Phosphorylation:174,338

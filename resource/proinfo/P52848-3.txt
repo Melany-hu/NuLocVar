@@ -1,0 +1,25 @@
+UniprotID	P52848-3
+Accession	P52848;B7Z1Q0;E7EVJ3;Q96E57
+EntryName	NDST1_HUMAN
+ProteinName	Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 (Glucosaminyl N-deacetylase/N-sulfotransferase 1) (NDST-1) (N-heparan sulfate sulfotransferase 1) (N-HSST 1) ([Heparan sulfate]-glucosamine N-sulfotransferase 1) (HSNST 1) [Includes: Heparan sulfate N-deacetylase 1 (EC 3.5.1.-); Heparan sulfate N-sulfotransferase 1 (EC 2.8.2.8)]
+GeneName	NDST1 HSST HSST1
+Length	825
+Function	Essential bifunctional enzyme that catalyzes both the N-deacetylation and the N-sulfation of glucosamine (GlcNAc) of the glycosaminoglycan in heparan sulfate (PubMed:35137078, PubMed:9230113, PubMed:9744796). Modifies the GlcNAc-GlcA disaccharide repeating sugar backbone to make N-sulfated heparosan, a prerequisite substrate for later modifications in heparin biosynthesis (PubMed:9230113). Plays a role in determining the extent and pattern of sulfation of heparan sulfate. Participates in biosynthesis of heparan sulfate that can ultimately serve as L-selectin ligands, thereby playing a role in inflammatory response (By similarity). Required for the exosomal release of SDCBP, CD63 and syndecan (PubMed:22660413).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Golgi apparatus; cis-Golgi network membrane; Golgi apparatus; cis-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPALACLRRLCRHVSPQAVLFLLFIFCLFSVFISAYYLYGWKRGLEPSADAPEPDCGDPPPVAPSRLLPLKPVQAATPSRTDPLVLVFVESLYSQLGQEVVAILESSRFKYRTEIAPGKGDMPTLTDKGRGRFALIIYENILKYVNLDAWNRELLDKYCVAYGVGIIGFFKANENSLLSAQLKGFPLFLHSNLGLKDCSINPKSPLLYVTRPSEVEKGVLPGEDWTVFQSNHSTYEPVLLAKTRSSESIPHLGADAGLHAALHATVVQDLGLHDGIQRVLFGNNLNFWLHKLVFVDAVAFLTGKRLSLPLDRYILVDIDDIFVGKEGTRMKVEDVKALFDTQNELRAHIPNFTFNLGYSGKFFHTGTNAEDAGDDLLLSYVKEFWWFPHMWSHMQPHLFHNQSVLAEQMALNKKFAVEHGIPTDMGYAVAPHHSGVYPVHVQLYEAWKQVWSIRVTSTEEYPHLKPARYRRGFIHNGIMVLPRQTCGLFTHTIFYNEYPGGSSELDKIINGGELFLTVLLNPISIFMTHLSNYGNDRLGLYTFKHLVRFLHSWTNLRLQTLPPVQLAQKYFQIFSEEKDPLWQDPCEDKRHKDIWSKEKTCDRFPKLLIIGPQKTGTTALYLFLGMHPDLSSNYPSSETFEEIQFFNGHNYHKGIDWYMEFFPIPSNTTSDFYFEKSANYFDSEVAPRRAAALLPKAKVLTILINPADRAYSWYQILVLDGKLLRTEPAKVMDMVQKFLGVTNTIDYHKTLAFDPKKGFWCQLLEGGKTKCLGKSKGRKYPEMDLDSRAFLKDYYRDHNIELSKLLYKMGQTLPTWLREDLQNTR
+PTM	Glycosylation:65,231,667;Methylation:143,157,171,203,217,242,336,597,825;Phosphorylation:65,204,208;Ubiquitylation:183

@@ -1,0 +1,25 @@
+UniprotID	H3BQU0
+Accession	H3BQU0
+EntryName	H3BQU0_HUMAN
+ProteinName	Methenyltetrahydrofolate synthetase domain containing
+GeneName	MTHFSD
+Length	233
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	210...214
+validnes_region	
+nesbase_region	
+Sequence	XVSKQDIREQIWGYMESQNLADFPRPVHHRIPNFKGSYLACQNIKDLDVFARTQEVKVDPDKPLEGVRLLVLQSKKTLLVPTPRLRTGLFNKITPPPGATKDILRKCATSQGVRNYSVPIGLDSRVLVDLVVVGSVAVSEKGWRIGKGEGYADLEYAMMVSMGAVSKETPVVTIVHDCQVVDIPEELVEEHDITVDYILTPTRVIATGCKRPKPMGITWFKVGHGSGQLWPVA
+PTM	

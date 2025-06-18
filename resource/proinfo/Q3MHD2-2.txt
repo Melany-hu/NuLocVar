@@ -1,0 +1,25 @@
+UniprotID	Q3MHD2-2
+Accession	Q3MHD2;Q86YB1;Q96NL5
+EntryName	LSM12_HUMAN
+ProteinName	Protein LSM12
+GeneName	LSM12
+Length	198
+Function	Nicotinic acid adenine dinucleotide phosphate (NAADP) binding protein (PubMed:34362892). Confers NAADP sensitivity to the two pore channel complex (TPCs) by acting as TPC accessory protein necessary for NAADP-evoked Ca(2+) release (PubMed:34362892).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPPGEYFSVGSQVSCRTCQEQRLQGEVVAFDYQSKMLALISPECPSSSGKPNHADILLINLQYVSEVEIINDRTETPPPLASLNVSKLASKARTEKEEKLSQAYAISAGVSLEGQQLFQTIHKTIKDCKWQEKNIVVMEEVVITPPYQVENCKGKEGSALSHVRKIVEKHFRDVESQKILQRSQAQQPQKEAALSS
+PTM	Acetylation:86,168,177;Methylation:37,42,86,168;Phosphorylation:16,73,75,85,103,157,182,194,195;SUMOylation:98,154,177;Ubiquitylation:86,125,177,189

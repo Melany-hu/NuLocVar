@@ -1,0 +1,25 @@
+UniprotID	O43555-3
+Accession	O43555;Q14C68;Q14C69;Q9BYN9;Q9BYP0
+EntryName	GON2_HUMAN
+ProteinName	Progonadoliberin-2 (Progonadoliberin II) [Cleaved into: Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II); GnRH-associated peptide 2 (GnRH-associated peptide II)]
+GeneName	GNRH2
+Length	113
+Function	Stimulates the secretion of gonadotropins; it stimulates the secretion of both luteinizing and follicle-stimulating hormones.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSRRGLLLLLLLTAHLGPSEAQHWSHGWYPGGKRALSSAQDPQNALRPPAGSPVQTAHGLPSDALAPLDDSMPWEGRTTAQWSLHRKRHLARTLLTAAREPRPAPPSSNKV
+PTM	Phosphorylation:116

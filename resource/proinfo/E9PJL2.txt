@@ -1,0 +1,25 @@
+UniprotID	E9PJL2
+Accession	E9PJL2
+EntryName	E9PJL2_HUMAN
+ProteinName	Testis expressed 36
+GeneName	TEX36
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKGRRFNPPSDKDGRWFPHIGLTQKTPESITSATSKEPQSPHLPRQAEGKLPPIYKVREKQAVNNQFPFSVHDNRHSLENSGCYLDSERMTATDPQGEPDKRQEFYEPVRTQSIPHPGLRTNAPLLAV
+PTM	

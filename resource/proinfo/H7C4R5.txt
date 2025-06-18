@@ -1,0 +1,25 @@
+UniprotID	H7C4R5
+Accession	H7C4R5
+EntryName	H7C4R5_HUMAN
+ProteinName	FAST kinase domain-containing protein 4 (Protein TBRG4) (Transforming growth factor beta regulator 4)
+GeneName	TBRG4
+Length	274
+Function	Plays a role in processing of mitochondrial RNA precursors and in stabilization of a subset of mature mitochondrial RNA species, such as MT-CO1, MT-CO2, MT-CYB, MT-CO3, MT-ND3, MT-ND5 and MT-ATP8/6. May play a role in cell cycle progression.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQTQVSQRLATDLLSLMPSLTSGEVAHCAKSFALLKWLSLPLFEAFAQHVLNRAQDITLPHLCSVLLAFARLNFHPDQEDQFFSLVHEKLGSELPGLEPALQVDLVWALCVLQQAREAELQAVLHPEFHIQFLGEPPAPSTTGTGKLPGLVCLVPGGKSQKDQNTFQKLLHINATALLEYPEYSGPLLPASAVAPGPSALDRKVTPLQKELQETLKGLLGSADKGSLEVATQYGWVLDAEVLLDSDGEFLPVRDFVAPHLAQPTGSQSPPPGSK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A6ZJ87
+Accession	A6ZJ87
+EntryName	A6ZJ87_HUMAN
+ProteinName	Melanin-concentrating hormone receptor 1 (G-protein coupled receptor 24) (MCH-1R)
+GeneName	MCHR1
+Length	227
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLEASLLPTGPNASNTSDGPDNLTSAGSPPRTGSISYINIIMPSVFGTICLLGIIGNSTVIFAVVKKSKLHWCNNVPDIFIINLSFFLAFALPFVVITAAYVRILQRMTSSVAPASQRSIRLRTKRVTRTAIAICLVFFVCWAPYYVLQLTQLSISRPTLTFVYLYNAAISLGYANSCLNPFVYIVLCETFRKRLVLSVKPAAQGQLRAVSNAQTADEERTESKGT
+PTM	

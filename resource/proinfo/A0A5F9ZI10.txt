@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZI10
+Accession	A0A5F9ZI10
+EntryName	A0A5F9ZI10_HUMAN
+ProteinName	Activating signal cointegrator 1 complex subunit 1
+GeneName	ASCC1
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HIVGKRGDTRKKIEMETKTSISIPKPGQDGEIVITGQHRNGVISARTRIDVLLDTFRRKQPFTHFLAFFLNEVEVQEGFLRFQEEVLAKCSMDHGVDSSIFQNPKKLHLTIGMLVLLSEEEIQQTCEMLQQCKEEFINDISGGKPLEVEMAGIEYMNDDPGMVDVLYAKVHMKDGSNRLQELVDRVLERFQASGLIVKEWNSVKLHATVMNTLFRKDPNVV
+PTM	

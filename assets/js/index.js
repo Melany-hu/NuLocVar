@@ -9,13 +9,12 @@ function check_simple_search_form()
 {
 	if($('#simple_search_input0').val()=='')
 	{
-		alert('Please input your keyword(s), thanks.');
+		alert('Please input your keyword(s) and try again, thanks.');
 		return false;
 	}else{
 		var chooseTag = $('#simple_search_tag0').val();
 		var inputContent = $('#simple_search_input0').val();
-		var chooseOrg = $('#simple_search_org').val();
-		var searchInfo = {'tag':chooseTag, 'content':inputContent, 'org': chooseOrg};
+		var searchInfo = {'tag':chooseTag, 'content':inputContent};
 		window.localStorage.setItem('searchInfo',JSON.stringify(searchInfo));
 	}
 }
@@ -32,16 +31,13 @@ function changeExampleTag(line,tag){
 function changeExampleInput(line,keyword){
 	$('#simple_search_input'+line).prop('value',keyword);
 }
-function changeExampleOrg(org){
-	$('#simple_search_org').find("option").prop("selected",false);
-	$('#simple_search_org').find("option[value='"+org+"']").prop("selected",true);
-}
+
 
 $(document).ready(function(){
 /*----- Set home page search example -----*/
 	$('#home #Example').on('click',function(){
-		changeExampleTag(0,'gene');
-		changeExampleInput(0,'TP53');
+		changeExampleTag(0,'uniprot');
+		changeExampleInput(0,'Q9H4L7');
 		changeExampleOrg('Human')
 	})
 

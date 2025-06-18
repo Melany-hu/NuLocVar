@@ -1,0 +1,25 @@
+UniprotID	Q8N2H9-2
+Accession	Q8N2H9;Q8N3E1;Q8N9Q6;Q8TAW7;Q8TED5
+EntryName	PELI3_HUMAN
+ProteinName	E3 ubiquitin-protein ligase pellino homolog 3 (Pellino-3) (EC 2.3.2.27)
+GeneName	PELI3
+Length	445
+Function	E3 ubiquitin ligase catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins (PubMed:12874243, PubMed:17675297). Involved in the TLR and IL-1 signaling pathways via interaction with the complex containing IRAK kinases and TRAF6 (PubMed:12874243). Mediates 'Lys-63'-linked polyubiquitination of IRAK1 (PubMed:12874243). Can activate AP1/JUN and ELK1 (PubMed:12874243). Acts as a regulator of innate immunity by mediating 'Lys-63'-linked polyubiquitination of RIPK2 downstream of NOD1 and NOD2, thereby transforming RIPK2 into a scaffolding protein for downstream effectors, ultimately leading to activation of the NF-kappa-B and MAP kinases signaling (By similarity). Catalyzes 'Lys-63'-linked polyubiquitination of RIPK2 in parallel of XIAP (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLEGNPEVGSPRTSDLQHRGNKGSCVLSSPGEDAQPGEEPIKYGELIVLGYNGCLASGDKGRRRSRLALSRRSHANGVKPDVMHHISTPLVSKALSNRGQHSISYTLSRSHSVIVEYTHDSDTDMFQIGRSTENMIDFVVTDTSPGGGAAEGPSAQSTISRYACRILCDRRPPYTARIYAAGFDASSNIFLGERAAKWRTPDGLMDGLTTNGVLVMHPAGGFSEDSAPGVWREISVCGNVYTLRDSRSAQQRGKLVENESNVLQDGSLIDLCGATLLWRTPAGLLRAPTLKQLEAQRQEANAARPQCPVGLSTLAFPSPARGRTAPDKQQPWVYVRCGHVHGYHGWGCRRERGPQERECPLCRLVGPYVPLWLGQEAGLCLDPGPPSHAFAPCGHVCSEKTARYWAQTPLPHGTHAFHAACPFCGAWLTGEHGCVRLIFQGPLD
+PTM	Methylation:104,118;Phosphorylation:11,95,127;SUMOylation:23,104;Ubiquitylation:316,353

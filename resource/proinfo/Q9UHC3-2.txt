@@ -1,0 +1,25 @@
+UniprotID	Q9UHC3-2
+Accession	Q9UHC3;B2R9V0;O60263;O75906;Q59FN9;Q9UER8;Q9UHC4
+EntryName	ASIC3_HUMAN
+ProteinName	Acid-sensing ion channel 3 (ASIC3) (hASIC3) (Amiloride-sensitive cation channel 3) (Neuronal amiloride-sensitive cation channel 3) (Testis sodium channel 1) (hTNaC1)
+GeneName	ASIC3 ACCN3 DRASIC SLNAC1 TNAC1
+Length	543
+Function	Forms pH-gated heterotrimeric sodium channels that act as postsynaptic excitatory receptors in the nervous system (PubMed:10842183, PubMed:11587714, PubMed:9744806, PubMed:9886053). Upon extracellular acidification, these channels generate a biphasic current with a fast inactivating and a slow sustained phase (PubMed:10842183, PubMed:9744806, PubMed:9886053). ASIC3 is more sensitive to protons and gates between closed, open, and desensitized states faster than other ASICs (By similarity). Displays high selectivity for sodium ions but can also permit the permeation of other cations (PubMed:9744806, PubMed:9886053). As a neuronal acid sensor, probably contributes to mechanoreception, acid nociception, and heat nociception (By similarity). By forming heterotrimeric channels with ASIC2, generates a biphasic current with a fast inactivating and a slow sustained phase, which in sensory neurons is proposed to mediate the pain induced by acidosis that occurs in ischemic, damaged or inflamed tissues (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPTSGPEEARRPASDIRVFASNCSMHGLGHVFGPGSLSLRRGMWAAAVVLSVATFLYQVAERVRYYREFHHQTALDERESHRLIFPAVTLCNINPLRRSRLTPNDLHWAGSALLGLDPAEHAAFLRALGRPPAPPGFMPSPTFDMAQLYARAGHSLDDMLLDCRFRGQPCGPENFTTIFTRMGKCYTFNSGADGAELLTTTRGGMGNGLDIMLDVQQEEYLPVWRDNEETPFEVGIRVQIHSQEEPPIIDQLGLGVSPGYQTFVSCQQQQLSFLPPPWGDCSSASLNPNYEPEPSDPLGSPSPSPSPPYTLMGCRLACETRYVARKCGCRMVYMPGDVPVCSPQQYKNCAHPAIDAMLRKDSCACPNPCASTRYAKELSMVRIPSRAAARFLARKLNRSEAYIAENVLALDIFFEALNYETVEQKKAYEMSELLGDIGGQMGLFIGASLLTILEILDYLCEVFRDKVLGYFWNRQHSQRHSSTNLTSHPSLCRHQDSLRLPPHLLPCHTALDLLSVSSEPRPDILDMPSLHVAFPSSPQIKS
+PTM	Methylation:516;Phosphorylation:37,39

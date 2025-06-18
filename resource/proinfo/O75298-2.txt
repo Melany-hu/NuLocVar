@@ -1,0 +1,25 @@
+UniprotID	O75298-2
+Accession	O75298;O60509;Q7RTM6;Q7RTN1;Q7RTN2
+EntryName	RTN2_HUMAN
+ProteinName	Reticulon-2 (Neuroendocrine-specific protein-like 1) (NSP-like protein 1) (Neuroendocrine-specific protein-like I) (NSP-like protein I) (NSPLI)
+GeneName	RTN2 NSPL1
+Length	472
+Function	Inhibits amyloid precursor protein processing, probably by blocking BACE1 activity (PubMed:15286784). Enhances trafficking of the glutamate transporter SLC1A1/EAAC1 from the endoplasmic reticulum to the cell surface (By similarity). Plays a role in the translocation of SLC2A4/GLUT4 from intracellular membranes to the cell membrane which facilitates the uptake of glucose into the cell (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Sarcoplasmic reticulum membrane; Cell membrane; Cell membrane; Sarcolemma; Cell membrane; Sarcolemma; T-tubule; Cytoplasm; Myofibril; Sarcomere; Z line; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQVLPVFAHCKEAPSTASSTPDSTEGGNDDSDFRELHTAREFSEEDEEETTSQDWGTPRELTFSYIAFDGVVGSGGRRDSTARRPRPQGRSVSEPRDQHPQPSLGDSLESIPSLSQSPEPGRRGDPDTAPPSERPLEDLRLRLDHLGWVARGTGSGEDSSTSSSTPLEDEEPQEPNRLETGEAGEELDLRLRLAQPSSPEVLTPQLSPGSGTPQAGTPSPSRSRDSNSGPEEPLLEEEEKQWGPLEREPVRGQCLDSTDQLEFTVEPRLLVADLLYWKDTRTSGVVFTGLMVSLLCLLHFSIVSVAAHLALLLLCGTISLRVYRKVLQAVHRGDGANPFQAYLDVDLTLTREQTERLSHQITSRVVSAATQLRHFFLVEDLVDSLKLALLFYILTFVGAIFNGLTLLILGVIGLFTIPLLYRQHQAQIDQYVGLVTNQLSHIKAKIRAKIPGTGALASAAAAVSGSKAKAE
+PTM	Methylation:322;Phosphorylation:44,94,104,111,116,118,211,218,220,224,227,229,393,441,514

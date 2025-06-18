@@ -1,0 +1,25 @@
+UniprotID	S4R3H6
+Accession	S4R3H6
+EntryName	S4R3H6_HUMAN
+ProteinName	Tripartite motif containing 77
+GeneName	TRIM77
+Length	235
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SPRHATHKHYMTREADEYYRKKLLIQMKSIWKKKQKNQRNLNRETNIIGTWEDLGDVMKRNEFLRLAMPQPVNPQLSAWTITGVSERLNFFRVYITLDRKICSNHKLLFEDLRHLQCSLDDTDMSCNPTSTQYTSSWGAQILSSGKHYWEVDVKDSCNWVIGLCREAWTKRNDMRLDSEGIFLLLCLKVDDHFSLFSTSPLLPHYIPRPQGWLGVFLDYECGIVSFVNVAQSSLI
+PTM	

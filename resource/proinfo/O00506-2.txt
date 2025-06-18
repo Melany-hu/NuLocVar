@@ -1,0 +1,25 @@
+UniprotID	O00506-2
+Accession	O00506;A8K6Z3;A8K7D2;B7Z9K1;Q15522;Q5BJF1
+EntryName	STK25_HUMAN
+ProteinName	Serine/threonine-protein kinase 25 (EC 2.7.11.1) (Ste20-like kinase) (Sterile 20/oxidant stress-response kinase 1) (SOK-1) (Ste20/oxidant stress response kinase 1)
+GeneName	STK25 SOK1 YSK1
+Length	349
+Function	Oxidant stress-activated serine/threonine kinase that may play a role in the response to environmental stress. Targets to the Golgi apparatus where it appears to regulate protein transport events, cell adhesion, and polarity complexes important for cell migration. Part of the striatin-interacting phosphatase and kinase (STRIPAK) complexes. STRIPAK complexes have critical roles in protein (de)phosphorylation and are regulators of multiple signaling pathways including Hippo, MAPK, nuclear receptor and cytoskeleton remodeling. Different types of STRIPAK complexes are involved in a variety of biological processes such as cell growth, differentiation, apoptosis, metabolism and immune regulation (PubMed:18782753).
+Subcellular Location	Cytoplasm; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHLRGFANQSTKLWIIMEYLGGGSALDLLKPGPLEETYIATILREILKGLDYLHSERKIHRDIKAANVLLSEQGDVKLADFGVAGQLTDTQIKRNTFVGTPFWMAPEVIKQSAYDFKADIWSLGITAIELAKGEPPNSDLHPMRVLFLIPKNSPPTLEGQHSKPFKEFVEACLNKDPRFRPTAKELLKHKFITRYTKKTSFLTELIDRYKRWKSEGHGEESSSEDSDIDGEAEDGEQGPIWTFPPTIRPSPHSKLHKGTALHSSQKPAEPVKRQPRSQCLSTLVRPVFGELKEKHKQSGGSVGALEELENAFSLAEESCPGISDKLMVHLVERVQRFSHNRNHLTSTR
+PTM	Acetylation:126,266,350;Methylation:108,126,155,171,188,210,229,266;Phosphorylation:12,166,168,174,178,216,231,278,337,342,379;SUMOylation:22,155,171;Ubiquitylation:43,142,171,210,229,276

@@ -1,0 +1,25 @@
+UniprotID	P49450-2
+Accession	P49450;D6W544;Q53T74;Q9BVW2
+EntryName	CENPA_HUMAN
+ProteinName	Histone H3-like centromeric protein A (Centromere autoantigen A) (Centromere protein A) (CENP-A)
+GeneName	CENPA
+Length	114
+Function	Histone H3-like nucleosomal protein that is specifically found in centromeric nucleosomes (PubMed:11756469, PubMed:14667408, PubMed:15282608, PubMed:15475964, PubMed:15702419, PubMed:17651496, PubMed:19114591, PubMed:20739937, PubMed:27499292, PubMed:7962047, PubMed:9024683). Replaces conventional H3 in the nucleosome core of centromeric chromatin that serves as an assembly site for the inner kinetochore (PubMed:18072184). The presence of CENPA subtly modifies the nucleosome structure and the way DNA is wrapped around the nucleosome and gives rise to protruding DNA ends that are less well-ordered and rigid compared to nucleosomes containing histone H3 (PubMed:26878239, PubMed:27499292). May serve as an epigenetic mark that propagates centromere identity through replication and cell division (PubMed:15282608, PubMed:15475964, PubMed:20739937, PubMed:21478274, PubMed:26878239). Required for recruitment and assembly of kinetochore proteins, and as a consequence required for progress through mitosis, chromosome segregation and cytokinesis (PubMed:11756469, PubMed:14667408, PubMed:18072184, PubMed:23818633, PubMed:25556658, PubMed:27499292).
+Subcellular Location	Nucleus; Chromosome; Centromere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	13...19;14...20
+validnes_region	
+nesbase_region	
+Sequence	MGPRRRSRKPEAPRRRSPSPTPTPGPSRRGPSLGASSHQHSRRRQGWLKEIRKLQKSTHLLIRKLPFSRLAAEAFLVHLFEDAYLLTLHAGRVTLFPKDVQLARRIRGLEEGLG
+PTM	Methylation:64,124;Phosphorylation:7,17,19,21,23,27,32,36,37,41;Ubiquitylation:124

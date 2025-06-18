@@ -1,0 +1,25 @@
+UniprotID	B4E2J4
+Accession	B4E2J4
+EntryName	B4E2J4_HUMAN
+ProteinName	IQ motif containing H (cDNA FLJ57443)
+GeneName	IQCH
+Length	170
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQNTENHDPVGSILIQIHEDLYQLKEKLTKFSPEEKGETLDIQSLETAIKRTEVGLRIHIEKYLNVVNQNVLTTSVNDESLYTPQASKWLLPTVIDQKSFIFPQESEGTFWQPQRQHSSSLPVFPRAKRKIGLNVKILQDPENIHHRAAVNANYGISLPYINQRKACGF
+PTM	

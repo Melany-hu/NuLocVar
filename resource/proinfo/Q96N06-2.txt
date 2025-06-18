@@ -1,0 +1,25 @@
+UniprotID	Q96N06-2
+Accession	Q96N06;A8WFL2;B4DZN8
+EntryName	SPT33_HUMAN
+ProteinName	Spermatogenesis-associated protein 33
+GeneName	SPATA33 C16orf55
+Length	140
+Function	Plays an important role in sperm motility and male fertility (By similarity). Required for sperm midpiece flexibility and for the localization of sperm calcineurin to the mitochondria (By similarity). Promotes mitophagy as well as acts as an autophagy mediator in male germline cells (By similarity). Links damaged mitochondria to autophagosomes via its binding to the outer mitochondrial membrane protein VDAC2, as well as to key autophagy machinery component ATG16L1 (By similarity).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus; Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSKSKEKPRKGEEQKKGSTYSVPKSKEKLMEKHSQEARQADRESEKPVDSLHPGAGTAKHPPPAASLEEKPDVKQKSSRKKVVVPQIIITRASNETLVSCSSSGSDQQRTIREPEDWGPYRRHRNPSTADAYNSHLKE
+PTM	Glycosylation:91;Methylation:71;Phosphorylation:19,35,91,94,97

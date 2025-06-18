@@ -1,0 +1,25 @@
+UniprotID	A0A0U1RQI8
+Accession	A0A0U1RQI8
+EntryName	A0A0U1RQI8_HUMAN
+ProteinName	Protein phosphatase 1 regulatory subunit 12B
+GeneName	PPP1R12B
+Length	20
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PQTIAPSTYVSTYLKRSIKM
+PTM	

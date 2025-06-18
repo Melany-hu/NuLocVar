@@ -1,0 +1,25 @@
+UniprotID	P22061-2
+Accession	P22061;A8K109;J3KP72;Q14661;Q16556;Q5VYC1;Q5VYC2;Q93061;Q96II9;Q99625;Q9BQV7;Q9BQV8;Q9NP03
+EntryName	PIMT_HUMAN
+ProteinName	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PIMT) (EC 2.1.1.77) (L-isoaspartyl protein carboxyl methyltransferase) (Protein L-isoaspartyl/D-aspartyl methyltransferase) (Protein-beta-aspartate methyltransferase)
+GeneName	PCMT1
+Length	228
+Function	Initiates the repair of damaged proteins by catalyzing methyl esterification of L-isoaspartyl and D-aspartyl residues produced by spontaneous isomerization and racemization of L-aspartyl and L-asparaginyl residues in aging peptides and proteins (PubMed:3167043, PubMed:6469980). Acts on EIF4EBP2, microtubule-associated protein 2, calreticulin, clathrin light chains a and b, Ubiquitin C-terminal hydrolase isozyme L1, phosphatidylethanolamine-binding protein 1, stathmin, beta-synuclein and alpha-synuclein (By similarity).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWKSGGASHSELIHNLRKNGIIKTDKVFEVMLATDRSHYAKCNPYMDSPQSIGFQATISAPHMHAYALELLFDQLHEGAKALDVGSGSGILTACFARMVGCTGKVIGIDHIKELVDDSVNNVRKDDPTLLSSGRVQLVVGDGRMGYAEEAPYDAIHVGAAAPVVPQALIDQLKPGGRLILPVGPAGGNQMLEQYDKLQDGSIKMKPLMGVIYVPLTDKEKQWSRDEL
+PTM	Acetylation:4,24,113,204,219;Methylation:24,37,124,174;Phosphorylation:11,89,217;SUMOylation:174,204;Ubiquitylation:4,24,113,197,204,206

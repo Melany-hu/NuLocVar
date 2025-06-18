@@ -1,0 +1,25 @@
+UniprotID	Q7Z2H8-4
+Accession	Q7Z2H8;C9JI34;Q1LZ56;Q7Z7C0;Q86YK4;Q96M74
+EntryName	S36A1_HUMAN
+ProteinName	Proton-coupled amino acid transporter 1 (Proton/amino acid transporter 1) (hPAT1) (Solute carrier family 36 member 1)
+GeneName	SLC36A1 PAT1
+Length	243
+Function	Electrogenic proton/amino acid symporter with selectivity for small apolar L-amino acids, their D-enantiomers and selected amino acid derivatives such as 4-aminobutanoate/GABA (PubMed:12527723, PubMed:12809675, PubMed:19549785). May be involved in the efflux from the lysosomal compartment of neutral amino acids resulting from proteolysis (By similarity). May play a role in specifying sites for exocytosis in neurons (By similarity).
+Subcellular Location	Cell membrane; Apical cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTQRLRNEDYHDYSSTDVSPEESPSEGLNNLSSPGSYQRFGQSNSTTWFQTLIHLLKGNIGTGLLGLPLAVKNAGIVMGPISLLIIGIVAVHCMGILVKCAHHFCRRLNKSFVDYGDTVMYGLESSPCSWLRNHAHWGRRVVDFFLIVTQLGFCCVYFVFLADNFKQVIEAANGTTNNCHNNETVILTPTMDSRLYMLSFLPFLVLLVFIRNLRALSIFSLLANITMLVSLVMIYQFIVQIL
+PTM	Methylation:100,281

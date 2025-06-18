@@ -1,0 +1,25 @@
+UniprotID	Q6KCM7-5
+Accession	Q6KCM7;Q5SYW7;Q5SYW8;Q5SYX3;Q5VWU2;Q5VWU3;Q5VWU4;Q6KCM4;Q6KCM6;Q6UX48;Q705K2;Q96PZ1;Q9BSA6
+EntryName	SCMC2_HUMAN
+ProteinName	Mitochondrial adenyl nucleotide antiporter SLC25A25 (Mitochondrial ATP-Mg/Pi carrier protein 3) (Mitochondrial Ca(2+)-dependent solute carrier protein 3) (Short calcium-binding mitochondrial carrier protein 2) (SCaMC-2) (Solute carrier family 25 member 25)
+GeneName	SLC25A25 APC3 KIAA1896 MCSC3 SCAMC2 UNQ549/PRO1106
+Length	501
+Function	Electroneutral antiporter that most probably mediates the transport of adenyl nucleotides through the inner mitochondrial membrane. Originally identified as an ATP-magnesium/inorganic phosphate antiporter, it could have a broader specificity for adenyl nucleotides. By regulating the mitochondrial matrix adenyl nucleotide pool could adapt to changing cellular energetic demands and indirectly regulate adenyl nucleotide-dependent metabolic pathways.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQMLWHFLASFFPRAGCHGSREGDDREVRGTPAPAWRDQMASFLGKQDGRAEATEKRPTILLVVGPAEQFPKKIVQAGDKDLDGQLDFEEFVHYLQDHEKKLRLVFKSLDKKNDGRIDAQEIMQSLRDLGVKISEQQAEKILKRIRTGHFWGPVTYMDKNGTMTIDWNEWRDYHLLHPVENIPEIILYWKHSTIFDVGENLTVPDEFTVEERQTGMWWRHLVAGGGAGAVSRTCTAPLDRLKVLMQVHASRSNNMGIVGGFTQMIREGGARSLWRGNGINVLKIAPESAIKFMAYEQIKRLVGSDQETLRIHERLVAGSLAGAIAQSSIYPMEVLKTRMALRKTGQYSGMLDCARRILAREGVAAFYKGYVPNMLGIIPYAGIDLAVYETLKNAWLQHYAVNSADPGVFVLLACGTMSSTCGQLASYPLALVRTRMQAQASIEGAPEVTMSSLFKHILRTEGAFGLYRGLAPNFMKVIPAVSISYVVYENLKITLGVQSR
+PTM	Methylation:113,252,260,268,305,337,361;Phosphorylation:32,200,421;Ubiquitylation:54,88,113,121,252,268,305,312

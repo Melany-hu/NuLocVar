@@ -1,0 +1,25 @@
+UniprotID	E9PPX2
+Accession	E9PPX2
+EntryName	E9PPX2_HUMAN
+ProteinName	FOS like 1, AP-1 transcription factor subunit (FOS-like antigen 1 isoform 2)
+GeneName	FOSL1
+Length	235
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRDFGEPGPSSGNGGGYGGPAQPPAAAQAAQQKFHLVPSINTMSGSQELQWMVQPHFLGPSSYPRPLTYPQYSPPQPRPGVIRALGPPPGVRRRPCEQETDKLEDEKSGLQREIEELQKQKERLELVLEAHRPICKIPEGAKEGDTGSTSGTSSPPAPCRPVPCISLSPGPVLEPEALHTPTLMTTPSLTPFTPSLVFTYPSTPEPCASAHRKSSSSSGDPSSDPLGSPTLLAL
+PTM	

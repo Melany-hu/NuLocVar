@@ -1,0 +1,25 @@
+UniprotID	J3KSQ5
+Accession	J3KSQ5
+EntryName	J3KSQ5_HUMAN
+ProteinName	Angiotensin-converting enzyme (EC 3.4.15.1) (Dipeptidyl carboxypeptidase I) (Kininase II)
+GeneName	ACE
+Length	208
+Function	Soluble form that is released in blood plasma and other body fluids following proteolytic cleavage in the juxtamembrane stalk region.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQGWATAGLPSLLFLLLCYGHPLLVPSQEASQQVTVTHGTSSQATTSSQTTTHQATAHQTSAQSPNLVTDEAEASKFVEEYDRTSQVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARKFDVNQLQNTTIKRIIKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCHPNGSCLQLEPALKFSELPLQAEVS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q6XPS3-5
+Accession	Q6XPS3;A1A4X0;A1A4X1;A8MX64;B1AQ16;B4DWZ2;Q5VUH2;Q8WWL4;Q8WWL5
+EntryName	TPTE2_HUMAN
+ProteinName	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2 (EC 3.1.3.67) (Lipid phosphatase TPIP) (TPTE and PTEN homologous inositol lipid phosphatase)
+GeneName	TPTE2 TPIP
+Length	411
+Function	Acts as a lipid phosphatase, removing the phosphate in the D3 position of the inositol ring from phosphatidylinositol 3,4,5-trisphosphate.
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum membrane; Golgi apparatus membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNESPQTNEFKGTTEEAPAKESPHTSEFKGAALVSPISKSMLERLSKFEVEDAENVASYEWTHLVRLLRLIILIRIFHLLHQKRQLEKLMRRLVSENKRRYTRDGFDLDLTYVTERIIAMSFPSSGRQSFYRNPIEEVVRFLDKKHRNHYRVYNLCSERAYDPKHFHNRVSRIMIDDHNVPTLHEMVVFTKEVNEWMAQDLENIVAIHCKGGKGRTGTMVCALLIASEIFLTAEESLYYFGERRTNKTHSNKFQGVETPSQNRYVGYFAQVKHLYNWNLPPRRILFIKRFIIYSIRGDVCDLKVQVVMEKKVVFSSTSLGNCSILHDIETDKILINVYDGPPLYDDVKVQFFSSNLPKYYDNCPFFFWFNTSFIQNNRLCLPRNELDNPHKQKAWKIYPPEFAVEILFGEK
+PTM	Methylation:20,29,199,469;Phosphorylation:35,405

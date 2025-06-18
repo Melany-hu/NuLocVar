@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3WKV6
+Accession	A0A8Q3WKV6
+EntryName	A0A8Q3WKV6_HUMAN
+ProteinName	Complement factor D (EC 3.4.21.46) (Adipsin) (C3 convertase activator) (Properdin factor D)
+GeneName	CFD
+Length	236
+Function	Factor D cleaves factor B when the latter is complexed with factor C3b, activating the C3bbb complex, which then becomes the C3 convertase of the alternate pathway. Its function is homologous to that of C1s in the classical pathway.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHSWERLAVLVLLGAAACAAPPRGRILGGREAEAHARPYMASVQLNGAHLCGGVLVAEQWVLSAAHCLEDAADGKVQVLLGAHSLSQPEPSKRLYDVLRAVPHPDSQPDTIDHDLLLLQRVDRDVAPGTLCDVAGWGIVNHAGRRPDSLQHVLLPVLDRATCNRRTHHDGAITERLMCAESNRRDSCKGDSGGPLVCGGVLEGVVTSGSRVCGNRKKPGIYTRVASYAAWIDSVLA
+PTM	

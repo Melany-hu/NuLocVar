@@ -1,0 +1,25 @@
+UniprotID	Q8N9N2-2
+Accession	Q8N9N2;Q5SW06;Q5SW07;Q96EI8;Q9Y307
+EntryName	ASCC1_HUMAN
+ProteinName	Activating signal cointegrator 1 complex subunit 1 (ASC-1 complex subunit p50) (Trip4 complex subunit p50)
+GeneName	ASCC1 CGI-18
+Length	357
+Function	Plays a role in DNA damage repair as component of the ASCC complex (PubMed:29997253). Part of the ASC-1 complex that enhances NF-kappa-B, SRF and AP1 transactivation (PubMed:12077347). In cells responding to gastrin-activated paracrine signals, it is involved in the induction of SERPINB2 expression by gastrin. May also play a role in the development of neuromuscular junction.
+Subcellular Location	Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVLRPQLIRIDGRNYRKNPVQEQTYQHEEDEEDFYQGSMECADEPCDAYEVEQTPQGFRSTLRAPSLLYKHIVGKRGDTRKKIEMETKTSISIPKPGQDGEIVITGQHRNGVISARTRIDVLLDTFRRKQPFTHFLAFFLNEVEVQEGFLRFQEEVLAKCSMDHGVDSSIFQNPKKLHLTIGMLVLLSEEEIQQTCEMLQQCKEEFINDISGGKPLEVEMAGIEYMNDDPGMVDVLYAKVHMKDGSNRLQELVDRVLERFQASGLIVKEWNSVKLHATVMNTLFRKDPNAEGRYNLYTAEGKYIFKERESFDGRNILKLFENFYFGSLKLNSIHISQRFTVDSFGNYASCGQIDFS
+PTM	Acetylation:331;Methylation:284,297,347;SUMOylation:117,188,331,347;Ubiquitylation:117,188,272,297,331,335

@@ -1,0 +1,25 @@
+UniprotID	Q8IX90-3
+Accession	Q8IX90;A2A330;A2A331;B2RBY2;Q5VZV5;Q86WR2;Q8NBG1;Q96D22
+EntryName	SKA3_HUMAN
+ProteinName	Spindle and kinetochore-associated protein 3
+GeneName	SKA3 C13orf3 RAMA1
+Length	388
+Function	Component of the SKA1 complex, a microtubule-binding subcomplex of the outer kinetochore that is essential for proper chromosome segregation (PubMed:19289083, PubMed:19360002, PubMed:23085020). The SKA1 complex is a direct component of the kinetochore-microtubule interface and directly associates with microtubules as oligomeric assemblies (PubMed:19289083, PubMed:19360002). The complex facilitates the processive movement of microspheres along a microtubule in a depolymerization-coupled manner (PubMed:19289083). In the complex, it mediates the microtubule-stimulated oligomerization (PubMed:19289083). Affinity for microtubules is synergistically enhanced in the presence of the ndc-80 complex and may allow the ndc-80 complex to track depolymerizing microtubules (PubMed:23085020).
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPIRSFCGKLRSLASTLDCETARLQRALDGEESDFEDYPMRILYDLHSEVQTLKDDVNILLDKARLENQEGIDFIKATKVLMEKNSMDIMKIREYFQKYGYSPRVKKNSVHEQEAINSDPELSNCENFQKTDVKDDLSDPPVASSCISEKSPRSPQLSDFGLERYIVSQVLPNPPQAVNNYKEEPVIVTPPTKQSLVKVLKTPKCALKMDDFECVTPKLEHFGISEYTMCLNEDYTMGLKNARNNKSEEAIDTESRLNDNVFATPSPIIQQLEKSDAEYTNSPLVPTFCTPGLKIPSTKNSIALVSTNYPLSKTNSSSNDLEVEDRTSLVLNSDTCFENLTDPSSPTISSYENLLRTPTPPEVTKIPEDILQKFQWIYPTQKLNKMR
+PTM	Acetylation:10,389,399;Methylation:55,64,77,85,275,377,389;Phosphorylation:34,100,102,103,110,119,124,139,145,146,149,152,155,159,190,203,217,248,265,267,276,281,283,291,310,315,317,318,319,342,346,358,360,384;SUMOylation:135,183,205,219,300,366;Ubiquitylation:99,194,202,300,377

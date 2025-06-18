@@ -1,0 +1,25 @@
+UniprotID	O15400-2
+Accession	O15400;E1P579;Q5SZW2;Q96ES9
+EntryName	STX7_HUMAN
+ProteinName	Syntaxin-7
+GeneName	STX7
+Length	239
+Function	May be involved in protein trafficking from the plasma membrane to the early endosome (EE) as well as in homotypic fusion of endocytic organelles. Mediates the endocytic trafficking from early endosomes to late endosomes and lysosomes.
+Subcellular Location	Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYTPGVGGDPAQLAQRISSNIQKITQCSVEIQRTLNQLGTPQDSPELRQQLQQKQQYTNQLAKETDKYIKEFGSLPTTPSEQRQRKIQKDRLVAEFTTSLTNFQKVQRQAAEREKEFVARVRASSRVSGSFPEDSSKERNLVSWESQTQPQVQVQDEEITEDDLRLIHERESSIRQLEADIMDINEIFKDLGMMIHEQGDVIDSIEANVENAEVHVQQANQQLSRAADYQKKDSCMLM
+PTM	Acetylation:190;Methylation:64,106,190;Phosphorylation:2,3,4,20,35,41,45,75,78,79,81,125,126,129,131,136,137,144,147,149,173,205;SUMOylation:138;Ubiquitylation:24,55,106,138

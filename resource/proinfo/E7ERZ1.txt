@@ -1,0 +1,25 @@
+UniprotID	E7ERZ1
+Accession	E7ERZ1
+EntryName	E7ERZ1_HUMAN
+ProteinName	Cyclin G1
+GeneName	CCNG1
+Length	167
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAKDLMRMEKIVLEKVCWKVKATTAFQFLQLYYSLLQENLPLERRNSINFERLEAQLKACHCRIIFSKAKPSVLALSIIALEIQAQKCVELTEGIECLQKHSKINGRDLTFWQELVSKCLTEYSSNKCSKPNVQKLKWIVSGRTARQLKHSYYRITHLPTIPEMVP
+PTM	

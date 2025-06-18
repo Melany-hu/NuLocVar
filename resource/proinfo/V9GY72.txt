@@ -1,0 +1,25 @@
+UniprotID	V9GY72
+Accession	V9GY72
+EntryName	V9GY72_HUMAN
+ProteinName	Coiled-coil domain containing 24
+GeneName	CCDC24
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRHSPSLWELVEEHVPLRERREVKRILGEAAVDLSLELRAEKQLPRSDIWVLKAWGEQHAESDSDFIASSGHRDLSIIKDQLNVSNIDQVARHLRGLLEEECHTLEREILILQRCLEEEYLRPCHPSEAALEPTLAELKEQKKAMEQELQASVGPSCVSPNHSGPWGPPHRASDPRFPSAGLHLSSAACLHLLWSPTFDLEASRLPTAGDGSFSAAPGK
+PTM	

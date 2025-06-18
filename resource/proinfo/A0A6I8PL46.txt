@@ -1,0 +1,25 @@
+UniprotID	A0A6I8PL46
+Accession	A0A6I8PL46
+EntryName	A0A6I8PL46_HUMAN
+ProteinName	Outer dynein arm docking complex subunit 1
+GeneName	ODAD1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLGRLAGSARSEEGSEAFLEGMVRRSGAWRRYGAISRCRSAQPRTRSSGFGTVSGWRTWTAC
+PTM	

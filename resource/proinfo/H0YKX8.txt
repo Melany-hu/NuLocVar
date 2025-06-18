@@ -1,0 +1,25 @@
+UniprotID	H0YKX8
+Accession	H0YKX8
+EntryName	H0YKX8_HUMAN
+ProteinName	Calcium and integrin-binding family member 2
+GeneName	CIB2
+Length	147
+Function	
+Subcellular Location	Cell membrane; Sarcolemma; Cell projection; Cilium; Photoreceptor outer segment; Cell projection; Stereocilium; Cytoplasm; Photoreceptor inner segment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNKQTIFTEEQLDNYQDCTFFNKKDILKWGNRGSEGFGHSSRVTQAVHSLAPGPSCLSCTHSDCCVCFLQENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDE
+PTM	

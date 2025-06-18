@@ -1,0 +1,25 @@
+UniprotID	P10415-2
+Accession	P10415;C9JHD5;P10416;Q13842;Q16197
+EntryName	BCL2_HUMAN
+ProteinName	Apoptosis regulator Bcl-2
+GeneName	BCL2
+Length	205
+Function	Suppresses apoptosis in a variety of cell systems including factor-dependent lymphohematopoietic and neural cells (PubMed:1508712, PubMed:8183370). Regulates cell death by controlling the mitochondrial membrane permeability (PubMed:11368354). Appears to function in a feedback loop system with caspases (PubMed:11368354). Inhibits caspase activity either by preventing the release of cytochrome c from the mitochondria and/or by binding to the apoptosis-activating factor (APAF-1) (PubMed:11368354). Also acts as an inhibitor of autophagy: interacts with BECN1 and AMBRA1 during non-starvation conditions and inhibits their autophagy function (PubMed:18570871, PubMed:20889974, PubMed:21358617). May attenuate inflammation by impairing NLRP1-inflammasome activation, hence CASP1 activation and IL1B release (PubMed:17418785).
+Subcellular Location	Mitochondrion outer membrane; Nucleus membrane; Endoplasmic reticulum membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHAGRTGYDNREIVMKYIHYKLSQRGYEWDAGDVGAAPPGAAPAPGIFSSQPGHTPHPAASRDPVARTSPLQTPAAPGAAAGPALSPVPPVVHLTLRQAGDDFSRRYRRDFAEMSSQLHLTPFTARGRFATVVEELFRDGVNWGRIVAFFEFGGVMCVESVNREMSPLVDNIALWMTEYLNRHLHTWIQDNGGWVGALGDVSLG
+PTM	Phosphorylation:70,87,216

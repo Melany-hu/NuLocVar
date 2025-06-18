@@ -1,0 +1,25 @@
+UniprotID	O75663-2
+Accession	O75663;B2R8V3;Q5HYB2;Q8IZ86
+EntryName	TIPRL_HUMAN
+ProteinName	TIP41-like protein (Putative MAPK-activating protein PM10) (Type 2A-interacting protein) (TIP)
+GeneName	TIPRL
+Length	178
+Function	May be a allosteric regulator of serine/threonine-protein phosphatase 2A (PP2A). Isoform 1 inhibits catalytic activity of the PP2A(D) core complex in vitro. The PP2A(C):TIPRL complex does not show phosphatase activity. Acts as a negative regulator of serine/threonine-protein phosphatase 4 probably by inhibiting the formation of the active PPP4C:PPP4R2 complex; the function is proposed to implicate it in DNA damage response by promoting H2AX phosphorylated on Ser-140 (gamma-H2AX). May play a role in the regulation of ATM/ATR signaling pathway controlling DNA replication and repair.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMIHGFQSSHRDFCFGPWKLTASKTHIMKSADVEKLADELHMPSLPEMMFGDNVLRIQHGSGFGIEFNATDALRCVNNYQGMLKVACAEEWQESRTEGEHSKEVIKPYDWTYTTDYKGTLLGESLKLKVVPTTDHIDTEKLKAREQIKFFEEVLLFEDELHDHGVSSLSVKIPGGGHL
+PTM	Acetylation:19,29,106,126,140,207,251;Methylation:106,126,148;Phosphorylation:8,9,124,167,202,209,265,268,269;SUMOylation:106,117,126,128,140,245;Ubiquitylation:19,84,102,106,117,126,128,140,142,245,267

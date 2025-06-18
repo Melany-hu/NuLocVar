@@ -1,0 +1,25 @@
+UniprotID	Q08345-5
+Accession	Q08345;B5A975;B5A976;B7Z2K0;Q14196;Q16562;Q2L6H3;Q4LE50;Q5ST11;Q5ST12;Q6NSK4;Q9UD35;Q9UD36;Q9UD37;Q9UD86;Q9UDL2
+EntryName	DDR1_HUMAN
+ProteinName	Epithelial discoidin domain-containing receptor 1 (Epithelial discoidin domain receptor 1) (EC 2.7.10.1) (CD167 antigen-like family member A) (Cell adhesion kinase) (Discoidin receptor tyrosine kinase) (HGK2) (Mammary carcinoma kinase 10) (MCK-10) (Protein-tyrosine kinase 3A) (Protein-tyrosine kinase RTK-6) (TRK E) (Tyrosine kinase DDR) (Tyrosine-protein kinase CAK) (CD antigen CD167a)
+GeneName	DDR1 CAK EDDR1 NEP NTRK4 PTK3A RTK6 TRKE
+Length	919
+Function	Tyrosine kinase that functions as a cell surface receptor for fibrillar collagen and regulates cell attachment to the extracellular matrix, remodeling of the extracellular matrix, cell migration, differentiation, survival and cell proliferation. Collagen binding triggers a signaling pathway that involves SRC and leads to the activation of MAP kinases. Regulates remodeling of the extracellular matrix by up-regulation of the matrix metalloproteinases MMP2, MMP7 and MMP9, and thereby facilitates cell migration and wound healing. Required for normal blastocyst implantation during pregnancy, for normal mammary gland differentiation and normal lactation. Required for normal ear morphology and normal hearing (By similarity). Promotes smooth muscle cell migration, and thereby contributes to arterial wound healing. Also plays a role in tumor cell invasion. Phosphorylates PTPN11.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPEALSSLLLLLLVASGDADMKGHFDPAKCRYALGMQDRTIPDSDISASSSWSDSTAARHSRLESSDGDGAWCPAGSVFPKEEEYLQVDLQRLHLVALVGTQGRHAGGLGKEFSRSYRLRYSRDGRRWMGWKDRWGQEVISGNEDPEGVVLKDLGPPMVARLVRFYPRADRVMSVCLRVELYGCLWRDGLLSYTAPVGQTMYLSEAVYLNDSTYDGHTVGGLQYGGLGQLADGVVGLDDFRKSQELRVWPGYDYVGWSNHSFSSGYVEMEFEFDRLRAFQAMQVHCNNMHTLGARLPGGVECRFRRGPAMAWEGEPMRHNLGGNLGDPRARAVSVPLGGRVARFLQCRFLFAGPWLLFSEISFISDVVNNSSPALGGTFPPAPWWPPGPPPTNFSSLELEPRGQQPVAKAEGSPTAILIGCLVAIILLLLLIIALMLWRLHWRRLLSKAERRVLEEELTVHLSVPGDTILINNRPGPREPPPYQEPRPRGNPPHSAPCVPNGSALLLSNPAYRLLLATYARPPRGPGPPTPAWAKPTNTQAYSGDYMEPEKPGAPLLPPPPQNSVPHYAEADIVTLQGVTGGNTYAVPALPPGAVGDGPPRVDFPRSRLRFKEKLGEGQFGEVHLCEVDSPQDLVSLDFPLNVRKGHPLLVAVKILRPDATKNASFSLFSRNDFLKEVKIMSRLKDPNIIRLLGVCVQDDPLCMITDYMENGDLNQFLSAHQLEDKAAEGAPGDGQAAQGPTISYPMLLHVAAQIASGMRYLATLNFVHRDLATRNCLVGENFTIKIADFGMSRNLYAGDYYRVQGRAVLPIRWMAWECILMGKFTTASDVWAFGVTLWEVLMLCRAQPFGQLTDEQVIENAGEFFRDQGRQVYLSRPPACPQGLYELMLRCWSRESEQRPPFSQLHRFLAEDALNTV
+PTM	Acetylation:30;Methylation:112,153,449,655,671;Phosphorylation:484,513,520,631,792,796,797;SUMOylation:449,646;Ubiquitylation:112,153,449,646,663,671,680

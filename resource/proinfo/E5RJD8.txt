@@ -1,0 +1,25 @@
+UniprotID	E5RJD8
+Accession	E5RJD8
+EntryName	E5RJD8_HUMAN
+ProteinName	Tubulin-specific chaperone A
+GeneName	TBCA
+Length	119
+Function	Tubulin-folding protein; involved in the early step of the tubulin folding pathway.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTRTSWFHGFFSWFSSSICWSTLSKFLRLVKEKVMYEKEAKQQEEKIEKMRAEDGENYDIKKQAEILQESRMMIPDCQRRLEAAYLDLQRILENEKDLEEAEEYKEARLVLDSVKLEA
+PTM	

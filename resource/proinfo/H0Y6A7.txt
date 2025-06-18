@@ -1,0 +1,25 @@
+UniprotID	H0Y6A7
+Accession	H0Y6A7
+EntryName	H0Y6A7_HUMAN
+ProteinName	Ganglioside induced differentiation associated protein 1 like 1
+GeneName	GDAP1L1
+Length	251
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSFSSQKVRLVIAEKGLVCEERDVSLPQSEHKEPWFMRLNLGEEVPVIIHRDNIISDYDQIIDYVERTFTGEHVVALMPEVGSLQHARVLQYRELLDALPMDAYTHGCILHPELTTDSMIPKYATAEIRRHLANATTDLMKLDHEEEPQLSEPYLSKQKKLMAKILEHDDVSYLKKILGELAMVLDQIEAELEKRKLENEGGCQPWGRWGLQPTQPTLPLPSLSLFFPQKSQRTSQVVKRMGYGVRLRFKS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O75579
+Accession	O75579
+EntryName	O75579_HUMAN
+ProteinName	Killer cell inhibitory receptor short form
+GeneName	KIR2DS2
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVSMACVGFFLLQGAWPHEGNPSNSWPSPTEPSSKTGNPRHLHVLIGTSVVKIPFTILLFFLLHRWCSNKKNAAVMDQEPAGNRTVNSEDSDEQDHQEVSYA
+PTM	

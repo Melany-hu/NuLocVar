@@ -1,0 +1,25 @@
+UniprotID	C9J5A4
+Accession	C9J5A4
+EntryName	C9J5A4_HUMAN
+ProteinName	KAT8 regulatory NSL complex subunit 3
+GeneName	KANSL3
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAAYLDALQTLKGKIPTLIDRMLVSSNTKTGAAGAEALSLLLKRPWDPAVGVLSHNKPSKLPGSPLILIASSGPSSSVFPTSRRHRFWQSQLSCLGKVIPVATHLLNNGSGVGVLQCLEHMIGAVRSKVLEIHSHFPHKPIILIGWNTGALVACHVSNFYLIWRLSWDGIP
+PTM	

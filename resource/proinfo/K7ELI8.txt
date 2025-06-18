@@ -1,0 +1,25 @@
+UniprotID	K7ELI8
+Accession	K7ELI8
+EntryName	K7ELI8_HUMAN
+ProteinName	EMAP like 2
+GeneName	EML2
+Length	121
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLCAVDESNDHMLSVWDWAKETKVVDVKVPEDFGPVRTVAEGHGDTLYVGTTRNSILQGSVHTGFSLLVQGHVEELWGLATHPSRAQFVTCGQDKLVHLWSSDSHQPLWSRIIEDPARSAG
+PTM	

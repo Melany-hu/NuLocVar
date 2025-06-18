@@ -1,0 +1,25 @@
+UniprotID	K7EQH5
+Accession	K7EQH5
+EntryName	K7EQH5_HUMAN
+ProteinName	Amino-terminal enhancer of split, isoform CRA_a (TLE family member 5, transcriptional modulator)
+GeneName	TLE5 AES hCG_2005178
+Length	141
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRHYVMYYEMSYGLNIEMHKQAEIVKRLNGICAQVLPYLSQEHQQQVLGAIERAKQVTAPELNSIIRQQLQAHQLSQLQALALPLTPLPVGLQPPSLPAVSAGTGLLSLSALGSQAHLSKEDKNGHDGDTHQEDDGEKSD
+PTM	

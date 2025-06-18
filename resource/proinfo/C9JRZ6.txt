@@ -1,0 +1,25 @@
+UniprotID	C9JRZ6
+Accession	C9JRZ6
+EntryName	C9JRZ6_HUMAN
+ProteinName	Coiled-coil-helix-coiled-coil-helix domain containing 3
+GeneName	CHCHD3
+Length	232
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGTTSTRRVTFEADENENITVVKGIRLSENVIDRMKESSPSGSKSQRYSGAYGASVSDEELKRRVAEELALEQAKKESEDQKRLKQAKELDRERAAANEQLTRAILRERICSEEERAKAKHLDIEDKARQLEEKDRVLKKQDAFYKEQLARLEERSSEFYRVTTEQYQKAAEEVEAKFKRYESHPVCADLQAKILQCYRENTHQTLKCSALATQYMHCVNHAKQSMLEKGG
+PTM	

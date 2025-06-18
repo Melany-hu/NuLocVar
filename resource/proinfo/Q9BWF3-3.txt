@@ -1,0 +1,25 @@
+UniprotID	Q9BWF3-3
+Accession	Q9BWF3;B3KUN0;B4E1U0;E7EQS3;O02916;Q4VC48;Q6P1P2;Q8WU85
+EntryName	RBM4_HUMAN
+ProteinName	RNA-binding protein 4 (Lark homolog) (hLark) (RNA-binding motif protein 4) (RNA-binding motif protein 4a)
+GeneName	RBM4 RBM4A
+Length	143
+Function	RNA-binding factor involved in multiple aspects of cellular processes like alternative splicing of pre-mRNA and translation regulation. Modulates alternative 5'-splice site and exon selection. Acts as a muscle cell differentiation-promoting factor. Activates exon skipping of the PTB pre-mRNA during muscle cell differentiation. Antagonizes the activity of the splicing factor PTBP1 to modulate muscle cell-specific exon selection of alpha tropomyosin. Binds to intronic pyrimidine-rich sequence of the TPM1 and MAPT pre-mRNAs. Required for the translational activation of PER1 mRNA in response to circadian clock. Binds directly to the 3'-UTR of the PER1 mRNA. Exerts a suppressive activity on Cap-dependent translation via binding to CU-rich responsive elements within the 3'UTR of mRNAs, a process increased under stress conditions or during myocytes differentiation. Recruits EIF4A1 to stimulate IRES-dependent translation initiation in respons to cellular stress. Associates to internal ribosome entry segment (IRES) in target mRNA species under stress conditions. Plays a role for miRNA-guided RNA cleavage and translation suppression by promoting association of AGO2-containing miRNPs with their cognate target mRNAs. Associates with miRNAs during muscle cell differentiation. Binds preferentially to 5'-CGCGCG-3' motif in vitro.
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Nucleus speckle; Cytoplasm; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKLFIGNLPREATEQEIRSLFEQYGKVLECDIIKNYGFVHIEDKTAAEDAIRNLHHYKLHGVNINVEASKNKSKTSTKLHVGNISPTCTNKELRAKFEEYGPVIECDIVKDYAFVHMERAEDAVEAIRGLDNTEFQGGMCVG
+PTM	Acetylation:27,35,45,59,71,79,92,97,139,223;Methylation:27,35,71,111,139,358;Phosphorylation:25,37,76,77,78,86,88,90,101,113,163,180,190,194,303,309,325,327,331,334,337,343,345;SUMOylation:3,27,35,45,59,71,75,79,92,97,111,139,167,173,223;Ubiquitylation:3,27,35,45,79,92,139,167,173,223

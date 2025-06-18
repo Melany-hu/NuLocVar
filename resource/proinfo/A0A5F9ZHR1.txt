@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZHR1
+Accession	A0A5F9ZHR1
+EntryName	A0A5F9ZHR1_HUMAN
+ProteinName	Biotinidase (EC 3.5.1.12)
+GeneName	BTD
+Length	141
+Function	Catalytic release of biotin from biocytin, the product of biotin-dependent carboxylases degradation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGARSKLALFLCGCYVVALGAHTGEESVADHHEAEYYVAAVYEHPSILSLNPLALISRQEALELMNQNLDIYEQQVMTAAQKDVQIIVFPEDGIHGFNFTRTSIYPFLDFMPSPQVVRWNPCLEPHRFNDTEASYVEVRF
+PTM	

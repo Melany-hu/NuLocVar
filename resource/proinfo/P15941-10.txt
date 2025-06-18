@@ -1,0 +1,25 @@
+UniprotID	P15941-10
+Accession	P15941;A5YRV1;A6ZID9;A6ZIE0;B1AVQ8;B1AVR0;B6ECA1;E7ESE5;E7EUG9;P13931;P15942;P17626;Q0VAP5;Q0VAP6;Q14128;Q14876;Q16437;Q16442;Q16615;Q6S4Y3;Q7Z547;Q7Z548;Q7Z550;Q7Z552;Q9BXA4;Q9UE75;Q9UE76;Q9UQL1;Q9Y4J2
+EntryName	MUC1_HUMAN
+ProteinName	Mucin-1 (MUC-1) (Breast carcinoma-associated antigen DF3) (Cancer antigen 15-3) (CA 15-3) (Carcinoma-associated mucin) (Episialin) (H23AG) (Krebs von den Lungen-6) (KL-6) (PEMT) (Peanut-reactive urinary mucin) (PUM) (Polymorphic epithelial mucin) (PEM) (Tumor-associated epithelial membrane antigen) (EMA) (Tumor-associated mucin) (CD antigen CD227) [Cleaved into: Mucin-1 subunit alpha (MUC1-NT) (MUC1-alpha); Mucin-1 subunit beta (MUC1-beta) (MUC1-CT)]
+GeneName	MUC1 PUM
+Length	203
+Function	The alpha subunit has cell adhesive properties. Can act both as an adhesion and an anti-adhesion protein. May provide a protective layer on epithelial cells against bacterial and enzyme attack.
+Subcellular Location	Apical cell membrane; Secreted; Secreted; Secreted; Cell membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPGTQSPFFLLLLLTVLTVVTGSGHASSTPGGEKETSATQRSSVPSSTEKNAIPAPTTTKSCRETFLKCFCRFINKGVFWASPILSSVSDVPFPFSAQSGAGVPGWGIALLVLVCVLVALAIVYLIALAVCQCRRKNYGQLDIFPARDTYHPMSEYPTYHTHGRYVPPSSTDRSPYEKVSAGNGGSSLSYTNPAVAATSANL
+PTM	Glycosylation:1113,1122,1190,1236;Phosphorylation:1191,1202,1203,1207,1211,1212,1214,1218,1222,1223,1224,1227,1229,1233;Ubiquitylation:1189,1231

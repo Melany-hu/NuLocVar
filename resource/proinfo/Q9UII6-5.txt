@@ -1,0 +1,25 @@
+UniprotID	Q9UII6-5
+Accession	Q9UII6;A0A024QZR6;A8K776;A8K782;B3KPY1;B3KXT0;B4DUK0;Q5JSC6;Q6IAR0;Q96GC2;U3KQ82
+EntryName	DS13B_HUMAN
+ProteinName	Dual specificity protein phosphatase 13B (EC 3.1.3.16) (EC 3.1.3.48) (Dual specificity phosphatase SKRP4) (Testis- and skeletal-muscle-specific DSP)
+GeneName	DUSP13B DUSP13 SKRP4 TMDP
+Length	334
+Function	Dual specificity phosphatase that dephosphorylates MAPK8/JNK and MAPK14/p38, but not MAPK1/ERK2, in vitro (PubMed:21360282). Exhibits intrinsic phosphatase activity towards both phospho-seryl/threonyl and -tyrosyl residues, with similar specific activities in vitro (PubMed:10585869).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQVGGRPLSHLERSQWGMRRTAWSSLPPCPTASHWVSLAKPAASWVPVSFSGPGTAYQREKMFFPVCTFPSHWSRGSGAVSKDRTPSPTRHQAHILVPLKIQLRRVPDSFSQQMPETSYLTRVGPDIQCWPESWGMDSLQKQDLRRPKIHGAVQASPYQPPTLASLQRLLWVRQAATLNHIDEVWPSLFLGDAYAARDKSKLIQLGITHVVNAAAGKFQVDTGAKFYRGMSLEYYGIEADDNPFFDLSVYFLPVARYIRAALSVPQGRVLVHCAMGVSRSATLVLAFLMICENMTLVEAIQTVQAHRNICPNSGFLRQLQVLDNRLGRETGRF
+PTM	Methylation:82

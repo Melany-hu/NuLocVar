@@ -1,0 +1,25 @@
+UniprotID	P08118-2
+Accession	P08118;B1API6;P11999;Q13125;Q6IAY9;Q9UC59
+EntryName	MSMB_HUMAN
+ProteinName	Beta-microseminoprotein (Immunoglobulin-binding factor) (IGBF) (PN44) (Prostate secreted seminal plasma protein) (Prostate secretory protein of 94 amino acids) (PSP-94) (PSP94) (Seminal plasma beta-inhibin)
+GeneName	MSMB PRSP
+Length	77
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNVLLGSVVIFATFVTLCNASCYFIPNEGVPGDSTRMFLHLWVMTKTTAKESSRRRTASISWWRRRTQKRPVLSVNG
+PTM	

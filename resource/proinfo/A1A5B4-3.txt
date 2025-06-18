@@ -1,0 +1,25 @@
+UniprotID	A1A5B4-3
+Accession	A1A5B4;B3KUC4;B4E134;Q8TEN4
+EntryName	ANO9_HUMAN
+ProteinName	Anoctamin-9 (Transmembrane protein 16J) (Tumor protein p53-inducible protein 5) (p53-induced gene 5 protein)
+GeneName	ANO9 PIG5 TMEM16J TP53I5
+Length	186
+Function	PKA-activated nonselective cation channel (PubMed:29604966). Discriminates poorly among cations but is more permeable to Ca(2+) ions than to monovalent cations (By similarity). Acts as a calcium-activated calcium permeable channel which may operate as a endoplasmic reticulum (ER) Ca(2+)-leak channel, reducing the loading of the ER Ca(2+) store (PubMed:36520003). Regulates intracellular Ca2+ signals, ion channel activity, and cytokine release in the renal tissue (PubMed:36520003). Plays an important role in olfaction, amplifying cAMP-evoked cyclic nucleotide-gated (CNG) channel currents in the olfactory sensory neurons (By similarity). Has calcium-dependent phospholipid scramblase activity; scrambles phosphatidylserine, phosphatidylcholine and galactosylceramide (By similarity). Does not exhibit calcium-activated chloride channel (CaCC) activity (PubMed:22178883). Can inhibit the activity of ANO1 (PubMed:20056604, PubMed:22946059).
+Subcellular Location	Cell membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQGEESLRILVEPEGDSFPLMEISTCETEASEQWDYVLVAQRHTQRDPRQARQQQFLEELRRKGFHIKVIRDQKQVFFGIRADNSVFGLYRTLLLEPEGPAPHAELAAPTTIPVTTSLRIRIVNFVVMNNKTSAGETFEDLMKDGVFEARFPLHKVRGGPAWRGPWGGTLGWGLSLSVTRARGRDA
+PTM	Acetylation:63,155;Glycosylation:397,641;Methylation:131,579,739;Phosphorylation:6,421;Ubiquitylation:155

@@ -1,0 +1,25 @@
+UniprotID	Q00013-3
+Accession	Q00013;B4DZV5;G3XAI1;Q2TSB6;Q5J7V5
+EntryName	EM55_HUMAN
+ProteinName	55 kDa erythrocyte membrane protein (p55) (Membrane protein, palmitoylated 1)
+GeneName	MPP1 DXS552E EMP55
+Length	446
+Function	Essential regulator of neutrophil polarity. Regulates neutrophil polarization by regulating AKT1 phosphorylation through a mechanism that is independent of PIK3CG activity (By similarity).
+Subcellular Location	Cell membrane; Cell projection; Stereocilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLKASEGESGGSMHTALSDLYLEHLLQKRSRPEAVSHPLNTVTEDMYTNGSPAPGSPAQVKGQEVRKVRLIQFEKVTEEPMGITLKLNEKQSCTVARILHGGMIHRQGSLHVGDEILEINGTNVTNHSVDQLQKAMKETKGMISLKVIPNQQSRLPALQEAGLKFATGDIIQIINKDDSNWWQGRVEGSSKESAGLIPSPELQEWRVASMAQSAPSEAPSCSPFGKKKKYKDKYLAKHSSIFDQLDVVSYEEVVRLPAFKRKTLVLIGASGVGRSHIKNALLSQNPEKFVYPVPYTTRPPRKSEEDGKEYHFISTEEMTRNISANEFLEFGSYQGNMFGTKFETVHQIHKQNKIAILDIEPQTLKIVRTAELSPFIVFIAPTDQGTQTEALQQLQKDSEAIRSQYAHYFDLSLVNNGVDETLKKLQEAFDQACSSPQWVPVSWVY
+PTM	Acetylation:91,147;Methylation:29,87,91,135,185,197,386,444;Phosphorylation:19,48,49,52,57,110,234,241,243,260,261,296,331,344,407;SUMOylation:4,185,197,323,362;Ubiquitylation:29,386,444

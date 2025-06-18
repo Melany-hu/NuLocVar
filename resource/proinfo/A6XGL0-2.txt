@@ -1,0 +1,25 @@
+UniprotID	A6XGL0-2
+Accession	A6XGL0;A6XGK9;Q4G1C0
+EntryName	YJEN3_HUMAN
+ProteinName	YjeF N-terminal domain-containing protein 3 (YjeF_N3) (hYjeF_N3) (ApoA-I-binding protein 2)
+GeneName	YJEFN3 AIBP2
+Length	249
+Function	May accelerate cholesterol efflux from endothelial cells to high-density lipoprotein (HDL) and thereby regulates angiogenesis. May orchestrate hematopoietic stem and progenitor cell emergence from the hemogenic endothelium, a type of specialized endothelium manifesting hematopoietic potential. YJEFN3-mediated cholesterol efflux activates endothelial SREBF2, the master transcription factor for cholesterol biosynthesis, which in turn transactivates NOTCH and promotes hematopoietic stem and progenitor cell emergence (By similarity). May play a role in spermiogenesis and oogenesis (PubMed:17533573).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSAAGPDPSEAPEERHFLSTAEAAALERELLEDYRFGRQQLVELCGHASAVAVTKAFPLPALSRKQRTVLVVCGPEQNGAVGLVCARHLRVFEYEPTIFYPTRSLDLLHRDLTTQCEKMDIPFLSYLPTEVQLINEAYGLVVDAVLGPGVEPGEVGGPCTRALATLKLLSIPLVSLDIPSGWDAETGSDSEDGLRPDVLVSLAAPKRCAGRFSGRHHFVAGRFVPDDVRRKFALRLPGYTGTDCVAAL
+PTM	Methylation:106

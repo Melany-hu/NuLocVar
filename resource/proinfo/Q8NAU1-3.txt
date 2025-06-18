@@ -1,0 +1,25 @@
+UniprotID	Q8NAU1-3
+Accession	Q8NAU1;A0AA34QVI5;A6NMC9;D3DPQ6;Q6P6D9;Q7Z676
+EntryName	FNDC5_HUMAN
+ProteinName	Fibronectin type III domain-containing protein 5 (Fibronectin type III repeat-containing protein 2) [Cleaved into: Irisin]
+GeneName	FNDC5 FRCP2
+Length	153
+Function	Mediates beneficial effects of muscular exercise. Induces browning of white adipose tissue by stimulating UCP1 expression, at least in part, via the nuclear receptor PPARA.
+Subcellular Location	Cell membrane; Peroxisome membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRFIQEVNTTTRSCALWDLEEDTEYIVHVQAISIQGQSPASEPVLFKTPREAEKMASKNKDEVTMKEMGRNQQLRTGEVLIIVVVLFMWAGVIALFCRQYDIIKDNEPNNNKEKTKSASETSTPEHQGGGLLRSKVRARPGPGWATLCLMLW
+PTM	Glycosylation:84;Methylation:180;Phosphorylation:7,193,195,197,199;Ubiquitylation:192

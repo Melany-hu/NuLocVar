@@ -1,0 +1,25 @@
+UniprotID	E7EMS2
+Accession	E7EMS2
+EntryName	E7EMS2_HUMAN
+ProteinName	NPC intracellular cholesterol transporter 2 (Epididymal secretory protein E1)
+GeneName	NPC2
+Length	201
+Function	Intracellular cholesterol transporter which acts in concert with NPC1 and plays an important role in the egress of cholesterol from the lysosomal compartment. Unesterified cholesterol that has been released from LDLs in the lumen of the late endosomes/lysosomes is transferred by NPC2 to the cholesterol-binding pocket in the N-terminal domain of NPC1. May bind and mobilize cholesterol that is associated with membranes. NPC2 binds cholesterol with a 1:1 stoichiometry. Can bind a variety of sterols, including lathosterol, desmosterol and the plant sterols stigmasterol and beta-sitosterol. The secreted form of NCP2 regulates biliary cholesterol secretion via stimulation of ABCG5/ABCG8-mediated cholesterol transport.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFLAATFLLLALSTAAQAEPVQFKDCGSVDGVIKEVNVSPCPTQPCQLSKGQSYSVNVTFTSNIQSKSSKAVVHGILMGVPVPFPIPEPDGCKSGINCPIQKDKTYSYLNKLPVKSEYPSIKLVVEWQLQDDKNQSLFCWEIPVQIMFPCLFSAHCPMLATEHRCLQLQMETKSLRFWSRRGMSVWLPSPAGAWRRTAPF
+PTM	

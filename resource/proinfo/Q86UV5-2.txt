@@ -1,0 +1,25 @@
+UniprotID	Q86UV5-2
+Accession	Q86UV5;B7ZKS7;Q2M3I4;Q5SZI4;Q5T3T5;Q6NX53;Q8N3F6;Q96F64;Q96IQ3;Q9H5N3;Q9H5T7;Q9NUJ6;Q9NXR0
+EntryName	UBP48_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 48 (EC 3.4.19.12) (Deubiquitinating enzyme 48) (Ubiquitin thioesterase 48) (Ubiquitin-specific peptidase 48) (Ubiquitin-specific protease 48) (Ubiquitin-specific-processing protease 48)
+GeneName	USP48 USP31
+Length	983
+Function	Deubiquitinase that recognizes and hydrolyzes the peptide bond at the C-terminal Gly of ubiquitin. Involved in the processing of polyubiquitin precursors as well as that of ubiquitinated proteins (PubMed:16214042, PubMed:34059922). Plays a role in the regulation of NF-kappa-B activation by TNF receptor superfamily via its interactions with RELA and TRAF2. May also play a regulatory role at postsynaptic sites. Plays an important role in cell cycle progression by deubiquitinating Aurora B/AURKB and thereby extending its stability (PubMed:34445214). In the context of H.pylori infection, stabilizes nuclear RELA through deubiquitination, thereby promoting the transcriptional activity of RELA to prolong TNFAIP3 de novo synthesis. Consequently, TNFAIP3 suppresses caspase activity and apoptotic cell death (PubMed:35913642). Also functions in the modulation of the ciliary and synaptic transport as well as cytoskeleton organization, which are key for photoreceptor function and homeostasis. To achieve this, stabilizes the levels of the retinal degeneration-associated proteins ARL3 and UNC119 using distinct mechanisms (PubMed:36293380). Plays a positive role in pyroptosis by stabilizing gasdermin E/GSDME through removal of its 'Lys-48'-linked ubiquitination (PubMed:36607699).
+Subcellular Location	Cytoplasm; Nucleus; Cell projection; Cilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRLQLEKAAWRWAETVRPEEVSQEHIETAYRIWLEPCIRGVCRRNCKGNPNCLVGIGEHIWLGEIDENSFHNIDDPNCERRKKNSFVGLTNLGATCYVNTFLQVWFLNLELRQALYLCPSTCSDYMLGDGIQEEKDYEPQTICEHLQYLFALLQNSNRRYIDPSGFVKALGLDTGQQQDAQEFSKLFMSLLEDTLSKQKNPDVRNIVQQQFCGEYAYVTVCNQCGRESKLLSKFYELELNIQGHKQLTDCISEFLKEEKLEGDNRYFCENCQSKQNATRKIRLLSLPCTLNLQLMRFVFDRQTGHKKKLNTYIGFSEILDMEPYVEHKGGSYVYELSAVLIHRGVSAYSGHYIAHVKDPQSGEWYKFNDEDIEKMEGKKLQLGIEEDLAEPSKSQTRKPKCGKGTHCSRNAYMLVYRLQTQEKPNTTVQVPAFLQELVDRDNSKFEEWCIEMAEMRKQSVDKGKAKHEEVKELYQRLPAGAEPYEFVSLEWLQKWLDESTPTKPIDNHACLCSHDKLHPDKISIMKRISEYAADIFYSRYGGGPRLTVKALCKECVVERCRILRLKNQLNEDYKTVNNLLKAAVKGSDGFWVGKSSLRSWRQLALEQLDEQDGDAEQSNGKMNGSTLNKDESKEERKEEEELNFNEDILCPHGELCISENERRLVSKEAWSKLQQYFPKAPEFPSYKECCSQCKILEREGEENEALHKMIANEQKTSLPNLFQDKNRPCLSNWPEDTDVLYIVSQFFVEEWRKFVRKPTRCSPVSSVGNSALLCPHGGLMFTFASMTKEDSKLIALIWPSEWQMIQKLFVVDHVIKITRIEVGDVNPSETQYISEPKLCPECREGLLCQQQRDLREYTQATIYVHKVVDNKKVMKDSAPELNVSSSETEEDKEEAKPDGEKDPDFNQIMHAFSVAPFDQNLSIDGKILSDDCATLGTLGVIPESVILLKADEPIADYAAMDDVMQVCMPEEGFKGTGLLGH
+PTM	Acetylation:689,696,956;Methylation:9,170,235,258,267,376,528,583,635,669,727,755,929,956,1003;Phosphorylation:176,186,191,196,198,287,879,886,887,888,890,914,935;SUMOylation:9,187,231,258,381,425,473,505,576,583,639,669,681,696,717,839,918,945,1003;Ubiquitylation:9,49,170,187,199,258,276,368,395,473,551,555,568,576,583,587,596,669,674,681,689,696,839,915,945,956,1028

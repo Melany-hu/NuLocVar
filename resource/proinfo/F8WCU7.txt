@@ -1,0 +1,25 @@
+UniprotID	F8WCU7
+Accession	F8WCU7
+EntryName	F8WCU7_HUMAN
+ProteinName	Interleukin 17 receptor E
+GeneName	IL17RE
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSSRLAALLLPLLLIVIDLSDSAGIGFRHLPHWNTRCPLASHTVFNGASSTSWCRNPKSLPHSSSIGDTRCQHLLRGSCCLVVTCLRRAITFPSPPQTSPTRDFALKGPNLRIQRHGKVFPDWTHKGMEDPSSPLICCLRPGLFG
+PTM	

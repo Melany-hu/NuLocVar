@@ -1,0 +1,25 @@
+UniprotID	O75414-2
+Accession	O75414;B4DGW7;B4DM99;Q53HM5;Q96E73;Q9BQ63
+EntryName	NDK6_HUMAN
+ProteinName	Nucleoside diphosphate kinase 6 (NDK 6) (NDP kinase 6) (EC 2.7.4.6) (Inhibitor of p53-induced apoptosis-alpha) (IPIA-alpha) (nm23-H6)
+GeneName	NME6
+Length	119
+Function	Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate. Inhibitor of p53-induced apoptosis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASILRSPQALQLTLALIKPDAVAHPLILEAVHQQILSNKFLIVRMRELLWRKEDCQRFYREHEDSVVSASREIAAFFPDFSEQRWYEEEEPQLRCGPVCYSPEGGVHYVAGTGGLGPA
+PTM	Methylation:19;Phosphorylation:114

@@ -1,0 +1,25 @@
+UniprotID	L8E8E2
+Accession	L8E8E2
+EntryName	L8E8E2_HUMAN
+ProteinName	Alternative protein TXNL4B
+GeneName	TXNL4B
+Length	53
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMHGATTAILGPRGAQHHVKHRYAKKNKKSPISDVIELLHELWTCLPQTSVKE
+PTM	

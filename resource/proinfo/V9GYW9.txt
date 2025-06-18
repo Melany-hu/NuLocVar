@@ -1,0 +1,25 @@
+UniprotID	V9GYW9
+Accession	V9GYW9
+EntryName	V9GYW9_HUMAN
+ProteinName	Calcipressin-1 (Regulator of calcineurin 1)
+GeneName	RCAN1
+Length	205
+Function	Inhibits calcineurin-dependent transcriptional responses by binding to the catalytic domain of calcineurin A. Could play a role during central nervous system development.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHFRNFNYSFSSLIACVANSDIFSESETRAKFESLFRTYDKDITFQYFKSFKRVRINFSNPFSAADARLQLHKTEFLGKEMKLYFAQTLHIGSSHLAPPNPDKQFLISPPASPPVGWKQVEDATPVINYDLLYAISKLGPGEQGPRVGGRQGETQLLPCTREQYHHYPRSSPEPMPACFVSFSVFFCATVPCAGSMPASWHHLQC
+PTM	

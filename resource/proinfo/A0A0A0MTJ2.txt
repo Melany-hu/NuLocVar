@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MTJ2
+Accession	A0A0A0MTJ2
+EntryName	A0A0A0MTJ2_HUMAN
+ProteinName	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (Sparc/osteonectin, cwcv and kazal-like domains proteoglycan (Testican) 3, isoform CRA_b)
+GeneName	SPOCK3 hCG_1811376
+Length	344
+Function	
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKCSRHKVCIAQDSQTAVCISHRRLTHRMKEAGVDHRQWRGPILSTCKQCPVVYPSPVCGSDGHTYSFQCKLEYQACVLGKQISVKCEGHCPCPSDKPTSTSRNVKRACSDLEFREVANRLRDWFKALHESGSQNKKTKTLLRPERSRFDTSILPICKDSLGWMFNRLDTNYDLLLDQSELRSIYLDKNEQCTKAFFNSCDTYKDSLISNNEWCYCFQRQQDPPCQTELSNIQKRQGVKKLLGQYIPLCDEDGYYKPTQCHGSVGQCWCVDRYGNEVMGSRINGVADCAIDFEISGDFASGDFHEWTDDEDDEDDIMNDEDEIEDDDEDEGDDDDGGDDHDVYI
+PTM	

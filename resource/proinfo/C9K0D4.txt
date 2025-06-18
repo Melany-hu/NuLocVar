@@ -1,0 +1,25 @@
+UniprotID	C9K0D4
+Accession	C9K0D4
+EntryName	C9K0D4_HUMAN
+ProteinName	Myeloid leukemia factor 1
+GeneName	MLF1
+Length	240
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRMLNSSFEDDPFFSVGLCSFKGFAGDITTISVKLMHTDVSSFQTMDQMVSNMRNYMQKLERNFGQLSVDPNGHSFCSSSVMTYSKIGDEPPKVFQASTQTRRAPGGIKETRKAMRDSDSGLEKMAIGHHIHDRAHVIKKSKNKKTGDEEVNQEFINMNESDAHAFDEEWQSEVLKYKPGRHNLGNTRMRSVGHENPGSRELKRREKPQQSPAIEHGRRSNVLGDKLHIKGSSVKSNKK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q969M3-2
+Accession	Q969M3;D3DQF5;Q4VSN6;Q53EX4;Q8NHE5;Q9H338;Q9H3U4
+EntryName	YIPF5_HUMAN
+ProteinName	Protein YIPF5 (Five-pass transmembrane protein localizing in the Golgi apparatus and the endoplasmic reticulum 5) (Smooth muscle cell-associated protein 5) (SMAP-5) (YIP1 family member 5) (YPT-interacting protein 1 A)
+GeneName	YIPF5 FINGER5 YIP1A PP12723 SB140 UNQ3123/PRO10275
+Length	203
+Function	Plays a role in transport between endoplasmic reticulum and Golgi. In pancreatic beta cells, required to transport proinsulin from endoplasmic reticulum into the Golgi (PubMed:33164986).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus; cis-Golgi network membrane; Cytoplasmic vesicle; COPII-coated vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQPQQPYTGQIYQPTQAYTPASPQPFYGNNFEDEPPLLEELGINFDHIWQKTLTVLHPLKVADGSIMNETDLAGPMVFCLAFGATLLLAGKIQFGYVYGISAIGCLGMFCLLNLMSMTGVSFGCVASVLGYCLLPMILLSSFAVIFSLQGMVGIILTAGIIGWCSFSASKIFISALAMEGQQLLVAYPCALLYGVFALISVF
+PTM	Methylation:115,146;Phosphorylation:12,39,42,45

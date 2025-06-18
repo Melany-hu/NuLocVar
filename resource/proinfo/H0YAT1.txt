@@ -1,0 +1,25 @@
+UniprotID	H0YAT1
+Accession	H0YAT1
+EntryName	H0YAT1_HUMAN
+ProteinName	SH2 domain containing 4A
+GeneName	SH2D4A
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LLAELSEEQKQILFFKMREEQIRRWKEREAAMERKESLPVKPRPKKENGKSVHWKLGADKEVWVWVMGEHHLDKPYDVLCNEIIAERARLKAEQEAEEPRKTHSEEFTNSLKTKSQYHDLQAPDNQQTKDIWKKVAEKEELEQGSRPAPTLEEEKIRKKESMKKKQDEEINQIEEERTKQICKSWKEDS
+PTM	

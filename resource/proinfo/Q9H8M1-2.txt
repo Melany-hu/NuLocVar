@@ -1,0 +1,25 @@
+UniprotID	Q9H8M1-2
+Accession	Q9H8M1;B7Z1Y4
+EntryName	CQ10B_HUMAN
+ProteinName	Coenzyme Q-binding protein COQ10 homolog B, mitochondrial
+GeneName	COQ10B
+Length	195
+Function	Required for the function of coenzyme Q in the respiratory chain. May serve as a chaperone or may be involved in the transport of Q6 from its site of synthesis to the catalytic sites of the respiratory complexes (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRTLPLHTSILPKEICARTFFKITAPLINKRKEYSERRILGYSMQEMYDVVSGVEDYKHFVPWCKKSDVISKRSGYCKTRLEIGFPPVLERYTSVVTLVKPHLVKASCTDGRLFNHLETIWRFSPGLPGYPRTCTLDFSISFEFRSLLHSQLATLFFDEVVKQMVAAFERRACKLYGPETNIPRELMLHEVHHT
+PTM	Acetylation:218;Methylation:74,149,206;Phosphorylation:15,23,87,92;Ubiquitylation:20,66,74

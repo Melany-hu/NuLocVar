@@ -1,0 +1,25 @@
+UniprotID	Q7Z2E3-10
+Accession	Q7Z2E3;A8MTN4;D3DRK9;D3DRL0;Q0P662;Q5T781;Q5T782;Q5T784;Q6JV81;Q6JV82;Q6JV85;Q7Z2F3;Q7Z336;Q7Z5R5;Q7Z6V7;Q7Z6V8;Q9NXM5
+EntryName	APTX_HUMAN
+ProteinName	Aprataxin (EC 3.6.1.71) (EC 3.6.1.72) (Forkhead-associated domain histidine triad-like protein) (FHA-HIT)
+GeneName	APTX AXA1
+Length	302
+Function	DNA-binding protein involved in single-strand DNA break repair, double-strand DNA break repair and base excision repair (PubMed:15044383, PubMed:15380105, PubMed:16964241, PubMed:17276982, PubMed:24362567). Resolves abortive DNA ligation intermediates formed either at base excision sites, or when DNA ligases attempt to repair non-ligatable breaks induced by reactive oxygen species (PubMed:16964241, PubMed:24362567). Catalyzes the release of adenylate groups covalently linked to 5'-phosphate termini, resulting in the production of 5'-phosphate termini that can be efficiently rejoined (PubMed:16964241, PubMed:17276982, PubMed:24362567). Also able to hydrolyze adenosine 5'-monophosphoramidate (AMP-NH(2)) and diadenosine tetraphosphate (AppppA), but with lower catalytic activity (PubMed:16547001). Likewise, catalyzes the release of 3'-linked guanosine (DNAppG) and inosine (DNAppI) from DNA, but has higher specific activity with 5'-linked adenosine (AppDNA) (By similarity).
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus; Nucleolus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	126..131
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	72...77
+validnes_region	
+nesbase_region	
+Sequence	MSNVNLSVSDFWRVMMRVCWLVRQDSRHQRIRLPHLEAVVIGRGPETKITDKKCSRQQEFEEEAKNPGLETHRKRKRSGNSDSIERDAAQEAEAGTGLEPGSNSGQCSVPLKKGKDAPIKKESLGHWSQGLKISMQDPKMQVYKDEQVVVIKDKYPKARYHWLVLPWTSISSLKAVAREHLELLKHMHTVGEKVIVDFAGSSKLRFRLGYHAIPSMSHVHLHVISQDFDSPCLKNKKHWNSFNTEYFLESQAVIEMVQEAGRVTVRDGMPELLKLPLRCHECQQLLPSIPQLKEHLRKHWTQ
+PTM	Acetylation:257;Methylation:62,89,166,206,239,328;Phosphorylation:108,110,132,135,137,150,156,158,162,214;SUMOylation:62,73,94,119,166,169,174,186,193,198,206,257,288,291,328;Ubiquitylation:166,206,257

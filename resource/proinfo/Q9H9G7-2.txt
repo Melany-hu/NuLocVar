@@ -1,0 +1,25 @@
+UniprotID	Q9H9G7-2
+Accession	Q9H9G7;B1ALI0;Q5TA55;Q9H1U6
+EntryName	AGO3_HUMAN
+ProteinName	Protein argonaute-3 (Argonaute3) (hAgo3) (EC 3.1.26.n2) (Argonaute RISC catalytic component 3) (Eukaryotic translation initiation factor 2C 3) (eIF-2C 3) (eIF2C 3)
+GeneName	AGO3 EIF2C3
+Length	626
+Function	Required for RNA-mediated gene silencing (RNAi). Binds to short RNAs such as microRNAs (miRNAs) and represses the translation of mRNAs which are complementary to them. Proposed to be involved in stabilization of small RNA derivates (siRNA) derived from processed RNA polymerase III-transcribed Alu repeats containing a DR2 retinoic acid response element (RARE) in stem cells and in the subsequent siRNA-dependent degradation of a subset of RNA polymerase II-transcribed coding mRNAs by recruiting a mRNA decapping complex involving EDC4. Possesses RNA slicer activity but only on select RNAs bearing 5'- and 3'-flanking sequences to the region of guide-target complementarity (PubMed:29040713).
+Subcellular Location	Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCEVLDIHNIDEQPRPLTDSHRVKFTKEIKGLKVEVTHCGTMRRKYRVCNVTRRPASHQTFPLQLENGQTVERTVAQYFREKYTLQLKYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIKATARSAPDRQEEISRLVRSANYETDPFVQEFQFKVRDEMAHVTGRVLPAPMLQYGGRNRTVATPSHGVWDMRGKQFHTGVEIKMWAIACFATQRQCREEILKGFTDQLRKISKDAGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYSGLQLIIVILPGKTPVYAEVKRVGDTLLGMATQCVQVKNVIKTSPQTLSNLCLKINVKLGGINNILVPHQRPSVFQQPVIFLGADVTHPPAGDGKKPSIAAVVGSMDAHPSRYCATVRVQRPRQEIIQDLASMVRELLIQFYKSTRFKPTRIIFYRDGVSEGQFRQVLYYELLAIREACISLEKDYQPGITYIVVQKRHHTRLFCADRTERVGRSGNIPAGTTVDTDITHPYEFDFYLCSHAGIQGTSRPSHYHVLWDDNCFTADELQLLTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDKEHDSAEGSHVSGQSNGRDPQALAKAVQIHQDTLRTMYFA
+PTM	Methylation:54,153,227,450,469,555,571,697,710,845;Phosphorylation:86,189,338,339,445,512,704,705,816,825,829,832;SUMOylation:28,54,336,367;Ubiquitylation:367,494,534,656,845

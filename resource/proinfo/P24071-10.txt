@@ -1,0 +1,25 @@
+UniprotID	P24071-10
+Accession	P24071;Q13603;Q13604;Q15727;Q15728;Q1AJL7;Q1AJL8;Q1AJL9;Q53X38;Q53X39;Q92587;Q92588;Q92590;Q92592;Q92593;Q9UEK0
+EntryName	FCAR_HUMAN
+ProteinName	Immunoglobulin alpha Fc receptor (IgA Fc receptor) (CD antigen CD89)
+GeneName	FCAR CD89
+Length	275
+Function	Binds to the Fc region of immunoglobulins alpha. Mediates several functions including cytokine production.
+Subcellular Location	Cell membrane; Cell membrane; Cell membrane; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPKQTTLLCLGDFPMPFISAKSSPVIPLDGSVKIQCQAIREAYLTQLMIIKNSTYREIGRRLKFWNETDPEFVIDHMDANKAGRYQCQYRIGHYRFRYSDTLELVVTGLYGKPFLSADRGLVLMPGENISLTCSSAHIPFDRFSLAKEGELSLPQHQSGEHPANFSLGPVDLNVSGIYRCYGWYNRSPYLWSFPSNALELVVTDSIHQDYTTQNLIRMAVAGLVLVALLAILVENWHSHTALNKEASADVAEPSWSQQMCQPGLTFARTPSVCK
+PTM	Phosphorylation:56

@@ -1,0 +1,25 @@
+UniprotID	G3V2S4
+Accession	G3V2S4
+EntryName	G3V2S4_HUMAN
+ProteinName	Solute carrier family 35 member F4
+GeneName	SLC35F4
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLKGIWGLLIILSVSSSWVGTTQIVKITYKNFYCPFFMTWFSTNWNIMFFPVYYSGHLATAQEKQSPMKKFRECSRIFGEDGLTLKLFLKRTAPFSILWTLTNYLYLLALKKLTATDVSALFCCNKAFVFLLSWIVLKDRFMGVRIAGKP
+PTM	

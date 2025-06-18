@@ -1,0 +1,25 @@
+UniprotID	E9PJH4
+Accession	E9PJH4
+EntryName	E9PJH4_HUMAN
+ProteinName	Ribosomal protein S3
+GeneName	RPS3
+Length	115
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	62...67
+validnes_region	
+nesbase_region	
+Sequence	MAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVEGLLWCAAVHHGEWGQRLRGCGVWETPRTEG
+PTM	

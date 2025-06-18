@@ -1,0 +1,25 @@
+UniprotID	Q8TBK2-2
+Accession	Q8TBK2;A8K380;B5ME38;Q9H787
+EntryName	SETD6_HUMAN
+ProteinName	N-lysine methyltransferase SETD6 (EC 2.1.1.-) (SET domain-containing protein 6)
+GeneName	SETD6
+Length	449
+Function	Protein-lysine N-methyltransferase. Monomethylates 'Lys-310' of the RELA subunit of NF-kappa-B complex, leading to down-regulation of NF-kappa-B transcription factor activity (PubMed:21131967, PubMed:21515635, PubMed:30189201). Monomethylates 'Lys-8' of H2AZ (H2AZK8me1) (PubMed:23324626). Required for the maintenance of embryonic stem cell self-renewal (By similarity). Methylates PAK4.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATQAKRPRVAGPVDGGDLDPVACFLSWCRRVGLELSPKVAVSRQGTVAGYGMVARESVQAGELLFVVPRAALLSQHTCSIGGLLERERVALQSQSGWVPLLLALLHELQAPASRWRPYFALWPELGRLEHPMFWPEEERRCLLQGTGVPEAVEKDLANIRSEYQSIVLPFMEAHPDLFSLRVRSLELYHQLVALVMAYSFQEPLEEEEDEKEPNSPVMVPAADILNHLANHNANLEYSANCLRMVATQPIPKGHEIFNTYGQMANWQLIHMYGFVEPYPDNTDDTADIQMVTVREAALQGTKTEAERHLVYERWDFLCKLEMVGEEGAFVIGREEVLTEEELTTTLKVLCMPAEEFRELKDQDGGGDDKREEGSLTITNIPKLKASWRQLLQNSVLLTLQTYATDLKTDQGLLSNKEVYAKLSWREQQALQVRYGQKMILHQLLELTS
+PTM	Methylation:39,179,407,432;Phosphorylation:171,272,448;SUMOylation:6,385,407;Ubiquitylation:39,179,327,372,441

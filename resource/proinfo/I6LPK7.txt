@@ -1,0 +1,25 @@
+UniprotID	I6LPK7
+Accession	I6LPK7
+EntryName	I6LPK7_HUMAN
+ProteinName	BCL2 associated X, apoptosis regulator (BCL2-associated X protein theta)
+GeneName	BAX
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIAAVDTDSPREVFFRVAADMFSDGNFNWGRVVALFYFASKLVLKALCTKVPELIRTIMGWTLDFLRERLLGWIQDQGGWVRLLKPPHPHHRALTTAPAPPSLPPATPLGPWAFWSRSQWCPLPIFRSSDVVYNAFSLRV
+PTM	

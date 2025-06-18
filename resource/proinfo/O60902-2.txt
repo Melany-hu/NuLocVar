@@ -1,0 +1,25 @@
+UniprotID	O60902-2
+Accession	O60902;O60465;O60467;O60903
+EntryName	SHOX2_HUMAN
+ProteinName	Short stature homeobox protein 2 (Homeobox protein Og12X) (Paired-related homeobox protein SHOT)
+GeneName	SHOX2 OG12X SHOT
+Length	319
+Function	May be a growth regulator and have a role in specifying neural systems involved in processing somatosensory information, as well as in face and body structure formation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPTGCTEAGRDDRSSPAVRAAGGGGGGGGGGGGGGGGGGVGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTEVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPLATLAADSASAASVVAAAAAAKTTSKNSSIADLRLKAKKHAAALGL
+PTM	Phosphorylation:92,117

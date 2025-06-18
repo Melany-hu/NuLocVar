@@ -1,0 +1,25 @@
+UniprotID	D6RB48
+Accession	D6RB48
+EntryName	D6RB48_HUMAN
+ProteinName	Thioredoxin domain containing 15
+GeneName	TXNDC15
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNRRETRETPGNPQLAVAEESGRLWSEEQPAHPLQVGAVYLGEEELLHDPMGQDRAAEEANAVLGLDTQGDHMVMLSVIPGEAEDKVSSEPSGVTCGAGGAEDSRCNVRESLFSLDGAGAHFPDREEEYYTEPEVAESDAAPTEDSNNTESLKSPKVNCEERNITGLENFTLKILNMS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B9ZVV8
+Accession	B9ZVV8
+EntryName	B9ZVV8_HUMAN
+ProteinName	SET domain and mariner transposase fusion gene
+GeneName	SETMAR
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRPGPFSVDPRHHLSKGVVLFSPFPEAQNRRPCENLAFCPVLSSELKEASRGESFTSLVSGVSHSSLYCPVEKSNISCGNEKEPSMCGSAPSVFPSCKRLTLETMKMMLDKKQIRAIFLFEFKMGRKAAETTRNINNAFGPGTANERTVQWWFKKFCKGDESLEDEERSGRPSEVDNDQLRAIIEADPLTTTREVAEELNVNHSTVVRHLK
+PTM	

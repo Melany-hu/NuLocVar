@@ -1,0 +1,25 @@
+UniprotID	G3V1B2
+Accession	G3V1B2
+EntryName	G3V1B2_HUMAN
+ProteinName	Zinc transporter ZIP13 (Solute carrier family 39 member 13) (Zrt- and Irt-like protein 13)
+GeneName	SLC39A13 hCG_1730570
+Length	325
+Function	Functions as a zinc transporter transporting Zn(2+) from the Golgi apparatus to the cytosol and thus influences the zinc level at least in areas of the cytosol. May regulate beige adipocyte differentiation.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGCPCPGCGMAGPRLLFLTALALELLERAGGSQPALRSRGTATACRLDNKESESWGALLSGERLDTWICSLLGSLMVGLSGVFPLLVIPLEMGTMLRSEAGAWRLKQLLSFALGGLLGNVFLHLLPEAWAYTCSASPGGEGQSLQQQQQLGLWVIAGILTFLALEKMFLDSKEEGTSQAPNKDPTAAAAALNGGHCLAQPAAEPGLGAVVRSIKVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILLRAGFDRWSAAKLQLSTALGGLLGAGFAICTQSPKGRRRQPGSCPSPLAAFSTSPW
+PTM	

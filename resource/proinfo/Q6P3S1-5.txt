@@ -1,0 +1,25 @@
+UniprotID	Q6P3S1-5
+Accession	Q6P3S1;B5MD89;D3PFD5;Q5T3B8;Q5T3B9;Q5T3C1;Q5TAI8;Q6B0I8;Q8NDT1;Q8TBE6;Q9H774;Q9NXU2
+EntryName	DEN1B_HUMAN
+ProteinName	DENN domain-containing protein 1B (Connecdenn 2) (Protein FAM31B)
+GeneName	DENND1B C1orf218 FAM31B
+Length	426
+Function	Guanine nucleotide exchange factor (GEF) for RAB35 that acts as a regulator of T-cell receptor (TCR) internalization in TH2 cells (PubMed:20154091, PubMed:20937701, PubMed:24520163, PubMed:26774822). Acts by promoting the exchange of GDP to GTP, converting inactive GDP-bound RAB35 into its active GTP-bound form (PubMed:20154091, PubMed:20937701). Plays a role in clathrin-mediated endocytosis (PubMed:20154091). Controls cytokine production in TH2 lymphocytes by controlling the rate of TCR internalization and routing to endosomes: acts by mediating clathrin-mediated endocytosis of TCR via its interaction with the adapter protein complex 2 (AP-2) and GEF activity (PubMed:26774822). Dysregulation leads to impaired TCR down-modulation and recycling, affecting cytokine production in TH2 cells (PubMed:26774822).
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasmic vesicle; Clathrin-coated vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDCRTKANPDRTFDLVLKVKCHASENEDPVVLWKFPEDFGDQEILQSVPKFCFPFDVERVSQNQVGQHFTFVLTDIESKQRFGFCRLTSGGTICLCILSYLPWFEVYYKLLNTLADYLAKELENDLNETLRSLYNHPVPKANTPVNLSVNQEIFIACEQVLKDQPALVPHSYFIAPDVTGLPTIPESRNLTEYFVAVDVNNMLQLYASMLHERRIVIISSKLSTLTACIHGSAALLYPMYWQHIYIPVLPPHLLDYCCAPMPYLIGIHSSLIERVKNKSLEDVVMLNVDTNTLESPFSDLNNLPSDVVSALKNKLKKQSTATGDGVARAFLRAQAALFGSYRDALRYKPGEPITFCEESFVKHRSSVMKQFLETAINLQLFKQFIDGRLAKLNAGRGFSDVFEEEITSGGFCGGKDKLQYDYPFSQ
+PTM	Methylation:18,79,162,312,362,509;Phosphorylation:446,448,498,514,562,576,577,579,580,590,596,602,612,646,652,653,654,690,706,708,711,724

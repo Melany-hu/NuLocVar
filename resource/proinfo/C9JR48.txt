@@ -1,0 +1,25 @@
+UniprotID	C9JR48
+Accession	C9JR48
+EntryName	C9JR48_HUMAN
+ProteinName	Zinc finger protein 69
+GeneName	ZNF69
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPCCSHRRCREDPGTSESQEMEEWALLDISQRKLYKEVMLETFRNLTSVGKSWKDQNIEYEYQNPRRNFRSLIEKKVNEIKDDSHCGETFTQVPDDRLNFQEKKASPEIKSCDSFVCGEVGLGNSSFNMNIRGDIGHKAYEYQEYGPKPCKCQQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5TEC7
+Accession	Q5TEC7
+EntryName	Q5TEC7_HUMAN
+ProteinName	Family with sequence similarity 72, member C
+GeneName	FAM72C RP5-998N21.9-001
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GNIVVYHVIVPCSSCLLSCNNRHFWMFHSQAVYDINRLDSTGVNVLLRGNLPEIEESTDEDVLNISAEECIR
+PTM	

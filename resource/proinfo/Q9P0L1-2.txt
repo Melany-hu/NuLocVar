@@ -1,0 +1,25 @@
+UniprotID	Q9P0L1-2
+Accession	Q9P0L1;A0PJV3;A8K5H0;Q6WL09;Q96FQ2
+EntryName	ZKSC7_HUMAN
+ProteinName	Zinc finger protein with KRAB and SCAN domains 7 (Zinc finger protein 167) (Zinc finger protein 448) (Zinc finger protein 64)
+GeneName	ZKSCAN7 ZNF167 ZNF448 ZNF64
+Length	276
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTAGRGNLGLIPRSTAFQKQEGRLTVKQEPANQTWGQGSSLQKNYPPVCEIFRLHFRQLCYHEMSGPQEALSRLRELCRWWLMPEVHTKEQILELLVLEQFLSILPGELRTWVQLHHPESGEEAVAVVEDFQRHLSGSEEVSAPAQKQEMHFEETTALGTTKESPPTSPLSGGSAPGAHLEPPYDPGTHHLPSGDFAQCTSPVPTLPQVGNSGDQAGATVLRMVRPQDTVAYEDLSVDYTQKKWKSLTLSQRALQWNMMPENHHSMASLGWSTMA
+PTM	Acetylation:577,633;Methylation:284,378,446;Phosphorylation:66,73,369,406,434,546,574,602,630,658,684,686;SUMOylation:20,28,284,564,577,620,633,636,689

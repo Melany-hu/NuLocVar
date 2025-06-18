@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQP3
+Accession	A0A8V8TQP3
+EntryName	A0A8V8TQP3_HUMAN
+ProteinName	CD247 molecule
+GeneName	CD247
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGKPVGVPLPSCVFLHVWWGSAQAVGEGSSAHSATRLDPHMCGPRTREEMETHLLPHPLPSSLAPFCISRGLTPGRGTPLLMSKLYPLPLKLLLGHPEMHIR
+PTM	

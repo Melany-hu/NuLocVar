@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YEM2
+Accession	A0A2R8YEM2
+EntryName	A0A2R8YEM2_HUMAN
+ProteinName	Cyclin-H
+GeneName	CCNH
+Length	325
+Function	Regulates CDK7, the catalytic subunit of the CDK-activating kinase (CAK) enzymatic complex. CAK activates the cyclin-associated kinases CDK1, CDK2, CDK4 and CDK6 by threonine phosphorylation. CAK complexed to the core-TFIIH basal transcription factor activates RNA polymerase II by serine phosphorylation of the repetitive C-terminal domain (CTD) of its large subunit (POLR2A), allowing its escape from the promoter and elongation of the transcripts. Involved in cell cycle control and in RNA transcription by RNA polymerase II. Its expression and activity are constant throughout the cell cycle.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYHNSSQKRHWTFSSEEQLARLRADANRKFRCKAVANGKVLPNDPVFLEPHEEMTLCKYYEKRLLEFCSVFKPAMPRSVVGTACMYFKRFYLNNSVMEYHPRIIMLTCAFLACKVDEFNVSSPQFVGNLRESPLGQEKALEQILEYELLLIQQLNFHLIVHNPYRPFEGFLIDLKTRYPILENPEILRKTADDFLNRIALTDAYLLYTPSQIALTAILSSASRAGITMESYLSESLMLKENRTCLSQLLDIMKSMRNLVKKYEPPRSEEVAVLKQKLERCHSAELALNVITKKRKGYEDDDYVSKKSKHEEIAKLWHQSKVHTYH
+PTM	

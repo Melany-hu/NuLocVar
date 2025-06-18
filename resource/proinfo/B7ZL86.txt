@@ -1,0 +1,25 @@
+UniprotID	B7ZL86
+Accession	B7ZL86
+EntryName	B7ZL86_HUMAN
+ProteinName	C5orf38 protein
+GeneName	C5orf38
+Length	135
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAPAARVFLRAVRAALTSTVPDLLCLLARGSPRGLASGRLPLAVHSAQHGPGSGAPWLRIARRALRFVLSKHWGDDCYLTNRLWQDLKPPSHVENGQELRLAPPVQWALQVQGNQLQTAVLCLRMAPPEPAGSR
+PTM	

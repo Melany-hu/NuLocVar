@@ -1,0 +1,25 @@
+UniprotID	Q9NPJ6-2
+Accession	Q9NPJ6;B4DX67;Q53GB4;Q53H68;Q5T912;Q6FHC4;Q6IA79;Q9BS95;Q9NYR5
+EntryName	MED4_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 4 (Activator-recruited cofactor 36 kDa component) (ARC36) (Mediator complex subunit 4) (TRAP/SMCC/PC2 subunit p36 subunit) (Vitamin D3 receptor-interacting protein complex 36 kDa component) (DRIP36)
+GeneName	MED4 ARC36 DRIP36 VDRIP HSPC126
+Length	224
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAISRNQKLLQAGEENQVLELLIHRDGEFQELMKLALNQGKIHHEMQVLEKEVEKRDSDIQQLQKQLKEAEQILATAVYQAKEKLKSIEKARKGAISSEEIIKYAHRISASNAVCAPLTWVPGDPRRPYPTDLEMRSGLLGQMNNPSTNGVNGHLPGDALAAGRLPDVLAPQYPWQSNDMSMNMLPPNHSSDFLLEPPGHNKENEDDVEIMSTDSSSSSSESD
+PTM	Acetylation:9,55;Methylation:98,102,137,150;Phosphorylation:32,51,105,134;SUMOylation:55,88,150;Ubiquitylation:55,81,98,112,140,150

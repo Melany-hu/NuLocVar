@@ -1,0 +1,25 @@
+UniprotID	Q7L804-2
+Accession	Q7L804;A6NEI4;Q3I768;Q9Y2F0
+EntryName	RFIP2_HUMAN
+ProteinName	Rab11 family-interacting protein 2 (Rab11-FIP2) (NRip11)
+GeneName	RAB11FIP2 KIAA0941
+Length	532
+Function	A Rab11 effector binding preferentially phosphatidylinositol 3,4,5-trisphosphate (PtdInsP3) and phosphatidic acid (PA) and acting in the regulation of the transport of vesicles from the endosomal recycling compartment (ERC) to the plasma membrane. Involved in insulin granule exocytosis. Also involved in receptor-mediated endocytosis and membrane trafficking of recycling endosomes, probably originating from clathrin-coated vesicles. Required in a complex with MYO5B and RAB11 for the transport of NPC1L1 to the plasma membrane. Also acts as a regulator of cell polarity. Plays an essential role in phagocytosis through a mechanism involving TICAM2, RAC1 and CDC42 Rho GTPases for controlling actin-dynamics.
+Subcellular Location	Cell projection; Phagocytic cup; Cell membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMLSEQAQKWFPTHVQVTVLQAKDLKPKGKSGTNDTYTIIQLGKEKYSTSVAEKTLEPVWKEEASFELPGLLIQGSPEKYILFLIVMHRSLVGLDKFLGQVAINLNDIFEDKQRRKTEWFRLESKQGKRIKNRGEIKVNIQFMRNNMTASMFDLSMKDKTRSPFAKLKDKMKGRKNDGTFSDTSSAIIPSTHMPDANSEFSSGEIQMKSKPKKPFLLGPQRLSSAHSMSDLSGSHMSSEKLKAGTIGQTHLLGHQLDSFGTVPESGSLKSPHRRTLSFDTSKMNQPDSIVDEGELCFGRQNDPFTNVTASLPQKFATLPRKKNPFEESSETWDSSMNLFSKPIEIRKENKREKREKVSLFERVTGKKDSRRSDKLNNGGSDSPCDLKSPNAFSENRQDYFDYESTNPFTAKFRASNIMPSSRNTLLTPAVAEWRGSLRWAELFHMSPTSNEDLRKIPDSNPFDATAGYRSLTYEEVLQELVKHKELLRRKDTHIRELEDYIDNLLVRVMEETPSILRVPYEPSRKAGKFSNS
+PTM	Methylation:112,125,341,387,462;Phosphorylation:13,65,148,150,155,160,162,181,185,223,224,227,229,237,245,249,258,261,265,267,270,275,277,317,340,382,388,429,448

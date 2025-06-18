@@ -1,0 +1,25 @@
+UniprotID	P55345-6
+Accession	P55345;B7U630;B7U631;B7U632;P78350;Q498Y5;Q5U7D4;Q6FHF0;Q99781;Q9BW15;Q9UMC2
+EntryName	ANM2_HUMAN
+ProteinName	Protein arginine N-methyltransferase 2 (EC 2.1.1.319) (Histone-arginine N-methyltransferase PRMT2)
+GeneName	PRMT2 HMT1 HRMT1L1
+Length	228
+Function	Arginine methyltransferase that methylates the guanidino nitrogens of arginyl residues in proteins such as STAT3, FBL, histone H4. Acts as a coactivator (with NCOA2) of the androgen receptor (AR)-mediated transactivation. Acts as a coactivator (with estrogen) of estrogen receptor (ER)-mediated transactivation. Enhances PGR, PPARG, RARA-mediated transactivation. May inhibit NF-kappa-B transcription and promote apoptosis. Represses E2F1 transcriptional activity (in a RB1-dependent manner). May be involved in growth regulation.
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; Cytoplasm; Nucleus; Nucleus; Nucleolus; Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSGDCPRSESQGEEPAECSEAGLLQEGVQPEEFVAIADYAATDETQLSFLRGEKILILRQTTADWWWGERAGCCGYIPANHVGKHVDEYDPEDTWQDEEYFGSYGTLKLHLEMLADQPRTTKYHSVILQNKESLTDKVILDVGCGTGIISLFCAHYARPRAVYAVEASEMAQHTGQLVLQNGFADIITVYQQKVEDVVLPEKVDVLVSEWMGTCLLVGEKVFPIWR
+PTM	Methylation:53,72,110,133,277,282;Phosphorylation:125,321;Ubiquitylation:124,282,287

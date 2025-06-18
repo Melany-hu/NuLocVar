@@ -1,0 +1,25 @@
+UniprotID	Q8NEE8-2
+Accession	Q8NEE8;B4DYG4;B5ME24;Q5JU66;Q96M72
+EntryName	TTC16_HUMAN
+ProteinName	Tetratricopeptide repeat protein 16 (TPR repeat protein 16)
+GeneName	TTC16
+Length	241
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACLLALKQHQACLTLITNELKQDTTNADVYIFRARLYNFLQKPHLCYRDLHSALLLNPKHPQARMLLQKMVAQAQQARQDAGILAVQGKLQHALQRINRAIENNPLDPSLFLFRGTMYRRLQEFDGAVEDFLKVLDMVTEDQEDMVRQAQRQLLLTYNDFAVHCYRQGAYQEGVLLLNKALRDEQQEKGLYINRGGAQRPGHWGGGVRGSLAISKAPTGHLRPLGGRRKGERKEAREEEM
+PTM	Methylation:10,21,60,184,198,236,246,310,356,411,472,556,652;Phosphorylation:368,617,649,838,843

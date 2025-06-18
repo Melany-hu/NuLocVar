@@ -1,0 +1,25 @@
+UniprotID	A0A087WWB9
+Accession	A0A087WWB9
+EntryName	A0A087WWB9_HUMAN
+ProteinName	RAB13, member RAS oncogene family
+GeneName	RAB13
+Length	122
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGIILVYDITDEKSFENIQNWMKSIKENASAGVERLLLGNKCDMEAKRKVQKEQADKLAREHGIRFFETSAKSSMNVDEAFSSLARDILLKSGGRRSGNGNKPPSTDLKTCDKKNTNKCSLG
+PTM	

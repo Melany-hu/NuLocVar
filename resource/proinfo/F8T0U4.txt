@@ -1,0 +1,25 @@
+UniprotID	F8T0U4
+Accession	F8T0U4
+EntryName	F8T0U4_HUMAN
+ProteinName	Aryl hydrocarbon receptor nuclear translocator
+GeneName	ARNT
+Length	50
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VVKLKGQVLSVMFRFRSKNQEWLWMRTSSFTFQNPYSDEIEYIICTNANV
+PTM	

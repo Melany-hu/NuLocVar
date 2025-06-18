@@ -1,0 +1,25 @@
+UniprotID	J3KRH9
+Accession	J3KRH9
+EntryName	J3KRH9_HUMAN
+ProteinName	Chromodomain helicase DNA binding protein 9
+GeneName	CHD9
+Length	113
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	72...76;69...74
+validnes_region	
+nesbase_region	
+Sequence	XPALSYTQPQGIPDTESPVPVINLKDGTRLAGDDAPKRKDLEKWLKEHPGYVEDLGAFIPRMQLHEGRPKQKRHRCRNPNKLDVNSLTGEERVQLINRRNARKIRKLRLKEIY
+PTM	

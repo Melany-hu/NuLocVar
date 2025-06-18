@@ -1,0 +1,25 @@
+UniprotID	Q03519-2
+Accession	Q03519;B0V2J8;O95410;Q53FI6;Q5HY71;Q96PT8;Q9UQ83
+EntryName	TAP2_HUMAN
+ProteinName	Antigen peptide transporter 2 (APT2) (EC 7.4.2.14) (ATP-binding cassette sub-family B member 3) (Peptide supply factor 2) (Peptide transporter PSF2) (PSF-2) (Peptide transporter TAP2) (Peptide transporter involved in antigen processing 2) (Really interesting new gene 11 protein) (RING11)
+GeneName	TAP2 ABCB3 PSF2 RING11 Y1
+Length	653
+Function	ABC transporter associated with antigen processing. In complex with TAP1 mediates unidirectional translocation of peptide antigens from cytosol to endoplasmic reticulum (ER) for loading onto MHC class I (MHCI) molecules (PubMed:25377891, PubMed:25656091). Uses the chemical energy of ATP to export peptides against the concentration gradient (PubMed:25377891). During the transport cycle alternates between 'inward-facing' state with peptide binding site facing the cytosol to 'outward-facing' state with peptide binding site facing the ER lumen. Peptide antigen binding to ATP-loaded TAP1-TAP2 induces a switch to hydrolysis-competent 'outward-facing' conformation ready for peptide loading onto nascent MHCI molecules. Subsequently ATP hydrolysis resets the transporter to the 'inward facing' state for a new cycle (PubMed:11274390, PubMed:25377891, PubMed:25656091). Typically transports intracellular peptide antigens of 8 to 13 amino acids that arise from cytosolic proteolysis via IFNG-induced immunoproteasome. Binds peptides with free N- and C-termini, the first three and the C-terminal residues being critical. Preferentially selects peptides having a highly hydrophobic residue at position 3 and hydrophobic or charged residues at the C-terminal anchor. Proline at position 2 has the most destabilizing effect (PubMed:11274390, PubMed:7500034, PubMed:9256420). As a component of the peptide loading complex (PLC), acts as a molecular scaffold essential for peptide-MHCI assembly and antigen presentation (PubMed:1538751, PubMed:25377891, PubMed:26611325).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLPDLRPWTSLLLVDAALLWLLQGPLGTLLPQGLPGLWLEGTLRLGGLWGLLKLRGLLGFVGTLLLPLCLATPLTVSLRALVAGASRAPPARVASAPWSWLLVGYGAAGLSWSLWAVLSPPGAQEKEQDQVNNKVLMWRLLKLSRPDLPLLVAAFFFLVLAVLGETLIPHYSGRVIDILGGDFDPHAFASAIFFMCLFSFGSSLSAGCRGGCFTYTMSRINLRIREQLFSSLLRQDLGFFQETKTGELNSRLSSDTTLMSNWLPLNANVLLRSLVKVVGLYGFMLSISPRLTLLSLLHMPFTIAAEKVYNTRHQEVLREIQDAVARAGQVVREAVGGLQTVRSFGAEEHEVCRYKEALEQCRQLYWRRDLERALYLLVRRVLHLGVQMLMLSCGLQQMQDGELTQGSLLSFMIYQESVGSYVQTLVYIYGDMLSNVGAAEKVFSYMDRQPNLPSPGTLAPTTLQGVVKFQDVSFAYPNRPDRPVLKGLTFTLRPGEVTALVGPNGSGKSTVAALLQNLYQPTGGQVLLDEKPISQYEHCYLHSQVVSVGQEPVLFSGSVRNNIAYGLQSCEDDKVMAAAQAAHADDFIQEMEHGIYTDVGEKGSQLAAGQKQRLAIARALVRDPRVLILDEATSALDVQCEQAKTLWKFMIF
+PTM	Methylation:54,612;Phosphorylation:232,287,289,455,458,492;SUMOylation:245,575,603,612;Ubiquitylation:54,135,143,245,356,469,487,532,575,612,682

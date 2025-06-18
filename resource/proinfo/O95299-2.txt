@@ -1,0 +1,25 @@
+UniprotID	O95299-2
+Accession	O95299;Q8WXC9
+EntryName	NDUAA_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial (Complex I-42kD) (CI-42kD) (NADH-ubiquinone oxidoreductase 42 kDa subunit)
+GeneName	NDUFA10
+Length	429
+Function	Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRLLKLAATSASARVVAAGAQRVRGIHSSVQCKLRYGMWHFLLGDKASKRLTERSRVITVDGNICTGKGKLAKEIAEKLGFKHFPEAGIHYPDSTTGDGKPLATDYNGNCSLEKFYDDPRSNDGNSYRLQSWLYSSRLLQYSDALEHLLTTGQGVVLERSIFSDFVFLEAMYNQGFIRKQCESALQTHFWTGVAGASGKLESGSSEEVLLINERGGRSKPGVDHYNEVKSVTICDYLPPHLVIYIDVPVPEPHEMKITSAYLQDIENAYKKTFLPEMSEKCEVLQYSAREAQDSKKVVEDIEYLKFDKGPWLKQDNRTLYHLRLLVQDKFEVLNYTSIPIFLPEVTIGAHQTDRVLHQFRERLDWTVCFGEESTEVKHQGHLLSVQPGTVALTVGSWLRSCLLGLHWKLLFLFPESPMHTTAFMFLC
+PTM	Acetylation:72,75,80,116,242,285,338;Methylation:35,70,80,116,191,277,301;Phosphorylation:290,292;Ubiquitylation:48,80,285

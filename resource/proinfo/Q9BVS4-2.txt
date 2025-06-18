@@ -1,0 +1,25 @@
+UniprotID	Q9BVS4-2
+Accession	Q9BVS4;D6RDI3;Q9NUT0
+EntryName	RIOK2_HUMAN
+ProteinName	Serine/threonine-protein kinase RIO2 (EC 2.7.11.1) (RIO kinase 2)
+GeneName	RIOK2 RIO2
+Length	474
+Function	Serine/threonine-protein kinase involved in the final steps of cytoplasmic maturation of the 40S ribosomal subunit. Involved in export of the 40S pre-ribosome particles (pre-40S) from the nucleus to the cytoplasm. Its kinase activity is required for the release of NOB1, PNO1 and LTV1 from the late pre-40S and the processing of 18S-E pre-rRNA to the mature 18S rRNA (PubMed:19564402). Regulates the timing of the metaphase-anaphase transition during mitotic progression, and its phosphorylation, most likely by PLK1, regulates this function (PubMed:21880710).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	399..408
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKVNVAKLRYMSRDDFRVLTAVEMGMKNHEIVPGSLIASIASLKHGGCNKVLRELVKHKLIAWERTKTVQGYRLTNAGYDYLALKTLSSRQVVESVGNQMGVGKESDIYIVANEEGQQFALKLHRLGRTSFRNLKNKRDYHKHRHNVSWLYLSRLSAMKEFAYMKALYERKFPVPKPIDYNRHAVVMELINGYPLCQIHHVEDPASVYDEAMELIVKLANHGLIHGDFNEFNLILDESDHITMIDFPQMVSTSHPNAEWYFDRDVKCIKDFFMKRFSYESELFPTFKDIRREDTLDVEVSASGYTKEMQADDELLHPLGPDDKNIETKEGSEFSFSDGEVAEKAEVYGSENESERNCLEESEGCYCRSSGDPEQIKEDSLSEESADARSFEMTEFNQALEEIKGQVVENNSVTEFSEEKNRTENYNRQDGQRVQGGVPAGSDEYEDECPHLIALSSLNREFRPFRYRLLSIAF
+PTM	Methylation:58,86,218,377,404,502,531;Phosphorylation:149,152,164,328,332,335,337,348,350,354,362,366,369,370,380,382,385,390,394,412,414,417,442,445,457,481,483,485,486,487,489,492,494,495,542,543;SUMOylation:420;Ubiquitylation:45,68,86,267,270,288,523,531

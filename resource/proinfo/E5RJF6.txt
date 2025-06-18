@@ -1,0 +1,25 @@
+UniprotID	E5RJF6
+Accession	E5RJF6
+EntryName	E5RJF6_HUMAN
+ProteinName	Carbonic anhydrase 1 (EC 4.2.1.1) (EC 4.2.1.69) (Carbonate dehydratase I) (Carbonic anhydrase I) (Cyanamide hydratase CA1)
+GeneName	CA1
+Length	87
+Function	Catalyzes the reversible hydration of carbon dioxide. Can hydrate cyanamide to urea.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMTKMLHVAHWNSAKYSSLAEAASKADGLAVIGVLMKVGEANPKLQKVLDALQAIKTKGKRAPFTNFDPSTLLPSSLDFWTYPGSLT
+PTM	

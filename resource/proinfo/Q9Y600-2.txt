@@ -1,0 +1,25 @@
+UniprotID	Q9Y600-2
+Accession	Q9Y600;A8K0U4;Q4QQH9;Q9UNJ5;Q9Y601
+EntryName	CSAD_HUMAN
+ProteinName	Cysteine sulfinic acid decarboxylase (EC 4.1.1.29) (Aspartate 1-decarboxylase) (EC 4.1.1.11) (Cysteine-sulfinate decarboxylase) (Sulfinoalanine decarboxylase)
+GeneName	CSAD CSD
+Length	346
+Function	Catalyzes the decarboxylation of L-aspartate, 3-sulfino-L-alanine (cysteine sulfinic acid), and L-cysteate to beta-alanine, hypotaurine and taurine, respectively. The preferred substrate is 3-sulfino-L-alanine. Does not exhibit any decarboxylation activity toward glutamate.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADSEALPSLAGDPVAVEALLRAVFGVVVDEAIQKGTSVSQKCHYSIQKGAAFLGLGTDSVRVVKADERGKMVPEDLERQIGMAEAEGAVPFLVSATSGTTVLGAFDPLEAIADVCQRHGLWLHVDAAWGGSVLLSQTHRHLLDGIQRADSVAWNPHKLLAAGLQCSALLLQDTSNLLKRCHGSQASYLFQQDKFYDVALDTGDKVVQCGRRVDCLKLWLMWKAQGDQGLERRIDQAFVLARYLVEEMKKREGFELVMEPEFVNVCFWFVPPSLRGKQESPDYHERLSKVAPVLKERMVKEGSMMIGYQPHGTRGNFFRVVVANSALTCADMDFLLNELERLGQDL
+PTM	Methylation:35,53,134,326;Phosphorylation:186,192,193,205

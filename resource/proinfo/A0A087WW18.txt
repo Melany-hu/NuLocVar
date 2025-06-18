@@ -1,0 +1,25 @@
+UniprotID	A0A087WW18
+Accession	A0A087WW18
+EntryName	A0A087WW18_HUMAN
+ProteinName	Protein archease
+GeneName	ZBTB8OS
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGDTLEEAFEQCAMAMFGYMTDTGTVEPLQTVEVETQGDDLQSLLFHFLDEWLYKFSADEFFIPRKLCAIVF
+PTM	

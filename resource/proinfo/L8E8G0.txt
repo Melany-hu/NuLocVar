@@ -1,0 +1,25 @@
+UniprotID	L8E8G0
+Accession	L8E8G0
+EntryName	L8E8G0_HUMAN
+ProteinName	Alternative protein USP21
+GeneName	USP21
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFATTQAASTMATTQPCAGARLVGMSTMTLVSPLSVKTRWHPARATCCSTN
+PTM	

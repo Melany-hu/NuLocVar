@@ -1,0 +1,25 @@
+UniprotID	Q99735-2
+Accession	Q99735;D6RBB5;Q7Z5B8
+EntryName	MGST2_HUMAN
+ProteinName	Microsomal glutathione S-transferase 2 (Microsomal GST-2) (EC 2.5.1.18) (Glutathione peroxidase MGST2) (EC 1.11.1.-) (Leukotriene C4 synthase MGST2) (EC 4.4.1.20) (Microsomal glutathione S-transferase II) (Microsomal GST-II)
+GeneName	MGST2 GST2
+Length	77
+Function	Catalyzes several different glutathione-dependent reactions (PubMed:23409838, PubMed:26066610, PubMed:26656251, PubMed:8703034, PubMed:9278457). Catalyzes the glutathione-dependent reduction of lipid hydroperoxides, such as 5-HPETE (PubMed:23409838, PubMed:9278457). Has glutathione transferase activity, toward xenobiotic electrophiles, such as 1-chloro-2, 4-dinitrobenzene (CDNB) (PubMed:23409838, PubMed:8703034). Also catalyzes the conjugation of leukotriene A4 with reduced glutathione to form leukotriene C4 (LTC4) (PubMed:23409838, PubMed:26656251). Involved in oxidative DNA damage induced by ER stress and anticancer agents by activating LTC4 biosynthetic machinery in nonimmune cells (PubMed:26656251).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGNSILLAAVSILSACQQSYFALQVGKARLKYKVTPPAVTGSPEFERVFRAHFCYLSGSGVHIWPSPILLGIFRSC
+PTM	Methylation:32;Phosphorylation:41;Ubiquitylation:34

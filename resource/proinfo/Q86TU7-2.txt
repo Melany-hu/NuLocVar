@@ -1,0 +1,25 @@
+UniprotID	Q86TU7-2
+Accession	Q86TU7;A0PJU3;A5PLP0;B4DZE8;Q0VAQ2;Q659C0;Q86TU8;Q96GY9;Q9H5U5
+EntryName	SETD3_HUMAN
+ProteinName	Actin-histidine N-methyltransferase (EC 2.1.1.85) (Protein-L-histidine N-tele-methyltransferase) (SET domain-containing protein 3) (hSETD3)
+GeneName	SETD3 C14orf154
+Length	296
+Function	Protein-histidine N-methyltransferase that specifically mediates 3-methylhistidine (tele-methylhistidine) methylation of actin at 'His-73' (PubMed:30526847, PubMed:30626964, PubMed:30785395, PubMed:31388018, PubMed:31993215). Histidine methylation of actin is required for smooth muscle contraction of the laboring uterus during delivery (PubMed:30626964). Does not have protein-lysine N-methyltransferase activity and probably only catalyzes histidine methylation of actin (PubMed:30626964, PubMed:30785395, PubMed:31388018).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKKSRVKTQKSGTGATATVSPKEILNLTSELLQKCSSPAPGPGKEWEEYVQIRTLVEKIRKKQKGLSVTFDGKREDYFPDLMKWASENGASVEGFEMVNFKEEGFGLRATRDIKAEELFLWVPRKLLMTVESAKNSVLGPLYSQDRILQAMGNIALAFHLLCERASPNSFWQPYIQTLPSEYDTPLYFEEDEVRYLQSTQAIHDVFSQYKNTARQYAYFYKVIQTHPHANKLPLKDSFTYEDYRWAVSSVMTRQNQIPTEDGSRVTLALIPLWDMCNHTNGLTPEDSFALAVASA
+PTM	Methylation:35,59,396,425,439,477;Phosphorylation:12,14,21,38,350,512,513,558,584,585,586;SUMOylation:23,74;Ubiquitylation:74,115,345,439,466,480,501,546,582

@@ -1,0 +1,25 @@
+UniprotID	P20339-2
+Accession	P20339;B4DJA5;Q6FI44
+EntryName	RAB5A_HUMAN
+ProteinName	Ras-related protein Rab-5A (EC 3.6.5.2)
+GeneName	RAB5A RAB5
+Length	201
+Function	Small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Active GTP-bound form is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. RAB5A is required for the fusion of plasma membranes and early endosomes (PubMed:10818110, PubMed:14617813, PubMed:15378032, PubMed:16410077). Contributes to the regulation of filopodia extension (PubMed:14978216). Required for the exosomal release of SDCBP, CD63, PDCD6IP and syndecan (PubMed:22660413). Regulates maturation of apoptotic cell-containing phagosomes, probably downstream of DYN2 and PIK3C3 (By similarity).
+Subcellular Location	Cell membrane; Early endosome membrane; Melanosome; Cytoplasmic vesicle; Cell projection; Ruffle; Membrane; Cytoplasm; Cytosol; Cytoplasmic vesicle; Phagosome membrane; Endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRGATRPNGPNTGNKICQFKLVLLGESAVGKSSLVLRFVKGQFHEFQESTIGVKFEIWDTAGQERYHSLAPMYYRGAQAAIVVYDITNEESFARAKNWVKELQRQASPNIVIALSGNKADLANKRAVDFQEAQSYADDNSLLFMETSAKTSMNVNEIFMAIAKKLPKNEPQNPGANSARGRGVDLTEPTQPTRNQCCSN
+PTM	Acetylation:22,116,140,183;Glycosylation:192;Methylation:4,8,33,165,197;Phosphorylation:3,7,14,29,35,82,84,123,193;SUMOylation:116;Ubiquitylation:22,116,134,140,179

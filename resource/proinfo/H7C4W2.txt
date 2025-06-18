@@ -1,0 +1,25 @@
+UniprotID	H7C4W2
+Accession	H7C4W2
+EntryName	H7C4W2_HUMAN
+ProteinName	PX domain containing serine/threonine kinase like
+GeneName	PXK
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLIEEQKQIHQHRRLTRAQSHHGSEEERKKRKILARKKSKRSALENSEEHSAKYSNSNNSGSGASSPLTSPSSPTPPSTSEHAPF
+PTM	

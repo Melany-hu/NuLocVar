@@ -1,0 +1,25 @@
+UniprotID	H0YKV7
+Accession	H0YKV7
+EntryName	H0YKV7_HUMAN
+ProteinName	Semaphorin 4B
+GeneName	SEMA4B
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPCTWVLERPSLHSVATSASCQAGSTRSCFGVQTQRRNSSAASRARTHR
+PTM	

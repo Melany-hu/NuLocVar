@@ -1,0 +1,25 @@
+UniprotID	H0YCG8
+Accession	H0YCG8
+EntryName	H0YCG8_HUMAN
+ProteinName	Ras and Rab interactor 1
+GeneName	RIN1
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLSGVSLEGSELMFPDLVQLICAYCHTRSPEPSTTQPLTKSWRPSPIWALSSGAPPSTSRLSGARLEAQCCPS
+PTM	

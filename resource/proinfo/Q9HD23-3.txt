@@ -1,0 +1,25 @@
+UniprotID	Q9HD23-3
+Accession	Q9HD23;A8K4U3;B3KNN2;B4DQL2;Q5T3Y1;Q6NTG4;Q96KF8;Q9BVP1
+EntryName	MRS2_HUMAN
+ProteinName	Magnesium transporter MRS2 homolog, mitochondrial (MRS2-like protein)
+GeneName	MRS2 HPT MRS2L
+Length	117
+Function	Magnesium transporter that mediates the influx of magnesium into the mitochondrial matrix (PubMed:11401429, PubMed:18384665). Required for normal expression of the mitochondrial respiratory complex I subunits (PubMed:18384665).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MECLRSLPCLLPRAMRLPRRTLCALALDVTSVGPPVAACGRRANLIGRSRAAQLCGPDRLRVAGEVHRFRTSDVSQATLASVAPVFTVTKFDKQGNVTSFVFESCDNSRVSSDIRLS
+PTM	Acetylation:90;Methylation:222,249,425;Phosphorylation:105,108,365,366,427,438,441;Ubiquitylation:93

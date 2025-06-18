@@ -1,0 +1,25 @@
+UniprotID	P10599-2
+Accession	P10599;B1ALW1;O60744;Q53X69;Q96KI3;Q9UDG5
+EntryName	THIO_HUMAN
+ProteinName	Thioredoxin (Trx) (ATL-derived factor) (ADF) (Surface-associated sulphydryl protein) (SASP) (allergen Hom s Trx)
+GeneName	TXN TRDX TRX TRX1
+Length	85
+Function	Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions (PubMed:17182577, PubMed:19032234, PubMed:2176490). Plays a role in the reversible S-nitrosylation of cysteine residues in target proteins, and thereby contributes to the response to intracellular nitric oxide. Nitrosylates the active site Cys of CASP3 in response to nitric oxide (NO), and thereby inhibits caspase-3 activity (PubMed:16408020, PubMed:17606900). Induces the FOS/JUN AP-1 DNA-binding activity in ionizing radiation (IR) cells through its oxidation/reduction status and stimulates AP-1 transcriptional activity (PubMed:11118054, PubMed:9108029).
+Subcellular Location	Nucleus; Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPCKMIKPFFHDVASECEVKCMPTFQFFKKGQKVGEFSGANKEKLEATINELV
+PTM	Acetylation:3,8,39,81,85,94,96;Methylation:8,21,48;Phosphorylation:9,30,44,46,76,90;SUMOylation:3,8,39;Ubiquitylation:3,8,39,81,85,94,96

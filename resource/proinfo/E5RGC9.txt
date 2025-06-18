@@ -1,0 +1,25 @@
+UniprotID	E5RGC9
+Accession	E5RGC9
+EntryName	E5RGC9_HUMAN
+ProteinName	Caspase recruitment domain family member 8
+GeneName	CARD8
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKKECPEKSSSSEEELPRRVYRELPCVSETLCDISHFFQEDDETEAEPLLFRAVPECQLSGGDIPRRHLLRRESNSFLLCF
+PTM	

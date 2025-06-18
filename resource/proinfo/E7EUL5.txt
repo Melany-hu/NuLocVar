@@ -1,0 +1,25 @@
+UniprotID	E7EUL5
+Accession	E7EUL5
+EntryName	E7EUL5_HUMAN
+ProteinName	Zinc finger protein 525
+GeneName	ZNF525
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALPQGLLTFRDVAIEFSQEEWKCLDPAQRTLYRDVMLENYRNLVSLGSCCAVEVGLDLLGSRHPPRPPKKLGLQAPTPVPNYWLLFLNFLHMCVLRANMSLLWTTSSWFLLIESVFAF
+PTM	

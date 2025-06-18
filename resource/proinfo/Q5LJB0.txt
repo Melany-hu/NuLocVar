@@ -1,0 +1,25 @@
+UniprotID	Q5LJB0
+Accession	Q5LJB0
+EntryName	Q5LJB0_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12)
+GeneName	UCHL5
+Length	258
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLGWLERPPALSRAAGCRGAQVEEIWSLEPENFEKLKPVHGLIFLFKWQPGEEPAGSVVQDSRLDTIFFAKQVINNACATQAIVSVLLNCTHQDVHLGETLSEFKEFSQSFDAAMKGLALSNSDVIRQVHNSFARQQMFEFDTKTSAKEEDAFHFVSYVPVNGRLYELDGLREGPIDLGACNQDDWISAVRPVIEKRIQKYSEGEIRFNLMAIVSDRKMIYEQKIAELQRQLAEEPMDTDQGNSMLSAIQSEVAKNQ
+PTM	

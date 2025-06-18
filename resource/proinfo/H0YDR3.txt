@@ -1,0 +1,25 @@
+UniprotID	H0YDR3
+Accession	H0YDR3
+EntryName	H0YDR3_HUMAN
+ProteinName	Tetratricopeptide repeat protein 9C
+GeneName	TTC9C
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RQPDNAKALYRAGVAFFHLQDYDQARHYLLAAVNRQPKDANVRRYLQLTQSELSSYHRKEKQLYLGMFG
+PTM	

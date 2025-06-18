@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PH97
+Accession	A0A6Q8PH97
+EntryName	A0A6Q8PH97_HUMAN
+ProteinName	Ganglioside induced differentiation associated protein 1
+GeneName	GDAP1
+Length	263
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAERQEEQRGSPPLRAEGKADAEVKLILYHWTHSFSSQKVRLVIAEKALKCEEHDVSLPLSEHNEPWFMRLNSTGEVPVLIHGENIICEATQIIDYLEQTFLDERTPRLMPDKESMYYPRVQHYRELLDSLPMDAYTHGCILHPELTVDSMIPAYATTRIRSQIGNTESELKKLAEENPDLQEAYIAKQKRLKSKLLDHDNVKYLKKILDELEKVLDQVETELQRRNEETPASHMQHTGGRTAHLVPKTTVDLAELAALTVYQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GTQ4
+Accession	A0A1B0GTQ4;A0A223PZB9
+EntryName	MYMX_HUMAN
+ProteinName	Protein myomixer (Microprotein inducer of fusion) (Protein minion) (hMINION)
+GeneName	MYMX
+Length	84
+Function	Myoblast-specific protein that mediates myoblast fusion, an essential step for the formation of multi-nucleated muscle fibers (PubMed:28569745, PubMed:35642635). Involved in membrane fusion downstream of the lipid mixing step mediated by MYMK (By similarity). Acts by generating membrane stresses via its extracellular C-terminus, leading to drive fusion pore formation. Acts independently of MYMK (By similarity). Involved in skeletal muscle regeneration in response to injury by mediating the fusion of satellite cells, a population of muscle stem cells, with injured myofibers (By similarity).
+Subcellular Location	Cell membrane
+Disorder	0.1184,0.0662,0.0398,0.0253,0.0372,0.0269,0.0198,0.0157,0.0123,0.0198,0.0209,0.0202,0.0163,0.0101,0.0079,0.0107,0.0171,0.0094,0.0095,0.0094,0.0165,0.0109,0.0109,0.0163,0.0258,0.0157,0.0202,0.0327,0.0543,0.0543,0.0433,0.0531,0.0704,0.0749,0.1092,0.1275,0.1373,0.1092,0.1115,0.1115,0.1791,0.0967,0.0967,0.0985,0.0483,0.0248,0.0253,0.0313,0.0341,0.0341,0.0618,0.0605,0.0765,0.0749,0.0581,0.0704,0.0749,0.0568,0.0704,0.1162,0.1229,0.1275,0.1881,0.1852,0.2752,0.3872,0.4979,0.6183,0.6136,0.4901,0.4979,0.5382,0.5456,0.5139,0.4940,0.5211,0.5017,0.4801,0.5098,0.4901,0.4766,0.5992,0.5577,0.5456
+ExposeBuried	1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.794,0.512,0.502,0.425,0.240,0.155,0.311,0.158,0.105,0.096,0.309,0.095,0.096,0.118,0.261,0.058,0.123,0.156,0.128,0.207,0.162,0.158,0.382,0.144,0.101,0.287,0.463,0.163,0.063,0.139,0.319,0.091,0.067,0.328,0.388,0.076,0.146,0.562,0.498,0.191,0.548,0.516,0.638,0.531,0.153,0.291,0.478,0.103,0.058,0.098,0.134,0.036,0.057,0.093,0.097,0.055,0.089,0.334,0.478,0.486,0.384,0.487,0.460,0.662,0.396,0.470,0.574,0.366,0.544,0.435,0.229,0.569,0.433,0.229,0.611,0.465,0.341,0.698,0.594,0.272,0.527,0.584,0.715,0.875
+SecondStructure	C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C
+Hydropathy	1.9,-1.6,-0.7,-1.6,3.8,3.8,-1.6,3.8,3.8,3.8,-4.5,3.8,3.8,3.8,-0.8,2.5,3.8,3.8,3.8,-1.6,1.8,1.8,-4.5,3.8,1.8,-4.5,-3.5,-1.3,3.8,3.8,-1.6,3.8,3.8,-4.5,-4.5,3.8,1.8,-4.5,-4.5,3.8,-0.4,-0.8,-3.5,-3.5,1.9,-4.5,-3.5,1.8,3.8,3.8,-0.4,2.5,3.8,3.8,2.8,4.5,3.8,-0.8,-3.5,-4.5,-3.2,-0.8,-1.6,-3.5,1.8,-0.4,-3.5,1.8,-0.8,-4.5,4.2,-3.5,-4.5,3.8,-3.5,-4.5,-4.5,-3.5,-4.5,3.8,-0.4,-1.6,-3.5,-3.9
+Polar	0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+Charge	0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,-1,0,1,-1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,-1,0,0,-1,0,0,1,0,-1,1,0,-1,1,1,-1,1,0,0,0,0,1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTPLLPLLLRLLLSCLLLPAARLARQYLLPLLRRLARRLGSQDMREALLGCLLFILSQRHSPDAGEASRVDRLERRERLGPQK
+PTM	Phosphorylation:58

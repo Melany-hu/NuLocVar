@@ -1,0 +1,25 @@
+UniprotID	H7BYI8
+Accession	H7BYI8
+EntryName	H7BYI8_HUMAN
+ProteinName	Coiled-coil domain containing 57
+GeneName	CCDC57
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGKHQPRSAQVGSRLDALQGPKTQHSIHTVTCKSPRQKEDRSPKPPQAPQHPEEHGRQSHSSSSFASGTLQDMWRLLDLGSSPSGVTSQGDSTPGPHSFWNLQTNSIRPSSQCAERQVQKHAPTWGPLPPFWRGSALAPDANLAPCAVQLESNGGAETPWRVTSHTAGAPSSSSSRQEARQDAGRHCHPRDEDSSPGKGQDHRSLPVSSCKS
+PTM	

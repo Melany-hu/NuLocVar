@@ -1,0 +1,25 @@
+UniprotID	Q309B1-2
+Accession	Q309B1;A0PK10;B2RUW6;B4DQK2;B4DWQ8
+EntryName	TR16L_HUMAN
+ProteinName	Tripartite motif-containing protein 16-like protein (Tripartite motif-containing protein 70)
+GeneName	TRIM16L TRIM70
+Length	140
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQFGELLAAVRKAQANVMLFLEEKEQAALSQANGIKAHLEYRSAEMEKSKQELETMAAISNTVQFLEMCMTSRSTRTQHTSISGCRRRTARSPTPRPGSIPTRTSPAGSCTGGRCCPSRVCTCTGTILRWRSSGQAPMLA
+PTM	Acetylation:121,143;Methylation:143;Phosphorylation:49,60,92,125,204,207,315;SUMOylation:143,168,236,322;Ubiquitylation:115,121,143,168,236

@@ -1,0 +1,25 @@
+UniprotID	D6RBA0
+Accession	D6RBA0
+EntryName	D6RBA0_HUMAN
+ProteinName	WD repeat domain 19
+GeneName	WDR19
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRIFSLLEKTWLGAPIQFAWQKTSGNYLAVTGADYIVKIFDRHGQKRSEINLPGNCVAMDWDKDGDVLAVIAEKSSCIYLWDANTNKTSQLDNGMRKTY
+PTM	

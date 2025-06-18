@@ -1,0 +1,25 @@
+UniprotID	Q8WVN8-2
+Accession	Q8WVN8;B7Z3Q2;H3BRG2;Q8N4G6;Q96J08
+EntryName	UB2Q2_HUMAN
+ProteinName	Ubiquitin-conjugating enzyme E2 Q2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme Q2) (Ubiquitin carrier protein Q2) (Ubiquitin-protein ligase Q2)
+GeneName	UBE2Q2
+Length	314
+Function	Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. In vitro catalyzes 'Lys-48'-linked polyubiquitination.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVSGLKAELKFLASIFDKNHERFRIVSWKLDELHCQFLVPQQGSPHSLPPPLTLHCNITESYPSSSPIWFVDSEDPNLTSVLERLEDTKNNNLLRQQLKWLICELCSLYNLPKHLDVEMLDQPLPTGQNGTTEEVTSEEEEEEEEMAEDIEDLDHYEMKEEEPISGKKSEDEGIEKENLAILEKIRKTQRQDHLNGAVSGSVQASDRLMKELRDIYRSQSYKTGIYSVELINDSLYDWHVKLQKVDPDSPLHSDLQILKEKEGIEYILLNFSFKDNFPFDPPFVRVVLPVLSGGLVHPSKGRWLNMLTVVCLD
+PTM	Methylation:7,100,114,185,260,310;Phosphorylation:170,273,321,329,369;Ubiquitylation:343

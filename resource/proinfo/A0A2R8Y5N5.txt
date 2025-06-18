@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5N5
+Accession	A0A2R8Y5N5
+EntryName	A0A2R8Y5N5_HUMAN
+ProteinName	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+GeneName	SMARCB1
+Length	271
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMMMALSKTFGQKPVKFQLEDDGEFYMIGSEVGNYLRMFRGSLYKRYPSLWRRLATVEERKKIVASSHGKKTKPNTKDHGYTTLATSVTLLKASEVEEILDGNDEKYKAVSISTEPPTYLREQKAKRNSQWVPTLPNSSHHLDAVPCSTTINRNRMGRDKKRTFPLWCGCIAALTLRADSALVLQHVSVPSSPEKHSALTLCSPQRHSTSSPLNCCVSLTSRTLSIASLALSAVTLPCPPHLSGPSSGVTQGAVLGPFLCPQFHMSGPQPV
+PTM	

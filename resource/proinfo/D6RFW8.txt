@@ -1,0 +1,25 @@
+UniprotID	D6RFW8
+Accession	D6RFW8
+EntryName	D6RFW8_HUMAN
+ProteinName	Solute carrier family 25 member 48
+GeneName	SLC25A48
+Length	67
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRCSQCHRWPPSGHSQDSPAGWRWLRKHPQLHPRGVQEGEYVRLLQGHVLPPRQHCRLQLRGVWGLQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	K7ELV4
+Accession	K7ELV4
+EntryName	K7ELV4_HUMAN
+ProteinName	Zinc finger protein 846
+GeneName	ZNF846
+Length	86
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSSQHLVTFEDVAVDFTQEEWTLLDQAQRDLYRDVMLENYKNLIILAGSELFKRSLMSGLEQMEELRTGVTGVLQGEKQYCRETV
+PTM	

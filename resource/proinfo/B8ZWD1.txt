@@ -1,0 +1,25 @@
+UniprotID	B8ZWD1
+Accession	B8ZWD1
+EntryName	B8ZWD1_HUMAN
+ProteinName	Acyl-CoA-binding protein
+GeneName	DBI
+Length	97
+Function	
+Subcellular Location	Endoplasmic reticulum; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQVQRVHSQAAKAEFEKAAEEVRHLKTKPSDEEMLFIYGHYKQATVGDINTERPGMLDFTGKAKWDAWNELKGTSKEDAMKAYINKVEELKKKYGI
+PTM	

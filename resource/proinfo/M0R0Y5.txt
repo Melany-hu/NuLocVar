@@ -1,0 +1,25 @@
+UniprotID	M0R0Y5
+Accession	M0R0Y5
+EntryName	M0R0Y5_HUMAN
+ProteinName	Zinc finger protein 530
+GeneName	ZNF530
+Length	28
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRLLYRDVMLENFAVMASLGIIECFQE
+PTM	

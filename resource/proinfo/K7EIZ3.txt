@@ -1,0 +1,25 @@
+UniprotID	K7EIZ3
+Accession	K7EIZ3
+EntryName	K7EIZ3_HUMAN
+ProteinName	Sesquipedalian (Ses) (PH domain-containing endocytic trafficking adaptor)
+GeneName	PLEKHJ1
+Length	277
+Function	Plays a role in endocytic trafficking. Required for receptor recycling from endosomes, both to the trans-Golgi network and the plasma membrane.
+Subcellular Location	Early endosome; Recycling endosome; Golgi apparatus; trans-Golgi network; Cytoplasmic vesicle; Clathrin-coated vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRYNEKELQALSRQPAEMAAELGMRGPKKGSVLKRRLVKLVVNFLFYFRTDEAEPVGALLLERCRVVREEPGTFSISFIEDPERKYHFECSSEEQCQEWMEALRRASYEFMRRSLIFYRNEIRKVTGKKHQGTHDRPAPHRRACCEPWTAEKYKSKCTCSTCPRRPHSTIAQHMASCVTAQAPSHARAQPTPRRVNSLGVHSAGVKVKSSGQAPGRSGRGSGRGEASEECGGDGPAFGTGAARRGSRPGGVSENGVRRCQRLVSTKRVEAGAGLGTR
+PTM	

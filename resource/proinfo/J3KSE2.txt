@@ -1,0 +1,25 @@
+UniprotID	J3KSE2
+Accession	J3KSE2
+EntryName	J3KSE2_HUMAN
+ProteinName	Solute carrier family 9 member A5
+GeneName	SLC9A5
+Length	171
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRGRCLPVFHLSRKVTSLVPESCLLILLGLVLGGIVLAVAKKAEYQLEPGTFFLFLLPPIVLDSGYFMPSRLFFDNLGAILTYAVVGTLWNAFTTGAALWGLQQAGLVGLTLPSMPSRNSVAETSVTNLLRESGSGACLDLQVIDTVRSGRDREDAVMHHLLCGGLYKPR
+PTM	

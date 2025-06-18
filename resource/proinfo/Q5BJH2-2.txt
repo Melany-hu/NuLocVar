@@ -1,0 +1,25 @@
+UniprotID	Q5BJH2-2
+Accession	Q5BJH2;B4DHS7;D3DVS1;D3DVS3;Q5H9U6;Q96I94
+EntryName	TM128_HUMAN
+ProteinName	Transmembrane protein 128
+GeneName	TMEM128
+Length	141
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPFGYKTETSTAVEKKEKPLPRLNIHSGFWILASIVVTYYVDFFKTLKENFHTSSWFLCGSALLLVSLSIAFYCIVYLEWYCGIGEYDVKYPALIPITTASFIAAGICFNIALWHVWSFFTPLLLFTQFMGVVMFITLLG
+PTM	Ubiquitylation:40,43

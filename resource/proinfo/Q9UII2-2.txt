@@ -1,0 +1,25 @@
+UniprotID	Q9UII2-2
+Accession	Q9UII2;Q5JXL8;Q6IAQ7;Q9BSL9
+EntryName	ATIF1_HUMAN
+ProteinName	ATPase inhibitor, mitochondrial (ATP synthase F1 subunit epsilon) (Inhibitor of F(1)F(o)-ATPase) (IF(1)) (IF1)
+GeneName	ATP5IF1 ATPI ATPIF1
+Length	71
+Function	Endogenous F(1)F(o)-ATPase inhibitor limiting ATP depletion when the mitochondrial membrane potential falls below a threshold and the F(1)F(o)-ATP synthase starts hydrolyzing ATP to pump protons out of the mitochondrial matrix. Required to avoid the consumption of cellular ATP when the F(1)F(o)-ATP synthase enzyme acts as an ATP hydrolase. Indirectly acts as a regulator of heme synthesis in erythroid tissues: regulates heme synthesis by modulating the mitochondrial pH and redox potential, allowing FECH to efficiently catalyze the incorporation of iron into protoporphyrin IX to produce heme.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVTALAARTWLGVWGVRTMQARGFGSDQSENVDRGAGSIREAGGAFGKREQAEEERYFRHYRLCFEISLG
+PTM	Acetylation:49,71,72,82,83,90,103;Methylation:57,71;Phosphorylation:39,58,63;Ubiquitylation:49

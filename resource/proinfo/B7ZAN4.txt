@@ -1,0 +1,25 @@
+UniprotID	B7ZAN4
+Accession	B7ZAN4
+EntryName	B7ZAN4_HUMAN
+ProteinName	ADP-ribosylhydrolase ARH3 (EC 3.2.1.143) (ADP-ribose glycohydrolase ARH3) (ADP-ribosylhydrolase 3) (O-acetyl-ADP-ribose deacetylase ARH3) (Poly(ADP-ribose) glycohydrolase ARH3) ([Protein ADP-ribosylarginine] hydrolase-like protein 2) ([Protein ADP-ribosylserine] hydrolase)
+GeneName	ADPRHL2 hCG_38289
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVAGISLAYSSVQDVQKFARLSAQLTHASSLGYNGAILQALAVHLALQGESSSEHFLKQLLGHMEDLEGDAQSVLDARELGMEERPYSSRLKKIGELLDQASVTREEVVSELGNGIAAFESVPTAIYCFLRCMEPDPEIPSAFNSLQRTLIYSISLGGDTDTIATMAGAIAGAYYGMDQVPESWQQSCEGYEETDILAQSLHRVFQKS
+PTM	

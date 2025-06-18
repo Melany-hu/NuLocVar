@@ -1,0 +1,25 @@
+UniprotID	Q9H4I8-2
+Accession	Q9H4I8;B1AHE9;B1AHF0;Q0VDJ1;Q5H973;Q9BR29;Q9BR30;Q9Y3I9
+EntryName	SEHL2_HUMAN
+ProteinName	Serine hydrolase-like protein 2 (EC 3.1.-.-)
+GeneName	SERHL2 SERHL
+Length	250
+Function	Probable serine hydrolase. May be related to cell muscle hypertrophy.
+Subcellular Location	Cytoplasm; Perinuclear region; Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSENAAPDFYYVAMDFGGHGLSSHYSPGVPYYLQTFVSEIRRVVAGGVVGGMFFCTFPEMVDKLILLDTPLFLLESDEMENLLTYKRRAIEHVLQVEASQEPSHVFSLKQLLQRLLKSNSHLSEECGELLLQRGTTKVATGLVLNRDQRLAWAENSIDFISRELCAHSIRKLQAHVLLIKAVHGYFDSRQNYSEKESLSFMIDTMKSTLKEQFQFVEVPGNHCVHMSEPQHVASIISSFLQCTHMLPAQL
+PTM	Methylation:173,181,235,244

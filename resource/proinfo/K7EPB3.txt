@@ -1,0 +1,25 @@
+UniprotID	K7EPB3
+Accession	K7EPB3
+EntryName	K7EPB3_HUMAN
+ProteinName	WNK lysine deficient protein kinase 4
+GeneName	WNK4
+Length	62
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TLSPQEEPAPLPALPVPLPDPSNEGKPQLVGRFQVTSSKEPAEPLPLQPTSPTLSGSPKPST
+PTM	

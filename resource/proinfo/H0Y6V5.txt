@@ -1,0 +1,25 @@
+UniprotID	H0Y6V5
+Accession	H0Y6V5
+EntryName	H0Y6V5_HUMAN
+ProteinName	[histone H3]-trimethyl-L-lysine(27) demethylase (EC 1.14.11.68)
+GeneName	KDM6A
+Length	161
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XARNIKVSDPKLFEMIKIFSLSPNFRAEKCLRDHLVQPLRSNGEPEPLRFTGEYCLLRTLKQCQTLREALIAAGKEIIWHGRTKEEPAHYCSICEVEVFDLLFVTNESNSRKTYIVHCQDCARKTSGNLENFVVLEQYKMEDLMQVYDQFTLAPPLPSASS
+PTM	

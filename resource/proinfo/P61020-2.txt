@@ -1,0 +1,25 @@
+UniprotID	P61020-2
+Accession	P61020;A8K982;B4DKD7;P35239;P35277;Q6PIK9;Q86TH0;Q8IXL2
+EntryName	RAB5B_HUMAN
+ProteinName	Ras-related protein Rab-5B (EC 3.6.5.2)
+GeneName	RAB5B
+Length	174
+Function	Protein transport. Probably involved in vesicular traffic.
+Subcellular Location	Cell membrane; Early endosome membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSRSTARPNGQPQASKICQFKLVLLGESAVGKSSLVLRFVKGQFHEYQESTIGAAFLTQSVCLDDTTVKFEIWDTAGQERYHSLAPMYYRGAQAAIVVYDITNQEAQAYADDNSLLFMETSAKTAMNVNDLFLAIAKKLPKSEPQNLGGAAGRSRGVDLHEQSQQNKSQCCSN
+PTM	Acetylation:22,140,183;Glycosylation:10;Methylation:33,134;Phosphorylation:5,29,35,82,84,123,125;Ubiquitylation:116,134,140,179,180

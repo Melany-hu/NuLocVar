@@ -1,0 +1,25 @@
+UniprotID	Q9UHA4
+Accession	Q9UHA4;B2R4A1;J3KMX4;Q9H364
+EntryName	LTOR3_HUMAN
+ProteinName	Ragulator complex protein LAMTOR3 (Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3) (MEK-binding partner 1) (Mp1) (Mitogen-activated protein kinase kinase 1-interacting protein 1) (Mitogen-activated protein kinase scaffold protein 1)
+GeneName	LAMTOR3 MAP2K1IP1 MAPKSP1 PRO2783
+Length	124
+Function	As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids (PubMed:20381137, PubMed:22980980, PubMed:28935770, PubMed:29107538, PubMed:29123114, PubMed:29158492, PubMed:30181260). Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane (PubMed:22980980, PubMed:28935770, PubMed:29107538, PubMed:29123114, PubMed:29158492, PubMed:30181260). Activated Ragulator and Rag GTPases function as a scaffold recruiting mTORC1 to lysosomes where it is in turn activated (PubMed:22980980, PubMed:28935770, PubMed:29107538, PubMed:29123114, PubMed:29158492, PubMed:30181260). Adapter protein that enhances the efficiency of the MAP kinase cascade facilitating the activation of MAPK2 (By similarity).
+Subcellular Location	Late endosome membrane
+Disorder	0.0356,0.0555,0.0313,0.0618,0.0817,0.0581,0.0870,0.1092,0.0734,0.0948,0.0929,0.0646,0.0518,0.0300,0.0275,0.0543,0.0555,0.0581,0.1206,0.1251,0.2258,0.1611,0.0929,0.1528,0.0851,0.0690,0.1206,0.1162,0.1275,0.1702,0.1914,0.2399,0.3426,0.3807,0.3631,0.3704,0.3872,0.3807,0.2470,0.1671,0.2328,0.2094,0.1671,0.2258,0.1501,0.1823,0.2224,0.2193,0.2129,0.1969,0.2292,0.1969,0.1162,0.1115,0.0799,0.1323,0.1298,0.1184,0.1184,0.2164,0.2034,0.1251,0.0799,0.0985,0.0719,0.1323,0.1671,0.0967,0.0948,0.0581,0.0364,0.0389,0.0191,0.0356,0.0364,0.0364,0.0443,0.0258,0.0163,0.0113,0.0113,0.0104,0.0104,0.0119,0.0181,0.0294,0.0263,0.0205,0.0380,0.0380,0.0605,0.0555,0.0287,0.0389,0.0349,0.0198,0.0372,0.0306,0.0605,0.0543,0.0704,0.0851,0.1048,0.0948,0.1275,0.1399,0.0851,0.0888,0.1137,0.0662,0.0389,0.0433,0.0473,0.0851,0.1115,0.0929,0.1373,0.1007,0.0780,0.0494,0.0817,0.0817,0.0405,0.0749
+ExposeBuried	1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,1
+SurfaceAccessbility	0.778,0.509,0.666,0.497,0.140,0.351,0.479,0.175,0.086,0.249,0.615,0.518,0.092,0.511,0.568,0.144,0.631,0.384,0.114,0.219,0.092,0.065,0.103,0.075,0.263,0.393,0.516,0.674,0.428,0.152,0.249,0.130,0.109,0.336,0.106,0.208,0.529,0.650,0.621,0.253,0.406,0.603,0.313,0.255,0.179,0.405,0.421,0.397,0.146,0.156,0.329,0.226,0.103,0.162,0.126,0.165,0.292,0.500,0.595,0.543,0.487,0.560,0.209,0.408,0.213,0.418,0.622,0.618,0.426,0.297,0.058,0.063,0.030,0.092,0.115,0.321,0.204,0.235,0.354,0.150,0.150,0.396,0.141,0.490,0.460,0.136,0.296,0.091,0.093,0.064,0.149,0.074,0.105,0.138,0.337,0.471,0.513,0.344,0.506,0.280,0.195,0.103,0.112,0.129,0.286,0.115,0.399,0.584,0.492,0.072,0.261,0.471,0.105,0.081,0.578,0.457,0.048,0.392,0.590,0.175,0.242,0.724,0.434,0.889
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,B,B,B,B,B,B,C,C,C,B,B,B,B,B,B,B,B,C,C,C,C,C,C,C,B,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C
+Hydropathy	1.9,1.8,-3.5,-3.5,3.8,-3.9,-4.5,2.8,3.8,-1.3,-3.9,-3.9,3.8,-1.6,-0.8,4.2,-3.5,-0.4,3.8,-3.2,1.8,4.5,4.2,4.2,-0.8,-3.5,-4.5,-3.5,-0.4,4.2,-1.6,4.2,4.5,-3.9,4.2,1.8,-3.5,-3.5,-3.5,1.8,-1.6,-3.5,-3.2,1.8,3.8,-4.5,-1.6,-0.4,2.8,3.8,-0.8,-0.7,2.8,1.8,3.8,1.8,-0.7,-3.5,-3.5,-0.4,-0.8,-3.9,3.8,-0.4,3.8,-0.8,-3.9,-3.5,-3.9,-0.8,4.5,4.5,2.5,-1.3,-1.3,-3.5,-0.7,-1.3,-3.5,4.2,4.2,-3.5,2.8,-3.5,-4.5,3.8,-1.6,3.8,4.2,4.2,-0.8,2.8,4.5,1.8,-0.8,-0.8,-0.8,1.8,-3.5,-0.7,-0.4,3.8,4.5,4.2,-0.8,3.8,-3.5,-3.9,-3.5,3.8,1.8,-1.6,3.8,2.8,-3.5,-3.5,3.8,-4.5,-3.5,4.2,4.2,-3.5,4.2,-0.8
+Polar	0,0,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,1,0,1
+Charge	0,0,-1,-1,0,1,1,0,0,0,1,1,0,0,0,0,-1,0,0,1,0,0,0,0,0,-1,1,-1,0,0,0,0,0,1,0,0,0,-1,0,0,0,-1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,-1,0,0,0,0,0,-1,-1,0,1,0,0,0,-1,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADDLKRFLYKKLPSVEGLHAIVVSDRDGVPVIKVANDNAPEHALRPGFLSTFALATDQGSKLGLSKNKSIICYYNTYQVVQFNRLPLVVSFIASSSANTGLIVSLEKELAPLFEELRQVVEVS
+PTM	Methylation:108;Ubiquitylation:62

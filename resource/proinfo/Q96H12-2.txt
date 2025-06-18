@@ -1,0 +1,25 @@
+UniprotID	Q96H12-2
+Accession	Q96H12;B2RC35;Q5T726;Q5T727;Q5T728
+EntryName	MSD3_HUMAN
+ProteinName	Myb/SANT-like DNA-binding domain-containing protein 3
+GeneName	MSANTD3 C9orf30 L8
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQNNEIIKPAKYFSELEKSILLALVEKYKYVLECKKSDARTIALKQRTWQALAHEYNSQPSVSLRDFKQLKKCWENIKARTKKIMAHERREKVKRSVSPLLSTHVLGKEKIASMLPEQLYFLQSPPEEEPEYHPDASAQVFFQERKRSLELSIILSGTW
+PTM	Methylation:8,18,27,45,78,108,194,246;Phosphorylation:61,63,96,98,265,274;SUMOylation:8,11,18,108,154,181,186,195,240,254

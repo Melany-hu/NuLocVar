@@ -1,0 +1,25 @@
+UniprotID	P00167-3
+Accession	P00167;A8MV91;F8WEU4;Q6IB14
+EntryName	CYB5_HUMAN
+ProteinName	Cytochrome b5 (Microsomal cytochrome b5 type A) (MCB5)
+GeneName	CYB5A CYB5
+Length	124
+Function	Cytochrome b5 is a membrane-bound hemoprotein functioning as an electron carrier for several membrane-bound oxygenases.
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEQSDEAVKYYTLEEIQKHNHSKSTWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDVGHSTDAREMSKTFIIGELHPETLITTIDSSSSWWTNWVIPAISAVAVALMYRLYMAED
+PTM	Acetylation:19;Methylation:19,39,52;Phosphorylation:5,12;Ubiquitylation:10,39

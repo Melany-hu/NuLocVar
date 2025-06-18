@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DGR2
+Accession	A0A0C4DGR2
+EntryName	A0A0C4DGR2_HUMAN
+ProteinName	Prostate tumor-overexpressed gene 1 protein
+GeneName	PTOV1 hCG_2039824
+Length	374
+Function	Activates transcription. Required for nuclear translocation of FLOT1. Promotes cell proliferation.
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSPAVPTPARGQLGVAFVLLPPHSEGARVFGALGPIGPSSPGLTLGGLAVSEHRLSNKLLAWSGVLEWQEKRRPYSDSTAKLKRTLPCQAYVNQGENLETDQWPQKLIMQLIPQQLLTTLGPLFRNSQLAQFHFTNRDCDSLKGLCRIMGNGFAGCMLFPHISPCEVRVLMLLYSSKKKIFMGLIPYDQSGFVSAIRQVITTRKQAVGPGGVNSGPVQIVNNKFLAWSGVMEWQEPRPEPNSRSKRWLPSHVYVNQGEILRTEQWPRKLYMQLIPQQLLTTLVPLFRNSRLVQFHFTKDLETLKSLCRIMDNGFRRKSSLASSPMTRATLSTASGVSLPTSSRSCSGTWSRSNSNEGWGGSGYPGLGPSRSHR
+PTM	

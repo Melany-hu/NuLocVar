@@ -1,0 +1,25 @@
+UniprotID	Q8N0V3-2
+Accession	Q8N0V3;Q6PF07;Q8WZ65;Q9H776
+EntryName	RBFA_HUMAN
+ProteinName	Putative ribosome-binding factor A, mitochondrial
+GeneName	RBFA C18orf22
+Length	242
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWAAAGGLWRSRAGLRALFRSRDAALFPGCERGLHCSAVSCKNWLKKFASKTKKKVWYESPSLGSHSTYKPSKLEFLMRSTSKKTRKEDHARLRALNGLLYKALTDLLCTPEVSQELYDLNVELSKVSLTPDFSACRAYWKTTLSAEQNAHMEAVLQRSAAHMSLISYWQSQTLDPGMKETTLYKMISGTLMPHNPAAPQSRPQAPVCVGSIMRRSTSRLWSTKGGKIKGSGAWCGRGRWLS
+PTM	Methylation:102,293;Phosphorylation:21,130

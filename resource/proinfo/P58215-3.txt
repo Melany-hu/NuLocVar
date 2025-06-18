@@ -1,0 +1,25 @@
+UniprotID	P58215-3
+Accession	P58215;D6W5J1;Q2EHP2;Q6IPL7;Q96RS1
+EntryName	LOXL3_HUMAN
+ProteinName	Lysyl oxidase homolog 3 (EC 1.4.3.-) (EC 1.4.3.13) (Lysyl oxidase-like protein 3)
+GeneName	LOXL3 LOXL
+Length	608
+Function	Protein-lysine 6-oxidase that mediates the oxidation of peptidyl lysine residues to allysine in target proteins (PubMed:17018530, PubMed:28065600). Catalyzes the post-translational oxidative deamination of peptidyl lysine residues in precursors of elastin and different types of collagens, a prerequisite in the formation of cross-links between collagens and elastin (PubMed:17018530). Required for somite boundary formation by catalyzing oxidation of fibronectin (FN1), enhancing integrin signaling in myofibers and their adhesion to the myotendinous junction (MTJ) (By similarity). Acts as a regulator of inflammatory response by inhibiting differentiation of naive CD4(+) T-cells into T-helper Th17 or regulatory T-cells (Treg): acts by interacting with STAT3 in the nucleus and catalyzing both deacetylation and oxidation of lysine residues on STAT3, leading to disrupt STAT3 dimerization and inhibit STAT3 transcription activity (PubMed:28065600). Oxidation of lysine residues to allysine on STAT3 preferentially takes place on lysine residues that are acetylated (PubMed:28065600). Also able to catalyze deacetylation of lysine residues on STAT3 (PubMed:28065600).
+Subcellular Location	Secreted; Extracellular space; Cytoplasm; Nucleus; Secreted; Extracellular space; Cytoplasm; Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	174...179
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPVSVWQWSPWGLLLCLLCSSCLGSPSPSTGPEKKAGSQGLRFRLAGFPRKPYEGRVEIQRAGEWGTICDDDFTLQAAHILCRELGFTEATGWTHSAKYGPGTGRIWLDNLSCSGTEQSVTECASRGWGNSDCTHDEDAGVICKDQRLPGFSDSNVIEARVRLKGGAHPGEGRVEVLKASTWGTVCDRKWDLHAASVVCRELGFGSAREALSGARMGQGMGAIHLSEVRCSGQELSLWKCPHKNITAEDCSHSQDAGVRCNLPYTGAETRIRLSGGRSQHEGRVEVQIGGPGPLRWGLICGDDWGTLEAMVACRQLGLGYANHGLQETWYWDSGNITEVVMSGVRCTGTELSLDQCAHHGTHITCKRTGTRFTAGVICSETASDLLLHSALVQETAYIEDRPLHMLYCAAEENCLASSARSANWPYGHRRLLRFSSQIHNLGRADFRPKAGRHSWVWHECHGHYHSMDIFTHYDILTPNGTKVAEGHKASFCLEDTECQEDVSKRYECANFGEQGITVGCWDLYRHDIDCQWIDITDVKPGNYILQVVINPNFEVAESDFTNNAMKCNCKYDGHRIWVHNCHIGDAFSEEANRRFERYPGQTSNQII
+PTM	Methylation:324;Phosphorylation:39

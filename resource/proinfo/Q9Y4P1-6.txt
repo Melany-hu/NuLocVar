@@ -1,0 +1,25 @@
+UniprotID	Q9Y4P1-6
+Accession	Q9Y4P1;B7WNK2;Q53NU4;Q6ZUV8;Q8WYM9;Q96K07;Q96K96;Q96SZ1;Q9Y2F2
+EntryName	ATG4B_HUMAN
+ProteinName	Cysteine protease ATG4B (EC 3.4.22.-) (AUT-like 1 cysteine endopeptidase) (Autophagy-related cysteine endopeptidase 1) (Autophagin-1) (Autophagy-related protein 4 homolog B) (HsAPG4B) (hAPG4B)
+GeneName	ATG4B APG4B AUTL1 KIAA0943
+Length	380
+Function	Cysteine protease that plays a key role in autophagy by mediating both proteolytic activation and delipidation of ATG8 family proteins (PubMed:15169837, PubMed:15187094, PubMed:17347651, PubMed:19322194, PubMed:21177865, PubMed:22302004, PubMed:26378241, PubMed:27527864, PubMed:28633005, PubMed:28821708, PubMed:29232556, PubMed:30076329, PubMed:30443548, PubMed:30661429). Required for canonical autophagy (macroautophagy), non-canonical autophagy as well as for mitophagy (PubMed:33773106, PubMed:33909989). The protease activity is required for proteolytic activation of ATG8 family proteins: cleaves the C-terminal amino acid of ATG8 proteins MAP1LC3A, MAP1LC3B, MAP1LC3C, GABARAPL1, GABARAPL2 and GABARAP, to reveal a C-terminal glycine (PubMed:15169837, PubMed:15187094, PubMed:17347651, PubMed:19322194, PubMed:20818167, PubMed:21177865, PubMed:22302004, PubMed:27527864, PubMed:28287329, PubMed:28633005, PubMed:29458288, PubMed:30661429). Exposure of the glycine at the C-terminus is essential for ATG8 proteins conjugation to phosphatidylethanolamine (PE) and insertion to membranes, which is necessary for autophagy (PubMed:15169837, PubMed:15187094, PubMed:17347651, PubMed:19322194, PubMed:21177865, PubMed:22302004). Protease activity is also required to counteract formation of high-molecular weight conjugates of ATG8 proteins (ATG8ylation): acts as a deubiquitinating-like enzyme that removes ATG8 conjugated to other proteins, such as ATG3 (PubMed:31315929, PubMed:33773106). In addition to the protease activity, also mediates delipidation of ATG8 family proteins (PubMed:15187094, PubMed:19322194, PubMed:28633005, PubMed:29458288, PubMed:32686895, PubMed:33909989). Catalyzes delipidation of PE-conjugated forms of ATG8 proteins during macroautophagy (PubMed:15187094, PubMed:19322194, PubMed:29458288, PubMed:32686895, PubMed:33909989). Also involved in non-canonical autophagy, a parallel pathway involving conjugation of ATG8 proteins to single membranes at endolysosomal compartments, by catalyzing delipidation of ATG8 proteins conjugated to phosphatidylserine (PS) (PubMed:33909989). Compared to other members of the family (ATG4A, ATG4C or ATG4C), constitutes the major protein for proteolytic activation of ATG8 proteins, while it displays weaker delipidation activity than other ATG4 paralogs (PubMed:29458288, PubMed:30661429). Involved in phagophore growth during mitophagy independently of its protease activity and of ATG8 proteins: acts by regulating ATG9A trafficking to mitochondria and promoting phagophore-endoplasmic reticulum contacts during the lipid transfer phase of mitophagy (PubMed:33773106).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytosol; Cytoplasmic vesicle; Autophagosome; Endoplasmic reticulum; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAATLTYDTLRFAEFEDFPETSEPVWILGRKYSIFTEKDEILSDVASRLWFTYRKNFPAIGGTGPTSDTGWGCMLRCGQMIFAQALVCRHLGRDWRWTQRKRQPDSYFSVLNAFIDRKDSYYSIHQIAQMGVGEGKSIGQWYGPNTVAQVLKKLAVFDTWSSLAVHIAMDNTVVMEEIRRLCRTSVPCAGATAFPADSDRHCNGFPAGAEVTNRPSPWRPLVLLIPLRLGLTDINEAYVETLKHCFMMPQSLGVIGGKPNSAHYFIGYVGEELIYLDPHTTQPAVEPTDGCFIPDESFHCQHPPCRMSIAELDPSIAVGFFCKTEDDFNDWCQQVKKLSLLGGALPMFELVELQPSHLACPDVLNLSLGESCQVQILLM
+PTM	Acetylation:337;Methylation:153,244,259;Phosphorylation:7,8,10,34,383,392;Ubiquitylation:337

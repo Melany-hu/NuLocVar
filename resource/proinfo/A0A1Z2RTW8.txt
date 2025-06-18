@@ -1,0 +1,25 @@
+UniprotID	A0A1Z2RTW8
+Accession	A0A1Z2RTW8
+EntryName	A0A1Z2RTW8_HUMAN
+ProteinName	Rh blood group D antigen splice variant
+GeneName	RHD
+Length	87
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VLLVLDTVGAGNGMSLGWNLAVKMAEAGDEELMRLDMSQRNHGGAAVPTGSWMPSTETTIAPNYRDHISVGLASRSSSALGNSAWPS
+PTM	

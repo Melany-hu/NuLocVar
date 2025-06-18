@@ -1,0 +1,25 @@
+UniprotID	F1LLU5
+Accession	F1LLU5
+EntryName	F1LLU5_HUMAN
+ProteinName	Endosome-lysosome associated apoptosis and autophagy regulator family member 2
+GeneName	ELAPOR2
+Length	112
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNQVCSKCGEGTYSLGSGIKFDEWDELPAGFSNIATFMDTVVGPSDSRPDGCNNSSWIPRGNYIESNRDDCTVSLIYAVHLKKSGYVFFEYQYVDNNIFFEFFIQNDQCQE
+PTM	

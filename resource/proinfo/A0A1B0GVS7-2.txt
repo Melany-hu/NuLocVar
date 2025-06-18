@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GVS7-2
+Accession	A0A1B0GVS7;A0A0U1T9V0;A0A0U1WUY1
+EntryName	MDFI2_HUMAN
+ProteinName	MyoD family inhibitor domain-containing protein 2
+GeneName	MDFIC2
+Length	202
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSETELEKIKVRTAEHLENDKNNISWLKEGLSTSILNPLGDPDTQLTNAKHADEKPINAIVINSVSDFNITDGPAKENPNEKKLSESSTSLSSLEECQTTFSYLQTDTSVHHRDTDEECASLILACLFCQFWDCLLMLPGTCETVCTKMCCPSRRYHHTSDENHSRNDCSCNCDMDCSLFESCHETSECLELAMEISEICYR
+PTM	Methylation:8;Phosphorylation:143,146

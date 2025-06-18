@@ -1,0 +1,25 @@
+UniprotID	O95944-2
+Accession	O95944;Q9H562;Q9H563;Q9H564;Q9UMT1;Q9UMT2
+EntryName	NCTR2_HUMAN
+ProteinName	Natural cytotoxicity triggering receptor 2 (Lymphocyte antigen 95 homolog) (NK cell-activating receptor) (Natural killer cell p44-related protein) (NK-p44) (NKp44) (CD antigen CD336)
+GeneName	NCR2 LY95
+Length	270
+Function	Cytotoxicity-activating receptor that may contribute to the increased efficiency of activated natural killer (NK) cells to mediate tumor cell lysis.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWRALHPLLLLLLLFPGSQAQSKAQVLQSVAGQTLTVRCQYPPTGSLYEKKGWCKEASALVCIRLVTSSKPRTMAWTSRFTIWDDPDAGFFTVTMTDLREEDSGHYWCRIYRPSDNSVSKSVRFYLVVSPASASTQTSWTPRDLVSSQTQTQSCVPPTAGARQAPESPSTIPVPSHPSSPLPVPLPSRPQNSTLRPGPAAPIALVPVFCGLLVAKSLVLSALLVWWVLRNRHMQHQGRSLLHPAQPRPQAHRHFPLSHRAPGGTYGGKP
+PTM	

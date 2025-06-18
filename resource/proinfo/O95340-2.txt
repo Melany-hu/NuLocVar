@@ -1,0 +1,25 @@
+UniprotID	O95340-2
+Accession	O95340;Q9BZL2;Q9P0G6;Q9UHM1;Q9UKD3;Q9UP30
+EntryName	PAPS2_HUMAN
+ProteinName	Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 (PAPS synthase 2) (PAPSS 2) (Sulfurylase kinase 2) (SK 2) (SK2) [Includes: Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT); Adenylyl-sulfate kinase (EC 2.7.1.25) (3'-phosphoadenosine-5'-phosphosulfate synthase) (APS kinase) (Adenosine-5'-phosphosulfate 3'-phosphotransferase) (Adenylylsulfate 3'-phosphotransferase)]
+GeneName	PAPSS2 ATPSK2
+Length	619
+Function	Bifunctional enzyme with both ATP sulfurylase and APS kinase activity, which mediates two steps in the sulfate activation pathway. The first step is the transfer of a sulfate group to ATP to yield adenosine 5'-phosphosulfate (APS), and the second step is the transfer of a phosphate group from ATP to APS yielding 3'-phosphoadenylylsulfate/PAPS, the activated sulfate donor used by sulfotransferases (PubMed:11773860, PubMed:19474428, PubMed:23824674, PubMed:25594860). In mammals, PAPS is the sole source of sulfate while APS appears to only be an intermediate in the sulfate-activation pathway (PubMed:11773860, PubMed:19474428, PubMed:23824674, PubMed:25594860). Plays indirectly an important role in skeletogenesis during postnatal growth (PubMed:9771708).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGIKKQKTENQQKSTNVVYQAHHVSRNKRGQVVGTRGGFRGCTVWLTGLSGAGKTTISFALEEYLVSHAIPCYSLDGDNVRHGLNRNLGFSPGDREENIRRIAEVAKLFADAGLVCITSFISPFAKDRENARKIHESAGLPFFEIFVDAPLNICESRDVKGLYKRARAGEIKGFTGIDSDYEKPETPERVLKTNLSTVSDCVHQVVELLQEQNIVPYTIIKDIHELFVPENKLDHVRAEAETLPSLSITKLDLQWVQVLSEGWATPLKGFMREKEYLQVMHFDTLLDGMALPDGVINMSIPIVLPVSAEDKTRLEGCSKFVLAHGGRRVAILRDAEFYEHRKEERCSRVWGTTCTKHPHIKMVMESGDWLVGGDLQVLEKIRWNDGLDQYRLTPLELKQKCKEMNADAVFAFQLRNPVHNGHALLMQDTRRRLLERGYKHPVLLLHPLGGWTKDDDVPLDWRMKQHAAVLEEGVLDPKSTIVAIFPSPMLYAGPTEVQWHCRSRMIAGANFYIVGRDPAGMPHPETKKDLYEPTHGGKVLSMAPGLTSVEIIPFRVAAYNKAKKAMDFYDPARHNEFDFISGTRMRKLAREGENPPDGFMAPKAWKVLTDYYRSLEKN
+PTM	Acetylation:184,233,315,394,602;Methylation:5,14,108,173,184,233,251,269,338,376,474,599;Phosphorylation:2,20,92,180,187,248,577,579;SUMOylation:184,352;Ubiquitylation:127,173,184,233,394,435,534,602

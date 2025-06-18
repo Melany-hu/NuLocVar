@@ -1,0 +1,25 @@
+UniprotID	Q9NR81-4
+Accession	Q9NR81;A8K5U7;Q4FZB6;Q4QQI5;Q4QQQ0;Q59F00;Q6NUN3;Q7Z4U2;Q7Z5T2;Q9H7T4
+EntryName	ARHG3_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 3 (Exchange factor found in platelets and leukemic and neuronal tissues) (XPLN)
+GeneName	ARHGEF3
+Length	324
+Function	Acts as a guanine nucleotide exchange factor (GEF) for RhoA and RhoB GTPases.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLPCLSSYDSYCSNQVAAKALLDHKKQDHRVQDFLQRCLESPFSRKLDLWNFLDIPRSRLVKYPLLLREILRHTPNDNPDQQHLEEAINIIQGIVAEINTKTGESECRYYKERLLYLEEGQKDSLIDSSRVLCCHGELKNNRGVKLHVFLFQEVLVITRAVTHNEQLCYQLYRQPIPVKDLLLEDLQDGEVRLGGSLRGAFSNNERIKNFFRVSFKNGSQSQTHSLQANDTFNKQQWLNCIRQAKETVLCAAGQAGVLDSEGSFLNPTTGSRELQGETKLEQMDQSDSESDCSMDTSEVSLDCERMEQTDSSCGNSRHGESNV
+PTM	Acetylation:13;Phosphorylation:46,47,72,399;SUMOylation:56,102,122,142,146,249,382,419,482

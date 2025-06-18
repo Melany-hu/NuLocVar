@@ -1,0 +1,25 @@
+UniprotID	P16333-2
+Accession	P16333;B7Z751;D3DNE3
+EntryName	NCK1_HUMAN
+ProteinName	SH2/SH3 adapter protein NCK1 (Cytoplasmic protein NCK1) (NCK adapter protein 1) (Nck-1) (SH2/SH3 adapter protein NCK-alpha)
+GeneName	NCK1 NCK
+Length	313
+Function	Adapter protein which associates with tyrosine-phosphorylated growth factor receptors, such as KDR and PDGFRB, or their cellular substrates. Maintains low levels of EIF2S1 phosphorylation by promoting its dephosphorylation by PP1. Plays a role in the DNA damage response, not in the detection of the damage by ATM/ATR, but for efficient activation of downstream effectors, such as that of CHEK2. Plays a role in ELK1-dependent transcriptional activation in response to activated Ras signaling. Modulates the activation of EIF2AK2/PKR by dsRNA. May play a role in cell adhesion and migration through interaction with ephrin receptors.
+Subcellular Location	Cytoplasm; Endoplasmic reticulum; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDWLNVFKDFFSIGKVKRKPSVPDSASPADDSFVDPGERLYDLNMPAYVKFNYMAEREDELSLIKGTKVIVMEKCSDGWWRGSYNGQVGWFPSNYVTEEGDSPLGDHVGSLSEKLAAVVNNLNTGQVLHVVQALYPFSSSNDEELNFEKGDVMDVIEKPENDPEWWKCRKINGMVGLVPKNYVTVMQNNPLTSGLEPSPPQCDYIRPSLTGKFAGNPWYYGKVTRHQAEMALNERGHEGDFLIRDSESSPNDFSVSLKAQGKNKHFKVQLKETVYCIGQRKFSTMEELVEHYKKAPIFTSEQGEKLYLVKHLS
+PTM	Acetylation:69,79;Methylation:24,79,114,129,213,335;Phosphorylation:44,53,55,61,66,74,85,89,91,96,105,112,126,147,148,161,166,174,256,262,268,310,312,313,339,347,348,371;Ubiquitylation:69,132

@@ -1,0 +1,25 @@
+UniprotID	D6R984
+Accession	D6R984
+EntryName	D6R984_HUMAN
+ProteinName	Centromere protein K
+GeneName	CENPK
+Length	106
+Function	
+Subcellular Location	Chromosome; Centromere; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNQEDLDPDSTTDVGDVTNTEEELIRECEEMWKDMEECQNKLSLIGTETLTDSNAQLSLLIMQVKCLTAELSQWQKKTPERSHRVVQAGVQWHNHGSLQPRSPGFK
+PTM	

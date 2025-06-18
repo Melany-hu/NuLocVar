@@ -1,0 +1,25 @@
+UniprotID	Q4VY28
+Accession	Q4VY28
+EntryName	Q4VY28_HUMAN
+ProteinName	Polyglutamine-binding protein 1 (Polyglutamine tract-binding protein 1)
+GeneName	PQBP1
+Length	149
+Function	
+Subcellular Location	Cytoplasmic granule; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSAMPLPVALQTRLAKRGILKHLEPEPEEEIIAEDYDDDPVDYEATRLEGLPPSWYKVFDPSCGLPYYWNADTDLVSWLSPHDPNSVVTKSAKKLRSSNADAEEKLDRSHDKSDRGHDKSDRSHEKLDRGCAPGQCRGLPNQAAGLKL
+PTM	

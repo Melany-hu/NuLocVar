@@ -1,0 +1,25 @@
+UniprotID	O14807-2
+Accession	O14807;B4DIK0;Q86WX8
+EntryName	RASM_HUMAN
+ProteinName	Ras-related protein M-Ras (EC 3.6.5.2) (Ras-related protein R-Ras3)
+GeneName	MRAS RRAS3
+Length	132
+Function	Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival (PubMed:16630891, PubMed:28289718, PubMed:35768504, PubMed:35830882, PubMed:35831509, PubMed:36175670). Core component of the SHOC2-MRAS-PP1c (SMP) holophosphatase complex that regulates the MAPK pathway activation (PubMed:16630891, PubMed:35768504, PubMed:35830882, PubMed:35831509, PubMed:36175670). The formation of the SMP complex only occurs when MRAS is GTP-bound (PubMed:35768504, PubMed:35830882, PubMed:35831509, PubMed:36175670). The SMP complex specifically dephosphorylates the inhibitory phosphorylation at 'Ser-259' of RAF1 kinase, 'Ser-365' of BRAF kinase and 'Ser-214' of ARAF kinase, stimulating their kinase activities (PubMed:16630891, PubMed:35768504, PubMed:35830882, PubMed:35831509, PubMed:36175670).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	109...115;107...113
+validnes_region	
+nesbase_region	
+Sequence	MREQYMRTGDGFLIVYSVTDKASFEHVDRFHQLILRVKDRESFPMILVANKVDLMHLRKITREQGKEMATKHNIPYIETSAKDPPLNVDKAFHDLVRVIRQQIPEKSQKKKKKTKWRGDRATGTHKLQCVIL
+PTM	Methylation:127

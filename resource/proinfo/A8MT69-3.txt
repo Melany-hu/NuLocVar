@@ -1,0 +1,25 @@
+UniprotID	A8MT69-3
+Accession	A8MT69;O00281;O00282;Q96DD4;Q96F51
+EntryName	CENPX_HUMAN
+ProteinName	Centromere protein X (CENP-X) (FANCM-associated histone fold protein 2) (FANCM-interacting histone fold protein 2) (Fanconi anemia-associated polypeptide of 10 kDa) (Retinoic acid-inducible gene D9 protein homolog) (Stimulated by retinoic acid gene 13 protein homolog)
+GeneName	CENPX FAAP10 MHF2 STRA13
+Length	58
+Function	DNA-binding component of the Fanconi anemia (FA) core complex. Required for the normal activation of the FA pathway, leading to monoubiquitination of the FANCI-FANCD2 complex in response to DNA damage, cellular resistance to DNA cross-linking drugs, and prevention of chromosomal breakage (PubMed:20347428, PubMed:20347429). In complex with CENPS (MHF heterodimer), crucial cofactor for FANCM in both binding and ATP-dependent remodeling of DNA. Stabilizes FANCM. In complex with CENPS and FANCM (but not other FANC proteins), rapidly recruited to blocked forks and promotes gene conversion at blocked replication forks (PubMed:20347428, PubMed:20347429). In complex with CENPS, CENPT and CENPW (CENP-T-W-S-X heterotetramer), involved in the formation of a functional kinetochore outer plate, which is essential for kinetochore-microtubule attachment and faithful mitotic progression (PubMed:19620631). As a component of MHF and CENP-T-W-S-X complexes, binds DNA and bends it to form a nucleosome-like structure (PubMed:20347428, PubMed:20347429). DNA-binding function is fulfilled in the presence of CENPS, with the following preference for DNA substates: Holliday junction > double-stranded > splay arm > single-stranded. Does not bind DNA on its own (PubMed:20347429).
+Subcellular Location	Nucleus; Chromosome; Centromere; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGAGAGSGFRKELVSRLLHLHFKDDKTKEAAVRGVRQAQAEDALRVDVDQLEKLLDF
+PTM	Methylation:43

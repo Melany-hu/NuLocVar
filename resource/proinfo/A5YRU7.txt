@@ -1,0 +1,25 @@
+UniprotID	A5YRU7
+Accession	A5YRU7
+EntryName	A5YRU7_HUMAN
+ProteinName	Mucin-1
+GeneName	MUC1
+Length	219
+Function	
+Subcellular Location	Apical cell membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPGTQSPFFLLLLLTVLTATTAPKPATVVTGSGHASSTPGGEKETSATQRSSVPSSTEKNAFNSSLEDPSTDYYQELQRDISEMFLQIYKQGGFLGLSNIKFRPGSVVVQLTLAFREGTINVHDVETQFNQYKTEAASRYNLTISDVSVWGWGARLGHRAAGAGLCSGCAGHCLSHCLGCLSVPPKELRAAGHLSSPGYLPSYERVPHLPHPWALCAP
+PTM	

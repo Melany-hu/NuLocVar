@@ -1,0 +1,25 @@
+UniprotID	F8VPI2
+Accession	F8VPI2
+EntryName	F8VPI2_HUMAN
+ProteinName	Transmembrane protein 263
+GeneName	TMEM263
+Length	56
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNQTDKNQQEIPSYLNDEPPEESYSVNPGWSAMARSWPTATSASWVQAVLLPQPPK
+PTM	

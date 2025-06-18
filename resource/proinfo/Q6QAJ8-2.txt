@@ -1,0 +1,25 @@
+UniprotID	Q6QAJ8-2
+Accession	Q6QAJ8;A1YRJ4;B2RNE4;B4DJ52;B9EGW3
+EntryName	TM220_HUMAN
+ProteinName	Transmembrane protein 220
+GeneName	TMEM220
+Length	150
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPALWRACNGLMAAFFALAALVQVVYTIPAVLTLLVGLNPEVTGNVIWKSISAIHILFCTVWAVGLASYLLHRTQQNILHEEEGRELSGLVIITAWIILCHSSSKNPVGGRIQLAIAIVITLFPFISWVYIYINKEMRSSWPTHCKTVI
+PTM	

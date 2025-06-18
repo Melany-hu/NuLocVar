@@ -1,0 +1,25 @@
+UniprotID	F2Z2V4
+Accession	F2Z2V4
+EntryName	F2Z2V4_HUMAN
+ProteinName	ERCC excision repair 3, TFIIH core complex helicase subunit
+GeneName	ERCC3
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKRDRADRGETLRGHAQPRLPLPALPPALPRSCSGPLRRPTLLALPRAPRWDRPLGGRDAGPGRSPANSA
+PTM	

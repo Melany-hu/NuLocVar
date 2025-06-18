@@ -1,0 +1,25 @@
+UniprotID	Q13362-3
+Accession	Q13362;B4DYJ8;B5BUA5;F5GWP3;Q14391;Q15060;Q15174;Q6ZN33
+EntryName	2A5G_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform (PP2A B subunit isoform B'-gamma) (PP2A B subunit isoform B56-gamma) (PP2A B subunit isoform PR61-gamma) (PP2A B subunit isoform R5-gamma) (Renal carcinoma antigen NY-REN-29)
+GeneName	PPP2R5C KIAA0044
+Length	485
+Function	The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment. The PP2A-PPP2R5C holoenzyme may specifically dephosphorylate and activate TP53 and play a role in DNA damage-induced inhibition of cell proliferation. PP2A-PPP2R5C may also regulate the ERK signaling pathway through ERK dephosphorylation.
+Subcellular Location	Nucleus; Chromosome; Centromere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	416..422
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTCNKAGSRMVVDAANSNGPFQPVVLLHIRDVPPADQEKLFIQKLRQCCVLFDFVSDPLSDLKWKEVKRAALSEMVEYITHNRNVITEPIYPEVVHMFAVNMFRTLPPSSNPTGAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFVLQLLELFDSEDPRERDFLKTTLHRIYGKFLGLRAYIRKQINNIFYRFIYETEHHNGIAELLEILGSIINGFALPLKEEHKIFLLKVLLPLHKVKSLSVYHPQLAYCVVQFLEKDSTLTEPVVMALLKYWPKTHSPKEVMFLNELEEILDVIEPSEFVKIMEPLFRQLAKCVSSPHFQVAERALYYWNNEYIMSLISDNAAKILPIMFPSLYRNSKTHWNKTIHGLIYNALKLFMEMNQKLFDDCTQQFKAEKLKEKLKMKEREEAWVKIENLAKANPQAQKDPKKDRPLARRKSELPQDPHTKKALEAHCRADELASQDGR
+PTM	Acetylation:45,156,183,192,413;Methylation:64,156,183,249,256,277,291,333,395,438;Phosphorylation:296,298,336,385,497;SUMOylation:258,300,413,432;Ubiquitylation:156,157,183,202,333,413

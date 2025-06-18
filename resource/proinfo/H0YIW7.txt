@@ -1,0 +1,25 @@
+UniprotID	H0YIW7
+Accession	H0YIW7
+EntryName	H0YIW7_HUMAN
+ProteinName	Methyltransferase like 25
+GeneName	METTL25
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGGSQQNQLLKMVCPEFLPSDVSRVSSFWWVHGPADFKNEAADLHGMTDFPKIFCETSQKLVSVEAFALAAKYYSVQNLGICTPFEQLLVALRGNQNQRIGENQKAVEFMNMKKSHEVQAMSELISSIADYYGIKQVIDLGSGKGYLSSFLSLKYGLKVYGIDSSNTNTHGAEERNRKLKKHWKLCHAQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q16836-2
+Accession	Q16836;J3KQ17;O00324;O00397;O00753;Q4W5B4
+EntryName	HCDH_HUMAN
+ProteinName	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial (HCDH) (EC 1.1.1.35) (Medium and short-chain L-3-hydroxyacyl-coenzyme A dehydrogenase) (Short-chain 3-hydroxyacyl-CoA dehydrogenase)
+GeneName	HADH HAD HAD1 HADHSC SCHAD
+Length	390
+Function	Mitochondrial fatty acid beta-oxidation enzyme that catalyzes the third step of the beta-oxidation cycle for medium and short-chain 3-hydroxy fatty acyl-CoAs (C4 to C10) (PubMed:10231530, PubMed:11489939, PubMed:16725361). Plays a role in the control of insulin secretion by inhibiting the activation of glutamate dehydrogenase 1 (GLUD1), an enzyme that has an important role in regulating amino acid-induced insulin secretion (By similarity). Plays a role in the maintenance of normal spermatogenesis through the reduction of fatty acid accumulation in the testes (By similarity).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRAGLEAPPPPCGVTGTPGARGLQGRVGPRPQSLAFRGCLPRASSLPGSPRCRRRCHTMAFVTRQFMRSVSSSSTASASAKKIIVKHVTVIGGGLMGAGIAQVAAATGHTVVLVDQTEDILAKSKKGIEESLRKVAKKKFAENLKAGDEFVEKTLSTIATSTDAASVVHSTDLVVEAIVENLKVKNELFKRLDKFAAEHTIFASNTSSLQITSIANATTRQDRFAGLHFFNPVPVMKLVEVIKTPMTSQKTFESLVDFSKALGKHPVSCKDTPGFIVNRLLVPYLMEAIRLYERDFQTCGDSNSGLGFSLKGDASKEDIDTAMKLGAGYPMGPFELLDYVGLDTTKFIVDGWHEMDAENPLHQPSPSLNKLVAENKFGKKTGEGFYKYK
+PTM	Acetylation:23,80,81,87,127,132,136,179,185,192,202,206,212,241,295,301,305,312;Methylation:28,65,75,76,87,95,125,185,202,271;Phosphorylation:13,14,16,17,21,108,186,189,190,196,201,311,313;Ubiquitylation:87

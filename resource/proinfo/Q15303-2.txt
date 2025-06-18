@@ -1,0 +1,25 @@
+UniprotID	Q15303-2
+Accession	Q15303;B7ZLD7;B7ZLE2;B7ZLE3;Q2M1W1;Q59EW4
+EntryName	ERBB4_HUMAN
+ProteinName	Receptor tyrosine-protein kinase erbB-4 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-4) (Tyrosine kinase-type cell surface receptor HER4) (p180erbB4) [Cleaved into: ERBB4 intracellular domain (4ICD) (E4ICD) (s80HER4)]
+GeneName	ERBB4 HER4
+Length	1298
+Function	Tyrosine-protein kinase that plays an essential role as cell surface receptor for neuregulins and EGF family members and regulates development of the heart, the central nervous system and the mammary gland, gene transcription, cell proliferation, differentiation, migration and apoptosis. Required for normal cardiac muscle differentiation during embryonic development, and for postnatal cardiomyocyte proliferation. Required for normal development of the embryonic central nervous system, especially for normal neural crest cell migration and normal axon guidance. Required for mammary gland differentiation, induction of milk proteins and lactation. Acts as cell-surface receptor for the neuregulins NRG1, NRG2, NRG3 and NRG4 and the EGF family members BTC, EREG and HBEGF. Ligand binding triggers receptor dimerization and autophosphorylation at specific tyrosine residues that then serve as binding sites for scaffold proteins and effectors. Ligand specificity and signaling is modulated by alternative splicing, proteolytic processing, and by the formation of heterodimers with other ERBB family members, thereby creating multiple combinations of intracellular phosphotyrosines that trigger ligand- and context-specific cellular responses. Mediates phosphorylation of SHC1 and activation of the MAP kinases MAPK1/ERK2 and MAPK3/ERK1. Isoform JM-A CYT-1 and isoform JM-B CYT-1 phosphorylate PIK3R1, leading to the activation of phosphatidylinositol 3-kinase and AKT1 and protect cells against apoptosis. Isoform JM-A CYT-1 and isoform JM-B CYT-1 mediate reorganization of the actin cytoskeleton and promote cell migration in response to NRG1. Isoform JM-A CYT-2 and isoform JM-B CYT-2 lack the phosphotyrosine that mediates interaction with PIK3R1, and hence do not phosphorylate PIK3R1, do not protect cells against apoptosis, and do not promote reorganization of the actin cytoskeleton and cell migration. Proteolytic processing of isoform JM-A CYT-1 and isoform JM-A CYT-2 gives rise to the corresponding soluble intracellular domains (4ICD) that translocate to the nucleus, promote nuclear import of STAT5A, activation of STAT5A, mammary epithelium differentiation, cell proliferation and activation of gene expression. The ERBB4 soluble intracellular domains (4ICD) colocalize with STAT5A at the CSN2 promoter to regulate transcription of milk proteins during lactation. The ERBB4 soluble intracellular domains can also translocate to mitochondria and promote apoptosis.
+Subcellular Location	Cell membrane; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	676..684
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	666...674
+validnes_region	
+nesbase_region	
+Sequence	MKPATGLWVWVSLLVAAGTVQPSDSQSVCAGTENKLSSLSDLEQQYRALRKYYENCEVVMGNLEITSIEHNRDLSFLRSVREVTGYVLVALNQFRYLPLENLRIIRGTKLYEDRYALAIFLNYRKDGNFGLQELGLKNLTEILNGGVYVDQNKFLCYADTIHWQDIVRNPWPSNLTLVSTNGSSGCGRCHKSCTGRCWGPTENHCQTLTRTVCAEQCDGRCYGPYVSDCCHRECAGGCSGPKDTDCFACMNFNDSGACVTQCPQTFVYNPTTFQLEHNFNAKYTYGAFCVKKCPHNFVVDSSSCVRACPSSKMEVEENGIKMCKPCTDICPKACDGIGTGSLMSAQTVDSSNIDKFINCTKINGNLIFLVTGIHGDPYNAIEAIDPEKLNVFRTVREITGFLNIQSWPPNMTDFSVFSNLVTIGGRVLYSGLSLLILKQQGITSLQFQSLKEISAGNIYITDNSNLCYYHTINWTTLFSTINQRIVIRDNRKAENCTAEGMVCNHLCSSDGCWGPGPDQCLSCRRFSRGRICIESCNLYDGEFREFENGSICVECDPQCEKMEDGLLTCHGPGPDNCTKCSHFKDGPNCVEKCPDGLQGANSFIFKYADPDRECHPCHPNCTQGCIGSSIEDCIGLMDRTPLIAAGVIGGLFILVIVGLTFAVYVRRKSIKKKRALRRFLETELVEPLTPSGTAPNQAQLRILKETELKRVKVLGSGAFGTVYKGIWVPEGETVKIPVAIKILNETTGPKANVEFMDEALIMASMDHPHLVRLLGVCLSPTIQLVTQLMPHGCLLEYVHEHKDNIGSQLLLNWCVQIAKGMMYLEERRLVHRDLAARNVLVKSPNHVKITDFGLARLLEGDEKEYNADGGKMPIKWMALECIHYRKFTHQSDVWSYGVTIWELMTFGGKPYDGIPTREIPDLLEKGERLPQPPICTIDVYMVMVKCWMIDADSRPKFKELAAEFSRMARDPQRYLVIQGDDRMKLPSPNDSKFFQNLLDEEDLEDMMDAEEYLVPQAFNIPPPIYTSRARIDSNRSEIGHSPPPAYTPMSGNQFVYRDGGFAAEQGVSVPYRAPTSTIPEAPVAQGATAEIFDDSCCNGTLRKPVAPHVQEDSSTQRYSADPTVFAPERSPRGELDEEGYMTPMRDKPKQEYLNPVEENPFVSRRKNGDLQALDNPEYHNASNGPPKAEDEYVNEPLYLNTFANTLGKAEYLKNNILSMPEKAKKAFDNPDYWNHSLPPRSTLQHPDYLQEYSTKYFYKQNGRIRPIVAENPEYLSEFSLKPGTVLPPPPYRHRNTVV
+PTM	Glycosylation:548;Methylation:355,438,829,852,935,1113,1291;Phosphorylation:46,602,699,703,726,731,733,875,1066,1110,1140,1162,1208,1246,1262,1289;Ubiquitylation:745,852,858,935

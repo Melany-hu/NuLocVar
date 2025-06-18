@@ -1,0 +1,25 @@
+UniprotID	P35613-2
+Accession	P35613;A6NJW1;D3YLG5;Q7Z796;Q8IZL7
+EntryName	BASI_HUMAN
+ProteinName	Basigin (5F7) (Collagenase stimulatory factor) (Extracellular matrix metalloproteinase inducer) (EMMPRIN) (Hepatoma-associated antigen) (HAb18G) (Leukocyte activation antigen M6) (OK blood group antigen) (Tumor cell-derived collagenase stimulatory factor) (TCSF) (CD antigen CD147)
+GeneName	BSG UNQ6505/PRO21383
+Length	269
+Function	Essential for normal retinal maturation and development (By similarity). Acts as a retinal cell surface receptor for NXNL1 and plays an important role in NXNL1-mediated survival of retinal cone photoreceptors (PubMed:25957687). In association with glucose transporter SLC16A1/GLUT1 and NXNL1, promotes retinal cone survival by enhancing aerobic glycolysis and accelerating the entry of glucose into photoreceptors (PubMed:25957687). May act as a potent stimulator of IL6 secretion in multiple cell lines that include monocytes (PubMed:21620857).
+Subcellular Location	Melanosome; Cell membrane; Photoreceptor inner segment; Cell projection; Cilium; Photoreceptor outer segment; Cell membrane; Endosome; Endoplasmic reticulum membrane; Basolateral cell membrane; Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAALFVLLGFALLGTHGASGAAGTVFTTVEDLGSKILLTCSLNDSATEVTGHRWLKGGVVLKEDALPGQKTEFKVDSDDQWGEYSCVFLPEPMGTANIQLHGPPRVKAVKSSEHINEGETAMLVCKSESVPPVTDWAWYKITDSEDKALMNGSESRFFVSSSQGRSELHIENLNMEADPGQYRCNGTSSKGSDQAIITLRVRSHLAALWPFLGIVAEVLVLVTIIFIYEKRRKPEDVLDDDDAGSAPLKSSGQHQNDKGKNVRQRNSS
+PTM	Acetylation:179;Glycosylation:160,268,302;Methylation:173,179,243,257,264,350,366;Phosphorylation:228,246,259,277,279,283,309,362,367,368;SUMOylation:173,179,187,191,227,243,350,366;Ubiquitylation:173,179,187,191,227,243,257,264,307,350,366,375

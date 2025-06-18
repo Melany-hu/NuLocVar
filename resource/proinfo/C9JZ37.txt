@@ -1,0 +1,25 @@
+UniprotID	C9JZ37
+Accession	C9JZ37
+EntryName	C9JZ37_HUMAN
+ProteinName	Solute carrier family 37 member 3
+GeneName	SLC37A3
+Length	153
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWPNVFQRGSLLSQFSHHHVVVFLLTFFSYSLLHASRKTFSNVKVSISEQWTPSAFNTSVELPVEIWSSNHLFPSAEKATLFLGTLDTIFLFSYAVGLFISGIVGDRLNLRWVLSFGMCSSALVYAFLVTASVQFAGGIVIFFGLLVSPEEI
+PTM	

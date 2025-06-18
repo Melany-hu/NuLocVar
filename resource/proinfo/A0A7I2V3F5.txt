@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V3F5
+Accession	A0A7I2V3F5
+EntryName	A0A7I2V3F5_HUMAN
+ProteinName	Dipeptidyl peptidase 4
+GeneName	DPP4
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTPWKVLLGLLGAAALVTIITVPVVLLNKGNDATADSRKTYTLTDYLKNTYRLKLYSLRWISDHEYLYKQENNILVFNAEYGNSSVFLENSTFHMAKWIFLSFLKCSLPWLLFSLL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7BYV6
+Accession	H7BYV6
+EntryName	H7BYV6_HUMAN
+ProteinName	Bridging integrator 3
+GeneName	BIN3
+Length	205
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENFSTMSKSAVKISLDLLSNPLCEQDQDLLNMVTALDTAMKRMDAFNQEKVNQIQKTVIEPLKKFGSVFPSLNMAVKRREQALQDYRRLQAKVEKYEEKEKTGPVLAKLHQAREELRPVREDFEAKNRQLLEEMPRFYGSRLDYFQPSFESLIRAQVVYYSEMHKIFGDLSHQLDQPGHSDEQRERENEAKLSELRALSIVADD
+PTM	

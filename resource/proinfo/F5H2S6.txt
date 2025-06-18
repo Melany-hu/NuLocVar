@@ -1,0 +1,25 @@
+UniprotID	F5H2S6
+Accession	F5H2S6
+EntryName	F5H2S6_HUMAN
+ProteinName	Mitogen-activated protein kinase kinase kinase 4
+GeneName	MAP3K4
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREAAAALVPPPAFAVTPAAAMEEPPPPPPPPPPPPEPETESEPECCLAASFLNFQIPCGVQIMCSCQGHHLHLRRNAVLCRGRS
+PTM	

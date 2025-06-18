@@ -1,0 +1,25 @@
+UniprotID	E9M5D0
+Accession	E9M5D0
+EntryName	E9M5D0_HUMAN
+ProteinName	Steroid 21-monooxygenase (EC 1.14.99.10)
+GeneName	CYP21A2
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RFLEPGKNSRALAFGCGARVCLRAAGAPGPLRGADPTAAGLHAAALRGRPALPAAPAPLQCHPQDAAFPSAAAAPGDGGPQPRPEPVMGQDRCQPGTSVSPLLLPYEPLPSPL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A024RAA1
+Accession	A0A024RAA1
+EntryName	A0A024RAA1_HUMAN
+ProteinName	PQ loop repeat containing 2 isoform 1 (PQ loop repeat containing 2, isoform CRA_b)
+GeneName	PQLC2 hCG_41084
+Length	226
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQALSLWFLLGWIGGDSCNLIGSFLADQLPLQTYTAVYYVLADLVMLTLYFYYKFRTRPSLLSAPINSVLLFLMGMACATPLLSAAGPVAAPREAFRGRALLSVESGSKPFTRQEVIGFVIGSISSVLYLLSRLPQIRTNFLRKSTQGISYSLFALVMLGNTLYGLSVLLKNPEEGQSEGSYLLHHLPWLVGSLGVLLLDTIISIQFLVYRRSTAASELEPLLPS
+PTM	

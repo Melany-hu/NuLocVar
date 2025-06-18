@@ -1,0 +1,25 @@
+UniprotID	Q96AJ9-1
+Accession	Q96AJ9;A2A307;B4E137;Q5W0D7
+EntryName	VTI1A_HUMAN
+ProteinName	Vesicle transport through interaction with t-SNAREs homolog 1A (Vesicle transport v-SNARE protein Vti1-like 2) (Vti1-rp2)
+GeneName	VTI1A
+Length	203
+Function	V-SNARE that mediates vesicle transport pathways through interactions with t-SNAREs on the target membrane. These interactions are proposed to mediate aspects of the specificity of vesicle trafficking and to promote fusion of the lipid bilayers. Involved in vesicular transport from the late endosomes to the trans-Golgi network. Along with VAMP7, involved in an non-conventional RAB1-dependent traffic route to the cell surface used by KCNIP1 and KCND2. May be involved in increased cytokine secretion associated with cellular senescence.
+Subcellular Location	Cytoplasmic vesicle; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSDFEGYEQDFAVLTAEITSKIARVPRLPPDEKKQMVANVEKQLEEAKELLEQMDLEVREIPPQSRGMYSNRMRSYKQEMGKLETDFKRSRIAYSDEVRNELLGDDGNSSENQRAHLLDNTERLERSSRRLEAGYQIAVETEQIGQEMLENLSHDREKIQRARERLRETDANLGKSSRILTGMLRRGCSVKKQCNLSLAPKA
+PTM	Acetylation:89;Methylation:43;Phosphorylation:2,3,95,96,110,111,136,154,170,213;Ubiquitylation:89,176

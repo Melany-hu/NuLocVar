@@ -1,0 +1,25 @@
+UniprotID	Q6UX41-3
+Accession	Q6UX41;A4QMZ8;A6NEX6;B7Z409;B7Z5B1;E9PEF6;E9PG07;F2Z2B2;F8W712;Q9H730
+EntryName	BTNL8_HUMAN
+ProteinName	Butyrophilin-like protein 8
+GeneName	BTNL8 UNQ702/PRO1347
+Length	340
+Function	May stimulate primary immune response. Acts on T-cell stimulated sub-optimally through the TCR/CD3 complex stimulating their proliferation and cytokine production.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALMLSLVLSLLKLGSGQWQVFGPDKPVQALVGEDAAFSCFLSPKTNAEAMEVRFFRGQFSSVVHLYRDGKDQPFMQMPQYQGRTKLVKDSIAEGRISLRLENITVLDAGLYGCRISSQSYYQKAIWELQVSALGSVPLISITGYVDRDIQLLCQSSGWFPRPTAKWKGPQGQDLSTDSRTNRDMHGLFDVEISLTVQENAGSISCSMRHAHLSREVESRVQIGDTFFEPISWHLATKVLGILCCGLFFGIVGLKIFFSKFQCKREREAWAGALFMVPAGTGSEMLPHPAASLLLVLASRGPGPKKLEKKARTGRIERRPETRSGGDSGSRDGSPEALRF
+PTM	Methylation:13,45,255;Phosphorylation:10,67,98

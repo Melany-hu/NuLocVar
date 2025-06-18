@@ -1,0 +1,25 @@
+UniprotID	J3QLD1
+Accession	J3QLD1
+EntryName	J3QLD1_HUMAN
+ProteinName	MIF4G domain containing
+GeneName	MIF4GD hCG_27464
+Length	290
+Function	Functions in replication-dependent translation of histone mRNAs which differ from other eukaryotic mRNAs in that they do not end with a poly-A tail but a stem-loop. May participate in circularizing those mRNAs specifically enhancing their translation.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRRVLRPKDSAKARKRGLGRGARRPAGDRVAPLGVPSLALTRHLPGPATSGAVLIPSPVKSYRGWLVMGEPSREEYKIQSFDAETQQLLKTALKDPGAVDLEKVANVIVDHSLQDCVFSKEAGRMCYAIIQAESKQAGQSVFRRGLLNRLQQEYQAREQLRARSLQGWVCYVTFICNIFDYLRVNNMPMMALVNPVYDCLFRLAQPDSLSKEEEVDCLVLQLHRVGEQLEKMNGQRMDELFVLIRDGFLLPTGLSSLAQLLLLEIIEFRAAGWKTTPAAHKYYYSEVSD
+PTM	

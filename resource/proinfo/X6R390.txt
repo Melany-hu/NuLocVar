@@ -1,0 +1,25 @@
+UniprotID	X6R390
+Accession	X6R390
+EntryName	X6R390_HUMAN
+ProteinName	AP complex subunit sigma
+GeneName	AP2S1
+Length	156
+Function	
+Subcellular Location	Cell membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRFILIQNRAGKTRLAKWYMQFDDDEKQKLIEEVHAVVTVRDAKHTNFVEVLAISVADSLSVLQFRNFKIIYRRYAGLYFCICVDVNDNNLAYLEAIHNFVEVLNEYFHNVCELDLVFNFYKVYTVVDEMFLAGEIRETSQTKVLKQLLMLQSLE
+PTM	

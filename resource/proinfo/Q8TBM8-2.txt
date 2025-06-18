@@ -1,0 +1,25 @@
+UniprotID	Q8TBM8-2
+Accession	Q8TBM8;Q6UXN1;Q7Z3P0;Q86TA7;Q86TM0;Q9GZU9
+EntryName	DJB14_HUMAN
+ProteinName	DnaJ homolog subfamily B member 14
+GeneName	DNAJB14 UNQ9427/PRO34683
+Length	294
+Function	Acts as a co-chaperone with HSPA8/Hsc70; required to promote protein folding and trafficking, prevent aggregation of client proteins, and promote unfolded proteins to endoplasmic reticulum-associated degradation (ERAD) pathway (PubMed:24732912). Acts by determining HSPA8/Hsc70's ATPase and polypeptide-binding activities (PubMed:24732912). Can also act independently of HSPA8/Hsc70: together with DNAJB12, acts as a chaperone that promotes maturation of potassium channels KCND2 and KCNH2 by stabilizing nascent channel subunits and assembling them into tetramers (PubMed:27916661). While stabilization of nascent channel proteins is dependent on HSPA8/Hsc70, the process of oligomerization of channel subunits is independent of HSPA8/Hsc70 (PubMed:27916661). When overexpressed, forms membranous structures together with DNAJB12 and HSPA8/Hsc70 within the nucleus; the role of these structures, named DJANGOs, is still unclear (PubMed:24732912).
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDIGTLIWDGGPVPNTHINKCKNYYEVLGVTKDAGDEDLKKAYRKLALKFHPDKNHAPGATDAFKKIGNAYAVLSNPEKRKQYDLTGNEEQACNHQNNGRFNFHRGCEADITPEDLFNIFFGGGFPSGSVHSFSNGRAGYSQQHQHRHSGHEREEERGDGGFSVFIQLMPIIVLILVSLLSQLMVSNPPYSLYPRSGTGQTIKMQTENLGVVYYVNKDFKNEYKGMLLQKVEKSVEEDYVTNIRNNCWKERQQKTDMQYAAKVYRDDRLRRKADALSMDNCKELERLTSLYKGG
+PTM	Acetylation:134;Methylation:126,134,288,315;Phosphorylation:60,67,69,160,319;Ubiquitylation:33,79,90,94,105,117,125,134,150,164,305,339

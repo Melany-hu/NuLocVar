@@ -1,0 +1,25 @@
+UniprotID	F5GZH8
+Accession	F5GZH8
+EntryName	F5GZH8_HUMAN
+ProteinName	Mitochondrial ribosomal protein L48
+GeneName	MRPL48
+Length	50
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGTLEKVLCLRNNTIFKQAFSLLRWNSTKYQSALQDKAHPRHWKVQALN
+PTM	

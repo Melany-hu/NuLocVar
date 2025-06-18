@@ -1,0 +1,25 @@
+UniprotID	V9GYB0
+Accession	V9GYB0
+EntryName	V9GYB0_HUMAN
+ProteinName	Glutamate metabotropic receptor 4
+GeneName	GRM4
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSDSWGSKIAPVLHLEEVAEGAVTILPKRMSVRGFDRYFSSRTLDNNRRNIWFAEFWEDNFHCKLSRHALKKGSHVKKCTNRERIGQDSAYEQEG
+PTM	

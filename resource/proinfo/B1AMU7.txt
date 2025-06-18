@@ -1,0 +1,25 @@
+UniprotID	B1AMU7
+Accession	B1AMU7
+EntryName	B1AMU7_HUMAN
+ProteinName	Exosome component 1
+GeneName	EXOSC1
+Length	165
+Function	
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFHPGFGTAAIMAPPVRYCIPGERLCNLEEGSPGSGTYTRHGYIFSSLAGCLMKSSENGALPVVSVVRETESQLLPDVGAIVTCKVEIYKSFRPGDIVLAKVISLGDAQSNYLLTTAENELGVVVAHSESGIQMVPISWCEMQCPKTHTKEFRKVARVQPEFLQT
+PTM	

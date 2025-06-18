@@ -1,0 +1,25 @@
+UniprotID	P42857-2
+Accession	P42857;B4DXC5;Q49AQ1
+EntryName	NSG1_HUMAN
+ProteinName	Neuronal vesicle trafficking-associated protein 1 (Neuron-enriched endosomal protein of 21 kDa) (Neuron-specific protein family member 1)
+GeneName	NSG1 D4S234 NEEP21
+Length	146
+Function	Plays a role in the recycling mechanism in neurons of multiple receptors, including AMPAR, APP and L1CAM and acts at the level of early endosomes to promote sorting of receptors toward a recycling pathway. Regulates sorting and recycling of GRIA2 through interaction with GRIP1 and then contributes to the regulation of synaptic transmission and plasticity by affecting the recycling and targeting of AMPA receptors to the synapse (By similarity). Is required for faithful sorting of L1CAM to axons by facilitating trafficking from somatodendritic early endosome or the recycling endosome (By similarity). In an other hand, induces apoptosis via the activation of CASP3 in response to DNA damage (PubMed:20599942, PubMed:20878061).
+Subcellular Location	Membrane; Golgi apparatus; trans-Golgi network membrane; Endosome membrane; Cell projection; Dendrite; Early endosome membrane; Late endosome membrane; Lysosome lumen; Recycling endosome membrane; Cytoplasmic vesicle membrane; Golgi apparatus; Golgi stack membrane; Endosome; Multivesicular body membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKLGNNFAEKGTKQPLLEDGFDTIPLMTPLDVNQLQFPPPDKVSVLVLFALAFLTCVVFLVVYKVYKYDRACPDGFVLKNTQCIPEGLESYYAEQDSSAREKFYTVINHYNLAKQSITRSVSPWMSVLSEEKLSEQETEAAEKSA
+PTM	Glycosylation:145;Methylation:119,142,154;Phosphorylation:52,144,169,178;Ubiquitylation:11

@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z4Q6
+Accession	A0A0S2Z4Q6
+EntryName	A0A0S2Z4Q6_HUMAN
+ProteinName	Hydroxysteroid dehydrogenase 4 isoform 4
+GeneName	HSD17B4
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSPLRFDGRVVLVTGAGAGLGRAYALAFAERGALVVVNDLGGDFKGVGKGSLVLLIQQSYFQMKISWRWSWASLTLRRHSLVAG
+PTM	

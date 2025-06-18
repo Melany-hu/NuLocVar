@@ -1,0 +1,25 @@
+UniprotID	A0A6I8PRR5
+Accession	A0A6I8PRR5
+EntryName	A0A6I8PRR5_HUMAN
+ProteinName	NEDD4 binding protein 2 like 2
+GeneName	N4BP2L2
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYGEIEGKFLGPREEVTSEPRCKKLKSTTESKTSYRSGKISSYNR
+PTM	

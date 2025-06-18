@@ -1,0 +1,25 @@
+UniprotID	Q8WU79-3
+Accession	Q8WU79;B2R7T1;B7Z5B5;B7Z8V2;D3DPV2;Q5QPL2;Q96C93;Q9NST2;Q9UJL8
+EntryName	SMAP2_HUMAN
+ProteinName	Stromal membrane-associated protein 2 (Stromal membrane-associated protein 1-like)
+GeneName	SMAP2 SMAP1L
+Length	349
+Function	GTPase activating protein that acts on ARF1. Can also activate ARF6 (in vitro). May play a role in clathrin-dependent retrograde transport from early endosomes to the trans-Golgi network (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEMGNGKANRLYEAYLPETFRRPQIDPAVEGFIRDKYEKKKYMDRSLDINAFRKEKDDKWKRGSEPVPEKKLEPVVFEKVKMPQKKEDPQLPRKSSPKSTAPVMDLLGLDAPVACSIANSKTSNTLEKDLDLLASVPSPSSSGSRKVVGSMPTAGSAGSVPENLNLFPEPGSKSEEIGKKQLSKDSILSLYGSQTPQMPTQAMFMAPAQMAYPTAYPSFPGVTPPNSIMGSMMPPPVGMVAQPGASGMVAPMAMPAGYMGGMQASMMGVPNGMMTTQQAGYMAGMAAMPQTVYGVQPAQQLQWNLTQMTQQMAGMNFYGANGMMNYGQSMSGGNGQAANQTLSPQMWK
+PTM	Acetylation:151;Glycosylation:197;Methylation:209;Phosphorylation:93,96,118,176,177,180,181,206,216,219,221,222,223,225,231,234,237,240,253,255;SUMOylation:152;Ubiquitylation:34,66,88

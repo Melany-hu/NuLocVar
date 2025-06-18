@@ -1,0 +1,25 @@
+UniprotID	Q8N5J2-2
+Accession	Q8N5J2;B3KWP4;B3KWV8;B4DXF2;B4E1S4;D3DV09;J3KP53;Q5SZF0;Q9NUL9;Q9P2F7
+EntryName	MINY1_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase MINDY-1 (EC 3.4.19.12) (Deubiquitinating enzyme MINDY-1) (Protein FAM63A)
+GeneName	MINDY1 FAM63A KIAA1390
+Length	327
+Function	Hydrolase that can specifically remove 'Lys-48'-linked conjugated ubiquitin from proteins. Has exodeubiquitinase activity and has a preference for long polyubiquitin chains. May play a regulatory role at the level of protein turnover.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNILFLQWKVKLPPQKEVITSDELMAHLGNCLLSIKPQEKSEGLQLNFQQNVDDAMTVLPKLATGLDVNVRFTGVSDFEYTPECSVFDLLGIPLYHGWLVDPQSPEAVRAVGKLSYNQLVERIITCKHSSDTNLVTEGLIAEQFLETTAAQLTYHGLCELTAAAKEGELSVFFRNNHFSTMTKHKSHLYLLVTDQGFLQEEQVVWESLHNVDGDSCFCDSDFHLSHSLGKGPGAEGGSGSPETQLQVDQDYLIALSLQQQQPRGPLGLTDLELAQQLQQEEYQQQQAAQPVRMRTRVLSLQGRGATSGRPAGERRQRPKHESDCILL
+PTM	Methylation:105,107,255,445;Phosphorylation:103,176,424,437,441;Ubiquitylation:178,255

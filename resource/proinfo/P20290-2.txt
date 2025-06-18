@@ -1,0 +1,25 @@
+UniprotID	P20290-2
+Accession	P20290;A8K510;Q13893;Q76M56
+EntryName	BTF3_HUMAN
+ProteinName	Transcription factor BTF3 (Nascent polypeptide-associated complex subunit beta) (NAC-beta) (RNA polymerase B transcription factor 3)
+GeneName	BTF3 NACB OK/SW-cl.8
+Length	162
+Function	When associated with NACA, prevents inappropriate targeting of non-secretory polypeptides to the endoplasmic reticulum (ER). Binds to nascent polypeptide chains as they emerge from the ribosome and blocks their interaction with the signal recognition particle (SRP), which normally targets nascent secretory peptides to the ER. BTF3 is also a general transcription factor that can form a stable complex with RNA polymerase II. Required for the initiation of transcription.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKETIMNQEKLAKLQAQVRIGGKGTARRKKKVVHRTATADDKKLQFSLKKLGVNNISGIEEVNMFTNQGTVIHFNNPKVQASLAANTFTITGHAETKQLTEMLPSILNQLGADSLTSLRRLAEALPKQSVDGKAPLATGEDDDDEVPDLVENFDEASKNEAN
+PTM	Acetylation:54,57,67,86,93,171,177,202;Methylation:13,15,17,19,35,39,46,54,67,93,141,171;Phosphorylation:4,12,28,30,38,48,69,80,82,91,110,149,158,160,173,182,201;SUMOylation:46,54,57,87,94,171;Ubiquitylation:46,54,57,67,87,93,94,122,171,177,202

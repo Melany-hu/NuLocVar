@@ -1,0 +1,25 @@
+UniprotID	Q9Y6N1-2
+Accession	Q9Y6N1;D3DTY5;I3L220;Q6FHB7;Q9BRX0;Q9UME8
+EntryName	COX11_HUMAN
+ProteinName	Cytochrome c oxidase assembly protein COX11, mitochondrial
+GeneName	COX11
+Length	231
+Function	Exerts its effect at some terminal stage of cytochrome c oxidase synthesis, probably by being involved in the insertion of the copper B into subunit I.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGLWRPGWRCVPFCGWRWIHPGSPTRAAERVEPFLRPEWSGTGGAERGLRWLGTWKRCSLRARHPALQPPRRPKSSNPFTRAQEEERRRQNKTTLTYVAAVAVGMLGASYAAVPLYRLYCQTTGLGGSAVAGHASDKIENMVPVKDRIIKISFNADVHASLQWNFRPQQTEIYVVPGETALAFYRAKNPTDKPVIGISTYNIVPFEAGQYFNKIQASKLHRVYVLESWHL
+PTM	Phosphorylation:98,111,117;SUMOylation:193;Ubiquitylation:146,193

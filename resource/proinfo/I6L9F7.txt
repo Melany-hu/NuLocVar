@@ -1,0 +1,25 @@
+UniprotID	I6L9F7
+Accession	I6L9F7
+EntryName	I6L9F7_HUMAN
+ProteinName	Histone H2B
+GeneName	HIST1H2BM
+Length	138
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	27...32;28...33
+validnes_region	
+nesbase_region	
+Sequence	MPEPVKSAPVPKKGSKKAINKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSKCASRCSNSSAVT
+PTM	

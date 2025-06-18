@@ -1,0 +1,25 @@
+UniprotID	E7ETB0
+Accession	E7ETB0
+EntryName	E7ETB0_HUMAN
+ProteinName	Chromosome 21 open reading frame 91
+GeneName	C21orf91
+Length	242
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNEEEQFVNIDLNDDNICSVCKLGTDKETLSFCHICFELNIEGVPKSDLLHTKSLRGHKDCFEKYHLIANQGCPRSKLSKSTYEEVKTILSKKINWIVQYAQNKDLDSDSECSKNPQHHLFNFRHKPEEKLLPQFDSQVPKYSAKWIDGSAGGISNCTQRILEQRENTDFGLSMLQDSGATLCRNSVLWPHSHNQAQKKEETISSPEANVQTQHPHYSREELNSMTLGEVEQLNAKLLQQIQ
+PTM	

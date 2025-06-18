@@ -1,0 +1,25 @@
+UniprotID	A0A087WTY1
+Accession	A0A087WTY1
+EntryName	A0A087WTY1_HUMAN
+ProteinName	RNA polymerase I and III subunit D
+GeneName	POLR1D
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPMGWMKCPLASTNKRFLINTIKNTLPSHKEQDHEQKEGDKEPAKSQAQKEENPKKHRSHPYKHSFRARGSASYSPPRKRSSQDKYEKRSNRR
+PTM	

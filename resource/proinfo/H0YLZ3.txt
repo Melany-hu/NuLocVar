@@ -1,0 +1,25 @@
+UniprotID	H0YLZ3
+Accession	H0YLZ3
+EntryName	H0YLZ3_HUMAN
+ProteinName	Testis expressed 9
+GeneName	TEX9
+Length	75
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRSLCLTVSSTPGSWGASGFRRLGRLTSFNFGSESLWLFYREAAFQGLRSRHPFSNPLHLDPTSSPWRKNISV
+PTM	

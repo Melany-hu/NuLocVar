@@ -1,0 +1,25 @@
+UniprotID	E5RHW1
+Accession	E5RHW1
+EntryName	E5RHW1_HUMAN
+ProteinName	THAP domain containing 8
+GeneName	THAP8
+Length	65
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKYCRAPNCSNTAGRLGADNRPVSFYKVSGGPEAPRSQSRRRLPYRRIHPCPRALPSQSLAQCA
+PTM	

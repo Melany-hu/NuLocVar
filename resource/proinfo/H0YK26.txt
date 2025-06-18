@@ -1,0 +1,25 @@
+UniprotID	H0YK26
+Accession	H0YK26
+EntryName	H0YK26_HUMAN
+ProteinName	Protein phosphatase 2 regulatory subunit B'gamma
+GeneName	PPP2R5C
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGKSSKEGQDTVESEQISVRKNSLVAVPSTVSAKIKVPVSQPIVKKDKRQNSSRFSASNNRELQKLPSLKVEAVKLGRVSAELRLEVPDLQLWPPTEQQGEQTHGEPRGPQSMDGAASLLPCPSSSTPDLPAFSPALLPLLPTCQP
+PTM	

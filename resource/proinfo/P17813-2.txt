@@ -1,0 +1,25 @@
+UniprotID	P17813-2
+Accession	P17813;Q14248;Q14926;Q5T9C0
+EntryName	EGLN_HUMAN
+ProteinName	Endoglin (CD antigen CD105)
+GeneName	ENG END
+Length	625
+Function	Vascular endothelium glycoprotein that plays an important role in the regulation of angiogenesis (PubMed:21737454, PubMed:23300529). Required for normal structure and integrity of adult vasculature (PubMed:7894484). Regulates the migration of vascular endothelial cells (PubMed:17540773). Required for normal extraembryonic angiogenesis and for embryonic heart development (By similarity). May regulate endothelial cell shape changes in response to blood flow, which drive vascular remodeling and establishment of normal vascular morphology during angiogenesis (By similarity). May play a critical role in the binding of endothelial cells to integrins and/or other RGD receptors (PubMed:1692830). Acts as a TGF-beta coreceptor and is involved in the TGF-beta/BMP signaling cascade that ultimately leads to the activation of SMAD transcription factors (PubMed:21737454, PubMed:22347366, PubMed:23300529, PubMed:8370410). Required for GDF2/BMP9 signaling through SMAD1 in endothelial cells and modulates TGFB1 signaling through SMAD3 (PubMed:21737454, PubMed:22347366, PubMed:23300529).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRGTLPLAVALLLASCSLSPTSLAETVHCDLQPVGPERGEVTYTTSQVSKGCVAQAPNAILEVHVLFLEFPTGPSQLELTLQASKQNGTWPREVLLVLSVNSSVFLHLQALGIPLHLAYNSSLVTFQEPPGVNTTELPSFPKTQILEWAAERGPITSAAELNDPQSILLRLGQAQGSLSFCMLEASQDMGRTLEWRPRTPALVRGCHLEGVAGHKEAHILRVLPGHSAGPRTVTVKVELSCAPGDLDAVLILQGPPYVSWLIDANHNMQIWTTGEYSFKIFPEKNIRGFKLPDTPQGLLGEARMLNASIVASFVELPLASIVSLHASSCGGRLQTSPAPIQTTPPKDTCSPELLMSLIQTKCADDAMTLVLKKELVAHLKCTITGLTFWDPSCEAEDRGDKFVLRSAYSSCGMQVSASMISNEAVVNILSSSSPQRKKVHCLNMDSLSFQLGLYLSPHFLQASNTIEPGQQSFVQVRVSPSVSEFLLQLDSCHLDLGPEGGTVELIQGRAAKGNCVSLLSPSPEGDPRFSFLLHFYTVPIPKTGTLSCTVALRPKTGSQDQEVHRTVFMRLNIISPDLSGCTSKGLVLPAVLGITFGAFLIGALLTAALWYIYSHTREYPRPPQ
+PTM	Acetylation:285,402;Methylation:237,373;Phosphorylation:43,336,343

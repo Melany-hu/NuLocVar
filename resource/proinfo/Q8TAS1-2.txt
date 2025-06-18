@@ -1,0 +1,25 @@
+UniprotID	Q8TAS1-2
+Accession	Q8TAS1;A0A0A6YYC2;A8K8K4;G3V1M1;Q96C22
+EntryName	UHMK1_HUMAN
+ProteinName	Serine/threonine-protein kinase Kist (EC 2.7.11.1) (Kinase interacting with stathmin) (PAM COOH-terminal interactor protein 2) (P-CIP2) (U2AF homology motif kinase 1)
+GeneName	UHMK1 KIS KIST
+Length	344
+Function	Upon serum stimulation, phosphorylates CDKN1B/p27Kip1, thus controlling CDKN1B subcellular location and cell cycle progression in G1 phase. May be involved in trafficking and/or processing of RNA (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSGCAWGAEPPRFLEAFGRLWQVQSRLGSGSSASVYRVRCCGNPGSPPGALKQFLPPGTTGAAASAAEYGFRKERAALEQLQGHRNIVTLYGVFTIHFSPNVPSRCLLLELLDVSVSELLLYSSHQGCSMWMIQHCARDVLEALAFLHHEGYVHADLKPRNILWSAENECFKLIDFGLSFKEGNQDVKYIQTDGYRAPEAELQNCLAQAGLQSDTECTSAVDLWSLGIILLEMFSGMKLKHTVRSQEWKANSSAIIDHIFASKAVVNAAIPAYHLRDLIKSMLHDDPSRRIPAEMALCSPFFSIPFAPHIEDLVMLPTPVLRLLNVLDDDYLENEEEYEGLC
+PTM	Methylation:251,282,348,364;Phosphorylation:181,404,409;SUMOylation:383;Ubiquitylation:190,242,265,282,364,383,387

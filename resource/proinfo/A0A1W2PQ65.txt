@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PQ65
+Accession	A0A1W2PQ65
+EntryName	A0A1W2PQ65_HUMAN
+ProteinName	BTB/POZ domain-containing protein KCTD7
+GeneName	KCTD7
+Length	205
+Function	
+Subcellular Location	Cell membrane; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLPQEFPEVVPLNIGGAHFTTRLSTLRCYEDTMLAAMFSGRHYIPTDSEGRYFIDRDGTHFGDVLNFLRSGDLPPRERVRAVYKEAQYYAIGPLLEQLENMQPLKGEKVRQAFLGLMPYYKDHLERIVEIARLRAVQRKARFAKLKSLTPSWLMSVLIKMPPGVTSWINAERRLYLETPIGPERQNNEKKSPVQLPAGVFQHFMG
+PTM	

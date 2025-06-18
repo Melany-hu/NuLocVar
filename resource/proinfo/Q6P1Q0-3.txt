@@ -1,0 +1,25 @@
+UniprotID	Q6P1Q0-3
+Accession	Q6P1Q0;A6NER7;B3KXK7;Q6X2E4;Q6X2E5;Q7L2G9;Q7L690;Q8WXW6;Q96PK7;Q9BY59;Q9Y3X3
+EntryName	LTMD1_HUMAN
+ProteinName	LETM1 domain-containing protein 1 (Cervical cancer 1 proto-oncogene protein p40) (Cervical cancer proto-oncogene 2 protein) (HCCR-1) (HCRR-2)
+GeneName	LETMD1
+Length	155
+Function	Plays an essential role for mitochondrial structure and function, as well as thermogenesis of brown adipocytes. In brown adipose tissue also localizes in the nucleus where it interacts with the chromatin remodeler SMARCA4 to regulate thermogenic genes expression, such as UCP1 (By similarity). May regulate phagocytosis and inflammatory responses to lipopolysaccharide in macrophages (PubMed:31980577). Involved in tumorigenesis and may function as a negative regulator of the p53/TP53 (PubMed:12879013).
+Subcellular Location	Mitochondrion outer membrane; Nucleus; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSRVCWARSAVWGSAVTPGHFVTRRLQLGRSGLAWGAPRSSKLHLSPKADVKNLMSYVVTKTKAINGKYHRFLGRHFPRFYVLYTIFMKESLEPGHASHILPASSLVETSFEDSYNCDSPTGQGFGKAGDWPADCSGSKIGLLSPWPEFYAYW
+PTM	Methylation:50;Phosphorylation:48,83,86,87,264,265;SUMOylation:44,54,63,107,292,304

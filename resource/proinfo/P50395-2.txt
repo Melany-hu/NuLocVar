@@ -1,0 +1,25 @@
+UniprotID	P50395-2
+Accession	P50395;O43928;Q5SX88;Q9UQM6
+EntryName	GDIB_HUMAN
+ProteinName	Rab GDP dissociation inhibitor beta (Rab GDI beta) (Guanosine diphosphate dissociation inhibitor 2) (GDI-2)
+GeneName	GDI2 RABGDIB
+Length	400
+Function	GDP-dissociation inhibitor preventing the GDP to GTP exchange of most Rab proteins. By keeping these small GTPases in their inactive GDP-bound form regulates intracellular membrane trafficking (PubMed:25860027). Negatively regulates protein transport to the cilium and ciliogenesis through the inhibition of RAB8A (PubMed:25860027).
+Subcellular Location	Cytoplasm; Membrane; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNEEYDVIVLGTGLTECILSGIMSVNGKKVLHMDRNPYYGGESASITPLEDLYKRFKIPGSPPESMGRGRDWNVDLIPKFLMANGLMGLFEKRRFRKFLVYVANFDEKDPRTFEGIDPKKTTMRDVYKKFDLGQDVIDFTGHALALYRTDDYLDQPCYETINRIKLYSESLARYGKSPYLYPLYGLGELPQGFARLSAIYGGTYMLNKPIEEIIVQNGKVIGVKSEGEIARCKQLICDPSYVKDRVEKVGQVIRVICILSHPIKNTNDANSCQIIIPQNQVNRKSDIYVCMISFAHNVAAQGKYIAIVSTTVETKEPEKEIRPALELLEPIEQKFVSISDLLVPKDLGTESQIFISRTYDATTHFETTCDDIKNIYKRMTGSEFDFEEMKRKKNDIYGED
+PTM	Acetylation:54,57,79,112,137,142,153,164,174,210,221,269,288,293,309,360,364,418,422,435;Glycosylation:310,312,315,324;Methylation:35,54,68,70,79,89,103,112,118,137,164,174,221,253,264,269,288,309,348,360,379,390,418;Phosphorylation:5,24,38,61,65,93,111,117,130,203,205,212,215,219,224,226,229,316,333,382,384,394,396,401,425,427,442;SUMOylation:57,79,118,164,174,269,309,418;Ubiquitylation:29,54,57,79,103,112,115,118,137,142,174,210,221,253,264,269,278,288,293,309,360,379,390,418,435

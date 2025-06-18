@@ -1,0 +1,25 @@
+UniprotID	Q8TB03-2
+Accession	Q8TB03;B3KW28;D3DWB5;Q5JPF5;Q8N941
+EntryName	CX038_HUMAN
+ProteinName	Uncharacterized protein CXorf38
+GeneName	CXorf38
+Length	200
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRGLADKQGPEECDAVALLSLINSCDHFVVDRKKVTEVIKCRNEIMHSSEMKVSSTWLRDFQMKIQNFLNEFKNIPEIVAVYSRIEQLLTSDWAVHIPEEDQRDGCECEMGTYLSESQVNEIEMQLLKEKLQEIYLQAEEQEVLPEELSNRLEVVKEFLRNNEDLRNGLTEDMQKLDSLCLHQKLDSQEPGRQTPDRKA
+PTM	Acetylation:84,172;Methylation:117,160,193,248,276;Phosphorylation:4,64,307,314;Ubiquitylation:84,160

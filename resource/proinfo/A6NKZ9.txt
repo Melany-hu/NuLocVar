@@ -1,0 +1,25 @@
+UniprotID	A6NKZ9
+Accession	A6NKZ9
+EntryName	A6NKZ9_HUMAN
+ProteinName	TIA1 cytotoxic granule associated RNA binding protein like 1
+GeneName	TIAL1
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITEHTSNDPYCFVEFYEHRDAAAALAAMNGRKILGKEVKVNWATTPSSQKKDTSNHFHVFVGDLSPEITTEDIKSAFAPFGKIS
+PTM	

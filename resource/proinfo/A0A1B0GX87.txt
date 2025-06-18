@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GX87
+Accession	A0A1B0GX87
+EntryName	A0A1B0GX87_HUMAN
+ProteinName	Fibronectin type III and ankyrin repeat domains 1
+GeneName	FANK1
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPSKPHPPVVGKVTHHSIELYWDLEKKAKRQGPQEQWFRFSIEEEDPKMHTYGIIYTGYATKHVVEGLEPRTLYRFRLKVTSPSGECEYSPLVSVSTTSSIWLGGEPISSEHLHRAVSVNDEDLLVRILQG
+PTM	

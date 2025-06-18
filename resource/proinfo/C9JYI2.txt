@@ -1,0 +1,25 @@
+UniprotID	C9JYI2
+Accession	C9JYI2
+EntryName	C9JYI2_HUMAN
+ProteinName	Clarin 1
+GeneName	CLRN1
+Length	177
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IFCMAGVFSFACALGVVTALGTPLWIKATVLCKTGALLVNASGQELDKFMGEMQYGLFHGEGVRQCGLGARPFRFSCYFLDPFMGLPTGVPHLLSLPCSTSCRREHTSERVQEPAGCFSAVRSKLHAGPAAATSFSRFAQSNPSEHPRQCHSLLCHPYCVNHGGDSLLHVQCFWKTF
+PTM	

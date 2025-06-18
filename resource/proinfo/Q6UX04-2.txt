@@ -1,0 +1,25 @@
+UniprotID	Q6UX04-2
+Accession	Q6UX04;O60529;O60530;Q96EM3
+EntryName	CWC27_HUMAN
+ProteinName	Spliceosome-associated protein CWC27 homolog (Antigen NY-CO-10) (Probable inactive peptidyl-prolyl cis-trans isomerase CWC27 homolog) (PPIase CWC27) (Serologically defined colon cancer antigen 10)
+GeneName	CWC27 SDCCAG10 UNQ438/PRO871
+Length	390
+Function	As part of the spliceosome, plays a role in pre-mRNA splicing (PubMed:29360106). Probable inactive PPIase with no peptidyl-prolyl cis-trans isomerase activity (PubMed:20676357). As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (Probable).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNIYIQEPPTNGKVLLKTTAGDIDIELWSKEAPKACRNFIQLCLEAYYDNTIFHRVVPGFIVQGGDPTGTGSGGESIYGAPFKDEFHSRLRFNRRGLVAMANAGSHDNGSQFFFTLGRADELNNKHTIFGKVTGDTVYNMLRLSEVDIDDDERPHNPHKIKSCEVLFNPFDDIIPREIKRLKKEKPEEEVKKLKPKGTKNFSLLSFGEEAEEEEEEVNRVSQSMKGKSKSSHDLLKDDPHLSSVPVVESEKGDAPDLVDDGEDESAEHDEYIDGDEKNLMRERIAKKLKKDTSANVKSAGEGEVEKKSVSRSEELRKEARQLKRELLAAKQKKVENAAKQAEKRSEEEEAPPDGAVAEYRREKQKYEALRKQQSKKGTSREDQDVTCTS
+PTM	Acetylation:331;Methylation:18,31,119,132,237,307,393,429;Phosphorylation:128,139,203,206,222,231,232,266,272,299,346,385,403,411,421;SUMOylation:84,132,162,226,237,252,393;Ubiquitylation:14,162,237,298

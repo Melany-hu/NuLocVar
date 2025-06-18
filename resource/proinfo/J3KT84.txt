@@ -1,0 +1,25 @@
+UniprotID	J3KT84
+Accession	J3KT84
+EntryName	J3KT84_HUMAN
+ProteinName	beta-N-acetylhexosaminidase (EC 3.2.1.52)
+GeneName	HEXD
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEFVLKHTAFAHLREVGSFPCTLNPHEAESLALVGAMIDQVLELHPGAQRLHIGCDEVYYLGEGEASRRWLQQEQNSTGKLCLSHMRAVASGVKARRPSVTPLVWDDMLRDLPEDQL
+PTM	

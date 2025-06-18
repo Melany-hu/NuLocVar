@@ -1,0 +1,25 @@
+UniprotID	H0Y7V2
+Accession	H0Y7V2
+EntryName	H0Y7V2_HUMAN
+ProteinName	Small G protein signaling modulator 3
+GeneName	SGSM3
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLDEDGKVLTPEELLYRAVQSVNVTHDAVHAQMDVKLRSLICVGLNPGWVQIKCELRVLCCFAFSLSQDWELPAKREAQQPLKEGVRDMLVKHHLFSWDVDG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q6UB35-2
+Accession	Q6UB35;Q2TBF3;Q8WVW0;Q96HG8;Q9H789;Q9UFU8
+EntryName	C1TM_HUMAN
+ProteinName	Monofunctional C1-tetrahydrofolate synthase, mitochondrial (EC 6.3.4.3) (Formyltetrahydrofolate synthetase)
+GeneName	MTHFD1L FTHFSDC1
+Length	275
+Function	May provide the missing metabolic reaction required to link the mitochondria and the cytoplasm in the mammalian model of one-carbon folate metabolism complementing thus the enzymatic activities of MTHFD2.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTRLPLVLRQLRRPPQPPGPPRRLRVPCRASSGGGGGGGGGREGLLGQRRPQDGQARSSCSPGGRTPAARDSIVREVIQNSKEVLSLLQEKNPAFKPVLAIIQAGDDNLMQEINQNLAEEAGLNITHICLPPDSSEAEIIDEILKINEDTRVHGLALQISENLFSNKVLNALKPEKDVDGVTDINLGKLVRGDAHECFVSPVAKAVIELLEKSGVNLDGKKILVVGAHGSLEAALQCLFQRKGSMTMSIQWKTRQLQSKTESRSVTRLECRRVI
+PTM	Acetylation:92,168,174,177,189,352,372,413,516,596,727,763,818,880,909;Methylation:92,146,174,213,221,260,379,541,663,696,700,763,803,818,868,880;Phosphorylation:59,60,62,67,87,166,357,401,421,579,850,859,877;SUMOylation:174,189,763;Ubiquitylation:727

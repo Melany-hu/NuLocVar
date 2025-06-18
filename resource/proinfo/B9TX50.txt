@@ -1,0 +1,25 @@
+UniprotID	B9TX50
+Accession	B9TX50
+EntryName	B9TX50_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 23 (Mediator complex subunit 23)
+GeneName	MED23
+Length	212
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SHLHTLAAVAQTNQNQLHLCVESTALRLITALGSSEVQPQFTRFLSDPKTVLSAESEELNRALILTLARATHVTDFFTGSDSIQGTWCKDILQTIMSFTPHNWASHTLSCFPGPLQAFFKQNNVPQESRFNLKKNVEEEYRKWKSMSNENDIITHFSMQGSPPLFLCLLWKMLLETDHINQIGYRVLERIGARALVAHVRTFADFLVSCLNG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0Y757
+Accession	H0Y757
+EntryName	H0Y757_HUMAN
+ProteinName	Phosphofructokinase, platelet
+GeneName	PFKP
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFIYQLYSEEGKGVFDCRKNVLGHMQQGGAPSPFDRNFGTKISARAMEWITAKLKEARGRGKKFTTDDSICVLGISKRNVIFQPVAELKKQTDFETVSMQPPR
+PTM	

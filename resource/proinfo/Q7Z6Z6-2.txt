@@ -1,0 +1,25 @@
+UniprotID	Q7Z6Z6-2
+Accession	Q7Z6Z6;B1AHL8;B3KPR1;Q6ZST0
+EntryName	PLPL5_HUMAN
+ProteinName	Patatin-like phospholipase domain-containing protein 5 (EC 3.1.1.3) (GS2-like protein)
+GeneName	PNPLA5 GS2L
+Length	315
+Function	Has abundant triacylglycerol lipase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFLEEEGRWNLSFSGAGYLGAHHVGATECLRQRAPRLLQGARRIYGSSSGALNAVSIVCGKSVDCPSTITVSPFHGTVDICPQSTSPNLHELNVFNFSFQISTENFFLGLICLIPPSLEVVADNCRQGYLDALRFLERRGLTKEPVLWTLVSKEPPAPADGNWDAGCDQRWKGGLSLNWKVPHVQVKDVPNFEQLSPELEAALKKACTRDPSRWARFWHSGPGQVLTYLLLPCTLPFEYIYFRSRRLVVWLPDVPADLWWMQGLLRNMALEVFSRTKAQLLGPISPPATRVLETSPLQPQIAPHREELGPTHQA
+PTM	Methylation:268;Phosphorylation:119

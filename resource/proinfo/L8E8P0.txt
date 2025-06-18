@@ -1,0 +1,25 @@
+UniprotID	L8E8P0
+Accession	L8E8P0
+EntryName	L8E8P0_HUMAN
+ProteinName	Alternative protein NCAPH
+GeneName	NCAPH
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRYLTSMLKLTRVTVETSPMGPWGMTLMPTMNLTTPQLGIMKSSGAGRSPARFRAARKK
+PTM	

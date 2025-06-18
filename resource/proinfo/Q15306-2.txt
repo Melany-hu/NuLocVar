@@ -1,0 +1,25 @@
+UniprotID	Q15306-2
+Accession	Q15306;Q5VUI7;Q99660
+EntryName	IRF4_HUMAN
+ProteinName	Interferon regulatory factor 4 (IRF-4) (Lymphocyte-specific interferon regulatory factor) (LSIRF) (Multiple myeloma oncogene 1) (NF-EM5)
+GeneName	IRF4 MUM1
+Length	450
+Function	Transcriptional activator. Binds to the interferon-stimulated response element (ISRE) of the MHC class I promoter. Binds the immunoglobulin lambda light chain enhancer, together with PU.1. Probably plays a role in ISRE-targeted signal transduction mechanisms specific to lymphoid cells. Involved in CD8(+) dendritic cell differentiation by forming a complex with the BATF-JUNB heterodimer in immune cells, leading to recognition of AICE sequence (5'-TGAnTCA/GAAA-3'), an immune-specific regulatory element, followed by cooperative binding of BATF and IRF4 and activation of genes (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLEGGGRGGEFGMSAVSCGNGKLRQWLIDQIDSGKYPGLVWENEEKSIFRIPWKHAGKQDYNREEDAALFKAWALFKGKFREGIDKPDPPTWKTRLRCALNKSNDFEELVERSQLDISDPYKVYRIVPEGAKKGAKQLTLEDPQMSMSHPYTMTTPYPSLPAQVHNYMMPPLDRSWRDYVPDQPHPEIPYQCPMTFGPRGHHWQGPACENGCQVTGTFYACAPPESQAPGVPTEPSIRSAEALAFSDCRLHICLYYREILVKELTTSSPEGCRISHGHTYDASNLDQVLFPYPEDNGQRKNIEKLLSHLERGVVLWMAPDGLYAKRLCQSRIYWDGPLALCNDRPNKLERDQTCKLFDTQQFLSELQAFAHHGRSLPRFQVTLCFGEEFPDPQRQRKLITAHVEPLLARQLYYFAQQNSGHFLRGYDLPEHISNPEDYHRSIRHSSIQE
+PTM	Acetylation:306;Methylation:36,201,264,306;Phosphorylation:104,114,119,122,125,140,160,435

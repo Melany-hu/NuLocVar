@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5L5
+Accession	A0A2R8Y5L5
+EntryName	A0A2R8Y5L5_HUMAN
+ProteinName	Peripheral myelin protein 22
+GeneName	PMP22
+Length	129
+Function	Might be involved in growth regulation, and in myelinization in the peripheral nervous system.
+Subcellular Location	Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLSIIVLHVAVLVLLFVSTIVSQWIVGNGHATDLWQNCSTSSSGNVHHCFSSSPNEWLQSVQATMILSIIFSILSLFLFFCQLFTLTKGGRFYITGIFQILAALPSLDKSDRAQETTSVFLKDKS
+PTM	

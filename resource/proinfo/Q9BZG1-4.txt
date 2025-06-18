@@ -1,0 +1,25 @@
+UniprotID	Q9BZG1-4
+Accession	Q9BZG1;B4E3A0;E9PEJ9;Q5BJE6;Q8NCJ8;Q96AR4
+EntryName	RAB34_HUMAN
+ProteinName	Ras-related protein Rab-34 (EC 3.6.5.2) (Ras-related protein Rab-39) (Ras-related protein Rah)
+GeneName	RAB34 RAB39 RAH
+Length	237
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion (By similarity). RAB34 transports protein involved in the redistribution of lysosomes to the peri-Golgi region (PubMed:27113757). Plays a role in the maturation of phagosomes that engulf pathogens, such as S.aureus and M.tuberculosis (PubMed:21255211). Plays a role in the fusion of phagosomes with lysosomes (PubMed:21255211). Involved in ciliogenesis (PubMed:37384395). In particular, it is required for early steps of the intracellular cilium assembly pathway initiated by trafficking and docking of ciliary vesicles to the centrioles in the cytoplasm, followed by axoneme formation in the cytoplasm. After axoneme elongation, the centrioles migrate close to the cell surface so that ciliary vesicles can fuse with the plasma membrane to expose cilia to the extracellular space (By similarity). It seems dispensable for ciliogenesis via the extracellular pathway where cilium assembly begins after migration and docking of the centriole to the plasma membrane (By similarity). Also acts as a positive regulator of hedgehog signaling and regulates ciliary function (By similarity).
+Subcellular Location	Cytoplasm; Golgi apparatus; Cytoplasmic vesicle; Phagosome; Cytoplasmic vesicle; Phagosome membrane; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNILAPVRRDRVLAELPQCLRKEAALHGHKDFHPRVTCACQEHRTGTVGFCKDTFDKNYKATIGVDFEMERFEVLGIPFSLQLWDTAGQERFKCIASTYYRGAQAIIIVFNLNDVASLEHTKQWLADALKENDPSSVLLFLVGSKKDLSTPAQYALMEKDALQVAQEMKAEYWAVSSLTGENVREFFFRVAALTFEANVLAELEKSGARRIGDVVRINSDDSNLYLTASKKKPTCCP
+PTM	Acetylation:30,79;Methylation:65,152,167,227;Phosphorylation:76,81,108,241,244,247;Ubiquitylation:65,115,167,168,181,191,227,252,253

@@ -1,0 +1,25 @@
+UniprotID	Q9NWM0-6
+Accession	Q9NWM0;A2A2P5;A2A2P6;A8BE87;D3DVZ4;Q5TE26;Q5TE27;Q6UY28;Q8IX00;Q96LC3;Q96LC4;Q96QT3;Q9BW38;Q9H6H1;Q9NP51;Q9NPY1;Q9NPY2
+EntryName	SMOX_HUMAN
+ProteinName	Spermine oxidase (EC 1.5.3.16) (Polyamine oxidase 1) (PAO-1) (PAOh1)
+GeneName	SMOX C20orf16 SMO UNQ3039/PRO9854
+Length	585
+Function	Flavoenzyme which catalyzes the oxidation of spermine to spermidine. Can also use N(1)-acetylspermine and spermidine as substrates, with different affinity depending on the isoform (isozyme) and on the experimental conditions. Plays an important role in the regulation of polyamine intracellular concentration and has the potential to act as a determinant of cellular sensitivity to the antitumor polyamine analogs. May contribute to beta-alanine production via aldehyde dehydrogenase conversion of 3-amino-propanal.
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQSCESSGDSADDPLSRGLRRRGQPRVVVIGAGLAGLAAAKALLEQGFTDVTVLEASSHIGGRVQSVKLGHATFELGATWIHGSHGNPIYHLAEANGLLEETTDGERSVGRISLYSKNGVACYLTNHGRRIPKDVVEEFSDLYNEVYNLTQEFFRHDKPVNAESQNSVGVFTREEVRNRIRNDPDDPEATKRLKLAMIQQYLKVESCESSSHSMDEVSLSAFGEWTEIPGAHHIIPSGFMRVVELLAEGIPAHVIQLGKPVRCIHWDQASARPRGPEIEPRGEGDHNHDTGEGGQGGEEPRGGRWDEDEQWSVVVECEDCELIPADHVIVTVSLGVLKRQYTSFFRPGLPTEKVAAIHRLGIGTTDKIFLEFEEPFWGPECNSLQFVWEDEAESHTLTYPPELWYRKICGFDVLYPPERYGHVLSGWICGEEALVMEKCDDEAVAEICTEMLRQFTGNPNIPKPRRILRSAWGSNPYFRGSYSYTQVGSSGADVEKLAKPLPYTESSKTAHGSSTKQQPGHLFSSKCPEQPLDANRGAVKPMQVLFSGEATHRKYYSTTHGALLSGQREAARLIEMYRDLFQQGT
+PTM	Methylation:338,463,523;Phosphorylation:190;Ubiquitylation:158,191,194,259,353,499,508,524

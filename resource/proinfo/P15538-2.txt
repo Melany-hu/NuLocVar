@@ -1,0 +1,25 @@
+UniprotID	P15538-2
+Accession	P15538;Q14095;Q4VAQ8;Q4VAQ9;Q9UML2
+EntryName	C11B1_HUMAN
+ProteinName	Cytochrome P450 11B1, mitochondrial (CYP11B1) (CYPXIB1) (Cytochrome P-450c11) (Cytochrome P450C11) (Steroid 11-beta-hydroxylase, CYP11B1) (EC 1.14.15.4)
+GeneName	CYP11B1 S11BH
+Length	437
+Function	A cytochrome P450 monooxygenase involved in the biosynthesis of adrenal corticoids (PubMed:12530636, PubMed:1518866, PubMed:1775135, PubMed:18215163, PubMed:23322723). Catalyzes a variety of reactions that are essential for many species, including detoxification, defense, and the formation of endogenous chemicals like steroid hormones. Steroid 11beta, 18- and 19-hydroxylase with preferred regioselectivity at 11beta, then 18, and lastly 19 (By similarity). Catalyzes the hydroxylation of 11-deoxycortisol and 11-deoxycorticosterone (21-hydroxyprogesterone) at 11beta position, yielding cortisol or corticosterone, respectively, but cannot produce aldosterone (PubMed:12530636, PubMed:1518866, PubMed:1775135, PubMed:18215163, PubMed:23322723). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate for hydroxylation and reducing the second into a water molecule. Two electrons are provided by NADPH via a two-protein mitochondrial transfer system comprising flavoprotein FDXR (adrenodoxin/ferredoxin reductase) and nonheme iron-sulfur protein FDX1 or FDX2 (adrenodoxin/ferredoxin) (PubMed:18215163). Due to its lack of 18-oxidation activity, it is incapable of generating aldosterone (PubMed:23322723). Could also be involved in the androgen metabolic pathway (Probable).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRAKAEVCMAVPWLSLQRAQALGTRAARVPRTVLPFEAMPRRPGNRWLRLLQIWREQGYEDLHLEVHQTFQELGPIFRYDLGGAGMVCVMLPEDVEKLQQVDSLHPHRMSLEPWVAYRQHRGHKCGVFLLNGPEWRFNRLRLNPEVLSPNAVQRFLPMVDAVARDFSQALKKKVLQNARGSLTLDVQPSIFHYTIEASNLALFGERLGLVGHSPSSASLNFLHALEVMFKSTVQLMFMPRSLSRWTSPKVWKEHFEAWDCIFQYGDNCIQKIYQELAFSRPQQYTSIVAELLLNAELSPDAIKANSMELTAGSVDTTVFPLLMTLFELARNPNVQQALRQESLAAAASISEHPQKATTELPLLRAALKETLRLYPVGLFLERVASSDLVLQNYHIPAGVLKHLQVETLTQEDIKMVYSFILRPSMFPLLTFRAIN
+PTM	Methylation:173,305;Phosphorylation:17,288

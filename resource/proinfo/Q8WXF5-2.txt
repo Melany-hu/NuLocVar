@@ -1,0 +1,25 @@
+UniprotID	Q8WXF5-2
+Accession	Q8WXF5;Q496G6
+EntryName	CRGN_HUMAN
+ProteinName	Gamma-crystallin N (Gamma-N-crystallin)
+GeneName	CRYGN
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQRSGKITLYEGKHFTGQKLEVFGDCDNFQDRGFMNRVNSIHVESGAWVCFNHPDFRGQQFILEHGDYPDFFRWNSHSDHMGSCRPVGMVSGPVHRRLSLPAGGTEGQPWQTVARNRGAWSSRL
+PTM	Methylation:133;Phosphorylation:142;SUMOylation:7,14

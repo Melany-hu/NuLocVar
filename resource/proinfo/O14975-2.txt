@@ -1,0 +1,25 @@
+UniprotID	O14975-2
+Accession	O14975;A8K2J7;Q53FY6;Q6PF09
+EntryName	S27A2_HUMAN
+ProteinName	Long-chain fatty acid transport protein 2 (Arachidonate--CoA ligase) (EC 6.2.1.15) (Fatty acid transport protein 2) (FATP-2) (Fatty-acid-coenzyme A ligase, very long-chain 1) (Long-chain-fatty-acid--CoA ligase) (EC 6.2.1.3) (Phytanate--CoA ligase) (EC 6.2.1.24) (Solute carrier family 27 member 2) (THCA-CoA ligase) (EC 6.2.1.7) (Very long-chain acyl-CoA synthetase) (VLACS) (VLCS) (EC 6.2.1.-) (Very long-chain-fatty-acid-CoA ligase)
+GeneName	SLC27A2 ACSVL1 FACVL1 FATP2 VLACS
+Length	567
+Function	Mediates the import of long-chain fatty acids (LCFA) into the cell by facilitating their transport across cell membranes, playing an important role in hepatic fatty acid uptake (PubMed:10198260, PubMed:10749848, PubMed:11980911, PubMed:20530735, PubMed:22022213, PubMed:24269233). Also functions as an acyl-CoA ligase catalyzing the ATP-dependent formation of fatty acyl-CoA using LCFA and very-long-chain fatty acids (VLCFA) as substrates, which prevents fatty acid efflux from cells and might drive more fatty acid uptake (PubMed:10198260, PubMed:10749848, PubMed:11980911, PubMed:20530735, PubMed:22022213, PubMed:24269233). Plays a pivotal role in regulating available LCFA substrates from exogenous sources in tissues undergoing high levels of beta-oxidation or triglyceride synthesis (PubMed:20530735). Can also activate branched-chain fatty acids such as phytanic acid and pristanic acid (PubMed:10198260). May contribute to the synthesis of sphingosine-1-phosphate (PubMed:24269233). Does not activate C24 bile acids, cholate and chenodeoxycholate (PubMed:11980911). In vitro, activates 3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestanate (THCA), the C27 precursor of cholic acid deriving from the de novo synthesis from cholesterol (PubMed:11980911). However, it is not critical for THCA activation and bile synthesis in vivo (PubMed:20530735).
+Subcellular Location	Endoplasmic reticulum membrane; Peroxisome membrane; Cell membrane; Microsome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSAIYTVLAGLLFLPLLVNLCCPYFFQDIGYFLKVAAVGRRVRSYGKRRPARTILRAFLEKARQTPHKPFLLFRDETLTYAQVDRRSNQVARALHDHLGLRQGDCVALLMGNEPAYVWLWLGLVKLGCAMACLNYNIRAKSLLHCFQCCGAKVLLVSPELQAAVEEILPSLKKDDVSIYYVSRTSNTDGIDSFLDKVDEVSTEPIPESWRSEVTFSTPALYIYTSGTTGATLALRTKFSASQFWDDCRKYNVTVIQYIGELLRYLCNSPQKPNDRDHKVRLALGNGLRGDVWRQFVKRFGDICIYEFYAATEGNIGFMNYARKVGAVGRVNYLQKKIITYDLIKYDVEKDEPVRDENGYCVRVPKGEVGLLVCKITQLTPFNGYAGAKAQTEKKKLRDVFKKGDLYFNSGDLLMVDHENFIYFHDRVGDTFRWKGENVATTEVADTVGLVDFVQEVNVYGVHVPDHEGRIGMASIKMKENHEFDGKKLFQHIADYLPSYARPRFLRIQDTIEITGTFKHRKMTLVEEGFNPAVIKDALYFLDDTAKMYVPMTEDIYNAISAKTLKL
+PTM	Acetylation:291;Methylation:126,233,255,398,403,428,442,540,589;Phosphorylation:171,193,238,249,252,295,552,577,593;Ubiquitylation:62,173,174,325,389,390,398,419,442

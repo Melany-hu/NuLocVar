@@ -1,0 +1,25 @@
+UniprotID	Q8N6V9-2
+Accession	Q8N6V9;B4DH73
+EntryName	TEX9_HUMAN
+ProteinName	Testis-expressed protein 9
+GeneName	TEX9
+Length	316
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriolar satellite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSCDDEDDYSLRGLLPSEGIVHLHSETKPKTKNIDPVNKVQNKLHSANKGRKTNSSVKLKYSDVQTADDVAIPEDFSDFSLAKTISKIEGQLEEEGLPEYIDDIFSGVSNDIGTEAQIRFLKAKLHVMQEELDNVVCECNKKEDEIQNLKSQVKNFEEDFMRQQRTINMQQSQVEKYKTLFEEANKKYDGLQQQLSSVERELENKRRLQKQAASSQSATEVRLNRALEEAEKYKLELSKLRQNNKDIANEEHKKIEVLKSENKKLEKQKGELMIGFKKQLKLIDVLKRQKMHIEAAKMLSFTEEEFMKALEWGNS
+PTM	Methylation:49,252,262,281,308,335,363;Phosphorylation:86,131,132,376

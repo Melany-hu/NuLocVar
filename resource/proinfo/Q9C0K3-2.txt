@@ -1,0 +1,25 @@
+UniprotID	Q9C0K3-2
+Accession	Q9C0K3;Q5CZI4
+EntryName	ARP3C_HUMAN
+ProteinName	Actin-related protein 3C (Actin-related protein 11)
+GeneName	ACTR3C ARP11
+Length	47
+Function	May play a role in the suppression of metastatic potential in lung adenoma carcinoma cells.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESISDVVDEVIQNCPIDVRRPLYKMEQIPLSYPQGHGFHPLSPPFH
+PTM	Acetylation:62;Methylation:96,111,136;Phosphorylation:73;Ubiquitylation:62,101,111,136

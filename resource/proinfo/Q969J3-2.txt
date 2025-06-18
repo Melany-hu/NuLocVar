@@ -1,0 +1,25 @@
+UniprotID	Q969J3-2
+Accession	Q969J3;Q96QS5
+EntryName	BORC5_HUMAN
+ProteinName	BLOC-1-related complex subunit 5 (Loss of heterozygosity 12 chromosomal region 1) (Myristoylated lysosomal protein) (Myrlysin)
+GeneName	BORCS5 LOH12CR1
+Length	148
+Function	As part of the BORC complex may play a role in lysosomes movement and localization at the cell periphery. Associated with the cytosolic face of lysosomes, the BORC complex may recruit ARL8B and couple lysosomes to microtubule plus-end-directed kinesin motor. Thereby, it may indirectly play a role in cell spreading and motility.
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSEQSSEAESRPNDLNSSGLLSGQTSPTNAKLEKLDSQQVLQLCLRYQDHLHQCAEAVAFDQNALVKRIKEMDLSVETLFSFMQERQKRYAKYAEQIQKVNEMSAILRRIQMGIDQTVPLLDRLNSMLPEGERLEPFSMKPDRELRL
+PTM	Methylation:55,116,137,148;Phosphorylation:19,23,71,74,75,77,175;Ubiquitylation:30,67,80

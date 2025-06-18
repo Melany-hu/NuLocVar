@@ -1,0 +1,25 @@
+UniprotID	H7C3B9
+Accession	H7C3B9
+EntryName	H7C3B9_HUMAN
+ProteinName	Growth factor receptor bound protein 10
+GeneName	GRB10
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LADMTARDLCQLLVYKSHCVDDNSWTLVEHHPHLGLERCLEDHELVVQVESTMASESKFLFRKNYAKYEFFKNPMNFFPEQMVTWCQQSNGSQTQLLQVLGHNRSLLK
+PTM	

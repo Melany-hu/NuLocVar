@@ -1,0 +1,25 @@
+UniprotID	Q8NCC5-3
+Accession	Q8NCC5;Q6PIU7;Q86SS4;Q9BQG7
+EntryName	SPX3_HUMAN
+ProteinName	Sugar phosphate exchanger 3 (Solute carrier family 37 member 3)
+GeneName	SLC37A3 SPX3
+Length	443
+Function	Unlike the other SLC37 members, lacks glucose-6-phosphate antiporter activity (PubMed:21949678). In osteoclasts, forms a transporter complex with ATRAID for nitrogen-containing-bisphophonates (N-BPs) required for releasing N-BP molecules that have trafficked to lysosomes through fluid-phase endocytosis into the cytosol (PubMed:29745899).
+Subcellular Location	Endoplasmic reticulum membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWPNVFQRGSLLSQFSHHHVVVFLLTFFSYSLLHASRKTFSNVKVSISEQWTPSAFNTSVELPVEIWSSNHLFPSAEKATLFLGTLDTIFLFSYAVGLFISGIVGDRLNLRWVLSFGMCSSALVVFVFGALTEWLRFYNKWLYCCLWIVNGLLQSTGWPCVVAVMGNWFGKAGRGVVFGLWSACASVGNILGACLASSVLQYGYEYAFLVTASVQFAGGIVIFFGLLVSPEEIGLSGIEAEENFEEDSHRPLINGGENEDEYEPNYSIQDDSSVAQVKAISFYQACCLPGVIPYSLAYACLKLVNYSFFFWLPFYLSNNFGWKEAEADKLSIWYDVGGIIVFSVSDPGQARMDVGFLLFHSHDKLYNCVYLAINSEGNILSRAKETGSHIEGVTGARETERTMSATSGPLGLRVCPNLGLSRSSSLILDCQASLNTASHLRC
+PTM	Methylation:330;Phosphorylation:40,53,443;Ubiquitylation:39

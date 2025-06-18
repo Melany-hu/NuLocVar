@@ -1,0 +1,25 @@
+UniprotID	A0A669KBJ2
+Accession	A0A669KBJ2
+EntryName	A0A669KBJ2_HUMAN
+ProteinName	Zinc finger protein 320
+GeneName	ZNF320
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSQGLLTFRDVAIEFSQEEWKCLDPAQRTLYRDVMLENYRNLVSLGLISRDLCYLRKTPRRQRKGARDGSSSGILDFQRCGYRVLFAGVETPGPCTERFIQGCDVGELQEPGVCG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A494C093
+Accession	A0A494C093
+EntryName	A0A494C093_HUMAN
+ProteinName	MLLT10 histone lysine methyltransferase DOT1L cofactor
+GeneName	MLLT10
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XENPLVYCDGHGCSVAVHQACYGIVQVPTGPWFCRKCESQERAARVAGVEWRNHCSLQP
+PTM	

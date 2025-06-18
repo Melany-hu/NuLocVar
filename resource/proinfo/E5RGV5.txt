@@ -1,0 +1,25 @@
+UniprotID	E5RGV5
+Accession	E5RGV5
+EntryName	E5RGV5_HUMAN
+ProteinName	TIA1 cytotoxic granule associated RNA binding protein
+GeneName	TIA1
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDEMPKTLYVGNLSRDVTEALILQLFSQIGPCKNCKMIMDTAGNDPYCFVEFHEHRHAAAALAAMNGRKIMGKEVKVNWATTPSSQKKDTSSSTVVSTQRSQDHFHVFVGDLSPEITTEDIKAAFAPFGRISVSLKNGQNCPG
+PTM	

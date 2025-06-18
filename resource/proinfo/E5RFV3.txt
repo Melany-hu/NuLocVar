@@ -1,0 +1,25 @@
+UniprotID	E5RFV3
+Accession	E5RFV3
+EntryName	E5RFV3_HUMAN
+ProteinName	Splicing regulatory glutamic acid and lysine rich protein 1
+GeneName	SREK1
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSGGGFGLGLGFGLTPTSVIQVTNLSSAVTSEQMRTLFSFLGEIEELRLYPPDNAPLAFSSKVCYVKFRDPSSVGVAQHLTNTVFIDRALIVVPCAEVMQPTRTVVMCNTTFDHRENTVLGKRPCLISFGS
+PTM	

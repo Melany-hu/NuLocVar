@@ -1,0 +1,25 @@
+UniprotID	C9JXG8
+Accession	C9JXG8
+EntryName	C9JXG8_HUMAN
+ProteinName	RAN binding protein 1
+GeneName	RANBP1
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	46...50
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAKLFRFASENDLPEWKERGTGDVKLLKHKEKGAIRLLMRRDKTLKICANHYITPMMELKPNAGSDRAWVWNTHADFADECPKPELLAIRFLNAENAQKFKTKFEECRKEIEEREKKGSGKNDHAEKVAEKLEALSVKEETKED
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q7L591-2
+Accession	Q7L591;E9PAT0;H7BXS0;Q8N864;Q9BQB3;Q9H666
+EntryName	DOK3_HUMAN
+ProteinName	Docking protein 3 (Downstream of tyrosine kinase 3)
+GeneName	DOK3
+Length	216
+Function	DOK proteins are enzymatically inert adaptor or scaffolding proteins. They provide a docking platform for the assembly of multimolecular signaling complexes. DOK3 is a negative regulator of JNK signaling in B-cells through interaction with INPP5D/SHIP1. May modulate ABL1 function (By similarity).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPICQLAFPGTGEASSGSTDAQSPKRGLVPMEENSIYSSWQEVGEFPVVVQRTEAATRCQLKGPALLVLGPDAIQLREAKGTQALYSWPYHFLRKFGSDKILLGTPGVSLLICKGERTDDVSGIILDESLLRAYSVPGAGGHSRVQDSLGPVLREPTFQGERSFLKTSMLRSLLCSCSWRHPRSQPRTQASCLQGSDCPAPHRNSTSAAHTLGTS
+PTM	Acetylation:75;Phosphorylation:194,208,329,330,333,336,364,381,389,398,407,425,427,480,483

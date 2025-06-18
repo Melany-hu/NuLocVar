@@ -1,0 +1,25 @@
+UniprotID	Q96SY0-2
+Accession	Q96SY0;B4DDI6;B4DVD5;Q49AH8;Q96HX5;Q9H0S5
+EntryName	INT14_HUMAN
+ProteinName	Integrator complex subunit 14 (von Willebrand factor A domain-containing protein 9)
+GeneName	INTS14 C15orf44 VWA9
+Length	86
+Function	Component of the integrator complex, a multiprotein complex that terminates RNA polymerase II (Pol II) transcription in the promoter-proximal region of genes (PubMed:38570683, PubMed:38823386). The integrator complex provides a quality checkpoint during transcription elongation by driving premature transcription termination of transcripts that are unfavorably configured for transcriptional elongation: the complex terminates transcription by (1) catalyzing dephosphorylation of the C-terminal domain (CTD) of Pol II subunit POLR2A/RPB1 and SUPT5H/SPT5, (2) degrading the exiting nascent RNA transcript via endonuclease activity and (3) promoting the release of Pol II from bound DNA (PubMed:38570683). The integrator complex is also involved in terminating the synthesis of non-coding Pol II transcripts, such as enhancer RNAs (eRNAs), small nuclear RNAs (snRNAs), telomerase RNAs and long non-coding RNAs (lncRNAs) (PubMed:32647223). Within the integrator complex, INTS14 is part of the integrator tail module that acts as a platform for the recruitment of transcription factors at promoters (PubMed:38823386, PubMed:38906142).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTVVVMDVSLSMTRPVSIEGSEEYQRKHLAAHGLTMLFEHMATNYKLEFTALVVFSSLWELMVPFTRDYNTLQVQNVVSYCMYRA
+PTM	Acetylation:429,435;Methylation:217,454,487;Phosphorylation:137,139,387;SUMOylation:280,376,386,442;Ubiquitylation:195,280,365,376,386,394,435,442

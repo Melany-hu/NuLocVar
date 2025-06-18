@@ -1,0 +1,25 @@
+UniprotID	E9PSG2
+Accession	E9PSG2
+EntryName	E9PSG2_HUMAN
+ProteinName	CKLF-CMTM1 readthrough
+GeneName	CKLF-CMTM1
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDNVQPKIKHRPFCFSVKGHVKMLRLDLTNSIITAVFLSVVAILAMQEKKRRHLLYVGGSLCLTAVIVCCIDAFVVTTKMRTNLKRFLGVEVERKLSPAKDAYPETGPDAPQRPA
+PTM	

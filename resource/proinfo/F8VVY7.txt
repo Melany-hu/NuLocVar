@@ -1,0 +1,25 @@
+UniprotID	F8VVY7
+Accession	F8VVY7
+EntryName	F8VVY7_HUMAN
+ProteinName	Ubiquitin specific peptidase 15
+GeneName	USP15
+Length	106
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVKHCKVEVYLTELKLCENGNMNNVVTRRFSKADTIDTIEKEIRKIFSIPDEKETRLWNKYMSNTFEPLNKPDSTIQDAGLYQGQVLVIEQKNEDGTWPRGPSTP
+PTM	

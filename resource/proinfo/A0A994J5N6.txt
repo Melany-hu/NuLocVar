@@ -1,0 +1,25 @@
+UniprotID	A0A994J5N6
+Accession	A0A994J5N6
+EntryName	A0A994J5N6_HUMAN
+ProteinName	Vesicle transport through interaction with t-SNAREs 1A
+GeneName	VTI1A
+Length	224
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSDFEGYEQDFAVLTAEITSKIARVPRLPPDEKKQMVANVEKQLEEAKELLEQMDLEVREIPPQSRGMYSNRMRSYKQEMGKLETDFKRSRIAYSDEVRNELLGDDGNSSENQLIKLREERAHLLDNTERLERSSRRLEAGYQIAVETEQIGQEMLENLSHDREKIQRARERLRETDANLGKSSRILTGMLRRIIQNRILLVILGIIVVITILMAITFSVRRH
+PTM	

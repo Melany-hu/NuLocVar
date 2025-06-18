@@ -1,0 +1,25 @@
+UniprotID	Q8IZA3-2
+Accession	Q8IZA3;Q86WT7
+EntryName	H18_HUMAN
+ProteinName	Histone H1.8 (Histone H1oo) (Oocyte-specific histone H1) (Oocyte-specific linker histone H1) (osH1)
+GeneName	H1-8 H1FOO H1OO OSH1
+Length	207
+Function	May play a key role in the control of gene expression during oogenesis and early embryogenesis, presumably through the perturbation of chromatin structure. Essential for meiotic maturation of germinal vesicle-stage oocytes. The somatic type linker histone H1c is rapidly replaced by H1oo in a donor nucleus transplanted into an oocyte. The greater mobility of H1oo as compared to H1c may contribute to this rapid replacement and increased instability of the embryonic chromatin structure. The rapid replacement of H1c with H1oo may play an important role in nuclear remodeling (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	164..179
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPATAPRRAGEAKGKGPKKPSEAKEDPPNVGKVKKAAKRPAKVQKPPPKPGAATEKARKQGGAAKDTRAQSGEARKVPPKPDKAMRAPSSAGGLSRKAKAKGSRSSQGDAEAYRKTKAESKSSKPTASKVKNGAASPTKKKVVAKAKAPKAGQGPNTKAAAPAKGSGSKVVPAHLSRKTEAPKGPRKAGLPIKASSSKVSSQRAEA
+PTM	Methylation:98,205;Phosphorylation:103,144,207

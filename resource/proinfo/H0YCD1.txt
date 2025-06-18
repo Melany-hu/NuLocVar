@@ -1,0 +1,25 @@
+UniprotID	H0YCD1
+Accession	H0YCD1
+EntryName	H0YCD1_HUMAN
+ProteinName	Adenylate kinase 9
+GeneName	AK9
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	72...76
+validnes_region	
+nesbase_region	
+Sequence	XITEIPSLSQDAMTTLQQIELIKNLNLKPDVIINIKCPDYDLCQRISGQRQHNNTGYIYSRDQWDPEVIENHRKKKKEAQKDGKGEEEEEEEEQEEEEAFIAEMQMVAEILHHLVQRPEDYLENVENIVKLYKETILQTLEEVMAEHNPQYLIELNGNKPAEELFMDELFRTLASYKLIAPRYRWQRSKWGR
+PTM	

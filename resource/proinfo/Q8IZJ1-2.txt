@@ -1,0 +1,25 @@
+UniprotID	Q8IZJ1-2
+Accession	Q8IZJ1;Q5T3R9;Q5T3S0;Q86SN3;Q8N1Y2;Q9H9F3
+EntryName	UNC5B_HUMAN
+ProteinName	Netrin receptor UNC5B (Protein unc-5 homolog 2) (Protein unc-5 homolog B) (p53-regulated receptor for death and life protein 1) (p53RDL1)
+GeneName	UNC5B P53RDL1 UNC5H2 UNQ1883/PRO4326
+Length	934
+Function	Receptor for netrin required for axon guidance. Mediates axon repulsion of neuronal growth cones in the developing nervous system upon ligand binding. Axon repulsion in growth cones may be caused by its association with DCC that may trigger signaling for repulsion (By similarity). Functions as a netrin receptor that negatively regulates vascular branching during angiogenesis. Mediates retraction of tip cell filopodia on endothelial growth cones in response to netrin (By similarity). It also acts as a dependence receptor required for apoptosis induction when not associated with netrin ligand (PubMed:12598906). Mediates apoptosis by activating DAPK1. In the absence of NTN1, activates DAPK1 by reducing its autoinhibitory phosphorylation at Ser-308 thereby increasing its catalytic activity (By similarity).
+Subcellular Location	Cell membrane; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGARSGARGALLLALLLCWDPRLSQAGTDSGSEVLPDSFPSAPAEPLPYFLQEPQDAYIVKNKPVELRCRAFPATQIYFKCNGEWVSQNDHVTQEGLDEATGLRVREVQIEVSRQQVEELFGLEDYWCQCVAWSSAGTTKSRRAYVRIAYLRKNFDQEPLGKEVPLDHEVLLQCRPPEGVPVAEVEWLKNEDVIDPTQDTNFLLTIDHNLIIRQARLSDTANYTCVAKNIVAKRRSTTATVIVYVNGGWSSWAEWSPCSNRCGRGWQKRTRTCTNPAPLNGGAFCEGQAFQKTACTTICPVDGAWTEWSKWSACSTECAHWRSRECMAPPPQNGGRDCSGTLLDSKNCTDGLCMQMLEASGDAALYAGLVVAIFVVVAILMAVGVVVYRRNCRDFDTDITDSSAALTGGFHPVNFKTARPSNPQLLHPSVPPDLTASAGIYRGPVYALQDSTDKIPMTNSPLLDPLPSLKVKVYSSSTTGSGPGLADGADLLGVLPPGTYPSDFARDTHFLHLRSASLGSQQLLGLPRDPGSSVSGTFGCLGGRLSIPGTGVSLLVPNGAIPQGKFYEMYLLINKAESTLPLSEGTQTVLSPSVTCGPTGLLLCRPVILTMPHCAEVSARDWIFQLKTQAHQGHWEEVVTLDEETLNTPCYCQLEPRACHILLDQLGTYVFTGESYSRSAVKRLQLAVFAPALCTSLEYSLRVYCLEDTPVALKEVLELERTLGGYLVEEPKPLMFKDSYHNLRLSLHDLPHAHWRSKLLAKYQEIPFYHIWSGSQKALHCTFTLERHSLASTELTCKICVRQVEGEGQIFQLHTTLAETPAGSLDTLCSAPGSTVTTQLGPYAFKIPLSIRQKICNSLDAPNSRGNDWRMLAQKLSMDRYLNYFATKASPTGVILDLWEALQQDDGDLNSLASALEEMGKSEMLVAVATDGDC
+PTM	Glycosylation:222;Methylation:586,773;Phosphorylation:428,452,457,462,463,469,471,479,485,526,528,531,679,680,683,686,687,688,690,711,869,875,895

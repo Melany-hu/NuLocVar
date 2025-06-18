@@ -1,0 +1,25 @@
+UniprotID	H0YEY1
+Accession	H0YEY1
+EntryName	H0YEY1_HUMAN
+ProteinName	Zinc finger protein 692
+GeneName	ZNF692
+Length	164
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPEPLPPKGLQYLVLLSHAHSRECSLVPGLRGPGGQDGGLVWECSAGHTFSWGPSLSPTPSEAPKPASLPHTTRRSWCSEATSGQELADLESEHDERTQEARLPRRVGPPPETFPPPGEEEVVSLMPPDYCLPLSPAHLKRGRHHQPLQHSPVLLLCRPCQHPH
+PTM	

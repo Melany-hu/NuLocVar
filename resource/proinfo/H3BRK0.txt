@@ -1,0 +1,25 @@
+UniprotID	H3BRK0
+Accession	H3BRK0
+EntryName	H3BRK0_HUMAN
+ProteinName	CDC like kinase 3
+GeneName	CLK3
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	110...115
+validnes_region	
+nesbase_region	
+Sequence	GSGRGARSGEWGLAAAGAWETMHHCKRYRSPEPDPYLSYRWKRRRSYSREHEGRLRYPSRREPPPRRSRSRSHDRLPYQRRYRERRDSDTYRCEERSPSFGEDYYGPSRSRHRRRSRERGPYRTRKHAHHCHKRRTRSCSSASSMRLWGTWVKAPLARWWSAWTMPEGSLRLP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P22794-2
+Accession	P22794;B2R5X2;B4DHX8
+EntryName	EVI2A_HUMAN
+ProteinName	Protein EVI2A (Ecotropic viral integration site 2A protein homolog) (EVI-2A)
+GeneName	EVI2A EVDA EVI2
+Length	259
+Function	May complex with itself or/and other proteins within the membrane, to function as part of a cell-surface receptor.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLRSWFGNKDFQALPILARLPSMPTDMEHTGHYLHLAFLMTTVFSLSPGTKANYTRLWANSTSSWDSVIQNKTGRNQNENINTNPITPEVDYKGNSTNMPETSHIVALTSKSEQELYIPSVVSNSPSTVQSIENTSKSHGEIFKKDVCAENNNNMAMLICLIIIAVLFLICTFLFLSTVVLANKVSSLRRSKQVGKRQPRSNGDFLASGLWPAESDTWKRTKQLTGPNLVMQSTGVLTATRERKDEEGTEKLTNKQIG
+PTM	Methylation:50;Phosphorylation:3,8,11,179,193,216

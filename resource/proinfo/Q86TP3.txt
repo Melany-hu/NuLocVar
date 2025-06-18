@@ -1,0 +1,25 @@
+UniprotID	Q86TP3
+Accession	Q86TP3
+EntryName	Q86TP3_HUMAN
+ProteinName	Vpr Binding Protein 1
+GeneName	VBP1
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SCRIRHEGWQAGGGCAQLLPVMAHTCAQTPMPPKPGAGLCTAMAHINAPPQAQPSQSPHCPIPEWAGAWPGEGFGL
+PTM	

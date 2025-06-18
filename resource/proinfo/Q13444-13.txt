@@ -1,0 +1,25 @@
+UniprotID	Q13444-13
+Accession	Q13444;B3KQU5;B4DLB5;B4DMH8;E9PN65;Q13493;Q53XQ0;Q5SR68;Q5SR69;Q6R267;Q71S61;Q71S62;Q71S63;Q71S64;Q71S65;Q71S66;Q71S67;Q71S68;Q71S69;Q96C78;U3KQL5
+EntryName	ADA15_HUMAN
+ProteinName	Disintegrin and metalloproteinase domain-containing protein 15 (ADAM 15) (EC 3.4.24.-) (Metalloprotease RGD disintegrin protein) (Metalloproteinase-like, disintegrin-like, and cysteine-rich protein 15) (MDC-15) (Metargidin)
+GeneName	ADAM15 MDC15
+Length	633
+Function	Active metalloproteinase with gelatinolytic and collagenolytic activity. Plays a role in the wound healing process. Mediates both heterotypic intraepithelial cell/T-cell interactions and homotypic T-cell aggregation. Inhibits beta-1 integrin-mediated cell adhesion and migration of airway smooth muscle cells. Suppresses cell motility on or towards fibronectin possibly by driving alpha-v/beta-1 integrin (ITAGV-ITGB1) cell surface expression via ERK1/2 inactivation. Cleaves E-cadherin in response to growth factor deprivation. Plays a role in glomerular cell migration. Plays a role in pathological neovascularization. May play a role in cartilage remodeling. May be proteolytically processed, during sperm epididymal maturation and the acrosome reaction. May play a role in sperm-egg binding through its disintegrin domain.
+Subcellular Location	Endomembrane system; Cell junction; Adherens junction; Cell projection; Cilium; Flagellum; Cytoplasmic vesicle; Secretory vesicle; Acrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLALLWALGLLGAGSPLPSWPLPNIVSACNVEAPQVALRSSRQSQRRPRGSPWSPRSFRTISQLASKRCFRELVPGRPTLVWYQPDGTRVVSEGHTLENCCYQGRVRGYAGSWVSICTCSGLRGLVVLTPERSYTLEQGPGDLQGPPIISRIQDLHLPGHTCALSWRESVHTQKPPEHPLGQRHIRRRRDVVTETKTVELVIVADHSEAQKYRDFQHLLNRTLEVALLLDTFFRPLNVRVALVGLEAWTQRDLVEISPNPAVTLENFLHWRRAHLLPRLPHDSAQLVTGTSFSGPTVGMAIQNSICSPDFSGGVNMDHSTSILGVASSIAHELGHSLGLDHDLPGNSCPCPGPAPAKTCIMEASTDFLPGLNFSNCSRRALEKALLDGMGSCLFERLPSLPPMAAFCGNMFVEPGEQCDCGFLDDCVDPCCDSLTCQLRPGAQCASDGPCCQNCQLRPSGWQCRPTRGDCDLPEFCPGDSSQCPPDVSLGDGEPCAGGQAVCMHGRCASYAQQCQSLWGPGAQPAAPLCLQTANTRGNAFGSCGRNPSGSYVSCTPRDAICGQLQCQTGRTQPLLGSIRDLLWETIDVNGTELNCSWVHLDLGSDVAQPLLTLPGTACGPGLVSSLGGQDQV
+PTM	Glycosylation:237,392;Methylation:400;Phosphorylation:182,565,568,572,740,743,806,832;SUMOylation:72,729;Ubiquitylation:58,59,72,400,729,814,820

@@ -1,0 +1,25 @@
+UniprotID	P02686-3
+Accession	P02686;A4FU54;A6NI84;A8MY86;A8MYL4;B3KY66;B7ZKS2;B7ZKS4;Q15337;Q15338;Q15339;Q15340;Q59GX3;Q65ZS4;Q6AI64;Q6FH37;Q6FI04;Q6PK23
+EntryName	MBP_HUMAN
+ProteinName	Myelin basic protein (MBP) (Myelin A1 protein) (Myelin membrane encephalitogenic protein)
+GeneName	MBP
+Length	197
+Function	The classic group of MBP isoforms (isoform 4-isoform 14) are with PLP the most abundant protein components of the myelin membrane in the CNS. They have a role in both its formation and stabilization. The smaller isoforms might have an important role in remyelination of denuded axons in multiple sclerosis. The non-classic group of MBP isoforms (isoform 1-isoform 3/Golli-MBPs) may preferentially have a role in the early developing brain long before myelination, maybe as components of transcriptional complexes, and may also be involved in signaling pathways in T-cells and neural cells. Differential splicing events combined with optional post-translational modifications give a wide spectrum of isomers, with each of them potentially having a specialized function. Induces T-cell proliferation.
+Subcellular Location	Myelin membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASQKRPSQRHGSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRGAPKRGSGKVPWLKPGRSPLPSHARSQPGLCNMYKDSHHPARTAHYGSLPQKSHGRTQDENPVVHFFKNIVTPRTPPPSQGKGRGLSLSRFSWGAEGQRPGFGYGGRASDYKSAHKGFKGVDAQGTLSKIFKLGGRDSRSGSPMARR
+PTM	Acetylation:138;Glycosylation:54,55;Phosphorylation:16,17,19,21,26,36,38,39,40,57,58,59,62,65,67,96,106,112,114,119,124,127,128,130,136,141,146,148,151,153,154,169,174,203,205,210,214,232,249,266,283,285,295,299;Ubiquitylation:192,209,225,269,276,286

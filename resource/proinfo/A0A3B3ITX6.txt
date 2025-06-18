@@ -1,0 +1,25 @@
+UniprotID	A0A3B3ITX6
+Accession	A0A3B3ITX6
+EntryName	A0A3B3ITX6_HUMAN
+ProteinName	Zinc finger DBF-type containing 2
+GeneName	ZDBF2
+Length	68
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQKRQGYCSYCRVQYNNLEQTLTKGKTKKEFFRQKENDSRWKLRDTGSNEEQWKAFVQCSAQEFDQTE
+PTM	

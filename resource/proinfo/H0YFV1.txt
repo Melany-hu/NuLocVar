@@ -1,0 +1,25 @@
+UniprotID	H0YFV1
+Accession	H0YFV1
+EntryName	H0YFV1_HUMAN
+ProteinName	Cysteinyl-tRNA synthetase 2, mitochondrial
+GeneName	CARS2
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLQAALGLGRAGWHWPAGRAASGGRGRAWLQPTGRETGVQVYNSLTGRKEPLIVAHAEAASWYSCGPTVYDHAHLGHACSYVRFDIIRRILTKVFGCSIVMVMGITDVDDKIIKRANEA
+PTM	

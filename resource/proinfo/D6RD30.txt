@@ -1,0 +1,25 @@
+UniprotID	D6RD30
+Accession	D6RD30
+EntryName	D6RD30_HUMAN
+ProteinName	Cyclin G1
+GeneName	CCNG1
+Length	107
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRMEKIVLEKVCWKVKATTAFQFLQLYYSLLQENLPLERRNSINFERLEAQLKACHCRIIFSKAKPSVLALSIIALEIQAQKCVELTEGIECLQKHSKDYYSTKKLL
+PTM	

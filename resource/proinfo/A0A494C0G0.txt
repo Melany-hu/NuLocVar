@@ -1,0 +1,25 @@
+UniprotID	A0A494C0G0
+Accession	A0A494C0G0
+EntryName	A0A494C0G0_HUMAN
+ProteinName	Tropomyosin 3
+GeneName	TPM3
+Length	87
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRAERLQREVEGERRAREQAEAEVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERLECNGSISAHRNLHLLSSSDSPA
+PTM	

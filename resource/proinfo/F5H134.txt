@@ -1,0 +1,25 @@
+UniprotID	F5H134
+Accession	F5H134
+EntryName	F5H134_HUMAN
+ProteinName	Germ cell associated 1
+GeneName	GSG1
+Length	220
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDPSQLTQNVCLTQEMELSKAFSGQRTLLSAILSMLSLSFSTTSLLSNYWFVGTQKVPKPLCEKGLAAKCFDMPVSLDGDTNTSTQEVVQYNWETGDDRFSFRSFRSGMWLSCEETVEEPAKSEMEEELKKCVYLHLYLLLCHLALLHPQSWKQFRALRSSGTAAAKGERCRSFIELTPPAKREILWLSLGTQITYIGLQFISFLLLLTDLLLTGNPAC
+PTM	

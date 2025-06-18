@@ -1,0 +1,25 @@
+UniprotID	Q9H1R2-2
+Accession	Q9H1R2;A6NH79;A8MVC8;Q5QP62;Q5QP63;Q5QP65;Q6PGN7;Q8N826;Q9BX24
+EntryName	DUS15_HUMAN
+ProteinName	Dual specificity protein phosphatase 15 (EC 3.1.3.16) (EC 3.1.3.48) (VH1-related member Y) (Vaccinia virus VH1-related dual-specific protein phosphatase Y)
+GeneName	DUSP15 C20orf57 VHY
+Length	232
+Function	May dephosphorylate MAPK13, ATF2, ERBB3, PDGFRB and SNX6 (PubMed:22792334).
+Subcellular Location	Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEGVLPGLYLGNFIDAKDLDQLGRNKITHIISIHESPQPLLQDITYLRIPVADTPEVPIKKHFKECINFIHCCRLNGGNCLVHCFAGISRSTTIVTAYVMTVTGLGWRDVLEAIKATRPIANPNPGFRQQLEEFGWASSQKLRRQLEERFGESPFRDEEELRALLPLCKRCRQGSATSASSAGPHSAASEGTVQRLVPRTPREAHRPLPLLARVKQTFSCLPRCLSRKGGK
+PTM	Methylation:18,61,116;Phosphorylation:47,174,182,192

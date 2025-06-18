@@ -1,0 +1,25 @@
+UniprotID	A0AAR1ZLH9
+Accession	A0AAR1ZLH9
+EntryName	A0AAR1ZLH9_HUMAN
+ProteinName	UFM1 specific peptidase 1 (inactive)
+GeneName	UFSP1
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDKPPGFRGSRDWIGCVEASLCLAHFGGPQGRLCHVPRGVGLHGELERLYSHFAGGGGPVMVGGDADARSKALLGVCVGSGTEAYVLVLDPHYWGTPKSPSELQAAGWVGWQEVSAAFDPNSFYNLCLTSLSSQQQQRTLD
+PTM	

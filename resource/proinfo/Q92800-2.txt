@@ -1,0 +1,25 @@
+UniprotID	Q92800-2
+Accession	Q92800;A6NCH6;B4DIJ1;B4DIZ7;B4DSS2;B4E3R7;O43287;Q14459;Q53XP3
+EntryName	EZH1_HUMAN
+ProteinName	Histone-lysine N-methyltransferase EZH1 (EC 2.1.1.356) (ENX-2) (Enhancer of zeste homolog 1)
+GeneName	EZH1 KIAA0388
+Length	753
+Function	Polycomb group (PcG) protein. Catalytic subunit of the PRC2/EED-EZH1 complex, which methylates 'Lys-27' of histone H3, leading to transcriptional repression of the affected target gene. Able to mono-, di- and trimethylate 'Lys-27' of histone H3 to form H3K27me1, H3K27me2 and H3K27me3, respectively. Required for embryonic stem cell derivation and self-renewal, suggesting that it is involved in safeguarding embryonic stem cell identity. Compared to EZH2-containing complexes, it is less abundant in embryonic stem cells, has weak methyltransferase activity and plays a less critical role in forming H3K27me3, which is required for embryonic stem cell identity and proper differentiation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	491..496
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	221...225
+validnes_region	
+nesbase_region	
+Sequence	MEDYSKMEIPNPPTSKCITYWKRKVKSEYMRLRQLKRLQANMGAKALYVANFAKVQEKTQILNEEWKKLRVQPVQSMKPVSGHPFLKKCTIESIFPGFASQHMLMRSLNTVALVPIMYSWSPLQQNFMVEDETVLCNIPYMGDEVKEEDETFIEELINNYDGKVHGEEEMIPGSVLISDAVFLELVDALNQYSDEEEEGHNDTSDGKQDDSKEDLPVTRKRKRHAIEGNKKSSKKQFPNDMIFSAIASMFPENGVPDDMKERYRELTEMSDPNALPPQCTPNIDGPNAKSVQREQSLHSFHTLFCRRCFKYDCFLHPFHATPNVYKRKNKEIKIEPEPCGTDCFLLLEGAKEYAMLHNPRSKCSGRRRRRHHIVSASCSNASASAVAETKEGDSDRDTGNDWASSSSEANSRCQTPTKQKASPAPPQLCVVEAPSEPVEWTGAEESLFRVFHGTYFNNFCSIARLLGTKTCKQVFQFAVKESLILKLPTDELMNPSQKKKRKHRLWAAHCRKIQLKKDNSSTQVYNYQPCDHPDRPCDSTCPCIMTQNFCEKFCQCNPDCQNRFPGCRCKTQCNTKQCPCYLAVRECDPDLCLTCGASEHWDCKVVSCKNCSIQRGLKKHLLLAPSDVAGWGTFIKESVQKNEFISEYCGELISQDEADRRGKVYDKYMSSFLFNLNNDFVVDATRKGNKIRFANHSVNPNCYAKVVMVNGDHRIGIFAKRAIQAGEELFFDYRYSQADALKYVGIERETDVL
+PTM	Acetylation:714;Methylation:52,61,140,480,736;Phosphorylation:8,9,21,23,388,392,399,400,401,405,409,411,416,483,490;SUMOylation:20,72,327,570;Ubiquitylation:736

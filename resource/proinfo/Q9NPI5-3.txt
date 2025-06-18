@@ -1,0 +1,25 @@
+UniprotID	Q9NPI5-3
+Accession	Q9NPI5;B7ZKR3;Q52M81;Q9NZK3
+EntryName	NRK2_HUMAN
+ProteinName	Nicotinamide riboside kinase 2 (NRK 2) (NmR-K 2) (EC 2.7.1.22) (Integrin beta-1-binding protein 3) (Muscle integrin-binding protein) (MIBP) (Nicotinic acid riboside kinase 2) (EC 2.7.1.173) (Ribosylnicotinamide kinase 2) (RNK 2) (Ribosylnicotinic acid kinase 2)
+GeneName	NMRK2 ITGB1BP3 NRK2
+Length	235
+Function	Catalyzes the phosphorylation of nicotinamide riboside (NR) and nicotinic acid riboside (NaR) to form nicotinamide mononucleotide (NMN) and nicotinic acid mononucleotide (NaMN). Reduces laminin matrix deposition and cell adhesion to laminin, but not to fibronectin. Involved in the regulation of PXN at the protein level and of PXN tyrosine phosphorylation. May play a role in the regulation of terminal myogenesis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLIVGIGGMTNGGKTTLTNSLLRALPNCCVIHQDDFFKAPLFQPQDQIAVGEDGFKQWDVLESLDMEAMLDTVQAWLSSPQKFARAHGVSVQPEASDTHILLLEGFLLYSYKPLVDLYSRRYFLTVPYEECKWRRSTRNYTVPDPPGLFDGHVWPMYQKYRQEMEANGVEVVYLDGMKSREELFREVLEDIQNSLLNRSQESAPSPARPARTQGPGRGCGHRTARPAASQQDSM
+PTM	Acetylation:2;Phosphorylation:11,19,21,195,198

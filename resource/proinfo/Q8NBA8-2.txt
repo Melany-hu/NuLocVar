@@ -1,0 +1,25 @@
+UniprotID	Q8NBA8-2
+Accession	Q8NBA8;J3KND6
+EntryName	DTWD2_HUMAN
+ProteinName	tRNA-uridine aminocarboxypropyltransferase 2 (EC 2.5.1.25) (DTW domain-containing protein 2)
+GeneName	DTWD2
+Length	232
+Function	Catalyzes the formation of 3-(3-amino-3-carboxypropyl)uridine (acp3U) at position 20a in the D-loop of several cytoplasmic tRNAs (acp3U(20a)) (PubMed:31804502, PubMed:39173631). Also has a weak activity to form acp3U at position 20 in the D-loop of tRNAs (acp3U(20)) (PubMed:31804502). Involved in glycoRNA biosynthesis by mediating formation of acp3U, which acts as an attachment site for N-glycans on tRNAs (PubMed:39173631). GlycoRNAs consist of RNAs modified with secretory N-glycans that are presented on the cell surface (PubMed:39173631).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGTATYRPQKVCLCPFLPAHPLHISTHLYIIQHPAEENKVLRTVPLLAACLPQDKCKVKIGRRFSEERDPELSTVCRKSGTLILYPGAEAANLEEFILDSPVYPSTIIIIDGTWSQAKDIFYKNSLFRHPKQVQLKTSISSQYVIRMQPTNRCLSTLECAAVALSILEKNNYIQETLLRPLQALCSFQLQHGAQIRLSKEHLLKNGLYPKPMPKNKRKLRKMELLMNSVKI
+PTM	Methylation:203,236,271,277;Phosphorylation:21,23,25,51,110,132,192,232

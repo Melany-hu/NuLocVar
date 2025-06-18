@@ -1,0 +1,25 @@
+UniprotID	K7ENX1
+Accession	K7ENX1
+EntryName	K7ENX1_HUMAN
+ProteinName	Relaxin 3
+GeneName	RLN3
+Length	109
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARYMLLLLLAVWVLTGELWPGAEARAAPYGVRLCGREFIRAVIFTCGGSRWRRSDILAHEAMEKNIEAPRSKFTCSRLEKLDSCSVSPAPKCTRSSINKERYLPGCRC
+PTM	

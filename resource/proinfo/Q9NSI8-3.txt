@@ -1,0 +1,25 @@
+UniprotID	Q9NSI8-3
+Accession	Q9NSI8;B3KWJ3;F8WAA1;Q8NFF7;Q9C041
+EntryName	SAMN1_HUMAN
+ProteinName	SAM domain-containing protein SAMSN-1 (Hematopoietic adaptor containing SH3 and SAM domains 1) (Nash1) (SAM domain, SH3 domain and nuclear localization signals protein 1) (SH3-SAM adaptor protein)
+GeneName	SAMSN1 HACS1
+Length	441
+Function	Negative regulator of B-cell activation. Down-regulates cell proliferation (in vitro). Promotes RAC1-dependent membrane ruffle formation and reorganization of the actin cytoskeleton. Regulates cell spreading and cell polarization. Stimulates HDAC1 activity. Regulates LYN activity by modulating its tyrosine phosphorylation (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cell projection; Ruffle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEIRLDTLSASLGRSSTLNNCNLEDKLAWYEGEAYMWHHWKPFPENPLWTCLDFQIAQVGPWDHCSSCIRHTRLKSSCSDMDLLHSWRSSSFGNFDRFRNNSLSKPDDSTEAHEGDPTNGSGEQSKTSNNGGGLGKKMRAISWTMKKKVGKKYIKALSEEKDEEDGENAHPYRNSDPVIGTHTEKVSLKASDSMDSLYSGQSSSSGITSCSDGTSNRDSFRLDDDGPYSGPFCGRARVHTDFTPSPYDTDSLKIKKGDIIDIICKTPMGMWTGMLNNKVGNFKFIYVDVISEEEAAPKKIKANRRSNSKKSKTLQEFLERIHLQEYTSTLLLNGYETLEDLKDIKESHLIELNIENPDDRRRLLSAAENFLEEEIIQEQENEPEPLSLSSDISLNKSQLDDCPRDSGCYISSGNSDNGKEDLESENLSDMVHKIIITEPSD
+PTM	Methylation:68;Phosphorylation:21,22,23,34,36,74,90,104,107,119,123,125,128,130,134,160,177,179,223,329,343,344,347,356,372;SUMOylation:3

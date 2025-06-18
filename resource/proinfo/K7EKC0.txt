@@ -1,0 +1,25 @@
+UniprotID	K7EKC0
+Accession	K7EKC0
+EntryName	K7EKC0_HUMAN
+ProteinName	Tubulin polyglutamylase complex subunit 2
+GeneName	TPGS2
+Length	248
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEEASSPGLGCSKPHLEKLTLGITRILESSPGVTEVTIIEKPPAERHMISSWEQKNNCVMPEDVKNFYLMTNGFHMTWSVKLDEHIIPLGSMAINSISKLTQLTQSSMYSLPNAPTLADLEDDTHEASDDQPEKPHFDSRSVIFELDSCNGSGKVCLVYKSGKPALAEDTEIWFLDRALYWHFLTDTFTAYYRLLITHLGLPQWQYAFTSYGISPQAKALLGLFDGSSPPVDLNNPRGRTGIRSRRF
+PTM	

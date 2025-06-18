@@ -1,0 +1,25 @@
+UniprotID	F5H4X5
+Accession	F5H4X5
+EntryName	F5H4X5_HUMAN
+ProteinName	Probable peptide chain release factor C12orf65, mitochondrial
+GeneName	C12orf65
+Length	138
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTVGLFHFPTPLTRICPAPWGLRLWEKLTLLSPGIAVTPVQMAGKKDYPALLSLDENELEEQFVKGHGPGGQATNKTSNCVVLKHIPSGIVVKCHQTRSVDQNRKLARKILQEKVDVFYNGENSPVHKEKREAAKKK
+PTM	

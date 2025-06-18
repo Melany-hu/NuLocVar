@@ -1,0 +1,25 @@
+UniprotID	Q99523-2
+Accession	Q99523;B4DWI3;C0JYZ0;Q8IZ49
+EntryName	SORT_HUMAN
+ProteinName	Sortilin (100 kDa NT receptor) (Glycoprotein 95) (Gp95) (Neurotensin receptor 3) (NT3) (NTR3)
+GeneName	SORT1
+Length	694
+Function	Functions as a sorting receptor in the Golgi compartment and as a clearance receptor on the cell surface. Required for protein transport from the Golgi apparatus to the lysosomes by a pathway that is independent of the mannose-6-phosphate receptor (M6PR). Lysosomal proteins bind specifically to the receptor in the Golgi apparatus and the resulting receptor-ligand complex is transported to an acidic prelysosomal compartment where the low pH mediates the dissociation of the complex (PubMed:16787399). The receptor is then recycled back to the Golgi for another round of trafficking through its binding to the retromer. Also required for protein transport from the Golgi apparatus to the endosomes. Promotes neuronal apoptosis by mediating endocytosis of the proapoptotic precursor forms of BDNF (proBDNF) and NGFB (proNGFB). Also acts as a receptor for neurotensin. May promote mineralization of the extracellular matrix during osteogenic differentiation by scavenging extracellular LPL. Probably required in adipocytes for the formation of specialized storage vesicles containing the glucose transporter SLC2A4/GLUT4 (GLUT4 storage vesicles, or GSVs). These vesicles provide a stable pool of SLC2A4 and confer increased responsiveness to insulin. May also mediate transport from the endoplasmic reticulum to the Golgi.
+Subcellular Location	Golgi apparatus; Golgi stack membrane; Endosome membrane; Endoplasmic reticulum membrane; Nucleus membrane; Cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTFGQSKLYRSEDYGKNFKDITDLINNTFIRTEFGMAIGPENSGKVVLTAEVSGGSRGGRIFRSSDFAKNFVQTDLPFHPLTQMMYSPQNSDYLLALSTENGLWVSKNFGGKWEEIHKAVCLAKWGSDNTIFFTTYANGSCTDLGALELWRTSDLGKSFKTIGVKIYSFGLGGRFLFASVMADKDTTRRIHVSTDQGDTWSMAQLPSVGQEQFYSILAANDDMVFMHVDEPGDTGFGTIFTSDDRGIVYSKSLDRHLYTTTGGETDFTNVTSLRGVYITSVLSEDNSIQTMITFDQGGRWTHLRKPENSECDATAKNKNECSLHIHASYSISQKLNVPMAPLSEPNAVGIVIAHGSVGDAISVMVPDVYISDDGGYSWTKMLEGPHYYTILDSGGIIVAIEHSSRPINVIKFSTDEGQCWQTYTFTRDPIYFTGLASEPGARSMNISIWGFTESFLTSQWVSYTIDFKDILERNCEEKDYTIWLAHSTDPEDYEDGCILGYKEQFLRLRKSSVCQNGRDYVVTKQPSICLCSLEDFLCDFGYYRPENDSKCVEQPELKGHDLEFCLYGREEHLTTNGYRKIPGDKCQGGVNPVREVKDLKKKCTSNFLSPEKQNSKSNSVPIILAIVGLMLVTVVAGVLIVKKYVCGGRFLVHRYSVLQQHAEANGVDGVDALDTASHTNKSGYHDDSDEDLLE
+PTM	Glycosylation:98,99,162,163,406,684;Methylation:193,302,548,722,779;Phosphorylation:742,792,793,812,814,816,819,825;Ubiquitylation:388

@@ -1,0 +1,25 @@
+UniprotID	Q6P1S2-2
+Accession	Q6P1S2;A8K1H5;Q86YE6;Q8IXA7;Q96NB5
+EntryName	CC033_HUMAN
+ProteinName	Protein C3orf33 (Protein AC3-33)
+GeneName	C3orf33 MSTP052
+Length	251
+Function	Secreted protein may play a role in transcription regulation via the MAPK3/MAPK1 pathway through an unidentified receptor on the plasma membrane.
+Subcellular Location	Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAIAGIMLLLRSIRLTSKFTSSSDIPVEFIRRNVKLRGRLRRITENGLEIEHIPITLPIIASLRKEPRGALLVKLAGVELAETGKAWLQKELKPSQLLWFQLLGKENSALFCYLLVSKGGYFSVNLNEEILRRGLGKTVLVKGLKYDSKIYWTVHRNLLKAELTALKKGEGIWKEDSEKESYLEKFKDSWREIWKKDSFLKTTGSDFSLKKESYYEKLKRTYEIWKDNMNNCSLILKFRELISRINFRRKG
+PTM	Methylation:108,117,148,161,180,185,203,244,253;Phosphorylation:241,276;SUMOylation:253;Ubiquitylation:244,253

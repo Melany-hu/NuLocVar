@@ -1,0 +1,25 @@
+UniprotID	H0Y808
+Accession	H0Y808
+EntryName	H0Y808_HUMAN
+ProteinName	Transketolase like 1
+GeneName	TKTL1
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEAQRKLAPSPRCSAVRSWPHCAQGEGCHPTSCSSSSEIMSVLFFYIMRYKQSDPENPDNDRFVLAKRLSFVDVATGWLGQGLGVACGMAYTGKYFDRASYRVFCLMSDGESSEGSVWEAMAFASYYSLDNLVAIFDVNRLGHSGALPAEHCINIYQRRCEAFGWNTYVVDGRDV
+PTM	

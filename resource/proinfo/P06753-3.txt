@@ -1,0 +1,25 @@
+UniprotID	P06753-3
+Accession	P06753;D3DV71;P12324;Q2QD06;Q5VU58;Q5VU63;Q5VU66;Q5VU71;Q5VU72;Q8TCG3;Q969Q2;Q9NQH8
+EntryName	TPM3_HUMAN
+ProteinName	Tropomyosin alpha-3 chain (Gamma-tropomyosin) (Tropomyosin-3) (Tropomyosin-5) (hTM5)
+GeneName	TPM3
+Length	247
+Function	Binds to actin filaments in muscle and non-muscle cells. Plays a central role, in association with the troponin complex, in the calcium dependent regulation of vertebrate striated muscle contraction. Smooth muscle contraction is regulated by interaction with caldesmon. In non-muscle cells is implicated in stabilizing cytoskeleton actin filaments.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGITTIEAVKRKIQVLQQQADDAEERAERLQREVEGERRAREQAEAEVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIENRALKDEEKMELQEIQLKEAKHIAEEADRKYEEVARKLVIIEGDLERTEERAELAESRCREMDEQIRLMDQNLKCLSAAEEKYSQKEDKYEEEIKILTDKLKEAETRAEFAERSVAKLEKTIDDLEERLYSQLERNRLLSNELKLTLHDLCD
+PTM	Acetylation:13,16,113,119,137,141,150,153,162,169,218,221,227,232,234,249,252;Methylation:6,16,60,66,71,77,113,119,150,161,169,179,199,206,214,221,227,265;Phosphorylation:54,61,62,88,109,124,163,189,192,202,207,216,222,238,246,262,283,284;SUMOylation:113,129,137;Ubiquitylation:16,60,66,113,119,129,141,150,169,206,214,221,227,234,249,252,269

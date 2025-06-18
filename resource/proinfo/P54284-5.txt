@@ -1,0 +1,25 @@
+UniprotID	P54284-5
+Accession	P54284;A8K0Z4;B7Z4Q1;B7Z973;B7ZAK8;F5GZW7;F5H2P6;F8VSG3;Q13913
+EntryName	CACB3_HUMAN
+ProteinName	Voltage-dependent L-type calcium channel subunit beta-3 (CAB3) (Calcium channel voltage-dependent subunit beta 3)
+GeneName	CACNB3 CACNLB3
+Length	443
+Function	Regulatory subunit of the voltage-gated calcium channel that gives rise to L-type calcium currents (PubMed:8119293). Increases CACNA1B peak calcium current and shifts the voltage dependencies of channel activation and inactivation (By similarity). Increases CACNA1C peak calcium current and shifts the voltage dependencies of channel activation and inactivation (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYDDSYVPGFEDSEAGSADSYTSRPSLDSDVSLEEDRESARREVESQAQQQLERAKKYSNDWWIGRLVKEGGDIAFIPSPQRLESIRLKQEQKARRSGNPSSLSDIGNRRSPPPSLAKQKQKQAEHVPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFDGRISITRVTADLSLAKRSVLNNPGKRTIIERSSARSSIAEVQSEIERIFELAKSLQLVVLDADTINHPAQLAKTSLAPIIVFVKVSSPKVLQRLIRSRGKSQMKHLTVQMMAYDKLVQCPPESFDVILDENQLEDACEHLAEYLEVYWRATHHPAPGPGLLGPPSAIPGLQNQQLLGERGEEHSPLERDSLMPSDEASESSRQAWTGSSQRSSRHLEEDYADAYQDLYQPHRQHTSGLPSANGHDPQDRLLAQDSEHNHSDRNWQRNRPWPKDSY
+PTM	Acetylation:198;Methylation:205,262,282;Phosphorylation:138,142,143,145,152,156,213,295,296,393

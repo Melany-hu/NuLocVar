@@ -1,0 +1,25 @@
+UniprotID	O95319-4
+Accession	O95319;B7ZAN9;Q7KYU4;Q8N499;Q92950;Q96NW9;Q96RQ5;Q96RQ6;Q9UL67
+EntryName	CELF2_HUMAN
+ProteinName	CUGBP Elav-like family member 2 (CELF-2) (Bruno-like protein 3) (CUG triplet repeat RNA-binding protein 2) (CUG-BP2) (CUG-BP- and ETR-3-like factor 2) (ELAV-type RNA-binding protein 3) (ETR-3) (Neuroblastoma apoptosis-related RNA-binding protein) (hNAPOR) (RNA-binding protein BRUNOL-3)
+GeneName	CELF2 BRUNOL3 CUGBP2 ETR3 NAPOR
+Length	509
+Function	RNA-binding protein implicated in the regulation of several post-transcriptional events. Involved in pre-mRNA alternative splicing, mRNA translation and stability. Mediates exon inclusion and/or exclusion in pre-mRNA that are subject to tissue-specific and developmentally regulated alternative splicing. Specifically activates exon 5 inclusion of TNNT2 in embryonic, but not adult, skeletal muscle. Activates TNNT2 exon 5 inclusion by antagonizing the repressive effect of PTB. Acts both as an activator and as a repressor of a pair of coregulated exons: promotes inclusion of the smooth muscle (SM) exon but exclusion of the non-muscle (NM) exon in actinin pre-mRNAs. Promotes inclusion of exonS 21 and exclusion of exon 5 of the NMDA receptor R1 pre-mRNA. Involved in the apoB RNA editing activity. Increases COX2 mRNA stability and inhibits COX2 mRNA translation in epithelial cells after radiation injury (By similarity). Modulates the cellular apoptosis program by regulating COX2-mediated prostaglandin E2 (PGE2) expression (By similarity). Binds to (CUG)n triplet repeats in the 3'-UTR of transcripts such as DMPK. Binds to the muscle-specific splicing enhancer (MSE) intronic sites flanking the TNNT2 alternative exon 5. Binds preferentially to UG-rich sequences, in particular UG repeat and UGUU motifs. Binds to apoB mRNA, specifically to AU-rich sequences located immediately upstream of the edited cytidine. Binds AU-rich sequences in the 3'-UTR of COX2 mRNA (By similarity). Binds to an intronic RNA element responsible for the silencing of exon 21 splicing (By similarity). Binds to (CUG)n repeats (By similarity). May be a specific regulator of miRNA biogenesis. Binds to primary microRNA pri-MIR140 and, with CELF1, negatively regulates the processing to mature miRNA (PubMed:28431233).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMVEGRLLVPDRINGTANKMNGALDHSDQPDPDAIKMFVGQIPRSWSEKELKELFEPYGAVYQINVLRDRSQNPPQSKGCCFVTFYTRKAALEAQNALHNIKTLPGMHHPIQMKPADSEKSNAVEDRKLFIGMVSKKCNENDIRVMFSPFGQIEECRILRGPDGLSRGCAFVTFSTRAMAQNAIKAMHQSQTMEGCSSPIVVKFADTQKDKEQRRLQQQLAQQMQQLNTATWGNLTGLGGLTPQYLALLQQATSSSNLGAFSGIQQMAGMNALQLQNLATLAAAAAAAQTSATSTNANPLSTTSSALGALTSPVAASTPNSTAGAAMNSLTSLGTLQGLAGATVGLNNINALAVAQMLSGMAALNGGLGATGLTNGTAGTMDALTQAYSGIQQYAAAALPTLYSQSLLQQQSAAGSQKEGPEGANLFIYHLPQEFGDQDILQMFMPFGNVISAKVFIDKQTNLSKCFGFVSYDNPVSAQAAIQAMNGFQIGMKRLKVQLKRSKNDSKPY
+PTM	Acetylation:141,458;Methylation:41,165,182,190,208,216;Phosphorylation:32,63;Ubiquitylation:83,94,458,506

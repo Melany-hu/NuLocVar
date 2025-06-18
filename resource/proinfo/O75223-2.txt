@@ -1,0 +1,25 @@
+UniprotID	O75223-2
+Accession	O75223;B2RDN0;B8ZZN4;B8ZZR8;Q9BS37
+EntryName	GGCT_HUMAN
+ProteinName	Gamma-glutamylcyclotransferase (EC 4.3.2.9) (Cytochrome c-releasing factor 21)
+GeneName	GGCT C7orf24 CRF21
+Length	114
+Function	Catalyzes the formation of 5-oxoproline from gamma-glutamyl dipeptides and may play a significant role in glutathione homeostasis (PubMed:18515354). Induces release of cytochrome c from mitochondria with resultant induction of apoptosis (PubMed:16765912).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANSGCKDVTGPDEESFLYFAYGSNLLTERIHLRNPSAAFFCVARLQDFKLDFGNSQGKTSQTWHGGIATIFQSPGDEVWGVVWKMNKSNLNSLDELFAWVQKKMVCRWSIKRS
+PTM	Acetylation:50,118;Methylation:101,111;Phosphorylation:37,56,93,130,132,136,139,173;Ubiquitylation:118,140,141

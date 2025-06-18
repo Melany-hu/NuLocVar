@@ -1,0 +1,25 @@
+UniprotID	Q13057-2
+Accession	Q13057;B2RA78;B4DLU0;Q6GS23;Q8NBM7;Q8NEW1;Q8WXD4;Q9NRM3
+EntryName	COASY_HUMAN
+ProteinName	Bifunctional coenzyme A synthase (CoA synthase) (NBP) (POV-2) [Includes: Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (Dephospho-CoA pyrophosphorylase) (Pantetheine-phosphate adenylyltransferase) (PPAT); Dephospho-CoA kinase (DPCK) (EC 2.7.1.24) (Dephosphocoenzyme A kinase) (DPCOAK)]
+GeneName	COASY PSEC0106
+Length	593
+Function	Bifunctional enzyme that catalyzes the fourth and fifth sequential steps of CoA biosynthetic pathway. The fourth reaction is catalyzed by the phosphopantetheine adenylyltransferase, coded by the coaD domain; the fifth reaction is catalyzed by the dephospho-CoA kinase, coded by the coaE domain. May act as a point of CoA biosynthesis regulation.
+Subcellular Location	Cytoplasm; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTPRLRAQPRGAVYQAPSPPPAPVGLGSMAVFRSGLLVLTTPLASLAPRLASILTSAARLVNHTLYVHLQPGMSLEGPAQPQSSPVQATFEVLDFITHLYAGADVHRHLDVRILLTNIRTKSTFLPPLPTSVQNLAHPPEVVLTDFQTLDGSQYNPVKQQLVRYATSCYSCCPRLASVLLYSDYGIGEVPVEPLDVPLPSTIRPASPVAGSPKQPVRGYYRGAVGGTFDRLHNAHKVLLSVACILAQEQLVVGVADKDLLKSKLLPELLQPYTERVEHLSEFLVDIKPSLTFDVIPLLDPYGPAGSDPSLEFLVVSEETYRGGMAINRFRLENDLEELALYQIQLLKDLRHTENEEDKVSSSSFRQRMLGNLLRPPYERPELPTCLYVIGLTGISGSGKSSIAQRLKGLGAFVIDSDHLGHRAYAPGGPAYQPVVEAFGTDILHKDGIINRKVLGSRVFGNKKQLKILTDIMWPIIAKLAREEMDRAVAEGKRVCVIDAAVLLEAGWQNLVHEVWTAVIPETEAVRRIVERDGLSEAAAQSRLQSQMSGQQLVEQSHVVLSTLWEPHITQRQVEKAWALLQKRIPKTHQALD
+PTM	Acetylation:319,554;Methylation:229,233,259,319,379,450,547;Phosphorylation:17,24,28,149,153,154,172,173,178,183,234,288,313,335,507,513;SUMOylation:424,435;Ubiquitylation:417,547

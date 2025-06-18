@@ -1,0 +1,25 @@
+UniprotID	A0A3G2LR19
+Accession	A0A3G2LR19
+EntryName	A0A3G2LR19_HUMAN
+ProteinName	Glycophorin B
+GeneName	GYPB
+Length	78
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYGKIIFVLLLSEIVSISALSTTEVAMHTSTSSSVTKSYISSQTNAPVVIILIILCVMAGIIGTILLISYSIRRLIKA
+PTM	

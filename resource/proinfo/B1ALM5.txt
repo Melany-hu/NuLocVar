@@ -1,0 +1,25 @@
+UniprotID	B1ALM5
+Accession	B1ALM5
+EntryName	B1ALM5_HUMAN
+ProteinName	Transmembrane protein 9
+GeneName	TMEM9
+Length	186
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLLSLVAVVGCLLVPPAEANKVRESSEDIRCKCICPPYRNISGHIYNQNVSQKDCNCLHVVEPMPVPGHDVEAYCLLCECRYEERSTTTIKVIIVIYLSVVGALLLYMAFLMLVDPLIRKPDAYTEQLHNEEENEDARSMAAAAASLGGPRANTVLERVEGAQQRWKLQVQEQRKTVFDRHKMLS
+PTM	

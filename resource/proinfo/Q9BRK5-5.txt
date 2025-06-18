@@ -1,0 +1,25 @@
+UniprotID	Q9BRK5-5
+Accession	Q9BRK5;B1AME5;B1AME6;B2RDF1;B4DSM1;Q53G52;Q53HQ9;Q8NBQ3;Q96AA1;Q9NZP7;Q9UN53
+EntryName	CAB45_HUMAN
+ProteinName	45 kDa calcium-binding protein (Cab45) (Stromal cell-derived factor 4) (SDF-4)
+GeneName	SDF4 CAB45 PSEC0034
+Length	130
+Function	May regulate calcium-dependent activities in the endoplasmic reticulum lumen or post-ER compartment.
+Subcellular Location	Golgi apparatus lumen; Cytoplasm; Cell membrane; Cell projection; Bleb
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRFMVKEIVRDLDQDGDKQLSVPEFISLPVGTVENQQGQDIDDNWVKDRKKEFEELIDSNHDGIVTAEELESYMDPMNEYNALNEAKQMIAVADENQNHHLEPEEVLKYSEFFTGSKLVDYARSVHEEF
+PTM	Acetylation:121,130,143,163;Glycosylation:342,343,347,357;Methylation:66,85,143,188,201,341;Phosphorylation:108,131,173,193,265,354,357;SUMOylation:66,85,109,143,163,170,188,201,239,280,341;Ubiquitylation:85,121,143,163,165,170,175,201,239

@@ -1,0 +1,25 @@
+UniprotID	F5H686
+Accession	F5H686
+EntryName	F5H686_HUMAN
+ProteinName	small monomeric GTPase (EC 3.6.5.2)
+GeneName	RERGL
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNDVKLAVLGGEGTGKSALTVRFLTKRFIGEYASNFESIYKKHLCLERKQLNLEIYDPCSQTQKAKFSLTSELHWADGFVIVYDISDRSSFAFAKALIYRIREPQTSHCKRAVESAVFLVGNKRDLCHVREVGWEEGQKLALENRCQFCELSAAEQSLEVEMMFIRIIKDILINFKLKEKRRPSGSKSMAKLINNVFGKRRKSV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q86YD3-3
+Accession	Q86YD3;A8K8J4;B0YJA6;B0YJA7;B0YJA9;G5E9U4;Q6UW89;Q86UA7;Q8NBL5;Q96KA6;Q96MW9
+EntryName	TMM25_HUMAN
+ProteinName	Transmembrane protein 25
+GeneName	TMEM25 UNQ2531/PRO6030
+Length	218
+Function	In neurons, modulates the degradation of NMDA receptor GRIN2B subunit. Plays a role in the regulation of neuronal excitability.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Secreted; Late endosome; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALPPGPAALRHTLLLLPALLSSVKPEIAQVGAKYQEAQGPGLLVVLFALVRANPPANVTWIDQDGPVTVNTSDFLVLDAQNYPWLTNHTVQLQLRSLAHNLSVVATNDVGVTSASLPAPGPSRHPSLISSDSNNLKLNNVRLPRENMSLPSNLQLNDLTPDSRAVKPADRQMAQNNSRPELLDPEPGGLLTSQGFIRLPVLGYIYRVSSVSSDEIWL
+PTM	Methylation:285;Phosphorylation:271,275,281

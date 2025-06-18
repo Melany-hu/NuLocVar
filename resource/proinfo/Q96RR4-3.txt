@@ -1,0 +1,25 @@
+UniprotID	Q96RR4-3
+Accession	Q96RR4;A8K7Q7;O94883;Q8IUG2;Q8IUG3;Q8N3I4;Q8WY03;Q8WY04;Q8WY05;Q8WY06;Q96RP1;Q96RP2;Q96RR3;Q9BWE9;Q9UER3;Q9UES2;Q9Y5N2
+EntryName	KKCC2_HUMAN
+ProteinName	Calcium/calmodulin-dependent protein kinase kinase 2 (CaM-KK 2) (CaM-kinase kinase 2) (CaMKK 2) (EC 2.7.11.17) (Calcium/calmodulin-dependent protein kinase kinase beta) (CaM-KK beta) (CaM-kinase kinase beta) (CaMKK beta)
+GeneName	CAMKK2 CAMKKB KIAA0787
+Length	541
+Function	Calcium/calmodulin-dependent protein kinase belonging to a proposed calcium-triggered signaling cascade involved in a number of cellular processes. Isoform 1, isoform 2 and isoform 3 phosphorylate CAMK1 and CAMK4. Isoform 3 phosphorylates CAMK1D. Isoform 4, isoform 5 and isoform 6 lacking part of the calmodulin-binding domain are inactive. Efficiently phosphorylates 5'-AMP-activated protein kinase (AMPK) trimer, including that consisting of PRKAA1, PRKAB1 and PRKAG1. This phosphorylation is stimulated in response to Ca(2+) signals (By similarity). Seems to be involved in hippocampal activation of CREB1 (By similarity). May play a role in neurite growth. Isoform 3 may promote neurite elongation, while isoform 1 may promoter neurite branching.
+Subcellular Location	Nucleus; Cytoplasm; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSCVSSQPSSNRAAPQDELGGRGSSSSESQKPCEALRGLSSLSIHLGMESFIVVTECEPGCAVDLGLARDRPLEADGQEVPLDTSGSQARPHLSGRKLSLQERSQGGLAAGGSLDMNGRCICPSLPYSPVSSPQSSPRLPRRPTVESHHVSITGMQDCVQLNQYTLKDEIGKGSYGVVKLAYNENDNTYYAMKVLSKKKLIRQAGFPRRPPPRGTRPAPGGCIQPRGPIEQVYQEIAILKKLDHPNVVKLVEVLDDPNEDHLYMVFELVNQGPVMEVPTLKPLSEDQARFYFQDLIKGIEYLHYQKIIHRDIKPSNLLVGEDGHIKIADFGVSNEFKGSDALLSNTVGTPAFMAPESLSETRKIFSGKALDVWAMGVTLYCFVFGQCPFMDERIMCLHSKIKSQALEFPDQPDIAEDLKDLITRMLDKNPESRIVVPEIKLHPWVTRHGAEPLPSEDENCTLVEVTEEEVENSVKHIPSLATVILVKTMIRKRSFGNPFEGSRREERSLSAPGNLLTKQGSEDNLQGTDPPPVGEEEVLL
+PTM	Methylation:98,241,250,298,488,519;Phosphorylation:85,88,95,100,114,125,128,129,132,133,136,137,145,148,190,495,503,509,511,559,572;SUMOylation:168,314,403,420;Ubiquitylation:194,241,242,401,403,420

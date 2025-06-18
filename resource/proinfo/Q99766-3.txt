@@ -1,0 +1,25 @@
+UniprotID	Q99766-3
+Accession	Q99766;A0A2R8YDJ1;A0A5K1VW60;A8K1U3;D9N156;Q8WWX3;Q96F77
+EntryName	ATP5S_HUMAN
+ProteinName	ATP synthase subunit s, mitochondrial (ATP synthase-coupling factor B) (FB) (Distal membrane arm assembly complex 2-like protein) (Mitochondrial ATP synthase regulatory component factor B)
+GeneName	DMAC2L ATP5S ATPW
+Length	112
+Function	Involved in regulation of mitochondrial membrane ATP synthase. Necessary for H(+) conduction of ATP synthase. Facilitates energy-driven catalysis of ATP synthesis by blocking a proton leak through an alternative proton exit pathway.
+Subcellular Location	Mitochondrion; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMPFGKISQQLCGVKKLPWSCDSRYFWGWLNAVFNKVDYDRIRDVGPDRAASEWLLRCGAMVRYHGQERWQKDYNHLPTGPLDKYKIQAIDATDSCIMSIGFDHMETSNICC
+PTM	Acetylation:99;Methylation:153;SUMOylation:153

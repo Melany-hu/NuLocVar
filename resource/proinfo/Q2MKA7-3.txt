@@ -1,0 +1,25 @@
+UniprotID	Q2MKA7-3
+Accession	Q2MKA7;A2A420;Q0H8S6;Q14C72;Q5T0F2;Q8N7L5
+EntryName	RSPO1_HUMAN
+ProteinName	R-spondin-1 (Roof plate-specific spondin-1) (hRspo1)
+GeneName	RSPO1
+Length	200
+Function	Activator of the canonical Wnt signaling pathway by acting as a ligand for LGR4-6 receptors (PubMed:29769720). Upon binding to LGR4-6 (LGR4, LGR5 or LGR6), LGR4-6 associate with phosphorylated LRP6 and frizzled receptors that are activated by extracellular Wnt receptors, triggering the canonical Wnt signaling pathway to increase expression of target genes. Also regulates the canonical Wnt/beta-catenin-dependent pathway and non-canonical Wnt signaling by acting as an inhibitor of ZNRF3, an important regulator of the Wnt signaling pathway. Acts as a ligand for frizzled FZD8 and LRP6. May negatively regulate the TGF-beta pathway. Has a essential roles in ovary determination. Regulates Wnt signaling by antagonizing DKK1/KREM1-mediated internalization of LRP6 through an interaction with KREM1 (PubMed:17804805).
+Subcellular Location	Secreted; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	149...153
+validnes_region	
+nesbase_region	
+Sequence	MRLGLCVVALVLSWTHLTISSRGIKGKRQRRISAEGSQACAKGCELCSEVNGCLKCSPKLFILLERNDIRQVGVCLPSCPPGYFDARNPDMNKCIKCKIEHCEACFSHNFCTKCKEGLYLHKGRCYPACPEGSSAANGTMECSSPGQKRRKGGQGRRENANRNLARKESKEAGAGSRRRKGQQQQQQQGTVGPLTSAGPA
+PTM	

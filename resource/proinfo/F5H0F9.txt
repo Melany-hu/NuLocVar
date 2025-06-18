@@ -1,0 +1,25 @@
+UniprotID	F5H0F9
+Accession	F5H0F9
+EntryName	F5H0F9_HUMAN
+ProteinName	Anaphase-promoting complex subunit 5 (Cyclosome subunit 5)
+GeneName	ANAPC5
+Length	742
+Function	Component of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated E3 ubiquitin ligase that controls progression through mitosis and the G1 phase of the cell cycle. The APC/C complex acts by mediating ubiquitination and subsequent degradation of target proteins: it mainly mediates the formation of 'Lys-11'-linked polyubiquitin chains and, to a lower extent, the formation of 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains. The APC/C complex catalyzes assembly of branched 'Lys-11'-/'Lys-48'-linked branched ubiquitin chains on target proteins.
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVHESLYFNPMMTNGVVHANVFGIKDWVTPYKIAVLVLLNEMSRTGEGAVSLMERRRLNQLLLPLLQGPDITLSKLYKLIEESCPQLANSVQIRIKLMAEGELKDMEQFFDDLSDSFSGTEPEVHKTSVVGLFLRHMILAYSKLSFSQVFKLYTALQQYFQNGEKKTVEDADMELTSRDEGERKMEKEELDVSVREEEVSCSGPLSQKQAEFFLSQQASLLKNDETKALTPASLQKELNNLLKFNPDFAEAHYLSYLNNLRVQDVFSSTHSLLHYFDRLILTGAESKSNGEEGYGRSLRYAALNLAALHCRFGHYQQAELALQEAIRIAQESNDHVCLQHCLSWLYVLGQKRSDSYVLLEHSVKKAVHFGLPRAFAGKTANKLMDALKDSDLLHWKHSLSELIDISIAQKTAIWRLYGRSTMALQQAQMLLSMNSLEAVNAGVQQNNTESFAVALCHLAELHAEQGCFAAASEVLKHLKERFPPNSQHAQLWMLCDQKIQFDRAMNDGKYHLADSLVTGITALNSIEGVYRKAVVLQAQNQMSEAHKLLQKLLVHCQKLKNTEMVISVLLSVAELYWRSSSPTIALPMLLQALALSKEYRLQYLASETVLNLAFAQLILGIPEQALSLLHMAIEPILADGAILDKGRAMFLVAKCQVASAASYDQPKKAEALEAAIENLNEAKNYFAKVDCKERIRDVVYFQARLYHTLGKTQERNRCAMLFRQLHQELPSHGVPLINHL
+PTM	

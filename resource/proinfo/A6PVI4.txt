@@ -1,0 +1,25 @@
+UniprotID	A6PVI4
+Accession	A6PVI4
+EntryName	A6PVI4_HUMAN
+ProteinName	Midline 2
+GeneName	MID2
+Length	218
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METLESELTCPICLELFEDPLLLPCAHSLCFSCAHRILVSSCSSGESIEPITAFQCPTCRYVISLNHRGLDGLKRNVTLQNIIDRFQKASVSGPNSPSESRRERTYRPTTAMSSERIACQFCEQDPPRDAVKTCITCEVSYCDRCLRATHPNKKPFTSHRLVEPVPDTHLRGITCLDHENEKVNMYCVSDDQLICALCKLVGRHRDHQVASLNDRFEK
+PTM	

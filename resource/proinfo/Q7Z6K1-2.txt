@@ -1,0 +1,25 @@
+UniprotID	Q7Z6K1-2
+Accession	Q7Z6K1
+EntryName	THAP5_HUMAN
+ProteinName	THAP domain-containing protein 5
+GeneName	THAP5
+Length	353
+Function	Has sequence-specific DNA-binding activity and can function as transcriptional repressor (in vitro) (PubMed:21110952). May be a regulator of cell cycle: THAP5 overexpression in human cell lines causes cell cycle arrest at G2/M phase (PubMed:19502560).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	52...57
+validnes_region	
+nesbase_region	
+Sequence	MKRDSWVPSKYQFLCSDHFTPDSLDIRWGIRYLKQTAVPTIFSLPEDNQGKDPSKKKSQKKNLEDEKEVCPKAKSEESFVLNETKKNIVNTDVPHQHPELLHSSSLVKPPAPKTGSIQNNMLTLNLVKQHTGKPESTLETSVNQDTGRGGFHTCFENLNSTTITLTTSNSESIHQSLETQEVLEVTTSHLANPNFTSNSMEIKSAQENPFLFSTINQTVEELNTNKESVIAIFVPAENSKPSVNSFISAQKETTEMEDTDIEDSLYKDVDYGTEVLQIEHSYCRQDINKEHLWQKVSKLHSKITLLELKEQQTLGRLKSLEALIRQLKQENWLSEENVKIIENHFTTYEVTMI
+PTM	Methylation:170,331,351;Phosphorylation:346;SUMOylation:22,33,52,76,93,103,109,116,127,128,150,170,175,282,293,309,331,337,344,351,360,370;Ubiquitylation:331,351

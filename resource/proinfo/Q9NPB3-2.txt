@@ -1,0 +1,25 @@
+UniprotID	Q9NPB3-2
+Accession	Q9NPB3
+EntryName	CABP2_HUMAN
+ProteinName	Calcium-binding protein 2 (CaBP2)
+GeneName	CABP2
+Length	163
+Function	Required for sound encoding at inner hair cells (IHCs) synapses, likely via inhibition of the inactivation of voltage-gated calcium channel of type 1.3 (Cav1.3) in the IHCs (PubMed:28183797). Required for the normal transfer of light signals through the retina (By similarity).
+Subcellular Location	Cytoplasm; Perinuclear region; Cell membrane; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNCAKRPWRRGPKDRELRPEEIEELQVAFQEFDRDRDGYIGCRELGACMRTLGYMPTEMELIEISQQISGGKVDFEDFVELMGPKLLAETADMIGVRELRDAFREFDTNGDGRISVGELRAALKALLGERLSQREVDEILQDVDLNGDGLVDFEEFVRMMSR
+PTM	Methylation:63,73;Phosphorylation:33,34

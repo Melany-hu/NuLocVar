@@ -1,0 +1,25 @@
+UniprotID	A0A804HJJ6
+Accession	A0A804HJJ6
+EntryName	A0A804HJJ6_HUMAN
+ProteinName	Hepatocyte nuclear factor 4 alpha
+GeneName	HNF4A
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DMDMADYSAALDPAYTTLEFENVQTRPHQKAPTSTRPTAWVSAPCVPSAGTGPRANTTVPRAVTAARASSGGACGRTTCTPADLAGSAWWTKTRGTSAATAGSRNASGLA
+PTM	

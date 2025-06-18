@@ -1,0 +1,25 @@
+UniprotID	C9W8M7
+Accession	C9W8M7
+EntryName	C9W8M7_HUMAN
+ProteinName	Testis highly expressed protein 5
+GeneName	THEG5
+Length	148
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMHLSGVNADSNSMATFTLSFIVAVNAPFLSFSPLKIREHAGLSCARHSIPHMVDEGGCGSDGSTAVHPGGWTCVPGYQSLRLTSPHVHAALPLAVSTFWVSLKDFTGADFTKAKLFLKEVDMKDLKSGLLKKSKHRLMTYLHPTRF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5JZY3-2
+Accession	Q5JZY3;A4FU89;J3KPB5;Q6NW42
+EntryName	EPHAA_HUMAN
+ProteinName	Ephrin type-A receptor 10 (EC 2.7.10.1)
+GeneName	EPHA10
+Length	295
+Function	Receptor for members of the ephrin-A family. Binds to EFNA3, EFNA4 and EFNA5.
+Subcellular Location	Cell membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METCAGPHPLRLFLCRMQLCLALLLGPWRPGTAEEVILLDSKASQAELGWTALPSNGWEEISGVDEHDRPIRTYQVCNVLEPNQDNWLQTGWISRGRGQRIFVELQFTLRDCSSIPGAAGTCKETFNVYYLETEADLGRGRPRLGGSRPRKIDTIAADESFTQGDLGERKMKLNTEVREIGPLSRRGFHLAFQDVGACVALVSVRVYYKQCRATVRGLATFPATAAESAFSTLVEVAGTCVAHSEGEPGSPPRMHCGADGEWLVPVGRCSCSAGFQERGDFCEGIQLAGGRGVGV
+PTM	Methylation:520,643,785,857,902;Phosphorylation:108,147,473,787,898

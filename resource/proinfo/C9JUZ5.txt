@@ -1,0 +1,25 @@
+UniprotID	C9JUZ5
+Accession	C9JUZ5
+EntryName	C9JUZ5_HUMAN
+ProteinName	Peroxisomal biogenesis factor 5 like
+GeneName	PEX5L
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDSEMDGRTHIPSLLNALLSRNRVMQMSYLKSKEQGYGKLSSDEDLEIIVDQKQGKGSRAADKAVAMVMKEIPREESAEEKPLLTMTSQLVNEQQESRPLLSPSIDDFLCETKSEAIARPVTSNTAVLTTGLDLLDLSEPVSQTQTKAKKSEPSSKTSSLKKKADGSDLISTDAEQRGQPLRVPETSSLDLDIQTQLEKWDD
+PTM	

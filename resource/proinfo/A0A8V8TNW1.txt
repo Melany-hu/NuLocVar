@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TNW1
+Accession	A0A8V8TNW1
+EntryName	A0A8V8TNW1_HUMAN
+ProteinName	PMS1 homolog 2, mismatch repair system component
+GeneName	PMS2
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKLSRKPPTPAPEGPQSACSSYFPHYLCAIRNFKGILRSRHPCKLHQSAWTRKTTACGMHRWKPQHKGKYRLCVWAEAVAKPHSFCSAAP
+PTM	

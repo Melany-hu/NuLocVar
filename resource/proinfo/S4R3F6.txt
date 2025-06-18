@@ -1,0 +1,25 @@
+UniprotID	S4R3F6
+Accession	S4R3F6
+EntryName	S4R3F6_HUMAN
+ProteinName	Clathrin light chain A
+GeneName	CLTA
+Length	64
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AQQESEIAGIENDEAFAILDGGAPGPQPHGEPPGGPDAVDGVMNGEYYQMPILGSKKQSGKKRQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P40818-2
+Accession	P40818;B4DKA8;Q2TB31;Q7Z3U2;Q86VA0;Q8IWI7
+EntryName	UBP8_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12) (Deubiquitinating enzyme 8) (Ubiquitin isopeptidase Y) (hUBPy) (Ubiquitin thioesterase 8) (Ubiquitin-specific-processing protease 8)
+GeneName	USP8 KIAA0055 UBPY
+Length	1012
+Function	Hydrolase that can remove conjugated ubiquitin from proteins and therefore plays an important regulatory role at the level of protein turnover by preventing degradation. Converts both 'Lys-48' an 'Lys-63'-linked ubiquitin chains. Catalytic activity is enhanced in the M phase. Involved in cell proliferation. Required to enter into S phase in response to serum stimulation. May regulate T-cell anergy mediated by RNF128 via the formation of a complex containing RNF128 and OTUB1. Probably regulates the stability of STAM2 and RASGRF1. Regulates endosomal ubiquitin dynamics, cargo sorting, membrane traffic at early endosomes, and maintenance of ESCRT-0 stability. The level of protein ubiquitination on endosomes is essential for maintaining the morphology of the organelle. Deubiquitinates EPS15 and controls tyrosine kinase stability. Removes conjugated ubiquitin from EGFR thus regulating EGFR degradation and downstream MAPK signaling. Involved in acrosome biogenesis through interaction with the spermatid ESCRT-0 complex and microtubules. Deubiquitinates BIRC6/bruce and KIF23/MKLP1. Deubiquitinates BACE1 which inhibits BACE1 lysosomal degradation and modulates BACE-mediated APP cleavage and amyloid-beta formation (PubMed:27302062).
+Subcellular Location	Cytoplasm; Nucleus; Endosome membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAVASVPKELYLSSSLKDLNKKTEVKPEKISTKRYEEAEVRKKLEEKDRQEEAQRLQQKRQETGREDGGTLAKGSLENVLDSKDKTQKSNGEKNEKCETKEKGAITAKELYTMMTDKNISLIIMDARRMQDYQDSCILHSLSVPEEAISPGVTASWIEAHLPDDSKDTWKKRGNVEYVVLLDWFSSAKDLQIGTTLRSLKDALFKWESKTVLRNEPLVLEGGYENWLLCYPQYTTNAKVTPPPRRQNEEVSISLDFTYPSLEESIPSKPAAQTPPASIEVDENIELISGQNERMGPLNISTPVEPVAASKSDVSPIIQPVPSIKNVPQIDRTKKPAVKLPEEHRIKSESTNHEQQSPQSGKVIPDRSTKPVVFSPTLMLTDEEKARIHAETALLMEKNKQEKELRERQQEEQKEKLRKEEQEQKAKKKQEAEENEITEKQQKAKEEMEKKESEQAKKEDKETSAKRGKEITGVKRQSKSEHETSDAKKSVEDRGKRCPTPEIQKKSTGDVPHTSVTGDSGSGKAQREPLTRARSEEMGRIVPGLPSGWAKFLDPITGTFRYYHSPTNTVHMYPPEMAPSSAPPSTPPTHKAKPQIPAERDREPSKLKRSYSSPDITQAIQEEEKRKPTVTPTVNRENKPTCYPKAEISRLSASQIRNLNPVFGGSGPALTGLRNLGNTCYMNSILQCLCNAPHLADYFNRNCYQDDINRSNLLGHKGEVAEEFGIIMKALWTGQYRYISPKDFKITIGKINDQFAGYSQQDSQELLLFLMDGLHEDLNKADNRKRYKEENNDHLDDFKAAEHAWQKHKQLNESIIVALFQGQFKSTVQCLTCHKKSRTFEAFMYLSLPLASTSKCTLQDCLRLFSKEEKLTDNNRFYCSHCRARRDSLKKIEIWKLPPVLLVHLKRFSYDGRWKQKLQTSVDFPLENLDLSQYVIGPKNNLKKYNLFSVSNHYGGLDGGHYTAYCKNAARQRWFKFDDHEVSDISVSSVKSSAAYILFYTSLGPRVTDVAT
+PTM	Acetylation:601,941;Methylation:22,42,74,517,582,848,886,1012,1049;Phosphorylation:6,14,15,141,148,153,160,177,288,318,342,345,351,378,379,389,392,400,434,445,446,452,454,458,577,584,591,594,597,599,618,637,641,653,668,671,675,686,691,692,695,711,716,717,718,719,723,737,777,844,846,951,958,959,972,1051,1060,1071;SUMOylation:424,997

@@ -1,0 +1,25 @@
+UniprotID	Q8IWV1-2
+Accession	Q8IWV1;B7Z744;J3KP69;Q6NSZ6;Q9NXB4
+EntryName	LAX1_HUMAN
+ProteinName	Lymphocyte transmembrane adapter 1 (Linker for activation of X cells) (Membrane-associated adapter protein LAX)
+GeneName	LAX1 LAX
+Length	322
+Function	Negatively regulates TCR (T-cell antigen receptor)-mediated signaling in T-cells and BCR (B-cell antigen receptor)-mediated signaling in B-cells.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLLTLPQTRQRAKNIYDILPWRQEDLGRHESRSMRIFSTESLLSRNSESPEHVPSQAGNAFQEHTAHIHATEYAVGIYDNAMVPQMCGNLTPSAHCINVRASRDCASISSEDSHDYVNVPTAEEIAETLASTKSPSRNLFVLPSTQKLEFTEERDEGCGDAGDCTSLYSPGAEDSDSLSNGEGSSQISNDYVNMTGLDLSAIQERQLWVAFQCCRDYENVPAADPSGSQQQAEKDVPSSNIGHVEDKTDDPGTHVQCVKRTFLASGDYADFQPFTQSEDSQMKHREEMSNEDSSDYENVLTAKLGGRDSEQGPGTQLLPDE
+PTM	Methylation:324;Phosphorylation:93,115,118,121,294,373

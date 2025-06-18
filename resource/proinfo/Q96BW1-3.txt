@@ -1,0 +1,25 @@
+UniprotID	Q96BW1-3
+Accession	Q96BW1;Q5JRL1;Q5JRL3;Q68DN0;Q96MW2
+EntryName	UPP_HUMAN
+ProteinName	Uracil phosphoribosyltransferase homolog
+GeneName	UPRT
+Length	167
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNDQIRELQTIIRDKTASRGDFMFSADRLIRLVVEEGLNQLPYKECMVTTPTGYKYEGVKFEKGNCGVSIMRSGEAMEQGLRDCCRSIRIGKILIQSDEETQRAKVYYAKFPPDIYRRKVLLMYPILSTGNTVIEAVKVLIEHGVQPSVIILLSLFSTPHGEFSMRQ
+PTM	Methylation:174;Phosphorylation:124,130

@@ -1,0 +1,25 @@
+UniprotID	Q7Z4L9-2
+Accession	Q7Z4L9;G3V118
+EntryName	PPR42_HUMAN
+ProteinName	Protein phosphatase 1 regulatory subunit 42 (Leucine-rich repeat-containing protein 67)
+GeneName	PPP1R42 LRRC67
+Length	228
+Function	Regulates phosphatase activity of protein phosphatase 1 (PP1) complexes in the testis.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRLTLDLIARNSNLKPRKEETISQCLKKITHINFSDKNIDAIEDLSLCKNLSVLYLYDNCISQITNLNYATNLTHLYLQNNCISCIENLRSLKKLEKLYLGGNYIAVIEGLEGLGELRELHVENQRLPLGEKLLFDPRTLHSLAKSLCILNISNNNIDDITDLELLENLNQLIAVDNQLLHVKDLEFLLNKLMKLWKIDLNGNPVCLKPKYRDRLILVSKSLGTYLY
+PTM	Methylation:192,209,221,271

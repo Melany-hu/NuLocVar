@@ -1,0 +1,25 @@
+UniprotID	O43663-3
+Accession	O43663;A6NC44;B4DLR1;H9KV59;Q9BSB6
+EntryName	PRC1_HUMAN
+ProteinName	Protein regulator of cytokinesis 1
+GeneName	PRC1
+Length	525
+Function	Key regulator of cytokinesis that cross-links antiparrallel microtubules at an average distance of 35 nM. Essential for controlling the spatiotemporal formation of the midzone and successful cytokinesis. Required for KIF14 localization to the central spindle and midbody. Required to recruit PLK1 to the spindle. Stimulates PLK1 phosphorylation of RACGAP1 to allow recruitment of ECT2 to the central spindle. Acts as an oncogene for promoting bladder cancer cells proliferation, apoptosis inhibition and carcinogenic progression (PubMed:17409436).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Spindle pole; Midbody; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRSEVLAEESIVCLQKALNHLREIWELIGIPEDQRLQRTEVVKKHIKEEGETTILQLEKDLRTQVELMRKQKKERKQELKLLQEQDQELCEILCMPHYDIDSASVPSLEELNQFRQHVTTLRETKASRREEFVSIKRQIILCMEALDHTPDTSFERDVVCEDEDAFCLSLENIATLQKLLRQLEMQKSQNEAVCEGLRTQIRELWDRLQIPEEEREAVATIMSGSKAKVRKALQLEVDRLEELKMQNMKKVIEAIRVELVQYWDQCFYSQEQRQAFAPFCAEDYTESLLQLHDAEIVRLKNYYEVHKELFEGVQKWEETWRLFLEFERKASDPNRFTNRGGNLLKEEKQRAKLQKMLPKLEEELKARIELWEQEHSKAFMVNGQKFMEYVAEQWEMHRLEKERAKQERQLKNKKQTETEMLYGSAPRTPSKRRGLAPNTPGKARKLNTTTMSNATANSSIRPIFGGTVYHSPVSRLPPSGSKPVAASTCSGKKTPRTGRHGANKENLELNGSILSARTFKGFQI
+PTM	Acetylation:17,387,401,407,419,484,524,534;Methylation:44,101,111,122,220,281,286,349,387,407,447;Phosphorylation:4,11,70,262,265,267,460,464,466,470,472,481,501,509,513,516,521,523,529,530,532,536,554,557,560,571,587,589,592,606,616,620;SUMOylation:62,67,122,229,268,273,286,387,397,401,484,487,524,534,546,605;Ubiquitylation:17,62,67,178,229,273,387,456,484,524,534,584,602,605

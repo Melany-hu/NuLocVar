@@ -1,0 +1,25 @@
+UniprotID	Q15257-4
+Accession	Q15257;A2A347;A9IZU4;B4DXM4;Q15258;Q53GZ3;Q5TZQ2;Q9BUK1;Q9NNZ7;Q9NNZ8;Q9NNZ9
+EntryName	PTPA_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A activator (EC 5.2.1.8) (PP2A, subunit B', PR53 isoform) (Phosphotyrosyl phosphatase activator) (PTPA) (Serine/threonine-protein phosphatase 2A regulatory subunit 4) (Serine/threonine-protein phosphatase 2A regulatory subunit B')
+GeneName	PTPA PPP2R4
+Length	281
+Function	PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides (By similarity). Acts as a regulatory subunit for serine/threonine-protein phosphatase 2A (PP2A) (PubMed:16916641, PubMed:36073231). Modulates PP2A activity or substrate specificity, probably by inducing a conformational change in the catalytic subunit, a proposed direct target of the PPIase (PubMed:16916641). Can reactivate inactive phosphatase PP2A-phosphatase methylesterase complexes (PP2A(i)) in presence of ATP and Mg(2+) (By similarity). Reversibly stimulates the variable phosphotyrosyl phosphatase activity of PP2A core heterodimer PP2A(D) in presence of ATP and Mg(2+) (in vitro) (PubMed:16916641). The phosphotyrosyl phosphatase activity is dependent of an ATPase activity of the PP2A(D):PPP2R4 complex (PubMed:16916641). Is involved in apoptosis; the function appears to be independent from PP2A (PubMed:17333320).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEGERQPPPDSSEEAPPATQNFIIPKKEIHTVPDMGKWKRSQAYADYIGFILTLNEGVKGKKLTFEYRVSEEAENLVATVVPTHLAAAVPEVAVYLKESVGNSTRIDYGTGHEAAFAAFLCCLCKIGVLRVDDQIAIVFKVFNRYLEVMRKLQKTYRMEPAGSQGVWGLDDFQFLPFIWGSSQLIDHPYLEPRHFVDEKAVNENHKDYMFLECILFITEMKTGPFAEHSNQLWNISAVPSWSKVNQGLIRMYKAECLEKFPVIQHFKFGSLLPIHPVTSG
+PTM	Acetylation:38,277,321,331,337,345;Glycosylation:357;Methylation:60,86,111,138,337;Phosphorylation:12,13,45,48,90,144,357;SUMOylation:27,28;Ubiquitylation:63,86,138,175,232,277,321,331

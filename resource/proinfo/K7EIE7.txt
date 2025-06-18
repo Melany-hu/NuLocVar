@@ -1,0 +1,25 @@
+UniprotID	K7EIE7
+Accession	K7EIE7
+EntryName	K7EIE7_HUMAN
+ProteinName	ATP citrate synthase (EC 2.3.3.8)
+GeneName	ACLY
+Length	133
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTREKHPDGKILIIGGSIANFTNVAATFKGIVRAIRDYQGPLKEHEVTIFVRRGGPNYQEGLRVMGEVGKTTGIPIHVFGTETHMTAIVGMALGHRPIPNQPPTAAHTANFLLNASGSTSTPAPSRTASFSES
+PTM	

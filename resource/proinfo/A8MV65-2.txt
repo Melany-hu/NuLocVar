@@ -1,0 +1,25 @@
+UniprotID	A8MV65-2
+Accession	A8MV65;D3DU37;Q504T7
+EntryName	VGLL3_HUMAN
+ProteinName	Transcription cofactor vestigial-like protein 3 (Vgl-3)
+GeneName	VGLL3
+Length	320
+Function	May act as a specific coactivator for the mammalian TEFs.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCAEVMYHPQPYGASQYLPNPMAATTCPTAYYQPAPQPGQQKKLAVFSKMQDSLEVTLPSKQEEEDEEEEEEEKDQPAEMEYLNSRCVLFTYFQGDIGSVVDEHFSRALGQAITLHPESAISKSKMGLTPLWRDSSALSSQRNSFPTSFWTSSYQPPPAPCLGGVHPDFQVTGPPGTFSAADPSPWPGHNLHQTGPAPPPAVSESWPYPLTSQVSPSYSHMHDVYMRHHHPHAHMHHRHRHHHHHHHPPAGSALDPSYGPLLMPSVHAARIPAPQCDITKTEPTTVTSATSAWAGAFHGTVDIVPSVGFDTGWSAMARS
+PTM	Methylation:281;Phosphorylation:61,307;SUMOylation:44,62,124,126

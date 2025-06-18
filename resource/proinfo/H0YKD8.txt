@@ -1,0 +1,25 @@
+UniprotID	H0YKD8
+Accession	H0YKD8
+EntryName	H0YKD8_HUMAN
+ProteinName	Large ribosomal subunit protein eL28 (60S ribosomal protein L28)
+GeneName	RPL28
+Length	170
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAHLQWMVVRNCSSFLIKRNKQTYSTEPNNLKARNSFRYNGLIHRKTVGVEPAADGKGVVVVIKRRSGQRKPATSYVRTTINKNARATLSSIRHMIRKNKYRPDLRMLAGRVGRQQAVSSLEHQPRPGRLHLSNTAARSFCVMEPSRTLQDLGSTLGLHPLDASGTPEL
+PTM	

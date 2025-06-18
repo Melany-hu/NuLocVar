@@ -1,0 +1,25 @@
+UniprotID	P33076-3
+Accession	P33076;A0N0N9;D3DUG0;E9PFE0;Q29675;Q8SNB8;Q96KL4
+EntryName	C2TA_HUMAN
+ProteinName	MHC class II transactivator (CIITA) (EC 2.3.1.-) (EC 2.7.11.1)
+GeneName	CIITA MHC2TA
+Length	546
+Function	Essential for transcriptional activity of the HLA class II promoter; activation is via the proximal promoter (PubMed:16600381, PubMed:17493635, PubMed:7749984, PubMed:8402893). Does not bind DNA (PubMed:16600381, PubMed:17493635, PubMed:7749984, PubMed:8402893). May act in a coactivator-like fashion through protein-protein interactions by contacting factors binding to the proximal MHC class II promoter, to elements of the transcription machinery, or both PubMed:8402893, PubMed:7749984, (PubMed:16600381, PubMed:17493635). Alternatively it may activate HLA class II transcription by modifying proteins that bind to the MHC class II promoter (PubMed:16600381, PubMed:17493635, PubMed:7749984, PubMed:8402893). Also mediates enhanced MHC class I transcription; the promoter element requirements for CIITA-mediated transcription are distinct from those of constitutive MHC class I transcription, and CIITA can functionally replace TAF1 at these genes. Activates CD74 transcription (PubMed:32855215). Exhibits intrinsic GTP-stimulated acetyltransferase activity (PubMed:11172716). Exhibits serine/threonine protein kinase activity: can phosphorylate the TFIID component TAF7, the RAP74 subunit of the general transcription factor TFIIF, histone H2B at 'Ser-37' and other histones (in vitro) (PubMed:24036077). Has antiviral activity against Ebola virus and coronaviruses, including SARS-CoV-2 (PubMed:32855215). Induces resistance by up-regulation of the p41 isoform of CD74, which blocks cathepsin-mediated cleavage of viral glycoproteins, thereby preventing viral fusion (PubMed:32855215).
+Subcellular Location	Nucleus; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRCLAPRPAGSYLSEPQGSSQCATMELGPLEGGYLELLNSDADPLCLYHFYDQMDLAGEEEIELYSEPDTDTINCDQFSRLLCDMEGDEETREAYANIAELDQYVFQDSQLEGLSKDIFKHIGPDEVIGESMEMPAEVGQKSQKRPFPEELPADLKHWKPVPFSSSSLSCLNLPEGPIQFVPTISTLPHGLWQISEAGTGVSSIFIYHGEVPQASQVPPPSGFTVHGLPTSPDRPGSTSPFAPSATDLPSMPEPALTSRANMTEHKTSPTQCPAAGEVSNKLPKWPGLAWSPCLGLRPSLHRAALSDTVALWESLQQHGETKLLQAAEEKFTIEPFKAKSLKDVEDLGKLVQTQRTRSSSEDTAGELPAVRDLKKLEFALGPVSGPQAFPKLVRILTAFSSLQHLDLDALSENKIGDEGVSQLSATFPQLKSLETLNLSQNNITDLGAYKLAEALPSLAASLLRLSLYNNCICDVGAESLARVLPDMVSLRVMDVQYNKFTAAGAQQLAASLRRCPHVETLAMWTPTIPFSVQEHLQQQDSRISLR
+PTM	Methylation:421,426,662,692,850;Phosphorylation:104,546,740,834,838,860,865,944,1041,1045,1095,1128

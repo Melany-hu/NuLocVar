@@ -1,0 +1,25 @@
+UniprotID	U3KQI5
+Accession	U3KQI5
+EntryName	U3KQI5_HUMAN
+ProteinName	HAUS augmin like complex subunit 2
+GeneName	HAUS2
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DVVHPFFLAQKCHTLQSMNNHLEAVLKEKRSLRQRLLKPMCQENLPIEAVYHRLD
+PTM	

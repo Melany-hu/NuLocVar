@@ -1,0 +1,25 @@
+UniprotID	E7EUB5
+Accession	E7EUB5
+EntryName	E7EUB5_HUMAN
+ProteinName	XPC complex subunit, DNA damage recognition and repair factor
+GeneName	XPC
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	48...53
+validnes_region	
+nesbase_region	
+Sequence	MARKRAAGGEPRGRELRSQKSKAKSKARHAFEDEKPPKKSLLSKVSQGKRKRGCSHPGGSADGPAKKKVAKVTVKSENLKVIKDEALSDGDDLRDFPSDLKKAHHLKRGATMNEDSNEEEEESENDWEEVEELSEPVLGDVRESTAFSRSLLPVKPVEIEIETPEQAK
+PTM	

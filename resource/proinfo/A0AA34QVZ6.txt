@@ -1,0 +1,25 @@
+UniprotID	A0AA34QVZ6
+Accession	A0AA34QVZ6
+EntryName	A0AA34QVZ6_HUMAN
+ProteinName	HCG1653562, isoform CRA_a (Transmembrane protein 273)
+GeneName	TMEM273 hCG_1653562
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLGVSMLRILFLLDVGGAQVLATGKTPGAEIDFKYALIGTAVGVAISAGFLALKICMIRRHLFDDDSSDLKSTPGGLSDTIPLKKRAPRAHVLRDGPALGPLHLLFSVIGMLFARKLQASTLFSFKSLLQCHHCIMEGLFKAKPQFLQKRCTGD
+PTM	

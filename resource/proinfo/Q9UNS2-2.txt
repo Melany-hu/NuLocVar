@@ -1,0 +1,25 @@
+UniprotID	Q9UNS2-2
+Accession	Q9UNS2;B2R683;B4DY81;O43191;Q7LDR6
+EntryName	CSN3_HUMAN
+ProteinName	COP9 signalosome complex subunit 3 (SGN3) (Signalosome subunit 3) (JAB1-containing signalosome subunit 3)
+GeneName	COPS3 CSN3
+Length	403
+Function	Component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF-type complexes such as SCF, CSA or DDB2. The complex is also involved in phosphorylation of p53/TP53, c-jun/JUN, IkappaBalpha/NFKBIA, ITPK1 and IRF8/ICSBP, possibly via its association with CK2 and PKD kinases. CSN-dependent phosphorylation of TP53 and JUN promotes and protects degradation by the Ubl system, respectively.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTQLCELINKSGELLAKNLSHLDTVLGALDVQEHSLGVLAVLFVKFSMPSVPDFETLFSQVQLFISTCNGEHIRYATDTFAGLCHQLTNALVERKQPLRGIGILKQAIDKMQMNTNQLTSIHADLCQLCLLAKCFKPALPYLDVDMMDICKENGAYDAKHFLCYYYYGGMIYTGLKNFERALYFYEQAITTPAMAVSHIMLESYKKYILVSLILLGKVQQLPKYTSQIVGRFIKPLSNAYHELAQVYSTNNPSELRNLVNKHSETFTRDNNMGLVKQCLSSLYKKNIQRLTKTFLTLSLQDMASRVQLSGPQEAEKYVLHMIEDGEIFASINQKDGMVSFHDNPEKYNNPAMLHNIDQEMLKCIELDERLKAMDQEITVNPQFVQKSMGSQEDDSGNKPSSYS
+PTM	Acetylation:125,243,281,304;Methylation:30,37,65,125,153,237,382,406;Phosphorylation:193,285,329,407,410,415,420,421,422,423;SUMOylation:156,391;Ubiquitylation:30,37,125,156,171,243,254,281,296,304,312,366,382,391,406,418

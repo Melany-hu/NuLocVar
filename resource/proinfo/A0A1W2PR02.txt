@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PR02
+Accession	A0A1W2PR02
+EntryName	A0A1W2PR02_HUMAN
+ProteinName	Golgi SNAP receptor complex member 2
+GeneName	GOSR2 hCG_1993582
+Length	165
+Function	Involved in transport of proteins from the cis/medial-Golgi to the trans-Golgi network.
+Subcellular Location	Golgi apparatus; cis-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPLFQQTHKQVHEIQSCMGRLETADKQSVHIVENEIQASIDQIFSRLERLEILSSKEPPNKRQNARLRVDQLKYDVQHLQTALRNFQHRRHAREQQERQREELLSRTFTTNGTQKKILDIANMLGLSNTVMRLIEKRAFQDKYFMIGGMLLTCVVMFLVVQYLT
+PTM	

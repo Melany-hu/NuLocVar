@@ -1,0 +1,25 @@
+UniprotID	K7EQN9
+Accession	K7EQN9
+EntryName	K7EQN9_HUMAN
+ProteinName	Tubulin delta 1
+GeneName	TUBD1
+Length	125
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSIVTVQLGQCGNQIGFEVFDALLSDSHSSQGLCSMRENEAYQASCKERFFSEEENGVPIARAVLVDMEPKVINQMLSKAAQSGQWKYGQHACFCQKQGSGNNWAYGRDKDSACYPDWSGTPGLQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	I3L443
+Accession	I3L443
+EntryName	I3L443_HUMAN
+ProteinName	Mitochondrial rRNA methyltransferase 3
+GeneName	MRM3
+Length	177
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPLEESASRAPSTWEESGLRYDKAYPGDRRLSSVMTIVKSRPFREKQGKILLEGRRLISDALKAGAVPKMFFFSRLEYLKELPVDKLKGVSLIKVKFEDIKDWSDLVTPQGIMGIFAKPDHVKMTYPKTQLQHSLPLLLICDNLRDPGNLGTILRSAAGAGCSKVLLTKGKDIKGQA
+PTM	

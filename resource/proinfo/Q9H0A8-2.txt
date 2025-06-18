@@ -1,0 +1,25 @@
+UniprotID	Q9H0A8-2
+Accession	Q9H0A8;B2RBN4;H3BUL2;Q7L637;Q9NX43
+EntryName	COMD4_HUMAN
+ProteinName	COMM domain-containing protein 4
+GeneName	COMMD4
+Length	140
+Function	May modulate activity of cullin-RING E3 ubiquitin ligase (CRL) complexes (PubMed:21778237). Down-regulates activation of NF-kappa-B.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFRFCGDLDCPDWVLAEISTLAKMSSVKLRLLCSQVLKELLGQGIDYEKILKLTADAKFESGDVKATVAVLSFILSSAAKHSVDGESLSSELQQLGLPKEHAASLCRCYEEKQSPLQKHLRVCSLRKLKQAQTLMSSLG
+PTM	Acetylation:50,53,113;Methylation:39,50,100;Phosphorylation:27,110,115;SUMOylation:29,50,53,59,66,81,100;Ubiquitylation:29,39,50,53,59,100,113,119,180

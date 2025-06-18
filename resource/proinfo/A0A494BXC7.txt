@@ -1,0 +1,25 @@
+UniprotID	A0A494BXC7
+Accession	A0A494BXC7
+EntryName	A0A494BXC7_HUMAN
+ProteinName	Cytidine/uridine monophosphate kinase 1
+GeneName	CMPK1
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSRCRSGLLHVLGLSFLLQTRRPILLCSPRLMKPLVVFVLGGPGAGKGTQCARIVEEMDQTMAANAQKNKFLIDGFPRNQDNLQGWNKTMDGKADVSFVLFFDCNNEICIERCLERGKSSGRSDDNRESLEKRIQTYLQSTKPIIDLYEEMGKVKKIDASKSVDEVFDEVVQIFDKEG
+PTM	

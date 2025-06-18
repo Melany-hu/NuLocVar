@@ -1,0 +1,25 @@
+UniprotID	Q96T52-2
+Accession	Q96T52;Q75MF1;Q75MN9;Q75MP0;Q75MS5;Q75MS8;Q96HJ2
+EntryName	IMP2L_HUMAN
+ProteinName	Mitochondrial inner membrane protease subunit 2 (EC 3.4.21.-) (IMP2-like protein)
+GeneName	IMMP2L
+Length	110
+Function	Catalyzes the removal of transit peptides required for the targeting of proteins from the mitochondrial matrix, across the inner membrane, into the inter-membrane space. Known to process the nuclear encoded protein DIABLO.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQSQGWVKRYIKAFCKGFFVAVPVAVTFLDRVACVARVEGASMQPSLNPGGSQSSDVVLLNHWKVRNFEVHRGDIVSLVSPKNPEQKIIKRVIALEGDIVRDGRKLKRI
+PTM	Phosphorylation:4,81;SUMOylation:83,158

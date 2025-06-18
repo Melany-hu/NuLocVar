@@ -1,0 +1,25 @@
+UniprotID	C9IZI1
+Accession	C9IZI1
+EntryName	C9IZI1_HUMAN
+ProteinName	Solute carrier family 19 member 3
+GeneName	SLC19A3
+Length	229
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISTHCNLHLPGSSDSPASATQVAGITGTHHRNRLIFALLVEMGFHSVGQASLELLTSAMDCYRTSLSSSWIYPTVILCLFGFFSMMRPSEPFLIPYLSGPDKNLTSAEITNEIFPVWTYSYLVLLLPVFVLTDYVRYKPVIILQGISFIITWLLLLFGQGVKTMQVVEFFYGMVTAAEVAYYAYIYSVVSPEHYQRVSGYCRSVTLAAYTAGSVLAQLLVSLANMSYF
+PTM	

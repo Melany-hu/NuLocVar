@@ -1,0 +1,25 @@
+UniprotID	C9JWG1
+Accession	C9JWG1
+EntryName	C9JWG1_HUMAN
+ProteinName	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase (EC 4.2.1.134)
+GeneName	HACD2
+Length	98
+Function	Catalyzes the third of the four reactions of the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process, allows the addition of two carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. This enzyme catalyzes the dehydration of the 3-hydroxyacyl-CoA intermediate into trans-2,3-enoyl-CoA, within each cycle of fatty acid elongation. Thereby, it participates to the production of VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membrane lipids and lipid mediators.
+Subcellular Location	Endoplasmic reticulum membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRVFLIWAVTHSVKEVQSEDSVLLFVIAWTITEIIRYSFYTFSLLNHLPYLIKWARYTLFIVLYPMGVSGELLTIYAALPFVRQAGLYSISLPNKYN
+PTM	

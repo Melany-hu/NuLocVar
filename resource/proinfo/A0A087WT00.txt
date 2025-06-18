@@ -1,0 +1,25 @@
+UniprotID	A0A087WT00
+Accession	A0A087WT00
+EntryName	A0A087WT00_HUMAN
+ProteinName	CD302 molecule
+GeneName	CD302
+Length	195
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRAALPALLLPLLGLAAAAVAGADMISIHNEEENAFILDTLKKQWKGPDDILLGMFYDTDDASFKWFDNSNMTFDKWTDQDDDEDLVDTCAFLHIKTGEWKKGNCEVSSVEGTLCKTAIPYKRKYLSDNHILISALVIASTVILTVLGAIIWFLYKKHSDSRFTTVFSTAPQSPYNEDCVLVVGEENEYPVQFD
+PTM	

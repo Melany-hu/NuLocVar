@@ -1,0 +1,25 @@
+UniprotID	P49326-2
+Accession	P49326;B2RBG1;C9JJD1;Q8IV22
+EntryName	FMO5_HUMAN
+ProteinName	Flavin-containing monooxygenase 5 (FMO 5) (Baeyer-Villiger monooxygenase 1) (hBVMO1) (EC 1.14.13.-) (Dimethylaniline monooxygenase [N-oxide-forming] 5) (EC 1.14.13.8) (Dimethylaniline oxidase 5) (NADPH oxidase) (EC 1.6.3.1)
+GeneName	FMO5
+Length	285
+Function	Acts as a Baeyer-Villiger monooxygenase on a broad range of substrates. Catalyzes the insertion of an oxygen atom into a carbon-carbon bond adjacent to a carbonyl, which converts ketones to esters (PubMed:20947616, PubMed:26771671, PubMed:28783300). Active on diverse carbonyl compounds, whereas soft nucleophiles are mostly non- or poorly reactive (PubMed:26771671, PubMed:7872795). In contrast with other forms of FMO it is non- or poorly active on 'classical' substrates such as drugs, pesticides, and dietary components containing soft nucleophilic heteroatoms (Probable) (PubMed:7872795). Able to oxidize drug molecules bearing a carbonyl group on an aliphatic chain, such as nabumetone and pentoxifylline (PubMed:28783300). Also, in the absence of substrates, shows slow but yet significant NADPH oxidase activity (PubMed:26771671). Acts as a positive modulator of cholesterol biosynthesis as well as glucose homeostasis, promoting metabolic aging via pleiotropic effects (By similarity).
+Subcellular Location	Microsome membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTKKRIAVIGGGVSGLSSIKCCVEEGLEPVCFERTDDIGGLWRFQENPEEGRASIYKSVIINTSKEMMCFSDYPIPDHYPNFMHNAQVLEYFRMYAKEFDLLKYIRFKTTVCSVKKQPDFATSGQWEVVTESEGKKEMNVFDGVMVCTGHHTNAHLPLESFPGIEKFKGQYFHSRDYKNPEGFTGKRVIIIGIGNSGGDLAVEISQTAKQVFLSTRRGAWILNRVGDYGYPADVLFSSRLTHFIWKICGQSLANKYLEKKINQRFDHEMFGLKPKHRSKDIALTE
+PTM	Methylation:103;Phosphorylation:54,56,58,280,284,401,403,509

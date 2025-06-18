@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YXG9
+Accession	A0A0J9YXG9
+EntryName	A0A0J9YXG9_HUMAN
+ProteinName	Myosin XVB
+GeneName	MYO15B
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QEKLRDEIYCQVIKQVTGHPRPEHCTRGWSFLSLLTGFFPPSTRLMPYLTKFLQDSGPSQELARSSQEHLQRTVKYGGRRRMPPPERTSDSPASYSPAGGCGL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P60866-2
+Accession	P60866;B2R4F4;B4DW28;P17075;Q5M8S9
+EntryName	RS20_HUMAN
+ProteinName	Small ribosomal subunit protein uS10 (40S ribosomal protein S20)
+GeneName	RPS20
+Length	142
+Function	Component of the small ribosomal subunit (PubMed:23636399). The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:23636399).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFKDTGKTPVEPEVAIHRIRITLTSRNVKSLEKVCADLIRGAKEKNLKVKGPVRMPTKTLRITTRKTPCGEGSKTWDRFQMRIHKRLIDLHSPSEIVKQITSISIEPGVELIESTDAEPMDTEGQQYTLRSVFESPGTCPF
+PTM	Acetylation:4,8,30,34,67,75;Methylation:19,34,41,79,99;Phosphorylation:6,9,25,26,31,58,64,65,74,76,93,95;SUMOylation:4,8,34,59;Ubiquitylation:4,8,30,34,49,51,59,67,75

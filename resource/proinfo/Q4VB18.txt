@@ -1,0 +1,25 @@
+UniprotID	Q4VB18
+Accession	Q4VB18
+EntryName	Q4VB18_HUMAN
+ProteinName	KLK4 protein
+GeneName	KLK4
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTVLQCVNVSVVSEEVCSKLYDPLYHPSMFCAGGGQDQKDSCNGDSGGPLICNGYLQGLVSFGKAPCGQVGVPGVYTNLCKFTEWIEKTVQAS
+PTM	

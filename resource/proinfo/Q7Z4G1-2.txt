@@ -1,0 +1,25 @@
+UniprotID	Q7Z4G1-2
+Accession	Q7Z4G1;A6NF28;B7ZLN0;Q5TBK4
+EntryName	COMD6_HUMAN
+ProteinName	COMM domain-containing protein 6
+GeneName	COMMD6 MSTP076
+Length	98
+Function	May modulate activity of cullin-RING E3 ubiquitin ligase (CRL) complexes (PubMed:21778237). Down-regulates activation of NF-kappa-B. Inhibits TNF-induced NFKB1 activation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEASSEPPLDAKSDVTNQLVDFQWKLGMAVSSDTCRSLKYPYVAVMLKVADHSGQVKTKCFEMTIPQFQPQLLATSSLLSASNFYRQFKEIAAVIETV
+PTM	Acetylation:39,57;Methylation:12;Phosphorylation:42;Ubiquitylation:12,39

@@ -1,0 +1,25 @@
+UniprotID	Q96DZ7-2
+Accession	Q96DZ7;B2RV20;E9PH22;Q336K7
+EntryName	T4S19_HUMAN
+ProteinName	Transmembrane 4 L6 family member 19 (Osteoclast maturation-associated gene 4 protein) (Tetraspan membrane protein OCTM4)
+GeneName	TM4SF19 OCTM4
+Length	183
+Function	Negatively regulates vacuolar (H+)-ATPase (V-ATPase) activity by interacting with members of V-ATPase V0 complex and hence inhibiting V1-V0 complex assembly. Required for multinucleation during osteoclast differentiation.
+Subcellular Location	Lysosome membrane; Cytoplasm; Cytoskeleton; Cell projection; Filopodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSSPCTQASSRTCSRILGLSLGTAALFAAGANVALLLPNWDVTYLLRGLLGRHAMLGTGLWGGGLMVLTALLSGGLALLGALICFVTSGVALKDGPFCMFDVSSFNQTQAWKYGYPFKDLHSRNYLYDRSLWNSVCLEPSAAVVWHVSLFSALLCISLLQLLLVVVHVINSLLGLFCSLCEK
+PTM	Methylation:120;Ubiquitylation:145

@@ -1,0 +1,25 @@
+UniprotID	Q9NWS8-2
+Accession	Q9NWS8;A8K8H4;Q0VDG6;Q5SZ48;Q5SZ83;Q6NSC5;Q96EN7
+EntryName	RMND1_HUMAN
+ProteinName	Required for meiotic nuclear division protein 1 homolog
+GeneName	RMND1 C6orf96
+Length	238
+Function	Required for mitochondrial translation, possibly by coordinating the assembly or maintenance of the mitochondrial ribosome (PubMed:23022098, PubMed:25604853).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVENSAKEGDPGTIFFFREGAAVFWNVKDKTMKHVMKVLEKHEIQPYEIALVHWENEELNYIKIEGQSKLHRGEIKLNSELDLDDAILEKFAFSNALCLSVKLAIWEASLDKFIESIQSIPEALKAGKKVKLSHEEVMQKIGELFALRHRINLSSDFLITPDFYWDRENLEGLYDKTCQFLSIGRRVKVMNEKLQHCMELTDLMRNHLNEKRALRLEWMIVILITIEVMFELGRVFF
+PTM	Acetylation:240,245,249;Methylation:18,31,275,302,337;Phosphorylation:81;SUMOylation:74,275

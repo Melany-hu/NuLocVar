@@ -1,0 +1,25 @@
+UniprotID	S4R2Y3
+Accession	S4R2Y3
+EntryName	S4R2Y3_HUMAN
+ProteinName	VPS26 retromer complex component A
+GeneName	VPS26A
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFLGGFFGPICEIDIVLNDGETRKMAEMKTEDGKVEKHYLFYDGESVSGKNFSMTRVILMNL
+PTM	

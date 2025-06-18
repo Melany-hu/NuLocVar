@@ -1,0 +1,25 @@
+UniprotID	A0A804HKN4
+Accession	A0A804HKN4
+EntryName	A0A804HKN4_HUMAN
+ProteinName	Sorting nexin 14
+GeneName	SNX14
+Length	210
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPWVRTMGQKLKQRLRLDVGREICRQYPLFCFLLLCLSAASLLLNRYIHILMIFWSFVAGVVTFYCSLGPDSLLPNIFFTIKYKPKQLGLQELFPQGHSCAVCGKVKCKRHRPSLLLENYQPWLDLKISSKVDASLSEVLELVLENFVYPWYRDVTDDESFVDELRITLRFFASVLIRRIHKTEFCSVAQAGVQWHDLSSLQPPPPRFK
+PTM	

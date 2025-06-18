@@ -1,0 +1,25 @@
+UniprotID	H3BNU8
+Accession	H3BNU8
+EntryName	H3BNU8_HUMAN
+ProteinName	Lysine rich nucleolar protein 1
+GeneName	KNOP1
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEAHIDQVRRKALQEEIDRESGKTEASETRKWTGTQFGQWDTAGFENEDQKLKFLRLMGGFKNLSPSFSRPASTIARPNMALGKKAADSLQQNLQRDYDRAMSWKYSRGAGLGFSTAPNKIFYIDRNASKSVKLED
+PTM	

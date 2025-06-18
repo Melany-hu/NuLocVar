@@ -1,0 +1,25 @@
+UniprotID	P41587-2
+Accession	P41587;Q13053;Q15870;Q53Y09;Q6ZN22;Q9UCW0
+EntryName	VIPR2_HUMAN
+ProteinName	Vasoactive intestinal polypeptide receptor 2 (VIP-R-2) (Helodermin-preferring VIP receptor) (Pituitary adenylate cyclase-activating polypeptide type III receptor) (PACAP type III receptor) (PACAP-R-3) (PACAP-R3) (VPAC2 receptor) (VPAC2R)
+GeneName	VIPR2 VIP2R
+Length	422
+Function	G protein-coupled receptor activated by the neuropeptides vasoactive intestinal peptide (VIP) and pituitary adenylate cyclase-activating polypeptide (ADCYAP1/PACAP) (PubMed:7811244, PubMed:35477937, PubMed:8933357). Binds VIP and both PACAP27 and PACAP38 bioactive peptides with the following order of potency PACAP38 = VIP > PACAP27 (PubMed:35477937, PubMed:8933357). Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of downstream effectors. Activates cAMP-dependent pathway (PubMed:7811244, PubMed:35477937, PubMed:8933357). May be coupled to phospholipase C.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLWEAPSDHPANPPATLQGHTSLPGCQEEPARDPQSGLPQITSESSSFSEGSLPSWSSGPAGAKLNASHEGIGSSSDGNGDSKAATERVVSAMDTVRRKHPEITFYILVKAIYTLGYSVSLMSLATGSIILCLFRKLHCTRNYIHLNLFLSFILRAISVLVKDDVLYSSSGTLHCPDQPSSWVGCKLSLVFLQYCIMANFFWLLVEGLYLHTLLVAMLPPRRCFLAYLLIGWGLPTVCIGAWTAARLYLEDTGCWDTNDHSVPWWVIRIPILISIIVNFVLFISIIRILLQKLTSPDVGGNDQSQYKRLAKSTLLLIPLFGVHYMVFAVFPISISSKYQILFELCLGSFQGLVVAVLYCFLNSEVQCELKRKWRSRCPTPSASRDYRVCGSSFSRNGSEGALQFHRGSRAQSFLQTETSVI
+PTM	Methylation:127,179,309;Phosphorylation:46,409,415,433

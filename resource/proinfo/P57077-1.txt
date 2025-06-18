@@ -1,0 +1,25 @@
+UniprotID	P57077-1
+Accession	P57077;D3DSE0;Q8TCL9
+EntryName	M3KCL_HUMAN
+ProteinName	MAP3K7 C-terminal-like protein (TAK1-like protein)
+GeneName	MAP3K7CL C21orf7 TAK1L
+Length	242
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQLIAPLEVMWNEAADLKPLALSRRLECSGGIMAHYSPDLLGPEMESRYFAQVGLEHLASSSPPAFGFLKCLDYSISVLCSATSLAMLEDNPKVSKLATGDWMLTLKPKSITVPVEIPSSPLDDTPPEDSIPLVFPELDQQLQPLPPCHDSEESMEVFKQHCQIAEEYHEVKKEITLLEQRKKELIAKLDQAEKEKVDAAELVREFEALTEENRTLRLAQSQCVEQLEKLRIQYQKRQGSS
+PTM	Methylation:89

@@ -1,0 +1,25 @@
+UniprotID	A0A087X0Y1
+Accession	A0A087X0Y1
+EntryName	A0A087X0Y1_HUMAN
+ProteinName	Growth hormone regulated TBC protein 1
+GeneName	GRTP1
+Length	236
+Function	May act as a GTPase-activating protein for Rab family protein(s).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPAERSRVPRIDPYGFERPEDFDDAAYEKFFSSYLVTLTRRAIKWSRLLQGGGVPRSRTVKRYVRKGVPLEHRARVWMVLSGAQAQMDQNPGYYHQLLQGERNPRLEDAIRTDLNRTFPDNVKFRKTTDPCLQRTLYNVLLAYGHHNQGVGYCQGMNFIAGYLILITNNEEESFWLLDALVGRILPENIFRTWKLIHGHRRQAPRELQGPAAGTGVSVPVPCVARLYTDDAPFQS
+PTM	

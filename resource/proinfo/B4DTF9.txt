@@ -1,0 +1,25 @@
+UniprotID	B4DTF9
+Accession	B4DTF9
+EntryName	B4DTF9_HUMAN
+ProteinName	Clathrin light chain
+GeneName	CLTB
+Length	134
+Function	Clathrin is the major protein of the polyhedral coat of coated pits and vesicles.
+Subcellular Location	Cytoplasmic vesicle membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADDFGFFSSSESGAPEAAEEDPAAAFLAQQESEIAGIENDEGFGAPAGSHAAPAQPGPTSGAGSEDMGTTVNGDVFQPVHHQRVQLQTQLPIQPKDEPAHNYSSSIWHSQGQGQKGPAGLRLPTSAQILSPFP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P56856-2
+Accession	P56856;A5PL21;Q96PH4
+EntryName	CLD18_HUMAN
+ProteinName	Claudin-18
+GeneName	CLDN18 UNQ778/PRO1572
+Length	261
+Function	Involved in alveolar fluid homeostasis via regulation of alveolar epithelial tight junction composition and therefore ion transport and solute permeability, potentially via downstream regulation of the actin cytoskeleton organization and beta-2-adrenergic signaling (By similarity). Required for lung alveolarization and maintenance of the paracellular alveolar epithelial barrier (By similarity). Acts to maintain epithelial progenitor cell proliferation and organ size, via regulation of YAP1 localization away from the nucleus and thereby restriction of YAP1 target gene transcription (By similarity). Acts as a negative regulator of RANKL-induced osteoclast differentiation, potentially via relocation of TJP2/ZO-2 away from the nucleus, subsequently involved in bone resorption in response to calcium deficiency (By similarity). Mediates the osteoprotective effects of estrogen, potentially via acting downstream of estrogen signaling independently of RANKL signaling pathways (By similarity).
+Subcellular Location	Cell junction; Tight junction; Cell membrane; Cell junction; Tight junction; Cell junction; Tight junction; Lateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVTACQGLGFVVSLIGIAGIIAATCMDQWSTQDLYNNPVTAVFNYQGLWRSCVRESSGFTECRGYFTLLGLPAMLQAVRALMIVGIVLGAIGLLVSIFALKCIRIGSMEDSAKANMTLTSGIMFIVSGLCAIAGVSVFANMLVTNFWMSTANMYTGMGGMVQTVQTRYTFGAALFVGWVAGGLTLIGGVMMCIACRGLAPEETNYKAVSYHASGHSVAYKPGGFKASTGFGSNTKNKKIYDGGARTEDEVQSYPSKHDYV
+PTM	

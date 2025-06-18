@@ -1,0 +1,25 @@
+UniprotID	Q8ND83-3
+Accession	Q8ND83;A8K0Z9;B7Z209;Q5T6P4;Q5T6P7;Q8ND10;Q96NV0
+EntryName	SLAI1_HUMAN
+ProteinName	SLAIN motif-containing protein 1
+GeneName	SLAIN1 C13orf32
+Length	191
+Function	Microtubule plus-end tracking protein that might be involved in the regulation of cytoplasmic microtubule dynamics, microtubule organization and microtubule elongation.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGYKLQDLTDVQIMARLQEENKLRRSMPNLARMPSTTAISSNISSPVTVRNSQSFDSSLHGAGNGISRIQSCIPSPGQLQHRVHSVGHFPVSIRQPLKATAYVSPTVQGSSNMPLSNGLQLYSNTGIPTPNKAAASGIMGRSALPRPSLAINGSNLPRSKIAQPVRSFLQPPKPLSSLSTLRDGNWRDGCY
+PTM	Acetylation:309;Glycosylation:413;Methylation:7,30,347,471,523,535,543;Phosphorylation:204,217,226,237,247,295,301,302,304,306,307,312,343,354,403,412,422,431,435,448,452,462,519

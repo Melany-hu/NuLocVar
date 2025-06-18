@@ -1,0 +1,25 @@
+UniprotID	Q9UN19-2
+Accession	Q9UN19;Q8TCK5;Q9UHF2
+EntryName	DAPP1_HUMAN
+ProteinName	Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide (hDAPP1) (B lymphocyte adapter protein Bam32) (B-cell adapter molecule of 32 kDa)
+GeneName	DAPP1 BAM32 HSPC066
+Length	280
+Function	May act as a B-cell-associated adapter that regulates B-cell antigen receptor (BCR)-signaling downstream of PI3K.
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRAELLEGKMSTQDPSDLWSRSDGEAELLQDLGWYHGNLTRHAAEALLLSNGCDGSYLLRDSNETTGLYSLSVRAKDSVKHFHVEYTGYSFKFGFNEFSSLKDFVKHFANQPLIGSETGTLMVLKHPYPRKVEEPSIYESVRVHTAMQTGRTEDDLVPTAPSLGTKEGYLTKQGGLVKTWKTRWFTLHRNELKYFKDQMSPEPIRILDLTECSAVQFDYSQERVNCFCLVFPFRTFYLCAKTGVEADEWIKILRWKLVKDKSCILSALCISPEEKTDHK
+PTM	Acetylation:126;Methylation:10,126,173,194;Phosphorylation:12,121,137,139,141,146,150,163,271,274,276

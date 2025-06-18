@@ -1,0 +1,25 @@
+UniprotID	Q9BX82-2
+Accession	Q9BX82;B4DF32;O75260;Q08AD6;Q08AD7;Q8N3V1;Q9P2F1
+EntryName	ZN471_HUMAN
+ProteinName	Zinc finger protein 471 (EZFIT-related protein 1)
+GeneName	ZNF471 ERP1 KIAA1396
+Length	247
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNVEVVKVMPQDLVTFKDVAIDFSQEEWQWMNPAQKRLYRSMMLENYQSLVSLGLCISKPYVISLLEQGREPWEMTSEMTRSPFSEFILVKNHMHVRNVEKPSSKGNTLLNITEHILERNSLNVKNVGKPSNKVNTLFSIKEFILEKNHINVRNAEKPSDSLHTLLSIREFILERNPMNVKNVAKPSVMARLLLDIRDVTLAKDPMNVLSVGRLLGITHLLFVTGGVIILERSLLIALIVGKPSVFT
+PTM	Acetylation:457;Methylation:7;Phosphorylation:186,285,313,357,360,398,482,538,566;SUMOylation:288,321,401,569,611;Ubiquitylation:288,321,462,490

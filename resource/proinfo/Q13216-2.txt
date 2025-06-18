@@ -1,0 +1,25 @@
+UniprotID	Q13216-2
+Accession	Q13216;B2RB64;Q6FHX5;Q96GB9
+EntryName	ERCC8_HUMAN
+ProteinName	DNA excision repair protein ERCC-8 (Cockayne syndrome WD repeat protein CSA)
+GeneName	ERCC8 CKN1 CSA
+Length	205
+Function	Substrate-recognition component of the CSA complex, a DCX (DDB1-CUL4-X-box) E3 ubiquitin-protein ligase complex, involved in transcription-coupled nucleotide excision repair (TC-NER), a process during which RNA polymerase II-blocking lesions are rapidly removed from the transcribed strand of active genes (PubMed:12732143, PubMed:16751180, PubMed:16964240, PubMed:32142649, PubMed:34526721, PubMed:38316879, PubMed:38600235, PubMed:38600236). Following recruitment to lesion-stalled RNA polymerase II (Pol II), the CSA complex mediates ubiquitination of Pol II subunit POLR2A/RPB1 at 'Lys-1268', a critical TC-NER checkpoint, governing RNA Pol II stability and initiating DNA damage excision by TFIIH recruitment (PubMed:12732143, PubMed:16751180, PubMed:16964240, PubMed:32142649, PubMed:32355176, PubMed:34526721, PubMed:38316879, PubMed:38600235, PubMed:38600236). The CSA complex also promotes the ubiquitination and subsequent proteasomal degradation of ERCC6/CSB in a UV-dependent manner; ERCC6 degradation is essential for the recovery of RNA synthesis after transcription-coupled repair (PubMed:16751180). Also plays a role in DNA double-strand breaks (DSSBs) repair by non-homologous end joining (NHEJ) (PubMed:29545921).
+Subcellular Location	Nucleus; Chromosome; Nucleus matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGFLSARQTGLEDPLRLRRAESTRRVLGLELNKDRDVERIHGGGINTLDIEPVEGRYMLSGGSDGVIVLYDLENSSRQSYYTCKAVCSIGRDHPDVHRYSVETVQWYPHDTGMFTSSSFDKTLKVWDTNTLQTADVFNFEETVYSHHMSPVSTKHCLVAVGTRGPKVQLCDLKSGSCSHILQGIFILFQTATTLSKRFNKKKRY
+PTM	Acetylation:212,286;Methylation:34;Phosphorylation:71,77,193

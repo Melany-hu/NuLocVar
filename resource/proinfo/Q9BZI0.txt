@@ -1,0 +1,25 @@
+UniprotID	Q9BZI0
+Accession	Q9BZI0
+EntryName	Q9BZI0_HUMAN
+ProteinName	Retinoic acid receptor gamma
+GeneName	RARG
+Length	102
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HHQDVEFAKRLPGFTGLSIADQITLLKAACLDILMLRICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFAGQLLPLEMDDTETGLLXAICLICG
+PTM	

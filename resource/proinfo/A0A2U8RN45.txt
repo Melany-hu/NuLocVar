@@ -1,0 +1,25 @@
+UniprotID	A0A2U8RN45
+Accession	A0A2U8RN45
+EntryName	A0A2U8RN45_HUMAN
+ProteinName	Sodium voltage-gated channel alpha subunit 1
+GeneName	SCN1A
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCVQRFKCCQINVEEGRGKQWWNLRRTCFRIVEHNWFETFIVFMILLSSGALVS
+PTM	

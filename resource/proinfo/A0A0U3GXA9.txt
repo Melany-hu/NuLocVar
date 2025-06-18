@@ -1,0 +1,25 @@
+UniprotID	A0A0U3GXA9
+Accession	A0A0U3GXA9
+EntryName	A0A0U3GXA9_HUMAN
+ProteinName	C-X-C chemokine receptor type 4
+GeneName	CXCR4
+Length	423
+Function	Receptor for the C-X-C chemokine CXCL12/SDF-1 that transduces a signal by increasing intracellular calcium ion levels and enhancing MAPK1/MAPK3 activation. Involved in the AKT signaling cascade. Plays a role in regulation of cell migration, e.g. during wound healing. Acts as a receptor for extracellular ubiquitin; leading to enhanced intracellular calcium ions and reduced cellular cAMP levels. Binds bacterial lipopolysaccharide (LPS) et mediates LPS-induced inflammatory response, including TNF secretion by monocytes. Involved in hematopoiesis and in cardiac ventricular septum formation. Also plays an essential role in vascularization of the gastrointestinal tract, probably by regulating vascular branching and/or remodeling processes in endothelial cells. Involved in cerebellar development. In the CNS, could mediate hippocampal-neuron survival.
+Subcellular Location	Cell junction; Cell membrane; Early endosome; Late endosome; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGISENAPLPNVPNAPSDKHEDGKRPTHRRSARLGEEVPFVHFLTLPPNIPQAPKGLRFKTAFSLPTTSCLKPRMIYTSDNYTEEMGSGDYDSMKEPCFREENANFNKIFLPTIYSIIFLTGIVGNGLVILVMGYQKKLRSMTDKYRLHLSVADLLFVITLPFWAVDAVANWYFGNFLCKAVHVIYTVNLYSSVLILAFISLDRYLAIVHATNSQRPRKLLAEKVVYVGVWIPALLLTIPDFIFANVSEADDRYICDRFYPNDLWVVVFQFQHIMVGLILPGIVILSCYCIIISKLSHSKGHQKRKALKTTVILILAFFACWLPYYIGISIDSFILLEIIKQGCEFENTVHKWISITEALAFFHCCLNPILYAFLGAKFKTSAQHALTSVSRGSSLKILSKGKRGGHSSVSTESESSSFHSS
+PTM	

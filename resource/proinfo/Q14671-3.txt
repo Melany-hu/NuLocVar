@@ -1,0 +1,25 @@
+UniprotID	Q14671-3
+Accession	Q14671;A8K6W4;B4DG92;D3DPN3;E9PCJ0;Q53HH5;Q5VXY7;Q9HAN1
+EntryName	PUM1_HUMAN
+ProteinName	Pumilio homolog 1 (HsPUM) (Pumilio-1)
+GeneName	PUM1 KIAA0099 PUMH1
+Length	1188
+Function	Sequence-specific RNA-binding protein that acts as a post-transcriptional repressor by binding the 3'-UTR of mRNA targets. Binds to an RNA consensus sequence, the Pumilio Response Element (PRE), 5'-UGUANAUA-3', that is related to the Nanos Response Element (NRE) (PubMed:18328718, PubMed:21397187, PubMed:21572425, PubMed:21653694). Mediates post-transcriptional repression of transcripts via different mechanisms: acts via direct recruitment of the CCR4-POP2-NOT deadenylase leading to translational inhibition and mRNA degradation (PubMed:22955276). Also mediates deadenylation-independent repression by promoting accessibility of miRNAs (PubMed:18776931, PubMed:20818387, PubMed:20860814, PubMed:22345517). Following growth factor stimulation, phosphorylated and binds to the 3'-UTR of CDKN1B/p27 mRNA, inducing a local conformational change that exposes miRNA-binding sites, promoting association of miR-221 and miR-222, efficient suppression of CDKN1B/p27 expression, and rapid entry to the cell cycle (PubMed:20818387). Acts as a post-transcriptional repressor of E2F3 mRNAs by binding to its 3'-UTR and facilitating miRNA regulation (PubMed:22345517, PubMed:29474920). Represses a program of genes necessary to maintain genomic stability such as key mitotic, DNA repair and DNA replication factors. Its ability to repress those target mRNAs is regulated by the lncRNA NORAD (non-coding RNA activated by DNA damage) which, due to its high abundance and multitude of PUMILIO binding sites, is able to sequester a significant fraction of PUM1 and PUM2 in the cytoplasm (PubMed:26724866). Involved in neuronal functions by regulating ATXN1 mRNA levels: acts by binding to the 3'-UTR of ATXN1 transcripts, leading to their down-regulation independently of the miRNA machinery (PubMed:25768905, PubMed:29474920). Plays a role in cytoplasmic sensing of viral infection (PubMed:25340845). In testis, acts as a post-transcriptional regulator of spermatogenesis by binding to the 3'-UTR of mRNAs coding for regulators of p53/TP53. Involved in embryonic stem cell renewal by facilitating the exit from the ground state: acts by targeting mRNAs coding for naive pluripotency transcription factors and accelerates their down-regulation at the onset of differentiation (By similarity). Binds specifically to miRNA MIR199A precursor, with PUM2, regulates miRNA MIR199A expression at a postranscriptional level (PubMed:28431233).
+Subcellular Location	Cytoplasm; Cytoplasm; P-body; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVACVLKRKAVLWQDSFSPHLKHHPQEPANPNMPVVLTSGTGSQAQPQPAANQALAAGTHSSPVPGSIGVAGRSQDDAMVDYFFQRQHGEQLGGGGSGGGGYNNSKHRWPTGDNIHAEHQVRSMDELNHDFQALALEGRAMGEQLLPGKKFWETDESSKDGPKGIFLGDQWRDSAWGTSDHSVSQPIMVQRRPGQSFHVNSEVNSVLSPRSESGGLGVSMVEYVLSSSPGDSCLRKGGFGPRDADSDENDKGEKKNKGTFDGDKLGDLKEEGDVMDKTNGLPVQNGIDADVKDFSRTPGNCQNSANEVDLLGPNQNGSEGLAQLTSTNGAKPVEDFSNMESQSVPLDPMEHVGMEPLQFDYSGTQVPVDSAAATVGLFDYNSQQQLFQRPNALAVQQLTAAQQQQYALAAAHQPHIGLAPAAFVPNPYIISAAPPGTDPYTAGLAAAATLGPAVVPHQYYGVTPWGVYPASLFQQQAAAAAAATNSANQQTTPQAQQGQQQVLRGGASQRPLTPNQNQQGQQTDPLVAAAAVNSALAFGQGLAAGMPGYPVLAPAAYYDQTGALVVNAGARNGLGAPVRLVAPAPVIISSSAAQAAVAAAAASANGAAGGLAGTTNGPFRPLGTQQPQPQPQQQPNNNLASSSFYGNNSLNSNSQSSSLFSQGSAQPANTSLGFGSSSSLGATLGSALGGFGTAVANSNTGSGSRRDSLTGSSDLYKRTSSSLTPIGHSFYNGLSFSSSPGPVGMPLPSQGPGHSQTPPPSLSSHGSSSSLNLGGLTNGSGRYISAAPGAEAKYRSASSASSLFSPSSTLFSSSRLRYGMSDVMPSGRSRLLEDFRNNRYPNLQLREIAGHIMEFSQDQHGSRFIQLKLERATPAERQLVFNEILQAAYQLMVDVFGNYVIQKFFEFGSLEQKLALAERIRGHVLSLALQMYGCRVIQKALEFIPSDQQVINEMVRELDGHVLKCVKDQNGNHVVQKCIECVQPQSLQFIIDAFKGQVFALSTHPYGCRVIQRILEHCLPDQTLPILEELHQHTEQLVQDQYGNYVIQHVLEHGRPEDKSKIVAEIRGNVLVLSQHKFASNVVEKCVTHASRTERAVLIDEVCTMNDGPHSALYTMMKDQYANYVVQKMIDVAEPGQRKIVMHKIRPHIATLRKYTYGKHILAKLEKYYMKNGVDLGPICGPPNGII
+PTM	Acetylation:150,794,963,1158,1163;Glycosylation:786,797,799;Methylation:8,572,580,796,818,976,1084,1127,1153,1163;Phosphorylation:17,19,39,75,83,98,106,112,124,197,202,206,209,212,214,220,224,227,228,229,233,247,298,709,711,713,714,717,784,797,799,800,802,803,806,809,810,814,1114,1150;SUMOylation:270;Ubiquitylation:107,150,160,164,270,718,794,869,940,963,966,976,1084,1127,1153,1158,1170

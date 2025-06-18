@@ -1,0 +1,25 @@
+UniprotID	Q9BT81-2
+Accession	Q9BT81;B4DKV0;Q53YD0
+EntryName	SOX7_HUMAN
+ProteinName	Transcription factor SOX-7
+GeneName	SOX7
+Length	440
+Function	Binds to and activates the CDH5 promoter, hence plays a role in the transcriptional regulation of genes expressed in the hemogenic endothelium and blocks further differentiation into blood precursors (By similarity). May be required for the survival of both hematopoietic and endothelial precursors during specification (By similarity). Competes with GATA4 for binding and activation of the FGF3 promoter (By similarity). Represses Wnt/beta-catenin-stimulated transcription, probably by targeting CTNNB1 to proteasomal degradation. Binds the DNA sequence 5'-AACAAT-3'.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSMLAERRRKQKWAVDPQNTAWSNDDSKFGQRMLEKMGWSKGKGLGAQEQGATDHIKVQVKNNHLGLGATINNEDNWIAHQDDFNQLLAELNTCHGQETTDSSDKKEKKSFSLEEKSKISKNRVHYMKFTKGKSWKALTLSQKRPYVDEAERLRLQHMQDYPNYKYRPRRKKQAKRLCKRVDPGFLLSSLSRDQNALPEKRSGSRGALGEKEDRGEYSPGTALPSLRGCYHEGPAGGGGGGTPSSVDTYPYGLPTPPEMSPLDVLEPEQTFFSSPCQEEHGHPRRIPHLPGHPYSPEYAPSPLHCSHPLGSLALGQSPGVSMMSPVPGCPPSPAYYSPATYHPLHSNLQAHLGQLSPPPEHPGFDALDQLSQVELLGDMDRNEFDQYLNTPGHPDSATGAMALSGHVPVSQVTPTGPTETSLISVLADATATYYNSYSVS
+PTM	Methylation:159;Phosphorylation:89,165,166,173;Ubiquitylation:120,123

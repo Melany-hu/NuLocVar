@@ -1,0 +1,25 @@
+UniprotID	A0A494C1H3
+Accession	A0A494C1H3
+EntryName	A0A494C1H3_HUMAN
+ProteinName	Chimerin 1
+GeneName	CHN1
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALTLFDTDEYRPPVWKSYCGKQTKVLWKRVSWHDLQRSSRPALDCG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YWL8
+Accession	A0A0J9YWL8
+EntryName	A0A0J9YWL8_HUMAN
+ProteinName	DLG associated protein 2
+GeneName	DLGAP2
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SAVRTVRTQGLFSYREDYRTQVDTSTLPPPDPWLEPAIDTVETGRMSPCRRDGSWFLKLLHAETKRMEGWCKEMEREAEENDLSEEKLLPAHALQENALALCQREVDGGDDGRRMLGRCCLPRDPQSPQHGCMGLVQVSTAVFRSFTRRLHFSWLGYI
+PTM	

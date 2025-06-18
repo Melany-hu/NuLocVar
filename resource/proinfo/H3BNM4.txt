@@ -1,0 +1,25 @@
+UniprotID	H3BNM4
+Accession	H3BNM4
+EntryName	H3BNM4_HUMAN
+ProteinName	INO80 complex subunit E
+GeneName	INO80E
+Length	227
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGPADGEVDYKKKYRNLKRKLKFLIYEHECFQEELRKAQRKLLKVSRDKSFLLDRLLQYENVDEDSSDSDATASSDNSETEGTPKLSDTPAPKRKRSPPLGGAPSPSSLSLPPSTGFPLQASGVPSPYLSSLPEPSPLRPKREKRPRLPRKLKMAVGPPDCPVGGPLTFPGRGSGAGVGTTLTPLPPPKMPPPTILSTVPRQMFSDAGSGDDALDGDDDLVIDIPE
+PTM	

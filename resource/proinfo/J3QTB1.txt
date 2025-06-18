@@ -1,0 +1,25 @@
+UniprotID	J3QTB1
+Accession	J3QTB1
+EntryName	J3QTB1_HUMAN
+ProteinName	Stimulator of interferon response cGAMP interactor 1
+GeneName	STING1
+Length	283
+Function	
+Subcellular Location	Cytoplasm; Perinuclear region; Cytoplasmic vesicle; Autophagosome membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHSSLHPSIPCPRGHGAQKAALVLLSACLVTLWGLGEPPEHTLRYLVLHLASLQLGLLLNGVCSLAEELRHIHSRYRGSYWRTVRACLGCPLRRGALLLLSIYFYYSLPNAVGPPFTWMLALLGLSQALNILLGLKGLAPAEISAVCEKGNFNVAHGLAWSYYIGYLRLILPELQARIRTYNQHYNNLLRGAVSQRLYILLPLDCGVPDNLSMADPNIRFLDKLPQQTGDHAGIKDRVYSNSIYELLENGQRNLQMTAASRCPRRFSGTCGRRKRKRLLWAA
+PTM	

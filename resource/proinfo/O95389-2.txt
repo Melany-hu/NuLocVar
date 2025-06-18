@@ -1,0 +1,25 @@
+UniprotID	O95389-2
+Accession	O95389;Q3KR29;Q5H8W4;Q6UXH6
+EntryName	CCN6_HUMAN
+ProteinName	Cellular communication network factor 6 (CCN family member 6) (WNT1-inducible-signaling pathway protein 3) (WISP-3)
+GeneName	CCN6 WISP3 UNQ462/PRO790/PRO956
+Length	372
+Function	Plays a role in mitochondrial electron transport and mitochondrial respiration (PubMed:27252383). Through its regulation of the mitochondrial function may play a role in normal postnatal skeletal growth and cartilage homeostasis (PubMed:10471507, PubMed:27252383).
+Subcellular Location	Secreted; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNKRRLLYPSGWLHGPSDMQGLLFSTLLLAGLAQFCCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKICAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQPNPLFSCLCVSGAIGCTPLFIPKLAGSHCSGAKGGKKSDQSNCSLEPLLQQLSTSYKTMPAYRNLPLIWKKKCLVQATKWTPCSRTCGMGISNRVTNENSNCEMRKEKRLCYIQPCDSNILKTIKIPKGKTCQPTFQLSKAEKFVFSGCSSTQSYKPTFCGICLDKRCCIPNKSKMITIQFDCPNEGSFKWKMLWITSCVCQRNCREPGDIFSELKIL
+PTM	Methylation:215,258;Phosphorylation:180,192

@@ -1,0 +1,25 @@
+UniprotID	Q6PKG0-3
+Accession	Q6PKG0;O94836;Q8N4M2;Q8NB73;Q9UFD7
+EntryName	LARP1_HUMAN
+ProteinName	La-related protein 1 (La ribonucleoprotein domain family member 1)
+GeneName	LARP1 KIAA0731 LARP
+Length	1019
+Function	RNA-binding protein that regulates the translation of specific target mRNA species downstream of the mTORC1 complex, in function of growth signals and nutrient availability (PubMed:20430826, PubMed:23711370, PubMed:24532714, PubMed:25940091, PubMed:28650797, PubMed:28673543, PubMed:29244122). Interacts on the one hand with the 3' poly-A tails that are present in all mRNA molecules, and on the other hand with the 7-methylguanosine cap structure of mRNAs containing a 5' terminal oligopyrimidine (5'TOP) motif, which is present in mRNAs encoding ribosomal proteins and several components of the translation machinery (PubMed:23711370, PubMed:25940091, PubMed:26206669, PubMed:28379136, PubMed:28650797, PubMed:29244122). The interaction with the 5' end of mRNAs containing a 5'TOP motif leads to translational repression by preventing the binding of EIF4G1 (PubMed:25940091, PubMed:28379136, PubMed:28650797, PubMed:29244122). When mTORC1 is activated, LARP1 is phosphorylated and dissociates from the 5' untranslated region (UTR) of mRNA (PubMed:25940091, PubMed:28650797). Does not prevent binding of EIF4G1 to mRNAs that lack a 5'TOP motif (PubMed:28379136). Interacts with the free 40S ribosome subunit and with ribosomes, both monosomes and polysomes (PubMed:20430826, PubMed:24532714, PubMed:25940091, PubMed:28673543). Under normal nutrient availability, interacts primarily with the 3' untranslated region (UTR) of mRNAs encoding ribosomal proteins and increases protein synthesis (PubMed:23711370, PubMed:28650797). Associates with actively translating ribosomes and stimulates translation of mRNAs containing a 5'TOP motif, thereby regulating protein synthesis, and as a consequence, cell growth and proliferation (PubMed:20430826, PubMed:24532714). Stabilizes mRNAs species with a 5'TOP motif, which is required to prevent apoptosis (PubMed:20430826, PubMed:23711370, PubMed:25940091, PubMed:28673543).
+Subcellular Location	Cytoplasm; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLWRVLLSKRPPFPHPELDFQEAPIPSCPGRLPGRKNSVALAAAPRKEPTGDREKPLPFPVLAPFSNPEHSAPAKVVRAAVPKQRKGSKVGDFGDAINWPTPGEIAHKSVQPQSHKPQPTRKLPPKKDMKEQEKGEGSDSKESPKTKSDESGEEKNGDEDCQRGGQKKKGNKHKWVPLQIDMKPEVPREKLASRPTRPPEPRHIPANRGEIKGSESATYVPVAPPTPAWQPEIKPEPAWHDQDETSSVKSDGAGGARASFRGRGRGRGRGRGRGRGGTRTHFDYQFGYRKFDGVEGPRTPKYMNNITYYFDNVSSTELYSVDQELLKDYIKRQIEYYFSVDNLERDFFLRRKMDADGFLPITLIASFHRVQALTTDISLIFAALKDSKVVEIVDEKVRRREEPEKWPLPPIVDYSQTDFSQLLNCPEFVPRQHYQKETESAPGSPRAVTPVPTKTEEVSNLKTLPKGLSASLPDLDSENWIEVKKRPRPSPARPKKSEESRFSHLTSLPQQLPSQQLMSKDQDEQEELDFLFDEEMEQMDGRKNTFTAWSDEESDYEIDDRDVNKILIVTQTPHYMRRHPGGDRTGNHTSRAKMSAELAKVINDGLFYYEQDLWAEKFEPEYSQIKQEVENFKKVNMISREQFDTLTPEPPVDPNQEVPPGPPRFQQVPTDALANKLFGAPEPSTIARSLPTTVPESPNYRNTRTPRTPRTPQLKDSSQTSRFYPVVKEGRTLDAKMPRKRKTRHSSNPPLESHVGWVMDSREHRPRTASISSSPSEGTPTVGSYGCTPQSLPKFQHPSHELLKENGFTQHVYHKYRRRCLNERKRLGIGQSQEMNTLFRFWSFFLRDHFNKKMYEEFKQLALEDAKEGYRYGLECLFRYYSYGLEKKFRLDIFKDFQEETVKDYEAGQLYGLEKFWAFLKYSKAKNLDIDPKLQEYLGKFRRLEDFRVDPPMGEEGNHKRHSVVAGGGGGEGRKRCPSQSSSRPAAMISQPPTPPTGQPVREDAKWTSQHSNTQTLGK
+PTM	Acetylation:185,260,473,531,539,753,892,964,998,1003,1017,1083;Glycosylation:324,770;Methylation:45,129,240,274,285,366,375,404,473,543,561,677,694,753,792,813,881,944,1010;Phosphorylation:3,68,75,90,137,138,143,148,165,178,215,217,220,223,225,228,273,291,293,295,296,303,322,323,324,327,361,365,376,511,515,517,521,526,530,532,536,540,546,548,554,567,580,583,584,591,596,622,624,627,631,633,647,649,652,662,666,667,699,722,724,761,762,766,769,770,774,777,780,782,785,788,794,795,797,798,820,823,824,830,845,847,849,850,851,853,856,858,861,862,865,868,1040,1056,1058,1059,1060,1067,1071,1074,1085,1086,1089;SUMOylation:260,311,531,703;Ubiquitylation:123,260,267,311,367,465,473,531,539,753,792,805,813,871,881,936,944,1003,1017,1037

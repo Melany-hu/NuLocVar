@@ -1,0 +1,25 @@
+UniprotID	Q8IYB7-3
+Accession	Q8IYB7;Q53S79;Q580W6;Q5XKH0;Q69YG5;Q6AW99;Q7Z4T6;Q8N9K9
+EntryName	DI3L2_HUMAN
+ProteinName	DIS3-like exonuclease 2 (hDIS3L2) (EC 3.1.13.-)
+GeneName	DIS3L2 FAM6A
+Length	603
+Function	3'-5'-exoribonuclease that specifically recognizes RNAs polyuridylated at their 3' end and mediates their degradation. Component of an exosome-independent RNA degradation pathway that mediates degradation of both mRNAs and miRNAs that have been polyuridylated by a terminal uridylyltransferase, such as ZCCHC11/TUT4. Mediates degradation of cytoplasmic mRNAs that have been deadenylated and subsequently uridylated at their 3'. Mediates degradation of uridylated pre-let-7 miRNAs, contributing to the maintenance of embryonic stem (ES) cells. Essential for correct mitosis, and negatively regulates cell proliferation.
+Subcellular Location	Cytoplasm; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSHPDYRMNLRPLGTPRGVSAVAGPHDIGASPGDKKSKNRSTRGKKKSIFETYMSKEDVSEGLKRGTLIQGVLRINPKKFHEAFIPSPDGDRDIFIDGVVARNRALNGDLVVVKLLPEEHWKVVKPESNDKETEAAYESDIPEELCGHHLPQQSLKSYNDSPDVIVEAQFDGSDSEDGHGITQNVLVDGVKKLSVCVSEKGREDGDAPVTKDETTCISQDTRALSEKSLQRSAKVVYILEKKHSRAATGFLKLLADKNSELFRKYALFSPSDHRVPRIYVPLKDCPQDFVARPKDYANTLFICRIVDWKEDCNFALGQLAKSLGQAGEIEPETEGILTEYGVDFSDFSSEVLECLPQGLPWTIPPEEFSKRRDLRKDCIFTIDPSTARDLDDALSCKPLADGNFKVGVHIADVSYFVPEGSDLDKVAAERATSVYLVQKVVPMLPRLLCEELCSLNPMSDKLTFSVIWTLTPEGKILDEWFGRTIIRSCTKLSYEHAQSMIESPTEKIPAKELPPISPEHSSEEVHQQNADKDGAAHLQASHSPSAEDAEAQPSTEERLPETRGICDRDPDTRLFFLQQQSRVLEAKPQNTIRVEEQTTQLQI
+PTM	Acetylation:257;Methylation:11,17,78,191,241,283,321,425,555,734,763,779,858;Phosphorylation:15,31,48,128,133,137,139,154,173,175,194,484,488,490,862,875,882,883,884,885;Ubiquitylation:397,652,793

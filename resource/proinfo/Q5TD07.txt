@@ -1,0 +1,25 @@
+UniprotID	Q5TD07
+Accession	Q5TD07
+EntryName	Q5TD07_HUMAN
+ProteinName	N-ribosyldihydronicotinamide:quinone dehydrogenase 2
+GeneName	NQO2
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGKKVLIVYAHQEPKSFNGSLKNVAVDELSRQGCTVTVSDLYAMNLEPRATDKDITGTLSNPEVFNYGVETHEAYKQRSLASDITDEQKKVREADLVIFQGKLALLSVTTGGTAEMYTKTGVNGDSRYFLWPLQHGTLHFCGFKVLAPQISFAPEIASEEERKGMVAAWSQRLQTIWKEEPIPCTAHWHFGQ
+PTM	

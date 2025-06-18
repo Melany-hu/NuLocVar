@@ -1,0 +1,25 @@
+UniprotID	O00560-3
+Accession	O00560;B2R5Q7;B4DUH3;B7ZLN2;O00173;O43391;Q14CP2
+EntryName	SDCB1_HUMAN
+ProteinName	Syntenin-1 (Melanoma differentiation-associated protein 9) (MDA-9) (Pro-TGF-alpha cytoplasmic domain-interacting protein 18) (TACIP18) (Scaffold protein Pbp1) (Syndecan-binding protein 1)
+GeneName	SDCBP MDA9 SYCL
+Length	292
+Function	Multifunctional adapter protein involved in diverse array of functions including trafficking of transmembrane proteins, neuro and immunomodulation, exosome biogenesis, and tumorigenesis (PubMed:26291527). Positively regulates TGFB1-mediated SMAD2/3 activation and TGFB1-induced epithelial-to-mesenchymal transition (EMT) and cell migration in various cell types. May increase TGFB1 signaling by enhancing cell-surface expression of TGFR1 by preventing the interaction between TGFR1 and CAV1 and subsequent CAV1-dependent internalization and degradation of TGFR1 (PubMed:25893292). In concert with SDC1/4 and PDCD6IP, regulates exosome biogenesis (PubMed:22660413). Regulates migration, growth, proliferation, and cell cycle progression in a variety of cancer types (PubMed:26539120). In adherens junctions may function to couple syndecans to cytoskeletal proteins or signaling components. Seems to couple transcription factor SOX4 to the IL-5 receptor (IL5RA) (PubMed:11498591). May also play a role in vesicular trafficking (PubMed:11179419). Seems to be required for the targeting of TGFA to the cell surface in the early secretory pathway (PubMed:10230395).
+Subcellular Location	Cell junction; Focal adhesion; Cell junction; Adherens junction; Cell membrane; Endoplasmic reticulum membrane; Nucleus; Melanosome; Cytoplasm; Cytosol; Cytoplasm; Cytoskeleton; Secreted; Extracellular exosome; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLYPSLEDLKAQTAFSANPANPAILSEASAPIPHDGNLYPRLYPELSQYMGLSLNEEEIRANVAVVSGAPLQGQLVARPSSINYMVAPVTGNDVGIRRAEIKQGIREVILCKDQDGKIGLRLKSIDNGIFVQLVQANSPASLVGLRFGDQVLQINGENCAGWSSDKAHKVLKQAFGEKITMTIRDRPFERTITMHKDSTGHVGFIFKNGKITSIVKDSSAARNGLLTEHNICEINGQNVIGLKDSQIADILSTSGTVVTITIMPAFIFEHIIKRMAPSIMKSLMDHTIPEV
+PTM	Acetylation:124,173,179,214;Glycosylation:162,165,230,237,242,245;Methylation:11,250;Phosphorylation:4,6,36,46,50,54,56,60,87,88,91,131,187,206,220,285;SUMOylation:11,14,119,185;Ubiquitylation:11,14,109,179,185,214,223

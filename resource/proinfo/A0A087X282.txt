@@ -1,0 +1,25 @@
+UniprotID	A0A087X282
+Accession	A0A087X282
+EntryName	A0A087X282_HUMAN
+ProteinName	Tax1 binding protein 3
+GeneName	TAX1BP3
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYIPGQPVTAVVQRVEIHKLRQGENLILGFSIGGGIDQDPSQNPFSEDKTDKVNGWDMTMVTHDQARKRLTKRSEEVVRLLVTRQSLQKAVQQSMLS
+PTM	

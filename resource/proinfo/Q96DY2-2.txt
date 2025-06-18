@@ -1,0 +1,25 @@
+UniprotID	Q96DY2-2
+Accession	Q96DY2;Q6ZSU0
+EntryName	DRC10_HUMAN
+ProteinName	Dynein regulatory complex protein 10 (IQ domain-containing protein D)
+GeneName	IQCD DRC10
+Length	347
+Function	Component of the nexin-dynein regulatory complex (N-DRC), a key regulator of ciliary/flagellar motility which maintains the alignment and integrity of the distal axoneme and regulates microtubule sliding in motile axonemes.
+Subcellular Location	Cytoplasm; Cytoskeleton; Flagellum axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALDILAMAPLYQAPAINRIGPKTDPSKRPADPLKPLVLSRTKLTTIEAKRIMSILDEAIYKVELVTLLSYVASNREDMEGMLGEDVMRAVREHEDLCQVLLENVRCLKEKERQLQEQKEAEEEGWLRDRLLSIELQKSSLSPLMQQIKDSTKNVLRLLLSNPQAARLLQMQTQGRSAEAQNFIDSLIELRGFLFEKLLTSPMEARDKAQFLQDISRQNSNNQQIIDTLEKELAERMKNRNAEEELEDLDAVHREEKISLEELRRRHKVLVGEFAQIREEREINSKKRMEAEQEMVRMVRAATLIQALWKGYLVRSLLRSKKKRGKGKAKDKEKGKQKGKEKGKGKK
+PTM	Methylation:138,149,231,246,255,263;Phosphorylation:133,387,414,418

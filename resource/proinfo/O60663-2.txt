@@ -1,0 +1,25 @@
+UniprotID	O60663-2
+Accession	O60663;F8W7W6;O75463;Q5JU95;Q6ISC9
+EntryName	LMX1B_HUMAN
+ProteinName	LIM homeobox transcription factor 1-beta (LIM/homeobox protein 1.2) (LMX-1.2) (LIM/homeobox protein LMX1B)
+GeneName	LMX1B
+Length	395
+Function	Transcription factor involved in the regulation of podocyte-expressed genes (PubMed:24042019, PubMed:28059119). Essential for the specification of dorsal limb fate at both the zeugopodal and autopodal levels.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDIATGPESLERCFPRGQTDCAKMLDGIKMEEHALRPGPATLGVLLGSDCPHPAVCEGCQRPISDRFLMRVNESSWHEECLQCAACQQALTTSCYFRDRKLYCKQDYQQLFAAKCSGCMEKIAPTEFVMRALECVYHLGCFCCCVCERQLRKGDEFVLKEGQLLCKGDYEKEKDLLSSVSPDESDSVKSEDEDGDMKPAKGQGSQSKGSGDDGKDPRRPKRPRTILTTQQRRAFKASFEVSSKPCRKVRETLAAETGLSVRVVQVWFQNQRAKMKKLARRHQQQQEQQNSQRLGQEVLSSRMEGMMASYTPLAPPQQQIVAMEQSPYGSSDPFQQGLTPPQMPGNDSIFHDIDSDTSLTSLSDCFLGSSDVGSLQARVGNPIDRLYSMQSSYFAS
+PTM	Acetylation:214;Methylation:114,159;Phosphorylation:180,184,186,189,228,259,300;SUMOylation:29,166

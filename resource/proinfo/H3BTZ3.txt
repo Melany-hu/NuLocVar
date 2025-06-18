@@ -1,0 +1,25 @@
+UniprotID	H3BTZ3
+Accession	H3BTZ3
+EntryName	H3BTZ3_HUMAN
+ProteinName	ADAM metallopeptidase with thrombospondin type 1 motif 18
+GeneName	ADAMTS18
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVDSAGSYISHDILHNGRKKRSAQNARSSLHYRFSAFGQELHLELKPSAILSSHFIVQVLGKDGASETQKPEVQQCFYQGFIRNDSSSSVAVSTCAGLLLAQEHNYSSPAGHHPHVLYKRTAEEKIQRYRGYPGSGRNYPGYSPSHIPHASQSRETEYHHRRLQKQHFCGRRKKCICSQASHRGH
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O95453-2
+Accession	O95453;B2RCB3;B4DDG8;B4DSB0;B4DWR4;B4E1H6
+EntryName	PARN_HUMAN
+ProteinName	Poly(A)-specific ribonuclease PARN (EC 3.1.13.4) (Deadenylating nuclease) (Deadenylation nuclease) (Polyadenylate-specific ribonuclease)
+GeneName	PARN DAN
+Length	578
+Function	3'-exoribonuclease that has a preference for poly(A) tails of mRNAs, thereby efficiently degrading poly(A) tails. Exonucleolytic degradation of the poly(A) tail is often the first step in the decay of eukaryotic mRNAs and is also used to silence certain maternal mRNAs translationally during oocyte maturation and early embryonic development. Interacts with both the 3'-end poly(A) tail and the 5'-end cap structure during degradation, the interaction with the cap structure being required for an efficient degradation of poly(A) tails. Involved in nonsense-mediated mRNA decay, a critical process of selective degradation of mRNAs that contain premature stop codons. Also involved in degradation of inherently unstable mRNAs that contain AU-rich elements (AREs) in their 3'-UTR, possibly via its interaction with KHSRP. Probably mediates the removal of poly(A) tails of AREs mRNAs, which constitutes the first step of destabilization (PubMed:10882133, PubMed:11359775, PubMed:12748283, PubMed:15175153, PubMed:9736620). Also able to recognize and trim poly(A) tails of microRNAs such as MIR21 and H/ACA box snoRNAs (small nucleolar RNAs) leading to microRNAs degradation or snoRNA increased stability (PubMed:22442037, PubMed:25049417).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFLLFQFGLCTFKYDYTDSKYITKSFNFYVFPKPFNRSSPDVKFVCQSSSIDFLASQGFDFNKVFRNGIPYLNQEEERQLREQYDEKRSQANGAGALSYVSPNTSKCPVTIPEDQKKFIDQVVEKIEDLLQSEENKNLDLEPCTGFQRKLIYQTLSWKYPKGIHVETLETEKKERYIVISKVDEEERKRREQQKHAKEQEELNDAVGFSRVIHAIANSGKLVIGHNMLLDVMHTVHQFYCPLPADLSEFKEMTTCVFPRLLDTKLMASTQPFKDIINNTSLAELEKRLKETPFNPPKVESAEGFPSYDTASEQLHEAGYDAYITGLCFISMANYLGSFLSPPKIHVSARSKLIEPFFNKLFLMRVMDIPYLNLEGPDLQPKRDHVLHVTFPKEWKTSDLYQLFSAFGNIQISWIDDTSAFVSLSQPEQVKIAVNTSKYAESYRIQTYAEYMGRKQEEKQIKRKWTEDSWKEADSKRLNPQCIPYTLQNHYYRNNSFTAPSTVGKRNLSPSQEEAGLEDGVSGEISDTELEQTDSCAEPLSEGRKKAKKLKRMKKELSPAGSISKNSPATLFEVPDTW
+PTM	Acetylation:149,220,243,259,326,413,499,520,566;Methylation:9,187,243,312,348;Phosphorylation:61,100,151,160,161,163,166,167,172,214,218,238,242,402,508,512,557,559,562,570,572,583,587,589,596,602,619,623,625,628,631;SUMOylation:187,198,243,326,413,525,537,566;Ubiquitylation:326,413,499

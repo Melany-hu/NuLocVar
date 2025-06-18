@@ -1,0 +1,25 @@
+UniprotID	A0A4D6GKF8
+Accession	A0A4D6GKF8
+EntryName	A0A4D6GKF8_HUMAN
+ProteinName	Minichromosome maintenance 9 homologous recombination repair factor (EC 3.6.4.12)
+GeneName	MCM9
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSDQVTLVGQVFESYVSEYHKNDILLILKERDEDAHYPVVVNAMTLFETNMEIGEYFNMFPSEVLTIFDSALRRSALTILQSLSHPEAVSMKQNLHARIS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96A57-2
+Accession	Q96A57;B2RDM8;D3DVZ9;Q0VGC8;Q5TDS5;Q96ES2;Q9P0A7
+EntryName	TM230_HUMAN
+ProteinName	Transmembrane protein 230
+GeneName	TMEM230 C20orf30 HSPC274 UNQ2432/PRO4992
+Length	183
+Function	Involved in trafficking and recycling of synaptic vesicles.
+Subcellular Location	Membrane; Golgi apparatus; trans-Golgi network; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle; Early endosome; Recycling endosome; Late endosome; Cytoplasmic vesicle; Autophagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPWALPTVGELWVCGRPGAALRWSLVLSPRLEPSGVISAHCNLHLLASSDSSASASRLCQRVMMPSRTNLATGIPSSKVKYSRLSSTDDGYIDLQFKKTPPKIPYKAIALATVLFLIGAFLIIIGSLLLSGYISKGGADRAVPVLIIGILVFLPGFYHLRIAYYASKGYRGYSYDDIPDFDD
+PTM	Glycosylation:10;Phosphorylation:4,10,14,15,19,20,23,24,25,29;SUMOylation:16;Ubiquitylation:16,18,35,105

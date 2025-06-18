@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BHK4
+Accession	A0AAQ5BHK4
+EntryName	A0AAQ5BHK4_HUMAN
+ProteinName	Transmembrane protein 181
+GeneName	TMEM181
+Length	169
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYQYRVDTGNFQGMKVFFMVVAAVYILYLLFLIVRACSELRHMPYVDLRLKFLTALTFVVLVISIAILYLRFGAQVLQDNFVAELSTHYQNSAEFLSFYGLLNFYLYTLAFVYSPSKNALYESQLKDNPAFSMLNDSDDDVIYGSDYEEMPLQNGQAIRAKYKEESDSD
+PTM	

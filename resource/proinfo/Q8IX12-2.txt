@@ -1,0 +1,25 @@
+UniprotID	Q8IX12-2
+Accession	Q8IX12;A0JLT7;A1L4P7;A8K9D4;B4DNP8;B4DRK8;Q32NE3;Q5EBM3;Q5VUP6;Q6PIZ0;Q6X935;Q9H8N4;Q9NVA7;Q9NVQ0;Q9NWM6
+EntryName	CCAR1_HUMAN
+ProteinName	Cell division cycle and apoptosis regulator protein 1 (Cell cycle and apoptosis regulatory protein 1) (CARP-1) (Death inducer with SAP domain)
+GeneName	CCAR1 CARP1 DIS
+Length	1135
+Function	Associates with components of the Mediator and p160 coactivator complexes that play a role as intermediaries transducing regulatory signals from upstream transcriptional activator proteins to basal transcription machinery at the core promoter. Recruited to endogenous nuclear receptor target genes in response to the appropriate hormone. Also functions as a p53 coactivator. May thus play an important role in transcriptional regulation (By similarity). May be involved in apoptosis signaling in the presence of the reinoid CD437. Apoptosis induction involves sequestration of 14-3-3 protein(s) and mediated altered expression of multiple cell cycle regulatory genes including MYC, CCNB1 and CDKN1A. Plays a role in cell cycle progression and/or cell proliferation (PubMed:12816952). In association with CALCOCO1 enhances GATA1- and MED1-mediated transcriptional activation from the gamma-globin promoter during erythroid differentiation of K562 erythroleukemia cells (PubMed:24245781). Can act as a both a coactivator and corepressor of AR-mediated transcription. Contributes to chromatin looping and AR transcription complex assembly by stabilizing AR-GATA2 association on chromatin and facilitating MED1 and RNA polymerase II recruitment to AR-binding sites. May play an important role in the growth and tumorigenesis of prostate cancer cells (PubMed:23887938).
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQFGGQKNPPWATQFTATAVSQPAALGVQQPSLLGASPTIYTQQTALAAAGLTTQTPANYQLTQTAALQQQAAAAAAALQQLQQPQQTLLTQPAVALPTSLSLSTPQPTAQITVSYPTPRSSQQQTQPQKQRVFTGVVTKLHDTFGFVDEDVFFQLSAVKGKTPQVGDRVLVEATYNPNMPFKWNAQRIQTLPNQNQSQTQPLLKTPPAVLQPIAPQTTFGVQTQPQPQSLLQAQISAASITPLLQTQPQPLLQQPQQKAGLLQPPVRIVSQPQPARRLDPPSRFSGRNDRGDQVPNRKDDRSRERERERRRSRERSPQRKRSRERSPRRERERSPRRVRRVVPRYTVQFSKFSLDCPSCDMMELRRRYQNLYIPSDFFDAQFTWVDAFPLSRPFQLGNYCNFYVMHREVESLEKNMAILDPPDADHLYSAKVMLMASPSMEDLYHKSCALAEDPQELRDGFQHPARLVKFLVGMKGKDEAMAIGGHWSPSLDGPDPEKDPSVLIKTAIRCCKALTGIDLSVCTQWYRFAEIRYHRPEETHKGRTVPAHVETVVLFFPDVWHCLPTRSEWETLSRGYKQQLVEKLQGERKEADGEQDEEEKDDGEAKEISTPTHWSKLDPKTMKVNDLRKELESRALSSKGLKSQLIARLTKQLKVEEQKEEQKELEKSEKEEDEDDDRKSEDDKEEEERKRQEEIERQRRERRYILPDEPAIIVHPNWAAKSGKFDCSIMSLSVLLDYRLEDNKEHSFEVSLFAELFNEMLQRDFGVRIYKSLLSLPEKEDKKEKDKKSKKDERKDKKEERDDETDEPKPKRRKSGDDKDKKEDRDERKKEDKRKDDSKDDDETEEDNNQDEYDPMEAEEAEDEEDDRDEEEMTKRDDKRDINRYCKERPSKDKEKEKTQMITINRDLLMAFVYFDQSHCGYLLEKDLEEILYTLGLHLSRAQVKKLLNKVVLRESCFYRKLTDTSKDEENHEESESLQEDMLGNRLLLPTPTVKQESKDVEENVGLIVYNGAMVDVGSLLQKLEKSEKVRAEVEQKLQLLEEKTDEDEKTILNLENSNKSLSGELREVKKDLSQLQENLKISENMNLQFENQMNKTIRNLSTVMDEIHTVLKKDNVKNEDKDQKSKENGASV
+PTM	Acetylation:146,431,486,558,594,1130;Methylation:199,382,431,522,600,637,684,815,943,962,967,1040,1061,1098;Phosphorylation:191,192,287,329,333,339,343,416,454,456,461,626,627,629,667,685,697,832,861,870,992,994,1008,1010,1080,1091;SUMOylation:826,913,915,984,1012,1016,1061,1067,1077,1135;Ubiquitylation:146,463,486,522,594,600,967,1012,1054,1061

@@ -1,0 +1,25 @@
+UniprotID	Q8NG50-4
+Accession	Q8NG50;A0JP55;A8MV46;A8MY68;A8MZ92;A8RCS5;A8RCT0;A8RCT5;A8RCT8;A8RCU3;A8RCU8;A8RCW0;A8RCW5
+EntryName	RDM1_HUMAN
+ProteinName	RAD52 motif-containing protein 1 (RAD52 homolog B)
+GeneName	RDM1 RAD52B
+Length	116
+Function	May confer resistance to the antitumor agent cisplatin. Binds to DNA and RNA.
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; Nucleolus; Cytoplasm; Nucleus; PML body; Nucleus; Cajal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	55...60
+validnes_region	
+nesbase_region	
+Sequence	MHLLVPPPQHSLFTAFSQFGLLYSVRVFPNAAVAHPGFYAVIKFYSARAAHRAQKACDRKQLFQKSPVKVRLGTRHKAVQHQALALNSSKCQELANYYFGFNGCSKRIIKDHYHSL
+PTM	Methylation:66,208;Phosphorylation:224;SUMOylation:100,113,133,154;Ubiquitylation:88,203

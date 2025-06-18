@@ -1,0 +1,25 @@
+UniprotID	H0YB90
+Accession	H0YB90
+EntryName	H0YB90_HUMAN
+ProteinName	Caspase recruitment domain family member 8
+GeneName	CARD8
+Length	70
+Function	
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGQMKEPIQLEITEKRHGTLVWDTEVKPVDLQLVAASAPPPFSGVRMWPGCCPILPRTGCTCLCLNPWLP
+PTM	

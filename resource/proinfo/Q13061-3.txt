@@ -1,0 +1,25 @@
+UniprotID	Q13061-3
+Accession	Q13061;A5D6W5;F5H2W7;Q6NSB8
+EntryName	TRDN_HUMAN
+ProteinName	Triadin
+GeneName	TRDN
+Length	167
+Function	Contributes to the regulation of lumenal Ca2+ release via the sarcoplasmic reticulum calcium release channels RYR1 and RYR2, a key step in triggering skeletal and heart muscle contraction. Required for normal organization of the triad junction, where T-tubules and the sarcoplasmic reticulum terminal cisternae are in close contact (By similarity). Required for normal skeletal muscle strength. Plays a role in excitation-contraction coupling in the heart and in regulating the rate of heart beats.
+Subcellular Location	Cell membrane; Sarcoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEITAEGNASTTTTVIDSKNGSVPKSPGKVLKRTVTEDIVTTFSSPAAWLLVIALIITWSAVAIVMFDLVDYKNFSASSIAKIGSDPLKLVRDAMEETTDWIYGFFSLLSDIISSEDEEDDDGDEDTDKGEIDEPPLRKKEIHKDKTEKQEKPERKIQTKEVGHSS
+PTM	Methylation:242,471,517,547,572,620;Phosphorylation:343,409,415,418,468,591,605,610,642,667,678;SUMOylation:231

@@ -1,0 +1,25 @@
+UniprotID	Q9NPI1-2
+Accession	Q9NPI1;Q4VC09;Q8N2L9;Q96KA4;Q9BV48;Q9UH59
+EntryName	BRD7_HUMAN
+ProteinName	Bromodomain-containing protein 7 (75 kDa bromodomain protein) (Protein CELTIX-1)
+GeneName	BRD7 BP75 CELTIX1
+Length	652
+Function	Acts both as coactivator and as corepressor. May play a role in chromatin remodeling. Activator of the Wnt signaling pathway in a DVL1-dependent manner by negatively regulating the GSK3B phosphotransferase activity. Induces dephosphorylation of GSK3B at 'Tyr-216'. Down-regulates TRIM24-mediated activation of transcriptional activation by AR (By similarity). Transcriptional corepressor that down-regulates the expression of target genes. Binds to target promoters, leading to increased histone H3 acetylation at 'Lys-9' (H3K9ac). Binds to the ESR1 promoter. Recruits BRCA1 and POU2F1 to the ESR1 promoter. Coactivator for TP53-mediated activation of transcription of a set of target genes. Required for TP53-mediated cell-cycle arrest in response to oncogene activation. Promotes acetylation of TP53 at 'Lys-382', and thereby promotes efficient recruitment of TP53 to target promoters. Inhibits cell cycle progression from G1 to S phase.
+Subcellular Location	Nucleus; Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	65..96
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	79...84;89...94;222...227;62...68;81...86
+validnes_region	
+nesbase_region	
+Sequence	MGKKHKKHKSDKHLYEEYVEKPLKLVLKVGGNEVTELSTGSSGHDSSLFEDKNDHDKHKDRKRKKRKKGEKQIPGEEKGRKRRRVKEDKKKRDRDRVENEAEKDLQCHAPVRLDLPPEKPLTSSLAKQEEVEQTPLQEALNQLMRQLQRKDPSAFFSFPVTDFIAPGYSMIIKHPMDFSTMKEKIKNNDYQSIEELKDNFKLMCTNAMIYNKPETIYYKAAKKLLHSGMKILSQERIQSLKQSIDFMADLQKTRKQKDGTDTSQSGEDGGCWQREREDSGDAEAHAFKSPSKENKKKDKDMLEDKFKSNNLEREQEQLDRIVKESGGKLTRRLVNSQCEFERRKPDGTTTLGLLHPVDPIVGEPGYCPVRLGMTTGRLQSGVNTLQGFKEDKRNKVTPVLYLNYGPYSSYAPHYDSTFANISKDDSDLIYSTYGEDSDLPSDFSIHEFLATCQDYPYVMADSLLDVLTKGGHSRTLQEMEMSLPEDEGHTRTLDTAKEMEQITEVEPPGRLDSSTQDRLIALKAVTNFGVPVEVFDSEEAEIFQKKLDETTRLLRELQEAQNERLSTRPPPNMICLLGPSYREMHLAEQVTNNLKELAQQVTPGDIVSTYGVRKAMGISIPSPVMENNFVDLTEDTEEPKKTDVAECGPGGS
+PTM	Acetylation:21,103,197,328;Methylation:28,52,197,252,522,594;Phosphorylation:35,38,39,41,42,46,47,210,233,239,262,263,265,279,289,291,308,475,482,513,621,641;SUMOylation:12,21,28,52,78,119,127,186,197,201,212,241,252,288,299,305,307,344,389,497,613;Ubiquitylation:119,307,544,594

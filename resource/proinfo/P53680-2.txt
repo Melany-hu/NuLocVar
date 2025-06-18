@@ -1,0 +1,25 @@
+UniprotID	P53680-2
+Accession	P53680;B2R4Z4;O75977;Q6PK67
+EntryName	AP2S1_HUMAN
+ProteinName	AP-2 complex subunit sigma (Adaptor protein complex AP-2 subunit sigma) (Adaptor-related protein complex 2 subunit sigma) (Clathrin assembly protein 2 sigma small chain) (Clathrin coat assembly protein AP17) (Clathrin coat-associated protein AP17) (HA2 17 kDa subunit) (Plasma membrane adaptor AP-2 17 kDa protein) (Sigma2-adaptin)
+GeneName	AP2S1 AP17 CLAPS2
+Length	104
+Function	Component of the adaptor protein complex 2 (AP-2). Adaptor protein complexes function in protein transport via transport vesicles in different membrane traffic pathways. Adaptor protein complexes are vesicle coat components and appear to be involved in cargo selection and vesicle formation. AP-2 is involved in clathrin-dependent endocytosis in which cargo proteins are incorporated into vesicles surrounded by clathrin (clathrin-coated vesicles, CCVs) which are destined for fusion with the early endosome. The clathrin lattice serves as a mechanical scaffold but is itself unable to bind directly to membrane components. Clathrin-associated adaptor protein (AP) complexes which can bind directly to both the clathrin lattice and to the lipid and protein components of membranes are considered to be the major clathrin adaptors contributing the CCV formation. AP-2 also serves as a cargo receptor to selectively sort the membrane proteins involved in receptor-mediated endocytosis. AP-2 seems to play a role in the recycling of synaptic vesicle membranes from the presynaptic surface. AP-2 recognizes Y-X-X- (Y-X-X-Phi) and -X-X-X-L- endocytosis signal motifs within the cytosolic tails of transmembrane cargo molecules. AP-2 may also play a role in maintaining normal post-endocytic trafficking through the ARF6-regulated, non-clathrin pathway. The AP-2 alpha and AP-2 sigma subunits are thought to contribute to the recognition of the -X-X-X-L- motif (By similarity). May also play a role in extracellular calcium homeostasis.
+Subcellular Location	Cell membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRFILIQNRAGKTRLAKWYMQFDDDEKQKLIEEVHAVVTVRDAKHTNFVEVLNEYFHNVCELDLVFNFYKVYTVVDEMFLAGEIRETSQTKVLKQLLMLQSLE
+PTM	Acetylation:18,45,56;Phosphorylation:20;SUMOylation:18,28,30,45;Ubiquitylation:18,28,45,56,130,133

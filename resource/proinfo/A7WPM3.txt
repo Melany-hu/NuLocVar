@@ -1,0 +1,25 @@
+UniprotID	A7WPM3
+Accession	A7WPM3
+EntryName	A7WPM3_HUMAN
+ProteinName	Putative truncated POU domain class 5 transcription factor 1
+GeneName	POU5F1
+Length	127
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGHLASDFAFSPPPGGGGDGPGGPEPGWVDPRTWLSFQGPPGGPGIGPGVGPGSEVWGIPPCPPPYEFCGGMAYCGPQVGVGLVPQGGLETSQPEGEAGVGXEQSDGASPEPCXVXPVPXKXXLAL
+PTM	

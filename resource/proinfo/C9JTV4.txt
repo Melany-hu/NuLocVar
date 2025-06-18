@@ -1,0 +1,25 @@
+UniprotID	C9JTV4
+Accession	C9JTV4
+EntryName	C9JTV4_HUMAN
+ProteinName	EF-hand domain family member D1
+GeneName	EFHD1
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELKLMMEKLGAPQTHLGLKSMIKEVDEDFDGKLSFREFLLIFHKAAAGELQEDSGLMALAKLSEIDVALEGVKGAKNFFE
+PTM	

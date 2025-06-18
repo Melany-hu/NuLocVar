@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y626
+Accession	A0A2R8Y626
+EntryName	A0A2R8Y626_HUMAN
+ProteinName	Hexokinase 1
+GeneName	HK1
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIAAQLLAYYFTELKDDQVKKVSPRPRRRWSWPQPCVPASARRLRCLHPPAPGLLRASIELDCRAQGKPSPSILPALLTSISMPCGSPMKLS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E9PNT7
+Accession	E9PNT7
+EntryName	E9PNT7_HUMAN
+ProteinName	Cholinergic receptor nicotinic alpha 10 subunit
+GeneName	CHRNA10
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLRSHHLSLGLLLLFLLPAECLGAEGRLALKLFRDLFANYTSALRPVADTDQTLNVTLEVTLSQIIDMVRCGGGTAVESYLSQCQEMKGMNGTRC
+PTM	

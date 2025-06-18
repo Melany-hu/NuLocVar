@@ -1,0 +1,25 @@
+UniprotID	Q5VZS7
+Accession	Q5VZS7
+EntryName	Q5VZS7_HUMAN
+ProteinName	Programmed cell death protein 4
+GeneName	PDCD4
+Length	231
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	44...50
+validnes_region	
+nesbase_region	
+Sequence	MDVENEQILNVNPAENAGTEEIKNEINGNWISASSINEARINAKAKRRLRKNSSRDSGRGDSVSDSGSDALRSGLTVPTSPKGRLLDRRSRSGKGRGLPKKGGAGGKGVWGTPGQVYDVEEVDVKDPNYDDDQENCVYETVVLPLDERAFEKTLTPIIQEYFEHGDTNEVAEMLRDLNLGEMKSGVPVLAVSLALEGKASHREMTSKLLSDLCGTVMSTTDVEKSFDKLLK
+PTM	

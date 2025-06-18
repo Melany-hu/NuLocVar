@@ -1,0 +1,25 @@
+UniprotID	O75676-2
+Accession	O75676;A8K7Z8;O75585;Q53ES8
+EntryName	KS6A4_HUMAN
+ProteinName	Ribosomal protein S6 kinase alpha-4 (S6K-alpha-4) (EC 2.7.11.1) (90 kDa ribosomal protein S6 kinase 4) (Nuclear mitogen- and stress-activated protein kinase 2) (Ribosomal protein kinase B) (RSKB)
+GeneName	RPS6KA4 MSK2
+Length	766
+Function	Serine/threonine-protein kinase that is required for the mitogen or stress-induced phosphorylation of the transcription factors CREB1 and ATF1 and for the regulation of the transcription factor RELA, and that contributes to gene activation by histone phosphorylation and functions in the regulation of inflammatory genes. Phosphorylates CREB1 and ATF1 in response to mitogenic or stress stimuli such as UV-C irradiation, epidermal growth factor (EGF) and anisomycin. Plays an essential role in the control of RELA transcriptional activity in response to TNF. Phosphorylates 'Ser-10' of histone H3 in response to mitogenics, stress stimuli and EGF, which results in the transcriptional activation of several immediate early genes, including proto-oncogenes c-fos/FOS and c-jun/JUN. May also phosphorylate 'Ser-28' of histone H3. Mediates the mitogen- and stress-induced phosphorylation of high mobility group protein 1 (HMGN1/HMG14). In lipopolysaccharide-stimulated primary macrophages, acts downstream of the Toll-like receptor TLR4 to limit the production of pro-inflammatory cytokines. Functions probably by inducing transcription of the MAP kinase phosphatase DUSP1 and the anti-inflammatory cytokine interleukin 10 (IL10), via CREB1 and ATF1 transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	720...725;421...425
+validnes_region	
+nesbase_region	
+Sequence	MGDEDDDESCAVELRITEANLTGHEEKVSVENFELLKVLGTGAYGKVFLVRKAGGHDAGKLYAMKVLRKAALVQRAKTQEHTRTERSVLELVRQAPFLVTLHYAFQTDAKLHLILDYVSGGEMFTHLYQRQYFKEAEVRVYGGEIVLALEHLHKLGIIYRDLKLENVLLDSEGHIVLTDFGLSKEFLTEEKERTFSFCGTIEYMAPEIIRSKTGHGKAVDWWSLGILLFELLTGASPFTLEGERNTQAEVSRRILKCSPPFPPRIGPVAQDLLQRLLCKDPKKRLGAGPQGAQEVRNHPFFQGLDWVALAARKIPAPFRPQIRSELDVGNFAEEFTRLEPVYSPPGSPPPGDPRIFQGYSFVAPSILFDHNNAVMTDGLEAPGAGDRPGRAAVARSAMMQQYELDLREPALGQGSFSVCRRCRQRQSGQEFAVKILSRRLEANTQREVAALRLCQSHPNVVNLHEVHHDQLHTYLVLELLRGGELLEHIRKKRHFSESEASQILRSLVSAVSFMHEEAGVVHRDLKPENILYADDTPGAPVKIIDFGFARLRPQSPGVPMQTPCFTLQYAAPELLAQQGYDESCDLWSLGVILYMMLSGQVPFQGASGQGGQSQAAEIMCKIREGRFSLDGEAWQGVSEEAKELVRGLLTVDPAKRLKLEGLRGSSWLQDGSARSSPPLRTPDVLESSGPAVRSGLNATFMAFNRGKREGFFLKSVENAPLAKRRKQKLRSATASRRGSPAPANPGRAPVASKGAPRRANGPLPPS
+PTM	Acetylation:60,664,759;Methylation:37,69,711,720,743;Phosphorylation:22,183,196,342,343,347,359,360,365,542,634,671,672,678,681,682,687,693,694,721,737,739,745,772;SUMOylation:27,46,69,154,163,313,440,498,532,648,664,720,729;Ubiquitylation:46,134,256,548,661,720

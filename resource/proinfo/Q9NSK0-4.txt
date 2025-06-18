@@ -1,0 +1,25 @@
+UniprotID	Q9NSK0-4
+Accession	Q9NSK0;B3KNY4;B3KPI3;B3KSQ3;B4DME9;Q66K28;Q96EG6
+EntryName	KLC4_HUMAN
+ProteinName	Kinesin light chain 4 (KLC 4) (Kinesin-like protein 8)
+GeneName	KLC4 KNSL8
+Length	315
+Function	Kinesin is a microtubule-associated force-producing protein that may play a role in organelle transport. The light chain may function in coupling of cargo to the heavy chain or in the modulation of its ATPase activity (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGLVLGQRDEPAGHRLSQEEILGSTRLVSQGLEALRSEHQAVLQSLSQTIECLQQGGHEEGLVHEKARQLRRSMENIELGLSEAQVMLALASHLSTVESEKQKLRAQVRRLCQENQWLRDELAGTQQRLQRSEQAVAQLEEEKKHLEFLGQLRQYDEDGHTSEEKEGDATKDSLDDLFPNEEEEDPSNGLSRGQGATAAQQGGYEIPARLRTLHNLVIQYAAQGRYEVAVPLCKQALEDLERTSGRGHPDVATMLNILALVYRDQNKYKEAAHLLNDALSIRESTLGPDHPAVSIPCPPHPTPRTPHHCCFGLS
+PTM	Acetylation:307,382,391;Methylation:144,145;Phosphorylation:93,162,163,171,174,205,227,305,449,459,460,462,474,498,502,504,513,518,519,526,554,565,566,590,593,598,605,609,611,612,616,617,618,619;Ubiquitylation:307,312,382,391,505

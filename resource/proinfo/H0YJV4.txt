@@ -1,0 +1,25 @@
+UniprotID	H0YJV4
+Accession	H0YJV4
+EntryName	H0YJV4_HUMAN
+ProteinName	Solute carrier family 35 member F4
+GeneName	SLC35F4
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYLLALKKLTATDVSALFCCNKAFVFLLSWIVLKDRFMGVRIAGKP
+PTM	

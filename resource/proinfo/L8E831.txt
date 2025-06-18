@@ -1,0 +1,25 @@
+UniprotID	L8E831
+Accession	L8E831
+EntryName	L8E831_HUMAN
+ProteinName	Alternative protein ST18
+GeneName	ST18
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCFVMCTEFVFFSTMLMINTVNWVFCKQKGNDVCIFFNLR
+PTM	

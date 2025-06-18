@@ -1,0 +1,25 @@
+UniprotID	Q8N4Q1-2
+Accession	Q8N4Q1;A8K3Z9;Q96AI2;Q96MY6
+EntryName	MIA40_HUMAN
+ProteinName	Mitochondrial intermembrane space import and assembly protein 40 (Coiled-coil-helix-coiled-coil-helix domain-containing protein 4)
+GeneName	CHCHD4 MIA40
+Length	155
+Function	Central component of a redox-sensitive mitochondrial intermembrane space import machinery which is required for the biogenesis of respiratory chain complexes (PubMed:26004228). Functions as chaperone and catalyzes the formation of disulfide bonds in substrate proteins, such as COX17, COX19, MICU1 and COA7 (PubMed:16185709, PubMed:19182799, PubMed:21059946, PubMed:23186364, PubMed:23676665, PubMed:26387864, PubMed:30885959). Required for the import and folding of small cysteine-containing proteins (small Tim) in the mitochondrial intermembrane space (IMS). Required for the import of COA7 in the IMS (PubMed:30885959). Precursor proteins to be imported into the IMS are translocated in their reduced form into the mitochondria. The oxidized form of CHCHD4/MIA40 forms a transient intermolecular disulfide bridge with the reduced precursor protein, resulting in oxidation of the precursor protein that now contains an intramolecular disulfide bond and is able to undergo folding in the IMS (PubMed:16185709, PubMed:19182799, PubMed:21059946, PubMed:23676665). Reduced CHCHD4/MIA40 is then reoxidized by GFER/ERV1 via a disulfide relay system (PubMed:23186364). Mediates formation of disulfide bond in MICU1 in the IMS, promoting formation of the MICU1-MICU2 heterodimer that regulates mitochondrial calcium uptake (PubMed:26387864).
+Subcellular Location	Mitochondrion intermembrane space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVSYSSVTTRYYHRAGAEEGKDRIIFVTKEDHETPSSAELVADDPNDPYEEHGLILPNGNINWNCPCLGGMASGPCGEQFKSAFSCFHYSTEEIKGSDCVDQFRAMQECMQKYPDLYPQEDEDEEEEREKKPAEQAEETAPIEATATKEEEGSS
+PTM	Methylation:69,83;Phosphorylation:3,141,142;Ubiquitylation:119

@@ -1,0 +1,25 @@
+UniprotID	A0A9L9PYL0
+Accession	A0A9L9PYL0
+EntryName	A0A9L9PYL0_HUMAN
+ProteinName	Mitochondrial fission factor
+GeneName	MFF
+Length	302
+Function	Plays a role in mitochondrial and peroxisomal fission. Promotes the recruitment and association of the fission mediator dynamin-related protein 1 (DNM1L) to the mitochondrial surface. May be involved in regulation of synaptic vesicle membrane dynamics by recruitment of DNM1L to clathrin-containing vesicles.
+Subcellular Location	Mitochondrion outer membrane; Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEISRIQYEMEYTEGISQRMRVPEKLKVAPPNADLEQGFQEGVPNASVIMQVPERIVVAGNNEDVSFSRPADLDLIQSTPFKPLALKTPPRVLTLSERPLDFLDLERPPTTPQNEEIRAVGRLKRERSMSENAVRQNGQLVRNDSLVTPSPQQARVCPPHMLPEDGANLSSARGILSLIQSSTRRAYQQILDVLDENRSVRRQNEIRCERPVLRGGSAAATSNPHHDNVRYGISNIDTTIEGTSDDLTVVDAASLRRQIIKLNRRLQLLEEENKERAKREMVMYSITVAFWLLNSWLWFRR
+PTM	

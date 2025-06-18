@@ -1,0 +1,25 @@
+UniprotID	F5GZH9
+Accession	F5GZH9
+EntryName	F5GZH9_HUMAN
+ProteinName	Coiled-coil domain containing 91
+GeneName	CCDC91
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLDTEKELLKEKIKEALIQQSQEQKEILEKCLEEERQRNKEALVSAAKLEKEAVKDAVLKVVEEERKNLEKAHAEERELWKTEHAKDQEKVSQEIQKAIQEQRKISQETVKAAIIEEQKRSEKAVE
+PTM	

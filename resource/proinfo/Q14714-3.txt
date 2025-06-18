@@ -1,0 +1,25 @@
+UniprotID	Q14714-3
+Accession	Q14714;B3KS67
+EntryName	SSPN_HUMAN
+ProteinName	Sarcospan (K-ras oncogene-associated protein) (Kirsten-ras-associated protein)
+GeneName	SSPN KRAG
+Length	140
+Function	Component of the dystrophin-glycoprotein complex (DGC), a complex that spans the muscle plasma membrane and forms a link between the F-actin cytoskeleton and the extracellular matrix. Preferentially associates with the sarcoglycan subcomplex of the DGC.
+Subcellular Location	Cell membrane; Cell membrane; Sarcolemma; Postsynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCVSYQVDERTCIQFSMKLLYFLLSALGLTVCVLAVAFAAHHYSQLTQFTCETTLDSCQCKLPSSEPLSRTFVYRDVTDCTSVTGTFKLFLLIQMILNLVCGLVCLLACFVMWKHRYQVFYVGVRICSLTASEGPQQKI
+PTM	Ubiquitylation:242

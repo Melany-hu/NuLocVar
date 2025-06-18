@@ -1,0 +1,25 @@
+UniprotID	Q9NV23-2
+Accession	Q9NV23;Q5VUB6;Q9NUW1
+EntryName	SAST_HUMAN
+ProteinName	S-acyl fatty acid synthase thioesterase, medium chain (EC 3.1.2.14) (Augmented in rheumatoid arthritis 1) (AURA1) (Oleoyl-ACP hydrolase) (Thioesterase 2) (TE2) (Thioesterase II) (Thioesterase domain-containing protein 1)
+GeneName	OLAH THEDC1
+Length	318
+Function	Contributes to the release of free fatty acids from fatty acid synthase (FASN). Has broad substrate specificity, giving rise to a range of free fatty acids with chain lengths between 10 and 16 carbon atoms (C10 - C16).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERGDQPKRTRNENIFNCLYKNPEATFKLICFPWMGGGSTHFAKWGQDTHDLLEETASHHVAKAGLKLRRSSDPPASAYPCAGVSHRRREPPCLAKILGLFWILIFFMHSLRLPGRESRVEEPLENDISQLVDEVVCALQPVIQDKPFAFFGHSMGSYIAFRTALGLKENNQPEPLHLFLSSATPVHSKAWHRIPKDDELSEEQISHYLMEFGGTPKHFAEAKEFVKQCSPIIRADLNIVRSCTSNVPSKAVLSCDLTCFVGSEDIAKDMEAWKDVTSGNAKIYQLPGGHFYLLDPANEKLIKNYIIKCLEVSSISNF
+PTM	Methylation:93,215;Ubiquitylation:21,174

@@ -1,0 +1,25 @@
+UniprotID	Q6UXU4-2
+Accession	Q6UXU4;Q7Z6F8;Q8TB81
+EntryName	GSG1L_HUMAN
+ProteinName	Germ cell-specific gene 1-like protein (GSG1-like protein)
+GeneName	GSG1L UNQ5831/PRO19651
+Length	176
+Function	As a component of the inner core of AMPAR complex, modifies AMPA receptor (AMPAR) gating.
+Subcellular Location	Cell membrane; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCLELFHSSNVIDGLKLNAFAAVFTVLSGLLGMVAHMMYTQVFQVTVSLGPEDWRPHSWDYGWSFCLAWGSFTCCMAASVTTLNSYTKTVIEFRHKRKVFEQGYREEPTFIDPEAIKYFRERMEKRDGSEEDFHLDCRHERYPARHQPHMADSWPRSSAQEAPELNRQCWVLGHWV
+PTM	Methylation:41,272;Phosphorylation:284,297

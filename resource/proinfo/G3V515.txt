@@ -1,0 +1,25 @@
+UniprotID	G3V515
+Accession	G3V515
+EntryName	G3V515_HUMAN
+ProteinName	ZFP36 ring finger protein like 1
+GeneName	ZFP36L1
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRARKSGLGQRSRPTASRSEAAVQPGVRKARGAGNWRVGLQTGEAAPSPHRDLRDTPDPRPWLARTHRMTTTLVSATIFDLSEVLCKGNKMLNYSAPSAGGCLLDRKAVGTPAGGGFPRRHSVTLPSSKFHQNQLLSSLKGEPAPALSSRDSRFRDRSFSEGGERLLPTQKQPGGGQVNSSRYKTELC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8WVV5-5
+Accession	Q8WVV5;A6NM84;B4DE97;B4DQ01;E9PH07;O00480
+EntryName	BT2A2_HUMAN
+ProteinName	Butyrophilin subfamily 2 member A2
+GeneName	BTN2A2 BT2.2 BTF2
+Length	313
+Function	Inhibits the proliferation of CD4 and CD8 T-cells activated by anti-CD3 antibodies, T-cell metabolism and IL2 and IFNG secretion.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPAAALHFSLPASLLLLLLLLLLSLCALVSESFMPSASPWMVALAVILTASPWMVSMTVILAVFIIFMAVSICCIKKLQREKKILSGEKKVEQEEKEIAQQLQEELRWRRTFLHAADVVLDPDTAHPELFLSEDRRSVRRGPYRQRVPDNPERFDSQPCVLGWESFASGKHYWEVEVENVMVWTVGVCRHSVERKGEVLLIPQNGFWTLEMFGNQYRALSSPERILPLKESLCRVGVFLDYEAGDVSFYNMRDRSHIYTCPRSAFTVPVRPFFRLGSDDSPIFICPALTGASGVMVPEEGLKLHRVGTHQSL
+PTM	Methylation:54,158;Phosphorylation:151,348,432,522;Ubiquitylation:83,105,152,300,440

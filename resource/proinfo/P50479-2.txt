@@ -1,0 +1,25 @@
+UniprotID	P50479-2
+Accession	P50479;B2R8U1;Q53Y39;Q96AT8;Q9BTW8;Q9Y292
+EntryName	PDLI4_HUMAN
+ProteinName	PDZ and LIM domain protein 4 (LIM protein RIL) (Reversion-induced LIM protein)
+GeneName	PDLIM4 RIL
+Length	246
+Function	Suppresses SRC activation by recognizing and binding to active SRC and facilitating PTPN13-mediated dephosphorylation of SRC 'Tyr-419' leading to its inactivation. Inactivated SRC dissociates from this protein allowing the initiation of a new SRC inactivation cycle (PubMed:19307596). Involved in reorganization of the actin cytoskeleton (PubMed:21636573). In nonmuscle cells, binds to ACTN1 (alpha-actinin-1), increases the affinity of ACTN1 to F-actin (filamentous actin), and promotes formation of actin stress fibers. Involved in regulation of the synaptic AMPA receptor transport in dendritic spines of hippocampal pyramidal neurons directing the receptors toward an insertion at the postsynaptic membrane. Links endosomal surface-internalized GRIA1-containing AMPA receptors to the alpha-actinin/actin cytoskeleton. Increases AMPA receptor-mediated excitatory postsynaptic currents in neurons (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Nucleus; Cytoplasm; Cytoplasm; Perinuclear region; Cell projection; Lamellipodium; Cell projection; Dendritic spine; Early endosome membrane; Recycling endosome membrane; Synapse; Synaptosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHSVTLRGPSPWGFRLVGGRDFSAPLTISRVHAGSKAALAALCPGDLIQAINGESTELMTHLEAQNRIKGCHDHLTLSVSRPEGRSWPSAPDDSKAQAHRIHIDPEIQDGSPTTSRRPSGTGTGPEDGRPSLGSPYGQPPRFPVPHNGSSEATLPAQMSTLHVSPPPSADPARGLPRSRDCRVDLGSEVYRMLREPAEPVAAEPKQSGSFRYLQGMLEAGEGGAPSSRHGTSSTIPSASCAVTAA
+PTM	Methylation:8,21,289;Phosphorylation:6,11,24,30,79,87,112,114,115,116,120,122,124,132,135,137,165,188,191,208,210,213,240,247,265,316;SUMOylation:206;Ubiquitylation:206

@@ -1,0 +1,25 @@
+UniprotID	C9K092
+Accession	C9K092
+EntryName	C9K092_HUMAN
+ProteinName	cAMP-responsive element modulator
+GeneName	CREM
+Length	193
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	19...23
+validnes_region	
+nesbase_region	
+Sequence	VAAIAETDESAESEGVIDSHKRREILSRRPSYRKILNELSSDVPGVPKIEEERSEEEGTPPSIATMAVPTSIYQTSTGQYNEETELAPSHMAAATGDMPTYQIRAPTAALPQGVVMAASPGSLHSPQQLAEEATRKRELRLMKNREAAKECRRRKKEYVKCLESRVAVLEVQNKKLIEELETLKDICSPKTDY
+PTM	

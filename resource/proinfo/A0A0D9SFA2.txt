@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SFA2
+Accession	A0A0D9SFA2
+EntryName	A0A0D9SFA2_HUMAN
+ProteinName	Zinc transporter ZIP9 (ZIP-9) (Solute carrier family 39 member 9) (Zrt- and Irt-like protein 9)
+GeneName	SLC39A9
+Length	92
+Function	Transports zinc ions across cell and organelle membranes into the cytoplasm and regulates intracellular zinc homeostasis. Participates in the zinc ions efflux out of the secretory compartments. Also functions as membrane androgen receptor that mediates, through a G protein, the non-classical androgen signaling pathway, characterized by the activation of MAPK3/MAPK1 (Erk1/2) and transcription factors CREB1 or ATF1. Moreover, has dual functions as membrane-bound androgen receptor and as an androgen-dependent zinc transporter both of which are mediated through an inhibitory G protein (Gi) that mediates both MAP kinase and zinc signaling leading to the androgen-dependent apoptotic process.
+Subcellular Location	Cell membrane; Cytoplasm; Perinuclear region; Golgi apparatus; trans-Golgi network membrane; Mitochondrion; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDFISISLLSLAMLVGCYVAGIIPLAVNFSEERLKLVTVLGAGLLCGTALAVIVPEGVHALYEDILEGVENNRQSEGLHAKGRRHLGIFSS
+PTM	

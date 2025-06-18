@@ -1,0 +1,25 @@
+UniprotID	P48547-2
+Accession	P48547;K4DI87;Q3KNS8
+EntryName	KCNC1_HUMAN
+ProteinName	Voltage-gated potassium channel KCNC1 (NGK2) (Potassium voltage-gated channel subfamily C member 1) (Voltage-gated potassium channel subunit Kv3.1) (Voltage-gated potassium channel subunit Kv4)
+GeneName	KCNC1
+Length	585
+Function	Voltage-gated potassium channel that opens in response to the voltage difference across the membrane and through which potassium ions pass in accordance with their electrochemical gradient (PubMed:25401298, PubMed:35840580). The mechanism is time-dependent and inactivation is slow (By similarity). Plays an important role in the rapid repolarization of fast-firing brain neurons (By similarity). Can form functional homotetrameric channels and heterotetrameric channels that contain variable proportions of KCNC2, and possibly other family members as well (By similarity). Contributes to fire sustained trains of very brief action potentials at high frequency in pallidal neurons (By similarity).
+Subcellular Location	Cell membrane; Cell projection; Axon; Presynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQGDESERIVINVGGTRHQTYRSTLRTLPGTRLAWLAEPDAHSHFDYDPRADEFFFDRHPGVFAHILNYYRTGKLHCPADVCGPLYEEELAFWGIDETDVEPCCWMTYRQHRDAEEALDSFGGAPLDNSADDADADGPGDSGDGEDELEMTKRLALSDSPDGRPGGFWRRWQPRIWALFEDPYSSRYARYVAFASLFFILVSITTFCLETHERFNPIVNKTEIENVRNGTQVRYYREAETEAFLTYIEGVCVVWFTFEFLMRVIFCPNKVEFIKNSLNIIDFVAILPFYLEVGLSGLSSKAAKDVLGFLRVVRFVRILRIFKLTRHFVGLRVLGHTLRASTNEFLLLIIFLALGVLIFATMIYYAERIGAQPNDPSASEHTHFKNIPIGFWWAVVTMTTLGYGDMYPQTWSGMLVGALCALAGVLTIAMPVPVIVNNFGMYYSLAMAKQKLPKKKKKHIPRPPQLGSPNYCKSVVNSPHHSTQSDTCPLAQEEILEINRADSKLNGEVAKAALANEDCPHIDQALTPDEGLPFTRSGTRERYGPCFLLSTGEYACPPGGGMRKDLCKESPVIAKYMPTEAVRVT
+PTM	Glycosylation:220;Methylation:275,449;Phosphorylation:44,158,160,277,296,468

@@ -1,0 +1,25 @@
+UniprotID	H7BZB6
+Accession	H7BZB6
+EntryName	H7BZB6_HUMAN
+ProteinName	Collagen type XIII alpha 1 chain
+GeneName	COL13A1
+Length	174
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGKDGPPGVKGENGHPGSPGEKGEKGETGQAGSPVPGLPGPEGPPGPPGLQGVPGPKGEAGLDGAKGEKGFQGEKGDRGPLGLPGTPGPIGVPGPAGPKGERGSKGDPGMTGPTGAAGLPGLHGPPGDKGNRGERGKKGSRGPKGDKGDQGAPGLDAPCPLGEDGLPVQGCWNK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	J3KRV2
+Accession	J3KRV2
+EntryName	J3KRV2_HUMAN
+ProteinName	Protein tyrosine phosphatase receptor type M
+GeneName	PTPRM
+Length	264
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEIDLSNQSGRVSKLGNETHFLFFGLYPGTTYSFTIRASTAKGFGPPATNQFTTKISAPSMPAYELETPLNQTDNTVTVMLKPAHSRGAPVSVYQIVVEEERPRRTKKTTEILKCYPVPIHFQNASLLNSQYYFAAEFPADSLQAAQPFTIGDNKTYNGYWNTPLLPYKSYRIYFQAASRANGETKIDCVQVATKAAIIVTQLTTPYIRIAPAAGDGQLTGAATPKPVPEPEKQTDHTVKIAGVIAGILLFVIIFLGVVLVMKK
+PTM	

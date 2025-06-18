@@ -1,0 +1,25 @@
+UniprotID	Q7Z6M1-2
+Accession	Q7Z6M1;A8K403;O00568;Q69YR2;Q6FHA4;Q6IBG7;Q6P092;Q86Y76;Q9BWB1
+EntryName	RABEK_HUMAN
+ProteinName	Rab9 effector protein with kelch motifs (40 kDa Rab9 effector protein) (p40)
+GeneName	RABEPK RAB9P40
+Length	321
+Function	Rab9 effector required for endosome to trans-Golgi network (TGN) transport.
+Subcellular Location	Cytoplasm; Endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQLPVLEPGDKPRKATWYTLTVPGDSPCARVGHSCSYLPPVGNAKRGKVFIVGGANPNRSFSDVHTMDLETRTWTTPEVTSPPPSPRTFHTSSAAIGNQLYVFGGGERGAQPVQDTKLHVFDANTLTWSQPETLGNPPSPRHGHVMVAAGTKLFIHGGLAGDRFYDDLHCIDISDMKWQKLNPTGAAPAGCAAHSAVAMGKHVYIFGGMTPAGALDTMYQYHTEEQHWTLLKFDTLLPPGRLDHSMCIIPWPVTCASEKEDSNSLTLNHEAEKEDSADKVMSHSGDSHEESQTATLLCLVFGGMNTEGEIYDDCIVTVVD
+PTM	Methylation:160;Phosphorylation:63,132,133,191,316,318,328;SUMOylation:2,15,46,49,169,232;Ubiquitylation:49,81,232

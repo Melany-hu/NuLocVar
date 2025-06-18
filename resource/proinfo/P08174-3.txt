@@ -1,0 +1,25 @@
+UniprotID	P08174-3
+Accession	P08174;B1AP14;D3DT83;D3DT84;E7ER69;P09679;P78361;Q14UF2;Q14UF3;Q14UF4;Q14UF5;Q14UF6
+EntryName	DAF_HUMAN
+ProteinName	Complement decay-accelerating factor (CD antigen CD55)
+GeneName	CD55 CR DAF
+Length	384
+Function	This protein recognizes C4b and C3b fragments that condense with cell-surface hydroxyl or amino groups when nascent C4b and C3b are locally generated during C4 and c3 activation. Interaction of daf with cell-associated C4b and C3b polypeptides interferes with their ability to catalyze the conversion of C2 and factor B to enzymatically active C2a and Bb and thereby prevents the formation of C4b2a and C3bBb, the amplification convertases of the complement cascade (PubMed:7525274). Inhibits complement activation by destabilizing and preventing the formation of C3 and C5 convertases, which prevents complement damage (PubMed:28657829).
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Secreted; Secreted; Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVARPSVPAALPLLGELPRLLLLVLLCLPAVWGDCGLPPDVPNAQPALEGRTSFPEDTVITYKCEESFVKIPGEKDSVICLKGSQWSDIEEFCNRSCEVPTRLNSASLKQPYITQNYFPVGTVVEYECRPGYRREPSLSPKLTCLQNLKWSTAVEFCKKKSCPNPGEIRNGQIDVPGGILFGATISFSCNTGYKLFGSTSSFCLISGSSVQWSDPLPECREIYCPAPPQIDNGIIQGERDHYGYRQSVTYACNKGFTMIGEHSIYCTVNNDEGEWSGPPPECRGKSLTSKVPPTVQKPTTVNVPTTEVSPTSQKTTTKTTTPNAQATRSTPVSRTTKHFHETTPNKGSGTTSGTTRLLSALQVRPFEVSGSSHISSKKMMCIL
+PTM	Acetylation:76,142,159,160,161;Glycosylation:95,233;Methylation:71,142;Phosphorylation:85,88,138,140;SUMOylation:64,110,142,286,298,319,338;Ubiquitylation:71,110,142,150,159,291,298,315

@@ -1,0 +1,25 @@
+UniprotID	H7BXT1
+Accession	H7BXT1
+EntryName	H7BXT1_HUMAN
+ProteinName	Calcyphosine 2
+GeneName	CAPS2
+Length	41
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDKLKKDLCYHNSDSPEYQDSSFSLIVAFTDAKYCSWVCL
+PTM	

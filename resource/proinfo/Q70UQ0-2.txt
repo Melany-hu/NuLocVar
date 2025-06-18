@@ -1,0 +1,25 @@
+UniprotID	Q70UQ0-2
+Accession	Q70UQ0;Q6ZWH4;Q70UP9;Q86V91;Q96ND2
+EntryName	IKIP_HUMAN
+ProteinName	Inhibitor of nuclear factor kappa-B kinase-interacting protein (I kappa-B kinase-interacting protein) (IKBKB-interacting protein) (IKK-interacting protein)
+GeneName	IKBIP IKIP
+Length	244
+Function	Target of p53/TP53 with pro-apoptotic function.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQLKSFQIIAHLKRLQEEINEVKTWSNRITEKQDILNNSLTTLSQDITKVDQSTTSMAKDVGLKITSVKTDIRRISGLVTDVISLTDSVQELENKIEKVEKNTVKNIGDLLSSSIDRTATLRKTASENSQRINSVKKTLTELKSDFDKHTDRFLSLEGDRAKVLKTVTFANDLKPKVYNLKKDFSRLEPLVNDLTLRIGRLVTDLLQREKEIAFLSEKISNLTIVQAEIKDIKDEIAHISDMN
+PTM	Glycosylation:144,145,328;Methylation:68,80,92,99,111,130,139,156,171,202,230;Phosphorylation:10,24,163,219;SUMOylation:13,71,80,176,202;Ubiquitylation:13,71,80,92

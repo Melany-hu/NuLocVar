@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TNW4
+Accession	A0A8V8TNW4
+EntryName	A0A8V8TNW4_HUMAN
+ProteinName	Zinc finger protein 341
+GeneName	ZNF341
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GTVEIQALGMQPYPPLESLTLSPRLECSGVISAHCNLHLSGSSDSRASASQVAGITGAKPVCGASSISHPHSVQPWQTGIQTQRTKPRRPHDQRHRGHGGHL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O00305-4
+Accession	O00305;A7BJ74;A8K1Y4;B4DG40;O60515;Q6B000;Q96L40
+EntryName	CACB4_HUMAN
+ProteinName	Voltage-dependent L-type calcium channel subunit beta-4 (CAB4) (Calcium channel voltage-dependent subunit beta 4)
+GeneName	CACNB4 CACNLB4
+Length	458
+Function	The beta subunit of voltage-dependent calcium channels contributes to the function of the calcium channel by increasing peak calcium current, shifting the voltage dependencies of activation and inactivation, modulating G protein inhibition and controlling the alpha-1 subunit membrane targeting.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSSSYAKNGTADGPHSPTSQVARGTTTRRSRLKRSDGSTTSTSFILRQGSADSYTSRPSDSDVSLEEDREAIRQEREQQAAIQLERAKSKPVAFAVKTNVSYCGALDEDVPVPSTAISFDAKDFLHIKEKYNNDWWIGRLVKEGCEIGFIPSPLRLENIRIQQEQKRGRFHGGKSSGNSSSSLGEMVSGTFRATPTSTAKQKQKVTEHIPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFDGRISITRVTADISLAKRSVLNNPSKRAIIERSNTRSSLAEVQSEIERIFELARSLQLVVLDADTINHPAQLIKTSLAPIIVHVKVSSPKVLQRLIKSRGKSQSKHLNVQLVAADKLAQCPPSQRMRHSNHSTENSPIERRSLMTSDENYHNERARKSRNRLSSSSQHSRDHYPLVEEDYPDSYQDTYKPHRNRGSPGGYSHDSRHRL
+PTM	Acetylation:240;Methylation:247,324,501;Phosphorylation:17,19,20,51,255,257,260,337,338,411,476,477,481;Ubiquitylation:129

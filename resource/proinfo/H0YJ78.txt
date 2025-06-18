@@ -1,0 +1,25 @@
+UniprotID	H0YJ78
+Accession	H0YJ78
+EntryName	H0YJ78_HUMAN
+ProteinName	ATP binding cassette subfamily D member 4
+GeneName	ABCD4
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XERVSISAPSSDKPLIKDLSLKISEGQSLLITGNTGTGKTSLLRVLGGLWTSTRGSVQMLTDFGPHGVLFLPQKPFFTDGTLREQVIYPLKEVYPDSGSADDERILRFLELAGLVSGERDPQDPSPPGSTSYSPTWWQGQRAWTSRWTGTGMMFCPRGRCNGSPLPDSSTCSRSTQCLMKPPVP
+PTM	

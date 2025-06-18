@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQ82
+Accession	A0A8V8TQ82
+EntryName	A0A8V8TQ82_HUMAN
+ProteinName	Calcium/calmodulin dependent protein kinase II gamma
+GeneName	CAMK2G
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATTATCTRFTDDYQLFEELGKGAFSVVRRCVKKTSTQEYAAKIINTKKLSARDHQKLEREARICRLLKHPNIVLPAGSCLKTLWPESTTVKQMPATVYIRFWRVLTTSTSMTSSTGT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UH92-3
+Accession	Q9UH92;A8K2J3;B2RAV8;B2RD73;Q53XM6;Q96FL2;Q9H2V0;Q9H2V1;Q9H2V2;Q9NXN3
+EntryName	MLX_HUMAN
+ProteinName	Max-like protein X (Class D basic helix-loop-helix protein 13) (bHLHd13) (Max-like bHLHZip protein) (Protein BigMax) (Transcription factor-like protein 4)
+GeneName	MLX BHLHD13 TCFL4
+Length	244
+Function	Transcription regulator. Forms a sequence-specific DNA-binding protein complex with MAD1, MAD4, MNT, WBSCR14 and MLXIP which recognizes the core sequence 5'-CACGTG-3'. The TCFL4-MAD1, TCFL4-MAD4, TCFL4-WBSCR14 complexes are transcriptional repressors. Plays a role in transcriptional activation of glycolytic target genes. Involved in glucose-responsive gene regulation.
+Subcellular Location	Cytoplasm; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEPGASPEDPWVKVEYAYSDNSLDPGLFVESTRKGSVVSRANSIGSTSASSVPNTDDEDSDYHQEAYKESYKDRRRRAHTQAEQKRRDAIKRGYDDLQTIVPTCQQQDFSIGSQKLSKAIVLQKTIDYIQFLHKEKKKQEEEVSTLRKDVTALKIMKVNYEQIVKAHQDNPHEGEDQVSDQVKFNVFQGIMDSLFQSFNASISVASFQELSACVFSWIEEHCKPQTLREIVIGVLHQLKNQLY
+PTM	Methylation:26,29,31,47,146,179,203,220;Phosphorylation:7,42,45,48,50,52,61,74,77,87,91,94,98,106,110,115,117,215;SUMOylation:89,170,173,193,212,220;Ubiquitylation:140,146,170,173,179,212,220

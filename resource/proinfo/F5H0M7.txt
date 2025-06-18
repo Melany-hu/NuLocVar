@@ -1,0 +1,25 @@
+UniprotID	F5H0M7
+Accession	F5H0M7
+EntryName	F5H0M7_HUMAN
+ProteinName	Methenyltetrahydrofolate synthase domain-containing protein
+GeneName	MTHFSD
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	53...57
+validnes_region	
+nesbase_region	
+Sequence	MMVSMGAVSKETPVVTIVHDCQVVDIPEELVEEHDITVDYILTPTRVIATGCKRPKPMGITWFKISLEMMEKIPILRSLRAREQQAGKDVTLQGEHQHLPEPGCQQTVPLSVGRRPPDTPGPETNSMEAAPGSPPGEGAPLAADVYVGNLPGDARVSDLKRALRELGSVPLRLTWQGPRRRAFLHYPDSAAAQQAVSCLQGLRLGTDTLRVALARQQRDK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P07602-2
+Accession	P07602;P07292;P15793;P78538;P78541;P78546;P78547;P78558;Q53Y86;Q6IBQ6;Q92739;Q92740;Q92741;Q92742
+EntryName	SAP_HUMAN
+ProteinName	Prosaposin (Proactivator polypeptide) [Cleaved into: Saposin-A (Protein A); Saposin-B-Val; Saposin-B (Cerebroside sulfate activator) (CSAct) (Dispersin) (Sphingolipid activator protein 1) (SAP-1) (Sulfatide/GM1 activator); Saposin-C (A1 activator) (Co-beta-glucosidase) (Glucosylceramidase activator) (Sphingolipid activator protein 2) (SAP-2); Saposin-D (Component C) (Protein C)]
+GeneName	PSAP GLBA SAP1
+Length	526
+Function	Saposin-A and saposin-C stimulate the hydrolysis of glucosylceramide by beta-glucosylceramidase (EC 3.2.1.45) and galactosylceramide by beta-galactosylceramidase (EC 3.2.1.46). Saposin-C apparently acts by combining with the enzyme and acidic lipid to form an activated complex, rather than by solubilizing the substrate.
+Subcellular Location	Lysosome; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYALFLLASLLGAALAGPVLGLKECTRGSAVWCQNVKTASDCGAVKHCLQTVWNKPTVKSLPCDICKDVVTAAGDMLKDNATEEEILVYLEKTCDWLPKPNMSASCKEIVDSYLPVILDIIKGEMSRPGEVCSALNLCESLQKHLAELNHQKQLESNKIPELDMTEVVAPFMANIPLLLYPQDGPRSKPQPKDNGDVCQDCIQMVTDIQTAVRTNSTFVQALVEHVKEECDRLGPGMADICKNYISQYSEIAIQMMMHMDQQPKEICALVGFCDEVKEMPMQTLVPAKVASKNVIPALELVEPIKKHEVPAKSDVYCEVCEFLVKEVTKLIDNNKTEKEILDAFDKMCSKLPKSLSEECQEVVDTYGSSILSILLEEVSPELVCSMLHLCSGTRLPALTVHVTQPKDGGFCEVCKKLVGYLDRNLEKNSTKQEILAALEKGCSFLPDPYQKQCDQFVAEYEPVLIEILVEVMDPSFVCLKIGACPSAHKPLLGTEKCIWGPSYWCQNTETAAQCNAVEHCKRHVWN
+PTM	Acetylation:413,414;Glycosylation:80,101,103,214,215,216,281,331,332,397,401,422,426;Methylation:23,37,122,143,242,275,323,344,421,425,438,449,478;Phosphorylation:71;SUMOylation:37,290,303,304,429;Ubiquitylation:303,304,336,414,487

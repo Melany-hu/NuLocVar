@@ -1,0 +1,25 @@
+UniprotID	O15091-3
+Accession	O15091;B4DXD9;B4E0S8;B4E211;C4AM93;D3DS99;D3DSA1;Q86SZ4;Q86YB5;Q8N5L5
+EntryName	MRPP3_HUMAN
+ProteinName	Mitochondrial ribonuclease P catalytic subunit (EC 3.1.26.5) (Mitochondrial ribonuclease P protein 3) (Mitochondrial RNase P protein 3) (Protein only RNase P catalytic subunit)
+GeneName	PRORP KIAA0391 MRPP3
+Length	211
+Function	Catalytic ribonuclease component of mitochondrial ribonuclease P, a complex composed of TRMT10C/MRPP1, HSD17B10/MRPP2 and PRORP/MRPP3, which cleaves tRNA molecules in their 5'-ends (PubMed:18984158, PubMed:25953853, PubMed:34715011). The presence of TRMT10C/MRPP1, HSD17B10/MRPP2 is required to catalyze tRNA molecules in their 5'-ends (PubMed:25953853).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDVIDGGDQYRKTTPQELKRFENFIKSRPPFDVVIDGLNVAKMFPKVRESQLLLNVVSQLAKRNLRLLVLGRKHMLRRSSQWSRDEMEEVQKQASCFFADDISEDDPFLLYATLHSGNHCRFITRDLMRDHKACLPDAKTQRLFFKWQQGHQLAIVNRFPGSKLTFQRILSYDTVVQTTGDSWHIPYDEDLVERCSCEVPTKWLCLHQKT
+PTM	Acetylation:64,512;Methylation:49,64,91,159,180,283,392,399,435,465;Phosphorylation:4,47,50,52,59,94,98,174,175,205,207,241,243,340,423,431;Ubiquitylation:536

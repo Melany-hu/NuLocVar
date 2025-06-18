@@ -1,0 +1,25 @@
+UniprotID	Q3ZAQ7-2
+Accession	Q3ZAQ7;A6NKV7;B3KUA9
+EntryName	VMA21_HUMAN
+ProteinName	Vacuolar ATPase assembly integral membrane protein VMA21 (Myopathy with excessive autophagy protein)
+GeneName	VMA21 MEAX XMEA
+Length	156
+Function	Required for the assembly of the V0 complex of the vacuolar ATPase (V-ATPase) in the endoplasmic reticulum.
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Cytoplasmic vesicle; COPII-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGSPCGPQLSDRDADEDQCSREFRGRRSRRPPRRTMLRGKSRLNVEWLGYSPGLLLEHRPLLAGRTPRSHRRNESSLASTLKTLLFFTALMITVPIGLYFTTKSYIFEGALGMSNRDSYFYAAIVAVVAVHVVLALFVYVAWNEGSRQWREGKQD
+PTM	

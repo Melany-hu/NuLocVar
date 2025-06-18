@@ -1,0 +1,25 @@
+UniprotID	B7Z4D4
+Accession	B7Z4D4
+EntryName	B7Z4D4_HUMAN
+ProteinName	hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+GeneName	HMGCLL1
+Length	174
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNVPSAVKHCLSYQQLLREHLWIGDSVAGALDPAQETSQLSGLPEFVKIVEVGPRDGLQNEKVIVPTDIKIEFINRLSQTGLSVIEVTSFVSSRWVPQMGINVVDSAVSGLGGCPYAKGASGNVATEDLIYMLNGLGLNTGVNLYKVMEAGDFICKAVNKTTNSKVAQASFNA
+PTM	

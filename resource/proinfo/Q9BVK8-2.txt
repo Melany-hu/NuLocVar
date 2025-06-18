@@ -1,0 +1,25 @@
+UniprotID	Q9BVK8-2
+Accession	Q9BVK8;A8MWW0;O75790
+EntryName	TM147_HUMAN
+ProteinName	BOS complex subunit TMEM147 (Protein NIFIE 14) (Transmembrane protein 147)
+GeneName	TMEM147
+Length	175
+Function	Component of the multi-pass translocon (MPT) complex that mediates insertion of multi-pass membrane proteins into the lipid bilayer of membranes (PubMed:32820719, PubMed:36261522). The MPT complex takes over after the SEC61 complex: following membrane insertion of the first few transmembrane segments of proteins by the SEC61 complex, the MPT complex occludes the lateral gate of the SEC61 complex to promote insertion of subsequent transmembrane regions (PubMed:36261522). Also acts as a negative regulator of CHRM3 function, most likely by interfering with its trafficking to the cell membrane (PubMed:21056967). Negatively regulates CHRM3-mediated calcium mobilization and activation of RPS6KA1/p90RSK activity (PubMed:21056967). Regulates LBR localization to the nucleus inner membrane (PubMed:32694168).
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFLATFFPTWEGGIYDFIGEFMKASVDVADLIGLNLVMSRNAGKGEYKIMVAALGWATAELIMSRCIPLWVGARGIEFDWKYIQMSIDSNISLVHYIVASAQVWMITRYDLYHTFRPAVLLLMFLSVYKAFVMETFVHLCSLGSWAALLARAVVTGLLALSTLALYVAVVNVHS
+PTM	Ubiquitylation:94

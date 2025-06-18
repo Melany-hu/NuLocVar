@@ -1,0 +1,25 @@
+UniprotID	Q9Y6I7-2
+Accession	Q9Y6I7;Q9NRB1;Q9UBH9;Q9UG25;Q9UNN6;Q9Y656
+EntryName	WSB1_HUMAN
+ProteinName	WD repeat and SOCS box-containing protein 1 (WSB-1) (SOCS box-containing WD protein SWiP-1)
+GeneName	WSB1 SWIP1
+Length	275
+Function	Probable substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Recognizes type II iodothyronine deiodinase/DIO2. Confers constitutive instability to HIPK2 through proteasomal degradation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASFPPRVNEKEIGKLLLNLVDHTEVVRDLTFAPDGSLILVSASRDKTLRVWDLKDDGNMMKVLRGHQNWVYSCAFSPDSSMLCSVGASKAVFLWNMDKYTMIRKLEGHHHDVVACDFSPDGALLATASYDTRVYIWDPHNGDILMEFGHLFPPPTPIFAGGANDRWVRSVSFSHDGLHVASLADDKMVRFWRIDEDYPVQVAPLSNGLCCAFSTDGSVLAAGTHDGSVYFWATPRQVPSLQHLCRMSIRRVMPTQEVQELPIPSKLLEFLSYRI
+PTM	Phosphorylation:3,188;SUMOylation:11;Ubiquitylation:31,32,333

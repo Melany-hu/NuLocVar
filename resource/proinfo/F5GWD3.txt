@@ -1,0 +1,25 @@
+UniprotID	F5GWD3
+Accession	F5GWD3
+EntryName	F5GWD3_HUMAN
+ProteinName	General transcription factor IIH subunit 3 (General transcription factor IIH polypeptide 3)
+GeneName	GTF2H3
+Length	258
+Function	Component of the general transcription and DNA repair factor IIH (TFIIH) core complex, which is involved in general and transcription-coupled nucleotide excision repair (NER) of damaged DNA and, when complexed to CAK, in RNA transcription by RNA polymerase II. In NER, TFIIH acts by opening DNA around the lesion to allow the excision of the damaged oligonucleotide and its replacement by a new DNA fragment. In transcription, TFIIH has an essential role in transcription initiation. When the pre-initiation complex (PIC) has been established, TFIIH is required for promoter opening and promoter escape. Phosphorylation of the C-terminal tail (CTD) of the largest subunit of RNA polymerase II by the kinase module CAK controls the initiation of transcription.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSDEDELNLLVIVVDANPIWWGKQALKESQFTLSKCIDAVMVLGNSHLFMNRSNKLAVIASHIQESRFLYPGKNGRLGDFFGDPGNPPEFNPSGSKDGKYELLTSANEVIVEEIKDLMTKSDIKGQHTETLLAGSLAKALCYIHRMNKEVKDNQEMKSRILACDITGGLYLKVPQMPSLLQYLLWVFLPDQDQRSQLILPPPVHVDYRAACFCHRNLIEIGYVCSVCLSIFCNFSPICTTCETAFKISLPPVLKAKK
+PTM	

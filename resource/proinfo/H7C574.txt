@@ -1,0 +1,25 @@
+UniprotID	H7C574
+Accession	H7C574
+EntryName	H7C574_HUMAN
+ProteinName	HMG-box transcription factor 1
+GeneName	HBP1
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SQLSSNSLYAKAVKNHSSGTVSATSPNKCKRPMNAFMLFAKKYRVEYTQMYPGKDNRRSLAVSPKLESSGTISAHCNLRLPGSKP
+PTM	

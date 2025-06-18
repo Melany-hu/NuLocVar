@@ -1,0 +1,25 @@
+UniprotID	O94763-4
+Accession	O94763;A8K805;H7BY42;Q8TC23;Q9UNU3
+EntryName	RMP_HUMAN
+ProteinName	Unconventional prefoldin RPB5 interactor 1 (Protein NNX3) (Protein phosphatase 1 regulatory subunit 19) (RNA polymerase II subunit 5-mediating protein) (RPB5-mediating protein)
+GeneName	URI1 C19orf2 NNX3 PPP1R19 RMP URI
+Length	475
+Function	Involved in gene transcription regulation. Acts as a transcriptional repressor in concert with the corepressor UXT to regulate androgen receptor (AR) transcription. May act as a tumor suppressor to repress AR-mediated gene transcription and to inhibit anchorage-independent growth in prostate cancer cells. Required for cell survival in ovarian cancer cells. Together with UXT, associates with chromatin to the NKX3-1 promoter region. Antagonizes transcriptional modulation via hepatitis B virus X protein.
+Subcellular Location	Nucleus; Cytoplasm; Mitochondrion; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	347...352;325...329;349...354
+validnes_region	
+nesbase_region	
+Sequence	MTTWSSLQGSHVSKRALAYALVVTNCQERIQHWKKVDNDYNALRERLSTLPDKLSYNIMVPFGPFAFMPGKLVHTNEVTVLLGDNWFAKCSAKQAVGLVEHRKEHVRKTIDDLKKVMKNFESRVEFTEDLQKMSDAAGDIVDIREEIKCDFEFKAKHRIAHKPHSKPKTSDIFEADIANDVKSKDLLADKELWARLEELERQEELLGELDSKPDTVIANGEDTTSSEEEKEDRNTNVNAMHQVTDSHTPCHKDVASSEPFSGQVNSQLNCSVNGSSSYHSDDDDDDDDDDDDDNIDDDDGDNDHEALGVGDNSIPTIYFSHTVEPKRVRINTGKNTTLKFSEKKEEAKRKRKNSTGSGHSAQELPTIRTPADIYRAFVDVVNGEYVPRKSILKSRSRENSVCSDTSESSAAEFDDRRGVLRSISCEEATCSDTSESILEEEPQENQKKLLPLSVTPEVLRLVGYSRNLAPLNVIL
+PTM	Acetylation:132;Methylation:132,150,166,172,200,411,465;Phosphorylation:5,8,13,16,127,229,233,241,242,243,244,359,372,373,375,378,408,412,414,418,421,424,440,442,447,449,451,452,454,473,488,490,492;Ubiquitylation:200

@@ -1,0 +1,25 @@
+UniprotID	Q8N755-2
+Accession	Q8N755;B2R8K1;B4DWA4
+EntryName	S66A3_HUMAN
+ProteinName	Solute carrier family 66 member 3 (PQ-loop repeat-containing protein 3)
+GeneName	SLC66A3 C2orf22 PQLC3
+Length	188
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAALLGLCNWSTLGVCAALKLPQISAVLAARSARGLSLPSLLLELAGFLVFLRYQCYYGYPPLTYLEYPILIAQDVILLLCIFHFNGNVKQATPYIAVLVSSWFILALQKWIIDLAMNLCTFISAASKFAQLQCLWKTRDSGTVSALTWSLSSYTCAILLRFVIMLALNIWVTVTVLRYRKTAIKAE
+PTM	Methylation:111

@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BGV5
+Accession	A0AAQ5BGV5
+EntryName	A0AAQ5BGV5_HUMAN
+ProteinName	AP-4 complex subunit mu-1
+GeneName	AP4M1
+Length	450
+Function	Component of the adaptor protein complex 4 (AP-4). Adaptor protein complexes are vesicle coat components involved both in vesicle formation and cargo selection. They control the vesicular transport of proteins in different trafficking pathways. AP-4 forms a non clathrin-associated coat on vesicles departing the trans-Golgi network (TGN) and may be involved in the targeting of proteins from the trans-Golgi network (TGN) to the endosomal-lysosomal system. It is also involved in protein sorting to the basolateral membrane in epithelial cells and the proper asymmetric localization of somatodendritic proteins in neurons. Within AP-4, the mu-type subunit AP4M1 is directly involved in the recognition and binding of tyrosine-based sorting signals found in the cytoplasmic part of cargos. The adaptor protein complex 4 (AP-4) may also recognize other types of sorting signal.
+Subcellular Location	Early endosome; Endomembrane system; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISQFFILSSKGDPLIYKDFRGDSGGRDVAELFYRKLTGLPGDESPHHHGRHFIHIRHSGLYLVVTTSENVSPFSLLELLSRLATLLGDYCGSLGEGTISRNVALVYELLDEVLDYGYVQTTSTEMLRNFIQTEAVVSKPFSLFDLSSVGLFGAETQQSKVAPSSAASRPVLSSRSDQSQKNEVFLDVVERLSVLIASNGSLLKVDVQGEIRLKSFLPSGSEMRIGLTEEFCVGKSELRGYGPGIRVDEVSFHSSVNLDEFESHRILRLQPPQGELTVMRYQLSDDLPSPLPFRLFPSVQWDRGSGRLQVYLKLRCDLLSKSQALNVRLHLPLPRGVVSLSQELSSPEQKAELAEGALRWDLPRVQGGSQLSGLFQMDVPGPPGPPSHGLSTSASPLGLGPASLSFELPRHTCSGLQVRFLRLAFRPCGNANPHKWVRHLSHSDAYVIRI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9HD43-2
+Accession	Q9HD43;C9JCH2;Q15426;Q2NKN9;Q2NKP0
+EntryName	PTPRH_HUMAN
+ProteinName	Receptor-type tyrosine-protein phosphatase H (R-PTP-H) (EC 3.1.3.48) (Stomach cancer-associated protein tyrosine phosphatase 1) (SAP-1) (Transmembrane-type protein-tyrosine phosphatase type H)
+GeneName	PTPRH SAP1
+Length	937
+Function	Protein phosphatase that may contribute to contact inhibition of cell growth and motility by mediating the dephosphorylation of focal adhesion-associated substrates and thus negatively regulating integrin-promoted signaling processes. Induces apoptotic cell death by at least two distinct mechanisms: inhibition of cell survival signaling mediated by PI 3-kinase, Akt, and ILK and activation of a caspase-dependent proapoptotic pathway. Inhibits the basal activity of LCK and its activation in response to TCR stimulation and TCR-induced activation of MAP kinase and surface expression of CD69. Inhibits TCR-induced tyrosine phosphorylation of LAT and ZAP70. Inhibits both basal activity of DOK1 and its CD2-induced tyrosine phosphorylation. Induces dephosphorylation of BCAR1, focal adhesion kinase and SRC. Reduces migratory activity of activity of Jurkat cells. Reduces tyrosine phosphorylation of CEACAM20 and thereby contributes to suppress the intestinal immune response CEACAM20 (By similarity).
+Subcellular Location	Cell projection; Microvillus membrane; Apical cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGAGGGLGVWGNLVLLGLCSWTGARAPAPNPGRNLTVETQTTSSISLSWEVPDGLDSQNSNYWVQCTGDGGTTETRNTTATNVTVDGLGPGSLYTCSVWVEKDGVNSSVEIVTSATAPNPVRNLTVEAQTNSSIALTWEVPDGPDPQNSTYGVEYTGDGGRAGTRSTAHTNITVDRLEPGCLYVFSVWVGKNGINSSRETRNATTAPNPVRNLHMETQTNSSIALCWEVPDGPYPQDYTYWVEYTGDGGGTETRNTTNTSVTAERLEPGTLYTFSVWAEKNGARGSRQNVSISTVPNAVTSLSKQDWTNSTIALRWTAPQGPGQSSYSYWVSWVREGMTDPRTQSTSGTDITLKELEAGSLYHLTVWAERNEVRGYNSTLTAATAPNEVTDLQNETQTKNSVMLWWKAPGDPHSQLYVYWVQWASKGHPRRGQDPQANWVNQTSRTNETWYKVEALEPGTLYNFTVWAERNDVASSTQSLCASTYPDTVTITSCVSTSAGYGVNLIWSCPQGGYEAFELEVGGQRGSQDRSSCGEAVSVLGLGPARSYPATITTIWDGMKVVSHSVVCHTESAGVIAGAFVGILLFLILVGLLIFFLKRRNKKKQQKPELRDLVFSSPGDIPAEDFADHVRKNERDSNCGFADEYQQLSLVGHSQSQMVASASENNAKNRYRNVLPYDWSRVPLKPIHEEPGSDYINASFMPGLWSPQEFIATQGPLPQTVGDFWRLVWEQQSHTLVMLTNCMEAGRVKCEHYWPLDSQPCTHGHLRVTLVGEEVMENWTVRELLLLQVEEQKTLSVRQFHYQAWPDHGVPSSPDTLLAFWRMLRQWLDQTMEGGPPIVHCSAGVGRTGTLIALDVLLRQLQSEGLLGPFSFVRKMRESRPLMVQTEAQYVFLHQCILRFLQQSAQAPAEKEVPYEDVENLIYENVAAIQAHKLEV
+PTM	Glycosylation:488;Methylation:533,777,864;Phosphorylation:531

@@ -1,0 +1,25 @@
+UniprotID	Q9UKL6-2
+Accession	Q9UKL6;Q9BSC9;Q9UIT3;Q9UKW7
+EntryName	PPCT_HUMAN
+ProteinName	Phosphatidylcholine transfer protein (PC-TP) (START domain-containing protein 2) (StARD2) (StAR-related lipid transfer protein 2)
+GeneName	PCTP STARD2
+Length	142
+Function	Catalyzes the transfer of phosphatidylcholine between membranes. Binds a single lipid molecule.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSDYRKQWDQYVKELYEQECNGETVVYWEVKYPFPMSNRDYVYLRQRRDLDMEGRKIHVILARSTSMPQLGERSGVIRVKQYKQSLAIESDGKKGSKVFMYYFDNPGGQIPSWLINWAAKNGVPNFLKDMARACQNYLKKT
+PTM	Methylation:47;Phosphorylation:139;Ubiquitylation:48

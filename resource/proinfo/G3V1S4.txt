@@ -1,0 +1,25 @@
+UniprotID	G3V1S4
+Accession	G3V1S4;A0A024R6D0
+EntryName	G3V1S4_HUMAN
+ProteinName	Chromosome 14 open reading frame 111, isoform CRA_a (FCF1 rRNA-processing protein)
+GeneName	FCF1 C14orf111 hCG_22352
+Length	186
+Function	
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	153...158
+validnes_region	
+nesbase_region	
+Sequence	MKRMLSLRDQRLKEKDRLKPKKKEKKDPSALKEREVPQHPSCLFFQYNTQLGPPYHILVDTNFINFSIKAKLDLVQSMMDCLYAKCIPCITDCVMAEIEKLGQKYRVALRIAKDPRFERLPCTHKGTYADDCLVQRVTQHKCYIVATVDRDLKRRIRKIPGVPIMYISNHRYNIERMPDDYGAPRF
+PTM	

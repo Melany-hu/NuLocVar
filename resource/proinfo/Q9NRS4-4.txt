@@ -1,0 +1,25 @@
+UniprotID	Q9NRS4-4
+Accession	Q9NRS4;A8MU84;B0YJB0;B7Z8C5;E7ERX8;Q5XKQ6;Q6UX37;Q9NZA5
+EntryName	TMPS4_HUMAN
+ProteinName	Transmembrane protease serine 4 (EC 3.4.21.-) (Channel-activating protease 2) (CAPH2) (Membrane-type serine protease 2) (MT-SP2) [Cleaved into: Transmembrane protease serine 4 catalytic chain]
+GeneName	TMPRSS4 TMPRSS3 UNQ776/PRO1570
+Length	397
+Function	Plasma membrane-anchored serine protease that directly induces processing of pro-uPA/PLAU into the active form through proteolytic activity (PubMed:24434139). Seems to be capable of activating ENaC (By similarity).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPDSDQPLNSLVKVILDKYYFLCGQPLHFIPRKQLCDGELDCPLGEDEEHCVKSFPEGPAVAVRLSKDRSTLQVLDSATGNWFSACFDNFTEALAETACRQMGYSSKPTFRAVEIGPDQDLDVVEITENSQELRMRNSSGPCLSGSLVSLHCLACGKSLKTPRVVGVEEASVDSWPWQVSIQYDKQHVCGGSILDPHWVLTAAHCFRKHTDVFNWKVRAGSDKLGSFPSLAVAKIIIIEFNPMYPKDNDIALMKLQFPLTFSGTVRPICLPFFDEELTPATPLWIIGWGFTKQNGGKMSDILLQASVQVIDSTRCNADDAYQGEVTEKMMCAGIPEGGVDTCQGDSGGPLMYQSDQWHVVGIVSWGYGCGGPSTPGVYTKVSAYLNWIYNVWKAEL
+PTM	Methylation:17,54,59,275;Phosphorylation:262

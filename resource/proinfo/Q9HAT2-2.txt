@@ -1,0 +1,25 @@
+UniprotID	Q9HAT2-2
+Accession	Q9HAT2;B3KPB0;Q8IUT9;Q9HAU7;Q9NT71
+EntryName	SIAE_HUMAN
+ProteinName	Sialate O-acetylesterase (SIAE) (EC 3.1.1.53) (H-Lse) (Sialic acid-specific 9-O-acetylesterase)
+GeneName	SIAE YSG2
+Length	488
+Function	Catalyzes the removal of O-acetyl ester groups from position 9 of the free diacetylated sialate N-acetyl-9-O-acetylneuraminate (Neu5,9Ac2) in the cytosol and of the diacetylated sialate residues of sialylglycoconjugates in the lysosomes (Probable). Together with the sialate-O-acetyltransferase they regulate the balance of acetylated sialoglycoconjugates, key players in various processes such as cell-cell interactions, host-pathogen recognition, and tumor antigenicity (PubMed:21803834).
+Subcellular Location	Lysosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLQKEPAGAVIWGFGTPGATVTVTLRQGQETIMKKVTSVKAHSDTWMVVLDPMKPGGPFEVMAQQTLEKINFTLRVHDVLFGDVWLCSGQSNMQMTVLQIFNATRELSNTAAYQSVRILSVSPIQAEQELEDLVAVDLQWSKPTSENLGHGYFKYMSAVCWLFGRHLYDTLQYPIGLIASSWGGTPIEAWSSGRSLKACGVPKQGSIPYDSVTGPSKHSVLWNAMIHPLCNMTLKGVVWYQGESNINYNTDLYNCTFPALIEDWRETFHRGSQGQTERFFPFGLVQLSSDLSKKSSDDGFPQIRWHQTADFGYVPNPKMPNTFMAVAMDLCDRDSPFGSIHPRDKQTVAYRLHLGARALAYGEKNLTFEGPLPEKIELLAHKGLLNLTYYQQIQVQKKDNKIFEISCCSDHRCKWLPASMNTVSTQSLTLAIDSCHGTVVALRYAWTTWPCEYKQCPLYHPSSALPAPPFIAFITDQGPGHQSNVAK
+PTM	Glycosylation:107,259,267,401,403,422;Methylation:105,329;Phosphorylation:109,231

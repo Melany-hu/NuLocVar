@@ -1,0 +1,25 @@
+UniprotID	Q8WY98-3
+Accession	Q8WY98;B2R535;D3DPP7;Q6UWY9;Q8N2H6;Q9BSR2;Q9NU76
+EntryName	TM234_HUMAN
+ProteinName	Transmembrane protein 234
+GeneName	TMEM234 C1orf91 PP1065 UNQ548/PRO1105
+Length	140
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASLGQVLALVLVAALWGGTQPLLKRASAGLQRVHEPTWAQQLLQEMKTLFLNTEYLMPFLLNQCGSLLYYLTLASTDLTLAVPICNSLAIIFTLIVGKALGEDIGGKRAVAGMVLTVIGISLCITSSVSKTQGQQSTL
+PTM	Methylation:100,109

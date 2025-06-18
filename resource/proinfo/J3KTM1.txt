@@ -1,0 +1,25 @@
+UniprotID	J3KTM1
+Accession	J3KTM1
+EntryName	J3KTM1_HUMAN
+ProteinName	Archaemetzincin-2 (Archeobacterial metalloproteinase-like protein 2)
+GeneName	AMZ2
+Length	221
+Function	Probable zinc metalloprotease.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVRAAAARPRHVRPCKLKASMGAFLPNQDWITSHPEAPQDFEQFFSDPYRKTPSPNKRSIYIQSIGSLGNTRIISEEYIKWLTGYCKAYFYGLRVKLLEPVPVSVTRCSFRVNENTHNLQIHAGDILKFLKKKKPEDAFCVVGITMIDLYPRDSWNFVFGQASLTDGVGIFSFARYGSDFYSMHYKGKVKKLKKTSSSDYSIFDNYYIPEITSVLLLRSC
+PTM	

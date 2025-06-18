@@ -1,0 +1,25 @@
+UniprotID	H0YA27
+Accession	H0YA27
+EntryName	H0YA27_HUMAN
+ProteinName	Cyclin I
+GeneName	CCNI
+Length	177
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSEILRMERIILDKLNWDLHTATPLDFLHIMDSSQLIHCRELVAHHLSTLQSSLPLNSVYVYRPLKHTLVTCDKGVFRLHPSSVPGPDFSKDNSKPEVPVRGTAAFYHHLPAASGCKQTSTKRKVEEMEVDDFYDGIKRLYNEDNVSENVGSVCGTDLSRQEGHASPCPPLQPVSVM
+PTM	

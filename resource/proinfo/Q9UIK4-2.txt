@@ -1,0 +1,25 @@
+UniprotID	Q9UIK4-2
+Accession	Q9UIK4;E9JGM7;O75892;Q24JS1
+EntryName	DAPK2_HUMAN
+ProteinName	Death-associated protein kinase 2 (DAP kinase 2) (EC 2.7.11.1) (DAP-kinase-related protein 1) (DRP-1)
+GeneName	DAPK2
+Length	488
+Function	Calcium/calmodulin-dependent serine/threonine kinase involved in multiple cellular signaling pathways that trigger cell survival, apoptosis, and autophagy. Regulates both type I apoptotic and type II autophagic cell death signals, depending on the cellular setting. The former is caspase-dependent, while the latter is caspase-independent and is characterized by the accumulation of autophagic vesicles. Acts as a mediator of anoikis and a suppressor of beta-catenin-dependent anchorage-independent growth of malignant epithelial cells. May play a role in granulocytic maturation (PubMed:17347302). Regulates granulocytic motility by controlling cell spreading and polarization (PubMed:24163421).
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Autophagosome lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFQASMRSPNMEPFKQQKVEDFYDIGEELGSGQFAIVKKCREKSTGLEYAAKFIKKRQSRASRRGVSREEIEREVSILRQVLHHNVITLHDVYENRTDVVLILELVSGGELFDFLAQKESLSEEEATSFIKQILDGVNYLHTKKIAHFDLKPENIMLLDKNIPIPHIKLIDFGLAHEIEDGVEFKNIFGTPEFVAPEIVNYEPLGLEADMWSIGVITYILLSGASPFLGDTKQETLANITAVSYDFDEEFFSQTSELAKDFIRKLLVKETRKRLTIQEALRHPWITSKGEGRAPEQRKTEPTQLKTKHLREYTLKCHSSMPPNNSYVNFERFACVVEDVARVDLGCRALVEAHDTIQDDVEALVSIFNEKEAWYREENESARHDLSQLRYEFRKVESLKKLLREDIQATGCSLGSMARKLDHLQAQFEILRQELSADLQWIQELVGSFQLESGSSEGLGSTFYQDTSESLSELLSRSCTEEFLAGWKL
+PTM	Methylation:38,131,160,259,268,334;Phosphorylation:128,142,299,318,349,351

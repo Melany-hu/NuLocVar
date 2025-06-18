@@ -1,0 +1,25 @@
+UniprotID	P0C7U1-2
+Accession	P0C7U1;B7Z261
+EntryName	ASA2B_HUMAN
+ProteinName	Putative inactive neutral ceramidase B (ASAH2-like protein) (Putative inactive N-acylsphingosine amidohydrolase 2B) (Putative inactive non-lysosomal ceramidase B)
+GeneName	ASAH2B ASAH2C ASAH2L
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVANLSRGPEPPFFKQLIVPLIPSIVDRAPKGRTFGDVLQPAKPEYRVGEVAEVIFVGANPKNSVQNQTHQTFLTVEKYEATSTSWQIVCNDASWETRFYWHKGLLGLSNATVEWHIPDTAQPGIYRIRYFGHNRKQDILKPAVILSFEGTSPAFEVVTI
+PTM	Methylation:146

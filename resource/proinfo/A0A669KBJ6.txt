@@ -1,0 +1,25 @@
+UniprotID	A0A669KBJ6
+Accession	A0A669KBJ6
+EntryName	A0A669KBJ6_HUMAN
+ProteinName	Ankyrin 2
+GeneName	ANK2
+Length	53
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVSSWNWNLVPCLCRGQLSDSNASFLRAARAGNLDKVVEYLKGGIDINTCNQ
+PTM	

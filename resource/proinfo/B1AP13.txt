@@ -1,0 +1,25 @@
+UniprotID	B1AP13
+Accession	B1AP13
+EntryName	B1AP13_HUMAN
+ProteinName	CD55 molecule (Cromer blood group)
+GeneName	CD55
+Length	444
+Function	This protein recognizes C4b and C3b fragments that condense with cell-surface hydroxyl or amino groups when nascent C4b and C3b are locally generated during C4 and c3 activation. Interaction of daf with cell-associated C4b and C3b polypeptides interferes with their ability to catalyze the conversion of C2 and factor B to enzymatically active C2a and Bb and thereby prevents the formation of C4b2a and C3bBb, the amplification convertases of the complement cascade. Inhibits complement activation by destabilizing and preventing the formation of C3 and C5 convertases, which prevents complement damage.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVARPSVPAALPLLGELPRLLLLVLLCLPAVWGDCGLPPDVPNAQPALEGRTSFPEDTVITYKCEESFVKIPGEKDSVICLKGSQWSDIEEFCNRSCEVPTRLNSASLKQPYITQNYFPVGTVVEYECRPGYRREPSLSPKLTCLQNLKWSTAVEFCKKKSCPNPGEIRNGQIDVPGGILFGATISFSCNTGYKLFGSTSSFCLISGSSVQWSDPLPECREIYCPAPPQIDNGIIQGERDHYGYRQSVTYACNKGFTMIGEHSIYCTVNNDEGEWSGPPPECRGKSLTSKVPPTVQKPTTVNVPTTEVSPTSQKTTTKTTTPNAQATRSTPVSRTTKHFHETTPNKGSGTTSGTTRLLSGSRPVTQAGMRWCDRSSLQSRTPGFKRSFHFSLPSSWYYRCVPRHPAKFLKFIFCRDRIFLCCPGWFQTPGRKRFFRPPKTLRL
+PTM	

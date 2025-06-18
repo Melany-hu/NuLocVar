@@ -1,0 +1,25 @@
+UniprotID	Q9UJ78-2
+Accession	Q9UJ78;B2R6V1;Q5T6E1;Q5T6E2;Q5T6E4;Q96IY6;Q9NZY5;Q9UBW0;Q9UJ77
+EntryName	ZMYM5_HUMAN
+ProteinName	Zinc finger MYM-type protein 5 (Zinc finger protein 198-like 1) (Zinc finger protein 237)
+GeneName	ZMYM5 ZNF198L1 ZNF237 HSPC050
+Length	208
+Function	Functions as a transcriptional regulator.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKCSVGGLELTEQTPALLGNMAMATSLMDIGDSFGHPACPLVSRSRNSPVEDDDDDDDVVFIESIQPPSISAPAIADQRNFIFASSKNEKPQGNYSVIPPSSRDLASQKGNISETIVIDDEEDIETNGGAEKKSSCFIEWGLPGTKNKTNDLDFSTSSLSRSKTKTGVRPFNPGRMNVAGDLFQNGEFATHHSPEMHLQRRLMSFFQ
+PTM	Methylation:225,296,532,585,621;Phosphorylation:15,202,216,218,339,357,410,415,560,563;SUMOylation:88,91,134,147,149,164,166,225,238,241,253,261,279,297,308,329,335,359,368,422,443,454,455,462,532,552,558,573,600,604,621,634,646;Ubiquitylation:88,91,253

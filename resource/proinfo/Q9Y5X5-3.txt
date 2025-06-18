@@ -1,0 +1,25 @@
+UniprotID	Q9Y5X5-3
+Accession	Q9Y5X5;Q96RV1;Q9NR49
+EntryName	NPFF2_HUMAN
+ProteinName	Neuropeptide FF receptor 2 (G-protein coupled receptor 74) (G-protein coupled receptor HLWAR77) (Neuropeptide G-protein coupled receptor)
+GeneName	NPFFR2 GPR74 NPFF2 NPGPR
+Length	423
+Function	Receptor for NPAF (A-18-F-amide) and NPFF (F-8-F-amide) neuropeptides, also known as morphine-modulating peptides. Can also be activated by a variety of naturally occurring or synthetic FMRF-amide like ligands. This receptor mediates its action by association with G proteins that activate a phosphatidylinositol-calcium second messenger system.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFIMNEKWDTNSSENWHPIWNVNDTKHHLYSDINITYVNYYLHQPQVAAIFIISYFLIFFLCMMGNTVVCFIVMRNKHMHTVTNLFILNLAISDLLVGIFCMPITLLDNIIAGWPFGNTMCKISGLVQGISVAASVFTLVAIAVDRFQCVVYPFKPKLTIKTAFVIIMIIWVLAITIMSPSAVMLHVQEEKYYRVRLNSQNKTSPVYWCREDWPNQEMRKIYTTVLFANIYLAPLSLIVIMYGRIGISLFRAAVPHTGRKNQEQWHVVSRKKQKIIKMLLIVALLFILSWLPLWTLMMLSDYADLSPNELQIINIYIYPFAHWLAFGNSSVNPIIYGFFNENFRRGFQEAFQLQLCQKRAKPMEAYALKAKSHVLINTSNQLVQESTFQNPHGETLLYRKSAEKPQQELVMEELKETTNSSEI
+PTM	Methylation:260,468;Phosphorylation:500,516

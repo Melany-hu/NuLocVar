@@ -1,0 +1,25 @@
+UniprotID	A5XEK0
+Accession	A5XEK0
+EntryName	A5XEK0_HUMAN
+ProteinName	Ankyrin 2
+GeneName	ANK2
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PQEPVNIEEGDGYSKVIKRVVLKSDTEQSEVTLCEPSILSSTSQFQAEPVEGRRVSKVVKTTVVLGERMEKHLGDSSLATDLPSAKDDFEEALSYTGSHMKVHLPSLVENEILKEDGSIIKRTTMSKAITQKRAVVKDQHG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UHX1-6
+Accession	Q9UHX1;A8K8K8;Q969E7;Q96D94;Q96H63;Q99628;Q9NZA0;Q9UJY7
+EntryName	PUF60_HUMAN
+ProteinName	Poly(U)-binding-splicing factor PUF60 (60 kDa poly(U)-binding-splicing factor) (FUSE-binding protein-interacting repressor) (FBP-interacting repressor) (Ro-binding protein 1) (RoBP1) (Siah-binding protein 1) (Siah-BP1)
+GeneName	PUF60 FIR ROBPI SIAHBP1
+Length	513
+Function	DNA- and RNA-binding protein, involved in several nuclear processes such as pre-mRNA splicing, apoptosis and transcription regulation. In association with FUBP1 regulates MYC transcription at the P2 promoter through the core-TFIIH basal transcription factor. Acts as a transcriptional repressor through the core-TFIIH basal transcription factor. Represses FUBP1-induced transcriptional activation but not basal transcription. Decreases ERCC3 helicase activity. Does not repress TFIIH-mediated transcription in xeroderma pigmentosum complementation group B (XPB) cells. Is also involved in pre-mRNA splicing. Promotes splicing of an intron with weak 3'-splice site and pyrimidine tract in a cooperative manner with U2AF2. Involved in apoptosis induction when overexpressed in HeLa cells. Isoform 6 failed to repress MYC transcription and inhibited FIR-induced apoptosis in colorectal cancer. Isoform 6 may contribute to tumor progression by enabling increased MYC expression and greater resistance to apoptosis in tumors than in normal cells. Modulates alternative splicing of several mRNAs. Binds to relaxed DNA of active promoter regions. Binds to the pyrimidine tract and 3'-splice site regions of pre-mRNA; binding is enhanced in presence of U2AF2. Binds to Y5 RNA in association with RO60. Binds to poly(U) RNA.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATATIALGTDSIKMENGQSTAAKLGLPPLTPEQQEALQKAKKYAMEQSIKSVLVKQTIAHQQQQLTNLQMAAQRQRALAIMCRVYVGSIYYELGEDTIRQAFAPFGPIKSIDMSWDSVTMKHKGFAFVEYEVPEAAQLALEQMNSVMLGGRNIKVGRPSNIGQAQPIIDQLAEEARAFNRIYVASVHQDLSDDDIKSVFEAFGKIKSCTLARDPTTGKHKGYGFIEYEKAQSSQDAVSSMNLFDLGGQYLRVGKAVTPPMPLLTPATPGGLPPAAAVAAAAATAKITAQEAVAGAAVLGTLGTPGLVSPALTLAQPLGTLPQAVMAAQAPGVITGVTPARPPIPVTIPSVGVVNPILASPPTLGLLEPKKEKEEEELFPESERPEMLSEQEHMSISGSSARHMVMQKLLRKQESTVMVLRNMVDPKDIDDDLEGEVTEECGKFGAVNRVIIYQEKQGEEEDAEIIVKIFVEFSIASETHKAIQALNGRWFAGRKVVAEVYDQERFDNSDLSA
+PTM	Acetylation:69,201,251,267,454,489;Methylation:69,72,80,85,156,168,251,276,458,489,514,541;Phosphorylation:3,5,18,60,112,206,244,280,311,314,350,555,558;SUMOylation:34,43,80,419,454,458;Ubiquitylation:69,80,85,201,243,251,253,267,301,454,458,489

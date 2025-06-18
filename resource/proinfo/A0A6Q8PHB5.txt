@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PHB5
+Accession	A0A6Q8PHB5
+EntryName	A0A6Q8PHB5_HUMAN
+ProteinName	Cytosolic purine 5'-nucleotidase (EC 2.7.1.77) (EC 3.1.3.5) (EC 3.1.3.99) (Cytosolic nucleoside phosphotransferase 5'N)
+GeneName	NT5C2
+Length	436
+Function	Broad specificity cytosolic 5'-nucleotidase that catalyzes the dephosphorylation of 6-hydroxypurine nucleoside 5'-monophosphates. In addition, possesses a phosphotransferase activity by which it can transfer a phosphate from a donor nucleoside monophosphate to an acceptor nucleoside, preferably inosine, deoxyinosine and guanosine. Has the highest activities for IMP and GMP followed by dIMP, dGMP and XMP. Could also catalyze the transfer of phosphates from pyrimidine monophosphates but with lower efficiency. Through these activities regulates the purine nucleoside/nucleotide pools within the cell.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTSWSDRLQNAADMPANMDKHALKKYRREAYHRVFVNRSLAMEKIKCFGFDMDYTLAVYKSPEYESLGFELTVERLVSIGYPQELLSFAYDSTFPTRGLVFDTLYGNLLKVDAYGNLLVCAHGFNFIRGPETREQYPNKFIQRDDTERFYILNTLFNLPETYLLACLVDFFTNCPRYTSCETGFKDGDLFMSYRSMFQDVRDAVDWVHYKGSLKEKTVENLEKYVVKDGKLPLLLSRMKEVGKVFLATNSDYKYTDKIMTYLFDFPHGPKPGSSHRPWQSYFDLILVDARKPLFFGEGTVLRQVDTKTGKLKIGTYTGPLQHGIVYSGGSSDTICDLLGAKGKDILYIGDHIFGDILKSKKRQGWRTFLVIPELAQELHVWTDKSSLFEELQSLDIFLAELYKHLDSSSNERPDISSIQRRIKLPLQGCPCLDAS
+PTM	

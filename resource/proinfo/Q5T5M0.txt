@@ -1,0 +1,25 @@
+UniprotID	Q5T5M0
+Accession	Q5T5M0
+EntryName	Q5T5M0_HUMAN
+ProteinName	Aquaporin 7 (cDNA FLJ52444, highly similar to Aquaporin-7)
+GeneName	AQP7
+Length	256
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSGHCLRSTRGSKMVSWSVIAKIQEILQRKMVREFLAEFMSTYVMMVFGLGSVAHMVLNKKYGSYLGVNLGFGFGVTMGVHVAGRISGAHMNAAVTFANCALGRVPWRKFPVYVLGQFLGSFLAAATIYSLFYTAILHFSGGQLMVTGPVATAGIFATYLPDHMTLWRGFLNEAWLTGMLQLCLFAITDQENNPALPGTEALVIGILVVIIGVSLGMNTGYAINPSRDLPPRIFTFIAGWGKQVFRYCPCPGPFL
+PTM	

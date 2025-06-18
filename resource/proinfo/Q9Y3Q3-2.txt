@@ -1,0 +1,25 @@
+UniprotID	Q9Y3Q3-2
+Accession	Q9Y3Q3;A8K069;B4DN05;Q2T9F8
+EntryName	TMED3_HUMAN
+ProteinName	Transmembrane emp24 domain-containing protein 3 (Membrane protein p24B) (p24 family protein gamma-4) (p24gamma4) (p26)
+GeneName	TMED3 C15orf22 UNQ5357/PRO1078
+Length	173
+Function	Potential role in vesicular protein trafficking, mainly in the early secretory pathway. Contributes to the coupled localization of TMED2 and TMED10 in the cis-Golgi network.
+Subcellular Location	Endoplasmic reticulum-Golgi intermediate compartment membrane; Golgi apparatus; cis-Golgi network membrane; Golgi apparatus; Golgi stack membrane; Endoplasmic reticulum membrane; Cytoplasmic vesicle; COPI-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSTVPRSASVLLLLLLLRRAEQPCGAELTFELPDNAKQCFHEEVEQGVKFSLDYQVITGGHYDVDCYVEDPQGNTIYRETKKQYDSFTYRAEVKGVYQFCFSNEFSTFSHKTVYFDFQVGDEPPILPDMGNRVTALTQRFRGAYWKEVDKMVDYMQPGGTPATEGLGRLAPS
+PTM	Methylation:152,202;Phosphorylation:3;Ubiquitylation:38,83,152,208

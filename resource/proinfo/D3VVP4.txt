@@ -1,0 +1,25 @@
+UniprotID	D3VVP4
+Accession	D3VVP4
+EntryName	D3VVP4_HUMAN
+ProteinName	ubiquitinyl hydrolase 1 (EC 3.4.19.12)
+GeneName	ATXN3
+Length	232
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESIFHEKQPSGNMDDSGFFSIQWFNLNSLLTGPELISDTYLALFLAQLQQEGYSIFVVKGDLPDCEADQLLQMIRVQQMHRPKLIGEELAQLKEQRVHKTDLERVLEANDGSGMLDEDEEDLQRALALSRQEIDMEDEEADLRRAIQLSMQGSSRNISQDMTQTSGTNLTSEELRKRREAYFEKQQQKQQQQQQQQQQQQQQQQQQQGDLSGQSSHPCERPATSSGALGSD
+PTM	

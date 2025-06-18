@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BHQ6
+Accession	A0AAQ5BHQ6
+EntryName	A0AAQ5BHQ6_HUMAN
+ProteinName	CD200 antigen, isoform CRA_b (CD200 molecule)
+GeneName	CD200 hCG_17791
+Length	101
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVFWKVPRSGIENSTVTLSHPNGTTSVTSILHIKDPKNQVGKEVICQVLHLGTVTDFKQTVNKGYWFSVPLLLSIVSLVILLVLISILLYWKRHRNQDREP
+PTM	

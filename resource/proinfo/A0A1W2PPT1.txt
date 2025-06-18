@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PPT1
+Accession	A0A1W2PPT1
+EntryName	A0A1W2PPT1_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+GeneName	ST3GAL5 hCG_34610
+Length	220
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTKAAGCAERRPLQPRTEAAAAPAGRAMPSEYTYVKLRSDCSRPSLQWYTRAQSKMRRPSLLLKDILKCTLLVFGVWILYILKLNYTTEECDMKKMHYVDPDHVKTLSPCGWHCVQLIMARWTQPLLHRLLSDSADLHRAFKGSRALPAEAFSEPRHQHLQTESFLSLVLLPAFQAFLGYLRAPEGAALALRHFLLSCELWASSGGGREQLKQMPVQLT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q53FA7-2
+Accession	Q53FA7;D6W533;O14679;O14685;Q38G78;Q6JLE7;Q9BWB8
+EntryName	QORX_HUMAN
+ProteinName	Quinone oxidoreductase PIG3 (EC 1.6.5.5) (NADPH:quinone reductase PIG3) (Tumor protein p53-inducible protein 3) (Protein PIG3) (p53-induced gene 3 protein)
+GeneName	TP53I3 PIG3
+Length	248
+Function	Catalyzes the NADPH-dependent reduction of quinones (PubMed:19349281). Exhibits a low enzymatic activity with beta-naphthoquinones, with a strong preference for the ortho-quinone isomer (1,2-beta-naphthoquinone) over the para isomer (1,4-beta-naphthoquinone). Also displays a low reductase activity for non-quinone compounds such as diamine and 2,6-dichloroindophenol (in vitro) (PubMed:19349281). Involved in the generation of reactive oxygen species (ROS) (PubMed:19349281).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAVHFDKPGGPENLYVKEVAKPSPGEGEVLLKVAASALNRADLMQRQGQYDPPPGASNILGLEASGHVAELGPGCQGHWKIGDTAMALLPGGGQAQYVTVPEGLLMPIPEGLTLTQAAAIPEAWLTAFQLLHLVGNVQAGDYVLIHAGLSGVGTAAIQLTRMAGAIPLVTAGSQKKLQMAEKLGAAAGFNYKKEDFSEATLKFTKVQANAGECFHGANSASLLHGGPPTSAAGSGQNLPSDRNPGGP
+PTM	Acetylation:176,321;Methylation:22,33,257;Phosphorylation:252,260,264;SUMOylation:22,33;Ubiquitylation:8,203

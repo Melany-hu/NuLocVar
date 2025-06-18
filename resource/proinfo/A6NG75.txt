@@ -1,0 +1,25 @@
+UniprotID	A6NG75
+Accession	A6NG75
+EntryName	A6NG75_HUMAN
+ProteinName	RNA binding motif protein 38
+GeneName	RBM38
+Length	158
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADRAAAERACKDPNPIIDGRKANVNLAYLGAKPRSLQTGFAIGVQQLHPTLIQRTYGLTPHYIYPPAIVQPSVVIPAAPVPSLSSPYIEYTPASPAYAQYPPATYDQYPYAASPATAASFVGYSYPAAVPQALSAAAPAGTTFVQYQAPQLQPDRMQ
+PTM	

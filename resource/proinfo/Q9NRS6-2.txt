@@ -1,0 +1,25 @@
+UniprotID	Q9NRS6-2
+Accession	Q9NRS6;E5KQS6;Q9NRS5
+EntryName	SNX15_HUMAN
+ProteinName	Sorting nexin-15
+GeneName	SNX15
+Length	256
+Function	May be involved in several stages of intracellular trafficking. Overexpression of SNX15 disrupts the normal trafficking of proteins from the plasma membrane to recycling endosomes or the TGN.
+Subcellular Location	Cytoplasm; Membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRQAKDDFLRHYTVSDPRTHPKGYTEYKVTAQFISKKDPEDVKEVVVWKRYSDFRKLHGDLAYTHRNLFRRLEEFPAFPRAQVFGRFEASVIEERRKGAEDLLRFTVHIPALNNSPQLKEFFRGGEVTRPLEVSRDLHILPPPLIPTPPPDDPRLSQLLPAERRGLEELEVPVDPPPSSPAQEALDLLFNCESTEEASGSPARGPLTEAELALFDPFSKEGDPLPARQEGVKKKAAEYLKRAEEILRLHLSQLPP
+PTM	Methylation:44,319;Phosphorylation:148,179,180,194,201,219,227,229

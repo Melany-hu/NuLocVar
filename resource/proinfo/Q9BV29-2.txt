@@ -1,0 +1,25 @@
+UniprotID	Q9BV29-2
+Accession	Q9BV29;A8KAL4;Q86TC4;Q8N788;Q8NAR7
+EntryName	CCD32_HUMAN
+ProteinName	Coiled-coil domain-containing protein 32
+GeneName	CCDC32 C15orf57
+Length	194
+Function	Regulates clathrin-mediated endocytsois of cargos such as transferrin probably through the association and modulation of adaptor protein complex 2 (AP-2) (PubMed:33859415). Has a role in ciliogenesis (By similarity). Required for proper cephalic and left/right axis development (PubMed:32307552).
+Subcellular Location	Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGSGLRFQMKMFESADSTATRSGQDLWAEICSCLPNPEQEDGANNAFSDSFVDSCPEGEGQREVADFAVQPAVKPWAPLQDSEVYLASLEKKLRRIKGLNQEVTSKDMLRTLAQAKKECWDRFLQEKLASEFFVDGLDSDESTLEHFKRWLQPDKVAVSTEEVQYLIPPESQVEKPVAEDEPAAGDKPAAAEQ
+PTM	Methylation:83,119,167;Ubiquitylation:66,89,98,108,119,140

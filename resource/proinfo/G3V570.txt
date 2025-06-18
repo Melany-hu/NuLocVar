@@ -1,0 +1,25 @@
+UniprotID	G3V570
+Accession	G3V570
+EntryName	G3V570_HUMAN
+ProteinName	MYC associated factor X
+GeneName	MAX hCG_41671
+Length	87
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRKNHTHQQDIDDLKRQNALLEQQVRALEKARSSAQLQTNYPSSDNSLYTNAKGSTISAFDGGSDSSSESEPEEPQSRKKLRMEAS
+PTM	

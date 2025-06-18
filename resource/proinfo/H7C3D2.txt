@@ -1,0 +1,25 @@
+UniprotID	H7C3D2
+Accession	H7C3D2
+EntryName	H7C3D2_HUMAN
+ProteinName	LIM and cysteine rich domains 1
+GeneName	LMCD1
+Length	247
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKVAKDLNPGVKKMSLGQLQSARGVACLGCKGTCSGFEPHSWRKICKSCKCSQEDHCLTSDLEDDRKIGRLLMDSKYSTLTARVKGGDGIRIYKRNRMIMTNPIATGKDPTFDTITYEWAPPGVTQKLGLQYMELIPKEKQPVTGTEGAFYRRRQLMHQLPIYDQDPSRCRGLLENELKLMEEFVKQYKSEALGVGEVALPGQGGLPKEEGKQQEKPEGAETTAATTNGSLSDPSKEVEYKPVPLV
+PTM	

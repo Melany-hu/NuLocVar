@@ -1,0 +1,25 @@
+UniprotID	Q4FZB7-2
+Accession	Q4FZB7;A0A0A0MT19;B7WNX7;Q3SX56;Q4V775;Q6P150;Q96E44;Q9BUL0;Q9H022;Q9H2K3;Q9NXV3;Q9Y393
+EntryName	KMT5B_HUMAN
+ProteinName	Histone-lysine N-methyltransferase KMT5B (Lysine N-methyltransferase 5B) (Lysine-specific methyltransferase 5B) (Suppressor of variegation 4-20 homolog 1) (Su(var)4-20 homolog 1) (Suv4-20h1) ([histone H4]-N-methyl-L-lysine20 N-methyltransferase KMT5B) (EC 2.1.1.362) ([histone H4]-lysine20 N-methyltransferase KMT5B) (EC 2.1.1.361)
+GeneName	KMT5B SUV420H1 CGI-85
+Length	393
+Function	Histone methyltransferase that specifically methylates monomethylated 'Lys-20' (H4K20me1) and dimethylated 'Lys-20' (H4K20me2) of histone H4 to produce respectively dimethylated 'Lys-20' (H4K20me2) and trimethylated 'Lys-20' (H4K20me3) and thus regulates transcription and maintenance of genome integrity (PubMed:24396869, PubMed:28114273). In vitro also methylates unmodified 'Lys-20' (H4K20me0) of histone H4 and nucleosomes (PubMed:24396869). H4 'Lys-20' trimethylation represents a specific tag for epigenetic transcriptional repression. Mainly functions in pericentric heterochromatin regions, thereby playing a central role in the establishment of constitutive heterochromatin in these regions. KMT5B is targeted to histone H3 via its interaction with RB1 family proteins (RB1, RBL1 and RBL2) (By similarity). Plays a role in myogenesis by regulating the expression of target genes, such as EID3 (PubMed:23720823). Facilitates TP53BP1 foci formation upon DNA damage and proficient non-homologous end-joining (NHEJ)-directed DNA repair by catalyzing the di- and trimethylation of 'Lys-20' of histone H4 (PubMed:28114273). May play a role in class switch reconbination by catalyzing the di- and trimethylation of 'Lys-20' of histone H4 (By similarity).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKWLGESKNMVVNGRRNGGKLSNDHQQNQSKLQHTGKDTLKAGKNAVERRSNRCNGNSGFEGQSRYVPSSGMSAKELCENDDLATSLVLDPYLGFQTHKMNTSAFPSRSSRHFSKSDSFSHNNPVRFRPIKGRQEELKEVIERFKKDEHLEKAFKCLTSGEWARHYFLNKNKMQEKLFKEHVFIYLRMFATDSGFEILPCNRYSSEQNGAKIVATKEWKRNDKIELLVGCIAELSEIEENMLLRHGENDFSVMYSTRKNCAQLWLGPAAFINHDCRPNCKFVSTGRDTACVKALRDIEPGEEISCYYGDGFFGENNEFCECYTCERRGTGAFKSRVGLPAPAPVINSKYGLRETDKRLNRLKKLGDSSKNSDSQSVSSNTDADTTQEKNNASK
+PTM	Acetylation:20,37,348,428,776;Glycosylation:465;Methylation:8,41,138,152,170,216,451,478,549,717,864;Phosphorylation:66,69,70,73,118,375,377,378,380,422,424,425,426,467,531,532,535,544,546,635,726,758;SUMOylation:115,131,348,555,604,625,746

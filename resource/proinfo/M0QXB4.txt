@@ -1,0 +1,25 @@
+UniprotID	M0QXB4
+Accession	M0QXB4
+EntryName	M0QXB4_HUMAN
+ProteinName	Coatomer subunit epsilon (Epsilon-coat protein)
+GeneName	COPE hCG_2001439
+Length	331
+Function	The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. The coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. In mammals, the coatomer can only be recruited by membranes associated with ADP-ribosylation factors (ARFs), which are small GTP-binding proteins; the complex also influences the Golgi structural integrity, as well as the processing, activity, and endocytic recycling of LDL receptors.
+Subcellular Location	Cytoplasmic vesicle; COPI-coated vesicle membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPPAPGPASGGSGEVDELFDVKNAFYIGSYQQCINEAQRVKLSSPERDVERDVFLYRAYLAQRKFGVVLDEIKPSSAPELQAVRMFADYLAHESRRDSIVAELDREMSRSVDVTNTTFLLMAASIYLHDQNPDAALRALHQGDSLEWVSSPGRALHLEAQPMEAASPDGRTAMTVQILLKLDRLDLARKELKRMQDLDEDATLTQLATAWVSLATGGEKLQDAYYIFQEMADKCSPTLLLLNGQAACHMAQGRWEAAEGLLQEALDKDSGYPETLVNLIVLSQHLGKPPEVTNRYLSQLKDAHRSHPFIKEYQAKENDFDRLVLQYAPSA
+PTM	

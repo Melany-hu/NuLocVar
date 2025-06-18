@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y7W8
+Accession	A0A2R8Y7W8
+EntryName	A0A2R8Y7W8_HUMAN
+ProteinName	Male-enhanced antigen 1
+GeneName	MEA1
+Length	172
+Function	May play an important role in spermatogenesis and/or testis development.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATVVLGGDTMGPERIFPNQTEELGHQGPSEGTGDWSSEEPEEEQEETGSGPAGYSYQPLNQDPEQEEVELAPVGDGDVVADIQDRIQALGLHLPDPPLESEDEDEEGATALNNHSSIPMDPEHVELVKRTMAGVSLPAPGVPAWAREISDAQWEDVVQKALQARQASPAWK
+PTM	

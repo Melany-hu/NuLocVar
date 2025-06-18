@@ -1,0 +1,25 @@
+UniprotID	A2A2F5
+Accession	A2A2F5
+EntryName	A2A2F5_HUMAN
+ProteinName	Prostate transmembrane protein, androgen induced 1
+GeneName	PMEPA1
+Length	227
+Function	
+Subcellular Location	Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	3...7
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHRLMGVNSTAAAAAGQPNVSCTCNCKRSLFQSMEISCHGFPVCKSHQHQEWKSLCWSLRSPGGASSITGFGSMKVTNPAMNLPECQWLRIQKAELEFVQIIIIVVVMMVMVVVITCLLSHYKLSARSFISRHSQGRRREDALSSEGCLWPSESTVSGNGIPEPQVYAPPRPTDRLAVPPFAQRERFHRFQPTYPYLQHEIDLPPTISLSDGEEPPPYQGPCTLQLR
+PTM	

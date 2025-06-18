@@ -1,0 +1,25 @@
+UniprotID	Q5T3G3
+Accession	Q5T3G3
+EntryName	Q5T3G3_HUMAN
+ProteinName	TLE family member 1, transcriptional corepressor
+GeneName	TLE1
+Length	242
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	234...239
+validnes_region	
+nesbase_region	
+Sequence	MFPQSRHPTPHQAAGQPFKFTIPESLDRIKEEFQFLQAQYHSLKLECEKLASEKTEMQRHYVMYYEMSYGLNIEMHKQTEIAKRLNTICAQVIPFLSQEHQQQVAQAVERAKQVTMAELNAIIGVRGLPGLPPTQQQLQAQHLSHGHGPPVPLTPHPSGLQPPGIPPLGGSAGLLALSSALSGQSHLAIKDDKKHHDAEHHRDREPGTSNSLLVPDSLRGTDKRRNGPEFSNDIKKRKVDDK
+PTM	

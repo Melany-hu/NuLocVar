@@ -1,0 +1,25 @@
+UniprotID	Q8IU57-2
+Accession	Q8IU57;Q5VTX5;Q5VTX7;Q5VTX8;Q6ZML8;Q8IV66;Q8IZI7;Q8IZI8
+EntryName	INLR1_HUMAN
+ProteinName	Interferon lambda receptor 1 (IFN-lambda receptor 1) (IFN-lambda-R1) (Cytokine receptor class-II member 12) (Cytokine receptor family 2 member 12) (CRF2-12) (Interleukin-28 receptor subunit alpha) (IL-28 receptor subunit alpha) (IL-28R-alpha) (IL-28RA) (Likely interleukin or cytokine receptor 2) (LICR2)
+GeneName	IFNLR1 IL28RA LICR2
+Length	491
+Function	The IFNLR1/IL10RB dimer is a receptor for the cytokine ligands IFNL2 and IFNL3 and mediates their antiviral activity. The ligand/receptor complex stimulate the activation of the JAK/STAT signaling pathway leading to the expression of IFN-stimulated genes (ISG), which contribute to the antiviral state. Determines the cell type specificity of the lambda interferon action. Shows a more restricted pattern of expression in the epithelial tissues thereby limiting responses to lambda interferons primarily to epithelial cells of the respiratory, gastrointestinal, and reproductive tracts. Seems not to be essential for early virus-activated host defense in vaginal infection, but plays an important role in Toll-like receptor (TLR)-induced antiviral defense. Plays a significant role in the antiviral immune defense in the intestinal epithelium.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPERWGPLLLCLLQAAPGRPRLAPPQNVTLLSQNFSVYLTWLPGLGNPQDVTYFVAYQSSPTRRRWREVEECAGTKELLCSMMCLKKQDLYNKFKGRVRTVSPSSKSPWVESEYLDYLFEVEPAPPVLVLTQTEEILSANATYQLPPCMPPLDLKYEVAFWKEGAGNKTLFPVTPHGQPVQITLQPAASEHHCLSARTIYTFSVPKYSKFSKPTCFLLEVPEANWAFLVLPSLLILLLVIAAGGVIWKTLMGNPWFQRAKMPRALELTRGVRPTPRVRAPATQQTRWKKDLAEDEEEEDEEDTEDGVSFQPYIEPPSFLGQEHQAPGHSEAGGVDSGRPRAPLVPSEGSSAWDSSDRSWASTVDSSWDRAGSSGYLAEKGPGQGPGGDGHQESLPPPEFSKDSGFLEELPEDNLSSWATWGTLPPEPNLVPGGPPVSLQTLTFCWESSPEEEEEARESEIEDSDAGSWGAESTQRTEDRGRTLGHYMAR
+PTM	Methylation:157,170,410;Phosphorylation:93,104,106,107,498

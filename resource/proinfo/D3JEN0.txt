@@ -1,0 +1,25 @@
+UniprotID	D3JEN0
+Accession	D3JEN0
+EntryName	D3JEN0_HUMAN
+ProteinName	Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 4
+GeneName	DYRK4
+Length	178
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	9...13
+validnes_region	
+nesbase_region	
+Sequence	GFPKNITNNRGKKRYPDSKDLTMVLKTYDTSFLDFLRRCLVWEPSLRMTPDQALKHAWIHQSRNLKPQPRPQTLRKSNSFFPSETRKDKVQGCHHSSRKDEITKETTEKTKDSPTKHVQHSGDQQDCLQHGADTVQLPQLVDAPKKSEAAVGAEVSMTSPGQSKNFSLKNTNVLPPIV
+PTM	

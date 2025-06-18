@@ -1,0 +1,25 @@
+UniprotID	F5H0U6
+Accession	F5H0U6
+EntryName	F5H0U6_HUMAN
+ProteinName	Replication factor C subunit 5
+GeneName	RFC5
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLERSGVITAQCNLKHWGSSHSPASASEELGLLEPLATTNLLSIYGFAYSGHFMVEKYRPQTLNDLISHQDILSTIQKFINEDRLPHLLLYGPPGTGKTSTILACAKQLYKDKEFGSMVLELNASDDRGIDIIRGPILS
+PTM	

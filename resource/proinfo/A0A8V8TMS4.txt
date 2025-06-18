@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TMS4
+Accession	A0A8V8TMS4
+EntryName	A0A8V8TMS4_HUMAN
+ProteinName	HPS1 biogenesis of lysosomal organelles complex 3 subunit 1
+GeneName	HPS1
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKCVLVATEGAEVLFYWTDQEFEESLRLKFGQSENEEEELPALEDQLSTLLAPVIISSMTMLEKLSDTYTCFSTENGNFLYVLHLAAAPRPGAACPAVGALPEPAVDLQPPAGAGAVLRRGGDYWARESSGLEAVRPWSD
+PTM	

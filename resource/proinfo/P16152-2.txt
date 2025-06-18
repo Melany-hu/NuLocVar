@@ -1,0 +1,25 @@
+UniprotID	P16152-2
+Accession	P16152;B2RBZ7;B4DFK7;Q3LHW8
+EntryName	CBR1_HUMAN
+ProteinName	Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (15-hydroxyprostaglandin dehydrogenase [NADP(+)]) (EC 1.1.1.196, EC 1.1.1.197) (20-beta-hydroxysteroid dehydrogenase) (Alcohol dehydrogenase [NAD(P)+] CBR1) (EC 1.1.1.71) (NADPH-dependent carbonyl reductase 1) (Prostaglandin 9-ketoreductase) (PG-9-KR) (Prostaglandin-E(2) 9-reductase) (EC 1.1.1.189) (Short chain dehydrogenase/reductase family 21C member 1)
+GeneName	CBR1 CBR CRN SDR21C1
+Length	173
+Function	NADPH-dependent reductase with broad substrate specificity. Catalyzes the reduction of a wide variety of carbonyl compounds including quinones, prostaglandins, menadione, plus various xenobiotics. Catalyzes the reduction of the antitumor anthracyclines doxorubicin and daunorubicin to the cardiotoxic compounds doxorubicinol and daunorubicinol (PubMed:15799708, PubMed:17344335, PubMed:17912391, PubMed:18449627, PubMed:18826943, PubMed:1921984, PubMed:7005231). Can convert prostaglandin E to prostaglandin F2-alpha (By similarity). Can bind glutathione, which explains its higher affinity for glutathione-conjugated substrates. Catalyzes the reduction of S-nitrosoglutathione (PubMed:17344335, PubMed:18826943). In addition, participates in the glucocorticoid metabolism by catalyzing the NADPH-dependent cortisol/corticosterone into 20beta-dihydrocortisol (20b-DHF) or 20beta-corticosterone (20b-DHB), which are weak agonists of NR3C1 and NR3C2 in adipose tissue (PubMed:28878267).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSGIHVALVTGGNKGIGLAIVRDLCRLFSGDVVLTARDVTRGQAAVQQLQAEGLSPRFHQLDIDDLQSIRALRDFLRKEYGGLDVLVNNAGIAFKVADPTPFHIQAEVTMKTNFFGTRDVCTELLPLIKPQASCVLSAWSCLSQNPSGGKSKPLAWFTEMSIICRCLTLGPF
+PTM	Acetylation:148,157,180,186,198,211;Methylation:42,157,174,198;Phosphorylation:2,30,36,56,101,110,123,140,143,149,151,162,191,194,213,253;SUMOylation:220,239,242;Ubiquitylation:15,79,130,148,157,174,180,186,198,220,272

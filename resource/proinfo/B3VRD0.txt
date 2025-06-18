@@ -1,0 +1,25 @@
+UniprotID	B3VRD0
+Accession	B3VRD0
+EntryName	B3VRD0_HUMAN
+ProteinName	5-hydroxytryptamine receptor 2B (Serotonin receptor 2B)
+GeneName	HTR2B
+Length	66
+Function	
+Subcellular Location	Cell membrane; Synapse; Synaptosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AMWPLPLVLCPAWLFLDVLFSTASIMHLCAISVDRYIAIKKPIQANQYNSRATAFIKITVVWLISI
+PTM	

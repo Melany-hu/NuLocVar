@@ -1,0 +1,25 @@
+UniprotID	Q96ED6
+Accession	Q96ED6
+EntryName	Q96ED6_HUMAN
+ProteinName	HGSNAT protein
+GeneName	HGSNAT
+Length	206
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALGLCRCFHPRHSMAAFGLFPALPSALNSHPACTCLLDPSTWRPAHVSGPALASSPQILSVFSLGFPGFVNGSCVSRYKPDIIFPPGLPPPDLPSSVSIFYLQLLCSHGHCCITESGPLLSFSNWPPSLVPHFLKSPVHCHQIKLSPARSPLSEKPPLTWKHHCLAHILTYSPSRLDPHTSFQPPLPLHSLLPPPPPHPLVSPPL
+PTM	

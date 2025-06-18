@@ -1,0 +1,25 @@
+UniprotID	F8WDK3
+Accession	F8WDK3
+EntryName	F8WDK3_HUMAN
+ProteinName	Protein phosphatase 4 regulatory subunit 2
+GeneName	PPP4R2
+Length	62
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIQWSQFKGYFIFKLEKVMDDFRTSAPEPRGPPNPNVEYIPFDEMKERILKIVTGFNGIPFT
+PTM	

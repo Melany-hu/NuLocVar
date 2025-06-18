@@ -1,0 +1,25 @@
+UniprotID	F8VQZ5
+Accession	F8VQZ5
+EntryName	F8VQZ5_HUMAN
+ProteinName	Rac GTPase activating protein 1
+GeneName	RACGAP1
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKAETERSALDVKLKHARNQVDVEIKRRQRAEADCEKLERQIQLIREMLMCDTSGSIQLSEEQKSALAFLNRGQPSSSNAGNKRLSTIDESGSILSDISFDKTDESLDWDSSLVKTFKLKKREK
+PTM	

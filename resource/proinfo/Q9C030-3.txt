@@ -1,0 +1,25 @@
+UniprotID	Q9C030-3
+Accession	Q9C030;A8K2A7;B4DDQ5;Q86WZ8;Q9HCR1
+EntryName	TRIM6_HUMAN
+ProteinName	Tripartite motif-containing protein 6 (EC 2.3.2.27) (RING finger protein 89) (RING-type E3 ubiquitin transferase TRIM6)
+GeneName	TRIM6 RNF89
+Length	313
+Function	E3 ubiquitin ligase that plays a crucial role in the activation of the IKBKE-dependent branch of the type I interferon signaling pathway (PubMed:24882218, PubMed:31694946). In concert with the ubiquitin-conjugating E2 enzyme UBE2K, synthesizes unanchored 'Lys-48'-linked polyubiquitin chains that promote the oligomerization and autophosphorylation of IKBKE leading to stimulation of an antiviral response (PubMed:24882218). Also ubiquitinates MYC and inhibits its transcription activation activity, maintaining the pluripotency of embryonic stem cells (By similarity). Promotes the association of unanchored 'Lys-48'-polyubiquitin chains with DHX16 leading to enhanced RIGI-mediated innate antiviral immune response (PubMed:35263596).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPERCRIQTEFNQLRNILDRVEQRELKKLEQEEKKGLRIIEEAENDLVHQTQSLRELISDLERRCQGSTMELLQDVSDVTERSEFWTLRKPEALPTKLRSMFRAPDLKRMLRVCRELTDVQSYWVDVTLNPHTANLNLVLAKNRRQVRFVGAKVSGPSCLEKHYDCSVLGSQHFSSGKHYWEVDVAKKTAWILGVCSNSLGPTFSFNHFAQNHSAYSRYQPQSGYWVIGLQHNHEYRAYEDSSPSLLLSMTVPPRRVGVFLDYEAGTVSFYNVTNHGFPIYTFSKYYFPTTLCPYFNPCNCVIPMTLRRPSS
+PTM	Methylation:266;SUMOylation:93,143,149,150,152,160,173;Ubiquitylation:90,273,329

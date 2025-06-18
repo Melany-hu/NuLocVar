@@ -1,0 +1,25 @@
+UniprotID	P15151-2
+Accession	P15151;B4DTS9;P15152;Q15267;Q15268;Q96BJ1
+EntryName	PVR_HUMAN
+ProteinName	Poliovirus receptor (Nectin-like protein 5) (NECL-5) (CD antigen CD155)
+GeneName	PVR PVS
+Length	372
+Function	Mediates NK cell adhesion and triggers NK cell effector functions. Binds two different NK cell receptors: CD96 and CD226. These interactions accumulates at the cell-cell contact site, leading to the formation of a mature immunological synapse between NK cell and target cell. This may trigger adhesion and secretion of lytic granules and IFN-gamma and activate cytotoxicity of activated NK cells. May also promote NK cell-target cell modular exchange, and PVR transfer to the NK cell. This transfer is more important in some tumor cells expressing a lot of PVR, and may trigger fratricide NK cell activation, providing tumors with a mechanism of immunoevasion. Plays a role in mediating tumor cell invasion and migration.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARAMAAAWPLLLVALLVLSWPPPGTGDVVVQAPTQVPGFLGDSVTLPCYLQVPNMEVTHVSQLTWARHGESGSMAVFHQTQGPSYSESKRLEFVAARLGAELRNASLRMFGLRVEDEGNYTCLFVTFPQGSRSVDIWLRVLAKPQNTAEVQKVQLTGEPVPMARCVSTGGRPPAQITWHSDLGGMPNTSQVPGFLSGTVTVTSLWILVPSSQVDGKNVTCKVEHESFEKPQLLTVNLTVYYPPEVSISGYDNNWYLGQNEATLTCDARSNPEPTGYNWSTTMGPLPPFAVAQGAQLLIRPVDKPINTTLICNVTNALGARQAELTVQVKEGPPSEHSGTEHASASANGHVSYSAVSRENSSSQDPQTEGTR
+PTM	Glycosylation:120,218,307,313;Methylation:153,330;Phosphorylation:87,227,366,398,406,407,408;SUMOylation:153;Ubiquitylation:90

@@ -1,0 +1,25 @@
+UniprotID	A0A481SVA1
+Accession	A0A481SVA1
+EntryName	A0A481SVA1_HUMAN
+ProteinName	Matrix remodeling associated 7 transcript variant X10
+GeneName	MXRA7
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPAELLAALPALATALALLLAWLLVRRGAAASPEPARAPPEPAPPAEATAAAPAEAEEQAVEARQEEEQDLDGEKGPSSEGPEEEDGEGFSFKYSPGKLRGNQYKKMMTKEELEEEQRVQKEQLAAIFKLMKDNKETFGEMSDGDVQEQLRLYDM
+PTM	

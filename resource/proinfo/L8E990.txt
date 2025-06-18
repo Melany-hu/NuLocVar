@@ -1,0 +1,25 @@
+UniprotID	L8E990
+Accession	L8E990
+EntryName	L8E990_HUMAN
+ProteinName	Alternative protein LPAR2
+GeneName	LPAR2
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLCTLAEMLRCAAPSAAFSAARASASPPASLSTIHPLPREVPALASCFPRTATH
+PTM	

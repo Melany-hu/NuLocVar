@@ -1,0 +1,25 @@
+UniprotID	Q16629-4
+Accession	Q16629;B4DLU6;G5E9M3;Q564D3
+EntryName	SRSF7_HUMAN
+ProteinName	Serine/arginine-rich splicing factor 7 (Splicing factor 9G8) (Splicing factor, arginine/serine-rich 7)
+GeneName	SRSF7 SFRS7
+Length	226
+Function	Required for pre-mRNA splicing. Can also modulate alternative splicing in vitro. Represses the splicing of MAPT/Tau exon 10. May function as export adapter involved in mRNA nuclear export such as of histone H2A. Binds mRNA which is thought to be transferred to the NXF1-NXT1 heterodimer for export (TAP/NXF1 pathway); enhances NXF1-NXT1 RNA-binding activity. RNA-binding is semi-sequence specific.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRYGRYGGETKVYVGNLGTGAGKGELERAFSYYGPLRTVWIARNPPGFAFVEFEDPRDAEDAVRGLDGKVICGSRVRVELSTGMPRRSRFDRPPARRPFDPNDRCYECGEKGHYAYDCHRYSRRRRSRSRSRSHSRSRGRRYSRSRSRSRGRRSRSASPRRSRSISLRRSRSASLRRSRSGSIKGSRYFQSPSRSRSRSRSISRPRSSRSPSGSPRRSASPERMD
+PTM	Acetylation:12,24,70,112;Methylation:24,65,105;Phosphorylation:14,32,33,34,82,83,117,123,130,132,134,143,144,146,155,157,159,163,165,167,171,173,175,179,181,183,187,189,192,194,196,198,200,202,204,208,209,213,215,217,221,223,225,227,231,233;SUMOylation:12,24;Ubiquitylation:12,24,70,112,185

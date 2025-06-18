@@ -1,0 +1,25 @@
+UniprotID	Q96RR1-2
+Accession	Q96RR1;B2CQL2;Q6MZX2;Q6PJP5;Q96RR0
+EntryName	PEO1_HUMAN
+ProteinName	Twinkle mtDNA helicase (EC 5.6.2.3) (Progressive external ophthalmoplegia 1 protein) (T7 gp4-like protein with intramitochondrial nucleoid localization) (T7-like mitochondrial DNA helicase) (Twinkle protein, mitochondrial)
+GeneName	TWNK C10orf2 PEO1
+Length	582
+Function	Mitochondrial helicase involved in mtDNA replication and repair (PubMed:12975372, PubMed:15167897, PubMed:17324440, PubMed:18039713, PubMed:18971204, PubMed:25824949, PubMed:26887820, PubMed:27226550). Might have a role in mtDNA repair (PubMed:27226550). Has DNA strand separation activity needed to form a processive replication fork for leading strand synthesis which is catalyzed by the formation of a replisome complex with POLG and mtSDB (PubMed:12975372, PubMed:15167897, PubMed:18039713, PubMed:22383523, PubMed:26887820, PubMed:27226550). Preferentially unwinds DNA substrates with pre-existing 5'-and 3'- single-stranded tails but is also active on a 5'- flap substrate (PubMed:12975372, PubMed:15167897, PubMed:18039713, PubMed:22383523, PubMed:26887820, PubMed:27226550). Can dissociate the invading strand of immobile or mobile D-loop DNA structures irrespective of the single strand polarity of the third strand (PubMed:27226550). In addition to its DNA strand separation activity, also has DNA strand annealing, DNA strand-exchange and DNA branch migration activities (PubMed:22383523, PubMed:26887820, PubMed:27226550).
+Subcellular Location	Mitochondrion matrix; Mitochondrion nucleoid; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVLLRSGYPLRILLPLRGEWMGRRGLPRNLAPGPPRRRYRKETLQALDMPVLPVTATEIRQYLRGHGIPFQDGHSCLRALSPFAESSQLKGQTGVTTSFSLFIDKTTGHFLCMTSLAEGSWEDFQASVEGRGDGAREGFLLSKAPEFEDSEEVRRIWNRAIPLWELPDQEEVQLADTMFGLTKVTDDTLKRFSVRYLRPARSLVFPWFSPGGSGLRGLKLLEAKCQGDGVSYEETTIPRPSAYHNLFGLPLISRRDAEVVLTSRELDSLALNQSTGLPTLTLPRGTTCLPPALLPYLEQFRRIVFWLGDDLRSWEAAKLFARKLNPKRCFLVRPGDQQPRPLEALNGGFNLSRILRTALPAWHKSIVSFRQLREEVLGELSNVEQAAGLRWSRFPDLNRILKGHRKGELTVFTGPTGSGKTTFISEYALDLCSQGVNTLWGSFEISNVRLARVMLTQFAEGRLEDQLDKYDHWADRFEDLPLYFMTFHGQQSIRTVIDTMQHAVYVYDICHVIIDNLQFMMGHEQLSTDRIAAQDYIIGVFRKFATDNNCHVTLVIHPRKEDDDKELQTASIFGSAKVSGL
+PTM	Methylation:144,191,225,328,623,639,650;Phosphorylation:197,210,214,282,654;SUMOylation:566,642;Ubiquitylation:144,191,220,600,607,681

@@ -1,0 +1,25 @@
+UniprotID	Q5T601-2
+Accession	Q5T601;Q5KU15;Q5T5Z9;Q5T600;Q86SM1;Q8IXE3;Q8IZF8;Q96DQ1;Q9H615
+EntryName	AGRF1_HUMAN
+ProteinName	Adhesion G-protein coupled receptor F1 (G protein-coupled receptor 110) (G protein-coupled receptor KPG_012) (G protein-coupled receptor PGR19)
+GeneName	ADGRF1 GPR110 PGR19
+Length	218
+Function	Orphan receptor.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVGVLWLISFFTFTDGHGGFLGKNDGIKTKKELIVNKKKHLGPVEEYQLLLQVTYRDSKEKRDLRNFLKLLKPPLLWSHGLIRIIRAKATTDCNSLNGVLQCTCEDSYTWFPPSCLDPQNCYLHTAGALPSCECHLNNLSQSVNFCERTKIWGTFKINERFTNDLLNSSSAIYSKYANGIEIQLKKAYERIQGFESVQVTQFRMSLLSPKLECNGTI
+PTM	Glycosylation:164,168,455;Methylation:24,70,309,612,768,886;Phosphorylation:456,457,741,867;Ubiquitylation:860

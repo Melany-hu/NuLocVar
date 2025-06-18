@@ -1,0 +1,25 @@
+UniprotID	Q96J77-3
+Accession	Q96J77;Q5TCR3;Q5TCR4;Q5TCR5;Q8N4P5;Q8WWF7;Q96M09
+EntryName	TPD55_HUMAN
+ProteinName	Tumor protein D55 (hD55) (Testis development protein NYD-SP25) (Tumor protein D52-like 3)
+GeneName	TPD52L3
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHARTETSVGTYESHSTSELEDLTEPEQRELKTKLTKLEAEIVTLRHVLAAKERRCGELKRKLGLTALVGLRQNLSKSWLDVQVSNTYVKQKTSAALSTMGTLICRKLGGVKKSATFRSFEGNPKGEGSRI
+PTM	

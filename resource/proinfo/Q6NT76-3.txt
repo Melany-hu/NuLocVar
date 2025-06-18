@@ -1,0 +1,25 @@
+UniprotID	Q6NT76-3
+Accession	Q6NT76;A4K385;A8K3R8;B4DHY5;D3DSU0;Q3Y6P1;Q96GS5;Q9H701
+EntryName	HMBX1_HUMAN
+ProteinName	Homeobox-containing protein 1 (Homeobox telomere-binding protein 1) (Telomere-associated homeobox-containing protein 1)
+GeneName	HMBOX1 HOT1 TAH1
+Length	418
+Function	Binds directly to 5'-TTAGGG-3' repeats in telomeric DNA (PubMed:23685356, PubMed:23813958). Associates with the telomerase complex at sites of active telomere processing and positively regulates telomere elongation (PubMed:23685356). Important for TERT binding to chromatin, indicating a role in recruitment of the telomerase complex to telomeres (By similarity). Also plays a role in the alternative lengthening of telomeres (ALT) pathway in telomerase-negative cells where it promotes formation and/or maintenance of ALT-associated promyelocytic leukemia bodies (APBs) (PubMed:23813958). Enhances formation of telomere C-circles in ALT cells, suggesting a possible role in telomere recombination (PubMed:23813958). Might also be involved in the DNA damage response at telomeres (PubMed:23813958).
+Subcellular Location	Nucleus; Cytoplasm; Chromosome; Telomere; Nucleus; Cajal body; Nucleus; PML body; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSSFPVVLLETMSHYTDEPRFTIEQIDLLQRLRRTGMTKHEILHALETLDRLDQEHSDKFGRRSSYGGSSYGNSTNNVPASSSTATASTQTQHSGMSPSPSNSYDTSPQPCTTNQNGRENNERLSTSNGKMSPTRYHANSMGQRSYSFEASEEDLDVDDKVEELMRRDSSVIKEEIKAFLANRRISQAVVAQVTGISQSRISHWLLQQGSDLSEQKKRAFYRWYQLEKTNPGATLSMRPAPIPIEDPEWRQTPPPVSATSGTFRLRRGSRFTWRKECLAVMESYFNENQYPDEAKREEIANACNAVIQKPGKKLSDLERVTSLKVYNWFANRRKEIKRRANIAILESHGIDVQSPGGHSNSDDVDGNDYSEQDDSTSHSDHQDPISLAVEMAAVNHTILALARQGANEIKTEALDDD
+PTM	Acetylation:217;Methylation:178,229;Phosphorylation:126,128,133,135,141,146,148,152,170,171,253,260,261,357,362,364;SUMOylation:60,131,161,174,217,229,310,313,314,413;Ubiquitylation:310

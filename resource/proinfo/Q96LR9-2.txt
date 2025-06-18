@@ -1,0 +1,25 @@
+UniprotID	Q96LR9-2
+Accession	Q96LR9;Q8IVR2;Q9H0I5
+EntryName	APLD1_HUMAN
+ProteinName	Apolipoprotein L domain-containing protein 1 (Vascular early response gene protein)
+GeneName	APOLD1 VERGE
+Length	248
+Function	Is a modulator of endothelial barrier permeability, required for proper organization of endothelial cell-cell junctions and cytoskeleton (PubMed:35638551). It also plays a role in the modulation of secretory autophagy (PubMed:35638551). May affect blood-brain barrier permeability.
+Subcellular Location	Cell membrane; Cell junction; Cytoplasmic vesicle; Secretory vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGMERPAAREPHGPDALRRFQGLLLDRRGRLHGQVLRLREVARRLERLRRRSLVANVAGSSLSATGALAAIVGLSLSPVTLGTSLLVSAVGLGVATAGGAVTITSDLSLIFCNSRELRRVQEIAATCQDQMREILSCLEFFCRWQGCGDRQLLQCGRNASIALYNSVYFIVFFGSRGFLIPRRAEGDTKVSQAVLKAKIQKLAESLESCTGALDELSEQLESRVQLCTKSSRGHDLKISADQRAGLFF
+PTM	Methylation:227

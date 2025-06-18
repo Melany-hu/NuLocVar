@@ -1,0 +1,25 @@
+UniprotID	P49798-4
+Accession	P49798;A7XA56;A7XA58;A7XA59;A7YVV7;B1APZ3
+EntryName	RGS4_HUMAN
+ProteinName	Regulator of G-protein signaling 4 (RGP4) (RGS4)
+GeneName	RGS4
+Length	93
+Function	Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form. Activity on G(z)-alpha is inhibited by phosphorylation of the G-protein. Activity on G(z)-alpha and G(i)-alpha-1 is inhibited by palmitoylation of the G-protein.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCKGLAGLPASCLRSAKDMKHRLGFLLQKSDSCEHNSSHNKKDKVVICQRVSQEEVKKWAESLENLISHECEPGFLHQGRDKPEHARAYNNLL
+PTM	Methylation:29,77,110,125;Phosphorylation:103,108

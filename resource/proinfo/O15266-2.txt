@@ -1,0 +1,25 @@
+UniprotID	O15266-2
+Accession	O15266;O00412;O00413;O15267
+EntryName	SHOX_HUMAN
+ProteinName	Short stature homeobox protein (Pseudoautosomal homeobox-containing osteogenic protein) (Short stature homeobox-containing protein)
+GeneName	SHOX PHOG
+Length	225
+Function	Controls fundamental aspects of growth and development.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	78...83
+validnes_region	
+nesbase_region	
+Sequence	MEELTAFVSKSFDQKSKDGNGGGGGGGGKKDSITYREVLESGLARSRELGTSDSSLQDITEGGGHCPVHLFKDHVDNDKEKLKEFGTARVAEGIYECKEKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQMHKGVILGTANHLDACRVAPYVNMGALRMPFQQMEFCSCRPGWSIMA
+PTM	Methylation:105;Phosphorylation:46

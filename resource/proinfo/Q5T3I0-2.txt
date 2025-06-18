@@ -1,0 +1,25 @@
+UniprotID	Q5T3I0-2
+Accession	Q5T3I0;Q5T3I1;Q6ZUE7;Q8IWG8;Q9NXH4
+EntryName	GPTC4_HUMAN
+ProteinName	G patch domain-containing protein 4
+GeneName	GPATCH4 GPATC4
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	63...68
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGLKVGHDPAKEFTNHWWNELFNKTAANLVVETGQDGVQIRSLSKETTRYNHPKPNLLYQKFVKVLEAVGNRVHPFSLPWFPWGLNSCLVCLINSQNFPNIVGSCDQPCCCLLRLPRPSAGIEIFRFRGSCHLLREQQ
+PTM	Acetylation:28,101,108,200,228,311;Methylation:13,21,28,186,289,352;Phosphorylation:4,114,116,117,128,130,137,139,197,199,218,220,253,259,260,271,272,286,318,329,334,411,413;SUMOylation:8,13,21,46,101,111,121,124,141,186,200,212,302,313,398;Ubiquitylation:13,21,28,141,265

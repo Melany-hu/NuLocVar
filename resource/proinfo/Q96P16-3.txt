@@ -1,0 +1,25 @@
+UniprotID	Q96P16-3
+Accession	Q96P16;A8KA42;B2RBA3;Q7Z5G8;Q96FY9;Q9NVL4
+EntryName	RPR1A_HUMAN
+ProteinName	Regulation of nuclear pre-mRNA domain-containing protein 1A (Cyclin-dependent kinase inhibitor 2B-related protein) (p15INK4B-related protein)
+GeneName	RPRD1A P15RS
+Length	276
+Function	Interacts with phosphorylated C-terminal heptapeptide repeat domain (CTD) of the largest RNA polymerase II subunit POLR2A, and participates in dephosphorylation of the CTD by RPAP2. May act as a negative regulator of cyclin-D1 (CCND1) and cyclin-E (CCNE1) in the cell cycle.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRNSNWRFCQTGIYSKPNRKLTFLYLANDVIQNSKRKGPEFTKDFAPVIVEAFKHVSSETDESCKKHLGRVLSIWEERSVYENDVLEQLKQALYGDKKPRKRTYEQIKVDENENCSSLGSPSEPPQTLDLVRALQDLENAASGDAAVHQRIASLPVEVQEVSLLDKITDKESGERLSKMVEDACMLLADYNGRLAAEIDDRKQLTRMLADFLRCQKEALAEKEHKLEEYKRKLARVSLVRKELRSRIQSLPDLSRLPNVTGSHMHLPFAGDIYSED
+PTM	Methylation:11,114,126,144,202;Phosphorylation:115,152,153,156,158,163,189,285,309;SUMOylation:12,71,90,144;Ubiquitylation:11,252

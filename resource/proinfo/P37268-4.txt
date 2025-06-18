@@ -1,0 +1,25 @@
+UniprotID	P37268-4
+Accession	P37268;B3KQ95;B4DJE5;B4DT56;B7Z1J3;Q96GT0
+EntryName	FDFT_HUMAN
+ProteinName	Squalene synthase (SQS) (SS) (EC 2.5.1.21) (FPP:FPP farnesyltransferase) (Farnesyl-diphosphate farnesyltransferase) (Farnesyl-diphosphate farnesyltransferase 1)
+GeneName	FDFT1
+Length	306
+Function	Catalyzes the condensation of 2 farnesyl pyrophosphate (FPP) moieties to form squalene. Proceeds in two distinct steps. In the first half-reaction, two molecules of FPP react to form the stable presqualene diphosphate intermediate (PSQPP), with concomitant release of a proton and a molecule of inorganic diphosphate. In the second half-reaction, PSQPP undergoes heterolysis, isomerization, and reduction with NADPH or NADH to form squalene. It is the first committed enzyme of the sterol biosynthesis pathway.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESKEKDRQVLEDFPTISLEFRNLAEKYQTVIADICRRMGIGMAEFLDKHVTSEQEWDKYCHYVAGLVGIGLSRLFSASEFEDPLVGEDTERANSMGLFLQKTNIIRDYLEDQQGGREFWPQEVWSRYVKKLGDFAKPENIDLAVQCLNELITNALHHIPDVITYLSRLRNQSVFNFCAIPQVMAIATLAACYNNQQVFKGAVKIRKGQAVTLMMDATNMPAVKAIIYQYMEEIYHRIPDSDPSSSKTRQIISTIRTQNLPNCQLISRSHYSPIYLSFVMLLAALSWQYLTTLSQVTEDYVQTGEH
+PTM	Acetylation:45;Methylation:24,92,160;Phosphorylation:14,37,38,53,339,346,352;SUMOylation:5,30,93;Ubiquitylation:5,30,41,45,92,115,138,213,318,358

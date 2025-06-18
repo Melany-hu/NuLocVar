@@ -1,0 +1,25 @@
+UniprotID	Q96E40-2
+Accession	Q96E40;Q9UGQ0
+EntryName	SACA9_HUMAN
+ProteinName	Sperm acrosome-associated protein 9
+GeneName	SPACA9 C9orf9
+Length	168
+Function	Microtubule inner protein (MIP) part of the dynein-decorated doublet microtubules (DMTs) of multiciliated respiratory cells and the distal singlet microtubules of monoflagellated spermatozoa (PubMed:36191189). Forms an extensive interaction network cross-linking the lumen of axonemal doublet microtubules (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Secretory vesicle; Acrosome; Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cytoplasm; Cytoskeleton; Cilium axoneme; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNEVKESLRSIEQKYKLFQQQQLTFTAALEHCRENAHDKIRPISSIGQVQSYMEHYCNSSTDRRVLLMFLDICSELNKLCQHFEAVHSGTPVTNNLLEKCKTLVSQSNDLSSLRAKYPHDVVNHLSCDEARNHYGGVVSLIPLILDLMKEWIAHSEKLPRKVLQHGTT
+PTM	Methylation:5,78,99;Phosphorylation:74,111,112,201;SUMOylation:5;Ubiquitylation:99

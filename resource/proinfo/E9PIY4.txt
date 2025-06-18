@@ -1,0 +1,25 @@
+UniprotID	E9PIY4
+Accession	E9PIY4
+EntryName	E9PIY4_HUMAN
+ProteinName	Diphthamide biosynthesis 2
+GeneName	DPH2
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESMFSSPAEAALQRETGVPGLLTPLPDLDGVLPCSSLTSYWEMLWLWLHDWRRRQGQRCSFWVTQPTAAAAWMCWVLSKLELRLSYILALPA
+PTM	

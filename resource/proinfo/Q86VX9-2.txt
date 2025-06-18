@@ -1,0 +1,25 @@
+UniprotID	Q86VX9-2
+Accession	Q86VX9;B2RDQ1;G5E9N1;Q8NAV7;Q9BRF3;X6R3V9
+EntryName	MON1A_HUMAN
+ProteinName	Vacuolar fusion protein MON1 homolog A
+GeneName	MON1A SAND1
+Length	393
+Function	Plays an important role in membrane trafficking through the secretory apparatus. Not involved in endocytic trafficking to lysosomes (By similarity). Acts in concert with CCZ1, as a guanine exchange factor (GEF) for RAB7, promotes the exchange of GDP to GTP, converting it from an inactive GDP-bound form into an active GTP-bound form (PubMed:23084991).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	7...12
+validnes_region	
+nesbase_region	
+Sequence	MATDMQRKRSSECLDGTLTPSDGQSMERAESPTPGMAQGMEPDGYKVVFVRRSPLVLVAVARTRQSAQELAQELLYIYYQILSLLTGAQLSHIFQQKQNYDLRRLLSGSERITDNLLQLMARDPSFLMGAARCLPLAAAVRDTVSASLQQARARSLVFSILLARNQLVALVRRKDQFLHPIDLHLLFNLISSSSSFREGEAWTPVCLPKFNAAGFFHAHISYLEPDTDLCLLLVSTDREDFFAVSDCRRRFQERLRKRGAHLALREALRTPYYSVAQVGIPDLRHFLYKSKSSGLFTSPEIEAPYTSEEEQERLLGLYQYLHSRAHNASRPLKTIYYTGPNENLLAWVTGAFELYMCYSPLGTKASAVSAIHKLMRWIRKEEDRLFILTPLTY
+PTM	Phosphorylation:100,107,108,114,128,130,153,154,158,160,166,169,174,188,192,368,462

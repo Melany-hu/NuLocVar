@@ -1,0 +1,25 @@
+UniprotID	B4DQ75
+Accession	B4DQ75
+EntryName	B4DQ75_HUMAN
+ProteinName	Death associated protein (cDNA FLJ55133, weakly similar to Death-associated protein 1)
+GeneName	DAP
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSPPEGKLETKAGHPPAVKAGGMRIVQKHPHTGDTKEEKDKDDQEWESPRVTKISPRRLRRWLTRSRMPPWTSILPQEPSTSSSHASEPGVHQPAPWPRLCCTWYFPDRENQQFRPNPTLLGNLRQNQVLCPLPYISIFKTRNSSSPNLVYGESGWMSFEDHCAPRGAISRICQDPRKILALVLFQQSPDVLVYGLKNKKAHI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5VXU3-2
+Accession	Q5VXU3;A0PJZ2;B0QZ87;B9EGS5;Q5CZ84
+EntryName	CHIC1_HUMAN
+ProteinName	Cysteine-rich hydrophobic domain-containing protein 1 (Brain X-linked protein)
+GeneName	CHIC1 BRX
+Length	204
+Function	
+Subcellular Location	Cell membrane; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSILLPNMAEFDTISELEEEEEEEAATSSSSPSSSSSVSGPDDDEEDEEEEEEEEEEEEEEEEEEEEEAPPPPRVVSEEHLRRYAPDPVLVRGAGHITVFGLSNKFDTEFPSVLTGKVAPEEFKTSIGRVNACLKKALPVNVKWLLCGCLCCCCTLGCSLWPVICLNKRTRRSIQKLIEWENNRLYHKVILIEFLPKYPIFRPD
+PTM	Phosphorylation:77;Ubiquitylation:105,176

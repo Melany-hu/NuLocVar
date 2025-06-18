@@ -1,0 +1,25 @@
+UniprotID	G3V4E1
+Accession	G3V4E1
+EntryName	G3V4E1_HUMAN
+ProteinName	Diacylglycerol kinase (DAG kinase) (EC 2.7.1.107)
+GeneName	DGKA
+Length	545
+Function	Diacylglycerol kinase that converts diacylglycerol/DAG into phosphatidic acid/phosphatidate/PA and regulates the respective levels of these two bioactive lipids. Thereby, acts as a central switch between the signaling pathways activated by these second messengers with different cellular targets and opposite effects in numerous biological processes. Also plays an important role in the biosynthesis of complex lipids. Can also phosphorylate 1-alkyl-2-acylglycerol in vitro as efficiently as diacylglycerol provided it contains an arachidonoyl group. Also involved in the production of alkyl-lysophosphatidic acid, another bioactive lipid, through the phosphorylation of 1-alkyl-2-acetyl glycerol.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKERGLISPSDFAQLQKYMEYSTKKGGRPEDKLEFTFKLYDTDRNGILDSSEVDKIILQMMRVAEYLDWDVSELRPILQEMMKEIDYDGSGSVSQAEWVRAGATTVPLLVLLGLEMTLKDDGQHMWRPKRFPRPVYCNLCESSIGLGKQGLSCNLCKYTVHDQCAMKALPCEVSTYAKSRKDIGVQSHVWVRGGCESGRCDRCQKKIRIYHSLTGLHCVWCHLEIHDDCLQAVGHECDCGLLRDHILPPSSIYPSVLASGPDRKNSKTSQKTMDDLNLSTSEALRIDPVPNTHPLLVFVNPKSGGKQGQRVLWKFQYILNPRQVFNLLKDGPEIGLRLFKDVPDSRILVCGGDGTVGWILETIDKANLPVLPPVAVLPLGTGNDLARCLRWGGGYEGQNLAKILKDLEMSKVVHMDRWSVEVIPQQTEEKSDPVPFQIINNYFSIGVDASIAHRFHIMREKYPEKFNSRMKNKLWYFEFATSESIFSTCKKLEESLTVEICGKPLDLSNLSLEGIAVLNIPSMHGGSNLWGDTRRPHGDIYGIN
+PTM	

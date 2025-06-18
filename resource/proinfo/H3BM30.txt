@@ -1,0 +1,25 @@
+UniprotID	H3BM30
+Accession	H3BM30
+EntryName	H3BM30_HUMAN
+ProteinName	Mitochondrial trans-2-enoyl-CoA reductase
+GeneName	MECR
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VIPANAGLGTWRTEAVFSEEALIQVPSDIPLQSAATLGVNPCTAYRMLMDFEQLQPGDSVIQNASNSGVGQAVIQIAAALGLRTINVVRDRPDIQKLSDRLKSLGAEHVITEEELRRPEMKNFFKDMPQPRLALNCVGGKSSTELLRQLARGGTMVTYGGMAKQPVVASVVSWVQREACLEPGQTPQPGHIPWHDSCLSLGNAPFLEGSLYP
+PTM	

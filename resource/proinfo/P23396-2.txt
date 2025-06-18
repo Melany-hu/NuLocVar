@@ -1,0 +1,25 @@
+UniprotID	P23396-2
+Accession	P23396;B2R7N5;J3KN86;Q498B5;Q8NI95
+EntryName	RS3_HUMAN
+ProteinName	Small ribosomal subunit protein uS3 (40S ribosomal protein S3) (EC 4.2.99.18)
+GeneName	RPS3 OK/SW-cl.26
+Length	259
+Function	Component of the small ribosomal subunit (PubMed:23636399, PubMed:8706699). The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:23636399, PubMed:8706699). Has endonuclease activity and plays a role in repair of damaged DNA (PubMed:7775413). Cleaves phosphodiester bonds of DNAs containing altered bases with broad specificity and cleaves supercoiled DNA more efficiently than relaxed DNA (PubMed:15707971). Displays high binding affinity for 7,8-dihydro-8-oxoguanine (8-oxoG), a common DNA lesion caused by reactive oxygen species (ROS) (PubMed:14706345). Has also been shown to bind with similar affinity to intact and damaged DNA (PubMed:18610840). Stimulates the N-glycosylase activity of the base excision protein OGG1 (PubMed:15518571). Enhances the uracil excision activity of UNG1 (PubMed:18973764). Also stimulates the cleavage of the phosphodiester backbone by APEX1 (PubMed:18973764). When located in the mitochondrion, reduces cellular ROS levels and mitochondrial DNA damage (PubMed:23911537). Has also been shown to negatively regulate DNA repair in cells exposed to hydrogen peroxide (PubMed:17049931). Plays a role in regulating transcription as part of the NF-kappa-B p65-p50 complex where it binds to the RELA/p65 subunit, enhances binding of the complex to DNA and promotes transcription of target genes (PubMed:18045535). Represses its own translation by binding to its cognate mRNA (PubMed:20217897). Binds to and protects TP53/p53 from MDM2-mediated ubiquitination (PubMed:19656744). Involved in spindle formation and chromosome movement during mitosis by regulating microtubule polymerization (PubMed:23131551). Involved in induction of apoptosis through its role in activation of CASP8 (PubMed:14988002). Induces neuronal apoptosis by interacting with the E2F1 transcription factor and acting synergistically with it to up-regulate pro-apoptotic proteins BCL2L11/BIM and HRK/Dp5 (PubMed:20605787). Interacts with TRADD following exposure to UV radiation and induces apoptosis by caspase-dependent JNK activation (PubMed:22510408).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; Nucleolus; Mitochondrion inner membrane; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	62...67
+validnes_region	
+nesbase_region	
+Sequence	MAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELKIMVMVTGYPLLPLKLYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHSGDPVNYYVDTAVRHVLLRQGVLGIKVKIMLPWDPTGKIGPKKPLPDHVSIVEPKDEILPTTPISEQKGGKPEPPAMPQPVPTA
+PTM	Acetylation:7,10,18,62,75,90,108,132,141,151,187,197,214,227,230;Methylation:10,18,62,75,90,132,141,185,197,227;Phosphorylation:34,35,46,55,83,87,104,107,120,139,166,167,170,209,220,221,224,242;SUMOylation:7,10,18,62,75,90,108,132,141,151,185,187,197,201,202,214,227,230;Ubiquitylation:7,8,10,18,62,75,90,108,132,141,151,185,187,197,201,202,214,227,230

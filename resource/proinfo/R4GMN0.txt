@@ -1,0 +1,25 @@
+UniprotID	R4GMN0
+Accession	R4GMN0
+EntryName	R4GMN0_HUMAN
+ProteinName	Basic charge Y-linked 2 (Basic charge Y-linked 2C)
+GeneName	BPY2C BPY2 BPY2B
+Length	11
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMTLVPRARTR
+PTM	

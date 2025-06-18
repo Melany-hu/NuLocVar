@@ -1,0 +1,25 @@
+UniprotID	Q8N5U6-2
+Accession	Q8N5U6;Q92550;Q9NPP8;Q9ULW4
+EntryName	RNF10_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF10 (EC 2.3.2.27) (RING finger protein 10)
+GeneName	RNF10 KIAA0262 RIE2
+Length	816
+Function	E3 ubiquitin-protein ligase that catalyzes monoubiquitination of 40S ribosomal proteins RPS2/us5 and RPS3/us3 in response to ribosome stalling (PubMed:34348161, PubMed:34469731). Part of a ribosome quality control that takes place when ribosomes have stalled during translation initiation (iRQC): RNF10 acts by mediating monoubiquitination of RPS2/us5 and RPS3/us3, promoting their degradation by the proteasome (PubMed:34348161, PubMed:34469731). Also promotes ubiquitination of 40S ribosomal proteins in response to ribosome stalling during translation elongation (PubMed:34348161). The action of RNF10 in iRQC is counteracted by USP10 (PubMed:34469731). May also act as a transcriptional factor involved in the regulation of MAG (Myelin-associated glycoprotein) expression (By similarity). Acts as a regulator of Schwann cell differentiation and myelination (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	604...609
+validnes_region	
+nesbase_region	
+Sequence	MPLSSPNAAATASDMDKNSGSNSSSASSGSSKGQQPPRSASAGPAGESKPKSDGKNSSGSKRYNRKRELSYPKNESFNNQSRRSSSQKSKTFNKMPPQRGGGSSKLFSSSFNGGRRDEVAEAQRAEFSPAQFSGPKKINLNHLLNFTFEPRGQTGHFEGSGHGSWGKRNKWGHKPFNKELFLQANCQFVVSEDQDYTAHFADPDTLVNWDFVEQVRICSHEVPSCPICLYPPTAAKITRCGHIFCWACILHYLSLSEKTWSKCPICYSSVHKKDLKSVVATESHQYVVGDTITMQLMKREKGVLVALPKSKWMNVDHPIHLGDEQHSQYSKLLLASKEQVLHRVVLEEKVALEQQLAEEKHTPESCFIEAAIQELKTREEALSGLAGSRREVTGVVAALEQLVLMAPLAKESVFQPRKSLLQQGVLEYLSAFDEETTEVCSLDTPSRPLALPLVEEEEAVSEPEPEGLPEACDDLELADDNLKEGTICTESSQQEPITKSGFTRLSSSPCYYFYQAEDGQHMFLHPVNVRCLVREYGSLERSPEKISATVVEIAGYSMSEDVRQRHRYLSHLPLTCEFSICELALQPPVVSKETLEMFSDDIEKRKRQRQKKAREERRRERRIEIEENKKQGKYPEVHIPLENLQQFPAFNSYTCSSDSALGPTSTEGHGALSISPLSRSPGSHADFLLTPLSPTASQGSPSFCVGSLEEDSPFPSFAQMLRVGKAKADVWPKTAPKKDENSLVPPAPVDSDGESDNSDRVPVPSFQNSFSQAIEAAFMKLDTPATSDPLSEEKGGKKRKKQKQKLLFSTSVVHTK
+PTM	Methylation:376,478,599;Phosphorylation:4,5,25,27,28,39,41,57,70,71,108,109,110,128,147,164,487,594,746,786,804,805,806;SUMOylation:49,73,94,105,137,298,349,360,494;Ubiquitylation:105,410,494,789

@@ -1,0 +1,25 @@
+UniprotID	Q9BU02-2
+Accession	Q9BU02;D3DS50;G3V4J3
+EntryName	THTPA_HUMAN
+ProteinName	Thiamine-triphosphatase (ThTPase) (EC 3.6.1.28)
+GeneName	THTPA
+Length	105
+Function	Hydrolase highly specific for thiamine triphosphate (ThTP).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQGLIEVERKFLPGPGTEERLQELGGTLEYRVTFRDTYYDTPELSLMQADHWLRRREDSGWELKCPGAAGVLGPHTEYKELTAEPTIVAQLCKVCLHRRQHQPS
+PTM	Acetylation:193;Methylation:174;Phosphorylation:126;SUMOylation:11;Ubiquitylation:11,193

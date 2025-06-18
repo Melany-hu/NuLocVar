@@ -1,0 +1,25 @@
+UniprotID	Q9GZU7-2
+Accession	Q9GZU7;C9IYG0;Q7Z5Q3;Q7Z5Q4
+EntryName	CTDS1_HUMAN
+ProteinName	Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1 (EC 3.1.3.16) (Nuclear LIM interactor-interacting factor 3) (NLI-IF) (NLI-interacting factor 3) (Small C-terminal domain phosphatase 1) (SCP1) (Small CTD phosphatase 1)
+GeneName	CTDSP1 NIF3 NLIIF SCP1
+Length	260
+Function	Preferentially catalyzes the dephosphorylation of 'Ser-5' within the tandem 7 residue repeats in the C-terminal domain (CTD) of the largest RNA polymerase II subunit POLR2A. Negatively regulates RNA polymerase II transcription, possibly by controlling the transition from initiation/capping to processive transcript elongation. Recruited by REST to neuronal genes that contain RE-1 elements, leading to neuronal gene silencing in non-neuronal cells.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSSAVITQISKEEARGPLRGKGDQKSAASQKPRSRGILHSLFCCVCRDDGEALPAHSGAPLLVEENGAIPKTPVQYLLPEAKAQDSDKICVVIDLDETLVHSSFKPVNNADFIIPVEIDGVVHQVYVLKRPHVDEFLQRMGELFECVLFTASLAKYADPVADLLDKWGAFRARLFRESCVFHRGNYVKDLSRLGRDLRRVLILDNSPASYVFHPDNAVPVASWFDNMSDTELHDLLPFFEQLSRVDDVYSVLRQPRPGS
+PTM	Methylation:168;Phosphorylation:74,78,154,251;Ubiquitylation:12,32,190

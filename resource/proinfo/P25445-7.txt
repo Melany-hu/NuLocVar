@@ -1,0 +1,25 @@
+UniprotID	P25445-7
+Accession	P25445;A9UJX4;B6VNV4;Q14292;Q14293;Q14294;Q14295;Q16652;Q5T9P1;Q5T9P2;Q5T9P3;Q6SSE9
+EntryName	TNR6_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)
+GeneName	FAS APT1 FAS1 TNFRSF6
+Length	220
+Function	Receptor for TNFSF6/FASLG. The adapter molecule FADD recruits caspase CASP8 to the activated receptor. The resulting death-inducing signaling complex (DISC) performs CASP8 proteolytic activation which initiates the subsequent cascade of caspases (aspartate-specific cysteine proteases) mediating apoptosis. FAS-mediated apoptosis may have a role in the induction of peripheral tolerance, in the antigen-stimulated suicide of mature T-cells, or both. The secreted isoforms 2 to 6 block apoptosis (in vitro).
+Subcellular Location	Cell membrane; Membrane raft; Secreted; Secreted; Secreted; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGIWTLLPLVLTSVARLSSKSVNAQVTDINSKGLELRKTVTTVETQNLEGLHHDGQFCHKPCPPGERKARDCTVNGDEPDCVPCQEGKEYTDKAHFSSKCRRCRLCDEGHGLEVEINCTRTQNTKCRCKPNFFCNSTVCEHCDPCTKCEHGIIKECTLTSNTKCKEEGSRSNLGWLCLLLLPIPLIVWVKRKEVQKTCRKHRKENQGSHESPTLNPMLT
+PTM	Acetylation:299;Glycosylation:28,40,42,43,118,136;Methylation:155,197,231,263,309,316;Phosphorylation:209,212,214,225,241,243,270,291,293,305,312,320,322,325,333;SUMOylation:288,316;Ubiquitylation:33,263,274,288,316

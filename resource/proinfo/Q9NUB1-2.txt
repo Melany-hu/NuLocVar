@@ -1,0 +1,25 @@
+UniprotID	Q9NUB1-2
+Accession	Q9NUB1;B3KXL2;B4DJZ3;D3DW48;F5H6F4;F8W7Y1;Q5TF42;Q8IV99;Q8N234;Q96JI1;Q96JX6;Q9NU28
+EntryName	ACS2L_HUMAN
+ProteinName	Acetyl-coenzyme A synthetase 2-like, mitochondrial (EC 6.2.1.1) (Acetate--CoA ligase 2) (Acetyl-CoA synthetase 2) (AceCS2) (Acyl-CoA synthetase short-chain family member 1) (Propionate--CoA ligase) (EC 6.2.1.17)
+GeneName	ACSS1 ACAS2L KIAA1846
+Length	687
+Function	Catalyzes the synthesis of acetyl-CoA from short-chain fatty acids (PubMed:16788062). Acetate is the preferred substrate (PubMed:16788062). Can also utilize propionate with a much lower affinity (By similarity). Provides acetyl-CoA that is utilized mainly for oxidation under ketogenic conditions (By similarity). Involved in thermogenesis under ketogenic conditions, using acetate as a vital fuel when carbohydrate availability is insufficient (By similarity).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAARTLGRGVGRLLGSLRGLSGQPARPPCGVSAPRRAASGPSGSAPAVAAAAAQPGSYPALSAQAAREPAAFWGPLARDTLVWDTPYHTVWDCDFSTGKIGWFLGGQLNVSVNCLDQHVRKSPESVALIWERDEPGTEVRITYRELLETTCRLANTLKRHGVHRGDRVAIYMPVSPLAVAAMLACARIGAVHTVIFAGFSAESLAGRINDAKCKVVITFNQGLRGGRVVELKKIVDEAVKHCPTVQHVLVAHRTDNKVHMGDLDVPLEQEMAKEDPVCAPESMGSEDMLFMLYTSGSTGMPKGIVHTQAGYLLYAALTHKLVFDHQPGDIFGCVADIGWITGHSYVVYGPLCNGATSVLFESTPVYPNAGRYWETVERLKINQFYGAPTAVRLLLKYGDAWVKKYDRSSLRTLGSVGEPINCEAWEWLHRVVGDSRCTLVDTWWQTGGICIAPRPSEEGAEILPAMAMRPFFGIVPVLMDEKGSVVEGSNVSGALCISQAWPGMARTIYGDHQRFVDAYFKAYPGYYFTGDGAYRTEGGYYQITGRMDDVINISGHRLGTAEIEDAIADHPAVPESAVIGYPHDIKGEAAFAFIVVKDSAGDSDVVVQELKSMVATKIAKYAVPDEILVVKRLPKTRSGKVMRRLLRKIITSEAQELGDTTTLEDPSIIAEILSVYQKCKDKQAAAK
+PTM	Acetylation:212,233,240,396,622;Methylation:158,232,273,396,599,613,619,633,650;Phosphorylation:16

@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PQM0
+Accession	A0A1W2PQM0
+EntryName	A0A1W2PQM0_HUMAN
+ProteinName	Protoporphyrinogen oxidase
+GeneName	PPOX
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRTVVVLGGGISGLAASYHLSRAPCPPKVMLGGSWLQTLEASGCVLSQELFQQRAQEAAATQLGLKEMPSHCLVHLHKNCIPQYTLGHWQKLESARQFLTAHRLPLTLAGASYEGVAVNDCIESGRQAAVSVLGTEPNS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y6Q4
+Accession	A0A2R8Y6Q4
+EntryName	A0A2R8Y6Q4_HUMAN
+ProteinName	Growth factor receptor bound protein 10
+GeneName	GRB10
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLFAFADCLSKRLPDDCLGACALWKLGFGADHNAEQEAAAAGPVTGSSVTSSPVTGSQVLTWVLSVKPGWPPQQTVLQSQLLTGSENIVHRAG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	V9GYG5
+Accession	V9GYG5
+EntryName	V9GYG5_HUMAN
+ProteinName	Rho/Rac guanine nucleotide exchange factor 2
+GeneName	ARHGEF2
+Length	214
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEAKDARYTNGHLFTTISVSGMTMCYACNKSITAKEALICPTCNVTIHNRCKDTLANCTKVKQKQQKAALLKNNTALQSVSLRSKTTIRERPSSAIYPSDSFRQSLLGSRRGRSSLSLAKSVSTTNIAGHFNDESPLGLRRILSQSTDSLNMRNRTLSVESLIDEAEVIYSELMSDFEMDEKDFAADSWSLAVDSSFLQQHKKEVMKQQDVIY
+PTM	

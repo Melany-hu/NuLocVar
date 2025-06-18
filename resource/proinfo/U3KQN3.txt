@@ -1,0 +1,25 @@
+UniprotID	U3KQN3
+Accession	U3KQN3
+EntryName	U3KQN3_HUMAN
+ProteinName	Diphthamide biosynthesis 1
+GeneName	DPH1
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWVQVACPRLSIDWGTAFPKPLLTPYEAAVALRDISWQQPYPMDFYAGSSLGPWTVNHGQDRRPHAPGRPARGKVQEGSARPPSAVACEDCSCRDEKVAPLAP
+PTM	

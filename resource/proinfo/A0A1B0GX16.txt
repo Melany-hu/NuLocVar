@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GX16
+Accession	A0A1B0GX16
+EntryName	A0A1B0GX16_HUMAN
+ProteinName	DMRT like family C1B
+GeneName	DMRTC1B
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPPKAPIRVRNLTIRAGALTGKENNMLQPETHIFTAPEEGSSQGALLLGQAPEPLSLPCTPVTLEQQLVSPSGDPHRAPALPSICSTLILQPCATLDP
+PTM	

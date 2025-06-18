@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YWD6
+Accession	A0A0J9YWD6
+EntryName	A0A0J9YWD6_HUMAN
+ProteinName	DEAF1 transcription factor
+GeneName	DEAF1
+Length	161
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLTSLPALAVPPPTPTKTAPPALVNGLELSEPRSWLYLEEMVNSLLNTAQQLKTLFEQAKHASTYREAATNQAKIHADAERKEVIHPPRLPKVLGLQQSCVNCGREAMSECTGCHKVNYCSTFCQRKDWKDHQHICGQSAAVTVQADEVHVAESVMEKVTV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q15013-3
+Accession	Q15013;B4DLV3;E9PAT7;Q6IBB1
+EntryName	MD2BP_HUMAN
+ProteinName	MAD2L1-binding protein (Caught by MAD2 protein) (p31(comet))
+GeneName	MAD2L1BP CMT2 KIAA0110
+Length	306
+Function	May function to silence the spindle checkpoint and allow mitosis to proceed through anaphase by binding MAD2L1 after it has become dissociated from the MAD2L1-CDC20 complex.
+Subcellular Location	Nucleus; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARVPLGRSLTLSPRLEHNGMTSAHHNFRLPGSRDSPASASQVAEIIDLEWYEKSEETHASQIELLETSSTQEPLNASEAFCPRDCMVPVVFPGPVSQEGCCQFTCELLKHIMYQRQQLPLPYEQLKHFYRKPSPQAEEMLKKKPRATTEVSSRKCQQALAELESVLSHLEDFFARTLVPRVLILLGGNALSPKEFYELDLSLLAPYSVDQSLSTAACLRRLFRAIFMADAFSELQAPPLMGTVVMAQGHRNCGEDWFRPKLNYRVPSRGHKLTVTLSCGRPSIRTTAWEDYIWFQAPVTFKGFRE
+PTM	Methylation:78,95,110,162;Phosphorylation:26,29,36,102,160;SUMOylation:22,95,110;Ubiquitylation:95,100,110,111,229

@@ -1,0 +1,25 @@
+UniprotID	J3KRQ7
+Accession	J3KRQ7
+EntryName	J3KRQ7_HUMAN
+ProteinName	N-acetyltransferase 9 (putative)
+GeneName	NAT9
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLNQNTLLLGKKVVLVPYTSEHVPSRYHEWMKSEELQRLTASEPLTLEQEYAMQCSWQEDADKCTFIVLDAEKWQAQPGATEESCMVGDVNLFLTDLEDLTLGEIEVMIAEPSCRGKGLGTEAVLAMLSYGGDPQTDSE
+PTM	

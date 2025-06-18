@@ -1,0 +1,25 @@
+UniprotID	P40198-3
+Accession	P40198;G5E978;Q3KPH9
+EntryName	CEAM3_HUMAN
+ProteinName	Cell adhesion molecule CEACAM3 (Carcinoembryonic antigen CGM1) (Carcinoembryonic antigen-related cell adhesion molecule 3) (CEA cell adhesion molecule 3) (CD antigen CD66d)
+GeneName	CEACAM3 CD66D CGM1
+Length	212
+Function	Major granulocyte receptor mediating recognition and efficient opsonin-independent phagocytosis of CEACAM-binding microorganisms, including Neissiria, Moxarella and Haemophilus species, thus playing an important role in the clearance of pathogens by the innate immune system. Responsible for RAC1 stimulation in the course of pathogen phagocytosis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPPSASPHRECIPWQGLLLTASLLNFWNPPTTAKLTIESMPLSVAEGKEVLLLVHNLPQHLFGYSWYKGERVDGNSLIVGYVIGTQQATPGAAYSGRETIYTNASLLIQNVTQNDIGFYTLQVIKSDLVNEEATGQFHVYQENAPGLPVGAVAGIVTGVLVGVALVAALVCFLLLAKTGRPWSLPQLCLLDVPSLHCPGPPTQPQDSSFHL
+PTM	Methylation:126,178,235;Phosphorylation:5,7,95,96

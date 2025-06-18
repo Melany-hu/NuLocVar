@@ -1,0 +1,25 @@
+UniprotID	Q12849-5
+Accession	Q12849;B3KPW0;Q4W5S5;Q6ZST3;Q8IWD6;Q8NBD2
+EntryName	GRSF1_HUMAN
+ProteinName	G-rich sequence factor 1 (GRSF-1)
+GeneName	GRSF1
+Length	318
+Function	Regulator of post-transcriptional mitochondrial gene expression, required for assembly of the mitochondrial ribosome and for recruitment of mRNA and lncRNA. Binds RNAs containing the 14 base G-rich element. Preferentially binds RNAs transcribed from three contiguous genes on the light strand of mtDNA, the ND6 mRNA, and the long non-coding RNAs for MT-CYB and MT-ND5, each of which contains multiple consensus binding sequences (PubMed:23473033, PubMed:23473034, PubMed:29967381). Involved in the degradosome-mediated decay of non-coding mitochondrial transcripts (MT-ncRNA) and tRNA-like molecules (PubMed:29967381). Acts by unwinding G-quadruplex RNA structures in MT-ncRNA, thus facilitating their degradation by the degradosome (PubMed:29967381). G-quadruplexes (G4) are non-canonical 4 stranded structures formed by transcripts from the light strand of mtDNA (PubMed:29967381).
+Subcellular Location	Mitochondrion matrix; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDVLNFFSDCRIRNGENGIHFLLNRDGKRRGDALIEMESEQDVQKALEKHRMYMGQRYVEVYEINNEDVDALMKSLQVKSSPVVNDGVVRLRGLPYSCNEKDIVDFFAGLNIVDITFVMDYRGRRKTGEAYVQFEEPEMANQALLKHREEIGNRYIEIFPSRRNEVRTHVGSYKGKKIASFPTAKYITEPEMVFEEHEVNEDIQPMTAFESEKEIELPKEVPEKLPEAADFGTTSSLHFVHMRGLPFQANAQDIINFFAPLKPVRITMEYSSSGKATGEADVHFETHEDAVAAMLKDRSHVHHRYIELFLNSCPKGK
+PTM	Acetylation:382,387;Methylation:141,208,212,237,309,326,459;Phosphorylation:118,243,244,335,336;SUMOylation:141,242;Ubiquitylation:242,309

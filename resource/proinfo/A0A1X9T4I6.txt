@@ -1,0 +1,25 @@
+UniprotID	A0A1X9T4I6
+Accession	A0A1X9T4I6
+EntryName	A0A1X9T4I6_HUMAN
+ProteinName	B-Raf serine/threonine-protein
+GeneName	BRAF
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IFLHEDLTVKIGDFGLATEKSRWSGSHQFEQLSGSILWM
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P30511-3
+Accession	P30511;Q5JQI8;Q5JQJ1;Q5SPT5;Q860R0;Q8MGQ1;Q8WLP5;Q95HC0;Q9TP68
+EntryName	HLAF_HUMAN
+ProteinName	HLA class I histocompatibility antigen, alpha chain F (CDA12) (HLA F antigen) (Leukocyte antigen F) (MHC class I antigen F)
+GeneName	HLA-F HLA-5.4 HLAF
+Length	442
+Function	Non-classical major histocompatibility class Ib molecule postulated to play a role in immune surveillance, immune tolerance and inflammation. Functions in two forms, as a heterotrimeric complex with B2M/beta-2 microglobulin and a peptide (peptide-bound HLA-F-B2M) and as an open conformer (OC) devoid of peptide and B2M (peptide-free OC). In complex with B2M, presents non-canonical self-peptides carrying post-translational modifications, particularly phosphorylated self-peptides. Peptide-bound HLA-F-B2M acts as a ligand for LILRB1 inhibitory receptor, a major player in maternal-fetal tolerance. Peptide-free OC acts as a ligand for KIR3DS1 and KIR3DL2 receptors (PubMed:28636952). Upon interaction with activating KIR3DS1 receptor on NK cells, triggers NK cell degranulation and anti-viral cytokine production (PubMed:27455421). Through interaction with KIR3DL2 receptor, inhibits NK and T cell effector functions (PubMed:24018270). May interact with other MHC class I OCs to cross-present exogenous viral, tumor or minor histompatibility antigens to cytotoxic CD8+ T cells, triggering effector and memory responses (PubMed:23851683). May play a role in inflammatory responses in the peripheral nervous system. Through interaction with KIR3DL2, may protect motor neurons from astrocyte-induced toxicity (PubMed:26928464).
+Subcellular Location	Cell membrane; Early endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRSLLLLLSGALALTDTWAGSHSLRYFSTAVSRPGRGEPRYIAVEYVDDTQFLRFDSDAAIPRMEPREPWVEQEGPQYWEWTTGYAKANAQTDRVALRNLLRRYNQSEAGSHTLQGMNGCDMGPDGRLLRGYHQHAYDGKDYISLNEDLRSWTAADTVAQITQRFYEAEEYAEEFRTYLEGECLELLRRYLENGKETLQRADPPKAHVAHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDGTFQKWAAVVVPPGEEQRYTCHVQHEGLPQPLILRWEQSPQPTIPIVGIVAGLVVLGAVVTGAVVAAVMWRKKSSDRNRGSYSQAAAYSVVSGNLMITWWSSLFLLGVLFQGYLGCLRSHSVLGRRKVGDMWILFFLWLWTSFNTAFLALQSLRFGFGFRRGRSFLLRSWHHLMKRVQIKIFD
+PTM	Acetylation:197;Glycosylation:107,120;Phosphorylation:340,341,342;SUMOylation:197,207;Ubiquitylation:197,264

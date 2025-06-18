@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GTE0
+Accession	A0A1B0GTE0
+EntryName	A0A1B0GTE0_HUMAN
+ProteinName	Cholinergic receptor nicotinic alpha 7 subunit
+GeneName	CHRNA7
+Length	84
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGEKISLGITVLLSLTVFMLLVAEIMPATSDSVPLIAQYFASTMIIVGLSVVVTVIVLQYHHHDPDGGKMPKWPPRDFYYDLLL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q674X7-5
+Accession	Q674X7;B0QYQ0;B1AJZ1;B1AK78;Q5TGF1;Q674X4;Q674X6;Q6ZUD1;Q8IYN7;Q8N409;Q9UIL2;Q9UPX4
+EntryName	KAZRN_HUMAN
+ProteinName	Kazrin
+GeneName	KAZN C1orf196 KAZ KIAA1026 HRIHFB2003
+Length	421
+Function	Component of the cornified envelope of keratinocytes. May be involved in the interplay between adherens junctions and desmosomes. The function in the nucleus is not known.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cell junction; Desmosome; Nucleus; Cytoplasm; Cell junction; Desmosome; Nucleus; Cytoplasm; Cell junction; Desmosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEDNKQLALRIDGAVQSASQEVTNLRAELTATNRRLAELSGGGGPGPGPGAAASASAAGDSAATNMENPQLGAQVLLREEVSRLQEEVHLLRQMKEMLAKDLEESQGGKSSEVLSATELRVQLAQKEQELARAKEALQAMKADRKRLKGEKTDLVSQMQQLYATLESREEQLRDFIRNYEQHRKESEDAVKALAKEKDLLEREKWELRRQAKEATDHATALRSQLDLKDNRMKELEAELAMAKQSLATLTKDVPKRHSLAMPGETVLNGNQEWVVQADLPLTAAIRQSQQTLYHSHPPHPADRQAVRVSPCHSRQPSVISDASAAEGDRSSTPSDINSPRHRTHSLCNVRPAAAGPGPLGPAQKLQGRGWRGEAILAVSSRPPREHSGECISCSVLSFCKKRWMWGEKGMRPVCSLCPGG
+PTM	Acetylation:726;Methylation:229,244,473,560,565,627,716;Phosphorylation:33,259,292,294,310,314,318,324,332,333,339,344,346,352,367,387,389,662;Ubiquitylation:110

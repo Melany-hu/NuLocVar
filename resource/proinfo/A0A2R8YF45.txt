@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YF45
+Accession	A0A2R8YF45
+EntryName	A0A2R8YF45_HUMAN
+ProteinName	Hydroxysteroid 17-beta dehydrogenase 4
+GeneName	HSD17B4
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSPLRFDGRVVLVTGAGAGLGRAYALAFAERGALVVVNDLGGDFKGVGKGSLAADKVVEEIRRRGGKAVANYDSVEEGEKVVKTALDAFGRIDVVVNNAGILRDRSFARISDEDWDIIHRVHLRGSFQVTRAAWEHMKKQKYGRLEYSGMNMAHCSLTSWAQAVLPPQPPK
+PTM	

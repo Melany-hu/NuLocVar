@@ -1,0 +1,25 @@
+UniprotID	B1AHQ7
+Accession	B1AHQ7
+EntryName	B1AHQ7_HUMAN
+ProteinName	Centromere protein M
+GeneName	CENPM
+Length	73
+Function	
+Subcellular Location	Chromosome; Centromere; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKEDCASELKVHLAKSLPLPSSVNRPRIDLIVFVVNLHSKYSLQNTEESLRHVDASFFLGKVCFLATGGGRL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5TCK5
+Accession	Q5TCK5
+EntryName	Q5TCK5_HUMAN
+ProteinName	Progestin and adipoQ receptor family member 6
+GeneName	PAQR6
+Length	176
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSLKLPQLLQVHQVPRVFWEDGIMSGYRRPTSSALDCVLSSFQMTNETVNIWTHFLPTWYFLWRLLALAGGPGFRAEPYHWPLLVFLLPACLYPFASCCAHTFSSMSPRMRHICYFLDYGALSLYSLVSWSWKALGSVRSSAQEPSPIHSCSTTSHSFIGSGCAGAGATAVGRRP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9BYT1-2
+Accession	Q9BYT1;B3KTF2;Q5W198;Q8TB07;Q8TBP4;Q8TEL5;Q9BYT0;Q9BYT2
+EntryName	S17A9_HUMAN
+ProteinName	Voltage-gated purine nucleotide uniporter SLC17A9 (Solute carrier family 17 member 9) (Vesicular nucleotide transporter) (VNUT)
+GeneName	SLC17A9 C20orf59
+Length	430
+Function	Voltage-gated ATP nucleotide uniporter that can also transport the purine nucleotides ADP and GTP. Uses the membrane potential as the driving force to control ATP accumulation in lysosomes and secretory vesicles (PubMed:18375752, PubMed:23467297). By controlling ATP storage in lysosomes, regulates ATP-dependent proteins of these organelles (PubMed:35269509). Also indirectly regulates the exocytosis of ATP through its import into lysosomes in astrocytes and secretory vesicles such as adrenal chromaffin granules, mucin granules and synaptic vesicles (PubMed:18375752, PubMed:23467297).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Chromaffin granule membrane; Cytoplasmic vesicle; Secretory vesicle membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLTSRRQDSQEARPECQAWTGTLLLGTCLLYCARSSMPICTVSMSQDFGWNKKEAGIVLSSFFWGYCLTQVVGGHLGDRIGGEKVILLSASAWGSITAVTPLLAHLSSAHLAFMTFSRILMGLLQGVYFPALTSLLSQKVRESERAFTYSIVGAGSQFGTLLTGAVGSLLLEWYGWQSIFYFSGGLTLLWVWYVYRYLLSEKDLILALGVLAQSRPVSRHNRVPWRRLFRKPAVWAAVVSQLSAACSFFILLSWLPTFFEETFPDAKGWIFNVVPWLVAIPASLFSGFLSDHLINQGYRAITVRKLMQGMGLGLSSVFALCLGHTSSFCESVVFASASIGLQTFNHSGISVNIQDLAPSCAGFLFGVANTAGALAGVVGVCLGGYLMETTGSWTCLFNLVAIISNLGLCTFLVFGQAQRVDLSSTHEDL
+PTM	Phosphorylation:207

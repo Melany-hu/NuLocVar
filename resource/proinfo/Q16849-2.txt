@@ -1,0 +1,25 @@
+UniprotID	Q16849-2
+Accession	Q16849;B4DK12;F5GZS3;Q08319;Q53QD6;Q6NSL1
+EntryName	PTPRN_HUMAN
+ProteinName	Receptor-type tyrosine-protein phosphatase-like N (R-PTP-N) (Islet cell antigen 512) (ICA 512) (Islet cell autoantigen 3) (PTP IA-2) [Cleaved into: ICA512-N-terminal fragment (ICA512-NTF); ICA512-transmembrane fragment (ICA512-TMF); ICA512-cleaved cytosolic fragment (ICA512-CCF)]
+GeneName	PTPRN ICA3 ICA512
+Length	950
+Function	Plays a role in vesicle-mediated secretory processes (PubMed:24843546). Required for normal accumulation of secretory vesicles in hippocampus, pituitary and pancreatic islets (By similarity). Required for the accumulation of normal levels of insulin-containing vesicles and preventing their degradation (PubMed:24843546). Plays a role in insulin secretion in response to glucose stimuli (PubMed:24843546). Required for normal accumulation of the neurotransmitters norepinephrine, dopamine and serotonin in the brain (By similarity). In females, but not in males, required for normal accumulation and secretion of pituitary hormones, such as luteinizing hormone (LH) and follicle-stimulating hormone (FSH) (By similarity). Required to maintain normal levels of renin expression and renin release (By similarity). Seems to lack intrinsic enzyme activity (By similarity). May regulate catalytic active protein-tyrosine phosphatases such as PTPRA through dimerization (By similarity).
+Subcellular Location	Membrane; Cytoplasmic vesicle; Secretory vesicle membrane; Perikaryon; Cell projection; Axon; Synapse; Cell membrane; Endosome; Cytoplasmic vesicle; Secretory vesicle membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRPRRPGGLGGSGGLRLLLCLLLLSSRPGGCSAVSAHGCLFDRRLCSHLEVCIQDGLFGQCQVGVGQARPLLQVTSPVLQRLQGVLRQLMSQGLSWHDDLTQYVISQEMERIPRLRPPEPRPRDRSGLAPKRPGPAGELLLQDIPTGSAPAAQHRLPQPPVGKGGAGASSSLSPLQAELLPPLLEHLLLPPQPPHPSLSYEPALLQPYLFHQFGSRDGSRVSEGSPGMVSVGPLPKAEAPALFSRTASKGIFGDHPGHSYGDLPGPSPAQLFQDSGLLYLAQELPAPSRARVPRLPEQGSSSRAEDSPEGYEKEGLGDRGEKPASPAVQPDAALQRLAAVLAGYGVELRQLTPEQLSTLLTLLQLLPKGAGRNPGGVVNVGADIKKTMEGPVEGRDTAELPARTSPMPGHPTASPTSSEVQQVPSPVSSEPPKAARPPVTPVLLEKKSPLGQSQPTVAGQPSARPAAEEYGYIVTDQNVVGPALTFRIRHNEQNLSLADVTQQAGLVKSELEAQTGLQILQTGVGQREEAAAVLPQTAHSTSPMRSVLLTLVALAGVAGLLVALAVALCVRQHARQQDKERLAALGPEGAHGDTTFEYQDLCRQHMATKSLFNRAEGPPEPSRVSSVSSQFSDAAQASPSSHSSTPSWCEEPAQANMDISTGHMILAYMEDHLRNRDRLAKEWQALCAYQAEPNTCATAQGEGNIKKNRHPDFLPYDHARIKLKVESSPSRSDYINASPIIEHDPRMPAYIATQGPLSHTIADFWQMVWESGCTVIVMLTPLVEDGVKQCDRYWPDEGASLYHVYEVNLVSEHIWCEDFLVRSFYLKNVQTQETRTLTQFHFLSWPAEGTPASTRPLLDFRRKVNKCYRGRSCPIIVHCSDGAGRTGTYILIDMVLNRMAKGVKEIDIAATLEHVRDQRPGLVRSKDQFEFALTAVAEEVNAILKALPQ
+PTM	Methylation:386,447,538,818,956;Phosphorylation:27,127,226,231,289,301,303,308,326,345,628,880;SUMOylation:237;Ubiquitylation:132,237,323,857

@@ -1,0 +1,25 @@
+UniprotID	O15438-5
+Accession	O15438;B2RPA9;D3DTX9;O60265;O60922;O75621;O95078;O95289;O95290;Q86X85;Q9UN52
+EntryName	MRP3_HUMAN
+ProteinName	ATP-binding cassette sub-family C member 3 (EC 7.6.2.-) (EC 7.6.2.2) (EC 7.6.2.3) (Canalicular multispecific organic anion transporter 2) (Multi-specific organic anion transporter D) (MOAT-D) (Multidrug resistance-associated protein 3)
+GeneName	ABCC3 CMOAT2 MLP2 MRP3
+Length	572
+Function	ATP-dependent transporter of the ATP-binding cassette (ABC) family that binds and hydrolyzes ATP to enable active transport of various substrates including many drugs, toxicants and endogenous compound across cell membranes (PubMed:10359813, PubMed:11581266, PubMed:15083066). Transports glucuronide conjugates such as bilirubin diglucuronide, estradiol-17-beta-o-glucuronide and GSH conjugates such as leukotriene C4 (LTC4) (PubMed:11581266, PubMed:15083066). Transports also various bile salts (taurocholate, glycocholate, taurochenodeoxycholate-3-sulfate, taurolithocholate- 3-sulfate) (By similarity). Does not contribute substantially to bile salt physiology but provides an alternative route for the export of bile acids and glucuronides from cholestatic hepatocytes (By similarity). May contribute to regulate the transport of organic compounds in testes across the blood-testis-barrier (Probable). Can confer resistance to various anticancer drugs, methotrexate, tenoposide and etoposide, by decreasing accumulation of these drugs in cells (PubMed:10359813, PubMed:11581266).
+Subcellular Location	Basolateral cell membrane; Basal cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDALCGSGELGSKFWDSNLSVHTENPDLTPCFQNSLLAWVPCIYLWVALPCYLLYLRHHCRGYIILSHLSKLKMVLGVLLWCVSWADLFYSFHGLVHGRAPAPVFFVTPLVVGVTMLLATLLIQYERLQGVQSSGVLIIFWFLCVVCAIVPFRSKILLAKAEGEISDPFRFTTFYIHFALVLSALILACFREKPPFFSAKNVDPNPYPETSAGFLSRLFFWWFTKMAIYGYRHPLEEKDLWSLKEEDRSQMVVQQLLEAWRKQEKQTARHKASAAPGKNASGEDEVLLGARPRPRKPSFLKALLATFGSSFLISACFKLIQDLLSFINPQLLSILIRFISNPMAPSWWGFLVAGLMFLCSMMQSLILQHYYHYIFVTGVKFRTGIMGVIYRKALVITNSVKRASTVGEIVNLMSVDAQRFMDLAPFLNLLWSAPLQIILAIYFLWQNLGPSVLAGVAFMVLLIPLNGAVAVKMRAFQVKQMKLKDSRIKLMSEILNGIKVLKLYAWEPSFLKQVEGIRQGELQLLRTAAYLHTTTTFTWMCSPFLVRLGTGLGPCLQGSGCPGMARAHWTLP
+PTM	Methylation:160,301,512,713,718,747,901,1443,1498;Phosphorylation:281,298,509,760,864,866,882,884,887,890,908,911,912,1129,1141,1248;Ubiquitylation:160,238,244,271,278,401,479,489,499,502,512,684,803,931,938,1052,1177,1318,1344,1498

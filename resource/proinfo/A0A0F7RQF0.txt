@@ -1,0 +1,25 @@
+UniprotID	A0A0F7RQF0
+Accession	A0A0F7RQF0
+EntryName	A0A0F7RQF0_HUMAN
+ProteinName	Chorionic gonadotropin beta subunit 5
+GeneName	CGB5
+Length	165
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEMFQGLLLLLLLSMGGTWASREMLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQASSSSKAPPPSLPSPSRLPGPSDTPILPQ
+PTM	

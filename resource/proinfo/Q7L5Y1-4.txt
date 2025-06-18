@@ -1,0 +1,25 @@
+UniprotID	Q7L5Y1-4
+Accession	Q7L5Y1;A6NMP3;A8K9R5;B3KSL6;B3KXE4;D3DUH0;Q15407;Q15594;Q15595;Q6ZS08;Q9HAS5;Q9HAS6
+EntryName	ENOF1_HUMAN
+ProteinName	Mitochondrial enolase superfamily member 1 (EC 4.2.1.68) (Antisense RNA to thymidylate synthase) (rTS) (L-fuconate dehydratase)
+GeneName	ENOSF1 RTS TYMSAS
+Length	450
+Function	Plays a role in the catabolism of L-fucose, a sugar that is part of the carbohydrates that are attached to cellular glycoproteins. Catalyzes the dehydration of L-fuconate to 2-keto-3-deoxy-L-fuconate by the abstraction of the 2-proton to generate an enediolate intermediate that is stabilized by the magnesium ion (PubMed:24697329).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSADAMVSADAMVSADAMVSADAMVSADAMVSADAMVSADAMVSADAMHTDPDYSAAYVVIETDAEDGIKGCGITFTLGKGTEVVVCAVNALAHHVLNKDLKDIVGDFRGFYRQLTSDGQLRWIGPEKGVVHLATAAVLNAVWDLWAKQEGKPVWKLLVDMDPRMLVSCIDFRYITDVLTEEDALEILQKGQIGKKEREKQMLAQGYPAYTTSCAWLGYSDDTLKQLCAQALKDGWTRFKVKVGADLQDDMRRCQIIRDMIGPEKTLMMDANQRWDVPEAVEWMSKLAKFKPLWIEEPTSPDDILGHATISKCHNRVIFKQLLQAKALQFLQIDSCRLGSVNENLSVLLMAKKFEIPVCPHAGGVGLCELVQHLIIFDYISVSASLENRVCEYVDHLHEHFKYPVMIQRASYMPPKDPGYSTEMKEESVKKHQYPDGEVWKKLLPAQEN
+PTM	Methylation:79,170,205,213;Phosphorylation:92,96,97,397,405,406;SUMOylation:82;Ubiquitylation:213,245,266,271,292,320

@@ -1,0 +1,25 @@
+UniprotID	B5MCE7
+Accession	B5MCE7
+EntryName	B5MCE7_HUMAN
+ProteinName	eIF5-mimic protein 1 (Basic leucine zipper and W2 domain-containing protein 2)
+GeneName	BZW2 hCG_19293
+Length	225
+Function	Translation initiation regulator which represses non-AUG initiated translation and repeat-associated non-AUG (RAN) initiated translation by acting as a competitive inhibitor of eukaryotic translation initiation factor 5 (EIF5) function. Increases the accuracy of translation initiation by impeding EIF5-dependent translation from non-AUG codons by competing with it for interaction with EIF2S2 within the 43S pre-initiation complex (PIC) in an EIF3C-binding dependent manner.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEKDANSVTSSLRKANLDKRLLELFPVNRQSVDHFAKYFTDAGLKELSDFLRVQQSLGTRKELQKELQERLSQECPIKEVVLYVKEEMKRNDLPETAVIGLLWTCIMNAVEWNKKEELVAEQALKHLKQYAPLLAVFSSQGQSELILLQKVQEYCYDNIHFMKAFQKIVVLFYKADVLSEEAILKWYKEAHVAKGKSVFLDQMKKFVEWLQNAEEESESEGEEN
+PTM	

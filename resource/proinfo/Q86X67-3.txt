@@ -1,0 +1,25 @@
+UniprotID	Q86X67-3
+Accession	Q86X67;B4DV90;O95650;Q5SQM4;Q5SQM5;Q5SQM6;Q9Y3X2
+EntryName	NUD13_HUMAN
+ProteinName	NAD(P)H pyrophosphatase NUDT13, mitochondrial (EC 3.6.1.22) (Nucleoside diphosphate-linked moiety X motif 13) (Nudix motif 13) (Protein KiSS-16)
+GeneName	NUDT13
+Length	226
+Function	NAD(P)H pyrophosphatase that hydrolyzes NADH into NMNH and AMP, and NADPH into NMNH and 2',5'-ADP. Has a marked preference for the reduced pyridine nucleotides. Does not show activity toward NAD-capped RNAs; the NAD-cap is an atypical cap present at the 5'-end of some RNAs.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METELKGSFIELRKALFQLNARDASLLSTAQALLRWHDAHQFCSRSGQPTKKNVAGSKRVCPSNNIIYYPQMAPVAITLVSDGTRCLLARQSSFPKGMYSALAGFCDIGESVEETIRREVAEEVGLEVESLQYYASQHWPFPSGSLMIACHATVKPGQTEIQVNLRELETAAWFSHDEVATALKRKGPYTQQQNGTFPFWLPPKLAISHQLIKEWVEKQTCSSLPA
+PTM	Methylation:82;Phosphorylation:2

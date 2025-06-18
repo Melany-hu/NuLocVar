@@ -1,0 +1,25 @@
+UniprotID	I3L4Q1
+Accession	I3L4Q1
+EntryName	I3L4Q1_HUMAN
+ProteinName	LSM14A mRNA processing body assembly factor
+GeneName	LSM14A
+Length	102
+Function	
+Subcellular Location	Cytoplasm; Cytoplasmic ribonucleoprotein granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGGTPYIGSKISLISKAEIRYEGILYTIDTENSTVALAKVRSFGTEDRPTDRPIPPRDEVFEYIIFRGSDIKDLTVCEPPKPQCSLPQDPAIVQSRWSTVA
+PTM	

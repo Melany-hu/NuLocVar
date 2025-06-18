@@ -1,0 +1,25 @@
+UniprotID	Q96SF7-2
+Accession	Q96SF7;Q08E76;Q5JT54;Q5T9S7
+EntryName	TBX15_HUMAN
+ProteinName	T-box transcription factor TBX15 (T-box protein 15) (T-box transcription factor TBX14) (T-box protein 14)
+GeneName	TBX15 TBX14
+Length	496
+Function	Probable transcriptional regulator involved in the development of the skeleton of the limb, vertebral column and head. Acts by controlling the number of mesenchymal precursor cells and chondrocytes (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSMEEIQVELQCADLWKRFHDIGTEMIITKAGRRMFPAMRVKITGLDPHQQYYIAMDIVPVDNKRYRYVYHSSKWMVAGNADSPVPPRVYIHPDSLASGDTWMRQVVSFDKLKLTNNELDDQGHIILHSMHKYQPRVHVIRKDFSSDLSPTKPVPVGDGVKTFNFPETVFTTVTAYQNQQITRLKIDRNPFAKGFRDSGRNRTGLEAIMETYAFWRPPVRTLTFEDFTTMQKQQGGSTGTSPTTSSTGTPSPSASSHLLSPSCSPPTFHLAPNTFNVGCRESQLCNLNLSDYPPCARSNMAALQSYPGLSDSGYNRLQSGTTSATQPSETFMPQRTPSLISGIPTPPSLPGNSKMEAYGGQLGSFPTSQFQYVMQAGNAASSSSSPHMFGGSHMQQSSYNAFSLHNPYNLYGYNFPTSPRLAASPEKLSASQSTLLCSSPSNGAFGERQYLPSGMEHSMHMISPSPNNQQATNTCDGRQYGAVPGSSSQMSVHMV
+PTM	Methylation:137,249,268;Phosphorylation:7,190,256,258,305,405,452,531;Ubiquitylation:300

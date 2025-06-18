@@ -1,0 +1,25 @@
+UniprotID	O15440-4
+Accession	O15440;B9EIQ2;O14517;Q29ZA9;Q29ZB1;Q86UX3;Q86W30;Q9UN85;Q9UNP5;Q9UQC3
+EntryName	MRP5_HUMAN
+ProteinName	ATP-binding cassette sub-family C member 5 (EC 7.6.2.-) (EC 7.6.2.2) (Multi-specific organic anion transporter C) (MOAT-C) (Multidrug resistance-associated protein 5) (SMRP) (pABC11)
+GeneName	ABCC5 MRP5
+Length	208
+Function	ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds, and xenobiotics from cells. Mediates ATP-dependent transport of endogenous metabolites such as cAMP and cGMP, folic acid and N-lactoyl-amino acids (in vitro) (PubMed:10893247, PubMed:12637526, PubMed:12695538, PubMed:15899835, PubMed:17229149, PubMed:25964343). Also acts as a general glutamate conjugate and analog transporter that can limit the brain levels of endogenous metabolites, drugs, and toxins (PubMed:26515061). Confers resistance to the antiviral agent PMEA (PubMed:12695538). Able to transport several anticancer drugs including methotrexate, and nucleotide analogs in vitro, however it does with low affinity, thus the exact role of ABCC5 in mediating resistance still needs to be elucidated (PubMed:10840050, PubMed:12435799, PubMed:12695538, PubMed:15899835). Acts as a heme transporter required for the translocation of cytosolic heme to the secretory pathway (PubMed:24836561). May play a role in energy metabolism by regulating the glucagon-like peptide 1 (GLP-1) secretion from enteroendocrine cells (By similarity).
+Subcellular Location	Basolateral cell membrane; Golgi apparatus lumen; Endosome membrane; Cytoplasmic granule; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKDIDIGKEYIIPSPGYRSVRERTSTSGTHRDREDSKFRRTRPLECQDALETAARAEGLSLDASMHSQLRILDEEHPKGKYHHGLSALKPIRTTSKHQHPVDNAGLFSCMTFSWLSSLARVAHKKGELSMEDVWSLSKHESSDVNCRRLERLWQEELNEVGPDAASLRRVVWIFCRTRLILSIVCLMITQLAGFSGPNFQDGCILRSE
+PTM	Glycosylation:897;Methylation:89,394,455,515,565,647,929,1211;Phosphorylation:10,14,17,19,60,64,67,166,496,501,502,504,505,509,513,553,558,686,726,734,796,1166,1202,1247,1259;Ubiquitylation:383,797,821,824,961,977,1168,1181,1218,1233,1269,1309

@@ -1,0 +1,25 @@
+UniprotID	I3L3C6
+Accession	I3L3C6
+EntryName	I3L3C6_HUMAN
+ProteinName	BAR/IMD domain containing adaptor protein 2
+GeneName	BAIAP2
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPKSLSPPQSQSKLSDSYSNTLPVRKSVTPKNSYATTAENKTLPRSSSMAAGLERNGRMRVKAIFSHAAGDNSTLLSFKEGDLITLLVPEARDGWHYGESEKTKMRGWFPFSYTRVLDSDGSDRLHMSLQQGKSSSTGNLLDKDDLAIPPPDYGAASRAFPAQTASGFKQRPYSVAVPAFSQGLDDYGARSMSRNPFAHVQLKPTVTNDRSAPLLS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PR45
+Accession	A0A1W2PR45
+EntryName	A0A1W2PR45_HUMAN
+ProteinName	Lactosylceramide alpha-2,3-sialyltransferase (EC 2.4.3.9) (CMP-NeuAc:lactosylceramide alpha-2,3-sialyltransferase) (Ganglioside GM3 synthase) (ST3Gal V) (Sialyltransferase 9)
+GeneName	ST3GAL5
+Length	365
+Function	Transfers the sialyl group (N-acetyl-alpha-neuraminyl or NeuAc) from CMP-NeuAc to the non-reducing terminal galactose (Gal) of glycosphingolipids forming gangliosides (important molecules involved in the regulation of multiple cellular processes, including cell proliferation and differentiation, apoptosis, embryogenesis, development, and oncogenesis). Mainly involved in the biosynthesis of ganglioside GM3 but can also use different glycolipids as substrate acceptors such as D-galactosylceramide (GalCer), asialo-GM2 (GA2) and asialo-GM1 (GA1), although less preferentially than beta-D-Gal-(1->4)-beta-D-Glc-(1<->1)-Cer (LacCer).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTKAAGCAERRPLQPRTEAAAAPAGRAMPSEYTYVKLRSDCSRPSLQWYTRAQSKMRRPSLLLKDILKCTLLVFGVWILYILKLNYTTEECDMKKMHYVDPDHVKRAQKYAQQVLQKECRPKFAKTSMALLFEHRYSVDLLPFVQKAPKDSEAESKYDPPFGFRKFSSKVQTLLELLPEHDLPEHLKAKTCRRCVVIGSGGILHGLELGHTLNQFDVVIRLNSAPVEGYSEHVGNKTTIRMTYPEGAPLSDLEYYSNDLFVAVLFKSVDFNWLQAMVKKETLNVPTIGVIAVVLATHLCDEVSLAGFGYDLNQPRTPLHYFDSQCMAAMNFQTMHNVTTETKFLLKLVKEGVVKDLSGGIDREF
+PTM	

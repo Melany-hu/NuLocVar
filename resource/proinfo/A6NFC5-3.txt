@@ -1,0 +1,25 @@
+UniprotID	A6NFC5-3
+Accession	A6NFC5;C9JRE6
+EntryName	TM235_HUMAN
+ProteinName	Transmembrane protein 235
+GeneName	TMEM235
+Length	150
+Function	
+Subcellular Location	Membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARLGALLLAAALGALLSFALLAAAVASDYWYILEVADAGNGSAWPGRAELLSSHSGLWRICEGVLTLAGVSIYISYSHLAFAETVQQYGPQHMQGVRVSFGWSMALAWGSCALEAFSGTLLLSAAWTLSLSPPICGHLSPQQVGGRGGD
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9BW11-3
+Accession	Q9BW11;B4E0J1;Q53HK1;Q7Z4Y0;Q8NDJ7;Q96ME3
+EntryName	MAD3_HUMAN
+ProteinName	Max dimerization protein 3 (Max dimerizer 3) (Class C basic helix-loop-helix protein 13) (bHLHc13) (Max-associated protein 3) (Max-interacting transcriptional repressor MAD3) (Myx)
+GeneName	MXD3 BHLHC13 MAD3
+Length	193
+Function	Transcriptional repressor. Binds with MAX to form a sequence-specific DNA-binding protein complex which recognizes the core sequence 5'-CACTG-3'. Antagonizes MYC transcriptional activity by competing for MAX and suppresses MYC dependent cell transformation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	67...72
+validnes_region	
+nesbase_region	
+Sequence	MEPLASNIQVLLQAAEFLERREREAEHGYASLCPHRSPGPIHRRKKRPPQAPGAQDSGRSVHNELEKRRRAQLKRCLERLKQQMPLGADCARYTTLSLLRRARMHIQKLEDQEQRARQLKERLRSKQQSLQRQLEQLRGLAGAAERERLRADSLDSSGLSSERSDSDQVLPNENGGTPNHRPTGRGNNISSHH
+PTM	Methylation:67;Phosphorylation:164;SUMOylation:108,126;Ubiquitylation:108,126

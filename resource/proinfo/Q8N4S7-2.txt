@@ -1,0 +1,25 @@
+UniprotID	Q8N4S7-2
+Accession	Q8N4S7;A8K5Q8;D3DUA2;D3DUA3;Q8NAS6;Q96NW1
+EntryName	PAQR4_HUMAN
+ProteinName	Progestin and adipoQ receptor family member 4 (Progestin and adipoQ receptor family member IV)
+GeneName	PAQR4
+Length	234
+Function	Plays a role in maintaining adipose tissue function through the regulation of ceramide levels (PubMed:32291319, PubMed:38961186). Mediates the stability of ceramide synthetases, CERS2 and CERS5, and their activities (Probable).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFLAGPRLLDWASSPPHLQFNKFVLTGYRPASSGSGCLRSLFYLHNELGNIYTHGSVLYHLFMCHQGGSAVYARLLALDMCGVCLVNTLGALPIIHCTLACRPWLRPAALVGYTVLSGVAGWRALTAPSTSARLRAFGWQAAARLLVFGARGVGLGSGAPGSLPCYLRMDALALLGGLVNVARLPERWGPGRFDYWGNSHQIMHLLSVGSILQLHAGVVPDLLWAAHHACPRD
+PTM	Methylation:23

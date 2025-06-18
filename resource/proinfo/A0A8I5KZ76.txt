@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KZ76
+Accession	A0A8I5KZ76
+EntryName	A0A8I5KZ76_HUMAN
+ProteinName	Myotubularin (EC 3.1.3.95) (Phosphatidylinositol-3,5-bisphosphate 3-phosphatase) (Phosphatidylinositol-3-phosphate phosphatase)
+GeneName	MTM1
+Length	618
+Function	Lipid phosphatase which dephosphorylates phosphatidylinositol 3-monophosphate (PI3P) and phosphatidylinositol 3,5-bisphosphate (PI(3,5)P2). Has also been shown to dephosphorylate phosphotyrosine- and phosphoserine-containing peptides. Negatively regulates EGFR degradation through regulation of EGFR trafficking from the late endosome to the lysosome. Plays a role in vacuolar formation and morphology. Regulates desmin intermediate filament assembly and architecture. Plays a role in mitochondrial morphology and positioning. Required for skeletal muscle maintenance but not for myogenesis. In skeletal muscles, stabilizes MTMR12 protein levels.
+Subcellular Location	Cell membrane; Cell projection; Filopodium; Cell projection; Ruffle; Cytoplasm; Myofibril; Sarcomere; Late endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASASTSKYNSHSLENESIKRTSRDGVNRDLTEAVPRLPGETLITDKEVIYICPFNGPIKGRVYITNYRLYLRSLETLSSHWRFEVDTCLFQDSSLILDVPLGVISRIEKMGGATSRGENSYGLDITCKDMRNLRFALKQEGHSRRDMFEILTRYAFPLAHSLPLFAFLNEEKFNVDGWTVYNPVEEYRRQGLPNHHWRITFINKCYELCDTYPALLVVPYRASDDDLRRVATFRSRNRIPVLSWIHPENKTVIVRCSQPLVGMSGKRNKDDEKYLDVIRETNKQISKLTIYDARPSVNAVANKATGGGYESDDAYHNAELFFLDIHNIHVMRESLKKVKDIVYPNVEESHWLSSLESTHWLEHIKLVLTGAIQVADKVSSGKSSVLVHCSDGWDRTAQLTSLAMLMLDSFYRSIEGFEILVQKEWISFGHKFASRIGHGDKNHTDADRSPIFLQFIDCVWQMSKQFPTAFEFNEQFLIIILDHLYSCRFGTFLFNCESARERQKVTERTVSLWSLINSNKEKFKNPFYTKEINRVLYPVASMRHLELWVNYYIRWNPRIKQQQPNPVEQRYMELLALRDEYIKRLEELQLANSAKLSDPPTSPSSPSQMMPHVQTHF
+PTM	

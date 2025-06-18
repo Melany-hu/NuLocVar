@@ -1,0 +1,25 @@
+UniprotID	A0A087WXE0
+Accession	A0A087WXE0
+EntryName	A0A087WXE0_HUMAN
+ProteinName	E3 ubiquitin-protein ligase (EC 2.3.2.27) (RING-type E3 ubiquitin transferase)
+GeneName	NEURL3
+Length	104
+Function	E3 ubiquitin ligase.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVYGTTKAIELLDPTASRLPTPMPWDLSNKAVPEPKATPGEECAICFYHAANTRLVPCGHTYFCRYCAWRVFSDTAKCPVCRWQIEAVAPAQGPPALRVEEGS
+PTM	

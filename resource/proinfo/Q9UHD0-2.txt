@@ -1,0 +1,25 @@
+UniprotID	Q9UHD0-2
+Accession	Q9UHD0;B6VEV9;Q5VUT3;Q96QR4;Q9NUA0
+EntryName	IL19_HUMAN
+ProteinName	Interleukin-19 (IL-19) (Melanoma differentiation-associated protein-like protein) (NG.1)
+GeneName	IL19 ZMDA1
+Length	215
+Function	Cytokine that functions as an anti-inflammatory and proangiogenic factor (PubMed:34932373). Polarizes adaptive immunity to an anti-inflammatory phenotype through induction of T-helper 2 responses by both down-regulation of IFN-gamma and up-regulation of IL4 and IL13 (PubMed:16365913). Produced by osteocytes, stimulates granulopoiesis and neutrophil formation (By similarity). Exerts its biological effect through a receptor complex consisting of a heterodimer of IL20RA and IL20RB (PubMed:12351624). In turn, activates the Janus kinase (JAK) and signal transducer and activator of transcription (STAT) pathway, and importantly, STAT3 (PubMed:11564763).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCTEGAFPHRSACSLPLTHVHTHIHVCVPVLWGSVPRGMKLQCVSLWLLGTILILCSVDNHGLRRCLISTDMHHIEESFQEIKRAIQAKDTFPNVTILSTLETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQEPNPKILRKISSIANSFLYMQKTLRQCQEQRQCHCRQEATNATRVIHDNYDQLEVHAAAIKSLGELDVFLAWINKNHEVMFSA
+PTM	Glycosylation:135;Methylation:45,70,103,116,155

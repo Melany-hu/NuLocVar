@@ -1,0 +1,25 @@
+UniprotID	P36406-3
+Accession	P36406;Q9BZY4;Q9BZY5
+EntryName	TRI23_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM23 (EC 2.3.2.27) (ADP-ribosylation factor domain-containing protein 1) (GTP-binding protein ARD-1) (RING finger protein 46) (RING-type E3 ubiquitin transferase TRIM23) (Tripartite motif-containing protein 23)
+GeneName	TRIM23 ARD1 ARFD1 RNF46
+Length	546
+Function	Acts as an E3 ubiquitin-protein ligase. Plays an essential role in autophagy activation during viral infection. Mechanistically, activates TANK-binding kinase 1/TBK1 by facilitating its dimerization and ability to phosphorylate the selective autophagy receptor SQSTM1. In order to achieve this function, TRIM23 mediates 'Lys-27'-linked auto-ubiquitination of its ADP-ribosylation factor (ARF) domain to induce its GTPase activity and its recruitment to autophagosomes (PubMed:28871090).
+Subcellular Location	Cytoplasm; Endomembrane system; Golgi apparatus membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLVVNKLGAGVDSGRQGSRGTAVVKVLECGVCEDVFSLQGDKVPRLLLCGHTVCHDCLTRLPLHGRAIRCPFDRQVTDLGDSGVWGLKKNFALLELLERLQNGPIGQYGAAEESIGISGESIIRCDEDEAHLASVYCTVCATHLCSECSQVTHSTKTLAKHRRVPLADKPHEKTMCSQHQVHAIEFVCLEEGCQTSPLMCCVCKEYGKHQGHKHSVLEPEANQIRASILDMAHCIRTFTEEISDYSRKLVGIVQHIEGGEQIVEDGIGMAHTEHVPGTAENARSCIRAYFYDLHETLCRQEEMALSVVDAHVREKLIWLRQQQEDMTILLSEVSAACLHCEKTLQQDDCRVVLAKQEITRLLETLQKQQQQFTEVADHIQLDASIPVTFTKDNRVHIGPKMEIRVVTLGLDGAGKTTILFKLKQDEFMQPIPTIGFNVETVEYKNLKFTIWDVGGKHKLRPLWKHYYLNTQAVVFVVDSSHRDRISEAHSELAKLLTEKELRDALLLIFANKQDVAGALSVEEITELLSLHKLCCGRSCFSDNM
+PTM	Methylation:27,369,423,496,501;SUMOylation:8,402;Ubiquitylation:8,357,501,534

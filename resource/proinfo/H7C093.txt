@@ -1,0 +1,25 @@
+UniprotID	H7C093
+Accession	H7C093
+EntryName	H7C093_HUMAN
+ProteinName	Docking protein 1
+GeneName	DOK1
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRLEFFDHKGSSSGGGRGSSRRLDCKVIRLAECVSVAPVTVETPPEPGATAFRLDTAQRSHLLAADAPSSAAWVQTLCRNAFPDPNSG
+PTM	

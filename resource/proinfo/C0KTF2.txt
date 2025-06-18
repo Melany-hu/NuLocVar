@@ -1,0 +1,25 @@
+UniprotID	C0KTF2
+Accession	C0KTF2
+EntryName	C0KTF2_HUMAN
+ProteinName	B cell specific activator protein variant B delta 3/4
+GeneName	PAX5
+Length	108
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEIHCKHDPFASMHRHGGVNQLGGVFVNGRPLPDVVRQRIVELAHQGVRPCDISRQLRVSHGCVSKILGSVHWLRDAGVLGEHGFGRLVVLHQRHPGHHVPQRRHQQA
+PTM	

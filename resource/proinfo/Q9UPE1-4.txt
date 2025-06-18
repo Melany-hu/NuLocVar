@@ -1,0 +1,25 @@
+UniprotID	Q9UPE1-4
+Accession	Q9UPE1;Q13583;Q4F970;Q562F5;Q9UM62
+EntryName	SRPK3_HUMAN
+ProteinName	SRSF protein kinase 3 (EC 2.7.11.1) (Muscle-specific serine kinase 1) (MSSK-1) (Serine/arginine-rich protein-specific kinase 3) (SR-protein-specific kinase 3) (Serine/threonine-protein kinase 23)
+GeneName	SRPK3 MSSK1 STK23
+Length	566
+Function	Serine/arginine-rich protein-specific kinase which specifically phosphorylates its substrates at serine residues located in regions rich in arginine/serine dipeptides, known as RS domains. Phosphorylates the SR splicing factor SRSF1 and the lamin-B receptor (LBR) in vitro. Required for normal muscle development (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSASTGGGGDSGGSGGSSSSSQASCGPESSGSELALATPVPQMLQGLLGSDDEEQEDPKDYCKGGYHPVKIGDVFNGRYHVVRKLGWGHFSTVWLCWDIQRKRFVALKVVKSAGHYTETAVDEIKLLKCVRDSDPSDPKRETIVQLIDDFRISGVNGVHVCMVLEVLGHQLLKWIIKSNYQGLPVPCVKSIVRQVLHGLDYLHTKCKIIHTDIKPENILLCVGDAYIRRLAAEATEWQQAGAPPPSRSIVSTAPQEVLTGKLSKNKRKKMRRKRKQQKRLLEERLRDLQRLEAMEAATQAEDSGLRLDGGSGSTSSSGCHPGGARAGPSPASSSPAPGGGRSLSAGSQTSGFSGSLFSPASCSILSGSSNQRETGGLLSPSTPFGASNLLVNPLEPQNADKIKIKIADLGNACWVHKHFTEDIQTRQYRAVEVLIGAEYGPPADIWSTACMAFELATGDYLFEPHSGEDYSRDEDHIAHIVELLGDIPPAFALSGRYSREFFNRRGELRHIHNLKHWGLYEVLMEKYEWPLEQATQFSAFLLPMMEYIPEKRASAADCLQHPWLNP
+PTM	Acetylation:214,418;Methylation:84,125,173,177,214,427,527;Phosphorylation:226,330,333,334,335,383,426;Ubiquitylation:214,274,276,279

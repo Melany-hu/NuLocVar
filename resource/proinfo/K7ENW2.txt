@@ -1,0 +1,25 @@
+UniprotID	K7ENW2
+Accession	K7ENW2
+EntryName	K7ENW2_HUMAN
+ProteinName	Zinc finger protein 286A
+GeneName	ZNF286A
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EGEVAALRLTARSQETVTFKDVAMDFTPEEWGKLDPAQRDVMLENYRNLVSLWLPVSKPESYNLENGKEPLKLERKAPKSSYSGEPDRWESS
+PTM	

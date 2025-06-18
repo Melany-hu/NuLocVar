@@ -1,0 +1,25 @@
+UniprotID	D6RCM8
+Accession	D6RCM8
+EntryName	D6RCM8_HUMAN
+ProteinName	Tumor necrosis factor alpha-induced protein 8
+GeneName	TNFAIP8
+Length	200
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKQPRLLLLCKVATDVFNSKNLAVQAQKKILGKMVSKSIATTLIDDTSSEVLDELYRVTREYTQNKKEAEKIIKNLIKTVIKLAILYRNNQFNQDELALMEKFKKKVHQLAMTVVSFHQVDYTFDRNVLSRLLNECREMLHQIIQRHLTAKSHGRVNNVFDHFSDCEFLAALYNPFGNFKPHLQKLCDGINKMLDEENI
+PTM	

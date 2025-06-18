@@ -1,0 +1,25 @@
+UniprotID	Q9UMR7-3
+Accession	Q9UMR7;Q17R69;Q8WXW9;Q9H2Z9;Q9NS33;Q9UI34
+EntryName	CLC4A_HUMAN
+ProteinName	C-type lectin domain family 4 member A (C-type lectin DDB27) (C-type lectin superfamily member 6) (Dendritic cell immunoreceptor) (Lectin-like immunoreceptor) (CD antigen CD367)
+GeneName	CLEC4A CLECSF6 DCIR LLIR HDCGC13P
+Length	198
+Function	C-type lectin receptor that binds carbohydrates mannose and fucose but also weakly interacts with N-acetylglucosamine (GlcNAc) in a Ca(2+)-dependent manner (PubMed:27015765). Involved in regulating immune reactivity (PubMed:10438934, PubMed:18258799). Once triggered by antigen, it is internalized by clathrin-dependent endocytosis and delivers its antigenic cargo into the antigen presentation pathway resulting in cross-priming of CD8(+) T cells. This cross-presentation and cross-priming are enhanced by TLR7 and TLR8 agonists with increased expansion of the CD8(+) T cells, high production of IFNG and TNF with reduced levels of IL4, IL5 and IL13 (PubMed:18258799, PubMed:20530286). In plasmacytoid dendritic cells, inhibits TLR9-mediated IFNA and TNF production (PubMed:18258799). May be involved via its ITIM motif (immunoreceptor tyrosine-based inhibitory motifs) in the inhibition of B-cell-receptor-mediated calcium mobilization and protein tyrosine phosphorylation (PubMed:10438934).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSEITYAEVRFKNEFKSSGINTASSAVFFQKYSQLLEKKTTKELVHTTLECVKKNMPVEETAWSCCPKNWKSFSSNCYFISTESASWQDSEKDCARMEAHLLVINTQEEQDFIFQNLQEESAYFVGLSDPEGQRHWQWVDQTPYNESSTFWHPREPSDPNERCVVLNFRKSPKRWGWNDVNCLGPQRSVCEMMKIHL
+PTM	Methylation:78

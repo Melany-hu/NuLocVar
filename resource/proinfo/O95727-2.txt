@@ -1,0 +1,25 @@
+UniprotID	O95727-2
+Accession	O95727;Q59EI1;Q6IRX2
+EntryName	CRTAM_HUMAN
+ProteinName	Cytotoxic and regulatory T-cell molecule (Class-I MHC-restricted T-cell-associated molecule) (CD antigen CD355)
+GeneName	CRTAM
+Length	194
+Function	Mediates heterophilic cell-cell adhesion which regulates the activation, differentiation and tissue retention of various T-cell subsets (By similarity). Interaction with CADM1 promotes natural killer (NK) cell cytotoxicity and IFNG/interferon-gamma secretion by CD8+ T-cells in vitro as well as NK cell-mediated rejection of tumors expressing CADM1 in vivo (PubMed:15811952). Regulates CD8+ T-cell proliferation in response to T-cell receptor (TCR) activation (By similarity). Appears to be dispensable for CD8+ T-cell-mediated cytotoxicity (By similarity). Interaction with SCRIB promotes the late phase of cellular polarization of a subset of CD4+ T-cells, which in turn regulates TCR-mediated proliferation and IFNG, IL17 and IL22 production (By similarity). By interacting with CADM1 on CD8+ dendritic cells, regulates the retention of activated CD8+ T-cells within the draining lymph node (By similarity). Required for the intestinal retention of intraepithelial CD4+ CD8+ T-cells and, to a lesser extent, intraepithelial and lamina propria CD8+ T-cells and CD4+ T-cells (By similarity). Interaction with CADM1 promotes the adhesion to gut-associated CD103+ dendritic cells, which may facilitate the expression of gut-homing and adhesion molecules on T-cells and the conversion of CD4+ T-cells into CD4+ CD8+ T-cells (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVKLLSIVAEFCFSPFLVTDEETASDALERNSLSSQDPQQPTSTVSVTEDSSTSEIDKEEKEQTTQDPDLTTEANPQYLGLARKKSGILLLTLVSFLIFILFIIVQLFIMKLRKAHVIWKKENEVSEHTLESYRSRSNNEETSSEEKNGQSSHPMRCMNYITKLYSEAKTKRKENVQHSKLEEKHIQVPESIV
+PTM	Methylation:37,44,130;Phosphorylation:142

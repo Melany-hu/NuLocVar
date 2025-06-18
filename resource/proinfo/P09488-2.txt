@@ -1,0 +1,25 @@
+UniprotID	P09488-2
+Accession	P09488;Q5GHG0;Q6FH88;Q8TC98;Q9UC96
+EntryName	GSTM1_HUMAN
+ProteinName	Glutathione S-transferase Mu 1 (EC 2.5.1.18) (GST HB subunit 4) (GST class-mu 1) (GSTM1-1) (GSTM1a-1a) (GSTM1b-1b) (GTH4)
+GeneName	GSTM1 GST1
+Length	181
+Function	Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. Involved in the formation of glutathione conjugates of both prostaglandin A2 (PGA2) and prostaglandin J2 (PGJ2) (PubMed:9084911). Participates in the formation of novel hepoxilin regioisomers (PubMed:21046276).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMILGYWDIRGLAHAIRLLLEYTDSSYEEKKYTMGDAPDYDRSQWLNEKFKLGLDFPNLPYLIDGAHKITQSNAILCYIARKHNLCGETEEEKIRVDILENQTMDNHMQLGMICYNPEFEKLKPKYLEELPEKLKLYSEFLGKRPWFAGNKGLEKISAYMKSSRFLPRPVFSKMAVWGNK
+PTM	Acetylation:32,50,83,126,136,144,199;Methylation:31,69,134,144,152;Phosphorylation:34,41,200,201;SUMOylation:32,52;Ubiquitylation:50,52,134,136

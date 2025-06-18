@@ -1,0 +1,25 @@
+UniprotID	H0YBX2
+Accession	H0YBX2
+EntryName	H0YBX2_HUMAN
+ProteinName	Deoxyribonuclease TATDN1
+GeneName	TATDN1
+Length	202
+Function	Deoxyribonuclease which catalyzes (in vitro) the decatenation of kinetoplast DNA, which are circular DNA catenated to each other, producing linear DNA molecules. Plays an important role in chromosomal segregation and cell cycle progression during eye development probably via its DNA decatenation activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	191...195
+validnes_region	
+nesbase_region	
+Sequence	XSSLSVRGAFSTPLGLSDLSRASVTKVTGPRNCALRHYIGINLTDPMFRGIYRGVQKHQDDLQDVIGRAVEIGVKKFMITGGNLQDSKDALHLAQTNGMFFSTVGCHPTRCGEFEKNNPDLYLKELLNLAENNKGKVVAIGECGLDFDRLQFCPKDTQLKYFEKQFELSEQTKLPMFLHCRNSHAEFLDIMKRNRDRCVGGV
+PTM	

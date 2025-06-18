@@ -1,0 +1,25 @@
+UniprotID	H0YBC8
+Accession	H0YBC8
+EntryName	H0YBC8_HUMAN
+ProteinName	Transcription factor 7
+GeneName	TCF7
+Length	204
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	133...138
+validnes_region	
+nesbase_region	
+Sequence	XFTHPSLMLGSGVPGHPAAIPHPAIVPPSGKQELQPFDRNLKTQAESKAEKEAKKPTIKKPLNAFMLYMKEMRAKVIAECTLKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSARDNYGKKKRRSREKHQESTTGGKRNAFELLTSPAEPAPTSPGLSTALSLPTPGPPQAPRSTLQSTQVQQQESQRQVA
+PTM	

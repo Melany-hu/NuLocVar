@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y5H2
+Accession	A0A2R8Y5H2
+EntryName	A0A2R8Y5H2_HUMAN
+ProteinName	Diablo IAP-binding mitochondrial protein
+GeneName	DIABLO
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALKSWLSRSVTSFFRYRQCLCVPVVANFKKRCFSELIRPWHKTVTIGFGVTLCAVPIAQAGVQWQDLGSLQPPPPGFRQFSCLSLPSSWDYRNQSLIPLVVKH
+PTM	

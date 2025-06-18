@@ -1,0 +1,25 @@
+UniprotID	A0A087X0Z2
+Accession	A0A087X0Z2
+EntryName	A0A087X0Z2_HUMAN
+ProteinName	X-prolyl aminopeptidase 3
+GeneName	XPNPEP3 LOC63929 hCG_41117
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPWLLSAPKLVPAVANVRGLSGSYFVTQAGVQWRDPITLQPMSSRLKQSFYQLPE
+PTM	

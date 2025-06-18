@@ -1,0 +1,25 @@
+UniprotID	Q9BUK6-6
+Accession	Q9BUK6;Q53GR8;Q5CZ69;Q5T717;Q68CT6;Q7LBZ8;Q7Z3M7;Q7Z558;Q8TE05;Q9NQX2;Q9NVU4
+EntryName	MSTO1_HUMAN
+ProteinName	Protein misato homolog 1
+GeneName	MSTO1 LST005 SLTP005
+Length	182
+Function	Involved in the regulation of mitochondrial distribution and morphology (PubMed:17349998, PubMed:28544275, PubMed:28554942). Required for mitochondrial fusion and mitochondrial network formation (PubMed:28544275, PubMed:28554942).
+Subcellular Location	Mitochondrion outer membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQFGGATPWTPLSACGEPSGTRCFAQSVVLRGIDRACHTSQLTPGTPPPSALHACTTGEEILAQYLQQQQPGVMSSSHLLLTPCRVAPPYPHLFSSCSPPGMVLDGSPKGAAVESIPVFGALCSSSSLHQTLEALARDLTKLDLRRWASFMDAGVEHDDVAELLQELQSLAQCYQGGDSLVD
+PTM	Methylation:111,419,529;Phosphorylation:135,142,143,147,149,150,157,160,200,486,495;SUMOylation:39,80,105,206;Ubiquitylation:39,73,80,89,105,134,140,152,182,203,365,497,529

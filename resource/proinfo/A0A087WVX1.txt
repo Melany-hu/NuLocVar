@@ -1,0 +1,25 @@
+UniprotID	A0A087WVX1
+Accession	A0A087WVX1
+EntryName	A0A087WVX1_HUMAN
+ProteinName	Family with sequence similarity 228 member B (HCG1820835, isoform CRA_b)
+GeneName	FAM228B hCG_1820835
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKKDPNFLKVTIPPFHDPLKKAQYDKDNEKRTLLQCETGKIYSIKEFKEVEKVQLHSRFPQISNSRHFITPNEWLKLPTRYIESEFCRRRRLKVKVNFNDCSFDLKPLARAPYLLESQEEEKTVIYKNKGSSFLEREPLCYQEGNNPSAKEAISEGYFSSLSLSQEREEDQDGSPSPRLGLLKLEL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q86Z02-4
+Accession	Q86Z02;A6NJ34;O75125;Q5SQL2;Q5SQL4;Q5SQL5;Q8IYD7;Q8NDN5;Q8NEB6;Q8TBZ1
+EntryName	HIPK1_HUMAN
+ProteinName	Homeodomain-interacting protein kinase 1 (EC 2.7.11.1) (Nuclear body-associated kinase 2)
+GeneName	HIPK1 KIAA0630 MYAK NBAK2
+Length	816
+Function	Serine/threonine-protein kinase involved in transcription regulation and TNF-mediated cellular apoptosis. Plays a role as a corepressor for homeodomain transcription factors. Phosphorylates DAXX and MYB. Phosphorylates DAXX in response to stress, and mediates its translocation from the nucleus to the cytoplasm. Inactivates MYB transcription factor activity by phosphorylation. Prevents MAP3K5-JNK activation in the absence of TNF. TNF triggers its translocation to the cytoplasm in response to stress stimuli, thus activating nuclear MAP3K5-JNK by derepression and promoting apoptosis. May be involved in anti-oxidative stress responses. Involved in the regulation of eye size, lens formation and retinal lamination during late embryogenesis. Promotes angiogenesis and to be involved in erythroid differentiation. May be involved in malignant squamous cell tumor formation. Phosphorylates PAGE4 at 'Thr-51' which is critical for the ability of PAGE4 to potentiate the transcriptional activator activity of JUN (PubMed:24559171).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	844..847
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLMFQIRYISQTQGLPAEYLLSAGTKTTRFFNRDPNLGYPLWRLKTPEEHELETGIKSKEARKYIFNCLDDMAQVNMSTDLEGTDMLAEKADRREYIDLLKKMLTIDADKRITPLKTLNHQFVTMTHLLDFPHSNHVKSCFQNMEICKRRVHMYDTVSQIKSPFTTHVAPNTSTNLTMSFSNQLNTVHNQASVLASSSTAAAATLSLANSDVSLLNYQSALYPSSAAPVPGVAQQGVSLQPGTTQICTQTDPFQQTFIVCPPAFQTGLQATTKHSGFPVRMDNAVPIVPQAPAAQPLQIQSGVLTQGSCTPLMVATLHPQVATITPQYAVPFTLSCAAGRPALVEQTAAVLQAWPGGTQQILLPSTWQQLPGVALHNSVQPTAMIPEAMGSGQQLADWRNAHSHGNQYSTIMQQPSLLTNHVTLATAQPLNVGVAHVVRQQQSSSLPSKKNKQSAPVSSKSSLDVLPSQVYSLVGSSPLRTTSSYNSLVPVQDQHQPIIIPDTPSPPVSVITIRSDTDEEEDNKYKPSSSGLKPRSNVISYVTVNDSPDSDSSLSSPYSTDTLSALRGNSGSVLEGPGRVVADGTGTRTIIVPPLKTQLGDCTVATQASGLLSNKTKPVASVSGQSSGCCITPTGYRAQRGGTSAAQPLNLSQNQQSSAAPTSQERSSNPAPRRQQAFVAPLSQAPYTFQHGSPLHSTGHPHLAPAPAHLPSQAHLYTYAAPTSAAALGSTSSIAHLFSPQGSSRHAAAYTTHPSTLVHQVPVSVGPSLLTSASVAPAQYQHQFATQSYIGSSRGSTIYTGYPLSPTKISQYSYL
+PTM	Glycosylation:151;Methylation:206,219,280,496,928;Phosphorylation:37,38,161,163,164,236,239,350,351,352,355,449,843,854,856,867,871,872,907,959,965,967,1021,1022,1027,1063,1200,1202;SUMOylation:23,25,41,120,126,206,317,440,511,844,847,919,921,928,991,1012;Ubiquitylation:120,283,334,421,543,844,991

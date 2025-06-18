@@ -1,0 +1,25 @@
+UniprotID	Q3KRI5
+Accession	Q3KRI5
+EntryName	Q3KRI5_HUMAN
+ProteinName	Angiotensin I converting enzyme
+GeneName	ACE
+Length	32
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NMWAQTWSNIYDLVVPFPSAPSMDTTEAMLKQ
+PTM	

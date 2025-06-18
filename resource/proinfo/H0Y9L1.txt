@@ -1,0 +1,25 @@
+UniprotID	H0Y9L1
+Accession	H0Y9L1
+EntryName	H0Y9L1_HUMAN
+ProteinName	NEDD4 E3 ubiquitin protein ligase
+GeneName	NEDD4
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCAVEVFGLLEDEENSRIVRVRVIAGIGLAKKDILGARV
+PTM	

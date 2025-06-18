@@ -1,0 +1,25 @@
+UniprotID	P62308
+Accession	P62308;D6W5G6;Q15357;Q6IB86
+EntryName	RUXG_HUMAN
+ProteinName	Small nuclear ribonucleoprotein G (snRNP-G) (Sm protein G) (Sm-G) (SmG)
+GeneName	SNRPG PBSCG
+Length	76
+Function	Plays a role in pre-mRNA splicing as a core component of the spliceosomal U1, U2, U4 and U5 small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome (PubMed:11991638, PubMed:18984161, PubMed:19325628, PubMed:23333303, PubMed:25555158, PubMed:26912367, PubMed:28076346, PubMed:28502770, PubMed:28781166, PubMed:32494006). Component of both the pre-catalytic spliceosome B complex and activated spliceosome C complexes (PubMed:11991638, PubMed:28076346, PubMed:28502770, PubMed:28781166). As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (PubMed:15146077). As part of the U7 snRNP it is involved in histone 3'-end processing (PubMed:12975319).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	0.6948,0.4725,0.4369,0.4725,0.5017,0.5254,0.4256,0.4507,0.3704,0.3910,0.3249,0.3740,0.3704,0.3631,0.4017,0.4017,0.2988,0.2783,0.2645,0.2609,0.1791,0.1852,0.2817,0.2094,0.2094,0.2364,0.1399,0.1791,0.1881,0.1881,0.1323,0.1298,0.1275,0.1399,0.1007,0.0631,0.0646,0.0799,0.0605,0.0662,0.1137,0.1731,0.1759,0.1914,0.3053,0.3087,0.1881,0.2884,0.2884,0.2094,0.2258,0.2034,0.2988,0.2884,0.2849,0.3460,0.3286,0.2292,0.2328,0.1823,0.1852,0.1583,0.1007,0.1028,0.1007,0.0605,0.0433,0.0631,0.0494,0.0483,0.0618,0.0817,0.1323,0.0929,0.0676,0.0372
+ExposeBuried	1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,1,1
+SurfaceAccessbility	0.852,0.628,0.677,0.515,0.445,0.290,0.591,0.587,0.079,0.435,0.577,0.164,0.186,0.580,0.506,0.488,0.084,0.365,0.091,0.382,0.096,0.518,0.424,0.390,0.420,0.360,0.092,0.371,0.184,0.086,0.096,0.455,0.328,0.102,0.347,0.279,0.100,0.071,0.295,0.100,0.069,0.070,0.394,0.320,0.072,0.123,0.476,0.201,0.393,0.282,0.501,0.622,0.595,0.484,0.498,0.420,0.077,0.085,0.072,0.043,0.114,0.034,0.268,0.342,0.392,0.154,0.091,0.066,0.050,0.074,0.362,0.094,0.150,0.581,0.584,0.706
+SecondStructure	C,C,C,C,C,C,C,A,A,A,A,A,C,C,C,B,B,B,B,B,B,C,C,C,C,C,A,A,A,A,A,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,B,B,C,C,C,C,C,C,C,B,B,B,B,B,B,B,B,C,C,B,B,B,B,B,A,A,A,A,C,C
+Hydropathy	1.9,-0.8,-3.9,1.8,-3.2,-1.6,-1.6,-3.5,3.8,-3.9,-3.9,2.8,1.9,-3.5,-3.9,-3.9,3.8,-0.8,3.8,-3.9,3.8,-3.5,-0.4,-0.4,-4.5,-3.2,4.2,-3.5,-0.4,4.5,3.8,-4.5,-0.4,2.8,-3.5,-1.6,2.8,1.9,-3.5,3.8,4.2,4.5,-3.5,-3.5,2.5,4.2,-3.5,1.9,1.8,-0.7,-0.8,-0.4,-3.5,-3.5,-3.5,-3.5,4.5,-0.4,1.9,4.2,4.2,4.5,-4.5,-0.4,-3.5,-0.8,4.5,4.5,1.9,3.8,-3.5,1.8,3.8,-3.5,-4.5,4.2
+Polar	0,1,1,0,1,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0
+Charge	0,0,1,0,1,0,0,-1,0,1,1,0,0,-1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,0,0,-1,-1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,-1,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKAHPPELKKFMDKKLSLKLNGGRHVQGILRGFDPFMNLVIDECVEMATSGQQNNIGMVVIRGNSIIMLEALERV
+PTM	Acetylation:3,10,20;Methylation:10;Phosphorylation:66;SUMOylation:3;Ubiquitylation:3,10,11,16,20

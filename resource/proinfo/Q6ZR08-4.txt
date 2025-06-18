@@ -1,0 +1,25 @@
+UniprotID	Q6ZR08-4
+Accession	Q6ZR08;A6NGI2;Q6ZTR8;Q8N7R9;Q8WXK2;Q92816
+EntryName	DYH12_HUMAN
+ProteinName	Dynein axonemal heavy chain 12 (Axonemal beta dynein heavy chain 12) (Axonemal dynein heavy chain 12-like protein) (Axonemal dynein heavy chain 7-like protein) (Ciliary dynein heavy chain 12) (Dynein axonemal heavy chain 7-like) (Dynein heavy chain domain-containing protein 2)
+GeneName	DNAH12 DHC3 DLP12 DNAH12L DNAH7L DNAHC3 DNHD2 HDHC3 HL19
+Length	457
+Function	Force generating protein of respiratory cilia. Produces force towards the minus ends of microtubules. Dynein has ATPase activity; the force-producing power stroke is thought to occur on release of ADP. Involved in sperm motility; implicated in sperm flagellar assembly (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDANKAAIAAEKEALNLKLPPIVHLPENIGVDTPTQSKLLKYRRSKEQQQKINQLVIDGAKRNLDRTLGKRTPLLPPPDYPQTMTSEMKKKGFNYIYMKQCVESSPLVPIQQEWLDHMLRLIPESLKEGKEREELLESLINEVSSDFENSMKRYLVQSVLVKPPVKSLEDEGGPLPESPVGLDYSNPWHSSYVQARNQIFSNLHIIHPTMKMLLDLGYTTFADTVLLDFTGIRAKGPIDCESLKTDLSIQTRNAEEKIMNTWYPKVINLFTKKEALEGVKPEKLDAFYSCVSTLMSNQLKDLLRRTVEGFVKLFDPKDQQRLPIFKIELTFDDDKMEFYPTFQDLEDNVLSLVERIAEALQNVQTIPSWLSGTSTPVNLDTELPEHVLHWAVDTLKAAVHRNLEGARKHYETYVEKYNWLLDGTAVENIETFQTEDHTFDEYTEELDCWVVWEVYF
+PTM	Methylation:19,163,281,313,397,449,514,618,661,695,737,745,800,828,871,967,977,1030,1040,1268,1370,1540,1696,1739,1759,1806,1850,1969,2116,2318,2392,2427,2447,2485,2512,2604,2764,2785,2827,2876,2899,3071;Phosphorylation:98,352,414,638,640,1260,1262,1263,2085,2261,2509,2681,2804,2866;SUMOylation:281

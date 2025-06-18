@@ -1,0 +1,25 @@
+UniprotID	P23511-2
+Accession	P23511;Q8IXU0
+EntryName	NFYA_HUMAN
+ProteinName	Nuclear transcription factor Y subunit alpha (CAAT box DNA-binding protein subunit A) (Nuclear transcription factor Y subunit A) (NF-YA)
+GeneName	NFYA
+Length	318
+Function	Component of the sequence-specific heterotrimeric transcription factor (NF-Y) which specifically recognizes a 5'-CCAAT-3' box motif found in the promoters of its target genes. NF-Y can function as both an activator and a repressor, depending on its interacting cofactors. NF-YA positively regulates the transcription of the core clock component BMAL1.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQYTANSNSSTEQIVVQAGQIQQQVQGQPLMVQVSGGQLITSTGQPIMVQAVPGGQGQTIMQVPVSGTQGLQQIQLVPPGQIQIQGGQAVQVQGQQGQTQQIIIQQPQTAVTAGQTQTQQQIAVQGQQVAQTAEGQTIVYQPVNADGTILQQVTVPVSGMITIPAASLAGAQIVQTGANTNTTSSGQGTVTVTLPVAGNVVNSGGMVMMVPGAGSVPAIQRIPLPGAEMLEEEPLYVNAKQYHRILKRRQARAKLEAEGKIPKERRKYLHESRHRHAMARKRGEGGRFFSPKEKDSPHMQDPNQADEEAMTQIIRVS
+PTM	Acetylation:290;Phosphorylation:266,320,326,341,347;SUMOylation:290,322,324;Ubiquitylation:270,322

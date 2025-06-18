@@ -1,0 +1,25 @@
+UniprotID	Q6UUV9-2
+Accession	Q6UUV9;A6NMG5;O75114;Q6Y3A3;Q7LDZ2;Q8IUL3;Q8IZ34;Q8IZL1;Q8N6W3;Q96AI8;Q9H801
+EntryName	CRTC1_HUMAN
+ProteinName	CREB-regulated transcription coactivator 1 (Mucoepidermoid carcinoma translocated protein 1) (Transducer of regulated cAMP response element-binding protein 1) (TORC-1) (Transducer of CREB protein 1)
+GeneName	CRTC1 KIAA0616 MECT1 TORC1 WAMTP1
+Length	650
+Function	Transcriptional coactivator for CREB1 which activates transcription through both consensus and variant cAMP response element (CRE) sites. Acts as a coactivator, in the SIK/TORC signaling pathway, being active when dephosphorylated and acts independently of CREB1 'Ser-133' phosphorylation. Enhances the interaction of CREB1 with TAF4. Regulates the expression of specific CREB-activated genes such as the steroidogenic gene, StAR. Potent coactivator of PGC1alpha and inducer of mitochondrial biogenesis in muscle cells. In the hippocampus, involved in late-phase long-term potentiation (L-LTP) maintenance at the Schaffer collateral-CA1 synapses. May be required for dendritic growth of developing cortical neurons (By similarity). In concert with SIK1, regulates the light-induced entrainment of the circadian clock. In response to light stimulus, coactivates the CREB-mediated transcription of PER1 which plays an important role in the photic entrainment of the circadian clock.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	242..258
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	258...274
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSNNPRKFSEKIALHNQKQAEETAAFEEVMKDLSLTRAARLQLQKSQYLQLGPSRGQYYGGSLPNVNQIGSGTMDLPFQPSGFLGEALAAAPVSLTPFQSSGLDTSRTTRHHGLVDRVYRERGRLGSPHRRPLSVDKHGRQADSCPYGTMYLSPPADTSWRRTNSDSALHQSTMTPTQPESFSSGSQDVHQKRVLLLTVPGMEETTSEADKNLSKQAWDTKKTGSRPKSCEVPGINIFPSADQENTTALIPATHNTGGSLPDLTNIHFPSPLPTPLDPEEPTFPALSSSSSTGNLAANLTHLGIGGAGQGMSTPGSSPQHRPAGVSPLSLSTEARRQQASPTLSPLSPITQAVAMDALSLEQQLPYAFFTQAGSQQPPPQPQPPPPPPPASQQPPPPPPPQAPVRLPPGGPLLPSASLTRGPQPPPLAVTVPSSLPQSPPENPGQPSMGIDIASAPALQQYRTSAGSPANQSPTSPVSNQGFSPGSSPQHTSTLGSVFGDAYYEQQMAARQANALSHQLEQFNMMENAISSSSLYSPGSTLNYSQAAMMGLTGSHGSLPDSQQLGYASHSGIPNIILTVTGESPPSLSKELTSSLAGVGDVSFDSDSQFPLDELKIDPLTLDGLHMLNDPDMVLADPATEDTFRMDRL
+PTM	Acetylation:13,123;Methylation:103,601;Phosphorylation:11,36,48,61,64,113,120,130,139,149,151,153,158,159,161,163,167,170,172,312,315,424,588,593;SUMOylation:123

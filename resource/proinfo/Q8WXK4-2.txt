@@ -1,0 +1,25 @@
+UniprotID	Q8WXK4-2
+Accession	Q8WXK4;J3KP57;Q2M3D5;Q52LK4;Q6ISF9;Q8N8F5
+EntryName	ASB12_HUMAN
+ProteinName	Ankyrin repeat and SOCS box protein 12 (ASB-12)
+GeneName	ASB12
+Length	318
+Function	Probable substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRIVLQLAKMNLMDITKIFSLLQPDKEEEDTDTEEKQALNQAVYDNDSYTLDQLLRQERYKRFINSRSGWGVPGTPLRLAASYGHLSCLQVLLAHGADVDSLDVKAQTPLFTAVSHGHLDCVRVLLEAGASPGGSIYNNCSPVLTAARDGAVAILQELLDHGAEANVKAKLPVWASNIASCSGPLYLAAVYGHLDCFRLLLLHGADPDYNCTDQGLLARVPRPRTLLEICLHHNCEPEYIQLLIDFGANIYLPSLSLDLTSQDDKGIALLLQARATPRSLLSQVRLVVRRALCQAGQPQAINQLDIPPMLISYLKHQL
+PTM	Methylation:8,96

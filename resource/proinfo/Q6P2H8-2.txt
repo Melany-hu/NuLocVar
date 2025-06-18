@@ -1,0 +1,25 @@
+UniprotID	Q6P2H8-2
+Accession	Q6P2H8;B4DKG0;Q5JPH2;Q6IA07;Q9H6E2
+EntryName	TMM53_HUMAN
+ProteinName	Transmembrane protein 53 (Nuclear envelope transmembrane protein 4)
+GeneName	TMEM53 NET4
+Length	204
+Function	Ensures normal bone formation, through the negative regulation of bone morphogenetic protein (BMP) signaling in osteoblast lineage cells by blocking cytoplasm-nucleus translocation of phosphorylated SMAD1/5/9 proteins.
+Subcellular Location	Nucleus outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVFFSESLGIPSLRVLAQKLLELLFDYEIEKEPLLFHVFSNGGVMLYRYVLELLQTRRFCRLRVVGTIFDSAPGDSNLVGALRALAAILERRAAMLRLLLLVAFALVVVLFHVLLAPITALFHTHFYDRLQDAGSRWPELYLYSRADEVVLARDIERMVEARLARRVLARSVDFVSSAHVSHLRDYPTYYTSLCVDFMRNCVRC
+PTM	Methylation:53,104;Phosphorylation:23,25,69,85;Ubiquitylation:29,60

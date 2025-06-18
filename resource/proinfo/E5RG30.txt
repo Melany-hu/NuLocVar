@@ -1,0 +1,25 @@
+UniprotID	E5RG30
+Accession	E5RG30
+EntryName	E5RG30_HUMAN
+ProteinName	Sorting nexin 16
+GeneName	SNX16
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPYVPVPMPIGNSASSFTTNRNQRSSSFGSVSTSSNSSKGQLEDSNMGTASSIEYSTRPRDTEEQNPETVN
+PTM	

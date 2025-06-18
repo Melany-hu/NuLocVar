@@ -1,0 +1,25 @@
+UniprotID	F5H1T2
+Accession	F5H1T2
+EntryName	F5H1T2_HUMAN
+ProteinName	Zinc finger protein 268
+GeneName	ZNF268
+Length	68
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATRVRTASIWTQSGKLMILWIGIRKIKTSWEVRQKALNALHLENYVFLVQSIFQDKNLINVARMERV
+PTM	

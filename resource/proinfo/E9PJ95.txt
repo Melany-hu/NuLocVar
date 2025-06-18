@@ -1,0 +1,25 @@
+UniprotID	E9PJ95
+Accession	E9PJ95
+EntryName	E9PJ95_HUMAN
+ProteinName	COMM domain containing 9
+GeneName	COMMD9
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALTAEHFAALQSLLKASSKDVVRQLCQESFSSSALGLKKLLDVTCSSLSVTQEEAEELLQALHRLTRLVAFRDLSSAEAILALFPENFHQNLKNLLTKIILEHVLSATPGRSGLESGYQNLLRQHQPHGRPHLPAPDEDPRRSQPMRRQTLHLSCHRGAEQRNTGHHVRWPGPHPRPTLCRGQ
+PTM	

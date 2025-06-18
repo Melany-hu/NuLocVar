@@ -1,0 +1,25 @@
+UniprotID	Q9BTM9-2
+Accession	Q9BTM9;B3KMH3;B4DV08;Q5T4B4
+EntryName	URM1_HUMAN
+ProteinName	Ubiquitin-related modifier 1
+GeneName	URM1 C9orf74
+Length	146
+Function	Acts as a sulfur carrier required for 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of cytosolic tRNA(Lys), tRNA(Glu) and tRNA(Gln). Serves as sulfur donor in tRNA 2-thiolation reaction by being thiocarboxylated (-COSH) at its C-terminus by MOCS3. The sulfur is then transferred to tRNA to form 2-thiolation of mcm(5)S(2)U. Also acts as a ubiquitin-like protein (UBL) that is covalently conjugated via an isopeptide bond to lysine residues of target proteins such as MOCS3, ATPBD3, CTU2, USP15 and CAS. The thiocarboxylated form serves as substrate for conjugation and oxidative stress specifically induces the formation of UBL-protein conjugates.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPLSVEVEFGGGAELLFDGIKKHRVTLPGQEEPWDIRNLLIWIKKNLLKERPELFIQGDSVRPGILVLINDADWELLVSTLGDIPPPAPALAASVGKRWASPQAHIEWLGNPPPHSSPTLRLLESPTPGEEGMGSWGHGSTPPS
+PTM	Methylation:51

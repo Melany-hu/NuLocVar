@@ -1,0 +1,25 @@
+UniprotID	Q86SG3-2
+Accession	Q86SG3;Q9NR88;Q9NR89
+EntryName	DAZ4_HUMAN
+ProteinName	Deleted in azoospermia protein 4
+GeneName	DAZ4
+Length	390
+Function	RNA-binding protein that plays an essential role in spermatogenesis. May act by binding to the 3'-UTR of mRNAs and regulating their translation.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAANPETPNSTISREASTQSSSAAASQGWVLPEGKIVPNTVFVGGIDARMDETEIGSCFGRYGSVKEVKIITNRTGVSKGYGFVSFVNDVDVQKIVGSQIHFHGKKLKLGPAIRKQKLCARHVQPRPLVVNPPPPPQFQNVWRNPNTETYLQPQITPNPVTQHVQAYSAYPHSPGQVITGCQLLVYNYQEYPTYPDSAFQVTTGYQLPVYNYQPFPAYPRSPFQVTAGYQLPVYNYQAFPAYPNSPFQVATGYQFPVYNYQPFPAYPSSPFQVTAGYQLPVYNYQAFPAYPNSPFQVATGYQFPVYNYQAFPAYPNSPVQVTTGYQLPVYNYQAFPAYPNSAVQVTTGYQFHVYNYQMPPQCPVGEQRRNLWTEAYKWWYLVCLIQRRD
+PTM	Phosphorylation:8,58,223

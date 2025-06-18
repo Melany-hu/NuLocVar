@@ -1,0 +1,25 @@
+UniprotID	K7EJ35
+Accession	K7EJ35;A0A024R8P0
+EntryName	K7EJ35_HUMAN
+ProteinName	Synaptogyrin 2
+GeneName	SYNGR2 hCG_27833
+Length	168
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYCVFNRNEDACRYGSAIGVLAFLASAFFLVVDAYFPQISNATDRKYLVIGDLLFSALWTFLWFVGFCFLTNQWAVTNPKDVLVGADSVRAAITFSFFSIFSWGVLASLAYQRYKAGVDDFIQNYVDPTPDPNTAYASYPGASVDNYQQPPFTQNAETTEGYQPPPVY
+PTM	

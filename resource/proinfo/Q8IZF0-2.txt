@@ -1,0 +1,25 @@
+UniprotID	Q8IZF0-2
+Accession	Q8IZF0;Q6P2S6;Q6ZMI7;Q8IZZ1;Q8TAH1
+EntryName	NALCN_HUMAN
+ProteinName	Sodium leak channel NALCN (CanIon) (Sodium leak channel non-selective protein) (Voltage gated channel-like protein 1)
+GeneName	NALCN VGCNL1
+Length	668
+Function	Voltage-gated ion channel responsible for the resting Na(+) permeability that controls neuronal excitability (PubMed:17448995, PubMed:31409833). NALCN channel functions as a multi-protein complex, which consists at least of NALCN, NALF1, UNC79 and UNC80 (PubMed:32494638, PubMed:33203861). NALCN is the voltage-sensing, pore-forming subunit of the NALCN channel complex (PubMed:17448995). NALCN channel complex is constitutively active and conducts monovalent cations but is blocked by physiological concentrations of extracellular divalent cations (PubMed:32494638). In addition to its role in regulating neuronal excitability, is required for normal respiratory rhythm, systemic osmoregulation by controlling the serum sodium concentration and in the regulation of the intestinal pace-making activity in the interstitial cells of Cajal (By similarity). NALCN channel is also activated by neuropeptides such as neurotensin and substance P (SP) through a SRC family kinases-dependent pathway (By similarity). In addition, NALCN activity is enhanced/modulated by several GPCRs, such as CHRM3 (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKRKQSSRVEAQPVTDFGPDESLSDNADILWINKPWVHSLLRICAIISVISVCMNTPMTFEHYPPLQYVTFTLDTLLMFLYTAEMIAKMHIRGIVKGDSSYVKDRWCVFDGFMVFCLWVSLVLQVFEIADIVDQMSPWGMLRIPRPLIMIRAFRIYFRFELPRTRITNILKRSGEQIWSVSIFLLFFLLLYGILGVQMFGTFTYHCVVNDTKPGNVTWNSLAIPDTHCSPELEEGYQCPPGFKCMDLEDLGLSRQELGYSGFNEIGTSIFTVYEAASQEGWVFLMYRAIDSFPRWRSYFYFITLIFFLAWLVKNVFIAVIIETFAEIRVQFQQMWGSRSSTTSTATTQMFHEDAAGGWQLVAVDVNKPQGRAPACLQKMMRSSVFHMFILSMVTVDVIVAASNYYKGENFRRQYDEFYLAEVAFTVLFDLEALLKIWCLGFTGYISSSLHKFELLLVIGTTLHVYPDLYHSQFTYFQVLRVVRLIKISPALEDFVYKIFGPGKKLGSLVVFTASLLIVMSAISLQMFCFVEELDRFTTFPRAFMSMFQILTQEGWVDVMDQTLNAVGHMWAPVVAIYFILYHLFATLPPSLIRDLCGTQDACPSCLPLQPPNHLPGSQTLARLTHQALTTPPGMRSSQLFSKISLLLGICVAWESILGSLSLSHNLQ
+PTM	Methylation:172,436,657,722,728,780,811,936,1074,1507,1513,1569,1577;Phosphorylation:82,623,1113,1169,1228,1331,1333,1571,1596,1600;SUMOylation:487,1662

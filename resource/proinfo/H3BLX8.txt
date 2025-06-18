@@ -1,0 +1,25 @@
+UniprotID	H3BLX8
+Accession	H3BLX8
+EntryName	H3BLX8_HUMAN
+ProteinName	Chromosome 9 open reading frame 85
+GeneName	C9orf85
+Length	22
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNDKFDKSVQTKSLSANSSHDV
+PTM	

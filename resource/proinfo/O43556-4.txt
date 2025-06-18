@@ -1,0 +1,25 @@
+UniprotID	O43556-4
+Accession	O43556;B2R8N2;D6W5Q8;E9PF60;G5E9K6;Q6L8P0;Q75MH8;Q8NFG8;Q8WW28
+EntryName	SGCE_HUMAN
+ProteinName	Epsilon-sarcoglycan (Epsilon-SG)
+GeneName	SGCE ESG UNQ433/PRO840
+Length	462
+Function	Component of the sarcoglycan complex, a subcomplex of the dystrophin-glycoprotein complex which forms a link between the F-actin cytoskeleton and the extracellular matrix.
+Subcellular Location	Cell membrane; Sarcolemma; Cytoplasm; Cytoskeleton; Cell projection; Dendrite; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLPRWWELGDPCAWTGQGRGTRRMSPATTGTFLLTVYSIFSKVHSDRNVYPSAGVLFVHVLEREYFKGEFPPYPKPGEISNDPITFNTNLMGYPDRPGWLRYIQRTPYSDGVLYGSPTAENVGKPTIIEITAYNRRTFETARHNLIINIMSAEDFPLPYQAEFFIKNMNVEEMLASEVLGDFLGAVKNVWQPERLNAINITSALDRGGRVPLPINDLKEGVYVMVGADVPFSSCLREVENPQNQLRCSQEMEPVITCDKKFRTQFYIDWCKISLVDKTKQVSTYQEVIRGEGILPDGGEYKPPSDSLKSRDYYTDFLITLAVPSAVALVLFLILAYIMCCRREGVEKRNMQTPDIQLVHHSAIQKSTKELRDMSKNREIAWPLSTLPVFHPVTGEIIPPLHTDNYDSTNMPLMQTQQWSFAPVAQAGVQWSDLGSLQPPPPRNLPHQTQIPQQQTTGKWYP
+PTM	Glycosylation:197,200;Methylation:167,366;Phosphorylation:353;Ubiquitylation:280,366

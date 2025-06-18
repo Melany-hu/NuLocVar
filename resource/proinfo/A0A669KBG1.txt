@@ -1,0 +1,25 @@
+UniprotID	A0A669KBG1
+Accession	A0A669KBG1
+EntryName	A0A669KBG1_HUMAN
+ProteinName	Phosphatase and actin regulator
+GeneName	MRTFA
+Length	111
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLRREGRKSGLLQHWPVETRISSSMLEEKAKIHQSTCRILPLSWIVLKPRKDSYYSAVCLTHYHSLREVLQLKLQQRRTREELVSQGIMPPLKSPAAFHEQRRSLERAR
+PTM	

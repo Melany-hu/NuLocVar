@@ -1,0 +1,25 @@
+UniprotID	A9UF27
+Accession	A9UF27
+EntryName	A9UF27_HUMAN
+ProteinName	Steroid 21-hydroxylase
+GeneName	CYP21A2
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SISGYDIPEGTVIIPNLQGAHLDETVWERPHESWPDRFLEPGKNSRALAFGCGARVCLGEPLARLELFVVLTRLLQAFTLLPSGDALPSLQPLPHCSVILKMQPFQVRLQPRGMGAHSPGQSQ
+PTM	

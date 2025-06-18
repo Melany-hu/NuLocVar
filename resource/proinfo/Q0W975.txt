@@ -1,0 +1,25 @@
+UniprotID	Q0W975
+Accession	Q0W975
+EntryName	Q0W975_HUMAN
+ProteinName	Steroid sulfatase
+GeneName	STS
+Length	20
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQDRLQLFIAKMKIPFLLL
+PTM	

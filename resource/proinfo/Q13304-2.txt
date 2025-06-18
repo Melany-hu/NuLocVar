@@ -1,0 +1,25 @@
+UniprotID	Q13304-2
+Accession	Q13304;A8K9L0;B2R9X0;Q8N5S7;Q9UDZ6;Q9UE21
+EntryName	GPR17_HUMAN
+ProteinName	Uracil nucleotide/cysteinyl leukotriene receptor (UDP/CysLT receptor) (G-protein coupled receptor 17) (P2Y-like receptor) (R12)
+GeneName	GPR17
+Length	339
+Function	Dual specificity receptor for uracil nucleotides and cysteinyl leukotrienes (CysLTs). Signals through G(i) and inhibition of adenylyl cyclase. May mediate brain damage by nucleotides and CysLTs following ischemia.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGLEVAPPGLITNFSLATAEQCGQETPLENMLFASFYLLDFILALVGNTLALWLFIRDHKSGTPANVFLMHLAVADLSCVLVLPTRLVYHFSGNHWPFGEIACRLTGFLFYLNMYASIYFLTCISADRFLAIVHPVKSLKLRRPLYAHLACAFLWVVVAVAMAPLLVSPQTVQTNHTVVCLQLYREKASHHALVSLAVAFTFPFITTVTCYLLIIRSLRQGLRVEKRLKTKAVRMIAIVLAIFLVCFVPYHVNRSVYVLHYRSHGASCATQRILALANRITSCLTSLNGALDPIMYFFVAEKFRHALCNLLCGKRLKGPPPSFEGKTNESSLSAKSEL
+PTM	Methylation:19;Phosphorylation:167

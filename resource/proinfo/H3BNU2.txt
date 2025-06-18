@@ -1,0 +1,25 @@
+UniprotID	H3BNU2
+Accession	H3BNU2
+EntryName	H3BNU2_HUMAN
+ProteinName	Galactosamine (N-acetyl)-6-sulfatase
+GeneName	GALNS
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVVAATRWWQLLLVLSAAGMGASGAPQPPNILLLLMDDESLPPPRAAGSPRWAPVLPDGCLCPLENAERSDCFPEHALQRPGVRVLTAVAGPFSALSGISLLKILCFRISSFHF
+PTM	

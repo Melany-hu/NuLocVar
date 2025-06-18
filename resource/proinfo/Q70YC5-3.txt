@@ -1,0 +1,25 @@
+UniprotID	Q70YC5-3
+Accession	Q70YC5;A8K0F0;O94930;Q05D75;Q5HYE6;Q68SG8;Q6NSK2;Q6P9D4;Q70YC6;Q70YC7
+EntryName	ZN365_HUMAN
+ProteinName	Protein ZNF365 (DISC1-binding zinc-finger protein) (Protein su48)
+GeneName	ZNF365 DBZ KIAA0844
+Length	462
+Function	Involved in the regulation of neurogenesis. Negatively regulates neurite outgrowth (PubMed:17389905). Involved in the morphogenesis of basket cells in the somatosensory cortex during embryogenesis. Involved in the positive regulation of oligodendrocyte differentiation during postnatal growth. Involved in dendritic arborization, morphogenesis of spine density dendrite, and establishment of postsynaptic dendrite density in cortical pyramidal neurons (By similarity). Involved in homologous recombination (HR) repair pathway. Required for proper resolution of DNA double-strand breaks (DSBs) by HR. Is required for recovery of stalled replication forks, and directly contributes to genomic stability. Interacts with PARP1 and mediates MRE11-dependent DNA end resection during replication fork recovery (PubMed:23966166). Contributes to genomic stability by preventing telomere dysfunction (PubMed:23776040).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQKAFEESRYPWQESFENVAVCLPLRCPRCGDHTRFRSLSSLRAHLEFSHSYEERTLLTKCSLFPSLKDTDLVTSSELLKPGKLQSSGNVVKQKPSYVNLYSISHEHSKDRKPFEVVAERPVSYVQTYTAMDLHADSLDGTRSGPGLPTSDTKASFEAHVREKFNRMVEAVDRTIEKRIDKLTKELAQKTAELLEVRAAFVQLTQKKQEVQRRERALNRQVDVAVEMIAVLRQRLTESEEELLRKEEEVVTFNHFLEAAAEKEVQGKARLQDFIENLLQRVELAEKQLEYYQSQQASGFVRDLSGHVSWKGAGEARLVCQNDLELEIFGHINHHLSGLKDSHCLVFLQAPPVPWIILASFLWILGNPWTSSTATAGFSQIWVLFPFCGGTFHHNEKDVLGLQDFERESVSTSQSRNISLLTLGQLQNCVIGKLTIIDLLTEHLLGVRHGVICFPWGLPSSS
+PTM	Methylation:61,81,93,178,190,207,246,268,287;Phosphorylation:39,41,42,239;SUMOylation:81,84,95,113,154,317,361,379;Ubiquitylation:4,61,69,81,84,154,287

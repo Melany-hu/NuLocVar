@@ -1,0 +1,25 @@
+UniprotID	P15509-8
+Accession	P15509;A7J003;A8KAM1;B4DW68;J3JS76;J3JS77;O00207;Q14429;Q14430;Q14431;Q16564
+EntryName	CSF2R_HUMAN
+ProteinName	Granulocyte-macrophage colony-stimulating factor receptor subunit alpha (GM-CSF-R-alpha) (GMCSFR-alpha) (GMR-alpha) (CDw116) (CD antigen CD116)
+GeneName	CSF2RA CSF2R CSF2RY
+Length	267
+Function	Low affinity receptor for granulocyte-macrophage colony-stimulating factor. Transduces a signal that results in the proliferation, differentiation, and functional activation of hematopoietic cells.
+Subcellular Location	Cell membrane; Secreted; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNCTWARGPTAPRDVQYFLYIRNSKRRREIRCPYYIQDSGTHVGCHLDNLSGLTSRNYFLVNGTSREIGIQFFDSLLDTKKIERFNPPSNVTVRCNTTHCLVRWKQPRTYQKLSYLDFQYQLDVHRKNTQPGTENLLINVSGDLENRYNFPSSEPRAKHSVKIRAADVRILNWSSWSEAIEFGSDDGNLGSVYIYVLLIVGTLVCGIVLGFLFKRFLRIQRLFPPVPQIKDKLNDNHEVEDEIIWEEFTPEEGKGYREEVLTVKEIT
+PTM	Ubiquitylation:158

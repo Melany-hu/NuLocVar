@@ -1,0 +1,25 @@
+UniprotID	Q9NQY9
+Accession	Q9NQY9
+EntryName	Q9NQY9_HUMAN
+ProteinName	Transcription factor 12
+GeneName	TCF12
+Length	34
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GFTDSPHYSDHLNDSRLGAHEGLSPTPFMNSNLM
+PTM	

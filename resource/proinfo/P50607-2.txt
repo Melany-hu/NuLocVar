@@ -1,0 +1,25 @@
+UniprotID	P50607-2
+Accession	P50607;D3DQU4;O00293;Q6B007
+EntryName	TUB_HUMAN
+ProteinName	Tubby protein homolog
+GeneName	TUB
+Length	561
+Function	Functions in signal transduction from heterotrimeric G protein-coupled receptors. Binds to membranes containing phosphatidylinositol 4,5-bisphosphate. Can bind DNA (in vitro). May contribute to the regulation of transcription in the nucleus. Could be involved in the hypothalamic regulation of body weight (By similarity). Contribute to stimulation of phagocytosis of apoptotic retinal pigment epithelium (RPE) cells and macrophages.
+Subcellular Location	Cytoplasm; Nucleus; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	357...363
+validnes_region	
+nesbase_region	
+Sequence	MGARTPLPSFWVSFFAETGILFPGGTPWPMGSQHSKQHRKPGPLKRGHRRDRRTTRRKYWKEGREIARVLDDEGRNLRQQKLDRQRALLEQKQKKKRQEPLMVQANADGRPRSRRARQSEEQAPLVESYLSSSGSTSYQVQEADSLASVQLGATRPTAPASAKRTKAAATAGGQGGAARKEKKGKHKGTSGPAALAEDKSEAQGPVQILTVGQSDHAQDAGETAAGGGERPSGQDLRATMQRKGISSSMSFDEDEEDEEENSSSSSQLNSNTRPSSATSRKSVREAASAPSPTAPEQPVDVEVQDLEEFALRPAPQGITIKCRITRDKKGMDRGMYPTYFLHLDREDGKKVFLLAGRKRKKSKTSNYLISVDPTDLSRGGDSYIGKLRSNLMGTKFTVYDNGVNPQKASSSTLESGTLRQELAAVCYETNVLGFKGPRKMSVIVPGMNMVHERVSIRPRNEHETLLARWQNKNTESIIELQNKTPVWNDDTQSYVLNFHGRVTQASVKNFQIIHGNDPDYIVMQFGRVAEDVFTMDYNYPLCALQAFAIALSSFDSKLACE
+PTM	Methylation:266,428;Phosphorylation:451;Ubiquitylation:340,352,380,417

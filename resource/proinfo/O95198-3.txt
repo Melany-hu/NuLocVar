@@ -1,0 +1,25 @@
+UniprotID	O95198-3
+Accession	O95198;A6NCM7;B2RD18;B4DFH7;F5H6M3;Q8N484;Q8TBH5
+EntryName	KLHL2_HUMAN
+ProteinName	Kelch-like protein 2 (Actin-binding protein Mayven)
+GeneName	KLHL2
+Length	505
+Function	Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that mediates the ubiquitination of target proteins, such as NPTXR, WNK1, WNK3 and WNK4, leading most often to their proteasomal degradation (PubMed:23838290). The BCR(KLHL2) complex catalyzes ubiquitination and degradation of NPTXR (By similarity). Responsible for degradative ubiquitination of the WNK kinases WNK1, WNK3 and WNK4 (PubMed:23838290). Plays a role in the reorganization of the actin cytoskeleton (PubMed:10397770). Promotes growth of cell projections in oligodendrocyte precursors (PubMed:15715669).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection; Ruffle; Cell projection; Cell projection; Lamellipodium; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSESRAKRVRIKEVDGWTLRMLIDYVYTAEIQVTEENVQVLLPAAGLLQLQDVKKTCCEFLESQLHPVNCLGIRAFADMHACTDLLNKANTYAEQHFADVVLSEEFLNLGIEQVCSLISSDKLTISSEEKVFEAVIAWVNHDKDVRQEFMARLMEHVRLPLLPREYLVQRVEEEALVKNSSACKDYLIEAMKYHLLPTEQRILMKSVRTRLRTPMNLPKLMVVVGGQAPKAIRSVECYDFKEERWHQVAELPSRRCRAGMVYMAGLVFAVGGFNGSLRVRTVDSYDPVKDQWTSVANMRDRRSTLGAAVLNGLLYAVGGFDGSTGLSSVEAYNIKSNEWFHVAPMNTRRSSVGVGVVGGLLYAVGGYDGASRQCLSTVECYNATTNEWTYIAEMSTRRSGAGVGVLNNLLYAVGGHDGPLVRKSVEVYDPTTNAWRQVADMNMCRRNAGVCAVNGLLYVVGGDDGSCNLASVEYYNPTTDKWTVVSSCMSTGRSYAGVTVIDKPL
+PTM	Methylation:176,266,307,329;Phosphorylation:254,281;Ubiquitylation:293,329

@@ -1,0 +1,25 @@
+UniprotID	E9PPQ1
+Accession	E9PPQ1
+EntryName	E9PPQ1_HUMAN
+ProteinName	TPD52 like 1
+GeneName	TPD52L1
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAQAQGLLETEPLQGTDEDAVASADFSSMLSEEEKEELKAELVQLEDEITTLRQVLSAKERHLVEIKQKLGMNLMNELKQNFSKSWHDMQTTTAYKKTHETLSHAGQKATAAFSNVGTAISKKFGDMRNSPTFKSFEERVETTVTSLKTKVGGTNPNGGSFEEVLSSTAHASAQSLAGGSRRTKEEELQC
+PTM	

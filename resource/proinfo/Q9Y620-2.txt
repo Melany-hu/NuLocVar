@@ -1,0 +1,25 @@
+UniprotID	Q9Y620-2
+Accession	Q9Y620;F6WBS8
+EntryName	RA54B_HUMAN
+ProteinName	DNA repair and recombination protein RAD54B (EC 3.6.4.-) (RAD54 homolog B)
+GeneName	RAD54B
+Length	117
+Function	Involved in DNA repair and mitotic recombination. May play an active role in recombination processes in concert with other members of the RAD52 epistasis group.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRSAAPSQLQGNSFKKPKFIPPGRSNPGLNEEITKLNPDIKLFEGVAINNTFLPSQNDLRICSLNLPSEESTREINNRDNCSGKYCFEAPTLATLDPPHTVQTWMRRHRLVPVHYR
+PTM	Acetylation:16;Glycosylation:883;Methylation:113,150,177,226,332,399,421,442,537,589,797,810,844;Phosphorylation:14,119,121,229,486,641,761,770;SUMOylation:16,19,36,42,85,113,118,140,150,152,157,171,226,384,393,437,442,490,509,542,590,603,639,643,777,785,864,872;Ubiquitylation:252,490,589,639

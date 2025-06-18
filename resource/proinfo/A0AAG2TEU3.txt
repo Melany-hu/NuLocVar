@@ -1,0 +1,25 @@
+UniprotID	A0AAG2TEU3
+Accession	A0AAG2TEU3
+EntryName	A0AAG2TEU3_HUMAN
+ProteinName	Calnexin
+GeneName	CANX
+Length	189
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGLVLMSRAKHHAISAKLNKPFLFDTKPLIVQYEVNFQNGIECGGAYVKLLSKTPELNLDQFHDKTPYTIMFGPDKCGEDYKLHFIFRHKNPKTGIYEEKHAKRPDADLKTYFTDKKTHLYTLKSRGTNHLCFVHKEMGVSFPKTPGARHCSYPKASVLNPDNSFEILVDQSVVNSGNLLNDMTPPVNP
+PTM	

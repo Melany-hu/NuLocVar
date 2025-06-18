@@ -1,0 +1,25 @@
+UniprotID	Q2KHT4-5
+Accession	Q2KHT4;Q8N4M3;Q8NBR4;Q8NBS0;Q8NBT1;Q96LP9;Q96SI6;Q9BUY4
+EntryName	GSG1_HUMAN
+ProteinName	Germ cell-specific gene 1 protein
+GeneName	GSG1 UNQ709/PRO1360
+Length	275
+Function	May cause the redistribution of PAPOLB from the cytosol to the endoplasmic reticulum.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKMELSKAFSGQRTLLSAILSMLSLSFSTTSLLSNYWFVGTQKVPKPLCEKGLAAKCFDMPVSLDGDTNTSTQEVVQYNWETGDDRFSFRSFRSGMWLSCEETVEEPGERCRSFIELTPPAKRGLLGMVAHMMYSQVFQATVNLGPEDWRPHVWNYGWAFYMAWLSFTCCMASAVTTFNTYTRMVLEFKCKHSKSFKENPNCLPHHHQCFPRRLSSAAPTVGPLTSYHQYHNQPIHSVSEGVDFYSELRNKGFQRGASQELKEAVRSSVEEEQC
+PTM	Phosphorylation:89,124,125,127

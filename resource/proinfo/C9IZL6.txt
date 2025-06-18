@@ -1,0 +1,25 @@
+UniprotID	C9IZL6
+Accession	C9IZL6
+EntryName	C9IZL6_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 6
+GeneName	ST3GAL6
+Length	218
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGYLVAIFLSAVFLYYVLHCILWGTNVYWVAPVEMKRRNKIQPCLSKPAFASLLRFHQFHPFLCAADFRKIASLYGSDKFDLPYGMRTSAEYFRLALSKLQSCDLFDEFDKMNNGPVLGHEEEVGRRTTFRLFYPESVFSDPIHNDPNTTVILTAFKPHDLRWLLELLMGDKINTNGFWKKPALNLIYKPYQIRILDPFIIRTAAYELLHFPKVFPK
+PTM	

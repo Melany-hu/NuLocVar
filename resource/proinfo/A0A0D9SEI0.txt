@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SEI0
+Accession	A0A0D9SEI0
+EntryName	A0A0D9SEI0_HUMAN
+ProteinName	Mitochondrial transcription rescue factor 1
+GeneName	MTRES1
+Length	245
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIISAMAMASVKLLAGVLRKPDAWIGLWGVLRGTPSSYKLCTSWNRYLYFSSTKLRAPNYKTLFYNIFSLRLPGLLLSPECIFPFSVRLKSNIRSTKSTKKSLQKVDEEDSDEESHHDEMSEQEEELEDDPTVVKNYKDLEKAVQSFRYDVVLKTGLDIGRNKVEDAFYKGELRLNEEKLWKKSRTVKVGDTLDLLIGEDKEAGTETVMRILLKKVFEEKTESEKYRVVLRRWKSLKLPKKRMSK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A4FU43
+Accession	A4FU43
+EntryName	A4FU43_HUMAN
+ProteinName	PANK2 protein
+GeneName	PANK2
+Length	163
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VTGTSLGGGTFFGLCCLLTGCTTFEEALEMASRGDSTKVDKLVRDIYGGDYERFGLPGWAVASSFGNMMSKEKREAVSKEDLARATLITITNNIGSIARMCALNENINQVVFVGNFLRINTIAMRLLAYALDYWSKGQLKALFSEHEGYFGAVGALLELLKIP
+PTM	

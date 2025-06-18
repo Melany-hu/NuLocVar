@@ -1,0 +1,25 @@
+UniprotID	J3KRF8
+Accession	J3KRF8
+EntryName	J3KRF8_HUMAN
+ProteinName	Aurora kinase B
+GeneName	AURKB
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQKENSYPWPYGRQTAPSGLSTLPQRVLRKEPVTPSALVLMSRSNVQPTAAPGQKVMENSSGTPDILTRHFTIDDFEIGRPLGKDHGGVGRCSNVLPWEEGDSQRHKARKSALRAQGRAEDC
+PTM	

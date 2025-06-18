@@ -1,0 +1,25 @@
+UniprotID	G3V302
+Accession	G3V302
+EntryName	G3V302_HUMAN
+ProteinName	MYC associated factor X
+GeneName	MAX
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFWSSKGKARADQVLCSWGIHFSSSLMEDASKRKFRALEKARSSAQLQTNYPSSDNSLYTNAKGSTISAFDGGSDSSSESEPEEPQSRKKLRMEAS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	J3QR34
+Accession	J3QR34
+EntryName	J3QR34_HUMAN
+ProteinName	Cadherin 3
+GeneName	CDH3
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPRGPLASLLLLQYSWAALGKSQLCLALIMMTSLCGMARQSRKEGH
+PTM	

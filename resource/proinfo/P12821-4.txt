@@ -1,0 +1,25 @@
+UniprotID	P12821-4
+Accession	P12821;B0LPF0;B4DXI3;E7EU16;P22966;Q53YX9;Q59GY8;Q7M4L4
+EntryName	ACE_HUMAN
+ProteinName	Angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (Dipeptidyl carboxypeptidase I) (Kininase II) (CD antigen CD143) [Cleaved into: Angiotensin-converting enzyme, soluble form]
+GeneName	ACE DCP DCP1
+Length	691
+Function	Dipeptidyl carboxypeptidase that removes dipeptides from the C-terminus of a variety of circulating hormones, such as angiotensin I, bradykinin or enkephalins, thereby playing a key role in the regulation of blood pressure, electrolyte homeostasis or synaptic plasticity (PubMed:15615692, PubMed:20826823, PubMed:2558109, PubMed:4322742, PubMed:7523412, PubMed:7683654). Composed of two similar catalytic domains, each possessing a functional active site, with different selectivity for substrates (PubMed:10913258, PubMed:1320019, PubMed:1851160, PubMed:19773553, PubMed:7683654, PubMed:7876104). Plays a major role in the angiotensin-renin system that regulates blood pressure and sodium retention by the kidney by converting angiotensin I to angiotensin II, resulting in an increase of the vasoconstrictor activity of angiotensin (PubMed:11432860, PubMed:1851160, PubMed:19773553, PubMed:23056909, PubMed:4322742). Also able to inactivate bradykinin, a potent vasodilator, and therefore enhance the blood pressure response (PubMed:15615692, PubMed:2558109, PubMed:4322742, PubMed:6055465, PubMed:6270633, PubMed:7683654). Acts as a regulator of synaptic transmission by mediating cleavage of neuropeptide hormones, such as substance P, neurotensin or enkephalins (PubMed:15615692, PubMed:6208535, PubMed:6270633, PubMed:656131). Catalyzes degradation of different enkephalin neuropeptides (Met-enkephalin, Leu-enkephalin, Met-enkephalin-Arg-Phe and possibly Met-enkephalin-Arg-Gly-Leu) (PubMed:2982830, PubMed:6270633, PubMed:656131). Acts as a regulator of synaptic plasticity in the nucleus accumbens of the brain by mediating cleavage of Met-enkephalin-Arg-Phe, a strong ligand of Mu-type opioid receptor OPRM1, into Met-enkephalin (By similarity). Met-enkephalin-Arg-Phe cleavage by ACE decreases activation of OPRM1, leading to long-term synaptic potentiation of glutamate release (By similarity). Also acts as a regulator of hematopoietic stem cell differentiation by mediating degradation of hemoregulatory peptide N-acetyl-SDKP (AcSDKP) (PubMed:26403559, PubMed:7876104, PubMed:8257427, PubMed:8609242). Acts as a regulator of cannabinoid signaling pathway by mediating degradation of hemopressin, an antagonist peptide of the cannabinoid receptor CNR1 (PubMed:18077343). Involved in amyloid-beta metabolism by catalyzing degradation of Amyloid-beta protein 40 and Amyloid-beta protein 42 peptides, thereby preventing plaque formation (PubMed:11604391, PubMed:16154999, PubMed:19773553). Catalyzes cleavage of cholecystokinin (maturation of Cholecystokinin-8 and Cholecystokinin-5) and Gonadoliberin-1 (both maturation and degradation) hormones (PubMed:10336644, PubMed:2983326, PubMed:7683654, PubMed:9371719). Degradation of hemoregulatory peptide N-acetyl-SDKP (AcSDKP) and amyloid-beta proteins is mediated by the N-terminal catalytic domain, while angiotensin I and cholecystokinin cleavage is mediated by the C-terminal catalytic region (PubMed:10336644, PubMed:19773553, PubMed:7876104).
+Subcellular Location	Cell membrane; Cytoplasm; Secreted; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQGWATAGLPSLLFLLLCYGHPLLVPSQEASQQVTVTHGTSSQATTSSQTTTHQATAHQTSAQSPNLVTDEAEASKFVEEYDRTSQVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARKFDVNQLQNTTIKRIIKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCHPNGSCLQLEPDLTNVMATSRKYEDLLWAWEGWRDKAGRAILQFYPKYVELINQAARLNGYVDAGDSWRSMYETPSLEQDLERLFQELQPLYLNLHAYVRRALHRHYGAQHINLEGPIPAHLLGNMWAQTWSNIYDLVVPFPSAPSMDTTEAMLKQGWTPRRMFKEADDFFTSLGLLPVPPEFWNKSMLEKPTDGREVVCHASAWDFYNGKDFRIKQCTTVNLEDLVVAHHEMGHIQYFMQYKDLPVALREGANPGFHEAIGDVLALSVSTPKHLHSLNLLSSEGGSDEHDINFLMKMALDKIAFIPFSYLVDQWRWRVFDGSITKENYNQEWWSLRLKYQGLCPPVPRTQGDFDPGAKFHIPSSVPYIRTAMKLGFSRPWPEAMQLITGQPNMSASAMLSYFKPLLDWLRTENELHGEKLGWPQYNWTPNSARSEGPLPDSGRVSFLGLDLDAQQARVGQWLLLFLGIALLVATLGLSQRLFSIRHRSLHRHSHGPQFGSEVELRHS
+PTM	Glycosylation:111,141,146,445,452,509,690,695,710,714,816,966;Methylation:155,456,461,518,568,586,689,814,826,912;Phosphorylation:449,1034,1040,1092,1299;Ubiquitylation:689

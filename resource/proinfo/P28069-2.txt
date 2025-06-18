@@ -1,0 +1,25 @@
+UniprotID	P28069-2
+Accession	P28069;O75757;Q15132;Q15133;Q9UD34;Q9UEL3
+EntryName	PIT1_HUMAN
+ProteinName	Pituitary-specific positive transcription factor 1 (PIT-1) (Growth hormone factor 1) (GHF-1)
+GeneName	POU1F1 GHF1 PIT1
+Length	317
+Function	Transcription factor involved in the specification of the lactotrope, somatotrope, and thyrotrope phenotypes in the developing anterior pituitary. Specifically binds to the consensus sequence 5'-TAAAT-3'. Activates growth hormone and prolactin genes (PubMed:22010633, PubMed:26612202).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	238...243;237...242
+validnes_region	
+nesbase_region	
+Sequence	MSCQAFTSADTFIPLNSDASATLPLIMHHSAAECLPVSNHATNVMSTVPSILSLIQTPKCLCTHFSVTTLGNTATGLHYSVPSCHYGNQPSTYGVMAGSLTPCLYKFPDHTLSHGFPPIHQPLLAEDPTAADFKQELRRKSKLVEEPIDMDSPEIRELEKFANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTTICRFENLQLSFKNACKLKAILSKWLEEAEQVGALYNEKVGANERKRKRRTTISIAAKDALERHFGEQNKPSSQEIMRMAEELNLEKEVVRVWFCNRRQREKRVKTSLNQSLFSISKEHLECR
+PTM	Methylation:134,192,238,255;Phosphorylation:179

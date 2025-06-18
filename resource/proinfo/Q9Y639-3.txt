@@ -1,0 +1,25 @@
+UniprotID	Q9Y639-3
+Accession	Q9Y639;B2RAL7;B7Z4D3;B7ZLL2;Q17R52;Q59EJ9;Q6NVX7;Q9Y640
+EntryName	NPTN_HUMAN
+ProteinName	Neuroplastin (Stromal cell-derived receptor 1) (SDR-1)
+GeneName	NPTN SDFR1 SDR1
+Length	278
+Function	Probable homophilic and heterophilic cell adhesion molecule involved in long term potentiation at hippocampal excitatory synapses through activation of p38MAPK. May also regulate neurite outgrowth by activating the FGFR1 signaling pathway. May play a role in synaptic plasticity (By similarity). Also acts as a chaperone for ATP2B1; stabilizes ATP2B1 and increases its ATPase activity (PubMed:30190470). Promotes localization of XKR8 at the cell membrane (PubMed:27503893).
+Subcellular Location	Cell membrane; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	154...158;246...250
+validnes_region	
+nesbase_region	
+Sequence	MSGSSLPSALALSLLLVSGSLLPGPGAAQNEPRIVTSEEVIIRDSPVLPVTLQCNLTSSSHTLTYSYWTKNGVELSATRKNASNMEYRINKPRAEDSGEYHCVYHFVSAPKANATIEVKAAPDITGHKRSENKNEGQDATMYCKSVGYPHPDWIWRKKENGMPMDIVNTSGRFFIINKENYTELNIVNLQITEDPGEYECNATNAIGSASVVTVLRVRSHLAPLWPFLGILAEIIILVVIIVVYEKRKRPDEVPDAGPMKTNSTNNHKDKNLRQRNTN
+PTM	Acetylation:227,260;Glycosylation:171,197,229,276,284,317;Methylation:35,227,235,294;Phosphorylation:93,383;Ubiquitylation:196,244,249,260,364

@@ -1,0 +1,25 @@
+UniprotID	Q9UF11-3
+Accession	Q9UF11;A8K0Q5;B2RBP1;B7Z716;Q9UBF5;Q9UI37;Q9UI44
+EntryName	PKHB1_HUMAN
+ProteinName	Pleckstrin homology domain-containing family B member 1 (PH domain-containing family B member 1) (Evectin-1) (PH domain-containing protein in retina 1) (PHRET1) (Pleckstrin homology domain retinal protein 1)
+GeneName	PLEKHB1 EVT1 KPL1 PHR1 PHRET1
+Length	224
+Function	
+Subcellular Location	Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVRGGWLWRQSSILRRWKRNWFALWLDGTLGYYHDETAQDEEDRVLIHFNVRDIKIGPECHDVQPPEGRSRDGLLTVNLREGGRLHLCAETKDDALAWKTALLEANSTPAPAGATVPPRSRRVCSKVRCVTRSWSPCKVERRIWVRVYSPYQDYYEVVPPNAHEATYVRSYYGPPYAGPGVTHVIVREDPCYSAGAPLAMGMLAGAATGAALGSLMWSPCWF
+PTM	Phosphorylation:33;Ubiquitylation:76,113

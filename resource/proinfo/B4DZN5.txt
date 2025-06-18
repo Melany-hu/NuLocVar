@@ -1,0 +1,25 @@
+UniprotID	B4DZN5
+Accession	B4DZN5
+EntryName	B4DZN5_HUMAN
+ProteinName	cDNA FLJ52814, highly similar to tRNA(5-methylaminomethyl-2-thiouridylate)-methyltransferase (tRNA mitochondrial 2-thiouridylase)
+GeneName	TRMU
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNWDSLDEHGVCTADKDCEDAYRVCQILDIPFHQVSYVKEYWNDVFSDFLNEYEKGRTPNPDIVCNKHIKFSCFFHYAVDNLGADAIATGHYARTSLEDEEVFEQKHVKKPEGLFRNRFEVRNARFPRMP
+PTM	

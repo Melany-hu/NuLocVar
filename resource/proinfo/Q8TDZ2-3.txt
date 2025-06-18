@@ -1,0 +1,25 @@
+UniprotID	Q8TDZ2-3
+Accession	Q8TDZ2;B7Z3R5;E1P5F0;Q7Z633;Q8IVS9;Q96G47;Q9H6X6;Q9H7I0;Q9HAA1;Q9UFF7
+EntryName	MICA1_HUMAN
+ProteinName	[F-actin]-monooxygenase MICAL1 (EC 1.14.13.225) (EC 1.6.3.1) (Molecule interacting with CasL protein 1) (MICAL-1) (NEDD9-interacting protein with calponin homology and LIM domains)
+GeneName	MICAL1 MICAL NICAL
+Length	332
+Function	Monooxygenase that promotes depolymerization of F-actin by mediating oxidation of specific methionine residues on actin to form methionine-sulfoxide, resulting in actin filament disassembly and preventing repolymerization (PubMed:29343822). In the absence of actin, it also functions as a NADPH oxidase producing H(2)O(2) (PubMed:21864500, PubMed:26845023, PubMed:29343822). Acts as a cytoskeletal regulator that connects NEDD9 to intermediate filaments. Also acts as a negative regulator of apoptosis via its interaction with STK38 and STK38L; acts by antagonizing STK38 and STK38L activation by MST1/STK4. Involved in regulation of lamina-specific connectivity in the nervous system such as the development of lamina-restricted hippocampal connections. Through redox regulation of the actin cytoskeleton controls the intracellular distribution of secretory vesicles containing L1/neurofascin/NgCAM family proteins in neurons, thereby regulating their cell surface levels (By similarity). May act as Rab effector protein and play a role in vesicle trafficking. Promotes endosomal tubule extension by associating with RAB8 (RAB8A or RAB8B), RAB10 and GRAF (GRAF1/ARHGAP26 or GRAF2/ARHGAP10) on the endosomal membrane which may connect GRAFs to Rabs, thereby participating in neosynthesized Rab8-Rab10-Rab11-dependent protein export (PubMed:32344433).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Endosome membrane; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRLTFAPKGWPHPPTSLHPGQVTDQTTWWLFQELPTPSENSMPPGLSTPTASQEGAGPVPDPSQPTRRQIRLSSPERQRLSSLNLTPDPEMEPPPKPPRSCSALARHALESSFVGWGLPVQSPQALVAMEKEEKESPFSSEEEEEDVPLDSDVEQALQTFAKTSGTMNNYPTWRRTLLRRAKEEEMKRFCKAQTIQRRLNEIEAALRELEAEGVKLELALRRQSSSPEQQKKLWVGQLLQLVDKKNSLVAEEAELMITVQELNLEEKQWQLDQELRGYMNREENLKTAADRQAEDQVLRKLVDLVNQRDALIRFQEERRLSELALGTGAQG
+PTM	Acetylation:657;Methylation:115,118,166,275,381,951,1022,1036;Phosphorylation:156,272,475,483,613,617,622,625,628,630,641,767,809,810,817,818,822,836,847,858,872,875,876,887,902,906,908,960,961,962,1057;Ubiquitylation:488,1022

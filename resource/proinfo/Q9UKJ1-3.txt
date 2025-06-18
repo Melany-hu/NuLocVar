@@ -1,0 +1,25 @@
+UniprotID	Q9UKJ1-3
+Accession	Q9UKJ1;Q8NHI1
+EntryName	PILRA_HUMAN
+ProteinName	Paired immunoglobulin-like type 2 receptor alpha (Cell surface receptor FDF03) (Inhibitory receptor PILR-alpha)
+GeneName	PILRA
+Length	230
+Function	Paired receptors consist of highly related activating and inhibitory receptors and are widely involved in the regulation of the immune system. PILRA is thought to act as a cellular signaling inhibitory receptor by recruiting cytoplasmic phosphatases like PTPN6/SHP-1 and PTPN11/SHP-2 via their SH2 domains that block signal transduction through dephosphorylation of signaling molecules. Receptor for PIANP.
+Subcellular Location	Cell membrane; Cell membrane; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRPLLLPLLPLLLPPAFLQPSGSTGSGPSYLYGVTQPKHLSASMGGSVEIPFSFYYPWELATAPDVRISWRRGHFHRQSFYSTRPPSIHKDYVNRLFLNWTEGQKSGFLRISNLQKQDQSVYFCRVELDTRSSGRQQWQSIEGTKLSITQGQQRTKATTPAREPFQNTEEPYENIRNEGQNTDPKLNPKDDGIVYASLALSSSTSPRAPPSHRPLKSPQNETLYSVLKA
+PTM	Glycosylation:100;Methylation:263;Phosphorylation:70

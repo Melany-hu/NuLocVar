@@ -1,0 +1,25 @@
+UniprotID	O75144-3
+Accession	O75144;A8MUZ1;Q9HD18;Q9NRQ1
+EntryName	ICOSL_HUMAN
+ProteinName	ICOS ligand (B7 homolog 2) (B7-H2) (B7-like protein Gl50) (B7-related protein 1) (B7RP-1) (CD antigen CD275)
+GeneName	ICOSLG B7H2 B7RP1 ICOSL KIAA0653
+Length	185
+Function	Ligand for the T-cell-specific cell surface receptor ICOS. Acts as a costimulatory signal for T-cell proliferation and cytokine secretion (PubMed:11007762, PubMed:11023515, PubMed:30498080). Also induces B-cell proliferation and differentiation into plasma cells. Could play an important role in mediating local tissue responses to inflammatory conditions, as well as in modulating the secondary immune response by co-stimulating memory T-cell function (By similarity). In endothelial cells, required for proper neutrophil transmigration in response to chemoattractants, such as CXCL8/IL8 or N-formyl-methionyl peptides (fMLP) (PubMed:30498080).
+Subcellular Location	Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLGSPGLLFLLFSSLRAANFSVPVVSAPHSPSQDELTFTCTSINGYPRPNVYWINKTDNSLLDQALQNDTVFLNMRGLYDVVSVLRIARTPSVNIGCCIENVLLQQNLTVGSQTGNDIGERDKITENPVSTGEKNAATWSILAVLCLLVVVAVAIGWVCRDRCLQHSYAGAWAVSPETELTGHV
+PTM	Glycosylation:70,102,186;Phosphorylation:15,57;Ubiquitylation:241

@@ -1,0 +1,25 @@
+UniprotID	P18847-3
+Accession	P18847;Q5VTZ2;Q6ICQ9;Q7Z566;Q8WYM6
+EntryName	ATF3_HUMAN
+ProteinName	Cyclic AMP-dependent transcription factor ATF-3 (cAMP-dependent transcription factor ATF-3) (Activating transcription factor 3)
+GeneName	ATF3
+Length	135
+Function	This protein binds the cAMP response element (CRE) (consensus: 5'-GTGACGT-3'), a sequence present in many viral and cellular promoters. Represses transcription from promoters with ATF sites. It may repress transcription by stabilizing the binding of inhibitory cofactors at the promoter.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	86...91
+validnes_region	
+nesbase_region	
+Sequence	MMLQHPGQVSASEVSASAIVPCLSPPGSLVFEDFANLTPFVKEELRFAIQNKHLCHRMSSALESVTVSDRPLGVSITKAEVAPEEDERKKRRRERNKIAAAKCRNKKKEKTECLQKLPRPFWVQKTCIWAVDSCK
+PTM	Methylation:46,52,136;Phosphorylation:64,162;SUMOylation:42,52,78,89,120,129,139;Ubiquitylation:52,78,120,136

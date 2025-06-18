@@ -1,0 +1,25 @@
+UniprotID	H7C0P2
+Accession	H7C0P2
+EntryName	H7C0P2_HUMAN
+ProteinName	E3 ubiquitin-protein ligase Jade-2
+GeneName	JADE2
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRERSGRRAKGKKSDSKRKGCEGSKGSTEKKEKVKAGPDSVLGQLGE
+PTM	

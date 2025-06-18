@@ -1,0 +1,25 @@
+UniprotID	Q96GF1-2
+Accession	Q96GF1;A8K5C1;A9X3T8;Q8N900
+EntryName	RN185_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF185 (EC 2.3.2.27) (RING finger protein 185)
+GeneName	RNF185
+Length	136
+Function	E3 ubiquitin-protein ligase that regulates selective mitochondrial autophagy by mediating 'Lys-63'-linked polyubiquitination of BNIP1 (PubMed:21931693). Acts in the endoplasmic reticulum (ER)-associated degradation (ERAD) pathway, which targets misfolded proteins that accumulate in the endoplasmic reticulum (ER) for ubiquitination and subsequent proteasome-mediated degradation (PubMed:27485036). Protects cells from ER stress-induced apoptosis (PubMed:27485036). Responsible for the cotranslational ubiquitination and degradation of CFTR in the ERAD pathway (PubMed:24019521). Also acts as a regulator of the innate antiviral response by catalyzing 'Lys-27'-linked polyubiquitination of CGAS at 'Lys-173' and 'Lys-384', thereby promoting CGAS cyclic GMP-AMP synthase activity (PubMed:28273161). Preferentially associates with the E2 enzymes UBE2J1 and UBE2J2 (PubMed:24019521).
+Subcellular Location	Mitochondrion outer membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASKGPSASASPENSSAGGPSGSSNGAGESGGQDSTFECNICLDTAKDAVISLCGHLFCWPCLHQGFQGFGFGDGGFQMSFGIGAFPFGIFATAFNINDGRPPPAVPGTPQYVDEQFLSRLFLFVALVIMFWLLIA
+PTM	Phosphorylation:96,106;SUMOylation:80;Ubiquitylation:80,87,105

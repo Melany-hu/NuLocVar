@@ -1,0 +1,25 @@
+UniprotID	Q8N815-2
+Accession	Q8N815;Q658Q6;Q8NEP1
+EntryName	CNTD1_HUMAN
+ProteinName	Cyclin N-terminal domain-containing protein 1
+GeneName	CNTD1 CNTD
+Length	128
+Function	Plays a role in the different steps of crossover formation during meiotic recombination. Participates in the crossover differentiation step of crossover-specific recombination intermediates through its interaction with PRR19. In addition, stimulates crossover formation through the interactions with RFC3 and RFC4 and simultaneously regulates cell-cycle progression through interactions with CDC34 and subsequent ubiquitination of WEE1. May also participates in an active deselection process that destabilizes or removes excess pre-CO intermediates.
+Subcellular Location	Nucleus; Cytoplasm; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLHATCLTLLDLVYLLHEPIYESLLRASIENSTPSQLQGEKFTSVKEDFMLLAVGIIAASAFIQNHECWSQVVGHLQSITGIALASIAEFSYAILTHGVGANTPGRQQSIPPHLAARALKTVASSNT
+PTM	Methylation:171;Phosphorylation:121

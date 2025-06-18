@@ -1,0 +1,25 @@
+UniprotID	P32302-2
+Accession	P32302;Q14811
+EntryName	CXCR5_HUMAN
+ProteinName	C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1) (Monocyte-derived receptor 15) (MDR-15) (CD antigen CD185)
+GeneName	CXCR5 BLR1 MDR15
+Length	327
+Function	Cytokine receptor that binds to B-lymphocyte chemoattractant (BLC). Involved in B-cell migration into B-cell follicles of spleen and Peyer patches but not into those of mesenteric or peripheral lymph nodes. May have a regulatory function in Burkitt lymphoma (BL) lymphomagenesis and/or B-cell differentiation.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASFKAVFVPVAYSLIFLLGVIGNVLVLVILERHRQTRSSTETFLFHLAVADLLLVFILPFAVAEGSVGWVLGTFLCKTVIALHKVNFYCSSLLLACIAVDRYLAIVHAVHAYRHRRLLSIHITCGTIWLVGFLLALPEILFAKVSQGHHNNSLPRCTFSQENQAETHAWFTSRFLYHVAGFLLPMLVMGWCYVGVVHRLRQAQRRPQRQKAVRVAILVTSIFFLCWSPYHIVIFLDTLARLKAVDNTCKLNGSLPVAITMCEFLGLAHCCLNPMLYTFAGVKFRSDLSRLLTKLGCTGPASLCQLFPSWRRSSLSESENATSLTTF
+PTM	Methylation:288,339;Phosphorylation:48,358,359

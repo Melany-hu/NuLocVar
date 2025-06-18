@@ -1,0 +1,25 @@
+UniprotID	J3QRU7
+Accession	J3QRU7
+EntryName	J3QRU7_HUMAN
+ProteinName	Biogenesis of lysosomal organelles complex 1 subunit 2
+GeneName	BLOC1S2
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	CRDMFSKMATYLTGELTATSEDYKLLENMNKLTSLKYLEMKDIAINISRNLKDLNQKYAGLQPYLDQINVIEEQVAALEQAAYKLDAYSKKLGNRFYFCFDVIKTASCQHILSKHNS
+PTM	

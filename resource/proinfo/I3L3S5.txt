@@ -1,0 +1,25 @@
+UniprotID	I3L3S5
+Accession	I3L3S5
+EntryName	I3L3S5_HUMAN
+ProteinName	Trinucleotide repeat containing adaptor 6A
+GeneName	TNRC6A
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNLGSAVKVLNSQSESSALTNQQPQNNGEVQNSKNQSVNK
+PTM	

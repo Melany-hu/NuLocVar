@@ -1,0 +1,25 @@
+UniprotID	Q9Y2T4-2
+Accession	Q9Y2T4;A8MSY7;B7Z3Y1;Q7Z4V7;Q8NEC4;Q9H3G7
+EntryName	2ABG_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B gamma isoform (IMYPNO1) (PP2A subunit B isoform B55-gamma) (PP2A subunit B isoform PR55-gamma) (PP2A subunit B isoform R2-gamma) (PP2A subunit B isoform gamma)
+GeneName	PPP2R2C
+Length	447
+Function	The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSFFSKHLPIQEGQPWALKTPADIISTVEFNHTGELLATGDKGGRVVIFQREPESKNAPHSQGEYDVYSTFQSHEPEFDYLKSLEIEEKINKIKWLPQQNAAHSLLSTNDKTIKLWKITERDKRPEGYNLKDEEGKLKDLSTVTSLQVPVLKPMDLMVEVSPRRIFANGHTYHINSISVNSDCETYMSADDLRINLWHLAITDRSFNIVDIKPANMEDLTEVITASEFHPHHCNLFVYSSSKGSLRLCDMRAAALCDKHSKLFEEPEDPSNRSFFSEIISSVSDVKFSHSGRYMLTRDYLTVKVWDLNMEARPIETYQVHDYLRSKLCSLYENDCIFDKFECAWNGSDSVIMTGAYNNFFRMFDRNTKRDVTLEASRESSKPRAVLKPRRVCVGGKRRRDDISVDSLDFTKKILHTAWHPAENIIAIAATNNLYIFQDKVNSDMH
+PTM	Acetylation:84,263;Methylation:91,214,389;Phosphorylation:272,349,351;SUMOylation:91,263,288;Ubiquitylation:91,113,263

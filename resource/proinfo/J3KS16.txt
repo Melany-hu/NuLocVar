@@ -1,0 +1,25 @@
+UniprotID	J3KS16
+Accession	J3KS16
+EntryName	J3KS16_HUMAN
+ProteinName	A-kinase anchor inhibitor 1
+GeneName	AKAIN1
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVQYPRRRATAGEKPGNEPEEVKLQNASKQIVQNAILQAVQQVSQESQRREERISDNRDHIQLGVGELTKKHEKK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MTL8
+Accession	A0A0A0MTL8
+EntryName	A0A0A0MTL8_HUMAN
+ProteinName	Solute carrier family 39 member 1
+GeneName	SLC39A1
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPWGEPELLVWRPEAVASEPPVPVGLEVKLGALVLLLVLTLLCSLVPICVLRRPGANHEGSAPVPTARVHPGHGLLPGPGDGADHTGLQGAVRAVTSGGNKGSAGNSEWWAAALA
+PTM	

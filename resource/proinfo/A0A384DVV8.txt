@@ -1,0 +1,25 @@
+UniprotID	A0A384DVV8
+Accession	A0A384DVV8;A0A024R935;A0A024R946
+EntryName	A0A384DVV8_HUMAN
+ProteinName	KIAA0040
+GeneName	KIAA0040
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHYVHVHRVTTQPRNKPQTKCPSGGQSQGPRGQFLDTVLAAMCPIAMLLTADPGMPPTCLWHTPHAKHKEHLSIHLNMVPKCVHMHVTHTHTNSGSRYVGKYILLIKWSLAMYFVQGSTLSTVTKMSHGKALPDSDTYIQFPNQQGPHTPSIP
+PTM	

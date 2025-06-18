@@ -1,0 +1,25 @@
+UniprotID	P45379-11
+Accession	P45379;A2TDB9;A8K3K6;O60214;Q99596;Q99597;Q9BUF6;Q9UM96
+EntryName	TNNT2_HUMAN
+ProteinName	Troponin T, cardiac muscle (TnTc) (Cardiac muscle troponin T) (cTnT)
+GeneName	TNNT2
+Length	285
+Function	Troponin T is the tropomyosin-binding subunit of troponin, the thin filament regulatory complex which confers calcium-sensitivity to striated muscle actomyosin ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDIEEVVEEYEEEEQEEAAVEEQEEAAEEDAEAEAETEETRAEEDEEEEEAKEAEDGPMEESKPKPRSFMPNLVPPKIPDGERVDFDDIHRKRMEKDLNELQALIEAHFENRKKEEEELVSLKDRIERRRAERAEQQRIRNEREKERQNRLAEERARREEEENRRKAEDEARKKKALSNMMHFGGYIQKTERKSGKRQTEREKKKKILAERRKVLAIDHLNEDQLREKAKELWQSIYNLEAEKFDLQEKFKQQKYEINVLRNRINDNQKVSKTRGKAKVTGRWK
+PTM	Methylation:74,134,257,263;Phosphorylation:249

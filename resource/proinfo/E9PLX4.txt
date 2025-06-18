@@ -1,0 +1,25 @@
+UniprotID	E9PLX4
+Accession	E9PLX4
+EntryName	E9PLX4_HUMAN
+ProteinName	Granzyme B
+GeneName	GZMB
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQECSELQLPFYQDPPSVMLDKLSAGMAEQQAILKKSQGDHRGT
+PTM	

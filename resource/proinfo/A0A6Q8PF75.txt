@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PF75
+Accession	A0A6Q8PF75
+EntryName	A0A6Q8PF75_HUMAN
+ProteinName	D-ribitol-5-phosphate cytidylyltransferase (EC 2.7.7.40) (2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase-like protein) (Isoprenoid synthase domain-containing protein)
+GeneName	CRPPA
+Length	315
+Function	Cytidylyltransferase required for protein O-linked mannosylation. Catalyzes the formation of CDP-ribitol nucleotide sugar from D-ribitol 5-phosphate. CDP-ribitol is a substrate of FKTN during the biosynthesis of the phosphorylated O-mannosyl trisaccharide (N-acetylgalactosamine-beta-3-N-acetylglucosamine-beta-4-(phosphate-6-)mannose), a carbohydrate structure present in alpha-dystroglycan (DAG1), which is required for binding laminin G-like domain-containing extracellular proteins with high affinity. Shows activity toward other pentose phosphate sugars and mediates formation of CDP-ribulose or CDP-ribose using CTP and ribulose-5-phosphate or ribose-5-phosphate, respectively. Not involved in dolichol production.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVMKSIIQKYQHKRISLVEAGVTRHRSIFNGLKALAEDQINSKLSKPEVVIIHDAVRPFVEEGVLLKVVTAAKEHGAAGAIRPLVSTVVSPSADGCLDYSLERARHRASEMPQAFLFDVIYEAYQQVTYKRDLYAAESIIKERISQEICVVMDTEEDNKHVGHLLEEVLKSELNHVKVTSEALGHAGRHLQQIILDQCYNFVCVNVTTSDFQETQKLLSMLEESSLCILYPVVVVSVHFLDFKLVPPSQKMENLMQIREFAKEVKERNILLYGLLISYPQDDQKLQESLRQGAIIIASLIKERNSGLIGQLLIA
+PTM	

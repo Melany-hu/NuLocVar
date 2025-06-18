@@ -1,0 +1,25 @@
+UniprotID	Q9NSH0
+Accession	Q9NSH0
+EntryName	Q9NSH0_HUMAN
+ProteinName	Sorting nexin 13 (Uncharacterized protein DKFZp761E0611)
+GeneName	SNX13 DKFZp761E0611 hCG_2009798
+Length	189
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTEASLSIWGWGSLGIVLFLITFGPFVIFYLTFYILCFVGGGLVVTLLFGKTNSEKYLEQCEHSFLPPTSPGVPKCLEEMKREARTIKIDRRLTGANIIDEPLQQVIQFSLRDYVQYWYYTLSDDESFLLEIRQTLQNALIQFATRVSPCRPGWSTMAQSRLTATSASWNPVLFNKTLVSLCLLEYVI
+PTM	

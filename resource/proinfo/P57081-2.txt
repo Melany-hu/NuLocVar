@@ -1,0 +1,25 @@
+UniprotID	P57081-2
+Accession	P57081;A8KA58;B2RCA3;B4DNQ7;D3DSK3;Q9BVM5;Q9HCR3
+EntryName	WDR4_HUMAN
+ProteinName	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit WDR4 (Protein Wuho homolog) (hWH) (WD repeat-containing protein 4)
+GeneName	WDR4
+Length	411
+Function	Non-catalytic component of the METTL1-WDR4 methyltransferase complex required for the formation of N(7)-methylguanine in a subset of RNA species, such as tRNAs, mRNAs and microRNAs (miRNAs) (PubMed:12403464, PubMed:31031083, PubMed:31031084, PubMed:36599982, PubMed:36599985, PubMed:37369656). In the METTL1-WDR4 methyltransferase complex, WDR4 acts as a scaffold for tRNA-binding (PubMed:36599982, PubMed:36599985, PubMed:37369656). Required for the formation of N(7)-methylguanine at position 46 (m7G46) in a large subset of tRNAs that contain the 5'-RAGGU-3' motif within the variable loop (PubMed:12403464, PubMed:34352206, PubMed:34352207, PubMed:36599982, PubMed:36599985, PubMed:37369656). M7G46 interacts with C13-G22 in the D-loop to stabilize tRNA tertiary structure and protect tRNAs from decay (PubMed:36599982, PubMed:36599985). Also required for the formation of N(7)-methylguanine at internal sites in a subset of mRNAs (PubMed:31031084, PubMed:37379838). Also required for methylation of a specific subset of miRNAs, such as let-7 (PubMed:31031083). Independently of METTL1, also plays a role in genome stability: localizes at the DNA replication site and regulates endonucleolytic activities of FEN1 (PubMed:26751069).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	398...402;387...392
+validnes_region	
+nesbase_region	
+Sequence	MAGSVGLALCGQTLVVRGGSRFLATSIASSDDDSLFIYDCSAAEKKSQENKGEDAPLDQGSGAILASTFSKSGSYFALTDDSKRLILFRTKPWQCLSVRTVARRCTALTFIASEEKVLVADKSGDVYSFSVLEPHGCGRLELGHLSMLLDVAVSPDDRFILTADRDEKIRVSWAAAPHSIESFCLGHTEFVSRISVVPTQPGLLLSSSGDGTLRLWEYRSGRQLHCCHLASLQELVDPQAPQFAASRIAFWCQENCVALLCDGTPVVYIFQLDARRQQLVYRQQLAFQHQVWDVAFEETQGLWVLQDCQEAPLVLYRPVGDQWQSVPESTVLKKVSGVLRGNWAMLEGSAGADASFSSLYKATFDNVTSYLKKKEERLQQQLEKKQRRRSPPPGPDGHAKKMRPGEATLSC
+PTM	Methylation:122,375,385;Phosphorylation:391,409,411;SUMOylation:51,83,335,373;Ubiquitylation:243

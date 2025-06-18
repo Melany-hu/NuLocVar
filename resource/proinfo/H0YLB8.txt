@@ -1,0 +1,25 @@
+UniprotID	H0YLB8
+Accession	H0YLB8
+EntryName	H0YLB8_HUMAN
+ProteinName	GMP reductase (EC 1.7.1.7)
+GeneName	GMPR2
+Length	169
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FVKDVRKRFPQHTIMAGNVVTGEMVEELILSGADIIKVGIGPGSVCTTRKKTGVGYPQLSAVMECADAAHGLKGHIISDGGCSCPGDVAKAFGAGADFVMLGGMLAGHSESGGELIERDGKKYKLFYGMSSEMAMKKYAGGVAEYRRCGTYHPRHPRRDPLYVYLCGSS
+PTM	

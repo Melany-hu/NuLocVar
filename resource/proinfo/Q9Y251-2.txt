@@ -1,0 +1,25 @@
+UniprotID	Q9Y251-2
+Accession	Q9Y251;A9JIG7;C7F7I3;C7F7I4;E9PCA9;E9PGR1;Q53GE5;Q9UL39
+EntryName	HPSE_HUMAN
+ProteinName	Heparanase (EC 3.2.1.166) (Endo-glucoronidase) (Heparanase-1) (Hpa1) [Cleaved into: Heparanase 8 kDa subunit; Heparanase 50 kDa subunit]
+GeneName	HPSE HEP HPA HPA1 HPR1 HPSE1 HSE1
+Length	485
+Function	Endoglycosidase that cleaves heparan sulfate proteoglycans (HSPGs) into heparan sulfate side chains and core proteoglycans. Participates in extracellular matrix (ECM) degradation and remodeling. Selectively cleaves the linkage between a glucuronic acid unit and an N-sulfo glucosamine unit carrying either a 3-O-sulfo or a 6-O-sulfo group. Can also cleave the linkage between a glucuronic acid unit and an N-sulfo glucosamine unit carrying a 2-O-sulfo group, but not linkages between a glucuronic acid unit and a 2-O-sulfated iduronic acid moiety. It is essentially inactive at neutral pH but becomes active under acidic conditions such as during tumor invasion and in inflammatory processes. Facilitates cell migration associated with metastasis, wound healing and inflammation. Enhances shedding of syndecans, and increases endothelial invasion and angiogenesis in myelomas. Acts as a procoagulant by increasing the generation of activation factor X in the presence of tissue factor and activation factor VII. Increases cell adhesion to the extracellular matrix (ECM), independent of its enzymatic activity. Induces AKT1/PKB phosphorylation via lipid rafts increasing cell mobility and invasion. Heparin increases this AKT1/PKB activation. Regulates osteogenesis. Enhances angiogenesis through up-regulation of SRC-mediated activation of VEGF. Implicated in hair follicle inner root sheath differentiation and hair homeostasis.
+Subcellular Location	Lysosome membrane; Secreted; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLRSKPALPPPLMLLLLGPLGPLSPGALPRPAQAQDVVDLDFFTQEPLHLVSPSFLSVTIDANLATDPRFLILLGSPKLRTLARGLSPAYLRFGGTKTDFLIFDPKKESTFEERSYWQSQVNQDICKYGSIPPDVEEKLRLEWPYQEQLLLREHYQKKFKNSTYSKPNSFLKKADIFINGSQLGEDFIQLHKLLRKSTFKNAKLYGPDVGQPRRKTAKMLKSFLKAGGEVIDSVTWHHYYLNGRTATKEDFLNPDVLDIFISSVQKVFQVVESTRPGKKVWLGETSSAYGGGAPLLSDTFAAGFMWLDKLGLSARMGIEVVMRQVFFGAGNYHLVDENFDPLPDYWLSLLFKKLVGTKVLMASVQGSKRRKLRVYLHCTNTDNPRYKEGDLTLYAINLHNVTKYLRLPYPFSNKQVDKYLLRPLGPHGLLSKSVQLNGLTLKMVDDQTLPPLMEKPLRPGSSLGLPAFSYSFFVIRNAKVAACI
+PTM	Methylation:231,255,284,411,491,501;Phosphorylation:228,281,422,426,463;Ubiquitylation:259

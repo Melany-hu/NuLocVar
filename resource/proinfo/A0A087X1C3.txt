@@ -1,0 +1,25 @@
+UniprotID	A0A087X1C3
+Accession	A0A087X1C3
+EntryName	A0A087X1C3_HUMAN
+ProteinName	Chromosome 2 open reading frame 74
+GeneName	C2orf74
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFETTAITFFIILLICLICILLLLVVFLYKCFQGRKGKETKKVPCTDANGGVDCAAAKVVTSNPEDHERRVWCRMPGILVQRQSKEVLATPLENRRDMEAEEENQINEKQEPENAGETGQEEDDGLQKIHTSVTRTPSVVESQKRPLKGVTFSREVIVVDLGNEYPTPRSYTREHKERK
+PTM	

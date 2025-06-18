@@ -1,0 +1,25 @@
+UniprotID	Q9NYL4-2
+Accession	Q9NYL4;B4DWB7
+EntryName	FKB11_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase FKBP11 (PPIase FKBP11) (EC 5.2.1.8) (19 kDa FK506-binding protein) (19 kDa FKBP) (FKBP-19) (FK506-binding protein 11) (FKBP-11) (Rotamase)
+GeneName	FKBP11 FKBP19 UNQ336/PRO535
+Length	146
+Function	PPIases accelerate the folding of proteins during protein synthesis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLRPSLLPLHLLLLLLLSAAVCRAEAGLETESPVRTLQVETLVEPPEPCAEPAAFGDTLHIHYTGSLVDGRIIDTSLTRDPLVIELGQKQVIPGLEQSLLDMCVGEKRRAIIPSHLAYGKRGFPPSVPGTKDNLMRPPGMTSSSQ
+PTM	Methylation:90,108;Phosphorylation:33,76

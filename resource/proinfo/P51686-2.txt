@@ -1,0 +1,25 @@
+UniprotID	P51686-2
+Accession	P51686;Q4VBM3;Q549E0;Q9UQQ6
+EntryName	CCR9_HUMAN
+ProteinName	C-C chemokine receptor type 9 (C-C CKR-9) (CC-CKR-9) (CCR-9) (G-protein coupled receptor 28) (GPR-9-6) (CD antigen CDw199)
+GeneName	CCR9 GPR28
+Length	357
+Function	Receptor for chemokine SCYA25/TECK. Subsequently transduces a signal by increasing the intracellular calcium ions level.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADDYGSESTSSMEDYVNFNFTDFYCEKNNVRQFASHFLPPLYWLVFIVGALGNSLVILVYWYCTRVKTMTDMFLLNLAIADLLFLVTLPFWAIAAADQWKFQTFMCKVVNSMYKMNFYSCVLLIMCISVDRYIAIAQAMRAHTWREKRLLYSKMVCFTIWVLAAALCIPEILYSQIKEESGIAICTMVYPSDESTKLKSAVLTLKVILGFFLPFVVMACCYTIIIHTLIQAKKSSKHKALKVTITVLTVFVLSQFPYNCILLVQTIDAYAMFISNCAVSTNIDICFQVTQTIAFFHSCLNPVLYVFVGERFRRDLVKTLKNLGCISQAQWVSFTRREGSLKLSSMLLETTSGALSL
+PTM	Methylation:218,330

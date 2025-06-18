@@ -1,0 +1,25 @@
+UniprotID	H3BMR1
+Accession	H3BMR1
+EntryName	H3BMR1_HUMAN
+ProteinName	Chromosome 15 open reading frame 40
+GeneName	C15orf40
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRHLRATPNTRGSARLLCAEMPKKAGATTKGKSQSKEPERPLPPLGPVAVDPKGCVTIAIHAKPGSKQNAVTDLTAEAVNVAIAAPPSEGEANAELCRYLSKVLELRKSDVVLDKKLRDLLKIVPCKLATRTQILGLLVECSFSRL
+PTM	

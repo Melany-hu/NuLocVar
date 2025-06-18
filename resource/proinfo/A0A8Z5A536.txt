@@ -1,0 +1,25 @@
+UniprotID	A0A8Z5A536
+Accession	A0A8Z5A536
+EntryName	A0A8Z5A536_HUMAN
+ProteinName	Ragulator complex protein LAMTOR5 (Late endosomal/lysosomal adaptor and MAPK and MTOR activator 5)
+GeneName	LAMTOR5
+Length	173
+Function	
+Subcellular Location	Cytoplasm; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPGAGHLDGHRAGSPSLRQALCDGSAVMFSSKERGRCTVINFVPLEAPLRSTPRSRQVTEACGGEGRAVPLGSEPEWSVGGMEATLEQHLEDTMKNPSIVGVLCTDSQGLNLGCRGTLSDEHAGVISVLAQQAAKLTSDPTDIPVVCLESDNGNIMIQKHDGITVAVHKMAS
+PTM	

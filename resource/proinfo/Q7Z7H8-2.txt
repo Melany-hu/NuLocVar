@@ -1,0 +1,25 @@
+UniprotID	Q7Z7H8-2
+Accession	Q7Z7H8;A6NGJ4;Q96B80;Q96Q55
+EntryName	RM10_HUMAN
+ProteinName	Large ribosomal subunit protein uL10m (39S ribosomal protein L10, mitochondrial) (L10mt) (MRP-L10) (39S ribosomal protein L8, mitochondrial) (L8mt) (MRP-L8)
+GeneName	MRPL10 MRPL8 RPML8
+Length	271
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISAHCNLHLPGSSDSPASASQVAGITGRLPTLQTVRYGSKAVTRHRRVMHFQRQKLMAVTEYIPPKPAIHPSCLPSPPSPPQEEIGLIRLLRREIAAVFQDNRMIAVCQNVALSAEDKLLMRHQLRKHKILMKVFPNQVLKPFLEDSKYQNLLPLFVGHNMLLVSEEPKVKEMVRILRTVPFLPLLGGCIDDTILSRQGFINYSKLPSLPLVQGELVGGLTCLTAQTHSLLQHQPLQLTTLLDQYIREQREKDSVMSANGKPDPDTVPDS
+PTM	Methylation:132;Phosphorylation:34;SUMOylation:160

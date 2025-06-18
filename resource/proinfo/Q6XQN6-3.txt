@@ -1,0 +1,25 @@
+UniprotID	Q6XQN6-3
+Accession	Q6XQN6;A7BFI3;Q6PJL1;Q6XQN4;Q6XQN5;Q8N5E8;Q9BRG0
+EntryName	PNCB_HUMAN
+ProteinName	Nicotinate phosphoribosyltransferase (NAPRTase) (EC 6.3.4.21) (FHA-HIT-interacting protein) (Nicotinate phosphoribosyltransferase domain-containing protein 1)
+GeneName	NAPRT FHIP NAPRT1
+Length	525
+Function	Catalyzes the first step in the biosynthesis of NAD from nicotinic acid, the ATP-dependent synthesis of beta-nicotinate D-ribonucleotide from nicotinate and 5-phospho-D-ribose 1-phosphate (PubMed:17604275, PubMed:21742010, PubMed:26042198). Helps prevent cellular oxidative stress via its role in NAD biosynthesis (PubMed:17604275).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAEQDPEARAAARPLLTDLYQATMALGYWRAGRARDAAEFELFFRRCPFGGAFALAAGLRDCVRFLRAFRLRDADVQFLASVLPPDTDPAFFEHLRALDCSEVTVRALPEGSLAFPGVPLLQVSGPLLVVQLLETPLLCLVSYASLVATNAARLRLIAGPEKRLLEMGLRRAQGPDGGLTASTYSYLGGFDSSSNVLAGQLRGVPVAGTLAHSFVTSFSGSEVPPDPMLAPAAGEGPGVDLAAKAQVWLEQVCAHLGLGVQEPHPGERAAFVAYALAFPRAFQGLLDTYSVWRSGLPNFLAVALALGELGYRAVGVRLDSGDLLQQAQEIRKVFRAAAAQFQVPWLESVLIVVSNNIDEEALARLAQEGSEVNVIGIGTSVVTCPQQPSLGGVYKLVAVGGQPRMKLTEDPEKQTLPGSKAAFRLLGSDGSPLMDMLQLAEEPVPQAGQELRVWPPGAQEPCTVRPAQLCEPLPSLAESRALAQLSLSRLSPEHRRLRSPAQYQVVLSERLQALVNSLCAGQSP
+PTM	Acetylation:163;Phosphorylation:21,500,513,531,537;SUMOylation:407,414,421;Ubiquitylation:163,396,407,414,421

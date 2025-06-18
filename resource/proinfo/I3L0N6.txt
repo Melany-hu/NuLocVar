@@ -1,0 +1,25 @@
+UniprotID	I3L0N6
+Accession	I3L0N6
+EntryName	I3L0N6_HUMAN
+ProteinName	Ankyrin repeat and fibronectin type III domain containing 1
+GeneName	ANKFN1
+Length	173
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPGIPTKCAKQPHSGTAGLEEGAEAERLLFKDRHFTCSKIIGRRFACFAQRLSHRRKQSQCDLLNESTGQLPTTCSSAASNSINWNCRVKMTQQMQNLHLCQSKKHSAPSSPNAAKRLYRNLSEKLKGSHSSFDEAYFRTRTDRLSLRKTSVNFQGNEAMFEAVEQQDMDAV
+PTM	

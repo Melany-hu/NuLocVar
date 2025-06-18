@@ -1,0 +1,25 @@
+UniprotID	Q6Q8B3-2
+Accession	Q6Q8B3;Q6WHB7
+EntryName	MO2R2_HUMAN
+ProteinName	Cell surface glycoprotein CD200 receptor 2 (CD200 cell surface glycoprotein receptor-like 2) (CD200 receptor-like 2) (HuCD200R2) (CD200 cell surface glycoprotein receptor-like a) (CD200RLa) (Cell surface glycoprotein CD200 receptor 1-like) (Cell surface glycoprotein OX2 receptor 2)
+GeneName	CD200R1L CD200R2
+Length	250
+Function	May be a receptor for the CD200/OX2 cell surface glycoprotein.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGKQMTQNYSTIFAEGNISQPVLMDINAVLCCPPIALRNLIIITWEIILRGQPSCTKAYKKETNETKETNCTVERITWVSRPDQNSDLQIRPVDTTHDGYYRGIVVTPDGNFHRGYHLQVLVTPEVNLFQSRNITAVCKAVTGKPAAQISWIPEGSILATKQEYWGNGTVTVKSTCPWEGHKSTVTCHVSHLTGNKSLSVKLNSGLRTSGSPALSLLIILYVKLSLFVVILVTTGFVFFQRINHVRKVL
+PTM	Methylation:195;Phosphorylation:17,18,19,20,138,153,178,182,219,226

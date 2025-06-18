@@ -1,0 +1,25 @@
+UniprotID	F8W1I4
+Accession	F8W1I4
+EntryName	F8W1I4_HUMAN
+ProteinName	La ribonucleoprotein 4
+GeneName	LARP4
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSSSCETTRNTTGIEESTDGMILGPEDLSYQIYDVSGESNSAVSTEDLKECLKKQLEFCFSRENLSKDLYLISQMDSDQFIPIWTVANMEEIKKLTTDPDLILEVLRSSPMVQVDEKGEKVRPS
+PTM	

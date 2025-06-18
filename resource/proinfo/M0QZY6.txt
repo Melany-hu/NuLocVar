@@ -1,0 +1,25 @@
+UniprotID	M0QZY6
+Accession	M0QZY6
+EntryName	M0QZY6_HUMAN
+ProteinName	Coiled-coil domain containing 97
+GeneName	CCDC97
+Length	16
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHAVAASRLPVCSQQ
+PTM	

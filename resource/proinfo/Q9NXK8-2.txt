@@ -1,0 +1,25 @@
+UniprotID	Q9NXK8-2
+Accession	Q9NXK8;B3KSJ8;Q9H5K4
+EntryName	FXL12_HUMAN
+ProteinName	F-box/LRR-repeat protein 12 (F-box and leucine-rich repeat protein 12) (F-box protein FBL12)
+GeneName	FBXL12 FBL12
+Length	273
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex. Mediates the polyubiquitination and proteasomal degradation of CAMK1 leading to disruption of cyclin D1/CDK4 complex assembly which results in G1 cell cycle arrest in lung epithelia.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPKVMWHLLRRYMASRLHSLRMGGYLFSGSQAPQLSPALLRALGQKCPNLKRLCLHVADLSMVPITSLPSTLRTLELHSCEISMAWLHKQQDPTVLPLLECIVLDRVPAFRDEHLQGLTRFRALRSLVLGGTYRVTETGLDAGLQELSYLQRLEVLGCTLSADSTLLAISRHLRDVRKIRLTVRGLSAPGLAVLEGMPALESLCLQGPLVTPEMPSPTEILSSCLTMPKLRVLELQGLGWEGQEAEKILCKGLPHCMVIVRACPKESMDWWM
+PTM	Phosphorylation:50,52,53,187,224;SUMOylation:305;Ubiquitylation:100,105

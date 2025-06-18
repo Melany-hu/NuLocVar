@@ -1,0 +1,25 @@
+UniprotID	K7ESE7
+Accession	K7ESE7
+EntryName	K7ESE7_HUMAN
+ProteinName	Zinc finger protein 582
+GeneName	ZNF582
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLGSELFRDVAIVFSQEEWQWLAPAQRDLYRDVMLETYSNLVSLGLAVSKPDVISFLEQGKEPWMVERVVSGGLCPGAKGQRGRDAGCACCKRTEQNPGQLW
+PTM	

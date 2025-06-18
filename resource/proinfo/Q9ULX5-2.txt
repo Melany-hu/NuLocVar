@@ -1,0 +1,25 @@
+UniprotID	Q9ULX5-2
+Accession	Q9ULX5;O60633;Q7Z5V9
+EntryName	RN112_HUMAN
+ProteinName	RING finger protein 112 (EC 2.3.2.27) (Brain finger protein) (Zinc finger protein 179)
+GeneName	RNF112 BFP ZNF179
+Length	632
+Function	E3 ubiquitin-protein ligase that plays an important role in neuronal differentiation, including neurogenesis and gliogenesis, during brain development. During embryonic development initiates neuronal differentiation by inducing cell cycle arrest at the G0/G1 phase through up-regulation of cell-cycle regulatory proteins (PubMed:28684796). Plays a role not only in the fetal period during the development of the nervous system, but also in the adult brain, where it is involved in the maintenance of neural functions and protection of the nervous tissue cells from oxidative stress-induced damage. Exhibits GTPase and E3 ubiquitin-protein ligase activities. Regulates dendritic spine density and synaptic neurotransmission; its ability to hydrolyze GTP is involved in the maintenance of dendritic spine density (By similarity).
+Subcellular Location	Membrane; Membrane; Cytoplasm; Nucleus; Nucleus; Nuclear body; Nucleus; Nucleoplasm; Endosome; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle; Postsynaptic density; Perikaryon; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	17...22
+validnes_region	
+nesbase_region	
+Sequence	MPRPALSVTSFCHRLGKRERKQSFMGNSGNSWSHTPFPKLELGLGPQPMAPRELPTCSICLERLRDPISLDCGHDFCIRCFSTHRLPGCEPPCCPECRKICKQKRGLRSLGEKMKLLPQRPLPPALQETCPVRAEPLLLVRINASGGLILRMGAINRCLKHPLARDTPVCLLAVLGEQHSGKSFLLNHLLQGLPGLESGEGGRPRGGEASLQGCRWGANGLARGIWMWSHPFLLGKEGKKVAVFLVDTGDAMSPELSRETRIKLCALTTMLSSYQILSTSQELKDTDLDYLEMFVHVAEVMGKHYGMVPIQHLDLLVRDSSHPNKAGQGHVGNIFQRLSGRYPKVQELLQGKRARCCLLPAPGRRRMNQGHASPGGDTDDDFRHLLGAYVSDVLSAAPQHAKSRCQGYWNEGRAVARGDRRLLTGQQLAQEIKNLSGWMGRTGPGFTSPDEMAAQLHDLRKVEAAKREFEEYVRQQDVATKRIFSALRVLPDTMRNLLSTQKDAILARHGVALLCKGRDQTLEALEAELQATAKAFMDSYTMRFCGHLAAVGGAVGAGLMGLAGGVVGAGMAAAALAAEAGMVAAGAAVGATGAAVVGGGVGAGLAATVGCMEKEEDERLLEGDREPLLQEE
+PTM	Methylation:236,284,432,480;Phosphorylation:23,109,492,498,499,531

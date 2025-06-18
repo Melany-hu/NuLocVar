@@ -1,0 +1,25 @@
+UniprotID	P48507-2
+Accession	P48507;A8K334;D3DT45;M5A959;Q6FHC1;Q9NPX9;Q9NU74
+EntryName	GSH0_HUMAN
+ProteinName	Glutamate--cysteine ligase regulatory subunit (GCS light chain) (Gamma-ECS regulatory subunit) (Gamma-glutamylcysteine synthetase regulatory subunit) (Glutamate--cysteine ligase modifier subunit)
+GeneName	GCLM GLCLR
+Length	252
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTDSRAAKALLARARTLHLQTGNLLNWGRLRKKCPSTHSEEEFPDVLECTVSHAVEKINPDEREEMKVSAKLFIVESNSSSSTRSAVDMACSVLGVAQLDSVIIASPPIEDGVNLSLEHLQPYWEELENLVQSKKIVAIGTSDLDKTQLEQLYQWAQVKPNSNQVNLASCCVMPPDLTAFAKQFDIQLLTHNDPKELLSEASFQEALQESIPDIQAHEWVPLWLLRYSVIVKSRGIIKSKGYILQAKRRGS
+PTM	Acetylation:90,169,263;Methylation:80,169,205,255;Phosphorylation:17,104;SUMOylation:9,80,90,158;Ubiquitylation:9,34,80,90,255,263,270

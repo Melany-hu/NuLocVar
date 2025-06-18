@@ -1,0 +1,25 @@
+UniprotID	C9J911
+Accession	C9J911
+EntryName	C9J911_HUMAN
+ProteinName	Cell division cycle 45
+GeneName	CDC45
+Length	73
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVSDFRKEFYEVVQSQRVLLFVASDVDALCACKILQALGSGTFQKAWKLNRHFSPMFYFGNLQNSQNGLVPV
+PTM	

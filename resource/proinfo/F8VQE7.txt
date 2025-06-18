@@ -1,0 +1,25 @@
+UniprotID	F8VQE7
+Accession	F8VQE7
+EntryName	F8VQE7_HUMAN
+ProteinName	LETM1 domain containing 1
+GeneName	LETMD1
+Length	135
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSRVCWARSAVWGSAVTPGHFVTRRLQLGRSGLAWGAPRLFDLPCRSSKLHLSPKADVKNLMSYVVTKTKAINGKYHRFLGRHFPRFYVLYTIFMKGLQMLWADAKKARRIKTNMWKHNIKFHQLPYREMEHL
+PTM	

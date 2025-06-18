@@ -1,0 +1,25 @@
+UniprotID	Q9BZR8-2
+Accession	Q9BZR8;A8KAD0;Q96QR5;Q9BZR7
+EntryName	B2L14_HUMAN
+ProteinName	Apoptosis facilitator Bcl-2-like protein 14 (Bcl2-L-14) (Apoptosis regulator Bcl-G)
+GeneName	BCL2L14 BCLG
+Length	252
+Function	Plays a role in apoptosis.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytosol; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCSTSGCDLEEIPLDDDDLNTIEFKILAYYTRHHVFKSTPALFSPKLLRTRSLSQRGLGNCSANESWTEVSWPCRNSQSSEKAINLGKKKSSWKAFFGVVEKEDSQSTPAKVSAQGQRTLEYQDSHSQQWSRCLSNVEQCLEHEAVDPKVISIANRVAEIVYSWPPPQATQAGGFKSKEIFVTEGLSFQLQGHVPVASSSKKDEEEQILAKIVELLKYSGDQLERKDTAFIPIPLVDTSIQGFPQDGLMACI
+PTM	Methylation:102,211,217;Phosphorylation:44,52,54,152

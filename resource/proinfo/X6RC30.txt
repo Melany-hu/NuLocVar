@@ -1,0 +1,25 @@
+UniprotID	X6RC30
+Accession	X6RC30
+EntryName	X6RC30_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase MINDY (EC 3.4.19.12)
+GeneName	MINDY3
+Length	182
+Function	Hydrolase that can remove 'Lys-48'-linked conjugated ubiquitin from proteins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LPELKDAVLDQYSMWGNKFGVLLFLYSVLLTKGIENIKNEIEDASEPLIDPVYGHGSQSLINLLLTGHAVSNVWDGDRECSGMKLLGIHEQAAVGFLTLMEALRYCKVGSYLKSPKFPIWIVGSETHLTVFFAKDMALVAPEAPSEQARRVFQTYDPEDNGFIPDSLLEDVMKALDLVSDPE
+PTM	

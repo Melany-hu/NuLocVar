@@ -1,0 +1,25 @@
+UniprotID	A8MZ84
+Accession	A8MZ84
+EntryName	A8MZ84_HUMAN
+ProteinName	Leukocyte associated immunoglobulin like receptor 1
+GeneName	LAIR1
+Length	269
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEREMEDLPRPSISAEPGTVIPLGSHVTFVCRGPVGVQTFRLERDSRSTYNDTEDVSQASPSESEARFRIDSVREGNAGLYRCIYYKPPKWSEQSDYLELLVKESSGGPDSPDTEPGSSAGPTQRPSDNSHNEHAPASQGLKAEHLYILIGVSVVFLFCLLLLVLFCLHRQNQIKQGPPRSKDEEQKPQQRPDLAVDVLERTADKATVNGLPEKDRETDTSALAAGSSQEVTYAQLDHWALTQRTARAVSPQSTKPMAESITYAAVARH
+PTM	

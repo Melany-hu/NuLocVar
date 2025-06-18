@@ -1,0 +1,25 @@
+UniprotID	Q12851-2
+Accession	Q12851;Q86VU3
+EntryName	M4K2_HUMAN
+ProteinName	Mitogen-activated protein kinase kinase kinase kinase 2 (EC 2.7.11.1) (B lymphocyte serine/threonine-protein kinase) (Germinal center kinase) (GC kinase) (MAPK/ERK kinase kinase kinase 2) (MEK kinase kinase 2) (MEKKK 2) (Rab8-interacting protein)
+GeneName	MAP4K2 GCK RAB8IP
+Length	812
+Function	Serine/threonine-protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Acts as a MAPK kinase kinase kinase (MAP4K) and is an upstream activator of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway and to a lesser extent of the p38 MAPKs signaling pathway. Required for the efficient activation of JNKs by TRAF6-dependent stimuli, including pathogen-associated molecular patterns (PAMPs) such as polyinosine-polycytidine (poly(IC)), lipopolysaccharides (LPS), lipid A, peptidoglycan (PGN), or bacterial flagellin. To a lesser degree, IL-1 and engagement of CD40 also stimulate MAP4K2-mediated JNKs activation. The requirement for MAP4K2/GCK is most pronounced for LPS signaling, and extends to LPS stimulation of c-Jun phosphorylation and induction of IL-8. Enhances MAP3K1 oligomerization, which may relieve N-terminal mediated MAP3K1 autoinhibition and lead to activation following autophosphorylation. Also mediates the SAP/JNK signaling pathway and the p38 MAPKs signaling pathway through activation of the MAP3Ks MAP3K10/MLK2 and MAP3K11/MLK3. May play a role in the regulation of vesicle targeting or fusion. regulation of vesicle targeting or fusion. Activator of the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. MAP4Ks act in parallel to and are partially redundant with STK3/MST2 and STK4/MST2 in the phosphorylation and activation of LATS1/2, and establish MAP4Ks as components of the expanded Hippo pathway (PubMed:26437443).
+Subcellular Location	Cytoplasm; Basolateral cell membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLRDVSLQDPRDRFELLQRVGAGTYGDVYKARDTVTSELAAVKIVKLDPGDDISSLQQEITILRECRHPNVVAYIGSYLRNDRLWICMEFCGGGSLQEIYHATGPLEERQIAYVCREALKGLHHLHSQGKIHRDIKGANLLLTLQGDVKLADFGVSGELTASVAKRRSFIGTPYWMAPEVAAVERKGGYNELCDVWALGITAIELGELQPPLFHLHPMRALMLMSKSSFQPPKLRDKTRWTQNFHHFLKLALTKNPKKRPTAEKLLQHPFTTQQLPRALLTQLLDKASDPHLGTPSPEDCELETYDMFPDTIHSRGQHGPAERTPSEIQFHQVKFGAPRRKETDPLNEPWEEEWTLLGKEELSGSLLQSVQEALEERSLTIRSASEFQELDSPDDTMGTIKRAPFLGPLPTDPPAEEPLSSPPGPNSSPLLPTAWATMKQREDPERSSCHGLPPTPKVHMGACFSKVFNGCPLRIHAAVTWIHPVTRDQFLVVGAEEGIYTLNLHELHEDTLEKLISHRCSWLYCVNNVLLSLSGKSTHIWAHDLPGLFEQRRLQQQVPLSIPTNRLTQRIIPRRFALSTKIPDTKGCLQCRVVRNPYTGATFLLAALPTSLLLLQWYEPLQKFLLLKNFSSPLPSPAGMLEPLVLDGKELPQVCVGAEGPEGPGCRVLFHVLPLEAGLTPDILIPPEGIPGSAQQVIQVDRDTILVSFERCVRIVNMQGEPTATLAPELTFDFPIETVVCLQDSVLAFWSHGMQGRSLDTNEVTQEITDETRIFRVLGAHRDIILESIPTDNPEAHSNLYILTGHQSTY
+PTM	Methylation:45,122,288,361,403,524,546,638;Phosphorylation:8,27,170,273,298,313,326,328,365,367,385,387,394,398,401,801;SUMOylation:48,336,403;Ubiquitylation:32,591

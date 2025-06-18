@@ -1,0 +1,25 @@
+UniprotID	Q9BZL6-2
+Accession	Q9BZL6;B4DTS2;M0QZW1;M0R2R2;Q8NCK8;Q8TB08;Q9P0T6;Q9Y3X8
+EntryName	KPCD2_HUMAN
+ProteinName	Serine/threonine-protein kinase D2 (EC 2.7.11.13) (nPKC-D2)
+GeneName	PRKD2 PKD2 HSPC187
+Length	721
+Function	Serine/threonine-protein kinase that converts transient diacylglycerol (DAG) signals into prolonged physiological effects downstream of PKC, and is involved in the regulation of cell proliferation via MAPK1/3 (ERK1/2) signaling, oxidative stress-induced NF-kappa-B activation, inhibition of HDAC7 transcriptional repression, signaling downstream of T-cell antigen receptor (TCR) and cytokine production, and plays a role in Golgi membrane trafficking, angiogenesis, secretory granule release and cell adhesion (PubMed:14743217, PubMed:15604256, PubMed:16928771, PubMed:17077180, PubMed:17951978, PubMed:17962809, PubMed:18262756, PubMed:19001381, PubMed:19192391, PubMed:23503467, PubMed:28428613). May potentiate mitogenesis induced by the neuropeptide bombesin by mediating an increase in the duration of MAPK1/3 (ERK1/2) signaling, which leads to accumulation of immediate-early gene products including FOS that stimulate cell cycle progression (By similarity). In response to oxidative stress, is phosphorylated at Tyr-438 and Tyr-717 by ABL1, which leads to the activation of PRKD2 without increasing its catalytic activity, and mediates activation of NF-kappa-B (PubMed:15604256, PubMed:28428613). In response to the activation of the gastrin receptor CCKBR, is phosphorylated at Ser-244 by CSNK1D and CSNK1E, translocates to the nucleus, phosphorylates HDAC7, leading to nuclear export of HDAC7 and inhibition of HDAC7 transcriptional repression of NR4A1/NUR77 (PubMed:17962809). Upon TCR stimulation, is activated independently of ZAP70, translocates from the cytoplasm to the nucleus and is required for interleukin-2 (IL2) promoter up-regulation (PubMed:17077180). During adaptive immune responses, is required in peripheral T-lymphocytes for the production of the effector cytokines IL2 and IFNG after TCR engagement and for optimal induction of antibody responses to antigens (By similarity). In epithelial cells stimulated with lysophosphatidic acid (LPA), is activated through a PKC-dependent pathway and mediates LPA-stimulated interleukin-8 (IL8) secretion via a NF-kappa-B-dependent pathway (PubMed:16928771). During TCR-induced T-cell activation, interacts with and is activated by the tyrosine kinase LCK, which results in the activation of the NFAT transcription factors (PubMed:19192391). In the trans-Golgi network (TGN), regulates the fission of transport vesicles that are on their way to the plasma membrane and in polarized cells is involved in the transport of proteins from the TGN to the basolateral membrane (PubMed:14743217). Plays an important role in endothelial cell proliferation and migration prior to angiogenesis, partly through modulation of the expression of KDR/VEGFR2 and FGFR1, two key growth factor receptors involved in angiogenesis (PubMed:19001381). In secretory pathway, is required for the release of chromogranin-A (CHGA)-containing secretory granules from the TGN (PubMed:18262756). Downstream of PRKCA, plays important roles in angiotensin-2-induced monocyte adhesion to endothelial cells (PubMed:17951978). Plays a regulatory role in angiogenesis and tumor growth by phosphorylating a downstream mediator CIB1 isoform 2, resulting in vascular endothelial growth factor A (VEGFA) secretion (PubMed:23503467).
+Subcellular Location	Cytoplasm; Cell membrane; Nucleus; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFGLVRQGLKCDGCGLNYHKRCAFSIPNNCSGARKRRLSSTSLASGHSVRLGTSESLPCTAEELSRSTTELLPRRPPSSSSSSSASSYTGRPIELDKMLLSKVKVPHTFLIHSYTRPTVCQACKKLLKGLFRQGLQCKDCKFNCHKRCATRVPNDCLGEALINGDVPMEEATDFSEADKSALMDESEDSGVIPGSHSENALHASEEEEGEGGKAQSSLGYIPLMRVVQSVRHTTRKSSTTLREGWVVHYSNKDTLRKRHYWRLDCKCITLFQNNTTNRYYKEIPLSEILTVESAQNFSLVPPGTNPHCFEIVTANATYFVGEMPGGTPGGPSGQGAEAARGWETAIRQALMPVILQDAPSAPGHAPHRQASLSISVSNSQIQENVDIATVYQIFPDEVLGSGQFGVVYGGKHRKTGRDVAVKVIDKLRFPTKQESQLRNEVAILQSLRHPGIVNLECMFETPEKVFVVMEKLHGDMLEMILSSEKGRLPERLTKFLITQILVALRHLHFKNIVHCDLKPENVLLASADPFPQVKLCDFGFARIIGEKSFRRSVVGTPAYLAPEVLLNQGYNRSLDMWSVGVIMYVSLSGTFPFNEDEDINDQIQNAAFMYPASPWSHISAGAIDLINNLLQVKMRKRYSVDKSLSHPWLQEYQTWLDLRELEGKMGERYITHESDDARWEQFAAEHPLPGSGLPTDRDLGGACPPQDHDMQGLAERISVL
+PTM	Methylation:97,255,260,415,580,584,705,822;Phosphorylation:183,189,197,198,199,200,203,206,211,212,214,218,223,225,226,227,236,240,353,355,362,374,375,378,387,395,396,397,398,434,518,706,710,714,717,876;SUMOylation:676;Ubiquitylation:80,97,178,424,580,590,705

@@ -1,0 +1,25 @@
+UniprotID	J3KTF2
+Accession	J3KTF2
+EntryName	J3KTF2_HUMAN
+ProteinName	Dymeclin
+GeneName	DYM
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSNSSRIGDLPKNEYLKKLSGTESISENDPFWNQLLSFSFPAPTSRQSFTLVAQAGVQWHDLGSPQPLPPGIK
+PTM	

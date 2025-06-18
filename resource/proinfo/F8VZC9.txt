@@ -1,0 +1,25 @@
+UniprotID	F8VZC9
+Accession	F8VZC9
+EntryName	F8VZC9_HUMAN
+ProteinName	Zinc finger protein 606
+GeneName	ZNF606
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAINPWASWGALTDQSWGMTAVDPWASWGESRAWSAVGCHIVASGCSALPQLGNRMGTRWGFRAGGPDLSLCRAGTRRNQKTSGQAW
+PTM	

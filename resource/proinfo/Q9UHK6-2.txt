@@ -1,0 +1,25 @@
+UniprotID	Q9UHK6-2
+Accession	Q9UHK6;A5YM47;B8Y916;B8Y918;F8W9N1;O43673;Q3KT79;Q96GH1;Q9Y3Q1
+EntryName	AMACR_HUMAN
+ProteinName	Alpha-methylacyl-CoA racemase (EC 5.1.99.4) (2-methylacyl-CoA racemase)
+GeneName	AMACR
+Length	229
+Function	Catalyzes the interconversion of (R)- and (S)-stereoisomers of alpha-methyl-branched-chain fatty acyl-CoA esters (PubMed:10655068, PubMed:11060359, PubMed:7649182). Acts only on coenzyme A thioesters, not on free fatty acids, and accepts as substrates a wide range of alpha-methylacyl-CoAs, including pristanoyl-CoA, trihydroxycoprostanoyl-CoA (an intermediate in bile acid synthesis), and arylpropionic acids like the anti-inflammatory drug ibuprofen (2-(4-isobutylphenyl)propionic acid) but neither 3-methyl-branched nor linear-chain acyl-CoAs (PubMed:10655068, PubMed:11060359, PubMed:7649182).
+Subcellular Location	Peroxisome; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALQGISVVELSGLAPGPFCAMVLADFGARVVRVDRPGSRYDVSRLGRGKRSLVLDLKQPRGAAVLRRLCKRSDVLLEPFRRGVMEKLQLGPEILQRENPRLIYARLSGFGQSGSFCRLAGHDINYLALSGGRNSIFKFFSVENSEIESVGSTSRTEHVGWWSTFLYDLQDSRWGIHGCWSNRTPVLRAADQRSLIPYFNLYLQFLNISMQNLFKVHTLLRPCYFLGQK
+PTM	Acetylation:58,87;Methylation:58,246,251;Phosphorylation:260;SUMOylation:341;Ubiquitylation:87,135

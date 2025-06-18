@@ -1,0 +1,25 @@
+UniprotID	K7X1S0
+Accession	K7X1S0
+EntryName	K7X1S0_HUMAN
+ProteinName	Direct IAP-binding protein with low pI
+GeneName	DIABLO
+Length	142
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSDFYFQAVYTLTSLYRQYTSLLGKMNSEEEDEVWQVIIGARAEMTSKHQEYLKLETTWMTAVGLSEMAAEAAYQTGADQASITARNHIQLVKLQVEEVHQLSRKAETKLAEAQIEELRQKTQGEGEERAESEQEAYLRED
+PTM	

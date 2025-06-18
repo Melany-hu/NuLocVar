@@ -1,0 +1,25 @@
+UniprotID	Q9H920-2
+Accession	Q9H920;B3KSW8;Q6IA57;Q6P449;Q96DB4
+EntryName	RN121_HUMAN
+ProteinName	E3 ubiquitin ligase RNF121 (EC 2.3.2.27) (RING finger protein 121)
+GeneName	RNF121
+Length	246
+Function	E3 ubiquitin ligase which accepts ubiquitin and transfers it to substrates thereby promoting their degradation by the endoplasmic reticulum-associated degradation (ERAD) pathway which is a pathway involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins (By similarity). May regulate the unfolded protein response to reduce endoplasmic reticulum stress (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTLFQMWVVPLYFTVKLHWWRFLVIWILFSAVTAFVTFRATRKPLVQTTPRLVYKWFLLIYKISYATGIVGYMAVMFTLFGLNLLFKIKPEDAMDFGISLLFYGLYYGVLERDFAEMCADYMASTIGFYSESGMPTKHLSDSVCAVCGQQIFVDVSEEGIIENTYRLSCNHVFHEFCIRGWCIVGKKQTCPYCKEKVDLKRMFSNPWERPHVMYGQLLDWLRYLVAWQPVIIGVVQGINYILGLE
+PTM	Methylation:169,282;Ubiquitylation:125,268,276,278

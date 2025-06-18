@@ -1,0 +1,25 @@
+UniprotID	C9JRV9
+Accession	C9JRV9
+EntryName	C9JRV9_HUMAN
+ProteinName	Ubiquitin-like modifier-activating enzyme 5
+GeneName	UBA5
+Length	110
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSNIKPAKLLLFDYDKVELANMNRLFFQPHQAGLSKVQAAEHTLRNINPDVLFEVHNYNITTVENFQHFMDRISNGGLEEGKPVDLVLSCVDNFEARMTINTACNELGQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	C9JY37
+Accession	C9JY37
+EntryName	C9JY37_HUMAN
+ProteinName	WD repeat domain 49
+GeneName	WDR49
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCQKAVLELNIGSQLGPKSPERTEGVTAFEDYGTGLLENQLSVGDFVKIQKAFEIAVAFTSKEVCFYDLLSKEEFACQYKLQGLKGTPICMDYWYDPLDANESILSFGDITG
+PTM	

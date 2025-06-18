@@ -1,0 +1,25 @@
+UniprotID	B8Q177
+Accession	B8Q177
+EntryName	B8Q177_HUMAN
+ProteinName	Glycophorin B Miltenberger subtype III
+GeneName	GYPB
+Length	65
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHTSTSSSVTMSYISSQTNGETGQLVHRFTVPAPVVIILIILCVMAGIIGTILLISYSIRRLIKA
+PTM	

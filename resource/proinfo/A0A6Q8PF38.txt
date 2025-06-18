@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PF38
+Accession	A0A6Q8PF38
+EntryName	A0A6Q8PF38_HUMAN
+ProteinName	MutY DNA glycosylase
+GeneName	MUTYH
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1...5
+validnes_region	
+nesbase_region	
+Sequence	MRKPRAAVGSGHRKQAASQEGRQKHAKNNSQAKPSACDDPDAQPVQG
+PTM	

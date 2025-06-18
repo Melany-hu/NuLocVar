@@ -1,0 +1,25 @@
+UniprotID	P58400-1
+Accession	P58400;E7ETA5
+EntryName	NRX1B_HUMAN
+ProteinName	Neurexin-1-beta (Neurexin I-beta)
+GeneName	NRXN1
+Length	442
+Function	Neuronal cell surface protein involved in cell recognition and cell adhesion by forming intracellular junctions through binding to neuroligins (By similarity). Plays a role in formation of synaptic junctions (By similarity). Functions as part of a trans-synaptic complex by binding to cerebellins and postsynaptic GRID1. This interaction helps regulate the activity of NMDA and AMPA receptors at hippocampal synapses without affecting synapse formation. NRXN1B-CBLN2-GRID1 complex transduce presynaptic signals into postsynaptic NMDAR response (By similarity).
+Subcellular Location	Presynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYQRMLRCGAELGSPGGGGGGGGGGGAGGRLALLWIVPLTLSGLLGVAWGASSLGAHHIHHFHGSSKHHSVPIAIYRSPASLRGGHAGTTYIFSKGGGQITYKWPPNDRPSTRADRLAIGFSTVQKEAVLVRVDSSSGLGDYLELHIHQGKIGVKFNVGTDDIAIEESNAIINDGKYHVVRFTRSGGNATLQVDSWPVIERYPAGRQLTIFNSQATIIIGGKEQGQPFQGQLSGLYYNGLKVLNMAAENDANIAIVGNVRLVGEVPSSMTTESTATAMQSEMSTSIMETTTTLATSTARRGKPPTKEPISQTTDDILVASAECPSDDEDIDPCEPSSGGLANPTRAGGREPYPGSAEVIRESSSTTGMVVGIVAAAALCILILLYAMYKYRNRDEGSYHVDESRNYISNSAQSNGAVVKEKQPSSAKSSNKNKKNKDKEYYV
+PTM	Methylation:155,234,252;Phosphorylation:195,382,385,436,454

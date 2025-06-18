@@ -1,0 +1,25 @@
+UniprotID	Q05C13
+Accession	Q05C13
+EntryName	Q05C13_HUMAN
+ProteinName	FAM30A protein
+GeneName	FAM30A
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPLLPGGESLETQAPSFPMGTLQGAALRSRERPSWPQETHGHRERTEEGCAVAAFSADALRTGGQELEQTTGPQT
+PTM	

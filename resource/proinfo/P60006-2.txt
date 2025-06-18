@@ -1,0 +1,25 @@
+UniprotID	P60006-2
+Accession	P60006;G3V1Q3;Q9CXK2;Q9Y269
+EntryName	APC15_HUMAN
+ProteinName	Anaphase-promoting complex subunit 15 (APC15)
+GeneName	ANAPC15 C11orf51 HSPC020
+Length	125
+Function	Component of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated E3 ubiquitin ligase that controls progression through mitosis and the G1 phase of the cell cycle (PubMed:21926987). The APC/C complex catalyzes assembly of branched 'Lys-11'-/'Lys-48'-linked branched ubiquitin chains on target proteins (PubMed:29033132). In the complex, plays a role in the release of the mitotic checkpoint complex (MCC) from the APC/C: not required for APC/C activity itself, but promotes the turnover of CDC20 and MCC on the APC/C, thereby participating in the responsiveness of the spindle assembly checkpoint (PubMed:21926987). Also required for degradation of CDC20 (PubMed:21926987).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTLFPSLFPRVTETLWFNLDRPCVEETELQQQEQQHQAWLQSIAEKDNNLVPIGKPASEHYDDEEEEDDEDDEDSEEDSEDDEDMQDMDEMNDYNESPDDGEVNEPPLQVDMEGNEQDQDQWMI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7BXP2
+Accession	H7BXP2
+EntryName	H7BXP2_HUMAN
+ProteinName	Lysine methyltransferase 5B
+GeneName	KMT5B
+Length	103
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSDSFSHNNPVRFRPIKGRQEELKEVIERFKKDEHLEKAFKCLTSGEWARHYFLNKNKMQEKLFKEHRQNLALSPRLECSGLIMAHCSFHLLGSSDSSSQPPT
+PTM	

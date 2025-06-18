@@ -1,0 +1,25 @@
+UniprotID	H0YKL2
+Accession	H0YKL2
+EntryName	H0YKL2_HUMAN
+ProteinName	ER membrane protein complex subunit 4 (Transmembrane protein 85)
+GeneName	EMC4
+Length	98
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XCWDIALGPLKQIPMNLFIMYMAGNTISIFPTMMVCMMAWRPIQALMAISANVRKFKPEVSSGFGLSHWEPDGFGIGCLQVPVHGTVTYTCIGLVSLH
+PTM	

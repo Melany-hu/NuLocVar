@@ -1,0 +1,25 @@
+UniprotID	F5H2Q2
+Accession	F5H2Q2
+EntryName	F5H2Q2_HUMAN
+ProteinName	Retinol binding protein 5
+GeneName	RBP5
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPNLTGYYRFVSQKNMEDYLQALSSPHRHQLGCAEDRAAAEAGQGDRTPGQPHDGEDAQHLPKLHCAV
+PTM	

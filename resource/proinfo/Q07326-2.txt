@@ -1,0 +1,25 @@
+UniprotID	Q07326-2
+Accession	Q07326;Q8WW20
+EntryName	PIGF_HUMAN
+ProteinName	Phosphatidylinositol-glycan biosynthesis class F protein (PIG-F) (GPI11 homolog)
+GeneName	PIGF
+Length	206
+Function	Involved in GPI-anchor biosynthesis (PubMed:33386993). It acts through the transfer of ethanolamine phosphate to the third mannose of GPI.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKDNDIKRLLYTHLLCIFSIILSVFIPSLFLENFSILETHLTWLCICSGFVTAVNLVLYLVVKPNTSSKRSSLSHKVTGFLKCCIYFLMSCFSFHVIFVLYGAPLIELALETFLFAVILSTFTTVPCLCLLGPNLKAWLRVFSRNGVTSIWENSLQITTISSFVGAWLGALPIPLDWERPWQMTVERKRSTYRSLHVPCRGLGTVK
+PTM	Methylation:63

@@ -1,0 +1,25 @@
+UniprotID	H0YHH6
+Accession	H0YHH6
+EntryName	H0YHH6_HUMAN
+ProteinName	ATPase plasma membrane Ca2+ transporting 1
+GeneName	ATP2B1
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFNEINARKIHGERNVFEGIFNNAIFCTIVLGTFVVQLISTIPTSRLKFLKEAGHGTQKEEIPEEELAEDVEEIDHAERELRRGQILWFRGLNRIQTQIRVVNAFRSSLYEGLEKPESRSSIHNFMTHPEFRIEDSEPHIPLIDDTDAEDDAPTKRNSSPPP
+PTM	

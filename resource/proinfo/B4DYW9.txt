@@ -1,0 +1,25 @@
+UniprotID	B4DYW9
+Accession	B4DYW9
+EntryName	B4DYW9_HUMAN
+ProteinName	Zinc finger protein 215
+GeneName	ZNF215
+Length	181
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPLSKLMAISKPRNLSLREQREVLRADMSWQQETNPVVETHDSEASRQKFRHFQYLKVSGPHEALSQLWELCLQWLRPEIHTKKQIIELLVLEQFLAILPEEVRTWVNLQHPNNSKDMVTLIEDVIEMLEDEDMPCKDSALQMGSIKEKMKAGSRTGKPQHIYFPNHLRALSWRVRKKDG
+PTM	

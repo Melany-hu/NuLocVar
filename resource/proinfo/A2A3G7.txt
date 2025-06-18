@@ -1,0 +1,25 @@
+UniprotID	A2A3G7
+Accession	A2A3G7
+EntryName	A2A3G7_HUMAN
+ProteinName	MCF.2 cell line derived transforming sequence like
+GeneName	MCF2L
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVRRLSLLCRDLWALWLLLKAGADEIMHQDIVPLCAADIQDQLKKRFAYLSGGRGQDGSPVITFPDYPAFSEIPDKEFQNVMTYLTSIPSGGQESSIRPVSCRLTWEGCRGGLSSDVLVPASRKMLRMSASHQTV
+PTM	

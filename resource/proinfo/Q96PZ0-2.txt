@@ -1,0 +1,25 @@
+UniprotID	Q96PZ0-2
+Accession	Q96PZ0;Q75MG4;Q9NX19
+EntryName	PUS7_HUMAN
+ProteinName	Pseudouridylate synthase 7 homolog (EC 5.4.99.-)
+GeneName	PUS7 KIAA1897
+Length	667
+Function	Pseudouridylate synthase that catalyzes pseudouridylation of RNAs (PubMed:28073919, PubMed:29628141, PubMed:30778726, PubMed:31477916, PubMed:34718722, PubMed:35051350). Acts as a regulator of protein synthesis in embryonic stem cells by mediating pseudouridylation of RNA fragments derived from tRNAs (tRFs): pseudouridylated tRFs inhibit translation by targeting the translation initiation complex (PubMed:29628141). Also catalyzes pseudouridylation of mRNAs: mediates pseudouridylation of mRNAs with the consensus sequence 5'-UGUAG-3' (PubMed:28073919, PubMed:31477916, PubMed:35051350). Acts as a regulator of pre-mRNA splicing by mediating pseudouridylation of pre-mRNAs at locations associated with alternatively spliced regions (PubMed:35051350). Pseudouridylation of pre-mRNAs near splice sites directly regulates mRNA splicing and mRNA 3'-end processing (PubMed:35051350). In addition to mRNAs and tRNAs, binds other types of RNAs, such as snRNAs, Y RNAs and vault RNAs, suggesting that it can catalyze pseudouridylation of many RNA types (PubMed:29628141).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEMTEMTGVSLKRGALVVEDNDSGVPVEETKKQKLSECSLTKGQDGLQNDFLSISEDVPRPPDTVSTGKGGKNSEAQLEDEEEEEEDGLSEECEEEESESFADMMKHGLTEADVGITKFVSSHQGFSGILKERYSDFVVHEIGKDGRISHLNDLSIPVDEEDPSEDIFTVLTAEEKQRLEELQLFKNKETSVAIEVIEDTKEKRTIIHQAIKSLFPGLETKTEDREGKKYIVAYHAAGKKALAKVRTAADPRKHSWPKSRGSYCHFVLYKENKDTMDAINVLSKYLRVKPNIFSYMGTKDKRAITVQEIAVLKITAQRLAHLNKCLMNFKLGNFSYQKNPLKLGELQGNHFTVVLRNITGTDDQVQQAMNSLKEIGFINYYGMQRFGTTAVPTYQVGRAILQNSWTEVMDLILKPRSGAEKGYLVKCREEWAKTKDPTAALRKLPVKRCVEGQLLRGLSKYGMKNIVSAFGIIPRNNRLMYIHSYQSYVWNNMVSKRIEDYGLKPVPGDLVLKGATATYIEEDDVNNYSIHDVVMPLPGFDVIYPKHKIQEAYREMLTADNLDIDNMRHKIRDYSLSGAYRKIIIRPQNVSWEVVAYDDPKIPLFNTDVDNLEGKTPPVFASEGKYRALKMDFSLPPSTYATMAIREVLKMDTSIKNQTQLNTTWLR
+PTM	Acetylation:12,69,131,144,318,454,619;Methylation:31,131,201,212,239,254,307,408,450,507,540,644;Phosphorylation:4,7,10,23,36,39,41,64,66,90,134,155,200,213,249,353,355,365,374,375,455,462,495,585,601,610,648,657;SUMOylation:31,42,118,131,144,176,186,201,212,221,239,240,267,278,318,336,420,498,540,595,609,619,644;Ubiquitylation:31,118,278,318,324,332,609,619

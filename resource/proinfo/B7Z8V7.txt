@@ -1,0 +1,25 @@
+UniprotID	B7Z8V7
+Accession	B7Z8V7
+EntryName	B7Z8V7_HUMAN
+ProteinName	NAD kinase 2, mitochondrial (EC 2.7.1.23) (NAD kinase domain-containing protein 1, mitochondrial)
+GeneName	NADK2
+Length	301
+Function	Mitochondrial NAD(+) kinase that phosphorylates NAD(+) to yield NADP(+). Can use both ATP or inorganic polyphosphate as the phosphoryl donor.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLAASKVLDRLKPVIGVNTDPERSEGHLCLPVRYTHSFPEALQKFYRGEFRWLWRQRIRLYLEGTGINPVPVDLHEQQLSLNQHNRALNIERAHDERSEASGPQLLPVRALNEVFIGESLSSRMSYSWAVAVDNLRRSIPTLKGLASYYEISVDDGPWEKQKSSGLNLCTGTGSKAWSFNINRVATQAVEDVLNIAKRQGNLSLPLNRELVEKVTNEYNESLLYSPEEPKILFSIREPIANRVFSSSRQRCFSSKVCVRSRCWDACMVVDGGTSFEFNDGAIASMMINKEDELRTVLLEQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E5RGH7
+Accession	E5RGH7
+EntryName	E5RGH7_HUMAN
+ProteinName	Heparan-alpha-glucosaminide N-acetyltransferase
+GeneName	HGSNAT
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVFVNYGGGKYWYFKHASWNGLTVADLVFPWFVFIMGSSIFLSMTSILQRGCSKFRLLGKIAWRSFLLICIGIIIVNPNYCLGPLSWDKVRIPGVLQRLGVTYFVVAVLELLFAKPVPEHCASTGPSLLASSDPPALATQSAGITGEELPFSSRHHVQLAPVAAHPGAGRPVAGLDIPPASPWV
+PTM	

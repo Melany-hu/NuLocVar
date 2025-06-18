@@ -1,0 +1,25 @@
+UniprotID	O15187
+Accession	O15187
+EntryName	O15187_HUMAN
+ProteinName	T-cluster binding protein (TIA1 cytotoxic granule-associated RNA binding protein-like 1, isoform CRA_a)
+GeneName	TIAL1 hCG_40603
+Length	265
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITEHTSNDPYCFVEFYEHRDAAAALAAMNGRKILGKEVKVNWATTPSSQKKDTSNHFHVFVGDLSPEITTEDIKSAFAPFGKISDARVVKDMATGKSKGYGFVSFYNKLDAENAIVHMGGQWLGGRQIRTNWATRKPPAPKSTQENNTKQLRFEDVVNQSSPKNCTVYCGGIASGLTDQLMRQTFSPFGQIMEIRVFPEKGYSFVRFSTHESAAHAIVSVNGTTIEGHVVKCYWGKESPDMTKNFQQVIRFFIAFFKVSILHVT
+PTM	

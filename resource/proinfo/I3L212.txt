@@ -1,0 +1,25 @@
+UniprotID	I3L212
+Accession	I3L212
+EntryName	I3L212_HUMAN
+ProteinName	Coronin 7
+GeneName	CORO7
+Length	205
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQPRPHASKHRRRRGLTAAPHVTSHPRQSVPSDKQLRIFDPRTKPRASQSTQAHENSRDSRLAWMGTWEHLVSTGFNQMREREVKLWDTRFFSSALASLTLDTSLGCLVPLLDPDSGLLVLAGKGERQLYCYEVVPQQPALSPVTQCVLESVLRGAALVPRQALAVMSCEVLRVLQLSDTAIVPIGYHVPRKAVEFHEDLFPDT
+PTM	

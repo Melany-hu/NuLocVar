@@ -1,0 +1,25 @@
+UniprotID	C9J5D1
+Accession	C9J5D1
+EntryName	C9J5D1_HUMAN
+ProteinName	N-alpha-acetyltransferase 50 (EC 2.3.1.258) (N-epsilon-acetyltransferase 50) (NatE catalytic subunit)
+GeneName	NAA50
+Length	129
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKGSRIELGDVTPHNIKQLKRLNQVIFPVSYNDKFYKDVLEVGELAKLGTKMLNHVLNICEKDGTFDNIYLHVQISNESAIDFYRKFGFEIIETKKNYYKRIEPADAHVLQKNLKVPSGQNADVQKTDN
+PTM	

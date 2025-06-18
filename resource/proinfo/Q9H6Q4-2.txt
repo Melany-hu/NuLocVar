@@ -1,0 +1,25 @@
+UniprotID	Q9H6Q4-2
+Accession	Q9H6Q4;A1L385;B3KTJ3;Q53GC6;Q96S10;Q9H6J8
+EntryName	CIAO3_HUMAN
+ProteinName	Cytosolic iron-sulfur assembly component 3 (Cytosolic Fe-S cluster assembly factor NARFL) (Iron-only hydrogenase-like protein 1) (IOP1) (Nuclear prelamin A recognition factor-like protein) (Protein related to Narf)
+GeneName	CIAO3 NARFL PRN
+Length	233
+Function	Component of the cytosolic iron-sulfur protein assembly (CIA) complex, a multiprotein complex that mediates the incorporation of iron-sulfur cluster into extramitochondrial Fe/S proteins. Seems to negatively regulate the level of HIF1A expression, although this effect could be indirect.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPCYDKKLEASRPDFFNQEHQTRDVDCVLTTGEVFRLLEEEGVSLPDLEPAPLDSLCSGASAEEPTSHRGGGSGGYLEHVFRHAARELFGIHVAEVTYKPLRNKDFQEVTLEKEGQVLLHFAMAYGFRNIQNLVQRLKRGRCPYHYVEVMACPSGCLNGGGQLQAPDRPSRELLQHVERLYGMVRAEAPEDAPGVQELYTHWLQGTDSECAGRLLHTQYHAVEKASTGLGIRW
+PTM	Acetylation:40;Methylation:95,342,356;Phosphorylation:3,133,135,161,165;SUMOylation:26,29,102,250,347;Ubiquitylation:40,102,347

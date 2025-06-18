@@ -1,0 +1,25 @@
+UniprotID	Q9H6U8-3
+Accession	Q9H6U8;Q6ZMD5;Q7Z4R4;Q96GS7;Q96PB9;Q9H068
+EntryName	ALG9_HUMAN
+ProteinName	Alpha-1,2-mannosyltransferase ALG9 (EC 2.4.1.259) (EC 2.4.1.261) (Asparagine-linked glycosylation protein 9 homolog) (Disrupted in bipolar disorder protein 1) (Dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase) (Dol-P-Man:Man(8)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase)
+GeneName	ALG9 DIBD1
+Length	618
+Function	Mannosyltransferase that operates in the biosynthetic pathway of dolichol-linked oligosaccharides, the glycan precursors employed in protein asparagine (N)-glycosylation. The assembly of dolichol-linked oligosaccharides begins on the cytosolic side of the endoplasmic reticulum membrane and finishes in its lumen. The sequential addition of sugars to dolichol pyrophosphate produces dolichol-linked oligosaccharides containing fourteen sugars, including two GlcNAcs, nine mannoses and three glucoses. Once assembled, the oligosaccharide is transferred from the lipid to nascent proteins by oligosaccharyltransferases. In the lumen of the endoplasmic reticulum, catalyzes the addition of the seventh and ninth alpha-1,2-linked mannose residues to Man(6)GlcNAc(2)-PP-dolichol and Man(8)GlcNAc(2)-PP-dolichol respectively.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRGARQRLKGSGASSGDTAPAADKLRELLGSREAGGAEHRTELSGNKAGQVWAPEGSTAFKCLLSARLCAALLSNISDCDETFNYWEPTHYLIYGEGFQTWEYSPAYAIRSYAYLLLHAWPAAFHARILQTNKILVFYFLRCLLAFVSCICELYFYKAVCKKFGLHVSRMMLAFLVLSTGMFCSSSAFLPSSFCMYTTLIAMTGWYMDKTSIAVLGVAAGAILGWPFSAALGLPIAFDLLVMKHRWKSFFHWSLMALILFLVPVVVIDSYYYGKLVIAPLNIVLYNVFTPHGPDLYGTEPWYFYLINGFLNFNVAFALALLVLPLTSLMEYLLQRFHVQNLGHPYWLTLAPMYIWFIIFFIQPHKEERFLFPVYPLICLCGAVALSALQHSFLYFQKCYHFVFQRYRLEHYTVTSNWLALGTVFLFGLLSFSRSVALFRGYHGPLDLYPEFYRIATDPTIHTVPEGRPVNVCVGKEWYRFPSSFLLPDNWQLQFIPSEFRGQLPKPFAEGPLATRIVPTDMNDQNLEEPSRYIDISKCHYLVDLDTMRETPREPKYSSNKEEWISLAYRPFLDASRSSKLLRAFYVPFLSDQYTVYVNYTILKPRKAKQIRKKSGG
+PTM	Methylation:11,367,392,532;Phosphorylation:13,16,17,33,67,525,573;Ubiquitylation:26,49,63,470,500,555

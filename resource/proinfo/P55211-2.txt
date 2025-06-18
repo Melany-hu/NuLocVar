@@ -1,0 +1,25 @@
+UniprotID	P55211-2
+Accession	P55211;B4E1A3;O95348;Q53Y70;Q5JRU9;Q5UGI1;Q92852;Q9BQ62;Q9UEQ3;Q9UIJ8
+EntryName	CASP9_HUMAN
+ProteinName	Caspase-9 (CASP-9) (EC 3.4.22.62) (Apoptotic protease Mch-6) (Apoptotic protease-activating factor 3) (APAF-3) (ICE-like apoptotic protease 6) (ICE-LAP6) [Cleaved into: Caspase-9 subunit p35; Caspase-9 subunit p10]
+GeneName	CASP9 MCH6
+Length	266
+Function	Involved in the activation cascade of caspases responsible for apoptosis execution. Binding of caspase-9 to Apaf-1 leads to activation of the protease which then cleaves and activates effector caspases caspase-3 (CASP3) or caspase-7 (CASP7). Promotes DNA damage-induced apoptosis in a ABL1/c-Abl-dependent manner. Proteolytically cleaves poly(ADP-ribose) polymerase (PARP). Cleaves BIRC6 following inhibition of BIRC6-caspase binding by DIABLO/SMAC (PubMed:36758105, PubMed:36758106).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEADRRLLRRCRLRLVEELQVDQLWDALLSRELFRPHMIEDIQRAGSGSRRDQARQLIIDLETRGSQALPLFISCLEDTGQDMLASFLRTNRQAAKLSKPTLENLTPVVLRPEIRKPEVLRPETPRPVDIGSGGFGDVEQKDHGFEVASTSPEDESPGSNPEPDATPFQEGLRTFDQLDAISSLPTPSDIFVSYSTFPGFVSWRDPKSGSWYVETLDDIFEQWAHSEDLQSLLLRVANAVSVKGIYKQMPGCFNFLRKKLFFKTS
+PTM	Acetylation:100;Methylation:97,204,278;Phosphorylation:87,125,133,195,208,300,302,307,310;SUMOylation:100,117;Ubiquitylation:100,189,394,398

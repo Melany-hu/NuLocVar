@@ -1,0 +1,25 @@
+UniprotID	Q9UN36-5
+Accession	Q9UN36;B3KUE3;B4DE86;B7WP11;B7WPD5;D3DS07;D3DS10;Q567T1;Q68DW2;Q86U08;Q86U46;Q96FD3;Q96FT0;Q96JU0;Q96PN0;Q9BQH5;Q9ULH2
+EntryName	NDRG2_HUMAN
+ProteinName	Protein NDRG2 (N-myc downstream-regulated gene 2 protein) (Protein Syld709613)
+GeneName	NDRG2 KIAA1248 SYLD
+Length	341
+Function	Contributes to the regulation of the Wnt signaling pathway. Down-regulates CTNNB1-mediated transcriptional activation of target genes, such as CCND1, and may thereby act as tumor suppressor. May be involved in dendritic cell and neuron differentiation.
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Cell projection; Growth cone
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELQEVQITEEKPLLPGQTPEAAKTHSVETPYGSVTFTVYGTPKPKRPAILTYHDVGLNYKSCFQPLFQFEDMQEIIQNFVRVHVDAPGMEEGAPVFPLGYQYPSLDQLADMIPCVLQYLNFSTIIGVGVGAGAYILARYALNHPDTVEGLVLINIDPNAKGWMDWAAHKLTGLTSSIPEMILGHLFSQEELSGNSELIQKYRNIITHAPNLDNIELYWNSYNNRRDLNFERGGDITLRCPVMLVVGDQAPHEDAVMADSGGQPQLTQPGKLTEAFKYFLQGMGYMASSCMTRLSRSRTASLTSAASVDGNRSRSRTLSQSSESGTLSSGPPGHTMEVSC
+PTM	Acetylation:61;Methylation:216,247,287;Phosphorylation:20,47,51,53,55,57,217,283,284,326,328,330,332,334,335,338,344,346,348,350,352,353,355,357;SUMOylation:13;Ubiquitylation:13,302,308

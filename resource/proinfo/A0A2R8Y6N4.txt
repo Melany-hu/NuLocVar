@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y6N4
+Accession	A0A2R8Y6N4
+EntryName	A0A2R8Y6N4_HUMAN
+ProteinName	Serpin family B member 6
+GeneName	SERPINB6
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVLAEANGTFALNLLKTLGKDNSKNVFFSPMSMSCALAMVYMGAKGNTAAQMAQSFALVAQAGAQWRDVGSLQPPPPGFK
+PTM	

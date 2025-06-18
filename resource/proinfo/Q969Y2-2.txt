@@ -1,0 +1,25 @@
+UniprotID	Q969Y2-2
+Accession	Q969Y2;A6NFH1;A6NIG5;A6NKR4;A8K7B4;B7Z4V8;Q8TCY6;Q8WUW9;Q969G4;Q9BX61
+EntryName	GTPB3_HUMAN
+ProteinName	5-taurinomethyluridine-[tRNA] synthase subunit GTPB3, mitochondrial (EC 3.6.1.-) (GTP-binding protein 3) (Mitochondrial GTP-binding protein 1) (tRNA modification GTPase GTPBP3, mitochondrial)
+GeneName	GTPBP3 MTGP1
+Length	524
+Function	GTPase component of the GTPBP3-MTO1 complex that catalyzes the 5-taurinomethyluridine (taum(5)U) modification at the 34th wobble position (U34) of mitochondrial tRNAs (mt-tRNAs), which plays a role in mt-tRNA decoding and mitochondrial translation (PubMed:29390138, PubMed:33619562). Taum(5)U formation on mammalian mt-tRNA requires the presence of both GTPBP3-mediated GTPase activity and MTO1 catalytic activity (PubMed:29390138).
+Subcellular Location	Mitochondrion; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRGLWTLAAQAARGPRRLCTRRSSGAPAPGSGATIFALSSGQGRCGIAVIRTSGPASGHALRILTAPRDLPLARHASLRLLSDPRSGEPLDRALVLWFPGPQSFTGEDCVEFHVHGGPAVVSGVLQALGSVPGLRPAEAGEFTRRAFANGKLNLTEVEGLADLIHAETEAQRRQALRQLDGELGHLCRGWAETLTKALAHVEAYIDFGEDDNLEEGVLEQGGSTWWWGRKTPHISPQRLPSLSLSACLLSPTADIEVRALQVALGAHLRDARRGQRLRSGVHVVVTGPPNAGKSSLVNLLSRKPVSIVSPEPGTTRDVLETPVDLAGFPVLLSDTAGLREGVGPVEQEGVRRARERLEQADLILAMLDASDLASPSSCNFLATVVASVGAQSPSDSSQRLLLVLNKSDLLSPEGPGPGPDLPPHLLLSCLTGEGLDGLLEALRKELAAVCGDPSTDPPLLTRARHQHHLQGCLDALGHYKQSKDLALAAEALRVARGHLTRLTGGGGTEEILDIIFQDFCVGK
+PTM	Methylation:375;Phosphorylation:24,25,194;Ubiquitylation:272

@@ -1,0 +1,25 @@
+UniprotID	Q6UWW8-2
+Accession	Q6UWW8;B2Z3W9;F5H242;Q7Z6J1;Q9H6X7
+EntryName	EST3_HUMAN
+ProteinName	Carboxylesterase 3 (EC 3.1.1.1) (Liver carboxylesterase 31 homolog)
+GeneName	CES3 UNQ869/PRO1887
+Length	210
+Function	Involved in the detoxification of xenobiotics and in the activation of ester and amide prodrugs. Shows low catalytic efficiency for hydrolysis of CPT-11 (7-ethyl-10--carbonyloxycamptothecin), a prodrug for camptothecin used in cancer therapeutics.
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQMSREDMLAISTPVLTSLDVPPEMMPTVIDEYLGSNSDAQAKCQAFQEFMGDVFINVPTVSFSRYLRDSGSPVFFYEFQHRPSSFAKIKPAWVKADHGAEGAFVFGGPFLMDESSRLAFPEATEEEKQLSLTMMAQWTHFARTGDPNSKALPPWPQFNQAEQYLEINPVPRAGQKFREAWMQFWSETLPSKIQQWHQKQKNRKAQEDL
+PTM	Methylation:305,330;Phosphorylation:553

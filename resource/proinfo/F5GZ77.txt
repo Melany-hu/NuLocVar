@@ -1,0 +1,25 @@
+UniprotID	F5GZ77
+Accession	F5GZ77
+EntryName	F5GZ77_HUMAN
+ProteinName	Zinc finger protein 26
+GeneName	ZNF26
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSFRTASCWGLLSFKDISMEFTWDEWQLLDSTQKYLYRDVILENYHNLISVDGWEEWYQNNQDELESIERSYACSVLG
+PTM	

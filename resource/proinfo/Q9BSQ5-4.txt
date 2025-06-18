@@ -1,0 +1,25 @@
+UniprotID	Q9BSQ5-4
+Accession	Q9BSQ5;A4D2L4;B3KUV0;D3DVL4;E9PDJ3;F5H0E1;F5H551;Q71RE5;Q8TAT4
+EntryName	CCM2_HUMAN
+ProteinName	Cerebral cavernous malformations 2 protein (Malcavernin)
+GeneName	CCM2 C7orf22 PP10187
+Length	386
+Function	Component of the CCM signaling pathway which is a crucial regulator of heart and vessel formation and integrity. May act through the stabilization of endothelial cell junctions (By similarity). May function as a scaffold protein for MAP2K3-MAP3K3 signaling. Seems to play a major role in the modulation of MAP3K3-dependent p38 activation induced by hyperosmotic shock (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEEGKKGKKYLGQLTSIPGYLNPSSRTEILHFIDNAKRAHQLPGHLTQEHDAVLSLSAYNVKLAWRDGEDIILRVPIHDIAAVSYVRDDAAHLVVLKTAQDPGISPSQSLCAESSRGLSAGSLSESAVGPVEACCLVILAAESKVAAEELCCLLGQVFQVVYTESTIDFLDRAIFDGASTPTHHLSLHSDDSSTKVDIKETYEVEASTFCFPESVDVGGASPHSKTISESELSASATELLQDYMLTLRTKLSSQEIQQFAALLHEYRNGASIHEFCINLRQLYGDSRKFLLLGLRPFIPEKDSQHFENFLETIGVKDGRGIITDSFGRHRRALSTTSSSTTNGNRATGSSDDRSAPSEGDEWDRMISDISSDIEALGCSMDQDSA
+PTM	Methylation:6,65,156,258,375;Phosphorylation:15,27,164,166,168,174,178,181,183,238,239,241,245,248,252,253,267,280,283,285,287,289,292,305,382,384,393,394,395,396,406,408,438,443

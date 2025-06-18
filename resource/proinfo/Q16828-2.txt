@@ -1,0 +1,25 @@
+UniprotID	Q16828-2
+Accession	Q16828;O75109;Q53Y75;Q9BSH6
+EntryName	DUS6_HUMAN
+ProteinName	Dual specificity protein phosphatase 6 (EC 3.1.3.16) (EC 3.1.3.48) (Dual specificity protein phosphatase PYST1) (Mitogen-activated protein kinase phosphatase 3) (MAP kinase phosphatase 3) (MKP-3)
+GeneName	DUSP6 MKP3 PYST1
+Length	235
+Function	Inactivates MAP kinases. Has a specificity for the ERK family (PubMed:9858808). Plays an important role in alleviating chronic postoperative pain. Necessary for the normal dephosphorylation of the long-lasting phosphorylated forms of spinal MAPK1/3 and MAP kinase p38 induced by peripheral surgery, which drives the resolution of acute postoperative allodynia (By similarity). Also important for dephosphorylation of MAPK1/3 in local wound tissue, which further contributes to resolution of acute pain (By similarity). Promotes cell differentiation by regulating MAPK1/MAPK3 activity and regulating the expression of AP1 transcription factors (PubMed:29043977).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIDTLRPVPFASEMAISKTVAWLNEQLELGNERLLLMDCRPQELYESSHIESAINVAIPGIMLRRLQKGNLPVRALFTRGEDRDRFTRRCGTDTVVLYDESSSDWNENTGGESVLGLLLKKLKDEGCRAFYLEDEARGKNCGVLVHCLAGISRSVTVTVAYLMQKLNLSMNDAYDIVKMKKSNISPNFNFMGQLLDFERTLGLSSPCDNRVPAQQLYFTTPSNQNVYQVDSLQST
+PTM	Methylation:120,324;Phosphorylation:178,182,328,331,346,351;Ubiquitylation:68,123,254,256,324,327

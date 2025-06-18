@@ -1,0 +1,25 @@
+UniprotID	Q03135-2
+Accession	Q03135;Q9UGP1;Q9UNG1;Q9UQH6
+EntryName	CAV1_HUMAN
+ProteinName	Caveolin-1
+GeneName	CAV1 CAV
+Length	147
+Function	May act as a scaffolding protein within caveolar membranes (PubMed:11751885). Forms a stable heterooligomeric complex with CAV2 that targets to lipid rafts and drives caveolae formation. Mediates the recruitment of CAVIN proteins (CAVIN1/2/3/4) to the caveolae (PubMed:19262564). Interacts directly with G-protein alpha subunits and can functionally regulate their activity (By similarity). Involved in the costimulatory signal essential for T-cell receptor (TCR)-mediated T-cell activation. Its binding to DPP4 induces T-cell proliferation and NF-kappa-B activation in a T-cell receptor/CD3-dependent manner (PubMed:17287217). Recruits CTNNB1 to caveolar membranes and may regulate CTNNB1-mediated signaling through the Wnt pathway (By similarity). Negatively regulates TGFB1-mediated activation of SMAD2/3 by mediating the internalization of TGFBR1 from membrane rafts leading to its subsequent degradation (PubMed:25893292). Binds 20(S)-hydroxycholesterol (20(S)-OHC) (By similarity).
+Subcellular Location	Golgi apparatus membrane; Cell membrane; Membrane; Caveola; Membrane raft; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADELSEKQVYDAHTKEIDLVNRDPKHLNDDVVKIDFEDVIAEPEGTHSFDGIWKASFTTFTVTKYWFYRLLSALFGIPMALIWGIYFAILSFLHIWAVVPCIKSFLIEIQCISRVYSIYVHTVCDPLFEAVGKIFSNVRINLQKEI
+PTM	Acetylation:5,39,47,57;Methylation:39,57,65,86;Phosphorylation:2,6,9,14,15,25,37,42,46,78,80,95,100;SUMOylation:5,26,30,39,47;Ubiquitylation:5,26,30,39,47,57,65

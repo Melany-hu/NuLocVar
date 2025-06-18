@@ -1,0 +1,25 @@
+UniprotID	V9GYI2
+Accession	V9GYI2
+EntryName	V9GYI2_HUMAN
+ProteinName	Uncharacterized protein C1orf109
+GeneName	C1orf109
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTQDRPLLAVQEALKKCFPVVEEQQGLWQSALRDCQPLLSSLSNLAEQLQAAQNLRFEDVPALRAFPDLKERLRRKQLVAGDIVLDKLGERLAILLKVRDMVSSHVERVFQIY
+PTM	

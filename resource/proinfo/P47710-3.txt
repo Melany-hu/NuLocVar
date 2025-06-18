@@ -1,0 +1,25 @@
+UniprotID	P47710-3
+Accession	P47710;A1A510;A1A511;E9PB60;Q4PNR5
+EntryName	CASA1_HUMAN
+ProteinName	Alpha-S1-casein [Cleaved into: Casoxin-D]
+GeneName	CSN1S1 CASA CSN1
+Length	177
+Function	Important role in the capacity of milk to transport calcium phosphate.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLILTCLVAVALARPKLPLRYPERLQNPSESSEPIPLESREEYMNGMNRQRNILREKQTDEIKNCVVAEPEKMESSISSSSEEMSLSKCAEQFCRLNEYNQLQLQAAHAQEQIRRMNENSHVQVPFQQLNQLAAYPYAVWYYPQIMQYVPFPPFSDISNPTAHENYEKNNVMLQW
+PTM	Glycosylation:69;Methylation:65;Phosphorylation:41,89,91,95

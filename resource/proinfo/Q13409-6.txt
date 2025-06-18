@@ -1,0 +1,25 @@
+UniprotID	Q13409-6
+Accession	Q13409;B7ZA04;D3DPD4;D3DPD5;D3DPD6;Q32LY9;Q53S84;Q5BJF8;Q7Z4X1;Q96NG7;Q96S87;Q9BXZ5;Q9NT58
+EntryName	DC1I2_HUMAN
+ProteinName	Cytoplasmic dynein 1 intermediate chain 2 (Cytoplasmic dynein intermediate chain 2) (Dynein intermediate chain 2, cytosolic) (DH IC-2)
+GeneName	DYNC1I2 DNCI2 DNCIC2
+Length	611
+Function	Acts as one of several non-catalytic accessory components of the cytoplasmic dynein 1 complex that are thought to be involved in linking dynein to cargos and to adapter proteins that regulate dynein function (PubMed:31079899). Cytoplasmic dynein 1 acts as a motor for the intracellular retrograde motility of vesicles and organelles along microtubules (PubMed:31079899). The intermediate chains mediate the binding of dynein to dynactin via its 150 kDa component (p150-glued) DCTN1 (By similarity). Involved in membrane-transport, such as Golgi apparatus, late endosomes and lysosomes (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDKSELKAELERKKQRLAQIREEKKRKEEERKKKETDQKKEAVAPVQEESDLEKKRREAEALLQSMGLTPESPIVPPPMSPSSKSVSTPSEAGSQDSGDGAVGSRRGPIKLGMAKITQVDFPPREIVTYTKETQTPVMAQPKEDEEEDDDVVAPKPPIEPEEEKTLKKDEENDSKAPPHELTEEEKQQILHSEEFLSFFDHSTRIVERALSEQINIFFDYSGRDLEDKEGEIQAGAKLSLNRQFFDERWSKHRVVSCLDWSSQYPELLVASYNNNEDAPHEPDGVALVWNMKYKKTTPEYVFHCQSAVMSATFAKFHPNLVVGGTYSGQIVLWDNRSNKRTPVQRTPLSAAAHTHPVYCVNVVGTQNAHNLISISTDGKICSWSLDMLSHPQDSMELVHKQSKAVAVTSMSFPVGDVNNFVVGSEEGSVYTACRHGSKAGISEMFEGHQGPITGIHCHAAVGAVDFSHLFVTSSFDWTVKLWTTKNNKPLYSFEDNADYVYDVMWSPTHPALFACVDGMGRLDLWNLNNDTEVPTASISVEGNPALNRVRWTHSGREIAVGDSEGQIVIYDVGEIAVPRNDEWARFGRTLAEINANRADAEEEAATRIPA
+PTM	Acetylation:4,8,25,55;Methylation:55,56,137,158,182,191,213,255,264,269;Phosphorylation:2,51,70,73,78,80,87,89,90,92,94,95,97,101,104,111,127,129,162,201,209,238,634;SUMOylation:169;Ubiquitylation:8,182,255,427

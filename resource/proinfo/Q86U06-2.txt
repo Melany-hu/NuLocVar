@@ -1,0 +1,25 @@
+UniprotID	Q86U06-2
+Accession	Q86U06;D3DS32;Q8ND16;Q8TB88;Q8WY40;Q9BUJ1;Q9NVV7
+EntryName	RBM23_HUMAN
+ProteinName	Probable RNA-binding protein 23 (CAPER beta) (CAPERbeta) (RNA-binding motif protein 23) (RNA-binding region-containing protein 4) (Splicing factor SF2)
+GeneName	RBM23 RNPC4 PP239
+Length	423
+Function	RNA-binding protein that acts both as a transcription coactivator and pre-mRNA splicing factor (PubMed:15694343). Regulates steroid hormone receptor-mediated transcription, independently of the pre-mRNA splicing factor activity (PubMed:15694343).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASDDFDIVIEAMLEAPYKKEEDEQQRKEVKKDYPSNTTSSTSNSGNETSGSSTIGETSNRSRDRDRYRRRNSRSRSPGRQCRHRSRSWDRRHGSESRSRDHRREDRVHYRSPPLATGYRYGHSKSPHFREKSPVREPVDNLSPEERDARTVFCMQLAARIRPRDLEDFFSAVGKVRDVRIISDRNSRRSKGIAYVEFCEIQSVPLAIGLTGQRLLGVPIIVQASQAEKNRLAAMANNLQKGNGGPMRLYVGSLHFNITEDMLRGIFEPFGKIDNIVLMKDSDTGRSKGYGFITFSDSECARRALEQLNGFELAGRPMRVGHVTERLDGGTDITFPDGDQELDLGSAGGRFQLMAKLAEGAGIQLPSTAAAAAAAAAQAAALQLNGAVPLGALNPAALTALSPALNLASQCFQLSSLFTPQTM
+PTM	Methylation:191,257;Phosphorylation:45,104,126,128,137,140,142,149,159,340,347,350;SUMOylation:19,20,141,191,245,257;Ubiquitylation:32,207,245

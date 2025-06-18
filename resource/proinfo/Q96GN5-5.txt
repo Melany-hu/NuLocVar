@@ -1,0 +1,25 @@
+UniprotID	Q96GN5-5
+Accession	Q96GN5;A4D141;A6NF50;B3KTR5;B4DUT3;C9K0Y1;Q6PIL4;Q86YT0;Q8IXN5;Q96C70;Q9H9A2;Q9NPV2
+EntryName	CDA7L_HUMAN
+ProteinName	Cell division cycle-associated 7-like protein (Protein JPO2) (Transcription factor RAM2)
+GeneName	CDCA7L HR1 JPO2 R1
+Length	408
+Function	Plays a role in transcriptional regulation as a repressor that inhibits monoamine oxidase A (MAOA) activity and gene expression by binding to the promoter. Plays an important oncogenic role in mediating the full transforming effect of MYC in medulloblastoma cells. Involved in apoptotic signaling pathways; May act downstream of P38-kinase and BCL-2, but upstream of CASP3/caspase-3 as well as CCND1/cyclin D1 and E2F1.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELATRYQIPKEVADIFNAPSDDEEFVGFRDDVPMETLSSEESCDSFDSLESGKQVVESDLSDDGKASLVSEEEEDEEEDKATPRRSRSRRSSIGLRVAFQFPTKKLANKPDKNSSSEQLFSSARLQNEKKTILERKKDCRQVIQREDSTSESEDDSRDESQESSDALLKRTMNIKENKAMLAQLLAELNSMPDFFPVRTPTSASRKKTVRRAFSEGQITRRMNPTRSARPPEKFALENFTVSAAKFAEEFYSFRRRKTIGGKCREYRRRHRISSFRPVEDITEEDLENVAITVRDKIYDKVLGNTCHQCRQKTIDTKTVCRNQGCCGVRGQFCGPCLRNRYGEDVRSALLDPDWVCPPCRGICNCSYCRKRDGRCATGILIHLAKFYGYDNVKEYLESLQKELVEDN
+PTM	Acetylation:63,151,156,159;Methylation:216,292,309,417;Phosphorylation:21,39,52,77,79,81,96,105,108,114,117,129,135,138,139,161,162,168,195,196,197,199,246,248,249,251,261,320,321;SUMOylation:151,152,156,159,176,177,222,225,280,292,309,343,347,364,432;Ubiquitylation:63,151,159,222,280,309,347,364,440,448

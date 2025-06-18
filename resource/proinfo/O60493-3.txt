@@ -1,0 +1,25 @@
+UniprotID	O60493-3
+Accession	O60493;A8K0B1;E1P5E4;E1P5E5;O60718;Q4TT29;Q4TT31;Q5JXJ7;Q5JXJ8;Q96AP9;Q9C0J5;Q9NU45
+EntryName	SNX3_HUMAN
+ProteinName	Sorting nexin-3 (Protein SDP3)
+GeneName	SNX3
+Length	113
+Function	Phosphoinositide-binding protein required for multivesicular body formation. Specifically binds phosphatidylinositol 3-phosphate (PtdIns(P3)). Can also bind phosphatidylinositol 4-phosphate (PtdIns(P4)), phosphatidylinositol 5-phosphate (PtdIns(P5)) and phosphatidylinositol 3,5-biphosphate (PtdIns(3,5)P2) (By similarity). Plays a role in protein transport between cellular compartments. Together with RAB7A facilitates endosome membrane association of the retromer cargo-selective subcomplex (CSC/VPS). May in part act as component of the SNX3-retromer complex which mediates the retrograde endosome-to-TGN transport of WLS distinct from the SNX-BAR retromer pathway (PubMed:21725319, PubMed:24344282, PubMed:30213940). Promotes stability and cell surface expression of epithelial sodium channel (ENAC) subunits SCNN1A and SCNN1G (By similarity). Not involved in EGFR degradation. Involved in the regulation of phagocytosis in dendritic cells possibly by regulating EEA1 recruitment to the nascent phagosomes (PubMed:23237080). Involved in iron homeostasis through regulation of endocytic recycling of the transferrin receptor TFRC presumably by delivering the transferrin:transferrin receptor complex to recycling endosomes; the function may involve the CSC retromer subcomplex (By similarity). In the case of Salmonella enterica infection plays arole in maturation of the Salmonella-containing vacuole (SCV) and promotes recruitment of LAMP1 to SCVs (PubMed:20482551).
+Subcellular Location	Early endosome; Cytoplasmic vesicle; Phagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAETVADTRRLITKPQNLNDAYGPPSNFLEIDVSNPQTVGVGRGRFTTYEIRVKTNLPIFKLKESTVRRRYSDFEWLRSELERESKPCLRMTSEARSHGRTWCAQNDEKLFCD
+PTM	Acetylation:158;Methylation:14,43,45,61,128;Phosphorylation:26,71,72,153,154,155,157;SUMOylation:14,61,86,95,119,128;Ubiquitylation:14,54,61,63,86,95,119,128

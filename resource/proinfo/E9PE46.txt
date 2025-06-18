@@ -1,0 +1,25 @@
+UniprotID	E9PE46
+Accession	E9PE46
+EntryName	E9PE46_HUMAN
+ProteinName	Zinc finger protein 738
+GeneName	ZNF738
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDLRYGVYPVKGASGYPGAERNLLEYSYFEKGPLTFRDVVIEFSQEEWQCLDTAQQDLYRKVMLENFRNLVFLGIDVSKPDLITCLEQGKDPWNMKRHSMVATPPDGVSLLFPRPE
+PTM	

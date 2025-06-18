@@ -1,0 +1,25 @@
+UniprotID	A6PVJ6
+Accession	A6PVJ6
+EntryName	A6PVJ6_HUMAN
+ProteinName	RANBP2-type and C3HC4-type zinc finger containing 1
+GeneName	RBCK1
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEKTKKAEEMALSLTRAVAGGDEQVAMKCAIWLAEQRVPLSVQLKPEVSPTQDIRFLMVQNGHSSSIQPSHHRRKGRKTPLHTLLKSIAQKLYTLLPLIPVDQN
+PTM	

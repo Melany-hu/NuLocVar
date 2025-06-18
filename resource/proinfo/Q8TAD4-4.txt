@@ -1,0 +1,25 @@
+UniprotID	Q8TAD4-4
+Accession	Q8TAD4;B7ZM89;Q6UX54;Q7L4M4;Q8TDG3;Q9BVY8;Q9H9H1
+EntryName	ZNT5_HUMAN
+ProteinName	Proton-coupled zinc antiporter SLC30A5 (Solute carrier family 30 member 5) (Zinc transporter 5) (ZnT-5) (ZnT-like transporter 1) (hZTL1)
+GeneName	SLC30A5 ZNT5 ZNTL1 ZTL1 UNQ863/PRO1879
+Length	77
+Function	Together with SLC30A6 forms a functional proton-coupled zinc ion antiporter mediating zinc entry into the lumen of organelles along the secretory pathway (PubMed:11904301, PubMed:15525635, PubMed:15994300, PubMed:19366695, PubMed:22529353). By contributing to zinc ion homeostasis within the early secretory pathway, regulates the activation and folding of enzymes like alkaline phosphatases and enzymes involved in phosphatidylinositol glycan anchor biosynthesis (PubMed:15525635, PubMed:15994300, PubMed:16636052, PubMed:35525268). Through the transport of zinc into secretory granules of pancreatic beta-cells, plays an important role in the storage and secretion of insulin (PubMed:11904301).
+Subcellular Location	Golgi apparatus; Golgi stack membrane; Cytoplasmic vesicle; COPII-coated vesicle membrane; Cytoplasmic vesicle; Secretory vesicle membrane; Golgi apparatus; trans-Golgi network membrane; Endoplasmic reticulum membrane; Cell membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEKYGGDVLAGPGGGGGLGPVDVPSARTAFFMVLFQKPFSSGKTITKHQIIGSLKIPGRKEFKDKKLNDPRKLVGN
+PTM	Methylation:55,235,658,666,715,728;Phosphorylation:228,364,377,378,763;Ubiquitylation:89,226,235,371,404,759

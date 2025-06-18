@@ -1,0 +1,25 @@
+UniprotID	P09914-2
+Accession	P09914;B3KS50;D3DR31;Q5T7J1;Q96QM5
+EntryName	IFIT1_HUMAN
+ProteinName	Interferon-induced protein with tetratricopeptide repeats 1 (IFIT-1) (Interferon-induced 56 kDa protein) (IFI-56K) (P56)
+GeneName	IFIT1 G10P1 IFI56 IFNAI1 ISG56
+Length	447
+Function	Interferon-induced antiviral RNA-binding protein that specifically binds single-stranded RNA bearing a 5'-triphosphate group (PPP-RNA), thereby acting as a sensor of viral single-stranded RNAs and inhibiting expression of viral messenger RNAs. Single-stranded PPP-RNAs, which lack 2'-O-methylation of the 5' cap and bear a 5'-triphosphate group instead, are specific from viruses, providing a molecular signature to distinguish between self and non-self mRNAs by the host during viral infection. Directly binds PPP-RNA in a non-sequence-specific manner. Viruses evolved several ways to evade this restriction system such as encoding their own 2'-O-methylase for their mRNAs or by stealing host cap containing the 2'-O-methylation (cap snatching mechanism). Exhibits antiviral activity against several viruses including human papilloma and hepatitis C viruses.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDLENRVLDQIEFLDTKYSVGIHNLLAYVKHLKGQNEEALKSLKEAENLMQEEHDNQANVRSLVTWGNFAWMYYHMGRLAEAQTYLDKVENICKKLSNPFRYRMECPEIDCEEGWALLKCGGKNYERAKACFEKVLEVDPENPESSAGYAISAYRLDGFKLATKNHKPFSLLPLRQAVRLNPDNGYIKVLLALKLQDEGQEAEGEKYIEEALANMSSQTYVFRYAAKFYRRKGSVDKALELLKKALQETPTSVLLHHQIGLCYKAQMIQIKEATKGQPRGQNREKLDKMIRSAIFHFESAVEKKPTFEVAHLDLARMYIEAGNHRKAEENFQKLLCMKPVVEETMQDIHFHYGRFQEFQKKSDVNAIIHYLKAIKIEQASLTRDKSINSLKKLVLRKLRRKALDLESLSLLGFVYKLEGNMNEALEYYERALRLAADFENSVRQGP
+PTM	Acetylation:259,275,335,423;Methylation:62,73,126,151,226,275,423,429,448;Phosphorylation:2,3,256,266,324,412,414,418;SUMOylation:336,407;Ubiquitylation:73,259,303,407

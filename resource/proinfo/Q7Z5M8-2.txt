@@ -1,0 +1,25 @@
+UniprotID	Q7Z5M8-2
+Accession	Q7Z5M8;Q3KNR9;Q3KNS0;Q7Z5M6;Q7Z5M7;Q8N4D2
+EntryName	AB12B_HUMAN
+ProteinName	Protein ABHD12B (EC 3.-.-.-) (Abhydrolase domain-containing protein 12B) (Alpha/beta hydrolase domain-containing protein 12B)
+GeneName	ABHD12B C14orf29
+Length	285
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAQDCQAAASPEPPGPPARSCVAAWWDMVDRNLRHTVPSCRGEDAKGKDCCWYEAALRDGNPIIVYLHGSAEHRAASHRLKLVKVLSDGGFHVLSVDYRGFGDSTGKPTEEGLTTDAICVYEWTKARSGITPVCLWGHSLGTGVATNAAKVLEEKGCPVDAIVLEAPFTNMWVASINYPLLKIYRNIPGFLRTLMDALRKDKIIFPNDENVKFLSSPLLILHGEDDRTVPLEYGKKLYEIARNAYRNKERVKMVIFPPGFQHNLLCKSPTLLITVRDFLSKQWS
+PTM	Methylation:87,290;Phosphorylation:40,271

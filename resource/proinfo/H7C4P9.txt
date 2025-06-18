@@ -1,0 +1,25 @@
+UniprotID	H7C4P9
+Accession	H7C4P9
+EntryName	H7C4P9_HUMAN
+ProteinName	Phosphodiesterase 6B
+GeneName	PDE6B
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TLNIYQNLNRRQHEHVIHLMDIAIIATDLALYFKKRAMFQKIVDESKNYQDKKSWVEYLSLETTRKEIVMAMMMTACDLSAITKPWEVQSKVALLVAAEFWEQGDLERTVLDQQPIPMMDRNKAAELPKLQVGFIDFVCTFVYK
+PTM	

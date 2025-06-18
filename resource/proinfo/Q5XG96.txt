@@ -1,0 +1,25 @@
+UniprotID	Q5XG96
+Accession	Q5XG96
+EntryName	Q5XG96_HUMAN
+ProteinName	PMS1 homolog 1, mismatch repair system component (PMS1 protein)
+GeneName	PMS1
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQLPAATVRLLSSSQIITSVVSVVKELIENSLDAGATSVDVKLENYGFDKIEVRDNGEGIKAVDAPVMAMKYYTSKINSHEDLENLTTYGFRGEALGSICCIAEVLITTRTAADNFSTQYVLDGSGHILSQKPSHLGQGSHSVTQAGLQWHHLGSLQPLPPRLK
+PTM	

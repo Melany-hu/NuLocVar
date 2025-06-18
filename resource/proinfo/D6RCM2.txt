@@ -1,0 +1,25 @@
+UniprotID	D6RCM2
+Accession	D6RCM2
+EntryName	D6RCM2_HUMAN
+ProteinName	Mitochondrial ribosomal protein S18C
+GeneName	MRPS18C hCG_2027585
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVVAVCGGLGRKKLTHLVTAAVSLTHPGTHTVLWRRGCSQQVSSNEDLLLSQFVSPFTGCIYGRHITGLCGKKQKEITKAIKRAQIMGFMPVTYKDPAYLKDPKVCNIRYRE
+PTM	

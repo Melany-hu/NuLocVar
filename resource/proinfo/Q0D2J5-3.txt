@@ -1,0 +1,25 @@
+UniprotID	Q0D2J5-3
+Accession	Q0D2J5;B3KRU3;B4DRE7
+EntryName	ZN763_HUMAN
+ProteinName	Zinc finger protein 763
+GeneName	ZNF763
+Length	272
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNIRGDIGHKAYEYQDYAPKPYKCQQPKKAFRYHPSFRTQERNHTGEKPYACKECGKTFISHSGIRRRMVMHSGDGPYKCKFCGKAVHCLRLYLIHERTHTGEKPYECKQCVKSFSYSATHRIHERTHTGEKPYECQQCGKAFHSSSSFQAHKRTHTGGKPYECKQCGKSFSWCHSFQIHERTHTGEKPCECSKCNKAFRSYRSYLRHKRSHTGEKPYQCKECRKAFTYPSSLRRHERTHSAKKPYECKQCGKALSYKFSNTPKNALWRKTL
+PTM	Methylation:75;Phosphorylation:29,36,180,183,185,200,215,223,251;SUMOylation:287,371

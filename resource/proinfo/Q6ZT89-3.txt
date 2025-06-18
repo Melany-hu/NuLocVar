@@ -1,0 +1,25 @@
+UniprotID	Q6ZT89-3
+Accession	Q6ZT89;Q8TAV9
+EntryName	S2548_HUMAN
+ProteinName	Solute carrier family 25 member 48
+GeneName	SLC25A48
+Length	157
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSFQLEDFAAGWIGGAASVIVGHPLDTVKTRLQAGVGYGNTLSCIRVVYRRESMFGFFKGMSFPLASIAVYNSVVFGVFSNTQRFLSQHRCGEPEASPPRTLSDLLLASMVAGVVSVGLGGPVDLIKIRLQMQTQPFRDGGEHRMTTVFPGPHLCM
+PTM	Methylation:60,128,241;Phosphorylation:44,250,254;Ubiquitylation:146

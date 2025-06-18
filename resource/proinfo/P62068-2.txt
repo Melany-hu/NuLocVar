@@ -1,0 +1,25 @@
+UniprotID	P62068-2
+Accession	P62068;B7Z3Y7;B7Z675;B7Z7S3;G8ACC7;Q80V95;Q9H7U4;Q9H9T8
+EntryName	UBP46_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 46 (EC 3.4.19.12) (Deubiquitinating enzyme 46) (Ubiquitin thioesterase 46) (Ubiquitin-specific-processing protease 46)
+GeneName	USP46
+Length	225
+Function	Deubiquitinating enzyme that plays a role in behavior, possibly by regulating GABA action. May act by mediating the deubiquitination of GAD1/GAD67 (By similarity). Has almost no deubiquitinating activity by itself and requires the interaction with WDR48 to have a high activity (PubMed:19075014, PubMed:26388029). Not involved in deubiquitination of monoubiquitinated FANCD2 (PubMed:19075014).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQDAHEFLNYLLNTIADILQEEKKQEKQNGKLKNGNMNEPAENNKPELTWVHEIFQGTLTNETRCLNCETVSSKDEDFLDLSVDVEQNTSITHCLRDFSNTETLCSEQKYYCETCCSKQEAQKRMRVKKLPMILALHLKRFKYMEQLHRYTKLSYRVVFPLELRLFNTSSDAVNLDRMYDLVAVVVHCGSGPNRGHYITIVKSHGFWLLFDDDIVEVGLQIILQ
+PTM	Methylation:21,256,334;Ubiquitylation:91,269

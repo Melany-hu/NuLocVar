@@ -1,0 +1,25 @@
+UniprotID	C9J250
+Accession	C9J250
+EntryName	C9J250_HUMAN
+ProteinName	RNA binding motif protein 6
+GeneName	RBM6
+Length	119
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIAGKSSSLLTLQKGNGLSTPGKLTGSDGVCFFCSDRKLVDKEDIDTSSKGGCVQQATGWRKGTGLGYGHPGLASSEEAEGRMRGPSVGASGRTSKRQSNETYRDAVRRVMFARYKELD
+PTM	

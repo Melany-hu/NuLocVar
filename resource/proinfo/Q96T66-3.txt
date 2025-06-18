@@ -1,0 +1,25 @@
+UniprotID	Q96T66-3
+Accession	Q96T66;B3KVR6;D3DNF2;D3DNF3;Q8N4G1
+EntryName	NMNA3_HUMAN
+ProteinName	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3 (NMN/NaMN adenylyltransferase 3) (Nicotinamide-nucleotide adenylyltransferase 3) (NMN adenylyltransferase 3) (Nicotinate-nucleotide adenylyltransferase 3) (NaMN adenylyltransferase 3) (EC 2.7.7.18) (Pyridine nucleotide adenylyltransferase 3) (PNAT-3) (EC 2.7.7.1)
+GeneName	NMNAT3 FKSG76
+Length	163
+Function	Catalyzes the formation of NAD(+) from nicotinamide mononucleotide (NMN) and ATP. Can also use the deamidated form; nicotinic acid mononucleotide (NaMN) as substrate with the same efficiency. Can use triazofurin monophosphate (TrMP) as substrate. Can also use GTP and ITP as nucleotide donors. Also catalyzes the reverse reaction, i.e. the pyrophosphorolytic cleavage of NAD(+). For the pyrophosphorolytic activity, can use NAD(+), NADH, NaAD, nicotinic acid adenine dinucleotide phosphate (NHD), nicotinamide guanine dinucleotide (NGD) as substrates. Fails to cleave phosphorylated dinucleotides NADP(+), NADPH and NaADP(+). Protects against axonal degeneration following injury.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSRIPVVLLACGSFNPITNMHLRMFEVARDHLHQTAVPELKLLCGADVLKTFQTPNLWKDAHIQEIVEKFGLVCVGRVGHDPKGYIAESPILRMHQHNIHLAKEPVQNEISATYIRRALGQGQSVKYLIPDAVITYIKDHGLYTKGSTWKGKSTQSTEGKTS
+PTM	Methylation:140,159;Phosphorylation:52

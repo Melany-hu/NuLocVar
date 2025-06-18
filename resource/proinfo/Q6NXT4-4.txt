@@ -1,0 +1,25 @@
+UniprotID	Q6NXT4-4
+Accession	Q6NXT4;A5YM45;B7Z901;Q8N5C9;Q96NC3
+EntryName	ZNT6_HUMAN
+ProteinName	Zinc transporter 6 (ZnT-6) (Solute carrier family 30 member 6)
+GeneName	SLC30A6 ZNT6
+Length	432
+Function	Has probably no intrinsic transporter activity but together with SLC30A5 forms a functional zinc ion:proton antiporter heterodimer, mediating zinc entry into the lumen of organelles along the secretory pathway (PubMed:15994300, PubMed:19366695, PubMed:19759014). As part of that zinc ion:proton antiporter, contributes to zinc ion homeostasis within the early secretory pathway and regulates the activation and folding of enzymes like alkaline phosphatases and enzymes involved in phosphatidylinositol glycan anchor biosynthesis (PubMed:15994300, PubMed:19759014, PubMed:35525268).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWKILLFGVINLICTGFLLMWCSSTNSIALTAYTYLTIFDLFSLMTCLISYWVTLRKPSPVYSFGFERLEVLAVFASTVLAQLGALFILKESAERFLEQPEIHTGRLLVGTFVALCFNLFTMLSIRNKPFAYVSEAASTSWLQEHVADLSRSLCGIIPGLSSIFLPRMNPFVLIDLAGAFALCITYMLIEINNYFAVDTASAIAIALMTFGTMYPMSVYSGKVLLQTTPPHVIGQLDKLIREVSTLDGVLEVRNEHFWTLGFGSLAGSVHVRIRRDANEQMVLAHVTNRLYTLVSTLTVQIFKDDWIRPALLSGPVAANVLNFSDHHVIPMPLLKGTDDLNPVTSTPAKPSSPPPEFSFNTPGKNVNPVILLNTQTRPYGFGLNHGHTPYSSMLNQGLGVPGIGATQGLRTGFTNIPSRYGTNNRIGQPRP
+PTM	Methylation:87;Phosphorylation:180,374,376,381,382,388,391;Ubiquitylation:17,158,268,379

@@ -1,0 +1,25 @@
+UniprotID	D6RF36
+Accession	D6RF36
+EntryName	D6RF36_HUMAN
+ProteinName	Protein tyrosine phosphatase non-receptor type 20
+GeneName	PTPN20
+Length	62
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTARGPFRRDRWSSEDEEAAGPSQALSPLLSVFHSPVEGHCVASRFWQLWIKVLQIFTNFV
+PTM	

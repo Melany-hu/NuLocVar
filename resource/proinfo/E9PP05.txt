@@ -1,0 +1,25 @@
+UniprotID	E9PP05
+Accession	E9PP05
+EntryName	E9PP05_HUMAN
+ProteinName	Leucine zipper protein 2
+GeneName	LUZP2
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFSPAHYLLPLLPALVLSTRQDYEELEKQLKEVFKERSTILRQLTKTSRELDGIKVNLQSLKNDEQSAKTDVQKLLELGQKQREEMKSLQEALQNQLKETSEKAEKHQATINFLKTEVERKSKMIRDLQNEAQQLTDLEQKLAVAKNELEKAALDRESQMKAMKETVQLCLTSVF
+PTM	

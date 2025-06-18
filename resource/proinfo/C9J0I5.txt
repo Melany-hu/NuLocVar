@@ -1,0 +1,25 @@
+UniprotID	C9J0I5
+Accession	C9J0I5
+EntryName	C9J0I5_HUMAN
+ProteinName	Solute carrier family 12 member 9
+GeneName	SLC12A9
+Length	156
+Function	
+Subcellular Location	Cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNFASVFAVLFNGCTGIMAGANMSGELKDPSRAIPLGTIVAVAYTFFVYVLLFFLSSFTCDRTLLQEDYGFFRAISLWPPLVLIGIYATALSASMSSLIGASRILHALARDDLFGVILAPAKVVSRGGNPWAAVLYSWGLVQLVLLAGKLNTLAAV
+PTM	

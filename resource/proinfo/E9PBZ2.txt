@@ -1,0 +1,25 @@
+UniprotID	E9PBZ2
+Accession	E9PBZ2
+EntryName	E9PBZ2_HUMAN
+ProteinName	15-hydroxyprostaglandin dehydrogenase [NAD(+)] (EC 1.1.1.141) (EC 1.1.1.232) (Eicosanoid/docosanoid dehydrogenase [NAD(+)]) (Prostaglandin dehydrogenase 1)
+GeneName	HPGD
+Length	176
+Function	Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression. Converts resolvins E1, D1 and D2 to their oxo products, which represents a mode of resolvin inactivation. Resolvin E1 plays important roles during the resolution phase of acute inflammation, while resolvins D1 and D2 have a unique role in obesity-induced adipose inflammation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHVNGKVALVTGAAQGIGRAFAEALLLKGAKVALVDWNLEAGVQCKAALDEQFEPQKTLFIQCDVADQQQLRDTFRKVVDHFGRLDILVNNAGVNNEKNWEKTLQINLVSVISGTYLGLDYMSKQNGGEGGIIINMSSLAGISSVCRHLKTWLAEVLPSSAGSSQGYFRTAGFLFL
+PTM	

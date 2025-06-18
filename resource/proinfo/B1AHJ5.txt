@@ -1,0 +1,25 @@
+UniprotID	B1AHJ5
+Accession	B1AHJ5
+EntryName	B1AHJ5_HUMAN
+ProteinName	Protein-tyrosine sulfotransferase (EC 2.8.2.20)
+GeneName	TPST2
+Length	168
+Function	Catalyzes the O-sulfation of tyrosine residues within acidic motifs of polypeptides, using 3'-phosphoadenylyl sulfate (PAPS) as cosubstrate.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DFLGIAWSDAVLHHEDLIGKPGGVSLSKIERSTDQVIKPVNLEALSKWTGHIPGDVVRDMAQIAPMLAQLGYDPYANPPNYGNPDPFVINNTQRVSVHLYLWKCTLGDMGLLQMWKLQPPEEMFSLSIPGHLICSCLMDTVNYMIACISILLGLQGSSKPTGSLSLIL
+PTM	

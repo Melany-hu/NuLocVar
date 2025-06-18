@@ -1,0 +1,25 @@
+UniprotID	A0A0D9SG58
+Accession	A0A0D9SG58
+EntryName	A0A0D9SG58_HUMAN
+ProteinName	Myocyte enhancer factor 2C
+GeneName	MEF2C
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AKSPPPMNLGMNNRKPDLRVLIPPGSKNTMPSVSEDVDLLLNQRINNSQSAQSLATPVVSVATPTLPGQGMGGYPSAISTTYGTEYSLSSADLSSLSGFNTASALHLGSVTGWQQQHLHNMPPSALSQLGPYHHPFEIPTTHAPRGGEISC
+PTM	

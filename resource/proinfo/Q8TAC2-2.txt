@@ -1,0 +1,25 @@
+UniprotID	Q8TAC2-2
+Accession	Q8TAC2;M0QX25
+EntryName	JOS2_HUMAN
+ProteinName	Josephin-2 (EC 3.4.19.12) (Josephin domain-containing protein 2)
+GeneName	JOSD2 SBBI54
+Length	146
+Function	Cleaves 'Lys-63'-linked poly-ubiquitin chains, and with lesser efficiency 'Lys-48'-linked poly-ubiquitin chains (in vitro). May act as a deubiquitinating enzyme.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQAPGAQPSPPTVYHERQRLELCAVHALNNVLQQQLFSQEAADEICKRPLSQLALPQVLGLILNLPSPVSLGLLSLPLRRRHWVALRQVDGVYYNLDSKLRAPEALGDEDGVRAFLAAALAQGLCEVLLVVTKEVEEKGSWLRTD
+PTM	Phosphorylation:118

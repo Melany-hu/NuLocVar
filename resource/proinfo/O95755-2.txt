@@ -1,0 +1,25 @@
+UniprotID	O95755-2
+Accession	O95755;Q2M390;Q7Z4A9;Q9UHP5
+EntryName	RAB36_HUMAN
+ProteinName	Ras-related protein Rab-36 (EC 3.6.5.2)
+GeneName	RAB36
+Length	245
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSSLTPLGPPVSRDRVIASFPKWYTPEACLQLREHFHGQVSAACQRRNTGTVGFCKNVFDRDYKATIGVDFEIERFEIAGIPYSLQIWDTAGQEKFKCIASAYYRGAQVIITAFDLTDVQTLEHTRQWLEDALRENEAGSCFIFLVGTKKDLLSGAACEQAEADAVHLAREMQAEYWSVSAKTGENVKAFFSRVAALAFEQSVLQDLERQSSARLQVGNGDLIQMEGSPPETQESKRPSSLGCC
+PTM	Methylation:277;Phosphorylation:61

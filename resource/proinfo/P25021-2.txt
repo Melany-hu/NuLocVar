@@ -1,0 +1,25 @@
+UniprotID	P25021-2
+Accession	P25021;B5BUP7;Q14464;Q7Z5R9
+EntryName	HRH2_HUMAN
+ProteinName	Histamine H2 receptor (H2R) (HH2R) (Gastric receptor I)
+GeneName	HRH2
+Length	397
+Function	The H2 subclass of histamine receptors mediates gastric acid secretion. Also appears to regulate gastrointestinal motility and intestinal secretion. Possible role in regulating cell growth and differentiation. The activity of this receptor is mediated by G proteins which activate adenylyl cyclase and, through a separate G protein-dependent mechanism, the phosphoinositide/protein kinase (PKC) signaling pathway (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPNGTASSFCLDSTACKITITVVLAVLILITVAGNVVVCLAVGLNRRLRNLTNCFIVSLAITDLLLGLLVLPFSAIYQLSCKWSFGKVFCNIYTSLDVMLCTASILNLFMISLDRYCAVMDPLRYPVLVTPVRVAISLVLIWVISITLSFLSIHLGWNSRNETSKGNHTTSKCKVQVNEVYGLVDGLVTFYLPLLIMCITYYRIFKVARDQAKRINHISSWKAATIREHKATVTLAAVMGAFIICWFPYFTAFVYRGLRGDDAINEVLEAIVLWLGYANSALNPILYAALNRDFRTGYQQLFCCRLANRNSHKTSLRSNASQLSRTQSREPRQQEEKPLKLQVWSGTEVTAPQGATDRPWLCLPECWSVELTHSFIHLFIHSFANIHPIPTTCQEL
+PTM	

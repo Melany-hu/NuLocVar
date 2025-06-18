@@ -1,0 +1,25 @@
+UniprotID	Q56VL3-2
+Accession	Q56VL3;B4DPE7;Q8N544
+EntryName	OCAD2_HUMAN
+ProteinName	OCIA domain-containing protein 2 (Ovarian carcinoma immunoreactive antigen-like protein)
+GeneName	OCIAD2
+Length	99
+Function	
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASASARGNQDKDAHFPPPSKQSLLFCPKSKLHIHRAEISKIMRECQEESFWKRALPFSLVSMLVTQGLVYQGYLAANSRFGSLPKVARTASLPVRNAK
+PTM	Acetylation:31,41,53,109,138;Methylation:99;Phosphorylation:149,152;Ubiquitylation:21,41,53,138

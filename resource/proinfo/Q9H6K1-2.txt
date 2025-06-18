@@ -1,0 +1,25 @@
+UniprotID	Q9H6K1-2
+Accession	Q9H6K1;B2R8K7;Q5VV77;Q96MG5;Q9BUR9
+EntryName	ILRUN_HUMAN
+ProteinName	Protein ILRUN (Inflammation and lipid regulator with UBA-like and NBR1-like domains protein)
+GeneName	ILRUN C6orf106
+Length	232
+Function	Negative regulator of innate antiviral response. Blocks IRF3-dependent cytokine production such as IFNA, IFNB and TNF (PubMed:29802199). Interacts with IRF3 and inhibits IRF3 recruitment to type I IFN promoter sequences while also reducing nuclear levels of the coactivators EP300 and CREBBP (PubMed:29802199).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGMDVDLDPELMQKFSCLGTTDKDVLISEFQRLLGFQLNPAGCAFFLDMTNWNLQAAIGAYYDFESPNISVPSMSFVEDVTIGEGESIPPDTQFVKTWRIQNSDVIWVILSVEVGGLLGVTQQLSSFETEFNTQPHRKVEGNFNPFASPQKNRQSDENNLKDPGGSEFDSISKNTWAPAPDTWAPAPDQTEQDQNRLSQNSVNLSPSSHANNLSVVTYSKGLHGPYPFGQS
+PTM	Methylation:116,228;Phosphorylation:215,222,237,265,268,272,274,298;Ubiquitylation:15,24,116,205,218,228,240,287

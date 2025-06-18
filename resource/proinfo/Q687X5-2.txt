@@ -1,0 +1,25 @@
+UniprotID	Q687X5-2
+Accession	Q687X5;Q658Q9;Q687X4;Q8WWB0;Q9H5R1
+EntryName	STEA4_HUMAN
+ProteinName	Metalloreductase STEAP4 (EC 1.16.1.-) (Six-transmembrane epithelial antigen of prostate 4) (SixTransMembrane protein of prostate 2) (Tumor necrosis factor, alpha-induced protein 9)
+GeneName	STEAP4 STAMP2 TNFAIP9
+Length	283
+Function	Integral membrane protein that functions as a NADPH-dependent ferric-chelate reductase, using NADPH from one side of the membrane to reduce a Fe(3+) chelate that is bound on the other side of the membrane. Mediates sequential transmembrane electron transfer from NADPH to FAD and onto heme, and finally to the Fe(3+) chelate (PubMed:30337524). Can also reduce Cu(2+) to Cu(1+) (By similarity). Plays a role in systemic metabolic homeostasis, integrating inflammatory and metabolic responses (By similarity). Associated with obesity and insulin-resistance (PubMed:18381574, PubMed:18430367). Involved in inflammatory arthritis, through the regulation of inflammatory cytokines (PubMed:19660107). Inhibits anchorage-independent cell proliferation (PubMed:19787193).
+Subcellular Location	Cell membrane; Golgi apparatus membrane; Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKTCIDALPLTMNSSEKQETVCIFGTGDFGRSLGLKMLQCGYSVVFGSRNPQKTTLLPSGAEVLSYSEAAKKSGIIIIAIHREHYDFLTELTEVLNGKILVDISNNLKINQYPESNAEYLAHLVPGAHVVKAFNTISAWALQSGALDASRQAILKKENPFSTSSAWLSDSYVALGILGFFLFVLLGITSLPSVSNAVNWREFRFVQSKLGYLTLILCTAHTLVYGGKRFLSPSNLRWYLPAAYVLGLIIPCTVLVIKFVLIMPCVDNTLTRIRQGWERNSKH
+PTM	Glycosylation:323;Methylation:37,109,191,332,434;Phosphorylation:16,259,410;Ubiquitylation:18,37,54,72,109,161,187,191,332

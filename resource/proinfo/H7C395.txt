@@ -1,0 +1,25 @@
+UniprotID	H7C395
+Accession	H7C395
+EntryName	H7C395_HUMAN
+ProteinName	Activating signal cointegrator 1 complex subunit 2
+GeneName	ASCC2
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSAGAQGAVTVVGGGGGGGGTEPVVEPPRPPRVCRDHVCLICWDPRAGTGQVIL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O00294-2
+Accession	O00294;O43536;Q5TGM5;Q8N571
+EntryName	TULP1_HUMAN
+ProteinName	Tubby-related protein 1 (Tubby-like protein 1)
+GeneName	TULP1 TUBL1
+Length	489
+Function	Required for normal development of photoreceptor synapses. Required for normal photoreceptor function and for long-term survival of photoreceptor cells. Interacts with cytoskeleton proteins and may play a role in protein transport in photoreceptor cells (By similarity). Binds lipids, especially phosphatidylinositol 3-phosphate, phosphatidylinositol 4-phosphate, phosphatidylinositol 5-phosphate, phosphatidylinositol 3,4-bisphosphate, phosphatidylinositol 4,5-bisphosphate, phosphatidylinositol 3,4,5-bisphosphate, phosphatidylserine and phosphatidic acid (in vitro). Contribute to stimulation of phagocytosis of apoptotic retinal pigment epithelium (RPE) cells and macrophages.
+Subcellular Location	Cytoplasm; Cell membrane; Secreted; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLRDETLREVWASDSGHEEESLSPEAPRRPKQRPAPAQRLRKKRTEAPESPCPTGSKPRKPGEEEEEEEDEEDEEEEAEEKKEKILLPPKKPLREKSSADLKERRAKAQGPRGDLGSPDPPPKPLRVRNKEAPAGEGTKMRKTKKKGSGEADKDPSGSPASARKSPAAMFLVGEGSPDKKALKKKGTPKGARKEEEEEEEAATVIKKSNQKGKAKGKGKKKAKEERAPSPPVEVDEPREFVLRPAPQGRTVRCRLTRDKKGMDRGMYPSYFLHLDTEKKVFLLAGRKRKRSKTANYLISIDPTNLSRGGENFIGKLRSNLLGNRFTVFDNGQNPQRGYSTNVASLRQELAAVIYETNVLGFRGPRRMTVIIPGMSAENERVPIRPRNASDGLLVRWQNKTLESLIELHNKPPVWNDDSGSYTLNFQGRVTQASVKNFQIVHADDPDYIVLQFGRVAEDAFTLDYRYPLCALQAFAIALSSFDGKLACE
+PTM	Methylation:218,277;Phosphorylation:210,212,215,241,422,429

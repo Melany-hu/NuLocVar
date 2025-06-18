@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TR75
+Accession	A0A8V8TR75
+EntryName	A0A8V8TR75_HUMAN
+ProteinName	Calmodulin binding transcription activator 1
+GeneName	CAMTA1
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGTSTYCVLNTVPPIEDDHGNSNSSHVKIFLPKKLLECLPKCSSLPKERHRWNTNERS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TN93
+Accession	A0A8V8TN93
+EntryName	A0A8V8TN93_HUMAN
+ProteinName	E2 ubiquitin-conjugating enzyme (EC 2.3.2.23)
+GeneName	UBE2T
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRASRLKRELHMLATEPPPGITCWQDKDQMDDLRARGANTPYEKGVFKLEVIIPERYPFEPPQIRFLTPIYHPNIDSAGRICLDVLKLPPKGAWRPSLNIATVLTSIQLLMSEPNPDDPLMADISSEFKYNKPAFLKNARQWTEKHARQKQKADEEEMLDNLPEAGDSRVHNSTQKRKASQLVGIEKKFHPDV
+PTM	

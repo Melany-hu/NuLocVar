@@ -1,0 +1,25 @@
+UniprotID	Q9BRN2
+Accession	Q9BRN2
+EntryName	Q9BRN2_HUMAN
+ProteinName	OSBPL9 protein
+GeneName	OSBPL9
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SPNDKKSFCSIEGEWNGVMYAKYATGENTVFVDTKKLPIIKKKVRKLEDQNEYESRSLWKDVTFNLKIRDIDAATEAKHRLEERQRAEARERKEKEIQWETRLFHEDGECWVYDEPLLKRLGAAKH
+PTM	

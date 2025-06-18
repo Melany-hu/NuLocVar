@@ -1,0 +1,25 @@
+UniprotID	Q9H2H8-2
+Accession	Q9H2H8;Q86WF9;Q96IA9;Q9BXZ1
+EntryName	PPIL3_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase-like 3 (PPIase) (EC 5.2.1.8) (Cyclophilin J) (CyPJ) (Cyclophilin-like protein PPIL3) (Rotamase PPIL3)
+GeneName	PPIL3
+Length	165
+Function	PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides. May be involved in pre-mRNA splicing.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVTLHTDVGDIKIEVFCERTPKTCEMESRCVPQAGVQWRDLGSLQPPPPGFKQVFCLSLPRTGRGGNSIWGKKFEDEYSEYLKHNVRGVVSMANNGPNTNGSQFFITYGKQPHLDMKYTVFGKVIDGLETLDELEKLPVNEKTYRPLNDVHIKDITIHANPFAQ
+PTM	Acetylation:69,70;Methylation:61,133,139;SUMOylation:69,70,107,114,120,133,139;Ubiquitylation:69,107,120

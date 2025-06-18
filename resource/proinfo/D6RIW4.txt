@@ -1,0 +1,25 @@
+UniprotID	D6RIW4
+Accession	D6RIW4
+EntryName	D6RIW4_HUMAN
+ProteinName	T-complex 11
+GeneName	TCP11
+Length	22
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDVKESVPPKYPGDSEGRERN
+PTM	

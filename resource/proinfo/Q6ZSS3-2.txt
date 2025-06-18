@@ -1,0 +1,25 @@
+UniprotID	Q6ZSS3-2
+Accession	Q6ZSS3;Q14DC7;Q8TE91
+EntryName	ZN621_HUMAN
+ProteinName	Zinc finger protein 621
+GeneName	ZNF621
+Length	157
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQTTWPQESVTFEDVAVYFTQNQWASLDPAQRALYGEVMLENYANVASLVAFPFPKPALISHLERGEAPWGPDPWDTEILRGISQGGESWIKNEGLVIKQEASEETELHRMPVGGLLRNVSQHFDFKRKALKQTFNLNPNLILRGGSVEVRSLRPA
+PTM	Methylation:100;Phosphorylation:172,230,314;SUMOylation:93,100,128,133,177,214,303,322,329;Ubiquitylation:238

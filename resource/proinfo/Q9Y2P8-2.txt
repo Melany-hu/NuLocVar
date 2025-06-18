@@ -1,0 +1,25 @@
+UniprotID	Q9Y2P8-2
+Accession	Q9Y2P8;D3DRI2;Q5VYW9;Q5VZU1;Q9H9D0;Q9NY00;Q9P044
+EntryName	RCL1_HUMAN
+ProteinName	RNA 3'-terminal phosphate cyclase-like protein
+GeneName	RCL1 RNAC RPC2 RPCL1 RTC2 HSPC338
+Length	187
+Function	As part of the small subunit (SSU) processome, it plays a role in 40S-ribosomal-subunit biogenesis in the early pre-rRNA processing steps at sites A0, A1 and A2 that are required for proper maturation of the 18S RNA (By similarity). Activates BMS1 by promoting GDP/GTP exchange (By similarity). Does not have cyclase activity (By similarity).
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSLTPGCRYSVRVSPQMANRIVDSARSILNKFIPDIYIYTDHMKGVNSGKSPGFGLSLVAETTSGTFLSAELASNPQGQGAAVLPEDLGRNCARLLLEEIYRGGCVDSTNQSLALLLMTLGQQDVSKVLLGPLSPYTIEFLRHLKSFFQIMFKIETKPCGEELKGGDKVLMTCVGIGFSNLSKTLK
+PTM	Acetylation:31,57;Glycosylation:60;Methylation:57,114,118,133,218,351;Phosphorylation:170,196,214,224,343;SUMOylation:133;Ubiquitylation:133,141,178

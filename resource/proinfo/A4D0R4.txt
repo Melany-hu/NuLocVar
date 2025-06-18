@@ -1,0 +1,25 @@
+UniprotID	A4D0R4
+Accession	A4D0R4
+EntryName	A4D0R4_HUMAN
+ProteinName	B-cell receptor-associated protein (BCR-associated protein)
+GeneName	BCAP29 tcag7.984
+Length	240
+Function	Plays a role in the export of secreted proteins in the ER.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLQWAAVATFLYAEIGLILIFCLPFIPPQRWQKIFSFNVWGKIATFWNKAFLTIIILLIVLFLDAVREVRKYSSVHTIEKSSTSRPDAYEHTQMKLFRSQRNLFSGFSLFFWLVLRRLVTLITQLAKELSNKGVLKTQAENTNKAAKKFMEENEKLKRILKSHGKDEECVLEAENKKLVEDQEKLKTELRKTSDALSKAQNDVMEMKMQSERLSKEYDQLLKEHSELQDRLERGNKKRL
+PTM	

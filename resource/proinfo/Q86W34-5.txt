@@ -1,0 +1,25 @@
+UniprotID	Q86W34-5
+Accession	Q86W34;A6NLD9;B3KR44;Q5XKF1;Q9NZE2
+EntryName	AMZ2_HUMAN
+ProteinName	Archaemetzincin-2 (EC 3.4.-.-) (Archeobacterial metalloproteinase-like protein 2)
+GeneName	AMZ2 BM-014
+Length	302
+Function	Probable zinc metalloprotease.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQIIRHSEQTLKTALISKNPVLVSQYEKLNAGEQRLMNEAFQPASDLFGPITLHSPSDWITSHPEAPQDFEQFFSDPYRKTPSPNKRSIYIQSIGDILKFLKKKKPEDAFCVVGITMIDLYPRDSWNFVFGQASLTDGVGIFSFARYGSDFYSMHYKGKVKKLKKTSSSDYSIFDNYYIPEITSVLLLRSCKTLTHEIGHIFGLRHCQWLACLMQGSNHLEEADRRPLNLCPICLHKLQCAVGFSIVERYKALVRWIDDESSDTPGATPEHSHEDNGNLPKPVEAFKEWKEWIIKCLAVLQK
+PTM	Methylation:12,18,28,109,157,339;Phosphorylation:135,138,319,320,322,326,330;Ubiquitylation:18,86

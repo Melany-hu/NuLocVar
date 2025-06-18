@@ -1,0 +1,25 @@
+UniprotID	Q8NEE6-3
+Accession	Q8NEE6;C9J565;C9J566;Q6UVW7;Q6UVW8;Q75MN5;Q86UJ5;Q8N7Y4;Q8TCL2;Q8WUF9;Q8WUG0
+EntryName	FXL13_HUMAN
+ProteinName	F-box and leucine-rich repeat protein 13 (Dynein regulatory complex subunit 6) (F-box/LRR-repeat protein 13)
+GeneName	FBXL13 DRC6 FBL13
+Length	690
+Function	Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex. Component of the nexin-dynein regulatory complex (N-DRC), a key regulator of ciliary/flagellar motility which maintains the alignment and integrity of the distal axoneme and regulates microtubule sliding in motile axonemes. Specifically targets CEP192 isoform 3 for ubiquitin-mediated proteolysis and thereby acts as a regulator of microtubule nucleation activity (PubMed:29348145).
+Subcellular Location	Cytoplasm; Cytoskeleton; Flagellum axoneme; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPELMIKACSFYTGHLVKTHFCTWRDIARTNENVVLAEKMNRAVTCYNFRLQKSVFHHWHSYMEDQKEKLKNILLRIQQIIYCHKLTIILTKWRNTARHKSKKKEDELILKHELQLKKWKNRLILKRAAAEESNFPERSSSEVFLVDETLKCDISLLPERAILQIFFYLSLKDVIICGQVNHAWMLMTQLNSLWNAIDFSSVKNVIPDKYIVSTLQRWRLNVLRLNFRGCLLRPKTFRSVSHCRNLQELNVSDCPTFTDESMRHISEGCPGVLCLNLSNTTITNRTMRLLPRHFHNLQNLSLAYCRRFTDKGLQYLNLGNGCHKLIYLDLSGCTQISVQGFRYIANSCTGIMHLTINDMPTLTDNCVKALVEKCSRITSLVFTGAPHISDCTFRALSACKLRKIRFEGNKRVTDASFKFIDKNYPNLSHIYMADCKGITDSSLRSLSPLKQLTVLNLANCVRIGDMGLKQFLDGPASMRIRELNLSNCVRLSDASVMKLSERCPNLNYLSLRNCEHLTAQGIGYIVNIFSLVSIDLSGTDISNEGLNVLSRHKKLKELSVSECYRITDDGIQITDSAMEMLSAKCHYLHILDISGCVLLTDQILEDLQIGCKQLRILKMQYCTNISKKAAQRMSSKVQQQEYNTNDPPRWFGYDREGNPVTELDNITSSKGALELTVKKSTYSSEDQAA
+PTM	Methylation:8,19,40,93,112,127,152,374;Phosphorylation:150,211,214,215,417,432,448,493,667

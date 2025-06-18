@@ -1,0 +1,25 @@
+UniprotID	O00187-2
+Accession	O00187;A8K458;A8MWJ2;O75754;Q5TEQ5;Q5TER0;Q96QG4;Q9BZH0;Q9H498;Q9H499;Q9UBP3;Q9UC48;Q9ULC7;Q9UMV3;Q9Y270
+EntryName	MASP2_HUMAN
+ProteinName	Mannan-binding lectin serine protease 2 (EC 3.4.21.104) (MBL-associated serine protease 2) (Mannose-binding protein-associated serine protease 2) (MASP-2) [Cleaved into: Mannan-binding lectin serine protease 2 A chain; Mannan-binding lectin serine protease 2 B chain]
+GeneName	MASP2
+Length	185
+Function	Serum protease that plays an important role in the activation of the complement system via mannose-binding lectin. After activation by auto-catalytic cleavage it cleaves C2 and C4, leading to their activation and to the formation of C3 convertase.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLTLLGLLCGSVATPLGPKWPEPVFGRLASPGFPGEYANDQERRWTLTAPPGYRLRLYFTHFDLELSHLCEYDFVKLSSGAKVLATLCGQESTDTERAPGKDTFYSLGSSLDITFRSDYSNEKPFTGFEAFYAAEDIDECQVAPGEAPTCDHHCHNHLGGFYCSCRAGYVLHRNKRTCSEQSL
+PTM	Methylation:247,321,503,537;Phosphorylation:587

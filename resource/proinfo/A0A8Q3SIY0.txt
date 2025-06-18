@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3SIY0
+Accession	A0A8Q3SIY0
+EntryName	A0A8Q3SIY0_HUMAN
+ProteinName	Interleukin 1 receptor associated kinase 4
+GeneName	IRAK4
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DGTPPLSWHMRCKIAQGAANGINFLHENHHIHRDIKSANILLDEAFTAKISDFGLARASEKFAQTVMTSRIVGTTAYMAPEALRGEITPKSDIYSFGVVLLEIITGLPAVDEHREPQLLILKKKLKMKKRQLKIILIKR
+PTM	

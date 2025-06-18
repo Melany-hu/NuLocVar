@@ -1,0 +1,25 @@
+UniprotID	P55075-2
+Accession	P55075;A1A514;Q14915;Q15766
+EntryName	FGF8_HUMAN
+ProteinName	Fibroblast growth factor 8 (FGF-8) (Androgen-induced growth factor) (AIGF) (Heparin-binding growth factor 8) (HBGF-8)
+GeneName	FGF8 AIGF
+Length	204
+Function	Plays an important role in the regulation of embryonic development, cell proliferation, cell differentiation and cell migration. Required for normal brain, eye, ear and limb development during embryogenesis. Required for normal development of the gonadotropin-releasing hormone (GnRH) neuronal system (PubMed:16384934, PubMed:16597617, PubMed:8663044). Plays a role in neurite outgrowth in hippocampal cells (PubMed:21576111).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	145...150
+validnes_region	
+nesbase_region	
+Sequence	MGSPRSALSCLLLHLLVLCLQAQHVREQSLVTDQLSRRLIRTYQLYSRTSGKHVQVLANKRINAMAEDGDPFAKLIVETDTFGSRVRVRGAETGLYICMNKKGKLIAKSNGKGKDCVFTEIVLENNYTALQNAKYEGWYMAFTRKGRPRKGSKTRQHQREVHFMKRLPRGHHTTEQSLRFEFLNYPPFTRSLRGSQRTWAPEPR
+PTM	Acetylation:194;Methylation:137

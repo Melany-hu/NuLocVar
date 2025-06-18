@@ -1,0 +1,25 @@
+UniprotID	H0YD11
+Accession	H0YD11
+EntryName	H0YD11_HUMAN
+ProteinName	Interleukin 15 receptor subunit alpha
+GeneName	IL15RA
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XITCPPPMSVEHADIWVKSYSLYSRERYICNSGFKRKAGTSSLTECVLNKATNVAHWTTPSLKCIRTTEISSHESSHGTPSQTTAKNWELTASASHQPPGVYPQGHSDTTGRKQHLLPDFQASFQRDCINKHIEDKECWTVASFLLFLAISTSTVLLCGLSAVSLLACYLKSRQTPPLASVEMEAMEALPVTWGTSSRDEDLENCSHHL
+PTM	

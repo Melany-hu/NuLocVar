@@ -1,0 +1,25 @@
+UniprotID	O94772-2
+Accession	O94772;B2RAD2;J3KQI0;Q6IAX0
+EntryName	LY6H_HUMAN
+ProteinName	Lymphocyte antigen 6H (Ly-6H)
+GeneName	LY6H
+Length	161
+Function	Believed to act as a modulator of nicotinic acetylcholine receptors (nAChRs) activity. In vitro inhibits alpha-3:beta-4-containing nAChRs maximum response. May play a role in the intracellular trafficking of alpha-7-containing nAChRs and may inhibit their expression at the cell surface. Seems to inhibit alpha-7/CHRNA7 signaling in hippocampal neurons.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAPQRTRAPSPRAAPRPTRSMLPAAMKGLGLALLAVLLCSAPAHGLWCQDCTLTTNSSHCTPKQCQPSDTVCASVRITDPSSSRKDHSVNKMCASSCDFVKRHFFSDYLMGFINSGILKVDVDCCEKDLCNGAAGAGHSPWALAGGLLLSLGPALLWAGP
+PTM	Methylation:99

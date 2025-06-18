@@ -1,0 +1,25 @@
+UniprotID	A0A8I5QJQ3
+Accession	A0A8I5QJQ3
+EntryName	A0A8I5QJQ3_HUMAN
+ProteinName	Transmembrane protein 231
+GeneName	TMEM231
+Length	192
+Function	Transmembrane component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Required for ciliogenesis and sonic hedgehog/SHH signaling.
+Subcellular Location	Cell projection; Cilium membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRRTCYILSWSFPCSPRSTFSRMATLVMQSMAFLQSSFPVPGSQLYVNGDLRLQQKQPLSCGGLDARYNISVINGTSPFAYDYDLTHIVAAYQERNVTTVLNDPNPIWLVGRAADAPFVINAIIRYPVEVISYQPGFWEMVKFAWVQYVSILLIFLWVFERIKIFVFQNQVVTTIPVTVTPRGDLCKEHLS
+PTM	

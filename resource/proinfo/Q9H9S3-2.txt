@@ -1,0 +1,25 @@
+UniprotID	Q9H9S3-2
+Accession	Q9H9S3;A8K8D0;B4DX72;F8W773
+EntryName	S61A2_HUMAN
+ProteinName	Protein transport protein Sec61 subunit alpha isoform 2 (Sec61 alpha-2)
+GeneName	SEC61A2
+Length	437
+Function	Component of SEC61 channel-forming translocon complex that mediates transport of signal peptide-containing precursor polypeptides across the endoplasmic reticulum (ER). Forms a ribosome receptor and a gated pore in the ER membrane, both functions required for cotranslational translocation of nascent polypeptides.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGIKFLEVIKPFCAVLPEIQKPERKIQFREKVLWTAITLFIFLVCCQIPLFGIMSSDSADPFYWMRVILASNRGTLMELGISPIVTSGLIMQLLAGAKIIEVGDTPKDRALFNGAQKLFGMIITIGQAIVYVMTGMYGDPAEMGAGICLLIIIQLFVAGLIVLLLDELLQKGYGLGSGISLFIATNICETIVWKAFSPTTINTGRGTEFEGAVIALFHLLATRTDKVRALREAFYRQNLPNLMNLIATVFVFAVVIYFQGFRVDLPIKSARYRGQYSSYPIKLFYTSNIPIILQSALVSNLYVISQMLSVRFSGNFLVNLLGQWADVSGGGPARSYPVGGLCYYLSPPESMGAIFEDPVHVVVYIIFMLGSCAFFSKTWIEVSGSSAKDVAKQLKEQQMVMRGHRDTSMVHELNRPKVKLRRWKGEGRHFTKRILFY
+PTM	Acetylation:107;Methylation:10,21,98,171,405;Ubiquitylation:107,268,388,392,395

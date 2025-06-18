@@ -1,0 +1,25 @@
+UniprotID	H0YKL4
+Accession	H0YKL4
+EntryName	H0YKL4_HUMAN
+ProteinName	Protein yippee-like
+GeneName	OIP5 YPEL
+Length	162
+Function	Required for recruitment of CENPA to centromeres and normal chromosome segregation during mitosis.
+Subcellular Location	Chromosome; Centromere; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRAIDQASFTTSMEWDTQVVKGSSPLGPAGLGAEEPAAGPQLPSWLQPERCAVFQCAQCHAVLADSVHLAWDLSRSLGAVVFSRVTNNVVLEAPFLVGIEGSLKGSYLLKTKAIVNASEMDIQNVPLSEKIAELKEKIVLTHNRLKSLMKILSEVTPDQSKP
+PTM	

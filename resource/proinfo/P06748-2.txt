@@ -1,0 +1,25 @@
+UniprotID	P06748-2
+Accession	P06748;A8K3N7;B5BU00;D3DQL6;P08693;Q12826;Q13440;Q13441;Q14115;Q5EU94;Q5EU95;Q5EU96;Q5EU97;Q5EU98;Q5EU99;Q6V962;Q8WTW5;Q96AT6;Q96DC4;Q96EA5;Q9BYG9;Q9UDJ7
+EntryName	NPM_HUMAN
+ProteinName	Nucleophosmin (NPM) (Nucleolar phosphoprotein B23) (Nucleolar protein NO38) (Numatrin)
+GeneName	NPM1 NPM
+Length	265
+Function	Involved in diverse cellular processes such as ribosome biogenesis, centrosome duplication, protein chaperoning, histone assembly, cell proliferation, and regulation of tumor suppressors p53/TP53 and ARF. Binds ribosome presumably to drive ribosome nuclear export. Associated with nucleolar ribonucleoprotein structures and bind single-stranded nucleic acids. Acts as a chaperonin for the core histones H3, H2B and H4. Stimulates APEX1 endonuclease activity on apurinic/apyrimidinic (AP) double-stranded DNA but inhibits APEX1 endonuclease activity on AP single-stranded RNA. May exert a control of APEX1 endonuclease activity within nucleoli devoted to repair AP on rDNA and the removal of oxidized rRNA molecules. In concert with BRCA2, regulates centrosome duplication. Regulates centriole duplication: phosphorylation by PLK2 is able to trigger centriole replication. Negatively regulates the activation of EIF2AK2/PKR and suppresses apoptosis through inhibition of EIF2AK2/PKR autophosphorylation. Antagonizes the inhibitory effect of ATF5 on cell proliferation and relieves ATF5-induced G2/M blockade (PubMed:22528486). In complex with MYC enhances the transcription of MYC target genes (PubMed:25956029). May act as chaperonin or cotransporter in the nucleolar localization of transcription termination factor TTF1 (By similarity).
+Subcellular Location	Nucleus; Nucleolus; Nucleus; Nucleoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	152..157;191..197
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	94...102;42...49
+nlsdbnls_region	152...157
+validnes_region	94...102;42...49
+nesbase_region	
+Sequence	MEDSMDMDMSPLRPQNYLFGCELKADKDYHFKVDNDENEHQLSLRTVSLGAGAKDELHIVEAEAMNYEGSPIKVTLATLKMSVQPTVSLGGFEITPPVVLRLKCGSGPVHISGQHLVAVEEDAESEDEEEEDVKLLSISGKRSAPGGGSKVPQKKVKLAADEDDDDDDEEDDDEDDDDDDFDDEEAEEKAPVKKGQESFKKQEKTPKTPKGPSSVEDIKAKMQASIEKGGSLPKVEAKFINYVKNCFRMTDQEAIQDLWQWRKSL
+PTM	Acetylation:24,27,32,54,73,141,150,154,157,189,193,202,206,212,215,223,229,233,239,248,250,257,263,267,273;Methylation:24,27,32,45,54,73,80,134,141,150,197,202,215,229,239,248,257,263,273,291;Phosphorylation:4,10,17,29,43,46,48,67,70,75,78,82,86,88,95,106,112,125,137,139,143,149,195,199,207,214,217,218,219,222,227,234,237,242,243,254,260,279,293;SUMOylation:24,27,32,54,73,103,134,141,150,154,157,189,194,202,212,215,223,229,230,239,248,250,257,263,267,273;Ubiquitylation:24,27,32,54,73,80,141,150,157,189,193,202,206,212,215,223,229,239,248,250,257,263,267,273

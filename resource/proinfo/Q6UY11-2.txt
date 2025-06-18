@@ -1,0 +1,25 @@
+UniprotID	Q6UY11-2
+Accession	Q6UY11;B3KNZ7;Q5T3T8;Q9BQ54
+EntryName	DLK2_HUMAN
+ProteinName	Protein delta homolog 2 (DLK-2) (Epidermal growth factor-like protein 9) (EGF-like protein 9)
+GeneName	DLK2 EGFL9 UNQ2903/PRO28633
+Length	204
+Function	Regulates adipogenesis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPCANGATCLDGINRFSCLCPEGFAGRFCTINLDDCASRPCQRGARCRDRVHDFDCLCPSGYGGKTCELVLPVPDPPTTVDTPLGPTSAVVVPATGPAPHSAGAGLLRISVKEVVRRQEAGLGEPSLVALVVFGALTAALVLATVLLTLRAWRRGVCPPGPCCYPAPHYAPACQDQECQVSMLPAGLPLPRDLPPEPGKTTAL
+PTM	

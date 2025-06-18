@@ -1,0 +1,25 @@
+UniprotID	P0DP58-2
+Accession	P0DP58;A0A140VJN6;D3DWI7;G3XAC2;Q86SR0;Q9BZG9
+EntryName	LYNX1_HUMAN
+ProteinName	Ly-6/neurotoxin-like protein 1 (Endogenous prototoxin LYNX1) (Testicular tissue protein Li 112)
+GeneName	LYNX1
+Length	131
+Function	Acts in different tissues through interaction to nicotinic acetylcholine receptors (nAChRs) (PubMed:21252236). The proposed role as modulator of nAChR activity seems to be dependent on the nAChR subtype and stoichiometry, and to involve an effect on nAChR trafficking and its cell surface expression, and on single channel properties of the nAChR inserted in the plasma membrane. Modulates functional properties of nicotinic acetylcholine receptors (nAChRs) to prevent excessive excitation, and hence neurodegeneration. Enhances desensitization by increasing both the rate and extent of desensitization of alpha-4:beta-2-containing nAChRs and slowing recovery from desensitization. Promotes large amplitude ACh-evoked currents through alpha-4:beta-2 nAChRs. Is involved in regulation of the nAChR pentameric assembly in the endoplasmic reticulum. Shifts stoichiometry from high sensitivity alpha-4(2):beta-2(3) to low sensitivity alpha-4(3):beta-2(2) nAChR (By similarity). In vitro modulates alpha-3:beta-4-containing nAChRs. Reduces cell surface expression of (alpha-3:beta-4)(2):beta-4 and (alpha-3:beta-4)(2):alpha-5 nAChRs suggesting an interaction with nAChR alpha-3(-):(+)beta-4 subunit interfaces and an allosteric mode. Corresponding single channel effects characterized by decreased unitary conductance, altered burst proportions and enhanced desensitization/inactivation seem to depend on nAChR alpha:alpha subunit interfaces and are greater in (alpha-3:beta-2)(2):alpha-3 when compared to (alpha-3:beta-2)(2):alpha-5 nAChRs (PubMed:28100642). Prevents plasticity in the primary visual cortex late in life (By similarity).
+Subcellular Location	Cell membrane; Cell projection; Dendrite; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPLLTLILVVLMGLPLAQALDCHVCAYNGDNCFNPMRCPAMVAYCMTTRTSAAEAIWCHQCTGFGGCSHGSRCLRDSTHCVTTATRVLSNTEDLPLVTKMCHIGCPDIPSLGLGPYVSIACCQTSLCNHD
+PTM	

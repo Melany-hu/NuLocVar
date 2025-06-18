@@ -1,0 +1,25 @@
+UniprotID	C0JXB8
+Accession	C0JXB8
+EntryName	C0JXB8_HUMAN
+ProteinName	peptidylprolyl isomerase (EC 5.2.1.8)
+GeneName	AIP
+Length	330
+Function	May play a positive role in AHR-mediated (aromatic hydrocarbon receptor) signaling, possibly by influencing its receptivity for ligand and/or its nuclear targeting.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADIIARLREDGIQKRVIQEGRGELPDFQDGTKATFHYRTLHSDDEGTVLDDSRARGKPMELIIGKKFKLPVWETIVCTMREGEIAQFLCDIKHVVLYPLVAKSLRNIAVGKDPLEGQRHCCGVAQMREHSSLGHADLDALQQNPQPLIFHMEMLKVESPGTYQQDPWAMTDEEKAKAVPLIHQEGNRLYREGHAKEAAAKYYDAIACLKNLQMKEQPGSPEWIQLDQQITPLLLNYCQCELVVEEYYEVLDHCSSILNKYDDNVKAYFKRGKAHAAVWNAQEAQADFAKVLELDPALAPVVSRELQALEARIRQKDEEDKARFRGIFSH
+PTM	

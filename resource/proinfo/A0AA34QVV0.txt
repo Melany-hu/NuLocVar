@@ -1,0 +1,25 @@
+UniprotID	A0AA34QVV0
+Accession	A0AA34QVV0
+EntryName	A0AA34QVV0_HUMAN
+ProteinName	Exoribonuclease 1
+GeneName	ERI1
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ATCEEGNPPEFVHEIIEFPVVLLNTHTLEIEDTFQQYVRPEINTQLSDFCISLTGITQDQVDRADTFPQVLKKVIDWMKLKELGTKYKYSLLTDGSWDMSKFLNIQCQLSRLKYPPFAKKWINIRKSYGNFYKRKRKGPGVATGKPQLVWEGNLTCDASGRLCKLLGD
+PTM	

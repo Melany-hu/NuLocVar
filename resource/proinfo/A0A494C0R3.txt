@@ -1,0 +1,25 @@
+UniprotID	A0A494C0R3
+Accession	A0A494C0R3
+EntryName	A0A494C0R3_HUMAN
+ProteinName	Progestin and adipoQ receptor family member 6
+GeneName	PAQR6
+Length	212
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSLKLPQLLQVHQVPRVFWEDGIMSGYRRPTSSALDCVLSSFQMTNETVNIWTHFLPTWYFLWRLLALAGGPGFRAEPYHWPLLVFLLPACLYPFASCCAHTFSSMSPRMRHICYFLDYGALSLYSLGCAFPYAAYSMPASWLHGHLHQFFVPAAALNSFLCTGLSCYSRTAMVTGLFLPPPSFLELESPGLSKVLRTGAFAYPFLFDNLP
+PTM	

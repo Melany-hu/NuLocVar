@@ -1,0 +1,25 @@
+UniprotID	Q2T9J0-2
+Accession	Q2T9J0;Q5SQT4;Q5SQU1;Q8N6H2;Q96AR5
+EntryName	TYSD1_HUMAN
+ProteinName	Peroxisomal leader peptide-processing protease (EC 3.4.21.-) (Trypsin domain-containing protein 1) [Cleaved into: Peroxisomal leader peptide-processing protease, 15 kDa form; Peroxisomal leader peptide-processing protease, 45 kDa form]
+GeneName	TYSND1
+Length	398
+Function	Peroxisomal protease that mediates both the removal of the leader peptide from proteins containing a PTS2 target sequence and processes several PTS1-containing proteins. Catalyzes the processing of PTS1-proteins involved in the peroxisomal beta-oxidation of fatty acids.
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRQWGSAMRAAEQAGCMVSASRAGQPEAGPWSCSGVILSRSPGLVLCHGGIFVPFLRAGSEVLTAAGAVFLPGDSCRDDLRLHVQWAPTAAGPGGGAERGRPGLCTPQCASLEPGPPAPSRGRPLQPRLPAELLLLLSCPAFWAHFARLFGDEAAEQWRFSSAARDDEVSEDEEADQLRALGWFALLGVRLGQEEVEEERGPAMAVSPLGAVPKGAPLLVCGSPFGAFCPDIFLNTLSCGVLSNVAGPLLLTDARCLPGTEGGGVFTARPAGALVALVVAPLCWKAGEWVGFTLLCAAAPLFRAARDALHRLPHSTAALAALLPPEVGVPWGLPLRDSGPLWAAAAVLVECGTVWGSGVAVAPRLVVTCRHVSPREAARVLVRSTTPKHNHQQHPGQ
+PTM	Phosphorylation:107,121,171;Ubiquitylation:389

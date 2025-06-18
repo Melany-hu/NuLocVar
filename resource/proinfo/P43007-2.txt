@@ -1,0 +1,25 @@
+UniprotID	P43007-2
+Accession	P43007;B7Z3C0;D6W5F0
+EntryName	SATT_HUMAN
+ProteinName	Neutral amino acid transporter A (Alanine/serine/cysteine/threonine transporter 1) (ASCT-1) (Solute carrier family 1 member 4)
+GeneName	SLC1A4 ASCT1 SATT
+Length	234
+Function	Sodium-dependent neutral amino-acid transporter that mediates transport of alanine, serine, cysteine, proline, hydroxyproline and threonine.
+Subcellular Location	Membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNILGLVLFALVLGVALKKLGSEGEDLIRFFNSLNEATMVLVSWIMCSATLPSMMKCIEENNGVDKRISRFILPIGATVNMDGAAIFQCVAAVFIAQLNNVELNAGQIFTILVTATASSVGAAGVPAGGVLTIAIILEAIGLPTHDLPLILAVDWIVDRTTTVVNVEGDALGAGILHHLNQKATKKGEQELAEVKVEAIPNCKSEEETSPLVTHQNPAGPVASAPELESKESVL
+PTM	Glycosylation:201,206;Methylation:238;Phosphorylation:10,502,506,507,511,521,527,530;SUMOylation:493;Ubiquitylation:3,364,484,493,501,528

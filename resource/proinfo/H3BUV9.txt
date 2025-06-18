@@ -1,0 +1,25 @@
+UniprotID	H3BUV9
+Accession	H3BUV9
+EntryName	H3BUV9_HUMAN
+ProteinName	Ubiquitin like 7
+GeneName	UBL7
+Length	224
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLSDWHLAVKLADQPLTPKSILRLPETELGEYSLGGYSISFLKQLIAGKLQESVPDPELIDLIYCGRKLKDDQTLDFYGIQPGSTVHVLRKSWPEPDQKPGVLQDKDLFSVFADPNMLDTLVPAHPALVNAIVLVLHSVAGSAPMPGTDSSSRSMPSSSYRDMPGGFLFEGLSDDEDDFHPNTRSTPSSSTPSSRPASLGYSGAAGPRPITQSELATALALAS
+PTM	

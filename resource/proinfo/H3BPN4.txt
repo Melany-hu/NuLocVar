@@ -1,0 +1,25 @@
+UniprotID	H3BPN4
+Accession	H3BPN4
+EntryName	H3BPN4_HUMAN
+ProteinName	YjeF domain-containing protein 1
+GeneName	EDC3
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEIDTYERRSGTRSRGIPNERPTRYRHDENILESEPIVYRRIIVPHNVSKEFCTDSGLVVPSISYELHKKLLSVAEKHGLTLERRLEMTGVCASQMALTLLGGPNRLNPKNVHQRPTVALLCGPHVKGAQGISCGRHLANHDVQVILFLPNFVKMLESITNELSLFSKTQGQQVSSLKGEHLGRAGLKASSLLSSLMVSSCHPVATGGKALRV
+PTM	

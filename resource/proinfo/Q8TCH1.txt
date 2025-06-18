@@ -1,0 +1,25 @@
+UniprotID	Q8TCH1
+Accession	Q8TCH1
+EntryName	Q8TCH1_HUMAN
+ProteinName	V-type proton ATPase subunit a
+GeneName	TCIRG1
+Length	61
+Function	Essential component of the vacuolar proton pump (V-ATPase), a multimeric enzyme that catalyzes the translocation of protons across the membranes. Required for assembly and activity of the V-ATPase.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DDEEEAELVPSEVLMHQAIHTIEFCLGCVSNTASYLRLWALSLAHARWNSRTSSTQARATS
+PTM	

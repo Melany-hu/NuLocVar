@@ -1,0 +1,25 @@
+UniprotID	H0YB20
+Accession	H0YB20
+EntryName	H0YB20_HUMAN
+ProteinName	C-type lectin domain family 2 member L
+GeneName	CLEC2L
+Length	108
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEGSTSWKAALEASKGCIKCEAPCPEDWLLYGRKCYFFSEEPRDWNTGRQYCHTHEAVLAVIQSQKELEFMFKFTRREPWIGLRRVGDEFHWVNGDPFDPDTFTIAGP
+PTM	

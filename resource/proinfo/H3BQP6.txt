@@ -1,0 +1,25 @@
+UniprotID	H3BQP6
+Accession	H3BQP6
+EntryName	H3BQP6_HUMAN
+ProteinName	F-box and leucine rich repeat protein 19
+GeneName	FBXL19
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGRQQMDCDSRQPSALLTPPMSSSSRGPGAGARRRRTRCRRCRACVRTECGDCHFCRDMKKFGGPGRMKQSCLLRQCTA
+PTM	

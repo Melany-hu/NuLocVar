@@ -1,0 +1,25 @@
+UniprotID	Q15697-2
+Accession	Q15697;Q53Y68;Q9BQ34
+EntryName	ZN174_HUMAN
+ProteinName	Zinc finger protein 174 (AW-1) (Zinc finger and SCAN domain-containing protein 8)
+GeneName	ZNF174 ZSCAN8
+Length	234
+Function	Transcriptional repressor.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAKMEITLSSNTEASSKQERHIIAKLEEKRGPPLQKNCPDPELCRQSFRRFCYQEVSGPQEALSQLRQLCRQWLQPELHTKEQILELLVMEQFLTILPPEIQARVRHRCPMSSKEIVTLVEDFHRASKKPKQWVAVCMQGQKVLLEKTGSQLGEQELPDFQPQTPRRDLRESSPAEPSQAGAYDRLSPHHWEKSPLLQEPTPKLAGTELLIEKTDPNMATDELPCKLWLSFIA
+PTM	Acetylation:230;Methylation:18,26,143,148,240,389;Phosphorylation:96,114,119,165,173,174,184,188,195,265,266,284,286,287,291,349,377;SUMOylation:26,143,204,218,230,271,370,380

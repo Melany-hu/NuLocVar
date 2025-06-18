@@ -1,0 +1,25 @@
+UniprotID	J3KRD3
+Accession	J3KRD3
+EntryName	J3KRD3_HUMAN
+ProteinName	Zinc finger protein 286A
+GeneName	ZNF286A
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METDLAEMPEKGALSSQDSPHFQEKSTEEGEVAALRLTARSQNCLFVEHRKRRKFAFPMS
+PTM	

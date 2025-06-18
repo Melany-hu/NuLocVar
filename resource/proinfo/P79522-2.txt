@@ -1,0 +1,25 @@
+UniprotID	P79522-2
+Accession	P79522;A1A4H4;Q5RJB5;Q5STN6
+EntryName	PRR3_HUMAN
+ProteinName	Proline-rich protein 3 (MHC class I region proline-rich protein CAT56)
+GeneName	PRR3 CAT56
+Length	167
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1...5
+validnes_region	
+nesbase_region	
+Sequence	MPKRKKQNHHQPPTQQQPPLPEREETGDEEDGSPIALHRGPPGSRGPLIPPLLSLPPPPWGRGPIRRGLGPRSSPYGRGWWGVNAEPPFPGPGHGGPTRGSFHKEQRNPRRLKSWSLIKNTCPPKDDPQVMEDKSDRPVCRHFAKKGHCRYEDLCAFYHPGVNGPPL
+PTM	Methylation:66,83,87,99,120,125,140;Phosphorylation:26,33,94,95,135,137;Ubiquitylation:140

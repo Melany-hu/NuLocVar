@@ -1,0 +1,25 @@
+UniprotID	Q9NVU0-4
+Accession	Q9NVU0;B4DL24;B4DUP6;H3BT11;Q9BWF7;Q9H8W8;Q9H907;Q9P276
+EntryName	RPC5_HUMAN
+ProteinName	DNA-directed RNA polymerase III subunit RPC5 (RNA polymerase III subunit C5) (DNA-directed RNA polymerase III 80 kDa polypeptide)
+GeneName	POLR3E KIAA1452
+Length	687
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (PubMed:12391170, PubMed:20413673, PubMed:35637192). Specific peripheric component of RNA polymerase III (Pol III) which synthesizes small non-coding RNAs including 5S rRNA, snRNAs, tRNAs and miRNAs from at least 500 distinct genomic loci. Assembles with POLR3D/RPC4 forming a subcomplex that binds the Pol III core. Enables recruitment of Pol III at transcription initiation site and drives transcription initiation from both type 2 and type 3 DNA promoters. Required for efficient transcription termination and reinitiation (By similarity) (PubMed:12391170, PubMed:20413673, PubMed:35637192). Plays a key role in sensing and limiting infection by intracellular bacteria and DNA viruses. Acts as a nuclear and cytosolic DNA sensor involved in innate immune response. Can sense non-self dsDNA that serves as template for transcription into dsRNA. The non-self RNA polymerase III transcripts, such as Epstein-Barr virus-encoded RNAs (EBERs) induce type I interferon and NF-kappa-B through the RIG-I pathway (PubMed:19609254, PubMed:19631370).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	410...415
+validnes_region	
+nesbase_region	
+Sequence	MANEEDDPVVQEIDVYLAKSLAEKLYLFQYPVRPASMTYDDIPHLSAKIKPKQQKVELEMAIDTLNPNYCRSKGEQIALNVDGACADETSTYSSKLMDKQTFCSSQTTSNTSRYAAALYRQGELHLTPLHGILQLRPSFSYLDKADAKHREREAANEAGDSSQDEAEDDVKQITVRFSRPESEQARQRRVQSYEFLQKKHAEEPWVHLHYYGLRDSRSEHERQYLLCPGSSGVENTELVKSPSEYLMMLMPPSQEEEKDKPVAPSNVLSMAQLRTLPLADQIKILMKNVKVMPFANLMSLLGPSIDSVAVLRGIQKVAMLVQGNWVVKSDILYPKDSSSPHSGVPAEVLCRGRDFVMWKFTQSRWVVRKEVATVTKLCAEDVKDFLEHMAVVRINKGWEFILPYDGEFIKKHPDVVQRQHMLWTGIQAKLEKVYNLVKETMPKKPDAQSGPAGLVCGDQRIQVAKTKAQQNHALLERELQRRKEQLRVPAVPPGVRIKEEPVSEEGEEDEEQEAEEEPMDTSPSGLHSKLANGLPLGRAAGTDSFNGHPPQGCASTPVARELKAFVEATFQRQFVLTLSELKRLFNLHLASLPPGHTLFSGISDRMLQDTVLAAGCKQILVPFPPQTAASPDEQKVFALWESGDMSDQSRLTQECGEDLSKQEVDKVLKDCCVSYGGMWYLKGTVQS
+PTM	Methylation:198,240,283,335,369,383,410,438,465,467,682,687;Phosphorylation:36,140,141,161,162,174,241,373,375,434,503,521,522,524,528,544;SUMOylation:171,260,369,432,465,467,498,529,635,659,682;Ubiquitylation:95

@@ -1,0 +1,25 @@
+UniprotID	A0A087WTS4
+Accession	A0A087WTS4
+EntryName	A0A087WTS4_HUMAN
+ProteinName	FKBP prolyl isomerase 1A
+GeneName	FKBP1A
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVQVETISPGDGRTFPKRGQTCVVHYTDECGSESQTDYISRLCLWCHWAPRHHPTTCHSRLRCGASKTGMTGMASSLSSLFLDLPWRDLVPPDMCT
+PTM	

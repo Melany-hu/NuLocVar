@@ -1,0 +1,25 @@
+UniprotID	Q8TBF2-3
+Accession	Q8TBF2;A8K793;B3KPY3;B4DQR9;B4E0S5;B7ZAC8;B9DI90;B9DI92;J3KQD0;Q8N2H0
+EntryName	PXL2B_HUMAN
+ProteinName	Prostamide/prostaglandin F synthase (Prostamide/PG F synthase) (Prostamide/PGF synthase) (EC 1.11.1.20) (Peroxiredoxin-like 2B) (Protein FAM213B)
+GeneName	PRXL2B C1orf93 FAM213B
+Length	216
+Function	Catalyzes the reduction of prostaglandin-ethanolamide H(2) (prostamide H(2)) to prostamide F(2alpha) with NADPH as proton donor. Also able to reduce prostaglandin H(2) to prostaglandin F(2alpha) (By similarity).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTVDLARVGACILKHAVTGEAVELRSLWREHACVVAGLRRFGCVVCRWIAQDLSSLAGLLDQHGVRLVGVGPEALGLQEFLDGDYFAGELYLDESKQLYKELGFKRLWTQASPEFGQATWCLRRYNSLSILPAALGKPVRDVAAKAKAVGIQGNLSGDLLQSGGLLVVSKGGDKVLLHFVQKSPGDYVPKEHILQVLGISAEVCASDPPQCDREV
+PTM	Acetylation:120;Phosphorylation:108,110,112;Ubiquitylation:101,106,120,128,130

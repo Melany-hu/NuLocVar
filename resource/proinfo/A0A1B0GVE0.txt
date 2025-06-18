@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GVE0
+Accession	A0A1B0GVE0;A0A1B0GUD4
+EntryName	A0A1B0GVE0_HUMAN
+ProteinName	Canopy FGF signaling regulator 1
+GeneName	CNPY1
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEIEHDITKARQKKTKVGSFRINPDGTQERRKIPLAQSEAFLTDLLEKVCERMNDYKLEEDPVTKERTFKRFAPRKGDKIYQEFKKLYFYSDAYRPLKFACETIIEEYEDEISSLIAQETHYLADKLCSEKSDLCETSANHTEL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7C369
+Accession	H7C369
+EntryName	H7C369_HUMAN
+ProteinName	Autophagy related 7
+GeneName	ATG7
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XALENPVLLNKFLLLTFADLKKYHFYYWFCYPALCLPESLPLIQGPVGLDQRFSLKQIVLKQLDGKRTRKEAWDQGW
+PTM	

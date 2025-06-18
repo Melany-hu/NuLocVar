@@ -1,0 +1,25 @@
+UniprotID	O95267-3
+Accession	O95267;Q56CZ0;Q58G75;Q59HB1;Q5I3A8;Q6GV31;Q6NX39;Q7LDG6;Q9UI94;Q9UNN9
+EntryName	GRP1_HUMAN
+ProteinName	RAS guanyl-releasing protein 1 (Calcium and DAG-regulated guanine nucleotide exchange factor II) (CalDAG-GEFII) (Ras guanyl-releasing protein)
+GeneName	RASGRP1 RASGRP
+Length	597
+Function	Functions as a calcium- and diacylglycerol (DAG)-regulated nucleotide exchange factor specifically activating Ras through the exchange of bound GDP for GTP (PubMed:15899849, PubMed:23908768, PubMed:27776107, PubMed:29155103). Activates the Erk/MAP kinase cascade (PubMed:15899849). Regulates T-cell/B-cell development, homeostasis and differentiation by coupling T-lymphocyte/B-lymphocyte antigen receptors to Ras (PubMed:10807788, PubMed:12839994, PubMed:27776107, PubMed:29155103). Regulates NK cell cytotoxicity and ITAM-dependent cytokine production by activation of Ras-mediated ERK and JNK pathways (PubMed:19933860). Functions in mast cell degranulation and cytokine secretion, regulating FcERI-evoked allergic responses. May also function in differentiation of other cell types (PubMed:12845332).
+Subcellular Location	Cytoplasm; Cytosol; Cell membrane; Golgi apparatus membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTLGKAREAPRKPSHGCRAASKARLEAKPANSPFPSHPSLAHITQFRMMVSLGHLAKGASLDDLIDSCIQSFDADGNLCRSNQLLQVMLTMHRIVISSAELLQKVITLYKDALAKNSPGLCLKICYFVRYWITEFWVMFKMDASLTDTMEEFQELVKAKGEELHCRLIDTTQINARDWSRKLTQRIKSNTSKKRKVSLLFDHLEPEELSEHLTYLEFKSFRRISFSDYQNYLVNSCVKENPTMERSIALCNGISQWVQLMVLSRPTPQLRAEVFIKFIQVAQKLHQLQNFNTLMAVIGGLCHSSISRLKETSSHVPHEINKVLGEMTELLSSSRNYDNYRRAYGECTDFKIPILGVHLKDLISLYEAMPDYLEDGKVNVHKLLALYNHISELVQLQEVAPPLEANKDLVHLLTLSLDLYYTEDEIYELSYAREPRNHRAPSVFKNYDHDQDGYISQEEFEKIAASFPFSFCVMDKDREGLISRDEITAYFMRASSIYSKLGLGFPHNFQETTYLKPTFCDNCAGFLWGVIKQGYRCKDCGMNCHKQCKDLVVFECKKRAKNPVAPTENNTSVGPVSNLCSLGAKDLLHGNKYSESR
+PTM	Acetylation:6;Methylation:6,105,116,124,158,219,322,497,567,573,735,759,766;Phosphorylation:236,491,518,661,687,693,694,708,710,711,715,732

@@ -1,0 +1,25 @@
+UniprotID	Q9NR22-2
+Accession	Q9NR22;B2RDP0;Q8TBJ8
+EntryName	ANM8_HUMAN
+ProteinName	Protein arginine N-methyltransferase 8 (EC 2.1.1.319) (Heterogeneous nuclear ribonucleoprotein methyltransferase-like protein 4)
+GeneName	PRMT8 HRMT1L3 HRMT1L4
+Length	385
+Function	S-adenosyl-L-methionine-dependent and membrane-associated arginine methyltransferase that can both catalyze the formation of omega-N monomethylarginine (MMA) and asymmetrical dimethylarginine (aDMA) in proteins such as NIFK, myelin basic protein, histone H4, H2A and H2A/H2B dimer (PubMed:16051612, PubMed:17925405, PubMed:26529540, PubMed:26876602). Able to mono- and dimethylate EWS protein; however its precise role toward EWS remains unclear as it still interacts with fully methylated EWS (PubMed:18320585).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESLASDGFKLKEVSSVNSPPSQPPQPVVPAKPVQCVHHVSTQPSCPGRGKMSKLLNPEEMTSRDYYFDSYAHFGIHEEMLKDEVRTLTYRNSMYHNKHVFKDKVVLDVGSGTGILSMFAAKAGAKKVFGIECSSISDYSEKIIKANHLDNIITIFKGKVEEVELPVEKVDIIISEWMGYCLFYESMLNTVIFARDKWLKPGGLMFPDRAALYVVAIEDRQYKDFKIHWWENVYGFDMTCIRDVAMKEPLVDIVDPKQVVTNACLIKEVDIYTVKTEELSFTSAFCLQIQRNDYVHALVTYFNIEFTKCHKKMGFSTAPDAPYTHWKQTVFYLEDYLTVRRGEEIYGTISMKPNAKNVRDLDFTVDLDFKGQLCETSVSNDYKMR
+PTM	Acetylation:168;Methylation:91,131,135,168,178,266,284;Phosphorylation:6,126;Ubiquitylation:168,276

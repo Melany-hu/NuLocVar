@@ -1,0 +1,25 @@
+UniprotID	Q15011-4
+Accession	Q15011;E9PGD1;O60644;Q6IAN8;Q96D92
+EntryName	HERP1_HUMAN
+ProteinName	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Methyl methanesulfonate (MMF)-inducible fragment protein 1)
+GeneName	HERPUD1 HERP KIAA0025 MIF1
+Length	366
+Function	Component of the endoplasmic reticulum quality control (ERQC) system also called ER-associated degradation (ERAD) involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins (PubMed:16289116, PubMed:28827405). Could enhance presenilin-mediated amyloid-beta protein 40 generation. Binds to ubiquilins and this interaction is required for efficient degradation of CD3D via the ERAD pathway (PubMed:18307982).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESETEPEPVTLLVKSPNQRHRDLELSGDRGWSVGHLKAHLSRVYPERPRPEDQRLIYSGKLLLDHQCLRDLLPKVAESTEEPAGSNRGQYPEDSSSDGLRQREVLRNLSSPGWENISRPEAAQQAFQGLGPGFSGYTPYGWLQLSWFQQIYARQYYMQYLAATAASGAFVPPPSAQEIPVVSAPAPAPIHNQFPAENQPANQNAAPQVVVNPGANQNLRMNAQGGPIVEEDDEINRDWLDWTYSAATFSVFLSILYFYSSLSRFLMVMGATVVMYLHHVGWFPFRPRPVQNFPNDGPPPDVVNQDPNNNLQEGTDPETEDPNHLPPDRDVLDGEQTSPSFMSTAWLVFKTFFASLLPEGPPAIAN
+PTM	Methylation:15;Phosphorylation:3,90,92;Ubiquitylation:61,75,89,93,100

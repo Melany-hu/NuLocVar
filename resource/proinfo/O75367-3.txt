@@ -1,0 +1,25 @@
+UniprotID	O75367-3
+Accession	O75367;O75377;Q503A8;Q7Z5E3;Q96D41;Q9H8P3;Q9UP96
+EntryName	H2AY_HUMAN
+ProteinName	Core histone macro-H2A.1 (Histone macroH2A1) (mH2A1) (Histone H2A.y) (H2A/y) (Medulloblastoma antigen MU-MB-50.205)
+GeneName	MACROH2A1 H2AFY
+Length	371
+Function	Variant histone H2A which replaces conventional H2A in a subset of nucleosomes where it represses transcription (PubMed:12718888, PubMed:15621527, PubMed:16428466). Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template (PubMed:15897469). Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability (PubMed:15897469). DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling. Involved in stable X chromosome inactivation (PubMed:15897469). Inhibits the binding of transcription factors, including NF-kappa-B, and interferes with the activity of remodeling SWI/SNF complexes (PubMed:12718888, PubMed:16428466). Inhibits histone acetylation by EP300 and recruits class I HDACs, which induces a hypoacetylated state of chromatin (PubMed:16107708, PubMed:16428466).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	132...137;4...9;3...8
+validnes_region	
+nesbase_region	
+Sequence	MSSRGGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRGSKGKLEAIITPPPAKKAKSPSQKKPVSKKAGGKKGARKSKKQGEVSKAASADSTTEGTPADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAKLDAN
+PTM	Acetylation:116,123,134,135,142,167,189,235,285,292,295,304,307;Methylation:96,116,147,189,226,235,249,292,332,347;Phosphorylation:102,120,129,138,140,166,170,173,174,175,178,232,308,313,316;SUMOylation:73,116,117,121,123,134,167,189,236,239,250,251,285,292,295,307,323;Ubiquitylation:18,96,116,117,121,123,134,167,189,235,239,250,251,271,285,292,295,304,305,307,323

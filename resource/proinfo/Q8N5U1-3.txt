@@ -1,0 +1,25 @@
+UniprotID	Q8N5U1-3
+Accession	Q8N5U1;A9UJY6;A9UJY7;F2Z2J5
+EntryName	M4A15_HUMAN
+ProteinName	Membrane-spanning 4-domains subfamily A member 15
+GeneName	MS4A15
+Length	199
+Function	May be involved in signal transduction as a component of a multimeric receptor complex.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAAPASNGVFVVIPPNNASGLCPPPAILPTSMCQPPGIMQFEEPPLGAQTPRATQPPDLRPVETFLTGEPKVLGFIISGSLSVAAEKNHTSCLVRSSLGTNILSVMAAFAGTAILLMDFGVTNRDVDRGYLAVLTIFTVLEFFTAVIAMHFGCQAIHAQASAPVIFLPNAFSADFNIPSPAASAPPAYDNVAYAQGVV
+PTM	

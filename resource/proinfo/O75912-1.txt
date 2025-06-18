@@ -1,0 +1,25 @@
+UniprotID	O75912-1
+Accession	O75912;A0A087WV00;A4D1Q9;Q9NZ49
+EntryName	DGKI_HUMAN
+ProteinName	Diacylglycerol kinase iota (DAG kinase iota) (DGK-iota) (EC 2.7.1.107)
+GeneName	DGKI
+Length	1065
+Function	Diacylglycerol kinase that converts diacylglycerol/DAG into phosphatidic acid/phosphatidate/PA and regulates the respective levels of these two bioactive lipids (PubMed:23949095, PubMed:9830018). Thereby, acts as a central switch between the signaling pathways activated by these second messengers with different cellular targets and opposite effects in numerous biological processes (Probable). Has probably no preference for any of the diacylglycerols in terms of the acyl chain composition, especially for the acyl chain at the sn-2 position (PubMed:9830018). By controlling the diacylglycerol/DAG-mediated activation of RASGRP3, negatively regulates the Rap1 signaling pathway. May play a role in presynaptic diacylglycerol/DAG signaling and control neurotransmitter release during metabotropic glutamate receptor-dependent long-term depression (By similarity).
+Subcellular Location	Cell projection; Axon; Cell projection; Dendrite; Presynapse; Postsynapse; Postsynaptic density; Synaptic cell membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	889...894
+validnes_region	
+nesbase_region	
+Sequence	MDAAGRGCHLLPLPAARGPARAPAAAAAAAASPPGPCSGAACAPSAAAGAGAMNPSSSAGEEKGATGGSSSSGSGAGSCCLGAEGGADPRGAGSAAAAGAAALDEPAAAGQKEKDEALEEKLRNLTFRKQVSYRKAISRAGLQHLAPAHPLSLPVANGPAKEPRATLDWSENAVNGEHLWLETNVSGDLCYLGEENCQVRFAKSALRRKCAVCKIVVHTACIEQLEKINFRCKPTFREGGSRSPRENFVRHHWVHRRRQEGKCKQCGKGFQQKFSFHSKEIVAISCSWCKQAFHNKVTCFMLHHIEEPCSLGAHAAVIVPPTWIIKVKKPQNSLKASNRKKKRTSFKRKASKRGMEQENKGRPFVIKPISSPLMKPLLVFVNPKSGGNQGTKVLQMFMWYLNPRQVFDLSQEGPKDALELYRKVPNLRILACGGDGTVGWILSILDELQLSPQPPVGVLPLGTGNDLARTLNWGGGYTDEPVSKILCQVEDGTVVQLDRWNLHVERNPDLPPEELEDGVCKLPLNVFNNYFSLGFDAHVTLEFHESREANPEKFNSRFRNKMFYAGAAFSDFLQRSSRDLSKHVKVVCDGTDLTPKIQELKFQCIVFLNIPRYCAGTMPWGNPGDHHDFEPQRHDDGYIEVIGFTMASLAALQVGGHGERLHQCREVMLLTYKSIPMQVDGEPCRLAPAMIRISLRNQANMVQKSKRRTSMPLLNDPQSVPDRLRIRVNKISLQDYEGFHYDKEKLREASISDWLRTIAGELVQSFGAIPLGILVVRGDCDLETCRMYIDRLQEDLQSVSSGSQRVHYQDHETSFPRALSAQRLSPRWCFLDDRSQEHLHFVMEISQDEIFILDPDMVVSQPAGTPPGMPDLVVEQASGISDWWNPALRKRMLSDSGLGMIAPYYEDSDLKDLSHSRVLQSPVSSEDHAILQAVIAGDLMKLIESYKNGGSLLIQGPDHCSLLHYAAKTGNGEIVKYILDHGPSELLDMADSETGETALHKAACQRNRAVCQLLVDAGASLRKTDSKGKTPQERAQQAGDPDLAAYLESRQNYKVIGHEDLETAV
+PTM	Acetylation:203;Methylation:112,227,326,367,582,596,601,976,1023;Phosphorylation:694,820,825,894,921,951,961,1020;Ubiquitylation:553

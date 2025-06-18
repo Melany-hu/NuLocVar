@@ -1,0 +1,25 @@
+UniprotID	M0R1V2
+Accession	M0R1V2
+EntryName	M0R1V2_HUMAN
+ProteinName	Zinc finger protein 677
+GeneName	ZNF677
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSQGLFTFKDVAIEFSQEEWECLDPAQRALYRDVMLENYRNLLSLDEDNIPPEDAFYSIRELRETLVFLIPYSSKICL
+PTM	

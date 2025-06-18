@@ -1,0 +1,25 @@
+UniprotID	D6RDI1
+Accession	D6RDI1
+EntryName	D6RDI1_HUMAN
+ProteinName	MIB E3 ubiquitin protein ligase 2
+GeneName	MIB2
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGWKPSEARGQSQSFQASGLQPRSLKAARRATGRPDRSRAAPPNMDPDPQAGVQASGTPTSSVTAARSTGCGGCAGSAVCAWTTTSARSATCTTSMSSPTPSTATRPLTRALSH
+PTM	

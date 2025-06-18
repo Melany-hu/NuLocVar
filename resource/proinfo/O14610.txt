@@ -1,0 +1,25 @@
+UniprotID	O14610
+Accession	O14610;B2R746;D3DTW5
+EntryName	GBGT2_HUMAN
+ProteinName	Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-T2 (G gamma-C) (G-gamma-8) (G-gamma-9) (Guanine nucleotide binding protein gamma transducing activity polypeptide 2)
+GeneName	GNGT2 GNG8 GNG9 GNGT8
+Length	69
+Function	Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction.
+Subcellular Location	Cell membrane
+Disorder	0.4186,0.4292,0.4256,0.4652,0.4051,0.4409,0.4725,0.4149,0.4220,0.4330,0.4582,0.4149,0.4256,0.4292,0.4220,0.4864,0.4119,0.4369,0.3704,0.3599,0.4119,0.4507,0.4619,0.4725,0.4766,0.4619,0.4441,0.4441,0.4292,0.3807,0.3983,0.3631,0.4330,0.4186,0.4087,0.4186,0.4256,0.5382,0.4149,0.4256,0.4149,0.4256,0.3774,0.4087,0.4220,0.4256,0.4901,0.5098,0.5342,0.5254,0.5854,0.5901,0.6136,0.5992,0.6322,0.5533,0.4766,0.3983,0.3667,0.4330,0.4831,0.4766,0.4582,0.5382,0.4725,0.4369,0.3948,0.3774,0.3215
+ExposeBuried	1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,0,1,0,1,1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1
+SurfaceAccessbility	0.800,0.600,0.686,0.645,0.239,0.475,0.585,0.317,0.512,0.478,0.062,0.391,0.471,0.153,0.039,0.532,0.454,0.054,0.348,0.428,0.508,0.119,0.483,0.184,0.551,0.387,0.215,0.387,0.070,0.290,0.537,0.071,0.075,0.555,0.412,0.026,0.269,0.572,0.126,0.028,0.454,0.646,0.341,0.246,0.528,0.676,0.332,0.322,0.134,0.116,0.317,0.266,0.118,0.386,0.563,0.560,0.662,0.326,0.299,0.124,0.484,0.676,0.587,0.541,0.405,0.146,0.400,0.309,0.850
+SecondStructure	C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,-3.5,-3.5,3.8,-0.8,-3.5,-3.9,-3.5,3.8,3.8,-3.9,1.9,-3.5,4.2,-3.5,-3.5,3.8,-3.9,-3.9,-3.5,4.2,-3.9,-3.5,-0.7,-4.5,4.5,-1.6,4.5,-0.8,-3.9,1.8,-0.4,-3.9,-3.5,4.5,-3.9,-3.5,-1.3,4.2,-3.5,1.8,-3.5,1.8,-0.4,-3.5,-3.5,-1.6,2.8,3.8,-3.9,-0.4,4.5,-1.6,-3.5,-3.5,-3.9,-3.5,-1.6,2.8,-3.9,-3.5,-3.9,-0.4,-0.4,2.5,3.8,4.5,-0.8
+Polar	0,0,1,1,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1
+Charge	0,0,0,-1,0,0,-1,1,-1,0,0,1,0,-1,0,-1,0,0,1,1,-1,0,1,0,0,1,0,0,0,0,1,0,0,1,-1,0,1,-1,0,0,-1,0,0,0,0,0,-1,0,0,0,1,0,0,0,-1,-1,1,0,0,0,1,-1,1,0,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQDLSEKDLLKMEVEQLKKEVKNTRIPISKAGKEIKEYVEAQAGNDPFLKGIPEDKNPFKEKGGCLIS
+PTM	Methylation:12,19;Ubiquitylation:12,19

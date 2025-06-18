@@ -1,0 +1,25 @@
+UniprotID	A0A087X0E7
+Accession	A0A087X0E7
+EntryName	A0A087X0E7_HUMAN
+ProteinName	Chromosome 18 open reading frame 21
+GeneName	C18orf21
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRQKHYLEAAARGLHDSCPGQARYLLWAYTSSHDDKSTFEETCPYCFQLLVLDNSRVRLKPKARLTPKIQKLLNREARNYTLSFKEAKMVKKFKDSKSVLNTYIWTVSIYLLLKEHQQNKETLLSTKNVT
+PTM	

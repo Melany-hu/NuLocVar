@@ -1,0 +1,25 @@
+UniprotID	Q5SRD1-2
+Accession	Q5SRD1;B4DDK6;E7EP42;Q5SRD2
+EntryName	TI23B_HUMAN
+ProteinName	Mitochondrial import inner membrane translocase subunit Tim23B (TIMM23B)
+GeneName	TIMM23B
+Length	140
+Function	May participate in the translocation of transit peptide-containing proteins across the mitochondrial inner membrane. the PAM complex (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGGGGSGDKTTGVLAGFFGAGEAGYSHADLAGVPLTGMNPLCPYLNVDPRYLVQDTDEFILPTGANKTWGRFELAFFTIGGCCMTALLYSAFGVIIEKTRGAEDDLNTVAAGTMTGMLYKCTVSEMALDSPFCVLLSGS
+PTM	Methylation:68,147,169;Ubiquitylation:68,101

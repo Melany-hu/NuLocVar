@@ -1,0 +1,25 @@
+UniprotID	Q06330-6
+Accession	Q06330;B4DY22;Q5XKH9;Q6P1N3
+EntryName	SUH_HUMAN
+ProteinName	Recombining binding protein suppressor of hairless (CBF-1) (J kappa-recombination signal-binding protein) (RBP-J kappa) (RBP-J) (RBP-JK) (Renal carcinoma antigen NY-REN-30)
+GeneName	RBPJ IGKJRB IGKJRB1 RBPJK RBPSUH
+Length	486
+Function	Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some NICD product of Notch proteins (Notch intracellular domain), it acts as a transcriptional activator that activates transcription of Notch target genes. Probably represses or activates transcription via the recruitment of chromatin remodeling complexes containing histone deacetylase or histone acetylase proteins, respectively. Specifically binds to the immunoglobulin kappa-type J segment recombination signal sequence. Binds specifically to methylated DNA (PubMed:21991380). Binds to the oxygen responsive element of COX4I2 and activates its transcription under hypoxia conditions (4% oxygen) (PubMed:23303788). Negatively regulates the phagocyte oxidative burst in response to bacterial infection by repressing transcription of NADPH oxidase subunits (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	151...156
+validnes_region	
+nesbase_region	
+Sequence	MAWIKRKFGERPPPKRLTREAMRNYLKERGDQTVLILHAKVAQKSYGNEKRFFCPPPCVYLMGSGWKKKKEQMERDGCSEQESQPCAFIGIGNSDQEMQQLNLEGKNYCTAKTLYISDSDKRKHFMLSVKMFYGNSDDIGVFLSKRIKVISKPSKKKQSLKNADLCIASGTKVALFNRLRSQTVSTRYLHVEGGNFHASSQQWGAFFIHLLDDDESEGEEFTVRDGYIHYGQTVKLVCSVTGMALPRLIIRKVDKQTALLDADDPVSQLHKCAFYLKDTERMYLCLSQERIIQFQATPCPKEPNKEMINDGASWTIISTDKAEYTFYEGMGPVLAPVTPVPVVESLQLNGGGDVAMLELTGQNFTPNLRVWFGDVEAETMYRCGESMLCVVPDISAFREGWRWVRQPVQVPVTLVRNDGIIYSTSLTFTYTPEPGPRPHCSAAGAILRANSSQVPPNESNTNSEGSYTNASTNSTSVTSSTATVVS
+PTM	Acetylation:21,54,135,291;Methylation:41,159,186,266,291;Phosphorylation:4,7,18,147,150,195,197,199,200,230,409;SUMOylation:269,315;Ubiquitylation:58,135

@@ -1,0 +1,25 @@
+UniprotID	Q92851-4
+Accession	Q92851;Q68HC0;Q6KF62;Q6KF63;Q8IUP5;Q8WYQ8;Q99845;Q9Y2U6;Q9Y2U7
+EntryName	CASPA_HUMAN
+ProteinName	Caspase-10 (CASP-10) (EC 3.4.22.63) (Apoptotic protease Mch-4) (FAS-associated death domain protein interleukin-1B-converting enzyme 2) (FLICE2) (ICE-like apoptotic protease 4) [Cleaved into: Caspase-10 subunit p23/17; Caspase-10 subunit p12]
+GeneName	CASP10 MCH4
+Length	522
+Function	Involved in the activation cascade of caspases responsible for apoptosis execution. Recruited to both Fas- and TNFR-1 receptors in a FADD dependent manner. May participate in the granzyme B apoptotic pathways. Cleaves and activates effector caspases CASP3, CASP4, CASP6, CASP7, CASP8 and CASP9. Hydrolyzes the small- molecule substrates, Tyr-Val-Ala-Asp-|-AMC and Asp-Glu-Val-Asp-|-AMC.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSQGQHWYSSSDKNCKVSFREKLLIIDSNLGVQDVENLKFLCIGLVPNKKLEKSSSASDVFEHLLAEDLLSEEDPFFLAELLYIIRQKKLLQHLNCTKEEVERLLPTRQRVSLFRNLLYELSEGIDSENLKDMIFLLKDSLPKTEMTSLSFLAFLEKQGKIDEDNLTCLEDLCKTVVPKLLRNIEKYKREKAIQIVTPPVDKEAESYQGEEELVSQTDVKTFLEALPQESWQNKHAGSNGNRATNGAPSLVSRGMQGASANTLNSETSTKRAAVYRMNRNHRGLCVIVNNHSFTSLKDRQGTHKDAEILSHVFQWLGFTVHIHNNVTKVEMEMVLQKQKCNPAHADGDCFVFCILTHGRFGAVYSSDEALIPIREIMSHFTALQCPRLAEKPKLFFIQACQGEEIQPSVSIEADALNPEQAPTSLQDSIPAEADFLLGLATVPGYVSFRHVEEGSWYIQSLCNHLKKLVPRHEDILSILTAVNDDVSRRVDKQGTKKQMPQPAFTLRKKLVFPVPLDALSL
+PTM	Acetylation:2;Methylation:40,132,187;Phosphorylation:141,176,198,216,239,263,269

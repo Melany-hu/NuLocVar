@@ -1,0 +1,25 @@
+UniprotID	Q9BPY8-3
+Accession	Q9BPY8;A8K0Z2;E9PB55;G3V294;Q8N0V6;Q96CI1
+EntryName	HOP_HUMAN
+ProteinName	Homeodomain-only protein (Lung cancer-associated Y protein) (Not expressed in choriocarcinoma protein 1) (Odd homeobox protein 1)
+GeneName	HOPX HOD HOP LAGY NECC1 OB1
+Length	91
+Function	Atypical homeodomain protein which does not bind DNA and is required to modulate cardiac growth and development. Acts via its interaction with SRF, thereby modulating the expression of SRF-dependent cardiac-specific genes and cardiac development. Prevents SRF-dependent transcription either by inhibiting SRF binding to DNA or by recruiting histone deacetylase (HDAC) proteins that prevent transcription by SRF. Overexpression causes cardiac hypertrophy (By similarity). May act as a tumor suppressor. Acts as a co-chaperone for HSPA1A and HSPA1B chaperone proteins and assists in chaperone-mediated protein refolding (PubMed:27708256).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIFLGCYRRRLEERAGTMSAETASGPTEDQVEILEYNFNKVDKHPDSTTLCLIAAEAGLSEEETQKWFKQRLAKWRRSEGLPSECRSVTD
+PTM	Phosphorylation:61,66,70,72

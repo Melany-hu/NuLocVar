@@ -1,0 +1,25 @@
+UniprotID	Q9UI10-3
+Accession	Q9UI10;Q53RY7;Q5BJF4;Q9BUV9;Q9UBG4;Q9UIQ9;Q9UJ95
+EntryName	EI2BD_HUMAN
+ProteinName	Translation initiation factor eIF2B subunit delta (eIF2B GDP-GTP exchange factor subunit delta)
+GeneName	EIF2B4 EIF2BD
+Length	522
+Function	Acts as a component of the translation initiation factor 2B (eIF2B) complex, which catalyzes the exchange of GDP for GTP on eukaryotic initiation factor 2 (eIF2) gamma subunit (PubMed:25858979, PubMed:27023709, PubMed:31048492). Its guanine nucleotide exchange factor activity is repressed when bound to eIF2 complex phosphorylated on the alpha subunit, thereby limiting the amount of methionyl-initiator methionine tRNA available to the ribosome and consequently global translation is repressed (PubMed:25858979, PubMed:31048492).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVAVAVREDSGSGMKAELPPGPGAVGREMTKEEKLQLRKEKKQQKKKRKEEKGAEPETGSAVSAAQCQGPTRELPESGIQLGTPREKVPAGRSKAELRAERRAKQEAERALKQARKGEQGGPPPKASPSTAGETPSGVKRLPEYPQVDDLLLRRLVKKPERQQVPTRKDYGSKVSLFSHLPQYSRQNSLTQFMSIPSSVIHPAMVRLGLQYSQGLVSGSNARCIALLRALQQVIQDYTTPPNEELSRDLVNKLKPYMSFLTQCRPLSASMHNAIKFLNKEITSVGSSKREEEAKSELRAAIDRYVQEKIVLAAQAISRFAYQKISNGDVILVYGCSSLVSRILQEAWTEGRRFRVVVVDSRPWLEGRHTLRSLVHAGVPASYLLIPAASYVLPEVSKVLLGAHALLANGSVMSRVGTAQLALVARAHNVPVLVCCETYKFCERVQTDAFVSNELDDPDDLQCKRGEHVALANWQNHASLRLLNLVYDVTPPELVDLVITELGMIPCSSVPVVLRVKSSDQ
+PTM	Acetylation:142;Methylation:97,278,282,311,326,374,466;Phosphorylation:12,86,130,132,133,137,139,147,178,181,187,191,193,285,289,290,328,340,351,489,492;SUMOylation:17,297;Ubiquitylation:142,176,291,297,311,466

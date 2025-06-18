@@ -1,0 +1,25 @@
+UniprotID	Q05932-4
+Accession	Q05932;B3KPW4;B7Z2Z3;F5H0K6;Q5JU19;Q5JU22;Q6P2P6
+EntryName	FOLC_HUMAN
+ProteinName	Folylpolyglutamate synthase, mitochondrial (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase) (FPGS) (Tetrahydrofolylpolyglutamate synthase) (Tetrahydrofolate synthase)
+GeneName	FPGS
+Length	561
+Function	Catalyzes conversion of folates to polyglutamate derivatives allowing concentration of folate compounds in the cell and the intracellular retention of these cofactors, which are important substrates for most of the folate-dependent enzymes that are involved in one-carbon transfer reactions involved in purine, pyrimidine and amino acid synthesis. Unsubstituted reduced folates are the preferred substrates. Metabolizes methotrexate (MTX) to polyglutamates.
+Subcellular Location	Mitochondrion inner membrane; Mitochondrion matrix; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRARSHLRAALFLAAASARGITTQVAARRGLSAWPVPQEPSMEYQDAVRMLNTLQTNAGYLEQVKRQRGDPQTQLEAMELYLARSGLQVEDLDRLNIIHVTGTKGKGSTCAFTECILRSYGLKTGFFSSPHLVQVRERIRINGQPISPELFTKYFWRLYHRLEETKVDLAVVEVGIGGAYDCTNIIRKPVVCGVSSLGIDHTSLLGDTVEKIAWQKGGIFKQGVPAFTVLQPEGPLAVLRDRAQQISCPLYLCPMLEALEEGGPPLTLGLEGEHQRSNAALALQLAHCWLQRQDRHGAGEPKASRPGLLWQLPLAPVFQPTSHMRLGLRNTEWPGRTQVLRRGPLTWYLDGAHTASSAQACVRWFRQALQGRERPSGGPEVRVLLFNATGDRDPAALLKLLQPCQFDYAVFCPNLTEVSSTGNADQQNFTVTLDQVLLRCLEHQQHWNHLDEEQASPDLWSAPSPEPGGSASLLLAPHPPHTCSASSLVFSCISHALQWISQGRDPIFQPPSPPKGLLTHPVAHSGASILREAAAIHVLVTGSLHLVGGVLKLLEPALSQ
+PTM	Methylation:193,215,426;Phosphorylation:74,403,539;SUMOylation:66,243;Ubiquitylation:66,107,124,154,167,243,248

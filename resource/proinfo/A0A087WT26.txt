@@ -1,0 +1,25 @@
+UniprotID	A0A087WT26
+Accession	A0A087WT26
+EntryName	A0A087WT26_HUMAN
+ProteinName	VAC14 component of PIKFYVE complex
+GeneName	VAC14
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPRKMFRHTDSLFPILLQTLSDESDEVILKDLEVLAEIASSPAGQTDDPGPLDGPDLQASHSELQVPTPGRAGLLNTSGTKGLECSPSTPTMNSYFYKFMINLLKRFSSERKLLEVRGPFIIRSALAARFLLFLPRPRLFTFTPFKCQSSHLLFPFSLLLFLTFGSVRNEEGCPFILVADASDMK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	D6R9F5
+Accession	D6R9F5
+EntryName	D6R9F5_HUMAN
+ProteinName	Palladin, cytoskeletal associated protein
+GeneName	PALLD
+Length	90
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARRLLGADSATVFNIQEPEEETANQEYKVSSCEQRLISEIEYRLERSPVDESGDEVQYGDVPVENGMAPFFEMKLKHYKIFEGMPVTFT
+PTM	

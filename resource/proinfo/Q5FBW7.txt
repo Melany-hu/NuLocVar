@@ -1,0 +1,25 @@
+UniprotID	Q5FBW7
+Accession	Q5FBW7
+EntryName	Q5FBW7_HUMAN
+ProteinName	Postmeiotic segregation increased 2 nirs variant 6
+GeneName	PMS2
+Length	30
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERAESSSTEPAKAIKPIDRNGPACHGREV
+PTM	

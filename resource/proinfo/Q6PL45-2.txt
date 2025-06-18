@@ -1,0 +1,25 @@
+UniprotID	Q6PL45-2
+Accession	Q6PL45;C9J7K2;Q8IXU9
+EntryName	BRID5_HUMAN
+ProteinName	BRICHOS domain-containing protein 5
+GeneName	BRICD5 C16orf79
+Length	228
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPASCCAERPKPGPTGVKTKPSCGGWRAVSLLLLLLLLVLAAVGVVAGGLLGSAQGPPKPRLQTLRMTLPSPHMPRPNQTILVDVARNAATITVTPPQSNHSWAVLFDGQSGCICYRPEEHQVCFLRLMEDSDRETLRLLVDTSKVQEAWVPSQDTHHTQELLAVQGSLEVDPAQAGALVQRLCMRTPIYWARRAEGPRRQRLIYLCIDICFPSNICVSVCFYYLPD
+PTM	

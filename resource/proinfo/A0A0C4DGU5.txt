@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DGU5
+Accession	A0A0C4DGU5
+EntryName	A0A0C4DGU5_HUMAN
+ProteinName	Nucleolar protein 16
+GeneName	NOP16
+Length	231
+Function	
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKAKGKTRRQKFGYSVNRKRLNRNARRKAAPRIECSHIRHAWDHAKSVRQNLAEMGLAVDPNRAVPLRKRKVKAMEVDIEERPKELVRKPYVLNDLEAEASLPEKKGNTLSRDLIDYVRYMVENHGEDYKSGKTSSILCRRGRWRWSDWFTSQLPQAEASPGPVKLEPGCKARRCCVAPEELARSHGIRRLHTHVHTPRSGEGTVLRGSNLYSSGGSRKSQNLLFSGWVM
+PTM	

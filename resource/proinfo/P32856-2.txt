@@ -1,0 +1,25 @@
+UniprotID	P32856-2
+Accession	P32856;Q86VW8
+EntryName	STX2_HUMAN
+ProteinName	Syntaxin-2 (Epimorphin)
+GeneName	STX2 EPIM STX2A STX2B STX2C
+Length	287
+Function	Essential for epithelial morphogenesis. May mediate Ca(2+)-regulation of exocytosis acrosomal reaction in sperm.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDRLPDLTACRKNDDGDTVVVVEKDHFMDDFFHQVEEIRNSIDKITQYVEEVKKNHSIILSAPNPEGKIKEELEDLNKEIKKTANKIRAKLKAIEQSFDQDESGNRTSVDLRIRRTQHSVLSRKFVEAMAEYNEAQTLFRERSKGRIQRQLEITGRTTTDDELEEMLESGKPSIFTSDIISDSQITRQALNEIESRHKDIMKLETSIRELHEMFMDMAMFVETQGEMINNIERNVMNATDYVEHAKEETKKAIKYQSKARRKLMFIIICVIVLLVILGIILATTLS
+PTM	Methylation:25,79;Phosphorylation:170,240;Ubiquitylation:93,255

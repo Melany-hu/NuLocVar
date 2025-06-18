@@ -1,0 +1,25 @@
+UniprotID	Q5JR89
+Accession	Q5JR89
+EntryName	Q5JR89_HUMAN
+ProteinName	Mitotic centromere-associated kinesin
+GeneName	KIF2C
+Length	287
+Function	In complex with KIF18B, constitutes the major microtubule plus-end depolymerizing activity in mitotic cells. Regulates the turnover of microtubules at the kinetochore and functions in chromosome segregation during mitosis. Plays a role in chromosome congression and is required for the lateral to end-on conversion of the chromosome-microtubule attachment.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRSGVPRSRGLVSGLIHSANVRTVNLEKSCVSVEWAEGGATKGKEIDFDDVAAINPELLQLLPLHPKDNLPLQENVTIQKQKRRSVNSKIPAPKESLRSRSTRMSTVSELRITAQENDMEVELPAAANSRKQFSVPPAPTRPSCPAVAEIPLRMVSEEMEEQVHSIRGSSSANPVNSVRRKSCLVKEVEKMKNKREEKKAQNSEMRMKRAQEYDSSFPNWEFARMIKEFRATLECHPLTMTDPIEEHRICVCVRKRPLNKQELAKKEIDVISIPSKCLLLVHEPKL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A6NGX6
+Accession	A6NGX6
+EntryName	A6NGX6_HUMAN
+ProteinName	DNA-directed RNA polymerase III subunit
+GeneName	POLR3GL
+Length	195
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Specific peripheric component of RNA polymerase III which synthesizes small RNAs, such as 5S rRNA and tRNAs.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRGGGRGRGRGQLTFNVEAVGIGKGDALPPPTLQPSPLFPPLEFRPVPLPSGEEGEYVLALKQELRGAMRQLPYFIRPAVPKRDWRRLPRELKIRVRKLQKERITILLPKRPPKTTEDKEETIQKLETLEKKEEEVTSEEDEEKEEEEEKEEEEEEEYDEEEHEEETDYIMSYFDNGEDFGGDSDDNMDEAIY
+PTM	

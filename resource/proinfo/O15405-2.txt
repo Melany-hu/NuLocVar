@@ -1,0 +1,25 @@
+UniprotID	O15405-2
+Accession	O15405;B4DRD0;B5MCW4
+EntryName	TOX3_HUMAN
+ProteinName	TOX high mobility group box family member 3 (CAG trinucleotide repeat-containing gene F9 protein) (Trinucleotide repeat-containing gene 9 protein)
+GeneName	TOX3 CAGF9 TNRC9
+Length	571
+Function	Transcriptional coactivator of the p300/CBP-mediated transcription complex. Activates transactivation through cAMP response element (CRE) sites. Protects against cell death by inducing antiapoptotic and repressing pro-apoptotic transcripts. Stimulates transcription from the estrogen-responsive or BCL-2 promoters. Required for depolarization-induced transcription activation of the C-FOS promoter in neurons. Associates with chromatin to the estrogen-responsive C3 promoter region.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	233...238;235...240;237...242;236...241
+validnes_region	
+nesbase_region	
+Sequence	MKCQPRSGARRIEERLHYLITTYLKFGNNNNYMNMAEANNAFFAASETFHTPSLGDEEFEIPPITPPPESDPALGMPDVLLPFQALSDPLPSQGSEFTPQFPPQSLDLPSITISRNLVEQDGVLHSSGLHMDQSHTQVSQYRQDPSLIMRSIVHMTDAARSGVMPPAQLTTINQSQLSAQLGLNLGGASMPHTSPSPPASKSATPSPSSSINEEDADEANRAIGEKRAAPDSGKKPKTPKKKKKKDPNEPQKPVSAYALFFRDTQAAIKGQNPNATFGEVSKIVASMWDSLGEEQKQVYKRKTEAAKKEYLKALAAYRASLVSKAAAESAEAQTIRSVQQTLASTNLTSSLLLNTPLSQHGTVSASPQTLQQSLPRSIAPKPLTMRLPMNQIVTSVTIAANMPSNIGAPLISSMGTTMVGSAPSTQVSPSVQTQQHQMQLQQQQQQQQQQMQQMQQQQLQQHQMHQQIQQQMQQQHFQHHMQQHLQQQQQHLQQQINQQQLQQQLQQRLQLQQLQHMQHQSQPSPRQHSPVASQITSPIPAIGSPQPASQQHQSQIQSQTQTQVLSQVSIF
+PTM	Acetylation:257;Methylation:231,287,329;Phosphorylation:119,315,325;Ubiquitylation:274,287

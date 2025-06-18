@@ -1,0 +1,25 @@
+UniprotID	Q14D93
+Accession	Q14D93
+EntryName	Q14D93_HUMAN
+ProteinName	Chromosome 22 open reading frame 15
+GeneName	C22orf15 hCG_2043018
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCSQPGLANSSRVRGRVGTIRPVRCPSSSLHMSQRERTWPPPAMSPYWRTWMTITQSWQVSVRVQPRGRAHLLPNPYQQDFLGLPEELRRLSGLSSVGHNWRKRMGTRRGRHEQSPTSRPRKVSSLPPRSC
+PTM	

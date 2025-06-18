@@ -1,0 +1,25 @@
+UniprotID	A0A087X2C3
+Accession	A0A087X2C3
+EntryName	A0A087X2C3_HUMAN
+ProteinName	RAP2C, member of RAS oncogene family
+GeneName	RAP2C hCG_2043125
+Length	117
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDLYIKNGQGFILVYSLVNQQSFQDIKPMRDQIVRVKRYEKVPLILVGNKVDLEPEREVMSSEGRALAQEWGCPFMETSAKSKSMVDELFAEIVRQMNYSSLPEKQDQCCTTCVVQ
+PTM	

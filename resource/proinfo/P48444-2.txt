@@ -1,0 +1,25 @@
+UniprotID	P48444-2
+Accession	P48444;B4E1X2;E9PEU4;Q52M80
+EntryName	COPD_HUMAN
+ProteinName	Coatomer subunit delta (Archain) (Delta-coat protein) (Delta-COP)
+GeneName	ARCN1 COPD
+Length	423
+Function	Component of the coatomer, a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. The coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. In mammals, the coatomer can only be recruited by membranes associated to ADP-ribosylation factors (ARFs), which are small GTP-binding proteins; the complex also influences the Golgi structural integrity, as well as the processing, activity, and endocytic recycling of LDL receptors (By similarity).
+Subcellular Location	Cytoplasm; Golgi apparatus membrane; Cytoplasmic vesicle; COPI-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPEYCRALEENEISEHCFDLIFAFDEIVALGYRENVNLAQIRTFTEMDSHEEKVFRAVRETQEREAKAEMRRKAKELQQARRDAERQGKKAPGFGGFGSSAVSGGSTAAMITETIIETDKPKVAPAPARPSGPSKALKLGAKGKEVDNFVDKLKSEGETIMSSSMGKRTSEATKMHAPPINMESVHMKIEEKITLTCGRDGGLQNMELHGMIMLRISDDKYGRIRLHVENEDKKGVQLQTHPNVDKKLFTAESLIGLKNPEKSFPVNSDVGVLKWRLQTTEESFIPLTINCWPSESGNGCDVNIEYELQEDNLELNDVVITIPLPSGVGAPVIGEIDGEYRHDSRRNTLEWCLPVIDAKNKSGSLEFSIAGQPNDFFPVQVSFVSKKNYCNIQVTKVTQVDGNSPVRFSTETTFLVDKYEIL
+PTM	Acetylation:14,38,44,142,224,227,231,233,241,256,309,322,335,336,347,351,363,485;Methylation:142,178,256,347,363,448;Phosphorylation:74,82,189,192,195,196,203,220,223,244,251,252,253,258,259,283,285,310,342,437,478,493;SUMOylation:243,323;Ubiquitylation:14,44,142,156,162,164,179,211,224,227,233,241,243,256,263,309,322,323,335,336,347,351,363,448,450,476,485

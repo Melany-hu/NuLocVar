@@ -1,0 +1,25 @@
+UniprotID	H3BV97
+Accession	H3BV97
+EntryName	H3BV97_HUMAN
+ProteinName	IQ motif containing K
+GeneName	IQCK
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPRQIPSHIVRLKPSCSTDSSFTRTPVPTVSLASRELPVSSWQVTEPSSKNLWEQICKEYEAEQPPFPEGYKVKQEPVITVAPVEEMLFHGFSAEHYFPVSHFTMISRTPCPQDKSETINPKT
+PTM	

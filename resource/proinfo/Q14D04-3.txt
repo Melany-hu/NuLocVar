@@ -1,0 +1,25 @@
+UniprotID	Q14D04-3
+Accession	Q14D04;D3DNL0;F5GZ91;Q2TAA9;Q3MIX2;Q6PEL3;Q86TL5;Q8TCR3;Q96SP7;Q9C0H1;Q9H9Q7
+EntryName	MELT_HUMAN
+ProteinName	Ventricular zone-expressed PH domain-containing protein homolog 1 (Protein melted)
+GeneName	VEPH1 KIAA1692 VEPH
+Length	213
+Function	Interacts with TGF-beta receptor type-1 (TGFBR1) and inhibits dissociation of activated SMAD2 from TGFBR1, impeding its nuclear accumulation and resulting in impaired TGF-beta signaling. May also affect FOXO, Hippo and Wnt signaling.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHQLFRLVLGQKDLSRAGDLFSLDDSEIEDSLTEALEQIKIISSSSDYQTNNNDQAVVEICITRITTAIRETESIEKHAKALVGLWDSCLEHNLRPFGKDEDTPHAKIASDIMSCILQNYNRPPVMALAIPIAVKFLHRGNKELCRNMSNYLSLAAITKADLLADHTEVIVKSILQGMVRKLSLGTCFGRYLKVFSSSIYGLWEARPRVLEAN
+PTM	Methylation:12,40,77,172,236,332,415,436,752;Phosphorylation:353,357,380,381,422,425,429,430,435,447,449,462,476,478,509,529,533,539,598,755,783

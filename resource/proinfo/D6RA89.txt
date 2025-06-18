@@ -1,0 +1,25 @@
+UniprotID	D6RA89
+Accession	D6RA89
+EntryName	D6RA89_HUMAN
+ProteinName	RING-type E3 ubiquitin transferase (EC 2.3.2.27)
+GeneName	PEX10
+Length	209
+Function	
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPAAASPPEVIRAAQKDEYYRGGLRSAAGGALHSLAGARKWLEWRKEVELLSDVAYFGLTTLAGYQTLGEEYVSIIQVDPSRIHVPSSLRRGVLVTLHAVLPYLLDKALLPLEQELQADPDSGRPLQGSLGPGGRGCSGARRWMRHHTATLTEQQRRALLRAVFVLRQGLACLQRLHVAWFYIHGVFYHLAKRLTGITSVSAACPERT
+PTM	

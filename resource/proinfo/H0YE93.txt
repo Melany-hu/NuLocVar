@@ -1,0 +1,25 @@
+UniprotID	H0YE93
+Accession	H0YE93
+EntryName	H0YE93_HUMAN
+ProteinName	Oxysterol binding protein like 9
+GeneName	OSBPL9
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSLAAPKMASIMEGPLSKWTNVMKGWQYRWFVLDYNAGLLSYYTSKDKMMRGSRRGCVRLRPVMLMSERSGSMP
+PTM	

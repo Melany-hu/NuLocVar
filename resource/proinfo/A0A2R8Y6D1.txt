@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y6D1
+Accession	A0A2R8Y6D1
+EntryName	A0A2R8Y6D1_HUMAN
+ProteinName	Solute carrier family 29 member 1 (Augustine blood group)
+GeneName	SLC29A1
+Length	210
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGLGTLLPWNFFMTATQYFTNRLDMSQNVSLVTAELSKDAQASAAPAAPLPERNSLSAIFNNVMTLCAMLPLLLFTYLNSFLHQRIPQSVRILGSLVAILLVFLITAILVKVQLDALPFFVITMIKIVLINSFGAILQGSLFGLAGLLPASYTAPIMSGQGLAGFFASVAMICAIASGSELSESAFGYFITACAVIILTIICYLGLPRL
+PTM	

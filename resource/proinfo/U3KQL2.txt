@@ -1,0 +1,25 @@
+UniprotID	U3KQL2
+Accession	U3KQL2
+EntryName	U3KQL2_HUMAN
+ProteinName	acylphosphatase (EC 3.6.1.7)
+GeneName	ACYP2
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLTQSLFGGLFPRTRETMRRYKVSLFYLGCSRTPNVKLSSCLGLPCCWDYSYKFIQLSEFGFGQVIIVSEEPWKENISCSSTTFIKSTICLSVCFRMYTEDEARKIGVVGWVKNTSKGTVTGQVQGPEDKVNSMKSWLSKVGSPSSRIDRTNFSNEKTISKLEYSNFSIRY
+PTM	

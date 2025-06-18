@@ -1,0 +1,25 @@
+UniprotID	P51636-3
+Accession	P51636;A4D0U2;Q9UGM7
+EntryName	CAV2_HUMAN
+ProteinName	Caveolin-2
+GeneName	CAV2
+Length	112
+Function	May act as a scaffolding protein within caveolar membranes. Interacts directly with G-protein alpha subunits and can functionally regulate their activity. Acts as an accessory protein in conjunction with CAV1 in targeting to lipid rafts and driving caveolae formation. The Ser-36 phosphorylated form has a role in modulating mitosis in endothelial cells. Positive regulator of cellular mitogenesis of the MAPK signaling pathway. Required for the insulin-stimulated nuclear translocation and activation of MAPK1 and STAT3, and the subsequent regulation of cell cycle progression (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Golgi apparatus membrane; Cell membrane; Membrane; Caveola
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLETEKADVQLFMDDDSYSHHSGLEYADPEKFADSDQDRDPHRLNSHLKDFNAFCKDLPNGSAFSADNMEECDRCYHCSIVYERRTMLLFCQPATEPGLNTWTPGLEIGIL
+PTM	Phosphorylation:18,19,20,23,27,36,47;Ubiquitylation:7

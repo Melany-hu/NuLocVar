@@ -1,0 +1,25 @@
+UniprotID	Q9BV97-1
+Accession	Q9BV97;A8K827;B7WNU3;B7Z5R0;Q59FB4;Q96NW0
+EntryName	ZN747_HUMAN
+ProteinName	Zinc finger protein 747
+GeneName	ZNF747
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDPSLGLTVPMAPPLAPLPPRDPNGAGSEWRKPGAVSFADVAVYFSREEWGCLRPAQRALYRDVMRETYGHLGALGESPTCLPGPCASTGPAAPLGAACGVGGPGAGQAASSQRGVCVLLPQESEAASRRSSPGWRRRPNCGIRLPRIRRWRSVRQKRTQQIPETRKRKDKGKGREPWRSPTLWPPGLLG
+PTM	Phosphorylation:5,9

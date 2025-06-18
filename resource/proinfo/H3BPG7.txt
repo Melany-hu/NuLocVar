@@ -1,0 +1,25 @@
+UniprotID	H3BPG7
+Accession	H3BPG7
+EntryName	H3BPG7_HUMAN
+ProteinName	Cytokine induced apoptosis inhibitor 1
+GeneName	CIAPIN1
+Length	239
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADFGISAGQFVAVVWDKSSPVEALKGLVDKLQALTGNEGRVSVENIKQLLQSAHKESSFDIILSGLVPGSTTLHSAEILAEIARILRPGGCLFLKEPVETALQREPLTPEEVQSVREHLGHESDNLLFVQITGKKPNFEVGSSRQLKLSITKKSSPSVKPAVDPAAAKLWTLSANDMEDDSMHLWPCRRTGKREVKGTDELPTQVSLWKLLPGRCLPLCQLPLPWDASLQTWGKGASE
+PTM	

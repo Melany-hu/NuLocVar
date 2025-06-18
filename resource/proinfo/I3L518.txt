@@ -1,0 +1,25 @@
+UniprotID	I3L518
+Accession	I3L518
+EntryName	I3L518_HUMAN
+ProteinName	NUBP iron-sulfur cluster assembly factor 1, cytosolic
+GeneName	NUBP1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XITTPQEVSLQDVRKEINFCRKVKLPIIGVVENMSGFICPKCKVRIVTKASLFSLTPQIPQPR
+PTM	

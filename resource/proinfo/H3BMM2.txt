@@ -1,0 +1,25 @@
+UniprotID	H3BMM2
+Accession	H3BMM2
+EntryName	H3BMM2_HUMAN
+ProteinName	Formiminotransferase cyclodeaminase N-terminal like (HCG1653746, isoform CRA_c)
+GeneName	FTCDNL1 hCG_1653746
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSSRVGLRLAACLLNVSEAGRKYIVENIAKAALLDKNGKKHPQVSVLNIFSDQDYKRSVITIATSVDKLVDKRNQA
+PTM	

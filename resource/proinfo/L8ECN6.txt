@@ -1,0 +1,25 @@
+UniprotID	L8ECN6
+Accession	L8ECN6
+EntryName	L8ECN6_HUMAN
+ProteinName	Alternative protein FAM71A
+GeneName	FAM71A
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLEGRDSKMTLTNPLMCSMHPSPKHLQNLLRSQQQGGLKRQQQQGQLQGQQQAP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	U3KQ32
+Accession	U3KQ32
+EntryName	U3KQ32_HUMAN
+ProteinName	Tumor protein p53-inducible protein 11 (p53-induced gene 11 protein)
+GeneName	TP53I11
+Length	154
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAKQPPPLMKKHSQTDLVSRLKTRKILGVGGEDDDGEVHRSKISQVLGNEIKFTIREPLGLRVWQFVSAVLFSGIAIMALAFPDQLYDAVFDGAQVTSKTPIRLYGGALLNAAPTPRPLMKLSAGDVLPSCGHWWNTPSGLELAVATICKERS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B5MCI6
+Accession	B5MCI6
+EntryName	B5MCI6_HUMAN
+ProteinName	Protein MEMO1 (Mediator of ErbB2-driven cell motility 1)
+GeneName	MEMO1
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNRVVCREASHAGSWYTASGPQLNAQLEGWLSQVQSTKRPARAIIAPHAGYTYCGSCAAHAYKQVDPSITFSRSALMLNILSLCLFIFSSIRKMPFLII
+PTM	

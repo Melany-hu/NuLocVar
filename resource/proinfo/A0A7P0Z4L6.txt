@@ -1,0 +1,25 @@
+UniprotID	A0A7P0Z4L6
+Accession	A0A7P0Z4L6
+EntryName	A0A7P0Z4L6_HUMAN
+ProteinName	DNA-repair protein Xrcc1 N-terminal domain-containing protein
+GeneName	LOC100133315
+Length	234
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPVKISHVVSFSSQDPKYPVENLLNPDSPRRPWLGCPQDKSGQLKVELQLERAVPTGYIDVGNCGCAFLQIDVGHSSWPLDRPFITLLPATTLMSLTDSKQGKNRSGVRMFKDVDFLAPASGELWDRLRLTCSRPFTRHQSFGLAFLRVCSSLDSLDDSVVGPSALLSSVLNKIREFKTCFFSWSLKKMELEFSPLLLSINLNDLQFAADAEVSTVSNCMFISIALQSAMIIF
+PTM	

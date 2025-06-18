@@ -1,0 +1,25 @@
+UniprotID	Q8NFU3-3
+Accession	Q8NFU3;Q5SY48;Q5SY49;Q5SY50;Q5SY51;Q8NFU2;Q9BV22
+EntryName	TSTD1_HUMAN
+ProteinName	Thiosulfate:glutathione sulfurtransferase (TST) (EC 2.8.1.3)
+GeneName	TSTD1 KAT
+Length	109
+Function	Thiosulfate:glutathione sulfurtransferase (TST) required to produce S-sulfanylglutathione (GSS(-)), a central intermediate in hydrogen sulfide metabolism (PubMed:24981631). Provides the link between the first step in mammalian H(2)S metabolism performed by the sulfide:quinone oxidoreductase (SQOR) which catalyzes the conversion of H(2)S to thiosulfate, and the sulfur dioxygenase (SDO) which uses GSS(-) as substrate (PubMed:24981631). The thermodynamic coupling of the irreversible SDO and reversible TST reactions provides a model for the physiologically relevant reaction with thiosulfate as the sulfane donor (PubMed:24981631). GSS(-) spontaneously reacts with glutathione to form glutathione disulfide (Probable).
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGAPTVSLPELRSLLASGRARLFDVRSREEAAAGTIPGALNIPVSELESALQMEPAAFQALYSAEKPKLEDEHLVFFCQMGKRGLQATQLARSLGYTGYGEVWLLAGR
+PTM	Acetylation:83;Phosphorylation:6,8,115;Ubiquitylation:83

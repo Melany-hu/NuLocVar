@@ -1,0 +1,25 @@
+UniprotID	H9ME53
+Accession	H9ME53
+EntryName	H9ME53_HUMAN
+ProteinName	Triadin
+GeneName	TRDN
+Length	286
+Function	Contributes to the regulation of lumenal Ca2+ release via the sarcoplasmic reticulum calcium release channels RYR1 and RYR2, a key step in triggering skeletal and heart muscle contraction. Required for normal organization of the triad junction, where T-tubules and the sarcoplasmic reticulum terminal cisternae are in close contact. Required for normal skeletal muscle strength. Plays a role in excitation-contraction coupling in the heart and in regulating the rate of heart beats.
+Subcellular Location	Sarcoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEITAEGNASTTTTVIDSKNGSVPKSPGKVLKRTVTEDIVTTFSSPAAWLLVIALIITWSAVAIVMFDLVDYKNFSASSIAKIGSDPLKLVRDAMEETTDWIYGFFSLLSDIISSEDEEDDDGDEDTDKGEIDEPPLRKKEIHKDKTEKQEKPERKIQTKVTHKEKEKGKEKVREKEKPEKKATHKEKIEKKEKPETKTLAKEQKKAKTAEKSEEKTKKEVKGGKQEKVKQTAAKVKEVQKTPSKPKEKEDKEKAAVSKHEQKGKHSEQEAAGGSKRILGKKHMQ
+PTM	

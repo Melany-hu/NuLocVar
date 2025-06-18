@@ -1,0 +1,25 @@
+UniprotID	C9IYL1
+Accession	C9IYL1
+EntryName	C9IYL1_HUMAN
+ProteinName	Major facilitator superfamily domain containing 6
+GeneName	MFSD6
+Length	179
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVLQGVTHAAIWAACISYLSAAVPPELRTSAQGILQGLHLGLGRGCGAMIGGVLVNYFGAAATFRGIGMACLVILLLFALIQWLAVPDEEEDKTMLAERIPVPSSPVPIATIDLVQQQTEDVMPRIEPRLPPKKTKHQEEQEDVNKPAWGVSSSPWVTFVYALYQIKEMMQLTRDNRA
+PTM	

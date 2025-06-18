@@ -1,0 +1,25 @@
+UniprotID	H7BZE5
+Accession	H7BZE5
+EntryName	H7BZE5_HUMAN
+ProteinName	BCL2 like 11
+GeneName	BCL2L11
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKQPSDVSSECDREGRQLQPAERPPQLRPGAPTSLQTEPQDRSPAPMSCDKSTQTPSPPCQAFNHYLSAMDDSAGSSLRIALHREVQWPLKWLAKSS
+PTM	

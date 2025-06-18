@@ -1,0 +1,25 @@
+UniprotID	I3L1T1
+Accession	I3L1T1
+EntryName	I3L1T1_HUMAN
+ProteinName	Phosphoribosyl pyrophosphate synthetase associated protein 2
+GeneName	PRPSAP2
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFCVTPPELETKMNITKGGLVLFSANSNSSCMELSKKIADFFPLSLL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H3BNK7
+Accession	H3BNK7
+EntryName	H3BNK7_HUMAN
+ProteinName	Battenin
+GeneName	CLN3
+Length	228
+Function	
+Subcellular Location	Endomembrane system; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGCAGSRRRFSDSEGEYSRPPSWNDHLWLAAHLRGMRADSAPGGHARSGRAPESRWGSCPLLALPGEETVPEPRLPLLDHQGAHWKNAVGFWLLGLCNNFSYVVMLSAAHDILSHKRTSGNQSHVDPGPTPIPHNSSSRFDCNSVSTAAVLLADILPTLVIKLLAPLGLHLLPYSPRVLVSGICAAGSFVLVAFSHSVGTSLCGVVFASISSGLGEVTFLSLTAFYP
+PTM	

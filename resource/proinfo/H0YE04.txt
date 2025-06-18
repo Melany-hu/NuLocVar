@@ -1,0 +1,25 @@
+UniprotID	H0YE04
+Accession	H0YE04
+EntryName	H0YE04_HUMAN
+ProteinName	Signal peptidase complex subunit 2
+GeneName	SPCS2
+Length	166
+Function	Component of the signal peptidase complex (SPC) which catalyzes the cleavage of N-terminal signal sequences from nascent proteins as they are translocated into the lumen of the endoplasmic reticulum. Enhances the enzymatic activity of SPC and facilitates the interactions between different components of the translocation site.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ITTLRTLGACPCPHHTSNLDPVLFRTSSFLASVLVLVATPFSWKIDDKPVKIDKWDGSAVKNSLDDSAKKVLLEKYKYVENFGLIDGRLTICTISCFFAIVALIWDYMHPFPESKPVLALCVISYFVMMGILTIYTSYKEKSIFLVAHRKDPTGMDPDDIWQLSSS
+PTM	

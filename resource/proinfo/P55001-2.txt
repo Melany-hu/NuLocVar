@@ -1,0 +1,25 @@
+UniprotID	P55001-2
+Accession	P55001;Q53X60;Q5JXY0
+EntryName	MFAP2_HUMAN
+ProteinName	Microfibrillar-associated protein 2 (MFAP-2) (Microfibril-associated glycoprotein 1) (MAGP) (MAGP-1)
+GeneName	MFAP2 MAGP1
+Length	182
+Function	Component of the elastin-associated microfibrils.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAAYLFLLFLPGLLAQGQYDLDPLPPFPDHVQYTHYSDQIDNPDYYDYQEVTPRPSEEQFQFQSQQQVQQEVIPAPTPEPGNAELEPTEPGPLDCREEQYPCTRLYSIHRPCKQCLNEVCFYSLRRVYVINKEICVRTVCAHEELLRADLCRDKFSKCGVMASSGLCQSVAASCARSCGSC
+PTM	Glycosylation:90;Methylation:134;Phosphorylation:125

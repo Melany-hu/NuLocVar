@@ -1,0 +1,25 @@
+UniprotID	O43526-4
+Accession	O43526;O43796;O75580;O95845;Q4VXP4;Q4VXR6;Q5VYT8;Q96J59;Q99454
+EntryName	KCNQ2_HUMAN
+ProteinName	Potassium voltage-gated channel subfamily KQT member 2 (KQT-like 2) (Neuroblastoma-specific potassium channel subunit alpha KvLQT2) (Voltage-gated potassium channel subunit Kv7.2)
+GeneName	KCNQ2
+Length	841
+Function	Pore-forming subunit of the voltage-gated potassium (Kv) M-channel which is responsible for the M-current, a key controller of neuronal excitability (PubMed:24277843, PubMed:28793216, PubMed:9836639). M-channel is composed of pore-forming subunits KCNQ2 and KCNQ3 assembled as heterotetramers (PubMed:10781098, PubMed:14534157, PubMed:32884139, PubMed:37857637, PubMed:9836639). The native M-current has a slowly activating and deactivating potassium conductance which plays a critical role in determining the subthreshold electrical excitability of neurons as well as the responsiveness to synaptic inputs (PubMed:14534157, PubMed:28793216, PubMed:9836639). KCNQ2-KCNQ3 M-channel is selectively permeable in vitro to other cations besides potassium, in decreasing order of affinity K(+) > Rb(+) > Cs(+) > Na(+) (PubMed:28793216). M-channel association with SLC5A3/SMIT1 alters channel ion selectivity, increasing Na(+) and Cs(+) permeation relative to K(+) (PubMed:28793216). Suppressed by activation of the muscarinic acetylcholine receptor CHRM1 (PubMed:10684873, PubMed:10713961).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQKSRNGGVYPGPSGEKKLKVGFVGLDPGAPDSTRDGALLIAGSEAPKRGSILSKPRAGGAGAGKPPKRNAFYRKLQNFLYNVLERPRGWAFIYHAYVFLLVFSCLVLSVFSTIKEYEKSSEGALYILEIVTIVVFGVEYFVRIWAAGCCCRYRGWRGRLKFARKPFCVIDIMVLIASIAVLAAGSQGNVFATSALRSLRFLQILRMIRMDRRGGTWKLLGSVVYAHSKELVTAWYIGFLCLILASFLVYLAEKGENDHFDTYADALWWGLITLTTIGYGDKYPQTWNGRLLAATFTLIGVSFFALPAGILGSGFALKVQEQHRQKHFEKRRNPAAGLIQSAWRFYATNLSRTDLHSTWQYYERTVTVPMYSSQTQTYGASRLIPPLNQLELLRNLKSKSGLAFRKDPPPEPSPSPRGVAAKGKGSPQAQTVRRSPSADQSLEDSPSKVPKSWSFGDRSRARQAFRIKGAASRQNSEASLPGEDIVDDKSCPCEFVTEDLTPGLKVSIRAVCVMRFLVSKRKFKESLRPYDVMDVIEQYSAGHLDMLSRIKSLQSRVDQIVGRGPAITDKDRTKGPAEAELPEDPSMMGRLGKVEKQVLSMEKKLDFLVNIYMQRMGIPPTETEAYFGAKEPEPAPPYHSPEDSREHVDRHGCIVKIVRSSSSTGQKNFSAPPAAPPVQCPPSTSWQPQSHPRQGHGTSPVGDHGSLVRIPPPPAHERSLSAYGGGNRASMEFLRQEDTPGCRPPEGNLRDSDTSISIPSVDHEELERSFSGFSISQSKENLDALNSCYAAVAPCAKVRPYIAEGESDTDSDLCTPCGPPPRSATGEGPFGDVGWAGPRK
+PTM	Methylation:56,120,255,552,556,625;Phosphorylation:45,52,199,229,399,445,446,457,466,468,472,476,485,503,507,672,692,693,694,695,696,716,731,755,762,771,808,810,839,855;SUMOylation:556;Ubiquitylation:49

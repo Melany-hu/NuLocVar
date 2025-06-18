@@ -1,0 +1,25 @@
+UniprotID	Q5JSY8
+Accession	Q5JSY8
+EntryName	Q5JSY8_HUMAN
+ProteinName	TLE family member 4, transcriptional corepressor
+GeneName	TLE4
+Length	195
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARVPPTGQFRFRAPHQPAQPFKFTISESCDRIKEEFQFLQAQYHSLKLECEKLASEKTEMQRHYVMYYEMSYGLNIEMHKQAEIVKRLNAICAQVIPFLSQEHQQQVVQAVERAKQVTMAELNAIIGQQLQAQHLSHGHGLPVPLTPHPSGLQPPAIPPIGSSAGLLALSSALGGQSHLPIKDEKKHHDNDHQR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7C1P2
+Accession	H7C1P2
+EntryName	H7C1P2_HUMAN
+ProteinName	Tetratricopeptide repeat domain 7A
+GeneName	TTC7A
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVVLSRVPEQEEDRTVSLQNAAAIYDLLSITLGRRGQYVMLSECLERAMKFAFGEFHLWYQVALSMVACGKSAYAVSLLRECVKLRPSDPTVPLMAAKVCIGSLRWPP
+PTM	

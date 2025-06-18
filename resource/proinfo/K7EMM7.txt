@@ -1,0 +1,25 @@
+UniprotID	K7EMM7
+Accession	K7EMM7
+EntryName	K7EMM7_HUMAN
+ProteinName	HSPA (Hsp70) binding protein 1
+GeneName	HSPBP1
+Length	190
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDEGSRGSRLPLALPPASQGCSSGGGGGGSSAGGSGNSRPPRNLQGLLQMAITAGSEEPDPPPEPMSEEMKSCLRVLSQPMPPTAGEAEQAADQQEREGALELLADLCENMDNAADFCQLSGMHLLVGRYLEAGAAGLRWRAAQLIGTCSQNVAAIQEQVLGLGALCCSSMRSTRRSWSSVKSCYRPVS
+PTM	

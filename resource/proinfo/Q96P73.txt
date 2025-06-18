@@ -1,0 +1,25 @@
+UniprotID	Q96P73
+Accession	Q96P73
+EntryName	Q96P73_HUMAN
+ProteinName	DFFB protein (DNA fragmentation factor subunit beta) (DNAation factor B truncated form II) (DNAation factor, 40kDa, beta polypeptide (Caspase-activated DNase), isoform CRA_d)
+GeneName	DFFB hCG_31570
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQKPKSVKLRALRSPRKFGVAGRSCQEVLRKGCLRFQLPERGSRLCLYEDGTELTEDYFPSVPDNAELVLLTLGQAWQGCEWQGLWRCERHQALPQCISRATGGAHPGRPAAAV
+PTM	

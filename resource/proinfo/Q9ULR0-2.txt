@@ -1,0 +1,25 @@
+UniprotID	Q9ULR0-2
+Accession	Q9ULR0;Q96IL2;Q9BT05
+EntryName	ISY1_HUMAN
+ProteinName	Pre-mRNA-splicing factor ISY1 homolog
+GeneName	ISY1 KIAA1160
+Length	307
+Function	Component of the spliceosome C complex required for the selective processing of microRNAs during embryonic stem cell differentiation (By similarity). Required for the biogenesis of all miRNAs from the pri-miR-17-92 primary transcript except miR-92a (By similarity). Only required for the biogenesis of miR-290 and miR-96 from the pri-miR-290-295 and pri-miR-96-183 primary transcripts, respectively (By similarity). Required during the transition of embryonic stem cells (ESCs) from the naive to primed state (By similarity). By enhancing miRNA biogenesis, promotes exit of ESCs from the naive state to an intermediate state of poised pluripotency, which precedes transition to the primed state (By similarity). Involved in pre-mRNA splicing as component of the spliceosome.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARNAEKAMTALARFRQAQLEEGKVKERRPFLASECTELPKAEKWRRQIIGEISKKVAQIQNAGLGEFRIRDLNDEINKLLREKGHWEVRIKELGGPDYGKVGPKMLDHEGKEVPGNRGYKYFGAAKDLPGVRELFEKERQVRWLMPVIPALWEAEAGGSQALPPPRKTRAELMKAIDFEYYGYLDEDDGVIVPLEQEYEKKLRAELVEKWKAEREARLARGEKEEEEEEEEEINIYAVTEEESDEEGSQEKGGDDSQQKFIAHVPVPSQQEIEEALVRRKKMELLQKYASETLQAQSEEARRLLGY
+PTM	Acetylation:7,41,101,105,121,127;Methylation:24,79,127,138,179,188,202,266;Phosphorylation:54,218,222,235,247;SUMOylation:7,24,55,101,105,112,127;Ubiquitylation:127

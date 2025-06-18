@@ -1,0 +1,25 @@
+UniprotID	E9PQJ9
+Accession	E9PQJ9
+EntryName	E9PQJ9_HUMAN
+ProteinName	Transmembrane protein 80
+GeneName	TMEM80
+Length	210
+Function	
+Subcellular Location	Cell projection; Cilium; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPRRGRGSSTVLSSVPLQMLFYLSGTYYALYFLATLLMITYKSQVFSYPHRYLVLDLALLFLMGILEAVRLYLGTRGNLTEAERPLAASLALTAGTALLSAHFLLWQALVLWADWALSATLLALHGLEAVLQVVAIAAFTSGHGELQDSPEDPLHTPAPERLGPPPSPAPALAEDQLGTPAIWRTQPTNHADQGRTPSLKLETCCLHG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9Y6Q5-2
+Accession	Q9Y6Q5;B2RDV5;Q9BSI8
+EntryName	AP1M2_HUMAN
+ProteinName	AP-1 complex subunit mu-2 (AP-mu chain family member mu1B) (Adaptor protein complex AP-1 subunit mu-2) (Adaptor-related protein complex 1 subunit mu-2) (Clathrin assembly protein complex 1 mu-2 medium chain 2) (Golgi adaptor HA1/AP1 adaptin mu-2 subunit) (Mu-adaptin 2) (Mu1B-adaptin)
+GeneName	AP1M2
+Length	425
+Function	Subunit of clathrin-associated adaptor protein complex 1 that plays a role in protein sorting in the trans-Golgi network (TGN) and endosomes. The AP complexes mediate the recruitment of clathrin to membranes and the recognition of sorting signals within the cytosolic tails of transmembrane cargo molecules.
+Subcellular Location	Golgi apparatus; Cytoplasmic vesicle; Clathrin-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSASAVFILDVKGKPLISRNYKGDVAMSKIEHFMPLLVQREEEGALAPLLSHGQVHFLWIKHSNLYLVATTSKNANASLVYSFLYKTIEVFCEYFKELEEESIRDNFVIVYELLDELMDFGFPQTTDSKILQEYITQQSNKLETGKSRVPPTVTNAVSWRSEGIKYKKNEVFIDVIESVNLLVNANGSVLLSEIVGTIKLKVFLSGMPELRLGLNDRVLFELTGLSGSKNKSVELEDVKFHQCVRLSRFDNDRTISFIPPDGDFELMSYRLSTQVKPLIWIESVIEKFSHSRVEIMVKAKGQFKKQSVANGVEISVPVPSDADSPRFKTSVGSAKYVPERNVVIWSIKSFPGGKEYLMRAHFGLPSVEKEEVEGRPPIGVKFEIPYFTVSGIQVRYMKIIEKSGYQALPWVRYITQSGDYQLRTS
+PTM	Acetylation:237;Methylation:12,199,237,326,379,400;Phosphorylation:63,66,70,71,72,152,154,197,223,266,287,384,394;SUMOylation:396;Ubiquitylation:12,14,22,29,141,146,165,229,237,298,303,326,333,346,352,396

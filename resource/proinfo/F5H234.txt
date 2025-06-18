@@ -1,0 +1,25 @@
+UniprotID	F5H234
+Accession	F5H234
+EntryName	F5H234_HUMAN
+ProteinName	G protein-coupled receptor 137
+GeneName	GPR137
+Length	225
+Function	
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLPDMESNLSGLVPAAGLVPALPPAVTLGLTAAYTTLYALLFFSVYAQLWLVLLYGHKRLSYQTVFLALCLLWAALRTTLFSFYFRDTPRANRLGPLPFWLLYCCPVCLQFFTLTLMNLYFAQVVFKAKVKRRPEMSRGLLAVRGAFVGASLLFLLVNVLCAVLSHRRRAQPWALLLVRVLVSDSLFVICALSLAACLCLVARRAPSTSIYLEAKGTSVCQAA
+PTM	

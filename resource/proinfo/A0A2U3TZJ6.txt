@@ -1,0 +1,25 @@
+UniprotID	A0A2U3TZJ6
+Accession	A0A2U3TZJ6
+EntryName	A0A2U3TZJ6_HUMAN
+ProteinName	Tubulin-specific chaperone E (Tubulin-folding cofactor E)
+GeneName	TBCE hCG_23762
+Length	464
+Function	Tubulin-folding protein; involved in the second step of the tubulin folding pathway and in the regulation of tubulin heterodimer dissociation. Required for correct organization of microtubule cytoskeleton and mitotic splindle, and maintenance of the neuronal microtubule network.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDTLTADVIGRRVEVNGEHATVRFAGVVPPVAGPWLGVEWDNPERGKHDGSHEGTVYFKCRHPTGGSFIRPNKVNFGTDFLTAIKNRYVLEDGPEEDRKEQIVTIGNKPVETIGFDSIMKQQSENKLKFPSGSVLTGTLSVLKVLVLNQTGITWAEVLRCVAGCPGLEELYLESNNIFISERPTDVLQTVKLLDLSSNQLIDENQLYLIAHLPRLEQLILSDTGISSLHFPDAGIGCKTSMFPSLKYLVVNDNQISQWSFFNELEKLPSLRALSCLRNPLTKEDKEAETARLLIIASIGQLKTLNKCEILPEERRRAELDYRKAFGNEWKQAGGHKDPEKNRLSEEFLTAHPRYQFLCLKYGAPEDWELKTQQPLMLKNQLLTLKIKYPHQLDQKVLEKQLPGSMTIQKVKGLLSRLLKVPVSDLLLSYESPKKPGREIELENDLKSLQFYSVENGDCLLVRW
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q13952-6
+Accession	Q13952;B4DUS6;B4DW63;D3DPV9;F8VWM3;Q59GY4;Q5T6K8;Q5T6K9;Q5T6L1;Q5TZR6;Q92869;Q9HBX1;Q9NXB5;Q9UM67;Q9UML0;Q9UMT7
+EntryName	NFYC_HUMAN
+ProteinName	Nuclear transcription factor Y subunit gamma (CAAT box DNA-binding protein subunit C) (Nuclear transcription factor Y subunit C) (NF-YC) (Transactivator HSM-1/2)
+GeneName	NFYC
+Length	301
+Function	Component of the sequence-specific heterotrimeric transcription factor (NF-Y) which specifically recognizes a 5'-CCAAT-3' box motif found in the promoters of its target genes. NF-Y can function as both an activator and a repressor, depending on its interacting cofactors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	90...94
+validnes_region	
+nesbase_region	
+Sequence	MSTEGGFGGTSSSDAQQSLQSFWPRVMEEIRNLTVKDFRVQELPLARIKKIMKLDEDVKMISAEAPVLFAKAAQIFITELTLRAWIHTEDNKRRTLQRNDIAMAITKFDQFDFLIDIVPRDELKPPKRQEEVRQSVTPAEPVQYYFTLAQQPTAVQVQGQQQGQQTTSSTTTIQPGQIIIAQPQQGQTMQVMQQIITNTGEIQQIPVQLNAGQLQYIRLAQPVSGTQVVQGQIQTLATNAQQITQTEVQQGQQQFSQFTDGQQLYQIQQVTMPAGQDLAQPMFIQSANQPSDGQAPQVTGD
+PTM	Acetylation:285;Methylation:59,124;Phosphorylation:2,3,10,21,282,343,372;SUMOylation:53,59,107,124,127,337;Ubiquitylation:36,59,71,92,124

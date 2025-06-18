@@ -1,0 +1,25 @@
+UniprotID	Q8TB45-2
+Accession	Q8TB45;B2RCL9;B4DN97;E7EV87;Q96EQ1;Q9H0R7;Q9H894;Q9HA07
+EntryName	DPTOR_HUMAN
+ProteinName	DEP domain-containing mTOR-interacting protein (hDEPTOR) (DEP domain-containing protein 6)
+GeneName	DEPTOR DEPDC6
+Length	308
+Function	Negative regulator of the mTORC1 and mTORC2 complexes: inhibits the protein kinase activity of MTOR, thereby inactivating both complexes (PubMed:19446321, PubMed:22017875, PubMed:22017876, PubMed:22017877, PubMed:25936805, PubMed:29382726, PubMed:34519268, PubMed:34519269). DEPTOR inhibits mTORC1 and mTORC2 to induce autophagy (PubMed:22017875, PubMed:22017876, PubMed:22017877). In contrast to AKT1S1/PRAS40, only partially inhibits mTORC1 activity (PubMed:34519268, PubMed:34519269).
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEGGSTGSAGSDSSTSGSGGAQQRELERMAEVLVTGEQLRLMSPENTLLQPREEEGVKYERTFMASEFLDWLVQEGEATTRKEAEQLCHRLMEHGIIQHVSNKHPFVDSNLLYQFRMNFRRRRRLMELLNEKSPSSQETHDSPFCLRKQSHDNRKSTSFMSVSPSKEIKIVSAVRRSSMSSCGSSGYFSSSPTLSSSPPVLCNPKSVLKRPVTSEELLTPGAPYARKTFTIVGDAVGWGFVVRGSKPCHIQAVDPSGPAAAAGMKVCQFVVSVNGLNVLHVDYRTVSNLILTGPRTIVMEVMEELEC
+PTM	Acetylation:48;Methylation:87,131,160;Phosphorylation:19,145,149,235,237,241,244,258,259,260,263,265,267,280,282,289,292,299,315,387,394;SUMOylation:67

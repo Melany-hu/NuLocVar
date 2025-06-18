@@ -1,0 +1,25 @@
+UniprotID	H0YJH4
+Accession	H0YJH4
+EntryName	H0YJH4_HUMAN
+ProteinName	Diacylglycerol kinase (DAG kinase) (EC 2.7.1.107)
+GeneName	DGKA
+Length	202
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LRIDPVPNTHPLLVFVNPKSGGKQGQRLRLFKDVPDSRILVCGGDGTVGWILETIDKANLPVLPPVAVLPLGTGNDLARCLRWGGGYEGQNLAKILKDLEMSKVVHMDRWSVEVIPQQTEEKSDPVPFQIINNYFSIGVDASIAHRFHIMREKYPEKFNSRMKNKLWYFEFATSESIFSTCKKLEESLTVEICGKPLDLSNL
+PTM	

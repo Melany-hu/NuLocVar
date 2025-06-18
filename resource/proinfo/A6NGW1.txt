@@ -1,0 +1,25 @@
+UniprotID	A6NGW1
+Accession	A6NGW1
+EntryName	A6NGW1_HUMAN
+ProteinName	Protein YIF1
+GeneName	YIF1A
+Length	241
+Function	Has a role in transport between endoplasmic reticulum and Golgi.
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYHSGYGAHGSKHRARAAPDPPPLFDDTSGGYSSQPGGYPATGADVAFSVNHLLGDPMANVAMAYGSSIASHGKDMVHKELHRFVSVSKLKYFFAVDTAYVAKKLGLLVFPYTHQNWEVQYSRDAPLPPRQDLNAPDLYIPTMAFITYVLLAGMALGIQKRMILSVLTGLLFGSDGYYVALAWTSSALMYFIVRSLRTAALGPDSMGGPVPRQRLQLYLTLGAAAFQPLIIYWLTFHLVR
+PTM	

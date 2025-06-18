@@ -1,0 +1,25 @@
+UniprotID	B6RC66
+Accession	B6RC66
+EntryName	B6RC66_HUMAN
+ProteinName	Epidermal growth factor receptor variant EX12_15del
+GeneName	EGFR
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAFENLEIIRGRTKQQCTGPGLEGCPTN
+PTM	

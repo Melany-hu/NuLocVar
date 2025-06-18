@@ -1,0 +1,25 @@
+UniprotID	Q56H36
+Accession	Q56H36
+EntryName	Q56H36_HUMAN
+ProteinName	PAX6
+GeneName	PAX6
+Length	115
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HSGVNQLGGVFVNGRPLPDSTRQKIVELAHSAARPCDISRILQVSNACVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPS
+PTM	

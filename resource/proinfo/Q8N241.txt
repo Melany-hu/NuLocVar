@@ -1,0 +1,25 @@
+UniprotID	Q8N241
+Accession	Q8N241
+EntryName	Q8N241_HUMAN
+ProteinName	Heat shock 27kDa protein family, member 7 (Cardiovascular), isoform CRA_c (Heat shock protein family B (small) member 7) (cDNA FLJ34956 fis, clone NTONG2003158, highly similar to Heat shock 27kD protein family, member 7)
+GeneName	HSPB7 hCG_23506
+Length	245
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRQVNPRPRGNCQLDREEGTQQRVTAHRKTMSHCQVLWEDKDSQCWGHLDWVWAHVSRSSQRGLPGGGGIGADLGRKGRIWRGQQRPLTATWAEQRAWPPLRMASTLAQGKDPPMEKALSMFSDDFGSFMRPHSEPLAFPARPGGAGNIKTLGDAYEFAVDVRDFSPEDIIVTTSNNHIEVRAEKLAADGTVMNTFAHKCQLPEDVDPTSVTSALREDGSLTIRARRHPHTEHVQQTFRTEIKI
+PTM	

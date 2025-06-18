@@ -1,0 +1,25 @@
+UniprotID	P51674-2
+Accession	P51674;B7Z642;E9PHI5;Q92602
+EntryName	GPM6A_HUMAN
+ProteinName	Neuronal membrane glycoprotein M6-a (M6a)
+GeneName	GPM6A M6A
+Length	271
+Function	Involved in neuronal differentiation, including differentiation and migration of neuronal stem cells. Plays a role in neuronal plasticity and is involved in neurite and filopodia outgrowth, filopodia motility and probably synapse formation. GPM6A-induced filopodia formation involves mitogen-activated protein kinase (MAPK) and Src signaling pathways. May be involved in neuronal NGF-dependent Ca(2+) influx. May be involved in regulation of endocytosis and intracellular trafficking of G-protein-coupled receptors (GPCRs); enhances internalization and recycling of mu-type opioid receptor.
+Subcellular Location	Cell membrane; Cell projection; Axon; Cell projection; Growth cone; Cell projection; Dendritic spine; Cell projection; Filopodium; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDLEGCFECCIKCLGGIPYASLIATILLYAGVALFCGCGHEALSGTVNILQTYFEMARTAGDTLDVFTMIDIFKYVIYGIAAAFFVYGILLMVEGFFTTGAIKDLYGDFKITTCGRCVSAWFIMLTYLFMLAWLGVTAFTSLPVYMYFNLWTICRNTTLVEGANLCLDLRQFGIVTIGEEKKICTVSENFLRMCESTELNMTFHLFIVALAGAGAAVIAMVHYLMVLSANWAYVKDACRMQKYEDIKSKEEQELHDIHSTRSKERLNAYT
+PTM	Acetylation:82;Methylation:189,243;Phosphorylation:251,256,267,268,270;Ubiquitylation:255,257

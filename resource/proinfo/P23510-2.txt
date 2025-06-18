@@ -1,0 +1,25 @@
+UniprotID	P23510-2
+Accession	P23510;Q5JZA5;Q8IV74;Q9HCN9
+EntryName	TNFL4_HUMAN
+ProteinName	Tumor necrosis factor ligand superfamily member 4 (Glycoprotein Gp34) (OX40 ligand) (OX40L) (TAX transcriptionally-activated glycoprotein 1) (CD antigen CD252)
+GeneName	TNFSF4 TXGP1
+Length	133
+Function	Cytokine that binds to TNFRSF4. Co-stimulates T-cell proliferation and cytokine production.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSHRYPRIQSIKVQFTEYKKEKGFILTSQKEDEIMKVQNNSVIINCDGFYLISLKGYFSQEVNISLHYQKDEEPLFQLKKVRSVNSLMVASLTYKDKVYLNVTTDNTSLDDFHVNGGELILIHQNPGEFCVL
+PTM	Phosphorylation:53,104;SUMOylation:73

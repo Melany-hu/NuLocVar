@@ -1,0 +1,25 @@
+UniprotID	K7ERA0
+Accession	K7ERA0
+EntryName	K7ERA0_HUMAN
+ProteinName	V-type proton ATPase subunit a
+GeneName	ATP6V0A1
+Length	129
+Function	Essential component of the vacuolar proton pump (V-ATPase), a multimeric enzyme that catalyzes the translocation of protons across the membranes. Required for assembly and activity of the V-ATPase.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLVILIFYKWTAYDAHTSENAPSLLIHFINMFLFSYPESGYSMLYSGQKGIQCFLVVVALLCVPWMLLFKPLVLRRQYLRRKHLGTLNFGGIRVGNGPTEEDAEIIQHDQLSTHSEDADEALAPAQWKH
+PTM	

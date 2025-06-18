@@ -1,0 +1,25 @@
+UniprotID	K7ELX2
+Accession	K7ELX2
+EntryName	K7ELX2_HUMAN
+ProteinName	Tetratricopeptide repeat domain 19
+GeneName	TTC19
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRRVVGGQERVWPAVRRGRGGSMFRLLSWSLGRGFLRAAGRRCRGCSARLLPGLAGGPGPEVQVPPSRVAPHGRGPGLLPLLAALAWFSRPAAAEEEEQQGADGAAAEDGADEAEAEIIQLLKRAKVRRLRALRPAERGSLCERGLGVAAHYSLRLAEEWMEAPRVKLPRMS
+PTM	

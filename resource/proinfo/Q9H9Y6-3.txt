@@ -1,0 +1,25 @@
+UniprotID	Q9H9Y6-3
+Accession	Q9H9Y6;B7Z6Y7;B7Z823;F5GZX4;F8W898;Q2TAM4;Q585T5;Q6ZRR2;Q9H9D3
+EntryName	RPA2_HUMAN
+ProteinName	DNA-directed RNA polymerase I subunit RPA2 (RNA polymerase I subunit 2) (EC 2.7.7.6) (DNA-directed RNA polymerase I 135 kDa polypeptide) (RPA135)
+GeneName	POLR1B
+Length	1173
+Function	Catalytic core component of RNA polymerase I (Pol I), a DNA-dependent RNA polymerase which synthesizes ribosomal RNA precursors using the four ribonucleoside triphosphates as substrates. Transcribes 47S pre-rRNAs from multicopy rRNA gene clusters, giving rise to 5.8S, 18S and 28S ribosomal RNAs (PubMed:11250903, PubMed:11283244, PubMed:16858408, PubMed:34671025, PubMed:34887565, PubMed:36271492). Pol I-mediated transcription cycle proceeds through transcription initiation, transcription elongation and transcription termination stages. During transcription initiation, Pol I pre-initiation complex (PIC) is recruited by the selectivity factor 1 (SL1/TIF-IB) complex bound to the core promoter that precedes an rDNA repeat unit. The PIC assembly bends the promoter favoring the formation of the transcription bubble and promoter escape. Once the polymerase has escaped from the promoter it enters the elongation phase during which RNA is actively polymerized, based on complementarity with the template DNA strand. Highly processive, assembles in structures referred to as 'Miller trees' where many elongating Pol I complexes queue and transcribe the same rDNA coding regions. At terminator sequences downstream of the rDNA gene, PTRF interacts with Pol I and halts Pol I transcription leading to the release of the RNA transcript and polymerase from the DNA (PubMed:11250903, PubMed:11283244, PubMed:16858408, PubMed:34671025, PubMed:34887565, PubMed:36271492). Forms Pol I active center together with the largest subunit POLR1A/RPA1. Appends one nucleotide at a time to the 3' end of the nascent RNA, with POLR1A/RPA1 contributing a Mg(2+)-coordinating DxDGD motif, and POLR1B/RPA2 participating in the coordination of a second Mg(2+) ion and providing lysine residues believed to facilitate Watson-Crick base pairing between the incoming nucleotide and the template base. Typically, Mg(2+) ions direct a 5' nucleoside triphosphate to form a phosphodiester bond with the 3' hydroxyl of the preceding nucleotide of the nascent RNA, with the elimination of pyrophosphate. Has proofreading activity: Pauses and backtracks to allow the cleavage of a missincorporated nucleotide via POLR1H/RPA12. High Pol I processivity is associated with decreased transcription fidelity (By similarity) (PubMed:11250903, PubMed:11283244, PubMed:16809778, PubMed:16858408, PubMed:34671025, PubMed:34887565, PubMed:36271492).
+Subcellular Location	Nucleus; Nucleolus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	301...306
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAKEAAETGLRPLLPACTERLASGVYRETGVRCAGGHMDPGSRWRNLPSGPSLKHLTDPSYGIPREQQKAALQELTRAHVESFNYAVHEGLGLAVQAIPPFEFAFKDERISFTILDAVISPPTVPKGTICKEANVYPAECRGRRSTYRGKLTADINWAVNGISKGIIKQFLGYVPIMVKSKLCNLRNLPPQALIEHHEEAEEMGGYFIINGIEKVIRMLIMPRRNFPIAMIRPKWKTRGPGYTQYGVSMHCVREEHSAVNMNLHYLENGTVMLNFIYRKELFFLPLGFALKALVSFSDYQIFQELIKGKEDDSFLRNSVSQMLRIVMEEGCSTQKQVLNYLGECFRVKLNVPDWYPNEQAAEFLFNQCICIHLKSNTEKFYMLCLMTRKLFALAKGECMEDNPDSLVNQEVLTPGQLFLMFLKEKLEGWLVSIKIAFDKKAQKTSVSMNTDNLMRIFTMGIDLTKPFEYLFATGNLRSKTGLGLLQDSGLCVVADKLNFIRYLSHFRCVHRGADFAKMRTTTVRRLLPESWGFLCPVHTPDGEPCGLMNHLTAVCEVVTQFVYTASIPALLCNLGVTPIDGAPHRSYSECYPVLLDGVMVGWVDKDLAPGIADSLRHFKVLREKRIPPWMEVVLIPMTGKPSLYPGLFLFTTPCRLVRPVQNLALGKEELIGTMEQIFMNVAIFEDEVFAGVTTHQELFPHSLLSVIANFIPFSDHNQSPRNMYQCQMGKQTMGFPLLTYQDRSDNKLYRLQTPQSPLVRPSMYDYYDMDNYPIGTNAIVAVISYTGYDMEDAMIVNKASWERGFAHGSVYKSEFIDLSEKIKQGDSSLVFGIKPGDPRVLQKLDDDGLPFIGAKLQYGDPYYSYLNLNTGESFVMYYKSKENCVVDNIKVCSNDTGSGKFKCVCITMRVPRNPTIGDKFASRHGQKGILSRLWPAEDMPFTESGMVPDILFNPHGFPSRMTIGMLIESMAGKSAALHGLCHDATPFIFSEENSALEYFGEMLKAAGYNFYGTERLYSGISGLELEADIFIGVVYYQRLRHMVSDKFQVRTTGARDRVTNQPIGGRNVQGGIRFGEMERDALLAHGTSFLLHDRLFNCSDRSVAHVCVKCGSLLSPLLEKPPPSWSAMRNRKYNCTLCSRSDTIDTVSVPYVFRYFVAELAAMNIKVKLDVV
+PTM	Acetylation:113,853,863;Methylation:17,89,131,270,428,459,579,693,853,863,967,1083;Phosphorylation:39,136,395,1051,1078;SUMOylation:17,775;Ubiquitylation:17,32,89,94,142,242,272,298,402,406,442,459,480,693,710,784,797,806,844,863,882,890,1083,1095

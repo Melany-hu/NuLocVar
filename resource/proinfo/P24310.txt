@@ -1,0 +1,25 @@
+UniprotID	P24310
+Accession	P24310
+EntryName	CX7A1_HUMAN
+ProteinName	Cytochrome c oxidase subunit 7A1, mitochondrial (Cytochrome c oxidase subunit VIIa-heart) (Cytochrome c oxidase subunit VIIa-H) (Cytochrome c oxidase subunit VIIa-muscle) (Cytochrome c oxidase subunit VIIa-M)
+GeneName	COX7A1 COX7AH
+Length	79
+Function	Component of the mitochondrial respiratory complex IV (CIV, also named cytochrome c oxidase complex), the last enzyme in the mitochondrial electron transport chain which drives oxidative phosphorylation (By similarity). The CIV complex is the component of the respiratory chain that catalyzes the reduction of oxygen to water (By similarity). Acts as an assembly factor that specifically drives the homodimerization of CIV complexes, mediating the formation of mitochondrial respiratory supercomplexes (respirasomes) containing two CIV: supercomplxes with two molecules of CIV show improved activity (By similarity). Despite being highly expressed in brown adipose tissue, not required for thermogenesis (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	0.0320,0.0518,0.0734,0.0334,0.0463,0.0618,0.0851,0.0817,0.1048,0.1373,0.1611,0.1070,0.1070,0.1424,0.2224,0.1554,0.2224,0.2399,0.2364,0.2817,0.3667,0.3704,0.2541,0.2645,0.3872,0.3983,0.4149,0.4149,0.3566,0.3872,0.2817,0.1942,0.2224,0.2193,0.2034,0.2002,0.1823,0.1229,0.1184,0.1275,0.0704,0.0405,0.0405,0.0851,0.0518,0.0506,0.0372,0.0356,0.0198,0.0235,0.0125,0.0194,0.0320,0.0581,0.0364,0.0218,0.0214,0.0218,0.0198,0.0188,0.0111,0.0171,0.0141,0.0184,0.0178,0.0141,0.0163,0.0205,0.0218,0.0287,0.0341,0.0494,0.0372,0.0275,0.0191,0.0240,0.0372,0.0253,0.0443
+ExposeBuried	1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+SurfaceAccessbility	0.784,0.624,0.406,0.306,0.464,0.169,0.229,0.403,0.240,0.090,0.106,0.398,0.234,0.092,0.312,0.433,0.346,0.212,0.412,0.564,0.420,0.089,0.525,0.638,0.466,0.107,0.524,0.637,0.253,0.411,0.547,0.124,0.102,0.575,0.650,0.503,0.702,0.668,0.091,0.251,0.110,0.178,0.122,0.444,0.377,0.403,0.144,0.252,0.404,0.282,0.107,0.107,0.171,0.240,0.087,0.133,0.071,0.074,0.056,0.077,0.065,0.142,0.170,0.119,0.055,0.117,0.036,0.032,0.077,0.163,0.072,0.133,0.175,0.309,0.471,0.273,0.453,0.687,0.926
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,A,A,A,A,A,A,A,A,A,C,C,C,C,C,B,B,B,C,C,C,C,A,A,A,A,A,A,A,A,A,A,B,B,B,B,C,C,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C
+Hydropathy	1.9,-3.5,1.8,3.8,-4.5,4.2,-0.8,-3.5,1.8,3.8,4.5,-4.5,-0.8,2.8,-0.8,-0.8,-0.7,1.8,-4.5,-3.5,-4.5,2.8,-3.5,-3.5,-4.5,4.2,-4.5,-3.5,-3.9,-3.5,-3.9,3.8,2.8,-3.5,-3.5,-3.5,-3.5,-3.5,4.5,-1.6,3.8,-1.3,3.8,-3.9,-0.4,-0.4,4.5,4.2,-3.5,-3.5,4.5,3.8,-1.3,-4.5,4.2,-0.7,1.9,-0.7,3.8,2.5,3.8,-0.4,-0.4,-0.7,4.2,-1.3,-0.8,3.8,-1.3,-0.8,3.8,-0.4,-0.9,1.8,-0.8,2.8,-1.6,-4.5,-3.5
+Polar	0,1,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,1,1
+Charge	0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,-1,1,0,1,0,0,0,-1,-1,0,-1,0,0,0,0,0,1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQALRVSQALIRSFSSTARNRFQNRVREKQKLFQEDNDIPLYLKGGIVDNILYRVTMTLCLGGTVYSLYSLGWASFPRN
+PTM	Methylation:44

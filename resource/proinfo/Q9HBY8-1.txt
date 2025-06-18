@@ -1,0 +1,25 @@
+UniprotID	Q9HBY8-1
+Accession	Q9HBY8;Q52PK5;Q5H8Y6;Q5H8Z1;Q5TZR3;Q9UKG6
+EntryName	SGK2_HUMAN
+ProteinName	Serine/threonine-protein kinase Sgk2 (EC 2.7.11.1) (Serum/glucocorticoid-regulated kinase 2)
+GeneName	SGK2
+Length	427
+Function	Serine/threonine-protein kinase which is involved in the regulation of a wide variety of ion channels, membrane transporters, cell growth, survival and proliferation. Up-regulates Na(+) channels: SCNN1A/ENAC, K(+) channels: KCNA3/Kv1.3, KCNE1 and KCNQ1, amino acid transporter: SLC6A19, glutamate transporter: SLC1A6/EAAT4, glutamate receptors: GRIA1/GLUR1 and GRIK2/GLUR6, Na(+)/H(+) exchanger: SLC9A3/NHE3, and the Na(+)/K(+) ATPase.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	68..78
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	133...138;128...134;128...138;130...135
+validnes_region	
+nesbase_region	
+Sequence	MQGLLTSGRKPSGGGRCTGRGGWRGQWCLKPWMGGADPPTPTLSCLLLPVPPELPDHCYRMNSSPAGTPSPQPSRANGNINLGPSANPNAQPTDFDFLKVIGKGNYGKVLLAKRKSDGAFYAVKVLQKKSILKKKEQSHIMAERSVLLKNVRHPFLVGLRYSFQTPEKLYFVLDYVNGGELFFHLQRERRFLEPRARFYAAEVASAIGYLHSLNIIYRDLKPENILLDCQGHVVLTDFGLCKEGVEPEDTTSTFCGTPEYLAPEVLRKEPYDRAVDWWCLGAVLYEMLHGLPPFYSQDVSQMYENILHQPLQIPGGRTVAACDLLQSLLHKDQRQRLGSKADFLEIKNHVFFSPINWDDLYHKRLTPPFNPNVTGPADLKHFDPEFTQEAVSKSIGCTPDTVASSSGASSAFLGFSYAPEDDDILDC
+PTM	Acetylation:221;Methylation:99,103,113,124,133,149,268;Phosphorylation:70,116,130,366,374

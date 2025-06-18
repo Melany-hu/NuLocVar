@@ -1,0 +1,25 @@
+UniprotID	C9JIP4
+Accession	C9JIP4
+EntryName	C9JIP4_HUMAN
+ProteinName	Zinc finger protein 20
+GeneName	ZNF20
+Length	169
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSVAFEDVAVSFTQEEWALLDPSQKNLYRDVMQETFKNLTSVGKTWKVQNIEDEYKNPRRNLSLMREKLCESKESHHCGESFNQIADDMLNRKTLPGITPCESSVCGEVGTGHSSLNTHIRADTGHKSSEYQEYGENPYRNKECKKAFSYLDSFQSHDKACTKEKPYD
+PTM	

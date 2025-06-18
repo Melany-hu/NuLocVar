@@ -1,0 +1,25 @@
+UniprotID	Q9Y3B7-2
+Accession	Q9Y3B7;A6NLT0;A8K219;Q32P46;Q96Q73
+EntryName	RM11_HUMAN
+ProteinName	Large ribosomal subunit protein uL11m (39S ribosomal protein L11, mitochondrial) (L11mt) (MRP-L11)
+GeneName	MRPL11 CGI-113
+Length	166
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKLGRAARGLRKPERGVSINQFCKEFNERTKDIKEGIPLPTKILVKPDRTFEIKIGQPTVSYFLKAAAGIEKGARQTGKEVAGLVTLKHVYEIARIKAQDEAFALQDVPLSSVVRSIIGSARSLGIRVVKDLSSEELAAFQKERAIFLAAQKEADLAAQEEAAKK
+PTM	Acetylation:13,51,169,179;Methylation:51,73,115;Phosphorylation:45,113,118;Ubiquitylation:169

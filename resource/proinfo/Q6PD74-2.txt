@@ -1,0 +1,25 @@
+UniprotID	Q6PD74-2
+Accession	Q6PD74;B4DG44;Q6FI86;Q7Z5X9;Q9H0P1;Q9HAK0
+EntryName	AAGAB_HUMAN
+ProteinName	Alpha- and gamma-adaptin-binding protein p34
+GeneName	AAGAB
+Length	206
+Function	May be involved in endocytic recycling of growth factor receptors such as EGFR.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILVCDRVSEDGINRQKAQEWCIKHGFELVELSPEELPEEDDDFPESTGVKRIVQALNANVWSNVVMKNDRNQGFSLLNSLTGTNHSIGSADPCHPEQPHLPAADSTESLSDHRGGASNTTDAQVDSIVDPMLDLDIQELASLTTGGGDVENFERLFSKLKEMKDKAATLPHEQRKVHAEKVAKAFWMAIGGDRDEIEGLSSDEEH
+PTM	Acetylation:290,293;Methylation:52,103;Phosphorylation:215,267,310,311;SUMOylation:177;Ubiquitylation:126,160,177,275

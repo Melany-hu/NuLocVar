@@ -1,0 +1,25 @@
+UniprotID	E9PI23
+Accession	E9PI23
+EntryName	E9PI23_HUMAN
+ProteinName	Transmembrane protein 218
+GeneName	TMEM218
+Length	141
+Function	May be involved in ciliary biogenesis or function.
+Subcellular Location	Cell projection; Cilium; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGTVLGVGAGVFILALLWVAVLLLCVLLSRASGAARNWELPRINGNAPSWYLSRKKDFGMKRFSVIFLFFGAVIITSVLLLFPRAGEFPAPEVEVKIVDDFFIGRYVLLAFLSAIFLGGLFLVLIHYVLEPIYAKPLHSY
+PTM	

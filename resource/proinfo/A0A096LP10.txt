@@ -1,0 +1,25 @@
+UniprotID	A0A096LP10
+Accession	A0A096LP10
+EntryName	A0A096LP10_HUMAN
+ProteinName	UDP-N-acetylglucosamine transferase subunit ALG13 (EC 2.4.1.141)
+GeneName	ALG13
+Length	162
+Function	
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VTVGTTSFDDLIACVSAPDSLQKIESLGYNRLILQIGRGTVVPEPFSTESFTLDVYRYKDSLKEDIQKADLVISHAGKGAGSCLETLEKGKPLVVVINEKLMNNHQLELAKQLHKEGHLFYCTCSTLPGLLQSMDLSTLKCYPPGQPEKFSAFLDKVVGLQK
+PTM	

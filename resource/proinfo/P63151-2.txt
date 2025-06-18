@@ -1,0 +1,25 @@
+UniprotID	P63151-2
+Accession	P63151;B2RBU8;B4E1T7;P50409;Q00007
+EntryName	2ABA_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform (PP2A subunit B isoform B55-alpha) (B55) (PP2A subunit B isoform PR55-alpha) (PP2A subunit B isoform R2-alpha) (PP2A subunit B isoform alpha)
+GeneName	PPP2R2A
+Length	457
+Function	Substrate-recognition subunit of protein phosphatase 2A (PP2A) that plays a key role in cell cycle by controlling mitosis entry and exit (PubMed:1849734, PubMed:33108758). Involved in chromosome clustering during late mitosis by mediating dephosphorylation of MKI67 (By similarity). Essential for serine/threonine-protein phosphatase 2A-mediated dephosphorylation of WEE1, preventing its ubiquitin-mediated proteolysis, increasing WEE1 protein levels, and promoting the G2/M checkpoint (PubMed:33108758).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPKFSLRSMFHGAGGGNDIQWCFSQVKGAVDDDVAEADIISTVEFNHSGELLATGDKGGRVVIFQQEQENKIQSHSRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQKNAAQFLLSTNDKTIKLWKISERDKRPEGYNLKEEDGRYRDPTTVTTLRVPVFRPMDLMVEASPRRIFANAHTYHINSISINSDYETYLSADDLRINLWHLEITDRSFNIVDIKPANMEELTEVITAAEFHPNSCNTFVYSSSKGTIRLCDMRASALCDRHSKLFEEPEDPSNRSFFSEIISSISDVKFSHSGRYMMTRDYLSVKIWDLNMENRPVETYQVHEYLRSKLCSLYENDCIFDKFECCWNGSDSVVMTGSYNNFFRMFDRNTKRDITLEASRENNKPRTVLKPRKVCASGKRKKDEISVDSLDFNKKILHTAWHPKENIIAVATTNNLYIFQDKVN
+PTM	Acetylation:62,88,105,267,402;Methylation:18,48,62,68,88,95,117,218,292;Phosphorylation:33,143,167,230,276,302,305,307,382,409;SUMOylation:62,105,137,292,405,418;Ubiquitylation:62,88,95,105,117,120,123,129,137,267,292,332,393,402,417

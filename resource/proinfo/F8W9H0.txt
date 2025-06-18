@@ -1,0 +1,25 @@
+UniprotID	F8W9H0
+Accession	F8W9H0
+EntryName	F8W9H0_HUMAN
+ProteinName	vitamin-K-epoxide reductase (warfarin-sensitive) (EC 1.17.4.4)
+GeneName	VKORC1
+Length	149
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSTWGSPGWVRLALCLTGLVLSLYALHVKAARARDRDYRALCDVGTAISCSRVFSSRVQGTGLTVLTWFHPTPPLCQVGQGFRAGGACAGTGQHPQSIQQHIRLHLLHTTAIVRLPADTLGLCPDAAELPGVSRWFCLPGLDPVLRAL
+PTM	

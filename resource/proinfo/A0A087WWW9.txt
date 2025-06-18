@@ -1,0 +1,25 @@
+UniprotID	A0A087WWW9
+Accession	A0A087WWW9
+EntryName	A0A087WWW9_HUMAN
+ProteinName	BCL10 immune signaling adaptor
+GeneName	BCL10
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPTAPSLTEEDLTEVKKDALENLRVYLCEKIIAERHFDHLRAKKILSREDTEEISCRTSSRKRAGKLLDYLQENPKGLDTLVESIRREKTQNFLIQKITDEVLKLRNIKLEHLKDGATNNLSRSNSDESNFSEKLRASTVMYHPEGESSTTPFFSTNSSLNLPVLEVGRTENTIFSSTTLPRPGDPGAPPLPPDLQLEEEGTCANSSEMFLPLRSRTVSRQ
+PTM	

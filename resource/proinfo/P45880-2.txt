@@ -1,0 +1,25 @@
+UniprotID	P45880-2
+Accession	P45880;Q5VWK1;Q5VWK3;Q6IB40;Q7L3J5;Q9BWK8;Q9Y5I6
+EntryName	VDAC2_HUMAN
+ProteinName	Non-selective voltage-gated ion channel VDAC2 (VDAC-2) (hVDAC2) (Outer mitochondrial membrane protein porin 2)
+GeneName	VDAC2
+Length	283
+Function	Non-selective voltage-gated ion channel that mediates the transport of anions and cations through the mitochondrion outer membrane and plasma membrane (PubMed:8420959). The channel adopts an open conformation at zero mV and a closed conformation at both positive and negative potentials (PubMed:8420959). There are two populations of channels; the main that functions in a lower open-state conductance with lower ion selectivity, that switch, in a voltage-dependent manner, from the open to a low-conducting 'closed' state and the other that has a normal ion selectivity in the typical high conductance, 'open' state (PubMed:8420959). Binds various lipids, including the sphingolipid ceramide, the phospholipid phosphatidylcholine, and the sterols cholesterol and oxysterol (PubMed:31015432). Binding of ceramide promotes the mitochondrial outer membrane permeabilization (MOMP) apoptotic pathway (PubMed:31015432).
+Subcellular Location	Mitochondrion outer membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCIPPSYADLGKAARDIFNKGFGFGLVKLDVKTKSCSGVEFSTSGSSNTDTGKVTGTLETKYKWCEYGLTFTEKWNTDNTLGTEIAIEDQICQGLKLTFDTTFSPNTGKKSGKIKSSYKRECINLGCDVDFDFAGPAIHGSAVFGYEGWLAGYQMTFDSAKSKLTRNNFAVGYRTGDFQLHTNVNDGTEFGGSIYQKVCEDLDTSVNLAWTSGTNCTRFGIAAKYQLDPTASISAKVNNSSLIGVGYTQTLRPGVKLTLSALVDGKSINAGGHKVGLALELEA
+PTM	Acetylation:31,39,45,64,72,74,120,235,247,277,285;Methylation:39,43,64,72,85,107,120,208,235,247,267,277;Phosphorylation:44,46,48,53,54,58,66,68,71,73,78,109,112,113,115,118,236,245,251,252,259,261,271,278;SUMOylation:31,39,64,120,121;Ubiquitylation:23,31,39,43,45,64,72,120,121,126,235,247,277,285

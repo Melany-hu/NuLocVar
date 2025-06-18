@@ -1,0 +1,25 @@
+UniprotID	H0YBB0
+Accession	H0YBB0
+EntryName	H0YBB0_HUMAN
+ProteinName	Integrator complex subunit 10
+GeneName	INTS10
+Length	103
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTCEKVLDLMCYMVLPIQDGGKSQEEPSKVKPKFRKGSDLKLLPCTSKAIMPYCLHLMLACFKAPHCNSRHHQRREGGLSPGHGAPGLPLWRESDGGSAQVLH
+PTM	

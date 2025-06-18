@@ -1,0 +1,25 @@
+UniprotID	P04090-2
+Accession	P04090;A0AVM0;Q99936;Q9UCX3;Q9UQJ2
+EntryName	REL2_HUMAN
+ProteinName	Prorelaxin H2 [Cleaved into: Relaxin B chain; Relaxin A chain]
+GeneName	RLN2
+Length	117
+Function	Relaxin is an ovarian hormone that acts with estrogen to produce dilatation of the birth canal in many mammals. May be involved in remodeling of connective tissues during pregnancy, promoting growth of pubic ligaments and ripening of the cervix.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRLFFFHLLGVCLLLNQFSRAVADSWMEEVIKLCGRELVRAQIAICGMSTWSKRSLSQEDAPQTPRPVAGDFIQTVSLGISPDGGKALRTGSCFTREFLGALSKLCHPSSTKIQKP
+PTM	Methylation:33,79,99;Phosphorylation:26

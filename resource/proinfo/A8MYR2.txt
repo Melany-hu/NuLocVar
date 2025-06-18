@@ -1,0 +1,25 @@
+UniprotID	A8MYR2
+Accession	A8MYR2
+EntryName	A8MYR2_HUMAN
+ProteinName	Methionine-R-sulfoxide reductase B1 (EC 1.8.4.12) (EC 1.8.4.14) (Selenoprotein X)
+GeneName	MSRB1
+Length	226
+Function	Methionine-sulfoxide reductase that specifically reduces methionine (R)-sulfoxide back to methionine. While in many cases, methionine oxidation is the result of random oxidation following oxidative stress, methionine oxidation is also a post-translational modification that takes place on specific residue. Acts as a regulator of actin assembly by reducing methionine (R)-sulfoxide mediated by MICALs (MICAL1, MICAL2 or MICAL3) on actin, thereby promoting filament repolymerization. Plays a role in innate immunity by reducing oxidized actin, leading to actin repolymerization in macrophages.
+Subcellular Location	Cytoplasm; Cytoskeleton; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFCSFFGGEVFQNHFEPGVYVCAKCGYELFSSRSKYAHSSPWPAFTETIHADSVAKRPEHNRSEALKVRGHRGGGGTGAARESREPVPPSSLCLPHSSRGLEASIPGLLPLPGSCHPRLSGEPGLLVQMWETGQVSCTGSRTKVNLLCRRSAWEIGVWEETPSASPSKGLHCGCIMARSSPSCLVIFPGVLWQVWQWVGPRVPERRPQAGAVPILNIQQLAEVCP
+PTM	

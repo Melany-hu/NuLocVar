@@ -1,0 +1,25 @@
+UniprotID	B0QY90
+Accession	B0QY90;A0A024R1K4
+EntryName	B0QY90_HUMAN
+ProteinName	Eukaryotic translation initiation factor 3 subunit L (eIF3l) (Eukaryotic translation initiation factor 3 subunit 6-interacting protein) (Eukaryotic translation initiation factor 3 subunit E-interacting protein)
+GeneName	EIF3L EIF3EIP EIF3S6IP hCG_41840
+Length	466
+Function	Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is required for several steps in the initiation of protein synthesis. The eIF-3 complex associates with the 40S ribosome and facilitates the recruitment of eIF-1, eIF-1A, eIF-2:GTP:methionyl-tRNAi and eIF-5 to form the 43S pre-initiation complex (43S PIC). The eIF-3 complex stimulates mRNA recruitment to the 43S PIC and scanning of the mRNA for AUG recognition. The eIF-3 complex is also required for disassembly and recycling of post-termination ribosomal complexes and subsequently prevents premature joining of the 40S and 60S ribosomal subunits prior to initiation. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation, including cell cycling, differentiation and apoptosis, and uses different modes of RNA stem-loop binding to exert either translational activation or repression.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYRPVVSPVMSLTRRCMRSRTSMRTDAVFLILYKELYYRHIYAKVSGGPSLEQRFESYYNYCNLFNYILNADGPAPLELPNQWLWDIIDEFIYQFQSFSQYRCKTAKKSEEEIDFLRSNPKIWNVHSVLNVLHSLVDKSNINRQLEVYTSGGDPESVAGEYGRHSLYKMLGYFSLVGLLRLHSLLGDYYQAIKVLENIELNKKSMYSRVPECQVTTYYYVGFAYLMMRRYQDAIRVFANILLYIQRTKSMFQRTTYKYEMINKQNEQMHALLAIALTMYPMRIDESIHLQLREKYGDKMLRMQKGDPQVYEELFSYSCPKFLSPVVPNYDNVHPNYHKEPFLQQLKVFSDEVQQQAQLSTIRSFLKLYTTMPVAKLAGFLDLTEQEFRIQLLVFKHKMKNLVWTSGISALDGEFQSASEVDFYIDKDMIHIADTKVARRYGDFFIRQIHKFEELNRTLKKMGQRP
+PTM	

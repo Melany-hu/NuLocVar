@@ -1,0 +1,25 @@
+UniprotID	Q9UHY7-2
+Accession	Q9UHY7;Q7Z4C5;Q9BVC2
+EntryName	ENOPH_HUMAN
+ProteinName	Enolase-phosphatase E1 (EC 3.1.3.77) (2,3-diketo-5-methylthio-1-phosphopentane phosphatase) (MASA homolog)
+GeneName	ENOPH1 MASA MSTP145
+Length	115
+Function	Bifunctional enzyme that catalyzes the enolization of 2,3-diketo-5-methylthiopentyl-1-phosphate (DK-MTP-1-P) into the intermediate 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate (HK-MTPenyl-1-P), which is then dephosphorylated to form the acireductone 1,2-dihydroxy-3-keto-5-methylthiopentene (DHK-MTPene).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVYIYSSGSVEAQKLLFGHSTEGDILELVDGHFDTKIGHKVESESYRKIADSIGCSTNNILFLTDVTREASAAEEADVHVAVVVRPGNAGLTDDEKTYYSLITSFSELYLPSST
+PTM	Acetylation:111;Methylation:28,40,61;Phosphorylation:214;SUMOylation:40;Ubiquitylation:128,183,195

@@ -1,0 +1,25 @@
+UniprotID	A0A3B3IS67
+Accession	A0A3B3IS67
+EntryName	A0A3B3IS67_HUMAN
+ProteinName	Tissue factor pathway inhibitor
+GeneName	TFPI2 hCG_19196
+Length	241
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	217...222
+validnes_region	
+nesbase_region	
+Sequence	MDPARPLGLSILLLFLTEAALGDAAQEPTGNNAEICLLPLDYGPCRALLLRYYYDRYTQSCRQFLYGGCEGNANNFYTWEACDDACWRIEKVPKVCRLQVSVDDQCEGSTEKYFFNLSSMTCEKFFSGGCHRNRIENRFPDEATCMGFCAPKKSKYDFYVPSFCYSPKDEGLCSANVTRYYFNPRYRTCDAFTYTGCGGNDNNFVSREDCKRACAKALKKKKKMPKLRFASRIRKIRKKQF
+PTM	

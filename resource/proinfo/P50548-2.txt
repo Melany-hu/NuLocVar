@@ -1,0 +1,25 @@
+UniprotID	P50548-2
+Accession	P50548;B2RAP1;B7Z4R0;Q59G38;Q9UPI7
+EntryName	ERF_HUMAN
+ProteinName	ETS domain-containing transcription factor ERF (Ets2 repressor factor) (PE-2)
+GeneName	ERF
+Length	473
+Function	Potent transcriptional repressor that binds to the H1 element of the Ets2 promoter. May regulate other genes involved in cellular proliferation. Required for extraembryonic ectoderm differentiation, ectoplacental cone cavity closure, and chorioallantoic attachment (By similarity). May be important for regulating trophoblast stem cell differentiation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	409...413
+validnes_region	
+nesbase_region	
+Sequence	MNYDKLSRALRYYYNKRILHKTKGKRFTYKFNFNKLVLVNYPFIDVGLAGGAVPQSAPPVPSGGSHFRFPPSTPSEVLSPTEDPRSPPACSSSSSSLFSAVVARRLGRGSVSDCSDGTSELEEPLGEDPRARPPGPPDLGAFRGPPLARLPHDPGVFRVYPRPRGGPEPLSPFPVSPLAGPGSLLPPQLSPALPMTPTHLAYTPSPTLSPMYPSGGGGPSGSGGGSHFSFSPEDMKRYLQAHTQSVYNYHLSPRAFLHYPGLVVPQPQRPDKCPLPPMAPETPPVPSSASSSSSSSSSPFKFKLQPPPLGRRQRAAGEKAVAGADKSGGSAGGLAEGAGALAPPPPPPQIKVEPISEGESEEVEVTDISDEDEEDGEVFKTPRAPPAPPKPEPGEAPGASQCMPLKLRFKRRWSEDCRLEGGGGPAGGFEDEGEDKKVRGEGPGEAGGPLTPRRVSSDLQHATAQLSLEHRDS
+PTM	Acetylation:394;Methylation:39,58,218,224,376;Phosphorylation:3,7,16,20,21,24,131,137,140,147,148,150,154,156,161,166,167,168,169,170,171,174,185,187,190,193,194,313,318,320,322,324,327,357,373,431,435,441,444,489,526,531,532,538,542,548;SUMOylation:2,17,58,71,73,80,105,378,465,481,511,512;Ubiquitylation:91

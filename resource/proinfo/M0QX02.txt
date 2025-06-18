@@ -1,0 +1,25 @@
+UniprotID	M0QX02
+Accession	M0QX02
+EntryName	M0QX02_HUMAN
+ProteinName	Zinc finger protein 667
+GeneName	ZNF667
+Length	127
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	77...82
+validnes_region	
+nesbase_region	
+Sequence	MPSARGKSKSKAPITFGDLAIYFSQEEWEWLSPIQKDLYEDVMLENYRNLVSLGLSFRRPNVITLLEKGKAPWMVEPVRRRRAPELTEASPEAKEVPAPCLYSLLNQEPIEPLLFINYPLKYLFIAI
+PTM	

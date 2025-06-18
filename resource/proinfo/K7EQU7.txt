@@ -1,0 +1,25 @@
+UniprotID	K7EQU7
+Accession	K7EQU7
+EntryName	K7EQU7_HUMAN
+ProteinName	tRNA methyltransferase 1
+GeneName	TRMT1
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQGSSLWLSLTFRSARVLSRARFFEWQSPGLPNTAAMENGTGPYGEERPREVQETTVTEGAAKIAFPSANEVFYNPVQEFNRDLTCAVITEFARIQLGAKGIQSEWRSRLLVGGGHTSLSPCLGSSAAQIQRGFSHIAGPGFCSF
+PTM	

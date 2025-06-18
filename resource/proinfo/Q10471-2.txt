@@ -1,0 +1,25 @@
+UniprotID	Q10471-2
+Accession	Q10471;A8K1Y3;B7Z8V8;C5HU00;Q9NPY4
+EntryName	GALT2_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 2 (EC 2.4.1.41) (Polypeptide GalNAc transferase 2) (GalNAc-T2) (pp-GaNTase 2) (Protein-UDP acetylgalactosaminyltransferase 2) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 2) [Cleaved into: Polypeptide N-acetylgalactosaminyltransferase 2 soluble form]
+GeneName	GALNT2
+Length	265
+Function	Catalyzes the initial reaction in O-linked oligosaccharide biosynthesis, the transfer of an N-acetyl-D-galactosamine residue to a serine or threonine residue on the protein receptor. Has a broad spectrum of substrates for peptides such as EA2, Muc5AC, Muc1a, Muc1b. Probably involved in O-linked glycosylation of the immunoglobulin A1 (IgA1) hinge region. Involved in O-linked glycosylation of APOC-III, ANGPTL3 and PLTP. It participates in the regulation of HDL-C metabolism (PubMed:27508872, PubMed:32293671).
+Subcellular Location	Golgi apparatus; Golgi stack membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRSGQDPYARNKFNQVESDKLRMDRAIPDTRHDQCQRKQWRVDLPATSVVITFHNEARSALLRTVVSVLKKSPPHLIKEIILVDDYSNDPEDGALLGKIEKVRVLRNDRREGLMRSRVRGADAAQAKVLTFLDSHCECNEHWLEPLLERVAEDRTRVVSPIIDVINMDNFQYVGASADLKGGFDWNLVFKWDYMTPEQRRSRQGNPVAPIKDLVPRVAVWWQPGDHPVQPCGTRVPEAAPLHVPGWQWHCLCPKHPPGSRGLDG
+PTM	Acetylation:103,111,509,521;Glycosylation:59,67,90,109,368,396,402;Methylation:189,420,509;Phosphorylation:67,70,90,94,485,506,536,560;SUMOylation:52,53,64,75,103,111,162,169,189,192,302,393,424,509,521,530;Ubiquitylation:103,111,169,189,218,302,393,486,509,530,546

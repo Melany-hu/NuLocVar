@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MR90
+Accession	A0A0A0MR90
+EntryName	A0A0A0MR90_HUMAN
+ProteinName	BCL2 like 13
+GeneName	BCL2L13
+Length	128
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSSTVPLGFHYETKYVVLSYLGLLSQEKLQEQHLSSPQGVQLDIASQSLDQEILLKVKTEIEEELKSLDKEISEDFGASGFATTNAFGIDKTWSRTFERTAAVWRDIPGGLFGRVHHSARWLGHCV
+PTM	

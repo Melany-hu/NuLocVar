@@ -1,0 +1,25 @@
+UniprotID	B7Z6P0
+Accession	B7Z6P0
+EntryName	B7Z6P0_HUMAN
+ProteinName	NUBP iron-sulfur cluster assembly factor 2, cytosolic (Nucleotide binding protein 2 (MinD homolog, E. coli), isoform CRA_d) (cDNA FLJ57200, highly similar to Nucleotide-binding protein 2)
+GeneName	NUBP2 hCG_42691
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATIEALRPYQPLGALVVTTPQAVSVGDVRRELTFCRKTGLRVMGIVENMSGFTCPHCTECTSVFSRGGGEELAQLAGVPFLGSVPLDPALMRTLEEGHDFIQEFPGSPAFAALTSIAQKILDATPACLP
+PTM	

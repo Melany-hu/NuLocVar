@@ -1,0 +1,25 @@
+UniprotID	Q6ZS10-3
+Accession	Q6ZS10;A8MX68;B2RTX0;B7ZMM4
+EntryName	CL17A_HUMAN
+ProteinName	C-type lectin domain family 17, member A (Prolectin)
+GeneName	CLEC17A
+Length	306
+Function	Cell surface receptor which may be involved in carbohydrate-mediated communication between cells in the germinal center. Binds glycans with terminal alpha-linked mannose or fucose residues.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHNLYSITGYPDPPGTMEEEEEDDDYENSTPPYKDLPPKPGTMEEEEEDDDYENSTPPYKDLPPKPGTMEEEEEDDDYENSTPPYKDLPPKPGSSAPPRPPRAAKETEKPPLPCKPRNMTGLDLAAVTCPPPQLAVNLEPSPLQPSLAATPVPWLNQRSGGPGCCQKRWMVYLCLLVVTSLFLGCLGLTVTLIKYQELMEELRMLSFQQMTWRTNMTGMAGLAGLKHDIARVRADTNQSLVELWGLLDCRRITCPEGWLPFEGKCYYFSPSTKSWDEARMFCQENYSHLVIINSFAEHLLGARGTQ
+PTM	Phosphorylation:94,95

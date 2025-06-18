@@ -1,0 +1,25 @@
+UniprotID	P51460-2
+Accession	P51460;B4DZ72;G3XAG0;Q3KPI5;Q3KPI6;Q6YNB5;Q9UEA2;Q9UPH6
+EntryName	INSL3_HUMAN
+ProteinName	Insulin-like 3 (Leydig insulin-like peptide) (Ley-I-L) (Relaxin-like factor) [Cleaved into: Insulin-like 3 B chain; Insulin-like 3 A chain]
+GeneName	INSL3 RLF RLNL
+Length	157
+Function	Seems to play a role in testicular function. May be a trophic hormone with a role in testicular descent in fetal life. Is a ligand for LGR8 receptor.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPRLPAWALVLLGPALVFALGPAPTPEMREKLCGHHFVRALVRVCGGPRWSTEARRPATGGDQRESHSVSQAGLKLLSSSNPPTLTFQSVGISDVSCYSGWRDDICSMGWWPTVISRWDLACSPCPRPLTITATTVQLPPTLHATAASVAVPNKTC
+PTM	

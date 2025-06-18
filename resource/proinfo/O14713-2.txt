@@ -1,0 +1,25 @@
+UniprotID	O14713-2
+Accession	O14713;D6W4Y9;O14714;Q53RS0
+EntryName	ITBP1_HUMAN
+ProteinName	Integrin beta-1-binding protein 1 (Integrin cytoplasmic domain-associated protein 1) (ICAP-1)
+GeneName	ITGB1BP1 ICAP1
+Length	150
+Function	Key regulator of the integrin-mediated cell-matrix interaction signaling by binding to the ITGB1 cytoplasmic tail and preventing the activation of integrin alpha-5/beta-1 (heterodimer of ITGA5 and ITGB1) by talin or FERMT1. Plays a role in cell proliferation, differentiation, spreading, adhesion and migration in the context of mineralization and bone development and angiogenesis. Stimulates cellular proliferation in a fibronectin-dependent manner. Involved in the regulation of beta-1 integrin-containing focal adhesion (FA) site dynamics by controlling its assembly rate during cell adhesion; inhibits beta-1 integrin clustering within FA by directly competing with talin TLN1, and hence stimulates osteoblast spreading and migration in a fibronectin- and/or collagen-dependent manner. Acts as a guanine nucleotide dissociation inhibitor (GDI) by regulating Rho family GTPases during integrin-mediated cell matrix adhesion; reduces the level of active GTP-bound form of both CDC42 and RAC1 GTPases upon cell adhesion to fibronectin. Stimulates the release of active CDC42 from the membranes to maintain it in an inactive cytoplasmic pool. Participates in the translocation of the Rho-associated protein kinase ROCK1 to membrane ruffles at cell leading edges of the cell membrane, leading to an increase of myoblast cell migration on laminin. Plays a role in bone mineralization at a late stage of osteoblast differentiation; modulates the dynamic formation of focal adhesions into fibrillar adhesions, which are adhesive structures responsible for fibronectin deposition and fibrillogenesis. Plays a role in blood vessel development; acts as a negative regulator of angiogenesis by attenuating endothelial cell proliferation and migration, lumen formation and sprouting angiogenesis by promoting AKT phosphorylation and inhibiting ERK1/2 phosphorylation through activation of the Notch signaling pathway. Promotes transcriptional activity of the MYC promoter.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Cell membrane; Cell projection; Lamellipodium; Cell projection; Ruffle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	6..7
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRKGKKRHSSSSSQSSEISTKSKSVDSSLGGLSRSSTVASLDTDSTKSSGQSNNNSDTCAEFRIKYVGAIEKLKLSEGKGLEGPLDLINYIDVAQQDGKLPFVPPEEEFIMGVSKYGIKVSTSDQYEQAQAICKVLSTAFDSVLTSEKP
+PTM	Methylation:73,158;Phosphorylation:11,13,14,23,25,28,29,34,36,37,38,41,44,46,47,49,50,57,59,153;Ubiquitylation:48,66,158,199

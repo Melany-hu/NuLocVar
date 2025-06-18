@@ -1,0 +1,25 @@
+UniprotID	K7EJK2
+Accession	K7EJK2
+EntryName	K7EJK2_HUMAN
+ProteinName	Ataxin 7 like 3
+GeneName	ATXN7L3
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCTRSLRCPQHTDEQRRTVRIYFLGPSAVLPEVESSLDNDSFDMTDSQALISRLQWDGSSDLSPSDSGSSKT
+PTM	

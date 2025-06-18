@@ -1,0 +1,25 @@
+UniprotID	Q9H992-2
+Accession	Q9H992;A8K9X1;B7Z7P5;D3DPB0;Q53GQ1;Q9BTR9
+EntryName	MARH7_HUMAN
+ProteinName	E3 ubiquitin-protein ligase MARCHF7 (EC 2.3.2.27) (Axotrophin) (Membrane-associated RING finger protein 7) (Membrane-associated RING-CH protein VII) (MARCH-VII) (RING finger protein 177) (RING-type E3 ubiquitin transferase MARCHF7)
+GeneName	MARCHF7 AXOT MARCH7 RNF177
+Length	666
+Function	E3 ubiquitin-protein ligase which may specifically enhance the E2 activity of HIP2. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfer the ubiquitin to targeted substrates (PubMed:16868077). May be involved in T-cell proliferation by regulating LIF secretion (By similarity). May play a role in lysosome homeostasis (PubMed:31270356). Promotes 'Lys-6', 'Lys-11' and 'Lys-63'-linked mixed polyubiquitination on ATG14 leading to the inhibition of autophagy by impairing the interaction between ATG14 and STX7 (PubMed:37632749). Participates in the dopamine-mediated negative regulation of the NLRP3 inflammasome by promoting its uibiquitination and subsequent degradation (PubMed:25594175).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIGNYDHLMSLVTSTSASASASPFQSAWYSESEITQGARSRSQNQQRDHDSKRPKLSCTNCTTSAGRNVGNGLNTLSDSSWRHSQVPRSSSMVLGSFGTDLMRERRDLERRTDSSISNLMDYSHRSGDFTTSSYVQDRVPSYSQGARPKENSMSTLQLNTSSTNHQLPSEHQTILSSRDSRNSLRSNFSSRESESSRSNTQPGFSYSSSRDEAPIISNSERVVSSQRPFQESSDNEGRRTTRRLLSRIASSMSSTFFSRRSSQDSLNTRSLNSENSYVSPRILTASQSRSNVPSASEVPDNRASEASQGFRFLRRRWGLSSLSHNHSSESDSENFNQESEGRNTGPWLSSSLRNRCTPLFSRRRREGRDESSRIPTSDTSSRSHIFRRESNEVVHLEAQNDPLGAAANRPQASAASSSATTGGSTSDSAQGGRNTGISGILPGSLFRFAVPPALGSNLTDNVMITVDIIPSGWNSADGKSDKTKSAPSRDPERLQKIKESLLLEDSEEEEGDLCRICQMAAASSSNLLIEPCKCTGSLQYVHQDCMKKWLQAKINSGSSLEAVTTCELCKEKLELNLEDFDIHELHRAHANEQAEYEFISSGLYLVVLLHLCEQSFSDMMGNTNEPSTRVRFINLARTLQAHMEDLETSEDDSEEDGDHNRTFDIA
+PTM	Phosphorylation:6,13,17,31,32,36,37,39,127,128,214,221,227,228,255,257,289,299,300,314,315,317,358,368,387,388,389,395,418,419,526,544,676,686,687,691;SUMOylation:4,90,93,585,591,610;Ubiquitylation:4,93,187,522,585,586,608,610

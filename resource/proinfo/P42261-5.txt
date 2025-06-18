@@ -1,0 +1,25 @@
+UniprotID	P42261-5
+Accession	P42261;B7Z2S0;B7Z2W8;B7Z3F6;B7Z9G9;D3DQI4;E7ESV8;Q2NKM6
+EntryName	GRIA1_HUMAN
+ProteinName	Glutamate receptor 1 (GluR-1) (AMPA-selective glutamate receptor 1) (GluR-A) (GluR-K1) (Glutamate receptor ionotropic, AMPA 1)
+GeneName	GRIA1 GLUA1 GLUH1 GLUR1
+Length	916
+Function	Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid (PubMed:1311100, PubMed:20805473, PubMed:21172611, PubMed:28628100, PubMed:35675825). L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system. Binding of the excitatory neurotransmitter L-glutamate induces a conformation change, leading to the opening of the cation channel, and thereby converts the chemical signal to an electrical impulse upon entry of monovalent and divalent cations such as sodium and calcium. The receptor then desensitizes rapidly and enters in a transient inactive state, characterized by the presence of bound agonist (By similarity). In the presence of CACNG2 or CACNG4 or CACNG7 or CACNG8, shows resensitization which is characterized by a delayed accumulation of current flux upon continued application of L-glutamate (PubMed:21172611). Resensitization is blocked by CNIH2 through interaction with CACNG8 in the CACNG8-containing AMPA receptors complex (PubMed:21172611). Calcium (Ca(2+)) permeability depends on subunits composition and, heteromeric channels containing edited GRIA2 subunit are calcium-impermeable. Also permeable to other divalents cations such as strontium(2+) and magnesium(2+) and monovalent cations such as potassium(1+) and lithium(1+) (By similarity).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Postsynaptic cell membrane; Postsynaptic density membrane; Cell projection; Dendrite; Cell projection; Dendritic spine; Early endosome membrane; Recycling endosome membrane; Presynapse; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCCSTHLFQPLQLAGGLEWPWSNLLCFLTPVKLHPEVWGLFPNQQSQEHAAFRFALSQLTEPPKLLPQIDIVNISDSFEMTYRFCSQFSKGVYAIFGFYERRTVNMLTSFCGALHVCFITPSFPVDTSNQFVLQLRPELQDALISIIDHYKWQKFVYIYDADRGLSVLQKVLDTAAEKNWQVTAVNILTTTEEGYRMLFQDLEKKKERLVVVDCESERLNAILGQIIKLEKNGIGYHYILANLGFMDIDLNKFKESGANVTGFQLVNYTDTIPAKIMQQWKNSDARDHTRVDWKRPKYTSALTYDGVKVMAEAFQSLRRQRIDISRRGNAGDCLANPAVPWGQGIDIQRALQQVRFEGLTGNVQFNEKGRRTNYTLHVIEMKHDGIRKIGYWNEDDKFVPAATDAQAGGDNSSVQNRTYIVTTILEDPYVMLKKNANQFEGNDRYEGYCVELAAEIAKHVGYSYRLEIVSDGKYGARDPDTKAWNGMVGELVYGRADVAVAPLTITLVREEVIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWMCIVFAYIGVSVVLFLVSRFSPYEWHSEEFEEGRDQTTSDQSNEFGIFNSLWFSLGAFMQQGCDISPRSLSGRIVGGVWWFFTLIIISSYTANLAAFLTVERMVSPIESAEDLAKQTEIAYGTLEAGSTKEFFRRSKIAVFEKMWTYMKSAEPSVFVRTTEEGMIRVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGYGIATPKGSALRNPVNLAVLKLNEQGLLDKLKNKWWYDKGECGSGGGDSKDKTSALSLSNVAGVFYILIGGLGLAMLVALIEFCYKSRSESKRMKGFCLIPQQSINEAIRTSTLPRNSGAGASSGGSGENGRVVSHDFPKSMQSIPCMSHSSGMPLGATGL
+PTM	Methylation:194,218,242,298,448,507,519,655,766,775;Phosphorylation:156,453,551,746,834

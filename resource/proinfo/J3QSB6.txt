@@ -1,0 +1,25 @@
+UniprotID	J3QSB6
+Accession	J3QSB6
+EntryName	J3QSB6_HUMAN
+ProteinName	Enolase superfamily member 1
+GeneName	ENOSF1
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRGRISRLSVRDVRFPTSLGGHGADAMHTDPDYSAAYVVIETDAEDGIKGCGITFTLGKGTEVVVCAVNALAHHVLNKDLKDIVGDFRGFYRQLTSDGQLRWIGPEKGVVHLATAAVLNAVWDLWAKQEGKPVWKLLVDMGRIRRTAGLSRGNSLATGTSNSEGPWKVQNVDGAVFSQRSKCWHKDTLLTRHRAPGWGTQMTR
+PTM	

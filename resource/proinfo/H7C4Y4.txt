@@ -1,0 +1,25 @@
+UniprotID	H7C4Y4
+Accession	H7C4Y4
+EntryName	H7C4Y4_HUMAN
+ProteinName	WD repeat domain 49
+GeneName	WDR49
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIDTEGKNAVMRLCFLKARKNTAVTGGANLVSCGGSGYVRFWDIYKKQLLAEFLAHSGVGSIIMSTDKMNRYLTTGDLDGWLKIWNIEAKHWHIENCLFLPKRDTNLVESEIQKEISLFSKEESCLDPTEHSLLNKKNK
+PTM	

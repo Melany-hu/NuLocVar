@@ -1,0 +1,25 @@
+UniprotID	K7EPF6
+Accession	K7EPF6
+EntryName	K7EPF6_HUMAN
+ProteinName	phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating) (EC 1.1.1.44)
+GeneName	PGD
+Length	256
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDIALIGLAVMGQNLILNMNDHGFVVCAFNRTVSKVDDFLANEAKGTKVVGAQSLKEMVSKLKKPRRIILLVKAGQAVDDFIEKLRRCRDLKAKGILFVGSGVSGGEEGARYGPSLMPGGNKEAWPHIKTIFQGIAAKVGTGEPCCDWVGDEGAGHFVKMVHNGIEYGDMQLICEAYHLMKDVLGMAQDEMAQAFEDWNKTELDSFLIEITANILKFQDTDGKHLLPKIRDSAGQKGTGKWTAISALEYGVPVTLI
+PTM	

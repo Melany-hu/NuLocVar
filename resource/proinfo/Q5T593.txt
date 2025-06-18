@@ -1,0 +1,25 @@
+UniprotID	Q5T593
+Accession	Q5T593
+EntryName	Q5T593_HUMAN
+ProteinName	Family with sequence similarity 219 member A
+GeneName	FAM219A
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEIDRFQVPTAHSEMQPLDPAAASISDGDCDAREGESVAMNYKPSPLQVKLEKQRELARKGSLKNGSMGSPVNQQPKKNNVMARTRLVVPNKGYSSLDQSPDEKPLVALDTDSDDDFDMSRYSSSGYSSAEQINQDLNIQLLKDGYRLDEIPDDEDLDLIPPKSVNP
+PTM	

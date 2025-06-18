@@ -1,0 +1,25 @@
+UniprotID	F6XAJ2
+Accession	F6XAJ2
+EntryName	F6XAJ2_HUMAN
+ProteinName	Muscle associated receptor tyrosine kinase
+GeneName	MUSK
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NGVGGAVESCGALQVKMKPKITRPPINVKIIEGLKAVLPCTTMGNPKPSVSWIKGDSPLRENSRIAVLESGSLRIHNVQKEDAGQYRCVAKNSLGTAYSKVVKLEVEGAKGIHTQFVASALQLRSFLSCPQI
+PTM	

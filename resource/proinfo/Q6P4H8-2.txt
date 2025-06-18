@@ -1,0 +1,25 @@
+UniprotID	Q6P4H8-2
+Accession	Q6P4H8;B4DT41;B4DXK2;E9PBZ4
+EntryName	ACKMT_HUMAN
+ProteinName	ATP synthase subunit C lysine N-methyltransferase (EC 2.1.1.-) (Protein N-lysine methyltransferase FAM173B) (hFAM173B)
+GeneName	ATPSCKMT FAM173B
+Length	216
+Function	Mitochondrial protein-lysine N-methyltransferase that trimethylates ATP synthase subunit C, ATP5MC1 and ATP5MC2. Trimethylation is required for proper incorporation of the C subunit into the ATP synthase complex and mitochondrial respiration (PubMed:29444090, PubMed:30530489). Promotes chronic pain (PubMed:29444090). Involved in persistent inflammatory and neuropathic pain: methyltransferase activity in the mitochondria of sensory neurons promotes chronic pain via a pathway that depends on the production of reactive oxygen species (ROS) and on the engagement of spinal cord microglia (PubMed:29444090).
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGGGGIPLETLKEESQSRHVLPASFEVNSLQKSNWGFLLTGLVGGTLVAVYAVATPFVTPALRKVCLPFVPATTKQIENVVKMLRCRRGSLVDIGSGDGRIVIAAAKKGFTAVGYELNPWLVWYSRYRAWREGVHGSAKFYISDLWKMLQLEKKLERELEDDARVIACRFPFPHWTPDHVTGEGIDTVWAYDASTFRGREKRPCTSMHFQLPIQA
+PTM	Methylation:13,83,171;SUMOylation:13;Ubiquitylation:108

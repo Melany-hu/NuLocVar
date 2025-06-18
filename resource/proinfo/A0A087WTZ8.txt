@@ -1,0 +1,25 @@
+UniprotID	A0A087WTZ8
+Accession	A0A087WTZ8
+EntryName	A0A087WTZ8_HUMAN
+ProteinName	NSE2 (MMS21) homolog, SMC5-SMC6 complex SUMO ligase
+GeneName	NSMCE2
+Length	157
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGRSSSNSGSTGFISFSGVESALSSLKNFQACINSGMDTASSVALDLVESQTEVSSEYSMDKAMVEFATLDRQLNHYVKAVQSTINHVKEERPEKIPDLKLLVEKKFLALQSKNSDADFQNNEKFVQFKQQLKELKKQCKSTCFALVRLFEIRELT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H7C3I1
+Accession	H7C3I1
+EntryName	H7C3I1_HUMAN
+ProteinName	ST13 Hsp70 interacting protein
+GeneName	ST13
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIEPDTDAPQEMGDENAEITEEMMDQANDKKVAAIEALNDGELQKAIDLFTDAIKLNPRLAILYAKRASVFVKLQKPNAAIRDCDRAIEINPDSAQPYKWRGKAHRLLGHWEEAAHDLALACKLDYDEDASAMLKEVQPRVCTTTL
+PTM	

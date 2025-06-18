@@ -1,0 +1,25 @@
+UniprotID	Q8IZP0-4
+Accession	Q8IZP0;A9Z1Y6;B3KX62;B4DQ58;H7BXI6;O15147;O76049;O95060;Q5T2R3;Q5T2R4;Q5T2R6;Q5T2R7;Q5T2R9;Q5W070;Q5W072;Q8TB63;Q96S81;Q9NXZ9;Q9NYB8
+EntryName	ABI1_HUMAN
+ProteinName	Abl interactor 1 (Abelson interactor 1) (Abi-1) (Abl-binding protein 4) (AblBP4) (Eps8 SH3 domain-binding protein) (Eps8-binding protein) (Nap1-binding protein) (Nap1BP) (Spectrin SH3 domain-binding protein 1) (e3B1)
+GeneName	ABI1 SSH3BP1
+Length	451
+Function	May act in negative regulation of cell growth and transformation by interacting with nonreceptor tyrosine kinases ABL1 and/or ABL2. May play a role in regulation of EGF-induced Erk pathway activation. Involved in cytoskeletal reorganization and EGFR signaling. Together with EPS8 participates in transduction of signals from Ras to Rac. In vitro, a trimeric complex of ABI1, EPS8 and SOS1 exhibits Rac specific guanine nucleotide exchange factor (GEF) activity and ABI1 seems to act as an adapter in the complex. Regulates ABL1/c-Abl-mediated phosphorylation of ENAH. Recruits WASF1 to lamellipodia and there seems to regulate WASF1 protein level. In brain, seems to regulate the dendritic outgrowth and branching as well as to determine the shape and number of synaptic contacts of developing neurons.
+Subcellular Location	Cytoplasm; Nucleus; Cell projection; Lamellipodium; Cell projection; Filopodium; Cell projection; Growth cone; Postsynaptic density; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELQMLLEEEIPSGKRALIESYQNLTRVADYCENNYIQATDKRKALEETKAYTTQSLASVAYQINALANNVLQLLDIQASQLRRMESSINHISQTVDIHKEKVARREIGILTTNKNTSRTHKIIAPANMERPVRYIRKPIDYTVLDDVGHGVKWLKAKHGNNQPARTGTLSRTNPPTQKPPSPPMSGRGTLGRNTPYKTLEPVKPPTVPNDYMTSPARLGSQHSPGRTASLNQRPRTHSGSSGGSGSRENSGSSSIGIPIAVPTPSPPTIGPAPGSAPGSQYGTMTRQISRHNSTTSSTSSGGYRRTPSVTAQFSAQPHVNGGPLYSQNSIADSPTPPPPPPPDDIPMFDDSPPPPPPPPVDYEDEEAAVVQYNDPYADGDPAWAPKNYIEKVVAIYDYTKDKDDELSFMEGAIIYVIKKNDDGWYEGVCNRVTGLFPGNYVESIMHYTD
+PTM	Acetylation:199;Methylation:450,459;Phosphorylation:14,22,23,27,32,37,143,170,174,178,183,187,191,196,198,200,208,213,215,216,222,225,229,231,238,240,242,248,252,256,319,323,324,325,326,327,328,329,330,333,455,484,506,507;Ubiquitylation:16,116

@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRF1
+Accession	A0A1W2PRF1
+EntryName	A0A1W2PRF1_HUMAN
+ProteinName	Potassium calcium-activated channel subfamily M alpha 1
+GeneName	KCNMA1
+Length	91
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVISIKNYHPKIRIITQMLQYHNKAHLLNIPSWNWKEGDDAICLAELKLGFIAQSCLAQGLSTMLANLFSMRSFIKVSSLIQAALILHGWN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O96001-2
+Accession	O96001;B4DE58;Q9UDQ0
+EntryName	PPR17_HUMAN
+ProteinName	Protein phosphatase 1 regulatory subunit 17 (G-substrate)
+GeneName	PPP1R17 C7orf16 GSBS
+Length	104
+Function	Inhibits phosphatase activities of protein phosphatase 1 (PP1) and protein phosphatase 2A (PP2A) complexes.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMSTEQMQPLELSEDRLDKLDPRCSHLGVFSEHLIKRYDVQERHPKGKMIPVLHNTDLEQKKPRRKDTPALHMSPFAAGVTLLRDERPKAIVEDDEKDGDKIAI
+PTM	Methylation:87,140;Phosphorylation:119,125;Ubiquitylation:19,48

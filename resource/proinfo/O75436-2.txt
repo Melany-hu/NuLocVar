@@ -1,0 +1,25 @@
+UniprotID	O75436-2
+Accession	O75436;A8MZ56;B2RDD3;Q8TBH4;Q9H982
+EntryName	VP26A_HUMAN
+ProteinName	Vacuolar protein sorting-associated protein 26A (Vesicle protein sorting 26A) (hVPS26)
+GeneName	VPS26A VPS26
+Length	251
+Function	Acts as a component of the retromer cargo-selective complex (CSC). The CSC is believed to be the core functional component of retromer or respective retromer complex variants acting to prevent missorting of selected transmembrane cargo proteins into the lysosomal degradation pathway. The recruitment of the CSC to the endosomal membrane involves RAB7A and SNX3. The SNX-BAR retromer mediates retrograde transport of cargo proteins from endosomes to the trans-Golgi network (TGN) and is involved in endosome-to-plasma membrane transport for cargo protein recycling. The SNX3-retromer mediates the retrograde endosome-to-TGN transport of WLS distinct from the SNX-BAR retromer pathway. The SNX27-retromer is believed to be involved in endosome-to-plasma membrane trafficking and recycling of a broad spectrum of cargo proteins (Probable). The CSC seems to act as recruitment hub for other proteins, such as the WASH complex and TBC1D5 (Probable). Required for retrograde transport of lysosomal enzyme receptor IGF2R (PubMed:15078902, PubMed:15078903). Required to regulate transcytosis of the polymeric immunoglobulin receptor (pIgR-pIgA) (PubMed:15247922). Required for the endosomal localization of WASHC2A (indicative for the WASH complex) (PubMed:22070227). Required for the endosomal localization of TBC1D5 (PubMed:20923837). Mediates retromer cargo recognition of SORL1 and is involved in trafficking of SORL1 implicated in sorting and processing of APP (PubMed:22279231). Involved in retromer-independent lysosomal sorting of F2R (PubMed:16407403). Involved in recycling of ADRB2 (PubMed:21602791). Enhances the affinity of SNX27 for PDZ-binding motifs in cargo proteins (By similarity).
+Subcellular Location	Cytoplasm; Endosome membrane; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFLGGFFGPICEIDIVLNDGETRKMAEMKTEDGKVEKHYLFYDGESVSGKVNLAFKQPGKRLEHQGIRIEFVGQIELFNDKSNTHEFVNLVKELALPGELTQSRSYDFEFMQVEKPYESYIGANVRLRYFLKVTIVRRLTDLVKEYDLIVHQLATYPDVNNSIKMEVGIEDCLHIEFEYNKSKYHLKDVIVGKIYFLLVRIKIQHMELQLIKKEITGIGPSTTTETETIAKYEIMDGAPVKGDNFMEKSS
+PTM	Acetylation:38;Methylation:82,93,116,145,194,213,232;Phosphorylation:2,31,40,47,102,104,147,157,225,245,255,307,315,318,321;SUMOylation:30,213,232,242;Ubiquitylation:35,38,57,82,93,188,214,242,301

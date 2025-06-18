@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PP33
+Accession	A0A1W2PP33
+EntryName	A0A1W2PP33_HUMAN
+ProteinName	UBAP1-MVB12-associated (UMA) domain containing 1
+GeneName	UMAD1
+Length	78
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFHFFRKPPESKKPSVPETEADGFVLLGDTTDEQRMTARGKTSDIEANQPLELASREDFSSFRQTTFPRIHGTDYRSK
+PTM	

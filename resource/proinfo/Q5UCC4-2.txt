@@ -1,0 +1,25 @@
+UniprotID	Q5UCC4-2
+Accession	Q5UCC4;Q5UCC6;Q69YT5;Q6UWP3;Q86YL4;Q8N541
+EntryName	EMC10_HUMAN
+ProteinName	ER membrane protein complex subunit 10 (Hematopoietic signal peptide-containing membrane domain-containing protein 1)
+GeneName	EMC10 C19orf63 INM02 UNQ764/PRO1556
+Length	254
+Function	Part of the endoplasmic reticulum membrane protein complex (EMC) that enables the energy-independent insertion into endoplasmic reticulum membranes of newly synthesized membrane proteins (PubMed:29242231, PubMed:29809151, PubMed:30415835, PubMed:32439656, PubMed:32459176). Preferentially accommodates proteins with transmembrane domains that are weakly hydrophobic or contain destabilizing features such as charged and aromatic residues (PubMed:29242231, PubMed:29809151, PubMed:30415835). Involved in the cotranslational insertion of multi-pass membrane proteins in which stop-transfer membrane-anchor sequences become ER membrane spanning helices (PubMed:29809151, PubMed:30415835). It is also required for the post-translational insertion of tail-anchored/TA proteins in endoplasmic reticulum membranes (PubMed:29242231, PubMed:29809151). By mediating the proper cotranslational insertion of N-terminal transmembrane domains in an N-exo topology, with translocated N-terminus in the lumen of the ER, controls the topology of multi-pass membrane proteins like the G protein-coupled receptors (PubMed:30415835). By regulating the insertion of various proteins in membranes, it is indirectly involved in many cellular processes (Probable). Promotes angiogenesis and tissue repair in the heart after myocardial infarction. Stimulates cardiac endothelial cell migration and outgrowth via the activation of p38 MAPK, PAK and MAPK2 signaling pathways (PubMed:28931551).
+Subcellular Location	Endoplasmic reticulum membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAASAGATRLLLLLLMAVAAPSRARGSGCRAGTGARGAGAEGREGEACGTVGLLLEHSFEIDDSANFRKRGSLLWNQQDGTLSLSQRQLSEEERGRLRDVAALNGLYRVRIPRRPGALDGLEAGGYVSSFVPACSLVESHLSDQLTLHVDVAGNVVGVSVVTHPGGCRGHEVEDVDLELFNTSVQLQPPTTAPGPETAAFIERLEMEQAQKAKNPQEQKSFFAKYWHIILGGAVLLTALRPAAPGPAPPPQEA
+PTM	Acetylation:220;Glycosylation:182;Methylation:99,212;Phosphorylation:9,23;SUMOylation:220;Ubiquitylation:212,220

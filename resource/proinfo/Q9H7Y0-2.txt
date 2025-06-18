@@ -1,0 +1,25 @@
+UniprotID	Q9H7Y0-2
+Accession	Q9H7Y0;A8MUU5;B2RPN7;Q6UWJ5
+EntryName	DIK2B_HUMAN
+ProteinName	Divergent protein kinase domain 2B (Deleted in autism-related protein 1)
+GeneName	DIPK2B CXorf36 DIA1R UNQ1862/PRO3743
+Length	182
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPQLGPEAAALRPGWLALLLWVSALSCSFSLPASSLSSLVPQVRTSYNFGRTFLGLDKCNACIGTSICKKFFKEEIRSDNWLASHLGLPPDSLLSYPANYSDDSKIWRPVEIFRLVSKYQNEISDRRICASASAPKTCSIERVLRKTERFQKWLQAKRLTPDLVQDCHQGQRELKFLCMLR
+PTM	Methylation:119,147,318;Phosphorylation:170

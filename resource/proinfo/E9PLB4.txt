@@ -1,0 +1,25 @@
+UniprotID	E9PLB4
+Accession	E9PLB4
+EntryName	E9PLB4_HUMAN
+ProteinName	Protein chibby homolog 2 (Spermatid-associated protein)
+GeneName	CBY2
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPLECSECFGDQLLHRTYTWQLTLRGTAEPFPRLHNLYSTPRCAQQAALPRLSRRMASQHSYPLNRFSSVPLDPMERPMSQADLELDYNPPRVQLSDEMFVFQDGRWVNENCRLQSPYFSPSASFHHKLHHKRLAKECMLQEENKSLREENKALREENR
+PTM	

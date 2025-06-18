@@ -1,0 +1,25 @@
+UniprotID	P24863-2
+Accession	P24863;B4DPZ1;Q9H543
+EntryName	CCNC_HUMAN
+ProteinName	Cyclin-C (SRB11 homolog) (hSRB11)
+GeneName	CCNC
+Length	198
+Function	Component of the Mediator complex, a coactivator involved in regulated gene transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors. Binds to and activates cyclin-dependent kinase CDK8 that phosphorylates the CTD (C-terminal domain) of the large subunit of RNA polymerase II (RNAp II), which may inhibit the formation of a transcription initiation complex.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPTCVFLASKVEEFGVVSNTRLIAAATSVLKTRFSYAFPKEFPYRMNHILECEFYLLELMDCCLIVYHPYRPLLQYVQDMGQEDMLLPLAWRIVNDTYRTDLCLLYPPFMIALACLHVACVVQQKDARQWFAELSVDMEKILEIIRVILKLYEQWKNFDERKEMATILSKMPKPKPPPNSEGEQGPNGSQNSSYSQS
+PTM	Methylation:18,23,236,242,256;Phosphorylation:252,275,281;SUMOylation:18;Ubiquitylation:23,79,117,126,248,261

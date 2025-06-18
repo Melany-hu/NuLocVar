@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PP63
+Accession	A0A1W2PP63
+EntryName	A0A1W2PP63_HUMAN
+ProteinName	Kinesin family member 12
+GeneName	KIF12
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLAGIMQRTFAWLLDRVQHLGAPVTLRASYLEIYNEQVSAVEGTQPTP
+PTM	

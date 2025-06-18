@@ -1,0 +1,25 @@
+UniprotID	E5RHE3
+Accession	E5RHE3
+EntryName	E5RHE3_HUMAN
+ProteinName	Zinc finger protein 57
+GeneName	ZNF57
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLETFRNLASVDDGTQFKANGSVSLQDMYGQEKSKEQTIPNFTGNNSCAYTLEKNCEGYGTEDHHKNLRNHMVDRFCTHNEGNQYGEAIHQMPDLTLHKKVSAGEKPYECTKCRTVFTHLSSLKRHVKSHCGRKAPPGEECKQACIC
+PTM	

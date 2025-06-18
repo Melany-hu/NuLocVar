@@ -1,0 +1,25 @@
+UniprotID	P55265-3
+Accession	P55265;B1AQQ9;B1AQR0;D3DV76;O15223;O43859;O43860;Q9BYM3;Q9BYM4
+EntryName	DSRAD_HUMAN
+ProteinName	Double-stranded RNA-specific adenosine deaminase (DRADA) (EC 3.5.4.37) (136 kDa double-stranded RNA-binding protein) (p136) (Interferon-inducible protein 4) (IFI-4) (K88DSRBP)
+GeneName	ADAR ADAR1 DSRAD G1P1 IFI4
+Length	1181
+Function	Catalyzes the hydrolytic deamination of adenosine to inosine in double-stranded RNA (dsRNA) referred to as A-to-I RNA editing (PubMed:12618436, PubMed:7565688, PubMed:7972084). This may affect gene expression and function in a number of ways that include mRNA translation by changing codons and hence the amino acid sequence of proteins since the translational machinery read the inosine as a guanosine; pre-mRNA splicing by altering splice site recognition sequences; RNA stability by changing sequences involved in nuclease recognition; genetic stability in the case of RNA virus genomes by changing sequences during viral RNA replication; and RNA structure-dependent activities such as microRNA production or targeting or protein-RNA interactions. Can edit both viral and cellular RNAs and can edit RNAs at multiple sites (hyper-editing) or at specific sites (site-specific editing). Its cellular RNA substrates include: bladder cancer-associated protein (BLCAP), neurotransmitter receptors for glutamate (GRIA2) and serotonin (HTR2C) and GABA receptor (GABRA3). Site-specific RNA editing of transcripts encoding these proteins results in amino acid substitutions which consequently alters their functional activities. Exhibits low-level editing at the GRIA2 Q/R site, but edits efficiently at the R/G site and HOTSPOT1. Its viral RNA substrates include: hepatitis C virus (HCV), vesicular stomatitis virus (VSV), measles virus (MV), hepatitis delta virus (HDV), and human immunodeficiency virus type 1 (HIV-1). Exhibits either a proviral (HDV, MV, VSV and HIV-1) or an antiviral effect (HCV) and this can be editing-dependent (HDV and HCV), editing-independent (VSV and MV) or both (HIV-1). Impairs HCV replication via RNA editing at multiple sites. Enhances the replication of MV, VSV and HIV-1 through an editing-independent mechanism via suppression of EIF2AK2/PKR activation and function. Stimulates both the release and infectivity of HIV-1 viral particles by an editing-dependent mechanism where it associates with viral RNAs and edits adenosines in the 5'UTR and the Rev and Tat coding sequence. Can enhance viral replication of HDV via A-to-I editing at a site designated as amber/W, thereby changing an UAG amber stop codon to an UIG tryptophan (W) codon that permits synthesis of the large delta antigen (L-HDAg) which has a key role in the assembly of viral particles. However, high levels of ADAR1 inhibit HDV replication.
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPRQGYSLSGYYTHPFQGYEHRQLRYQQPGPGSSPSSFLLKQIEFLKGQLPEAPVIGKQTPSLPPSLPGLRPRFPVLLASSTRGRQVDIRGVPRGVHLRSQGLQRGFQHPSPRGRSLPQRGVDCLSSHFQELSIYQDQEQRILKFLEELGEGKATTAHDLSGKLGTPKKEINRVLYSLAKKGKLQKEAGTPPLWKIAVSTQAWNQHSGVVRPDGHSQGAPNSDPSLEPEDRNSTSVSEDLLEPFIAVSAQAWNQHSGVVRPDSHSQGSPNSDPGLEPEDSNSTSALEDPLEFLDMAEIKEKICDYLFNVSDSSALNLAKNIGLTKARDINAVLIDMERQGDVYRQGTTPPIWHLTDKKRERMQIKRNTNSVPETAPAAIPETKRNAEFLTCNIPTSNASNNMVTTEKVENGQEPVIKLENRQEARPEPARLKPPVHYNGPSKAGYVDFENGQWATDDIPDDLNSIRAAPGEFRAIMEMPSFYSHGLPRCSPYKKLTECQLKNPISGLLEYAQFASQTCEFNMIEQSGPPHEPRFKFQVVINGREFPPAEAGSKKVAKQDAAMKAMTILLEEAKAKDSGKSEESSHYSTEKESEKTAESQTPTPSATSFFSGKSPVTTLLECMHKLGNSCEFRLLSKEGPAHEPKFQYCVAVGAQTFPSVSAPSKKVAKQMAAEEAMKALHGEATNSMASDNQVRKIGELVRYLNTNPVGGLLEYARSHGFAAEFKLVDQSGPPHEPKFVYQAKVGGRWFPAVCAHSKKQGKQEAADAALRVLIGENEKAERMGFTELPLTGSTFHDQIAMLSHRCFNTLTNSFQPSLLGRKILAAIIMKKDSEDMGVVVSLGTGNRCVKGDSLSLKGETVNDCHAEIISRRGFIRFLYSELMKYNSQTAKDSIFEPAKGGEKLQIKKTVSFHLYISTAPCGDGALFDKSCSDRAMESTESRHYPVFENPKQGKLRTKVENGEGTIPVESSDIVPTWDGIRLGERLRTMSCSDKILRWNVLGLQGALLTHFLQPIYLKSVTLGYLFSQGHLTRAICCRVTRDGSAFEDGLRHPFIVNHPKVGRVSIYDSKRQSGKTKETSVNWCLADGYDLEILDGTRGTVDGPRNELSRVSKKNIFLLFKKLCSFRYRRDLLRLSYGEAKKAARDYETAKNYFKKGLKDMGYGNWISKPQEEKNFYLCPV
+PTM	Acetylation:181,302,384,443,494,564,574,613,625,645,665,666,669,745,757,763,777,798,902,929,944,1039,1105,1115,1159,1166,1167,1214;Glycosylation:397;Methylation:23,26,48,59,91,95,114,164,320,384,433,574,613,637,1063,1115,1166;Phosphorylation:10,13,35,112,167,177,191,201,348,349,371,406,465,481,491,578,581,584,585,587,588,589,593,596,599,601,603,605,607,608,611,614,617,618,629,636,685,701,722,734,776,805,808,811,814,818,823,825,898,900,1089,1112,1114,1170;SUMOylation:326,384,408,418,433,443,495,502,558,564,574,580,595,625,645,665,669,678,712,715,757,763,781,798,831,875,936,944,996,1003,1105,1159;Ubiquitylation:42,48,145,302,320,326,384,418,433,574,591,595,613,625,637,665,669,715,757,763,781,798,902,936,944,948,996,1039,1115,1186

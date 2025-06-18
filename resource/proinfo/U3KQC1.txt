@@ -1,0 +1,25 @@
+UniprotID	U3KQC1
+Accession	U3KQC1
+EntryName	U3KQC1_HUMAN
+ProteinName	WD repeat-containing protein 18
+GeneName	WDR18
+Length	394
+Function	Functions as a component of the Five Friends of Methylated CHTOP (5FMC) complex; the 5FMC complex is recruited to ZNF148 by methylated CHTOP, leading to desumoylation of ZNF148 and subsequent transactivation of ZNF148 target genes. Component of the PELP1 complex involved in the nucleolar steps of 28S rRNA maturation and the subsequent nucleoplasmic transit of the pre-60S ribosomal subunit. May play a role during development.
+Subcellular Location	Dynein axonemal particle; Nucleus; Nucleolus; Nucleus; Nucleoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAPMEVAVCTDSAAPMWSCIVWELHSGANLLTYRGGQAGPRGLALLNGEYLLAAQLGKNYISAWELQRKVSTGNLLVILSRHYQDVSCLQFTGDSSHFISGGKDCLVLVWSLCSVLQADPSRIPAPRHVWSHHALPITDLHCGFGGPLARVATSSLDQTVKLWEVSSGELLLSVLFDVSIMAVTMDLAEHHMFCGGSEGSIFQVDLFTWPGQRERSFHPEQDAGKVFKGHRNQVTCLSVSTDGSVLLSGSHDETVRLWDVQSKQCIRTVALKGPVTNAAILLAPVSMLSSDFRPSLPLPHFNKHLLGAEHGDEPRHGGLTLRLGLHQQGSEPSYLDRTEQLQAVLCSTMEKSVLGGQDQLRVRVTELEDEVRNLRKINRDLFDFSTRFITRPAK
+PTM	

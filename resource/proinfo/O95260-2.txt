@@ -1,0 +1,25 @@
+UniprotID	O95260-2
+Accession	O95260;O95261;Q5SQQ3;Q8WW04
+EntryName	ATE1_HUMAN
+ProteinName	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)
+GeneName	ATE1
+Length	518
+Function	Involved in the post-translational conjugation of arginine to the N-terminal aspartate or glutamate of a protein (PubMed:34893540). This arginylation is required for degradation of the protein via the ubiquitin pathway (PubMed:34893540). Does not arginylate cysteine residues (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFWAGGSPSVVDYFPSEDFYRCGYCKNESGSRSNGMWAHSMTVQDYQDLIDRGWRRSGKYVYKPVMNQTCCPQYTIRCRPLQFQPSKSHKKVLKKMLKFLAKGEVPKGSCEDEPMDSTMDDAVAGDFALINKLDIQCDLKTLSDDIKESLESEGKNSKKEEPQELLQSQDFVGEKLGSGEPSHSVKVHTVPKPGKGADLSKPPCRKAKEIRKERKRLKLMQQNPAGELEGFQAQGHPPSLFPPKAKSNQPKSLEDLIFESLPENASHKLEVRLVPVSFEDPEFKSSFSQSFSLYVKYQVAIHQDPPDECGKTEFTRFLCSSPLEAETPPNGPDCGYGSFHQQYWLDGKIIAVGVIDILPNCVSSVYLYYDPDYSFLSLGVYSALREIAFTRQLHEKTSQLSYYYMGFYIHSCPKMKYKGQYRPSDLLCPETYVWVPIEQCLPSLENSKYCRFNQDPEAVDEDRSTEPDRLQVFHKRAIMPYGVYKKQQKDPSEEAAVLQYASLVGQKCSERMLLFRN
+PTM	Acetylation:202;Methylation:133,193,202,285,470;Phosphorylation:25,43,75,142,144,150,169,261,267,277,278,287,291,292,482;SUMOylation:64,99,103,133,141,148,156,159,160,245;Ubiquitylation:103,141

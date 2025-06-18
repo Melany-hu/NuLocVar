@@ -1,0 +1,25 @@
+UniprotID	P15531-2
+Accession	P15531;Q6FGK3;Q86XQ2;Q9UDJ6
+EntryName	NDKA_HUMAN
+ProteinName	Nucleoside diphosphate kinase A (NDK A) (NDP kinase A) (EC 2.7.4.6) (Granzyme A-activated DNase) (GAAD) (Metastasis inhibition factor nm23) (NM23-H1) (Tumor metastatic process-associated protein)
+GeneName	NME1 NDPKA NM23
+Length	177
+Function	Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate. Possesses nucleoside-diphosphate kinase, serine/threonine-specific protein kinase, geranyl and farnesyl pyrophosphate kinase, histidine protein kinase and 3'-5' exonuclease activities. Involved in cell proliferation, differentiation and development, signal transduction, G protein-coupled receptor endocytosis, and gene expression. Required for neural development including neural patterning and cell fate determination. During GZMA-mediated cell death, works in concert with TREX1. NME1 nicks one strand of DNA and TREX1 removes bases from the free 3' end to enhance DNA damage and prevent DNA end reannealing and rapid repair.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLLSTLGIVFQGEGPPISSCDTGTMANCERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVGLKFMQASEDLLKEHYVDLKDRPFFAGLVKYMHSGPVVAMVWEGLNVVKTGRVMLGETNPADSKPGTIRGDFCIQVGRNIIHGSDSVESAEKEIGLWFHPEELVDYTSCAQNWIYE
+PTM	Acetylation:12,26,31,39,49,56,85,100;Methylation:12,18,26,39,49,56,58,66,85,88,100;Phosphorylation:44,52,67,94,99,103,120,122,125;SUMOylation:12,49,56,100;Ubiquitylation:12,26,31,39,49,56,66,85,100

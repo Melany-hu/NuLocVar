@@ -1,0 +1,25 @@
+UniprotID	B9EJG8-2
+Accession	B9EJG8;B7Z4J5;B7Z4L3;B7Z692;B7Z6X6
+EntryName	T150C_HUMAN
+ProteinName	Transmembrane protein 150C (Tentonin 3)
+GeneName	TMEM150C TTN3
+Length	180
+Function	Nonselective cationic channel with high permeability to Ca(2+). Component of a mechanosensitive cation channel, confers mechanically activated (MA) currents with slow inactivation kinetics. May contribute to proprioception.
+Subcellular Location	Cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGKKCSVWMFLPLVFTLFTSAGLWIVYFIAVEDDKILPLNSAERKPGVKHAPYISIAGDDPPASCVFSQVMNMAAFLALVVAVLRFIQLKPKVLNPWLNISGLVALCLASFGMTLLGNFQLTNDEEIHNVGTSLTFGFGTFAVEFRHYRYEIVCSEYQENFLSFSESLSEASEYQTDQV
+PTM	Methylation:153,157

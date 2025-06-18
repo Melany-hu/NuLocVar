@@ -1,0 +1,25 @@
+UniprotID	P0C1Z6-2
+Accession	P0C1Z6;G5E9B5
+EntryName	TFPT_HUMAN
+ProteinName	TCF3 fusion partner (INO80 complex subunit F) (Protein FB1)
+GeneName	TFPT INO80F
+Length	244
+Function	Appears to promote apoptosis in a p53/TP53-independent manner.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	180...185
+validnes_region	
+nesbase_region	
+Sequence	MAAVGFEEFSAPPGSELALPPLFGGHILESELETEVEFVSGGLGGSGLRERDEEEEAARGRRRRQRELNRRKYQALGRRCREIEQVNERVLNRLHQVQRITRRLQQERRFLMRVLDSYGDDYRASQFTIVLEDEGSQGTDAPTPGNAENEPPEKETLSPPRRTPAPPEPGSPAPGEGPSGRKRRRVPRDGRRAGNALTPELAPVQIKVEEDFGFEADEALDSSWVSRGPDKLLPYPTLASPASD
+PTM	Methylation:68,70,216;Phosphorylation:145,152,165,167,172,180,188,207,244,246,249,252;SUMOylation:81,216;Ubiquitylation:81

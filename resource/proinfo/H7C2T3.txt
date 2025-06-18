@@ -1,0 +1,25 @@
+UniprotID	H7C2T3
+Accession	H7C2T3
+EntryName	H7C2T3_HUMAN
+ProteinName	Arginyl aminopeptidase
+GeneName	RNPEP
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LIDAAKEEYNGVIEEFLATGEKLFGPYVWGRYDLLFMPPSFPFGGMENPCLTFVTPCLLAGDRSLADVIIHEISHSWFGNLVTNANWGEFWLNEGFTMYAQRRISTILFGVDPDDTYNETPYEKGFCFVSYLAHLVGDQDQFDSFLKAYVHEFKFRSILADDFLDFYL
+PTM	

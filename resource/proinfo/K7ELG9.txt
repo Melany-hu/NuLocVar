@@ -1,0 +1,25 @@
+UniprotID	K7ELG9
+Accession	K7ELG9
+EntryName	K7ELG9_HUMAN
+ProteinName	LSM12 homolog
+GeneName	LSM12
+Length	230
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPPGEYFSVGSQVSCRTCQEQRLQGEVVAFDYQSKMLALKCPSSSGKPNHADILLINLQYVSEVEIINDRTETPPPLASLNVSKLASKARTEKEEKLSQAYAISAGVSLEGQQLFQTIHKTIKDCKWQEKNIVVMEEVVITPPYQVENCKGKEGSALSHVRKIRQSLALSPTLECSGAISAHCNLRLPGSSDSPASASRVPGTTGVCHHTRLEMGFHHVGQAGLELLT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E9PL57
+Accession	E9PL57
+EntryName	E9PL57_HUMAN
+ProteinName	NEDD8-MDP1 readthrough
+GeneName	NEDD8-MDP1
+Length	170
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIKVKTLTGKEIEIDIEPTDKVERIKERVEEKEGIPPQQQRLIYSGKQIDGTVRDRRGQDVRLYPEVPEVLKRLQSLGVPGAAASRTSEIEGANQLLELFDLFRYFVHREIYPGSKITHFERLQQKTGIPFSQMIFFDDERRNIVDVSKLGVTCIHIQNGMNLQTLSQG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E7EQH3
+Accession	E7EQH3
+EntryName	E7EQH3_HUMAN
+ProteinName	TLE family member 4, transcriptional corepressor
+GeneName	TLE4
+Length	259
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRDLSKMYPQTRHPAPHQPAQPFKFTISESCDRIKEEFQFLQAQYHSLKLECEKLASEKTEMQRHYVMYYEMSYGLNIEMHKQAEIVKRLNAICAQVIPFLSQEHQQQVVQAVERAKQVTMAELNAIIGQQLQAQHLSHGHGLPVPLTPHPSGLQPPAIPPIGSSAGLLALSSALGGQSHLPIKDEKKHHDNDHQRDRDSIKQNYLLLIMDEIGDQRGRTFWVPVSLNPDFKRHSPAMLVLCASTELFSIPISQFPRC
+PTM	

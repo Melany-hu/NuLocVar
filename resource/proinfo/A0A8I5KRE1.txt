@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KRE1
+Accession	A0A8I5KRE1
+EntryName	A0A8I5KRE1_HUMAN
+ProteinName	Receptor expression-enhancing protein
+GeneName	REEP1
+Length	162
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSWIISRLVVLIFGTLYPAYYSYKAVKSKDIKEYVKWMMYWIIFALFTTAETFTDIFLCWFPFYYELKIAFVAWLLSPYTKGSSLLYRKFVHPTLSSKEKEIDDCLVQAKDRSYDALVHFGKRGLNVAATAAVMAASKAPPRILRSRFRKKSTSSSATETT
+PTM	

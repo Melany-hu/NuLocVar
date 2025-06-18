@@ -1,0 +1,25 @@
+UniprotID	Q96LC9-2
+Accession	Q96LC9;Q2M396;Q6NT30;Q6NT56;Q6P9F6;Q7Z7D4;Q7Z7D5;Q9H7K7
+EntryName	BMF_HUMAN
+ProteinName	Bcl-2-modifying factor
+GeneName	BMF
+Length	163
+Function	May play a role in apoptosis. Isoform 1 seems to be the main initiator.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPSQCVEELEDDVFQPEDGEPVTQPGSLLSADLFAQSLLDCPLSRLQLFPLTHCCGPGLRPTSQEDKATQTLSPASPSQGVMLPCGVTEEPQRLFYGNAGYRLPLPASFPAVLPIGEQPPEGQWQHQAEHQQNQNRVWWQILLFLHNLALNGEENRNGAGPR
+PTM	Phosphorylation:53,64,74,77

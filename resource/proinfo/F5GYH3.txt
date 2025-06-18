@@ -1,0 +1,25 @@
+UniprotID	F5GYH3
+Accession	F5GYH3
+EntryName	F5GYH3_HUMAN
+ProteinName	Diablo IAP-binding mitochondrial protein
+GeneName	DIABLO
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFFRYRCGRVEGTGPEGGTDADSAVARPTAPAFLTRSSLVRPAGSRRLAPVGRTEDSPASAPWVQTVFVCSCCG
+PTM	

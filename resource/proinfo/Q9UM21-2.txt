@@ -1,0 +1,25 @@
+UniprotID	Q9UM21-2
+Accession	Q9UM21;B4E2R6;D3DVH6;E9PEN2;Q53S97;Q86Z15
+EntryName	MGT4A_HUMAN
+ProteinName	Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A (EC 2.4.1.145) (N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase IVa) (GlcNAc-T IVa) (GnT-IVa) (N-acetylglucosaminyltransferase IVa) (UDP-N-acetylglucosamine: alpha-1,3-D-mannoside beta-1,4-N-acetylglucosaminyltransferase IVa) [Cleaved into: Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A soluble form]
+GeneName	MGAT4A
+Length	423
+Function	Glycosyltransferase that catalyze the transfer of GlcNAc from UDP-GlcNAc to the GlcNAcbeta1-2Manalpha1-3 arm of the core structure of N-linked glycans through a beta1-4 linkage and participates in the production of tri- and tetra-antennary N-linked sugar chains (PubMed:17006639). Involved in glucose transport by mediating SLC2A2/GLUT2 glycosylation, thereby controlling cell-surface expression of SLC2A2 in pancreatic beta cells (By similarity).
+Subcellular Location	Golgi apparatus membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNYSITVSIVMGIPTVKREVKSYLIETLHSLIDNLYPEEKLDCVIVVFIGETDIDYVHGVVANLEKEFSKEISSGLVEVISPPESYYPDLTNLKETFGDSKERVRWRTKQNLDYCFLMMYAQEKGIYYIQLEDDIIVKQNYFNTIKNFALQLSSEEWMILEFSQLGFIGKMFQAPDLTLIVEFIFMFYKEKPIDWLLDHILWVKVCNPEKDAKHCDRQKANLRIRFRPSLFQHVGLHSSLSGKIQKLTDKDYMKPLLLKIHVNPPAEVSTSLKVYQGHTLEKTYMGEDFFWAITPIAGDYILFKFDKPVNVESYLFHSGNQEHPGDILLNTTVEVLPFKSEGLEISKETKDKRLEDGYFRIGKFENGVAEGMVDPSLNPISAFRLSVIQNSAVWAILNEQRVFSGWWQKSRDKAEGPQAPLLF
+PTM	Glycosylation:64;Methylation:45,92,95,194,222,266,274,298,387,410,432;Phosphorylation:102,107,397,398,399,474,509;Ubiquitylation:347

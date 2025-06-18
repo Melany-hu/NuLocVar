@@ -1,0 +1,25 @@
+UniprotID	Q86UP8-4
+Accession	Q86UP8;A0A0A0MSY2;A8K5W6;B3KUZ2;Q69G40;Q6EKI8;Q6EKI9;Q6NVW2;Q6P7N8;Q86WX4;Q8ND85;Q8NDE5
+EntryName	GTD2A_HUMAN
+ProteinName	General transcription factor II-I repeat domain-containing protein 2A (GTF2I repeat domain-containing protein 2A) (Transcription factor GTF2IRD2-alpha)
+GeneName	GTF2IRD2 GTF2IRD2A
+Length	108
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQVAVSTLPVEEESSSETRMVVTFLVSALESMCKELAKSKAEVACIAVYETDVFVVGTERGCAFVNARTDFQKDFAKYCRCFNFILCIPNLKRIAGKTSTVFSSKLS
+PTM	Acetylation:135;Methylation:39,74,109,172,216,328,401,649,721,835,841,926;Phosphorylation:205,388,389,521,897;SUMOylation:235;Ubiquitylation:135,166,343,420

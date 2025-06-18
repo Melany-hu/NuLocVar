@@ -1,0 +1,25 @@
+UniprotID	A0A075B7F5
+Accession	A0A075B7F5
+EntryName	A0A075B7F5_HUMAN
+ProteinName	Adenylate kinase 9
+GeneName	AK9
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	7...11
+validnes_region	
+nesbase_region	
+Sequence	XEVIENHRKKKKEAQKDGKGEEEEEEEEQEEEEAFIAEMQMVAEILHHLVQRPEDYLENVENIVKLYKETILQTLEEVMAEHNPQYLIELNGNKPAEELFMVSAVLSRNTSQHGKFKSIDSIVLLLINRSIFIFEHH
+PTM	

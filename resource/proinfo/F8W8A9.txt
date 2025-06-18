@@ -1,0 +1,25 @@
+UniprotID	F8W8A9
+Accession	F8W8A9
+EntryName	F8W8A9_HUMAN
+ProteinName	Sorting nexin 13
+GeneName	SNX13
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTEASLSIWGWGSLGIVLFLITFGPFVIFYLTFYILCFVGGGLVVTLLFGKTNSEKYLEQCEHSFLPPTSPGVPKCLEEMKREARTIKIDRRLTGANIIDEPLQQVIQFSLRDYVQYWYYTLSDDESFLLEIRQTLQNALIQFATRCWGYSSE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NZS2-2
+Accession	Q9NZS2;A0A0C4DGY9;Q4KMT5;Q96PR2;Q96PR3;Q9NZS1
+EntryName	KLRF1_HUMAN
+ProteinName	Killer cell lectin-like receptor subfamily F member 1 (Lectin-like receptor F1) (Activating coreceptor NKp80) (C-type lectin domain family 5 member C)
+GeneName	KLRF1 CLEC5C ML
+Length	181
+Function	Functions as an activating receptor involved in immunosurveillance upon binding to various ligands displayed at the surface of myeloid cells. Upon interaction with CLEC2B ligand, stimulates NK-cell cytotoxicity and cytokine production leading to the cytolysis of malignant CLEC2B-expressing myeloid cells. Actviation of the common cytotoxicity pathway involves SRC and SYK kinases (PubMed:21149606).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQDEERYMTLNVQSKKRSSAQTSQLTFKDYSVTLHWYKILLGISGTVNGILTLTLISLILLVLCQSEWLKYQGKCYWFSNEMKSWSDSYVYCLERKSHLLIIHDQLEMAFIQKNLRQLNYVWIGLNFTSLKMTWTWVDGSPIDSKIFFIKGPAKENSCAAIKESKIFSETCSSVFKWICQY
+PTM	Methylation:69,200;Phosphorylation:7,218

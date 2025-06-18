@@ -1,0 +1,25 @@
+UniprotID	Q86XE5-3
+Accession	Q86XE5;A8K075;Q5T680;Q5T684;Q711P0;Q8N9F2;Q96EV5
+EntryName	HOGA1_HUMAN
+ProteinName	4-hydroxy-2-oxoglutarate aldolase, mitochondrial (EC 4.1.3.16) (Dihydrodipicolinate synthase-like) (DHDPS-like protein) (Probable 2-keto-4-hydroxyglutarate aldolase) (Probable KHG-aldolase) (Protein 569272)
+GeneName	HOGA1 C10orf65 DHDPSL
+Length	164
+Function	Catalyzes the final step in the metabolic pathway of hydroxyproline.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGPQVWSSVRQGLSRSLSRNVGVWASGEGKKVDIAGIYPPVTTPFTATAEVDYGKLEENLHKLGTFPFRGAVGGVCALANVLGAQVCQLERLCCTGQWEDAQKLQHRLIEPNAAVTRRFGIPGLKKIMDWFGYYGGPCRAPLQELSPAEEEALRMDFTSNGWL
+PTM	Phosphorylation:15,17,94,154,280

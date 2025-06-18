@@ -1,0 +1,25 @@
+UniprotID	Q9H019-2
+Accession	Q9H019;A6NCB4;B7WNV5;D3DPJ4;Q63HP1;Q7Z2S7;Q9NUI7
+EntryName	MFR1L_HUMAN
+ProteinName	Mitochondrial fission regulator 1-like
+GeneName	MTFR1L FAM54B HYST1888 MSTP116
+Length	205
+Function	Mitochondrial protein required for adaptation of miochondrial dynamics to metabolic changes. Regulates mitochondrial morphology at steady state and mediates AMPK-dependent stress-induced mitochondrial fragmentation via the control of OPA1 levels.
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGMEATVTIPIWQNKPHGAARSVVRRIGTNLPLKPCARASFETLPNISDLCLRDVPPVPTLADIAWIAADEEETYARVRSDTRPLRHTWKPSPLIVMQRNASVPNLRGSEERLLALKKPALPALSRTTELQDELSHLRSQIAKIVAADAVTSPRRQRWRSLSFHQSPCFVLPALNVANQNTKLPAVRLKRMTASLCPRPAALQT
+PTM	Methylation:118,144,247,264;Phosphorylation:41,44,49,103,110,136,223,224,225,232,234,237,238,255,261,273;SUMOylation:35,119,253,264;Ubiquitylation:119

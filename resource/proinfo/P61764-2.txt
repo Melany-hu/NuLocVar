@@ -1,0 +1,25 @@
+UniprotID	P61764-2
+Accession	P61764;B1AM97;Q28208;Q62759;Q64320;Q68CM6;Q96TG8
+EntryName	STXB1_HUMAN
+ProteinName	Syntaxin-binding protein 1 (MUNC18-1) (N-Sec1) (Protein unc-18 homolog 1) (Unc18-1) (Protein unc-18 homolog A) (Unc-18A) (p67)
+GeneName	STXBP1 UNC18A
+Length	603
+Function	Participates in the regulation of synaptic vesicle docking and fusion through interaction with GTP-binding proteins (By similarity). Essential for neurotransmission and binds syntaxin, a component of the synaptic vesicle fusion machinery probably in a 1:1 ratio. Can interact with syntaxins 1, 2, and 3 but not syntaxin 4. Involved in the release of neurotransmitters from neurons through interacting with SNARE complex component STX1A and mediating the assembly of the SNARE complex at synaptic membranes (By similarity). May play a role in determining the specificity of intracellular fusion reactions.
+Subcellular Location	Cytoplasm; Cytosol; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPIGLKAVVGEKIMHDVIKKVKKKGEWKVLVVDQLSMRMLSSCCKMTDIMTEGITIVEDINKRREPLPSLEAVYLITPSEKSVHSLISDFKDPPTAKYRAAHVFFTDSCPDALFNELVKSRAAKVIKTLTEINIAFLPYESQVYSLDSADSFQSFYSPHKAQMKNPILERLAEQIATLCATLKEYPAVRYRGEYKDNALLAQLIQDKLDAYKADDPTMGEGPDKARSQLLILDRGFDPSSPVLHELTFQAMSYDLLPIENDVYKYETSGIGEARVKEVLLDEDDDLWIALRHKHIAEVSQEVTRSLKDFSSSKRMNTGEKTTMRDLSQMLKKMPQYQKELSKYSTHLHLAEDCMKHYQGTVDKLCRVEQDLAMGTDAEGEKIKDPMRAIVPILLDANVSTYDKIRIILLYIFLKNGITEENLNKLIQHAQIPPEDSEIITNMAHLGVPIVTDSTLRRRSKPERKERISEQTYQLSRWTPIIKDIMEDTIEDKLDTKHYPYISTRSSASFSTTAVSARYGHWHKNKAPGEYRSGPRLIIFILGGVSLNEMRCAYEVTQANGKWEVLIGSTHILTPTKFLMDLRHPDFRESSRVSFEDQAPTME
+PTM	Acetylation:13,20,314,321;Methylation:20,63,120,208;Phosphorylation:48,52,56,70,89,400,401,402,454,455,473,506,507,509,516,519,593,594;Ubiquitylation:7,13,92,98,120,184,196,208,213,225,294,308,321,332,364,382,493,497,524,526,562,584

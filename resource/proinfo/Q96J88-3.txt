@@ -1,0 +1,25 @@
+UniprotID	Q96J88-3
+Accession	Q96J88;Q8IVC7;Q8NDQ7
+EntryName	ESIP1_HUMAN
+ProteinName	Epithelial-stromal interaction protein 1
+GeneName	EPSTI1
+Length	410
+Function	Plays a role in M1 macrophage polarization and is required for the proper regulation of gene expression during M1 versus M2 macrophage differentiation (By similarity). Might play a role in RELA/p65 and STAT1 phosphorylation and nuclear localization upon activation of macrophages (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNTRNRVVNSGLGASPASRPTRDPQDPSGRQGELSPVEDQREGLEAAPKGPSRESVVHAGQRRTSAYTLIAPNINRRNEIQRIAEQELANLEKWKEQNRAKPVHLVPRRLGGSQSETEVRQKQQLQLMQSKYKQKLKREESVRIKKEAEEAELQKMKAIQREKSNKLEEKKRLQENLRREAFREHQQYKTAEFLSKLNTESPDRSACQSAVCGPQSSTWKLPILPRDHSWARSWAYRDSLKAEENRKLQKMKDEQHQKSELLELKRQQQEQERAKIHQTEHRRVNNAFLDRLQGKSQPGGLEQSGGCWNMNSGNSWGSLLVFSRHLRVYEKILTPIWPSSTDLEKPHEMLFLNVILFSLTVFTLISTAHTLDRAVRSDWLLLVLIYACLEELIPELIFNLYCQGNATLFF
+PTM	Methylation:93,155,172,178,265;Phosphorylation:15,35,64,65,113

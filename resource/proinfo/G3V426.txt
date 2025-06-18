@@ -1,0 +1,25 @@
+UniprotID	G3V426
+Accession	G3V426
+EntryName	G3V426_HUMAN
+ProteinName	AarF domain-containing protein kinase 1
+GeneName	ADCK1
+Length	265
+Function	Appears to be essential for maintaining mitochondrial cristae formation and mitochondrial function by acting via YME1L1 in a kinase-independent manner to regulate essential mitochondrial structural proteins OPA1 and IMMT. The action of this enzyme is not yet clear. It is not known if it has protein kinase activity and what type of substrate it would phosphorylate (Ser, Thr or Tyr).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARKALKLASWTSMALAASGIYFYSNKYLDPNDFGAVRVGRAVATTAVISYDYLTSLKSVPYGSEEYLQLRSKVHLRSARRLCELCCANRGTFIKVGQHLGALDYLLPEEYTSTLKVLHSQAPQSSMQEIRQVIREDLGKEIHDLFQSFDDTPLGTASLAQVHKAVLHDGRTVAVKVQHPKVRAQSSKDILLMEVLVLAVKQLFPEFEFMWLVDEAKKNLPLELDFLNEGRNAEKVSQMLRHFDFLKISRHLGKMYSEMIFVNGF
+PTM	

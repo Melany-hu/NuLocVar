@@ -1,0 +1,25 @@
+UniprotID	Q9Y6K9-3
+Accession	Q9Y6K9;Q7LBY6;Q7Z7F1
+EntryName	NEMO_HUMAN
+ProteinName	NF-kappa-B essential modulator (NEMO) (FIP-3) (IkB kinase-associated protein 1) (IKKAP1) (Inhibitor of nuclear factor kappa-B kinase subunit gamma) (I-kappa-B kinase subunit gamma) (IKK-gamma) (IKKG) (IkB kinase subunit gamma) (NF-kappa-B essential modifier)
+GeneName	IKBKG FIP3 NEMO
+Length	320
+Function	Regulatory subunit of the IKK core complex which phosphorylates inhibitors of NF-kappa-B thus leading to the dissociation of the inhibitor/NF-kappa-B complex and ultimately the degradation of the inhibitor (PubMed:14695475, PubMed:20724660, PubMed:21518757, PubMed:9751060). Its binding to scaffolding polyubiquitin plays a key role in IKK activation by multiple signaling receptor pathways (PubMed:16547522, PubMed:18287044, PubMed:19033441, PubMed:19185524, PubMed:21606507, PubMed:27777308, PubMed:33567255). Can recognize and bind both 'Lys-63'-linked and linear polyubiquitin upon cell stimulation, with a much higher affinity for linear polyubiquitin (PubMed:16547522, PubMed:18287044, PubMed:19033441, PubMed:19185524, PubMed:21606507, PubMed:27777308). Could be implicated in NF-kappa-B-mediated protection from cytokine toxicity. Essential for viral activation of IRF3 (PubMed:19854139). Involved in TLR3- and IFIH1-mediated antiviral innate response; this function requires 'Lys-27'-linked polyubiquitination (PubMed:20724660).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRHLWKSQLCEMVQPSGGPAADQDVLGEESPLGKPAMLHLPSEQGAPETLQRCLEENQELRDAIRQSNQILRERCEELLHFQASQREEKEFLMCKFQEARKLVERLGLEKLDLKRQKEQALREVEHLKRCQQQMAEDKASVKAQVTSLLGELQESQSRLEAATKECQALEGRRKLAQLQVAYHQLFQEYDNHIKSSVVGSERKRADIYKADFQAERQAREKLAEKKELLQEQLEQLQREYSKLKASCQESARIEDMRKRHVEVSQAPLPPAPAYLSSPLALPSQRRSPPEEPPDFCCPKCQYQAPDMDTLQIHVMECIE
+PTM	Acetylation:96,309;Methylation:90,111,115,283,321;Phosphorylation:31,43,147,148,297,374,376,377,383,387;SUMOylation:277,326;Ubiquitylation:143,165,246,264,277,285,302,309,342,344

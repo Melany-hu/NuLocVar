@@ -1,0 +1,25 @@
+UniprotID	C9JFP6
+Accession	C9JFP6
+EntryName	C9JFP6_HUMAN
+ProteinName	WD repeat domain 6
+GeneName	WDR6
+Length	99
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALCLYLGEGPDVLVYSLDFGGHLRMIKRVQNLLGHYLIHGFRVRPEPNGDLDLEAMVAVFGSKGLRVVKISWGQGHFWELWRSGLWNMSDWIWDARWL
+PTM	

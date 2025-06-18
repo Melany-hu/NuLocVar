@@ -1,0 +1,25 @@
+UniprotID	D6RCB5
+Accession	D6RCB5
+EntryName	D6RCB5_HUMAN
+ProteinName	DDB1 and CUL4 associated factor 4
+GeneName	DCAF4
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNKSRWQSRRRHGRRSHQQNPWFRLRDSEDRSDSRAAQPAHDSGHGDDESPSTSSGTAGTSSVPETLLPLAPWT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P12532-2
+Accession	P12532;B4DIT8;B7ZA09;Q0VAM3;Q32NF6;Q53FC4
+EntryName	KCRU_HUMAN
+ProteinName	Creatine kinase U-type, mitochondrial (EC 2.7.3.2) (Acidic-type mitochondrial creatine kinase) (Mia-CK) (Ubiquitous mitochondrial creatine kinase) (U-MtCK)
+GeneName	CKMT1A CKMT; CKMT1B CKMT
+Length	448
+Function	Reversibly catalyzes the transfer of phosphate between ATP and various phosphogens (e.g. creatine phosphate). Creatine kinase isoenzymes play a central role in energy transduction in tissues with large, fluctuating energy demands, such as skeletal muscle, heart, brain and spermatozoa.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPFSRLLSARPGLRLLALAGAGSLAAGFLLRPEPVRAASERRRLYPPSQTWPTGQLPGNCTRSRRLCPPSMVTGYPLPSAEYPDLRKHNNCMASHLTPAVYARLCDKTTPTGWTLDQCIQTGVDNPGHPFIKTVGMVAGDEETYEVFADLFDPVIQERHNGYDPRTMKHTTDLDASKIRSGYFDERYVLSSRVRTGRSIRGLSLPPACTRAERREVERVVVDALSGLKGDLAGRYYRLSEMTEAEQQQLIDDHFLFDKPVSPLLTAAGMARDWPDARGIWHNNEKSFLIWVNEEDHTRVISMEKGGNMKRVFERFCRGLKEVERLIQERGWEFMWNERLGYILTCPSNLGTGLRAGVHIKLPLLSKDSRFPKILENLRLQKRGTGGVDTAATGGVFDISNLDRLGKSEVELVQLVIDGVNYLIDCERRLERGQDIRIPTPVIHTKH
+PTM	Acetylation:78,139,229,275,291,331,337,343;Methylation:148,157,199,337,374;Phosphorylation:10,50,53,85,141,147,151,153,162,166,169,174,196,232,318,336,339,355,410;Ubiquitylation:148,199,229

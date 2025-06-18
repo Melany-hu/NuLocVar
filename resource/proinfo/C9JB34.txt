@@ -1,0 +1,25 @@
+UniprotID	C9JB34
+Accession	C9JB34
+EntryName	C9JB34_HUMAN
+ProteinName	MAGUK p55 scaffold protein 1
+GeneName	MPP1
+Length	156
+Function	Essential regulator of neutrophil polarity. Regulates neutrophil polarization by regulating AKT1 phosphorylation through a mechanism that is independent of PIK3CG activity.
+Subcellular Location	Cell projection; Stereocilium; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLKASEGESGGSMHTALSDLYLEHLLQKRSRPEKETKGMISLKVIPNQQSRLPALQMFMRAQFDYDPKKDNLIPCKEAGLKFATGDIIQIINKDDSNWWQGRVEGSSKESAGLIPSPELQEWRVASMAQSAPSEAPSCSPFGKKKKYKDKYLAKH
+PTM	

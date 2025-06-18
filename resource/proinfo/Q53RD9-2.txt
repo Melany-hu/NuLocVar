@@ -1,0 +1,25 @@
+UniprotID	Q53RD9-2
+Accession	Q53RD9;A0JNV1;A0JNV2;Q5H9P5;Q8N9G0
+EntryName	FBLN7_HUMAN
+ProteinName	Fibulin-7 (FIBL-7)
+GeneName	FBLN7 TM14
+Length	393
+Function	An adhesion molecule that interacts with extracellular matrix molecules in developing teeth and may play important roles in differentiation and maintenance of odontoblasts as well as in dentin formation.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPSSPRALFLLLLILACPEPRASQNCLSKQQLLSAIRQLQQLLKGQETRFAEGIRHMKSRLAALQNSVGRVGPDALPVSCPALNTPADGRKFGSKYLVDHEVHFTCNPGFRLVGPSSVVCLPNGTWTGEQPHCRGISECSSQPCQNGGTCVEGVNQYRCICPPGRTGNRCQHQAQTDVNECELYGQEGRPRLCMHACVNTPGSYRCTCPGGYRTLADGKSCEDVDECVGLQPVCPQGTTCINTGGSFQCVSPECPEGSGNVSYVKTSPFQCERNPCPMDSRPCRHLPKTISFHYLSLPSNLKTPITLFRMATASAPGRAGPNSLRFGIVGGNSRGHFVMQRSDRQTGDLILVQNLEGPQTLEVDVDMSEYLDRSFQANHVSKVTIFVSPYDF
+PTM	Glycosylation:124;Methylation:45,266

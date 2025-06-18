@@ -1,0 +1,25 @@
+UniprotID	Q9HA38-2
+Accession	Q9HA38;B3KVA6;D3DNR1;Q96A21
+EntryName	ZMAT3_HUMAN
+ProteinName	Zinc finger matrin-type protein 3 (Zinc finger protein WIG-1) (p53-activated gene 608 protein)
+GeneName	ZMAT3 PAG608 WIG1
+Length	288
+Function	Acts as a bona fide target gene of p53/TP53. May play a role in the TP53-dependent growth regulatory pathway. May contribute to TP53-mediated apoptosis by regulation of TP53 expression and translocation to the nucleus and nucleolus.
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	61...66
+nlsdbnls_region	171...175
+validnes_region	
+nesbase_region	
+Sequence	MILLQHAVLPPPKQPSPSPPMSVATRSTGTLQLPPQKPFGQEASLPLAGEEELSKGGEQDCALEELCKPLYCKLCNVTLNSAQQAQAHYQGKNHGKKLRNYYAANSCPPPARMSNVVEPAATPVVPVPPQMGSFKPGGRVILATENDYCKLCDASFSSPAVAQAHYQGKNHAKRLRLAEAQSNSFSESSELGQRRARKEGNEFKMMPNRRNMYTVQNNSGPYFNPRSRQRIPRDLAMCVTPSGQFYCSMCNVGAGEEMEFRQHLESKQHKSKVSEQRYRNEMENLGYV
+PTM	Methylation:55,268;Phosphorylation:16,18,157,158,184;SUMOylation:68,204

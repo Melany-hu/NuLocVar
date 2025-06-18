@@ -1,0 +1,25 @@
+UniprotID	Q4JDL3-12
+Accession	Q4JDL3;A6NNH8;B7ZKV3;Q4JDG6;Q4JDK1;Q4JDK5;Q4JDK6;Q4JDK8;Q4JDK9;Q4JDL0;Q4JDL1;Q4JDL4;Q4JDL5;Q4JDL6;Q4JDL7;Q4JDL8;Q5RJ33;Q5T1G3
+EntryName	PTN20_HUMAN
+ProteinName	Tyrosine-protein phosphatase non-receptor type 20 (hPTPN20) (EC 3.1.3.48)
+GeneName	PTPN20 PTPN20A PTPN20B
+Length	198
+Function	Tyrosine-protein phosphatase targeted to sites of actin polymerization in response of varied extracellular stimuli. Has tyrosine phosphatase activity towards various tyrosyl phosphorylated substrates.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTTCLHLGTLEQSLVFENKVNSEKVKLSLRNFPHNDYEDVFEEPSESGSDPSMWTARGPFRRDRWSSEDEEAAGPSQALSPLLSDTRKIVSEGELDQLAQIRPLIFNFHEQTAIKDCLKILEEKTAAYDIMQEFMALELKNLPGEFNSGNQPSNREKNRYRDILPFQHHGYSGPNERTTFWHGSNEGAVSLLLRYCA
+PTM	Methylation:48,264,305,335,375,399;Phosphorylation:57,332

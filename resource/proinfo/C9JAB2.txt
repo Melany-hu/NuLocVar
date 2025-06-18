@@ -1,0 +1,25 @@
+UniprotID	C9JAB2
+Accession	C9JAB2
+EntryName	C9JAB2_HUMAN
+ProteinName	Serine and arginine rich splicing factor 7
+GeneName	SRSF7
+Length	235
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRYGRYGGETKVYVGNLGTGAGKGELERAFSYYGPLRTVWIARNPPGFAFVEFEDPRDAEDAVRGLDGKVICGSRVRVELSTGMPRRSRFDRPPARRPFDPNDRCYECGEKGHYAYDCHRYSRRRRSRSRSRSHSRSRGRRYSRSRSRSRGRRSRSASPRRSRSISLRRSRSASLRRSRSGSIKGSRSPSRSRSRSRSISRPRSSRSKSRSPSPKRSRSPSGSPRRSASPERMD
+PTM	

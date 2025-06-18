@@ -1,0 +1,25 @@
+UniprotID	H3BMX6
+Accession	H3BMX6
+EntryName	H3BMX6_HUMAN
+ProteinName	Methenyltetrahydrofolate synthetase domain containing
+GeneName	MTHFSD
+Length	56
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPRAGVSKQDIREQIWGYMESQNLADFPRPVHHRIPNFKAGESGREKATPIWNMP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9BZB8-4
+Accession	Q9BZB8;B7Z6C6;Q86W46;Q8IV41;Q9BZB7;Q9H8V5
+EntryName	CPEB1_HUMAN
+ProteinName	Cytoplasmic polyadenylation element-binding protein 1 (CPE-BP1) (CPE-binding protein 1) (h-CPEB) (hCPEB-1)
+GeneName	CPEB1 CPEB
+Length	486
+Function	Sequence-specific RNA-binding protein that regulates mRNA cytoplasmic polyadenylation and translation initiation during oocyte maturation, early development and at postsynapse sites of neurons. Binds to the cytoplasmic polyadenylation element (CPE), an uridine-rich sequence element (consensus sequence 5'-UUUUUAU-3') within the mRNA 3'-UTR. RNA binding results in a clear conformational change analogous to the Venus fly trap mechanism (PubMed:24990967). In absence of phosphorylation and in association with TACC3 is also involved as a repressor of translation of CPE-containing mRNA; a repression that is relieved by phosphorylation or degradation (By similarity). Involved in the transport of CPE-containing mRNA to dendrites; those mRNAs may be transported to dendrites in a translationally dormant form and translationally activated at synapses (By similarity). Its interaction with APLP1 promotes local CPE-containing mRNA polyadenylation and translation activation (By similarity). Induces the assembly of stress granules in the absence of stress. Required for cell cycle progression, specifically for prophase entry (PubMed:26398195).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; P-body; Cytoplasmic granule; Synapse; Membrane; Postsynaptic density; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	127...132;20...29;123...132
+nlsdbnls_region	
+validnes_region	20...29;123...132
+nesbase_region	
+Sequence	MLFPTSAQESSRGLPDANDLCLGLQSLSLTGWDRPWSTQDSDSSAQSSTHSVLSMLHNPLGNVLGKPPLSFLPLDPLGSDLVDKFPAPSVRGSRLDTRPILDSRSSSPSDSDTSGFSSGSDHLSDLISSLRISPPLPFLSLSGGGPRDPLKMGVGSRMDQEQAALAAVTPSPTSASKRWPGASVWPSWDLLEAPKDPFSIEREARLHRQAAAVNEATCTWSGQLPPRNYKNPIYSCKVFLGGVPWDITEAGLVNTFRVFGSLSVEWPGKDGKHPRCPPKGYVYLVFELEKSVRSLLQACSHDPLSPDGLSEYYFKMSSRRMRCKEVQVIPWVLADSNFVRSPSQRLDPSRTVFVGALHGMLNAEALAAILNDLFGGVVYAGIDTDKHKYPIGSGRVTFNNQRSYLKAVSAAFVEIKTTKFTKKVQIDPYLEDSLCHICSSQPGPFFCRDQVCFKYFCRSCWHWRHSMEGLRHHSPLMRNQKNRDSS
+PTM	Methylation:141,347,370,496;Phosphorylation:4,52,80,178,182,203,208,231,363;Ubiquitylation:226

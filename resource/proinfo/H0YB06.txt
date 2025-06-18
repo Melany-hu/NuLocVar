@@ -1,0 +1,25 @@
+UniprotID	H0YB06
+Accession	H0YB06
+EntryName	H0YB06_HUMAN
+ProteinName	Protein phosphatase 2 regulatory subunit Bdelta
+GeneName	PPP2R2D
+Length	150
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGNDFQWCFSQVKGAIDEDVAEADIISTVEFNYSGDLLATGDKGGRVVIFQREQENKSRPHSRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQQNAAHFLLSTNDKTIKLWKISERDKRAEGYNLKDEDGRLRDPFRITALRMT
+PTM	

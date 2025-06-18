@@ -1,0 +1,25 @@
+UniprotID	O14791-3
+Accession	O14791;A5PLQ4;B4DU12;E9PF24;O60804;Q5R3P7;Q5R3P8;Q96AB8;Q96PM4;Q9BQ03
+EntryName	APOL1_HUMAN
+ProteinName	Apolipoprotein L1 (Apolipoprotein L) (Apo-L) (ApoL) (Apolipoprotein L-I) (ApoL-I)
+GeneName	APOL1 APOL
+Length	380
+Function	May play a role in lipid exchange and transport throughout the body. May participate in reverse cholesterol transport from peripheral cells to the liver.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGAALLRVSVLCIWVQQNVPSGTDTGDPQSKPLGDWAAGTMDPESSIFIEDAIKYFKEKVSTQNLLLLLTDNEAWNGFVAAAELPRNEADELRKALDNLARQMIMKDKNWHDKGQQYRNWFLKEFPRLKSELEDNIRRLRALADGVQKVHKGTTIANVVSGSLSISSGILTLVGMGLAPFTEGGSLVLLEPGMELGITAALTGITSSTMDYGKKWWTQAQAHDLVIKSLDKLKEVREFLGENISNFLSLAGNTYQLTRGIGKDIRALRRARANLQSVPHASASRPRVTEPISAESGEQVERVNEPSILEMSRGVKLTDVAPVSFFLVLDVVYLVYESKHLHEGAKSETAEELKKVAQELEEKLNILNNNYKILQADQEL
+PTM	Methylation:73,246,250,281,372,381;Phosphorylation:49,227,300,307,311,314,330;Ubiquitylation:132,142

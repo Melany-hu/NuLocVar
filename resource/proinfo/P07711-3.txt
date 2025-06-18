@@ -1,0 +1,25 @@
+UniprotID	P07711-3
+Accession	P07711;Q6IAV1;Q96QJ0
+EntryName	CATL1_HUMAN
+ProteinName	Procathepsin L (EC 3.4.22.15) (Cathepsin L1) (Major excreted protein) (MEP) [Cleaved into: Cathepsin L; Cathepsin L heavy chain; Cathepsin L light chain]
+GeneName	CTSL CTSL1
+Length	278
+Function	Thiol protease important for the overall degradation of proteins in lysosomes (Probable). Plays a critical for normal cellular functions such as general protein turnover, antigen processing and bone remodeling. Involved in the solubilization of cross-linked TG/thyroglobulin and in the subsequent release of thyroid hormone thyroxine (T4) by limited proteolysis of TG/thyroglobulin in the thyroid follicle lumen (By similarity). In neuroendocrine chromaffin cells secretory vesicles, catalyzes the prohormone proenkephalin processing to the active enkephalin peptide neurotransmitter (By similarity). In thymus, regulates CD4(+) T cell positive selection by generating the major histocompatibility complex class II (MHCII) bound peptide ligands presented by cortical thymic epithelial cells. Also mediates invariant chain processing in cortical thymic epithelial cells (By similarity). Major elastin-degrading enzyme at neutral pH. Accumulates as a mature and active enzyme in the extracellular space of antigen presenting cells (APCs) to regulate degradation of the extracellular matrix in the course of inflammation (By similarity). Secreted form generates endostatin from COL18A1 (PubMed:10716919). Critical for cardiac morphology and function. Plays an important role in hair follicle morphogenesis and cycling, as well as epidermal differentiation (By similarity). Required for maximal stimulation of steroidogenesis by TIMP1 (By similarity).
+Subcellular Location	Lysosome; Apical cell membrane; Cytoplasmic vesicle; Secretory vesicle; Chromaffin granule; Secreted; Extracellular space; Secreted; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	45...49
+validnes_region	
+nesbase_region	
+Sequence	MKMIELHNQEYREGKHSFTMAMNAFGDMTSEEFRQVMNGFQNRKPRKGKVFQEPLFYEAPRSVDWREKGYVTPVKNQGQCGSCWAFSATGALEGQMFRKTGRLISLSEQNLVDCSGPQGNEGCNGGLMDYAFQYVQDNGGLDSEESYPYEATEESCKYNPKYSVANDTGFVDIPKQEKALMKAVATVGPISVAIDAGHESFLFYKEGIYFEPDCSSEDMDHGVLVVGYGFESTESDNNKYWLVKNSWGEEWGMGGYVKMAKDRRNHCGIASAASYPTV
+PTM	Glycosylation:221;Methylation:230;Phosphorylation:112,142;SUMOylation:57,70,104,216,230,233,313;Ubiquitylation:104,123,216

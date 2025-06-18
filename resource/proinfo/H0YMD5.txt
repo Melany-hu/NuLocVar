@@ -1,0 +1,25 @@
+UniprotID	H0YMD5
+Accession	H0YMD5
+EntryName	H0YMD5_HUMAN
+ProteinName	BCL2 like 10
+GeneName	BCL2L10
+Length	241
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDQLRERTTMADPLRERTELLLADYLGYCAREPGTPEPAPSTPEAAVLRSAAARLRQIHRSFFSAYLGYPGNRFELVALMADSVLSDSPGPTWGRVVTLVTFAGTLLERGPLVTARWKKWGFQPRLKEQEGDVARDCQRLVALLSSRLMGQHRAWLQAQGGWVSTRRTPGHGAGRAAGKRPRGWHGWLLSLLQDPLSTGFLEKTAGPGFSVMLVNNSLHLSLDTIIMSFKTFNPLLPAQL
+PTM	

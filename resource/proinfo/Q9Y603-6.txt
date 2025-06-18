@@ -1,0 +1,25 @@
+UniprotID	Q9Y603-6
+Accession	Q9Y603;B3KVC2;B4DVB6;B4E1G4;Q5R3L3;Q5R3L4;Q9NZ65;Q9NZ66;Q9NZ68;Q9NZR8;Q9UNJ7;Q9Y5K4;Q9Y604
+EntryName	ETV7_HUMAN
+ProteinName	Transcription factor ETV7 (ETS translocation variant 7) (ETS-related protein Tel2) (Tel-related Ets factor) (Transcription factor Tel-2)
+GeneName	ETV7 TEL2 TELB TREF
+Length	262
+Function	Transcriptional repressor; binds to the DNA sequence 5'-CCGGAAGT-3'. Isoform A does not seem to have a repressor activity. Isoform C does not seem to have a repressor activity.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEGELAISPISPVAAMPPLGTHVQARCEAQINLLGEGGICKLPGRLRDVLYELLQYIKTQRRALVCGPFFGGIFRLKTPTQHSPVPPEEVTGPSQMDTRRGHLLQPPDPGLTSNFGHLDDPGLARWTPGKEESLNLCHCAELGCRTQGVCSFPAMPQAPIDGRIADCRLLWDYVYQLLLDTRYEPYIKWEDKDAKIFRVVDPNGLARLWGNHKNRVNMTYEKMSRALRHYYKLNIIKKEPGQKLLFRNGLQLIFIFIWSFQ
+PTM	Glycosylation:273;Methylation:92,293;Phosphorylation:55,107,275,276,280

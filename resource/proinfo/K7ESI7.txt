@@ -1,0 +1,25 @@
+UniprotID	K7ESI7
+Accession	K7ESI7
+EntryName	K7ESI7_HUMAN
+ProteinName	TMEM256-PLSCR3 readthrough (NMD candidate)
+GeneName	TMEM256-PLSCR3
+Length	28
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FDKANKHHFLHSLALLGVPHCRKPLWAA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O75382-4
+Accession	O75382;B7Z5E6;F5H2Q8;Q4V9L4;Q9C038;Q9C039
+EntryName	TRIM3_HUMAN
+ProteinName	Tripartite motif-containing protein 3 (EC 2.3.2.27) (Brain-expressed RING finger protein) (RING finger protein 22) (RING finger protein 97)
+GeneName	TRIM3 BERP RNF22 RNF97
+Length	625
+Function	E3 ubiquitin ligase that plays essential roles in neuronal functions such as regulation of neuronal plasticity, learning, and memory (By similarity). In addition to its neuronal functions, participates in other biological processes such as innate immunity or cell cycle regulation. Component of the cytoskeleton-associated recycling or transport complex in neurons, polyubiquitinates gamma-actin, thus regulating neuronal plasticity, learning, and memory (By similarity). Ubiquitinates postsynaptic scaffold GKAP, a neuronal substrate involved in synaptic remodeling and thereby modulates dendritic spine morphology (By similarity). Positively regulates motility of microtubule-dependent motor protein KIF21B (By similarity). Induces growth arrest via its RING-dependent E3 ligase activity and ubiquinates CDKN1A (PubMed:24393003). Positively regulates TLR3-mediated signaling by mediating 'Lys-63'-linked polyubiquitination of TLR3 (PubMed:32878999). In turn, promotes the recognition and sorting of polyubiquitinated TLR3 by the ESCRT complexes (PubMed:32878999).
+Subcellular Location	Cytoplasm; Early endosome; Golgi apparatus; trans-Golgi network; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTMEFYCEACETAMCGECRAGEHREHGTVLLRDVVEQHKAALQRQLEAVRGRLPQLSAAIALVGGISQQLQERKAEALAQISAAFEDLEQALQQRKQALVSDLETICGAKQKVLQSQLDTLRQGQEHIGSSCSFAEQALRLGSAPEVLLVRKHMRERLAALAAQAFPERPHENAQLELVLEVDGLRRSVLNLGALLTTSATAHETVATGEGLRQALVGQPASLTVTTKDKDGRLVRTGSAELRAEITGPDGTRLPVPVVDHKNGTYELVYTARTEGELLLSVLLYGQPVRGSPFRVRALRPGDLPPSPDDVKRRVKSPGGPGSHVRQKAVRRPSSMYSTGGKRKDNPIEDELVFRVGSRGREKGEFTNLQGVSAASSGRIVVADSNNQCIQVFSNEGQFKFRFGVRGRSPGQLQRPTGVAVDTNGDIIVADYDNRWVSIFSPEGKFKTKIGAGRLMGPKGVAVDRNGHIIVVDNKSCCVFTFQPNGKLVGRFGGRGATDRHFAGPHFVAVNNKNEIVVTDFHNHSVKVYSADGEFLFKFGSHGEGNGQFNAPTGVAVDSNGNIIVADWGNSRIQVFDSSGSFLSYINTSAEPLYGPQGLALTSDGHVVVADAGNHCFKAYRYLQ
+PTM	Acetylation:462;Methylation:520,615;Phosphorylation:7,23,250,251,253,342,344,346,347,359,412,427,437,443,454,455,457,458,459,478,529;Ubiquitylation:159,483

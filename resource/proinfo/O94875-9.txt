@@ -1,0 +1,25 @@
+UniprotID	O94875-9
+Accession	O94875;A6NEK9;B3KPQ7;B7Z1G5;B7Z3X6;C9JKV9;D3DP62;D3DP63;E9PAS5;E9PAW4;G3XAI0;H7BXR4;J3KNZ5;O60592;O60593;Q96EX0
+EntryName	SRBS2_HUMAN
+ProteinName	Sorbin and SH3 domain-containing protein 2 (Arg-binding protein 2) (ArgBP2) (Arg/Abl-interacting protein 2) (Sorbin)
+GeneName	SORBS2 ARGBP2 KIAA0777
+Length	644
+Function	Adapter protein that plays a role in the assembling of signaling complexes, being a link between ABL kinases and actin cytoskeleton. Can form complex with ABL1 and CBL, thus promoting ubiquitination and degradation of ABL1. May play a role in the regulation of pancreatic cell adhesion, possibly by acting on WASF1 phosphorylation, enhancing phosphorylation by ABL1, as well as dephosphorylation by PTPN12 (PubMed:18559503). Isoform 6 increases water and sodium absorption in the intestine and gall-bladder.
+Subcellular Location	Cytoplasm; Perinuclear region; Apical cell membrane; Cell junction; Focal adhesion; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVTLTSVKRVQSSPNLLAAGRDSQSPDSAWRSYNDGNQETLNGDATYSSLAAKGFRSVRPNLQDKRSPTQSQITVNGNSGGAVSPMSYYQRPFSPSAYSLPASLNSSIVMQHGTSLDSTDTYPQHAQSLDGTTSSSIPLYRSSEEEKRVTVIKAPHYPGIGPVDESGIPTAIRTTVDRPKDWYKTMFKQIHMVHKPGLYNPPYSAQSHPAAKTQTYRPLSKSHSDNSPNAFKDASSPVPPPHVPPPVPPLRPRDRSSTEKHDWDPPDRKVDTRKFRSEPRSIFEYEPGKSSILQHERPASLYQSSIDRSLERPMSSASMASDFRKRRKSEPAVGPPRGLGDQSASRTSPGRVDLPGSSTTLTKSFTSSSPSSPSRAKDRESPRSYSSTLTDMGRSAPRERRGTPEKEKLPAKAVYDFKAQTSKELSFKKGDTVYILRKIDQNWYEGEHHGRVGIFPISYVEKLTPPEKAQPARPPPPAQPGEIGEAIAKYNFNADTNVELSLRKGDRVILLKRVDQNWYEGKIPGTNRQGIFPVSYVEVVKKNTKGAEDYPDPPIPHSYSSDRIHSLSSNKPQRPVFTHENIQGGGEPFQALYNYTPRNEDELELRESDVIDVMEKCDDGWFVGTSRRTKFFGTFPGNYVKRL
+PTM	Acetylation:68,875,880,919,925,998,1087,1098;Glycosylation:288,290;Methylation:519,736,743,895,946,961,969,998;Phosphorylation:145,146,150,152,154,157,165,166,188,220,221,230,234,235,239,245,248,259,273,275,277,278,287,288,289,290,292,294,296,297,298,299,301,302,304,353,550,553,702,712,813,838,841,852,860,883,916,921,958,1015,1016,1017,1018;SUMOylation:95,219;Ubiquitylation:293,880,925,1073,1098

@@ -1,0 +1,25 @@
+UniprotID	Q5JPH6-2
+Accession	Q5JPH6;B3KTT2;D3DWF1;Q86YH3;Q8TF31
+EntryName	SYEM_HUMAN
+ProteinName	Nondiscriminating glutamyl-tRNA synthetase EARS2, mitochondrial (EC 6.1.1.24) (Glutamate--tRNA(Gln) ligase EARS2, mitochondrial) (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS) (Mitochondrial glutamyl-tRNA synthetase) (mtGluRS)
+GeneName	EARS2 KIAA1970
+Length	534
+Function	Non-discriminating glutamyl-tRNA synthetase that catalyzes aminoacylation of both mitochondrial tRNA(Glu) and tRNA(Gln) and participates in RNA aminoacylation for mitochondrial protein translation (PubMed:19805282). Attachs glutamate to tRNA(Glu) or tRNA(Gln) in a two-step reaction: glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu) or tRNA(Gln) (PubMed:19805282). In vitro, cytoplasmic tRNA(Gln) is slightly glutamylated, but with low activity (PubMed:19805282).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALLRRLLQRERPSAASGRPVGRREANLGTDAGVAVRVRFAPSPTGFLHLGGLRTALYNYIFAKKYQGSFILRLEDTDQTRVVPGAAENIEDMLEWAGIPPDESPRRGGPAGPYQQSQRLELYAQATEALLKTGAAYPCFCSPQRLELLKKEALRNHQTPRYDNRCRNMSQEQVAQKLAKDPKPAIRFRLEQVVPAFQDLVYGWNRHEVASVEGDPVIMKSDGFPTYHLACVVDDHHMGISHVLRGSEWLVSTAKHLLLYQALGWQPPHFAHLPLLLNRDGSKLSKRQGDVFLEHFAADGFLPDSLLDIITNCGSGFAENQMGRTLPELITQFNLTQVTCHSALLDLEKLPEFNRLHLQRLVSNESQRRQLVGKLQVLVEEAFGCQLQNRDVLNPVYVERILLLRQGHICRLQDLVSPVYSYLWTRPAVGRAQLDAISEKVDVIAKRVLGLLERSSMSLTQDMLNGELKKLSEGLEGTKYSNVMKLLRMALSGQQVRQGHGLDCSLEPLIDPLNLHFLAGTELNIEYTKVNET
+PTM	Acetylation:178,441,447,486;Methylation:133,151,350,447;Phosphorylation:44,46,143,160,171,473;SUMOylation:480;Ubiquitylation:178,284,441,447

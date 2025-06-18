@@ -1,0 +1,25 @@
+UniprotID	Q9BWV2-2
+Accession	Q9BWV2;A8K8H3;Q4G122;Q86X33;Q8NA28
+EntryName	SPAT9_HUMAN
+ProteinName	Spermatogenesis-associated protein 9 (Testis development protein NYD-SP16)
+GeneName	SPATA9
+Length	178
+Function	May play a role in testicular development/spermatogenesis and may be an important factor in male infertility.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPIKPVGWICGQVLKNFSGRIEGIQKAIMDLVDEFKDEFPTILRLSQSNQVRKGSLFEIISFPAKTALTSIIYASYAALIYLAVCVNAVLKKVKNIFQEEESIRQNREESENCRKAFSEPVLSEPMFAEGEIKAKPYRSLPEKPDISDYPKLLANKQSNNIQVLHSVFDQSAEMNEQI
+PTM	Methylation:15,167;Phosphorylation:86

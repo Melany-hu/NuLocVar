@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V2F0
+Accession	A0A7I2V2F0
+EntryName	A0A7I2V2F0_HUMAN
+ProteinName	Synaptotagmin binding cytoplasmic RNA interacting protein
+GeneName	SYNCRIP
+Length	67
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTYRQREKQGTKVADSSKGPDEAKIKALLERTGYTLDVTTGQRKYGGPPPDSVYSDICGKDPKRSI
+PTM	

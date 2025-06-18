@@ -1,0 +1,25 @@
+UniprotID	Q7Z4I7-3
+Accession	Q7Z4I7;A6NLH0;B4DMV1;F5H6E6;Q7Z4I2;Q7Z4I6;Q7Z4I8;Q8NFE7;Q9HA13
+EntryName	LIMS2_HUMAN
+ProteinName	LIM and senescent cell antigen-like-containing domain protein 2 (LIM-like protein 2) (Particularly interesting new Cys-His protein 2) (PINCH-2)
+GeneName	LIMS2 PINCH2
+Length	336
+Function	Adapter protein in a cytoplasmic complex linking beta-integrins to the actin cytoskeleton, bridges the complex to cell surface receptor tyrosine kinases and growth factor receptors. Plays a role in modulating cell spreading and migration.
+Subcellular Location	Nucleus; Cell junction; Focal adhesion; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDALANAVCQRCQARFSPAERIVNSNGELYHEHCFVCAQCFRPFPEGLFYEFEGRKYCEHDFQMLFAPCCGSCGEFIIGRVIKAMNNNWHPGCFRCELCDVELADLGFVKNAGRHLCRPCHNREKAKGLGKYICQRCHLVIDEQPLMFRSDAYHPDHFNCTHCGKELTAEARELKGELYCLPCHDKMGVPICGACRRPIEGRVVNALGKQWHVEHFVCAKCEKPFLGHRHYEKKGLAYCETHYNQLFGDVCYNCSHVIEGDVVSALNKAWCVSCFSCSTCNSKLTLKNKFVEFDMKPVCKRCYEKFPLELKKRLKKLSELTSRKAQPKATDLNSA
+PTM	Acetylation:295,302,311,317;Methylation:89,116,137,274,293;Phosphorylation:63,185,270,291,324,327;Ubiquitylation:302,317

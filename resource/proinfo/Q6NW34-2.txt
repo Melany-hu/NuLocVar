@@ -1,0 +1,25 @@
+UniprotID	Q6NW34-2
+Accession	Q6NW34;D3DN69;Q68DM6;Q9H7U0;Q9UFM4
+EntryName	NEPRO_HUMAN
+ProteinName	Nucleolus and neural progenitor protein
+GeneName	NEPRO C3orf17
+Length	497
+Function	May play a role in cortex development as part of the Notch signaling pathway. Downstream of Notch may repress the expression of proneural genes and inhibit neuronal differentiation thereby maintaining neural progenitors. May also play a role in preimplentation embryo development.
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMAAVPPGLEPWNRVRIPKAGNRSAVTVQNPGAALDLCIAAVIKECHLVILSLKSQTLDAETDVLCAVLYSNHNRMGRHKPHLALKQVEQCLKRLKNMNLEGSIQDLFELFSSKVLYKGVLKRLILLYEPLFGLLQEVARIQPMPYFKDFTFPSDITEFLGQPYFEAFKKKMPIAFAAKGINKLLNKLFLINEQSPRASEETLLGISKKAKQMKINVQNNVDLGQPVKNKRVFKEESSEFDVRAFCNQLKHKATQETSFDFKCSQSRLKTTKYSSQKVIGTPHAKSFVQRFREAESFTQLSEEIQMAVVWCRSKKLKAQAIFLGNKLLKSNRLKHLEAQGTSLPKKLECIKTSICNHLLRGSGIKTSKHHLRQRRSQNKFLRRQRKPQRKLQSTLLREIQQFSQGTRKSATDTSAKWRLSHCTVHRTDLYPNSKQLLNSGVSMPVIQTKEKMIHENLRGIHENETDSWTVMQINKNSTSGTIKETDDIDDIFALMGV
+PTM	Acetylation:347,486;Methylation:44,86,192,249,257,320,332,399,435,486;Phosphorylation:52,265,328,351,512,518;SUMOylation:304;Ubiquitylation:298,300,478,504,519

@@ -1,0 +1,25 @@
+UniprotID	Q30201-6
+Accession	Q30201;B2CKL0;O75929;O75930;O75931;Q17RT0;Q96KU5;Q96KU6;Q96KU7;Q96KU8;Q9HC64;Q9HC68;Q9HC70;Q9HC83
+EntryName	HFE_HUMAN
+ProteinName	Hereditary hemochromatosis protein (HLA-H)
+GeneName	HFE HLAH
+Length	168
+Function	Binds to transferrin receptor (TFR) and reduces its affinity for iron-loaded transferrin.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPRARPALLLLMLLQTAVLQGRLLLPPLVKVTHHVTSSVTTLRCRALNYYPQNITMKWLKDKQPMDAKEFEPKDVLPNGDGTYQGWITLAVPPGEEQRYTCQVEHPGLDQPLIVIWEPSPSGTLVIGVISGIAVFVVILFIGILFIILRKRQGSRGAMGHYVLAERE
+PTM	Glycosylation:234;Methylation:331;Phosphorylation:342

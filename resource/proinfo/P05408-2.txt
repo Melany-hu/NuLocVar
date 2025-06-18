@@ -1,0 +1,25 @@
+UniprotID	P05408-2
+Accession	P05408;P01164;Q6FHD0;Q9BS38
+EntryName	7B2_HUMAN
+ProteinName	Neuroendocrine protein 7B2 (Pituitary polypeptide) (Secretogranin V) (Secretogranin-5) (Secretory granule endocrine protein I) [Cleaved into: N-terminal peptide; C-terminal peptide]
+GeneName	SCG5 SGNE1
+Length	211
+Function	Acts as a molecular chaperone for PCSK2/PC2, preventing its premature activation in the regulated secretory pathway. Binds to inactive PCSK2 in the endoplasmic reticulum and facilitates its transport from there to later compartments of the secretory pathway where it is proteolytically matured and activated. Also required for cleavage of PCSK2 but does not appear to be involved in its folding. Plays a role in regulating pituitary hormone secretion. The C-terminal peptide inhibits PCSK2 in vitro.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	175...180
+validnes_region	
+nesbase_region	
+Sequence	MVSRMVSTMLSGLLFWLASGWTPAFAYSPRTPDRVSEADIQRLLHGVMEQLGIARPRVEYPAHQAMNLVGPQSIEGGAHEGLQHLGPFGNIPNIVAELTGDNIPKDFSEDQGYPDPPNPCPVGKTDDGCLENTPDTAEFSREFQLHQHLFDPEHDYPGLGKWNKKLLYEKMKGGERRKRRSVNPYLQGQRLDNVVAKKSVPHFSDEDKDPE
+PTM	Methylation:105,162,171;Phosphorylation:3,28,36,108,137,141,200,205

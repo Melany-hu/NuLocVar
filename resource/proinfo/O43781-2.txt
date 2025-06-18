@@ -1,0 +1,25 @@
+UniprotID	O43781-2
+Accession	O43781;D3DT79;Q7Z752;Q9HBY6;Q9HBY7
+EntryName	DYRK3_HUMAN
+ProteinName	Dual specificity tyrosine-phosphorylation-regulated kinase 3 (EC 2.7.12.1) (Regulatory erythroid kinase) (REDK)
+GeneName	DYRK3
+Length	568
+Function	Dual-specificity protein kinase that promotes disassembly of several types of membraneless organelles during mitosis, such as stress granules, nuclear speckles and pericentriolar material (PubMed:29973724). Dual-specificity tyrosine-regulated kinases (DYRKs) autophosphorylate a critical tyrosine residue in their activation loop and phosphorylate their substrate on serine and threonine residues (PubMed:29634919, PubMed:9748265). Acts as a central dissolvase of membraneless organelles during the G2-to-M transition, after the nuclear-envelope breakdown: acts by mediating phosphorylation of multiple serine and threonine residues in unstructured domains of proteins, such as SRRM1 and PCM1 (PubMed:29973724). Does not mediate disassembly of all membraneless organelles: disassembly of P-body and nucleolus is not regulated by DYRK3 (PubMed:29973724). Dissolution of membraneless organelles at the onset of mitosis is also required to release mitotic regulators, such as ZNF207, from liquid-unmixed organelles where they are sequestered and keep them dissolved during mitosis (PubMed:29973724). Regulates mTORC1 by mediating the dissolution of stress granules: during stressful conditions, DYRK3 partitions from the cytosol to the stress granule, together with mTORC1 components, which prevents mTORC1 signaling (PubMed:23415227). When stress signals are gone, the kinase activity of DYRK3 is required for the dissolution of stress granule and mTORC1 relocation to the cytosol: acts by mediating the phosphorylation of the mTORC1 inhibitor AKT1S1, allowing full reactivation of mTORC1 signaling (PubMed:23415227). Also acts as a negative regulator of EPO-dependent erythropoiesis: may place an upper limit on red cell production during stress erythropoiesis (PubMed:10779429). Inhibits cell death due to cytokine withdrawal in hematopoietic progenitor cells (PubMed:10779429). Promotes cell survival upon genotoxic stress through phosphorylation of SIRT1: this in turn inhibits p53/TP53 activity and apoptosis (PubMed:20167603).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus speckle; Cytoplasmic granule; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	468..481
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	156...160;153...158;448...453
+validnes_region	
+nesbase_region	
+Sequence	MKWKEKLGDGVYDTFMMIDETKCPPCSNVLCNPSEPPPPRRLNMTTEQFTGDHTQHFLDGGEMKVEQLFQEFGNRKSNTIQSDGISDSEKCSPTVSQGKSSDCLNTVKSNSSSKAPKVVPLTPEQALKQYKHHLTAYEKLEIINYPEIYFVGPNAKKRHGVIGGPNNGGYDDADGAYIHVPRDHLAYRYEVLKIIGKGSFGQVARVYDHKLRQYVALKMVRNEKRFHRQAAEEIRILEHLKKQDKTGSMNVIHMLESFTFRNHVCMAFELLSIDLYELIKKNKFQGFSVQLVRKFAQSILQSLDALHKNKIIHCDLKPENILLKHHGRSSTKVIDFGSSCFEYQKLYTYIQSRFYRAPEIILGSRYSTPIDIWSFGCILAELLTGQPLFPGEDEGDQLACMMELLGMPPPKLLEQSKRAKYFINSKGIPRYCSVTTQADGRVVLVGGRSRRGKKRGPPGSKDWGTALKGCDDYLFIEFLKRCLHWDPSARLTPAQALRHPWISKSVPRPLTTIDKVSGKRVVNPASAFQGLGSKLPPVVGIANKLKANLMSETNGSIPLCSVLPKLIS
+PTM	Methylation:148,213,217,261,300,344,365,488,500;Phosphorylation:66,74,368,369,469;SUMOylation:84,128,137;Ubiquitylation:564

@@ -1,0 +1,25 @@
+UniprotID	Q9UHP3-1
+Accession	Q9UHP3;C0LSZ0;Q6DHZ9;Q9H9W1
+EntryName	UBP25_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 25 (EC 3.4.19.12) (Deubiquitinating enzyme 25) (USP on chromosome 21) (Ubiquitin thioesterase 25) (Ubiquitin-specific-processing protease 25)
+GeneName	USP25 USP21
+Length	1087
+Function	Deubiquitinating enzyme that hydrolyzes ubiquitin moieties conjugated to substrates and thus, functions in various biological processes including inflammation, immune response (PubMed:29518389, PubMed:37683630). Modulates the Wnt/beta-catenin pathway by deubiquitinating and stabilizing tankyrases TNKS1 and TNKS2 (PubMed:28619731, PubMed:30926243). Regulates KEAP1-NRF2 axis in the defense against oxidative assaults by deubiquitinating KEAP1 and protecting it from degradation leading to degradation of the NRF2 transcription factor that is responsible for mounting an anti-oxidation gene expression program (PubMed:37339955). Positively regulates RNA virus-induced innate signaling by interacting with and deubiquitinating ERLIN1 and ERLIN2 (PubMed:37683630). In turn, restricts virus production by regulating cholesterol biosynthetic flux (PubMed:37683630). Acts as a negative regulator of interleukin-17-mediated signaling and inflammation through the removal of 'Lys-63'-linked ubiquitination of TRAF5 and TRAF6 (PubMed:23042150). Prevents the ubiquitination and degradation of TRAF3 to reduce the phosphorylation levels of JNK and P38, the secretion of IL-1B and to induce endotoxin tolerance (PubMed:30579117).
+Subcellular Location	Cytoplasm; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	236...240;161...165
+validnes_region	
+nesbase_region	
+Sequence	MTVEQNVLQQSAAQKHQQTFLNQLREITGINDTQILQQALKDSNGNLELAVAFLTAKNAKTPQQEETTYYQTALPGNDRYISVGSQADTNVIDLTGDDKDDLQRAIALSLAESNRAFRETGITDEEQAISRVLEASIAENKACLKRTPTEVWRDSRNPYDRKRQDKAPVGLKNVGNTCWFSAVIQSLFNLLEFRRLVLNYKPPSNAQDLPRNQKEHRNLPFMRELRYLFALLVGTKRKYVDPSRAVEILKDAFKSNDSQQQDVSEFTHKLLDWLEDAFQMKAEEETDEEKPKNPMVELFYGRFLAVGVLEGKKFENTEMFGQYPLQVNGFKDLHECLEAAMIEGEIESLHSENSGKSGQEHWFTELPPVLTFELSRFEFNQALGRPEKIHNKLEFPQVLYLDRYMHRNREITRIKREEIKRLKDYLTVLQQRLERYLSYGSGPKRFPLVDVLQYALEFASSKPVCTSPVDDIDASSPPSGSIPSQTLPSTTEQQGALSSELPSTSPSSVAAISSRSVIHKPFTQSRIPPDLPMHPAPRHITEEELSVLESCLHRWRTEIENDTRDLQESISRIHRTIELMYSDKSMIQVPYRLHAVLVHEGQANAGHYWAYIFDHRESRWMKYNDIAVTKSSWEELVRDSFGGYRNASAYCLMYINDKAQFLIQEEFNKETGQPLVGIETLPPDLRDFVEEDNQRFEKELEEWDAQLAQKALQEKLLASQKLRESETSVTTAQAAGDPEYLEQPSRSDFSKHLKEETIQIITKASHEHEDKSPETVLQSIMMTPNMQGIIMAIGKSRSVYDRCGPEAGFFKAIKLEYARLVKLAQEDTPPETDYRLHHVVVYFIQNQAPKKIIEKTLLEQFGDRNLSFDERCHNIMKVAQAKLEMIKPEEVNLEEYEEWHQDYRKFRETTMYLIIGLENFQRESYIDSLLFLICAYQNNKELLSKGLYRGHDEELISHYRRECLLKLNEQAAELFESGEDREVNNGLIIMNEFIVPFLPLLLVDEMEEKDILAVEDMRNRWCSYLGQEMEPHLQEKLTDFLPKLLDCSMEIKSFHEPPKLPSYSTHELCERFARIMLSLSRTPADGR
+PTM	Acetylation:622;Glycosylation:176;Methylation:41,250,312,420,630,658,669,715,763,782,823,855,913,1004;Phosphorylation:69,82,136,147,149,740,747,1006,1046,1048,1050;SUMOylation:141,721;Ubiquitylation:15,57,60,99,201,250,254,281,290,292,312,392,444,584,630,669,698,710,715,721,754,782,1011

@@ -1,0 +1,25 @@
+UniprotID	O60678-2
+Accession	O60678;A0A0A0MSN7;B4DUC7
+EntryName	ANM3_HUMAN
+ProteinName	Protein arginine N-methyltransferase 3 (EC 2.1.1.319) (Heterogeneous nuclear ribonucleoprotein methyltransferase-like protein 3)
+GeneName	PRMT3 HRMT1L3
+Length	469
+Function	Protein-arginine N-methyltransferase that catalyzes both the monomethylation and asymmetric dimethylation of the guanidino nitrogens of arginine residues in target proteins, and therefore falls into the group of type I methyltransferases (PubMed:22795084, PubMed:23445220, PubMed:25728001, PubMed:31378783, PubMed:33495566, PubMed:39513743). Catalyzes the asymmetric arginine dimethylation at multiple sites in the Arg/Gly-rich region of small ribosomal subunit protein uS5/RPS2 (PubMed:22795084). Also appears to methylate other ribosomal proteins (By similarity). May regulate retinoic acid synthesis and signaling by inhibiting ALDH1A1 retinal dehydrogenase activity (PubMed:33495566). Contributes to methylation of histone H4 'Arg-3', a specific tag for epigenetic transcriptional activation (PubMed:25728001, PubMed:31378783, PubMed:39513743). Mediates asymmetric arginine dimethylation of histone H4 'Arg-3' (H4R3me2a) in the promoter region of miRNA miR-3648, to promote its transcription and osteogenesis (PubMed:31378783).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCSLASGATGYSHLLKKHFHTVSLSISLILTAWFINMNPTVEYMNSIYNPVPWEKEEYLKPVLEDDLLLQFDVEDLYEPVSVPFSYPNGLSENTSVVEKLKHMEARALSAEAALARAREDLQKMKQFAQDFVMHTDVRTCSSSTSVIADLQEDEDGVYFSSYGHYGIHEEMLKDKIRTESYRDFIYQNPHIFKDKVVLDVGCGTGILSMFAAKAGAKKVLGVDQSEILYQAMDIIRLNKLEDTITLIKGKIEEVHLPVEKVDVIISEWMGYFLLFESMLDSVLYAKNKYLAKGGSVYPDICTISLVAVSDVNKHADRIAFWDDVYGFKMSCMKKAVIPEAVVEVLDPKTLISEPCGIKHIDCHTTSISDLEFSSDFTLKITRTSMCTAIAGYFDIYFEKNCHNRVVFSTGPQSTKTHWKQTVFLLEKPFSVKAGEALKGKVTVHKNKKDPRSLTVTLTLNNSTQTYGLQ
+PTM	Methylation:122,161,185,235,275,279,310,410,489,494,500;Phosphorylation:25,27,120,171,248,470,471,475,504;Ubiquitylation:477,494

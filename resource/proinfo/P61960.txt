@@ -1,0 +1,25 @@
+UniprotID	P61960
+Accession	P61960;Q14346;Q5VXS0;Q6IAG6;Q9CPX2;Q9NZF2
+EntryName	UFM1_HUMAN
+ProteinName	Ubiquitin-fold modifier 1
+GeneName	UFM1 C13orf20 BM-002
+Length	85
+Function	Ubiquitin-like modifier which can be covalently attached via an isopeptide bond to lysine residues of substrate proteins as a monomer or a lysine-linked polymer (PubMed:15071506, PubMed:20018847, PubMed:27653677, PubMed:29868776, PubMed:30626644, PubMed:38377992, PubMed:38383785). The so-called ufmylation, requires the UFM1-activating E1 enzyme UBA5, the UFM1-conjugating E2 enzyme UFC1, and the UFM1-ligase E3 enzyme UFL1 (PubMed:15071506, PubMed:20018847, PubMed:27653677, PubMed:29868776). Ufmylation is involved in various processes, such as ribosome recycling, response to DNA damage, transcription or reticulophagy (also called ER-phagy) induced in response to endoplasmic reticulum stress (PubMed:25219498, PubMed:32160526, PubMed:38383785).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	0.0835,0.1137,0.1611,0.2364,0.2817,0.2034,0.2680,0.1914,0.2164,0.1791,0.1373,0.1583,0.1137,0.1349,0.2034,0.2002,0.3117,0.3392,0.3182,0.3182,0.3704,0.3019,0.2258,0.2129,0.1092,0.0870,0.1184,0.1092,0.1942,0.1115,0.1554,0.1671,0.1942,0.2258,0.1731,0.1643,0.1643,0.1373,0.0719,0.0835,0.0835,0.1092,0.1611,0.2364,0.1611,0.2609,0.2064,0.2503,0.2609,0.2129,0.3321,0.3426,0.3774,0.3494,0.3948,0.3631,0.2575,0.1852,0.2094,0.2918,0.3774,0.3667,0.3704,0.2783,0.2849,0.2884,0.2034,0.3149,0.3087,0.2951,0.3356,0.2575,0.2541,0.2817,0.2164,0.1823,0.2164,0.3053,0.3774,0.3599,0.3286,0.2951,0.2680,0.2002,0.3053
+ExposeBuried	1,1,1,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.810,0.634,0.552,0.230,0.420,0.118,0.414,0.094,0.320,0.129,0.341,0.535,0.495,0.399,0.515,0.145,0.338,0.202,0.455,0.238,0.158,0.455,0.147,0.359,0.659,0.569,0.299,0.293,0.102,0.292,0.167,0.072,0.083,0.413,0.143,0.110,0.205,0.659,0.568,0.118,0.607,0.171,0.404,0.364,0.257,0.324,0.350,0.158,0.128,0.105,0.251,0.435,0.547,0.317,0.178,0.248,0.129,0.343,0.308,0.317,0.463,0.343,0.267,0.347,0.385,0.127,0.129,0.162,0.460,0.378,0.528,0.460,0.555,0.152,0.353,0.155,0.124,0.289,0.401,0.567,0.459,0.369,0.543,0.693,0.687
+SecondStructure	C,C,C,B,B,B,B,B,B,B,B,C,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-3.9,4.2,-0.8,2.8,-3.9,4.5,-0.7,3.8,-0.7,-0.8,-3.5,-1.6,-4.5,3.8,-1.6,-1.3,-3.9,4.2,3.8,-0.8,4.2,-1.6,-3.5,-0.8,-0.7,-1.6,2.8,-0.7,1.8,4.2,3.8,-3.9,2.8,1.8,1.8,-3.5,-3.5,2.8,-3.9,4.2,-1.6,1.8,1.8,-0.7,-0.8,1.8,4.5,4.5,-0.7,-3.5,-3.5,-0.4,4.5,-0.4,4.5,-3.5,-1.6,1.8,-3.5,-0.7,1.8,-0.4,-3.5,4.2,2.8,3.8,-3.9,-3.2,-0.4,-0.8,-3.5,3.8,-4.5,4.5,4.5,-1.6,-4.5,-3.5,-4.5,4.2,-0.4,-0.8,2.5
+Polar	0,1,1,0,1,1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,0,0,0,1,1,1,0,1,1,0
+Charge	0,0,1,0,0,0,1,0,0,0,0,0,-1,0,1,0,0,0,1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,-1,0,1,0,0,0,1,-1,1,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKVSFKITLTSDPRLPYKVLSVPESTPFTAVLKFAAEEFKVPAATSAIITNDGIGINPAQTAGNVFLKHGSELRIIPRDRVGSC
+PTM	Acetylation:19;Methylation:15,34,41,75;Phosphorylation:2,11,12,18;SUMOylation:19,34;Ubiquitylation:19,34,41,69

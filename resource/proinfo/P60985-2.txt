@@ -1,0 +1,25 @@
+UniprotID	P60985-2
+Accession	P60985;A1L4D7
+EntryName	KTDAP_HUMAN
+ProteinName	Keratinocyte differentiation-associated protein
+GeneName	KRTDAP KDAP UNQ467/PRO826
+Length	85
+Function	May act as a soluble regulator of keratinocyte differentiation. May play an important role in embryonic skin morphogenesis.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKIPVLPAVVLLSLLVLHSAQGATLGGPEEESTIENYASRPEAFKADEFLNWHALFESIKRKLPFLNWDAFPKLKGLRSATPDAQ
+PTM	Methylation:53

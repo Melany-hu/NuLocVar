@@ -1,0 +1,25 @@
+UniprotID	G5E9I4
+Accession	G5E9I4
+EntryName	G5E9I4_HUMAN
+ProteinName	BRMS1 transcriptional repressor and anoikis regulator (Breast cancer metastasis suppressor 1, isoform CRA_c)
+GeneName	BRMS1 hCG_20309
+Length	290
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVQPPSKDTEEMEAEGDSAAEMNGEEEESEEERSGSQTESEEESSEMDDEDYERRRSECVSEMLDLEKQFSELKEKLFRERLSQLRLRLEEVGAERAPEYTEPLGGLQRSLKIRIQVAGIYKGFCLDVIRNKYECELQGAKQHLESEKLLLYDTLQGELQERIQRLEEDRQSLDLSSEWWDDKLHARGSSRSWDSLPPSKRKKAPLVSGPYIVYMLQEIDILEDWTAIKKARAAVSPQKRKSDDRRTHRPLRVCPARLLWCCWALPLHLALAWTPPLPSSRPAQLWPWS
+PTM	

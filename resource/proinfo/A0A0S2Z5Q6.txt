@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z5Q6
+Accession	A0A0S2Z5Q6
+EntryName	A0A0S2Z5Q6_HUMAN
+ProteinName	CWF19 like cell cycle control factor 1 (CWF19-like 1 cell cycle control isoform 3)
+GeneName	CWF19L1
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQKPLRLLACGDVEGKFDILFNRVQAIQKKSGNFDEISLAPPKMLNGRSIRLASRKLLFRHMCLVLITRKQ
+PTM	

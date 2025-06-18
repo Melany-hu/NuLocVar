@@ -1,0 +1,25 @@
+UniprotID	P35240-5
+Accession	P35240;O95683;Q8WUJ2;Q969N0;Q969Q3;Q96T30;Q96T31;Q96T32;Q96T33;Q9BTW3;Q9UNG9;Q9UNH3;Q9UNH4
+EntryName	MERL_HUMAN
+ProteinName	Merlin (Moesin-ezrin-radixin-like protein) (Neurofibromin-2) (Schwannomerlin) (Schwannomin)
+GeneName	NF2 SCH
+Length	549
+Function	Probable regulator of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in tumor suppression by restricting proliferation and promoting apoptosis. Along with WWC1 can synergistically induce the phosphorylation of LATS1 and LATS2 and can probably function in the regulation of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway. May act as a membrane stabilizing protein. May inhibit PI3 kinase by binding to AGAP2 and impairing its stimulating activity. Suppresses cell proliferation and tumorigenesis by inhibiting the CUL4A-RBX1-DDB1-VprBP/DCAF1 E3 ubiquitin-protein ligase complex.
+Subcellular Location	Cell projection; Filopodium membrane; Cell projection; Ruffle membrane; Nucleus; Cytoplasm; Perinuclear region; Cytoplasmic granule; Cytoplasm; Perinuclear region; Cytoplasmic granule; Nucleus; Cell projection; Filopodium membrane; Cell projection; Ruffle membrane; Cytoplasm; Perinuclear region; Cytoplasmic granule; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGAIASRMSFSSLKRKQPKTFTVRIVTMDAEMEFNCEMKWKGKDLFDLVCRTLGLRETWFFGLQYTIKDTVAWLKMDKKVKKQILDEKIYCPPEASVLLASYAVQAKYGDYDPSVHKRGFLAQEELLPKRVINLYQMTPEMWEERITAWYAEHRGRARDEAEMEYLKIAQDLEMYGVNYFAIRNKKGTELLLGVDALGLHIYDPENRLTPKISFPWNEIRNISYSDKEFTIKPLDKKIDVFKFNSSKLRVNKLILQLCIGNHDLFMRRRKADSLEVQQMKAQAREEKARKQMERQRLAREKQMREEAERTRDELERRLLQMKEEATMANEALMRSEETADLLAEKAQITEEEAKLLAQKAAEAEQEMQRIKATAIRTEEEKRLMEQKVLEAEVLALKMAEESERRAKEADQLKQDLQEAREAERRAKQKLLEIATKPTYPPMNPIPAPLPPDIPSFNLIGDSLSFDFKDTDMKRLSMEIEKEKVEYMEKSKHLQEQLNELKTEIEALKLKERETALDILHNENSDRGGSSKHNTIKKPQAQGRRPICI
+PTM	Methylation:171,253,329,343,387,401,439,455,523,543,550,578;Phosphorylation:10,12,13,67,315,477,518,572,581,584,587;SUMOylation:88,364,396,550;Ubiquitylation:15,80,88,159,171,274,279,289,322,364,387,396,401,423,439,533,543,550,579

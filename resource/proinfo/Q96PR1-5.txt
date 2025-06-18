@@ -1,0 +1,25 @@
+UniprotID	Q96PR1-5
+Accession	Q96PR1;B7Z231;F5H030;J3KPP5;Q4LE77;Q86W09;Q8N1V9;Q96PR0
+EntryName	KCNC2_HUMAN
+ProteinName	Voltage-gated potassium channel KCNC2 (Potassium voltage-gated channel subfamily C member 2) (Shaw-like potassium channel) (Voltage-gated potassium channel Kv3.2)
+GeneName	KCNC2
+Length	583
+Function	Voltage-gated potassium channel that mediates transmembrane potassium transport in excitable membranes, primarily in the brain. Contributes to the regulation of the fast action potential repolarization and in sustained high-frequency firing in neurons of the central nervous system. Homotetramer channels mediate delayed-rectifier voltage-dependent potassium currents that activate rapidly at high-threshold voltages and inactivate slowly. Forms tetrameric channels through which potassium ions pass in accordance with their electrochemical gradient. The channel alternates between opened and closed conformations in response to the voltage difference across the membrane (Probable) (PubMed:15709110, PubMed:35314505, PubMed:36090251). Can form functional homotetrameric and heterotetrameric channels that contain variable proportions of KCNC1, and possibly other family members as well; channel properties depend on the type of alpha subunits that are part of the channel. Channel properties may be modulated either by the association with ancillary subunits, such as KCNE1, KCNE2 or KCNE3 or indirectly by nitric oxide (NO) through a cGMP- and PKG-mediated signaling cascade, slowing channel activation and deactivation of delayed rectifier potassium channels (By similarity). Contributes to fire sustained trains of very brief action potentials at high frequency in retinal ganglion cells, thalamocortical and suprachiasmatic nucleus (SCN) neurons and in hippocampal and neocortical interneurons (PubMed:15709110). Sustained maximal action potential firing frequency in inhibitory hippocampal interneurons is negatively modulated by histamine H2 receptor activation in a cAMP- and protein kinase (PKA) phosphorylation-dependent manner. Plays a role in maintaining the fidelity of synaptic transmission in neocortical GABAergic interneurons by generating action potential (AP) repolarization at nerve terminals, thus reducing spike-evoked calcium influx and GABA neurotransmitter release. Required for long-range synchronization of gamma oscillations over distance in the neocortex. Contributes to the modulation of the circadian rhythm of spontaneous action potential firing in suprachiasmatic nucleus (SCN) neurons in a light-dependent manner (By similarity).
+Subcellular Location	Cell membrane; Membrane; Perikaryon; Cell projection; Axon; Cell projection; Dendrite; Postsynaptic cell membrane; Presynaptic cell membrane; Synapse; Synaptosome; Synapse; Apical cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKIENNERVILNVGGTRHETYRSTLKTLPGTRLALLASSEPPGDCLTTAGDKLQPSPPPLSPPPRAPPLSPGPGGCFEGGAGNCSSRGGRASDHPGGGREFFFDRHPGVFAYVLNYYRTGKLHCPADVCGPLFEEELAFWGIDETDVEPCCWMTYRQHRDAEEALDIFETPDLIGGDPGDDEDLAAKRLGIEDAAGLGGPDGKSGRWRRLQPRMWALFEDPYSSRAARFIAFASLFFILVSITTFCLETHEAFNIVKNKTEPVINGTSVVLQYEIETDPALTYVEGVCVVWFTFEFLVRIVFSPNKLEFIKNLLNIIDFVAILPFYLEVGLSGLSSKAAKDVLGFLRVVRFVRILRIFKLTRHFVGLRVLGHTLRASTNEFLLLIIFLALGVLIFATMIYYAERVGAQPNDPSASEHTQFKNIPIGFWWAVVTMTTLGYGDMYPQTWSGMLVGALCALAGVLTIAMPVPVIVNNFGMYYSLAMAKQKLPRKRKKHIPPAPQASSPTFCKTELNMACNSTQSDTCLGKDNRLLEHNRSGYEKSRSLNNIAGLAGNALRLSPVTSPYNSPCPLRRSRSPIPSIL
+PTM	Acetylation:188;Methylation:258,312,486;Phosphorylation:57,62,505,615;Ubiquitylation:204

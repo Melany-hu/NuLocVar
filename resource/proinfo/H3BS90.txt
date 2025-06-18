@@ -1,0 +1,25 @@
+UniprotID	H3BS90
+Accession	H3BS90
+EntryName	H3BS90_HUMAN
+ProteinName	ATPase secretory pathway Ca2+ transporting 2
+GeneName	ATP2C2
+Length	53
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVWKKYLDQFKNPLILLLLGSALVSVLTKEYEDAVSIATAVLVVVTVAFIQHI
+PTM	

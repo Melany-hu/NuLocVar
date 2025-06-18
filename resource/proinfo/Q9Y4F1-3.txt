@@ -1,0 +1,25 @@
+UniprotID	Q9Y4F1-3
+Accession	Q9Y4F1;Q5JVI9;Q6IQ29
+EntryName	FARP1_HUMAN
+ProteinName	FERM, ARHGEF and pleckstrin domain-containing protein 1 (Chondrocyte-derived ezrin-like protein) (FERM, RhoGEF and pleckstrin domain-containing protein 1) (Pleckstrin homology domain-containing family C member 2) (PH domain-containing family C member 2)
+GeneName	FARP1 CDEP PLEKHC2
+Length	129
+Function	Functions as a guanine nucleotide exchange factor for RAC1. May play a role in semaphorin signaling. Plays a role in the assembly and disassembly of dendritic filopodia, the formation of dendritic spines, regulation of dendrite length and ultimately the formation of synapses (By similarity).
+Subcellular Location	Cell membrane; Synapse; Synapse; Synaptosome; Cytoplasm; Cytosol; Cell projection; Filopodium; Cell projection; Dendrite; Cell projection; Dendritic spine
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEIEQRPTPGSRLGAPENSGISTLERGQKPPPTPSGKLVSIKIQMLDDTQEAFEVPMVSSSSFLKATGSSWTGWVLRCSMKPKHHSHLIEKFGEDRILTHLTGSISYTNWAGSRSLAVTVTEELLNLF
+PTM	Acetylation:701;Methylation:30,99,114,438,456,581,600,635,656,672,942,994;Phosphorylation:9,12,20,23,24,34,36,270,335,336,340,350,366,370,403,408,418,424,427,433,445,477,481,484,487,499,503,510,514,525,613,620,767,788,790,833,861,862,863,871,872,878,883,889,894,896,898,899,996,1004,1038,1042;Ubiquitylation:30,38,184,265,345,456,546,572,672

@@ -1,0 +1,25 @@
+UniprotID	H7BZ11
+Accession	H7BZ11
+EntryName	H7BZ11_HUMAN
+ProteinName	RPL36A-HNRNPH2 readthrough
+GeneName	RPL36A-HNRNPH2
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVNVPKTRRTFCKKCGKHQPHKVTQYKKGKDSLYAQGKRRYDRKQSGYGGQTKPIFRKKAKTTKKIVLRLECVEPNCRSKRMLAIKRCKHFELGGDKKRKLHQNCIEPNLPPRAQQSP
+PTM	

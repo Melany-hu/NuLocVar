@@ -1,0 +1,25 @@
+UniprotID	D3YTC7
+Accession	D3YTC7
+EntryName	D3YTC7_HUMAN
+ProteinName	Phosphatidylethanolamine N-methyltransferase (PEAMT) (PEMT) (EC 2.1.1.17) (EC 2.1.1.71) (Phospholipid methyltransferase) (PLMT)
+GeneName	PEMT
+Length	211
+Function	Catalyzes the three sequential steps of the methylation pathway for the biosynthesis of phosphatidylcholine, a critical and essential component for membrane structure. Uses S-adenosylmethionine (S-adenosyl-L-methionine, SAM or AdoMet) as the methyl group donor for the methylation of phosphatidylethanolamine (1,2-diacyl-sn-glycero-3-phosphoethanolamine, PE) to phosphatidylmonomethylethanolamine (1,2-diacyl-sn-glycero-3-phospho-N-methylethanolamine, PMME), PMME to phosphatidyldimethylethanolamine (1,2-diacyl-sn-glycero-3-phospho-N,N-dimethylethanolamine, PDME), and PDME to phosphatidylcholine (1,2-diacyl-sn-glycero-3-phosphocholine, PC), producing S-adenosyl-L-homocysteine in each step.
+Subcellular Location	Endoplasmic reticulum membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRSGNPGAEADFCVMTRLLGYVDPLDPSFVAAVITITFNPLYWNVVARWEHKTRKLSRAFGSPYLACYSLSVTILLLNFLRSHCFTQAMLSQPRMESLDTPAAYSLGLALLGLGVVLVLSSFFALGFAGTFLGDYFGILKEARVTVFPFNILDNPMYWGSTANYLGWAIISPAPAGAVGSEARQPHGPAPDGAGGPHLHSGSPIRRALHR
+PTM	

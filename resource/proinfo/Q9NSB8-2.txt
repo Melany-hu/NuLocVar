@@ -1,0 +1,25 @@
+UniprotID	Q9NSB8-2
+Accession	Q9NSB8;O95269;O95349;Q9NSB6;Q9NSB7;Q9UNT7
+EntryName	HOME2_HUMAN
+ProteinName	Homer protein homolog 2 (Homer-2) (Cupidin)
+GeneName	HOMER2
+Length	343
+Function	Postsynaptic density scaffolding protein. Binds and cross-links cytoplasmic regions of GRM1, GRM5, ITPR1, DNM3, RYR1, RYR2, SHANK1 and SHANK3. By physically linking GRM1 and GRM5 with ER-associated ITPR1 receptors, it aids the coupling of surface receptors to intracellular calcium release. May also couple GRM1 to PI3 kinase through its interaction with AGAP2. Isoforms can be differently regulated and may play an important role in maintaining the plasticity at glutamatergic synapses (PubMed:9808459). Required for normal hearing (PubMed:25816005). Negatively regulates T cell activation by inhibiting the calcineurin-NFAT pathway. Acts by competing with calcineurin/PPP3CA for NFAT protein binding, hence preventing NFAT activation by PPP3CA (PubMed:18218901).
+Subcellular Location	Cytoplasm; Cell membrane; Postsynaptic density; Synapse; Cell projection; Stereocilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEQPIFTTRAHVFQIDPNTKKNWMPASKQAVTVSYFYDVTRNSYRIISVDGAKVIINSTITPNMTFTKTSQKFGQWADSRANTVFGLGFSSEQQLTKFAEKFQEVKEAAKIAKDKTQEKIETSSNHSQASSVNGTDDEKASHAGPANTHLKSENDKLKIALTQSAANVKKWEIELQTLRESNARLTTALQESAASVEQWKRQFSICRDENDRLRNKIDELEEQCSEINREKEKNTQLKRRIEELEAELREKETELKDLRKQSEIIPQLMSECEYVSEKLEAAERDNQNLEDKVRSLKTDIEESKYRQRHLKVELKSFLEVLDGKIDDLHDFRRGLSKLGTDN
+PTM	Methylation:212,327;Phosphorylation:38

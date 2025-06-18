@@ -1,0 +1,25 @@
+UniprotID	P34998-1
+Accession	P34998;B4DIE9;Q13008;Q4QRJ1;Q9UK64
+EntryName	CRFR1_HUMAN
+ProteinName	Corticotropin-releasing factor receptor 1 (CRF-R-1) (CRF-R1) (CRFR-1) (Corticotropin-releasing hormone receptor 1) (CRH-R-1) (CRH-R1)
+GeneName	CRHR1 CRFR CRFR1 CRHR
+Length	444
+Function	G-protein coupled receptor for CRH (corticotropin-releasing factor) and UCN (urocortin). Has high affinity for CRH and UCN. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and down-stream effectors, such as adenylate cyclase. Promotes the activation of adenylate cyclase, leading to increased intracellular cAMP levels. Inhibits the activity of the calcium channel CACNA1H. Required for normal embryonic development of the adrenal gland and for normal hormonal responses to stress. Plays a role in the response to anxiogenic stimuli.
+Subcellular Location	Cell membrane; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGHPQLRLVKALLLLGLNPVSASLQDQHCESLSLASNISGLQCNASVDLIGTCWPRSPAGQLVVRPCPAFFYGVRYNTTNNGYRECLANGSWAARVNYSECQEILNEEKKSKVHYHVAVIINYLGHCISLVALLVAFVLFLRLRPGCTHWGDQADGALEVGAPWSGAPFQVRRSIRCLRNIIHWNLISAFILRNATWFVVQLTMSPEVHQSNVGWCRLVTAAYNYFHVTNFFWMFGEGCYLHTAIVLTYSTDRLRKWMFICIGWGVPFPIIVAWAIGKLYYDNEKCWFGKRPGVYTDYIYQGPMILVLLINFIFLFNIVRILMTKLRASTTSETIQYRKAVKATLVLLPLLGITYMLFFVNPGEDEVSRVVFIYFNSFLESFQGFFVSVFYCFLNSEVRSAIRKRWHRWQDKHSIRARVARAMSIPTSPTRVSFHSIKQSTAV
+PTM	Phosphorylation:415,425,429,437

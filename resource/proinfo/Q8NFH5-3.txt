@@ -1,0 +1,25 @@
+UniprotID	Q8NFH5-3
+Accession	Q8NFH5;B4DP57;B4DYB4;Q4ZFZ9;Q53S95;Q8TDJ1
+EntryName	NUP35_HUMAN
+ProteinName	Nucleoporin NUP35 (35 kDa nucleoporin) (Mitotic phosphoprotein 44) (MP-44) (Nuclear pore complex protein Nup53) (Nucleoporin NUP53)
+GeneName	NUP35 MP44 NUP53
+Length	191
+Function	Functions as a component of the nuclear pore complex (NPC). NPC components, collectively referred to as nucleoporins (NUPs), can play the role of both NPC structural components and of docking or interaction partners for transiently associated nuclear transport factors. May play a role in the association of MAD1 with the NPC.
+Subcellular Location	Nucleus; Nuclear pore complex; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSPASIGQPRKTTLSPAQLDPFYTQGDSLTSEDHLDDSWVTVFGFPQASASYILLQFAQYGNILKHVMSNTGNWMHIRYQSKLQARKALSKDGRIFGESIMIGVKPCIDKSVMESSDRCALSSPSLAFTPPIKTLGTPTQPGSTPRISTMRPLATAYKASTSDYQVISDRQTPKKDESLVSKAMEYMFGW
+PTM	Acetylation:83,246;Glycosylation:298;Methylation:201,241;Phosphorylation:15,22,25,48,53,55,58,66,73,86,93,95,99,100,105,106,109,110,121,127,129,132,135,138,141,235,251,252,258,259,261,265,270,273,275,279,280,284,285,297,298,300,304,308,314;Ubiquitylation:83,85,218,241,269,294

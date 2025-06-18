@@ -1,0 +1,25 @@
+UniprotID	P49961-4
+Accession	P49961;A9Z1X8;B4DWB9;B4E1X1;B7Z599;G3XAF6;Q5T561;Q5T562;Q86VV3;Q9UQQ9;Q9Y3Q9
+EntryName	ENTP1_HUMAN
+ProteinName	Ectonucleoside triphosphate diphosphohydrolase 1 (EC 3.6.1.5) (ATP diphosphohydrolase) (ATP-DPH) (ATPDase) (Ecto-ATP diphosphohydrolase 1) (Ecto-ATPDase 1) (Ecto-ATPase 1) (Ecto-apyrase) (Lymphoid cell activation antigen) (Nucleoside triphosphate diphosphohydrolase 1) (NTPDase1) (CD antigen CD39)
+GeneName	ENTPD1 CD39
+Length	372
+Function	Catalyzes the hydrolysis of both di- and triphosphate nucleotides (NDPs and NTPs) and hydrolyze NTPs to nucleotide monophosphates (NMPs) in two distinct successive phosphate-releasing steps, with NDPs as intermediates and participates in the regulation of extracellular levels of nucleotides (Probable) (PubMed:8529670, PubMed:8626624, PubMed:8955160, PubMed:8996251). By hydrolyzing proinflammatory ATP and platelet-activating ADP to AMP, it blocks platelet aggregation and supports blood flow (PubMed:8955160, PubMed:8996251).
+Subcellular Location	Membrane; Membrane; Caveola
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESEELADRVLDVVERSLSNYPFDFQGARIITGQEEGAYGWITINYLLGKFSQKTRWFSIVPYETNNQETFGALDLGGASTQVTFVPQNQTIESPDNALQFRLYGKDYNVYTHSFLCYGKDQALWQKLAKDIQVASNEILRDPCFHPGYKKVVNVSDLYKTPCTKRFEMTLPFQQFEIQGIGNYQQCHQSILELFNTSYCPYSQCAFNGIFLPPLQGDFGAFSAFYFVMKFLNLTSEKVSQEKVTEMMKKFCAQPWEEIKTSYAGVKEKYLSEYCFSGTYILSLLLQGYHFTADSWEHIHFIGKIQGSDAGWTLGYMLNLTNMIPAEQPLSTPLSHSTYVFLMVLFSLVLFTVAIIGLLIFHKPSYFWKDMV
+PTM	Glycosylation:73,227,292,371;Methylation:48,188,368,398

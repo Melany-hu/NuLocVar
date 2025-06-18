@@ -1,0 +1,25 @@
+UniprotID	C9JK95
+Accession	C9JK95
+EntryName	C9JK95_HUMAN
+ProteinName	Neurotrimin
+GeneName	NTM
+Length	36
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGKRNGEGGKRWKWKGTGVPVRSGDATFPKAMDNV
+PTM	

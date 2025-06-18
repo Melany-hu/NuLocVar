@@ -1,0 +1,25 @@
+UniprotID	J3QLT7
+Accession	J3QLT7
+EntryName	J3QLT7_HUMAN
+ProteinName	Nucleolar protein 3
+GeneName	NOL3
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSSPCWPPGPVLAEPSGGWDRGYRDRSYDPPCPGHWTPEAPGSGTTCPGLPRASDPDEAGGPEGSEAVQSGTPEEPEPELEAEASKEAEPEPEPEPELEPEAEAEPEPELEPEPDPEPEPDFEERDESEDS
+PTM	

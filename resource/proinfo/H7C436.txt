@@ -1,0 +1,25 @@
+UniprotID	H7C436
+Accession	H7C436
+EntryName	H7C436_HUMAN
+ProteinName	Diphosphoinositol pentakisphosphate kinase 1
+GeneName	PPIP5K1
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPFVEKPVSAEDHNVYIYYPSSAGGGSQRLFRKIGSRSSVYSPESSVRKTGSYIYEEFMPTDGTDVKGELWAYSVMLCTCRCIQWGQIMPMLKLENLQLWMGRLNETVRGKRFDIQSC
+PTM	

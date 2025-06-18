@@ -1,0 +1,25 @@
+UniprotID	Q9P2T1-3
+Accession	Q9P2T1;D3DS66;Q567T0;Q6IAJ8;Q86T14
+EntryName	GMPR2_HUMAN
+ProteinName	GMP reductase 2 (GMPR 2) (EC 1.7.1.7) (Guanosine 5'-monophosphate oxidoreductase 2) (Guanosine monophosphate reductase 2)
+GeneName	GMPR2
+Length	320
+Function	Catalyzes the irreversible NADPH-dependent deamination of GMP to IMP. It functions in the conversion of nucleobase, nucleoside and nucleotide derivatives of G to A nucleotides, and in maintaining the intracellular balance of A and G nucleotides (PubMed:12009299, PubMed:12669231, PubMed:16359702, PubMed:22037469). Plays a role in modulating cellular differentiation (PubMed:12669231).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHIDNDVKLDFKDVLLRPKRSTLKSRSEVDLTRSFSFRNSKQTYSGVPIIAANMDTVGTFEMAKVLCKHLAASSGTGSSDFEQLEQILEAIPQVKYICLDVANGYSEHFVEFVKDVRKRFPQHTIMAGNVVTGEMVEELILSGADIIKVGIGPGSVCTTRKKTGVGYPQLSAVMECADAAHGLKGHIISDGGCSCPGDVAKAFGAGADFVMLGGMLAGHSESGGELIERDGKKYKLFYGMSSEMAMKKYAGGVAEYRASEGKTVEVPFKGDVEHTIRDILGGIRSTCTYVGAAKLKELSRRTTFIRVTQQVNPIFSEAC
+PTM	Acetylation:13,291,298;Methylation:65,177,323;Phosphorylation:26,28,33,35,37,184,187,188,267,278,285,318,332;SUMOylation:9,13,291;Ubiquitylation:276,277,291,298,325

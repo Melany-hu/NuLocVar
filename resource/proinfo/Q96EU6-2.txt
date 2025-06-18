@@ -1,0 +1,25 @@
+UniprotID	Q96EU6-2
+Accession	Q96EU6;Q9BRF6;Q9P0C8
+EntryName	RRP36_HUMAN
+ProteinName	Ribosomal RNA processing protein 36 homolog
+GeneName	RRP36 C6orf153 HSPC253
+Length	253
+Function	Involved in the early processing steps of the pre-rRNA in the maturation pathway leading to the 18S rRNA.
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	241..244
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	234...239
+validnes_region	
+nesbase_region	
+Sequence	MPGANYRAGAGAGAGARDREEDGGGLEPAAVARDLLRGTSNMSFEELLELQSQVGTKTYKQLVAGNSPKKQASRPPIQNACVADKHRPLEMSAKIRVPFLRQVVPISKKVARDPRFDDLSGEYNPEVFDKTYQFLNDIRAKEKELVKKQLKKHLSGEEHEKLQQLLQRMEQQEMAQQERKQQQELHLALKQERRAQAQQGHRPYFLKKSEQRQLALAEKFKELKRSKKLENFLSRKRRRNAGKDRRHLPLSKE
+PTM	Acetylation:167,225;Methylation:7,91,153,196;Phosphorylation:49,73,98,138;SUMOylation:66,196,214;Ubiquitylation:114,136

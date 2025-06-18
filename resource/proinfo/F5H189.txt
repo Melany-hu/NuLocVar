@@ -1,0 +1,25 @@
+UniprotID	F5H189
+Accession	F5H189
+EntryName	F5H189_HUMAN
+ProteinName	LYR motif containing 4
+GeneName	LYRM4
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	110...115
+validnes_region	
+nesbase_region	
+Sequence	MAASSRAQVLSLYRAMLRESKRFSAYNYRTYAVRRIRDAFRENKNVKDPVEIQTLVNKAKRDLGVIRRQMDSHSVAQAGVHWNDLSSLQPLPPWFKQFSCLSLPSSWDYRRTPPRLANFCILSRDVISLY
+PTM	

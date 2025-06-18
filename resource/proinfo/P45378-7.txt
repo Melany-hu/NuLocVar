@@ -1,0 +1,25 @@
+UniprotID	P45378-7
+Accession	P45378;A8MQ76;A8MSW1;B3KPX3;B7WP64;B7ZL26;B7ZVV9;Q12975;Q12976;Q12977;Q12978;Q17RG9;Q6FH29;Q6N056;Q86TH6
+EntryName	TNNT3_HUMAN
+ProteinName	Troponin T, fast skeletal muscle (TnTf) (Beta-TnTF) (Fast skeletal muscle troponin T) (fTnT)
+GeneName	TNNT3
+Length	250
+Function	Troponin T is the tropomyosin-binding subunit of troponin, the thin filament regulatory complex which confers calcium-sensitivity to striated muscle actomyosin ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDEEVEQVEEQYEEEEEAQEEEEVQEEEKPRPKLTAPKIPEGEKVDFDDIQKKRQNKDLMELQALIDSHFEARKKEEEELVALKERIEKRRAERAEQQRIRAEKERERQNRLAEEKARREEEDAKRRAEDDLKKKKALSSMGANYSSYLAKADQKRGKKQTAREMKKKILAERRKPLNIDHLGEDKLRDKAKELWETLHQLEIDKFEFGEKLKRQKYDITTLRSRIDQAQKHSKKAGTPAKGKVGGRWK
+PTM	Methylation:49,72,104,231;Phosphorylation:2,159,160,166,167;SUMOylation:186

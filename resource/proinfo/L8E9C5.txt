@@ -1,0 +1,25 @@
+UniprotID	L8E9C5
+Accession	L8E9C5
+EntryName	L8E9C5_HUMAN
+ProteinName	Alternative protein IDO2
+GeneName	IDO2
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTDETFHVVPRFANSIVMPLFLEELFSLLTLKICICKMNEWILYK
+PTM	

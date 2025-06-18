@@ -1,0 +1,25 @@
+UniprotID	Q5T4P9
+Accession	Q5T4P9
+EntryName	Q5T4P9_HUMAN
+ProteinName	Pleckstrin homology domain containing O1 (Pleckstrin homology domain containing, family O member 1)
+GeneName	PLEKHO1 hCG_39382 RP11-458I7.3-002
+Length	226
+Function	
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLDLIQEEDPSPEEPTSCAESFRVDLDKSVAQLAGSRRRADSDRIQPSADRASSLSRPWEKTDKGATYTPQAPKKLTPTEKGRCASLEEILSQRDAASARTLQLRAEEPPTPALPNPGQLSRIQDLVARKLEETQELLAEVQGLGDGKRKAKDPPRSPPDSESEQLLLETERLLGEASSNWSQAKRVLQEVRELRDLYRQMDLQTPDSHLRQTTPHSQYRKSLM
+PTM	

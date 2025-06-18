@@ -1,0 +1,25 @@
+UniprotID	F8WC86
+Accession	F8WC86
+EntryName	F8WC86_HUMAN
+ProteinName	LIM zinc finger domain containing 1
+GeneName	LIMS1
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFSGRARPCIIPENEEIPRAALNTVHEANGTEDERAVSKLQRRHSDVKVYKEFCDFYAKFNMANALASATCERCKGGFAPAEKIVNSNGELYHEQCFVCAQCFQQFPEGLFYEERT
+PTM	

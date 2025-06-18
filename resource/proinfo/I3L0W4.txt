@@ -1,0 +1,25 @@
+UniprotID	I3L0W4
+Accession	I3L0W4
+EntryName	I3L0W4_HUMAN
+ProteinName	Spermidine/spermine N1-acetyltransferase family member 2
+GeneName	SAT2
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVRIREAKEGDCGDILRLIRELAEFEKLSDQVKISEEALRADGFGDNPFYHCLVAEILPAPGKLLGQGIGSKIIKKVAEVALDKGCSQFRLAVLDWNQRAMDLYKALGAQDLTEAEGWHFFCFQGEATRKLAGK
+PTM	

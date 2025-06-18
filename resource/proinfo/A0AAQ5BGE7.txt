@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BGE7
+Accession	A0AAQ5BGE7
+EntryName	A0AAQ5BGE7_HUMAN
+ProteinName	Methyl-CpG binding protein 2
+GeneName	MECP2
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAGMLGLRLCSSLTWQTRRSLSSLDALRTLRLASAARASSPKVTPFPGQHPGD
+PTM	

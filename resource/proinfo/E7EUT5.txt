@@ -1,0 +1,25 @@
+UniprotID	E7EUT5
+Accession	E7EUT5
+EntryName	E7EUT5_HUMAN
+ProteinName	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH)
+GeneName	GAPDH
+Length	260
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEMRDPSKIKWGDAGAEYVVESTGVFTTMEKAGAHLQGGAKRVIISAPSADAPMFVMGVNHEKYDNSLKIISNASCTTNCLAPLAKVIHDNFGIVEGLMTTVHAITATQKTVDGPSGKLWRDGRGALQNIIPASTGAAKAVGKVIPELNGKLTGMAFRVPTANVSVVDLTCRLEKPAKYDDIKKVVKQASEGPLKGILGYTEHQVVSSDFNSDTHSSTFDAGAGIALNDHFVKLISWYDNEFGYSNRVVDLMAHMASKE
+PTM	

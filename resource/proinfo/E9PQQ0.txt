@@ -1,0 +1,25 @@
+UniprotID	E9PQQ0
+Accession	E9PQQ0
+EntryName	E9PQQ0_HUMAN
+ProteinName	Zinc finger protein 341
+GeneName	ZNF341
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQAIFEALEGMDNQTVLAVQSLLDGQGAVPDPTGQSVNAPPAIQPLDLHIHHSAPVPTDPDPGAGEHLGER
+PTM	

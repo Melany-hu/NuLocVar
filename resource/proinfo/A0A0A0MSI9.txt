@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MSI9
+Accession	A0A0A0MSI9;A0A0A0MST0
+EntryName	A0A0A0MSI9_HUMAN
+ProteinName	Myeloid differentiation primary response protein MyD88
+GeneName	MYD88
+Length	264
+Function	Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPDRAEAPGPPAMAAGGPGAGSAAPVSSTSSLPLAALNMRVRRRLSLFLNVRTQVAADWTALAEEMDFEYLEIRQLETQADPTGRLLDAWQGRPGASVGRLLELLTKLGRDDVLLELGPSIGHMPERFDAFICYCPSDIQFVQEMIRQLEQTNYRLKLCVSDRDVLPGTCVWSIASELIEKRCRRMVVVVSDDYLQSKECDFQTKFALSLSPGAHQKRLIPIKYKAMKKEFPSILRFITVCDYTNPCTKSWFWTRLAKALSLP
+PTM	

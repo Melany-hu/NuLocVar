@@ -1,0 +1,25 @@
+UniprotID	B0ZBE2
+Accession	B0ZBE2;A0A024R3V3
+EntryName	B0ZBE2_HUMAN
+ProteinName	Angiotensinogen (Serpin A8)
+GeneName	AGT hFLT1 hCG_14741
+Length	485
+Function	Acts directly on vascular smooth muscle as a potent vasoconstrictor, affects cardiac contractility and heart rate through its action on the sympathetic nervous system, and alters renal sodium and water absorption through its ability to stimulate the zona glomerulosa cells of the adrenal cortex to synthesize and secrete aldosterone. Acts by binding to angiotensin receptors AGTR1 and AGTR2. Also binds the DEAR/FBXW7-AS1 receptor.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKRAPQSEMAPAGVSLRATILCLLAWAGLAAGDRVYIHPFHLVIHNESTCEQLAKANAGKPKDPTFIPAPIQAKTSPVDEKALQDQLVLVAAKLDTEDKLRAAMVGMLANFLGFRIYGMHSELWGVVHGATVLSPTAVFGTLASLYLGALDHTADRLQAILGVPWKDKNCTSRLDAHKVLSALQAVQGLLVAQGRADSQAQLLLSTVVGVFTAPGLHLKQPFVQGLALYTPVVLPRSLDFTELDVAAEKIDRFMQAVTGWKTGCSLMGASVDSTLAFNTYVHFQGKMKGFSLLAEPQEFWVDNSTSVSVPMLSGMGTFQHWSDIQDNFSVTQVPFTESACLLLIQPHYASDLDKVEGLTFQQNSLNWMKKLSPRTIHLTMPQLVLQGSYDLQDLLAQAELPAILHTELNLQKLSNDRIRVGEVLNSIFFELEADEREPTESTQQLNKPEVLEVTLNRPFLFAVYDQSATALHFLGRVANPLSTA
+PTM	

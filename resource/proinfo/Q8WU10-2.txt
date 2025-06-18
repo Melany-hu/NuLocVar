@@ -1,0 +1,25 @@
+UniprotID	Q8WU10-2
+Accession	Q8WU10;A6NKI6;B3KWN8;Q9H6P1
+EntryName	PYRD1_HUMAN
+ProteinName	Pyridine nucleotide-disulfide oxidoreductase domain-containing protein 1 (EC 1.8.1.-)
+GeneName	PYROXD1
+Length	429
+Function	Probable FAD-dependent oxidoreductase; involved in the cellular oxidative stress response (PubMed:27745833). Required for normal sarcomere structure and muscle fiber integrity (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Myofibril; Sarcomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGKRFPNIKVIESGVKQLKSEEHCIVTEDGNQHVYKKLCLCAGAKPKLICEGNPYVLGIRDTDSAQEFQKQLTKAKRIMIIGNGGIALELVYEIEGCEVIWAIKDKAIGNTFFDAGAAEFLTSKLIAEKSEAKIAHKRTRYTTEGRKKEARSKSKADNVGSALGPDWHEGLNLKGTKEFSHKIHLETMCEVKKIYLQDEFRILKKKSFTFPRDHKSVTADTEMWPVYVELTNEKIYGCDFIVSATGVTPNVEPFLHGNSFDLGEDGGLKVDDHMHTSLPDIYAAGDICTTSWQLSPVWQQMRLWTQARQMGWYAAKCMAAASSGDSIDMDFSFELFAHVTKFFNYKVVLLGKYNAQGLGSDHELMLRCTKGREYIKVVMQNGRMMGAVLIGETDLEETFENLILNQMNLSSYGEDLLDPNIDIEDYFD
+PTM	Methylation:117,201,246,306,424;Phosphorylation:44;SUMOylation:81,88,91,109,119,196,201,227,246,287;Ubiquitylation:54,75,88,117,142,196,201,227,246

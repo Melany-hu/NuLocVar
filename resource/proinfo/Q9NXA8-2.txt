@@ -1,0 +1,25 @@
+UniprotID	Q9NXA8-2
+Accession	Q9NXA8;B4DFM4;B4DYJ5;F5H5Z9;Q5T294;Q5T295;Q9Y6E6
+EntryName	SIR5_HUMAN
+ProteinName	NAD-dependent protein deacylase sirtuin-5, mitochondrial (EC 2.3.1.-) (Regulatory protein SIR2 homolog 5) (SIR2-like protein 5)
+GeneName	SIRT5 SIR2L5
+Length	299
+Function	NAD-dependent lysine demalonylase, desuccinylase and deglutarylase that specifically removes malonyl, succinyl and glutaryl groups on target proteins (PubMed:21908771, PubMed:22076378, PubMed:24703693, PubMed:29180469). Activates CPS1 and contributes to the regulation of blood ammonia levels during prolonged fasting: acts by mediating desuccinylation and deglutarylation of CPS1, thereby increasing CPS1 activity in response to elevated NAD levels during fasting (PubMed:22076378, PubMed:24703693). Activates SOD1 by mediating its desuccinylation, leading to reduced reactive oxygen species (PubMed:24140062). Activates SHMT2 by mediating its desuccinylation (PubMed:29180469). Modulates ketogenesis through the desuccinylation and activation of HMGCS2 (By similarity). Has weak NAD-dependent protein deacetylase activity; however this activity may not be physiologically relevant in vivo. Can deacetylate cytochrome c (CYCS) and a number of other proteins in vitro such as UOX.
+Subcellular Location	Mitochondrion matrix; Mitochondrion intermembrane space; Cytoplasm; Cytosol; Nucleus; Cytoplasm; Mitochondrion; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPLQIVPSRLISQLYCGLKPPASTRNQICLKMARPSSSMADFRKFFAKAKHIVIISGAGVSAESGVPTFRGAGGYWRKWQAQDLATPLAFAHNPSRVWEFYHYRREVMGSKEPNAGHRAIAECETRLGKQGRRVVVITQNIDELHRKAGTKNLLEIHGSLFKTRCTSCGVVAENYKSPICPALSGKGAPEPGTQDASIPVEKLPRCEEAGCGGLLRPHVVWFGENLDPAILEEVDRELAHCDLCLVVGTSSVVYPAAMFAPQVAARGVPVAEFNTETTPATNRFSHLISISSLIIIKN
+PTM	Phosphorylation:76,96,160;Ubiquitylation:130,203

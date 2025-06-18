@@ -1,0 +1,25 @@
+UniprotID	O95264-2
+Accession	O95264;B0YJ23;Q0VJC3
+EntryName	5HT3B_HUMAN
+ProteinName	5-hydroxytryptamine receptor 3B (5-HT3-B) (5-HT3B) (Serotonin receptor 3B)
+GeneName	HTR3B
+Length	430
+Function	Forms serotonin (5-hydroxytryptamine/5-HT3)-activated cation-selective channel complexes, which when activated cause fast, depolarizing responses in neurons.
+Subcellular Location	Postsynaptic cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIVYFPGILATDTHHPQDSALYHLSKQLLQKYHKEVRPVYNWTKATTVYLDLFVHAILDVDAENQILKTSVWYQEVWNDEFLSWNSSMFDEIREISLPLSAIWAPDIIINEFVDIERYPDLPYVYVNSSGTIENYKPIQVVSACSLETYAFPFDVQNCSLTFKSILHTVEDVDLAFLRSPEDIQHDKKAFLNDSEWELLSVSSTYSILQSSAGGFAQIQFNVVMRRHPLVYVVSLLIPSIFLMLVDLGSFYLPPNCRARIVFKTSVLVGYTVFRVNMSNQVPRSVGSTPLIGHFFTICMAFLVLSLAKSIVLVKFLHDEQRGGQEQPFLCLRGDTDADRPRVEPRAQRAVVTESSLYGEHLAQPGTLKEVWSQLQSISNYLQTQDQTDQQEAEWLVLLSRFDRLLFQSYLFMLGIYTITLCSLWALWGGV
+PTM	Methylation:42,79,325,379

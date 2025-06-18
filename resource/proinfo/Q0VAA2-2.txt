@@ -1,0 +1,25 @@
+UniprotID	Q0VAA2-2
+Accession	Q0VAA2;Q6ZUG6;Q9Y627
+EntryName	LR74A_HUMAN
+ProteinName	Leucine-rich repeat-containing protein 74A (Leucine-rich repeat-containing protein 74)
+GeneName	LRRC74A C14orf166B LRRC74
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVVPVSYFIRNMEESYVNLNHHGLGPRGTKAIAIALVSNMAVTKLELEDNCIMEEGVLSLVEMLQENYYLQEMNISNNHLGLEGARIISDFFERNSSSIWSLELSGNDFKEDSAALLCQALSTNYQIKKLDLSHNQFSDVGGEHLGQMLAINVGLTSLDLSWNNFHTRGAVALCNGLRGKSSDSTAAWSTWISVAMTSAMKGPPKSAKDWNPMKASEF
+PTM	Acetylation:469,470;Methylation:137,355,403,456,469;Phosphorylation:439,443

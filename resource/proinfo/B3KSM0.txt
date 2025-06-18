@@ -1,0 +1,25 @@
+UniprotID	B3KSM0
+Accession	B3KSM0
+EntryName	B3KSM0_HUMAN
+ProteinName	Transmembrane BAX inhibitor motif containing 1 (cDNA FLJ36592 fis, clone TRACH2014046, highly similar to Transmembrane BAX inhibitor motif-containing protein 1) (cDNA FLJ54055, highly similar to Transmembrane BAX inhibitor motif-containing protein 1)
+GeneName	TMBIM1
+Length	137
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFMTGTISSMYQTKAVIIAMIITAVVSISVTIFCFQTKVDFTSCTGLFCVLGIVLLVTGIVTSIVLYFQYVYWLHMLYAALGAICFTLFLAYDTQLVLGNRKHTISPEDYITGALQIYTDIIYIFTFVLQLMGDRN
+PTM	

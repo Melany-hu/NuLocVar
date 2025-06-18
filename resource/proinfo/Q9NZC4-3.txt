@@ -1,0 +1,25 @@
+UniprotID	Q9NZC4-3
+Accession	Q9NZC4;D3DR08;D3DR10;E9PSB2;Q9H509;Q9UKF9;Q9Y5V4;Q9Y5V5
+EntryName	EHF_HUMAN
+ProteinName	ETS homologous factor (hEHF) (ETS domain-containing transcription factor) (Epithelium-specific Ets transcription factor 3) (ESE-3)
+GeneName	EHF ESE3 ESE3B ESEJ
+Length	322
+Function	Transcriptional activator that may play a role in regulating epithelial cell differentiation and proliferation. May act as a repressor for a specific subset of ETS/AP-1-responsive genes and as a modulator of the nuclear response to mitogen-activated protein kinase signaling cascades. Binds to DNA sequences containing the consensus nucleotide core sequence GGAA. Involved in regulation of TNFRSF10B/DR5 expression through Ets-binding sequences on the TNFRSF10B/DR5 promoter. May contribute to development and carcinogenesis by acting as a tumor suppressor gene or anti-oncogene.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	231...235
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPERRGLVLLLSLAEILFKIMILEGGGVMNLNPGNNLLHQPPAWTDSYSTCNVSSGFFGGQWHEIHPQYWTKYQVWEWLQHLLDTNQLDANCIPFQEFDINGEHLCSMSLQEFTRAAGTAGQLLYSNLQHLKWNGQCSSDLFQSTHNVIVKTEQTEPSIMNTWKDENYLYDTNYGSTVDLLDSKTFCRAQISMTTTSHLPVAESPDMKKEQDPPAKCHTKKHNPRGTHLWEFIRDILLNPDKNPGLIKWEDRSEGVFRFLKSEAVAQLWGKKKNNSSMTYEKLSRAMRYYYKREILERVDGRRLVYKFGKNARGWRENEN
+PTM	Acetylation:196;Methylation:112,131,228;Phosphorylation:184,257,259,260

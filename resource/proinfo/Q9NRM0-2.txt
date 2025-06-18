@@ -1,0 +1,25 @@
+UniprotID	Q9NRM0-2
+Accession	Q9NRM0;Q0VGC4;Q4W5D1;Q8WV30;Q96P00
+EntryName	GTR9_HUMAN
+ProteinName	Solute carrier family 2, facilitated glucose transporter member 9 (Glucose transporter type 9) (GLUT-9) (Urate transporter)
+GeneName	SLC2A9 GLUT9
+Length	511
+Function	High-capacity urate transporter, which may play a role in the urate reabsorption by proximal tubules (PubMed:18327257, PubMed:18701466, PubMed:22647630, PubMed:28083649, PubMed:36749388). May have a residual high-affinity, low-capacity glucose and fructose transporter activity (PubMed:18327257, PubMed:18701466, PubMed:18842065). Transports urate at rates 45- to 60-fold faster than glucose (PubMed:18842065). Does not transport galactose (PubMed:28083649). May mediate small uptake of adenine but not of other nucleobases (PubMed:22647630).
+Subcellular Location	Cell membrane; Basolateral cell membrane; Cell membrane; Apical cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLSKKDRGEDEESDSAKKKLDWSCSLLVASLAGAFGSSFLYGYNLSVVNAPTPYIKAFYNESWERRHGRPIDPDTLTLLWSVTVSIFAIGGLVGTLIVKMIGKVLGRKHTLLANNGFAISAALLMACSLQAGAFEMLIVGRFIMGIDGGVALSVLPMYLSEISPKEIRGSLGQVTAIFICIGVFTGQLLGLPELLGKESTWPYLFGVIVVPAVVQLLSLPFLPDSPRYLLLEKHNEARAVKAFQTFLGKADVSQEVEEVLAESRVQRSIRLVSVLELLRAPYVRWQVVTVIVTMACYQLCGLNAIWFYTNSIFGKAGIPPAKIPYVTLSTGGIETLAAVFSGLVIEHLGRRPLLIGGFGLMGLFFGTLTITLTLQDHAPWVPYLSIVGILAIIASFCSGPGGIPFILTGEFFQQSQRPAAFIIAGTVNWLSNFAVGLLFPFIQKSLDTYCFLVFATICITGAIYLYFVLPETKNRTYAEISQAFSKRNKAYPPEEKIDSAVTDGKINGRP
+PTM	Glycosylation:90;Methylation:129,133,195,227,263,345;Phosphorylation:9,298,303,515;Ubiquitylation:263

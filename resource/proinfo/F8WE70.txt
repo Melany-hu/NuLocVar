@@ -1,0 +1,25 @@
+UniprotID	F8WE70
+Accession	F8WE70
+EntryName	F8WE70_HUMAN
+ProteinName	Serpin family B member 13
+GeneName	SERPINB13
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSLGAVSTRLGFDLFKELKKTNDGNIFFSPVGILTAIGMVLLGTRGATASQLEEVFHSEKETKSSRIKAEEKEIENTEAVHQQFQKFLTEISKLTNDYELNITNRLFGEKTYLFLQKYLDYVEKYYHASLEPVDFVNAADESRKKINSWVESKTNDVETEAQRV
+PTM	

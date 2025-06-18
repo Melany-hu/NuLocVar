@@ -1,0 +1,25 @@
+UniprotID	Q13950-3
+Accession	Q13950;O14614;O14615;O95181
+EntryName	RUNX2_HUMAN
+ProteinName	Runt-related transcription factor 2 (Acute myeloid leukemia 3 protein) (Core-binding factor subunit alpha-1) (CBF-alpha-1) (Oncogene AML-3) (Osteoblast-specific transcription factor 2) (OSF-2) (Polyomavirus enhancer-binding protein 2 alpha A subunit) (PEA2-alpha A) (PEBP2-alpha A) (SL3-3 enhancer factor 1 alpha A subunit) (SL3/AKV core-binding factor alpha A subunit)
+GeneName	RUNX2 AML3 CBFA1 OSF2 PEBP2A
+Length	499
+Function	Transcription factor involved in osteoblastic differentiation and skeletal morphogenesis (PubMed:28505335, PubMed:28703881, PubMed:28738062). Essential for the maturation of osteoblasts and both intramembranous and endochondral ossification. CBF binds to the core site, 5'-PYGPYGGT-3', of a number of enhancers and promoters, including murine leukemia virus, polyomavirus enhancer, T-cell receptor enhancers, osteocalcin, osteopontin, bone sialoprotein, alpha 1(I) collagen, LCK, IL-3 and GM-CSF promoters. In osteoblasts, supports transcription activation: synergizes with SPEN/MINT to enhance FGFR2-mediated activation of the osteocalcin FGF-responsive element (OCFRE) (By similarity). Inhibits KAT6B-dependent transcriptional activation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASNSLFSTVTPCQQNFFWDPSTSRRFSPPSSSLQPGKMSDVSPVVAAQQQQQQQQQQQQQQQQQQQQQQQEAAAAAAAAAAAAAAAAAVPRLRPPHDNRTMVEIIADHPAELVRTDSPNFLCSVLPSHWRCNKTLPVAFKVVALGEVPDGTVVTVMAGNDENYSAELRNASAVMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKVTVDGPREPRRHRQKLDDSKPSLFSDRLSDLGRIPHPSMRVGVPPQNPRPSLNSAPSPFNPQGQSQITDPRQAQSSPPWSYDQSYPSYLSQMTSPSIHSTTPLSSTRGTGLPAITDVPRRISGASELGPFSDPRQFPSISSLTESRFSNPRMHYPATFTYTPPVTSGMSLGMSATTHYHTYLPPPYPGSSQSQSGPFQTSSTPYLYYGTSSGSYQFPMVPGGDRSPSRMLPPCTTTSNGSTLLNPNLPNQNDGVDADGSHSSSPTVLNSSGRMDESVWRPY
+PTM	Acetylation:238;Methylation:337,386;Phosphorylation:28,31,32,33,240,247,269,272,275,283,286,293,294,340,344,347,383;SUMOylation:176,238

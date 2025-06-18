@@ -1,0 +1,25 @@
+UniprotID	Q6XYB7-2
+Accession	Q6XYB7;Q7Z5Y8
+EntryName	LBX2_HUMAN
+ProteinName	Transcription factor LBX2 (Ladybird homeobox 2) (Ladybird homeobox protein homolog 2)
+GeneName	LBX2 LP3727
+Length	194
+Function	Transcription factor.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	80...85
+validnes_region	
+nesbase_region	
+Sequence	MGKRTSLEVSLGELGGEKCRGGRRSFPPLAASRPARPGGWRWARRDLCKTASRAENNSQACRPQRRAGPDALGPGPFGRKRRKSRTAFTAQQVLELERRFVFQKYLAPSERDGLATRLGLANAQVVTWFQNRRAKLKRDVEEMRADVASLRALSPEVLCSLALPEGAPDPGLCLGPAGPDSRPHLSDEEIQVDD
+PTM	Methylation:108;Phosphorylation:55,88

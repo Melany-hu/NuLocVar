@@ -1,0 +1,25 @@
+UniprotID	A0A087WW72
+Accession	A0A087WW72
+EntryName	A0A087WW72_HUMAN
+ProteinName	RAD54 like
+GeneName	RAD54L
+Length	75
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADEMGLGKTLQCITLMWTLLRQSPECKPEIDKAVVVSPSSLVKNWYNEVGKWLGGRIQPLAIDGGSKDEIDQKL
+PTM	

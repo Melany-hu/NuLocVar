@@ -1,0 +1,25 @@
+UniprotID	P60201-2
+Accession	P60201;P04400;P06905;Q502Y1;Q6FHZ6
+EntryName	MYPR_HUMAN
+ProteinName	Myelin proteolipid protein (PLP) (Lipophilin)
+GeneName	PLP1 PLP
+Length	242
+Function	This is the major myelin protein from the central nervous system. It plays an important role in the formation or maintenance of the multilamellar structure of myelin.
+Subcellular Location	Cell membrane; Myelin membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLECCARCLVGAPFASLVATGLCFFGVALFCGCGHEALTGTEKLIETYFSKNYQDYEYLINVIHAFQYVIYGTASFFFLYGALLLAEGFYTTGAVRQIFGDYKTTICGKGLSATFVGITYALTVVWLLVFACSAVPVYIYFNTWTTCQSIAFPSKTSASIGSLCADARMYGVLPWNAFPGKVCGSNLLSICKTAEFQMTFHLFIAAFVGAAATLVSLLTFMIAATYNFAVLKLMGRGTKF
+PTM	Phosphorylation:114,116,118,126,193,194;Ubiquitylation:105,111,122,218

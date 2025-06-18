@@ -1,0 +1,25 @@
+UniprotID	Q13268-2
+Accession	Q13268;D3DS54;Q53GS4;Q7Z789;Q9H2R2
+EntryName	DHRS2_HUMAN
+ProteinName	Dehydrogenase/reductase SDR family member 2, mitochondrial (EC 1.1.1.-) (Dicarbonyl reductase HEP27) (Protein D) (Short chain dehydrogenase/reductase family 25C member 1) (Protein SDR25C1)
+GeneName	DHRS2 SDR25C1
+Length	300
+Function	NADPH-dependent oxidoreductase which catalyzes the reduction of dicarbonyl compounds. Displays reductase activity in vitro with 3,4-hexanedione, 2,3-heptanedione and 1-phenyl-1,2-propanedione as substrates (PubMed:16685466). May function as a dicarbonyl reductase in the enzymatic inactivation of reactive carbonyls involved in covalent modification of cellular components (PubMed:16685466). Also displays a minor hydroxysteroid dehydrogenase activity toward bile acids such as ursodeoxycholic acid (UDCA) and isoursodeoxycholic acid (isoUDCA), which makes it unlikely to control hormone levels (PubMed:16685466). Doesn't show any activity in vitro with retinoids and sugars as substrates (PubMed:16685466). Attenuates MDM2-mediated p53/TP53 degradation, leading to p53/TP53 stabilization and increased transcription activity, resulting in the accumulation of MDM2 and CDKN1A/p21 (PubMed:20547751). Reduces proliferation, migration and invasion of cancer cells and well as the production of ROS in cancer (PubMed:29106393).
+Subcellular Location	Mitochondrion matrix; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSAVARGYQGWFHPCARLSVRMSSTGIDRKGVLANRVAVVTGSTSGIGFAIARRLARDGAHVVISSRKQQNVDRAMAKLQGEGLSVAGIVCHVGKAEDREQLVAKALEHCGGVDFLVCSAGVNPLVGSTLGTSEQIWDKILSVNVKSPALLLSQLLPYMENRRGAVILVSSIAAYNPVVALGVYNVSKTALLGLTRTLALELAPKDIRVNCVVPGIIKTDFSKVVRIGFMGMSLSGRTSRNIISCRGLGSQRTVQESCPSCALQMPATSTGRTLRWQATPLGSERSGGGCVAVVPGPGA
+PTM	Acetylation:79,96,206,219,224,234;Methylation:79,219;Phosphorylation:25,45,67,196,231;SUMOylation:31,79,96,206,219,224,234,237;Ubiquitylation:206,219,224,234,237

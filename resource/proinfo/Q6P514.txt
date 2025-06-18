@@ -1,0 +1,25 @@
+UniprotID	Q6P514
+Accession	Q6P514
+EntryName	Q6P514_HUMAN
+ProteinName	ZNF468 protein
+GeneName	ZNF468
+Length	98
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNVARFLIKKQPLHITIDFILERNLTNGRNVTKVFSCKSNLKTHKKIHIEEKPYRGKVCDKVFAYNAYLAKHTRIHTGEKLIISVMSVARPLVKIHTL
+PTM	

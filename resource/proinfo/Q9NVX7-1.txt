@@ -1,0 +1,25 @@
+UniprotID	Q9NVX7-1
+Accession	Q9NVX7;A0A075B6T4;B3KRH9;D3DQS1;D3DQS2;Q6IA85;Q9BUC3;Q9NV76
+EntryName	KBTB4_HUMAN
+ProteinName	Kelch repeat and BTB domain-containing protein 4 (BTB and kelch domain-containing protein 4)
+GeneName	KBTBD4 BKLHD4
+Length	518
+Function	Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex which targets CoREST corepressor complex components RCOR1, KDM1A/LSD1 and HDAC2 for proteasomal degradation (PubMed:33417871). RCOR1 is likely to be the primary target while degradation of KDM1A and HDAC2 is likely due to their association with RCOR1 (PubMed:33417871). Also targets RCOR3, MIER2 and MIER3 for proteasomal degradation as well as associated proteins ZNF217 and RREB1 (PubMed:36997086). Degradation is dependent on the presence of an ELM2 domain in the target proteins (PubMed:36997086).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESPEEPGASMDENYFVNYTFKDRSHSGRVAQGIMKLCLEEELFADVTISVEGREFQLHRLVLSAQSCFFRSMFTSNLKEAHNRVIVLQDVSESVFQLLVDYIYHGTVKLRAEELQEIYEVSDMYQLTSLFEECSRFLARTVQVGNCLQVMWLADRHSDPELYTAAKHCAKTHLAQLQNTEEFLHLPHRLLTDIISDGVPCSQNPTEAIEAWINFNKEEREAFAESLRTSLKEIGENVHIYLIGKESSRTHSLAVSLHCAEDDSISVSGQNSLCHQITAACKHGGDLYVVGGSIPRRMWKCNNATVDWEWCAPLPRDRLQHTLVSVPGKDAIYSLGGKTLQDTLSNAVIYYRVGDNVWTETTQLEVAVSGAAGANLNGIIYLLGGEENDLDFFTKPSRLIQCFDTETDKCHVKPYVLPFAGRMHAAVHKDLVFIVAEGDSLVCYNPLLDSFTRLCLPEAWSSAPSLWKIASCNGSIYVFRDRYKKGDANTYKLDPATSAVTVTRGIKVLLTNLQFVLA
+PTM	Methylation:217,245,338;Phosphorylation:3,20,350,351,501,503;SUMOylation:329,492;Ubiquitylation:167,217,232,329,338,409,492

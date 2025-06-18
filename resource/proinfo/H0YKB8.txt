@@ -1,0 +1,25 @@
+UniprotID	H0YKB8
+Accession	H0YKB8
+EntryName	H0YKB8_HUMAN
+ProteinName	Tripartite motif containing 69
+GeneName	TRIM69
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EQCLLAKDMLDITTLLHSLEQGMKVLATRELISRKLNLGQYKGPIQYMVWREMQDTLCPGLSPLTLDPKTAHPNLVLSKSQTSVWHGDIKKIMPDDPERFDSSVAVLGSRGFTSGKWYWEVEVAKKTKWT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YN84
+Accession	H0YN84
+EntryName	H0YN84_HUMAN
+ProteinName	Protein phosphatase 2 regulatory subunit B'gamma
+GeneName	PPP2R5C
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LAKCVSSPHFQVAERALYYWNNEYIMSLISDNAAKILPIMFPSLYRNSKTHWNKTIHGLIYNALKLFMEMNQKLFDDCTQQFKAEKLKS
+PTM	

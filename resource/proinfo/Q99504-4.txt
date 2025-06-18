@@ -1,0 +1,25 @@
+UniprotID	Q99504-4
+Accession	Q99504;A8K190;B4DIR7;B4DNZ7;O95463;Q8IVX7;Q99813
+EntryName	EYA3_HUMAN
+ProteinName	Protein phosphatase EYA3 (EC 3.1.3.48) (Eyes absent homolog 3)
+GeneName	EYA3
+Length	520
+Function	Tyrosine phosphatase that specifically dephosphorylates 'Tyr-142' of histone H2AX (H2AXY142ph). 'Tyr-142' phosphorylation of histone H2AX plays a central role in DNA repair and acts as a mark that distinguishes between apoptotic and repair responses to genotoxic stress. Promotes efficient DNA repair by dephosphorylating H2AX, promoting the recruitment of DNA repair complexes containing MDC1 (PubMed:19234442, PubMed:19351884). Its function as histone phosphatase probably explains its role in transcription regulation during organogenesis. Coactivates SIX1, and seems to coactivate SIX2, SIX4 and SIX5. The repression of precursor cell proliferation in myoblasts by SIX1 is switched to activation through recruitment of EYA3 to the SIX1-DACH1 complex and seems to be dependent on EYA3 phosphatase activity (By similarity). May be involved in development of the eye.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	235...240;234...239
+validnes_region	
+nesbase_region	
+Sequence	MTCTDYIPRSSNDYTSQMYSAKPYAHILSVPVSETAYPGQTQYQTLQQTQPYAVYPQATQTYGLPPFGALWPGMKPESGLIQTPSPSQHSVLTCTTGLTTSQPSPAHYSYPIQASSTNASLISTSSTIANIPAAAVASISNQDYPTYTILGQNQYQACYPSSSFGVTGQTNSDAESTTLAATTYQSEKPSVMAPAPAAQRLSSGDPSTSPSLSQTTPSKDTDDQSRKNMTSKNRGKRKADATSSQDSELERVFLWDLDETIIIFHSLLTGSYAQKYGKDPTVVIGSGLTMEEMIFEVADTHLFFNDLEECDQVHVEDVASDDNGQDLSNYSFSTDGFSGSGGSGSHGSSVGVQGGVDWMRKLAFRYRKVREIYDKHKSNVGGLLSPQRKEALQRLRAEIEVLTDSWLGTALKSLLLIQSRKNCVNVLITTTQLVPALAKVLLYGLGEIFPIENIYSATKIGKESCFERIVSRFGKKVTYVVIGDGRDEEIAAKQHNMPFWRITNHGDLVSLHQALELDFL
+PTM	Acetylation:13;Methylation:241,430,465,512;Phosphorylation:59,255,256,260,261,262,264,266,268,269,271,274,296,297,431,438,472;SUMOylation:13,16,37,241,272,280,291,430,442,512,529;Ubiquitylation:428,512,515,529,546

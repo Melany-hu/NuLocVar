@@ -1,0 +1,25 @@
+UniprotID	P29376-5
+Accession	P29376;A6NNJ8;B4DL89;E9PFX4
+EntryName	LTK_HUMAN
+ProteinName	Leukocyte tyrosine kinase receptor (EC 2.7.10.1) (Protein tyrosine kinase 1)
+GeneName	LTK TYK1
+Length	734
+Function	Receptor with a tyrosine-protein kinase activity (PubMed:10445845, PubMed:20548102, PubMed:30061385). Following activation by ALKAL1 or ALKAL2 ligands at the cell surface, transduces an extracellular signal into an intracellular response (PubMed:30061385, PubMed:34646012). Ligand-binding to the extracellular domain induces tyrosine kinase activation, leading to activation of the mitogen-activated protein kinase (MAPK) pathway (PubMed:20548102). Phosphorylates almost exclusively at the first tyrosine of the Y-x-x-x-Y-Y motif (By similarity). The exact function of this protein is not known; studies with chimeric proteins demonstrate its ability to promote growth and specifically neurite outgrowth, and cell survival (PubMed:18849880, PubMed:9223670). Involved in regulation of the secretory pathway involving endoplasmic reticulum (ER) export sites (ERESs) and ER to Golgi transport (PubMed:20548102).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCWGQLLVWFGAAGAILCSSPGSQETFLRSSPLPLASPSPRDPKVSAPPSILEPASPLNSPGTEGSWLFSTCGASGRHGPTQTQCDGAYAGTSVVVTVGAAGQLRGVQLWRVPGPGQYLISAYGAAGGKGAKNHLSRAHGVFVSAIFSLGLGESLYILVGQQGEDACPGGSPESQLVCLGESRAVEEHAAMDGSEGVPGSRRWAGGGGGGGGATYVFRVRAGELEPLLVAAGGGGRAYLRPRDRGRTQASPEKLENRSEAPGSGGRGGAAGGDASETDNLWADGEDGVSFIHPSSELFLQPLAVTENHGEVEIRRHLNCSHCPLRDCQWQAELQLAECLCPEGMELAVDNVTCMDLHKPPGPLVLMVAVVATSTLSLLMVCGVLILGGAWPGPVLASATRCHRGFPSQCYSAQTLPELCSPQDELDFLMEALIISKFRHQNIVRCVGLSLRATPRLILLELMSGGDMKSFLRHSRPHLGQPSPLVMRDLLQLAQDIAQGCHYLEENHFIHRDIAARNCLLSCAGPSRVAKIGDFGMARDIYRASYYRRGDRALLPVKWMPPEAFLEGIFTSKTDSWSFGVLLWEIFSLGYMPYPGRTNQEVLDFVVGGGRMDPPRGCPGPVYRIMTQCWQHEPELRPSFASILERLQYCTQDPDVLNSLLPMELGPTPEEEGTSGLGNRSLECLRPPQPQELSPEKLKSWGGSPLGPWLSSGLKPLKSRGLQPQNLWNPTYRS
+PTM	Glycosylation:38;Methylation:450,567,845;Phosphorylation:40

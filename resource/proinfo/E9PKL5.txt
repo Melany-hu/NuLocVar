@@ -1,0 +1,25 @@
+UniprotID	E9PKL5
+Accession	E9PKL5
+EntryName	E9PKL5_HUMAN
+ProteinName	FOS like 1, AP-1 transcription factor subunit
+GeneName	FOSL1
+Length	135
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRDFGEPGPSSGNGGGYGGPAQPPAAAQAAQQKFHLVPSINTMSGSQELQWMVQPHFLGPSSYPRPLTYPQYSPPQPRPGVIRALGPPPGVRRRPCEQPGGRGAPPSKARAEQAGCGQVQEPEEGTDRLPAGGD
+PTM	

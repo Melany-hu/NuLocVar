@@ -1,0 +1,25 @@
+UniprotID	Q96C03-3
+Accession	Q96C03;J3KPT3;Q6ZRD4;Q96N07
+EntryName	MID49_HUMAN
+ProteinName	Mitochondrial dynamics protein MID49 (Mitochondrial dynamics protein of 49 kDa) (Mitochondrial elongation factor 2) (Smith-Magenis syndrome chromosomal region candidate gene 7 protein)
+GeneName	MIEF2 MID49 SMCR7
+Length	465
+Function	Mitochondrial outer membrane protein involved in the regulation of mitochondrial organization (PubMed:29361167). It is required for mitochondrial fission and promotes the recruitment and association of the fission mediator dynamin-related protein 1 (DNM1L) to the mitochondrial surface independently of the mitochondrial fission FIS1 and MFF proteins. Regulates DNM1L GTPase activity.
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSPNLDRQTMAEFSQKRGKRRSDEGLGSMVDFLLANARLVLGVGGAAVLGIATLAVKRFIDRATSPRDEDDTKADSWKELSLLKATPHLQPRPPPAALSQPVLPLAPSSSAPEGPAETDPEVTPQLSSPAPLCLTLQERLLAFERDRVTIPAAQVALAKQLAGDIALELQAYFRSKFPELPFGAFVPGGPLYDGLQAGAADHVRLLVPLVLEPGLWSLVPGVDTVARDPRCWAVRRTQLEFCPRGSSPWDRFLVGGYLSSRVLLELLRKALAASVNWPAIGSLLGCLIRPSMASEELLLEVQHERLELTVAVLVAVPGVDADDRLLLAWPLEGLAGNLWLQDLYPVEAARLRALDDHDAGTRRRLLLLLCAVCRGCSALGQLGRGHLTQVVLRLGEDNVDWTEEALGERFLQALELLIGSLEQASLPCHFNPSVNLFSSLREEEIDDIGYALYSGLQEPEGLL
+PTM	Methylation:75,260;Phosphorylation:67,72,250,251,368,430;Ubiquitylation:64,69

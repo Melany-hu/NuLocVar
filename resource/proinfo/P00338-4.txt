@@ -1,0 +1,25 @@
+UniprotID	P00338-4
+Accession	P00338;B4DKQ2;B7Z5E3;D3DQY3;F8W819;Q53G53;Q6IBM7;Q6ZNV1;Q9UDE8;Q9UDE9
+EntryName	LDHA_HUMAN
+ProteinName	L-lactate dehydrogenase A chain (LDH-A) (EC 1.1.1.27) (Cell proliferation-inducing gene 19 protein) (LDH muscle subunit) (LDH-M) (Renal carcinoma antigen NY-REN-59)
+GeneName	LDHA PIG19
+Length	274
+Function	Interconverts simultaneously and stereospecifically pyruvate and lactate with concomitant interconversion of NADH and NAD(+).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLKDQLIYNLLKEEQTPQNKITVVGVGAVGMACAISILMKDLADELALVDVIEDKLKGEMMDLQHGSLFLRTPKIVSGKVDILTYVAWKISGFPKNRVIGSGCNLDSARFRYLMGERLGVHPLSCHGWVLGEHGDSSVPVWSGMNVAGVSLKTLHPDLGTDKDKEQWKEVHKQVVESAYEVIKLKGYTSWAIGLSVADLAESIMKNLRRVHPVSTMIKGLYGIKDDVFLSVPCILGQNGISDLVKVTLTSEEEARLKKSADTLWGIQKELQF
+PTM	Acetylation:5,14,57,59,76,81,118,126,222,224,228,232,243,278,284,318,328;Methylation:14,22,42,57,59,73,81,90,118,126,132,149,155,222,224,228,232,243,265,278,284,305,315,317;Phosphorylation:10,18,69,79,83,86,89,95,127,128,161,167,172,213,237,239,274,307,309,310,319,322;SUMOylation:5,14,57,59,76,81,118,126,212,224,228,278;Ubiquitylation:5,14,57,59,76,81,90,118,126,155,222,224,228,232,243,245,278,284,318,328

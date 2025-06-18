@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JQH3
+Accession	A0A0G2JQH3
+EntryName	A0A0G2JQH3_HUMAN
+ProteinName	Cytoplasmic FMR1 interacting protein 1
+GeneName	CYFIP1
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYTSEEKFALVEVIAMIKGLQVLMGRMESVFNHAIRHTVYAALQDFSQVTLREPLRQAIKKKKNVIQSVLQAIRKTVCDWETGHEPFNDPALRGEKDPKSGFDIKVPRRAVGPSSTQLYLVRTMAESLGSAELLRQLKSLGMERLLHAVNTFLRQSCTYLPLLTFGETLQQCCDLSQLWFREFFL
+PTM	

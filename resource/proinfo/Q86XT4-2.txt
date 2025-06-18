@@ -1,0 +1,25 @@
+UniprotID	Q86XT4-2
+Accession	Q86XT4;Q2M204;Q86XT3
+EntryName	TRI50_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM50 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM50) (Tripartite motif-containing protein 50)
+GeneName	TRIM50 TRIM50A
+Length	486
+Function	E3 ubiquitin-protein ligase that ubiquitinates Beclin-1/BECN1 in a 'Lys-63'-dependent manner enhancing its binding to ULK1 (PubMed:29604308). In turn, promotes starvation-induced autophagy activation. Also interacts with p62/SQSTM1 protein and thereby induces the formation and the autophagy clearance of aggresome-associated polyubiquitinated proteins through HDAC6 interaction (PubMed:22792322). Also promotes NLRP3 inflammasome activation by directly inducing NLRP3 oligomerization independent of its E3 ligase function (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWQVSLPELEDRLQCPICLEVFKEPLMLQCGHSYCKGCLVSLSCHLDAELRCPVCRQAVDGSSSLPNVSLARVIEALRLPGDPEPKVCVHHRNPLSLFCEKDQELICGLCGLLGSHQHHPVTPVSTVYSRMKEELAALISELKQEQKKVDELIAKLVNNRTRIVNESDVFSWVIRREFQELHHLVDEEKARCLEGIGGHTRGLVASLDMQLEQAQGTRERLAQAECVLEQFGNEDHHKFIRFHSMASRAEMPQARPLEGAFSPISFKPGLHQADIKLTVWKRLFRKVLPAPEPLKLDPATAHPLLELSKGNTVVQCGLLAQRRASQPERFDYSTCVLASRGFSCGRHYWEVVVGSKSDWRLGVIKGTASRKGKLNRSPEHGVWLIGLKEGRVYEAFACPRVPLPVAGHPHRIGLYLHYEQGELTFFDADRPDDLRPLYTFQADFQGKLYPILDTCWHERGSNSLPMVLPPPSGPGPLSPEQPTKL
+PTM	Methylation:156,367;Phosphorylation:267

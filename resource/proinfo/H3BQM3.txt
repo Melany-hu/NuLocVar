@@ -1,0 +1,25 @@
+UniprotID	H3BQM3
+Accession	H3BQM3
+EntryName	H3BQM3_HUMAN
+ProteinName	Autocrine motility factor receptor
+GeneName	AMFR
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLVAKLIQCIVFGPLRVSERQHLKDKFWNFIFYKFIFIFGVLNVQTVEEVVMWCLWFAGLVFLHLMVQLCKDRFEYLSFSPTTPMSSHGRVLSLLVAMLLSCCGLAAVCSITGYTHGMHTLAFMAAESLLVTVRTAHVILRYVIHLWDLNHEGTWEGKGTYVYYT
+PTM	

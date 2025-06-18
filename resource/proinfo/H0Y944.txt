@@ -1,0 +1,25 @@
+UniprotID	H0Y944
+Accession	H0Y944
+EntryName	H0Y944_HUMAN
+ProteinName	Calpastatin (Calpain inhibitor)
+GeneName	CAST
+Length	288
+Function	Specific inhibition of calpain (calcium-dependent cysteine protease). Plays a key role in postmortem tenderization of meat and have been proposed to be involved in muscle protein degradation in living tissue.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	207...212;134...138
+validnes_region	
+nesbase_region	
+Sequence	GEVPSAMIVSFLRPSQPFRTHVSEKTSESPSKPGEKKGSDEKKAASLGSSQSSRTYAGGTASATKVSASSGATSKSSSMNPTETKAIPVSQQMEGPHLPNKKKHKKQAVKTEPEKKSQSTKLSVVHEKKSQEGKPKEHTEPKSLPKQASDTGSNDAHNKKAVSRSAEQQPSEKSTEPKTKPQDMISAGGESVAGITAISGKPGDKKKEKKSLTPAVPVESKPDKPSGKSGMDAALDDLIDTLGGPEETEEENTTYTGPEVSDPMSSTYIEELGKREVTIPPKYRELLA
+PTM	

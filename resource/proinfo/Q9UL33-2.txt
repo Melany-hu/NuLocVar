@@ -1,0 +1,25 @@
+UniprotID	Q9UL33-2
+Accession	Q9UL33;B2R4M9;Q6ZTA7;Q9NZZ4
+EntryName	TPC2L_HUMAN
+ProteinName	Trafficking protein particle complex subunit 2-like protein
+GeneName	TRAPPC2L HSPC126
+Length	139
+Function	Plays a role in vesicular transport from endoplasmic reticulum to Golgi.
+Subcellular Location	Cytoplasm; Perinuclear region; Endoplasmic reticulum; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVCIAVIAKENYPLYIRSTPTENELKFHYMVHTSLDVVDEKISAMGKALVDQRELYLGLLYPTEDYKVYGYVTNSKVKFVMVVDSSNTALRDNEIRSMFRKLHNSYTDVMCNPFYNPGDRIQSRAFDNMVTSMMIQVC
+PTM	Acetylation:77;Methylation:27;Phosphorylation:57,89;SUMOylation:48,68;Ubiquitylation:48,77,102

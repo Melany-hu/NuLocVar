@@ -1,0 +1,25 @@
+UniprotID	Q9Y5X0-2
+Accession	Q9Y5X0;E9PFH5;Q8IYT5
+EntryName	SNX10_HUMAN
+ProteinName	Sorting nexin-10
+GeneName	SNX10
+Length	117
+Function	Probable phosphoinositide-binding protein involved in protein sorting and membrane trafficking in endosomes. Plays a role in cilium biogenesis through regulation of the transport and the localization of proteins to the cilium. Required for the localization to the cilium of V-ATPase subunit ATP6V1D and ATP6V0D1, and RAB8A. Involved in osteoclast differentiation and therefore bone resorption.
+Subcellular Location	Cytoplasm; Endosome membrane; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNRQHVDQRRQGLEDFLRKVLQNALLLSDSSLHLFLQSHLNSEDIEACVSGQTKYSVEEAIHKFALMNRRFPEEDEEGKKENDIDYDSESSSSGLGHSSDDSSSHGCKVNTAPQES
+PTM	Phosphorylation:78;SUMOylation:148;Ubiquitylation:79,164

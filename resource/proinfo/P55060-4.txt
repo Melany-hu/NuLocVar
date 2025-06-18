@@ -1,0 +1,25 @@
+UniprotID	P55060-4
+Accession	P55060;A3RLL6;B2R5T4;E1P5Y0;F8W904;O75432;Q32M40;Q9H5B7;Q9NTS0;Q9UP98;Q9UP99;Q9UPA0
+EntryName	XPO2_HUMAN
+ProteinName	Exportin-2 (Exp2) (Cellular apoptosis susceptibility protein) (Chromosome segregation 1-like protein) (Importin-alpha re-exporter)
+GeneName	CSE1L CAS XPO2
+Length	915
+Function	Export receptor for importin-alpha. Mediates importin-alpha re-export from the nucleus to the cytoplasm after import substrates (cargos) have been released into the nucleoplasm. In the nucleus binds cooperatively to importin-alpha and to the GTPase Ran in its active GTP-bound form. Docking of this trimeric complex to the nuclear pore complex (NPC) is mediated through binding to nucleoporins. Upon transit of a nuclear export complex into the cytoplasm, disassembling of the complex and hydrolysis of Ran-GTP to Ran-GDP (induced by RANBP1 and RANGAP1, respectively) cause release of the importin-alpha from the export receptor. CSE1L/XPO2 then return to the nuclear compartment and mediate another round of transport. The directionality of nuclear export is thought to be conferred by an asymmetric distribution of the GTP- and GDP-bound forms of Ran between the cytoplasm and nucleus.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELSDANLQTLTEYLKKTLDPDPAIRRPAEKFLESVEGNQNYPLLLLTLLEKSQDNVIKVCASVTFKNYIKRNWRIVEDEPNKICEADRVAIKANIVHLMLSSPEQIQKQLSDAISIIGREDFPQKWPDLLTEMVNRFQSGDFHVINGVLRTAHSLFKRYRHEFKSNELWTEIKLVLDAFALPLTNLFKATIELCSTHANDASALRILFSSLILISKLFYSLNFQDLPEFFEDNMETWMNNFHTLLTLDNKLLQTDLVSNAIQFLASVCERPHYKNLFEDQNTLTSICEKVIVPNMEFRAADEEAFEDNSEEYIRRDLEGSDIDTRRRAACDLVRGLCKFFEGPVTGIFSGYVNSMLQEYAKNPSVNWKHKDAAIYLVTSLASKAQTQKHGITQANELVNLTEFFVNHILPDLKSANVNEFPVLKADGIKYIMIFRNQVPKEHLLVSIPLLINHLQAESIVVHTYAAHALERLFTMRGPNNATLFTAAEIAPFVEILLTNLFKALTLPGSSENEYIMKAIMRSFSLLQEAIIPYIPTLITQLTQKLLAVSKNPSKPHFNHYMFEAICLSIRITCKANPAAVVNFEEALFLVFTEILQNDVQEFIPYVFQVMSLLLETHKNDIPSSYMALFPHLLQPVLWERTGNIPALVRLLQAFLERGSNTIASAAADKIPGLLGVFQKLIASKANDHQGFYLLNSIIEHMPPESVDQYRKQIFILLFQRLQNSKTTKFIKSFLVFINLYCIKYGALALQEIFDGIQPKMFGMVLEKIIIPEIQKVSGNVEKKICAVGITKLLTECPPMMDTEYTKLWTPLLQSLIGLFELPEDDTIPDEEHFIDIEDTPGYQTAFSQLAFAGKKEHDPVGQMVNNPKIHLAQSLHKLSTACPGRVPSMVSTSLNAEALQYLQGYLQAASVTLL
+PTM	Acetylation:16,17,31,83,93,109,158,165,281,331,425,440,574,726,824,832,839,912;Methylation:26,52,59,71,83,89,109,126,174,217,251,346,371,445,481,574,601,736,816,832,848,863,934;Phosphorylation:112,155,166,210,255,269,278,341,342,366,369,377,381,432,471,698,931;SUMOylation:67,848,911;Ubiquitylation:17,31,52,67,83,126,158,165,268,281,346,425,440,445,481,486,607,726,736,782,824,832,839,840,848,912,934

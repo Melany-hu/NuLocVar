@@ -1,0 +1,25 @@
+UniprotID	Q9NVN3-1
+Accession	Q9NVN3;A2RTZ0;Q4G103;Q6ZRN4;Q86WD3
+EntryName	RIC8B_HUMAN
+ProteinName	Chaperone Ric-8B (Brain synembryn) (hSyn) (Synembryn-B)
+GeneName	RIC8B
+Length	536
+Function	Chaperone that specifically binds and folds nascent G(s) G-alpha proteins (GNAS and GNAL) prior to G protein heterotrimer formation, promoting their association with the plasma membrane (By similarity). Also acts as a guanine nucleotide exchange factor (GEF) for G(s) proteins by stimulating exchange of bound GDP for free GTP (By similarity). Acts as an important component for odorant signal transduction by mediating GNAL (G(olf)-alpha) folding, thereby promoting-dependent cAMP accumulation in olfactory sensory neurons (By similarity).
+Subcellular Location	Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEERALYIVRAGEAGAIERVLRDYSDKHRATFKFESTDEDKRKKLCEGIFKVLIKDIPTTCQVSCLEVLRILSRDKKVLVPVTTKENMQILLRLAKLNELDDSLEKVSEFPVIVESLKCLCNIVFNSQMAQQLSLELNLAAKLCNLLRKCKDRKFINDIKCFDLRLLFLLSLLHTDIRSQLRYELQGLPLLTQILESAFSIKWTDEYESAIDHNGPPLSPQETDCAIEALKALFNVTVDSWKVHKESDSHQFRVMAAVLRHCLLIVGPTEDKTEELHSNAVNLLSNVPVSCLDVLICPLTHEETAQEATTLDELPSNKTAEKETVLKNNTMVYNGMNMEAIHVLLNFMEKRIDKGSSYREGLTPVLSLLTECSRAHRNIRKFLKDQVLPPLRDVTNRPEVGSTVRNKLVRLMTHVDLGVKQIAAEFLFVLCKERVDSLLKYTGYGNAAGLLAARGLLAGGRGDNWYSEDEDTDTEEYKNAKPNINLITGHLEEPMPNPIDEMTEEQKEYEAMKLVNMLDKLSRRADVKDLHQDGG
+PTM	Acetylation:323;Methylation:56,97,107,150,203,232,421,441,489;Phosphorylation:201,438,467,468,473,475;Ubiquitylation:34

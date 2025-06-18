@@ -1,0 +1,25 @@
+UniprotID	H0Y7V6
+Accession	H0Y7V6
+EntryName	H0Y7V6_HUMAN
+ProteinName	Pulmonary surfactant-associated protein B (Pulmonary surfactant-associated proteolipid SPL(Phe))
+GeneName	SFTPB
+Length	374
+Function	Pulmonary surfactant-associated proteins promote alveolar stability by lowering the surface tension at the air-liquid interface in the peripheral air spaces. SP-B increases the collapse pressure of palmitic acid to nearly 70 millinewtons per meter.
+Subcellular Location	Secreted; Extracellular space; Surface film
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XHLLQWLLLLLPTLCGPGTAAWTTSSLACAQGPEFWCQSLEQALQCRALGHCLQEVWGHVGADDLCQECEDIVHILNKMAKEAIFQDTMRKFLEQECNVLPLKLLMPQCNQVLDDYFPLVIDYFQNQTDSNGICMHLGLCKSRQPEPEQEPGMSDPLPKPLRDPLPDPLLDKLVLPVLPGALQARPGPHTQDLSEQQFPIPLPYCWLCRALIKRIQAMIPKGALAVAVAQVCRVVPLVAGGICQCLAERYSVILLDTLLGRMLPQLVCRLVLRCSMDDSAGPREWLPRDSECHLCMSVTTQAGNSSEQAIPQAMLQACVGSWLDREKCKQFVEQHTPQLLTLVPRGWDAHTTCQALGVCGTMSSPLQCIHSPDL
+PTM	

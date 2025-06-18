@@ -1,0 +1,25 @@
+UniprotID	B1ALG2
+Accession	B1ALG2
+EntryName	B1ALG2_HUMAN
+ProteinName	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+GeneName	SMARCA2
+Length	254
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	9...14;30...35;31...36
+validnes_region	
+nesbase_region	
+Sequence	MEEEVRLKKRKRRRNVDKDPAKEDVEKAKKRRGRPPAEKLSPNPPKLTKQMNAIIDTVINYKDRCNVEKVPSNSQLEIEGNSSGRQLSEVFIQLPSRKELPEYYELIRKPVDFKKIKERIRNHKYRSLGDLEKDVMLLCHNAQTFNLEGSQIYEDSIVLQSVFKSARQKIAKEEESEDESNEEEEEEDEEESESEAKSVKVKIKLNKKDDKGRDKGKGKKRPNRGKAKPVVSDFDSDEEQDEREQSEGSGTDDE
+PTM	

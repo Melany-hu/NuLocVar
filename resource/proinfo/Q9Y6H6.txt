@@ -1,0 +1,25 @@
+UniprotID	Q9Y6H6
+Accession	Q9Y6H6
+EntryName	KCNE3_HUMAN
+ProteinName	Potassium voltage-gated channel subfamily E member 3 (MinK-related peptide 2) (MiRP2) (Minimum potassium ion channel-related peptide 2) (Potassium channel subunit beta MiRP2)
+GeneName	KCNE3
+Length	103
+Function	Ancillary protein that functions as a regulatory subunit of the voltage-gated potassium (Kv) channel complex composed of pore-forming and potassium-conducting alpha subunits and of regulatory beta subunits. KCNE3 beta subunit modulates the gating kinetics and enhances stability of the channel complex (PubMed:10646604, PubMed:11207363, PubMed:12954870). Alters the gating of the delayed rectifier Kv channel containing KCNB1 alpha subunit (PubMed:12954870). Associates with KCNC4/Kv3.4 alpha subunit to form the subthreshold Kv channel in skeletal muscle and to establish the resting membrane potential (RMP) in muscle cells (PubMed:11207363). Association with KCNQ1/KCLQT1 alpha subunit may form the intestinal cAMP-stimulated potassium channel involved in chloride secretion that produces a current with nearly instantaneous activation with a linear current-voltage relationship (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Perikaryon; Cell projection; Dendrite; Membrane raft
+Disorder	0.4017,0.4582,0.4801,0.3807,0.4017,0.3807,0.3321,0.2645,0.2884,0.2817,0.2224,0.2817,0.2328,0.2328,0.1583,0.1449,0.1449,0.1501,0.0909,0.0543,0.0749,0.1275,0.1349,0.1349,0.2224,0.2224,0.1791,0.2292,0.3321,0.3392,0.3840,0.4801,0.4685,0.5211,0.5342,0.6427,0.6531,0.6089,0.5854,0.5854,0.7209,0.7982,0.7982,0.7799,0.7881,0.7755,0.7755,0.7672,0.7209,0.5758,0.4725,0.3840,0.2645,0.2002,0.1528,0.0734,0.0454,0.0231,0.0231,0.0168,0.0269,0.0165,0.0168,0.0163,0.0108,0.0080,0.0060,0.0060,0.0060,0.0068,0.0091,0.0127,0.0184,0.0341,0.0334,0.0463,0.0909,0.1399,0.2292,0.2680,0.3529,0.2609,0.3215,0.2645,0.1852,0.1731,0.2503,0.3392,0.3426,0.3704,0.3599,0.3149,0.2328,0.2034,0.1823,0.2164,0.1791,0.1501,0.1206,0.0929,0.0631,0.0313,0.0543
+ExposeBuried	1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1
+SurfaceAccessbility	0.790,0.681,0.486,0.441,0.578,0.303,0.272,0.471,0.293,0.059,0.108,0.429,0.129,0.025,0.202,0.159,0.039,0.043,0.367,0.141,0.062,0.296,0.223,0.234,0.123,0.284,0.397,0.378,0.069,0.107,0.050,0.259,0.272,0.344,0.377,0.467,0.205,0.233,0.382,0.475,0.473,0.387,0.303,0.468,0.597,0.508,0.355,0.391,0.594,0.157,0.603,0.516,0.464,0.515,0.428,0.316,0.085,0.072,0.037,0.060,0.036,0.051,0.061,0.071,0.089,0.085,0.078,0.121,0.077,0.052,0.112,0.113,0.192,0.104,0.054,0.046,0.055,0.051,0.123,0.200,0.339,0.402,0.434,0.527,0.164,0.615,0.551,0.545,0.585,0.551,0.327,0.272,0.399,0.157,0.110,0.180,0.589,0.408,0.400,0.299,0.614,0.453,0.681
+SecondStructure	C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,C,C,C,C
+Hydropathy	1.9,-3.5,-0.7,-0.7,-3.5,-0.4,-0.7,-3.5,-0.7,-0.9,-1.3,-3.5,-0.8,3.8,-3.2,1.8,4.2,3.8,-3.9,1.8,3.8,-3.5,1.8,-0.7,3.8,-3.2,-0.8,-3.5,3.8,3.8,2.5,-4.5,-1.6,-0.4,-1.6,-0.4,3.8,-0.4,-1.6,-3.5,-3.5,-3.5,-0.7,-3.5,-3.5,-4.5,-4.5,1.8,-0.8,3.8,-1.6,-0.4,-4.5,-3.5,-3.5,-3.5,-0.8,-1.3,1.9,-1.3,4.5,3.8,2.8,4.2,1.9,2.8,3.8,2.8,1.8,4.2,-0.7,4.2,-0.4,-0.8,3.8,4.5,3.8,-0.4,-1.3,-0.7,-4.5,-0.8,-4.5,-3.9,4.2,-3.5,-3.9,-4.5,-0.8,-3.5,-1.6,-1.3,-3.2,4.2,-1.3,4.5,-3.9,-3.5,-4.5,4.2,-0.8,1.9,4.5
+Polar	0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,0,1,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,0,0
+Charge	0,-1,0,0,0,0,0,-1,0,0,0,-1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,0,-1,-1,1,1,0,0,0,0,0,1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,-1,1,1,0,-1,0,0,1,0,0,0,1,0,1,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METTNGTETWYESLHAVLKALNATLHSNLLCRPGPGLGPDNQTEERRASLPGRDDNSYMYILFVMFLFAVTVGSLILGYTRSRKVDKRSDPYHVYIKNRVSMI
+PTM	Glycosylation:5,22,28,41;Methylation:19

@@ -1,0 +1,25 @@
+UniprotID	Q02080-2
+Accession	Q02080;A0AV80;B4DVH7;B7ZVY1;G5E9M1
+EntryName	MEF2B_HUMAN
+ProteinName	Myocyte-specific enhancer factor 2B (RSRFR2) (Serum response factor-like protein 2)
+GeneName	MEF2B XMEF2
+Length	368
+Function	Transcriptional activator which binds specifically to the MEF2 element, 5'-YTA(4)TAR-3', found in numerous muscle-specific genes. Activates transcription via this element. May be involved in muscle-specific and/or growth factor-related transcription.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRKKIQISRILDQRNRQVTFTKRKFGLMKKAYELSVLCDCEIALIIFNSANRLFQYASTDMDRVLLKYTEYSEPHESRTNTDILETLKRRGIGLDGPELEPDEGPEEPGEKFRRLAGEGGDPALPRPRLYPAAPAMPSPDVVYGALPPPGCDPSGLGEALPAQSRPSPFRPAAPKAGPPGLVHPLFSPSHLTSKTPPPLYLPTEGRRSDLPGGLAGPRGGLNTSRSLYSGLQNPCSTATPGPPLGSFPFLPGGPPEYGLGDPPPPPGLLQPPTLAPWQPSRGDGPPAVSSQPSGGRSLGEEGPPTRGASPPTPPVSIKSERLSPAPGGPGDFPKTFPYPLLLARSLAEPLRPGPALRRLPLADGWPR
+PTM	Methylation:68,89,219,226;Phosphorylation:73,139,168,188,196,201,204,286;SUMOylation:112;Ubiquitylation:23

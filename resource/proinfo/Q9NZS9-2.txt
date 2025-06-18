@@ -1,0 +1,25 @@
+UniprotID	Q9NZS9-2
+Accession	Q9NZS9;A8K4Z9;B4DUT0;D3DUG8
+EntryName	BFAR_HUMAN
+ProteinName	Bifunctional apoptosis regulator (EC 2.3.2.27) (RING finger protein 47)
+GeneName	BFAR BAR RNF47
+Length	322
+Function	Membrane-bound E3 ubiquitin ligase that plays a role in several processes including apoptosis regulation or reticulum endoplasmic stress (PubMed:14502241, PubMed:21068390). Has anti-apoptotic activity, both for apoptosis triggered via death-receptors and via mitochondrial factors (PubMed:14502241). Contributes to the dynamic control of IRE1/ERN1 signaling during ER stress by inducing BAX inhibitor 1/TMBIM6 proteasomal degradation (PubMed:21068390). Promotes the activation of TGF-beta signaling by mediating the 'Lys-63'-linked ubiquitination of TGFBR1 which is critical to activate the pathway (PubMed:33914044). Together with NGFR, negatively regulates NF-kappa-B and JNK-related signaling pathways (PubMed:22566094). Promotes the proteasome-mediated degradation of PNPLA3, a protein involveld in lipid metabolism (PubMed:38294943).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGIFKENRMSRMQRKMGRFPQSQYSPQVVLLVYHWSSRESEHDLLVHKAVAKWTAEEVVLWLEQLGPWASLYRERFLSERVNGRLLLTLTEEEFSKTPYTIENSSHRRAILMELERVKALGVKPPQNLWEYKAVNPGRSLFLLYALKSSPRLSLLYLYLFDYTDTFLPFIHTICPLQEDSSGEDIVTKLLDLKEPTWKQWREFLVKYSFLPYQLIAEFAWDWLEVHYWTSRFLIINAMLLSVLELFSFWRIWSRSELKTVPQRMWSHFWKVSTQGLFVAMFWPLIPQFVCNCLFYWALYFNPIINIDLVVKELRRLETQVL
+PTM	Methylation:93,252,276,322;Phosphorylation:84;SUMOylation:6,322;Ubiquitylation:76,82,93,121,225,252,261,322,327,387

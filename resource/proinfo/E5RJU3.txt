@@ -1,0 +1,25 @@
+UniprotID	E5RJU3
+Accession	E5RJU3
+EntryName	E5RJU3_HUMAN
+ProteinName	Sphingomyelin synthase 2
+GeneName	SGMS2
+Length	125
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYVTTLPVPGMHFQCAPKLNGDSQAKVQRILRLISGGGLSITGSHILCGDFLFSGHTVTLTLTYLFIKEYSPRHFWWYHLICWLLSAAGIICILVAHEHYTIDVIIAYYITTRLFWWYHSMANEK
+PTM	

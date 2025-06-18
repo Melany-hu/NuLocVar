@@ -1,0 +1,25 @@
+UniprotID	Q07666-3
+Accession	Q07666;D3DPP3;Q6PJX7;Q8NB97;Q99760
+EntryName	KHDR1_HUMAN
+ProteinName	KH domain-containing, RNA-binding, signal transduction-associated protein 1 (GAP-associated tyrosine phosphoprotein p62) (Src-associated in mitosis 68 kDa protein) (Sam68) (p21 Ras GTPase-activating protein-associated p62) (p68)
+GeneName	KHDRBS1 SAM68
+Length	404
+Function	Recruited and tyrosine phosphorylated by several receptor systems, for example the T-cell, leptin and insulin receptors. Once phosphorylated, functions as an adapter protein in signal transduction cascades by binding to SH2 and SH3 domain-containing proteins. Role in G2-M progression in the cell cycle. Represses CBP-dependent transcriptional activation apparently by competing with other nuclear factors for binding to CBP. Also acts as a putative regulator of mRNA stability and/or translation rates and mediates mRNA nuclear export. Positively regulates the association of constitutive transport element (CTE)-containing mRNA with large polyribosomes and translation initiation. According to some authors, is not involved in the nucleocytoplasmic export of unspliced (CTE)-containing RNA species according to (PubMed:22253824). RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds to RNA containing 5'-UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). Can regulate CD44 alternative splicing in a Ras pathway-dependent manner (PubMed:26080397). In cooperation with HNRNPA1 modulates alternative splicing of BCL2L1 by promoting splicing toward isoform Bcl-X(S), and of SMN1 (PubMed:17371836, PubMed:20186123). Can regulate alternative splicing of NRXN1 and NRXN3 in the laminin G-like domain 6 containing the evolutionary conserved neurexin alternative spliced segment 4 (AS4) involved in neurexin selective targeting to postsynaptic partners. In a neuronal activity-dependent manner cooperates synergistically with KHDRBS2/SLIM-1 in regulation of NRXN1 exon skipping at AS4. The cooperation with KHDRBS2/SLIM-1 is antagonistic for regulation of NXRN3 alternative splicing at AS4 (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRRDDPAARMSRSSGRSGSMDPSGAHPSVRQTPSRQPPLPHRSRGGGGGSRGGARASPATQPPPLLPPSATGPDATVGGPAPTPLLPPSATASVKMEPENKYLPELMAEKDSLDPSFTHAMQLLTAEIEKIQKGDSKKDDEENYLDLFSHKNMKLKERVLIPVKQYPKEEELRKGGDPKYAHLNMDLHVFIEVFGPPCEAYALMAHAMEEVKKFLVPDMMDDICQEQFLELSYLNGVPEPSRGRGVPVRGRGAAPPPPPVPRGRGVGPPRGALVRGTPVRGAITRGATVTRGVPPPPTVRGAPAPRARTAGIQRIPLPPPPAPETYEEYGYDDTYAEQSYEGYEGYYSQSQGDSEYYDYGHGEVQDSYEAYGQDDWNGTRPSLKAPPARPVKGAYREHPYGRY
+PTM	Acetylation:96,111,138,139,152,165,169,175,185,194,200,208,432;Methylation:10,17,43,45,52,96,111,131,139,152,165,175,185,194,200,282,284,289,291,302,304,310,315,320,325,331,340,346,348,432,442;Phosphorylation:12,14,15,18,20,24,29,33,35,44,58,61,70,72,77,84,92,94,103,113,137,145,150,183,196,202,317,324,328,330,349,440,443;SUMOylation:96,102,111,131,138,139,152,169,175,185,194,200;Ubiquitylation:96,102,138,152,155,165,169,175,185,194,200,424,432

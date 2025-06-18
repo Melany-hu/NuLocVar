@@ -1,0 +1,25 @@
+UniprotID	O75521-2
+Accession	O75521;Q5JYK5;Q5JYK7;Q7L124;Q8N0X0;Q9BUE9;Q9H0T9;Q9NQH1;Q9NYH7;Q9UN55
+EntryName	ECI2_HUMAN
+ProteinName	Enoyl-CoA delta isomerase 2 (EC 5.3.3.8) (DRS-1) (Delta(3),delta(2)-enoyl-CoA isomerase) (D3,D2-enoyl-CoA isomerase) (Diazepam-binding inhibitor-related protein 1) (DBI-related protein 1) (Dodecenoyl-CoA isomerase) (Hepatocellular carcinoma-associated antigen 88) (Peroxisomal 3,2-trans-enoyl-CoA isomerase) (pECI) (Renal carcinoma antigen NY-REN-1)
+GeneName	ECI2 DRS1 HCA88 PECI
+Length	359
+Function	Able to isomerize both 3-cis and 3-trans double bonds into the 2-trans form in a range of enoyl-CoA species. Has a preference for 3-trans substrates.
+Subcellular Location	Mitochondrion; Peroxisome matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRASQKDFENSMNQVKLLKKDPGNEVKLKLYALYKQATEGPCNMPKPGVFDLINKAKWDAWNALGSLPKEAARQNYVDLVSSLSPSLESSSQVEPGTDRKSTGFETLVVTSEDGITKIMFNRPKKKNAINTEMYHEIMRALKAASKDDSIITVLTGNGDYYSSGNDLTNFTDIPPGGVEEKAKNNAVLLREFVGCFIDFPKPLIAVVNGPAVGISVTLLGLFDAVYASDRATFHTPFSHLGQSPEGCSSYTFPKIMSPAKATEMLIFGKKLTAGEACAQGLVTEVFPDSTFQKEVWTRLKAFAKLPPNALRISKEVIRKREREKLHAVNAEECNVLQGRWLSDECTNAVVNFLSRKSKL
+PTM	Acetylation:41,51,54,62,64,70,81,90,92,104,161,177,289,305,339,359;Methylation:51,62,90,104,135,152,216,304,328,339,354;Phosphorylation:34,66,69,73,101,119,121,136,137,284,285,297;Ubiquitylation:218,349

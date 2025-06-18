@@ -1,0 +1,25 @@
+UniprotID	H0YC33
+Accession	H0YC33
+EntryName	H0YC33_HUMAN
+ProteinName	La ribonucleoprotein 1, translational regulator
+GeneName	LARP1
+Length	183
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQDLWAEKFEPEYSQIKQEVENFKKVNMISREQFDTLTPEPPVDPNQEVPPGPPRFQQVPTDALANKLFGAPEPSTIARSLPTTVPESPNYRNTRTPRTPRTPQLKDSSQTSRFYPVVKEGRTLDAKMPRKRKTRHSSNPPLESHVGWVMDSREHRPRTASISKMAPVCVSCFPKQALRATYL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96GC5-3
+Accession	Q96GC5;B4DN34;Q49AK7;Q4U2Q4;Q9P091;Q9Y5J0
+EntryName	RM48_HUMAN
+ProteinName	Large ribosomal subunit protein mL48 (39S ribosomal protein L48, mitochondrial) (L48mt) (MRP-L48)
+GeneName	MRPL48 CGI-118 HSPC290
+Length	194
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSSCRKTSSGLPLILHYGGILLSISRPYKTKPTHGIGKYKHLIKAEEPKKKKGKVEVRAINLGTDYEYGVLNIHLTAYDMTLAESYAQYVHNLCNSLSIKVEESYAMPTKTIEVLQLQDQGSKMLLDSVLTTHERVVQISGLSATFAEIFLEIIQSSLPEGVRLSVKEHTEEDFKGRFKARPELEELLAKLK
+PTM	Acetylation:210;Methylation:7,58,143;Phosphorylation:116,118;SUMOylation:64,195

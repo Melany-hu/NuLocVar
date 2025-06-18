@@ -1,0 +1,25 @@
+UniprotID	Q9UEY8-2
+Accession	Q9UEY8;D3DRA8;O43243;Q5VU09;Q92773;Q9UEY7
+EntryName	ADDG_HUMAN
+ProteinName	Gamma-adducin (Adducin-like protein 70)
+GeneName	ADD3 ADDL
+Length	674
+Function	Membrane-cytoskeleton-associated protein that promotes the assembly of the spectrin-actin network. Plays a role in actin filament capping (PubMed:23836506). Binds to calmodulin (Probable). Involved in myogenic reactivity of the renal afferent arteriole (Af-art), renal interlobular arteries and middle cerebral artery (MCA) to increased perfusion pressure. Involved in regulation of potassium channels in the vascular smooth muscle cells (VSMCs) of the Af-art and MCA ex vivo. Involved in regulation of glomerular capillary pressure, glomerular filtration rate (GFR) and glomerular nephrin expression in response to hypertension. Involved in renal blood flow (RBF) autoregulation. Plays a role in podocyte structure and function. Regulates globular monomer actin (G-actin) and filamentous polymer actin (F-actin) ratios in the primary podocytes affecting actin cytoskeleton organization. Regulates expression of synaptopodin, RhoA, Rac1 and CDC42 in the renal cortex and the primary podocytes. Regulates expression of nephrin in the glomeruli and in the primary podocytes, expression of nephrin and podocinin in the renal cortex, and expression of focal adhesion proteins integrin alpha-3 and integrin beta-1 in the glomeruli. Involved in cell migration and cell adhesion of podocytes, and in podocyte foot process effacement. Regulates expression of profibrotics markers MMP2, MMP9, TGF beta-1, tubular tight junction protein E-cadherin, and mesenchymal markers vimentin and alpha-SMA (By similarity). Promotes the growth of neurites (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	611...616;652...657;650...656
+validnes_region	
+nesbase_region	
+Sequence	MSSDASQGVITTPPPPSMPHKERYFDRINENDPEYIRERNMSPDLRQDFNMMEQRKRVTQILQSPAFREDLECLIQEQMKKGHNPTGLLALQQIADYIMANSFSGFSSPPLSLGMVTPINDLPGADTSSYVKGEKLTRCKLASLYRLVDLFGWAHLANTYISVRISKEQDHIIIIPRGLSFSEATASNLVKVNIIGEVVDQGSTNLKIDHTGFSPHAAIYSTRPDVKCVIHIHTLATAAVSSMKCGILPISQESLLLGDVAYYDYQGSLEEQEERIQLQKVLGPSCKVLVLRNHGVVALGETLEEAFHYIFNVQLACEIQVQALAGAGGVDNLHVLDFQKYKAFTYTVAASGGGGVNMGSHQKWKVGEIEFEGLMRTLDNLGYRTGYAYRHPLIREKPRHKSDVEIPATVTAFSFEDDTVPLSPLKYMAQRQQREKTRWLNSPNTYMKVNVPEESRNGETSPRTKITWMKAEDSSKVSGGTPIKIEDPNQFVPLNTNPNEVLEKRNKIREQNRYDLKTAGPQSQLLAGIVVDKPPSTMQFEDDDHGPPAPPNPFSHLTEGELEEYKRTIERKQQGLEENHELFSKSFISMEVPVMVVNGKDDMHDVEDELAKRVSRLSTSTTIENIEITIKSPEKIEEVLSPEGSPSKSPSKKKKKFRTPSFLKKNKKKEKVEA
+PTM	Acetylation:140;Methylation:191,207,280,340,436,504,644,663;Phosphorylation:2,11,12,17,35,42,64,187,285,360,383,402,409,411,414,419,423,442,446,455,460,461,464,467,478,481,585,592,600,616,618,647,650,651,652,653,654,661,664,673,677,679,681,683,691,693;SUMOylation:470,476,484;Ubiquitylation:80,426,448,476,484

@@ -1,0 +1,25 @@
+UniprotID	Q9NVF9-3
+Accession	Q9NVF9;B7Z7K1;Q5SXX5;Q68CK3;Q96G05
+EntryName	EKI2_HUMAN
+ProteinName	Ethanolamine kinase 2 (EKI 2) (EC 2.7.1.82) (Ethanolamine kinase-like protein)
+GeneName	ETNK2 EKI2 HMFT1716
+Length	345
+Function	Highly specific for ethanolamine phosphorylation. Does not have choline kinase activity (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVPPSAPQPRASFHLRRHTPCPQCSWGMEEKAAASASCREPPGPPRAAAVAYFGISVDPDDILPGALRLIQELRPHWKPEQVRTKRFTDGITNKLVACYVEEDMQDCVLVRVYGERTELLVDRENEVRNFQLLRAHSCAPKLYCTFQNGLCYEYMQGVALEPEHIREPRLFSLSADVPKVEVLERELAWLKEHLSQLESPVVFCHNDLLCKNIIYDSIKGHVRFIDYEYAGYNYQAFDIGNHFNEFAGVNEVDYCLYPARETQLQWLHYYLQAQKGMAVTPREVQRLYVQVNKFALASHFFWALWALIQNQYSTIDFDFLRYAVIRFNQYFKVKPQASALEMPK
+PTM	Methylation:181;Phosphorylation:13,190,322,330;Ubiquitylation:79

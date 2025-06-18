@@ -1,0 +1,25 @@
+UniprotID	P04554-2
+Accession	P04554;Q6ZMM0
+EntryName	PRM2_HUMAN
+ProteinName	Protamine-2 (Sperm histone P2) (Sperm protamine P2) [Cleaved into: Basic nuclear protein HPI1; Basic nuclear protein HPI2; Basic nuclear protein HPS1; Basic nuclear protein HPS2; Sperm histone HP4 (Sperm protamine P4); Sperm histone HP2 (Sperm protamine P2) (P2'); Sperm histone HP3 (P2'') (Sperm protamine P3)]
+GeneName	PRM2
+Length	140
+Function	Protamines substitute for histones in the chromatin of sperm during the haploid phase of spermatogenesis. They compact sperm DNA into a highly condensed, stable and inactive complex.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	85...90;75...80
+validnes_region	
+nesbase_region	
+Sequence	MVRYRVRSLSERSHEVYRQQLHGQEQGHHGQEEQGLSPEHVEVYERTHGQSHYRRRHCSRRRLHRIHRRQHRSCRRRKRRSCRHRRRHRRESLGDPLNQNFLSQKAAEPGREHAEGTKLPGPLTPSWKLRKSRPKHQVRP
+PTM	Phosphorylation:10

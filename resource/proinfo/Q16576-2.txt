@@ -1,0 +1,25 @@
+UniprotID	Q16576-2
+Accession	Q16576;Q5JP00
+EntryName	RBBP7_HUMAN
+ProteinName	Histone-binding protein RBBP7 (Histone acetyltransferase type B subunit 2) (Nucleosome-remodeling factor subunit RBAP46) (Retinoblastoma-binding protein 7) (RBBP-7) (Retinoblastoma-binding protein p46)
+GeneName	RBBP7 RBAP46
+Length	469
+Function	Core histone-binding subunit that may target chromatin remodeling factors, histone acetyltransferases and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the type B histone acetyltransferase (HAT) complex, which is required for chromatin assembly following DNA replication; the core histone deacetylase (HDAC) complex, which promotes histone deacetylation and consequent transcriptional repression; the nucleosome remodeling and histone deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylation and nucleosome remodeling; and the PRC2/EED-EZH2 complex, which promotes repression of homeotic genes during development; and the NURF (nucleosome remodeling factor) complex.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAEAGVVGAGASPDGDWRDQACGLLLHVHLSSRLGRAAPVRTGRHLRTVFEDTVEERVINEEYKIWKKNTPFLYDLVMTHALQWPSLTVQWLPEVTKPEGKDYALHWLVLGTHTSDEQNHLVVARVHIPNDDAQFDASHCDSDKGEFGGFGSVTGKIECEIKINHEGEVNRARYMPQNPHIIATKTPSSDVLVFDYTKHPAKPDPSGECNPDLRLRGHQKEGYGLSWNSNLSGHLLSASDDHTVCLWDINAGPKEGKIVDAKAIFTGHSAVVEDVAWHLLHESLFGSVADDQKLMIWDTRSNTTSKPSHLVDAHTAEVNCLSFNPYSEFILATGSADKTVALWDLRNLKLKLHTFESHKDEIFQVHWSPHNETILASSGTDRRLNVWDLSKIGEEQSAEDAEDGPPELLFIHGGHTAKISDFSWNPNEPWVICSVSEDNIMQIWQMAENIYNDEESDVTTSELEGQGS
+PTM	Acetylation:4,21,24,101,113,119,155,159,214;Methylation:14,21,119,142,155,173,295,339,340,348,375;Phosphorylation:3,10,20,60,95,99,109,131,143,145,146,283,296,325,347,354;SUMOylation:4,21,25,54,101,113,119,142,155,159,177,211,214,219,250,263,295,306,308,316,348;Ubiquitylation:4,21,101,113,119,142,155,159,177,214,219,263,308,316,348

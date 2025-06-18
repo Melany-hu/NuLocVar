@@ -1,0 +1,25 @@
+UniprotID	P20151-4
+Accession	P20151;B4DU93;B4DUB0;F5H8L3;Q15946;Q9UJZ9
+EntryName	KLK2_HUMAN
+ProteinName	Kallikrein-2 (EC 3.4.21.35) (Glandular kallikrein-1) (hGK-1) (Tissue kallikrein-2)
+GeneName	KLK2
+Length	159
+Function	Glandular kallikreins cleave Met-Lys and Arg-Ser bonds in kininogen to release Lys-bradykinin.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLLKHQSLRPDEDSSHDLMLLRLSEPAKITDVVKVLGLPTQEPALGTTCYASGWGSIEPEEFLRPRSLQCVSLHLLSNDMCARAYSEKVTEFMLCAGLWTGGKDTCGGDSGGPLVCNGVLQGITSWGPEPCALPEKPAVYTKVVHYRKWIKDTIAANP
+PTM	Methylation:107,137;Phosphorylation:104

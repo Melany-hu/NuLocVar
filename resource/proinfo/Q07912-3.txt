@@ -1,0 +1,25 @@
+UniprotID	Q07912-3
+Accession	Q07912;Q6ZMQ0;Q8N6U7;Q96H59
+EntryName	ACK1_HUMAN
+ProteinName	Activated CDC42 kinase 1 (ACK-1) (EC 2.7.10.2) (EC 2.7.11.1) (Tyrosine kinase non-receptor protein 2)
+GeneName	TNK2 ACK1
+Length	1047
+Function	Non-receptor tyrosine-protein and serine/threonine-protein kinase that is implicated in cell spreading and migration, cell survival, cell growth and proliferation. Transduces extracellular signals to cytosolic and nuclear effectors. Phosphorylates AKT1, AR, MCF2, WASL and WWOX. Implicated in trafficking and clathrin-mediated endocytosis through binding to epidermal growth factor receptor (EGFR) and clathrin. Binds to both poly- and mono-ubiquitin and regulates ligand-induced degradation of EGFR, thereby contributing to the accumulation of EGFR at the limiting membrane of early endosomes. Downstream effector of CDC42 which mediates CDC42-dependent cell migration via phosphorylation of BCAR1. May be involved both in adult synaptic function and plasticity and in brain development. Activates AKT1 by phosphorylating it on 'Tyr-176'. Phosphorylates AR on 'Tyr-267' and 'Tyr-363' thereby promoting its recruitment to androgen-responsive enhancers (AREs). Phosphorylates WWOX on 'Tyr-287'. Phosphorylates MCF2, thereby enhancing its activity as a guanine nucleotide exchange factor (GEF) toward Rho family proteins. Contributes to the control of AXL receptor levels. Confers metastatic properties on cancer cells and promotes tumor growth by negatively regulating tumor suppressor such as WWOX and positively regulating pro-survival factors such as AKT1 and AR. Phosphorylates WASP (PubMed:20110370).
+Subcellular Location	Cell membrane; Nucleus; Endosome; Cell junction; Adherens junction; Cytoplasmic vesicle membrane; Cytoplasmic vesicle; Clathrin-coated vesicle; Membrane; Clathrin-coated pit; Cytoplasm; Perinuclear region; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGERSAYQRLAGGEEGPQRLGGGRMQPEEGTGWLLELLSEVQLQQYFLRLRDDLNVTRLSHFEYVKNEDLEKIGMGRPGQRRLWEAVKRRKALCKRKSWMSKVFSGKRLEAEFPPHHSQSTFRKTSPAPGGPAGEGPLQSLTCLIGEKDLRLLEKLGDGSFGVVRRGEWDAPSGKTVSVAVKCLKPDVLSQPEAMDDFIREVNAMHSLDHRNLIRLYGVVLTPPMKMVTELAPLGSLLDRLRKHQGHFLLGTLSRYAVQVAEGMGYLESKRFIHRDLAARNLLLATRDLVKIGDFGLMRALPQNDDHYVMQEHRKVPFAWCAPESLKTRTFSHASDTWMFGVTLWEMFTYGQEPWIGLNGSQILHKIDKEGERLPRPEDCPQDIYNVMVQCWAHKPEDRPTFVALRDFLLEAQPTDMRALQDFEEPDKLHIQMNDVITVIEGRAENYWWRGQNTRTLCVGPFPRNVVTSVAGLSAQDISQPLQNSFIHTGHGDSDPRHCWGFPDRIDELYLGNPMDPPDLLSVELSTSRPPQHLGGVKREPPPRPPQPAFFTQKPTYDPVSEDQDPLSSDFKRLGLRKPGLPRGLWLAKPSARVPGTKASRGSGAEVTLIDFGEEPVVPALRPCAPSLAQLAMDACSLLDETPPQSPTRALPRPLHPTPVVDWDARPLPPPPAYDDVAQDEDDFEICSINSTLVGAGVPAGPSQGQTNYAFVPEQARPPPPLEDNLFLPPQGGGKPPSSAQTAEIFQALQQECMRQLQAPAGSPAPSPSPGGDDKPQVPPRVPIPPRPTRPHVQLSPAPPGEEETSQWPGPASPPRVPPREPLSPQGSRTPSPLVPPGSSPLPPRLSSSPGKTMPTTQSFASDPKYATPQVIQAPGPRAGPCILPIVRDGKKVSSTHYYLLPERPSYLERYQRFLREAQSPEEPTPLPVPLLLPPPSTPAPAAPTATVRPMPQAALDPKANFSTNNSNPGARPPPPRATARLPQRGCPGDGPEAGRPADKIQMVEQLFGLGLRPRGECHKVLEMFDWNLEQAGCHLLGSWGPAHHKR
+PTM	Acetylation:813;Glycosylation:818;Methylation:48,131,246,267,839,920;Phosphorylation:40,101,102,116,118,193,205,212,284,517,518,522,724,728,730,774,785,791,793,800,801,808,809,810,814,817,818,827,829,855,856,857,859,860,881,928,992;Ubiquitylation:100,124,131,161,550,813,853,1011,1037

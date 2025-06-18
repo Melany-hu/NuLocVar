@@ -1,0 +1,25 @@
+UniprotID	Q96BI3-3
+Accession	Q96BI3;B4DQK0;Q5TB22;Q5TB23;Q969R6;Q9BVG0;Q9Y386
+EntryName	APH1A_HUMAN
+ProteinName	Gamma-secretase subunit APH-1A (APH-1a) (Aph-1alpha) (Presenilin-stabilization factor)
+GeneName	APH1A PSF CGI-78 UNQ579/PRO1141
+Length	195
+Function	Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein) (PubMed:12297508, PubMed:12522139, PubMed:12679784, PubMed:12763021, PubMed:25043039, PubMed:26280335, PubMed:30598546, PubMed:30630874). Required for normal gamma-secretase assembly (PubMed:12471034, PubMed:12522139, PubMed:12763021, PubMed:19369254). The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus; Golgi stack membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAAVFFGCTFVAFGPAFALFLITVAGDPLRVIILVAGRCSALPTTSCLISGLSFGIISGVFSVINILADALGPGVVGIHGDSPYYFLTSAFLTAAIILLHTFWGVVFFDACERRRYWALGLVVGSHLLTSGLTFLNPWYEASLLPIYAVTVSMGLWAFITAGGSLRSIQRSLLCRRQEDSRVMVYSALRIPPED
+PTM	Phosphorylation:238,242,256,257;Ubiquitylation:92

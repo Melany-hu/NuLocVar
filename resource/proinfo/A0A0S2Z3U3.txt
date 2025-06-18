@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z3U3
+Accession	A0A0S2Z3U3
+EntryName	A0A0S2Z3U3_HUMAN
+ProteinName	Methyl CpG binding protein 2 isoform 2
+GeneName	MECP2
+Length	194
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAGMLGLREEKSEDQDLQGLKDKPLKFKKVKKDKKEEKEGKHEPVQPSAHHSAEPAEAGKAETSEGSGSAPAVPEASASPKQRRSIIRDRGPMYDDPTLPEGWTRKLKQRKSGRSAGKYDVYLINPQGKAFRSKVELIAYFEKLQELAEAGDAPKGAAPRDPRRPRQRVCRRPYSPSRSARPGRRSASRSRKW
+PTM	

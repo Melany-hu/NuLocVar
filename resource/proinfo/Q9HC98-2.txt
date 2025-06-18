@@ -1,0 +1,25 @@
+UniprotID	Q9HC98-2
+Accession	Q9HC98;B7Z2D9;Q5TBG3;Q5TBG9;Q6FG86;Q6IAR3;Q96E83;Q9ULX2
+EntryName	NEK6_HUMAN
+ProteinName	Serine/threonine-protein kinase Nek6 (EC 2.7.11.34) (Never in mitosis A-related kinase 6) (NimA-related protein kinase 6) (Protein kinase SID6-1512)
+GeneName	NEK6
+Length	347
+Function	Protein kinase which plays an important role in mitotic cell cycle progression (PubMed:11516946, PubMed:14563848). Required for chromosome segregation at metaphase-anaphase transition, robust mitotic spindle formation and cytokinesis (PubMed:19414596). Phosphorylates ATF4, CIR1, PTN, RAD26L, RBBP6, RPS7, RPS6KB1, TRIP4, STAT3 and histones H1 and H3 (PubMed:12054534, PubMed:20873783). Phosphorylates KIF11 to promote mitotic spindle formation (PubMed:19001501). Involved in G2/M phase cell cycle arrest induced by DNA damage (PubMed:18728393). Inhibition of activity results in apoptosis. May contribute to tumorigenesis by suppressing p53/TP53-induced cancer cell senescence (PubMed:21099361). Phosphorylates EML4 at 'Ser-144', promoting its dissociation from microtubules during mitosis which is required for efficient chromosome congression (PubMed:31409757).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus speckle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRREVCWEAAHFRQEEQSLPRPRVRALVRLACRMAGQPGHMPHGGSSNNLCHTLGPVHPPDPQRHPNTLSFRCSLADFQIEKKIGRGQFSEVYKATCLLDRKTVALKKVQIFEMMDAKARQDCVKEIGLLKQLNHPNIIKYLDSFIEDNELNIVLELADAGDLSQMIKYFKKQKRLIPERTVWKYFVQLCSAVEHMHSRRVMHRDIKPANVFITATGVVKLGDLGLGRFFSSETTAAHSLVGTPYYMSPERIHENGYNFKSDIWSLGCLLYEMAALQSPFYGDKMNLFSLCQKIEQCDYPPLPGEHYSEKLRELVSMCICPDPHQRPDIGYVHQVAKQMHIWMSST
+PTM	Methylation:49,74,98,107;Phosphorylation:13,35,37,41,198,199,201,202,206,210,212,213,215,224;SUMOylation:50,75,85,92,98,174,260;Ubiquitylation:85,92,98,174,187,277

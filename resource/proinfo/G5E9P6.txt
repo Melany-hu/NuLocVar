@@ -1,0 +1,25 @@
+UniprotID	G5E9P6
+Accession	G5E9P6
+EntryName	G5E9P6_HUMAN
+ProteinName	Superoxide dismutase [Mn], mitochondrial (EC 1.15.1.1)
+GeneName	SOD2 hCG_34035
+Length	140
+Function	Destroys superoxide anion radicals which are normally produced within the cells and which are toxic to biological systems.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSRAVCGTSRQLAPVLGYLGSRQKHSLPDLPYDYGALEPHINAQIMQLHHSKHHAAYVNNLNVTEEKYQEALAKGRFQAERREAVPGRGDPREPGPIRTGLSVEENSLRICTGSEFSRHDSLSFKHMVYLIVEGVPRWV
+PTM	

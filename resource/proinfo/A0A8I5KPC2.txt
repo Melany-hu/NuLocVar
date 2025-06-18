@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KPC2
+Accession	A0A8I5KPC2
+EntryName	A0A8I5KPC2_HUMAN
+ProteinName	Chloride channel CLIC-like protein 1
+GeneName	CLCC1
+Length	178
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRFEDSFGVDPYNVLMVLLCLLCIVVLVATELWTYVRWYTQLRRVLIISFLFSLGWNWMYLYKLAFAQHQAEVAKMEPLNNVCAKKMDWTGSIWEWFRSSWTYKDDPCQKYYELLLVNPIWLVPPTKALAVTFTTFVTEPLKHIGKGTGEFIKALMKEIPALLHLPVLIIMALAILVK
+PTM	

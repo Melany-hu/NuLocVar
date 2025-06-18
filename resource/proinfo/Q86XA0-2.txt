@@ -1,0 +1,25 @@
+UniprotID	Q86XA0-2
+Accession	Q86XA0;H9ZYJ0;K7EK32
+EntryName	MET23_HUMAN
+ProteinName	Histone-arginine methyltransferase METTL23 (EC 2.1.1.319) (Methyltransferase-like protein 23)
+GeneName	METTL23 C17orf95
+Length	123
+Function	Histone methyltransferase that dimethylates histone H3 at 'Arg-17', forming asymmetric dimethylarginine (H3R17me2a), leading to activate transcription via chromatin remodeling (By similarity). Maternal factor involved in epigenetic chromatin reprogramming of the paternal genome in the zygote: mediates H3R17me2a, promoting histone H3.3 incorporation in the male pronucleus, leading to TET3 recruitment and subsequent DNA demethylation (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNLPHLQVVGLTWGHISWDLLALPPQDIILASDVFFEPEDFEDILATIYFLMHKNPKVQLWSTYQVRSADWSLEALLYKWDMKCVHIPLESFDADKEDIAESTLPGRHTVEMLVISFAKDSL
+PTM	Phosphorylation:20

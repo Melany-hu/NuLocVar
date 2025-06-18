@@ -1,0 +1,25 @@
+UniprotID	Q8IVS2-2
+Accession	Q8IVS2;B0QY72;O95510;O95511
+EntryName	FABD_HUMAN
+ProteinName	Malonyl-CoA-acyl carrier protein transacylase, mitochondrial (MCT) (EC 2.3.1.39) (Mitochondrial malonyl CoA:ACP acyltransferase) (Mitochondrial malonyltransferase) ([Acyl-carrier-protein] malonyltransferase)
+GeneName	MCAT MT
+Length	180
+Function	Catalyzes the transfer of a malonyl moiety from malonyl-CoA to the free thiol group of the phosphopantetheine arm of the mitochondrial ACP protein (NDUFAB1) (PubMed:12882974, PubMed:19549604). This suggests the existence of the biosynthesis of fatty acids in mitochondria (PubMed:12882974). Also acts as a mitochondrial small ribosomal subunit (mt-SSU) assembly factor (PubMed:36482135).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVRVARVAWVRGLGASYRRGASSFPVPPPGAQGVAELLRDATGAEEEAPWAATERRMPGQCSVLLFPGQGSQVVGMGRGLLNYPRVRELYAAARRVLGYDLLELSLHGPQETLDRTVHCQPAIFVASLAAVEKLHHLQPSVIENCVAAAGFSVGEFAALVFAGAMEFAEGSTVSPEEFL
+PTM	Acetylation:286,325;Methylation:79,134,176,286,291,340,359;Phosphorylation:23,24,239

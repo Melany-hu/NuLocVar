@@ -1,0 +1,25 @@
+UniprotID	H0Y929
+Accession	H0Y929
+EntryName	H0Y929_HUMAN
+ProteinName	PDZ and LIM domain 5
+GeneName	PDLIM5
+Length	85
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LKDGGKAAQANVRIGDVVLSIDGINAQGMTHLEAQNKIKGCTGSLNMTLQRASAAPKPEPVPVQKPTKKTHCGALYRVLSCTHSQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43414-2
+Accession	O43414;B1AK98;Q5T2T7;Q5T2T9;Q5TG35;Q9BQA0;Q9UEB4
+EntryName	ERI3_HUMAN
+ProteinName	ERI1 exoribonuclease 3 (EC 3.1.-.-) (Prion interactor 1) (Prion protein-interacting protein)
+GeneName	ERI3 PINT1 PRNPIP PRNPIP1
+Length	222
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVMLQVPWLQSCANLVQIGAPLPLLGCLGQYFEVLGSMEVLAGQYGMEIIEFPILKLNGRTMEIESTFHMYVQPVVHPQLTPFCTELTGIIQAMVDGQPSLQQVLERVDEWMAKEGLLDPNVKSIFVTCGDWDLKVMLPGQCQYLGLPVADYFKQWINLKKAYSFAMGCWPKNGLLDMNKGLSLQHIGRPHSGIDDCKNIANIMKTLAYRGFIFKQTSKPF
+PTM	Acetylation:276,277,331;Methylation:276,321;SUMOylation:314;Ubiquitylation:239,276,321,331

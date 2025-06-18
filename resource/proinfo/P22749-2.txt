@@ -1,0 +1,25 @@
+UniprotID	P22749-2
+Accession	P22749;P09325;Q6GU08
+EntryName	GNLY_HUMAN
+ProteinName	Granulysin (Lymphokine LAG-2) (Protein NKG5) (T-cell activation protein 519)
+GeneName	GNLY LAG2 NKG5 TLA519
+Length	130
+Function	Antimicrobial protein that kills intracellular pathogens. Active against a broad range of microbes, including Gram-positive and Gram-negative bacteria, fungi, and parasites. Kills Mycobacterium tuberculosis.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGLVFSRLSPEYYDLARAHLRDEEKSCPCLAQEGPQGDLLTKTQELGRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLRLCIPSTGPL
+PTM	Methylation:58;Phosphorylation:42

@@ -1,0 +1,25 @@
+UniprotID	D3YTC6
+Accession	D3YTC6
+EntryName	D3YTC6_HUMAN
+ProteinName	Heat shock protein family B (small) member 7
+GeneName	HSPB7
+Length	165
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSHRTSSTFRAERSFHSSSSSSSSSTSSSASRALPAQDPPMEKALSMFSDDFGSFMRPHSEPLAFPARPGGAGNIKTLGDAYEFAVDVRDFSPEDIIVTTSNNHIELAADGTVMNTFAHKCQLPEDVDPTSVTSALREDGSLTIRARRHPHTEHVQQTFRTEIKI
+PTM	

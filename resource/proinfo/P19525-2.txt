@@ -1,0 +1,25 @@
+UniprotID	P19525-2
+Accession	P19525;A8K3P0;D6W584;E9PC80;Q52M43;Q7Z6F6;Q9UIR4
+EntryName	E2AK2_HUMAN
+ProteinName	Interferon-induced, double-stranded RNA-activated protein kinase (EC 2.7.11.1) (Eukaryotic translation initiation factor 2-alpha kinase 2) (eIF-2A protein kinase 2) (Interferon-inducible RNA-dependent protein kinase) (P1/eIF-2A protein kinase) (Protein kinase RNA-activated) (PKR) (Protein kinase R) (Tyrosine-protein kinase EIF2AK2) (EC 2.7.10.2) (p68 kinase)
+GeneName	EIF2AK2 PKR PRKR
+Length	510
+Function	IFN-induced dsRNA-dependent serine/threonine-protein kinase that phosphorylates the alpha subunit of eukaryotic translation initiation factor 2 (EIF2S1/eIF-2-alpha) and plays a key role in the innate immune response to viral infection (PubMed:18835251, PubMed:19189853, PubMed:19507191, PubMed:21072047, PubMed:21123651, PubMed:22381929, PubMed:22948139, PubMed:23229543). Inhibits viral replication via the integrated stress response (ISR): EIF2S1/eIF-2-alpha phosphorylation in response to viral infection converts EIF2S1/eIF-2-alpha in a global protein synthesis inhibitor, resulting to a shutdown of cellular and viral protein synthesis, while concomitantly initiating the preferential translation of ISR-specific mRNAs, such as the transcriptional activator ATF4 (PubMed:19189853, PubMed:21123651, PubMed:22948139, PubMed:23229543). Exerts its antiviral activity on a wide range of DNA and RNA viruses including hepatitis C virus (HCV), hepatitis B virus (HBV), measles virus (MV) and herpes simplex virus 1 (HHV-1) (PubMed:11836380, PubMed:19189853, PubMed:19840259, PubMed:20171114, PubMed:21710204, PubMed:23115276, PubMed:23399035). Also involved in the regulation of signal transduction, apoptosis, cell proliferation and differentiation: phosphorylates other substrates including p53/TP53, PPP2R5A, DHX9, ILF3, IRS1 and the HHV-1 viral protein US11 (PubMed:11836380, PubMed:19229320, PubMed:22214662). In addition to serine/threonine-protein kinase activity, also has tyrosine-protein kinase activity and phosphorylates CDK1 at 'Tyr-4' upon DNA damage, facilitating its ubiquitination and proteasomal degradation (PubMed:20395957). Either as an adapter protein and/or via its kinase activity, can regulate various signaling pathways (p38 MAP kinase, NF-kappa-B and insulin signaling pathways) and transcription factors (JUN, STAT1, STAT3, IRF1, ATF3) involved in the expression of genes encoding pro-inflammatory cytokines and IFNs (PubMed:22948139, PubMed:23084476, PubMed:23372823). Activates the NF-kappa-B pathway via interaction with IKBKB and TRAF family of proteins and activates the p38 MAP kinase pathway via interaction with MAP2K6 (PubMed:10848580, PubMed:15121867, PubMed:15229216). Can act as both a positive and negative regulator of the insulin signaling pathway (ISP) (PubMed:20685959). Negatively regulates ISP by inducing the inhibitory phosphorylation of insulin receptor substrate 1 (IRS1) at 'Ser-312' and positively regulates ISP via phosphorylation of PPP2R5A which activates FOXO1, which in turn up-regulates the expression of insulin receptor substrate 2 (IRS2) (PubMed:20685959). Can regulate NLRP3 inflammasome assembly and the activation of NLRP3, NLRP1, AIM2 and NLRC4 inflammasomes (PubMed:22801494). Plays a role in the regulation of the cytoskeleton by binding to gelsolin (GSN), sequestering the protein in an inactive conformation away from actin (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGDLSAGFFMEELNTYRQKQGVVLKYQELPNSGPPHDRRFTFQVIIDGREFPEGEGRSKKEAKNAAAKLAVEILNKEKKAVSPLLLTTTNSSEGLSMGNYIGLINRIAQKKRLTVNYEQCASGVHGPEGFHYKCKMGQKEYSIGTGSTKQEAKQLAAKLAYLQILSEETSVKSDYLSSGSFATTCESQSNSLVTSTLASESSSEGDFSADTSEINSNSDSLNSSSLLMNGLRNNQRKAKRSLAPRFDLPDMKETKYTVDKRKAEREVKALAKLDHVNIVHYNGCWDGFDYDPETSDDSLESSDYDPENSKNSSRSKTKCLFIQMEFCDKGTLEQWIEKRRGEKLDKVLALELFEQITKGVDYIHSKKLIHRDLKPSNIFLVDTKQVKIGDFGLVTSLKNDGKRTRSKGTLRYMSPEQISSQDYGKEVDLYALGLILAELLHVCDTAFETSKFFTDLRDGIISDIFDKKEKTLLQKLLSKKPEDRPNTSEILRTLTVWKKSPEKNERHTC
+PTM	Acetylation:134,140,304,380,408,416,426,509,517;Methylation:26,39,40,77,134,159,283,310,493,517,521,534;Phosphorylation:6,27,33,83,88,89,90,92,93,115,242,340,399,437,438,454,456,492,542;SUMOylation:256,268,310,388,416,440;Ubiquitylation:77,79,140,150,154,253,256,291,296,299,304,310,380,388,400,409,416,426,429,440,509,517,522

@@ -1,0 +1,25 @@
+UniprotID	Q7Z692-3
+Accession	Q7Z692;Q5XJ15;Q7Z693
+EntryName	CEA19_HUMAN
+ProteinName	Cell adhesion molecule CEACAM19 (Carcinoembryonic antigen-like 1) (Carcinoembryonic antigen-related cell adhesion molecule 19) (CEA cell adhesion molecule 19)
+GeneName	CEACAM19 CEAL1 UNQ2973/PRO7436
+Length	299
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEIPMGTQGCFSKSLLLSASILVLWMLQGSQAALYIQKIPEQPQKNQDLLLSVQGVPDTFQDFNWYLGEETYGGTRLFTYIPGIQRPQRDGSAMGQRDIVGFPNGSMLLRRAQPTDSGTYQVAITINSEWTMKAKTEVQVAEKNKELPSTHLPTNAGILAATIIGSLAAGALLISCIAYLLVTRNWRGQSHRLPAPRGQGSLSILCSAVSPVPSVTPSTWMATTEKPELGPAHDAGDNNIYEVMPSPVLLVSPISDTRSINPARPLPTPPHLQAEPENHQYQDLLNPDPAPYCQLVPTS
+PTM	Phosphorylation:35,224

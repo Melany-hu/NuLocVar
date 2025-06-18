@@ -1,0 +1,25 @@
+UniprotID	L0R547
+Accession	L0R547
+EntryName	L0R547_HUMAN
+ProteinName	Alternative protein SLC35A5
+GeneName	SLC35A5
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNSLISQYLINQKVICADYFPWPSSFQKTCNNHVSYSLYIHIEINLPNIHNHVVLVYMPKSSLFNIIKARLSLEF
+PTM	

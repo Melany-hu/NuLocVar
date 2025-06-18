@@ -1,0 +1,25 @@
+UniprotID	Q8N4S9-3
+Accession	Q8N4S9;A1BQX0;A1BQX1;A8KA97;Q96NM9
+EntryName	MALD2_HUMAN
+ProteinName	MARVEL domain-containing protein 2 (Tricellulin)
+GeneName	MARVELD2 TRIC
+Length	546
+Function	Plays a role in the formation of tricellular tight junctions and of epithelial barriers (By similarity). Required for normal hearing via its role in the separation of the endolymphatic and perilymphatic spaces of the organ of Corti in the inner ear, and for normal survival of hair cells in the organ of Corti (PubMed:17186462).
+Subcellular Location	Cell membrane; Cell junction; Tight junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSNDGRSRNRDRRYDEVPSDLPYQDTTIRTHPTLHDSERAVSADPLPPPPLPLQPPFGPDFYSSDTEEPAIAPDLKPVRRFVPDSWKNFFRGKKKDPEWDKPVSDIRYISDGVECSPPASPARPNHRSPLNSCKDPYGGSEGTFSSRKEADAVFPRDPYGSLDRHTQTVRTYSEKVEEYNLRYSYMKSWAGLLRILGVVELLLGAGVFACVTAYIHKDSEWYNLFGYSQPYGMGGVGGLGSMYGGYYYTGPKTPFVLVVAGLAWITTIIILVLGMSMYYRTILLDSNWWPLTEFGINVALFILYMAAAIVYVNDTNRGGLCYYPLFNTPVNAVFCRVEGGQIAAMIFLFVTMIVYLISALVCLKLWRHEAARRHREYMEQQECEMATSGDRQRDSEVNFKELRTAKMKPELLSGHIPPGHIPKPIVMPDYVAKYPVIQTDDERERYKAVFQDQFSEYKELSAEVQAVLRKFDELDAVMSRLPHHSESRQEHERISRIHEEFKKKKNDPTFLEKKERCDYLKNKLSHIKQRIQEYDKVMNWDVQGYS
+PTM	Acetylation:134;Methylation:95,364,412,482,525;Phosphorylation:14,23,42,62,63,110,116,120,128,132,137,140,145,146,159,161,166,168,171,172,173,387,389,390,407,446,537;SUMOylation:134,187;Ubiquitylation:87,134,148,175,391,412

@@ -1,0 +1,25 @@
+UniprotID	F8VY72
+Accession	F8VY72
+EntryName	F8VY72_HUMAN
+ProteinName	Chromosome 2 open reading frame 74
+GeneName	C2orf74
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQGLREVVGDSRMPWTIWSPSCCRSCHHEWTPSGHHSKEVCRQEMESRSVA
+PTM	

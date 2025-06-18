@@ -1,0 +1,25 @@
+UniprotID	Q8TB61-5
+Accession	Q8TB61;B4DDM2;B4DDU9;F5H7Y9;Q2VY06;Q53GA3;Q5T9W1;Q5T9W2;Q7Z2G3;Q8NBK6;Q96AR6
+EntryName	S35B2_HUMAN
+ProteinName	Adenosine 3'-phospho 5'-phosphosulfate transporter 1 (PAPS transporter 1) (Putative MAPK-activating protein PM15) (Putative NF-kappa-B-activating protein 48) (Solute carrier family 35 member B2)
+GeneName	SLC35B2 PAPST1 PSEC0149
+Length	299
+Function	Probably functions as a 3'-phosphoadenylyl sulfate:adenosine 3',5'-bisphosphate antiporter at the Golgi membranes. Mediates the transport from the cytosol into the lumen of the Golgi of 3'-phosphoadenylyl sulfate/adenosine 3'-phospho 5'-phosphosulfate (PAPS), a universal sulfuryl donor for sulfation events that take place in that compartment.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRSYGATATSPGERFTDSQFLVLMNRVLALIVAGLSCVLCKQPRHGAPMYRYSFASLSNVLSSWCQYEALKFVSFPTQVLAKASKVIPVMLMGKLVSRRSYEHWEYLTATLISIGVSMFLLSSGPEPRSSPATTLSGLILLAGYIAFDSFTSNWQDALFAYKMSSVQMMFGVNFFSCLFTVGSLLEQGALLEGTRFMGRHSEFAAHALLLSICSACGQLFIFYTIGQFGAAVFTIIMTLRQAFAILLSCLLYGHTVTVVGGLGVAVVFAALLLRVYARGRLKQRGKKAVPVESPVQKV
+PTM	Acetylation:216;Glycosylation:141;Methylation:111,205;Phosphorylation:267,268,270,427;Ubiquitylation:63,78,87,216,228,421,431

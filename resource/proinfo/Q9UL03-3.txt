@@ -1,0 +1,25 @@
+UniprotID	Q9UL03-3
+Accession	Q9UL03;Q0P664;Q6PJP4;Q9UFK0;Q9Y5M9
+EntryName	INT6_HUMAN
+ProteinName	Integrator complex subunit 6 (Int6) (DBI-1) (Protein deleted in cancer 1) (DICE1)
+GeneName	INTS6 DBI1 DDX26 DDX26A
+Length	874
+Function	Component of the integrator complex, a multiprotein complex that terminates RNA polymerase II (Pol II) transcription in the promoter-proximal region of genes (PubMed:33243860, PubMed:34004147). The integrator complex provides a quality checkpoint during transcription elongation by driving premature transcription termination of transcripts that are unfavorably configured for transcriptional elongation: the complex terminates transcription by (1) catalyzing dephosphorylation of the C-terminal domain (CTD) of Pol II subunit POLR2A/RPB1 and SUPT5H/SPT5, (2) degrading the exiting nascent RNA transcript via endonuclease activity and (3) promoting the release of Pol II from bound DNA (PubMed:33243860, PubMed:34004147, PubMed:38570683). The integrator complex is also involved in terminating the synthesis of non-coding Pol II transcripts, such as enhancer RNAs (eRNAs), small nuclear RNAs (snRNAs), telomerase RNAs and long non-coding RNAs (lncRNAs) (PubMed:16239144). Within the integrator complex, INTS6 acts as a molecular adapter that promotes assembly of protein phosphatase 2A (PP2A) subunits to the integrator core complex, promoting recruitment of PP2A to transcription pause-release checkpoint (PubMed:33243860, PubMed:34004147). Mediates recruitment of cytoplasmic dynein to the nuclear envelope, probably as component of the integrator complex (PubMed:23904267). May have a tumor suppressor role; an ectopic expression suppressing tumor cell growth (PubMed:15254679, PubMed:16239144).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	628...632
+validnes_region	
+nesbase_region	
+Sequence	MNQRSHLGTTYLDTAKGAVETFMKLRARDPASRGDRYMLVTFEEPPYAIKAGWKENHATFMNELKNLQAEGLTTLGQSLRTAFDLLNLNRLVTGIDNYGQGRNPFFLEPAIIITITDGSKLTTTSGVQDELHLPLNSPLPGSELTKEPFRWDQRLFALVLRLPGTMSVESEQLTGVPLDDSAITPMCEVTGGRSYSVCSPRMLNQCLESLVQKVQSGVVINFEKAGPDPSPVEDGQPDISRPFGSQPWHSCHKLIYVRPNPKTGVPIGHWPVPESFWPDQNSPTLPPRTSHPVVKFSCTDCEPMVIDKLPFDKYELEPSPLTQFILERKSPQTCWQVYVSNSAKYSELGHPFGYLKASTALNCVNLFVMPYNYPVLLPLLDDLFKVHKAKPTLKWRQSFESYLKTMPPYYLGPLKKAVRMMGAPNLIADSMEYGLSYSVISYLKKLSQQAKIESDRVIGSVGKKVVQETGIKVRSRSHGLSMAYRKDFQQLLQGISEDVPHRLLDLNMKEYTGFQVALLNKDLKPQTFRNAYDIPRRNLLDHLTRMRSNLLKSTRRFLKGQDEDQVHSVPIAQMGNYQEYLKQVPSPLRELDPDQPRRLHTFGNPFKLDKKGMMIDEADEFVAGPQNKHKRPGEPNMQGIPKRRRCMSPLLRGRQQNPVVNNHIGGKGPPAPTTQAQPDLIKPLPLHKISETTNDSIIHDVVENHVADQLSSDITPNAMDTEFSASSPASLLERPTNHMEALGHDHLGTNDLTVGGFLENHEEPRDKEQCAEENIPASSLNKGKKLMHCRSHEEVNTELKAQIMKEIRKPGRKYERIFTLLKHVQGSLQTRLIFLQNVIKEASRFKKRMLIEQLENFLDEIHRRANQINHINSN
+PTM	Acetylation:476,695,798;Methylation:63,78,237,321,428,534,565,655,680,695,853;Phosphorylation:150,222,243,303,467,599,614,661,804,810;SUMOylation:37,275,326,464,537,572,620,695;Ubiquitylation:159,485,499,780,853

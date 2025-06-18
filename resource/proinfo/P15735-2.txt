@@ -1,0 +1,25 @@
+UniprotID	P15735-2
+Accession	P15735;A8K0C7;B4DEB7;E9PEU3;P11800
+EntryName	PHKG2_HUMAN
+ProteinName	Phosphorylase b kinase gamma catalytic chain, liver/testis isoform (PHK-gamma-LT) (PHK-gamma-T) (EC 2.7.11.19) (PSK-C3) (Phosphorylase kinase subunit gamma-2)
+GeneName	PHKG2
+Length	374
+Function	Catalytic subunit of the phosphorylase b kinase (PHK), which mediates the neural and hormonal regulation of glycogen breakdown (glycogenolysis) by phosphorylating and thereby activating glycogen phosphorylase. May regulate glycogeneolysis in the testis. In vitro, phosphorylates PYGM (PubMed:35549678).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLDVGPEDELPDWAAAKEFYQKYDPKDVIGRGVSSVVRRCVHRATGHEFAVKIMEVTAERLSPEQLEEVREATRRETHILRQVAGHPHIITLIDSYESSSFMFLVFDLMRKGELFDYLTEKVALSEKETRSIMRSLLEAVSFLHANNIVHRDLKPENILLDDNMQIRLSDFGFSCHLEPGEKLRELCGTPGYLAPEILKCSMDETHPGYGKEVDLWACGVILFTLLAGSPPFWHRRQILMLRMIMEGQYQFSSPEWDDRSSTVKDLISRLLQVDPEARLTAEQALQHPFFERCEGSQPWNLTPRQRFRVAVWTVLAAGRVALSTHRVRPLTKNALLRDPYALRSVRHLIDNCAFRLYGHWIRKQWIGKLMACV
+PTM	Methylation:122,128,200;Phosphorylation:92,97,190,303,324,325,345;SUMOylation:128;Ubiquitylation:23,128,265

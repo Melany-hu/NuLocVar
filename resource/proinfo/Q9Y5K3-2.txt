@@ -1,0 +1,25 @@
+UniprotID	Q9Y5K3-2
+Accession	Q9Y5K3;A8IX00;B2RCX8;B4DK10;E9PD84;O60621;Q86XC9
+EntryName	PCY1B_HUMAN
+ProteinName	Choline-phosphate cytidylyltransferase B (EC 2.7.7.15) (CCT-beta) (CTP:phosphocholine cytidylyltransferase B) (CCT B) (CT B) (Phosphorylcholine transferase B)
+GeneName	PCYT1B CCTB
+Length	330
+Function	Catalyzes the key rate-limiting step in the CDP-choline pathway for phosphatidylcholine biosynthesis.
+Subcellular Location	Cytoplasm; Endoplasmic reticulum; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVVTTDAESETGIPKSLSNEPPSETMEEIEHTCPQPRLTLTAPAPFADETNCQCQAPHEKLTIAQARLGTPADRPVRVYADGIFDLFHSGHARALMQAKTLFPNSYLLVGVCSDDLTHKFKGFTVMNEAERYEALRHCRYVDEVIRDAPWTLTPEFLEKHKIDFVAHDDIPYSSAGSDDVYKHIKEAGMFVPTQRTEGISTSDIITRIVRDYDVYARRNLQRGYTAKELNVSFINEKRYRFQNQVDKMKEKVKNVEERSKEFVNRVEEKSHDLIQKWEEKSREFIGNFLELFGPDGAWKQMFQERSSRMLQALSPKQSPLKSWARCRDF
+PTM	Acetylation:183;Methylation:16,160,277,317;Phosphorylation:178,225,226,233,271,315,319,322,323,327,329,331,333,335,337,339,345,346,349,350,359,360,362;SUMOylation:183;Ubiquitylation:228

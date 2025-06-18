@@ -1,0 +1,25 @@
+UniprotID	F6U0D0
+Accession	F6U0D0
+EntryName	F6U0D0_HUMAN
+ProteinName	Zinc finger E-box binding homeobox 1
+GeneName	ZEB1
+Length	53
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	7...11
+validnes_region	
+nesbase_region	
+Sequence	MADGPRCKRRKQANPRRNNVFSLNSQLAIGRKLPSEDMIIQMSFCDLATVCLT
+PTM	

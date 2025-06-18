@@ -1,0 +1,25 @@
+UniprotID	F8WDI3
+Accession	F8WDI3
+EntryName	F8WDI3_HUMAN
+ProteinName	Methylcrotonyl-CoA carboxylase subunit 1
+GeneName	MCCC1
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAASAVSVLLVAAERNRWHRLPSLLLPPRTWVWRQRTMKYTTATGRNITKVLIANRGEIACRVMRTAKKLGVQTVAVYSEADRNSMHVDMQDDLDFTEKIKLRFLPQNLLT
+PTM	

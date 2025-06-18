@@ -1,0 +1,25 @@
+UniprotID	Q9NP58-4
+Accession	Q9NP58;O75542;Q49A66;Q59GQ5;Q6ZME6;Q96ME8;Q9HAQ6;Q9HAQ7
+EntryName	ABCB6_HUMAN
+ProteinName	ATP-binding cassette sub-family B member 6 (ABC-type heme transporter ABCB6) (EC 7.6.2.5) (Mitochondrial ABC transporter 3) (Mt-ABC transporter 3) (P-glycoprotein-related protein) (Ubiquitously-expressed mammalian ABC half transporter)
+GeneName	ABCB6 MTABC3 PRP UMAT
+Length	796
+Function	ATP-dependent transporter that catalyzes the transport of a broad-spectrum of porphyrins from the cytoplasm to the extracellular space through the plasma membrane or into the vesicle lumen (PubMed:17661442, PubMed:23792964, PubMed:27507172, PubMed:33007128). May also function as an ATP-dependent importer of porphyrins from the cytoplasm into the mitochondria, in turn may participate in the de novo heme biosynthesis regulation and in the coordination of heme and iron homeostasis during phenylhydrazine stress (PubMed:10837493, PubMed:17006453, PubMed:23792964, PubMed:33007128). May also play a key role in the early steps of melanogenesis producing PMEL amyloid fibrils (PubMed:29940187). In vitro, it confers to cells a resistance to toxic metal such as arsenic and cadmium and against chemotherapeutics agent such as 5-fluorouracil, SN-38 and vincristin (PubMed:21266531, PubMed:25202056, PubMed:31053883). In addition may play a role in the transition metal homeostasis (By similarity).
+Subcellular Location	Cell membrane; Mitochondrion outer membrane; Endoplasmic reticulum membrane; Golgi apparatus membrane; Endosome membrane; Lysosome membrane; Late endosome membrane; Early endosome membrane; Secreted; Extracellular exosome; Mitochondrion; Endosome; Multivesicular body membrane; Melanosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTVGNYCEAEGPVGPAWMQDGLSPCFFFTLVPSTRMALGTLALVLALPCRRRERPAGADSLSWGAGPRISPYVLQLLLATLQAALPLAGLAGRVGTARGAPLPSYLLLASVLESLAGACGLWLLVVERSQARQRLAMGIWIKFRHSPGLLLLWTVAFAAENLALVSWNSPQWWWARADLGQQVRSAAQQSTWRDFGRKLRLLSGYLWPRGSPALQLVVLICLGLMGLERALNVLVPIFYRNIVNLLTEKAPWNSLAWTVTSYVFLKFLQGGGTGSTGFVSNLRTFLWIRVQQFTSRRVELLIFSHLHELSLRWHLGRRTGEVLRIADRGTSSVTGLLSYLVFNVIPTLADIIIGIIYFSMFFNAWFGLIVFLCMSLYLTLTIVVTEWRTKFRRAMNTQENATRARAVDSLLNFETVKYYNAESYEVERYREAIIKYQGLEWKSSASLVLLNQTQNLVIGLGLLAGSLLCAYFVTEQKLQVGDYVLFGTYIIQLYMPLNWFGTYYRMIQTNFIDMENMFDLLKEETEVKDLPGAGPLRFQKGRIEFENVHFSYADGRETLQDVSFTVMPGQTLALVGPSGAGKSTILRLLFRFYDISSGCIRIDGQDISQVTQASLRSHIGVVPQDTVLFNDTIADNIRYGRVTAGNDEVEAAAQAAGIHDAIMAFPEGYRTQVGERGLKLSGGEKQRVAIARTILKAPGIILLDEATSALDTSNERAIQASLAKVCANRTTIVVAHRLSTVVNADQILVIKDGCIVERGRHEALLSRGGVYADMWQLQQGQEETSEDTKPQTMER
+PTM	Acetylation:726;Methylation:296,482,569,798;Phosphorylation:61,63,357,456,754,755;SUMOylation:771;Ubiquitylation:464,482,575,726,743,771,836

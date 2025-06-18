@@ -1,0 +1,25 @@
+UniprotID	A6NJX0
+Accession	A6NJX0;B7ZBP4
+EntryName	A6NJX0_HUMAN
+ProteinName	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 4
+GeneName	ST6GALNAC4
+Length	200
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGSGLGAEIDSAECVFRMNQAPTVGFEADVGQRSTLRVVSHTSVPLLLRNYSHYFQKARDTLYMVWGQGRHMDRVLGGRTYRTLLQLTRMYPGLQVYTFTERMMAYCDQIFQDETGKNRRQSGSFLSTGWFTMILALELCEEIVVYGMVSDSYCREKSHPSVPYHYFEKGRLDECQMYLAHEQAPRSAHRFITEKAVFS
+PTM	

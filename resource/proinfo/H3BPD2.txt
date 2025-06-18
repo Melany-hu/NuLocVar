@@ -1,0 +1,25 @@
+UniprotID	H3BPD2
+Accession	H3BPD2
+EntryName	H3BPD2_HUMAN
+ProteinName	Methenyltetrahydrofolate synthetase domain containing
+GeneName	MTHFSD
+Length	106
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPRAVGVSKQDIREQIWGYMESQNLADFPRPVHHRIPNFKSKKTLLVPTPRLRTGLFNKITPPPGATKDILRKCATSQVPPERLGRQDRISKTCSIGNCLTSSKV
+PTM	

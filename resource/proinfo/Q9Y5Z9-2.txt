@@ -1,0 +1,25 @@
+UniprotID	Q9Y5Z9-2
+Accession	Q9Y5Z9;B3KQG3;Q53GX3;Q5THD4
+EntryName	UBIA1_HUMAN
+ProteinName	UbiA prenyltransferase domain-containing protein 1 (EC 2.5.1.-) (EC 2.5.1.39) (Transitional epithelial response protein 1)
+GeneName	UBIAD1 TERE1
+Length	179
+Function	Prenyltransferase that mediates the formation of menaquinone-4 (MK-4) and coenzyme Q10 (PubMed:20953171, PubMed:23374346). MK-4 is a vitamin K2 isoform present at high concentrations in the brain, kidney and pancreas, and is required for endothelial cell development (PubMed:20953171). Mediates the conversion of phylloquinone (PK) into MK-4, probably by cleaving the side chain of phylloquinone (PK) to release 2-methyl-1,4-naphthoquinone (menadione; K3) and then prenylating it with geranylgeranyl pyrophosphate (GGPP) to form MK-4 (PubMed:20953171). Also plays a role in cardiovascular development independently of MK-4 biosynthesis, by acting as a coenzyme Q10 biosynthetic enzyme: coenzyme Q10, also named ubiquinone, plays an important antioxidant role in the cardiovascular system (PubMed:23374346). Mediates biosynthesis of coenzyme Q10 in the Golgi membrane, leading to protect cardiovascular tissues from NOS3/eNOS-dependent oxidative stress (PubMed:23374346).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane; Mitochondrion membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASQVLGEKINILSGETVKAGDRDPLGNDCPEQDRLPQRSWRQKCASYVLALRPWSFSASLTPVALGSALAYRSHGVLDPRLLVGCAVAVLAVHGAGNLVNTYYDFSKGIDHKKSDDRTLVDRILEPQDVVRFGVFLYTLGCVCAACLYYLSPLKLEHLALIYFGGLSGSFLYTGVLI
+PTM	Methylation:10;Phosphorylation:15,153;Ubiquitylation:10,20,307

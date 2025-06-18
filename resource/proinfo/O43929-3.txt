@@ -1,0 +1,25 @@
+UniprotID	O43929-3
+Accession	O43929;B7Z3D0;B7Z5F1;D3DP86;F5H069;Q96C42
+EntryName	ORC4_HUMAN
+ProteinName	Origin recognition complex subunit 4
+GeneName	ORC4 ORC4L
+Length	362
+Function	Component of the origin recognition complex (ORC) that binds origins of replication. DNA-binding is ATP-dependent. The specific DNA sequences that define origins of replication have not been identified yet. ORC is required to assemble the pre-replication complex necessary to initiate DNA replication. Binds histone H3 and H4 trimethylation marks H3K9me3, H3K27me3 and H4K20me3.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLINHALKELMEIEEVSENVLQVHLNGLLQINDKIALKEITRQLNLENVVGDKVFGSFAENLSFLLEALKKGDRTSSCPVIFILDEFDLFAHHKNQTLLYNLFDISQSAQTPIAVIGLTCRLDILELLEKRVKSRFSHRQIHLMNSFGFPQYVKIFKEQLSLPAEFPDKVFAEKWNENVQYLSEDRSVQEVLQKHFNISKNLRSLHMLLMLALNRVTASHPFMTAVDLMEASQLCSMDSKANIVHGLSVLEICLIIAMKHLNDIYEEEPFNFQMVYNEFQKFVQRKAHSVYNFEKPVVMKAFEHLQQLELIKPMERTSGNSQREYQLMKLLLDNTQIMNALQKYPNCPTDVRQWATSSLSWL
+PTM	Acetylation:228,231,386,417;Methylation:7,52,108,112,144,204,268,369,386,417;Phosphorylation:6,8,10,14;SUMOylation:7,243,248;Ubiquitylation:112,204,228,386,417

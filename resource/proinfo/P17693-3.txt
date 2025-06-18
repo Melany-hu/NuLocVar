@@ -1,0 +1,25 @@
+UniprotID	P17693-3
+Accession	P17693
+EntryName	HLAG_HUMAN
+ProteinName	HLA class I histocompatibility antigen, alpha chain G (HLA G antigen) (MHC class I antigen G) [Cleaved into: Soluble HLA class I histocompatibility antigen, alpha chain G (sHLA-G)]
+GeneName	HLA-G HLA-6.0 HLAG
+Length	154
+Function	Non-classical major histocompatibility class Ib molecule involved in immune regulatory processes at the maternal-fetal interface (PubMed:19304799, PubMed:23184984, PubMed:29262349). In complex with B2M/beta-2 microglobulin binds a limited repertoire of nonamer self-peptides derived from intracellular proteins including histones and ribosomal proteins (PubMed:7584149, PubMed:8805247). Peptide-bound HLA-G-B2M complex acts as a ligand for inhibitory/activating KIR2DL4, LILRB1 and LILRB2 receptors on uterine immune cells to promote fetal development while maintaining maternal-fetal tolerance (PubMed:16366734, PubMed:19304799, PubMed:20448110, PubMed:23184984, PubMed:27859042, PubMed:29262349). Upon interaction with KIR2DL4 and LILRB1 receptors on decidual NK cells, it triggers NK cell senescence-associated secretory phenotype as a molecular switch to promote vascular remodeling and fetal growth in early pregnancy (PubMed:16366734, PubMed:19304799, PubMed:23184984, PubMed:29262349). Through interaction with KIR2DL4 receptor on decidual macrophages induces pro-inflammatory cytokine production mainly associated with tissue remodeling (PubMed:19304799). Through interaction with LILRB2 receptor triggers differentiation of type 1 regulatory T cells and myeloid-derived suppressor cells, both of which actively maintain maternal-fetal tolerance (PubMed:20448110, PubMed:27859042). May play a role in balancing tolerance and antiviral-immunity at maternal-fetal interface by keeping in check the effector functions of NK, CD8+ T cells and B cells (PubMed:10190900, PubMed:11290782, PubMed:24453251). Reprograms B cells toward an immune suppressive phenotype via LILRB1 (PubMed:24453251). May induce immune activation/suppression via intercellular membrane transfer (trogocytosis), likely enabling interaction with KIR2DL4, which resides mostly in endosomes (PubMed:20179272, PubMed:26460007). Through interaction with the inhibitory receptor CD160 on endothelial cells may control angiogenesis in immune privileged sites (PubMed:16809620).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Early endosome membrane; Secreted; Cell membrane; Cell membrane; Cell membrane; Secreted; Early endosome; Secreted; Secreted; Cell projection; Filopodium membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVMAPRTLFLLLSGALTLTETWAGSHSMRYFSAAVSRPGRGEPRFIAMGYVDDTQFVRFDSDSACPRMEPRAPWVEQEGPEYWEEETRNTKAHAQTDRMNLQTLRGYYNQSEAKQSSLPTIPIMGIVAGLVVLAAVVTGAAVAAVLWRKKSSD
+PTM	Phosphorylation:18;Ubiquitylation:267

@@ -1,0 +1,25 @@
+UniprotID	Q53T34
+Accession	Q53T34
+EntryName	Q53T34_HUMAN
+ProteinName	Uncharacterized protein EPB41L5
+GeneName	EPB41L5
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AVLNENNVPLPKESLETLMLITPADSGSVLKEATDELDALLASLTENLIDHTVAPQVSSTSMITPRWIVPLWSHFGRRSCPEAEVFTDH
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E9PQS4
+Accession	E9PQS4
+EntryName	E9PQS4_HUMAN
+ProteinName	PBX/knotted 1 homeobox 2
+GeneName	PKNOX2
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQHASPAPALTMMATQNVPPPPYQDSPQAPSFPAPDAAV
+PTM	

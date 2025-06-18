@@ -1,0 +1,25 @@
+UniprotID	Q9BU27
+Accession	Q9BU27
+EntryName	Q9BU27_HUMAN
+ProteinName	FAM3 metabolism regulating signaling molecule A (FAM3A protein)
+GeneName	FAM3A
+Length	70
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLAGPLRIVVLVVSVGVTWIVVSILLGGPGSGFPRIQQLFTSWSAVVQSRFTATSTSWVQAILVPQPPE
+PTM	

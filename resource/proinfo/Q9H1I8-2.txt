@@ -1,0 +1,25 @@
+UniprotID	Q9H1I8-2
+Accession	Q9H1I8;B7Z8E0;F5H6J9;Q4TT54;Q8TAZ0;Q9H711;Q9H9D6
+EntryName	ASCC2_HUMAN
+ProteinName	Activating signal cointegrator 1 complex subunit 2 (ASC-1 complex subunit p100) (Trip4 complex subunit p100)
+GeneName	ASCC2 ASC1P100 RQT3
+Length	370
+Function	Ubiquitin-binding protein involved in DNA repair and rescue of stalled ribosomes (PubMed:29144457, PubMed:32099016, PubMed:32579943, PubMed:36302773). Plays a role in DNA damage repair as component of the ASCC complex (PubMed:29144457). Recruits ASCC3 and ALKBH3 to sites of DNA damage by binding to polyubiquitinated proteins that have 'Lys-63'-linked polyubiquitin chains (PubMed:29144457). Part of the ASC-1 complex that enhances NF-kappa-B, SRF and AP1 transactivation (PubMed:12077347). Involved in activation of the ribosome quality control (RQC) pathway, a pathway that degrades nascent peptide chains during problematic translation (PubMed:32099016, PubMed:32579943, PubMed:36302773). Specifically recognizes and binds RPS20/uS10 ubiquitinated by ZNF598, promoting recruitment of the RQT (ribosome quality control trigger) complex on stalled ribosomes, followed by disassembly of stalled ribosomes (PubMed:36302773).
+Subcellular Location	Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	181...186
+validnes_region	
+nesbase_region	
+Sequence	MQKRLHRSVFLTFLRMSTHKESKDHFISPSAFGEILYNNFLFDIPKILDLCVLFGKGNSPLLQKMIGNIFTQQPSYYSDLDETLPTILQVFSNILQHCGLQGDGANTTPQKLEERGRLTPSDMPLLELKDIVLYLCDTCTTLWAFLDIFPLACQTFQKHDFCYRLASFYEAAIPEMESAIKKRRLEDSKLLGDLWQRLSHSRKKLMEIFHIILNQICLLPILESSCDNIQGFIEEFLQIFSSLLQEKRFLRDYDALFPVAEDISLLQQASSVLDETRTAYILQAVESAWEGVDRRKATDAKDPSVIEEPNGEPNGVTVTAEAVSQASSHPENSEEEECMGAAAAVGPAMCGVELDSLISQVKDLLPDLEK
+PTM	Acetylation:117,526;Methylation:89,160,170,178,243,295,361,577,651,699,715;Phosphorylation:233,235,513,530,534,638,706,707,708,713;SUMOylation:526;Ubiquitylation:14,41,117,295,303,577

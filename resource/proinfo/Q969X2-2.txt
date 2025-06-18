@@ -1,0 +1,25 @@
+UniprotID	Q969X2-2
+Accession	Q969X2;B3KQ01;Q5T9C4;Q5T9C5;Q9H8A2;Q9ULB8
+EntryName	SIA7F_HUMAN
+ProteinName	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6 (EC 2.4.99.-) (GalNAc alpha-2,6-sialyltransferase VI) (ST6GalNAc VI) (ST6GalNAcVI) (hST6GalNAc VI) (Sialyltransferase 7F) (SIAT7-F)
+GeneName	ST6GALNAC6 SIAT7F UNQ708/PRO1359
+Length	299
+Function	Transfers the sialyl group (N-acetyl-alpha-neuraminyl or NeuAc) from CMP-NeuAc onto glycoproteins and glycolipids, forming an alpha-2,6-linkage. Produces branched type disialyl structures by transfer of a sialyl group onto the GalNAc or GlcNAc residue inside backbone core chains having a terminal sialic acid with an alpha-2,3-linkage on Gal. ST6GalNAcVI prefers glycolipids to glycoproteins, predominantly catalyzing the biosynthesis of ganglioside GD1alpha from GM1b (PubMed:12668675, PubMed:17123352). Besides GMb1, MSGG and other glycolipids, it shows activity towards sialyl Lc4Cer generating disialyl Lc4Cer, which can lead to the synthesis of disialyl Lewis a (Le(a)), suggested to be a cancer-associated antigen (PubMed:12668675). Also has activity toward GD1a and GT1b, and can generate DSGG (disialylgalactosylgloboside) from MSGG (monosialylgalactosylgloboside) (By similarity).
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSNKEQRSAVFVILFALITILILYSSNSANEVFHYGSLRGRSRRPVNLKKWSITDGYVPILGNKTLPSRCHQCVIVSSSSHLLGTKLGPEIERAECTIRMNDAPTTGYSADVGNKTTYRVVAHSSVFRVLRRPQEFVNRTPETVFIFWGPPSKMQKPQGSLVRVIQRAGLVFPNMEAYAVSPGRMRQFDDLFRGETGKDREKSHSWLSTGWFTMVIAVELCDHVHVYGMVPPNYCSQRPRLQRMPYHYYEPKGPDECVTYIQNEHSRKGNHHRFITEKRVFSSWAQLYGITFSHPSWT
+PTM	Glycosylation:149,173;Methylation:39,84,313;Phosphorylation:8,13,43,59,72,301

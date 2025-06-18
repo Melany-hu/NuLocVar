@@ -1,0 +1,25 @@
+UniprotID	P17181-2
+Accession	P17181;B2R6L9;B4DNT3;D3DSF0;Q53GW9;Q53H11;Q6PKD7;Q7M4L2;Q8WTZ2
+EntryName	INAR1_HUMAN
+ProteinName	Interferon alpha/beta receptor 1 (IFN-R-1) (IFN-alpha/beta receptor 1) (Cytokine receptor class-II member 1) (Cytokine receptor family 2 member 1) (CRF2-1) (Type I interferon receptor 1)
+GeneName	IFNAR1 IFNAR
+Length	434
+Function	Together with IFNAR2, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa) (PubMed:10049744, PubMed:14532120, PubMed:15337770, PubMed:2153461, PubMed:21854986, PubMed:24075985, PubMed:31270247, PubMed:33252644, PubMed:35442418, PubMed:7813427). Type I interferon binding activates the JAK-STAT signaling cascade, resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response (PubMed:10049744, PubMed:21854986, PubMed:7665574). Mechanistically, type I interferon-binding brings the IFNAR1 and IFNAR2 subunits into close proximity with one another, driving their associated Janus kinases (JAKs) (TYK2 bound to IFNAR1 and JAK1 bound to IFNAR2) to cross-phosphorylate one another (PubMed:21854986, PubMed:32972995, PubMed:7665574, PubMed:7813427). The activated kinases phosphorylate specific tyrosine residues on the intracellular domains of IFNAR1 and IFNAR2, forming docking sites for the STAT transcription factors (PubMed:21854986, PubMed:32972995, PubMed:7526154, PubMed:7665574, PubMed:7813427). STAT proteins are then phosphorylated by the JAKs, promoting their translocation into the nucleus to regulate expression of interferon-regulated genes (PubMed:19561067, PubMed:21854986, PubMed:32972995, PubMed:7665574, PubMed:7813427, PubMed:9121453). Can also act independently of IFNAR2: form an active IFNB1 receptor by itself and activate a signaling cascade that does not involve activation of the JAK-STAT pathway (By similarity).
+Subcellular Location	Cell membrane; Late endosome; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMVVLLGATTLVLVAVAPWVLSAAAGGKNLKSPQKVEVDIIDDNFILRWNRSDESVGNVTFSFDYQKTGMDNWIKLSGCQNITSTKCNFSSLKLNVYEEIKLRIRAEKENTSSWYEVDSFTPFRKAQIGPPEVHLEAEDKAIVIHISPGTKDSVMWALDGLSFTYSLVIWKNSSGVEERIENIYSRHKIYKLSPETTYCLKVKAALLTSWKIGVYSPVHCIKTTVENELPPPENIEVSVQNQNYVLKWDYTYANMTFQVQWLHAFLKRNPGNHLYKWKQIPDCENVKTTQCVFPQNVFQKGIYLLRVQASDGNNTSFWSEEIKFDTEIQAFLLPPVFNIRSLSDSFHIYIGAPKQSGNTPVIQDYPLIYEIIFWENTSNAERKIIEKKTDVTVPNLKPLTVYCVKARAHTMDEKLNKSSVFSDAVCENISLNSH
+PTM	Glycosylation:81,376;Methylation:101,287,300,323,387,501;Phosphorylation:493,494,495,535,539,544;SUMOylation:188,201;Ubiquitylation:31,86,276,287,397

@@ -1,0 +1,25 @@
+UniprotID	R4GMN5
+Accession	R4GMN5
+EntryName	R4GMN5_HUMAN
+ProteinName	Ankyrin repeat and sterile alpha motif domain containing 1B
+GeneName	ANKS1B
+Length	107
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQGDARRRRNENYFDDIPRSKLERQMAQTGDWGEPSITLRPPNEATASTPVQYWQHHPEKLIFQSCDYKAFYLGSMLIKELRGTESTQDACAKMRLSNFNFRSLQSK
+PTM	

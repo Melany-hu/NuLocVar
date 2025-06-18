@@ -1,0 +1,25 @@
+UniprotID	B7Z8H2
+Accession	B7Z8H2
+EntryName	B7Z8H2_HUMAN
+ProteinName	cDNA FLJ52038, highly similar to DNA (cytosine-5)-methyltransferase-like protein 2 (tRNA aspartic acid methyltransferase 1)
+GeneName	TRDMT1
+Length	254
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPLRVLELYSGVGGMHHALRESCIPAQVVAAIDVNTVANEVYKYNFPHTQLLAKTIEVLMEFPKIESVHPQKYAMDVENKIQEKNVEPNISFDGSIQCSGKDAILFKLETAEEIHRKNQQDSDLSVKMLKDFLEDDTDVNQYLLPPKSLLRYALLLDIVQPTCRRSVCFTKGYGSYIEGTGSVLQTAEDVQVENIYKSLTNLSQEEQITKLLILKLRYFTPKEIANLLGFPPEFGMWDTCRIQLSCIKTLKNL
+PTM	

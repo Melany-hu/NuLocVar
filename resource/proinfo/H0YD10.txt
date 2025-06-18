@@ -1,0 +1,25 @@
+UniprotID	H0YD10
+Accession	H0YD10
+EntryName	H0YD10_HUMAN
+ProteinName	X-ray radiation resistance associated 1
+GeneName	XRRA1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRGSPHKEPQFMLQSKPRMLEDSDEQLDYTVLPMKKDVDRTDRKRGCCPTSSSLPISLRVRLS
+PTM	

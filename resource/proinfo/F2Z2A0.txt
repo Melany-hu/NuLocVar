@@ -1,0 +1,25 @@
+UniprotID	F2Z2A0
+Accession	F2Z2A0
+EntryName	F2Z2A0_HUMAN
+ProteinName	Protein C, inactivator of coagulation factors Va and VIIIa
+GeneName	PROC
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQLTSLLLFVATWGISGTPAPLGAADPQTCQLLPGGAPSQQPGAGVHRGDL
+PTM	

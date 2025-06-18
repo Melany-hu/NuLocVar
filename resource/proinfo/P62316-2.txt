@@ -1,0 +1,25 @@
+UniprotID	P62316-2
+Accession	P62316;A8K797;J3KPM5;P43330
+EntryName	SMD2_HUMAN
+ProteinName	Small nuclear ribonucleoprotein Sm D2 (Sm-D2) (snRNP core protein D2)
+GeneName	SNRPD2 SNRPD1
+Length	108
+Function	Plays a role in pre-mRNA splicing as a core component of the spliceosomal U1, U2, U4 and U5 small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome (PubMed:11991638, PubMed:18984161, PubMed:19325628, PubMed:23333303, PubMed:25555158, PubMed:26912367, PubMed:28076346, PubMed:28502770, PubMed:28781166, PubMed:32494006). Component of both the pre-catalytic spliceosome B complex and activated spliceosome C complexes (PubMed:11991638, PubMed:28076346, PubMed:28502770, PubMed:28781166). As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (PubMed:15146077).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPEELQKREEEEFNTGPLSVLTQSVKNNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEMWTEVPKSGKGKKKSKPVNKDRYISKMFLRGDSVIVVLRNPLIAGK
+PTM	Acetylation:6,8,18,71,79,98;Methylation:6,18,37,61,71;Phosphorylation:2,9,12,26,35,75,80,105;SUMOylation:6,8,18,71,79;Ubiquitylation:6,8,18,37,57,71,92,98

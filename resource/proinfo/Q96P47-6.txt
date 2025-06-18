@@ -1,0 +1,25 @@
+UniprotID	Q96P47-6
+Accession	Q96P47;B3KNZ8;E9PAL8;Q59EN0;Q96RK3
+EntryName	AGAP3_HUMAN
+ProteinName	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 3 (AGAP-3) (CRAM-associated GTPase) (CRAG) (Centaurin-gamma-3) (Cnt-g3) (MR1-interacting protein) (MRIP-1)
+GeneName	AGAP3 CENTG3
+Length	396
+Function	GTPase-activating protein for the ADP ribosylation factor family (Potential). GTPase which may be involved in the degradation of expanded polyglutamine proteins through the ubiquitin-proteasome pathway.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNFQAGGGQSPQQQQSLAAPGGGGAAAQQLVCGGQFGGAGPGAGGGGGPSQQLAGGPPQQFALSNSAAIRAEIQRFESVHPNIYAIYDLIERIEDLALQNQIREHVISIEDSFVNSQEWTLSRSVPELKVGIVGNLSSGKSALVHRYLTGTYVQEESPEGGRFKKEIVVDGQSYLLLIRDEGGPPELQFAAWVDAVVFVFSLEDEISFQTVYNYFLRLCSFRNASEVPMVLVGTQDAISAANPRVIDDSRARKLSTDLKRCTYYETCATYGLNVERVFQDVAQKVVALRKKQQLAIGPCKSLPNSPSHSAVSAASIPAVHINQATNGGGSAFSDYSSSVPSTPSISQRELRIETIAASSTPTPIRKQSKRRSNIFTICATVSNFSSTKRPFQLLPN
+PTM	Methylation:223,376;Phosphorylation:121,184,318,322,323,324,326,332,336,435,438,442,443,450,496,498,529,530,538,541,680;Ubiquitylation:223,425,736

@@ -1,0 +1,25 @@
+UniprotID	A0A3B3ITJ2
+Accession	A0A3B3ITJ2
+EntryName	A0A3B3ITJ2_HUMAN
+ProteinName	uroporphyrinogen-III synthase (EC 4.2.1.75) (Hydroxymethylbilane hydrolyase [cyclizing]) (Uroporphyrinogen-III cosynthase)
+GeneName	UROS
+Length	265
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVLLLKDAKEDDCGQDPYIRELGLYGLEATLIPVLSFEFLSLPSFSEKLSHPEDYGGLIFTSPRAVEAAELCLEQNNKTEVWERSLKEKWNAKSVYVVGNATASLVSKIGLDTEGETCGNAEKLAEYICSRIAMESITVYQTVAHPGIQGNLNSYYSQQGVPASITFFSPSGLTYSLKHIQELSGDNIDQIKTQGPQHPKKNCLQLEPLRKDCTDTAVMFAAIGPTTARALAAQGLPVSCTAESPTPQALATGIRKALQPHGCC
+PTM	

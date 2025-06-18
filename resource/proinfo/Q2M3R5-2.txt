@@ -1,0 +1,25 @@
+UniprotID	Q2M3R5-2
+Accession	Q2M3R5;Q86YG5;Q8NBA5
+EntryName	S35G1_HUMAN
+ProteinName	Solute carrier family 35 member G1 (Partner of STIM1) (Transmembrane protein 20)
+GeneName	SLC35G1 C10orf60 POST TMEM20
+Length	364
+Function	May play a role in intracellular calcium sensing and homeostasis. May act as a negative regulator of plasma membrane calcium-transporting ATPases preventing calcium efflux from the cell.
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPQDSTGVAELQEPGLPLTDDAPPGATEEPAAAEAAGAPDRGRCWLCLSSPCCSRTEPAKKKAPCPGLGLFYTLLSAFLFSVGSLFVKKVQDVHAVEISAFRCVFQMLVVIPCLIYRKTGFIGPKGQRIFLILRGVLGSTAMMLIYYAYQTMSLADATVITFSSPVFTSIFAWICLKEKYSPWDALFTVFTITGVILIVRPPFLFGSDTSGMEESYSGHLKGTFAAIGSAVFAASTLVILRKMGKSVDYFLSIWYYVVLGLVESVIILSVLGEWSLPYCGLDRLFLIFIGLFGLGGQIFITKALQIEKAGPVAIMKTMDVVFAFIFQIIFFNNVPTWWTVGGALCVVASNVGAAIRKWYQSSK
+PTM	Methylation:90,244,310;Phosphorylation:51,74,101;Ubiquitylation:127

@@ -1,0 +1,25 @@
+UniprotID	Q9NXL9-3
+Accession	Q9NXL9;B4DR30;B9DI77;Q2KHJ0;Q8N5S5;Q9HCV5
+EntryName	MCM9_HUMAN
+ProteinName	DNA helicase MCM9 (hMCM9) (EC 3.6.4.12) (Mini-chromosome maintenance deficient domain-containing protein 1) (Minichromosome maintenance 9)
+GeneName	MCM9 C6orf61 MCMDC1
+Length	391
+Function	Component of the MCM8-MCM9 complex, a complex involved in the repair of double-stranded DNA breaks (DBSs) and DNA interstrand cross-links (ICLs) by homologous recombination (HR) (PubMed:23401855). Required for DNA resection by the MRE11-RAD50-NBN/NBS1 (MRN) complex by recruiting the MRN complex to the repair site and by promoting the complex nuclease activity (PubMed:26215093). Probably by regulating the localization of the MRN complex, indirectly regulates the recruitment of downstream effector RAD51 to DNA damage sites including DBSs and ICLs (PubMed:23401855). Acts as a helicase in DNA mismatch repair (MMR) following DNA replication errors to unwind the mismatch containing DNA strand (PubMed:26300262). In addition, recruits MLH1, a component of the MMR complex, to chromatin (PubMed:26300262). The MCM8-MCM9 complex is dispensable for DNA replication and S phase progression (PubMed:23401855). Probably by regulating HR, plays a key role during gametogenesis (By similarity).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSDQVTLVGQVFESYVSEYHKNDILLILKERDEDAHYPVVVNAMTLFETNMEIGEYFNMFPSEVLTIFDSALRRSALTILQSLSQPEAVSMKQNLHARISGLPVCPELVREHIPKTKDVGHFLSVTGTVIRTSLVKVLEFERDYMCNKCKHVFVIKADFEQYYTFCRPSSCPSLESCDSSKFTCLSGLSSSPTRCRDYQEIKIQEQVQRLSVGSIPRSMKVILEDDLVDSCKSGDDLTIYGIVMQRWKPFQQDVRCEVEIVLKANYIQVNNEQSSGIIMDEEVQKEFEDFWEYYKSDPFAGRNVILASLCPQVFGMYLVKLAVAMVLAGGIQRTDATGTRVRGESHLLLVGDPGTGKSQFLKYAAKITPRSVLTTGIGSTSAGIVCDNFK
+PTM	Acetylation:1013;Methylation:30,157,203,264,286,446,509,638,858,892,911,1117;Phosphorylation:79,83,91,212,215,346,356,502,503,663,673,711,725,726,741,762,806,878,879,883,890,915,934,939,942,952,1067,1087,1088,1099,1109,1110;SUMOylation:221,911,919;Ubiquitylation:93,1102

@@ -1,0 +1,25 @@
+UniprotID	O43424-2
+Accession	O43424;E9PH24;Q4KKU8;Q4KKU9;Q4KKV0;Q59FZ1
+EntryName	GRID2_HUMAN
+ProteinName	Glutamate receptor ionotropic, delta-2 (GluD2) (GluR delta-2 subunit)
+GeneName	GRID2 GLURD2
+Length	912
+Function	Member of the ionotropic glutamate receptor family, which plays a crucial role in synaptic organization and signal transduction in the central nervous system. Although it shares structural features with ionotropic glutamate receptors, does not bind glutamate as a primary ligand (PubMed:34936451). Promotes synaptogenesis and mediates the D-Serine-dependent long term depression signals and AMPA receptor endocytosis of cerebellar parallel fiber-Purkinje cell (PF-PC) synapses through the NRX1B-CBLN1-GRID2 triad complex (PubMed:27418511). In the presence of neurexins and cerebellins, forms cation-selective channels that are proposed to be gated by glycine and D-serine (PubMed:34936451). However, recent research disputes this ligand-gated cation channel activity (PubMed:39052831). Cation-selective ion channel activity can be triggered by GRM1 in Purkinje cells (PubMed:24357660, PubMed:27276689).
+Subcellular Location	Postsynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVFPFLLVLSVWWSRTWDSANADSIIHIGAIFDESAKKDDEVFRTAVGDLNQNEEILQTEKITFSVTFVDGNNPFQAVQEDIRGIQEFLDKVSQQGMDVALQKVENNINKMITTLFDTMRIEELNRYRDTLRRAILVMNPATAKSFITEVVETNLVAFDCHWIIINEEINDVDVQELVRRSIGRLTIIRQTFPVPQNISQRCFRGNHRISSTLCDPKDPFAQNMEISNLYIYDTVLLLANAFHKKLEDRKWHSMASLSCIRKNSKPWQGGRSMLETIKKGGVSGLTGELEFGENGGNPNVHFEILGTNYGEELGRGVRKLGCWNPVTGLNGSLTDKKLENNMRGVVLRVVTVLEEPFVMVSENVLGKPKKYQGFSIDVLDALSNYLGFNYEIYVAPDHKYGSPQEDGTWNGLVGELVFKRADIGISALTITPDRENVVDFTTRYMDYSVGVLLRRAEKTVDMFACLAPFDLSLWACIAGTVLLVGLLVYLLNWLNPPRLQMGSMTSTTLYNSMWFVYGSFVQQGGEVPYTTLATRMMMGAWWLFALIVISSYTANLAAFLTITRIESSIQSLQDLSKQTEIPYGTVLDSAVYEHVRMKGLNPFERDSMYSQMWRMINRSNGSENNVLESQAGIQKVKYGNYAFVWDAAVLEYVAINDPDCSFYTIGNTVADRGYGIALQHGSPYRDVFSQRILELQQNGDMDILKHKWWPKNGQCDLYSSVDTKQKGGALDIKSFAGVFCILAAGIVLSCFIAMLETWWNKRKGSRVPSKEDDKEIDLEHLHRRVNSLCTDDDSPHKQFSTSSIDLTPLDIDTLPTRQALEQISDFRNTHITTTTFIPEQIQTLSRTLSAKAASGFTFGNVPEHRTGPFRHRAPNGGFFRSPIKTMSSIPYQPTPTLGLNLGNDPDRGTSI
+PTM	Methylation:187,199,374,463,673,801,829,947;Phosphorylation:60,354,537,543,544,663,664,667,672

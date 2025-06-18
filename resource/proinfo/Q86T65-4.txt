@@ -1,0 +1,25 @@
+UniprotID	Q86T65-4
+Accession	Q86T65;G5EA45;Q5T4T8;Q5T4U0;Q9NQI5;Q9Y4G0
+EntryName	DAAM2_HUMAN
+ProteinName	Disheveled-associated activator of morphogenesis 2
+GeneName	DAAM2 KIAA0381
+Length	1067
+Function	Key regulator of the Wnt signaling pathway, which is required for various processes during development, such as dorsal patterning, determination of left/right symmetry or myelination in the central nervous system. Acts downstream of Wnt ligands and upstream of beta-catenin (CTNNB1). Required for canonical Wnt signaling pathway during patterning in the dorsal spinal cord by promoting the aggregation of Disheveled (Dvl) complexes, thereby clustering and formation of Wnt receptor signalosomes and potentiating Wnt activity. During dorsal patterning of the spinal cord, inhibits oligodendrocytes differentiation via interaction with PIP5K1A. Also regulates non-canonical Wnt signaling pathway. Acts downstream of PITX2 in the developing gut and is required for left/right asymmetry within dorsal mesentery: affects mesenchymal condensation by lengthening cadherin-based junctions through WNT5A and non-canonical Wnt signaling, inducing polarized condensation in the left dorsal mesentery necessary to initiate gut rotation. Together with DAAM1, required for myocardial maturation and sarcomere assembly. Is a regulator of actin nucleation and elongation, filopodia formation and podocyte migration (PubMed:33232676).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRKRSHHGLGFLCCFGGSDIPEINLRDNHPLQFMEFSSPIPNAEELNIRFAELVDELDLTDKNREAMFALPPEKKWQIYCSKKKEQEDPNKLATSWPDYYIDRINSMAAMQSLYAFDEEETEMRNQVVEDLKTALRTQPMRFVTRFIELEGLTCLLNFLRSMDHATCESRIHTSLIGCIKALMNNSQGRAHVLAQPEAISTIAQSLRTENSKTKVAVLEILGAVCLVPGGHKKVLQAMLHYQVYAAERTRFQTLLNELDRSLGRYRDEVNLKTAIMSFINAVLNAGAGEDNLEFRLHLRYEFLMLGIQPVIDKLRQHENAILDKHLDFFEMVRNEDDLELARRFDMVHIDTKSASQMFELIHKKLKYTEAYPCLLSVLHHCLQMPYKRNGGYFQQWQLLDRILQQIVLQDERGVDPDLAPLENFNVKNIVNMLINENEVKQWRDQAEKFRKEHMELVSRLERKERECETKTLEKEEMMRTLNKMKDKLARESQELRQARGQVAELVAQLSELSTGPVSSPPPPGGPLTLSSSMTTNDLPPPPPPLPFACCPPPPPPPLPPGGPPTPPGAPPCLGMGLPLPQDPYPSSDVPLRKKRVPQPSHPLKSFNWVKLNEERVPGTVWNEIDDMQVFRILDLEDFEKMFSAYQRHQKELGSTEDIYLASRKVKELSVIDGRRAQNCIILLSKLKLSNEEIRQAILKMDEQEDLAKDMLEQLLKFIPEKSDIDLLEEHKHEIERMARADRFLYEMSRIDHYQQRLQALFFKKKFQERLAEAKPKVEAILLASRELVRSKRLRQMLEVILAIGNFMNKGQRGGAYGFRVASLNKIADTKSSIDRNISLLHYLIMILEKHFPDILNMPSELQHLPEAAKVNLAELEKEVGNLRRGLRAVEVLEYQRRQVREPSDKFVPVMSDFITVSSFSFSELEDQLNEARDKFAKALMHFGEHDSKMQPDEFFGIFDTFLQAFSEARQDLEAMRRRKEEEERRARMEAMLKEQRERERWQRQRKVLAAGSSLEEGGEFDDLVSALRSGEVFDKDLCKLKRSRKRSGSQALEVTRERAINRLNY
+PTM	Acetylation:76;Methylation:274,315,326,442,476,606,642,687,701,710,718,793,851,879,996;Phosphorylation:81,83,512,589,656,657,1015,1016,1050,1052;Ubiquitylation:64,442,612

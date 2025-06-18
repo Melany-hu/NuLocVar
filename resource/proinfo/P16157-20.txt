@@ -1,0 +1,25 @@
+UniprotID	P16157-20
+Accession	P16157;A0PJN8;A6NJ23;E5RFL7;O43400;Q13768;Q53ER1;Q59FP2;Q8N604;Q99407
+EntryName	ANK1_HUMAN
+ProteinName	Ankyrin-1 (ANK-1) (Ankyrin-R) (Erythrocyte ankyrin)
+GeneName	ANK1 ANK
+Length	74
+Function	Component of the ankyrin-1 complex, a multiprotein complex involved in the stability and shape of the erythrocyte membrane (PubMed:35835865). Attaches integral membrane proteins to cytoskeletal elements; binds to the erythrocyte membrane protein band 4.2, to Na-K ATPase, to the lymphocyte membrane protein GP85, and to the cytoskeletal proteins fodrin, tubulin, vimentin and desmin. Erythrocyte ankyrins also link spectrin (beta chain) to the cytoplasmic domain of the erythrocytes anion exchange protein; they retain most or all of these binding functions.
+Subcellular Location	Cytoplasm; Cytoskeleton; Membrane; Cytoplasm; Myofibril; Sarcomere; M line; Sarcoplasmic reticulum; Sarcoplasmic reticulum; Sarcoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTFVTQLLVTLVLLSFFLVSCQNVMHIVRGSLCFVLKHIHQVELRGSGLQPDLIEGRKGAQIVKRASLKRGKQ
+PTM	Methylation:27,128,360,392,454,460,525,567,586,657,689,755,787,1048,1102,1752,1830;Phosphorylation:3,4,14,15,267,429,433,594,603,736,779,781,783,817,826,834,856,942,960,961,1042,1085,1262,1378,1380,1392,1393,1396,1398,1400,1428,1593,1596,1607,1646,1660,1666,1671,1674,1684,1686,1688,1690,1693,1696

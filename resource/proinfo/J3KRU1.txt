@@ -1,0 +1,25 @@
+UniprotID	J3KRU1
+Accession	J3KRU1
+EntryName	J3KRU1_HUMAN
+ProteinName	Protein phosphatase 4 regulatory subunit 1
+GeneName	PPP4R1
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTPLGRLDKYAASENIFNRQMVARSLLDTLREVCDDERDCIAVLERISRLADDSEPTVRAELMEQVPHIALFCQENRPSIPYAFSKFLLPIVVRYL
+PTM	

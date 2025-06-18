@@ -1,0 +1,25 @@
+UniprotID	F8VPB3
+Accession	F8VPB3
+EntryName	F8VPB3_HUMAN
+ProteinName	Thiamin pyrophosphokinase 1
+GeneName	TPK1
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVPTAYMISPKEREKAFCLNSSMETLILLGLKSENTMLLRC
+PTM	

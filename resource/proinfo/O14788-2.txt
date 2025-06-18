@@ -1,0 +1,25 @@
+UniprotID	O14788-2
+Accession	O14788;O14723;Q96Q17;Q9P2Q3
+EntryName	TNF11_HUMAN
+ProteinName	Tumor necrosis factor ligand superfamily member 11 (Osteoclast differentiation factor) (ODF) (Osteoprotegerin ligand) (OPGL) (Receptor activator of nuclear factor kappa-B ligand) (RANKL) (TNF-related activation-induced cytokine) (TRANCE) (CD antigen CD254) [Cleaved into: Tumor necrosis factor ligand superfamily member 11, membrane form; Tumor necrosis factor ligand superfamily member 11, soluble form]
+GeneName	TNFSF11 OPGL RANKL TRANCE
+Length	244
+Function	Cytokine that binds to TNFRSF11B/OPG and to TNFRSF11A/RANK. Osteoclast differentiation and activation factor. Augments the ability of dendritic cells to stimulate naive T-cell proliferation. May be an important regulator of interactions between T-cells and dendritic cells and may play a role in the regulation of the T-cell-dependent immune response. May also play an important role in enhanced bone-resorption in humoral hypercalcemia of malignancy (PubMed:22664871). Induces osteoclastogenesis by activating multiple signaling pathways in osteoclast precursor cells, chief among which is induction of long lasting oscillations in the intracellular concentration of Ca (2+) resulting in the activation of NFATC1, which translocates to the nucleus and induces osteoclast-specific gene transcription to allow differentiation of osteoclasts. During osteoclast differentiation, in a TMEM64 and ATP2A2-dependent manner induces activation of CREB1 and mitochondrial ROS generation necessary for proper osteoclast generation (By similarity).
+Subcellular Location	Cell membrane; Cell membrane; Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPNRISEDGTHCIYRILRLHENADFQDTTLESQDTKLIPDSCRRIKQAFQGAVQKELQHIVGSQHIRAEKAMVDGSWLDLAKRSKLEAQPFAHLTINATDIPSGSHKVSLSSWYHDRGWAKISNMTFSNGKLIVNQDGFYYLYANICFRHHETSGDLATEYLQLMVYVTKTSIKIPSSHTLMKGGSTKYWSGNSEFHFYSINVGGFFKLRSGEEISIEVSNPSLLDPDQDATYFGAFKVRDID
+PTM	Methylation:129,156,282;Phosphorylation:5

@@ -1,0 +1,25 @@
+UniprotID	Q6MZP7-2
+Accession	Q6MZP7;Q32M68;Q32M69;Q6N071;Q76B60
+EntryName	LIN54_HUMAN
+ProteinName	Protein lin-54 homolog (CXC domain-containing protein 1)
+GeneName	LIN54 CXCDC1 KIAA2037
+Length	660
+Function	Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context (PubMed:17531812, PubMed:17671431). In G0 phase, the complex binds to more than 800 promoters and is required for repression of E2F target genes (PubMed:17531812, PubMed:17671431). In S phase, the complex selectively binds to the promoters of G2/M genes whose products are required for mitosis and participates in their cell cycle dependent activation (PubMed:17531812, PubMed:17671431). In the complex, acts as a DNA-binding protein that binds the promoter of CDK1 in a sequence-specific manner (PubMed:19725879). Specifically recognizes the consensus motif 5'-TTYRAA-3' in target DNA (PubMed:27465258).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	504...508
+validnes_region	
+nesbase_region	
+Sequence	MEVVPAEVNSLLPEEIMDTGITLVDDDSIEAVIVSSPIPMETELEEIVNINSTGDSTATPISTEPITVYSNHTNQVAVNTTITKADSNTTVKPAFPSGLQKLGAQTPVTISANQIILNKVSQTSDLKLGNQTLKPDGQKLILTTLGKSGSPIVLALPHSQLPQAQKVTTQAQSGDAKLPPQQIKVVTIGGRPEVKPVIGVSALTPGSQLINTTTQPSVLQTQQLKTVQAVKSTVQTITVGGVSTSQFKTIIPLATAPNVQQIQVPGSKFHYVRLVTATSASSSTQPVSQNPSTNTQPLQQAKPVVVNTTPVRMSVPIVSAQAVKQVVPKPINPTSQIVTTSQPQQRLIMPATPLPQIQPNLTNLPPGTVLAPAPGTGNVGYAVLPAQYVTQLQQSSYVSIASNSTFTGTSGIQTQARLPFNGIIPSESASRPRKPCNCTKSLCLKLYCDCFANGEFCNNCNCTNCYNNLEHENERQKAIKACLDRNPEAFKPKIGKGKEGESDRRHSKGCNCKRSGCLKNYCECYEAKIMCSSICKCIGCKNFEESPERKTLMHLADAAEVRVQQQTAAKTKLSSQISDLLTRPTPALNSGGGKLPFTFVTKEVAEATCNCLLAQAEQADKKGKSKAAAERMILEEFGRCLMSVINSAGKAKSDPCAMNC
+PTM	Acetylation:92,134,147,244,249,357,418,580,661;Glycosylation:109,238,276,344;Methylation:119,134,184,225,231,337;Phosphorylation:121,132,148,150,235,257,261,264,274,276,277,280,282,310,314,321,333,344,397,398,430,635,640,664;SUMOylation:92,127,134,139,166,177,244,249,254,313,320,357,418,529,569,580,639,659,661,683,691;Ubiquitylation:608

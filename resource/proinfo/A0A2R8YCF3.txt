@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YCF3
+Accession	A0A2R8YCF3
+EntryName	A0A2R8YCF3_HUMAN
+ProteinName	Ataxin 1
+GeneName	ATXN1
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPASQEARDPRHQPVLRGEGPYPAQRQPPGGGHSMAPGQPWWPGPRGREAWAGRDLGGAWFTTGNRFTQSIVHRAGLLPAQRSQVCPRGHHAACRVRHPAARDPGVPRAVRSPAAHLPVHWVLPIQWNLCQLHPITADPPNRQPRHQCSGLGRRGHHSIPALPAGGLFHSAGQHGQSEPDAGTQG
+PTM	

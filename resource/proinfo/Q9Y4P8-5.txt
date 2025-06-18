@@ -1,0 +1,25 @@
+UniprotID	Q9Y4P8-5
+Accession	Q9Y4P8;B3KNC2;Q5MNZ8;Q6FI96;Q75L50;Q96IE4;Q9Y364
+EntryName	WIPI2_HUMAN
+ProteinName	WD repeat domain phosphoinositide-interacting protein 2 (WIPI-2) (WIPI49-like protein 2)
+GeneName	WIPI2 CGI-50
+Length	438
+Function	Component of the autophagy machinery that controls the major intracellular degradation process by which cytoplasmic materials are packaged into autophagosomes and delivered to lysosomes for degradation (PubMed:20505359, PubMed:28561066). Involved in an early step of the formation of preautophagosomal structures (PubMed:20505359, PubMed:28561066). Binds and is activated by phosphatidylinositol 3-phosphate (PtdIns3P) forming on membranes of the endoplasmic reticulum upon activation of the upstream ULK1 and PI3 kinases (PubMed:28561066). Mediates ER-isolation membranes contacts by interacting with the ULK1:RB1CC1 complex and PtdIns3P (PubMed:28890335). Once activated, WIPI2 recruits at phagophore assembly sites the ATG12-ATG5-ATG16L1 complex that directly controls the elongation of the nascent autophagosomal membrane (PubMed:20505359, PubMed:28561066).
+Subcellular Location	Preautophagosomal structure membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLRLQRIKTLRPPGCPHPMTTCSAGTLSAVPCVSPRQVFVFERRFCLWHSHVEMFTHVLPFVISADTEDVCIVERLFSSSLVAIVSLKAPRKLKVCHFKKGTEICNYSYSNTILAVKLNRQRLIVCLEESLYIHNIRDMKVLHTIRETPPNPAGLCALSINNDNCYLAYPGSATIGEVQVFDTINLRAANMIPAHDSPLAALAFDASGTKLATASEKGTVIRVFSIPEGQKLFEFRRGVKRCVSICSLAFSMDGMFLSASSNTETVHIFKLETVKEKPPEEPTTWTGYFGKVLMASTSYLPSQVTEMFNQGRAFATVRLPFCGHKNICSLATIQKIPRLLVGAADGYLYMYNLDPQEGGECALMKQHRLDGSLETTNEILDSASHDCPLVTQTYGAAAGKAYTDDLGAVGGACLEDEASALRLDEDSEHPPMILRTD
+PTM	Acetylation:105,223;Methylation:216,341,406;Phosphorylation:115,118,294,388,400,408,409,412,413,415;SUMOylation:216,223,281,341,371;Ubiquitylation:28,100,146,216,223,237,331,341,371

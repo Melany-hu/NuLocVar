@@ -1,0 +1,25 @@
+UniprotID	Q8N6F5
+Accession	Q8N6F5
+EntryName	Q8N6F5_HUMAN
+ProteinName	ZNF33A protein
+GeneName	ZNF33A
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TRPERSQENQSKHLWEVVFINNEMLTKEQGDVIGIPFNVDAPEMLMPLD
+PTM	

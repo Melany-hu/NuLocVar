@@ -1,0 +1,25 @@
+UniprotID	C4AM88
+Accession	C4AM88
+EntryName	C4AM88_HUMAN
+ProteinName	5'-nucleotidase, cytosolic IB
+GeneName	NT5C1B
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQTSLKQKKNEPGMRSSKESLEAEKRKESDKTGVRLSNQGSQESSLRKTDSRGYLVRSQWSRISRSPSTKAPSIDEPRSRNTSAKVELPSSPRSSHPRRPSCPGRWTRGLPRPQSPILAPGAAPKCKRIRRPGPKASCGKSARPGTRSRWNIRARPPPSGSPPASAGGSTPPPPSWTATLCPSSSSSSGRTRTTTRLPTGHP
+PTM	

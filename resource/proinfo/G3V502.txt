@@ -1,0 +1,25 @@
+UniprotID	G3V502
+Accession	G3V502
+EntryName	G3V502_HUMAN
+ProteinName	Mitochondrial import inner membrane translocase subunit
+GeneName	TIMM9
+Length	66
+Function	Mitochondrial intermembrane chaperone that participates in the import and insertion of some multi-pass transmembrane proteins into the mitochondrial inner membrane. Also required for the transfer of beta-barrel precursors from the TOM complex to the sorting and assembly machinery (SAM complex) of the outer membrane. Acts as a chaperone-like protein that protects the hydrophobic precursors from aggregation and guide them through the mitochondrial intermembrane space.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAQIPESDQIKQFKEFLGTYNKLTETCFLDCVKDFTTREVKPEEEYHIQQNEALAAKAGLLGQPR
+PTM	

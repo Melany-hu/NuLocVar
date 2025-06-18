@@ -1,0 +1,25 @@
+UniprotID	Q9NP94-2
+Accession	Q9NP94;B2RC76;G3V5X2;Q4QQJ1;Q4V9S4;Q96JT6;Q9UD20
+EntryName	S39A2_HUMAN
+ProteinName	Zinc transporter ZIP2 (6A1) (Eti-1) (Solute carrier family 39 member 2) (Zrt- and Irt-like protein 2) (ZIP-2) (hZIP2)
+GeneName	SLC39A2 ZIP2
+Length	85
+Function	Transporter for the divalent cation Zn(2+) (PubMed:10681536, PubMed:29791142, PubMed:30914478). Mediates the influx of Zn(2+) into cells from extracellular space. The Zn(2+) uniporter activity is independent of H(+)-driving force, but is modulated by extracellular pH and membrane potential. Also transports other divalent cations Zn(2+), Cd2(+), Cu2(+), Co2(+) in the order of decreasing affinity, respectively (PubMed:29791142, PubMed:30914478). In the skin, aids in the differentiation of keratinocytes in the epidermis (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQLLGIKLGCLFALLALTLGCGLTPICFKWFQIDAARGHHRLVLRLLGCISAGVFLGAGFMHMTAEALEEIESQIQKFMVQISK
+PTM	

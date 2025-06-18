@@ -1,0 +1,25 @@
+UniprotID	Q6ZN18-3
+Accession	Q6ZN18;Q59FS5;Q6ZN62;Q96BG3
+EntryName	AEBP2_HUMAN
+ProteinName	Zinc finger protein AEBP2 (Adipocyte enhancer-binding protein 2) (AE-binding protein 2)
+GeneName	AEBP2
+Length	301
+Function	Acts as an accessory subunit for the core Polycomb repressive complex 2 (PRC2), which mediates histone H3K27 (H3K27me3) trimethylation on chromatin leading to transcriptional repression of the affected target gene (PubMed:15225548, PubMed:29499137, PubMed:31959557). Plays a role in nucleosome localization of the PRC2 complex (PubMed:29499137).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYTRRYSSISSTIMDVDSTISSGRSTPAMMNGQGSTTSSSKNIAYNCCWDQCQACFNSSPDLADHIRSIHVDGQRGGVFVCLWKGCKVYNTPSTSQSWLQRHMLTHSGDKPFKCVVGGCNASFASQGGLARHVPTHFSQQNSSKVSSQPKAKEESPSKAGMNKRRKLKNKRRRSLPRPHDFFDAQTLDAIRHRAICFNLSAHIESLGKGHSVVFHSTVIAKRKEDSGKIKLLLHWMPEDILPDVWVNESERHQLKTKVVHLSKLPKDTALLLDPNIYRTMPQKRLKRTLIRKVFNLYLSKQ
+PTM	Acetylation:479;Phosphorylation:6,15,18,24,27,139,141,146,147,148,149,179,183,206,210,211,217,221,224,226,238,241,242,359,371,373,390,402,515;SUMOylation:300,360,479;Ubiquitylation:162,303,360,444

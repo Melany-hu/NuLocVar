@@ -1,0 +1,25 @@
+UniprotID	Q9NTG7-2
+Accession	Q9NTG7;B7Z5U6;Q9Y6E8
+EntryName	SIR3_HUMAN
+ProteinName	NAD-dependent protein deacetylase sirtuin-3, mitochondrial (hSIRT3) (EC 2.3.1.286) (NAD-dependent protein delactylase sirtuin-3) (EC 2.3.1.-) (Regulatory protein SIR2 homolog 3) (SIR2-like protein 3)
+GeneName	SIRT3 SIR2L3
+Length	257
+Function	NAD-dependent protein deacetylase (PubMed:12186850, PubMed:12374852, PubMed:16788062, PubMed:18680753, PubMed:18794531, PubMed:19535340, PubMed:23283301, PubMed:24121500, PubMed:24252090). Activates or deactivates mitochondrial target proteins by deacetylating key lysine residues (PubMed:12186850, PubMed:12374852, PubMed:16788062, PubMed:18680753, PubMed:18794531, PubMed:23283301, PubMed:24121500, PubMed:24252090, PubMed:38146092). Known targets include ACSS1, IDH, GDH, SOD2, PDHA1, LCAD, SDHA, MRPL12 and the ATP synthase subunit ATP5PO (PubMed:16788062, PubMed:18680753, PubMed:19535340, PubMed:24121500, PubMed:24252090, PubMed:38146092). Contributes to the regulation of the cellular energy metabolism (PubMed:24252090). Important for regulating tissue-specific ATP levels (PubMed:18794531). In response to metabolic stress, deacetylates transcription factor FOXO3 and recruits FOXO3 and mitochondrial RNA polymerase POLRMT to mtDNA to promote mtDNA transcription (PubMed:23283301). Acts as a regulator of ceramide metabolism by mediating deacetylation of ceramide synthases CERS1, CERS2 and CERS6, thereby increasing their activity and promoting mitochondrial ceramide accumulation (By similarity). Regulates hepatic lipogenesis (By similarity). Uses NAD(+) substrate imported by SLC25A47, triggering downstream activation of PRKAA1/AMPK-alpha signaling cascade that ultimately downregulates sterol regulatory element-binding protein (SREBP) transcriptional activities and ATP-consuming lipogenesis to restore cellular energy balance (By similarity). In addition to protein deacetylase activity, also acts as a protein-lysine deacylase by mediating delactylation of proteins, such as CCNE2 and 'Lys-16' of histone H4 (H4K16la) (PubMed:36896611, PubMed:37720100).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGAGISTPSGIPDFRSPGSGLYSNLQQYDLPYPEAIFELPFFFHNPKPFFTLAKELYPGNYKPNVTHYFLRLLHDKGLLLRLYTQNIDGLERVSGIPASKLVEAHGTFASATCTVCQRPFPGEDIRADVMADRVPRCPVCTGVVKPDIVFFGEPLPQRFLLHVVDFPMADLLLILGTSLEVEPFASLTEAVRSSVPRLLINRDLVGPLAWHPRSRDVAQLGDVVHGVESLVELLGWTEEMRDLVQRETGKLDGPDK
+PTM	Acetylation:122,219;Phosphorylation:226,337

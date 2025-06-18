@@ -1,0 +1,25 @@
+UniprotID	Q96CV9-2
+Accession	Q96CV9;B3KP00;D3DRS4;D3DRS8;Q5T672;Q5T673;Q5T674;Q5T675;Q7LDL9;Q8N562;Q9UET9;Q9UEV4;Q9Y218
+EntryName	OPTN_HUMAN
+ProteinName	Optineurin (E3-14.7K-interacting protein) (FIP-2) (Huntingtin yeast partner L) (Huntingtin-interacting protein 7) (HIP-7) (Huntingtin-interacting protein L) (NEMO-related protein) (Optic neuropathy-inducing protein) (Transcription factor IIIA-interacting protein) (TFIIIA-IntP)
+GeneName	OPTN FIP2 GLC1E HIP7 HYPL NRP
+Length	571
+Function	Plays an important role in the maintenance of the Golgi complex, in membrane trafficking, in exocytosis, through its interaction with myosin VI and Rab8 (PubMed:27534431). Links myosin VI to the Golgi complex and plays an important role in Golgi ribbon formation (PubMed:27534431). Plays a role in the activation of innate immune response during viral infection. Mechanistically, recruits TBK1 at the Golgi apparatus, promoting its trans-phosphorylation after RLR or TLR3 stimulation (PubMed:27538435). In turn, activated TBK1 phosphorylates its downstream partner IRF3 to produce IFN-beta/IFNB1. Plays a neuroprotective role in the eye and optic nerve. May act by regulating membrane trafficking and cellular morphogenesis via a complex that contains Rab8 and huntingtin (HD). Mediates the interaction of Rab8 with the probable GTPase-activating protein TBC1D17 during Rab8-mediated endocytic trafficking, such as that of transferrin receptor (TFRC/TfR); regulates Rab8 recruitment to tubules emanating from the endocytic recycling compartment (PubMed:22854040). Autophagy receptor that interacts directly with both the cargo to become degraded and an autophagy modifier of the MAP1 LC3 family; targets ubiquitin-coated bacteria (xenophagy), such as cytoplasmic Salmonella enterica, and appears to function in the same pathway as SQSTM1 and CALCOCO2/NDP52.
+Subcellular Location	Cytoplasm; Perinuclear region; Golgi apparatus; Golgi apparatus; trans-Golgi network; Cytoplasmic vesicle; Autophagosome; Cytoplasmic vesicle; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSHQPLSCLTEKEDSPSESTGNGPPHLAHPNLDTFTPEELLQQMKELLTENHQLKEAMKLNNQAMKGRFEELSAWTEKQKEERQFFEIQSKEAKERLMALSHENEKLKEELGKLKGKSERSSEDPTDDSRLPRAEAEQEKDQLRTQVVRLQAEKADLLGIVSELQLKLNSSGSSEDSFVEIRMAEGEAEGSVKEIKHSPGPTRTVSTGTSRSADGAKNYFEHEELTVSQLLLCLREGNQKVERLEVALKEAKERVSDFEKKTSNRSEIETQTEGSTEKENDEEKGPETVGSEVEALNLQVTSLFKELQEAHTKLSEAELMKKRLQEKCQALERKNSAIPSELNEKQELVYTNKKLELQVESMLSEIKMEQAKTEDEKSKLTVLQMTHNKLLQEHNNALKTIEELTRKESEKVDRAVLKELSEKLELAEKALASKQLQMDEMKQTIAKQEEDLETMTILRAQMEVYCSDFHAERAAREKIHEEKEQLALQLAVLLKENDAFEDGGRQSLMEMQSRHGARTSDSDQQAYLVQRGAEDRDWRQQRNIPIHSCPKCGEVLPDIDTLQIHVMDCII
+PTM	Glycosylation:341,349;Methylation:12,80,91,223,266,333,351,359,405,424,429,435,484,501;Phosphorylation:7,170,171,173,174,177,191,198,202,204,206,207,209,218,225,234,308,342,346,367,370,473,513,525,526,528,533;Ubiquitylation:140,213,311,333,359,424,429,435,448,489,501

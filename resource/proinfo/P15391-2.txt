@@ -1,0 +1,25 @@
+UniprotID	P15391-2
+Accession	P15391;A0N0P9;F5H635;Q96S68;Q9BRD6
+EntryName	CD19_HUMAN
+ProteinName	B-lymphocyte antigen CD19 (B-lymphocyte surface antigen B4) (Differentiation antigen CD19) (T-cell surface antigen Leu-12) (CD antigen CD19)
+GeneName	CD19
+Length	557
+Function	Functions as a coreceptor for the B-cell antigen receptor complex (BCR) on B-lymphocytes (PubMed:29523808). Decreases the threshold for activation of downstream signaling pathways and for triggering B-cell responses to antigens (PubMed:1373518, PubMed:16672701, PubMed:2463100). Activates signaling pathways that lead to the activation of phosphatidylinositol 3-kinase and the mobilization of intracellular Ca(2+) stores (PubMed:12387743, PubMed:16672701, PubMed:9317126, PubMed:9382888). Is not required for early steps during B cell differentiation in the blood marrow (PubMed:9317126). Required for normal differentiation of B-1 cells (By similarity). Required for normal B cell differentiation and proliferation in response to antigen challenges (PubMed:1373518, PubMed:2463100). Required for normal levels of serum immunoglobulins, and for production of high-affinity antibodies in response to antigen challenge (PubMed:12387743, PubMed:16672701, PubMed:9317126).
+Subcellular Location	Cell membrane; Membrane raft
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPPRLLFFLLFLTPMEVRPEEPLVVKVEEGDNAVLQCLKGTSDGPTQQLTWSRESPLKPFLKLSLGLPGLGIHMRPLAIWLFIFNVSQQMGGFYLCQPGPPSEKAWQPGWTVNVEGSGELFRWNVSDLGGLGCGLKNRSSEGPSSPSGKLMSPKLYVWAKDRPEIWEGEPPCLPPRDSLNQSLSQDLTMAPGSTLWLSCGVPPDSVSRGPLSWTHVHPKGPKSLLSLELKDDRPARDMWVMETGLLLPRATAQDAGKYYCHRGNLTMSFHLEITARPVLWHWLLRTGGWKVSAVTLAYLIFCLCSLVGILHLQRALVLRRKRKRMTDPTRRFFKVTPPPGSGPQNQYGNVLSLPTPTSGLGRAQRWAAGLGGTAPSYGNPSSDVQADGALGSRSPPGVGPEEEEGEGYEEPDSEEDSEFYENDSNLGQDQLSQDGSGYENPEDEPLGPEDEDSFSNAESYENEDEELTQPVARTMDFLSPHGSAWDPSREATSLAGSQSYEDMRGILYAAPQLRSIRGQPGPNHEEDADSYENMDNPDGPDPAWGGGGRMGTWSTR
+PTM	Methylation:27;Phosphorylation:56,146,148,337,342,348,499,500,508,530

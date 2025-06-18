@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YDZ8
+Accession	A0A2R8YDZ8
+EntryName	A0A2R8YDZ8_HUMAN
+ProteinName	Transmembrane inner ear
+GeneName	TMIE
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	72...79
+validnes_region	
+nesbase_region	
+Sequence	MRLWHVVGIFSLFVLSIIITLCCVFNCRVPRTRKEIEARYLQRKAAKMYTDKLETVPPLNELTEVPGEDKKKKKKKKKDSVDTVAIKVEEDEKNEAKKKKGEK
+PTM	

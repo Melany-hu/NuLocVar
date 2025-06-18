@@ -1,0 +1,25 @@
+UniprotID	Q9GZS1-1
+Accession	Q9GZS1;Q5VZT3;Q8NBA9;Q96L20
+EntryName	RPA49_HUMAN
+ProteinName	DNA-directed RNA polymerase I subunit RPA49 (RNA polymerase I subunit A49) (DNA-directed RNA polymerase I subunit E) (RNA polymerase I-associated factor 1) (RNA polymerase I-associated factor 53)
+GeneName	POLR1E PAF53 PRAF1
+Length	481
+Function	Component of RNA polymerase I (Pol I), a DNA-dependent RNA polymerase which synthesizes ribosomal RNA precursors using the four ribonucleoside triphosphates as substrates (PubMed:24207024, PubMed:34671025, PubMed:34887565, PubMed:36271492). Appears to be involved in the formation of the initiation complex at the promoter by mediating the interaction between Pol I and UBTF/UBF (PubMed:24207024).
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYQASAVSLLPRDIPSCHSPSPGFSHLPTSSSQLAPDLLQFPLGQDPSFLAIPILTLPPSDSLVPPYIVWYIVWPSALISFLGCTLTVQFSNGKLQSPGNMRFTLYENKDSTNPRKRNQRILAAETDRLSYVGNNFGTGALKCNTLCRHFVGILNKTSGQMEVYDAELFNMQPLFSDVSVESELALESQTKTYREKMDSCIEAFGTTKQKRALNTRRMNRVGNESLNRAVAKAAETIIDTKGVTALVSDAIHNDLQDDSLYLPPCYDDAAKPEDVYKFEDLLSPAEYEALQSPSEAFRNVTSEEILKMIEENSHCTFVIEALKSLPSDVESRDRQARCIWFLDTLIKFRAHRVVKRKSALGPGVPHIINTKLLKHFTCLTYNNGRLRNLISDSMKAKITAYVIILALHIHDFQIDLTVLQRDLKLSEKRMMEIAKAMRLKISKRRVSVAAGSEEDHKLGTLSLPLPPAQTSDRLAKRRKIT
+PTM	Acetylation:32,47,134,312;Methylation:47,66,80,94,245,261,285,293,295,373;Phosphorylation:8,35,163,225,230,296,385,390;SUMOylation:32,47,80,134,146,170,179,295,309,312,395;Ubiquitylation:32,47,80,146,170

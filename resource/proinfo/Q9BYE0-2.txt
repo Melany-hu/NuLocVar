@@ -1,0 +1,25 @@
+UniprotID	Q9BYE0-2
+Accession	Q9BYE0;F8VPC9
+EntryName	HES7_HUMAN
+ProteinName	Transcription factor HES-7 (hHes7) (Class B basic helix-loop-helix protein 37) (bHLHb37) (Hairy and enhancer of split 7) (bHLH factor Hes7)
+GeneName	HES7 BHLHB37
+Length	230
+Function	Transcriptional repressor. Represses transcription from both N box- and E box-containing promoters. May with HES1, cooperatively regulate somite formation in the presomitic mesoderm (PSM). May function as a segmentation clock, which is essential for coordinated somite segmentation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	20...25
+validnes_region	
+nesbase_region	
+Sequence	MVTRDRAENRDGPKMLKPLVEKRRRDRINRSLEELRLLLLERTRDQNLRNPKLEKAEILEFAVGYLRERSRVEPPAAAAPGVPRSPVQDAEALASCYLSGFRECLLRLAAFAHDASPAARAQLFSALHGYLRPKPPRPKPVDPRPPAPRPSLDPAAPALGPALHQRPPVHQGHPSPRCAWSPSLCSPRAGDSGAPAPLTGLLPPPPPPHRQDGAPKAPLPPPPAFWRPWP
+PTM	Methylation:22;Phosphorylation:111;SUMOylation:52;Ubiquitylation:211

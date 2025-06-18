@@ -1,0 +1,25 @@
+UniprotID	Q5JU69-5
+Accession	Q5JU69;A4FU12;A4FU13;Q3ZCN9;Q3ZCP0;Q5JU68;Q66K87;Q6UXW6;Q8NAN5;Q96SL7
+EntryName	TOR2A_HUMAN
+ProteinName	Torsin-2A (Torsin family 2 member A) (Torsin-related protein 1)
+GeneName	TOR2A TORP1 UNQ6408/PRO21181
+Length	72
+Function	
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAATRGCRPWGSLLGLLGLVSAAAAAWDLASLRCTLGAFCECDFRPDLPEGSEELGPREPHCLWPLPLPLR
+PTM	Glycosylation:149;Methylation:72;Phosphorylation:32,117

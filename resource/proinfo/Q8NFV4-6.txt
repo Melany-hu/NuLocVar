@@ -1,0 +1,25 @@
+UniprotID	Q8NFV4-6
+Accession	Q8NFV4;H7BYM8;Q6PJU0;Q8N722;Q8N723;Q8NFV2;Q8NFV3;Q9HBS8
+EntryName	ABHDB_HUMAN
+ProteinName	sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11) (Abhydrolase domain-containing protein 11) (Williams-Beuren syndrome chromosomal region 21 protein)
+GeneName	ABHD11 WBSCR21 PP1226
+Length	249
+Function	Catalyzes the hydrolysis of diacylglycerol in vitro and may function as a key regulator in lipid metabolism, namely by regulating the intracellular levels of diacylglycerol (PubMed:32579589). 1,2-diacyl-sn-glycerols are the preferred substrate over 1,3-diacyl-sn-glycerols (By similarity). The enzyme hydrolyzes stearate in preference to palmitate from the sn-1 position of 1,2-diacyl-sn-glycerols (By similarity). Maintains the functional lipoylation of the 2-oxoglutarate dehydrogenase complex (OGDHc) through its interaction with the OGDHc by preventing the formation of lipoyl adducts (PubMed:32792488). In addition, is also required for the expansion and differentiation of embryonic stem cells (ESCs) (By similarity).
+Subcellular Location	Mitochondrion; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRWTRAWRLPREGLGPHGPSFARVPVAPSSSSGGRGGAEPRPLPLSYRLLDGEAALPAVVFLHGLFGSKTNFNSIAKILAQQTGRRVLTVDARNHGDSPHSPDMSYEIMSQDLQDLLPQLGLVPCVVVGHSMGGKTAMLLALQRDMAVRQHLLTNLVEVDGRFVWRVNLDALTQHLDKILAFPQRQESYLGPTLFLLGGNSQFVHPSHHPEIMRLFPRAQMQTVPNAGHWIHADRPQDFIAAIRGFLV
+PTM	Acetylation:87,245;Methylation:245;Phosphorylation:196;Ubiquitylation:87

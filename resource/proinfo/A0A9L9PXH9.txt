@@ -1,0 +1,25 @@
+UniprotID	A0A9L9PXH9
+Accession	A0A9L9PXH9
+EntryName	A0A9L9PXH9_HUMAN
+ProteinName	CEP295 N-terminal like
+GeneName	CEP295NL
+Length	20
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGAMWLSLCPDNEDLLWRK
+PTM	

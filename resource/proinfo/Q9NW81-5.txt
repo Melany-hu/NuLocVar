@@ -1,0 +1,25 @@
+UniprotID	Q9NW81-5
+Accession	Q9NW81;B4DDC0;B4DMZ4;B4DP55;B4DXE8;F5H4W7;K7EMF6;Q96D43
+EntryName	DMAC2_HUMAN
+ProteinName	Distal membrane-arm assembly complex protein 2 (ATP synthase subunit s-like protein)
+GeneName	DMAC2 ATP5SL
+Length	230
+Function	Required for the assembly of the mitochondrial NADH:ubiquinone oxidoreductase complex (complex I). Involved in the assembly of the distal region of complex I.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPWASLRLVAPMWNGRIRGIHRLGAAVAPEGNQKKKRTILQFLTNYFYDVEALRDYLLQREMYKVHEKNRFRDKEWIRPDKYGHFSQEFWNFCEVPVEAVDAGDCDINYEGLDNLLRLKELQSLSLQRCCHVDDWCLSRLYPLADSLQELSLAGCPRISERGLACLHHLQNLRRLDISDLPAVSNPGLTQILVEEMLPNCEVVGVDWAEGLKSGPEEQPRDTASPVPA
+PTM	Phosphorylation:154,253;Ubiquitylation:99,148

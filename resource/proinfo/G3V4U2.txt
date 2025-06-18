@@ -1,0 +1,25 @@
+UniprotID	G3V4U2
+Accession	G3V4U2
+EntryName	G3V4U2_HUMAN
+ProteinName	Tubulin beta 3 class III
+GeneName	TUBB3
+Length	51
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MREIVHIQAGQCGNQIGAKLSWEQSPRSTAGTCSRGREVEVAGRERTTPGS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q7Z6J2-2
+Accession	Q7Z6J2;Q6PIF8;Q7Z741
+EntryName	GRASP_HUMAN
+ProteinName	Protein TAMALIN (General receptor for phosphoinositides 1-associated scaffold protein) (GRP1-associated scaffold protein)
+GeneName	TAMALIN GRASP
+Length	252
+Function	Plays a role in intracellular trafficking and contributes to the macromolecular organization of group 1 metabotropic glutamate receptors (mGluRs) at synapses.
+Subcellular Location	Cytoplasm; Perinuclear region; Cell membrane; Postsynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLLPSKGGDTIASVNGLNVEGIRHREIVDIIKASGNVLRLETLYGTSIRKAELEARLQYLKQTLYEKWGEYRSLMVQEQRLVHGLVVKDPSIYDTLESVRSCLYGAGLLPGSLPFGPLLAVPGRPRGGARRARGDADDAVYHTCFFGDSEPPALPPPPPPARAFGPGPAETPAVGPGPGPRAALSRSASVRCAGPGGGGGGGAPGALWTEAREQALCGPGLRKTKYRSFRRRLLKFIPGLNRSLEEEESQL
+PTM	Methylation:24,106,176,194,232;Phosphorylation:74,77,92,94,237,387

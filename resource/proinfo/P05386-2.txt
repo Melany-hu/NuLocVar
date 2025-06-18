@@ -1,0 +1,25 @@
+UniprotID	P05386-2
+Accession	P05386;A6NIB2
+EntryName	RLA1_HUMAN
+ProteinName	Large ribosomal subunit protein P1 (60S acidic ribosomal protein P1)
+GeneName	RPLP1 RRP1
+Length	89
+Function	Plays an important role in the elongation step of protein synthesis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVSELACIYSALILHDDEVTVTALANVNIGSLICNVGAGGPAPAAGAAPAGGPAPSTAAAPAEEKKVEAKKEESEESDDDMGFGLFD
+PTM	Acetylation:92;Methylation:27,33,49,92;Phosphorylation:5,12,22,58,84,101,104;SUMOylation:27,33,92;Ubiquitylation:33,49,92,93

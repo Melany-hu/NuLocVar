@@ -1,0 +1,25 @@
+UniprotID	P0DPK3-2
+Accession	P0DPK3
+EntryName	NT2NB_HUMAN
+ProteinName	Notch homolog 2 N-terminal-like protein B
+GeneName	NOTCH2NLB
+Length	249
+Function	Human-specific protein that promotes neural progenitor proliferation and evolutionary expansion of the brain neocortex by regulating the Notch signaling pathway (PubMed:29561261, PubMed:29856954, PubMed:29856955). Able to promote neural progenitor self-renewal, possibly by down-regulating neuronal differentiation genes, thereby delaying the differentiation of neuronal progenitors and leading to an overall final increase in neuronal production (PubMed:29856954, PubMed:29856955). Acts by enhancing the Notch signaling pathway via two different mechanisms that probably work in parallel to reach the same effect (PubMed:29856954, PubMed:29856955). Enhances Notch signaling pathway in a non-cell-autonomous manner via direct interaction with NOTCH2 (PubMed:29856954). Also promotes Notch signaling pathway in a cell-autonomous manner through inhibition of cis DLL1-NOTCH2 interactions, which promotes neuronal differentiation (PubMed:29856955).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRDGYEPCVNEGMCVTYHNGTGYCKCPEGFLGEYCQHRDPCEKNRCQNGGTCVAQAMLGKATCRCASGFTGEDCQYSTSHPCFVSRPCLNGGTCHMLSRDTYECTCQVGFTGKECQWTDACLSHPCANGSTCTTVANQFSCKCLTGFTGQKCETDVNECDIPGHCQHGGICLNLPGSYQCQCLQGFTGQYCDSLYVPCAPSPCVNGGTCRQTGDFTFECNCLPETVRRGTELWERDREVWNGKEHDEN
+PTM	Glycosylation:46,175

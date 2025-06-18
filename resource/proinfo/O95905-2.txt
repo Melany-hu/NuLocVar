@@ -1,0 +1,25 @@
+UniprotID	O95905-2
+Accession	O95905;C9JX46;E9PAW8
+EntryName	ECD_HUMAN
+ProteinName	Protein ecdysoneless homolog (Human suppressor of GCR two) (hSGT1)
+GeneName	ECD
+Length	601
+Function	Regulator of p53/TP53 stability and function. Inhibits MDM2-mediated degradation of p53/TP53 possibly by cooperating in part with TXNIP (PubMed:16849563, PubMed:23880345). May be involved transcriptional regulation. In vitro has intrinsic transactivation activity enhanced by EP300. May be a transcriptional activator required for the expression of glycolytic genes (PubMed:19919181, PubMed:9928932). Involved in regulation of cell cycle progression. Proposed to disrupt Rb-E2F binding leading to transcriptional activation of E2F proteins (PubMed:19640839). The cell cycle -regulating function may depend on its RUVBL1-mediated association with the R2TP complex (PubMed:26711270). May play a role in regulation of pre-mRNA splicing (PubMed:24722212). Participates together with DDX39A in mRNA nuclear export (PubMed:33941617).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEETMKLATMEDTVEYCLFLIPDESRDSDKHKEILQKYIERIITRFAPMLVPYIWQNQPFNLKYKPGKGGVPAHMFGVTKFGDNIEDEWFIVYVIKQITKEFPELVARIEDNDGEFLLIEAADFLPKWLDPENSTNRVFFCHGELCIIPAPRKSGAESWLPTTPPTIPQALNIITAHSEKILASESIRAAVNRRIRGYPEKIQASLHRAHCFLPAGIVAVLKQRPRLVAAAVQAFYLRDPIDLRACRVFKTFLPETRIMTSAHGFEILCSKCSPHFSDCKKSLVTASPLWASFLESLKKNDYFKGLIEGSAQYRERLEMAENYFQLSVDWPESSLAMSPGEEILTLLQTIPFDIEDLKKEAANLPPEDDDQWLDLSPDQLDQLLQEAVGKKESESVSKEEKEQNYDLTEVSESMKAFISKVSTHKGAELPREPSEAPITFDADSFLNYFDKILGPRPNESDSDDLDDEDFECLDSDDDLDFETHEPGEEASLKGTLDNLKSYMAQMDQELAHTCISKSFTTRNQVEPVSQTTDNNSDEEDSGTGESVMAPVDVDLNLVSNILESYSSQAGLAGPASNLLQSMGVQLPDNTDHRPTSKPTKN
+PTM	Methylation:37,222,433,543;Phosphorylation:16,154,184,186,205,325,339,448,451,503,505,518,534,561;SUMOylation:433,441;Ubiquitylation:37,68,100,153,201,250,323,324,341,342,347,441,458,463,468,543,560

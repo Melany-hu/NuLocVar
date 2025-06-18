@@ -1,0 +1,25 @@
+UniprotID	Q8N6U8-2
+Accession	Q8N6U8;B3KV34;B7Z5D7;B7Z5E8;B7Z5Z6;F5GXD6;F5H6J7;O75963;Q5TGK0;Q5TGK1;Q5TGK2
+EntryName	GP161_HUMAN
+ProteinName	G-protein coupled receptor 161 (G-protein coupled receptor RE2)
+GeneName	GPR161
+Length	407
+Function	Key negative regulator of Shh signaling, which promotes the processing of GLI3 into GLI3R during neural tube development. Recruited by TULP3 and the IFT-A complex to primary cilia and acts as a regulator of the PKA-dependent basal repression machinery in Shh signaling by increasing cAMP levels, leading to promote the PKA-dependent processing of GLI3 into GLI3R and repress the Shh signaling. In presence of SHH, it is removed from primary cilia and is internalized into recycling endosomes, preventing its activity and allowing activation of the Shh signaling. Its ligand is unknown (By similarity).
+Subcellular Location	Cell projection; Cilium membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLNSSLSCRKELSNLTEEEGGEGGVIITQFIAIIVITIFVCLGNLVIVVTLYKKSYLLTLSNKFVFSLTLSNFLLSVLVLPFVVTSSIRREWIFGVVWCNFSALLYLLISSASMLTLGVIAIDRYYAVLYPMVYPMKITGNRAVMALVYIWLHSLIGCLPPLFGWSSVEFDEFKWMCVAAWHREPGYTAFWQIWCALFPFLVMLVCYGFIFRVARVKARKVHCGTVVIVEEDAQRTGRKNSSTSTSSSGSRRNAFQGVVYSANQCKALITILVVLGAFMVTWGPYMVVIASEALWGKSSVSPSLETWATWLSFASAVCHPLIYGLWNKTVRKELLGMCFGDRYYREPFVQRQRTSRLFSISNRITDLGLSPHLTALMAGGQPLGHSSSTGDTGFSCSQDSGNLRAL
+PTM	Methylation:441,457;Phosphorylation:360,362,429,430,432,517

@@ -1,0 +1,25 @@
+UniprotID	Q9NX05-2
+Accession	Q9NX05;B2RMT7
+EntryName	F120C_HUMAN
+ProteinName	Constitutive coactivator of PPAR-gamma-like protein 2 (Protein FAM120C) (Tumor antigen BJ-HCC-21)
+GeneName	FAM120C CXorf17
+Length	238
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVQGFQEFLEKRCPGAVVPVDLLKLARTVSRQQQQQHLHRQLPPTAALAPGAPRAARGSVPLQPPLPPAALGAYSGGAGPTRHHHPAHHFHHHGQAQPGLHPPLPPPPPPQLPGARVLVDAGSALPRLYGGYQTDWVCGGQWNAMLGYLSALCQACAYPGGDGLELVVMFPGGLGKDRLAEWGRRCQAERQTAQLIVGHVGNKGTPPPRAWFLPPACLSHCVRLALIRFRVKQAAML
+PTM	Acetylation:25;Methylation:12,25,177,299,359,694,730,735,809,941,943,977,992,1042;Phosphorylation:31,402,404,406,407,512,560,570,860,979,999,1021,1031;SUMOylation:1042;Ubiquitylation:25,369,730

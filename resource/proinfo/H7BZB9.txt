@@ -1,0 +1,25 @@
+UniprotID	H7BZB9
+Accession	H7BZB9
+EntryName	H7BZB9_HUMAN
+ProteinName	Microtubule associated protein 2
+GeneName	MAP2
+Length	208
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	INGELTSADRETAEEVSARIVQVVTAEAVAVLKGEQEKEAQHKDQTAALPLAAEETANLPPSPPPSPASEQTVTVEEAAGGESALAPSVFKQAKDKVSGVHVQACYKGILRDAENSTLSKIPALQGSTKSPRYSSACPSTTKRATFSDSLLIQPTSAGSTDRLPYSKSGNKDGVTKSPEKRSSLPRPSSILPPRRGVSGDRDENSFSL
+PTM	

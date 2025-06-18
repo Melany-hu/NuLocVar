@@ -1,0 +1,25 @@
+UniprotID	Q8IXQ8-2
+Accession	Q8IXQ8;F5GWW8
+EntryName	PDZD9_HUMAN
+ProteinName	PDZ domain-containing protein 9
+GeneName	PDZD9 C16orf65
+Length	202
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEGEEEGGDVLISVGHANVLGYTLREFLQLLQHITIGTVLQIKVYRDFINIPEEWQEIYDLIPEAKFPVTSTPKKIELAKDESFTSSDDNENVDLDKRLQYYRYPWSTVHHPARRPISISRDWHGYKKKNHTISVGKDINCDVMIHRDDKKEVRAPSPYWIMVKQDNESSSSSTSSTSDAFWLEDCAQVEEGKAQLVSKVG
+PTM	Methylation:32,59,106,143,160;SUMOylation:32

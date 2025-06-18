@@ -1,0 +1,25 @@
+UniprotID	Q96LA6-2
+Accession	Q96LA6;B2RE05;Q8N759;Q8NDI0;Q96PJ6
+EntryName	FCRL1_HUMAN
+ProteinName	Fc receptor-like protein 1 (FcR-like protein 1) (FcRL1) (Fc receptor homolog 1) (FcRH1) (IFGP family protein 1) (hIFGP1) (Immune receptor translocation-associated protein 5) (CD antigen CD307a)
+GeneName	FCRL1 FCRH1 IFGP1 IRTA5
+Length	428
+Function	Type I transmembrane surface glycoprotein preferentially expressed by B-cells that regulates BCR-mediated signaling responses (PubMed:15479727). Recruits ABL1 as the intracellular effector molecule to enhance B-cell activation (By similarity). Also plays a negative role by suppressing ERK activation under homeostatic and BCR-stimulated conditions in a GRB2-dependent manner (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPRLLLLICAPLCEPAELFLIASPSHPTEGSPVTLTCKMPFLQSSDAQFQFCFFRDTRALGPGWSSSPKLQIAAMWKEDTGSYWCEAQTMASKVLRSRRSQINVHRVPVADVSLETQPPGGQVMEGDRLVLICSVAMGTGDITFLWYKGAVGLNLQSKTQRSLTAEYEIPSVRESDAEQYYCVAENGYGPSPSGLVSITVRIPVSRPILMLRAPRAQAAVEDVLELHCEALRGSPPILYWFYHEDITLGSRSAPSGGGASFNLSLTEEHSGNYSCEANNGLGAQRSEAVTLNFTVPTGARSNHLTSGVIEGLLSTLGPATVALLFCYGLKRKIGRRSARDPLRSLPSPLPQEFTYLNSPTPGQLQPIYENVNVVSGDEVYSLAYYNQPEQESVAETLGTHMEDKVSLDIYSRLRKANITDVDYEDAM
+PTM	Methylation:159;Phosphorylation:67,68,101,114,287,291,295,338,412,413

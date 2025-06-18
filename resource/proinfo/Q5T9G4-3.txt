@@ -1,0 +1,25 @@
+UniprotID	Q5T9G4-3
+Accession	Q5T9G4;Q8NEB2;Q96LL8
+EntryName	ARM12_HUMAN
+ProteinName	Armadillo repeat-containing protein 12
+GeneName	ARMC12 C6orf81
+Length	330
+Function	Essential for male fertility and sperm mitochondrial sheath formation (By similarity). Required for proper mitochondrial elongation and coiling along the flagellum during the formation of the mitochondrial sheath (By similarity). Facilitates the growth and aggressiveness of neuroblastoma cells (PubMed:30026490). Increases the EZH2 activity and H3K27me3 levels in a RBBP4-dependent manner, and facilitates the enrichment of polycomb repressive complex 2 and H3K27me3 on gene promoters, resulting in transcriptional repression of tumor suppressors affecting the proliferation, invasion, and metastasis of tumor cells (PubMed:30026490).
+Subcellular Location	Nucleus; Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKSIPQYLGQLDIRKSVVSLATGAGAIYLLYKAIKAGIKCKPPLCSNSPICIARLAVERERHGRDSGELRRLLNSLECKQDEYAKSMILHSITRCVYLLEAEASACTTDDIVLLGYMLDDKDNSVKTQALNTLKAFSGIRKFRLKIQEHSIKVLELISTIWDTELHIAGLRLLNNLPLPDYVHPQLRRVMPALMEILQSDYILAQVQAVRLLSYLAQKNDLLYDILNCQPTQSGSLLYEVLVFAERLSEGRNAPHYHVVKWHYNEQSLHESLFGEESRLADRLLALVIHPEEDVQIQACKVIVSLQYPQDLRARPSSCQPSRSYFKNTE
+PTM	Methylation:122,135;Phosphorylation:138,259

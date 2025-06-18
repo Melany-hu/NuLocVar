@@ -1,0 +1,25 @@
+UniprotID	P26436-2
+Accession	P26436;Q53FF4
+EntryName	ASPX_HUMAN
+ProteinName	Acrosomal protein SP-10 (Acrosomal vesicle protein 1)
+GeneName	ACRV1
+Length	246
+Function	
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Acrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRFLLLMSLYLLGSARGTSSQPNELSGSIDHQTSVQQLPGEFFSLENPSDAEALYETSSGLNTLSEHGSSEHGSSKHTVAEHTSGEHAESEHASGEPAATEHAEGEHTVGEQPSGEQPSGEHLSGEQPLSELESGEQPSDEQPSGEHGSGEQPSGEQASGEQPSGTILNCYTCAYMNDQGKCLRGEGTCITQNSQQCMLKKIFEGGKLQFMVQGCENMCPSMNLFSHGTRMQIICCRNQSFCNKI
+PTM	

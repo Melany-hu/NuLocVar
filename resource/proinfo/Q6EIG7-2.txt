@@ -1,0 +1,25 @@
+UniprotID	Q6EIG7-2
+Accession	Q6EIG7;A2RUK3
+EntryName	CLC6A_HUMAN
+ProteinName	C-type lectin domain family 6 member A (C-type lectin superfamily member 10) (Dendritic cell-associated C-type lectin 2) (DC-associated C-type lectin 2) (Dectin-2)
+GeneName	CLEC6A CLECSF10 DECTIN2
+Length	179
+Function	Calcium-dependent lectin that acts as a pattern recognition receptor (PRR) of the innate immune system: specifically recognizes and binds alpha-mannans on C.albicans hypheas (PubMed:23911656, PubMed:28652405). Binding of C.albicans alpha-mannans to this receptor complex leads to phosphorylation of the immunoreceptor tyrosine-based activation motif (ITAM) of FCER1G, triggering activation of SYK, CARD9 and NF-kappa-B, consequently driving maturation of antigen-presenting cells and shaping antigen-specific priming of T-cells toward effector T-helper 1 and T-helper 17 cell subtypes (By similarity). Recognizes also, in a mannose-dependent manner, allergens from house dust mite and fungi, by promoting cysteinyl leukotriene production (By similarity). Recognizes soluble elements from the eggs of Shistosoma mansoni altering adaptive immune responses (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQEQQPQSTVTYHFTYGETGKRLSELHSYHSSLTCFSEGTKVPAWGCCPASWKSFGSSCYFISSEEKVWSKSEQNCVEMGAHLVVFNTEAEQNFIVQQLNESFSYFLGLSDPQGNNNWQWIDKTPYEKNVRFWHLGEPNHSAEQCASIVFWKPTGWGWNDVICETRRNSICEMNKIYL
+PTM	Phosphorylation:82

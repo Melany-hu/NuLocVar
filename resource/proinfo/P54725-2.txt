@@ -1,0 +1,25 @@
+UniprotID	P54725-2
+Accession	P54725;K7ESE3;Q59EU8;Q5M7Z1
+EntryName	RD23A_HUMAN
+ProteinName	UV excision repair protein RAD23 homolog A (HR23A) (hHR23A)
+GeneName	RAD23A
+Length	308
+Function	Multiubiquitin chain receptor involved in modulation of proteasomal degradation. Binds to 'Lys-48'-linked polyubiquitin chains in a length-dependent manner and with a lower affinity to 'Lys-63'-linked polyubiquitin chains. Proposed to be capable to bind simultaneously to the 26S proteasome and to polyubiquitinated substrates and to deliver ubiquitinated proteins to the proteasome.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVTITLKTLQQQTFKIRMEPDETVKVLKEKIEAEKGRDAFPVAGQKLIYAGKILSDDVPIRDYRIDEKNFVVVMVTKTKAGQGTSAPPEASPTAAPESSTSFPPAPTSGMSHPPPAAREDKSPSEESAPTTSPESVSGSVPSSGSSGREEDAASTLVTGSEYETMLTEIMSMGYERERVVAALRASYNNPHRAVEYLLTGIPGSPEPEHGSVQESQVSEQPATEAAGENPLEFLRDQPQFQNMRQVIQQNPALLPALLQQLGQENPQLLQLKALGFPESLVIQAYFACEKNENLAANFLLSQNFDDE
+PTM	Acetylation:16,47,53;Methylation:8,36,47,53,78,122;Phosphorylation:24,77,92,94,100,123,125,128,131,132,133,136,138,140,143,144,146,147,156,172,200,205,212,216,219,295,357;SUMOylation:47,53,78,80;Ubiquitylation:8,16,26,31,36,47,53,69,78,80,122,321,328

@@ -1,0 +1,25 @@
+UniprotID	Q96KD3-2
+Accession	Q96KD3;Q8IY75;Q8NA48
+EntryName	GAR1B_HUMAN
+ProteinName	Golgi-associated RAB2 interactor protein 1B (Testis development protein NYD-SP18)
+GeneName	GARIN1B FAM137A FAM71F1
+Length	342
+Function	RAB2B effector protein required for accurate acrosome formation and normal male fertility. In complex with RAB2A/RAB2B, seems to suppress excessive vesicle trafficking during acrosome formation.
+Subcellular Location	Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	85...89
+validnes_region	
+nesbase_region	
+Sequence	MLSSFPHRKTWRKSKKTVKVTRSYPTFPSLNAWEEFRGLLPVDGEPNPGAGLGVEEGLLCRVVHSPEFNLFLDSVVFESNFIQVKRGRNWRDVYKASNTMALGVTSSVPCLPLPNILLMASVKWHQGQNQTWNRPSIAPNIFLKRILPLRFVELQVCDHYQRILQLRTVTEKIYYLKLHPDHPETVFHFWIRLVQILQKGLSITTKDPRILVTHCLVPKNCSSPSGDSKLVQKKLQASQPSESLIQLMTKGESEALSQIFADLHQQNQLRSSRKVETNKNSSGKDSSREDSIPCTCDLRWRASFTYGEWERENPSGLQPLSLLSTLAASTGPQLAPPIGNSI
+PTM	Methylation:144,199;Phosphorylation:97,121,202,204,205,222,225,228

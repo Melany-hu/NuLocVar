@@ -1,0 +1,25 @@
+UniprotID	Q6N069-5
+Accession	Q6N069;B0QZ59;Q5VSP9;Q6P2D5;Q8N5J3;Q8N870
+EntryName	NAA16_HUMAN
+ProteinName	N-alpha-acetyltransferase 16, NatA auxiliary subunit (NMDA receptor-regulated 1-like protein) (NARG1-like protein)
+GeneName	NAA16 NARG1L NAT2
+Length	311
+Function	Auxillary subunit of the N-terminal acetyltransferase A (NatA) complex which displays alpha (N-terminal) acetyltransferase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPNVLLPPKESNLFKRILKCYEQKQYKNGLKFCKMILSNPKFAEHGETLAMKGLTLNCLGKKEEAYEFVRKGLRNDVKSHVCWHVYGLLQRSDKKYDEAIKCYRNALKLDKDNLQILRDLSLLQIQMRDLEGYRETRYQLLQLRPTQRASWIGYAIAYHLLKDYDMALKLLEEFRQTQQVPPNKIDYEYSELILYQNQVMREADLLQESLEHIEMYEKQICDKLLVEEIKGEILLKLGRLKEASEVFKNLIDRNAENWCYYEGLEKALQISTLEERLQIYEEISKQHPKAITPRRLPLTLVPGFYNPGTCY
+PTM	Acetylation:52,95,101,467,755;Methylation:101,108,230,236,248,285,425,447,450,506,567,639,731,743,755,794,803;Phosphorylation:86,96,138,190,244,292,534,574,577,588,720,723,787,792;Ubiquitylation:52,95,101,108,241,289,425,447,467,578,687,794

@@ -1,0 +1,25 @@
+UniprotID	P14209-2
+Accession	P14209;A6NIW1;O00518;Q6ICV7
+EntryName	CD99_HUMAN
+ProteinName	CD99 antigen (12E7) (E2 antigen) (Protein MIC2) (T-cell surface glycoprotein E2) (CD antigen CD99)
+GeneName	CD99 MIC2 MIC2X MIC2Y
+Length	160
+Function	Involved in T-cell adhesion processes and in spontaneous rosette formation with erythrocytes. Plays a role in a late step of leukocyte extravasation helping leukocytes to overcome the endothelial basement membrane. Acts at the same site as, but independently of, PECAM1. Involved in T-cell adhesion processes (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARGAALALLLFGLLGVLVAAPDGGFDLSDALPDNENKKPTAIPKKPSAGDDFDLGDAVVDGENDDPRPPNPPKPMPNPNPNHPSSSGSFSDADLADGVSGGEGKGGSDGGGSHRKEGEEADAPGVIPGIVGAVVVAVAGAISSFIAYQKKKLCFKENDG
+PTM	Acetylation:156;Glycosylation:29,41,48,85;Methylation:150;Phosphorylation:89,91,168,181;Ubiquitylation:156

@@ -1,0 +1,25 @@
+UniprotID	B4DPS1
+Accession	B4DPS1
+EntryName	B4DPS1_HUMAN
+ProteinName	non-specific serine/threonine protein kinase (EC 2.7.11.1)
+GeneName	STK16
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGHALCVCSRGTVIIDNKRYLFIQKLGEGDLKPTNILLGDEGQPVLMDLGSMNQACIHVEGSRQALTLQDWAAQRCTISYRAPELFSVQSHCVIDERTDVWSLGCVLYAMMFGEGPYDMVFQKGDSVALAVQNQLSIPQSPRHSSALRQLLNSMMTVDPHQRPHIPLLLSQLEALQPPAPGQHTTQI
+PTM	

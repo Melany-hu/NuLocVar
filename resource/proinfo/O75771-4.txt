@@ -1,0 +1,25 @@
+UniprotID	O75771-4
+Accession	O75771;B4DJU7;E1P637;O43537;O60355;O75196;O75847;O75848;O76073;O76085;O94908;Q9UFU5
+EntryName	RA51D_HUMAN
+ProteinName	DNA repair protein RAD51 homolog 4 (R51H3) (RAD51 homolog D) (RAD51-like protein 3) (TRAD)
+GeneName	RAD51D RAD51L3
+Length	283
+Function	Involved in the homologous recombination repair (HRR) pathway of double-stranded DNA breaks arising during DNA replication or induced by DNA-damaging agents. Bind to single-stranded DNA (ssDNA) and has DNA-dependent ATPase activity. Part of the RAD51 paralog protein complex BCDX2 which acts in the BRCA1-BRCA2-dependent HR pathway. Upon DNA damage, BCDX2 acts downstream of BRCA2 recruitment and upstream of RAD51 recruitment. BCDX2 binds predominantly to the intersection of the four duplex arms of the Holliday junction and to junction of replication forks. The BCDX2 complex was originally reported to bind single-stranded DNA, single-stranded gaps in duplex DNA and specifically to nicks in duplex DNA. Involved in telomere maintenance. The BCDX2 subcomplex XRCC2:RAD51D can stimulate Holliday junction resolution by BLM.
+Subcellular Location	Nucleus; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome; Telomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVLRVGLCPGLTEEMIQLLRSHRIKTVVDLVSADLEEVAQKCGLSYKALVALRRVLLAQFSAFPVNGADLYEELKTSTAILSTGIGSLDKLLDAGLYTGEVTEIVGGPGSGKTQAEALRRIQVVHAFDIFQMLDVLQELRGTVAQQVTGSSGTVKVVVVDSVTAVVSPLLGGQQREGLALMMQLARELKTLARDLGMAVVVTNHITRDRDSGRLKPALGRSWSFVPSTRILLDTIEGAGASGGRRMACLAKSSRQPTGFQEMVDIGTWGTSEQSATLQGDQT
+PTM	Acetylation:261;Methylation:76,91;Phosphorylation:98,99,280

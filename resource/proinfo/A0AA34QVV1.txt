@@ -1,0 +1,25 @@
+UniprotID	A0AA34QVV1
+Accession	A0AA34QVV1
+EntryName	A0AA34QVV1_HUMAN
+ProteinName	Parathymosin
+GeneName	PTMS
+Length	175
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVSAPDPPPPHPARLCRLFQRPSLPSGRRCRCRRRRRHRARFRPRPPSAVQGPSVSAPGPRLPASPGPGPGTMSEKSVEAAAELSAKDLKEKKEKVEEKASRKERKKEVVEEEENGAEEEEEETAEDGEEEDEGEEEDEEEEEEDDEGPALKRAAEEEDEADPKRQKTENGASA
+PTM	

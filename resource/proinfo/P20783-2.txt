@@ -1,0 +1,25 @@
+UniprotID	P20783-2
+Accession	P20783;B7Z1T5;Q6FH50
+EntryName	NTF3_HUMAN
+ProteinName	Neurotrophin-3 (NT-3) (HDNF) (Nerve growth factor 2) (NGF-2) (Neurotrophic factor)
+GeneName	NTF3
+Length	270
+Function	Seems to promote the survival of visceral and proprioceptive sensory neurons.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTFATILQVNKVMSILFYVIFLAYLRGIQGNNMDQRSLPEDSLNSLIIKLIQADILKNKLSKQMVDVKENYQSTLPKAEAPREPERGGPAKSAFQPVIAMDTELLRQQRRYNSPRVLLSDSTPLEPPPLYLMEDYVGSPVVANRTSRRKRYAEHKSHRGEYSVCDSESLWVTDKSSAIDIRGHQVTVLGEIKTGNSPVKQYFYETRCKEARPVKNGCRGIDDKHWNSQCKTSQTYVRALTSENNKLVGWRWIRIDTSCVCALSRKIGRT
+PTM	Methylation:37,45,65,211;Phosphorylation:251

@@ -1,0 +1,25 @@
+UniprotID	B4DS77-2
+Accession	B4DS77;C9J314;C9JCE9
+EntryName	SHSA9_HUMAN
+ProteinName	Protein shisa-9
+GeneName	SHISA9
+Length	344
+Function	Regulator of short-term neuronal synaptic plasticity in the dentate gyrus. Associates with AMPA receptors (ionotropic glutamate receptors) in synaptic spines and promotes AMPA receptor desensitization at excitatory synapses (By similarity).
+Subcellular Location	Cell projection; Dendritic spine membrane; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQWDPPFNCSSGDFIFCCGTCGFRFCCTFKKRRLNQSTCTNYDTPLWLNTGKPPARKDDPLHDPTKDKTNLIVYIICGVVAVMVLVGIFTKLGLEKAHRPQREHMSRALADVMRPQGHCNTDHMERDLNIVVHVQHYENMDTRTPINNLHATQMNNAVPTSPLLQQMGHPHSYPNLGQISNPYEQQPPGKELNKYASLKAVGSSDGDWAVSTLKSPKADKVNDDFYTKRRHLAELAAKGNLPLHPVRVEDEPRAFSPEHGPAKQNGQKSRTNKMPPHPLAYTSTTNFKGWDPNEQSLRRQAYSNKGKLGTAETGSSDPLGTRPQHYPPPQPYFITNSKTEVTV
+PTM	Methylation:177,275;Phosphorylation:296,337

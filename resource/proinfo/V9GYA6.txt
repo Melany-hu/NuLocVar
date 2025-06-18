@@ -1,0 +1,25 @@
+UniprotID	V9GYA6
+Accession	V9GYA6
+EntryName	V9GYA6_HUMAN
+ProteinName	Ubiquitin conjugating enzyme E2 U
+GeneName	UBE2U
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMTARSYLKTHVNVSVLKVPNFIGQYYKWKKMDLQHQKEWNLKYSVIKCWLARKRMPHEVTHSMEEIKLCPTLNEIFLESPTAINSITDIYETEEEGWKSDTSLYENDTDEPREEEVEDLISWTNTLNTNTSED
+PTM	

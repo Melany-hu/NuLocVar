@@ -1,0 +1,25 @@
+UniprotID	E7ENF1
+Accession	E7ENF1
+EntryName	E7ENF1_HUMAN
+ProteinName	Protein CUSTOS
+GeneName	C12orf43
+Length	221
+Function	
+Subcellular Location	Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	149...154
+validnes_region	
+nesbase_region	
+Sequence	MFCQNPGAANSQLSTSQPSLRHKVNEHEQDGNELQTTPEFRAHVAKKLGALLDSFITISEAAKEPAKAKVQKVALEDDGFRLFFTSVPGGREKEESPQPRRKRQPSSSSSEDSDEEWRRCREAAVSASDILQESAIHSPGTVEKEAKKKRKLKKKAKKVASVDSAVAATTPTSMATVQKQKSGELNGDQVSLGTKKKKKAKKASETSPFPPAKSATAIPAN
+PTM	

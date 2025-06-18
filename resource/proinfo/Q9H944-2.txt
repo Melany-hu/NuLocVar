@@ -1,0 +1,25 @@
+UniprotID	Q9H944-2
+Accession	Q9H944;B4DE08;O95821;Q5T8J4;Q9Y429
+EntryName	MED20_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 20 (Mediator complex subunit 20) (TRF-proximal protein homolog) (hTRFP)
+GeneName	MED20 TRFP
+Length	123
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVTCVSQMPVAEGKSVQQTVELLTRKLEMLGAEKQGTFCVDCETYHTAASTLGSQGQTGKLMYVMHNSEYPLSCFALFENGPCLIADTNFDVLMVKLKGFFQSAKASKIETRGTRWSMAPVW
+PTM	Acetylation:106;Methylation:35;SUMOylation:27,106;Ubiquitylation:15,106,109,202

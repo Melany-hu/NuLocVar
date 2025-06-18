@@ -1,0 +1,25 @@
+UniprotID	Q9BY41-4
+Accession	Q9BY41;A6ND12;A6ND61;A6NET3;A6NJR3;A8MQ62;B4DKN0;B4DV22;Q86VC8;Q9NP76;Q9NYH4
+EntryName	HDAC8_HUMAN
+ProteinName	Histone deacetylase 8 (HD8) (EC 3.5.1.98) (Protein deacetylase HDAC8) (EC 3.5.1.-) (Protein decrotonylase HDAC8) (EC 3.5.1.-)
+GeneName	HDAC8 HDACL1 CDA07
+Length	286
+Function	Histone deacetylase that catalyzes the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4) (PubMed:10748112, PubMed:10922473, PubMed:10926844, PubMed:14701748, PubMed:28497810). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progression and developmental events (PubMed:10748112, PubMed:10922473, PubMed:10926844, PubMed:14701748). Histone deacetylases act via the formation of large multiprotein complexes (PubMed:10748112, PubMed:10922473, PubMed:10926844, PubMed:14701748). Also involved in the deacetylation of cohesin complex protein SMC3 regulating release of cohesin complexes from chromatin (PubMed:22885700). May play a role in smooth muscle cell contractility (PubMed:15772115). In addition to protein deacetylase activity, also has protein-lysine deacylase activity: acts as a protein decrotonylase by mediating decrotonylation ((2E)-butenoyl) of histones (PubMed:28497810).
+Subcellular Location	Nucleus; Chromosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEPEEPADSGQSLVPVYIYSPEYVSMCDSLAKIPKRASMVHSLIEAYALHKQMRDEASGFCYLNDAVLGILRLRRKFERILYVDLDLHHGDGVEDAFSFTSKVMTVSLHKFSPGFFPGTGDVSDVGLGKGRYYSVNVPIQDGIQDEKYYQICESVLKEVYQAFNPKAVVLQLGADTIAGDPMCSFNMTPVGIGKCLKYILQWQLATLILGGGGYNLANTARCWTYLTGVILGKTLSSEIPDHEFFTAYGPDYVLEITPSCRPDRNEPHRIQQILNYIKGNLKHVV
+PTM	Acetylation:221;Methylation:221,286,325;SUMOylation:202,221;Ubiquitylation:221,370

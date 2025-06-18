@@ -1,0 +1,25 @@
+UniprotID	Q99447-3
+Accession	Q99447;B7Z7A5;B7ZAS0;F5H8B1;Q6IBM3;Q96G08
+EntryName	PCY2_HUMAN
+ProteinName	Ethanolamine-phosphate cytidylyltransferase (EC 2.7.7.14) (CTP:phosphoethanolamine cytidylyltransferase) (Phosphorylethanolamine transferase)
+GeneName	PCYT2
+Length	407
+Function	Ethanolamine-phosphate cytidylyltransferase that catalyzes the second step in the synthesis of phosphatidylethanolamine (PE) from ethanolamine via the CDP-ethanolamine pathway (PubMed:31637422, PubMed:9083101). Phosphatidylethanolamine is a dominant inner-leaflet phospholipid in cell membranes, where it plays a role in membrane function by structurally stabilizing membrane-anchored proteins, and participates in important cellular processes such as cell division, cell fusion, blood coagulation, and apoptosis (PubMed:9083101).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRNGRGAAGGAEQPGPGGRRAVRVWCDGCYDMVHYGHSNQLRQARAMGDYLIVGVHTDEEIAKHKGPPVFTQEERYKMVQAIKWVDEVVPAAPYVTTLETLDKYNCDFCVHGNDITLTVDGRDTYEEVKQAGRYRECKRTQGVSTTDLVGRMLLVTKAHHSSQEMSSEYREYADSFGKPPHPIPAGDILSSEGCSQCPGGRNPWTGVSQFLQTSQKIIQFASGKEPQPGETVIYVAGAFDLFHIGHVDFLEKVHRLAERPYIIAGLHFDQEVNHYKGKNYPIMNLHERTLSVLACRYVSEVVIGAPYAVTAELLSHFKVDLVCHGKTEIIPDRDGSDPYQEPKRRGIFRQIDSGSNLTTDLIVQRIITNRLEYEARNQKKEAKELAFLEAARQQAAQPLGERDGDF
+PTM	Methylation:6,64,84,179;Phosphorylation:31,36,51,125,126,162,163,336,341,342;SUMOylation:78;Ubiquitylation:130

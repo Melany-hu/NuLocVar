@@ -1,0 +1,25 @@
+UniprotID	H7BXH9
+Accession	H7BXH9
+EntryName	H7BXH9_HUMAN
+ProteinName	Protein N-lysine methyltransferase METTL21A (Methyltransferase-like protein 21A)
+GeneName	METTL21A
+Length	236
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVPYEETTEFGLQKFHKPLATFSFANHTIQIRQDWRHLGVAAVVWDAAIVLSTYLEMGAVELRGRSAVELGAGTGLVGIVAALLALKSSMKPLLVHCLLFFSGAHVTITDRKVALEFLKSNVQANLPPHIQTKTVVKELTWGQNLGSFSPGEFDLILGADIIYLEETFTDLLQTLEHLCSNHSVILLACRIRYERDNNFLAMLERQFTVRKVHYDPEKDVHIYEAQKRNQKEDL
+PTM	

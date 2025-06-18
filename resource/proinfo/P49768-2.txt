@@ -1,0 +1,25 @@
+UniprotID	P49768-2
+Accession	P49768;B2R6D3;O95465;Q14762;Q15719;Q15720;Q96P33;Q9UIF0
+EntryName	PSN1_HUMAN
+ProteinName	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]
+GeneName	PSEN1 AD3 PS1 PSNL1
+Length	463
+Function	Catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein) (PubMed:10206644, PubMed:10545183, PubMed:10593990, PubMed:10811883, PubMed:10899933, PubMed:12679784, PubMed:12740439, PubMed:15274632, PubMed:20460383, PubMed:25043039, PubMed:26280335, PubMed:28269784, PubMed:30598546, PubMed:30630874). Requires the presence of the other members of the gamma-secretase complex for protease activity (PubMed:15274632, PubMed:25043039, PubMed:26280335, PubMed:30598546, PubMed:30630874). Plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (PubMed:10593990, PubMed:10811883, PubMed:10899933, PubMed:9738936). Stimulates cell-cell adhesion via its interaction with CDH1; this stabilizes the complexes between CDH1 (E-cadherin) and its interaction partners CTNNB1 (beta-catenin), CTNND1 and JUP (gamma-catenin) (PubMed:11953314). Under conditions of apoptosis or calcium influx, cleaves CDH1 (PubMed:11953314). This promotes the disassembly of the complexes between CDH1 and CTNND1, JUP and CTNNB1, increases the pool of cytoplasmic CTNNB1, and thereby negatively regulates Wnt signaling (PubMed:11953314, PubMed:9738936). Required for normal embryonic brain and skeleton development, and for normal angiogenesis (By similarity). Mediates the proteolytic cleavage of EphB2/CTF1 into EphB2/CTF2 (PubMed:17428795, PubMed:28269784). The holoprotein functions as a calcium-leak channel that allows the passive movement of calcium from endoplasmic reticulum to cytosol and is therefore involved in calcium homeostasis (PubMed:16959576, PubMed:25394380). Involved in the regulation of neurite outgrowth (PubMed:15004326, PubMed:20460383). Is a regulator of presynaptic facilitation, spike transmission and synaptic vesicles replenishment in a process that depends on gamma-secretase activity. It acts through the control of SYT7 presynaptic expression (By similarity).
+Subcellular Location	Endoplasmic reticulum; Endoplasmic reticulum membrane; Golgi apparatus membrane; Cytoplasmic granule; Cell membrane; Cell projection; Growth cone; Early endosome; Early endosome membrane; Cell projection; Neuron projection; Cell projection; Axon; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTELPAPLSYFQNAQMSEDNHLSNTNDNRERQEHNDRRSLGHPEPLSNGRPQGNSRQVVEQDEEEDEELTLKYGAKHVIMLFVPVTLCMVVVVATIKSVSFYTRKDGQLIYTPFTEDTETVGQRALHSILNAAIMISVIVVMTILLVVLYKYRCYKVIHAWLIISSLLLLFFFSFIYLGEVFKTYNVAVDYITVALLIWNFGVVGMISIHWKGPLRLQQAYLIMISALMALVFIKYLPEWTAWLILAVISVYDLVAVLCPKGPLRMLVETAQERNETLFPALIYSSTMVWLVNMAEGDPEAQRRVSKNSKYNAESTERESQDTVAENDDGGFSEEWEAQRDSHLGPHRSTPESRAAVQELSSSILAGEDPEERGVKLGLGDFIFYSVLVGKASATASGDWNTTIACFVAILIGLCLTLLLLAIFKKALPALPISITFGLVFYFATDYLVQPFMDQLAFHQFYI
+PTM	Acetylation:314;Methylation:76,101,395;Phosphorylation:43,51,59,104,313,319,324,327,337,346,353,354,357,365,366,367;Ubiquitylation:76,109,311,314

@@ -1,0 +1,25 @@
+UniprotID	Q8NE86-2
+Accession	Q8NE86;B2RDF3;B3KXV7;Q96FL3
+EntryName	MCU_HUMAN
+ProteinName	Calcium uniporter protein, mitochondrial (HsMCU) (Coiled-coil domain-containing protein 109A)
+GeneName	MCU C10orf42 CCDC109A
+Length	330
+Function	Channel-forming and calcium-conducting subunit of the mitochondrial inner membrane calcium uniporter complex (uniplex), which mediates calcium uptake into the mitochondrial matrix (PubMed:21685886, PubMed:21685888, PubMed:22822213, PubMed:22829870, PubMed:22904319, PubMed:23101630, PubMed:23178883, PubMed:23755363, PubMed:24332854, PubMed:24560927, PubMed:26341627, PubMed:29954988, PubMed:29995857, PubMed:30454562, PubMed:30638448, PubMed:31080062, PubMed:32494073, PubMed:32762847, PubMed:33296646, PubMed:37036971, PubMed:37126688). MCU channel activity is regulated by the calcium-sensor subunits of the uniplex MICU1 and MICU2 (or MICU3) (PubMed:24560927, PubMed:26903221, PubMed:30454562, PubMed:30638448, PubMed:32494073, PubMed:32762847, PubMed:37036971, PubMed:37126688). Mitochondrial calcium homeostasis plays key roles in cellular physiology and regulates ATP production, cytoplasmic calcium signals and activation of cell death pathways (PubMed:21685886, PubMed:21685888, PubMed:22822213, PubMed:22829870, PubMed:22904319, PubMed:23101630, PubMed:23178883, PubMed:23755363, PubMed:24332854, PubMed:24560927, PubMed:26341627, PubMed:29954988, PubMed:32494073, PubMed:32762847). Involved in buffering the amplitude of systolic calcium rises in cardiomyocytes (PubMed:22822213). While dispensable for baseline homeostatic cardiac function, acts as a key regulator of short-term mitochondrial calcium loading underlying a 'fight-or-flight' response during acute stress: acts by mediating a rapid increase of mitochondrial calcium in pacemaker cells (PubMed:25603276). Participates in mitochondrial permeability transition during ischemia-reperfusion injury (By similarity). Mitochondrial calcium uptake in skeletal muscle cells is involved in muscle size in adults (By similarity). Regulates synaptic vesicle endocytosis kinetics in central nerve terminal (By similarity). Regulates glucose-dependent insulin secretion in pancreatic beta-cells by regulating mitochondrial calcium uptake (PubMed:22829870, PubMed:22904319). Involved in antigen processing and presentation (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAAGRSLLLLLSSRGGGGGGAGGCGALTAGCFPGLGVSRHRQQQHHRTVHQRIASWQNLGAVYCSTVVPSDDVTVVYQNGLPVISVRLPSRRERCQFTLKPISDSVGVFLRQLQEEDRGIDRVAIYSPDGVRVAASTGIDLLLLDDFKLVINDLTYHVRPPKRVEMGFCHVGQNGFELLTSSYLPASASQSAEIIAVRIEISRKAEKRTTLVLWGGLAYMATQFGILARLTWWEYSWDIMEPVTYFITYGSAMAMYAYFVMTRQEYVYPEARDRQYLLFFHKGAKKSRFDLEKYNQLKDAIAQAEMDLKRLRDPLQVHLPLRQIGEKD
+PTM	Acetylation:199,211,219,316,321,332;Methylation:316;Phosphorylation:15;SUMOylation:308,309

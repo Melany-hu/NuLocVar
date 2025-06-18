@@ -1,0 +1,25 @@
+UniprotID	Q969X6-2
+Accession	Q969X6;Q8NCD9;Q8TF14;Q96SP0;Q96SR9;Q96SZ9;Q96T13;Q9BWK6
+EntryName	UTP4_HUMAN
+ProteinName	U3 small nucleolar RNA-associated protein 4 homolog (Cirhin) (UTP4 small subunit processome component)
+GeneName	UTP4 CIRH1A cPERP-E KIAA1988
+Length	571
+Function	Ribosome biogenesis factor. Involved in nucleolar processing of pre-18S ribosomal RNA. Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted d Involved in SSU pre-rRNA processing at sites A', A0, 1 and 2b. Required for optimal pre-ribosomal RNA transcription by RNA polymerase (PubMed:17699751, PubMed:19732766, PubMed:34516797). May be a transcriptional regulator (PubMed:22916032).
+Subcellular Location	Nucleus; Nucleolus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	193...197
+validnes_region	
+nesbase_region	
+Sequence	MGEFKVHRVRFFNYVPSGIRCVAYNNQSNRLAVSRTDGTVEIYNLSANYFQEKFFPGHESRATEALCWAEGQRLFSAGLNGEIMEYDLQALNIKYAMDAFGGPIWSMAASPSGSQLLVGCEDGSVKLFQITPDKIQFERNFDRQKSRILSLSWHPSGTHIAAGSIDYISVFDVKSGSAVHKMIVDRQYMGVSKRKCIVWGVAFLSDGTIISVDSAGKVQFWDSATGTLVKSHLIANADVQSIAVADQEDSFVVGTAEGTVFHFQLVPVTSNSSEKQWVRTKPFQHHTHDVRTVAHSPTALISGGTDTHLVFRPLMEKVEVKNYDAALRKITFPHRCLISCSKKRQLLLFQFAHHLELWRLGSTVATGTVEAMCLLAVSPDGNWLAASGTSAGVHVYNVKQLKLHCTVPAYNFPVTAMAIAPNTNNLVIAHSDQQVFEYSIPDKQYTDWSRTVQKQGFHHLWLQRDTPITHISFHPKRPMHILLHDAYMFCIIDKSLPLPNDKTLLYNPFPPTNESDVIRRRTAHAFKISKIYKPLLFMDLLDERTLVAVERPLDDIIAQLPPPIKKKKFGT
+PTM	Acetylation:134,193,368,428;Methylation:94,230,321,368,386,609;Phosphorylation:86,188,273,323,426;SUMOylation:134,181,281,317,321,368,569,617,642,645,648;Ubiquitylation:53,134,181,193,281,317,321,368,386,428,432,569,617,642,645,648,680

@@ -1,0 +1,25 @@
+UniprotID	E9PPX1
+Accession	E9PPX1
+EntryName	E9PPX1_HUMAN
+ProteinName	Tripartite motif containing 29
+GeneName	TRIM29
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDPKDFSQWWNPGGVRTSYQPSSPGRFTKETTQKNFNNLYGTKGNYTSRVWEYSSSIQNSDNDLPVVQGSSSFSLKGYPSLMRSQSPKAQPQT
+PTM	

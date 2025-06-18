@@ -1,0 +1,25 @@
+UniprotID	E9PB15-2
+Accession	E9PB15;B9A003
+EntryName	PTG3L_HUMAN
+ProteinName	Putative protein PTGES3L (Prostaglandin E synthase 3-like)
+GeneName	PTGES3L
+Length	161
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSLPLNCSPDHIRRGSCWGRPQDLKIAAPAWNSKCHPGAGAAMARCKNADGVELYNEIEFYAKVNSKDSQDKRSSRSITCFVRKWKEKVAWPRLTKEDIKPVWLSVDFDNWRDWEGDEEMELAHVEHYAELLKKVSTKRPPPAMDDLDDDSDSADDATSN
+PTM	Methylation:26,139;Phosphorylation:3,157,159

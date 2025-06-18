@@ -1,0 +1,25 @@
+UniprotID	Q495W5-2
+Accession	Q495W5;Q495W7;Q8IYE4
+EntryName	OFUT4_HUMAN
+ProteinName	GDP-fucose protein O-fucosyltransferase 4 (EC 2.4.1.221) (Alpha-(1,3)-fucosyltransferase 11) (EC 2.4.1.-) (Fucosyltransferase XI) (Fuc-TXI) (FucT-XI) (Galactoside 3-L-fucosyltransferase 11) (Fucosyltransferase 11)
+GeneName	FUT11 POFUT4
+Length	476
+Function	Protein O-fucosyltransferase that specifically catalyzes O-fucosylation of serine or threonine residues in EMI domains of target proteins, such as MMRN1, MMRN2 and EMID1 (PubMed:39775168). Attaches fucose through an O-glycosidic linkage (PubMed:39775168). O-fucosylation of EMI domain-containing proteins may be required for facilitating protein folding and secretion (PubMed:39775168). Also shows minor alpha-(1,3)-fucosyltransferase activity toward activity toward biantennary N-glycan acceptors (PubMed:19088067). However, this was tested with a library of synthetic substrates and this activity is unsure in vivo (PubMed:19088067).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGPIRVVLVLLGVLSVCAASGHGSVAEREAGGEAEWAEPWDGAVFRPPSALGAVGVTRSSGTPRPGREEAGDLPVLLWWSPGLFPHFPGDSERIECARGACVASRNRRALRDSRTRALLFYGTDFRASAAPLPRLAHQSWALLHEESPLNNFLLSHGPGIRLFNLTSTFSRHSDYPLSLQWLPGTAYLRRPVPPPMERAEWRRRGYAPLLYLQSHCDVPADRDRYVRELMRHIPVDSYGKCLQNRELPTARLQDTATATTEDPELLAFLSRYKFHLALENAICNDYMTEKLWRPMHLGAVPVYRGSPSVRDWMPNNHSVILIDDFESPQKLAEFIDFLDKNDEEYMKYLAYKQPGGITNQFLLDSLKHREWGVNDPLLPNYLNGFECFVCDYELARLDAEKAHAASPGDSPVFEPHIAQPSHMDCPVPTPGFGNVEEIPENDSSLVQVRDHCICLRFLWPHSEKGRTHNYAAVP
+PTM	Glycosylation:166,317,318,471;Phosphorylation:130,189;SUMOylation:349;Ubiquitylation:242,354

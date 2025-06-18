@@ -1,0 +1,25 @@
+UniprotID	H0YNH6
+Accession	H0YNH6
+EntryName	H0YNH6_HUMAN
+ProteinName	ER membrane protein complex subunit 9
+GeneName	EMC9
+Length	134
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFAHSWLLTPLIFPLHSPGPLALKIAGRIAEFFPDAVLIMLDNQKLVPQPRVPPVIVLENQGLRWVPKDKNLVMWRDWEESRQMVGALLEDRAHQHLVDFDCHLDDIRQDWTNQRLNTQITQWVGPTNGNGNA
+PTM	

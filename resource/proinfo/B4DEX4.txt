@@ -1,0 +1,25 @@
+UniprotID	B4DEX4
+Accession	B4DEX4
+EntryName	B4DEX4_HUMAN
+ProteinName	Leucine rich repeat containing 28, isoform CRA_a (cDNA FLJ59855, highly similar to Homo sapiens leucine rich repeat containing 28 (LRRC28), mRNA)
+GeneName	LRRC28 hCG_28260
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASELCKTISVARLEKHKNLFLNYRNLHHFPLELLKDEGLQYLERLYMKRNSLTSLPENLAQKLPNLVELYLHSNNIVVVPEAIGSLVKLQCLDLSDNALEIVCPEIGRLRALRHLRLANNQLQFLPPVPHCGPKSSMVCAAPSLPAAQPQ
+PTM	

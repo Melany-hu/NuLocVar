@@ -1,0 +1,25 @@
+UniprotID	Q9UQ72-2
+Accession	Q9UQ72;Q13179;Q15242;Q8WW91;Q9UNE4
+EntryName	PSG11_HUMAN
+ProteinName	Pregnancy-specific beta-1-glycoprotein 11 (PS-beta-G-11) (PSBG-11) (Pregnancy-specific glycoprotein 11) (Pregnancy-specific beta-1-glycoprotein 13) (PS-beta-G-13) (PSBG-13) (Pregnancy-specific glycoprotein 13)
+GeneName	PSG11 PSG13 PSG14
+Length	213
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPLSAPPCTEHIKWKGLLLTVETPKPSISSSNLNPREAMETVILTCNPETPDASYLWWMNGQSLPMTHRMQLSETNRTLFLFGVTKYTAGPYECEIWNSGSASRSDPVTLNLLHGPDLPRIFPSVTSYYSGENLDLSCFANSNPPAQYSWTINGKFQLSGQKLFIPQITPKHNGLYACSARNSATGEESSTSLTIRVIAPPGLGTFAFNNPT
+PTM	Glycosylation:104,111,199;Methylation:294

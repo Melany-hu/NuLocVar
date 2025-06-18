@@ -1,0 +1,25 @@
+UniprotID	Q9P003-2
+Accession	Q9P003;A8K1Q8;B2R553;Q9H0X8
+EntryName	CNIH4_HUMAN
+ProteinName	Protein cornichon homolog 4 (CNIH-4) (Cornichon family AMPA receptor auxiliary protein 4)
+GeneName	CNIH4 HSPC163
+Length	92
+Function	Involved in G protein-coupled receptors (GPCRs) trafficking from the endoplasmic reticulum to the cell surface; it promotes the exit of GPCRs from the early secretory pathway, likely through interaction with the COPII machinery (PubMed:24405750).
+Subcellular Location	Membrane; Endoplasmic reticulum; Endoplasmic reticulum-Golgi intermediate compartment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAVVFVFSLLDCCALIFLSVYFIITLSDLECDYINARSCCSKLNKWVIPELIGHTIVTVLLLMSLHWFIFLLNLPVATWNIYRMILALIND
+PTM	Ubiquitylation:43,108

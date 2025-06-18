@@ -1,0 +1,25 @@
+UniprotID	Q9UNL2-2
+Accession	Q9UNL2;B2R7D0;B4E2P2;D3DNK5;Q549M4
+EntryName	SSRG_HUMAN
+ProteinName	Translocon-associated protein subunit gamma (TRAP-gamma) (Signal sequence receptor subunit gamma) (SSR-gamma)
+GeneName	SSR3 TRAPG
+Length	198
+Function	TRAP proteins are part of a complex whose function is to bind calcium to the ER membrane and thereby regulate the retention of ER resident proteins.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPKGSSKQQSEEDLLLQDFSRNLSAKSSALFFGNAFIVSAIPIWLYWRIWHMDLIQSAVLYSVMTLVSTYLVAFAYKNVKFVLKHKVAQKREDAVSKEVTRKLSEADNRKMSRKEKDERFDSCLKYGHHKRGILWKKNEVADYEATTFSIFYNNTLFLVVVIVASFFILKNFNPTVNYILSISASSGLIALLSTGSK
+PTM	Acetylation:98;Methylation:85;Phosphorylation:6,7,11,21,105,113;Ubiquitylation:8,81,85,98,103

@@ -1,0 +1,25 @@
+UniprotID	E5RJH1
+Accession	E5RJH1
+EntryName	E5RJH1_HUMAN
+ProteinName	Centrosomal protein 57 like 1
+GeneName	CEP57L1
+Length	235
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSELMHSIVGSYHKPPERVFVPSFTQNEPSQNCHPANLEVTSPKILHSPNSQALILALKTLQEKIHRLELERTQAEDNLNILSREAAQYKKALENETNERNLAHQELIKQKKEKQLEYTKRMVLNVEREKNMILEQQAQLQREKEQDQMKLYAKLEKLDVLEKECFRLTTTQKTAEDKIKHLEEKLKEEEHQRKLFQDKASELQTGLEISKIIMSSVSNLKHSKEKKKSSKVCI
+PTM	

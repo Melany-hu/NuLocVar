@@ -1,0 +1,25 @@
+UniprotID	Q96HR8-2
+Accession	Q96HR8;D3DP28;E9PAZ2
+EntryName	NAF1_HUMAN
+ProteinName	H/ACA ribonucleoprotein complex non-core subunit NAF1 (hNAF1)
+GeneName	NAF1
+Length	389
+Function	RNA-binding protein required for the maturation of box H/ACA snoRNPs complex and ribosome biogenesis. During assembly of the H/ACA snoRNPs complex, it associates with the complex and disappears during maturation of the complex and is replaced by NOLA1/GAR1 to yield mature H/ACA snoRNPs complex. Probably competes with NOLA1/GAR1 for binding with DKC1/NOLA4.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	332...336
+validnes_region	
+nesbase_region	
+Sequence	MEVVEAAAAQLETLKFNGTDFGVGEGPAAPSPGSAPVPGTQPPLQSFEGSPDAGQTVEVKPAGEQPLQPVLNAVAAGTPAPQPQPPAESPACGDCVTSPGAAEPARAPDSLETSDSDSDSDSETDSDSSSSSSSSSSSSSSSSSSCISLPPVLSDGDDDLQIEKENKNFPLKTKDELLLNELPSVEELTIILPEDIELKPLGMVSSIIEQLVIIESMTNLPPVNEETVIFKSDRQAAGKIFEIFGPVAHPFYVLRFNSSDHIESKGIKIKETMYFAPSMKDFTQYIFTEKLKQDKGSDASWKNDQEPPPEALDFSDDEKEKEAKQRKKSQIQGRKKLKSEFNEPGTGISHRYCGLGSRPLQSSESHKLFGFQMHIKVTFTCYFSLLSMQ
+PTM	Methylation:15,60,164,239,265,375,379,381,384,389;Phosphorylation:134,135,300,315;SUMOylation:167,172,270,280,290,338;Ubiquitylation:167,172,239,265,290

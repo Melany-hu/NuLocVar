@@ -1,0 +1,25 @@
+UniprotID	H7C0T5
+Accession	H7C0T5
+EntryName	H7C0T5_HUMAN
+ProteinName	Tubulin tyrosine ligase like 3
+GeneName	TTLL3
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLRNAKIYVERAVKQKKIFTIQGCYPVIRCLLRRRGWVEKKMVHRSGPTLLPPQKDLDSSAMGDSDTTEDEDEDEDEEFQPSQLFDFDDLLKFDDLDGTHALMRRGRTQAPRHSGPAL
+PTM	

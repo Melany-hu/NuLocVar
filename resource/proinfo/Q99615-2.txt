@@ -1,0 +1,25 @@
+UniprotID	Q99615-2
+Accession	Q99615;Q7Z784
+EntryName	DNJC7_HUMAN
+ProteinName	DnaJ homolog subfamily C member 7 (Tetratricopeptide repeat protein 2) (TPR repeat protein 2)
+GeneName	DNAJC7 TPR2 TTC2
+Length	438
+Function	Acts as a co-chaperone regulating the molecular chaperones HSP70 and HSP90 in folding of steroid receptors, such as the glucocorticoid receptor and the progesterone receptor. Proposed to act as a recycling chaperone by facilitating the return of chaperone substrates to early stages of chaperoning if further folding is required. In vitro, induces ATP-independent dissociation of HSP90 but not of HSP70 from the chaperone-substrate complexes. Recruits NR1I3 to the cytoplasm (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	385...390
+validnes_region	
+nesbase_region	
+Sequence	MCPKNASYYGNRAATLMMLGRFREALGDAQQSVRLDDSFVRGHLREGKCHLSLGNAMAACRSFQRALELDHKNAQAQQEFKNANAVMEYEKIAETDFEKRDFRKVVFCMDRALEFAPACHRFKILKAECLAMLGRYPEAQSVASDILRMDSTNADALYVRGLCLYYEDCIEKAVQFFVQALRMAPDHEKACIACRNAKALKAKKEDGNKAFKEGNYKLAYELYTEALGIDPNNIKTNAKLYCNRGTVNSKLRKLDDAIEDCTNAVKLDDTYIKAYLRRAQCYMDTEQYEEAVRDYEKVYQTEKTKEHKQLLKNAQLELKKSKRKDYYKILGVDKNASEDEIKKAYRKRALMHHPDRHSGASAEVQKEEEKKFKEVGEAFTILSDPKKKTRYDSGQDLDEEGMNMGDFDPNNIFKAFFGGPGGFSFEASGPGNFFFQFG
+PTM	Acetylation:32,41,60,128,155,182,245,268,295,306,322,329,359,368,375,384,390,426;Methylation:25,147,155,228,238,291,322,368,375,398,399,412,422,442,470;Phosphorylation:48,50,207,221,222,272,276,279,327,331,355,382,383,393,449;SUMOylation:273,384,398,422;Ubiquitylation:41,42,53,60,128,137,155,182,268,273,291,306,322,329,359,368,375,380,384,390,398,399,422,442,443

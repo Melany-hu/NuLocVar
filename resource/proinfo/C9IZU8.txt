@@ -1,0 +1,25 @@
+UniprotID	C9IZU8
+Accession	C9IZU8
+EntryName	C9IZU8_HUMAN
+ProteinName	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+GeneName	RPE
+Length	225
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGCKIGPSILNSDLANLGAECLRMLDSGADYLHLDVMDGHFVPNITFGHPVVESLRKQLGQDPFFDMHMMVSKPEQWVKPMAVAGANQYTFHLEATENPGALIKDIRENGMKVGLAIKPGTSVEYLAPWANQIDMALVMTVEPGFGGQKFMEDMMPKVHWLRTQFPSLDIEVDGGVGPDTVHKCAEIGVQWRDLCSLQSLPAGFKRFSCLSLLSSWDYRQELT
+PTM	

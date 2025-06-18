@@ -1,0 +1,25 @@
+UniprotID	Q5QPE7
+Accession	Q5QPE7
+EntryName	Q5QPE7_HUMAN
+ProteinName	Mitochondrial genome maintenance exonuclease 1
+GeneName	MGME1
+Length	252
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKMKLFQTICRQLRSSKFSVESAALVAFSTSSYSCGRKKKVNPYEEVDQEKYSNLVQSVLSSRGVAQTPGSVEEDALLCGPVSKHKLPNQGEDRRVPQNWFPIFNPERSDKPNASDPSVPLKIPLQRNVIPSVTRVLQQTMTKQQVFLLERWKQRMILELGEDGFKEYTSSSMWLNCGGLQRWITCPPTFHGCRALFPVLDQVASSTRRIYGKEKEPEYSETRIFRIGSKLLFGNIQHLLTVWEHILLFTPV
+PTM	

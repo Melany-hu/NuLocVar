@@ -1,0 +1,25 @@
+UniprotID	Q96IU4-2
+Accession	Q96IU4;Q86VK8;Q8N8W5
+EntryName	ABHEB_HUMAN
+ProteinName	Putative protein-lysine deacylase ABHD14B (EC 2.3.1.-) (Alpha/beta hydrolase domain-containing protein 14B) (Abhydrolase domain-containing protein 14B) (CCG1-interacting factor B)
+GeneName	ABHD14B CIB
+Length	172
+Function	Acts as an atypical protein-lysine deacetylase in vitro (PubMed:31478652). Catalyzes the deacetylation of lysine residues using CoA as substrate, generating acetyl-CoA and the free amine of protein-lysine residues (PubMed:31478652). Additional experiments are however required to confirm the protein-lysine deacetylase activity in vivo (Probable). Has hydrolase activity towards various surrogate p-nitrophenyl (pNp) substrates, such as pNp-butyrate, pNp-acetate and pNp-octanoate in vitro, with a strong preference for pNp-acetate (PubMed:14672934, PubMed:31478652). May activate transcription (PubMed:14672934).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPGLFPAFLLRPQVTASTRLLPVCASPRSSPGLGHSKEAAAPAPIGELAPGSFLAAVVDALELGPPVVISPSLSGMYSLPFLTAPGSQLPGFVPVAPICTDKINAANYASVKTPALIVYGDQDPMGQTSFEHLKQLPNHRVLIMKGAGHPCYLDKPEEWHTGLLDFLQGLQ
+PTM	Methylation:76,151;Phosphorylation:4,34,149;Ubiquitylation:151

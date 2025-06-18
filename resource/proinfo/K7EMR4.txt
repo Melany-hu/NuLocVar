@@ -1,0 +1,25 @@
+UniprotID	K7EMR4
+Accession	K7EMR4
+EntryName	K7EMR4_HUMAN
+ProteinName	Mitochondrial glutathione transporter SLC25A40 (Solute carrier family 25 member 40)
+GeneName	SLC25A39
+Length	266
+Function	Mitochondrial transporter required for glutathione import into mitochondria. Glutathione, which plays key roles in oxidative metabolism, is produced exclusively in the cytosol and is imported in many organelles. Mitochondrial glutathione is required for the activity and stability of proteins containing iron-sulfur clusters, as well as erythropoiesis.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DPTRFTGTMDAFVKIVRHEGTRTLWSGLPATLVMTVPATAIYFTAYDQLKAFLCGRALTSDLYAPMVAGALARLGTVTVISPLELMRTKLQAQHVSYRELGACVRTAVAQGGWRSLWLGWGPTALRDVPFSVHPPPQALYWFNYELVKSWLNGFRPKDQTSVGMSFVAGGISGTVAAVLTLPFDVVKTQRQVALGAMEAVRVNPLHVDSTWLLLRRIRAESGTKGLFAGFLPRIIKAAPSCAIMISTYEFGKSFFQRLNQDRLLGG
+PTM	

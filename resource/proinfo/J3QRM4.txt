@@ -1,0 +1,25 @@
+UniprotID	J3QRM4
+Accession	J3QRM4
+EntryName	J3QRM4_HUMAN
+ProteinName	Peroxisomal biogenesis factor 10
+GeneName	PEX10
+Length	30
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRHHTATLTEQQRRALLRAVFVLRQGLACL
+PTM	

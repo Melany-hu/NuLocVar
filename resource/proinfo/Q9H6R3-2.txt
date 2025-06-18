@@ -1,0 +1,25 @@
+UniprotID	Q9H6R3-2
+Accession	Q9H6R3;Q8NC66
+EntryName	ACSS3_HUMAN
+ProteinName	Acyl-CoA synthetase short-chain family member 3, mitochondrial (EC 6.2.1.1) (Acetate--CoA ligase 3) (Acyl-CoA synthetase short-chain family member 3) (Propionate--CoA ligase) (EC 6.2.1.17)
+GeneName	ACSS3
+Length	368
+Function	Catalyzes the synthesis of acetyl-CoA from short-chain fatty acids (PubMed:28003429). Propionate is the preferred substrate (PubMed:28003429). Can utilize acetate and butyrate with a much lower affinity (By similarity).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHWSMSSIYGLQPGEVWWAASDLGWVVGHSYICYGPLLHGNTTVLYEGKPVGTPDAGAYFRVLAEHGVAALFTAPTAIRAIRQQDPGAALGKQYSLTRFKTLFVAGERCDVETLEWSKNVFRVPVLDHWWQTETGSPITASCVGLGNSKTPPPGQAGKSVPGYNVMILDDNMQKLKARCLGNIVVKLPLPPGAFSGLWKNQEAFKHLYFEKFPGYYDTMDAGYMDEEGYLYVMSRVDDVINVAGHRISAGAIEESILSHGTVADCAVVGKEDPLKGHVPLALCVLRKDINATEEQVLEEIVKHVRQNIGPVAAFRNAVFVKQLPKTRSGKIPRSALSAIVNGKPYKITSTIEDPSIFGHVEEMLKQA
+PTM	Acetylation:97;Methylation:97,162,243,279,307,468,505,606,621

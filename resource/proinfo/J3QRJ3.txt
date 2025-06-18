@@ -1,0 +1,25 @@
+UniprotID	J3QRJ3
+Accession	J3QRJ3
+EntryName	J3QRJ3_HUMAN
+ProteinName	Thy-1 membrane glycoprotein (Thy-1 antigen)
+GeneName	THY1
+Length	144
+Function	May play a role in cell-cell or cell-ligand interactions during synaptogenesis and other events in the brain.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLAISIALLLTVDQSLRLDCRHENTSSSPIQYEFSLTRETKKHVLFGTVGVPEHTYRSRTNFTSKYNMKVLYLSAFTSKDEGTYTCALHHSGHSPPISSQNVTVLRDKLVKCEGISLLAQNTSWLLLLLLSLSLLQATDFMSL
+PTM	

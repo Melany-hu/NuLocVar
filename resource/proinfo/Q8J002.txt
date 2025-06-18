@@ -1,0 +1,25 @@
+UniprotID	Q8J002
+Accession	Q8J002
+EntryName	Q8J002_HUMAN
+ProteinName	Protein C
+GeneName	PROC
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SVFSSSERAHQVLRIRKRANSFLKELRHSSLERECIEEICDFEEAKEIFQNVDDT
+PTM	

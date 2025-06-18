@@ -1,0 +1,25 @@
+UniprotID	H7BZ50
+Accession	H7BZ50
+EntryName	H7BZ50_HUMAN
+ProteinName	Mitotic spindle organizing protein 2B
+GeneName	MZT2B
+Length	121
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VVAASGAPRYFLPSKESACAILVDLLKLNVAPLAVFQMLKSMCAGQRLASEPQDPAAVSLPTSSVPETRGRNKGSAALGGALALAERSSREGSSQRMPRQPSATRLPKGGGPGKSPTRGST
+PTM	

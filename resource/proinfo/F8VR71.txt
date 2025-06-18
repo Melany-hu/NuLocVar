@@ -1,0 +1,25 @@
+UniprotID	F8VR71
+Accession	F8VR71
+EntryName	F8VR71_HUMAN
+ProteinName	Transmembrane O-mannosyltransferase targeting cadherins 3
+GeneName	TMTC3
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANINLKEITLIVGVVTACYWNSLFCGFVFDDVSAILDNKDLHPSTPLKTLFQNDFWGTPMSEVTGVVGRAELLSSIFFLAAFLSYTRSKGPDNSIIWTPIALTVFLVAVATLCKEQGITVVGICCVYEVFIAQGYTLPLLCTTA
+PTM	

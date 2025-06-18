@@ -1,0 +1,25 @@
+UniprotID	Q86VG4
+Accession	Q86VG4
+EntryName	Q86VG4_HUMAN
+ProteinName	DNAJC4 protein
+GeneName	DNAJC4
+Length	229
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RLLGAAAGQRSRPSTYYELLGVHPGASTEEVKRAFFSKSKELHPDRDPGNPSLHSRFVELSEAYRVLSREQSRRSYDDQLRSGSPPKSPRTTVHDKSAHQTHSSWTPPNAQYWSQFHSVRPQGPQLRQQQHKQNKQVLGYCLLLMLAGMGLHYIAFRKVKQMHLNFMDEKDRIITAFYNEARARARSVPALFCSLLPVQEPHFGIPIPTTQVPSPPGPTEASFSRSDNG
+PTM	

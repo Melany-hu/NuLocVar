@@ -1,0 +1,25 @@
+UniprotID	D6RC65
+Accession	D6RC65
+EntryName	D6RC65_HUMAN
+ProteinName	Catenin delta 2
+GeneName	CTNND2
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVPDQPSSASEKTSSLSPGLNTSNGDGSETETTSAILASVKEQELQFERLTRELEAERQIVASQLERCKLGSETGSMSSMSSAEEQFQWQSQDGQKDIEDELTTGLELVDSCIRSLQESGILDPQDYSTGETGSRASYSSQHGHLGPELRALQSPEHHIDPIYEDRVYQKPPMRSLSQSQGDPLPPAHTGTYRTSTAPSSPGVDSVPL
+PTM	

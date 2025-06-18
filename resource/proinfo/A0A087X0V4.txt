@@ -1,0 +1,25 @@
+UniprotID	A0A087X0V4
+Accession	A0A087X0V4
+EntryName	A0A087X0V4_HUMAN
+ProteinName	Protein archease
+GeneName	ZBTB8OS
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQEEEDVRDYNLTEEQKAIKAKYPPVNRKYECELHAWGDTLEEAFEQCAMAMFGYMTDTGTVEPLQTVEVETQGDDLQSLLFHFLDEWLYKFSADEFFIPREVKVLSIDQRNFKLRSIGWGEEFSLSKHPQGTEVKAITYSAMQVYNEENPEVFVIIDI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0Y566
+Accession	H0Y566
+EntryName	H0Y566_HUMAN
+ProteinName	Potassium channel tetramerization domain containing 3
+GeneName	KCTD3
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFSTSRQTLMWIPDSFFSSLLSGRISTLRDETGAIFIDRDPAAFAPILNFLRTKELDLRGVSINVLRHEAEFYGITPLVRRLLLCEELERSSCGSVLFHGYLPPPGIPSRKINNTVRSADSRNGLNSTEGEARGNGTQPVLSGTGEETVRLGFPVDPRKVLIVAGHHNWIVAAYAHFAVCYRVFWLGTVGHACNPSTLGGRDGWSSRSARPTW
+PTM	

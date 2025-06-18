@@ -1,0 +1,25 @@
+UniprotID	Q5JTY1
+Accession	Q5JTY1;A6NJA5
+EntryName	Q5JTY1_HUMAN
+ProteinName	CBWD5 protein
+GeneName	CBWD5
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFIQNLLWEKNVRNKDNHCMEVIRLKVQFTVADFWTKSFSWLL
+PTM	

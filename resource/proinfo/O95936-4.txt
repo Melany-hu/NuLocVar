@@ -1,0 +1,25 @@
+UniprotID	O95936-4
+Accession	O95936;B7Z4I2;B7ZA51;G3XAI5;Q8TAZ2;Q9UPM7
+EntryName	EOMES_HUMAN
+ProteinName	Eomesodermin homolog (T-box brain protein 2) (T-brain-2) (TBR-2)
+GeneName	EOMES TBR2
+Length	705
+Function	Functions as a transcriptional activator playing a crucial role during development. Functions in trophoblast differentiation and later in gastrulation, regulating both mesoderm delamination and endoderm specification. Plays a role in brain development being required for the specification and the proliferation of the intermediate progenitor cells and their progeny in the cerebral cortex (PubMed:17353897). Required for differentiation and migration of unipolar dendritic brush cells (PubMed:33488348). Also involved in the differentiation of CD8+ T-cells during immune response regulating the expression of lytic effector genes (PubMed:17566017).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLGEQLLVSSVNLPGAHFYPLESARGGSGGSAGHLPSAAPSPQKLDLDKASKKFSGSLSCEAVSGEPAAASAGAPAAMLSDTDAGDAFASAAAVAKPGPPDGRKGSPCGEEELPSAAAAAAAAAAAAAATARYSMDSLSSERYYLQSPGPQGSELAAPCSLFPYQAAAGAPHGPVYPAPNGARYPYGSMLPPGGFPAAVCPPGRAQFGPGAGAGSGAGGSSGGGGGPGTYQYSQGAPLYGPYPGAAAAGSCGGLGGLGVPGSGFRAHVYLCNRPLWLKFHRHQTEMIITKQGRRMFPFLSFNINGLNPTAHYNVFVEVVLADPNHWRFQGGKWVTCGKADNNMQGNKMYVHPESPNTGSHWMRQEISFGKLKLTNNKGANNNNTQMIVLQSLHKYQPRLHIVEVTEDGVEDLNEPSKTQTFTFSETQFIAVTAYQNTDITQLKIDHNPFAKGFRDNYDSMYTASENDRLTPSPTDSPRSHQIVPGGRYGVQSFFPEPFVNTLPQARYYNGERTVPQTNGLLSPQQSEEVANPPQRWLVTPVQQPGTNKLDISSYESEYTSSTLLPYGIKSLPLQTSHALGYYPDPTFPAMAGWGGRGSYQRKMAAGLPWTSRTSPTVFSEDQLSKEKVKEEIGSSWIETPPSIKSLDSNDSGVYTSACKRRRLSPSNSSNENSPSIKCEDINAEEYSKDTSKGMGGYYAFYTTP
+PTM	Acetylation:641;Methylation:50,291,578,583;Phosphorylation:42,107,116,358,360,595,596,598,601,606,646,648,655,657;SUMOylation:611,659;Ubiquitylation:607

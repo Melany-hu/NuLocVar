@@ -1,0 +1,25 @@
+UniprotID	H3BSA2
+Accession	H3BSA2
+EntryName	H3BSA2_HUMAN
+ProteinName	Calpain-3 (EC 3.4.22.54)
+GeneName	CAPN3
+Length	188
+Function	Calcium-regulated non-lysosomal thiol-protease.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGNKQHLQKDFFLYNASKARSKTYINMREVSQRFRLPPSEYVIVPSTYEPHQEGEFILRVFSEKRNLSEEVENTISVDRPVKKKKTKPIIFVSDRANSNKELGVDQESEEGKGKTSPDKQKQSPQFSFVPPQPQPGSSDQESEEQQQFRNIFKQIAGDDMEICADELKKVLNTVVNKHKDLKTHGFTL
+PTM	

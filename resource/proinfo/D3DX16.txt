@@ -1,0 +1,25 @@
+UniprotID	D3DX16
+Accession	D3DX16
+EntryName	D3DX16_HUMAN
+ProteinName	Citrate transport protein
+GeneName	SLC25A1 hCG_17246
+Length	208
+Function	
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFEFLSNHMRDAQGRLDSTRGLLCGLGAGVAEAVVVVCPMETIKVKFIHDQTSPNPKYRGFFHGVREIVREQGLKGTYQGLTATVLKQGSNQAIRFFVMTSLRNWYRGDNPNKPMNPLITGVFGAIAGAASVFGNTPLDVIKTRMQGLEAHKYRNTWDCGLQILKKEGLKAFYKGTVPRLGRVCLDVAIVFVIYDEVVKLLNKVWKTD
+PTM	

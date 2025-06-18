@@ -1,0 +1,25 @@
+UniprotID	H3BNQ5
+Accession	H3BNQ5
+EntryName	H3BNQ5_HUMAN
+ProteinName	dual-specificity kinase (EC 2.7.12.1)
+GeneName	CLK3
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	99...103
+validnes_region	
+nesbase_region	
+Sequence	EHKSCEEKSVKNTSIRVADFGSATFDHEHHTTIVATRHYRPPEVILELGWAQPCDVWSIGCILFEYYRGFTLFQTHENREHLVMMEKILGPIPSHMIHRTRKQKYFYKGGLVWDENSSDGRYVKENCKPLKVSFWLPPAELMPRRDPRHWADIQQRQARPLKAASLIQLYGRRHPRLLGAGNGASCKLPQRGP
+PTM	

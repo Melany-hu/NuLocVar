@@ -1,0 +1,25 @@
+UniprotID	Q9BU61-2
+Accession	Q9BU61
+EntryName	NDUF3_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3
+GeneName	NDUFAF3 C3orf60
+Length	127
+Function	Essential factor for the assembly of mitochondrial NADH:ubiquinone oxidoreductase complex (complex I).
+Subcellular Location	Nucleus; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYIDSYNSRGFMINGNRVLGPCALLPHSVVQWNVGSHQDITEDSFSLFWLLEPRIEIVVVGTGDRTERLQSQVLQAMRQRGIAVEVQDTPNACATFNFLCHEGRVTGAALIPPPGGTSLTSLGQAAQ
+PTM	

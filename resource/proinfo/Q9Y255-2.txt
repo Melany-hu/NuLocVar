@@ -1,0 +1,25 @@
+UniprotID	Q9Y255-2
+Accession	Q9Y255;B2R5F7;D6RD25;Q549N2;Q9UI13;Q9UJS9
+EntryName	PRLD1_HUMAN
+ProteinName	PRELI domain-containing protein 1, mitochondrial (25 kDa protein of relevant evolutionary and lymphoid interest) (Px19-like protein)
+GeneName	PRELID1 PRELI CGI-106 SBBI12
+Length	208
+Function	Involved in the modulation of the mitochondrial apoptotic pathway by ensuring the accumulation of cardiolipin (CL) in mitochondrial membranes. In vitro, the TRIAP1:PRELID1 complex mediates the transfer of phosphatidic acid (PA) between liposomes and probably functions as a PA transporter across the mitochondrion intermembrane space to provide PA for CL synthesis in the inner membrane. Regulates the mitochondrial apoptotic pathway in primary Th cells. Regulates Th cell differentiation by down-regulating STAT6 thereby reducing IL-4-induced Th2 cell number. May be important for the development of vital and immunocompetent organs.
+Subcellular Location	Mitochondrion; Mitochondrion intermembrane space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKYFLGQSVLRSSWDQVFAAFWQRYPNPYSKHVLTEDIVHREVTPDQKLLSRRLLTKTNRMPRWAERLFPANVAHSVYVLEDSIVDPQNQTMTTFTWNINHARLMVVEERCVYCVNSDNSGWTEIRREAWVSSSLFGVSRAVQEFGLARFKSNVTKTMKGFEYILAKLQAKEAKEKAKETALAATEKAKDLASKAATKKQQQQQQFV
+PTM	Methylation:58,168;Phosphorylation:118,164,175,181;SUMOylation:49,183;Ubiquitylation:49,58,152,157,168,176,199,201,211

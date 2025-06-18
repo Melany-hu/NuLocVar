@@ -1,0 +1,25 @@
+UniprotID	C9J0B2
+Accession	C9J0B2
+EntryName	C9J0B2_HUMAN
+ProteinName	DCN1-like protein (Defective in cullin neddylation protein 1-like protein)
+GeneName	DCUN1D1
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIFTQSSEKTAVSCLSQNDWKLDVATDNFFQNPELYIRESVKGSLDRKKLEQLYNRYKDPQDENKIGIDGIQQFCDDLALDPASISVLIIAW
+PTM	

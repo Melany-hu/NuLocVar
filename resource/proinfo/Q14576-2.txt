@@ -1,0 +1,25 @@
+UniprotID	Q14576-2
+Accession	Q14576;Q16135;Q96CL8;Q96QS9
+EntryName	ELAV3_HUMAN
+ProteinName	ELAV-like protein 3 (Hu-antigen C) (HuC) (Paraneoplastic cerebellar degeneration-associated antigen) (Paraneoplastic limbic encephalitis antigen 21)
+GeneName	ELAVL3 HUC PLE21
+Length	360
+Function	RNA-binding protein that binds to AU-rich element (ARE) sequences of target mRNAs, including VEGF mRNA (PubMed:10710437). May also bind poly-A tracts via RRM 3 (By similarity). May be involved in neuronal differentiation and maintenance (By similarity). Plays a role in the stabilization of GAP43 mRNA and in spatial learning (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTQILGAMESQVGGGPAGPALPNGPLLGTNGATDDSKTNLIVNYLPQNMTQDEFKSLFGSIGDIESCKLVRDKITGQSLGYGFVNYSDPNDADKAINTLNGLKLQTKTIKVSYARPSSASIRDANLYVSGLPKTMSQKEMEQLFSQYGRIITSRILVDQVTGVSRGVGFIRFDKRIEAEEAIKGLNGQKPLGAAEPITVKFANNPSQKTGQALLTHLYQSSARRYAGPLHHQTQRFRLDNLLNMAYGVKRFSPIAIDGMSGLAGVGLSGGAAGAGWCIFVYNLSPEADESVLWQLFGPFGAVTNVKVIRDFTTNKCKGFGFVTMTNYDEAAMAIASLNGYRLGERVLQVSFKTSKQHKA
+PTM	Methylation:134,184,323;Phosphorylation:45,107,109,114,118,119,154,247,251;Ubiquitylation:69,104,108,139,209

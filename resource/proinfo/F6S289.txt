@@ -1,0 +1,25 @@
+UniprotID	F6S289
+Accession	F6S289
+EntryName	F6S289_HUMAN
+ProteinName	Pentatricopeptide repeat domain 2
+GeneName	PTCD2
+Length	198
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNQDVKFTKDTYVLAFAICYKLNSPESFKICTTLREEALLKGEILSRRASCFAVALALNQNEMAKAVSIFSQIMNPESIACINLNIIIHIQSNMLENLIKTLKNAAEGNLSKFVKRHVFSEEVLAKVREKVKDVPALVAKFDEIYGTLHITGQVTTDSLDAVLCHTPRDRKSHTLLLNKRMVSRRTFQPLSQSLLAE
+PTM	

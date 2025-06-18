@@ -1,0 +1,25 @@
+UniprotID	Q5TCS8-5
+Accession	Q5TCS8;A6NL75;B2RDJ0;B6ZDM7;Q3MIS4;Q5I0W8;Q6ZNF1;Q6ZVR7;Q8N7C6;Q8WW00;Q96NF4
+EntryName	KAD9_HUMAN
+ProteinName	Adenylate kinase 9 (EC 2.7.4.4) (EC 2.7.4.6) (Adenylate kinase domain-containing protein 1) (Adenylate kinase domain-containing protein 2)
+GeneName	AK9 AKD1 AKD2 C6orf199 C6orf224
+Length	336
+Function	Broad-specificity nucleoside phosphate kinase involved in cellular nucleotide homeostasis by catalyzing nucleoside-phosphate interconversions. Similar to other adenylate kinases, preferentially catalyzes the phosphorylation of the nucleoside monophosphate AMP with ATP as phosphate donor to produce ADP. In vitro, can also catalyze the phosphorylation of CMP, dAMP and dCMP and use GTP as an alternate phosphate donor. Moreover, exhibits a diphosphate kinase activity, producing ATP, CTP, GTP, UTP, TTP, dATP, dCTP and dGTP from the corresponding diphosphate substrates with either ATP or GTP as phosphate donors. For this activity shows the following substrate preference CDP > UDP > ADP > TDP.
+Subcellular Location	Cytoplasm; Nucleus; Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKERKRHLGDTKHFCPVVLKENFILQPGNTEEAAKYREKIYYFSSAEAKEKFLEHPEDYVAHEEPLKAPPLRICLVGPQGSGKTMCGRQLAEKLNIFHIQFEEVLQEKLLLKTEKKVGPEFEEDSENEQAAKQELEELAIQANVKVEEENTKKQLPEVQLTEEEEVIKSSLMENEPLPPEILEVILSEWWLKEPIRSTGFILDGFPRYPEEAQFLGDRGFFPDAAVFIQVDDQDIFDRLLPAQIEKWKLKQKKKLERKKLIKDMKAKIRVDTIAKRRAELILERDKKRREVSSFVFFFKTGSHSVAQGRVQWHNHSSLQPRTPGLKGSSHLSLSKC
+PTM	Acetylation:1769;Methylation:29,96,135,140,148,242,290,297,344,373,451,480,532,590,649,696,807,855,872,941,1014,1029,1033,1053,1089,1167,1270,1363,1538,1598,1734,1814,1844;Phosphorylation:520,1307,1389,1441,1606,1609,1610,1634,1740,1750,1754,1811

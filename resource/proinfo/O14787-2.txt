@@ -1,0 +1,25 @@
+UniprotID	O14787-2
+Accession	O14787;O14655;Q6IN77
+EntryName	TNPO2_HUMAN
+ProteinName	Transportin-2 (Karyopherin beta-2b)
+GeneName	TNPO2
+Length	887
+Function	Probably functions in nuclear protein import as nuclear transport receptor. Serves as receptor for nuclear localization signals (NLS) in cargo substrates. Is thought to mediate docking of the importin/substrate complex to the nuclear pore complex (NPC) through binding to nucleoporin and the complex is subsequently translocated through the pore by an energy requiring, Ran-dependent mechanism. At the nucleoplasmic side of the NPC, Ran binds to the importin, the importin/substrate complex dissociates and importin is re-exported from the nucleus to the cytoplasm where GTP hydrolysis releases Ran. The directionality of nuclear import is thought to be conferred by an asymmetric distribution of the GTP- and GDP-bound forms of Ran between the cytoplasm and nucleus (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDWQPDEQGLQQVLQLLKDSQSPNTATQRIVQDKLKQLNQFPDFNNYLIFVLTRLKSEDEPTRSLSGLILKNNVKAHYQSFPPPVADFIKQECLNNIGDASSLIRATIGILITTIASKGELQMWPELLPQLCNLLNSEDYNTCEGAFGALQKICEDSSELLDSDALNRPLNIMIPKFLQFFKHCSPKIRSHAIACVNQFIMDRAQALMDNIDTFIEHLFALAVDDDPEVRKNVCRALVMLLEVRIDRLIPHMHSIIQYMLQRTQDHDENVALEACEFWLTLAEQPICKEVLASHLVQLIPILVNGMKYSEIDIILLKGDVEEDEAVPDSEQDIKPRFHKSRTVTLPHEAERPDGSEDAEDDDDDDALSDWNLRKCSAAALDVLANVFREELLPHLLPLLKGLLFHPEWVVKESGILVLGAIAEGCMQGMVPYLPELIPHLIQCLSDKKALVRSIACWTLSRYAHWVVSQPPDMHLKPLMTELLKRILDGNKRVQEAACSAFATLEEEACTELVPYLSYILDTLVFAFGKYQHKNLLILYDAIGTLADSVGHHLNQPEYIQKLMPPLIQKWNELKDEDKDLFPLLECLSSVATALQSGFLPYCEPVYQRCVTLVQKTLAQAMMYTQHPEQYEAPDKDFMIVALDLLSGLAEGLGGHVEQLVARSNIMTLLFQCMQDSMPEVRQSSFALLGDLTKACFIHVKPCIAEFMPILGTNLNPEFISVCNNATWAIGEICMQMGAEMQPYVQMVLNNLVEIINRPNTPKTLLENTAITIGRLGYVCPQEVAPMLQQFIRPWCTSLRNIRDNEEKDSAFRGICMMIGVNPGGVVQDFIFFCDAVASWVSPKDDLRDMFYKILHGFKDQVGEDNWQQFSEQFPPLLKERLAAFYGV
+PTM	Acetylation:56,71,182,484,817,862;Methylation:18,71,90,152,182,317,334,484,569,574,693;Phosphorylation:22,57,64,66,102,355,368,684,772,773;SUMOylation:334;Ubiquitylation:34,71,75,317,334,374,491

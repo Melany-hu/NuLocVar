@@ -1,0 +1,25 @@
+UniprotID	Q68DD2-3
+Accession	Q68DD2;Q6ZMC8
+EntryName	PA24F_HUMAN
+ProteinName	Cytosolic phospholipase A2 zeta (cPLA2-zeta) (EC 3.1.1.4) (Phospholipase A2 group IVF)
+GeneName	PLA2G4F
+Length	851
+Function	Has calcium-dependent phospholipase and lysophospholipase activities with a potential role in membrane lipid remodeling and biosynthesis of lipid mediators (PubMed:29158256). Preferentially hydrolyzes the ester bond of the fatty acyl group attached at sn-2 position of phospholipids (phospholipase A2 activity) (PubMed:29158256). Selectively hydrolyzes sn-2 arachidonoyl group from membrane phospholipids, providing the precursor for eicosanoid biosynthesis (PubMed:29158256). In myocardial mitochondria, plays a major role in arachidonate release that is metabolically channeled to the formation of cardioprotective eicosanoids, epoxyeicosatrienoates (EETs) (PubMed:29158256).
+Subcellular Location	Cytoplasm; Cytosol; Cell membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLWALWPRWLADKMLPLLGAVLLQKREKRGPLWRHWRRETYPYYDLQVKVLRATNIRGTDLLSKADCYVQLWLPTASPSPAQTRIVANCSDPEWNETFHYQIHGAVKNVLELTLYDKDILGSDQLSLLLFDLRSLKCGQPHKHTFPLNHQDSQELQVEFVLEKSQVPASEVITNGVLVAHPCLRIQGTLRGDGTAPREEYGSRQLQLAVPGAYEKPQLLPLQPPTEPGLPPTFTFHVNPVLSSRLHVELMELLAAVQSGPSAELEAQTSKLGEGGILLSSLPLGQEEQCSVALGEGQEVALSMKVEMSSGDLDLRLGFDLSDGEQEFLDRRKQVVSKALQQVLGLSEALDSGQVQVPVVAVLGSGGGTRAMSSLYGSLAGLQELGLLDTVTYLSGVSGSTWCISTLYRDPAWSQVALQGPIERAQVHVCSSKMGALSTERLQYYTQELGVRERSGHSVSLIDLWGLLVEYLLYQEENPAKLSDQQEAVRQGQNPYPIYTSVNVRTNLSGEDFAEWCEFTPYEVGFPKYGAYVPTELFGSELFMGRLLQLQPEPRICYLQGMWGSAFATSLDEIFLKTAGSGLSFLEWYRGSVNITDDCQKPQLHNPSRLRTRLLTPQGPFSQAVLDIFTSRFTSAQSFNFTRGLCLHKDYVAGREFVAWKDTHPDAFPNQLTPMRDCLYLVDGGFAINSPFPLALLPQRAVDLILSFDYSLEAPFEVLKMTEKYCLDRGIPFPSIEVGPEDMEEARECYLFAKAEDPRSPIVLHFPLVNRTFRTHLAPGVERQTAEEKAFGDFVINRPDTPYGMMNFTYEPQDFYRLVALSRYNVLNNVETLKCALQLALDRHQARERAGA
+PTM	Methylation:25,64,658,717,831;Phosphorylation:243,605;SUMOylation:751

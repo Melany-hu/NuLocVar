@@ -1,0 +1,25 @@
+UniprotID	Q6NUS8-2
+Accession	Q6NUS8;G5E961;Q8IYS9;Q8NAW4;Q96DM6
+EntryName	UD3A1_HUMAN
+ProteinName	UDP-glucuronosyltransferase 3A1 (UDPGT 3A1) (EC 2.4.1.17)
+GeneName	UGT3A1
+Length	252
+Function	UDP-glucuronosyltransferases catalyze phase II biotransformation reactions in which lipophilic substrates are conjugated with glucuronic acid to increase water solubility and enhance excretion. They are of major importance in the conjugation and subsequent elimination of potentially toxic xenobiotics and endogenous compounds (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHQSGKFLIPDIKEEEKSYQVIRWFSPEDHQKRIKKHFDSYIETALDGRKESEALVKLMEIFGTQCSYLLSRKDIMDSLKNENYDLVFVEAFDFCSFLIAEKLVKPFVAILPTTFGSLDFGLPSPLSYVPVFPSLLTDHMDFWGRVKNFLMFFSFSRSQWDMQSTFDNTIKEHFPEGSRPVLSHLLLKAELWFVNSDFAFDFARPLLPNTVYIGGLMEKPIKPVPQNGQPALFTTPSLFSSGVYPEPLRWL
+PTM	Methylation:112,157,226,243,314

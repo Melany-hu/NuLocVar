@@ -1,0 +1,25 @@
+UniprotID	P02741-2
+Accession	P02741;A8K078;D3DVD9;D3DVE0;Q08AK3;Q8WW75
+EntryName	CRP_HUMAN
+ProteinName	C-reactive protein [Cleaved into: C-reactive protein(1-205)]
+GeneName	CRP PTX1
+Length	91
+Function	Displays several functions associated with host defense: it promotes agglutination, bacterial capsular swelling, phagocytosis and complement fixation through its calcium-dependent binding to phosphorylcholine. Can interact with DNA and histones and may scavenge nuclear material released from damaged circulating cells.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKLLCFLVLTSLSHAFGQTDMSRKAFVFPKESDTSYVSLKAPLTKPLKAFTVCLHFYTELSSTRGPNVLNWRALKYEVQGEVFTKPQLWP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YES7
+Accession	H0YES7
+EntryName	H0YES7_HUMAN
+ProteinName	Coiled-coil domain containing 198
+GeneName	CCDC198
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVLEMIRKRQEAQMELKKSLHGEARINKQSPRDHKAKKTLQSTPRNDDHDLLTMLPDEILNRGPDRVSLLLPRLECNGMISAHRKLRLPSSNDSPASASRVAGITGACHHAQLTFVFVVETRFHHVGQAGLELLTS
+PTM	

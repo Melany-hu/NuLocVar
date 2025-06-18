@@ -1,0 +1,25 @@
+UniprotID	B1AHH5
+Accession	B1AHH5
+EntryName	B1AHH5_HUMAN
+ProteinName	Cytohesin 4
+GeneName	CYTH4
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLCHPEPAELSSGETEELQRIKWHRKQLLEDIQKLKDEIADVFAQIDCFESAEESRMAQKEKELCIGRKKFNMDPAKGIQYFIEHKLLTPDVQDIARFLYKGEGLNKTAIGTYLGERDPINLQVLQAFVDCHEFANLNLVQALRVVKTKWESV
+PTM	

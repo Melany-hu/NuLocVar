@@ -1,0 +1,25 @@
+UniprotID	A2RUB6-3
+Accession	A2RUB6;B3KWL8;Q4VC34;Q8N949
+EntryName	CCD66_HUMAN
+ProteinName	Coiled-coil domain-containing protein 66
+GeneName	CCDC66
+Length	914
+Function	Microtubule-binding protein required for ciliogenesis (PubMed:28235840). May function in ciliogenesis by mediating the transport of proteins like BBS4 to the cilium, but also through the organization of the centriolar satellites (PubMed:28235840). Required for the assembly of signaling-competent cilia with proper structure and length (PubMed:36606424). Mediates this function in part by regulating transition zone assembly and basal body recruitment of the IFT-B complex (PubMed:36606424). Cooperates with the ciliopathy proteins CSPP1 and CEP104 during cilium length regulation (PubMed:36606424). Plays two important roles during cell division (PubMed:35849559). First, is required for mitotic progression via regulation of spindle assembly, organization and orientation, levels of spindle microtubules (MTs), kinetochore-fiber integrity, and chromosome alignment (PubMed:35849559). Second, functions during cytokinesis in part by regulating assembly and organization of central spindle and midbody MTs (PubMed:35849559). Plays a role in retina morphogenesis and/or homeostasis (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriolar satellite; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Cilium axoneme; Photoreceptor inner segment; Cell projection; Cilium; Photoreceptor outer segment; Cytoplasm; Cytoskeleton; Spindle; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	425...430
+validnes_region	
+nesbase_region	
+Sequence	MGNKAKIAKCPLRTKTGHILKSTQDTCIGSEKLLQKKPVGSETSQAKGEKNGMTFSSTKDLCKQCIDKDCLHIQKEISPATPNMQKTRNTVNTSLVGKQKPHKKHITAENMKSSLVCLTQDQLQQILMTVNQGNRSLSLTENGKEAKSQYSLYLNSISNQPKDENIMGLFKKTEMVSSVPAENKSVLNEHQETSKQCEQKIAIENEWKPADIFSTLGERECDRSSLEAKKAQWRKELDEQVALKKKEKEVSEKWNDPWKKSESDKIIWEKHQILDQSRETVLLEHPFSAVKQELQRKWIEELNKQIEDDRQRKIEEKIIYSKGEEHDRWAMHFDSLKSYPGSQSQLFSQSTHKQPEYFCVSPDTQELADVSSVCTPTTGSQVEPSEEEHIAKPIKDVVMANSKKTNFLRSMTALLDPAQIEERDRRRQKQLEHQKAITAQVEEKRRKKQLEEEQRKKEEQEEELRLAQEREEMQKQYEEDILKQKQKEEIMTLKTNELFQTMQRAQELAQRLKQEQRIRELAQKGHDTSRLIKNLGVDTIQMEYNASNISNSRHDSDEISGKMNTYMNSTTSKKDTGVQTDDLNIGIFTNAESHCGSLMERDITNCSSPEISAELIGQFSTKKNKQELTQDKGASLEKENNRCNDQCNQFTRIEKQTKHMKKYPKRPDWNINKPPKRYIPASEKYPKQLQKQREEKKVRRQMELLHLVEKNNPGHLSQNRGISPEIFHSSHQETESKLRWHLVKKEEEPLNIHSFSKERSPSSPVPVVKNRTQQTQNTLHLPLKNSSYERENLISGSNQTELSSGISESSHFIPYVRTNEIYYLDPDAPLSGPSTQDPQYQNSQDCGQKRQLFDSDCVRDPLLNPNMVKNRDRQQAILKGLSELRQGLLQKQKELESSLLPLAENQEESFGSSF
+PTM	Methylation:17,70,132,338,517,558,672,730,744,778,803,913,925;Phosphorylation:23,48,50,64,115,147,148,174,184,187,207,211,212,354,355,372,373,382,384,385,472,669,757,788,794,796,797;SUMOylation:482;Ubiquitylation:913

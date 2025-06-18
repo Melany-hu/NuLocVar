@@ -1,0 +1,25 @@
+UniprotID	A6NHC7
+Accession	A6NHC7
+EntryName	A6NHC7_HUMAN
+ProteinName	FPGT-TNNI3K readthrough
+GeneName	FPGT-TNNI3K
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAARDPPEVSLREATQRKLRRFSELRGKLVARGEFWDIVAITAADEKQELAYNQQLSEKLKRKELPLGVQYHVFVDPAGAKIGNGGSTLCALQCLEKLYGDKWNSFTILLIHSDEWKKKVSESYVITIERLEDDLQIKEKELTELRNIFG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A8J8ZI57
+Accession	A0A8J8ZI57
+EntryName	A0A8J8ZI57_HUMAN
+ProteinName	Chromosome 17 open reading frame 58
+GeneName	C17orf58
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRLYLTPDGFFFRVHMLALDSSSCNKPCPEFKPGSRYIVMGHIYHKRRQLPTALLQVLRGRLRPGDGLLRSSSSYVKRFNRKREGQIQGAIHTQCI
+PTM	

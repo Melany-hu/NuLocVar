@@ -1,0 +1,25 @@
+UniprotID	Q9C0J1-2
+Accession	Q9C0J1;Q8N5W4;Q8N934;Q8ND21;Q8WWR5;Q8WY02;Q96QH5
+EntryName	B3GN4_HUMAN
+ProteinName	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 4 (EC 2.4.1.149) (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4) (BGnT-4) (Beta-1,3-Gn-T4) (Beta-1,3-N-acetylglucosaminyltransferase 4) (Beta3Gn-T4)
+GeneName	B3GNT4 UNQ1898/PRO4344
+Length	353
+Function	Beta-1,3-N-acetylglucosaminyltransferase involved in the synthesis of poly-N-acetyllactosamine. Has activity for type 2 oligosaccharides.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCRLCWLVSYSLAVLLLGCLLFLRKAAKPAGDPTAHQPFWAPPTPRHSRCPPNHTVSSASLSLPSRHRLFLTYRHCRNFSILLEPSGCSKDTFLLLAIKSQPGHVERRAAIRSTWGRVGGWARGRQLKLVFLLGVAGSAPPAQLLAYESREFDDILQWDFTEDFFNLTLKELHLQRWVVAACPQAHFMLKGDDDVFVHVPNVLEFLDGWDPAQDLLVGDVIRQALPNRNTKVKYFIPPSMYRATHYPPYAGGGGYVMSRATVRRLQAIMEDAELFPIDDVFVGMCLRRLGLSPMHHAGFKTFGIRRPLDPLDPCLYRGLLLVHRLSPLEMWTMWALVTDEGLKCAAGPIPQR
+PTM	Methylation:125,196;Phosphorylation:17,35,36,37,70

@@ -1,0 +1,25 @@
+UniprotID	E9PQL8
+Accession	E9PQL8
+EntryName	E9PQL8_HUMAN
+ProteinName	Synaptotagmin like 2
+GeneName	SYTL2
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTKKMSKSVPAFLQDECKDLAAADVKKQRSDPYVKAYLLPDKGKMGKKKTLVVKKTLNPVYNEILRYKIEKQILKTQKLNLSIWHRDTFKRNSFLGEVELDLETWDWDNKQNKQLRWYPLKRK
+PTM	

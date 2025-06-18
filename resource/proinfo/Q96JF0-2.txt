@@ -1,0 +1,25 @@
+UniprotID	Q96JF0-2
+Accession	Q96JF0;D3DVK3;Q53QP4;Q86Y44;Q8IUG7;Q96HE4
+EntryName	SIAT2_HUMAN
+ProteinName	Beta-galactoside alpha-2,6-sialyltransferase 2 (Alpha 2,6-ST 2) (EC 2.4.3.1) (CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,6-sialyltransferase 2) (ST6Gal II) (ST6GalII) (hST6Gal II) (Sialyltransferase 2)
+GeneName	ST6GAL2 KIAA1877 SIAT2
+Length	466
+Function	Transfers sialic acid from the donor of substrate CMP-sialic acid to galactose containing acceptor substrates. Has alpha-2,6-sialyltransferase activity toward oligosaccharides that have the Gal-beta-1,4-GlcNAc sequence at the non-reducing end of their carbohydrate groups, but it has weak or no activities toward glycoproteins and glycolipids.
+Subcellular Location	Golgi apparatus; Golgi stack membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPHLKQWRQRMLFGIFAWGLLFLLIFIYFTDSNPAEPVPSSLSFLETRRLLPVQGKQRAIMGAAHEPSPPGGLDARQALPRAHPAGSFHAGPGDLQKWAQSQDGFEHKEFFSSQVGRKSQSAFYPEDDDYFFAAGQPGWHSHTQGTLGFPSPGEPGPREGAFPAAQVQRRRVKKRHRRQRRSHVLEEGDDGDRLYSSMSRAFLYRLWKGNVSSKMLNPRLQKAMKDYLTANKHGVRFRGKREAGLSRAQLLCQLRSRARVRTLDGTEAPFSALGWRRLVPAVPLSQLHPRGLRSCAVVMSAGAILNSSLGEEIDSHDAVLRFNSAPTRGYEKDVGNKTTIRIINSQILTNPSHHFIDSSLYKDVILVAWDPAPYSANLNLWYKKPDYNLFTPYIQHRQRNPNQPFYILHPKFIWQLWDIIQENTKEKIQPNPPSSGFIGSFVKIGHIRACSEPRSRDCTPAWTTE
+PTM	Methylation:98,412,489;Phosphorylation:230,425

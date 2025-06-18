@@ -1,0 +1,25 @@
+UniprotID	Q9UGM5-2
+Accession	Q9UGM5;B2RCW6;E9PG06;Q1RMZ0;Q5J876;Q6DK58;Q6GRB6;Q9Y6Z0
+EntryName	FETUB_HUMAN
+ProteinName	Fetuin-B (16G2) (Fetuin-like protein IRL685) (Gugu)
+GeneName	FETUB
+Length	345
+Function	Protease inhibitor required for egg fertilization. Required to prevent premature zona pellucida hardening before fertilization, probably by inhibiting the protease activity of ASTL, a protease that mediates the cleavage of ZP2 and triggers zona pellucida hardening (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLLLPLALCILVLCCGAMSPPQLALNPSALLSRGCNDSDVLAVAGFALRDINKDRKDGYVLRLNRVNDAQEYRRVYGQCKAIFYMNNPSRVLYLAAYNCTLRPVSKKKIYMTCPDCPSSIPTDSSNHQVLEAATESLAKYNNENTSKQYSLFKVTRASSQWVVGPSYFVEYLIKESPCTKSQASSCSLQSSDSVPVGLCKGSLTRTHWEKFVSVTCDFFESQAPATGSENSAVNQKPTNLPKVEESQQKNTPPTDSPSKAGPRGSVQYLPDLDDKNSQEKGPQEAFPVHLDLTTNPQGETLDISFLFLEPMEEKLVVLPFPKEKARTAECPGPAQNASPLVLPP
+PTM	Glycosylation:37,136;Methylation:54,98,212,280,313;Phosphorylation:127,135,187,188,214,315

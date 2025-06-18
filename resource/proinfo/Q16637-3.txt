@@ -1,0 +1,25 @@
+UniprotID	Q16637-3
+Accession	Q16637;A8K0V4;Q13119;Q549U5;Q96J51
+EntryName	SMN_HUMAN
+ProteinName	Survival motor neuron protein (Component of gems 1) (Gemin-1)
+GeneName	SMN1 SMN SMNT; SMN2 SMNC
+Length	282
+Function	The SMN complex catalyzes the assembly of small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome, and thereby plays an important role in the splicing of cellular pre-mRNAs (PubMed:18984161, PubMed:9845364). Most spliceosomal snRNPs contain a common set of Sm proteins SNRPB, SNRPD1, SNRPD2, SNRPD3, SNRPE, SNRPF and SNRPG that assemble in a heptameric protein ring on the Sm site of the small nuclear RNA to form the core snRNP (Sm core) (PubMed:18984161). In the cytosol, the Sm proteins SNRPD1, SNRPD2, SNRPE, SNRPF and SNRPG are trapped in an inactive 6S pICln-Sm complex by the chaperone CLNS1A that controls the assembly of the core snRNP (PubMed:18984161). To assemble core snRNPs, the SMN complex accepts the trapped 5Sm proteins from CLNS1A forming an intermediate (PubMed:18984161). Within the SMN complex, SMN1 acts as a structural backbone and together with GEMIN2 it gathers the Sm complex subunits (PubMed:17178713, PubMed:21816274, PubMed:22101937). Binding of snRNA inside 5Sm ultimately triggers eviction of the SMN complex, thereby allowing binding of SNRPD3 and SNRPB to complete assembly of the core snRNP (PubMed:31799625). Ensures the correct splicing of U12 intron-containing genes that may be important for normal motor and proprioceptive neurons development (PubMed:23063131). Also required for resolving RNA-DNA hybrids created by RNA polymerase II, that form R-loop in transcription terminal regions, an important step in proper transcription termination (PubMed:26700805). May also play a role in the metabolism of small nucleolar ribonucleoprotein (snoRNPs).
+Subcellular Location	Nucleus; Gem; Nucleus; Cajal body; Cytoplasm; Cytoplasmic granule; Perikaryon; Cell projection; Neuron projection; Cell projection; Axon; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMSSGGSGGGVPEQEDSVLFRRGTGQSDDSDIWDDTALIKAYDKAVASFKHALKNGDICETSGKPKTTPKRKPAKKNKSQKKNTAASLQQWKVGDKCSAIWSEDGCIYPATIASIDFKRETCVVVYTGYGNREEQNLSDLLSPICEVANNIEQNAQENENESQVSTDESENSRSPGNKSDNIKPKSAPWNSFLPPPPPMPGPRLGPGKPGLKFNGPPPPPPPPPPHLLSCWLPPFPSGPPIIPPPPPICPDSLDDADALGSMLISWYMSGYHTGYYMEMLA
+PTM	Acetylation:45,51,55,65,93,97,209;Methylation:23,41,51,55,184,204;Phosphorylation:4,5,8,18,25,28,31,37,49,62,63,68,69,85,166,167,170,175,180,187,192,292;SUMOylation:41,45,51,55,83,184,186,209;Ubiquitylation:41,45,51,55,65,83,93,119,179,184,186,209

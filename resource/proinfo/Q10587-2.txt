@@ -1,0 +1,25 @@
+UniprotID	Q10587-2
+Accession	Q10587;B0QYS8;B2RC22;Q15729;Q7Z3J7;Q8IU94;Q96TG4
+EntryName	TEF_HUMAN
+ProteinName	Thyrotroph embryonic factor
+GeneName	TEF KIAA1655
+Length	273
+Function	Transcription factor that binds to and transactivates the TSHB promoter. Binds to a minimal DNA-binding sequence 5'-TTA-3'.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMPEVLKSLLEHSLPWPEKRTDKEKGKEKLEEDEAAAASTMAVSASLMPPIWDKTIPYDGESFHLEYMDLDEFLLENGIPASPTHLAHNLLLPVAELEGKESASSSTASPPSSSTAIFQPSETVSSTESSLEKERETPSPIDPNCVEVDVNFNPDPADLVLSSVPGGELFNPRKHKFAEEDLKPQPMIKKAKKVFVPDEQKDEKYWTRRKKNNVAAKRSRDARRLKENQITIRAAFLEKENTALRTEVAELRKEVGKCKTIVSKYETKYGPL
+PTM	Acetylation:40,241,242,248;Methylation:8,40,131,164,248;Phosphorylation:32,170,262,273;SUMOylation:60,214

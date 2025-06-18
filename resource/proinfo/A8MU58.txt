@@ -1,0 +1,25 @@
+UniprotID	A8MU58
+Accession	A8MU58
+EntryName	A8MU58_HUMAN
+ProteinName	Aminoacyl tRNA synthetase complex interacting multifunctional protein 2
+GeneName	AIMP2
+Length	242
+Function	
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIQTPDADLDVTNIIQADEPTTLTTNALDLNSVLGKDYGALKDIVINANPASPPLSLLVLHRLLCEHFRVLSTVHTHSSVKSVPENLLKCFGEQNKKQPRQDYQLGFTLIWKNVPKTQMKFSIQTMCPIEGEGNIARFLFSLFGQKHNAVNATLIDSWVDIAIFQLKEGSSKEKAAVFRSMNSALGKSPWLAGNELTVADVVLWSVLQQIGGCSVTVPANVQRWMRSCENLAPFNTALKLLK
+PTM	

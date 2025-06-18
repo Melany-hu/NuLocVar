@@ -1,0 +1,25 @@
+UniprotID	P55055-2
+Accession	P55055;A8K490;B4DNM6;E7EWA6;Q12970;Q5I0Y1
+EntryName	NR1H2_HUMAN
+ProteinName	Oxysterols receptor LXR-beta (Liver X receptor beta) (Nuclear receptor NER) (Nuclear receptor subfamily 1 group H member 2) (Ubiquitously-expressed nuclear receptor)
+GeneName	NR1H2 LXRB NER UNR
+Length	363
+Function	Nuclear receptor that exhibits a ligand-dependent transcriptional activation activity (PubMed:25661920). Binds preferentially to double-stranded oligonucleotide direct repeats having the consensus half-site sequence 5'-AGGTCA-3' and 4-nt spacing (DR-4). Regulates cholesterol uptake through MYLIP-dependent ubiquitination of LDLR, VLDLR and LRP8; DLDLR and LRP8. Interplays functionally with RORA for the regulation of genes involved in liver metabolism (By similarity). Induces LPCAT3-dependent phospholipid remodeling in endoplasmic reticulum (ER) membranes of hepatocytes, driving SREBF1 processing and lipogenesis (By similarity). Via LPCAT3, triggers the incorporation of arachidonate into phosphatidylcholines of ER membranes, increasing membrane dynamics and enabling triacylglycerols transfer to nascent very low-density lipoprotein (VLDL) particles (By similarity). Via LPCAT3 also counteracts lipid-induced ER stress response and inflammation, likely by modulating SRC kinase membrane compartmentalization and limiting the synthesis of lipid inflammatory mediators (By similarity). Plays an anti-inflammatory role during the hepatic acute phase response by acting as a corepressor: inhibits the hepatic acute phase response by preventing dissociation of the N-Cor corepressor complex (PubMed:20159957).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSPTTSSLDTPLPGNGPPQPGAPSSSPTVKEEGPEPWPGGPDPDVPGTDEASSACSTDWGVLSEEQIRKKKIRKQQQESQSQSQSPVGPQGSSSSASGPGASPGGSEAGSQGSGEGEGVQLTAAQELMIQQLVAAQLQCNKRSFSDQPKVTPWPLGADPQSRDARQQRFAHFTELAIISVQEIVDFAKQVPGFLQLGREDQIALLKASTIEIMLLETARRYNHETECITFLKDFTYSKDDFHRAGLQVEFINPIFEFSRAMRRLGLDDAEYALLIAINIFSADRPNVQEPGRVEALQQPYVEALLSYTRIKRPQDQLRFPRMLMKLVSLRTLSSVHSEQVFALRLQDKKLPPLLSEIWDVHE
+PTM	Methylation:126,304;Phosphorylation:426;SUMOylation:31,80,247

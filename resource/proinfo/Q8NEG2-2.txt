@@ -1,0 +1,25 @@
+UniprotID	Q8NEG2-2
+Accession	Q8NEG2;C9JBJ8
+EntryName	CG057_HUMAN
+ProteinName	Uncharacterized protein C7orf57
+GeneName	C7orf57
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDYMVHEEFNPDQANGSYASRRGPFDFDMKTVWQREAEELEKEKKKLRLPAIDSKYLSKAGTPLGPKNPAGSRLSFPPVNGYKDEWLQQQQRADSDKRTPKTSRASVLSQSPRDLEGPQDAARLQDAEASEGPEDTPGPEESVSASTPAELK
+PTM	Methylation:84,165;Phosphorylation:209,238,242,245,250

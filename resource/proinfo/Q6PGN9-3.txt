@@ -1,0 +1,25 @@
+UniprotID	Q6PGN9-3
+Accession	Q6PGN9;Q5T2Z3;Q6ZTI8;Q71MG3;Q9BV77
+EntryName	PSRC1_HUMAN
+ProteinName	Proline/serine-rich coiled-coil protein 1
+GeneName	PSRC1 DDA3 FP3214
+Length	310
+Function	Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate, and for normal rate of chromosomal segregation during anaphase. Plays a role in the regulation of mitotic spindle dynamics. Increases the rate of turnover of microtubules on metaphase spindles, and contributes to the generation of normal tension across sister kinetochores. Recruits KIF2A and ANKRD53 to the mitotic spindle and spindle poles. May participate in p53/TP53-regulated growth suppression.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDLEEDVRFIVDETLDFGGLSPSDSREEEDITVLVTPEKPLRRGLSHRSDPNAVAPAPQGVRLSLGPLSPEKLEEILDEANRLAAQLEQCALQDRESAGEGLGPRRVKPSPRRETFVLKDSPVRDLLPTVNSLTRSTPSPSSLTPRLRSNDRKGSVRALRATSGKRPSNMKRESPTCNLFPASKSPASSPLTRSTPPVRGRAGPSGRAAASEETRAAKLRACQPNATHQPECATWQRCPTSGFSVNSKRASKTKHCRTQSAGKWTQGSCFPATKSSCHGCHSQQSAAPQESGSPRTYQVKRSGQQARLQ
+PTM	Methylation:120,234,272,301;Phosphorylation:22,37,47,50,65,70,98,111,116,122,130,133,135,138,140,143,145,175,177,184,186,189,190,193,195,239,245

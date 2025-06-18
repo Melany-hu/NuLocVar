@@ -1,0 +1,25 @@
+UniprotID	Q6NUI2-3
+Accession	Q6NUI2;Q6P2E4;Q6ZNI3;Q6ZNI5;Q6ZWJ4
+EntryName	GPAT2_HUMAN
+ProteinName	Glycerol-3-phosphate acyltransferase 2, mitochondrial (GPAT-2) (EC 2.3.1.15) (1-acylglycerol-3-phosphate O-acyltransferase GPAT2) (EC 2.3.1.51) (xGPAT1)
+GeneName	GPAT2
+Length	671
+Function	Transfers an acyl-group from acyl-ACP to the sn-1 position of glycerol-3-phosphate producing a lysophosphatidic acid (LPA), an essential step for the triacylglycerol (TAG) and glycerophospholipids. In vitro also transfers an acyl-group from acyl-ACP to the LPA producing a phosphatidic acid (PA). Prefers arachidonoyl-CoA as the acyl donor. Required for primary processing step during piRNA biosynthesis. Molecular mechanisms by which it promotes piRNA biosynthesis are unclear and do not involve its acyltransferase activity.
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATMLEGRCQTQPRSSPSGREASLWSSGFGMKLEAVTPFLGKYRPFVGRCCQTCTPKSWESLFHRSITDLGFCNVILVKEENTRFRGWLVRRLCYFLWSLEQHIPPCQDVPQKIMESTGVQNLLSGRVPGGTGEGQVPDLVKKEVQRILGHIQAPPRPFLVRLFSWALLRFLNCLFLNVQLHKGQMKMVQKAAQAGLPLVLLSTHKTLLDGILLPFMLLSQGLGVLRVAWDSRACSPALRALLRKLGGLFLPPEASLSLDSSEGLLARAVVQAVIEQLLVSGQPLLIFLEEPPGALGPRLSALGQAWVGFVVQAVQVGIVPDALLVPVAVTYDLVPDAPCDIDHASAPLGLWTGALAVLRSLWSRWGCSHRICSRVHLAQPFSLQEYIVSARSCWGGRQTLEQLLQPIVLGQCTAVPDTEKEQEWTPITGPLLALKEEDQLLVRRLSCHVLSASVGSSAVMSTAIMATLLLFKHQKLLGEFSWLTEEILLRGFDVGFSGQLRSLLQHSLSLLRAHVALLRIRQGDLLVVPQPGPGLTHLAQLSAELLPVFLSEAVGACAVRGLLAGRVPPQGPWELQGILLLSQNELYRQILLLMHLLPQDLLLLKPCQSSYCYCQEVLDRLIQCGLLVAEESWATQSSCSSSCRPPPRKKGSSSVRTQSSPSVLSGPSET
+PTM	Methylation:79,142,245,436,473,606;Phosphorylation:662,695,773,775,778;Ubiquitylation:42,142,191,784

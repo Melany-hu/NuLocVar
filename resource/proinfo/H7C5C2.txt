@@ -1,0 +1,25 @@
+UniprotID	H7C5C2
+Accession	H7C5C2
+EntryName	H7C5C2_HUMAN
+ProteinName	Transcription factor Dp-2
+GeneName	TFDP2
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDCSISSDKFEYLFNFDNTFEIHDDIEVLKRMGMSFGLESGKCSLEDLKLAKSLVPKALEGYITDISTGPSWLNQGLLLNSTQSVSNLDLTTGATLPQSRYVFFSGLERQTPEP
+PTM	

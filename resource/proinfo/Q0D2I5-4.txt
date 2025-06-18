@@ -1,0 +1,25 @@
+UniprotID	Q0D2I5-4
+Accession	Q0D2I5;Q24JT6;Q7L5J9;Q7Z5X4;Q9BQ46
+EntryName	IFFO1_HUMAN
+ProteinName	Non-homologous end joining factor IFFO1 (NHEJ factor IFFO1) (Intermediate filament family orphan 1) (Tumor antigen HOM-TES-103)
+GeneName	IFFO1 IFFO
+Length	562
+Function	Nuclear matrix protein involved in the immobilization of broken DNA ends and the suppression of chromosome translocation during DNA double-strand breaks (DSBs) (PubMed:31548606). Interacts with the nuclear lamina component LMNA, resulting in the formation of a nucleoskeleton that relocalizes to the DSB sites in a XRCC4-dependent manner and promotes the immobilization of the broken ends, thereby preventing chromosome translocation (PubMed:31548606). Acts as a scaffold that allows the DNA repair protein XRCC4 and LMNA to assemble into a complex at the DSB sites (PubMed:31548606).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Nucleus inner membrane; Nucleus matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	249...254
+validnes_region	
+nesbase_region	
+Sequence	MNPLFGPNLFLLQQEQQGLAGPLGDSLGGDHFAGGGDLPPAPLSPAGPAAYSPPGPGPAPPAAMALRNDLGSNINVLKTLNLRFRCFLAKVHELERRNRLLEKQLQQALEEGKQGRRGLGRRDQAVQTGFVSPIRPLGLQLGARPAAVCSPSARVLGSPARSPAGPLAPSAASLSSSSTSTSTTYSSSARFMPGTIWSFSHARRLGPGLEPTLVQGPGLSWVHPDGVGVQIDTITPEIRALYNVLAKVKRERDEYKRRWEEEYTVRIQLQDRVNELQEEAQEADACQEELALKVEQLKAELVVFKGLMSNNLSELDTKIQEKAMKVDMDICRRIDITAKLCDVAQQRNCEDMIQMFQKKLVPSMGGRKRERKAAVEEDTSLSESEGPRQPDGDEEESTALSINEEMQRMLNQLREYDFEDDCDSLTWEETEETLLLWEDFSGYAMAAAEAQGEQEDSLEKVIKDTESLFKTREKEYQETIDQIELELATAKNDMNRHLHEYMEMCSMKRGLDVQMETCRRLITQSGDRKSPAFTAVPLSDPPPPPSEAEDSDRDVSSDSSMR
+PTM	Methylation:78,103,113,293,298,322,457;Phosphorylation:72,132,150,158,235,379,464,548,554;Ubiquitylation:322

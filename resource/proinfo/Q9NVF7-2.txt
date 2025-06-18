@@ -1,0 +1,25 @@
+UniprotID	Q9NVF7-2
+Accession	Q9NVF7;E9PEM8;O75070
+EntryName	FBX28_HUMAN
+ProteinName	F-box only protein 28
+GeneName	FBXO28 CENP-30 KIAA0483
+Length	179
+Function	Probably recognizes and binds to some phosphorylated proteins and promotes their ubiquitination and degradation.
+Subcellular Location	Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAAEERMAEEGGGGQGDGGSSLASGSTQRQPPPPAPQHPQPGSQALPAPALAPDQLPQNNTLVALPIVAIENILSFMSYDEISQLRLVCKRMDLVCQRMLNQGFLKVERYHNLCQKQVKAQLPRRESERRNHSLARHADILAAVETRLSLLNMTFMKYVDSNLCCFIPGKFQDRLQP
+PTM	Methylation:92,269;Phosphorylation:235,242,246,247,252,257,330,335,336,338,344,357;SUMOylation:108,269,302;Ubiquitylation:172,214,220,253,263,269,294,302

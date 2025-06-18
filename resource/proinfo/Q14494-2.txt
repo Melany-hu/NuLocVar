@@ -1,0 +1,25 @@
+UniprotID	Q14494-2
+Accession	Q14494;D3DTU3;D3DTU5;Q12877;Q96FN6
+EntryName	NF2L1_HUMAN
+ProteinName	Endoplasmic reticulum membrane sensor NFE2L1 (Locus control region-factor 1) (LCR-F1) (Nuclear factor erythroid 2-related factor 1) (NF-E2-related factor 1) (NFE2-related factor 1) (Nuclear factor, erythroid derived 2, like 1) (Protein NRF1, p120 form) (Transcription factor 11) (TCF-11) [Cleaved into: Transcription factor NRF1 (Protein NRF1, p110 form)]
+GeneName	NFE2L1 HBZ17 NRF1 TCF11
+Length	742
+Function	Endoplasmic reticulum membrane sensor that translocates into the nucleus in response to various stresses to act as a transcription factor (PubMed:20932482, PubMed:24448410). Constitutes a precursor of the transcription factor NRF1 (By similarity). Able to detect various cellular stresses, such as cholesterol excess, oxidative stress or proteasome inhibition (PubMed:20932482). In response to stress, it is released from the endoplasmic reticulum membrane following cleavage by the protease DDI2 and translocates into the nucleus to form the transcription factor NRF1 (By similarity). Acts as a key sensor of cholesterol excess: in excess cholesterol conditions, the endoplasmic reticulum membrane form of the protein directly binds cholesterol via its CRAC motif, preventing cleavage and release of the transcription factor NRF1, thereby allowing expression of genes promoting cholesterol removal, such as CD36 (By similarity). Involved in proteasome homeostasis: in response to proteasome inhibition, it is released from the endoplasmic reticulum membrane, translocates to the nucleus and activates expression of genes encoding proteasome subunits (PubMed:20932482).
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	565...570;640...645;731...736;731...738
+validnes_region	
+nesbase_region	
+Sequence	MLSLKKYLTEGLLQFTILLSLIGVRVDVDTYLTSQLPPLREIILGPSSAYTQTQFHNLRNTLDGYGIHPKSIDLDNYFTARRLLSQVRALDRFQVPTTEVNAWLVHRDPEGSVSGSQPNSGLALESSSGLQDVTGPDNGVRESETEQGFGEDLEDLGAVAPPVSGDLTKEDIDLIDILWRQDIDLGAGREVFDYSHRQKEQDVEKELRDGGEQDTWAGEGAEALARNLLVDGETGESFPAQFPADISSITEAVPSESEPPALQNNLLSPLLTGTESPFDLEQQWQDLMSIMEMQAMEVNTSASEILYSAPPGDPLSTNYSLAPNTPINQNVSLHQASLGGCSQDFLLFSPEVESLPVASSSTLLPLAPSNSTSLNSTFGSTNLTGLFFPPQLNGTANDTAGPELPDPLGGLLDEAMLDEISLMDLAIEEGFNPVQASQLEEEFDSDSGLSLDSSHSPSSLSSSEGSSSSSSSSSSSSSSASSSASSSFSEEGAVGYSSDSETLDLEEAEGAVGYQPEYSKFCRMSYQDPAQLSCLPYLEHVGHNHTYNMAPSALDSADLPPPSALKKGSKEKQADFLDKQMSRDEHRARAMKIPFTNDKIINLPVEEFNELLSKYQLSEAQLSLIRDIRRRGKNKMAAQNCRKRKLDTILNLERDVEDLQRDKARLLREKVEFLRSLRQMKQKVQSLYQEVFGRLRDENGRPYSPSQYALQYAGDGSVLLIPRTMADQQARRQERKPKDRRK
+PTM	Acetylation:602;Methylation:169,596,644;Phosphorylation:79,502;SUMOylation:205,609,629,675;Ubiquitylation:70,205,602,622,629,700,713

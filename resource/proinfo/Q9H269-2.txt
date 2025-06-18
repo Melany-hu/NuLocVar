@@ -1,0 +1,25 @@
+UniprotID	Q9H269-2
+Accession	Q9H269;Q5JUB1;Q8WU31;Q96EE7;Q96N92;Q9H1Q4;Q9H1Q5
+EntryName	VPS16_HUMAN
+ProteinName	Vacuolar protein sorting-associated protein 16 homolog (hVPS16)
+GeneName	VPS16
+Length	695
+Function	Plays a role in vesicle-mediated protein trafficking to lysosomal compartments including the endocytic membrane transport and autophagic pathways. Believed to act as a core component of the putative HOPS and CORVET endosomal tethering complexes which are proposed to be involved in the Rab5-to-Rab7 endosome conversion probably implicating MON1A/B, and via binding SNAREs and SNARE complexes to mediate tethering and docking events during SNARE-mediated membrane fusion. The HOPS complex is proposed to be recruited to Rab7 on the late endosomal membrane and to regulate late endocytic, phagocytic and autophagic traffic towards lysosomes. The CORVET complex is proposed to function as a Rab5 effector to mediate early endosome fusion probably in specific endosome subpopulations (PubMed:11382755, PubMed:23351085, PubMed:24554770, PubMed:25266290, PubMed:25783203). Required for recruitment of VPS33A to the HOPS complex (PubMed:23901104). Required for fusion of endosomes and autophagosomes with lysosomes; the function is dependent on its association with VPS33A but not VPS33B (PubMed:25783203). The function in autophagosome-lysosome fusion implicates STX17 but not UVRAG (PubMed:24554770).
+Subcellular Location	Late endosome membrane; Lysosome membrane; Early endosome; Cytoplasmic vesicle; Clathrin-coated vesicle; Cytoplasmic vesicle; Autophagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDCYTANWNPLGDSAFYRKYELYSMDWDLKEELRDCLVAAAPYGGPIALLRNPWRKEKAASVRPVLDIYSASGMPLASLLWKSGPVVSLGWSAEEELLCVQEDGAVLVYGLHGDFRRHFSMGNEVLQNRVLDARIFHTEFGSGVAILTGAHRFTLSANVGDLKLRRMPEVPGLQSAPSCWTVLCQDRVAHILLAVGPDLYLLDHAACSAVTPPGLAPGVSSFLQMAVSFTYRHLALFTDTGYIWMGTASLKEKLCEFNCNIRAPPKQMVWCSRPRSKERAVVVAWERRLMVVGDAPESIQYKQLTIQVLLDRLVLRRLYPLAIQICEYLRLPEVQGVSRILAHWACYKVQQKDVSDEDVARAINQKLGDTPGVSYSDIAARAYGCGRTELAIKLLEYEPRSGEQVPLLLKMKRSKLALSKAIESGDTDLVFTVLLHLKNELNRGDFFMTLRNQPMALSLYRQFCKHQELETLKDLYNQDDNHQELGSFHIRASYAAEERIEGRVAALQTAADAFYKAKNEFAAKATEDQMRLLRLQRRLEDELGGQFLDLSLHDTVTTLILGGHNKRAEQLARDFRIPDKRLWWLKLTALADLEDWEELEKFSKSKKSPIGYLPFVEICMKQHNKYEAKKYASRVGPEQKVKALLLVGDVAQAADVAIEHRNEAELSLVLSHCTGATDGATADKIQRARAQAQKK
+PTM	Methylation:358,510,537,554,582,609,617,660,668,745;Phosphorylation:69,398,443,602,604;Ubiquitylation:30,58,163,362,496,510,537,554,559,660,662,668,765,784

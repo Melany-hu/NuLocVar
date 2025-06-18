@@ -1,0 +1,25 @@
+UniprotID	Q7Z422-2
+Accession	Q7Z422;A8MXJ2;C9K0U0;Q7Z424;Q8IVM2;Q8TBV3;Q9Y403
+EntryName	SZRD1_HUMAN
+ProteinName	SUZ RNA-binding domain-containing (SUZ domain-containing protein 1) (Putative MAPK-activating protein PM18/PM20/PM22)
+GeneName	SZRD1 C1orf144
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRSLRAGKRRQTAGKSKSPPKVPIVIQDDSLPAGPPPQIRILKRPTSNGVVSSPNSTSRPTLPVKSLAQREAEYAEARKRILGSASPEEEQEKPILDRPTRISQPEDSRQPNNVIRQPLGPDGSQGFKQRR
+PTM	Methylation:32,100,122;Phosphorylation:9,34,37,39,51,67,68,73,74,77,78,79,82,95,105,107,121,124,129

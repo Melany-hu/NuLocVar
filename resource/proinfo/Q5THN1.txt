@@ -1,0 +1,25 @@
+UniprotID	Q5THN1
+Accession	Q5THN1
+EntryName	Q5THN1_HUMAN
+ProteinName	Heme binding protein 2
+GeneName	HEBP2
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEPLQPDPGAAEDAAAQAVETPGWKAPEDAGPQPGSYEIRHYGPAKWVSTSVESMDWDSAIQTGFTKLNSYIQGKNEKEMKIKMTAPVTSYVEPGSGPFSLSMDFLVPKRIKNNF
+PTM	

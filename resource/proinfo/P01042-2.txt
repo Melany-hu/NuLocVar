@@ -1,0 +1,25 @@
+UniprotID	P01042-2
+Accession	P01042;A8K474;B2RCR2;C9JEX1;P01043;Q53EQ0;Q6PAU9;Q7M4P1
+EntryName	KNG1_HUMAN
+ProteinName	Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald factor) (High molecular weight kininogen) (HMWK) (Williams-Fitzgerald-Flaujeac factor) [Cleaved into: Kininogen-1 heavy chain; T-kinin (Ile-Ser-Bradykinin); Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain; Low molecular weight growth-promoting factor]
+GeneName	KNG1 BDK KNG
+Length	427
+Function	Kininogens are inhibitors of thiol proteases. HMW-kininogen plays an important role in blood coagulation by helping to position optimally prekallikrein and factor XI next to factor XII; HMW-kininogen inhibits the thrombin- and plasmin-induced aggregation of thrombocytes. LMW-kininogen inhibits the aggregation of thrombocytes. LMW-kininogen is in contrast to HMW-kininogen not involved in blood clotting.
+Subcellular Location	Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLITILFLCSRLLLSLTQESQSEEIDCNDKDLFKAVDAALKKYNSQNQSNNQFVLYRITEATKTVGSDTFYSFKYEIKEGDCPVQSGKTWQDCEYKDAAKAATGECTATVGKRSSTKFSVATQTCQITPAEGPVVTAQYDCLGCVHPISTQSPDLEPILRHGIQYFNNNTQHSSLFMLNEVKRAQRQVVAGLNFRITYSIVQTNCSKENFLFLTPDCKSLWNGDTGECTDNAYIDIQLRIASFSQNCDIYPGKDFVQPPTKICVGCPRDIPTNSPELEETLTHTITKLNAENNATFYFKIDNVKKARVQVVAGKKYFIDFVARETTCSKESNEELTESCETKKLGQSLDCNAEVYVVPWEKKIYPTVNCQPLGMISLMKRPPGFSPFRSSRIGEIKEETTSHLRSCEYKGRPPKAGAEPASEREVS
+PTM	Acetylation:42,43,113,262,315,316,435;Glycosylation:45,48,51,52,168,169,170,205,274,290,293,294,333;Methylation:42,183,315,380;Phosphorylation:63,175,273,275,326,327,329,332,337,339,342,386,400,401,403,407

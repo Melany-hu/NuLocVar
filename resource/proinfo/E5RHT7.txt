@@ -1,0 +1,25 @@
+UniprotID	E5RHT7
+Accession	E5RHT7
+EntryName	E5RHT7_HUMAN
+ProteinName	MOK protein kinase
+GeneName	MOK
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPMRESPPTRPCSTPTSKNRETVPKARGGPSQETRTGLCHGTAQTKAFGSGQTVVLLQPHAAVRAWIWNKWKSAGAETLEVHPCEQEGSAEPASLTALLFDPAQAATEFCVCNFSLTDRSAEGP
+PTM	

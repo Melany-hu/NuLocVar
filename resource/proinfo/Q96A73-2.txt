@@ -1,0 +1,25 @@
+UniprotID	Q96A73-2
+Accession	Q96A73;B2RD69;B8K1S6;Q6IA24;Q8NDU3;Q9BRE5;Q9H7D5;Q9ULM9
+EntryName	P33MX_HUMAN
+ProteinName	Putative monooxygenase p33MONOX (EC 1.-.-.-) (Brain-derived rescue factor p60MONOX) (Flavin monooxygenase motif-containing protein of 33 kDa)
+GeneName	KIAA1191 P33MONOX
+Length	286
+Function	Potential NADPH-dependent oxidoreductase. May be involved in the regulation of neuronal survival, differentiation and axonal outgrowth.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLPIGIYRRAVSYDDTLEDPAPMTPPPSDMGSVPWKPVIPERKYQHLAKVEEGEASLPSPAMTLSSAIDSVDKVPVVKAKATHVIMNSLITKQTQESIQHFERQAGLRDAGYTPHKGLTTEETKYLRVAEALHKLKLQSGEVTKEERQPASAQSTPSTTPHSSPKQRPRGWFTSGSSTALPGPNPSTMDSGSGDKDRNLSDKWSLFGPRSLQKYDSGSFATQAYRGAQKPSPLELIRAQANRMAEDPAALKPPKMDIPVMEGKKQPPRAHNLKPRDLNVLTPTGF
+PTM	Methylation:98,112,136,164;Phosphorylation:14,21,32,44,132,133,171,174,175,177,178,179,182,183,251

@@ -1,0 +1,25 @@
+UniprotID	C9K0N9
+Accession	C9K0N9
+EntryName	C9K0N9_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 11
+GeneName	GALNT11
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSVTVRYFCYGCLFTSATWTVLLFVYFNFSEVTQPLKNVPVKGSGPHGPSPKKFYPRFTRGPSRVLEPQFKANKIDDVIDSRVEDPEEGHLKFSSELELRDLGYQKHAFNMLISDRLGYHRDVPDTRNAACKEKFYPPDLPAASVVICFY
+PTM	

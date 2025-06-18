@@ -1,0 +1,25 @@
+UniprotID	Q0VGM8
+Accession	Q0VGM8
+EntryName	Q0VGM8_HUMAN
+ProteinName	leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase)
+GeneName	LARS
+Length	150
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAERKGTAKVDFLKKIEKEIQQKWDTERVFEVNASNLEKQTSKGKYFVTFPYPYMNGRLHLGHTFSLSKCEFAVGYQRLKGKCCLFPFGLHCTGMPIKACADKLKREIELYGCPPDFPDEEEEEEETSVKTEDIIIKDKAKGKKKKKKKK
+PTM	

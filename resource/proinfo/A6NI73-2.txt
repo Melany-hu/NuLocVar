@@ -1,0 +1,25 @@
+UniprotID	A6NI73-2
+Accession	A6NI73;A6NHI3
+EntryName	LIRA5_HUMAN
+ProteinName	Leukocyte immunoglobulin-like receptor subfamily A member 5 (CD85 antigen-like family member F) (Immunoglobulin-like transcript 11) (ILT-11) (Leukocyte immunoglobulin-like receptor 9) (LIR-9) (CD antigen CD85f)
+GeneName	LILRA5 ILT11 LILRB7 LIR9
+Length	287
+Function	May play a role in triggering innate immune responses. Does not seem to play a role for any class I MHC antigen recognition.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPWSHPSAQLQPVGGDAVSPALMVLLCLGNLSKATLWAEPGSVISRGNSVTIRCQGTLEAQEYRLVKEGSPEPWDTQNPLEPKNKARFSIPSMTEHHAGRYRCYYYSPAGWSEPSDPLELVVTGFYNKPTLSALPSPVVTSGENVTLQCGSRLRFDRFILTEEGDHKLSWTLDSQLTPSGQFQALFPVGPVTPSHRWMLRCYGSRRHILQVWSEPSDLLEIPVSGAADNLSPSQNKSDSGTASHLQDYAVENLIRMGMAGLILVVLGILIFQDWHSQRSPQAAAGR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P20226-2
+Accession	P20226;B4E3B3;F5H869;Q16845;Q6IBM6;Q9UC02
+EntryName	TBP_HUMAN
+ProteinName	TATA-box-binding protein (TATA sequence-binding protein) (TATA-binding factor) (TATA-box factor) (Transcription initiation factor TFIID TBP subunit)
+GeneName	TBP GTF2D1 TF2D TFIID
+Length	319
+Function	The TFIID basal transcription factor complex plays a major role in the initiation of RNA polymerase II (Pol II)-dependent transcription (PubMed:33795473). TFIID recognizes and binds promoters with or without a TATA box via its subunit TBP, a TATA-box-binding protein, and promotes assembly of the pre-initiation complex (PIC) (PubMed:2194289, PubMed:2363050, PubMed:2374612, PubMed:27193682, PubMed:33795473). The TFIID complex consists of TBP and TBP-associated factors (TAFs), including TAF1, TAF2, TAF3, TAF4, TAF5, TAF6, TAF7, TAF8, TAF9, TAF10, TAF11, TAF12 and TAF13 (PubMed:27007846, PubMed:33795473). The TFIID complex structure can be divided into 3 modules TFIID-A, TFIID-B, and TFIID-C (PubMed:33795473). TBP forms the TFIID-A module together with TAF3 and TAF5 (PubMed:33795473). TBP is a general transcription factor that functions at the core of the TFIID complex (PubMed:2194289, PubMed:2363050, PubMed:2374612, PubMed:27193682, PubMed:33795473, PubMed:9836642). During assembly of the core PIC on the promoter, as part of TFIID, TBP binds to and also bends promoter DNA, irrespective of whether the promoter contains a TATA box (PubMed:33795473). Component of a BRF2-containing transcription factor complex that regulates transcription mediated by RNA polymerase III (PubMed:26638071). Component of the transcription factor SL1/TIF-IB complex, which is involved in the assembly of the PIC during RNA polymerase I-dependent transcription (PubMed:15970593). The rate of PIC formation probably is primarily dependent on the rate of association of SL1 with the rDNA promoter (PubMed:15970593). SL1 is involved in stabilization of nucleolar transcription factor 1/UBTF on rDNA (PubMed:15970593).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPGIPIFSPMMPYGTGLTPQPIQNTNSLSILEEQQRQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQAVAAAAVQQSTSQQATQGTSGQAPQLFHSQTLTTAPLPGTTPLYPSPMTPMTPITPATPASESSGIVPQLQNIVSTVNLGCKLDLKTIALRARNAEYNPKRFAAVIMRIREPRTTALIFSSGKMVCTGAKSEEQSRLAARKYARVVQKLGFPAKFLDFKIQNMVGSCDVKFPIRLEGLVLTHQQFSSYEPELFPGLIYRMIKPRIVLLIFVSGKVVLTGAKVRAEIYEAFENIYPILKGFRKTT
+PTM	Acetylation:181,225;Methylation:181,236,243;Phosphorylation:293,322;SUMOylation:181,218,225,243,249,316;Ubiquitylation:181,195,225,243,249,265,316,333

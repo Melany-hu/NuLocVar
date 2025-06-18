@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y681
+Accession	A0A2R8Y681
+EntryName	A0A2R8Y681_HUMAN
+ProteinName	DNA 3'-5' helicase (EC 5.6.2.4)
+GeneName	ERCC3
+Length	162
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XTKRSWEAERVMEWLKTQEWGLMILDEVHTIPAKMFRRVLTIVQAHCKLGLTATLVREDDKIVDLNFLIGPKLYEANWMELQNNGYIAKVQCAEVWCPMSPEFYREYVAIKTKKRILLYTMNPNKFRACQFLIKFHERRNDKIIVFADNVFALKEYAIRLNK
+PTM	

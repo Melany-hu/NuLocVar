@@ -1,0 +1,25 @@
+UniprotID	Q9H9V9-1
+Accession	Q9H9V9;A0A087WT84;Q5TBZ1;Q5TBZ6;Q9H970
+EntryName	JMJD4_HUMAN
+ProteinName	2-oxoglutarate and iron-dependent oxygenase JMJD4 (EC 1.14.11.-) (JmjC domain-containing protein 4) (Jumonji domain-containing protein 4) (Lysyl-hydroxylase JMJD4)
+GeneName	JMJD4
+Length	463
+Function	Catalyzes the 2-oxoglutarate and iron-dependent C4-lysyl hydroxylation of ETF1 at 'Lys-63' thereby promoting the translational termination efficiency of ETF1.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAGPEPQALAGQKRGALRLLVPRLVLTVSAPAEVRRRVLRPVLSWMDRETRALADSHFRGLGVDVPGVGQAPGRVAFVSEPGAFSYADFVRGFLLPNLPCVFSSAFTQGWGSRRRWVTPAGRPDFDHLLRTYGDVVVPVANCGVQEYNSNPKEHMTLRDYITYWKEYIQAGYSSPRGCLYLKDWHLCRDFPVEDVFTLPVYFSSDWLNEFWDALDVDDYRFVYAGPAGSWSPFHADIFRSFSWSVNVCGRKKWLLFPPGQEEALRDRHGNLPYDVTSPALCDTHLHPRNQLAGPPLEITQEAGEMVFVPSGWHHQVHNLDDTISINHNWVNGFNLANMWRFLQQELCAVQEEVSEWRDSMPDWHHHCQVIMRSCSGINFEEFYHFLKVIAEKRLLVLREAAAEDGAGLGFEQAAFDVGRITEVLASLVAHPDFQRVDTSAFSPQPKELLQQLREAVDAAAAP
+PTM	Methylation:183,393;Phosphorylation:119,277,278;SUMOylation:447;Ubiquitylation:153,166,183,447

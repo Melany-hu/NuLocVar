@@ -1,0 +1,25 @@
+UniprotID	B4DRC1
+Accession	B4DRC1
+EntryName	B4DRC1_HUMAN
+ProteinName	Mitochondrial ribosome associated GTPase 2 (cDNA FLJ57421, highly similar to GTP-binding protein 5)
+GeneName	MTG2
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPARCFSARLRTVFQGVGHWALSTWAGLKPSRLLPQRASPRLLSVGRADLAKHQELPGKKLLSEKKLKRYFVDYRRVLVCGGNGGAGASCFHSEPRKEFGGPDGGDGGNGGHVILRGPRGHAGEGGRQSCGRPVLRGR
+PTM	

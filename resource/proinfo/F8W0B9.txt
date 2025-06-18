@@ -1,0 +1,25 @@
+UniprotID	F8W0B9
+Accession	F8W0B9
+EntryName	F8W0B9_HUMAN
+ProteinName	YY1 associated factor 2
+GeneName	YAF2
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDKKSPTRSTLFEVIVSASRTKEPLKFPISGSSSGCPSGRFSC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q6P187
+Accession	Q6P187
+EntryName	Q6P187_HUMAN
+ProteinName	FAM122C protein
+GeneName	FAM122C
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQEKMKLGFKSLPSSTTADGNILRRVNSAPLINGLGFNSQVLQADMLRIRTNRTTFRNRRSLEFWHFCSSRMSLRHFSIPTPSSSKGSRGNVSSS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	D6RF78
+Accession	D6RF78
+EntryName	D6RF78_HUMAN
+ProteinName	Guanylate cyclase 1 soluble subunit alpha 1
+GeneName	GUCY1A1
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFCTKLKDLKITGECPFSLLAPGQVPNESSEEAAGSSESCKATVPICQDIPEKNIQESLPQRKTSGDHWRCLLCSWGITQRE
+PTM	

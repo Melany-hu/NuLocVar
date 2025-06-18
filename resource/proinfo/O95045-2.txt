@@ -1,0 +1,25 @@
+UniprotID	O95045-2
+Accession	O95045;B3KV87
+EntryName	UPP2_HUMAN
+ProteinName	Uridine phosphorylase 2 (UPase 2) (UrdPase 2) (EC 2.4.2.3)
+GeneName	UPP2
+Length	374
+Function	Catalyzes the reversible phosphorylytic cleavage of uridine to uracil and ribose-1-phosphate which can then be utilized as carbon and energy sources or in the rescue of pyrimidine bases for nucleotide synthesis (PubMed:12849978, PubMed:21855639). Shows broad substrate specificity and can also accept deoxyuridine and other analogous compounds (PubMed:12849978).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAPGCELDPDQEVVRTRPEDVPASPSTSTMIVSVLRPPSHASCTACGTVTFHIVERMASVIPASNRSMRSDRNTYVGKRFVHVKNPYLDLMDEDILYHLDLGTKTHNLPAMFGDVKFVCVGGSPNRMKAFALFMHKELGFEEAEEDIKDICAGTDRYCMYKTGPVLAISHGMGIPSISIMLHELIKLLHHARCCDVTIIRIGTSGGIGIAPGTVVITDIAVDSFFKPRFEQVILDNIVTRSTELDKELSEELFNCSKEIPNFPTLVGHTMCTYDFYEGQGRLDGALCSFSREKKLDYLKRAFKAGVRNIEMESTVFAAMCGLCGLKAAVVCVTLLDRLDCDQINLPHDVLVEYQQRPQLLISNFIRRRLGLCD
+PTM	Methylation:130;Phosphorylation:3,101,104

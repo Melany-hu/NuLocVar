@@ -1,0 +1,25 @@
+UniprotID	Q13976-2
+Accession	Q13976;A5YM56;B3KSF3;E2PU10;P14619;Q5JP05;Q5JSJ6;Q6P5T7
+EntryName	KGP1_HUMAN
+ProteinName	cGMP-dependent protein kinase 1 (cGK 1) (cGK1) (EC 2.7.11.12) (cGMP-dependent protein kinase I) (cGKI)
+GeneName	PRKG1 PRKG1B PRKGR1A PRKGR1B
+Length	686
+Function	Serine/threonine protein kinase that acts as a key mediator of the nitric oxide (NO)/cGMP signaling pathway. GMP binding activates PRKG1, which phosphorylates serines and threonines on many cellular proteins. Numerous protein targets for PRKG1 phosphorylation are implicated in modulating cellular calcium, but the contribution of each of these targets may vary substantially among cell types. Proteins that are phosphorylated by PRKG1 regulate platelet activation and adhesion, smooth muscle contraction, cardiac function, gene expression, feedback of the NO-signaling pathway, and other processes involved in several aspects of the CNS like axon guidance, hippocampal and cerebellar learning, circadian rhythm and nociception. Smooth muscle relaxation is mediated through lowering of intracellular free calcium, by desensitization of contractile proteins to calcium, and by decrease in the contractile state of smooth muscle or in platelet activation. Regulates intracellular calcium levels via several pathways: phosphorylates IRAG1 and inhibits IP3-induced Ca(2+) release from intracellular stores, phosphorylation of KCNMA1 (BKCa) channels decreases intracellular Ca(2+) levels, which leads to increased opening of this channel. PRKG1 phosphorylates the canonical transient receptor potential channel (TRPC) family which inactivates the associated inward calcium current. Another mode of action of NO/cGMP/PKGI signaling involves PKGI-mediated inactivation of the Ras homolog gene family member A (RhoA). Phosphorylation of RHOA by PRKG1 blocks the action of this protein in myriad processes: regulation of RHOA translocation; decreasing contraction; controlling vesicle trafficking, reduction of myosin light chain phosphorylation resulting in vasorelaxation. Activation of PRKG1 by NO signaling also alters gene expression in a number of tissues. In smooth muscle cells, increased cGMP and PRKG1 activity influence expression of smooth muscle-specific contractile proteins, levels of proteins in the NO/cGMP signaling pathway, down-regulation of the matrix proteins osteopontin and thrombospondin-1 to limit smooth muscle cell migration and phenotype. Regulates vasodilator-stimulated phosphoprotein (VASP) functions in platelets and smooth muscle.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTLRDLQYALQEKIEELRQRDALIDELELELDQKDELIQKLQNELDKYRSVIRPATQQAQKQSASTLQGEPRTKRQAISAEPTAFDIQDLSHVTLPFYPKSPQSKDLIKEAILDNDFMKNLELSQIQEIVDCMYPVEYGKDSCIIKEGDVGSLVYVMEDGKVEVTKEGVKLCTMGPGKVFGELAILYNCTRTATVKTLVNVKLWAIDRQCFQTIMMRTGLIKHTEYMEFLKSVPTFQSLPEEILSKLADVLEETHYENGEYIIRQGARGDTFFIISKGTVNVTREDSPSEDPVFLRTLGKGDWFGEKALQGEDVRTANVIAAEAVTCLVIDRDSFKHLIGGLDDVSNKAYEDAEAKAKYEAEAAFFANLKLSDFNIIDTLGVGGFGRVELVQLKSEESKTFAMKILKKRHIVDTRQQEHIRSEKQIMQGAHSDFIVRLYRTFKDSKYLYMLMEACLGGELWTILRDRGSFEDSTTRFYTACVVEAFAYLHSKGIIYRDLKPENLILDHRGYAKLVDFGFAKKIGFGKKTWTFCGTPEYVAPEIILNKGHDISADYWSLGILMYELLTGSPPFSGPDPMKTYNIILRGIDMIEFPKKIAKNAANLIKKLCRDNPSERLGNLKNGVKDIQKHKWFEGFNWEGLRKGTLTPPIIPSVASPTDTSNFDSFPEDNDEPPPDDNSGWDIDF
+PTM	Acetylation:607,611;Methylation:15,24,37,95,156,208,217,232,263,356,380,533,592,607,611,615;Phosphorylation:2,51,52,59,70,73,273,275,515,517,521;Ubiquitylation:15

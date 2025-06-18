@@ -1,0 +1,25 @@
+UniprotID	Q8N7H5-2
+Accession	Q8N7H5;M0QX35;O75239;Q9H166;Q9NUU9
+EntryName	PAF1_HUMAN
+ProteinName	RNA polymerase II-associated factor 1 homolog (hPAF1) (Pancreatic differentiation protein 2)
+GeneName	PAF1 PD2
+Length	485
+Function	Component of the PAF1 complex (PAF1C) which has multiple functions during transcription by RNA polymerase II and is implicated in regulation of development and maintenance of embryonic stem cell pluripotency. PAF1C associates with RNA polymerase II through interaction with POLR2A CTD non-phosphorylated and 'Ser-2'- and 'Ser-5'-phosphorylated forms and is involved in transcriptional elongation, acting both independently and synergistically with TCEA1 and in cooperation with the DSIF complex and HTATSF1. PAF1C is required for transcription of Hox and Wnt target genes. PAF1C is involved in hematopoiesis and stimulates transcriptional activity of KMT2A/MLL1; it promotes leukemogenesis through association with KMT2A/MLL1-rearranged oncoproteins, such as KMT2A/MLL1-MLLT3/AF9 and KMT2A/MLL1-MLLT1/ENL. PAF1C is involved in histone modifications such as ubiquitination of histone H2B and methylation on histone H3 'Lys-4' (H3K4me3). PAF1C recruits the RNF20/40 E3 ubiquitin-protein ligase complex and the E2 enzyme UBE2A or UBE2B to chromatin which mediate monoubiquitination of 'Lys-120' of histone H2B (H2BK120ub1); UB2A/B-mediated H2B ubiquitination is proposed to be coupled to transcription. PAF1C is involved in mRNA 3' end formation probably through association with cleavage and poly(A) factors. In case of infection by influenza A strain H3N2, PAF1C associates with viral NS1 protein, thereby regulating gene transcription. Connects PAF1C with the RNF20/40 E3 ubiquitin-protein ligase complex. Involved in polyadenylation of mRNA precursors. Has oncogenic activity in vivo and in vitro.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	236...241
+validnes_region	
+nesbase_region	
+Sequence	MAPTIQTQAQREDGHRSGVVCRVKYCNSLPDIPFDPKFITYPFDQNRFVQYKATSLEKQHKHDLLTEPDLGVTIDLINPDTYRIDPNVLLDPADEKLLEEEIQAPTSSKRSQQHAKVVPWMRKTEYISTEFNRYGISNEKPEVKIGVSVKQQFTEEEIYKDRDSQITAIEKTFEDAQKSMWINPCAQVIFDSDPAPKDTSGAAALEMMSQAMIRGMMDEEGNQFVAYFLPVEETLKKRKRDQEEEMDYAPDDVYDYKIAREYNWNVKNKASKGYEENYFFIFREGDGVYYNELETRVRLSKRRAKAGVQSGTNALLVVKHRDMNEKELEAQEARKAQLENHEPEEEEEEEMETEEKEAGGSVMLILRTMPTLMMRTEDRPKVAVTMIQTAAAMGVASGAGATAAAPVPSPVAASTRPRRMAVKLQLLIPVKLIVTVTESQGIQGWFRHHYCEQQSTFLVVCLHSAQEDGSEAAASDSSEADSDSD
+PTM	Acetylation:34,119,126,150,160,196,359;Methylation:68,119,170,181,269,352,368;Phosphorylation:38,61,116,117,118,174,191,195,200,386,394,402,403,404,414,429,434,439,440,456,460,466,478,482,484,486;SUMOylation:34,62,68,71,106,119,126,133,150,154,160,170,181,188,196,269,272,290,305,338,352,368;Ubiquitylation:62,68,106,119,133,150,170,181,188,196,269,270,290,300,302,305,338,352

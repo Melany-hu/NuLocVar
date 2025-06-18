@@ -1,0 +1,25 @@
+UniprotID	Q9UBU8-3
+Accession	Q9UBU8;B4DKN6;B7Z6R1;D3DW88;O95899;Q5QTS1;Q6NVX8;Q86YT7;Q9HBP6;Q9NSW5
+EntryName	MO4L1_HUMAN
+ProteinName	Mortality factor 4-like protein 1 (MORF-related gene 15 protein) (MRG15) (Protein MSL3-1) (Transcription factor-like protein MRG15)
+GeneName	MORF4L1 MRG15 FWP006 HSPC008 HSPC061 PP368
+Length	235
+Function	Component of the NuA4 histone acetyltransferase (HAT) complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative senescence, apoptosis, and DNA repair. The NuA4 complex ATPase and helicase activities seem to be, at least in part, contributed by the association of RUVBL1 and RUVBL2 with EP400. NuA4 may also play a direct role in DNA repair when directly recruited to sites of DNA damage. As part of the SIN3B complex represses transcription and counteracts the histone acetyltransferase activity of EP300 through the recognition H3K27ac marks by PHF12 and the activity of the histone deacetylase HDAC2 (PubMed:12391155, PubMed:14966270, PubMed:37137925). SIN3B complex is recruited downstream of the constitutively active genes transcriptional start sites through interaction with histones and mitigates histone acetylation and RNA polymerase II progression within transcribed regions contributing to the regulation of transcription (PubMed:21041482). Required for homologous recombination repair (HRR) and resistance to mitomycin C (MMC). Involved in the localization of PALB2, BRCA2 and RAD51, but not BRCA1, to DNA-damage foci.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	135..146
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGAAPGKKTSGLQQKNVEVKTKKNKQKTPGNGDGGSTSETPQPPRKKRARVDPTVENEETFMNRVEVKVKIPEELKPWLVDDWDLITRQKQLFYLPAKKNVDSILEDYANYKKSRGNTDNKEYAVNEVVAGIKEYFNVMLGTQLLYKFERPQYAEILADHPDAPMSQVYGAPHLLRLFVRIGAMLAYTPLDEKSLALLLNYLHDFLKYLAKNSATLFSASDYEVAPPEYHRKAV
+PTM	Acetylation:29,103,127,135,143;Methylation:29,117,148,196,204,261,335;Phosphorylation:156,164,168,315,316;SUMOylation:111,143,148,198,204,240,249;Ubiquitylation:29,36,103,111,117,127,136,143,148,155,196,198,204,218,226,227,240,249

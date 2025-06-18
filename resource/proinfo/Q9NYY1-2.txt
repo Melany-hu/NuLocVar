@@ -1,0 +1,25 @@
+UniprotID	Q9NYY1-2
+Accession	Q9NYY1;Q17RB3;Q2THG6;Q96QZ6
+EntryName	IL20_HUMAN
+ProteinName	Interleukin-20 (IL-20) (Cytokine Zcyto10)
+GeneName	IL20 ZCYTO10 UNQ852/PRO1801
+Length	151
+Function	Pro-inflammatory and angiogenic cytokine mainly secreted by monocytes and skin keratinocytes that plays crucial roles in immune responses, regulation of inflammatory responses, hemopoiesis, as well as epidermal cell and keratinocyte differentiation (PubMed:17277128, PubMed:34403503). Enhances tissue remodeling and wound-healing activities and restores the homeostasis of epithelial layers during infection and inflammatory responses to maintain tissue integrity (PubMed:17277128). Affects multiple actin-mediated functions in activated neutrophils leading to inhibition of phagocytosis, granule exocytosis, and migration (PubMed:28424238). Exert its effects via the type I IL-20 receptor complex consisting of IL20RA and IL20RB (PubMed:11706020). Alternatively, can mediate its activity through a second receptor complex called type II IL-20 receptor complex composed of IL22RA1 and IL20RB (PubMed:11564763). Acts as an arteriogenic and vascular remodeling factory by activating a range of signaling processes including phosphorylations of JAK2 and STAT5 as well as activation of the serine and threonine kinases AKT and ERK1/2 (By similarity). Alternatively, can activate STAT3 phosphorylation and transcriptional activity in a JAK2, ERK1/2 and p38 MAPK-dependent manner in keratinocytes (PubMed:23614738).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	140...145
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKASSLAFSLLSAAFYLLWTPSTGLKTLNLGSCVIATNLQEIRNGFSEIRGSVQAKDGNIDIRILRRTESLQDTKPANRCCLLRHLLRLYLDRVFKNYQTPDHYTLRKISSLANSFLTIKKDLRLCLEPQAAVVKALGELDILLQWMEETE
+PTM	Methylation:108,120

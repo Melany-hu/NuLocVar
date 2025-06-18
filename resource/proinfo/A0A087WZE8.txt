@@ -1,0 +1,25 @@
+UniprotID	A0A087WZE8
+Accession	A0A087WZE8
+EntryName	A0A087WZE8_HUMAN
+ProteinName	Family with sequence similarity 156 member B
+GeneName	FAM156B
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPLQKRNPASPSKSSPMTAAETSQEGPAPSQPSYSEQPMMGLSNLSPGPGPSQAVPLPEGLLRQRYREEKTLEERRWERLEFLQRKKAFLRHVRRRHRDHMAPYAVGREARISPLGDRSQNRFRCECR
+PTM	

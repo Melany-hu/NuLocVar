@@ -1,0 +1,25 @@
+UniprotID	Q53TS8-3
+Accession	Q53TS8;C9IZH7;E9PGG4;Q8NCN6;Q96LN4
+EntryName	CTSRT_HUMAN
+ProteinName	Cation channel sperm-associated targeting subunit tau (CatSper-tau) (Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 11 protein) (C2 calcium-dependent domain-containing protein 6)
+GeneName	C2CD6 ALS2CR11 CATSPERT
+Length	550
+Function	Auxiliary component of the CatSper complex, a complex involved in sperm cell hyperactivation. Sperm cell hyperactivation is needed for sperm motility which is essential late in the preparation of sperm for fertilization. Required for CatSper complex targeting and trafficking into the quadrilinear nanodomains. Targets the preassembled CatSper complexes to elongating flagella, where it links the channel-carrying vesicles and motor proteins.
+Subcellular Location	Cell projection; Cilium; Flagellum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPPQETNRPFSTLDNRSGQVQVLSATPLLQRNPYSSPDIMHIKGSEASSVPYALNQGTTALPKNKNQEGTGHRLLNMLRKTLKESDSEELEITQETPNLVPFGDVVGCLGIHIKNCRHFMPKISLQHYANLFIRISINKAVKCTKMCSLLSKNDEKNTVIKFDEVKYFSVQVPRRYDDKRNNILLELIQYDNREKRAFLLGSVQIHLYEVIQKGCFIEEVQVLHGNIFVCRLEVEFMFSYGNFGYGFSHQLKPLQKITEPSMFMNLAPPPERTDPVTKVITPQTVEYPAFLSPDLNVTVGTPAVQSSNQPSVVRLEKLQQQPRERLEKMKKEYRNLNTWIDKANYLESILMPKLEHKDSEETNIDEASENTKSNHPEEELENIVGVDIPLVNEEAETTANELLDNDSEKGLTIPTLNQSDQDNSTADASKNDESTPSPTEVHSLCTISNQETIKAGRIPPLGERQSESMPDRKMKNVFFPLEVKLKDNYPSILKADSSLSEVNLRSICINPKSRNLDSSPTEISWQNNNLNLAERENTGLVSTRLKIKR
+PTM	Methylation:153,167,455,485,495,557,567,580,605;Phosphorylation:149,490,492,506,512

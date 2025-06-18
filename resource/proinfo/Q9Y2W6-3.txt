@@ -1,0 +1,25 @@
+UniprotID	Q9Y2W6-3
+Accession	Q9Y2W6;D3DV24;Q5SZR3;Q5SZR5;Q8N582;Q9NYV5
+EntryName	TDRKH_HUMAN
+ProteinName	Tudor and KH domain-containing protein (Tudor domain-containing protein 2)
+GeneName	TDRKH TDRD2
+Length	516
+Function	Participates in the primary piRNA biogenesis pathway and is required during spermatogenesis to repress transposable elements and prevent their mobilization, which is essential for the germline integrity. The piRNA metabolic process mediates the repression of transposable elements during meiosis by forming complexes composed of piRNAs and Piwi proteins and govern the methylation and subsequent repression of transposons. Required for the final steps of primary piRNA biogenesis by participating in the processing of 31-37 nt intermediates into mature piRNAs. May act in pi-bodies and piP-bodies by transferring piRNA precursors or intermediates to or between these granules.
+Subcellular Location	Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTERTSWTSLSTIQKIALGLGIPASATVAYILYRRYRESREERLTFVGEDDIEIEMRVPQEAVKLIIGRQGANIKQLRKQTGARIDVDTEDVGDERVLLISGFPVQASGAKITCDKESEGTLLLSRLIKISGTQKEVAAAKHLILEKVSEDEELRKRIAHSAETRVPRKQPISVRREDMTEPGGAGEPALWKNTSSSMEPTAPLVTPPPKGGGDMAVVVSKEGSWEKPSDDSFQKSEAQAIPEMPMFEIPSPDFSFHADEYLEVYVSASEHPNHFWIQIVGSRSLQLDKLVNEMTQHYENSVPEDLTVHVGDIVAAPLPTNGSWYRARVLGTLENGNLDLYFVDFGDNGDCPLKDLRALRSDFLSLPFQAIECSLARIAPSGDQWEEEALDEFDRLTHCADWKPLVAKISSYVQTGISTWPKIYLYDTSNGKKLDIGLELVHKGYAIELPEDIEENRAVPDMLKDMATETDASLSTLLTETKKSSGEITHTLSCLSLSEAASMSGDDNLEDDYLL
+PTM	Acetylation:478;Methylation:16,76,142,193,201;Phosphorylation:149,171,177,179,219,240,252,266,270,278;Ubiquitylation:76,110,112,152,175,181,187,478,528

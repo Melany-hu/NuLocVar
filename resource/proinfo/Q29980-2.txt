@@ -1,0 +1,25 @@
+UniprotID	Q29980-2
+Accession	Q29980;A2AC57;A6NP85;B0UZ10;B2RAK2;O14499;O14500;O19798;O19799;O19800;O19801;O19802;O19803;O78099;O78100;O78101;O78102;O78103;O78104;P79525;P79541;Q5GR31;Q5GR37;Q5GR41;Q5GR42;Q5GR43;Q5GR44;Q5GR46;Q5GR48;Q5RIY6;Q5SSK1;Q5ST25;Q7JK51;Q7YQ89;Q861E6;Q9MY18;Q9MY19;Q9MY20;Q9UBH4;Q9UBZ8;Q9UEJ0;X6R344
+EntryName	MICB_HUMAN
+ProteinName	MHC class I polypeptide-related sequence B (MIC-B)
+GeneName	MICB PERB11.2
+Length	340
+Function	Widely expressed membrane-bound protein which acts as a ligand to stimulate an activating receptor KLRK1/NKG2D, expressed on the surface of essentially all human natural killer (NK), gammadelta T and CD8+ alphabeta T-cells (PubMed:11491531, PubMed:11777960). Up-regulated in stressed conditions, such as viral and bacterial infections or DNA damage response, serves as signal of cellular stress, and engagement of KLRK1/NKG2D by MICA triggers NK-cells resulting in a range of immune effector functions, such as cytotoxicity and cytokine production.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLGRVLLFLAVAFPFAPPAAAAEPHSLRYNLMVLSQDGSVQSGFLAEGHLDGQPFLRYDRQKRRAKPQGQWAENVLGAKTWDTETEDLTENGQDLRRTLTHIKDQKGVPQSSRAQTLAMNVTNFWKEDAMKTKTHYRAMQADCLQKLQRYLKSGVAIRRTVPPMVNVTCSEVSEGNITVTCRASSFYPRNITLTWRQDGVSLSHNTQQWGDVLPDGNGTYQTWVATRIRQGEEQRFTCYMEHSGNHGTHPVPSGKALVLQSQRTDFPYVSAAMPCFVIIIILCVPCCKKKTSAAEGPELVSLQVLDQHPVGTGDHRDAAQLGFQPLMSATGSTGSTEGT
+PTM	Glycosylation:164,234,261;Phosphorylation:345,372,374;SUMOylation:107,196;Ubiquitylation:104,190,196

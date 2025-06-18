@@ -1,0 +1,25 @@
+UniprotID	Q569H4-2
+Accession	Q569H4;D3DSZ0;Q8IXY1;Q9NYI5
+EntryName	LARGN_HUMAN
+ProteinName	Protein Largen (Mesenchymal stem cell protein DSC54) (Proline-rich protein 16)
+GeneName	PRR16
+Length	234
+Function	Regulator of cell size that promotes cell size increase independently of mTOR and Hippo signaling pathways. Acts by stimulating the translation of specific mRNAs, including those encoding proteins affecting mitochondrial functions. Increases mitochondrial mass and respiration.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDSSKTDTLNSSSSGTTASSLEKIKVQANAPLIKPPAHPSAILTVLRKPNPPPPPPRLTPVKCEDPKRVVPTANPVKTNGTLLRNGGLPGGPNKIPNGDICCIPNSNLDKAPVQLLMHRPEKDRCPQAGPRERVRFNEKVQYHGYCPDCDTRYNIKNREVHLHSEPVHPPGKIPHQGPPLPPTPHLPPFPLENGGMGISHSNSFPPIRPATVPPPTAPKPQKTILRKSTTTTV
+PTM	Methylation:31,94,119,181;Phosphorylation:115

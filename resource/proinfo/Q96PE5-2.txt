@@ -1,0 +1,25 @@
+UniprotID	Q96PE5-2
+Accession	Q96PE5;A8MX69;A8MYG4;B4DK96;B4DKH0;Q5W102
+EntryName	OPALI_HUMAN
+ProteinName	Opalin (Oligodendrocytic myelin paranodal and inner loop protein) (Transmembrane protein 10)
+GeneName	OPALIN HTMP10 TMEM10
+Length	131
+Function	Central nervous system-specific myelin protein that increase myelin genes expression during oligodendrocyte differentiation. Promotes oligodendrocyte terminal differentiation.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRMTSSPVTGGKETDCGPSLGLAAGIPLLVATALLVALLFTLIHRRRSSIEAMEESDRPCEISEIDDNPKISENPRRSPTHEKNTMGAQEAHIYVKTVAGSEEPVHDRYRPTIEMERRRGLWWLVPRLSLE
+PTM	Phosphorylation:8

@@ -1,0 +1,25 @@
+UniprotID	A0A087WVX3
+Accession	A0A087WVX3
+EntryName	A0A087WVX3_HUMAN
+ProteinName	ADP ribosylation factor like GTPase 17A (ADP ribosylation factor like GTPase 17B)
+GeneName	ARL17A ARL17B
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNIFEKLFKSLLGKKKMRILILSLDTAGKTTILYKLKLGETVPAVPTVGFCVETVEYKNNTFAVWDVGSHFKIRPLWQHFFQNTKGSCSIDQAGVQWRDLGSLQRPLPKLRFVSHTSPHTKLLHTRPRTASRKCFFRGKI
+PTM	

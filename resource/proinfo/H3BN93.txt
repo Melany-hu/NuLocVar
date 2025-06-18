@@ -1,0 +1,25 @@
+UniprotID	H3BN93
+Accession	H3BN93
+EntryName	H3BN93_HUMAN
+ProteinName	Secretory carrier-associated membrane protein (Secretory carrier membrane protein)
+GeneName	SCAMP2
+Length	236
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAFDTNPFADPVDVNPFQDPSVTQLTNAPQGGLAEFNPFSETNAATTVPVTQLPGSSQPAVLQPSVEPTQPTPQAVVSAAQAGLLRQQEELDRKAAELERKERELQNTVANLHVRQNNWPPLPSWCPVKPCFYQDFSTEIPADYQRICKMLYYLWMLHSVTLFLNLLACLAWFSGNSSKGVDFGLSILWFLIFTPCAFLCWYRPIYKAFRDLHHPVGWHPWPGGQRLDCSPVYTG
+PTM	

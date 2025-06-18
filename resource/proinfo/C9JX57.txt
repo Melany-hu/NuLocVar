@@ -1,0 +1,25 @@
+UniprotID	C9JX57
+Accession	C9JX57
+EntryName	C9JX57_HUMAN
+ProteinName	Cilia and flagella associated protein 298
+GeneName	CFAP298
+Length	183
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLLHVKRGDESQFLLQAPGSTELEELTVQVARVYNGRLKVQRLCSGLTDDQIEELKLKDEWGEKCVPSGGAVFKKDDIGRRNGQAPNEKMKQVLKKTIEEAKAIISKKQVEAGVCVTMEMVKDALDQLRGAVMIVYPMGLPPYDPIRMEFENKEDLSGTQAGLNVIKEAEAQLWWAAKELRR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P51911-2
+Accession	P51911;B2R868;B4DUX6;O00638;Q15416;Q8IY93;Q99438
+EntryName	CNN1_HUMAN
+ProteinName	Calponin-1 (Basic calponin) (Calponin H1, smooth muscle)
+GeneName	CNN1
+Length	277
+Function	Thin filament-associated protein that is implicated in the regulation and modulation of smooth muscle contraction. It is capable of binding to actin, calmodulin and tropomyosin. The interaction of calponin with actin inhibits the actomyosin Mg-ATPase activity (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAQKYDHQREQELREWIEGVTGRRIGNNFMDGLKDGIILCEFINKLQPGSVKKINESTQNWHQLENIGNFIKAITKYGVKPHDIFEANDLFENTNHTQVQSTLLALASMAKTKGNKVNVGVKYAEKQERKFEPGKLREGRNIIGLQMGTNKFASQQGMTAYGTRRHLYDPKLGTDQPLDQATISLQMGTNKGASQAGMTAPGTKRQIFEPGLGMEHCDTLNVSLQMGSNKGASQRGMTVYGLPRQVYDPKYCLTPEYPELGEPAHNHHAHNYYNSA
+PTM	Acetylation:25,137;Methylation:66,93,147,271;Phosphorylation:2,3,175,254,259,261,296;Ubiquitylation:19,21,212,225

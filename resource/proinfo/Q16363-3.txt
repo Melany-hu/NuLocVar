@@ -1,0 +1,25 @@
+UniprotID	Q16363-3
+Accession	Q16363;A0A0A0MQS9;Q14731;Q14735;Q15335;Q4LE44;Q5SZG8;Q9BTB8;Q9UE18;Q9UJN9
+EntryName	LAMA4_HUMAN
+ProteinName	Laminin subunit alpha-4 (Laminin-14 subunit alpha) (Laminin-8 subunit alpha) (Laminin-9 subunit alpha)
+GeneName	LAMA4
+Length	120
+Function	Binding to cells via a high affinity receptor, laminin is thought to mediate the attachment, migration and organization of cells into tissues during embryonic development by interacting with other extracellular matrix components.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix; Basement membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSSAWRSVLPLWLLWSAACSRAASGDDNAFPFDIEGSSAVGRQDPPETSEPRVALGRLPPAAEVQCPCHCHPAGAPAPPRAVPHSSFSLSPPLSSPQCLESFTWARSVRKLEIKSFPL
+PTM	Glycosylation:104,215,315,531,557,578,581,742,787,810;Methylation:295,322,359,401,414,419,556,575,682,709,717,900,1127,1135,1209,1708,1761,1807;Phosphorylation:5,432,438,542,760,894,951,954,1050,1231,1234,1420,1578,1582,1780,1804

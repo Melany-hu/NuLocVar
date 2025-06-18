@@ -1,0 +1,25 @@
+UniprotID	C9J654
+Accession	C9J654
+EntryName	C9J654_HUMAN
+ProteinName	EF-hand calcium binding domain 10
+GeneName	EFCAB10
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METSSRELQAAEYLEKHQIKEVVSYLTSALLFFRPALKTLGLCTEDEDLQDDGHKITLDKFKEEVNKRMKEIWSAF
+PTM	

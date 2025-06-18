@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KSR9
+Accession	A0A8I5KSR9
+EntryName	A0A8I5KSR9_HUMAN
+ProteinName	Retinoic acid receptor beta
+GeneName	RARB
+Length	150
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIETQSTSSEELVPSPPSPLPPPRVYKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMIYTCHRDKNCVINKVTRNRCQYCRLQKCFEVGMSKESVRNDRNKKKKETSKQECTESYEMTAELDDLTEKIRKAHQETFPSLCQLEFQC
+PTM	

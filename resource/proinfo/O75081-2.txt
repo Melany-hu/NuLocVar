@@ -1,0 +1,25 @@
+UniprotID	O75081-2
+Accession	O75081;D3DX78;O60615;O60616;O60617;O75082;O75107;O75108;Q0P5Z6;Q6P5W6
+EntryName	MTG16_HUMAN
+ProteinName	Protein CBFA2T3 (MTG8-related protein 2) (Myeloid translocation gene on chromosome 16 protein) (hMTG16) (Zinc finger MYND domain-containing protein 4)
+GeneName	CBFA2T3 MTG16 MTGR2 ZMYND4
+Length	567
+Function	Transcriptional corepressor which facilitates transcriptional repression via its association with DNA-binding transcription factors and recruitment of other corepressors and histone-modifying enzymes (PubMed:12559562, PubMed:15203199). Can repress the expression of MMP7 in a ZBTB33-dependent manner (PubMed:23251453). Reduces the protein levels and stability of the transcriptinal regulator HIF1A; interacts with EGLN1 and promotes the HIF1A prolyl hydroxylation-dependent ubiquitination and proteasomal degradation pathway (PubMed:25974097). Contributes to inhibition of glycolysis and stimulation of mitochondrial respiration by down-regulating the expression of glycolytic genes including PFKFB3, PFKFB4, PDK1, PFKP, LDHA and HK1 which are direct targets of HIF1A (PubMed:23840896, PubMed:25974097). Regulates the proliferation and the differentiation of erythroid progenitors by repressing the expression of TAL1 target genes (By similarity). Plays a role in granulocyte differentiation (PubMed:15231665).
+Subcellular Location	Nucleus; Nucleolus; Nucleus; Nucleoplasm; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDSPAEVKTQPRSTPPSMPPPPPAASQGATRPPSFTPHTLMNGSSHSPTAINGAPCTPNGFSNGPATSSTASLSTQHLPPACGARQLSKLKRFLTTLQQFGSDISPEIGERVRTLVLGLVNSTLTIEEFHSKLQEATNFPLRPFVIPFLKANLPLLQRELLHCARLAKQTPAQYLAQHEQLLLDASASSPIDSSELLLEVNENGKRRTPDRTKENGSDRDPLHPEHLSKRPCTLNPAQRYSPSNGPPQPTPPPHYRLEDIAMAHHFRDAYRHPDPRELRERHRPLVVPGSRQEEVIDHKLTEREWAEEWKHLNNLLNCIMDMVEKTRRSLTVLRRCQEADREELNHWARRYSDAEDTKKGPAPAAARPRSSSAGPEGPQLDVPREFLPRTLTGYVPEDIWRKAEEAVNEVKRQAMSELQKAVSDAERKAHELITTERAKMERALAEAKRQASEDALTVINQQEDSSESCWNCGRKASETCSGCNAARYCGSFCQHRDWEKHHHVCGQSLQGPTAVVADPVPGPPEAAHSLGPSLPVGAASPSEAGSAGPSRPGSPSPPGPLDTVPR
+PTM	Acetylation:489;Methylation:397,498,507;Phosphorylation:65,327,328,330,418,457,458,459,510,521,522,578,650

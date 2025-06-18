@@ -1,0 +1,25 @@
+UniprotID	Q06643-2
+Accession	Q06643;P78370;Q52LU8;Q99761
+EntryName	TNFC_HUMAN
+ProteinName	Lymphotoxin-beta (LT-beta) (Tumor necrosis factor C) (TNF-C) (Tumor necrosis factor ligand superfamily member 3)
+GeneName	LTB TNFC TNFSF3
+Length	77
+Function	Cytokine that binds to LTBR/TNFRSF3 (PubMed:24248355). May play a specific role in immune response regulation. Provides the membrane anchor for the attachment of the heterotrimeric complex to the cell surface. Isoform 2 is probably non-functional.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGALGLEGRGGRLQGRGSLLLAVAGATSLVTLLLAVPITVLAVLALVPQDQGGLGFRSCQRRSQKQISAPGSQLPTS
+PTM	Phosphorylation:158

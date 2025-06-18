@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GW52
+Accession	A0A1B0GW52
+EntryName	A0A1B0GW52_HUMAN
+ProteinName	Cholinergic receptor nicotinic alpha 7 subunit
+GeneName	CHRNA7
+Length	210
+Function	
+Subcellular Location	Postsynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWTDHYLQWNVSEYPGVKTVRFPDGQIWKPDILLYNSADERFDATFHTNVLVNSSGHCQYLPPGIFKSSCYIDVRWFPFDVQHCKLKFGSWSYGGWSLDLQMQEADISGYIPNGEWDLVGIPGKRSERFYECCKEPYPDVTFTVTMRRRTLYYGLNLLIPCVLISALALLVFLLPADSGEKISLGITVLLSLTVFMLLVAEIMPATSDS
+PTM	

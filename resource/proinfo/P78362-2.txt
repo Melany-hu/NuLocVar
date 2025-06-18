@@ -1,0 +1,25 @@
+UniprotID	P78362-2
+Accession	P78362;A8MVX2;O75220;O75221;Q6NUL0;Q6V1X2;Q8IYQ3
+EntryName	SRPK2_HUMAN
+ProteinName	SRSF protein kinase 2 (EC 2.7.11.1) (SFRS protein kinase 2) (Serine/arginine-rich protein-specific kinase 2) (SR-protein-specific kinase 2) [Cleaved into: SRSF protein kinase 2 N-terminal; SRSF protein kinase 2 C-terminal]
+GeneName	SRPK2
+Length	699
+Function	Serine/arginine-rich protein-specific kinase which specifically phosphorylates its substrates at serine residues located in regions rich in arginine/serine dipeptides, known as RS domains and is involved in the phosphorylation of SR splicing factors and the regulation of splicing (PubMed:18559500, PubMed:21056976, PubMed:9472028). Promotes neuronal apoptosis by up-regulating cyclin-D1 (CCND1) expression (PubMed:19592491). This is done by the phosphorylation of SRSF2, leading to the suppression of p53/TP53 phosphorylation thereby relieving the repressive effect of p53/TP53 on cyclin-D1 (CCND1) expression (PubMed:21205200). Phosphorylates ACIN1, and redistributes it from the nuclear speckles to the nucleoplasm, resulting in cyclin A1 but not cyclin A2 up-regulation (PubMed:18559500). Plays an essential role in spliceosomal B complex formation via the phosphorylation of DDX23/PRP28 (PubMed:18425142). Probably by phosphorylating DDX23, leads to the suppression of incorrect R-loops formed during transcription; R-loops are composed of a DNA:RNA hybrid and the associated non-template single-stranded DNA (PubMed:28076779). Can mediate hepatitis B virus (HBV) core protein phosphorylation (PubMed:12134018). Plays a negative role in the regulation of HBV replication through a mechanism not involving the phosphorylation of the core protein but by reducing the packaging efficiency of the pregenomic RNA (pgRNA) without affecting the formation of the viral core particles (PubMed:16122776).
+Subcellular Location	Cytoplasm; Nucleus; Nucleoplasm; Nucleus speckle; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSRKVLAIQARKRRPKREKHPKKPEPQQKAPLVPPPPPPPPPPPPPLPDPTPPEPEEEILGSDDEEQEDPADYCKGGYHPVKIGDLFNGRYHVIRKLGWGHFSTVWLCWDMQGKRFVAMKVVKSAQHYTETALDEIKLLKCVRESDPSDPNKDMVVQLIDDFKISGMNGIHVCMVFEVLGHHLLKWIIKSNYQGLPVRCVKSIIRQVLQGLDYLHSKCKIIHTDIKPENILMCVDDAYVRRMAAEATEWQKAGAPPPSGSAVSTAPQQKPIGKISKNKKKKLKKKQKRQAELLEKRLQEIEELEREAERKIIEENITSAAPSNDQDGEYCPEVKLKTTGLEEAAEAETAKDNGEAEDQEEKEDAEKENIEKDEDDVDQELANIDPTWIESPKTNGHIENGPFSLEQQLDDEDDDEEDCPNPEEYNLDEPNAESDYTYSSSYEQFNGELPNGRHKIPESQFPEFSTSLFSGSLEPVACGSVLSEGSPLTEQEESSPSHDRSRTVSASSTGDLPKAKTRAADLLVNPLDPRNADKIRVKIADLGNACWVHKHFTEDIQTRQYRSIEVLIGAGYSTPADIWSTACMAFELATGDYLFEPHSGEDYSRDEDHIAHIIELLGSIPRHFALSGKYSREFFNRRGELRHITKLKPWSLFDVLVEKYGWPHEDAAQFTDFLIPMLEMVPEKRASAGECLRHPWLNS
+PTM	Acetylation:127,324,539;Methylation:86,127,142,153,179,216,285,361,503,648;Phosphorylation:2,8,9,10,11,41,52,182,248,312,319,376,380,478,483,484,490,492,494,496,497,498,547,608,616;Ubiquitylation:259,300,324,503

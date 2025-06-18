@@ -1,0 +1,25 @@
+UniprotID	H3BPL9
+Accession	H3BPL9
+EntryName	H3BPL9_HUMAN
+ProteinName	Secretory carrier-associated membrane protein (Secretory carrier membrane protein)
+GeneName	SCAMP2
+Length	278
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SETNAATTVPVTQLPGSSQPAVLQPSVEPTQPTPQAVVSAAQAGLLRQQEELDRKAAELERKERELQNTVANLHVRQNNWPPLPSWCPVKPCFYQDFSTEIPADYQRICKMLYYLWMLHSVTLFLNLLACLAWFSGNSSKGVDFGLSILWFLIFTPCAFLCWYRPIYKAFRSDNSFSFFVFFFVFFCQIGIYIIQLVGIPGLGDSGWIAALSTLDNHSLAISVIMMVVAGFFTLCAVLSVFLLQRVSGVGRADSKWEEAGNRFLPLPRDVFHHCSWAS
+PTM	

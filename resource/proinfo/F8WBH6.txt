@@ -1,0 +1,25 @@
+UniprotID	F8WBH6
+Accession	F8WBH6
+EntryName	F8WBH6_HUMAN
+ProteinName	Sideroflexin 5
+GeneName	SFXN5
+Length	88
+Function	
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADTATTASAAAASAASASSDAPPFQLGKPRFQQTSFYGRFRHFLDIIDPRTLFVTEMESCTVPQAHCNPCLLGSETSQRGCAAAGGL
+PTM	

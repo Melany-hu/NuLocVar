@@ -1,0 +1,25 @@
+UniprotID	P16591-3
+Accession	P16591;B2RCR4;B4DSQ2;H2FLB8
+EntryName	FER_HUMAN
+ProteinName	Tyrosine-protein kinase Fer (EC 2.7.10.2) (Feline encephalitis virus-related kinase FER) (Fujinami poultry sarcoma/Feline sarcoma-related protein Fer) (Proto-oncogene c-Fer) (Tyrosine kinase 3) (p94-Fer)
+GeneName	FER TYK3
+Length	453
+Function	Tyrosine-protein kinase that acts downstream of cell surface receptors for growth factors and plays a role in the regulation of the actin cytoskeleton, microtubule assembly, lamellipodia formation, cell adhesion, cell migration and chemotaxis. Acts downstream of EGFR, KIT, PDGFRA and PDGFRB. Acts downstream of EGFR to promote activation of NF-kappa-B and cell proliferation. May play a role in the regulation of the mitotic cell cycle. Plays a role in the insulin receptor signaling pathway and in activation of phosphatidylinositol 3-kinase. Acts downstream of the activated FCER1 receptor and plays a role in FCER1 (high affinity immunoglobulin epsilon receptor)-mediated signaling in mast cells. Plays a role in the regulation of mast cell degranulation. Plays a role in leukocyte recruitment and diapedesis in response to bacterial lipopolysaccharide (LPS). Plays a role in synapse organization, trafficking of synaptic vesicles, the generation of excitatory postsynaptic currents and neuron-neuron synaptic transmission. Plays a role in neuronal cell death after brain damage. Phosphorylates CTTN, CTNND1, PTK2/FAK1, GAB1, PECAM1 and PTPN11. May phosphorylate JUP and PTPN1. Can phosphorylate STAT3, but the biological relevance of this depends on cell type and stimulus.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cell membrane; Cell projection; Cell junction; Membrane; Nucleus; Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQKMKCPHCKDQLESGFGSQSCKTCALMFSSEPSTSEVHRDQERKERLSKFESIRHSIAGIIRSPKSALGSSALSDMISISEKPLAEQDWYHGAIPRIEAQELLKKQGDFLVRESHGKPGEYVLSVYSDGQRRHFIIQYVDNMYRFEGTGFSNIPQLIDHHYTTKQVITKKSGVVLLNPIPKDKKWILSHEDVILGELLGKGNFGEVYKGTLKDKTSVAVKTCKEDLPQELKIKFLQEAKILKQYDHPNIVKLIGVCTQRQPVYIIMELVSGGDFLTFLRRKKDELKLKQLVKFSLDAAAGMLYLESKNCIHRDLAARNCLVGENNVLKISDFGMSRQEDGGVYSSSGLKQIPIKWTAPEALNYGRYSSESDVWSFGILLWETFSLGVCPYPGMTNQQAREQVERGYRMSAPQHCPEDISKIMMKCWDYKPENRPKFSELQKELTIIKRKLT
+PTM	Acetylation:420,610,725;Methylation:16,127,135,145,160,190,220,326,335,364,475,571,583,602,622,657,663,678,699,720,791,800;Phosphorylation:38,199,200,402,408,410,411,423,427,434,497,714,715,734;SUMOylation:347,420,555,591;Ubiquitylation:475,591,602,610,699,720,725

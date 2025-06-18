@@ -1,0 +1,25 @@
+UniprotID	Q9BYA2
+Accession	Q9BYA2
+EntryName	Q9BYA2_HUMAN
+ProteinName	KIAA1658 protein
+GeneName	KIAA1658
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	REDRGVMGRCWKMVWGSPTGSVTLGQLLPWSGIPHSLTHPGQSMAKRFWIRTLGFSDVFCLDVYISYFMGEHPFSMPQLPHPLKK
+PTM	

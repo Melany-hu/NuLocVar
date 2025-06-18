@@ -1,0 +1,25 @@
+UniprotID	Q8N5S9-2
+Accession	Q8N5S9;Q9BQH3
+EntryName	KKCC1_HUMAN
+ProteinName	Calcium/calmodulin-dependent protein kinase kinase 1 (CaM-KK 1) (CaM-kinase kinase 1) (CaMKK 1) (EC 2.7.11.17) (CaM-kinase IV kinase) (Calcium/calmodulin-dependent protein kinase kinase alpha) (CaM-KK alpha) (CaM-kinase kinase alpha) (CaMKK alpha)
+GeneName	CAMKK1 CAMKKA
+Length	520
+Function	Calcium/calmodulin-dependent protein kinase that belongs to a proposed calcium-triggered signaling cascade involved in a number of cellular processes. Phosphorylates CAMK1, CAMK1D, CAMK1G and CAMK4. Involved in regulating cell apoptosis. Promotes cell survival by phosphorylating AKT1/PKB that inhibits pro-apoptotic BAD/Bcl2-antagonist of cell death.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGGPAVCCQDPRAELVERVAAIDVTHLEEADGGPEPTRNGVDPPPRARAASVIPGSTSRLLPARPSLSARKLSLQERPAGSYLEAQAGPYATGPASHISPRAWRRPTIESHHVAISDAEDCVQLNQYKLQSEIGKGAYGVVRLAYNESEDRHYAMKVLSKKKLLKQYGFPRRPPPRGSQAAQGGPAKQLLPLERVYQEIAILKKLDHVNVVKLIEVLDDPAEDNLYLALQNQAQNIQLDSTNIAKPHSLLPSEQQDSGSTWAARSVFDLLRKGPVMEVPCDKPFSEEQARLYLRDVILGLEYLHCQKIVHRDIKPSNLLLGDDGHVKIADFGVSNQFEGNDAQLSSTAGTPAFMAPEAISDSGQSFSGKALDVWATGVTLYCFVYGKCPFIDDFILALHRKIKNEPVVFPEEPEISEELKDLILKMLDKNPETRIGVPDIKLHPWVTKNGEEPLPSEEEHCSVVEVTEEEVKNSVRLIPSWTTVILVKSMLRKRSFGNPFEPQARREERSMSAPGNLLV
+PTM	Methylation:204,213,235,383,388,451,483;Phosphorylation:52,57,67,69,74,82,83,93,97,100,108,139,458,473,475,492;SUMOylation:72,277,366;Ubiquitylation:136,166,188,204,205

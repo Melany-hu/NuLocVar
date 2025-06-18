@@ -1,0 +1,25 @@
+UniprotID	H7C3N9
+Accession	H7C3N9
+EntryName	H7C3N9_HUMAN
+ProteinName	Leucine-rich repeat flightless-interacting protein 2
+GeneName	LRRFIP2
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLDNEKNNLIYQVDTLKDVIEEQEEQMAEFYRENEEKSKELERQKHMCSVLQHKMEELKEGLRQRDELIEALEKQKEYIACLRNERDMLREELADLQETVKTGEKHGLVIIPDGTPNGDVSHEPVAGAITVVSQEAAQVLESAGEGPLDVRLRKLAGEKEELLSQIRKLKLQLEEERQKCSR
+PTM	

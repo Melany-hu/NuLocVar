@@ -1,0 +1,25 @@
+UniprotID	P50570-3
+Accession	P50570;A8K1B6;E7EV30;E9PEQ4;K7ESI9;Q5I0Y0;Q7Z5S3;Q9UPH4
+EntryName	DYN2_HUMAN
+ProteinName	Dynamin-2 (EC 3.6.5.5) (Dynamin 2) (Dynamin II)
+GeneName	DNM2 DYN2
+Length	866
+Function	Catalyzes the hydrolysis of GTP and utilizes this energy to mediate vesicle scission at plasma membrane during endocytosis and filament remodeling at many actin structures during organization of the actin cytoskeleton (PubMed:15731758, PubMed:19605363, PubMed:19623537, PubMed:33713620, PubMed:34744632). Plays an important role in vesicular trafficking processes, namely clathrin-mediated endocytosis (CME), exocytic and clathrin-coated vesicle from the trans-Golgi network, and PDGF stimulated macropinocytosis (PubMed:15731758, PubMed:19623537, PubMed:33713620). During vesicular trafficking process, associates to the membrane, through lipid binding, and self-assembles into ring-like structure through oligomerization to form a helical polymer around the vesicle membrane and leading to vesicle scission (PubMed:17636067, PubMed:34744632, PubMed:36445308). Plays a role in organization of the actin cytoskeleton by mediating arrangement of stress fibers and actin bundles in podocytes (By similarity). During organization of the actin cytoskeleton, self-assembles into ring-like structure that directly bundles actin filaments to form typical membrane tubules decorated with dynamin spiral polymers (By similarity). Self-assembly increases GTPase activity and the GTP hydrolysis causes the rapid depolymerization of dynamin spiral polymers, and results in dispersion of actin bundles (By similarity). Remodels, through its interaction with CTTN, bundled actin filaments in a GTPase-dependent manner and plays a role in orchestrating the global actomyosin cytoskeleton (PubMed:19605363). The interaction with CTTN stabilizes the interaction of DNM2 and actin filaments and stimulates the intrinsic GTPase activity that results in actin filament-barbed ends and increases the sensitivity of filaments in bundles to the actin depolymerizing factor, CFL1 (By similarity). Plays a role in the autophagy process, by participating in the formation of ATG9A vesicles destined for the autophagosomes through its interaction with SNX18 (PubMed:29437695), by mediating recycling endosome scission leading to autophagosome release through MAP1LC3B interaction (PubMed:29437695, PubMed:32315611). Also regulates maturation of apoptotic cell corpse-containing phagosomes by recruiting PIK3C3 to the phagosome membrane (By similarity). Also plays a role in cytokinesis (By similarity). May participate in centrosome cohesion through its interaction with TUBG1 (By similarity). Plays a role in the regulation of neuron morphology, axon growth and formation of neuronal growth cones (By similarity). Involved in membrane tubulation (PubMed:24135484).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasmic vesicle; Clathrin-coated vesicle; Cell projection; Uropodium; Endosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Recycling endosome; Cell projection; Phagocytic cup; Cytoplasmic vesicle; Phagosome membrane; Cell projection; Podosome; Cytoplasm; Cell junction; Postsynaptic density; Synapse; Synaptosome; Midbody; Membrane; Clathrin-coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNRGMEELIPLVNKLQDAFSSIGQSCHLDLPQIAVVGGQSAGKSSVLENFVGRDFLPRGSGIVTRRPLILQLIFSKTEHAEFLHCKSKKFTDFDEVRQEIEAETDRVTGTNKGISPVPINLRVYSPHVLNLTLIDLPGITKVPVGDQPPDIEYQIKDMILQFISRESSLILAVTPANMDLANSDALKLAKEVDPQGLRTIGVITKLDLMDEGTDARDVLENKLLPLRRGYIGVVNRSQKDIEGKKDIRAALAAERKFFLSHPAYRHMADRMGTPHLQKTLNQQLTNHIRESLPALRSKLQSQLLSLEKEVEEYKNFRPDDPTRKTKALLQMVQQFGVDFEKRIEGSGDQVDTLELSGGARINRIFHERFPFELVKMEFDEKDLRREISYAIKNIHGVRTGLFTPDMAFEAIVKKQIVKLKEPSLKCVDLVVSELATVIKKCAEKLSSYPRLREETERIVTTYIREREGRTKDQILLLIDIEQSYINTNHEDFIGFANAQQRSTQLNKKRAIPNQVIRRGWLTINNISLMKGGSKEYWFVLTAESLSWYKDEEEKEKKYMLPLDNLKIRDVEKGFMSNKHVFAIFNTEQRNVYKDLRQIELACDSQEDVDSWKASFLRAGVYPEKDQAENEDGAQENTFSMDPQLERQVETIRNLVDSYVAIINKSIRDLMPKTIMHLMINNTKAFIHHELLAYLYSSADQSSLMEESADQAQRRDDMLRMYHALKEALNIIGDISTSTVSTPVPPPVDDTWLQSASSHSPTPQRRPVSSIHPPGRPPAVRGPTPGPPLIPVPVGAAASFSAPPIPSRPGPQSVFANSDLFPAPPQIPSRPVRIPPGIPPGVPSRRPPAAPSRPTIIRPAEPSLLD
+PTM	Acetylation:87,90,240,257,299,382,445,577,598;Methylation:15,77,188,217,223,299,309,342,376,393,414,535,571,629,669,780,785,850,857,862;Phosphorylation:45,46,61,116,125,274,292,447,448,449,462,463,532,541,563,619,626,678,687,740,741,746,755,759,761,762,764,766,856;Ubiquitylation:44,113,206,223,240,257,299,315,327,393,445,508,571,577

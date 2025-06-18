@@ -1,0 +1,25 @@
+UniprotID	Q8IUF8-4
+Accession	Q8IUF8;D3DN35;Q6AHW4;Q6SKS0;Q8IU69;Q8IUF6;Q8IUF7;Q96C17;Q96KB0
+EntryName	RIOX2_HUMAN
+ProteinName	Ribosomal oxygenase 2 (60S ribosomal protein L27a histidine hydroxylase) (Bifunctional lysine-specific demethylase and histidyl-hydroxylase MINA) (EC 1.14.11.79) (Histone lysine demethylase MINA) (MYC-induced nuclear antigen) (Mineral dust-induced gene protein) (Nucleolar protein 52) (Ribosomal oxygenase MINA) (ROX)
+GeneName	RIOX2 MDIG MINA MINA53 NO52
+Length	464
+Function	Oxygenase that can act as both a histone lysine demethylase and a ribosomal histidine hydroxylase. Is involved in the demethylation of trimethylated 'Lys-9' on histone H3 (H3K9me3), leading to an increase in ribosomal RNA expression. Also catalyzes the hydroxylation of 60S ribosomal protein L27a on 'His-39'. May play an important role in cell growth and survival. May be involved in ribosome biogenesis, most likely during the assembly process of pre-ribosomal particles.
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	2...7
+validnes_region	
+nesbase_region	
+Sequence	MPKKAKPTGSGKEEGPAPCKQMKLEAAGGPSALNFDSPSSLFESLISPIKTETFFKEFWEQKPLLIQRDDPALATYYGSLFKLTDLKSLCSRGMYYGRDVNVCRCVNGKKKVLNKDGKAHFLQLRKDFDQKRATIQFHQPQRFKDELWRIQEKLECYFGSLVGSNVYITPAGSQGLPPHYDDVEVFILQLEGEKHWRLYHPTVPLAREYSVEAEERIGRPVHEFMLKPGDLLYFPRGTIHQADTPAGLAHSTHVTISTYQNNSWGDFLLDTISGLVFDTAKEDVELRTGIPRQLLLVESTTVATRRLSGFLRTLADRLEGTKELLSSDMKKDFIMHRLPPYSAGDGAELSTPGGKLPRLDSVVRLQFKDHIVLTVLPDQDQSDEAQEKMVYIYHSLKNSRETHMMGNEEETEFHGLRFPLSHLDALKQIWNSPAISVKDLKLTTDEEKESLVLSLWTECLIQVV
+PTM	Acetylation:12,20,23,50,87,356;Methylation:50,82,87,115,153,194,318,428;Phosphorylation:10,47,79,210,300,301,305,309,327,328;SUMOylation:12,23,50,62,115,118,131,331,356,398,442;Ubiquitylation:87,118,323,356,369,428,442

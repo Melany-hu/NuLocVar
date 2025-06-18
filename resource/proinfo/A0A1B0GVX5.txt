@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GVX5
+Accession	A0A1B0GVX5
+EntryName	A0A1B0GVX5_HUMAN
+ProteinName	Cholinergic receptor nicotinic alpha 2 subunit
+GeneName	CHRNA2
+Length	133
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPSCPVFLSFTKLSLWWLLLTPAGGEEAKRPPPRAPGDPLSSPSPTALPQGGSHTETEDRLFKHLFRGYNRWARPVPNTSDVVIVRFGLSIAQLIDVVRLSSHRWPEEGDPRPPTAFPLLLPLPQPCPHAQQ
+PTM	

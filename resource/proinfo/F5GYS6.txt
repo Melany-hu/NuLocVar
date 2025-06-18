@@ -1,0 +1,25 @@
+UniprotID	F5GYS6
+Accession	F5GYS6
+EntryName	F5GYS6_HUMAN
+ProteinName	Endoplasmic reticulum protein 27
+GeneName	ERP27
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKETCQLEIQVDNEQLNLEDEDIESIDATKLSRFIEINSLHMVTEYNPVTVIGLFNSVIQIHLLLIMNKASPEYEENMHRYQKAAKLFQGKILFILVDSGMKENGKVISFFKLKESQLPALAIYQTLDDEWDTLPTAEVSVEHVQNFCDGFLSGKLLKENRESEGKTPKVEL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P14735-2
+Accession	P14735;B2R721;B7ZAU2;D3DR35;Q5T5N2
+EntryName	IDE_HUMAN
+ProteinName	Insulin-degrading enzyme (EC 3.4.24.56) (Abeta-degrading protease) (Insulin protease) (Insulinase) (Insulysin)
+GeneName	IDE
+Length	464
+Function	Plays a role in the cellular breakdown of insulin, APP peptides, IAPP peptides, natriuretic peptides, glucagon, bradykinin, kallidin, and other peptides, and thereby plays a role in intercellular peptide signaling (PubMed:10684867, PubMed:17051221, PubMed:17613531, PubMed:18986166, PubMed:19321446, PubMed:21098034, PubMed:2293021, PubMed:23922390, PubMed:24847884, PubMed:26394692, PubMed:26968463, PubMed:29596046). Substrate binding induces important conformation changes, making it possible to bind and degrade larger substrates, such as insulin (PubMed:23922390, PubMed:26394692, PubMed:29596046). Contributes to the regulation of peptide hormone signaling cascades and regulation of blood glucose homeostasis via its role in the degradation of insulin, glucagon and IAPP (By similarity). Plays a role in the degradation and clearance of APP-derived amyloidogenic peptides that are secreted by neurons and microglia (Probable) (PubMed:26394692, PubMed:9830016). Degrades the natriuretic peptides ANP, BNP and CNP, inactivating their ability to raise intracellular cGMP (PubMed:21098034). Also degrades an aberrant frameshifted 40-residue form of NPPA (fsNPPA) which is associated with familial atrial fibrillation in heterozygous patients (PubMed:21098034). Involved in antigen processing. Produces both the N terminus and the C terminus of MAGEA3-derived antigenic peptide (EVDPIGHLY) that is presented to cytotoxic T lymphocytes by MHC class I.
+Subcellular Location	Cytoplasm; Cytosol; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKLWFKQDDKFFLPKACLNFEFFSPFAYVDPLHCNMAYLYLELLKDSLNEYAYAAELAGLSYDLQNTIYGMYLSVKGYNDKQPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHAMYYLRLLMTEVAWTKDELKEALDDVTLPRLKAFIPQLLSRLHIEALLHGNITKQAALGIMQMVEDTLIEHAHTKPLLPSQLVRYREVQLPDRGWFVYQQRNEVHNNCGIEIYYQTDMQSTSENMFLELFCQIISEPCFNTLRTKEQLGYIVFSGPRRANGIQGLRFIIQSEKPPHYLESRVEAFLITMEKSIEDMTEEAFQKHIQALAIRRLDKPKKLSAECAKYWGEIISQQYNFDRDNTEVAYLKTLTKEDIIKFYKEMLAVDAPRRHKVSVHVLAREMDSCPVVGEFPCQNDINLSQAPALPQPEVIQNMTEFKRGLPLFPLVKPHINFMAAKL
+PTM	Acetylation:192,308,521,542,697,884,899;Methylation:206,243,273,308,324,470,483,511,542,552,601,643,648,663,701,735,854,872,929,938;Phosphorylation:57,268,276,352,435,545,547,651,666,835,955;Ubiquitylation:119,192,206,217,303,308,353,364,483,488,511,542,558,637,657,826,884,899,929,933,938,1018

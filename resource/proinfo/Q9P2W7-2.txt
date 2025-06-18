@@ -1,0 +1,25 @@
+UniprotID	Q9P2W7-2
+Accession	Q9P2W7;B7Z5Z8;Q96FS7
+EntryName	B3GA1_HUMAN
+ProteinName	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 (EC 2.4.1.135) (Beta-1,3-glucuronyltransferase 1) (Glucuronosyltransferase P) (GlcAT-P) (UDP-GlcUA:glycoprotein beta-1,3-glucuronyltransferase) (GlcUAT-P)
+GeneName	B3GAT1 GLCATP
+Length	347
+Function	Involved in the biosynthesis of L2/HNK-1 carbohydrate epitope on glycoproteins. Can also play a role in glycosaminoglycan biosynthesis. Substrates include asialo-orosomucoid (ASOR), asialo-fetuin, and asialo-neural cell adhesion molecule. Requires sphingomyelin for activity: stearoyl-sphingomyelin was the most effective, followed by palmitoyl-sphingomyelin and lignoceroyl-sphingomyelin. Activity was demonstrated only for sphingomyelin with a saturated fatty acid and not for that with an unsaturated fatty acid, regardless of the length of the acyl group.
+Subcellular Location	Golgi apparatus membrane; Secreted; Golgi apparatus membrane; Endoplasmic reticulum membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNEEPWVQPALEMPKRRDILAIVLIVLPWTLLITVWHQSTLAPLLAVHKDEGSDPRRETPPGADPREYCTSDRDIVEVVRTEYVYTRPPPWSDTLPTIHVVTPTYSRPVQKAELTRMANTLLHVPNLHWLVVEDAPRRTPLTARLLRDTGLNYTHLHVETPRNYKLRGDARDPRIPRGTMQRNLALRWLRETFPRNSSQPGVVYFADDDNTYSLELFEEMRSTRRVSVWPVAFVGGLRYEAPRVNGAGKVVGWKTVFDPHRPFAIDMAGFAVNLRLILQRSQAYFKLRGVKGGYQESSLLRELVTLNDLEPKAANCTKILVWHTRTEKPVLVNEGKKGFTDPSVEI
+PTM	Phosphorylation:286

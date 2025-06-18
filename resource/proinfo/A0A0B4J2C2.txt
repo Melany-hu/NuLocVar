@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J2C2
+Accession	A0A0B4J2C2
+EntryName	A0A0B4J2C2_HUMAN
+ProteinName	DLG associated protein 4 (Discs, large (Drosophila) homolog-associated protein 4, isoform CRA_b)
+GeneName	DLGAP4 hCG_2020065
+Length	285
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSRRDTDSDTQDANDSSCKSSERSLPDCTPHPNSISIDAGPRQAPKIAQIKRNLSYGDNSDPALEASSLPPPDPWLETSSSSPAEPAQPGACRRDGYWFLKLLQAETERLEGWCCQMDKETKENNLSEEVLGKVLSAVGSAQLLMSQKFQQFRGLCEQNLNPDANPRPTAQDLAGFWDLLQLSIEDISMKFDELYHLKANSWQLVETPEKRKEEKKPPPPVPKKPAKSKPAVSRDKASDASDKQRQEARKRLLAAKRAASVRQNSATESADSIEIYVPEAQTRL
+PTM	

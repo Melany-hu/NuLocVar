@@ -1,0 +1,25 @@
+UniprotID	Q96T37-3
+Accession	Q96T37;A1A693;Q3ZB86;Q4V760;Q5D058;Q5T613;Q86VW9;Q96PE4;Q96SC5;Q96SC6;Q96SC9;Q96SD0;Q96T38;Q9BRA5;Q9H6R8;Q9H9Y0
+EntryName	RBM15_HUMAN
+ProteinName	RNA-binding protein 15 (One-twenty two protein 1) (RNA-binding motif protein 15)
+GeneName	RBM15 OTT OTT1
+Length	969
+Function	RNA-binding protein that acts as a key regulator of N6-methyladenosine (m6A) methylation of RNAs, thereby regulating different processes, such as hematopoietic cell homeostasis, alternative splicing of mRNAs and X chromosome inactivation mediated by Xist RNA (PubMed:27602518). Associated component of the WMM complex, a complex that mediates N6-methyladenosine (m6A) methylation of RNAs, a modification that plays a role in the efficiency of mRNA splicing and RNA processing (By similarity). Plays a key role in m6A methylation, possibly by binding target RNAs and recruiting the WMM complex (PubMed:27602518). Involved in random X inactivation mediated by Xist RNA: acts by binding Xist RNA and recruiting the WMM complex, which mediates m6A methylation, leading to target YTHDC1 reader on Xist RNA and promoting transcription repression activity of Xist (PubMed:27602518). Required for the development of multiple tissues, such as the maintenance of the homeostasis of long-term hematopoietic stem cells and for megakaryocyte (MK) and B-cell differentiation (By similarity). Regulates megakaryocyte differentiation by regulating alternative splicing of genes important for megakaryocyte differentiation; probably regulates alternative splicing via m6A regulation (PubMed:26575292). Required for placental vascular branching morphogenesis and embryonic development of the heart and spleen (By similarity). Acts as a regulator of thrombopoietin response in hematopoietic stem cells by regulating alternative splicing of MPL (By similarity). May also function as an mRNA export factor, stimulating export and expression of RTE-containing mRNAs which are present in many retrotransposons that require to be exported prior to splicing (PubMed:17001072, PubMed:19786495). High affinity binding of pre-mRNA to RBM15 may allow targeting of the mRNP to the export helicase DBP5 in a manner that is independent of splicing-mediated NXF1 deposition, resulting in export prior to splicing (PubMed:17001072, PubMed:19786495). May be implicated in HOX gene regulation (PubMed:11344311).
+Subcellular Location	Nucleus speckle; Nucleus; Nucleoplasm; Nucleus envelope; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	54...59;638...642
+validnes_region	
+nesbase_region	
+Sequence	MRTAGRDPVPRRSPRWRRAVPLCETSAGRRVTQLRGDDLRRPATMKGKERSPVKAKRSRGGEDSTSRGERSKKLGGSGGSNGSSSGKTDSGGGSRRSLHLDKSSSRGGSREYDTGGGSSSSRLHSYSSPSTKNSSGGGESRSSSRGGGGESRSSGAASSAPGGGDGAEYKTLKISELGSQLSDEAVEDGLFHEFKRFGDVSVKISHLSGSGSGDERVAFVNFRRPEDARAAKHARGRLVLYDRPLKIEAVYVSRRRSRSPLDKDTYPPSASVVGASVGGHRHPPGGGGGQRSLSPGGAALGYRDYRLQQLALGRLPPPPPPPLPRDLERERDYPFYERVRPAYSLEPRVGAGAGAAPFREVDEISPEDDQRANRTLFLGNLDITVTESDLRRAFDRFGVITEVDIKRPSRGQTSTYGFLKFENLDMSHRAKLAMSGKIIIRNPIKIGYGKATPTTRLWVGGLGPWVPLAALAREFDRFGTIRTIDYRKGDSWAYIQYESLDAAHAAWTHMRGFPLGGPDRRLRVDFADTEHRYQQQYLQPLPLTHYELVTDAFGHRAPDPLRGARDRTPPLLYRDRDRDLYPDSDWVPPPPPVRERSTRTAATSVPAYEPLDSLDRRRDGWSLDRDRGDRDLPSSRDQPRKRRLPEESGGRHLDRSPESDRPRKRHCAPSPDRSPELSSSRDRYNSDNDRSSRLLLERPSPIRDRRGSLEKSQGDKRDRKNSASAERDRKHRTTAPTEGKSPLKKEDRSDGSAPSTSTASSKLKSPSQKQDGGTAPVASASPKLCLAWQGMLLLKNSNFPSNMHLLQGDLQVASSLLVEGSTGGKVAQLKITQRLRLDQPKLDEVTRRIKVAGPNGYAILLAVPGSSDSRSSSSSAASDTATSTQRPLRNLVSYLKQKQAAGVISLPVGGNKDKENTGVLHAFPPCEFSQQFLDSPAKALAKSEEDYLVMIIVRAKLVEQRMKIWNSKL
+PTM	Acetylation:170,445,450,762,830,896;Methylation:110,340,406,420,616,617,711,795;Phosphorylation:13,32,51,77,80,83,90,94,97,103,104,105,109,112,114,118,120,125,126,127,128,130,131,134,135,153,154,175,179,182,205,208,210,212,251,253,257,259,265,266,269,271,276,292,294,302,336,344,365,416,452,544,546,568,581,584,603,604,613,622,634,648,656,659,670,674,678,679,680,684,686,692,700,708,724,737,741,752,760,765,767,774,779,781,857,866,867,869,871,872,873,874,875,878,880,882,883,884,935;SUMOylation:132,170,173,195,203,246,406,420,445,450,740,744,762,769,896;Ubiquitylation:170,406,450,762,830,896,898

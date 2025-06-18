@@ -1,0 +1,25 @@
+UniprotID	D6RGY6
+Accession	D6RGY6
+EntryName	D6RGY6_HUMAN
+ProteinName	Solute carrier family 45 member 2
+GeneName	SLC45A2
+Length	243
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSNSGQAGRHIYKSLADDGPFDSVEPPKRPTSRLIMHSMAMFGREFCYAVEAAYVTPVLLSVGLPSSLYSIVWFLSPILGFLLQPVVGSASDHCRSRWGRRRPYILTLGVMMLVGMALYLNGATVVAALIANPRRKLVWAISVTMIGVVLFDFAADFIDGPIKAYLFDVCSHQDKEKGLHYHALFTDSQGNDIKVTAESTGEHASSLPLPLHQPPHWMDSLPVQHAVLHRFHGPDCVPRGSL
+PTM	

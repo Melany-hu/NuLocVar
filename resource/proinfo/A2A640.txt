@@ -1,0 +1,25 @@
+UniprotID	A2A640
+Accession	A2A640
+EntryName	A2A640_HUMAN
+ProteinName	MCF.2 cell line derived transforming sequence like
+GeneName	MCF2L
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TSTGTSDARTGVILQDAGIGFILVIDRRRDKWTSVKASVLRIAASFPANLQLVLVLRPTGFFQRTLSDIAFKFNRDDFKMKVPVIMLSSVPDLHGYIDKSQLTEDLGGTLDYCHSRWLCQRTAIESFALMVKQTAQMLQSFGTELAETELPNDVQSTSSVLCAHTEKKDKAKVHGGCSGWKLWGAPVSQKLRGAPVGSCGGSFVPAGVCVSST
+PTM	

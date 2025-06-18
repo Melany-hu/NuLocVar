@@ -1,0 +1,25 @@
+UniprotID	Q5T112
+Accession	Q5T112
+EntryName	Q5T112_HUMAN
+ProteinName	tRNA methyltransferase O
+GeneName	TRMO
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RGLEESGPRPTATPCGCVKPALETGNLLTEPVGYLESCFSAKNGTPRQPSICSYSRACLRIRKRIFNNPEHSLMGLEQFSHVWILFVFHKNGHLSCKAKVQPPRLNGAKTGVFSTRSPHRPNAIGLTLAKLEKVEALGKWTDIMAAVLMSTVLCGRSLG
+PTM	

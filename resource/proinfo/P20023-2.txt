@@ -1,0 +1,25 @@
+UniprotID	P20023-2
+Accession	P20023;C9JHD2;Q13866;Q14212;Q53EL2;Q5BKT9;Q5SR46;Q5SR48
+EntryName	CR2_HUMAN
+ProteinName	Complement receptor type 2 (Cr2) (Complement C3d receptor) (Epstein-Barr virus receptor) (EBV receptor) (CD antigen CD21)
+GeneName	CR2 C3DR
+Length	1007
+Function	Serves as a receptor for various ligands including complement component CD3d, HNRNPU OR IFNA1 (PubMed:1849076, PubMed:21527715, PubMed:7753047). When C3d is bound to antigens, attaches to C3d on B-cell surface and thereby facilitates the recognition and uptake of antigens by B-cells (PubMed:21527715). This interaction enhances B-cell activation and subsequent immune responses. Forms a complex with several partners on the surface of B-cells including CD19, FCRL5 and CD81, to form the B-cell coreceptor complex that plays a crucial role in B-cell activation and signaling (PubMed:1383329, PubMed:30107486). Also induces specific intracellular signaling separately from the BCR and CD19 by activating the tyrosine kinase SRC, which then phosphorylates nucleolin/NCL and triggers AKT and GSK3 kinase activities in a SYK/CD19-independent manner (PubMed:12938232). Acts as a ligand for CD23 (FcepsilonRII), a low-affinity receptor for IgE, which is expressed on B-cells and other immune cells, and thus participates in the regulation of IgE production (PubMed:1386409).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAAGLLGVFLALVAPGVLGISCGSPPPILNGRISYYSTPIAVGTVIRYSCSGTFRLIGEKSLLCITKDKVDGTWDKPAPKCEYFNKYSSCPEPIVPGGYKIRGSTPYRHGDSVTFACKTNFSMNGNKSVWCQANNMWGPTRLPTCVSVFPLECPALPMIHNGHHTSENVGSIAPGLSVTYSCESGYLLVGEKIINCLSSGKWSAVPPTCEEARCKSLGRFPNGKVKEPPILRVGVTANFFCDEGYRLQGPPSSRCVIAGQGVAWTKMPVCEEIFCPSPPPILNGRHIGNSLANVSYGSIVTYTCDPDPEEGVNFILIGESTLRCTVDSQKTGTWSGPAPRCELSTSAVQCPHPQILRGRMVSGQKDRYTYNDTVIFACMFGFTLKGSKQIRCNAQGTWEPSAPVCEKECQAPPNILNGQKEDRHMVRFDPGTSIKYSCNPGYVLVGEESIQCTSEGVWTPPVPQCKVAACEATGRQLLTKPQHQFVRPDVNSSCGEGNHLPTTPCYLQWGTHREFLRRFSIWNHGHLHMNPGPERGVEFSLIGESTIRCTSNDQERGTWSGPAPLCKLSLLAVQCSHVHIANGYKISGKEAPYFYNDTVTFKCYSGFTLKGSSQIRCKADNTWDPEIPVCEKETCQHVRQSLQELPAGSRVELVNTSCQDGYQLTGHAYQMCQDAENGIWFKKIPLCKVIHCHPPPVIVNGKHTGMMAENFLYGNEVSYECDQGFYLLGEKKLQCRSDSKGHGSWSGPSPQCLRSPPVTRCPNPEVKHGYKLNKTHSAYSHNDIVYVDCNPGFIMNGSRVIRCHTDNTWVPGVPTCIKKAFIGCPPPPKTPNGNHTGGNIARFSPGMSILYSCDQGYLLVGEALLLCTHEGTWSQPAPHCKEVNCSSPADMDGIQKGLEPRKMYQYGAVVTLECEDGYMLEGSPQSQCQSDHQWNPPLAVCRSRSLAPVLCGIAAGLILLTFLIVITLYVISKHRARNYYTDTSQKEAFHLEAREVYSVDPYNPAS
+PTM	Glycosylation:492;Methylation:481,758;Phosphorylation:49,52,106,108,113,782

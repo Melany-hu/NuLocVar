@@ -1,0 +1,25 @@
+UniprotID	H7C019
+Accession	H7C019
+EntryName	H7C019_HUMAN
+ProteinName	Sad1 and UNC84 domain containing 1
+GeneName	SUN1
+Length	171
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SSSYSSDALDFETEHKLDPVFDSPRMSRRSLRLATTACTLGDGEAVGADSGTSSAVSLKNRAARTTKQRRSTNKSAFSINHVSRQVTSSGVSHGGTVSLQDAVTRRPPVLDESWIREQTTVDHFWGKAASGVFWWLGIGWYQFVTLISWLNVFLLTRCLRNICKFLVLLIP
+PTM	

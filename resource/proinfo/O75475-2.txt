@@ -1,0 +1,25 @@
+UniprotID	O75475-2
+Accession	O75475;D3DRI9;O00256;O95368;Q6P391;Q86YB9;Q9NZI3;Q9UER6
+EntryName	PSIP1_HUMAN
+ProteinName	PC4 and SFRS1-interacting protein (CLL-associated antigen KW-7) (Dense fine speckles 70 kDa protein) (DFS 70) (Lens epithelium-derived growth factor) (Transcriptional coactivator p75/p52)
+GeneName	PSIP1 DFS70 LEDGF PSIP2
+Length	333
+Function	Transcriptional coactivator involved in neuroepithelial stem cell differentiation and neurogenesis. Involved in particular in lens epithelial cell gene regulation and stress responses. May play an important role in lens epithelial to fiber cell terminal differentiation. May play a protective role during stress-induced apoptosis. Isoform 2 is a more general and stronger transcriptional coactivator. Isoform 2 may also act as an adapter to coordinate pre-mRNA splicing. Cellular cofactor for lentiviral integration.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	146..156
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	148...153;192...197;179...184;150...155;191...196;178...183;193...198;146...156
+validnes_region	
+nesbase_region	
+Sequence	MTRDFKPGDLIFAKMKGYPHWPARVDEVPDGAVKPPTNKLPIFFFGTHETAFLGPKDIFPYSENKEKYGKPNKRKGFNEGLWEIDNNPKVKFSSQQAATKQSNASSDVEVEEKETSVSKEDTDHEEKASNEDVTKAVDITTPKAARRGRKRKAEKQVETEEAGVVTTATASVNLKVSPKRGRPAATEVKIPKPRGRPKMVKQPCPSESDIITEEDKSKKKGQEEKQPKKQPKKDEEGQKEEDKPRKEPDKKEGKKEVESKRKNLAKTGVTSTSDSEEEGDDQEGEKKRKGGRNFQTAHRRNMLKGQHEKEAADRKRKQEEQMETEHQTTCNLQ
+PTM	Acetylation:6,14,34,65,89,91,119,135,201,216,309,333,360,364,401,422,476,509;Methylation:113,175,182,201,216,266,392,415,442,455;Phosphorylation:18,61,62,93,94,99,102,105,106,115,116,118,122,129,140,141,159,166,167,169,171,177,206,208,212,267,270,271,272,273,275,296,346,347,350,434,437,443,496,500,508,513,514,519,522,526,527;SUMOylation:6,75,113,119,127,201,317,407;Ubiquitylation:6,16,34,65,89,91,100,113,119,127,135,143,360,364,401,402,407,415,422,424,442,524

@@ -1,0 +1,25 @@
+UniprotID	Q4U2R8-3
+Accession	Q4U2R8;A8MY93;B2D0R6;O95187;O95742;Q7LDA0;Q8N192;Q9NQA6;Q9NQC2;Q9UBG6;Q9UEQ8
+EntryName	S22A6_HUMAN
+ProteinName	Solute carrier family 22 member 6 (Organic anion transporter 1) (hOAT1) (PAH transporter) (hPAHT) (Renal organic anion transporter 1) (hROAT1)
+GeneName	SLC22A6 OAT1 PAHT
+Length	506
+Function	Secondary active transporter that functions as a Na(+)-independent organic anion (OA)/dicarboxylate antiporter where the uptake of one molecule of OA into the cell is coupled with an efflux of one molecule of intracellular dicarboxylate such as 2-oxoglutarate or glutarate (PubMed:11669456, PubMed:11907186, PubMed:14675047, PubMed:22108572, PubMed:23832370, PubMed:28534121, PubMed:9950961). Mediates the uptake of OA across the basolateral side of proximal tubule epithelial cells, thereby contributing to the renal elimination of endogenous OA from the systemic circulation into the urine (PubMed:9887087). Functions as a biopterin transporters involved in the uptake and the secretion of coenzymes tetrahydrobiopterin (BH4), dihydrobiopterin (BH2) and sepiapterin to urine, thereby determining baseline levels of blood biopterins (PubMed:28534121). Transports prostaglandin E2 (PGE2) and prostaglandin F2-alpha (PGF2-alpha) and may contribute to their renal excretion (PubMed:11907186). Also mediates the uptake of cyclic nucleotides such as cAMP and cGMP (PubMed:26377792). Involved in the transport of neuroactive tryptophan metabolites kynurenate (KYNA) and xanthurenate (XA) and may contribute to their secretion from the brain (PubMed:22108572, PubMed:23832370). May transport glutamate (PubMed:26377792). Also involved in the disposition of uremic toxins and potentially toxic xenobiotics by the renal organic anion secretory pathway, helping reduce their undesired toxicological effects on the body (PubMed:11669456, PubMed:14675047). Uremic toxins include the indoxyl sulfate (IS), hippurate/N-benzoylglycine (HA), indole acetate (IA), 3-carboxy-4- methyl-5-propyl-2-furanpropionate (CMPF) and urate (PubMed:14675047, PubMed:26377792). Xenobiotics include the mycotoxin ochratoxin (OTA) (PubMed:11669456). May also contribute to the transport of organic compounds in testes across the blood-testis-barrier (PubMed:35307651).
+Subcellular Location	Basolateral cell membrane; Basal cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFNDLLQQVGGVGRFQQIQVTLVVLPLLLMASHNTLQNFTAAIPTHHCRPPADANLSKNGGLEVWLPRDRQGQPESCLRFTSPQWGLPFLNGTEANGTGATEPCTDGWIYDNSTFPSTIVTEWDLVCSHRALRQLAQSLYMVGVLLGAMVFGYLADRLGRRKVLILNYLQTAVSGTCAAFAPNFPIYCAFRLLSGMALAGISLNCMTLNVEWMPIHTRACVGTLIGYVYSLGQFLLAGVAYAVPHWRHLQLLVSAPFFAFFIYSWFFIESARWHSSSGRLDLTLRALQRVARINGKREEGAKLSMEVLRASLQKELTMGKGQASAMELLRCPTLRHLFLCLSMLWFATSFAYYGLVMDLQGFGVSIYLIQVIFGAVDLPAKLVGFLVINSLGRRPAQMAALLLAGICILLNGVIPQDQSIVRTSLAVLGKGCLAASFNCIFLYTGELYPTMIRAVTVLLPETLGQPLPDTVQDLESRKGKQTRQQQEHQKYMVPLQASAQEKNGL
+PTM	Methylation:431

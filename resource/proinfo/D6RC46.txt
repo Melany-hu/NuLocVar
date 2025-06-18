@@ -1,0 +1,25 @@
+UniprotID	D6RC46
+Accession	D6RC46
+EntryName	D6RC46_HUMAN
+ProteinName	trans-L-3-hydroxyproline dehydratase (EC 4.2.1.77)
+GeneName	L3HYPDH
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDVPGHGKVMVDIAYGGAFYAFVTAEKLGLDICSAKTRDLVDAASAVTEAVKAQFKINHPDSEDLAFLYGTILTDGKDAYTKEPTTNICVFADEQVDRSPTGSGVTARIALQYHKGLLELNQMRAFKSSATGSVFTGKAVR
+PTM	

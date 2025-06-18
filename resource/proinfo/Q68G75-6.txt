@@ -1,0 +1,25 @@
+UniprotID	Q68G75-6
+Accession	Q68G75;Q6L9T9;Q6L9U0;Q6L9U1;Q6L9U2;Q6L9U3;Q6L9U4
+EntryName	LEMD1_HUMAN
+ProteinName	LEM domain-containing protein 1 (Cancer/testis antigen 50) (CT50) (LEM domain protein 1) (LEMP-1)
+GeneName	LEMD1
+Length	67
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDVKCLSDCKLQNQLEKLGFSPGPILRGLQEHQAPESHMGLSPKRETTARKTRLSRAGEKKVSQWA
+PTM	Methylation:18;Phosphorylation:8,128

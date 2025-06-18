@@ -1,0 +1,25 @@
+UniprotID	P98177-2
+Accession	P98177;B7WPJ7;O43821;Q13720;Q3KPF1;Q8TDK9
+EntryName	FOXO4_HUMAN
+ProteinName	Forkhead box protein O4 (Fork head domain transcription factor AFX1)
+GeneName	FOXO4 AFX AFX1 MLLT7
+Length	450
+Function	Transcription factor involved in the regulation of the insulin signaling pathway. Binds to insulin-response elements (IREs) and can activate transcription of IGFBP1. Down-regulates expression of HIF1A and suppresses hypoxia-induced transcriptional activation of HIF1A-modulated genes. Also involved in negative regulation of the cell cycle. Involved in increased proteasome activity in embryonic stem cells (ESCs) by activating expression of PSMD11 in ESCs, leading to enhanced assembly of the 26S proteasome, followed by higher proteasome activity.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	134...139
+validnes_region	
+nesbase_region	
+Sequence	MDPGNENSATEAAAIIDLDPDFEPQSRPRSCTWPLPRPEIANQPSEPPEVEPDLGEKAIESAPEKRLTLAQIYEWMVRTVPYFKDKGDSNSSAGWKNSIRHNLSLHSKFIKVHNEATGKSSWWMLNPEGGKSGKAPRRRAASMDSSSKLLRGRSKAPKKKPSVLPAPPEGATPTSPVGHFAKWSGSPCSRNREEADMWTTFRPRSSSNASSVSTRLSPLRPESEVLAEEIPASVSSYAGGVPPTLNEGLELLDGLNLTSSHSLLSRSGLSGFSLQHPGVTGPLHTYSSSLFSPAEGPLSAGEGCFSSSQALEALLTSDTPPPPADVLMTQVDPILSQAPTLLLLGGLPSSSKLATGVGLCPKPLEAPGPSSLVPTLSMIAPPPVMASAPIPKALGTPVLTPPTEAASQDRMPQDLDLDMYMENLECDMDNIISDLMDEGEGLDFNFEPDP
+PTM	Acetylation:163,174,203;Phosphorylation:8,10,30,32,45,197,201,202,227,229,230,241,272,317,320,455,458

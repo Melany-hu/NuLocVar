@@ -1,0 +1,25 @@
+UniprotID	M0R1I2
+Accession	M0R1I2
+EntryName	M0R1I2_HUMAN
+ProteinName	Urokinase plasminogen activator surface receptor
+GeneName	PLAUR
+Length	286
+Function	Acts as a receptor for urokinase plasminogen activator. Plays a role in localizing and promoting plasmin formation. Mediates the proteolysis-independent signal transduction activation effects of U-PA. It is subject to negative-feedback regulation by U-PA which cleaves it into an inactive form.
+Subcellular Location	Cell membrane; Cell projection; Invadopodium membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGHPPLLPLLLLLHTCVPASWGLRCMQCKTNGDCRVEECALGQDLCRTTIVRLWEEGEELELVEKSCTHSEKTNRTLSYRTGLKITSLTEVVCGLDLCNQGNSGRAVTYSRSRYLECISCGSSDMSCERGRHQSLQCRSPEEQCLDVVTHWIQEGEEGRPKDDRHLRGCGYLPGCPGSNGFHNNDTFHFLKCCNTTKCNEGPKPKNQSYMVRGCATASMCQHAHLGDAFSMNHIDVSCCTKSGCNHPDLDVQYRSGAAPQPGPAHLSLTITLLMTARLWGGTLLWT
+PTM	

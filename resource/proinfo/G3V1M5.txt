@@ -1,0 +1,25 @@
+UniprotID	G3V1M5
+Accession	G3V1M5;A0A024R5C8
+EntryName	G3V1M5_HUMAN
+ProteinName	Transmembrane protein 134
+GeneName	TMEM134 hCG_21070
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAARPQFSIDDAFELSLEDGGPGPESSGVARFGPLHFERRARFEVADEDKQSRLRYQNLENDEDGAQASPEPDGGVGTRLGPGIPAELPSAAPSGPSAPSAAAPSAPTTPAAAGPNTL
+PTM	

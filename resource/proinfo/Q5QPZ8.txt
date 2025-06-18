@@ -1,0 +1,25 @@
+UniprotID	Q5QPZ8
+Accession	Q5QPZ8
+EntryName	Q5QPZ8_HUMAN
+ProteinName	Rhesus blood group D antigen
+GeneName	RHD
+Length	45
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YVHSAVLAGGVAGGTSCHLIPSPWLAMVLGLVAGLISVGGAKYLP
+PTM	

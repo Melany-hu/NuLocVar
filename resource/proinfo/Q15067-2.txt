@@ -1,0 +1,25 @@
+UniprotID	Q15067-2
+Accession	Q15067;A8K6X8;A8KAA0;B4DK61;F5GYQ8;Q12863;Q15068;Q15101;Q16131;Q7Z3W5;Q9UD31
+EntryName	ACOX1_HUMAN
+ProteinName	Peroxisomal acyl-coenzyme A oxidase 1 (AOX) (EC 1.3.3.6) (Palmitoyl-CoA oxidase) (Peroxisomal fatty acyl-CoA oxidase) (Straight-chain acyl-CoA oxidase) (SCOX) [Cleaved into: Peroxisomal acyl-CoA oxidase 1, A chain; Peroxisomal acyl-CoA oxidase 1, B chain; Peroxisomal acyl-CoA oxidase 1, C chain]
+GeneName	ACOX1 ACOX
+Length	660
+Function	Involved in the initial and rate-limiting step of peroxisomal beta-oxidation of straight-chain saturated and unsaturated very-long-chain fatty acids (PubMed:15060085, PubMed:17458872, PubMed:17603022, PubMed:32169171, PubMed:33234382, PubMed:7876265). Catalyzes the desaturation of fatty acyl-CoAs such as palmitoyl-CoA (hexadecanoyl-CoA) to 2-trans-enoyl-CoAs ((2E)-enoyl-CoAs) such as (2E)-hexadecenoyl-CoA, and donates electrons directly to molecular oxygen (O(2)), thereby producing hydrogen peroxide (H(2)O(2)) (PubMed:17458872, PubMed:17603022, PubMed:7876265).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPDLRRERDSASFNPELLTHILDGSPEKTRRRREIENMILNDPDFQHEDLNFLTRSQRYEVAVRKSAIMVKKMREFGIADPDEIMWFKNFVHRGRPEPLDLHLGMFLPTLLHQATAEQQERFFMPAWNLEIIGTYAQTEMGHGTHLRGLETTATYDPETQEFILNSPTVTSIKWWPGGLGKTSNHAIVLAQLITKGKCYGLHAFIVPIREIGTHKPLPGITVGDIGPKFGYDEIDNGYLKMDNHRIPRENMLMKYAQVKPDGTYVKPLSNKLTYGTMVFVRSFLVGEAARALSKACTIAIRYSAVRHQSEIKPGEPEPQILDFQTQQYKLFPLLATAYAFQFVGAYMKETYHRINEGIGQGDLSELPELHALTAGLKAFTSWTANTGIEACRMACGGHGYSHCSGLPNIYVNFTPSCTFEGENTVMMLQTARFLMKSYDQVHSGKLVCGMVSYLNDLPSQRIQPQQVAVWPTMVDINSPESLTEAYKLRAARLVEIAAKNLQKEVIHRKSKEVAWNLTSVDLVRASEAHCHYVVVKLFSEKLLKIQDKAIQAVLRSLCLLYSLYGISQNAGDFLQGSIMTEPQITQVNQRVKELLTLIRSDAVALVDAFDFQDVTLGSVLGRYDGNVYENLFEWAKNSPLNKAEVHESYKHLKSLQSKL
+PTM	Acetylation:196,216,241,255,260,267,313,437,446,500,504,542,549,643,651,654;Methylation:72,182,196,500,537,545,549,637;Phosphorylation:11,13,20,26,30,57,60,127,275,460,629,639;Ubiquitylation:29,122,260,295,637

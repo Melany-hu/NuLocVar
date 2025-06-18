@@ -1,0 +1,25 @@
+UniprotID	Q96BY9-2
+Accession	Q96BY9;B3KQQ4;B7Z9J1;D3DSU7;H9MHJ8;H9MHJ9;Q53HE8;Q9UNZ3;Q9Y683
+EntryName	SARAF_HUMAN
+ProteinName	Store-operated calcium entry-associated regulatory factor (SARAF) (SOCE-associated regulatory factor) (HBV X-transactivated gene 3 protein) (HBV XAg-transactivated protein 3) (Protein FOAP-7) (Transmembrane protein 66)
+GeneName	SARAF TMEM66 XTP3 HSPC035 NPD003 PSEC0019 UNQ1967/PRO4499
+Length	167
+Function	Negative regulator of store-operated Ca(2+) entry (SOCE) involved in protecting cells from Ca(2+) overfilling. In response to cytosolic Ca(2+) elevation after endoplasmic reticulum Ca(2+) refilling, promotes a slow inactivation of STIM (STIM1 or STIM2)-dependent SOCE activity: possibly act by facilitating the deoligomerization of STIM to efficiently turn off ORAI when the endoplasmic reticulum lumen is filled with the appropriate Ca(2+) levels, and thus preventing the overload of the cell with excessive Ca(2+) ions.
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGLITIVVLLGIAFVVYKLFLSDGQYSPPPYSEYPPFSHRYQRFTNSAGPPPPGFKSEFTGPQNTGHGATSGFGSAFTGQQGYENSGPGFWTGLGTGGILGYLFGSNRAATPFSDSWYYPSYPPSYPGTWNRAYSPLHGGSGSYSVCSNSDTKTRTASGYGGTRRR
+PTM	Phosphorylation:149,307,308,316,323,327;SUMOylation:43,65,79;Ubiquitylation:43,65,79,86,106,109,145,326

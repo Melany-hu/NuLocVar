@@ -1,0 +1,25 @@
+UniprotID	Q8NFX7-3
+Accession	Q8NFX7;D3DS78;Q8N3H1;Q8N8D5;Q96GF3;Q9P008
+EntryName	STXB6_HUMAN
+ProteinName	Syntaxin-binding protein 6 (Amisyn)
+GeneName	STXBP6 HSPC156
+Length	108
+Function	Forms non-fusogenic complexes with SNAP25 and STX1A and may thereby modulate the formation of functional SNARE complexes and exocytosis.
+Subcellular Location	Cytoplasm; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSACFLDTRRAAFLQCDLPSSYRILTLPESGHCGSAEPVSDAPALLLSGNSILHSAADSVTSAVQKASQALNERGERLGRAEEKTEDLKNSAQQFAETAHKLAMKHKC
+PTM	Methylation:168;Phosphorylation:153;SUMOylation:186,191;Ubiquitylation:9,26,56,64,66

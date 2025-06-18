@@ -1,0 +1,25 @@
+UniprotID	Q5FC05
+Accession	Q5FC05
+EntryName	Q5FC05_HUMAN
+ProteinName	IL6ST nirs variant 3 (Interleukin 6 cytokine family signal transducer)
+GeneName	IL6ST
+Length	203
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLQTWLVQALFIFLTTESTGELLDPCGYISPESPVVQLHSNFTAVCVLKEKLKPNPPHNLSVINSEELSSILKLTWTNPSIKSVIILKYNIQYRTKDASTWSQIPPEDTASTRSSFTVQDLKPFTEYVFRIRCMKEDGKGYWSDWSEEASGITYEDKLKNTSGLMFQILQRVILPSGHLTLLQGTILIQKIKCIQMAISLM
+PTM	

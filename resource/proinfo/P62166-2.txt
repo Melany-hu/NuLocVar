@@ -1,0 +1,25 @@
+UniprotID	P62166-2
+Accession	P62166;E9PAY3;P36610;Q9UK26
+EntryName	NCS1_HUMAN
+ProteinName	Neuronal calcium sensor 1 (NCS-1) (Frequenin homolog) (Frequenin-like protein) (Frequenin-like ubiquitous protein)
+GeneName	NCS1 FLUP FREQ
+Length	172
+Function	Neuronal calcium sensor, regulator of G protein-coupled receptor phosphorylation in a calcium dependent manner. Directly regulates GRK1 (RHOK), but not GRK2 to GRK5. Can substitute for calmodulin (By similarity). Stimulates PI4KB kinase activity (By similarity). Involved in long-term synaptic plasticity through its interaction with PICK1 (By similarity). May also play a role in neuron differentiation through inhibition of the activity of N-type voltage-gated calcium channel (By similarity).
+Subcellular Location	Golgi apparatus; Postsynaptic density; Cytoplasm; Perinuclear region; Cytoplasm; Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATITEKEVQQWYKGFIKDCPSGQLDAAGFQKIYKQFFPFGDPTKFATFVFNVFDENKDGRIEFSEFIQALSVTSRGTLDEKLRWAFKLYDLDNDGYITRNEMLDIVDAIYQMVGNTVELPEEENTPEKRVDRIFAMMDKNADGKLTLQEFQEGSKADPSIVQALSLYDGLV
+PTM	Phosphorylation:115,144;Ubiquitylation:19,25,50,53,158,163

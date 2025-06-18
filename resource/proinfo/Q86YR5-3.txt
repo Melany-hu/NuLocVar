@@ -1,0 +1,25 @@
+UniprotID	Q86YR5-3
+Accession	Q86YR5;A9Z1X4;B1B0W3;Q86SR5;Q969T1;Q9UFS8
+EntryName	GPSM1_HUMAN
+ProteinName	G-protein-signaling modulator 1 (Activator of G-protein signaling 3)
+GeneName	GPSM1 AGS3
+Length	457
+Function	Guanine nucleotide dissociation inhibitor (GDI) which functions as a receptor-independent activator of heterotrimeric G-protein signaling. Keeps G(i/o) alpha subunit in its GDP-bound form thus uncoupling heterotrimeric G-proteins signaling from G protein-coupled receptors. Controls spindle orientation and asymmetric cell fate of cerebral cortical progenitors. May also be involved in macroautophagy in intestinal cells. May play a role in drug addiction.
+Subcellular Location	Cytoplasm; Cytosol; Endoplasmic reticulum membrane; Golgi apparatus membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPAPPVADELPGPAARRLYSRMEASCLELALEGERLCKAGDFKTGVAFFEAAVQVGTEDLKTLSAIYSQLGNAYFYLKEHGRALEYHKHDLLLARTIGDRMGEAKASGNLGNTLKVLGRFDEAAVCCQRHLSIAQEQGDKVGEARALYNIGNVYHAKGKQLSWNAANATQDPGHLPPDVRETLCKASEFYERNLSLVKELGDRAAQGRAYGNLGNTHYLLGNFTEATTFHKERLAIAKEFGDKAAERRAYSNLGNAHVFLGRFDVAAEYYKKTLQLSRQLRDQAVEAQACYSLGNTYTLLQDYERAAEYHLRHLLIAQELADRVGEGRACWSLGNAYVSMGRPAQALTFAKKHLQISQEIGDRHGELTARMNVAQLQLVLGRLTSPAASEKPDLAGYEAQGEFQGCGGVLLPTGTDRIRSCGGVGSRPGQHGGGGSRQKMAPTSQFFLASGTAQA
+PTM	Methylation:117,200,245,325,344,421,439,479,504;Phosphorylation:88,134,150,212,230,252,271,272,311,359,386,387,409,413,445,469,471,475,485,486,492,493,541,543,545,548,569,572,581;SUMOylation:107,117,240,454,643;Ubiquitylation:40,45,90,107,117,142,159,187,200,233,240,245,273,274,353,354,393,504

@@ -1,0 +1,25 @@
+UniprotID	Q9NZJ0-2
+Accession	Q9NZJ0;A8K8H8;D3DT98;Q5VT77;Q96SN0;Q9NW03;Q9NW34;Q9NWM5
+EntryName	DTL_HUMAN
+ProteinName	Denticleless protein homolog (DDB1- and CUL4-associated factor 2) (Lethal(2) denticleless protein homolog) (Retinoic acid-regulated nuclear matrix-associated protein)
+GeneName	DTL CDT2 CDW1 DCAF2 L2DTL RAMP
+Length	211
+Function	Substrate-specific adapter of a DCX (DDB1-CUL4-X-box) E3 ubiquitin-protein ligase complex required for cell cycle control, DNA damage response and translesion DNA synthesis. The DCX(DTL) complex, also named CRL4(CDT2) complex, mediates the polyubiquitination and subsequent degradation of CDT1, CDKN1A/p21(CIP1), FBH1, KMT5A and SDE2 (PubMed:16861906, PubMed:16949367, PubMed:16964240, PubMed:17085480, PubMed:18703516, PubMed:18794347, PubMed:18794348, PubMed:19332548, PubMed:20129063, PubMed:23478441, PubMed:23478445, PubMed:23677613, PubMed:27906959). CDT1 degradation in response to DNA damage is necessary to ensure proper cell cycle regulation of DNA replication (PubMed:16861906, PubMed:16949367, PubMed:17085480). CDKN1A/p21(CIP1) degradation during S phase or following UV irradiation is essential to control replication licensing (PubMed:18794348, PubMed:19332548). KMT5A degradation is also important for a proper regulation of mechanisms such as TGF-beta signaling, cell cycle progression, DNA repair and cell migration (PubMed:23478445). Most substrates require their interaction with PCNA for their polyubiquitination: substrates interact with PCNA via their PIP-box, and those containing the 'K+4' motif in the PIP box, recruit the DCX(DTL) complex, leading to their degradation. In undamaged proliferating cells, the DCX(DTL) complex also promotes the 'Lys-164' monoubiquitination of PCNA, thereby being involved in PCNA-dependent translesion DNA synthesis (PubMed:20129063, PubMed:23478441, PubMed:23478445, PubMed:23677613). The DDB1-CUL4A-DTL E3 ligase complex regulates the circadian clock function by mediating the ubiquitination and degradation of CRY1 (PubMed:26431207).
+Subcellular Location	Nucleus; Nucleus membrane; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	197..203
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	156...161
+validnes_region	
+nesbase_region	
+Sequence	MLFNSVLRQPQLGVLRNAPNMEHVLAVANEEGFVRLYNTESQSFRKKCFKEWMAHWNAVFDLAWVPGELKLVTAAGDQTAKFWDVKAGELIGTCKGHQCSLKSVAFSKFEKAVFCTGGRDGNIMVWDTRCNKKDGFYRQVNQISGAHNTSDKQTPSKPKKKQNSKGLAPSVDFQQSVTVVLFQDENTLVSAGAVDGIFKSDFGFHWLYFIC
+PTM	Acetylation:432;Methylation:241,345,386,397,470,600;Phosphorylation:186,191,192,196,198,220,229,232,410,416,422,424,425,426,428,429,443,444,446,447,462,464,466,471,472,478,485,487,488,490,495,496,506,508,510,511,512,516,520,522,526,535,557,558,616,617,619,623,626,628,655,656,676,679,681,684,687,691,697,702,704,717;SUMOylation:123,128,137,144,150,153,175,194,199,260,271,375,386,397,402,412,413,414,432,470,492,498,523,529,537,564,607,610,660,669,671,694,708;Ubiquitylation:123,128,137,144,150,153,175,194,247,260,386,397,402,412,432,437,498,523,529,537,564,607,708

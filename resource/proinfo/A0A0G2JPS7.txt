@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JPS7
+Accession	A0A0G2JPS7
+EntryName	A0A0G2JPS7_HUMAN
+ProteinName	V-set and transmembrane domain containing 1
+GeneName	VSTM1
+Length	148
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LRSRQGPTRLPRLECSGAITAHCSLDLPGPDKHDELEAPSMKTDTRTIFVAIFSCISILLLFLSVFIIYRCSQHSSSSEESTKRTSHSKLPEQEAAEADLSNMERVSLSTADPQGVTYAELSTSALSEAASDTTQEPPGSHEYAALKV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43759-3
+Accession	O43759;A6NP69;A8K0E2;O43757;O43758;Q53Y02;Q96J56;Q9UGZ4
+EntryName	SNG1_HUMAN
+ProteinName	Synaptogyrin-1
+GeneName	SYNGR1
+Length	192
+Function	May play a role in regulated exocytosis. Modulates the localization of synaptophysin/SYP into synaptic-like microvesicles and may therefore play a role in synaptic-like microvesicle formation and/or maturation (By similarity). Involved in the regulation of short-term and long-term synaptic plasticity (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLEFGILEFDPSWIGSWTQRSWVSWRSRPGCELFSIVVFGSIVNEGYLNSASEGEEFCIYNRNPNACSYGVAVGVLAFLTCLLYLALDVYFPQISSVKDRKKAVLSDIGVSAFWAFLWFVGFCYLANQWQVSKPKDNPLNEGTDAARAAIAFSFFSIFTWSLTAALAVRRFKDLSFQEEYSTLFPASAQP
+PTM	Ubiquitylation:10

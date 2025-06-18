@@ -1,0 +1,25 @@
+UniprotID	Q3KPI0-2
+Accession	Q3KPI0;B7WNQ6;O75296;Q6UY47;Q96ER7
+EntryName	CEA21_HUMAN
+ProteinName	Cell adhesion molecule CEACAM21 (Carcinoembryonic antigen-related cell adhesion molecule 21) (CEA cell adhesion molecule 21)
+GeneName	CEACAM21 UNQ3098/PRO10075
+Length	292
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPPSACPHRECIPWQGLLLTASLLTFWNAPTTAWLFIASAPFEVAEGENVHLSVVYLPENLYSYGWYKGKTVEPNQLIAAYVIDTHVRTPGPAYSGRETISPSGDLHFQNVTLEDTGYYNLQVTYRNSQIEQASHHLRVYESVAQPSIQASSTTVTEKGSVVLTCHTNNTGTSFQWIFNNQRLQVTKRMKLSWFNHVLTIDPIRQEDAGEYQCEVSNPVSSNRSDPLKLTVKYDNTLGILIGVLVGSLLVAALVCFLLLRKTGRASDQSDFREQQPPASTPGHGPSDSSIS
+PTM	Methylation:263;Phosphorylation:264

@@ -1,0 +1,25 @@
+UniprotID	Q8WVI7-2
+Accession	Q8WVI7;Q5HYJ5;Q8TD54
+EntryName	PPR1C_HUMAN
+ProteinName	Protein phosphatase 1 regulatory subunit 1C (Inhibitor-5 of protein phosphatase 1) (IPP5)
+GeneName	PPP1R1C
+Length	116
+Function	May increase cell susceptibility to TNF-induced apoptosis.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPNSPKKIQFAVPVFQSQIAPEAAEQLGFCRSQIRKRRPTPASLVILNEHNPPEIDDKRGPNTQGELQNASPKQRKQSVYTPPTIKGVKHLKGQNESAFPEEEEGTNEREEQRDH
+PTM	Methylation:52;Phosphorylation:5,34,65,72

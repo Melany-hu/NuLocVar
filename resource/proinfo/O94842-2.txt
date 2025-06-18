@@ -1,0 +1,25 @@
+UniprotID	O94842-2
+Accession	O94842;B4DPY8;B4DSM0;E7EV69
+EntryName	TOX4_HUMAN
+ProteinName	TOX high mobility group box family member 4 (Epidermal Langerhans cell protein LCP1)
+GeneName	TOX4 C14orf92 KIAA0737
+Length	598
+Function	Transcription factor that modulates cell fate reprogramming from the somatic state to the pluripotent and neuronal fate (By similarity). Component of the PTW/PP1 phosphatase complex, which plays a role in the control of chromatin structure and cell cycle progression during the transition from mitosis into interphase (PubMed:20516061). In liver, controls the expression of hormone-regulated gluconeogenic genes such as G6PC1 and PCK1. This regulation is independent of the insulin receptor activation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	213..218
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	191...196
+validnes_region	
+nesbase_region	
+Sequence	METFHTPSLGDEEFEIPPISLDSDPSLAVSDVVGHFDDLADPSSSQDGSFSAQYGVQTLDMPVGMTHGLMEQGGGLLSGGLTMDLDHSIGTQYSANPPVTIDVPMTDMTSGLMGHSQLTTIDQSELSSQLGLSLGGGTILPPAQSPEDRLSTTPSPTSSLHEDGVEDFRRQLPSQKTVVVEAGKKQKAPKKRKKKDPNEPQKPVSAYALFFRDTQAAIKGQNPNATFGEVSKIVASMWDSLGEEQKQVYKRKTEAAKKEYLKALAAYKDNQECQATVETVELDPAPPSQTPSPPPMATVDPASPAPASIEPPALSPSIVVNSTLSSYVANQASSGAGGQPNITKLIITKQMLPSSITMSQGGMVTVIPATVVTSRGLQLGQTSTATIQPSQQAQIVTRSVLQAAAAAAAAASMQLPPPRLQPPPLQQMPQPPTQQQVTILQQPPPLQAMQQPPPQKVRINLQQQPPPLQIKSVPLPTLKMQTTLVPPTVESSPERPMNNSPEAHTVEAPSPETICEMITDVVPEVESPSQMDVELVSGSPVALSPQPRCVRSGCENPPIVSKDWDNEYCSNECVVKHCRDVFLAWVASRNSNTVVFVK
+PTM	Acetylation:199,207,225,599;Glycosylation:406;Methylation:255,367,372,481,585;Phosphorylation:174,175,176,178,180,181,182,283,377,378,393,396,397,511,515;Ubiquitylation:207,242,255,494,585

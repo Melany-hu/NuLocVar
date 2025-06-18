@@ -1,0 +1,25 @@
+UniprotID	H0YAN4
+Accession	H0YAN4
+EntryName	H0YAN4_HUMAN
+ProteinName	La ribonucleoprotein 1, translational regulator
+GeneName	LARP1
+Length	150
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRGGQKKKGNKHKWVPLQIDMKPEVPREKLASRPTRPPEPRHIPANRGEIKGSESATYVPVAPPTPAWQPEIKPEPAWHDQDETSSVKSDGAAHFDYQFGYRKFDGVEGPRTPKYMNNITYYFDNVSSTELYSVDQELLKDYIKRQIEYY
+PTM	

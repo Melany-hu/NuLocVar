@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YE05
+Accession	A0A2R8YE05
+EntryName	A0A2R8YE05_HUMAN
+ProteinName	Tropomyosin 4
+GeneName	TPM4
+Length	226
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERARRIEGWNSNEAPPPRPTLAEGDVAALNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIENRAMKDEEKMEIQEMQLKEAKHIAEEADRKYEEVARKLVILEGELERAEERAEVSELKCGDLEEELKNVTNNLKSLEAASEKYSEKEDKYEEEIKLLSDKLKEAETRAEFAERTVAKLEKTIDDLEEKLAQAKEENVGLHQTLDQTLNELNCI
+PTM	

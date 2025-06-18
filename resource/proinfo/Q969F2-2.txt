@@ -1,0 +1,25 @@
+UniprotID	Q969F2-2
+Accession	Q969F2;Q96EK8;Q9BSN0
+EntryName	NKD2_HUMAN
+ProteinName	Protein naked cuticle homolog 2 (Naked-2) (hNkd2)
+GeneName	NKD2
+Length	311
+Function	Cell autonomous antagonist of the canonical Wnt signaling pathway. May activate a second Wnt signaling pathway that controls planar cell polarity (By similarity). Required for processing of TGFA and for targeting of TGFA to the basolateral membrane of polarized epithelial cells.
+Subcellular Location	Cell membrane; Cytoplasm; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKLQSKHAAAARKRRESPEGDSFVASAYASGRKGAEEAERRARDKQELPNGDPKEGPFREDQCPLQVALPAEKAEGREHPGQLLSADDGERAANREGPRGPGGQRLNIDALQCDVSVEEDDRQEWTFTLYDFDNCGKVTREDMSSLMHTIYEVVDASVNHSSGSSKTLRVKLTVSPEPSSKRKEGPPAGQDREPTRCRMEGELAEEPRVADRRLSAHVRRPSTDPQPCSERGPYCVDENTERRNHYLDLAGIENYTSRFGPGSQLCEKRSSAPRTHSGDKARGVGLCRELWSQAGHPQWPGPFPSGLVAV
+PTM	Methylation:7;Phosphorylation:18,23,27,117,163,176,216,223,224,230,235,247,264,284,286,291,299,333,394,405;SUMOylation:270;Ubiquitylation:182

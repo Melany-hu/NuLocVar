@@ -1,0 +1,25 @@
+UniprotID	Q29R61
+Accession	Q29R61
+EntryName	Q29R61_HUMAN
+ProteinName	PEX11A protein
+GeneName	PEX11A
+Length	205
+Function	
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSALFTRFTNQTQGRDRLFRATQYTCMLLRYLLEPKAGKEKVVMKLKKLESSVSTGRKWFRLGNVVHAIQATEQSIHATDLVPRLCLTLANLNRVIYFICDTILWVRSVGLTSGINKEKWRTRAAHHYYYSLLLSLVRDLYEISLQMKRVTCDRAKKEKSASQDPLWFSVAEEETEWLQSFLLLLFRSLKQHPPLLLDTVKIEV
+PTM	

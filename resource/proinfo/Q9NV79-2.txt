@@ -1,0 +1,25 @@
+UniprotID	Q9NV79-2
+Accession	Q9NV79;E1P5H3;Q8IW60;Q9H4K2
+EntryName	PCMD2_HUMAN
+ProteinName	Protein-L-isoaspartate O-methyltransferase domain-containing protein 2
+GeneName	PCMTD2 C20orf36
+Length	334
+Function	May act as a substrate recognition component of an ECS (Elongin BC-CUL5-SOCS-box protein) E3 ubiquitin ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. May bind to the methyltransferase cofactor S-adenosylmethionine (AdoMet) via the N-terminal AdoMet binding motif, but probably does not display methyltransferase activity.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGAVSAGEDNDELIDNLKEAQYIRTELVEQAFRAIDRADYYLEEFKENAYKDLAWKHGNIHLSAPCIYSEVMEALDLQPGLSFLNLGSGTGYLSSMVGLILGPFGVNHGVELHSDVIEYAKQKLDFFIRTSDSFDKFDFCEPSFVTGNCLEISPDCSQYDRVYCGAGVQKEHEEYMKNLLKVGGILVMPLEEKPCHSESGKSRLVQLPPVAVRSLQDLARIAIRGTIKKIIHQETVSKNGNGLKNTPRFKRRRVRRRRMETIVFLDKEVFASRISNPSDDNSCEDLEEERREEEEKTPPETKPDPPVNFLRQKVLSLPLPDPLKYYLLYYREK
+PTM	Acetylation:229;Methylation:19,182,256;Phosphorylation:227,274,306,310;SUMOylation:178,194;Ubiquitylation:194,197,295

@@ -1,0 +1,25 @@
+UniprotID	Q9GZT3-2
+Accession	Q9GZT3;J3KMY7
+EntryName	SLIRP_HUMAN
+ProteinName	SRA stem-loop-interacting RNA-binding protein, mitochondrial
+GeneName	SLIRP C14orf156 DC23 DC50 PD04872
+Length	107
+Function	RNA-binding protein that acts as a nuclear receptor corepressor. Probably acts by binding the SRA RNA, and repressing the SRA-mediated nuclear receptor coactivation. Binds the STR7 loop of SRA RNA. Also able to repress glucocorticoid (GR), androgen (AR), thyroid (TR) and VDR-mediated transactivation.
+Subcellular Location	Mitochondrion; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASAARGAAALRRSINQPVAFVRRIPWTAASSQLKEHFAQFGHVRRCILPFDKETGFHRGLGWVQFSSEEGLRNALQQENHIIDGVKVHTRRPKLPQTSDDEKKDF
+PTM	Acetylation:36,54,106,107;Methylation:7,46,88;Phosphorylation:15,68,69,101,102;Ubiquitylation:107

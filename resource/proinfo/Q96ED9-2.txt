@@ -1,0 +1,25 @@
+UniprotID	Q96ED9-2
+Accession	Q96ED9;O60562
+EntryName	HOOK2_HUMAN
+ProteinName	Protein Hook homolog 2 (h-hook2) (hHK2)
+GeneName	HOOK2
+Length	717
+Function	Component of the FTS/Hook/FHIP complex (FHF complex). The FHF complex may function to promote vesicle trafficking and/or fusion via the homotypic vesicular protein sorting complex (the HOPS complex). Contributes to the establishment and maintenance of centrosome function. May function in the positioning or formation of aggresomes, which are pericentriolar accumulations of misfolded proteins, proteasomes and chaperones. FHF complex promotes the distribution of AP-4 complex to the perinuclear area of the cell (PubMed:32073997).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoplasm; Cytoskeleton; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVDKAELCGSLLTWLQTFHVPSPCASPQDLSSGLAVAYVLNQIDPSWFNEAWLQGISEDPGPNWKLKVSNLKMVLRSLVEYSQDVLAHPVSEEHLPDVSLIGEFSDPAELGKLLQLVLGCAISCEKKQDHIQRIMTLEESVQHVVMEAIQELMTKDTPDSLSPETYGNFDSQSRRYYFLSEEAEEGDELQQRCLDLERQLMLLSEEKQSLAQENAGLRERMGRPEGEGTPGLTAKKLLLLQSQLEQLQEENFRLESGREDERLRCAELEREVAELQHRNQALTSLAQEAQALKDEMDELRQSSERAGQLEATLTSCRRRLGELRELRRQVRQLEERNAGHAERTRQLEDELRRAGSLRAQLEAQRRQVQELQGQRQEEAMKAEKWLFECRNLEEKYESVTKEKERLLAERDSLREANEELRCAQLQPRGLTQADPSLDPTSTPVDNLAAEILPAELRETLLRLQLENKRLCRQEAADRERQEELQRHLEDANRARHGLETQHRLNQQQLSELRAQVEDLQKALQEQGGKTEDSILLKRKLEEHLQKLHEADLELQRKREYIEELEPPTDSSTARRIEELQHNLQKKDADLRAMEERYRRYVDKARMVMQTMEPKQRPAAGAPPELHSLRTQLRERDVRIRHLEMDFEKSRSQREQEEKLLISAWYNMGMALQQRAGEERAPAHAQSFLAQQRLATNSRRGPLGRLASLNLRPTDKH
+PTM	Acetylation:236;Methylation:113,294,469,522,540,549,651;Phosphorylation:141,155,158,161,163,167,181,210,230,313,315,316,401,443,571,574,575,613,710;SUMOylation:294;Ubiquitylation:68

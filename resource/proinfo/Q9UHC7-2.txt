@@ -1,0 +1,25 @@
+UniprotID	Q9UHC7-2
+Accession	Q9UHC7;A4D1T7;B3KXB4;Q256Y7;Q59G11;Q6GSF1;Q9H0G0;Q9UEZ7;Q9UHW2
+EntryName	MKRN1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase makorin-1 (EC 2.3.2.27) (RING finger protein 61) (RING-type E3 ubiquitin transferase makorin-1)
+GeneName	MKRN1 RNF61
+Length	418
+Function	E3 ubiquitin ligase catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins. These substrates include FILIP1, p53/TP53, CDKN1A and TERT. Keeps cells alive by suppressing p53/TP53 under normal conditions, but stimulates apoptosis by repressing CDKN1A under stress conditions. Acts as a negative regulator of telomerase. Has negative and positive effects on RNA polymerase II-dependent transcription.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHGVCKEGDNCRYSHDLSDSPYSVVCKYFQRGYCIYGDRCRYEHSKPLKQEEATATELTTKSSLAASSSLSSIVGPLVEMNTGEAESRNSNFATVGAGSEDWVNAIEFVPGQPYCGRTAPSCTEAPLQGSVTKEESEKEQTAVETKKQLCPYAAVGECRYGENCVYLHGDSCDMCGLQVLHPMDAAQRSQHIKSCIEAHEKDMELSFAVQRSKDMVCGICMEVVYEKANPSERRFGILSNCNHTYCLKCIRKWRSAKQFESKIIKSCPECRITSNFVIPSEYWVEEKEEKQKLILKYKEAMSNKACRYFDEGRGSCPFGGNCFYKHAYPDGRREEPQRQKVGTSSRYRAQRRNHFWELIEERENSNPFDNDEEEVVTFELGEMLLMLLAAGGDDELTDSEDEWDLFHDELEDFYDLDL
+PTM	Acetylation:321;Methylation:360;Phosphorylation:6,109,131,132,133,135;SUMOylation:113,197,329;Ubiquitylation:70,110,113,197,202,210,211,265,277,312,321,326,351,360,362,389,404

@@ -1,0 +1,25 @@
+UniprotID	H7C263
+Accession	H7C263
+EntryName	H7C263_HUMAN
+ProteinName	REV1 DNA directed polymerase
+GeneName	REV1
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFLLSLSEEIQRRLEATGMKGKRLTLKIMVRKPGAPVETAKFGGHGICDNIARTVTLDQATDNAKIIGKAMLNMFHTMKLNISDMRGSPISSVKPLS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9GZW2
+Accession	Q9GZW2
+EntryName	Q9GZW2_HUMAN
+ProteinName	Ribosomal protein L10, isoform CRA_a (cDNA: FLJ23544 fis, clone LNG08336)
+GeneName	RPL10 hCG_2008007
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAENNCGVEPPPCGGPVLGTDPMFYTSRLFFSLQYYCLFLRSRVGVEATVPSYLCLCPASSPHFRALDTLLGPLCAFSVLFPGDVPRALSDVKGSPGKTGAAASCVLQGAPDAFPLGLEVDLVPRARKS
+PTM	

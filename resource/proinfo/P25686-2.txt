@@ -1,0 +1,25 @@
+UniprotID	P25686-2
+Accession	P25686;A8K9P6;Q53QD7;Q8IUK1;Q8IUK2;Q96F52
+EntryName	DNJB2_HUMAN
+ProteinName	DnaJ homolog subfamily B member 2 (Heat shock 40 kDa protein 3) (Heat shock protein J1) (HSJ-1)
+GeneName	DNAJB2 HSJ1 HSPF3
+Length	277
+Function	Functions as a co-chaperone, regulating the substrate binding and activating the ATPase activity of chaperones of the HSP70/heat shock protein 70 family (PubMed:22219199, PubMed:7957263). In parallel, also contributes to the ubiquitin-dependent proteasomal degradation of misfolded proteins (PubMed:15936278, PubMed:21625540). Thereby, may regulate the aggregation and promote the functional recovery of misfolded proteins like HTT, MC4R, PRKN, RHO and SOD1 and be crucial for many biological processes (PubMed:12754272, PubMed:20889486, PubMed:21719532, PubMed:22396390, PubMed:24023695). Isoform 1 which is localized to the endoplasmic reticulum membranes may specifically function in ER-associated protein degradation of misfolded proteins (PubMed:15936278).
+Subcellular Location	Cytoplasm; Nucleus; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASYYEILDVPRSASADDIKKAYRRKALQWHPDKNPDNKEFAEKKFKEVAEAYEVLSDKHKREIYDRYGREGLTGTGTGPSRAEAGSGGPGFTFTFRSPEEVFREFFGSGDPFAELFDDLGPFSELQNRGSRHSGPFFTFSSSFPGHSDFSSSSFSFSPGAGAFRSVSTSTTFVQGRRITTRRIMENGQERVEVEEDGQLKSVTINGVPDDLALGLELSRREQQPSVTSRSGGTQVQQTPASCPLDSDLSEDEDLQLAMAYSLSEMEAAGKKPADVF
+PTM	Methylation:21,129,201,271,288;Phosphorylation:3,4,5,15,65,87,98,168,169,170,171,172,247,250,299,308,311,313;Ubiquitylation:20,26,34,39,44,47,59,61,201,288,309

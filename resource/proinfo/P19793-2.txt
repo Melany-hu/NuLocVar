@@ -1,0 +1,25 @@
+UniprotID	P19793-2
+Accession	P19793;B3KY83;Q2NL52;Q2V504
+EntryName	RXRA_HUMAN
+ProteinName	Retinoic acid receptor RXR-alpha (Nuclear receptor subfamily 2 group B member 1) (Retinoid X receptor alpha)
+GeneName	RXRA NR2B1
+Length	365
+Function	Receptor for retinoic acid that acts as a transcription factor (PubMed:10874028, PubMed:11162439, PubMed:11915042, PubMed:37478846). Forms homo- or heterodimers with retinoic acid receptors (RARs) and binds to target response elements in response to their ligands, all-trans or 9-cis retinoic acid, to regulate gene expression in various biological processes (PubMed:10195690, PubMed:11162439, PubMed:11915042, PubMed:16107141, PubMed:17761950, PubMed:18800767, PubMed:19167885, PubMed:28167758, PubMed:37478846). The RAR/RXR heterodimers bind to the retinoic acid response elements (RARE) composed of tandem 5'-AGGTCA-3' sites known as DR1-DR5 to regulate transcription (PubMed:10195690, PubMed:11162439, PubMed:11915042, PubMed:17761950, PubMed:28167758). The high affinity ligand for retinoid X receptors (RXRs) is 9-cis retinoic acid (PubMed:1310260). In the absence of ligand, the RXR-RAR heterodimers associate with a multiprotein complex containing transcription corepressors that induce histone deacetylation, chromatin condensation and transcriptional suppression (PubMed:20215566). On ligand binding, the corepressors dissociate from the receptors and coactivators are recruited leading to transcriptional activation (PubMed:20215566, PubMed:37478846, PubMed:9267036). Serves as a common heterodimeric partner for a number of nuclear receptors, such as RARA, RARB and PPARA (PubMed:10195690, PubMed:11915042, PubMed:28167758, PubMed:29021580). The RXRA/RARB heterodimer can act as a transcriptional repressor or transcriptional activator, depending on the RARE DNA element context (PubMed:29021580). The RXRA/PPARA heterodimer is required for PPARA transcriptional activity on fatty acid oxidation genes such as ACOX1 and the P450 system genes (PubMed:10195690). Together with RARA, positively regulates microRNA-10a expression, thereby inhibiting the GATA6/VCAM1 signaling response to pulsatile shear stress in vascular endothelial cells (PubMed:28167758). Acts as an enhancer of RARA binding to RARE DNA element (PubMed:28167758). May facilitate the nuclear import of heterodimerization partners such as VDR and NR4A1 (PubMed:12145331, PubMed:15509776). Promotes myelin debris phagocytosis and remyelination by macrophages (PubMed:26463675). Plays a role in the attenuation of the innate immune system in response to viral infections, possibly by negatively regulating the transcription of antiviral genes such as type I IFN genes (PubMed:25417649). Involved in the regulation of calcium signaling by repressing ITPR2 gene expression, thereby controlling cellular senescence (PubMed:30216632).
+Subcellular Location	Nucleus; Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	83...87
+validnes_region	
+nesbase_region	
+Sequence	MNPVSSSEDIKPPLGLNGVLKVPAHPSGNMASFTKHICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLIDKRQRNRCQYCRYQKCLAMGMKREAVQEERQRGKDRNENEVESTSSANEDMPVERILEAELAVEPKTETYVEANMGLNPSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVILLRAGWNELLIASFSHRSIAVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDMQMDKTELGCLRAIVLFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLLRLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT
+PTM	Acetylation:417;Methylation:118,160,181,321,356,431;Phosphorylation:13,17,18,20,21,23,129,150,259,260,312,314,355;SUMOylation:4,108,245,417;Ubiquitylation:381,417

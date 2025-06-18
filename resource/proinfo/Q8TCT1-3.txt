@@ -1,0 +1,25 @@
+UniprotID	Q8TCT1-3
+Accession	Q8TCT1;E9PAM0;Q17RU6
+EntryName	PHOP1_HUMAN
+ProteinName	Phosphoethanolamine/phosphocholine phosphatase (EC 3.1.3.75)
+GeneName	PHOSPHO1
+Length	292
+Function	Phosphatase that has a high activity toward phosphoethanolamine (PEA) and phosphocholine (PCho) (PubMed:15175005). Involved in the generation of inorganic phosphate for bone mineralization (By similarity). Acts in a non-redundant manner with PHOSPHO1 in skeletal mineralization: while PHOSPHO1 mediates the initiation of hydroxyapatite crystallization in the matrix vesicles (MVs), ALPL/TNAP catalyzes the spread of hydroxyapatite crystallization in the extracellular matrix (By similarity).
+Subcellular Location	Extracellular vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCQRLWPWPANQPLPGGLLPRPLSLAPSSSSSCCSPPCSQDGRMAAQGAPRFLLTFDFDETIVDENSDDSIVRAAPGQRLPESLRATYREGFYNEYMQRVFKYLGEQGVRPRDLSAIYEAIPLSPGMSDLLQFVAKQGACFEVILISDANTFGVESSLRAAGHHSLFRRILSNPSGPDARGLLALRPFHTHSCARCPANMCKHKVLSDYLRERAHDGVHFERLFYVGDGANDFCPMGLLAGGDVAFPRRGYPMHRLIQEAQKAEPSSFRASVVPWETAADVRLHLQQVLKSC
+PTM	Phosphorylation:140,182,184,226;Ubiquitylation:237

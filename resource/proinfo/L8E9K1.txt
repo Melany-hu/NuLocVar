@@ -1,0 +1,25 @@
+UniprotID	L8E9K1
+Accession	L8E9K1
+EntryName	L8E9K1_HUMAN
+ProteinName	Alternative protein DIS3L
+GeneName	DIS3L
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLSATGKRRVHGEVADQEHIQRSCLVLSSLPGQDANCYGDRR
+PTM	

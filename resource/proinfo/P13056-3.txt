@@ -1,0 +1,25 @@
+UniprotID	P13056-3
+Accession	P13056;A8K5K4;Q15625;Q15626
+EntryName	NR2C1_HUMAN
+ProteinName	Nuclear receptor subfamily 2 group C member 1 (Orphan nuclear receptor TR2) (Testicular receptor 2)
+GeneName	NR2C1 TR2
+Length	483
+Function	Orphan nuclear receptor. Binds the IR7 element in the promoter of its own gene in an autoregulatory negative feedback mechanism. Primarily repressor of a broad range of genes. Binds to hormone response elements (HREs) consisting of two 5'-AGGTCA-3' half site direct repeat consensus sequences. Together with NR2C2, forms the core of the DRED (direct repeat erythroid-definitive) complex that represses embryonic and fetal globin transcription. Also activator of OCT4 gene expression. May be involved in stem cell proliferation and differentiation. Mediator of retinoic acid-regulated preadipocyte proliferation.
+Subcellular Location	Nucleus; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATIEEIAHQIIEQQMGEIVTEQQTGQKIQIVTALDHNTQGKQFILTNHDGSTPSKVILARQDSTPGKVFLTTPDAAGVNQLFFTTPDLSAQHLQLLTDNSPDQGPNKVFDLCVVCGDKASGRHYGAVTCEGCKGFFKRSIRKNLVYSCRGSKDCIINKHHRNRCQYCRLQRCIAFGMKQDSVQCERKPIEVSREKSSNCAASTEKIYIRKDLRSPLTATPTFVTDSESTRSTGLLDSGMFMNIHPSGVKTESAVLMTSDKAESCQGDLSTLANVVTSLANLGKTKDLSQNSNEMSMIESLSNDDTSLCEFQEMQTNGDVSRAFDTLAKALNPGESTACQSSVAGMEGSVHLITGDSSINYTEKEGPLLSDSHVAFRLTMPSPMPEYLNVHYIGESASRLLFLSMHWALSIPSFQALGQENSISLVKAYWNELFTLGLAQCWQVMNVATILATFVNCLHNSLQQDAKVIAALIHFTRRAITDL
+PTM	Acetylation:56;Methylation:138,143,159,427,503,523;Phosphorylation:21,52,53,64,101,140,203,215,218,220,247,424,509;SUMOylation:42,56,153,188,250,588;Ubiquitylation:119,538

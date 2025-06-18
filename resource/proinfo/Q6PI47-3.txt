@@ -1,0 +1,25 @@
+UniprotID	Q6PI47-3
+Accession	Q6PI47;Q53T21;Q6NW26;Q6PCD8;Q8N9B7;Q96N73
+EntryName	KCD18_HUMAN
+ProteinName	BTB/POZ domain-containing protein KCTD18
+GeneName	KCTD18
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDEVGAHKPLDSLILDQNLSVNAEGKLGRCFHELLKLYMWKMTRFCISRRLITFNEADESVNYKTGPKPVRFLGPSTSTQIKVKNSASVTVSPASAIQTSAGATANRFQSGSRRKAAQRSAPSRATALVGTGAPGHPQASPGAASAENGGTHLPPAKVLLSDKKPTPQRVIKLKRTPLCATAPCLPSPTATRQANSLKPLPGEAARALGVRTENGKNKGN
+PTM	Methylation:175;Phosphorylation:115,245,259,294,296,298,301,329,337,346,367,372,393;SUMOylation:5,49;Ubiquitylation:220,363,369

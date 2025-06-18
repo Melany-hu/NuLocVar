@@ -1,0 +1,25 @@
+UniprotID	Q9BXJ8-2
+Accession	Q9BXJ8;Q86TE9;Q8N6P1
+EntryName	TACAN_HUMAN
+ProteinName	Transmembrane protein 120A (Protein TACAN) (Transmembrane protein induced by tumor necrosis factor alpha)
+GeneName	TMEM120A TACAN TMPIT
+Length	322
+Function	Multifunctional protein involved in mechanosensation, and plays an essential role in lipid metabolism and adipocyte differentiation (PubMed:26024229, PubMed:36420836). May function as a potential ion channel involved in sensing mechanical stimuli (PubMed:35235791). Mediates the mechanosensitivity of the PKD2-TMEM120A channel complex through direct physical interaction (PubMed:36420836). TMEM120A seems to affect mechanosensation by inhibiting PIEZO2 channels, possibly by altering cellular lipid content (By similarity). TMEM120A is structurally similar to a lipid-modifying enzyme, ELOVL7, and contains a bound coenzyme A molecule, which suggests it might function as an enzyme in lipid metabolism (PubMed:34374645, PubMed:34409941, PubMed:34465718). Additionnaly, implicated in innate immune response against Zika virus. Acts as a key activator of the antiviral signaling involving STING1 (PubMed:35013224).
+Subcellular Location	Cell membrane; Nucleus inner membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQPPPPGPLGDCLRDWEDLQQDFQNIQETHRLYRLKLEELTKLQNNCTSSITRQKKRLQELALALKKCKPSLPAEAEGAAQELENQMKERQGLFFDMEAYLPKKNGLYLSLVLGNVNVTLLSKQAKFAYKDEYEKFKLYLTIILILISFTCRFLLNSRVTDAAFNFLLVWYYCTLTIRESILINNGSRWAGRALREGSMEWGARTLREAGTGAGGDGGSLLQDQRLVGVPSLRVHLPVGSHADVVRRSHVPEIPEPIPLLFHVPELRAVSPVLLPERLPLPPAGAGRAAHHGPHCGGLPVLDVAGPHLPAAFSFLWTLLAAF
+PTM	Acetylation:36;Methylation:66,123,135;Phosphorylation:52,122

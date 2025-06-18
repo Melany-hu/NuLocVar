@@ -1,0 +1,25 @@
+UniprotID	Q9NQ34-2
+Accession	Q9NQ34;Q7Z649
+EntryName	TMM9B_HUMAN
+ProteinName	Transmembrane protein 9B
+GeneName	TMEM9B C11orf15 UNQ712/PRO1375
+Length	124
+Function	Enhances production of pro-inflammatory cytokines induced by TNF, IL1B, and TLR ligands. Has a role in TNF activation of both the NF-kappaB and MAPK pathways.
+Subcellular Location	Lysosome membrane; Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVRGPDVEAYCLRCECKYEERSSVTIKVTIIIYLSILGLLLLYMVYLTLVEPILKRRLFGHAQLIQSDDDIGDHQPFANAHDVLARSRSRANVLNKVEYAQQRWKLQVQEQRKSVFDRHVVLS
+PTM	Methylation:171;Phosphorylation:100,142,164,174,189;Ubiquitylation:171,180

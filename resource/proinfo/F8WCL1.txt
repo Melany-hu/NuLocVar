@@ -1,0 +1,25 @@
+UniprotID	F8WCL1
+Accession	F8WCL1
+EntryName	F8WCL1_HUMAN
+ProteinName	Limb development membrane protein 1
+GeneName	LMBR1
+Length	38
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGQDEVSAREQHFHSQVRESTMNKKMKMPSSTGFRCF
+PTM	

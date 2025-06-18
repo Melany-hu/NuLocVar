@@ -1,0 +1,25 @@
+UniprotID	Q7KZN9-2
+Accession	Q7KZN9;A8K6I9;O60556;O75878;Q5TD00;Q5TD01;Q7Z3Q3;Q9NTN0
+EntryName	COX15_HUMAN
+ProteinName	Heme A synthase COX15 (HAS) (EC 1.17.99.9) (Cytochrome c oxidase assembly protein COX15 homolog)
+GeneName	COX15
+Length	388
+Function	Catalyzes the second reaction in the biosynthesis of heme A, a prosthetic group of mitochondrial cytochrome c oxidase (CcO) (PubMed:12474143). Heme A is synthesized from heme B by two sequential enzymatic reactions catalyzed by heme O synthase (HOS) and heme A synthase (HAS). HAS catalyzes the conversion of heme O to heme A by two successive hydroxylations of the methyl group at C8, in a reaction that involves matrix ferredoxin and ferredoxin reductase. The first hydroxylation forms heme I, the second hydroxylation results in an unstable dihydroxymethyl group, which spontaneously dehydrates, resulting in the formyl group of heme A (By similarity).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRLLFPPLRALKGRQYLPLLAPRAAPRAQCDCIRRPLRPGQYSTISEVALQSGRGTVSLPSKAAERVVGRWLLVCSGTVAGAVILGGVTRLTESGLSMVDWHLIKEMKPPTSQEEWEAEFQRYQQFPEFKILNHDMTLTEFKFIWYMEYSHRMWGRLVGLVYILPAAYFWRKGWLSRGMKGRVLALCGLVCFQGLLGWYMVKSGLEEKSDSHDIPRVSQYRLAAHLGSALVLYCASLWTSLSLLLPPHKLPETHQLLQLRRFAHGTAGLVFLTALSGAFVAGLDAGLVYNSFPKMGESWIPEDLFTFSPILRNVFENPTMVQFDHRILGITSVTAITVLYFLSRRIPLPRRTKMAAVTLLALAYTQGPVLFNFTFKISDLDEGIRNI
+PTM	Methylation:209;Phosphorylation:62,124,177;Ubiquitylation:63,209

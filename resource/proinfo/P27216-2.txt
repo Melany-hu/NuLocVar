@@ -1,0 +1,25 @@
+UniprotID	P27216-2
+Accession	P27216;Q9BQR5
+EntryName	ANX13_HUMAN
+ProteinName	Annexin A13 (Annexin XIII) (Annexin-13) (Intestine-specific annexin) (ISA)
+GeneName	ANXA13 ANX13
+Length	357
+Function	Binds to membranes enriched in phosphatidylserine or phosphatidylglycerol in a calcium-dependent manner (PubMed:27676605, PubMed:30610115). Half-maximal membrane binding requires about 60 uM calcium. Does not bind to membranes that lack phospholipids with an acidic headgroup (PubMed:27676605).
+Subcellular Location	Apical cell membrane; Cell membrane; Cytoplasmic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNRHSQSYTLSEGSQQLPKGDSQPSTVVQPLSHPSRNGEPEAPQPAKASSPQGFDVDRDAKKLNKACKGMGTNEAAIIEILSGRTSDERQQIKQKYKATYGKELEEVLKSELSGNFEKTALALLDRPSEYAARQLQKAMKGLGTDESVLIEVLCTRTNKEIIAIKEAYQRLFDRSLESDVKGDTSGNLKKILVSLLQANRNEGDDVDKDLAGQDAKDLYDAGEGRWGTDELAFNEVLAKRSYKQLRATFQAYQILIGKDIEEAIEEETSGDLQKAYLTLVRCAQDCEDYFAERLYKSMKGAGTDEETLIRIVVTRAEVDLQGIKAKFQEKYQKSLSDMVRSDTSGDFRKLLVALLH
+PTM	Acetylation:256;Methylation:53,69,78,125,218,234;Phosphorylation:10,70,73,115,238;Ubiquitylation:55,141,176

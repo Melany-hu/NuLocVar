@@ -1,0 +1,25 @@
+UniprotID	Q08999-2
+Accession	Q08999;B7Z913;Q15073;Q16084;Q8NE70;Q92812
+EntryName	RBL2_HUMAN
+ProteinName	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associated protein) (p130) (Retinoblastoma-related protein 2) (RBR-2) (pRb2)
+GeneName	RBL2 RB2
+Length	518
+Function	Key regulator of entry into cell division. Directly involved in heterochromatin formation by maintaining overall chromatin structure and, in particular, that of constitutive heterochromatin by stabilizing histone methylation. Recruits and targets histone methyltransferases KMT5B and KMT5C, leading to epigenetic transcriptional repression. Controls histone H4 'Lys-20' trimethylation. Probably acts as a transcription repressor by recruiting chromatin-modifying enzymes to promoters. Potent inhibitor of E2F-mediated trans-activation, associates preferentially with E2F5. Binds to cyclins A and E. Binds to and may be involved in the transforming capacity of the adenovirus E1A protein. May act as a tumor suppressor.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MISDDLVNSYHLLLCALDLVYGNALQCSNRKELVNPNFKGLSEDFHAKDSKPSSDPPCIIEKLCSLHDGLVLEAKGIKEHFWKPYIRKLYEKKLLKGKEENLTGFLEPGNFGESFKAINKAYEEYVLSVGNLDERIFLGEDAEEEIGTLSRCLNAGSGTETAERVQMKNILQQHFDKSKALRISTPLTGVRYIKENSPCVTPVSTATHSLSRLHTMLTGLRNAPSEKLEQILRTCSRDPTQAIANRLKEMFEIYSQHFQPDEDFSNCAKEIASKHFRFAEMLYYKVLESVIEQEQKRLGDMDLSGILEQDAFHRSLLACCLEVVTFSYKPPGNFPFITEIFDVPLYHFYKVIEVFIRAEDGLCREVVKHLNQIEEQILDHLAWKPESPLWEKIRDNENRVPTCEEVMPPQNLERADEICIAGSPRRIQLSQNHPVYISPHKNETMLSPREKIFYYFSNSPSKRLREINSMIRTGETPTKKRGILLEDGSESPAKRICPENHSALLRRLQDVANDRGSH
+PTM	Glycosylation:1063;Methylation:278,490,584,933,958,1015;Phosphorylation:3,8,21,40,111,113,115,364,366,373,400,401,404,408,413,417,420,421,423,425,427,434,603,639,642,647,659,661,662,664,665,667,671,672,688,690,694,861,941,948,952,954,961,962,965,966,971,972,973,974,981,982,986,988,995,1035,1042,1044,1051,1057,1059,1065,1068,1075,1076,1078,1080,1082,1094,1097,1099,1110,1112

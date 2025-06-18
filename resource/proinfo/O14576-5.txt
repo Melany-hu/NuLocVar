@@ -1,0 +1,25 @@
+UniprotID	O14576-5
+Accession	O14576;B4DME3;F5H050;G5E9K1;Q8TBF7;Q9Y2X1
+EntryName	DC1I1_HUMAN
+ProteinName	Cytoplasmic dynein 1 intermediate chain 1 (Cytoplasmic dynein intermediate chain 1) (Dynein intermediate chain 1, cytosolic) (DH IC-1)
+GeneName	DYNC1I1 DNCI1 DNCIC1
+Length	625
+Function	Acts as one of several non-catalytic accessory components of the cytoplasmic dynein 1 complex that are thought to be involved in linking dynein to cargos and to adapter proteins that regulate dynein function. Cytoplasmic dynein 1 acts as a motor for the intracellular retrograde motility of vesicles and organelles along microtubules. The intermediate chains mediate the binding of dynein to dynactin via its 150 kDa component (p150-glued) DCTN1. May play a role in mediating the interaction of cytoplasmic dynein with membranous organelles and kinetochores.
+Subcellular Location	Cytoplasm; Chromosome; Centromere; Kinetochore; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDKSDLKAELERKKQRLAQIREEKKRKEEERKKKEADMQQKKEPVQDDSDLDRKRRETEALLQSIGISPEPPLVQPLHFLTWDTCYFHYLVPTPMSPSSKSVSTPSEAGSQDSGDLGPLTRRRLHKLGVSKVTQVDFLPREVVSYSKETQTPLATHQSEEDEEDEEMVESKVGQDSELENQDKKQEVKEAPPRELTEEEKQQILHSEEFLIFFDRTIRVIERALAEDSDIFFDYSGRELEEKDGDVQAGANLSFNRQFYDEHWSKHRVVTCMDWSLQYPELMVASYNNNEDAPHEPDGVALVWNMKFKKTTPEYVFHCQSSVMSVCFARFHPNLVVGGTYSGQIVLWDNRSHRRTPVQRTPLSAAAHTHPVYCVNVVGTQNAHNLITVSTDGKMCSWSLDMLSTPQESMELVYNKSKPVAVTGMAFPTGDVNNFVVGSEEGTVYTACRHGSKAGIGEVFEGHQGPVTGINCHMAVGPIDFSHLFVTSSFDWTVKLWTTKHNKPLYSFEDNADYVYDVMWSPVHPALFACVDGMGRLDLWNLNNDTEVPTASVAIEGASALNRVRWAQAGKEVAVGDSEGRIWVYDVGELAVPHNDEWTRFARTLVEIRANRADSEEEGTVELSA
+PTM	Acetylation:25;Glycosylation:154;Methylation:263,591;Phosphorylation:50,102,104,105,107,154,170,172,176,179,197,217,449,459,463,466,635;SUMOylation:4

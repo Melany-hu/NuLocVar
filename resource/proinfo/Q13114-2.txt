@@ -1,0 +1,25 @@
+UniprotID	Q13114-2
+Accession	Q13114;B7Z8C4;Q12990;Q13076;Q13947;Q6AZX1;Q9UNL1
+EntryName	TRAF3_HUMAN
+ProteinName	TNF receptor-associated factor 3 (EC 2.3.2.27) (CD40 receptor-associated factor 1) (CRAF1) (CD40-binding protein) (CD40BP) (LMP1-associated protein 1) (LAP1) (RING-type E3 ubiquitin transferase TRAF3)
+GeneName	TRAF3 CAP-1 CRAF1 TRAFAMN
+Length	485
+Function	Cytoplasmic E3 ubiquitin ligase that regulates various signaling pathways, such as the NF-kappa-B, mitogen-activated protein kinase (MAPK) and interferon regulatory factor (IRF) pathways, and thus controls a lot of biological processes in both immune and non-immune cell types (PubMed:33148796, PubMed:33608556). In TLR and RLR signaling pathways, acts as an E3 ubiquitin ligase promoting the synthesis of 'Lys-63'-linked polyubiquitin chains on several substrates such as ASC that lead to the activation of the type I interferon response or the inflammasome (PubMed:25847972, PubMed:27980081). Following the activation of certain TLRs such as TLR4, acts as a negative NF-kappa-B regulator, possibly to avoid unregulated inflammatory response, and its degradation via 'Lys-48'-linked polyubiquitination is required for MAPK activation and production of inflammatory cytokines. Alternatively, when TLR4 orchestrates bacterial expulsion, TRAF3 undergoes 'Lys-33'-linked polyubiquitination and subsequently binds to RALGDS, mobilizing the exocyst complex to rapidly expel intracellular bacteria back for clearance (PubMed:27438768). Also acts as a constitutive negative regulator of the alternative NF-kappa-B pathway, which controls B-cell survival and lymphoid organ development. Required for normal antibody isotype switching from IgM to IgG. Plays a role T-cell dependent immune responses. Down-regulates proteolytic processing of NFKB2, and thereby inhibits non-canonical activation of NF-kappa-B. Promotes ubiquitination and proteasomal degradation of MAP3K14.
+Subcellular Location	Cytoplasm; Endosome; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESSKKMDSPGALQTNPPLKLHTDRSAGTPVFVPEQGGYKEKFVKTVEDKYKCEKCHLVLCSPKQTECGHRFCESCMAALLSSSSPKCTACQESIVKDKVFKDNCCKREILALQIYCRNESRGCAEQLMLGHLLVHLKNDCHFEELPCVRPDCKEKVLRKDLRDHVEKACKYREATCSHCKSQVPMIALQVSLLQNESVEKNKSIQSLHNQICSFEIEIERQKEMLRNNESKILHLQRVIDSQAEKLKELDKEIRPFRQNWEEADSMKSSVESLQNRVTELESVDKSAGQVARNTGLLESQLSRHDQMLSVHDIRLADMDLRFQVLETASYNGVLIWKIRDYKRRKQEAVMGKTLSLYSQPFYTGYFGYKMCARVYLNGDGMGKGTHLSLFFVIMRGEYDALLPWPFKQKVTLMLMDQGSSRRHLGDAFKPDPNSSSFKKPTGEMNIASGCPVFVAQTVLENGTYIKDDTIFIKVIVDTSDLPDP
+PTM	Acetylation:5;Methylation:50,138,160,191,249,264,272;Phosphorylation:9,15,26,29,84,85;Ubiquitylation:6,45,335,351,369,513

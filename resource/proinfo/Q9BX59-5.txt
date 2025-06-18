@@ -1,0 +1,25 @@
+UniprotID	Q9BX59-5
+Accession	Q9BX59;Q9NWB8
+EntryName	TPSNR_HUMAN
+ProteinName	Tapasin-related protein (TAPASIN-R) (TAP-binding protein-like) (TAP-binding protein-related protein) (TAPBP-R) (Tapasin-like)
+GeneName	TAPBPL
+Length	254
+Function	Component of the antigen processing and presentation pathway, which binds to MHC class I coupled with beta2-microglobulin/B2M. Association between TAPBPR and MHC class I occurs in the absence of a functional peptide-loading complex (PLC).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Microsome membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTQEGWCLLLCLALSGAAETKPHPAEGQWRAVDVVLDCFLAKDGAHRGALASSEDRARASLVLKQVPVLDDGSLEDFTDFQGGTLAQDDPPIIFEASVDLVQIPQAEALLHADCSGKEVTCEISRYFLQMTETTVKTAAWFMANMQVSGGGPSISLVMKTPRVTKNEALWHPTLNLPLSPQGTVRTAERRTALGVIFASSLFLLALMFLGLQRRQAPTGLGLLQAERWETTSCADTQSSHLHEDRTARVSQPS
+PTM	Methylation:65;Phosphorylation:53,61,354

@@ -1,0 +1,25 @@
+UniprotID	Q8WU68-2
+Accession	Q8WU68;A6NKI8;Q56UU3
+EntryName	U2AF4_HUMAN
+ProteinName	Splicing factor U2AF 26 kDa subunit (U2 auxiliary factor 26) (U2 small nuclear RNA auxiliary factor 1-like protein 4) (U2AF1-like 4) (U2(RNU2) small nuclear RNA auxiliary factor 1-like protein 3) (U2 small nuclear RNA auxiliary factor 1-like protein 3) (U2AF1-like protein 3)
+GeneName	U2AF1L4 U2AF1-RS3 U2AF1L3
+Length	202
+Function	RNA-binding protein that function as a pre-mRNA splicing factor. Plays a critical role in both constitutive and enhancer-dependent splicing by mediating protein-protein interactions and protein-RNA interactions required for accurate 3'-splice site selection. Acts by enhancing the binding of U2AF2 to weak pyrimidine tracts. Also participates in the regulation of alternative pre-mRNA splicing. Activates exon 5 skipping of PTPRC during T-cell activation; an event reversed by GFI1. Binds to RNA at the AG dinucleotide at the 3'-splice site (By similarity). Shows a preference for AGC or AGA (By similarity).
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEYLASIFGTEKDKVNCSFYFKIGVCRHGDRCSRLHNKPTFSQEVFTELQEKYGEIEEMNVCDNLGDHLVGNVYVKFRREEDGERAVAELSNRWFNGQAVHGNVPEVASATSCICGPFPRTSRGSSMGGDPGAGHPRGSILATIPERGTIGVPLITGMAASEALAPLPFTPNRDRCSWQDLSSKPPSLSCPILPRLPGSIM
+PTM	Acetylation:13,15;Methylation:92,165;Phosphorylation:4,7,19,158,178,194;Ubiquitylation:15,116

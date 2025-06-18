@@ -1,0 +1,25 @@
+UniprotID	P22304-2
+Accession	P22304;D3DWT4;Q14604;Q9BRM3
+EntryName	IDS_HUMAN
+ProteinName	Iduronate 2-sulfatase (EC 3.1.6.13) (Alpha-L-iduronate sulfate sulfatase) (Idursulfase) [Cleaved into: Iduronate 2-sulfatase 42 kDa chain; Iduronate 2-sulfatase 14 kDa chain]
+GeneName	IDS SIDS
+Length	343
+Function	Lysosomal enzyme involved in the degradation pathway of dermatan sulfate and heparan sulfate.
+Subcellular Location	Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPPRTGRGLLWLGLVLSSVCVALGSETQANSTTDALNVLLIIVDDLRPSLGCYGDKLVRSPNIDQLASHSLLFQNAFAQQAVCAPSRVSFLTGRRPDTTRLYDFNSYWRVHAGNFSTIPQYFKENGYVTMSVGKVFHPGISSNHTDDSPYSWSFPPYHPSSEKYENTKTCRGPDGELHANLLCPVDVLDVPEGTLPDKQSTEQAIQLLEKMKTSASPFFLAVGYHKPHIPFRYPKEFQKLYPLENITLAPDPEVPDGLPPVAYNPWMDIRQREDVQALNISVPYGPIPVDFQRKIRQSYFASVSYLDTQVGRLLSALDDLQLANSTIIAFTSDHGFLMRTNT
+PTM	Glycosylation:115,280;Methylation:211,440;Phosphorylation:87,300,464,491

@@ -1,0 +1,25 @@
+UniprotID	Q9BRI3-1
+Accession	Q9BRI3;Q71RC8
+EntryName	ZNT2_HUMAN
+ProteinName	Proton-coupled zinc antiporter SLC30A2 (Solute carrier family 30 member 2) (Zinc transporter 2) (ZnT-2)
+GeneName	SLC30A2 ZNT2
+Length	323
+Function	Electroneutral proton-coupled antiporter concentrating zinc ions into a variety of intracellular organelles including endosomes, zymogen granules and mitochondria. Thereby, plays a crucial role in cellular zinc homeostasis to confer upon cells protection against its potential cytotoxicity (PubMed:17065149, PubMed:21289295, PubMed:22733820, PubMed:25657003, PubMed:25808614, PubMed:30893306). Regulates the zinc concentration of milk, through the transport of zinc ions into secretory vesicles of mammary cells (PubMed:19496757). By concentrating zinc ions into lysosomes participates to lysosomal-mediated cell death during early mammary gland involution (PubMed:25808614).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle membrane; Zymogen granule membrane; Endosome membrane; Lysosome membrane; Mitochondrion inner membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAKEKQHLLDARPAIRSYTGSLWQEGAGWIPLPRPGLDLQAIELAAQSNHHCHAQKGPDSHCDPKKGKAQRQLYVASAICLLFMIGEVVEILGALVSVLSIWVVTGVLVYLAVERLISGDYEIDGGTMLITSGCAVAVNIIMGLTLHQSGHGHSHGTTNQQEENPSVRAAFIHVIGDFMQSMGVLVAAYILYFKPEYKYVDPICTFVFSILVLGTTLTILRDVILVLMEGTPKGVDFTAVRDLLLSVEGVEALHSLHIWALTVAQPVLSVHIAIAQNTDAQAVLKTASSRLQGKFHFHTVTIQIEDYSEDMKDCQACQGPSD
+PTM	Methylation:286;Ubiquitylation:6

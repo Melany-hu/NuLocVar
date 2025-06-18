@@ -1,0 +1,25 @@
+UniprotID	B4DQR7
+Accession	B4DQR7
+EntryName	B4DQR7_HUMAN
+ProteinName	Ceramide synthase 5 (cDNA FLJ59959, moderately similar to LAG1 longevity assurance homolog 5)
+GeneName	CERS5
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATAAQGPLSLLWGWLWSERFWLPENVSWADLEGPADGYGYPRGRHILSVFPLAAGIFFVRLLFERILIRKGWRACQSSWIGMSEKSNAGFAIGGIRTSPQRLLNSVKACGDSHFIYVYSAMELDFSGRHLGSGTSDSAGITIHFSLFQVGFITIISWNWPSIGPLCFLSLQTLKERTS
+PTM	

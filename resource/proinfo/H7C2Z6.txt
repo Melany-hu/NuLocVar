@@ -1,0 +1,25 @@
+UniprotID	H7C2Z6
+Accession	H7C2Z6
+EntryName	H7C2Z6_HUMAN
+ProteinName	Grancalcin
+GeneName	GCA
+Length	146
+Function	
+Subcellular Location	Cytoplasm; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFSLETCRIMIAMLDRDHTGKMGFNAFKELWAALNAWKENFMTVDQDGSGTVEHHELRQAIGLMGYRLSPQTLTTIVKRYSKNGRIFFDDYVACCVKLRALTDFFRKRDHLQQGSANFIYDDCGGMNVINFEHLDTERPESVCKSD
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9H7D7-2
+Accession	Q9H7D7;A0MNN3;Q4G100;Q59EC4;Q5GLZ9;Q86UY4;Q9H3C2
+EntryName	WDR26_HUMAN
+ProteinName	WD repeat-containing protein 26 (CUL4- and DDB1-associated WDR protein 2) (Myocardial ischemic preconditioning up-regulated protein 2)
+GeneName	WDR26 CDW2 MIP2 PRO0852
+Length	645
+Function	G-beta-like protein involved in cell signal transduction (PubMed:15378603, PubMed:19446606, PubMed:22065575, PubMed:23625927, PubMed:26895380, PubMed:27098453). Acts as a negative regulator in MAPK signaling pathway (PubMed:15378603). Functions as a scaffolding protein to promote G beta:gamma-mediated PLCB2 plasma membrane translocation and subsequent activation in leukocytes (PubMed:22065575, PubMed:23625927). Core component of the CTLH E3 ubiquitin-protein ligase complex that selectively accepts ubiquitin from UBE2H and mediates ubiquitination and subsequent proteasomal degradation of the transcription factor HBP1 (PubMed:29911972). Acts as a negative regulator of the canonical Wnt signaling pathway through preventing ubiquitination of beta-catenin CTNNB1 by the beta-catenin destruction complex, thus negatively regulating CTNNB1 degradation (PubMed:27098453). Serves as a scaffold to coordinate PI3K/AKT pathway-driven cell growth and migration (PubMed:26895380). Protects cells from oxidative stress-induced apoptosis via the down-regulation of AP-1 transcriptional activity as well as by inhibiting cytochrome c release from mitochondria (PubMed:19446606). Also protects cells by promoting hypoxia-mediated autophagy and mitophagy (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQANGAGGGGGGGGGGGGGGGGGGGQGQTPELACLSAQNGESSPSSSSSAGDLAHANGLLPSAPSAASNNSNSLNVNNGVPGGAAAASSATVAAASATTAASSSLATPELGSSLKKKKRLSQSDEDVIRLIGQHLNGLGLNQTVDLLMQESGCRLEHPSATKFRNHVMEGDWDKAENDLNELKPLVHSPHAIVRMKFLLLQQKYLEYLEDGKVLEALQVLRCELTPLKYNTERIHVLSGYLMCSHAEDLRAKAEWEGKGTASRSKLLDKLQTYLPPSVMLPPRRLQTLLRQAVELQRDRCLYHNTKLDNNLDSVSLLIDHVCSRRQFPCYTQQILTEHCNEVWFCKFSNDGTKLATGSKDTTVIIWQVDPDTHLLKLLKTLEGHAYGVSYIAWSPDDNYLVACGPDDCSELWLWNVQTGELRTKMSQSHEDSLTSVAWNPDGKRFVTGGQRGQFYQCDLDGNLLDSWEGVRVQCLWCLSDGKTVLASDTHQRIRGYNFEDLTDRNIVQEDHPIMSFTISKNGRLALLNVATQGVHLWDLQDRVLVRKYQGVTQGFYTIHSCFGGHNEDFIASGSEDHKVYIWHKRSELPIAELTGHTRTVNCVSWNPQIPSMMASASDDGTVRIWGPAPFIDHQNIEEECSSMDS
+PTM	Methylation:183,219,285;Phosphorylation:121,123,223,288,289;Ubiquitylation:162,274,322,369,459

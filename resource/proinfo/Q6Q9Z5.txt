@@ -1,0 +1,25 @@
+UniprotID	Q6Q9Z5
+Accession	Q6Q9Z5
+EntryName	Q6Q9Z5_HUMAN
+ProteinName	E2F6 splice variant f
+GeneName	E2F6
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDALDELIKDCAQQLFELTDDKENERLAYVTYQDIHSIQAFHEQIVIAVKAPAETRLDVPAPREDSITVHIRSTNGPIDVYLCEVEQGQTSNKRSEGVGTSSSESTHPEGPEEEENPQQSEELLEVSN
+PTM	

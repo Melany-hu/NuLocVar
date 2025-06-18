@@ -1,0 +1,25 @@
+UniprotID	P26373-2
+Accession	P26373;B4DLX3;F5H1S2;Q3KQT8;Q567Q8;Q9BPX0
+EntryName	RL13_HUMAN
+ProteinName	Large ribosomal subunit protein eL13 (60S ribosomal protein L13) (Breast basic conserved protein 1)
+GeneName	RPL13 BBC1 OK/SW-cl.46
+Length	164
+Function	Component of the ribosome, a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:23636399, PubMed:31630789, PubMed:32669547). The small ribosomal subunit (SSU) binds messenger RNAs (mRNAs) and translates the encoded message by selecting cognate aminoacyl-transfer RNA (tRNA) molecules (Probable). The large subunit (LSU) contains the ribosomal catalytic site termed the peptidyl transferase center (PTC), which catalyzes the formation of peptide bonds, thereby polymerizing the amino acids delivered by tRNAs into a polypeptide chain (Probable). The nascent polypeptides leave the ribosome through a tunnel in the LSU and interact with protein factors that function in enzymatic processing, targeting, and the membrane insertion of nascent chains at the exit of the ribosomal tunnel (Probable). As part of the LSU, it is probably required for its formation and the maturation of rRNAs (PubMed:31630789). Plays a role in bone development (PubMed:31630789).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	31...36
+validnes_region	
+nesbase_region	
+Sequence	MAPSRNGMVLKPHFHKDWQRRVATWFNQPARKIRRRKARQAKARRIAPRPASGPIRPIVRCPTVRYHTKVRAGRGFSLEELRVAGIHKKGDSSAEELKLATQLTGPVMPVRNVYKKEKARVITEEEKNFKAFASLRMARANARLFGIRAKRAKEAAEQDVEKKK
+PTM	Acetylation:11,16,69,88,105,123,136,145,162,163,165,174,177,200,209;Methylation:71,74,82,101,116,145,174,177;Phosphorylation:4,52,77,97,106,107,109,132,139,140,148,151,181;SUMOylation:11,105,118,123,145,162,174,177;Ubiquitylation:11,16,69,88,105,123,130,136,145,177,200

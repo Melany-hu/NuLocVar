@@ -1,0 +1,25 @@
+UniprotID	Q6ZP80-3
+Accession	Q6ZP80;C9JML7;Q3B7B8;Q53TT9;Q6GMU0;Q8WW45;Q96NR4
+EntryName	TM182_HUMAN
+ProteinName	Transmembrane protein 182
+GeneName	TMEM182 UNQ6974/PRO21957
+Length	110
+Function	Negatively regulates myogenesis and skeletal muscle regeneration via its association with ITGB1 (By similarity). Modulates ITGB1 activation by decreasing ITGB1-LAMB1 interaction and inhibiting ITGB1-mediated intracellular signaling during myogenesis (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLGVVAVVIASFLIICAAPFASHFLYKAGGGSYIAAGILFSLVVMLYVIWVQAVADMESYRNMKMKDCLDFTPSVLYGWSFFLAPAGIFFSLLAGLLFLVVGWHIQIHH
+PTM	Glycosylation:47

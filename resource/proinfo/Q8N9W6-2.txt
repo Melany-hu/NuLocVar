@@ -1,0 +1,25 @@
+UniprotID	Q8N9W6-2
+Accession	Q8N9W6;B4DZA4;Q0JW32;Q53T62;Q969U3
+EntryName	BOLL_HUMAN
+ProteinName	Protein boule-like
+GeneName	BOLL BOULE
+Length	339
+Function	Probable RNA-binding protein, which may be required during spermatogenesis. May act by binding to the 3'-UTR of mRNAs and regulating their translation (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQTSNQMQTDSLSPSPNPVSPVPLNNPTSAPRYGTVIPNRIFVGGIDFKTNESDLRKFFSQYGSVKEVKIVNDRAGVSKGYGFVTFETQEDAQKILQEAEKLNYKDKKLNIGPAIRKQQVGIPRSSIMPAAGTMYLTTSTGYPYTYHNGVAYFHTPEVTSVPPPWPSRSVCSSPVMVAQPIYQQPAYHYQGIKQCHTRRWMDSLLPFTKCDEATTQYLPGQWQWSVPQPSASSAPFLYLQPSEVIYQPVEIAQDGGCVPPPLSLMETSVPEPYSDHGVQATYHQVYAPSAITMPAPVMQPEPIKCGAFIIKTIGQLYSSSTDFLSNDPCVAEIQLQRTS
+PTM	Methylation:95

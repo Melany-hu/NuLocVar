@@ -1,0 +1,25 @@
+UniprotID	Q6IMI6-2
+Accession	Q6IMI6;Q6IMI5
+EntryName	ST1C3_HUMAN
+ProteinName	Sulfotransferase 1C3 (ST1C3) (EC 2.8.2.1) (EC 2.8.2.2)
+GeneName	SULT1C3
+Length	304
+Function	Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) as sulfonate donor. Has sulfotransferase activity towards various substrates, such as bile acids, thyroid hormones and toward xenobiotic compounds such as chloro phenols and hydroxypyrenes. Lithocholic acid appears to be the best substrate among the endogenous compounds tested and 3,3',5,5'-tetrachloro-4,4'-biphenyldiol shows the highest specific activity among the xenobiotic compounds.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKIEKNAPTMEKKPELFNIMEVDGVPTLILSKEWWEKVCNFQAKPDDLILATYPKSGTTWMHEILDMILNDGDVEKCKRAQTLDRHAFLELKFPHKEKPDLEFVLEMSSPQLIKTHLPSHLIPPSIWKENCKIVYVARNPKDCLVSYYHFHRMASFMPDPQNLEEFYEKFMSGKVVGGSWFDHVKGWWAAKDMHRILYLFYEDIKKNPKHEIHKVLEFLEKTWSGDVINKIVHHTSFDVMKDNPMANHTAVPAHIFNHSISKFMRKGMPGDWKNHFTVALNENFDKHYEKKMAGSTLNFCLEI
+PTM	Methylation:33,115,215,231;Phosphorylation:234,247

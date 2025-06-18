@@ -1,0 +1,25 @@
+UniprotID	Q5EE01-2
+Accession	Q5EE01;A6NIR0;A6NJC2
+EntryName	CENPW_HUMAN
+ProteinName	Centromere protein W (CENP-W) (Cancer-up-regulated gene 2 protein)
+GeneName	CENPW C6orf173 CUG2
+Length	103
+Function	Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation (By similarity). The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres (By similarity). Part of a nucleosome-associated complex that binds specifically to histone H3-containing nucleosomes at the centromere, as opposed to nucleosomes containing CENPA. Component of the heterotetrameric CENP-T-W-S-X complex that binds and supercoils DNA, and plays an important role in kinetochore assembly. CENPW has a fundamental role in kinetochore assembly and function. It is one of the inner kinetochore proteins, with most further proteins binding downstream. Required for normal chromosome organization and normal progress through mitosis.
+Subcellular Location	Nucleus; Chromosome; Centromere; Chromosome; Centromere; Kinetochore; Nucleus matrix; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSTIVSQRKQIKRKAPRGFLKRVFKRKKPQLRLEKSGDLLVRFHPFSGWEWGTGEVHLNCLLFVHRLAEESRTNACASKCRVINKEHVLAAAKVILKKSRG
+PTM	Methylation:72;SUMOylation:11,72

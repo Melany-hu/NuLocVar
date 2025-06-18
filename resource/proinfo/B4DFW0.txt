@@ -1,0 +1,25 @@
+UniprotID	B4DFW0
+Accession	B4DFW0
+EntryName	B4DFW0_HUMAN
+ProteinName	MAP3K7 C-terminal like (cDNA FLJ60482, highly similar to TAK1-like protein)
+GeneName	MAP3K7CL
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLVSSSSLTPFPPVRTADDTPPEDSIPLVFPELDQQLQPLPPCHDSEESMEVFKQHCQIAEEYHEVKKEITLLEQRKKELIAKLDQAEKEKVDAAELVREFEALTEENRTLRLAQSQCVEQLEKLRIQYQKRQGSS
+PTM	

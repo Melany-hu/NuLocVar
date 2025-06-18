@@ -1,0 +1,25 @@
+UniprotID	Q8WXI4-2
+Accession	Q8WXI4;B1AQ22;D3DQ50;O75187;Q52LP1;Q53ER9;Q96DI1;Q9H883
+EntryName	ACO11_HUMAN
+ProteinName	Acyl-coenzyme A thioesterase 11 (Acyl-CoA thioesterase 11) (EC 3.1.2.-) (Acyl-CoA thioester hydrolase 11) (Adipose-associated thioesterase) (Brown fat-inducible thioesterase) (BFIT) (Palmitoyl-coenzyme A thioesterase) (EC 3.1.2.2)
+GeneName	ACOT11 BFIT KIAA0707 THEA
+Length	594
+Function	Has an acyl-CoA thioesterase activity with a preference for the long chain fatty acyl-CoA thioesters hexadecanoyl-CoA/palmitoyl-CoA and tetradecanoyl-CoA/myristoyl-CoA which are the main substrates in the mitochondrial beta-oxidation pathway.
+Subcellular Location	Mitochondrion matrix; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIQNVGNHLRRGLASVFSNRTSRKSALRAGNDSAMADGEGYRNPTEVQMSQLVLPCHTNQRGELSVGQLLKWIDTTACLSAERHAGCPCVTASMDDIYFEHTISVGQVVNIKAKVNRAFNSSMEVGIQVASEDLCSEKQWNVCKALATFVARREITKVKLKQITPRTEEEKMEHSVAAERRRMRLVYADTIKDLLANCAIQGDLESRDCSRMVPAEKTRVESVELVLPPHANHQGNTFGGQIMAWMENVATIAASRLCRAHPTLKAIEMFHFRGPSQVGDRLVLKAIVNNAFKHSMEVGVCVEAYRQEAETHRRHINSAFMTFVVLDADDQPQLLPWIRPQPGDGERRYREASARKKIRLDRKYIVSCKQTEVPLSVPWDPSNQVYLSYNNVSSLKMLVAKDNWVLSSEISQVRLYTLEDDKFLSFHMEMVVHVDAAQAFLLLSDLRQRPEWDKHYRSVELVQQVDEDDAIYHVTSPALGGHTKPQDFVILASRRKPCDNGDPYVIALRSVTLPTHRETPEYRRGETLCSGFCLWREGDQLTKVSYYNQATPGVLNYVTTNVAGLSSEFYTTFKACEQFLLDNRNDLAPSLQTL
+PTM	Acetylation:396,496;Methylation:71,112,192,285,356;Phosphorylation:18,80,444

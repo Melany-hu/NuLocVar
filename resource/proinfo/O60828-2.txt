@@ -1,0 +1,25 @@
+UniprotID	O60828-2
+Accession	O60828;C9JQA1;Q4VY25;Q4VY26;Q4VY27;Q4VY29;Q4VY30;Q4VY34;Q4VY35;Q4VY36;Q4VY37;Q4VY38;Q9GZP2;Q9GZU4;Q9GZZ4
+EntryName	PQBP1_HUMAN
+ProteinName	Polyglutamine-binding protein 1 (PQBP-1) (38 kDa nuclear protein containing a WW domain) (Npw38) (Polyglutamine tract-binding protein 1)
+GeneName	PQBP1 NPW38 JM26
+Length	264
+Function	Intrinsically disordered protein that acts as a scaffold, and which is involved in different processes, such as pre-mRNA splicing, transcription regulation, innate immunity and neuron development (PubMed:10198427, PubMed:10332029, PubMed:12062018, PubMed:20410308, PubMed:23512658). Interacts with splicing-related factors via the intrinsically disordered region and regulates alternative splicing of target pre-mRNA species (PubMed:10332029, PubMed:12062018, PubMed:20410308, PubMed:23512658). May suppress the ability of POU3F2 to transactivate the DRD1 gene in a POU3F2 dependent manner. Can activate transcription directly or via association with the transcription machinery (PubMed:10198427). May be involved in ATXN1 mutant-induced cell death (PubMed:12062018). The interaction with ATXN1 mutant reduces levels of phosphorylated RNA polymerase II large subunit (PubMed:12062018). Involved in the assembly of cytoplasmic stress granule, possibly by participating in the transport of neuronal RNA granules (PubMed:21933836). Also acts as an innate immune sensor of infection by retroviruses, such as HIV, by detecting the presence of reverse-transcribed DNA in the cytosol (PubMed:26046437). Directly binds retroviral reverse-transcribed DNA in the cytosol and interacts with CGAS, leading to activate the cGAS-STING signaling pathway, triggering type-I interferon production (PubMed:26046437).
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLPVALQTRLAKRGILKHLEPEPEEEIIAEDYDDDPVDYEATRLEGLPPSWYKVFDPSCGLPYYWNADTDLVSWLSPHDPNSVVTKSAKKLRSSNADAEEKLDRSHDKSDRGHDKSDRSHEKLDRGHDKSDRGHDKSDRDRERGYDKVDRERERDRERDRDRGYDKADREEGKERRHHRREELAPYPKSKKVSRKDEELDPMDPSSYSDAPRGTWSTGLPKRNEAKTGADTTAAGPLFQQRPYPSPGAVLRANAEASRTKQQD
+PTM	Acetylation:18,102,148,167;Methylation:10,18,214,223;Phosphorylation:33,94,95,106,187,208,209,210,216,218,219,245,247,259,261;SUMOylation:18,87,102,123,197,228

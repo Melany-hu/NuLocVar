@@ -1,0 +1,25 @@
+UniprotID	Q7L2J0-2
+Accession	Q7L2J0;B3KP86;D6W5V7;Q9NPD4
+EntryName	MEPCE_HUMAN
+ProteinName	7SK snRNA methylphosphate capping enzyme (MePCE) (EC 2.1.1.-) (Bicoid-interacting protein 3 homolog) (Bin3 homolog)
+GeneName	MEPCE BCDIN3
+Length	220
+Function	S-adenosyl-L-methionine-dependent methyltransferase that adds a methylphosphate cap at the 5'-end of 7SK snRNA (7SK RNA), leading to stabilize it (PubMed:17643375, PubMed:19906723, PubMed:30559425). Also has a non-enzymatic function as part of the 7SK RNP complex: the 7SK RNP complex sequesters the positive transcription elongation factor b (P-TEFb) in a large inactive 7SK RNP complex preventing RNA polymerase II phosphorylation and subsequent transcriptional elongation (PubMed:17643375). The 7SK RNP complex also promotes snRNA gene transcription by RNA polymerase II via interaction with the little elongation complex (LEC) (PubMed:28254838). In the 7SK RNP complex, MEPCE is required to stabilize 7SK RNA and facilitate the assembly of 7SK RNP complex (PubMed:19906723, PubMed:38100593). MEPCE has a non-enzymatic function in the 7SK RNP complex; interaction with LARP7 within the 7SK RNP complex occluding its catalytic center (PubMed:19906723). Also required for stability of U6 snRNAs (PubMed:38100593).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGLDIDSRLIHSARQNIRHYLSEELRLPPQTLEGDPGAEGEEGTTTVRKRSCFPASLTASRGPIAAPQVPLDGADTSVFPNNVVFVTGNYVLDRDDLVEAQTPEYDVVLCLSLTKWVHLNWGDEGLKRMFRRIYRHLRPGGILVLEPQPWSSYGKRKTLTETIYKNYYRIQLKPEQFSSYLTSPDVGFSSYELVATPHNTSKGFQRPVYLFHKARSPSH
+PTM	Acetylation:148,163,438,635;Methylation:86,266,304,377;Phosphorylation:57,60,69,75,76,77,78,101,152,175,179,183,208,213,216,217,240,243,245,254,258,279,281,287,291,300,330,334,340,342,344,358,368,369,370,372,383,390,582,686;SUMOylation:21,222,257,407,438,643,672;Ubiquitylation:215,635

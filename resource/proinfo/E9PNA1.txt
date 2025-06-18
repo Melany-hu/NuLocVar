@@ -1,0 +1,25 @@
+UniprotID	E9PNA1
+Accession	E9PNA1
+EntryName	E9PNA1_HUMAN
+ProteinName	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase (EC 2.4.1.135)
+GeneName	B3GAT3
+Length	223
+Function	
+Subcellular Location	Golgi apparatus membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLKLKNVFLAYFLVSIAGLLYALVQLAKGMDRTLPLMQRFRDSATALSSGQPCDCLPPLRAAAEQLRQKDLRISQLQAELRRPPPAPAQPPEPEALPTIYVVTPTYARLVQKAELVRLSQTLSLVPRLHWLLVEDAEGPTPLVSGLLAASGLLFTHLVVLTPKAQRLREGEPGWVHPRGVEQRNKALDWLRGRGGAVGGEKDPPPPGTQGVVYFADDDNTYS
+PTM	

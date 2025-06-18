@@ -1,0 +1,25 @@
+UniprotID	Q99439-2
+Accession	Q99439;A5D8U8;A6NFI4;D6W5X9;Q92578
+EntryName	CNN2_HUMAN
+ProteinName	Calponin-2 (Calponin H2, smooth muscle) (Neutral calponin)
+GeneName	CNN2
+Length	270
+Function	Thin filament-associated protein that is implicated in the regulation and modulation of smooth muscle contraction. It is capable of binding to actin, calmodulin and tropomyosin. The interaction of calponin with actin inhibits the actomyosin Mg-ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSTQFNKGPSYGLSAEVKNRLLSKYDPQKEAELRTWIEGLTGLSIGPDFQKGLKDGTILCTLMNKLQPGSVPKINRSMQNWHQLENLSNFIKAMVSYGMNPVDLFEANDLFESGNMTQVQVSLLALAGKMGTNKCASQSGMTAYGTRRHLYDPKNHILPPMDHSTISLQMGTNKCASQVGMTAPGTRRHIYDTKLGTDKCDNSSMSLQMGYTQGANQSGQVFGLGRQIYDPKYCPQGTVADGAPSGTGDCPDPGEVPEYPPYYQEEAGY
+PTM	Acetylation:8,19,25,30,74,149,234;Methylation:8,19,25,52,93,145,149,160,174,187,188;Phosphorylation:2,3,4,11,12,15,42,133,138,177,182,184,186,205,217,231,243,244,246,251,252,258,269;SUMOylation:19,25,74,160,194,214,234;Ubiquitylation:8,19,25,30,55,66,134,160,174,194,234

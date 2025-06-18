@@ -1,0 +1,25 @@
+UniprotID	Q9BQ16-7
+Accession	Q9BQ16;B2R7M7;B3KR67;B4DGK5;B4DHB4;B4DHV3;B4DI46;B4DJY3;E7EP61;F5H099;O75705;Q6UW53;Q96Q26
+EntryName	TICN3_HUMAN
+ProteinName	Testican-3 (SPARC/osteonectin, CWCV, and Kazal-like domains proteoglycan 3)
+GeneName	SPOCK3 TICN3 UNQ409/PRO771
+Length	316
+Function	May participate in diverse steps of neurogenesis. Inhibits the processing of pro-matrix metalloproteinase 2 (MMP-2) by MT1-MMP and MT3-MMP. May interfere with tumor invasion.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEAGVDHRQWRGPILSTCKQCPVVYPSPVCGSDGHTYSFQCKLEYQACVLGKQISVKCEGHCPCPSDKPTSTSRNVKRACSDLEFREVANRLRDWFKALHESGSQNKKTKTLLRPERSRFDTSILPICKDSLGWMFNRLDTNYDLLLDQSELRSIYLDKNEQCTKAFFNSCDTYKDSLISNNEWCYCFQRQQDPPCQTELSNIQKRQGVKKLLGQYIPLCDEDGYYKPTQCHGSVGQCWCVDRYGNEVMGSRINGVADCAIDFEISGDFASGDFHEWTDDEDDEDDIMNDEDEIEDDDEDEGDDDDGGDDHDVYI
+PTM	Methylation:42,173;Phosphorylation:33,146

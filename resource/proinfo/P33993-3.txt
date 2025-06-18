@@ -1,0 +1,25 @@
+UniprotID	P33993-3
+Accession	P33993;A4D2A1;A4D2A2;E9PGN9;Q15076;Q96D34;Q96GL1
+EntryName	MCM7_HUMAN
+ProteinName	DNA replication licensing factor MCM7 (EC 3.6.4.12) (CDC47 homolog) (P1.1-MCM3)
+GeneName	MCM7 CDC47 MCM2
+Length	543
+Function	Acts as a component of the MCM2-7 complex (MCM complex) which is the replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. Core component of CDC45-MCM-GINS (CMG) helicase, the molecular machine that unwinds template DNA during replication, and around which the replisome is built (PubMed:25661590, PubMed:32453425, PubMed:34694004, PubMed:34700328, PubMed:35585232, PubMed:9305914). The active ATPase sites in the MCM2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differentially to the complex helicase activity (PubMed:32453425). Required for S-phase checkpoint activation upon UV-induced damage.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVATYTCDQCGAETYQPIQSPTFMPLIMCPSQECQTNRSGGRLYLQTRGSRFIKFQEMKMQEHSDQVPVGNIPRSITVLVEGENTRIAQPGDHVSVTGIFLPILRTGFRQVVQGLLSETYLEAHRIVKMNKSEDDESGAGELTREELRQIAEEDFYEKLAASIAPEIYGHEDVKKALLLLLVGGVDQSPRGMKIRGNINICLMGDPGVAKSQLLSYIDRLAPRSQYTTGRGSSGVGLTAAVLRDSVSGELTLEGGALVLADQGVCCIDEFDKMAEADRTAIHEVMEQQTISIAKAGILTTLNARCSILAAANPAYGRYNPRRSLEQNIQLPAALLSRFDLLWLIQDRPDRDNDLRLAQHITYVHQHSRQPPSQFEPLDMKLMRRYIAMCREKQPMVPESLADYITAAYVEMRREAWASKDATYTSARTLLAILRLSTALARLRMVDVVEKEDVNEAIRLMEMSKDSLLGDKGQTARTQRPADVIFATVRELVSGGRSVRFSEAEQRCVSRGFTPAQFQAALDEYEELNVWQVNASRTRITFV
+PTM	Acetylation:4,28,96,159,231,351,596,627,648;Methylation:10,28,89,96,132,133,219,225,325,335,351,387,396,471,524,527,569,627;Phosphorylation:6,102,113,121,156,216,221,224,227,309,314,320,365,388,392,409,410,483,492,500,544,613,614,643,674,678;SUMOylation:4,10,14,15,28,29,32,75,89,96,145,159,174,231,236,305,308,335,351,352,471,557,569,627,641,648;Ubiquitylation:4,10,15,28,29,32,75,89,96,145,159,174,231,236,305,308,335,351,352,387,471,557,569,596,627,641,648

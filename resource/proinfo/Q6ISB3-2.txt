@@ -1,0 +1,25 @@
+UniprotID	Q6ISB3-2
+Accession	Q6ISB3;A1L303;Q6NT03;Q9H8B8
+EntryName	GRHL2_HUMAN
+ProteinName	Grainyhead-like protein 2 homolog (Brother of mammalian grainyhead) (Transcription factor CP2-like 3)
+GeneName	GRHL2 BOM TFCP2L3
+Length	609
+Function	Transcription factor playing an important role in primary neurulation and in epithelial development (PubMed:25152456, PubMed:29309642). Binds directly to the consensus DNA sequence 5'-AACCGGTT-3' acting as an activator and repressor on distinct target genes (By similarity). During embryogenesis, plays unique and cooperative roles with GRHL3 in establishing distinct zones of primary neurulation. Essential for closure 3 (rostral end of the forebrain), functions cooperatively with GRHL3 in closure 2 (forebrain/midbrain boundary) and posterior neuropore closure (By similarity). Regulates epithelial morphogenesis acting as a target gene-associated transcriptional activator of apical junctional complex components. Up-regulates of CLDN3 and CLDN4, as well as of RAB25, which increases the CLDN4 protein and its localization at tight junctions (By similarity). Comprises an essential component of the transcriptional machinery that establishes appropriate expression levels of CLDN4 and CDH1 in different types of epithelia. Exhibits functional redundancy with GRHL3 in epidermal morphogenetic events and epidermal wound repair (By similarity). In lung, forms a regulatory loop with NKX2-1 that coordinates lung epithelial cell morphogenesis and differentiation (By similarity). In keratinocytes, plays a role in telomerase activation during cellular proliferation, regulates TERT expression by binding to TERT promoter region and inhibiting DNA methylation at the 5'-CpG island, possibly by interfering with DNMT1 enzyme activity (PubMed:19015635, PubMed:20938050). In addition, impairs keratinocyte differentiation and epidermal function by inhibiting the expression of genes clustered at the epidermal differentiation complex (EDC) as well as GRHL1 and GRHL3 through epigenetic mechanisms (PubMed:23254293).
+Subcellular Location	Nucleus; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSDPPFNTRRAYTSEDEAWKSYLENPLTAATKAMMSINGDEDSAAALGLLYDYYKVPRDKRLLSVSKASDSQEDQEKRNCLGTSEAQSNLSGGENRVQVLKTVPVNLSLNQDHLENSKREQYSISFPESSAIIPVSGITVVKAEDFTPVFMAPPVHYPRGDGEEQRVVIFEQTQYDVPSLATHSAYLKDDQRSTPDSTYSESFKDAATEKFRSASVGAEEYMYDQTSSGTFQYTLEATKSLRQKQGEGPMTYLNKGQFYAITLSETGDNKCFRHPISKVRSVVMVVFSEDKNRDEQLKYWKYWHSRQHTAKQRVLDIADYKESFNTIGNIEEIAYNAVSFTWDVNEEAKIFITVNCLSTDFSSQKGVKGLPLMIQIDTYSYNNRSNKPIHRAYCQIKVFCDKGAERKIRDEERKQNRKKGKGQASQTQCNSSSDGKLAAIPLQKKSDITYFKTMPDLHSQPVLFIPDVHFANLQRTGQVYYNTDDEREGGSVLVKRMFRPMEEEFGPVPSKQMKEEGTKRVLLYVRKETDDVFDALMLKSPTVKGLMEAISEKYGLPVEKIAKLYKKSKKGILVNMDDNIIEHYSNEDTFILNMESMVEGFKVTLMEI
+PTM	Acetylation:227,453,512,528;Methylation:84,94,118,205,315,512,556;Phosphorylation:2,5,31,81,83,86,105,164,210,211,214,215,216,217,232,500;Ubiquitylation:461

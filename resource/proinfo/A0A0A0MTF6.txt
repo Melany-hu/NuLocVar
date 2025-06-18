@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MTF6
+Accession	A0A0A0MTF6
+EntryName	A0A0A0MTF6_HUMAN
+ProteinName	MORN repeat-containing protein 5
+GeneName	MORN5
+Length	96
+Function	
+Subcellular Location	Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEYTGSKYIGEYVDGRMEGKAKYILPTETIYVGEMKDGMFHGEGTLYFPSGSQYDAIWENGLAIKVWLNSPIWTHLEKSPRAITIVETASITQSRG
+PTM	

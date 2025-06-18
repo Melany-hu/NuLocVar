@@ -1,0 +1,25 @@
+UniprotID	A0A087X1X5
+Accession	A0A087X1X5
+EntryName	A0A087X1X5_HUMAN
+ProteinName	Calponin
+GeneName	CNN2
+Length	191
+Function	Thin filament-associated protein that is implicated in the regulation and modulation of smooth muscle contraction. It is capable of binding to actin, calmodulin and tropomyosin. The interaction of calponin with actin inhibits the actomyosin Mg-ATPase activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNKLQPGSVPKINRSMQNWHQLENLSNFIKAMVSYGMNPVDLFEANDLFESGNMTQVQVSLLALAGKAKTKGLQSGVDIGVKYSEKQERNFDDATMKAGQCVIGLQMGTNKCASQSGMTAYGTRRHLYDPKNHILPPMDHSTISLQMGTNKCASQVGMTAPGTRRHIYDTKLGTDKCDNSSMSLQMGYTQG
+PTM	

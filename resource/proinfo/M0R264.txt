@@ -1,0 +1,25 @@
+UniprotID	M0R264
+Accession	M0R264
+EntryName	M0R264_HUMAN
+ProteinName	Deoxyhypusine synthase
+GeneName	DHPS
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIEKKLEPLSQDEDQHADLTQSRRPLTSCTIFLGYTSNLISSGIRETIRYLVQHNMVDVLVTTAGGVEEDLIKCLAPTYLGEFSLRGKELRENGINRIGNLLVPNENYCKFEDWLMPILDQMVMEQNTEGVKWTPSKMIARLGKEINNPESVYYWAQKNHIPVFSPALTDGSLGDMIFFHS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YCZ7
+Accession	H0YCZ7
+EntryName	H0YCZ7_HUMAN
+ProteinName	Collagen type XXIV alpha 1 chain
+GeneName	COL24A1
+Length	166
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIKNPLGTRDNPARICKDLLNCEQKVSDGKYWIDPNLGCPSDAIEVFCNFSAGGQTCLPPVSVTKAFTIITPEIEEGRILPFLGNHEPLIKSSMIVLLPKYPHHHPHSSGSWHRIIIEGKKMGLCELCRGNRSSGEADSSCFHDQITSLISLIHKLNPRKTREVLG
+PTM	

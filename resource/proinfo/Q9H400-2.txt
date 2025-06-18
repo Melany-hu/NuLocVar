@@ -1,0 +1,25 @@
+UniprotID	Q9H400-2
+Accession	Q9H400;E1P5K5;E1P5K6;Q5JWJ2;Q6XYB3;Q9NX69
+EntryName	LIME1_HUMAN
+ProteinName	Lck-interacting transmembrane adapter 1 (Lck-interacting membrane protein) (Lck-interacting molecule)
+GeneName	LIME1 LIME LP8067
+Length	200
+Function	Involved in BCR (B-cell antigen receptor)-mediated signaling in B-cells and TCR (T-cell antigen receptor)-mediated T-cell signaling in T-cells. In absence of TCR signaling, may be involved in CD4-mediated inhibition of T-cell activation. Couples activation of these receptors and their associated kinases with distal intracellular events such as calcium mobilization or MAPK activation through the recruitment of PLCG2, GRB2, GRAP2, and other signaling molecules.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLLRPHWLEVSRDITGPQAAPSAFPHQELPRALPAAAATAGCAGLEATYSNVGLAALPGVSLAASPVVAEYARVQKRKGTHRSPQEPQQGKTEVTPAAQVDVLYSRVCKPKRRDPGPTTDPLDPKGQGAILALAGDLAYQTLPLRALDVDSGPLENVYESIRELGDPAGRSSTCGAGTPPASSCPSLGRGWRPLPASLP
+PTM	Methylation:221;Phosphorylation:54,56,61,70,74,87,88,95,179,200,201,235,237,254,256,274

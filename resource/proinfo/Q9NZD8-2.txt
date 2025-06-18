@@ -1,0 +1,25 @@
+UniprotID	Q9NZD8-2
+Accession	Q9NZD8;B4DW44;Q6ZMB6
+EntryName	SPG21_HUMAN
+ProteinName	Maspardin (Acid cluster protein 33) (Spastic paraplegia 21 autosomal recessive Mast syndrome protein) (Spastic paraplegia 21 protein)
+GeneName	SPG21 ACP33 BM-019 GL010
+Length	281
+Function	May play a role as a negative regulatory factor in CD4-dependent T-cell activation.
+Subcellular Location	Cytoplasm; Cytosol; Membrane; Endosome membrane; Golgi apparatus; trans-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEIKVSPDYNWFRGTVPLKKIIVDDDDSKIWSLYDAGPRSIRCPLIFLPPVSGTADVFFRQILALTGWGYRVIAVHLFGASLGGFLAQKFAEYTHKSPRVHSLILCNSFSDTSIFNQTWTANSFWLMPAFMLKKIVLGNFSSGPVDPMMADAIDFMVDRLESLGQSELASRLTLNCQNSYVEPHKIRDIPVTIMDVFDQSALSTEAKEEMYKLYPNARRAHLKTGGNFPYLCRSAEVNLYVQIHLLQFHGTKYAAIDPSMVSAEELEVQKGSLGISQEEQ
+PTM	Methylation:20;Phosphorylation:190,194,300,304;SUMOylation:5,235,240;Ubiquitylation:5,20,21,124,213,240,251

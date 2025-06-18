@@ -1,0 +1,25 @@
+UniprotID	O00338-2
+Accession	O00338;B2R813;Q53SG4
+EntryName	ST1C2_HUMAN
+ProteinName	Sulfotransferase 1C2 (ST1C2) (EC 2.8.2.1) (Sulfotransferase 1C1) (SULT1C#1) (humSULTC2)
+GeneName	SULT1C2 SULT1C1
+Length	307
+Function	Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) to catalyze the sulfate conjugation of phenolic compounds (PubMed:10481272, PubMed:10783263, PubMed:9852044). Does not transfer sulfate to steroids, dopamine, acetaminophen, or alpha-naphthol (PubMed:10481272, PubMed:9852044). Except in mitochondria, where it can add sulfate to cholesterol producing cholesterol sulfate, which alters mitochondrial membrane organization, and impacts protein complex mobility increasing state-III respiration, thereby modulating mitochondrial respiration (By similarity). Catalyzes the sulfation of the carcinogenic N-hydroxy-2-acetylaminofluorene leading to highly reactive intermediates capable of forming DNA adducts, potentially resulting in mutagenesis (PubMed:9852044).
+Subcellular Location	Cytoplasm; Lysosome; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALTSDLGKQIKLKEVEGTLLQPATVDNWSQIQSFEAKPDDLLICTYPKAGTTWIQEIVDMIEQNGDVEKCQRAIIQHRHPFIEWARPPQPSETGFHHVAQAGLKLLSSSNPPASTSQSAKITDLLPPSFWENNCKFLYVARNAKDCMVSYYHFQRMNHMLPDPGTWEEYFETFINGKVVWGSWFDHVKGWWEMKDRHQILFLFYEDIKRDPKHEIRKVMQFMGKKVDETVLDKIVQETSFEKMKENPMTNRSTVSKSILDQSISSFMRKGTVGDWKNHFTVAQNERFDEIYRRKMEGTSINFCMEL
+PTM	Acetylation:96;Methylation:223;Phosphorylation:219,255

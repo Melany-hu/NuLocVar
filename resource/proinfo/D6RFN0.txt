@@ -1,0 +1,25 @@
+UniprotID	D6RFN0
+Accession	D6RFN0
+EntryName	D6RFN0_HUMAN
+ProteinName	COP9 signalosome complex subunit 4
+GeneName	COPS4
+Length	438
+Function	Component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF-type complexes such as SCF, CSA or DDB2. Also involved in the deneddylation of non-cullin subunits such as STON2. The complex is also involved in phosphorylation of p53/TP53, c-jun/JUN, IkappaBalpha/NFKBIA, ITPK1, IRF8/ICSBP and SNAPIN, possibly via its association with CK2 and PKD kinases. CSN-dependent phosphorylation of TP53 and JUN promotes and protects degradation by the Ubl system, respectively.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAVRQDLAQLMNSSGSHKDLAGKYRQILEKAIQLSGAEQLEALKAFVEAMVNENVSLVISRQLLTDFCTHLPNLPDSTAKEIYHFTLEKIQPRVISFEEQVASIRQHLASIYEKEEDWRNAAQVLVGIPLETGQKQYNVDYKLETYLKIARLYLEDDDPVQAEAYINRASLLQNESTNEQLQIHYKVCYARVLDYRRKFIEAAQRYNELSYKTIVHESERLEALKHALHCTILASAGQQRSRMLATLFKDERCQQLAAYGILEKMYLDRIIRGNQLQEFAAMLMPHQKATTADETGSLHFAQAGLELLGSSSSSHLGFPKCWDDRGSSILDRAVIEHNLLSASKLYNNITFEELGALLEIPAAKAEKIASQMITEGRMNGFIDQIDGIVHFETREALPTWDKQIQSLCFQVNNLLEKISQTAPEWTAQAMEAQMAQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J1W4
+Accession	A0A0B4J1W4
+EntryName	A0A0B4J1W4_HUMAN
+ProteinName	CEA cell adhesion molecule 21
+GeneName	CEACAM21
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRHFLLVTLSTESVAQPSIQASSTTVTEKGSVVLTCHTNNTGTSFQWIFNNQRLQVTKRMKLSWFNHVLTIDPIRQEDAGEYQCEVSNPVSSNRSDPLKLTVKSDDNTLGILIGVLVGSLLVAALVCFLLLRKTGRASDQSDFREQQPPASTPGHGPSDSSIS
+PTM	

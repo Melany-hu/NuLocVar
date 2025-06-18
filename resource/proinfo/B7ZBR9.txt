@@ -1,0 +1,25 @@
+UniprotID	B7ZBR9
+Accession	B7ZBR9;B8ZZI2
+EntryName	B7ZBR9_HUMAN
+ProteinName	MCF.2 cell line derived transforming sequence like
+GeneName	MCF2L
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHQDIVPLCAADIQDQLKKRFAYLSGGRGQDGSPVITFPDYPAFSEIPDKEFQNVMTYLTSIPSLQDAGIGFILVIDRRRDKWTSVKASVLRIAASFPANLQLVLVLRPTGFFQRTLSDIAFKFNRDDFKMKVPVI
+PTM	

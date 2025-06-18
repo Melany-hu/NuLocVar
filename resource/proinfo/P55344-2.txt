@@ -1,0 +1,25 @@
+UniprotID	P55344-2
+Accession	P55344;Q6B083;Q9BXD0;Q9HAR5
+EntryName	LMIP_HUMAN
+ProteinName	Lens fiber membrane intrinsic protein (MP18) (MP19) (MP20)
+GeneName	LIM2
+Length	215
+Function	Present in the thicker 16-17 nm junctions of mammalian lens fiber cells, where it may contribute to cell junctional organization. Acts as a receptor for calmodulin. May play an important role in both lens development and cataractogenesis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSFMGGGLFCAWVGTILLVVAMATDHWMQYRLSGSFAHQGLWRYCLGNKCYLQTDSIGEPPGQGPGRAWGKSRADLGAQGHLYSRWRTLRLKEGKGATQAYWNATRAFMILSALCAISGIIMGIMAFAHQPTFSRISRPFSAGIMFFSSTLFVVLALAIYTGVTVSFLGRRFGDWRFSWSYILGWVAVLMTFFAGIFYMCAYRVHECRRLSTPR
+PTM	Phosphorylation:55

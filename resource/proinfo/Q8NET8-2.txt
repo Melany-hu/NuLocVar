@@ -1,0 +1,25 @@
+UniprotID	Q8NET8-2
+Accession	Q8NET8;Q8NDW7;Q8NET9;Q8NFH2
+EntryName	TRPV3_HUMAN
+ProteinName	Transient receptor potential cation channel subfamily V member 3 (TrpV3) (Vanilloid receptor-like 3) (VRL-3)
+GeneName	TRPV3
+Length	791
+Function	Non-selective calcium permeant cation channel (PubMed:12077604, PubMed:12077606, PubMed:26818531, PubMed:37648856, PubMed:38691614). It is activated by innocuous (warm) temperatures and shows an increased response at noxious temperatures greater than 39 degrees Celsius (PubMed:12077604, PubMed:12077606). Activation exhibits an outward rectification (PubMed:12077604). The channel pore can dilate to provide permeability to larger cations (PubMed:37648856). May associate with TRPV1 and may modulate its activity (PubMed:12077606). Is a negative regulator of hair growth and cycling: TRPV3-coupled signaling suppresses keratinocyte proliferation in hair follicles and induces apoptosis and premature hair follicle regression (catagen) (PubMed:21593771).
+Subcellular Location	Cell membrane; Cytoplasm; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	113...118
+validnes_region	
+nesbase_region	
+Sequence	MKAHPKEMVPLMGKRVAAPSGNPAILPEKRPAEITPTKKSAHFFLEIEGFEPNPTVAKTSPPVFSKPMDSNIRQCISGNCDDMDSPQSPQDDVTETPSNPNSPSAQLAKEEQRRKKRRLKKRIFAAVSEGCVEELVELLVELQELCRRRHDEDVPDFLMHKLTASDTGKTCLMKALLNINPNTKEIVRILLAFAEENDILGRFINAEYTEEAYEGQTALNIAIERRQGDIAALLIAAGADVNAHAKGAFFNPKYQHEGFYFGETPLALAACTNQPEIVQLLMEHEQTDITSRDSRGNNILHALVTVAEDFKTQNDFVKRMYDMILLRSGNWELETTRNNDGLTPLQLAAKMGKAEILKYILSREIKEKRLRSLSRKFTDWAYGPVSSSLYDLTNVDTTTDNSVLEITVYNTNIDNRHEMLTLEPLHTLLHMKWKKFAKHMFFLSFCFYFFYNITLTLVSYYRPREEEAIPHPLALTHKMGWLQLLGRMFVLIWAMCISVKEGIAIFLLRPSDLQSILSDAWFHFVFFIQAVLVILSVFLYLFAYKEYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYIVFLLGFGVALASLIEKCPKDNKDCSSYGSFSDAVLELFKLTIGLGDLNIQQNSKYPILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLPEWLRSRFRMGELCKVAEDDFRLCLRINEVKWTEWKTHVSFLNEDPGPVRRTADFNKIQDSSRNNSKTTLNAFEEVEEFPETSV
+PTM	Methylation:109,350,358,589,611,738;Phosphorylation:374,607

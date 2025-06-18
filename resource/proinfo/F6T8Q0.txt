@@ -1,0 +1,25 @@
+UniprotID	F6T8Q0
+Accession	F6T8Q0
+EntryName	F6T8Q0_HUMAN
+ProteinName	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+GeneName	SMARCA2
+Length	248
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	21...26;42...47;43...48
+validnes_region	
+nesbase_region	
+Sequence	MWLAIEDGNLEEMEEEVRLKKRKRRRNVDKDPAKEDVEKAKKRRGRPPAEKLSPNPPKLTKQMNAIIDTVINYKDSSGRQLSEVFIQLPSRKELPEYYELIRKPVDFKKIKERIRNHKYRSLGDLEKDVMLLCHNAQTFNLEGSQIYEDSIVLQSVFKSARQKIAKEEESEDESNEEEEEEDEEESESEAKSVKVKIKLNKKDDKGRDKGKGKKRPNRGKAKPVVSDFDSDEEQDEREQSEGSGTDDE
+PTM	

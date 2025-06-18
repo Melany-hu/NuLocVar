@@ -1,0 +1,25 @@
+UniprotID	Q6PKB8
+Accession	Q6PKB8
+EntryName	Q6PKB8_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 15 (Mediator complex subunit 15)
+GeneName	MED15
+Length	767
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ARGLRRRRWRPSGIRAAGAGEQAWTFPGKRPTGGAPPSGRSCEDAMRKAGVAHSKSSKDMESHVFLKAKTRDEYLSLVARLIIHFRDIHNKKSQASVSDPMNALQSLTGGPAAGAAGIGMPPRGPGQSLGGMGSLGATGQPMSLSGQPPPGTSGMAPHSMAVVSTATPQTQLQLQQVALQQQQQQQQFQQQQQAALQQQQQQQQQQQFQAQQSAMQQQFQAVVQQQQQLQQQQQQQQHLIKLHHQNQQQIQQQQQQLQRIAQLQLQQQQQQQQQQQQQQQQALQAQPPIQQPPMQQPQPPPSQALPQQLQQMHHTQHHQPPPQPQQPPVAQNQPSQLPPQSQTQPLVSQAQALPGQMLYTQPPLKFVRAPMVVQQPPVQPQVQQQQTAVQTAQAAQMVAPGVQVSQSSLPMLSSPSPGQQVQTPQSMPPPPQPSPQPGQPSSQPNSNVSSGPAPSPSSFLPSPSPQPSQSPVTARTPQNFSVPSPGPLNTPVNPSSVMSPAGSSQAEEQQYLDKLKQLSKYIEPLRRMINKIDKNEDRKKDLSKMKSLLDILTDPSKRCPLKTLQKCEIALEKLKNDMAVPTPPPPPVPPTKQQYLCQPLLDAVLANIRSPVFNHSLYRTFVPAMTAIHGPPITAPVVCTRKRRLEDDERQSIPSVLQGEVARLDPKFLVNLDPSHCSNNGTVHLICKLDDKDLPSVPPLELSVPADYPAQSPLWIDRQWQYDANPFLQSVHRCMTSRLLQLPDKHSVTALLNTWAQSVHQACLSAA
+PTM	

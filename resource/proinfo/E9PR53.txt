@@ -1,0 +1,25 @@
+UniprotID	E9PR53
+Accession	E9PR53
+EntryName	E9PR53_HUMAN
+ProteinName	Inka box actin regulator 2
+GeneName	INKA2
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMESREMDCYLRRLKQELMSMKEVGDGLQDQMNCMMGALQELKLLQVQTALEQLEISGGGPVPGSPEGPRTQCEHPCWEGGRGPARPTVCSPSSQPSLEQPEPTSGAFPIRCS
+PTM	

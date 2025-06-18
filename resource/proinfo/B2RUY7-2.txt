@@ -1,0 +1,25 @@
+UniprotID	B2RUY7-2
+Accession	B2RUY7;A6NC69;B2RUW7;B7X8X1
+EntryName	VWC2L_HUMAN
+ProteinName	von Willebrand factor C domain-containing protein 2-like (VWC2-like protein) (Brorin-like)
+GeneName	VWC2L
+Length	138
+Function	May play a role in neurogenesis. May play a role in bone differentiation and matrix mineralization.
+Subcellular Location	Secreted; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALHIHEACILLLVIPGLVTSAAISHEDYPADEGDQISSNDNLIFDDYRGKGCVDDSGFVYKLGERFFPGHSNCPCVCALDGPVCDQPECPKIHPKCTKVEHNGCCPECKEVKNFCEYHGKNYKILEEFKVCVTLHIY
+PTM	Methylation:191

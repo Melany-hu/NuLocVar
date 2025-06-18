@@ -1,0 +1,25 @@
+UniprotID	Q9Y6J8-4
+Accession	Q9Y6J8;Q9UBP1;Q9UK06;Q9UK07;Q9UKG2;Q9UKG3
+EntryName	STYL1_HUMAN
+ProteinName	Serine/threonine/tyrosine-interacting-like protein 1 (Dual specificity phosphatase inhibitor MK-STYX) (Dual specificity protein phosphatase 24) (Inactive dual specificity protein phosphatase MK-STYX) (Map kinase phosphatase-like protein MK-STYX)
+GeneName	STYXL1 DUSP24 MKSTYX
+Length	217
+Function	Catalytically inactive phosphatase (PubMed:20180778, PubMed:23163895). By binding to G3BP1, inhibits the formation of G3BP1-induced stress granules (PubMed:20180778, PubMed:23163895). Does not act by protecting the dephosphorylation of G3BP1 at 'Ser-149' (PubMed:23163895). Inhibits PTPMT1 phosphatase activity (PubMed:24709986). By inhibiting PTPMT1, positively regulates intrinsic apoptosis (PubMed:21262771). May play a role in the formation of neurites during neuronal development (PubMed:29250526).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGLLLCEPTELYNILNQATKLSRLTDPNYLCLLDVRSKWEYDESHVITALRVKKELDAFQPYPIEIVPGKVFVGNFSQACDPKIQKDLKIKAHVNVSMDTGPFFAGDADKLLHIRIEDSPEAQILPFLRHMCHFIEIHHHLGSVILIFSTQGISRSCAAIIAYLMHSNEQTLQRSWAYVKKCKNNMCPNRGLVSQLLEWEKTILGDSITNIMDPLY
+PTM	Methylation:21,89,128,277,298;Phosphorylation:137;SUMOylation:39;Ubiquitylation:39,56,128,145,207

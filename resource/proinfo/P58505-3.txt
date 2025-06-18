@@ -1,0 +1,25 @@
+UniprotID	P58505-3
+Accession	P58505;B3KPI1;Q8N7N9
+EntryName	CU058_HUMAN
+ProteinName	Uncharacterized protein C21orf58
+GeneName	C21orf58
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAILPGEAPVPGPGWPEPDAGGASVALGLPVPVCSSSASALQEQHLLDELSRAQAWSGPSRGALGSALPPELPPTGILPTASPSPLAPDPPRIILPTVPQPPATIIQQLPQQPLIAQIPPPQAFPTQRSGSIKEDMVELLLLQNAQVHQLVLQNWMLKALPPALQDPPHVPPRVPRAARPRLPAVHHHHHHHHAVWPPGAATVLQPAPSLWTPGPP
+PTM	Methylation:13,99

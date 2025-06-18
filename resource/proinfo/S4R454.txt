@@ -1,0 +1,25 @@
+UniprotID	S4R454
+Accession	S4R454
+EntryName	S4R454_HUMAN
+ProteinName	ETS variant transcription factor 2
+GeneName	ETV2
+Length	95
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QSSALTVCSEPSPQSDRASLARCPKTNHRGPIQLWQFLLELLHDGARSSCIRWTGNSREFQLCDPKEVGQLPCPAKSAPSLLVQFSSAQGLGSTA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q15056-2
+Accession	Q15056;A8K3R1;D3DXF6;D3DXF8
+EntryName	IF4H_HUMAN
+ProteinName	Eukaryotic translation initiation factor 4H (eIF-4H) (Williams-Beuren syndrome chromosomal region 1 protein)
+GeneName	EIF4H KIAA0038 WBSCR1 WSCR1
+Length	228
+Function	Stimulates the RNA helicase activity of EIF4A in the translation initiation complex. Binds weakly mRNA.
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADFDTYDDRAYSSFGGGRGSRGSAGGHGSRSQKELPTEPPYTAYVGNLPFNTVQGDIDAIFKDLSIRSVRLVRDKDTDKFKGFCYVEFDEVDSLKEALTYDGALLGDRSLRVDIAEGRKQDKGGFGFRKGGPDDRGFRDDFLGGRGGSRPGDRRTGPPMGSRFRDGPPLRGSNMDFREPTEEERAQRPRLQLKPRTVATPLNQVANPNSAIFGGARPREEVVQKEQE
+PTM	Acetylation:80,123,130,214,245;Methylation:10,19,22,31,63,68,76,80,82,96,112,130,136,145,166,170,174,175,183,185,191,198,205,214;Phosphorylation:6,7,12,13,14,21,24,30,32,45,66,69,86,94,101,110,150,176,182,193,217,220,230;SUMOylation:34;Ubiquitylation:34,80,120,123,245

@@ -1,0 +1,25 @@
+UniprotID	A0A804HHS8
+Accession	A0A804HHS8
+EntryName	A0A804HHS8_HUMAN
+ProteinName	WD repeat-containing protein 91
+GeneName	WDR91
+Length	695
+Function	Functions as a negative regulator of the PI3 kinase/PI3K activity associated with endosomal membranes via BECN1, a core subunit of the PI3K complex. By modifying the phosphatidylinositol 3-phosphate/PtdInsP3 content of endosomal membranes may regulate endosome fusion, recycling, sorting and early to late endosome transport. It is for instance, required for the delivery of cargos like BST2/tetherin from early to late endosome and thereby participates indirectly to their degradation by the lysosome. May play a role in meiosis.
+Subcellular Location	Early endosome membrane; Late endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQVYDLAALRDYWSYLERRLFSRLEDIYRPTIHKLKTSLFRFYLVYTIQTNRNDKAQEFFAKQATELQNQAEWKDWFVLPFLPSPDTNPTFATYFSRQWADTFIVSLHNFLSVLFQCMPVPVILNFDAECQRTNQVQEENEVLRQKLFALQAEIHRLKKEEQQPEEEEALVQHKLPPYVSNMDRLGDSELAMVCSQRNASLSQSPRVGFLSSLLPQSKKSPSRLSPAQGPPQPQSSAKKESFGGQGTKGKDPTSGAKDGKSLLSGLATGESGWSQHRQRRLQDHGKERKELFSTTTSQCAEKKPEASGPEAEPCPELHTEPVEPLTRASSAGPEGGGVRPEQPFIVLGQEEYGEHHSSIMHCRVDCSGRRVASLDVDGVIKVWSFNPIMQTKASSISKSPLLSLEWATKRDRLLLLGSGVGTVRLYDTEAKKNLCEININDNMPRILSLACSPNGASFVCSAAAPSLTSQVDFSAPDIGSKGMNQVPGRLLLWDTKTMKQQLQFSLDPEPIAINCTAFNHNGNLLVTGAADGVIRLFDMQQHECAMSWRAHYGEVYSVEFSYDENTVYSIGEDGKFIQWNIHKSGLKVSEYSLPSDATGPFVLSGYSGYKQVQVPRGRLFAFDSEGNYMLTCSATGGVIYKLGGDEKVLESCLSLGGHRAPVVTVDWSTAMDCGTCLTASMDGKIKLTTLLAHKA
+PTM	

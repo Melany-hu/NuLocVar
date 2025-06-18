@@ -1,0 +1,25 @@
+UniprotID	Q93050-1
+Accession	Q93050;B7Z3B7;Q8N5G7;Q9NSX0
+EntryName	VPP1_HUMAN
+ProteinName	V-type proton ATPase 116 kDa subunit a 1 (V-ATPase 116 kDa subunit a 1) (Clathrin-coated vesicle/synaptic vesicle proton pump 116 kDa subunit) (Vacuolar adenosine triphosphatase subunit Ac116) (Vacuolar proton pump subunit 1) (Vacuolar proton translocating ATPase 116 kDa subunit a isoform 1)
+GeneName	ATP6V0A1 ATP6N1 ATP6N1A VPP1
+Length	831
+Function	Subunit of the V0 complex of vacuolar(H+)-ATPase (V-ATPase), a multisubunit enzyme composed of a peripheral complex (V1) that hydrolyzes ATP and a membrane integral complex (V0) that transports protons across cellular membranes. V-ATPase is responsible for the acidification of various organelles, such as lysosomes, endosomes, the trans-Golgi network, and secretory granules, including synaptic vesicles (PubMed:33065002, PubMed:33833240, PubMed:34909687). In certain cell types, can be exported to the plasma membrane, where it is involved in the acidification of the extracellular environment (By similarity). Required for assembly and activity of the vacuolar ATPase (By similarity). Through its action on compartment acidification, plays an essential role in neuronal development in terms of integrity and connectivity of neurons (PubMed:33833240).
+Subcellular Location	Cytoplasmic vesicle; Clathrin-coated vesicle membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGELFRSEEMTLAQLFLQSEAAYCCVSELGELGKVQFRDLNPDVNVFQRKFVNEVRRCEEMDRKLRFVEKEIRKANIPIMDTGENPEVPFPRDMIDLEANFEKIENELKEINTNQEALKRNFLELTELKFILRKTQQFFDEMADPDLLEESSSLLEPSEMGRGTPLRLGFVAGVINRERIPTFERMLWRVCRGNVFLRQAEIENPLEDPVTGDYVHKSVFIIFFQGDQLKNRVKKICEGFRASLYPCPETPQERKEMASGVNTRIDDLQMVLNQTEDHRQRVLQAAAKNIRVWFIKVRKMKAIYHTLNLCNIDVTQKCLIAEVWCPVTDLDSIQFALRRGTEHSGSTVPSILNRMQTNQTPPTYNKTNKFTYGFQNIVDAYGIGTYREINPAPYTIITFPFLFAVMFGDFGHGILMTLFAVWMVLRESRILSQKNENEMFSTVFSGRYIILLMGVFSMYTGLIYNDCFSKSLNIFGSSWSVRPMFTYNWTEETLRGNPVLQLNPALPGVFGGPYPFGIDPIWNIATNKLTFLNSFKMKMSVILGIIHMLFGVSLSLFNHIYFKKPLNIYFGFIPEIIFMTSLFGYLVILIFYKWTAYDAHTSENAPSLLIHFINMFLFSYPESGYSMLYSGQKGIQCFLVVVALLCVPWMLLFKPLVLRRQYLRRKHLGTLNFGGIRVGNGPTEEDAEIIQHDQLSTHSEDADEFDFGDTMVHQAIHTIEYCLGCISNTASYLRLWALSLAHAQLSEVLWTMVIHIGLSVKSLAGGLVLFFFFTAFATLTVAILLIMEGLSAFLHALRLHWVEFQNKFYSGTGFKFLPFSFEHIREGKFEE
+PTM	Acetylation:70,288;Glycosylation:488;Methylation:34,103,109,119,134,230,317,654;Phosphorylation:151,332,360,441,445;SUMOylation:103,666;Ubiquitylation:50,103,119,235,255,288,366,369,666

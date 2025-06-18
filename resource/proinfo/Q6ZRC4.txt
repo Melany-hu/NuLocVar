@@ -1,0 +1,25 @@
+UniprotID	Q6ZRC4
+Accession	Q6ZRC4
+EntryName	Q6ZRC4_HUMAN
+ProteinName	FLJ45079 protein (cDNA FLJ45079 fis, clone BRAWH3027675) (cDNA FLJ46474 fis, clone THYMU3024164)
+GeneName	FLJ45079 hCG_2045499
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCTVAHTCIEHMCTYMRLHPLAHPHTCALAPICTHVHTLAHMCICRNAPLHLCDTPAHLHTPICIQAQTHSHTFAHTATNLHKQHLYTDTYPFVPIQCTLTHLHTAVLAHTFAHTHLHTCTHTTHLSVQHTYLCAYMHICTCTQQWHTLLYHSP
+PTM	

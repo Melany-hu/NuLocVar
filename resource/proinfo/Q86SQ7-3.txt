@@ -1,0 +1,25 @@
+UniprotID	Q86SQ7-3
+Accession	Q86SQ7;O60527;Q3ZCR6;Q8N5F2;Q9P0F1
+EntryName	SDCG8_HUMAN
+ProteinName	Serologically defined colon cancer antigen 8 (Antigen NY-CO-8) (Centrosomal colon cancer autoantigen protein) (hCCCAP)
+GeneName	SDCCAG8 CCCAP NPHP10 HSPC085
+Length	634
+Function	Plays a role in the establishment of cell polarity and epithelial lumen formation (By similarity). Also plays an essential role in ciliogenesis and subsequent Hedgehog signaling pathway that requires the presence of intact primary cilia for pathway activation. Mechanistically, interacts with and mediates RABEP2 centrosomal localization which is critical for ciliogenesis (PubMed:27224062).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Cilium basal body; Cell junction; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKSPENSTLEEILGQYQRSLREHASRSIHQLTCALKEGDVTIGEDAPNLSFSTSVGNEDARTAWPELQQSHAVNQLKDLLRQQADKESEVSPSRRRKMSPLRSLEHEETNMPTMHDLVHTINDQSQYIHHLEAEVKFCKEELSGMKNKIQVVVLENEGLQQQLKSQRQEETLREQTLLDASGNMHNSWITTGEDSGVGETSKRPFSHDNADFGKAASAGLLDASEKLKLTYEEKCEIEESQLKFLRNDLAEYQRTCEDLKEQLKHKEFLLAANTCNRVGGLCLKCAQHEAVLSQTHTNVHMQTIERLVKERDDLMSALVSVRSSLADTQQREASAYEQVKQVLQISEEANFEKTKALIQCDQLRKELERQAERLEKELASQQEKRAIEKDMMKKEITKEREYMGSKMLILSQNIAQLEAQVEKVTKEKISAINQLEEIQSQLASREMDVTKVCGEMRYQLNKTNMEKDEAEKEHREFRAKTNRDLEIKDQEIEKLRIELDESKQHLEQEQQKAALAREECLRLTELLGESEHQLHLTRSEIAQLSQEKRYTYDKLGKLQRRNEELEEQCVQHGRVHETMKQRLRQLDKHSQATAQQLVQLLSKQNQLLLERQSLSEEVDRLRTQLPSMPQSDC
+PTM	Methylation:165,227,265,285,354,390,424,489,495,570,683;Phosphorylation:4,8,9,28,89,92,94,100,426,459,548;SUMOylation:37,227

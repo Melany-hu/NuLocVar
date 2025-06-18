@@ -1,0 +1,25 @@
+UniprotID	Q68DX3-4
+Accession	Q68DX3;B7WNW0;B7ZML5;Q2VY07;Q6GMQ9;Q6ZN38;Q6ZWI2;Q8N5T9
+EntryName	FRPD2_HUMAN
+ProteinName	FERM and PDZ domain-containing protein 2 (PDZ domain-containing protein 4) (PDZ domain-containing protein 5C)
+GeneName	FRMPD2 PDZD5C PDZK4 PDZK5C
+Length	320
+Function	Functions as a scaffold protein and likely plays a role in N-methyl-D-aspartic acid receptor (NMDAR)-mediated synaptic excitatory transmission (By similarity). May be involved in synapse formation in cone photoreceptor cells (By similarity). May play a role in the regulation of tight junction formation (PubMed:19706687). Binds phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2) (PubMed:19706687). May play a role in the regulation of NOD2-mediated NF-kappa-B activation in immune response (PubMed:23213202).
+Subcellular Location	Cytoplasm; Basolateral cell membrane; Cell junction; Tight junction; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTSIPFPGDRLLQVDGVILCGLTHKQAVQCLTGPGQVARLVLERRVPRSTQQCPSANDSMGDERTAVSLVTALPGRPSSCVSVTDGPKFEVKLKKNANGLGFSFVQMEKESCSHLKSDLVRIKRLFPGQPAEENGAIAAGDIILAVNGRSTEGLIFQEVLHLLRGAPQEVTLLLCRPPPGALPELEQEWQTPELSADKEFTRATCTDSCTSPILDQEDSWRDSASPDAGEGLGLRPESSQKAIREAQWGQNRERPWASSLTHSPESHPHLCKLHQERDESTLATSLEKDVRQNCYSVCDIMRLGRYSFSSPLTRLSTDIF
+PTM	Methylation:192,211,307,357,731,930,955,1277;Phosphorylation:217,218,608,663,670,722,725,1299

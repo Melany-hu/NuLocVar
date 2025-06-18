@@ -1,0 +1,25 @@
+UniprotID	H0Y3I3
+Accession	H0Y3I3
+EntryName	H0Y3I3_HUMAN
+ProteinName	Ciliary associated calcium binding coiled-coil 1
+GeneName	CABCOCO1
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLEESIKWLGEVMAEIGPTHSQKSEDWNIFDVKQANAIIDYLKISLFQHYKLYEFMFYSAREEIVIGT
+PTM	

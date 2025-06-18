@@ -1,0 +1,25 @@
+UniprotID	B1AKB6
+Accession	B1AKB6
+EntryName	B1AKB6_HUMAN
+ProteinName	MyoD family inhibitor
+GeneName	MDFI
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYQVSGQRPSGCDAPYGAPSAAPGPGQPQGNPLGCTPLLPNDSGHPSELGGTRRAGNGALGGPKAHRKLQTHPSLASQGSKKSKSSSKSTTSQIPLQAQEDCCVHCILSCLFCEFLTLCNIVLDCATCGSCSSEDSCLCCCCCGSGECADCDLPCDLDCGILDACCESADCLEICMECCGLCFSS
+PTM	

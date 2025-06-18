@@ -1,0 +1,25 @@
+UniprotID	H7C2G0
+Accession	H7C2G0
+EntryName	H7C2G0_HUMAN
+ProteinName	SH3 domain binding glutamate rich protein
+GeneName	SH3BGR
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSSGSIAIRKKQQEVVGFLEANKIDFKELDIAGDEDNRRWMRENVPGEKKPQNGIPLPPQIFNEEQYCGDFDSFFSAKEENIIYSFLGLAPPPDSKEEEGETATEETEEIAMEGAEGEAEEEEETAEGEEPGEDEDS
+PTM	

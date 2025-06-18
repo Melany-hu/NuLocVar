@@ -1,0 +1,25 @@
+UniprotID	Q5W0S4
+Accession	Q5W0S4
+EntryName	Q5W0S4_HUMAN
+ProteinName	RAD23 homolog B, nucleotide excision repair protein
+GeneName	RAD23B
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKALKEKIESEKGKDAFPVAGQKLIYAGKILNDDTALKEYKIDEKNFVVVMVTKPKAVSTPAPATTQQSAPASTTAVTS
+PTM	

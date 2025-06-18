@@ -1,0 +1,25 @@
+UniprotID	K7EQQ6
+Accession	K7EQQ6
+EntryName	K7EQQ6_HUMAN
+ProteinName	Diphthamide biosynthesis 1
+GeneName	DPH1
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TIVDILERFTEAEVMVMGDVTYGACCVDDFTARALGADFLVHYGHSCLS
+PTM	

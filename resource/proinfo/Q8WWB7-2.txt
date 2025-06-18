@@ -1,0 +1,25 @@
+UniprotID	Q8WWB7-2
+Accession	Q8WWB7;A6NH16;B4DJN4;Q5SZX4;Q6UX96;Q8IV07;Q96F65
+EntryName	GLMP_HUMAN
+ProteinName	Glycosylated lysosomal membrane protein (Lysosomal protein NCU-G1)
+GeneName	GLMP C1orf85 PSEC0030 UNQ2553/PRO6182
+Length	325
+Function	Required to protect lysosomal transporter MFSD1 from lysosomal proteolysis and for MFSD1 lysosomal localization.
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVATNTPHSTLSVNWSLLLSPEPDGGLMVLPKDSIQFSSALVFTRLLEFDSTNVSDTAAKPLGRPYPPYSLADFSWNNITDSLDPATLSATFQGHPMNDPTRTFANGSLAFRVQAFSRSSRPAQPPRLLHTADTCQLEVALIGASPRGNRSLFGLEVATLGQGPDCPSMQEQHSIDDEYAPAVFQLDQLLWGSLPSGFAQWRPVAYSQKPGGRESALPCQASPLHPALAYSLPQSPIVRAFFGSQNNFCAFNLTFGASTGPGYWDQHYLSWSMLLGVGFPPVDGLSPLVLGIMAVALGAPGLMLLGGGLVLLLHHKKYSEYQSIN
+PTM	Glycosylation:187;Methylation:37;Phosphorylation:201,226;Ubiquitylation:290

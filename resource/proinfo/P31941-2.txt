@@ -1,0 +1,25 @@
+UniprotID	P31941-2
+Accession	P31941;A0AVM1;Q12807;Q5JZ93;Q9UH18
+EntryName	ABC3A_HUMAN
+ProteinName	DNA dC->dU-editing enzyme APOBEC-3A (A3A) (EC 3.5.4.38) (Phorbolin-1)
+GeneName	APOBEC3A
+Length	187
+Function	DNA deaminase (cytidine deaminase) with restriction activity against viruses, foreign DNA and mobility of retrotransposons. Exhibits antiviral activity against adeno-associated virus (AAV) and human T-cell leukemia virus type 1 (HTLV-1) and may inhibit the mobility of LTR and non-LTR retrotransposons. Selectively targets single-stranded DNA and can deaminate both methylcytosine and cytosine in foreign DNA. Can induce somatic hypermutation in the nuclear and mitochondrial DNA. May also play a role in the epigenetic regulation of gene expression through the process of active DNA demethylation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPHIFTSNFNNGIGRHKTYLCYEVERLDNGTSVKMDQHRGFLHNQAKNLLCGFYGRHAELRFLDLVPSLQLDPAQIYRVTWFISWSPCFSWGCAGEVRAFLQENTHVRLRIFAARIYDYDPLYKEALQMLRDAGAQVSIMTYDEFKHCWDTFVDHQGCPFQPWDGLDEHSQALSGRLRAILQNQGN
+PTM	Ubiquitylation:137

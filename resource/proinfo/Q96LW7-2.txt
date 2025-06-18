@@ -1,0 +1,25 @@
+UniprotID	Q96LW7-2
+Accession	Q96LW7;Q5BJH8;Q9BSY2
+EntryName	CAR19_HUMAN
+ProteinName	Caspase recruitment domain-containing protein 19 (Bcl10-interacting CARD protein) (BinCARD)
+GeneName	CARD19 C9orf89
+Length	183
+Function	Plays a role in inhibiting the effects of BCL10-induced activation of NF-kappa-B. May inhibit the phosphorylation of BCL10 in a CARD-dependent manner.
+Subcellular Location	Nucleus; Endoplasmic reticulum membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDQTYCDRLVQDTPFLTGHGRLSEQQVDRIILQLNRYYPQILTNKEAEKFRNPKASLRVRLCDLLSHLQRSGERDCQEFYRALYIHAQPLHSRLPSRHALQNSDCTELDSGSQSGELSNRGPMSFLAGLGLAVGLALLLYCYPPDPKGLPGTRRVLGFSPVIIDRHVSRYLLAFLADDLGGL
+PTM	Ubiquitylation:46,55

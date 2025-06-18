@@ -1,0 +1,25 @@
+UniprotID	Q9UI42-2
+Accession	Q9UI42;B7Z576;Q86UY9
+EntryName	CBPA4_HUMAN
+ProteinName	Carboxypeptidase A4 (EC 3.4.17.-) (Carboxypeptidase A3)
+GeneName	CPA4 CPA3 UNQ694/PRO1339
+Length	388
+Function	Metalloprotease that cleaves hydrophobic C-terminal residues with a preference for -Phe, -Leu, -Ile, -Met, -Tyr and -Val (PubMed:20385563). May function in peptide hormone and/or neuropeptide catabolism (PubMed:20385563).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRWILFIGALIGSSICGQEKFFGDQVLRINVRNGDEISKLSQLVNSNNLKLNFWKSPSSFNRPVDVLVPSVSLQAFKSFLRSQGLEYAVTIEDLQIYHEMDNIAADFPDLARRVKIGHSFENRPMYVLKFSTGKGVRRPAVWLNAGIHSREWISQATAIWTARKIVSDYQRDPAITSILEKMDIFLLPVANPDGYVYTQTQNRLWRKTRSRNPGSSCIGADPNRNWNASFAGKGASDNPCSEVYHGPHANSEVEVKSVVDFIQKHGNFKGFIDLHSYSQLLMYPYGYSVKKAPDAEELDKVARLAAKALASVSGTEYQVGPTCTTVYPASGSSIDWAYDNGIKFAFTFELRDTGTYGFLLPANQIIPTAEETWLGLKTIMEHVRDNLY
+PTM	Acetylation:333;Glycosylation:260;Methylation:50,214,289;Phosphorylation:210;Ubiquitylation:77,167

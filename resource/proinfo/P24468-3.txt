@@ -1,0 +1,25 @@
+UniprotID	P24468-3
+Accession	P24468;B4DQJ2;B6ZGU1;Q03754;Q3KQR7
+EntryName	COT2_HUMAN
+ProteinName	COUP transcription factor 2 (COUP-TF2) (Apolipoprotein A-I regulatory protein 1) (ARP-1) (COUP transcription factor II) (COUP-TF II) (Nuclear receptor subfamily 2 group F member 2)
+GeneName	NR2F2 ARP1 TFCOUP2
+Length	261
+Function	Ligand-activated transcription factor. Activated by high concentrations of 9-cis-retinoic acid and all-trans-retinoic acid, but not by dexamethasone, cortisol or progesterone (in vitro). Regulation of the apolipoprotein A-I gene transcription. Binds to DNA site A. May be required to establish ovary identity during early gonad development (PubMed:29478779).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPTQPTHGQFALTNGDPLNCHSYLSGYISLLLRAEPYPTSRFGSQCMQPNNIMGIENICELAARMLFSAVEWARNIPFFPDLQITDQVALLRLTWSELFVLNAAQCSMPLHVAPLLAAAGLHASPMSADRVVAFMDHIRIFQEQVEKLKALHVDSAEYSCLKAIVLFTSDACGLSDVAHVESLQEKSQCALEEYVRSQYPNQPTRFGKLLLRLPSLRTVSSSVIEQLFFVRLVGKTPIETLIRDMLLSGSSFNWPYMAIQ
+PTM	Methylation:301,340,389;Phosphorylation:7,106,112,369,394;SUMOylation:70,340,362;Ubiquitylation:389

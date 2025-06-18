@@ -1,0 +1,25 @@
+UniprotID	Q5TGI0-2
+Accession	Q5TGI0;B3KU39;Q96F61;Q96LU3;Q9BR58;Q9BSS2
+EntryName	FAXC_HUMAN
+ProteinName	Failed axon connections homolog
+GeneName	FAXC C6orf168
+Length	129
+Function	May play a role in axonal development.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPKLSTLDATVFGHLAQAMWTLPGTRPERLIKGELINLAMYCERIRRKFWPEWHHDDDNTIYESEESSEGSKTHTPLLDFSFYSRTETFEDEGAENSFSRTPDTDFTGHSLFDSDVDMDDYTDHEQCK
+PTM	Methylation:90,192;Phosphorylation:142;Ubiquitylation:177

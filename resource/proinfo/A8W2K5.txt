@@ -1,0 +1,25 @@
+UniprotID	A8W2K5
+Accession	A8W2K5
+EntryName	A8W2K5_HUMAN
+ProteinName	MutL-like 1 protein
+GeneName	MLH1
+Length	133
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	WKAVSRELIEIGCEDKTLAFKMNGYISNANYSVKKCILLLFINHRLVESTSLRKAIETVYAAYLPKNTHPFLYLSLEISPQNVDVNVHPTKHEVHFLHEESILERVQQHIESKLLGSNSSRMYFTQKETSGRF
+PTM	

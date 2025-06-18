@@ -1,0 +1,25 @@
+UniprotID	A0A087WTK3
+Accession	A0A087WTK3
+EntryName	A0A087WTK3_HUMAN
+ProteinName	Zinc finger protein 248
+GeneName	ZNF248
+Length	122
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNKSQEQVSFKDVCVDFTQEEWYLLDPAQKILYRDVILENYSNLVSVGYCITKPEVIFKIEQGEEPWILEKGFPSQCHPERKWKVDDVLESSQENEDDHFWELLFHNNKTLRFQLLGRKQFL
+PTM	

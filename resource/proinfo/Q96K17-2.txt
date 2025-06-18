@@ -1,0 +1,25 @@
+UniprotID	Q96K17-2
+Accession	Q96K17;B3KNJ1;D3DQ32;G3V1C6
+EntryName	BT3L4_HUMAN
+ProteinName	Transcription factor BTF3 homolog 4 (Basic transcription factor 3-like 4)
+GeneName	BTF3L4
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIKDDGTVIHFNNPKVQASLSANTFAITGHAEAKPITEMLPGILSQLGADSLTSLRKLAEQFPRQVLDSKAPKPEDIDEEDDDVPDLVENFDEASKNEAN
+PTM	Acetylation:5,8,18,37,115,154;Methylation:18,115;Phosphorylation:20,31,33,153;SUMOylation:5,8,131;Ubiquitylation:8,18,115,128,131,154

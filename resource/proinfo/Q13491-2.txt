@@ -1,0 +1,25 @@
+UniprotID	Q13491-2
+Accession	Q13491;O76077;Q86X43;Q8N956
+EntryName	GPM6B_HUMAN
+ProteinName	Neuronal membrane glycoprotein M6-b (M6b)
+GeneName	GPM6B M6B
+Length	246
+Function	May be involved in neural development. Involved in regulation of osteoblast function and bone formation. Involved in matrix vesicle release by osteoblasts; this function seems to involve maintenance of the actin cytoskeleton. May be involved in cellular trafficking of SERT and thereby in regulation of serotonin uptake.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCFECCIKCLGGVPYASLVATILCFSGVALFCGCGHVALAGTVAILEQHFSTNASDHALLSEVIQLMQYVIYGIASFFFLYGIILLAEGFYTTSAVKELHGEFKTTACGRCISGMFVFLTYVLGVAWLGVFGFSAVPVFMFYNIWSTCEVIKSPQTNGTTGVEQICVDIRQYGIIPWNAFPGKICGSALENICNTNEFYMSYHLFIVACAGAGATVIALLIYMMATTYNYAVLKFKSREDCCTKF
+PTM	Methylation:172

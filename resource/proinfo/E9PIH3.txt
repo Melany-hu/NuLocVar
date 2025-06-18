@@ -1,0 +1,25 @@
+UniprotID	E9PIH3
+Accession	E9PIH3
+EntryName	E9PIH3_HUMAN
+ProteinName	Zinc finger protein 7
+GeneName	ZNF7
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFLGCWCVSFQEVVTFGDVAVHFSREEWQCLDPGQRALYREVMLENHSSVAGLAGFLVFKPELISRLEQGEEPWVLDLQGAEGTEAPRTSKTGFLGRPTMGQEPRHPHAPPATPVPGLPKHCSQRLTLPPPGLSSSPLGHFLVHDQDRRRGTSAIWMV
+PTM	

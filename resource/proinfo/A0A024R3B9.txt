@@ -1,0 +1,25 @@
+UniprotID	A0A024R3B9
+Accession	A0A024R3B9
+EntryName	A0A024R3B9_HUMAN
+ProteinName	Alpha-crystallin B chain (Alpha(B)-crystallin)
+GeneName	CRYAB hCG_1730741
+Length	108
+Function	May contribute to the transparency and refractive index of the lens. Has chaperone-like activity, preventing aggregation of various proteins under a wide range of stress conditions. In lens epithelial cells, stabilizes the ATP6V1A protein, preventing its degradation by the proteasome.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQDEHGFISREFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQVSGPERTIPITREEKPAVTAAPKK
+PTM	

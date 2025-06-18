@@ -1,0 +1,25 @@
+UniprotID	F8VZK3
+Accession	F8VZK3
+EntryName	F8VZK3_HUMAN
+ProteinName	Phosphodiesterase 1B
+GeneName	PDE1B
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELSPRSPPEMLEESDCPSPLELKSAPSKKMWIKLRSLLRYMVKQLENGEINIEELKKNLEYTASLLEAVYIDETRVSRLWKHLLSFLCDSPSGVSGKSWTRRTSCRSCGQMPCLRRCGTGWPPPSPSRPGPKAAEQRRSPSSEALCTLCRLGSSWNGCSGEHTPLWAPLTLLRFSTVSRTWISGALMSFP
+PTM	

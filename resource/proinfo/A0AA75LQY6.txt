@@ -1,0 +1,25 @@
+UniprotID	A0AA75LQY6
+Accession	A0AA75LQY6
+EntryName	A0AA75LQY6_HUMAN
+ProteinName	Cell growth regulator with EF-hand domain 1
+GeneName	CGREF1
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPDSEVQHQLLPNPFQPGQEQLGLLQSYLKGLGRTEVQLEHLSREQVLLYLFALHDYDQSGQLDGLELLSMLTAALAPGAANSPTTNPVILIVDKVLETQDLNGDGLMTPAELINFPGVALRPYPPYIGVGPNSNMCSRSDLPEDSNTLYPGSHLWLRHALNSKGNLDARLDGGEKAMQPQW
+PTM	

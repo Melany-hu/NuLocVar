@@ -1,0 +1,25 @@
+UniprotID	Q6ZSX4
+Accession	Q6ZSX4
+EntryName	Q6ZSX4_HUMAN
+ProteinName	Erythrocyte membrane protein band 4.1 like 2 (cDNA FLJ45145 fis, clone BRAWH3041492, moderately similar to Homo sapiens erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked) (EPB41))
+GeneName	EPB41L2
+Length	201
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEEETQLEEKNSLRVEGDNIYVRHSNLMLEELDKAQEDILKHQASISELKRNFMESTPEPRPNEWEKRRITPLSLQTQGTRAPESEGPCTGARDAVKPPVVKTEMVTISDASQRTEISTKEVPIVQTETKTITYESPQTVKGGISETRIEKRIVITGDGDIDHDQALAQAIREAREQHPDMSVTRVVVHKETELAEEGED
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F8W719
+Accession	F8W719
+EntryName	F8W719_HUMAN
+ProteinName	Intersectin 2
+GeneName	ITSN2
+Length	183
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWAITSEERTKHDRQFDNLKPSGGYITGDQARNFFLQSGLPAPVLAEIWALSDLNKDGKMDQQEFSIAMKLIKLKLQGQQLPVVLPPIMKQPPMFSPLISARFGMGSMPNLSIPQPLPPAAPITSLSSATSGTNLPPLMMPTPLVPSVSTSSLPNGTASLIQPLPIPYSSSTLPHGSSYSLMM
+PTM	

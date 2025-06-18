@@ -1,0 +1,25 @@
+UniprotID	Q9NRY2
+Accession	Q9NRY2;Q5VWJ7;Q96E04;Q9P090
+EntryName	SOSSC_HUMAN
+ProteinName	SOSS complex subunit C (INTS3- and NABP-interacting protein) (Sensor of single-strand DNA complex subunit C) (Sensor of ssDNA subunit C) (SOSS-C) (Single-stranded DNA-binding protein-interacting protein 1) (SSB-interacting protein 1) (hSSBIP1)
+GeneName	INIP C9orf80 SSBIP1 HSPC043 HSPC291
+Length	104
+Function	Component of the SOSS complex, a multiprotein complex that functions downstream of the MRN complex to promote DNA repair and G2/M checkpoint. The SOSS complex associates with single-stranded DNA at DNA lesions and influences diverse endpoints in the cellular DNA damage response including cell-cycle checkpoint activation, recombinational repair and maintenance of genomic stability. Required for efficient homologous recombination-dependent repair of double-strand breaks (DSBs) and ATM-dependent signaling pathways.
+Subcellular Location	Nucleus
+Disorder	0.5707,0.6375,0.6661,0.7163,0.7415,0.6427,0.6227,0.5211,0.4541,0.4476,0.4801,0.4292,0.4685,0.5017,0.5017,0.5055,0.5176,0.5211,0.4292,0.3566,0.4292,0.4292,0.4292,0.4409,0.4220,0.4119,0.4801,0.5211,0.6482,0.7799,0.8050,0.7672,0.8462,0.7415,0.7080,0.5854,0.5758,0.5758,0.6227,0.7163,0.7120,0.7629,0.7547,0.7505,0.5992,0.6136,0.6375,0.6576,0.6043,0.5951,0.5665,0.5901,0.6482,0.5419,0.6183,0.6136,0.7331,0.7547,0.7505,0.6755,0.6482,0.6482,0.6482,0.6661,0.6136,0.7629,0.7209,0.7289,0.7036,0.7331,0.7163,0.5807,0.4541,0.3566,0.4409,0.4801,0.5176,0.4979,0.4541,0.3529,0.3774,0.4149,0.4149,0.3249,0.2364,0.2988,0.2193,0.1759,0.1914,0.2002,0.1399,0.1476,0.2541,0.3599,0.4220,0.3983,0.3599,0.3182,0.2918,0.2884,0.3983,0.3667,0.3019,0.3910
+ExposeBuried	1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,1
+SurfaceAccessbility	0.764,0.488,0.523,0.552,0.523,0.638,0.413,0.522,0.353,0.169,0.493,0.463,0.470,0.436,0.242,0.108,0.175,0.083,0.087,0.228,0.529,0.126,0.461,0.599,0.639,0.321,0.307,0.486,0.185,0.139,0.308,0.504,0.448,0.476,0.533,0.455,0.479,0.563,0.298,0.502,0.386,0.154,0.338,0.112,0.171,0.133,0.372,0.341,0.378,0.517,0.171,0.457,0.584,0.536,0.118,0.458,0.580,0.333,0.215,0.581,0.510,0.463,0.380,0.164,0.312,0.324,0.423,0.339,0.475,0.254,0.181,0.148,0.473,0.311,0.163,0.316,0.256,0.298,0.404,0.419,0.173,0.144,0.108,0.076,0.163,0.350,0.444,0.432,0.310,0.181,0.261,0.349,0.085,0.081,0.086,0.181,0.112,0.138,0.325,0.486,0.234,0.554,0.574,0.937
+SecondStructure	C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,B,B,A,A,A,A,C,C,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,B,B,B,B,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,B,B,B,B,C,C,C,C,C,C,C,B,B,B,B,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,1.8,-3.5,-0.8,-0.8,-0.4,-3.5,-0.4,2.8,-3.5,-3.5,-3.9,-3.5,-4.5,4.2,1.8,4.5,3.8,1.8,-3.5,3.8,-3.5,-3.9,-3.5,-3.9,-4.5,-3.9,3.8,3.8,1.9,-3.5,-3.5,-3.5,-0.8,-0.8,-0.7,-3.5,-3.2,-1.6,-0.4,1.8,-0.8,4.5,1.8,3.8,-0.8,-4.5,-1.6,-0.8,3.8,-3.5,-3.9,-3.5,2.8,-4.5,-3.5,-3.2,1.8,-3.5,-3.5,-3.5,-3.2,4.5,1.8,1.8,-3.5,-3.5,-3.9,1.8,1.8,3.8,-3.5,-3.2,1.8,-3.2,1.8,-3.2,-0.8,-0.8,-0.4,-1.3,2.8,4.5,-0.7,-3.5,-3.5,-0.8,1.8,2.8,-0.4,-3.5,3.8,4.5,3.8,-1.6,4.2,3.8,-1.6,-4.5,3.8,-3.5,-1.6,-3.5
+Polar	0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Charge	0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-1,0,-1,1,-1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,-1,0,1,-1,1,0,-1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1,0,-1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	23...28;24...29;22...27
+validnes_region	
+nesbase_region	
+Sequence	MAANSSGQGFQNKNRVAILAELDKEKRKLLMQNQSSTNHPGASIALSRPSLNKDFRDHAEQQHIAAQQKAALQHAHAHSSGYFITQDSAFGNLILPVLPRLDPE
+PTM	Acetylation:13,24;Phosphorylation:5,43,47,50;SUMOylation:13,53

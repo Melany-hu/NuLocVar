@@ -1,0 +1,25 @@
+UniprotID	Q6VN20-3
+Accession	Q6VN20;A4FTY2;B4DID0;B4DQH9;E7EW27;Q9P264
+EntryName	RBP10_HUMAN
+ProteinName	Ran-binding protein 10 (RanBP10)
+GeneName	RANBP10 KIAA1464
+Length	594
+Function	May act as an adapter protein to couple membrane receptors to intracellular signaling pathways (Probable). Core component of the CTLH E3 ubiquitin-protein ligase complex that selectively accepts ubiquitin from UBE2H and mediates ubiquitination and subsequent proteasomal degradation of the transcription factor HBP1 (PubMed:29911972). Enhances dihydrotestosterone-induced transactivation activity of AR, as well as dexamethasone-induced transactivation activity of NR3C1, but does not affect estrogen-induced transactivation (PubMed:18222118). Acts as a guanine nucleotide exchange factor (GEF) for RAN GTPase. May play an essential role in hemostasis and in maintaining microtubule dynamics with respect to both platelet shape and function (By similarity).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAATADPGAGNPQPGDSSGGGAGGGLPSPGEQELSRRLQRLYPAVNQQETPLPRSWSPKDKYNYIGLSQGNLRVHYKGHGKNHKDAASVRATHPIPAACGIYYFEVKIVSKGRDGYMGIGLSAQGVNMNRLPGIAFTDLPANLYPTVGLQTPGEIVDANFGQQPFLFDIEDYMREWRAKVQGTVHCFPISARLGEWQAVLQNMVSSYLVHHGYCATATAFARMTETPIQEEQASIKNRQKIQKLVLEGRVGEAIETTQRFYPGLLEHNPNLLFMLKCRQFVEMVNGTDSEVRSLSSRSPKSQDSYPGSPSLSPRHGPSSSHMHNTGADSPSCSNGVASTKSKQNHSKYPAPSSSSSSSSSSSSSSPSSVNYSESNSTDSTKSQHHSSTSNQETSNPWLQLERRPNQAAPTTPPGPTPTSTPPHSDSEMEMEAEHYPNGVLGSMSTRIVNGAYKHEDLQTDESSMDDRHPRRQLCGGNQAATERIILFGRELQALSEQLGREYGKNLAHTEMLQDAFSLLAYSDPWSCPVGQQLDPIQREPVCAALNSAILESQNLPKQPPLMLALGQASECLRLMARAGLGSCSFARVDDYLH
+PTM	Acetylation:293;Methylation:112,494,584;Phosphorylation:29,36,58,63,65,350,352,353,355,358,361,362,365,367,369,386,415,422,450,451,453,486,489,490;Ubiquitylation:62,293,357

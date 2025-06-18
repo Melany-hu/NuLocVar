@@ -1,0 +1,25 @@
+UniprotID	X6R6S3
+Accession	X6R6S3
+EntryName	X6R6S3_HUMAN
+ProteinName	Chromosome 1 open reading frame 43
+GeneName	C1orf43
+Length	235
+Function	General regulator of phagocytosis. Required to uptake Gram negative bacterium by macrophages.
+Subcellular Location	Golgi apparatus; Membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	62...66
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGSNWLSGVNVVLVMAYGSLVFVLLFIFVKRQIMRFAMKSRRGPHVPVGHNAPKDLKEEIDIRLSRVQDIKYEPQLLADDDARLLQLETQGNQKIPFHSEGRHPRSLMGKNFRSYLLDLRNTSTPFKGVRKALIDTLLDGYETARYGTGVFGQNEYLRYQEALSELATAVKARIGSSQRHHQSAAKDLTQSPEVSPTTIQVTYLPSSQKSKRAKHFLELKSFKDNYNTLESTL
+PTM	

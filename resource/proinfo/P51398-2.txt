@@ -1,0 +1,25 @@
+UniprotID	P51398-2
+Accession	P51398;B4DP59;B4DY62;E7EM60;Q13044;Q68CT7;Q96Q20
+EntryName	RT29_HUMAN
+ProteinName	Small ribosomal subunit protein mS29 (28S ribosomal protein S29, mitochondrial) (MRP-S29) (S29mt) (Death-associated protein 3) (DAP-3) (Ionizing radiation resistance conferring protein)
+GeneName	DAP3 MRPS29
+Length	357
+Function	Involved in mediating interferon-gamma-induced cell death.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMLKGITRLISRIHKAKHGDQHEGQHYNISPQDLETVFPHGLPPRFVMQVKTFSEACLMVRKPALELLHYLKNTSFAYPAIRYLLYGEKGTGKTLSLCHVIHFCAKQDWLILHIPDAHLWVKNCRDLLQSSYNKQRFDQPLEASTWLKNFKTTNERFLNQIKVQEKYVWNKRESTEKGSPLGEVVEQGITRVRNATDAVGIVLKELKRQSSLGMFHLLVAVDGINALWGRTTLKREDKSPIAPEELALVHNLRKMMKNDWHGGAIVSALSQTGSLFKPRKAYLPQELLGKEGFDALDPFIPILVSNYNPKEFESCIQYYLENNWLQHEKAPTEEGKKELLFLSNANPSLLERHCAYL
+PTM	Acetylation:103,130,175,189,192,207,212,218,318;Methylation:207,245,331,351;Phosphorylation:220,231,237,252,280,311,315,373;SUMOylation:203;Ubiquitylation:130,175,192,207,212,218

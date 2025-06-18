@@ -1,0 +1,25 @@
+UniprotID	P16989-2
+Accession	P16989;B2RBW6;Q14121;Q969N6;Q96B76
+EntryName	YBOX3_HUMAN
+ProteinName	Y-box-binding protein 3 (Cold shock domain-containing protein A) (DNA-binding protein A) (Single-strand DNA-binding protein NF-GMB)
+GeneName	YBX3 CSDA DBPA
+Length	303
+Function	Binds to the GM-CSF promoter. Seems to act as a repressor. Also binds to full-length mRNA and to short RNA sequences containing the consensus site 5'-UCCAUCA-3'. May have a role in translation repression (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEAGEATTTTTTTLPQAPTEAAAAAPQDPAPKSPVGSGAPQAAAPAPAAHVAGNPGGDAAPAATGTAAAASLATAAGSEDAEKKVLATKVLGTVKWFNVRNGYGFINRNDTKEDVFVHQTAIKKNNPRKYLRSVGDGETVEFDVVEGEKGAEAANVTGPDGVPVEGSRYAADRRRYRRGYYGRRRGPPRNAGEIGEMKDGVPEGAQLQGPVHRNPTYRPRYRSRGPPRPRPAPAVGEAEDKENQQATSGPNQPSVRRGYRRPYNYRRRPRPPNAPSQDGKEAKAGEAPTENPAPPTQQSSAE
+PTM	Acetylation:84,90,96,113,124,311;Glycosylation:110;Methylation:96,133,150,169,174,175,220,225,229,233,235,236,248,251,258,268,283,288,290,292,294,298,300,311,326,327,330,331,336,337,338,340;Phosphorylation:2,8,11,14,34,38,65,67,72,75,79,104,112,134,140,192,201,203,204,217,250,286,287,291,293,317,318,324,346,366,369,370;SUMOylation:124,125;Ubiquitylation:84,85,90,96,113,124,125,150,268,311,350,353

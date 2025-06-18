@@ -1,0 +1,25 @@
+UniprotID	Q96RN5-2
+Accession	Q96RN5;D3DX31;D3DX32;O15413;Q6IC31;Q8NF16;Q96CT0;Q96IH7;Q9P1T3
+EntryName	MED15_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 15 (Activator-recruited cofactor 105 kDa component) (ARC105) (CTG repeat protein 7a) (Mediator complex subunit 15) (Positive cofactor 2 glutamine/Q-rich-associated protein) (PC2 glutamine/Q-rich-associated protein) (TPA-inducible gene 1 protein) (TIG-1) (Trinucleotide repeat-containing gene 7 protein)
+GeneName	MED15 ARC105 CTG7A PCQAP TIG1 TNRC7
+Length	748
+Function	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors. Required for cholesterol-dependent gene regulation. Positively regulates the Nodal signaling pathway.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	547..564
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVSGQETDWRSTAFRQKLVSQIEDAMRKAGVAHSKSSKDMESHVFLKAKTRDEYLSLVARLIIHFRDIHNKKSQASVSDPMNALQSLTGGPAAGAAGIGMPPRGPGQSLGGMGSLGAMGQPMSLSGQPPPGTSGMAPHSMAVVSTATPQTQLQLQQVALQQQQQQQQFQQQQQAALQQQQQQQQQQQFQAQQSAMQQQFQAVVQQQQQLQQQQQQQQHLIKLHHQNQQQIQQQQQQLQRIAQLQLQQQQQQQQQQQQQQQQALQAQPPIQQPPMQQPQPPPSQALPQQLQQMHHTQHHQPPPQPQQPPVAQNQPSQLPPQSQTQPLVSQAQALPGQMLYTQPPLKFVRAPMVVQQPPVQPQVQQQQTAVQTAQAAQMVAPGVQVSQSSLPMLSSPSPGQQVQTPQSMPPPPQPSPQPGQPSSQPNSNVSSGPAPSPSSFLPSPSPQPSQSPVTARTPQNFSVPSPGPLNTPVNPSSVMSPAGSSQAEEQQYLDKLKQLSKYIEPLRRMINKIDKNEDRKKDLSKMKSLLDILTDPSKRCPLKTLQKCEIALEKLKNDMAVPTPPPPPVPPTKQQYLCQPLLDAVLANIRSPVFNHSLYRTFVPAMTAIHGPPITAPVVCTRKRRLEDDERQSIPSVLQGEVARLDPKFLVNLDPSHCSNNGTVHLICKLDDKDLPSVPPLELSVPADYPAQSPLWIDRQWQYDANPFLQSVHRCMTSRLLQLPDKHSVTALLNTWAQSVHQACLSAA
+PTM	Acetylation:578,583;Methylation:565,587,594,688,713;Phosphorylation:35,497,505,511,520,603,612,631,637;SUMOylation:583;Ubiquitylation:18,567,578,583

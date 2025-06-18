@@ -1,0 +1,25 @@
+UniprotID	E9PK28
+Accession	E9PK28
+EntryName	E9PK28_HUMAN
+ProteinName	ADP-ribosylation factor GTPase-activating protein 2 (Zinc finger protein 289)
+GeneName	ARFGAP2
+Length	238
+Function	
+Subcellular Location	Cytoplasm; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAEPNKTEIQTLFKRLRAVPTNKACFDCGAKNPSWASITYGVFLCIDCSGVHRSLGVHLSFIRSTELDSNWNWFQLRCMQVGGNANATAFFRQHGCTANDANTKYNSRAAQMYREKIRQLGSAALARHGTDLWIDNMSSAVPNHSPEKKDSDFFTEHTQVLVGLGASCQQEWLTEASVIWPPFQPPAWDAPATEPSGTQQPAPSTESSGLAQPEHGPNTDLLGTSPKASLELKSSII
+PTM	

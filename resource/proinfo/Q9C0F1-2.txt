@@ -1,0 +1,25 @@
+UniprotID	Q9C0F1-2
+Accession	Q9C0F1;A8K8W9;A8MW11;B3KT53;D3DP42;Q8IXZ4
+EntryName	CEP44_HUMAN
+ProteinName	Centrosomal protein of 44 kDa (Cep44) (HBV PreS1-transactivated protein 3) (PS1TP3)
+GeneName	CEP44 KIAA1712
+Length	399
+Function	Centriole-enriched microtubule-binding protein involved in centriole biogenesis. In collaboration with CEP295 and POC1B, is required for the centriole-to-centrosome conversion by ensuring the formation of bona fide centriole wall (PubMed:32060285). Functions as a linker component that maintains centrosome cohesion. Associates with CROCC and regulates its stability and localization to the centrosome (PubMed:31974111).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole; Cytoplasm; Cytoskeleton; Spindle pole; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGDLKRSLRNLEQVLRLLNYPEEVDCVGLIKGDPAASLPIISYSFTSYSPYVTELIMESNVELIAKNDLRFIDAVYKLLRDQFNYKPILTKKQFIQCGFAEWKIQIVCDILNCVMKKHKELSSLQKIPSQQRKKISSGKSEPPLGNEKISAEAVGVDISGRFMTSGKKKAVVIRHLYNEDNVDISEDTLSPITDVNEAVDVSDLNATEIKMPEVKVPEIKAEQQDVNVNPEITALQTMLAECQENLKKLTSIEKRLDCLEQKMKGKVMVDENTWTNLLSRVTLLETEMLLSKKNDEFIEFNEVSEDYASCSDMDLLNPHRKSEVERPASIPLSSGYSTASSDSTPRASTVNYCGLNEISENFPAWSATSSCSSLSWLLRGHTSYLSSQSFAWPLSCV
+PTM	Acetylation:264;Methylation:33,68,93,150,249,256,294,368,384;Phosphorylation:124,125,142,192,253,324,331,335,336,340,342,343,345,346,354,379;SUMOylation:128,222,294,323,374;Ubiquitylation:7,79,119,128,249,264,294,368

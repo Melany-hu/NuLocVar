@@ -1,0 +1,25 @@
+UniprotID	Q9BT76-2
+Accession	Q9BT76;A6NHH5;A8K231;A8MZA8;B3KPU5;Q75MM5;Q86W06
+EntryName	UPK3B_HUMAN
+ProteinName	Uroplakin-3b (UP3b) (Uroplakin IIIb) (UPIIIb) (p35)
+GeneName	UPK3B
+Length	265
+Function	Component of the asymmetric unit membrane (AUM); a highly specialized biomembrane elaborated by terminally differentiated urothelial cells. May play an important role in AUM-cytoskeleton interaction in terminally differentiated urothelial cells. It also contributes to the formation of urothelial glycocalyx which may play an important role in preventing bacterial adherence (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPWGQPHLGLQMLLLALNCLRPSLSLELVPYTPQITAWDLEGKVTATTFSLEQPRCVFDGLASASDTVWLVVAFSNASRGFQNPETLADIPASPQLLTDGHYMTLPLSPDQLPCGDPMAGSGGAPVLRVGHDHGCHQQPFCNAPLPGPGPYREDPRIHRHLARAAKWQHDRHYLHPLFSGRPPTLGLLGSLYHALLQPVVAGGGPGAAADRLLHGQALHDPPHPTQRGRHTAGGLQAWPGPPPQPQPLAWPLCMGLGEMGRWE
+PTM	Phosphorylation:236

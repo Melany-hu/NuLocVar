@@ -1,0 +1,25 @@
+UniprotID	A0A1X9Q216
+Accession	A0A1X9Q216
+EntryName	A0A1X9Q216_HUMAN
+ProteinName	Truncated Rhesus blood group D antigen
+GeneName	RHD
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCCNRVLGIPHSSIMGYNFSLLGLLGEIIYIVLLVLDTVGAGKWHDWLPGPPQHWGTQLGHRDSSHVWSPDRFAPKS
+PTM	

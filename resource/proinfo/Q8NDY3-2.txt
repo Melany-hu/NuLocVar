@@ -1,0 +1,25 @@
+UniprotID	Q8NDY3-2
+Accession	Q8NDY3;Q5JUG2;Q96GD1
+EntryName	ARHL1_HUMAN
+ProteinName	Inactive ADP-ribosyltransferase ARH2 (ADP-ribosylhydrolase-like protein 1) ([Protein ADP-ribosylarginine] hydrolase-like protein 1)
+GeneName	ADPRHL1 ARH2
+Length	272
+Function	Required for myofibril assembly and outgrowth of the cardiac chambers in the developing heart (By similarity). Appears to be catalytically inactive, showing no activity against O-acetyl-ADP-ribose (By similarity).
+Subcellular Location	Cytoplasm; Myofibril; Sarcomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRCYVEIVEKLPERRPDPATIEGCAQLKPNNYLLAWHTPFNEKGSGFGAATKAMCIGLRYWKPERLETLIEVSVECGRMTHNHPTGFLGSLCTALFVSFAAQGKPLVQWGRDMLRAVPLAEEYCRKTIRHTAEYQEHWFYFEAKWQFYLEERKISKDSENKAIFPDNYDAEEREKTYRKWSSEGRGGRRGHDAPMIAYDALLAAGNSWTELCHRAMFHGGESAATGTIAGCLFGLLYGLDLVPKGLYQDLEDKEKLEDLGAALYRLSTEEK
+PTM	Methylation:93,135,187,209;Phosphorylation:163

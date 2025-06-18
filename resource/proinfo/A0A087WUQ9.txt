@@ -1,0 +1,25 @@
+UniprotID	A0A087WUQ9
+Accession	A0A087WUQ9
+EntryName	A0A087WUQ9_HUMAN
+ProteinName	Cytoplasmic polyadenylation element binding protein 1
+GeneName	CPEB1
+Length	138
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	20...29
+nlsdbnls_region	
+validnes_region	20...29
+nesbase_region	
+Sequence	MLFPTSAQESSRGLPDANDLCLGLQSLSLTGWDRPWSTQDSDSSAQSSTHSVKPSHFSTSALPVSVRGWSQRPFKDGGRVSDGPRASCSCCSHSLPNQCFKEMARSFCVAILGPPRSSQRPLQHRERGQAAPTSCSCE
+PTM	

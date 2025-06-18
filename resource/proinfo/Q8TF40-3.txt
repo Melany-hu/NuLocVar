@@ -1,0 +1,25 @@
+UniprotID	Q8TF40-3
+Accession	Q8TF40;D6RJH5;Q86T47;Q9BUT0
+EntryName	FNIP1_HUMAN
+ProteinName	Folliculin-interacting protein 1
+GeneName	FNIP1 KIAA1961
+Length	1138
+Function	Binding partner of the GTPase-activating protein FLCN: involved in the cellular response to amino acid availability by regulating the non-canonical mTORC1 signaling cascade controlling the MiT/TFE factors TFEB and TFE3 (PubMed:17028174, PubMed:18663353, PubMed:24081491, PubMed:37079666). Required to promote FLCN recruitment to lysosomes and interaction with Rag GTPases, leading to activation of the non-canonical mTORC1 signaling (PubMed:24081491). In low-amino acid conditions, component of the lysosomal folliculin complex (LFC) on the membrane of lysosomes, which inhibits the GTPase-activating activity of FLCN, thereby inactivating mTORC1 and promoting nuclear translocation of TFEB and TFE3 (By similarity). Upon amino acid restimulation, disassembly of the LFC complex liberates the GTPase-activating activity of FLCN, leading to activation of mTORC1 and subsequent inactivation of TFEB and TFE3 (PubMed:37079666). Together with FLCN, regulates autophagy: following phosphorylation by ULK1, interacts with GABARAP and promotes autophagy (PubMed:25126726). In addition to its role in mTORC1 signaling, also acts as a co-chaperone of HSP90AA1/Hsp90: following gradual phosphorylation by CK2, inhibits the ATPase activity of HSP90AA1/Hsp90, leading to activate both kinase and non-kinase client proteins of HSP90AA1/Hsp90 (PubMed:27353360, PubMed:30699359). Acts as a scaffold to load client protein FLCN onto HSP90AA1/Hsp90 (PubMed:27353360). Competes with the activating co-chaperone AHSA1 for binding to HSP90AA1, thereby providing a reciprocal regulatory mechanism for chaperoning of client proteins (PubMed:27353360). Also acts as a core component of the reductive stress response by inhibiting activation of mitochondria in normal conditions: in response to reductive stress, the conserved Cys degron is reduced, leading to recognition and polyubiquitylation by the CRL2(FEM1B) complex, followed by proteasomal (By similarity). Required for B-cell development (PubMed:32905580).
+Subcellular Location	Lysosome membrane; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPTLFQKLFSKRTGLGAPGRDARDPDCGFSWPLPEFDPSQIRLIVYQDCERRGRNVLFDSSVKRRNEDISVSKLGSDAQVKVFGKCCQLKPGGDSSSSLDSSVTSSSDIKDQCLKYQGSRCSSDANMLGEMMFGSVAMSYKGSTLKIHQIRSPPQLMLSKVFTARTGSSICGSLNTLQDSLEFINQDNNTLKADNNTVINGLLGNIVHSNPMDMPGRELNEDRDSGIARSASLSSLLITPFPSPNSSLTRSCASSYQRRWRRSQTTSLENGVFPRWSIEESFNLSDESCGPNPGIVRKKKIAIGVIFSLSKDEDENNKFNEFFFSHFPLFESHMNKLKSAIEQAMKMSRRSADASQRSLAYNRIVDALNEFRTTICNLYTMPRIGEPVWLTMMSGTPEKNHLCYRFMKEFTFLMENASKNQFLPALITAVLTNHLAWVPTVMPNGQPPIKIFLEKHSSQSVDMLAKTHPYNPLWAQLGDLYGAIGSPVRLARTVVVGKRQDMVQRLLYFLTYFIRCSELQETHLLENGEDEAIVMPGTVITTTLEKGEIEESEYVLVTMHRNKSSLLFKESEEIRTPNCNCKYCSHPLLGQNVENISQQEREDIQNSSKELLGISDECQMISPSDCQEENAVDVKQYRDKLRTCFDAKLETVVCTGSVPVDKCALSESGLESTEETWQSEKLLDSDSHTGKAMRSTGMVVEKKPPDKIVPASFSCEAAQTKVTFLIGDSMSPDSDTELRSQAVVDQITRHHTKPLKEERGAIDQHQETKQTTKDQSGESDTQNMVSEEPCELPCWNHSDPESMSLFDEYFNDDSIETRTIDDVPFKTSTDSKDHCCMLEFSKILCTKNNKQNNEFCKCIETVPQDSCKTCFPQQDQRDTLSILVPHGDKESSDKKIAVGTEWDIPRNESSDSALGDSESEDTGHDMTRQVSSYYGGEQEDWAEEDEIPFPGSKLIEVSAVQPNIANFGRSLLGGYCSSYVPDFVLQGIGSDERFRQCLMSDLSHAVQHPVLDEPIAEAVCIIADMDKWTVQVASSQRRVTDNKLGKEVLVSSLVSNLLHSTLQLYKHNLSPNFCVMHLEDRLQELYFKSKMLSEYLRGQMRVHVKELGVVLGIESSDLPLLAAVASTHSPYVAQILL
+PTM	Acetylation:720;Methylation:193,527,575,598,710,731,785;Phosphorylation:11,71,96,97,124,169,170,174,177,181,191,214,220,230,232,254,259,261,263,264,268,272,275,276,278,284,292,294,295,296,380,384,496,499,510,515,593,594,614,651,684,686,714,718,724,725,743,752,758,760,763,848,908,920,946,948,960,1058,1063,1064;Ubiquitylation:64,116,161,798,855

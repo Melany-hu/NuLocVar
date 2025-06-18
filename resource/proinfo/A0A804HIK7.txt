@@ -1,0 +1,25 @@
+UniprotID	A0A804HIK7
+Accession	A0A804HIK7
+EntryName	A0A804HIK7_HUMAN
+ProteinName	Ret proto-oncogene
+GeneName	RET
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKATSGAAGLRLLLLLLLPLLGKVALGLYFSRDAYWEKLYVDQAAGTPLLYVHALRDAPEEVPSFRLGQHLYGTYRTRLHENNWICIQEDTGLLYLNRSLDHSSWEKLSVRNLTSLCRPRLSPAHRLPQGLPVTHIPS
+PTM	

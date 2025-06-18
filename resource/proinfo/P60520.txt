@@ -1,0 +1,25 @@
+UniprotID	P60520
+Accession	P60520;O08765;Q6FG91;Q9DCP8;Q9UQF7
+EntryName	GBRL2_HUMAN
+ProteinName	Gamma-aminobutyric acid receptor-associated protein-like 2 (GABA(A) receptor-associated protein-like 2) (Ganglioside expression factor 2) (GEF-2) (General protein transport factor p16) (Golgi-associated ATPase enhancer of 16 kDa) (GATE-16) (MAP1 light chain 3-related protein)
+GeneName	GABARAPL2 FLC3A GEF2
+Length	117
+Function	Ubiquitin-like modifier involved in intra-Golgi traffic (By similarity). Modulates intra-Golgi transport through coupling between NSF activity and SNAREs activation (By similarity). It first stimulates the ATPase activity of NSF which in turn stimulates the association with GOSR1 (By similarity). Involved in autophagy (PubMed:20418806, PubMed:23209295). Plays a role in mitophagy which contributes to regulate mitochondrial quantity and quality by eliminating the mitochondria to a basal level to fulfill cellular energy requirements and preventing excess ROS production (PubMed:20418806, PubMed:23209295). Whereas LC3s are involved in elongation of the phagophore membrane, the GABARAP/GATE-16 subfamily is essential for a later stage in autophagosome maturation (PubMed:20418806, PubMed:23209295).
+Subcellular Location	Cytoplasmic vesicle; Autophagosome; Endoplasmic reticulum membrane; Golgi apparatus
+Disorder	0.0929,0.1424,0.1791,0.2129,0.1791,0.1349,0.1731,0.1969,0.1942,0.2129,0.1583,0.1881,0.1611,0.2503,0.1881,0.3249,0.3356,0.3249,0.2470,0.2752,0.2064,0.2129,0.1449,0.1554,0.1528,0.1373,0.1942,0.1852,0.1852,0.2193,0.1528,0.1643,0.1731,0.1298,0.1399,0.2164,0.1914,0.1791,0.1092,0.1007,0.0555,0.0985,0.1528,0.2224,0.1373,0.1449,0.1449,0.1251,0.1298,0.0662,0.0483,0.0433,0.0398,0.0227,0.0380,0.0341,0.0349,0.0214,0.0231,0.0235,0.0473,0.0719,0.0662,0.0646,0.0506,0.0518,0.0248,0.0231,0.0148,0.0104,0.0191,0.0231,0.0443,0.0483,0.0948,0.1007,0.1028,0.1028,0.1007,0.0985,0.1298,0.1137,0.1206,0.0662,0.0372,0.0494,0.0817,0.1671,0.2399,0.3599,0.4409,0.4409,0.4476,0.3286,0.3149,0.2064,0.1424,0.1229,0.0734,0.1251,0.1206,0.1611,0.1702,0.1671,0.1449,0.2258,0.1206,0.1028,0.0765,0.0618,0.0433,0.0287,0.0194,0.0136,0.0240,0.0372,0.0646
+ExposeBuried	1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1
+SurfaceAccessbility	0.712,0.594,0.250,0.481,0.231,0.484,0.574,0.610,0.377,0.448,0.171,0.566,0.458,0.238,0.297,0.666,0.435,0.084,0.584,0.497,0.041,0.292,0.733,0.576,0.133,0.469,0.698,0.411,0.090,0.218,0.096,0.080,0.083,0.415,0.434,0.151,0.581,0.680,0.569,0.559,0.132,0.347,0.534,0.211,0.507,0.563,0.459,0.419,0.173,0.157,0.107,0.209,0.585,0.444,0.094,0.298,0.152,0.242,0.314,0.049,0.102,0.299,0.072,0.037,0.280,0.479,0.330,0.100,0.575,0.083,0.451,0.317,0.571,0.445,0.064,0.048,0.058,0.041,0.039,0.046,0.251,0.408,0.338,0.227,0.217,0.502,0.393,0.494,0.292,0.381,0.141,0.244,0.542,0.097,0.146,0.608,0.652,0.412,0.508,0.627,0.650,0.440,0.146,0.058,0.042,0.059,0.038,0.054,0.124,0.242,0.472,0.510,0.593,0.367,0.291,0.498,0.610
+SecondStructure	C,C,C,B,B,B,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-3.9,-0.9,1.9,2.8,-3.9,-3.5,-3.5,-3.2,-0.8,3.8,-3.5,-3.2,-4.5,2.5,4.2,-3.5,-0.8,1.8,-3.9,4.5,-4.5,1.8,-3.9,-1.3,-1.6,-3.5,-4.5,4.2,-1.6,4.2,4.5,4.2,-3.5,-3.9,4.2,-0.8,-0.4,-0.8,-3.5,4.5,4.2,-3.5,4.5,-3.5,-3.9,-4.5,-3.9,-1.3,3.8,4.2,-1.6,-0.8,-3.5,4.5,-0.7,4.2,1.8,-3.5,2.8,1.9,-0.9,4.5,4.5,-4.5,-3.9,-4.5,4.5,-3.5,3.8,-1.6,-0.8,-3.5,-3.9,1.8,4.5,2.8,3.8,2.8,4.2,-3.5,-3.9,-0.7,4.2,-1.6,-3.5,-0.8,-0.8,3.8,-0.7,1.9,-0.4,-3.5,3.8,-1.3,-3.5,-3.9,-3.5,-3.9,-3.5,-3.5,-3.5,-0.4,2.8,3.8,-1.3,4.2,1.8,-1.3,-0.8,-0.4,-3.5,-3.5,-0.7,2.8,-0.4,2.8
+Polar	0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+Charge	0,1,0,0,0,1,-1,-1,1,0,0,-1,1,1,0,0,-1,0,0,1,0,1,0,1,0,0,-1,1,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,-1,0,-1,1,1,1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,-1,1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,-1,1,-1,-1,-1,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKWMFKEDHSLEHRCVESAKIRAKYPDRVPVIVEKVSGSQIVDIDKRKYLVPSDITVAQFMWIIRKRIQLPSEKAIFLFVDKTVPQSSLTMGQLYEKEKDEDGFLYVAYSGENTFGF
+PTM	Acetylation:20,24,46;Methylation:35,46,66,74;Phosphorylation:10,37,39;SUMOylation:20;Ubiquitylation:24,74,97

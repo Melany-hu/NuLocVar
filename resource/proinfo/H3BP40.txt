@@ -1,0 +1,25 @@
+UniprotID	H3BP40
+Accession	H3BP40
+EntryName	H3BP40_HUMAN
+ProteinName	Ras homolog family member T2
+GeneName	RHOT2
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRDVRILLLGEGGEDVADPVPGGRGVPRGGPSPRGGDHHPRGRHPGEGAHPHRGLLRSRADGRGAAGGDPQGKRGVCGV
+PTM	

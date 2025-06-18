@@ -1,0 +1,25 @@
+UniprotID	C9JQN7
+Accession	C9JQN7
+EntryName	C9JQN7_HUMAN
+ProteinName	Eukaryotic translation initiation factor 3 subunit B
+GeneName	EIF3B
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTISDEWDIPEKQPFKDLGNLRYWLEEAECRDQYSVIFESGDRTSIFWNDVKDPVSIEERARWTETYVRWSPKGTYLATFHQRGIALWGGEKFKQIQRFSHQGVQLIDFSPCERYLVTFSPLMDTQDDPQAIIIWDILTGHKKRGFHCESSAH
+PTM	

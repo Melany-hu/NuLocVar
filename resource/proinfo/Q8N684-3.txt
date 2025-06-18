@@ -1,0 +1,25 @@
+UniprotID	Q8N684-3
+Accession	Q8N684;B3KU04;C9K0Q4;Q7Z3H9;Q9H025;Q9H9V1
+EntryName	CPSF7_HUMAN
+ProteinName	Cleavage and polyadenylation specificity factor subunit 7 (Cleavage and polyadenylation specificity factor 59 kDa subunit) (CPSF 59 kDa subunit) (Cleavage factor Im complex 59 kDa subunit) (CFIm59) (Pre-mRNA cleavage factor Im 59 kDa subunit)
+GeneName	CPSF7
+Length	514
+Function	Component of the cleavage factor Im (CFIm) complex that functions as an activator of the pre-mRNA 3'-end cleavage and polyadenylation processing required for the maturation of pre-mRNA into functional mRNAs (PubMed:17024186, PubMed:29276085, PubMed:8626397). CFIm contributes to the recruitment of multiprotein complexes on specific sequences on the pre-mRNA 3'-end, so called cleavage and polyadenylation signals (pA signals) (PubMed:17024186, PubMed:8626397). Most pre-mRNAs contain multiple pA signals, resulting in alternative cleavage and polyadenylation (APA) producing mRNAs with variable 3'-end formation (PubMed:23187700, PubMed:29276085). The CFIm complex acts as a key regulator of cleavage and polyadenylation site choice during APA through its binding to 5'-UGUA-3' elements localized in the 3'-untranslated region (UTR) for a huge number of pre-mRNAs (PubMed:20695905, PubMed:29276085). CPSF7 activates directly the mRNA 3'-processing machinery (PubMed:29276085). Binds to pA signals in RNA substrates (PubMed:17024186, PubMed:8626397).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	384...388;460...465
+validnes_region	
+nesbase_region	
+Sequence	MGRPESAGGGSRGPFEGGGRARRAGGIFLTLSILRTRDLPSGAMSEGVDLIDIYADEEFNQDPEFNNTDQIDLYDDVLTATSQPSDDRSSSTEPPPPVRQEPSPKPNNKTPAILYTYSGLRNRRAAVYVGSFSWWTTDQQLIQVIRSIGVYDVVELKFAENRANGQSKGYAEVVVASENSVHKLLELLPGKVLNGEKVDVRPATRQNLSQFEAQARKRECVRVPRGGIPPRAHSRDSSDSADGRATPSENLVPSSARVDKPPSVLPYFNRPPSALPLMGLPPPPIPPPPPLSSSFGVPPPPPGIHYQHLMPPPPRLPPHLAVPPPGAIPPALHLNPAFFPPPNATVGPPPDTYMKASAPYNHHGSRDSGPPPSTVSEAEFEDIMKRNRAISSSAISKAVSGASAGDYSDAIETLLTAIAVIKQSRVANDERCRVLISSLKDCLHGIEAKSYSVGASGSSSRKRHRSRERSPSRSRESSRRHRDLLHNEDRHDDYFQERNREHERHRDRERDRHH
+PTM	Acetylation:148,154,342,397;Methylation:114,342,379,447;Phosphorylation:46,47,48,49,60,67,72,73,75,108,124,127,134,191,194,195,197,203,205,211,212,325,348,349,350,353,394,395,409,413,415,416,423,427,429,431,451;SUMOylation:140,148,154,354;Ubiquitylation:66,342,379,397,406

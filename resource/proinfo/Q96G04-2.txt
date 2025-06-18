@@ -1,0 +1,25 @@
+UniprotID	Q96G04-2
+Accession	Q96G04;D3DUF0;Q96S85
+EntryName	EF2KT_HUMAN
+ProteinName	Protein-lysine N-methyltransferase EEF2KMT (EC 2.1.1.-) (eEF2-lysine methyltransferase) (eEF2-KMT)
+GeneName	EEF2KMT FAM86A SB153
+Length	296
+Function	Catalyzes the trimethylation of eukaryotic elongation factor 2 (EEF2) on 'Lys-525'.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPEENAGTELLLQSFERRFLAARTLRSFPWQSLEAKLRDSSDSELLRDILHKTVKHPVCVKHPPSVKYARCFLSELIKKPSGGSVTLSESTAIISYGTTGLVTWDAALYLAEWAIENPAVFTNRTVLELGSGAGLTGLAICKMCRPRAYIFSDCHSRVLEQLRGNVLLNGLSLEADITAKLDSPRVTVAQLDWDVATVHQLSAFQPDVVIAADVLYCPEAIMSLVGVLRRLAACREHQRAPEVYVAFTVRNPETCQLFTTELGRAGIRWEVEPRHEQKLFPYEEHLEMAMLNLTL
+PTM	Methylation:68,79;Phosphorylation:75,134;Ubiquitylation:37,53,56,68,215

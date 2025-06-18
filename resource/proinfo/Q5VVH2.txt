@@ -1,0 +1,25 @@
+UniprotID	Q5VVH2
+Accession	Q5VVH2
+EntryName	FKB1C_HUMAN
+ProteinName	Peptidyl-prolyl cis-trans isomerase FKBP1C (EC 5.2.1.8)
+GeneName	FKBP1C
+Length	108
+Function	Catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVHVETISPGDWRTFPKRSQTCVMHYTGMLEDGKKFDSSRDRNKPFKFMLGKQEVIRGWEEGVVQMSVGQRAKLTISPDYAYGATGHPGIIPPHATLVFDVELLKLE
+PTM	

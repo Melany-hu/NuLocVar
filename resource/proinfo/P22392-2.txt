@@ -1,0 +1,25 @@
+UniprotID	P22392-2
+Accession	P22392;A8MWA3;Q1WM23;Q6LCT6
+EntryName	NDKB_HUMAN
+ProteinName	Nucleoside diphosphate kinase B (NDK B) (NDP kinase B) (EC 2.7.4.6) (C-myc purine-binding transcription factor PUF) (Histidine protein kinase NDKB) (EC 2.7.13.3) (nm23-H2)
+GeneName	NME2 NM23B
+Length	267
+Function	Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate (By similarity). Negatively regulates Rho activity by interacting with AKAP13/LBC (PubMed:15249197). Acts as a transcriptional activator of the MYC gene; binds DNA non-specifically (PubMed:19435876, PubMed:8392752). Binds to both single-stranded guanine- and cytosine-rich strands within the nuclease hypersensitive element (NHE) III(1) region of the MYC gene promoter. Does not bind to duplex NHE III(1) (PubMed:19435876). Has G-quadruplex (G4) DNA-binding activity, which is independent of its nucleotide-binding and kinase activity. Binds both folded and unfolded G4 with similar low nanomolar affinities. Stabilizes folded G4s regardless of whether they are prefolded or not (PubMed:25679041). Exhibits histidine protein kinase activity (PubMed:20946858).
+Subcellular Location	Cytoplasm; Cell projection; Lamellipodium; Cell projection; Ruffle; Cytoplasm; Cytoplasm; Perinuclear region; Nucleus; Cytoplasm; Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANCERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVGLKFMQASEDLLKEHYVDLKDRPFFAGLVKYMHSGPVVAMVWEGLNVVKTGRVMLGETNPADSKPGTIRGDFCIQVGRTMANLERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVAMKFLRASEEHLKQHYIDLKDRPFFPGLVKYMNSGPVVAMVWEGLNVVKTGRVMLGETNPADSKPGTIRGDFCIQVGRNIIHGSDSVKSAEKEISLWFKPEELVDYKSCAHDWVYE
+PTM	Acetylation:12,26,31,39,49,56,85,100,124,128,135,143;Methylation:12,18,26,39,42,49,56,58,66,85,88,100,114,135;Phosphorylation:44,52,67,94,99,103,120,122,125,131,144,151;SUMOylation:49,56,100,124,128,135;Ubiquitylation:12,26,31,39,49,56,85,100,124,128,135,143

@@ -1,0 +1,25 @@
+UniprotID	Q9UBV4-2
+Accession	Q9UBV4;Q2M3G1;Q9Y5C0
+EntryName	WNT16_HUMAN
+ProteinName	Protein Wnt-16
+GeneName	WNT16
+Length	361
+Function	Ligand for members of the frizzled family of seven transmembrane receptors. Probable developmental protein. May be a signaling molecule which affects the development of discrete regions of tissues. Is likely to signal over only few cell diameters (By similarity).
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERHPPMQLTTCLRETLFTGASQKTSLWWLGIASFGVPEKLGCANLPLNSRQKELCKRKPYLLPSIREGARLGIQECGSQFRHERWNCMITAAATTAPMGASPLFGYELSSGTKETAFIYAVMAAGLVHSVTRSCSAGNMTECSCDTTLQNGGSASEGWHWGGCSDDVQYGMWFSRKFLDFPIGNTTGKENKVLLAMNLHNNEAGRQAVAKLMSVDCRCHGVSGSCAVKTCWKTMSSFEKIGHLLKDKYENSIQISDKTKRKMRRREKDQRKIPIHKDDLLYVNKSPNYCVEDKKLGIPGTQGRECNRTSEGADGCNLLCCGRGYNTHVVRHVERCECKFIWCCYVRCRRCESMTDVHTCK
+PTM	Methylation:118,298;Phosphorylation:69

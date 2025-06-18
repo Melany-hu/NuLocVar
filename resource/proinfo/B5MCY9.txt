@@ -1,0 +1,25 @@
+UniprotID	B5MCY9
+Accession	B5MCY9
+EntryName	B5MCY9_HUMAN
+ProteinName	Exocyst complex component 7
+GeneName	EXOC7 hCG_40887
+Length	159
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPPQEASARRREIEDKLKQEEETLSFIRDSLEKSDQLTKNMVSILSSFESRLMKLENSIIPVHKQTENLQRLQENVEKTLSCLDHVISYYHVASDTEKIIREGPTGRLEEYLGSMAKIQKAVEYFQDNSPDSPELNKVVRGPQNNVRSLGISVSALVS
+PTM	

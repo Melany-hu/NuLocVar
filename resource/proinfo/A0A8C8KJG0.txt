@@ -1,0 +1,25 @@
+UniprotID	A0A8C8KJG0
+Accession	A0A8C8KJG0
+EntryName	A0A8C8KJG0_HUMAN
+ProteinName	Glucokinase
+GeneName	GCK
+Length	42
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMDVTRSQAQTALTLPDSPLNSGLTWPTATWNKSPLGWQMC
+PTM	

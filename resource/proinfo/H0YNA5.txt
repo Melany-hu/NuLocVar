@@ -1,0 +1,25 @@
+UniprotID	H0YNA5
+Accession	H0YNA5
+EntryName	H0YNA5_HUMAN
+ProteinName	Signal peptidase complex catalytic subunit SEC11A (EC 3.4.21.89) (Endopeptidase SP18) (Microsomal signal peptidase 18 kDa subunit) (SEC11 homolog A) (SEC11-like protein 1) (SPC18)
+GeneName	SEC11A
+Length	135
+Function	Catalytic component of the signal peptidase complex (SPC) which catalyzes the cleavage of N-terminal signal sequences from nascent proteins as they are translocated into the lumen of the endoplasmic reticulum. Specifically cleaves N-terminal signal peptides that contain a hydrophobic alpha-helix (h-region) shorter than 18-20 amino acids.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DFLDDVRRMNKRQLYYQVLNFGMIVSSALMIWKGLMVITGSESPIVVVLSGSMEPAFHRGDLLFLTNRVEDPIRVGEIVVFRIEGREIPIVHRVLKIHEKFVPYIGIVTILMNDYPKFKYAVLFLLGLFVLVHRE
+PTM	

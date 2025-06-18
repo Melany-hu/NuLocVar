@@ -1,0 +1,25 @@
+UniprotID	Q86SW4
+Accession	Q86SW4
+EntryName	Q86SW4_HUMAN
+ProteinName	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.-)
+GeneName	DLST
+Length	279
+Function	Dihydrolipoamide succinyltransferase (E2) component of the 2-oxoglutarate dehydrogenase complex. The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2). The 2-oxoglutarate dehydrogenase complex is mainly active in the mitochondrion. A fraction of the 2-oxoglutarate dehydrogenase complex also localizes in the nucleus and is required for lysine succinylation of histones: associates with KAT2A on chromatin and provides succinyl-CoA to histone succinyltransferase KAT2A.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AVPIPLCVSGVQPLALRLPEGELPSRETFPACINNSVFSVRFFRTTAVCKDDLVTVKTPAFAESVTEGDVRWEKAVGDTVAEDEVVCEIETDKTSVQVPSPANGVIEALLVPDGGKVEGGTPLFTLRKTGAAPAKAKPAEAPAAAAPKAEPTAAAVPPPAAPIPTQMPPVPSPSQPPSGKPVSAVKPTVAPPLAEPGAGKGLRSEHREKMNRMRQRIAQRLKEAQNTCAMLTTFNEIDMSNIQEMRARHKEAFLKKHNLKLGFMSAFVKASAFALQEQP
+PTM	

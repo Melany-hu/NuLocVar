@@ -1,0 +1,25 @@
+UniprotID	Q9H329-2
+Accession	Q9H329;Q5T4G5;Q5T4G6;Q9H328;Q9P2V3
+EntryName	E41LB_HUMAN
+ProteinName	Band 4.1-like protein 4B (Erythrocyte membrane protein band 4.1-like 4B) (FERM-containing protein CG1) (Protein EHM2)
+GeneName	EPB41L4B EHM2 LULU2
+Length	518
+Function	Up-regulates the activity of the Rho guanine nucleotide exchange factor ARHGEF18 (By similarity). Involved in the regulation of the circumferential actomyosin belt in epithelial cells (PubMed:22006950). Promotes cellular adhesion, migration and motility in vitro and may play a role in wound healing (PubMed:23664528). May have a role in mediating cytoskeletal changes associated with steroid-induced cell differentiation (PubMed:14521927).
+Subcellular Location	Cytoplasm; Cell junction; Tight junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRFLRRTFGRRSMQRYARGAAGRGAAGLGDERDGGPRGGPAAAASSSALPAAPGGSVFPAGGGPLLTGGAAVHISAAGAAKATLYCRVFLLDGTEVSVDLPKHAKGQDLFDQIVYHLDLVETDYFGLQFLDSAQVAHWLDHAKPIKKQMKIGPAYALHFRVKYYSSEPNNLREEFTRYLFVLQLRHDILSGKLKCPYETAVELAALCLQAELGECELPEHTPELVSEFRFIPNQTEAMEFDIFQRWKECRGKSPAQAELSYLNKAKWLEMYGVDMHVVRGRDGCEYSLGLTPTGILIFEGANKIGLFFWPKITKMDFKKSKLTLVVVEDDDQGREQEHTFVFRLDSARTCKHLWKCAVEHHAFFRLRTPGNSKSNRSDFIRLGSRFRFSGRTEYQATHGSRLRRTSTFERKPSKRYPSRRHSTFKASNPVIAAQLCSKTNPEVHNYQPQYHPNIHPSQPRWHPHSPNVRPSFQDDRSHWKASASGDDSHFDYVHDQNQKNLGGMQSMMYRDKLMTAL
+PTM	Methylation:19,24,82,103,426,529,614;Phosphorylation:393,395,398,401,406,407,408,423,424,428,542,547,602,718,726,737

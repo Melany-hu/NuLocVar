@@ -1,0 +1,25 @@
+UniprotID	P36871-3
+Accession	P36871;B2R5N9;B4DPV0;Q16105;Q16106;Q5BKZ9;Q6NW22;Q86U74;Q96J40;Q9NTY4
+EntryName	PGM1_HUMAN
+ProteinName	Phosphoglucomutase-1 (PGM 1) (EC 5.4.2.2) (Glucose phosphomutase 1)
+GeneName	PGM1
+Length	365
+Function	Catalyzes the reversible isomerization of alpha-D-glucose 1-phosphate to alpha-D-glucose 6-phosphate (PubMed:15378030, PubMed:25288802). The mechanism proceeds via the intermediate compound alpha-D-glucose 1,6-bisphosphate (Probable) (PubMed:25288802). This enzyme participates in both the breakdown and synthesis of glucose (PubMed:17924679, PubMed:25288802).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRSIFDFSALKELLSGPNRLKIRIDAMHGVVGPYVKKILCEELGAPANSAVNCVPLEDFGGHHPDPNLTYAADLVETMKSGEHDFGAAFDGDGDRNMILGKHGFFVNPSDSVAVIAANIFSIPYFQQTGVRGFARSMPTSGALDRVASATKIALYETPTGWKFFGNLMDASKLSLCGEESFGTGSDHIREKDGLWAVLAWLSILATRKQSVEDILKDHWQKYGRNFFTRYDYEEVEAEGANKMMKDLEALMFDRSFVGKQFSANDKVYTVEKADNFEYSDPVDGSISRNQGLRLIFTDGSRIVFRLSGTGSAGATIRLYIDSYEKDVAKINQDPQVMLAPLISIALKVSQLQERTGRTAPTVIT
+PTM	Acetylation:8,16,146,234,414,419,443,457,464,523;Glycosylation:135;Methylation:8,105,146,164,172,180,209,219,293,299,343,360,414,440,452,491,545;Phosphorylation:19,20,56,115,117,134,191,197,201,206,213,346,353,355,357,408,460,477,483,485,495,498,505,507,509,517,521;SUMOylation:16;Ubiquitylation:16,146,164,234,349,457,470

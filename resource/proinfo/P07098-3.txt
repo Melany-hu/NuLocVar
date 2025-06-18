@@ -1,0 +1,25 @@
+UniprotID	P07098-3
+Accession	P07098;B7Z723;F5H1P4;Q2M1P6;Q5VXI7;Q5VXI8;Q658L8
+EntryName	LIPF_HUMAN
+ProteinName	Gastric triacylglycerol lipase (GL) (Gastric lipase) (EC 3.1.1.3)
+GeneName	LIPF
+Length	408
+Function	Catalyzes the hydrolysis of triacylglycerols to yield free fatty acids, diacylglycerol, monoacylglycerol, and glycerol (PubMed:10358049, PubMed:2243091). Shows a preferential hydrolysis at the sn-3 position of triacylglycerol (PubMed:2243091).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSNANSRSKMWLLLTMASLISVLGTTHGLFGKLHPGSPEVTMNISQMITYWGYPNEEYEVVTEDGYILEVNRIPYGKKNSGNTGQRPVVFLQHGLLASATNWISNLPNNSLAFILADAGYDVWLGNSRGNTWARRNLYYSPDSVEFWAFSFDEMAKYDLPATIDFIVKKTGQKQLHYVGHSQGTTIGFIAFSTNPSLAKRIKTFYALAPVATVKYTKSLINKLRFVPQSLFKFIFGDKIFYPHNFFDQFLATEVCSREMLNLLCSNALFIICGFDSKNFNTSRLDVYLSHNPAGTSVQNMFHWTQAVKSGKFQAYDWGSPVQNRMHYDQSQPPYYNVTAMNVPIAVWNGGKDLLADPQDVGLLLPKLPNLIYHKEIPFYNHLDFIWAMDAPQEVYNDIVSMISEDKK
+PTM	Methylation:23,147,213;Phosphorylation:209,220;SUMOylation:205

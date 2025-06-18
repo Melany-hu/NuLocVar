@@ -1,0 +1,25 @@
+UniprotID	P26951-2
+Accession	P26951;A8K3F3;B9VI81;Q5HYQ7;Q5HYQ8;Q9UEH7
+EntryName	IL3RA_HUMAN
+ProteinName	Interleukin-3 receptor subunit alpha (IL-3 receptor subunit alpha) (IL-3R subunit alpha) (IL-3R-alpha) (IL-3RA) (CD antigen CD123)
+GeneName	IL3RA IL3R
+Length	300
+Function	Cell surface receptor for IL3 expressed on hematopoietic progenitor cells, monocytes and B-lymphocytes that controls the production and differentiation of hematopoietic progenitor cells into lineage-restricted cells (PubMed:10527461). Ligand stimulation rapidly induces hetrodimerization with IL3RB, phosphorylation and enzyme activity of effector proteins such as JAK2 and PI3K that play a role in signaling cell proliferation and differentiation. Activation of JAK2 leads to STAT5-mediated transcriptional program (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLLWLTLLLIALPCLLQTKEGGKPWAGAENLTCWIHDVDFLSCSWAVGPGAPADVQYDLYLNVANRRQQYECLHYKTDAQGTRIGCRFDDISRLSSGSQSSHILVRGRSAAFGIPCTDKFVVFSQIEILTPPNMTAKCNKTHSFMHWKMRSHFNRKFRYELQIQKRMQPVITEQVRDRTSFQLLNPGTYTVQIRARERVYEFLSAWSTPQRFECDQEEGANTRAWRTSLLIALGTLLALVCVFVICRRYLVMQRLFPRIPHMKDPIGDSFQNDKLVVWEAGKAGLEECLVTEVQVVQKT
+PTM	Phosphorylation:306,348

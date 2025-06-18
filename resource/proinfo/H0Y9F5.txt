@@ -1,0 +1,25 @@
+UniprotID	H0Y9F5
+Accession	H0Y9F5
+EntryName	H0Y9F5_HUMAN
+ProteinName	Protocadherin 1
+GeneName	PCDH1
+Length	126
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGPNGVASYELQAGPEAQELFGLQVAEDQEEKQPQLIVMGNLDRERWDSYDLTIKVQDGGSPPRASSALLRVTVLDTNDNAPKFERPSYEAELSENSPIGHSVIQSLVDWDLEKRLRKKRETDSRG
+PTM	

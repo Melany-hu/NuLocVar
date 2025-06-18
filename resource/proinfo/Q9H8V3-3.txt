@@ -1,0 +1,25 @@
+UniprotID	Q9H8V3-3
+Accession	Q9H8V3;Q0MT80;Q2M269;Q6U836;Q9NSV8;Q9NVW9
+EntryName	ECT2_HUMAN
+ProteinName	Protein ECT2 (Epithelial cell-transforming sequence 2 oncogene)
+GeneName	ECT2
+Length	958
+Function	Guanine nucleotide exchange factor (GEF) that catalyzes the exchange of GDP for GTP. Promotes guanine nucleotide exchange on the Rho family members of small GTPases, like RHOA, RHOC, RAC1 and CDC42. Required for signal transduction pathways involved in the regulation of cytokinesis. Component of the centralspindlin complex that serves as a microtubule-dependent and Rho-mediated signaling required for the myosin contractile ring formation during the cell cycle cytokinesis. Regulates the translocation of RHOA from the central spindle to the equatorial region. Plays a role in the control of mitotic spindle assembly; regulates the activation of CDC42 in metaphase for the process of spindle fibers attachment to kinetochores before chromosome congression. Involved in the regulation of epithelial cell polarity; participates in the formation of epithelial tight junctions in a polarity complex PARD3-PARD6-protein kinase PRKCQ-dependent manner. Plays a role in the regulation of neurite outgrowth. Inhibits phenobarbital (PB)-induced NR1I3 nuclear translocation. Stimulates the activity of RAC1 through its association with the oncogenic PARD6A-PRKCI complex in cancer cells, thereby acting to coordinately drive tumor cell proliferation and invasion. Also stimulates genotoxic stress-induced RHOB activity in breast cancer cells leading to their cell death.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Spindle; Cleavage furrow; Midbody; Cell junction; Cell junction; Tight junction; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	378..382;401..405
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	377...382;378...383
+validnes_region	
+nesbase_region	
+Sequence	MAENSVLTSTTGRTSLADSSIFDSKVTEISKENLLIGSTSYVEEEMPQIETRVILVQEAGKQEELIKALKTIKIMEVPVIKIKESCPGKSDEKLIKSVINMDIKVGFVKMESVEEFEGLDSPEFENVFVVTDFQDSVFNDLYKADCRVIGPPVVLNCSQKGEPLPFSCRPLYCTSMMNLVLCFTGFRKKEELVRLVTLVHHMGGVIRKDFNSKVTHLVANCTQGEKFRVAVSLGTPIMKPEWIYKAWERRNEQDFYAAVDDFRNEFKVPPFQDCILSFLGFSDEEKTNMEEMTEMQGGKYLPLGDERCTHLVVEENIVKDLPFEPSKKLYVVKQEWFWGSIQMDARAGETMYLYEKANTPELKKSVSMLSLNTPNSNRKRRRLKETLAQLSRETDVSPFPPRKRPSAEHSLSIGSLLDISNTPESSINYGDTPKSCTKSSKSSTPVPSKQSARWQVAKELYQTESNYVNILATIIQLFQVPLEEEGQRGGPILAPEEIKTIFGSIPDIFDVHTKIKDDLEDLIVNWDESKSIGDIFLKYSKDLVKTYPPFVNFFEMSKETIIKCEKQKPRFHAFLKINQAKPECGRQSLVELLIRPVQRLPSVALLLNDLKKHTADENPDKSTLEKAIGSLKEVMTHINEDKRKTEAQKQIFDVVYEVDGCPANLLSSHRSLVQRVETISLGEHPCDRGEQVTLFLFNDCLEIARKRHKVIGTFRSPHGQTRPPASLKHIHLMPLSQIKKVLDIRETEDCHNAFALLVRPPTEQANVLLSFQMTSDELPKENWLKMLCRHVANTICKADAENLIYTADPESFEVNTKDMDSTLSRASRAIKKTSKKVTRAFSFSKTPKRALRRALMTSHGSVEGRSPSSNDKHVMSRLSSTSSLAITHSVSTSNVIGFTKHVYVQRLNSTGGRSQYSWFQSVRHSAFRASFSEILEGNTDFSNFKKVLSKSSLTFVKN
+PTM	Acetylation:226,872;Methylation:67,109,208,319,499,545,626;Phosphorylation:9,14,15,19,38,39,40,41,354,359,365,367,370,373,376,386,391,394,397,406,420,422,425,444,636,713,716,736,842,844,846,857,858,861,866,868,869,879,880,881,882,889,891,894,897;SUMOylation:25,61,81,83,93,96,226,239,299,319,327,333,363,364,384,403,434,441,499,516,530,563,581,611,626,632,642,709,739,797,817,845;Ubiquitylation:25,67,81,299,384,441,449,499,611,612,632,817,845

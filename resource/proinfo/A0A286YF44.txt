@@ -1,0 +1,25 @@
+UniprotID	A0A286YF44
+Accession	A0A286YF44
+EntryName	A0A286YF44_HUMAN
+ProteinName	Olfactory receptor family 3 subfamily A member 2
+GeneName	OR3A2
+Length	30
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPEAGTNRTAVAEFILLGLVQTEEMQPVV
+PTM	

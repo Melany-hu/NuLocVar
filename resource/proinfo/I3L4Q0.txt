@@ -1,0 +1,25 @@
+UniprotID	I3L4Q0
+Accession	I3L4Q0;A0A024R8W3
+EntryName	I3L4Q0_HUMAN
+ProteinName	HCG1818442, isoform CRA_a (MAPK regulated corepressor interacting protein 1)
+GeneName	MCRIP1 hCG_1818442
+Length	118
+Function	
+Subcellular Location	Cytoplasm; Stress granule; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPHQRLRGSGGGALGSDAPAMTSSPVSRVVYNGKRTSSPRSPPSSSEIFTPAHEENVRFIYEAWQGVERDLRGQVPGGERGLVEEYVEKVPNPSLKTFKPIDLSDLKRRSTQDAKKS
+PTM	

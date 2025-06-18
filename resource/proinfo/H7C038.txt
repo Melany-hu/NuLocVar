@@ -1,0 +1,25 @@
+UniprotID	H7C038
+Accession	H7C038
+EntryName	H7C038_HUMAN
+ProteinName	non-specific serine/threonine protein kinase (EC 2.7.11.1)
+GeneName	SIK3
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RPPAPASRGPMPARIGYYEIDRTIGKGNFAVVKRATHLVTKAKVAIKIIDKTQLDEENLKKIFREVQIMKMLCHPHIIRLYQVMETERMIYLVTEYASGGEIFGGFGHQQFSFCPELPIAESWRSAVKRWGPLLLLSPHLWNLIRPPGGPW
+PTM	

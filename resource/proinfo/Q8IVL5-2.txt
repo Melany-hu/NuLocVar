@@ -1,0 +1,25 @@
+UniprotID	Q8IVL5-2
+Accession	Q8IVL5;B3KPK0;B3KWI9;D3DNV8;Q9NVI2
+EntryName	P3H2_HUMAN
+ProteinName	Prolyl 3-hydroxylase 2 (EC 1.14.11.7) (Leprecan-like protein 1) (Myxoid liposarcoma-associated protein 4)
+GeneName	P3H2 LEPREL1 MLAT4
+Length	527
+Function	Prolyl 3-hydroxylase that catalyzes the post-translational formation of 3-hydroxyproline on collagens (PubMed:18487197). Contributes to proline 3-hydroxylation of collagen COL4A1 and COL1A1 in tendons, the eye sclera and in the eye lens capsule (By similarity). Has high activity with the type IV collagen COL4A1, and lower activity with COL1A1 (PubMed:18487197). Catalyzes hydroxylation of the first Pro in Gly-Pro-Hyp sequences where Hyp is 4-hydroxyproline (PubMed:18487197). Has no activity on substrates that lack 4-hydroxyproline in the third position (PubMed:18487197).
+Subcellular Location	Endoplasmic reticulum; Sarcoplasmic reticulum; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEMQQNIENYRATAGVEALQLVDREAKPHMESYNAGVKHYEADDFEMAIRHFEQALREYFVEDTECRTLCEGPQRFEEYEYLGYKAGLYEAIADHYMQVLVCQHECVRELATRPGRLSPIENFLPLHYDYLQFAYYRVGEYVKALECAKAYLLCHPDDEDVLDNVDYYESLLDDSIDPASIEAREDLTMFVKRHKLESELIKSAAEGLGFSYTEPNYWIRYGGRQDENRVPSGVNVEGAEVHGFSMGKKLSPKIDRDLREGGPLLYENITFVYNSEQLNGTQRVLLDNVLSEEQCRELHSVASGIMLVGDGYRGKTSPHTPNEKFEGATVLKALKSGYEGRVPLKSARLFYDISEKARRIVESYFMLNSTLYFSYTHMVCRTALSGQQDRRNDLSHPIHADNCLLDPEANECWKEPPAYTFRDYSALLYMNDDFEGGEFIFTEMDAKTVTASIKPKCGRMISFSSGGENPHGVKAVTKGKRCAVALWFTLDPLYRELERIQADEVIAILDQEQQGKHELNINPKDEL
+PTM	Acetylation:505,659;Methylation:160,166,383,434,526,659;SUMOylation:208,373,376,383,434,496,516;Ubiquitylation:324,330,373,376,429,513,537,595,635,655

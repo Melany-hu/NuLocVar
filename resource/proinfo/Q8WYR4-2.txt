@@ -1,0 +1,25 @@
+UniprotID	Q8WYR4-2
+Accession	Q8WYR4;A8MWV0;B2RBN9;Q3MJA1
+EntryName	RSPH1_HUMAN
+ProteinName	Radial spoke head 1 homolog (Cancer/testis antigen 79) (CT79) (Male meiotic metaphase chromosome-associated acidic protein) (Meichroacidin) (Testis-specific gene A2 protein)
+GeneName	RSPH1 TSA2 TSGA2
+Length	271
+Function	Functions as part of axonemal radial spoke complexes that play an important part in the motility of sperm and cilia.
+Subcellular Location	Cytoplasm; Chromosome; Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Flagellum axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDLGSEELEEEGENDIGGIYKFKNGARYIGEYVRNKKHGQGTFIYPDGSRYEGEWANDLRHGHGVYYYINNDTYTGEWFAHQRHGQGTYLYAETGSKYVGTWVNGQQEGTAELIHLNHRYQGKFLNKNPVGPGKYVFDVGCEQHGEYRLTDMERGEEEEEEELVTVVPKWKATQITELALWTPTLPKKPTSTDGPGQDAPGAESAGEPGEEAQALLEGFEGEMDMRPGDEDADVLREESREYDQEEFRYDMDEGNINSEEEETRQSDLQD
+PTM	Methylation:166,226;SUMOylation:208

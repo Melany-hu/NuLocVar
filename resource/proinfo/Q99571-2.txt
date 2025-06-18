@@ -1,0 +1,25 @@
+UniprotID	Q99571-2
+Accession	Q99571;E7EPF7;F6RU17;O00450;O14722;Q5U089;Q5U090;Q8N4N1;Q9UBG9
+EntryName	P2RX4_HUMAN
+ProteinName	P2X purinoceptor 4 (P2X4) (ATP receptor) (Purinergic receptor)
+GeneName	P2RX4
+Length	404
+Function	ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium (PubMed:9016352). CTP, but not GTP or UTP, functions as a weak affinity agonist for P2RX4 (By similarity). Activated by extracellularly released ATP, it plays multiple role in immunity and central nervous system physiology (PubMed:35165166). Plays a key role in initial steps of T-cell activation and Ca(2+) microdomain formation (By similarity). Also participates in basal T-cell activity without TCR/CD3 stimulation (By similarity). Promotes the differentiation and activation of Th17 cells via expression of retinoic acid-related orphan receptor C/RORC (PubMed:35165166). Upon activation, drives microglia motility via the PI3K/Akt pathway (By similarity). Could also function as an ATP-gated cation channel of lysosomal membranes (By similarity).
+Subcellular Location	Cell membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGCCAALAAFLFEYDTPRIVLIRSRKVGLMNRAVQLLILAYVIGCYHPHLAEVEMESPRRWVFVWEKGYQETDSVVSSVTTKVKGVAVTNTSKLGFRIWDVADYVIPAQEENSLFVMTNVILTMNQTQGLCPEIPDATTVCKSDASCTAGSAGTHSNGVSTGRCVAFNGSVKTCEVAAWCPVEDDTHVPQPAFLKAAENFTLLVKNNIWYPKFNFSKRNILPNITTTYLKSCIYDAKTDPFCPIFRLGKIVENAGHSFQDMAVEGGIMGIQVNWDCNLDRAASLCLPRYSFRRLDTRDVEHNVSPGYNFRFAKYYRDLAGNEQRTLIKAYGIRFDIIVFGKAGKFDIIPTMINIGSGLALLGMATVLCDIIVLYCMKKRLYYREKKYKYVEDYEQGLASELDQ
+PTM	Glycosylation:75,142,153,184,204,208,287,293;Methylation:190;Phosphorylation:63,65,66,201,275

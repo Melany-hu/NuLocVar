@@ -1,0 +1,25 @@
+UniprotID	H3BPD5
+Accession	H3BPD5
+EntryName	H3BPD5_HUMAN
+ProteinName	Nth like DNA glycosylase 1
+GeneName	NTHL1
+Length	236
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	17...22;32...37;16...40;35...39
+validnes_region	
+nesbase_region	
+Sequence	XSLGPGAGPRGCREEPGPLRRREAAAEARKSHSPVKRPRKAQRLRVAYEGSDSEKGEGAEPLKVPVWEPQDWQQQLVNIRAMRNKKDAPVDHLGTEHCYDSSAPPKSKVKYIKQTSAILQQHYGGDIPASVAELVALPGVGPKMAHLAMAVAWGTVSGIAAVDTHVHRIANRLRWTKKATKSPEETRAALEEWLPRELWHEINGLLVGFGQQTCLPVHPRCHACLNQALCPAAQGL
+PTM	

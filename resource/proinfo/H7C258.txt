@@ -1,0 +1,25 @@
+UniprotID	H7C258
+Accession	H7C258
+EntryName	H7C258_HUMAN
+ProteinName	HemK methyltransferase family member 1
+GeneName	HEMK1
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ILEVGCGSGAISLSLLSQLPQSRVIAVDKREAAISLTHENAQSYEDPAALDGGEEGMDIITHILALAPRLLKDSGSIFLEVDPRHPELVSSWLQSRPDLYLNLVAVRRDFCGRPRFLHIRRSGP
+PTM	

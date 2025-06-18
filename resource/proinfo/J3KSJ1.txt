@@ -1,0 +1,25 @@
+UniprotID	J3KSJ1
+Accession	J3KSJ1
+EntryName	J3KSJ1_HUMAN
+ProteinName	Zinc finger protein 286A
+GeneName	ZNF286A
+Length	171
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEPRREGRKWDHEARGASNSSGQGDLNWGEEQNLQNKEEVVIMETDLAEMPEKGALSSQDSPHFQEKSTEEGEVAALRLTARSQETVTFKDVAMDFTPEEWGKLDPAQRDVMLENYRNLVSLWLPVSKPESYNLENGKEPLKLERKAPKSSYSDMETRPQSKDSTSVQDF
+PTM	

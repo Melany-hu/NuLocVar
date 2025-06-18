@@ -1,0 +1,25 @@
+UniprotID	Q9P202-2
+Accession	Q9P202;A0A0C4DFT9;A5PKU1;A5PKZ9;Q5TAU9;Q5TAV0;Q5TAV1;Q5TAV2;Q96MZ9;Q9H9F4;Q9UFZ3
+EntryName	WHRN_HUMAN
+ProteinName	Whirlin (Autosomal recessive deafness type 31 protein)
+GeneName	WHRN DFNB31 KIAA1526
+Length	345
+Function	Involved in hearing and vision as member of the USH2 complex. Necessary for elongation and maintenance of inner and outer hair cell stereocilia in the organ of Corti in the inner ear. Involved in the maintenance of the hair bundle ankle region, which connects stereocilia in cochlear hair cells of the inner ear. In retina photoreceptors, required for the maintenance of periciliary membrane complex that seems to play a role in regulating intracellular protein transport.
+Subcellular Location	Cytoplasm; Cell projection; Stereocilium; Cell projection; Growth cone; Photoreceptor inner segment; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	84...89
+validnes_region	
+nesbase_region	
+Sequence	MNAPLDGLSVSSSSTGSLGSAAGAGGGGGAGLRLLSANVRQLHQALTALLSEAEREQFTHCLNAYHARRNVFDLVRTLRVLLDSPVKRRLLPMLRLVIPRSDQLLFDQYTAEGLYLPATTPYRQPAWGGPDSAGPGEVRLVSLRRAKAHEGLGFSIRGGSEHGVGIYVSLVEPGSLAEKEGLRVGDQILRVNDKSLARVTHAEAVKALKGSKKLVLSVYSAGRIPGGYVTNHIYTWVDPQGRSISPPSGLPQPHGGALRQQEGDRRSTLHLLQGGDEKKVSGVGKGGQPLRHRILPPNPEQQSCLEAARRGWFCPGSVFPQVCTEGWCFFFAFLFDLCSVCYNTG
+PTM	Methylation:321,347;Phosphorylation:84,142,245,387,405,411,482,685,790

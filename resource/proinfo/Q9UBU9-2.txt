@@ -1,0 +1,25 @@
+UniprotID	Q9UBU9-2
+Accession	Q9UBU9;B4E269;Q99799;Q9UQL2
+EntryName	NXF1_HUMAN
+ProteinName	Nuclear RNA export factor 1 (Tip-associated protein) (Tip-associating protein) (mRNA export factor TAP)
+GeneName	NXF1 TAP
+Length	356
+Function	Involved in the nuclear export of mRNA species bearing retroviral constitutive transport elements (CTE) and in the export of mRNA from the nucleus to the cytoplasm (TAP/NFX1 pathway) (PubMed:10924507). The NXF1-NXT1 heterodimer is involved in the export of HSP70 mRNA in conjunction with ALYREF/THOC4 and THOC5 components of the TREX complex (PubMed:18364396, PubMed:19165146, PubMed:9660949). ALYREF/THOC4-bound mRNA is thought to be transferred to the NXF1-NXT1 heterodimer for export (PubMed:18364396, PubMed:19165146, PubMed:9660949). Also involved in nuclear export of m6A-containing mRNAs: interaction between SRSF3 and YTHDC1 facilitates m6A-containing mRNA-binding to both SRSF3 and NXF1, promoting mRNA nuclear export (PubMed:28984244).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Nucleus speckle; Nucleus; Nuclear pore complex; Nucleus envelope; Cytoplasm; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	67..100
+UniprotNESRegion	83..110
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADEGKSYSEHDDERVNFPQRKKKGRGPFRWKYGEGNRRSGRGGSGIRSSRLEEDDGDVAMSDAQDGPRVRYNPYTTRPNRRGDTWHDRDRIHVTVRRDRAPPERGGAGTSQDGTSKNWFKITIPYGRKYDKAWLLSMIQSKCSVPFTPIEFHYENTRAQFFVEDASTASALKAVNYKILDRENRRISIIINSSAPPHTILNELKPEQVEQLKLIMSKRYDGSQQALDLKGLRSDPDLVAQNIDVVLNRRSCMAATLRIIEENIPELLSLNLSNNRLYRLDDMSSIVQKAPNLKILNLSGNELKSERELDKIKGLKLEELWLDGNSLCDTFRDQSTYIRSVVACVSPPGDLHPLGG
+PTM	Acetylation:32,304,347,437,609;Methylation:21,82,105,142,173,205,213,230,304,384,471;Phosphorylation:9,33,62,75,76,95,110,137,188,223,251,284,556,557,558;SUMOylation:6,32,117,121,132,142,205,230,289,294,304,313,316,347;Ubiquitylation:117,173,178,230,289,294,304,437,446

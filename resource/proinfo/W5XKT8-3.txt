@@ -1,0 +1,25 @@
+UniprotID	W5XKT8-3
+Accession	W5XKT8;C0H5Y6;Q6UWG3
+EntryName	SACA6_HUMAN
+ProteinName	Sperm acrosome membrane-associated protein 6 (BACHELOR-like protein)
+GeneName	SPACA6 SPACA6P UNQ2487/PRO5774
+Length	211
+Function	Sperm protein required for fusion of sperm with the egg membrane during fertilization (By similarity). May regulate the expression of sperm surface protein DCST2 (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Acrosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLALASAVPSALLALAVFRVPAWACLLCFTTYSERLRICQMFVGMRSPKLEECEEAFTAAFQGLSDTEISEETIHTSSVSWGRCRGRAGEAQRVRLRDRQRETVRGERLKDHENNRDLGTERHRQGKTAGQRLREGRMESQRGEDGDSERGRMETQRERKMETRKDGDSGVWRVREGRMDTREDGESGGWRLIERGGWRVRRGWRLERE
+PTM	Methylation:229

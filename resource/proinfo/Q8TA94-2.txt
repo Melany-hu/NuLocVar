@@ -1,0 +1,25 @@
+UniprotID	Q8TA94-2
+Accession	Q8TA94;B2R9E7;Q8NAT7
+EntryName	ZN563_HUMAN
+ProteinName	Zinc finger protein 563
+GeneName	ZNF563
+Length	228
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAVAFEDVAVNFTQEEWALLGPSQKNLYRYVMQETIRNLDCIRMIWEEQNTEDQYKNPRRNLRCHMVERFSESKDSSQCGETFSLIRDSIVNNSICPGEDPCQSAECEEVIMGHLSLNSHIRVDSGHKPHEYQEYGEKPHTHKQRGKAFSYHHSFQSRGRPHTGKKRYECKECGKTFSSRRNLRRHMVVQGGNRPYKFPIEDMRECTLGRNRMNVSSVLKPCLIPVP
+PTM	Acetylation:419;Phosphorylation:72,77,220,248,276,291,293,294,295,360,373,375,379,431,435;SUMOylation:139,148,312,368,424

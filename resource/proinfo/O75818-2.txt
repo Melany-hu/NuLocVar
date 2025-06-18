@@ -1,0 +1,25 @@
+UniprotID	O75818-2
+Accession	O75818;Q5VX97;Q8WVK8
+EntryName	RPP40_HUMAN
+ProteinName	Ribonuclease P protein subunit p40 (RNaseP protein p40) (RNase P subunit 1)
+GeneName	RPP40 RNASEP1
+Length	340
+Function	Component of ribonuclease P, a ribonucleoprotein complex that generates mature tRNA molecules by cleaving their 5'-ends (PubMed:30454648, PubMed:9630247). Also a component of the MRP ribonuclease complex, which cleaves pre-rRNA sequences (PubMed:28115465).
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLRRLREAPRHLLVCEKSNFGNHKSRHRHLVQTHYYNYRVSFLIPECGILSEELKNLVMNTGPYYFVKNLPLHELITPEFISTFIKKGKLILSLDKDTYEETGLQGHPSQFSGRKIMKFIVSIDLMELSLNLDSKKYERISWSFKEKKPLKFDFLLAWHKTGSEESTMMSYFSKYQIQEHQPKVALSTLRDLQCPVLQSSELEGTPEVSCRALELFDWLGAVFSNVDLNNEPNNFISTYCCPEPSTVVAKAYLCTITGFILPEKICLLLEHLCHYFDEPKLAPWVTLSVQGFADSPVSWEKNEHGFRKGGEHLYNFVIFNNQDYWLQMAVGANDHCPP
+PTM	Acetylation:19;Methylation:57,114;Phosphorylation:37,168,212,213;Ubiquitylation:208,326

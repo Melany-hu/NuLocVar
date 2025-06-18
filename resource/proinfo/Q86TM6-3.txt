@@ -1,0 +1,25 @@
+UniprotID	Q86TM6-3
+Accession	Q86TM6;Q8N3K3;Q8N6E8;Q96JL5;Q96PK3
+EntryName	SYVN1_HUMAN
+ProteinName	E3 ubiquitin-protein ligase synoviolin (EC 2.3.2.27) (RING-type E3 ubiquitin transferase synoviolin) (Synovial apoptosis inhibitor 1)
+GeneName	SYVN1 HRD1 KIAA1810
+Length	616
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin specifically from endoplasmic reticulum-associated UBC7 E2 ligase and transfers it to substrates, promoting their degradation (PubMed:12459480, PubMed:12646171, PubMed:12975321, PubMed:14593114, PubMed:16289116, PubMed:16847254, PubMed:17059562, PubMed:17141218, PubMed:17170702, PubMed:22607976, PubMed:26471130, PubMed:28827405). Component of the endoplasmic reticulum quality control (ERQC) system also called ER-associated degradation (ERAD) involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins (PubMed:12459480, PubMed:12646171, PubMed:12975321, PubMed:14593114, PubMed:16289116, PubMed:16847254, PubMed:17059562, PubMed:17141218, PubMed:17170702, PubMed:22607976, PubMed:26471130, PubMed:28842558). Also promotes the degradation of normal but naturally short-lived proteins such as SGK. Protects cells from ER stress-induced apoptosis. Protects neurons from apoptosis induced by polyglutamine-expanded huntingtin (HTT) or unfolded GPR37 by promoting their degradation (PubMed:17141218). Sequesters p53/TP53 in the cytoplasm and promotes its degradation, thereby negatively regulating its biological function in transcription, cell cycle regulation and apoptosis (PubMed:17170702). Mediates the ubiquitination and subsequent degradation of cytoplasmic NFE2L1 (By similarity). During the early stage of B cell development, required for degradation of the pre-B cell receptor (pre-BCR) complex, hence supporting further differentiation into mature B cells (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRTAVMMAASLALTGAVVAHAYYLKHQFYPTVVYLTKSSPSMAVLYIQAFVLVFLLGKVMGKVFFGQLRAAEMEHLLERSWYAVTETCLAFTVFRDDFSPRFVALFTLLLFLKCFHWLAEDRVDFMERSPNISWLFHCRIVSLMFLLGILDFLFVSHAYHSILTRGASVQLVFGFEYAILMTMVLTIFIKYVLHSVDLQSENPWDNKAVYMLYTELFTGFIKVLLYMAFMTIMIKVHTFPLFAIRPMYLAMRQFKKAVTDAIMSRRAIRNMNTLYPDATPEELQAMDNVCIICREEMVTGAKRLPCNHIFHTSCLRSWFQRQQTCPTCRMDVLRASLPAQSPPPPEPADQGPPPAPHPPPLLPQPPNFPQGLLPPFPPGMFPLWPPMGPFPPVPPPPSSGEAVAPPSTSAALSRPSGAATTTAAGTSATAASATASGPGSGSAPEAGPAPGFPFPPPWMGMPLPPPFAFPPMPVPPAGFAGLTPEELRALEGHERQHLEARLQSLRNIHTLLDAAMLQINQYLTVLASLGPPRPATSVNSTEETATTVVAAASSTSIPSSEATTPTPGASPPAPEMERPPAPESVGTEEMPEDGEPDAAELRRRRLQKLESPVAH
+PTM	Methylation:59,236;Phosphorylation:485,506,613

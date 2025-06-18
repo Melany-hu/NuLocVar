@@ -1,0 +1,25 @@
+UniprotID	E5RIA1
+Accession	E5RIA1
+EntryName	E5RIA1_HUMAN
+ProteinName	Glycerol-3-phosphate acyltransferase 4
+GeneName	GPAT4
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKSLLKIFAWATLRMERGAKEKNHQLYKPYTNGIIAKDPTSLEEEIKEIRRSGSSKALDNTPEFELSDIFYFCRKGMETIMDDEVTKRFSAEELESWNLLSRTNYNFQYISLRLTVLWGLGVLIRYCFLLPLRIALAFTGISLLVVGTTVVGYLPNGR
+PTM	

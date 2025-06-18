@@ -1,0 +1,25 @@
+UniprotID	Q16370
+Accession	Q16370
+EntryName	Q16370_HUMAN
+ProteinName	CTNNA1 protein
+GeneName	CTNNA1
+Length	51
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YKALKPEVNKVNIMAVKRQQGLKDVGHRDQMAAARGILQKNVLIFYTASRA
+PTM	

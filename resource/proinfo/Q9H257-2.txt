@@ -1,0 +1,25 @@
+UniprotID	Q9H257-2
+Accession	Q9H257;Q5SXM5;Q5SXM6;Q9H854
+EntryName	CARD9_HUMAN
+ProteinName	Caspase recruitment domain-containing protein 9 (hCARD9)
+GeneName	CARD9
+Length	492
+Function	Adapter protein that plays a key role in innate immune response against fungi by forming signaling complexes downstream of C-type lectin receptors (PubMed:26961233, PubMed:33558980). CARD9-mediated signals are essential for antifungal immunity against a subset of fungi from the phylum Ascomycota (PubMed:24231284, PubMed:25057046, PubMed:25702837, PubMed:26521038, PubMed:26679537, PubMed:26961233, PubMed:27777981, PubMed:29080677, PubMed:33558980). Transduces signals in myeloid cells downstream of C-type lectin receptors CLEC7A (dectin-1), CLEC6A (dectin-2) and CLEC4E (Mincle), which detect pathogen-associated molecular pattern metabolites (PAMPs), such as fungal carbohydrates, and trigger CARD9 activation (By similarity). Upon activation, CARD9 homooligomerizes to form a nucleating helical template that recruits BCL10 via CARD-CARD interaction, thereby promoting polymerization of BCL10 and subsequent recruitment of MALT1: this leads to activation of NF-kappa-B and MAP kinase p38 (MAPK11, MAPK12, MAPK13 and/or MAPK14) pathways which stimulate expression of genes encoding pro-inflammatory cytokines and chemokines (PubMed:11053425, PubMed:26488816, PubMed:26961233, PubMed:31296852, PubMed:33558980). CARD9 signaling in antigen-presenting cells links innate sensing of fungi to the activation of adaptive immunity and provides a cytokine milieu that induces the development and subsequent of interleukin 17-producing T helper (Th17) cells (PubMed:24231284). Also involved in activation of myeloid cells via classical ITAM-associated receptors and TLR: required for TLR-mediated activation of MAPK, while it is not required for TLR-induced activation of NF-kappa-B (By similarity). CARD9 can also be engaged independently of BCL10: forms a complex with RASGRF1 downstream of C-type lectin receptors, which recruits and activates HRAS, leading to ERK activation and the production of cytokines (By similarity). Acts as an important regulator of the intestinal commensal fungi (mycobiota) component of the gut microbiota (PubMed:33548172). Plays an essential role in antifungal immunity against dissemination of gut fungi: acts by promoting induction of antifungal IgG antibodies response in CX3CR1(+) macrophages to confer protection against disseminated C.albicans or C.auris infection (PubMed:33548172). Also mediates immunity against other pathogens, such as certain bacteria, viruses and parasites; CARD9 signaling is however redundant with other innate immune responses (By similarity). In response to L.monocytogenes infection, required for the production of inflammatory cytokines activated by intracellular peptidoglycan: acts by connecting NOD2 recognition of peptidoglycan to downstream activation of MAP kinases (MAPK) without activating NF-kappa-B (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDYENDDECWSVLEGFRVTLTSVIDPSRITPYLRQCKVLNPDDEEQVLSDPNLVIRKRKVGVLLDILQRTGHKGYVAFLESLELYYPQLYKKVTGKEPARVFSMIIDASGESGLTQLLMTEVMKLQKKVQDLTALLSSKDDFIKELRVKDSLLRKHQERVQRLKEECEAGSRELKRCKEENYDLAMRLAHQSEEKGAALMRNRDLQLEIDQLKHSLMKAEDDCKVERKHTLKLRHAMEQRPSQELLWELQQEKALLQARVQELEASVQEGKLDRSSPYIQVLEEDWRQALRDHQEQANTIFSLRKDLRQGEARRLRCMEEKEMFELQCLALRKDSKMYKDRIEAILLQMEEVAIERDQAIATREELHAQHARGLQEKDALRKQVRELGEKADELQLQVFQCEAQLLAVEGRLRRQQLETLVLSSDLEDGSPRRSQELSLPQDLEDTQLSDKGCLAGGGSPKQPFAALHQEQVLRNPHDAGPAGLPGIGAVC
+PTM	Methylation:58,145,156,214,219,272,306,334,378,391;Phosphorylation:2,76,82,134,138,139,152,420,424,425,431,439,450,460,498,502

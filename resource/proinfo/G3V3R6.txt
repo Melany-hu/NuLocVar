@@ -1,0 +1,25 @@
+UniprotID	G3V3R6
+Accession	G3V3R6
+EntryName	G3V3R6_HUMAN
+ProteinName	Galectin
+GeneName	LGALS3
+Length	233
+Function	
+Subcellular Location	Cytoplasm; Nucleus; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADNFSLHDALSGSGNPNPQGWPGAWGNQPAGAGGYPGASYPGAYPGQAPPGAYPGQAPPGAYPGAPGAYPGAPAPGVYPGPPSGPGAYPSSGQPSATGAYPATGPYGAPAGPLIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRGNDVAFHFNPRFNENNRRVIVCNTKLDNNWGREERQSVFPFESGKPFKSLALSPGWSTVARSWLTTTSASWVQAMLLPQPPK
+PTM	

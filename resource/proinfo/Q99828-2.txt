@@ -1,0 +1,25 @@
+UniprotID	Q99828-2
+Accession	Q99828;B5BU40;H6WJF3;O00693;O00735;Q6IB49;Q96J54;Q99971
+EntryName	CIB1_HUMAN
+ProteinName	Calcium and integrin-binding protein 1 (CIB) (Calcium- and integrin-binding protein) (CIBP) (Calmyrin) (DNA-PKcs-interacting protein) (Kinase-interacting protein) (KIP) (SNK-interacting protein 2-28) (SIP2-28)
+GeneName	CIB1 CIB KIP PRKDCIP
+Length	231
+Function	Calcium-binding protein that plays a role in the regulation of numerous cellular processes, such as cell differentiation, cell division, cell proliferation, cell migration, thrombosis, angiogenesis, cardiac hypertrophy and apoptosis. Involved in bone marrow megakaryocyte differentiation by negatively regulating thrombopoietin-mediated signaling pathway. Participates in the endomitotic cell cycle of megakaryocyte, a form of mitosis in which both karyokinesis and cytokinesis are interrupted. Plays a role in integrin signaling by negatively regulating alpha-IIb/beta3 activation in thrombin-stimulated megakaryocytes preventing platelet aggregation. Up-regulates PTK2/FAK1 activity, and is also needed for the recruitment of PTK2/FAK1 to focal adhesions; it thus appears to play an important role in focal adhesion formation. Positively regulates cell migration on fibronectin in a CDC42-dependent manner, the effect being negatively regulated by PAK1. Functions as a negative regulator of stress activated MAP kinase (MAPK) signaling pathways. Down-regulates inositol 1,4,5-trisphosphate receptor-dependent calcium signaling. Involved in sphingosine kinase SPHK1 translocation to the plasma membrane in a N-myristoylation-dependent manner preventing TNF-alpha-induced apoptosis. Regulates serine/threonine-protein kinase PLK3 activity for proper completion of cell division progression. Plays a role in microtubule (MT) dynamics during neuronal development; disrupts the MT depolymerization activity of STMN2 attenuating NGF-induced neurite outgrowth and the MT reorganization at the edge of lamellipodia. Promotes cardiomyocyte hypertrophy via activation of the calcineurin/NFAT signaling pathway. Stimulates calcineurin PPP3R1 activity by mediating its anchoring to the sarcolemma. In ischemia-induced (pathological or adaptive) angiogenesis, stimulates endothelial cell proliferation, migration and microvessel formation by activating the PAK1 and ERK1/ERK2 signaling pathway. Also promotes cancer cell survival and proliferation. May regulate cell cycle and differentiation of spermatogenic germ cells, and/or differentiation of supporting Sertoli cells. Forms a complex with TMC6/EVER1 and TMC8/EVER2 in lymphocytes and keratynocytes where CIB1 stabilizes TMC6 and TMC8 levels and reciprocally (PubMed:30068544, PubMed:32917726).
+Subcellular Location	Membrane; Cell membrane; Sarcolemma; Cell membrane; Apical cell membrane; Cell projection; Ruffle membrane; Cell projection; Filopodium tip; Cell projection; Growth cone; Cell projection; Lamellipodium; Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Perinuclear region; Nucleus; Cell projection; Neuron projection; Perikaryon; Cytoplasm; Perinuclear region; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGSGSRLSKELLAEYQDLTFLTKQEILLSVYVVLAPHLVDNEQQARSGNEHTGRPIAENTDSSPLSTRAHRRFCELLPQEQRSVESSLRAQVPFEQILSLPELKANPFKERICRVFSTSPAKDSLSFEDFLDLLSVFSDTATPDIKSHYAFRIFDFDDDGTLNREDLSRLVNCLTGEGEDTRLSASEMKQLIDNILEESDIDRDGTINLSEFQHVISRSPDFASSFKIVL
+PTM	Phosphorylation:171,180;SUMOylation:65;Ubiquitylation:10,24,65,70,188

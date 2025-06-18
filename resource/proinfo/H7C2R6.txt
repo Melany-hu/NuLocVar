@@ -1,0 +1,25 @@
+UniprotID	H7C2R6
+Accession	H7C2R6
+EntryName	H7C2R6_HUMAN
+ProteinName	Cilia and flagella associated protein 298
+GeneName	CFAP298
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYPMGLPPYDPIRMEFENKEDLSGTQAGLNVIKEAEAQLWWAAKELRRTKKLSDYVGKNEKTKIIAKIQQRGQGAPAREPIISSEEQKQLMLYYHRRQEELKVAGDRWAFCSAGAHT
+PTM	

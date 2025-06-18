@@ -1,0 +1,25 @@
+UniprotID	Q8N9I9-2
+Accession	Q8N9I9;Q53ZZ2;Q8NAU6;Q8NDS8
+EntryName	DTX3_HUMAN
+ProteinName	Probable E3 ubiquitin-protein ligase DTX3 (EC 2.3.2.27) (Protein deltex-3) (Deltex3) (RING finger protein 154) (RING-type E3 ubiquitin transferase DTX3)
+GeneName	DTX3 RNF154
+Length	350
+Function	Regulator of Notch signaling, a signaling pathway involved in cell-cell communications that regulates a broad spectrum of cell-fate determinations. Probably acts both as a positive and negative regulator of Notch, depending on the developmental and cell context (By similarity). Functions as an ubiquitin ligase protein in vitro, suggesting that it may regulate the Notch pathway via some ubiquitin ligase activity.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPILSSSGSKMAACGGTCKNKVTVSKPVWDFLSKETPARLARLREEHRVSILIDGETSDIYVLQLSPQGPPPAPPNGLYLARKALKGLLKEAEKELKKAQRQGELMGCLALGGGGEHPEMHRAGPPPLRAAPLLPPGARGLPPPPPPLPPPLPPRLREEAEEQESTCPICLGEIQNAKTLEKCRHSFCEGCITRALQVKKACPMCGRFYGQLVGNQPQNGRMLVSKDATLLLPSYEKYGTIVIQYVFPPGVQGAEHPNPGVRYPGTTRVAYLPDCPEGNKVLTLFRKAFDQRLTFTIGTSMTTGRPNVITWNDIHHKTSCTGGPQLFGYPDPTYLTRVQEELRAKGITDD
+PTM	Methylation:87,179,223;Phosphorylation:183,232,235;Ubiquitylation:175,223

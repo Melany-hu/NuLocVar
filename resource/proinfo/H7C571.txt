@@ -1,0 +1,25 @@
+UniprotID	H7C571
+Accession	H7C571
+EntryName	H7C571_HUMAN
+ProteinName	Vestigial like family member 3
+GeneName	VGLL3
+Length	208
+Function	May act as a specific coactivator for the mammalian TEFs.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XASQYLPNPMAATTCPTAYYQPAPQPGQQGDIGSVVDEHFSRALGQAITLHPESAISKSKMGLTPLWRDSSALSSQRNSFPTSFWTSSYQPPPAPCLGGVHPDFQVTGPPGTFSAADPSPWPGHNLHQTGPAPPPAVSESWPYPLTSQVSPSYSHMHDVYMRHHHPHAHMHHRHRHHHHHHHPPAGSALDPSYGPLLMPSVHAARIPA
+PTM	

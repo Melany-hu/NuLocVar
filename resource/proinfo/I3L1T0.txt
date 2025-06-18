@@ -1,0 +1,25 @@
+UniprotID	I3L1T0
+Accession	I3L1T0
+EntryName	I3L1T0_HUMAN
+ProteinName	Coenzyme Q7 homolog, ubiquinone (Yeast), isoform CRA_b (Coenzyme Q7, hydroxylase)
+GeneName	COQ7 hCG_1743024
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCAGAAAAPRLWRLRPGARRSLSAYGRRTSVRFRSSGMTLDNISRAAVDRIIRVDHAGEYGANRIYAGQMAVLGRTSVGPVIQKMWDQEKDHLKKFNELMVTFRVRPTVLMPLWNVLGFALGTCLSRRAYASLGI
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UBK8-1
+Accession	Q9UBK8;O60471;Q32MA9;Q7Z4M8
+EntryName	MTRR_HUMAN
+ProteinName	Methionine synthase reductase (MSR) (EC 1.16.1.8) (Aquacobalamin reductase) (AqCbl reductase)
+GeneName	MTRR
+Length	725
+Function	Key enzyme in methionine and folate homeostasis responsible for the reactivation of methionine synthase (MTR/MS) activity by catalyzing the reductive methylation of MTR-bound cob(II)alamin (PubMed:17892308). Cobalamin (vitamin B12) forms a complex with MTR to serve as an intermediary in methyl transfer reactions that cycles between MTR-bound methylcob(III)alamin and MTR bound-cob(I)alamin forms, and occasional oxidative escape of the cob(I)alamin intermediate during the catalytic cycle leads to the inactive cob(II)alamin species (Probable). The processing of cobalamin in the cytosol occurs in a multiprotein complex composed of at least MMACHC, MMADHC, MTRR and MTR which may contribute to shuttle safely and efficiently cobalamin towards MTR in order to produce methionine (PubMed:27771510). Also necessary for the utilization of methyl groups from the folate cycle, thereby affecting transgenerational epigenetic inheritance (By similarity). Also acts as a molecular chaperone for methionine synthase by stabilizing apoMTR and incorporating methylcob(III)alamin into apoMTR to form the holoenzyme (PubMed:16769880). Also serves as an aquacob(III)alamin reductase by reducing aquacob(III)alamin to cob(II)alamin; this reduction leads to stimulation of the conversion of apoMTR and aquacob(III)alamin to MTR holoenzyme (PubMed:16769880).
+Subcellular Location	Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAASVRAGARLVEVALCSFTVTCLEVMRRFLLLYATQQGQAKAIAEEICEQAVVHGFSADLHCISESDKYDLKTETAPLVVVVSTTGTGDPPDTARKFVKEIQNQTLPVDFFAHLRYGLLGLGDSEYTYFCNGGKIIDKRLQELGARHFYDTGHADDCVGLELVVEPWIAGLWPALRKHFRSSRGQEEISGALPVASPASSRTDLVKSELLHIESQVELLRFDDSGRKDSEVLKQNAVNSNQSNVVIEDFESSLTRSVPPLSQASLNIPGLPPEYLQVHLQESLGQEESQVSVTSADPVFQVPISKAVQLTTNDAIKTTLLVELDISNTDFSYQPGDAFSVICPNSDSEVQSLLQRLQLEDKREHCVLLKIKADTKKKGATLPQHIPAGCSLQFIFTWCLEIRAIPKKAFLRALVDYTSDSAEKRRLQELCSKQGAADYSRFVRDACACLLDLLLAFPSCQPPLSLLLEHLPKLQPRPYSCASSSLFHPGKLHFVFNIVEFLSTATTEVLRKGVCTGWLALLVASVLQPNIHASHEDSGKALAPKISISPRTTNSFHLPDDPSIPIIMVGPGTGIAPFIGFLQHREKLQEQHPDGNFGAMWLFFGCRHKDRDYLFRKELRHFLKHGILTHLKVSFSRDAPVGEEEAPAKYVQDNIQLHGQQVARILLQENGHIYVCGDAKNMAKDVHDALVQIISKEVGVEKLEAMKTLATLKEEKRYLQDIWS
+PTM	Acetylation:598,606;Methylation:113,181,208,291,344,486,623,670;Phosphorylation:156,157,164,171,174,175,177,182,189,199,204,214,217;Ubiquitylation:407,598,681

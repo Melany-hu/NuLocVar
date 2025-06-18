@@ -1,0 +1,25 @@
+UniprotID	G3V1C5
+Accession	G3V1C5;A0A024R5M6
+EntryName	G3V1C5_HUMAN
+ProteinName	Interleukin 18 binding protein
+GeneName	IL18BP hCG_23241
+Length	199
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMRHNWTPDLSPLWVLLLCAHVVTLLVRATPVSQTTTAATASVRSTKDPCPSQPPVFPAAKQCPALEVTWPEVEVPLNGTLSLSCVACSRFPNFSILYWLGNGSFIEHLPGRLWEGSTSRERGSTGTQLCKALVLEQLTPALHSTNFSCVLVDPEQVVQRHVVLAQLWVRSPRRGLQEQEELCFHMWGGKGGLCQSSL
+PTM	

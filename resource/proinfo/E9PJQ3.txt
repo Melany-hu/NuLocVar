@@ -1,0 +1,25 @@
+UniprotID	E9PJQ3
+Accession	E9PJQ3
+EntryName	E9PJQ3_HUMAN
+ProteinName	Solute carrier family 25 member 45
+GeneName	SLC25A45
+Length	226
+Function	
+Subcellular Location	Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVEEFVAGWISGALGLVLGHPFDTVKVRLQTQTTYRGIVDCMVKIYRHESAYCLAPFDLIKVRLQNQTEPRAQPGSPPPRYQGPVHCAASIFREEGPRGLFRGAWALTLRDTPTVGIYFITYEGLCRQYTPEGQNPSSATVLVAGGFAGIASWVAATPLDMIKSRMQMDGLRRRVYQGMLDCMVSSIRQEGLGVFFRGVTINSARAFPVNAVTFLSYEYLLRWWG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A9QVL8
+Accession	A9QVL8
+EntryName	A9QVL8_HUMAN
+ProteinName	Janus kinase 2
+GeneName	JAK2
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KSNLLVFRTNGVSDVPTSPTLQRPTHMNQMVFHKIKNLIF
+PTM	

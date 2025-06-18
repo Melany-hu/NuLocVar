@@ -1,0 +1,25 @@
+UniprotID	J3QQY9
+Accession	J3QQY9
+EntryName	J3QQY9_HUMAN
+ProteinName	Beta-1,4-galactosyltransferase 6
+GeneName	B4GALT6
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQARGIMLRENVKTIGHMIRLYTNKNSTLNGTDYPEGNNSSDYLVQTTTYLPENFTYSPYLPCPEKLPYM
+PTM	

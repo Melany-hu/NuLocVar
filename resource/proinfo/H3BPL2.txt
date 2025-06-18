@@ -1,0 +1,25 @@
+UniprotID	H3BPL2
+Accession	H3BPL2
+EntryName	H3BPL2_HUMAN
+ProteinName	Ring finger and SPRY domain containing 1
+GeneName	RSPRY1
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	83...88
+validnes_region	
+nesbase_region	
+Sequence	MIVFGWAVFLASRSLGQGLLLTLEEHIAHFLGTGGAATTMGNSCICRDDSGTDDSVDTQQQQAENSAVPTADTRSQPRDPVRPPRRGRGPHEPRRKKQNVDGLVLDTLAVIRTLVDKRKLQNEDAYIGPCFHKSSTGIVVSLPGISLSDQEPPYSMITLHEMAETDEGWLDV
+PTM	

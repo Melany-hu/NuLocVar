@@ -1,0 +1,25 @@
+UniprotID	P14678-2
+Accession	P14678;Q15490;Q6IB35;Q9UIS5
+EntryName	RSMB_HUMAN
+ProteinName	Small nuclear ribonucleoprotein-associated proteins B and B' (snRNP-B) (Sm protein B/B') (Sm-B/B') (SmB/B')
+GeneName	SNRPB COD SNRPB1
+Length	231
+Function	Plays a role in pre-mRNA splicing as a core component of the spliceosomal U1, U2, U4 and U5 small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome (PubMed:11991638, PubMed:18984161, PubMed:19325628, PubMed:25555158, PubMed:26912367, PubMed:28076346, PubMed:28502770, PubMed:28781166, PubMed:32494006). Component of both the pre-catalytic spliceosome B complex and activated spliceosome C complexes (PubMed:11991638, PubMed:28076346, PubMed:28502770, PubMed:28781166). As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (PubMed:15146077). As part of the U7 snRNP it is involved in histone pre-mRNA 3'-end processing (PubMed:12975319).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTVGKSSKMLQHIDYRMRCILQDGRIFIGTFKAFDKHMNLILCDCDEFRKIKPKNSKQAEREEKRVLGLVLLRGENLVSMTVEGPPPKDTGIARVPLAGAAGGPGIGRAAGRGIPAGVPMPQAPAGLAGPVRGVGGPSQQVMTPQGRGTVAAAAAAATASIAGAPTQYPPGRGGPPPPMGRGAPPPGMMGPPPGMRPPMGPPMGIPPGRGTPMGMPPPGMRPPPPGMRGLL
+PTM	Acetylation:8,32,36,57,64,88;Methylation:16,32,88,94,108,112,132,147,172,181,236;Phosphorylation:15;SUMOylation:8,88;Ubiquitylation:8,32,36,57,88

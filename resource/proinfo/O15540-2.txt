@@ -1,0 +1,25 @@
+UniprotID	O15540-2
+Accession	O15540;B2R4L1;O14951;Q6IAU7;Q9H047
+EntryName	FABP7_HUMAN
+ProteinName	Fatty acid-binding protein, brain (Brain lipid-binding protein) (BLBP) (Brain-type fatty acid-binding protein) (B-FABP) (Fatty acid-binding protein 7) (Mammary-derived growth inhibitor related)
+GeneName	FABP7 BLBP FABPB MRG
+Length	166
+Function	B-FABP could be involved in the transport of a so far unknown hydrophobic ligand with potential morphogenic activity during CNS development. It is required for the establishment of the radial glial fiber system in developing brain, a system that is necessary for the migration of immature neurons to establish cortical layers (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEAFCATWKLTNSQNFDEYMKALGVGFATRQVGNVTKPTVIISQEGDKVVIRTLSTFKNTEISFQLGEEFDETTADDRNCKSVVSLDGDKLVHIQKWDGKETNFVREIKDGKMVMVSNDNSPFFLVFFSSPHTSHLLPSSSLLLPFFLLPSFFNNTSLARFFNYM
+PTM	Phosphorylation:56

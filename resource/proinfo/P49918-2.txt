@@ -1,0 +1,25 @@
+UniprotID	P49918-2
+Accession	P49918
+EntryName	CDN1C_HUMAN
+ProteinName	Cyclin-dependent kinase inhibitor 1C (Cyclin-dependent kinase inhibitor p57) (p57Kip2)
+GeneName	CDKN1C KIP2
+Length	305
+Function	Potent tight-binding inhibitor of several G1 cyclin/CDK complexes (cyclin E-CDK2, cyclin D2-CDK4, and cyclin A-CDK2) and, to lesser extent, of the mitotic cyclin B-CDC2. Negative regulator of cell proliferation. May play a role in maintenance of the non-proliferative state throughout life.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	278..281
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLVARGTFPVLVRTSACRSLFGPVDHEELSRELQARLAELNAEDQNRWDYDFQQDMPLRGPGRLQWTEVDSDSVPAFYRETVQVGRCRLLLAPRPVAVAVAVSPPLEPAAESLDGLEEAPEQLPSVPVPAPASTPPPVPVLAPAPAPAPAPVAAPVAAPVAVAVLAPAPAPAPAPAPAPAPVAAPAPAPAPAPAPAPAPAPAPDAAPQESAEQGANQGQRGQEPLADQLHSGISGRPAAGTAAASANGAAIKKLSGPLISDFFAKRKRSAPEKSSGDVPAPCPSPSAAPGVGSVEQTPRKRLR
+PTM	Acetylation:278;Phosphorylation:27,43,268,297,299,310;SUMOylation:266,278;Ubiquitylation:265,286

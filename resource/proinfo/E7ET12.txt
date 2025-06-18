@@ -1,0 +1,25 @@
+UniprotID	E7ET12
+Accession	E7ET12
+EntryName	E7ET12_HUMAN
+ProteinName	Sphingosine kinase 2
+GeneName	SPHK2
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGHLEAEEQQDQRSPLTCYLGRPGCFYWSIPLGVGAWPGSGVRTTCFP
+PTM	

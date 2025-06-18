@@ -1,0 +1,25 @@
+UniprotID	Q86TG1-2
+Accession	Q86TG1;A8K764;B7WPQ9;D6W5L2;Q8N2R6
+EntryName	T150A_HUMAN
+ProteinName	Transmembrane protein 150A (Transmembrane protein 150)
+GeneName	TMEM150A TMEM150
+Length	218
+Function	Regulates localization of phosphatidylinositol 4-kinase (PI4K) to the plasma membrane, possibly by reducing the association of TTC7 (TTC7A or TTC7B) with the PI4K complex (PubMed:25608530). Acts as a regulator of phosphatidylinositol 4-phosphate (PtdIns(4)P) synthesis (PubMed:25608530). May also play a role in fasting-induced catabolism (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYALWRTGPTTSPALLTLLSKGVPRPAAPWTMSPSSVALICLLRYGQLLEQSRHSWVNTTALITGCTNAAGLLVVGNFQVDHARSLHYVGAGVAFPAGLLFVCLHCALSYQGATAPLDLAVAYLRSVLAVIAFITLVLSGVFFVHESSQLQHGAALCEWVCVIDILIFYGTFSYEFGAVSSDTLVAALQPTPGRACKSSGSSSTSTHLNCAPESIAMI
+PTM	Methylation:68

@@ -1,0 +1,25 @@
+UniprotID	M0QYH7
+Accession	M0QYH7
+EntryName	M0QYH7_HUMAN
+ProteinName	Prostate tumor-overexpressed gene 1 protein
+GeneName	PTOV1
+Length	283
+Function	Activates transcription. Required for nuclear translocation of FLOT1. Promotes cell proliferation.
+Subcellular Location	Cytoplasm; Nucleus; Cell membrane; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSPAVPTPARGQLGVAFVLLPPHSVGAPVPATPPEVVARASSQDSPAPERPAGPPSPHSAPARAPLPRAALEGARVFGALGPIGPSSPGLTLGGLAVSEHRLSNKLLAWSGVLEWQEKRRPYSDSTAKLKRTLPCQAYVNQGENLETDQWPQKLIMQLIPQQLLTTLGPLFRNSQLAQFHFTNRDCDSLKGLCRIMGNGFAGCMLFPHISPCEVRVLMLLYSSKKKIFMGLIPYDQSGFVSAIRQVITTRKQAVGPGGVNSGPVQIVNNKFLAWSGVMEWQE
+PTM	

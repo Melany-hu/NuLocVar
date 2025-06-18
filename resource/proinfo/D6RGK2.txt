@@ -1,0 +1,25 @@
+UniprotID	D6RGK2
+Accession	D6RGK2
+EntryName	D6RGK2_HUMAN
+ProteinName	Parkin coregulated like
+GeneName	PACRGL
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQKSEGSGGTQLKNRATGNYDQRTSSSTQLKHRNAVQGSKSSLSTSSPESARKLHPRPSDKLNPKTINPGLRETKHPYTFVSKEGFRELLLVKGAPEKAIPLLPRLIPVLKAALVHSDDEVFERGLNALVQLSVVVGPSLNDHLKHLLTSGSLSIIKSKIPTYCSICC
+PTM	

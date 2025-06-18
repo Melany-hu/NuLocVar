@@ -1,0 +1,25 @@
+UniprotID	L8EC83
+Accession	L8EC83
+EntryName	L8EC83_HUMAN
+ProteinName	Alternative protein TTC26
+GeneName	TTC26
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFMWPSATTSWITMMCLKKFWLFTFSKFLIVPSHSILKPVTIFAFTMAEQLRQNSKA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NQ84-2
+Accession	Q9NQ84;B5BUN4;Q2NL85;Q9NZG5
+EntryName	GPC5C_HUMAN
+ProteinName	G-protein coupled receptor family C group 5 member C (Retinoic acid-induced gene 3 protein) (RAIG-3)
+GeneName	GPRC5C RAIG3 PSEC0087
+Length	453
+Function	This retinoic acid-inducible G-protein coupled receptor provide evidence for a possible interaction between retinoid and G-protein signaling pathways.
+Subcellular Location	Cell membrane; Cytoplasmic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTQPEPGLGARMAIHKALVMCLGLPLFLFPGAWAQGHVPPGCSQGLNPLYYNLCDRSGAWGIVLEAVAGAGIVTTFVLTIILVASLPFVQDTKKRSLLGTQVFFLLGTLGLFCLVFACVVKPDFSTCASRRFLFGVLFAICFSCLAAHVFALNFLARKNHGPRGWVIFTVALLLTLVEVIINTEWLIITLVRGSGEGGPQGNSSAGWAVASPCAIANMDFVMALIYVMLLLLGAFLGAWPALCGRYKRWRKHGVFVLLTTATSVAIWVVWIVMYTYGNKQHNSPTWDDPTLAIALAANAWAFVLFYVIPEVSQVTKSSPEQSYQGDMYPTRGVGYETILKEQKGQSMFVENKAFSMDEPVAAKRPVSPYSGYNGQLLTSVYQPTEMALMHKVPSEGAYDIILPRATANSQVMGSANSTLRAEDMYSAQSHQAATPPKDGKNSQVFRNPYVWD
+PTM	Glycosylation:397,405;Phosphorylation:312,317,324,326,335,344,356,370,383,387,403,406,414,415,418,423,431,438;SUMOylation:341;Ubiquitylation:329,332,341,352,426

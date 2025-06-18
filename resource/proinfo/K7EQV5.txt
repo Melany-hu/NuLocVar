@@ -1,0 +1,25 @@
+UniprotID	K7EQV5
+Accession	K7EQV5
+EntryName	K7EQV5_HUMAN
+ProteinName	Zinc finger protein 112
+GeneName	ZNF112
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	11...16
+validnes_region	
+nesbase_region	
+Sequence	MGLGPRSLPFSRKRKRKMTKFQEMVTFKDVAVVFTEEELGLLDSVQRKLYRDVMLENFRNLLLVAHQPFKPDLISQLEREEKLLMVETETPRDGCSGRKNQQKMESIQEVTVSYFSPKELSSRQTWQQSAGGLIRCQDFLKVFQGK
+PTM	

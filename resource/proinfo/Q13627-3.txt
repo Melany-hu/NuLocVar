@@ -1,0 +1,25 @@
+UniprotID	Q13627-3
+Accession	Q13627;O60769;Q92582;Q92810;Q9UNM5
+EntryName	DYR1A_HUMAN
+ProteinName	Dual specificity tyrosine-phosphorylation-regulated kinase 1A (EC 2.7.11.23) (EC 2.7.12.1) (Dual specificity YAK1-related kinase) (HP86) (Protein kinase minibrain homolog) (MNBH) (hMNB)
+GeneName	DYRK1A DYRK MNB MNBH
+Length	529
+Function	Dual-specificity kinase which possesses both serine/threonine and tyrosine kinase activities (PubMed:20981014, PubMed:21127067, PubMed:23665168, PubMed:30773093, PubMed:8769099). Exhibits a substrate preference for proline at position P+1 and arginine at position P-3 (PubMed:23665168). Plays an important role in double-strand breaks (DSBs) repair following DNA damage (PubMed:31024071). Mechanistically, phosphorylates RNF169 and increases its ability to block accumulation of TP53BP1 at the DSB sites thereby promoting homologous recombination repair (HRR) (PubMed:30773093). Also acts as a positive regulator of transcription by acting as a CTD kinase that mediates phosphorylation of the CTD (C-terminal domain) of the large subunit of RNA polymerase II (RNAP II) POLR2A (PubMed:25620562, PubMed:29849146). May play a role in a signaling pathway regulating nuclear functions of cell proliferation (PubMed:14500717). Modulates alternative splicing by phosphorylating the splice factor SRSF6 (By similarity). Has pro-survival function and negatively regulates the apoptotic process (By similarity). Promotes cell survival upon genotoxic stress through phosphorylation of SIRT1 (By similarity). This in turn inhibits p53/TP53 activity and apoptosis (By similarity). Phosphorylates SEPTIN4, SEPTIN5 and SF3B1 at 'Thr-434' (By similarity).
+Subcellular Location	Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	117..134
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	129...134;117...134
+validnes_region	
+nesbase_region	
+Sequence	MHTGGETSACKPSSVRLAPSFSFHAAGLQMAGQMPHSHQYSDRRQPNISDQQVSALSYSDQIQQPLTNQVMPDIVMLQRRMPQTFRDPATAPLRKLSVDLIKTYKHINEVYYAKKKRRHQQGQGDDSSHKKERKVYNDGYDDDNYDYIVKNGEKWMDRYEIDSLIGKGSFGQVVKAYDRVEQEWVAIKIIKNKKAFLNQAQIEVRLLELMNKHDTEMKYYIVHLKRHFMFRNHLCLVFEMLSYNLYDLLRNTNFRGVSLNLTRKFAQQMCTALLFLATPELSIIHCDLKPENILLCNPKRSAIKIVDFGSSCQLGQRIYQYIQSRFYRSPEVLLGMPYDLAIDMWSLGCILVEMHTGEPLFSGANEVDQMNKIVEVLGIPPAHILDQAPKARKFFEKLPDGTWNLKKTKDGKREYKPPGTRKLHNILGVETGGPGGRRAGESGHTVADYLKFKDLILRMLDYDPKTRIQPYYALQHSFFKKTADEGTNTSNSVSTSPAMEQSQSSGTTSSTSSSSGASAISCSSWLVRH
+PTM	Acetylation:105,406;Methylation:102,167,304;Phosphorylation:57,58,67,97,111,145,147,215,219,262,319,321,324,492,529,532,538,543,553,555,748,751,758,762,763;SUMOylation:134,289,481;Ubiquitylation:134,175,453

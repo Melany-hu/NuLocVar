@@ -1,0 +1,25 @@
+UniprotID	E9PR29
+Accession	E9PR29
+EntryName	E9PR29_HUMAN
+ProteinName	Tripartite motif containing 68
+GeneName	TRIM68
+Length	198
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPTALVEAIVEEVACPICMTFLREPMSIDCGHSFCHSCLSGLWEIPGESQNWGYTCPLCRAPVQPRNLRPNWQLANVVEKVRLLRLHPGMGLKGDLCERHGEKLKMFCKEDVLIMCEACSQSPEHEAHSVVPMEDVAWEYKIQVETRKQSIVWEFEKYQRLLEKKQPPHRQLGAEVAAALASLQREAAETMQKLELN
+PTM	

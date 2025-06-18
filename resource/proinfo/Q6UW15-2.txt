@@ -1,0 +1,25 @@
+UniprotID	Q6UW15-2
+Accession	Q6UW15;A8K980;D6W5J6;Q3SYE4;Q3SYE6;Q6FH18
+EntryName	REG3G_HUMAN
+ProteinName	Regenerating islet-derived protein 3-gamma (REG-3-gamma) (Pancreatitis-associated protein 1B) (PAP-1B) (Pancreatitis-associated protein IB) (PAP IB) (Regenerating islet-derived protein III-gamma) (REG III) (Reg III-gamma) [Cleaved into: Regenerating islet-derived protein 3-gamma 16.5 kDa form; Regenerating islet-derived protein 3-gamma 15 kDa form]
+GeneName	REG3G PAP1B UNQ429/PRO162
+Length	129
+Function	Bactericidal C-type lectin which acts exclusively against Gram-positive bacteria and mediates bacterial killing by binding to surface-exposed carbohydrate moieties of peptidoglycan. Restricts bacterial colonization of the intestinal epithelial surface and consequently limits activation of adaptive immune responses by the microbiota.
+Subcellular Location	Secreted; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPPMALPSVSWMLLSCLILLCQVQGEETQKELPSPRISCPKGSKAYGSPCYALFLSPKSWMDADGSEPDGDGWEWSSTDVMNYFAWEKNPSTILNPGHCGSLSRSTGFLKWKDYNCDAKLPYVCKFKD
+PTM	Methylation:59;Phosphorylation:35,49,52,57

@@ -1,0 +1,25 @@
+UniprotID	P52298-2
+Accession	P52298;B2RE91;B4DMK7;E9PAR5;Q14924;Q2TS50
+EntryName	NCBP2_HUMAN
+ProteinName	Nuclear cap-binding protein subunit 2 (20 kDa nuclear cap-binding protein) (Cell proliferation-inducing gene 55 protein) (NCBP 20 kDa subunit) (CBP20) (NCBP-interacting protein 1) (NIP1)
+GeneName	NCBP2 CBP20 PIG55
+Length	138
+Function	Component of the cap-binding complex (CBC), which binds co-transcriptionally to the 5' cap of pre-mRNAs and is involved in various processes such as pre-mRNA splicing, translation regulation, nonsense-mediated mRNA decay, RNA-mediated gene silencing (RNAi) by microRNAs (miRNAs) and mRNA export. The CBC complex is involved in mRNA export from the nucleus via its interaction with ALYREF/THOC4/ALY, leading to the recruitment of the mRNA export machinery to the 5' end of mRNA and to mRNA export in a 5' to 3' direction through the nuclear pore. The CBC complex is also involved in mediating U snRNA and intronless mRNAs export from the nucleus. The CBC complex is essential for a pioneer round of mRNA translation, before steady state translation when the CBC complex is replaced by cytoplasmic cap-binding protein eIF4E. The pioneer round of mRNA translation mediated by the CBC complex plays a central role in nonsense-mediated mRNA decay (NMD), NMD only taking place in mRNAs bound to the CBC complex, but not on eIF4E-bound mRNAs. The CBC complex enhances NMD in mRNAs containing at least one exon-junction complex (EJC) via its interaction with UPF1, promoting the interaction between UPF1 and UPF2. The CBC complex is also involved in 'failsafe' NMD, which is independent of the EJC complex, while it does not participate in Staufen-mediated mRNA decay (SMD). During cell proliferation, the CBC complex is also involved in microRNAs (miRNAs) biogenesis via its interaction with SRRT/ARS2, thereby being required for miRNA-mediated RNA interference. The CBC complex also acts as a negative regulator of PARN, thereby acting as an inhibitor of mRNA deadenylation. In the CBC complex, NCBP2/CBP20 recognizes and binds capped RNAs (m7GpppG-capped RNA) but requires NCBP1/CBP80 to stabilize the movement of its N-terminal loop and lock the CBC into a high affinity cap-binding state with the cap structure. The conventional cap-binding complex with NCBP2 binds both small nuclear RNA (snRNA) and messenger (mRNA) and is involved in their export from the nucleus (PubMed:26382858).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLRKLYAGDNEEQEKLLKKSCTLYVGNLSFYTTEEQIYELFSKSGDIKKIIMGLDKMKKTACGFCFVEYYSRADAENAMRYINGTRLDDRIIRTDWDAGFKEGRQYGRGRSGGQVRDEYRQDYDAGRGGYGKLAQNQ
+PTM	Acetylation:34,37,75,120,151;Methylation:7,139,146;Phosphorylation:2,11,13,14,18,61,130,138;SUMOylation:7,68,75,77,120;Ubiquitylation:78,120

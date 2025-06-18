@@ -1,0 +1,25 @@
+UniprotID	Q8N9Z9-2
+Accession	Q8N9Z9;B4DL27;B4DY70;Q8IY38
+EntryName	LMTD1_HUMAN
+ProteinName	Lamin tail domain-containing protein 1 (Intermediate filament tail domain-containing protein 1)
+GeneName	LMNTD1 IFLTD1
+Length	291
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIGDGEDYFLSLFGDSKKLTAHSNYTQKTLKYFSMILEEVGQFTSSSLGDVEIAEVNVKGLFVKLINSSLDKEMAIGDHILQQNVNGQTISLYRFLPNIVMQANSTVTVWAAASEAKHQPPSDFLWKEQDKFRASPDCITILCKPNGQAIAWYTPIHWKQAWEKLDADVEFNRCSVVSPTFRKRVFQWTASTATITKEKQDQPKKDISNYQVEQAQVLLKREKEIPPTVFPNRSPWCQNPYVSAHPYCPLIEPHNTSTAGGRLDRQPRTRSTRPNRASGSKKKKTSESQKQ
+PTM	Methylation:161,317;Phosphorylation:23,293;SUMOylation:317

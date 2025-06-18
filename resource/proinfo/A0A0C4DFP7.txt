@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DFP7
+Accession	A0A0C4DFP7
+EntryName	A0A0C4DFP7_HUMAN
+ProteinName	C1q and TNF related 1
+GeneName	C1QTNF1
+Length	199
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYPATAVPQINITILKGEKGDRGDRGLQGKYGKTGSAGARGHTGPKGQKGSMGAPGERCKSHYAAFSVGRKKPMHSNHYYQTVIFDTEFVNLYDHFNMFTGKFYCYVPGLYFFSLNVHTWNQKETYLHIMKNEEEVVILFAQVGDRSIMQSQSLMLELREQDQVWVRLYKGERENAIFSEELDTYITFSGYLVKHATEP
+PTM	

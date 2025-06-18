@@ -1,0 +1,25 @@
+UniprotID	Q99674-2
+Accession	Q99674;A6NHV7;B4DXY8;B5MCB7;B5MCC9;B5MCP5;E7EU99;Q8N4B7
+EntryName	CGRE1_HUMAN
+ProteinName	Cell growth regulator with EF hand domain protein 1 (Cell growth regulatory gene 11 protein) (Hydrophobestin)
+GeneName	CGREF1 CGR11
+Length	132
+Function	Mediates cell-cell adhesion in a calcium-dependent manner (By similarity). Able to inhibit growth in several cell lines.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPLTMTVLILLLLPTGQAAPKDGVTRPDSEVQHQLLPNPFQPGQEQLGLLQSYLKGLGRTEVQLEHLSREQVLLYLFALHDYDQSGQLDGLELLSMLTAALAPGAANSPTTNPGNLDARLDGGEKAMQPQW
+PTM	Methylation:174,300

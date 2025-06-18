@@ -1,0 +1,25 @@
+UniprotID	O60583-2
+Accession	O60583;A8KA48;D3DP73;D3DP74;O60582;Q29R66;Q53SR4;Q5I1Y0
+EntryName	CCNT2_HUMAN
+ProteinName	Cyclin-T2 (CycT2)
+GeneName	CCNT2
+Length	663
+Function	Regulatory subunit of the cyclin-dependent kinase pair (CDK9/cyclin T) complex, also called positive transcription elongation factor B (P-TEFB), which is proposed to facilitate the transition from abortive to production elongation by phosphorylating the CTD (carboxy-terminal domain) of the large subunit of RNA polymerase II (RNAP II) (PubMed:15563843, PubMed:9499409). The activity of this complex is regulated by binding with 7SK snRNA (PubMed:11713533). Plays a role during muscle differentiation; P-TEFB complex interacts with MYOD1; this tripartite complex promotes the transcriptional activity of MYOD1 through its CDK9-mediated phosphorylation and binds the chromatin of promoters and enhancers of muscle-specific genes; this event correlates with hyperphosphorylation of the CTD domain of RNA pol II (By similarity). In addition, enhances MYOD1-dependent transcription through interaction with PKN1 (PubMed:16331689). Involved in early embryo development (By similarity).
+Subcellular Location	Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGRGASSRWFFTREQLENTPSRRCGVEADKELSCRQQAANLIQEMGQRLNVSQLTINTAIVYMHRFYMHHSFTKFNKNIISSTALFLAAKVEEQARKLEHVIKVAHACLHPLEPLLDTKCDAYLQQTQELVILETIMLQTLGFEITIEHPHTDVVKCTQLVRASKDLAQTSYFMATNSLHLTTFCLQYKPTVIACVCIHLACKWSNWEIPVSTDGKHWWEYVDPTVTLELLDELTHEFLQILEKTPNRLKKIRNWRANQAARKPKVDGQVSETPLLGSSLVQNSILVDSVTGVPTNPSFQKPSTSAFPAPVPLNSGNISVQDSHTSDNLSMLATGMPSTSYGLSSHQEWPQHQDSARTEQLYSQKQETSLSGSQYNINFQQGPSISLHSGLHHRPDKISDHSSVKQEYTHKAGSSKHHGPISTTPGIIPQKMSLDKYREKRKLETLDLDVRDHYIAAQVEQQHKQGQSQAASSSSVTSPIKMKIPIANTEKYMADKKEKSGSLKLRIPIPPTDKSASKEELKMKIKVSSSERHSSSDEGSGKSKHSSPHISRDHKEKHKEHPSSRHHTSSHKHSHSHSGSSSGGSKHSADGIPPTVLRSPVGLSSDGISSSSSSSRKRLHVNDASHNHHSKMSKSSKSSGGLRTSQHPRETGQEASGDQRS
+PTM	Acetylation:493;Methylation:158,246,524,686;Phosphorylation:23,73,424,425,426,475,476,477,479,480,504,517,519,530,531,532,536,537,538,548,549,553,582,597,601,606,607,611,612,613,617,646;SUMOylation:92,99,367,407,433,444,483,485,493,506,520,528,639,690,713;Ubiquitylation:399

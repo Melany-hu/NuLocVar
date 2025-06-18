@@ -1,0 +1,25 @@
+UniprotID	Q5JT02
+Accession	Q5JT02
+EntryName	Q5JT02_HUMAN
+ProteinName	Dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109)
+GeneName	POMT1 hCG_29235
+Length	348
+Function	Transfers mannose from Dol-P-mannose to Ser or Thr residues on proteins.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQLVHGMTTRSLNTHDVAAPLSPHSQEVSCYIDYNISMPAQNLWRLEIVNRGSDTDVWKTILSEVRFVHVNTSAVLKLSGAHLPDWGYRQLEIVGEKLSRGYHGSTVWNVEEHRYGASQEQRERERELHSPAQVDVSRNLSFMARFSELQWRMLALRSDDSEHKYSSSPLEWVTLDTNIAYWLHPRTSAQIHLLGNIVIWVSGSLALAIYALLSLWYLLRRRRNVHDLPQDAWLRWVLAGALCAGGWAVNYLPFFLMEKTLFLYHYLPALTFQILLLPVVLQHISDHLCRSQLQRSIFSALVVAWYSSACHVSNTLRPLTYGDKSLSPHELKALRWKDSWDILIRKH
+PTM	

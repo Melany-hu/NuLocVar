@@ -1,0 +1,25 @@
+UniprotID	Q99418-2
+Accession	Q99418;A8K8P0;Q8IXY9;Q92958
+EntryName	CYH2_HUMAN
+ProteinName	Cytohesin-2 (ARF exchange factor) (ARF nucleotide-binding site opener) (Protein ARNO) (PH, SEC7 and coiled-coil domain-containing protein 2)
+GeneName	CYTH2 ARNO PSCD2 PSCD2L
+Length	399
+Function	Acts as a guanine-nucleotide exchange factor (GEF). Promotes guanine-nucleotide exchange on ARF1, ARF3 and ARF6. Activates ARF factors through replacement of GDP with GTP (By similarity). The cell membrane form, in association with ARL4 proteins, recruits ARF6 to the plasma membrane (PubMed:17398095). Involved in neurite growth (By similarity).
+Subcellular Location	Cell membrane; Cytoplasm; Cell projection; Cell projection; Growth cone; Cell junction; Tight junction; Cell junction; Adherens junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDGVYEPPDLTPEERMELENIRRRKQELLVEIQRLREELSEAMSEVEGLEANEGSKTLQRNRKMAMGRKKFNMDPKKGIQFLVENELLQNTPEEIARFLYKGEGLNKTAIGDYLGEREELNLAVLHAFVDLHEFTDLNLVQALRQFLWSFRLPGEAQKIDRMMEAFAQRYCLCNPGVFQSTDTCYVLSFAVIMLNTSLHNPNVRDKPGLERFVAMNRGINEGGDLPEELLRNLYDSIRNEPFKIPEDDGNDLTHTFFNPDREGWLLKLGGRVKTWKRRWFILTDNCLYYFEYTTDKEPRGIIPLENLSIREVDDPRKPNCFELYIPNNKGQLIKACKTEADGRVVEGNHMVYRISAPTQEEKDEWIKSIQAAVSVDPFYEMLAARKKRISVKKKQEQP
+PTM	Acetylation:268;Methylation:268,336;Phosphorylation:45,58,92,101,381;Ubiquitylation:268

@@ -1,0 +1,25 @@
+UniprotID	O95870-2
+Accession	O95870;A2BEY3;B7Z4R6;Q5SRR1;Q5SRR2;Q8WYH0;Q9NW33
+EntryName	ABHGA_HUMAN
+ProteinName	Phosphatidylserine lipase ABHD16A (EC 3.1.-.-) (Alpha/beta hydrolase domain-containing protein 16A) (Abhydrolase domain-containing protein 16A) (HLA-B-associated transcript 5) (hBAT5) (Monoacylglycerol lipase ABHD16A) (EC 3.1.1.23) (Protein G5)
+GeneName	ABHD16A BAT5 G5 NG26 PP199
+Length	525
+Function	Phosphatidylserine (PS) lipase that mediates the hydrolysis of phosphatidylserine to generate lysophosphatidylserine (LPS) (By similarity). LPS constitutes a class of signaling lipids that regulates immunological and neurological processes (By similarity). Has no activity towards diacylglycerol, triacylglycerol or lysophosphatidylserine lipase (PubMed:25290914). Also has monoacylglycerol lipase activity, with preference for 1-(9Z,12Z-octadecadienoyl)-glycerol (1-LG) and 2-glyceryl-15-deoxy-Delta(12,14)-prostaglandin J2 (15d-PGJ(2)-G) (PubMed:25290914).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPPPALFLSSLYPRLEFQNDFYRSCIRRSSPQPPPNLAWRPESLYSGELAGGGYLSLSKVVPFSHYAGTLLLLLAGVACLRGIGRWTNPQYRQFITILEATHRNQSSENKRQLANYNFDFRSWPVDFHWEEPSSRKESRGGPSRRGVALLRPEPLHRGTADTLLNRVKKLPCQITSYLVAHTLGRRMLYPGSVYLLQKALMPVLLQGQARLVEECNGRRAKLLACDGNEIDTMFVDRRGTAEPQGQKLVICCEGNAGFYEVGCVSTPLEAGYSVLGWNHPGFAGSTGVPFPQNEANAMDVVVQFAIHRLGFQPQDIIIYAWSIGGFTATWAAMSYPDVSAMILDASFDDLVPLALKVMPDSWRGLVTRTVRQHLNLNNAEQLCRYQGPVLLIRRTKDEIITTTVPEDIMSNRGNDLLLKLLQHRYPRVMAEEGLRVVRQWLEASSQLEEASIYSRWEVEEDWCLSVLRSYQAEHGPDFPWSVGEDMSADGRRQLALFLARKHLHNFEATHCTPLPAQNFQMPWHL
+PTM	Acetylation:452;Methylation:55,231,280,389,452;Phosphorylation:6,22,28,32,34,37,41,42,43,46,47,48,89,124,139,140,171,225,227,394,400,402,498;Ubiquitylation:429,452

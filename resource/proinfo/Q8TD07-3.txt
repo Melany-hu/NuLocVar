@@ -1,0 +1,25 @@
+UniprotID	Q8TD07-3
+Accession	Q8TD07;A6YF59;Q5VYB7;Q5VYB8;Q8TEZ2;Q96L41
+EntryName	RAE1E_HUMAN
+ProteinName	Retinoic acid early transcript 1E (Lymphocyte effector toxicity activation ligand) (NKG2D ligand 4) (N2DL-4) (NKG2DL4) (RAE-1-like transcript 4) (UL16-binding protein 4)
+GeneName	RAET1E LETAL N2DL4 ULBP4 UNQ1867/PRO4303
+Length	212
+Function	Binds and activates the KLRK1/NKG2D receptor, mediating natural killer cell cytotoxicity.
+Subcellular Location	Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRISLTSSPVRLLLFLLLLLIALEIMVGGHSLCFNFTIKSLSRPGQPWCEAQVFLNKNLFLQYNSDNNMVKPLGLLGKKVYATSTWGELTQTLGEVGRDLRMLLCDIKPQIKTSDPSTLQVEMFCQREAERCTGASWQFATNGEKSLLFDAMNMTWTVINHEASKIKETWKKDRGLEKYFRKLSKGDCDHWLREFLGHWEAMPEPTGRRST
+PTM	Methylation:58,79;Phosphorylation:9,222

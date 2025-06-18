@@ -1,0 +1,25 @@
+UniprotID	H3BQG0
+Accession	H3BQG0
+EntryName	H3BQG0_HUMAN
+ProteinName	Spermatogenesis associated 33
+GeneName	SPATA33
+Length	68
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TFCESLPAPRPRRCGDPGLRRRGRWAHPWAFPKAKRNPGKVKEAQALGSPRLRPWARAQGGAGLGGAV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q15256-4
+Accession	Q15256;B2R5Z7;B7Z3J1;F5GXR7;O00342;Q92682;Q9UE65
+EntryName	PTPRR_HUMAN
+ProteinName	Receptor-type tyrosine-protein phosphatase R (R-PTP-R) (EC 3.1.3.48) (Ch-1PTPase) (NC-PTPCOM1) (Protein-tyrosine phosphatase PCPTP1)
+GeneName	PTPRR ECPTP PTPRQ
+Length	451
+Function	Sequesters mitogen-activated protein kinases (MAPKs) such as MAPK1, MAPK3 and MAPK14 in the cytoplasm in an inactive form. The MAPKs bind to a dephosphorylated kinase interacting motif, phosphorylation of which by the protein kinase A complex releases the MAPKs for activation and translocation into the nucleus (By similarity).
+Subcellular Location	Secreted; Cell membrane; Cytoplasm; Perinuclear region; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNQKNVLQGQHEADKIWSKEGFYAVVIFLSIFVIIVTCLMILYRLKERFQLSLRQDKEKNQEIHLSPITLQPALSEAKTVHSMVQPEQAPKVLNVVVDPQGRGAPEIKATTATSVCPSPFKMKPIGLQERRGSNVSLTLDMSSLGNIEPFVSIPTPREKVAMEYLQSASRILTRSQLRDVVASSHLLQSEFMEIPMNFVDPKEIDIPRHGTKNRYKTILPNPLSRVCLRPKNVTDSLSTYINANYIRGYSGKEKAFIATQGPMINTVDDFWQMVWQEDSPVIVMITKLKEKNEKCVLYWPEKRGIYGKVEVLVISVNECDNYTIRNLVLKQGSHTQHVKHYWYTSWPDHKTPDSAQPLLQLMLDVEEDRLASQGRGPVVVHCSAGIGRTGCFIATSIGCQQLKEEGVVDALSIVCQLRMDRGGMVQTSEQYEFVHHALCLYESRLSAETVQ
+PTM	Acetylation:60;Glycosylation:316;Methylation:35,52,159,225,284,536,609;Phosphorylation:258,272,324,361,423,430

@@ -1,0 +1,25 @@
+UniprotID	I3L3G1
+Accession	I3L3G1
+EntryName	I3L3G1_HUMAN
+ProteinName	Cell division cycle 27
+GeneName	CDC27
+Length	75
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYRDAVFLAERLYAEGLQKGNKSYLVECLISRKAMMILLLSLVIQLALLFHCWDMYIARQIGLPKDQNVTKRALV
+PTM	

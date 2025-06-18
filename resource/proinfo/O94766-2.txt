@@ -1,0 +1,25 @@
+UniprotID	O94766-2
+Accession	O94766;B7ZAB3;Q96I06;Q9UEP0
+EntryName	B3GA3_HUMAN
+ProteinName	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3 (EC 2.4.1.135) (Beta-1,3-glucuronyltransferase 3) (Glucuronosyltransferase I) (GlcAT-I) (UDP-GlcUA:Gal beta-1,3-Gal-R glucuronyltransferase) (GlcUAT-I)
+GeneName	B3GAT3
+Length	315
+Function	Glycosaminoglycans biosynthesis (PubMed:25893793). Involved in forming the linkage tetrasaccharide present in heparan sulfate and chondroitin sulfate. Transfers a glucuronic acid moiety from the uridine diphosphate-glucuronic acid (UDP-GlcUA) to the common linkage region trisaccharide Gal-beta-1,3-Gal-beta-1,4-Xyl covalently bound to a Ser residue at the glycosaminylglycan attachment site of proteoglycans. Can also play a role in the biosynthesis of l2/HNK-1 carbohydrate epitope on glycoproteins. Shows strict specificity for Gal-beta-1,3-Gal-beta-1,4-Xyl, exhibiting negligible incorporation into other galactoside substrates including Galbeta1-3Gal beta1-O-benzyl, Galbeta1-4GlcNAc and Galbeta1-4Glc. Stimulates 2-phosphoxylose phosphatase activity of PXYLP1 in presence of uridine diphosphate-glucuronic acid (UDP-GlcUA) during completion of linkage region formation (PubMed:24425863).
+Subcellular Location	Golgi apparatus membrane; Golgi apparatus; cis-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLKLKNVFLAYFLVSIAGLLYALVQLGQPCDCLPPLRAAAEQLRQKDLRISQLQAELRRPPPAPAQPPEPEALPTIYVVTPTYARLVQKAELVRLSQTLSLVPRLHWLLVEDAEGPTPLVSGLLAASGLLFTHLVVLTPKAQRLREGEPGWVHPRGVEQRNKALDWLRGRGGAVGGEKDPPPPGTQGVVYFADDDNTYSRELFEEMRWTRGVSVWPVGLVGGLRFEGPQVQDGRVVGFHTAWEPSRPFPVDMAGFAVALPLLLDKPNAQFDSTAPRGHLESSLLSHLVDPKDLEPRAANCTRTESRCVTQAGVQ
+PTM	Methylation:141,266,292;Phosphorylation:309,311;SUMOylation:317

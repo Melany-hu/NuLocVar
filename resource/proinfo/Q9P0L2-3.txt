@@ -1,0 +1,25 @@
+UniprotID	Q9P0L2-3
+Accession	Q9P0L2;D3DTB0;D3DTB1;Q2HIY1;Q5VTF9;Q5VTG0;Q96SW9;Q9P251
+EntryName	MARK1_HUMAN
+ProteinName	Serine/threonine-protein kinase MARK1 (EC 2.7.11.1) (EC 2.7.11.26) (MAP/microtubule affinity-regulating kinase 1) (PAR1 homolog c) (Par-1c) (Par1c)
+GeneName	MARK1 KIAA1477 MARK
+Length	758
+Function	Serine/threonine-protein kinase (PubMed:23666762). Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU (PubMed:23666762). Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DCX. Also acts as a positive regulator of the Wnt signaling pathway, probably by mediating phosphorylation of dishevelled proteins (DVL1, DVL2 and/or DVL3).
+Subcellular Location	Cell membrane; Cytoplasm; Cytoskeleton; Cytoplasm; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSARTPLPTVNERDTENHTSVDGYTEPHIQPTKSSSRQNIPRCRNSITSATDEQPHIGNYRLQKTIGKGNFAKVKLARHVLTGREVAVKIIDKTQLNPTSLQKLFREVRIMKILNHPNIGEVFDYLVAHGRMKEKEARAKFRQIVSAVQYCHQKYIVHRDLKAENLLLDGDMNIKIADFGFSNEFTVGNKLDTFCGSPPYAAPELFQGKKYDGPEVDVWSLGVILYTLVSGSLPFDGQNLKELRERVLRGKYRIPFYMSTDCENLLKKLLVLNPIKRGSLEQIMKDRWMNVGHEEEELKPYTEPDPDFNDTKRIDIMVTMGFARDEINDALINQKYDEVMATYILLGRKPPEFEGGESLSSGNLCQRSRPSSDLNNSTLQSPAHLKVQRSISANQKQRRFSDHAGPSIPPAVSYTKRPQANSVESEQKEEWDKDVARKLGSTTVGSKSEMTASPLVGPERKKSSTIPSNNVYSGGSMARRNTYVCERTTDRYVALQNGKDSSLTEMSVSSISSAGSSVASAVPSARPRHQKSMSTSGHPIKVTLPTIKDGSEAYRPGTTQRVPAASPSAHSISTATPDRTRFPRGSSSRSTFHGEQLRERRSVAYNGPPASPSHETGAFAHARRGTSTGIISKITSKFVRRSTSGEPKERDKEEGKDSKPRSLRFTWSMKTTSSMDPNDMMREIRKVLDANNCDYEQKERFLLFCVHGDARQDSLVQWEMEVCKLPRLSLNGVRFKRISGTSIAFKNIASKIANELKL
+PTM	Methylation:93,121,231,268,289,307,321,563,646,655;Phosphorylation:5,46,49,51,131,140,215,219,222,279,301,341,382,390,393,394,399,400,403,414,423,444,463,464,468,475,486,487,504,514,523,524,526,529,531,532,534,538,554,556,558,588,590,593,595,596,598,608,610,612,613,624,627,633,635,638,648,649,650,699,766;SUMOylation:184,263;Ubiquitylation:68,93,103,184,231,723,783

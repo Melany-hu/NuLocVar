@@ -1,0 +1,25 @@
+UniprotID	H0YFX3
+Accession	H0YFX3
+EntryName	H0YFX3_HUMAN
+ProteinName	Ubiquitin specific peptidase 28
+GeneName	USP28
+Length	244
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	CGAAAGRRGRRGRRPRLEVIDLTHDNKDDLQAAIALSLLESPKIQADGRDLNRMHEATSAETKRSKRKRCEVWGENPNPNDWRRVDGWPVGLKNVGNTCWFSAVIQEKRNIMFMQELQYLFALMMGSNRKFVDPSAALDLLKGAFRSSEEQQQDVSEFTHKLLDWLEDAFQLAVNVNSPRNKSENPMVQLFYGTFLTEGVREGKPFCNNETFGQYPLQVNGYRNLDECLEGAMVEGDVELLPSD
+PTM	

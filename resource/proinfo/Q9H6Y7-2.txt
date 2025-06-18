@@ -1,0 +1,25 @@
+UniprotID	Q9H6Y7-2
+Accession	Q9H6Y7;D3DTK8;I3L0L6;Q6XYE0;Q8NDC1;Q9Y3V1
+EntryName	RN167_HUMAN
+ProteinName	E3 ubiquitin-protein ligase RNF167 (EC 2.3.2.27) (RING finger protein 167)
+GeneName	RNF167 RING105 LP2254
+Length	315
+Function	E3 ubiquitin-protein ligase that acts as a regulator of the TORC1 signaling pathway (PubMed:33594058, PubMed:35114100). Positively regulates the TORC1 signaling pathway independently of arginine levels: acts by catalyzing 'Lys-29'-polyubiquitination and degradation of CASTOR1, releasing the GATOR2 complex from CASTOR1 (PubMed:33594058). Also negatively regulates the TORC1 signaling pathway in response to leucine deprivation: acts by mediating 'Lys-63'-linked polyubiquitination of SESN2, promoting SESN2-interaction with the GATOR2 complex (PubMed:35114100). Also involved in protein trafficking and localization (PubMed:23129617, PubMed:23353890, PubMed:24387786, PubMed:27808481, PubMed:32409562). Acts as a regulator of synaptic transmission by mediating ubiquitination and degradation of AMPAR receptor GluA2/GRIA2 (PubMed:23129617, PubMed:33650289). Does not catalyze ubiquitination of GluA1/GRIA1 (PubMed:23129617). Also acts as a regulator of the recycling endosome pathway by mediating ubiquitination of VAMP3 (PubMed:23353890). Regulates lysosome positioning by catalyzing ubiquitination and degradation of ARL8B (PubMed:27808481). Plays a role in growth regulation involved in G1/S transition by mediating, possibly by mediating ubiquitination of SLC22A18 (PubMed:16314844). Acts with a limited set of E2 enzymes, such as UBE2D1 and UBE2N (PubMed:33650289).
+Subcellular Location	Lysosome membrane; Endosome membrane; Endomembrane system; Cell membrane; Lysosome membrane; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDFADLPALFGATLSQEGLQGFLVEAHPDNACSPIAPPPPAPVNGSVFIALLRRFDCNFDLKVLNAQKAGYGAAVVHNVNSNELLNMVWNSEEIQQQIWIPSVFIGERSSEYLRALFVYEKGARVLLVPDNTFPLGYYLIPFTGIVGLLVLAMGAVMIARCIQHRKRLQRNRLTKEQLKQIPTHDYQKGDQYDVCAICLDEYEDGDKLRVLPCAHAYHSRCVDPWLTQTRKTCPICKQPVHRGPGDEDQEEETQGQEEGDEGEPRDHPASERTPLLGSSPTLPTSFGSLAPAPLVFPGPSTDPPLSPPSSPVILV
+PTM	Methylation:214;Phosphorylation:288,335,336,341;SUMOylation:210,223,272;Ubiquitylation:97,156,210,214,223,242,266,272

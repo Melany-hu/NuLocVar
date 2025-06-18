@@ -1,0 +1,25 @@
+UniprotID	Q14242-2
+Accession	Q14242;A8K2Y0;B4DQC3;B7Z5C7;J3KMX6;Q12775;Q6GTW7;Q8N7J7
+EntryName	SELPL_HUMAN
+ProteinName	P-selectin glycoprotein ligand 1 (PSGL-1) (Selectin P ligand) (CD antigen CD162)
+GeneName	SELPLG
+Length	428
+Function	A SLe(x)-type proteoglycan, which through high affinity, calcium-dependent interactions with E-, P- and L-selectins, mediates rapid rolling of leukocytes over vascular surfaces during the initial steps in inflammation. Critical for the initial leukocyte capture.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVGASGLEGDKMAGAMPLQLLLLLILLGPGNSLQLWDTWADEAEKALGPLLARDRRQATEYEYLDYDFLPETEPPEMLRNSTDTTPLTGPGTPESTTVEPAARRSTGLDAGGAVTELTTELANMGNLSTDSAAMEIQTTQPAATEAQTTQPVPTEAQTTPLAATEAQTTRLTATEAQTTPLAATEAQTTPPAATEAQTTQPTGLEAQTTAPAAMEAQTTAPAAMEAQTTPPAAMEAQTTQTTAMEAQTTAPEATEAQTTQPTATEAQTTPLAAMEALSTEPSATEALSMEPTTKRGLFIPFSVSSVTHKGIPMAASNLSVNYPVGAPDHISVKQCLLAILILALVATIFFVCTVVLAVRLSRKGHMYPVRNYSPTEMVCISSLLPDGGEGPSATANGGLSKAKSPGLTPEPREDREGDDLTLHSFLP
+PTM	Phosphorylation:357,358,360,366,367,389,393,406,409

@@ -1,0 +1,25 @@
+UniprotID	B7ZLT1
+Accession	B7ZLT1
+EntryName	B7ZLT1_HUMAN
+ProteinName	C1orf223 protein (Testis expressed 38)
+GeneName	TEX38 C1orf223
+Length	152
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRAATFTYSPLLYWINKRRRYGMNAAINTGPAPAVTKTETEVQNPDVLWDLDIPEGRSHADQDSNPKAEAPAPLQPALQLAPQQPQARSPFPLPIFQEVPFAPPLCNLPPLLNHSVSYPLATCPERNVLFHSLLNLAQEDHSFNAKPFPSEL
+PTM	

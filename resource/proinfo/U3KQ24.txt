@@ -1,0 +1,25 @@
+UniprotID	U3KQ24
+Accession	U3KQ24
+EntryName	U3KQ24_HUMAN
+ProteinName	Pyroglutamyl-peptidase I
+GeneName	PGPEP1
+Length	111
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQPRKAVVVTGFGPFGEHTVNASWIAVQELEKLGLGDSVDLHVYEIPVEYQTVQRLIPALWEKHSPQISLRLYLLHLFVPESRSISLRPRAPTGEAVQRGPAGQGTESHH
+PTM	

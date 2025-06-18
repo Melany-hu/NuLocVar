@@ -1,0 +1,25 @@
+UniprotID	Q5VX71-3
+Accession	Q5VX71;D3DTB9;Q6UX62;Q9BSR0;Q9NWG0
+EntryName	SUSD4_HUMAN
+ProteinName	Sushi domain-containing protein 4
+GeneName	SUSD4 UNQ196/PRO222
+Length	290
+Function	Acts as a complement inhibitor by disrupting the formation of the classical C3 convertase. Isoform 3 inhibits the classical complement pathway, while membrane-bound isoform 1 inhibits deposition of C3b via both the classical and alternative complement pathways.
+Subcellular Location	Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYHGMNPSNGDGFLEQQQQQQQPQSPQRLLAVILWFQLALCFGPAQLTGGFDDLQVCADPGIPENGFRTPSGGVFFEGSVARFHCQDGFKLKGATKRLCLKHFNGTLGWIPSDNSICVQEDCRIPQIEDAEIHNKTYRHGEKLIITCHEGFKIRYPDLHNMVSLCRDDGTWNNLPICQGCLRPLASSNGYVNISELQTSFPVGTVISYRCFPGFKLDGSAYLECLQNLIWSSSPPRCLALEGGRPEHLFPVLYFPHIRLAAAVLYFCPVLKSSPTPAPTCSSTSTTTSLF
+PTM	

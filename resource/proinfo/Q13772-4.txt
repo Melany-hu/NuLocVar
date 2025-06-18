@@ -1,0 +1,25 @@
+UniprotID	Q13772-4
+Accession	Q13772;A8K8W5;B4E260;E9PAV7;J3KQN8;Q14239
+EntryName	NCOA4_HUMAN
+ProteinName	Nuclear receptor coactivator 4 (NCoA-4) (Androgen receptor coactivator 70 kDa protein) (70 kDa AR-activator) (70 kDa androgen receptor coactivator) (Androgen receptor-associated protein of 70 kDa) (Ferritin cargo receptor NCOA4) (Ret-activating protein ELE1)
+GeneName	NCOA4 ARA70 ELE1 RFG
+Length	650
+Function	Cargo receptor for the autophagic turnover of the iron-binding ferritin complex, playing a central role in iron homeostasis (PubMed:25327288, PubMed:26436293). Acts as an adapter for delivery of ferritin to lysosomes and autophagic degradation of ferritin, a process named ferritinophagy (PubMed:25327288, PubMed:26436293). Targets the iron-binding ferritin complex to autolysosomes following starvation or iron depletion (PubMed:25327288). Ensures efficient erythropoiesis, possibly by regulating hemin-induced erythroid differentiation (PubMed:26436293). In some studies, has been shown to enhance the androgen receptor AR transcriptional activity as well as acting as ligand-independent coactivator of the peroxisome proliferator-activated receptor (PPAR) gamma (PubMed:10347167, PubMed:8643607). Another study shows only weak behavior as a coactivator for the androgen receptor and no alteration of the ligand responsiveness of the AR (PubMed:10517667). Binds to DNA replication origins, binding is not restricted to sites of active transcription and may likely be independent from the nuclear receptor transcriptional coactivator function (PubMed:24910095). May inhibit activation of DNA replication origins, possibly by obstructing DNA unwinding via interaction with the MCM2-7 complex (PubMed:24910095).
+Subcellular Location	Cytoplasmic vesicle; Autophagosome; Autolysosome; Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAQLTTFALAGAVRRMNTFQDQSGSSSNREPLLRCSDARRDLELAIGGVLRAEQQIKDNLREVKAQIHSCISRHLECLRSREVWLYEQVDLIYQLKEETLQQQAQQLYSLLGQFNCLTHQLECTQNKDLANQVSVCLERLGSLTLKPEDSTVLLFEADTITLRQTITTFGSLKTIQIPEHLMAHASSANIGPFLEKRGCISMPEQKSASGIVAVPFSEWLLGSKPASGYQAPYIPSTDPQDWLTQKQTLENSQTSSRACNFFNNVGGNLKGLENWLLKSEKSSYQKCNSHSTTSSFSIEMEKVGDQELPDQDEMDLSDWLVTPQESHKLRKPENGSRETSEKFKLLFQSYNVNDWLVKTDSCTNCQGNQPKGVEIENLGNLKCLNDHLEAKKPLSTPSMVTEDWLVQNHQDPCKVEEVCRANEPCTSFAECVCDENCEKEALYKWLLKKEGKDKNGMPVEPKPEPEKHKDSLNMWLCPRKEVIEQTKAPKAMTPSRIADSFQVIKNSPLSEWLIRPPYKEGSPKEVPGTEDRAGKQKFKSPMNTSWCSFNTADWVLPGKKMGNLSQLSSGEDKWLLRKKAQEVLLNSPLQEEHNFPPDHYGLPAVCDLFACMQLKVDKEKWLYRTPLQAYFKMNFQDVTVGNFQIPCGF
+PTM	Methylation:42,131,231,263,367,433,490,563;Phosphorylation:127,150,152,153,192,237,239,264,302,334,412,456,478,507,514,550,554;SUMOylation:181,191,231,263,447;Ubiquitylation:42,49,131,158,181,191,231,255,263,266,271,313,327,343,356,367,376,377,399,424,439,465,472,475,490,504,509,524,544,545,558

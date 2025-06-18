@@ -1,0 +1,25 @@
+UniprotID	F8WF69
+Accession	F8WF69
+EntryName	F8WF69_HUMAN
+ProteinName	Clathrin light chain
+GeneName	CLTA
+Length	260
+Function	Clathrin is the major protein of the polyhedral coat of coated pits and vesicles.
+Subcellular Location	Cytoplasmic vesicle membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELDPFGAPAGAPGGPALGNGVAGAGEEDPAAAFLAQQESEIAGIENDEAFAILDGGAPGPQPHGEPPGGPDAVDGVMNGEYYQESNGPTDSYAAISQVDRLQSEPESIRKWREEQMERLEALDANSRKQEAEWKEKAIKELEEWYARQDEQLQKTKANNRVSLLPRLECNGVISAHCNLCLPGSSNSPASASRGAGITDMCHRARLIFVFLVEMGFHHVGQAGLKILTSNDLPASARARITGRWKGVKDVAMYVPSLP
+PTM	

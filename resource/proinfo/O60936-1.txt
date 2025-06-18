@@ -1,0 +1,25 @@
+UniprotID	O60936-1
+Accession	O60936;B4DFL0;O60937
+EntryName	NOL3_HUMAN
+ProteinName	Nucleolar protein 3 (Apoptosis repressor with CARD) (Muscle-enriched cytoplasmic protein) (Myp) (Nucleolar protein of 30 kDa) (Nop30)
+GeneName	NOL3 ARC NOP
+Length	219
+Function	May be involved in RNA splicing.
+Subcellular Location	Nucleus; Nucleolus; Cytoplasm; Cytoplasm; Mitochondrion; Sarcoplasmic reticulum; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNAQERPSETIDRERKRLVETLQADSGLLLDALLARGVLTGPEYEALDALPDAERRVRRLLLLVQGKGEAACQELLRCAQRTAGAPDPAWDWQHATGTAAMTLHAQATGRRRHPARGPHAPGCPELQTLTRPGALRAPRRCNPGPRRSQSQSWKLRPLKRLNRSRSQSQSWNPRLKQNQSRNWSQNRTQSPSPTSRKGTSPKIPEGQSSDRRCPAHAG
+PTM	Phosphorylation:104,105,114,120,122,123,147,149

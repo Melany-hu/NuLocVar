@@ -1,0 +1,25 @@
+UniprotID	Q13404-7
+Accession	Q13404;E1P629;Q13403;Q13532;Q5TGE0;Q5TGE3;Q96H34;Q9GZT0;Q9GZW1;Q9H4J3;Q9H4J4;Q9UKL1;Q9UM48;Q9UM49;Q9UM50
+EntryName	UB2V1_HUMAN
+ProteinName	Ubiquitin-conjugating enzyme E2 variant 1 (UEV-1) (CROC-1) (TRAF6-regulated IKK activator 1 beta Uev1A)
+GeneName	UBE2V1 CROC1 UBE2V UEV1 P/OKcl.19
+Length	170
+Function	Has no ubiquitin ligase activity on its own. The UBE2V1-UBE2N heterodimer catalyzes the synthesis of non-canonical poly-ubiquitin chains that are linked through Lys-63. This type of poly-ubiquitination activates IKK and does not seem to involve protein degradation by the proteasome. Plays a role in the activation of NF-kappa-B mediated by IL1B, TNF, TRAF6 and TRAF2. Mediates transcriptional activation of target genes. Plays a role in the control of progress through the cell cycle and differentiation. Plays a role in the error-free DNA repair pathway and contributes to the survival of cells after DNA damage. Promotes TRIM5 capsid-specific restriction activity and the UBE2V1-UBE2N heterodimer acts in concert with TRIM5 to generate 'Lys-63'-linked polyubiquitin chains which activate the MAP3K7/TAK1 complex which in turn results in the induction and expression of NF-kappa-B and MAPK-responsive inflammatory genes. Together with RNF135 and UBE2N, catalyzes the viral RNA-dependent 'Lys-63'-linked polyubiquitination of RIGI to activate the downstream signaling pathway that leads to interferon beta production (PubMed:31006531). UBE2V1-UBE2N together with TRAF3IP2 E3 ubiquitin ligase mediate 'Lys-63'-linked polyubiquitination of TRAF6, a component of IL17A-mediated signaling pathway.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	25...29
+validnes_region	
+nesbase_region	
+Sequence	MPGEVQASYLKSQSKLSDEGRLEPRKFHCKGVKVPRNFRLLEELEEGQKGVGDGTVSWGLEDDEDMTLTRWTGMIIGPPRTIYENRIYSLKIECGPKYPEAPPFVRFVTKINMNGVNSSNGVVDPRAISVLAKWQNSYSIKVVLQELRRLMMSKENMKLPQPPEGQCYSN
+PTM	Acetylation:10,68,74,131;Methylation:26,110,125;Phosphorylation:4,5,7,106,145,146;Ubiquitylation:68,74,87,110,131,135

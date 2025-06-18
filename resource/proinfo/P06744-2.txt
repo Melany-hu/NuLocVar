@@ -1,0 +1,25 @@
+UniprotID	P06744-2
+Accession	P06744;B4DG39;Q9BRD3;Q9BSK5;Q9UHE6
+EntryName	G6PI_HUMAN
+ProteinName	Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Autocrine motility factor) (AMF) (Neuroleukin) (NLK) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI) (Sperm antigen 36) (SA-36)
+GeneName	GPI
+Length	569
+Function	In the cytoplasm, catalyzes the conversion of glucose-6-phosphate to fructose-6-phosphate, the second step in glycolysis, and the reverse reaction during gluconeogenesis (PubMed:28803808). Besides it's role as a glycolytic enzyme, also acts as a secreted cytokine: acts as an angiogenic factor (AMF) that stimulates endothelial cell motility (PubMed:11437381). Acts as a neurotrophic factor, neuroleukin, for spinal and sensory neurons (PubMed:11004567, PubMed:3352745). It is secreted by lectin-stimulated T-cells and induces immunoglobulin secretion (PubMed:11004567, PubMed:3352745).
+Subcellular Location	Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVALCSLQHLGSSDPRALPTLPTATSGQRPAKRRRKSPAMAALTRDPQFQKLQQWYREHRSELNLRRLFDANKDRFNHFSLTLNTNHGHILVDYSKNLVTEDVMRMLVDLAKSRGVEAARERMFNGEKINYTEGRAVLHVALRNRSNTPILVDGKDVMPEVNKVLDKMKSFCQGPLMVTEALKPYSSGGPRVWYVSNIDGTHIAKTLAQLNPESSLFIIASKTFTTQETITNAETAKEWFLQAAKDPSAVAKHFVALSTNTTKVKEFGIDPQNMFEFWDWVGGRYSLWSAIGLSIALHVGFDNFEQLLSGAHWMDQHFRTTPLEKNAPVLLALLGIWYINCFGCETHAMLPYDQYLHRFAAYFQQGDMESNGKYITKSGTRVDHQTGPIVWGEPGTNGQHAFYQLIHQGTKMIPCDFLIPVQTQHPIRKGLHHKILLANFLAQTEALMRGKSTEEARKELQAAGKSPEDLERLLPHKVFEGNRPTNSIVFTKLTPFMLGALVAMYEHKIFVQGIIWDINSFDQWGVELGKQLAKKIEPELDGSAQVTSHDASTNGLINFIKQQREARVQ
+PTM	Acetylation:12,34,73,89,116,124,128,130,142,226,234,241,252,366,447,454,466;Methylation:12,34,73,116,124,128,172,194,211,226,234,241,252,362,423,454,466,481,519,523,524;Phosphorylation:17,22,61,74,92,93,107,109,131,138,160,176,195,203,210,212,214,215,218,220,224,237,247,248,250,251,309,310,351,359,367,392,441,442,455,474,476,483,532,542;SUMOylation:12,252,366,466,524;Ubiquitylation:12,34,73,89,116,124,142,211,226,234,241,252,362,366,400,423,447,454,466

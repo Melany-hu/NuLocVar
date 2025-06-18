@@ -1,0 +1,25 @@
+UniprotID	Q8WV83-2
+Accession	Q8WV83;Q9H6P8;Q9H7D8
+EntryName	S35F5_HUMAN
+ProteinName	Solute carrier family 35 member F5 (Hepatitis C virus NS5A-transactivated protein 3) (HCV NS5A-transactivated protein 3)
+GeneName	SLC35F5 NS5ATP3 UNQ2545/PRO6097
+Length	244
+Function	Putative solute transporter.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSSGWRGVLSSSPPFRLRSAKFSGIALEDLRRALKTRLQMVCVFVMNRMNSQNSGFTQRRRMALGIVILLLVDVIWVASSELTSYVFTQYNKPFFSTFAKTSMFVLYLLGFIIWKPWRQQCTRGLRGKHAAFFADAEGYFAACTTDTTMNSSLSEPLYVPVKFHDLPSEKPESTNIDTEKTPKKSRVRFSNIMEIRQLPSSHALEAKLSRMSYPVKEQESILKTVGKLTATQVAKISFFFALW
+PTM	Methylation:177,230,321;Phosphorylation:165,188,197,207,208,227;SUMOylation:230;Ubiquitylation:28,177,214,223,230

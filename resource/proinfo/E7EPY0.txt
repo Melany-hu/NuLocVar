@@ -1,0 +1,25 @@
+UniprotID	E7EPY0
+Accession	E7EPY0
+EntryName	E7EPY0_HUMAN
+ProteinName	ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+GeneName	ST3GAL5
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTKAAGCAERRPLQPRTEAAAAPAGRDVHCLCLECGSFISSS
+PTM	

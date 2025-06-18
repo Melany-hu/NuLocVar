@@ -1,0 +1,25 @@
+UniprotID	Q14201-2
+Accession	Q14201;D3DSC4;Q53XV1;Q96ET7
+EntryName	BTG3_HUMAN
+ProteinName	Protein BTG3 (Abundant in neuroepithelium area protein) (BTG family member 3) (Protein Tob5)
+GeneName	BTG3 ANA TOB5
+Length	296
+Function	Overexpression impairs serum-induced cell cycle progression from the G0/G1 to S phase.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKNEIAAVVFFFTRLVRKHDKLKKEAVERFAEKLTLILQEKYKNHWYPEKPSKGQAYRCIRVNKFQRVDPDVLKACENSCILYSDLGLPKELTLWVDPCEVCCRRDGVSPCWPDCSQTPDLVIRPPWPPKALDYRREPLRPASSFLIMYGEKNNAFIVASFENKDENKDEISRKVTRALDKVTSDYHSGSSSSDEETSKEMEVKPSSVTAAASPVYQISELIFPPLPMWHPLPRKKPGMYRGNGHQNHYPPPVPFGYPNQGRKNKPYRPIPVTWVPPPGMHCDRNHWINPHMLAPH
+PTM	Methylation:41,74,90,120;Phosphorylation:146,147,148,149,169;SUMOylation:53,64,120,124,160;Ubiquitylation:50,53,74,108,124,192

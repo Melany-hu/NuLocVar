@@ -1,0 +1,25 @@
+UniprotID	Q96EN9-3
+Accession	Q96EN9;E9PAS0;Q8NAX4;Q9NWI0
+EntryName	REX1B_HUMAN
+ProteinName	Required for excision 1-B domain-containing protein
+GeneName	REX1BD C19orf60
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITETAAEPTVPAVPAAEEATEARGREEPAWPWKDAPIRTLVQRIHQLQAERAQGFRRLEEGHRQYLRSGPDYDFARYRSTVHGVTQAFAAASREVLAVEAELGGPRRQPLLAGHVRSLQELEQTRLGTVALLQLMETPELAGQEDAVRMQQLKMKVIKTMEAISEVLQDLRFDAESAE
+PTM	Methylation:176;Phosphorylation:5,10,21

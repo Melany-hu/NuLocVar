@@ -1,0 +1,25 @@
+UniprotID	F5H094
+Accession	F5H094
+EntryName	SO1BT_HUMAN
+ProteinName	SLCO1B3-SLCO1B7 readthrough transcript protein (Liver specific transporter-3 transmembrane 12) (LST-3TM12) (Organic anion transporting polypeptide 1B3-1B7) (OATP1B3-1B7) (Solute carrier organic anion transporter family member 1B3-1B7) (SLCO1B3-SLCO1B7)
+GeneName	SLCO1B3-SLCO1B7
+Length	687
+Function	Mediates the Na(+)-independent uptake of organic anions (PubMed:29248594). Transports the conjugated steroids 17-beta-glucuronosyl estradiol (17beta-estradiol 17-O-(beta-D-glucuronate) or E2G) and dehydroepiandrosterone 3-sulfate (DHEAS) at the smooth endoplasmic reticulum membrane (SER), granting access to metabolizing enzymes (PubMed:29248594, PubMed:31127008, PubMed:32818652). Contributes to the metabolism of bile acids such as taurocholate (cholyltaurine) and lithocholate, by functioning as a doorway between SER and cytosol, thereby decreasing their circulating levels and protecting the organism from their detergent properties (PubMed:31509437). Regulates access or exit of drugs to the SER lumen (PubMed:31127008).
+Subcellular Location	Smooth endoplasmic reticulum membrane; Cell membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQHQHLNKTAESASSEKKKTRRCNGFKMFLAALSFSYIAKALGGIIMKISITQIERRFDISSSLAGLIDGSFEIGNLLVIVFVSYFGSKLHRPKLIGIGCLLMGTGSILTSLPHFFMGYYRYSKETNIDPSENSTSNLPNCLINQMLSLNRTPSEIIERGCVKESGSHMWIYVFMGNMLRGIGETPIVPLGISYIDDFAKEGHSSLYLGTVNVMGMTGLVFAFMLGSLFAKMYVDIGYVDLSTIRITPKDSRWVGAWWLGFLVSGIVSIISSIPFFFLPLNPNKPQKERKVSLFLHVLKTNDKRNQIANLTNRRKYITKNVTGFFQSLKSILTNPLYVIFVIFTLLHMSSYIASLTYIIKMVEQQYGWSASKTNFLLGVLALPAVAIGMFSGGYIIKKFKLSLVGLAKLAFCSATVHLLSQVLYFFLICESKSVAGLTLTYDGNSPVRSHVDVPLSYCNSECNCDESQWEPVCGNNGITYLSPCLAGCKSSSGNKEPIVFYNCSCVEVIGLQNKNYSAHLGECPRDDACTRKSYVYFVIQVLDAFLCAVGLTSYSVLVIRIVQPELKALAIGFHSMIMRSLGGILVPIYFGALIDTTCMKWSTNSCGARGACRIYNSTYLGRAFFGLKVALIFPVLVLLTVFIFVVRKKSHGKDTKVLENERQVMDEANLEFLNDSEHFVPSAEEQ
+PTM	

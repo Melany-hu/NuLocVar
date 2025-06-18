@@ -1,0 +1,25 @@
+UniprotID	Q17R60-2
+Accession	Q17R60;A6NNZ6;O43686;O95094;Q68D53;Q9BWZ1
+EntryName	IMPG1_HUMAN
+ProteinName	Interphotoreceptor matrix proteoglycan 1 (Interphotoreceptor matrix proteoglycan of 150 kDa) (IPM-150) (Sialoprotein associated with cones and rods)
+GeneName	IMPG1 IPM150 SPACR
+Length	147
+Function	Chondroitin sulfate-, heparin- and hyaluronan-binding protein (By similarity). May serve to form a basic macromolecular scaffold comprising the insoluble interphotoreceptor matrix (PubMed:9813076).
+Subcellular Location	Cell projection; Cilium; Photoreceptor outer segment; Secreted; Extracellular space; Extracellular matrix; Interphotoreceptor matrix; Photoreceptor inner segment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYLETRRAIFVFWIFLQVQGTKVCQEAVWEAYRIFLDRIPDTGEYQDWVSICQQETFCLFDIGKNFSNSQEHLDLLQQRIKQRSFPDRKDEISAEKTLGEPGETIVISTEKNKGKTKPFNILQFGNNHHEHLLPIFCLLSSIIYTYY
+PTM	Methylation:65,265,356,361,638,651;Phosphorylation:241,312,317,320

@@ -1,0 +1,25 @@
+UniprotID	J3QKS5
+Accession	J3QKS5
+EntryName	J3QKS5_HUMAN
+ProteinName	Nuclear factor of activated T cells 5
+GeneName	NFAT5
+Length	228
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XESPKSLYSRESVYDLLPKELQLPPSRETSVASMSQTSGGEAGSPPPAVVAADASSAPSSSSMGGACSSFTTSSSPTIYSTSVTDSKAMQVESCSSAVGNNMPGIQGATSSPQPQATLFHNTAGGTMNQLQNSPGSSQQTSGMFLFGIQNNCSQLLTSGPATLPDQLMAISQPGQPQNEGQPPVTTLLSQQMPENSPLASSINTNQNIEKIDLLVSLQNQGNNLTGSF
+PTM	

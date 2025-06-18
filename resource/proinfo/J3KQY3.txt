@@ -1,0 +1,25 @@
+UniprotID	J3KQY3
+Accession	J3KQY3
+EntryName	J3KQY3_HUMAN
+ProteinName	PCNA-interacting partner (PARP-1 binding protein) (PARP1-binding protein)
+GeneName	PARPBP
+Length	269
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ADSMLLALQLSMAENNKQHSGEFTVSLSDVLLTWKYLLHEKLNLPVENMDVTDHYEDVRKIYDDFLKNSNMLDLIDVYQKCRALTSNCENYNTVSPSQLLDFLSGKQYAVGDETDLSIPTSPTSKYNRDNEKVQLLARKIIFSYLNLLVNSKNDLAVAYILNIPDRGLGREAFTDLKHAAREKQMSIFLVATSFIRTIELGGKGYAPPPSDPLRTHVKGLSNFINFIDKLDEILGEIPNPRSPTQVNNSIKPLRERICVSMQEKKIKRV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H3BP27
+Accession	H3BP27
+EntryName	H3BP27_HUMAN
+ProteinName	tRNA-specific adenosine deaminase 1 (EC 3.5.4.34) (tRNA-specific adenosine-37 deaminase)
+GeneName	ADAT1
+Length	120
+Function	Specifically deaminates adenosine-37 to inosine in tRNA-Ala.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FGVQELKILQSDLLFEQSRSAVQAKRADSPGRLVPCGAAISWSAVPEQPLDVTANGFPQGTTKKTIGSLQARSQISKVELFRSFQKLLSRIARDKWPHSLRRPRWADHDVRRSRPSWPTW
+PTM	

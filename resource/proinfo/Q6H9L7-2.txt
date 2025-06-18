@@ -1,0 +1,25 @@
+UniprotID	Q6H9L7-2
+Accession	Q6H9L7;A8K6D5;O95432;Q495U5;Q68CN3;Q86TQ7;Q86TW3;Q86TW4;Q8N501;Q8NBL0
+EntryName	ISM2_HUMAN
+ProteinName	Isthmin-2 (Thrombospondin and AMOP domain-containing isthmin-like protein 1) (Thrombospondin type-1 domain-containing protein 3)
+GeneName	ISM2 TAIL1 THSD3 PSEC0137
+Length	292
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRALRDRAGLLLCVLLLAALLEAALGLPVKKPRLRGPRPGSLTRLAEVSASPDPRPLKEEEEAPLLPRTHLQAEPHQHGCWTVTEPAAMTPGNATPPRTPEVTPLRLELQKLPGLANTTLSTPNPDTQASASPDPRPLREEEEARLLPRTHLQAELHQHGCWTVTEPAALTPGNATPPRTQEVTPLLLELQKLPELVHATLSTPNPDNQTMSLRRSGVPGLPAVGTAALASSRGLGPVAMAALPPRPVPVTCPPVLALRTRTPWASPVRSGSSWPAMLRTCMIKMWTAVRSG
+PTM	Methylation:111,192,387;Phosphorylation:343,344,518

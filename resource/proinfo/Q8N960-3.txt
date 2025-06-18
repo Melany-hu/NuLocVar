@@ -1,0 +1,25 @@
+UniprotID	Q8N960-3
+Accession	Q8N960;Q6AI52;Q6AW89;Q8IWB5;Q8N9Y0;Q8NDE8
+EntryName	CE120_HUMAN
+ProteinName	Centrosomal protein of 120 kDa (Cep120) (Coiled-coil domain-containing protein 100)
+GeneName	CEP120 CCDC100
+Length	380
+Function	Plays a role in the microtubule-dependent coupling of the nucleus and the centrosome. Involved in the processes that regulate centrosome-mediated interkinetic nuclear migration (INM) of neural progenitors and for proper positioning of neurons during brain development. Also implicated in the migration and selfrenewal of neural progenitors. Required for centriole duplication and maturation during mitosis and subsequent ciliogenesis (By similarity). Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubule wall during early S phase in a PLK4-dependent manner (PubMed:27185865).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSKSDQLLIVVSILEGRHFPKRPKHMLVVEAKFDGEQLATDPVDHTDQPEFATELAWEIDRKALHQHRLQRTPIKLQCFALDPVTSAKETIGYIVLDLRTAQETKQAPKWYQLLSNKYTKFKSEIQISIALETDTKPPVDSFKAKGAPPRDGKVPAILAGLDPRDIVAVLNEEGGYHQIGPAEYCTDSFIMSVTIAFATQLEQLIPCTMKLPERQPEFFFYYSLLGNDVTNEPFNDLINPNFEPERASVRIRSSVEILRVYLALQSKLQIHLCCGDQSLGSTEIPLTGLLKKGSTEINQHPVTVEGAFTLDPPNRAKQKLAPIPVELAPTVGVSVALQREGIDSQDAFWYSALDIIFPLFIFLFLVLDAIRKFANYEEK
+PTM	Methylation:268,292,352,688,721,799,827,859,871;Phosphorylation:124,129,345,347,368,376,380,382,384,388,392,400,402,406,441,567,836,838,840,935;Ubiquitylation:76,146,774,799,811,916,928

@@ -1,0 +1,25 @@
+UniprotID	P06731-2
+Accession	P06731;H9KVA7
+EntryName	CEAM5_HUMAN
+ProteinName	Cell adhesion molecule CEACAM5 (Carcinoembryonic antigen) (CEA) (Carcinoembryonic antigen-related cell adhesion molecule 5) (CEA cell adhesion molecule 5) (Meconium antigen 100) (CD antigen CD66e)
+GeneName	CEACAM5 CEA
+Length	701
+Function	Cell surface glycoprotein that plays a role in cell adhesion, intracellular signaling and tumor progression (PubMed:10864933, PubMed:10910050, PubMed:2803308). Mediates homophilic and heterophilic cell adhesion with other carcinoembryonic antigen-related cell adhesion molecules, such as CEACAM6 (PubMed:2803308). Plays a role as an oncogene by promoting tumor progression; induces resistance to anoikis of colorectal carcinoma cells (PubMed:10910050).
+Subcellular Location	Cell membrane; Apical cell membrane; Cell surface
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESPSAPPHRWCIPWQRLLLTASLLTFWNPPTTAKLTIESTPFNVAEGKEVLLLVHNLPQHLFGYSWYKGERVDGNRQIIGYVIGTQQATPGPAYSGREIIYPNASLLIQNIIQNDTGFYTLHVIKSDLVNEEATGQFRVYPELPKPSISSNNSKPVEDKDAVAFTCEPETQDATYLWWVNNQSLPVSPRLQLSNGNRTLTLFNVTRNDTASYKCETQNPVSARRSDSVILNVLYGPDAPTISPLNTSYRSGENLNLSCHAASNPPAQYSWFVNGTFQQSTQELFIPNITVNNSGSYTCQAHNSDTGLNRTTVTTITVYEPPKPFITSNNSNPVEDEDAVALTCEPEIQNTTYLWWVNNQSLPVSPRLQLSNDNRTLTLLSVTRNDVGPYECGIQNELSVDHSDPVILNVLYGPDDPTISPSYTYYRPGVNLSLSCHAASNPPAQYSWLIDGNIQQHTQELFISNITEKNSGLYTCQANNSASGHSRTTVKTITVSAELPKPSISSNNSKPVEDKDAVAFTCEPEAQNTTYLWWVNGQSLPVSPRLQLSNGNRTLTLFNVTRNDARAYVCGIQNSVSANRSDPVTLDVLYGPDTPIISPPDSSYLSGANLNLSCHSASNPSPQYSWRINGIPQQHTQVLFIAKITPNNNGTYACFVSNLATGRNNSIVKSITVSASGTSPGLSAGATVGIMIGVLVGVALI
+PTM	Glycosylation:152,153,181,182,195,197,204,208,232,246,360,480,508,509,551,553,560,580,648,649,650;Methylation:160,398,470,516

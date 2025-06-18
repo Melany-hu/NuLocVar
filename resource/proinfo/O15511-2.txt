@@ -1,0 +1,25 @@
+UniprotID	O15511-2
+Accession	O15511;A6NEC4;Q6PG42
+EntryName	ARPC5_HUMAN
+ProteinName	Actin-related protein 2/3 complex subunit 5 (Arp2/3 complex 16 kDa subunit) (p16-ARC)
+GeneName	ARPC5 ARC16
+Length	154
+Function	Component of the Arp2/3 complex, a multiprotein complex that mediates actin polymerization upon stimulation by nucleation-promoting factor (NPF) (PubMed:9230079). The Arp2/3 complex mediates the formation of branched actin networks in the cytoplasm, providing the force for cell motility (PubMed:9230079). In addition to its role in the cytoplasmic cytoskeleton, the Arp2/3 complex also promotes actin polymerization in the nucleus, thereby regulating gene transcription and repair of damaged DNA (PubMed:29925947). The Arp2/3 complex promotes homologous recombination (HR) repair in response to DNA damage by promoting nuclear actin polymerization, leading to drive motility of double-strand breaks (DSBs) (PubMed:29925947).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKNTVSSARFRKVDVDEYDENKFVDEEDGGDGQAGPDEGEVDSCLRHSITGNMTAALQAALKNPPINTKSQAVKDRAGSIVLKVLISFKANDIEKAVQSLDKNGVDLLMKYIYKGFESPSDNSSAMLLQWHEKALAAGGVGSIVRVLTARKTV
+PTM	Acetylation:13,67,87,93,112,131;Methylation:13,23,60,74,81,93,108;Phosphorylation:8,19,77,85,97,116,140,146;SUMOylation:3,13,23,60,67,93,108,112,131;Ubiquitylation:3,60,67,87,100,108,112,131

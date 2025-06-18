@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KR25
+Accession	A0A8I5KR25
+EntryName	A0A8I5KR25_HUMAN
+ProteinName	Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase (POMGnT1) (EC 2.4.1.-)
+GeneName	POMGNT1
+Length	627
+Function	Participates in O-mannosyl glycosylation by catalyzing the addition of N-acetylglucosamine to O-linked mannose on glycoproteins. Catalyzes the synthesis of the GlcNAc(beta1-2)Man(alpha1-)O-Ser/Thr moiety on alpha-dystroglycan and other O-mannosylated proteins, providing the necessary basis for the addition of further carbohydrate moieties. Is specific for alpha linked terminal mannose.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDWKPSPLIKPFGARKKRSWYLTWKYKLTNQRALRRFCQTGAVLFLLVTVIVNIKLILDTRRAISEANEDPEPEQDYDEALGRLEPPRRRGSGPRRVLDVEVYSSRSKVYVAVDGTTVLEDEAREQGRGIHVIVLNQATGHVMAKRVFDTYSPHEDEAMVLFLNMVAPGRVLICTVKDEGSFHLKDTAKALLRSLGSQAGPALGWRDTWAFVGRKGEAECHWADTELNRRRRRFCSKVEGYGSVCSCKDPTPIEFSPDPLPDNKVLNVPVAVIAGNRPNYLYRMLRSLLSAQGVSPQMITVFIDGYYEEPMDVVALFGLRGIQHTPISIKNARVSQHYKASLTATFNLFPEAKFAVVLEEDLDIAVDFFSFLSQSIHLLEEDDSLYCISAWNDQGYEHTAEDPALLYRVETMPGLGWVLRRSLYKEELEPKWPTPEKLWDWDMWMRMPEQRRGRECIIPDVSRSYHFGIVGLNMNGYFHEAYFKKHKFNTVPGVQLRNVDSLKKEAYEVEVHRLLSEAEVLDHSKNPCEDSFLPDTEGHTYVAFIRMEKDDDFTTWTQLAKCLHIWDLDVRGNHRGLWRLFRKKNHFLMVGVPASPYSVKKPPSVTPIFLEPPPKEEGAPGAPEQT
+PTM	

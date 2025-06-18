@@ -1,0 +1,25 @@
+UniprotID	H0Y3E9
+Accession	H0Y3E9
+EntryName	H0Y3E9_HUMAN
+ProteinName	Tumor protein p53 inducible protein 13
+GeneName	TP53I13
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EAQVPNGQGSPGGCVCSSQASPAPRAAAPPRAARGPTPRTEEAAWAAMALTFLLVLLTLATLCTRLHRNFRRGESIYWGPRPLPRGPRAGRSLVAMARHWPSTAGAFLLVGC
+PTM	

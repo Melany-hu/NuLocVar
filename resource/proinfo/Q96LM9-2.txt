@@ -1,0 +1,25 @@
+UniprotID	Q96LM9-2
+Accession	Q96LM9;A6PVJ1;Q2M293;Q5JWS4;Q9H449
+EntryName	CT173_HUMAN
+ProteinName	Uncharacterized protein C20orf173
+GeneName	C20orf173
+Length	202
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRWQIFVLWVFWVLILWLMTPYLDLTPESAPQEKRMYLVPQHCDCPWFSSGKCGCPSETLNCSSCHHTADEWNWLDACSRKTMGYLMRTRESMTSDTVLWWLGMNSGSELGKLWRKLFKGIPRLSVSHFDFYCGTCVLLGRPQIPQGSSLGNDIDQYPVVFRNASDQGSWMQLEMLLRKLSDLVWTSDALSDKILEDGLVP
+PTM	Methylation:127

@@ -1,0 +1,25 @@
+UniprotID	H0YFE9
+Accession	H0YFE9
+EntryName	H0YFE9_HUMAN
+ProteinName	C2 calcium dependent domain containing 5
+GeneName	C2CD5
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMSGELQRKIGLKVLEMRGNAVVGYLQCFDLEGESGLVVRAIGTACTLDKLSSPAAFLPACNSPSKEMKEIPFNEDPNPNTHSSGPSTPLKNQTYSFSPSKSYSRQSSSSDTDLSLTPKTGMGSGSAGKEGGPFKALLRQQTQSALEQRMNQKLEMHGGQKSDKK
+PTM	

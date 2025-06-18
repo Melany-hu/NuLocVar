@@ -1,0 +1,25 @@
+UniprotID	O43490-6
+Accession	O43490;Q6SV49;Q6SV50;Q6SV51;Q6SV52;Q6SV53;Q96EN6
+EntryName	PROM1_HUMAN
+ProteinName	Prominin-1 (Antigen AC133) (Prominin-like protein 1) (CD antigen CD133)
+GeneName	PROM1 PROML1 MSTP061
+Length	834
+Function	May play a role in cell differentiation, proliferation and apoptosis (PubMed:24556617). Binds cholesterol in cholesterol-containing plasma membrane microdomains and may play a role in the organization of the apical plasma membrane in epithelial cells. During early retinal development acts as a key regulator of disk morphogenesis. Involved in regulation of MAPK and Akt signaling pathways. In neuroblastoma cells suppresses cell differentiation such as neurite outgrowth in a RET-dependent manner (PubMed:20818439).
+Subcellular Location	Apical cell membrane; Cell projection; Microvillus membrane; Cell projection; Cilium; Photoreceptor outer segment; Endoplasmic reticulum; Endoplasmic reticulum-Golgi intermediate compartment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVLGSLLLLGLCGNSFSGGQPSSTDAPKAWNYELPATNYETQDSHKAGPIGILFELVHIFLYVVQPRDFPEDTLRKFLQKAYESKIDYDKPETVILGLKIVYYEAGIILCCVLGLLFIILMPLVGYFFCMCRCCNKCGGEMHQRQKENGPFLRKCFAISLLVICIIISIGIFYGFVANHQVRTRIKRSRKLADSNFKDLRTLLNETPEQIKYILAQYNTTKDKAFTDLNSINSVLGGGILDRLRPNIIPVLDEIKSMATAIKETKEALENMNSTLKSLHQQSTQLSSSLTSVKTSLRSSLNDPLCLVHPSSETCNSIRLSLSQLNSNPELRQLPPVDAELDNVNNVLRTDLDGLVQQGYQSLNDIPDRVQRQTTTVVAGIKRVLNSIGSDIDNVTQRLPIQDILSAFSVYVNNTESYIHRNLPTLEEYDSYWWLGGLVICSLLTLIVIFYYLGLLCGVCGYDRHATPTTRGCVSNTGGVFLMVGVGLSFLFCWILMIIVVLTFVFGANVEKLICEPYTSKELFRVLDTPYLLNEDWEYYLSGKLFNKSKMKLTFEQVYSDCKKNRGTYGTLHLQNSFNISEHLNINEHTGSISSELESLKVNLNIFLLGAAGRKNLQDFAACGIDRMNYDSYLAQTGKSPAGVNLLSFAYDLEAKANSLPPGNLRNSLKRDAQTIKTIHQQRVLPIEQSLSTLYQSVKILQRTGNGLLERVTRILASLDFAQNFITNNTSSVIIEETKKYGRTIIGYFEHYLQWIEFSISEKVASCKPVATALDTAVDVFLCSYIIDPLNLFWFGIGKATVFLLPALIFAVKLAKYYRRMDSEDVYDDPSQH
+PTM	Glycosylation:33,40,206,220,272,274,317,365,387,395,414,617,707,841,843,844;Methylation:78,213,257,513,657,678,800;Phosphorylation:828,852;Ubiquitylation:148

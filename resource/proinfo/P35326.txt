@@ -1,0 +1,25 @@
+UniprotID	P35326
+Accession	P35326;B2R4T3;D3DV35;Q5T529
+EntryName	SPR2A_HUMAN
+ProteinName	Small proline-rich protein 2A (SPR-2A) (2-1)
+GeneName	SPRR2A
+Length	72
+Function	Gut bactericidal protein that selectively kills Gram-positive bacteria by binding to negatively charged lipids on bacterial membranes, leading to bacterial membrane permeabilization and disruption (PubMed:34735226). Specifically binds lipids bearing negatively charged headgroups, such as phosphatidic acid, phosphatidylserine (PS), cardiolipin (CL), and phosphatidylinositol phosphates, but not to zwitterionic or neutral lipids (PubMed:34735226). Induced by type-2 cytokines in response to helminth infection and is required to protect against helminth-induced bacterial invasion of intestinal tissue (By similarity). May also be involved in the development of the cornified envelope of squamous epithelia; however, additional evidences are required to confirm this result in vivo (PubMed:8325635).
+Subcellular Location	Secreted; Secreted; Extracellular space; Cytoplasmic vesicle; Secretory vesicle
+Disorder	0.2752,0.0294,0.0506,0.0719,0.0967,0.1251,0.1349,0.0269,0.0356,0.0473,0.0605,0.0531,0.0123,0.0174,0.0171,0.0160,0.0059,0.0056,0.0141,0.0141,0.0134,0.0054,0.0134,0.0130,0.0133,0.0054,0.0054,0.0057,0.0146,0.0143,0.0057,0.0057,0.0059,0.0151,0.0059,0.0057,0.0057,0.0153,0.0165,0.0061,0.0064,0.0067,0.0188,0.0133,0.0127,0.0127,0.0483,0.0483,0.0483,0.0483,0.0494,0.2094,0.0506,0.0518,0.0518,0.2129,0.1501,0.1528,0.1449,0.1323,0.3704,0.3529,0.3182,0.3019,0.3566,0.3321,0.3087,0.3053,0.2715,0.2364,0.1942,0.1528
+ExposeBuried	1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+SurfaceAccessbility	0.715,0.627,0.367,0.572,0.499,0.552,0.461,0.086,0.570,0.502,0.358,0.122,0.571,0.362,0.332,0.419,0.279,0.077,0.387,0.362,0.376,0.592,0.070,0.435,0.682,0.406,0.121,0.389,0.313,0.459,0.596,0.076,0.454,0.681,0.419,0.120,0.387,0.318,0.448,0.582,0.072,0.409,0.552,0.386,0.084,0.302,0.260,0.579,0.453,0.053,0.445,0.625,0.550,0.213,0.328,0.422,0.193,0.384,0.402,0.498,0.330,0.432,0.090,0.430,0.509,0.580,0.236,0.325,0.364,0.616,0.646,0.865
+SecondStructure	C,C,C,C,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-1.3,-3.5,-3.5,-3.5,-3.5,2.5,-3.9,-3.5,-1.6,2.5,-3.5,-1.6,-1.6,-1.6,4.2,2.5,-1.6,-0.7,-1.6,-3.9,2.5,-1.6,-3.5,-1.6,2.5,-1.6,-1.6,-1.6,-3.9,2.5,-1.6,-3.5,-1.6,2.5,-1.6,-1.6,-1.6,-3.9,2.5,-1.6,-3.5,-1.6,2.5,-1.6,-1.6,-3.5,-3.5,2.5,-3.5,-3.5,-3.9,-1.3,-1.6,-1.6,4.2,-0.7,-1.6,-0.8,-1.6,-1.6,2.5,-3.5,-0.8,-3.9,-1.3,-1.6,-1.6,-3.9,-0.8,-3.9
+Polar	0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,1,1,1
+Charge	0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYQQQQCKQPCQPPPVCPTPKCPEPCPPPKCPEPCPPPKCPQPCPPQQCQQKYPPVTPSPPCQSKYPPKSK
+PTM	Phosphorylation:58,60

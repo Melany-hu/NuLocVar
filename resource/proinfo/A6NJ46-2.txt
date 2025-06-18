@@ -1,0 +1,25 @@
+UniprotID	A6NJ46-2
+Accession	A6NJ46;Q96LR0
+EntryName	NKX63_HUMAN
+ProteinName	Homeobox protein Nkx-6.3
+GeneName	NKX6-3
+Length	135
+Function	Putative transcription factor, which may be involved in patterning of central nervous system and pancreas.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQGQLAPGSRLCSGPWGLPELQPAAPSSSAAQLPWGESWGEEADTPACLSASGVWFQNRRTKWRKKSALEPSSSTPRAPGGAGAGAGGDRAPSENEDDEYNKPLDPDSDDEKIRLLLRKHRAAFSVLSLGAHSV
+PTM	Methylation:156,250;Phosphorylation:8,239

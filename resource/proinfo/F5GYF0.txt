@@ -1,0 +1,25 @@
+UniprotID	F5GYF0
+Accession	F5GYF0
+EntryName	F5GYF0_HUMAN
+ProteinName	Ankyrin repeat and SOCS box containing 8
+GeneName	ASB8
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSSMWYIMQSIQSKYSLSERLIRTIAAIRSFPHDNVEDLIRGGADVNCTHGTLKPLHCACMVSDADCVELLLEKGAEDSLGVAC
+PTM	

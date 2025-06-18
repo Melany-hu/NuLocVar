@@ -1,0 +1,25 @@
+UniprotID	Q92904-2
+Accession	Q92904;O15396;Q5HYB4;Q92909
+EntryName	DAZL_HUMAN
+ProteinName	Deleted in azoospermia-like (DAZ homolog) (DAZ-like autosomal) (Deleted in azoospermia-like 1) (SPGY-like-autosomal)
+GeneName	DAZL DAZH DAZL1 DAZLA SPGYLA
+Length	315
+Function	RNA-binding protein, which is essential for gametogenesis in both males and females. Plays a central role during spermatogenesis. Acts by binding to the 3'-UTR of mRNA, specifically recognizing GUU triplets, and thereby regulating the translation of key transcripts (By similarity).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAPSCGGDRKARLTPSLPHESTANPETPNSTISREASTQSSSAATSQGYILPEGKIMPNTVFVGGIDVRMDETEIRSFFARYGSVKEVKIITDRTGVSKGYGFVSFFNDVDVQKIVESQINFHGKKLKLGPAIRKQNLCAYHVQPRPLVFNHPPPPQFQNVWTNPNTETYMQPTTTMNPITQYVQAYPTYPNSPVQVITGYQLPVYNYQMPPQWPVGEQRSYVVPPAYSAVNYHCNEVDPGAEVVPNECSVHEATPPSGNGPQKKSVDRSIQTVVSCLFNPENRLRNSVVTQDDYFKDKRVHHFRRSRAMLKSV
+PTM	

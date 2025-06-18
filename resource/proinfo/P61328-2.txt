@@ -1,0 +1,25 @@
+UniprotID	P61328-2
+Accession	P61328;B2R6B7;B2R976;O35339;P70376;Q8TBG5;Q92912;Q93001
+EntryName	FGF12_HUMAN
+ProteinName	Fibroblast growth factor 12 (FGF-12) (Fibroblast growth factor homologous factor 1) (FHF-1) (Myocyte-activating factor)
+GeneName	FGF12 FGF12B FHF1
+Length	181
+Function	Involved in nervous system development and function. Involved in the positive regulation of voltage-gated sodium channel activity. Promotes neuronal excitability by elevating the voltage dependence of neuronal sodium channel SCN8A fast inactivation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	11..38
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESKEPQLKGIVTRLFSQQGYFLQMHPDGTIDGTKDENSDYTLFNLIPVGLRVVAIQGVKASLYVAMNGEGYLYSSDVFTPECKFKESVFENYYVIYSSTLYRQQESGRAWFLGLNKEGQIMKGNRVKKTKPSSHFVPKPIEVCMYREPSLHEIGEKQGRSRKSSGTPTMNGGKVVNQDST
+PTM	Methylation:219;Phosphorylation:8,32,212

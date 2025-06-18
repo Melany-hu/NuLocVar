@@ -1,0 +1,25 @@
+UniprotID	P08582-2
+Accession	P08582;Q9BQE2
+EntryName	TRFM_HUMAN
+ProteinName	Melanotransferrin (Melanoma-associated antigen p97) (CD antigen CD228)
+GeneName	MELTF MAP97 MFI2
+Length	302
+Function	Involved in iron cellular uptake. Seems to be internalized and then recycled back to the cell membrane. Binds a single atom of iron per subunit. Could also bind zinc.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGPSGALWLLLALRTVLGGMEVRWCATSDPEQHKCGNMSEAFREAGIQPSLLCVRGTSADHCVQLIAAQEADAITLDGGAIYEAGKEHGLKPVVGEVYDQEVGTSYYAVAVVRRSSHVTIDTLKGVKSCHTGINRTVGWNVPVGYLVESGRLSVMGCDVLKAVSDYFGGSCVPGAGETSYSESLCRLCRGDSSGEGVCDKSPLERYYDYSGAFRCLAEGAGDVAFVKHSTVLENTDESPSRRQTWTRSEEEEGECPAHEEARRTMRSSAGQAWKWAPVHRPQDESDKGEFGKRAKSRDMLG
+PTM	Glycosylation:38,135,515,581,583,586,605;Methylation:125,162,326,378,644,674;Phosphorylation:117,461;SUMOylation:92,125,392

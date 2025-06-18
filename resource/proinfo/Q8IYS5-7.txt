@@ -1,0 +1,25 @@
+UniprotID	Q8IYS5-7
+Accession	Q8IYS5;B7WNS2;Q5GRG5;Q8N763;Q8NHL4;Q8WXQ0;Q8WXQ1;Q8WXQ2
+EntryName	OSCAR_HUMAN
+ProteinName	Osteoclast-associated immunoglobulin-like receptor (Osteoclast-associated receptor) (hOSCAR) (Polymeric immunoglobulin receptor 3) (PIgR-3) (PIgR3) (Poly-Ig receptor 3)
+GeneName	OSCAR
+Length	286
+Function	Regulator of osteoclastogenesis which plays an important bone-specific function in osteoclast differentiation.
+Subcellular Location	Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVLILQLLTLWPLCHTDITPSVAIIVPPASYHPKPWLGAQPATVVTPGVNVTLRCRAPQPAWRFGLFKPGEIAPLLFRDVSSELAEFFLEEVTPAQGGIYRCCYRRPDWGPGVWSQPSDVLELLVTEELPRPSLVALPGPVVGPGANVSLRCAGRLRNMSFVLYREGVAAPLQYRHSAQPWADFTLLGARAPGTYSCYYHTPSAPYVLSQRSEVLVISWEGEGPEARPASSAPGMQAPGPPPSDPGAQAPSLSSFRPRGLVLQPLLPQTQDSWDPAPPPSDPGV
+PTM	Glycosylation:145,156;Phosphorylation:249,251

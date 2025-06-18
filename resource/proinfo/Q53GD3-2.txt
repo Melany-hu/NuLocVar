@@ -1,0 +1,25 @@
+UniprotID	Q53GD3-2
+Accession	Q53GD3;A2BED3;B0UXX8;B0UZY8;B4DU94;B4DWM2;E9PEK7;Q5JP84;Q5JQ93;Q658S8;Q6UX89;Q8TEW4;Q96C58;Q96K59;Q9Y332
+EntryName	CTL4_HUMAN
+ProteinName	Choline transporter-like protein 4 (Solute carrier family 44 member 4) (Thiamine pyrophosphate transporter 1) (hTPPT1)
+GeneName	SLC44A4 C6orf29 CTL4 NG22 TPPT1 UNQ441/PRO874
+Length	288
+Function	Choline transporter that plays a role in the choline-acetylcholine system and is required to the efferent innervation of hair cells in the olivocochlear bundle for the maintenance of physiological function of outer hair cells and the protection of hair cells from acoustic injury (By similarity) (PubMed:23651124, PubMed:28013291). Also described as a thiamine pyrophosphate transporter in colon, may mediate the absorption of microbiota-generated thiamine pyrophosphate and contribute to host thiamine (vitamin B1) homeostasis (PubMed:24379411, PubMed:26741288).
+Subcellular Location	Membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	283...288
+validnes_region	
+nesbase_region	
+Sequence	MCVFQGYSSKGLIQRSVFNLQIYGVLGLFWTLNWVLALGQCVLAGAFASFYWAFHKPQDIPTFPLISAFIRTLRYHTGSLAFGALILTLVQIARVILEYIDHKLRGVQNPVARCIMCCFKCCLWCLEKFIKFLNRNAYIMIAIYGKNFCVSAKNAFMLLMRNIVRVVVLDKVTDLLLFFGKLLVVGGVGVLSFFFFSGRIPGLGKDFKSPHLNYYWLPIMTSILGAYVIASGFFSVFGMCVDTLFLCFLEDLERNNGSLDRPYYMSKSLLKILGKKNEAPPDNKKRKK
+PTM	Glycosylation:69,80,130,405,416,677,678;Methylation:28,342,593,627,693;Phosphorylation:126,141,142,690

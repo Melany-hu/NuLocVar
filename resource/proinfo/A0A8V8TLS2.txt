@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TLS2
+Accession	A0A8V8TLS2
+EntryName	A0A8V8TLS2_HUMAN
+ProteinName	Coiled-coil domain containing 32
+GeneName	CCDC32
+Length	168
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKMFESADSTATRSGQDLWAEICSCLPNPEQEDGANNAFSDSFVDSCPEGEGQREVADFAVQPAVKPWAPLQDSEVYLASLEKKLRRIKGLNQEVTSKDMLRTLAQAKKECWDRFLQEKLASEFFVDGLDSDERTPGSSSFSEDGAWDSHQCAEQRWRRTFPAQQSSW
+PTM	

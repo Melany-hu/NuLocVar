@@ -1,0 +1,25 @@
+UniprotID	P19320-3
+Accession	P19320;A8K6R7;B4DKS4;E9PDD1;Q6NUP8
+EntryName	VCAM1_HUMAN
+ProteinName	Vascular cell adhesion protein 1 (V-CAM 1) (VCAM-1) (INCAM-100) (CD antigen CD106) [Cleaved into: Soluble Vascular Cell Adhesion Molecule-1]
+GeneName	VCAM1
+Length	677
+Function	Cell adhesion glycoprotein predominantly expressed on the surface of endothelial cells that plays an important role in immune surveillance and inflammation (PubMed:31310649). Acts as a major regulator of leukocyte adhesion to the endothelium through interaction with different types of integrins (PubMed:10209034). During inflammatory responses, binds ligands on the surface of activated endothelial cells to initiate the activation of calcium channels and the plasma membrane-associated small GTPase RAC1 leading to leukocyte transendothelial migration (PubMed:22970700). Also serves as a quality-control checkpoint for entry into bone marrow by providing a 'don't-eat-me' stamping in the context of major histocompatibility complex (MHC) class-I presentation (PubMed:35210567).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGKMVVILGASNILWIMFAASQAFKIETTPESRYLAQIGDSVSLTCSTTGSFPKDPEIHLSGPLEAGKPITVKCSVADVYPFDRLEIDLLKGDHLMKSQEFLEDADRKSLETKSLEVTFTPVIEDIGKVLVCRAKLHIDEMDSVPTVRQAVKELQVYISPKNTVISVNPSTKLQEGGSVTMTCSSEGLPAPEIFWSKKLDNGNLQHLSGNATLTLIAMRMEDSGIYVCEGVNLIGKNRKEVELIVQEKPFTVEISPGPRIAAQIGDSVMLTCSVMGCESPSFSWRTQIDSPLSGKVRSEGTNSTLTLSPVSFENEHSYLCTVTCGHKKLEKGIQVELYSFPRDPEIEMSGGLVNGSSVTVSCKVPSVYPLDRLEIELLKGETILENIEFLEDTDMKSLENKSLEMTFIPTIEDTGKALVCQAKLHIDDMEFEPKQRQSTQTLYVNVAPRDTTVLVSPSSILEEGSSVNMTCLSQGFPAPKILWSRQLPNGELQPLSENATLTLISTKMEDSGVYLCEGINQAGRSRKEVELIIQVTPKDIKLTAFPSESVKEGDTVIISCTCGNVPETWIILKKKAETGDTVLKSIDGAYTIRKAQLKDAGVYECESKNKVGSQLRSLTLDVQGRENNKDYFSPELLVLYFASSLIIPAIGMIIYFARKANMKGSYSLVEAQKSKV
+PTM	Glycosylation:264,266,273;Methylation:154,191,224,299,311,442,464,636,657;Phosphorylation:220,222,445,465,676

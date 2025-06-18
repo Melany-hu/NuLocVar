@@ -1,0 +1,25 @@
+UniprotID	H7BYQ2
+Accession	H7BYQ2
+EntryName	H7BYQ2_HUMAN
+ProteinName	Dynein 2 intermediate chain 1
+GeneName	DYNC2I1
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLPEHKEPRCRDPDQDARSRDRVAEVHTAKESPRGERDRDRQRERRRDAKDREKEKLKEKHREAEKSHSRGKDREKEKDRRARKEELRQTVAHHN
+PTM	

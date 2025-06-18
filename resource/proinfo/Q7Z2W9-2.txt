@@ -1,0 +1,25 @@
+UniprotID	Q7Z2W9-2
+Accession	Q7Z2W9;A6NKU0;C9JPR2
+EntryName	RM21_HUMAN
+ProteinName	Large ribosomal subunit protein bL21m (39S ribosomal protein L21, mitochondrial) (L21mt) (MRP-L21)
+GeneName	MRPL21
+Length	120
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIVTGQYGRLFAVVHFASRQWKVTSEDLILIGNELDLACGERIRLEKVLLVGADNFTLLGKPLLGKDLVRVEATVIEKTESWPRIIMRFRKRKNFKKKRIVTTPQTVLRINSIEIAPCLL
+PTM	Methylation:81,146,151;Phosphorylation:7,187,197;SUMOylation:146;Ubiquitylation:146,151

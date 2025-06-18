@@ -1,0 +1,25 @@
+UniprotID	Q5VXU1-3
+Accession	Q5VXU1;Q8IYR4;Q8TF67
+EntryName	NKAI2_HUMAN
+ProteinName	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 2 (Na(+)/K(+)-transporting ATPase subunit beta-1-interacting protein 2) (Protein FAM77B) (T-cell lymphoma breakpoint-associated target protein 1)
+GeneName	NKAIN2 FAM77B TCBA1
+Length	207
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGIIRFLLLYCPTNILTVCVLERQIFDFLGYQWAPILANFVHIIIVILGLFGTIQYRPRYITGYAVWLVLWVTWNVFVICFYLEAGDLSKETDLILTFNISMHRSWWMENGPGCTVTSVTPAPDWAPEDHRYITVSGCLLEYQYIEVAHSSLQIVLALAGFIYACYVVKCITEEEDSFDFIGGFDSYGYQGPQKTSHLQLQPMYMSK
+PTM	Methylation:91

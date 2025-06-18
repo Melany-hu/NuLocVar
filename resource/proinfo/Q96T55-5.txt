@@ -1,0 +1,25 @@
+UniprotID	Q96T55-5
+Accession	Q96T55;B5TJL9;Q2M2N9;Q5TCF3;Q6X6Z3;Q6X6Z4;Q6X6Z5;Q9H591
+EntryName	KCNKG_HUMAN
+ProteinName	Potassium channel subfamily K member 16 (2P domain potassium channel Talk-1) (TWIK-related alkaline pH-activated K(+) channel 1) (TALK-1)
+GeneName	KCNK16 TALK1
+Length	262
+Function	K(+) channel that conducts voltage-dependent outward rectifying currents upon membrane depolarization. Voltage sensing is coupled to K(+) electrochemical gradient in an 'ion flux gating' mode where outward but not inward ion flow opens the gate (PubMed:11263999, PubMed:12724142, PubMed:14985088, PubMed:26919430, PubMed:28928238, PubMed:34032641, PubMed:36063992). Homo- and heterodimerizes to form functional channels with distinct regulatory and gating properties (PubMed:36063992). In pancreatic islets, conducts K(+) countercurrents for Ca(2+) release from the endoplasmic reticulum (ER) and regulates the frequency and duration of cytosolic Ca(2+) oscillations coupled to secretion of pancreatic hormones (PubMed:26239056, PubMed:28928238, PubMed:29402588, PubMed:34032641). In pancreatic beta cells, drives ER Ca(2+) efflux, which in turn activates Ca(2+)-dependent plasma membrane K(+) slow currents and cytosolic Ca(2+) influx, overall contributing to synchronous cytosolic Ca(2+) oscillations. Limits glucose-induced cytosolic Ca(2+) oscillations coupled to second-phase INS secretion (PubMed:26239056, PubMed:28928238, PubMed:34032641). Contributes to beta cell adaptation to acute inflammation by maintaining normal cytosolic Ca(2+) levels and INS secretion (By similarity). May regulate beta cell mitochondrial Ca(2+) levels either indirectly via ER Ca(2+) efflux or directly by hyperpolarizing the mitochondrial membrane potential. Limits mitochondrial Ca(2+) oscillations and ATP production involved in glucose homeostasis upon metabolic stress (By similarity). In pancreatic delta cells, limits Ca(2+)-induced Ca(2+)-release involved in somatostatin secretion and modulates islet paracrine signaling involved in glucagon secretion (PubMed:29402588). Permeable to other monovalent cations such as Rb(+) and Cs(+) (By similarity) (PubMed:26919430).
+Subcellular Location	Endoplasmic reticulum membrane; Cell membrane; Endoplasmic reticulum membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSAGLCSCWGGRVLPLLLAYVCYLLLGATIFQLLERQAEAQSRDQFQLEKLRFLENYTCLDQWAMEQFVQVIMEAWVKGVNPKGNSTNPSNWDFGSSFFFAGTVVTTIGYGNLAPSTEAGQVFCVFYALLGIPLNVIFLNHLGTGLRAHLAAIERWEDRPRRSQVLQVLGLALFLTLGTLVILIFPPMVFSHVEGWSFSEGFYFAFITLSTIGFGDYVVGLRQGCGAKAAPGRRPRRGSTAARGVQVTPQDFPISKKGLGS
+PTM	Methylation:51

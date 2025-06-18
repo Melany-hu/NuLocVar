@@ -1,0 +1,25 @@
+UniprotID	F8WE87
+Accession	F8WE87
+EntryName	F8WE87_HUMAN
+ProteinName	Adhesion G protein-coupled receptor F3
+GeneName	ADGRF3
+Length	120
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTRKLSAHSAATPGYKAVTHKHHTGWARMAKTGLPEKLPPSTSQALSALCWLFSAARWLTPRTLVTCRAWAWLHSGSPSPSPSSRMETSPALRTPRCSPGMSPRLATWHRPHVLRARGA
+PTM	

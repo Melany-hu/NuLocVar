@@ -1,0 +1,25 @@
+UniprotID	M0QXN8
+Accession	M0QXN8
+EntryName	M0QXN8_HUMAN
+ProteinName	Zinc finger protein 114
+GeneName	ZNF114
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQGLALLPRLDCSGRIIAYCNLHLPGSGNPPSSASRVAETTGTRPHSRDSVTFADVAVNFTKEEWTLLDPAQRNLYRDVMLENSRNLAFIDWATPCKTKDATPQPDILPKRTF
+PTM	

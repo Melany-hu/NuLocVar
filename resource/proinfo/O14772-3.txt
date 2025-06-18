@@ -1,0 +1,25 @@
+UniprotID	O14772-3
+Accession	O14772;A0A0A0MRP2;A6NMH3;B4DRX2;B4E2Y7;E9PNQ2;Q8N5J7
+EntryName	FPGT_HUMAN
+ProteinName	Fucose-1-phosphate guanylyltransferase (EC 2.7.7.30) (GDP-L-fucose diphosphorylase) (GDP-L-fucose pyrophosphorylase)
+GeneName	FPGT GFPP
+Length	169
+Function	Catalyzes the formation of GDP-L-fucose from GTP and L-fucose-1-phosphate (PubMed:9804772). Functions as a salvage pathway to reutilize L-fucose arising from the turnover of glycoproteins and glycolipids (PubMed:9804772).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAARDPPEVSLREATQRKLRRFSELRGKLVARGEFWDIVAITAADEKQELAYNQQLSEKLKRKELPLGVQYHVFVDPAGAKIGNGGSTLCALQCLEKLYGDKWNSFTILLIHSVSFQIYQNALAKHPVSFKAYWIQDVLWHLAQLWSIPDWGLMFQLGKTALLVVLTS
+PTM	Acetylation:478,495;Methylation:95,248,338,457,491,501;Phosphorylation:301,468,470,571,572,576,583;SUMOylation:338,478

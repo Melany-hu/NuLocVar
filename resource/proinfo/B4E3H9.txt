@@ -1,0 +1,25 @@
+UniprotID	B4E3H9
+Accession	B4E3H9
+EntryName	B4E3H9_HUMAN
+ProteinName	Granulysin
+GeneName	GNLY
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATWALLLLAAMLLGNPGLEVSVSPKGKNTSGRESGFGWAIWMEGLVFSRLSPEYYDLARAHLRDEEKSCPCLAQEGPQGDLLTKTQELGRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLRLCIPSTGPL
+PTM	

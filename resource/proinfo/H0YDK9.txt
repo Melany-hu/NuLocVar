@@ -1,0 +1,25 @@
+UniprotID	H0YDK9
+Accession	H0YDK9
+EntryName	H0YDK9_HUMAN
+ProteinName	Protein phosphatase 6 regulatory subunit 3
+GeneName	PPP6R3
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEECPETAEAKCAAPRPPSSSPEQSASDACLLLLRTGQPSAPGDTSVNGPV
+PTM	

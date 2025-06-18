@@ -1,0 +1,25 @@
+UniprotID	A0A087WTH3
+Accession	A0A087WTH3
+EntryName	A0A087WTH3_HUMAN
+ProteinName	Centrosomal protein kizuna (Polo-like kinase 1 substrate 1)
+GeneName	KIZ
+Length	538
+Function	Centrosomal protein required for establishing a robust mitotic centrosome architecture that can endure the forces that converge on the centrosomes during spindle formation. Required for stabilizing the expanded pericentriolar material around the centriole.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	KMLCSKDSLGLKEELTDEDREKVAVHEGINSGTAMSRGLYQPATIFMGRQMSAILSMRDFSTEHKSPQPTKNFSIPDPHSHRQTAQSSNVTDSCVVQTSNDTQCLNKSDNIDGKASLQIGEKMPVTASVLSEEEQTHCLEIGSNTRHGKSNLSEGKKSAELNSPLRERLSPENRTTDLKCDSSSGSEGEILTREHIEVEEKRASPPVSPIPVSEYCESENKWSQEKHSPWEGVSDHLAHREPKSQKPFRKMQEEEEESWSTSSDLTISISEDDLILESPEPQPNPGGKMEGEDGIEALKLIHAEQERVALSTEKNCILQTLSSPDSEKESSTNAPTREPGQTPDSDVPRAQVGQHVATLKEHDNSVKEEATALLRKALTEECGRRSAIHSSESSCSLPSILNDNSGIKEAKPAVWLNSVPTREQETEAYQLLKKATLQDNTNQTENRFQKTDASVSHLSGLNIGSGAFETKTANKIASEASFSSSEGSPLSRHENKKKPVINLKSNALWDESDDSNSEIEAALRPRNHNTDDSDDFYD
+PTM	

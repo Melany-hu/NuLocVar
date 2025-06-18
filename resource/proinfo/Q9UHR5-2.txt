@@ -1,0 +1,25 @@
+UniprotID	Q9UHR5-2
+Accession	Q9UHR5;B3KML7;Q8N1R5;Q8TDR8;Q96D27
+EntryName	S30BP_HUMAN
+ProteinName	SAP30-binding protein (Transcriptional regulator protein HCNGP)
+GeneName	SAP30BP HCNGP HTRG HTRP
+Length	292
+Function	Plays a role in transcriptional repression by promoting histone deacetylase activity, leading to deacetylation of histone H3 (PubMed:21221920). May be involved in the regulation of beta-2-microglobulin genes (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGKKNVLSSLAVYAEDSEPESDGEAGIEAVGSAAEEKGGLVSDAYGEDDFSRLGGDEDGYEEEEDENSRQSDNTEAEKRDPQELVASFSERVRNMSPDEIKIPPEPPGRCSNHLQDKIQKLYERKIKEGMDMNYIIQRKKEFRNPSIYEKLIQFCAIDELGTNYPKDMFDPHGWSEDSYYEALAKAQKIEMDKLEKAKKERTKIEFVTGTKKGTTTNATSTTTTTASTAVADAQKRKSKWDSAIPVTTIAQPTILTTTATLPAVVTVTTSASGSKTTVISAVGTIVKKAKQ
+PTM	Acetylation:134,137,210,304;Glycosylation:232,233,237;Methylation:81,118,134,202;Phosphorylation:9,10,14,18,22,33,43,46,52,61,69,72,77,79,104,106,113,163,165;SUMOylation:118,144,202,220,228,304;Ubiquitylation:95,134,137,144,167,202,210,220,228

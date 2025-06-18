@@ -1,0 +1,25 @@
+UniprotID	P04049-2
+Accession	P04049;B0LPH8;B2R5N3;Q15278;Q9UC20
+EntryName	RAF1_HUMAN
+ProteinName	RAF proto-oncogene serine/threonine-protein kinase (EC 2.7.11.1) (Proto-oncogene c-RAF) (cRaf) (Raf-1)
+GeneName	RAF1 RAF
+Length	668
+Function	Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2). The phosphorylated form of RAF1 (on residues Ser-338 and Ser-339, by PAK1) phosphorylates BAD/Bcl2-antagonist of cell death at 'Ser-75'. Phosphorylates adenylyl cyclases: ADCY2, ADCY5 and ADCY6, resulting in their activation. Phosphorylates PPP1R12A resulting in inhibition of the phosphatase activity. Phosphorylates TNNT2/cardiac muscle troponin T. Can promote NF-kB activation and inhibit signal transducers involved in motility (ROCK2), apoptosis (MAP3K5/ASK1 and STK3/MST2), proliferation and angiogenesis (RB1). Can protect cells from apoptosis also by translocating to the mitochondria where it binds BCL2 and displaces BAD/Bcl2-antagonist of cell death. Regulates Rho signaling and migration, and is required for normal wound healing. Plays a role in the oncogenic transformation of epithelial cells via repression of the TJ protein, occludin (OCLN) by inducing the up-regulation of a transcriptional repressor SNAI2/SLUG, which induces down-regulation of OCLN. Restricts caspase activation in response to selected stimuli, notably Fas stimulation, pathogen-mediated macrophage apoptosis, and erythroid differentiation.
+Subcellular Location	Cytoplasm; Cell membrane; Mitochondrion; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEHIQGAWKTISNGFGFKDAVFDGSSCISPTIVQQFGYQRRASDDGKLTDPSKTSNTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFLDHVPLTTHNFARKTFLKLAFCDICQKFLLNGFRCQTCGYKFHEHCSTKVPTMCVDWSNIRQLLLFPNSTIGDSGVPALPSLTMRRMRESVSRMPVSSQHRYSTPHAFTFNTSSPSSEGSLSQRQRSTSTPNVHMVSTTLPVDSRMIENNNLSASPRAWSRRFCLRGRDAIRSHSESASPSALSSSPNNLSPTGWSQPKTPVPAQRERAPVSGTQEKNKIRPRGQRDSSYYWEIEASEVMLSTRIGSGSFGTVYKGKWHGDVAVKILKVVDPTPEQFQAFRNEVAVLRKTRHVNILLFMGYMTKDNLAIVTQWCEGSSLYKHLHVQETKFQMFQLIDIARQTAQGMDYLHAKNIIHRDMKSNNIFLHEGLTVKIGDFGLATVKSRWSGSQQVEQPTGSVLWMAPEVIRMQDNNPFSFQSDVYSYGIVLYELMTGELPYSHINNRDQIIFMVGRGYASPDLSKLYKNCPKAMKRLVADCVKKVKEERPLFPQILSSIELLQHSLPKINRSASEPSLHRAAHTEDINACTLTTSPRLPVF
+PTM	Acetylation:144,148;Methylation:18,375,378,399,572,593;Phosphorylation:12,25,26,29,31,43,49,213,220,227,228,232,233,234,239,242,243,244,246,247,252,257,258,259,260,267,268, 268,269,283,285,287,289,291,294,295,296,301,303,306,310,322,324,338,357,362,494,497,499,574,612,619,621,624,638,640,641,642;SUMOylation:470,593;Ubiquitylation:65,327,365,367,378,462,493,572,590

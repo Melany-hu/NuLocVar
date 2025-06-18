@@ -1,0 +1,25 @@
+UniprotID	A0A2U3TZH4
+Accession	A0A2U3TZH4
+EntryName	A0A2U3TZH4_HUMAN
+ProteinName	PDZ and LIM domain 3
+GeneName	PDLIM3
+Length	197
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQTVILPGPAPWGFRLSGGIDFNQPLVITRDGNYFEHKHNIRPKPFVIPGRSSEPTASVPPESDVYRMLHDNRNEPTQPRQSGSFRVLQGMVDDGSDDRPAGTRSVRAPVTKVHGGSGGAQRMPLCDKCGSGIVGAVVKARDKYRHPECFVCADCNLNLKQKGYFFIEGELYCETHARARTKPPEGYDTVTLYPKA
+PTM	

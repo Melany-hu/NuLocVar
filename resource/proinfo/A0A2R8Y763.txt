@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y763
+Accession	A0A2R8Y763
+EntryName	A0A2R8Y763_HUMAN
+ProteinName	Serine palmitoyltransferase long chain base subunit 1
+GeneName	SPTLC1
+Length	22
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ASLKKYGVGTCGPRGFYGTFEN
+PTM	

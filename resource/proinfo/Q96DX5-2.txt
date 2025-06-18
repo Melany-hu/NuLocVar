@@ -1,0 +1,25 @@
+UniprotID	Q96DX5-2
+Accession	Q96DX5;A8K8A5;Q9BVF5;Q9NWS5;Q9Y4T3
+EntryName	ASB9_HUMAN
+ProteinName	Ankyrin repeat and SOCS box protein 9 (ASB-9)
+GeneName	ASB9
+Length	262
+Function	Substrate-recognition component of a cullin-5-RING E3 ubiquitin-protein ligase complex (ECS complex, also named CRL5 complex), which mediates the ubiquitination and subsequent proteasomal degradation of target proteins (PubMed:25654263, PubMed:33268465). The ECS(ASB9) complex catalyzes ubiquitination of creatine kinases CKB and CKMT1A (PubMed:20302626, PubMed:22418839, PubMed:25654263, PubMed:33268465).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGKQGGMDGSKPAGPRDFPGIRLLSNPLMGDAVSDWSPMHEAAIHGHQLSLRNLISQGWAVNIITADHVSPLHEACLGGHLSCVKILLKHGAQVNGVTADWHTPLFNACVSGSWDCVNLLLQHGASVQPESDLASPIHEAARRGHVECVNSLIAYGGNIDHKISHLGTPLYLACENQQRACVKKLLESGADVNQGKGQDSPLHAVARTASEELACLLMDFGADTQAKNAEGKRPVELVPPESPLAQLFLEREGASLPKPKP
+PTM	Methylation:90,277;Phosphorylation:51,201,225,243;SUMOylation:185

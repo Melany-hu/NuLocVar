@@ -1,0 +1,25 @@
+UniprotID	Q9NZ09-2
+Accession	Q9NZ09;B7Z348;B7Z8N9;D3DRL7;F5GXE2;F5H0J8;Q4V759;Q53FP7;Q5T7B3;Q6FI75;Q8NC52;Q8NCG6;Q8NCH9
+EntryName	UBAP1_HUMAN
+ProteinName	Ubiquitin-associated protein 1 (UBAP-1) (Nasopharyngeal carcinoma-associated gene 20 protein)
+GeneName	UBAP1 NAG20
+Length	441
+Function	Component of the ESCRT-I complex, a regulator of vesicular trafficking process (PubMed:21757351, PubMed:22405001, PubMed:31203368). Binds to ubiquitinated cargo proteins and is required for the sorting of endocytic ubiquitinated cargos into multivesicular bodies (MVBs) (PubMed:21757351, PubMed:22405001). Plays a role in the proteasomal degradation of ubiquitinated cell-surface proteins, such as EGFR and BST2 (PubMed:22405001, PubMed:24284069, PubMed:31203368).
+Subcellular Location	Cytoplasm; Cytosol; Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASKKLGADFHGTFSYLDDVPFKTGDKFKTPAKVGLPIGFSLPDCLQVVREVQYDFSLEKKTIEWAEEIKKIEEAEREAECKIAEAEAKVNSKSGPEGDSKMSFSKTHSTATMPPPINPILASLQHNSILTPTRVSSSATKQKVLSPPHIKADFNLADFECEEDPFDNLELKTIDEKEELRNILVGTTGPIMAQLLDNNLPRGGSGSVLQDEEVLASLERATLDFKPLHKPNGFITLPQLGNCEKMSLSSKVSLPPIPAVSNIKSLSFPKLDSDDSNQKTAKLASTFHSTSCLRNGTFQNSLKPSTQSSASELNGHHTLGLSALNLDSGTEMPALTSSQMPSLSVLSVCTEESSPPNTGPTILDYLFAHGQLCEKGFDPLLVEEALEMHQCSEEKMMEFLQLMSKFKEMGFELKDIKEVLLLHNNDQDNALEDLMARAGAS
+PTM	Acetylation:264,282;Methylation:60,70;Phosphorylation:103,109,131,140,146,205,207,217,222,253,265,267,273,276,280,286,289,290,291,297;SUMOylation:101,226;Ubiquitylation:82,89,93,101,177,226,245,251,264,270,279

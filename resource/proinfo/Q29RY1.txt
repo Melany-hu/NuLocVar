@@ -1,0 +1,25 @@
+UniprotID	Q29RY1
+Accession	Q29RY1
+EntryName	Q29RY1_HUMAN
+ProteinName	BAGE protein
+GeneName	BAGE
+Length	48
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGVVFLALSAQLLQARLMKEESPVVSWRLEPEDGTALDGVSLCQPG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43914-3
+Accession	O43914;A8K2X0;F5H389;Q6FGA5;Q9UMT3
+EntryName	TYOBP_HUMAN
+ProteinName	TYRO protein tyrosine kinase-binding protein (DNAX-activation protein 12) (Killer-activating receptor-associated protein) (KAR-associated protein)
+GeneName	TYROBP DAP12 KARAP
+Length	102
+Function	Adapter protein which non-covalently associates with activating receptors found on the surface of a variety of immune cells to mediate signaling and cell activation following ligand binding by the receptors (PubMed:10604985, PubMed:9490415, PubMed:9655483). TYROBP is tyrosine-phosphorylated in the ITAM domain following ligand binding by the associated receptors which leads to activation of additional tyrosine kinases and subsequent cell activation (PubMed:9490415). Also has an inhibitory role in some cells (PubMed:21727189). Non-covalently associates with activating receptors of the CD300 family to mediate cell activation (PubMed:15557162, PubMed:16920917, PubMed:17928527, PubMed:26221034). Also mediates cell activation through association with activating receptors of the CD200R family (By similarity). Required for neutrophil activation mediated by integrin (By similarity). Required for the activation of myeloid cells mediated by the CLEC5A/MDL1 receptor (PubMed:10449773). Associates with natural killer (NK) cell receptors such as KIR2DS2 and the KLRD1/KLRC2 heterodimer to mediate NK cell activation (PubMed:23715743, PubMed:9490415, PubMed:9655483). Also enhances trafficking and cell surface expression of NK cell receptors KIR2DS1, KIR2DS2 and KIR2DS4 and ensures their stability at the cell surface (PubMed:23715743). Associates with SIRPB1 to mediate activation of myeloid cells such as monocytes and dendritic cells (PubMed:10604985). Associates with TREM1 to mediate activation of neutrophils and monocytes (PubMed:10799849). Associates with TREM2 on monocyte-derived dendritic cells to mediate up-regulation of chemokine receptor CCR7 and dendritic cell maturation and survival (PubMed:11602640). Association with TREM2 mediates cytokine-induced formation of multinucleated giant cells which are formed by the fusion of macrophages (PubMed:18957693). Stabilizes the TREM2 C-terminal fragment (TREM2-CTF) produced by TREM2 ectodomain shedding which suppresses the release of pro-inflammatory cytokines (PubMed:25957402). In microglia, required with TREM2 for phagocytosis of apoptotic neurons (By similarity). Required with ITGAM/CD11B in microglia to control production of microglial superoxide ions which promote the neuronal apoptosis that occurs during brain development (By similarity). Promotes pro-inflammatory responses in microglia following nerve injury which accelerates degeneration of injured neurons (By similarity). Positively regulates the expression of the IRAK3/IRAK-M kinase and IL10 production by liver dendritic cells and inhibits their T cell allostimulatory ability (By similarity). Negatively regulates B cell proliferation (PubMed:21727189). Required for CSF1-mediated osteoclast cytoskeletal organization (By similarity). Positively regulates multinucleation during osteoclast development (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGLEPCSRLLLLPLLLAVSDCSCSTVSPGVLAGIVMGDLVLTVLIALAVYFLGRLVPRGRGAAEAATRKQRITETESPYQELQGQRSDVYSDLNTQRPYYK
+PTM	Phosphorylation:87,89,91

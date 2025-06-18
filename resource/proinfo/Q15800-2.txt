@@ -1,0 +1,25 @@
+UniprotID	Q15800-2
+Accession	Q15800;A8K8Q3;A8MYF6;D3DP32;Q32Q24
+EntryName	MSMO1_HUMAN
+ProteinName	Methylsterol monooxygenase 1 (EC 1.14.18.9) (C-4 methylsterol oxidase) (Sterol-C4-methyl oxidase)
+GeneName	MSMO1 DESP4 ERG25 SC4MOL
+Length	162
+Function	Catalyzes the three-step monooxygenation required for the demethylation of 4,4-dimethyl and 4alpha-methylsterols, which can be subsequently metabolized to cholesterol (PubMed:21285510, PubMed:23583456, PubMed:26114596, PubMed:28673550). Also involved in drug metabolism, as it can metabolize eldecalcitol (ED-71 or 1alpha,25-dihydroxy-2beta-(3-hydroxypropoxy)-cholecalciferol), a second-generation vitamin D analog, into 1alpha,2beta,25-trihydroxy vitamin D3; this reaction occurs via enzymatic hydroxylation and spontaneous O-dehydroxypropylation (PubMed:26038696).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRWYFLLARCFGCAVIEDTWHYFLHRLLHHKRIYKYIHKVHHEFQAPFGMEAEYAHPLETLILGTGFFIGIVLLCDHVILLWAWVTIRLLETIDVHSGYDIPLNPLNLIPFYAGSRHHDFHHMNFIGNYASTFTWWDRIFGTDSQYNAYNEKRKKFEKKTE
+PTM	Ubiquitylation:80,85,87,163,167,284

@@ -1,0 +1,25 @@
+UniprotID	Q5SRH9-2
+Accession	Q5SRH9;B7Z782;E7EQY9;G3XAF8;O43417;O75040;Q5SRH5;Q5SRH6;Q5SRH7;Q5SRH8;Q5SRI0;Q5SRI1;Q5SRI2;Q5T7S1;Q6PIU8;Q9BT24
+EntryName	TT39A_HUMAN
+ProteinName	Tetratricopeptide repeat protein 39A (TPR repeat protein 39A) (Differentially expressed in MCF-7 with estradiol protein 6) (DEME-6)
+GeneName	TTC39A C1orf34 KIAA0452
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKAAYLSMFGKEDHKPFGDDEVELFRAVPGLKLKIAGKSLPTEKFAIRKSRRYFSSNPISLPVPALEMMYIWNGYAVIGKQPKLTDGILEIITKAEEMLEKGPENEYSVDDECLVKLLKGLCLKYLGRVQEAEENFRSISANEKKIKYDHYLIPNALLELALLLMEQDRNEEAIKLLESAKQNYKNYSMESRTHFRIQAATLQAKSSLENSSRSMVSSVSL
+PTM	Methylation:186,224,328,381,472,486,493,516,567;Phosphorylation:183,571,576;Ubiquitylation:424

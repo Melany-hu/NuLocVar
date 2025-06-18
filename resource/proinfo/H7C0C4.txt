@@ -1,0 +1,25 @@
+UniprotID	H7C0C4
+Accession	H7C0C4
+EntryName	H7C0C4_HUMAN
+ProteinName	Ubiquitin specific peptidase 40
+GeneName	USP40
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	110...116
+validnes_region	
+nesbase_region	
+Sequence	XEFGVPSPAHLRAWTVERKRPGRLLRTDRQPLSPQDVLLRTQVRIPGERTYAPALDLVWNAAQGGTAGSLRQRVADFYRLPVEKIEIAKYFPEKFEWLPISSWNQQITKRKKKKKQ
+PTM	

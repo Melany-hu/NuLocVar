@@ -1,0 +1,25 @@
+UniprotID	Q9Y279-3
+Accession	Q9Y279;Q6UXI4
+EntryName	VSIG4_HUMAN
+ProteinName	V-set and immunoglobulin domain-containing protein 4 (Protein Z39Ig)
+GeneName	VSIG4 CRIg Z39IG UNQ317/PRO362
+Length	305
+Function	Phagocytic receptor, strong negative regulator of T-cell proliferation and IL2 production. Potent inhibitor of the alternative complement pathway convertases.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGILLGLLLLGHLTVDTYGRPILEVPESVTGPWKGDVNLPCTYDPLQGYTQVLVKWLVQRGSDPVTIFLRDSSGDHIQQAKYQGRLHVSHKVPGDVSLQLSTLEMDDRSHYTCEVTWQTPDGNQVVRDKITELRVQKHSSKLLKTKTEAPTTMTYPLKATSTVKQSWDWTTDMDGYLGETSAGPGKSLPVFAIILIISLCCMVVFTMAYIMLCRKTSQQEHVYEAARAHAREANDSGETMRVAIFASGCSSDEPTSQNLGNNYSDEPCIGQEYQIIAQINGNYARLLDTVPLDYEFLATEGKSVC
+PTM	Methylation:55,142,199,227;Phosphorylation:139,151,219,388

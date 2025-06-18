@@ -1,0 +1,25 @@
+UniprotID	A8MQ27-2
+Accession	A8MQ27;C9DQJ5;C9DQJ6;C9DQJ7
+EntryName	NEU1B_HUMAN
+ProteinName	E3 ubiquitin-protein ligase NEURL1B (EC 2.3.2.27) (Neuralized-2) (NEUR2) (Neuralized-like protein 1B) (Neuralized-like protein 3) (RING-type E3 ubiquitin transferase NEURL1B)
+GeneName	NEURL1B NEURL3
+Length	373
+Function	E3 ubiquitin-protein ligase involved in regulation of the Notch pathway through influencing the stability and activity of several Notch ligands.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNTVHRTLPESAFADTLTPARLSQARFSACLPPSSHDAANFDNNELENNQVVAKLGHLALGRAPGPPPADAAAAAIPCGPRERPRPASSPALLEADLRFHATRGPDVSLSADRKVACAPRPDGGRTLVFSERPLRPGESLFVEVGRPGLAAPGALAFGITSCDPGVLRPNELPADPDALLDRKEYWVVARAGPVPSGGDALSFTLRPGGDVLLGINGRPRGRLLCVDTTQALWAFFAVRGGVAGQLRLLGTLQSSPATTTPSGSLSGSQDDSDSDMTFSVNQSSSASESSLVTAPSSPLSPPVSPVFSPPEPAGIKNGECTVCFDGEVDTVIYTCGHMCLCHSCGLRLKRQARACCPICRRPIKDVIKIYRP
+PTM	Acetylation:547;Methylation:116;Phosphorylation:13,64,72,271,272,387;Ubiquitylation:46

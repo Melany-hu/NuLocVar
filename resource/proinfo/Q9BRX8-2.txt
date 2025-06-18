@@ -1,0 +1,25 @@
+UniprotID	Q9BRX8-2
+Accession	Q9BRX8;B2RD81;Q6UW08;Q8N2K3;Q8NBK9;Q96JR0
+EntryName	PXL2A_HUMAN
+ProteinName	Peroxiredoxin-like 2A (Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes) (Protein PAMM) (Redox-regulatory protein FAM213A)
+GeneName	PRXL2A C10orf58 FAM213A PAMM PRO2290 PSEC0139 UNQ611/PRO1198
+Length	218
+Function	Involved in redox regulation of the cell (PubMed:19951071, PubMed:26438880). Acts as an antioxidant (PubMed:19951071, PubMed:26438880). Inhibits TNFSF11-induced NFKB1 and JUN activation and osteoclast differentiation (PubMed:19951071). May affect bone resorption and help to maintain bone mass (PubMed:19951071). Acts as a negative regulator of macrophage-mediated inflammation by inhibiting macrophage production of inflammatory cytokines, probably through suppression of the MAPK signaling pathway (PubMed:26438880).
+Subcellular Location	Cytoplasm; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGMWSIGAGALGAAALALLLANTDVFLSKPQKAALEYLEDIDLKTLEKEPRTFKAKELWEKNGAVIMAVRRPGCFLCREEAADLSSLKSMLDQLGVPLYAVVKEHIRTEVKDFQPYFKGEIFLDEKKKFYGPQRRKMMFMGFIRLGVWYNFFRAWNGGFSGNLEGEGFILGGVFVVGSGKQGILLEHREKEFGDKVNLLSVLEAAKMIKPQTLASEKK
+PTM	Acetylation:137;Methylation:40,55,59,99,206;Ubiquitylation:55,59,72,122,129,137,138

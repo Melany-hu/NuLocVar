@@ -1,0 +1,25 @@
+UniprotID	H0Y636
+Accession	H0Y636
+EntryName	H0Y636_HUMAN
+ProteinName	Ubiquitin C-terminal hydrolase L5
+GeneName	UCHL5
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEGEIRFNLMAIVSDRKMIYEQKIAELQRQLAEEPMDTDQGNSMLSAIQSEVAKNQMLIEEEVQKLKRYKIENIRRKHNYLPFIMELLKTLAEHQQLIPLVEKFEKHFEKTLLGK
+PTM	

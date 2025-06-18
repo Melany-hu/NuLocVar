@@ -1,0 +1,25 @@
+UniprotID	B4DLW3
+Accession	B4DLW3
+EntryName	B4DLW3_HUMAN
+ProteinName	Guided entry of tail-anchored proteins factor 1 (Tail-anchored protein insertion receptor WRB) (Tryptophan-rich basic protein)
+GeneName	GET1 WRB hCG_401226
+Length	103
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSAAADHWAWLLVLSFVFGCNVLRILLPSFSSFMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHGTVSLAAWRLHESG
+PTM	

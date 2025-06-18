@@ -1,0 +1,25 @@
+UniprotID	Q01113-3
+Accession	Q01113;B9ZVT0;Q14634;Q8WWU1;Q96TF0
+EntryName	IL9R_HUMAN
+ProteinName	Interleukin-9 receptor (IL-9 receptor) (IL-9R) (CD antigen CD129)
+GeneName	IL9R
+Length	342
+Function	Plays an important role in the immune response against parasites by acting as a receptor of IL9.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQTCDGTGQMHLGSNCCKNGQTLLQRTCHGVSCCGWWFQAARSILGKGPSAQSLAGWTLESEALRRDMGTWLLACICICTCVCLGVSVTGEGQGPRSRTFTCLTNNILRIDCHWSAPELGQGSSPWLLFTRLLAAHISASCGAVSAPSCCHLRQCSCHLTISPSLSTTACLGGSRSAWWTRSTCPGDTSNISSGHCILTWSISPALEPMTTLLSYELAFKKQEEAWEQAQHRDHIVGVTWLILEAFELDPGFIHEARLRVQMATLEDDVVEEERYTGQWSEWSQPVCFQAPQRQGPLIPPWGWPGNTLVAVSIFLLLTGPTYLLFKLSPRLGWGPTGPVCC
+PTM	Methylation:292;Phosphorylation:133

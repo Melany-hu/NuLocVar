@@ -1,0 +1,25 @@
+UniprotID	H3BP58
+Accession	H3BP58
+EntryName	H3BP58_HUMAN
+ProteinName	Lipase maturation factor
+GeneName	LMF1
+Length	150
+Function	Involved in the maturation of specific proteins in the endoplasmic reticulum.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSFGWESQLLETGFLGIFLCPLWTLSRLPQHTPTSRIVLWGFRWLIFRIMLGAGLIKIRGDRCWRDLTCMDFHYETQPMPNPVAYYLHHSPWWFHRFETLSNHFIELLVPFFLFLGRRACIIHGVLQILFQAVLIVSGNLSFLNWLTMV
+PTM	

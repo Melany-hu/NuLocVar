@@ -1,0 +1,25 @@
+UniprotID	M4PPE1
+Accession	M4PPE1
+EntryName	M4PPE1_HUMAN
+ProteinName	Phosphotransferase (EC 2.7.1.-)
+GeneName	GCK
+Length	71
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RKQIYNILSTLGLRPSTTDCDIVRRACESVSTRAAHMCSAGLAGVINRMRESRSEDVMRITVGVDGSVYKL
+PTM	

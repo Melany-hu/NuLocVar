@@ -1,0 +1,25 @@
+UniprotID	P01298-2
+Accession	P01298
+EntryName	PAHO_HUMAN
+ProteinName	Pancreatic polypeptide prohormone (PH) (Pancreatic polypeptide Y) (Obinepitide) [Cleaved into: Pancreatic polypeptide (HPP) (PP); Pancreatic icosapeptide (PI)]
+GeneName	PPY PNP
+Length	178
+Function	Hormone secreted by pancreatic cells that acts as a regulator of pancreatic and gastrointestinal functions probably by signaling through the G protein-coupled receptor NPY4R2.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAARLCLSLLLLSTCVALLLQPLLGAQGAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRCVPQLGREIPAPGTLGPLHIPGHTLSPAPAPAPSRPALGKTGHLCSTGLDQCALGKMVPTGRYETGGLAPGHSACPCCLFPPRYGKRHKEDTLAFSEWGSPHAAVPRELSPLDL
+PTM	Phosphorylation:91

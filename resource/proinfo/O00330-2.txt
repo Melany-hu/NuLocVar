@@ -1,0 +1,25 @@
+UniprotID	O00330-2
+Accession	O00330;B4DW62;D3DR11;E9PB14;E9PBP7;O60221;Q96FV8;Q99783
+EntryName	ODPX_HUMAN
+ProteinName	Pyruvate dehydrogenase protein X component, mitochondrial (Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex) (E3-binding protein) (E3BP) (Lipoyl-containing pyruvate dehydrogenase complex component X) (proX)
+GeneName	PDHX PDX1
+Length	274
+Function	Required for anchoring dihydrolipoamide dehydrogenase (E3) to the dihydrolipoamide transacetylase (E2) core of the pyruvate dehydrogenase complexes of eukaryotes. This specific binding is essential for a functional PDH complex.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASWRLGCDPRLLRYLVGFPGRRSVGLVKGALGWSVSRGANWRWFHSTQWLRGDPIKILMPSLSPTMEEGNIVKWLKKEGEAVSAGDALCEIETDKAVVTLDASDDGILAKIVQMPDVNVSWDGEGPKQLPFIDISVAVATDKGLLTPIIKDAAAKGIQEIADSVKALSKKARDGKLLPEEYQGGSFSISNLGMFGIDEFTAVINPPQACILAVGRFRPVLKLTEDEEGNAKLQQRQLITVTMSSDSRVVDDELATRFLKSFKANLENPIRLA
+PTM	Acetylation:120,194,218,325,394,488,491;Methylation:75,97,112,194,208,218,223,314,321,491;Phosphorylation:63,65,157,162,168,179,185,229,339,468;SUMOylation:139,172

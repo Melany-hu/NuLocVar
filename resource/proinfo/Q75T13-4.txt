@@ -1,0 +1,25 @@
+UniprotID	Q75T13-4
+Accession	Q75T13;Q4G0R8;Q4ZG47;Q53SM0;Q6AW92;Q6UWV4;Q9HA24
+EntryName	PGAP1_HUMAN
+ProteinName	GPI inositol-deacylase (EC 3.1.-.-) (Post-GPI attachment to proteins factor 1) (hPGAP1)
+GeneName	PGAP1 UNQ3024/PRO9822
+Length	431
+Function	Involved in inositol deacylation of GPI-anchored proteins. GPI inositol deacylation may important for efficient transport of GPI-anchored proteins from the endoplasmic reticulum to the Golgi (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFLHSVNLWNLAFYVFMVFLATLGLWDVFFGFEENKCSMSYMFEYPEYQSSAVPKTWVSTDHLSIVWCKQLQLTTVRAFFDLIDADTKQITQNSKKKLSVLYHHFIRHPSKHFEENPAIISDLTGTSMWVLVKVSKWTYVAYNESEKIYFTFPLENHRKIYTHVYCQSTMLDTNSWIFACINSTSMCLQGVDLSWKAELLPTIKYLTLRLQDYPSLSHLVVYVPSVRGSKFVVDCEFFKKEKRYIQLPVTHLFSFGLSSRKVVLNTNGLYYNLELLNFGQIYQAFKINVVSKCSAVKEEITSIYRLHIPWSYEDSLTIAQAPSSTEISLKLHIAQPENNTHVALFKMYTSSDCRYEVTVKTSFSQILGQVVRFHGGALPAYVVSNILLAYRGQLYSLFSTGCCLEYATMLDKEAKPYKVDPFVIIIKFLLG
+PTM	Acetylation:782;Glycosylation:558,559;Methylation:50,111,187,353,580,647,716;Phosphorylation:798,812;Ubiquitylation:99,159

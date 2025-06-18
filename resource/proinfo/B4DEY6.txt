@@ -1,0 +1,25 @@
+UniprotID	B4DEY6
+Accession	B4DEY6
+EntryName	B4DEY6_HUMAN
+ProteinName	LIM and cysteine rich domains 1 (cDNA FLJ52480, highly similar to LIM and cysteine-rich domains protein 1)
+GeneName	LMCD1
+Length	253
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFGMQGDVFGLRATFMEGLQYMELIPKEKQPVTGTEGAFYRRRQLMHQLPIYDQDPSRCRGLLENELKLMEEFVKQYKSEALGVGEVALPGQGGLPKEEGKQQEKPEGAETTAATTNGSLSDPSKEVEYVCELCKGAAPPDSPVVYSDRAGYNKQWHPTCFVCAKCSEPLVDLIYFWKDGAPWCGRHYCESLRPRCSGCDEIIFAEDYQRVEDLAWHRKHFVCEGCEQLLSGRAYIVTKGQLLCPTCSKSKRS
+PTM	

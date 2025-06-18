@@ -1,0 +1,25 @@
+UniprotID	D6RED0
+Accession	D6RED0
+EntryName	D6RED0_HUMAN
+ProteinName	Solute carrier family 49 member 3
+GeneName	SLC49A3
+Length	199
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPTEAETGLAEPRALCAQRGHRTYARRWVFLLAISLLNCSNATLWLSFAPVADVIAEDLVLSMEQINWLSLVYLVVSTPFGVAAIWILDSVGLRAAGFSGLCGALFITFGILGALALGPYVDRTKHFTEATKIGLCLFSLACVPFALVSQLQGQTLALAATCSLLGLFGFSVGPVAMELAVECSFPVGEGAATGMIF
+PTM	

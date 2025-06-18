@@ -1,0 +1,25 @@
+UniprotID	P53671-2
+Accession	P53671;A8K6H5;Q7KZ80;Q7L3H5;Q96E10;Q99464;Q9UFU0
+EntryName	LIMK2_HUMAN
+ProteinName	LIM domain kinase 2 (LIMK-2) (EC 2.7.11.1)
+GeneName	LIMK2
+Length	617
+Function	Serine/threonine-protein kinase that plays an essential role in the regulation of actin filament dynamics (PubMed:10436159, PubMed:11018042). Acts downstream of several Rho family GTPase signal transduction pathways (PubMed:10436159, PubMed:11018042). Involved in astral microtubule organization and mitotic spindle orientation during early stages of mitosis by mediating phosphorylation of TPPP (PubMed:22328514). Displays serine/threonine-specific phosphorylation of myelin basic protein and histone (MBP) in vitro (PubMed:8537403). Suppresses ciliogenesis via multiple pathways; phosphorylation of CFL1, suppression of directional trafficking of ciliary vesicles to the ciliary base, and by facilitating YAP1 nuclear localization where it acts as a transcriptional corepressor of the TEAD4 target genes AURKA and PLK1 (PubMed:25849865).
+Subcellular Location	Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Nucleus; Cytoplasm; Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSYLSVPAYFTSRDLFRCSECQDSLTNWYYEKDGKLYCPKDYWGKFGEFCHGCSLLMTGPFMVAGEFKYHPECFACMSCKVIIEDGDAYALVQHATLYCGKCHNEVVLAPMFERLSTESVQEQLPYSVTLISMPATTEGRRGFSVSVESACSNYATTVQVKEVNRMHISPNNRNAIHPGDRILEINGTPVRTLRVEEVEDAISQTSQTLQLLIEHDPVSQRLDQLRLEARLAPHMQNAGHPHALSTLDTKENLEGTLRRRSLRRSNSISKSPGPSSPKEPLLFSRDISRSESLRCSSSYSQQIFRPCDLIHGEVLGKGFFGQAIKVTHKATGKVMVMKELIRCDEETQKTFLTEVKVMRSLDHPNVLKFIGVLYKDKKLNLLTEYIEGGTLKDFLRSMDPFPWQQKVRFAKGIASGMAYLHSMCIIHRDLNSHNCLIKLDKTVVVADFGLSRLIVEERKRAPMEKATTKKRTLRKNDRKKRYTVVGNPYWMAPEMLNGKSYDETVDIFSFGIVLCEIIGQVYADPDCLPRTLDFGLNVKLFWEKFVPTDCPPAFFPLAAICCRLEPESRPAFSKLEDSFEALSLYLGELGIPLPAELEELDHTVSMQYGLTRDSPP
+PTM	Methylation:339,347,390,414,497,561;Phosphorylation:191,210,278,283,287,289,291,293,297,298,306,505;SUMOylation:272

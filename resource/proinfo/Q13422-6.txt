@@ -1,0 +1,25 @@
+UniprotID	Q13422-6
+Accession	Q13422;A4D260;B4E0Z1;D3DVM5;O00598;Q53XL2;Q69BM4;Q8WVA3
+EntryName	IKZF1_HUMAN
+ProteinName	DNA-binding protein Ikaros (Ikaros family zinc finger protein 1) (Lymphoid transcription factor LyF-1)
+GeneName	IKZF1 IK1 IKAROS LYF1 ZNFN1A1
+Length	289
+Function	Transcription regulator of hematopoietic cell differentiation (PubMed:17934067). Binds gamma-satellite DNA (PubMed:17135265, PubMed:19141594). Plays a role in the development of lymphocytes, B- and T-cells. Binds and activates the enhancer (delta-A element) of the CD3-delta gene. Repressor of the TDT (fikzfterminal deoxynucleotidyltransferase) gene during thymocyte differentiation. Regulates transcription through association with both HDAC-dependent and HDAC-independent complexes. Targets the 2 chromatin-remodeling complexes, NuRD and BAF (SWI/SNF), in a single complex (PYR complex), to the beta-globin locus in adult erythrocytes. Increases normal apoptosis in adult erythroid cells. Confers early temporal competence to retinal progenitor cells (RPCs) (By similarity). Function is isoform-specific and is modulated by dominant-negative inactive isoforms (PubMed:17135265, PubMed:17934067).
+Subcellular Location	Nucleus; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDADEGQDMSQVSGKESPPVSDTPDEGDEPMPIPEDLSTTSGGQQSSKSDRVVGDKGLSDTPYDSSASYEKENEMMKSHVMDQAINNAINYLGAESLRPLVQTPPGGSEVVPVISPMYQLHKPLAEGTPRSNHSAQDSAVENLLLLSKAKLVPSEREASPSNSCQDSTDTESNNEEQRSGLIYLTNHIAPHARNGLSLKEEHRAYDLLRAASENSQDALRVVSTSGEQMKVYKCEHCRVLFLDHVMYTIHMGCHGFRDPFECNMCGYHSQDRYEFSSHITRGEHRFHMS
+PTM	Acetylation:116,171,273,281,286,378,380,429,460;Methylation:83,116,378;Phosphorylation:10,17,55,61,63,140,168,244,247,258,261,269,289,295,296,298,333,358,361,364,368,377,384,389,391,393,397,400,402,409,427,442,445,453,454,455,462;SUMOylation:241,429

@@ -1,0 +1,25 @@
+UniprotID	A0A3B3IT21
+Accession	A0A3B3IT21
+EntryName	A0A3B3IT21_HUMAN
+ProteinName	von Willebrand factor D and EGF domains
+GeneName	VWDE
+Length	153
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	34...38
+validnes_region	
+nesbase_region	
+Sequence	XETQFVNQFTTQTVVLTRSDKSVNKEEDDKNAQGRKRHVKPTSGNAFTINFQPPSTEYSLISTRFTPTPATIKKLLSTTNNISRSSLKLITAQMDNSVKPISHQISDIEHVDRSLSTNLSLAICKYPCGKSRECVAPNICKCKPGYIGSNCQT
+PTM	

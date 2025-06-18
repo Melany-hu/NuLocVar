@@ -1,0 +1,25 @@
+UniprotID	Q5TYM5-2
+Accession	Q5TYM5;B2RV15;Q5TYM4
+EntryName	FA72A_HUMAN
+ProteinName	Protein FAM72A (Latent membrane protein 1-induced protein) (LMP1-induced protein) (LMPIP)
+GeneName	FAM72A UGENE
+Length	109
+Function	May play a role in the regulation of cellular reactive oxygen species metabolism. May participate in cell growth regulation.
+Subcellular Location	Cytoplasm; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTNICSFKDSAVDFTGRCYFTKICKCKLKDIACLKCGNIVGYHVIVPCSSCLLSCNNGHFWMFHSQAVYDINRLDSTGVNVLLWGNLPEIEESTDEDVLNISAEECIR
+PTM	Phosphorylation:27;Ubiquitylation:22

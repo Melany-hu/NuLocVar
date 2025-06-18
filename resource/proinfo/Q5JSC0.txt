@@ -1,0 +1,25 @@
+UniprotID	Q5JSC0
+Accession	Q5JSC0
+EntryName	Q5JSC0_HUMAN
+ProteinName	Muscleblind like splicing regulator 2
+GeneName	MBNL2
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TQSTAKAMKRPLEATVDLAFPPGALHPLPKRQALEKSNGTSAVFNPSVLHYQQALTSAQLQQHAAFIPTVPMMHSATSATVSAATTPATSVPFAATATANQIILK
+PTM	

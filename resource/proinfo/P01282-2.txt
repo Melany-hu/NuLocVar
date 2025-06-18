@@ -1,0 +1,25 @@
+UniprotID	P01282-2
+Accession	P01282;Q5TCY8;Q5TCY9;Q96QK3
+EntryName	VIP_HUMAN
+ProteinName	VIP peptides [Cleaved into: Intestinal peptide PHV-42 (Peptide histidine valine 42) (PHV-42); Intestinal peptide PHM-27 (Peptide histidine methioninamide 27) (PHM-27); Vasoactive intestinal peptide (VIP) (Vasoactive intestinal polypeptide)]
+GeneName	VIP
+Length	169
+Function	VIP is a neuropeptide involved in a diverse array of physiological processes through activating the PACAP subfamily of class B1 G protein-coupled receptors: VIP receptor 1 (VPR1) and VIP receptor 2 (VPR2) (PubMed:1318039, PubMed:36385145, PubMed:8933357). Abundantly expressed throughout the CNS and peripheral nervous systems where they primarily exert neuroprotective and immune modulatory roles (PubMed:3456568). Also causes vasodilation, lowers arterial blood pressure, stimulates myocardial contractility, increases glycogenolysis and relaxes the smooth muscle of trachea, stomach and gall bladder (PubMed:15013843).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTRNKAQLLVLLTLLSVLFSQTSAWPLYRAPSALRLGDRIPFEGANEPDQVSLKEDIDMLQNALAENDTPYYDVSRNARHADGVFTSDFSKLLGQLSAKKYLESLMGKRVSNISEDPVPVKRHSDAVFTDNYTRLRKQMAVKKYLNSILNGKRSSEGESPDFPEELEK
+PTM	Acetylation:100;Phosphorylation:29,88,112,116

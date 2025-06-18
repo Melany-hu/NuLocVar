@@ -1,0 +1,25 @@
+UniprotID	D6RIV3
+Accession	D6RIV3
+EntryName	D6RIV3_HUMAN
+ProteinName	Zinc finger CCHC-type containing 10
+GeneName	ZCCHC10
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPMHRLIARRQAFDTELQPVKTFWILIQPSIVIRDSVAQAGLKLLSSGDPALASQSARIIGVSHCVQPHT
+PTM	

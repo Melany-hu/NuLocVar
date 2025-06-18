@@ -1,0 +1,25 @@
+UniprotID	I3L1M4
+Accession	I3L1M4
+EntryName	I3L1M4_HUMAN
+ProteinName	Aldehyde dehydrogenase family 3 member A2 (EC 1.2.1.3) (EC 1.2.1.94) (Fatty aldehyde dehydrogenase)
+GeneName	ALDH3A2
+Length	162
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TTELLKQRFDHIFYTGNTAVGKIVMEAAAKHLTPVTLELGGKSPCYIDKDCDLDIVCRRITWGKYMNCGQTCIAPDYILCEASLQNQIVWKIKETVKEFYGENIKESPDYERIINLRHFKRILSLLEGQKIAFGGETDEATRYIGNGNSPFPMGRWQFGSFC
+PTM	

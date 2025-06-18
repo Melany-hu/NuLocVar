@@ -1,0 +1,25 @@
+UniprotID	A2AAT0
+Accession	A2AAT0
+EntryName	A2AAT0_HUMAN
+ProteinName	Zinc transporter SLC39A7 (Solute carrier family 39 member 7) (Zrt-, Irt-like protein 7)
+GeneName	SLC39A7
+Length	220
+Function	
+Subcellular Location	Golgi apparatus; cis-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSSLPECRHIGKGIRAKVERNFLFSRDLKAGLPRPSKPGKERIPEPALGATVLISAAPFFVLFLIPVESNSPRHRSLLQILLSFASGGLLGDAFLHLIPHALEPHSHHTLEQPGHGHSHSGQGPILSVGLWVLSGIVAFLVVEKFVRHVKGGHGHSHGHGHAHSHTRGSHGHGRQERSTKEKQSSEEEEKETRGVQKRRGGSTVPKDGPVRPQNAEEEK
+PTM	

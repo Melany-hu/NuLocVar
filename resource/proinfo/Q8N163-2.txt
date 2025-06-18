@@ -1,0 +1,25 @@
+UniprotID	Q8N163-2
+Accession	Q8N163;A6NL03;B2RB79;D3DSR6;Q6P0Q9;Q8N3G7;Q8N8M1;Q8TF34;Q9H9Q9;Q9HD12;Q9NT55
+EntryName	CCAR2_HUMAN
+ProteinName	Cell cycle and apoptosis regulator protein 2 (Cell division cycle and apoptosis regulator protein 2) (DBIRD complex subunit KIAA1967) (Deleted in breast cancer gene 1 protein) (DBC-1) (DBC.1) (NET35) (p30 DBC)
+GeneName	CCAR2 DBC1 KIAA1967
+Length	923
+Function	Core component of the DBIRD complex, a multiprotein complex that acts at the interface between core mRNP particles and RNA polymerase II (RNAPII) and integrates transcript elongation with the regulation of alternative splicing: the DBIRD complex affects local transcript elongation rates and alternative splicing of a large set of exons embedded in (A + T)-rich DNA regions (PubMed:22446626). Inhibits SIRT1 deacetylase activity leading to increasing levels of p53/TP53 acetylation and p53-mediated apoptosis (PubMed:18235501, PubMed:18235502, PubMed:23352644). Inhibits SUV39H1 methyltransferase activity (PubMed:19218236). Mediates ligand-dependent transcriptional activation by nuclear hormone receptors (PubMed:19131338). Plays a critical role in maintaining genomic stability and cellular integrity following UV-induced genotoxic stress (PubMed:23398316). Regulates the circadian expression of the core clock components NR1D1 and BMAL1 (PubMed:23398316). Enhances the transcriptional repressor activity of NR1D1 through stabilization of NR1D1 protein levels by preventing its ubiquitination and subsequent degradation (PubMed:23398316). Represses the ligand-dependent transcriptional activation function of ESR2 (PubMed:20074560). Acts as a regulator of PCK1 expression and gluconeogenesis by a mechanism that involves, at least in part, both NR1D1 and SIRT1 (PubMed:24415752). Negatively regulates the deacetylase activity of HDAC3 and can alter its subcellular localization (PubMed:21030595). Positively regulates the beta-catenin pathway (canonical Wnt signaling pathway) and is required for MCC-mediated repression of the beta-catenin pathway (PubMed:24824780). Represses ligand-dependent transcriptional activation function of NR1H2 and NR1H3 and inhibits the interaction of SIRT1 with NR1H3 (PubMed:25661920). Plays an important role in tumor suppression through p53/TP53 regulation; stabilizes p53/TP53 by affecting its interaction with ubiquitin ligase MDM2 (PubMed:25732823). Represses the transcriptional activator activity of BRCA1 (PubMed:20160719). Inhibits SIRT1 in a CHEK2 and PSEM3-dependent manner and inhibits the activity of CHEK2 in vitro (PubMed:25361978).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQFKRQRINPLPGGRNFSGTASTSLLGPPPGLLTPPVATELSQNARHLQGGEKQRVFTGIVTSLHDYFGVVDEEVFFQLSVVKGRLPQLGEKVLVKAAYNPGQAVPWNAVKVQTLSNQPLLKSPAPPLLHVAALGQKQGILGAQPQLIFQPHRIPPLFPQKPLSLFQTSHTLHLSHLNRFPARGPHGRLDQGRSDDYDSKKRKQRAGGEPWGAKKPRHDLPPYRVHLTPYTVDSPICDFLELQRRYRSLLVPSDFLSVHLSWLSAFPLSQPFSLHHPSRIQVSSEKEAAPDAGAEPITADSDPAYSSKVLLLSSPGLEELYRCCMLFVDDMAEPRETPEHPLKQIKFLLGRKEEEAVLVGGEWSPSLDGLDPQADPQVLVRTAIRCAQAQTGIDLSGCTKWWRFAEFQYLQPGPPRRLQTVVVYLPDVWTIMPTLEEWEALCQQKAAEAAPPTQEAQGETEPTEQAPDALEQAADTSRRNAETPEATTQQETDTDLPEAPPPPLEPAVIARPGCVNLSLHGIVEDRRPKERISFEVMVLAELFLEMLQRDFGYRVYKMLLSLPEKVVSPPEPEKEEAAKEEATKEEEAIKEEVVKEPKDEAQNEGPATESEAPLKEDGLLPKPLSSGGEEEEKPRGEASEDLCEMALDPELLLLRDDGEEEFAGAKLEDSEVRSVASNQSEMEFSSLQDMPKELDPSAVLPLDCLLAFVFFDANWCGYLHRRDLERILLTLGIRLSAEQAKQLVSRVVTQNICQYRSLQYSRQEGLDGGLPEEVLFGNLDLLPPPGKSTKPGAAPTEHKALVSHNGSLINVGSLLQRAEQQDSGRLYLENKIHTLELKLEESHNRFSATEVTNKTLAAEMQELRVRLAEAEETARTAERQKSQLQRLLQELRRRLTPLQLEIQRVVEKVRWGWTRRQHSSFP
+PTM	Acetylation:54,162,201,215,216,742,832,839,855,909,916;Glycosylation:854;Methylation:5,16,93,97,123,138,180,184,206,218,287,309,344,353,591,596,616,623,634,667,788,800,832,865;Phosphorylation:35,117,124,195,200,235,454,464,477,478,484,489,493,495,569,626,627,640,671,675,678,681,686,687,804,808,814,897,912,922;SUMOylation:54,93,97,112,162,585,591,599,616,623,634,667,791,800;Ubiquitylation:54,93,97,112,123,138,215,216,287,309,344,347,585,591,596,667,742,800,832,839,882,916

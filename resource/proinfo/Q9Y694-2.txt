@@ -1,0 +1,25 @@
+UniprotID	Q9Y694-2
+Accession	Q9Y694;B2CZX6;Q5T046;Q5T048;Q5T050;Q9H2W5
+EntryName	S22A7_HUMAN
+ProteinName	Solute carrier family 22 member 7 (Novel liver transporter) (NLT) (Organic anion transporter 2) (hOAT2)
+GeneName	SLC22A7 NLT OAT2
+Length	546
+Function	Functions as a Na(+)-independent bidirectional multispecific transporter (PubMed:11327718, PubMed:18216183, PubMed:21446918, PubMed:28945155). Contributes to the renal and hepatic elimination of endogenous organic compounds from the systemic circulation into the urine and bile, respectively (PubMed:11327718, PubMed:25904762). Capable of transporting a wide range of purine and pyrimidine nucleobases, nucleosides and nucleotides, with cGMP, 2'deoxyguanosine and GMP being the preferred substrates (PubMed:11327718, PubMed:18216183, PubMed:26377792, PubMed:28945155). Functions as a pH- and chloride-independent cGMP bidirectional facilitative transporter that can regulate both intracellular and extracellular levels of cGMP and may be involved in cGMP signaling pathways (PubMed:18216183, PubMed:26377792). Mediates orotate/glutamate bidirectional exchange and most likely display a physiological role in hepatic release of glutamate into the blood (PubMed:21446918). Involved in renal secretion and possible reabsorption of creatinine (PubMed:25904762, PubMed:28945155). Able to uptake prostaglandin E2 (PGE2) and may contribute to PGE2 renal excretion (Probable). Also transports alpha-ketoglutarate and urate (PubMed:11327718, PubMed:26377792). Apart from the orotate/glutamate exchange, the counterions for the uptake of other SLC22A7/OAT2 substrates remain to be identified (PubMed:26377792).
+Subcellular Location	Basolateral cell membrane; Apical cell membrane; Cell membrane; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFEELLEQVGGFGPFQLRNVALLALPRVLLPLHFLLPIFLAAVPAHRCALPGAPANFSHQDVWLEAHLPREPDGTLSSCLRFAYPQALPNTTLGEERQSRGELEDEPATVPCSQGWEYDHSEFSSTIATEWDLVCEQKGLNRAASTFFFAGVLVGAVAFGYLSDRFGRRRLLLVAYVSTLVLGLASAASVSYVMFAITRTLTGSALAGFTIIVMPLELEWLDVEHRTVAGVLSSTFWTGGVMLLALVGYLIRDWRWLLLAVTLPCAPGILSLWWVPESARWLLTQGHVKEAHRYLLHCARLNGRPVCEDSFSQEAVSKVAAGERVVRRPSYLDLFRTPRLRHISLCCVVVWFGVNFSYYGLSLDVSGLGLNVYQTQLLFGAVELPSKLLVYLSVRYAGRRLTQAGTLLGTALAFGTRLLVSSDMKSWSTVLAVMGKAFSEAAFTTAYLFTSELYPTVLRQTGMGLTALVGRLGGSLAPLAALLDGVWLSLPKLTYGGIALLAAGTALLLPETRQAQLPETIQDVERKSAPTSLQEEEMPMKQVQN
+PTM	Phosphorylation:389

@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MQX2
+Accession	A0A0A0MQX2
+EntryName	A0A0A0MQX2_HUMAN
+ProteinName	Magnesium transporter
+GeneName	MRS2
+Length	393
+Function	Magnesium transporter that mediates the influx of magnesium into the mitochondrial matrix. Required for normal expression of the mitochondrial respiratory complex I subunits.
+Subcellular Location	Membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MECLRSLPCLLPRAMRLPRRTLCALALDVTSVGPPVAACGRRANLIGRSRAAQLCGPDRLRVAGEVHRFRTSDVSQATLASVAPVFTVYLKAVITPECLLILDYRNLNLEQWLFRELPSQLSGEGQLVTYPLPFEFRAIEALLQYWINTLQGKLSILQPLILETLDALVDPKHSSVDRSKLHILLQNGKSLSELETDIKIFKESILEILDEEELLEELCVSKWSDPQVFEKSSAGIDHAEEMELLLENYYRLADDLSNAARELRVLIDDSQSIIFINLDSHRNVMMRLNLQLTMGTFSLSLFGLMGVAFGMNLESSLEEDHRIFWLITGIMFMGSGLIWRRLLSFLGRQLEAPLPPMMASLPKKTLLADRSMELKNSLRLDGLGSGRSILTNR
+PTM	

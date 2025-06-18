@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YVR0
+Accession	A0A0J9YVR0
+EntryName	A0A0J9YVR0_HUMAN
+ProteinName	Phosphatase and actin regulator 4
+GeneName	PHACTR4
+Length	221
+Function	Regulator of protein phosphatase 1 (PP1) required for neural tube and optic fissure closure, and enteric neural crest cell (ENCCs) migration during development. Acts as an activator of PP1. During neural tube closure, localizes to the ventral neural tube and activates PP1, leading to down-regulate cell proliferation within cranial neural tissue and the neural retina. Also acts as a regulator of migration of enteric neural crest cells (ENCCs) by activating PP1, leading to repression of the integrin signaling through the rho/rock pathway.
+Subcellular Location	Cytoplasm; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	79...83
+validnes_region	
+nesbase_region	
+Sequence	MEDPFDFSREPWNKEADQPTTEPGMVLDSVEAGDTTPPTKRKSKFSGFGKIFKPWKWRKKKSSDKFKETSEVLERKISMRKPREELVKRGVLLEDPEQGGEDPGKPSDAMLKNGHTTPIGNARSSSPVQVEEEPVRLASLRKAIPEEDLKKRLGSTGSQPNSEAESVPENVPKPPLLPPKRPLSSSHEASEGQAKDATSSGGTARFIISTSITTAPAATTA
+PTM	

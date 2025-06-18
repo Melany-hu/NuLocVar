@@ -1,0 +1,25 @@
+UniprotID	O14936-3
+Accession	O14936;A6NES1;B7ZKY0;O43215;Q17RI4;Q59HA0;Q5VT16;Q5VT17;Q5VT18;Q5VT19;Q66T42;Q9BYH6;Q9NYB2;Q9NYB3
+EntryName	CSKP_HUMAN
+ProteinName	Peripheral plasma membrane protein CASK (hCASK) (EC 2.7.11.1) (Calcium/calmodulin-dependent serine protein kinase) (Protein lin-2 homolog)
+GeneName	CASK LIN2
+Length	897
+Function	Multidomain scaffolding Mg(2+)-independent protein kinase that catalyzes the phosphotransfer from ATP to proteins such as NRXN1, and plays a role in synaptic transmembrane protein anchoring and ion channel trafficking (PubMed:18423203). Contributes to neural development and regulation of gene expression via interaction with the transcription factor TBR1. Binds to cell-surface proteins, including amyloid precursor protein, neurexins and syndecans. May mediate a link between the extracellular matrix and the actin cytoskeleton via its interaction with syndecan and with the actin/spectrin-binding protein 4.1. Component of the LIN-10-LIN-2-LIN-7 complex, which associates with the motor protein KIF17 to transport vesicles containing N-methyl-D-aspartate (NMDA) receptor subunit NR2B along microtubules (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADDDVLFEDVYELCEVIGKGPFSVVRRCINRETGQQFAVKIVDVAKFTSSPGLSTEDLKREASICHMLKHPHIVELLETYSSDGMLYMVFEFMDGADLCFEIVKRADAGFVYSEAVASHYMRQILEALRYCHDNNIIHRDVKPHCVLLASKENSAPVKLGGFGVAIQLGESGLVAGGRVGTPHFMAPEVVKREPYGKPVDVWGCGVILFILLSGCLPFYGTKERLFEGIIKGKYKMNPRQWSHISESAKDLVRRMLMLDPAERITVYEALNHPWLKERDRYAYKIHLPETVEQLRKFNARRKLKGAVLAAVSSHKFNSFYGDPPEELPDFSEDPTSSGAVSQVLDSLEEIHALTDCSEKDLDFLHSVFQDQHLHTLLDLYDKINTKSSPQIRNPPSDAVQRAKEVLEEISCYPENNDAKELKRILTQPHFMALLQTHDVVAHEVYSDEALRVTPPPTSPYLNGDSPESANGDMDMENVTRVRLVQFQKNTDEPMGITLKMNELNHCIVARIMHGGMIHRQGTLHVGDEIREINGISVANQTVEQLQKMLREMRGSITFKIVPSYRTQSSSCEDLPSTTQPKGRQIYVRAQFEYDPAKDDLIPCKEAGIRFRVGDIIQIISKDDHNWWQGKLENSKNGTAGLIPSPELQEWRVACIAMEKTKQEQQASCTWFGKKKKQYKDKYLAKHNAVFDQLDLVTYEEVVKLPAFKRKTLVLLGAHGVGRRHIKNTLITKHPDRFAYPIPHTTRPPKKDEENGKNYYFVSHDQMMQDISNNEYLEYGSHEDAMYGTKLETIRKIHEQGLIAILDVEPQALKVLRTAEFAPFVVFIAAPTITPGLNEDESLQRLQKESDILQRTYAHYFDLTIINNEIDETIRHLEEAVELVCTAPQWVPVSWVY
+PTM	Acetylation:60,627,762;Methylation:20,47,105,192,232,426,506,554,651,703,704,733,738,762,825,843;Phosphorylation:49,50,51,55,56,64,182,313,314,348,353,387,394,395,403,472,475,497,504,562,564,573,575,576,577,582,584,585,589,596,600,602,616,650,774,822;Ubiquitylation:41,60,232,393,410,554,665,691,703,762,825

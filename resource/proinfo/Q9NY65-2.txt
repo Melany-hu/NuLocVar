@@ -1,0 +1,25 @@
+UniprotID	Q9NY65-2
+Accession	Q9NY65;B2RCX2;B3KPW9;B4DWG3;Q2M3N4
+EntryName	TBA8_HUMAN
+ProteinName	Tubulin alpha-8 chain (EC 3.6.5.-) (Alpha-tubulin 8) (Tubulin alpha chain-like 2) [Cleaved into: Dephenylalaninated tubulin alpha-8 chain]
+GeneName	TUBA8 TUBAL2
+Length	383
+Function	Tubulin is the major constituent of microtubules, a cylinder consisting of laterally associated linear protofilaments composed of alpha- and beta-tubulin heterodimers. Microtubules grow by the addition of GTP-tubulin dimers to the microtubule end, where a stabilizing cap forms. Below the cap, tubulin dimers are in GDP-bound state, owing to GTPase activity of alpha-tubulin.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIDLEPTVVDEVRAGTYRQLFHPEQLITGKEDAANNYARGHYTVGKESIDLVLDRIRKLTDACSGLQGFLIFHSFGGGTGSGFTSLLMERLSLDYGKKSKLEFAIYPAPQVSTAVVEPYNSILTTHTTLEHSDCAFMVDNEAIYDICRRNLDIERPTYTNLNRLISQIVSSITASLRFDGALNVDLTEFQTNLVPYPRIHFPLVTYAPIISAEKAYHEQLSVAEITSSCFEPNSQMVKCDPRHGKYMACCMLYRGDVVPKDVNVAIAAIKTKRTIQFVDWCPTGFKVGINYQPPTVVPGGDLAKVQRAVCMLSNTTAIAEAWARLDHKFDLMYAKRAFVHWYVGEGMEEGEFSEAREDLAALEKDYEEVGTDSFEEENEGEEF
+PTM	Acetylation:96,370,394,401;Glycosylation:101;Methylation:96,304,326,352,370,401,430;Phosphorylation:83,94,103,210,223,224,225,232,236,237,239,241,253,257,262,272,282,287,294,312,340,349,357,361,379,381,382,399,408,419;SUMOylation:352,370,394,401;Ubiquitylation:96,352,370,394,401

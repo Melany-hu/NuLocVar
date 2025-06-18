@@ -1,0 +1,25 @@
+UniprotID	O15374-3
+Accession	O15374;A8K3V5;B2R9C9;B4DJ67;B4DPX7;E7EPY8;G3V175;Q5T612;Q8WU09
+EntryName	MOT5_HUMAN
+ProteinName	Monocarboxylate transporter 5 (MCT 5) (Monocarboxylate transporter 4) (MCT 4) (Solute carrier family 16 member 4)
+GeneName	SLC16A4 MCT4 MCT5
+Length	319
+Function	Proton-linked monocarboxylate transporter. Catalyzes the rapid transport across the plasma membrane of many monocarboxylates such as lactate, pyruvate, branched-chain oxo acids derived from leucine, valine and isoleucine, and the ketone bodies acetoacetate, beta-hydroxybutyrate and acetate (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKREGKVQPYTKTLDGGWGWMIVIHFFLVNVFVMGMTKTFAIFFVVFQEEFEGTSEQIGWIGSIMSSLRFCAGPLVAIICDILGEKTTSILGAFVVTGGYLISSWATSIPFLCVTMGLLPGLGSAFLYQVAAVVTTKYFKKRLALSTAIARSGMGLTFLLAPFTKFLIDLYDWTGILETVSQIISGWVADQNWIKKYHYHKSYLILCGITNLLAPLATTFPLLMTYTICFAIFAGGYLALILPVLVDLCRNSTVNRFLGLASFFAGMAVLSGPPIAGWLYDYTQTYNGSFYFSGICYLLSSVSFFFVPLAERWKNSLT
+PTM	Glycosylation:204;Methylation:87,209,274;Phosphorylation:249,259,263;Ubiquitylation:211,238,244,250,274

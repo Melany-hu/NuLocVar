@@ -1,0 +1,25 @@
+UniprotID	P30566-2
+Accession	P30566;B0QY76;O75495;Q5TI34
+EntryName	PUR8_HUMAN
+ProteinName	Adenylosuccinate lyase (ADSL) (ASL) (EC 4.3.2.2) (Adenylosuccinase) (ASase)
+GeneName	ADSL AMPS
+Length	425
+Function	Catalyzes two non-sequential steps in de novo AMP synthesis: converts (S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate (SAICAR) to fumarate plus 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide, and thereby also contributes to de novo IMP synthesis, and converts succinyladenosine monophosphate (SAMP) to AMP and fumarate.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGGDHGSPDSYRSPLASRYASPEMCFVFSDRYKFRTWRQLWLWLAEAEQTLGLPITDEQIQEMKSNLENIDFKMAAEEEKRLRHDVMAHVHTFGHCCPKAAGIIHLGATSCYVGDNTDLIILRNALDLLLPKLARVISRLADFAKERASLPTLGFTHFQPAQLTTVGKRCCLWIQDLCMDLQNLKRVRDDLRFRGVKGTTGTQASFLQLFEGDDHKVEQLDKMVTEKAGFKRAFIITGQTYTRKVDIEVLSVLASLGASVHKICTDIRLLANLKEMEEPFEKQQIGSSAMPYKRNPMRSERCCSLARHLMTLVMDPLQTASVQWFERTLDDSANRRICLAEAFLTADTILNTLQNISEGLVVYPKVIERRIRQELPFMATENIIMAMVKAGGSRQVQRFLEEEVYPLLKPYESVMKVKAELCL
+PTM	Acetylation:75,82,134,147,170,224,284,295;Methylation:75,82,147,187,224,276,284,391;Phosphorylation:9,12,15,19,21,23,151,239,289,294,334,407,412,434,466,472;SUMOylation:75,170,199,218,276,284,415;Ubiquitylation:134,147,170,187,229,276,284,415,470,477

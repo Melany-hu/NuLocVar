@@ -1,0 +1,25 @@
+UniprotID	J3QRK1
+Accession	J3QRK1
+EntryName	J3QRK1_HUMAN
+ProteinName	Potassium channel tetramerization domain containing 1
+GeneName	KCTD1
+Length	260
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFQDSRPNMSRPLITRSPASPLNNQGIPTPAQLTKSNAPVHIDVGGHMYTSSLATLTKYPESRIGRLFDGTEPIVLDSLKQHYFIDRDGQMFRYILNFLRTSKLLIPDDFKDYTLLYEEAKYFQLQPMLLEMERWKQDRETGRFSRPCECLVVRVAPDLGERITLSGDKSLIEEVFPEIGDVMCNSVNAGWNHDSTHVIRFPLNGYCHLNSVQVLERLQQRGFEIVGSCGGGVDSSQFSEYVLRRELRRTPRVPSVIRIK
+PTM	

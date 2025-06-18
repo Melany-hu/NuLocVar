@@ -1,0 +1,25 @@
+UniprotID	Q16775-3
+Accession	Q16775;A8K290;B4DP33;B4DRA7;E7EN93
+EntryName	GLO2_HUMAN
+ProteinName	Hydroxyacylglutathione hydrolase, mitochondrial (EC 3.1.2.6) (Glyoxalase II) (Glx II)
+GeneName	HAGH GLO2 HAGH1
+Length	236
+Function	Thiolesterase that catalyzes the hydrolysis of S-D-lactoyl-glutathione to form glutathione and D-lactic acid.
+Subcellular Location	Mitochondrion matrix; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVGRGLLGRRSLAALGAACARRGLGPALLGVFCHTDLRKNLTVDEGTMKVEVLPALTDNYMYLVIDDETKEAAIVDPVQPQKVVDAARKHGVKLTTVLTTHHHWDHAGGNEKLVKLESGLKVYGGDDRIGALTHKITHLSTLQVTPCLWLAAGSSMKGLRMRCVKLCWRSWAGSPRTQESTVATSTPSTTSSLHATWSPAMPPSGRSWPGPRRSTASGSPQCHPPWQRSLPTTPS
+PTM	Acetylation:83,116,229,278,300;Methylation:113,122,151,229;Phosphorylation:124,142,218,223;SUMOylation:50;Ubiquitylation:113,202,229,249

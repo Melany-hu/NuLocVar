@@ -1,0 +1,25 @@
+UniprotID	O14668-2
+Accession	O14668;B2R7A3;C9JXL7;D3DWA9;Q5JT66
+EntryName	TMG1_HUMAN
+ProteinName	Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1)
+GeneName	PRRG1 PRGP1 TMG1
+Length	82
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRVFLTGEKANSILKRYPRANGFFEEIRQGNIERECKEEFCTFEEAREAFENNEKTGLVLLPRLECSCEHGSLQPQLPVPK
+PTM	Methylation:16;Phosphorylation:13,145,158,160,161,164;Ubiquitylation:66,218

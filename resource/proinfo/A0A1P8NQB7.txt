@@ -1,0 +1,25 @@
+UniprotID	A0A1P8NQB7
+Accession	A0A1P8NQB7
+EntryName	A0A1P8NQB7_HUMAN
+ProteinName	Hermansky-Pudlak syndrome 1 protein isoform
+GeneName	HPS1
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LPALEDQLSTLLAPVIISSMTMLEKLSDTYTCFSTENGNFLYVLHL
+PTM	

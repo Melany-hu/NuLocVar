@@ -1,0 +1,25 @@
+UniprotID	Q92600-2
+Accession	Q92600;B2RPI0;B5MDQ4;B7Z1E5;Q96IX4
+EntryName	CNOT9_HUMAN
+ProteinName	CCR4-NOT transcription complex subunit 9 (Cell differentiation protein RQCD1 homolog) (Rcd-1)
+GeneName	CNOT9 RCD1 RQCD1
+Length	331
+Function	Component of the CCR4-NOT complex which is one of the major cellular mRNA deadenylases and is linked to various cellular processes including bulk mRNA degradation, miRNA-mediated repression, translational repression during translational initiation and general transcription regulation. Additional complex functions may be a consequence of its influence on mRNA expression. Involved in down-regulation of MYB- and JUN-dependent transcription. May play a role in cell differentiation (By similarity). Can bind oligonucleotides, such as poly-G, poly-C or poly-T (in vitro), but the physiological relevance of this is not certain. Does not bind poly-A. Enhances ligand-dependent transcriptional activity of nuclear hormone receptors, including RARA, expect ESR1-mediated transcription that is not only slightly increased, if at all.
+Subcellular Location	Nucleus; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHSLATAAPVPTTLAQVDREKIYQWINELSSPETRENALLELSKKRESVPDLAPMLWHSFGTIAALLQEIVNIYPSINPPTLTAHQSNRVCNALALLQCVASHPETRSAFLAAHIPLFLYPFLHTVSKTRPFEYLRLTSLGVIVETGFHHVGQADLELPTSSDLPASASQSAGITGALVKTDEQEVINFLLTTEIIPLCLRIMESGSELSKTVATFILQKILLDDTGLAYICQTYERFSHVAMILGKMVLQLSKEPSARLLKHVVRCYLRLSDNPRAREALRQCLPDQLKDTTFAQVLKDDTTTKRWLAQLVKNLQEGQVTDPRGIPLPPQ
+PTM	Acetylation:44;Methylation:44,148,188,215,222,230,258,267,281;Phosphorylation:3,6,12,13,207,225;Ubiquitylation:44,222,267,281

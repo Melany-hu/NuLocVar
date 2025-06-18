@@ -1,0 +1,25 @@
+UniprotID	P15260-2
+Accession	P15260;B4DFT7;E1P587;Q53Y96
+EntryName	INGR1_HUMAN
+ProteinName	Interferon gamma receptor 1 (IFN-gamma receptor 1) (IFN-gamma-R1) (CDw119) (Interferon gamma receptor alpha-chain) (IFN-gamma-R-alpha) (CD antigen CD119)
+GeneName	IFNGR1
+Length	186
+Function	Receptor subunit for interferon gamma/INFG that plays crucial roles in antimicrobial, antiviral, and antitumor responses by activating effector immune cells and enhancing antigen presentation (PubMed:20015550). Associates with transmembrane accessory factor IFNGR2 to form a functional receptor (PubMed:10986460, PubMed:2971451, PubMed:7615558, PubMed:7617032, PubMed:7673114). Upon ligand binding, the intracellular domain of IFNGR1 opens out to allow association of downstream signaling components JAK1 and JAK2. In turn, activated JAK1 phosphorylates IFNGR1 to form a docking site for STAT1. Subsequent phosphorylation of STAT1 leads to dimerization, translocation to the nucleus, and stimulation of target gene transcription (PubMed:28883123). STAT3 can also be activated in a similar manner although activation seems weaker. IFNGR1 intracellular domain phosphorylation also provides a docking site for SOCS1 that regulates the JAK-STAT pathway by competing with STAT1 binding to IFNGR1 (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLKSPENSLLQFQFKYGVPTPTNVTIESYNMNPIVYWEYQIMPQVPVFTVEVKNYGVKNSEWIDACINISHHYCNISDHVGDPSNSLWVRVKARVGQKESAYAKSEEFAVCRDGKIGPPKLDIRKEEKQIMIDIFHPSVFVNGDEQEVDYDPETTCYIRVYNVYVRMNGSEIKRSCAFSLFSFFI
+PTM	Glycosylation:179;Methylation:64,191,318;Phosphorylation:228,286,289,293,295,298,304,311,315,327,378,379,380,383,384,387,391,396,397,399,457;SUMOylation:285;Ubiquitylation:109,115,279,285,299

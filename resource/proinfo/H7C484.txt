@@ -1,0 +1,25 @@
+UniprotID	H7C484
+Accession	H7C484
+EntryName	H7C484_HUMAN
+ProteinName	Protein ARV
+GeneName	ARV1
+Length	268
+Function	Mediator of sterol homeostasis involved in sterol uptake, trafficking and distribution into membranes.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGRSGLQQGKGNVDGVAATPTAASASCQYRCIECNQEAKELYRDYNHGVLKITICKSCQKPVDKYIEYDPVIILINAILCKAQAYRHILFNTQINIHGKLCIFCLLCEAYLRWWQLQDSNQNTAPDDLIRYAKEWDFYRMFAIAALEQTAYFIGIFTFLWVERPMTAKKKPNFILLLKALLLSSYGKLLLIPAVIWEHDYTSVCLKLIKVFVLTSNFQAIRVTLNINRKLSFLAVLSGLLLESIMVYFFQSMEWDVGSDYAIFKSQDF
+PTM	

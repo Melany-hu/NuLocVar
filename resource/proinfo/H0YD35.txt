@@ -1,0 +1,25 @@
+UniprotID	H0YD35
+Accession	H0YD35
+EntryName	H0YD35_HUMAN
+ProteinName	Choline transporter-like protein
+GeneName	SLC44A3
+Length	109
+Function	Choline transporter.
+Subcellular Location	Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QHGALSRYLFRCCYCCFWCLDKYLLHLNQNAYTTTAINGTDFCTSAKDAFKILSKNSSHFTSINCFGDFIIFLGKSFVKRSNKLNNARAQQDKHSLRNEEGTELQAIVR
+PTM	

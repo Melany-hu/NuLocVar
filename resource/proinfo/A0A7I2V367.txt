@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V367
+Accession	A0A7I2V367
+EntryName	A0A7I2V367_HUMAN
+ProteinName	Cathepsin B
+GeneName	CTSB
+Length	192
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQLWASLCCLLVLANARSRPSFHPLSDELVNYVNKRNTTWQAGHNFYNVDMSYLKRLCGTFLGGPKPPQSCNGGYPAEAWNFWTRKGLVSGGLYESHVGYNSYSVSNSEKDIMAEIYKNGPVEGAFSVYSDFLLYKSGVYQHVTGEMMGGHAIRILGWGVENGTPYWLVANSWNTDWGDNGEWLPPSCQEQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	I3L0Y6
+Accession	I3L0Y6
+EntryName	I3L0Y6_HUMAN
+ProteinName	NmrA-like family domain-containing protein 1
+GeneName	NMRAL1
+Length	188
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVDKKLVVVFGGTEIWFHHVAQAGLKLLSSRDLRASASQSVWITGAQGGSVARTLLEDGTFKVRVVTRNPRKKAAKELRLQGAEVVQGDQDDQVIMELALNGAYATFIVTNYWESCSQEQEVKQGKLLADLARRLGLHYVVYSGLENIKKLTAGRLAAAHFDGKGEVEEYFRDIGVPMTSVRLPCYFE
+PTM	

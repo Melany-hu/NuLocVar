@@ -1,0 +1,25 @@
+UniprotID	Q9Y575-2
+Accession	Q9Y575;B3KPA3;D6W5B4;D6W5B5;G8JLA9;Q2TAI4;Q53TN0;Q53TN8;Q9NVZ2
+EntryName	ASB3_HUMAN
+ProteinName	Ankyrin repeat and SOCS box protein 3 (ASB-3)
+GeneName	ASB3
+Length	445
+Function	Probable substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Recognizes TNFRSF1B (PubMed:15899873). Plays a role in the down-regulation of antiviral innate immunity by targeting MAVS for ubiquitin-proteasomal degradation (PubMed:39266719). Also destabilizes TRAF6 by enhancing its 'Lys-48'-linked polyubiquitination (PubMed:39162488).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTFEGFCALHLAASQGHWKIVQILLEAGADPNATTLEETTPLFLAVENGQIDVLRLLLQHGANVNGSHSMCGWNSLHQASFQENAEIIKLLLRKGANKECQDDFGITPLFVAAQYGKLESLSILISSGANVNCQALDKATPLFIAAQEGHTKCVELLLSSGADPDLYCNEDSWQLPIHAAAQMGHTKILDLLIPLTNRACDTGLNKVSPVYSAVFGGHEDCLEILLRNGYSPDAQACLVFGFSSPVCMAFQKDCEFFGIVNILLKYGAQINELHLAYCLKYEKFSIFRYFLRKGCSLGPWNHIYEFVNHAIKAQAKYKEWLPHLLVAGFDPLILLCNSWIDSVSIDTLIFTLEFTNWKTLAPAVERMLSARASNAWILQQHIATVPSLTHLCRLEIRSSLKSERLRSDSYISQLPLPRSLHNYLLYEDVLRMYEVPELAAIQDG
+PTM	Methylation:28,73,163,168,339;Phosphorylation:35;SUMOylation:24;Ubiquitylation:24

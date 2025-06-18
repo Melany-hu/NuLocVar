@@ -1,0 +1,25 @@
+UniprotID	Q53HV7-2
+Accession	Q53HV7;A8K2K9;O95862;Q0D2M0;Q8NB71;Q9BWC8
+EntryName	SMUG1_HUMAN
+ProteinName	Single-strand selective monofunctional uracil DNA glycosylase (EC 3.2.2.-)
+GeneName	SMUG1
+Length	177
+Function	Recognizes base lesions in the genome and initiates base excision DNA repair. Acts as a monofunctional DNA glycosylase specific for uracil (U) residues in DNA with a preference for single-stranded DNA substrates. The activity is greater toward mismatches (U/G) compared to matches (U/A). Excises uracil (U), 5-formyluracil (fU) and uracil derivatives bearing an oxidized group at C5  in ssDNA and dsDNA, but not analogous cytosine derivatives (5-hydroxycytosine and 5-formylcytosine), nor other oxidized bases. The activity is damage-specific and salt-dependent. The substrate preference is the following: ssDNA > dsDNA (G pair) = dsDNA (A pair) at low salt concentration, and dsDNA (G pair) > dsDNA (A pair) > ssDNA at high salt concentration.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPQAFLLGSIHEPAGALMEPQPCPGSLAESFLEEELRLNAELSQLQFSEPVGIIYNPVEYAWEPHRNYVTRYCQGPKEVLFLGMNPGPFGMAQTGVPFGEVSMVRDWLGIVGPVLTPPQEHPKRPVLGLECPQSEGPRQSMGHEIKSELLMGGCSWIRGKIQCDRVQVRRPGFSSQL
+PTM	

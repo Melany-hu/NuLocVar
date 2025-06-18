@@ -1,0 +1,25 @@
+UniprotID	Q9NVQ4-3
+Accession	Q9NVQ4;Q6IAN2
+EntryName	FAIM1_HUMAN
+ProteinName	Fas apoptotic inhibitory molecule 1
+GeneName	FAIM FAIM1
+Length	201
+Function	Plays a role as an inducible effector molecule that mediates Fas resistance produced by surface Ig engagement in B cells.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGDDSPIFEDDESPPYSLEKMTDLVAVWDVALSDGVHKIEFEHGTTSGKRVVYVDGKEEIRKEWMFKLVGKETFYVGAAKTKATINIDAISGFAYEYTLEINGKSLKKYMEDRSKTTNTWVLHMDGENFRIVLEKDAMDVWCNGKKLETAGEFVDDGTETHFSIGNHDCYIKAVSSGKRKEGIIHTLIVDNREIPEIAS
+PTM	Acetylation:37;Methylation:60;Phosphorylation:55;SUMOylation:18,37,95,126,160;Ubiquitylation:37,47,60,125,126,160

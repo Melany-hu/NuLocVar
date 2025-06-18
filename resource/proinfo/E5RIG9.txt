@@ -1,0 +1,25 @@
+UniprotID	E5RIG9
+Accession	E5RIG9
+EntryName	E5RIG9_HUMAN
+ProteinName	Docking protein 2
+GeneName	DOK2
+Length	151
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPTEASERCHLRGSYTLRAGESALELWGGPEPGTQLYDWPYRFLRRFGRDKVTFSFEAGRRCVSGEGNFEFETRQGNEIFLALEEAISAQKNAAPATPQPQPATIPASLPRPDSPYSRPHDSLPPPSPTTPVPAPRPRGQEGEYAVPFDA
+PTM	

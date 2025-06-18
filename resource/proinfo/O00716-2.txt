@@ -1,0 +1,25 @@
+UniprotID	O00716-2
+Accession	O00716;Q15000;Q68DT0;Q9BZ44
+EntryName	E2F3_HUMAN
+ProteinName	Transcription factor E2F3 (E2F-3)
+GeneName	E2F3 KIAA0075
+Length	334
+Function	Transcription activator that binds DNA cooperatively with DP proteins through the E2 recognition site, 5'-TTTCCGC-3' found in the promoter region of a number of genes whose products are involved in cell cycle regulation or in DNA replication. The DRTF1/E2F complex functions in the control of cell-cycle progression from G1 to S phase. E2F3 binds specifically to RB1 in a cell-cycle dependent manner. Inhibits adipogenesis, probably through the repression of CEBPA binding to its target gene promoters (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	100...105;42...47
+validnes_region	
+nesbase_region	
+Sequence	MPLQQQAKRRLELGESGHQYLSDGLKTPKGKGRAALRSPDSPKKKTRYDTSLGLLTKKFIQLLSQSPDGVLDLNKAAEVLKVQKRRIYDITNVLEGIHLIKKKSKNNVQWMGCSLSEDGGMLAQCQGLSKEVTELSQEEKKLDELIQSCTLDLKLLTEDSENQRLAYVTYQDIRKISGLKDQTVIVVKAPPETRLEVPDSIESLQIHLASTQGPIEVYLCPEETETHSPMKTNNQDHNGNIPKPASKDLASTNSGHSDCSVSMGNLSPLASPANLLQQTEDQIPSNLEGPFVNLLPPLLQEDYLLSLGEEEGISDLFDAYDLEKLPLVEDFMCS
+PTM	Acetylation:151;Methylation:121,168,188,206,212,285,311,319,374;Phosphorylation:152,163,166,169,172,267,308;Ubiquitylation:206

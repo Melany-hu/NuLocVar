@@ -1,0 +1,25 @@
+UniprotID	A5D903
+Accession	A5D903
+EntryName	A5D903_HUMAN
+ProteinName	PRB1 protein
+GeneName	PRB1
+Length	198
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLILLSVALLALSSAQNLNEDVSQEESPSLIAGNPQGPSPQGGNKPQGPPPPPGKPQGPPPQGGNKPQGPPPPGKPQGPPPQGDKSRSPRSPPGKPQGPPPQGGKPQGPPPQGGNKPQGPLPPGKPQGPPAQGGSKSQSARAPPGKPQGPPQQEGNNPQGPPPPAGGNPQQPQAPPAGQPQGPPRPPQGGRPSRPPQ
+PTM	

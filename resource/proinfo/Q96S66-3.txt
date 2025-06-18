@@ -1,0 +1,25 @@
+UniprotID	Q96S66-3
+Accession	Q96S66;O94861;Q8WYP8;Q8WYP9;Q9BU25
+EntryName	CLCC1_HUMAN
+ProteinName	Chloride channel CLIC-like protein 1 (ER anion channel 1) (ERAC1) (Mid-1-related chloride channel protein)
+GeneName	CLCC1 KIAA0761 MCLC
+Length	430
+Function	Anion-selective channel with Ca(2+)-dependent and voltage-independent gating. Permeable to small monovalent anions with selectivity for bromide > chloride > nitrate > fluoride (By similarity). Operates in the endoplasmic reticulum (ER) membrane where it mediates chloride efflux to compensate for the loss of positive charges from the ER lumen upon Ca(2+) release. Contributes to the maintenance of ER Ca(2+) pools and activation of unfolded protein response to prevent accumulation of misfolded proteins in the ER lumen. Particularly involved in ER homeostasis mechanisms underlying motor neurons and retinal photoreceptors survival (By similarity) (PubMed:25698737, PubMed:30157172, PubMed:37142673).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLCSLLLCECLLLVAGYAHDDDWIDPTDMLNYDAASGTMRKSQAKYGISGEKDVSPDLSCADEISECYHKLDSLTYKIDECEKKKREDYESQSNPVFRRYLNKILIEAGKLGLLAFAQHQAEVAKMEPLNNVCAKKMDWTGSIWEWFRSSWTYKDDPCQKYYELLLVNPIWLVPPTKALAVTFTTFVTEPLKHIGKGTGEFIKALMKEIPALLHLPVLIIMALAILSFCYGAGKSVHVLRHIGGPESEPPQALRPRDRRRQEEIDYRPDGGAGDADFHYRGQMGPTEQGPYAKTYEGRREILRERDVDLRFQTGNKSPEVLRAFDVPDAEAREHPTVVPSHKSPVLDTKPKETGGILGEGTPKESSTESSQSAKPVSGQDTSGNTEGSPAAEKAQLKSEAAGSPDQGSTYSPARGVAGPRGQDPVSSPCG
+PTM	Methylation:130,139,246,324;Phosphorylation:49,73,75,76,387,412,415,434,438,461,464,474,482,498,502,503,506,509,519,524,529,530,531,532,547,548;Ubiquitylation:45,110,130,256,257,275,414,437,470,495,514,518

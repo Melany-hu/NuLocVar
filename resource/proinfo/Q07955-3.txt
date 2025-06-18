@@ -1,0 +1,25 @@
+UniprotID	Q07955-3
+Accession	Q07955;B2R6Z7;D3DTZ3;Q13809
+EntryName	SRSF1_HUMAN
+ProteinName	Serine/arginine-rich splicing factor 1 (Alternative-splicing factor 1) (ASF-1) (Splicing factor, arginine/serine-rich 1) (pre-mRNA-splicing factor SF2, P33 subunit)
+GeneName	SRSF1 ASF SF2 SF2P33 SFRS1 OK/SW-cl.3
+Length	201
+Function	Plays a role in preventing exon skipping, ensuring the accuracy of splicing and regulating alternative splicing. Interacts with other spliceosomal components, via the RS domains, to form a bridge between the 5'- and 3'-splice site binding components, U1 snRNP and U2AF. Can stimulate binding of U1 snRNP to a 5'-splice site-containing pre-mRNA. Binds to purine-rich RNA sequences, either the octamer, 5'-RGAAGAAC-3' (r=A or G) or the decamers, AGGACAGAGC/AGGACGAAGC. Binds preferentially to the 5'-CGAGGCG-3' motif in vitro. Three copies of the octamer constitute a powerful splicing enhancer in vitro, the ASF/SF2 splicing enhancer (ASE) which can specifically activate ASE-dependent splicing. Isoform ASF-2 and isoform ASF-3 act as splicing repressors. May function as export adapter involved in mRNA nuclear export through the TAP/NXF1 pathway.
+Subcellular Location	Cytoplasm; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGGGVIRGPAGNNDCRIYVGNLPPDIRTKDIEDVFYKYGAIRDIDLKNRRGGPPFAFVEFEDPRDAEDAVYGRDGYDYDGYRLRVEFPRSGRGTGRGGGGGGGGGAPRGRYGPPSRRSENRVVVSGLPPSGSWQDLKDHMREAGDVCYADVYRDGTGVVEFVRKEDMTYAVRKLDNTKFRSHEVGYTRILFFDQNWIQWS
+PTM	Acetylation:30,38,48,138,165,174,179;Methylation:8,38,48,51,65,93,97,109,111,138,191;Phosphorylation:2,19,29,37,72,77,116,119,133,149,157,170,187,189,199,201,202,205,207,211,221,223,225,226,227,231,234,237,238,242,244;SUMOylation:30,38,174,179;Ubiquitylation:30,38,48,138,165,174,179,193

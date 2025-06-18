@@ -1,0 +1,25 @@
+UniprotID	H3BQ54
+Accession	H3BQ54
+EntryName	H3BQ54_HUMAN
+ProteinName	Pyridoxal dependent decarboxylase domain containing 1
+GeneName	PDXDC1 LOC124900586
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSILEGCRREVRRETWKPGPGSEAAGKSLVNNPPGILPPSPAHVREGRRGAQIADPTLAEMGKNLKEAVKMLEDSQRRTEEENGKKLISGDIPGPLQGSGQDMVSILQLVQNLMHGDEDEEPQSPRIQNIGEQGHMALLGHSLGAYISTLDKEKLRKLTTRILSDTTLWLCRIFRYENGCAYFHE
+PTM	

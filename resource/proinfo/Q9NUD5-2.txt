@@ -1,0 +1,25 @@
+UniprotID	Q9NUD5-2
+Accession	Q9NUD5;Q3B7J3;Q6NT79
+EntryName	ZCHC3_HUMAN
+ProteinName	Zinc finger CCHC domain-containing protein 3
+GeneName	ZCCHC3 C20orf99
+Length	239
+Function	Nucleic acid-binding protein involved in innate immune response to DNA and RNA viruses (PubMed:30135424, PubMed:30193849). Binds DNA and RNA in the cytoplasm and acts by promoting recognition of viral nucleic acids by virus sensors, such as RIGI, IFIH1/MDA5 and CGAS (PubMed:30135424, PubMed:30193849). Acts as a co-sensor for recognition of double-stranded DNA (dsDNA) by cGAS in the cytoplasm, thereby playing a role in innate immune response to cytosolic dsDNA and DNA virus (PubMed:30135424). Binds dsDNA and probably acts by promoting sensing of dsDNA by CGAS, leading to enhance CGAS oligomerization and activation (PubMed:30135424). Promotes sensing of viral RNA by RIGI-like receptors proteins RIGI and IFIH1/MDA5 via two mechanisms: binds double-stranded RNA (dsRNA), enhancing the binding of RIGI and IFIH1/MDA5 to dsRNA and promotes 'Lys-63'-linked ubiquitination and subsequent activation of RIGI and IFIH1/MDA5 (PubMed:30193849).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGGGAEEERKRGRPQLLPPARPAARGEEADGGREKMGWAQVVKNLADVSFRSAEKLALFLRVYEEKREQEDCWENFVVLGRSKSSLKTLFILFRNETVDVEDIVTWLKRHCDVLAVPVKVTDRFGIWTGEYKCEIELRQGEGGVRHLPGAFFLGAERGYSWYKGQPKTCFKCGSRTHMSGSCTQDRCFRCGEEGHLSPYCRKGIVCNLCGKRGHAFAQCPKAVHNSVAAQLTGVAGH
+PTM	Methylation:94,274,285,352,368;Phosphorylation:201,363;SUMOylation:12;Ubiquitylation:274,329,337,377,387

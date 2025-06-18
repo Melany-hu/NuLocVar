@@ -1,0 +1,25 @@
+UniprotID	H7C559
+Accession	H7C559
+EntryName	H7C559_HUMAN
+ProteinName	Protein phosphatase 4 regulatory subunit 2
+GeneName	PPP4R2
+Length	143
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGPGTPRPLNRPKVSLSAPMTTNGLPESTDSKEANLQQNEEKNHSDSSTSESEVSSVSPLKNKHPDEDAVEAEGHEVKRLRFDKEGEVRETASQTTSSEISSVMVGETEASSSSQDKDKDSRCTRQHCTEEDEEEDEEEEEGI
+PTM	

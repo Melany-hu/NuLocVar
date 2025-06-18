@@ -1,0 +1,25 @@
+UniprotID	P17707-2
+Accession	P17707;E1P5F7;Q5VXN4;Q5VXN6;Q9BWK4
+EntryName	DCAM_HUMAN
+ProteinName	S-adenosylmethionine decarboxylase proenzyme (AdoMetDC) (SAMDC) (EC 4.1.1.50) [Cleaved into: S-adenosylmethionine decarboxylase alpha chain; S-adenosylmethionine decarboxylase beta chain]
+GeneName	AMD1 AMD
+Length	186
+Function	Essential for biosynthesis of the polyamines spermidine and spermine. Promotes maintenance and self-renewal of embryonic stem cells, by maintaining spermine levels.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRMNSDCWYLYTLDFPESRVISQPDQTLEILMSELDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFNPCGYSMNGMKSDGTYWTIHITPEPEFSYVSFETNLSQTSYDDLIRKVVEVFKPGKFVTTLFVNQSSKCRTVLASPQKIEGFKRLDCQSAMFNDYNFVFTSFAKKQQQQQS
+PTM	Methylation:45,89,270;Phosphorylation:298;SUMOylation:291,301;Ubiquitylation:45,96,201,291,301,306

@@ -1,0 +1,25 @@
+UniprotID	O15259-2
+Accession	O15259;O14837
+EntryName	NPHP1_HUMAN
+ProteinName	Nephrocystin-1 (Juvenile nephronophthisis 1 protein)
+GeneName	NPHP1 NPH1
+Length	677
+Function	Together with BCAR1 it may play a role in the control of epithelial cell polarity (By similarity). Involved in the organization of apical junctions in kidney cells together with NPHP4 and RPGRIP1L/NPHP8 (By similarity). Does not seem to be strictly required for ciliogenesis (By similarity). Seems to help to recruit PTK2B/PYK2 to cell matrix adhesions, thereby initiating phosphorylation of PTK2B/PYK2 and PTK2B/PYK2-dependent signaling (By similarity). May play a role in the regulation of intraflagellar transport (IFT) during cilia assembly. Required for normal retina development (By similarity). In connecting photoreceptor cilia influences the movement of some IFT proteins such as IFT88 and WDR19. Involved in spermatogenesis (By similarity).
+Subcellular Location	Cell junction; Cell junction; Adherens junction; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Cilium axoneme; Cell junction; Tight junction
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	41...45
+validnes_region	
+nesbase_region	
+Sequence	MLARRQRDPLQALRRRNQELKQQVDSLLSESQLKEALEPNKRQHIYQRCIQLKQAIDENKNALQKLSKADESAPVANYNQRKEEEHTLLDKLTQQLQGLAVTISRENITEVGAPTEEEEESESEDSEDSGGEEEDAEEEEEEKEENESHKWSTGEEYIAVGDFTAQQVGDLTFKKGEILLVIEKKPDGWWIAKDAKGNEGLVPRTYLEPYSEEEEGQESSEEGSEEDVEAVDETADGAEVKQRTDPHWSAVQKAISEQINTVDVLTTMGAIPAGFRPSTLSQLLEEGNQFRANYFLQPELMPSQLAFRDLMWDATEGTIRSRPSRISLILTLWSCKMIPLPGMSIQVLSRHVRLCLFDGNKVLSNIHTVRATWQPKKPKTWTFSPQVTRILPCLLDGDCFIRSNSASPDLGILFELGISYIRNSTGERGELSCGWVFLKLFDASGVPIPAKTYELFLNGGTPYEKGIEVDPSISRRAHGSVFYQIMTMRRQPQLLVKLRSLNRRSRNVLSLLPETLIGNMCSIHLLIFYRQILGDVLLKDRMSLQSTDLISHPMLATFPMLLEQPDVMDALRSSWAGKESTLKRSEKRDKEFLKSTFLLVYHDCVLPLLHSTRLPPFRWAEEETETARWKVITDFLKQNQENQGALQALLSPDGVHEPFDLSEQTYDFLGEMRKNAV
+PTM	Methylation:21,65,91,253,309,552,594,638,649,692;Phosphorylation:439,487;Ubiquitylation:431

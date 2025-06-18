@@ -1,0 +1,25 @@
+UniprotID	I3L3Y3
+Accession	I3L3Y3
+EntryName	I3L3Y3_HUMAN
+ProteinName	Golgi apparatus membrane protein TVP23 homolog
+GeneName	TVP23A
+Length	150
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VMVLLLLSLDFWSVKNVTGRLLVGLRWWNQIDEDGKSHWIFEARKVSPNSIAATEAEARIFWLGLIICPMIWIVFFFSTLFSLKLKWLALVVAGISLQAANLYGYILCKMGGNSDIGKVTASFLSQTVFQTACPGDFQKPGLEGLEIHQH
+PTM	

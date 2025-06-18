@@ -1,0 +1,25 @@
+UniprotID	Q86YJ0
+Accession	Q86YJ0
+EntryName	Q86YJ0_HUMAN
+ProteinName	Calcipressin-2 (Regulator of calcineurin 2)
+GeneName	RCAN2
+Length	225
+Function	Inhibits calcineurin-dependent transcriptional responses by binding to the catalytic domain of calcineurin A. Could play a role during central nervous system development.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAPSMDCDVSTLVACVVDVEVFTNQEVKEKFEGLFRTYDDCVTFQLFKSFRRVRINFSNPKSAARARIELHETQFRGKKLKLYFAQVQTPETDGDKLHLAPPQPAKQFLISPPSSPPVGWQPINDATPVLNYDLLYAVAKLGPGEKYELHAGTESTPSVVVHVCDSDIEEEEDPKTSPKPKIIQTRRPGLPPSVSNWAACSFSIIAVSSLSCFFPLLFVKKNCL
+PTM	

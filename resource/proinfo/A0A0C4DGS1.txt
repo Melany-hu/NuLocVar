@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DGS1
+Accession	A0A0C4DGS1
+EntryName	A0A0C4DGS1_HUMAN
+ProteinName	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit (Oligosaccharyl transferase 48 kDa subunit)
+GeneName	DDOST
+Length	439
+Function	Subunit of the oligosaccharyl transferase (OST) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol-pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation. N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER). All subunits are required for a maximal enzyme activity. Required for the assembly of both SST3A- and SS3B-containing OST complexes.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPSTAARAWALFWLLLPLLGAVCASGPRTLVLLDNLNVRETHSLFFRSLKDRGFELTFKTADDPSLSLIKYGEFLYDNLIIFSPSVEDFGGNINVETISAFIDGGGSVLVAASSDIGDPLRELGSECGIEFDEEKTAVIDHHNYDISDLGQHTLIVADTENLLKAPTIVGKSSLNPILFRGVGMVADPDNPLVLDILTGSSTSYSFFPDKPITQYPHAVGKNTLLIAGLQARNNARVIFSGSLDFFSDSFFNSAVQKAAPGSQRYSQTGNYELAVALSRWVFKEEGVLRVGPVSHHRVGETAPPNAYTVTDLVEYSIVIQQLSNGKWVPFDGDDIQLEFVRIDPFVRTFLKKKGGKYSVQFKLPDVYGVFQFKVDYNRLGYTHLYSSTQVSVRPLQHTQYERFIPSAYPYYASAFSMMLGLFIFSIVFLHMKEKEKSD
+PTM	

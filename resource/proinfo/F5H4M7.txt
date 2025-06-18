@@ -1,0 +1,25 @@
+UniprotID	F5H4M7
+Accession	F5H4M7
+EntryName	F5H4M7_HUMAN
+ProteinName	Transmembrane p24 trafficking protein 3
+GeneName	TMED3
+Length	155
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Golgi apparatus; cis-Golgi network membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSTVPRSASVLLLLLLLRRAEQPCGAELTFELPDNAKQCFHEEVEQGVKFSLDYQVITGGHYDVDCYVEDPQGNTIYRETKKQYDSFTYRAEVKGVYQFCFSNEFSTFSHKTVYFDFQVGDEPPILPDMGNRVTALTQGPSASPTPTPPLRVPV
+PTM	

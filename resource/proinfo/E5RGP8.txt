@@ -1,0 +1,25 @@
+UniprotID	E5RGP8
+Accession	E5RGP8
+EntryName	E5RGP8_HUMAN
+ProteinName	Synaptosome associated protein 91
+GeneName	SNAP91
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGQTLTDRIAAAQYSVTGSAVARAVCKATTHEVMGPKKKHLDYLQTFFQQVLPNFEI
+PTM	

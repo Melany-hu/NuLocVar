@@ -1,0 +1,25 @@
+UniprotID	C9JD53
+Accession	C9JD53
+EntryName	C9JD53_HUMAN
+ProteinName	Isopentenyl-diphosphate delta isomerase 1
+GeneName	IDI1
+Length	120
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELDLFLGLDDVFPRLLHGLLHRAFSVFLFNTENKLLLQQRSDAKITFPGCFTNTCCSHPLSNPAELEESDALGVRRAAQRRLKAELGIPLEEVTSSPTQPYKLKPKHTIKRFLIKFLNS
+PTM	

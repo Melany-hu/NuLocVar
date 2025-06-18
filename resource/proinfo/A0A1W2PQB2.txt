@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PQB2
+Accession	A0A1W2PQB2
+EntryName	A0A1W2PQB2_HUMAN
+ProteinName	Potassium channel tetramerization domain containing 7
+GeneName	KCTD7
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XHLERIVEIARLRAVQRKARFAKLKVCVFKEEMPITPYECPLLNSLRFERSESDGQLFEHHCEVDVSFGPWEAVADVYDLLHCLVTDLSAQGLTVDHQCIGVCDKHLVNHYYCKRPIYEFKITWWLPSAYHAESSQLYSGSFCSSFLGLRIFWELSEPCA
+PTM	

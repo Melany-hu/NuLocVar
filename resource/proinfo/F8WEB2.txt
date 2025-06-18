@@ -1,0 +1,25 @@
+UniprotID	F8WEB2
+Accession	F8WEB2
+EntryName	F8WEB2_HUMAN
+ProteinName	Dipeptidyl peptidase like 10
+GeneName	DPP10
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKVESRGEGGREMNSQIRQKPDCLWKTSLGKTLCFTIQRLGGSMIQMWCIKARMDMSLN
+PTM	

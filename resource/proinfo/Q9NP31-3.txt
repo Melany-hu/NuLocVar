@@ -1,0 +1,25 @@
+UniprotID	Q9NP31-3
+Accession	Q9NP31;O43817;Q5UBZ1;Q5VZS4;Q5VZS5;Q9UPA7
+EntryName	SH22A_HUMAN
+ProteinName	SH2 domain-containing protein 2A (SH2 domain-containing adapter protein) (T cell-specific adapter protein) (TSAd) (VEGF receptor-associated protein)
+GeneName	SH2D2A SCAP TSAD VRAP
+Length	361
+Function	Could be a T-cell-specific adapter protein involved in the control of T-cell activation. May play a role in the CD4-p56-LCK-dependent signal transduction pathway. Could also play an important role in normal and pathological angiogenesis. Could be an adapter protein that facilitates and regulates interaction of KDR with effector proteins important to endothelial cell survival and proliferation.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTRRSCQNLGYTAASPQAPEAASNTGNAERAEEVPGEGSLFLQAETRAWFQKTQAHWLLQHGAAPAWFHGFITRREAERLLEPKPQGCYLVRFSESAVTFVLTYRSRTCCRHFLLAQLRDGRHVVLGEDSAHARLQDLLLHYTAHPLSPYGETLTEPLARQTPEPAGLSLRTEESNFGSKSQDPNPQYSPIIKQGQAPVPMQKEGAGEKEPSQLLRPKPPIPAKPQLPPEVYTIPVPRHRPAPRPKPSNPIYNEPDEPIAFYAMGRGSPGEAPSNIYVEVEDEGLPATLGHPVLRKSWSRPVPGGQNTGGSQLHSENSVIGQGPPLPHQPPPAWRHTLPHNLSRQVLQDRGQAWLPLGPPQ
+PTM	Methylation:294,324;Phosphorylation:178,209,216,217,260,276,280,290,296,305,365,371;SUMOylation:221;Ubiquitylation:208

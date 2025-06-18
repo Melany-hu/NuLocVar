@@ -1,0 +1,25 @@
+UniprotID	G3XA83
+Accession	G3XA83
+EntryName	G3XA83_HUMAN
+ProteinName	Beta-1,4-galactosyltransferase (Beta-1,4-GalTase) (EC 2.4.1.-)
+GeneName	B4GALT6 hCG_25475
+Length	343
+Function	Responsible for the synthesis of complex-type N-linked oligosaccharides in many glycoproteins as well as the carbohydrate moieties of glycolipids.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVLRRMMRVSNRSLLAFIFFFSLSSSCLYFIYVAPGIDYPEGNNSSDYLVQTTTYLPENFTYSPYLPCPEKLPYMRGFLNVNVSEVSFDEIHQLFSKDLDIEPGGHWRPKDCKPRWKVAVLIPFRNRHEHLPIFFLHLIPMLQKQRLEFAFYVIEQTGTQPFNRAMLFNVGFKEAMKDSVWDCVIFHDVDHLPENDRNYYGCGEMPRHFAAKLDKYMYILPYKEFFGGVSGLTVEQFRKINGFPNAFWGWGGEDDDLWNRVHYAGYNVTRPEGDLGKYKSIPHHHRGEVQFLGRYKLLRYSKERQYIDGLNNLIYRPKILVDRLYTNISVNLMPELAPIEDY
+PTM	

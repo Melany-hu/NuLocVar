@@ -1,0 +1,25 @@
+UniprotID	Q01831-2
+Accession	Q01831;B4DIP3;E9PB96;E9PH69;Q53GT7;Q96AX0
+EntryName	XPC_HUMAN
+ProteinName	DNA repair protein complementing XP-C cells (Xeroderma pigmentosum group C-complementing protein) (p125)
+GeneName	XPC XPCC
+Length	903
+Function	Involved in global genome nucleotide excision repair (GG-NER) by acting as damage sensing and DNA-binding factor component of the XPC complex (PubMed:10734143, PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19609301, PubMed:19941824, PubMed:20028083, PubMed:20649465, PubMed:20798892, PubMed:9734359). Has only a low DNA repair activity by itself which is stimulated by RAD23B and RAD23A. Has a preference to bind DNA containing a short single-stranded segment but not to damaged oligonucleotides (PubMed:10734143, PubMed:19609301, PubMed:20649465). This feature is proposed to be related to a dynamic sensor function: XPC can rapidly screen duplex DNA for non-hydrogen-bonded bases by forming a transient nucleoprotein intermediate complex which matures into a stable recognition complex through an intrinsic single-stranded DNA-binding activity (PubMed:10734143, PubMed:19609301, PubMed:20649465). The XPC complex is proposed to represent the first factor bound at the sites of DNA damage and together with other core recognition factors, XPA, RPA and the TFIIH complex, is part of the pre-incision (or initial recognition) complex (PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19941824, PubMed:20028083, PubMed:20798892, PubMed:9734359). The XPC complex recognizes a wide spectrum of damaged DNA characterized by distortions of the DNA helix such as single-stranded loops, mismatched bubbles or single-stranded overhangs (PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19941824, PubMed:20028083, PubMed:20798892, PubMed:9734359). The orientation of XPC complex binding appears to be crucial for inducing a productive NER (PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19941824, PubMed:20028083, PubMed:20798892, PubMed:9734359). XPC complex is proposed to recognize and to interact with unpaired bases on the undamaged DNA strand which is followed by recruitment of the TFIIH complex and subsequent scanning for lesions in the opposite strand in a 5'-to-3' direction by the NER machinery (PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19941824, PubMed:20028083, PubMed:20798892, PubMed:9734359). Cyclobutane pyrimidine dimers (CPDs) which are formed upon UV-induced DNA damage esacpe detection by the XPC complex due to a low degree of structural perurbation. Instead they are detected by the UV-DDB complex which in turn recruits and cooperates with the XPC complex in the respective DNA repair (PubMed:10873465, PubMed:12509299, PubMed:12547395, PubMed:19941824, PubMed:20028083, PubMed:20798892, PubMed:9734359). In vitro, the XPC:RAD23B dimer is sufficient to initiate NER; it preferentially binds to cisplatin and UV-damaged double-stranded DNA and also binds to a variety of chemically and structurally diverse DNA adducts (PubMed:20028083). XPC:RAD23B contacts DNA both 5' and 3' of a cisplatin lesion with a preference for the 5' side. XPC:RAD23B induces a bend in DNA upon binding. XPC:RAD23B stimulates the activity of DNA glycosylases TDG and SMUG1 (PubMed:20028083).
+Subcellular Location	Nucleus; Chromosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	390..395
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	54...59
+validnes_region	
+nesbase_region	
+Sequence	MARKRAAGGEPRGRELRSQKSKAKSKARREEEEEDAFEDEKPPKKSLLSKVSQGKRKRGCSHPGGSADGPAKKKVAKVTVKSENLKVIKDEALSDGDDLRDFPSDLKKAHHLKRGATMNEDSNEEEEESENDWEEAKTRERSEKIKLEFETYLRRAMKRFNKGVHEDTHKVHLLCLLANGFYRNNICSQPDLHAIGLSIIPARFTRVLPRDVDTYYLSNLVKWFIGTFTVNAELSASEQDNLQTTLERRFAIYSARDDEELVHIFLLILRALQLLTRLVLSLQPIPLKSATAKGKKPSKERLTADPGGSSETSSQVLENHTKPKTSKGTKQEETFAKGTCRPSAKGKRNKGGRKKRSKPSSSEEDEGPGDKQEKATQRRPHGRERRVASRVSYKEESGSDEAGSGSDFELSSGEASDPSDEDSEPGPPKQRKAPAPQRTKAGSKSASRTHRGSHRKDPSLPAASSSSSSSKRGKKMCSDGEKAEKRSIAGIDQWLEVFCEQEEKWVCVDCVHGVVGQPLTCYKYATKPMTYVVGIDSDGWVRDVTQRYDPVWMTVTRKCRVDAEWWAETLRPYQSPFMDREKKEDLEFQAKHMDQPLPTAIGLYKNHPLYALKRHLLKYEAIYPETAAILGYCRGEAVYSRDCVHTLHSRDTWLKKARVVRLGEVPYKMVKGFSNRARKARLAEPQLREENDLGLFGYWQTEEYQPPVAVDGKVPRNEFGNVYLFLPSMMPIGCVQLNLPNLHRVARKLDIDCVQAITGFDFHGGYSHPVTDGYIVCEEFKDVLLTAWENEQAVIERKEKEKKEKRALGNWKLLAKGLLIRERLKRRYGPKSEAAAPHTDAGGGLSSDEEEGTSSQAEAARILAASWPQNREDEEKQKLKGGPKKTKREKKAAASHLFPFEQL
+PTM	Acetylation:20,22,24,26,50,72,81,161,359,367,374,650;Methylation:41,50,58,81,86,259,650,853;Phosphorylation:46,61,66,94,104,117,122,129,140,156,169,291,340,346,347,349,350,351,358,394,397,398,399,426,429,430,496,501,504,506,507,515,585,676,865,869,876,883,884,890,891,892,903;SUMOylation:41,81,89,161,174,183,361,364,367,560,619,620,750,913;Ubiquitylation:45,50,81,86,161,174,181,183,359,361,364,367,374,508,619,620,650,692,705,708,750,853

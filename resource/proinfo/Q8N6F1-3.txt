@@ -1,0 +1,25 @@
+UniprotID	Q8N6F1-3
+Accession	Q8N6F1;B7Z5I2;F5H5P9;Q5QT57;Q8N8X0
+EntryName	CLD19_HUMAN
+ProteinName	Claudin-19
+GeneName	CLDN19
+Length	218
+Function	Forms paracellular channels: coassembles with CLDN16 into tight junction strands with cation-selective channels through the strands, conveying epithelial permeability in a process known as paracellular tight junction permeability (PubMed:18188451, PubMed:28028216). Involved in the maintenance of ion gradients along the nephron. In the thick ascending limb (TAL) of Henle's loop, facilitates sodium paracellular permeability from the interstitial compartment to the lumen, contributing to the lumen-positive transepithelial potential that drives paracellular magnesium and calcium reabsorption (By similarity) (PubMed:17033971, PubMed:25555744). Forms paracellular barriers on its own. In the peripheral nervous system, represents a major constituent of the tight junctions in Schwann cells and contributes to electrical sealing. During retinal neurogenesis, may regulate the barrier properties of tight junctions in retinal pigment epithelium, required for proper retinal tissue differentiation and vision (By similarity) (PubMed:17033971, PubMed:30937396).
+Subcellular Location	Cell junction; Tight junction; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANSGLQLLGYFLALGGWVGIIASTALPQWKQSSYAGDAIITAVGLYEGLWMSCASQSTGQVQCKLYDSLLALDGHIQSARALMVVAVLLGFVAMVLSVVGMKCTRVGDSNPIAKGRVAIAGGALFILAGMNLAQPCSWAGPQLAWPCWAAPSSAAHARSQRDPTAAHSPIGLDPLLLPESTSELRLPWPAPHPVAPLPSIQPASQHPGQGHWGIGWA
+PTM	Methylation:65,115;SUMOylation:115

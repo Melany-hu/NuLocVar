@@ -1,0 +1,25 @@
+UniprotID	K7ELB9
+Accession	K7ELB9
+EntryName	K7ELB9_HUMAN
+ProteinName	Fibroblast growth factor (FGF)
+GeneName	FGF22
+Length	165
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRRLWLGLAWLLLARAPDAAGTPSASRGPRSYPHLEGDVRWRRLFSSTHFFLRVDPGGRVQGTRWRHGQDSILEIRSVHVGVVVIKAVSSGFYVAMNRRGRLYGSVPGAHRRERPQHLRLTALAPPRPAHVPGAGQEGGAPARRPDAAVPPVRPLPARPGLLRP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99489-2
+Accession	Q99489;A8KAG4;Q5JXM4;Q5JXM5;Q5JXM6;Q8N552
+EntryName	OXDD_HUMAN
+ProteinName	D-aspartate oxidase (DASOX) (DASPO) (DDO) (EC 1.4.3.1)
+GeneName	DDO
+Length	282
+Function	Selectively catalyzes the oxidative deamination of acidic amino acids (PubMed:1991137, PubMed:20603179, PubMed:23391306, PubMed:25747990, PubMed:28393897, PubMed:28560262, PubMed:28629864, PubMed:29292239, PubMed:31914658, PubMed:32553892, PubMed:9163533). Suppresses the level of D-aspartate in the brain, an amino acid that can act as an agonist for glutamate receptors (PubMed:28560262). Protects the organism from the toxicity of D-amino acids (By similarity). May also function in the intestine (By similarity).
+Subcellular Location	Peroxisome matrix; Cytoplasm; Cytosol; Peroxisome matrix; Peroxisome matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTARIAVVGAGVVGLSTAVCISKLVPRCSVTIISDKFTPDTTSDVAAGMLIPHTYPDTPIHTQKQWFRETFNHLFAIANSAEAGDAGVHLVSGIKGSGGWTLTRRIEDLWELHPSFDIVVNCSGLGSRQLAGDSKIFPVRGQVLQVQAPWVEHFIRDGSGLTYIYPGTSHVTLGGTRQKGDWNLSPDAENSREILSRCCALEPSLHGACNIREKVGLRPYRPGVRLQTELLARDGQRLPVVHHYGHGSGGISVHWGTALEAARLVSECVHALRTPIPKSNL
+PTM	Methylation:125;Phosphorylation:256;SUMOylation:155

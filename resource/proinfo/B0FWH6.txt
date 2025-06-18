@@ -1,0 +1,25 @@
+UniprotID	B0FWH6
+Accession	B0FWH6
+EntryName	B0FWH6_HUMAN
+ProteinName	Sex hormone-binding globulin (Sex steroid-binding protein) (Testis-specific androgen-binding protein)
+GeneName	SHBG
+Length	206
+Function	Functions as an androgen transport protein, but may also be involved in receptor mediated processes. Each dimer binds one molecule of steroid. Specific for 5-alpha-dihydrotestosterone, testosterone, and 17-beta-estradiol. Regulates the plasma metabolic clearance rate of steroid hormones by controlling their plasma concentration.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	WALRPVLPTQSAHDPPAVHLSNGPGQEPIAVMTFDLTKITKTSSSFEVRTWDPEGVIFYGDTNPKDDWFMLGLRDGRPEIQLHNHWAQLTVGAGPRLDDGRWHQLVPALDGCLRRDSWLDKQAEISASAPTSLRSCDVESNPGIFLPPGTQAEFNLRGEDSSTSFCLNGLWAQGQRLDVDQALNRSHEIWTHSCPQSPGNGTDASH
+PTM	

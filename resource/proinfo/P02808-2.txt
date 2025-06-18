@@ -1,0 +1,25 @@
+UniprotID	P02808-2
+Accession	P02808;A6NKE9;B2R4F8
+EntryName	STAT_HUMAN
+ProteinName	Statherin
+GeneName	STATH
+Length	52
+Function	Salivary protein that stabilizes saliva supersaturated with calcium salts by inhibiting the precipitation of calcium phosphate salts. It also modulates hydroxyapatite crystal formation on the tooth surface.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFLVFAFILALMVSMIGADSSEEYGYGPYQPVPEQPLYPQPYQPQYQQYTF
+PTM	

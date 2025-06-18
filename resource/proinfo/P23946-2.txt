@@ -1,0 +1,25 @@
+UniprotID	P23946-2
+Accession	P23946;B5BUM8;Q16018;Q3SY36;Q3SY37;Q9UDH5
+EntryName	CMA1_HUMAN
+ProteinName	Chymase (EC 3.4.21.39) (Alpha-chymase) (Mast cell protease I)
+GeneName	CMA1 CYH CYM
+Length	136
+Function	Major secreted protease of mast cells with suspected roles in vasoactive peptide generation, extracellular matrix degradation, and regulation of gland secretion.
+Subcellular Location	Secreted; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLKLKEKASLTLAVGTLPFPSQFNFVPPGRMCRVAGWGRTGVLKPGSDTLQEVKLRLMDPQACSHFRDFDHNLQLCVGNPRKTKSAFKGDSGGPLLCAGVAQGIVSYGRSDAKPPAVFTRISHYRPWINQILQAN
+PTM	Acetylation:95,196;Glycosylation:80,103;Methylation:95,156;Phosphorylation:38

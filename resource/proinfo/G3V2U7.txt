@@ -1,0 +1,25 @@
+UniprotID	G3V2U7
+Accession	G3V2U7
+EntryName	G3V2U7_HUMAN
+ProteinName	Acylphosphatase (EC 3.6.1.7)
+GeneName	ACYP1
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPASARLAGAGLLLAFLRALGCAGRAPGLSMAEGNTLISVDYEIFGKVQGVFFRKHTQAEGKKLGLVGWVQNTDRGTVQGQLQGPISKVRHMQEWLETRGSPKSHIDKANFNNEKVILKLDYSDFQIVK
+PTM	

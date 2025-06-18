@@ -1,0 +1,25 @@
+UniprotID	H7C4N2
+Accession	H7C4N2
+EntryName	H7C4N2_HUMAN
+ProteinName	Plastin-3 (T-plastin)
+GeneName	PLS3
+Length	190
+Function	Actin-bundling protein.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFKLCFVELSTQPEFMLTDSKAYFHLLNQIAPKGQKEGEPRIDINMSGFNETDDLKRAESMLQQADKLGCRQFVTPADVVSGNPKLNLAFVANLFNKYPALTKPENQDIDWTLLEGETREERTFRNWMNSLGVNPHVNHLYADLQDALVILQLYERIKVPVDWSKVNKPPYPKLGANMKKLENCNYAVEL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O60266-2
+Accession	O60266;B3KT86;Q53T54;Q9UDB1
+EntryName	ADCY3_HUMAN
+ProteinName	Adenylate cyclase type 3 (EC 4.6.1.1) (ATP pyrophosphate-lyase 3) (Adenylate cyclase type III) (AC-III) (Adenylate cyclase, olfactive type) (Adenylyl cyclase 3) (AC3)
+GeneName	ADCY3 KIAA0511
+Length	731
+Function	Catalyzes the formation of the signaling molecule cAMP in response to G-protein signaling. Participates in signaling cascades triggered by odorant receptors via its function in cAMP biosynthesis: specifically activated by G alpha protein GNAL/G(olf) in olfactory epithelium. Required for normal sperm motility and normal male fertility. Plays a role in regulating insulin levels and body fat accumulation in response to a high fat diet.
+Subcellular Location	Cell membrane; Cytoplasm; Cell projection; Cilium; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLAMVEAISYVREKTKTGVDMRVGVHTGTVLGGVLGQKRWQYDVWSTDVTVANKMEAGGIPGGSKIEERLYSCVVAPTLRLRWERVHISQSTMDCLKGEFDVEPGDGGSRCDYLEEKGIETYLIIASKPEVKKTATQNGLNGSALPNGAPASSKSSSPALIETKEPNGSAHSSGSTSEKPEEQDAQADNPSFPNPRRRLRLQDLADRVVDASEDEHELNQLLNEALLERESAQVVKKRNTFLLSMRFMDPEMETRYSVEKEKQSGAAFSCSCVVLLCTALVEILIDPWLMTNYVTFMVGEILLLILTICSLAAIFPRAFPKKLVAFSTWIDRTRWARNTWAMLAIFILVMANVVDMVSHMVKLTLMLLVAGAVATINLYAWRPVFDEYDHKRFREHDLPMVALEQMQGFNPGLNGTDRLPLVPSKYSMTVMVFLMMLSFYYFSRHVEKLARTLFLWKIEVHDQKERVYEMRRWNEALVTNMLPEHVARHFLGSKKRDEELYSQTYDEIGVMFASLPNFADFYTEESINNGGIECLRFLNEIISDFDSLLDNPKFRVITKIKTIGSTYMAASGVTPDVNTNGFASSNKEDKSERERWQHLADLADFALAMKDTLTNINNQSFNNFMLRIGMNKGGVLAGVIGARKPHYDIWGNTVNVASRMESTGVMGNIQVVEETQVILREYGFRFVRRGPIFVKGKGELLTFFLKGRDKLATFPNGPSVTLPHQVVDNS
+PTM	Acetylation:1120;Methylation:30,34,51,218,265,293,342,428,444,485,1109,1120;Phosphorylation:39,520,523,524,525,580,695,1005;Ubiquitylation:71,253,293,353,406,428,501,604,628,878,908,973,1046,1109,1111

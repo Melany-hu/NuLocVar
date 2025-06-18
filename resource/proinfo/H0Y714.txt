@@ -1,0 +1,25 @@
+UniprotID	H0Y714
+Accession	H0Y714
+EntryName	H0Y714_HUMAN
+ProteinName	IMP U3 small nucleolar ribonucleoprotein 4
+GeneName	IMP4
+Length	280
+Function	Component of the 60-80S U3 small nucleolar ribonucleoprotein (U3 snoRNP). Required for the early cleavages during pre-18S ribosomal RNA processing. Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted degradation of pre-ribosomal RNA by the RNA exosome.
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSKCLPAVFLAHWVLLLVLRVFLPCDENRLIPTELRREALALQGSLEFDDAGGEGVTSHVDDEYRWAGVEDPKVMITTSRDPSSRLKMFAKELKLVFPGAQRMNRGRHEVGALVRACKANGVTDLLVVHEHRGTPVGLIVSHLPFGPTAYFTLCNVVMRHDIPDLGTMSEAKPHLITHGFSSRLGKRVSDILRYLFPVPKDDSHRVITFANQDDYISFRHHVYKKTDHRNVELTEVGPRFELKLYMIRLGTLEQEATADVEWRWHPYTNTARKRVFLSTE
+PTM	

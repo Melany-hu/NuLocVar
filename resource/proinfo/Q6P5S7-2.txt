@@ -1,0 +1,25 @@
+UniprotID	Q6P5S7-2
+Accession	Q6P5S7;G3V1Z9;Q502Z2
+EntryName	RNK_HUMAN
+ProteinName	Ribonuclease kappa (RNase K) (RNase kappa) (EC 3.1.-.-) (V-type proton ATPase subunit f) (V-ATPase subunit f)
+GeneName	RNASEK
+Length	134
+Function	Endoribonuclease which preferentially cleaves ApU and ApG phosphodiester bonds. Hydrolyzes UpU bonds at a lower rate (PubMed:17881363). Regulates the activity of vacuolar (H+)-ATPase (V-ATPase) which is responsible for acidifying and maintaining the pH of intracellular compartments (PubMed:26212330). Required at an early stage of receptor-mediated endocytosis (PubMed:26212330).
+Subcellular Location	Endomembrane system; Cytoplasmic vesicle; Clathrin-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEAGATPPLPPCEGILGFLPPLSEPACTSAIPDSLLYGVAPVLWAEAGRLRHRPQRLGSDHIMLGIFFNVHSAVLIEDVPFTEKDFENGPQNIYNLYEQVSYNCFIAAGLYLLLGGFSFCQVRLNKRKEYMVR
+PTM	Phosphorylation:22,27;Ubiquitylation:132

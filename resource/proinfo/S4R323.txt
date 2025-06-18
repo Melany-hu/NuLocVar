@@ -1,0 +1,25 @@
+UniprotID	S4R323
+Accession	S4R323
+EntryName	S4R323_HUMAN
+ProteinName	SHH signaling and ciliogenesis regulator SDCCAG8
+GeneName	SDCCAG8
+Length	155
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQEETLREQTLLDASGNMHNSWITTGEDSGVGETSKRPFSHDNADFGKAASAGEQLELNFLIISNKKSGRIKQYLHSPPCQPLMTSLQLSEKLKLTYEEKCEIEESQLKFLRNKNHGRARWLTPVIPALWEAEAGESRGQEIETILANMVKPRFY
+PTM	

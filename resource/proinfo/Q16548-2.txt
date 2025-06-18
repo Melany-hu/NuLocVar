@@ -1,0 +1,25 @@
+UniprotID	Q16548-2
+Accession	Q16548;Q6FGZ4;Q6FH19;Q86W13;Q99524
+EntryName	B2LA1_HUMAN
+ProteinName	Bcl-2-related protein A1 (Bcl-2-like protein 5) (Bcl2-L-5) (Hemopoietic-specific early response protein) (Protein BFL-1) (Protein GRS)
+GeneName	BCL2A1 BCL2L5 BFL1 GRS HBPA1
+Length	163
+Function	Retards apoptosis induced by IL-3 deprivation. May function in the response of hemopoietic cells to external signals and in maintaining endothelial survival during infection (By similarity). Can inhibit apoptosis induced by serum starvation in the mammary epithelial cell line HC11 (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDCEFGYIYRLAQDYLQCVLQIPQPGSGPSKTSRVLQNVAFSVQKEVEKNLKSCLDNVNVVSVDTARTLFNQVMEKEFEDGIINWGRIVTIFAFEGILIKKLLRQQIAPDVDTYKEISYFVAEFIMNNTGEWIRQNGGWGKWHNHTPMLVESVAHKKRKMAL
+PTM	Methylation:50,101,146;Phosphorylation:91;Ubiquitylation:32

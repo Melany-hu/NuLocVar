@@ -1,0 +1,25 @@
+UniprotID	Q9H0C5-2
+Accession	Q9H0C5;A6NMI8;Q9BX71;Q9NWN4
+EntryName	BTBD1_HUMAN
+ProteinName	BTB/POZ domain-containing protein 1 (Hepatitis C virus NS5A-transactivated protein 8) (HCV NS5A-transactivated protein 8)
+GeneName	BTBD1 C15orf1 NS5ATP8
+Length	385
+Function	Probable substrate-specific adapter of an E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins (PubMed:14528312). Seems to regulate expression levels and/or subnuclear distribution of TOP1, via an unknown mechanism (By similarity). May play a role in mesenchymal differentiation where it promotes myogenic differentiation and suppresses adipogenesis (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLGPAAAGEQASGAEAEPGPAGPPPPPSPSSLGPLLPLQREPLYNWQATKASLKERFAFLFNSELLSDVRFVLGKGRGAAAAGGPQRIPAHRFVLAAGSAVFDAMFNGGMATTSAEIELPDVEPAAFLALLRFLYSDEVQIGPETVMTTLYTAKKYAVPALEAHCVEFLTKHLRADNAFMLLTQARLFDEPQLASLCLDTIDKSTMDAISAEGFTDIDIDTLCAVLERDTLSIRESRLFGAVVRWAEAECQRQQLPVTFGNKQKVLGKALSLIRFPLMTIEEFAAGPAQSGILSDREVVNLFLHFTVNPKPRVEYIDRPRCCLRGKECCINRFQQVESRWGYSGTSDRIRSLNMRKSKPWDRMIPALVVMGQLTHSGSCSRNP
+PTM	Methylation:52,77,79,205,270,387;Phosphorylation:30,54,234,273,423,424;SUMOylation:52,443;Ubiquitylation:52,56,77,156,173,264,266,270,328,388,412,430,439

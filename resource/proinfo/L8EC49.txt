@@ -1,0 +1,25 @@
+UniprotID	L8EC49
+Accession	L8EC49
+EntryName	L8EC49_HUMAN
+ProteinName	Alternative protein C19orf57
+GeneName	C19orf57
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGSEFVSFLEEKRAPFVFFLPISILFLLGRPIINDSVEA
+PTM	

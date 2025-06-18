@@ -1,0 +1,25 @@
+UniprotID	P60323-2
+Accession	P60323;Q495E5
+EntryName	NANO3_HUMAN
+ProteinName	Nanos homolog 3 (NOS-3)
+GeneName	NANOS3 NOS3
+Length	192
+Function	Plays a role in the maintenance of the undifferentiated state of germ cells regulating the spermatogonia cell cycle and inducing a prolonged transit in G1 phase. Affects cell proliferation probably by repressing translation of specific mRNAs. Maintains the germ cell lineage by suppressing both Bax-dependent and -independent apoptotic pathways. Essential in the early stage embryo to protect the migrating primordial germ cells (PGCs) from apoptosis.
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Stress granule; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTFDLWTDYLGLAHLVRALSGKEGPETRLSPQPEPEPMLEPVSALEPMPAPESVPVPGPKDQKRSLESSPAPERLCSFCKHNGESRAIYQSHVLKDEAGRVLCPILRDYVCPQCGATRERAHTRRFCPLTGQGYTSVYSHTTRNSAGKKLVRPDKAKTQDTGHRRGGGGGAGFRGAGKSEPSPSCSPSMST
+PTM	

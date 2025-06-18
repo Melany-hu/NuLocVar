@@ -1,0 +1,25 @@
+UniprotID	H3BNL6
+Accession	H3BNL6
+EntryName	H3BNL6_HUMAN
+ProteinName	Pyridoxal dependent decarboxylase domain containing 1
+GeneName	PDXDC1
+Length	271
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKNLKEAVKMLEDSQRRTEEENGKKLISGDIPGPLQGSGQDMVSILQLVQNLMHGDEDEEPQSPRIQNIGEQGHMALLGHSLGAYISTLDKEKLRKLTTRILSDTTLWLCRIFRYENGCAYFHEEEREGLAKICRLAIHSRYEDFVVDGFNVLYNKKPVIYLSAAARPGLGQYLCNQDVAFLEKLIKDDIERGRLPLLLVANAGTAAVGHTDKIGRLKELCEQYGIWLHVEGVNLATLALGYVSSSVLAAAKCDSMTMTPGPWLGLPAVP
+PTM	

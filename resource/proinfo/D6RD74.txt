@@ -1,0 +1,25 @@
+UniprotID	D6RD74
+Accession	D6RD74
+EntryName	D6RD74_HUMAN
+ProteinName	Anaphase-promoting complex subunit 10
+GeneName	ANAPC10
+Length	126
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTPNKTPPGADPKQLERTGTVREIGSQAVWSLSSCKPGFGVDQLRDDNLETYWQSDGSQPHLVNIQFRRKTTVKTLCIYADYKSDESYTPSKISVRVGNNFHNLQEIRPHVLHVNEESMNLQVSG
+PTM	

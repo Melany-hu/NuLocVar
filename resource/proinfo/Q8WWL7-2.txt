@@ -1,0 +1,25 @@
+UniprotID	Q8WWL7-2
+Accession	Q8WWL7;B1AQI5;B1AQI6;Q96SB5;Q96SB6;Q96SB7;Q9NT38
+EntryName	CCNB3_HUMAN
+ProteinName	G2/mitotic-specific cyclin-B3
+GeneName	CCNB3 CYCB3
+Length	291
+Function	Cyclins are positive regulatory subunits of the cyclin-dependent kinases (CDKs), and thereby play an essential role in the control of the cell cycle, notably via their destruction during cell division. Its tissue specificity suggest that it may be required during early meiotic prophase I.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLPLPPQSSKPVPKKSQSSKIVPSHHDPSEKTGENCQTKISPSSLQESPSSLQGALKKRSAFEDLTNVSFEMTHETLYLAVKLVDLYLMKAVCKKDKLQLLGATAFMIAAKFEEHNSPRVDDFVYICDDNYQRSEVLSMEINILNVLKCDINIPIAYHFLRRYARCIHTNMKTLTLSRYICEMTLQEYHYVQEKASKLAAASLLLALYMKKLGYWVPFLEHYSGYSISELHPLVRQLNKLLTFSSYDSLKAVYYKYSHPVFFEVAKIPALDMLKLEEILNCDCEAQGLVL
+PTM	Acetylation:416,758,1081;Methylation:58,104,161,174,192,336,347,354,386,440,452,459,492,521,591,609,643,664,699,708,716,727,732,763,780,812,817,846,865,901,917,1070,1253,1299,1371;Phosphorylation:19,20,175,177,188,321,344,432,449,456,502,518,569,723,736,944,954,973,1002,1026,1036,1038,1106,1280,1331;SUMOylation:161

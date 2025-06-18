@@ -1,0 +1,25 @@
+UniprotID	P50135-2
+Accession	P50135;B2R9J3;Q546Z6;Q7Z7I2;Q8IU56;Q8WW98;Q9BRW6
+EntryName	HNMT_HUMAN
+ProteinName	Histamine N-methyltransferase (HMT) (EC 2.1.1.8)
+GeneName	HNMT
+Length	126
+Function	Inactivates histamine by N-methylation. Plays an important role in degrading histamine and in regulating the airway response to histamine.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSMRSLFSDHGKYVESFRRFLNHSTEHQCMQEFMDKKLPGIIGRIGDTKSEIKILSIGGGADCLIRGSSRVLKRNSCFILCSTRQKDKPGMRIHDERSSELPFGAARLESKSAFPSFLVSFILF
+PTM	Acetylation:51,99,112,117,264;Methylation:73,97,112,135,264;Phosphorylation:10,119,121,186

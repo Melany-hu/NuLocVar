@@ -1,0 +1,25 @@
+UniprotID	C9J6W7
+Accession	C9J6W7
+EntryName	C9J6W7_HUMAN
+ProteinName	Creatine kinase U-type, mitochondrial (EC 2.7.3.2) (Acidic-type mitochondrial creatine kinase) (Ubiquitous mitochondrial creatine kinase)
+GeneName	CKMT1B
+Length	203
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPFSRLLSARPGLRLLALAGAGSLAAGFLLRPEPVRAASERRRLYPPSQTWPTGQLPGNCTRSRRLCPPSMVTGYPLPSAEYPDLRKHNNCMASHLTPAVYARLCDKTTPTGWTLDQCIQTGVDNPGHPFIKTVGMVAGDEETYEVFADLFDPVIQERHNGYDPRTMKHTTDLDASKIRSGYFDERYVLSSRVRTGRSIRG
+PTM	

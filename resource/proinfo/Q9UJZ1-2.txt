@@ -1,0 +1,25 @@
+UniprotID	Q9UJZ1-2
+Accession	Q9UJZ1;B4E1K7;D3DRN3;O60376;Q53G29;Q96FY2;Q9P042
+EntryName	STML2_HUMAN
+ProteinName	Stomatin-like protein 2, mitochondrial (SLP-2) (EPB72-like protein 2) (Paraprotein target 7) (Paratarg-7)
+GeneName	STOML2 SLP2 HSPC108
+Length	311
+Function	Mitochondrial protein that probably regulates the biogenesis and the activity of mitochondria. Stimulates cardiolipin biosynthesis, binds cardiolipin-enriched membranes where it recruits and stabilizes some proteins including prohibitin and may therefore act in the organization of functional microdomains in mitochondrial membranes. Through regulation of the mitochondrial function may play a role into several biological processes including cell migration, cell proliferation, T-cell activation, calcium homeostasis and cellular response to stress. May play a role in calcium homeostasis through negative regulation of calcium efflux from mitochondria. Required for mitochondrial hyperfusion a pro-survival cellular response to stress which results in increased ATP production by mitochondria. May also regulate the organization of functional domains at the plasma membrane and play a role in T-cell activation through association with the T-cell receptor signaling complex and its regulation.
+Subcellular Location	Cell membrane; Mitochondrion; Mitochondrion inner membrane; Mitochondrion intermembrane space; Membrane raft; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLARAARGTGALLLRGSLLASGRAPRRASSGLPRNTVVLFVPQQEAWVVERMGRFHRILEPGLNILIPVLDRIRYVQSLKEIVINVPEQSAVTLDNVTLQIDGVLYLRIMDPYKASYGVEDPEYAVTQLAQTTMRSELGKLSLDKVFRVEAERRKRATVLESEGTRESAINVAEGKKQAQILASEAEKAEQINQAAGEASAVLAKAKAKAEAIRILAAALTQHNGDAAASLTVAEQYVSAFSKLAKDSNTILLPSNPGDVTSMVAQAMGVYGALTKAPVPGTPDSLSSGSSRDVQGTDASLDEELDRVKMS
+PTM	Acetylation:114,140,145,221,222,233,250;Methylation:233,250;Phosphorylation:29,30,36,106,113,124,189,327,330,332,335,336,342,345,356;Ubiquitylation:221,250

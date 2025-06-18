@@ -1,0 +1,25 @@
+UniprotID	Q9BQB6-3
+Accession	Q9BQB6;A6NIQ6;B2R4Z6;Q6UX90;Q7Z2R4
+EntryName	VKOR1_HUMAN
+ProteinName	Vitamin K epoxide reductase complex subunit 1 (EC 1.17.4.4) (Vitamin K1 2,3-epoxide reductase subunit 1)
+GeneName	VKORC1 VKOR MSTP134 MSTP576 UNQ308/PRO351
+Length	92
+Function	Involved in vitamin K metabolism. Catalytic subunit of the vitamin K epoxide reductase (VKOR) complex which reduces inactive vitamin K 2,3-epoxide to active vitamin K. Vitamin K is required for the gamma-carboxylation of various proteins, including clotting factors, and is required for normal blood coagulation, but also for normal bone development.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSTWGSPGWVRLALCLTGLVLSLYALHVKAARARDRDYRALCDVGTAISCSRVFSSRLPADTLGLCPDAAELPGVSRWFCLPGLDPVLRAL
+PTM	Phosphorylation:52

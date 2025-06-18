@@ -1,0 +1,25 @@
+UniprotID	B6A8C7-2
+Accession	B6A8C7;B4DWY4
+EntryName	TARM1_HUMAN
+ProteinName	T-cell-interacting, activating receptor on myeloid cells protein 1 (OSCAR-like transcript-2 protein) (OLT-2)
+GeneName	TARM1
+Length	279
+Function	May act as receptor (By similarity). Negatively regulates TCR-mediated CD4(+) T cell proliferation and activation, possibly by binding an unknown ligand on the T cell surface (PubMed:26311901). Enhances Toll-like receptor-mediated production of pro-inflammatory cytokines by macrophages and neutrophils (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	10...15;5...10
+validnes_region	
+nesbase_region	
+Sequence	MKERKKKERKERKRKKERNGLCVGQGDTRGDGSLPKPSLSAWPSSVVPANSNVTLRCWTPARGVSFVLRKGGIILESPKPLDSTEGAAEFHLNNLKVRNAGEYTCEYYRKASPHILSQHSDVLLLLVTGHLSKPFLRTYQRGTVTAGGRVTLQCQKRDQLFVPIMFALLKAGTPSPIQLQSPAGKEIDFSLVDVTAGDAGNYSCMYYQTKSPFWASEPSDQLEILVTVPPGTTSSNYSLGNFVRLGLAAVIVVIMGAFLVEAWYSRNVSPGESEAFKPE
+PTM	Methylation:62,88,162;Phosphorylation:69,109,112,124,131

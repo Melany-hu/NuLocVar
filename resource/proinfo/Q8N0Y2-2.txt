@@ -1,0 +1,25 @@
+UniprotID	Q8N0Y2-2
+Accession	Q8N0Y2;Q8TEQ9;Q8WU35;Q9NUU1
+EntryName	ZN444_HUMAN
+ProteinName	Zinc finger protein 444 (Endothelial zinc finger protein 2) (EZF-2) (Zinc finger and SCAN domain-containing protein 17)
+GeneName	ZNF444 EZF2 ZSCAN17
+Length	326
+Function	Transcriptional regulator. Binds to the 5'-flanking critical region of the SCARF1 promoter.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVAVPVKQEAEGLALDSPWHRFRRFHLGDAPGPREALGLLRALCRDWLRPEVHTKEQMLELLVLEQFLSALPADTQAWVCSRQPQSGEEAVALLEELWGPAASPDGSSATRVPQDVTQGPGATGGKEDSGMIPLGTAPGAEGPAPGDSQAVRPYKQEPSSPPLAPGLPAFLAAPGTTSCPECGKTSLKPAHLLRHRQSHSGEKPHACPECGKAFRRKEHLRRHRDTHPGSPGSPGPALRPLPAREKPHACCECGKTFYWREHLVRHRKTHSGARPFACWECGKGFGRREHVLRHQRIHGRAAASAQGAVAPGPDGGGPFPPWPLG
+PTM	Methylation:8,248;Phosphorylation:18,104,161,162,202,228,232,235,273;SUMOylation:8,157,190,285

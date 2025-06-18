@@ -1,0 +1,25 @@
+UniprotID	Q13426-2
+Accession	Q13426;A8K3X4;Q9BS72;Q9UP94
+EntryName	XRCC4_HUMAN
+ProteinName	DNA repair protein XRCC4 (hXRCC4) (X-ray repair cross-complementing protein 4) [Cleaved into: Protein XRCC4, C-terminus (XRCC4/C)]
+GeneName	XRCC4
+Length	334
+Function	DNA non-homologous end joining (NHEJ) core factor, required for double-strand break repair and V(D)J recombination (PubMed:10757784, PubMed:10854421, PubMed:12517771, PubMed:16412978, PubMed:17124166, PubMed:17290226, PubMed:22228831, PubMed:25597996, PubMed:25742519, PubMed:25934149, PubMed:26100018, PubMed:26774286, PubMed:8548796). Acts as a scaffold protein that regulates recruitment of other proteins to DNA double-strand breaks (DSBs) (PubMed:15385968, PubMed:20852255, PubMed:26774286, PubMed:27437582). Associates with NHEJ1/XLF to form alternating helical filaments that bridge DNA and act like a bandage, holding together the broken DNA until it is repaired (PubMed:21768349, PubMed:21775435, PubMed:22287571, PubMed:26100018, PubMed:27437582, PubMed:28500754). The XRCC4-NHEJ1/XLF subcomplex binds to the DNA fragments of a DSB in a highly diffusive manner and robustly bridges two independent DNA molecules, holding the broken DNA fragments in close proximity to one other (PubMed:27437582). The mobility of the bridges ensures that the ends remain accessible for further processing by other repair factors (PubMed:27437582). Plays a key role in the NHEJ ligation step of the broken DNA during DSB repair via direct interaction with DNA ligase IV (LIG4): the LIG4-XRCC4 subcomplex reseals the DNA breaks after the gap filling is completed (PubMed:10757784, PubMed:10854421, PubMed:12517771, PubMed:17290226, PubMed:19837014, PubMed:9242410). XRCC4 stabilizes LIG4, regulates its subcellular localization and enhances LIG4's joining activity (PubMed:10757784, PubMed:10854421, PubMed:12517771, PubMed:17290226, PubMed:21982441, PubMed:22228831, PubMed:9242410). Binding of the LIG4-XRCC4 subcomplex to DNA ends is dependent on the assembly of the DNA-dependent protein kinase complex DNA-PK to these DNA ends (PubMed:10757784, PubMed:10854421). Promotes displacement of PNKP from processed strand break termini (PubMed:20852255, PubMed:28453785).
+Subcellular Location	Nucleus; Chromosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	270..275
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	269...274
+validnes_region	
+nesbase_region	
+Sequence	MERKISRIHLVSEPSITHFLQVSWEKTLESGFVITLTDGHSAWTGTVSESEISQEADDMAMEKGKYVGELRKALLSGAGPADVYTFNFSKESCYFFFEKNLKDVSFRLGSFNLEKVENPAEVIRELICYCLDTIAENQAKNEHLQKENERLLRDWNDVQGRFEKCVSAKEALETDLYKRFILVLNEKKTKIRSLHNKLLNAAQEREKDIKQEGETAICSEMTADRDPVYDESTDEESENQTDLSGLASAAVSKDDSIISSLDVTDIAPSRKRRQRMQRNLGTEPKMAPQENQLQEKEKPDSSLPETSKKEHISAENMSLETLRNSSPEDLFDEI
+PTM	Acetylation:178,187,197;Methylation:115,146,187,207,296;Phosphorylation:89,92,94,177,215,219,222,229,232,233,237,241,252,256,259,260,269,282,299,303,304,315,320,323,327,328;SUMOylation:197,210,285;Ubiquitylation:65,169,178,187,197

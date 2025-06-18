@@ -1,0 +1,25 @@
+UniprotID	C9JXC3
+Accession	C9JXC3
+EntryName	C9JXC3_HUMAN
+ProteinName	O-acyl-ADP-ribose deacylase 1
+GeneName	OARD1
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAGIAVLFKKKFGGVQELLNQQKKSGEVAVLKRDGRYIYYLITKKRASHKPTYENLQKSLEAMKSHCLKNGVTDLSMPRIGCGLDRLQWENVSAMIEEVFEATDIKITVYTL
+PTM	

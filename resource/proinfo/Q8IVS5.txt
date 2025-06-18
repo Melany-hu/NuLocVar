@@ -1,0 +1,25 @@
+UniprotID	Q8IVS5
+Accession	Q8IVS5
+EntryName	Q8IVS5_HUMAN
+ProteinName	ZNF544 protein (Zinc finger protein 544)
+GeneName	ZNF544
+Length	106
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEARSMLVPPQASVCFEDVAMAFTQEEWEQLDLAQRTLYREVTLETWEHIVSLGLFLSKSDVISQLEQEEDLCRAEQEAPRGTSGLSQVTGVVADGSFRFPVWDFT
+PTM	

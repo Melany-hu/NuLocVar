@@ -1,0 +1,25 @@
+UniprotID	Q5T3L8
+Accession	Q5T3L8;D3DRF8
+EntryName	Q5T3L8_HUMAN
+ProteinName	uroporphyrinogen-III synthase (EC 4.2.1.75) (Hydroxymethylbilane hydrolyase [cyclizing]) (Uroporphyrinogen-III cosynthase)
+GeneName	UROS hCG_1727047
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVLLLKDAKEDDCGQDPYIRELGLYGLEATLIPVLSFEFLSLPSFSEKLSHPEDYGGLIFTSPRAVEAAELCLEQNNKTEVWERSLKEKWNAKSVYVVGNATASLVSKIGLDTEGETCGNAEKLAEYICSSEEVKGIF
+PTM	

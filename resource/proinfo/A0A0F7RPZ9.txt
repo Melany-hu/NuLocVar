@@ -1,0 +1,25 @@
+UniprotID	A0A0F7RPZ9
+Accession	A0A0F7RPZ9
+EntryName	A0A0F7RPZ9_HUMAN
+ProteinName	Chorionic gonadotropin beta subunit 1
+GeneName	CGB1
+Length	165
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEMFQGLLLLLLLSMGGTWASKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQASSSSKAPPPSLPSPSRLPGPSDTPILPQ
+PTM	

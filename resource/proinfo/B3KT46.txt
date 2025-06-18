@@ -1,0 +1,25 @@
+UniprotID	B3KT46
+Accession	B3KT46
+EntryName	B3KT46_HUMAN
+ProteinName	Transmembrane protein 170A
+GeneName	TMEM170A
+Length	106
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRAAAEMWYGVFLWALVSSLFFHVPAGLLALFTLRHHKYGRFMSVSILLMGIVGPITAGILTSAAIAGVYRAAGKEMIPFEALTLGTGQTFCVLVVSFLRILATL
+PTM	

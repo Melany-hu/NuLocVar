@@ -1,0 +1,25 @@
+UniprotID	A0A286RZ47
+Accession	A0A286RZ47
+EntryName	A0A286RZ47_HUMAN
+ProteinName	Alpha-L-iduronidase
+GeneName	IDUA
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RYGLAHVSKWNFETWNEPDHHDFDNVSMTMQGFLNYYDACLLGGSARRQPRPAAGRPRRLLPHPTAIPAELGPPAPLPRRYQLLHWGGGRAAGLHLPPQEGCAQLHLHPGAGEGRRAADPAALPQVRGHPHLQRRGGPAGGLVPATAVEGGRDLRGHGGE
+PTM	

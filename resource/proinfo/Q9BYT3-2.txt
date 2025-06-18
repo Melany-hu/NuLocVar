@@ -1,0 +1,25 @@
+UniprotID	Q9BYT3-2
+Accession	Q9BYT3;Q658S6;Q8NEF5
+EntryName	STK33_HUMAN
+ProteinName	Serine/threonine-protein kinase 33 (EC 2.7.11.1)
+GeneName	STK33
+Length	448
+Function	Serine/threonine protein kinase required for spermatid differentiation and male fertility (PubMed:37146716, PubMed:38781365). Promotes sperm flagella assembly during spermatogenesis by mediating phosphorylation of fibrous sheath proteins AKAP3 and AKAP4 (By similarity). Also phosphorylates vimentin/VIM, thereby regulating the dynamic behavior of the intermediate filament cytoskeleton (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADSGLDKKSTKCPDCSSASQKDVLCVCSSKTRVPPVLVVEMSQTSSIGSAESLISLERKKEKNINRDITSRKDLPSRTSNVERKASQQQWGRGNFTEGKVPHIRIENGAAIEEIYTFGRILGKGSFGIVIEATDKETETKWAIKKVNKEKAGSSAVKLLEREVNILKSVKHEHIIHLEQVFETPKKMYLVMELCEDGELKEILDRKGHFSENETRWIIQSLASAIAYLHNNDIVHRDLKLENIMVKSSLIDDNNEINLNIKVTDFGLAVKKQSRSEAMLQATCGTPIYMAPEVISAHDYSQQCDIWSIGVVMYMLLRGEPPFLASSEEKLFELIRKGELHFENAVWNSISDCAKSVLKQLMKVDPAHRITAKELLDNQWLTSTAYEKQFPATSKDNFDMCSSSFTSSKLLPAEIKGEMEKTPVTPSQGTATKYPAKSGALSRTKKKL
+PTM	Acetylation:385;Methylation:124,168,262,337,424;Phosphorylation:43,46,47,56,356,439,440,441,468,469,470,472,488,491;SUMOylation:85,100,158,171,482

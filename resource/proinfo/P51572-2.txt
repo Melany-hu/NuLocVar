@@ -1,0 +1,25 @@
+UniprotID	P51572-2
+Accession	P51572;B3KQ79;D3DWV5;Q13836;Q96CF0
+EntryName	BAP31_HUMAN
+ProteinName	B-cell receptor-associated protein 31 (BCR-associated protein 31) (Bap31) (6C6-AG tumor-associated antigen) (Protein CDM) (p28)
+GeneName	BCAP31 BAP31 DXS1357E
+Length	313
+Function	Functions as a chaperone protein (PubMed:18287538, PubMed:9396746). Is one of the most abundant endoplasmic reticulum (ER) proteins (PubMed:18287538, PubMed:9396746). Plays a role in the export of secreted proteins in the ER, the recognition of abnormally folded protein and their targeting to the ER associated-degradation (ERAD) (PubMed:18287538, PubMed:9396746). Also serves as a cargo receptor for the export of transmembrane proteins (By similarity). Plays a role in the assembly of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) by stimulating the translocation of NDUFS4 and NDUFB11 from the cytosol to the mitochondria via interaction with TOMM40 (PubMed:31206022). In response to ER stress, delocalizes from the ER-mitochondria contact sites and binds BCL2 (PubMed:31206022). May be involved in CASP8-mediated apoptosis (PubMed:10958671).
+Subcellular Location	Endoplasmic reticulum membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAEASSSWCPGTALPEERLSVKRASEISGFLGQGSSGEAALDVLTHVLEGAGNKLTSSCGKPSSNRMSLQWTAVATFLYAEVFVVLLLCIPFISPKRWQKIFKSRLVELLVSYGNTFFVVLIVILVLLVIDAVREIRKYDDVTEKVNLQNNPGAMEHFHMKLFRAQRNLYIAGFSLLLSFLLRRLVTLISQQATLLASNEAFKKQAESASEAAKKYMEENDQLKKGAAVDGGKLDVGNAEVKLEEENRSLKADLQKLKDELASTKQKLEKAENQVLAMRKQSEGLTKEYDRLLEEHAKLQAAVDGPMDKKEE
+PTM	Acetylation:79,95,149,158,167,176,190,192,201,204,221,243,244;Methylation:30,158,176,190,213;Phosphorylation:113,144,216,223;SUMOylation:159,167,192;Ubiquitylation:34,72,79,95,138,148,149,158,159,167,176,185,190,192,199,201,204,214,221,232,243,244

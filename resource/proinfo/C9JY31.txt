@@ -1,0 +1,25 @@
+UniprotID	C9JY31
+Accession	C9JY31
+EntryName	C9JY31_HUMAN
+ProteinName	acetate--CoA ligase (EC 6.2.1.1)
+GeneName	ACSS2
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPEERVRSGSGSRGQEEAGAGGRARSWSPPPEVSRSAHVPSLQRYRELHRRSVEEPREFWGDIAKEFYWKTPCPGPFLRYNFDVTKGKIFIEWMKGATTNICYNVLDRNVHEKKLGDKVAFYWSTSGNSSYRYTCREGNEPGETTQITYHQLLVQVCQFSNVLRKQGIQKGDRVAIYMPMIPELVVAMLACARIGALHSIV
+PTM	

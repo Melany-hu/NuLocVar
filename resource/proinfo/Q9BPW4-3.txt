@@ -1,0 +1,25 @@
+UniprotID	Q9BPW4-3
+Accession	Q9BPW4;Q9BQ37;Q9BXQ8
+EntryName	APOL4_HUMAN
+ProteinName	Apolipoprotein L4 (Apolipoprotein L-IV) (ApoL-IV)
+GeneName	APOL4
+Length	347
+Function	May play a role in lipid exchange and transport throughout the body. May participate in reverse cholesterol transport from peripheral cells to the liver (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSWVQLITSVGVQQNHPGWTVAGQFQEKKRFTEEVIEYFQKKVSPVHLKILLTSDEAWKRFVRVAELPREEADALYEALKNLTPYVAIEDKDMQQKEQQFREWFLKFPQIRWKIQESIERLRVIANEIEKVHRGCVIANVVSGSTGILSVIGVMLAPFTAGLSLSITAAGVGLGIASATAGIASSIVENTYTRSAELTASRLTATSTDQLEALRDILRDITPNVLSFALDFDEATKMIANDVHTLRRSKATVGRPLIAWRYVPINVVETLRTRGAPTRIVRKVARNLGKATSGVLVVLDVVNLVQDSLDLHKGAKSESAESLRQWAQELEENLNELTHIHQSLKAG
+PTM	Methylation:8,84,135

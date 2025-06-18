@@ -1,0 +1,25 @@
+UniprotID	C9J381
+Accession	C9J381
+EntryName	C9J381_HUMAN
+ProteinName	Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205)
+GeneName	IMPDH1 IMPDH
+Length	513
+Function	Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate-limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth. Could also have a single-stranded nucleic acid-binding activity and could play a role in RNA and/or DNA metabolism. It may also have a role in the development of malignancy and the growth progression of some tumors.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADYLISGGTGYVPEDGLTAQQLFASADGLTYNDFLILPGFIDFIADEVDLTSALTRKITLKTPLISSPMDTVTEADMAIAMALMGGIGFIHHNCTPEFQANEVRKVKFEQGFITDPVVLSPSHTVGDVLEAKMRHGFSGIPITETGTMGSKLVGIVTSRDIDFLAEKDHTTLLSEVMTPRIELVVAPAGVTLKEANEILQRSKKGKLPIVNDCDELVAIIARTDLKKNRDYPLASKDSQKQLLCGAAVGTREDDKYRLDLLTQAGVDVIVLDSSQGNSVYQIAMVHYIKQKYPHLQVIGGNVVTAAQAKNLIDAGVDGLRVGMGCGSICITQEVMACGRPQGTAVYKVAEYARRFGVPIIADGGIQTVGHVVKALALGASTVMMGSLLAATTEAPGEYFFSDGVRLKKYRGMGSLDAMEKSSSSQKRYFSEGDKVKIAQGVSGSIQDKGSIQKFVPYLIAGIQHGCQDIGARSLSVLRSMMYSGELKFEKRTMSAQIEGGVHGLHSYEKRLY
+PTM	

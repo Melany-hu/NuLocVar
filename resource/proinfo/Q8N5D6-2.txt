@@ -1,0 +1,25 @@
+UniprotID	Q8N5D6-2
+Accession	Q8N5D6;A8K633;B2RA95;B7Z8S5;Q45F07;Q5T7U9;Q5T7V1;Q8N2K4;Q9UKI5
+EntryName	GBGT1_HUMAN
+ProteinName	Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 (EC 2.4.1.-) (Forssman glycolipid synthase-like protein)
+GeneName	GBGT1 UNQ2513/PRO6002
+Length	294
+Function	Has lost the ability to synthesize Forssman glycolipid antigen (FORS1/FG) (PubMed:10506200). Might have acquired an alternative function in glycosphingolipid metabolism, but it remains to be established. It appears to have drifted more slowly than confirmed pseudogenes in the glycosyltransferase 6 family, suggesting that it has remained under evolutionary pressure.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHRRRLALGLGFCLLAGTSLSVLWVYLENWLPVSYVPYYLPCPEIFNMKLHYKREKPLQPVVWSQYPQPKLLEHRPTQLLTLTPWLAPIVSEGTFNPELLQHIYQPLNLTIGVTVFAVGNPSWSQPRSSSCVGTGCTTTSSLTTLQPFPGSRWVPTGFSAPSPSRVTPTGRRHPCAGWRPSASTLLRGLTGRWTTSSALMWTWCFGTRGALRPWETWWLPFTQATTPFPASSSPMSAGVFPLPLWQTAKGTSIMVGQSSGGRWPGYMSLLGAATWPSWRTRPMASWLPGGRKAT
+PTM	Methylation:120;Phosphorylation:241,318,329

@@ -1,0 +1,25 @@
+UniprotID	Q9NZJ7-2
+Accession	Q9NZJ7;A8KAX5;B2RCE3;Q6PK60;Q6UX45;Q7L465;Q9BW23;Q9NZR6;Q9UJZ5
+EntryName	MTCH1_HUMAN
+ProteinName	Mitochondrial carrier homolog 1 (Presenilin-associated protein)
+GeneName	MTCH1 PSAP CGI-64 UNQ1871/PRO4314
+Length	372
+Function	Protein insertase that mediates insertion of transmembrane proteins into the mitochondrial outer membrane (PubMed:36264797). Catalyzes insertion of proteins with alpha-helical transmembrane regions, such as signal-anchored, tail-anchored and multi-pass membrane proteins (By similarity). Does not mediate insertion of beta-barrel transmembrane proteins (By similarity). May play a role in apoptosis (PubMed:12377771).
+Subcellular Location	Mitochondrion outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGASDPEVAPWARGGAAGMAGAGAGAGARGGAAAGVEARARDPPPAHRAHPRHPRPAAQPSARRMDGGSGGLGSGDNAPTTEALFVALGAGVTALSHPLLYVKLLIQVGHEPMPPTLGTNVLGRKVLYLPSFFTYAKYIVQVDGKIGLFRGLSPRLMSNALSTVTRGSMKKVFPPDEIEQVSNKDDMKTSLKKVVKETSYEMMMQCVSRMLAHPLHVISMRCMVQFVGREAKYSGVLSSIGKIFKEEGLLGFFVGLIPHLLGDVVFLWGCNLLAHFINAYLVDDSFSQALAIRSYTKFVMGIAVSMLTYPFLLVGDLMAVNNCGLQAGLPPYSPVFKSWIHCWKYLSVQGQLFRGSSLLFRRVSSGSCFALE
+PTM	Acetylation:184;Methylation:29,39;Phosphorylation:61,165,198,199,381,382,384;Ubiquitylation:125,145,184,188,192,196,232

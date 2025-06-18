@@ -1,0 +1,25 @@
+UniprotID	Q9NWZ3-2
+Accession	Q9NWZ3;Q69FE1;Q8TDF7;Q9Y589
+EntryName	IRAK4_HUMAN
+ProteinName	Interleukin-1 receptor-associated kinase 4 (IRAK-4) (EC 2.7.11.1) (Renal carcinoma antigen NY-REN-64)
+GeneName	IRAK4
+Length	336
+Function	Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways (PubMed:17878374). Is rapidly recruited by MYD88 to the receptor-signaling complex upon TLR activation to form the Myddosome together with IRAK2. Phosphorylates initially IRAK1, thus stimulating the kinase activity and intensive autophosphorylation of IRAK1. Phosphorylates E3 ubiquitin ligases Pellino proteins (PELI1, PELI2 and PELI3) to promote pellino-mediated polyubiquitination of IRAK1. Then, the ubiquitin-binding domain of IKBKG/NEMO binds to polyubiquitinated IRAK1 bringing together the IRAK1-MAP3K7/TAK1-TRAF6 complex and the NEMO-IKKA-IKKB complex. In turn, MAP3K7/TAK1 activates IKKs (CHUK/IKKA and IKBKB/IKKB) leading to NF-kappa-B nuclear translocation and activation. Alternatively, phosphorylates TIRAP to promote its ubiquitination and subsequent degradation. Phosphorylates NCF1 and regulates NADPH oxidase activation after LPS stimulation suggesting a similar mechanism during microbial infections.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFCDKDRTLMTPVQNLEQSYMPPDSSSPENKSLEVSDTRFHSFSFYELKNVTNNFDERPISVGGNKMGEGGFGVVYKGYVNNTTVAVKKLAAMVDITTEELKQQFDQEIKVMAKCQHENLVELLGFSSDGDDLCLVYVYMPNGSLLDRLSCLDGTPPLSWHMRCKIAQGAANGINFLHENHHIHRDIKSANILLDEAFTAKISDFGLARASEKFAQTVMTSRIVGTTAYMAPEALRGEITPKSDIYSFGVVLLEIITGLPAVDEHREPQLLLDIKEEIEDEEKTIEDYIDKKMNDADSTSVEAMYSVASQCLHEKKNKRPDIKKVQQLLQEMTAS
+PTM	Acetylation:3,34;Methylation:21,213,227,235,367,400;Phosphorylation:6,114,133,144,145,150,151,152,157,275,342,345

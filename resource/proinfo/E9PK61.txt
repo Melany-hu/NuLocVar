@@ -1,0 +1,25 @@
+UniprotID	E9PK61
+Accession	E9PK61
+EntryName	E9PK61_HUMAN
+ProteinName	EI24 autophagy associated transmembrane protein
+GeneName	EI24
+Length	262
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	41...46
+validnes_region	
+nesbase_region	
+Sequence	MADSVKTFLQDLARGIKDSIWGICTISKLDARIQQKREEQRRRRASSVLAQRRAQSIERKQESEPRIVSRIFQCCAWNGGVFWFSLLLFYRVFIPVLQSVTARIIGDPSLHGDVWSWLEFFLTSIFSALWVLPLFVLSKVVNAIWFQDIADLAFEVSGRKPHPFPSVSKIIADMLFNLLLQALFLIQGMFVSLFPIHLVGQLVSLLHMSLLYSLYCFEYRWFNKVAAFSLSSFLYSLSAPMKQRPLAKHISSSCASSPWWSS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A087WWJ3
+Accession	A0A087WWJ3
+EntryName	A0A087WWJ3_HUMAN
+ProteinName	Keratin associated protein 5-4
+GeneName	KRTAP5-4
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCCGCSGGCGSGCGGCGSGCGGCGSGCGGCGSGCGGCGSGCGGCGSSCCVPICCCKPVCCCVPACSCSSCGSCGGSKGGYGSCGGSKGGCVSCGGSKGGCGSCGGSKGGCGSCGGSKGGCGSCGGSKGGCGSCGCSQCSCCKPCCFSSGCGSSCCQSSCCKPSCCQSSCCKPYCCQSSCCKPCCSSSGCGSSCCQSSCCNPCCSQSSCCVPVCCQCKI
+PTM	

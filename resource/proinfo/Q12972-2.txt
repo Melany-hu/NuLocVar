@@ -1,0 +1,25 @@
+UniprotID	Q12972-2
+Accession	Q12972;Q5TEJ2;Q5TEJ4;Q5TIF2;Q6PKF6;Q9UBH1;Q9UBZ0
+EntryName	PP1R8_HUMAN
+ProteinName	Nuclear inhibitor of protein phosphatase 1 (NIPP-1) (Protein phosphatase 1 regulatory inhibitor subunit 8) [Includes: Activator of RNA decay (EC 3.1.4.-) (ARD-1)]
+GeneName	PPP1R8 ARD1 NIPP1
+Length	209
+Function	Inhibitor subunit of the major nuclear protein phosphatase-1 (PP-1). It has RNA-binding activity but does not cleave RNA and may target PP-1 to RNA-associated substrates. May also be involved in pre-mRNA splicing. Binds DNA and might act as a transcriptional repressor. Seems to be required for cell proliferation.
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	185..209;210..240
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	52...57
+validnes_region	
+nesbase_region	
+Sequence	MGGEDDELKGLLGLPEEETELDNLTEFNTAHNKRISTLTIEEGNLDIQRPKRKRKNSRVTFSEDDEIINPEDVDPSVGRFRNMVQTAVVPVKKKRVEGPGSLGLEESGSRRMQNFAFSGGLYGGLPPTHSEAGSQPHGIHGTALIGGLPMPYPNLAPDVDLTPVVPSAVNMNPAPNPAVYNPEAVNEPKKKKYAKEAWPGKKPTPSLLI
+PTM	Acetylation:40,46,234,343;Methylation:33,40,151,234;Phosphorylation:171,178,179,181,199,202,204,249,346,348;SUMOylation:22,138,142,151,193;Ubiquitylation:46,47

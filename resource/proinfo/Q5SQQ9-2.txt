@@ -1,0 +1,25 @@
+UniprotID	Q5SQQ9-2
+Accession	Q5SQQ9;B1AVW5;Q6ZSX0
+EntryName	VAX1_HUMAN
+ProteinName	Ventral anterior homeobox 1
+GeneName	VAX1
+Length	186
+Function	Transcription factor that may function in dorsoventral specification of the forebrain. Required for axon guidance and major tract formation in the developing forebrain. May contribute to the differentiation of the neuroretina, pigmented epithelium and optic stalk (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFGKPDKMDVRCHSDAEAARVSKNAHKESRESKGAEGNLPAAFLKEPQGAFSASGAAEDCNKSKSNSAADPDYCRRILVRDAKGSIREIILPKGLDLDRPKRTRTSFTAEQLYRLEMEFQRCQYVVGRERTELARQLNLSETQANSEENNERFKRGIKKQKKKRKKEPANDESRRGDSGGRGWQPL
+PTM	Phosphorylation:170,175,177

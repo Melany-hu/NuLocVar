@@ -1,0 +1,25 @@
+UniprotID	P17097-3
+Accession	P17097;B4DT08;D3DWN6;P17015;Q8N8Y4
+EntryName	ZNF7_HUMAN
+ProteinName	Zinc finger protein 7 (Zinc finger protein HF.16) (Zinc finger protein KOX4)
+GeneName	ZNF7 KOX4
+Length	148
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVVTFGDVAVHFSREEWQCLDPGQRALYREVMLENHSSVAGLAGFLVFKPELISRLEQGEEPWVLDLQGAEGTEAPRTSKTGFLGRPTMGQEPRHPHAPPATPVPGLPKHCSQRLTLPPPGLSSSPLGHFLVHDQDRRRGTSAIWMV
+PTM	Acetylation:304;Methylation:101,393,631;Phosphorylation:55,112,126,138,273,301,329,357,397,399,436,464,548,657;SUMOylation:50,81,101,161,165,172,203,221,231,239,257,279,292,304,313,341,365,369,388,393,411,414,439,448,467,495,504,523,532,554,560,579,588,641,660;Ubiquitylation:81,101,165

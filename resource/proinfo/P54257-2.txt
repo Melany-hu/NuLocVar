@@ -1,0 +1,25 @@
+UniprotID	P54257-2
+Accession	P54257;A8MQB5;O75358;Q59GK4;Q9H4G3;Q9HA98;Q9NY90
+EntryName	HAP1_HUMAN
+ProteinName	Huntingtin-associated protein 1 (HAP-1) (Neuroan 1)
+GeneName	HAP1 HAP2 HLP1
+Length	619
+Function	Originally identified as neuronal protein that specifically associates with HTT/huntingtin and the binding is enhanced by an expanded polyglutamine repeat within HTT possibly affecting HAP1 interaction properties. Both HTT and HAP1 are involved in intracellular trafficking and HAP1 is proposed to link HTT to motor proteins and/or transport cargos. Seems to play a role in vesicular transport within neurons and axons such as from early endosomes to late endocytic compartments and to promote neurite outgrowth. The vesicular transport function via association with microtubule-dependent transporters can be attenuated by association with mutant HTT. Involved in the axonal transport of BDNF and its activity-dependent secretion; the function seems to involve HTT, DCTN1 and a complex with SORT1. Involved in APP trafficking and seems to facilitate APP anterograde transport and membrane insertion thereby possibly reducing processing into amyloid beta. Involved in delivery of gamma-aminobutyric acid (GABA(A)) receptors to synapses; the function is dependent on kinesin motor protein KIF5 and is disrupted by HTT with expanded polyglutamine repeat. Involved in regulation of autophagosome motility by promoting efficient retrograde axonal transport. Seems to be involved in regulation of membrane receptor recycling and degradation, and respective signal transduction, including GABA(A) receptors, tyrosine kinase receptors, EGFR, IP3 receptor and androgen receptor. Among others suggested to be involved in control of feeding behavior (involving hypothalamic GABA(A) receptors), cerebellar and brainstem development (involving AHI1 and NTRK1/TrkA), postnatal neurogenesis (involving hypothalamic NTRK2/TrkB), and ITPR1/InsP3R1-mediated Ca(2+) release (involving HTT and possibly the effect of mutant HTT). Via association with DCTN1/dynactin p150-glued and HTT/huntingtin involved in cytoplasmic retention of REST in neurons. May be involved in ciliogenesis. Involved in regulation of exocytosis. Seems to be involved in formation of cytoplasmic inclusion bodies (STBs). In case of anomalous expression of TBP, can sequester a subset of TBP into STBs; sequestration is enhanced by an expanded polyglutamine repeat within TBP. HAP1-containing STBs have been proposed to play a protective role against neurodegeneration in Huntigton disease (HD) and spinocerebellar ataxia 17 (SCA17).
+Subcellular Location	Cytoplasm; Cell projection; Axon; Presynapse; Cytoplasm; Cytoskeleton; Cell projection; Dendritic spine; Cell projection; Dendrite; Lysosome; Endoplasmic reticulum; Mitochondrion; Nucleus; Cytoplasmic vesicle; Autophagosome; Early endosome; Cell projection; Growth cone; Cell projection; Neuron projection; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPKRLGRCCAGSRLGPGDPAALTCAPSPSASPAPEPSAQPQARGTGQRVGSRATSGSQFLSEARTGARPASEAGAKAGARRPSAFSAIQGDVRSMPDNSDAPWTRFVFQGPFGSRATGRGTGKAAGIWKTPAAYVGRRPGVSGPERAAFIRELEEALCPNLPPPVKKITQEDVKVMLYLLEELLPPVWESVTYGMVLQRERDLNTAARIGQSLVKQNSVLMEENSKLEALLGSAKEEILYLRHQVNLRDELLQLYSDSDEEDEDEEEEEEEKEAEEEQEEEEAEEDLQCAHPCDAPKLISQEALLHQHHCPQLEALQEKLRLLEEENHQLREEASQLDTLEDEEQMLILECVEQFSEASQQMAELSEVLVLRLENYERQQQEVARLQAQVLKLQQRCRMYGAETEKLQKQLASEKEIQMQLQEEETLPGFQETLAEELRTSLRRMISDPVYFMERNYEMPRGDTSSLRYDFRYSEDREQVRGFEAEEGLMLAADIMRGEDFTPAEEFVPQEELGAAKKVPAEEGVMEEAELVSEETEGWEEVELELDEATRMNVVTSALEASGLGPSHLDMNYVLQQLANWQDAHYRRQLRWKMLQKGECPHGALPAASRTSCRSSCR
+PTM	Methylation:77,175,320,393,570;Phosphorylation:52,401,405;Ubiquitylation:393

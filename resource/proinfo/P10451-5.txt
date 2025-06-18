@@ -1,0 +1,25 @@
+UniprotID	P10451-5
+Accession	P10451;B2RDA1;Q15681;Q15682;Q15683;Q4W597;Q567T5;Q8NBK2;Q96IZ1
+EntryName	OSTP_HUMAN
+ProteinName	Osteopontin (Bone sialoprotein 1) (Nephropontin) (Secreted phosphoprotein 1) (SPP-1) (Urinary stone protein) (Uropontin)
+GeneName	SPP1 BNSP OPN PSEC0156
+Length	300
+Function	Major non-collagenous bone protein that binds tightly to hydroxyapatite. Appears to form an integral part of the mineralized matrix. Probably important to cell-matrix interaction.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	232...236
+validnes_region	
+nesbase_region	
+Sequence	MRIAVICFCLLGITCAIPVKQADSGSSEEKQLYNKYPDAVATWLNPDPSQKQNLLAPQTLPSKSNESHDHMDDMDDEDDDDHVDSQDSIDSNDSDDVDDTDDSHQSDESHHSDESDELVTDFPTDLPATEVFTPVVPTVDTYDGRGDSVVYGLRSKSKKFRRPDIQYPDATDEDITSHMESEELNGAYKAIPVAQDLNAPSDWDSRGKDSYETSQLDDQSAETHSHKQSRLYKRKANDESNEHSDVIDSQELSKVSREFHSHEFHSHEDMLVVDPKSKEEDKHLKFRISHELDSASSEVN
+PTM	Phosphorylation:24,26,27,62,63,66,73,76,181,185,190,191,195,202,215,219,224,225,227,228,234,237,239,254,258,263,267,270,275,280,291,303,308,310,311

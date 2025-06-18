@@ -1,0 +1,25 @@
+UniprotID	Q96G46-3
+Accession	Q96G46;Q96HM5;Q9BSU4;Q9H877;Q9NPR1
+EntryName	DUS3L_HUMAN
+ProteinName	tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like (EC 1.3.1.89) (mRNA-dihydrouridine synthase DUS3L) (EC 1.3.1.-) (tRNA-dihydrouridine synthase 3-like)
+GeneName	DUS3L
+Length	408
+Function	Catalyzes the synthesis of dihydrouridine, a modified base, in various RNAs, such as tRNAs, mRNAs and some long non-coding RNAs (lncRNAs) (PubMed:34556860). Mainly modifies the uridine in position 47 (U47) in the D-loop of most cytoplasmic tRNAs (PubMed:34556860). Also able to mediate the formation of dihydrouridine in some mRNAs, thereby regulating their translation (PubMed:34556860).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEGTAEAPLENGGGGDSGAGALERGVAPIKRQYLTTKEQFHQFLEAKGQEKTCRETELDIRGKLYLAPLTTCGNLPFRRICKRFGADVTCGEMAVCTNLLQGQMSEWALLKRHQCEDIFGVQLEGAFPDTMTKCAELLSRTVEVDFVDINVGCPIDLVYKKGGGCALMNRSTKFQQIVRGMNQVLDVPLTVKIRTGVQERVNLAHRLLPELRDWGVALVTLHGRSREQRYTKLADWQYIEECVQAASPMPLFGNGDILSFEDANRAMQTGVTGIMIARGALLKPWLFTEIKEQRHWDISSSERLDILRDFTNYGLEHWGSDTQGVEKTRRFLLEWLSFLCRYVPVGLLERLPQRINERPPYYLGRDYLETLMASQKAADWIRISEMLLGPVPPSFAFLPKHKANAYK
+PTM	Acetylation:73,212,416,643;Methylation:354,526,534;Phosphorylation:236,240,249,271,272,273,276,277,281,286,382,580;SUMOylation:31,38,48,73,134,154,299,306,404,416,435,534;Ubiquitylation:48,73,101,154,298,306,376,403,416,435,526,534,619

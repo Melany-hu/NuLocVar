@@ -1,0 +1,25 @@
+UniprotID	H3BMQ5
+Accession	H3BMQ5
+EntryName	H3BMQ5_HUMAN
+ProteinName	RNA helicase (EC 3.6.4.13)
+GeneName	DDX19B
+Length	233
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	49...54
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLREKLSNLHLKEEKIKPDTNGAVVKTNANAEKTDEEEKEDRAAQSLLNKLIRSNLVDNTNQVEVLQRDPNSPLYSVKSFEELRLKPQLLQGVYAMGFNRPSKIQENALPLMLAEPPQNLIAQSQSGTGKTAAFVLAMLSQVEPANKYPQCLCLSPTYELALQTGKVIEQMGKFYPELKLAYAVRGNKLERGQKISEQIVIGTPGTVLDWCSKLKFIDPKKIKVFVLDEADV
+PTM	

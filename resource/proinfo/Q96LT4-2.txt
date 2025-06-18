@@ -1,0 +1,25 @@
+UniprotID	Q96LT4-2
+Accession	Q96LT4;Q5JSC5;Q5JSC8;Q66K52
+EntryName	SAMD8_HUMAN
+ProteinName	Sphingomyelin synthase-related protein 1 (SMSr) (EC 2.7.8.-) (Ceramide phosphoethanolamine synthase) (CPE synthase) (Sterile alpha motif domain-containing protein 8) (SAM domain-containing protein 8)
+GeneName	SAMD8
+Length	326
+Function	Synthesizes sphingolipids through transfer of a phosphatidyl head group from a glycerophospholipid on to the primary hydroxyl of a ceramide in the lumen of the endoplasmic reticulum (PubMed:19506037, PubMed:38388831). Catalyzes the synthesis of ceramide phosphoethanolamines (CPEs) (such as N-acylsphing-4-enine 1-phosphoethanolamine) by transferring phosphoethanolamine head group, which is smaller and more hydrophilic than the phosphocholine (PC) headgroup transferred in the canonical sphingomyelin synthesis (SMS) reaction by SMS1 or SMS2, from a phosphatidylethanolamine (1,2-diacyl-sn-glycero-3-phosphoethanolamine, PE) to a ceramide (such as N-acylsphing-4-enine) (PubMed:19506037, PubMed:38388831). The larger PC prevents an efficient fit in the enzyme's catalytic pocket, leading to little or no SMS activity (PubMed:19506037, PubMed:38388831). In vitro, in the absence of ceramide, it has PLC activity with preference for phosphatidylinositol and phosphatidic acid, but also hydrolyzes phosphatidylethanolamine (PubMed:33621517, PubMed:38388831).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGPNQLCIRRWTTKHVAVWLKDEGFFEYVDILCNKHRLDGITLLTLTEYDLRSPPLEIKVLGDIKRLMLSVRKLQKIHIDVLEEMGYNSDSPMGSMTPFISALQSTDWLCNGELSHDCDGPITDLNSDQYQYMNGKNKHSVRRLDPEYWKTILSCIYVFIVFGFTSFIMVIVHERVPDMQTYPPLPDIFLDSVPRIPWAFAMTEVCGMILCYIWLLVLLLHKHRSILLRRLCSLMGTVFLLRCFTMFVTSLSVPGQHLQCTGKIYGSVWEKLHRAFAIWSGFGMTLTGVHTCGDYMFSGHTVVLTMLNFFVTECKYLFSASMRIR
+PTM	Acetylation:15;Phosphorylation:141,193,362,363,365,369;Ubiquitylation:66

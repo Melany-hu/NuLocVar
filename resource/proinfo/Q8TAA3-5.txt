@@ -1,0 +1,25 @@
+UniprotID	Q8TAA3-5
+Accession	Q8TAA3;B0YJ75;Q8IVP4;Q8TA98;Q8TAA2
+EntryName	PSMA8_HUMAN
+ProteinName	Proteasome subunit alpha-type 8 (Proteasome alpha 4 subunit) (Alpha4s) (Proteasome subunit alpha-type 7-like)
+GeneName	PSMA8 PSMA7L
+Length	250
+Function	Component of the spermatoproteasome, a proteasome specifically found in testis that promotes acetylation-dependent degradation of histones, thereby participating actively to the exchange of histones during spermatogenesis. The proteasome is a protein complex that degrades unneeded or damaged proteins by proteolysis, a chemical reaction that breaks peptide bonds. Required for 20S core proteasome assembly, essential for the degradation of meiotic proteins RAD51 and RPA1 at late prophase I and the progression of meiosis I during spermatogenesis. Localizes to the synaptonemal complex, a 'zipper'-like structure that holds homologous chromosome pairs in synapsis during meiotic prophase I.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRYDRAITVFSPDGHLFQVEYAQEAVKKGSTAVGIRGTNIVVLGVEKKSVAKLQDERTVRKICALDDHVCMAFAGLTADARVVINRARVECQSHKLTVEDPVTVEYITRFIATLKQKYTQSNGRRPFGISALIVGFDDDGISRLYQTDPSGTYHAWKANAIGRSAKTVREFLEKNYTEDAIASDSEAIKLAIKALLEVVQSGGKNIELAIIRRNQPLKMFSAKEVELYVTEIEKEKEEAEKKKSKKSV
+PTM	Acetylation:29,50,54;Methylation:165,182,197,201,212;Phosphorylation:10,13,32,33,40,153,161,209;SUMOylation:29,54;Ubiquitylation:29,30,49,50,54,63,165

@@ -1,0 +1,25 @@
+UniprotID	Q6IPW1-2
+Accession	Q6IPW1;Q6IAD3;Q9NXX1
+EntryName	CK071_HUMAN
+ProteinName	Uncharacterized protein C11orf71
+GeneName	C11orf71
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALNNVSLSSGDQRSRVAYRSSHGDLRPRASALAMVSGDGFLVSRPEAIHLGPRQAVRPSVRAESRRVDGGGRSPREPDGRGRSRQARFSPYPIPAVEPDLLRSVLQQRLIALGVTTWTLKLSESATPDLRWCSTCSHSNIFEILVI
+PTM	

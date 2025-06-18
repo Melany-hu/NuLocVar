@@ -1,0 +1,25 @@
+UniprotID	O15173-2
+Accession	O15173;Q569H1
+EntryName	PGRC2_HUMAN
+ProteinName	Membrane-associated progesterone receptor component 2 (Progesterone membrane-binding protein) (Steroid receptor protein DG6)
+GeneName	PGRMC2 DG6 PMBP
+Length	247
+Function	Required for the maintenance of uterine histoarchitecture and normal female reproductive lifespan (By similarity). May serve as a universal non-classical progesterone receptor in the uterus (Probable). Intracellular heme chaperone required for delivery of labile, or signaling heme, to the nucleus (By similarity). Plays a role in adipocyte function and systemic glucose homeostasis (PubMed:28111073). In brown fat, which has a high demand for heme, delivery of labile heme in the nucleus regulates the activity of heme-responsive transcriptional repressors such as NR1D1 and BACH1 (By similarity).
+Subcellular Location	Membrane; Nucleus envelope; Endoplasmic reticulum; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGAGRGVGEGRGRGGGGRRWRAVMAAGDGDVKLGTLGSGSESSNDGGSESPGDAGAAAEGGGWAAAALALLTGGGEMLLNVALVALVLLGAYRLWVRWGRRGLGAGAGAGEESPATSLPRMKKRDFSLEQLRQYDGSRNPRILLAVNGKVFDVTKGSKFYGPAGPYGIFAGRDASRGLATFCLDKDALRDEYDDLSDLNAVQMESVREWEMQFKEKYDYVGRLLKPGEEPSEYTDEEDTKDHNKQD
+PTM	Acetylation:132,135,162,193;Methylation:109,126,132,162,191;Phosphorylation:90,93,94,104,143,169,194,196,208,210,211,216;Ubiquitylation:126,132,135,162,191,193,202

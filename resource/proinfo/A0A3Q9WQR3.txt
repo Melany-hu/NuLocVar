@@ -1,0 +1,25 @@
+UniprotID	A0A3Q9WQR3
+Accession	A0A3Q9WQR3
+EntryName	A0A3Q9WQR3_HUMAN
+ProteinName	Phospholipase A2 group VI
+GeneName	PLA2G6
+Length	10
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	YFRMRDEVFR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9Y6Q6-6
+Accession	Q9Y6Q6;I4EC36;I4EC38;I4EC39;I7JE63;N0GVH0;Q59EP9
+EntryName	TNR11_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 11A (Osteoclast differentiation factor receptor) (ODFR) (Receptor activator of NF-KB) (CD antigen CD265)
+GeneName	TNFRSF11A RANK
+Length	602
+Function	Receptor for TNFSF11/RANKL/TRANCE/OPGL; essential for RANKL-mediated osteoclastogenesis (PubMed:9878548). Its interaction with EEIG1 promotes osteoclastogenesis via facilitating the transcription of NFATC1 and activation of PLCG2 (By similarity). Involved in the regulation of interactions between T-cells and dendritic cells (By similarity).
+Subcellular Location	Cell membrane; Membrane raft; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRARRRRPLFALLLLCALLARLQVALQIAPPCTSEKHYEHLGRCCNKCEPGKYMSSKCTTTSDSVCLPCGPDEYLDSWNEEDKCLLHKVCDTGKALVAVVAGNSTTPRRCACTAGYHWSQDCECCRRNTECAPGLGAQHPCYFSDAFSSTDKCRPWTNCTFLGKRVEHHGTEKSDAVCSSSLPARKPPNEPHVYLPGLIILLLFASVALVAAIIFGVCYRKKGKALTANLWHWINEACGRLSGDKESSGDSCVSTHTANFGQQGACEGVLLLTLEEKTFPEDMCYPDQGGVCQGTCVGGGPYAQGEDARMLSLVSKTEIEEDSFRQMPTEDEYMDRPSQPTDQLLFLTEPGSKSTPPFSEPLEVGENDSLSQCFTGTQSTVGSESCNCTEPLCRTDWTPMSSENYLQKEVDSGHCPHWAASPSPNWADVCTGCRNPPGEDCEPLVGSPKRGPLPQCAYGMGLPPEEEASRTEARDQPEDGADGRLPSSARAGAGSGSSPGGQSPASGNVTGNSNSTFISSGQVMNFKGDIIVVYVSQTSQEGAAAAAEPMGRPVQEETLARRDSFAGNGPRFPDPCGGPEGLREPEKASRPVQEQGGAKA
+PTM	Glycosylation:105;Methylation:332;Phosphorylation:197,328,463,580;Ubiquitylation:261

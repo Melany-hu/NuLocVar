@@ -1,0 +1,25 @@
+UniprotID	S4R365
+Accession	S4R365
+EntryName	S4R365_HUMAN
+ProteinName	ZNF559-ZNF177 readthrough
+GeneName	ZNF559-ZNF177
+Length	82
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRITAAILTARSRWRLRNSISAFLFTVTFAWCPPGLSNLTILSCPGLGISKQEEGLGEESDEQGEGSQGWSEIQEMRSCCVA
+PTM	

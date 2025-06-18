@@ -1,0 +1,25 @@
+UniprotID	A5JTV0
+Accession	A5JTV0
+EntryName	A5JTV0_HUMAN
+ProteinName	MutL homolog 1 protein
+GeneName	MLH1
+Length	40
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GEALASISHVAHVTIPTKTADGKCAYRASYSDGKLKAPPK
+PTM	

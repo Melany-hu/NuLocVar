@@ -1,0 +1,25 @@
+UniprotID	P55209-3
+Accession	P55209;B3KNT8;B3KV44
+EntryName	NP1L1_HUMAN
+ProteinName	Nucleosome assembly protein 1-like 1 (NAP-1-related protein) (hNRP)
+GeneName	NAP1L1 NRP
+Length	323
+Function	Histone chaperone that plays a role in the nuclear import of H2A-H2B and nucleosome assembly (PubMed:20002496, PubMed:21211722, PubMed:26841755). Also participates in several important DNA repair mechanisms: greatly enhances ERCC6-mediated chromatin remodeling which is essential for transcription-coupled nucleotide excision DNA repair (PubMed:28369616). Also stimulates homologous recombination (HR) by RAD51 and RAD54 which is essential in mitotic DNA double strand break (DSB) repair (PubMed:24798879). Plays a key role in the regulation of embryonic neurogenesis (By similarity). Promotes the proliferation of neural progenitors and inhibits neuronal differentiation during cortical development (By similarity). Regulates neurogenesis via the modulation of RASSF10; regulates RASSF10 expression by promoting SETD1A-mediated H3K4 methylation at the RASSF10 promoter (By similarity).
+Subcellular Location	Nucleus; Melanosome; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	273..279
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	205...210;205...211;204...208
+validnes_region	
+nesbase_region	
+Sequence	MMQNPQILAALQERLDGLVETPTGYIESLPRVVKRRVNALKNLQVKCAQIEAKFYEEVHDLERKYAVLYQPLFDKEELKEKAKIEDEKKDEEKEDPKGIPEFWLTVFKNVDLLSDMVQEHDEPILKHLKDIKVKFSDAGQPMSFVLEFHFEPNEYFTNEVLTKTYRMRSEPDDSDPFSFDGPEIMGCTGCQIDWKKGKNVTLKTIKKKQKHKGRGTVRTVTKTVSNDSFFNFFAPPEVPESGDLDDDAEAILAADFEIGHFLRERIIPRSVLYFTGEAIEDDDDDYDEEGEEADEEGEEEGDEENDPDYDPKKDQNPAECKQQ
+PTM	Acetylation:32,82,87,94,105,116,156,161,194,271;Methylation:7,75,82,87,94,105,116,135,147,176,194,231,263,271;Phosphorylation:10,39,62,64,66,69,96,128,143,182,237,269,272,287,289,354,377;SUMOylation:105,151;Ubiquitylation:7,32,82,87,94,105,116,135,147,151,156,165,194,263,266,271

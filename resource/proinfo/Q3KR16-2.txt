@@ -1,0 +1,25 @@
+UniprotID	Q3KR16-2
+Accession	Q3KR16;Q3SWR1;Q8N1P1;Q8WYY1;Q9H8F4;Q9NVK9
+EntryName	PKHG6_HUMAN
+ProteinName	Pleckstrin homology domain-containing family G member 6 (PH domain-containing family G member 6) (Myosin-interacting guanine nucleotide exchange factor) (MyoGEF)
+GeneName	PLEKHG6
+Length	758
+Function	Guanine nucleotide exchange factor activating the small GTPase RHOA, which, in turn, induces myosin filament formation. Also activates RHOG. Does not activate RAC1, or to a much lower extent than RHOA and RHOG. Part of a functional unit, involving PLEKHG6, MYH10 and RHOA, at the cleavage furrow to advance furrow ingression during cytokinesis. In epithelial cells, required for the formation of microvilli and membrane ruffles on the apical pole. Along with EZR, required for normal macropinocytosis.
+Subcellular Location	Cell projection; Microvillus; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Spindle pole; Cleavage furrow
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCRLHAPGEKAAHDPSRRRLQQYVPFARGSGQARGLSPMRLRDPEPEKRHGGHVGAGLLHSPKLKELTKAHELEVRLHTFSMFGMPRLPPEDRRHWEIGEGGDSGLTIEKSWRELVPGHKEMSQELCHQQEALWELLTTELIYVRKLKIMTDLLAAGLLNLQRVGLLMEVSAETLFGNVPSLIRTHRSFWDEVLGPTLEETRASGQPLDPIGLQSGFLTFGQRFHPYVQYCLRVKQTMAYAREQQETNPLFHAFVQWCEKHKRSGRQMLCDLLIKPHQRITKYPLLLHAVLKRSPEARAQEALNAMIEAVESFLRHINGQVRQGEEQESLAAAAQRIGPYEVLEPPSDEVEKNLRPFSTLDLTSPMLGVASEHTRQLLLEGPVRVKEGREGKLDVYLFLFSDVLLVTKPQRKADKAKVIRPPLMLEKLVCQPLRDPNSFLLIHLTEFQCVSSALLVHCPSPTDRAQWLEKTQQAQAALQKLKAEEYVQQKRELLTLYRDQDRESPSTRPSTPSLEGSQSSAEGRTPEFSTIIPHLVVTEDTDEDAPLVPDDTSDSGYGTLIPGTPTGSRSPLSRLRQRALRRDPRLTFSTLELRDIPLRPHPPDPQAPQRRSAPELPEGILKGGSLPQEDPPTWSEEEDGASERGNVVVETLHRARLRGQLPSSPTHADSAGESPWESSGEEEEEGPLFLKAGHTSLRPMRAEDMLREIREELASQRIEGAEEPRDSRPRKLTRAQLQRMRGPHIIQLDTPLSASEV
+PTM	Methylation:143,308,325,385,513,655;Phosphorylation:43,70,184,204,280,543,622,623,645,668,711,712;Ubiquitylation:523

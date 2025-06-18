@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BGK6
+Accession	A0AAQ5BGK6
+EntryName	A0AAQ5BGK6_HUMAN
+ProteinName	APC regulator of WNT signaling pathway
+GeneName	APC
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	58...62
+validnes_region	
+nesbase_region	
+Sequence	MAAASYDQLLKQVEALKMENSNLRQELEDNSNHLTKLETEASNMKIEIHHWHKQEDFTGRKKLLRTFCRTRKYLNNYKEVLKMKLWLLLDRLIY
+PTM	

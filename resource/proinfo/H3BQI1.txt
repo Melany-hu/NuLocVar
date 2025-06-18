@@ -1,0 +1,25 @@
+UniprotID	H3BQI1
+Accession	H3BQI1
+EntryName	H3BQI1_HUMAN
+ProteinName	Dynein light chain roadblock-type 2
+GeneName	DYNLRB2
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNEWTNTGREPDPLPSSLPGPTAPGLGEPQAEVEETLKRIQSHKGVIGTMVVNAEGIPIRTTLDNSTTVQYAGLLHHLTMKAKSTVRDIDPQNDLTFLRIRSKKHEIMVAPDKEYLLIVIQNPCE
+PTM	

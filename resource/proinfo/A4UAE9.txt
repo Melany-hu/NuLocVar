@@ -1,0 +1,25 @@
+UniprotID	A4UAE9
+Accession	A4UAE9
+EntryName	A4UAE9_HUMAN
+ProteinName	Homocysteine-inducible endoplasmic reticulum stress-inducible ubiquitin-like domain member 1 protein
+GeneName	HERPUD1
+Length	275
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESETEPEPVTLLVKSPNQRHRDLELSGDRGWSVGHLKAHLSRVYPERPRPEDQRLIYSGKLLLDHQCLRDLLPKQEKRHVLHLVCNVKSPSKMPEINAKVAESTEEPAGSNRGQYPEDSSSDGLRQREVLRNLSSPGWENISRPEAAQQAFQGLGPGFSGYTPYGWLQLSWFQQIYARQYYMQYLAATAASGAFVPPPSAQEIPVVSAPAPAPIHNQFPAENQPANQNAAPQVVVNPGANQNLRMNAQGITLGGFHLDRGRFRTSQMMVLLLTL
+PTM	

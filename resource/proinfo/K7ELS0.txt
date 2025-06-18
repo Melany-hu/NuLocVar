@@ -1,0 +1,25 @@
+UniprotID	K7ELS0
+Accession	K7ELS0
+EntryName	K7ELS0_HUMAN
+ProteinName	Telomerase RNA component interacting RNase
+GeneName	TRIR
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAARGRRAEPQGREAPGPAGGGGGGSRWAESGSGTSPESGDEEVSGAGSSPVSGGVNLFANDGSFLELFKRKMEEEQRQRQEEPPPGPQRPDQSAAAAGPGDPKRKGGGQTQRREQTSPQDGNSSQEAEDGG
+PTM	

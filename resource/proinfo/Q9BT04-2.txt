@@ -1,0 +1,25 @@
+UniprotID	Q9BT04-2
+Accession	Q9BT04;B2RD86;B5MDH0;Q6PJY0;Q9H613
+EntryName	FUZZY_HUMAN
+ProteinName	Protein fuzzy homolog
+GeneName	FUZ FY
+Length	387
+Function	Probable planar cell polarity effector involved in cilium biogenesis. May regulate protein and membrane transport to the cilium. Proposed to function as core component of the CPLANE (ciliogenesis and planar polarity effectors) complex involved in the recruitment of peripheral IFT-A proteins to basal bodies. May regulate the morphogenesis of hair follicles which depends on functional primary cilia. Binds phosphatidylinositol 3-phosphate with highest affinity, followed by phosphatidylinositol 4-phosphate and phosphatidylinositol 5-phosphate (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	93...98
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGEEGTGGTVHLLCLAASSGVPLFCRSSRGGAPARQQLPFSVIGSLNGVHMFGQNLEVQLSSARTENTTVVWKSFHDSITLIVLSSEVGISELRLERLLQMVFGAMVLLVGLEELTNIRNVERLKKDLRASYCLIDSFLGDSELIGDLTQCVDCVIPPEGSLLQEALSGFAEAAGTTFVSLVVSGRVVAATEGWWRLGTPEAVLLPWLVGSLPPQTARDYPVYLPHGSPTVPHRLLTLTLLPSLELCLLCGPSPPLSQLYPQLLERWWQPLLDPLRACLPLGPRALPSGFPLHTDILGLLLLHLELKRCLFTVEPLGDKEPSPEQRRRLLRNFYTLVTSTHFPPEPGPPEKTEDEVYQAQLPRADYLAVGDGHRHGAVSVSLFIRSQ
+PTM	Methylation:307

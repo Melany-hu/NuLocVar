@@ -1,0 +1,25 @@
+UniprotID	P51809-3
+Accession	P51809;Q53GY7;Q7Z409;Q9H4A7
+EntryName	VAMP7_HUMAN
+ProteinName	Vesicle-associated membrane protein 7 (VAMP-7) (Synaptobrevin-like protein 1) (Tetanus-insensitive VAMP) (Ti-VAMP)
+GeneName	VAMP7 SYBL1
+Length	179
+Function	Involved in the targeting and/or fusion of transport vesicles to their target membrane during transport of proteins from the early endosome to the lysosome. Required for heterotypic fusion of late endosomes with lysosomes and homotypic lysosomal fusion. Required for calcium regulated lysosomal exocytosis. Involved in the export of chylomicrons from the endoplasmic reticulum to the cis Golgi. Required for exocytosis of mediators during eosinophil and neutrophil degranulation, and target cell killing by natural killer cells. Required for focal exocytosis of late endocytic vesicles during phagosome formation.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle membrane; Golgi apparatus; trans-Golgi network membrane; Late endosome membrane; Lysosome membrane; Endoplasmic reticulum membrane; Cytoplasmic vesicle; Phagosome membrane; Synapse; Synaptosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAILFAVVARGTTILAKHAWCGGNFLEDFERSRAFNFLNEIKKRFQTTYGSRAQTALPYAMNSEFSSVLAAQLKHHSENKGLDKVMETQAQVDELKGIMVRNIDLVAQRGERLELLIDKTENLVDSSVTFKTTSRNLARAMCMKNLKLTIIIIIVSIVFIYIIVSPLCGGFTWPSCVKK
+PTM	Methylation:17,35,83,137,160;Phosphorylation:167,168;SUMOylation:125,160,172;Ubiquitylation:17,35,83,84,115,125,137,160,172

@@ -1,0 +1,25 @@
+UniprotID	Q96GJ1-3
+Accession	Q96GJ1;A6NDG5;A6NEI9;A6NMG6;Q5JPF0;Q5JVY6;Q96HU7;Q96IH9;Q9H9K2
+EntryName	TRM2B_HUMAN
+ProteinName	tRNA (uracil-5-)-methyltransferase homolog B (EC 2.1.1.35) (TRM2 homolog B) (rRNA (uracil-5-)-methyltransferase TRMT2B) (EC 2.1.1.-)
+GeneName	TRMT2B CXorf34
+Length	459
+Function	Mitochondrial S-adenosyl-L-methionine-dependent methyltransferase that catalyzes the formation of 5-methyl-uridine in tRNAs and 12S rRNA (PubMed:31948311, PubMed:34556860). Catalyzes the methylation of uridine at position 54 (m5U54) in all tRNAs (PubMed:31948311). Specifically methylates the uridine in position 429 of 12S rRNA (m5U429) (PubMed:31948311). Does not affect RNA stability or mitochondrial translation (PubMed:31948311).
+Subcellular Location	Mitochondrion; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLKRRVPLHSLRYFISMVGLFSKPGLLPWYARNPPGWSQLFLGTVCKGDFTRVIATKCQKGQKSQKKPSHLGPLDGSWQERLADVVTPLWRLSYEEQLKPVINGYRNKSTFSVNRGPDGNPKTVGFYLGTWRDGNVVCVQSNHLKNIPEKHSQVAQYYEVFLRQSPLEPCLVFHEGGYWRELTVRTNSQGHTMAIITFHPQKLSQEELHVQKEIVKEFFIRGPGAACGLTSLYFQESTMTRCSHQQSPYQLLFGEPYIFEELLSLKIRISPDAFFQINTAGAEMLYRTVGELTGVNSDTILLDICCGTGVIGLSLAQHTSRVLGIELLEQAVEDARWTAAFNGITNSEFHTGQAEKILPGLLKSKEDGQSIVAVVNPARAGLHYKVIQAIRNFRAIHTLVFVSCKLHGESTRNVIELCCPPDPAKKLLGEPFVLQQAVPVDLFPHTPHCELVLLFTR
+PTM	Acetylation:101;Methylation:101,263,410;Phosphorylation:24,225,311,411;Ubiquitylation:410

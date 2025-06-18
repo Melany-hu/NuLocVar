@@ -1,0 +1,25 @@
+UniprotID	E9PS60
+Accession	E9PS60
+EntryName	E9PS60_HUMAN
+ProteinName	Phosphodiesterase 4D interacting protein
+GeneName	PDE4DIP
+Length	186
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFLCQGFRKYLPEHLNDLKKENFSLKLRIYFLEERMQQKYEASREDIYKRNIELKVEVESLKRELQDKKQHLDKTWADVENLNSQNEAELRRQFEERQQETEHVYELLENKIQLLQEESRLAKNEAARMAALVEAEKECNLELSEKLKGVTKNWEDVPGDQVKPDQYTEALAQRDKRIEELNQSLA
+PTM	

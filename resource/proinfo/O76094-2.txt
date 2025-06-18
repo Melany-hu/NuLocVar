@@ -1,0 +1,25 @@
+UniprotID	O76094-2
+Accession	O76094;G5E9Z8;Q7Z3C0
+EntryName	SRP72_HUMAN
+ProteinName	Signal recognition particle subunit SRP72 (SRP72) (Signal recognition particle 72 kDa protein)
+GeneName	SRP72
+Length	610
+Function	Component of the signal recognition particle (SRP) complex, a ribonucleoprotein complex that mediates the cotranslational targeting of secretory and membrane proteins to the endoplasmic reticulum (ER) (PubMed:34020957). The SRP complex interacts with the signal sequence in nascent secretory and membrane proteins and directs them to the membrane of the ER (PubMed:34020957). The SRP complex targets the ribosome-nascent chain complex to the SRP receptor (SR), which is anchored in the ER, where SR compaction and GTPase rearrangement drive cotranslational protein translocation into the ER (PubMed:34020957). Binds the signal recognition particle RNA (7SL RNA) in presence of SRP68 (PubMed:21073748, PubMed:27899666). Can bind 7SL RNA with low affinity (PubMed:21073748, PubMed:27899666). The SRP complex possibly participates in the elongation arrest function (By similarity).
+Subcellular Location	Cytoplasm; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGGSGGVSVPALWSEVNRYGQNGDFTRALKTVNKILQINKDDVTALHCKVVCLIQNGSFKEALNVINTHTKVLANNSLSFEKAYCEYRLNRIENALKTIESANQQTDKLKELYGQVLYRLERYDECLAVYRDLVRNSQDDYDEERKTNLSAVVAAQSNWEKVVPENLGLQEGTHELCYNTACALIGQGQLNQAMKILQKAEDLCRRSLSEDTDQNVFDSKKKVKLTNAEGVEFKLSKKQLQAIEFNKALLAMYTNQAEQCRKISASLQSQSPEHLLPVLIQAAQLCREKQHTKAIELLQEFSDQHPENAAEIKLTMAQLKISQGNISKACLILRSIEELKHKPGMVSALVTMYSHEEDIDSAIEVFTQAIQWYQNHQPKSPAHLSLIREAANFKLKYGRKKEAISDLQQLWKQNPKDIHTLAQLISAYSLVDPEKAKALSKHLPSSDSMSLKVDVEALENSAGATYIRKKGGKVTGDSQPKEQGQGDLKKKKKKKKGKLPKNYDPKVTPDPERWLPMRERSYYRGRKKGKKKDQIGKGTQGATAGASSELDASKTVSSPPTSPRPGSAATVSASTSNIIPPRHQKPAGAPATKKKQQQKKKKGGKGGW
+PTM	Acetylation:32,36,42,51,62,84,99,110,201,283,287,383,391,457,475,479,498,504,569;Methylation:42,99,201,254,275,297,310,376,403,475,617;Phosphorylation:6,81,108,125,139,242,448,491,524,528,538,541,566,571,610,611,616,618,620,621,624,625,630,633,635,637,638,639;SUMOylation:148,391,515;Ubiquitylation:32,36,73,84,99,112,297,301,325,356,383,391,475,479,498,515,544,552,569,600

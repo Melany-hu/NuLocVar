@@ -1,0 +1,25 @@
+UniprotID	Q9BW83-2
+Accession	Q9BW83;O60897
+EntryName	IFT27_HUMAN
+ProteinName	Intraflagellar transport protein 27 homolog (Putative GTP-binding protein RAY-like) (Rab-like protein 4)
+GeneName	IFT27 RABL4 RAYL
+Length	185
+Function	Small GTPase-like component of the intraflagellar transport (IFT) complex B that promotes the exit of the BBSome complex from cilia via its interaction with ARL6 (PubMed:25443296). Not involved in entry of the BBSome complex into cilium. Prevents aggregation of GTP-free ARL6 (PubMed:25443296). Required for hedgehog signaling. Forms a subcomplex within the IFT complex B with IFT25. Its role in intraflagellar transport is mainly seen in tissues rich in ciliated cells such as kidney and testis. Essential for male fertility, spermiogenesis and sperm flagella formation. Plays a role in the early development of the kidney. May be involved in the regulation of ureteric bud initiation (By similarity).
+Subcellular Location	Cell projection; Cilium; Cytoplasm; Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKLAAKCILADPAVGKTALAQIFRSDGAHFQKSYTLTTGMDLVVKTVPVPDTGDSVELFIFDSAGKELFSEMLDKLWESPNVLCLVYDVTNEESFNNCSKWLEKARSQAPGISLPGVLVGNKTDLAGRRAVDSAEARAWALGQGLECFETSVKEMENFEAPFHCLAKQFHQLYREKVEVFRALA
+PTM	Methylation:18,47;SUMOylation:106,124;Ubiquitylation:68,124,155

@@ -3,7 +3,7 @@
 #Receive parameters
 $tag = $_POST['tag'];
 $content = $_POST['content'];
-$org = $_POST['org'];
+
 $rowNumber = $_POST['rowNumber'];
 $nowPage = $_POST['nowPage'];
 $orderInfo = $_POST['orderInfo'];
@@ -11,9 +11,6 @@ if($tag == 'All'){
 	$mainQueryInfo = "uniprot like '%".$content."%' or gene like '%".$content."%' or protein like '%".$content."%'";
 }else{
 	$mainQueryInfo = $tag." like '%".$content."%'";
-}
-if($org != 'All'){
-	$mainQueryInfo = "(".$mainQueryInfo.") and organism = '".$org."'";
 }
 /*------ Connnet to database ------*/
 function connectDB() {
@@ -26,6 +23,7 @@ function connectDB() {
     }
 }
 
+/*- 一共0-10行搜索 -*/
 function showReturnInfo($qevents){
 	$returnRes = array();
 	for($i=0;$i<$qevents->num_rows;$i++){
@@ -35,6 +33,8 @@ function showReturnInfo($qevents){
     return $returnRes;
 }
 
+
+/*- 计算搜索结果的数量 -*/
 $db = connectDB();
 $queryRes = $db->query("select * from prosearch where (".$mainQueryInfo.") order by ".($orderInfo == ''?"primaryacc":$orderInfo)." limit ".(($nowPage-1)*$rowNumber).','.$rowNumber);
 $queryResAll = $db->query("select count(*) from prosearch where (".$mainQueryInfo.")");

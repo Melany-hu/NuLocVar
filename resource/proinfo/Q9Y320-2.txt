@@ -1,0 +1,25 @@
+UniprotID	Q9Y320-2
+Accession	Q9Y320;B7Z4R4;Q53G73;Q561W0;Q5J7Q7;Q8NBP9;Q9H3L1
+EntryName	TMX2_HUMAN
+ProteinName	Thioredoxin-related transmembrane protein 2 (Cell proliferation-inducing gene 26 protein) (Thioredoxin domain-containing protein 14)
+GeneName	TMX2 TXNDC14 CGI-31 My009 PIG26 PSEC0045 UNQ237/PRO270
+Length	258
+Function	Endoplasmic reticulum and mitochondria-associated protein that probably functions as a regulator of cellular redox state and thereby regulates protein post-translational modification, protein folding and mitochondrial activity. Indirectly regulates neuronal proliferation, migration, and organization in the developing brain.
+Subcellular Location	Endoplasmic reticulum membrane; Mitochondrion membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVLAPLIALVYSVPRLSRWLAQPYYLLSALLSAAFLLVRKLPPLCHGLPTQREDGNPCDFDWREVEILMFLSAIVMMKNRRSMFLMTCKPPLYMGPEYIKYFNDKTIDEELERDKRVTWIVEFFANWSNDCQSFAPIYADLSLKYNCTGLNFGKVDVGRYTDVSTRYKVSTSPLTKQLPTLILFQGGKEAMRRPQIDKKGRAVSWTFSEENVIREFNLNELYQRAKKLSKAGDNIPEEQPVASTPTTVSDGENKKDK
+PTM	Acetylation:193;Phosphorylation:73,187,206,209,210,211,243,282,283,285,286,288;Ubiquitylation:41,144,193,207,215,227,237,269,293

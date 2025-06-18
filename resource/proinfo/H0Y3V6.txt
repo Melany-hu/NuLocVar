@@ -1,0 +1,25 @@
+UniprotID	H0Y3V6
+Accession	H0Y3V6
+EntryName	H0Y3V6_HUMAN
+ProteinName	Family with sequence similarity 131 member B
+GeneName	FAM131B
+Length	11
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XDFSWDGINAL
+PTM	

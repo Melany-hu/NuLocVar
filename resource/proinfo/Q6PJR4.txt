@@ -1,0 +1,25 @@
+UniprotID	Q6PJR4
+Accession	Q6PJR4
+EntryName	Q6PJR4_HUMAN
+ProteinName	GUCY1A3 protein (Guanylate cyclase 1 soluble subunit alpha 1) (Guanylate cyclase 1, soluble, alpha 3, isoform CRA_c)
+GeneName	GUCY1A1 GUCY1A3 hCG_28051
+Length	143
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFCTKLKDLKITGECPFSLLAPGQVPNESSEEAAGSSESCKATVPICQDIPEKNIQESLPQRKTSRSRVYLHTLAESICKLIFPEFERLNVALQRTLAKHKIKESRKSLEREDFEKTIAEQAVAAGGDHWRCLLCSWGITQRE
+PTM	

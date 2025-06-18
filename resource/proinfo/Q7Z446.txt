@@ -1,0 +1,25 @@
+UniprotID	Q7Z446
+Accession	Q7Z446
+EntryName	Q7Z446_HUMAN
+ProteinName	unspecific monooxygenase (EC 1.14.14.1)
+GeneName	CYP3A5
+Length	84
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FSKKKDSIDPYIYTPFGTGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLDTQGLLQPEKPIVLKVDSRDGTLSGE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P13928-3
+Accession	P13928;A6NDE6;A6NLM1;B4DKI1;B4DTC9;Q5T2P8;Q5VTM4;Q6GMY3;Q9BT34
+EntryName	ANXA8_HUMAN
+ProteinName	Annexin A8 (Annexin VIII) (Annexin-8) (Vascular anticoagulant-beta) (VAC-beta)
+GeneName	ANXA8 ANX8
+Length	265
+Function	This protein is an anticoagulant protein that acts as an indirect inhibitor of the thromboplastin-specific complex, which is involved in the blood coagulation cascade.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWWKSWDLTETLKSELSGKFERLIVALMYPPYRYEAKELHDAMKGLGTKEGVIIEILASRTKNQLREIMKAYEEDYGSSLEEDIQADTSGYLERILVCLLQGSRDDVSSFVDPGLALQDAQDLYAAGEKIRGTDEMKFITILCTRSATHLLRVFEEYEKIANKSIEDSIKSETHGSLEEAMLTVVKCTQNLHSYFAERLYYAMKGAGTRDGTLIRNIVSRSEIDLNLIKCHFKKMYGKTLSSMIMEDTSGDYKNALLSLVGSDP
+PTM	Acetylation:32,69,76,82,267;Methylation:16,61,76,222,233,292;Phosphorylation:52,122,124,196,203,207

@@ -1,0 +1,25 @@
+UniprotID	P61599-2
+Accession	P61599;A6NHA3;B2R4G4;Q5TFT7;Q9D7H8;Q9H0Y4;Q9NQH6;Q9Y6D2
+EntryName	NAA20_HUMAN
+ProteinName	N-alpha-acetyltransferase 20 (EC 2.3.1.254) (Methionine N-acetyltransferase) (N-acetyltransferase 5) (N-terminal acetyltransferase B complex catalytic subunit NAA20) (N-terminal acetyltransferase B complex catalytic subunit NAT5) (NatB complex subunit NAT5) (NatB catalytic subunit)
+GeneName	NAA20 NAT5
+Length	111
+Function	Catalytic subunit of the NatB complex which catalyzes acetylation of the N-terminal methionine residues of peptides beginning with Met-Asp, Met-Glu, Met-Asn and Met-Gln (PubMed:34230638). Proteins with cell cycle functions are overrepresented in the pool of NatB substrates. Required for maintaining the structure and function of actomyosin fibers and for proper cellular migration.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTLRAFTCDDLFRFNNINLDPLTETYGIPFYLQYLAHWPEYFIVAEAPGGELMGYIMGKAEGSVAREEWHGHVTALSVAPEFRRLGLAAKLMELLEEISERYEESTFQGY
+PTM	Methylation:103;SUMOylation:163;Ubiquitylation:103,124,163

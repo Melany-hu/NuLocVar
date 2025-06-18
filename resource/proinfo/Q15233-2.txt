@@ -1,0 +1,25 @@
+UniprotID	Q15233-2
+Accession	Q15233;B7Z4C2;D3DVV4;F5GYZ3;O00201;P30807;Q12786;Q9BQC5
+EntryName	NONO_HUMAN
+ProteinName	Non-POU domain-containing octamer-binding protein (NonO protein) (54 kDa nuclear RNA- and DNA-binding protein) (p54(nrb)) (p54nrb) (55 kDa nuclear protein) (NMT55) (DNA-binding p52/p100 complex, 52 kDa subunit)
+GeneName	NONO NRB54
+Length	382
+Function	DNA- and RNA binding protein, involved in several nuclear processes (PubMed:11525732, PubMed:12403470, PubMed:26571461). Binds the conventional octamer sequence in double-stranded DNA (PubMed:11525732, PubMed:12403470, PubMed:26571461). Also binds single-stranded DNA and RNA at a site independent of the duplex site (PubMed:11525732, PubMed:12403470, PubMed:26571461). Involved in pre-mRNA splicing, probably as a heterodimer with SFPQ (PubMed:11525732, PubMed:12403470, PubMed:26571461). Interacts with U5 snRNA, probably by binding to a purine-rich sequence located on the 3' side of U5 snRNA stem 1b (PubMed:12403470). Together with PSPC1, required for the formation of nuclear paraspeckles (PubMed:22416126). The SFPQ-NONO heteromer associated with MATR3 may play a role in nuclear retention of defective RNAs (PubMed:11525732). The SFPQ-NONO heteromer may be involved in DNA unwinding by modulating the function of topoisomerase I/TOP1 (PubMed:10858305). The SFPQ-NONO heteromer may be involved in DNA non-homologous end joining (NHEJ) required for double-strand break repair and V(D)J recombination and may stabilize paired DNA ends (PubMed:15590677). In vitro, the complex strongly stimulates DNA end joining, binds directly to the DNA substrates and cooperates with the Ku70/G22P1-Ku80/XRCC5 (Ku) dimer to establish a functional preligation complex (PubMed:15590677). NONO is involved in transcriptional regulation. The SFPQ-NONO-NR5A1 complex binds to the CYP17 promoter and regulates basal and cAMP-dependent transcriptional activity (PubMed:11897684). NONO binds to an enhancer element in long terminal repeats of endogenous intracisternal A particles (IAPs) and activates transcription (By similarity). Regulates the circadian clock by repressing the transcriptional activator activity of the CLOCK-BMAL1 heterodimer (By similarity). Important for the functional organization of GABAergic synapses (By similarity). Plays a specific and important role in the regulation of synaptic RNAs and GPHN/gephyrin scaffold structure, through the regulation of GABRA2 transcript (By similarity). Plays a key role during neuronal differentiation by recruiting TET1 to genomic loci and thereby regulating 5-hydroxymethylcytosine levels (By similarity). Plays a role in the regulation of DNA virus-mediated innate immune response by assembling into the HDP-RNP complex, a complex that serves as a platform for IRF3 phosphorylation and subsequent innate immune response activation through the cGAS-STING pathway (PubMed:28712728, PubMed:30270045). Promotes activation of the cGAS-STING pathway in response to HIV-2 infection: acts by interacting with HIV-2 Capsid protein p24, thereby promoting detection of viral DNA by CGAS, leading to CGAS-mediated inmmune activation (PubMed:30270045). In contrast, the weak interaction with HIV-1 Capsid protein p24 does not allow activation of the cGAS-STING pathway (PubMed:30270045).
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Nucleus speckle; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKLFEKYGKAGEVFIHKDKGFGFIRLETRTLAEIAKVELDNMPLRGKQLRVRFACHSASLTVRNLPQYVSNELLEEAFSVFGQVERAVVIVDDRGRPSGKGIVEFSGKPAARKALDRCSEGSFLLTTFPRPVTVEPMDQLDDEEGLPEKLVIKNQQFHKEREQPPRFAQPGSFEYEYAMRWKALIEMEKQQQDQVDRNIKEAREKLEMEMEAARHEHQVMLMRQDLMRRQEELRRMEELHNQEVQKRKQLELRQEEERRRREEEMRRQQEEMMRRQQEGFKGTFPDAREQEIRMGQMAMGGAMGINNRGAMPPAPVPAGTPAPPGPATMMPDGTLGLTPPTTERFGQAATMEGIGAIGGTPPAFNRAAPGAEFAPNKRRRY
+PTM	Acetylation:5,11,64,68,92,96,99,107,109,126,190,198,243,249,279,295,336,371,467;Methylation:11,60,91,107,109,115,126,135,184,198,239,243,256,270,279,287,295,325,336,343,364,456;Phosphorylation:6,15,97,118,120,147,149,151,188,196,212,262,265,373,410,418,424,428,440,450;SUMOylation:5,11,18,60,64,68,92,96,99,107,109,126,137,190,198,203,239,243,249,272,279,290,295,336,338,371,467;Ubiquitylation:5,11,64,68,92,96,99,107,109,126,190,198,239,243,249,272,279,295,336,338,371,467

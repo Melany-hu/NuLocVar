@@ -1,0 +1,25 @@
+UniprotID	Q16850-2
+Accession	Q16850;A0A0C4DFL7;A4D1F8;B2RAI4;B4DJ55;O00770;O00772;Q16784;Q8N1A8;Q99868
+EntryName	CP51A_HUMAN
+ProteinName	Lanosterol 14-alpha demethylase (LDM) (EC 1.14.14.154) (CYPLI) (Cytochrome P450 51A1) (CYP51A1) (Cytochrome P450-14DM) (Cytochrome P45014DM) (Cytochrome P450LI) (Sterol 14-alpha demethylase)
+GeneName	CYP51A1 CYP51
+Length	404
+Function	Sterol 14alpha-demethylase that plays a critical role in the cholesterol biosynthesis pathway, being cholesterol the major sterol component in mammalian membranes as well as a precursor for bile acid and steroid hormone synthesis (PubMed:20149798, PubMed:8619637, PubMed:9559662). Cytochrome P450 monooxygenase that catalyzes the three-step oxidative removal of the 14alpha-methyl group (C-32) of sterols such as lanosterol (lanosta-8,24-dien-3beta-ol) and 24,25-dihydrolanosterol (DHL) in the form of formate, and converts the sterols to 4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol and 4,4-dimethyl-8,14-cholestadien-3beta-ol, respectively, which are intermediates of cholesterol biosynthesis (PubMed:20149798, PubMed:8619637, PubMed:9559662). Can also demethylate substrates not intrinsic to mammals, such as eburicol (24-methylene-24,25-dihydrolanosterol), but at a lower rate than DHL (PubMed:9559662).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGKTFTYLLGSDAAALLFNSKNEDLNAEDVYSRLTTPVFGKGVAYDVPNPVFLEQKKMLKSGLNIAHFKQHVSIIEKETKEYFESWGESGEKNVFEALSELIILTASHCLHGKEIRSQLNEKVAQLYADLDGGFSHAAWLLPGWLPLPSFRRRDRAHREIKDIFYKAIQKRRQSQEKIDDILQTLLDATYKDGRPLTDDEVAGMLIGLLLAGQHTSSTTSAWMGFFLARDKTLQKKCYLEQKTVCGENLPPLTYDQLKDLNLLDRCIKETLRLRPPIMIMMRMARTPQTVAGYTIPPGHQVCVSPTVNQRLKDSWVERLDFNPDRYLQDNPASGEKFAYVPFGAGRHRCIGENFAYVQIKTIWSTMLRLYEFDLIDGYFPTVNYTTMIHTPENPVIRYKRRSK
+PTM	Methylation:91,177,270,291,335,358,365,460;Phosphorylation:135,136,161,173,274,404;SUMOylation:141,156,157,266,412,436;Ubiquitylation:79,121,141,156,157,160,169,180,261,266,277,331,335,336,342,358,368,412,436

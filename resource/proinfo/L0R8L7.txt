@@ -1,0 +1,25 @@
+UniprotID	L0R8L7
+Accession	L0R8L7
+EntryName	L0R8L7_HUMAN
+ProteinName	Alternative protein ZNF311
+GeneName	ZNF311
+Length	87
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVPSVEKTSASRQNSPNTEGSTLKRNVTGVRSVGKPFVITVSAGLMNESIQGRSPINAGIVGKPSKISTALPSIRESTLERNLTNV
+PTM	

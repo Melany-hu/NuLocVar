@@ -1,0 +1,25 @@
+UniprotID	Q9H310-3
+Accession	Q9H310;A8K475;Q5SZW4;Q5SZW6;Q5SZW7;Q6P193;Q6YJI2;Q6YJI3
+EntryName	RHBG_HUMAN
+ProteinName	Ammonium transporter Rh type B (Rhesus blood group family type B glycoprotein) (Rh family type B glycoprotein) (Rh type B glycoprotein)
+GeneName	RHBG
+Length	426
+Function	Ammonium transporter involved in the maintenance of acid-base homeostasis. Transports ammonium and its related derivative methylammonium across the basolateral plasma membrane of epithelial cells likely contributing to renal transepithelial ammonia transport and ammonia metabolism. May transport either NH4(+) or NH3 ammonia species predominantly mediating an electrogenic NH4(+) transport (PubMed:15284342, PubMed:15929723, PubMed:24077989). May act as a CO2 channel providing for renal acid secretion (PubMed:24077989).
+Subcellular Location	Cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVFVGFGFLMVFLQRYGFSSVGFTFLLAAFALQWSTLVQGFLHSFHGGHIHVGVESMINADFCAGAVLISFGAVLGKTGPTQLLLMALLEVVLFGINEFVLLHLLGVRVWGGMESGVGGGQGQPLSQERGGGGGVLPLTPPPQVRDAGGSMTIHTFGAYFGLVLSRVLYRPQLEKSKHRQGSVYHSDLFAMIGTIFLWIFWPSFNAALTALGAGQHRTALNTYYSLAASTLGTFALSALVGEDGRLDMVHIQNAALAGGVVVGTSSEMMLTPFGALAAGFLAGTVSTLGYKFFTPILESKFKVQDTCGVHNLHGMPGVLGALLGVLVAGLATHEAYGDGLESVFPLIAEGQRSATSQAMHQLFGLFVTLMFASVGGGLGGLLLKLPFLDSPPDSQHYEDQVHWQVPGEHEDKAQRPLRVEEADTQA
+PTM	Methylation:146,207,332,416;Phosphorylation:4,6,208

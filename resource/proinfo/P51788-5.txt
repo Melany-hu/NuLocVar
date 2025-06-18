@@ -1,0 +1,25 @@
+UniprotID	P51788-5
+Accession	P51788;B4DQT9;B4DZ58;E9PBD9;E9PCD2;O14864;Q6IPA9;Q8WU13
+EntryName	CLCN2_HUMAN
+ProteinName	Chloride channel protein 2 (ClC-2)
+GeneName	CLCN2
+Length	869
+Function	Voltage-gated and osmosensitive chloride channel. Forms a homodimeric channel where each subunit has its own ion conduction pathway. Conducts double-barreled currents controlled by two types of gates, two fast glutamate gates that control each subunit independently and a slow common gate that opens and shuts off both subunits simultaneously. Displays inward rectification currents activated upon membrane hyperpolarization and extracellular hypotonicity (PubMed:16155254, PubMed:17567819, PubMed:19191339, PubMed:23632988, PubMed:29403011, PubMed:29403012, PubMed:36964785, PubMed:38345841). Contributes to chloride conductance involved in neuron excitability. In hippocampal neurons, generates a significant part of resting membrane conductance and provides an additional chloride efflux pathway to prevent chloride accumulation in dendrites upon GABA receptor activation. In glia, associates with the auxiliary subunit HEPACAM/GlialCAM at astrocytic processes and myelinated fiber tracts where it may regulate transcellular chloride flux buffering extracellular chloride and potassium concentrations (PubMed:19191339, PubMed:22405205, PubMed:23707145). Regulates aldosterone production in adrenal glands. The opening of CLCN2 channels at hyperpolarized membrane potentials in the glomerulosa causes cell membrane depolarization, activation of voltage-gated calcium channels and increased expression of aldosterone synthase, the rate-limiting enzyme for aldosterone biosynthesis (PubMed:29403011, PubMed:29403012). Contributes to chloride conductance in retinal pigment epithelium involved in phagocytosis of shed photoreceptor outer segments and photoreceptor renewal (PubMed:36964785). Conducts chloride currents at the basolateral membrane of epithelial cells with a role in chloride reabsorption rather than secretion (By similarity) (PubMed:16155254). Permeable to small monovalent anions with chloride > thiocyanate > bromide > nitrate > iodide ion selectivity (By similarity) (PubMed:29403012).
+Subcellular Location	Cell membrane; Basolateral cell membrane; Cell projection; Dendritic spine membrane; Cell projection; Axon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAAAEEGMEPRALQYEQTLMYGRYTQDLGAFAKEEAARIRLGGPEPWKGPPSSRAAPELLEYGRSRCARCRVCSVRCHKFLVSRVGEDWIFLVLLGLLMALVSWVMDYAIAACLQAQQWMSRGLNTSILLQYLAWVTYPVVLITFSAGFTQILAPQAVGSGIPEMKTILRGVVLKEYLTLKTFIAKVIGLTCALGSGMPLGKEGPFVHIASMCAALLSKFLSLFGGIYENESRNTEMLAAACAVGVGCCFAAPIGGVLFSIEVTSTFFAVRNYWRGFFAATFSAFIFRVLAVWNRDEETITALFKTRFRLDFPFDLQELPAFAVIGIASGFGGALFVYLNRKIVQVMRKQKTINRFLMRKRLLFPALVTLLISTLTFPPGFGQFMAGQLSQKETLVTLFDNRTWVRQGLVEELEPPSTSQAWNPPRANVFLTLVIFILMKFWMSALATTIPVPCGAFMPVFVIGAAFGRLVGESMAAWFPDGIHTDSSTYRIVPGGYAVVGAAALAGAVTHTVSTAVIVFELTGQIAHILPVMIAVILANAVAQSLQPSLYDSIIRIKKLPYLPELGWGRHQQYRVRVEDIMVRDVPHVALSCTFRDLRLALHRTKGRMLALVESPESMILLGSIERSQVVALLGAQLSPARRRQHMQERRATQTSPLSDQEGPPTPEASVCFQVNTEDSAFPAARGETHKPLKPALKRGPSVTRNLGESPTGSAESAGIALRSLFCGSPPPEAASEKLESCEKRKLKRVRISLASDADLEGEMSPEEILEWEEQQLDEPVNFSDCKIDPAPFQLVERTSLHKLRKAIEGSVTAQGVKVRPPLASFRDSATSSSDTETTEVHALWGPHSRHGLPREGSPSDSDDKCQ
+PTM	Glycosylation:403;Methylation:35,177,183,221,833;Phosphorylation:20,392,396,555,641,704,712,714,716,719,726,731,738,743,831,856,860,862,863,864,865,867,889,891,893;SUMOylation:833;Ubiquitylation:50,351,740

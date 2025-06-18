@@ -1,0 +1,25 @@
+UniprotID	Q53RT1
+Accession	Q53RT1
+EntryName	Q53RT1_HUMAN
+ProteinName	Uncharacterized protein EPB41L5
+GeneName	EPB41L5
+Length	64
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EEVVKLTEKCLNNVIESPGLNVMRVPPDFKSNILKAQVEAVHKVTKEDSLLSHKNANVQDAATN
+PTM	

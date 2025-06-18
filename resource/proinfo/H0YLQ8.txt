@@ -1,0 +1,25 @@
+UniprotID	H0YLQ8
+Accession	H0YLQ8
+EntryName	H0YLQ8_HUMAN
+ProteinName	Leucine rich repeat containing 49
+GeneName	LRRC49
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQLRQLDMKRITEEERRMASVLAKKEEEKKRESHKQSLLKEKKRLTINNVARQWDLQQQRVANIATNEDRKDSDSPQDPCQIDGSTLSAFPEETGPLDSGLNNALQGLSVIDTY
+PTM	

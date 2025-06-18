@@ -1,0 +1,25 @@
+UniprotID	Q01081-4
+Accession	Q01081;Q701P4;Q71RF1
+EntryName	U2AF1_HUMAN
+ProteinName	Splicing factor U2AF 35 kDa subunit (U2 auxiliary factor 35 kDa subunit) (U2 small nuclear RNA auxiliary factor 1) (U2 snRNP auxiliary factor small subunit)
+GeneName	U2AF1 U2AF35 U2AFBP FP793
+Length	167
+Function	Plays a critical role in both constitutive and enhancer-dependent splicing by mediating protein-protein interactions and protein-RNA interactions required for accurate 3'-splice site selection. Recruits U2 snRNP to the branch point. Directly mediates interactions between U2AF2 and proteins bound to the enhancers and thus may function as a bridge between U2AF2 and the enhancer complex to recruit it to the adjacent intron.
+Subcellular Location	Nucleus; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEHYDEFFEEVFTEMEEKYGEVEEMNVCDNLGDHLVGNVYVKFRREEDAEKAVIDLNNRWFNGQPIHAELSPVTDFREACCRQYEMGECTRGGFCNFMHLKPISRELRRELYGRRRKKHRSRSRSRERRSRSRDRGRGGGGGGGGGGGGRERDRRRSRDRERSGRF
+PTM	Acetylation:13,15,23,125,175;Glycosylation:57;Methylation:39,116,165,209,211;Phosphorylation:4,7,19,58,59,61,145,158,197,199,231,237;SUMOylation:13,15,116,125,175;Ubiquitylation:15,23,116,125,175

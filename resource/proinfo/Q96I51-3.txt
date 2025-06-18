@@ -1,0 +1,25 @@
+UniprotID	Q96I51-3
+Accession	Q96I51;D3DXK0;F5GX55;F5H6C7;Q548B1;Q8IW88;Q8N572;Q9H0G7
+EntryName	RCC1L_HUMAN
+ProteinName	RCC1-like G exchanging factor-like protein (RCC1-like protein) (Williams-Beuren syndrome chromosomal region 16 protein)
+GeneName	RCC1L WBSCR16
+Length	454
+Function	Guanine nucleotide exchange factor (GEF) for mitochondrial dynamin-related GTPase OPA1. Activates OPA1, by exchanging bound GDP for free GTP, and drives OPA1 and MFN1-dependent mitochondrial fusion (PubMed:28746876). Plays an essential role in mitochondrial ribosome biogenesis. As a component of a functional protein-RNA module, consisting of RCC1L, NGRN, RPUSD3, RPUSD4, TRUB2, FASTKD2 and 16S mitochondrial ribosomal RNA (16S mt-rRNA), controls 16S mt-rRNA abundance and is required for intra-mitochondrial translation of core subunits of the oxidative phosphorylation system (PubMed:27667664).
+Subcellular Location	Mitochondrion membrane; Mitochondrion inner membrane; Mitochondrion inner membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVALVAGARLGRRLSGPGLGRGHWTAAGRSRSRREAAEAEAEVPVVQYVGERAARADRVFVWGFSFSGALGVPSFVVPSSGPGPRAGARPRRRIQPVPYRLELDQKISSAACGYGFTLLSSKTADVTKVWGMGLNKDSQLGFHRSRKDKTRGYEYVLEPSPVSLPLDRPQETRVLQVSCGRAHSLVLTDREGVFSMGNNSYGQCGRKVVENEIYSESHRVHRMQDFDGQVVQVACGQDHSLFLTDKGEVYSCGWGADGQTGLGHYNITSSPTKLGGDLAGVNVIQVATYGDCCLAVSADGGLFGWGNSEYLQLASVTDSTQVNVPRCLHFSGVGKVRQAACGGTGCAVLNGEGHVFVWGYGILGKGPNLVESAVPEMIPPTLFGLTEFNPEIQVSRIRCGLSHFAALTNKGELFVWGKNIRGCLGIGRLEDQYFPWRAPAPSASAKTTGPLL
+PTM	Acetylation:420;Methylation:367;Phosphorylation:17,140;SUMOylation:130,209;Ubiquitylation:138,209,420

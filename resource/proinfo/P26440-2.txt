@@ -1,0 +1,25 @@
+UniprotID	P26440-2
+Accession	P26440;B2RCV5;B3KVI7;J3KR54;Q53XZ9;Q96AF6
+EntryName	IVD_HUMAN
+ProteinName	Isovaleryl-CoA dehydrogenase, mitochondrial (IVD) (EC 1.3.8.4) (Butyryl-CoA dehydrogenase) (EC 1.3.8.1)
+GeneName	IVD
+Length	396
+Function	Catalyzes the conversion of isovaleryl-CoA/3-methylbutanoyl-CoA to 3-methylbut-2-enoyl-CoA as an intermediate step in the leucine (Leu) catabolic pathway (PubMed:7640268). To a lesser extent, is also able to catalyze the oxidation of other saturated short-chain acyl-CoA thioesters as pentanoyl-CoA, hexenoyl-CoA and butenoyl-CoA (PubMed:7640268).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEMATATRLLGWRVASWRLRPPLAGFVSQRAHSLLPVDDAINGLSEEQRQEFWKQLGNLGVLGITAPVQYGGSGLGYLEHVLVMEEISRASGAVGLSYGAHSNLCINQLVRNGNEAQKEKYLPKLISGEYIGALAMSEPNAGSDVVSMKLKAEKKGNHYILNGNKFWITNGPDADVLIVYAKTDLAAVPASRGITAFIVEKGMPGFSTSKKLDKLGMRGSNTCELIFEDCKIPAANILGHENKGVYVLMSGLDLERLVLAGGPLGLMQAVLDHTIPYLHVREAFGQKIGHFQLMQGKMADMYTRLMACRQYVYNVAKACDEGHCTAKDCAGVILYSAECATQVALDGIQCFGGNGYINDFPMGRFLRDAKLYEIGAGTSEVRRLVIGRAFNADFH
+PTM	Acetylation:58,67,78,151,185,241,262,318;Methylation:180,213,232,262;Phosphorylation:214,222

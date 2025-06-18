@@ -1,0 +1,25 @@
+UniprotID	A0A087WWV2
+Accession	A0A087WWV2
+EntryName	A0A087WWV2_HUMAN
+ProteinName	Cryptic, EGF-CFC family member 1
+GeneName	CFC1
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTWRHHVRLLFTVSLALQIINLGNSYQREKHNGGREEVTKVATQKHRQSPLNWTSSHFGEVTGSAEGWGPEEPLPYSRAFGEVNAAPWSTEPGPSAPATSAGASSGPCTASPSRRLTAVTRKTSWPPTLTGRAPGARPACYSCCPAHSCTASCARMRPRTLGPWSLPSSSGSGAPAEGRDLGIAFNFLCCK
+PTM	

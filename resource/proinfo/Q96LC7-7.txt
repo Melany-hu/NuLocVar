@@ -1,0 +1,25 @@
+UniprotID	Q96LC7-7
+Accession	Q96LC7;A8K1I5;A8K3C7;C9JJ33;C9JM10;F8W917;Q3MIR5;Q6UXI8;Q96G54;Q96LC8
+EntryName	SIG10_HUMAN
+ProteinName	Sialic acid-binding Ig-like lectin 10 (Siglec-10) (Siglec-like protein 2)
+GeneName	SIGLEC10 SLG2 UNQ477/PRO940
+Length	554
+Function	Putative adhesion molecule that mediates sialic-acid dependent binding to cells. Preferentially binds to alpha-2,3- or alpha-2,6-linked sialic acid (By similarity). The sialic acid recognition site may be masked by cis interactions with sialic acids on the same cell surface. In the immune response, seems to act as an inhibitory receptor upon ligand induced tyrosine phosphorylation by recruiting cytoplasmic phosphatase(s) via their SH2 domain(s) that block signal transduction through dephosphorylation of signaling molecules (PubMed:11284738, PubMed:12163025). Involved in negative regulation of B-cell antigen receptor signaling. The inhibition of B cell activation is dependent on PTPN6/SHP-1 (By similarity). In association with CD24 may be involved in the selective suppression of the immune response to danger-associated molecular patterns (DAMPs) such as HMGB1, HSP70 and HSP90 (By similarity). In association with CD24 may regulate the immune repsonse of natural killer (NK) cells (PubMed:25450598). Plays a role in the control of autoimmunity (By similarity). During initiation of adaptive immune responses by CD8-alpha(+) dendritic cells inhibits cross-presentation by impairing the formation of MHC class I-peptide complexes. The function seems to implicate recruitment of PTPN6/SHP-1, which dephosphorylates NCF1 of the NADPH oxidase complex consequently promoting phagosomal acidification (By similarity).
+Subcellular Location	Cell membrane; Cell membrane; Cell membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLPLLLSSLLGGSQAMDGRFWIRVQESVMVPEGLCISVPCSFSYPRQDWTGSTPAYGYWFKAVTETTKGAPVATNHQSREVEMSTRGRFQLTGDPAKGNCSLVIRDAQMQDESQYFFRVERGSYVRYNFMNDGFFLKVTGTKPTTSHFSVLSFTPRPQDHNTDLTCHVDFSRKGVSAQRTVRLRVAYAPRDLVISISRDNTPALEPQPQGNVPYLEAQKGQFLRLLCAADSQPPATLSWVLQNRVLSSSHPWGPRPLGLELPGVKAGDSGRYTCRAENRLGSQQRALDLSVQYPPENLRVMVSQANRTVLENLGNGTSLPVLEGQSLCLVCVTHSSPPARLSWTQRGQVLSPSQPSDPGVLELPRVQVEHEGEFTCHARHPLGSQHVSLSLSVHYKKGLISTAFSNGAFLGIGITALLFLCLALIIMKILPKRRTQTETPRPRFSRHSTILDYINVVPTAGPLAQKRNQKATPNSPRTPLPPGAPSPESKKNQKKQYQLPSFPEPKSSTQAPESQESQEELHYATLNFPGVRPRPEARMPKGTQADYAEVKFQ
+PTM	Glycosylation:100;Methylation:138,145;Phosphorylation:65,67,68,495,622,630,633,645

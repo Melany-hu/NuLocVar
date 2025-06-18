@@ -1,0 +1,25 @@
+UniprotID	A7E2Y1-2
+Accession	A7E2Y1;A0A6E1W127;Q5JVW7;Q6NT44;Q6NT57;Q6WG75;Q96I57;Q9NWE2;Q9P216
+EntryName	MYH7B_HUMAN
+ProteinName	Myosin-7B (Antigen MLAA-21) (Myosin cardiac muscle beta chain) (Myosin heavy chain 7B, cardiac muscle beta isoform) (Slow A MYH14)
+GeneName	MYH7B KIAA1512
+Length	176
+Function	Involved in muscle contraction.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMDVSELGESARYLRQGYQEMTKVHTIPWDGKKRVWVPDEQDAYVEAEVKSEATGGRVTVETKDQKVLMVREAELQPMNPPRFDLLEDMAMMTHLNEASVLHNLRQRYARWMIYTYSGLFCVTINPYKWLPVYTASVVAAYKGKRRSDSPPHIYAVADNAYNDMLRNRDNQSMLIT
+PTM	Acetylation:291,1373;Methylation:92,315,339,442,529,571,701,706,959,1012,1023,1183,1309,1311,1354,1412,1465,1548,1577,1586,1819,1880,1887,1923,1944;Phosphorylation:226,229,286,287,455,457,486,491,709,1042,1140,1237,1323,1324,1432,1461,1462,1747,1809,1824,1825;Ubiquitylation:279,315,1354,1373,1412,1423,1439,1548,1552,1606,1618,1776,1777,1778,1880,1897

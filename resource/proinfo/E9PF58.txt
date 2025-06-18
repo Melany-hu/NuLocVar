@@ -1,0 +1,25 @@
+UniprotID	E9PF58
+Accession	E9PF58
+EntryName	E9PF58_HUMAN
+ProteinName	Actin related protein 2/3 complex subunit 1A
+GeneName	ARPC1A
+Length	279
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLHQFLLEPITCHAWNRDRTQIALSPNNHEVHIYKKNGSQWVKAHELKEHNGHITGIDWAPKSDRIVTCGADRNAYVWSQKDGVWKPTLVILRINRAATFVKWSPLENKFAVGSGARLISVCYFESENDWWVSKHIKKPIRSTVLSLDWHPNNVLLAAGSCDFKCRVFSAYIKEVDEKPASTPWGSKMPFGQLMSEFGGSGTGGWVHGVSFSASGSRLAWVSHDSTVSVADASKSVQVSTLKTEFLPLLSVSFVSENSSCFRAMTAAQCSLTTMTAAA
+PTM	

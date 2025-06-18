@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GUC0
+Accession	A0A1B0GUC0
+EntryName	A0A1B0GUC0_HUMAN
+ProteinName	Solute carrier family 22 member 17
+GeneName	SLC22A17
+Length	77
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	AERNRPHGQMLGEEAQEALQASLPMPFATATSLWEEEGAHRTSTCALCWPAAPQPWPVSSWGSPWTDLAAGASFFSP
+PTM	

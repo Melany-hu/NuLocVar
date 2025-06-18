@@ -1,0 +1,25 @@
+UniprotID	H0YL42
+Accession	H0YL42
+EntryName	H0YL42_HUMAN
+ProteinName	Tropomyosin 1
+GeneName	TPM1
+Length	158
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVIESRAQKDEEKMEIQEIQLKEAKHIAEDADRKYEEVARKLVIIESDLERAEERAELSEGQVRQLEEQLRIMDQTLKALMAAEDKYSQKEDRYEEEIKVLSDKLKEAETRAEFAERSVTKLEKSIDDLEEKVAHAKEENLSMHQMLDQTLLELNNM
+PTM	

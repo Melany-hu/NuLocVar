@@ -1,0 +1,25 @@
+UniprotID	Q6RSW0
+Accession	Q6RSW0
+EntryName	Q6RSW0_HUMAN
+ProteinName	GLI2
+GeneName	GLI2
+Length	160
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ASEKQEAKSGILEAAGFPDPGKKASPLVVAAAAAAAVAAQGVPQHLLPPFHAPLPIDMRHQEGRYHYEPHSVHGVHGVPFLQPAGDAPPEPQAGAVHLPTLRRQPGPAADDPHLTQLASGLHQQLPKQLGGQRFLRASVSGCPQPSPSPTPSTPWPTSRF
+PTM	

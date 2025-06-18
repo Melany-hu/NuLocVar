@@ -1,0 +1,25 @@
+UniprotID	Q5JUB9
+Accession	Q5JUB9
+EntryName	Q5JUB9_HUMAN
+ProteinName	Protein prune homolog 2 (BNIP2 motif-containing molecule at the C-terminal region 1)
+GeneName	PRUNE2
+Length	260
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IDINVDELDTPDEADSFEYTGHDPTANKDSGQESESIPEYTAEEEREDNRLWRTVVIGEQEQRIDMKVIEPYRRVISHGGDSGYYGDGLNAIIVFAACFLPDSSRADYHYVMENLFLYVISTLELMVAEDYMIVYLNGATPRRRMPGLGWMKKCYQMIDRRLRKNLKSFIIVHPSWFIRTILAVTRPFISSKFSSKIKYVNSLSELSGLIPMDCIHIPESIIKYDEERSYKRSVRTSCLYNDPEMSSMEKDIDLKLKEKP
+PTM	

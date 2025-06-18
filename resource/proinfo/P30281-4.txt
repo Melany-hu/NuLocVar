@@ -1,0 +1,25 @@
+UniprotID	P30281-4
+Accession	P30281;B2RD63;B3KQ22;E9PAS4;E9PB36;Q5T8J0;Q6FG62;Q96F49
+EntryName	CCND3_HUMAN
+ProteinName	G1/S-specific cyclin-D3
+GeneName	CCND3
+Length	96
+Function	Regulatory component of the cyclin D3-CDK4 (DC) complex that phosphorylates and inhibits members of the retinoblastoma (RB) protein family including RB1 and regulates the cell-cycle during G(1)/S transition (PubMed:8114739). Phosphorylation of RB1 allows dissociation of the transcription factor E2F from the RB/E2F complex and the subsequent transcription of E2F target genes which are responsible for the progression through the G(1) phase (PubMed:8114739). Hypophosphorylates RB1 in early G(1) phase (PubMed:8114739). Cyclin D-CDK4 complexes are major integrators of various mitogenenic and antimitogenic signals (PubMed:8114739). Component of the ternary complex, cyclin D3/CDK4/CDKN1B, required for nuclear translocation and activity of the cyclin D-CDK4 complex (PubMed:16782892). Shows transcriptional coactivator activity with ATF5 independently of CDK4 (PubMed:15358120).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYPPSMIATGSIGAAVQGLGACSMSGDELTELLAGITGTEVDCLRACQEQIEAALRESLREASQTSSSPAPKAPRGSSSQGPSQTSTPTDVTAIHL
+PTM	Methylation:123,147,179;Phosphorylation:9,30,44,116,117,120,133,169,259,261,262,263,264,273,274,275,279,281,282,283;Ubiquitylation:179

@@ -1,0 +1,25 @@
+UniprotID	P63267-2
+Accession	P63267;B2R7E7;B4E315;D6W5H8;E9PG30;P12718;Q504R1;Q6FI22
+EntryName	ACTH_HUMAN
+ProteinName	Actin, gamma-enteric smooth muscle (EC 3.6.4.-) (Alpha-actin-3) (Gamma-2-actin) (Smooth muscle gamma-actin) [Cleaved into: Actin, gamma-enteric smooth muscle, intermediate form]
+GeneName	ACTG2 ACTA3 ACTL3 ACTSG
+Length	333
+Function	Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCEEETTALVCDNGSGLCKAGFAGDDAPRAVFPSIVGRPRHQIWHHSFYNELRVAPEEHPTLLTEAPLNPKANREKMTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVTHNVPIYEGYALPHAIMRLDLAGRDLTDYLMKILTERGYSFVTTAEREIVRDIKEKLCYVALDFENEMATAASSSSLEKSYELPDGQVITIGNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLYANNVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKPEYDEAGPSIVHRKCF
+PTM	Acetylation:51,62,69,85,114,192,214,216,316,327,329;Glycosylation:253;Methylation:19,51,62,69,85,114,192,216,239,285,292,316,327,329,337,360;Phosphorylation:34,53,54,61,67,70,78,104,149,150,161,167,170,187,189,195,199,200,203,204,219,230,234,235,236,240,241,250,272,295,301,304,305,307,319,324,325,339;SUMOylation:51,62,69,214,316,327,329,337;Ubiquitylation:51,62,69,114,192,214,216,239,316,327,329

@@ -1,0 +1,25 @@
+UniprotID	P17948-2
+Accession	P17948;A3E342;A3E344;A8KA71;B0LPF1;B2BF46;B2BF47;B2BF48;B3FR89;B5A923;F5H5L6;O60722;P16057;Q12954
+EntryName	VGFR1_HUMAN
+ProteinName	Vascular endothelial growth factor receptor 1 (VEGFR-1) (EC 2.7.10.1) (Fms-like tyrosine kinase 1) (FLT-1) (Tyrosine-protein kinase FRT) (Tyrosine-protein kinase receptor FLT) (FLT) (Vascular permeability factor receptor)
+GeneName	FLT1 FLT FRT VEGFR1
+Length	687
+Function	Tyrosine-protein kinase that acts as a cell-surface receptor for VEGFA, VEGFB and PGF, and plays an essential role in the development of embryonic vasculature, the regulation of angiogenesis, cell survival, cell migration, macrophage function, chemotaxis, and cancer cell invasion. Acts as a positive regulator of postnatal retinal hyaloid vessel regression (By similarity). May play an essential role as a negative regulator of embryonic angiogenesis by inhibiting excessive proliferation of endothelial cells. Can promote endothelial cell proliferation, survival and angiogenesis in adulthood. Its function in promoting cell proliferation seems to be cell-type specific. Promotes PGF-mediated proliferation of endothelial cells, proliferation of some types of cancer cells, but does not promote proliferation of normal fibroblasts (in vitro). Has very high affinity for VEGFA and relatively low protein kinase activity; may function as a negative regulator of VEGFA signaling by limiting the amount of free VEGFA and preventing its binding to KDR. Modulates KDR signaling by forming heterodimers with KDR. Ligand binding leads to the activation of several signaling cascades. Activation of PLCG leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate and the activation of protein kinase C. Mediates phosphorylation of PIK3R1, the regulatory subunit of phosphatidylinositol 3-kinase, leading to activation of phosphatidylinositol kinase and the downstream signaling pathway. Mediates activation of MAPK1/ERK2, MAPK3/ERK1 and the MAP kinase signaling pathway, as well as of the AKT1 signaling pathway. Phosphorylates SRC and YES1, and may also phosphorylate CBL. Promotes phosphorylation of AKT1 at 'Ser-473'. Promotes phosphorylation of PTK2/FAK1 (PubMed:16685275).
+Subcellular Location	Cell membrane; Endosome; Secreted; Secreted; Secreted; Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSYWDTGVLLCALLSCLLLTGSSSGSKLKDPELSLKGTQHIMQAGQTLHLQCRGEAAHKWSLPEMVSKESERLSITKSACGRNGKQFCSTLTLNTAQANHTGFYSCKYLAVPTSKKKETESAIYIFISDTGRPFVEMYSEIPEIIHMTEGRELVIPCRVTSPNITVTLKKFPLDTLIPDGKRIIWDSRKGFIISNATYKEIGLLTCEATVNGHLYKTNYLTHRQTNTIIDVQISTPRPVKLLRGHTLVLNCTATTPLNTRVQMTWSYPDEKNKRASVRRRIDQSNSHANIFYSVLTIDKMQNKDKGLYTCRVRSGPSFKSVNTSVHIYDKAFITVKHRKQQVLETVAGKRSYRLSMKVKAFPSPEVVWLKDGLPATEKSARYLTRGYSLIIKDVTEEDAGNYTILLSIKQSNVFKNLTATLIVNVKPQIYEKAVSSFPDPALYPLGSRQILTCTAYGIPQPTIKWFWHPCNHNHSEARCDFCSNNEESFILDADSNMGNRIESITQRMAIIEGKNKMASTLVVADSRISGIYICIASNKVGTVGRNISFYITDVPNGFHVNLEKMPTEGEDLKLSCTVNKFLYRDVTWILLRTVNNRTMHYSISKQKMAITKEHSITLNLTIMNVSLQDSGTYACRARNVYTGEEILQKKEITIRGEHCNKKAVFSRISKFKSTRNDCTTQSNVKH
+PTM	Glycosylation:164,196,251,323;Methylation:86,350,393,540,565,650,861,922,932,1037,1153;Phosphorylation:75,277,408,654,923,1048,1053,1207,1208

@@ -1,0 +1,25 @@
+UniprotID	Q9HB09-2
+Accession	Q9HB09;A0A087WSV0;Q3SY11;Q3SY13;Q96I96;Q9HB08
+EntryName	B2L12_HUMAN
+ProteinName	Bcl-2-like protein 12 (Bcl2-L-12) (Bcl-2-related proline-rich protein)
+GeneName	BCL2L12 BPR
+Length	92
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSEELGLREDTLRVLAAFLRRGEAAGSPVPTPPRPSYSRLLCFGGPAAGTAGPRAAEISAQPRITGSPIDREGSHTAEAGGPAGGGGRSH
+PTM	Methylation:59,144,191,237;Phosphorylation:34,113,117,121,128,132,149,156,171,192,195,230,242,243,245,273;Ubiquitylation:191,227

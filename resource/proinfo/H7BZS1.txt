@@ -1,0 +1,25 @@
+UniprotID	H7BZS1
+Accession	H7BZS1
+EntryName	H7BZS1_HUMAN
+ProteinName	ZPR1 zinc finger
+GeneName	ZPR1
+Length	76
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFRPISAEDEEQQPTEIESLCMNCYCNRNNSELLFLRALWLEQHGDPVGRQDPGPGSALHFVCQGSGGHEQRSGED
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O75177-4
+Accession	O75177;A6NNE3;A8K620;B3KWR8;E1P5H7;Q5JXJ3;Q6MZV9;Q6NTH3;Q6XYD9;Q8NE69;Q9BR55;Q9H4K6
+EntryName	CREST_HUMAN
+ProteinName	Calcium-responsive transactivator (SS18-like protein 1) (SYT homolog 1)
+GeneName	SS18L1 CREST KIAA0693
+Length	265
+Function	Transcriptional activator which is required for calcium-dependent dendritic growth and branching in cortical neurons. Recruits CREB-binding protein (CREBBP) to nuclear bodies. Component of the CREST-BRG1 complex, a multiprotein complex that regulates promoter activation by orchestrating a calcium-dependent release of a repressor complex and a recruitment of an activator complex. In resting neurons, transcription of the c-FOS promoter is inhibited by BRG1-dependent recruitment of a phospho-RB1-HDAC1 repressor complex. Upon calcium influx, RB1 is dephosphorylated by calcineurin, which leads to release of the repressor complex. At the same time, there is increased recruitment of CREBBP to the promoter by a CREST-dependent mechanism, which leads to transcriptional activation. The CREST-BRG1 complex also binds to the NR2B promoter, and activity-dependent induction of NR2B expression involves a release of HDAC1 and recruitment of CREBBP (By similarity).
+Subcellular Location	Nucleus; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQQTAPNTLPTTSMSISGPGYSHAGPASQGVPMQGQGTIGNYVSRTNINMQSNPVSMMQQQAATSHYSSAQGGSQHYQGQSSIAMMGQGSQGSSMMGQRPMAPYRPSQQGSSQQYLGQEEYYGEQYSHSQGAAEPMGQQYYPDGHGDYAYQQSSYTEQSYDRSFEESTQHYYEGGNSQYSQQQAGYQQGAAQQQTYSQQQYPSQQSYPGQQQGYGSAQGAPSQYPGYQQGQGQQYGSYRAPQTAPSAQQQRPYGYEQGQYGNYQQ
+PTM	Methylation:23

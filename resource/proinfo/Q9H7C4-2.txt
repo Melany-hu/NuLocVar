@@ -1,0 +1,25 @@
+UniprotID	Q9H7C4-2
+Accession	Q9H7C4;B4DNK8;B4DY58;C9IY41
+EntryName	SYNCI_HUMAN
+ProteinName	Syncoilin (Syncoilin intermediate filament 1) (Syncoilin-1)
+GeneName	SYNC SYNC1
+Length	476
+Function	Atypical type III intermediate filament (IF) protein that may play a supportive role in the efficient coupling of mechanical stress between the myofibril and fiber exterior. May facilitate lateral force transmission during skeletal muscle contraction. Does not form homofilaments nor heterofilaments with other IF proteins.
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPEPRRGGDGAAQAARKTRVEANSPLPKNSGSLNEAEALNPEVTLSSEGSLNLEDILYLEDTGDLDETLYVQETEKAEEALYIEEAMQPDEALHVEEPGNPEETVCVEETTEPDRIQFVEGPVEPGKPTSPEHVVYEGETVTRAEKSNPEESLRAEQSPSMEENLSIEDLELLEGRFQQCVQAVAQLEEERDQLIHELVLLREPALQEVQQVHQDILAAYKLHAQAELERDGLREEIRLVKQKLFKVTKECVAYQYQLECRQQDVAQFADFREVLTTRATQLSEELAQLRDAYQKQKEQLRQQLEAPPSQRDGHFLQESRRLSAQFENLMAESRQDLEEEYEPQFLRLLERKEAGTKALQRTQAEIQEMKEALRPLQAEARQLRLQNRNLEDQIALVRQKRDEEVQQYREQLEEMEERQRQLRNGVQLQQQKNKEMEQLRLSLAEELSTYKGCLEIYGQICNPETAKNFLAKDH
+PTM	Methylation:434;Phosphorylation:20,26,131,132,325,478

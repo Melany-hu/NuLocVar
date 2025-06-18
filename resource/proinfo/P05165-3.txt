@@ -1,0 +1,25 @@
+UniprotID	P05165-3
+Accession	P05165;B4DKY8;B4DPF9;C9JPQ8;Q15979;Q8WXQ7
+EntryName	PCCA_HUMAN
+ProteinName	Propionyl-CoA carboxylase alpha chain, mitochondrial (PCCase subunit alpha) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit alpha)
+GeneName	PCCA
+Length	681
+Function	This is one of the 2 subunits of the biotin-dependent propionyl-CoA carboxylase (PCC), a mitochondrial enzyme involved in the catabolism of odd chain fatty acids, branched-chain amino acids isoleucine, threonine, methionine, and valine and other metabolites (PubMed:6765947, PubMed:8434582). Propionyl-CoA carboxylase catalyzes the carboxylation of propionyl-CoA/propanoyl-CoA to D-methylmalonyl-CoA/(S)-methylmalonyl-CoA (PubMed:10101253, PubMed:6765947, PubMed:8434582). Within the holoenzyme, the alpha subunit catalyzes the ATP-dependent carboxylation of the biotin carried by the biotin carboxyl carrier (BCC) domain, while the beta subunit then transfers the carboxyl group from carboxylated biotin to propionyl-CoA (By similarity). Propionyl-CoA carboxylase also significantly acts on butyryl-CoA/butanoyl-CoA, which is converted to ethylmalonyl-CoA/(2S)-ethylmalonyl-CoA at a much lower rate (PubMed:6765947). Other alternative minor substrates include (2E)-butenoyl-CoA/crotonoyl-CoA (By similarity).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGFWVGTAPLVAAGRRGRWPPQQLMLSAALRTLKHVLYYSRQCLMVSRNLGSVGYDPNEKTFDKILVANRGEIACRVIRTCKKMGIKTVAIHSDVDASSVHVKMADEAVCVGPAPTSKSYLNMDAIMEAIKKTRAQAVHPGYGFLSENKEFARCLAAEDVVFIGPDTHAIQAMGDKIESKLLAKKAEVNTIPGFDGVVKDAEEAVRIAREIGYPVMIKASAGGGGKGMRIAWDDEETRDGFRLSSQEAASSFGDDRLLIEKFIDNPRHIEIQVLGDKHGNALWLNERECSIQRRNQKVVEEAPSIFLDAETRRAMGEQAVALARAVKYSSAGTVEFLVDSKKNFYFLEMNTRLQVEHPVTECITGLDLVQEMIRVAKGYPLRHKQADIRINGWAVECRVYAEDPYKSFGLPSIGRLSQYQEPLHLPGVRVDSGIQPGSDISIYYDPMISKLITYGSDRTEALKRMADALDNYVIRGVTHNIALLREVIINSRFVKGDISTKFLSDVYPDGFKGHMLTKSEKNQLLAIASSLFVAFQLRAQHFQENSRMPVIKPDIANWELSVKLHDKVHTVVASNNGSVFSVEVDGSKLNVTSTWNLASPLLSVSVDGTQRTVQCLSREAGGNMSIQFLGTVVAEGQEICVIEAMKMQNSMTAGKTGTVKSVHCQAGDTVGEGDLLVELE
+PTM	Acetylation:150;Methylation:132,181,185,262,342,464,648;Phosphorylation:28,191,251,252,341,346,361,365,406,473,632,634

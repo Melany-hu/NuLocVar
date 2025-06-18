@@ -1,0 +1,25 @@
+UniprotID	Q9UPR6-2
+Accession	Q9UPR6;B4DHD0
+EntryName	ZFR2_HUMAN
+ProteinName	Zinc finger RNA-binding protein 2
+GeneName	ZFR2 KIAA1086
+Length	70
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSQYFDFAQGGGPQYSPEVETTPPALASGLPCALPWTVGCSGSDAVTALCPSLRGLACICSILWDPAW
+PTM	Methylation:664,763,819;Phosphorylation:256

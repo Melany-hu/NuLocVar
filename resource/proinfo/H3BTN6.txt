@@ -1,0 +1,25 @@
+UniprotID	H3BTN6
+Accession	H3BTN6
+EntryName	H3BTN6_HUMAN
+ProteinName	Transmembrane protein 231
+GeneName	TMEM231
+Length	268
+Function	Transmembrane component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Required for ciliogenesis and sonic hedgehog/SHH signaling.
+Subcellular Location	Cell projection; Cilium membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALYELFSHPVERSYRAGLCSKAALFLLLAAALTYIPPLLVAFRSHGFWLKRSSYEEQPTVRFQHQVLLVALLGPESDGFLAWSTFPAFNRLQGDRLRVPLVSTREEDRNQDGKTDMLHFKLELPLQSTEHVLGVQLILTFSYRLHISVINGTSPFAYDYDLTHIVAAYQERNVTTVLNDPNPIWLVGRAADAPFVINAIIRYPVEVISYQPGFWEMVKFAWVQYVSILLIFLWVFERIKIFVFQNQVVTTIPVTVTPRGDLCKEHLS
+PTM	

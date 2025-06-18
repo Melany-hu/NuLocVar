@@ -1,0 +1,25 @@
+UniprotID	F8VVP0
+Accession	F8VVP0
+EntryName	F8VVP0_HUMAN
+ProteinName	Tetratricopeptide repeat domain 31
+GeneName	TTC31 FLJ12788 hCG_39507
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPIPKTVGRIKLDCSLRPSCPLEVAAAPKLCKEFGPEDYGEEITSWATWMMKGNQLDRVTGARGLRDWAPTVVSASPSCILPKSLSPALKAPLPLPPSPVSQTACFRWPCPRSSW
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F8VXS3
+Accession	F8VXS3
+EntryName	F8VXS3_HUMAN
+ProteinName	Sphingomyelin phosphodiesterase acid like 3B
+GeneName	SMPDL3B
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLAWLIFLANWGGARAEPGKFWHIADLHLDPDYKVSKDPFQVCPSAGSQPVPDAGPWGDYLCDSPWALINSSIYAMKEIEPEPDFILWTGAVPSFSSAAS
+PTM	

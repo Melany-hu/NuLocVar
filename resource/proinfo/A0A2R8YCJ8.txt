@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YCJ8
+Accession	A0A2R8YCJ8
+EntryName	A0A2R8YCJ8_HUMAN
+ProteinName	Androgen induced 1
+GeneName	AIG1
+Length	231
+Function	
+Subcellular Location	Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVPCQVLRMAILLSYCSILCNYKAIEMPSHQTYGGSWKFLTFIDLVIQAVFFGICVLTDLSSLLTRGSGNQEQERQLKKLISLRDWMLAVLAFPVGVFVVAVFWIIYAYDREMIYPKLLDNFIPGWLNHGMHTTVLPFILIEMRTSHHQYPSRSSGLTAICTFSVGYILWVCWVHHVTGMWVYPFLEHIGPGARIIFFGSTTILMNFLYLLGEVLNNYIWDTQKTAKLK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9UGN4-2
+Accession	Q9UGN4;A8MW96;O95100;Q9HD97;Q9P0F3;Q9UBK4;Q9UMS9;Q9UMT0
+EntryName	CLM8_HUMAN
+ProteinName	CMRF35-like molecule 8 (CLM-8) (CD300 antigen-like family member A) (CMRF-35-H9) (CMRF35-H9) (CMRF35-H) (IRC1/IRC2) (Immunoglobulin superfamily member 12) (IgSF12) (Inhibitory receptor protein 60) (IRp60) (NK inhibitory receptor) (CD antigen CD300a)
+GeneName	CD300A CMRF35H IGSF12 HSPC083
+Length	186
+Function	Inhibitory receptor which may contribute to the down-regulation of cytolytic activity in natural killer (NK) cells, and to the down-regulation of mast cell degranulation (PubMed:10746781, PubMed:16339535, PubMed:9701027). Negatively regulates the Toll-like receptor (TLR) signaling mediated by MYD88 but not TRIF through activation of PTPN6 (PubMed:22043923).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLPWALLLLWVPASTSMTPASITAAKTSTITTAFPPVSSTTLFAVGATHSASIQEETEEVVNSQLPLLLSLLALLLLLLVGASLLAWRMFQKWIKAGDHSELSQNPKQAATQSELHYANLELLMWPLQEKPAPPREVEVEYSTVASPREELHYASVVFDSNTNRIAAQRPREEEPDSDYSVIRKT
+PTM	Methylation:244;Phosphorylation:255,257,260,267,269,291,293

@@ -1,0 +1,25 @@
+UniprotID	Q5JUR7-2
+Accession	Q5JUR7;Q5JUR8;Q96KZ8
+EntryName	TEX30_HUMAN
+ProteinName	Testis-expressed protein 30
+GeneName	TEX30 C13orf27
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSHTEVKLKIPFGNKLLDAVCLVPNKSLTYGIILTHGASGDMNLPHLMSLASHLASHGFFCLRFTCKGLNIVHRIKAYKSVLNYLKTSGEYKLAGVFLGELVGESGTENASSP
+PTM	Methylation:86,173;Ubiquitylation:9,173,177,197

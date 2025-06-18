@@ -1,0 +1,25 @@
+UniprotID	Q9H2M3-2
+Accession	Q9H2M3;B7Z516;Q9NXX7
+EntryName	BHMT2_HUMAN
+ProteinName	S-methylmethionine--homocysteine S-methyltransferase BHMT2 (SMM-hcy methyltransferase) (EC 2.1.1.10) (Betaine--homocysteine S-methyltransferase 2)
+GeneName	BHMT2
+Length	299
+Function	Involved in the regulation of homocysteine metabolism. Converts homocysteine to methionine using S-methylmethionine (SMM) as a methyl donor.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPAGRPGAKKGILERLESGEVVIGDGSFLITLEKRGYVKAGLWTPEAVIEHPDAVRQLHMEFLRAGSNVMQTFTFSASEDNMESKYFEHVEEAVWAVEVLKESDRPVAVTMCIGPEGDMHDITPGECAVRLVKAGASIVGVNCRFGPDTSLKTMELMKEGLEWAGLKAHLMVQPLGFHAPDCGKEGFVDLPEYPFGLESRVATRWDIQKYAREAYNLGVRYIGGCCGFEPYHIRAIAEELAPERGFLPPASEKHGSWGSGLDMHTKPWIRARARREYWENLLPASGRPFCPSLSKPDF
+PTM	Methylation:35,104,166,274;Phosphorylation:321,324

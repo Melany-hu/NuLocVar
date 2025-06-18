@@ -1,0 +1,25 @@
+UniprotID	U3KPY5
+Accession	U3KPY5
+EntryName	U3KPY5_HUMAN
+ProteinName	TBC1 domain family member 7
+GeneName	TBC1D7
+Length	164
+Function	
+Subcellular Location	Cytoplasmic vesicle; Endomembrane system
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEDSQRNFRSVYYEKVGFRGVEEKKSLEILLKDDRLGILPPHHESHAKVMMYRKEQYLDVLHALKVVRFVSDATPQAEVYLRMYQLESGKLPRSPSFPLVSGHFCLTLSSTLDRPILPAFDYIMFCLKNFWWLPVVIRIKVTHLYLAFMAMHILTQPSYFLFF
+PTM	

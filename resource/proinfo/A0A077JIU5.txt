@@ -1,0 +1,25 @@
+UniprotID	A0A077JIU5
+Accession	A0A077JIU5
+EntryName	A0A077JIU5_HUMAN
+ProteinName	Carcinoembryonic antigen-related cell adhesion molecule 4-sv1
+GeneName	CEACAM4
+Length	256
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPPSAAPRGGHRPWQGLLITASLLTFWHPPTTVQFTIEALPSSAAEGKDVLLLACNISETIQAYYWHKGKTAEGSPLIAGYITDIQANIPGAAYSGRETVYPNGSLLFQNITLEDAGSYTLRTINASYDSDQATGQLHVHQNNVPGLPVGAVAGIVTGVLVGVALVAALVCFLLLSRTGRASIQRDLREQPPPASTPGHGPSHRSTFSAPLPSPRTATPIYEVSVGHGCSGPAGSRGPRICPHQHLAELRFRKMQ
+PTM	

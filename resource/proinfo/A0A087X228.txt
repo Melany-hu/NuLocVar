@@ -1,0 +1,25 @@
+UniprotID	A0A087X228
+Accession	A0A087X228
+EntryName	A0A087X228_HUMAN
+ProteinName	TNF superfamily member 8
+GeneName	TNFSF8
+Length	164
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPGLQQALNGMAPPGDTAMHVPAGSVASHLGTTSRSYFYLTTATLALCLVFTVATIMVLVVQRTDSIPNSPDNVPLKGGNCSEDLLCILKRAPFKKSWAYLQVAKHLNKTKLSWNKDGILHGVRYQDGNLVIQFPDYCGMILHHSHSTLDSGKGHCCLETLQP
+PTM	

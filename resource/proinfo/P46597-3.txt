@@ -1,0 +1,25 @@
+UniprotID	P46597-3
+Accession	P46597;B2RC33;Q16598;Q5JQ72;Q5JQ73
+EntryName	ASMT_HUMAN
+ProteinName	Acetylserotonin O-methyltransferase (EC 2.1.1.4) (Hydroxyindole O-methyltransferase) (HIOMT)
+GeneName	ASMT
+Length	373
+Function	Catalyzes the transfer of a methyl group onto N-acetylserotonin, producing melatonin (N-acetyl-5-methoxytryptamine).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSSEDQAYRLLNDYANGFMVSQVLFAACELGVFDLLAEAPGPLDVAAVAAGVRASAHGTELLLDICVSLKLLKVETRGGKAFYRNTELSSDYLTTVSPTSQCSMLKYMGRTSYRCWGHLADAVREGRNQYLETFGVPAEELFTAIYRSEGERLQFMQALQEVWSVNGRSVLTAFDLSVFPLMCDLGGTWIKLETIILSKLSQGQKTKHRVFSLIGGAGALAKECMSLYPGCKITVFDIPEVVWTAKQHFSFQEEEQIDFQEGDFFKDPLPEADLYILARVLHDWADGKCSHLLERIYHTCKPGGGILVIESLLDEDRRGPLLTQLYSLNMLVQTEGQERTPTHYHMLLSSAGFRDFQFKKTGAIYDAILARK
+PTM	Methylation:74

@@ -1,0 +1,25 @@
+UniprotID	Q9UIL4-2
+Accession	Q9UIL4;A8K0C3;O94775;Q5SZU9
+EntryName	KIF25_HUMAN
+ProteinName	Kinesin-like protein KIF25 (Kinesin-like protein 3)
+GeneName	KIF25 KNSL3
+Length	332
+Function	Minus-end microtubule-dependent motor protein (By similarity). Acts as a negative regulator of centrosome separation required to prevent premature centrosome separation during interphase (PubMed:28263957). Required to maintain a centered nucleus to ensure that the spindle is stably oriented at the onset of mitosis (PubMed:28263957). May also act as a negative regulator of amino acid starvation-induced autophagy (PubMed:22354037).
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTWTSGQLQREKQARPGSGAVLAFPDDKDLRVYGPAESQSAVFGDVCPLLTSLLDGYNVCVMAYGQTGSGKSYTMLGRHSDDGPVLPLDPQSDLGIIPRVAEELFRLILENTSRSPKVEVSIVEVYNNDIFDLLAKDSIAAVSGVKREVVTAKDGRTEVALLASEAVGSASKLMELVHGGLQLRAKHPTLVHADSSRSHLIITVTLTTASCSDSTADQACSATLPREQTEAGRAGRSRRASQGALAPQLVPGNPAGHAEQVQARLQLVDSAGSECVGGDAKLLVILCISPSQRHLAQTLQGLGFGIRARQVQRGPARKKPPSSQTEGKRRPD
+PTM	Methylation:136;Phosphorylation:115,350,375,377

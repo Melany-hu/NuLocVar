@@ -1,0 +1,25 @@
+UniprotID	Q5JTW6
+Accession	Q5JTW6
+EntryName	Q5JTW6_HUMAN
+ProteinName	Propionyl-CoA carboxylase subunit alpha
+GeneName	PCCA
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GGIYFYHGRKGVTHNIALLREVIINSRFVKGDISTKFLSDVYPDGFKGHMLTKSEKNQLLAIASSLFVAFQLRAQHFQENSRMPVIKPDIANWELSVKLHDKVHTVVASNNGSVFSVEVDGSKLNVTSTWNLASPLLSVSVDGTQRTVQ
+PTM	

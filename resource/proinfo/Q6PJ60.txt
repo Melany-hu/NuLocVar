@@ -1,0 +1,25 @@
+UniprotID	Q6PJ60
+Accession	Q6PJ60
+EntryName	Q6PJ60_HUMAN
+ProteinName	PIK3CB protein
+GeneName	PIK3CB
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QLFHIDFGHILGNFKSKFGIKRERVPFILTYDFIHVIQQGKTGNTEKFGRFRQCCEDAYLILRRHGNLFITLFALMLTAGLPELTSVKDIQYLKDSLALGKSEEEALKQFKQKFDEALRESWTTKVNWMAHTVRKDYRS
+PTM	

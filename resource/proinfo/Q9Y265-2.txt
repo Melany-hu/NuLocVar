@@ -1,0 +1,25 @@
+UniprotID	Q9Y265-2
+Accession	Q9Y265;B2R5S0;P82276;Q1KMR0;Q53HK5;Q53HL7;Q53Y27;Q9BSX9
+EntryName	RUVB1_HUMAN
+ProteinName	RuvB-like 1 (EC 3.6.4.12) (49 kDa TATA box-binding protein-interacting protein) (49 kDa TBP-interacting protein) (54 kDa erythrocyte cytosolic protein) (ECP-54) (INO80 complex subunit H) (Nuclear matrix protein 238) (NMP 238) (Pontin 52) (TIP49a) (TIP60-associated protein 54-alpha) (TAP54-alpha)
+GeneName	RUVBL1 INO80H NMP238 TIP49 TIP49A
+Length	386
+Function	Possesses single-stranded DNA-stimulated ATPase and ATP-dependent DNA helicase (3' to 5') activity; hexamerization is thought to be critical for ATP hydrolysis and adjacent subunits in the ring-like structure contribute to the ATPase activity (PubMed:17157868, PubMed:33205750). Component of the NuA4 histone acetyltransferase complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A (PubMed:14966270). This modification may both alter nucleosome-DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription (PubMed:14966270). This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative senescence, apoptosis, and DNA repair (PubMed:14966270). The NuA4 complex ATPase and helicase activities seem to be, at least in part, contributed by the association of RUVBL1 and RUVBL2 with EP400. NuA4 may also play a direct role in DNA repair when recruited to sites of DNA damage (PubMed:14966270). Component of a SWR1-like complex that specifically mediates the removal of histone H2A.Z/H2AZ1 from the nucleosome (PubMed:24463511). Proposed core component of the chromatin remodeling INO80 complex which exhibits DNA- and nucleosome-activated ATPase activity and catalyzes ATP-dependent nucleosome sliding (PubMed:16230350, PubMed:21303910). Plays an essential role in oncogenic transformation by MYC and also modulates transcriptional activation by the LEF1/TCF1-CTNNB1 complex (PubMed:10882073, PubMed:16014379). Essential for cell proliferation (PubMed:14506706). May be able to bind plasminogen at cell surface and enhance plasminogen activation (PubMed:11027681).
+Subcellular Location	Nucleus matrix; Nucleus; Nucleoplasm; Cytoplasm; Membrane; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Dynein axonemal particle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKIEEVKSTTKTQRIASHSHVKGLGLDESGLAKQAASGLVGQENAREACGVIVELIKSKKMAGRAVLLAGPPGTGKTALALAIAQELGSKVPFCPMVGSEVYSTEIKKTEVLMENFRRAIGLRIKETKEVYEGEVTELTPCETENPMGGYGKTISHVIIGLKTAKGTKQLKLDPSIFESLQKERVEAGDVIYIEANSGAVKRQGRCDTYATEFDLEAEEYVPLPKGDVHKKKEIIQDVTLHDLDVANARPQGGQDILSMMGQLMKPKKTEITDKLRGEINKVVNKYIDQGIAELVPGVLFVDEVHMLDIECFTYLHRALESSIAPIVIFASNRGNCVIRGTEDITSPHGIPLDLLDRVMIIRTMLYTPQEMKQVLSAAADPGQLAC
+PTM	Acetylation:2,33,108,152,162,171,182,201,274,281,372,427,453;Methylation:33,57,76,90,107,108,152,162,182,225,281,372,376,400,418,427,441;Phosphorylation:17,29,58,77,89,179,192,209,211,220,321,331;SUMOylation:2,7,22,162,171,225,230,265,427;Ubiquitylation:2,7,22,33,76,108,152,162,171,201,225,265,281,400,418,422,441,445

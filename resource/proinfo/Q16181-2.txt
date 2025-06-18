@@ -1,0 +1,25 @@
+UniprotID	Q16181-2
+Accession	Q16181;Q52M76;Q6NX50
+EntryName	SEPT7_HUMAN
+ProteinName	Septin-7 (CDC10 protein homolog)
+GeneName	SEPTIN7 CDC10 SEPT7
+Length	436
+Function	Filament-forming cytoskeletal GTPase. Required for normal organization of the actin cytoskeleton. Required for normal progress through mitosis. Involved in cytokinesis. Required for normal association of CENPE with the kinetochore. Plays a role in ciliogenesis and collective cell movements. Forms a filamentous structure with SEPTIN12, SEPTIN6, SEPTIN2 and probably SEPTIN4 at the sperm annulus which is required for the structural integrity and motility of the sperm tail during postmeiotic differentiation (PubMed:25588830).
+Subcellular Location	Cytoplasm; Chromosome; Centromere; Kinetochore; Cytoplasm; Cytoskeleton; Spindle; Cleavage furrow; Midbody; Cytoplasm; Cytoskeleton; Cilium axoneme; Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	129...134
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVSARSAAAEERSVNSSTMAQQKNLEGYVGFANLPNQVYRKSVKRGFEFTLMVVGESGLGKSTLINSLFLTDLYSPEYPGPSHRIKKTVQVEQSKVLIKEGGVQLLLTIVDTPGFGDAVDNSNCWQPVIDYIDSKFEDYLNAESRVNRRQMPDNRVQCCLYFIAPSGHGLKPLDIEFMKRLHEKVNIIPLIAKADTLTPEECQQFKKQIMKEIQEHKIKIYEFPETDDEEENKLVKKIKDRLPLAVVGSNTIIEVNGKRVRGRQYPWGVAEVENGEHCDFTILRNMLIRTHMQDLKDVTNNVHYENYRSRKLAAVTYNGVDNNKNKGQLTKSPLAQMEEERREHVAKMKKMEMEMEQVFEMKVKEKVQKLKDSEAELQRRHEQMKKNLEAQHKELEEKRRQFEDEKANWEAQQRILEQQNSSRTLEKNKKKGKIF
+PTM	Acetylation:97,173,181,186,208,213,219,221,235,238,260,298,371,373,387,388,395,408;Glycosylation:68,422;Methylation:63,101,137,195,208,235,238,298,326,364,373,400;Phosphorylation:30,41,77,96,110,136,141,146,198,223,228,309,311,319,332,334,375,423,424,426;SUMOylation:89,235,298,408;Ubiquitylation:89,97,181,186,195,208,213,219,235,260,298,313,326,333,373,395,400

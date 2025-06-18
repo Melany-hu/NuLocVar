@@ -1,0 +1,25 @@
+UniprotID	O75444-1
+Accession	O75444;Q66I47;Q9UP93
+EntryName	MAF_HUMAN
+ProteinName	Transcription factor Maf (Proto-oncogene c-Maf) (V-maf musculoaponeurotic fibrosarcoma oncogene homolog)
+GeneName	MAF
+Length	403
+Function	Acts as a transcriptional activator or repressor. Involved in embryonic lens fiber cell development. Recruits the transcriptional coactivators CREBBP and/or EP300 to crystallin promoters leading to up-regulation of crystallin gene during lens fiber cell differentiation. Activates the expression of IL4 in T helper 2 (Th2) cells. Increases T-cell susceptibility to apoptosis by interacting with MYB and decreasing BCL2 expression. Together with PAX6, transactivates strongly the glucagon gene promoter through the G1 element. Activates transcription of the CD13 proximal promoter in endothelial cells. Represses transcription of the CD13 promoter in early stages of myelopoiesis by affecting the ETS1 and MYB cooperative interaction. Involved in the initial chondrocyte terminal differentiation and the disappearance of hypertrophic chondrocytes during endochondral bone development. Binds to the sequence 5'-GNNCTCAGNN-3' in the L7 promoter. Binds to the T-MARE (Maf response element) sites of lens-specific alpha- and beta-crystallin gene promoters. Binds element G1 on the glucagon promoter. Binds an AT-rich region adjacent to the TGC motif (atypical Maf response element) in the CD13 proximal promoter in endothelial cells (By similarity). When overexpressed, represses anti-oxidant response element (ARE)-mediated transcription. Involved either as an oncogene or as a tumor suppressor, depending on the cell context. Binds to the ARE sites of detoxifying enzyme gene promoters.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASELAMSNSDLPTSPLAMEYVNDFDLMKFEVKKEPVETDRIISQCGRLIAGGSLSSTPMSTPCSSVPPSPSFSAPSPGSGSEQKAHLEDYYWMTGYPQQLNPEALGFSPEDAVEALISNSHQLQGGFDGYARGAQQLAAAAGAGAGASLGGSGEEMGPAAAVVSAVIAAAAAQSGAGPHYHHHHHHAAGHHHHPTAGAPGAAGSAAASAGGAGGAGGGGPASAGGGGGGGGGGGGGGAAGAGGALHPHHAAGGLHFDDRFSDEQLVTMSVRELNRQLRGVSKEEVIRLKQKRRTLKNRGYAQSCRFKRVQQRHVLESEKNQLLQQVDHLKQEISRLVRERDAYKEKYEKLVSSGFRENGSSSDNPSSPEFFITEPTRKLEPSVGYATFWKPQHRVLTSVFTK
+PTM	Phosphorylation:301;SUMOylation:29,33,34,283,320,331,350

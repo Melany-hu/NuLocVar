@@ -1,0 +1,25 @@
+UniprotID	Q15003-2
+Accession	Q15003;B4E189;Q8TB87
+EntryName	CND2_HUMAN
+ProteinName	Condensin complex subunit 2 (Barren homolog protein 1) (Chromosome-associated protein H) (hCAP-H) (Non-SMC condensin I complex subunit H) (XCAP-H homolog)
+GeneName	NCAPH BRRN BRRN1 CAPH KIAA0074
+Length	605
+Function	Regulatory subunit of the condensin complex, a complex required for conversion of interphase chromatin into mitotic-like condense chromosomes. The condensin complex probably introduces positive supercoils into relaxed DNA in the presence of type I topoisomerases and converts nicked DNA into positive knotted forms in the presence of type II topoisomerases (PubMed:11136719). Early in neurogenesis, may play an essential role to ensure accurate mitotic chromosome condensation in neuron stem cells, ultimately affecting neuron pool and cortex size (PubMed:27737959).
+Subcellular Location	Nucleus; Cytoplasm; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	310...315
+validnes_region	
+nesbase_region	
+Sequence	MSEILKQKDTEPTNFKVAAGTLDASTKIYAVRVDAVHADVYRVLGGLGKDAPSLEEVEGHVADGSATEMGTTKKAVKPKKKHLHRTIEQNINNLNVSEADRKCEIDPMFQKTAASFDECSTAGVFLSTLHCQDYRSELLFPSDVQTLSTGEPLELPELGCVEMTDLKAPLQQCAEDRQICPSLAGFQFTQWDSETHNESVSALVDKFKKNDQVFDINAEVDESDCGDFPDGSLGDDFDANDEPDHTAVGDHEEFRSWKEPCQVQSCQEEMISLGDGDIRTMCPLLSMKPGEYSYFSPRTMSMWAGPDHWRFRPRRKQDAPSQSENKKKSTKKDFEIDFEDDIDFDVYFRKTKAATILTKSTLENQNWRATTLPTDFNYNVDTLVQLHLKPGTRLLKMAQGHRVETEHYEEIEDYDYNNPNDTSNFCPGLQAADSDDEDLDDLFVGPVGNSDLSPYPCHPPKTAQQNGDTPEAQGLDITTYGESNLVAEPQKVNKIEIHYAKTAKKMDMKKLKQSMWSLLTALSGKEADAEANHREAGKEAALAEVADEKMLSGLTKDLQRSLPPVMAQNLSIPLAFACLLHLANEKNLKLEGTEDLSDVLVRQGD
+PTM	Acetylation:144,152,630,637,674,692;Methylation:20,32,101,142,152,163,185,303,495,685;Phosphorylation:11,15,16,17,25,27,28,30,49,70,78,79,81,87,89,90,92,96,98,161,162,177,189,201,203,207,208,222,233,401,408,416,422,429,430,432,457,459,491,494,496,497,598,605,614,615,616,635,733;SUMOylation:62,152,185,209,238,424,488,495,525,532,627,630,685,725;Ubiquitylation:41,62,122,126,144,152,163,209,210,238,394,424,488,495,525,532,630,637,648,661,674,685,692,725

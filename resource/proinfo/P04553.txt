@@ -1,0 +1,25 @@
+UniprotID	P04553
+Accession	P04553
+EntryName	HSP1_HUMAN
+ProteinName	Sperm protamine P1 (Cysteine-rich protamine)
+GeneName	PRM1
+Length	51
+Function	Protamines substitute for histones in the chromatin of sperm during the haploid phase of spermatogenesis. They compact sperm DNA into a highly condensed, stable and inactive complex.
+Subcellular Location	Nucleus; Chromosome
+Disorder	0.1399,0.1969,0.2399,0.2918,0.2503,0.2164,0.2609,0.2951,0.3286,0.3566,0.3840,0.3740,0.3910,0.3948,0.4541,0.4541,0.6620,0.8596,0.8530,0.6322,0.6375,0.6427,0.6427,0.6531,0.6531,0.7080,0.7799,0.7799,0.5665,0.3840,0.3872,0.3910,0.3983,0.3356,0.3356,0.3392,0.3392,0.1528,0.1528,0.1583,0.3392,0.3117,0.2817,0.2470,0.2034,0.1643,0.1449,0.1028,0.0676,0.2193,0.4725
+ExposeBuried	1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,1,1,1,0,1,1,1,0,1,1,1
+SurfaceAccessbility	0.779,0.429,0.509,0.279,0.464,0.135,0.177,0.430,0.509,0.544,0.434,0.379,0.458,0.483,0.288,0.228,0.475,0.497,0.418,0.482,0.535,0.467,0.469,0.497,0.494,0.381,0.458,0.543,0.436,0.118,0.535,0.357,0.303,0.407,0.369,0.102,0.229,0.477,0.126,0.107,0.379,0.474,0.542,0.216,0.420,0.480,0.521,0.181,0.580,0.671,0.812
+SecondStructure	C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,-4.5,-1.3,-4.5,2.5,2.5,-4.5,-0.8,-3.5,-0.8,-4.5,-0.8,-4.5,-1.3,-1.3,-4.5,-3.5,-4.5,-3.5,-4.5,-0.8,-4.5,-4.5,-4.5,-4.5,-4.5,-4.5,-0.8,2.5,-3.5,-0.7,-4.5,-4.5,-4.5,1.8,1.9,-4.5,2.5,2.5,-4.5,-1.6,-4.5,-1.3,-4.5,-1.6,-4.5,2.5,-4.5,-4.5,-3.2
+Polar	0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1,1,1
+Charge	0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,1,0,1,0,1,1,1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARYRCCRSQSRSRYYRQRQRSRRRRRRSCQTRRRAMRCCRPRYRPRCRRH
+PTM	Phosphorylation:11

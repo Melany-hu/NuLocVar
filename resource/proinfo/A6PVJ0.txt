@@ -1,0 +1,25 @@
+UniprotID	A6PVJ0
+Accession	A6PVJ0
+EntryName	A6PVJ0_HUMAN
+ProteinName	Centrosomal protein 250kDa
+GeneName	CEP250 RP3-477O4.2-010
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GGTAGGAAPGCPGEGASGCWEDESNVLENASIEPGICQEMLMGLEAKQSESLSELITLREALESSHLEGELLRQEQTEVTAALARAEQSIAELSSSENTLKTEVADLRAAAVKLSALNEALALDKVGLNQQLLQLEEENQSVCSRMEAAEQARNALQVDLAEAEKRREALWEKNTHLEAQLQKAEEAGAELQADLRDIQEEKEEIQKKL
+PTM	

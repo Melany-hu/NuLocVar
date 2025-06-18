@@ -1,0 +1,25 @@
+UniprotID	Q96N21-2
+Accession	Q96N21;Q6ZQU0;Q6ZSQ9
+EntryName	AP4AT_HUMAN
+ProteinName	AP-4 complex accessory subunit Tepsin (ENTH domain-containing protein 2) (Epsin for AP-4) (Tetra-epsin)
+GeneName	TEPSIN C17orf56 ENTHD2
+Length	441
+Function	Associates with the adapter-like complex 4 (AP-4) and may therefore play a role in vesicular trafficking of proteins at the trans-Golgi network.
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Cytoplasmic vesicle; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSQARPHSTLQGFGYSKEHGRTGSAGEAFLSTIQKAAEVVASAMRPGPESPSTRRLLPRGDTYQPAMMPSASHGPPTLGNLLPGAIPGPRAVRHQPGQAGGGWDELDSGPSSQNSSQNSDLSRVSDSGSHSGSDSHSGASREPGDLAERVEVVALSDCQQELSLVRTVTRGPRAFLSREEAQHFIKACGLLNCEAVLQLLTCHLRGTSECTQLRALCAIASLGSSDLLPQEHILLRTRPWLQELSMGSPGPVTNKATKILRHFEASCGQLSPARGTSAEPGPTAALPGPSDLLTDAVPLPGSQVFLQPLSSTPVSSRSPAPSSGMPSSPVPTPPPDASPIPAPGDPSEAEARLAESRRWRPERIPGGTDSPKRGPSSCAWSRDSLFAGMELVACPRLVGAGAAAGESCPDAPRAPQTSSQRTAAKEPPGSEPSAFAFLNA
+PTM	Acetylation:340;Methylation:22,41,92,457;Phosphorylation:196,248,252,254,330,333,338,351,356,413,417,453,455,503;Ubiquitylation:22

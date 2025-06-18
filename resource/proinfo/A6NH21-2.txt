@@ -1,0 +1,25 @@
+UniprotID	A6NH21-2
+Accession	A6NH21;B2RN41;Q3YL75
+EntryName	SERC4_HUMAN
+ProteinName	Serine incorporator 4
+GeneName	SERINC4
+Length	274
+Function	Incorporates a polar amino acid serine into membranes and facilitates the synthesis of two serine-derived lipids, phosphatidylserine and sphingolipids.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSISSQHGITLASVEALHSSYCSWCLLQLLPIPGTRTEQPRSGLLQASVISCYIMYLTFSALSSRPPERVILQGQNHTLCLPGLSKMEPQTPDISLAMLSASIMYACVLFACNEASYLAEVFGPLWIVKVYSYEFQKPSLCFCCPETVEADKGQRGGAARPADQETPPAPPVQVQHLSYNYSAFHFVFFLASLYVMVTLTNWFSYEGAELEKTFIKGSWATFWVKVASCWACVLLYLGLLLAPLCWPPTQKPQPLILRRRRHRIISPDNKYPPV
+PTM	Methylation:29,158,257,456;Phosphorylation:142,145

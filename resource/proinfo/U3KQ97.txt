@@ -1,0 +1,25 @@
+UniprotID	U3KQ97
+Accession	U3KQ97
+EntryName	U3KQ97_HUMAN
+ProteinName	Nucleoporin 205
+GeneName	NUP205
+Length	184
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSQKLMAGFVECLDCEDAEEFVRLEEGSELEKKLVAIRHETRIHILNLLITSLECNPPNLALYLLGFELKKPVSTTNLQDPGVLGCPRTCLHAILNILEKGTEGRTGPVAVRESPQLAELCYQLCACSDTSGPTMRYLRTSQDFLFSQLQYLPFSNKEYEISMLNQMSWLMKTASIELRVTSLN
+PTM	

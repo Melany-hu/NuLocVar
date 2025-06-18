@@ -1,0 +1,25 @@
+UniprotID	C3TX97
+Accession	C3TX97
+EntryName	C3TX97_HUMAN
+ProteinName	Outer dense fiber 4 (Outer dense fiber of sperm tails 4)
+GeneName	ODF4
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAEYSGNEFPRSEGERDQHQRPGKERKSGEAGWGTVTFIFSTLMLFPINIWIFELERNVSIPIGWSYFIGWLVLILYFTCAILCYFNHKSFWSLILSHPSGAVSCSSSFGSVEESPRAQTITDTPITQEGVLDPEQKDTHV
+PTM	

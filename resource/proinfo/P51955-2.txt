@@ -1,0 +1,25 @@
+UniprotID	P51955-2
+Accession	P51955;Q53FD6;Q5I1Z9;Q5VXZ1;Q6NZX8;Q7Z634;Q86XH2;Q96QN9
+EntryName	NEK2_HUMAN
+ProteinName	Serine/threonine-protein kinase Nek2 (EC 2.7.11.1) (HSPK 21) (Never in mitosis A-related kinase 2) (NimA-related protein kinase 2) (NimA-like protein kinase 1)
+GeneName	NEK2 NEK2A NLK1
+Length	384
+Function	Protein kinase which is involved in the control of centrosome separation and bipolar spindle formation in mitotic cells and chromatin condensation in meiotic cells. Regulates centrosome separation (essential for the formation of bipolar spindles and high-fidelity chromosome separation) by phosphorylating centrosomal proteins such as CROCC, CEP250 and NINL, resulting in their displacement from the centrosomes. Regulates kinetochore microtubule attachment stability in mitosis via phosphorylation of NDC80. Involved in regulation of mitotic checkpoint protein complex via phosphorylation of CDC20 and MAD2L1. Plays an active role in chromatin condensation during the first meiotic division through phosphorylation of HMGA2. Phosphorylates: PPP1CC; SGO1; NECAB3 and NPM1. Essential for localization of MAD2L1 to kinetochore and MAPK1 and NPM1 to the centrosome. Phosphorylates CEP68 and CNTLN directly or indirectly (PubMed:24554434). NEK2-mediated phosphorylation of CEP68 promotes CEP68 dissociation from the centrosome and its degradation at the onset of mitosis (PubMed:25704143). Involved in the regulation of centrosome disjunction (PubMed:26220856). Phosphorylates CCDC102B either directly or indirectly which causes CCDC102B to dissociate from the centrosome and allows for centrosome separation (PubMed:30404835).
+Subcellular Location	Nucleus; Nucleus; Nucleolus; Cytoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle pole; Chromosome; Centromere; Kinetochore; Chromosome; Centromere; Cytoplasm; Nucleus; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPSRAEDYEVLYTIGTGSYGRCQKIRRKSDGKILVWKELDYGSMTEAEKQMLVSEVNLLRELKHPNIVRYYDRIIDRTNTTLYIVMEYCEGGDLASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQNVKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQMNRMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIITRMLNLKDYHRPSVEEILENPLIADLVADEQRRNLERRGRQLGEPEKSQDSSPVLSELKLKEIQLQERERALKAREERLEQKEQELCVRERLAEDKLARAENLLKNYSLLKERKFLSLASNPGMRINLVNRSWCYK
+PTM	Methylation:125,156,227,255,353,359;Phosphorylation:170,171,184,296,299,300,356,365,368,378,397,400,408;SUMOylation:63,143,152,156,174,255,295,307,353,362,381,391;Ubiquitylation:37,152,156,174,307,309,353,359,362,381,382,391,407,409,432

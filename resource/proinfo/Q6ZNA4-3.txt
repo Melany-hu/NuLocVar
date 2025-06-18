@@ -1,0 +1,25 @@
+UniprotID	Q6ZNA4-3
+Accession	Q6ZNA4;C9JUS4;H0YN55;Q6P9A4;Q6ZMU2;Q7L428;Q7Z346;Q8N1P9;Q8WUA3;Q9NSR1
+EntryName	RN111_HUMAN
+ProteinName	E3 ubiquitin-protein ligase Arkadia (EC 2.3.2.27) (RING finger protein 111) (hRNF111) (RING-type E3 ubiquitin transferase Arkadia)
+GeneName	RNF111
+Length	1003
+Function	E3 ubiquitin-protein ligase (PubMed:26656854). Required for mesoderm patterning during embryonic development (By similarity). Acts as an enhancer of the transcriptional responses of the SMAD2/SMAD3 effectors, which are activated downstream of BMP (PubMed:14657019, PubMed:16601693). Acts by mediating ubiquitination and degradation of SMAD inhibitors such as SMAD7, inducing their proteasomal degradation and thereby enhancing the transcriptional activity of TGF-beta and BMP (PubMed:14657019, PubMed:16601693). In addition to enhance transcription of SMAD2/SMAD3 effectors, also regulates their turnover by mediating their ubiquitination and subsequent degradation, coupling their activation with degradation, thereby ensuring that only effectors 'in use' are degraded (By similarity). Activates SMAD3/SMAD4-dependent transcription by triggering signal-induced degradation of SNON isoform of SKIL (PubMed:17591695). Associates with UBE2D2 as an E2 enzyme (PubMed:22411132). Specifically binds polysumoylated chains via SUMO interaction motifs (SIMs) and mediates ubiquitination of sumoylated substrates (PubMed:23751493). Catalyzes 'Lys-63'-linked ubiquitination of sumoylated XPC in response to UV irradiation, promoting nucleotide excision repair (PubMed:23751493). Mediates ubiquitination and degradation of sumoylated PML (By similarity). The regulation of the BMP-SMAD signaling is however independent of sumoylation and is not dependent of SUMO interaction motifs (SIMs) (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	92...97
+validnes_region	
+nesbase_region	
+Sequence	MSQWTPEYNELYTLKVDMKSEIPSDAPKTQESLKGILLHPEPIGAAKSFPAGVEMINSKVGNEFSHLCDDSQKQEKEMNGNQQEQEKSLVVRKKRKSQQAGPSYVQNCVKENQGILGLRQHLGTPSDEDNDSSFSDCLSSPSSSLHFGDSDTVTSDEDKEVSVRHSQTILNAKSRSHSARSHKWPRTETESVSGLLMKRPCLHGSSLRRLPCRKRFVKNNSSQRTQKQKERILMQRKKREVLARRKYALLPSSSSSSENDLSSESSSSSSTEGEEDLFVSASENHQNNPAVPSGSIDEDVVVIEASSTPQVTANEEINVTSTDSEVEIVTVGESYRSRSTLGHSRSHWSQGSSSHASRPQEPRNRSRISTVIQPLRQNAAEVVDLTVDEDEPTVVPTTSARMESQATSASINNSNPSTSEQASDTASAVTSSQPSTVSETSATLTSNSTTGTSIGDDSRRTTSSAVTETGPPAMPRLPSCCPQHSPCGGSSQNHHALGHPHTSCFQQHGHHFQHHHHHHHTPHPAVPVSPSFSDPACPVERPPQVQAPCGANSSSGTSYHEQQALPVDLSNSGIRSHGSGSFHGASAFDPCCPVSSSRAAIFGHQAAAAAPSQPLSSIDGYGSSMVAQPQPQPPPQPSLSSCRHYMPPPYASLTRPLHHQASACPHSHGNPPPQTQPPPQVDYVIPHPVHAFHSQISSHATSHPVAPPPPTHLASTAAPIPQHLPPTHQPISHHIPATAPPAQRLHPHEVMQRMEVQRRRMMQHPTGLFVFCVSRRAHERPPPHPHRMHPNYGHGHHIHVPQTMSSHPRQAPERSAWELGIEAGVTAATYTPGALHPHLAHYHAPPRLHHLQLGALPLMVPDMAGYPHIRYISSGLDGTSFRGPFRGNFEELIHLEERLGNVNRGASQGTIERCTYPHKYKKVTTDWFSQRKLHCKQDGEEGTEEDTEEKCTICLSILEEGEDVRRLPCMHLFHQVCVDQWLITNKKCPICRVDIEAQLPSES
+PTM	Acetylation:47;Methylation:47,93;Phosphorylation:12,13,176,178,206,461,576,581;SUMOylation:19,28,34,47,59,73,76,87,96,110,173,183,198,218,238,927;Ubiquitylation:110,173,198,218,927,978

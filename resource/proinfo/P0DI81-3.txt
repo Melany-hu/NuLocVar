@@ -1,0 +1,25 @@
+UniprotID	P0DI81-3
+Accession	P0DI81;A6NEG0;O14582;Q9HD16
+EntryName	TPC2A_HUMAN
+ProteinName	Trafficking protein particle complex subunit 2 (Sedlin)
+GeneName	TRAPPC2 SEDL
+Length	174
+Function	Prevents transcriptional repression and induction of cell death by ENO1 (By similarity). May play a role in vesicular transport from endoplasmic reticulum to Golgi.
+Subcellular Location	Cytoplasm; Perinuclear region; Endoplasmic reticulum-Golgi intermediate compartment; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSWKQDRSGLRSTELNVLEYQPLCAVRSHILKTMSGSFYFVIVGHHDNPVFEMEFLPAGKAESKDDHRHLNQFIAHAALDLVDENMWLSNNMYLKTVDKFNEWFVSAFVTAGHMRFIMLHDIRQEDGIKNFFTDVYDLYIKFSMNPFYEPNSPIRSSAFDRKVQFLGKKHLLS
+PTM	Methylation:108;Phosphorylation:119

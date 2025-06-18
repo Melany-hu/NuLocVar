@@ -1,0 +1,25 @@
+UniprotID	Q8IW45-4
+Accession	Q8IW45;B4DXT4;Q5T9X3;Q9H7W1;Q9NVF5
+EntryName	NNRD_HUMAN
+ProteinName	ATP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.93) (ATP-dependent NAD(P)HX dehydratase) (Carbohydrate kinase domain-containing protein) (NAD(P)HX dehydratase)
+GeneName	NAXD CARKD
+Length	237
+Function	Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ATP, which is converted to ADP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPDGPGSSLWGNPGLQTSDSPNAVHEVEKWLPRLHALVVGPGLGRDDALLRNVQGILEVSKARDIPVVIDADGLWLVAQQPALIHGYRKAVLTPNHVEFSRLYDAVLRGPMDSDDSHGSVLRLSQALGNVTVVQKGERDILSNGQQVLVCSQEGSSRRCGGQGDLLSGSLGVLVHWALLAGPQKTNGSSPLLVAAFGACSLTRQCNHQAFQKHGRSTTTSDMIAEVGAAFSKLFET
+PTM	Acetylation:140,323;Glycosylation:240;Methylation:43,98,140,246;Phosphorylation:85,86,171;Ubiquitylation:246

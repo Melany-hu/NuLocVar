@@ -1,0 +1,25 @@
+UniprotID	Q7Z5Y7-3
+Accession	Q7Z5Y7;B4DZD3;B4E2Q3;F5H3T3;Q5W105;Q69YQ7;Q8IZ55
+EntryName	KCD20_HUMAN
+ProteinName	BTB/POZ domain-containing protein KCTD20 (Potassium channel tetramerization domain containing 20)
+GeneName	KCTD20 C6orf69
+Length	274
+Function	Promotes the phosphorylation of AKT family members.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFGPGREYNFTRPNEKGEYEIAEGISATVFRTVLDYYKTGIINCPDGISIPDLRDTCDYLCINFDFNTIRCQDLSALLHELSNDGAHKQFDHYLEELILPIMVGCAKKGERECHIVVLTDEDSVDWDEDHPPPMGEEYSQILYSSKLYRFFKYIENRDVAKTVLKERGLKNIRIGIEGYPTCKEKIKRRPGGRSEVIYNYVQRPFIQMSWEKEEGKSRHVDFQCVRSKSLTNLVAAGDDVLEDQEILMHHPPQVDELDRLNAPLSQMASNDFQD
+PTM	Phosphorylation:7,164,374,376;SUMOylation:79,357;Ubiquitylation:88,118,161,183,310,328

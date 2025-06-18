@@ -1,0 +1,25 @@
+UniprotID	Q8NB16-2
+Accession	Q8NB16;A6NCE4;Q8N6V0
+EntryName	MLKL_HUMAN
+ProteinName	Mixed lineage kinase domain-like protein (hMLKL)
+GeneName	MLKL
+Length	263
+Function	Pseudokinase that plays a key role in TNF-induced necroptosis, a programmed cell death process (PubMed:22265413, PubMed:22265414, PubMed:22421439, PubMed:24316671). Does not have protein kinase activity (PubMed:22265413, PubMed:22265414, PubMed:22421439, PubMed:24316671). Activated following phosphorylation by RIPK3, leading to homotrimerization, localization to the plasma membrane and execution of programmed necrosis characterized by calcium influx and plasma membrane damage (PubMed:22265413, PubMed:22265414, PubMed:22421439, PubMed:24316671). In addition to TNF-induced necroptosis, necroptosis can also take place in the nucleus in response to orthomyxoviruses infection: following activation by ZBP1, MLKL is phosphorylated by RIPK3 in the nucleus, triggering disruption of the nuclear envelope and leakage of cellular DNA into the cytosol.following ZBP1 activation, which senses double-stranded Z-RNA structures, nuclear RIPK3 catalyzes phosphorylation and activation of MLKL, promoting disruption of the nuclear envelope and leakage of cellular DNA into the cytosol (By similarity). Binds to highly phosphorylated inositol phosphates such as inositolhexakisphosphate (InsP6) which is essential for its necroptotic function (PubMed:29883610).
+Subcellular Location	Cytoplasm; Cell membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENLKHIITLGQVIHKRCEEMKYCKKQCRRLGHRVLGLIKPLEMLQDQGKRSVPSEKLTTAMNRFKAALEEANGEIEKFSNRSNICRFLTASQDKILFKDVNRKLSDVWKELSLLLQVEQRMPVSPISQGASWAQEDQQDADEDRRAFQMLRRDNEKIEASLRRLEINMKEIKETLRQSLESSSGKSPLEISRFKVKNVKTGSASGCNSEKIRKLVAVKRQQEPLGEDCPSELREIIDECRAHDPSVRPSVDEILKKLSTFSK
+PTM	Acetylation:5,16,95,249;Methylation:5,40,78,99,194,427;Phosphorylation:55,106,125,161,215,216,218,222,373,374,439;SUMOylation:5,234;Ubiquitylation:40,95,170,305,331

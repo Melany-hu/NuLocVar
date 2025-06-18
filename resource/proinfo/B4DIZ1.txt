@@ -1,0 +1,25 @@
+UniprotID	B4DIZ1
+Accession	B4DIZ1
+EntryName	B4DIZ1_HUMAN
+ProteinName	Ermin (Juxtanodin)
+GeneName	ERMN
+Length	264
+Function	Plays a role in cytoskeletal rearrangements during the late wrapping and/or compaction phases of myelinogenesis as well as in maintenance and stability of myelin sheath in the adult. May play an important role in late-stage oligodendroglia maturation, myelin/Ranvier node formation during CNS development, and in the maintenance and plasticity of related structures in the mature CNS.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTDVPATFTQAECNGDKPPENGQQTITKISEELTDVDSPLPHYRVEPSLEGALTKGSQEERRKLQGNMLLNSSMEDKMLKETSADEMTFREGHQWEKIPLSGSNQEIRRQKERITEQPLKEEEDEDRKNKGHQAAEIEWLGFRKPSQADMLHSKHDEEQKVWDEEIDDDDDDNCNNDEDEVRVIEFKKKHEEVSQFKEEGDASEDSPLSSASSQAVTPDEQPTLGKKSDISRNAYSRYNTISYRKIRKGNTKQRIDEFESMMHL
+PTM	

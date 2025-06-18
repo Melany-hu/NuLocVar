@@ -1,0 +1,25 @@
+UniprotID	P35236-2
+Accession	P35236;B3KXE1;Q53XK4;Q5SXQ0;Q5SXQ1;Q9BV05
+EntryName	PTN7_HUMAN
+ProteinName	Tyrosine-protein phosphatase non-receptor type 7 (EC 3.1.3.48) (Hematopoietic protein-tyrosine phosphatase) (HEPTP) (Protein-tyrosine phosphatase LC-PTP)
+GeneName	PTPN7
+Length	399
+Function	Protein phosphatase that acts preferentially on tyrosine-phosphorylated MAPK1. Plays a role in the regulation of T and B-lymphocyte development and signal transduction.
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGASFWPIRQAREQQRRALSFRQTSWLSEPPLGPAPHLSMVQAHGGRSRAQPLTLSLGAAMTQPPPEKTPAKKHVRLQERRGSNVALMLDVRSLGAVEPICSVNTPREVTLHFLRTAGHPLTRWALQRQPPSPKQLEEEFLKIPSNFVSPEDLDIPGHASKDRYKTILPNPQSRVCLGRAQSQEDGDYINANYIRGYDGKEKVYIATQGPMPNTVSDFWEMVWQEEVSLIVMLTQLREGKEKCVHYWPTEEETYGPFQIRIQDMKECPEYTVRQLTIQYQEERRSVKHILFSAWPDHQTPESAGPLLRLVAEVEESPETAAHPGPIVVHCSAGIGRTGCFIATRIGCQQLKARGEVDILGIVCQLRLDRGGMIQTAEQYQFLHHTLALYAGQLPEEPSP
+PTM	Acetylation:312;Methylation:42,103,312;Phosphorylation:9,44,63,66,110,125,143,149,359

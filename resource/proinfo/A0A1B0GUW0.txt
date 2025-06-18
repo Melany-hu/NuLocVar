@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GUW0
+Accession	A0A1B0GUW0
+EntryName	A0A1B0GUW0_HUMAN
+ProteinName	Synaptotagmin 16
+GeneName	SYT16
+Length	221
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	49...53
+validnes_region	
+nesbase_region	
+Sequence	MATDITPEAIGFLSAVGVFIVLLAVLFLFINKKLCFETIGGLPFLEHRGKRKHSKDKTGIHKGLVNSFGDDEELSTSSDSDEEVIKQFEISVSRSQSFRSVTSEKGKQTGLEQKPKFSRSLLTHGEDGTEVSACEDLDGASQRRYSENLSYGEDDHIPAHSQSPCERGDAKHHGTSHQESSVVQSLRRQSTEGSLEMETAFNSRGFEDSYATDSSSMWSPE
+PTM	

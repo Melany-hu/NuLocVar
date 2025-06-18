@@ -1,0 +1,25 @@
+UniprotID	Q7L513-3
+Accession	Q7L513;A0N0M1;A6NC03;A6NL20;F5H720;F8W743;G3V1J2;Q5VXA1;Q5VXA2;Q5VXA3;Q5VXA4;Q5VXB0;Q5VXB1;Q8NEW4;Q8WXH3;Q96PC6;Q96PJ0;Q96PJ1;Q96PJ2;Q96PJ4;Q9BR57
+EntryName	FCRLA_HUMAN
+ProteinName	Fc receptor-like A (Fc receptor homolog expressed in B-cells) (Fc receptor-like and mucin-like protein 1) (Fc receptor-like protein) (Fc receptor-related protein X) (FcRX)
+GeneName	FCRLA FCRL FCRL1 FCRLM1 FCRX FREB UNQ291/PRO329
+Length	270
+Function	May be implicated in B-cell differentiation and lymphomagenesis.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLGCVLMAWALYLSLGVLWVAQMLLAASFETLQCEGPVCTEESSCHTEDDLTDAREAGFQVKAYTFSEPFHLIVSYELFPAPILRAVPSAEPQAGSPMTLSCQTKLPLQRSAARLLFSFYKDGRIVQSRGLSSEFQIPTASEDHSGSYWCEAATEDNQVWKQSPQLEIRVQGASSSAAPPTLNPAPQKSAAPGTAPEEAPGPLPPPPTPSSEDPGFSSPLGMPDPHLYHQMGLLLKHMQDVRVLLGHLLMELRELSGHRKPGTTKATAE
+PTM	Methylation:135,251,326;Phosphorylation:253,266

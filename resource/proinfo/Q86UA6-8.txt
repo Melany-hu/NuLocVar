@@ -1,0 +1,25 @@
+UniprotID	Q86UA6-8
+Accession	Q86UA6;A0A0B4J1T3;B4DI36;B4DTX7;E9PDG9;E9PES3;J3KNH8;Q4G2Y0;Q4G2Y5;Q4G2Y8;Q6B4V9;Q6B4W0;Q6B4W1;Q6B4W4;Q86X49;Q9BT00
+EntryName	RIP_HUMAN
+ProteinName	RPA-interacting protein (hRIP)
+GeneName	RPAIN RIP
+Length	231
+Function	Mediates the import of RPA complex into the nucleus, possibly via some interaction with importin beta. Isoform 2 is sumoylated and mediates the localization of RPA complex into the PML body of the nucleus, thereby participating in RPA function in DNA metabolism.
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; PML body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAESLRSPRRSLYKLVGSPPWKEAFRQRCLERMRNSRDRLLNRYRQAGSSGPGNSQNSFLVQEVMEEEWNALQSVENCPEDLAQLEELIDMAVLEEIQQELINQEQSIISEYEKSLQFDEKCLSIMLAEWEANPLICPVCTKYNLRITSGVVVCQCGLSIPSHSSELTEQKLRACLEGSINEHSAHCPHTPEFSVTGGTEEKSSLLMSCLVSVSWDPLCGKRDLWLVLFPP
+PTM	Methylation:6,114;Phosphorylation:4,7,18,190;SUMOylation:14,171;Ubiquitylation:14,22,171

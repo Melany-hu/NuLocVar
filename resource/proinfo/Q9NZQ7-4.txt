@@ -1,0 +1,25 @@
+UniprotID	Q9NZQ7-4
+Accession	Q9NZQ7;B2RBA2;B4DU27;Q14CJ2;Q2V8D5;Q66RK1;Q6WEX4;Q9NUZ5
+EntryName	PD1L1_HUMAN
+ProteinName	Programmed cell death 1 ligand 1 (PD-L1) (PDCD1 ligand 1) (Programmed death ligand 1) (hPD-L1) (B7 homolog 1) (B7-H1) (CD antigen CD274)
+GeneName	CD274 B7H1 PDCD1L1 PDCD1LG1 PDL1
+Length	245
+Function	Plays a critical role in induction and maintenance of immune tolerance to self (PubMed:11015443, PubMed:28813410, PubMed:28813417, PubMed:31399419). As a ligand for the inhibitory receptor PDCD1/PD-1, modulates the activation threshold of T-cells and limits T-cell effector response (PubMed:11015443, PubMed:28813410, PubMed:28813417, PubMed:36727298). Through a yet unknown activating receptor, may costimulate T-cell subsets that predominantly produce interleukin-10 (IL10) (PubMed:10581077). Can also act as a transcription coactivator: in response to hypoxia, translocates into the nucleus via its interaction with phosphorylated STAT3 and promotes transcription of GSDMC, leading to pyroptosis (PubMed:32929201).
+Subcellular Location	Cell membrane; Early endosome membrane; Recycling endosome membrane; Nucleus; Cell membrane; Endomembrane system; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRIFAVFIFMTYWHLLNAFTVTVPKDLYVVEYGSNMTIECKFPVEKQLDLAALIVYWEMEDKNIIQFVHGEEDLKVQHSSYRQRARLLKDQLSLGNAALQITDVKLQDAGVYRCMISYGGADYKRITVKVNAPYNKINQRILVVDPVTSEHELTCQAEGYPKAEVIWTSSDHQVLSGKTTTTNSKREEKLFNVTSTLRINTTTNEIFYCTFRRLDPEENHTAELVIPGNILNVSIKICLTLSPST
+PTM	Glycosylation:35,192;Methylation:25,89,129;Phosphorylation:277,279,283,290;Ubiquitylation:136

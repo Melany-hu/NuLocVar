@@ -1,0 +1,25 @@
+UniprotID	H0YLR2
+Accession	H0YLR2
+EntryName	H0YLR2_HUMAN
+ProteinName	Zinc finger AN1-type containing 6
+GeneName	ZFAND6
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKGFIFLKAIGVQLRNMAQETNHSQVPMLCSTGCGFYGNPRTNGMCSVCYKEHLQRQNSSNGRISPPATSVSSLSESLPVQCTDGSVPEAQSALDSTSSSMQPSPVSNQSLLSESVASSQLDSTSVDKAVPETEDVQASVSDTAQQPSEEQSKSLEKP
+PTM	

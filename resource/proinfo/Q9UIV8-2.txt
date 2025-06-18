@@ -1,0 +1,25 @@
+UniprotID	Q9UIV8-2
+Accession	Q9UIV8;A8K2Q8;Q3MII2;Q9HCX1;Q9UBW1;Q9UKG0
+EntryName	SPB13_HUMAN
+ProteinName	Serpin B13 (HaCaT UV-repressible serpin) (Hurpin) (Headpin) (Peptidase inhibitor 13) (PI-13) (Proteinase inhibitor 13)
+GeneName	SERPINB13 PI13
+Length	339
+Function	May play a role in the proliferation or differentiation of keratinocytes.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSLGAVSTRLGFDLFKELKKTNDGNIFFSPVGILTAIGMVLLGTRGATASQLEEVFHSEKETKSSRIKAEEKEVIENTEAVHQQFQKFLTEISKLTNDYELNITNRLFGEKTYLFLQKYLDYVEKYYHASLEPVDFVNAADESRKKINSWVESKTNEKIKDLFPDGSISSSTKLVLVNMVYFKGQWDREFKKENTKEEKFWMNKIIDKISPEKLVEWTSPGHMEERKVNLHLPRFEVEDGYDLEAVLAAMGMGDAFSEHKADYSGMSSGSGLYAQKFLHSSFVAVTEEGTEAAAATGIGFTVTSAPGHENVHCNHPFLFFIRHNESNSILFFGRFSSP
+PTM	Methylation:88,112,159,231,257,261;Phosphorylation:263,294,316,317,326

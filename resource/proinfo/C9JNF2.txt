@@ -1,0 +1,25 @@
+UniprotID	C9JNF2
+Accession	C9JNF2
+EntryName	C9JNF2_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 3
+GeneName	ARHGEF3
+Length	196
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFDRNIWPKRQRQNNFPMFPSPKAWNFRGRKRKQSTQDEDAVSLCSLDISEPSNKRVKPLSRVTSLANLIPPVKATPLKRFSQTLQRSISFRSESRPDILAPRPWSRNAAPSSTKRRDSKLWSETFDVCVNQMLTSKEIKRQEAIFELSQGEEDLIEDLKLAKKAYHDPMLKLSIMTEQELNQIFGTLDSLIPLHE
+PTM	

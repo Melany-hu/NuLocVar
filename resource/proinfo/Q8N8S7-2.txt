@@ -1,0 +1,25 @@
+UniprotID	Q8N8S7-2
+Accession	Q8N8S7;D0PQI2;Q502W5;Q5T5M7;Q5VTQ9;Q5VTR0;Q9NVF3;Q9UFB8
+EntryName	ENAH_HUMAN
+ProteinName	Protein enabled homolog
+GeneName	ENAH MENA
+Length	570
+Function	Ena/VASP proteins are actin-associated proteins involved in a range of processes dependent on cytoskeleton remodeling and cell polarity such as axon guidance and lamellipodial and filopodial dynamics in migrating cells. ENAH induces the formation of F-actin rich outgrowths in fibroblasts. Acts synergistically with BAIAP2-alpha and downstream of NTN1 to promote filipodia formation (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Cell projection; Lamellipodium; Cell projection; Filopodium; Synapse; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEQSICQARAAVMVYDDANKKWVPAGGSTGFSRVHIYHHTGNNTFRVVGRKIQDHQVVINCAIPKGLKYNQATQTFHQWRDARQVYGLNFGSKEDANVFASAMMHALEVLNSQETGPTLPRQNSQLPAQVQNGPSQEELEIQRRQLQEQQRQKELERERLERERMERERLERERLERERLERERLEQEQLERERQERERQERLERQERLERQERLERQERLDRERQERQERERLERLERERQERERQEQLEREQLEWERERRISSAAAPASVETPLNSVLGDSSASEPGLQAASQPAETPSQQGIVLGPLAPPPPPPLPPGPAQASVALPPPPGPPPPPPLPSTGPPPPPPPPPLPNQVPPPPPPPPAPPLPASGFFLASMSEDNRPLTGLAAAIAGAKLRKVSRMEDTSFPSGGNAIGVNSASSKTDTGRGNGPLPLGGSGLMEEMSALLARRRRIAEKGSTIETEQKEDKGEDSEPVTSKASSTSTPEPTRKPWERTNTMNGSKSPVISRPKSTPLSQPSANGVQTEGLDYDRLKQDILDEMRKELTKLKEELIDAIRQELSKSNTA
+PTM	Acetylation:21,66,69,461,470,473,495,574;Glycosylation:482;Methylation:400,432;Phosphorylation:38,125,136,265,405,442,463,464,467,477,481,485,486,487,488,489,493,500,502,506,508,512,516,528,531,537,538,541,544,571,586;Ubiquitylation:69,427,461,473,483,559

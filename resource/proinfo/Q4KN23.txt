@@ -1,0 +1,25 @@
+UniprotID	Q4KN23
+Accession	Q4KN23
+EntryName	Q4KN23_HUMAN
+ProteinName	KIR3DS1 protein (Killer cell immunoglobulin like receptor, three Ig domains and short cytoplasmic tail 1) (Killer cell immunoglobulin-like receptor 3DS1)
+GeneName	KIR3DS1 LOC112268355
+Length	275
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLMVVSMACVGNHRKPSLLAHPGPLVKSGERVILQCWSDIMFEHFFLHKEWISKDPSRLVGQIHDGVSKANFSIGSMMRALAGTYRCYGSVTHTPYQLSAPSDPLDIVVTGLYEKPSLSAQPGPKVQAGESVTLSCSSRSSYDMYHLSREGGAHERRLPAVRKVNRTFQADFPLGPATHGGTYRCFGSFRHSPYEWSDPSDPLLVSVTGNPSSSWPSPTEPSSKSGNLRHLHILIGTSVVKIPFTILLFFLLHRWCSNKKKCCCNGPRACREQK
+PTM	

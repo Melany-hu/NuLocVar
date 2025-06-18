@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z5D7
+Accession	A0A0S2Z5D7
+EntryName	A0A0S2Z5D7_HUMAN
+ProteinName	Unc-50-like protein isoform 2
+GeneName	UNC50
+Length	173
+Function	Involved in the cell surface expression of neuronal nicotinic receptors. Binds RNA.
+Subcellular Location	Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPSTSVNSLVQGNGVLNSRDAARHTAGAKRYKYLRRLFRFRQMDFEFAAWQMLYLFTSPQRVYRNFHYRKQTKDQWARDDPAFLVLLSIWLCVSTIGFGFVLDMGFFETIKLLLWVVLIDCVGVGLLIATLMCIAIFEKYSNSSVSICTSDSALRAFPGTGMELHPYSLFFL
+PTM	

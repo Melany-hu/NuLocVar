@@ -1,0 +1,25 @@
+UniprotID	P78410-3
+Accession	P78410;B4DRT7;B4E103;F5H791;F8W6E0;O00477;O15338;O75658;Q76PA0;Q9BU81;Q9NR44
+EntryName	BT3A2_HUMAN
+ProteinName	Butyrophilin subfamily 3 member A2
+GeneName	BTN3A2 BT3.2 BTF3 BTF4
+Length	292
+Function	Plays a role in T-cell responses in the adaptive immune response. Inhibits the release of IFNG from activated T-cells.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGEDADLPCHLFPTMSAETMELKWVSSSLRQVVNVYADGKEVEDRQSAPYRGRTSILRDGITAGKAALRIHNVTASDSGKYLCYFQDGDFYEKALVELKVAALGSNLHVEVKGYEDGGIHLECRSTGWYPQPQIQWSNAKGENIPAVEAPVVADGVGLYEVAASVIMRGGSGEGVSCIIRNSLLGLEKTASISIADPFFRSAQPWIAALAGTLPILLLLLAGASYFLWRQQKEITALSSEIESEQEMKEMGYAATEREISLRESLQEELKRKKIQYLTRGEESSSDTNKSA
+PTM	Glycosylation:115;Methylation:112,142,155,231,313;Phosphorylation:98,281,282,286,303;Ubiquitylation:83,108,123,231

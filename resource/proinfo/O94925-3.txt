@@ -1,0 +1,25 @@
+UniprotID	O94925-3
+Accession	O94925;Q9UL05;Q9UL06;Q9UL07;Q9UN40
+EntryName	GLSK_HUMAN
+ProteinName	Glutaminase kidney isoform, mitochondrial (GLS) (EC 3.5.1.2) (K-glutaminase) (L-glutamine amidohydrolase) [Cleaved into: Glutaminase kidney isoform, mitochondrial 68 kDa chain; Glutaminase kidney isoform, mitochondrial 65 kDa chain]
+GeneName	GLS GLS1 KIAA0838
+Length	598
+Function	Catalyzes the first reaction in the primary pathway for the renal catabolism of glutamine. Plays a role in maintaining acid-base homeostasis. Regulates the levels of the neurotransmitter glutamate, the main excitatory neurotransmitter in the brain (PubMed:30239721, PubMed:30575854, PubMed:30970188).
+Subcellular Location	Mitochondrion; Cytoplasm; Cytosol; Mitochondrion; Mitochondrion matrix; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMRLRGSGMLRDLLLRSPAGVSATLRRAQPLVTLCRRPRGGGRPAAGPAAAARLHPWWGGGGWPAEPLARGLSSSPSEILQELGKGSTHPQPGVSPPAAPAAPGPKDGPGETDAFGNSEGKELVASGENKIKQGLLPSLEDLLFYTIAEGQEKIPVHKFITALKSTGLRTSDPRLKECMDMLRLTLQTTSDGVMLDKDLFKKCVQSNIVLLTQAFRRKFVIPDFMSFTSHIDELYESAKKQSGGKVADYIPQLAKFSPDLWGVSVCTVDGQRHSTGDTKVPFCLQSCVKPLKYAIAVNDLGTEYVHRYVGKEPSGLRFNKLFLNEDDKPHNPMVNAGAIVVTSLIKQGVNNAEKFDYVMQFLNKMAGNEYVGFSNATFQSERESGDRNFAIGYYLKEKKCFPEGTDMVGILDFYFQLCSIEVTCESASVMAATLANGGFCPITGERVLSPEAVRNTLSLMHSCGMYDFSGQFAFHVGLPAKSGVAGGILLVVPNVMGMMCWSPPLDKMGNSVKGIHFCHDLVSLCNFHNYDNLRHFAKKLDPRREGGDQRHSFGPLDYESLQQELALKETVWKKVSPESNEDISTTVVYRMESLGEKS
+PTM	Acetylation:158,164,197,255,279,311,320,396,552;Methylation:121,130,255,346,364,387,396,603;Phosphorylation:118,165,166,170,171,188,293,302,342,343,449;Ubiquitylation:121,202

@@ -1,0 +1,25 @@
+UniprotID	P23142-4
+Accession	P23142;B0QY42;B1AHL4;P23143;P23144;P37888;Q5TIC4;Q8TBH8;Q9HBQ5;Q9UC21;Q9UGR4;Q9UH41
+EntryName	FBLN1_HUMAN
+ProteinName	Fibulin-1 (FIBL-1)
+GeneName	FBLN1 PP213
+Length	683
+Function	Incorporated into fibronectin-containing matrix fibers. May play a role in cell adhesion and migration along protein fibers within the extracellular matrix (ECM). Could be important for certain developmental processes and contribute to the supramolecular organization of ECM architecture, in particular to those of basement membranes. Has been implicated in a role in cellular transformation and tumor invasion, it appears to be a tumor suppressor. May play a role in haemostasis and thrombosis owing to its ability to bind fibrinogen and incorporate into clots. Could play a significant role in modulating the neurotrophic activities of APP, particularly soluble APP.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERAAPSRRVPLPLLLLGGLALLAAGVDADVLLEACCADGHRMATHQKDCSLPYATESKECRMVQEQCCHSQLEELHCATGISLANEQDRCATPHGDNASLEATFVKRCCHCCLLGRAAQAQGQSCEYSLMVGYQCGQVFQACCVKSQETGDLDVGGLQETDKIIEVEEEQEDPYLNDRCRGGGPCKQQCRDTGDEVVCSCFVGYQLLSDGVSCEDVNECITGSHSCRLGESCINTVGSFRCQRDSSCGTGYELTEDNSCKDIDECESGIHNCLPDFICQNTLGSFRCRPKLQCKSGFIQDALGNCIDINECLSISAPCPIGHTCINTEGSYTCQKNVPNCGRGYHLNEEGTRCVDVDECAPPAEPCGKGHRCVNSPGSFRCECKTGYYFDGISRMCVDVNECQRYPGRLCGHKCENTLGSYLCSCSVGFRLSVDGRSCEDINECSSSPCSQECANVYGSYQCYCRRGYQLSDVDGVTCEDIDECALPTGGHICSYRCINIPGSFQCSCPSSGYRLAPNGRNCQDIDECVTGIHNCSINETCFNIQGGFRCLAFECPENYRRSAATRCERLPCHENRECSKLPLRITYYHLSFPTNIQAPAVVFRMGPSSAVPGDSMQLAITGGNEEGFFTTRKVSPHSGVVALTKPVPEPRDLLLTVKMDLSRHGTVSSFVAKLFIFVSAEL
+PTM	Glycosylation:98,535,539;Methylation:611,649,675;Phosphorylation:7,147,252,285,504,508;SUMOylation:59,291,385

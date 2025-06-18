@@ -1,0 +1,25 @@
+UniprotID	P01135-3
+Accession	P01135;A8K286;Q15577;Q53SK7;Q9BS56;Q9UEI3;Q9UKM1;Q9UKM2;Q9UKM3
+EntryName	TGFA_HUMAN
+ProteinName	Protransforming growth factor alpha [Cleaved into: Transforming growth factor alpha (TGF-alpha) (EGF-like TGF) (ETGF) (TGF type 1)]
+GeneName	TGFA
+Length	161
+Function	TGF alpha is a mitogenic polypeptide that is able to bind to the EGF receptor/EGFR and to act synergistically with TGF beta to promote anchorage-independent cell proliferation in soft agar.
+Subcellular Location	Secreted; Extracellular space; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPSAGQLALFALGIVLAACQALENSTSPLSDPPVAAAVVSHFNDCPDSHTQFCFHGTCRFLVQEDKPACVCHSGYVGARCEHADLLAVVAASQKKQAITALVVVSIVALAVLIITCVLIHCCQVRKHCEWCRALICRHEKPSALLKGRTACCHSETATLG
+PTM	

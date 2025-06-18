@@ -1,0 +1,25 @@
+UniprotID	Q68DK7-2
+Accession	Q68DK7;Q0VF46;Q69Z03
+EntryName	MSL1_HUMAN
+ProteinName	Male-specific lethal 1 homolog (MSL-1) (Male-specific lethal 1-like 1) (MSL1-like 1) (Male-specific lethal-1 homolog 1)
+GeneName	MSL1 MSL1L1
+Length	413
+Function	Non-catalytic component of the MSL histone acetyltransferase complex, a multiprotein complex that mediates the majority of histone H4 acetylation at 'Lys-16' (H4K16ac), an epigenetic mark that prevents chromatin compaction (PubMed:16227571, PubMed:16543150, PubMed:33837287). The MSL complex is required for chromosome stability and genome integrity by maintaining homeostatic levels of H4K16ac (PubMed:33837287). The MSL complex is also involved in gene dosage by promoting up-regulation of genes expressed by the X chromosome (By similarity). X up-regulation is required to compensate for autosomal biallelic expression (By similarity). The MSL complex also participates in gene dosage compensation by promoting expression of Tsix non-coding RNA (By similarity). Within the MSL complex, acts as a scaffold to tether MSL3 and KAT8 together for enzymatic activity regulation (PubMed:22547026). Greatly enhances MSL2 E3 ubiquitin ligase activity, promoting monoubiquitination of histone H2B at 'Lys-34' (H2BK34Ub) (PubMed:21726816, PubMed:30930284). This modification in turn stimulates histone H3 methylation at 'Lys-4' (H3K4me) and 'Lys-79' (H3K79me) and leads to gene activation, including that of HOXA9 and MEIS1 (PubMed:21726816).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	317..346;505..519
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	126...130
+validnes_region	
+nesbase_region	
+Sequence	MRKSPLGGGGGSGASSQAACLKQILLLQLDLIEQQQQQLQAKEKEIEELKSERDTLLARIERMERRMQLVKKDNEKERHKLFQGYETEEREETELSEKIKLECQPELSETSQTLPPKPFSCGRSGKGHKRKSPFGSTERKTPVKKLAPEFSKVKTKTPKHSPIKEEPCGSLSETVCKRELRSQETPEKPRSSVDTPPRLSTPQKGPSTHPKEKAFSSEIEDLPYLSTTEMYLCRWHQPPPSPLPLRESSPKKEETVARCLMPSSVAGETSVLAVPSWRDHSVEPLRDPNPSDLLENLDDSVFSKRHAKLELDEKRRKRWDIQRIREQRILQRLQLRMYKKKGIQESEPEVTSFFPEPDDVESLMITPFLPVVAFGRPLPKLTPQNFELPWLDERSRCRLEIQKKQTPHRTCRK
+PTM	Acetylation:9,77,130,318,353,389,405,509;Methylation:9,79,251,272,299;Phosphorylation:62,66,70,126,150,161,165,201,205,213,217,286,288,333,342,356,358,362,371,386,392,393,396,401,402,408,442,449,450,456,492;SUMOylation:9,130,204,272,301,353,365,378,505,542;Ubiquitylation:251

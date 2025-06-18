@@ -1,0 +1,25 @@
+UniprotID	Q5VXN5
+Accession	Q5VXN5;A6NNH3;B4DTR6
+EntryName	Q5VXN5_HUMAN
+ProteinName	Adenosylmethionine decarboxylase 1 (cDNA FLJ59608, highly similar to S-adenosylmethionine decarboxylase proenzyme) (cDNA, FLJ79370, highly similar to S-adenosylmethionine decarboxylase proenzyme)
+GeneName	AMD1
+Length	265
+Function	Essential for biosynthesis of the polyamines spermidine and spermine. Promotes maintenance and self-renewal of embryonic stem cells, by maintaining spermine levels.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFVSKRRFILKTCGTTLLLKALVPLLKLARDYSGFDSIQSFFYSRKNFMKPSHQGYPHRNFQEEIEFLNAIFPNGAAYCMGRMNSDCWYLYTLDFPESRVISQPDQTLEILMSELDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFNPCGYSMNGMKSDGTYWTIHITPEPEFSYVSFETNLSQTSYDDLIRKVVEVFKPGKFVTTLFVNQSSKCRTVLASPQKIEGFKRLDCQSAMFNDYNFVFTSFAKKQQQQQS
+PTM	

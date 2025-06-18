@@ -1,0 +1,25 @@
+UniprotID	O75146-2
+Accession	O75146;A6NHQ6;Q6NXG8;Q9UED9
+EntryName	HIP1R_HUMAN
+ProteinName	Huntingtin-interacting protein 1-related protein (HIP1-related protein) (Huntingtin-interacting protein 12) (HIP-12)
+GeneName	HIP1R HIP12 KIAA0655
+Length	615
+Function	Component of clathrin-coated pits and vesicles, that may link the endocytic machinery to the actin cytoskeleton. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases following ligand-induced endocytosis.
+Subcellular Location	Cytoplasm; Perinuclear region; Endomembrane system; Cytoplasmic vesicle; Clathrin-coated vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSIKNVPARVLSRRPGHSLEAEREQFDKTQAISISKAINTQEAPVKEKHARRIILGTHHEKGAFTFWSYAIGLPLPSSSILSWKFCHVLHKVLRDGHPNVLHDCQRYRSNIREIGDLWGHLHDRYGQLVNVYTKLLLTKISFHLKHPQFPAGLEVTDEVLEKAAGTDVNNIFQLTVEMFDYMDCELKLSESVFRQLNTAIAVSQMSSGQCRLAPLIQVIQDCSHLYHYTVKLLFKLHSCLPADTLQGHRDRFHEQFHSLRNFFRRASDMLYFKRLIQIPRLPEGPPNFLRASALAEHIKPVVVIPEEAPEDEEPENLIEISTGPPAGEPVVVADLFDQTFGPPNGSVKDDRDLQIESLKREVEMLRSELEKIKLEAQRYIAQLKSQVNALEGELEEQRKQKQKALVDNEQLRHELAQLRAAQLEGERSQGLREEAERKASATEARYNKLKEKHSELVHVHAELLRKNADTAKQLTVTQQSQEEVARVKEQLAFQVEQVKRESELKLEEKSDQLEKLKRELEAKAGELARAQEALSHTEQSKSELSSRLDTLSAEKDALSGAVRQREADLLAAQSLVRETEAALSREQQRSSQEQGELQGRLAERVWPPQMQQHH
+PTM	Acetylation:542,832,922;Methylation:140,163,236,360,372,385,467,516,556,768,975,992;Phosphorylation:13,19,34,80,83,190,268,293,380,386,560,591,592,640,771,972,1015,1017,1032,1034,1035,1045;Ubiquitylation:5,29,37,47,146,1043

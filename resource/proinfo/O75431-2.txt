@@ -1,0 +1,25 @@
+UniprotID	O75431-2
+Accession	O75431;A8JZZ4;Q53S50;Q53SQ2;Q5M7Z6;Q8IZ68
+EntryName	MTX2_HUMAN
+ProteinName	Metaxin-2 (Mitochondrial outer membrane import complex protein 2)
+GeneName	MTX2
+Length	253
+Function	Involved in transport of proteins into the mitochondrion.
+Subcellular Location	Mitochondrion outer membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYIAAEPWPENATLYQQLKGEQILLSDNAASLAVQAFLQMCNLPIKVVCRANAEYMSPSGKVPFIHVGNQVVSELGPIVQFVKAKGHSLSDGLEEVQKAEMKAYMELVNNMLLTAELYLQWCDEATVGEITHARYGSPYPWPLNHILAYQKQWEVKRKMKAIGWGKKTLDQVLEDVDQCCQALSQRLGTQPYFFNKQPTELDALVFGHLYTILTTQLTNDELSEKVKNYSNLLAFCRRIEQHYFEDRGKGRLS
+PTM	Acetylation:108,176;Methylation:29,93,108,161,235,257;Phosphorylation:2,239,240;SUMOylation:71,93,108;Ubiquitylation:95,166,170,176,237

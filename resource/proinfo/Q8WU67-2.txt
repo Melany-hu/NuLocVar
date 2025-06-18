@@ -1,0 +1,25 @@
+UniprotID	Q8WU67-2
+Accession	Q8WU67;B0YIV0;B7Z5C2;O43411
+EntryName	ABHD3_HUMAN
+ProteinName	Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3)
+GeneName	ABHD3
+Length	136
+Function	Phospholipase that may play a role in phospholipids remodeling. May selectively cleave myristate (C14)-containing phosphatidylcholines through its predominant phospholipase 1 activity, cleaving preferentially acyl groups in sn1 position. In parallel, may have a minor phospholipase 2 activity acting on acyl groups in position sn2. In addition to (C14)-containing phosphatidylcholines, may also act on other medium-chain-containing and oxidatively truncated phospholipids.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRLAMDLRMLSRELSLYLEHQVRVGFFGSGVGLSLILGFSVAYAFYYLSSIAKKRTTRRSGAGRVEDRPCLDLSSLRSPRCSTGMNLLKLQMEDRFHWTGLIMITVRVIWMPAPDLLSYCCLASREQARSHISFI
+PTM	Methylation:113,260;Phosphorylation:48,51,186,328;SUMOylation:332;Ubiquitylation:55,102,288,297,332

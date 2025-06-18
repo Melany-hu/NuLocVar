@@ -1,0 +1,25 @@
+UniprotID	H7C3W5
+Accession	H7C3W5
+EntryName	H7C3W5_HUMAN
+ProteinName	Fukutin
+GeneName	FKTN
+Length	160
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XWYRQCNIIPYSKDVDLGIFIQDYKSDIILAFQDAGLPLKHKFGKVEDSLELSFQGKDDVKLDVFFFYEETDHMWNGGTQAKTGKKFKYLFPKFTLCWTEFVDMKVHVPCETLEYIEANYGKEAESYILSMLFRTTFWSLADFPLTPENNSSLKNGNLNV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	D6RBF0
+Accession	D6RBF0
+EntryName	D6RBF0_HUMAN
+ProteinName	PHD finger protein 3
+GeneName	PHF3
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLENFTFQIFKIVGLDDIMDEGVVKESGNDTIDEEELILPNRNLRDKVEENSVRSPRKSPRLMAQEQVRSLRQSTIAKRSNAAPLSNTKKASGKTVSTAKAGVK
+PTM	

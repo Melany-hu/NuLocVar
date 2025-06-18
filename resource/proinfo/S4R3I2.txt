@@ -1,0 +1,25 @@
+UniprotID	S4R3I2
+Accession	S4R3I2
+EntryName	S4R3I2_HUMAN
+ProteinName	GRAM domain containing 1A
+GeneName	GRAMD1A
+Length	205
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFDTTPHSGRSTPSSSPSLRKRLQLLPPSRPPPEPEPGTMVEKGSDSSSEKGGVPGTPSTQSLGSRNFIRNSKKMQSWYSMLSPTYKQRNEDFRKLFSKLPEAERLIVDYSCALQREILLQGRLYLSENWICFYSNIFRWETTISIQLKEVTCLKKEKTAKLIPNAIQICTESEKVTEDPVTGPRGPPLSRPPPPNMQSPICSAP
+PTM	

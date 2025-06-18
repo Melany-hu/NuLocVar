@@ -1,0 +1,25 @@
+UniprotID	A0AAG2UUQ7
+Accession	A0AAG2UUQ7
+EntryName	A0AAG2UUQ7_HUMAN
+ProteinName	Chromosome 21 open reading frame 7, isoform CRA_b (MAP3K7 C-terminal like)
+GeneName	MAP3K7CL C21orf7 hCG_401169
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	126...132
+validnes_region	
+nesbase_region	
+Sequence	MVQLIAPLEVMWNEAADLKPLALSRRLECSGGIMAHYSPDLLGPEMESRYFAQVGLEHLASSSPPAFGFLKCLDYSISVLCSATSLAMLEDNPKVSKLATGDWMLTLKPKSITVPVEIPSSPLAGRPRRRRRLRCPHDQHSQGTC
+PTM	

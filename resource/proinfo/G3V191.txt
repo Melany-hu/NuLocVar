@@ -1,0 +1,25 @@
+UniprotID	G3V191
+Accession	G3V191
+EntryName	G3V191_HUMAN
+ProteinName	Zinc finger protein 517
+GeneName	ZNF517 hCG_1993075
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMALPMPGPQEAVVFEDVAVYFTRIEWSCLAPDQQALYRDVMLENYGNLASLGFLVAKPALISLLEQGEEPGALILQVAEQSVAKASLCTEDPNTLPSRSQEGSPASSEGGPGEKGVAGRVAGGGAASSWPHGEHPVTPNR
+PTM	

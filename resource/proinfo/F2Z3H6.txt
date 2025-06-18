@@ -1,0 +1,25 @@
+UniprotID	F2Z3H6
+Accession	F2Z3H6
+EntryName	F2Z3H6_HUMAN
+ProteinName	B-cell CLL/lymphoma 7B, isoform CRA_a (BAF chromatin remodeling complex subunit BCL7B)
+GeneName	BCL7B hCG_18986
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTESRSVTQAGVHWRNLGSLQPLPLRFKQFSCLSLLSSWDYREKKWVTVGDTSLRIFKWVPVTDSKEKEKSKSNSSAAREPNGFPSDASANSSLLLEFQDENSNQSSVSDVYQLKVDSSTNSSPSPQQSESLSPAHTSDFRTDDSQPPTLGQEILEEPSLPSSEVADEPPTLTKEEPVPLETQVVEEEEDSGAPPLKRFCVDQPTVPQTASES
+PTM	

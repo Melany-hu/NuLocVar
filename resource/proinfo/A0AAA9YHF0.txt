@@ -1,0 +1,25 @@
+UniprotID	A0AAA9YHF0
+Accession	A0AAA9YHF0
+EntryName	A0AAA9YHF0_HUMAN
+ProteinName	Steroid 5 alpha-reductase 1
+GeneName	SRD5A1
+Length	254
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATATGVAEERLLAALAYLQCAVGCAVFARNRQTNSVYGRHALPSHRLRVPARAAWVVQELPSLALPLYQYASESAPRLRSAPNCILLAMFLVHYGHRCLIYPFLMRGGKPMPLLACTMAIMFCTCNGYLQSRYLSHCAVYADDWVTDPRFLIEEEQAFEFLCRSHDLCLPMFSEAERMSLRCERSEELHSWPKTSRRSEWQSGDFHHLTKLSFRKWFWLVVNGHVDKHPFRSYPKESQKTRRYWIQNTKGRLI
+PTM	

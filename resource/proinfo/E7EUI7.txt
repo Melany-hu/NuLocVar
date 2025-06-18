@@ -1,0 +1,25 @@
+UniprotID	E7EUI7
+Accession	E7EUI7
+EntryName	E7EUI7_HUMAN
+ProteinName	Protein phosphatase 1 regulatory inhibitor subunit 2
+GeneName	PPP1R2
+Length	80
+Function	Inhibitor of protein-phosphatase 1.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAASTASHRPIKGILKNKTSTTSSMVASAEQPRGNVDEELSKKSQKWDEMNILATYHPADKDYGLMKIDEPSTPYHRYIL
+PTM	

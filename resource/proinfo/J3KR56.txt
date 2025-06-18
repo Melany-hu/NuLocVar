@@ -1,0 +1,25 @@
+UniprotID	J3KR56
+Accession	J3KR56
+EntryName	J3KR56_HUMAN
+ProteinName	Receptor activity-modifying protein 3
+GeneName	RAMP3
+Length	151
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METGALRRPQLLPLLLLLCGGCPRAGGCNETGMLERLPLCGKAFADMMGKVDVWKWCNLSEFIVYYESFTNCTEMEANVVGCYWPNPLAQGFITGIHRQFFSNCTVDRVHLEDPPDEVLIPLIVIPVVLTVAMAGLVVWRSKRTDTLLCGN
+PTM	

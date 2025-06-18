@@ -1,0 +1,25 @@
+UniprotID	Q96G74-2
+Accession	Q96G74;B4DGG7;G5E9D7;Q4KMN9;Q8N6T5;Q9H650;Q9H9U0;Q9NT65
+EntryName	OTUD5_HUMAN
+ProteinName	OTU domain-containing protein 5 (EC 3.4.19.12) (Deubiquitinating enzyme A) (DUBA)
+GeneName	OTUD5
+Length	542
+Function	Deubiquitinating enzyme that functions as a negative regulator of the innate immune system (PubMed:17991829, PubMed:22245969, PubMed:23827681, PubMed:33523931). Has peptidase activity towards 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains (PubMed:22245969). Can also cleave 'Lys-11'-linked ubiquitin chains (in vitro) (PubMed:22245969). Acts via TRAF3 deubiquitination and subsequent suppression of type I interferon (IFN) production (PubMed:17991829). Controls neuroectodermal differentiation through cleaving 'Lys-48'-linked ubiquitin chains to counteract degradation of select chromatin regulators such as ARID1A, HDAC2 and HCF1 (PubMed:33523931). Acts as a positive regulator of mTORC1 and mTORC2 signaling following phosphorylation by MTOR: acts by mediating deubiquitination of BTRC, leading to its stability (PubMed:33110214).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTILPKKKPPPPDADPGGTGVGGGDRDRDSGVVGARPRASPPPQGPLPGPPGALHRWALAVPPGAVAGPRPQQASPPPCGGPGGPGGGPGDALGAAAAGVGAAGVVVGVGGAVGVGGCCSGPGHSKRRRQAPGVGAVGGGSPEREEVGAGYNSEDEYEAAAARIEAMDPATVEQQEHWFEKALRDKKGFIIKQMKEDGACLFRAVADQVYGDQDMHEVVRKHCMDYLMKNADYFSNYVTEDFTTYINRKRKNNCHGNHIEMQAMAEMYNRPVEVYQYSTEPINTFHGIHQNEDEPIRVSYHRNIHYNSVVNPNKATIGVGLGLPSFKPGFAEQSLMKNAIKTSEESWIEQQMLEDKKRATDWEATNEAIEEQVARESYLQWLRDQEKQARQVRGPSQPRKASATCSSATAAASSGLEEWTSRSPRQRSSASSPEHPELHAELGMKPPSPGTVLALAKPPSPCAPGTSSQFSAGADRATSPLVSLYPALECRALIQQMSPSAFGLNDWDDDEILASVLAVSQQEYLDSMKKNKVHRDPPPDKS
+PTM	Acetylation:570;Methylation:32,245,366,370;Phosphorylation:54,64,165,175,177,181,250,375,425,431,433,435,436,438,442,443,449,450,452,489,507,508,512,514,527,529,556;SUMOylation:356,366,370,386,429;Ubiquitylation:205,219,245,253,275,343,356,366,370,385,386,429

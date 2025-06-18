@@ -1,0 +1,25 @@
+UniprotID	H3BRS6
+Accession	H3BRS6
+EntryName	H3BRS6_HUMAN
+ProteinName	ADP dependent glucokinase
+GeneName	ADPGK
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEPELPGSALRSLWSSLCLGPAPAPPGPVSPEGRLAAAWDALIVRPVRRWRRVAVGVNACVDVVLSGVKLLQALGLSPGNGKDHSILHSRNDLEEAFIHFMGKGAAAERFFSDKETFHDIAQVASEFPGAQHYVGGNAALIGQKFAANSDLKVLLCGPVGPKLHELLDDNVFVPPESLQEVDEFHLILEYQAAGLSRGDFPWAE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q6PIU2-2
+Accession	Q6PIU2;B7Z2K4;B7Z3A1;B7Z5U2;B7Z906;B7ZAW6;F5H7K4;Q86WZ1;Q9P2I4
+EntryName	NCEH1_HUMAN
+ProteinName	Neutral cholesterol ester hydrolase 1 (NCEH) (EC 3.1.1.-) (Acetylalkylglycerol acetylhydrolase) (2-acetyl MAGE hydrolase) (EC 3.1.1.71) (Arylacetamide deacetylase-like 1)
+GeneName	NCEH1 AADACL1 KIAA1363
+Length	416
+Function	Hydrolyzes 2-acetyl monoalkylglycerol ether (1-O-alkyl-2-acetyl-sn-glycerol), the penultimate precursor of the pathway for de novo synthesis of platelet-activating factor (PubMed:17052608). May be responsible for the hydrolysis of cholesterol esters (such as cholesteryl (9Z-octadecenoate)) in macrophages (By similarity). Also involved in organ detoxification by hydrolyzing exogenous organophosphorus compounds (By similarity). May contribute to cancer pathogenesis by promoting tumor cell migration (PubMed:17052608).
+Subcellular Location	Cell membrane; Microsome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSSCVLLTALVALAAYYVYIPLPGSVSDPWKLMLLDATFRGAQQVSNLIHYLGLSHHLLALNFIIVSFGKKSAWSSAQVKVTDTDFDGVEVRVFEGPPKPEEPLKRSVVYIHGGGWALASASASWSPSDEIRYYDELCTAMAEELNAVIVSIEYRLVPKVYFPEQIHDVVRATKYFLKPEVLQKYMVDPGRICISGDSAGGNLAAALGQQFTQDASLKNKLKLQALIYPVLQALDFNTPSYQQNVNTPILPRYVMVKYWVDYFKGNYDFVQAMIVNNHTSLDVEEAAAVRARLNWTSLLPASFTKNYKPVVQTTGNARIVQELPQLLDARSAPLIADQAVLQLLPKTYILTCEHDVLRDDGIMYAKRLESAGVEVTLDHFEDGFHGCMIFTSWPTNFSVGIRTRNSYIKWLDQNL
+PTM	Acetylation:152,171,359;Glycosylation:270,287;Methylation:177,339;Phosphorylation:168,295;Ubiquitylation:106,171,301

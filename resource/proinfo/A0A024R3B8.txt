@@ -1,0 +1,25 @@
+UniprotID	A0A024R3B8
+Accession	A0A024R3B8
+EntryName	A0A024R3B8_HUMAN
+ProteinName	Coiled-coil domain containing 82
+GeneName	CCDC82 hCG_21456
+Length	172
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTSLHYLDNRFVQPRLESLVSRSRWKEQYKERVENYSNVSIHLKNPENCSCQACGLHRYCKYSVHLSGELYNTRTMQIDNFMSHDKQVFTVGRICASRTRIYHKLKHFKFKLYQECCTIAMTEEVEDEQVKETVERIFRRSKENGWIKEKYGQLEEYLNFADYFQEEKFEL
+PTM	

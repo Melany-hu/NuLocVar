@@ -1,0 +1,25 @@
+UniprotID	P08240-2
+Accession	P08240;A6NIB3;B2R5Z8;B4E0H3;E9PJS4;Q9BVJ4
+EntryName	SRPRA_HUMAN
+ProteinName	Signal recognition particle receptor subunit alpha (SR-alpha) (Docking protein alpha) (DP-alpha)
+GeneName	SRPRA SRPR
+Length	610
+Function	Component of the signal recognition particle (SRP) complex receptor (SR) (PubMed:16439358). Ensures, in conjunction with the SRP complex, the correct targeting of the nascent secretory proteins to the endoplasmic reticulum membrane system (PubMed:16675701, PubMed:34020957). Forms a guanosine 5'-triphosphate (GTP)-dependent complex with the SRP subunit SRP54 (PubMed:34020957). SRP receptor compaction and GTPase rearrangement drive SRP-mediated cotranslational protein translocation into the ER (PubMed:34020957).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLDFFTIFSKGGLVLWCFQGVSDSCTGPVNALIRSVLLQVGFQKILTLTYVDKLIDDVHRLFRDKYRTEIQQQSALSLLNGTFDFQNDFLRLLREAEESSKIRAPTTMKKFEDSEKAKKPVRSMIETRGEKPKEKAKNSKKKGAKKEGSDGPLATSKPVPAEKSGLPVGPENGVELSKEELIRRKREEFIQKHGRGMEKSNKSTKSDAPKEKGKKAPRVWELGGCANKEVLDYSTPTTNGTPEAALSEDINLIRGTGSGGQLQDLDCSSSDDEGAAQNSTKPSATKGTLGGMFGMLKGLVGSKSLSREDMESVLDKMRDHLIAKNVAADIAVQLCESVANKLEGKVMGTFSTVTSTVKQALQESLVQILQPQRRVDMLRDIMDAQRRQRPYVVTFCGVNGVGKSTNLAKISFWLLENGFSVLIAACDTFRAGAVEQLRTHTRRLSALHPPEKHGGRTMVQLFEKGYGKDAAGIAMEAIAFARNQGFDVVLVDTAGRMQDNAPLMTALAKLITVNTPDLVLFVGEALVGNEAVDQLVKFNRALADHSMAQTPRLIDGIVLTKFDTIDDKVGAAISMTYITSKPIVFVGTGQTYCDLRSLNAKAVVAALMKA
+PTM	Acetylation:185,206,220,331,352,492;Glycosylation:306;Methylation:41,55,144,220,344,352,369,437,565,589,596;Phosphorylation:6,46,48,142,177,261,265,266,269,284,286,296,297,298,307,308,311,313,316,332,473,574,578;Ubiquitylation:129,256,369,492,609

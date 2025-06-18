@@ -1,0 +1,25 @@
+UniprotID	O76062-2
+Accession	O76062;A8K4H0;O95982;Q8IY06;Q96E64;Q96GZ1
+EntryName	ERG24_HUMAN
+ProteinName	Delta(14)-sterol reductase TM7SF2 (Delta-14-SR) (EC 1.3.1.70) (3-beta-hydroxysterol Delta (14)-reductase) (Another new gene 1 protein) (C-14 sterol reductase) (C14SR) (Putative sterol reductase SR-1) (Sterol C14-reductase) (Transmembrane 7 superfamily member 2)
+GeneName	TM7SF2 ANG1
+Length	391
+Function	Catalyzes the reduction of the C14-unsaturated bond of lanosterol, as part of the metabolic pathway leading to cholesterol biosynthesis.
+Subcellular Location	Microsome membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPTQGPRAPLEFGGPLGAAALLLLLPATMFHLLLAARSGPARLLGPPASLPGLEVLWSPRALLLWLAWLGLQAALYLLPARKVAEGQELKDKSRLRYPINGFQALVLTALLVGLGMSAGLPLGALPEMLLPLAFVATLTAFIFSLFLYMKAQVAPVSALAPGGNSGNPIYDFFLGRELNPRICFFDFKYFCELRPGLIGWVLINLALLMKEAELRGSPSLAMWLVNGFQLLYVGDALWHEEAVLTTMDITHDGFGFMLAFGDMAWVPFTYSLQAQFLLHHPQPLGLPMASVICLINGLETISTATGRKLLVSGWWGMVRHPNYLGDLIMALAWSLPCGVSHLLPYFYLLYFTALLVHREARDERQCLQKYGLAWQEYCRRVPYRIMPYIY
+PTM	Methylation:91,322,335,336;Phosphorylation:333;Ubiquitylation:311

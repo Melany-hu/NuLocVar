@@ -1,0 +1,25 @@
+UniprotID	F8VPB1
+Accession	F8VPB1
+EntryName	F8VPB1_HUMAN
+ProteinName	Limb development membrane protein 1 like
+GeneName	LMBR1L
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPDYEVLSVREQLFHERIRECIARAVHLYPGNCPGCCPAPALLHHQQ
+PTM	

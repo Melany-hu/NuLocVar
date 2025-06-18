@@ -1,0 +1,25 @@
+UniprotID	Q8IWT0-2
+Accession	Q8IWT0;Q5TGK5;Q6PDA1;Q8IWS9;Q8NEV6;Q8NEV7
+EntryName	ARCH_HUMAN
+ProteinName	Protein archease (Protein ZBTB8OS) (Zinc finger and BTB domain-containing opposite strand protein 8)
+GeneName	ZBTB8OS ARCH
+Length	136
+Function	Component of the tRNA-splicing ligase complex required to facilitate the enzymatic turnover of catalytic subunit RTCB. Together with DDX1, acts by facilitating the guanylylation of RTCB, a key intermediate step in tRNA ligation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQEEEDVRDYNLTEEQKAIKAKYPPVNRKYEYLDHTADVQLHAWGDTLEEAFEQCAMAMFGYMTDTGTVEPLQTVEVETQGDDLQSLLFHFLDEWLYKFSADEFFIPRVGRRIFIVQAPSGNRSQSNNIFSNAGL
+PTM	Methylation:99;SUMOylation:18,21,23,112;Ubiquitylation:23

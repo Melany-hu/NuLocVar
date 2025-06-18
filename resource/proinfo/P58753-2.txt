@@ -1,0 +1,25 @@
+UniprotID	P58753-2
+Accession	P58753;B3KW65;Q56UH9;Q56UI0;Q8N5E5
+EntryName	TIRAP_HUMAN
+ProteinName	Toll/interleukin-1 receptor domain-containing adapter protein (TIR domain-containing adapter protein) (Adaptor protein Wyatt) (MyD88 adapter-like protein) (MyD88-2)
+GeneName	TIRAP MAL
+Length	235
+Function	Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response. Positively regulates the production of TNF-alpha (TNF) and interleukin-6 (IL6).
+Subcellular Location	Cytoplasm; Cell membrane; Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSTSLPAPGSRPKKPLGKMADWFRQTLLKKPKKRPNSPESTSSDASQPTSQDSPLPPSLSSVTSPSLPPTHASDSGSSRWSKDYDVCVCHSEEDLVAAQDLVSYLEGSTASLRCFLQLRDATPGGAIVSELCQALSSSHCRVLLITPGFLQDPWCKYQMLQALTEAPGAEGCTIPLLSGLSRAAYPPELRFMYYVDGRGPDGGFRQVKEAVMRCKLLQEGEGERDSATVSDLL
+PTM	Phosphorylation:39,43,45,124

@@ -1,0 +1,25 @@
+UniprotID	L8EB40
+Accession	L8EB40
+EntryName	L8EB40_HUMAN
+ProteinName	Alternative protein GALNT11
+GeneName	GALNT11
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLICLSVTAWATTEMCQTQGMQHVKKSSTHLTCQLLVLLSVSIMKRFLPCFGQCTVS
+PTM	

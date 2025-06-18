@@ -1,0 +1,25 @@
+UniprotID	Q16595-3
+Accession	Q16595;A8MXJ6;C9JJ89;O15545;O95656;Q15294;Q5VZ01
+EntryName	FRDA_HUMAN
+ProteinName	Frataxin, mitochondrial (EC 1.16.3.1) (Friedreich ataxia protein) (Fxn) [Cleaved into: Frataxin intermediate form (i-FXN); Frataxin(56-210) (m56-FXN); Frataxin(78-210) (d-FXN) (m78-FXN); Frataxin mature form (Frataxin(81-210)) (m81-FXN); Extramitochondrial frataxin]
+GeneName	FXN FRDA X25
+Length	196
+Function	Functions as an activator of persulfide transfer to the scaffoding protein ISCU as component of the core iron-sulfur cluster (ISC) assembly complex and participates to the  cluster assembly (PubMed:12785837, PubMed:24971490). Accelerates sulfur transfer from NFS1 persulfide intermediate to ISCU and to small thiols such as L-cysteine and glutathione leading to persulfuration of these thiols and ultimately sulfide release (PubMed:24971490). Binds ferrous ion and is released from FXN upon the addition of both L-cysteine and reduced FDX2 during  cluster assembly (PubMed:29576242). The core iron-sulfur cluster (ISC) assembly complex is involved in the de novo synthesis of a  cluster, the first step of the mitochondrial iron-sulfur protein biogenesis. This process is initiated by the cysteine desulfurase complex (NFS1:LYRM4:NDUFAB1) that produces persulfide which is delivered on the scaffold protein ISCU in a FXN-dependent manner. Then this complex is stabilized by FDX2 which provides reducing equivalents to accomplish the  cluster assembly. Finally, the  cluster is transferred from ISCU to chaperone proteins, including HSCB, HSPA9 and GLRX5 (By similarity). May play a role in the protection against iron-catalyzed oxidative stress through its ability to catalyze the oxidation of Fe(2+) to Fe(3+); the oligomeric form but not the monomeric form has in vitro ferroxidase activity (PubMed:15641778). May be able to store large amounts of iron in the form of a ferrihydrite mineral by oligomerization; however, the physiological relevance is unsure as reports are conflicting and the function has only been shown using heterologous overexpression systems (PubMed:11823441, PubMed:12755598). May function as an iron chaperone protein that protects the aconitase 2+ cluster from disassembly and promotes enzyme reactivation (PubMed:15247478). May play a role as a high affinity iron binding partner for FECH that is capable of both delivering iron to ferrochelatase and mediating the terminal step in mitochondrial heme biosynthesis (PubMed:15123683, PubMed:16239244).
+Subcellular Location	Mitochondrion; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTLGRRAVAGLLASPSPAQAQTLTRVPRPAELAPLCGRRGLRTDIDATCTPRRASSNQRGLNQIWNVKKQSVYLMNLRKSGTLGHPGSLDETTYERLAEETLDSLAEFFEDLADKPYTFEDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSRYVVDLSVMTGLGKTGCTPTTACPSMSCWPQSSLKP
+PTM	Methylation:147;Phosphorylation:44,49,51,56

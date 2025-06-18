@@ -1,0 +1,25 @@
+UniprotID	H7C2J7
+Accession	H7C2J7
+EntryName	H7C2J7_HUMAN
+ProteinName	Serine/threonine kinase 11 interacting protein
+GeneName	STK11IP
+Length	166
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEELLDVLQSLPPAWRNCVSATEEEVTPQHRLWPLLEKDSSLEARQFFYLRAFLVEGPSTCLVSLLLTPSTLFLLDEDAAGSPAEPSPPAASGEASEKVPPSGPGPAVRVREQQPLSSLSSVLLYRSAPEDLRLLFYDEVRKLRLGDVNQFAQSKVVEPGIESTVP
+PTM	

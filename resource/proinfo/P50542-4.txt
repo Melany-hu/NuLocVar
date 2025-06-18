@@ -1,0 +1,25 @@
+UniprotID	P50542-4
+Accession	P50542;A8K891;B4DZ45;B7ZAD5;D3DUT8;Q15115;Q15266;Q96FN7
+EntryName	PEX5_HUMAN
+ProteinName	Peroxisomal targeting signal 1 receptor (PTS1 receptor) (PTS1R) (PTS1-BP) (Peroxin-5) (Peroxisomal C-terminal targeting signal import receptor) (Peroxisome receptor 1)
+GeneName	PEX5 PXR1
+Length	654
+Function	Receptor that mediates peroxisomal import of proteins containing a C-terminal PTS1-type tripeptide peroxisomal targeting signal (SKL-type) (PubMed:11101887, PubMed:11336669, PubMed:12456682, PubMed:16314507, PubMed:17157249, PubMed:17428317, PubMed:21976670, PubMed:26344566, PubMed:7706321, PubMed:7719337, PubMed:7790377). Binds to cargo proteins containing a PTS1 peroxisomal targeting signal in the cytosol, and translocates them into the peroxisome matrix by passing through the PEX13-PEX14 docking complex along with cargo proteins (PubMed:12456682, PubMed:17157249, PubMed:21976670, PubMed:26344566). PEX5 receptor is then retrotranslocated into the cytosol, leading to release of bound cargo in the peroxisome matrix, and reset for a subsequent peroxisome import cycle (PubMed:11336669, PubMed:24662292).
+Subcellular Location	Cytoplasm; Cytosol; Peroxisome matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMRELVEAECGGANPLMKLAGHFTQDKALRQEGLRPGPWPPGAPASEAVSVLEVESPGAASEAASKPLGVASEDELVAEFLQDQNAPLVSRAPQTFKMDDLLAEMQQIEQSNFRQAPQRAPGVADLALSENWAQEFLAAGDAVDVTQDYNETDWSQEFISEVTDPLSVSPARWAEEYLEQSEEKLWLGEPEGTATDRWYDEYHPEEDLQHTASDFVAKVDDPKLANSEFLKFVRQIGEGQVSLESGAGSGRAQAEQWAAEFIQQQGTSDAWVDQFTRPVNTSALDMEFERAKSAIESDVDFWDKLQAELEEMAKRDAEAHPWLSDYDDLTSATYDKGYQFEEENPLRDHPQPFEEGLRRLQEGDLPNAVLLFEAAVQQDPKHMEAWQYLGTTQAENEQELLAISALRRCLELKPDNQTALMALAVSFTNESLQRQACETLRDWLRYTPAYAHLVTPAEEGAGGAGLGPSKRILGSLLSDSLFLEVKELFLAAVRLDPTSIDPDVQCGLGVLFNLSGEYDKAVDCFTAALSVRPNDYLLWNKLGATLANGNQSEEAVAAYRRALELQPGYIRSRYNLGISCINLGAHREAVEHFLEALNMQRKSRGPRGEGGAMSENIWSTLRLALSMLGQSDAYGAADARDLSTLLTMFGLPQ
+PTM	Acetylation:28,456;Methylation:217,300,472;Phosphorylation:51,58,167,279;SUMOylation:28;Ubiquitylation:19,28,83,217,278,399,456,527

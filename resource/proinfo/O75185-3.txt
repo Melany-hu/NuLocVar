@@ -1,0 +1,25 @@
+UniprotID	O75185-3
+Accession	O75185;B4DU76;E7ES94;Q5HYC3;Q5S053;Q68CQ2
+EntryName	AT2C2_HUMAN
+ProteinName	Calcium-transporting ATPase type 2C member 2 (ATPase 2C2) (EC 7.2.2.10) (Ca(2+)/Mn(2+)-ATPase 2C2) (Secretory pathway Ca(2+)-transporting ATPase type 2) (SPCA2)
+GeneName	ATP2C2 KIAA0703 SPCA2
+Length	975
+Function	ATP-driven pump that supplies the Golgi apparatus with Ca(2+) and Mn(2+) ions, both essential cofactors for processing and trafficking of newly synthesized proteins in the secretory pathway (PubMed:15677451, PubMed:15831496, PubMed:16332677, PubMed:30923126). Within a catalytic cycle, acquires Ca(2+) or Mn(2+) ions on the cytoplasmic side of the membrane and delivers them to the lumenal side. The transfer of ions across the membrane is coupled to ATP hydrolysis and is associated with a transient phosphorylation that shifts the pump conformation from inward-facing to outward-facing state (PubMed:15831496, PubMed:16332677). Induces Ca(2+) influx independently of its ATP-driven pump function. At the basolateral membrane of mammary epithelial cells, interacts with Ca(2+) channel ORAI1 and mediates Ca(2+) entry independently of the Ca(2+) content of endoplasmic reticulum or Golgi stores. May facilitate transepithelial transport of large quantities of Ca(2+) for milk secretion via activation of Ca(2+) influx channels at the plasma membrane and active Ca(2+) transport at the Golgi apparatus (PubMed:20887894, PubMed:23840669).
+Subcellular Location	Golgi apparatus; trans-Golgi network membrane; Cell membrane; Basolateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEGRVSEFLKKLGFSGGGRQYQALEKDEEEALIDEQSELKAIEKEKKVTALPPKEACKCQKEDLARAFCVDLHTGLSEFSVTQRRLAHGWNEFVADNSEPVWKKYLDQFKNPLILLLLGSALVSVLTKEYEDAVSIATAVLVVVTVAFIQEYRSEKSLEELTKLVPPECNCLREGKLQHLLARELVPGDVVSLSIGDRIPADIRLTEVTDLLVDESSFTGEAEPCSKTDSPLTGGGDLTTLSNIVFMGTLVQYGRGQGVVIGTGESSQFGEVFKMMQAEETPKTPLQKSMDRLGKQLTLFSFGIIGLIMLIGWSQGKQLLSMFTIGVSLAVAAIPEGLPIVVMVTLVLGVLRMAKKRVIVKKLPIVETLGCCSVLCSDKTGTLTANEMTVTQLVTSDGLRAEVSGVGYDGQGTVCLLPSKEVIKEFSNVSVGKLVEAGCVANNAVIRKNAVMGQPTEGALMALAMKMDLSDIKNSYIRKKEIPFSSEQKWMAVKCSLKTEDQEDIYFMKGALEEVIRYCTMYNNGGIPLPLTPQQRSFCLQEEKRMGSLGLRVLALASGPELGRLTFLGLVGIIDPPRVGVKEAVQVLSESGVSVKMITGDALETALAIGRNIGLCNGKLQAMSGEEVDSVEKGELADRVGKVSVFFRTSPKHKLKIIKALQESGAIVAMTGDGVNDAVALKSADIGIAMGQTGTDVSKEAANMILVDDDFSAIMNAVEEGKGIFYNIKNFVRFQLSTSISALSLITLSTVFNLPSPLNAMQILWINIIMDGPPAQRSSQKTEVCCTAVRLGVEGRGESTWAGRAGLGVEPVDKDAFRQPPRSVRDTILSRALILKILMSAAIIISGTLFIFWKEMPEDRASTPRTTTMTFTCFVFFDLFNALTCRSQTKLIFEIGFLRNHMFLYSVLGSILGQLAVIYIPPLQRVFQTENLGALDLLFLTGLASSVFILSELLKLCEKYCCSPKRVQMHPEDV
+PTM	Methylation:11,27,45,362,425,449,474,808,927;Phosphorylation:7,38,243,250,282,299,302,420

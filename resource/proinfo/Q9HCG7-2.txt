@@ -1,0 +1,25 @@
+UniprotID	Q9HCG7-2
+Accession	Q9HCG7;D3DRP2;Q5TCV6;Q96A51;Q96LY1;Q96SJ2;Q9H2L8
+EntryName	GBA2_HUMAN
+ProteinName	Non-lysosomal glucosylceramidase (NLGase) (EC 3.2.1.45) (Beta-glucocerebrosidase 2) (Beta-glucosidase 2) (Bile acid beta-glucosidase GBA2) (Bile acid glucosyl transferase GBA2) (Cholesterol glucosyltransferase GBA2) (EC 2.4.1.-) (Cholesteryl-beta-glucosidase GBA2) (EC 3.2.1.-) (Glucosylceramidase 2) (Non-lysosomal cholesterol glycosyltransferase) (Non-lysosomal galactosylceramidase) (EC 3.2.1.46) (Non-lysosomal glycosylceramidase)
+GeneName	GBA2 KIAA1605 SPG46 AD035
+Length	877
+Function	Non-lysosomal glucosylceramidase that catalyzes the hydrolysis of glucosylceramides/GlcCers (such as beta-D-glucosyl-(1<->1')-N-acylsphing-4-enine) to free glucose and ceramides (such as N-acylsphing-4-enine) (PubMed:17105727, PubMed:30308956, PubMed:32144204). GlcCers are membrane glycosphingolipids that have a wide intracellular distribution (By similarity). They are the main precursors of more complex glycosphingolipids that play a role in cellular growth, differentiation, adhesion, signaling, cytoskeletal dynamics and membrane properties (By similarity). Involved in the transglucosylation of cholesterol, transfers glucose from GlcCer to cholesterol, thereby modifying its water solubility and biological properties (PubMed:32144204). Under specific conditions, may catalyze the reverse reaction, transferring glucose from cholesteryl-3-beta-D-glucoside to ceramide (such as N-acylsphing-4-enine) (Probable). May play a role in the metabolism of bile acids (PubMed:11489889, PubMed:17080196, PubMed:9111029). Able to hydrolyze bile acid 3-O-glucosides as well as to produce bile acid-glucose conjugates thanks to a bile acid glucosyl transferase activity (PubMed:11489889, PubMed:17080196, PubMed:9111029). Catalyzes the hydrolysis of galactosylceramides/GalCers (such as beta-D-galactosyl-(1<->1')-N-acylsphing-4-enine), as well as the galactosyl transfer between GalCers and cholesterol in vitro with lower activity compared with their activity against GlcCers (PubMed:32144204).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTQDPGNMGTGVPASEQISCAKEDPQVYCPEETGGTKDVQVTDCKSPEDSRPPKETDCCNPEDSGQLMVSYEGKAMGYQVPPFGWRICLAHEFTEKRKPFQANNVSLSNMIKHIGMGLRYLQWWYRKTHVEKKTPFIDMINSVPLRQIYGCPLGGIGGGTITRGWRGQFCRWQLNPGMYQHRTVIADQFTVCLRREGQTVYQQVLSLERPSVLRSWNWGLCGYFAFYHALYPRAWTVYQLPGQNVTLTCRQITPILPHDYQDSSLPVGVFVWDVENEGDEALDVSIMFSMRNGLGGGDDAPGGLWNEPFCLERSGETVRGLLLHHPTLPNPYTMAVAARVTAATTVTHITAFDPDSTGQQVWQDLLQDGQLDSPTGQSTPTQKGVGIAGAVCVSSKLRPRGQCRLEFSLAWDMPRIMFGAKGQVHYRRYTRFFGQDGDAAPALSHYALCRYAEWEERISAWQSPVLDDRSLPAWYKSALFNELYFLADGGTVWLEVLEDSLPEELGRNMCHLRPTLRDYGRFGYLEGQEYRMYNTYDVHFYASFALIMLWPKLELSLQYDMALATLREDLTRRRYLMSGVMAPVKRRNVIPHDIGDPDDEPWLRVNAYLIHDTADWKDLNLKFVLQVYRDYYLTGDQNFLKDMWPVCLAVMESEMKFDKDHDGLIENGGYADQTYDGWVTTGPSAYCGGLWLAAVAVMVQMAALCGAQDIQDKFSSILSRGQEAYERLLWNGRYYNYDSSSRPQSRSVMSDQCAGQWFLKACGLGEGDTEVFPTQHVVRALQTIFELNVQAFAGGAMGAVNGMQPHGVPDKSSVQSDEVWVGVVYGLAATMIQELLPSGFCLWVIVISSTCWELLEGKDSTASIYPVEVALQRVPS
+PTM	Methylation:623,642,714;Phosphorylation:11,16,47,57,65,576,579,717,720

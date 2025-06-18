@@ -1,0 +1,25 @@
+UniprotID	Q9H903-1
+Accession	Q9H903;Q6P079;Q8N560
+EntryName	MTD2L_HUMAN
+ProteinName	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase 2, mitochondrial (NADP-dependent methylenetetrahydrofolate dehydrogenase 2-like protein) (MTHFD2-like) [Includes: NAD-dependent methylenetetrahydrofolate dehydrogenase (EC 1.5.1.15) (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]
+GeneName	MTHFD2L
+Length	289
+Function	Bifunctional mitochondrial folate-interconverting enzyme that has both NAD/NADP-dependent methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclohydrolase activities.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKHIQKEIQRGVESWVSLGNRRPHLSIILVGDNPASHTYVRNKIRAASAVGICSELILKPKDVSQEELLDVTDQLNMDPRVSGILVQLPLPDHVDERTICNGIAPEKDVDGFHIINIGRLCLDQHSLIPATASAVWEIIKRTGIQTFGKNVVVAGRSKNVGMPIAMLLHTDGEHERPGGDATVTIAHRYTPKEQLKIHTQLADIIIVAAGIPKLITSDMVKEGAAVIDVGINYVHDPVTGKTKLVGDVDFEAVKKKAGFITPVPGGVGPMTVAMLLKNTLLAAKKIIY
+PTM	Acetylation:343;Methylation:61,118,199,217,255,272;SUMOylation:251

@@ -1375,7 +1375,7 @@ function getProByAJAX(uniprot){
         		$('#result-show').css('display','none');
         	}else if(returnInfo['status'] == 'found'){
         		$('#get-alert').addClass('alert-success');
-	            $('#get-alert').html('The protein information in iNuLoC is successfully found.');
+	            $('#get-alert').html('The protein information in the database is successfully found.');
 	            proInfo = returnInfo['info'];
 	            showPro();
 	            showRegion();

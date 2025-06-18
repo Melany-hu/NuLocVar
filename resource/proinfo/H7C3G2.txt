@@ -1,0 +1,25 @@
+UniprotID	H7C3G2
+Accession	H7C3G2
+EntryName	H7C3G2_HUMAN
+ProteinName	OPA1 mitochondrial dynamin like GTPase
+GeneName	OPA1
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLEKNVKEVLEDFAEDGEKKIKLLTGKRVQLAEDLTRTQHYTPGHHMAPHPALTLLLPCLGSDIRARLLFVMESLLLSSALTLCARCLSISSFPPASLCPTPDRFLPHLKPDHAFVEIPSLPCLCFASLHQ
+PTM	

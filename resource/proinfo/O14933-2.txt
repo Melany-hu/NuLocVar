@@ -1,0 +1,25 @@
+UniprotID	O14933-2
+Accession	O14933;A6NDM6;A8MY53;Q8N5D8;Q9UEZ0
+EntryName	UB2L6_HUMAN
+ProteinName	Ubiquitin/ISG15-conjugating enzyme E2 L6 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme L6) (Retinoic acid-induced gene B protein) (RIG-B) (UbcH8) (Ubiquitin carrier protein L6) (Ubiquitin-protein ligase L6)
+GeneName	UBE2L6 UBCH8
+Length	87
+Function	Catalyzes the covalent attachment of ubiquitin or ISG15 to other proteins. Functions in the E6/E6-AP-induced ubiquitination of p53/TP53. Promotes ubiquitination and subsequent proteasomal degradation of FLT3.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIKFTTKIYHPNVDENGQICLPIISSENWKPCTKTCQVLEALNVLVNRPNIREPLRMDLADLLTQNPELFRKNAEEFTLRFGVDRPS
+PTM	Acetylation:96;Methylation:16;Phosphorylation:26,27;SUMOylation:9;Ubiquitylation:17,100

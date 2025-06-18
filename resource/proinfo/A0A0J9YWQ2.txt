@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YWQ2
+Accession	A0A0J9YWQ2
+EntryName	A0A0J9YWQ2_HUMAN
+ProteinName	Phosphatidylserine synthase (EC 2.7.8.29) (Serine-exchange enzyme)
+GeneName	PTDSS2
+Length	393
+Function	Catalyzes a base-exchange reaction in which the polar head group of phosphatidylethanolamine (PE) is replaced by L-serine.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGIVASILVFLCFGVTQAKDGPFSRPHPAYWRFWLCVSVVYELFLIFILFQTVQDGRQFLKYVDPKLGVPLPERDYGGNCLIYDPDNETDPFHNIWDKLDGFVPAHFLGWYLKTLMIRDWWMCMIISVMFEFLEYSLEHQLPNFSECWWDHWIMDVLVCNGLGIYCGMKTLEWLSLKTYKWQGLWNIPTYKGKMKRIAFQFTPYSWVRFEWKPASSLRRWLAVCGIILVFLLAELNTFYLKFVLWMPPEHYLVLLRLVFFVNVGGVAMREIYDFMDDPKPHKKLGPQAWLVAAITATELLIVVKYDPHTLTLSLPFYISQCWTLGSVLALTWTVWRFFLRDITLRYKETRWQKWQNKDDQGSTVGNGDQHPLGLDEDLLGPGVAEGEGAPTPN
+PTM	

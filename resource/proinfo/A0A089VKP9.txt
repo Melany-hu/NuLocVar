@@ -1,0 +1,25 @@
+UniprotID	A0A089VKP9
+Accession	A0A089VKP9
+EntryName	A0A089VKP9_HUMAN
+ProteinName	IL18Ralpha2 splice variant
+GeneName	IL18R1
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	FLHHNGKLFNITKTFNITIVEDRSNIVPVLLGPKLNHVAVELGKNVRLNCSALLNEEDVIYWMFGEENGSDPNIHEEKEMRIMTPEGKWHASKVLRIENIGESNLNVLYNCTVASTGGTDTKSFILVRKDMADIPGHVFTRGMIIAVLILVAVVCLVTVCVIYRVDLVLFYRHLTRRDETLTGNTYNAGISYLMFSLRNQINRH
+PTM	

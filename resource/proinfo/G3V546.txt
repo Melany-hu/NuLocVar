@@ -1,0 +1,25 @@
+UniprotID	G3V546
+Accession	G3V546
+EntryName	G3V546_HUMAN
+ProteinName	RNA binding motif protein 23
+GeneName	RBM23
+Length	114
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLAARIRPRDLEDFFSAVGKVRDVRIISDRNSRRSKGIAYVEFCEIQSVPLAIGLTGQRLLGVPIIVQASQAEKNRLAAMANNLQKGNGGPMRLYVGSLHFNITEDMLRGIFE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P21757-2
+Accession	P21757;D3DSP3;O60505;P21759;Q45F10
+EntryName	MSRE_HUMAN
+ProteinName	Macrophage scavenger receptor types I and II (Macrophage acetylated LDL receptor I and II) (Scavenger receptor class A member 1) (CD antigen CD204)
+GeneName	MSR1 SCARA1
+Length	358
+Function	Membrane glycoproteins implicated in the pathologic deposition of cholesterol in arterial walls during atherogenesis. Two types of receptor subunits exist. These receptors mediate the endocytosis of a diverse group of macromolecules, including modified low density lipoproteins (LDL) (PubMed:2251254). Isoform III does not internalize acetylated LDL (PubMed:9548586).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQWDHFHNQQEDTDSCSESVKFDARSMTALLPPNPKNSPSLQEKLKSFKAALIALYLLVFAVLIPLIGIVAAQLLKWETKNCSVSSTNANDITQSLTGKGNDSEEEMRFQEVFMEHMSNMEKRIQHILDMEANLMDTEHFQNFSMTTDQRFNDILLQLSTLFSSVQGHGNAIDEISKSLISLNTTLLDLQLNIENLNGKIQENTFKQQEEISKLEERVYNVSAEIMAMKEEQVHLEQEIKGEVKVLNNITNDLRLKDWEHSQTLRNITLIQGPPGPPGEKGDRGPTGESGPRGFPGPIGPPGLKGDRGAIGFPGSRGLPGYAGRPGNSGPKGQKGEKGSGNTLRPVQLTDHIRAGPS
+PTM	Acetylation:332;Glycosylation:143,221,248,249;Methylation:45,47,50,77,214,241,430;Phosphorylation:16,18,27,29,39,48

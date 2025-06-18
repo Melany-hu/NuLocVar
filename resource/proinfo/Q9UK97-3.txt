@@ -1,0 +1,25 @@
+UniprotID	Q9UK97-3
+Accession	Q9UK97;A6NFW3;B3KMM6;O75986;Q59EH8;Q6PKH7;Q9NT57;Q9Y593
+EntryName	FBX9_HUMAN
+ProteinName	F-box only protein 9 (Cross-immune reaction antigen 1) (Renal carcinoma antigen NY-REN-57)
+GeneName	FBXO9 FBX9 VCIA1
+Length	403
+Function	Substrate recognition component of a SCF (SKP1-CUL1-F-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins and plays a role in several biological processes such as cell cycle, cell proliferation, or maintenance of chromosome stability (PubMed:23263282, PubMed:34480022). Ubiquitinates mTORC1-bound TTI1 and TELO2 when they are phosphorylated by CK2 following growth factor deprivation, leading to their degradation. In contrast, does not mediate ubiquitination of TTI1 and TELO2 when they are part of the mTORC2 complex. As a consequence, mTORC1 is inactivated to restrain cell growth and protein translation, while mTORC2 is the activated due to the relief of feedback inhibition by mTORC1 (PubMed:23263282). Plays a role in maintaining epithelial cell survival by regulating the turn-over of chromatin modulator PRMT4 through ubiquitination and degradation by the proteasomal pathway (PubMed:34480022). Regulates also PPARgamma stability by facilitating PPARgamma/PPARG ubiquitination and thereby plays a role in adipocyte differentiation (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRAQWMFELAPGVSSSNLENRPCRAARGSLQKTSADTKGKQEQAKEEKARELFLKAVEEEQNGALYEAIKFYRRAMQLVPDIEFKITYTRSPDGDGVGNSYIEDNDDDSKMADLLSYFQQQLTFQESVLKLCQPELESSQIHISVLPMEVLMYIFRWVVSSDLDLRSLEQLSLVCRGFYICARDPEIWRLACLKVWGRSCIKLVPYTSWREMFLERPRVRFDGVYISKTTYIRQGEQSLDGFYRAWHQVEYYRYIRFFPDGHVMMLTTPEEPQSIVPRLRTRNTRTDAILLGHYRLSQDTDNQTKVFAVITKKKEEKPLDYKYRYFRRVPVQEADQSFHVGLQLCSSGHQRFNKLIWIHHSCHITYKSTGETAVSAFEIDKMYTPLFFARVRSYTAFSERPL
+PTM	Glycosylation:347;Methylation:115;Phosphorylation:20,33,74,111,132,136,145;Ubiquitylation:367

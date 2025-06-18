@@ -1,0 +1,25 @@
+UniprotID	P32298-2
+Accession	P32298;O00641;O00642;Q13293;Q13294;Q13295;Q14453;Q14725;Q15313;Q15314;Q15315;Q15316;Q17RH6;Q53EQ8
+EntryName	GRK4_HUMAN
+ProteinName	G protein-coupled receptor kinase 4 (EC 2.7.11.16) (G protein-coupled receptor kinase GRK4) (ITI1)
+GeneName	GRK4 GPRK2L GPRK4
+Length	546
+Function	Specifically phosphorylates the activated forms of G protein-coupled receptors. GRK4-alpha can phosphorylate rhodopsin and its activity is inhibited by calmodulin; the other three isoforms do not phosphorylate rhodopsin and do not interact with calmodulin. GRK4-alpha and GRK4-gamma phosphorylate DRD3. Phosphorylates ADRB2.
+Subcellular Location	Cytoplasm; Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELENIVANSLLLKARQEKDYSSLCDKQPIGRRLFRQFCDTKPTLKRHIEFLDAVAEYEVADDEDRSDCGLSILDRFFNDKLAAPLPEIPPDVVTECRLGLKEENPSKKAFEECTRVAHNYLRGEPFEEYQESSYFSQFLQWKWLERQPVTKNTFRHYRVLGKGGFGEVCACQVRATGKMYACKKLQKKRIKKRKGEAMALNEKRILEKVQSRFVVSLAYAYETKDALCLVLTIMNGGDLKFHIYNLGNPGFDEQRAVFYAAELCCGLEDLQRERIVYRDLKPENILLDDRGHIRISDLGLATEIPEGQRVRGRVGTVGYMAPEVVNNEKYTFSPDWWGLGCLIYEMIQGHSPFKKYKEKVKWEEVDQRIKNDTEEYSEKFSEDAKSICRMLLTKNPSKRLGCRGEGAAGVKQHPVFKDINFRRLEANMLEPPFCPDPHAVYCKDVLDIEQFSVVKGIYLDTADEDFYARFATGCVSIPWQNEMIESGCFKDINKSESEEALPLDLDKNIHTPVSRPNRGFFYRLFRRGGCLTMVPSEKEVEPKQC
+PTM	Acetylation:227,241;Methylation:14,51,195,241,427,527,540;Phosphorylation:48,104;SUMOylation:195;Ubiquitylation:195,314

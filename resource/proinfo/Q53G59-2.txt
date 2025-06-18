@@ -1,0 +1,25 @@
+UniprotID	Q53G59-2
+Accession	Q53G59;A6NEN8;B7Z7B8;Q9HBX5
+EntryName	KLH12_HUMAN
+ProteinName	Kelch-like protein 12 (CUL3-interacting protein 1) (DKIR homolog) (hDKIR)
+GeneName	KLHL12 C3IP1
+Length	606
+Function	Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that acts as a negative regulator of Wnt signaling pathway and ER-Golgi transport (PubMed:22358839, PubMed:27565346). The BCR(KLHL12) complex is involved in ER-Golgi transport by regulating the size of COPII coats, thereby playing a key role in collagen export, which is required for embryonic stem (ES) cells division: BCR(KLHL12) acts by mediating monoubiquitination of SEC31 (SEC31A or SEC31B) (PubMed:22358839, PubMed:27565346). The BCR(KLHL12) complex is also involved in neural crest specification: in response to cytosolic calcium increase, interacts with the heterodimer formed with PEF1 and PDCD6/ALG-2, leading to bridge together the BCR(KLHL12) complex and SEC31 (SEC31A or SEC31B), promoting monoubiquitination of SEC31 and subsequent collagen export (PubMed:27716508). As part of the BCR(KLHL12) complex, also acts as a negative regulator of the Wnt signaling pathway by mediating ubiquitination and subsequent proteolysis of DVL3 (PubMed:16547521). The BCR(KLHL12) complex also mediates polyubiquitination of DRD4 and PEF1, without leading to degradation of these proteins (PubMed:18303015, PubMed:20100572, PubMed:27716508).
+Subcellular Location	Cytoplasmic vesicle; COPII-coated vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVNKFEASVGFLDVKKFLSTWKLQNPRTHFVLSPHCFMGGIMAPKDIMTNTHAKSILNSMNSLRKSNTLCDVTLRVEQKDFPAHRIVLAACSDYFCAMFTSELSEKGKPYVDIQGLTASTMEILLDFVYTETVHVTVENVQELLPAACLLQLKGVKQACCEFLESQLDPSNCLGIRDFAETHNCVDLMQAAEVFSQKHFPEVVQHEEFILLSQGEVEKLIKCDEIQVDSEEPVFEAVINWVKHAKKEREESLPNLLQYVRMPLLTPRYITDVIDAEPFIRCSLQCRDLVDEAKKFHLRPELRSQMQGPRTRARLGANEVLLVVGGFGSQQSPIDVVEKYDPKTQEWSFLPSITRKRRYVASVSLHDRIYVIGGYDGRSRLSSVECLDYTADEDGVWYSVAPMNVRRGLAGATTLGDMIYVSGGFDGSRRHTSMERYDPNIDQWSMLGDMQTAREGAGLVVASGVIYCLGGYDGLNILNSVEKYDPHTGHWTNVTPMATKRSGAGVALLNDHIYVVGGFDGTAHLSSVEAYNIRTDSWTTVTSMTTPRCYVGATVLRGRLYAIAGYDGNSLLSSIECYDPIIDSWEVVTSMGTQRCDAGVCVLREK
+PTM	Methylation:28,69,116,181,301;Phosphorylation:12,36,228,454,516;Ubiquitylation:28,119,256,305,462

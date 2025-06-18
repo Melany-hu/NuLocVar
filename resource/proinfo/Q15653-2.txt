@@ -1,0 +1,25 @@
+UniprotID	Q15653-2
+Accession	Q15653;A8K3F4;Q96BJ7
+EntryName	IKBB_HUMAN
+ProteinName	NF-kappa-B inhibitor beta (NF-kappa-BIB) (I-kappa-B-beta) (IkB-B) (IkB-beta) (IkappaBbeta) (Thyroid receptor-interacting protein 9) (TR-interacting protein 9) (TRIP-9)
+GeneName	NFKBIB IKBB TRIP9
+Length	338
+Function	Inhibits NF-kappa-B by complexing with and trapping it in the cytoplasm. However, the unphosphorylated form resynthesized after cell stimulation is able to bind NF-kappa-B allowing its transport to the nucleus and protecting it to further NFKBIA-dependent inactivation. Association with inhibitor kappa B-interacting NKIRAS1 and NKIRAS2 prevent its phosphorylation rendering it more resistant to degradation, explaining its slower degradation.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVACLGKAADADEWCDSGLGSLGPDAAAPGGPGLGAELGPGLSWAPLVFGYVTEDGDTALHLAVIHQHEPFLDFLLGFSAGTEYMDLQNDLGQTALHLAAILGETSTVEKLYAAGAGLCVAERRGHTALHLACRVGAHACARALLQPRPRRPREAPDTYLAQGPDRTPDTNHTPVALYPDSDLEKEEEESEEDWKLQLEAENYEGHTPLHVAVIHKDVEMVRLLRDAGADLDKPEPTCGRSPLHLAVEAQAADVLELLLRAGANPAARMYGGRTPLGSAMLRPNPILARLLRAHGAPEPEGEDEKSGPCSSSSDSDSGDEGVSQEERQGSPAGGSG
+PTM	Methylation:187,235;Phosphorylation:161,183,192,239,313,315,343

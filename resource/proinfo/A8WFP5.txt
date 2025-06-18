@@ -1,0 +1,25 @@
+UniprotID	A8WFP5
+Accession	A8WFP5
+EntryName	A8WFP5_HUMAN
+ProteinName	V-maf musculoaponeurotic fibrosarcoma oncogene homolog K (Avian)
+GeneName	MAFK
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTNPKPNKALKVKKEAGENAPVLSDDELVSMSVRELNQHLRGLTKEEVTRLKQRRRTLKNRGYAASCRIKRVTQKEELERQRVELQQEVEKLARENSSMRLELDALRSKYEALQTFARTVARGPVAPSKVATTSVITIVKSTELSSTSVPFSAASL
+PTM	

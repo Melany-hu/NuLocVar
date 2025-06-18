@@ -1,0 +1,25 @@
+UniprotID	Q8TE99-2
+Accession	Q8TE99;D3DNF5;Q49AJ2;W0TR04
+EntryName	PXYP1_HUMAN
+ProteinName	2-phosphoxylose phosphatase 1 (EC 3.1.3.-) (Acid phosphatase-like protein 2) (Xylosyl phosphatase) (epididymis luminal protein 124)
+GeneName	PXYLP1 ACPL2 HEL124 XYLP UNQ370/PRO706
+Length	464
+Function	Responsible for the 2-O-dephosphorylation of xylose in the glycosaminoglycan-protein linkage region of proteoglycans thereby regulating the amount of mature glycosaminoglycan (GAG) chains. Sulfated glycosaminoglycans (GAGs), including heparan sulfate and chondroitin sulfate, are synthesized on the so-called common GAG-protein linkage region (GlcUAbeta1-3Galbeta1-3Galbeta1-4Xylbeta1-O-Ser) of core proteins, which is formed by the stepwise addition of monosaccharide residues by the respective specific glycosyltransferases. Xylose 2-O-dephosphorylation during completion of linkage region formation is a prerequisite for the initiation and efficient elongation of the repeating disaccharide region of GAG chains.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEHSVCPSSAVHLIPVSTPKNGMSSKSRKRIMPDPVTEPPVTDPVYEALLYCNIPSVAERSMEGHAPHHFKLVSVHVFIRHGDRYPLYVIPKTKRPEIDCTLVANRKPYHPKLEAFISHMSKGSGASFESPLNSLPLYPNHPLCEMGELTQTGVVQHLQNGQLLRDIYLKKHKLLPNDWSADQLYLETTGKSRTLQSGLALLYGFLPDFDWKKIYFRHQPSALFCSGSCYCPVRNQYLEKEQRRQYLLRLKNSQLEKTYGEMAKIVDVPTKQLRAANPIDSMLCHFCHNVSFPCTRNGCVDMEHFKVIKTHQIEDERERREKKLYFGYSLLGAHPILNQTIGRMQRATEGRKEELFALYSAHDVTLSPVLSALGLSEARFPRFAARLIFELWQDREKPSEHSVRILYNGVDVTFHTSFCQDHHKRSPKPMCPLENLVRFVKRDMFVALGGSGTNYYDACHREGF
+PTM	Methylation:186,256,273,280;Phosphorylation:269,375,376,381,383,387,392;Ubiquitylation:186,267,287

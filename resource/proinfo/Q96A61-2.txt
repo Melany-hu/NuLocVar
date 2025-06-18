@@ -1,0 +1,25 @@
+UniprotID	Q96A61-2
+Accession	Q96A61;L0CQ38;Q59G66
+EntryName	TRI52_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM52 (EC 2.3.2.27) (RING finger protein 102) (Tripartite motif-containing protein 52)
+GeneName	TRIM52 RNF102
+Length	286
+Function	E3 ubiquitin-protein ligase (PubMed:27667714). Positively regulates the NF-kappa-B signaling pathway (PubMed:27667714, PubMed:28073078).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGYATTPSPMQTLQEEAVCAICLDYFKDPVSISCGHNFCRGCVTQLWSKEDEEDQNEEEDEWEEEEDEEAVGAMDGWDGSIREVLYRGNADEELFQDQDDDELWLGDSGITNWDNVDYMWDEEEEEEEEDQDYYLGGLRPDLRIDVYREEEILEAYDEDEDEELYPDIHPPPSLPLPGQFTCPQCRKSFTRRSFRPNLQLANMVQIIRQMCPTPYRGNRSNDQGMCFKHQEALKLFCEVDKEAICVVCRESRSHKQHSVLPLEEVVQEYQVREMRECGGMKGVER
+PTM	Methylation:50,235,242,274;SUMOylation:229

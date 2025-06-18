@@ -1,0 +1,25 @@
+UniprotID	A0A994J7R5
+Accession	A0A994J7R5
+EntryName	A0A994J7R5_HUMAN
+ProteinName	Syntaxin 2
+GeneName	STX2
+Length	116
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDRLPDLTACRKNDDGDTVVVVEKDHFMDDFFHQFQGLEKLRCWQGRAASLLELPSSPSSAGGLCSWVSSLLKAITPAAVFTIKCPSSNVGSLASSYKESCGYVGPTQIIQGGGD
+PTM	

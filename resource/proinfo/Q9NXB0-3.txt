@@ -1,0 +1,25 @@
+UniprotID	Q9NXB0-3
+Accession	Q9NXB0;B7WNX4;F5H885;Q284T0;Q96G13
+EntryName	MKS1_HUMAN
+ProteinName	Tectonic-like complex member MKS1 (Meckel syndrome type 1 protein)
+GeneName	MKS1
+Length	549
+Function	Component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Involved in centrosome migration to the apical cell surface during early ciliogenesis. Required for ciliary structure and function, including a role in regulating length and appropriate number through modulating centrosome duplication. Required for cell branching morphology.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVPVSSFAQRTRSRFRVHLQRITSSNFLHYQPAAELGKDLIDLATFRPQPTASGHRPEEDEEEEIVIGWQEKLFSQFEVDLYQNETACQSPLDYQYRQEILKLENSGGKKNRRIFTYTDSDRYTNLEEHCQRMTTAASEVPSFLVERMANVRRRRQDRRGMEGGILKSRIVTWEPSEEFVRNNHVINTPLQTMHIMADLGPYKKLGYKKYEHVLCTLKVDSNGVITVKPDFTGLKGPYRIETEGEKQELWKYTIDNVSPHAQPEEEERERRVFKDLYGRHKEYLSSLVGTDFEMTVPGALRLFVNGEVVSAQGYEYDNLYVHFFVELPTAHWSSPAFQQLSGVTQTCTTKSLAMDKVAHFSYPFTFEAFFLHEDESSDALPEWPVLYCEVLSLDFWQRYRVEGYGAVVLPATPGSHTLTVSTWRPVELGTVAELRRFFIGGSLELEDLSYVRIPGSFKGERLSRFGLRTETTGTVTFRLHCLQQSRAFMESSSLQKRMRSVLDRLEGFSQQSSIHNVLEAFRRARRRMQEARESLPQDLVSPSGTLVS
+PTM	Methylation:49,67,113,178,239;Phosphorylation:4,7,15,288,433,487,511;SUMOylation:113,178,214,220,239,246,257,262,285;Ubiquitylation:113,178,239,285,469,507

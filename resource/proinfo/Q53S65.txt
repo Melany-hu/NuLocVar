@@ -1,0 +1,25 @@
+UniprotID	Q53S65
+Accession	Q53S65
+EntryName	Q53S65_HUMAN
+ProteinName	Uncharacterized protein CACNB4
+GeneName	CACNB4
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GSADSYTSRPSDSDVSLEEDREAIRQEREQQAAIQLERAKSKPVAFAVKTNVSYCGALDEDVPVPSTAISFDAKDFLHIKEKYNNDWWIGRLVKEGCEIGFIPSPLRLENIRIQQEQKRGRFHGGKSSGNSSSSLGEMVSGTFRATPTSTAKQKQKVTEHIPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFDG
+PTM	

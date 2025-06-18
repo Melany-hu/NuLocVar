@@ -1,0 +1,25 @@
+UniprotID	A8MVG7
+Accession	A8MVG7
+EntryName	A8MVG7_HUMAN
+ProteinName	Integrin subunit beta 2
+GeneName	ITGB2
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGLRPPLLALVGLLSLGCVLSQECTKFKVSSCRECIESGPGCTWCQKLGAALGPPAHATAASSPRRRSRVAPVCPRTEQGGQAPGGNYLGQAGFFPSPFWRFSAPLK
+PTM	

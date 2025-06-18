@@ -1,0 +1,25 @@
+UniprotID	Q9NPH5-2
+Accession	Q9NPH5;A8K715;B7Z520;E7EMD7;Q5K3R4;Q5K3R5;Q5K3R6;Q5K3R8;Q7Z7G3;Q86V92
+EntryName	NOX4_HUMAN
+ProteinName	NADPH oxidase 4 (EC 1.6.3.1) (Kidney oxidase-1) (KOX-1) (Kidney superoxide-producing NADPH oxidase) (Renal NAD(P)H-oxidase)
+GeneName	NOX4 RENOX
+Length	504
+Function	NADPH oxidase that catalyzes predominantly the reduction of oxygen to H2O2 (PubMed:14966267, PubMed:15356101, PubMed:15927447, PubMed:21343298, PubMed:25062272). Can also catalyze to a smaller extent, the reduction of oxygen to superoxide (PubMed:10869423, PubMed:11032835, PubMed:15155719, PubMed:15572675, PubMed:15927447, PubMed:16019190, PubMed:16179589, PubMed:16230378, PubMed:16324151, PubMed:25062272). May function as an oxygen sensor regulating the KCNK3/TASK-1 potassium channel and HIF1A activity (PubMed:16019190). May regulate insulin signaling cascade (PubMed:14966267). May play a role in apoptosis, bone resorption and lipolysaccharide-mediated activation of NFKB (PubMed:15356101, PubMed:15572675). May produce superoxide in the nucleus and play a role in regulating gene expression upon cell stimulation (PubMed:16324151).
+Subcellular Location	Endoplasmic reticulum membrane; Cell membrane; Cell junction; Focal adhesion; Nucleus; Nucleus; Nucleus; Nucleolus; Cytoplasm; Cytoplasm; Perinuclear region; Cytoplasm; Cytoplasm; Perinuclear region; Cytoplasm; Cytoplasm; Perinuclear region; Cytoplasm; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRTLLAYLRGSQKVPSRRTRRLLDKSRTFHITCGVTICIFSGVHVAAHLVNALNFSVNYSEDFVELNAARYRDEDPRKLLFTTVPGLTGVCMVVVLFLMITASTYAIRVSNYDIFWYTHNLFFVFYMLLTLHVSGGLLKYQTNLDTHPPGCISLNRTSSQNISLPEYFSEHFHEPFPEGFSKPAEFTQHKFVKICMEEPRFQANFPQTWLWISGPLCLYCAERLYRYIRSNKPVTIISVMSHPSDVMEIRMVKENFKARPGQYITLHCPSVSALENHPFTLTMCPTETKATFGVHLKIVGDWTERFRDLLLPPSSQDSEILPFIQSRNYPKLYIDGPFGSPFEESLNYEVSLCVAGGIGVTPFASILNTLLDDWKPYKLRRLYFIWVCRDIQSFRWFADLLCMLHNKFWQENRPDYVNIQLYLSQTDGIQKIIGEKYHALNSRLFIGRPRWKLLFDEIAKYNRGKTVGVFCCGPNSLSKTLHKLSNQNNSYGTRFEYNKESFS
+PTM	Methylation:15,32,100,214,535

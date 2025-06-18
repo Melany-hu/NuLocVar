@@ -1,0 +1,25 @@
+UniprotID	Q6PJ92
+Accession	Q6PJ92
+EntryName	Q6PJ92_HUMAN
+ProteinName	ZNF169 protein (Zinc finger protein 169, isoform CRA_d)
+GeneName	ZNF169 hCG_1985127
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPGLLTTRKEALMAFRDVAVAFTQKEWKLLSSAQRTLYREVMLENYSHLVSLGIAFSKPKLIEQLEQGDEPWREENEHLLDLCPGRRITRSGVRD
+PTM	

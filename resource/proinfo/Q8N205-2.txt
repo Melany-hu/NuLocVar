@@ -1,0 +1,25 @@
+UniprotID	Q8N205-2
+Accession	Q8N205;A8MRS0;A8MYE3;Q7Z7L3
+EntryName	SYNE4_HUMAN
+ProteinName	Nesprin-4 (KASH domain-containing protein 4) (KASH4) (Nuclear envelope spectrin repeat protein 4)
+GeneName	SYNE4 C19orf46
+Length	291
+Function	As a component of the LINC (LInker of Nucleoskeleton and Cytoskeleton) complex, involved in the connection between the nuclear lamina and the cytoskeleton. The nucleocytoplasmic interactions established by the LINC complex play an important role in the transmission of mechanical forces across the nuclear envelope and in nuclear movement and positioning (By similarity). Behaves as a kinesin cargo, providing a functional binding site for kinesin-1 at the nuclear envelope. Hence may contribute to the establishment of secretory epithelial morphology by promoting kinesin-dependent apical migration of the centrosome and Golgi apparatus and basal localization of the nucleus (By similarity).
+Subcellular Location	Nucleus outer membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSLPLGPRLGSEPLNHPPGAPREADIVGCTVCPASGEESTSPEQAQTLGQDSLGPPEHFQGGPRGNEPAAHPPRWSTPSSYEDPAGGKHCEVFEEANTLDQDLEVEGDSDWPGPGGVWGPWAPSSLPTSTELEWDPAGDIGGLGPLGQKTARTLGVPCELCGQRGPQGRGQGLEEADTSHSRQDMLESGLGHQKRLARHQRHSLLRKPQDKKRQASPHLQDVRLEGNPGAPDPASRQPLTFLLILFLLFLLLVGAMFLLPASGGPCCSHARIPRTPYLVLSYVNGLPPV
+PTM	Methylation:322;Phosphorylation:318,331

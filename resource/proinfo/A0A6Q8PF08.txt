@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PF08
+Accession	A0A6Q8PF08
+EntryName	A0A6Q8PF08_HUMAN
+ProteinName	Peripheral myelin protein 22
+GeneName	PMP22
+Length	217
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLLLLSIIVLHVAVLVLLFVSTIVSQWIVGNGHATDLWQNCSTSSSGNVHHCFSSSPNVCPGHHDPVDHLQHSVSVPVLLPTLHPHQGGQVLHHWNLPNSCWSVRDECCGHLHGEAPGVASQLGLLLRFRLHPGLGGLPPGPSQRCHLCDLAETRMRRPDGLSEALSVHREGRKGKQKADKEKRASPKSQTQTKPNRKQWRWGLLLIEDVYNISGL
+PTM	

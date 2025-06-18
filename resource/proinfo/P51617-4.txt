@@ -1,0 +1,25 @@
+UniprotID	P51617-4
+Accession	P51617;D3DWW3;D3DWW4;Q7Z5V4;Q96C06;Q96RL2
+EntryName	IRAK1_HUMAN
+ProteinName	Interleukin-1 receptor-associated kinase 1 (IRAK-1) (EC 2.7.11.1)
+GeneName	IRAK1 IRAK
+Length	633
+Function	Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways. Is rapidly recruited by MYD88 to the receptor-signaling complex upon TLR activation. Association with MYD88 leads to IRAK1 phosphorylation by IRAK4 and subsequent autophosphorylation and kinase activation. Phosphorylates E3 ubiquitin ligases Pellino proteins (PELI1, PELI2 and PELI3) to promote pellino-mediated polyubiquitination of IRAK1. Then, the ubiquitin-binding domain of IKBKG/NEMO binds to polyubiquitinated IRAK1 bringing together the IRAK1-MAP3K7/TAK1-TRAF6 complex and the NEMO-IKKA-IKKB complex. In turn, MAP3K7/TAK1 activates IKKs (CHUK/IKKA and IKBKB/IKKB) leading to NF-kappa-B nuclear translocation and activation. Alternatively, phosphorylates TIRAP to promote its ubiquitination and subsequent degradation. Phosphorylates the interferon regulatory factor 7 (IRF7) to induce its activation and translocation to the nucleus, resulting in transcriptional activation of type I IFN genes, which drive the cell in an antiviral state. When sumoylated, translocates to the nucleus and phosphorylates STAT3.
+Subcellular Location	Cytoplasm; Nucleus; Lipid droplet
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGGPGPGEPAAPGAQHFLYEVPPWVMCRFYKVMDALEPADWCQFAALIVRDQTELRLCERSGQRTASVLWPWINRNARVADLVHILTHLQLLRARDIITAWHPPAPLPSPGTTAPRPSSIPAPAEAEAWSPRKLPSSASTFLSPAFPGSQTHSGPELGLVPSPASLWPPPPSPAPSSTKPGPESSVSLLQGARPFPFCWPLCEISRGTHNFSEELKIGEGGFGCVYRAVMRNTVYAVKRLKENADLEWTAVKQSFLTEVEQLSRFRHPNIVDFAGYCAQNGFYCLVYGFLPNGSLEDRLHCQTQACPPLSWPQRLDILLGTARAIQFLHQDSPSLIHGDIKSSNVLLDERLTPKLGDFGLARFSRFAGSSPSQSSMVARTQTVRGTLAYLPEEYIKTGRLAVDTDTFSFGVVVLETLAGQRAVKTHGARTKYLVYERLEKLQAVVAGVPGHSEAASCIPPSPQENSYVSSTGRAHSGAAPWQPLAAPSGASAQAAEQLQRGPNQPVESDESLGGLSAALRSWHLTPSCPLDPAPLREAGCPQGDTAGESSWGSGPGSRPTAVEGLALGSSASSSSEPPQIIINPARQKMVQKLALYEDGALDSLQLLSSSSLPGLGLEQDRQGPEESDEFQS
+PTM	Acetylation:217;Methylation:217,239,355,397;Phosphorylation:110,131,234,236,370,371,375,390,395,556,601,605;Ubiquitylation:217,239,342,355,397

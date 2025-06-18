@@ -1,0 +1,25 @@
+UniprotID	Q14565-2
+Accession	Q14565;A8K9A2;B4DMW6;Q08AI1;Q99498;Q9UH11
+EntryName	DMC1_HUMAN
+ProteinName	Meiotic recombination protein DMC1/LIM15 homolog
+GeneName	DMC1 DMC1H LIM15
+Length	285
+Function	Participates in meiotic recombination, specifically in homologous strand assimilation, which is required for the resolution of meiotic double-strand breaks.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEDQVVAEEPGFQDEEESLFQDIDLLQKHGINVADIKKLKSVGICTIKGIQMTTRRALCNVKGLSEAKVDKIKEAANKLIEPGFLTAFEYSEKRKMVFHITTGSQEFDKLLGGGIESMAITEAFGEFRTGKTQLSHTLCGEHQMELLDYVAAKFHEEAGIFKLLIIDSIMALFRVDFSGRGELAERQQKLAQMLSRLQKISEEYNVAVFVTNQMTADPGATMTFQADPKKPIGGHILAHASTTRISLRKGRGELRIAKIYDSPEMPENEATFAITAGGIGDAKE
+PTM	Methylation:29,69,230,305,314;Phosphorylation:302

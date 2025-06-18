@@ -1,0 +1,25 @@
+UniprotID	E5RFX7
+Accession	E5RFX7
+EntryName	E5RFX7_HUMAN
+ProteinName	Pyridoxal phosphate binding protein
+GeneName	PLPBP
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVIEAYGHGQRTFGENYVQELLEKASNPKILSLCPEIKWHFIGHLQKQNVNKLMAVPNLFMLETVDSVKLADKVNSSWQRKGSPERLKVMVQINTSGEESKHGLPPSETIAIVEHINAKCPNLEFVGLMTIGSFGHD
+PTM	

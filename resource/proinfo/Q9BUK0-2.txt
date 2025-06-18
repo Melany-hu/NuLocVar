@@ -1,0 +1,25 @@
+UniprotID	Q9BUK0-2
+Accession	Q9BUK0;A8K223;E9PBH3;J3KNE9;Q7Z588
+EntryName	CHCH7_HUMAN
+ProteinName	Coiled-coil-helix-coiled-coil-helix domain-containing protein 7
+GeneName	CHCHD7
+Length	97
+Function	
+Subcellular Location	Mitochondrion intermembrane space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHQTRTGKKTVRMPSVTQRLRDPDINPCLSESDASTRCLDENNYDRERCSTYFLRYKNCRRFWNSIVMQRRKNGVKPFMPTAAERDEILRAVGNMPY
+PTM	Methylation:64;Phosphorylation:3,5

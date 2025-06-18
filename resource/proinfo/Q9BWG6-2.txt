@@ -1,0 +1,25 @@
+UniprotID	Q9BWG6-2
+Accession	Q9BWG6;B4DWR1;Q5JR74
+EntryName	SCNM1_HUMAN
+ProteinName	Sodium channel modifier 1
+GeneName	SCNM1
+Length	195
+Function	As a component of the minor spliceosome, involved in the splicing of U12-type introns in pre-mRNAs (PubMed:36084634). Plays a role in the regulation of primary cilia length and Hedgehog signaling (PubMed:36084634).
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	4..20
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRDGRFACAICPHRPVLDTLAMLTAHRAGKKHLSSLQLFYGKKQPGKERKQNPKHQNELRREETKAEAPLLTQTRLITQSALHRAPHYNSCCRRKYRPEAPGPSVSLSPMPPSEVKLQSGKISREPEPAAGPQAEESATVSAPAPMSPTRRRALDHYLTLRSSGWIPDGRGRWVKDENVEFDSDEEEPPDLPLD
+PTM	Acetylation:157;Methylation:17;Phosphorylation:2,60,126,144,149,173,177,183,185,193,219;SUMOylation:4,17,67,101,152,157,211;Ubiquitylation:101

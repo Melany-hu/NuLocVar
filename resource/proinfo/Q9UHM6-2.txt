@@ -1,0 +1,25 @@
+UniprotID	Q9UHM6-2
+Accession	Q9UHM6;B7ZLB3;Q14D01;Q2PP22;Q8NGQ9
+EntryName	OPN4_HUMAN
+ProteinName	Melanopsin (Opsin-4)
+GeneName	OPN4 MOP
+Length	489
+Function	Photoreceptor that binds cis-retinaldehydes (PubMed:15674244). Contributes to pupillar reflex, photoentrainment and other non-image forming responses to light (By similarity). May be involved in the optokinetic visual tracking response (By similarity). May be involved in the regulation of retinal hyaloid vessel growth and regression (By similarity).
+Subcellular Location	Cell membrane; Cell projection; Axon; Cell projection; Dendrite; Perikaryon
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPPSGPRVPPSPTQEPSCMATPAPPSWWDSSQSSISSLGRLPSISPTAPGTWAAAWVPLPTVDVPDHAHYTLGTVILLVGLTGMLGNLTVIYTFCRAVLRGVTVMMQSRSLRTPANMFIINLAVSDFLMSFTQAPVFFTSSLYKQWLFGETGCEFYAFCGALFGISSMITLTAIALDRYLVITRPLATFGVASKRRAAFVLLGVWLYALAWSLPPFFGWSAYVPEGLLTSCSWDYMSFTPAVRAYTMLLCCFVFFLPLLIIIYCYIFIFRAIRETGRALQTFGACKGNGESLWQRQRLQSECKMAKIMLLVILLFVLSWAPYSAVALVAFAGYAHVLTPYMSSVPAVIAKASAIHNPIIYAITHPKYRVAIAQHLPCLGVLLGVSRRHSRPYPSYRSTHRSTLTSHTSNLSWISIRRRQESLGSESEVGWTHMEAAAVWGAAQQANGRSLYGQGLEDLEAKAPPRPQGHEAETPGKTKGLIPSQDPRM
+PTM	Methylation:451;Phosphorylation:156,162

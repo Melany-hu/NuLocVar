@@ -1,0 +1,25 @@
+UniprotID	H7C5D2
+Accession	H7C5D2
+EntryName	H7C5D2_HUMAN
+ProteinName	Decapping nuclease (EC 3.6.1.-)
+GeneName	DXO
+Length	174
+Function	Decapping enzyme for NAD-capped RNAs: specifically hydrolyzes the nicotinamide adenine dinucleotide (NAD) cap from a subset of RNAs by removing the entire NAD moiety from the 5'-end of an NAD-capped RNA.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XMCADKPGSSPDPSGEVNTNVAFCSVLRSRLGSHPLLFSGEVDCTDPQAPSTQPPTCYVELKTSKEMHSPGQWRSFYRFRIGTFPTMKMFEYVRNDRDGWNPSVCMNFCAAFLSFAQSTVVQDDPRLVHLFSWEPGGPVTVSVHQDAPYAFLPIWYVEAMTQDLPSPPKTPSPK
+PTM	

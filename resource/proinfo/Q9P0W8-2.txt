@@ -1,0 +1,25 @@
+UniprotID	Q9P0W8-2
+Accession	Q9P0W8;Q5BKY5;Q8WX30;Q96HF3;Q9H0X0;Q9P0W7
+EntryName	SPAT7_HUMAN
+ProteinName	Spermatogenesis-associated protein 7 (HSD-3.1) (Spermatogenesis-associated protein HSD3)
+GeneName	SPATA7 HSD3
+Length	567
+Function	Involved in the maintenance of both rod and cone photoreceptor cells (By similarity). It is required for recruitment and proper localization of RPGRIP1 to the photoreceptor connecting cilium (CC), as well as photoreceptor-specific localization of proximal CC proteins at the distal CC (By similarity). Maintenance of protein localization at the photoreceptor-specific distal CC is essential for normal microtubule stability and to prevent photoreceptor degeneration (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Cell projection; Cilium; Photoreceptor outer segment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGSRRVRATSVLPRYGPPCLFKGHLSTKSNAAVDCSVPVSVSTSIKYADQQRREKLKKELAQCEKEFKLTKTAMRANYKNNSKSLFNTLQKPSGEPQIEDDMLKEEMNGFSSFARSLVPSSERLHLSLHKSSKVITNGPEKNSSSSPSSVDYAASGPRKLSSGALYGRRPRSTFPNSHRFQLVISKAPSGDLLDKHSELFSNKQLPFTPRTLKTEAKSFLSQYRYYTPAKRKKDFTDQRIEAETQTELSFKSELGTAETKNMTDSEMNIKQASNCVTYDAKEKIAPLPLEGHDSTWDEIKDDALQHSSPRAMCQYSLKPPSTRKIYSDEEELLYLSFIEDVTDEILKLGLFSNRFLERLFERHIKQNKHLEEEKMRHLLHVLKVDLGCTSEENSVKQNDVDMLNVFDFEKAGNSEPNELKNESEVTIQQERQQYQKALDMLLSAPKDENEIFPSPTEFFMPIYKSKHSEGVIIQQVNDETNLETSTLDENHPSISDSLTDRETSVNVIEGDSDPEKVEISNGLCGLNTSPSQSVQFSSVKGDNNHDMELSTLKIMEMSIEDCPLDV
+PTM	Acetylation:284;Methylation:15,49,124,228,333,380,443,453;Phosphorylation:11,144,145,194,222,282,536,537;SUMOylation:333,453;Ubiquitylation:116,263

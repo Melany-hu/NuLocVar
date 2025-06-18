@@ -1,0 +1,25 @@
+UniprotID	L7ZC27
+Accession	L7ZC27
+EntryName	L7ZC27_HUMAN
+ProteinName	Neprilysin-411 (EC 3.4.24.11)
+GeneName	MME
+Length	121
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EDRNDPMLLYNKMTLAQIQNNFSLEINGKPFSWLNFTNEIMSTVNISITNEEDVVVYAPEYLTKLKPILTKYSARPFMVQPQKQQLGDVVQTMSMGIWKMLWGGFMWKQHLLERVNMWSRI
+PTM	

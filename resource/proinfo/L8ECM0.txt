@@ -1,0 +1,25 @@
+UniprotID	L8ECM0
+Accession	L8ECM0
+EntryName	L8ECM0_HUMAN
+ProteinName	Alternative protein IL33
+GeneName	IL33
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGMFSILCIKIFFLILQLFFYFPLYNCIFNTSISILNRVLVKKRSTF
+PTM	

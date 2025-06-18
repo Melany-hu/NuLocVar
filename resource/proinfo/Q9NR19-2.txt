@@ -1,0 +1,25 @@
+UniprotID	Q9NR19-2
+Accession	Q9NR19;A6NE90;Q5QPH2;Q5QPH3;Q8N238;Q96EL0;Q9NQP7;Q9UJ15
+EntryName	ACSA_HUMAN
+ProteinName	Acetyl-coenzyme A synthetase, cytoplasmic (EC 6.2.1.1) (Acetate--CoA ligase) (Acetyl-CoA synthetase) (ACS) (AceCS) (Acetyl-CoA synthetase 1) (AceCS1) (Acyl-CoA synthetase short-chain family member 2) (Acyl-activating enzyme) (Propionate--CoA ligase) (EC 6.2.1.17)
+GeneName	ACSS2 ACAS2
+Length	714
+Function	Catalyzes the synthesis of acetyl-CoA from short-chain fatty acids (PubMed:10843999, PubMed:28003429, PubMed:28552616). Acetate is the preferred substrate (PubMed:10843999, PubMed:28003429). Can also utilize propionate with a much lower affinity (By similarity). Nuclear ACSS2 promotes glucose deprivation-induced lysosomal biogenesis and autophagy, tumor cell survival and brain tumorigenesis (PubMed:28552616). Glucose deprivation results in AMPK-mediated phosphorylation of ACSS2 leading to its translocation to the nucleus where it binds to TFEB and locally produces acetyl-CoA for histone acetylation in the promoter regions of TFEB target genes thereby activating their transcription (PubMed:28552616). The regulation of genes associated with autophagy and lysosomal activity through ACSS2 is important for brain tumorigenesis and tumor survival (PubMed:28552616). Acts as a chromatin-bound transcriptional coactivator that up-regulates histone acetylation and expression of neuronal genes (By similarity). Can be recruited to the loci of memory-related neuronal genes to maintain a local acetyl-CoA pool, providing the substrate for histone acetylation and promoting the expression of specific genes, which is essential for maintaining long-term spatial memory (By similarity).
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	656..668
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLPEERVRSGSGSRGQEEAGAGGRARSWSPPPEVSRSAHVPSLQRYRELHRRSVEEPREFWGDIAKEFYWKTPCPGPFLRYNFDVTKGKIFIEWMKGATTNICYNVLDRNVHEKKLGDKVAFYWEGNEPGETTQITYHQLLVQVCQFSNVLRKQGIQKGDRVAIYMPMIPELVVAMLACARIGALHSIVFAGFSSESLCERILDSSCSLLITTDAFYRGEKLVNLKELADEALQKCQEKGFPVRCCIVVKHLGRAELGMGDSTSQSPPIKRSCPDVQGKLKEKSKRVQPQISWNQGIDLWWHELMQEAGDECEPEWCDAEDPLFILYTSGSTGKPKGVVHTVGGYMLYVATTFKYVFDFHAEDVFWCTADIGWITGHSYVTYGPLANGATSVLFEGIPTYPDVNRLWSIVDKYKVTKFYTAPTAIRLLMKFGDEPVTKHSRASLQVLGTVGEPINPEAWLWYHRVVGAQRCPIVDTFWQTETGGHMLTPLPGATPMKPGSATFPFFGVAPAILNESGEELEGEAEGYLVFKQPWPGIMRTVYGNHERFETTYFKKFPGYYVTGDGCQRDQDGYYWITGRIDDMLNVSGHLLSTAEVESALVEHEAVAEAAVVGHPHPVKGECLYCFVTLCDGHTFSPKLTEELKKQIREKIGPIATPDYIQNAPGLPKTRSGKIMRRVLRKIAQNDHDLGDMSTVADPSVISHLFSHRCLTIQ
+PTM	Acetylation:418,632;Methylation:67,154,227,236,251,632,656,669;Phosphorylation:10,12,14,28,30,36,47,54,263,264,265,267,464,476,624,659;Ubiquitylation:88,271,405,426,543,632

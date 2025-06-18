@@ -1,0 +1,25 @@
+UniprotID	Q9H300-2
+Accession	Q9H300;Q96CQ4;Q9BTJ6;Q9P1E3
+EntryName	PARL_HUMAN
+ProteinName	Presenilin-associated rhomboid-like protein, mitochondrial (EC 3.4.21.105) (Mitochondrial intramembrane cleaving protease PARL) [Cleaved into: P-beta (Pbeta)]
+GeneName	PARL PSARL PRO2207
+Length	329
+Function	Required for the control of apoptosis during postnatal growth. Essential for proteolytic processing of an antiapoptotic form of OPA1 which prevents the release of mitochondrial cytochrome c in response to intrinsic apoptotic signals (By similarity). Required for the maturation of PINK1 into its 52kDa mature form after its cleavage by mitochondrial-processing peptidase (MPP) (PubMed:22354088). Promotes cleavage of serine/threonine-protein phosphatase PGAM5 in damaged mitochondria in response to loss of mitochondrial membrane potential (PubMed:22915595). Mediates differential cleavage of PINK1 and PGAM5 depending on the health status of mitochondria, disassociating from PINK1 and associating with PGAM5 in response to mitochondrial membrane potential loss (PubMed:22915595). Required for processing of CLPB into a form with higher protein disaggregase activity by removing an autoinhibitory N-terminal peptide (PubMed:28288130, PubMed:32573439). Promotes processing of DIABLO/SMAC in the mitochondrion which is required for DIABLO apoptotic activity (PubMed:28288130). Also required for cleavage of STARD7 and TTC19 (PubMed:28288130). Promotes changes in mitochondria morphology regulated by phosphorylation of P-beta domain (PubMed:14732705, PubMed:17116872).
+Subcellular Location	Mitochondrion inner membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWRGWAQRGWGCGQAWGASVGGRSCEELTAVLTPPQLLGRRFNFFIQQKCGFRKAPRKVEPRRSDPGTSGEAYKRSALIPPVEETVFYPSPYPIRSLIKPLFFTVGFTGCAFGSAAIWQYESLKSRVQSYFDGIKADWLDSIRPQKEGDFRKEINKWWNNLSDGQRTVTGIIAANVLVFCLWRVPSLQRTMIRYFTSNPASSVISNFVSYVGKVATGRYGPSLGASGAIMTVLAAVCTKIPEGRLAIIFLPMFTFTAGNALKAIIAMDTAGMILGWKFFDHAAHLGGALFGIWYVTYGHELIWKNREPLVKIWHEIRTNGPKKGGGSK
+PTM	Methylation:100,157,313;Phosphorylation:97;Ubiquitylation:75

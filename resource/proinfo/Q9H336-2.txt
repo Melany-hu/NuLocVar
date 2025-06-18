@@ -1,0 +1,25 @@
+UniprotID	Q9H336-2
+Accession	Q9H336;B2RA60;B7Z929
+EntryName	CRLD1_HUMAN
+ProteinName	Cysteine-rich secretory protein LCCL domain-containing 1 (CocoaCrisp) (Cysteine-rich secretory protein 10) (CRISP-10) (LCCL domain-containing cysteine-rich secretory protein 1) (Trypsin inhibitor Hl)
+GeneName	CRISPLD1 CRISP10 LCRISP1 UNQ342/PRO541
+Length	314
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNMNATHIVHSGVLALYVHIIHRGNWWGHAPYKHGRPCSACPPSFGGGCRENLCYKEGSDRYYPPREEETNEIERQQSQVHDTHVRTRSDDSSRNEVISAQQMSQIVSCEVRLRDQCKGTTCNRYECPAGCLDSKAKVIGSVHYEMQSSICRAAIHYGIIDNDGGWVDITRQGRKHYFIKSNRNGIQTIGKYQSANSFTVSKVTVQAVTCETTVEQLCPFHKPASHCPRVYCPRNCMQANPHYARVIGTRVYSDLSSICRAAVHAGVVRNHGGYVDVMPVDKRKTYIASFQNGIFSESLQNPPGGKAFRVFAVV
+PTM	Methylation:34,38,142

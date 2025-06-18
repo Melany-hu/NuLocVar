@@ -1,0 +1,25 @@
+UniprotID	H3BPW2
+Accession	H3BPW2
+EntryName	H3BPW2_HUMAN
+ProteinName	Zinc finger protein 267
+GeneName	ZNF267
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLENYRNLVSLGLVVSKPDLITFLEQRKEPWNVKSEETVAIQPDVFSHYNKDLLTEHCTEASFQKVISRRHGSCDLENLHLRKRWKREECE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5SRE7-2
+Accession	Q5SRE7;A6PWN9;A6PWP0;B3KT57;B4E3X8;Q5SRE9;Q5SRF0;Q7Z623;Q7Z7P9;Q96GM4
+EntryName	PHYD1_HUMAN
+ProteinName	Phytanoyl-CoA dioxygenase domain-containing protein 1 (Protein PHYHD1) (EC 1.14.11.-)
+GeneName	PHYHD1
+Length	270
+Function	2-oxoglutarate(2OG)-dependent dioxygenase that catalyzes the conversion of 2-oxoglutarate to succinate and CO(2) in an iron-dependent manner (PubMed:21530488). However, does not couple 2OG turnover to the hydroxylation of acyl-coenzyme A derivatives, implying that it is not directly involved in phytanoyl coenzyme-A metabolism (PubMed:21530488). Does not show detectable activity towards fatty acid CoA thioesters (PubMed:21530488).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACLSPSQLQKFQQDGFLVLEGFLSAEECVAMQQRIGEIVAEMDVPLHCRTEFSTQEEEQLRAQGSTDYFLSSGDKIRFFFEKGVFDEKGNFLVPPEKSINKIGHALHAHDPVFKSITHSFKVQQPHFGGEVSPHQDASFLYTEPLGRVLGVWIAVEDATLENGCLWFIPGSHTSGVSRRMVRAPVGSAPGTSFLGSEPARDNSLFVPTPVQRGALVLIHGEVVHKSKQNLSDRSRQAYTFHLMEASGTTWSPENWLQPTAELPFPQLYT
+PTM	Phosphorylation:5,154

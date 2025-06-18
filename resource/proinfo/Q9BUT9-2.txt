@@ -1,0 +1,25 @@
+UniprotID	Q9BUT9-2
+Accession	Q9BUT9;Q969E9;Q96KV8
+EntryName	MCRI2_HUMAN
+ProteinName	MAPK regulated corepressor interacting protein 2 (Protein FAM195A)
+GeneName	MCRIP2 C16orf14 FAM195A
+Length	75
+Function	
+Subcellular Location	Cytoplasm; Stress granule; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYTITKGPSKLVAQRRTGPTQQQVEGRLGELLKCRQPAPPTSQPPRAQPFAQPPGPWPLSSLAAGATAAGWWPSR
+PTM	Acetylation:10;Methylation:33,35,65,70;Phosphorylation:60,61,78,79,80,82,86,89,90,91

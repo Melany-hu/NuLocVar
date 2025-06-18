@@ -1,0 +1,25 @@
+UniprotID	Q9NR71-2
+Accession	Q9NR71;Q3KNU1;Q5SNT7;Q5SZP6;Q5SZP7;Q5T1D5;Q71ME6
+EntryName	ASAH2_HUMAN
+ProteinName	Neutral ceramidase (N-CDase) (NCDase) (EC 3.5.1.-) (EC 3.5.1.23) (Acylsphingosine deacylase 2) (BCDase) (LCDase) (hCD) (N-acylsphingosine amidohydrolase 2) (Non-lysosomal ceramidase) [Cleaved into: Neutral ceramidase soluble form]
+GeneName	ASAH2 HNAC1
+Length	745
+Function	Plasma membrane ceramidase that hydrolyzes sphingolipid ceramides into sphingosine and free fatty acids at neutral pH (PubMed:10781606, PubMed:16229686, PubMed:26190575). Ceramides, sphingosine, and its phosphorylated form sphingosine-1-phosphate are bioactive lipids that mediate cellular signaling pathways regulating several biological processes including cell proliferation, apoptosis and differentiation (PubMed:15946935, PubMed:19345744, PubMed:24798654). Also catalyzes the reverse reaction allowing the synthesis of ceramides from fatty acids and sphingosine (PubMed:11278489, PubMed:17475390). Together with sphingomyelinase, participates in the production of sphingosine and sphingosine-1-phosphate from the degradation of sphingomyelin, a sphingolipid enriched in the plasma membrane of cells (PubMed:16061940). Also participates in the hydrolysis of ceramides from the extracellular milieu allowing the production of sphingosine-1-phosphate inside and outside cells (By similarity). This is the case for instance with the digestion of dietary sphingolipids in the intestinal tract (By similarity).
+Subcellular Location	Cell membrane; Membrane raft; Membrane; Caveola; Golgi apparatus membrane; Mitochondrion; Secreted; Extracellular exosome; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKRTFSNLETFLIFLLVMMSAITVALLSLLFITSGTIENHKDLGGHFFSTTQSPPATQGSTAAQRSTATQHSTATQSSTATQTSPVPLTPESPLFQNFSGYHIGVGRADCTGQVADINLMGYGKSGQNAQGILTRLYSRAFIMAEPDGSNRTVFVSIDIGMVSQRLRLEVLNRLQSKYGSLYRRDNVILSGTHTHSGPAGYFQYTVFVIASEGFSNQTFQHMVTGILKSIDIAHTNMKPGKIFINKGNVDGVQINRSPYSYLQNPQSERARYSSNTDKEMIVLKMVDLNGDDLGLISWFAIHPVSMNNSNHLVNSDNVGYASYLLEQEKNKGYLPGQGPFVAAFASSNLGDVSPNILGPRCINTGESCDNANSTCPIGGPSMCIAKGPGQDMFDSTQIIGRAMYQRAKSKTCKPALGYSFAAGTIDGVGGLNFTQGKTEGDPFWDTIRDQILGKPSEEIKECHKPKPILLHTGELSKPHPWHPDIVDVQIITLGSLAITAIPGEFTTMSGRRLREAVQAEFASHGMQNMTVVISGLCNVYTHYITTYEEYQAQRYEAASTIYGPHTLSAYIQLFRNLAKAIATDTVANLSRGPEPPFFKQLIVPLIPSIVDRAPKGRTFGDVLQPAKPEYRVGEVAEVIFVGANPKNSVQNQTHQTFLTVEKYEATSTSWQIVCNDASWETRFYWHKGLLGLSNATVEWHIPDTAQPGIYRIRYFGHNRKQDILKPAVILSFEGTSPAFEVVTI
+PTM	Methylation:178,229,247,285,490,496,615,761;Phosphorylation:177,508

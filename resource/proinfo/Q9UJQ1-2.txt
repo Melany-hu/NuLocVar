@@ -1,0 +1,25 @@
+UniprotID	Q9UJQ1-2
+Accession	Q9UJQ1;B4DHZ7;B7Z9Z9
+EntryName	LAMP5_HUMAN
+ProteinName	Lysosome-associated membrane glycoprotein 5 (Brain and dendritic cell-associated LAMP) (Brain-associated LAMP-like protein) (BAD-LAMP) (Lysosome-associated membrane protein 5) (LAMP-5)
+GeneName	LAMP5 C20orf103
+Length	236
+Function	Plays a role in short-term synaptic plasticity in a subset of GABAergic neurons in the brain.
+Subcellular Location	Cell membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Endosome membrane; Cytoplasmic vesicle membrane; Cell projection; Dendrite; Cell projection; Growth cone membrane; Early endosome membrane; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLQGRGVPSIDRLRVLLMLFHTMAQIMAEQEVENLSGLSTNPEKDIFVVRENGTTCLMAEFAAKFIVPYDVWASNYVDESHNMSKGPEATWRLSKVQFVYDSSEKTHFKDAVSAGKHTANSHHLSALVTPAGKSYECQAQQTISLASSDPQKTVTMILSAVHIQPFDIISDFVFSEEHKCPVDEREQLEETLPLILGLILGLVIMVTLAIYHVHHKMTANQVQIPRDRSQYKHMG
+PTM	Methylation:65,118,123;Phosphorylation:10,276

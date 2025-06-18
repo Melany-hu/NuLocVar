@@ -1,0 +1,25 @@
+UniprotID	Q9Y2G2-3
+Accession	Q9Y2G2;B5KVR6;B5KVR8;B7Z496;B7Z4A2;E5RFV9;E9PEM7;G3XAM9;Q6PGP8;Q96P82
+EntryName	CARD8_HUMAN
+ProteinName	Caspase recruitment domain-containing protein 8 (EC 3.4.-.-) (CARD-inhibitor of NF-kappa-B-activating ligand) (CARDINAL) (Tumor up-regulated CARD-containing antagonist of CASP9) (TUCAN) [Cleaved into: Caspase recruitment domain-containing protein 8, C-terminus (CARD8-CT); Caspase recruitment domain-containing protein 8, N-terminus (CARD8-NT)]
+GeneName	CARD8 DACAR KIAA0955 NDPP1
+Length	392
+Function	Inflammasome sensor, which mediates inflammasome activation in response to various pathogen-associated signals, leading to subsequent pyroptosis of CD4(+) T-cells and macrophages (PubMed:11408476, PubMed:11821383, PubMed:15030775, PubMed:32051255, PubMed:32840892, PubMed:33542150, PubMed:34019797, PubMed:36357533). Inflammasomes are supramolecular complexes that assemble in the cytosol in response to pathogens and other damage-associated signals and play critical roles in innate immunity and inflammation (PubMed:11408476, PubMed:11821383, PubMed:15030775, PubMed:36357533). Acts as a recognition receptor (PRR): recognizes specific pathogens and other damage-associated signals, such as HIV-1 protease activity or Val-boroPro inhibitor, and mediates CARD8 inflammasome activation (PubMed:32840892, PubMed:33542150, PubMed:36357533). In response to pathogen-associated signals, the N-terminal part of CARD8 is degraded by the proteasome, releasing the cleaved C-terminal part of the protein (Caspase recruitment domain-containing protein 8, C-terminus), which polymerizes to initiate the formation of the inflammasome complex: the CARD8 inflammasome directly recruits pro-caspase-1 (proCASP1) independently of PYCARD/ASC and promotes caspase-1 (CASP1) activation, which subsequently cleaves and activates inflammatory cytokines IL1B and IL18 and gasdermin-D (GSDMD), leading to pyroptosis (PubMed:32051255, PubMed:32840892, PubMed:33053349, PubMed:33542150, PubMed:36357533). Ability to sense HIV-1 protease activity leads to the clearance of latent HIV-1 in patient CD4(+) T-cells after viral reactivation; in contrast, HIV-1 can evade CARD8-sensing when its protease remains inactive in infected cells prior to viral budding (PubMed:33542150). Also acts as a negative regulator of the NLRP3 inflammasome (PubMed:24517500). May also act as an inhibitor of NF-kappa-B activation (PubMed:11551959, PubMed:12067710).
+Subcellular Location	Cytoplasm; Nucleus; Inflammasome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKKECPEKSSSSEEELPRRDSGSSRNIDASKLIRLQGSRKLLVDNSIRELQYTKTGIFFQAEACVTNDTVYRELPCVSETLCDISHFFQEDDETEAEPLLFRAVPECQLSGGDIPSVSEEQESSEGQDSGDICSEENQIVSSYASKVCFEIEEDYKNRQFLGPEGNVDVELIDKSTNRYSVWFPTAGWYLWSATGLGFLVRDEVTVTIAFGSWSQHLALDLQHHEQWLVGGPLFDVTAEPEEAVAEIHLPHFISLQAGEVDVSWFLVAHFKNEGMVLEHPARVEPFYAVLESPSFSLMGILLRIASGTRLSIPITSNTLIYYHPHPEDIKFHLYLVPSDALLTKAIDDEEDRFHGVRLQTSPPMEPLNFGSSYIVSNSANLKVMPKWISSL
+PTM	Acetylation:298;Methylation:70,239,277,315,402;Phosphorylation:238

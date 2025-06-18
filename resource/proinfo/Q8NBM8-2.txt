@@ -1,0 +1,25 @@
+UniprotID	Q8NBM8-2
+Accession	Q8NBM8;Q7Z4S2;Q8NCY5;Q8NF69;Q9BTE8;Q9BWS3
+EntryName	PCYXL_HUMAN
+ProteinName	Prenylcysteine oxidase 1-like (EC 1.8.3.-)
+GeneName	PCYOX1L PSEC0105
+Length	82
+Function	Likely to have oxidoreductase activity (Probable). Required in the mevalonate pathway to regulate prenylation and enhances the bactericidal activity of neutrophils (By similarity).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARAAPLLAALTALLAAAAAGGDAPPGKIGAGRTRGGWGWDWGLCCGPFSPAALWTSGADRRVREGNRGWPLGHHLSQQAAL
+PTM	Glycosylation:185;Methylation:255;Phosphorylation:398;SUMOylation:160

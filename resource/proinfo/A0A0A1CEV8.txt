@@ -1,0 +1,25 @@
+UniprotID	A0A0A1CEV8
+Accession	A0A0A1CEV8
+EntryName	A0A0A1CEV8_HUMAN
+ProteinName	Rhesus blood group D antigen
+GeneName	RHD
+Length	71
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GCCNRVLGIPHSSIMGYNFSLLGLLGEIIYIVLLVLDTVGAGNGMIGFQVLLSIRELSLAIVIALTSGLLT
+PTM	

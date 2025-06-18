@@ -1,0 +1,25 @@
+UniprotID	Q02641-3
+Accession	Q02641;A8K114;O15331;Q02639;Q02640;Q8N3X9;Q9C085;Q9UD79
+EntryName	CACB1_HUMAN
+ProteinName	Voltage-dependent L-type calcium channel subunit beta-1 (CAB1) (Calcium channel voltage-dependent subunit beta 1)
+GeneName	CACNB1 CACNLB1
+Length	478
+Function	Regulatory subunit of L-type calcium channels (PubMed:1309651, PubMed:15615847, PubMed:8107964). Regulates the activity of L-type calcium channels that contain CACNA1A as pore-forming subunit (By similarity). Regulates the activity of L-type calcium channels that contain CACNA1C as pore-forming subunit and increases the presence of the channel complex at the cell membrane (PubMed:15615847). Required for functional expression L-type calcium channels that contain CACNA1D as pore-forming subunit (PubMed:1309651). Regulates the activity of L-type calcium channels that contain CACNA1B as pore-forming subunit (PubMed:8107964).
+Subcellular Location	Cell membrane; Sarcolemma; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQKTSMSRGPYPPSQEIPMEVFDPSPQGKYSKRKGRFKRSDGSTSSDTTSNSFVRQGSAESYTSRPSDSDVSLEEDREALRKEAERQALAQLEKAKTKPVAFAVRTNVGYNPSPGDEVPVQGVAITFEPKDFLHIKEKYNNDWWIGRLVKEGCEVGFIPSPVKLDSLRLLQEQKLRQNRLGSSKSGDNSSSSLGDVVTGTRRPTPPASAKQKQKSTEHVPPYDVVPSMRPIILVGPSLKGYEVTDMMQKALFDFLKHRFDGRISITRVTADISLAKRSVLNNPSKHIIIERSNTRSSLAEVQSEIERIFELARTLQLVALDADTINHPAQLSKTSLAPIIVYIKITSPKVLQRLIKSRGKSQSKHLNVQIAASEKLAQCPPEMFDIILDENQLEDACEHLAEYLEAYWKATHPPSSTPPNPLLNRTMATAALAASPAPVSNLQVQVLTSLRRNLGFWGGLESSQRGSVVPQEQEHAM
+PTM	Acetylation:250;Methylation:95,257,593;Phosphorylation:44,59,186,190,191,192,193,205,265,267,270,343,416,417,418,441,495,499,518,540,547;Ubiquitylation:137

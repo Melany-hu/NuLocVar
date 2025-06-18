@@ -1,0 +1,25 @@
+UniprotID	G3V3L8
+Accession	G3V3L8
+EntryName	G3V3L8_HUMAN
+ProteinName	Integrin subunit alpha 7
+GeneName	ITGA7
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPFATPMVQALTTTRIQRQAEGFQCWRGCWWVLPRPWLFLGSRRIALEASSLAR
+PTM	

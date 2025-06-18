@@ -1,0 +1,25 @@
+UniprotID	Q99941-2
+Accession	Q99941;B0UYX6;Q13269;Q14343;Q14345;Q5SSW7;Q99635;Q99637;Q9H3V9;Q9H3W1;Q9NPL0
+EntryName	ATF6B_HUMAN
+ProteinName	Cyclic AMP-dependent transcription factor ATF-6 beta (cAMP-dependent transcription factor ATF-6 beta) (Activating transcription factor 6 beta) (ATF6-beta) (Protein G13) (cAMP response element-binding protein-related protein) (Creb-rp) (cAMP-responsive element-binding protein-like 1) [Cleaved into: Processed cyclic AMP-dependent transcription factor ATF-6 beta]
+GeneName	ATF6B CREBL1 G13
+Length	700
+Function	Precursor of the transcription factor form (Processed cyclic AMP-dependent transcription factor ATF-6 beta), which is embedded in the endoplasmic reticulum membrane (PubMed:11256944). Endoplasmic reticulum stress promotes processing of this form, releasing the transcription factor form that translocates into the nucleus, where it activates transcription of genes involved in the unfolded protein response (UPR) (PubMed:11256944).
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELMLLSEIADPTRFFTDNLLSPEDWDSTLYSGLDEVAEEQTQLFRCPEQDVPFDGSSLDVGMDVSPSEPPWELLPIFPDLQVKSEPSSPCSSSSLSSESSRLSTEPSSEALGVGEVLHVKTESLAPPLCLLGDDPTSSFETVQINVIPTSDDSSDVQTKIEPVSPCSSVNSEASLLSADSSSQAFIGEEVLEVKTESLSPSGCLLWDVPAPSLGAVQISMGPSLDGSSGKALPTRKPPLQPKPVVLTTVPMPSRAVPPSTTVLLQSLVQPPPVSPVVLIQGAIRVQPEGPAPSLPRPERKSIVPAPMPGNSCPPEVDAKLLKRQQRMIKNRESACQSRRKKKEYLQGLEARLQAVLADNQQLRRENAALRRRLEALLAENSELKLGSGNRKVVCIMVFLLFIAFNFGPVSISEPPSAPISPRMNKGEPQPRRHLLGFSEQEPVQGVEPLQGSSQGPKEPQPSPTDQPSFSNLTAFPGGAKELLLRDLDQLFLSSDCRHFNRTESLRLADELSGWVQRHQRGRRKIPQRAQERQKSQPRKKSPPVKAVPIQPPGPPERDSVGQLQLYRHPDRSQPAFLDAIDRREDTFYVVSFRRDHLLLPAISHNKTSRPKMSLVMPAMAPNETLSGRGAPGDYEEMMQIECEVMDTRVIHIKTSTVPPSLRKQPSPTPGNATGGPLPVSAASQAHQASHQPLYLNHP
+PTM	Glycosylation:476,610;Methylation:164,199,485,539,668;Phosphorylation:89,93,202,204,206,224,279,306;SUMOylation:241,247,305,324,389,616,668;Ubiquitylation:241,324,485

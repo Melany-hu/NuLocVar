@@ -1,0 +1,25 @@
+UniprotID	E3W974
+Accession	E3W974
+EntryName	E3W974_HUMAN
+ProteinName	Aspartyl aminopeptidase
+GeneName	DNPEP
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGHSPTRGAMQVAMNGKARKEAVQTAAKELLKFVNRSPSPFHGWLQ
+PTM	

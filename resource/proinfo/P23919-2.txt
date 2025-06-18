@@ -1,0 +1,25 @@
+UniprotID	P23919-2
+Accession	P23919;B7ZW70;Q6FGX1;Q9BUX4
+EntryName	KTHY_HUMAN
+ProteinName	Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)
+GeneName	DTYMK CDC8 TMPK TYMK
+Length	188
+Function	Catalyzes the phosphorylation of thymidine monophosphate (dTMP) to thymidine diphosphate (dTDP), the immediate precursor for the DNA building block dTTP, with ATP as the preferred phosphoryl donor in the presence of Mg(2+).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAARRGALIVLEGVDRAGKSTQSRKLVEALCAAGHRAELLRFPERSTEIGKLLSSYLQKKSDVEDHSVHLLFSANRWEQVPLIKEKLSQGVTLVVDRYAFSGVAFTGAKELQLADAAKRGAFGHERYENGAFQERALRCFHQLMKDTTLNWKMVDASKSIEAVHEDIRVLSEDAIRTATEKPLGELWK
+PTM	Acetylation:51,59,169;Methylation:41,84,109,126,142,143,192;Phosphorylation:54,106;Ubiquitylation:25,51,59,84,169,176

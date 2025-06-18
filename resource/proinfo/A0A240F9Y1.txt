@@ -1,0 +1,25 @@
+UniprotID	A0A240F9Y1
+Accession	A0A240F9Y1
+EntryName	A0A240F9Y1_HUMAN
+ProteinName	DLG2 protein isoform
+GeneName	DLG2
+Length	26
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFASIWYAKKLGRRFVHNARKAKSEK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9Y2S2-2
+Accession	Q9Y2S2;A0PJ43;B3KN92;Q0VDI1;Q7Z4Z9;Q9P0G7
+EntryName	CRYL1_HUMAN
+ProteinName	Lambda-crystallin homolog (EC 1.1.1.45) (L-gulonate 3-dehydrogenase) (Gul3DH)
+GeneName	CRYL1 CRY
+Length	297
+Function	Has high L-gulonate 3-dehydrogenase activity. It also exhibits low dehydrogenase activity toward L-3-hydroxybutyrate (HBA) and L-threonate.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFASGGFQVKLYDIEQQQIRNALENIRKEMKLLEQAGSLKGSLSVEEQLSLISGCPNIQEAVEGAMHIQECVPEDLELKKKIFAQLDSIIDDRVILSSSTSCLMPSKLFAGLVHVKQCIVAHPVNPPYYIPLVELVPHPETAPTTVDRTHALMKKIGQCPMRVQKEVAGFVLNRLQYAIISEAWRLVEEGIVSPSDLDLVMSEGLGMRYAFIGPLETMHLNAEGMLSYCDRYSEGIKHVLQTFGPIPEFSRATAEKVNQDMCMKVPDDPEHLAARRQWRDECLMRLAKLKSQVQPQ
+PTM	Methylation:63,298,299,302;Phosphorylation:129;Ubiquitylation:54,104,188

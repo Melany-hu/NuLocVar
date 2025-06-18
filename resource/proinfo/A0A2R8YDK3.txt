@@ -1,0 +1,25 @@
+UniprotID	A0A2R8YDK3
+Accession	A0A2R8YDK3
+EntryName	A0A2R8YDK3_HUMAN
+ProteinName	tRNA mitochondrial 2-thiouridylase
+GeneName	TRMU
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQALRHVVCALSGGVDSAVAALLLRRRGADAIATGHYARTSLEDEEVFEQKHVKKPEGLFRNRFEVRNAVKLLQAADSFKDQTFFLSQVSQDALRRTIFPLG
+PTM	

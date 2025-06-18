@@ -1,0 +1,25 @@
+UniprotID	Q8WUZ0-2
+Accession	Q8WUZ0;O43770;Q6PD89
+EntryName	BCL7C_HUMAN
+ProteinName	B-cell CLL/lymphoma 7 protein family member C
+GeneName	BCL7C
+Length	242
+Function	May play an anti-apoptotic role.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRTVRAETRSRAKDDIKKVMATIEKVRRWEKRWVTVGDTSLRIFKWVPVVDPQEEERRRAGGGAERSRGRERRGRGASPRGGGPLILLDLNDENSNQSFHSEGSLQKGTEPSPGGTPQPSRPVSPAGPPEGVPEEAQPPRLGQERDPGGITAGSTDEPPMLTKEEPVPELLEAEDSGVRMTRRALHEKGLKTEPLRRLLPRRGLRTNVRPSSMAVPDTRAPGGGSKAPRAPRTIPQGKGR
+PTM	Acetylation:27;Methylation:27,82;Phosphorylation:80,97,100,103,106,111,114,118,122,126,156,157;SUMOylation:20,165;Ubiquitylation:47

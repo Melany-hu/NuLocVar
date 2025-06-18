@@ -1,0 +1,25 @@
+UniprotID	A0A087WV25
+Accession	A0A087WV25
+EntryName	A0A087WV25_HUMAN
+ProteinName	Centrosomal protein 43 (FGFR1 oncogene partner)
+GeneName	CEP43
+Length	351
+Function	Required for anchoring microtubules to the centrosomes. Required for ciliation.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATAAAVVAEEDTELRDLLVQTLENSGVLNRIKAELRAAVFLALEEQEKVENKTPLVNESLKKFLNTKDGRLVASLVAEFLQFFNLDFTLAVFQPETSTLQGLEGRENLARDLGIIEAEGTVGGPLLLEVIRRCQQKEKGPTTGEKANDEANQSDTSVSLSEPKSKSSLHLLSHETKIGSFLSNRTLDGKDKAGLCPDEDDMEGDSFFDDPIPKPEKTYGLRKEPRKQAGSLASLSDAPPLKSGLSSLAGAPSLKDSESKRGNTVLKDLKLISDKIGSLGLGTGEDDDYVDDFNSTSHRSEKSEISIGEEIEEDLSVEIDDINTSDKTITQLECLLSIGALHFKNTADIF
+PTM	

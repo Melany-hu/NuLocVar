@@ -1,0 +1,25 @@
+UniprotID	P14866-2
+Accession	P14866;A6ND69;A6NIT8;Q9H3P3
+EntryName	HNRPL_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoprotein L (hnRNP L)
+GeneName	HNRNPL HNRPL P/OKcl.14
+Length	456
+Function	Splicing factor binding to exonic or intronic sites and acting as either an activator or repressor of exon inclusion. Exhibits a binding preference for CA-rich elements (PubMed:11809897, PubMed:22570490, PubMed:24164894, PubMed:25623890, PubMed:26051023). Component of the heterogeneous nuclear ribonucleoprotein (hnRNP) complexes and associated with most nascent transcripts (PubMed:2687284). Associates, together with APEX1, to the negative calcium responsive element (nCaRE) B2 of the APEX2 promoter (PubMed:11809897). As part of a ribonucleoprotein complex composed at least of ZNF827, HNRNPK and the circular RNA circZNF827 that nucleates the complex on chromatin, may negatively regulate the transcription of genes involved in neuronal differentiation (PubMed:33174841). Regulates alternative splicing of a core group of genes involved in neuronal differentiation, likely by mediating H3K36me3-coupled transcription elongation and co-transcriptional RNA processing via interaction with CHD8.
+Subcellular Location	Nucleus; Nucleoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKKRQALVEFEDVLGACNAVNYAADNQIYIAGHPAFVNYSTSQKISRPGDSDDSRSVNSVLLFTILNPIYSITTDVLYTICNPCGPVQRIVIFRKNGVQAMVEFDSVQSAQRAKASLNGADIYSGCCTLKIEYAKPTRLNVFKNDQDTWDYTNPNLSGQGDPGSNPNKRQRQPPLLGDHPAEYGGPHGGYHSHYHDEGYGPPPPHYEGRRMGPPVGGHRRGPSRYGPQYGHPPPPPPPPEYGPHADSPVLMVYGLDQSKMNCDRVFNVFCLYGNVEKVKFMKSKPGAAMVEMADGYAVDRAITHLNNNFMFGQKLNVCVSKQPAIMPGQSYGLEDGSCSYKDFSESRNNRFSTPEQAAKNRIQHPSNVLHFFNAPLEVTEENFFEICDELGVKRPSSVKVFSGKSERSSSGLLEWESKSDALETLGFLNHYQMKNPNGPYPYTLKLCFSTAQHAS
+PTM	Acetylation:34,59,97,264,269,277,302,393,411,416,448,455,475,493,533,538,552,568,579;Methylation:46,56,97,107,136,178,264,277,302,344,353,354,358,398,418,434,448,455,475,493,527,552,568;Phosphorylation:29,47,48,52,63,92,98,101,180,185,188,250,257,258,267,282,285,286,291,298,357,359,363,381,387,486,487,530,536,543,544,574,576,577,584,589;SUMOylation:34,59,62,97,136,248,264,269,277,302,393,411,416,418,448,455,493,533,538,552,568;Ubiquitylation:34,59,62,97,229,248,264,269,277,302,393,411,416,418,448,455,475,493,527,533,538,552,568,579

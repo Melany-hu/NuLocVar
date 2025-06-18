@@ -1,0 +1,25 @@
+UniprotID	H3BQQ8
+Accession	H3BQQ8
+EntryName	H3BQQ8_HUMAN
+ProteinName	Trafficking protein particle complex subunit 2L
+GeneName	TRAPPC2L
+Length	129
+Function	
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRSPQWGRPWSTRGSCTWACSTPRRTTRLPHFSKVRAHRGPSTGSPCVTSAFPNQLCRYGYVTNSKVKFVMVVDSSNTALRDNEIRSMFRKLHNSYTDVMCNPFYNPGDRIQSRAFDNMVTSMMIQVC
+PTM	

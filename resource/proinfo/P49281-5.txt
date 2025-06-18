@@ -1,0 +1,25 @@
+UniprotID	P49281-5
+Accession	P49281;B3KT08;B4DK84;F5H741;O43288;O60932;O94801;Q498Z5;Q8IUD7;Q96J35
+EntryName	NRAM2_HUMAN
+ProteinName	Natural resistance-associated macrophage protein 2 (NRAMP 2) (Divalent cation transporter 1) (Divalent metal transporter 1) (DMT-1) (Solute carrier family 11 member 2)
+GeneName	SLC11A2 DCT1 DMT1 NRAMP2 OK/SW-cl.20
+Length	557
+Function	Proton-coupled metal ion symporter operating with a proton to metal ion stoichiometry of 1:1 (PubMed:17109629, PubMed:17293870, PubMed:22736759, PubMed:25326704, PubMed:25491917). Selectively transports various divalent metal cations, in decreasing affinity: Cd(2+) > Fe(2+) > Co(2+), Mn(2+) >> Zn(2+), Ni(2+), VO(2+) (PubMed:17109629, PubMed:17293870, PubMed:22736759, PubMed:25326704, PubMed:25491917). Essential for maintenance of iron homeostasis by modulating intestinal absorption of dietary Fe(2+) and TF-associated endosomal Fe(2+) transport in erythroid precursors and other cells (By similarity). Enables Fe(2+) and Mn(2+) ion entry into mitochondria, and is thus expected to promote mitochondrial heme synthesis, iron-sulfur cluster biogenesis and antioxidant defense (By similarity) (PubMed:24448823). Can mediate uncoupled fluxes of either protons or metal ions.
+Subcellular Location	Early endosome membrane; Apical cell membrane; Late endosome membrane; Lysosome membrane; Apical cell membrane; Cell membrane; Extracellular vesicle membrane; Cell membrane; Mitochondrion outer membrane; Golgi apparatus; trans-Golgi network membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTVDYLNSVSGDHGESASLGNINPAYSNPSLSQSPGDSEEYFATYFNEKISIPEEEYSCFSFRKLWAFTGPGFLMSIAYLDPGNIESDLQSGAVAGFKLLWILLLATLVGLLLQRLAARLGVVTGLHLAEVCHRQYPKVPRVILWLMVELAIIGSDMQEVIGSAIAINLLSVGRIPLWGGVLITIADTFVFLFLDKYGLRKLEAFFGFLITIMALTFGYEYVTVKPSQSQVLKGMFVPSCSGCRTPQIEQAVGIVGAVIMPHNMYLHSALVKSRQVNRNNKQEVREANKYFFIESCIALFVSFIINVFVVSVFAEAFFGKTNEQVVEVCTNTSSPHAGLFPKDNSTLAVDIYKGGVVLGCYFGPAALYIWAVGILAAGQSSTMTGTYSGQFVMEGFLNLKWSRFARVVLTRSIAIIPTLLVAVFQDVEHLTGMNDFLNVLQSLQLPFALIPILTFTSLRPVMSDFANGLGWRIAGGILVLIICSINMYFVVVYVRDLGHVALYVVAAVVSVAYLGFVFYLGWQCLIALGMSFLDCGHTVSISKGLLTEEATRGYVK
+PTM	Glycosylation:336,349;Methylation:230,238,277,347,405;Phosphorylation:10,13,56,66;Ubiquitylation:277

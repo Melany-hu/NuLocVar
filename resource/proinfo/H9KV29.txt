@@ -1,0 +1,25 @@
+UniprotID	H9KV29
+Accession	H9KV29
+EntryName	H9KV29_HUMAN
+ProteinName	Signal regulatory protein beta 1
+GeneName	SIRPB1
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPVPASWPHPPCPFLLLTLLLGLTGVAGEDELQVIQPEKSVSVAAGESATLRCAMTSLIPVGPIMWFRGAGAGRELIYNQKEGHFPRVTTVSELTKRNNLDFSISISNITPADAGTYYCVKFRKGSPDDVEFKSGAGTELSVREAALAPTAPLLVALLLGPKLLLVVGVSAIYICWKQKA
+PTM	

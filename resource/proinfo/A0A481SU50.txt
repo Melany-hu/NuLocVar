@@ -1,0 +1,25 @@
+UniprotID	A0A481SU50
+Accession	A0A481SU50
+EntryName	A0A481SU50_HUMAN
+ProteinName	Matrix remodeling associated 7 transcript variant X15
+GeneName	MXRA7
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPAELLATLPALATALALLLAWLLVRRGAAASPEAEEQAVEAGREEEQDLDGEKGPSSEGPEEEDGEGFSFKYSPGKLRGNQYKKMMTKEELEEEQRVQKEQLAAIFKLMKDNKETFGEMSDGDVQEQLRLYDM
+PTM	

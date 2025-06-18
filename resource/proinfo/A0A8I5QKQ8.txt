@@ -1,0 +1,25 @@
+UniprotID	A0A8I5QKQ8
+Accession	A0A8I5QKQ8
+EntryName	A0A8I5QKQ8_HUMAN
+ProteinName	Serine palmitoyltransferase 1 (EC 2.3.1.50) (Long chain base biosynthesis protein 1) (Serine-palmitoyl-CoA transferase 1)
+GeneName	SPTLC1
+Length	493
+Function	Component of the serine palmitoyltransferase multisubunit enzyme (SPT) that catalyzes the initial and rate-limiting step in sphingolipid biosynthesis by condensing L-serine and activated acyl-CoA (most commonly palmitoyl-CoA) to form long-chain bases. The SPT complex is also composed of SPTLC2 or SPTLC3 and SPTSSA or SPTSSB. Within this complex, the heterodimer with SPTLC2 or SPTLC3 forms the catalytic core. The composition of the serine palmitoyltransferase (SPT) complex determines the substrate preference. The SPTLC1-SPTLC2-SPTSSA complex shows a strong preference for C16-CoA substrate, while the SPTLC1-SPTLC3-SPTSSA isozyme uses both C14-CoA and C16-CoA as substrates, with a slight preference for C14-CoA. The SPTLC1-SPTLC2-SPTSSB complex shows a strong preference for C18-CoA substrate, while the SPTLC1-SPTLC3-SPTSSB isozyme displays an ability to use a broader range of acyl-CoAs, without apparent preference. Required for adipocyte cell viability and metabolic homeostasis.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATATEQWVLVEMVQALYEAPAYHLILEGILILWIIRLLFSKTYKLQERSDLTVKEKEELIEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAAALASLKKYGVGTCGPRGFYGTFAPVSEMDHTHRRYGHQKLKKNVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSKRGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRRFIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDIDLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENPGIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCMNRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVLL
+PTM	

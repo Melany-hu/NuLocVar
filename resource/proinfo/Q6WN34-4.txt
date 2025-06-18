@@ -1,0 +1,25 @@
+UniprotID	Q6WN34-4
+Accession	Q6WN34;A5PKU9;Q6WN30;Q6WN31;Q6WN32;Q7Z5J3
+EntryName	CRDL2_HUMAN
+ProteinName	Chordin-like protein 2 (Breast tumor novel factor 1) (BNF-1) (Chordin-related protein 2)
+GeneName	CHRDL2 BNF1 CHL2 UNQ765/PRO1557
+Length	142
+Function	May inhibit BMPs activity by blocking their interaction with their receptors. Has a negative regulator effect on the cartilage formation/regeneration from immature mesenchymal cells, by preventing or reducing the rate of matrix accumulation (By similarity). Implicated in tumor angiogenesis. May play a role during myoblast and osteoblast differentiation, and maturation.
+Subcellular Location	Secreted; Secreted; Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVGLPGPDMFCLFHGKRYSPGESWHPYLEPQGLMYCLRCTCSEGAHVSCYRLHCPPVHCPQPVTEPQQCCPKCVEPHTPSGLRAPPKSCQHNGTMYQHGEIFSAHELFPSRLPNQCVLCSCTMRQVSNRMKRTVCSRSMG
+PTM	Methylation:245,309,370,391

@@ -1,0 +1,25 @@
+UniprotID	P43626-2
+Accession	P43626;O43470;Q32WE6;Q6H2H3;Q6IST4
+EntryName	KI2L1_HUMAN
+ProteinName	Killer cell immunoglobulin-like receptor 2DL1 (CD158 antigen-like family member A) (Natural killer-associated transcript 1) (NKAT-1) (p58 natural killer cell receptor clones CL-42/47.11) (p58 NK receptor CL-42/47.11) (p58.1 MHC class-I-specific NK receptor) (CD antigen CD158a)
+GeneName	KIR2DL1 CD158A NKAT1
+Length	374
+Function	Receptor on natural killer (NK) cells for some HLA-C alleles such as w4 and w6. Inhibits the activity of NK cells thus preventing cell lysis.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLLVVSMACVGFFLLQGAWPHEGVHRKPSLLAHPGRLVKSEETVILQCWSDVMFEHFLLHREGMFNDTLRLIGEHHDGVSKANFSISRMTQDLAGTYRCYGSVTHSPYQVSAPSDPLDIVIIGLYEKPSLSAQLGPTVLAGENVTLSCSSRSSYDMYHLSREGEAHERRLPAGPKVNGTFQADFPLGPATHGGTYRCFGSFHDSPYEWSKSSDPLLVSVTGNPSNSWPSPTEPSSKTERMFHHVGQACLKLPTSSDPTVSACQSNPRHLHILIGTSVVIILFILLFFLLHRWCSNKKNAAVMDQESAGNRTANSEDSDEQDPQEVTYTQLNHCVFTQRKITRPSQRPKTPPTDIIVYTELPNAESRSKVVSCP
+PTM	Methylation:40;Phosphorylation:81,210,327,340,342

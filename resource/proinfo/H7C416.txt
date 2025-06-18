@@ -1,0 +1,25 @@
+UniprotID	H7C416
+Accession	H7C416
+EntryName	H7C416_HUMAN
+ProteinName	Protein phosphatase 1 regulatory inhibitor subunit 2
+GeneName	PPP1R2
+Length	54
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TYHPADKDYGLMKIDEPSTPYHSMMGDDEDACSDTEATEAMAPDILARKKKATI
+PTM	

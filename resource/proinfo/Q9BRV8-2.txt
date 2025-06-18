@@ -1,0 +1,25 @@
+UniprotID	Q9BRV8-2
+Accession	Q9BRV8;Q5TEZ7;Q5TEZ9;Q68DZ4;Q9H778
+EntryName	SIKE1_HUMAN
+ProteinName	Suppressor of IKBKE 1 (Suppressor of IKK-epsilon)
+GeneName	SIKE1 SIKE
+Length	211
+Function	Physiological suppressor of IKK-epsilon and TBK1 that plays an inhibitory role in virus- and TLR3-triggered IRF3. Inhibits TLR3-mediated activation of interferon-stimulated response elements (ISRE) and the IFN-beta promoter. May act by disrupting the interactions of IKBKE or TBK1 with TICAM1/TRIF, IRF3 and RIGI. Does not inhibit NF-kappa-B activation pathways (PubMed:16281057). Associates with the striatin-interacting phosphatase and kinase (STRIPAK) core complex, forming the extended (SIKE1:SLMAP)STRIPAK complex (PubMed:30622739). The (SIKE1:SLMAP)STRIPAK complex dephosphorylates STK3 leading to the inhibition of Hippo signaling and the control of cell growth (PubMed:30622739).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCTIEKILTDAKTLLERLREHDAAAESLVDQSAALHRRVAAMREAGTALPDQVRQRYQEDASDMKDMSKYKPHILLSQENTQIRDLQQENRELWISLEEHQDALELIMSKYRKQMLQLMVAKKAVDAEPVLKAHQSHSAEIESQIDRICEMGEVMRKAVQVDDDQFCKIQEKLAQLELENKELRELLSISSESLQARKENSMDTASQAIK
+PTM	Acetylation:7;Methylation:7,119,165,169,178;Phosphorylation:67,187,198;SUMOylation:62;Ubiquitylation:13,62

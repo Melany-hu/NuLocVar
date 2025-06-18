@@ -21,7 +21,7 @@ function showNLSRange(length,range){
   }
 }
 
-//展示表格行信息
+//展示表格行信息，在showReturn.php的showReturnInfo中看每行的内容
 function showRowInfo(tableLineInfo){
   var returnTableRow = '';
   for(var i in tableLineInfo){
@@ -29,7 +29,6 @@ function showRowInfo(tableLineInfo){
     returnTableRow += "<tr>\
       <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank'>"+thisLineInfo[0]+"</a></td>\
       <td>"+thisLineInfo[1]+"</td>\
-      <td>"+thisLineInfo[3]+"</td>\
       <td>"+thisLineInfo[5]+"</td>\
       <td>"+thisLineInfo[6]+"</td>\
       <td>"+showNLSRange(thisLineInfo[4],thisLineInfo[7])+"</td>\
@@ -192,7 +191,7 @@ $(document).ready(function(){
   var tag2name = {'All':'Any field','uniprot':'Uniprot ID','gene':'Gene name','protein':'Protein name'};
   if(searchInfo){
     $('#search-alert').addClass('alert-primary');
-    $('#search-alert').html('Search content: '+tag2name[searchInfo['tag']]+' = '+searchInfo['content']+'; Organism: '+searchInfo['org']);
+    $('#search-alert').html('Search content: '+tag2name[searchInfo['tag']]+' = '+searchInfo['content']+'.');
     searchResultByAJAX(searchInfo,rowNumber,nowPage,orderInfo);
   }
   else{

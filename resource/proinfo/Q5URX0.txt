@@ -1,0 +1,25 @@
+UniprotID	Q5URX0
+Accession	Q5URX0
+EntryName	Q5URX0_HUMAN
+ProteinName	Beta-hexosaminidase subunit beta (EC 3.2.1.52) (Beta-N-acetylhexosaminidase subunit beta) (N-acetyl-beta-glucosaminidase subunit beta)
+GeneName	HEXB HEL-248 HEL-S-111
+Length	331
+Function	Hydrolyzes the non-reducing end N-acetyl-D-hexosamine and/or sulfated N-acetyl-D-hexosamine of glycoconjugates, such as the oligosaccharide moieties from proteins and neutral glycolipids, or from certain mucopolysaccharides. The isozyme B does not hydrolyze each of these substrates, however hydrolyzes efficiently neutral oligosaccharide. Only the isozyme A is responsible for the degradation of GM2 gangliosides in the presence of GM2A. During fertilization is responsible, at least in part, for the zona block to polyspermy. Present in the cortical granules of non-activated oocytes, is exocytosed during the cortical reaction in response to oocyte activation and inactivates the sperm galactosyltransferase-binding site, accounting for the block in sperm binding to the zona pellucida.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Cortical granule; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFNKFNVLHWHIVDDQSFPYQSITFPELSNKGSYSLSHVYTPNDVRMVIEYARLRGIRVLPEFDTPGHTLSWGKGQKDLLTPCYSRQNKLDSFGPINPTLNTTYSFLTTFFKEISEVFPDQFIHLGGDEVEFKCWESNPKIQDFMRQKGFGTDFKKLESFYIQKVLDIIATINKGSIVWQEVFDDKAKLAPGTIVEVWKDSAYPEELSRVTASGFPVILSAPWYLDLISYGQDWRKYYKVEPLDFGGTQKQKQLFIGGEACLWGEYVDATNLTPRLWPRASAVGERLWSSKDVRDMDDAYDRLTRHRCRMVERGIAAQPLYAGYCNHENM
+PTM	

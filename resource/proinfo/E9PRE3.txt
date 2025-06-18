@@ -1,0 +1,25 @@
+UniprotID	E9PRE3
+Accession	E9PRE3
+EntryName	E9PRE3_HUMAN
+ProteinName	LIM domain 7
+GeneName	LMO7
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	43...48
+validnes_region	
+nesbase_region	
+Sequence	MQDYNKDDMSYRRISAVEPKTALPFNRFLPNKSRQPSYVPAPLRKKKPDKHEDNRRSWASPVYTEADGTFSSQFLLLQALQTYSDDILSSETHTKIDPTSGPRLITRRKNLSYAPGYRRDDLEMAALDPDLENDDFFVRKT
+PTM	

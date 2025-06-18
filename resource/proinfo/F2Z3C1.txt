@@ -1,0 +1,25 @@
+UniprotID	F2Z3C1
+Accession	F2Z3C1
+EntryName	F2Z3C1_HUMAN
+ProteinName	CMT1A duplicated region transcript 15
+GeneName	CDRT15
+Length	122
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKKAHPSPQTPVARCNKAHPAPGPCAEVRALPAPAAEPEPAWEEAPPERALELEGAPAKDQTNEELPEITEVPESIKRRLGRRVPAATPAPRGNLLLQAWMRVHSWASRLFAPNVLPGTGP
+PTM	

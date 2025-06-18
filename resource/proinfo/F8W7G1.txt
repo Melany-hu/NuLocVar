@@ -1,0 +1,25 @@
+UniprotID	F8W7G1
+Accession	F8W7G1
+EntryName	F8W7G1_HUMAN
+ProteinName	CD200 molecule
+GeneName	CD200
+Length	195
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTFSENHGVVIQPAYKDKINITQLGLQNSTITFWNITLEDEGCYMCLFNTFGFGKISGTACLTVYVQPIVSLHYKFSEDHLNITCSATARPAPMVFWKVPRSGIENSTVTLSHPNGTTSVTSILHIKDPKNQVGKEVICQVLHLGTVTDFKQTVNKGYWFSVPLLLSIVSLVILLVLISILLYWKRHRNQDREP
+PTM	

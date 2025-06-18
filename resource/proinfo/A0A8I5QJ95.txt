@@ -1,0 +1,25 @@
+UniprotID	A0A8I5QJ95
+Accession	A0A8I5QJ95
+EntryName	A0A8I5QJ95_HUMAN
+ProteinName	ADP ribosylation factor like GTPase 6 interacting protein 6
+GeneName	ARL6IP6
+Length	43
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPPTPLSPARFKKLTGHSFHMGYSMAILNGIVAALTVAWCLM
+PTM	

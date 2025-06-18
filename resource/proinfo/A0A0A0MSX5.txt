@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MSX5
+Accession	A0A0A0MSX5
+EntryName	A0A0A0MSX5_HUMAN
+ProteinName	Homeobox protein Hox-D8
+GeneName	HOXD8
+Length	106
+Function	Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	65...69;64...70
+validnes_region	
+nesbase_region	
+Sequence	MFPWMRPQAAPGRRRGRQTYSRFQTLELEKEFLFNPYLTRKRRIEVSHALALTERQVKIWFQNRRMKWKKENNKDKFPVSRQEVKDGETKKEAQELEEDRAEGLTN
+PTM	

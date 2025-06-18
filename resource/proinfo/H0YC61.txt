@@ -1,0 +1,25 @@
+UniprotID	H0YC61
+Accession	H0YC61
+EntryName	H0YC61_HUMAN
+ProteinName	NADH:ubiquinone oxidoreductase complex assembly factor 6
+GeneName	NDUFAF6
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LCCRRPPLGLYARMRRLPGPEVSGRSVAAASGPGAWGTDHYCLELLRKRDYEGYLCSLLLPAESRSSVFALRAFNVELAQAGLLLLLSCCTVCHWDLNTKHC
+PTM	

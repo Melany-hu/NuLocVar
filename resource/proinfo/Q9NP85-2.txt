@@ -1,0 +1,25 @@
+UniprotID	Q9NP85-2
+Accession	Q9NP85;B1AM32;B1AM33;Q8N6Q5
+EntryName	PODO_HUMAN
+ProteinName	Podocin
+GeneName	NPHS2
+Length	315
+Function	Plays a role in the regulation of glomerular permeability, acting probably as a linker between the plasma membrane and the cytoskeleton.
+Subcellular Location	Cell membrane; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERRARSSSRESRGRGGRTPHKENKRAKAERSGGGRGRQEAGPEPSGSGRAGTPGEPRAPAATVVDVDEVRGSGEEGTEVVALLESERPEEGTKSSGLGACEWLLVLISLLFIIMTFPFSIWFCVKVVQEYERVIIFRLGHLLPGRAKGPGLFFFLPCLDTYHKVDLRLQTLEIPFHEVALDSVTCIWGIKVERIEIKDVRLPAGLQHSLAVEAEAQRQAKVRMIAAEAEKAASESLRMAAEILSGTPAAVQLRYLHTLQSLSTEKPSTVVLPLPFDLLNCLSSPSNRTQGSLPFPSPSKPVEPLNPKKKDSPML
+PTM	Phosphorylation:195;SUMOylation:259

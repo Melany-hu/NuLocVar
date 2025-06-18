@@ -1,0 +1,25 @@
+UniprotID	P55808-3
+Accession	P55808;E9PCH1;Q496N8;Q496N9;Q496P0;Q71BZ5
+EntryName	XG_HUMAN
+ProteinName	Glycoprotein Xg (Protein PBDX)
+GeneName	XG PBDX
+Length	195
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESWWGLPCLAFLCFLMHARGQRDFDLADALDDPEPTKKPNSDIYPKPKPPYYPQPENPDSGGNIYPRPKPRPQPQPGNSGNSGGYFNDVDRDDGRYPPRPRPRPPAGGGGGGYSSYGNSDNTHGRGGYRLNSRYGNTYGGDHHSTYGNPEGNMVAKIVSPIVSVVVVTLLGAAASYFKLNNRRNCFRTHEPENV
+PTM	Methylation:47

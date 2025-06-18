@@ -1,0 +1,25 @@
+UniprotID	Q9H171-2
+Accession	Q9H171;A2A2F7;B3KVA1;F5GYT1;Q5JY39;Q9BYW4
+EntryName	ZBP1_HUMAN
+ProteinName	Z-DNA-binding protein 1 (DNA-dependent activator of IFN-regulatory factors) (DAI) (Tumor stroma and activated macrophage protein DLM-1)
+GeneName	ZBP1 C20orf183 DLM1
+Length	446
+Function	Key innate sensor that recognizes and binds Z-RNA structures, which are produced by a number of viruses, such as herpesvirus, orthomyxovirus or flavivirus, and triggers different forms of cell death (PubMed:32200799). ZBP1 acts as an essential mediator of pyroptosis, necroptosis and apoptosis (PANoptosis), an integral part of host defense against pathogens, by activating RIPK3, caspase-8 (CASP8), and the NLRP3 inflammasome (By similarity). Key activator of necroptosis, a programmed cell death process in response to death-inducing TNF-alpha family members, via its ability to bind Z-RNA: once activated upon Z-RNA-binding, ZBP1 interacts and stimulates RIPK3 kinase, which phosphorylates and activates MLKL, triggering execution of programmed necrosis (By similarity). In addition to TNF-induced necroptosis, necroptosis can also take place in the nucleus in response to orthomyxoviruses infection: ZBP1 recognizes and binds Z-RNA structures that are produced in infected nuclei by orthomyxoviruses, such as the influenza A virus (IAV), leading to ZBP1 activation, RIPK3 stimulation and subsequent MLKL phosphorylation, triggering disruption of the nuclear envelope and leakage of cellular DNA into the cytosol (PubMed:32200799). ZBP1-dependent cell death in response to IAV infection promotes interleukin-1 alpha (IL1A) induction in an NLRP3-inflammasome-independent manner: IL1A expression is required for the optimal interleukin-1 beta (IL1B) production, and together, these cytokines promote infiltration of inflammatory neutrophils to the lung, leading to the formation of neutrophil extracellular traps (By similarity). In addition to its direct role in driving necroptosis via its ability to sense Z-RNAs, also involved in PANoptosis triggered in response to bacterial infection: component of the AIM2 PANoptosome complex, a multiprotein complex that triggers PANoptosis (By similarity). Also acts as the apical sensor of fungal infection responsible for activating PANoptosis (By similarity). Involved in CASP8-mediated cell death via its interaction with RIPK1 but independently of its ability to sense Z-RNAs (By similarity). In some cell types, also able to restrict viral replication by promoting cell death-independent responses (By similarity). In response to Zika virus infection in neurons, promotes a cell death-independent pathway that restricts viral replication: together with RIPK3, promotes a death-independent transcriptional program that modifies the cellular metabolism via up-regulation expression of the enzyme ACOD1/IRG1 and production of the metabolite itaconate (By similarity). Itaconate inhibits the activity of succinate dehydrogenase, generating a metabolic state in neurons that suppresses replication of viral genomes (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQAPADPGREGHLEQRILQVLTEAGSPVKLAQLVKECQAPKRELNQVLYRMKKELKVSLTSPATWCLGGTDPEGEGPAELALSSPAERPQQHAATIPETPGPQFSQQREEDIYRFLKDNGPQRALVIAQALGMRTAKDVNRDLYRMKSRHLLDMDEQSKAWTIYRPEDSGRRAKSASIIYQHNPINMICQNGPNSWISIANSEAIQIGHGNIITRQTVSREDGSAGPRHLPSMAPGDSSTWGTLVDPWGPQDIHMEQSILRRVQLGHSNEMRLHGVPSEGPAHIPPGSPPVSATAAGPEASFEARIPSPGTHPEGEAAQRIHMKSCFLEDATIGNSNKMSISPGVAGPGGVAGSGEGEPGEDAVAAFTEVLNPSKSFMKFGINFFQTPVNVDSLTSSHESQMFLTACRLVIFSRRFSTYFAQIHLRNHSVLHLCPHKIYLLKNKK
+PTM	Methylation:36,395;Phosphorylation:27,259,309,312

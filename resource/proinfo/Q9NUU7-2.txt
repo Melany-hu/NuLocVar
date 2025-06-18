@@ -1,0 +1,25 @@
+UniprotID	Q9NUU7-2
+Accession	Q9NUU7;B2RPL0;B4DRZ7;Q53FM0
+EntryName	DD19A_HUMAN
+ProteinName	ATP-dependent RNA helicase DDX19A (EC 3.6.4.13) (DDX19-like protein) (DEAD box protein 19A)
+GeneName	DDX19A DDX19L
+Length	388
+Function	ATP-dependent RNA helicase involved in mRNA export from the nucleus. Rather than unwinding RNA duplexes, DDX19 functions as a remodeler of ribonucleoprotein particles, whereby proteins bound to nuclear mRNA are dissociated and replaced by cytoplasmic mRNA binding proteins.
+Subcellular Location	Cytoplasm; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGTFLIRKPQLLQGVYAMGFNRPSKIQENALPMMLAEPPQNLIAQSQSGTGKTAAFVLAMLSRVEPSDRYPQCLCLSPTYELALQTGKVIEQMGKFYPELKLAYAVRGNKLERGQKISEQIVIGTPGTVLDWCSKLKFIDPKKIKVFVLDEADVMIATQGHQDQSIRIQRMLPRNCQMLLFSATFEDSVWKFAQKVVPDPNVIKLKREEETLDTIKQYYVLCSSRDEKFQALCNLYGAITIAQAMIFCHTRKTASWLAAELSKEGHQVALLSGEMMVEQRAAVIERFREGKEKVLVTTNVCARGIDVEQVSVVINFDLPVDKDGNPDNETYLHRIGRTGRFGKRGLAVNMVDSKHSMNILNRIQEHFNKKIERLDTDDLDEIEKIAN
+PTM	Acetylation:46,52,186,228,233,286,445;Methylation:18,39,63,198,207,233,295,307,445;Phosphorylation:59,85,88,89,92,107,153,467;SUMOylation:26,29,201,297,445,461;Ubiquitylation:63,91,192,286,295,382,445,460

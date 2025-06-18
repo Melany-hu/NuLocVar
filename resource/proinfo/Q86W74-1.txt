@@ -1,0 +1,25 @@
+UniprotID	Q86W74-1
+Accession	Q86W74;Q6P9B7
+EntryName	ANR46_HUMAN
+ProteinName	Ankyrin repeat domain-containing protein 46 (Ankyrin repeat small protein) (ANK-S)
+GeneName	ANKRD46
+Length	232
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSYVFVNDSSQTNVPLLQACIDGDFNYSKRLLESGFDPNIRDSRGRTGLHLAAARGNVDICQLLHKFGADLLATDYQGNTALHLCGHVDTIQFLVSNGLKIDICNHQGATPLVLAKRRGVNKDVIRLLESLEEQEVKGFNRGTHSKLETMQTAESESAMESHSLLNPNLQQGEGVLSSFRTTWQEFVEDLGFWRVLLLIFVIALLSLGIAYYRRTLRLGSFARQDRSRIQAI
+PTM	Methylation:137;SUMOylation:137;Ubiquitylation:116,122,137,146

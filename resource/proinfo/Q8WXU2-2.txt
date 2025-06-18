@@ -1,0 +1,25 @@
+UniprotID	Q8WXU2-2
+Accession	Q8WXU2;Q6P5Y9;Q8N1S6
+EntryName	DAAF4_HUMAN
+ProteinName	Dynein axonemal assembly factor 4 (Dyslexia susceptibility 1 candidate gene 1 protein)
+GeneName	DNAAF4 DYX1C1 EKN1
+Length	381
+Function	Axonemal dynein assembly factor required for ciliary motility. Involved in neuronal migration during development of the cerebral neocortex. May regulate the stability and proteasomal degradation of the estrogen receptors that play an important role in neuronal differentiation, survival and plasticity.
+Subcellular Location	Nucleus; Cytoplasm; Dynein axonemal particle; Cell projection; Neuron projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLQVSDYSWQQTKTAVFLSLPLKGVCVRDTDVFCTENYLKVNFPPFLFEAFLYAPIDDESSKAKIGNDTIVFTLYKKEAAMWETLSVTGVDKEMMQRIREKSILQAQERAKEATEAKAAAKREDQKYALSVMMKIEEEERKKIEDMKENERIKATKALEAWKEYQRKAEEQKKIQREEKLCQKEKQIKEERKKIKYKSLTRNLASRNLAPKGRNSENIFTEKLKEDSIPAPRSVGSIKINFTPRVFPTALRESQVAEEEEWLHKQAEARRAMNTDIAELCDLKEEEKNPEWLKDKGNKLFATENYLAAINAYNLAIRLNNKMPLLYLNRAACHLKLKNLHKAIEDSSKEFCSLEGIECQASEPKLSHHIPSDLHVYIQMA
+PTM	Acetylation:186;Methylation:41,142,180,189;Phosphorylation:228;Ubiquitylation:102

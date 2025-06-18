@@ -1,0 +1,25 @@
+UniprotID	Q108N2
+Accession	Q108N2
+EntryName	Q108N2_HUMAN
+ProteinName	long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+GeneName	ACSL1
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LGRANRRKPKPPAPEDLAVICFTSGTTGNPKGAMVTHRNIVSDCSAFVKATECVMLCHGAKIGFFQGDIRLLMDDLKVLQPTVFPVVPRLLNR
+PTM	

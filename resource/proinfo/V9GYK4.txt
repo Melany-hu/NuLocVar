@@ -1,0 +1,25 @@
+UniprotID	V9GYK4
+Accession	V9GYK4
+EntryName	V9GYK4_HUMAN
+ProteinName	Cytochrome P450 family 4 subfamily A member 11
+GeneName	CYP4A11
+Length	264
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVSVLSPSRLLGDVSGILQAASLLILLLLLIKAVQLYLHRQWLLKALQQFPCPPSHWLFGHIQELQQDQELQRIQKWVETFPSACPHWLWGGKVRVQLYDPDYMKVILGRSDPKSHGSYRFLAPWIGYGLLLLNGQTWFQHRRMLTPAFHYDILKPYVGLMADSVRVMLDKWEELLGQDSPLEVFQHVSLMTLDTIMKCAFSHQGSIQVDRPSDPTEEGSTTEGGGAGEDQEEEAFGFSGYPPLGQRTTWTRCPTPPCALRRH
+PTM	

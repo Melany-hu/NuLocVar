@@ -1,0 +1,25 @@
+UniprotID	C9JNU5
+Accession	C9JNU5
+EntryName	C9JNU5_HUMAN
+ProteinName	Palmitoyltransferase (EC 2.3.1.225)
+GeneName	ZDHHC3
+Length	44
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDHHCPWVNNCVGENNQKYFVLFTMYIALISLHALIMVGFHFLH
+PTM	

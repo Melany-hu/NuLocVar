@@ -1,0 +1,25 @@
+UniprotID	H0YDR8
+Accession	H0YDR8
+EntryName	H0YDR8_HUMAN
+ProteinName	REST corepressor 3
+GeneName	RCOR3
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPNAANTILRQLDMELISLKRQVQNAKQVNSALKQKMEGGIEEFKPPESNQKINARWTTEEQLLAVQGDWLLGK
+PTM	

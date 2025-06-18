@@ -1,0 +1,25 @@
+UniprotID	A0AAQ5BGY8
+Accession	A0AAQ5BGY8
+EntryName	A0AAQ5BGY8_HUMAN
+ProteinName	Thioredoxin domain containing 14, isoform CRA_d (Thioredoxin related transmembrane protein 2)
+GeneName	TMX2 TXNDC14 hCG_39765
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVLAPLIALVYSVPRLSRWLAQPYYLLSALLSAAFLLVRKLPPLCHGLPTQREDGNPCDFDWREVEILMFLSAIVMMKNRRSITVEQHIGNIFMFSKVANTILFFRLDIRMGLLYITLCIGGTRTGQEGHLDCGVLCQLV
+PTM	

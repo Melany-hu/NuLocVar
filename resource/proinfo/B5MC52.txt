@@ -1,0 +1,25 @@
+UniprotID	B5MC52
+Accession	B5MC52
+EntryName	B5MC52_HUMAN
+ProteinName	Histone deacetylase 11
+GeneName	HDAC11
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLHTTQLYQHVPETRWPIVYSPRYNITFMGLEKLHPFDAGKWGKVINFLKEEKLLSDSMLVEAREASEEDLLVVHTRRYLNELKRPSGGRWSWSGAQRMMSTWIRWRGTSRNPSRSTCPTWWYTMQAPTSSRGTALGGCPSAQRAS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	B7Z3N2
+Accession	B7Z3N2;H0YHA3
+EntryName	B7Z3N2_HUMAN
+ProteinName	Protein Churchill
+GeneName	CHURC1
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGDCVEKEYPNRGNTCLENGSFLLNFTGCAVCSKRDFMLITNKSLKEEDGEEIVTYDHLCKNCHHVIARHEYTFSIMDEFQDKIKGTLRRRVCHFLGEKRSFQCLSSCQAEETKLCLS
+PTM	

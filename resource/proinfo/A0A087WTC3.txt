@@ -1,0 +1,25 @@
+UniprotID	A0A087WTC3
+Accession	A0A087WTC3
+EntryName	A0A087WTC3_HUMAN
+ProteinName	WD repeat domain 72
+GeneName	WDR72
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGVPPPAWLPPCSLISDCCASNQRDSVGVGPSEPAPVSPVKHDSNSNSANFQDVEDMPDRCALEESESPGEPRHHSWIAKVCPCKVS
+PTM	

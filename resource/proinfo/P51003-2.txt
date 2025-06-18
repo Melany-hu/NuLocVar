@@ -1,0 +1,25 @@
+UniprotID	P51003-2
+Accession	P51003;Q86SX4;Q86TV0;Q8IYF5;Q9BVU2
+EntryName	PAPOA_HUMAN
+ProteinName	Poly(A) polymerase alpha (PAP-alpha) (EC 2.7.7.19) (Polynucleotide adenylyltransferase alpha)
+GeneName	PAPOLA PAP
+Length	285
+Function	Polymerase that creates the 3'-poly(A) tail of mRNA's. Also required for the endoribonucleolytic cleavage reaction at some polyadenylation sites. May acquire specificity through interaction with a cleavage and polyadenylation specificity factor (CPSF) at its C-terminus.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	490..507;650..665
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFPVTTQGSQQTQPPQKHYGITSPISLAAPKETDCVLTQKLIETLKPFGVFEEEEELQRRILILGKLNNLVKEWIREISESKNLPQSVIENVGGKIFTFGSYRLGVHTKGADIDALCVAPRHVDRSDFFTSFYDKLKLQEEVKDLRAVEEAFVPVIKLCFDGIEIDILFARLALQTIPEDLDLRDDSLLKNLDIRCIRSLNGCRVTDEILHLVPNIDNFRLTLRAIKLWAKRHNIYSNILGFLGGVSWAMLVARTCQLYPNAIASTLVHKFFLVFSKWYVFRLY
+PTM	Acetylation:144,489,641,650;Methylation:41,47,67,73,191,288,355,407,514;Phosphorylation:6,7,10,13,20,23,24,27,80,88,99,102,103,109,131,132,134,188,310,327,526,529,532,534,537,544,545,549,550,552,553,558,586,605,617,619,644,652,653,654,660,671,672,681,716,717,718,719,722,738;SUMOylation:110;Ubiquitylation:67,110,136,138,191,228,360,407,641,650

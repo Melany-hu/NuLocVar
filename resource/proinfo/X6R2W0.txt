@@ -1,0 +1,25 @@
+UniprotID	X6R2W0
+Accession	X6R2W0
+EntryName	X6R2W0_HUMAN
+ProteinName	Syntaxin 10
+GeneName	STX10
+Length	220
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLEDPFFVVRGEVQKAVNTARGLYQRWCELLQESAAVGREELDWTTNELRNGLRSIEWDLEDLEETIGIVEANPGKFKLPAGDLQERKVFVERMREAVQEMKDHMVSPTAVAFLERNNREILAGKPAAQKSPSDLLDASAVSATSRYIEEQQATQQLIMDEQDQQLEMVSGSIQVLKHMSGRVGEELDEQACWMPSPKRWTTPSPAWTGSSGSWPKYPT
+PTM	

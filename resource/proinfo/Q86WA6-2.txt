@@ -1,0 +1,25 @@
+UniprotID	Q86WA6-2
+Accession	Q86WA6;Q00306;Q13855;Q3KP51
+EntryName	BPHL_HUMAN
+ProteinName	Valacyclovir hydrolase (VACVase) (Valacyclovirase) (EC 3.1.-.-) (Biphenyl hydrolase-like protein) (Biphenyl hydrolase-related protein) (Bph-rp) (Breast epithelial mucin-associated antigen) (MCNAA)
+GeneName	BPHL MCNAA
+Length	274
+Function	Serine hydrolase that catalyzes the hydrolytic activation of amino acid ester prodrugs of nucleoside analogs such as valacyclovir and valganciclovir. Activates valacyclovir to acyclovir. May play a role in detoxification processes. It is a specific alpha-amino acid ester hydrolase that prefers small, hydrophobic, and aromatic side chains and does not have a stringent requirement for the leaving group other than preferring a primary alcohol.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRNLLYSLLSSHLSPHFSTSVTSAKVAVNGVQLHYQQTGEGDHAVLLLPGMLGSGETDFGPQLKNLNKKLFTVVAWDPRGYGHSRPPDRDFPADFFERDAKDAVDLMKALKFKKVSLLGWSDGGITALIAAAKYPSYIHKMVIWGANAYVTDEDSMIYEGIRDVSKWSERTRKPLEALYGYDYFARTCEKWVDGIRQFKHLPDGNICRHLLPRVQCPALIVHGEKDPLVPRFHADFIHKHVKGSRLHLMPEGKHNLHLRFADEFNKLAEDFLQ
+PTM	Acetylation:87,126,191,208,217,243,257,271;Methylation:21,277;Ubiquitylation:191

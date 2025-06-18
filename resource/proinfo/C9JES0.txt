@@ -1,0 +1,25 @@
+UniprotID	C9JES0
+Accession	C9JES0
+EntryName	C9JES0_HUMAN
+ProteinName	Protein N-lysine methyltransferase METTL21A (Methyltransferase-like protein 21A)
+GeneName	METTL21A LOC151194 hCG_15462
+Length	127
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALVPYEETTEFGLQKFHKPLATFSFANHTIQIRQDWRHLGVAAVVWDAAIVLSTYLEMGAVELRGRSAVELGAGTGLVGIVAALLENTGQMQTEGYSKRKQITTLQKLQGHQRQGNKLSQTEGDYN
+PTM	

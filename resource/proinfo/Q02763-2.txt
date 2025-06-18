@@ -1,0 +1,25 @@
+UniprotID	Q02763-2
+Accession	Q02763;A8K6W0;B4DH20;B4DHD3;D3DRK5;E7EWI2;Q5TCU2;Q8IV34
+EntryName	TIE2_HUMAN
+ProteinName	Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (Tunica interna endothelial cell kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TEK) (Tyrosine-protein kinase receptor TIE-2) (hTIE2) (p140 TEK) (CD antigen CD202b)
+GeneName	TEK TIE2 VMCM VMCM1
+Length	1081
+Function	Tyrosine-protein kinase that acts as a cell-surface receptor for ANGPT1, ANGPT2 and ANGPT4 and regulates angiogenesis, endothelial cell survival, proliferation, migration, adhesion and cell spreading, reorganization of the actin cytoskeleton, but also maintenance of vascular quiescence. Has anti-inflammatory effects by preventing the leakage of pro-inflammatory plasma proteins and leukocytes from blood vessels. Required for normal angiogenesis and heart development during embryogenesis. Required for post-natal hematopoiesis. After birth, activates or inhibits angiogenesis, depending on the context. Inhibits angiogenesis and promotes vascular stability in quiescent vessels, where endothelial cells have tight contacts. In quiescent vessels, ANGPT1 oligomers recruit TEK to cell-cell contacts, forming complexes with TEK molecules from adjoining cells, and this leads to preferential activation of phosphatidylinositol 3-kinase and the AKT1 signaling cascades. In migrating endothelial cells that lack cell-cell adhesions, ANGT1 recruits TEK to contacts with the extracellular matrix, leading to the formation of focal adhesion complexes, activation of PTK2/FAK and of the downstream kinases MAPK1/ERK2 and MAPK3/ERK1, and ultimately to the stimulation of sprouting angiogenesis. ANGPT1 signaling triggers receptor dimerization and autophosphorylation at specific tyrosine residues that then serve as binding sites for scaffold proteins and effectors. Signaling is modulated by ANGPT2 that has lower affinity for TEK, can promote TEK autophosphorylation in the absence of ANGPT1, but inhibits ANGPT1-mediated signaling by competing for the same binding site. Signaling is also modulated by formation of heterodimers with TIE1, and by proteolytic processing that gives rise to a soluble TEK extracellular domain. The soluble extracellular domain modulates signaling by functioning as decoy receptor for angiopoietins. TEK phosphorylates DOK2, GRB7, GRB14, PIK3R1; SHC1 and TIE1.
+Subcellular Location	Cell membrane; Cell junction; Cell junction; Focal adhesion; Cytoplasm; Cytoskeleton; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSLASLVLCGVSLLLSGTVEGAMDLILINSLPLVSDAETSLTCIASGWRPHEPITIGRDFEALMNQHQDPLEVTQDVTREWAKKVVWKREKASKINGAYFCEGRVRGEAIRIRTMKMRQQASFLPATLTMTVDKGDNVNISFKKVLIKEEDAVIYKNGSFIHSVPRHEVPDILEVHLPHAQPQDAGVYSARYIGGNLFTSAFTRLIVRRCEAQKWGPECNHLCTACMNNGVCHEDTGECICPPGFMGRTCEKACELHTFGRTCKERCSGQEGCKSYVFCLPDPYGCSCATGWKGLQCNEGIQRMTPKIVDLPDHIEVNSGKFNPICKASGWPLPTNEEMTLVKPDGTVLHPKDFNHTDHFSVAIFTIHRILPPDSGVWVCSVNTVAGMVEKPFNISVKVLPKPLNAPNVIDTGHNFAVINISSEPYFGDGPIKSKKLLYKPVNHYEAWQHIQVTNEIVTLNYLEPRTEYELCVQLVRRGEGGEGHPGPVRRFTTASIGLPPPRGLNLLPKSQTTLNLTWQPIFPSSEDDFYVEVERRSVQKSDQQNIKVPGNLTSVLLNNLHPREQYVVRARVNTKAQGEWSEDLTAWTLSDILPPQPENIKISNITHSSAVISWTILDGYSISSITIRYKVQGKNEDQHVDVKIKNATITQYQLKGLEPETAYQVDIFAENNIGSSNPAFSHELVTLPESQAPADLGGGKMLLIAILGSAGMTCLTVLLAFLIILQLKRANVQRRMAQAFQNVREEPAVQFNSGTLALNRKVKNNPDPTIYPVLDWNDIKFQDVIGEGNFGQVLKARIKKDGLRMDAAIKRMKEYASKDDHRDFAGELEVLCKLGHHPNIINLLGACEHRGYLYLAIEYAPHGNLLDFLRKSRVLETDPAFAIANSTASTLSSQQLLHFAADVARGMDYLSQKQFIHRDLAARNILVGENYVAKIADFGLSRGQEVYVKKTMGRLPVRWMAIESLNYSVYTTNSDVWSYGVLLWEIVSLGGTPYCGMTCAELYEKLPQGYRLEKPLNCDDEVYDLMRQCWREKPYERPSFAQILVSLNRMLEERKTYVNTTLYEKFTYAGIDCSAEEAA
+PTM	Methylation:149,477,554,646,773,840,855,1050;Phosphorylation:142,259,671,1048

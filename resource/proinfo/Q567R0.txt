@@ -1,0 +1,25 @@
+UniprotID	Q567R0
+Accession	Q567R0
+EntryName	Q567R0_HUMAN
+ProteinName	UQCRH protein (Ubiquinol-cytochrome c reductase hinge protein, isoform CRA_c)
+GeneName	UQCRH hCG_22091
+Length	85
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDRILPFLAAVWLCQLAFCTDPLTTVREQCEQLEKCVKARERLELCDERVSSRSHTEEDCTEELFDFLHARDHCVAHKLFNNLK
+PTM	

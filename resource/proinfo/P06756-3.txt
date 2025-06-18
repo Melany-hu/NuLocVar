@@ -1,0 +1,25 @@
+UniprotID	P06756-3
+Accession	P06756;A0AV67;B0LPF4;B7Z883;B7ZLX0;D3DPG8;E7EWZ6;Q53SK4;Q59EB7;Q6LD15
+EntryName	ITAV_HUMAN
+ProteinName	Integrin alpha-V (Vitronectin receptor) (Vitronectin receptor subunit alpha) (CD antigen CD51) [Cleaved into: Integrin alpha-V heavy chain; Integrin alpha-V light chain]
+GeneName	ITGAV MSK8 VNRA VTNR
+Length	1002
+Function	The alpha-V (ITGAV) integrins are receptors for vitronectin, cytotactin, fibronectin, fibrinogen, laminin, matrix metalloproteinase-2, osteopontin, osteomodulin, prothrombin, thrombospondin and vWF. They recognize the sequence R-G-D in a wide array of ligands. ITGAV:ITGB3 binds to fractalkine (CX3CL1) and may act as its coreceptor in CX3CR1-dependent fractalkine signaling (PubMed:23125415). ITGAV:ITGB3 binds to NRG1 (via EGF domain) and this binding is essential for NRG1-ERBB signaling (PubMed:20682778). ITGAV:ITGB3 binds to FGF1 and this binding is essential for FGF1 signaling (PubMed:18441324). ITGAV:ITGB3 binds to FGF2 and this binding is essential for FGF2 signaling (PubMed:28302677). ITGAV:ITGB3 binds to IGF1 and this binding is essential for IGF1 signaling (PubMed:19578119). ITGAV:ITGB3 binds to IGF2 and this binding is essential for IGF2 signaling (PubMed:28873464). ITGAV:ITGB3 binds to IL1B and this binding is essential for IL1B signaling (PubMed:29030430). ITGAV:ITGB3 binds to PLA2G2A via a site (site 2) which is distinct from the classical ligand-binding site (site 1) and this induces integrin conformational changes and enhanced ligand binding to site 1 (PubMed:18635536, PubMed:25398877). ITGAV:ITGB3 and ITGAV:ITGB6 act as receptors for fibrillin-1 (FBN1) and mediate R-G-D-dependent cell adhesion to FBN1 (PubMed:12807887, PubMed:17158881). Integrin alpha-V/beta-6 or alpha-V/beta-8 (ITGAV:ITGB6 or ITGAV:ITGB8) mediates R-G-D-dependent release of transforming growth factor beta-1 (TGF-beta-1) from regulatory Latency-associated peptide (LAP), thereby playing a key role in TGF-beta-1 activation (PubMed:15184403, PubMed:22278742, PubMed:28117447). ITGAV:ITGB3 acts as a receptor for CD40LG (PubMed:31331973). ITGAV:ITGB3 acts as a receptor for IBSP and promotes cell adhesion and migration to IBSP (PubMed:10640428).
+Subcellular Location	Cell membrane; Cell junction; Focal adhesion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLGTLLLILYILMLCRMFLLVGAPKANTTQPGIVEGGQVLKCDWSSTRRCQPIEFDATGNRDYAKDDPLEFKSHQWFGASVRSKQDKILACAPLYHWRTEMKQEREPVGTCFLQDGTKTVEYAPCRSQDIDADGQGFCQGGFSIDFTKADRVLLGGPGSFYWQGQLISDQVAEIVSKYDPNVYSIKYNNQLATRTAQAIFDDSYLGYSVAVGDFNGDGIDDFVSGVPRAARTLGMVYIYDGKNMSSLYNFTGEQMAAYFGFSVAATDINGDDYADVFIGAPLFMDRGSDGKLQEVGQVSVSLQRASGDFQTTKLNGFEVFARFGSAIAPLGDLDQDGFNDIAIAAPYGGEDKKGIVYIFNGRSTGLNAVPSQILEGQWAARSMPPSFGYSMKGATDIDKNGYPDLIVGAFGVDRAILYRARPVITVNAGLEVYPSILNQDNKTCSLPGTALKVSCFNVRFCLKADGKGVLPRKLNFQVELLLDKLKQKGAIRRALFLYSRSPSHSKNMTISRGGLMQCEELIAYLRDESEFRDKLTPITIFMEYRLDYRTAADTTGLQPILNQFTPANISRQAHILLDCGEDNVCKPKLEVSVDSDQKKIYIGDDNPLTLIVKAQNQGEGAYEAELIVSIPLQADFIGVVRNNEALARLSCAFKTENQTRQVVCDLGNPMKAGTQLLAGLRFSVHQQSEMDTSVKFDLQIQSSNLFDKVSPVVSHKVDLAVLAAVEIRGVSSPDHVFLPIPNWEHKENPETEEDVGPVVQHIYELRNNGPSSFSKAMLHLQWPYKYNNNTLLYILHYDIDGPMNCTSDMEINPLRIKISSLQTTEKNDTVAGQGERDHLITKRDLALSEGDIHTLGCGVAQCLKIVCQVGRLDRGKSAILYVKSLLWTETFMNKENQNHSYSLKSSASFNVIEFPYKNLPIEDITNSTLVTTNVTWGIQPAPMPVPVWVIILAVLAGLLLLAVLVFVMYRMGFFKRVRPPQEEQEREQLQPHENGEGNSET
+PTM	Acetylation:112,149,233;Glycosylation:74,554,609,615,704,836,851,874,943,945;Methylation:88,149,224,446,499,531,660,889,1022;Phosphorylation:215,749,819,871,953,1046,1048;SUMOylation:88,112,119,149,233,360,400,701;Ubiquitylation:88,112,149,165,233,338,360,399,400,446,499,514,553,633,645,646,701,718,864,873,911,923

@@ -1,0 +1,25 @@
+UniprotID	Q3MI98
+Accession	Q3MI98
+EntryName	Q3MI98_HUMAN
+ProteinName	PLA2G16 protein
+GeneName	PLA2G16
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RPAQQKPQSRGVWRRSFLLMTINPCSPCLRHLRSEIEPGLEGPHREGRCVRPLHWAIYVGDGYVVHLAPPSEVAGAGAASVMSALTDKAIVKKELLYDVAGSDKYQVNNKHDDKYSPLPCSKIIQRAEELVGQEVLYKLTSENCEHFVNELRYGVARSDQVRDVIIAASVAGMGLAAMSLIGVMFSRNKRQKQ
+PTM	

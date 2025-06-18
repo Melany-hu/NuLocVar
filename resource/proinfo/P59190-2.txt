@@ -1,0 +1,25 @@
+UniprotID	P59190-2
+Accession	P59190;G5EMR7;Q86TX7;Q8IW89
+EntryName	RAB15_HUMAN
+ProteinName	Ras-related protein Rab-15 (EC 3.6.5.2)
+GeneName	RAB15
+Length	208
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes (By similarity). Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion (By similarity). RAB15 may act in concert with RAB3A in regulating aspects of synaptic vesicle membrane flow within the nerve terminal (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKQYDVLFRLLLIGDSGVGKTCLLCRFTDNEFHSSHISTIGVDFKMKTIEVDGIKVRIQIWDTAGQERYQTITKQYYRRAQGIFLVYDISSERSYQHIMKWVSDVDEVGDATSLPGCGEGASPGKARRGPDGKANASRKLCLPQPWMKTSGTHQKASRRSLLGIRLMRSRNGRWEESKGSSWRRSMAWTSMKQVPAPTSTLKSHSRV
+PTM	Methylation:21,141,159;Phosphorylation:17,64,77,78,161,185

@@ -1,0 +1,25 @@
+UniprotID	A0A8Q3WKR8
+Accession	A0A8Q3WKR8
+EntryName	A0A8Q3WKR8_HUMAN
+ProteinName	Isopentenyl-diphosphate Delta-isomerase 1 (EC 5.3.3.2) (Isopentenyl pyrophosphate isomerase 1)
+GeneName	IDI1 hCG_24699
+Length	228
+Function	Catalyzes the 1,3-allylic rearrangement of the homoallylic substrate isopentenyl (IPP) to its highly electrophilic allylic isomer, dimethylallyl diphosphate (DMAPP).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMPEINTNHLDKQQVQLLAEMCILIDENDNKIGAETKKNCHLNENIEKGLLHRAFSVFLFNTENKLLLQQRSDAKITFPGCFTNTCCSHPLSNPAELEESDALGVRRAAQRRLKAELGIPLEEVPPEEINYLTRIHYKAQSDGIWGEHEIDYILLVRKNVTLNPDPNEIKSYCYVSKEELKELLKKAASGEIKITPWFKIIAATFLFKWWDNLNHLNQFVDHEKIYRM
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	J3QKM7
+Accession	J3QKM7
+EntryName	J3QKM7_HUMAN
+ProteinName	CD226 molecule
+GeneName	CD226
+Length	37
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IVIPDVTVSDSGLYRCYLQASAGENETFVMRLTVAEG
+PTM	

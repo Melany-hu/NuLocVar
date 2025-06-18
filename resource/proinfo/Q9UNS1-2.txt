@@ -1,0 +1,25 @@
+UniprotID	Q9UNS1-2
+Accession	Q9UNS1;B2ZAV0;O94802;Q86VM1;Q8IWH3
+EntryName	TIM_HUMAN
+ProteinName	Protein timeless homolog (hTIM)
+GeneName	TIMELESS TIM TIM1 TIMELESS1
+Length	1207
+Function	Plays an important role in the control of DNA replication, maintenance of replication fork stability, maintenance of genome stability throughout normal DNA replication, DNA repair and in the regulation of the circadian clock (PubMed:17141802, PubMed:17296725, PubMed:23359676, PubMed:23418588, PubMed:26344098, PubMed:31138685, PubMed:32705708, PubMed:35585232, PubMed:9856465). Required to stabilize replication forks during DNA replication by forming a complex with TIPIN: this complex regulates DNA replication processes under both normal and stress conditions, stabilizes replication forks and influences both CHEK1 phosphorylation and the intra-S phase checkpoint in response to genotoxic stress (PubMed:17141802, PubMed:17296725, PubMed:23359676, PubMed:35585232). During DNA replication, inhibits the CMG complex ATPase activity and activates DNA polymerases catalytic activities, coupling DNA unwinding and DNA synthesis (PubMed:23359676). TIMELESS promotes TIPIN nuclear localization (PubMed:17141802, PubMed:17296725). Plays a role in maintaining processive DNA replication past genomic guanine-rich DNA sequences that form G-quadruplex (G4) structures, possibly together with DDX1 (PubMed:32705708). Involved in cell survival after DNA damage or replication stress by promoting DNA repair (PubMed:17141802, PubMed:17296725, PubMed:26344098, PubMed:30356214). In response to double-strand breaks (DSBs), accumulates at DNA damage sites and promotes homologous recombination repair via its interaction with PARP1 (PubMed:26344098, PubMed:30356214, PubMed:31138685). May be specifically required for the ATR-CHEK1 pathway in the replication checkpoint induced by hydroxyurea or ultraviolet light (PubMed:15798197). Involved in the determination of period length and in the DNA damage-dependent phase advancing of the circadian clock (PubMed:23418588, PubMed:31138685). Negatively regulates CLOCK|NPAS2-ARTNL/BMAL1|ARTNL2/BMAL2-induced transactivation of PER1 possibly via translocation of PER1 into the nucleus (PubMed:31138685, PubMed:9856465). May play a role as destabilizer of the PER2-CRY2 complex (PubMed:31138685). May also play an important role in epithelial cell morphogenesis and formation of branching tubules (By similarity).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	531...537;857...861
+validnes_region	
+nesbase_region	
+Sequence	MDLHMMNCELLATCSALGYLEGDTYHKEPDCLESVKDLIRYLRHEDETRDVRQQLGAAQILQSDLLPILTQHHQDKPLFDAVIRLMVNLTQPALLCFGNLPKEPSFRHHFLQVLTYLQAYKEAFASEKAFGVLSETLYELLQLGWEERQEEDNLLIERILLLVRNILHVPADLDQEKIDDDASAHDQLLWAIHLSGLDDLLLFLASSSAEEQWSLHVLEIVSLMFRDQNPEQLAGVGQGRLAQERSADFAELEVLRQREMAEKKTRALQRGNRHSRFGGSYIVQGLKSIGERDLIFHKGLHNLRNYSSDLGKQPKKVPKRRQAARELSIQRRSALNVRLFLRDFCSEFLENCYNRLMGSVKDHLLREKAQQHDETYYMWALAFFMAFNRAASFRPGLVSETLSVRTFHFIEQNLTNYYEMMLTDRKEAASWARRMHLALKAYQELLATVNEMDISPDEAVRESSRIIKNNIFYVMEYRELFLALFRKFDERCQPRSFLRDLVETTHLFLKMLERFCRSRGNLVVQNKQKKRRKKKKKVLDQAIVSGNVPSSPEEVEAVWPALAEQLQCCAQNSELSMDSVVPFDAASEVPVEEQRAEAMVRIQDCLLAGQAPQALTLLRSAREVWPEGDVFGSQDISPEEEIQLLKQILSAPLPRQQGPEERGAEEEEEEEEEEEEELQVVQVSEKEFNFLDYLKRFACSTVVRAYVLLLRSYQQNSAHTNHCIVKMLHRLAHDLKMEALLFQLSVFCLFNRLLSDPAAGAYKELVTFAKYILGKFFALAAVNQKAFVELLFWKNTAVVREMTEGYGSLDDRSSSRRAPTWSPEEEAHLRELYLANKDVEGQDVVEAILAHLNTVPRTRKQIIHHLVQMGLADSVKDFQRKGTHIVLWTGDQELELQRLFEEFRDSDDVLGHIMKNITAKRSRARIVDKLLALGLVAERRELYKKRQKKLASSILPNGAESLKDFCQEDLEEEENLPEEDSEEEEEGGSEAEQVQGSLVLSNENLGQSLHQEGFSIPLLWLQNCLIRAADDREEDGCSQAVPLVPLTEENEEAMENEQFQQLLRKLGVRPPASGQETFWRIPAKLSPTQLRRAAASLSQPEEEQKLQPELQPKVPGEQGSDEEHCKEHRAQALRALLLAHKKKAGLASPEEEDAVGKEPLKAAPKKRQLLDSDEEQEEDEGRNRAPELGAPGIQKKKRYQIEDDEDD
+PTM	Acetylation:288,299,1085,1142;Glycosylation:306;Methylation:102,305,441,647,776,795,813,1066,1158;Phosphorylation:41,105,116,120,126,281,282,307,308,309,329,431,763,768,772,809,823,953,962,1074,1087,1089,1121,1149,1173;SUMOylation:36,950,1085,1106,1114;Ubiquitylation:288,299,313,427,528,1085,1106

@@ -1,0 +1,25 @@
+UniprotID	P13612-2
+Accession	P13612;D3DPG4;Q7Z4L6
+EntryName	ITA4_HUMAN
+ProteinName	Integrin alpha-4 (CD49 antigen-like family member D) (Integrin alpha-IV) (VLA-4 subunit alpha) (CD antigen CD49d)
+GeneName	ITGA4 CD49D
+Length	195
+Function	Integrins alpha-4/beta-1 (VLA-4) and alpha-4/beta-7 are receptors for fibronectin. They recognize one or more domains within the alternatively spliced CS-1 and CS-5 regions of fibronectin. They are also receptors for VCAM1. Integrin alpha-4/beta-1 recognizes the sequence Q-I-D-S in VCAM1. Integrin alpha-4/beta-7 is also a receptor for MADCAM1. It recognizes the sequence L-D-T in MADCAM1. On activated endothelial cells integrin VLA-4 triggers homotypic aggregation for most VLA-4-positive leukocyte cell lines. It may also participate in cytolytic T-cell interactions with target cells. ITGA4:ITGB1 binds to fractalkine (CX3CL1) and may act as its coreceptor in CX3CR1-dependent fractalkine signaling (PubMed:23125415). ITGA4:ITGB1 binds to PLA2G2A via a site (site 2) which is distinct from the classical ligand-binding site (site 1) and this induces integrin conformational changes and enhanced ligand binding to site 1 (PubMed:18635536, PubMed:25398877). Integrin ITGA4:ITGB1 represses PRKCA-mediated L-type voltage-gated channel Ca(2+) influx and ROCK-mediated calcium sensitivity in vascular smooth muscle cells via its interaction with SVEP1, thereby inhibiting vasocontraction (PubMed:35802072).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWEARREPGPRRAAVRETVMLLLCLGVPTGRPYNVDTESALLYQGPHNTLFGYSVVLHSHGANRWLLVGAPTANWLANASVINPGAIYRCRIGKNPGQTCEQLQLGSPNGEPCGKTCLEERDNQWLGVTLSRQPGENGSIVTCGHRWKNIFYIKNENKLPTGGCYGVPPDLRTELSKRIAPCYQGSISKYRART
+PTM	Glycosylation:138,645;Methylation:425,694,760,874,935,955,1006;Phosphorylation:332,909,914,1011,1021,1023,1024,1027;SUMOylation:155

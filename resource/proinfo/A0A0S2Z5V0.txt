@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z5V0
+Accession	A0A0S2Z5V0
+EntryName	A0A0S2Z5V0_HUMAN
+ProteinName	Protrudin (Zinc finger FYVE domain-containing protein 27)
+GeneName	ZFYVE27
+Length	336
+Function	
+Subcellular Location	Cell projection; Growth cone membrane; Endoplasmic reticulum membrane; Recycling endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLCSLLTCLGLNVLFLTLNEGAWYSVGALMISVPALLGYLQEVCRARLPDSELMRRKYHSVRQEDLQRGRLSRPEAVAEVKSFLIQLEAFLSRLCCTCEAAYRVLHWENPVVSSQFYGALLGTVCMLYLLPLCWVLTLLNSTLFLGNVEFFRVVSEYRASLQQRMNPKQEEHAFESPPPPDVGGKDGLMDSTPALTPTEDLTPGSVEEAEEAEPDEEFKDAIEEDDEGAPCPAEDELALQDNGFLSKNEVLRSKVSRLTERLRKRYPTNNFGNCTGCSATFSVLKKRRSCSNCGNSFCSRCCSFKVPKSSMGATAPEAQRETVFVCASCNQTLSK
+PTM	

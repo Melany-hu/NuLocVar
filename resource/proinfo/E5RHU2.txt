@@ -1,0 +1,25 @@
+UniprotID	E5RHU2
+Accession	E5RHU2
+EntryName	E5RHU2_HUMAN
+ProteinName	Pentatricopeptide repeat domain 2
+GeneName	PTCD2
+Length	93
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRDSMAAAFRPSNRVLLQALQILVYPGVGGSGSVSCRCPLGAKRYLLTDNVVKLKEFQQKKVAVACNLSGTKGTMQRTKISLWGSINLDRFL
+PTM	

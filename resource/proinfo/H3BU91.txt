@@ -1,0 +1,25 @@
+UniprotID	H3BU91
+Accession	H3BU91
+EntryName	H3BU91_HUMAN
+ProteinName	RNA pseudouridine synthase domain containing 1
+GeneName	RPUSD1
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPGSVENLSIVYRSRDFLVVNKHWDVRIDSKAWRETLTLQKQLRYRFPELADPDTCYGFRFCHQLDFSTSGALCVALNKAAAGSAYRCFKERRVTKAYLALVRPAAGAHPGEPGNHQPCHWQEQHGGPGPHHVHRGLAGL
+PTM	

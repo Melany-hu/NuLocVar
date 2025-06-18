@@ -1,0 +1,25 @@
+UniprotID	H7C123
+Accession	H7C123
+EntryName	H7C123_HUMAN
+ProteinName	Ribosomal protein L10
+GeneName	RPL10
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LHPFHVIRINKMLSCAGADRLQTGMRGAFGKPQGTVARVHIGQVIMSIRTKLQNKEHVIEALRRAKFKFPGRQKGAPIPAQTSLSPSLPHP
+PTM	

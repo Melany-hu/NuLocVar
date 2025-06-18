@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRX0
+Accession	A0A1W2PRX0
+EntryName	A0A1W2PRX0_HUMAN
+ProteinName	Ubiquitin specific peptidase 21
+GeneName	USP21
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKERRNPASGPNPMLRPLPPRPGLPDERLKKLELGRGRTSGPRPRGPLRADHGVPLPGSPPPTVALPLPSRTNLARSKGLSWTPYPVQHTDRAPCFPWLLPHDIRPVL
+PTM	

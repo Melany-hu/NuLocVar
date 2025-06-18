@@ -1,0 +1,25 @@
+UniprotID	A0A2R8Y553
+Accession	A0A2R8Y553
+EntryName	A0A2R8Y553_HUMAN
+ProteinName	Mitochondrial glycine transporter (Solute carrier family 25 member 38)
+GeneName	SLC25A38
+Length	287
+Function	Mitochondrial glycine transporter that imports glycine into the mitochondrial matrix. Plays an important role in providing glycine for the first enzymatic step in heme biosynthesis, the condensation of glycine with succinyl-CoA to produce 5-aminolevulinate (ALA) in the miochondrial matrix. Required during erythropoiesis.
+Subcellular Location	Membrane; Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCYLFRLHPVIKAFLCGSISGTCSTLLFQPLDLLKTRLQTLQPSDHGSRRVGMLAVLLKVVRTESLLGLWKGMSPSIVRCVPGVGIYFGTLYSLKQYFLRGHPPTALESVMLGVGSRSVAGVCMSPITVIKTRYESGKYGYESIYAALRSIYHSEGHRGLFSGLTATLLRDAPFSGIYLMFYNQTKNIVPHDQVDATLIPITNFSCGIFAGILASLVTQPADVIKTHMQLYPLKFQWIGQAVTLIFKDYGLRGFFQGGIPRALRRTLMAAMAWTVYEEMMAKMGLKS
+PTM	

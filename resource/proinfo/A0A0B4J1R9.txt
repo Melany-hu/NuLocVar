@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J1R9
+Accession	A0A0B4J1R9
+EntryName	A0A0B4J1R9_HUMAN
+ProteinName	Synaptonemal complex central element protein 1
+GeneName	SYCE1
+Length	318
+Function	Major component of the transverse central element of synaptonemal complexes (SCS), formed between homologous chromosomes during meiotic prophase. Requires SYCP1 in order to be incorporated into the central element. May have a role in the synaptonemal complex assembly, stabilization and recombination.
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGRSLTSKAEPTAGAVDRAEKAGGQDTSSQKIEDLMEMVQKLQKVGSLEPRVEVLINRINEVQQAKKKANKDLGEARTICEALQKELDSLHGEKVHLKEILSKKQETLRILRLHCQEKESEAHRKHTMLQECKERISALNLQIEEEKNKQRQLRLAFEEQLEDLMGQHKDLWDFHMPERLAKEICALDSSKEQLLKEEKLVKATLEDVKHQLCSLCGAEGPSTLDEGLFLRSQEAAATVQLFQEEHRKAEELLAAAAQRHQQLQQKCQQQQQKRQRLKEELEKHGMQVPAQAQSTQEEEAGPGDVAPRPGRPVTWWS
+PTM	

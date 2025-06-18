@@ -1,0 +1,25 @@
+UniprotID	Q16667-2
+Accession	Q16667;Q53ZU6;Q5U0M4;Q6P1N8;Q99585;Q9BPW7;Q9BY36;Q9C042;Q9C046;Q9C047;Q9C049;Q9C051;Q9C053
+EntryName	CDKN3_HUMAN
+ProteinName	Cyclin-dependent kinase inhibitor 3 (EC 3.1.3.16) (EC 3.1.3.48) (CDK2-associated dual-specificity phosphatase) (Cyclin-dependent kinase interactor 1) (Cyclin-dependent kinase-interacting protein 2) (Kinase-associated phosphatase)
+GeneName	CDKN3 CDI1 CIP2 KAP
+Length	172
+Function	May play a role in cell cycle regulation. Dual specificity CC phosphatase active toward substrates containing either phosphotyrosine or phosphoserine residues (PubMed:8127873, PubMed:8242750). Dephosphorylates CDK2 at 'Thr-160' in a cyclin-dependent manner (PubMed:7569954).
+Subcellular Location	Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPPSSIQTSCKFKDVRRNVQKDTEELKSCGIQDIFVFCTRGELSKYRVPNLLDLYQQCGIITHHHPIADGGTPDIASCCEIMEELTTCLKNYRKTLIHCYGGLGRSCLVAACLLLYLSDTISPEQAIDSLRDLRGSGAIQTIKQYNYLHEFRDKLAAHLSSRDSQSRSVSR
+PTM	Methylation:68,184;Phosphorylation:14,15,69,80;SUMOylation:68;Ubiquitylation:52,54,86,184

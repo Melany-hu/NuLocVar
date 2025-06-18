@@ -1,0 +1,25 @@
+UniprotID	A0A1X7SBU8
+Accession	A0A1X7SBU8
+EntryName	A0A1X7SBU8_HUMAN
+ProteinName	Golgi SNAP receptor complex member 2
+GeneName	GOSR2
+Length	194
+Function	Involved in transport of proteins from the cis/medial-Golgi to the trans-Golgi network.
+Subcellular Location	Golgi apparatus; cis-Golgi network membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPLFQQTHKQVHEIQSCMGRLETADKQSVHIENEIQASIDQIFSRLERLEILSSKEPPNKRQNARLRVDQLKYDVQHLQTALRNFQHRRHAREQQERQREELLSRTFTTNDSDTTIPMDESLQFNSSLQKVHNGMDDLILDGHNILDGLRTQRLTLKVGSLLGDREKASCFSLIQQFSNCVYILITCPQIVIF
+PTM	

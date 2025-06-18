@@ -1,0 +1,25 @@
+UniprotID	Q96AP4-2
+Accession	Q96AP4;Q5TD92;Q6PJH7;Q96NV6
+EntryName	ZUP1_HUMAN
+ProteinName	Zinc finger-containing ubiquitin peptidase 1 (EC 3.4.19.12) (Lys-63-specific deubiquitinase ZUFSP) (DUB) (Zinc finger with UFM1-specific peptidase domain protein)
+GeneName	ZUP1 C6orf113 ZUFSP
+Length	59
+Function	Deubiquitinase with endodeubiquitinase activity that specifically interacts with and cleaves 'Lys-63'-linked long polyubiquitin chains. Shows only weak activity against 'Lys-11' and 'Lys-48'-linked chains (PubMed:29476094, PubMed:29563501, PubMed:29576528). Plays an important role in genome stability pathways, functioning to prevent spontaneous DNA damage and also promote cellular survival in response to exogenous DNA damage (PubMed:29576527, PubMed:29576528). Modulates the ubiquitination status of replication protein A (RPA) complex proteins in response to replication stress (PubMed:29563501).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQKLLKQDIEASSLKQLRKSMGNLKHKQYQILAVEGALSLEEKLARRQASQVFTAEKIP
+PTM	Acetylation:262;Methylation:109,501,518,534,562;Phosphorylation:124,250;SUMOylation:76,114,143,247,276,383,481,502,525;Ubiquitylation:76,101,109,114,135,143,174,247,262,276,301,316,318,356,402,501,522,525,534,538,544

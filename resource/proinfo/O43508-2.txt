@@ -1,0 +1,25 @@
+UniprotID	O43508-2
+Accession	O43508;Q8IZK7;Q8WUZ7
+EntryName	TNF12_HUMAN
+ProteinName	Tumor necrosis factor ligand superfamily member 12 (APO3 ligand) (TNF-related weak inducer of apoptosis) (TWEAK) [Cleaved into: Tumor necrosis factor ligand superfamily member 12, membrane form; Tumor necrosis factor ligand superfamily member 12, secreted form]
+GeneName	TNFSF12 APO3L DR3LG UNQ181/PRO207
+Length	330
+Function	Binds to FN14 and possibly also to TNRFSF12/APO3. Weak inducer of apoptosis in some cell types. Mediates NF-kappa-B activation. Promotes angiogenesis and the proliferation of endothelial cells. Also involved in induction of inflammatory cytokines. Promotes IL8 secretion.
+Subcellular Location	Cell membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAARRSQRRRGRRGEPGTALLVPLALGLGLALACLGLLLAVVSLGSRASLSAQEPAQEELVAEEDQDPSELNPQTEESQDPAPFLNRLVRPRRSAPKGRKTRARRAIAAHYEVHPRPGQDGAQAGVDGTVSGWEEARINSSSPLRYNRQIGEFIVTRAGLYYLYCQSSDALEAWENGERSRKRRAVLTQKQKKQHSVLHLVPINATSKDDSDVTEVMWQPALRRGRGLQAQGYGVRIQDAGVYLLYSQVLFQDVTFTMGQVVSREGQGRQETLFRCIRSMPSHPDRAYNSCYSAGVFHLHQGDILSVIIPRARAKLNLSPHGTFLGFVKL
+PTM	Phosphorylation:223

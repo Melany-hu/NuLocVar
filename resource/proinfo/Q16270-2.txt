@@ -1,0 +1,25 @@
+UniprotID	Q16270-2
+Accession	Q16270;B4E1N2;B7Z9W7;Q07822;Q53YE6;Q9UCA8
+EntryName	IBP7_HUMAN
+ProteinName	Insulin-like growth factor-binding protein 7 (IBP-7) (IGF-binding protein 7) (IGFBP-7) (IGFBP-rP1) (MAC25 protein) (PGI2-stimulating factor) (Prostacyclin-stimulating factor) (Tumor-derived adhesion factor) (TAF)
+GeneName	IGFBP7 MAC25 PSF
+Length	279
+Function	Binds IGF1 and IGF2 with a relatively low affinity. Stimulates prostacyclin (PGI2) production. Stimulates cell adhesion. Acts as a ligand for CD93 to play a role in angiogenesis (PubMed:38218180).
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERPSLRALLLGAAGLLLLLLPLSSSSSSDTCGPCEPASCPPLPPLGCLLGETRDACGCCPMCARGEGEPCGGGGAGRGYCAPGMECVKSRKRRKGKAGAAAGGPGVSGVCVCKSRYPVCGSDGTTYPSGCQLRAASQRAESRGEKAITQVSKGTCEQGPSIVTPPKDIWNVTGAQVYLSCEVIGIPTPVLIWNKVKRGHYGVQRTELLPGDRDNLAIQTRGGPEKHEVTGWVLVSPLSKEDAGEYECHASNSQGQASASAKITVVDALHEIPVKKGTQ
+PTM	Glycosylation:252;Phosphorylation:149,236,239,260;SUMOylation:97,114,146,153,226,240

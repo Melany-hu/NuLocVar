@@ -1,0 +1,25 @@
+UniprotID	M0R2I7
+Accession	M0R2I7
+EntryName	M0R2I7_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoprotein M
+GeneName	HNRNPM
+Length	214
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIGSGVERMGAGMGFGLERMAAPIDRVGQTIERMGSGVERMGPAIERMGLSMERMVPAGMGAGLERMGPVMDRMATGLERMGANNLERMGLERMGANSLERMGLERMGANSLERMGPAMGPALGAGIERMGLAMGGGGGASFDRAIEMERGNFGGSFAGSFGGAGGHAPGVARKACQIFVRNLPFDFTWKMLKDKFNECEPERQVLHVSRNALV
+PTM	

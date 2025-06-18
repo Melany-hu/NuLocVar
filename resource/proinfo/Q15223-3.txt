@@ -1,0 +1,25 @@
+UniprotID	Q15223-3
+Accession	Q15223;O75465;Q2M3D3;Q9HBE6;Q9HBW2
+EntryName	NECT1_HUMAN
+ProteinName	Nectin-1 (Herpes virus entry mediator C) (Herpesvirus entry mediator C) (HveC) (Herpesvirus Ig-like receptor) (HIgR) (Nectin cell adhesion molecule 1) (Poliovirus receptor-related protein 1) (CD antigen CD111)
+GeneName	NECTIN1 HVEC PRR1 PVRL1
+Length	352
+Function	Cell adhesion molecule that promotes cell-cell contacts and plays important roles in the development of the nervous system (PubMed:21325282). Acts by forming homophilic or heterophilic trans-dimers (PubMed:21325282). Heterophilic interactions have been detected between NECTIN1 and NECTIN3 and between NECTIN1 and NECTIN4 (By similarity). Involved in axon guidance by promoting contacts between the commissural axons and the floor plate cells (By similarity). Involved in synaptogegesis (By similarity). Has some neurite outgrowth-promoting activity (By similarity). Promotes formation of checkerboard-like cellular pattern of hair cells and supporting cells in the auditory epithelium via heterophilic interaction with NECTIN3: NECTIN1 is present in the membrane of hair cells and associates with NECTIN3 on supporting cells, thereby mediating heterotypic adhesion between these two cell types (By similarity). Required for enamel mineralization (By similarity).
+Subcellular Location	Cell membrane; Cell junction; Adherens junction; Presynaptic cell membrane; Cell membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARMGLAGAAGRWWGLALGLTAFFLPGVHSQVVQVNDSMYGFIGTDVVLHCSFANPLPSVKITQVTWQKSTNGSKQNVAIYNPSMGVSVLAPYRERVEFLRPSFTDGTIRLSRLELEDEGVYICEFATFPTGNRESQLNLTVMAKPTNWIEGTQAVLRAKKGQDDKVLVATCTSANGKPPSVVSWETRLKGEAEYQEIRNPNGTVTVISRYRLVPSREAHQQSLACIVNYHMDRFKESLTLNVQYEPEVTIEGFDGNWYLQRMDVKLTCKADANPPATEYHWTTLNGSLPKGVEAQNRTLFFKGPINYSLAGTYICEATNPIGTRSGQVEVNITAFCQLIYPGKGRTRARMF
+PTM	Glycosylation:139,202,286,297,339;Phosphorylation:418,422,434,435,436,468,470,503,508,511;Ubiquitylation:190,386,452,465

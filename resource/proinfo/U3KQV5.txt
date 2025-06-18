@@ -1,0 +1,25 @@
+UniprotID	U3KQV5
+Accession	U3KQV5
+EntryName	U3KQV5_HUMAN
+ProteinName	Granzyme M
+GeneName	GZMM
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLQRNGSHLCGGVLVHPKWVLTAAHCLAQRMAQLRLVLGLHTLDSPGLTFHIKAAIQHPRYKPVPALENDLALLQLDGKVKPSRTIRPLALPSKRQVVAAGTRCSMAGWGLTHQGGRLSRVLRELDLQVLDTRMCNNSRFWNGSLSPSMVCLAADSKDQAPCKGDSGGPLVCGKGRVLARVLSFSSRVCTDIFKPPVATAVAPYVSWIRKVTGRSA
+PTM	

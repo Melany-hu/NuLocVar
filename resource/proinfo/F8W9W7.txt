@@ -1,0 +1,25 @@
+UniprotID	F8W9W7
+Accession	F8W9W7
+EntryName	F8W9W7_HUMAN
+ProteinName	SREBF chaperone
+GeneName	SCAP
+Length	165
+Function	
+Subcellular Location	Endomembrane system; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLTERLREKISRAFYNHGLLCASYPIPIILFTGFCILACCYPLLKLPLPGTGPVEFTTPVKDYSPPPVDSDRKQGEPTEQPEWRDFPLPCGGYWVRECVGAHQVCGLNPGRPGGEAADRPRPKQRELVHHEEHGHGAGHHPHRLLHPSARHPGVLSLCCRGAGV
+PTM	

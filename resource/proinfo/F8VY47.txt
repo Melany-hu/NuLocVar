@@ -1,0 +1,25 @@
+UniprotID	F8VY47
+Accession	F8VY47
+EntryName	F8VY47_HUMAN
+ProteinName	Gastrulation brain homeobox 2
+GeneName	GBX2
+Length	222
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAAFPPSLMMMQRPLGSSTAFSIDSLIGSPPQPSPGHFVYTGYPMFMPYRPVVLPPPPPPPPALPQAALQPALPPAHPHHQIPSLPTGFCSSLAQGMALTSTLMATLPGGFSASPQHQEAAAARKFAPQPLPGGGNFDKAEALQADAEDGKGFLAKEGSLLAFSAAETVQASLGRLCRSAVTWGSGRGCPRARERRVKGGRRPEGQGGELLAGERCGLQLG
+PTM	

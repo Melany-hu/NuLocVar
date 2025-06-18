@@ -1,0 +1,25 @@
+UniprotID	Q5T8V1
+Accession	Q5T8V1
+EntryName	Q5T8V1_HUMAN
+ProteinName	carnosine N-methyltransferase (EC 2.1.1.22)
+GeneName	CARNMT1
+Length	238
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VLRLQLESDRHDLLRSTSMHERVNRTERQFRSLPANQQKLLPQFLLHLDKIRKCIDHNQEILLTIVNDCIHMFENKEYGEDGNGKIMPASTFDMDKLKSTLKQFVRDWSETGKAERDACYQPIIKEILKNFPKERWDPSKVNILVPGAGLGRLAWEIAMLGYACQGNEWSFFMLFSSNFVLNRCSEINKYKLYPWIHQFSNNRRSADQIRPIFFPDVDPHSLPPGSNFSMTAGDFQEI
+PTM	

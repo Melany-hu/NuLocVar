@@ -1,0 +1,25 @@
+UniprotID	A1A4Y4-4
+Accession	A1A4Y4;B3VEX0;H0YBM2
+EntryName	IRGM_HUMAN
+ProteinName	Immunity-related GTPase family M protein (EC 3.6.5.-) (Immunity-related GTPase family M protein 1) (Interferon-inducible protein 1) (LPS-stimulated RAW 264.7 macrophage protein 47 homolog) (LRG-47)
+GeneName	IRGM IFI1 IRGM1 LRG47
+Length	202
+Function	Immunity-related GTPase that plays important roles in innate immunity and inflammatory response (PubMed:16888103, PubMed:19165925, PubMed:25891078). Acts as a dynamin-like protein that binds to intracellular membranes and promotes remodeling and trafficking of those membranes (By similarity). Required for clearance of acute protozoan and bacterial infections by interacting with autophagy and lysosome regulatory proteins, thereby promoting the fusion of phagosomes with lysosomes for efficient degradation of cargo including microbes (PubMed:16888103, PubMed:25891078, PubMed:29420192, PubMed:32939830). Regulates selective autophagy, including xenophagy and mitophagy, both directly and indirectly (PubMed:16888103, PubMed:25891078, PubMed:29420192, PubMed:32939830). Directly regulates autophagy by acting as a molecular adapter that promotes the coassembly of the core autophagy machinery to mediate antimicrobial defense: IRGM (1) activates AMPK, which in turn phosphorylates ULK1 and BECN1 to induce autophagy, (2) promotes the coassembly of ULK1 and BECN1, enhancing BECN1-interacting partners and (3) influences the composition of the BECN1 complex, by competing with the negative regulators BCL2 and RUBCN, to trigger autophagy (PubMed:25891078). Also activates autophagy by promoting recruitment of STX17 to autophagosomes (PubMed:29420192). In collaboration with ATG8 proteins, regulate lysosomal biogenesis, a fundamental process for any autophagic pathway, by promoting TFEB dephosphorylation (PubMed:32753672). Also modulates autophagy by assisting with autophagosome formation and preventing lysosomal deacidification (By similarity). While activating autophagy, acts as a key negative regulator of the inflammatory and interferon responses both by (1) promoting mitophagy and (2) mediating autophagy-dependent degradation of effectors of the inflammatory response (PubMed:30612879, PubMed:32715615, PubMed:36221902). Promotes degradation of damaged and IFNG/IFN-gamma-stressed mitochondria via mitophagy, preventing cytosolic release of ligands that activate inflammation (PubMed:32715615). Acts as a suppressor of inflammation by promoting recruitment of inflammation effectors, such as CGAS, RIGI/RIG-I and NLRP3, to autophagosome membranes, leading to their SQSTM1/p62-dependent autophagic degradation (PubMed:30612879, PubMed:32715615). Also directly inhibits assembly of the NLRP3 inflammasome by preventing the association between NLRP3 and PYCARD (PubMed:30612879). Acts as a negative regulator of antiviral innate immune response by suppressing the RIPK2-dependent pro-inflammatory response: mediates recruitment of RIPosomes, composed of RIPK2 and NOD1 or NOD2, to autophagosome membranes, promoting their SQSTM1/p62-dependent autophagic degradation (PubMed:34467632, PubMed:36221902).
+Subcellular Location	Golgi apparatus membrane; Cell membrane; Cytoplasmic vesicle; Phagosome membrane; Cytoplasmic vesicle; Autophagosome membrane; Lysosome membrane; Late endosome membrane; Mitochondrion membrane; Cell projection; Phagocytic cup; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAMNVEKASADGNLPEVISNIKETLKIVSRTPVNITMAGDSGNGMSTFISALRNTGHEGKASPPTELVKATQRCASYFSSHFSNVVLWDLPGTGSATTTLENYLMEMQFNRYDFIMVASAQFSMNHVMLAKTAEDMGKKFYIVWTKLDMDLSTGALPEVQLLQIRENVLENLQKERLACHEKYLKSTPENSTRPRNINLCS
+PTM	Methylation:27,70

@@ -1,0 +1,25 @@
+UniprotID	U3KQ85
+Accession	U3KQ85
+EntryName	U3KQ85_HUMAN
+ProteinName	Protein C10
+GeneName	C12orf57
+Length	91
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEARDNACNDMGKMLQFVLPVATQIQQEVIKAYGFSCDGEGVLKFARLVKSYEAQDPEIASLSGKLKALFLPPMTLPPHGPAAGGSVAAS
+PTM	

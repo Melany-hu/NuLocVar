@@ -1,0 +1,25 @@
+UniprotID	Q86VI7
+Accession	Q86VI7
+EntryName	Q86VI7_HUMAN
+ProteinName	Kallikrein 13 splicing variant 2 (Kallikrein 13, isoform CRA_c) (Kallikrein related peptidase 13)
+GeneName	KLK13 hCG_1642271
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPLALVIASLTLALSGGVSQESSKVLNTNGTSGFLPGGYTCFPHSQPWQAALLVQGRLLCGGVLVHPKWVLTAAHCLKEGLKVYLGKHALGRVEAVNYPKTLQCANIQLRSDEECRQVYPGKITDNMLCAGTKEGGKDSCEGDSGGPLVCNRTLYGIVSWGDFPCGQPDRPGVYTRVSRYVLWIRETIRKYETQQQKWLKGPQ
+PTM	

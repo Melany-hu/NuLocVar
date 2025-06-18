@@ -1,0 +1,25 @@
+UniprotID	K7EMR3
+Accession	K7EMR3
+EntryName	K7EMR3_HUMAN
+ProteinName	Methyltransferase 23, arginine
+GeneName	METTL23
+Length	79
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNNLPHLQVVGLTWGHISWDLLALPPQDIILASDVFFEPEDFEDILATIYFLMHKNPKVQLWSTYQVRRQVWMTLTFYM
+PTM	

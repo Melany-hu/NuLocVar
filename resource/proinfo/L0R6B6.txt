@@ -1,0 +1,25 @@
+UniprotID	L0R6B6
+Accession	L0R6B6
+EntryName	L0R6B6_HUMAN
+ProteinName	Alternative protein A2M
+GeneName	A2M
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPCFAWSQPGRQHKKGTMAAMYIPKHCWPMLLPWQVTRTRGRKYSSHLMRKL
+PTM	

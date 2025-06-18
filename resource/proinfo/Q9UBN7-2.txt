@@ -1,0 +1,25 @@
+UniprotID	Q9UBN7-2
+Accession	Q9UBN7;O94975;Q6NT75;Q7L3E5;Q96CY0
+EntryName	HDAC6_HUMAN
+ProteinName	Protein deacetylase HDAC6 (EC 3.5.1.-) (E3 ubiquitin-protein ligase HDAC6) (EC 2.3.2.-) (Tubulin-lysine deacetylase HDAC6) (EC 3.5.1.-)
+GeneName	HDAC6 KIAA0901 JM21
+Length	1063
+Function	Deacetylates a wide range of non-histone substrates (PubMed:12024216, PubMed:18606987, PubMed:20308065, PubMed:24882211, PubMed:26246421, PubMed:30538141, PubMed:31857589, PubMed:30770470, PubMed:38534334, PubMed:39567688). Plays a central role in microtubule-dependent cell motility by mediating deacetylation of tubulin (PubMed:12024216, PubMed:20308065, PubMed:26246421). Required for cilia disassembly via deacetylation of alpha-tubulin (PubMed:17604723, PubMed:26246421). Alpha-tubulin deacetylation results in destabilization of dynamic microtubules (By similarity). Promotes deacetylation of CTTN, leading to actin polymerization, promotion of autophagosome-lysosome fusion and completion of autophagy (PubMed:30538141). Deacetylates SQSTM1 (PubMed:31857589). Deacetylates peroxiredoxins PRDX1 and PRDX2, decreasing their reducing activity (PubMed:18606987). Deacetylates antiviral protein RIGI in the presence of viral mRNAs which is required for viral RNA detection by RIGI (By similarity). Sequentially deacetylates and polyubiquitinates DNA mismatch repair protein MSH2 which leads to MSH2 degradation, reducing cellular sensitivity to DNA-damaging agents and decreasing cellular DNA mismatch repair activities (PubMed:24882211). Deacetylates DNA mismatch repair protein MLH1 which prevents recruitment of the MutL alpha complex (formed by the MLH1-PMS2 heterodimer) to the MutS alpha complex (formed by the MSH2-MSH6 heterodimer), leading to tolerance of DNA damage (PubMed:30770470). Deacetylates RHOT1/MIRO1 which blocks mitochondrial transport and mediates axon growth inhibition (By similarity). Deacetylates transcription factor SP1 which leads to increased expression of ENG, positively regulating angiogenesis (PubMed:38534334). Deacetylates KHDRBS1/SAM68 which regulates alternative splicing by inhibiting the inclusion of CD44 alternate exons (PubMed:26080397). Acts as a valine sensor by binding to valine through the primate-specific SE14 repeat region (PubMed:39567688). In valine deprivation conditions, translocates from the cytoplasm to the nucleus where it deacetylates TET2 which promotes TET2-dependent DNA demethylation, leading to DNA damage (PubMed:39567688). Promotes odontoblast differentiation following IPO7-mediated nuclear import and subsequent repression of RUNX2 expression (By similarity). In addition to its protein deacetylase activity, plays a key role in the degradation of misfolded proteins: when misfolded proteins are too abundant to be degraded by the chaperone refolding system and the ubiquitin-proteasome, mediates the transport of misfolded proteins to a cytoplasmic juxtanuclear structure called aggresome (PubMed:17846173). Probably acts as an adapter that recognizes polyubiquitinated misfolded proteins and targets them to the aggresome, facilitating their clearance by autophagy (PubMed:17846173). Involved in the MTA1-mediated epigenetic regulation of ESR1 expression in breast cancer (PubMed:24413532).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Nucleus; Perikaryon; Cell projection; Dendrite; Cell projection; Axon; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	67..76
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METTQYMNEGELRVLADTYDSVYLHPNSYSCACLASGSVLRLVDAVLGAEIRNGMAIIRPPGHHAQHSLMDGYCMFNHVAVAARYAQQKHRIRRVLIVDWDVHHGQGTQFTFDQDPSVLYFSIHRYEQGRFWPHLKASNWSTTGFGQGQGYTINVPWNQVGMRDADYIAAFLHVLLPVALEFQPQLVLVAAGFDALQGDPKGEMAATPAGFAQLTHLLMGLAGGKLILSLEGGYNLRALAEGVSASLHTLLGDPCPMLESPGAPCRSAQASVSCALEALEPFWEVLVRSTETVERDNMEEDNVEESEEEGPWEPPVLPILTWPVLQSRTGLVYDQNMMNHCNLWDSHHPEVPQRILRIMCRLEELGLAGRCLTLTPRPATEAELLTCHSAEYVGHLRATEKMKTRELHRESSNFDSIYICPSTFACAQLATGAACRLVEAVLSGEVLNGAAVVRPPGHHAEQDAACGFCFFNSVAVAARHAQTISGHALRILIVDWDVHHGNGTQHMFEDDPSVLYVSLHRYDHGTFFPMGDEGASSQIGRAAGTGFTVNVAWNGPRMGDADYLAAWHRLVLPIAYEFNPELVLVSAGFDAARGDPLGGCQVSPEGYAHLTHLLMGLASGRIILILEGGYNLTSISESMAACTRSLLGDPPPLLTLPRPPLSGALASITETIQVHRRYWRSLRVMKVEDREGPSSSKLVTKKAPQPAKPRLAERMTTREKKVLEAGMGKVTSASFGEESTPGQTNSETAVVALTQDQPSEAATGGATLAQTISEAAIGGAMLGQTTSEEAVGGATPDQTTSEETVGGAILDQTTSEDAVGGATLGQTTSEEAVGGATLAQTTSEAAMEGATLDQTTSEEAPGGTELIQTPLASSTDHQTPPTSPVQGTTPQISPSTLIGSLRTLELGSESQGASESQAPGEENLLGEAAGGQDMADSMLMQGSRGLTDQAIFYAVTPLPWCPHLVAVCPIPAAGLDVTQPCGDCGTIQENWVCLSCYQVYCGRYINGHMLQHHGNSGHPLVLSYIDLSAWCYYCQAYVHHQALLDVKNIAHQNKFGEDMPHPH
+PTM	Acetylation:116,849,873,881;Methylation:1199;Phosphorylation:16,22,28,30,412,527,556,807,1052,1060,1152;Ubiquitylation:51,116,849,854

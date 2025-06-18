@@ -1,0 +1,25 @@
+UniprotID	A0A087WUX1
+Accession	A0A087WUX1
+EntryName	A0A087WUX1_HUMAN
+ProteinName	Enkurin, TRPC channel interacting protein
+GeneName	ENKUR
+Length	194
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTERVTGGGSPEKNFDRNVPKKPAVPLKTDHPVMGIQSGKNFINTNAADIIMGVAKKPKPIYVDKRTGDKHDLEPSGLVPKYINKKDYGVTPEYICKRNEEIKKAQEDYDRYIQENLKKAAMKRLSDEEREAVLQGLKKNWEEVHKEFQSLSVFIDSIPKKIRKQRLEEEMKQLEHDIGIIEKHKIIYIANNA
+PTM	

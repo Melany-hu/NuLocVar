@@ -1,0 +1,25 @@
+UniprotID	Q3ZCQ8-3
+Accession	Q3ZCQ8;Q330K1;Q6QA00;Q96FJ5;Q96GY2;Q9H370
+EntryName	TIM50_HUMAN
+ProteinName	Mitochondrial import inner membrane translocase subunit TIM50
+GeneName	TIMM50 TIM50 PRO1512
+Length	240
+Function	Essential component of the TIM23 complex, a complex that mediates the translocation of transit peptide-containing proteins across the mitochondrial inner membrane (PubMed:30190335, PubMed:38828998). Has some phosphatase activity in vitro; however such activity may not be relevant in vivo.
+Subcellular Location	Mitochondrion inner membrane; Nucleus speckle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPRFLMSSTMMIIEPTSPCLLPDPLQEPYYQPPYTLVLELTGVLLHPEWSLATGWRFKKRPGIETLFQQLAPLYEIVIFTSETGMTAFPLIDSVDPHGFISYRLFRDATRYMDGHHVKDISCLNRDPARVVVVDCKKEAFRLQPYNGVALRPWDGNSDDRVLLDLSAFLKTIALNGVEDVRTVLEHYALEDDPLAAFKQRQSRLEQEEQQRLAELSKSNKQNLFLGSLTSRLWPRSKQP
+PTM	Acetylation:64,232,250,284,312;Methylation:43,64,312;Phosphorylation:4,9,28,42,45,57,61,341,344;SUMOylation:250,312;Ubiquitylation:47,64,65,117,120,250,284,312,331,334

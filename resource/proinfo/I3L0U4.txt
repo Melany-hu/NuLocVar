@@ -1,0 +1,25 @@
+UniprotID	I3L0U4
+Accession	I3L0U4
+EntryName	I3L0U4_HUMAN
+ProteinName	Centrosomal protein 20
+GeneName	CEP20
+Length	124
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATVAELKADDDREPRPSLSHENLLINELIREYLEFNKYKYTASVLIAESGQPVVPLDRQFLIHELNAFEESKDNTIPLLYGILAHFLRGTKDGIQNAFLKGPSLQPSDPSLGRQPSRRKPMGM
+PTM	

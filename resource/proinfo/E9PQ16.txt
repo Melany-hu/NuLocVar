@@ -1,0 +1,25 @@
+UniprotID	E9PQ16
+Accession	E9PQ16
+EntryName	E9PQ16_HUMAN
+ProteinName	Solute carrier family 39 member 4
+GeneName	SLC39A4
+Length	184
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLVSLELGLLLAVLVVTATASPPAGLLSLLTSGQGALDQEALGGLLNTLADRVHCANGPCGKACVDIPQLLEEAVGAGAPGSAGGVLAALLDHVRSGSCFHALPSPQYFVDFVFQQHSSEVPMTLAELSALMQRLGVGREAHSDHSHRHRGASSRDPVPLISSSNSSSVWDTVCLSARDVMA
+PTM	

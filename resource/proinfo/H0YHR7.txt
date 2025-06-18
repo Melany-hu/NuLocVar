@@ -1,0 +1,25 @@
+UniprotID	H0YHR7
+Accession	H0YHR7
+EntryName	H0YHR7_HUMAN
+ProteinName	NUBP iron-sulfur cluster assembly factor, mitochondrial
+GeneName	NUBPL
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VSLRAGGGATAPLGGSRAMVCGRQLSGAGSETLKQRRTQIMSRGLPKQKPIEGVKQVIVVASGKGGVGKSTTAVNLALALAANDSSKAIGLLDVDVYGPSVPKMMNLKGNPELSQSISQRCCRSCSRPPQ
+PTM	

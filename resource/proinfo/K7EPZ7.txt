@@ -1,0 +1,25 @@
+UniprotID	K7EPZ7
+Accession	K7EPZ7
+EntryName	K7EPZ7_HUMAN
+ProteinName	Chromosome 1 open reading frame 127
+GeneName	C1orf127
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPSTQTLSLWAPTGVLLPSLVELEYPFQAGRGASLQQELTEPTLALSAESHRPPELQDSVEGLSERPSR
+PTM	

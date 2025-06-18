@@ -1,0 +1,25 @@
+UniprotID	Q5VY30
+Accession	Q5VY30
+EntryName	Q5VY30_HUMAN
+ProteinName	Retinol-binding protein
+GeneName	RBP4 hCG_37964
+Length	199
+Function	Retinol-binding protein that mediates retinol transport in blood plasma. Delivers retinol from the liver stores to the peripheral tissues. Transfers the bound all-trans retinol to STRA6, that then facilitates retinol transport across the cell membrane.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNYSKIPAQVDLRRQTERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYCDGRSERNLL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P29320-2
+Accession	P29320;Q9H2V3;Q9H2V4
+EntryName	EPHA3_HUMAN
+ProteinName	Ephrin type-A receptor 3 (EC 2.7.10.1) (EPH-like kinase 4) (EK4) (hEK4) (HEK) (Human embryo kinase) (Tyrosine-protein kinase TYRO4) (Tyrosine-protein kinase receptor ETK1) (Eph-like tyrosine kinase 1)
+GeneName	EPHA3 ETK ETK1 HEK TYRO4
+Length	539
+Function	Receptor tyrosine kinase which binds promiscuously membrane-bound ephrin family ligands residing on adjacent cells, leading to contact-dependent bidirectional signaling into neighboring cells. The signaling pathway downstream of the receptor is referred to as forward signaling while the signaling pathway downstream of the ephrin ligand is referred to as reverse signaling. Highly promiscuous for ephrin-A ligands it binds preferentially EFNA5. Upon activation by EFNA5 regulates cell-cell adhesion, cytoskeletal organization and cell migration. Plays a role in cardiac cells migration and differentiation and regulates the formation of the atrioventricular canal and septum during development probably through activation by EFNA1. Involved in the retinotectal mapping of neurons. May also control the segregation but not the guidance of motor and sensory axons during neuromuscular circuit development.
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDCQLSILLLLSCSVLDSFGELIPQPSNEVNLLDSKTIQGELGWISYPSHGWEEISGVDEHYTPIRTYQVCNVMDHSQNNWLRTNWVPRNSAQKIYVELKFTLRDCNSIPLVLGTCKETFNLYYMESDDDHGVKFREHQFTKIDTIAADESFTQMDLGDRILKLNTEIREVGPVNKKGFYLAFQDVGACVALVSVRVYFKKCPFTVKNLAMFPDTVPMDSQSLVEVRGSCVNNSKEEDPPRMYCSTEGEWLVPIGKCSCNAGYEERGFMCQACRPGFYKALDGNMKCAKCPPHSSTQEDGSMNCRCENNYFRADKDPPSMACTRPPSSPRNVISNINETSVILDWSWPLDTGGRKDVTFNIICKKCGWNIKQCEPCSPNVRFLPRQFGLTNTTVTVTDLLAHTNYTFEIDAVNGVSELSSPPRQFAAVSITTNQAAPSPVLTIKKDRTSRNSISLSWQEPEHPNGIILDYEVKYYEKQEQETSYTILRARGTNVTISSLKPDTIYVFQIRARTAAGYGTNSRKFEFETSPDCMYYFNAV
+PTM	Glycosylation:232;Methylation:100,444,761,835,880;Phosphorylation:102,323,327,328,497,498,595,596,601,602,606,622,644,706,709,763,779,780,781,906,974,976

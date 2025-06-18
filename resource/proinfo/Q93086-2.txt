@@ -1,0 +1,25 @@
+UniprotID	Q93086-2
+Accession	Q93086;A0A8V8TLD3;G5E981;O43450;O75540;Q308M5;Q59F38;Q8IXW4;Q93087;Q9NZV0
+EntryName	P2RX5_HUMAN
+ProteinName	P2X purinoceptor 5 (P2X5) (ATP receptor) (Purinergic receptor)
+GeneName	P2RX5 P2X5 P2X5FL
+Length	397
+Function	ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium (PubMed:12761352). Unlike, other P2RX receptors, the P2X5 receptor is also permeable to chloride (PubMed:12761352). May play a supporting role in the inflammatory response (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQAGCKGLCLSLFDYKTEKYVIAKNKKVGLLYRLLQASILAYLVVWVFLIKKGYQDVDTSLQSAVITKVKGVAFTNTSDLGQRIWDVADYVIPAQNEGIPDGACSKDSDCHAGEAVTAGNGVKTGRCLRRENLARGTCEIFAWCPLETSSRPEEPFLKEAEDFTIFIKNHIRFPKFNFSNNVMDVKDRSFLKSCHFGPKNHYCPIFRLGSVIRWAGSDFQDIALEGGVIGINIEWNCDLDKAASECHPHYSFSRLDNKLSKSVSSGYNFRFARYYRDAAGVEFRTLMKAYGIRFDVMVNGKGAFFCDLVLIYLIKKREFYRDKKYEEVRGLEDSSQEAEDEASGLGLSEQLTSGPGLLGMPEQQELQEPPEAKRGSSSQKGNGSVCPQLLEPHRST
+PTM	Glycosylation:77;Methylation:148,218,267,284,341;Phosphorylation:55,204,215;Ubiquitylation:20,25,71,148,193,287,399

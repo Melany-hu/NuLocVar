@@ -1,0 +1,25 @@
+UniprotID	A0A2U3TZU2
+Accession	A0A2U3TZU2
+EntryName	A0A2U3TZU2_HUMAN
+ProteinName	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+GeneName	GPI
+Length	597
+Function	In the cytoplasm, catalyzes the conversion of glucose-6-phosphate to fructose-6-phosphate, the second step in glycolysis, and the reverse reaction during gluconeogenesis. Besides it's role as a glycolytic enzyme, also acts as a secreted cytokine: acts as an angiogenic factor (AMF) that stimulates endothelial cell motility. Acts as a neurotrophic factor, neuroleukin, for spinal and sensory neurons. It is secreted by lectin-stimulated T-cells and induces immunoglobulin secretion.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVALCSLQHLGSSDPRALPTLPTATSGQRPAKRRRKSPAMAALTRDPQFQKLQQWYREHRSELNLRRLFDANKDRFNHFSLTLNTNHGHILVDYSKNLVTEDVMRMLVDLAKSRGVEAARERMFNGEKINYTEGRAVLHVALRNRSNTPILVDGKDVMPEVNKVLDKMKSFCQRVRSGDWKGYTGKTITDVINIGIGGSDLGPLMVTEALKPYSSGGPRVWYVSNIDGTHIAKTLAQLNPESSLFIIASKTFTTQETITNAETAKEWFLQAAKDPSAVAKHFVALSTNTTKVKEFGIDPQNMFEFWDWVGGRYSLWSAIGLSIALHVGFDNFEQLLSGAHWMDQHFRTTPLEKNAPVLLALLGIWYINCFGCETHAMLPYDQYLHRFAAYFQQGDMESNGKYITKSGTRVDHQTGPIVWGEPGTNGQHAFYQLIHQGTKMIPCDFLIPVQTQHPIRKGLHHKILLANFLAQTEALMRGKSTEEARKELQAAGKSPEDLERLLPHKVFEGNRPTNSIVFTKLTPFMLGALVAMYEHKIFVQGIIWDINSFDQWGVELGKQLAKKIEPELDGSAQVTSHDASTNGLINFIKQQREARVQ
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQQ9
+Accession	A0A8V8TQQ9
+EntryName	A0A8V8TQQ9_HUMAN
+ProteinName	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyldiphosphate specific] (EC 2.5.1.87)
+GeneName	DHDDS
+Length	100
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWIKEGELSLWERFCANIIKAGPMPKHIAFIMDGNRRYAKKCQVERQEGHSQGFNKLAEPPCKGWIVIPYYSSLPSPLSDSAVVFEPGHPRGDSLRIQH
+PTM	

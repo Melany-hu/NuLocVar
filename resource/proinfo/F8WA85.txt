@@ -1,0 +1,25 @@
+UniprotID	F8WA85
+Accession	F8WA85
+EntryName	F8WA85_HUMAN
+ProteinName	Solute carrier family 25 member 17
+GeneName	SLC25A17
+Length	63
+Function	
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASVLSYESLVHAVAGAVGSVTAMTVFFPLDTARLRLQVDEKRKSKTTHMVLLEIIKEEGLSG
+PTM	

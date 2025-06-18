@@ -1,0 +1,25 @@
+UniprotID	Q9BRP4-3
+Accession	Q9BRP4;A6NDR5;B4DPB0;B7ZAS9;Q4G165;Q53HS9;Q7Z500;Q8TBU6;Q9HAB6
+EntryName	PAAF1_HUMAN
+ProteinName	Proteasomal ATPase-associated factor 1 (Protein G-16) (WD repeat-containing protein 71)
+GeneName	PAAF1 WDR71
+Length	277
+Function	Inhibits proteasome 26S assembly and proteolytic activity by impairing the association of the 19S regulatory complex with the 20S core. In case of HIV-1 infection, recruited by viral Tat to the HIV-1 promoter, where it promotes the recruitment of 19S regulatory complex through dissociation of the proteasome 26S. This presumably promotes provirus transcription efficiency. Protects SUPT6H from proteasomal degradation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKIWQASNGELRRVLEGHVFDVNCCRFFPSGLVVLSGGMDAQLKIWSAEDASCVVTFKGHKGGILDTAIVDRGRNVVSASRDGTARLWDCGRSACLGVLADCGSSINGVAVGAADNSINLGSPEQMPSEREVGTEAKMLLLAREDKKLQCLGLQSRQLVFLFIGSDAFNCCTFLSGFLLLAGTQDGNIYQLDVRSPRAPVQVIHRSGAPVLSLLSVRDGFIASQGDGSCFIVQQDLDYVTELTGADCDPVYKVATWEKQIYTCCRDGLVRRYQLSDL
+PTM	Acetylation:373;Methylation:64,127;Phosphorylation:84,122,182;Ubiquitylation:73,176,373

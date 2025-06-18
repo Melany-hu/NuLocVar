@@ -1,0 +1,25 @@
+UniprotID	F8WDL7
+Accession	F8WDL7
+EntryName	F8WDL7_HUMAN
+ProteinName	Nucleolus and neural progenitor protein
+GeneName	NEPRO
+Length	113
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVPPGLEPWNRVRIPKAGNRSAVTVQNPGAALDLCIAAVIKECHLVILSLKSQTLDAETDVLCAVLYSNHNRMGRHKPHLALKQVEQCLKRLKNMNLEGSIQDLFELFSSK
+PTM	

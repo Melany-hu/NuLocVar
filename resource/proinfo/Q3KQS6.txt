@@ -1,0 +1,25 @@
+UniprotID	Q3KQS6
+Accession	Q3KQS6
+EntryName	Q3KQS6_HUMAN
+ProteinName	MME protein (Membrane metallo-endopeptidase variant 2) (Membrane metalloendopeptidase)
+GeneName	MME
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKSESQMDITDINTPKPKKKQRWTPLEISLSVLVLLLTIIAVTMIALYATYDDGICKSSDCIKSGMVARAYNPRGRRIA
+PTM	

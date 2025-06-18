@@ -1,0 +1,25 @@
+UniprotID	A0A9L9PY40
+Accession	A0A9L9PY40
+EntryName	A0A9L9PY40_HUMAN
+ProteinName	Protein O-glucosyltransferase 3
+GeneName	POGLUT3
+Length	472
+Function	Protein glucosyltransferase that catalyzes the transfer of glucose from UDP-glucose to a serine residue within the consensus sequence peptide C-X-N-T-X-G-S-F-X-C. Can also catalyze the transfer of xylose from UDP-xylose but less efficiently. Specifically targets extracellular EGF repeats of proteins such as NOTCH1, NOTCH3, FBN1, FBN2 and LTBP1. May regulate the transport of NOTCH1 and NOTCH3 to the plasma membrane and thereby the Notch signaling pathway.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRLPRALLLQLRLALLVAAGAPEVLVSAPRSLVWGPGLQAAVVLPVRYFYLQAVNSEGQNLTRSPAGETPFKVVVKSLSPKELVRIHVPKPLDRNDGTFLMRYRMYETVDEGLKIEVLYGDEHVAQSPYILKGPVYHEYCECPEDPQAWQKTLSCPTKEPQIAKDFASFPSINLQQMLKEVPKRFGDERGAIVHYTILNNHVYRRSLGKYTDFKMFSDEILLSLTRKVLLPDLEFYVNLGDWPLEHRKVNGTPSPIPIISWCGSLDSRDVVLPTYDITHSMLEAMRGVTNDLLSIQGNTGPSWINKTERAFFRGRDSREERLQLVQLSKENPQLLDAGITGYFFFQEKEKELGKAKLMGFFDFFKYKYQVNVDGTVAAYRYPYLMLGDSLVLKQDSPYYEHFYMALEPWKHYVPIKRNLSDLLEKVKWAKKYAERQSSKPEVRDGMELVPQPEDSTAICQCHRKKPSREEL
+PTM	

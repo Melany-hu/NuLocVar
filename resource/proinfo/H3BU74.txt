@@ -1,0 +1,25 @@
+UniprotID	H3BU74
+Accession	H3BU74
+EntryName	H3BU74_HUMAN
+ProteinName	IQ motif containing K
+GeneName	IQCK
+Length	167
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPSHIVRLKPSCSTDSSFTRTPVPTVSLASRELPVSSWQVTEPSSKNLWEQICKEYEAEQPPFPEGYKVKQEPVITVAPVEEMLFHGFSAEHYFPVSHFTMISRTPCPQDKSETINPKTCSPKEYLETFIFPVLLPGMASLLHQAKKEKCFEIDCSPWHLSTPCQLS
+PTM	

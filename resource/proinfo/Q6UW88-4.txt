@@ -1,0 +1,25 @@
+UniprotID	Q6UW88-4
+Accession	Q6UW88;A1BMM3;A1BMM4;A1BMM5;A1BMM6;A1BMM7;A1BMM8;A8K090
+EntryName	EPGN_HUMAN
+ProteinName	Epigen (Epithelial mitogen) (EPG)
+GeneName	EPGN UNQ3072/PRO9904
+Length	103
+Function	Promotes the growth of epithelial cells. May stimulate the phosphorylation of EGFR and mitogen-activated protein kinases.
+Subcellular Location	Membrane; Membrane; Secreted; Secreted; Secreted; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALGVPISVYLLFNAMTALTEEAAVTVTPPITAQQGNWTVNKTEADNIEGPIALKFSHLCLEDHNSYCINGACAFHHELEKAICRCLKLKSPYNVCSGERRPL
+PTM	Methylation:55,81

@@ -1,0 +1,25 @@
+UniprotID	Q8TDQ7-5
+Accession	Q8TDQ7;B4DJF3;Q2VYF1;Q59EA7;Q8NCZ8;Q96BJ4;Q96NC6
+EntryName	GNPI2_HUMAN
+ProteinName	Glucosamine-6-phosphate deaminase 2 (GlcN6P deaminase 2) (EC 3.5.99.6) (Glucosamine-6-phosphate isomerase 2) (Glucosamine-6-phosphate isomerase SB52)
+GeneName	GNPDA2 GNP2
+Length	242
+Function	Catalyzes the reversible conversion of alpha-D-glucosamine 6-phosphate (GlcN-6P) into beta-D-fructose 6-phosphate (Fru-6P) and ammonium ion, a regulatory reaction step in de novo uridine diphosphate-N-acetyl-alpha-D-glucosamine (UDP-GlcNAc) biosynthesis via hexosamine pathway. Deamination is coupled to aldo-keto isomerization mediating the metabolic flux from UDP-GlcNAc toward Fru-6P. At high ammonium level can drive amination and isomerization of Fru-6P toward hexosamines and UDP-GlcNAc synthesis. Has a role in fine tuning the metabolic fluctuations of cytosolic UDP-GlcNAc and their effects on hyaluronan synthesis that occur during tissue remodeling.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLVILDNYDLASEWAAKYICNRIIQFKPGQDRYFTLGLPTGLPRNHPESYHSYMWNNFFKHIDIDPNNAHILDGNAADLQAECDAFENKIKEAGGIDLFVGGIGPDGHIAFNEPGSSLVSRTRLKTLAMDTILANAKYFDGDLSKVPTMALTVGVGTVMDAREVMILITGAHKAFALYKAIEEGVNHMWTVSAFQQHPRTIFVCDEDATLELRVKTVKYFKGLMHVHNKLVDPLFSMKDGN
+PTM	Acetylation:50;Methylation:124,172,180,214;Phosphorylation:36,49,62,151,152,155,157,187,204;Ubiquitylation:28,50,51,67,160,172

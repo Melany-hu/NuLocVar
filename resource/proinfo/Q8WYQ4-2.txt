@@ -1,0 +1,25 @@
+UniprotID	Q8WYQ4-2
+Accession	Q8WYQ4;Q6ICJ7
+EntryName	CV015_HUMAN
+ProteinName	Uncharacterized protein C22orf15 (Protein N27C7-3)
+GeneName	C22orf15
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLAEDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIISKVAQEGEDMASTRYESLLENLDDHYPELAGANRQQPSRTPLAESGIAEKLHQQEGQGP
+PTM	Methylation:72;Phosphorylation:69

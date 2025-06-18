@@ -1,0 +1,25 @@
+UniprotID	Q7Z3V4-3
+Accession	Q7Z3V4;A5D8Z3;Q05BX9;Q659F7;Q7Z7Q1;Q9BXZ4
+EntryName	UBE3B_HUMAN
+ProteinName	Ubiquitin-protein ligase E3B (EC 2.3.2.26) (HECT-type ubiquitin transferase E3B)
+GeneName	UBE3B
+Length	244
+Function	E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Ubiquitinates BCKDK and targets it for degradation, thereby regulating various metabolic processes (By similarity). Involved in the positive regulation of neurite branching in hippocampal neurons and the control of neuronal spine number and morphology, through the ubiquitination of PPP3CC (By similarity).
+Subcellular Location	Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFTLSQTSRAWFIDRARQAREERLVQKERERAAVVIQAHVRSFLCRSRLQRDIRREIDDFFKADDPESTKRSALCIFKIARKLLFLFRIKEDNERFEKLCRSILSSMDAENEPKVWYVSLACSKDLTLLWIQQIKNILWYCCDFLKQLKPEILQDSRLITLYLTMLVTFTDTSTWKILRGKGESLRPAMNHICANIMGHLNQHGFYSVLQCCDGLFPDLVSYAPHNNPVRWSVGRSWYDWQLSR
+PTM	Methylation:135,146,347,383,404,431,459,740,908,991,1023,1041;Phosphorylation:42,69,184,206,321,323,419,428,522,554,593,602,662,677,684,1020;Ubiquitylation:436,1047

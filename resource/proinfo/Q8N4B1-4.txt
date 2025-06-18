@@ -1,0 +1,25 @@
+UniprotID	Q8N4B1-4
+Accession	Q8N4B1;J3KP50;Q6PJL9;Q96MH8
+EntryName	SESQ1_HUMAN
+ProteinName	Sesquipedalian-1 (Ses1) (27 kDa inositol polyphosphate phosphatase-interacting protein A) (IPIP27A) (PH domain-containing endocytic trafficking adaptor 1)
+GeneName	PHETA1 FAM109A
+Length	262
+Function	Plays a role in endocytic trafficking. Required for receptor recycling from endosomes, both to the trans-Golgi network and the plasma membrane.
+Subcellular Location	Early endosome; Recycling endosome; Golgi apparatus; trans-Golgi network; Cytoplasmic vesicle; Clathrin-coated vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPGSPPGPAIATMKLNERSLAFYATCDAPVDNAGFLYKKGGRHAAYHRRWFVLRGNMLFYFEDAASREPVGVIILEGCTVELVEAAEEFAFAVRFAGTRARTYVLAAESQDAMEGWVKALSRASFDYLRLVVRELEQQLAAVRGGGGMALPQPQPQSLPLPPSLPSALAPVPSLPSAPAPVPALPLPRRPSALPPKENGCAVWSTEATFRPGPEPPPPPPRRRASAPHGPLDMAPFARLHECYGQEIRALRGQWLSSRVQP
+PTM	Acetylation:26;Phosphorylation:179,213

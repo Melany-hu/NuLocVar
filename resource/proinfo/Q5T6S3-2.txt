@@ -1,0 +1,25 @@
+UniprotID	Q5T6S3-2
+Accession	Q5T6S3;Q32NF2;Q5T6S4;Q6N038;Q8TBL6;Q9UFS9
+EntryName	PHF19_HUMAN
+ProteinName	PHD finger protein 19 (Polycomb-like protein 3) (hPCL3)
+GeneName	PHF19 PCL3
+Length	207
+Function	Polycomb group (PcG) protein that specifically binds histone H3 trimethylated at 'Lys-36' (H3K36me3) and recruits the PRC2 complex, thus enhancing PRC2 H3K27me3 methylation activity (PubMed:15563832, PubMed:18691976, PubMed:23104054, PubMed:23160351, PubMed:23228662, PubMed:23273982, PubMed:29499137, PubMed:31959557). Probably involved in the transition from an active state to a repressed state in embryonic stem cells: acts by binding to H3K36me3, a mark for transcriptional activation, and recruiting H3K36me3 histone demethylases RIOX1 or KDM2B, leading to demethylation of H3K36 and recruitment of the PRC2 complex that mediates H3K27me3 methylation, followed by de novo silencing (PubMed:23160351). Recruits the PRC2 complex to CpG islands and contributes to embryonic stem cell self-renewal. Also binds histone H3 dimethylated at 'Lys-36' (H3K36me2) (PubMed:23104054). Isoform 1 and isoform 2 inhibit transcription from an HSV-tk promoter (PubMed:15563832).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENRALDPGTRDSYGATSHLPNKGALAKVKNNFKDLMSKLTEGQYVLCRWTDGLYYLGKIKRVSSSKQSCLVTFEDNSKYWVLWKDIQHAGVPGEEPKCNICLGKTSGPLNEILICGKCGLGYHQQCHIPIAGSADQPLLTPWFCRRCIFALAVRVSLPSSPVPASPASSSGADQRLPSQSLSSKQKGHTWALETDSASATVLGQDL
+PTM	Methylation:39,476;Phosphorylation:10,13,45,366;SUMOylation:23,67,98,321,355,375,397,480;Ubiquitylation:67,554

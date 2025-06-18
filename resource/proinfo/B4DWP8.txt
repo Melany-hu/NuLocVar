@@ -1,0 +1,25 @@
+UniprotID	B4DWP8
+Accession	B4DWP8
+EntryName	B4DWP8_HUMAN
+ProteinName	Src homology 2 domain containing F, isoform CRA_a (cDNA FLJ54190, moderately similar to SH2 domain-containing adapter protein B)
+GeneName	SHF hCG_38999
+Length	239
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPYEAQKMMAEIRGSKETATQPLPLYDTPYEPEEDGATPEGEGAPWPRESRLPEDDERPPEEYDQPWEWKKERISKAFAAQFEGPEKSCLSPGREEKGRLPPRLSAGNPKSAKPLSMEPSSPLGEWTDPALPLENQVWYHGAISRTDAENLLRLCKEASYLVRNSETSKNDFSLSLKSSQGFMHMKLSRTKEHKYVLGQNSPPFSSVPEIVHHYASRKLPIKGAEHMSLLYPVAIRTL
+PTM	

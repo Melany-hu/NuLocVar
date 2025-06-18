@@ -1,0 +1,25 @@
+UniprotID	P41217-3
+Accession	P41217;B3KQI1;B4DLW9;D3DN65;Q6J2Q6;Q6PIQ4;Q8TB85;Q9H3J3
+EntryName	OX2G_HUMAN
+ProteinName	OX-2 membrane glycoprotein (CD antigen CD200)
+GeneName	CD200 MOX1 MOX2 My033
+Length	294
+Function	Costimulates T-cell proliferation. May regulate myeloid cell activity in a variety of tissues.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERLTLTRTIGGPLLTATLLGKTTINDYQVIRMPFSHLSTYSLVWVMAAVVLCTAQVQVVTQDEREQLYTPASLKCSLQNAQEALIVTWQKKKAVSPENMVTFSENHGVVIQPAYKDKINITQLGLQNSTITFWNITLEDEGCYMCLFNTFGFGKISGTACLTVYVQPIVSLHYKFSEDHLNITCSATARPAPMVFWKVPRSGIENSTVTLSHPNGTTSVTSILHIKDPKNQVGKEVICQVLHLGTVTDFKQTVNKGYWFSVPLLLSIVSLVILLVLISILLYWKRHRNQDREP
+PTM	Glycosylation:157,181,190;Methylation:202

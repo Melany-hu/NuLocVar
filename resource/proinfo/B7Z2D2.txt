@@ -1,0 +1,25 @@
+UniprotID	B7Z2D2
+Accession	B7Z2D2
+EntryName	B7Z2D2_HUMAN
+ProteinName	Centrosomal protein of 70 kDa
+GeneName	CEP70
+Length	445
+Function	Plays a role in the organization of both preexisting and nascent microtubules in interphase cells. During mitosis, required for the organization and orientation of the mitotic spindle.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTEVKCQHYKKKRTEQEETIASLQMEVCRLKKEEEDRIVTQNRVFAYLCKRVPHTVLDRQLLCLIDYYESKIRKIHTQRQYKEDESQSEEENDYRNLDASPTYKGLLMSLQNQLKESKSKIDALSSEKLNLQKDLETRPTQHELRLYKQQVKKLEKALKKNVKLQELINHKKAEDTEKKDEPSKYNQQQALIDQRYFQVLCSINSIIHNPRAPVIIYKQTKGGVQNFNKDLVQDCGFEHLVPVIEMWADQLTSLKDLYKSLKTLSAELVPWLNLKKQDENEGIKVEDLLFIVDTMLEEVENKEKDSNMPHFQTLQAIVSHFQKLFDVPSLNGVYPRMNEVYTRLGEMNNAVRNLQELLELDSSSSLCVLVSTVGKLCRLINEDVNEQVMQVLGPEDLQSIIYKLEEHEEFFPAFQAFTNDLLEILEIDDLDAIVPAVKKLKVLSY
+PTM	

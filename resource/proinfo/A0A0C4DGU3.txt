@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DGU3
+Accession	A0A0C4DGU3
+EntryName	A0A0C4DGU3_HUMAN
+ProteinName	Histocompatibility minor 13
+GeneName	HM13
+Length	143
+Function	
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSALSDPHNGSAEAGGPTNSTTRPPSTPEGIALAYGSLLLMALLPIFFGALRSVRCARGKNASDMPETITSRDAARFPIIASCTLLGLYLFFKIFSQEYINLLLSMYFFVLGILALSHTIRSEGISLQHLKQLSREPVQGLG
+PTM	

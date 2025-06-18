@@ -1,0 +1,25 @@
+UniprotID	E9PL59
+Accession	E9PL59
+EntryName	E9PL59_HUMAN
+ProteinName	Sphingomyelin phosphodiesterase 1
+GeneName	SMPD1
+Length	52
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVYWTGDIPAHDVWHQTRQDQLRALTTVTALVRKFLGPVPVYPAVGNHESTP
+PTM	

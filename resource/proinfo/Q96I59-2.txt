@@ -1,0 +1,25 @@
+UniprotID	Q96I59-2
+Accession	Q96I59;G3V178
+EntryName	SYNM_HUMAN
+ProteinName	Asparaginyl-tRNA synthetase (AsnRS) (NARS2) (EC 6.1.1.22) (Asparagine--tRNA ligase, mitochondrial)
+GeneName	NARS2
+Length	250
+Function	Mitochondrial aminoacyl-tRNA synthetase that catalyzes the specific attachment of the asparagine amino acid (aa) to the homologous transfer RNA (tRNA), further participating in protein synthesis (PubMed:25385316). The reaction occurs in a two steps: asparagine is first activated by ATP to form Asn-AMP and then transferred to the acceptor end of tRNA(Asn) (Probable).
+Subcellular Location	Mitochondrion matrix; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGAFTQVFTFGPTFRAENSQSRRHLAEFYMIEAEISFVDSLQDLMQVIEELFKATTMMVLSKCPEDVELCHKFIAPGQKDRLEHMLKNNFLIISYTEAVEILKQASQNFTFTPEWGADLRTEHEKYLVKHCGNIPVFVINYPLTLKPFYMRDNEDGPQHTVAAVDLLVPGVGELFGGGLREERYHFLEERLARSGLTEVYQWYLDLRRFGSVPHGGFGMGFERYLQCILGVDNIKDVIPFPRFPHSCLL
+PTM	Acetylation:111,124,300,353,357;Methylation:100,111,202,331,374;Phosphorylation:149,154,452;SUMOylation:111;Ubiquitylation:124,307,353,463

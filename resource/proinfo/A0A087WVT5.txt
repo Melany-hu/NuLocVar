@@ -1,0 +1,25 @@
+UniprotID	A0A087WVT5
+Accession	A0A087WVT5
+EntryName	A0A087WVT5_HUMAN
+ProteinName	Secretory carrier-associated membrane protein (Secretory carrier membrane protein)
+GeneName	SCAMP4
+Length	140
+Function	Probably involved in membrane protein trafficking.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFYCATLGVNLIACLAWWIGGGSGTNFGLAFVWLLLFTPCGYVCWFRPVYKAFRADSSFNFMAFFFIFGAQFVLTVIQAIGFSGWGACGWLSAIGFFQYSPGAAVVMLLPAIMFSVSAAMMAIAIMKVHRIYRGAGGSFQ
+PTM	

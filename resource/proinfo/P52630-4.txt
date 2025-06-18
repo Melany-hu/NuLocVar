@@ -1,0 +1,25 @@
+UniprotID	P52630-4
+Accession	P52630;B4DLC7;G3V2M6;Q16430;Q16431;Q9UDL4
+EntryName	STAT2_HUMAN
+ProteinName	Signal transducer and activator of transcription 2 (p113)
+GeneName	STAT2
+Length	847
+Function	Signal transducer and activator of transcription that mediates signaling by type I interferons (IFN-alpha and IFN-beta). Following type I IFN binding to cell surface receptors, Jak kinases (TYK2 and JAK1) are activated, leading to tyrosine phosphorylation of STAT1 and STAT2. The phosphorylated STATs dimerize, associate with IRF9/ISGF3G to form a complex termed ISGF3 transcription factor, that enters the nucleus. ISGF3 binds to the IFN stimulated response element (ISRE) to activate the transcription of interferon stimulated genes, which drive the cell in an antiviral state (PubMed:23391734, PubMed:9020188). In addition, also has a negative feedback regulatory role in the type I interferon signaling by recruiting USP18 to the type I IFN receptor subunit IFNAR2 thereby mitigating the response to type I IFNs (PubMed:28165510). Acts as a regulator of mitochondrial fission by modulating the phosphorylation of DNM1L at 'Ser-616' and 'Ser-637' which activate and inactivate the GTPase activity of DNM1L respectively (PubMed:23391734, PubMed:26122121, PubMed:9020188).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQWEMLQNLDSPFQDQLHQLYSHSLLPVDIRQYLAVWIEDQNWQEAALGSDDSKATMLFFHFLDQLNYECGRCSQDPESLLLQHNLRKFCRDIQDPTQLAEMIFNLLLEEKRILIQAQRAQLEQGEPVLETPVESQQHEIESRILDLRAMMEKLVKSISQLKDQQDVFCFRYKIQAKGKTPSLDPHQTKEQKILQETLNELDKRRKEVLDASKALLGRLTTLIELLLPKLEEWKAQQQKACIRAPIDHGLEQLETWFTAGAKLLFHLRQLLKELKGLSCLVSYQDDPLTKGVDLRNAQVTELLQRLLHRAFVVETQPCMPQTPHRPLILKTGSKFTVRTRLLVRLQEGNESLTVEVSIDRNPPQLQGFRKFNILTSNQKTLTPEKGQSQGLIWDFGYLTLVEQRSGGSGKGSNKGPLGVTEELHIISFTVKYTYQGLKQELKTDTLPVVIISNMNQLSIAWASVLWFNLLSPNLQNQQFFSNPPKAPWSLLGPALSWQFSSYVGRGLNSDQLSMLRNKLFGQNCRTEDPLLSWADFTKRESPPGKLPFWTWLDKILELVHDHLKDLWNDGRIMGFVSRSQERRLLKKTMSGTFLLRFSESSEGGITCSWVEHQDDDKVLIYSVQPYTKEVLQSLPLTEIIRHYQLLTEENIPENPLRFLYPRIPRDEAFGCYYQEKVNLQERRKYLKHRLIVVSNRQVDELQQPLELKPEPELESLELELGLVPEPELSLDLEPLLKAGLDLGPELESVLESTLEPVIEPTLCMVSQTVPEPDQGPVSQPVPEPDLPCDLRHLNTEPMEIFRNCVKIEEIMPNGDPLLAGQNTVDEVYVSRPSHFYTDGPLMPSDF
+PTM	Acetylation:218,277;Methylation:161,208,218,239,267,277,335,447,583;Phosphorylation:164,187,283,294,381,542,584,593,595,597,699,800;SUMOylation:197,211,443,713,811;Ubiquitylation:161,178,184,194,239,244,277,295,384,443,523,543,550,681

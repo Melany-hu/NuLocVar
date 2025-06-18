@@ -1,0 +1,25 @@
+UniprotID	H0YEJ0
+Accession	H0YEJ0
+EntryName	H0YEJ0_HUMAN
+ProteinName	Sterile alpha motif domain containing 12
+GeneName	SAMD12
+Length	161
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVEALHCGLNPRGIDHPAHAEGIKLQIEGEGVESQSIKNKNFQKVPDQKGTPKRLQAEAETAKSATVKLSKPVALWTQQDVCKWLKKHCPNQYQIYSESFKQHDITGRALLRLTDKKLERMGIAQENLRQHILQQVLQLKVREEVRNLQLLTQASSEGSP
+PTM	

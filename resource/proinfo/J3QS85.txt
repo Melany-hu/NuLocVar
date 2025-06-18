@@ -1,0 +1,25 @@
+UniprotID	J3QS85
+Accession	J3QS85
+EntryName	J3QS85_HUMAN
+ProteinName	COP9 signalosome subunit 3
+GeneName	COPS3
+Length	31
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASALEQFVNSVRQLSAQVLFLFSRANDTAL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F8VSF7
+Accession	F8VSF7
+EntryName	F8VSF7_HUMAN
+ProteinName	Phosphofructokinase, muscle
+GeneName	PFKM
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTHEEHHAAKTLGIGKAIAVLTSGGDAQGMNAAVRAVVRVGIFTGARVFFVHEGYQGLVDGGDHIKEATWESVSMMLQLLSSLKIHGQKFNMQCLVKALPRC
+PTM	

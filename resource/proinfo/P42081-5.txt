@@ -1,0 +1,25 @@
+UniprotID	P42081-5
+Accession	P42081;A0N0P0;B7Z2F3;B7Z702;E7ETN5;E9PC27;Q13655;Q6FHB1;Q6GTS4;Q7M4L5
+EntryName	CD86_HUMAN
+ProteinName	T-lymphocyte activation antigen CD86 (Activation B7-2 antigen) (B70) (BU63) (CTLA-4 counter-receptor B7.2) (FUN-1) (CD antigen CD86)
+GeneName	CD86 CD28LG2
+Length	217
+Function	Receptor involved in the costimulatory signal essential for T-lymphocyte proliferation and interleukin-2 production, by binding CD28 or CTLA-4 (PubMed:12196291). May play a critical role in the early events of T-cell activation and costimulation of naive T-cells, such as deciding between immunity and anergy that is made by T-cells within 24 hours after activation (PubMed:7527824). Also involved in the regulation of B cells function, plays a role in regulating the level of IgG(1) produced. Upon CD40 engagement, activates NF-kappa-B signaling pathway via phospholipase C and protein kinase C activation (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	162...166
+validnes_region	
+nesbase_region	
+Sequence	MDPQCTMGLSNILFVMAFLLSANFSQPEIVPISNITENVYINLTCSSIHGYPEPKKMSVLLRTKNSTIEYDGVMQKSQDNVTELYDVSISLSVSFPDVTSNMTIFCILETDKTRLLSSPFSIELEDPQPPPDHIPWITAVLPTVIICVMVFCLILWKWKKKKRPRNSYKCGTNTMEREESEQTKKREKIHIPERSDEAQRVFKSSKTSSCDKSDTCF
+PTM	Phosphorylation:108,286,316,317

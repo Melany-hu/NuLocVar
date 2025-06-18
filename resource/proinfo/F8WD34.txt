@@ -1,0 +1,25 @@
+UniprotID	F8WD34
+Accession	F8WD34
+EntryName	F8WD34_HUMAN
+ProteinName	Acetylcholinesterase (Yt blood group)
+GeneName	ACHE
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPPQCLLHTPSLASPLLLLLLWLLGGGVGAEGREDAELLVTVLRAPRCGTPTVS
+PTM	

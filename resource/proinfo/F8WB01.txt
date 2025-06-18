@@ -1,0 +1,25 @@
+UniprotID	F8WB01
+Accession	F8WB01
+EntryName	F8WB01_HUMAN
+ProteinName	F-box and leucine rich repeat protein 2
+GeneName	FBXL2
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVFSNNDEGLINKKLPKELLLRMLFSLLLNFTWSNPECTKYVHSIGLDSFCNVHSMGFLKDCCLYFLLSVVPAALYTRAS
+PTM	

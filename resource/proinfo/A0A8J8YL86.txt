@@ -1,0 +1,25 @@
+UniprotID	A0A8J8YL86
+Accession	A0A8J8YL86
+EntryName	A0A8J8YL86_HUMAN
+ProteinName	Nuclear factor 1
+GeneName	NFIX
+Length	403
+Function	Recognizes and binds the palindromic sequence 5'-TTGGCNNNNNGCCAA-3' present in viral and cellular promoters and in the origin of replication of adenovirus type 2. These proteins are individually capable of activating transcription and replication.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	278...283
+validnes_region	
+nesbase_region	
+Sequence	MGATEPGGDTSSDEFHPFIEALLPHVRAFSYTWFNLQARKRKYFKKHEKRMSKDEERAVKDELLGEKPEIKQKWASRLLAKLRKDIRPEFREDFVLTITGKKPPCCVLSNPDQKGKIRRIDCLRQADKVWRLDLVMVILFKGIPLESTDGERLYKSPQCSNPGLCVQPHHIGVTIKELDLYLAYFVHTPESGQSDSSNQQGDADIKPLPNGHLSFQDCFVTSGVWNVTELVRVSQTPVATASGPNFSLADLESPSYYNINQVTLGRRSITSPPSTSTTKRPKSIDDSEMESPVDDVFYPGTGRSPAAGSSQSSGWPNDVDAGSPRATASALHFPSTSIIQQSSPYFTHPTIRYHHHHGQDSLKEFVQFVCSDGSGQATGQHSQRQAPPLPTGLSASDPGTATF
+PTM	

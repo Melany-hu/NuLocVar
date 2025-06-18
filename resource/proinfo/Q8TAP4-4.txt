@@ -1,0 +1,25 @@
+UniprotID	Q8TAP4-4
+Accession	Q8TAP4;B4DG90;B4DH35;Q58A66;Q58A67;Q8N974;Q9UDD5
+EntryName	LMO3_HUMAN
+ProteinName	LIM domain only protein 3 (LMO-3) (Neuronal-specific transcription factor DAT1) (Rhombotin-3)
+GeneName	LMO3 RBTN3 RBTNL2 RHOM3
+Length	163
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLMEGGRAAAARNVSSIQMLSVQPDTKPKGCAGCNRKIKDRYLLKALDKYWHEDCLKCACCDCRLGEVGSTLYTKANLILCRRDYLRLFGVTGNCAACSKLIPAFEMVMRAKDNVYHLDCFACQLCNQRFCVGDKFFLKNNMILCQTDYEEGLMKEGYAPQVR
+PTM	Methylation:27,121;Phosphorylation:8

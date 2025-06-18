@@ -1,0 +1,25 @@
+UniprotID	Q6PJG6-2
+Accession	Q6PJG6;A4D200;C9JY24;Q8IW85;Q8IZ43;Q8WVR8;Q96IV9;Q9H7J8;Q9UFA3
+EntryName	BRAT1_HUMAN
+ProteinName	Integrator complex assembly factor BRAT1 (BRCA1-associated ATM activator 1) (BRCA1-associated protein required for ATM activation protein 1)
+GeneName	BRAT1 BAAT1 C7orf27
+Length	286
+Function	Component of a multiprotein complex required for the assembly of the RNA endonuclease module of the integrator complex (PubMed:39032489, PubMed:39032490). Associates with INTS9 and INTS11 in the cytoplasm and blocks the active site of INTS11 to inhibit the endonuclease activity of INTS11 before formation of the full integrator complex (PubMed:39032489, PubMed:39032490). Following dissociation of WDR73 of the complex, BRAT1 facilitates the nuclear import of the INTS9-INTS11 heterodimer (PubMed:39032489). In the nucleus, INTS4 is integrated to the INTS9-INTS11 heterodimer and BRAT1 is released from the mature RNA endonuclease module by inositol hexakisphosphate (InsP6) (PubMed:39032489). BRAT1 is also involved in DNA damage response; activates kinases ATM, SMC1A and PRKDC by modulating their phosphorylation status following ionizing radiation (IR) stress (PubMed:16452482, PubMed:22977523). Plays a role in regulating mitochondrial function and cell proliferation (PubMed:25070371). Required for protein stability of MTOR and MTOR-related proteins, and cell cycle progress by growth factors (PubMed:25657994).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPECAQLLPALCAVLVDPRQPVADDTCLEKLLDWFKTVTEGESSVVLLQEHPCLVELLSHVLKVQDLSSGVLSFSLRLAGTFAAQENCFQYLQQGELLPGLFGEPGPLGRATWAVPTVRSGWIQGLRSLAQHPSALRFLADHGAVDTIFSLQGDSSLFVASAASQLLVHVLALSMRGGAEGQPCLPGGDWPACAQKIMDHVEESLCSAATPKVTQALNVLTTTFGRCQSPWTEALWVRLSPRVACLLERDPIPAAHSFVDLLLCVARSGPRDAAGGPGWATVFLG
+PTM	Methylation:304,329,358,483;Phosphorylation:74,76,349,480,481,484,519,528,573,574,581,582,742,745,747,751,792;SUMOylation:31,797;Ubiquitylation:197,213,304,358,469,483,507,729,797

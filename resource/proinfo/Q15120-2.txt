@@ -1,0 +1,25 @@
+UniprotID	Q15120-2
+Accession	Q15120;B4DXG6
+EntryName	PDK3_HUMAN
+ProteinName	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial (EC 2.7.11.2) (Pyruvate dehydrogenase kinase isoform 3)
+GeneName	PDK3 PDHK3
+Length	415
+Function	Inhibits pyruvate dehydrogenase activity by phosphorylation of the E1 subunit PDHA1, and thereby regulates glucose metabolism and aerobic respiration. Can also phosphorylate PDHA2. Decreases glucose utilization and increases fat metabolism in response to prolonged fasting, and as adaptation to a high-fat diet. Plays a role in glucose homeostasis and in maintaining normal blood glucose levels in function of nutrient levels and under starvation. Plays a role in the generation of reactive oxygen species.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLFRWLLKQPVPKQIERYSRFSPSPLSIKQFLDFGRDNACEKTSYMFLRKELPVRLANTMREVNLLPDNLLNRPSVGLVQSWYMQSFLELLEYENKSPEDPQVLDNFLQVLIKVRNRHNDVVPTMAQGVIEYKEKFGFDPFISTNIQYFLDRFYTNRISFRMLINQHTLLFGGDTNPVHPKHIGSIDPTCNVADVVKDAYETAKMLCEQYYLVAPELEVEEFNAKAPDKPIQVVYVPSHLFHMLFELFKNSMRATVELYEDRKEGYPAVKTLVTLGKEDLSIKISDLGGGVPLRKIDRLFNYMYSTAPRPSLEPTRAAPLAGFGYGLPISRLYARYFQGDLKLYSMEGVGTDAVIYLKALSSESFERLPVFNKSAWRHYKTTPEADDWSNPSSEPRDASKYKAKQDKIKTNRTF
+PTM	Acetylation:43,278;Methylation:9,114,198,359;Phosphorylation:23,133,326

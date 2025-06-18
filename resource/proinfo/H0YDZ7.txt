@@ -1,0 +1,25 @@
+UniprotID	H0YDZ7
+Accession	H0YDZ7
+EntryName	H0YDZ7_HUMAN
+ProteinName	Guanine deaminase
+GeneName	GDA
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGCYLSAEELNVFHERGASIAHCPNSNLSLSSGFLNVLEVLKHEVKIGLGTDVAGGYSYSMLDAIRRAVMVSNILLINKVNEKSLTLKEVFRLATLGGSQALGLDGEIGNFEVGKEFDAILINPKASDSPIDLFYGDFFGDISEAVIQKFLYLGDDRNIEEVYVGGKQVVPFSSSV
+PTM	

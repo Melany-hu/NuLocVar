@@ -1,0 +1,25 @@
+UniprotID	V9GY96
+Accession	V9GY96
+EntryName	V9GY96_HUMAN
+ProteinName	Adenylosuccinate lyase
+GeneName	ADSL
+Length	57
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFTGRASQQVQRFLEEEVYPLLKPYESVMKVVTRFKMKKVQNEYEVKVSLPPSSPNM
+PTM	

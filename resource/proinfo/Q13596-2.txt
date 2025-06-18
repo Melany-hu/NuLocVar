@@ -1,0 +1,25 @@
+UniprotID	Q13596-2
+Accession	Q13596;A6NM19;A8K6T7;H0Y2M5;O60750;O60751;Q6ZRJ8
+EntryName	SNX1_HUMAN
+ProteinName	Sorting nexin-1
+GeneName	SNX1
+Length	457
+Function	Involved in several stages of intracellular trafficking. Interacts with membranes containing phosphatidylinositol 3-phosphate (PtdIns(3P)) or phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2) (PubMed:12198132). Acts in part as component of the retromer membrane-deforming SNX-BAR subcomplex. The SNX-BAR retromer mediates retrograde transport of cargo proteins from endosomes to the trans-Golgi network (TGN) and is involved in endosome-to-plasma membrane transport for cargo protein recycling. The SNX-BAR subcomplex functions to deform the donor membrane into a tubular profile called endosome-to-TGN transport carrier (ETC) (Probable). Can sense membrane curvature and has in vitro vesicle-to-membrane remodeling activity (PubMed:19816406, PubMed:23085988). Involved in retrograde endosome-to-TGN transport of lysosomal enzyme receptors (IGF2R, M6PR and SORT1) and Shiginella dysenteria toxin stxB. Plays a role in targeting ligand-activated EGFR to the lysosomes for degradation after endocytosis from the cell surface and release from the Golgi (PubMed:12198132, PubMed:15498486, PubMed:17101778, PubMed:17550970, PubMed:18088323, PubMed:21040701). Involvement in retromer-independent endocytic trafficking of P2RY1 and lysosomal degradation of protease-activated receptor-1/F2R (PubMed:16407403, PubMed:20070609). Promotes KALRN- and RHOG-dependent but retromer-independent membrane remodeling such as lamellipodium formation; the function is dependent on GEF activity of KALRN (PubMed:20604901). Required for endocytosis of DRD5 upon agonist stimulation but not for basal receptor trafficking (PubMed:23152498).
+Subcellular Location	Endosome membrane; Golgi apparatus; trans-Golgi network membrane; Early endosome membrane; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASGGGGCSASERLPPPFPGLEPESEGAAGGSEPEAGDSDTEGEDIFTGAAVVSKHQSPKITTSLLPINNGSKENGIHEEQDQEPQDLFAGDGMNAYVAYKVTTQTSLPLFRSKQFAVKRRFSDFLGLYEKLSEKHSQNGFIVPPPPEKSLIGMTKVKVGKEDSSSAEFLEKRRAALERYLQRIVNHPTMLQDPDVREFLEKEELPRAVGTQTLSGAGLLKMFNKATDAVSKMTIKMNESDIWFEEKLQEVECEEQRLRKLHAVVETLVNHRKELALNTAQFAKSLAMLGSSEDNTALSRALSQLAEVEEKIEQLHQEQANNDFFLLAELLSDYIRLLAIVRAAFDQRMKTWQRWQDAQATLQKKREAEARLLWANKPDKLQQAKDEILEWESRVTQYERDFERISTVVRKEVIRFEKEKSKDFKNHVIKYLETLLYSQQQLAKYWEAFLPEAKAIS
+PTM	Acetylation:237,267;Methylation:237,262,267,286,349,376,429,476;Phosphorylation:25,32,39,41,48,54,58,64,72,171,172,188,194,215,220,229,230,231,278,280,356,357,361,368,458;Ubiquitylation:179,184,196,226,286,297,349,429,430,450

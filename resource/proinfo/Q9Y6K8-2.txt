@@ -1,0 +1,25 @@
+UniprotID	Q9Y6K8-2
+Accession	Q9Y6K8;Q5U622;Q6FH66;Q7Z4T5;Q86YS0;Q8N464;Q96EC9
+EntryName	KAD5_HUMAN
+ProteinName	Adenylate kinase isoenzyme 5 (AK 5) (EC 2.7.4.3) (EC 2.7.4.6) (ATP-AMP transphosphorylase 5)
+GeneName	AK5
+Length	197
+Function	Nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. Active on AMP and dAMP with ATP as a donor. When GTP is used as phosphate donor, the enzyme phosphorylates AMP, CMP, and to a small extent dCMP. Also displays broad nucleoside diphosphate kinase activity.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGFMEDLRKCKIIFIIGGPGSGKGTQCEKLVEKYGFTHLSTGELLREELASESERSKLIRDIMERGDLVPSGIVLELLKEAMVASLGDTRGFLIDGYPREVKQGEEFGRRIGDPQLVICMDCSADTMTNRLLQRSRSSLPVDDTTKTIAKRLEAYYRASIPVIAYYETKTQLHKINAEGTPEDVFLQLCTAIDSIF
+PTM	Methylation:169,185,203,399,445;Phosphorylation:78,105,108,113,181;Ubiquitylation:7,65,145,151,203,205,269,279,389,395,399,468,512,535

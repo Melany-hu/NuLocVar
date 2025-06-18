@@ -1,0 +1,25 @@
+UniprotID	Q86UF4-2
+Accession	Q86UF4;Q5JSG1;Q6ZW57
+EntryName	CC190_HUMAN
+ProteinName	Coiled-coil domain-containing protein 190
+GeneName	CCDC190 C1orf110
+Length	207
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MERHMVRGQLYKHFDLERKNAKQAEARLDQRLQRLKVICLYHVKLLTWEQRQLQKELQRLQQETMKKKFSSYLGNGFQKRPEDVLVFSPQGRQKHRAPQAKKMRALATRMAQDTCKSKSQVPPSHDAGLKDPMKSKKQPLSQNNRTACFIKEQPQAQEKDSVNPSKDVDPSKGISVPCQNQEVSTNTIEQGPSSSPASGLQWGDNTL
+PTM	Methylation:36,252;Phosphorylation:65,89,172,283,285

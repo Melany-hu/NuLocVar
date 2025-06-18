@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZH53
+Accession	A0A5F9ZH53
+EntryName	A0A5F9ZH53_HUMAN
+ProteinName	Immunoglobulin domain-containing protein
+GeneName	LOC112267881
+Length	234
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLLVVSMACVGFFLLQGAWPHEGVHRKPSLLAHPGRLVKSEETVILQCWSDVMFEHFLLHREGMFNDTLRLIGEHHDGVSKANFSISRMTQDLAGTYRCYGSVTHSPYQVSAPSDPLDIVIIGLYEKPSLSAQPGPTVLAGENVTLSCSSRSSYDMYHLSREGEAHERRLPAGTKVNGTFQANFPLGPATHGGTYRCFGSFRDSPYEWSKSSDPLLVSVTATILLSTFMRSTF
+PTM	

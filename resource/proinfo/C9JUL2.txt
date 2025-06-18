@@ -1,0 +1,25 @@
+UniprotID	C9JUL2
+Accession	C9JUL2
+EntryName	C9JUL2_HUMAN
+ProteinName	Cyclin T2
+GeneName	CCNT2
+Length	131
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQTLASKDLAQTSYFMATNSLHLTTFCLQYKPTVIACVCIHLACKWSNWEIPVSTDGKHWWEYVDPTVTLELLDELTHEFLQILEKTPNRLKKIRNWRANQAARKPKVDGQVSETPLLGSSLVQNSILVD
+PTM	

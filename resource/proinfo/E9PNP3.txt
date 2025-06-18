@@ -1,0 +1,25 @@
+UniprotID	E9PNP3
+Accession	E9PNP3
+EntryName	E9PNP3_HUMAN
+ProteinName	Mth938 domain-containing protein
+GeneName	AAMDC
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVEPSWPNQLLKTSVKFLMTSPEIASLSWGQMKVKGSNTTYKDCKVWPGGSRTWDWRETGTEHSPGVQPADVKEVVEKGVQTLVIGRGMSEALKVPSSTVEYLKKHGIDVRVLQTEQAVKEYNALVAQGVRVGGVFHSTC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	G3V1D9
+Accession	G3V1D9
+EntryName	G3V1D9_HUMAN
+ProteinName	Serum amyloid A protein
+GeneName	SAA2 hCG_1991504
+Length	113
+Function	Major acute phase reactant. Apolipoprotein of the HDL complex.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVIRLKCHGMIMAHCNLDLPGLKRSSHFSLLNNWDCRCAP
+PTM	

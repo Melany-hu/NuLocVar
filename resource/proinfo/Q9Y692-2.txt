@@ -1,0 +1,25 @@
+UniprotID	Q9Y692-2
+Accession	Q9Y692;B1AT48;Q9NWH1;Q9UKD0
+EntryName	GMEB1_HUMAN
+ProteinName	Glucocorticoid modulatory element-binding protein 1 (GMEB-1) (DNA-binding protein p96PIF) (Parvovirus initiation factor p96) (PIF p96)
+GeneName	GMEB1
+Length	563
+Function	Trans-acting factor that binds to glucocorticoid modulatory elements (GME) present in the TAT (tyrosine aminotransferase) promoter and increases sensitivity to low concentrations of glucocorticoids. Also binds to the transferrin receptor promoter. Essential auxiliary factor for the replication of parvoviruses.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	366...371
+validnes_region	
+nesbase_region	
+Sequence	MANAEVSVPVGDVVVVPTEGNEGENPEDTKTQVILQLQPVQQGIYEAGSENNTAVVAVETHTIHKIEEGIDTGTIEANEDMEIAYPITCGESKAILLWKKFVCPGINVKCVKFNDQLISPKHFVHLAGKSTLKDWKRAIRLGGIMLRKMMDSGQIDFYQHDKVCSNTCRSTKFDLLISSARAPVPGQQTSVVQTPTSADGSITQIAISEESMEEAGLEWNSALTAAVTMATEEGVKKDSEEISEDTLMFWKGIADVGLMEEVVCNIQKEIEELLRGVQQRLIQAPFQVTDAAVLNNVAHTFGLMDTVKKVLDNRRNQVEQGEEQFLYTLTDLERQLEEQKKQGQDHRLKSQTVQNVVLMPVSTPKPPKRPRLQRPASTTVLSPSPPVQQPQFTVISPITITPVGQSFSMGNIPVATLSQGSSPVTVHTLPSGPQLFRYATVVSSAKSSSPDTVTIHPSSSLALLSSTAMQDGSTLGNMTTMVSPVELVAMESGLTSAIQAVESTSEDGQTIIEIDPAPDPEAEDTEGKAVILETELRTEEKVVAEMEEHQHQVHNVEIVVLED
+PTM	Glycosylation:453;Methylation:119,131,246,285;Phosphorylation:129,387,454;SUMOylation:30,75,103,119,122,131,139,143,158,172,182,247,319,350,359,375,538,551;Ubiquitylation:119,122,182

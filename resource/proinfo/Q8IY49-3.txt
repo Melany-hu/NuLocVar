@@ -1,0 +1,25 @@
+UniprotID	Q8IY49-3
+Accession	Q8IY49;B5MBW4;Q6NVU5;Q6TCH0
+EntryName	PAQRA_HUMAN
+ProteinName	Monocyte to macrophage differentiation factor 2 (Progestin and adipoQ receptor family member 10) (Progestin and adipoQ receptor family member X)
+GeneName	MMD2 PAQR10
+Length	193
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFAPRLLDFQKTKYARFMNHRVPAHKRYQPTEYEHAANCATHAFWIIPSILGSSNLYFLSDDDWETISAWIYGLGLCGLFVVSTVFHTISWKKSHLRMVEHCLHMFDRMVIYFFIAASYAPWLNLRELGPWASHMRWLVWIMASVGTIYVFFFHERYKLVELLCYVVMGFFPALVILSMAGKLRPGMTCLKRQ
+PTM	Methylation:11,13

@@ -1,0 +1,25 @@
+UniprotID	M0QZ19
+Accession	M0QZ19
+EntryName	M0QZ19_HUMAN
+ProteinName	Transient receptor potential cation channel subfamily M member 4
+GeneName	TRPM4
+Length	216
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVPEKEQSWIPKIFKKKTCTTFIVDSTDPGGTLCQCGRPRTAHPAVAMEDAFGAAVVTVWDSDAHTTEKPTDAYGELDFTGAGRKHSNEPGLSLGVCTRASAGMLVWLYGTIRWPALGAPRWWPWVWPPGVWSGIETPSSTPRARSLRGTGGAVTRRTGSSFPWTTTTRPSSWWTTAHTAAWGARTASACAWSPTSHSRRRAWEGLELTSLSCSS
+PTM	

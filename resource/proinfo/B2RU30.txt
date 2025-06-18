@@ -1,0 +1,25 @@
+UniprotID	B2RU30
+Accession	B2RU30
+EntryName	B2RU30_HUMAN
+ProteinName	Beta-defensin
+GeneName	DEFB105B
+Length	78
+Function	Has antibacterial activity.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALNRKTFYFLFAMFFILVQLPSGCQAGLDFSQPFPSGEFAVCESCKLGRGKCRKECLENEKPDGNCRLNFLCCRQRI
+PTM	

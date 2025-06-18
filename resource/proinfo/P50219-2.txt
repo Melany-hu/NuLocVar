@@ -1,0 +1,25 @@
+UniprotID	P50219-2
+Accession	P50219;F5H401;Q9Y648
+EntryName	MNX1_HUMAN
+ProteinName	Motor neuron and pancreas homeobox protein 1 (Homeobox protein HB9)
+GeneName	MNX1 HLXB9
+Length	189
+Function	Transcription factor (By similarity). Recognizes and binds to the regulatory elements of target genes, such as visual system homeobox CHX10, negatively modulating transcription (By similarity). Plays a role in establishing motor neuron identity, in concert with LIM domain transcription factor LMO4 (By similarity). Involved in negatively modulating transcription of interneuron genes in motor neurons, acting, at least in part, by blocking regulatory sequence interactions of the ISL1-LHX3 complex (By similarity). Involved in pancreas development and function; may play a role in pancreatic cell fate specification (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	81...85
+validnes_region	
+nesbase_region	
+Sequence	MGGLSTVGACPGILGAQQAQAQSNLLGKCRRPRTAFTSQQLLELEHQFKLNKYLSRPKRFEVATSLMLTETQVKIWFQNRRMKWKRSKKAKEQAAQEAEKQKGGGGGAGKGGAEEPGAEELLGPPAPGDKGSGRRLRDLRDSDPEEDEDEDDEDHFPYSNGASVHAASSDCSSEDDSPPPRPSHQPAPQ
+PTM	Acetylation:342;Methylation:240,322;Phosphorylation:22,25,32,33,41,77,79;SUMOylation:225,240,261,303,322

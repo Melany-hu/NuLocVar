@@ -1,0 +1,25 @@
+UniprotID	A6NDF3
+Accession	A6NDF3
+EntryName	A6NDF3_HUMAN
+ProteinName	Polysaccharide biosynthesis domain containing 1
+GeneName	PBDC1
+Length	232
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATSGTDEPVSGELVSVAHALSLPAESYGNDPDIEMAWAMRAMQHAEVYYKLISSVDPQFLKLTKVDDQIYSEFRKNFETLRIDVLDPEELKSESAKEPPGYNSLPLKLLGTGKAITKLFISVFRTKKERKESTMEEKKELTVEKKRTPRMEERKELIVEKKKRKESTEKTKLTKEEKKGKKLTKKSTKVVKKLCKVYREQHSRSYDSIETTSTTVLLAQTPLVKCKFLYN
+PTM	

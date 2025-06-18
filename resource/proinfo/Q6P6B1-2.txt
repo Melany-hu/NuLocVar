@@ -1,0 +1,25 @@
+UniprotID	Q6P6B1-2
+Accession	Q6P6B1;G3V1K4;Q8N1L8
+EntryName	ERIC5_HUMAN
+ProteinName	Glutamate-rich protein 5
+GeneName	ERICH5 C8orf47
+Length	56
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCSSSALNKAGDSSRFPSGETGEKVETDMENEKVSEGAETKEEETGEVVDLSAAT
+PTM	Acetylation:167;Methylation:77,86,167,279;Phosphorylation:19,49,138,142,169,222,227,234,267,274

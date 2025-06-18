@@ -1,0 +1,25 @@
+UniprotID	Q969I3-2
+Accession	Q969I3;A6NDT0;Q7Z510;Q8NAW8
+EntryName	GLYL1_HUMAN
+ProteinName	Glycine N-acyltransferase-like protein 1 (EC 2.3.1.68) (Acyl-CoA:glycine N-acyltransferase-like protein 1) (Glutamine N-acyltransferase)
+GeneName	GLYATL1 GNAT
+Length	333
+Function	Acyltransferase which transfers an acyl group to the N-terminus of glutamine. Can use phenylacetyl-CoA as an acyl donor.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFKLCSNKMVSQEGSEVELLVSPGARSEHGRYLQDPIVSIDLSEWLRIIEFLLQGLKVYGSVYHINHGNPFNMEVLVDSWPEYQMVIIRPQKQEMTDDMDSYTNVYRMFSKEPQKSEEVLKNCEIVNWKQRLQIQGLQESLGEGIRVATFSKSVKVEHSRALLLVTEDILKLNASSKSKLGSWAETGHPDDEFESETPNFKYAQLDVSYSGLVNDNWKRGKNERSLHYIKRCIEDLPAACMLGPEGVPVSWVTMDPSCEVGMAYSMEKYRRTGNMARVMVRYMKYLRQKNIPFYISVLEENEDSRRFVGQFGFFEASCEWHQWTCYPQNLVPF
+PTM	Acetylation:9,98,121;Methylation:90,140;Phosphorylation:7,14

@@ -1,0 +1,25 @@
+UniprotID	E9PP69
+Accession	E9PP69
+EntryName	E9PP69_HUMAN
+ProteinName	X-ray radiation resistance associated 1
+GeneName	XRRA1
+Length	241
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRKESWKVKSEIPKVPKQPLVLHHPRMTTTKSPSKDMLEPEAELAEDLPTTKSTSVESEMPTENLEGHSPSCRTFVPLPPICSNSTVHSEETLSHLSDTTVRLSPERPSDEDSKSTESIFLTQVSELPSSVIHKDDLELKEKDQKKPPTAPREVKGTRRKLPTAFLPSKYHGYEELLTAKPDPAFIEPKGIQKNAQALQQMLKHPLLCHSSKPKLDTLQKPYVHKEKRVLSCTSGQNGGW
+PTM	

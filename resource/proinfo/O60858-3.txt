@@ -1,0 +1,25 @@
+UniprotID	O60858-3
+Accession	O60858;B2RB49;Q5UBW0;Q5W0U8;Q5W0U9;Q9BQ47;Q9C021
+EntryName	TRI13_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM13 (EC 2.3.2.27) (B-cell chronic lymphocytic leukemia tumor suppressor Leu5) (Leukemia-associated protein 5) (Putative tumor suppressor RFP2) (RING finger protein 77) (RING-type E3 ubiquitin transferase TRIM13) (Ret finger protein 2) (Tripartite motif-containing protein 13)
+GeneName	TRIM13 LEU5 RFP2 RNF77
+Length	410
+Function	Endoplasmic reticulum (ER) membrane anchored E3 ligase involved in the retrotranslocation and turnover of membrane and secretory proteins from the ER through a set of processes named ER-associated degradation (ERAD). This process acts on misfolded proteins as well as in the regulated degradation of correctly folded proteins. Enhances ionizing radiation-induced p53/TP53 stability and apoptosis via ubiquitinating MDM2 and AKT1 and decreasing AKT1 kinase activity through MDM2 and AKT1 proteasomal degradation. Regulates ER stress-induced autophagy, and may act as a tumor suppressor (PubMed:22178386). Also plays a role in innate immune response by stimulating NF-kappa-B activity in the TLR2 signaling pathway. Ubiquitinates TRAF6 via the 'Lys-29'-linked polyubiquitination chain resulting in NF-kappa-B activation (PubMed:28087809). Participates as well in T-cell receptor-mediated NF-kappa-B activation (PubMed:25088585). In the presence of TNF, modulates the IKK complex by regulating IKBKG/NEMO ubiquitination leading to the repression of NF-kappa-B (PubMed:25152375).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVMELLEEDLTCPICCSLFDDPRVLPCSHNFCKKCLEGILEGSVRNSLWRPAPFKCPTCRKETSATGINSLQVNYSLKGIVEKYNKIKISPKMPVCKGHLGQPLNIFCLTDMQLICGICATRGEHTKHVFCSIEDAYAQERDAFESLFQSFETWRRGDALSRLDTLETSKRKSLQLLTKDSDKVKEFFEKLQHTLDQKKNEILSDFETMKLAVMQAYDPEINKLNTILQEQRMAFNIAEAFKDVSEPIVFLQQMQEFREKIKVIKETPLPPSNLPASPLMKNFDTSQWEDIKLVDVDKLSLPQDTGTFISKIPWSFYKLFLLILLLGLVIVFGPTMFLEWSLFDDLATWKGCLSNFSSYLTKTADFIEQSVFYWEQVTDGFFIFNERFKNFTLVVLNNVAEFVCKYKLL
+PTM	Acetylation:290,296,309;Glycosylation:353;Methylation:81,90,177,221;Phosphorylation:45,171,275;SUMOylation:197;Ubiquitylation:81,168,170,263,290

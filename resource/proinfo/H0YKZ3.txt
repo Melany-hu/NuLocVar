@@ -1,0 +1,25 @@
+UniprotID	H0YKZ3
+Accession	H0YKZ3
+EntryName	H0YKZ3_HUMAN
+ProteinName	Phosphatidylinositol glycan anchor biosynthesis class H
+GeneName	PIGH
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEDERSFSDICGGRLALQRRYYSPSCREFCLSCPRLSLRSLTAVTCTVWLAAYGLFTLCENSMILSAAIFITLLGKESTTFIEMGKVKDIVINEAIYMQKVIYYLCILLKDPVEPHGISQVVPVFQRQSLTLSPRLE
+PTM	

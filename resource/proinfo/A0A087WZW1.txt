@@ -1,0 +1,25 @@
+UniprotID	A0A087WZW1
+Accession	A0A087WZW1
+EntryName	A0A087WZW1_HUMAN
+ProteinName	Colipase
+GeneName	CLPS
+Length	98
+Function	Colipase is a cofactor of pancreatic lipase. It allows the lipase to anchor itself to the lipid-water interface. Without colipase the enzyme is washed off by bile salts, which have an inhibitory effect on the lipase.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILLPQPPKKLGLQENGELCMNSAQCKSNCCQHSSALGLARCTSMASENSECSVKTLYGIYYKCPCERGLTCEGDKTIVGSITNTNFGICHDAGRSKQ
+PTM	

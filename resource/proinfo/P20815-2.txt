@@ -1,0 +1,25 @@
+UniprotID	P20815-2
+Accession	P20815;A4D289;B7Z5I7;Q53WY8;Q75MV0;Q9HB56
+EntryName	CP3A5_HUMAN
+ProteinName	Cytochrome P450 3A5 (EC 1.14.14.1) (CYPIIIA5) (Cytochrome P450-PCN3)
+GeneName	CYP3A5
+Length	140
+Function	A cytochrome P450 monooxygenase involved in the metabolism of steroid hormones and vitamins (PubMed:10681376, PubMed:11093772, PubMed:12865317, PubMed:2732228). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase). Catalyzes the hydroxylation of carbon-hydrogen bonds (PubMed:10681376, PubMed:11093772, PubMed:12865317, PubMed:2732228). Exhibits high catalytic activity for the formation of catechol estrogens from 17beta-estradiol (E2) and estrone (E1), namely 2-hydroxy E1 and E2 (PubMed:12865317). Catalyzes 6beta-hydroxylation of the steroid hormones testosterone, progesterone, and androstenedione (PubMed:2732228). Catalyzes the oxidative conversion of all-trans-retinol to all-trans-retinal, a rate-limiting step for the biosynthesis of all-trans-retinoic acid (atRA) (PubMed:10681376). Further metabolizes all trans-retinoic acid (atRA) to 4-hydroxyretinoate and may play a role in hepatic atRA clearance (PubMed:11093772). Also involved in the oxidative metabolism of xenobiotics, including calcium channel blocking drug nifedipine and immunosuppressive drug cyclosporine (PubMed:2732228).
+Subcellular Location	Endoplasmic reticulum membrane; Microsome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLIPNLAVETWLLLAVSLVLLYLYGTRTHGLFKRLGIPGPTPLPLLGNVLSYRQGLWKFDTECYKKYGKMWGTYEGQLPVLAITDPDVIRTVLVKECYSVFTNRRICATTSTIKMQTHSVTMWLPPAVLQSQHGVCLFL
+PTM	Methylation:96,127,243,264;Phosphorylation:107,119,134,139,463

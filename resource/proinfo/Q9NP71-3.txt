@@ -1,0 +1,25 @@
+UniprotID	Q9NP71-3
+Accession	Q9NP71;C5HU02;C5HU03;C5HU04;Q96E48;Q9BY03;Q9BY04;Q9BY05;Q9BY06;Q9Y2P3
+EntryName	MLXPL_HUMAN
+ProteinName	Carbohydrate-responsive element-binding protein (ChREBP) (Class D basic helix-loop-helix protein 14) (bHLHd14) (MLX interactor) (MLX-interacting protein-like) (WS basic-helix-loop-helix leucine zipper protein) (WS-bHLH) (Williams-Beuren syndrome chromosomal region 14 protein)
+GeneName	MLXIPL BHLHD14 MIO WBSCR14
+Length	850
+Function	Binds DNA as a heterodimer with MLX/TCFL4 and activates transcription. Binds to the canonical E box sequence 5'-CACGTG-3'. Plays a role in transcriptional activation of glycolytic target genes. Involved in glucose-responsive gene regulation (By similarity). Regulates transcription in response to changes in cellular carbohydrate abundance such as occurs during fasting to feeding metabolic transition. Refeeding stimulates MLXIPL/ChREBP transcription factor, leading to increased BCKDK to PPM1K expression ratio, phosphorylation and activation of ACLY that ultimately results in the generation of malonyl-CoA and oxaloacetate immediate substrates of de novo lipogenesis and gluconeogenesis, respectively (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGALAGLAAGLQVPRVAPSPDSDSDTDSEDPSLRRSAGGLLRSQVIHSGHFMVSSPHSDSLPRRRDQEGSVGPSDFGPRSIDPTLTRLFECLSLAYSGKLVSPKWKNFKGLKLLCRDKIRLNNAIWRAWYIQYVKRRKSPVCGFVTPLQGPEADAHRKPEAVVLEGNYWKRRIEVVMREYHKWRIYYKKRLRKPSREDDLLAPKQAEGRWPPPEQWCKQLFSSVVPVLLGDPEEEPGGRQLLDLNCFLSDISDTLFTMTQSGPSPLQLPPEDAYVGNADMIQPDLTPLQPSLDDFMDISDFFTNSRLPQPPMPSNFPEPPSFSPVVDSLFSSGTLGPEVPPASSAMTHLSGHSRLQARNSCPGPLDSSAFLSSDFLLPEDPKPRLPPPPVPPPLLHYPPPAKVPGLEPCPPPPFPPMAPPTALLQEEPLFSPRFPFPTVPPAPGVSPLPAPAAFPPTPQSVPSPAPTPFPIELLPLGYSEPAFGPCFSMPRGKPPAPSPRGQKASPPTLAPATASPPTTAGSNNPCLTQLLTAAKPEQALEPPLVSSTLLRSPGSPQETVPEFPCTFLPPTPAPTPPRPPPGPATLAPSRPLLVPKAERLSPPAPSGSERRLSGDLSSMPGPGTLSVRVSPPQPILSRGRPDSNKNRRITHISAEQKRRFNIKLGFDTLHGLVSTLSAQPSLKVSKATTLQKTAEYILMLQQERAGLQEEAQQLRDEIEELNAAINLCQQQLPATGVPITHQRFDQMRDMFDDYVRTRTLHNWKFWVFSILIRPLFESFNGMVSTASVHTLRQTSLAWLDQYCSLPALRPTVLNSLRQLGTSTSILTDPGRIPEQATRAVTEGTLGKPL
+PTM	Acetylation:767;Methylation:597,695;Phosphorylation:20,23,25,27,29,33,37,59,71,103,140,147,196,361,368,369,373,374,499,590,602,607,609,614,618,631,807,840

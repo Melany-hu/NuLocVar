@@ -1,0 +1,25 @@
+UniprotID	Q5SZJ8-2
+Accession	Q5SZJ8;Q4G0W8;Q8N662;Q96NS6
+EntryName	BEND6_HUMAN
+ProteinName	BEN domain-containing protein 6
+GeneName	BEND6 C6orf65
+Length	106
+Function	Acts as a corepressor of recombining binding protein suppressor hairless (RBPJ) and inhibits Notch signaling in neural stem cells, thereby opposing their self-renewal and promoting neurogenesis (PubMed:23571214).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQKIVQTDEITNTQAFRKGKRKRTETMDSENANSDMDKGQRDPYSGNAFLPGESSSEDEEPLAELSKEELCAKIKSLKEKLTNTRKENSRLRQSLVMLQAWSRELP
+PTM	Methylation:120,178;Phosphorylation:24,26,29

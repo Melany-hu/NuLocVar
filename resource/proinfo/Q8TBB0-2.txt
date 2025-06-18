@@ -1,0 +1,25 @@
+UniprotID	Q8TBB0-2
+Accession	Q8TBB0;B4E146;Q5HYJ7;Q5JPC6
+EntryName	THAP6_HUMAN
+ProteinName	THAP domain-containing protein 6
+GeneName	THAP6
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVKCCSAIGCASRCLPNSKLKGLTFHVFPTDENIKRKWVLAMKRLDVNAAGIWEPKKGDVLCSRHFKKTDFDRSAPNIKLKPGVIPSIFDSPYHLQEHSYSVMDSPKKLKHKLDHVIGELEDTKESLRNVLDREKRFQKSLRKTIRELKDECLISQETANRLDTFCWDCCQESIEQDYIS
+PTM	Methylation:35,43,149,185;Phosphorylation:74;SUMOylation:3,21,35,37,56,57,79,81,98,154,166

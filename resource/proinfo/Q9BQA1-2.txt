@@ -1,0 +1,25 @@
+UniprotID	Q9BQA1-2
+Accession	Q9BQA1;B3KMW6;B4DP38;Q3LID2;Q53FU2;Q6JZZ5;Q96GK4;Q9BWY3
+EntryName	MEP50_HUMAN
+ProteinName	Methylosome protein WDR77 (Androgen receptor cofactor p44) (Methylosome protein 50) (MEP-50) (WD repeat-containing protein 77) (p44/Mep50)
+GeneName	WDR77 MEP50 WD45 HKMT1069 Nbla10071
+Length	278
+Function	Non-catalytic component of the methylosome complex, composed of PRMT5, WDR77 and CLNS1A, which modifies specific arginines to dimethylarginines in several spliceosomal Sm proteins and histones (PubMed:11756452). This modification targets Sm proteins to the survival of motor neurons (SMN) complex for assembly into small nuclear ribonucleoprotein core particles. Might play a role in transcription regulation. The methylosome complex also methylates the Piwi proteins (PIWIL1, PIWIL2 and PIWIL4), methylation of Piwi proteins being required for the interaction with Tudor domain-containing proteins and subsequent localization to the meiotic nuage (PubMed:23071334).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	49...119;144...197;220...274
+SeqNLSPMID	21789256;21789256;21789256
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRKETPPPLVPPAAREWNLPPNAPACMERQLEAARYRSDGALLLGASSLSGRCWAGSLWLFKDPCAAPNEGFCSAGVQTEAGVADLTWVGERGILVASDSAHAAQVTCVAASPHKDSVFLSCSEDNRILLWDTRCPKPASQIGCSAPGYLPTSLAWHPQQSEVFVFGDENGTVSLVDTKSTSCVLSSAVHSQCVTGLVFSPHSVPFLASLSEDCSLAVLDSSLSELFRSQAHRDFVRDATWSPLNHSLLTTVGWDHQVVHHVVPTEPLPAPGPASVTE
+PTM	Methylation:118;Phosphorylation:5,38,47,48,50;SUMOylation:3,121,145,150,201;Ubiquitylation:3,118,121,145,179,201

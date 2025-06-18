@@ -1,0 +1,25 @@
+UniprotID	G3V2P5
+Accession	G3V2P5
+EntryName	G3V2P5_HUMAN
+ProteinName	mRNA decay activator protein ZFP36 (Zinc finger protein 36)
+GeneName	ZFP36L1
+Length	207
+Function	Zinc-finger RNA-binding protein that destabilizes several cytoplasmic AU-rich element (ARE)-containing mRNA transcripts by promoting their poly(A) tail removal or deadenylation, and hence provide a mechanism for attenuating protein synthesis. Acts as a 3'-untranslated region (UTR) ARE mRNA-binding adapter protein to communicate signaling events to the mRNA decay machinery. Functions by recruiting the CCR4-NOT deadenylase complex and probably other components of the cytoplasmic RNA decay machinery to the bound ARE-containing mRNAs, and hence promotes ARE-mediated mRNA deadenylation and decay processes. Binds to 3'-UTR ARE of numerous mRNAs.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRARKSGLGQRSRPTASRSEAAVQGNKMLNYSAPSAGGCLLDRKAVGTPAGGGFPRRHSVTLPSSKFHQNQLLSSLKGEPAPALSSRDSRFRDRSFSEGGERLLPTQKQPGGGQVNSSRYKTELCRPFEENGACKYGDKCQFAHGIHELRSLTRHPKYKTELCRTFHTIGFCPYGPRCHFIHNAEERRALAGARDLSADRPRLQHS
+PTM	

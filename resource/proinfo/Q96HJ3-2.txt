@@ -1,0 +1,25 @@
+UniprotID	Q96HJ3-2
+Accession	Q96HJ3;B2R8G2;Q8IX69;Q9H2A6;Q9Y599
+EntryName	CCD34_HUMAN
+ProteinName	Coiled-coil domain-containing protein 34 (Renal carcinoma antigen NY-REN-41)
+GeneName	CCDC34 RAMA3 L15
+Length	229
+Function	Involved in spermatogenesis. Has a probable role in anterograde intraflagellar transport which is essential for the formation of sperm flagella.
+Subcellular Location	Cell projection; Cilium; Flagellum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWAAGRWGPTFPSSYAGFSADCRPRSRPSSDSCSVPMTGARGQGLEVVRSPSPPLPLSCSNSTRSLLSPLGHQSFQFDEDDGDGEDEEDVDDEEDVDEDAHDSEAKVASLRGMELQGCASTQVESENNQEEQKQVRLPESRLTPWEVWFIGKEKEERDRLQLKALEELNQQLEKRKEMEEREKRKIIAEEKHKEWVQKKNEQVRRGKWIHTLTSLLQNISSYYTSLPRF
+PTM	Methylation:154,174,225,231,268,274,339,350;Phosphorylation:26,29,30,50,52,60,353,361;SUMOylation:152,163,235,268,275,341

@@ -1,0 +1,25 @@
+UniprotID	Q06323-2
+Accession	Q06323;A6NJG9;H0YNE3;Q6IBM2;Q9UEF4
+EntryName	PSME1_HUMAN
+ProteinName	Proteasome activator complex subunit 1 (11S regulator complex subunit alpha) (REG-alpha) (Activator of multicatalytic protease subunit 1) (Interferon gamma up-regulated I-5111 protein) (IGUP I-5111) (Proteasome activator 28 subunit alpha) (PA28a) (PA28alpha)
+GeneName	PSME1 IFI5111
+Length	250
+Function	Implicated in immunoproteasome assembly and required for efficient antigen processing. The PA28 activator complex enhances the generation of class I binding peptides by altering the cleavage pattern of the proteasome.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMLRVQPEAQAKVDVFREDLCTKTENLLGSYFPKKISELDAFLKEPALNEANLSNLKAPLDIPVPDPVKEKEKEERKKQQEKEDKDEKKKGEDEDKGPPCGPVNCNEKIVVLLQRLKPEIKDVIEQLNLVTTWLQLQIPRIEDGNNFGVAVQEKVFELMTSLHTKLEGFHTQISKYFSERGDAVTKAAKQPHVGDYRQLVHELDEAEYRDIRLMVMEIRNAYVRRQGQGRGGQRQLSQATHSLTLQARG
+PTM	Acetylation:13,24,35,70,91,97,187,190,245;Methylation:13,35,45,58,74,118,155,176,187,232;Phosphorylation:23,25,31,32,38,55,161,162,172,175,186;SUMOylation:24,58;Ubiquitylation:13,24,35,36,45,58,118

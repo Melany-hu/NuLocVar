@@ -1,0 +1,25 @@
+UniprotID	O75689-3
+Accession	O75689;A4D2Q2;B3KRZ4;B4DVA6;F6XZ68;H7C2Q4
+EntryName	ADAP1_HUMAN
+ProteinName	Arf-GAP with dual PH domain-containing protein 1 (Centaurin-alpha-1) (Cnt-a1) (Putative MAPK-activating protein PM25)
+GeneName	ADAP1 CENTA1
+Length	302
+Function	GTPase-activating protein for the ADP ribosylation factor family (Probable). Binds phosphatidylinositol 3,4,5-trisphosphate (PtdInsP3) and inositol 1,3,4,5-tetrakisphosphate (InsP4). Regulates the incorporation of CD63 and CD9 into multivesicular bodies (PubMed:38682696).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASHGNDAARARFESKVPSFYYRPTPSDCQLLREQWIRAKYERQEFIYPEKQEPYSAGYREGFLWKRGRDNGQFLSRKFVLTEREGALKYFNRNDAKEPKAVMKIEHLNATFQPAKIGHPHGLQVTYLKDNSTRNIFIYHEDGKEIVDWFNALRAARFHYLQVAFPGAGDADLVPKLSRNYLKEGYMEKTGPKQTEGFRKRWFTMDDRRLMYFKDPLDAFARGEVFIGSKESGYTVLHGFPPSTQGHHWPHGITIVTPDRKFLFACETESDQREWVAAFQKAVDRPMLPQEYAVEAHFKHKP
+PTM	Acetylation:333,353;Methylation:161,255;Phosphorylation:204,284;Ubiquitylation:123,138,150,161,265

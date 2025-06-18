@@ -1,0 +1,25 @@
+UniprotID	Q14103-3
+Accession	Q14103;A8K9J2;P07029;Q01858;Q14100;Q14101;Q14102;Q4W5A1;Q9UCE8;Q9UCE9
+EntryName	HNRPD_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoprotein D0 (hnRNP D0) (AU-rich element RNA-binding protein 1)
+GeneName	HNRNPD AUF1 HNRPD
+Length	306
+Function	Binds with high affinity to RNA molecules that contain AU-rich elements (AREs) found within the 3'-UTR of many proto-oncogenes and cytokine mRNAs. Also binds to double- and single-stranded DNA sequences in a specific manner and functions a transcription factor. Each of the RNA-binding domains specifically can bind solely to a single-stranded non-monotonous 5'-UUAG-3' sequence and also weaker to the single-stranded 5'-TTAGGG-3' telomeric DNA repeat. Binds RNA oligonucleotides with 5'-UUAGGG-3' repeats more tightly than the telomeric single-stranded DNA 5'-TTAGGG-3' repeats. Binding of RRM1 to DNA inhibits the formation of DNA quadruplex structure which may play a role in telomere elongation. May be involved in translationally coupled mRNA turnover. Implicated with other RNA-binding proteins in the cytoplasmic deadenylation/translational and decay interplay of the FOS mRNA mediated by the major coding-region determinant of instability (mCRD) domain. May play a role in the regulation of the rhythmic expression of circadian clock core genes. Directly binds to the 3'UTR of CRY1 mRNA and induces CRY1 rhythmic translation. May also be involved in the regulation of PER2 translation.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEEQFGGDGAAAAATAAVGGSAGEQEGAMVAATQGAAAAAGSGAGTGGGTASGGTEGGSAESEGAKIDASKNEEDEGHSNSSPRHSEAATAQREEWKMFIGGLSWDTTKKDLKDYFSKFGEVVDCTLKLDPITGRSRGFGFVLFKESESVDKVMDQKEHKLNGKVIDPKRAKAMKTKEPVKKIFVGGLSPDTPEEKIREYFGGFGEVESIELPMDNKTNKRRGFCFITFKEEEPVKKIMEKKYHNVGLSKCEIKVAMSKEQYQQQQQWGSRGGFAGRARGRGGDQQSGYGKVSRRGGHQNSYKPY
+PTM	Acetylation:72,98,110,114,119,129,153,158,165,170,176,183,197,218,231,237,243,251,255,341;Methylation:72,94,98,110,111,119,129,138,146,153,158,170,197,218,272,278,280,282,345;Phosphorylation:43,71,80,82,83,87,91,109,127,134,148,150,190,193,210,244,263,271,294,332,351;SUMOylation:72,98,129,158,197,218,231,243;Ubiquitylation:72,110,111,114,119,129,153,158,165,197,218,231,237,238,251,260

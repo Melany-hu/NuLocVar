@@ -1,0 +1,25 @@
+UniprotID	O00337-2
+Accession	O00337;A0AV42;A8K7I2;O00335;O00336;Q5U5S6;Q5U648;Q9UEZ9
+EntryName	S28A1_HUMAN
+ProteinName	Sodium/nucleoside cotransporter 1 (Concentrative nucleoside transporter 1) (CNT 1) (hCNT1) (Na(+)/nucleoside cotransporter 1) (Sodium-coupled nucleoside transporter 1) (Solute carrier family 28 member 1)
+GeneName	SLC28A1 CNT1
+Length	175
+Function	Sodium and pyrimidine nucleoside symporter of the plasma membrane that imports uridine, thymidine and cytidine into cells by coupling their transport to the transmembrane sodium electrochemical gradient. Also transports adenosine, an atypical substrate transported with high apparent affinity, but low maximum velocity. Therefore, exhibits the transport characteristics of the nucleoside transport system cit or N2 subtype (N2/cit) (PubMed:10455109, PubMed:14701834, PubMed:15194733, PubMed:21795683, PubMed:21998139, PubMed:30658162, PubMed:32126230, PubMed:9124315). Involved in renal nucleoside (re)absorption (PubMed:30658162).
+Subcellular Location	Cell membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENDPSRRRESISLTPVAKGLENMGADFLESLEEGQLPRSDLSPAEIRSSWSEAAPKPFSRWRNLQPALRARSFCREHMQLFRWIGTGLLCTGLSAFLLVACLLDFQRALALFVLTCVVLTFLGHRLLKRLLGPKLRRFLKPQGHPRLLLWFKRDPRPWSKEGPNQYLPQITWTV
+PTM	Glycosylation:605;Methylation:259,292,401,506;Phosphorylation:11,13,15,73,563,566

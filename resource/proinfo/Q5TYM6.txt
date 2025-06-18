@@ -1,0 +1,25 @@
+UniprotID	Q5TYM6
+Accession	Q5TYM6
+EntryName	Q5TYM6_HUMAN
+ProteinName	Family with sequence similarity 72 member A (Family with sequence similarity 72, member A)
+GeneName	FAM72A RP11-312O7.1-006
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTTTALRWTAAARVRRKGRGGWVPAALRSVSQDGVPGCTVMGGETRSPENAVDFTGRCYFTKICKCKLKDIACLKCGNIVGYHVIVPCSSCLLSCNNGHFWMFHSQAVYDINRLDSTGVNVLLWGNLPEIEESTDEDVLNISAEECIR
+PTM	

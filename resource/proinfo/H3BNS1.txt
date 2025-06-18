@@ -1,0 +1,25 @@
+UniprotID	H3BNS1
+Accession	H3BNS1
+EntryName	H3BNS1_HUMAN
+ProteinName	Guanylate binding protein 3
+GeneName	GBP3
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XHRVSEREATEVYMKNSFKDVDHLFQKKLAAQLDKKRDDFCKQNQEASSDRCSALLQVIFSPLEEEVKAGIYSKPGGYCLFIQKLQDLEKKYYEEPRKGIQAEEILQTYLKSKESVTDAILQTDQILTEKEKEIEVECVKAESAQASAKMVEEMQIKYQQMMEEKEKSYQEHVKQLTEKMERERAQLLEEQEKTLTSKLQVSKCITLWFVFLFSLCSS
+PTM	

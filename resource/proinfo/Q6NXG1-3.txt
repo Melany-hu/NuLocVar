@@ -1,0 +1,25 @@
+UniprotID	Q6NXG1-3
+Accession	Q6NXG1;A6NHA8;A8MPX1;E9PB47;Q2M2B0;Q499G3;Q6PJ86;Q9NXL8
+EntryName	ESRP1_HUMAN
+ProteinName	Epithelial splicing regulatory protein 1 (RNA-binding motif protein 35A) (RNA-binding protein 35A)
+GeneName	ESRP1 RBM35A
+Length	677
+Function	mRNA splicing factor that regulates the formation of epithelial cell-specific isoforms. Specifically regulates the expression of FGFR2-IIIb, an epithelial cell-specific isoform of FGFR2. Also regulates the splicing of CD44, CTNND1, ENAH, 3 transcripts that undergo changes in splicing during the epithelial-to-mesenchymal transition (EMT). Acts by directly binding specific sequences in mRNAs. Binds the GU-rich sequence motifs in the ISE/ISS-3, a cis-element regulatory region present in the mRNA of FGFR2 (PubMed:19285943). Regulates splicing and expression of genes involved in inner ear development, auditory hair cell differentiation, and cell fate specification in the cochlear epithelium (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTASPDYLVVLFGITAGATGAKLGSDEKELILLFWKVVDLANKKVGQLHEVLVRPDQLELTEDCKEETKIDVESLSSASQLDQALRQFNQSVSNELNIGVGTSFCLCTDGQLHVRQILHPEASKKNVLLPECFYSFFDLRKEFKKCCPGSPDIDKLDVATMTEYLNFEKSSSVSRYGASQVEDMGNIILAMISEPYNHRFSDPERVNYKFESGTCSKMELIDDNTVVRARGLPWQSSDQDIARFFKGLNIAKGGAALCLNAQGRRNGEALVRFVSEEHRDLALQRHKHHMGTRYIEVYKATGEDFLKIAGGTSNEVAQFLSKENQVIVRMRGLPFTATAEEVVAFFGQHCPITGGKEGILFVTYPDGRPTGDAFVLFACEEYAQNALRKHKDLLGKRYIELFRSTAAEVQQVLNRFSSAPLIPLPTPPIIPVLPQQFVPPTNVRDCIRLRGLPYAATIEDILDFLGEFATDIRTHGVHMVLNHQGRPSGDAFIQMKSADRAFMAAQKCHKKNMKDRYVEVFQCSAEEMNFVLMGGTLNRNGLSPPPCLSPPSYTFPAPAAVIPTEAAIYQPSVILNPRALQPSTAYYPAGTQLFMNYTAYYPSPPGSPNSLGYFPTAANLSGVPPQPGTVVRMQGLAYNTGVKEILNFFQGYQYATEDGLIHTNDQARTLPKEWVCI
+PTM	Methylation:36,155,169,252,307,396;Phosphorylation:150,236,237,426,543,553;Ubiquitylation:43,246,391,396,507

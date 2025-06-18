@@ -1,0 +1,25 @@
+UniprotID	Q8N443-3
+Accession	Q8N443;B4E297;E9PDU2;Q5H931;Q96A80
+EntryName	RIBC1_HUMAN
+ProteinName	RIB43A-like with coiled-coils protein 1
+GeneName	RIBC1
+Length	238
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Flagellum axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYNIKQSTDTKEAAAIEARRNREKERQNRFFNVRNRVMGVDVQALNNQVGDRKRREAAERSKEAAYDALSNQLRLAMDAQATHLARLEESCRAAMMCAMANANKAQAAVQAGRQRCERQREQKANLAEIQHQSTSDLLTENPQVAQHPMAPYRVLPYCWKGMTPEQQAAIRKEQEVQRSKKQAHRQAEKTLDTEWKSQTMSSAQAVLELEEQERELCAVFQRGLGSFNQQLANEQKAQ
+PTM	Methylation:93,106,121,296,304;Phosphorylation:185,197

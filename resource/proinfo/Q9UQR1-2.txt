@@ -1,0 +1,25 @@
+UniprotID	Q9UQR1-2
+Accession	Q9UQR1;D3DN27;O00389;O43591;Q58EY5;Q6PJ98
+EntryName	ZN148_HUMAN
+ProteinName	Zinc finger protein 148 (Transcription factor ZBP-89) (Zinc finger DNA-binding protein 89)
+GeneName	ZNF148 ZBP89
+Length	131
+Function	Involved in transcriptional regulation. Represses the transcription of a number of genes including gastrin, stromelysin and enolase. Binds to the G-rich box in the enhancer region of these genes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFIQKYLLQRHEKIHTGEKPFRCDECGDETNHASATSTQDFLDQVTSQKKAEAQPVHQAYQMSSFEQPFRAPYHGSRAGIATQFSTANGQVNLRGPGTSAEFSEFPLVNVNDNRAGMTSSPDATTGQTFG
+PTM	Acetylation:132,166,335,342,421,424,456;Methylation:6,142,166,291,314,393,528,734;Phosphorylation:22,23,51,106,119,121,150,162,167,194,202,250,255,259,296,297,301,304,305,306,311,324,336,351,353,400,410,412,415,416,417,420,438,476,549,651,661,665,669,670,683,763,782,783,784,788,789,792;SUMOylation:6,13,88,115,132,166,169,211,239,291,308,342,354,356,389,402,421,424,456,472,607,714;Ubiquitylation:13,142,166,291,308,402,421,424,607,648

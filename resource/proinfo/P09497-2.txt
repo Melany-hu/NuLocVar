@@ -1,0 +1,25 @@
+UniprotID	P09497-2
+Accession	P09497;Q53Y37;Q6FHW1
+EntryName	CLCB_HUMAN
+ProteinName	Clathrin light chain B (Lcb)
+GeneName	CLTB
+Length	211
+Function	Clathrin is the major protein of the polyhedral coat of coated pits and vesicles.
+Subcellular Location	Cytoplasmic vesicle membrane; Membrane; Coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADDFGFFSSSESGAPEAAEEDPAAAFLAQQESEIAGIENDEGFGAPAGSHAAPAQPGPTSGAGSEDMGTTVNGDVFQEANGPADGYAAIAQADRLTQEPESIRKWREEQRKRLQELDAASKVTEQEWREKAKKDLEEWNQRQSEQVEKNKINNRASEEAFVKESKEETPGTEWEKVAQLCDFNPKSSKQCKDVSRLRSVLMSLKQTPLSR
+PTM	Acetylation:149,181,184,204,223;Methylation:105,149,194,204,207;Phosphorylation:175,187,213,217,221,225;Ubiquitylation:122,181,184,204

@@ -1,0 +1,25 @@
+UniprotID	Q16773-3
+Accession	Q16773;Q5T275;Q8N191
+EntryName	KAT1_HUMAN
+ProteinName	Kynurenine--oxoglutarate transaminase 1 (EC 2.6.1.7) (Cysteine-S-conjugate beta-lyase) (EC 4.4.1.13) (Glutamine transaminase K) (GTK) (Glutamine--phenylpyruvate transaminase) (EC 2.6.1.64) (Kynurenine aminotransferase 1) (Kynurenine aminotransferase I) (KATI) (Kynurenine--oxoglutarate transaminase I)
+GeneName	KYAT1 CCBL1
+Length	250
+Function	Catalyzes the irreversible transamination of the L-tryptophan metabolite L-kynurenine to form kynurenic acid (KA), an intermediate in the tryptophan catabolic pathway which is also a broad spectrum antagonist of the three ionotropic excitatory amino acid receptors among others (PubMed:19338303, PubMed:28097769). Also metabolizes the cysteine conjugates of certain halogenated alkenes and alkanes to form reactive metabolites (PubMed:7883047). Catalyzes the beta-elimination of S-conjugates and Se-conjugates of L-(seleno)cysteine, resulting in the cleavage of the C-S or C-Se bond (PubMed:7883047).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKQLQARRLDGIDYNPWVEFVKLASEHDVVNLGQGFPDFPPPDFAVEAFQHAVSGDFMLNQYTKTFGYPPLTKILASFFGELLGQEIDPLRNVLVTVGGYGALFTAFQALVDEGDEVIIIEPFFDCYEPMTMMAGGRPVFVSLKPGPIQNGELGSSSNWQLDPMELAGKFTSRTKALVLNTPNNPLGKVFSREELELVASLCQQHDVVCITDEVYQWMVYDGHQHISIVSAAVLFGLGQPASLACGNGP
+PTM	Methylation:170,189;Phosphorylation:172,182;SUMOylation:403

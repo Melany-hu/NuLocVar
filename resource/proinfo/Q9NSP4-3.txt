@@ -1,0 +1,25 @@
+UniprotID	Q9NSP4-3
+Accession	Q9NSP4;A7LM22;B1AHQ9;Q6I9W3
+EntryName	CENPM_HUMAN
+ProteinName	Centromere protein M (CENP-M) (Interphase centromere complex protein 39) (Proliferation-associated nuclear element protein 1)
+GeneName	CENPM C22orf18 ICEN39 PANE1
+Length	58
+Function	Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres.
+Subcellular Location	Nucleus; Cytoplasm; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRVWDLPGVLKVEGFRATMAQRLVRVLQICAGHVPGVSALNLLSLLRSSEGPSLEDL
+PTM	Methylation:96;Phosphorylation:51,56,57,76,130;SUMOylation:45

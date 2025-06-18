@@ -1,0 +1,25 @@
+UniprotID	A0A087WX43
+Accession	A0A087WX43
+EntryName	A0A087WX43_HUMAN
+ProteinName	UDP-N-acetylglucosamine transferase subunit ALG13 (EC 2.4.1.141)
+GeneName	ALG13
+Length	133
+Function	
+Subcellular Location	Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKCVFVTVGTTSFDDLIACVSAPDSLQKIESLGYNRLILQIGRGTVVPEPFSTESFTLDVYRYKDSLKEDIQKADLVISHAGAGSCLETLEKGKPLVVVINEKLMNNHQLELAKQLHKEGHLFYCTCSSSLRH
+PTM	

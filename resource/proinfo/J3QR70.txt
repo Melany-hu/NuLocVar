@@ -1,0 +1,25 @@
+UniprotID	J3QR70
+Accession	J3QR70
+EntryName	J3QR70_HUMAN
+ProteinName	Solute carrier family 13 member 2
+GeneName	SLC13A2
+Length	100
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALFWCTEALPLAVTALFPLILFPMMGIVDASEIIQRPFPSSFESPGECQSVGMLPSSILRTPTSCSSGGCWWPSRWNTGTCINASPSVSSSSLGCGLPR
+PTM	

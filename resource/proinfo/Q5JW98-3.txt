@@ -1,0 +1,25 @@
+UniprotID	Q5JW98-3
+Accession	Q5JW98;B0QZ25;B0QZ27;B4DTQ0;Q96MK0
+EntryName	CAHM4_HUMAN
+ProteinName	Calcium homeostasis modulator protein 4 (Protein FAM26D)
+GeneName	CALHM4 C6orf78 FAM26D UNQ6481/PRO21277
+Length	171
+Function	May assemble to form gap junction channel-like structures involved in intercellular communication. Channel gating and ion conductance are likely regulated by membrane lipids rather than by membrane depolarization or extracellular calcium levels.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFDNVSASKREEILAGFPCCRSAPSDVILVRDEIALLHRYQSQMLGWILITLATIAALVSCCVAKCCSPLTSLQHCYWTSHLQNERELFEQAAEQHSRLLMMHRIKKLFGFIPGSEDVKHIRIPSCQDWKDISVPTLLCMGDDLQGHYSFLGNRVDEDNEEDRSRGIELKP
+PTM	Methylation:262

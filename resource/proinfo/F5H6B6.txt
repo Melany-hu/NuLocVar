@@ -1,0 +1,25 @@
+UniprotID	F5H6B6
+Accession	F5H6B6
+EntryName	F5H6B6_HUMAN
+ProteinName	2'-phosphotransferase (EC 2.7.1.160)
+GeneName	TRPT1
+Length	167
+Function	Catalyzes the last step of tRNA splicing, the transfer of the splice junction 2'-phosphate from ligated tRNA to NAD to produce ADP-ribose 1''-2'' cyclic phosphate.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGADGFVPLGTLLQLPQFRGFSAEDVQRVVDTNRKQRFALQLGDPSTGLLIRANQGHSLQVPKLELMPLETPQALPPMLVHGTFWKHWPSILLKGLSCQGRTHIHLAPGLPGDPGIISGMRSHCEIAVFIDGPLALAGKPLSLAGDEETECQSSPKHSSRERRRIQQ
+PTM	

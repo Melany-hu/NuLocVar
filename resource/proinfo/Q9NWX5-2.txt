@@ -1,0 +1,25 @@
+UniprotID	Q9NWX5-2
+Accession	Q9NWX5;Q5SZB7;Q9BV15
+EntryName	ASB6_HUMAN
+ProteinName	Ankyrin repeat and SOCS box protein 6 (ASB-6)
+GeneName	ASB6
+Length	197
+Function	Probable substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. May play a role in the regulation of cell proliferation and autophagy by promoting the ubiquitination and degradation of SQSTM1 (PubMed:34164402).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFLHGFRRIIFEYQPLVDAILGSLGIQDPERQESLDRPSYVASEESRILVLTELLERKAHSPFYQEGVSNALLKMAELGLTRAADVLLRHGANLNFEDPVTYYTALHIAVLRNQPDMVELLVHHGADVNRRDREKLLCSMLWPAATGCRSTILRTFVSYWKEGQTSRPPPKMGTQCSPASSSCLVRPWEGTKRRPR
+PTM	Methylation:75,268,271,325;Phosphorylation:269;Ubiquitylation:204,376,395,397

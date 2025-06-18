@@ -1,0 +1,25 @@
+UniprotID	Q5T0Y2
+Accession	Q5T0Y2
+EntryName	Q5T0Y2_HUMAN
+ProteinName	MDM4 regulator of p53
+GeneName	MDM4
+Length	213
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPNFVVDWRVYTDSLFLTVDFGLCAEESSTSRKRTTEDDIPTLPTSEHKCIHSREDEDLIENLAQDETSRLDLGFEEWDVAGLPWWFLGNLRSNYTPRSNGSTDLQTNQDVGTAIVSDTTDDLWFLNESVSEQLGVGIKVEAADTEQTSEEVGKVSDKKVIEVGKNDDLEDSKSLSDDTDVEVTSEDEWQCTECKKFNSPSKRYCFRCWALRK
+PTM	

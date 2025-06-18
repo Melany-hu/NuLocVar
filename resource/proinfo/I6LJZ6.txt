@@ -1,0 +1,25 @@
+UniprotID	I6LJZ6
+Accession	I6LJZ6
+EntryName	I6LJZ6_HUMAN
+ProteinName	BCL2-like 12 (Proline rich), isoform CRA_c (BCL2L12 protein isoform 2)
+GeneName	BCL2L12 hCG_21122
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGRPAGLFPPLCPFLGFRPEACWERHMQIERAPSVPPFLRWAGYRPGPVRRRGKVELIKFVRVQWRRPQVEWRRRRWGPGPGASMAGSEELGLREDTLRVLAAFLRRGEAAGSPVPTPPRPSYSRLLCFGGPAAGTAGPRAAEISAQPRITGSPIDREGSHTAEAGGPAGGGGRSH
+PTM	

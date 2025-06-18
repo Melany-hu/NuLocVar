@@ -1,0 +1,25 @@
+UniprotID	G3V4I0
+Accession	G3V4I0
+EntryName	G3V4I0_HUMAN
+ProteinName	nucleoside diphosphate phosphatase (EC 3.6.1.6) (Guanosine-diphosphatase ENTPD5) (Uridine-diphosphatase ENTPD5)
+GeneName	ENTPD5 hCG_21714
+Length	407
+Function	Hydrolyzes nucleoside diphosphates with a preference for GDP, IDP and UDP compared to ADP and CDP. In the lumen of the endoplasmic reticulum, hydrolyzes UDP that acts as an end-product feedback inhibitor of the UDP-Glc:glycoprotein glucosyltransferases. UMP can be transported back by an UDP-sugar antiporter to the cytosol where it is consumed to regenerate UDP-glucose. Therefore, it positively regulates protein reglucosylation by clearing UDP from the ER lumen and by promoting the regeneration of UDP-glucose. Protein reglucosylation is essential to proper glycoprotein folding and quality control in the ER.
+Subcellular Location	Endoplasmic reticulum; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATSWGTVFFMLVVSCVCSAVSHRNQQTWFEGIFLSSMCPINVSASTLYGIMFDAGSTGTRIHVYTFVQKMPGQLPILEGEVFDSVKPGLSAFVDQPKQGAETVQGLLEVAKDSIPRSHWKKTPVVLKATAGLRLLPEHKAKALLFEVKEIFRKSPFLVPKGSVSIMDGSDEGILAWVTVNFLTGQLHGHRQETVGTLDLGGASTQITFLPQFEKTLEQTPRGYLTSFEMFNSTYKLYTHSYLGFGLKAARLATLGALETEGTDGHTFRSACLPRWLEAEWIFGGVKYQYGGNQEGEVGFEPCYAEVLRVVRGKLHQPEEVQRGSFYAFSYYYDRAVDTDMIDYEKGGILKVEDFERKAREVCDNLENFTSGSPFLCMDLSYITALLKDGFGFADSTVLQHIISWVN
+PTM	

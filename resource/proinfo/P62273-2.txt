@@ -1,0 +1,25 @@
+UniprotID	P62273-2
+Accession	P62273;A8MZ73;P30054
+EntryName	RS29_HUMAN
+ProteinName	Small ribosomal subunit protein uS14 (40S ribosomal protein S29)
+GeneName	RPS29
+Length	67
+Function	Component of the small ribosomal subunit (PubMed:23636399, PubMed:25901680, PubMed:25957688). The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:23636399, PubMed:25901680, PubMed:25957688).
+Subcellular Location	Cytoplasm; Cytosol; Cytoplasm; Rough endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGHQQLYWSHPRKFGQGSRSCRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKKDLSCLPWHCLWR
+PTM	Acetylation:13,33,48,54;Methylation:12,33;Phosphorylation:7,9,18;Ubiquitylation:13,33,48,54

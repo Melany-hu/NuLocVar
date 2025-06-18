@@ -1,0 +1,25 @@
+UniprotID	H0YJ25
+Accession	H0YJ25
+EntryName	H0YJ25_HUMAN
+ProteinName	Protein Churchill
+GeneName	CHURC1-FNTB
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	31...36
+validnes_region	
+nesbase_region	
+Sequence	GCAVCSKRDFMLITNKSLKEEDGEEIVTYDRKSRRKDPRGLQFLQVQPPCTKCLDASRPWLCYWILHSL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A6Q8PFR3
+Accession	A0A6Q8PFR3
+EntryName	A0A6Q8PFR3_HUMAN
+ProteinName	Calpastatin (Calpain inhibitor)
+GeneName	CAST
+Length	94
+Function	Specific inhibition of calpain (calcium-dependent cysteine protease). Plays a key role in postmortem tenderization of meat and have been proposed to be involved in muscle protein degradation in living tissue.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAPAPVSEAVCRTSMCSIQSAPPEPATLKGTVPDDAVEALADSLGKKEADPEDGKPVMDKVKEKAKEEDREKLGEKEETIPPDYRLEEVKSLGF
+PTM	

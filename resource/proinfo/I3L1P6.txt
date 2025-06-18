@@ -1,0 +1,25 @@
+UniprotID	I3L1P6
+Accession	I3L1P6
+EntryName	I3L1P6_HUMAN
+ProteinName	Phospholipid scramblase 3
+GeneName	PLSCR3
+Length	118
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGYLPPKGYAPSPPPPYPVTPGYPEPALHPGPGQAPVPAQVPAPAPGFALFPSPGPVALGSAAPFLPLPGVPSGLEFLVQIDQILIHQKAERVENGSTGSTRHHHWPRATDLASLPP
+PTM	

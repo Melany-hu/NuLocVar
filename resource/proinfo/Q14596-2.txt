@@ -1,0 +1,25 @@
+UniprotID	Q14596-2
+Accession	Q14596;Q13173;Q15026;Q5J7Q8;Q96GB6;Q9NRF7
+EntryName	NBR1_HUMAN
+ProteinName	Next to BRCA1 gene 1 protein (Cell migration-inducing gene 19 protein) (Membrane component chromosome 17 surface marker 2) (Neighbor of BRCA1 gene 1 protein) (Protein 1A1-3B)
+GeneName	NBR1 1A13B KIAA0049 M17S2 MIG19
+Length	937
+Function	Ubiquitin-binding autophagy adapter that participates in different processes including host defense or intracellular homeostasis (PubMed:24692539, PubMed:33577621). Possesses a double function during the selective autophagy by acting as a shuttle bringing ubiquitinated proteins to autophagosomes and also by participating in the formation of protein aggregates (PubMed:24879152, PubMed:34471133). Plays a role in the regulation of the innate immune response by modulating type I interferon production and targeting ubiquitinated IRF3 for autophagic degradation (PubMed:35914352). In response to oxidative stress, promotes an increase in SQSTM1 levels, phosphorylation, and body formation by preventing its autophagic degradation (By similarity). In turn, activates the KEAP1-NRF2/NFE2L2 antioxidant pathway (By similarity). Also plays non-autophagy role by mediating the shuttle of IL-12 to late endosome for subsequent secretion (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasmic vesicle; Autophagosome; Lysosome; Cytoplasm; Myofibril; Sarcomere; M line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPQVTLNVTFKNEIQSFLVSDPENTTWADIEAMVKVSFDLNTIQIKYLDEENEEVSINSQGEYEEALKMAVKQGNQLQMQVHEGHHVVDEAPPPVVGAKRLAARAGKKPLAHYSSLVRVLGSDMKTPEDPAVQSFPLVPCDTDQPQDKPPDWFTSYLETFREQVVNETVEKLEQKLHEKLVLQNPSLGSCPSEVSMPTSEETLFLPENQFSWHIACNNCQRRIVGVRYQCSLCPSYNICEDCEAGPYGHDTNHVLLKLRRPVVGSSEPFCHSKYSTPRLPAALEQVRLQKQVDKNFLKAEKQRLRAEKKQRKAEVKELKKQLKLHRKIHLWNSIHGLQSPKSPLGRPESLLQSNTLMLPLQPCTSVMPMLSAAFVDENLPDGTHLQPGTKFIKHWRMKNTGNVKWSADTKLKFMWGNLTLASTEKKDVLVPCLKAGHVGVVSVEFIAPALEGTYTSHWRLSHKGQQFGPRVWCSIIVDPFPSEESPDNIEKGMISSSKTDDLTCQQEETFLLAKEERQLGEVTEQTEGTAACIPQKAKNVASERELYIPSVDLLTAQDLLSFELLDINIVQELERVPHNTPVDVTPCMSPLPHDSPLIEKPGLGQIEEENEGAGFKALPDSMVSVKRKAENIASVEEAEEDLSGTQFVCETVIRSLTLDAAPDHNPPCRQKSLQMTFALPEGPLGNEKEEIIHIAEEEAVMEEEEDEEDEEEEDELKDEVQSQSSASSEDYIIILPECFDTSRPLGDSMYSSALSQPGLERGAEGKPGVEAGQEPAEAGERLPGGENQPQEHSISDILTTSQTLETVPLIPEVVELPPSLPRSSPCVHHHGSPGVDLPVTIPEVSSVPDQIRGEPRGSSGLVNSRQKSYDHSRHHHGSSIAGGLVKGALSVAASAYKALFAGPPVTAQGLWGLLSFLHLAKKCFFLKAPSEAFSWF
+PTM	Methylation:69,258,299,492,515,601,689,718;Phosphorylation:6,114,115,116,276,277,340,486,581,586,590,622,656,658,673,677,824,825,833;SUMOylation:47,109,149,515,537,539,629;Ubiquitylation:109,126,149,172,176,274,291,295,299,328,405,411,464,492,499,515,537,539,617,627,767,887,898

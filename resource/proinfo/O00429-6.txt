@@ -1,0 +1,25 @@
+UniprotID	O00429-6
+Accession	O00429;A8K4X9;B4DGC9;B4DSU8;G8JLD5;J3KPI2;O14541;O60709;Q59GN9;Q7L6B3;Q8TBT7;Q9BWM1;Q9Y5J2
+EntryName	DNM1L_HUMAN
+ProteinName	Dynamin-1-like protein (EC 3.6.5.5) (Dnm1p/Vps1p-like protein) (DVLP) (Dynamin family member proline-rich carboxyl-terminal domain less) (Dymple) (Dynamin-like protein) (Dynamin-like protein 4) (Dynamin-like protein IV) (HdynIV) (Dynamin-related protein 1)
+GeneName	DNM1L DLP1 DRP1
+Length	749
+Function	Functions in mitochondrial and peroxisomal division (PubMed:11514614, PubMed:12499366, PubMed:17301055, PubMed:17460227, PubMed:17553808, PubMed:18695047, PubMed:18838687, PubMed:19342591, PubMed:19411255, PubMed:19638400, PubMed:23283981, PubMed:23530241, PubMed:23921378, PubMed:26992161, PubMed:27145208, PubMed:27145933, PubMed:27301544, PubMed:27328748, PubMed:29478834, PubMed:32439975, PubMed:32484300, PubMed:9570752, PubMed:9786947). Mediates membrane fission through oligomerization into membrane-associated tubular structures that wrap around the scission site to constrict and sever the mitochondrial membrane through a GTP hydrolysis-dependent mechanism (PubMed:23530241, PubMed:23584531, PubMed:33850055). The specific recruitment at scission sites is mediated by membrane receptors like MFF, MIEF1 and MIEF2 for mitochondrial membranes (PubMed:23283981, PubMed:23921378, PubMed:29899447). While the recruitment by the membrane receptors is GTP-dependent, the following hydrolysis of GTP induces the dissociation from the receptors and allows DNM1L filaments to curl into closed rings that are probably sufficient to sever a double membrane (PubMed:29899447). Acts downstream of PINK1 to promote mitochondrial fission in a PRKN-dependent manner (PubMed:32484300). Plays an important role in mitochondrial fission during mitosis (PubMed:19411255, PubMed:26992161, PubMed:27301544, PubMed:27328748). Through its function in mitochondrial division, ensures the survival of at least some types of postmitotic neurons, including Purkinje cells, by suppressing oxidative damage (By similarity). Required for normal brain development, including that of cerebellum (PubMed:17460227, PubMed:26992161, PubMed:27145208, PubMed:27301544, PubMed:27328748). Facilitates developmentally regulated apoptosis during neural tube formation (By similarity). Required for a normal rate of cytochrome c release and caspase activation during apoptosis; this requirement may depend upon the cell type and the physiological apoptotic cues (By similarity). Required for formation of endocytic vesicles (PubMed:20688057, PubMed:23792689, PubMed:9570752). Proposed to regulate synaptic vesicle membrane dynamics through association with BCL2L1 isoform Bcl-X(L) which stimulates its GTPase activity in synaptic vesicles; the function may require its recruitment by MFF to clathrin-containing vesicles (PubMed:17015472, PubMed:23792689). Required for programmed necrosis execution (PubMed:22265414). Rhythmic control of its activity following phosphorylation at Ser-637 is essential for the circadian control of mitochondrial ATP production (PubMed:29478834).
+Subcellular Location	Cytoplasm; Cytosol; Golgi apparatus; Endomembrane system; Mitochondrion outer membrane; Peroxisome; Membrane; Clathrin-coated pit; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEALIPVINKLQDVFNTVGADIIQLPQIVVVGTQSSGKSSVLESLVGRDLLPRGTGIVTRRPLILQLVHVSQEDKRKTTGEENDPATWKNSRHLSKGVEAEEWGKFLHTKNKLYTDFDEIRQEIENETERISGNNKGVSPEPIHLKIFSPNVVNLTLVDLPGMTKVPVGDQPKDIELQIRELILRFISNPNSIILAVTAANTDMATSEALKISREVDPDGRRTLAVITKLDLMDAGTDAMDVLMGRVIPVKLGIIGVVNRSQLDINNKKSVTDSIRDEYAFLQKKYPSLANRNGTKYLARTLNRLLMHHIRDCLPELKTRINVLAAQYQSLLNSYGEPVDDKSATLLQLITKFATEYCNTIEGTAKYIETSELCGGARICYIFHETFGRTLESVDPLGGLNTIDILTAIRNATGPRPALFVPEVSFELLVKRQIKRLEEPSLRCVELVHEEMQRIIQHCSNYSTQELLRFPKLHDAIVEVVTCLLRKRLPVTNEMVHNLVAIELAYINTKHPDFADACGLMNNNIEEQRRNRLARELPSAVSRDKSSKVPSALAPASQEPSPAASAEADGKLIQDSRRETKNVASGGGGVGDGVQEPTTGNWRGMLKTSKAEELLAEEKSKPIPIMPASPQKGHAVNLLDVPVPVARKLSAREQRDCEVIERLIKSYFLIVRKNIQDSVPKAVMHFLVNHVKDTLQSELVGQLYKSSLLDDLLTESEDMAQRRKEAADMLKALQGASQIIAEIRETHLW
+PTM	Acetylation:92,160,271,305,597,718;Methylation:10,38,123,198,216,305,329,339,353,418,474,558,606,679,692,718;Phosphorylation:39,40,44,78,115,126,257,259,261,266,330,338,357,358,368,526,529,544,548,552,563,572,585,586,595,596,607,616,665,693,694,701,703,724;Ubiquitylation:123,152,160,238,255,305,418,597,606,608

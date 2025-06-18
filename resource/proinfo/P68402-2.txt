@@ -1,0 +1,25 @@
+UniprotID	P68402-2
+Accession	P68402;A8DPS5;A8DPS6;A8DPS7;E9PEJ5;E9PLP3;O00687;Q29459;Q6IBR6
+EntryName	PA1B2_HUMAN
+ProteinName	Platelet-activating factor acetylhydrolase IB subunit alpha2 (EC 3.1.1.47) (PAF acetylhydrolase 30 kDa subunit) (PAF-AH 30 kDa subunit) (PAF-AH subunit beta) (PAFAH subunit beta)
+GeneName	PAFAH1B2 PAFAHB
+Length	155
+Function	Alpha2 catalytic subunit of the cytosolic type I platelet-activating factor (PAF) acetylhydrolase (PAF-AH (I)) heterotetrameric enzyme that catalyzes the hydrolyze of the acetyl group at the sn-2 position of PAF and its analogs and modulates the action of PAF. The activity and substrate specificity of PAF-AH (I) are affected by its subunit composition. The alpha2/alpha2 homodimer (PAFAH1B2/PAFAH1B2 homodimer) hydrolyzes PAF and 1-O-alkyl-2-acetyl-sn-glycero-3-phosphorylethanolamine (AAGPE) more efficiently than 1-O-alkyl-2-acetyl-sn-glycero-3-phosphoric acid (AAGPA). In contrast, the alpha1/alpha2 heterodimer(PAFAH1B3/PAFAH1B3 heterodimer) hydrolyzes AAGPA more efficiently than PAF, but has little hydrolytic activity towards AAGPE (By similarity). May play a role in male germ cell meiosis during the late pachytenestage and meiotic divisions as well as early spermiogenesis (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSQGDSNPAAIPHAAEDIQGDDRWMSQHNRFVLDCKDKEPDVLFVGDSMVQLMQQYEIWRELFSPLHALNFGIGGDTTRHVLWRLKNGELENIKPKVIVVWVGTNNHENTAEEVAGGIEAIVQLINTRQPQAKIIVLIIYWQDEQDYHERKVQMD
+PTM	Acetylation:145,155;Methylation:38,94,161;Phosphorylation:2,6,64,220;SUMOylation:166;Ubiquitylation:36,145,161

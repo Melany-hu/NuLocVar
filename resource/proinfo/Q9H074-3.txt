@@ -1,0 +1,25 @@
+UniprotID	Q9H074-3
+Accession	Q9H074;A6NKV8;O60455;Q96B61;Q9BS63
+EntryName	PAIP1_HUMAN
+ProteinName	Polyadenylate-binding protein-interacting protein 1 (PABP-interacting protein 1) (PAIP-1) (Poly(A)-binding protein-interacting protein 1)
+GeneName	PAIP1
+Length	367
+Function	Acts as a coactivator in the regulation of translation initiation of poly(A)-containing mRNAs. Its stimulatory activity on translation is mediated via its action on PABPC1. Competes with PAIP2 for binding to PABPC1. Its association with EIF4A and PABPC1 may potentiate contacts between mRNA termini. May also be involved in translationally coupled mRNA turnover. Implicated with other RNA-binding proteins in the cytoplasmic deadenylation/translational and decay interplay of the FOS mRNA mediated by the major coding-region determinant of instability (mCRD) domain.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKPQVVVAPVLMSKLSVNAPEFYPSGYSSSYTESYEDGCEDYPTLSEYVQDFLNHLTEQPGSFETEIEQFAETLNGCVTTDDALQELVELIYQQATSIPNFSYMGARLCNYLSHHLTISPQSGNFRQLLLQRCRTEYEVKDQAAKGDEVTRKRFHAFVLFLGELYLNLEIKGTNGQVTRADILQVGLRELLNALFSNPMDDNLICAVKLLKLTGSVLEDAWKEKGKMDMEEIIQRIENVVLDANCSRDVKQMLLKLVELRSSNWGRVHATSTYREATPENDPNYFMNEPTFYTSDGVPFTAADPDYQEKYQELLEREDFFPDYEENGTDLSGAGDPYLDDIDDEMDPEIEEAYEKFCLESERKRKQ
+PTM	Acetylation:49,115;Methylation:7,13,15,17,21,42,63,115,258,284,321;Phosphorylation:65,77,82,359,390,403,406,407,423,473;Ubiquitylation:335,368

@@ -1,0 +1,25 @@
+UniprotID	K7ES52
+Accession	K7ES52
+EntryName	K7ES52_HUMAN
+ProteinName	Thymidine kinase (EC 2.7.1.21)
+GeneName	TK1
+Length	180
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCINLPTVLPGSPSKTRGQIQVILGPMFSGKSTELMRRVRRFQIAQYKCLVIKYAKDTRYSSSFCTHDRNTMEALPACLLRDVAQEALGVAVIGIDEGQFFPDIVEFCEAMANAGKTVIVAALDGTFQRKPFGAILNLVPLAESVVKLTAVCMECFREAAYTKRLGTEKEQILQCSPAN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96B36-3
+Accession	Q96B36;A8MTQ1;B2RE93;J3KPM3;Q96BI4;Q96IK7;Q96NG2;Q9BWR5
+EntryName	AKTS1_HUMAN
+ProteinName	Proline-rich AKT1 substrate 1 (40 kDa proline-rich AKT substrate)
+GeneName	AKT1S1 PRAS40
+Length	276
+Function	Negative regulator of the mechanistic target of rapamycin complex 1 (mTORC1), an evolutionarily conserved central nutrient sensor that stimulates anabolic reactions and macromolecule biosynthesis to promote cellular biomass generation and growth (PubMed:17277771, PubMed:17386266, PubMed:17510057, PubMed:29236692). In absence of insulin and nutrients, AKT1S1 associates with the mTORC1 complex and directly inhibits mTORC1 activity by blocking the MTOR substrate-recruitment site (PubMed:29236692). In response to insulin and nutrients, AKT1S1 dissociates from mTORC1 (PubMed:17386266, PubMed:18372248). Its activity is dependent on its phosphorylation state and binding to 14-3-3 (PubMed:16174443, PubMed:18372248). May also play a role in nerve growth factor-mediated neuroprotection (By similarity).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFEGGDGAGPAMLATGTARMASGRPEELWEAVVGAAERFRARTGTELVLLTAAPPPPPRPGPCAYAAHGRGALAEAARRCLHDIALAHRAATAARPPAPPPAPQPPSPTPSPPRPTLAREDNEEDEDEPTETETSGEQLGISDNGGLFVMDEDATLQDLPPFCESDPESTDDGSLSEETPAGPPTCSVPPASALPTQQYAKSLPVSVPVWGFKEKRTEARSSDEENGPPSSPDLDRIAASMRALVLREAEDTQVFGDLPRPRLNTSDFQKLKRKY
+PTM	Acetylation:251;Methylation:51,59;Phosphorylation:73,88,90,92,97,183,187,198,202,203,211,212,221,246,247;Ubiquitylation:194

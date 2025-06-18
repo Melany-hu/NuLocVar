@@ -1,0 +1,25 @@
+UniprotID	O15527-3
+Accession	O15527;A8K1E3;O00390;O00670;O00705;O14876;O95488;P78554;Q9BW42;Q9UIK0;Q9UIK1;Q9UIK2;Q9UL34;Q9Y2C0;Q9Y2C1;Q9Y6C3;Q9Y6C4
+EntryName	OGG1_HUMAN
+ProteinName	N-glycosylase/DNA lyase [Includes: 8-oxoguanine DNA glycosylase (EC 3.2.2.-); DNA-(apurinic or apyrimidinic site) lyase (AP lyase) (EC 4.2.99.18)]
+GeneName	OGG1 MMH MUTM OGH1
+Length	410
+Function	DNA repair enzyme that incises DNA at 8-oxoG residues. Excises 7,8-dihydro-8-oxoguanine and 2,6-diamino-4-hydroxy-5-N-methylformamidopyrimidine (FAPY) from damaged DNA. Has a beta-lyase activity that nicks DNA 3' to the lesion.
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus speckle; Nucleus matrix; Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPARALLPRRMGHRTLASTPALWASIPCPRSELRLDLVLPSGQSFRWREQSPAHWSGVLADQVWTLTQTEEQLHCTVYRGDKSQASRPTPDELEAVRKYFQLDVTLAQLYHHWGSVDSHFQEVAQKFQGVRLLRQDPIECLFSFICSSNNNIARITGMVERLCQAFGPRLIQLDDVTYHGFPSLQALAGPEVEAHLRKLGLGYRARYVSASARAILEEQGGLAWLQQLRESSYEEAHKALCILPGVGTKVADCICLMALDKPQAVPVDVHMWHIAQRDYSWHPTTSQAKGPSPQTNKELGNFFRSLWGPYAGWAQATPPSYRCCSVPTCANPAMLRSHQQSAERVPKGRKARWGTLDKEIPQAPSPPFPTSLSPSPPSLMLGRGLPVTTSKARHPQIKQSVCTTRWGGGY
+PTM	Phosphorylation:248;Ubiquitylation:289,297

@@ -1,0 +1,25 @@
+UniprotID	E5RFX0
+Accession	E5RFX0
+EntryName	E5RFX0_HUMAN
+ProteinName	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1
+GeneName	HACE1
+Length	138
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMVMADQHRSVSELLSNSKFDVNYAFGRVKRSLLHIAANCGSVECLVLLLKKGANPNYQDISGCTPLHLAARNGQKKCMSKLLEYSADVNICNNEGLTAIHWLAVNGRTELLHDLVQHVSDVDVEDAMGQTALHVAC
+PTM	

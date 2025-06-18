@@ -1,0 +1,25 @@
+UniprotID	P34925-2
+Accession	P34925;A0A087WUK1;A0A096LNL3;Q04696
+EntryName	RYK_HUMAN
+ProteinName	Tyrosine-protein kinase RYK (EC 2.7.10.1)
+GeneName	RYK JTK5A
+Length	610
+Function	May be a coreceptor along with FZD8 of Wnt proteins, such as WNT1, WNT3, WNT3A and WNT5A. Involved in neuron differentiation, axon guidance, corpus callosum establishment and neurite outgrowth. In response to WNT3 stimulation, receptor C-terminal cleavage occurs in its transmembrane region and allows the C-terminal intracellular product to translocate from the cytoplasm to the nucleus where it plays a crucial role in neuronal development.
+Subcellular Location	Membrane; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGAARLGRPGRSCLPGARGLRAPPPPPLLLLLALLPLLPAPGAAAAPAPRPPELQSASAGPSVSLYLSEDEVRRLIGLDAELYYVRNDLISHYALSFSLLVPSETNFLHFTWHAKSKVEYKLGFQVDNVLAMDMPQVNISVQGEVPRTLSVFRVELSCTGKVDSEVMILMQLNLTVNSSKNFTVLNFKRRKMCYKKLEEVKTSALDKNTSRTIYDPVHAAPTTSTRVFYISVGVCCAVIFLVAIILAVLHLHSMKRIELDDSISASSSSQGLSQPSTQTTQYLRADTPNNATPITSSLGYPTLRIEKNDLRSVTLLEAKGKVKDIAISRERITLKDVLQEGTFGRIFHGILIDEKDPNKEKQAFVKTVKDQASEIQVTMMLTESCKLRGLHHRNLLPITHVCIEEGEKPMVILPYMNWGNLKLFLRQCKLVEANNPQAISQQDLVHMAIQIACGMSYLARREVIHKDLAARNCVIDDTLQVKITDNALSRDLFPMDYHCLGDNENRPVRWMALESLVNNEFSSASDVWAFGVTLWELMTLGQTPYVDIDPFEMAAYLKDGYRIAQPINCPDELFAVMACCWALDPEERPKFQQLVQCLTEFHAALGAYV
+PTM	Methylation:317,333,391,406,556;Phosphorylation:288;Ubiquitylation:317,321,333,359

@@ -1,0 +1,25 @@
+UniprotID	P52744-3
+Accession	P52744;B4DFX2;B4DP87;E9PHI7;E9PHK7
+EntryName	ZN138_HUMAN
+ProteinName	Zinc finger protein 138
+GeneName	ZNF138
+Length	126
+Function	May be involved in transcriptional regulation as a repressor.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPLTFMDVAIEFSLEEWQCLDTAQRNVYRHVMLENYRNLVFLDLITCLEQGKEPWNMKRHEMVVAKHSAVAFTYDLSGLNILSFQSILPFVSALYVMGNRNQCLQKHLEARNKDLCVLVLPKTFG
+PTM	Methylation:183;Phosphorylation:78,79,150,151,154,161,179,207,210;SUMOylation:86,164,167,220,223,232,251

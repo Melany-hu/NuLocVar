@@ -1,0 +1,25 @@
+UniprotID	Q9BYV2-2
+Accession	Q9BYV2;A5D8T7;Q53SY4;Q9BYV3
+EntryName	TRI54_HUMAN
+ProteinName	Tripartite motif-containing protein 54 (Muscle-specific RING finger protein) (MuRF) (Muscle-specific RING finger protein 3) (MuRF-3) (MuRF3) (RING finger protein 30)
+GeneName	TRIM54 MURF MURF3 RNF30
+Length	400
+Function	May bind and stabilize microtubules during myotubes formation.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNFTVGFKPLLGDAHSMDNLEKQLICPICLEMFSKPVVILPCQHNLCRKCANDVFQASNPLWQSRGSTTVSSGGRFRCPSCRHEVVLDRHGVYGLQRNLLVENIIDIYKQESSRPLHSKAEQHLMCEEHEEEKINIYCLSCEVPTCSLCKVFGAHKDCEVAPLPTIYKRQKKQDLTLLPRLECSGTNTTYCSLDLPSSSDPPILASQNTKIIDSELSDGIAMLVAGNDRVQAVITQMEEVCQTIEDNSRRQKQLLNQRFESLCAVLEERKGELLQALAREQEEKLQRVRGLIRQYGDHLEASSKLVESAIQSMEEPQMALYLQQAKELINKVGAMSKVELAGRPEPGYESMEQFTVRVEHVAEMLRTIDFQPGASGEEEEVAPDGEEGSAGPEEERPDGP
+PTM	Methylation:22,289;Phosphorylation:34,172

@@ -1,0 +1,25 @@
+UniprotID	Q08379-2
+Accession	Q08379;A0A0C4DGS5;Q6GRM9;Q9BRB0;Q9NYF9
+EntryName	GOGA2_HUMAN
+ProteinName	Golgin subfamily A member 2 (130 kDa cis-Golgi matrix protein) (GM130) (GM130 autoantigen) (Golgin-95)
+GeneName	GOLGA2
+Length	620
+Function	Peripheral membrane component of the cis-Golgi stack that acts as a membrane skeleton that maintains the structure of the Golgi apparatus, and as a vesicle thether that facilitates vesicle fusion to the Golgi membrane (Probable) (PubMed:16489344). Required for normal protein transport from the endoplasmic reticulum to the Golgi apparatus and the cell membrane (By similarity). Together with p115/USO1 and STX5, involved in vesicle tethering and fusion at the cis-Golgi membrane to maintain the stacked and inter-connected structure of the Golgi apparatus. Plays a central role in mitotic Golgi disassembly: phosphorylation at Ser-37 by CDK1 at the onset of mitosis inhibits the interaction with p115/USO1, preventing tethering of COPI vesicles and thereby inhibiting transport through the Golgi apparatus during mitosis (By similarity). Also plays a key role in spindle pole assembly and centrosome organization (PubMed:26165940). Promotes the mitotic spindle pole assembly by activating the spindle assembly factor TPX2 to nucleate microtubules around the Golgi and capture them to couple mitotic membranes to the spindle: upon phosphorylation at the onset of mitosis, GOLGA2 interacts with importin-alpha via the nuclear localization signal region, leading to recruit importin-alpha to the Golgi membranes and liberate the spindle assembly factor TPX2 from importin-alpha. TPX2 then activates AURKA kinase and stimulates local microtubule nucleation. Upon filament assembly, nascent microtubules are further captured by GOLGA2, thus linking Golgi membranes to the spindle (PubMed:19242490, PubMed:26165940). Regulates the meiotic spindle pole assembly, probably via the same mechanism (By similarity). Also regulates the centrosome organization (PubMed:18045989, PubMed:19109421). Also required for the Golgi ribbon formation and glycosylation of membrane and secretory proteins (PubMed:16489344, PubMed:17314401).
+Subcellular Location	Golgi apparatus; cis-Golgi network membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	26..49
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESVRQLQMERDKYAENLKGESAMWRQRMQQMSEQVHTLREEKECSMSRVQELETSLAELRNQMAEPPPPEPPAGPSEVEQQLQAEAEHLRKELEGLAGQLQAQVQDNEGLSRLNREQEERLLELERAAELWGEQAEARRQILETMQNDRTTISRALSQNRELKEQLAELQSGFVKLTNENMEITSALQSEQHVKRELGKKLGELQEKLSELKETVELKSQEAQSLQQQRDQYLGHLQQYVAAYQQLTSEKEVLHNQLLLQTQLVDQLQQQEAQGKAVAEMARQELQETQERLEAATQQNQQLRAQLSLMAHPGEGDGLDREEEEDEEEEEEEAVAVPQPMPSIPEDLESREAMVAFFNSAVASAEEEQARLRGQLKEQRVRCRRLAHLLASAQKEPEAAAPAPGTGGDSVCGETHRALQGAMEKLQSRFMELMQEKADLKERVEELEHRCIQLSGETDTIGEYIALYQSQRAVLKERHREKEEYISRLAQDKEEMKVKLLELQELVLRLVGDRNEWHGRFLAAAQNPADEPTSGAPAPQELGAANQQGDLCEVSLAGSVEPAQGEAREGSPRDNPTAQQIMQLLREMQNPRERPGLGSNPCIPFFYRADENDEVKITVI
+PTM	Acetylation:21,45,320,590;Methylation:157,186,302,320,340,401,532,558,590,601,759,858;Phosphorylation:37,42,54,58,59,60,61,66,70,92,122,123,124,126,195,273,437,438,540,671,788,792,867,953,959,981;SUMOylation:311;Ubiquitylation:45,202,208,247,280,302,311,340,595,601,807,819,858,881

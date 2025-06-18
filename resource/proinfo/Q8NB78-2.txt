@@ -1,0 +1,25 @@
+UniprotID	Q8NB78-2
+Accession	Q8NB78;A2A2C5;A2A2C6;Q5TGV3;Q6AI15;Q6ZUU4;Q8N258;Q96EL7
+EntryName	KDM1B_HUMAN
+ProteinName	Lysine-specific histone demethylase 2 (EC 1.14.99.66) (Flavin-containing amine oxidase domain-containing protein 1) (Lysine-specific histone demethylase 1B)
+GeneName	KDM1B AOF1 C6orf193 LSD2
+Length	590
+Function	Histone demethylase that demethylates 'Lys-4' of histone H3, a specific tag for epigenetic transcriptional activation, thereby acting as a corepressor. Required for de novo DNA methylation of a subset of imprinted genes during oogenesis. Acts by oxidizing the substrate by FAD to generate the corresponding imine that is subsequently hydrolyzed. Demethylates both mono- and di-methylated 'Lys-4' of histone H3. Has no effect on tri-methylated 'Lys-4', mono-, di- or tri-methylated 'Lys-9', mono-, di- or tri-methylated 'Lys-27', mono-, di- or tri-methylated 'Lys-36' of histone H3, or on mono-, di- or tri-methylated 'Lys-20' of histone H4. Alone, it is unable to demethylate H3K4me on nucleosomes and requires the presence of GLYR1 to achieve such activity, they form a multifunctional enzyme complex that modifies transcribed chromatin and facilitates Pol II transcription through nucleosomes (PubMed:30970244).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATPRGRTKKKASFDHSPDSLPLRSSGRQAKKKATETTDEDEDGGSEKKYRKCEKAGCTATCPVCFASASERCAKNGYTSRWYHLSCGEHFCNECFDHYYRSHKDGYDKYTTWKKIWTSNGKTEPSPKAFMADQQLPYWVQCTKPECRKWRQLTKEIQLTPQIAKTYRCGMKPNTAIKPETSDHCSLPEDLEALTPQKCIPHIIVRGLVRIRCVQEVERILYFMTRKGLINTGVLSVGADQYLLPKDYHNKSVIIIGAGPAGLAAARQLHNFGIKVTVLEAKDRIGGRVWDDKSFKGVTVGRGAQIVNGCINNPVALMCEQVSARSWDHNEFFAQFAGDHTLLTPGYSVIIEKLAEGLDIQLKSPVQCIDYSGDEVQVTTTDGTGYSAQKVLVTVPLALLQKGAIQFNPPLSEKKMKAINSLGAGIIEKIALQFPYRFWDSKVQGADFFGHVPPSASKRGLFAVFYDMDPQKKHSVLMSVIAGEAVASVRTLDDKQVLQQCMATLRELFKEQEVPDPTKYFVTRWSTDPWIQMAYSFVKTGGSGEAYDIIAEDIQGTVFFAGEATNRHFPQTVTGAYLSGVREASKIAAF
+PTM	Acetylation:109,178;Methylation:165,518,585,634,661,727,771;Phosphorylation:13,17,20,25,37,38,118,119,126,243,247,254,357,517,673,720;SUMOylation:11,33,122,144,155,178,250,414,428,518,649;Ubiquitylation:155,428

@@ -1,0 +1,25 @@
+UniprotID	F5GXW5
+Accession	F5GXW5
+EntryName	F5GXW5_HUMAN
+ProteinName	Protein C10
+GeneName	C12orf57
+Length	97
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASASTQPAALSAEQAKVVLAEVIQAFSAPENAVRMDEARDNACNDMGVLKFARLVKSYEAQDPEIASLSGKLKALFLPPMTLPPHGPAAGGSVAAS
+PTM	

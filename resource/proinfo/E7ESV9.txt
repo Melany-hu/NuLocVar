@@ -1,0 +1,25 @@
+UniprotID	E7ESV9
+Accession	E7ESV9
+EntryName	E7ESV9_HUMAN
+ProteinName	C-type lectin domain family 1 member A
+GeneName	CLEC1A
+Length	188
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQAKYSSTRDMLDDDGDTTMSLHSQGSATTRHPEPRRTAHRCSPCTEQWKWHGDNCYQFYKDSKSWEDCKYFCLSENSTMLKINKQEDLEFAASQSYSEFFYSYWTGLLRPDSGKAWLWMDGTPFTSELFHIIIDVTSPRSRDCVAILNGMIFSKDCKELKRCVCERRAGMVKPESLHVPPETLGEGD
+PTM	

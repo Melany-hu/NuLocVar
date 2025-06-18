@@ -1,0 +1,25 @@
+UniprotID	F5GX50
+Accession	F5GX50
+EntryName	F5GX50_HUMAN
+ProteinName	Diablo IAP-binding mitochondrial protein
+GeneName	DIABLO
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAALKSWLSRSVTSFFRYRCGRVEGTGPEGGTDADSAVARPTAPAFLTRSSLVRPAGSRRLAPVQTVFVCSCCG
+PTM	

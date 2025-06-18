@@ -1,0 +1,25 @@
+UniprotID	Q9NY27-2
+Accession	Q9NY27;A8K1I6;Q2TAJ9;Q498B8;Q8WXX6
+EntryName	PP4R2_HUMAN
+ProteinName	Serine/threonine-protein phosphatase 4 regulatory subunit 2
+GeneName	PPP4R2 SBBI57
+Length	360
+Function	Regulatory subunit of serine/threonine-protein phosphatase 4 (PP4). May regulate the activity of PPP4C at centrosomal microtubule organizing centers. Its interaction with the SMN complex leads to enhance the temporal localization of snRNPs, suggesting a role of PPP4C in maturation of spliceosomal snRNPs. The PPP4C-PPP4R2-PPP4R3A PP4 complex specifically dephosphorylates H2AX phosphorylated on 'Ser-140' (gamma-H2AX) generated during DNA replication and required for DNA double strand break repair. Mediates RPA2 dephosphorylation by recruiting PPP4C to RPA2 in a DNA damage-dependent manner. RPA2 dephosphorylation is required for the efficient RPA2-mediated recruitment of RAD51 to chromatin following double strand breaks, an essential step for DNA repair.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVERLQEALKDFEKRGKKEVCPVLDQFLCHVAKTGETIIPFTIQRLCELLTDPRRNYTGTDKFLRGVEKNVMVVSCVYPSSEKNNSNSLNRMNGVMFPGNSPSYTERSNINGPGTPRPLNRPKVSLSAPMTTNGLPESTDSKEANLQQNEEKNHSDSSTSESEVSSVSPLKNKHPDEDAVEAEGHEVKRLRFDKEGEVRETASQTTSSEISSVMVGETEASSSSQDKDKDSRCTRQHCTEEDEEEDEEEEEESFMTSREMIPERKNQEKESDDALTVNEETSEENNQMEESDVSQAEKDLLHSEGSENEGPVSSSSSDCRETEELVGSNSSKTGEILSESSMENDDEATEVTDEPMEQD
+PTM	Acetylation:246,252;Methylation:11,15,46;Phosphorylation:138,146,159,161,162,163,173,183,185,213,215,216,217,218,220,223,224,226,261,264,265,270,282,289,361,364,375,388,389;SUMOylation:200;Ubiquitylation:11,15,55,84,120,127,141

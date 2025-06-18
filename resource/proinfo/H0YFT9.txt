@@ -1,0 +1,25 @@
+UniprotID	H0YFT9
+Accession	H0YFT9
+EntryName	H0YFT9_HUMAN
+ProteinName	Ubiquitin specific peptidase 28
+GeneName	USP28
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNWRFEQEVEEWEEEQSCKIPQMESSTNSSSQDYSTSQEPSVASSHGVRCLSSEHAVIVKEQTAQAIANTARAYEKSGVEAALSELKEAEPKKPMPQETNLAEQSEQPPKANDAESTAQPNSEVMLSPAMQGVILAIAKARQTFDRDGSEAGLIKAFHEEYSRLYQLAKETPTSHSDPRLQHVLVYFFQNEAPK
+PTM	

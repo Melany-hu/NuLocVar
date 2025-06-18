@@ -1,0 +1,25 @@
+UniprotID	O15392-3
+Accession	O15392;A2SUH6;B2R4R1;Q2I3N8;Q4VGX0;Q53F61;Q5MGC6;Q6FHL2;Q75SP2;Q9P2W8
+EntryName	BIRC5_HUMAN
+ProteinName	Baculoviral IAP repeat-containing protein 5 (Apoptosis inhibitor 4) (Apoptosis inhibitor survivin)
+GeneName	BIRC5 API4 IAP4
+Length	137
+Function	Multitasking protein that has dual roles in promoting cell proliferation and preventing apoptosis (PubMed:20627126, PubMed:21364656, PubMed:25778398, PubMed:28218735, PubMed:9859993). Component of a chromosome passage protein complex (CPC) which is essential for chromosome alignment and segregation during mitosis and cytokinesis (PubMed:16322459). Acts as an important regulator of the localization of this complex; directs CPC movement to different locations from the inner centromere during prometaphase to midbody during cytokinesis and participates in the organization of the center spindle by associating with polymerized microtubules (PubMed:20826784). Involved in the recruitment of CPC to centromeres during early mitosis via association with histone H3 phosphorylated at 'Thr-3' (H3pT3) during mitosis (PubMed:20929775). The complex with RAN plays a role in mitotic spindle formation by serving as a physical scaffold to help deliver the RAN effector molecule TPX2 to microtubules (PubMed:18591255). May counteract a default induction of apoptosis in G2/M phase (PubMed:9859993). The acetylated form represses STAT3 transactivation of target gene promoters (PubMed:20826784). May play a role in neoplasia (PubMed:10626797). Inhibitor of CASP3 and CASP7 (PubMed:21536684). Essential for the maintenance of mitochondrial integrity and function (PubMed:25778398). Isoform 2 and isoform 3 do not appear to play vital roles in mitosis (PubMed:12773388, PubMed:16291752). Isoform 3 shows a marked reduction in its anti-apoptotic effects when compared with the displayed wild-type isoform (PubMed:10626797).
+Subcellular Location	Cytoplasm; Nucleus; Chromosome; Chromosome; Centromere; Cytoplasm; Cytoskeleton; Spindle; Chromosome; Centromere; Kinetochore; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAPTLPPAWQPFLKDHRISTFKNWPFLEGCACTPERMAEAGFIHCPTENEPDLAQCFFCFKELEGWEPDDDPMQRKPTIRRKNLRKLRRKCAVPSSSWLPWIEASGRSCLVPEWLHHFQGLFPGATSLPVGPLAMS
+PTM	Methylation:103;Phosphorylation:34,82;SUMOylation:15,23,78,79,90,91,103;Ubiquitylation:23,78,90,103

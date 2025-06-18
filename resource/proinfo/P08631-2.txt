@@ -1,0 +1,25 @@
+UniprotID	P08631-2
+Accession	P08631;A8K1I1;B4DQB6;E1P5M2;Q29RX1;Q2VPE2;Q504R5;Q5T7K1;Q5T7K2;Q96CC0;Q9H5Y5;Q9NUA4;Q9UMJ5
+EntryName	HCK_HUMAN
+ProteinName	Tyrosine-protein kinase HCK (EC 2.7.10.2) (Hematopoietic cell kinase) (Hemopoietic cell kinase) (p59-HCK/p60-HCK) (p59Hck) (p61Hck)
+GeneName	HCK
+Length	505
+Function	Non-receptor tyrosine-protein kinase found in hematopoietic cells that transmits signals from cell surface receptors and plays an important role in the regulation of innate immune responses, including neutrophil, monocyte, macrophage and mast cell functions, phagocytosis, cell survival and proliferation, cell adhesion and migration. Acts downstream of receptors that bind the Fc region of immunoglobulins, such as FCGR1A and FCGR2A, but also CSF3R, PLAUR, the receptors for IFNG, IL2, IL6 and IL8, and integrins, such as ITGB1 and ITGB2. During the phagocytic process, mediates mobilization of secretory lysosomes, degranulation, and activation of NADPH oxidase to bring about the respiratory burst. Plays a role in the release of inflammatory molecules. Promotes reorganization of the actin cytoskeleton and actin polymerization, formation of podosomes and cell protrusions. Inhibits TP73-mediated transcription activation and TP73-mediated apoptosis. Phosphorylates CBL in response to activation of immunoglobulin gamma Fc region receptors. Phosphorylates ADAM15, BCR, ELMO1, FCGR2A, GAB1, GAB2, RAPGEF1, STAT5B, TP73, VAV1 and WAS.
+Subcellular Location	Lysosome; Membrane; Cell projection; Podosome membrane; Cytoplasm; Cytosol; Cell membrane; Membrane; Caveola; Cell junction; Focal adhesion; Cytoplasm; Cytoskeleton; Golgi apparatus; Cytoplasmic vesicle; Lysosome; Nucleus; Cytoplasmic vesicle; Secretory vesicle; Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGCMKSKFLQVGGNTFSKTETSASPHCPVYVPDPTSTIKPGPNSHNSNTPGIREAGSEDIIVVALYDYEAIHHEDLSFQKGDQMVVLEESGEWWKARSLATRKEGYIPSNYVARVDSLETEEWFFKGISRKDAERQLLAPGNMLGSFMIRDSETTKGSYSLSVRDYDPRQGDTVKHYKIRTLDNGGFYISPRSTFSTLQELVDHYKKGNDGLCQKLSVPCMSSKPQKPWEKDAWEIPRESLKLEKKLGAGQFGEVWMATYNKHTKVAVKTMKPGSMSVEAFLAEANVMKTLQHDKLVKLHAVVTKEPIYIITEFMAKGSLLDFLKSDEGSKQPLPKLIDFSAQIAEGMAFIEQRNYIHRDLRAANILVSASLVCKIADFGLARVIEDNEYTAREGAKFPIKWTAPEAINFGSFTIKSDVWSFGILLMEIVTYGRIPYPGMSNPEVIRALERGYRMPRPENCPEELYNIMMRCWKNRPEERPTFEYIQSVLDDFYTATESQYQQQP
+PTM	Acetylation:418;Methylation:346,396;Phosphorylation:36,51,111,119,180,209,226,261,330,340,411,412,520,522;Ubiquitylation:418,422

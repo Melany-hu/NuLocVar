@@ -1,0 +1,25 @@
+UniprotID	A8MZF5
+Accession	A8MZF5;E7ES72;E9PPF7;H0YEG9
+EntryName	A8MZF5_HUMAN
+ProteinName	Post-GPI attachment to proteins factor 2
+GeneName	PGAP2
+Length	98
+Function	Involved in the lipid remodeling steps of GPI-anchor maturation. Required for stable expression of GPI-anchored proteins at the cell surface.
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLTCILWRLTKKHTVSQEDRKSYSWKQRLFIINFISFFSALAVYFRHNMYCEAGVYTIFAILEYTVVLTNMAFHMTAWWDFGNKELLITSQPEEKRF
+PTM	

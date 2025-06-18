@@ -1,0 +1,25 @@
+UniprotID	Q01780-2
+Accession	Q01780;B1AKQ0;B1AKQ1;Q15158
+EntryName	EXOSX_HUMAN
+ProteinName	Exosome complex component 10 (EC 3.1.13.-) (Autoantigen PM/Scl 2) (P100 polymyositis-scleroderma overlap syndrome-associated autoantigen) (Polymyositis/scleroderma autoantigen 100 kDa) (PM/Scl-100) (Polymyositis/scleroderma autoantigen 2)
+GeneName	EXOSC10 PMSCL PMSCL2 RRP6
+Length	860
+Function	Catalytic component of the RNA exosome complex which has 3'->5' exoribonuclease activity and participates in a multitude of cellular RNA processing and degradation events. In the nucleus, the RNA exosome complex is involved in proper maturation of stable RNA species such as rRNA, snRNA and snoRNA, in the elimination of RNA processing by-products and non-coding 'pervasive' transcripts, such as antisense RNA species and promoter-upstream transcripts (PROMPTs), and of mRNAs with processing defects, thereby limiting or excluding their export to the cytoplasm. Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted degradation of pre-ribosomal RNA by the RNA exosome (PubMed:34516797). The RNA exosome may be involved in Ig class switch recombination (CSR) and/or Ig variable region somatic hypermutation (SHM) by targeting AICDA deamination activity to transcribed dsDNA substrates. In the cytoplasm, the RNA exosome complex is involved in general mRNA turnover and specifically degrades inherently unstable mRNAs containing AU-rich elements (AREs) within their 3' untranslated regions, and in RNA surveillance pathways, preventing translation of aberrant mRNAs. It seems to be involved in degradation of histone mRNA. EXOSC10 is required for nucleolar localization of C1D and probably mediates the association of MTREX, C1D and MPHOSPH6 with the RNA exosome involved in the maturation of 5.8S rRNA. Plays a role in the recruitment of replication protein A complex (RPA) and RAD51 to DNA double-strand breaks caused by irradiation, contributing to DNA repair by homologous recombination (PubMed:25632158, PubMed:31086179). Regulates levels of damage-induced RNAs in order to prevent DNA-RNA hybrid formation at DNA double-strand breaks and limit DNA end resection after damage (PubMed:31086179). Plays a role in oocyte development, maturation and survival (By similarity). Required for normal testis development and mitotic division of spermatogonia (By similarity). Plays a role in proper embryo development (By similarity). Required for global protein translation (PubMed:26857222, PubMed:36912080). Required for cell proliferation (PubMed:36912080). Regulates metabolism of C9orf72-derived repeat RNA that can be translated into toxic dipeptide repeat proteins (PubMed:32830871).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; Nucleolus; Nucleus; Nucleoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPPSTREPRVLSATSATKSDGEMVLPGFPDADSFVKFALGSVVAVTKASGGLPQFGDEYDFYRSFPGFQAFCETQGDRLLQCMSRVMQYHGCRSNIKDRSKVTELEDKFDLLVDANDVILERVGILLDEASGVNKNQQPVLPAGLQVPKTVVSSWNRKAAEYGKKAKSETFRLLHAKNIIRPQLKFREKIDNSNTPFLPKIFIKPNAQKPLPQALSKERRERPQDRPEDLDVPPALADFIHQQRTQQVEQDMFAHPYQYELNHFTPADAVLQKPQPQLYRPIEETPCHFISSLDELVELNEKLLNCQEFAVDLEHHSYRSFLGLTCLMQISTRTEDFIIDTLELRSDMYILNESLTDPAIVKVFHGADSDIEWLQKDFGLYVVNMFDTHQAARLLNLGRHSLDHLLKLYCNVDSNKQYQLADWRIRPLPEEMLSYARDDTHYLLYIYDKMRLEMWERGNGQPVQLQVVWQRSRDICLKKFIKPIFTDESYLELYRKQKKHLNTQQLTAFQLLFAWRDKTARREDESYGYVLPNHMMLKIAEELPKEPQGIIACCNPVPPLVRQQINEMHLLIQQAREMPLLKSEVAAGVKKSGPLPSAERLENVLFGPHDCSHAPPDGYPIIPTSGSVPVQKQASLFPDEKEDNLLGTTCLIATAVITLFNEPSAEDSKKGPLTVAQKKAQNIMESFENPFRMISNRWKLAQVQVQKDSKEAVKKKAAEQTAAREQAKEACKAAAEQAISVRQQVVLENAAKKRERATSDPRTTEQKQEKKRLKISKKPKDPEPPEKEFTPYDYSQSDFKAFAGNSKSKVSSQFDPNKQTPSGKKCIAAKKIKQSVGNKSMSFPTGKSDRGFRYNWPQR
+PTM	Acetylation:102,178,218,408,417,710,778,779,844,850,851,856,865,873;Glycosylation:864;Methylation:37,48,79,109,136,303,363,583,710,835;Phosphorylation:6,13,18,196,491,495,527,528,530,593,598,636,718,784,785,789,790,818,820,846,861,868;SUMOylation:19,37,102,136,150,168,178,186,190,201,205,210,218,274,483,539,583,591,592,633,670,671,680,710,725,736,758,778,793,813,826,833,835,844,859,865,873;Ubiquitylation:136,150,201,205,218,417,479,583,710,716,758,813,826,833

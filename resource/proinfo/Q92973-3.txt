@@ -1,0 +1,25 @@
+UniprotID	Q92973-3
+Accession	Q92973;B4DVC6;Q92957;Q92975
+EntryName	TNPO1_HUMAN
+ProteinName	Transportin-1 (Importin beta-2) (Karyopherin beta-2) (M9 region interaction protein) (MIP)
+GeneName	TNPO1 KPNB2 MIP1 TRN
+Length	848
+Function	Functions in nuclear protein import as nuclear transport receptor. Serves as receptor for nuclear localization signals (NLS) in cargo substrates (PubMed:24753571). May mediate docking of the importin/substrate complex to the nuclear pore complex (NPC) through binding to nucleoporin and the complex is subsequently translocated through the pore by an energy requiring, Ran-dependent mechanism. At the nucleoplasmic side of the NPC, Ran binds to the importin, the importin/substrate complex dissociates and importin is re-exported from the nucleus to the cytoplasm where GTP hydrolysis releases Ran. The directionality of nuclear import is thought to be conferred by an asymmetric distribution of the GTP- and GDP-bound forms of Ran between the cytoplasm and nucleus (By similarity). Involved in nuclear import of M9-containing proteins. In vitro, binds directly to the M9 region of the heterogeneous nuclear ribonucleoproteins (hnRNP), A1 and A2 and mediates their nuclear import. Involved in hnRNP A1/A2 nuclear export. Mediates the nuclear import of ribosomal proteins RPL23A, RPS7 and RPL5 (PubMed:11682607). In vitro, mediates nuclear import of H2A, H2B, H3 and H4 histones (By similarity). In vitro, mediates nuclear import of SRP19 (PubMed:11682607). Mediates nuclear import of ADAR/ADAR1 isoform 1 and isoform 5 in a RanGTP-dependent manner (PubMed:19124606, PubMed:24753571). Main mediator of PR-DUB complex component BAP1 nuclear import; acts redundantly with the karyopherins KPNA1 and KPNA2 (PubMed:35446349).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVWDRQTKMEYEWKPDEQGLQQILQLLKESQSPDTTIQRTVQQKLEQLNQYPDFNNYLIFVLTKLKSEGILITTIASKGELQNWPDLLPKLCSLLDSEDYNTCEGAFGALQKICEDSAEILDSDVLDRPLNIMIPKFLQFFKHSSPKIRSHAVACVNQFIISRTQALMLHIDSFIENLFALAGDEEPEVRKNVCRALVMLLEVRMDRLLPHMHNIVEYMLQRTQDQDENVALEACEFWLTLAEQPICKDVLVRHLPKLIPVLVNGMKYSDIDIILLKGDVEEDETIPDSEQDIRPRFHRSRTVAQQHDEDGIEEEDDDDDEIDDDDTISDWNLRKCSAAALDVLANVYRDELLPHILPLLKELLFHHEWVVKESGILVLGAIAEGCMQGMIPYLPELIPHLIQCLSDKKALVRSITCWTLSRYAHWVVSQPPDTYLKPLMTELLKRILDSNKRVQEAACSAFATLEEEACTELVPYLAYILDTLVFAFSKYQHKNLLILYDAIGTLADSVGHHLNKPEYIQMLMPPLIQKWNMLKDEDKDLFPLLECLSSVATALQSGFLPYCEPVYQRCVNLVQKTLAQAMLNNAQPDQYEAPDKDFMIVALDLLSGLAEGLGGNIEQLVARSNILTLMYQCMQDKMPEVRQSSFALLGDLTKACFQHVKPCIADFMPILGTNLNPEFISVCNNATWAIGEISIQMGIEMQPYIPMVLHQLVEIINRPNTPKTLLENTAITIGRLGYVCPQEVAPMLQQFIRPWCTSLRNIRDNEEKDSAFRGICTMISVNPSGVIQDFIFFCDAVASWINPKDDLRDMFCKILHGFKNQVGDENWRRFSDQFPLPLKERLAAFYGV
+PTM	Acetylation:66,81,192,495,502,687,818,863,869;Methylation:28,64,81,100,128,140,162,186,192,317,327,411,422,495,580,704,854;Phosphorylation:11,30,32,35,36,67,74,76,101,110,111,194,195,335,339,350,377,695,881;SUMOylation:14,66;Ubiquitylation:14,81,85,100,307,327,385,487,495,687,863

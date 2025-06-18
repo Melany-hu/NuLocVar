@@ -1,0 +1,25 @@
+UniprotID	P49903-3
+Accession	P49903;B4DWK0;D3DRS9;D6PSQ9;Q5T5U8;Q5T5U9;Q9BVT4
+EntryName	SPS1_HUMAN
+ProteinName	Selenide, water dikinase 1 (EC 2.7.9.3) (Selenium donor protein 1) (Selenophosphate synthase 1)
+GeneName	SEPHS1 SELD SPS SPS1
+Length	325
+Function	Synthesizes selenophosphate from selenide and ATP.
+Subcellular Location	Cell membrane; Nucleus membrane; Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTCVIPLRHGGLSLVQTTDYIYPIVDDPYMMGRIACANVLSDLYAMGVTECDNMLMLLGVSNKMTDRERDKVMPLIIQGFKDAAEEAGTSVTGGQTVLNPWIVLGGVATTVCQPNEFIMPDNAVPGDVLVLTKPLGTQVAVAVHQWLDIPEKWNKIKLVVTQEDVELAYQEAMMNMARLNRTAAGLMHTFNAHAATDITGFGILGHAQNLAKQQRNEVSFVIHNLPVLAKMAAVSKACGNMFGLMHGTCPETSGGLLICLPREQAARFCAEIKSPKYGEGHQAWIIGIVEKGNRTARIIDKPRIIEVAPQVATQNVNPTPGATS
+PTM	Acetylation:16,27,139,341;Methylation:16,201,280,359,369;Phosphorylation:2,6,17,342,387,391,392;Ubiquitylation:16,139,298,341

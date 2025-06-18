@@ -1,0 +1,25 @@
+UniprotID	Q9UL54-4
+Accession	Q9UL54;A5PKY1;A7MCZ2;B2RN35;B7ZM88;O94957;Q6UW73;Q7LC09;Q9NSW2
+EntryName	TAOK2_HUMAN
+ProteinName	Serine/threonine-protein kinase TAO2 (EC 2.7.11.1) (Kinase from chicken homolog C) (hKFC-C) (Prostate-derived sterile 20-like kinase 1) (PSK-1) (PSK1) (Prostate-derived STE20-like kinase 1) (Thousand and one amino acid protein kinase 2)
+GeneName	TAOK2 KIAA0881 MAP3K17 PSK PSK1 UNQ2971/PRO7431
+Length	1122
+Function	Serine/threonine-protein kinase involved in different processes such as membrane blebbing and apoptotic bodies formation DNA damage response and MAPK14/p38 MAPK stress-activated MAPK cascade. Phosphorylates itself, MBP, activated MAPK8, MAP2K3, MAP2K6 and tubulins. Activates the MAPK14/p38 MAPK signaling pathway through the specific activation and phosphorylation of the upstream MAP2K3 and MAP2K6 kinases. In response to DNA damage, involved in the G2/M transition DNA damage checkpoint by activating the p38/MAPK14 stress-activated MAPK cascade, probably by mediating phosphorylation of upstream MAP2K3 and MAP2K6 kinases. Isoform 1, but not isoform 2, plays a role in apoptotic morphological changes, including cell contraction, membrane blebbing and apoptotic bodies formation. This function, which requires the activation of MAPK8/JNK and nuclear localization of C-terminally truncated isoform 1, may be linked to the mitochondrial CASP9-associated death pathway. Isoform 1 binds to microtubules and affects their organization and stability independently of its kinase activity. Prevents MAP3K7-mediated activation of CHUK, and thus NF-kappa-B activation, but not that of MAPK8/JNK. May play a role in the osmotic stress-MAPK8 pathway. Isoform 2, but not isoform 1, is required for PCDH8 endocytosis. Following homophilic interactions between PCDH8 extracellular domains, isoform 2 phosphorylates and activates MAPK14/p38 MAPK which in turn phosphorylates isoform 2. This process leads to PCDH8 endocytosis and CDH2 cointernalization. Both isoforms are involved in MAPK14 phosphorylation.
+Subcellular Location	Cytoplasmic vesicle membrane; Cytoplasm; Cytoskeleton; Nucleus; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1017...1022
+validnes_region	
+nesbase_region	
+Sequence	MPAGGRAGSLKDPDVAELFFKDDPEKLFSDLREIGHGSFGAVYFARDVRNSEVVAIKKMSYSGKQSNEKWQDIIKEVRFLQKLRHPNTIQYRGCYLREHTAWLVMEYCLGSASDLLEVHKKPLQEVEIAAVTHGALQGLAYLHSHNMIHRDVKAGNILLSEPGLVKLGDFGSASIMAPANSFVGTPYWMAPEVILAMDEGQYDGKVDVWSLGITCIELAERKPPLFNMNAMSALYHIAQNESPVLQSGHWSEYFRNFVDSCLQKIPQDRPTSEVLLKHRFVLRERPPTVIMDLIQRTKDAVRELDNLQYRKMKKILFQEAPNGPGAEAPEEEEEAEPYMHRAGTLTSLESSHSVPSMSISASSQSSSVNSLADASDNEEEEEEEEEEEEEEEGPEAREMAMMQEGEHTVTSHSSIIHRLPGSDNLYDDPYQPEITPSPLQPPAAPAPTSTTSSARRRAYCRNRDHFATIRTASLVSRQIQEHEQDSALREQLSGYKRMRRQHQKQLLALESRLRGEREEHSARLQRELEAQRAGFGAEAEKLARRHQAIGEKEARAAQAEERKFQQHILGQQKKELAALLEAQKRTYKLRKEQLKEELQENPSTPKREKAEWLLRQKEQLQQCQAEEEAGLLRRQRQYFELQCRQYKRKMLLARHSLDQDLLREDLNKKQTQKDLECALLLRQHEATRELELRQLQAVQRTRAELTRLQHQTELGNQLEYNKRREQELRQKHAAQVRQQPKSLKERSIVGQEEAGTWSLWGKEDESLLDEEFELGWVQGPALTPVPEEEEEEEEGAPIGTPRDPGDGCPSPDIPPEPPPTHLRPCPASQLPGLLSHGLLAGLSFAVGSSSGLLPLLLLLLLPLLAAQGGGGLQAALLALEVGLVGLGASYLLLCTALHLPSSLFLLLAQGTALGAVLGLSWRRGLMGVPLGLGAAWLLAWPGLALPLVAMAAGGRWVRQQGPRVRRGISRLWLRVLLRLSPMAFRALQGCGAVGDRGLFALYPKTNKDGFRSRLPVPGPRRRNPRTTQHPLALLARVWVLCKGWNWRLARASQGLASHLPPWAIHTLASWGLLRGERPTRIPRLLPRSQRQLGPPASRQPLPGTLAGRRSRTRQSRALPPWR
+PTM	Methylation:75,120,277,552,595,617,668,804,1117;Phosphorylation:9,43,181,260,309,437,448,468,473,486,586,587,603,604,656,720,777,821,825,827,1033,1115,1217,1225;SUMOylation:11,21,153,314,541,563,573,595,609,668;Ubiquitylation:57,496

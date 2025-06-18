@@ -1,0 +1,25 @@
+UniprotID	O43900-2
+Accession	O43900;B7Z8F2;O76007;Q53XR5
+EntryName	PRIC3_HUMAN
+ProteinName	Prickle planar cell polarity protein 3 (LIM domain only protein 6) (LMO-6) (Prickle-like protein 3) (Pk3) (Triple LIM domain protein 6)
+GeneName	PRICKLE3 LMO6
+Length	534
+Function	Involved in the planar cell polarity (PCP) pathway that is essential for the polarization of epithelial cells during morphogenetic processes, including gastrulation and neurulation (By similarity). PCP is maintained by two molecular modules, the global and the core modules, PRICKLE3 being part of the core module (By similarity). Distinct complexes of the core module segregate to opposite sides of the cell, where they interact with the opposite complex in the neighboring cell at or near the adherents junctions (By similarity). Involved in the organization of the basal body (By similarity). Involved in cilia growth and positioning (By similarity). Required for proper assembly, stability, and function of mitochondrial membrane ATP synthase (mitochondrial complex V) (PubMed:32516135).
+Subcellular Location	Cytoplasm; Cell membrane; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCRLISDFQRHSISDDDSGCASEEYAWVPPGLKPEQVTRGQPSTLAVQWVHTNAHTHTHTQAQYCTALEEEEKKELRAFSQQRKRENLGRGIVRIFPVTITGAICEECGKQIGGGDIAVFASRAGLGACWHPQCFVCTTCQELLVDLIYFYHVGKVYCGRHHAECLRPRCQACDEIIFSPECTEAEGRHWHMDHFCCFECEASLGGQRYVMRQSRPHCCACYEARHAEYCDGCGEHIGLDQGQMAYEGQHWHASDRCFCCSRCGRALLGRPFLPRRGLIFCSRACSLGSEPTAPGPSRRSWSAGPVTAPLAASTASFSAVKGASETTTKGTSTELAPATGPEEPSRFLRGAPHRHSMPELGLRSVPEPPPESPGQPNLRPDDSAFGRQSTPRVSFRDPLVSEGGPRRTLSAPPAQRRRPRSPPPRAPSRRRHHHHNHHHHHNRHPSRRRHYQCDAGSGSDSESCSSSPSSSSSESSEDDGFFLGERIPLPPHLCRPMPAQDTAMETFNSPSLSLPRDSRAGMPRQARDKNCIVA
+PTM	Methylation:4;Phosphorylation:11,182,238,303,381,383,405,407,408,409,412,413,414,437,453,475,482,489,491,502,509,592,594;SUMOylation:126,402,410;Ubiquitylation:126,402,410

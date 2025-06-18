@@ -1,0 +1,25 @@
+UniprotID	Q9Y2H2-2
+Accession	Q9Y2H2;B3KRF1;D3DRD1;Q2T9J4;Q5W135;Q5W136;Q6NVY2;Q86U97;Q9H3D9;Q9NT51
+EntryName	SAC2_HUMAN
+ProteinName	Phosphatidylinositide phosphatase SAC2 (EC 3.1.3.25) (Inositol polyphosphate 5-phosphatase F) (Sac domain-containing inositol phosphatase 2) (Sac domain-containing phosphoinositide 4-phosphatase 2) (hSAC2)
+GeneName	INPP5F KIAA0966 SAC2 MSTP007 MSTP047
+Length	375
+Function	Inositol 4-phosphatase which mainly acts on phosphatidylinositol 4-phosphate. May be functionally linked to OCRL, which converts phosphatidylinositol 4,5-bisphosphate to phosphatidylinositol, for a sequential dephosphorylation of phosphatidylinositol 4,5-bisphosphate at the 5 and 4 position of inositol, thus playing an important role in the endocytic recycling (PubMed:25869669). Regulator of TF:TFRC and integrins recycling pathway, is also involved in cell migration mechanisms (PubMed:25869669). Modulates AKT/GSK3B pathway by decreasing AKT and GSK3B phosphorylation (PubMed:17322895). Negatively regulates STAT3 signaling pathway through inhibition of STAT3 phosphorylation and translocation to the nucleus (PubMed:25476455). Functionally important modulator of cardiac myocyte size and of the cardiac response to stress (By similarity). May play a role as negative regulator of axon regeneration after central nervous system injuries (By similarity).
+Subcellular Location	Membrane; Clathrin-coated pit; Early endosome; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELFQAKDHYILQQGERALWCSRRDGGLQLRPATDLLLAWNPICLGLVEGVIGKIQLHSDLPWWLILIRQKALVGKLPGDHEVCKVTKIAVLSLSEMEPQDLELELCKKHHFGINKPEKIIPSPDDSKFLLKTFTHIKSNVSAPNKKKVKESKEKEKLERRLLEELLKMFMDSESFYYSLTYDLTNSVQRQSTGERDGRPLWQKVDDRFFWNKYMIQDLTEIGTPDVDFWIIPMIQGFVQIEELVVNYTESSDDEKSSPETPPQESTCVDDIHPRFLVALISRRSRHRAGMRYKRRGVDKNGNVANYVETEQLIHVHNHTLSFVQTRGSVPVFWSQVGYRYNPRPRLDRSEKETVAYFCAHFEEQLNIYKKQQQK
+PTM	Acetylation:817,1073;Methylation:54,168,393,482,660,674,686,746,817,931;Phosphorylation:123,127,257,261,341,369,579,668,753,783,793,827,829,830,833,858,860,869,878,881,905,907,909,910,911,914,927,935,940,942,1039,1041,1063,1065,1069,1103;Ubiquitylation:146,539,787

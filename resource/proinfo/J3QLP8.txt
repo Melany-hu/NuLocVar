@@ -1,0 +1,25 @@
+UniprotID	J3QLP8
+Accession	J3QLP8
+EntryName	J3QLP8_HUMAN
+ProteinName	ArfGAP with dual PH domains 2
+GeneName	ADAP2
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XFVYHESGKEIVDWFNALRAARLQYLKMAFPELPESELVPFLTRNYLKQGFMEKTGPKQKEPFKKRWFALDCHERRLLYYKNPLDAFEQGQVFLGNKEQGYEAYEDLPKGIRGNRWKAGLTIVTPERRFVLTCPTASTESGRSSR
+PTM	

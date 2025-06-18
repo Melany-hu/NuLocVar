@@ -1,0 +1,25 @@
+UniprotID	E9PP21
+Accession	E9PP21
+EntryName	E9PP21_HUMAN
+ProteinName	Cysteine and glycine-rich protein 1 (Cysteine-rich protein 1)
+GeneName	CSRP1
+Length	160
+Function	Could play a role in neuronal development.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	31...36
+validnes_region	
+nesbase_region	
+Sequence	MPNWGGGKKCGVCQKTVYFAEEIYCKSCYGKKYGPKGYGYGQGAGTLSTDKGESLGIKHEEAPGHRPTTNPNASKFAQKIGGSERCPRCSQAVYAAEKVIGAGKSWHKACFRCAKCGKGLESTTLADKDGEIYCKGCYAKNFGPKGFGFGQGAGALVHSE
+PTM	

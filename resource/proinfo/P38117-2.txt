@@ -1,0 +1,25 @@
+UniprotID	P38117-2
+Accession	P38117;A8K766;B3KNY2;Q6IBH7;Q71RF6;Q9Y3S7
+EntryName	ETFB_HUMAN
+ProteinName	Electron transfer flavoprotein subunit beta (Beta-ETF)
+GeneName	ETFB FP585
+Length	346
+Function	Heterodimeric electron transfer flavoprotein that accepts electrons from several mitochondrial dehydrogenases, including acyl-CoA dehydrogenases, glutaryl-CoA and sarcosine dehydrogenase (PubMed:15159392, PubMed:15975918, PubMed:25416781). It transfers the electrons to the main mitochondrial respiratory chain via ETF-ubiquinone oxidoreductase (Probable). Required for normal mitochondrial fatty acid oxidation and normal amino acid metabolism (PubMed:12815589, PubMed:7912128). ETFB binds an AMP molecule that probably has a purely structural role (PubMed:15159392, PubMed:15975918, PubMed:8962055).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYLSLWVTINTVNLRNTLSGLRGAVTTVGMIKSDVPGTQEWLDERRRQGDLPLPTNSNPVLSLELCDPGQGPAPFQAVVVLIQPGRGLALRPPPSCLFPPDPTPSPPAGQIRVKPDRTGVVTDGVKHSMNPFCEIAVEEAVRLKEKKLVKEVIAVSCGPAQCQETIRTALAMGADRGIHVEVPPAEAERLGPLQVARVLAKLAEKEKVDLVLLGKQAIDDDCNQTGQMTAGFLDWPQGTFASQVTLEGDKLKVEREIDGGLETLRLKLPAVVTADLRLNEPRYATLPNIMKAKKKKIEVIKPGDLGVDLTSKLSVISVEDPPQRTAGVKVETTEDLVAKLKEIGRI
+PTM	Acetylation:11,19,35,110,114,116,161,210,248;Methylation:11,19,26,35,85,124,174,186,200,202,210,221;Phosphorylation:154,172,192,194,220,223,226,241;SUMOylation:161,176,205,238;Ubiquitylation:11

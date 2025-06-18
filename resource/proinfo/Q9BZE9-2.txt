@@ -1,0 +1,25 @@
+UniprotID	Q9BZE9-2
+Accession	Q9BZE9;A8K3K9;Q7Z6N7;Q8WV59;Q96LS5;Q96M40
+EntryName	ASPC1_HUMAN
+ProteinName	Tether containing UBX domain for GLUT4 (Alveolar soft part sarcoma chromosomal region candidate gene 1 protein) (Alveolar soft part sarcoma locus) (Renal papillary cell carcinoma protein 17) (UBX domain-containing protein 9)
+GeneName	ASPSCR1 ASPL RCC17 TUG UBXD9 UBXN9
+Length	647
+Function	Tethering protein that sequesters GLUT4-containing vesicles in the cytoplasm in the absence of insulin. Modulates the amount of GLUT4 that is available at the cell surface (By similarity). Enhances VCP methylation catalyzed by VCPKMT.
+Subcellular Location	Endomembrane system; Endoplasmic reticulum-Golgi intermediate compartment membrane; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	281...286
+validnes_region	
+nesbase_region	
+Sequence	MAAPAGGGGSAVSVLAPNGRRHTVKVTPSTVLLQVLEDTCRRQDFNPCEYDLKFQRSVLDLSLQWRFANLPNNAKLEMVPASRSREGPENMVRIALQLDDGSRLQDSFCSGQTLWELLSHFPQIRECLQHPGGATPVCVYTRDEVTGEAALRGTTLQSLGLTGGSATIRFVMKCYDPVGKTPGSLGSSASAGQAAASAPLPLESGELSRGDLSRPEDADTSGPCCEHTQEKQSTRAPAAAPFVPFSGGGQRLGGPPGPTRPLTSSSAKLPKSLSSPGGPSKPKKSKSGQDPQQEQEQERERDPQQEQERERPVDREPVDREPVVCHPDLEERLQAWPAELPDEFFELTVDDVRRRLAQLKSERKRLEEAPLVTKAFREAQIKEKLERYPKVALRVLFPDRYVLQGFFRPSETVGDLRDFVRSHLGNPELSFYLFITPPKTVLDDHTQTLFQPQLGDRVAPFTLGPSLKRCLGPEQRTRLPVVGDGGDVDSGRLLFWGPSRGRASPSTGQPPCHPVCRPSSPPSPRPSSGDPSRVKAGHKHVGTGRANLFPAALVHLGAEEPAGVYLEPGLLEHAISPSAADVLVARYMSRAAGSPSPLPAPDPAPKSEPAAEEGALVPPEPIPGTAQPVKRSLGKVPKWLKLPASKR
+PTM	Acetylation:268,281;Methylation:173;Phosphorylation:167,228,246,263,272,274,275,280,500,502,513,531,538;SUMOylation:512;Ubiquitylation:75

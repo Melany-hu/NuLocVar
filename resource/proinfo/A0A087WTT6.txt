@@ -1,0 +1,25 @@
+UniprotID	A0A087WTT6
+Accession	A0A087WTT6
+EntryName	A0A087WTT6_HUMAN
+ProteinName	Small ribosomal subunit protein uS14 (40S ribosomal protein S29)
+GeneName	RPS29
+Length	53
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVFDLAIPAEQIIFHGGRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKLD
+PTM	

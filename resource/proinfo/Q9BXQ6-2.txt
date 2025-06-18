@@ -1,0 +1,25 @@
+UniprotID	Q9BXQ6-2
+Accession	Q9BXQ6;A8MYY1
+EntryName	T121B_HUMAN
+ProteinName	Transmembrane protein 121B (Cat eye syndrome critical region protein 6)
+GeneName	TMEM121B CECR6
+Length	223
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSVPLLYSLVRAISEAGAPPGSAGPLLLQPQRHRAAGCFLGTCLDLLDSFTLVELMLEGRVPLPAHLRYLLIAVYFLTLASPVLWLYELNAAAAAAASWGQASGPGSCSRLLRLLGGCLVDVPLLALRCLLVVSYQQPLSIFMLKNLFFLGCRGLEALEGCWDRGNRASPSRARGGYGAPPSAPPPPPPPPQGGSQLGHCISENEGGAHGYVNTLAVASQN
+PTM	Methylation:87,287;Phosphorylation:84,86

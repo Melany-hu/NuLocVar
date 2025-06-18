@@ -1,0 +1,25 @@
+UniprotID	H3BR40
+Accession	H3BR40
+EntryName	H3BR40_HUMAN
+ProteinName	S-phase cyclin A associated protein in the ER
+GeneName	SCAPER
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMLDNYVRDFKALIDWIQLQEKLEKTDAQSRPTSLAWEVKKMSPGRHVIPSPSTDRINVTSNARRSLNFGGSTGTVPAPRLAPTGVSWADKVKAHHTGSTASSEITPAQSCPPMT
+PTM	

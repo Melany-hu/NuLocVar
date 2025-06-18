@@ -1,0 +1,25 @@
+UniprotID	Q08426-2
+Accession	Q08426;A8K6Y3;B4DWG3;D3DNU0;Q58EZ5
+EntryName	ECHP_HUMAN
+ProteinName	Peroxisomal bifunctional enzyme (PBE) (PBFE) (L-bifunctional protein) (LBP) (Multifunctional enzyme 1) (MFE1) [Includes: Enoyl-CoA hydratase/3,2-trans-enoyl-CoA isomerase (EC 4.2.1.17) (EC 5.3.3.8); 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)]
+GeneName	EHHADH ECHD
+Length	627
+Function	Peroxisomal trifunctional enzyme possessing 2-enoyl-CoA hydratase, 3-hydroxyacyl-CoA dehydrogenase, and delta 3, delta 2-enoyl-CoA isomerase activities. Catalyzes two of the four reactions of the long chain fatty acids peroxisomal beta-oxidation pathway (By similarity). Can also use branched-chain fatty acids such as 2-methyl-2E-butenoyl-CoA as a substrate, which is hydrated into (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA (By similarity). Optimal isomerase for 2,5 double bonds into 3,5 form isomerization in a range of enoyl-CoA species (Probable). Also able to isomerize both 3-cis and 3-trans double bonds into the 2-trans form in a range of enoyl-CoA species (By similarity). With HSD17B4, catalyzes the hydration of trans-2-enoyl-CoA and the dehydrogenation of 3-hydroxyacyl-CoA, but with opposite chiral specificity (PubMed:15060085). Regulates the amount of medium-chain dicarboxylic fatty acids which are essential regulators of all fatty acid oxidation pathways (By similarity). Also involved in the degradation of long-chain dicarboxylic acids through peroxisomal beta-oxidation (PubMed:15060085).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	456...460
+validnes_region	
+nesbase_region	
+Sequence	MAFGGGLELALGCHYRIAHAEAQVGLPEVTLGLLPGARGTQLLPRLTGVPAALDLITSGRRILADEALKLGILDKVVNSDPVEEAIRFAQRVSDQPLESRRLCNKPIQSLPNMDSIFSEALLKMRRQHPGCLAQEACVRAVQAAVQYPYEVGIKKEEELFLYLLQSGQARALQYAFFAERKANKWSTPSGASWKTASARPVSSVGVVGLGTMGRGIVISFARARIPVIAVDSDKNQLATANKMITSVLEKEASKMQQSGHPWSGPKPRLTSSVKELGGVDLVIEAVFEEMSLKKQVFAELSAVCKPEAFLCTNTSALDVDEIASSTDRPHLVIGTHFFSPAHVMKLLEVIPSQYSSPTTIATVMNLSKKIKKIGVVVGNCFGFVGNRMLNPYYNQAYFLLEEGSKPEEVDQVLEEFGFKMGPFRVSDLAGLDVGWKSRKGQGLTGPTLLPGTPARKRGNRRYCPIPDVLCELGRFGQKTGKGWYQYDKPLGRIHKPDPWLSKFLSRYRKTHHIEPRTISQDEILERCLYSLINEAFRILGEGIAASPEHIDVVYLHGYGWPRHKGGPMFYASTVGLPTVLEKLQKYYRQNPDIPQLEPSDYLKKLASQGNPPLKEWQSLAGSPSSKL
+PTM	Acetylation:33,56,165,171,280,330,346,350,464,584,591,598,710;Methylation:165,171,219;Phosphorylation:26,27,67,288,293,298,299,307,335,342,354,450,463,548,580,582,597,718

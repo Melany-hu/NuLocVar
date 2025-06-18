@@ -1,0 +1,25 @@
+UniprotID	A0A087X0T5
+Accession	A0A087X0T5
+EntryName	A0A087X0T5_HUMAN
+ProteinName	N-terminal asparagine amidase
+GeneName	NTAN1
+Length	205
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSIKSFSDHAQCGRLEVHLVGGFSDDRQLSQKLTHQLLSEFDRQEDDIHLVTLCVTELNDREENENHFPVIYGIAVNIKTAEIYRASFQDRGPEEQLRAARTLAGGPMISIYDAETEQLRIGPYSWTPFPHVDFWLHQDDKQILENLSTSPLAEPPHFVEHIRSTLMFLKKHPSPAHTLFSGNKALLYKKNEDGLWEKISSPGS
+PTM	

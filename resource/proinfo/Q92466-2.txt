@@ -1,0 +1,25 @@
+UniprotID	Q92466-2
+Accession	Q92466;B2R875;Q76E54;Q76E55;Q76E56;Q76E57
+EntryName	DDB2_HUMAN
+ProteinName	DNA damage-binding protein 2 (DDB p48 subunit) (DDBb) (Damage-specific DNA-binding protein 2) (UV-damaged DNA-binding protein 2) (UV-DDB 2)
+GeneName	DDB2
+Length	238
+Function	Protein, which is both involved in DNA repair and protein ubiquitination, as part of the UV-DDB complex and DCX (DDB1-CUL4-X-box) complexes, respectively (PubMed:10882109, PubMed:11278856, PubMed:11705987, PubMed:12732143, PubMed:15882621, PubMed:16473935, PubMed:18593899, PubMed:32789493, PubMed:9892649). Core component of the UV-DDB complex (UV-damaged DNA-binding protein complex), a complex that recognizes UV-induced DNA damage and recruit proteins of the nucleotide excision repair pathway (the NER pathway) to initiate DNA repair (PubMed:10882109, PubMed:11278856, PubMed:11705987, PubMed:12944386, PubMed:14751237, PubMed:16260596, PubMed:32789493). The UV-DDB complex preferentially binds to cyclobutane pyrimidine dimers (CPD), 6-4 photoproducts (6-4 PP), apurinic sites and short mismatches (PubMed:10882109, PubMed:11278856, PubMed:11705987, PubMed:12944386, PubMed:16260596). Also functions as the substrate recognition module for the DCX (DDB2-CUL4-X-box) E3 ubiquitin-protein ligase complex DDB2-CUL4-ROC1 (also known as CUL4-DDB-ROC1 and CUL4-DDB-RBX1) (PubMed:12732143, PubMed:15882621, PubMed:16473935, PubMed:18593899, PubMed:26572825). The DDB2-CUL4-ROC1 complex may ubiquitinate histone H2A, histone H3 and histone H4 at sites of UV-induced DNA damage (PubMed:16473935, PubMed:16678110). The ubiquitination of histones may facilitate their removal from the nucleosome and promote subsequent DNA repair (PubMed:16473935, PubMed:16678110). The DDB2-CUL4-ROC1 complex also ubiquitinates XPC, which may enhance DNA-binding by XPC and promote NER (PubMed:15882621). The DDB2-CUL4-ROC1 complex also ubiquitinates KAT7/HBO1 in response to DNA damage, leading to its degradation: recognizes KAT7/HBO1 following phosphorylation by ATR (PubMed:26572825).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPKKRPETQKTSEIVLRPRNKRSRSPLELEPEAKKLCAKGSGPSRRCDSDCLWVGLAGPQILPPCRSIVRTLHQHKLGRASWPSVQQGLQQSFLHTLDSYRILQKAAPFDRRATSLAWHPTHPSTVAVGSKGGDIMLWNFGIKDKPTFIKGAAWHPRYNLIVVGRYPDPNFKSCTPYELRTIDVFDGNSGKMMCQLYDPESSGISSLNEFNPMGDTLASAMGYHILIWSQEEARTRK
+PTM	Acetylation:278,309;Methylation:106,163,362;Phosphorylation:24,26,50,158,297,338;SUMOylation:11,35,40,77,106,132,144,146,151,163,187,244,278,309,341,362;Ubiquitylation:11,35,40,77,106,144,151,163,187,278,309,362

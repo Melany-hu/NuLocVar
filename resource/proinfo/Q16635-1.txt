@@ -1,0 +1,25 @@
+UniprotID	Q16635-1
+Accession	Q16635;A3KQT2;D3DWX2;Q5HY43;Q5HY44;Q5HY45;Q5HY48;Q86XQ6;Q86XQ7;Q86XQ8;Q86XQ9;Q86XR0
+EntryName	TAZ_HUMAN
+ProteinName	Tafazzin (Taz) (EC 2.3.1.-) (Protein G4.5)
+GeneName	TAFAZZIN EFE2 G4.5 TAZ
+Length	292
+Function	Acyltransferase required to remodel newly synthesized phospholipid cardiolipin (1',3'-bis--glycerol or CL), a key component of the mitochondrial inner membrane, with tissue specific acyl chains necessary for adequate mitochondrial function (PubMed:12930833, PubMed:19164547, PubMed:19700766, PubMed:26908608, PubMed:33096711). Its role in cellular physiology is to improve mitochondrial performance (PubMed:32234310). CL is critical for the coassembly of lipids and proteins in mitochondrial membranes, for instance, remodeling of the acyl groups of CL in the mitochondrial inner membrane affects the assembly and stability of respiratory chain complex IV and its supercomplex forms (By similarity). Catalyzes the transacylation between phospholipids and lysophospholipids, with the highest rate being between phosphatidylcholine (1,2-diacyl-sn-glycero-3-phosphocholine or PC) and CL. Catalyzes both 1-acyl-sn-glycero-3-phosphocholine (lysophosphatidylcholine or LPC) reacylation and PC-CL transacylation, that means, it exchanges acyl groups between CL and PC by a combination of forward and reverse transacylations. Also catalyzes transacylations between other phospholipids such as phosphatidylethanolamine (1,2-diacyl-sn-glycero-3-phosphoethanolamine or PE) and CL, between PC and PE, and between PC and phosphatidate (1,2-diacyl-sn-glycero-3-phosphate or PA), although at lower rate. Not regiospecific, it transfers acyl groups into any of the sn-1 and sn-2 positions of the monolysocardiolipin (MLCL), which is an important prerequisite for uniformity and symmetry in CL acyl distribution. Cannot transacylate dilysocardiolipin (DLCL), thus, the role of MLCL is limited to that of an acyl acceptor. CoA-independent, it can reshuffle molecular species within a single phospholipid class. Redistributes fatty acids between MLCL, CL, and other lipids, which prolongs the half-life of CL. Its action is completely reversible, which allows for cyclic changes, such as fission and fusion or bending and flattening of the membrane. Hence, by contributing to the flexibility of the lipid composition, it plays an important role in the dynamics of mitochondria membranes. Essential for the final stage of spermatogenesis, spermatid individualization (By similarity). Required for the initiation of mitophagy (PubMed:33096711). Required to ensure progression of spermatocytes through meiosis (By similarity). Exon 7 of human tafazzin is essential for catalysis (PubMed:19700766).
+Subcellular Location	Mitochondrion outer membrane; Mitochondrion inner membrane; Mitochondrion membrane; Cytoplasm; Mitochondrion membrane; Mitochondrion membrane; Cytoplasm; Mitochondrion membrane; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLHVKWPFPAVPPLTWTLASSVVMGLVGTYSCFWTKYMNHLTVHNREVLYELIEKRGPATPLITVSNHQSCMDDPHLWGILKLRHIWNLKLMRWTPAAADICFTKELHSHFFSLGKCVPVCRGAEFFQAENEGKGVLDTGRHMPGAGKRREKGDGVYQKGMDFILEKLNHGDWVHIFPEGKVNMSSEFLRFKWGIGRLIAECHLNPIILPLWHVGMNDVLPNSPPYFPRFGQKITVLIGKPFSALPVLERLRAENKSAVEMRKALTDFIQEEFQHLKTQAEQLHNHLQPGR
+PTM	Methylation:56,83,168,241,257

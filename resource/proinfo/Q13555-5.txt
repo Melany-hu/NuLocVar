@@ -1,0 +1,25 @@
+UniprotID	Q13555-5
+Accession	Q13555;A0A0A0MS52;A0A0A0MT11;O00561;O15378;Q13279;Q13282;Q13556;Q5SQZ3;Q5SQZ4;Q5SWX4;Q7KYX5;Q8N4I3;Q8NIA4
+EntryName	KCC2G_HUMAN
+ProteinName	Calcium/calmodulin-dependent protein kinase type II subunit gamma (CaM kinase II subunit gamma) (CaMK-II subunit gamma) (EC 2.7.11.17)
+GeneName	CAMK2G CAMK CAMK-II CAMKG
+Length	527
+Function	Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in sarcoplasmic reticulum Ca(2+) transport in skeletal muscle and may function in dendritic spine and synapse formation and neuronal plasticity (PubMed:16690701). In slow-twitch muscles, is involved in regulation of sarcoplasmic reticulum (SR) Ca(2+) transport and in fast-twitch muscle participates in the control of Ca(2+) release from the SR through phosphorylation of the ryanodine receptor-coupling factor triadin (PubMed:16690701). In the central nervous system, it is involved in the regulation of neurite formation and arborization (PubMed:30184290). It may participate in the promotion of dendritic spine and synapse formation and maintenance of synaptic plasticity which enables long-term potentiation (LTP) and hippocampus-dependent learning. In response to interferon-gamma (IFN-gamma) stimulation, catalyzes phosphorylation of STAT1, stimulating the JAK-STAT signaling pathway (By similarity).
+Subcellular Location	Sarcoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	351...356
+validnes_region	
+nesbase_region	
+Sequence	MATTATCTRFTDDYQLFEELGKGAFSVVRRCVKKTSTQEYAAKIINTKKLSARDHQKLEREARICRLLKHPNIVRLHDSISEEGFHYLVFDLVTGGELFEDIVAREYYSEADASHCIHQILESVNHIHQHDIVHRDLKPENLLLASKCKGAAVKLADFGLAIEVQGEQQAWFGFAGTPGYLSPEVLRKDPYGKPVDIWACGVILYILLVGYPPFWDEDQHKLYQQIKAGAYDFPSPEWDTVTPEAKNLINQMLTINPAKRITADQALKHPWVCQRSTVASMMHRQETVECLRKFNARRKLKGAILTTMLVSRNFSVGRQSSAPASPAASAAGLAGQAAKSLLNKKSDGGVKKRKSSSSVHLMEPQTTVVHNATDGIKGSTESCNTTTEDEDLKVRKQEIIKITEQLIEAINNGDFEAYTKICDPGLTSFEPEALGNLVEGMDFHKFYFENLLSKNSKPIHTTILNPHVHVIGEDAACIAYIRLTQYIDGQGRPRTSQSEETRVWHRRDGKWLNVHYHCSGAPAAPLQ
+PTM	Acetylation:48,57,69,259,268,318;Methylation:22,154,188,227,246,268,299,301,323,432,485;Phosphorylation:14,26,35,36,37,146,182,235,254,276,277,280,287,306,307,311,315,319,334,335,336,337,349,352,368,369,375,381,382,384,387,389,419,423,547;SUMOylation:138;Ubiquitylation:22,43,69,138,147,149,227,246,259,268,318

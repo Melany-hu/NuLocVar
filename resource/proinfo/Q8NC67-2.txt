@@ -1,0 +1,25 @@
+UniprotID	Q8NC67-2
+Accession	Q8NC67;J3KNF1;Q7Z381;Q8ND51;Q96SP4;Q9NVY8
+EntryName	NETO2_HUMAN
+ProteinName	Neuropilin and tolloid-like protein 2 (Brain-specific transmembrane protein containing 2 CUB and 1 LDL-receptor class A domains protein 2)
+GeneName	NETO2 BTCL2 UNQ1926/PRO4401
+Length	201
+Function	Accessory subunit of neuronal kainate-sensitive glutamate receptors, GRIK2 and GRIK3. Increases kainate-receptor channel activity, slowing the decay kinetics of the receptors, without affecting their expression at the cell surface, and increasing the open probability of the receptor channels. Modulates the agonist sensitivity of kainate receptors. Slows the decay of kainate receptor-mediated excitatory postsynaptic currents (EPSCs), thus directly influencing synaptic transmission (By similarity).
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFTSFVEQKKKAGVFEQITKTHGTIIGITSGIVLVLLIISILVQVKQPRKKVMACKTAFNKTGFQEVFDPPHYELFSLRDKEISADLADLSEELDNYQKMRRSSTASRCIHDHHCGSQASSVKQSRTNLSSMELPFRNDFAQPQPMKTFNSTFKKSSYTFKQGHECPEQALEDRVMEEIPCEIYVRGREDSAQASISIDF
+PTM	Methylation:140,252,371;Phosphorylation:382,398,409,509;Ubiquitylation:381,386,406,424,448

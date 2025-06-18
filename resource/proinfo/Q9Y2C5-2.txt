@@ -1,0 +1,25 @@
+UniprotID	Q9Y2C5-2
+Accession	Q9Y2C5;B4DDV9;E7EPE8;E7EU17;Q32MB7;Q32MB8
+EntryName	S17A4_HUMAN
+ProteinName	Probable small intestine urate exporter (Solute carrier family 17 member 4)
+GeneName	SLC17A4
+Length	443
+Function	Acts as a membrane potential-dependent organic anion transporter, the transport requires a low concentration of chloride ions (PubMed:22460716). Mediates chloride-dependent transport of urate (PubMed:22460716). Mediates sodium-independent high affinity transport of thyroid hormones including L-thyroxine (T4) and 3,3',5-triiodo-L-thyronine (T3) (PubMed:30367059, PubMed:34937426). Can actively transport inorganic phosphate into cells via Na(+) cotransport (PubMed:22460716).
+Subcellular Location	Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNLSIAIPAMVNNTAPPSQPNASTERPSTDSQGYWNETLKEFKAMAPAYDWSPEIQGIILSSLNYGSFLAPIPSGYVAGIFGAKYVVGAGLFISSFLTLFIPLAANAGVALLIVLRIVQGIAQVMVLTGQYSIWVKWAPPLERSQLTTIAGSGSMLGSFIVLLAGGLLCQTIGWPYVFYIFGGIGCACCPLWFPLIYDDPVNHPFISAGEKRYIVCSLAQQDCSPGWSLPIRAMIKSLPLWAILVSYFCEYWLFYTIMAYTPTYISSVLQANLRDSGILSALPFVVGCICIILGGLLADFLLSRKILRLITIRKLFTAIGVLFPSVILVSLPWVRSSHSMTMTFLVLSSAISSFCESGALVNFLDIAPRYTGFLKGLLQVFAHIAGAISPTAAGFFISQDSEFGWRNVFLLSAAVNISGLVFYLIFGRADVQDWAKEQTFTHL
+PTM	Methylation:94,368;Phosphorylation:282,365,466,477

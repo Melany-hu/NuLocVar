@@ -1,0 +1,25 @@
+UniprotID	A0A286YEZ8
+Accession	A0A286YEZ8
+EntryName	A0A286YEZ8_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoprotein R
+GeneName	HNRNPR
+Length	141
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	40...46
+validnes_region	
+nesbase_region	
+Sequence	XKDYAFVHFEDRGAAVKAMDEMNGKEIEGEEIEIVLAKPPDKKRKERQAARQASRSTAYEDYYYHPPPRMPPPIRGRGRGGGRGGYGYPPDYYGYEDYYDDYYGYDYHDYRGGYEDPYYGYDDGYAVRGRGGGRGGRGKRG
+PTM	

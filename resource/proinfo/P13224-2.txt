@@ -1,0 +1,25 @@
+UniprotID	P13224-2
+Accession	P13224;Q14422;Q8NG40
+EntryName	GP1BB_HUMAN
+ProteinName	Platelet glycoprotein Ib beta chain (GP-Ib beta) (GPIb-beta) (GPIbB) (Antigen CD42b-beta) (CD antigen CD42c)
+GeneName	GP1BB
+Length	411
+Function	Gp-Ib, a surface membrane protein of platelets, participates in the formation of platelet plugs by binding to von Willebrand factor, which is already bound to the subendothelium.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPSRHTMLRFLPVVNAASCPGDRRTMLVNVAAGVRVLRVPLRAGGSGSLSGLRPPAIVCYLPLQRASAASGLFLARPQHCGRCGRGRGGAALSLGSPAYASRCRVSRAAVFSPWAPVSLESGRAPGCSLGRPGLRGALVVWLQLGETWVRLRGDFQPACGVVRVERLAGYRDAGHQGLDGAGPAVWVLRDVAQVPADRSAYCGASLAGPRGALSLLLLLLAPPSRPAAGCPAPCSCAGTLVDCGRRGLTWASLPTAFPVDTTELVLTGNNLTALPPGLLDALPALRTAHLGANPWRCDCRLVPLRAWLAGRPERAPYRDLRCVAPPALRGRLLPYLAEDELRAACAPGPLCWGALAAQLALLGLGLLHALLLVLLLCRLRRLRARARARAAARLSLTDPLVAERAGTDES
+PTM	Phosphorylation:191,193

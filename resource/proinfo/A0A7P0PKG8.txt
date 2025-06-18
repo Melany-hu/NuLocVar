@@ -1,0 +1,25 @@
+UniprotID	A0A7P0PKG8
+Accession	A0A7P0PKG8
+EntryName	A0A7P0PKG8_HUMAN
+ProteinName	5-hydroxytryptamine receptor 2A (5-HT-2) (Serotonin receptor 2A)
+GeneName	HTR2A
+Length	308
+Function	G-protein coupled receptor for 5-hydroxytryptamine (serotonin).
+Subcellular Location	Cell membrane; Cell projection; Dendrite; Cell projection; Axon; Cytoplasmic vesicle; Membrane; Caveola; Presynapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHLCAISLDRYVAIQNPIHHSRFNSRTKAFLKIIAVWTISVGISMPIPVFGLQDDSKVFKEGSCLLADDNFVLIGSFVSFFIPLTIMVITYFLTIKSLQKEATLCVSDLGTRAKLASFSFLPQSSLSSEKLFQRSIHREPGSYTGRRTMQSISNEQKACKVLGIVFFLFVVMWCPFFITNIMAVICKESCNEDVIGALLNVFVWIGYLSSAVNPLVYTLFNKTYRSAFSRYIQCQYKENKKPLQLILVNTIPALAYKSSQLQMGQKKNSKQDAKTTDNDCSMVALGKQHSEEASKDNSDGVNEKVSCV
+PTM	

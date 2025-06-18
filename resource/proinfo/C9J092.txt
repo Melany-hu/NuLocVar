@@ -1,0 +1,25 @@
+UniprotID	C9J092
+Accession	C9J092
+EntryName	C9J092_HUMAN
+ProteinName	Zinc finger protein 668
+GeneName	ZNF668
+Length	108
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVEAAEARSPAPGYKRSGRRYKCLSCTKTFPNAPRAARHAATHGPADCSEEVAEVPHRRAPLPLLRVREELLPLILAHVPPAHPRGTEALPLPGLRQGLHAAQFLPE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9Y6X4-2
+Accession	Q9Y6X4;A8K1T9;Q6MZT0;Q9H989
+EntryName	F169A_HUMAN
+ProteinName	Soluble lamin-associated protein of 75 kDa (SLAP75) (Protein FAM169A)
+GeneName	FAM169A KIAA0888
+Length	127
+Function	
+Subcellular Location	Nucleus envelope; Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFPVDMLENCSHEELENSAEDYMSDLRCGDPENPECFSLLNITIPISLSNVGFVPLYGGDQTQKILALFAPEDSLTAVALYLADQWWAIDDIVKTSVPSREGLKQEAYVPLFLPKVTNCQFLIQCF
+PTM	Methylation:95,264,457;Phosphorylation:278,281,285,289,293,323,325,326,330,345,348,349,350,358,360,361,365,371,372,376,378,379,398,399,409,435,438,442,447,448,449,489,503,526,527,532,534,611,615,618,619,635,636,637;Ubiquitylation:226,309

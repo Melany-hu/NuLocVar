@@ -1,0 +1,25 @@
+UniprotID	Q96K12-2
+Accession	Q96K12;F8VV73;Q9H0D5;Q9NVW8
+EntryName	FACR2_HUMAN
+ProteinName	Fatty acyl-CoA reductase 2 (FAR2) (EC 1.2.1.84) (Male sterility domain-containing protein 1)
+GeneName	FAR2 MLSTD1
+Length	418
+Function	Catalyzes the reduction of saturated but not unsaturated C16 or C18 fatty acyl-CoA to fatty alcohols (FAls) (PubMed:15220348). A lower activity can be observed with shorter fatty acyl-CoA substrates (PubMed:15220348). Can produce very long-chain and ultra long-chain FAls, regardless of whether they have a straight or branched chain (PubMed:35238077). Involved in the production of ether lipids/plasmalogens and wax monoesters whose synthesis requires FAls as substrates (PubMed:24108123, PubMed:35238077).
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	287...292
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQELLSCTNIIFHCAATVRFDDTLRHAVQLNVTATRQLLLMASQMPKLEAFIHISTAYSNCNLKHIDEVIYPCPVEPKKIIDSLEWLDDAIIDEITPKLIRDWPNIYTYTKALGEMVVQQESRNLNIAIIRPSIVGATWQEPFPGWVDNINGPNGIIIATGKGFLRAIKATPMAVADVIPVDTVVNLMLAVGWYTAVHRPKSTLVYHITSGNMNPCNWHKMGVQVLATFEKIPFERPFRRPNANFTSNSFTSQYWNAVSHRAPAIIYDCYLRLTGRKPRMTKLMNRLLRTVSMLEYFINRSWEWSTYNTEMLMSELSPEDQRVFNFDVRQLNWLEYIENYVLGVKKYLLKEDMAGIPKAKQRLKRLRNIHYLFNTALFLIAWRLLIARSQMARNVWFFIVSFCYKFLSYFRASSTLKV
+PTM	Methylation:24,29,195,442,447,455;Phosphorylation:8,16,19,230,235,257,406;Ubiquitylation:29,447

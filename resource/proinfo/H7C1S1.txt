@@ -1,0 +1,25 @@
+UniprotID	H7C1S1
+Accession	H7C1S1
+EntryName	H7C1S1_HUMAN
+ProteinName	Neutrophil cytosolic factor 1
+GeneName	NCF1
+Length	146
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYMFLVKWQDLSEKVVYRRFTEIYEFHRWDFAMLPRLVSNSWTQVILPPQPPKLLGLQKTLKEMFPIEAGAINPENRIIPHLPAPKWFDGQRAAENRQGTLTEYCSTLMSLPTKISRCPHLLDFFKVRPDDLKLPTDNQTKKPETY
+PTM	

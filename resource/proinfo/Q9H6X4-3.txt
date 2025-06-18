@@ -1,0 +1,25 @@
+UniprotID	Q9H6X4-3
+Accession	Q9H6X4;Q08AK4;Q6PJN3
+EntryName	TM134_HUMAN
+ProteinName	Transmembrane protein 134
+GeneName	TMEM134
+Length	192
+Function	
+Subcellular Location	Membrane; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAARPQFSIDDAFELSLEDGGPGPESSGVARFGPLHFERRARFEVADEDKQSRLRYQNLENDEDGAQASPEPDGGVGTRDSSRTSIRSSQWSFSTISSSTQRSYNTCCSWTQHPLIQKNRRVVLASFLLLLLGLGPAQCLALETELGELPGEGLCLGHLQLRWWVSRAGGGSPRPHHCSCPHPRGSVCVQC
+PTM	Methylation:119;Phosphorylation:53,70,85,93

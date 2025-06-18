@@ -1,0 +1,25 @@
+UniprotID	Q5JUW0-3
+Accession	Q5JUW0;A8K0Y8;B3KU22;Q96EA3;Q9NXB1
+EntryName	KRBX4_HUMAN
+ProteinName	KRAB domain-containing protein 4 (KRAB box domain-containing protein 4)
+GeneName	KRBOX4 ZNF673
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMSQESLTFKDVFVDFTLEEWQQLDSAQKNLYRDVMLENYSHLVSVGYLVAKPDVIFRLGPGEESWMADGGTPVRTCAGEDRPDVSIFASCILKCCY
+PTM	Methylation:116;Phosphorylation:9;SUMOylation:102,116;Ubiquitylation:116

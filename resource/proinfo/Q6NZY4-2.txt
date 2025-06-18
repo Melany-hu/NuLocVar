@@ -1,0 +1,25 @@
+UniprotID	Q6NZY4-2
+Accession	Q6NZY4;Q7L2P6;Q8N2K5;Q96SK7;Q9NSS2;Q9NSS3
+EntryName	ZCHC8_HUMAN
+ProteinName	Zinc finger CCHC domain-containing protein 8 (TRAMP-like complex RNA-binding factor ZCCHC8)
+GeneName	ZCCHC8
+Length	469
+Function	Scaffolding subunit of the trimeric nuclear exosome targeting (NEXT) complex that is involved in the surveillance and turnover of aberrant transcripts and non-coding RNAs (PubMed:27871484). NEXT functions as an RNA exosome cofactor that directs a subset of non-coding short-lived RNAs for exosomal degradation. May be involved in pre-mRNA splicing (Probable). It is required for 3'-end maturation of telomerase RNA component (TERC), TERC 3'-end targeting to the nuclear RNA exosome, and for telomerase function (PubMed:31488579).
+Subcellular Location	Nucleus; Nucleoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKDCPMPRNAARISEKRKEYMDACGEANNQNFQQRYHAEEVEERFGRFKPGVISEELQDALGVTDKSLPPFIYRMRQLGYPPGWLKEAELENSGLALYDGKDGTDGETEVGEIQQNKSVTYDLSKLVNYPGFNISTPRGIPDEWRIFGSIPMQACQQKDVFANYLTSNFQAPGVKSGNKRSSSHSSPGSPKKQKNESNSAGSPADMELDSDMEVPHGSQSSESFQFQPPLPPDTPPLPRGTPPPVFTPPLPKGTPPLTPSDSPQTRTASGAVDEDALTLEELEEQQRRIWAALEQAESVNSDSDVPVDTPLTGNSVASSPCPNELDLPVPEGKTSEKQTLDEPEVPEIFTKKSEAGHASSPDSEVTSLCQKEKAELAPVNTEGALLDNGSVVPNCDISNGGSQKLFPADTSPSTATKIHSPIPDMSKFATGITPFEFENMAESTGMYLRIRSLLKNSPRNQQKNKKASE
+PTM	Acetylation:32;Methylation:71,121,160,221,363;Phosphorylation:252,331,342,346,356,374,414,423,424,427,479,485,492,496,498,500,503,557,577,591,597,598,601,636,648,649,651,652,654,658,664,690,695;SUMOylation:25,32,152,413;Ubiquitylation:32,363

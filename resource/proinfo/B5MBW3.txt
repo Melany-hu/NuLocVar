@@ -1,0 +1,25 @@
+UniprotID	B5MBW3
+Accession	B5MBW3
+EntryName	B5MBW3_HUMAN
+ProteinName	Mitochondrial transcription termination factor 4
+GeneName	MTERF4
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAFGRQVLDWHRLIPLTWACMARQTPHLGEQRRTTASLLRKLTTASNGGVIEELSCVRSNNYVQEPECRRNLVQCLLEKQGTPVVQGSLELERVMSSLLDMGFSNAHINELLSVRRGASLQQLLDIISEFILLGLNPEPVCVVLKKSPQLLKLPIMQMRKRSSYLQKLGLGEAASSYSVTA
+PTM	

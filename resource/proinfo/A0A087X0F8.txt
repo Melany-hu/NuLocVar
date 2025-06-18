@@ -1,0 +1,25 @@
+UniprotID	A0A087X0F8
+Accession	A0A087X0F8
+EntryName	A0A087X0F8_HUMAN
+ProteinName	Leukocyte immunoglobulin like receptor B4
+GeneName	LILRB4
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEQPHDEKDPASKRPHPVCLFVLPALRTHPSAQLGPLGGDAMIPTFTALLCLGDPGGSGVPSG
+PTM	

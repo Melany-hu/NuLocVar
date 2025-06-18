@@ -1,0 +1,25 @@
+UniprotID	F8VWS7
+Accession	F8VWS7
+EntryName	F8VWS7_HUMAN
+ProteinName	Contactin 6
+GeneName	CNTN6
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALEWQLLSALSDSVKVDEDRAGFQCRKNFPFEYSKRELCTCASRTDCLAPTGMQQERSVFHA
+PTM	

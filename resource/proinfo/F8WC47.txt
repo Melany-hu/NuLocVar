@@ -1,0 +1,25 @@
+UniprotID	F8WC47
+Accession	F8WC47
+EntryName	F8WC47_HUMAN
+ProteinName	DNA-directed RNA polymerases I, II, and III subunit RPABC2 (DNA-directed RNA polymerase II subunit F) (RPB6 homolog)
+GeneName	POLR2F
+Length	111
+Function	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II, and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, POLR2F/RPABC2 is part of the clamp element and together with parts of POLR2A/RPB1 and POLR2B/RPB2 forms a pocket to which the POLR2D/RPB4-POLR2G/RPB7 subcomplex binds.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELNYFQKAFEEAPVQG
+PTM	

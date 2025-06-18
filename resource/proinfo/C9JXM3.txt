@@ -1,0 +1,25 @@
+UniprotID	C9JXM3
+Accession	C9JXM3
+EntryName	C9JXM3_HUMAN
+ProteinName	RAB, member of RAS oncogene family like 3
+GeneName	RABL3
+Length	212
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASLDRVKVLVLGDSGVGKSSLVHLLCQNQVLGNPSWTVGCSVDVRVHDYKEGTPEEKTYYIELWDVGGSVGSASSVKSTRAVFYNSVNGIIFVHDLTNKKSSQNLRRWSLEALNRDLVPTGVLVTNGDYDQEQFADNQIPLLVIGTKLDQIHETKRHEVLTRTAFLAEDFNPEEINLVIEKRYFLREGNQIPGFPDRKRFGAGTLKSLHYD
+PTM	

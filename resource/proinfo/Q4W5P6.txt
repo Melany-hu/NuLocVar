@@ -1,0 +1,25 @@
+UniprotID	Q4W5P6
+Accession	Q4W5P6;A0A2R8YEN4;D3DNW9;Q96NI2
+EntryName	SIM43_HUMAN
+ProteinName	Small integral membrane protein 43 (Nodal enhanced mesendoderm micropeptide) (NEMEP)
+GeneName	SMIM43 TMEM155
+Length	63
+Function	Required for mesendoderm differentiation (By similarity). Interacts with glucose transporters and promotes glucose uptake (PubMed:35810171). Probably augments the glucose uptake capacity of glucose transporter proteins to meet the energy needs of mesendoderm differentiation (By similarity).
+Subcellular Location	Cell membrane
+Disorder	0.0013,0.0016,0.0013,0.0008,0.0005,0.0003,0.0003,0.0003,0.0002,0.0002,0.0001,0.0001,0.0000,0.0001,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0001,0.0001,0.0003,0.0003,0.0006,0.0010,0.0016,0.0024,0.0034,0.0042,0.0045,0.0065,0.0108,0.0198,0.0483,0.0405,0.0704,0.0851,0.0780,0.0734,0.1702,0.1969,0.0799,0.0851,0.0592,0.0734,0.0631,0.0662,0.0888,0.0662,0.0463,0.0835,0.0662,0.0405,0.0306,0.0240,0.0506,0.0398,0.0799,0.0631,0.0454
+ExposeBuried	1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1
+SurfaceAccessbility	0.725,0.680,0.309,0.544,0.205,0.326,0.137,0.157,0.110,0.138,0.156,0.185,0.186,0.180,0.225,0.204,0.193,0.187,0.216,0.213,0.202,0.184,0.187,0.175,0.122,0.139,0.132,0.087,0.069,0.400,0.446,0.101,0.472,0.641,0.404,0.178,0.361,0.607,0.400,0.377,0.413,0.356,0.211,0.492,0.548,0.451,0.453,0.171,0.447,0.183,0.350,0.473,0.564,0.494,0.247,0.442,0.166,0.486,0.503,0.638,0.590,0.565,0.782
+SecondStructure	C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-3.5,-0.9,-3.5,3.8,-3.5,3.8,3.8,3.8,-1.3,3.8,1.8,3.8,2.8,2.8,2.8,3.8,3.8,2.8,3.8,3.8,2.8,3.8,3.8,3.8,2.8,4.2,4.2,4.5,-3.9,-3.5,3.8,-3.9,-3.5,-0.8,4.2,1.8,-3.5,-0.7,1.8,-0.4,1.8,3.8,-3.5,-1.6,-0.4,-4.5,3.8,-0.8,4.2,-3.2,-4.5,-3.5,-1.6,-0.9,-0.4,2.8,-0.8,-4.5,-3.5,-3.5,1.8,4.2
+Polar	0,1,0,1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0
+Charge	0,-1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,-1,0,0,0,0,0,1,-1,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEWELNLLLYLALFFFLLFLLFLLLFVVIKQLKNSVANTAGALQPGRLSVHREPWGFSREQAV
+PTM	Methylation:30

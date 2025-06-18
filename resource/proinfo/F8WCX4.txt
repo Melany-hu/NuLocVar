@@ -1,0 +1,25 @@
+UniprotID	F8WCX4
+Accession	F8WCX4
+EntryName	F8WCX4_HUMAN
+ProteinName	Lectin, mannose binding 2 like
+GeneName	LMAN2L
+Length	111
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAATLGPLGSWQQWRRCLSARDGSRMLLLLLLLGSGQGPQQVGAGQTFEYLKREHSLSKPYQAMFPERLGVAGALQNPWTRKEESAWGWLGNLVHKGSDAASGYSPTSQPW
+PTM	

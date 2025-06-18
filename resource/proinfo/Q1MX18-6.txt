@@ -1,0 +1,25 @@
+UniprotID	Q1MX18-6
+Accession	Q1MX18;A0PJX5;Q1MX19;Q3C1V6;Q4AC95;Q4AC96;Q4AC97;Q4AC98
+EntryName	INSC_HUMAN
+ProteinName	Protein inscuteable homolog
+GeneName	INSC
+Length	520
+Function	May function as an adapter linking the Par3 complex to the GPSM1/GPSM2 complex (PubMed:16458856). Involved in spindle orientation during mitosis. May regulate cell proliferation and differentiation in the developing nervous system. May play a role in the asymmetric division of fibroblasts and participate in the process of stratification of the squamous epithelium (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMALPGGRHLDSVTLPGQRLHLMQVDSVQRWMEDLKLMTECECMCVLQAKPISLEEDAQGDLILAGGPGPGDPLQLLLKRGWVISTELRRIGQKLAQDRWARVHSMSVRLTCHARSMVSEYSAVSRNSLKEMGEIEKLLMEKCSELSAVTERCLQVENEHVLKSMKACVSETLSMLGQHFGQLLELALTREVQALVRKIDASDNIYTTESTTGNLFSLTQEGAPLCRIIAKEGGVVALFKVCRQDSFRCLYPQALRTLASICCVEEGVHQLEKVDGVLCLADILTDNSHSEATRAEAAAVVAQVTSPHLPVTQHLSSFLESMEEIVTALVKLCQEASSGEVFLLASAALANITFFDTMACEMLLQLNAIRVLLEACSDKQRVDTPYTRDQIVTILANMSVLEQCASDIIQENGVQLIMGMLSEKPRSGTPAEVAACERVQQKAAVTLARLSRDPDVAREAVRLSCMSRLIELCRSPSERNSSDAVLVACLAMGIQLQVKKTNISALLLWFLFWHIQGCSA
+PTM	Methylation:126,184,278,320,378

@@ -1,0 +1,25 @@
+UniprotID	H3BSQ2
+Accession	H3BSQ2
+EntryName	H3BSQ2_HUMAN
+ProteinName	Ubiquitin like 7
+GeneName	UBL7
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XPVDKVAAMREFRVLHTALHSSSSYREAVFKMLSNKESLDQIIVATPGLSSDPIALGVLQDKDLFSVFADPNMLDTLVPAHPALVNAIVLVLHSVAGSAPMPGTDSSSRSMPSSSYRDMPGGFLFEGLSDDEDDFHPSQWQPQLQQLRDMGIQDDELSLRALQATGGDIQAALELIFAGGAP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P13804-2
+Accession	P13804;B4DT43;Q53XN3
+EntryName	ETFA_HUMAN
+ProteinName	Electron transfer flavoprotein subunit alpha, mitochondrial (Alpha-ETF)
+GeneName	ETFA
+Length	284
+Function	Heterodimeric electron transfer flavoprotein that accepts electrons from several mitochondrial dehydrogenases, including acyl-CoA dehydrogenases, glutaryl-CoA and sarcosine dehydrogenase (PubMed:10356313, PubMed:15159392, PubMed:15975918, PubMed:27499296, PubMed:9334218). It transfers the electrons to the main mitochondrial respiratory chain via ETF-ubiquinone oxidoreductase (ETF dehydrogenase) (PubMed:9334218). Required for normal mitochondrial fatty acid oxidation and normal amino acid metabolism (PubMed:12815589, PubMed:1430199, PubMed:1882842).
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRAAAPGQLRRAVAQDLCKVAGIAKVLVAQHDVYKGLLPEELTPLILATQKQFNYTHICAGASAFGKNLLPRVAAKLEVAPISDIIAIKSPDTFVRTIYAGNALCTVKCDEKVKVFSVRGTSFDAAATSGGSASSEKASSTSPVEISEWLDQKLTKSDRPELTGAKVVVSGGRGLKSGENFKLLYDLADQLHAAVGASRAAVDAGFVPNDMQVGQTGKIVAPELYIAVGISGAIQHLAGMKDSKTIVAINKDPEAPIFQVADYGIVADLFKVVPEMTEILKKK
+PTM	Acetylation:59,62,69,75,85,117,126,139,158,162,164,187,203,206,226,232,301;Methylation:101,139,169,187,203,223,268;Phosphorylation:15,52,93,140,143,149,171,172,178,179,185,190,192,235;SUMOylation:203,216,226,294;Ubiquitylation:59,85,139,164,203,206,226,294,331,332

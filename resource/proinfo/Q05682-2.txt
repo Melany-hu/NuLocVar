@@ -1,0 +1,25 @@
+UniprotID	Q05682-2
+Accession	Q05682;A8K0X1;Q13978;Q13979;Q14741;Q14742;Q9UD91
+EntryName	CALD1_HUMAN
+ProteinName	Caldesmon (CDM)
+GeneName	CALD1 CAD CDM
+Length	564
+Function	Actin- and myosin-binding protein implicated in the regulation of actomyosin interactions in smooth muscle and nonmuscle cells (could act as a bridge between myosin and actin filaments). Stimulates actin binding of tropomyosin which increases the stabilization of actin filament structure. In muscle tissues, inhibits the actomyosin ATPase by binding to F-actin. This inhibition is attenuated by calcium-calmodulin and is potentiated by tropomyosin. Interacts with actin, myosin, two molecules of tropomyosin and with calmodulin. Also plays an essential role during cellular mitosis and receptor capping. Involved in Schwann cell migration during peripheral nerve regeneration (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Myofibril; Cytoplasm; Cytoskeleton; Stress fiber
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDFERRRELRRQKREEMRLEAERIAYQRNDDDEEEAARERRRRARQERLRQKQEEESLGQVTDQVEVNAQNSVPDEEAKTTTTNTQVEGDDEAAFLERLARREERRQKRLQEALERQKEFDPTITDASLSLPSRRMQNDTAENETTEKEEKSESRQERYEIEETETVTKSYQKNDWRDAEENKKEDKEKEEEEEEKPKRGSIGENQGEEKGTKVQAKREKLQEDKPTFKKEEIKDEKIKKDKEPKEEVKSFMDRKKGFTEVKSQNGEFMTHKLKHTENTFSRPGGRASVDTKEAEGAPQVEAGKRLEELRRRRGETESEEFEKLKQKQQEAALELEELKKKREERRKVLEEEEQRRKQEEADRKLREEEEKRRLKEEIERRRAEAAEKRQKMPEDGLSDDKKPFKCFTPKGSSLKIEERAEFLNKSVQKSSGVKSTHQAAIVSKIDSRLEQYTSAIEGTKSAKPTKPAASDLPVPAEGVRNIKSMWEKGNVFSSPTAAGTPNKETAGLKVGVSSRINEWLTKTPDGNKSPAPKPSDLRPGDVSSKRNLWEKQSVDKVTSPTKV
+PTM	Acetylation:174,197,479,504,534,553,569,618,632,640,645,655,674,693,713,718,763,775;Methylation:53,80,170,281,300,390,395,434,464,553,569,570,655,674,690,693,696,733,752,775;Phosphorylation:58,73,84,86,124,126,129,131,134,141,147,153,155,160,202,217,219,480,493,506,509,511,518,521,546,548,628,638,642,643,656,660,661,665,677,682,684,691,695,723,724,726,730,735,743,751,753,759,765,773,774,783,788,789,791;SUMOylation:53,119,149,170,459,492,504,522,631,645,674,696;Ubiquitylation:53,170,485,522,534,674,718

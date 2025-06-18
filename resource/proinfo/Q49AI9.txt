@@ -1,0 +1,25 @@
+UniprotID	Q49AI9
+Accession	Q49AI9
+EntryName	Q49AI9_HUMAN
+ProteinName	ABCA8 protein
+GeneName	ABCA8
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGMAQLLHLDYDLNSNAFPHPSDGSNLIVATNFMLAFDTCLYLALAIYFEKILPNEYGHRRPPLFFLKSSFWSQTQKTDHVALEDEMDADPSFHDSFEQAPPEFQGKEAIRIRNVTKEYKGKPDKIEALKDLVFDIYEGQITAILVTVELESQHC
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P12074
+Accession	P12074;B2R500;O43714;Q32Q37
+EntryName	CX6A1_HUMAN
+ProteinName	Cytochrome c oxidase subunit 6A1, mitochondrial (Cytochrome c oxidase polypeptide VIa-liver) (Cytochrome c oxidase subunit VIA-liver) (COX VIa-L)
+GeneName	COX6A1 COX6AL
+Length	109
+Function	Component of the cytochrome c oxidase, the last enzyme in the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol-cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transport and the ATP synthase. Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Electrons originating from reduced cytochrome c in the intermembrane space (IMS) are transferred via the dinuclear copper A center (CU(A)) of subunit 2 and heme A of subunit 1 to the active site in subunit 1, a binuclear center (BNC) formed by heme A3 and copper B (CU(B)). The BNC reduces molecular oxygen to 2 water molecules unsing 4 electrons from cytochrome c in the IMS and 4 protons from the mitochondrial matrix.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	0.2224,0.1528,0.1070,0.1476,0.1852,0.2193,0.2541,0.3117,0.3566,0.2988,0.3286,0.3704,0.4186,0.4369,0.4979,0.4901,0.5665,0.5382,0.5419,0.6227,0.6482,0.6620,0.7595,0.8375,0.8050,0.8050,0.7629,0.6043,0.5807,0.5707,0.5707,0.5758,0.4507,0.3249,0.3087,0.2884,0.2164,0.2328,0.2645,0.2034,0.1823,0.1251,0.1137,0.0870,0.0555,0.0704,0.0483,0.0334,0.0443,0.0443,0.0414,0.0676,0.0646,0.1251,0.2224,0.2817,0.3149,0.3948,0.3948,0.4051,0.3529,0.2988,0.3321,0.2399,0.3019,0.3774,0.2918,0.3529,0.3667,0.4441,0.4476,0.4541,0.4766,0.3631,0.3840,0.2503,0.2541,0.2470,0.2470,0.2364,0.2258,0.3426,0.3494,0.2680,0.3667,0.3566,0.3774,0.4541,0.3910,0.4901,0.5139,0.4220,0.4441,0.4292,0.5533,0.4220,0.5707,0.5758,0.5807,0.5577,0.5254,0.5055,0.4766,0.5577,0.7331,0.7209,0.6806,0.6043,0.5707
+ExposeBuried	1,1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1,1,1
+SurfaceAccessbility	0.741,0.419,0.304,0.269,0.226,0.162,0.400,0.257,0.082,0.225,0.390,0.132,0.143,0.367,0.458,0.462,0.399,0.410,0.488,0.199,0.403,0.383,0.276,0.281,0.485,0.475,0.318,0.320,0.367,0.222,0.561,0.533,0.170,0.213,0.215,0.290,0.082,0.048,0.206,0.070,0.032,0.096,0.066,0.051,0.079,0.125,0.069,0.160,0.191,0.102,0.060,0.053,0.085,0.113,0.040,0.169,0.181,0.124,0.046,0.433,0.483,0.310,0.485,0.433,0.565,0.408,0.609,0.406,0.355,0.610,0.140,0.333,0.380,0.178,0.447,0.306,0.070,0.280,0.086,0.307,0.360,0.430,0.469,0.165,0.386,0.211,0.388,0.485,0.395,0.458,0.191,0.166,0.079,0.097,0.228,0.249,0.439,0.404,0.133,0.365,0.370,0.185,0.329,0.460,0.436,0.327,0.622,0.632,0.889
+SecondStructure	C,C,B,B,B,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,1.8,4.2,4.2,-0.4,4.2,-0.8,-0.8,4.2,-0.8,-4.5,3.8,3.8,-0.4,-4.5,-0.8,-4.5,-1.6,-3.5,3.8,-0.4,-4.5,-1.6,1.9,-0.8,-0.8,-0.4,1.8,-3.2,-0.4,-3.5,-3.5,-0.4,-0.8,1.8,-4.5,1.9,-0.9,-3.9,-0.7,3.8,-0.7,2.8,2.8,4.2,1.8,3.8,-1.6,-0.4,4.2,1.8,4.2,-0.8,1.9,3.8,-3.5,4.2,-1.3,3.8,-3.9,-0.8,-3.2,-3.2,-0.4,-3.5,-3.2,-3.5,-4.5,-1.6,-3.5,2.8,4.5,1.8,-1.3,-1.6,-3.2,3.8,-4.5,4.5,-4.5,-0.7,-3.9,-1.6,2.8,-1.6,-0.9,-0.4,-3.5,-0.4,-3.5,-3.2,-0.7,3.8,2.8,-3.2,-3.5,-1.6,-3.2,4.2,-3.5,-1.6,3.8,-1.6,-0.7,-0.4,-1.3,-3.5,-3.5,-3.5
+Polar	0,0,0,0,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,0,1,1,1,1,1,1
+Charge	0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,-1,-1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,-1,1,-1,1,0,-1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,-1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1,-1,-1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVVGVSSVSRLLGRSRPQLGRPMSSGAHGEEGSARMWKTLTFFVALPGVAVSMLNVYLKSHHGEHERPEFIAYPHLRIRTKPFPWGDGNHTLFHNPHVNPLPTGYEDE
+PTM	SUMOylation:82

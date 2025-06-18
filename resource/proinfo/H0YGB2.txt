@@ -1,0 +1,25 @@
+UniprotID	H0YGB2
+Accession	H0YGB2
+EntryName	H0YGB2_HUMAN
+ProteinName	C-type lectin domain family 4 member C
+GeneName	CLEC4C
+Length	138
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EEEPQDREKGLWWFQLKVWSMAVVSILLLSVCFTVSSVDWSCCPTPWTSFQSSCYFISTGMQSWTKSQKNCSVMGADLVVINTREEQDFIIQNLKRNSSYFLGLSDPGGRRHWQWVDQTPYNENVTFWHSGEPNNLDE
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0Y4S7
+Accession	H0Y4S7
+EntryName	H0Y4S7_HUMAN
+ProteinName	RANBP2-type and C3HC4-type zinc finger containing 1
+GeneName	RBCK1
+Length	255
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEMALSLTRAVAGGDEQVAMKCAIWLAEQRVPLSVQLKPEVSPTQDIRSRGEKTEEVGEVREVPDHGGPRVLPRVDSKSSVEPLEGPNWLWVSVEDAQMHTVTIWLTVRPDMTVASLKDMVFLDYGFPPVLQQWVIGQRLARDQETLHSHGVRQNGDSAYLYLLSARNTSLNPQELQRERQLRMLEDLGFKDLTLQPRGPLEPGPPKPGVPQEPGRGQPDAVPEPPPVGWQCPGCTFINKPTRPGCEMCCRARPE
+PTM	

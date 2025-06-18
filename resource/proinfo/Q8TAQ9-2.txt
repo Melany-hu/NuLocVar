@@ -1,0 +1,25 @@
+UniprotID	Q8TAQ9-2
+Accession	Q8TAQ9;A4D2F3;B4DXK1;D3DVM3;E7EWC8;Q4F965;Q7Z4U8
+EntryName	SUN3_HUMAN
+ProteinName	SUN domain-containing protein 3 (Sad1/unc-84 domain-containing protein 1)
+GeneName	SUN3 SUNC1
+Length	269
+Function	As a probable component of the LINC (LInker of Nucleoskeleton and Cytoskeleton) complex, involved in the connection between the nuclear lamina and the cytoskeleton. The nucleocytoplasmic interactions established by the LINC complex play an important role in the transmission of mechanical forces across the nuclear envelope and in nuclear movement and positioning. May be involved in nuclear remodeling during sperm head formation in spermatogenesis. A probable SUN3:SYNE1 LINC complex may tether spermatid nuclei to posterior cytoskeletal structures such as the manchette.
+Subcellular Location	Membrane; Nucleus envelope; Nucleus inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPKEQLELLKKESQNLENNFRQILFLIEQIDVLKALLRDMKDGMDNNHNWNTHGDPVEDPDHTEEVSNLVNYVLKKLREDQVEMADYALKSAGASIIEAGTSESYKNNKAKLYWHGIGFLNHEMPPDIILQPDVYPGKCWAFPGSQGHTLIKLATKIIPTAVTMEHISEKVSPSGNISSAPKEFSVYVQRYMCRFVIQAGITKKCEGEEIFLGQFIYNKTGTTVQTFELQHAVSEYLLCVKLNIFSNWGHPKYTCLYRFRVHGTPGKHI
+PTM	Acetylation:141,175,176;Methylation:110,134,190;Phosphorylation:249,260,272,342,345

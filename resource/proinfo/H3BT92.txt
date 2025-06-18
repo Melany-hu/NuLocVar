@@ -1,0 +1,25 @@
+UniprotID	H3BT92
+Accession	H3BT92
+EntryName	H3BT92_HUMAN
+ProteinName	TP53 target 3D
+GeneName	TP53TG3D
+Length	102
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRASPCISQPAASWHPRPSALRPTAGSGPDTRTPGTVEDGSAPCPAFRSPAVSPCGEEPCCFQISPAEETLELGRLVSPGCHKFSAPQECRLDPRARCVVHI
+PTM	

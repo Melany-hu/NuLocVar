@@ -1,0 +1,25 @@
+UniprotID	Q6DJT9-2
+Accession	Q6DJT9;B4DLC2;Q59GH8;Q9Y4L2
+EntryName	PLAG1_HUMAN
+ProteinName	Zinc finger protein PLAG1 (Pleiomorphic adenoma gene 1 protein)
+GeneName	PLAG1
+Length	418
+Function	Transcription factor whose activation results in up-regulation of target genes, such as IGFII, leading to uncontrolled cell proliferation: when overexpressed in cultured cells, higher proliferation rate and transformation are observed. Other target genes such as CRLF1, CRABP2, CRIP2, PIGF are strongly induced in cells with PLAG1 induction. Proto-oncogene whose ectopic expression can trigger the development of pleomorphic adenomas of the salivary gland and lipoblastomas. Overexpression is associated with up-regulation of IGFII, is frequently observed in hepatoblastoma, common primary liver tumor in childhood. Cooperates with CBFB-MYH11, a fusion gene important for myeloid leukemia.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	22..25
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATHSPEKTHKCNYCEKMFHRKDHLKNHLHTHDPNKETFKCEECGKNYNTKLGFKRHLALHAATSGDLTCKVCLQTFESTGVLLEHLKSHAGKSSGGVKEKKHQCEHCDRRFYTRKDVRRHMVVHTGRKDFLCQYCAQRFGRKDHLTRHMKKSHNQELLKVKTEPVDFLDPFTCNVSVPIKDELLPVMSLPSSELLSKPFTNTLQLNLYNTPFQSMQSSGSAHQMITTLPLGMTCPIDMDTVHPSHHLSFKYPFSSTSYAISIPEKEQPLKGEIESYLMELQGGVPSSSQDSQASSSSKLGLDPQIGSLDDGAGDLSLSKSSISISDPLNTPALDFSQLFNFIPLNGPPYNPLSVGSLGMSYSQEEAHSSVSQLPPQTQDLQDPANTIGLGSLHSLSAAFTSSLSTSTTLPRFHQAFQ
+PTM	Acetylation:90;Methylation:170,242,263,280;Phosphorylation:55,331,399;SUMOylation:122,244,263,353

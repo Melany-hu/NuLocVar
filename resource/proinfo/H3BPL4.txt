@@ -1,0 +1,25 @@
+UniprotID	H3BPL4
+Accession	H3BPL4
+EntryName	H3BPL4_HUMAN
+ProteinName	Lysine rich nucleolar protein 1
+GeneName	KNOP1
+Length	199
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	138...144;47...52;136...142
+validnes_region	
+nesbase_region	
+Sequence	XEKKGAQDPTAFSVQDPWFCEAREARDVGDTCSVGKKDEEQAALGQKRKRKSPREHNGKVKKKKKIHQEGDALPGHSKPSRSMESSPRKGSKKKPVKVEAPEYIPISDDPKASAKKKMKSKKKVEQPVIEEPALKRKKKKKRKESGVAGDPWKEVRRKALQEEIDRESGKTEASETRKWTGTQFGQWDTAGFENEDQKL
+PTM	

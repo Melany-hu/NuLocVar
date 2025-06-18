@@ -1,0 +1,25 @@
+UniprotID	A0A0M3HER1
+Accession	A0A0M3HER1
+EntryName	A0A0M3HER1_HUMAN
+ProteinName	LIM zinc finger domain containing 1
+GeneName	LIMS1
+Length	209
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKELTADARELKGELYCLPCHDKMGVPICGACRRPIEGRVVNAMGKQWHVEHFVCAKCEKPFLGHRHYERKGLAYCETHYNQLFGDVCFHCNRVIEGDVVSALNKAWCVNCFACSTCNTKLTLKDKFVEIDLKPVCKHCYEKMPEEFKRRLAKREREAKDKDKQKKKKPVCLNKFVEFDMKPVCKKCYEKFPLELKKRLKKLAETLGRK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q99471-3
+Accession	Q99471;A8K9A8;Q54AA8;Q9C083;Q9C084
+EntryName	PFD5_HUMAN
+ProteinName	Prefoldin subunit 5 (Myc modulator 1) (c-Myc-binding protein Mm-1)
+GeneName	PFDN5 MM1 PFD5
+Length	109
+Function	Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins. Represses the transcriptional activity of MYC.
+Subcellular Location	Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQSINITELNLPQLEMLKNQLDQMYVPGKLHDVEHVLIDVGTGYYVEKTAEDAKDFFKRKIDFLTKQMEKIQPALQEKHAMKQAVMEMMSQKIQQLTALGAAQATAKA
+PTM	Acetylation:42,47,100,116,124,128;Methylation:19,37,42,55,75,94,124;Phosphorylation:4,56,90,91;SUMOylation:60,75,100;Ubiquitylation:37,42,47,55,60,94,100,112,153

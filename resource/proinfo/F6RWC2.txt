@@ -1,0 +1,25 @@
+UniprotID	F6RWC2
+Accession	F6RWC2
+EntryName	F6RWC2_HUMAN
+ProteinName	Short chain dehydrogenase/reductase family 39U member 1
+GeneName	SDR39U1
+Length	211
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSLHRGCRAAMPPSTWPERTSSTLSEAYYQPSLTAEYDEDSPGGDFDFFSNLVTKWEAAARLPGDSTRQVVVRSGVVLGRGGGAMGHMLLPFRLGLGGPIGSGHQFFPWIHIGDLAGILTHALEANHVHGVLNGVAPSSATNAEFAQTLGAALGRRAFIPLPSAVVQAVFGRQRAIMLLEGQKVIPQRTLATGYQYSFPELGAALKEIVA
+PTM	

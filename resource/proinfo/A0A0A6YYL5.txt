@@ -1,0 +1,25 @@
+UniprotID	A0A0A6YYL5
+Accession	A0A0A6YYL5
+EntryName	A0A0A6YYL5_HUMAN
+ProteinName	FXYD domain-containing ion transport regulator
+GeneName	FXYD6-FXYD2
+Length	112
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	62...66
+validnes_region	
+nesbase_region	
+Sequence	MELVLVFLCSLLAPMVLASAAEKEKEMDPFHYDYQTLRIGGLVFAVVLFSVGILLILRPQEMRKPRWRTSSPPMQQSPRKQRTEVQPSGGRRQPQGGRGPVLLWQKIPLWGQ
+PTM	

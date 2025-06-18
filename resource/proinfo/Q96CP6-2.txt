@@ -1,0 +1,25 @@
+UniprotID	Q96CP6-2
+Accession	Q96CP6;A6NKY7;Q8NC77;Q9P1Z5
+EntryName	ASTRA_HUMAN
+ProteinName	Protein Aster-A (GRAM domain-containing protein 1A)
+GeneName	GRAMD1A KIAA1533
+Length	713
+Function	Cholesterol transporter that mediates non-vesicular transport of cholesterol from the plasma membrane (PM) to the endoplasmic reticulum (ER) (By similarity). Contains unique domains for binding cholesterol and the PM, thereby serving as a molecular bridge for the transfer of cholesterol from the PM to the ER (By similarity). Plays a crucial role in cholesterol homeostasis and has the unique ability to localize to the PM based on the level of membrane cholesterol (By similarity). In lipid-poor conditions localizes to the ER membrane and in response to excess cholesterol in the PM is recruited to the endoplasmic reticulum-plasma membrane contact sites (EPCS) which is mediated by the GRAM domain (By similarity). At the EPCS, the sterol-binding VASt/ASTER domain binds to the cholesterol in the PM and facilitates its transfer from the PM to ER (By similarity). May play a role in tumor progression (By similarity). Plays a role in autophagy regulation and is required for biogenesis of the autophagosome (PubMed:31222192). This function in autophagy requires its cholesterol-transfer activity (PubMed:31222192).
+Subcellular Location	Endoplasmic reticulum membrane; Cell membrane; Cytoplasmic vesicle; Autophagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFDTTPHSGRSTPSSSPSLRKRLQLLPPSRPPPEPEPGTMVEKGSDSSSEKGGVPGTPSTQSLGSRNFIRNSKMLSPTYKQRNEDFRKLFSKLPEAERLIVDYSCALQREILLQGRLYLSENWICFYSNIFRWETTISIQLKEVTCLKKEKTAKLIPNAIQICTESEKHFFTSFGARDRCFLLIFRLWQNALLEKTLSPRELWHLVHQCYGSELGLTSEDEDYVSPLQLNGLGTPKEVGDVIALSDITSSGAADRSQEPSPVGSRRGHVTPNLSRASSDADHGAEEDKEEQVDSQPDASSSQTVTPVAEPPSTEPTQPDGPTTLGPLDLLPSEELLTDTSNSSSSTGEEADLAALLPDLSGRLLINSVFHVGAERLQQMLFSDSPFLQGFLQQCKFTDVTLSPWSGDSKCHQRRVLTYTIPISNPLGPKSASVVETQTLFRRGPQAGGCVVDSEVLTQGIPYQDYFYTAHRYCILGLARNKARLRVSSEIRYRKQPWSLVKSLIEKNSWSGIEDYFHHLERELAKAEKLSLEEGGKDARGLLSGLRRRKRPLSWRAHGDGPQHPDPDPCARAGIHTSGSLSSRFSEPSVDQGPGAGIPSALVLISIVLIILIALNVLLFYRLWSLERTAHTFESWHSLALAKGKFPQTATEWAEILALQKQFHSVEVHKWRQILRASVELLDEMKFSLEKLHQGITVSDPPFDTQPRPDDSFS
+PTM	Methylation:21,202,508,513,532,671,680,701;Phosphorylation:4,5,8,11,12,14,15,16,18,57,62,65,72,80,83,85,98,205,224,241,252,255,256,257,263,267,271,277,281,284,285,415,494,495,509,550,560,583,584,586,635;Ubiquitylation:51,99,416,436,513,543

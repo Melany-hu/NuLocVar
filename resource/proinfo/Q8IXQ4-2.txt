@@ -1,0 +1,25 @@
+UniprotID	Q8IXQ4-2
+Accession	Q8IXQ4;A8K8X8;Q05BX8;Q05D87;Q5T3Z3;Q5T3Z5;Q9C0F9;Q9H2R0;Q9P0W6
+EntryName	GPAM1_HUMAN
+ProteinName	GPALPP motifs-containing protein 1 (Lipopolysaccharide-specific response protein 7)
+GeneName	GPALPP1 KIAA1704 LSR7 AD029
+Length	191
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAKGPVNYNVTTEFEKRAQRMKEKLTKGDDDSSKPIVRESWMTELPPEMKDFGLGPRTFKRRADDTSGDRSIWTDTPADRERKAKETQEARKSSSKKDEEHILSGRDKRLAEQVSSYNESKRSESLMDIHHKKLKSKAAEDKNKPQERIPFDRDKDLKVNRFDEAQKKALIKKSRELNTRFSHGKGNMFL
+PTM	Acetylation:15,335;Methylation:166,207,232,322,330;Phosphorylation:28,54,55,57,105,123,126,138,140,141,243,244,245,275,286,329;SUMOylation:184,200,271,308

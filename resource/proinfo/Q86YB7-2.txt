@@ -1,0 +1,25 @@
+UniprotID	Q86YB7-2
+Accession	Q86YB7;D3DQ36;Q9NV38
+EntryName	ECHD2_HUMAN
+ProteinName	Enoyl-CoA hydratase domain-containing protein 2, mitochondrial
+GeneName	ECHDC2
+Length	261
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRVLCLLRPWRPLRARGCASDGAAGGSEIQVRALAGPDQGITEILMNRPSARNALGNVFVSELLETLAQLREDRQVRVLLFRSGVKGVFCAGADLKEREQMSEAEVGVFVQRLRGLMNDIASSAVMGLIETTRGLLPGAGGTQRLPRCLGVALAKELIFTGRRLSGTEAHVLGLVNHAVAQNEEGDAAYQRARALAQEILPQAPIAVRLGKVAIDRGTEVDIASGMAIEGMCYAQNIPTRDRLEGMAAFREKRTPKFVGK
+PTM	Methylation:97,243;Phosphorylation:197,199

@@ -1,0 +1,25 @@
+UniprotID	C9JQZ8
+Accession	C9JQZ8
+EntryName	C9JQZ8_HUMAN
+ProteinName	Smoothelin
+GeneName	SMTN
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTCLSHPLQLEVTADLAERRRIRSAIRELQRQELEREEEALASKRFRAERQDNKENWLHSQQREAEQRAALARLAGQLESMNDVEELTALLRSAGEYEERKLIRAAIRRVRAQEIEAATLAGRLYSGRPNSGSREDSKGLAAHRLEQCEVPEREEQEQ
+PTM	

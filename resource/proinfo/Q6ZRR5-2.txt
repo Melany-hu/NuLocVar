@@ -1,0 +1,25 @@
+UniprotID	Q6ZRR5-2
+Accession	Q6ZRR5;B4DGQ4;B4E230;Q8IZ79
+EntryName	TLCD5_HUMAN
+ProteinName	TLC domain-containing protein 5 (Transmembrane protein 136)
+GeneName	TLCD5 TMEM136
+Length	126
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	122...126
+validnes_region	
+nesbase_region	
+Sequence	MALALCLQVLCSLCGWLSLYISFCHLNKHRSYEWSCRLVTFTHGVLSIGLSAYIGFIDGPWPFTHPGSPNTPLQVHVLCLTLGYFIFDLGCIWRFAWRKSIKKYHAWRSRRSEERQLKHNGHLKIH
+PTM	

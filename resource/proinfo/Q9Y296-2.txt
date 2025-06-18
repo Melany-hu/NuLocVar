@@ -1,0 +1,25 @@
+UniprotID	Q9Y296-2
+Accession	Q9Y296;A8K3A5;B4DME1
+EntryName	TPPC4_HUMAN
+ProteinName	Trafficking protein particle complex subunit 4 (Hematopoietic stem/progenitor cell protein 172) (Synbindin) (TRS23 homolog)
+GeneName	TRAPPC4 SBDN CGI-104 HSPC172 PTD009
+Length	165
+Function	Core component of the TRAPP complexes which has a function of guanine nucleotide exchange factor activity for Rab1 GTPase (Probable). Plays a role in vesicular transport from endoplasmic reticulum to Golgi and autophagy (PubMed:31794024). May play a role in dendrite postsynaptic membrane trafficking (By similarity).
+Subcellular Location	Postsynaptic cell membrane; Golgi apparatus membrane; Endoplasmic reticulum; Vesicle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAIFSVYVVNKAGGLIYQLDSYAPRAEAEKTFSYPLDLLLKLHDERVLVAFGQRDGIRVGHAVLAINGMDVNGRYTADGKEMLETDTFKLHCYQTLTGIKFVVLADPRQAGIDSLLRKIYEIYSDFALKNPFYSLEMPIRCELFDQNLKLALEVAEKAGTFGPGS
+PTM	Acetylation:41;Methylation:30,41,154,172;Phosphorylation:17,22,92,95,147,168,174;SUMOylation:183,203;Ubiquitylation:30,41,80,172,211

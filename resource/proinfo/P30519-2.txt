@@ -1,0 +1,25 @@
+UniprotID	P30519-2
+Accession	P30519;A8MT35;D3DUD5;I3L430;O60605
+EntryName	HMOX2_HUMAN
+ProteinName	Heme oxygenase 2 (HO-2) (EC 1.14.14.18) [Cleaved into: Heme oxygenase 2 soluble form]
+GeneName	HMOX2 HO2
+Length	287
+Function	Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron.
+Subcellular Location	Microsome membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADLSELLKEGTKEAHDRAENTQFVKDFLKGNIKKELFKLATTALYFTYSALEEEMERNKDHPAFAPLYFPMELHRKEALTKDMEYFFGENWEEQVQCPKAAQKYVERIHYIGQNEPELLVAHAYTRYMGDLSGGQVLKKVAQRALKLPSTGEGTQFYLFENVDNAQQFKQLYRARMNALDLNMKTKERIVEEANKAFEYNMQIFNELDQAGSTLARETLEDGFPVHDGKGDMRKCPFYAAEQDKGALEGSSCPFRTAMAVLRKPSLQFILAAGVALAAGLLAWYYM
+PTM	Acetylation:38,55,133,199,259;Methylation:24,38,59,168,199,225,259,293;Phosphorylation:2,7,8,19,34,115,162,179,187,229,248,280,295;Ubiquitylation:24,38,55,129,199,214,259

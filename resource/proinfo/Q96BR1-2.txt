@@ -1,0 +1,25 @@
+UniprotID	Q96BR1-2
+Accession	Q96BR1;A8K5W3;B3KQC2;Q9P1Q7;Q9UKG5
+EntryName	SGK3_HUMAN
+ProteinName	Serine/threonine-protein kinase Sgk3 (EC 2.7.11.1) (Cytokine-independent survival kinase) (Serum/glucocorticoid-regulated kinase 3) (Serum/glucocorticoid-regulated kinase-like)
+GeneName	SGK3 CISK SGKL
+Length	464
+Function	Serine/threonine-protein kinase which is involved in the regulation of a wide variety of ion channels, membrane transporters, cell growth, proliferation, survival and migration. Up-regulates Na(+) channels: SCNN1A/ENAC and SCN5A, K(+) channels: KCNA3/KV1.3, KCNE1, KCNQ1 and KCNH2/HERG, epithelial Ca(2+) channels: TRPV5 and TRPV6, chloride channel: BSND, creatine transporter: SLC6A8, Na(+)/dicarboxylate cotransporter: SLC13A2/NADC1, Na(+)-dependent phosphate cotransporter: SLC34A2/NAPI-2B, amino acid transporters: SLC1A5/ASCT2 and SLC6A19, glutamate transporters: SLC1A3/EAAT1, SLC1A6/EAAT4 and SLC1A7/EAAT5, glutamate receptors: GRIA1/GLUR1 and GRIK2/GLUR6, Na(+)/H(+) exchanger: SLC9A3/NHE3, and the Na(+)/K(+) ATPase. Plays a role in the regulation of renal tubular phosphate transport and bone density. Phosphorylates NEDD4L and GSK3B. Positively regulates ER transcription activity through phosphorylation of FLII. Negatively regulates the function of ITCH/AIP4 via its phosphorylation and thereby prevents CXCR4 from being efficiently sorted to lysosomes.
+Subcellular Location	Cytoplasmic vesicle; Early endosome; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	195..205
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQRDHTMDYKESCPSVSIPSSDEHREKKKRFTVYKVLVSVGRSEWFVFRRYAEFDKLYNTLKKQFPAMALKIPAKRIFGDNFDPDFIKQRRAGLNEFIQNLVRYPELYNHPDVRAFLQMDSPKHQSDPSEDEDERSSQKLHSTSQNINLGPSGNPHAKPTDFDFLKVIGKGSFGKVLLAKRKLDGKFYAVKVLQKKIVLNRKEQKHIMAERNVLLKNVKHPFLVGLHYSFQTTEKLYFVLDFVNGGELFFHLQRERSFPEHRARFYAAEIASALGYLHSIKIVYRDLKPENILLDSVGHVVLTDFGLCKEGIAISDTTTTFCGTPEPPFYCRDVAEMYDNILHKPLSLRPGVSLTAWSILEELLEKDRQNRLGAKEDFLEIQNHPFFESLSWADLVQKKIPPPFNPNVAGPDDIRNFDTAFTEETVPYSVCVSSDYSIVNASVLEADDAFVGFSYAPPSEDLFL
+PTM	Methylation:62,88,123,166,170,180,191,216,335,398;Phosphorylation:32,126,129,233,387;Ubiquitylation:170,180,216,288

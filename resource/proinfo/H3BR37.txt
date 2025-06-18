@@ -1,0 +1,25 @@
+UniprotID	H3BR37
+Accession	H3BR37
+EntryName	H3BR37_HUMAN
+ProteinName	Telomeric repeat binding factor 2
+GeneName	TERF2
+Length	60
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAERGAGEARLEEAVNRWVLKFYFHEALRAFRGSRFACQALGEGAHRVPIAAGYAVSVAD
+PTM	

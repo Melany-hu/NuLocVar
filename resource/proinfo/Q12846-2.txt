@@ -1,0 +1,25 @@
+UniprotID	Q12846-2
+Accession	Q12846;A8MXY0;Q15525;Q6FHE8
+EntryName	STX4_HUMAN
+ProteinName	Syntaxin-4 (Renal carcinoma antigen NY-REN-31)
+GeneName	STX4 STX4A
+Length	295
+Function	Plasma membrane t-SNARE that mediates docking of transport vesicles (By similarity). Necessary for the translocation of SLC2A4 from intracellular vesicles to the plasma membrane (By similarity). In neurons, recruited at neurite tips to membrane domains rich in the phospholipid 1-oleoyl-2-palmitoyl-PC (OPPC) which promotes neurite tip surface expression of the dopamine transporter SLC6A3/DAT by facilitating fusion of SLC6A3-containing transport vesicles with the plasma membrane (By similarity). Together with STXB3 and VAMP2, may also play a role in docking/fusion of intracellular GLUT4-containing vesicles with the cell surface in adipocytes and in docking of synaptic vesicles at presynaptic active zones (By similarity). Required for normal hearing (PubMed:36355422).
+Subcellular Location	Cell membrane; Cell projection; Neuron projection; Cell projection; Stereocilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGMTARTKRTRSGSRWWCTRARHGWGARTRSSSTSPLGHPPQVRTIRQTIVKLGNKVQELEKQQVTILATPLPEESMKQELQNLRDEIKQLGREIRLQLKAIEPQKEEADENYNSVNTRMRKTQHGVLSQQFVELINKCNSMQSEYREKNVERIRRQLKITNAGMVSDEELEQMLDSGQSEVFVSNILKDTQVTRQALNEISARHSEIQQLERSIRELHDIFTFLATEVEMQGEMINRIEKNILSSADYVERGQEHVKTALENQKKARKKKVLIAICVSITVVLLAVIIGVTVVG
+PTM	Methylation:64,91,140,191,267;Phosphorylation:5,14,15,31,36,115,117,193,196,204,208,248,251;SUMOylation:108;Ubiquitylation:44,54,58,64,91,102,108,243,260

@@ -1,0 +1,25 @@
+UniprotID	Q9NR12-2
+Accession	Q9NR12;Q14250;Q5XG82;Q6NVZ5;Q96C91;Q9BXB8;Q9BXB9
+EntryName	PDLI7_HUMAN
+ProteinName	PDZ and LIM domain protein 7 (LIM mineralization protein) (LMP) (Protein enigma)
+GeneName	PDLIM7 ENIGMA
+Length	423
+Function	May function as a scaffold on which the coordinated assembly of proteins can occur. May play a role as an adapter that, via its PDZ domain, localizes LIM-binding proteins to actin filaments of both skeletal muscle and nonmuscle tissues. Involved in both of the two fundamental mechanisms of bone formation, direct bone formation (e.g. embryonic flat bones mandible and cranium), and endochondral bone formation (e.g. embryonic long bone development). Plays a role during fracture repair. Involved in BMP6 signaling pathway (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSFKVVLEGPAPWGFRLQGGKDFNVPLSISRLTPGGKAAQAGVAVGDWVLSIDGENAGSLTHIEAQNKIRACGERLSLGLSRAQPVQSKPQKVQTPDKQPLRPLVPDASKQRLMENTEDWRPRPGTGQSRSFRILAHLTGTEFMQDPDEEHLKKSSQVPRTEAPAPASSTPQEPWPGPTAPSPTSRPPWAVDPAFAERYAPDKTSTVLTRHSQPATPTPLQSRTSIVQAAAGGVPGGGSNNGKTPVCHQCHKVIRGRYLVALGHAYHPEEFVCSQCGKVLEEGGFFEEKGAIFCPPCYDVRYAPSCAKCKKKITGEIMHALKMTWHVHCFTCAACKTPIRNRAFYMEEGVPYCERDYEKMFGTKCHGCDFKIDAGDRFLEALGFSWHDTCFVCAICQINLEGKTFYSKKDRPLCKSHAFSHV
+PTM	Acetylation:188,238,278,287,343;Glycosylation:89;Methylation:103,117,137,324;Phosphorylation:31,34,60,78,95,104,109,111,144,161,166,196,203,204,205,214,217,219,220,239,240,241,244,247,251,253,257,259,260,274,279,349,372;SUMOylation:90,114,145,188,189,238,287,347,394;Ubiquitylation:90,93,114,145,189,238,394

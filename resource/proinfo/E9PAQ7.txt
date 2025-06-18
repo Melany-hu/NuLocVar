@@ -1,0 +1,25 @@
+UniprotID	E9PAQ7
+Accession	E9PAQ7
+EntryName	E9PAQ7_HUMAN
+ProteinName	Dermokine
+GeneName	DMKN
+Length	99
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGITSCSDQQAKEGEGLEGSSTGSSSGNHGGSGGGNGHKPGCEKPGNEARGSGESGIQNSETSPGMFNFDTFWKNFKSKLGFINWDAINKDQRSSRIP
+PTM	

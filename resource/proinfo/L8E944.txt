@@ -1,0 +1,25 @@
+UniprotID	L8E944
+Accession	L8E944
+EntryName	L8E944_HUMAN
+ProteinName	Alternative protein ZDHHC6
+GeneName	ZDHHC6
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLWHMEMCAQKKEIYNSFKVGRHSSLPKWVRSVRLSSLKIYKN
+PTM	

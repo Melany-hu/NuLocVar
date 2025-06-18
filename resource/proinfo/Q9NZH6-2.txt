@@ -1,0 +1,25 @@
+UniprotID	Q9NZH6-2
+Accession	Q9NZH6;B5BU97;Q56AP9;Q8TD04;Q8TD05;Q9HBF2;Q9HBF3;Q9UHA6
+EntryName	IL37_HUMAN
+ProteinName	Interleukin-37 (IL-37) (FIL1 zeta) (IL-1X) (Interleukin-1 family member 7) (IL-1F7) (Interleukin-1 homolog 4) (IL-1H) (IL-1H4) (Interleukin-1 zeta) (IL-1 zeta) (Interleukin-1-related protein) (IL-1RP1)
+GeneName	IL37 FIL1Z IL1F7 IL1H4 IL1RP1
+Length	192
+Function	Immune regulatory cytokine that acts as a suppressor of innate inflammatory and immune responses involved in curbing excessive inflammation. Signaling can occur via two mechanisms, intracellularly through nuclear translocation with SMAD3 and extracellularly after secretion and binding to its receptor composed of IL18R1 and IL18RAP. Suppresses, or reduces, pro-inflammatory cytokine production, including IL1A and IL6, as well as CCL12, CSF1, CSF2, CXCL13, IL1B, IL23A and IL1RN, but spares anti-inflammatory cytokines. Inhibits dendritic cell activation.
+Subcellular Location	Cytoplasm; Cytosol; Nucleus; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGCDRRETETKGKNSFKKRLRGPKVKNLNPKKFSIHDQDHKVLVLDSGNLIAVPDKNYIRPEIFFALASSLSSASAEKGSPILLGVSKGEFCLYCDKDKGQSHPSLQLKKEKLMKLAAQKESARRPFIFYRAQVGSWNMLESAAHPGWFICTSCNCNEPVGVTDKFENRKHIEFSFQPVCKAEMSPSEVSD
+PTM	Methylation:58

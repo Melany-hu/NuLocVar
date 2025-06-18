@@ -1,0 +1,25 @@
+UniprotID	G3V1A3
+Accession	G3V1A3
+EntryName	G3V1A3_HUMAN
+ProteinName	Integrin beta 1 binding protein 1, isoform CRA_a (Integrin subunit beta 1 binding protein 1)
+GeneName	ITGB1BP1 hCG_1686416
+Length	107
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRKGKKRHSSSSSQSSEISTKSKSVDSSLGGLSRSSTVASLDTDSTKSSGQSNNNSDTCAEFRIKYVGAIEKLKLSEGKGLEGPLDLINYIDVAQVKKKNSVTLWL
+PTM	

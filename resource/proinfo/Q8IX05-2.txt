@@ -1,0 +1,25 @@
+UniprotID	Q8IX05-2
+Accession	Q8IX05;A8K5G4;B4E2T9;Q15009
+EntryName	CD302_HUMAN
+ProteinName	CD302 antigen (C-type lectin BIMLEC) (C-type lectin domain family 13 member A) (DEC205-associated C-type lectin 1) (Type I transmembrane C-type lectin receptor DCL-1) (CD antigen CD302)
+GeneName	CD302 CLEC13A DCL1 KIAA0022
+Length	174
+Function	Potential multifunctional C-type lectin receptor that may play roles in endocytosis and phagocytosis as well as in cell adhesion and migration.
+Subcellular Location	Membrane; Cell projection; Filopodium; Cytoplasm; Cell cortex; Cell projection; Microvillus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLRAALPALLLPLLGLAAAAVADCPSSTWIQFQDSCYIFLQEAIKVESIEDVRNQCTDHGADMISIHNEEENAFILDTLKKQWKGPDDILLGMFYDTDVPYKRKYLSDNHILISALVIASTVILTVLGAIIWFLYKKHSDSRFTTVFSTAPQSPYNEDCVLVVGEENEYPVQFD
+PTM	Glycosylation:109;Methylation:45,80;Phosphorylation:48,101

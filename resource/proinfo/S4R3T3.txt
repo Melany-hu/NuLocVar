@@ -1,0 +1,25 @@
+UniprotID	S4R3T3
+Accession	S4R3T3
+EntryName	S4R3T3_HUMAN
+ProteinName	Sushi domain containing 3
+GeneName	SUSD3
+Length	119
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVPPHETFGFKVAVIASIVSCAIILLMSMAFLTCCLLKCVKKSKRRRSNRDHGESTSKLASVTRSVDKDPGIPRALSLSGSSSSPQAQVMVHMANPRQPLPASGLATGMPQQPAAYALG
+PTM	

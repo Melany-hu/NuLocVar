@@ -1,0 +1,25 @@
+UniprotID	Q9H6H4-2
+Accession	Q9H6H4;D3DSQ9;Q86VL1;Q9H6I5;Q9HBP4
+EntryName	REEP4_HUMAN
+ProteinName	Receptor expression-enhancing protein 4
+GeneName	REEP4 C8orf20 PP432
+Length	173
+Function	Microtubule-binding protein required to ensure proper cell division and nuclear envelope reassembly by sequestering the endoplasmic reticulum away from chromosomes during mitosis. Probably acts by clearing the endoplasmic reticulum membrane from metaphase chromosomes.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSWMICRLVVLVFGMLCPAYASYKAVKTKNIREYVRWMMYWIVFALFMAAEIVTDIFISWFPFYYEIKMAFVLWLLSPYTKGASLLYRKFVHPSLSRHEKEIDAYIVQAKERSYETVLSFGKRGLNIAASAAVQAATKGTGPGACRTATPRMSVGQILRQSPGRQPGPERSP
+PTM	Acetylation:28;Methylation:229;Phosphorylation:120,150,152,167,172,194,196,202,204,222,224,241,250,253,257;Ubiquitylation:28,90,101,111,123,139,217

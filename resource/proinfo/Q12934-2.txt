@@ -1,0 +1,25 @@
+UniprotID	Q12934-2
+Accession	Q12934;F5H0G1;O43595;O76034;O95676;Q8IVZ6;Q9HBX4
+EntryName	BFSP1_HUMAN
+ProteinName	Filensin (Beaded filament structural protein 1) (Lens fiber cell beaded-filament structural protein CP 115) (CP115) (Lens intermediate filament-like heavy) (LIFL-H) [Cleaved into: Filensin C-terminal fragment; Filensin N-terminal fragment]
+GeneName	BFSP1
+Length	540
+Function	Required for the correct formation of lens intermediate filaments as part of a complex composed of BFSP1, BFSP2 and CRYAA (PubMed:28935373). Involved in altering the calcium regulation of MIP water permeability (PubMed:30790544).
+Subcellular Location	Cell membrane; Cytoplasm; Cytoplasm; Cytoskeleton; Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	529...534
+validnes_region	
+nesbase_region	
+Sequence	MYENECECQLLLKEMLERLNKEADEALLHNLRLQLEAQFLQDDISAAKDRHKKNLLEVQTYISILQQIIHTTPPASIVTSGMREEKLLTEREVAALRSQLEEGREVLSHLQAQRVELQAQTTTLEQAIKSAHECYDDEIQLYNEQIETLRKEIEETERVLEKSSYDCRQLAVAQQTLKNELDRYHRIIEIEGNRLTSAFIETPIPLFTQSHGVSLSTGSGGKDLTRALQDITAAKPRQKALPKNVPRRKEIITKDKTNGALEDAPLKGLEDTKLVQVVLKEESESKFESESKEVSPLTQEGAPEDVPDGGQISKGFGKLYRKVKEKVRSPKEPETPTELYTKERHVLVTGDANYVDPRFYVSSITAKGGVAVSVAEDSVLYDGQVEPSPESPKPPLENGQVGLQEKEDGQPIDQQPIDKEIEPDGAELEGPEEKREGEERDEESRRPCAMVTPGAEEPSIPEPPKPAADQDGAEVLGTRSRSLPEKGPPKALAYKTVEVVESIEKISTESIQTYEETAVIVETMIGKTKSDKKKSGEKSS
+PTM	Methylation:138,254,276,303,379,405,531,630;Phosphorylation:170,185,186,408,414,416

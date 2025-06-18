@@ -1,0 +1,25 @@
+UniprotID	Q2Y0W8-8
+Accession	Q2Y0W8;A0MMZ1;B4DHY0;E7EML0;F5GZ31;F5H7F5;O94843;O95233;Q004B4;Q8N3U2;Q8TC60;Q9UKX8
+EntryName	S4A8_HUMAN
+ProteinName	Electroneutral sodium bicarbonate exchanger 1 (Electroneutral Na(+)-driven Cl-HCO3 exchanger) (Solute carrier family 4 member 8) (k-NBC3)
+GeneName	SLC4A8 KIAA0739 NBC NBC3 NDCBE1
+Length	638
+Function	Mediates electroneutral sodium- and carbonate-dependent chloride-HCO3(-) exchange with a Na(+):HCO3(-) stoichiometry of 2:1 (PubMed:18577713). Plays a major role in pH regulation in neurons (By similarity). Mediates sodium reabsorption in the renal cortical collecting ducts (By similarity).
+Subcellular Location	Apical cell membrane; Basolateral cell membrane; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle membrane; Cell membrane; Cell membrane; Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLGRQSHRHHRTHGQKHRRRGRGKGASQGEEGLEALAHDTPSQRVQFILGTEEDEEHVPHELFTELDEICMKEGEDAEWKETARWLKFEEDVEDGGERWSKPYVATLSLHSLFELRSCLINGTVLLDMHANSIEEISDLILDQQELSSDLNDSMRVKVREALLKKHHHQNEKKRNNLIPIVRSFAEVGKKQSDPHLMDKHGQTVSPQSVPTTNLEVKNGVNCEHSPVDLSKVDLHFMKKIPTGAEASNVLVGEVDILDRPIVAFVRLSPAVLLSGLTEVPIPTRFLFILLGPVGKGQQYHEIGRSMATIMTDEIFHDVAYKAKERDDLLAGIDEFLDQVTVLPPGEWDPSIRIEPPKNVPSQEKRKMPGVPNGNVCHIEQEPHGGHSGPELQRTGRLFGGLVLDIKRKAPWYWSDYRDALSLQCLASFLFLYCACMSPVITFGGLLGEATEGRISAIESLFGASMTGIAYSLFAGQALTILGSTGPVLVFEKILFKFCKDYALSYLSLRACIGLWTAFLCIVLVATDASSLVCYITRFTEEAFASLICIIFIYEAIEKLIHLAETYPIHMHSQLDHLSLYYCRCTLPENPNNHTLQYWKDHNIVTAEVHWANLTVSVSLGAARCPSIVTTGLGGTSK
+PTM	Methylation:218,271,285,460,550,612,900,1012,1072;Phosphorylation:49,157,237,246,259,279,481,752,1050;Ubiquitylation:78,141,871

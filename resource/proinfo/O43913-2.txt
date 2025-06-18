@@ -1,0 +1,25 @@
+UniprotID	O43913-2
+Accession	O43913;A4D0P8;O60590;O95268
+EntryName	ORC5_HUMAN
+ProteinName	Origin recognition complex subunit 5
+GeneName	ORC5 ORC5L
+Length	324
+Function	Component of the origin recognition complex (ORC) that binds origins of replication. DNA-binding is ATP-dependent. The specific DNA sequences that define origins of replication have not been identified yet. ORC is required to assemble the pre-replication complex necessary to initiate DNA replication.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPHLENVVLCRESQVSILQSLFGERHHFSFPSIFIYGHTASGKTYVTQTLLKTLELPHVFVNCVECFTLRLLLEQILNKLNHLSSSEDGCSTEITCETFNDFVRLFKQVTTAENLKDQTVYIVLDKAEYLRDMEANLLPGFLRLQELADRNVTVLFLSEIVWEKFRPNTGCFEPFVLYFPDYSIGNLQKILSHDHPPEYSADFYAAYINILLGVFYTVCRDLKELRHLAVLNFPKYCEPVVKGEASERDTRKLWRNIEPHLKKAMQTVYLREISSSQWEKLQKDDTDPGQLKGIRGSIETVTGDTSSANYQDTKVNTKEHSVRK
+PTM	Methylation:79,116,126,330,342;Phosphorylation:68,314,317,318;SUMOylation:223,242,263,292;Ubiquitylation:107,235,242,262,263,280,283,292,337,342

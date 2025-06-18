@@ -1,0 +1,25 @@
+UniprotID	Q4JDK3
+Accession	Q4JDK3;G8JLF9
+EntryName	Q4JDK3_HUMAN
+ProteinName	Non-receptor protein tyrosine phosphatase 20 variant 15 (Non-receptor protein tyrosine phosphatase 20 variant 16) (Non-receptor protein tyrosine phosphatase 20 variant 17) (Protein tyrosine phosphatase non-receptor type 20)
+GeneName	PTPN20
+Length	64
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTARGPFRRDRWSSEDEEAAGPSQALSPLLSVQHHGYSGPNERTTFWHGSNEGAVSLLLRYCA
+PTM	

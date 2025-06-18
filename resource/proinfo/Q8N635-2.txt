@@ -1,0 +1,25 @@
+UniprotID	Q8N635-2
+Accession	Q8N635;B1AK39;C9J0S1;Q96RY0
+EntryName	MEIOB_HUMAN
+ProteinName	Meiosis-specific with OB domain-containing protein (EC 3.1.-.-)
+GeneName	MEIOB C16orf73
+Length	471
+Function	Single-stranded DNA-binding protein required for homologous recombination in meiosis I. Required for double strand breaks (DSBs) repair and crossover formation and promotion of faithful and complete synapsis. Not required for the initial loading of recombinases but required to maintain a proper number of RAD51 and DMC1 foci after the zygotene stage. May act by ensuring the stabilization of recombinases, which is required for successful homology search and meiotic recombination. Displays Single-stranded DNA 3'-5' exonuclease activity in vitro.
+Subcellular Location	Cytoplasm; Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANSFAARIFTTLSDLQTNMANLKVIGIVIGKTDVKGFPDRKNIGSERYTFSFTIRDSPAHFVNAASWGNEDYIKSLSDSFRVGDCVIIENPLIQRKEIEREEKFSPATPSNCKLLLSENHSTVKVCSSYEVDTKLLSLIHLPVKESHDYYSLGDIVANGHSLNGRIINVLAAVKSVGEPKYFTTSDRRKGQRCEVRLYDETESSFAMTCWDNESILLAQSWMPRETVIFASDVRINFDKFRNCMTATVISKTIITTNPDIPEANILLNFIRENKETNVLDDEIDSYFKESINLSTIVDVYTVEQLKGKALKNEGKADPSYGILYAYISTLNIDDETTKVVRNRCSSCGYIVNEASNMCTTCNKNSLDFKSVFLSFHVLIDLTDHTGTLHSCSLTGSVAEETLGCTVHEFLAMTDEQKTALKWQFLLERSKIYLKFVLSHRARSGLKISVLSCKLADPTEASRNLSGQKHV
+PTM	Methylation:24,32,240,307,418;Phosphorylation:54,366

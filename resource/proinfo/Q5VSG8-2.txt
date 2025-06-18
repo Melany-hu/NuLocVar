@@ -1,0 +1,25 @@
+UniprotID	Q5VSG8-2
+Accession	Q5VSG8;Q6DD86;Q6P497;Q8N5P8;Q96G55;Q96N42
+EntryName	MANEL_HUMAN
+ProteinName	Glycoprotein endo-alpha-1,2-mannosidase-like protein (EC 3.2.1.-)
+GeneName	MANEAL
+Length	235
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MITGSPQMTWCPPFWTPPISTASRYGSHGAFYRYKNSMGKSLPLFYIYDSYLTSPEAWAHLLTPNGPHSIRNTPYDGVFIALLVEEGHTHDILAAGFDGMYTYFASNGFSFGSSHQNWKAVKNFCDANNLMFIPSVGPGYIDTSIRPWNNHNTRNRVNGKYYETALQAALTVRPEIVSITSFNEWHEGTQIEKAIPKKTPTRLYLDYLPHQPSLYLELTRRWAEHFIKEKEQWLM
+PTM	Glycosylation:77,83;Methylation:241,415;Phosphorylation:83,191,203;SUMOylation:30;Ubiquitylation:30

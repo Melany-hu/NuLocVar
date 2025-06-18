@@ -1,0 +1,25 @@
+UniprotID	Q9H1A3-2
+Accession	Q9H1A3;Q8NBT8;Q9BWJ7;Q9H1A2;Q9Y390
+EntryName	METL9_HUMAN
+ProteinName	Protein-L-histidine N-pros-methyltransferase (EC 2.1.1.-) (DORA reverse strand protein) (DREV) (DREV1) (Methyltransferase-like protein 9) (hMETTL9)
+GeneName	METTL9 DREV CGI-81
+Length	317
+Function	Protein-histidine N-methyltransferase that specifically catalyzes 1-methylhistidine (pros-methylhistidine) methylation of target proteins (PubMed:33563959, PubMed:34562450, PubMed:37015930, PubMed:37398635). Specifically methylates the second His of proteins with a His-x-His (HxH) motif (where 'x' is preferably a small amino acid), while exploiting the first one as a recognition signature (PubMed:37398635). Catalyzes methylation of target proteins such as S100A9, NDUFB3, SLC39A5, SLC39A7, ARMC6 and DNAJB12; 1-methylhistidine modification may affect the binding of zinc and other metals to its target proteins (PubMed:33563959, PubMed:34562450, PubMed:37015930, PubMed:37398635). Constitutes the main methyltransferase for the 1-methylhistidine modification in cell (PubMed:33563959).
+Subcellular Location	Endoplasmic reticulum; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLAGWLCLSLASVWLARRMWTLRSPLTRSLYVNMTSGPGGPAAAAGGRKENHQWYVCNREKLCESLQAVFVQSYLDQGTQIFLNNSIEKSGWLFIQLYHSFVSSVFSLFMSRTSINGLLGRGSMFVFSPDQFQRLLKINPDWKTHRLLDLGAGDGEVTKIMSPHFEEIYATELSETMIWQLQKKKYRVLGINEWQNTGFQYDVISCLNLLDRCDQPLTLLKDIRSVLEPTRGRVILALVLPFHPYVENGGKWEKPSEILEIKGQNWEEQVNSLPEVFRKAGFVIEAFTRLPYLCEGDMYNDYYVLDDAVFVLKPV
+PTM	Glycosylation:35;Methylation:91,223,265;Phosphorylation:26;SUMOylation:254,265;Ubiquitylation:145,223

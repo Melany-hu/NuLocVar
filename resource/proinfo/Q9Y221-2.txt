@@ -1,0 +1,25 @@
+UniprotID	Q9Y221-2
+Accession	Q9Y221;B2RD04;Q9NZZ0
+EntryName	NIP7_HUMAN
+ProteinName	60S ribosome subunit biogenesis protein NIP7 homolog (KD93) (Nucleolar pre-rRNA processing protein NIP7)
+GeneName	NIP7 CGI-37 HSPC031 HSPC180 OK/SW-cl.76 OK/SW-cl.78
+Length	133
+Function	Required for proper 34S pre-rRNA processing and 60S ribosome subunit assembly.
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRPLTEEETRVMFEKIAKYIGENLQLLVDRPDGTYCFRLHNDRVYYVSEKIMKLAANISGDKLVSLGTCFGKFTKTHKFRLHVTALDYLAPYAKGFGVAAKSTQDCRKVDPMAIVVFHQADIGEYVRHEETLT
+PTM	Acetylation:15,18,50,53,62,72,94,96,100,115;Methylation:43,50,62;Phosphorylation:35,45,46,48,95,109;SUMOylation:50,53,62,72,94,100,115,148,155;Ubiquitylation:15,50,62,72,94,100,115,148,155

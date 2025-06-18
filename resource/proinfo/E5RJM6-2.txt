@@ -1,0 +1,25 @@
+UniprotID	E5RJM6-2
+Accession	E5RJM6;J3KR93
+EntryName	ANR65_HUMAN
+ProteinName	Ankyrin repeat domain-containing protein 65
+GeneName	ANKRD65
+Length	174
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSQRPEPREEEEEEQELRWMELDSEEALGTRTEGPSVVQGWGHLLQAVWRGPAGLVTQLLRQGASVEERTLRCCWATGQTQASGTGMAALRCTGLPPEDTCLPSSCWSPRGPRWMRGTPWASHPCITPLGKATWRLPAACWTGVPRWMLPAGSERPPYTWLQSEGMGLPWGFC
+PTM	Phosphorylation:271

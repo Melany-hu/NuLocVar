@@ -1,0 +1,25 @@
+UniprotID	Q9UHQ4-2
+Accession	Q9UHQ4;G5E9L4;O95003
+EntryName	BAP29_HUMAN
+ProteinName	B-cell receptor-associated protein 29 (BCR-associated protein 29) (Bap29)
+GeneName	BCAP29 BAP29
+Length	348
+Function	May play a role in anterograde transport of membrane proteins from the endoplasmic reticulum to the Golgi. May be involved in CASP8-mediated apoptosis (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLQWAAVATFLYAEIGLILIFCLPFIPPQRWQKIFSFNVWGKIATFWNKAFLTIIILLIVLFLDAVREVRKYSSVHTIEKSSTSRPDAYEHTQMKLFRSQRNLYISGFSLFFWLVLRRLVTLITQLAKELSNKGVLKTQAENTNKAAKKFMEENEKLKRILKSHGKDEECVLEAENKKLVEDQEKLKTELRKTSDALSKAQNDVMEMKMQSERLSKEYDQLLKEHSELQHSSFGEFLSKRSHKNGSIGKQTGSRKGSFRKRQQEKTVNFIKDTCNILCQNDNFVMLASRKFKFRKMHYDRFVIFLMPHIGCIVMALSKYLMMFQIYCKVCIPALKKNISMLNTIFTY
+PTM	Acetylation:96;Glycosylation:84;Methylation:81,129,138,186,224;Phosphorylation:73,164;Ubiquitylation:96,134,138,146,163,178,209,224

@@ -1,0 +1,25 @@
+UniprotID	L0R6E9
+Accession	L0R6E9
+EntryName	L0R6E9_HUMAN
+ProteinName	Alternative protein CHN1
+GeneName	CHN1
+Length	44
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNIDLLFGNLTYISYNRKPLILEELPVLARWKTDQSIMEESFMA
+PTM	

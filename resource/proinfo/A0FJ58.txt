@@ -1,0 +1,25 @@
+UniprotID	A0FJ58
+Accession	A0FJ58
+EntryName	A0FJ58_HUMAN
+ProteinName	Wilms tumor 1
+GeneName	WT1
+Length	30
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	18...22
+validnes_region	
+nesbase_region	
+Sequence	VKPFQCKTCQRKFSRSDHLKTHTRTHTGKT
+PTM	

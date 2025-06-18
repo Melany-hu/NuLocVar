@@ -1,0 +1,25 @@
+UniprotID	Q96HA4-2
+Accession	Q96HA4;B3KQ46;Q5T2W6;Q6UX67;Q6ZR77;Q9NWV0
+EntryName	CA159_HUMAN
+ProteinName	Uncharacterized protein C1orf159
+GeneName	C1orf159 UNQ2998/PRO9739
+Length	185
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRHLALLAGLLVGVASKSMENTAQLPECCVDVVGVNASCPGASLCGPGCYRRWNADGSASCVRCGNGTLPAYNGSECRSFAGPGAPFPMNRSSGTPGRPHPGAPRVAASLFLGTFFISSGLILSVAGFFYLKRSSKLPRACYRRNKGPAPAGSLPGRWSSQQFGPQAPALQPGEAVSNPHHPG
+PTM	Glycosylation:104,111,128;Phosphorylation:130,152,172,173,378

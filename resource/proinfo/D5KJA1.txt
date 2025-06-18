@@ -1,0 +1,25 @@
+UniprotID	D5KJA1
+Accession	D5KJA1
+EntryName	D5KJA1_HUMAN
+ProteinName	Dehydrogenase/reductase (SDR family) member 4 like 2A3
+GeneName	DHRS4L2
+Length	216
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFPCLSLPSSWDYRIGFAIARRLAQDRAHVVVSSRKQQNVDQAVATLQGEGLSVTGTVCHVGKAEDRERLVAMTLDINVKAPALMTKAVVPEMEKRGGGSVVIVSSIAAFSPSPGFSPYNVSKTALLGLTKTLAIELAPRNIRVNCLAPGLIKTSFSRMLWMDKEKEESMKETLRIRRLGEPEDCAGIVSFLCSEDASYITGETVVVGGGTPSRL
+PTM	

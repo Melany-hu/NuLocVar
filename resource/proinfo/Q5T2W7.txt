@@ -1,0 +1,25 @@
+UniprotID	Q5T2W7
+Accession	Q5T2W7
+EntryName	Q5T2W7_HUMAN
+ProteinName	Chromosome 1 open reading frame 159
+GeneName	C1orf159
+Length	223
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRHLALLAGLLVGVASKSMENTAQLPECCVDVVGVNASCPGASLCGPGCYRRWNADGSASCVRCGNGTLPAYNGSECRSFAGPGAPFPMNRSSGTPGRPHPGAPRVAASLFLGTFFISSGLILSVAGFFYLKRSSKLPRACYRRNKAPALQPGEAAAMIPPPQSSAPPEDRRSRPPPGPPEQPSLQWCWVRRTQESARTEAALRQAGAAPGQGHGSRCLPG
+PTM	

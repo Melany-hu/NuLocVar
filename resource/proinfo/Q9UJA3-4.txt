@@ -1,0 +1,25 @@
+UniprotID	Q9UJA3-4
+Accession	Q9UJA3;B2RBG7;D3DW08;E7EQU7;Q495R4;Q495R6;Q495R7;Q86US4;Q969I5
+EntryName	MCM8_HUMAN
+ProteinName	DNA helicase MCM8 (EC 3.6.4.12) (Minichromosome maintenance 8)
+GeneName	MCM8 C20orf154
+Length	880
+Function	Component of the MCM8-MCM9 complex, a complex involved in the repair of double-stranded DNA breaks (DBSs) and DNA interstrand cross-links (ICLs) by homologous recombination (HR) (PubMed:23401855). Required for DNA resection by the MRE11-RAD50-NBN/NBS1 (MRN) complex by recruiting the MRN complex to the repair site and by promoting the complex nuclease activity (PubMed:26215093). Probably by regulating the localization of the MNR complex, indirectly regulates the recruitment of downstream effector RAD51 to DNA damage sites including DBSs and ICLs (PubMed:23401855). The MCM8-MCM9 complex is dispensable for DNA replication and S phase progression (PubMed:23401855). However, may play a non-essential for DNA replication: may be involved in the activation of the prereplicative complex (pre-RC) during G(1) phase by recruiting CDC6 to the origin recognition complex (ORC) (PubMed:15684404). Probably by regulating HR, plays a key role during gametogenesis (By similarity). Stabilizes MCM9 protein (PubMed:23401855, PubMed:26215093).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGEYRGRGFGRGRFQSWKRGRGGGNFSGKWREREHRPDLSKTTGKRTSEQTPQFLLSTKTPQSMQSTLDRFIPYKGWKLYFSEVYSDSSPLIEKIQAFEKFFTRHIDLYDKDEIERKGSILVDFKELTEGGEVTNLIPDIATELRDAPEKTLACMGLAIHQVLTKDLERHAAELQAQEGLSNDGETMVNVPHIHARVYNYEPLTQLKNVRANYYGKYIALRGTVVRVSNIKPLCTKMAFLCAACGEIQSFPLPDGKYSLPTKCPVPVCRGRSFTALRSSPLTVTMDWQSIKIQELMSDDQREAGRIPRTIECELVHDLVDSCVPGDTVTITGIVKVSNAEEGSRNKNDKCMFLLYIEANSISNSKGQKTKSSEDGCKHGMLMEFSLKDLYAIQEIQAEENLFKLIVKWSLALSPRLEYSGAISAHCNLHLPSSNSSPTSACRVAGTTGMRHQTQLLLLVKAGLALALFGGSQKYADDKNRIPIRGDPHILVVGDPGLGKSQMLQAACNVAPRGVYVCGNTTTTSGLTVTLSKDSSSGDFALEAGALVLGDQGICGIDEFDKMGNQHQALLEAMEQQSISLAKAGVVCSLPARTSIIAAANPVGGHYNKAKTVSENLKMGSALLSRFDLVFILLDTPNEHHDHLLSEHVIAIRAGKQRTISSATVARMNSQDSNTSVLEVVSEKPLSERLKVVPGETIDPIPHQLLRKYIGYARQYVYPRLSTEAARVLQDFYLELRKQSQRLNSSPITTRQLESLIRLTEARARLELREEATKEDAEDIVEIMKYSMLGTYSDEFGNLDFERSQHGSGMSNRSTAKRFISALNNVAERTYNNIFQFHQLRQIAKELNIQVADFENFIGSLNDQGYLLKKGPKVYQLQTM
+PTM	Methylation:6,42,95,257,388,421,460,578,668,805;Phosphorylation:58,89,90,273,386,476,481,549,572,574,581,585,630,633,647;SUMOylation:42,60,101,118,208,263,350,439,578,644,651,734;Ubiquitylation:232,263,371

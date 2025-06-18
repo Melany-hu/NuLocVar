@@ -1,0 +1,25 @@
+UniprotID	Q92994-2
+Accession	Q92994;B3KU36;B4DIG5;B7Z2N3;F5H5Z7;F8WA46;Q13223;Q3SYD9;Q5PR24;Q6IQ02;Q96KX3;Q9HCW6;Q9HCW7;Q9HCW8
+EntryName	TF3B_HUMAN
+ProteinName	Transcription factor IIIB 90 kDa subunit (TFIIIB90) (hTFIIIB90) (B-related factor 1) (BRF-1) (hBRF) (TAF3B2) (TATA box-binding protein-associated factor, RNA polymerase III, subunit 2)
+GeneName	BRF1 BRF GTF3B TAF3B2 TAF3C
+Length	134
+Function	General activator of RNA polymerase which utilizes different TFIIIB complexes at structurally distinct promoters. The isoform 1 is involved in the transcription of tRNA, adenovirus VA1, 7SL and 5S RNA. Isoform 2 is required for transcription of the U6 promoter.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTALRLLQRMKRDWMHTGRRPSGLCGAALLVAARMHDFRRTVKEVISVVKVCESTLRKRLTEFEDTPTSQLTIDEFMKIDLEEECDPPIEEGGQTEAREPPQASSWEGPSTTRRRSQLWHGCPGCGRGGFTLCP
+PTM	Acetylation:79,502,590,602;Glycosylation:463;Methylation:165,199,262,527,569;Phosphorylation:186,226,311,351,352,355,357,358,365,375,382,398,436,442,450,520,547,548,553,564,566,614,616;SUMOylation:79,313,338,340,470,527,537,602;Ubiquitylation:254,312

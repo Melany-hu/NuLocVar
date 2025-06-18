@@ -1,0 +1,25 @@
+UniprotID	Q99578-2
+Accession	Q99578;B2R9L1;O15295;Q8TD69;Q8WVF6;Q92964
+EntryName	RIT2_HUMAN
+ProteinName	GTP-binding protein Rit2 (EC 3.6.5.2) (Ras-like protein expressed in neurons) (Ras-like without CAAX protein 2)
+GeneName	RIT2 RIN ROC2
+Length	153
+Function	Binds and exchanges GTP and GDP. Binds and modulates the activation of POU4F1 as gene expression regulator.
+Subcellular Location	Nucleus; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVENEASCSPGSASGGSREYKVVMLGAGGVGKSAMTMQFISHQFPDYHDPTIEDAYKTQVRIDNEPAYLDILDTAGQAEFTAMREQYMRGGEGFIICYSVTDRQSFQEAAKFKELIFQVRHTYEIPLVLVGNKIDLEQFRQPTLKEFGREEF
+PTM	Phosphorylation:208

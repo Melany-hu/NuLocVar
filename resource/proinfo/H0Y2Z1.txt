@@ -1,0 +1,25 @@
+UniprotID	H0Y2Z1
+Accession	H0Y2Z1
+EntryName	H0Y2Z1_HUMAN
+ProteinName	CECR2 histone acetyl-lysine reader
+GeneName	CECR2
+Length	218
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SDKNAMASLQGCETLNAALTSPTRMDAVAAKVPNDGQNPGPEEEKLDESMERPESPKEFLDLDNHNAATKRQSSLSASEYLYGTPPPLSSGMGFGSSAFPPHSVMLQTGPPYTPQRPASHFQPRAYSSPVAALPPHHPGATQPNGLSQEGPIYRCQEEGLGHFQAVMMEQIGTRSGIRGPFQEMYRPSGFKRFSCLILPSSWDYRCPPPHLAEFCMIL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E5RGZ1
+Accession	E5RGZ1
+EntryName	E5RGZ1_HUMAN
+ProteinName	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+GeneName	OSGEPL1
+Length	174
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAHALTIRLTNKVEFPFLVLLISGGHCLLALVQGVSDFLLLGKSLDIAPGDMLDKVARRLSLIKHPECSTMSGGKAIEHLAKQGNRFHFDIKPPLHHAKNCDFSFTGLQHVTDKIIMKKEKEEGIEKGQILSSAADIAATVQHTMACHLVKRTHRAILFCKQRDLLPQNNAVL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H3BUH3
+Accession	H3BUH3
+EntryName	H3BUH3_HUMAN
+ProteinName	Pyruvate dehydrogenase phosphatase regulatory subunit
+GeneName	PDPR
+Length	197
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSLSTLNLIGPRAVDVLSELSYAPMTPDHFPSLFCKEMSVGYANGIRVMSMTHTGEPGFMLYIPIEYALHVYNEVMSVGQKYGIRNAGYYALRSLRIEKFFAFWGQDINNLTTPLECGRESRVKLEKGMDFIGRDALLQQKQNGVYKRLTMFILDDHDSDLDLWPWWGEPIYRNGQYVGKTTSSAYSYSLERHVCL
+PTM	

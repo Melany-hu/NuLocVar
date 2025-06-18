@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GUQ8
+Accession	A0A1B0GUQ8
+EntryName	A0A1B0GUQ8_HUMAN
+ProteinName	Class II major histocompatibility complex transactivator
+GeneName	CIITA
+Length	139
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELGPLEGGYLELLNSDADPLCLYHFYDQMDLAGEEEIELYSEPDTDTINCDQFSRLLCDMEGDEETREAYANIAELDQYVFQDSQLEGLSKDIFIEHIGPDEVIGESMEMPAEVGQKSQKRPFPEELPADLKHWKPGV
+PTM	

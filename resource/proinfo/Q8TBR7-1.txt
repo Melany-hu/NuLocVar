@@ -1,0 +1,25 @@
+UniprotID	Q8TBR7-1
+Accession	Q8TBR7;A8K7Q0;Q7Z464;Q96D97;Q9H6H3
+EntryName	TLC3A_HUMAN
+ProteinName	TLC domain-containing protein 3A (Protein CT120) (Protein FAM57A)
+GeneName	TLCD3A FAM57A
+Length	225
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	134...139
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLLTLAGGALFFPGLFALCTWALRRSQPGWSRTDCVMISTRLVSSVHAVLATGSGIVIIRSCDDVITGRHWLAREYVWFLIPYMIYDSYAMYLCEWCRTRDQNRAPSLTLRNFLSRNRLMITHHAVILFVLVPVAQLKQQHTLLYKVNGILTLATFLSCRILLFPFMYWSYGRQQGLSLLQVPFSIPFYCNVANAFLVAPQIYWFCLLCRKAVRLFDTPQAKKDG
+PTM	Methylation:170;Phosphorylation:250

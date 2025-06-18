@@ -1,0 +1,25 @@
+UniprotID	Q8TF47-3
+Accession	Q8TF47;B2RU00;B3KVE7;L7S2P3;Q49AD1;Q96MQ6
+EntryName	ZFP90_HUMAN
+ProteinName	Zinc finger protein 90 homolog (Zfp-90) (Zinc finger protein 756)
+GeneName	ZFP90 KIAA1954 ZNF756
+Length	113
+Function	Inhibits the transcriptional repressor activity of REST by inhibiting its binding to DNA, thereby derepressing transcription of REST target genes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPRPPTAAPQESVTFKDVSVDFTQEEWYHVDPAQRSLYRDVMLENYSHLVSLGYQVSKPEVIFKLEQGEEPWISEGEIQRPFYPGFVCLLPLSLPSGSKGERRQKLPRKNPE
+PTM	Acetylation:336;Methylation:159,207;Phosphorylation:37,224,227,277,333,379,389,406,438,509,510,511,520,548,576;SUMOylation:17,88,94,146,147,159,207,218,228,234,251,261,266,280,289,308,317,336,364,392,411,420,432,448,495,504,560,579,593

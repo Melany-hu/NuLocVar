@@ -1,0 +1,25 @@
+UniprotID	Q9BUL5-3
+Accession	Q9BUL5;A1DZ74;B3KVH8;B4DLK6;D3DTN4;Q8IZK0;Q96HG7;Q9H5X0
+EntryName	PHF23_HUMAN
+ProteinName	PHD finger protein 23 (PDH-containing protein JUNE-1)
+GeneName	PHF23
+Length	336
+Function	Acts as a negative regulator of autophagy, through promoting ubiquitination and degradation of LRSAM1, an E3 ubiquitin ligase that promotes autophagy in response to starvation or infecting bacteria.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	153...158;111...115
+validnes_region	
+nesbase_region	
+Sequence	MLEAMAEPSPEDPPPTLKPETQPPEKRRRTIEDFNKFCSFVLAYAGYIPPSKEAPDSATLLEKMKLKDSLFDLDGPKVASPLSPTSLTHTSRPPAALTPVPLSQGDLSHPPRKKDRKNRKLGPGAGAGFGVLRRPRPTPGDGEKRSRIKKSKKRKLKKAERGDRLPPPGPPQAPPSDTDSEEEEEEEEEEEEEEMATVVGGEAPVPVLPTPPEAPRPPATVHPEGVPPADSESKEVGSTETSQDGDASSSEGEMRVMDEDIMVESGDDSWDLITCYCRKPFAGRPMIECSLCGTWIHLSCAKIKKTNVPDFFYCQKCKELRPEARRLGGPPKSGEP
+PTM	Acetylation:92;Methylation:130,346;Phosphorylation:30,60,62,63,64,70,74,79,124,147,150,152,153,155,157,158,165,170,298,305,306,308,309,315,316,317,332,400;SUMOylation:52,92,130,134,144,187

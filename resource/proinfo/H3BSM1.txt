@@ -1,0 +1,25 @@
+UniprotID	H3BSM1
+Accession	H3BSM1
+EntryName	H3BSM1_HUMAN
+ProteinName	Adenosine deaminase tRNA specific 1
+GeneName	ADAT1
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWTADEIAQLCYEHYGIRLPKKGKPEPNHEWTLLAAVVKIQSPADKACDTPDKPVQVTKEVVSMGTGTKCIGQSKMRKNGTRPSPASICLHLVSYLCRRRHPQ
+PTM	

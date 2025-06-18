@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TLG3
+Accession	A0A8V8TLG3
+EntryName	A0A8V8TLG3_HUMAN
+ProteinName	SH3 domain binding glutamate rich protein
+GeneName	SH3BGR
+Length	99
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRVTKSPKEASSLPNGDVVGEALSTTEGSEKAEEGGETEAQKEGSEDVGNLPEAQEKNEEEGETATEETEEIAMEGAEGEAEEEEETAEGEEPGEDEDS
+PTM	

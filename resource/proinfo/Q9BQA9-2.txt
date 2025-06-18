@@ -1,0 +1,25 @@
+UniprotID	Q9BQA9-2
+Accession	Q9BQA9;E1B6X3;Q96NR1
+EntryName	CYBC1_HUMAN
+ProteinName	Cytochrome b-245 chaperone 1 (Essential for reactive oxygen species protein) (Eros)
+GeneName	CYBC1 C17orf62 EROS
+Length	173
+Function	Functions as a chaperone necessary for a stable expression of the CYBA and CYBB subunits of the cytochrome b-245 heterodimer (PubMed:30361506). Controls the phagocyte respiratory burst and is essential for innate immunity (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYLQVETRTSSRLHLKRAPGIRSWSLLVDSLGWKLFYVTGCLFVAVQNLEDWEEAIFDKSTGKVVLKTFSLYKKLLTLFRAGHDQVVVLLHDVRDVSVEEEKVRYFGKGYMVVLRLATGFSHPLTQSAVMGHRSDVEAIAKLITSFLELHCLESPTELSQSSDSEAGDPASQS
+PTM	Methylation:81,155;Phosphorylation:84,173,175,176,178;Ubiquitylation:77

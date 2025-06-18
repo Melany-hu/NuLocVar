@@ -1,0 +1,25 @@
+UniprotID	P13501
+Accession	P13501;O43646;Q0QVW8;Q4ZGJ1;Q9NYA2;Q9UBG2;Q9UC99
+EntryName	CCL5_HUMAN
+ProteinName	C-C motif chemokine 5 (EoCP) (Eosinophil chemotactic cytokine) (SIS-delta) (Small-inducible cytokine A5) (T cell-specific protein P228) (TCP228) (T-cell-specific protein RANTES) [Cleaved into: RANTES(3-68); RANTES(4-68)]
+GeneName	CCL5 D17S136E SCYA5
+Length	91
+Function	Chemoattractant for blood monocytes, memory T-helper cells and eosinophils. Causes the release of histamine from basophils and activates eosinophils. May activate several chemokine receptors including CCR1, CCR3, CCR4 and CCR5. One of the major HIV-suppressive factors produced by CD8+ T-cells. Recombinant RANTES protein induces a dose-dependent inhibition of different strains of HIV-1, HIV-2, and simian immunodeficiency virus (SIV). The processed form RANTES(3-68) acts as a natural chemotaxis inhibitor and is a more potent inhibitor of HIV-1-infection. The second processed form RANTES(4-68) exhibits reduced chemotactic and HIV-suppressive activity compared with RANTES(1-68) and RANTES(3-68) (PubMed:1380064, PubMed:15923218, PubMed:16791620, PubMed:8525373, PubMed:9516414). May also be an agonist of the G protein-coupled receptor GPR75, stimulating inositol trisphosphate production and calcium mobilization through its activation. Together with GPR75, may play a role in neuron survival through activation of a downstream signaling pathway involving the PI3, Akt and MAP kinases. By activating GPR75 may also play a role in insulin secretion by islet cells (PubMed:23979485).
+Subcellular Location	Secreted
+Disorder	0.0218,0.0163,0.0123,0.0134,0.0194,0.0202,0.0163,0.0105,0.0111,0.0157,0.0163,0.0194,0.0160,0.0214,0.0244,0.0174,0.0202,0.0240,0.0414,0.0543,0.0799,0.1399,0.1184,0.1007,0.0631,0.0483,0.0334,0.0334,0.0568,0.0765,0.0765,0.0581,0.0676,0.0888,0.0734,0.0662,0.0719,0.0749,0.0870,0.0443,0.0223,0.0130,0.0123,0.0205,0.0380,0.0765,0.0443,0.0780,0.1323,0.1731,0.1373,0.0888,0.1028,0.0473,0.0306,0.0405,0.0424,0.0719,0.0765,0.0734,0.1373,0.1731,0.1528,0.1229,0.1349,0.1501,0.1611,0.2783,0.2817,0.1852,0.1251,0.1611,0.2292,0.1914,0.2164,0.2849,0.2715,0.1852,0.1969,0.1554,0.1424,0.1137,0.1373,0.2328,0.2503,0.2094,0.1583,0.1137,0.0835,0.0592,0.1137
+ExposeBuried	1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1
+SurfaceAccessbility	0.717,0.552,0.278,0.244,0.212,0.163,0.153,0.080,0.084,0.071,0.080,0.061,0.055,0.095,0.174,0.149,0.084,0.159,0.464,0.538,0.240,0.441,0.298,0.324,0.503,0.450,0.603,0.639,0.456,0.511,0.353,0.427,0.050,0.024,0.138,0.371,0.175,0.224,0.653,0.421,0.542,0.090,0.167,0.292,0.574,0.193,0.054,0.396,0.361,0.084,0.383,0.422,0.287,0.459,0.730,0.593,0.049,0.549,0.390,0.431,0.040,0.048,0.042,0.041,0.145,0.096,0.381,0.470,0.690,0.448,0.536,0.166,0.062,0.303,0.465,0.256,0.667,0.580,0.587,0.138,0.033,0.420,0.489,0.051,0.152,0.602,0.419,0.134,0.710,0.625,0.904
+SecondStructure	C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,B,C,C,C,C,C,C,C,A,A,A,A,A,A,A,B,B,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C
+Hydropathy	1.9,-3.9,4.2,-0.8,1.8,1.8,1.8,3.8,1.8,4.2,4.5,3.8,4.5,1.8,-0.7,1.8,3.8,2.5,1.8,-1.6,1.8,-0.8,1.8,-0.8,-1.6,-1.3,-0.8,-0.8,-3.5,-0.7,-0.7,-1.6,2.5,2.5,2.8,1.8,-1.3,4.5,1.8,-4.5,-1.6,3.8,-1.6,-4.5,1.8,-3.2,4.5,-3.9,-3.5,-1.3,2.8,-1.3,-0.7,-0.8,-0.4,-3.9,2.5,-0.8,-3.5,-1.6,1.8,4.2,4.2,2.8,4.2,-0.7,-4.5,-3.9,-3.5,-4.5,-3.5,4.2,2.5,1.8,-3.5,-1.6,-3.5,-3.9,-3.9,-0.9,4.2,-4.5,-3.5,-1.3,4.5,-3.5,-0.8,3.8,-3.5,1.9,-0.8
+Polar	0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,1,0,1,1,0,1,0,1
+Charge	0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,-1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,-1,1,1,0,0,1,-1,0,0,0,0,0,-1,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVSAAALAVILIATALCAPASASPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS
+PTM	Phosphorylation:15,26,27

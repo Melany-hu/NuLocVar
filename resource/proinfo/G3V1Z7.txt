@@ -1,0 +1,25 @@
+UniprotID	G3V1Z7
+Accession	G3V1Z7
+EntryName	G3V1Z7_HUMAN
+ProteinName	ELK3, ETS-domain protein (SRF accessory protein 2), isoform CRA_b (ETS transcription factor ELK3)
+GeneName	ELK3 hCG_32371
+Length	142
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESAITLWQFLLQLLLDQKHEHLICWTSNDGEFKLLKAEEVAKLWGLRKNKTNMNYDKLSRALRYYYDKTPNGLLLTPSPLLSSIHFWSSLSPVAPLSPARLQGPSTLFQFPTLLNGHMPVPIPSLDRAASPVLLSSNSQKS
+PTM	

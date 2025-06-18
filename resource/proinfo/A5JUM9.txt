@@ -1,0 +1,25 @@
+UniprotID	A5JUM9
+Accession	A5JUM9
+EntryName	A5JUM9_HUMAN
+ProteinName	Truncated adenomatosis polyposis coli tumor suppressor
+GeneName	APC
+Length	98
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	NRHDDNRSDNFNTGNMTVLSPYLNTTVLPSSSSSRGSLDSSRSEKEKFGERTRNWSRQLPSSNRKSRNFFKARFADLHHCSPDCQSHGRSVSHSYLSG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q93045-2
+Accession	Q93045;A8K9M2;G3V110;O14952;Q6PK68
+EntryName	STMN2_HUMAN
+ProteinName	Stathmin-2 (Superior cervical ganglion-10 protein) (Protein SCG10)
+GeneName	STMN2 SCG10 SCGN10
+Length	187
+Function	Regulator of microtubule stability. When phosphorylated by MAPK8, stabilizes microtubules and consequently controls neurite length in cortical neurons. In the developing brain, negatively regulates the rate of exit from multipolar stage and retards radial migration from the ventricular zone (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Cell projection; Growth cone; Membrane; Cell projection; Axon; Golgi apparatus; Endosome; Cell projection; Lamellipodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKTAMAYKEKMKELSMLSLICSCFYPEPRNINIYTYDDMEVKQINKRASGQAFELILKPPSPISEAPRTLASPKKKDLSLEEIQKKLEAAEERRKSQEAQVLKQLAEKREHEREVLQKALEENNNFSKMAEEKLILKMEQIKENREANLAAIIERLQEKLVKFISSELKESIESQFLELQREGEKQ
+PTM	Acetylation:77,86,87,119,129;Methylation:59,86,104,109,119,138,143,160;Phosphorylation:8,50,62,65,73,80,97,128;Ubiquitylation:3,9,11,13,43,59,86,87,119,129

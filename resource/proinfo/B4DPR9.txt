@@ -1,0 +1,25 @@
+UniprotID	B4DPR9
+Accession	B4DPR9
+EntryName	B4DPR9_HUMAN
+ProteinName	Mitochondrial transcription termination factor 1 (cDNA FLJ51270, highly similar to Transcription termination factor, mitochondrial)
+GeneName	MTERF1
+Length	379
+Function	Transcription termination factor. Binds to a 28 bp region within the tRNA(Leu(uur)) gene at a position immediately adjacent to and downstream of the 16S rRNA gene; this region comprises a tridecamer sequence critical for directing accurate termination. Binds DNA along the major grove and promotes DNA bending and partial unwinding. Promotes base flipping. Transcription termination activity appears to be polarized with highest specificity for transcripts initiated on the light strand.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPGNLWHMRNNFLFGSRCWMTRFSAENIFKSVSFRLFGVKCHNTDSEPLKNEDLLKNLLTMGVDIDMARKRQPGVFHRMITNEQDLKMFLLSKGASKEVIASIISRYPRAITRTPENLSKRWDLWRKIVTSDLEIVNILERSPESFFRSNNNLNLENNIKFLYSVGLTRKCLCRLLTNAPRTFSNSLDLNKQMVEFLQAAGLSLGHNDPADFVRKIIFKNPFILIQSTKRVKANIEFLRSTFNLNSEELLVLICGPGAEILDLSNDYARRSYANIKEKLFSLGCTEEEVQKFVLSYPDVIFLAEKKFNDKIDCLMEENISISQIIENPRVLDSSISTLKSRIKELVNAGCNLSTLNITLLSWSKKRYEAKLKKLSRFA
+PTM	

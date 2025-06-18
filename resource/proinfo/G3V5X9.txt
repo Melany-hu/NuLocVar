@@ -1,0 +1,25 @@
+UniprotID	G3V5X9
+Accession	G3V5X9
+EntryName	G3V5X9_HUMAN
+ProteinName	Sorting nexin 6
+GeneName	SNX6
+Length	227
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	143...148
+validnes_region	
+nesbase_region	
+Sequence	MMEGLDDGPDFLSEEDRGLKAINVDLQSDAALQVDISDALSERDKVKFTVHTKIPPAPPRPDFDASREKLQKLGEGEGSMTKEEFTKMKQELEAEYLAIFKKTVAMHEVFLCRVAAHPILRRDLNFHVFLEYNQDLSVRGKNKKEKLEDFFKNMVKSADGVIVSGVKDVDDFFEHERTFLLEYHNRVKDASAKSDRMTRSHKSAADDYNRIGSSLYALGTQDSTDIC
+PTM	

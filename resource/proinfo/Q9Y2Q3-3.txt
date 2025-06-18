@@ -1,0 +1,25 @@
+UniprotID	Q9Y2Q3-3
+Accession	Q9Y2Q3;B4DIH1;B4DSY2;Q6P4H0;Q7Z520;Q9P1S4
+EntryName	GSTK1_HUMAN
+ProteinName	Glutathione S-transferase kappa 1 (EC 2.5.1.18) (GST 13-13) (GST class-kappa) (GSTK1-1) (hGSTK1) (Glutathione S-transferase subunit 13)
+GeneName	GSTK1 HDCMD47P
+Length	214
+Function	Glutathione S-transferase that catalyzes the conjugation of glutathione to exogenous and endogenous compounds (PubMed:14709161, PubMed:14742434). Significant glutathione conjugating activity is found only with the model substrate, 1-chloro-2,4-dinitrobenzene (CDNB) (PubMed:14709161).
+Subcellular Location	Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPLPRTVELFYDVLSPYSWLGFEILCRYQNIWNINLQLRPSLITGIMKDSGNKPPGLLPRKGLYMANDLKLLRHHLQIPIHFPKDFLSVMLEKGSLSAMRFLTAVNLEHPEMLEKASRELWMRVWSRAAEKAGMSAEQAQGLLEKIATPKVKNQLKETTEAACRYGAFGLPITVAHVDGQTHMLFGSDRMELLAHLLGEKWMGPIPPAVNARL
+PTM	Acetylation:54,71,116,158,165,169;Glycosylation:133;Methylation:94,116,144,158;Phosphorylation:65,89,96,118,133,148;Ubiquitylation:71,169

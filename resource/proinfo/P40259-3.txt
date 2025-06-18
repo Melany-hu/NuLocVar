@@ -1,0 +1,25 @@
+UniprotID	P40259-3
+Accession	P40259;Q53FS2;Q9BU06
+EntryName	CD79B_HUMAN
+ProteinName	B-cell antigen receptor complex-associated protein beta chain (B-cell-specific glycoprotein B29) (Ig-beta) (Immunoglobulin-associated B29 protein) (CD antigen CD79b)
+GeneName	CD79B B29 IGB
+Length	230
+Function	Required in cooperation with CD79A for initiation of the signal transduction cascade activated by the B-cell antigen receptor complex (BCR) which leads to internalization of the complex, trafficking to late endosomes and antigen presentation. Enhances phosphorylation of CD79A, possibly by recruiting kinases which phosphorylate CD79A or by recruiting proteins which bind to CD79A and protect it from dephosphorylation.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARLALSPVPSHWMVALLLLLSAAEPVPAARSEDRYRNPKGSACSRIWQSPRFIARKRGFTVKMHCYMNSASGNVSWLWKQEMDENPQQLKLEKGRMEESQNESLATLTIQGIRFEDNGIYFCQQKCNNTSEVYQGCGTELRVMGFSTLAQLKQRNTLKDGIIMIQTLLIILFIIVPIFLLLDKDDSKAGMEEDHTYEGLDIDQTATYEDIVTLRTGEVKWSVGEHPGQE
+PTM	Glycosylation:127,128;Methylation:90,158,183;Phosphorylation:195,196,207,221

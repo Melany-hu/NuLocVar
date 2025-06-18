@@ -1,0 +1,25 @@
+UniprotID	O95876-3
+Accession	O95876;Q53RW4;Q7Z2Z3
+EntryName	FRITZ_HUMAN
+ProteinName	WD repeat-containing and planar cell polarity effector protein fritz homolog (hFRTZ) (Bardet-Biedl syndrome 15 protein) (WD repeat-containing and planar cell polarity effector protein)
+GeneName	WDPCP BBS15 C2orf86 FRITZ
+Length	587
+Function	Probable effector of the planar cell polarity signaling pathway which regulates the septin cytoskeleton in both ciliogenesis and collective cell movements. Together with FUZ and WDPCP proposed to function as core component of the CPLANE (ciliogenesis and planar polarity effectors) complex involved in the recruitment of peripheral IFT-A proteins to basal bodies (By similarity). Binds phosphatidylinositol 3-phosphate with highest affinity, followed by phosphatidylinositol 4-phosphate and phosphatidylinositol 5-phosphate (PubMed:35427153).
+Subcellular Location	Cell membrane; Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSSLHSALLTDSFIILSFLAQNKLCFIQFTKKMESSDVNKRLEKLSALDYKIFYYEIPGPINKTTERHLAINCVHDRVVCWWPLVNDDAWPWAPISSEKDRANLLLLGYAQGRLEVLSSVRTEWDPLDVRFGTKQPYQVFTVEHSVSVDKEPMADSCIYECIRNKIQCVSVTRIPLKSKAISCCRNVTEDKLILGCEDSSLILYETHRRVTLLAQTELLPSLISCHPSGAILLVGSNQGELQIFDMALSPINIQLLAEDRLPRETLQFSKLFDASSSLVQMQWIAPQVVSQKGEGSDIYDLLFLRFERGPLGVLLFKLGVFTRGQLGLIDIIFQYIHCDEIYEAINILSSMNWDTLGHQCFISMSAIVNHLLRQKLTPEREAQLETSLGTFYAPTRPLLDSTILEYRDQISKYARRFFHHLLRYQRFEKAFLLAVDVGARDLFMDIHYLALDKGELALAEVARKRASDIDAESITSGVELLGPLDRGDMLNEAFIGLSLAPQGEDSFPDNLPPSCPTHRHILQQRILNGSSNRQIIDRRNELEKDICSGFLMTNTCNAEDGELREDGREQEIRDGGSLKMIHFGLV
+PTM	Methylation:78,148,158,477,572,704;Phosphorylation:19,20,338

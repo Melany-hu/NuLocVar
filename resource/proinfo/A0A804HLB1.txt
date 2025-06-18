@@ -1,0 +1,25 @@
+UniprotID	A0A804HLB1
+Accession	A0A804HLB1
+EntryName	A0A804HLB1_HUMAN
+ProteinName	Dystrobrevin alpha
+GeneName	DTNA
+Length	187
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPDQPEKPLNLAHIVPPRPVTSMNDTLFSHSVPSSGSPFITRSMLESSNRLDEEHRLIARYAARLAAESSSSQPPQQRSAPDISFTIDANKQQRQLIAELENKNREILQEIQRLRLEHEQASQPTPEKAQQNPTLLAELRLLRVSLLLPRLECNGTISVHCNLCLPDSAKMSWNRECLLSRRAGES
+PTM	

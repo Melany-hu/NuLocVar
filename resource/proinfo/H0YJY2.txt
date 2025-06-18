@@ -1,0 +1,25 @@
+UniprotID	H0YJY2
+Accession	H0YJY2
+EntryName	H0YJY2_HUMAN
+ProteinName	Signal induced proliferation associated 1 like 1
+GeneName	SIPA1L1
+Length	261
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EHWNYFGADENLGPVAVSIRREKPDEMKENGSPYNYRIIFRTSELMTLRGSVLEDAIPSTAKHSTARGLPLKEVLEHVVPELNVQCLRLAFNTPKVTEQLMKLDEQGWICLYLYASYYLPSQLNYQQKVGIMYCKAGQSTEEEMYNNESAGPAFEEFLQLLGERVRLKGFEKYRAQLDTKTDSTGTHSLYTTYKDYEIMFHVSTMLPYTPNNKQQLLRKRHIGNDIVTIVFQEPGAQPFSPKNIRSHFQHVFVIVRVHNPC
+PTM	

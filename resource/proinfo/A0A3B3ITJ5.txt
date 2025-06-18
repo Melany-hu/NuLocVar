@@ -1,0 +1,25 @@
+UniprotID	A0A3B3ITJ5
+Accession	A0A3B3ITJ5
+EntryName	A0A3B3ITJ5_HUMAN
+ProteinName	ERI1 exoribonuclease family member 3
+GeneName	ERI3
+Length	28
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	HIGRPHSGIGPRRLMRLPGMADLLSCSQ
+PTM	

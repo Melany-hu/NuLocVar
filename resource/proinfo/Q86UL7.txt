@@ -1,0 +1,25 @@
+UniprotID	Q86UL7
+Accession	Q86UL7
+EntryName	Q86UL7_HUMAN
+ProteinName	Thromboxane-A synthase (EC 5.3.99.5) (Cytochrome P450 5A1)
+GeneName	TBXAS1
+Length	311
+Function	Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Cleaves also PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage. 12-HHT and malondialdehyde are formed stoichiometrically in the same amounts as TXA2. Additionally, displays dehydratase activity, toward (15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate (15(S)-HPETE) producing 15-KETE and 15-HETE.
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELRKLYGPLCGYYLGRRMFIVISEPDMIKQVLVENFSNFTNRMASGLEFKSVADSVLFLRDKRWEEVRGALMSAFSPEKLNEMVPLISQACELLLAHLKRYAESGDAFDIQRCYCNYTTDVVASVAFGTPVDSWQAPEDPFVKHCKRFFEFCIPRPILVLLLSFPSIMVPLARILPNKNRDELNGFFNKLIRNVIALRDQQAAEERRRDFLQMVLDARHSASPMGVQDFDIVRDVFSSTGCKPNPSRQHQPSPMARPLTVDEIVGQAFIFLIAGYEIITNTLSFATYLLATNPDCQEKLLREVDVFKEKH
+PTM	

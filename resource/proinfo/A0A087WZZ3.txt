@@ -1,0 +1,25 @@
+UniprotID	A0A087WZZ3
+Accession	A0A087WZZ3
+EntryName	A0A087WZZ3_HUMAN
+ProteinName	Rabaptin, RAB GTPase binding effector protein 1
+GeneName	RABEP1
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XIATVSENTKQEAIDEVKRQWREEVASLQAVMKETVRDYEHQFHLRLEQERTQWAQYRESAEREIADLRRRLSEGQEEENLENEMKKDPIQDTILHLVVSP
+PTM	

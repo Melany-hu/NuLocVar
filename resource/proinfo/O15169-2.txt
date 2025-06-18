@@ -1,0 +1,25 @@
+UniprotID	O15169-2
+Accession	O15169;Q4TT26;Q4TT27;Q86YA7;Q8WVW6;Q96S28
+EntryName	AXIN1_HUMAN
+ProteinName	Axin-1 (Axis inhibition protein 1) (hAxin)
+GeneName	AXIN1 AXIN
+Length	826
+Function	Component of the beta-catenin destruction complex required for regulating CTNNB1 levels through phosphorylation and ubiquitination, and modulating Wnt-signaling (PubMed:12192039, PubMed:27098453, PubMed:28829046). Controls dorsoventral patterning via two opposing effects; down-regulates CTNNB1 to inhibit the Wnt signaling pathway and ventralize embryos, but also dorsalizes embryos by activating a Wnt-independent JNK signaling pathway (PubMed:12192039). In Wnt signaling, probably facilitates the phosphorylation of CTNNB1 and APC by GSK3B (PubMed:12192039). Likely to function as a tumor suppressor. Enhances TGF-beta signaling by recruiting the RNF111 E3 ubiquitin ligase and promoting the degradation of inhibitory SMAD7 (PubMed:16601693). Also a component of the AXIN1-HIPK2-TP53 complex which controls cell growth, apoptosis and development (PubMed:17210684). Facilitates the phosphorylation of TP53 by HIPK2 upon ultraviolet irradiation (PubMed:17210684).
+Subcellular Location	Cytoplasm; Nucleus; Membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNIQEQGFPLDLGASFTEDAPRPPVPGEEGELVSTDPRPASYSFCSGKGVGIKGETSTATPRRSDLDLGYEPEGSASPTPPYLKWAESLHSLLDDQDGISLFRTFLKQEGCADLLDFWFACTGFRKLEPCDSNEEKRLKLARAIYRKYILDNNGIVSRQTKPATKSFIKGCIMKQLIDPAMFDQAQTEIQATMEENTYPSFLKSDIYLEYTRTGSESPKVCSDQSSGSGTGKGISGYLPTLNEDEEWKCDQDMDEDDGRDAAPPGRLPQKLLLETAAPRVSSSRRYSEGREFRYGSWREPVNPYYVNAGYALAPATSANDSEQQSLSSDADTLSLTDSSVDGIPPYRIRKQHRREMQESVQVNGRVPLPHIPRTYRVPKEVRVEPQKFAEELIHRLEAVQRTREAEEKLEERLKRVRMEEEGEDGDPSSGPPGPCHKLPPAPAWHHFPPRCVDMGCAGLRDAHEENPESILDEHVQRVLRTPGRQSPGPGHRSPDSGHVAKMPVALGGAASGHGKHVPKSGAKLDAAGLHHHRHVHHHVHHSTARPKEQVEAEATRRAQSSFAWGLEPHSHGARSRGYSESVGAAPNASDGLAHSGKVGVACKRNAKKAESGKSASTEVPGASEDAEKNQKIMQWIIEGEKEISRHRRTGHGSSGTRKPQPHENSRPLSLEHPWAGPQLRTSVQPSHLFIQDPTMPPHPAPNPLTQLEEARRRLEEEEKRASRAPSKQRTRSQRKVGGGSAQPCDSIVVAYYFCGEPIPYRTLVRGRAVTLGQFKELLTKKGSYRYYFKKVSDEFDCGVVFEEVREDEAVLPVFEEKIIGKVEKVD
+PTM	Methylation:169,203,248,641,816;Phosphorylation:60,64,70,75,77,79,82,166,200,213,215,217,222,281,481,486,493,496,511,575,578,579,581,589,595,611;Ubiquitylation:53

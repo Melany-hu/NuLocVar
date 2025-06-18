@@ -1,0 +1,25 @@
+UniprotID	D7R525
+Accession	D7R525
+EntryName	D7R525_HUMAN
+ProteinName	Stress-activated protein kinase JNK (EC 2.7.11.24)
+GeneName	MAPK9
+Length	214
+Function	Responds to activation by environmental stress and pro-inflammatory cytokines by phosphorylating a number of transcription factors, and thus regulates transcriptional activity.
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDSKCDSQFYSVQVADSTFTVLKRYQQLKPIGSGAQGIVCAAFDTVLGINVAVKKLSRPFQNQTHAKRAYRELVLLKCVNHKNIISLLNVFTPQKTLEEFQDVYLVMELMDANLCQVIHMELDHERMSYLLYQMLCGIKHLHSAGIIHRDLKPSNIVVKSDCTLKILDFGLARTACTNFMMTPYVVTRYYRAPEVILGMGYKENAIKYWTLWH
+PTM	

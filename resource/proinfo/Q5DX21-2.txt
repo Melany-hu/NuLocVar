@@ -1,0 +1,25 @@
+UniprotID	Q5DX21-2
+Accession	Q5DX21;C9JZN0;Q8N4F1;Q8N7T8;Q8NDD2
+EntryName	IGS11_HUMAN
+ProteinName	Immunoglobulin superfamily member 11 (IgSF11) (Brain and testis-specific immunoglobulin superfamily protein) (Bt-IGSF) (V-set and immunoglobulin domain-containing protein 3)
+GeneName	IGSF11 BTIGSF CXADRL1 VSIG3
+Length	430
+Function	Functions as a cell adhesion molecule through homophilic interaction. Stimulates cell growth.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLVELLLWWNCFSRTGVAASLEVSESPGSIQVARGQPAVLPCTFTTSAALINLNVIWMVTPLSNANQPEQVILYQGGQMFDGAPRFHGRVGFTGTMPATNVSIFINNTQLSDTGTYQCLVNNLPDIGGRNIGVTGLTVLVPPSAPHCQIQGSQDIGSDVILLCSSEEGIPRPTYLWEKLDNTLKLPPTATQDQVQGTVTIRNISALSSGLYQCVASNAIGTSTCLLDLQVISPQPRNIGLIAGAIGTGAVIIIFCIALILGAFFYWRSKNKEEEEEEIPNEIREDDLPPKCSSAKAFHTEISSSDNNTLTSSNAYNSRYWSNNPKVHRNTESVSHFSDLGQSFSFHSGNANIPSIYANGTHLVPGQHKTLVVTANRGSSPQVMSRSNGSVSRKPRPPHTHSYTISHATLERIGAVPVMVPAQSRAGSLV
+PTM	Glycosylation:425;Methylation:186;Phosphorylation:201,317,425

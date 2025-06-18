@@ -1,0 +1,25 @@
+UniprotID	F8WAR9
+Accession	F8WAR9
+EntryName	F8WAR9_HUMAN
+ProteinName	Solute carrier family 37 member 3
+GeneName	SLC37A3
+Length	224
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWPNVFQRGSLLSQFSHHHVVVFLLTFFSYSLLHASRKTFSNVKVSISEQWTPSAFNTSVELPVEIWSSNHLFPSAEKATLFLGTLDTIFLFSYAVGLFISGIVGDRLNLRWVLSFGMCSSALVVFVFGALTEWLRFYNKWLYCCLWIVNGLLQSTGWPCVVAVMGNWFGKAGRGVVFGLWSACASVGNILGACLASSVLQYGYEVSRVLRQKKTLKKTHTGH
+PTM	

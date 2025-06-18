@@ -1,0 +1,25 @@
+UniprotID	O96033
+Accession	O96033
+EntryName	MOC2A_HUMAN
+ProteinName	Molybdopterin synthase sulfur carrier subunit (MOCO1-A) (Molybdenum cofactor synthesis protein 2 small subunit) (Molybdenum cofactor synthesis protein 2A) (MOCS2A) (Molybdopterin-synthase small subunit) (Sulfur carrier protein MOCS2A)
+GeneName	MOCS2 MOCO1
+Length	88
+Function	Acts as a sulfur carrier required for molybdopterin biosynthesis. Component of the molybdopterin synthase complex that catalyzes the conversion of precursor Z into molybdopterin by mediating the incorporation of 2 sulfur atoms into precursor Z to generate a dithiolene group. In the complex, serves as sulfur donor by being thiocarboxylated (-COSH) at its C-terminus by MOCS3. After interaction with MOCS2B, the sulfur is then transferred to precursor Z to form molybdopterin.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	0.0123,0.0085,0.0096,0.0127,0.0181,0.0198,0.0313,0.0209,0.0300,0.0405,0.0313,0.0364,0.0605,0.0568,0.1092,0.0835,0.0817,0.0817,0.0870,0.1373,0.2328,0.2193,0.3149,0.3149,0.2292,0.2292,0.1759,0.0967,0.1611,0.1671,0.0948,0.1643,0.1791,0.1731,0.1611,0.1759,0.2715,0.1823,0.2258,0.2193,0.1476,0.1298,0.2258,0.2328,0.1731,0.1731,0.0967,0.1373,0.1476,0.1476,0.1349,0.2364,0.1424,0.0835,0.0967,0.0531,0.0443,0.0506,0.0909,0.0618,0.0306,0.0313,0.0191,0.0178,0.0209,0.0372,0.0780,0.1554,0.1092,0.1424,0.0948,0.0518,0.0568,0.1184,0.1070,0.0948,0.1643,0.1643,0.1251,0.1028,0.1501,0.2164,0.2817,0.3807,0.3529,0.2783,0.2364,0.1554
+ExposeBuried	1,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1
+SurfaceAccessbility	0.833,0.365,0.449,0.276,0.184,0.421,0.162,0.387,0.116,0.128,0.192,0.119,0.152,0.518,0.498,0.257,0.626,0.152,0.469,0.371,0.269,0.447,0.439,0.590,0.442,0.154,0.564,0.196,0.296,0.584,0.458,0.107,0.493,0.198,0.173,0.494,0.163,0.097,0.529,0.557,0.075,0.496,0.546,0.529,0.303,0.513,0.458,0.152,0.390,0.524,0.130,0.307,0.430,0.371,0.065,0.089,0.176,0.200,0.099,0.252,0.479,0.490,0.152,0.247,0.665,0.191,0.443,0.539,0.397,0.095,0.104,0.142,0.092,0.355,0.433,0.558,0.545,0.554,0.149,0.221,0.222,0.132,0.265,0.354,0.285,0.581,0.680,0.899
+SecondStructure	C,C,C,C,C,B,B,B,B,B,B,B,C,C,C,C,C,B,B,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,B,B,B,B,B,C,C,C,C,B,B,B,B,B,C,C,C,C,C,C
+Hydropathy	1.9,4.2,-1.6,3.8,2.5,-3.5,4.2,-3.5,4.2,3.8,-1.3,2.8,1.8,-3.9,-0.8,1.8,-3.5,4.5,-0.7,-0.4,4.2,-4.5,-0.8,-3.5,-0.7,4.5,-0.8,4.2,-1.6,-3.5,-3.5,4.5,-3.9,1.8,3.8,-3.5,3.8,-0.9,-3.9,-3.5,4.5,-3.5,-0.7,-4.5,-3.2,-1.6,-0.4,3.8,1.8,-3.5,4.2,-4.5,-3.5,-3.5,4.5,4.5,2.8,1.8,4.2,-4.5,-3.5,-3.5,-1.3,4.2,-3.5,3.8,-0.4,-3.5,-3.5,3.8,3.8,4.2,3.8,-3.5,-1.6,-0.4,-3.5,-3.5,4.5,1.8,4.2,4.5,-1.6,-1.6,4.5,-0.8,-0.4,-0.4
+Polar	0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0,1,0,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1
+Charge	0,0,0,0,0,0,0,-1,0,0,0,0,0,1,0,0,-1,0,0,0,0,1,0,-1,0,0,0,0,0,0,-1,0,1,0,0,0,0,0,1,-1,0,-1,0,1,1,0,0,0,0,-1,0,1,0,0,0,0,0,0,0,1,0,-1,0,0,-1,0,0,-1,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVPLCQVEVLYFAKSAEITGVRSETISVPQEIKALQLWKEIETRHPGLADVRNQIIFAVRQEYVELGDQLLVLQPGDEIAVIPPISGG
+PTM	Methylation:33;Ubiquitylation:33,39

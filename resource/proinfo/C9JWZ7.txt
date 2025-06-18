@@ -1,0 +1,25 @@
+UniprotID	C9JWZ7
+Accession	C9JWZ7
+EntryName	C9JWZ7_HUMAN
+ProteinName	Kinesin family member 9
+GeneName	KIF9
+Length	159
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTRKKVHAFVRVKPTDDFAHEMIRYGDDKRSIDIHLKKDIRRGVVNNQQTDWSFKLDGVLHDASQDLVYETVAKDVVSQALDGYNGTIMCYGQTGAGKTYTMMGATENYKHRGILPRALQQGETNRIIASHTMNKNSSRSHCIFTIYLEAHSRTLSEE
+PTM	

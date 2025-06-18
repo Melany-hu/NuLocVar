@@ -1,0 +1,25 @@
+UniprotID	Q06210-2
+Accession	Q06210;Q53QE6;Q9BXF8
+EntryName	GFPT1_HUMAN
+ProteinName	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1 (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase 1) (Glutamine:fructose-6-phosphate amidotransferase 1) (GFAT 1) (GFAT1) (Hexosephosphate aminotransferase 1)
+GeneName	GFPT1 GFAT GFPT
+Length	681
+Function	Controls the flux of glucose into the hexosamine pathway. Most likely involved in regulating the availability of precursors for N- and O-linked glycosylation of proteins. Regulates the circadian expression of clock genes BMAL1 and CRY1 (By similarity). Has a role in fine tuning the metabolic fluctuations of cytosolic UDP-GlcNAc and its effects on hyaluronan synthesis that occur during tissue remodeling (PubMed:26887390).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCGIFAYLNYHVPRTRREILETLIKGLQRLEYRGYDSAGVGFDGGNDKDWEANACKIQLIKKKGKVKALDEEVHKQQDMDLDIEFDVHLGIAHTRWATHGEPSPVNSHPQRSDKNNEFIVIHNGIITNYKDLKKFLESKGYDFESETDTETIAKLVKYMYDNRESQDTSFTTLVERVIQQLEGAFALVFKSVHFPGQAVGTRRGSPLLIGVRSEHKLSTDHIPILYRTGKDKKGSCNLSRVDSTTCLFPVEEKAVEYYFASDASAVIEHTNRVIFLEDDDVAAVVDGRLSIHRIKRTAGDHPGRAVQTLQMELQQIMKGNFSSFMQKEIFEQPESVVNTMRGRVNFDDYTVNLGGLKDHIKEIQRCRRLILIACGTSYHAGVATRQVLEELTELPVMVELASDFLDRNTPVFRDDVCFFLSQSGETADTLMGLRYCKERGALTVGITNTVGSSISRETDCGVHINAGPEIGVASTKAYTSQFVSLVMFALMMCDDRISMQERRKEIMLGLKRLPDLIKEVLSMDDEIQKLATELYHQKSVLIMGRGYHYATCLEGALKIKEITYMHSEGILAGELKHGPLALVDKLMPVIMIIMRDHTYAKCQNALQQVVARQGRPVVICDKEDTETIKNTKRTIKVPHSVDCLQGILSVIPLQLLAFHLAVLRGYDVDFPRNLAKSVTVE
+PTM	Acetylation:25,56,379,529,547,640;Methylation:25,61,75,139,154,336,359,375,529,536,547,576,594,647;Phosphorylation:98,103,107,147,165,168,169,171,205,213,218,219,242,253,257,261,262,263,340,341,410,461,470,471,540,553;Ubiquitylation:25,48,56,61,154,157,536,547,647

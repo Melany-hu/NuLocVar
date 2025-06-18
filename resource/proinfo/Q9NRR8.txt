@@ -1,0 +1,25 @@
+UniprotID	Q9NRR8
+Accession	Q9NRR8;D3DV12;Q9HB17;Q9NQR2
+EntryName	C42S1_HUMAN
+ProteinName	CDC42 small effector protein 1 (CDC42-binding protein SCIP1) (Small effector of CDC42 protein 1)
+GeneName	CDC42SE1 SPEC1
+Length	79
+Function	Probably involved in the organization of the actin cytoskeleton by acting downstream of CDC42, inducing actin filament assembly. Alters CDC42-induced cell shape changes. In activated T-cells, may play a role in CDC42-mediated F-actin accumulation at the immunological synapse. May play a role in early contractile events in phagocytosis in macrophages.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell membrane
+Disorder	0.1449,0.1275,0.1137,0.1554,0.2002,0.2715,0.3149,0.3740,0.4017,0.4220,0.4441,0.4725,0.4766,0.4766,0.4940,0.5992,0.5951,0.5992,0.6531,0.5620,0.6427,0.7250,0.8085,0.8313,0.8313,0.7331,0.6375,0.6269,0.5139,0.5139,0.5176,0.4507,0.4476,0.4476,0.4441,0.5139,0.4801,0.4801,0.4582,0.4831,0.5533,0.5533,0.4801,0.4330,0.4369,0.4330,0.5211,0.5533,0.4940,0.5854,0.5901,0.5992,0.6482,0.6482,0.6482,0.6531,0.6531,0.6948,0.6991,0.7250,0.7289,0.7629,0.6482,0.7331,0.7595,0.7916,0.7916,0.7916,0.7331,0.7881,0.7629,0.7459,0.7163,0.7547,0.7415,0.7289,0.7080,0.6906,0.6531
+ExposeBuried	1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+SurfaceAccessbility	0.746,0.507,0.509,0.169,0.129,0.177,0.155,0.055,0.131,0.031,0.036,0.089,0.116,0.517,0.474,0.377,0.524,0.308,0.573,0.489,0.443,0.402,0.420,0.402,0.093,0.359,0.386,0.362,0.183,0.147,0.355,0.466,0.275,0.214,0.302,0.080,0.066,0.129,0.080,0.106,0.183,0.066,0.169,0.323,0.238,0.413,0.129,0.169,0.337,0.323,0.423,0.183,0.120,0.317,0.198,0.133,0.295,0.330,0.080,0.300,0.536,0.321,0.117,0.524,0.595,0.543,0.470,0.512,0.520,0.519,0.351,0.387,0.193,0.485,0.583,0.522,0.547,0.568,0.648
+SecondStructure	C,C,C,C,C,B,B,C,C,B,B,B,C,C,C,C,C,C,A,A,A,A,A,C,A,C,A,C,C,C,C,C,C,C,C,B,B,B,B,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-3.5,2.8,-0.9,-3.2,-3.9,3.8,-0.4,2.5,2.5,4.2,4.2,-3.5,-3.9,-1.6,-3.5,-1.6,-3.9,-3.9,-3.9,-4.5,-4.5,-4.5,4.5,-3.5,-4.5,-0.7,1.9,4.5,-0.4,-3.5,-1.6,1.9,-3.5,2.8,4.2,-3.2,3.8,-0.7,-3.2,4.5,-0.4,-0.8,-0.4,-3.5,1.9,-0.4,1.8,-0.4,-3.5,-0.4,3.8,1.8,1.9,-0.7,-0.4,1.8,4.2,-3.5,-3.5,-3.5,1.9,-4.5,-0.8,-3.9,-0.4,-3.5,-4.5,-3.5,-4.5,-1.6,-0.9,-0.8,-3.5,-0.8,-4.5,-0.4,3.8
+Polar	0,1,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0
+Charge	0,0,-1,0,0,1,1,0,0,0,0,0,0,-1,1,0,0,0,1,1,1,1,1,1,0,-1,1,0,0,0,0,-1,0,0,0,0,0,1,0,0,1,0,0,0,0,-1,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,-1,0,0,1,0,1,0,0,1,-1,1,0,0,0,0,0,1,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSEFWHKLGCCVVEKPQPKKKRRRIDRTMIGEPMNFVHLTHIGSGEMGAGDGLAMTGAVQEQMRSKGNRDRPWSNSRGL
+PTM	Methylation:7,15;Phosphorylation:56,74,76;SUMOylation:15;Ubiquitylation:15

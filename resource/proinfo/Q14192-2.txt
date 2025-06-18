@@ -1,0 +1,25 @@
+UniprotID	Q14192-2
+Accession	Q14192;Q13229;Q13644;Q2I5I4;Q5TM15;Q9P294
+EntryName	FHL2_HUMAN
+ProteinName	Four and a half LIM domains protein 2 (FHL-2) (LIM domain protein DRAL) (Skeletal muscle LIM-protein 3) (SLIM-3)
+GeneName	FHL2 DRAL SLIM3
+Length	151
+Function	May function as a molecular transmitter linking various signaling pathways to transcriptional regulation. Negatively regulates the transcriptional repressor E4F1 and may function in cell growth. Inhibits the transcriptional activity of FOXO1 and its apoptotic function by enhancing the interaction of FOXO1 with SIRT1 and FOXO1 deacetylation. Negatively regulates the calcineurin/NFAT signaling pathway in cardiomyocytes (PubMed:28717008).
+Subcellular Location	Cytoplasm; Nucleus; Cytoplasm; Myofibril; Sarcomere; Z line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTERFDCHHCNESLFGKKYILREESPYCVVCFETLFANTCEECGKPIGCDCKVPARWSTRAAAGMRPASSATAASSQLEPRVSSPKTIRISVCPAMRNNMPCSAFSAKSPSPREGSLTGSSPGTRSASCAPPAGSSCLGSASQLAMTLPTA
+PTM	Acetylation:17,83,139,144,156,183,219;Methylation:17,83,166,219;Phosphorylation:13,74,93,171,196,217,238,255;SUMOylation:17,78,83,106,118,139,144,167,220,235,252,253;Ubiquitylation:45,57,100,106,139,156,167,183,193,219,220,235,252,253,277

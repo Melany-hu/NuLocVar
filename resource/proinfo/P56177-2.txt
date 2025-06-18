@@ -1,0 +1,25 @@
+UniprotID	P56177-2
+Accession	P56177;D3DPD7;Q53ZU4;Q7Z724;Q8IYB2
+EntryName	DLX1_HUMAN
+ProteinName	Homeobox protein DLX-1
+GeneName	DLX1
+Length	129
+Function	Plays a role as a transcriptional activator or repressor (PubMed:14671321). Inhibits several cytokine signaling pathways, such as TGFB1, activin-A/INHBA and BMP4 by interfering with the transcriptional stimulatory activity of transcription factors, such as MSX2, FAST2, SMAD2 and SMAD3 during hematopoietic cell differentiation (PubMed:14671321). Plays a role in terminal differentiation of interneurons, such as amacrine and bipolar cells in the developing retina (By similarity). Likely to play a regulatory role in the development of the ventral forebrain (By similarity). May play a role in craniofacial patterning and morphogenesis and may be involved in the early development of diencephalic subdivisions (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMTTMPESLNSPVSGKAVFMEFGPPNQQMSPSPMSHGHYSMHCLHSAGHSQPDGAYSSASSFSRPLGYPYVNSVSSHASSPYISSVQSYPGSASLAQSRLEDPGQDLVPKQAIQVQEADEAGWGGSGG
+PTM	Phosphorylation:12,108,209;Ubiquitylation:110

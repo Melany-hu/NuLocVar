@@ -1,0 +1,25 @@
+UniprotID	K7EP55
+Accession	K7EP55
+EntryName	K7EP55_HUMAN
+ProteinName	Zinc finger protein 253
+GeneName	ZNF253
+Length	214
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	153...157
+validnes_region	
+nesbase_region	
+Sequence	MERHEMIAKPPVMSSHFAQDLWPENIQNSFQIGMLRRYEECRHDNLQLKKGCKSVGEHKVHKGGYNGLNQCLTTTQKEIFQCDKYGKVFHKFSNSNTYKTRHTGINLFKCIICGKAFKRSSTLTTHKKIHTGEKPYRCEECGKAFNQSANLTTHKRIHTGEKPYRCEECGKAFKQSSNLTTHKKIHTGEKPYKCEECGKAFNRSTDLTTHKIVH
+PTM	

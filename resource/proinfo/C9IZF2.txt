@@ -1,0 +1,25 @@
+UniprotID	C9IZF2
+Accession	C9IZF2
+EntryName	C9IZF2_HUMAN
+ProteinName	Ataxin 7 like 1
+GeneName	ATXN7L1
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLDRKVPSPEAFLGKPWSSWIDAAKLHCSDNMHLFGHYPAHDDFYLVVCSACNQVVKPQVFQSHCGRKQDNRRNEGISRSGPESSQAIEKHQV
+PTM	

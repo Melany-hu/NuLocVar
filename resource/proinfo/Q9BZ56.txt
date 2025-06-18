@@ -1,0 +1,25 @@
+UniprotID	Q9BZ56
+Accession	Q9BZ56
+EntryName	Q9BZ56_HUMAN
+ProteinName	FKSG68
+GeneName	FKSG68
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLNEHAAFKHLFNKAHLAPPLIHLTLSGHSTCFREHRVGGKVTDQQDPKAEEFFLVQNKIKSLPCLLLSTQTQQPSDFSIFSPPFPSFDSTKPPLSSWPVLNELLGTPPRRGGGRAEGLLTSQ
+PTM	

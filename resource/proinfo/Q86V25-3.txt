@@ -1,0 +1,25 @@
+UniprotID	Q86V25-3
+Accession	Q86V25;B4DYZ5;Q2VT46;Q5VTE7;Q5VTE9;Q7Z6E3;Q8IZ24;Q9H9W5
+EntryName	VASH2_HUMAN
+ProteinName	Tubulinyl-Tyr carboxypeptidase 2 (EC 3.4.17.17) (Vasohibin-2) (Vasohibin-like protein)
+GeneName	VASH2 VASHL
+Length	156
+Function	Tyrosine carboxypeptidase that removes the C-terminal tyrosine residue of alpha-tubulin, thereby regulating microtubule dynamics and function (PubMed:29146869). Critical for spindle function and accurate chromosome segregation during mitosis since microtubule detyronisation regulates mitotic spindle length and postioning (PubMed:31171830). Acts as an activator of angiogenesis: expressed in infiltrating mononuclear cells in the sprouting front to promote angiogenesis (PubMed:19204325). Plays a role in axon formation (PubMed:31235911).
+Subcellular Location	Cytoplasm; Secreted; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METAKEMTRESLPIKCLEAVILGIYLTNGQPSIERFPISFKTYFSGNYFHHVVLGIYCNGRYGSLGMSRRAELMDKPLTFRTLSDLIFDFEDSYKKYLHTVKKVKIGLYVPHEPHSFQPIEWKQLVLNVSKMLRADIRKELEKYARDMRMKGLCSH
+PTM	Methylation:285;Phosphorylation:24,25,35,38,181,210,272,299,302,304,312,314,332

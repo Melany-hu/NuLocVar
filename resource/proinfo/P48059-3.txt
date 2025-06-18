@@ -1,0 +1,25 @@
+UniprotID	P48059-3
+Accession	P48059;B2RAJ4;B7Z483;B7Z7R3;B7Z907;Q53TE0;Q9BS44
+EntryName	LIMS1_HUMAN
+ProteinName	LIM and senescent cell antigen-like-containing domain protein 1 (Particularly interesting new Cys-His protein 1) (PINCH-1) (Renal carcinoma antigen NY-REN-48)
+GeneName	LIMS1 PINCH PINCH1
+Length	387
+Function	Within the IPP (ILK-PINCH-PARVIN) complex, binds to F-actin, promoting F-actin bundling, a process required to generate force for actin cytoskeleton reorganization and subsequent dynamic cell adhesion events such as cell spreading and migration.
+Subcellular Location	Cell junction; Focal adhesion; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFSGRARPCIIPENEEIPRAALNTVHEANGTEDERAVSKLQRRHSDVKVYKEFCDFYAKFNMANALASATCERCKGGFAPAEKIVNSNGELYHEQCFVCAQCFQQFPEGLFYEFEGRKYCEHDFQMLFAPCCHQCGEFIIGRVIKAMNNSWHPECFRCDLCQEVLADIGFVKNAGRHLCRPCHNREKARGLGKYICQKCHAIIDEQPLIFKNDPYHPDHFNCANCGKELTADARELKGELYCLPCHDKMGVPICGACRRPIEGRVVNAMGKQWHVEHFVCAKCEKPFLGHRHYERKGLAYCETHYNQLFGDVCFHCNRVIEGDVVSALNKAWCVNCFACSTCNTKLTLKNKFVEFDMKPVCKKCYEKFPLELKKRLKKLAETLGRK
+PTM	Acetylation:132,137,290,297,301,306,312;Methylation:84,111,132,150,269,288;Phosphorylation:51,58,180,265,286,304,321;Ubiquitylation:288

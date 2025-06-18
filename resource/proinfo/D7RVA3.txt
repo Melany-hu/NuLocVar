@@ -1,0 +1,25 @@
+UniprotID	D7RVA3
+Accession	D7RVA3
+EntryName	D7RVA3_HUMAN
+ProteinName	Granulocyte colony-stimulating factor
+GeneName	CSF3
+Length	138
+Function	Granulocyte/macrophage colony-stimulating factors are cytokines that act in hematopoiesis by controlling the production, differentiation, and function of 2 related white cell populations of the blood, the granulocytes and the monocytes-macrophages. This CSF induces granulocytes.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TPLGPASSLPQSFLLKCLEQVRKIQGDGAALQEKLAGCLSQLHSGLFLYQGLLQALEGISPELGPTLDTLQLDVADFATTIWQQMEELGMAPALQPTQGAMPAFASAFQRRAGGVLVASHLQSFLEVSYRVLRHLAQP
+PTM	

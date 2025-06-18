@@ -1,0 +1,25 @@
+UniprotID	A0AA75IMJ6
+Accession	A0AA75IMJ6
+EntryName	A0AA75IMJ6_HUMAN
+ProteinName	BCL2 like 11
+GeneName	BCL2L11
+Length	190
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GAACGALGCPAERGGGLAGRRGLCAAPGTLNPSPGLCLLRCFRGDGQGAPGRRRARAGRRGAWSLARTLRSEGKARTKKDQMAKQPSDVSSECDREGRQLQPAERPPQLRPGAPTSLQTEPQDRSPAPMSCDKSTQTPSPPCQAFNHYLSAMASMRQAEPADMRPEIWIAQELRRIGDEFNAYYARRLEK
+PTM	

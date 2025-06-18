@@ -1,0 +1,25 @@
+UniprotID	F8WDB4
+Accession	F8WDB4
+EntryName	F8WDB4_HUMAN
+ProteinName	Leucine rich repeats and WD repeat domain containing 1
+GeneName	LRWD1
+Length	154
+Function	
+Subcellular Location	Cytoplasm; Cytoskeleton; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLGPEEEAEKAQADFVKSAVRDVRYGPESLSEFTQWRVRMISEELVAASRTQVQKANSPEKPPEAGAAHKPRARLAALKRPDDVPLSLSPSKRACASPSAQVEGSPVAGSDGSQPAVKLEPLHFLQCHSKNNSPQDLETQLWACAFEPAWEE
+PTM	

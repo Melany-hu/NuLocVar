@@ -1,0 +1,25 @@
+UniprotID	Q96D53-2
+Accession	Q96D53;Q8TAJ1;Q9HA52
+EntryName	COQ8B_HUMAN
+ProteinName	Atypical kinase COQ8B, mitochondrial (EC 2.7.-.-) (AarF domain-containing protein kinase 4) (Coenzyme Q protein 8B)
+GeneName	COQ8B ADCK4
+Length	503
+Function	Atypical kinase involved in the biosynthesis of coenzyme Q, also named ubiquinone, an essential lipid-soluble electron transporter for aerobic cellular respiration (PubMed:24270420, PubMed:36302899, PubMed:38425362). Its substrate specificity is still unclear: may act as a protein kinase that mediates phosphorylation of COQ3 (PubMed:38425362). According to other reports, acts as a small molecule kinase, possibly a lipid kinase that phosphorylates a prenyl lipid in the ubiquinone biosynthesis pathway, as suggested by its ability to bind coenzyme Q lipid intermediates (By similarity). However, the small molecule kinase activity was not confirmed by another publication (PubMed:38425362). Required for podocyte migration (PubMed:24270420).
+Subcellular Location	Mitochondrion membrane; Cytoplasm; Cytosol; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLKVGGLLRGTGGQLGQTVGWPCGALGPGPHRWGPCGGSWAQKFYQDGPGRGLGEEDIRRAREARPRKTPRPQLSDRSRERKVPASRISRLANFGGLAVGLGLGVLAEMAKKSMPGGRLQSDNSFISPQLQHIFERVRQSADFMPRWQMLRVLEEELGRDWQAKVASLEEVPFAAASIGQVHQGLLRDGTEVAVKIQYPGIAQSIQSDVQNLLAVLKMSAALPAGLFAEQSLQALQQELAWECDYRREAACAQNFRQLLANDPFFRVPAVVKELCTTRVLGMELAGGVPLDQCQGLSQDLRNQICFQLLTLCLRELFEFRFMQTDPNWANFLYDASSHQVTLLDFGASREFGTEFTDHYIEVVKAAADGDRDCVLQKSRDLKFLTGFETKAFSDAHVEAVMILGEPFATQGPYDFGSGETARRIQDLIPVLLRHRLCPPPEETYALHRKLAGAFLACAHLRAHIACRDLFQDTYHRYWASRQPDAATAGSLPTKGDSWVDPS
+PTM	Methylation:4,112,259,406;Phosphorylation:249;SUMOylation:44

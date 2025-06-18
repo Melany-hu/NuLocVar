@@ -1,0 +1,25 @@
+UniprotID	C9JNR7
+Accession	C9JNR7
+EntryName	C9JNR7_HUMAN
+ProteinName	Septin 10
+GeneName	SEPTIN10
+Length	61
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLFQSHMATKTTCMSSQGSDDEQIKRENIRSLTMSGHVGFESLPDQLVNRSIQQGFCFNIL
+PTM	

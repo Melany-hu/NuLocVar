@@ -1,0 +1,25 @@
+UniprotID	Q9Y2G5-1
+Accession	Q9Y2G5;Q6PJV1;Q7Z4N0;Q8WWU6;Q9BQS4;Q9BQS5;Q9UFY3
+EntryName	OFUT2_HUMAN
+ProteinName	GDP-fucose protein O-fucosyltransferase 2 (EC 2.4.1.221) (Peptide-O-fucosyltransferase 2) (O-FucT-2)
+GeneName	POFUT2 C21orf80 FUT13 KIAA0958
+Length	424
+Function	Catalyzes the reaction that attaches fucose through an O-glycosidic linkage to a conserved serine or threonine residue in the consensus sequence C1-X-X-S/T-C2 of thrombospondin type I repeats (TSRs) where C1 and C2 are the first and second cysteines of the repeat, respectively (PubMed:22588082). O-fucosylates members of several protein families including the ADAMTS, the thrombospondin (TSP) and spondin families (Probable) (PubMed:17395588). Required for the proper secretion of ADAMTS family members such as ADAMTSL1 and ADAMTS13 (PubMed:17395588, PubMed:17395589). The O-fucosylation of TSRs is also required for restricting epithelial to mesenchymal transition (EMT), maintaining the correct patterning of mesoderm and localization of the definite endoderm (By similarity).
+Subcellular Location	Endoplasmic reticulum; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLSFVFLLLGAVSWPPASASGQEFWPGQSAADILSGAASRRRYLLYDVNPPEGFNLRRDVYIRIASLLKTLLKTEEWVLVLPPWGRLYHWQSPDIHQVRIPWSEFFDLPSLNKNIPVIEYEQFIAESGGPFIDQVYVLQSYAEGWKEGTWEEKVDERPCIDQLLYSQDKHEYYRGWFWGYEETRGLNVSCLSVQGSASIVAPLLLRNTSARSVMLDRAENLLHDHYGGKEYWDTRRSMVFARHLREVGDEFRSRHLNSTDDADRIPFQEDWMKMKVKLGSALGGPYLGVHLRRKDFIWGHRQDVPSLEGAVRKIRSLMKTHRLDKVFVATDAVRKEYEELKKLLPEMVRFEPTWEELELYKDGGVAIIDQWICAHARCLPTSLSAESGSGGFQRFFCPKYSVSEQMVACVHSGHFHTVCLLV
+PTM	Acetylation:327;Glycosylation:259;Methylation:71,115,321,343,363,405;Phosphorylation:63,68,390

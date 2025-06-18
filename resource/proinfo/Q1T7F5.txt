@@ -1,0 +1,25 @@
+UniprotID	Q1T7F5
+Accession	Q1T7F5
+EntryName	Q1T7F5_HUMAN
+ProteinName	Zinc finger protein 534
+GeneName	ZNF534
+Length	193
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALTQGQLSFSDVAIEFSQEEWKCLDPGQKALYRDVMLENYRNLVSLGICLPDLSVTSMLEQKRDPWTLQSEVKIINNPDGRECIKGVNTDFSLLAWDARVFRVEAWRASGGAEEPTGPNFVGNDSPLPSPLALLPFPSVSASLGDAKRARLTAEGRGHGTLRAGPAPRPRSAAPHAPDAVQRWPPEQRLPRS
+PTM	

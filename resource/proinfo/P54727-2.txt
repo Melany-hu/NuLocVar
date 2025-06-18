@@ -1,0 +1,25 @@
+UniprotID	P54727-2
+Accession	P54727;B3KWK8;G5E9P0;Q7Z5K8;Q8WUB0
+EntryName	RD23B_HUMAN
+ProteinName	UV excision repair protein RAD23 homolog B (HR23B) (hHR23B) (XP-C repair-complementing complex 58 kDa protein) (p58)
+GeneName	RAD23B
+Length	337
+Function	Multiubiquitin chain receptor involved in modulation of proteasomal degradation. Binds to polyubiquitin chains. Proposed to be capable to bind simultaneously to the 26S proteasome and to polyubiquitinated substrates and to deliver ubiquitinated proteins to the proteasome. May play a role in endoplasmic reticulum-associated degradation (ERAD) of misfolded glycoproteins by association with PNGase and delivering deglycosylated proteins to the proteasome.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTKPKAVSTPAPATTQQSAPASTTAVTSSTTTTVAQAPTPVPALAPTSTPASITPASATASSEPAPASAAKQEKPAEKPAETPVATSPTATDSTSGDSSRSNLFEDATSALVTGQSYENMVTEIMSMGYEREQVIAALRASFNNPDRAVEYLLMGIPGDRESQAVVDPPQAASTGAPQSSAVAAAAATTTATTTTTSSGGHPLEFLRNQPQFQQMRQIIQQNPSLLPALLQQIGRENPQLLQQISQHQEHFIQMLNEPVQEAGGQGGGGGGGSGGIAEAGSGHMNYIQVTPQEKEAIERLKALGFPEGLVIQAYFACEKNENLAANFLLQQNFDED
+PTM	Acetylation:14,24,34,45,51,60,63,67,76,147;Methylation:6,24,45,51,60,76,147,151;Phosphorylation:75,155,159,160,162,164,166,167,168,171,172,224,297;SUMOylation:24,36,51,76,147;Ubiquitylation:6,14,24,27,29,36,45,51,60,63,67,76,78,144,147,151,367,374

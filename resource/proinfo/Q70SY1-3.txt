@@ -1,0 +1,25 @@
+UniprotID	Q70SY1-3
+Accession	Q70SY1;Q6P454;Q6ZMR6
+EntryName	CR3L2_HUMAN
+ProteinName	Cyclic AMP-responsive element-binding protein 3-like protein 2 (cAMP-responsive element-binding protein 3-like protein 2) (BBF2 human homolog on chromosome 7) [Cleaved into: Processed cyclic AMP-responsive element-binding protein 3-like protein 2]
+GeneName	CREB3L2 BBF2H7
+Length	248
+Function	Transcription factor involved in unfolded protein response (UPR). In the absence of endoplasmic reticulum (ER) stress, inserted into ER membranes, with N-terminal DNA-binding and transcription activation domains oriented toward the cytosolic face of the membrane. In response to ER stress, transported to the Golgi, where it is cleaved in a site-specific manner by resident proteases S1P/MBTPS1 and S2P/MBTPS2. The released N-terminal cytosolic domain is translocated to the nucleus to effect transcription of specific target genes. Plays a critical role in chondrogenesis by activating the transcription of SEC23A, which promotes the transport and secretion of cartilage matrix proteins, and possibly that of ER biogenesis-related genes (By similarity). In a neuroblastoma cell line, protects cells from ER stress-induced death (PubMed:17178827). In vitro activates transcription of target genes via direct binding to the CRE site (PubMed:17178827).
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVLESGEQGVLQWDRKLSELSEPGDGEALMYHTHFSELLDEFSQNVLGQLLNDPFLSEKSVSMEVEPSPTSPAPLIQAEHSYSLCEEPRAQSPFTHITTSDSFNDDEVESEKWYLSTDFPSTSIKTEPVTDEPPPGLVPSVTLTITAISTPLEKEEPPLEMNTGVDSSCQTIIPKIKLEPHEVDQFLNFSPKEGLSALPVSLWVMDMVSGSTEREYGERAGMSLYHRCCSWLYEIALFLKNKNFASK
+PTM	Acetylation:364;Glycosylation:347,480;Methylation:324,486;Phosphorylation:72,82,84,93,103,191,228,232,234,236,244,247,248,249,253,288,290,311,422,457,458;SUMOylation:17,176,178,193,257,271,284,289,325,339,356,364,500;Ubiquitylation:284,356,364,486

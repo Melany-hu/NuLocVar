@@ -1,0 +1,25 @@
+UniprotID	H0YE26
+Accession	H0YE26
+EntryName	H0YE26_HUMAN
+ProteinName	THUMP domain containing 2
+GeneName	THUMPD2
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EPGSGPEAGARFFCTAGRGLEPFVMREVRARLAATQVEYISGKVFFTTCSDLNMLKKLKSAERLFLLIKKQFPLIISSEKYLMKCKDL
+PTM	

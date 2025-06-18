@@ -1,0 +1,25 @@
+UniprotID	E7EX77
+Accession	E7EX77
+EntryName	E7EX77_HUMAN
+ProteinName	Guanylyl cyclase domain containing 1
+GeneName	GUCD1
+Length	136
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRTEAEAAGPPLEPGDFVQLPVPVIQQLYHWDCGLACSRMVLRYLGQLDDSEFERALQKLQLTRSIWTIDLAYLMHHFGVRHRFCTQTLGVDKGYKNQSFYRKHFDTEETRVNQLFAQAKACKVLVEKWNVQHQHQ
+PTM	

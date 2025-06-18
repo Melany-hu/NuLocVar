@@ -1,0 +1,25 @@
+UniprotID	Q9BQ83-2
+Accession	Q9BQ83;B7ZME1;Q6NTG6
+EntryName	SLX1_HUMAN
+ProteinName	Structure-specific endonuclease subunit SLX1 (EC 3.1.-.-) (GIY-YIG domain-containing protein 1)
+GeneName	SLX1A GIYD1 SLX1; SLX1B GIYD2 SLX1
+Length	161
+Function	Catalytic subunit of the SLX1-SLX4 structure-specific endonuclease that resolves DNA secondary structures generated during DNA repair and recombination. Has endonuclease activity towards branched DNA substrates, introducing single-strand cuts in duplex DNA close to junctions with ss-DNA. Has a preference for 5'-flap structures, and promotes symmetrical cleavage of static and migrating Holliday junctions (HJs). Resolves HJs by generating two pairs of ligatable, nicked duplex products.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPAGVAARPGRFFGVYLLYCLNPRYRGRVYVGFTVNTARRVQQHNGGRKKGGAWRTSGRGPWEMVLVVHGFPSSVAALRDEEGPLCCPHPGCLLRAHVICLAEEFLQEEPGQLLPLEGQCPCCEKSLLWGDLIWLCQMDTEKEVEDSELEEAHWTDLLET
+PTM	Methylation:80;Ubiquitylation:51

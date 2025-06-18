@@ -1,0 +1,25 @@
+UniprotID	A0A0A0MSI5
+Accession	A0A0A0MSI5
+EntryName	A0A0A0MSI5_HUMAN
+ProteinName	Transport and golgi organization 2 homolog
+GeneName	TANGO2
+Length	201
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCIIFFKFDPRPVSKNAYRLILAANRDEFYSRPSKLADFWGNNNEILSGLDMEEGKEGGTWLGISTRGKLAALTNYLQPQLDWQARGRGELVTHFLTTDVDSLSYLKKVSMEGHLYNGFNLIAADLRQLPDPAIEDQGGEYVQPMLSKYAAVCVRCPGYGTRTNTIILVDADGHVTFTERSMMDKDLSHWETRTYEFTLQS
+PTM	

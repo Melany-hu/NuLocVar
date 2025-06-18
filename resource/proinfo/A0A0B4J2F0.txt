@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J2F0
+Accession	A0A0B4J2F0
+EntryName	PIOS1_HUMAN
+ProteinName	Protein PIGBOS1 (PIGB opposite strand protein 1)
+GeneName	PIGBOS1
+Length	54
+Function	Plays a role in regulation of the unfolded protein response triggered by endoplasmic reticulum (ER) stress resulting from the presence of unfolded proteins in the ER lumen.
+Subcellular Location	Mitochondrion outer membrane
+Disorder	0.0105,0.0073,0.0082,0.0113,0.0095,0.0081,0.0102,0.0087,0.0093,0.0117,0.0151,0.0119,0.0133,0.0091,0.0061,0.0083,0.0091,0.0104,0.0078,0.0081,0.0111,0.0105,0.0153,0.0178,0.0184,0.0287,0.0494,0.0531,0.0531,0.0631,0.0690,0.0662,0.0851,0.1449,0.1449,0.1759,0.1791,0.1611,0.2292,0.3566,0.3566,0.3494,0.4409,0.4725,0.4652,0.4369,0.4186,0.4087,0.3704,0.4801,0.4685,0.4186,0.4051,0.4507
+ExposeBuried	1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.779,0.356,0.504,0.468,0.214,0.303,0.148,0.128,0.306,0.105,0.077,0.092,0.129,0.164,0.078,0.108,0.212,0.110,0.169,0.323,0.159,0.089,0.146,0.085,0.057,0.244,0.278,0.125,0.083,0.547,0.489,0.148,0.245,0.648,0.468,0.353,0.660,0.580,0.073,0.489,0.659,0.308,0.158,0.556,0.197,0.138,0.552,0.591,0.308,0.643,0.693,0.631,0.684,0.936
+SecondStructure	C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C
+Hydropathy	1.9,2.8,-4.5,-4.5,3.8,-0.7,2.8,1.8,-3.5,3.8,3.8,2.8,1.8,-0.7,4.2,3.8,-0.4,4.5,1.8,-0.4,-0.4,4.2,-1.3,4.5,2.8,-3.5,-1.6,4.2,2.8,-3.5,-3.5,-1.3,1.8,-3.9,-3.5,-3.5,-3.9,-3.5,3.8,-3.9,-3.5,-3.9,1.9,-3.5,3.8,4.2,-3.5,-3.5,-0.8,-3.5,-3.5,-3.9,-3.9,-0.8
+Polar	0,1,1,1,0,1,1,0,1,0,0,1,0,1,0,0,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1
+Charge	0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,1,-1,0,1,-1,0,1,-1,1,0,0,0,0,0,-1,0,-1,-1,1,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRRLTFAQLLFATVLGIAGGVYIFQPVFEQYAKDQKELKEKMQLVQESEEKKS
+PTM	Phosphorylation:49

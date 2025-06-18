@@ -1,0 +1,25 @@
+UniprotID	Q96S21-2
+Accession	Q96S21;A2IDE2;D3DU54;O60795;Q4TT41;Q5PXE8;Q6PIU5
+EntryName	RB40C_HUMAN
+ProteinName	Ras-related protein Rab-40C (Rar-like protein) (Ras-like protein family member 8C) (SOCS box-containing protein RAR3)
+GeneName	RAB40C RARL RASL8C
+Length	262
+Function	Probable substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSQGSPVKSYDYLLKFLLVGDSDVGKGEILESLQDGAAESPYAYSNGIDYKTTTILLDGRRVKLELWDTSGQGRFCTIFRSYSRGAQGILLVYDITNRWSFDGIDRWIKEIDERQVPTEQARAYAEKNCMTFFEVSPLCNFNVIESFTELSRIVLMRHGMEKIWRPNRVFSLQDLCCRAIVSCTPVHLIDKLPLPVTIKSHLKSFSMANGMNAVMMHGRSYSLASGAGGGGSKGNSLKRSKSIRPPQSPPQNCSRSNCKIS
+PTM	Methylation:16,211;Phosphorylation:6,240,241,242,252,256,262,268;Ubiquitylation:211,253,261

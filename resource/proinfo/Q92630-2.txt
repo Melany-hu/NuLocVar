@@ -1,0 +1,25 @@
+UniprotID	Q92630-2
+Accession	Q92630;B2R9V9;Q9BRB5
+EntryName	DYRK2_HUMAN
+ProteinName	Dual specificity tyrosine-phosphorylation-regulated kinase 2 (EC 2.7.12.1)
+GeneName	DYRK2
+Length	528
+Function	Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosphorylates EIF2B5 at 'Ser-544', enabling its subsequent phosphorylation and inhibition by GSK3B. Likewise, phosphorylation of NFATC1, CRMP2/DPYSL2 and CRMP4/DPYSL3 promotes their subsequent phosphorylation by GSK3B. May play a general role in the priming of GSK3 substrates. Inactivates GYS1 by phosphorylation at 'Ser-641', and potentially also a second phosphorylation site, thus regulating glycogen synthesis. Mediates EDVP E3 ligase complex formation and is required for the phosphorylation and subsequent degradation of KATNA1. Phosphorylates TERT at 'Ser-457', promoting TERT ubiquitination by the EDVP complex. Phosphorylates SIAH2, and thereby increases its ubiquitin ligase activity. Promotes the proteasomal degradation of MYC and JUN, and thereby regulates progress through the mitotic cell cycle and cell proliferation. Promotes proteasomal degradation of GLI2 and GLI3, and thereby plays a role in smoothened and sonic hedgehog signaling. Plays a role in cytoskeleton organization and neurite outgrowth via its phosphorylation of DCX and DPYSL2. Phosphorylates CRMP2/DPYSL2, CRMP4/DPYSL3, DCX, EIF2B5, EIF4EBP1, GLI2, GLI3, GYS1, JUN, MDM2, MYC, NFATC1, p53/TP53, TAU/MAPT and KATNA1. Can phosphorylate histone H1, histone H3 and histone H2B (in vitro). Can phosphorylate CARHSP1 (in vitro).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	189..191
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	408...413
+validnes_region	
+nesbase_region	
+Sequence	MNDHLHVGSHAHGQIQVQQLFEDNSNKRTVLTTQPNGLTTVGKTGLPVVPERQLDSIHRRQGSSTSLKSMEGMGKVKATPMTPEQAMKQYMQKLTAFEHHEIFSYPEIYFLGLNAKKRQGMTGGPNNGGYDDDQGSYVQVPHDHVAYRYEVLKVIGKGSFGQVVKAYDHKVHQHVALKMVRNEKRFHRQAAEEIRILEHLRKQDKDNTMNVIHMLENFTFRNHICMTFELLSMNLYELIKKNKFQGFSLPLVRKFAHSILQCLDALHKNRIIHCDLKPENILLKQQGRSGIKVIDFGSSCYEHQRVYTYIQSRFYRAPEVILGARYGMPIDMWSLGCILAELLTGYPLLPGEDEGDQLACMIELLGMPSQKLLDASKRAKNFVSSKGYPRYCTVTTLSDGSVVLNGGRSRRGKLRGPPESREWGNALKGCDDPLFLDFLKQCLEWDPAVRMTPGQALRHPWLRRRLPKPPTGEKTSVKRITESTGAITSISKLPPPSSSASKLRTNLAQMTDANGNIQQRTVLPKLVS
+PTM	Methylation:18,166,226,230,313,357,365,450,501,513;Phosphorylation:7,30,44,48,137,138,139,381,382,482

@@ -1,0 +1,25 @@
+UniprotID	Q9BYD3-2
+Accession	Q9BYD3;A6NNV7;Q9BW07;Q9H4N2;Q9Y317
+EntryName	RM04_HUMAN
+ProteinName	Large ribosomal subunit protein uL4m (39S ribosomal protein L4, mitochondrial) (L4mt) (MRP-L4)
+GeneName	MRPL4 CDABP0091 CGI-28
+Length	263
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQFVRAGARAWLRPTGSQGLSSLAEEAARATENPEQVASEGLPEPVLRKVELPVPTHRRPVQAWVESLRGFEQERVGLADLHPDVFATAPRLDILHQVAMWQKNFKRISYAKTKTRAEVRGGGRKPWPQKGTGRARHGSIRSPLWRGGGVAHGPRGPTSYYYMLPMKVRALGLKVALTVKLAQDDLHIMDSLELPTGDPQYLTELAHYRRWGDSVLLVDLTHEEMPQSIVEATSRLKTFNLIPAVGEQRAQAPRVRMCRLRC
+PTM	Methylation:50,70,147,181;Phosphorylation:40,159,160,161,162,163;SUMOylation:50,104,168,238;Ubiquitylation:50,104,113,131,238

@@ -1,0 +1,25 @@
+UniprotID	B0QY08
+Accession	B0QY08
+EntryName	B0QY08_HUMAN
+ProteinName	LARGE xylosyl- and glucuronyltransferase 1
+GeneName	LARGE1
+Length	259
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLIWSEVSWIPNKHYSGIYGLMKLVLTKTLPANLERVIVLDTDITFATDIAELWAVFHKFKGQQVLGLVENQSDWYLGNLWKNHRPWPALGRGYNTGVILLLLDKLRKMKWEQMWRLTAERELMGMLSTSLADQDIFNAVIKQNPFLVYQLPCFWNVQLSDHTRSEQCYRDVSDLKVIHWNSPKKLRVKNKHVEFFRNLYLTFLEYDGNLLRRELFGCPSEADVNSENFFMACFVHGTLCLPPSHLILTSISWEEVIVL
+PTM	

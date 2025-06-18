@@ -1,0 +1,25 @@
+UniprotID	P48729-2
+Accession	P48729;D3DQG0;D3DQG1;Q4JJA0;Q5U046;Q5U047;Q6FGA2;Q71TU5;Q96HD2;Q9UDK3
+EntryName	KC1A_HUMAN
+ProteinName	Casein kinase I isoform alpha (CKI-alpha) (EC 2.7.11.1) (CK1)
+GeneName	CSNK1A1
+Length	365
+Function	Casein kinases are operationally defined by their preferential utilization of acidic proteins such as caseins as substrates (PubMed:11955436, PubMed:1409656, PubMed:18305108, PubMed:23902688). It can phosphorylate a large number of proteins (PubMed:11955436, PubMed:1409656, PubMed:18305108, PubMed:23902688). Participates in Wnt signaling (PubMed:11955436). Phosphorylates CTNNB1 at 'Ser-45' (PubMed:11955436). May phosphorylate PER1 and PER2 (By similarity). May play a role in segregating chromosomes during mitosis (PubMed:1409656). May play a role in keratin cytoskeleton disassembly and thereby, it may regulate epithelial cell migration (PubMed:23902688). Acts as a positive regulator of mTORC1 and mTORC2 signaling in response to nutrients by mediating phosphorylation of DEPTOR inhibitor (PubMed:22017875, PubMed:22017877). Acts as an inhibitor of NLRP3 inflammasome assembly by mediating phosphorylation of NLRP3 (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Chromosome; Centromere; Kinetochore; Nucleus speckle; Cytoplasm; Cytoskeleton; Cilium basal body; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSSGSKAEFIVGGKYKLVRKIGSGSFGDIYLAINITNGEEVAVKLESQKARHPQLLYESKLYKILQGGVGIPHIRWYGQEKDYNVLVMDLLGPSLEDLFNFCSRRFTMKTVLMLADQMISRIEYVHTKNFIHRDIKPDNFLMGIGRHCNKCLESPVGKRKRSMTVSTSQDPSFSGLNQLFLIDFGLAKKYRDNRTRQHIPYREDKNLTGTARYASINAHLGIEQSRRDDMESLGYVLMYFNRTSLPWQGLKAATKKQKYEKISEKKMSTPVEVLCKGFPAEFAMYLNYCRGLRFEEAPDYMYLRQLFRILFRTLNHQYDYTFDWTMLKQKAAQQAASSSGQGQQAQTPTGKQTDKTKSNMKGF
+PTM	Acetylation:8,16,62,65,152;Phosphorylation:3,4,7,59,64,109,112,122,292,294,311,312,313,321,323,327;SUMOylation:8,62,65,138,179,240;Ubiquitylation:8,51,62,65,130,138,152,162,163,179,225,229,235,240,302,304,325

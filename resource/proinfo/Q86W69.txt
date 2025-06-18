@@ -1,0 +1,25 @@
+UniprotID	Q86W69
+Accession	Q86W69
+EntryName	Q86W69_HUMAN
+ProteinName	C1orf61 protein
+GeneName	C1orf61
+Length	140
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	GPPEQSLLLTEAWSWASKKKQPHLFSGVIVGGHLWLLGFSPGAGGFCTTLPPSFLRVDDRATSSTTDSSRAPSSPRPPGSTSHCGISTRCTERCLCVLPLRTSQVPDVMAPQHDQEPKRRMYFIWLGWIPSDKPSQLTER
+PTM	

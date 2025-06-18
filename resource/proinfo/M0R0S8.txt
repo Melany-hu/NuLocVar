@@ -1,0 +1,25 @@
+UniprotID	M0R0S8
+Accession	M0R0S8
+EntryName	M0R0S8_HUMAN
+ProteinName	Zinc finger protein 333
+GeneName	ZNF333
+Length	195
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESVTFEDVAVEFIQEWALLDSARRSLCKYRMLDQCRTLASRGTPPCKPSCVSQLGQRAEPKATERGILRATGVAWESQLKPEELPSMQDLLEEASSRDMQMGPGLFLRMQLVPSIEERETPLTREDRPALQEPPWSLGCTGLKAAMQIQRVVIPVPTLGHRNPWVARDSGQKEDAWCRARSGVDLKAGGKEVSF
+PTM	

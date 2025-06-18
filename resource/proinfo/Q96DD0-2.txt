@@ -1,0 +1,25 @@
+UniprotID	Q96DD0-2
+Accession	Q96DD0;B3KUD2;D3DT56;Q5VVK7
+EntryName	LRC39_HUMAN
+ProteinName	Leucine-rich repeat-containing protein 39 (Myosin-interacting M-band-associated stress-responsive protein) (Myomasp)
+GeneName	LRRC39 UNQ6500/PRO21368
+Length	339
+Function	Component of the sarcomeric M-band which plays a role in myocyte response to biomechanical stress. May regulate expression of other M-band proteins via an SRF-dependent pathway. Important for normal contractile function in heart.
+Subcellular Location	Cytoplasm; Myofibril; Sarcomere; M line
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTENVVCTGAVNAVKEVWEKRIKKLNEDLKREKEFQHKLVRIWEERVSLTKLREKVTREDGRVILKIEKEEWKTLPSSLLKLNQLQEWQLHRTGLLKIPEFIGRFQNLIVLDLSRNTISEIPPGIGLLTRLQELILSYNKIKTVPKELSNCASLEKLELAVNRDICDLPQELSNLLKLTHLDLSMNDFTTIPLAVLNMPALEWLDMGSNKLEQLPDTIERMQNLHTLWLQRNEITCLPQTISNMKNLGTLVLSNNKLQDIPVCMEEMANLRFVNFRDNPLKLKVSLPPSEGTDEEEERELFGLQFMHTYIQESRRRAALQFCVCHGQILTIYTCMALEI
+PTM	Methylation:66,73,81,97,146,156,177;Phosphorylation:50,78,153

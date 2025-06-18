@@ -1,0 +1,25 @@
+UniprotID	P21145-3
+Accession	P21145;Q6FH77
+EntryName	MAL_HUMAN
+ProteinName	Myelin and lymphocyte protein (T-lymphocyte maturation-associated protein)
+GeneName	MAL
+Length	97
+Function	May be involved in vesicular trafficking from the Golgi apparatus to the cell membrane. Plays a role in the maintenance of the myelin sheath, and in axon-glia and glia-glia interactions.
+Subcellular Location	Membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPAAATGGSTLPSGFSVFTTLPDLLFIFEFDAAYHCTAALFYLSASVLEALATITMQDGFTYRHYHENIAAVVFSYIATLLYVVHAVFSLIRWKSS
+PTM	

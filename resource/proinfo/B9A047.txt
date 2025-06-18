@@ -1,0 +1,25 @@
+UniprotID	B9A047
+Accession	B9A047
+EntryName	B9A047_HUMAN
+ProteinName	Ankyrin repeat and SOCS box containing 1
+GeneName	ASB1
+Length	234
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEGGSPDGRAGPGSAGRNLKEWLREQFCDHPLEHCEDTRLHDAAYVGDLQTLRSLLQEESYRRYGADVDVNHHLTPDVQPRFSRRLTSLVVCPLYISAAYHNLQCFRLLLLAGANPDFNCNGPVNTQGFYRGSPGCVMDAVLRHGCEAAFVSLLVEFGANLNLVKWESLGPESRGRRKVDPEALQVFKEARSVPRTLLCLCRVAVRRALGKHRLHLIPSLPLPDPIKKFLLHE
+PTM	

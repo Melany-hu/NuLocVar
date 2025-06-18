@@ -1,0 +1,25 @@
+UniprotID	Q9P055-2
+Accession	Q9P055;B4DP67;Q6FIB6;Q6IAJ2;Q7Z5D4;Q86SY6;Q9H0Q6;Q9H2W0;Q9HAH5;Q9P0R3
+EntryName	JKAMP_HUMAN
+ProteinName	JNK1/MAPK8-associated membrane protein (JKAMP) (JNK1-associated membrane protein) (JAMP) (Medulloblastoma antigen MU-MB-50.4)
+GeneName	JKAMP C14orf100 JAMP CDA06 HSPC213 HSPC327
+Length	248
+Function	Regulates the duration of MAPK8 activity in response to various stress stimuli (By similarity). Facilitates degradation of misfolded endoplasmic reticulum (ER) proteins through the recruitment of components of the proteasome and endoplasmic reticulum-associated degradation (ERAD) system (PubMed:18784250).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMLPLVLHWFFIEWYSGKKSSSALFQHITALFECSMAAIITLLVSDPVGVLYIRSCRVLMLSDWYTMLYNPSPDYVTTVHCTHEAVYPLYTIVFIYYAFCLVLMMLLRPLLVKKIACGLGKSDRFKSIYAALYFFPILTVLQAVGGGLLYYAFPYIILVLSLVTLAVYMSASEIENCYDLLVRKKRLIVLFSHWLLHAYGIISISRVDKLEQDLPLLALVPTPALFYLFTAKFTEPSRILSEGANGH
+PTM	Methylation:21,177,185;Phosphorylation:40,116,286,291,294;Ubiquitylation:178,185

@@ -1,0 +1,25 @@
+UniprotID	A0A994J6F6
+Accession	A0A994J6F6
+EntryName	A0A994J6F6_HUMAN
+ProteinName	Interferon alpha/beta receptor 1 (IFN-R-1) (IFN-alpha/beta receptor 1) (Type I interferon receptor 1)
+GeneName	IFNAR1
+Length	552
+Function	Together with IFNAR2, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa). Type I interferon binding activates the JAK-STAT signaling cascade. Can also act independently of IFNAR2: form an active IFNB1 receptor by itself and activate a signaling cascade that does not involve activation of the JAK-STAT pathway.
+Subcellular Location	Cell membrane; Late endosome; Lysosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMVVLLGATTLVLVAVAPWVLSAAAGGKNLKSPQKVEVDIIDDNFILRWNRSDESVGNVTFSFDYQKTGMDNWIKLSGCQNITSTKCNFSSLKLNVYEEIKLRIRAEKENTSSWYEVDSFTPFRKAQIGPPEVHLEAEDKAIVIHISPGTKDSVMWALDGLSFTYSLVIWKNSSGVEERIENIYSRHKIYKLSPETTYCLKVKAALLTSWKIGVYSPVHCIKTTVENELPPPENIEVSVQNQNYVLKWDYTYANMTFQVQWLHAFLKRNPGNHLYKWKQIPDCENVKTTQCVFPQNVFQKGIYLLRVQASDGNNTSFWSEEIKFDTEIQAFLLPPVFNIRSLSDSFHIYIGAPKQSGNTPVIQDYPLIYEIIFWENTSNAERKIIEKKTDVTVPNLKPLTVYCVKARAHTMDEKLNKSSVFSDAVCEKTKPGNTSKIWLIVGICIALFALPFVIYAAKVFLRCINYVFFPSLKPSSSIDEPLKNLLLSTSEEQIEKCFIIENISTIATVEETNQTDEDHKKYSSQTSQDSGNYSNEDESESKTSEELQQDFV
+PTM	

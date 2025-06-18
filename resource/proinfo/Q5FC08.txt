@@ -1,0 +1,25 @@
+UniprotID	Q5FC08
+Accession	Q5FC08
+EntryName	Q5FC08_HUMAN
+ProteinName	IL4R nirs variant 1 (Interleukin 4 receptor)
+GeneName	IL4R
+Length	66
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGWLCSGLLFPVSCLVLLQVASSGLFRMPCGERKRVEARRSGGRSGVEEMRGSGSLWEVDLRTDWN
+PTM	

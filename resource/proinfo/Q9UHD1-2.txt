@@ -1,0 +1,25 @@
+UniprotID	Q9UHD1-2
+Accession	Q9UHD1;B2R6P8;Q6IN49;Q8WVL9;Q9H3D6
+EntryName	CHRD1_HUMAN
+ProteinName	Cysteine and histidine-rich domain-containing protein 1 (CHORD domain-containing protein 1) (CHORD-containing protein 1) (CHP-1) (Protein morgana)
+GeneName	CHORDC1 CHP1
+Length	313
+Function	Regulates centrosome duplication, probably by inhibiting the kinase activity of ROCK2 (PubMed:20230755). Proposed to act as co-chaperone for HSP90 (PubMed:20230755). May play a role in the regulation of NOD1 via a HSP90 chaperone complex (PubMed:20230755). In vitro, has intrinsic chaperone activity (PubMed:20230755). This function may be achieved by inhibiting association of ROCK2 with NPM1 (PubMed:20230755). Plays a role in ensuring the localization of the tyrosine kinase receptor EGFR to the plasma membrane, and thus ensures the subsequent regulation of EGFR activity and EGF-induced actin cytoskeleton remodeling (PubMed:32053105). Involved in stress response (PubMed:20230755). Prevents tumorigenesis (PubMed:20230755).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLCYNRGCGQRFDPETNSDDACTYHPGVPVFHDALKGCTKGRHNSEKPPEPVKPEVKTTEKKELCELKPKFQEHIIQAPKPVEAIKRPSPDEPMTNLELKISASLKQALDKLKLSSGNEENKKEEDNDEIKIGTSCKNGGCSKTYQGLESLEEVCVYHSGVPIFHEGMKYWSCCRRKTSDFNTFLAQEGCTKGKHMWTKKDAGKKVVPCRHDWHQTGGEVTISVYAKNSLPELSRVEANSTLLNVHIVFEGEKEFDQNVKLWGVIDVKRSYVTMTATKIEITMRKAEPMQWASLELPAAKKQEKQKDATTD
+PTM	Acetylation:38,74,89,91,127,143,144,289,321;Methylation:8,38,61,89,107,121,152,213,281,289;Phosphorylation:20,47,48,51,66,80,110,125,136,137,155,156,199,200,204,303;Ubiquitylation:44,61,89,107,121,127,132,134,143,152,198,213,226,289

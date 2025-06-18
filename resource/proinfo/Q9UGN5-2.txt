@@ -1,0 +1,25 @@
+UniprotID	Q9UGN5-2
+Accession	Q9UGN5;Q8TEU4;Q9NUV2;Q9UMR4;Q9Y6C8
+EntryName	PARP2_HUMAN
+ProteinName	Poly [ADP-ribose] polymerase 2 (PARP-2) (hPARP-2) (EC 2.4.2.30) (ADP-ribosyltransferase diphtheria toxin-like 2) (ARTD2) (DNA ADP-ribosyltransferase PARP2) (EC 2.4.2.-) (NAD(+) ADP-ribosyltransferase 2) (ADPRT-2) (Poly[ADP-ribose] synthase 2) (pADPRT-2) (Protein poly-ADP-ribosyltransferase PARP2) (EC 2.4.2.-)
+GeneName	PARP2 ADPRT2 ADPRTL2
+Length	570
+Function	Poly-ADP-ribosyltransferase that mediates poly-ADP-ribosylation of proteins and plays a key role in DNA repair (PubMed:10364231, PubMed:25043379, PubMed:27471034, PubMed:30104678, PubMed:32028527, PubMed:32939087, PubMed:34108479, PubMed:34486521, PubMed:34874266). Mediates glutamate, aspartate or serine ADP-ribosylation of proteins: the ADP-D-ribosyl group of NAD(+) is transferred to the acceptor carboxyl group of target residues and further ADP-ribosyl groups are transferred to the 2'-position of the terminal adenosine moiety, building up a polymer with an average chain length of 20-30 units (PubMed:25043379, PubMed:30104678, PubMed:30321391). Serine ADP-ribosylation of proteins constitutes the primary form of ADP-ribosylation of proteins in response to DNA damage (PubMed:32939087). Mediates glutamate and aspartate ADP-ribosylation of target proteins in absence of HPF1 (PubMed:25043379). Following interaction with HPF1, catalyzes serine ADP-ribosylation of target proteins; HPF1 conferring serine specificity by completing the PARP2 active site (PubMed:28190768, PubMed:32028527, PubMed:34108479, PubMed:34486521, PubMed:34874266). PARP2 initiates the repair of double-strand DNA breaks: recognizes and binds DNA breaks within chromatin and recruits HPF1, licensing serine ADP-ribosylation of target proteins, such as histones, thereby promoting decompaction of chromatin and the recruitment of repair factors leading to the reparation of DNA strand breaks (PubMed:10364231, PubMed:32939087, PubMed:34108479). HPF1 initiates serine ADP-ribosylation but restricts the polymerase activity of PARP2 in order to limit the length of poly-ADP-ribose chains (PubMed:34732825, PubMed:34795260). Specifically mediates formation of branched poly-ADP-ribosylation (PubMed:30104678). Branched poly-ADP-ribose chains are specifically recognized by some factors, such as APLF (PubMed:30104678). In addition to proteins, also able to ADP-ribosylate DNA: preferentially acts on 5'-terminal phosphates at DNA strand breaks termini in nicked duplex (PubMed:27471034, PubMed:29361132).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	21..22;35..40
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	36...41;35...40
+validnes_region	
+nesbase_region	
+Sequence	MAARRRRSTGGGRARALNESKRVNNGNTAPEDSSPAKKTRRCQRQESKKMPVAGGKANKDRTEDKQDESVKALLLKGKAPVDPECTAKVGKAHVYCEGNDVYDVMLNQTNLQFNNNKYYLIQLLEDDAQRNFSVWMRWGRVGKMGQHSLVACSGNLNKAKEIFQKKFLDKTKNNWEDREKFEKVPGKYDMLQMDYATNTQDEEETKKEESLKSPLKPESQLDLRVQELIKLICNVQAMEEMMMEMKYNTKKAPLGKLTVAQIKAGYQSLKKIEDCIRAGQHGRALMEACNEFYTRIPHDFGLRTPPLIRTQKELSEKIQLLEALGDIEIAIKLVKTELQSPEHPLDQHYRNLHCALRPLDHESYEFKVISQYLQSTHAPTHSDYTMTLLDLFEVEKDGEKEAFREDLHNRMLLWHGSRMSNWVGILSHGLRIAPPEAPITGYMFGKGIYFADMSSKSANYCFASRLKNTGLLLLSEVALGQCNELLEANPKAEGLLQGKHSTKGLGKMAPSSAHFVTLNGSTVPLGPASDTGILNPDGYTLNYNEYIVYNPNQVRMRYLLKVQFNFLQLW
+PTM	Acetylation:56;Methylation:89,243,330,345,409,520;Phosphorylation:8,9,20,28,33,34,47,212,223,226,232,260,271,430,473;SUMOylation:101,171,193,220,225,229,259,269,276,348,469;Ubiquitylation:37,89,91,225,229,276,469

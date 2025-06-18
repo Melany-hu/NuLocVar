@@ -1,0 +1,25 @@
+UniprotID	H0YMK1
+Accession	H0YMK1
+EntryName	H0YMK1_HUMAN
+ProteinName	Death associated protein kinase 2
+GeneName	DAPK2
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFQASMRSPNMEPFKQQKVEDFYDIGEELGSGQFAIVKKCREKSTGLEYAAKFIKKRQSRASRRGVSREEIERESVWRRALRFPGPEGVTE
+PTM	

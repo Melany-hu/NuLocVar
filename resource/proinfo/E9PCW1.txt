@@ -1,0 +1,25 @@
+UniprotID	E9PCW1
+Accession	E9PCW1
+EntryName	E9PCW1_HUMAN
+ProteinName	Golgi SNAP receptor complex member 1
+GeneName	GOSR1
+Length	248
+Function	Involved in transport from the ER to the Golgi apparatus as well as in intra-Golgi transport. It belongs to a super-family of proteins called t-SNAREs or soluble NSF (N-ethylmaleimide-sensitive factor) attachment protein receptor. May play a protective role against hydrogen peroxide induced cytotoxicity under glutathione depleted conditions in neuronal cells by regulating the intracellular ROS levels via inhibition of p38 MAPK (MAPK11, MAPK12, MAPK13 and MAPK14). Participates in docking and fusion stage of ER to cis-Golgi transport. Plays an important physiological role in VLDL-transport vesicle-Golgi fusion and thus in VLDL delivery to the hepatic cis-Golgi.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGTSSYWEDLRKQARQLENELDLKLVSFSKLCTSYSHSSTRDGRRDSSDTTPLLNGSSQDRMFETMAIEIEQLLARLTGVNDKMAEYTNSAGVPSLNAALMHTLQRHRDILQDYTHEFHKTKANFMAIRERENLMGSVRKDIESYKSGSGVNNRRTELFLKEHDHLRNSDRLIEETISIAMATKENMTSQRGMLKSIHSKMNTLANRFPAVNSLIQRINLRKRRDSLILGGVIGICTILLLLYAFH
+PTM	

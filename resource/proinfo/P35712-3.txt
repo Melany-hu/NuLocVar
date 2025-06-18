@@ -1,0 +1,25 @@
+UniprotID	P35712-3
+Accession	P35712;Q86VX7;Q9BXQ3;Q9BXQ4;Q9BXQ5;Q9H0I8
+EntryName	SOX6_HUMAN
+ProteinName	Transcription factor SOX-6
+GeneName	SOX6
+Length	808
+Function	Transcription factor that plays a key role in several developmental processes, including neurogenesis, chondrocytes differentiation and cartilage formation (Probable). Specifically binds the 5'-AACAAT-3' DNA motif present in enhancers and super-enhancers and promotes expression of genes important for chondrogenesis. Required for overt chondrogenesis when condensed prechondrocytes differentiate into early stage chondrocytes: SOX5 and SOX6 cooperatively bind with SOX9 on active enhancers and super-enhancers associated with cartilage-specific genes, and thereby potentiate SOX9's ability to transactivate. Not involved in precartilaginous condensation, the first step in chondrogenesis, during which skeletal progenitors differentiate into prechondrocytes. Together with SOX5, required to form and maintain a pool of highly proliferating chondroblasts between epiphyses and metaphyses, to form columnar chondroblasts, delay chondrocyte prehypertrophy but promote hypertrophy, and to delay terminal differentiation of chondrocytes on contact with ossification fronts. Binds to the proximal promoter region of the myelin protein MPZ gene, and is thereby involved in the differentiation of oligodendroglia in the developing spinal tube. Binds to the gene promoter of MBP and acts as a transcriptional repressor (By similarity).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSKQATSPFACAADGEDAMTQDLTSREKEEGSDQHVASHLPLHPIMHNKPHSEELPTLVSTIQQDADWDSVLSSQQRMESENNKLCSLYSFRNTSTSPHKPDEGSRDREIMTSVTFGTPERRKGSLADVVDTLKQKKLEEMTRTEQEDSSCMEKLLSKDWKEKMERLNTSELLGEIKGTPESLAEKERQLSTMITQLISLREQLLAAHDEQKKLAASQIEKQRQQMDLARQQQEQIARQQQQLLQQQHKINLLQQQIQVQGHMPPLMIPIFPHDQRTLAAAAAAQQGFLFPPGITYKPGDNYPVQFIPSTMAAAAASGLSPLQLQKGHVSHPQINQRLKGLSDRFGRNLDTFEHGGGHSYNHKQIEQLYAAQLASMQVSPGAKMPSTPQPPNTAGTVSPTGIKNEKRGTSPVTQVKDEAAAQPLNLSSRPKTAEPVKSPTSPTQNLFPASKTSPVNLPNKSSIPSPIGGSLGRGSSLDILSSLNSPALFGDQDTVMKAIQEARKMREQIQREQQQQQPHGVDGKLSSINNMGLNSCRNEKERTRFENLGPQLTGKSNEDGKLGPGVIDLTRPEDAEGGATVAEARVYRDARGRASSEPHIKRPMNAFMVWAKDERRKILQAFPDMHNSNISKILGSRWKSMSNQEKQPYYEEQARLSKIHLEKYPNYKYKPRPKRTCIVDGKKLRIGEYKQLMRSRRQEMRQFFTVGQQPQIPITTGTGVVYPGAITMATTTPSPQMTSDCSSTSASPEPSLPVIQSTYGMKTDGGSLAGNEMINGEDEMEMYDDYEDDPKSDYSSENEAPEAVSAN
+PTM	Methylation:135,159,222,679,703;Phosphorylation:8,97,98,113,119,126,171,200,380,387,397,399,401,410,411,439,441,442,444,453,454,463,466;SUMOylation:417,633

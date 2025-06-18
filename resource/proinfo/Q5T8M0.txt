@@ -1,0 +1,25 @@
+UniprotID	Q5T8M0
+Accession	Q5T8M0
+EntryName	Q5T8M0_HUMAN
+ProteinName	Guanylate binding protein 3
+GeneName	GBP3
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QDEELDPEFVQQVADFCSYIFSNSKTKTLSGGIKAEEILQTYLKSKESVTDAILQTDQILTEKEKEIEVECVKAESAQASAKMVEEMQIKYQQMMEEKEKSYQEHVKQLTEKMERERAQLLEEQEKTLTSKLQVSKC
+PTM	

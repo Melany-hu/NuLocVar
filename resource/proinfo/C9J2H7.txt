@@ -1,0 +1,25 @@
+UniprotID	C9J2H7
+Accession	C9J2H7
+EntryName	C9J2H7_HUMAN
+ProteinName	Membrane bound O-acyltransferase domain containing 2
+GeneName	MBOAT2
+Length	176
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATTSTTGSTLLQPLSNAVQLPIDQAARHMIPGCLSPSVCLTYLAESTGEKYALHFLVQSGISYCIMIIIGVENMHNYCFVFALGYLTVCQVTRVYIFDYGQYSADFSGPMMIITQKITSLACEIHDGMFRKDEELTSSQRDLAVRRMPSLLEYLSYNCNFMGILAGPLCSYKDYI
+PTM	

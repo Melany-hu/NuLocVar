@@ -1,0 +1,25 @@
+UniprotID	Q08431-2
+Accession	Q08431;B2R6M7;F5GZN3;Q53FU9;Q7Z3D2;Q9BTL9
+EntryName	MFGM_HUMAN
+ProteinName	Lactadherin (Breast epithelial antigen BA46) (HMFG) (MFGM) (Milk fat globule-EGF factor 8) (MFG-E8) (SED1) [Cleaved into: Lactadherin short form; Medin]
+GeneName	MFGE8
+Length	275
+Function	Plays an important role in the maintenance of intestinal epithelial homeostasis and the promotion of mucosal healing. Promotes VEGF-dependent neovascularization (By similarity). Contributes to phagocytic removal of apoptotic cells in many tissues. Specific ligand for the alpha-v/beta-3 and alpha-v/beta-5 receptors. Also binds to phosphatidylserine-enriched cell surfaces in a receptor-independent manner. Zona pellucida-binding protein which may play a role in gamete interaction.
+Subcellular Location	Membrane; Secreted; Cytoplasmic vesicle; Secretory vesicle; Acrosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVNAWTPSSNDDNPWIQVNLLRRMWVTGVVTQGASRLASHEYLKAFKVAYSLNGHEFDFIHDVNKKHKEFVGNWNKNAVHVNLFETPVEAQYVRLYPTSCHTACTLRFELLGCELNGCANPLGLKNNSIPDKQITASSSYKTWGLHLFSWNPSYARLDKQGNFNAWVAGSYGNDQWLQVDLGSSKEVTGIITQGARNFGSVQFVASYKVAYSNDSANWTEYQDPRTGSSKIFPGNWDNHSHKKNLFETPILARYVRILPVAWHNRIALRLELLGC
+PTM	Acetylation:156;Glycosylation:165,228,238,325,329;Phosphorylation:42,261,265,266;Ubiquitylation:156,355

@@ -1,0 +1,25 @@
+UniprotID	Q9H2S5-2
+Accession	Q9H2S5;A2BEK3;A6NCD6;B0S858;Q5SPM8;Q5SPM9;Q5SPN0;Q5SRJ9;Q5SRK1;Q5SS29;Q9H2S3;Q9H2S4
+EntryName	RNF39_HUMAN
+ProteinName	RING finger protein 39 (EC 2.3.2.27) (Protein HZFw)
+GeneName	RNF39 HZFW
+Length	354
+Function	Plays an inhibitory role in anti-RNA viral innate immunity by targeting the adapter DDX3X and promoting its 'Lys-48'-linked polyubiquitination (PubMed:33674311). Alternatively, enhances the cGAS-STING pathway activation by promoting 'Lys-63'-linked ubiquitination of STING1, facilitating the STING1-TBK1 complex formation and STING1 activation (PubMed:39255680).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWWRDLTRLRLWLKREAIPGEGRKAAKVNAGVGEKGIYTASSRGGPPSARSKAVTVVAEGAASRSWLSMDAPELGPGLVERLEQLATCPLCGGSFEDPVLLACEHSFCRACLARRWGTPPATGTEASPTACPCCGLPCPRRSLRSNVRLAVEVRISRELREKLAEPGARAGRRRGGRIPTMGCLDLPGEDMRKTWRRFEVPTSKSSNSEDDLPEDYPVVKKMLHRLTADLTLDPGTAHRRLLISADRRSVQLAPPGTPAPPDGPKRFDQLPAVLGAQGFGAGRHCWEVETADAASCRDSSGEDADDEESHYAVGAAGESVQRKGCAPGPLGERIFPLFCTCDPRAPLRIVPAES
+PTM	Phosphorylation:39,41,42,51,55

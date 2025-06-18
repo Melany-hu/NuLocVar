@@ -1,0 +1,25 @@
+UniprotID	A0A0G2JJ55
+Accession	A0A0G2JJ55
+EntryName	A0A0G2JJ55_HUMAN
+ProteinName	MHC class I polypeptide-related sequence A
+GeneName	MICA
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQRDQGLDRERKGPQDDPGSYQGPERRNFLKEDAMKTKTHYHAMHADCLQELRRYLESGVVLRRTVPPMVNVTRSEASEGNITVTCRASSFYPRNIILTWRQDGVSLSHDTQQWGDVLPDGNGTYQTWVATRICRGEEQRFTCYMEHSGNHSTHPVPSGKVLVLQSHWQTFHVSAVAAGCCYFCYYYFLCPLL
+PTM	

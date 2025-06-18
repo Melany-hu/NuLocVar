@@ -1,0 +1,25 @@
+UniprotID	C9JV05
+Accession	C9JV05
+EntryName	C9JV05_HUMAN
+ProteinName	Bromodomain containing 8
+GeneName	BRD8
+Length	122
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATGTGKHKLLSTGPTEPWSIREKLCLASSVMRSGDQNWGWSYSVTQAGVQWRDLGSLQPLDFLGSRDPPTSAAQVAGTTGRRVSVSRAIKPFAEPGRPPDWFSQKHCASQYSELLETTETP
+PTM	

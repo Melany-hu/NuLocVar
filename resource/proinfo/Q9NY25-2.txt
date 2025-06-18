@@ -1,0 +1,25 @@
+UniprotID	Q9NY25-2
+Accession	Q9NY25;Q52M11;Q9UKQ0
+EntryName	CLC5A_HUMAN
+ProteinName	C-type lectin domain family 5 member A (C-type lectin superfamily member 5) (Myeloid DAP12-associating lectin 1) (MDL-1)
+GeneName	CLEC5A CLECSF5 MDL1
+Length	187
+Function	Functions as a positive regulator of osteoclastogenesis (By similarity). Cell surface receptor that signals via TYROBP (PubMed:10449773). Regulates inflammatory responses (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNWHMIISGLIVVVLKVVGMTLFLLYFPQIFNKSNDGFTTTRSYGTVSQIFGSSSPSPNGFITTRSYGTVCPKDWEFYQARCFFLSTSESSWNESRDFCKGKGSTLAIVNTPEKLFLQDITDAEKYFIGLIYHREEKRWRWINNSVFNGNVTNQNQNFNCATIGLTKTFDAASCDISYRRICEKNAK
+PTM	Methylation:16;Phosphorylation:122

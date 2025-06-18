@@ -1,0 +1,25 @@
+UniprotID	D6R9T5
+Accession	D6R9T5
+EntryName	D6R9T5_HUMAN
+ProteinName	OCIA domain-containing protein 1
+GeneName	OCIAD1
+Length	168
+Function	
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGRADFREPNAEVPRPIPPVPLAATSMLITQGLISKGILSSHPKYGSIPKLILACIMGYFAGKLSYVKTCQEKFKKLENSPLGEALRSGQARRSSPPGHYYQKSKYDSSVSGQSSFVTSPAADNIEMLPHYEPIPFSSSMNESAPTGITDHIVQGPDPNLEESPKRK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E7EQK6
+Accession	E7EQK6
+EntryName	E7EQK6_HUMAN
+ProteinName	Calpastatin
+GeneName	CAST
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	80...85;34...38
+validnes_region	
+nesbase_region	
+Sequence	MNPTETKAVKTEPEKKSQSTKLSVVHEKKSQEGKPKEHTEPKSLPKQASDTGSNDAHNKKAVSRSAEQQPSEKSTEPKKKEKKSLTPAVPVESKPDKPSGKSGMDAALDDLIDTLGGPEETEEENTTYTGPEVSDPMSSTYIEELGKREVTIPPKY
+PTM	

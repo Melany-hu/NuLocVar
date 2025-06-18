@@ -1,0 +1,25 @@
+UniprotID	Q08722-3
+Accession	Q08722;A8K198;D3DN59;Q53Y71;Q96A60
+EntryName	CD47_HUMAN
+ProteinName	Leukocyte surface antigen CD47 (Antigenic surface determinant protein OA3) (Integrin-associated protein) (IAP) (Protein MER6) (CD antigen CD47)
+GeneName	CD47 MER6
+Length	305
+Function	Adhesive protein that mediates cell-to-cell interactions (PubMed:11509594, PubMed:15383453). Acts as a receptor for thrombospondin THBS1 and as modulator of integrin signaling through the activation of heterotrimeric G proteins (PubMed:19004835, PubMed:7691831, PubMed:8550562). Involved in signal transduction, cardiovascular homeostasis, inflammation, apoptosis, angiogenesis, cellular self-renewal, and immunoregulation (PubMed:11509594, PubMed:15383453, PubMed:19004835, PubMed:27742621, PubMed:32679764, PubMed:7691831, PubMed:8550562). Plays a role in modulating pulmonary endothelin EDN1 signaling (PubMed:27742621). Modulates nitrous oxide (NO) signaling, in response to THBS1, hence playing a role as a pressor agent, supporting blood pressure (By similarity). Plays an important role in memory formation and synaptic plasticity in the hippocampus (By similarity). Receptor for SIRPA, binding to which prevents maturation of immature dendritic cells and inhibits cytokine production by mature dendritic cells (PubMed:11509594). Interaction with SIRPG mediates cell-cell adhesion, enhances superantigen-dependent T-cell-mediated proliferation and costimulates T-cell activation (PubMed:15383453). Positively modulates FAS-dependent apoptosis in T-cells, perhaps by enhancing FAS clustering (By similarity). Plays a role in suppressing angiogenesis and may be involved in metabolic dysregulation during normal aging (PubMed:32679764). In response to THBS1, negatively modulates wound healing (By similarity). Inhibits stem cell self-renewal, in response to THBS1, probably by regulation of the stem cell transcription factors POU5F1/OCT4, SOX2, MYC/c-Myc and KLF4 (By similarity). May play a role in membrane transport and/or integrin dependent signal transduction (PubMed:7691831). May prevent premature elimination of red blood cells (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPLVAALLLGSACCGSAQLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVPTDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVSWFSPNENILIVIFPIFAILLFWGQFGIKTLKYRSGGMDEKTIALLVAGLVITVIVIVGAILFVPGEYSLKNATGLGLIVTSTGILILLHYYVFSTAIGLTSFVIAILVIQVIAYILAVVGLSLCIAACIPMHGPLLISGLSILALAQLLGLVYMKFVASNQKTIQPPRNN
+PTM	Glycosylation:50,73,111;Methylation:93,130,175;Phosphorylation:164,167,316;Ubiquitylation:297,304,314,317

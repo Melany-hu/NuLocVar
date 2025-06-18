@@ -1,0 +1,25 @@
+UniprotID	P40925-2
+Accession	P40925;B2R5V5;B4DUN2;B7Z3I7;F5H098;Q6I9V0
+EntryName	MDHC_HUMAN
+ProteinName	Malate dehydrogenase, cytoplasmic (EC 1.1.1.37) (Aromatic alpha-keto acid reductase) (KAR) (EC 1.1.1.96) (Cytosolic malate dehydrogenase)
+GeneName	MDH1 MDHA
+Length	245
+Function	Catalyzes the reduction of aromatic alpha-keto acids in the presence of NADH (PubMed:2449162, PubMed:3052244). Plays essential roles in the malate-aspartate shuttle and the tricarboxylic acid cycle, important in mitochondrial NADH supply for oxidative phosphorylation (PubMed:31538237). Catalyzes the reduction of 2-oxoglutarate to 2-hydroxyglutarate, leading to elevated reactive oxygen species (ROS) (PubMed:34012073).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPRREGMERKDLLKANVKIFKSQGAALDKYAKKSVKVIVVGNPANTNCLTASKSAPSIPKENFSCLTRLDHNRAKAQIALKLGVTANDVKNVIIWGNHSSTQYPDVNHAKVKLQGKEVGVYEALKDDSWLKGEFVTTVQQRGAAVIKARKLSSAMSAAKAICDHVRDIWFGTPEGEFVSMGVISDGNSYGVPDDLLYSFPVVIKNKTWKFVEGLPINDFSREKMDLTAKELTEEKESAFEFLSSA
+PTM	Acetylation:73,99,103,107,110,118,199,201,205,214,220,236,239,248,298,312;Methylation:32,66,73,79,103,110,118,142,149,170,179,214,220,230,236,239,248,293,298;Phosphorylation:22,111,119,146,153,188,189,190,192,210,217,225,226,241,242,245,309,321,326,332,333;SUMOylation:103,107,110,142,149,164,179,199,205,214,220,236,239,298,318;Ubiquitylation:73,103,107,110,118,125,142,164,179,201,205,214,236,239,248,298,318

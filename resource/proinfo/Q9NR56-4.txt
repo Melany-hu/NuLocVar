@@ -1,0 +1,25 @@
+UniprotID	Q9NR56-4
+Accession	Q9NR56;E9PBW7;O43311;O43797;Q86UV8;Q86UV9;Q96P92;Q96RE3
+EntryName	MBNL1_HUMAN
+ProteinName	Muscleblind-like protein 1 (Triplet-expansion RNA-binding protein)
+GeneName	MBNL1 EXP KIAA0428 MBNL
+Length	314
+Function	Mediates pre-mRNA alternative splicing regulation. Acts either as activator or repressor of splicing on specific pre-mRNA targets. Inhibits cardiac troponin-T (TNNT2) pre-mRNA exon inclusion but induces insulin receptor (IR) pre-mRNA exon inclusion in muscle. Antagonizes the alternative splicing activity pattern of CELF proteins. Regulates the TNNT2 exon 5 skipping through competition with U2AF2. Inhibits the formation of the spliceosome A complex on intron 4 of TNNT2 pre-mRNA. Binds to the stem-loop structure within the polypyrimidine tract of TNNT2 intron 4 during spliceosome assembly. Binds to the 5'-YGCU(U/G)Y-3'consensus sequence. Binds to the IR RNA. Binds to expanded CUG repeat RNA, which folds into a hairpin structure containing GC base pairs and bulged, unpaired U residues. Together with RNA binding proteins RBPMS and RBFOX2, activates vascular smooth muscle cells alternative splicing events (PubMed:37548402). Regulates NCOR2 alternative splicing (By similarity).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasmic granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVSVTPIRDTKWLTLEVCREFQRGTCSRPDTECKFAHPSKSCQVENGRVIACFDSLKGRCSRENCKYLHPPPHLKTQLEINGRNNLIQQKNMAMLAQQMQLANAMMPGAPLQPVVCREYQRGNCNRGENDCRFAHPADSTMIDTNDNTVTVCMDYIKGRCSREKCKYFHPPAHLQAKIKAAQYQVNQAAAAQAAATAAAMGIPQAVLPPLPKRPALEKTNGATAVFNTGIFQYQQALANMQLQQHTAFLPPGSILCMTPATSVVPMVHGATPATVSAATTSATSVPFAATATANQIPIISAEHLTSHKYVTQM
+PTM	Acetylation:41,58,275,278;Methylation:24,305;Phosphorylation:4,6,11,15,56,68,158,236,272,276;SUMOylation:278;Ubiquitylation:12,58,275,278

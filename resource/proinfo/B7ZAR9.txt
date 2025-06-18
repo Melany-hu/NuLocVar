@@ -1,0 +1,25 @@
+UniprotID	B7ZAR9
+Accession	B7ZAR9
+EntryName	B7ZAR9_HUMAN
+ProteinName	Pyruvate dehydrogenase phosphatase regulatory subunit
+GeneName	PDPR
+Length	237
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPDHFPSLFCKEMSVGYANGIRVMSMTHTGEPGFMLYIPIEYALHVYNEVMSVGQKYGIRNAGYYALRSLRIEKFFAFWGQDINNLTTPLECGRESRVKLEKGMDFIGRDALLQQKQNGVYKRLTMFILDDHDSDLDLWPWWGEPIYRNGQYVGKTTSSAYSYSLERHVCLGFVHNFSEDTGEEQVVTADFINRGEYEIDIAGYRFQAKAKLYPVASLFTQKRRKDDMELSDLHGK
+PTM	

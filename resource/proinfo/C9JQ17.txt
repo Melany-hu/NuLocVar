@@ -1,0 +1,25 @@
+UniprotID	C9JQ17
+Accession	C9JQ17
+EntryName	C9JQ17_HUMAN
+ProteinName	Src kinase associated phosphoprotein 2
+GeneName	SKAP2
+Length	126
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTRSVLDVETFVADILKGENLSKKAKEKRESLIKKIKDVKSIYLQEFQDKGDAEDGEEYDDPFAGPPDTISLASERYDKDDEAPSDGAQFPPIAAQDLPFVLKAGYLEKRRKDHSFLGFEWQKRW
+PTM	

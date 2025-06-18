@@ -1,0 +1,25 @@
+UniprotID	H0YII7
+Accession	H0YII7
+EntryName	H0YII7_HUMAN
+ProteinName	Pre-mRNA processing factor 40 homolog B
+GeneName	PRPF40B
+Length	137
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LKDRGFCVEVNTAFEDFAHVISFDKRAAALDAGNIKLTFNSLLEKAEAREREREKEEARRMRRREAAFRSMLRQAVPALELGTAWEEVRERFVCDSAFEQITLESERIRLFREFLQVLETECQHLHTKGRKHGRKGL
+PTM	

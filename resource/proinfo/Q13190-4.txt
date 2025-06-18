@@ -1,0 +1,25 @@
+UniprotID	Q13190-4
+Accession	Q13190;B2R8T2;F8W8Q9;Q5U0D4;Q7Z3T6;Q9BUG1
+EntryName	STX5_HUMAN
+ProteinName	Syntaxin-5
+GeneName	STX5 STX5A
+Length	321
+Function	Mediates endoplasmic reticulum to Golgi transport. Together with p115/USO1 and GM130/GOLGA2, involved in vesicle tethering and fusion at the cis-Golgi membrane to maintain the stacked and inter-connected structure of the Golgi apparatus.
+Subcellular Location	Endoplasmic reticulum-Golgi intermediate compartment membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPRKRYGSKNTDQGVYLGLSKTQVLSPATAGSSSSDIAPLPPPVTLVPPPPDTMSCRDRTQEFLSACKSLQTRQNGIQTNKPALRAVRQRSEFTLMAKRIGKDLSNTFAKLEKLTILAKRKSLFDDKAVEIEELTYIIKQDINSLNKQIAQLQDFVRAKGSQSGRHLQTHSNTIVVSLQSKLASMSNDFKSVLEVRTENLKQQRSRREQFSRAPVSALPLAPNHLGGGAVVLGAESHASKDVAIDMMDSRTSQQLQLIDEQDSYIQSRADTMQNIESTIVELGSIFQQLAHMVKEQEETIQSVLLFPLLPALSPGSTRTC
+PTM	Acetylation:182;Methylation:120,140,182,202,324;Phosphorylation:7,9,12,17,66,92,123,136,137,250,264,265;Ubiquitylation:69,82,114,120,122,140,148,191,202,241

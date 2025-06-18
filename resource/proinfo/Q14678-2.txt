@@ -1,0 +1,25 @@
+UniprotID	Q14678-2
+Accession	Q14678;A2A2W8;D3DRH3;Q5W0W0;Q8IY65;Q8WX74
+EntryName	KANK1_HUMAN
+ProteinName	KN motif and ankyrin repeat domain-containing protein 1 (Ankyrin repeat domain-containing protein 15) (Kidney ankyrin repeat-containing protein)
+GeneName	KANK1 ANKRD15 KANK KIAA0172
+Length	1194
+Function	Adapter protein that links structural and signaling protein complexes positioned to guide microtubule and actin cytoskeleton dynamics during cell morphogenesis (PubMed:22084092, PubMed:24120883). At focal adhesions (FAs) rims, organizes cortical microtubule stabilizing complexes (CMSCs) and directly interacts with major FA component TLN1, forming macromolecular assemblies positioned to control microtubule-actin crosstalk at the cell edge (PubMed:24120883, PubMed:27410476). Recruits KIF21A in CMSCs at axonal growth cones and regulates axon guidance by suppressing microtubule growth without inducing microtubule disassembly once it reaches the cell cortex (PubMed:24120883). Interacts with ARFGEF1 and participates in establishing microtubule-organizing center (MTOC) orientation and directed cell movement in wound healing (PubMed:22084092). Regulates actin stress fiber formation and cell migration by inhibiting RHOA activation in response to growth factors; this function involves phosphorylation through PI3K/Akt signaling and may depend on the competitive interaction with 14-3-3 adapter proteins to sequester them from active complexes (PubMed:18458160, PubMed:25961457). Inhibits the formation of lamellipodia but not of filopodia; this function may depend on the competitive interaction with BAIAP2 to block its association with activated RAC1. Inhibits fibronectin-mediated cell spreading; this function is partially mediated by BAIAP2 (PubMed:19171758). In the nucleus, is involved in beta-catenin-dependent activation of transcription (PubMed:16968744). During cell division, may regulate DAAM1-dependent RHOA activation that signals centrosome maturation and chromosomal segregation. May also be involved in contractile ring formation during cytokinesis (By similarity). Potential tumor suppressor for renal cell carcinoma (Probable).
+Subcellular Location	Cytoplasm; Cell cortex; Cell projection; Ruffle membrane; Cytoplasm; Nucleus; Cytoplasm; Nucleus; Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	65..68;979..992
+UniprotNESRegion	125..134;43..52;613..622
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METRRRLEQERATMQMTPGEFRRPRLASFGGMGTTSSLPSFVGSGNHNPAKHQLQNGYQGNGDYGSYAPAAPTTSSMGSSIRHSPLSSGISTPVTNVSPMHLQHIREQMAIALKRLKELEEQVRTIPVLQVKISVLQEEKRQLVSQLKNQRAASQINVCGVRKRSYSAGNASQLEQLSRARRSGGELYIDYEEEEMETVEQSTQRIKEFRQLTADMQALEQKIQDSSCEASSELRENGECRSVAVGAEENMNDIVVYHRGSRSCKDAAVGTLVEMRNCGVSVTEAMLGVMTEADKEIELQQQTIESLKEKIYRLEVQLRETTHDREMTKLKQELQAAGSRKKVDKATMAQPLVFSKVVEAVVQTRDQMVGSHMDLVDTCVGTSVETNSVGISCQPECKNKVVGPELPMNWWIVKERVEMHDRCAGRSVEMCDKSVSVEVSVCETGSNTEESVNDLTLLKTNLNLKEVRSIGCGDCSVDVTVCSPKECASRGVNTEAVSQVEAAVMAVPRTADQDTSTDLEQVHQFTNTETATLIESCTNTCLSTLDKQTSTQTVETRTVAVGEGRVKDINSSTKTRSIGVGTLLSGHSGFDRPSAVKTKESGVGQININDNYLVGLKMRTIACGPPQLTVGLTASRRSVGVGDDPVGESLENPQPQAPLGMMTGLDHYIERIQKLLAEQQTLLAENYSELAEAFGEPHSQMGSLNSQLISTLSSINSVMKSASTEELRNPDFQKTSLGKITGNYLGYTCKCGGLQSGSPLSSQTSQPEQEVGTSEGKPISSLDAFPTQEGTLSPVNLTDDQIAAGLYACTNNESTLKSIMKKKDGNKDSNGAKKNLQFVGINGGYETTSSDDSSSDESSSSESDDECDVIEYPLEEEEEEEDEDTRGMAEGHHAVNIEGLKSARVEDEMQVQECEPEKVEIRERYELSEKMLSACNLLKNTINDPKALTSKDMRFCLNTLQHEWFRVSSQKSAIPAMVGDYIAAFEAISPDVLRYVINLADGNGNTALHYSVSHSNFEIVKLLLDADVCNVDHQNKAGYTPIMLAALAAVEAEKDMRIVEELFGCGDVNAKASQAGQTALMLAVSHGRIDMVKGLLACGADVNIQDDEGSTALMCASEHGHVEIVKLLLAQPGCNGHLEDNDGSTALSIALEAGHKDIAVLLYAHVNFAKAQSPGTPRLGRKTSPGPTHRGSFD
+PTM	Glycosylation:8;Methylation:47,54,59,272,617,623,775,892,975,979,1088,1097,1179,1284;Phosphorylation:20,70,88,116,119,127,128,144,175,186,192,193,194,195,198,202,242,312,323,324,325,330,341,371,385,714,879,881,882,1231,1331,1334,1341,1342,1346,1350

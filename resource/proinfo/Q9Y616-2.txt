@@ -1,0 +1,25 @@
+UniprotID	Q9Y616-2
+Accession	Q9Y616;B4DQ57
+EntryName	IRAK3_HUMAN
+ProteinName	Interleukin-1 receptor-associated kinase 3 (IRAK-3) (IL-1 receptor-associated kinase M) (IRAK-M) (Inactive IL-1 receptor-associated kinase 3)
+GeneName	IRAK3
+Length	535
+Function	Putative inactive protein kinase which regulates signaling downstream of immune receptors including IL1R and Toll-like receptors (PubMed:10383454, PubMed:29686383). Inhibits dissociation of IRAK1 and IRAK4 from the Toll-like receptor signaling complex by either inhibiting the phosphorylation of IRAK1 and IRAK4 or stabilizing the receptor complex (By similarity). Upon IL33-induced lung inflammation, positively regulates expression of IL6, CSF3, CXCL2 and CCL5 mRNAs in dendritic cells (PubMed:29686383).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGNCGARGALSAHTLLFDLPPALLGELCAVLDSCDGALGWRGLGAVLSPSEKSYQEGGFPNILFKETANVTVDNVLIPEHNEKGILLKSSISFQNIIEGTRNFHKDFLIGEGEIFEVYRVEIQNLTYAVKLFKQEKKMQCKKHWKRFLSELEVLLLFHHPNILELAAYFTETEKFCLIYPYMRNGTLFDRLQCVGDTAPLPWHIRIGILIGISKAIHYLHNVQPCSVICGSISSANILLDDQFQPKLTDFAMAHFRSHLEHQSCTINMTSSSSKHLWYMPEEYIRQGKLSIKTDVYSFGIVIMEVLTGCRVVLDDPKHIQLRDLLRELMEKRGLDSCLSFLDKKVPPCPRNFSAKLFCLAGRCAATRAKLRPSMDEVLNTLESTQASLYFAEDPPTSLKSFRCPSPLFLENVPSIPVEDDESQNNNLLPSDEGLRIDRMTQKTPFECSQSEVMFLSLDKKPESKRNEEACNMPSSSCEESWFPKYIVPSQDLRPYKVNIDPSSEAPGHSCRSRPVESSCSSKFSWDEYEQYKKE
+PTM	Methylation:127,150,192,461;Phosphorylation:110,116,401,415,467,518;Ubiquitylation:79

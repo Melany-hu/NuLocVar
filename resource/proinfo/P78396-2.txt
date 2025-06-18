@@ -1,0 +1,25 @@
+UniprotID	P78396-2
+Accession	P78396;B7Z7E3;Q5T3V0;Q5U0G2;Q8IY91
+EntryName	CCNA1_HUMAN
+ProteinName	Cyclin-A1
+GeneName	CCNA1
+Length	464
+Function	May be involved in the control of the cell cycle at the G1/S (start) and G2/M (mitosis) transitions. May primarily function in the control of the germline meiotic cell cycle and additionally in the control of mitotic cell cycle in some somatic cells.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METGFPAIMYPGSFIGGWGEEYLSWEGPGLPDFVFQQPVESEAMHCSNPKSGVVLATVARGPDACQILTRAPLGQDPPQRTVLGLLTANGQYRRTCGQGITRIRCYSGSENAFPPAGKKALPDCGVQEPPKQGFDIYMDELEQGDRDSCSVREGMAFEDVYEVDTGTLKSDLHFLLDFNTVSPMLVDSSLLSQSEDISSLGTDVINVTEYAEEIYQYLREAEIRHRPKAHYMKKQPDITEGMRTILVDWLVEVGEEYKLRAETLYLAVNFLDRFLSCMSVLRGKLQLVGTAAMLLASKYEEIYPPEVDEFVYITDDTYTKRQLLKMEHLLLKVLAFDLTVPTTNQFLLQYLRRQGVCVRTENLAKYVAELSLLEADPFLKYLPSLIAAAAFCLANYTVNKHFWPETLAAFTGYSLSEIVPCLSELHKAYLDIPHRPQQAIREKYKASKYLCVSLMEPPAVLLLQ
+PTM	Methylation:170,326,333,366;Phosphorylation:58,351

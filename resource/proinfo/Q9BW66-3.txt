@@ -1,0 +1,25 @@
+UniprotID	Q9BW66-3
+Accession	Q9BW66;F5H7P3;F5H8A7;Q9NPF9
+EntryName	CINP_HUMAN
+ProteinName	Cyclin-dependent kinase 2-interacting protein (CDK2-interacting protein)
+GeneName	CINP
+Length	227
+Function	Component of the DNA replication complex, which interacts with two kinases, CDK2 and CDC7, thereby providing a functional and physical link between CDK2 and CDC7 during firing of the origins of replication (PubMed:16082200, PubMed:19889979). Regulates ATR-mediated checkpoint signaling in response to DNA damage (PubMed:16082200, PubMed:19889979). Part of the 55LCC heterohexameric ATPase complex which is chromatin-associated and promotes replisome proteostasis to maintain replication fork progression and genome stability. Required for replication fork progression, sister chromatid cohesion, and chromosome stability. The ATPase activity is specifically enhanced by replication fork DNA and is coupled to cysteine protease-dependent cleavage of replisome substrates in response to replication fork damage. Uses ATPase activity to process replisome substrates in S-phase, facilitating their proteolytic turnover from chromatin to ensure DNA replication and mitotic fidelity (PubMed:38554706). As part of 55LCC complex, also involved in the cytoplasmic maturation steps of pre-60S ribosomal particles by promoting the release of shuttling protein RSL24D1/RLP24 from the pre-ribosomal particles (PubMed:35354024).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGTIYANECQQIRHPNSKTLGTVTPRKPVLSVSARKIKDNAADWHNLILKWETLNDAGFTTANNIANLKISLLNKDKIELDSSSPASKENEEKVCLEYNEELEKLCEELQATLDGLTKIQVKMEKLSSTTKGICELENYHYGEESKRPPLFHTWPTTHFYEVSHKLLEMYRKELLLKRTVAKELAHTGDPDLTLSYLSMWLHQPYVESDSRLHLESMLLETGHRAL
+PTM	Methylation:36,55,61,90,163;Phosphorylation:10,57,68,69,70,173,202,207;SUMOylation:4,13,24,36,63,108,117,132;Ubiquitylation:74

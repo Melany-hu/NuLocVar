@@ -1,0 +1,25 @@
+UniprotID	H0Y9B9
+Accession	H0Y9B9
+EntryName	H0Y9B9_HUMAN
+ProteinName	Natriuretic peptide receptor 3
+GeneName	NPR3
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEMMLALFRHHHWSRAALVYSDDKLERNCYFTLEGVHEVFQEEGLHTSIYSFDETKDLDLEDIVRNIQASERVLGLICWNPSGRKFSS
+PTM	

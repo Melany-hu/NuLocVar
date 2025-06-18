@@ -1,0 +1,25 @@
+UniprotID	Q5JRX3-3
+Accession	Q5JRX3;B3KMJ6;B4E0J8;C9JSL2;E7ES23;O95204;Q2M2G6;Q4VBR1;Q5JRW7;Q7L5Z7;Q9BSI6;Q9BVJ5;Q9UPP8
+EntryName	PREP_HUMAN
+ProteinName	Presequence protease, mitochondrial (hPreP) (EC 3.4.24.-) (Pitrilysin metalloproteinase 1) (Metalloprotease 1) (hMP1)
+GeneName	PITRM1 KIAA1104 MP1 PREP
+Length	939
+Function	Metalloendopeptidase of the mitochondrial matrix that functions in peptide cleavage and degradation rather than in protein processing (PubMed:10360838, PubMed:16849325, PubMed:19196155, PubMed:24931469). Has an ATP-independent activity (PubMed:16849325). Specifically cleaves peptides in the range of 5 to 65 residues (PubMed:19196155). Shows a preference for cleavage after small polar residues and before basic residues, but without any positional preference (PubMed:10360838, PubMed:19196155, PubMed:24931469). Degrades the transit peptides of mitochondrial proteins after their cleavage (PubMed:19196155). Also degrades other unstructured peptides (PubMed:19196155). It is also able to degrade amyloid-beta protein 40, one of the peptides produced by APP processing, when it accumulates in mitochondrion (PubMed:16849325, PubMed:24931469, PubMed:26697887). It is a highly efficient protease, at least toward amyloid-beta protein 40 (PubMed:24931469, PubMed:29383861, PubMed:29764912). Cleaves that peptide at a specific position and is probably not processive, releasing digested peptides intermediates that can be further cleaved subsequently (PubMed:24931469). It is also able to degrade amyloid-beta protein 42 (PubMed:29764912).
+Subcellular Location	Mitochondrion; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRNVALRRAAGPVCAEAAERRVTSVPELFLTAVKLTHDDTGARYLHLAREDTNNLFSVQFRTTPMDSTGVPHILEHTVLCGSQKYPCRDPFFKMLNRSLSTFMNAFTASDYTLYPFSTQNPKDFQNLLSVYLDATFFPCLRELDFWQEGWRLEHENPSDPQTPLVFKGVVFNEMKGAFTDNERIFSQHLQNRLLPDHTYSVVSGGDPLCIPELTWEQLKQFHATHYHPSNARFFTYGNFPLEQHLKQIHEEALSKFQKIEPSTVVPAQTPWDKPREFQITCGPDSFATDPSKQTTISVSFLLPDITDTFEAFTLSLLSSLLTSGPNSPFYKALIESGLGTDFSPDVGYNGYTREAYFSVGLQGIAEKDIETVRSLIDRTIDEVVEKGFEDDRIEALLHKIEIQMKHQSTSFGLMLTSYIASCWNHDGDPVELLKLGNQLAKFRQCLQENPKFLQEKVKQYFKNNQHKLTLSMRPDDKYHEKQAQVEATKLKQKVEALSPGDRQQIYEKGLELRSQQSKPQDASCLPALKVSDIEPTIPVTELDVVLTAGDIPVQYCAQPTNGMVYFRAFSSLNTLPEELRPYVPLFCSVLTNPCFEEEEHFKVLVKMTAQELANGIPDSGHLYASIRAGRTLTPAGDLQETFSGMDQVRLMKRIAEMTDIKPILRKLPRIKKHLLNGDNMRCSVNATPQQMPQTEKAVEDFLRSIGRSKKERRPVRPHTVEKPVPSSSGGDAHVPHGSQVIRKLVMEPTFKPWQMKTHFLMPFPVNYVGECIRTVPYTDPDHASLKILARLMTAKFLHTEIREKGGAYGGGAKLSHNGIFTLYSYRDPNTIETLQSFGKAVDWAKSGKFTQQDIDEAKLSVFSTVDAPVAPSDKGMDHFLYGLSDEMKQAHREQLFAVSHDKLLAVSDRYLGTGKSTHGLAILGPENPKIAKDPSWIIQ
+PTM	Acetylation:41,125,278,305,473,483,513,759,770,849,884,893,911,946,1000,1027;Methylation:66,251,418,424,466,473,488,642,704,759,764,841,911;Phosphorylation:56,63,530,922,1011;SUMOylation:759,943;Ubiquitylation:207,290,473,488,521,540

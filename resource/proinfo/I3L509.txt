@@ -1,0 +1,25 @@
+UniprotID	I3L509
+Accession	I3L509
+EntryName	I3L509_HUMAN
+ProteinName	XIAP associated factor 1
+GeneName	XAF1
+Length	145
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEGDFSVCRNCKRHVVSANFTLHEAYCLRFLVLCPECEEPVPKETMEEHCKLEHQQANECQERPVECKFCKLDMQLSKLELHESYCGSRTELCQGCGQFIMHRMLAQHRDVCRSEQAQLGKETSPDPGKCLSITVAAALSAHLWP
+PTM	

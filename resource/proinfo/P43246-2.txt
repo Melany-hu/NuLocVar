@@ -1,0 +1,25 @@
+UniprotID	P43246-2
+Accession	P43246;B4E2Z2;O75488
+EntryName	MSH2_HUMAN
+ProteinName	DNA mismatch repair protein Msh2 (hMSH2) (MutS protein homolog 2)
+GeneName	MSH2
+Length	868
+Function	Component of the post-replicative DNA mismatch repair system (MMR). Forms two different heterodimers: MutS alpha (MSH2-MSH6 heterodimer) and MutS beta (MSH2-MSH3 heterodimer) which binds to DNA mismatches thereby initiating DNA repair. When bound, heterodimers bend the DNA helix and shields approximately 20 base pairs. MutS alpha recognizes single base mismatches and dinucleotide insertion-deletion loops (IDL) in the DNA. MutS beta recognizes larger insertion-deletion loops up to 13 nucleotides long. After mismatch binding, MutS alpha or beta forms a ternary complex with the MutL alpha heterodimer, which is thought to be responsible for directing the downstream MMR events, including strand discrimination, excision, and resynthesis. Recruits DNA helicase MCM9 to chromatin which unwinds the mismatch containing DNA strand (PubMed:26300262). ATP binding and hydrolysis play a pivotal role in mismatch repair functions. The ATPase activity associated with MutS alpha regulates binding similar to a molecular switch: mismatched DNA provokes ADP-->ATP exchange, resulting in a discernible conformational transition that converts MutS alpha into a sliding clamp capable of hydrolysis-independent diffusion along the DNA backbone. This transition is crucial for mismatch repair. MutS alpha may also play a role in DNA homologous recombination repair. In melanocytes may modulate both UV-B-induced cell cycle regulation and apoptosis.
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPAGAKNLQSVVLSKMNFESFVKDLLLVRQYRVEVYKNRAGNKASKENDWYLAYKASPGNLSQFEDILFGNNDMSASIGVVGVKMSAVDGQRQVGVGYVDSIQRKLGLCEFPDNDQFSNLEALLIQIGPKECVLPGGETAGDMGKLRQIIQRGGILITERKKADFSTKDIYQDLNRLLKGKKGEQMNSAVLPEMENQVAVSSLSAVIKFLELLSDDSNFGQFELTTFDFSQYMKLDIAAVRALNLFQGSVEDTTGSQSLAALLNKCKTPQGQRLVNQWIKQPLMDKNRIEERLNLVEAFVEDAELRQTLQEDLLRRFPDLNRLAKKFQRQAANLQDCYRLYQGINQLPNVIQALEKHEGKHQKLLLAVFVTPLTDLRSDFSKFQEMIETTLDMDQVENHEFLVKPSFDPNLSELREIMNDLEKKMQSTLISAARDLGLDPGKQIKLDSSAQFGYYFRVTCKEEKVLRNNKNFSTVDIQKNGVKFTNSKLTSLNEEYTKNKTEYEEAQDAIVKEIVNISSGYVEPMQTLNDVLAQLDAVVSFAHVSNGAPVPYVRPAILEKGQGRIILKASRHACVEVQDEIAFIPNDVYFEKDKQMFHIITGPNMGGKSTYIRQTGVIVLMAQIGCFVPCESAEVSIVDCILARVGAGDSQLKGVSTFMAEMLETASILRSATKDSLIIIDELGRGTSTYDGFGLAWAISEYIATKIGAFCMFATHFHELTALANQIPTVNNLHVTALTTEETLTMLYQVKKGVCDQSFGIHVAELANFPKHVIECAKQKALELEEFQYIGESQGYDIMEPAAKKCYLEREQGEKIIQEFLSKVKQMPFTEMSEENITIKLKQLKAEVIAKNNSFVNEIISRIKVTT
+PTM	Acetylation:29,65,73,113,235,491,531,546,555,565,845,890;Methylation:65,73,90,110,151,275,332,423,490,546,550,579,627,635,675,871,907,918;Phosphorylation:124,129,165,225,445,743,860,900,905,921;SUMOylation:6,65,73,82,110,113,212,235,249,347,393,430,491,509,537,555,567,661,838,845,872,890,912;Ubiquitylation:29,59,65,73,90,113,172,212,235,249,332,334,347,491,509,537,546,555,565,567,627,635,720,741,845,871,882,890,892,912,918

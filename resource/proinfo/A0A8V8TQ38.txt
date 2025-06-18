@@ -1,0 +1,25 @@
+UniprotID	A0A8V8TQ38
+Accession	A0A8V8TQ38
+EntryName	A0A8V8TQ38_HUMAN
+ProteinName	Conserved oligomeric Golgi complex subunit 4 (Component of oligomeric Golgi complex 4)
+GeneName	COG4
+Length	263
+Function	
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VYERLCGEEKVVERELDALLEQQNTIESKMVTLHRMGPNLQLIEGDAKQLAGMITFTCNLAENVSSKVRQLDLAKNRLYQAIQRADDILDLKFCMDGVQTALRSEDYEQAAAHTHRYLCLDKSVIELSRQGKEGSMIDANLKLLQEAEQRLKAIVAEKFAIATKEGDLPQVERFFKIFPLLGLHEEGLRKFSEYLCKQVASKAEENLLMVLGTDMSDRRAAVIFADTLTLLFEGIARIVETHQPIVETYYGPGRLYTLIKYLQ
+PTM	

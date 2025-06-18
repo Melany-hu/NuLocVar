@@ -1,0 +1,25 @@
+UniprotID	Q9C026-5
+Accession	Q9C026;D3DSB7;D3DSB8;Q92557;Q96D24;Q96NI4;Q9C025;Q9C027
+EntryName	TRIM9_HUMAN
+ProteinName	E3 ubiquitin-protein ligase TRIM9 (EC 2.3.2.27) (RING finger protein 91) (RING-type E3 ubiquitin transferase TRIM9) (Tripartite motif-containing protein 9)
+GeneName	TRIM9 KIAA0282 RNF91
+Length	550
+Function	E3 ubiquitin-protein ligase which ubiquitinates itself in cooperation with an E2 enzyme UBE2D2/UBC4 and serves as a targeting signal for proteasomal degradation. May play a role in regulation of neuronal functions and may also participate in the formation or breakdown of abnormal inclusions in neurodegenerative disorders. May act as a regulator of synaptic vesicle exocytosis by controlling the availability of SNAP25 for the SNARE complex formation.
+Subcellular Location	Cytoplasm; Cell projection; Dendrite; Cytoplasmic vesicle; Secretory vesicle; Synaptic vesicle; Synapse; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEMEEELKCPVCGSFYREPIILPCSHNLCQACARNILVQTPESESPQSHRAAGSGVSDYDYLDLDKMSLYSEADSGYGSYGGFASAPTTPCQKSPNGVRVFPPAMPPPATHLSPALAPVPRNSCITCPQCHRSLILDDRGLRGFPKNRVLEGVIDRYQQSKAAALKCQLCEKAPKEATVMCEQCDVFYCDPCRLRCHPPRGPLAKHRLVPPAQGRVSRRLSPRKVSTCTDHELENHSMYCVQCKMPVCYQCLEEGKHSSHEVKALGAMWKLHKSQLSQALNGLSDRAKEAKEFLVQLRNMVQQIQENSVEFEACLVAQCDALIDALNRRKAQLLARVNKEHEHKLKVVRDQISHCTVKLRQTTGLMEYCLEVIKENDPSGFLQISDALIRRVHLTEDQWGKGTLTPRMTTDFDLSLDNSPLLQSIHQLDFVQVKASSPVPATPILQLEECCTHNNSATLSWKQPPLSTVPADGYILELDDGNGGQFREVYVGKETMCTVDGLHFNSTYNARVKAFNKTGVSPYSKTLVLQTSEGKALQQYPSERELRGI
+PTM	Methylation:9,67,167,245,257,375,571;Phosphorylation:41,44,46,49,357,406

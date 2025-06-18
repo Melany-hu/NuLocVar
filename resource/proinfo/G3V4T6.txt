@@ -1,0 +1,25 @@
+UniprotID	G3V4T6
+Accession	G3V4T6
+EntryName	G3V4T6_HUMAN
+ProteinName	maleylacetoacetate isomerase (EC 5.2.1.2)
+GeneName	GSTZ1
+Length	217
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTESGKPILYSYFRSSCSWRVRIALALKGIDYETVPINLIKDGGQQFSKDFQALNPMKQVPTLKIDGITIHQSLAIIEYLEEMRPTPRLLPQDPKKRASVRMISDLIAGGIQPLQNLSVLKQVGEEMQLTWAQNAITCGFNALEQILQSTAGIYCVGDEVTMADLCLVPQVANAERFKVDLTPYPTISSINKRLLVLEAFQVSHPCRQPDTPTELRA
+PTM	

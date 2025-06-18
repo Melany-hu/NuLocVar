@@ -1,0 +1,25 @@
+UniprotID	P08651-3
+Accession	P08651;A8K1H0;B7Z4U5;B7Z9C3;K7EMU1;P08652;Q14932;Q9UPJ3;Q9UPJ9;Q9UPK0;Q9UPK1
+EntryName	NFIC_HUMAN
+ProteinName	Nuclear factor 1 C-type (NF1-C) (Nuclear factor 1/C) (CCAAT-box-binding transcription factor) (CTF) (Nuclear factor I/C) (NF-I/C) (NFI-C) (TGGCA-binding protein)
+GeneName	NFIC NFI
+Length	430
+Function	Recognizes and binds the palindromic sequence 5'-TTGGCNNNNNGCCAA-3' present in viral and cellular promoters and in the origin of replication of adenovirus type 2. These proteins are individually capable of activating transcription and replication.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEFHPFIEALLPHVRAFAYTWFNLQARKRKYFKKHEKRMSKDEERAVKDELLGEKPEVKQKWASRLLAKLRKDIRPECREDFVLSITGKKAPGCVLSNPDQKGKMRRIDCLRQADKVWRLDLVMVILFKGIPLESTDGERLVKAAQCGHPVLCVQPHHIGVAVKELDLYLAYFVRERDAEQSGSPRTGMGSDQEDSKPITLDTTDFQESFVTSGVFSVTELIQVSRTPVVTGTGPNFSLGELQGHLAYDLNPASTGLRRTLPSTSSSGSKRHKSGSMEEDVDTSPGGDYYTSPSSPTSSSRNWTEDMEGGISSPVKKTEMDKSPFNSPSPQDSPRLSSFTQHHRPVIAVHSGIARSPHPSSALHFPTTSILPQTASTYFPHTAIRYPPHLNPQDPLKDLVSLACDPASQQPGPPTLRPTRPLQTVPLWD
+PTM	Acetylation:58,65,71,280;Glycosylation:275;Methylation:58,65,79,139,345;Phosphorylation:3,4,192,194,201,264,270,273,274,275,276,277,279,284,286,293,294,299,300,301,302,304,305,307,310,314,322,323,328,333,337,339,343,348,366,371,469,470,472,473,475,476,477,482,487;SUMOylation:58,65,280;Ubiquitylation:65,71,99,280,332

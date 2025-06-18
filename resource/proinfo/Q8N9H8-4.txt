@@ -1,0 +1,25 @@
+UniprotID	Q8N9H8-4
+Accession	Q8N9H8;A0A140VJP9;B8A4U7;C9JIQ9;E9PN82;Q2TAK4;Q6P1M1;Q8IXT8;Q8N3X4;Q8NHD1;Q96NP1;Q9NX53
+EntryName	MUT7_HUMAN
+ProteinName	Exonuclease mut-7 homolog (EC 3.1.-.-) (Exonuclease 3'-5' domain-containing protein 3)
+GeneName	EXD3 HBE269
+Length	246
+Function	Possesses 3'-5' exoribonuclease activity. Required for 3'-end trimming of AGO1-bound miRNAs (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPGDPAGDPAAGERHRMGRDPLLLLQALQTLWSTRERKQLREEAWRGFAALDDPLAGLLDMLESCRGQRGEGPSLAAWISHQLQCWLQAQPCPSLAQHSLRLKQLQARAVKVLTESPPSLAAPLASIFQLQDADRSCLLAHVHRLHHEGRFREAATLGATLKLQSELGVEKMSIPLLLQDKVALVERYVAGFPDLQRRLLVLMDSWCQPGFDIKDVASCHVTAAGAAASGEERLGLAGAQPSSPE
+PTM	Methylation:163,182,231,235,357,471,712;Phosphorylation:644

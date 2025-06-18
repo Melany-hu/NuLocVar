@@ -1,0 +1,25 @@
+UniprotID	R4GMM1
+Accession	R4GMM1
+EntryName	R4GMM1_HUMAN
+ProteinName	MICOS10-NBL1 readthrough
+GeneName	MICOS10-NBL1
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKWDRCLADAVVKIEMGFHHVAQAGLELRVQTIHLPWPPNVPGLQA
+PTM	

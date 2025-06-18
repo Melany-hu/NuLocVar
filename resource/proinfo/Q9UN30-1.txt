@@ -1,0 +1,25 @@
+UniprotID	Q9UN30-1
+Accession	Q9UN30;B0FZN6;B2RA08;Q5H968;Q5H969
+EntryName	SCML1_HUMAN
+ProteinName	Sex comb on midleg-like protein 1
+GeneName	SCML1
+Length	208
+Function	Putative Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. May be involved in spermatogenesis during sexual maturation (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKKNEVYETFSYPESYSPTLPVSRRENNSPSNLPRPSFCMEEYQRAELEEDPILSRTPSPVHPSDFSEHNCQPYYASDGATYGSSSGLCLGNPRADSIHNTYSTDHASAAPPSVTRSPVENDGYIEEGSITKHPSTWSVEAVVLFLKQTDPLALCPLVDLFRSHEIDGKALLLLTSDVLLKHLGVKLGTAVKLCYYIDRLKQGKCFEN
+PTM	Methylation:13,56,77,302,307;Phosphorylation:137,138,150,152,176,234,238,259,297;SUMOylation:33,124,290,307

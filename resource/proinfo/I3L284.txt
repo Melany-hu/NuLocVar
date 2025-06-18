@@ -1,0 +1,25 @@
+UniprotID	I3L284
+Accession	I3L284
+EntryName	I3L284_HUMAN
+ProteinName	Ring finger and WD repeat domain 3
+GeneName	RFWD3
+Length	24
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEEEGDTCTICLEQWTNAGDHRL
+PTM	

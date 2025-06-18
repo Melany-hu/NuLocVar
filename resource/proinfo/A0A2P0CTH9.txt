@@ -1,0 +1,25 @@
+UniprotID	A0A2P0CTH9
+Accession	A0A2P0CTH9
+EntryName	A0A2P0CTH9_HUMAN
+ProteinName	Prostamide/prostaglandin F synthase (EC 1.11.1.20) (Peroxiredoxin-like 2B)
+GeneName	PRXL2B
+Length	161
+Function	Catalyzes the reduction of prostaglandin-ethanolamide H(2) (prostamide H(2)) to prostamide F(2alpha) with NADPH as proton donor. Also able to reduce prostaglandin H(2) to prostaglandin F(2alpha).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTVDLARVGACILKHAVTGEAVELRSLWREHACVVAGLRRFGCVVCRWIAQDLSSLAGLLDQHGVRLVGVGPEALGLQEFLDGDYFAGELYLDESKQLYKELGFKRYNSLSILPAALGKPVRDVAAKSPGDYVPKEHILQVLGISAEVCASDPPQCDREV
+PTM	

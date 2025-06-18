@@ -1,0 +1,25 @@
+UniprotID	Q9Y6M4-6
+Accession	Q9Y6M4;A8K040;B4DSH2;B7Z9Q4;E7EVD0;Q86WZ7;Q9Y6M3
+EntryName	KC1G3_HUMAN
+ProteinName	Casein kinase I isoform gamma-3 (CKI-gamma 3) (EC 2.7.11.1)
+GeneName	CSNK1G3
+Length	311
+Function	Serine/threonine-protein kinase. Casein kinases are operationally defined by their preferential utilization of acidic proteins such as caseins as substrates. It can phosphorylate a large number of proteins. Participates in Wnt signaling. Regulates fast synaptic transmission mediated by glutamate (By similarity).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLELLGPSLEDLFDLCDRTFSLKTVLMIAIQLISRMEYVHSKNLIYRDVKPENFLIGRPGNKTQQVIHIIDFGLAKEYIDPETKKHIPYREHKSLTGTARYMSINTHLGKEQSRRDDLEALGHMFMYFLRGSLPWQGLKADTLKERYQKIGDTKRATPIEVLCENFPEEMATYLRYVRRLDFFEKPDYDYLRKLFTDLFDRKGYMFDYEYDWIGKQLPTPVGAVQQDPALSSNREAHQHRDKMQQSKNQVVSSTNGELNTDDPTAGRSNAPITAPTEVEVMDETNCQKVLNMWCCCFFKRRKRKTIQRHK
+PTM	Acetylation:48;Methylation:77,91,137,258;Phosphorylation:29,31,32,33,34,68,87,90,95,103,215,256,332,344,345,392,399,413,421;SUMOylation:164,253,430;Ubiquitylation:48,61,91,164,176,198,253,263,430,436

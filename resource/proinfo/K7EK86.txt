@@ -1,0 +1,25 @@
+UniprotID	K7EK86
+Accession	K7EK86
+EntryName	K7EK86_HUMAN
+ProteinName	Rho GTPase activating protein 44
+GeneName	ARHGAP44
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGSSQGTACAGTQPGAQPGAQPGASPSPSQPPADQSPHTLRKVSKKLAPIPPKVPFGQPGAMADQSAGQPSPVSLSPTPPSTPSPYGLSYPQGYSLASGQLSPAAAPPLASPSVFTSTLSKSRPTPKPRQRPTLPPPQPPTVNLSASSPQSTEAPMLDGMSPGESMSTGNQATGSLTFFYEL
+PTM	

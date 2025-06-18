@@ -1,0 +1,25 @@
+UniprotID	F8VNV1
+Accession	F8VNV1
+EntryName	F8VNV1_HUMAN
+ProteinName	La ribonucleoprotein 4
+GeneName	LARP4
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDGMLAIQACPTPQQVASKGTGLNPNAKVWQEIAPGNTDATPVTHGTESSWHEIAATSGAHPEGNAELSEDICKEYEVMYSSSCETTRNTTGIEESTDGMILGPEDLSYQIYDVS
+PTM	

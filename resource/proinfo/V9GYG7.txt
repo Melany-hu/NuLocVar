@@ -1,0 +1,25 @@
+UniprotID	V9GYG7
+Accession	V9GYG7
+EntryName	V9GYG7_HUMAN
+ProteinName	Chloride voltage-gated channel 5
+GeneName	CLCN5
+Length	64
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMWQGAMDNRGFQQGSFSSFQNSSSDEDLMDIPATAMDFSMRDDVPPLDREVGGIIIGDDNLS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8WX92-2
+Accession	Q8WX92;A0A0X1KG71;A2BFA3;Q96EW5;Q9H9R4;Q9ULN8;Q9Y3W0
+EntryName	NELFB_HUMAN
+ProteinName	Negative elongation factor B (NELF-B) (Cofactor of BRCA1)
+GeneName	NELFB COBRA1 KIAA1182
+Length	628
+Function	Essential component of the NELF complex, a complex that negatively regulates the elongation of transcription by RNA polymerase II (PubMed:12612062). The NELF complex, which acts via an association with the DSIF complex and causes transcriptional pausing, is counteracted by the P-TEFb kinase complex (PubMed:10199401). May be able to induce chromatin unfolding (PubMed:11739404). Essential for early embryogenesis; plays an important role in maintaining the undifferentiated state of embryonic stem cells (ESCs) by preventing unscheduled expression of developmental genes (By similarity). Plays a key role in establishing the responsiveness of stem cells to developmental cues; facilitates plasticity and cell fate commitment in ESCs by establishing the appropriate expression level of signaling molecules (By similarity). Supports the transcription of genes involved in energy metabolism in cardiomyocytes; facilitates the association of transcription initiation factors with the promoters of the metabolism-related genes (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	173...178
+validnes_region	
+nesbase_region	
+Sequence	MAELEGAGERGSGGPRGPAERASGVSAAAPGERAGDGAPSRAVAGASAMFAGLQDLGVANGEDLKETLTNCTEPLKAIEQFQTENGVLLPSLQSALPFLDLHGTPRLEFHQSVFDELRDKLLERVSAIASEGKAEERYKKLEDLLEKSFSLVKMPSLQPVVMCVMKHLPKVPEKKLKLVMADKELYRACAVEVKRQIWQDNQALFGDEVSPLLKQYILEKESALFSTELSVLHNFFSPSPKTRRQGEVVQRLTRMVGKNVKLYDMVLQFLRTLFLRTRNVHYCTLRAELLMSLHDLDVGEICTVDPCHKFTWCLDACIRERFVDSKRARELQGFLDGVKKGQEQVLGDLSMILCDPFAINTLALSTVRHLQELVGQETLPRDSPDLLLLLRLLALGQGAWDMIDSQVFKEPKMEVELITRFLPMLMSFLVDDYTFNVDQKLPAEEKAPVSYPNTLPESFTKFLQEQRMACEVGLYYVLHITKQRNKNALLRLLPGLVETFGDLAFGDIFLHLLTGNLALLADEFALEDFCSSLFDGFFLTASPRKENVHRHALRLLIHLHPRVAPSKLEALQKALEPTGQSGEAVKELYSQLGEKLEQLDHRKPSPAQAAETPALELPLPSVPAPAPL
+PTM	Acetylation:135,146,519;Methylation:17,99,146,172,278,291,361,525,547;Phosphorylation:78,82,100,162,335,410,518,557,564,573;SUMOylation:17,85,105,398,547;Ubiquitylation:85,99,135,146,193,278,292,361,398,413,519

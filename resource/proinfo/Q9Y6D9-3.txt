@@ -1,0 +1,25 @@
+UniprotID	Q9Y6D9-3
+Accession	Q9Y6D9;B3KR41;Q13312;Q75MI0;Q86UM4;Q9UNH0
+EntryName	MD1L1_HUMAN
+ProteinName	Mitotic spindle assembly checkpoint protein MAD1 (Mitotic arrest deficient 1-like protein 1) (MAD1-like protein 1) (Mitotic checkpoint MAD1 protein homolog) (HsMAD1) (hMAD1) (Tax-binding protein 181)
+GeneName	MAD1L1 MAD1 TXBP181
+Length	626
+Function	Component of the spindle-assembly checkpoint that prevents the onset of anaphase until all chromosomes are properly aligned at the metaphase plate (PubMed:10049595, PubMed:20133940, PubMed:29162720). Forms a heterotetrameric complex with the closed conformation form of MAD2L1 (C-MAD2) at unattached kinetochores during prometaphase, recruits an open conformation of MAD2L1 (O-MAD2) and promotes the conversion of O-MAD2 to C-MAD2, which ensures mitotic checkpoint signaling (PubMed:29162720).
+Subcellular Location	Nucleus; Chromosome; Centromere; Kinetochore; Nucleus envelope; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Spindle pole; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	79..82
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPARGCVRKRTVWPRLARVLIVTLLTLELSYAPLPCQLSGVPYNTGDPVGRWARPCIWPCPWHTTINALKGRISELQWSVMDQEMRVKRLESEKQELQEQLDLQHKKCQEANQKIQELQASQEARADHEQQIKDLEQKLSLQEQDAAIVKNMKSELVRLPRLERELKQLREESAHLREMRETNGLLQEELEGLQRKLGRQEKMQETLVGLELENERLLAKLQSWERLDQTMGLSIRTPEDLSRFVVELQQRELALKDKNSAVTSSARGLEKARQQLQEELRQVSGQLLEERKKRETHEALARRLQKRVLLLTKERDGMRAILGSYDSELTPAEYSPQLTRRMREAEDMVQKVHSHSAEMEAQLSQALEELGGQKQRADMLEMELKMLKSQSSSAEQSFLFSREEADTLRLKVEELEGERSRLEEEKRMLEAQLERRALQGDYDQSRTKVLHMSLNPTSVARQRLREDHSQLQAECERLRGLLRAMERGGTVPADLEAAAASLPSSKEVAELKKQVESAELKNQRLKEVFQTKIQEFRKACYTLTGYQIDITTENQYRLTSLYAEHPGDCLIFKATSPSGSKMQLLETEFSHTVGELIEVHLRRQDSIPAFLSSLTLELFSRQTVA
+PTM	Acetylation:61,79,143,625;Methylation:163,226,243,295,313,349,406,666;Phosphorylation:12,16,142,214,266,358,417,418,420,423,427,428,432,449,457,490,513,546,551,583,597,598;SUMOylation:61,79,123,143,163,231,246,295,504,541,614;Ubiquitylation:123,163,231,406,478,481,519,599,614,625

@@ -1,0 +1,25 @@
+UniprotID	Q6IC98-2
+Accession	Q6IC98;A9IN51;A9IN57;Q68EN0;Q9UGE6;Q9Y4B9
+EntryName	GRAM4_HUMAN
+ProteinName	GRAM domain-containing protein 4 (Death-inducing protein)
+GeneName	GRAMD4 DIP KIAA0767
+Length	101
+Function	Plays a role as a mediator of E2F1-induced apoptosis in the absence of p53/TP53 (PubMed:15565177). Plays a role as a mediator of E2F1-induced apoptosis in the absence of p53/TP53. Inhibits TLR9 response to nucelic acids and regulates TLR9-mediated innate immune response (By similarity).
+Subcellular Location	Mitochondrion membrane; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPTDYIRNGVLYVTENYLCFESSKSGSSKRNKVIKLVDITDIQKYKVLSVLPGSGMGIAVSTPSTQKPLVFGAMVHRDEAFETILSQYIKITSAAASGGDS
+PTM	Methylation:81,91,127,133,315,322,337,432,521;Phosphorylation:24,28,30,33,390,395,398,416,421,422,502,578;Ubiquitylation:127,521,523

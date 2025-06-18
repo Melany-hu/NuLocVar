@@ -1,0 +1,25 @@
+UniprotID	Q96MH6-2
+Accession	Q96MH6;Q658X6;Q8WUD2
+EntryName	DIESL_HUMAN
+ProteinName	DGAT1/2-independent enzyme synthesizing storage lipids (DIESL) (EC 2.3.1.-) (2-acylglycerol/1,2-diacylglycerol O-acyltransferase) (Monoacylglycerol/Diacylglycerol O-acyltransferase) (MGAT/DGAT) (EC 2.3.1.20, EC 2.3.1.22) (Transmembrane protein 68)
+GeneName	TMEM68
+Length	257
+Function	Catalytic subunit of the alternative triglyceride biosynthesis pathway, which mediates formation of triacylglycerol from diacylglycerol and membrane phospholipids (PubMed:37648867). Synthesizes triacylglycerol at the expense of membrane phospholipids, such as phosphatidylcholine (PC) and its ether-linked form (ePC), thereby altering the composition of membranes (PubMed:37648867). The alternative triglyceride biosynthesis pathway is probably required to provide the energy required for rapid growth when fuel sources are limiting (PubMed:37648867). It maintains mitochondrial function during periods of extracellular lipid starvation (PubMed:37648867). Can also use acyl-CoA as donor: acts as a acyl-CoA:monoacylglycerol acyltransferase (MGAT), but also shows acyl-CoA:diacylglycerol acyltransferase (DGAT) activity (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIDKNQTCGVGQDSVPYMICLIHILEEWFGVEQLEDYLNFANYLLWVFTPLILLILPYFTIFLLYLTIIFLHIYKRKNVLKEAYSHNLWDGARKTVATLWDGHAAVWHGYEVHGMEKIPEDGPALIIFYHGAIPIDFYYFMAKIFIHKGRTCRVVADHFVFKIPGFSLLLDVFCALHGPREKCVEILRSGHLLAISPGGVREALISDETYNIVWGHRRGFAQVAIDAKVTKNAVQALIDKHQRIPGNIMSALLERFH
+PTM	Acetylation:307;Glycosylation:5;Methylation:81,228,296,307;Ubiquitylation:307

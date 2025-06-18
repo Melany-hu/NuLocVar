@@ -1,0 +1,25 @@
+UniprotID	H7C592
+Accession	H7C592
+EntryName	H7C592_HUMAN
+ProteinName	Serine/threonine-protein phosphatase with EF-hands 1
+GeneName	PPEF1
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EKVTLLVLSNFKTTENQAHSTLVETLYRYRSDLEIIFNAIDTDHSGLISVEEFRAMWKLFSSHYNVHIDDSQVNKLANIMDLNKDGSIDFNEFLKAFYVVHRYEDLMKPDVTNLG
+PTM	

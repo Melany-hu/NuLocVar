@@ -1,0 +1,25 @@
+UniprotID	Q5T4U5
+Accession	Q5T4U5
+EntryName	Q5T4U5_HUMAN
+ProteinName	Medium-chain specific acyl-CoA dehydrogenase, mitochondrial (EC 1.3.8.7)
+GeneName	ACADM hCG_22915
+Length	454
+Function	Medium-chain specific acyl-CoA dehydrogenase is one of the acyl-CoA dehydrogenases that catalyze the first step of mitochondrial fatty acid beta-oxidation, an aerobic process breaking down fatty acids into acetyl-CoA and allowing the production of energy from fats. The first step of fatty acid beta-oxidation consists in the removal of one hydrogen from C-2 and C-3 of the straight-chain fatty acyl-CoA thioester, resulting in the formation of trans-2-enoyl-CoA. Electron transfer flavoprotein (ETF) is the electron acceptor that transfers electrons to the main mitochondrial respiratory chain via ETF-ubiquinone oxidoreductase (ETF dehydrogenase). Among the different mitochondrial acyl-CoA dehydrogenases, medium-chain specific acyl-CoA dehydrogenase acts specifically on acyl-CoAs with saturated 6 to 12 carbons long primary chains.
+Subcellular Location	Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGFGRCCRVLRSISRFHWRSQHTKANRQREPGLGFSFEFTEQQKEFQATARKFAREEIIPVAAEYDKTGEYPVPLIRRAWELGLMNTHIPENCDYSVCPLLEACTLYLDAFFLLLTGSNLNLHLNLGGLGLGTFDACLISEELAYGCTGVQTAIEGNSLGQMPIIIAGNDQQKKKYLGRMTEEPLMCAYCVTEPGAGSDVAGIKTKAEKKGDEYIINGQKMWITNGGKANWYFLLARSDPDPKAPANKAFTGFIVEADTPGIQIGRKELNMGQRCSDTRGIVFEDVKVPKENVLIGDGAGFKVAMGAFDKTRPVVAAGAVGLAQRALDEATKYALERKTFGKLLVEHQAISFMLAEMAMKVELARMSYQRAAWEVDSGRRNTYYASIAKAFAGDIANQLATDAVQILGGNGFNTEYPVEKLMRDAKIYQIYEGTSQIQRLIVAREHIDKYKN
+PTM	

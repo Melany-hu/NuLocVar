@@ -1,0 +1,25 @@
+UniprotID	O43709-3
+Accession	O43709;A8K501;C9K060;Q96P12;Q9BQ58;Q9HBP9
+EntryName	BUD23_HUMAN
+ProteinName	18S rRNA (guanine-N(7))-methyltransferase (EC 2.1.1.-) (Bud site selection protein 23 homolog) (Metastasis-related methyltransferase 1) (Williams-Beuren syndrome chromosomal region 22 protein) (rRNA methyltransferase and ribosome maturation factor)
+GeneName	BUD23 MERM1 WBSCR22 HUSSY-03 PP3381
+Length	298
+Function	S-adenosyl-L-methionine-dependent methyltransferase that specifically methylates the N(7) position of a guanine in 18S rRNA (PubMed:25851604). Requires the methyltransferase adapter protein TRM112 for full rRNA methyltransferase activity (PubMed:25851604). Involved in the pre-rRNA processing steps leading to small-subunit rRNA production independently of its RNA-modifying catalytic activity (PubMed:25851604). Important for biogenesis end export of the 40S ribosomal subunit independent on its methyltransferase activity (PubMed:24086612). Locus-specific steroid receptor coactivator. Potentiates transactivation by glucocorticoid (NR3C1), mineralocorticoid (NR3C2), androgen (AR) and progesterone (PGR) receptors (PubMed:24488492). Required for the maintenance of open chromatin at the TSC22D3/GILZ locus to facilitate NR3C1 loading on the response elements (PubMed:24488492). Required for maintenance of dimethylation on histone H3 'Lys-79' (H3K79me2), although direct histone methyltransferase activity is not observed in vitro (PubMed:24488492).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Cytoplasm; Perinuclear region; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRGRRPEHGGPPELFYDETEARKYVRNSRMIDIQTRMAGRALELLYLPENKPCYLLDIGCGTGLSGSYLSDEGHYWVGLDISPAMLDEAVDREIEGDLLLGDMGQGIPFKPGTFDGCISISAVQWLCNANKKSENPAKRLYCFFASLFSVLVRGSRAVLQLYPENSEQLELITTQATKAGFSGGMVVDYPNSAKAKKFYLCLFSGPSTFIPEGLSENQDEVEPRESVFTNEREGGAFERRGIRGHQTRRFPLRMSRRGMVRKSRAWVLEKKERHRRQGREVRPDTQYTGRKRKPRF
+PTM	Acetylation:196;Methylation:180,238,241;Phosphorylation:18,184,191,194, 194,231,240,248,272;SUMOylation:196,255;Ubiquitylation:196,255,256

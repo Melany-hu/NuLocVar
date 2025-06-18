@@ -1,0 +1,25 @@
+UniprotID	O95168-2
+Accession	O95168;B2RUY3;B9EJC7
+EntryName	NDUB4_HUMAN
+ProteinName	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4 (Complex I-B15) (CI-B15) (NADH-ubiquinone oxidoreductase B15 subunit)
+GeneName	NDUFB4
+Length	120
+Function	Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSFPKYKPSSLRTLPETLDPAEYNISPETRRAQAERLAIRAQLKREYLLQYNDPNRRGLIENPALLRWAYARTINVYPNFRPTPKNSLMGALCGFGPLIFIYYIIKTERVSIQTRCLVFE
+PTM	Acetylation:120;Methylation:31,106,123;Phosphorylation:26,47,51;SUMOylation:5,7;Ubiquitylation:5,7,114

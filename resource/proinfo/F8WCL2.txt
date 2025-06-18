@@ -1,0 +1,25 @@
+UniprotID	F8WCL2
+Accession	F8WCL2
+EntryName	F8WCL2_HUMAN
+ProteinName	Aminoacyl tRNA synthetase complex interacting multifunctional protein 2
+GeneName	AIMP2
+Length	48
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMYQVKPYHGGGAPLRVELPTCMYRLPNVHGRSYGPAPGAGHVQPLQ
+PTM	

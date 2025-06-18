@@ -1,0 +1,25 @@
+UniprotID	Q8IYS0-2
+Accession	Q8IYS0;A8K9Y1;A8KA99;Q6AW94;Q6UWN1;Q8N6S0;Q9UF46
+EntryName	ASTRC_HUMAN
+ProteinName	Protein Aster-C (GRAM domain-containing protein 1C)
+GeneName	GRAMD1C UNQ2543/PRO6095
+Length	457
+Function	Cholesterol transporter that mediates non-vesicular transport of cholesterol from the plasma membrane (PM) to the endoplasmic reticulum (ER) (By similarity). Contains unique domains for binding cholesterol and the PM, thereby serving as a molecular bridge for the transfer of cholesterol from the PM to the ER (By similarity). Plays a crucial role in cholesterol homeostasis and has the unique ability to localize to the PM based on the level of membrane cholesterol (By similarity). In lipid-poor conditions localizes to the ER membrane and in response to excess cholesterol in the PM is recruited to the endoplasmic reticulum-plasma membrane contact sites (EPCS) which is mediated by the GRAM domain (By similarity). At the EPCS, the sterol-binding VASt/ASTER domain binds to the cholesterol in the PM and facilitates its transfer from the PM to ER (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MENLSLSIEDVQPRSPGRSSLDDSGERDEKLSKSISFTSESISRVSETESFDGNSSKGGLGKEESQNEKQTKKSLLPTLEKKLTRVPSKSLDLNKNEYLSLDKSSTSDSVDEENVPEKDLHGRLFINRIFHISADRMFELLFTSSRFMQKFASSRNIIDVVSTPWTAELGGDQLRTMTYTIVLNSPLTGKCTAATEKQTLYKESREARFYLVDSEVLTHDVPYHDYFYTVNRYCIIRSSKQKCRLRVSTDLKYRKQPWGLVKSLIEKNSWSSLEDYFKQLESDLLIEESVLNQAIEDPGKLTGLRRRRRTFNRTAETVPKLSSQHSSGDVGLGAKGDITGKKKEMENYNVTLIVVMSIFVLLLVLLNVTLFLKLSKIEHAAQSFYRLRLQEEKSLNLASDMVSRAETIQKNKDQAHRLKGVLRDSIVMLEQLKSSLIMLQKTFDLLNKNKTGMAVES
+PTM	Methylation:127,180,267,286,300,457,467,472,525,615,638;Phosphorylation:133,241,251,293,295,368,371,381,383,384,400,468,507,531;SUMOylation:238

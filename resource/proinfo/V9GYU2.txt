@@ -1,0 +1,25 @@
+UniprotID	V9GYU2
+Accession	V9GYU2
+EntryName	V9GYU2_HUMAN
+ProteinName	Ankyrin repeat domain 54
+GeneName	ANKRD54
+Length	107
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	89...99;91...96;90...100
+nlsdbnls_region	
+validnes_region	89...99
+nesbase_region	
+Sequence	MPMMWKQCSCSWTMVLILTSEMGWGTRHCTWRPAPTTFLSSPHCYEEIIHMLREYLERLGQHEQRERLDDLCTRLQMTSTKEQVDEVTDLLASFTSLSLQMQSMEKR
+PTM	

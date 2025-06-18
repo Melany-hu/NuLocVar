@@ -1,0 +1,25 @@
+UniprotID	Q99259-3
+Accession	Q99259;Q49AK1;Q53TQ7;Q9BU91;Q9UHH4
+EntryName	DCE1_HUMAN
+ProteinName	Glutamate decarboxylase 1 (EC 4.1.1.15) (67 kDa glutamic acid decarboxylase) (GAD-67) (Glutamate decarboxylase 67 kDa isoform)
+GeneName	GAD1 GAD GAD67
+Length	224
+Function	Catalyzes the synthesis of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) with pyridoxal 5'-phosphate as cofactor.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSTPSSSATSSNAGADPNTTNLRPTTYDTWCGVAHGCTRKLGLKICGFLQRTNSLEEKSRLVSAFKERQSSKNLLSCENSDRDARFRRTETDFSNLFARDLLPAKNGEEQTVQFLLEVVDILLNYVRKTFDRSTKVLDFHHPHQLLEGMEGFNLELSDHPESLEQILVDCRDTLKYGVRTGHPRFFNQLSTGLDIIGLAGEWLTSTANTNMPSDMRECWLLR
+PTM	Methylation:60,177,231,312,332,419;Phosphorylation:65;Ubiquitylation:68,74,177

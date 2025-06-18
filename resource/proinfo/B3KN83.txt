@@ -1,0 +1,25 @@
+UniprotID	B3KN83
+Accession	B3KN83
+EntryName	B3KN83_HUMAN
+ProteinName	Protein lin-52 homolog
+GeneName	LIN52 C14orf46 hCG_21722
+Length	112
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPTDGTDLEASLLSFEKLDRASPDLWPEQLPGVAEFAASFKSPITSSPPKWMAEIERDDIDMLKELGSLTTANLMEKVRGLQNLAYQLGLDESREMTRGKFLNILEKPKK
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q5BJD5-3
+Accession	Q5BJD5;D3DQU9;E9PP29;Q15055;Q4G0P0
+EntryName	TM41B_HUMAN
+ProteinName	Transmembrane protein 41B (Protein stasimon)
+GeneName	TMEM41B KIAA0033
+Length	127
+Function	Phospholipid scramblase involved in lipid homeostasis and membrane dynamics processes (PubMed:33850023, PubMed:33929485, PubMed:34015269). Has phospholipid scramblase activity toward cholesterol and phosphatidylserine, as well as phosphatidylethanolamine and phosphatidylcholine (PubMed:33850023, PubMed:33929485, PubMed:34015269). Required for autophagosome formation: participates in early stages of autophagosome biogenesis at the endoplasmic reticulum (ER) membrane by reequilibrating the leaflets of the ER as lipids are extracted by ATG2 (ATG2A or ATG2B) to mediate autophagosome assembly (PubMed:30093494, PubMed:30126924, PubMed:30933966, PubMed:33850023, PubMed:33929485, PubMed:34015269, PubMed:34043740). In addition to autophagy, involved in other processes in which phospholipid scramblase activity is required (PubMed:33850023). Required for normal motor neuron development (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane; Endomembrane system; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAKGRVAERSQLGAHHTTPVGDGAAGTRGLAAPGSRDHQKEKSWVEAGSARMSLLILVSIFLSAAFVMFLVYKNFPQLSEEERVNMKVPRDMDDAKALGKVLSKYKDTFYVQVLVAYFATYILYPFN
+PTM	Methylation:100,182,227;Phosphorylation:10,17,18,35;Ubiquitylation:87,96,100,182,185

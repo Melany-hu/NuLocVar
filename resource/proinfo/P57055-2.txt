@@ -1,0 +1,25 @@
+UniprotID	P57055-2
+Accession	P57055
+EntryName	DSCR6_HUMAN
+ProteinName	Protein ripply3 (Down syndrome critical region protein 6)
+GeneName	RIPPLY3 DSCR6
+Length	106
+Function	Acts as a transcriptional corepressor. Negative regulator of the transcriptional activity of TBX1. Plays a role in the development of the pharyngeal apparatus and derivatives (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSKRQEYLRSSGEQVLASFPVQATIDFYDDESTESASEAEEPEEGPPPLHLLPQEVGGRQENGPGGKGRDQGINQGQRSSGGGDHWGEGPLPQGVSSRGGKCSSSK
+PTM	Methylation:182

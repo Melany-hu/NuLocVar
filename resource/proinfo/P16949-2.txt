@@ -1,0 +1,25 @@
+UniprotID	P16949-2
+Accession	P16949;A2A2D1;B2R4E7;B7Z8N4;D3DPJ5
+EntryName	STMN1_HUMAN
+ProteinName	Stathmin (Leukemia-associated phosphoprotein p18) (Metablastin) (Oncoprotein 18) (Op18) (Phosphoprotein p19) (pp19) (Prosolin) (Protein Pr22) (pp17)
+GeneName	STMN1 C1orf215 LAP18 OP18
+Length	174
+Function	Involved in the regulation of the microtubule (MT) filament system by destabilizing microtubules. Prevents assembly and promotes disassembly of microtubules. Phosphorylation at Ser-16 may be required for axon formation during neurogenesis. Involved in the control of the learned and innate fear (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASSDIQVKELEKRASGQAFELILSPRSKESVPEFPLSPPKKKDLSLEEIQKKLEAAEERRKSHEAEVLKQLAEKREHEKEVLQKAIEENNNFSKMAEEKLTHKMEANKENREAQMAAKLERLREKMYFWTHGPGAHPAQISAEQSCLHSVPALCPALGLQSALITWSDLSHHH
+PTM	Acetylation:9,29,43,52,53,62,70,75,80,95,100,104,119,126,128,140;Methylation:13,14,27,29,41,52,70,75,85,95,109,119,134;Phosphorylation:3,4,16,25,28,31,38,46,63,94,139,146;SUMOylation:9,119;Ubiquitylation:9,29,41,52,53,70,80,85,95,100,104,109,119,128

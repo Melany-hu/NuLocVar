@@ -1,0 +1,25 @@
+UniprotID	Q01638-4
+Accession	Q01638;A8K6B3;B4E0I3;Q53TU7;Q8NEJ3;Q9ULV7;Q9UQ44
+EntryName	ILRL1_HUMAN
+ProteinName	Interleukin-1 receptor-like 1 (EC 3.2.2.6) (Protein ST2)
+GeneName	IL1RL1 DER4 ST2 T1
+Length	211
+Function	Receptor for interleukin-33 (IL-33) which plays crucial roles in innate and adaptive immunity, contributing to tissue homeostasis and responses to environmental stresses together with coreceptor IL1RAP (PubMed:35238669). Its stimulation recruits MYD88, IRAK1, IRAK4, and TRAF6, followed by phosphorylation of MAPK3/ERK1 and/or MAPK1/ERK2, MAPK14, and MAPK8. Possibly involved in helper T-cell function (Probable) (PubMed:16286016). Upon tissue injury, induces UCP2-dependent mitochondrial rewiring that attenuates the generation of reactive oxygen species and preserves the integrity of Krebs cycle required for persistent production of itaconate and subsequent GATA3-dependent differentiation of inflammation-resolving alternatively activated macrophages (By similarity).
+Subcellular Location	Cell membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSTVSGSEKNSKIYCPTIDLYNWTAPLEWFKNCQALQGSRYRAHKSFLVIDNVMTEDAGDYTCKFIHNENGANYSVTATRSFTVKDEQGFSLFPVIGAPAQNEIKEVEIGKNANLTCSACFGKGTQFLAAVLWQLNGTKITDFGEPRIQQEEGQNQSFSNGLACLDMVLRIADVKEEDLLLQYDCLALNLHGLRRHTVRLSRKNPSKECF
+PTM	Methylation:73,223,351,366,412,511;Phosphorylation:43,533,539

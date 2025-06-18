@@ -1,0 +1,25 @@
+UniprotID	Q9NZL9-2
+Accession	Q9NZL9;B2R5Y6;Q1WAI7;Q27J92;Q3LIE8;Q567T7;Q6NYC7;Q9BS89;Q9H3E1;Q9UJ54
+EntryName	MAT2B_HUMAN
+ProteinName	Methionine adenosyltransferase 2 subunit beta (Methionine adenosyltransferase II beta) (MAT II beta) (Putative dTDP-4-keto-6-deoxy-D-glucose 4-reductase)
+GeneName	MAT2B TGR MSTP045 Nbla02999 UNQ2435/PRO4995
+Length	323
+Function	Regulatory subunit of S-adenosylmethionine synthetase 2, an enzyme that catalyzes the formation of S-adenosylmethionine from methionine and ATP. Regulates MAT2A catalytic activity by changing its kinetic properties, increasing its affinity for L-methionine (PubMed:10644686, PubMed:23189196, PubMed:25075345). Can bind NADP (in vitro) (PubMed:23189196, PubMed:23425511).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEMPEDMEQEEVNIPNRRVLVTGATGLLGRAVHKEFQQNNWHAVGCGFRRARPKFEQVNLLDSNAVHHIIHDFQPHVIVHCAAERRPDVVENQPDAASQLNVDASGNLAKEAAAVGAFLIYISSDYVFDGTNPPYREEDIPAPLNLYGKTKLDGEKAVLENNLGAAVLRIPILYGEVEKLEESAVTVMFDKVQFSNKSANMDHWQQRFPTHVKDVATVCRQLAEKRMLDPSIKGTFHWSGNEQMTKYEMACAIADAFNLPSSHLRPITDSPVLGAQRPRNAQLDCSKLETLGIGQRTPFRIGIKESLWPFLIDKRWRQTVFH
+PTM	Acetylation:6,209,299,326;Methylation:29,30,122,191,237;Phosphorylation:9,186,273,274,280,282,302;SUMOylation:66,191;Ubiquitylation:209,225,245,299,316,326

@@ -1,0 +1,25 @@
+UniprotID	O14972-2
+Accession	O14972;B2R6T8;B7Z6B1;D3DSH4;Q2TAY6
+EntryName	VP26C_HUMAN
+ProteinName	Vacuolar protein sorting-associated protein 26C (Down syndrome critical region protein 3) (Down syndrome critical region protein A)
+GeneName	VPS26C DCRA DSCR3 DSCRA
+Length	270
+Function	Acts as a component of the retriever complex. The retriever complex is a heterotrimeric complex related to retromer cargo-selective complex (CSC) and essential for retromer-independent retrieval and recycling of numerous cargos such as integrin alpha-5/beta-1 (ITGA5:ITGB1) (PubMed:28892079). The recruitment of the retriever complex to the endosomal membrane involves CCC and WASH complexes (PubMed:28892079). In the endosomes, drives the retriever and recycling of NxxY-motif-containing cargo proteins by coupling to SNX17, a cargo essential for the homeostatic maintenance of numerous cell surface proteins associated with processes that include cell migration, cell adhesion, nutrient supply and cell signaling (PubMed:28892079).
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTALDIKIKRANKVYHAGEVLSGVVVISSKDSVQHQGVSLTMEGTVNLQLSAKSVGVFEAFYNSVKPIQIINSTIEMVKPGKFPSGKTEIPFEFPLHLKGNKVLYETYHGVFVNIQPQKGKFTPSPVDFTITPETLQNVKERALLPKFLLRGHLNSTNCVITQPLTGELVVESSEAAIRSVELQLVRVETCGCAEGYARDATEIQNIQIADGDVCRGLSVPIYMVFPRLFTCPTLETTNFKVEFEVNIVVLLHPDHLITENFPLKLCRI
+PTM	Methylation:8,131,135,168;SUMOylation:88,149,168;Ubiquitylation:100,131,149,168,175

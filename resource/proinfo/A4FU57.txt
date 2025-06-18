@@ -1,0 +1,25 @@
+UniprotID	A4FU57
+Accession	A4FU57
+EntryName	A4FU57_HUMAN
+ProteinName	KRTAP19-6 protein
+GeneName	KRTAP19-6
+Length	76
+Function	In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high-sulfur and high-glycine-tyrosine keratins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRYYGSYYRGLGYGCGGFGGLGYGCGCGGYRYGSGYGGYRYGCCRPSCREGYGFSGFTKKLADSHTLTPRSCPYAS
+PTM	

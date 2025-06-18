@@ -1,0 +1,25 @@
+UniprotID	Q9HAF1-4
+Accession	Q9HAF1;B1AK64;Q4F967;Q7Z311;Q86WE3
+EntryName	EAF6_HUMAN
+ProteinName	Chromatin modification-related protein MEAF6 (MYST/Esa1-associated factor 6) (Esa1-associated factor 6 homolog) (Protein EAF6 homolog) (hEAF6) (Sarcoma antigen NY-SAR-91)
+GeneName	MEAF6 C1orf149 CENP-28 EAF6
+Length	192
+Function	Component of the NuA4 histone acetyltransferase complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histone H4 and H2A (PubMed:14966270). This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription (PubMed:14966270). Component of HBO1 complexes, which specifically mediate acetylation of histone H3 at 'Lys-14' (H3K14ac), and have reduced activity toward histone H4 (PubMed:16387653, PubMed:24065767). Component of the MOZ/MORF complex which has a histone H3 acetyltransferase activity (PubMed:18794358).
+Subcellular Location	Nucleus; Nucleolus; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	167...172
+validnes_region	
+nesbase_region	
+Sequence	MAMHNKAAPPQIPDTRRELAELVKRKQELAETLANLERQIYAFEGSYLEDTQMYGNIIRGWDRYLTNQKNSNSKNDRRNRKFKEAERLFSKSSVTSAAAVSALAGVQDQLIEKREPGSGTESDTSPDFHNQENEPSQEDPEDLDGSVQGVKPQKAASSTSSGSHHSSHKKRKNKNRHRMNVSPKTGWHQLHL
+PTM	Acetylation:69,74,83,91,113,151,182;Methylation:24,113;Phosphorylation:71,90,118,120,122,124,125,136,146,167;SUMOylation:6,26,69,113,151;Ubiquitylation:24,26,69,91,113

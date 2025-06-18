@@ -1,0 +1,25 @@
+UniprotID	G3V494
+Accession	G3V494
+EntryName	G3V494_HUMAN
+ProteinName	tRNA methyltransferase 5
+GeneName	TRMT5
+Length	152
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQGRYQPAQGCSLPCAAWAQKHREVTHPPRILWRPFGFSGRFLKLESHSITESKSLIPVAWTSLTQMLLEAPGIFLLGQRKRFSTMPETETHERETELFSPPSDVRGMTKLDRTAFKKTVNIPVLKVRKEIVSKLMRSLKRAALQRPGIRR
+PTM	

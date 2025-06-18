@@ -1,0 +1,25 @@
+UniprotID	Q86T03-2
+Accession	Q86T03;B2RA35;Q86U09;Q8WUC0;Q9BU67;Q9NSU8
+EntryName	PP4P1_HUMAN
+ProteinName	Type 1 phosphatidylinositol 4,5-bisphosphate 4-phosphatase (Type 1 PtdIns-4,5-P2 4-Ptase) (EC 3.1.3.78) (PtdIns-4,5-P2 4-Ptase I) (Transmembrane protein 55B)
+GeneName	PIP4P1 C14orf9 TMEM55B
+Length	284
+Function	Catalyzes the hydrolysis of phosphatidylinositol-4,5-bisphosphate (PtdIns-4,5-P2) to phosphatidylinositol-4-phosphate (PtdIns-4-P) (PubMed:16365287). Does not hydrolyze phosphatidylinositol 3,4,5-trisphosphate, phosphatidylinositol 3,4-bisphosphate, inositol 3,5-bisphosphate, inositol 3,4-bisphosphate, phosphatidylinositol 5-monophosphate, phosphatidylinositol 4-monophosphate and phosphatidylinositol 3-monophosphate (PubMed:16365287). Regulates lysosomal positioning by recruiting JIP4 to lysosomal membranes, thus inducing retrograde transport of lysosomes along microtubules (PubMed:29146937). Contributes to assembly of the V-ATPase complex in lipid rafts of the lysosomal membrane and to subsequent amino acid-dependent activation of mTORC1 (PubMed:29644770). May play a role in the regulation of cellular cholesterol metabolism (PubMed:25035345).
+Subcellular Location	Late endosome membrane; Lysosome membrane; Cytoplasmic vesicle; Phagosome membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAADGERSPLLSEPIDGGAGGNGLVGPGGSGAGPGGGLTPSAPPYGAGKHAPPQAFPPFPEGHPAVLPGEDPPPYSPLTSPDSGSAPMITCRVCQSLINVEGKMHQHVVKCGVCNEATPIKNAPPGKKYVRCPCNCLLICKVTSQRIACPRPYCKRIINLGPVHPGPLSPEPQPMGVRVICGHCKNTFLWTEFTDRTLARCPHCRKVSSIGRRYPRKRCICCFLLGLLLAVTATGLAFGTWKHARRYGGIYAAWAFVILLAVLCLGRALYWACMKVSHPVQNFS
+PTM	Phosphorylation:8,146,162;Ubiquitylation:96,103

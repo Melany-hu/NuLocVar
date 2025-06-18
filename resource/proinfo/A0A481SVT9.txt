@@ -1,0 +1,25 @@
+UniprotID	A0A481SVT9
+Accession	A0A481SVT9
+EntryName	A0A481SVT9_HUMAN
+ProteinName	Matrix remodeling associated 7 transcript variant X12
+GeneName	MXRA7
+Length	149
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAPAELLAALPALATALVLLLAWLLVRRGAAASPEPEGSGDPAAAPAEAEEQAVEARQGEEQDLDGEKGPSSEGPEEEDGEGFSFKYSPGKLRGNQYKKMMTKEELEEEQRVQKEQLAAIFKLMKDNKETFGEMSDGDVQEQLRLYDM
+PTM	

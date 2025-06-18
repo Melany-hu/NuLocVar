@@ -1,0 +1,25 @@
+UniprotID	P40189-2
+Accession	P40189;A0N0L4;Q5FC04;Q9UQ41
+EntryName	IL6RB_HUMAN
+ProteinName	Interleukin-6 receptor subunit beta (IL-6 receptor subunit beta) (IL-6R subunit beta) (IL-6R-beta) (IL-6RB) (CDw130) (Interleukin-6 signal transducer) (Membrane glycoprotein 130) (gp130) (Oncostatin-M receptor subunit alpha) (CD antigen CD130)
+GeneName	IL6ST
+Length	329
+Function	Signal-transducing molecule (PubMed:2261637). The receptor systems for IL6, LIF, OSM, CNTF, IL11, CTF1 and BSF3 can utilize IL6ST for initiating signal transmission. Binding of IL6 to IL6R induces IL6ST homodimerization and formation of a high-affinity receptor complex, which activates the intracellular JAK-MAPK and JAK-STAT3 signaling pathways (PubMed:19915009, PubMed:2261637, PubMed:23294003). That causes phosphorylation of IL6ST tyrosine residues which in turn activates STAT3 (PubMed:19915009, PubMed:23294003, PubMed:25731159). In parallel, the IL6 signaling pathway induces the expression of two cytokine receptor signaling inhibitors, SOCS1 and SOCS3, which inhibit JAK and terminate the activity of the IL6 signaling pathway as a negative feedback loop (By similarity). Also activates the yes-associated protein 1 (YAP) and NOTCH pathways to control inflammation-induced epithelial regeneration, independently of STAT3 (By similarity). Acts as a receptor for the neuroprotective peptide humanin as part of a complex with IL27RA/WSX1 and CNTFR (PubMed:19386761). Mediates signals which regulate immune response, hematopoiesis, pain control and bone metabolism (By similarity). Has a role in embryonic development (By similarity). Essential for survival of motor and sensory neurons and for differentiation of astrocytes (By similarity). Required for expression of TRPA1 in nociceptive neurons (By similarity). Required for the maintenance of PTH1R expression in the osteoblast lineage and for the stimulation of PTH-induced osteoblast differentiation (By similarity). Required for normal trabecular bone mass and cortical bone composition (By similarity).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLTLQTWLVQALFIFLTTESTGELLDPCGYISPESPVVQLHSNFTAVCVLKEKCMDYFHVNANYIVWKTNHFTIPKEQYTIINRTASSVTFTDIASLNIQLTCNILTFGQLEQNVYGITIISGLPPEKPKNLSCIVNEGKKMRCEWDGGRETHLETNFTLKSEWATHKFADCKAKRDTPTSCTVDYSTVYFVNIEVWVEAENALGKVTSDHINFDPVYKVKPNPPHNLSVINSEELSSILKLTWTNPSIKSVIILKYNIQYRTKDASTWSQIPPEDTASTRSSFTVQDLKPFTEYVFRIRCMKEDGKGYWSDWSEEASGITYEDNIASF
+PTM	Glycosylation:83,131,157,223,227,379,383,390,553,564;Methylation:51,76,206,241,256,290,515,648,849;Phosphorylation:238,282,283,285,409,415,661,667,670,678,710,767,780,782,783,820,824,825,838,839,872,881,904,905;SUMOylation:219;Ubiquitylation:168,290,701,715,816,903

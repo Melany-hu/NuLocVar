@@ -1,0 +1,25 @@
+UniprotID	A8MPS7-2
+Accession	A8MPS7;Q2YDT4;Q4V9R7
+EntryName	YDJC_HUMAN
+ProteinName	Carbohydrate deacetylase (EC 3.5.1.-)
+GeneName	YDJC
+Length	149
+Function	Probably catalyzes the deacetylation of acetylated carbohydrates an important step in the degradation of oligosaccharides.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRPRMRLVVTADDFGYCPRRDEGIVEAFLAGAVTSVSLLVNGAATESAAELARRHSIPTGLHANLSEGRPVGPARRGASSLLGPEGFFLGKMGFREAVAAGDVDLPQVREELEAQLSCFRELLGRAPTHADGHQHVHVLPGGQTPSWA
+PTM	SUMOylation:92;Ubiquitylation:92,302

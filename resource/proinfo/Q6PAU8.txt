@@ -1,0 +1,25 @@
+UniprotID	Q6PAU8
+Accession	Q6PAU8
+EntryName	Q6PAU8_HUMAN
+ProteinName	SLC2A2 protein (Solute carrier family 2 (Facilitated glucose transporter), member 2, isoform CRA_c) (cDNA FLJ75366, highly similar to Homo sapiens solute carrier family 2 (facilitated glucose transporter), member 2, mRNA)
+GeneName	SLC2A2 hCG_14921
+Length	351
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYIGEIAPTALRGALGTFHQLAIVTGILISQIIGLEFILGNYDLWHILLGLSGVRAILQSLLLFFCPESPRYLYIKLDEEVKAKQSLKRLRGYDDVTKDINEMRKEREEASSEQKVSIIQLFTNSSYRQPILVALMLHVAQQFSGINGIFYYSTSIFQTAGISKPVYATIGVGAVNMVFTAVSVFLVEKAGRRSLFLIGMSGMFVCAIFMSVGLVLLNKFSWMSYVSMIAIFLFVSFFEIGPGPIPWFMVAEFFSQGPRPAALAIAAFSNWTCNFIVALCFQYIADFCGPYVFFLFAGVLLAFTLFTFFKVPETKGKSFEEIAAEFQKKSGSAHRPKAAVEMKFLGATETV
+PTM	

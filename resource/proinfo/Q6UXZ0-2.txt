@@ -1,0 +1,25 @@
+UniprotID	Q6UXZ0-2
+Accession	Q6UXZ0;A8K2K1;Q6ZMC6
+EntryName	TMIG1_HUMAN
+ProteinName	Transmembrane and immunoglobulin domain-containing protein 1
+GeneName	TMIGD1 TMIGD UNQ9372/PRO34164
+Length	218
+Function	May control cell-cell adhesion, cell migration and proliferation, cell morphology, and protects renal epithelial cells from oxidative cell injury to promote cell survival.
+Subcellular Location	Cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAWKSSVIMQMGRFLLLVILFLPREMTSSVLTVNGKTENYILDTTPGSQASLICAVQNHTREEELLWYREEGRVDLKSGNKINSSSVCVSSISENDNGISFTCRLGRDQSVSVSVVLNVTFPPLLSGNDFQTVEEGSNVKLVCNVKANPQAQMMWYKNSSLLDLEKSRHQIQQTSESFQLSITKVEKPDNGTYSCIAKSSLKTESLDFHLIVKALHEG
+PTM	Glycosylation:158,190;Methylation:77,166,213;Phosphorylation:181

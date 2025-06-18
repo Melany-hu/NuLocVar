@@ -1,0 +1,25 @@
+UniprotID	Q9NUL3-6
+Accession	Q9NUL3;A0A0A0MTC5;B7Z1I6;B7Z292;B7Z8B4;E7ER74;E9PEI3;E9PF26;E9PF50;Q6AHY7;Q96HM0;Q96HM1;Q9NVI5;Q9UGG6
+EntryName	STAU2_HUMAN
+ProteinName	Double-stranded RNA-binding protein Staufen homolog 2
+GeneName	STAU2
+Length	398
+Function	RNA-binding protein required for the microtubule-dependent transport of neuronal RNA from the cell body to the dendrite. As protein synthesis occurs within the dendrite, the localization of specific mRNAs to dendrites may be a prerequisite for neurite outgrowth and plasticity at sites distant from the cell body (By similarity).
+Subcellular Location	Cytoplasm; Nucleus; Nucleus; Nucleolus; Endoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	273..291;373..412
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	101...119
+validnes_region	
+nesbase_region	
+Sequence	MKALQALQNEPIPERSPQNGESGKDVDDDKDANKSEISLVFEIALKRNMPVSFEVIKESGPPHMKSFVTRVSVGEFSAEGEGNSKKLSKKRAATTVLQELKKLPPLPVVEKPKLFFKKRPKTIVKAGPEYGQGMNPISRLAQIQQAKKEKEPDYVLLSERGMPRRREFVMQVKVGNEVATGTGPNKKIAKKNAAEAMLLQLGYKASTNLQDQLEKTGENKGWSGPKPGFPEPTNNTPKGILHLSPDVYQEMEASRHKVISGTTLGYLSPKDMNQPSSSFFSISPTSNSSATIARELLMNGTSSTAEAIGLKGSSPTPPCSPVQPSKQLEYLARIQGFQAALSALKQFSEQGLDPIDGAMNIEKGSLEKQAKHLREKADNNQAPPGSIAQDCKKSNSAV
+PTM	Glycosylation:434;Methylation:68,77,107,114,119,131,137,218,229,273,283,387,442,517,535,540;Phosphorylation:37,95,188,194,238,241,256,302,395,405,408,416,420,426,432,434,435,438,440,448,453,455,458,460,474,475,485,486,488,492,497;SUMOylation:297;Ubiquitylation:68,106,174,257,285,297,442,498

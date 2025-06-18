@@ -1,0 +1,25 @@
+UniprotID	Q9Y5T5-2
+Accession	Q9Y5T5;A8MU43;B3KN13;B4DFV8;B4DY37;D3DSD9;Q53GP7;Q53HA0;Q5VKN8;Q8NEL3;Q9H3E6
+EntryName	UBP16_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 16 (EC 3.4.19.12) (Deubiquitinating enzyme 16) (Ubiquitin thioesterase 16) (Ubiquitin-processing protease UBP-M) (Ubiquitin-specific-processing protease 16)
+GeneName	USP16 MSTP039
+Length	822
+Function	Specifically deubiquitinates 'Lys-120' of histone H2A (H2AK119Ub), a specific tag for epigenetic transcriptional repression, thereby acting as a coactivator (PubMed:17914355). Deubiquitination of histone H2A is a prerequisite for subsequent phosphorylation at 'Ser-11' of histone H3 (H3S10ph), and is required for chromosome segregation when cells enter into mitosis (PubMed:17914355). In resting B- and T-lymphocytes, phosphorylation by AURKB leads to enhance its activity, thereby maintaining transcription in resting lymphocytes. Regulates Hox gene expression via histone H2A deubiquitination (PubMed:17914355). Prefers nucleosomal substrates (PubMed:17914355). Does not deubiquitinate histone H2B (PubMed:17914355). Also deubiquitinates non-histone proteins, such as ribosomal protein RPS27A: deubiquitination of monoubiquitinated RPS27A promotes maturation of the 40S ribosomal subunit (PubMed:32129764). Also mediates deubiquitination of tektin proteins (TEKT1, TEKT2, TEK3, TEKT4 and TEKT5), promoting their stability.
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKKRTKGKTVPIDDSSETLEPVCRHIRKGLEQGNLKKALVNVEWNICQDCKTDNKVKDKAEEETEEKPSVWLCLKCGHQGCGRNSQEQHALKHYLTPRSEPHCLVLSLDNWSVWCYVCDNEVQYCSSNQLGQVVDYVRKQASITTPKPEKDNGNIELENKKLEKESKNEQEREKKENMAKENPPMNSPCQITVKGLSNLGNTCFFNAVMQNLSQTPVLRELLKEVKMSGTIVKIEPPDLALTEPLEINLEPPGPLTLAMSQFLNEMQETKKGVVTPKELFSQVCKKAVRFKGYQQQDSQELLRYLLDGMRAEEHQRVSKGILKAFGNSTEKLDEELKNKVKDYEKKKSMPSFVDRIFGGELTSMIMCDQCRTVSLVHESFLDLSLPVLDDQSGKKSVNDKNLKKTVEDEDQDSEEEKDNDSYIKERSDIPSGTSKHLQKKAKKQAKKQAKNQRRQQKIQGKVLHLNDICTIDHPEDSEYEAEMSLQGEVNIKSNHISQEGVMHKEYCVNQKDLNGQAKMIESVTDNQKSTEEVDMKNINMDNDLEVLTSSPTRNLNGAYLTEGSNGEVDISNGFKNLNLNAALHPDEINIEILNDSHTPGTKVYEVVNEDPETAFCTLANREVFNTDECSIQHCLYQFTRNEKLRDANKLLCEVCTRRQCNGPKANIKGERKHVYTNAKKQMLISLAPPVLTLHLKRFQQAGFNLRKVNKHIKFPEILDLAPFCTLKCKNVAEENTRVLYSLYGVVEHSGTMRSGHYTAYAKARTANSHLSNLVLHGDIPQDFEMESKGQWFHISDTHVQAVPTTKVLNSQAYLLFYERIL
+PTM	Acetylation:37,225,681,712;Methylation:162,176,225,325,339,494,670;Phosphorylation:16,19,97,143,189,415,423,424,550,551,552,554,606,742,743;SUMOylation:140;Ubiquitylation:9,37,38,182,279,293,321,396,426,437,448,452,459,506,513,520,530,538,604,666,670,729

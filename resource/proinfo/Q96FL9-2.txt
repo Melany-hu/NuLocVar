@@ -1,0 +1,25 @@
+UniprotID	Q96FL9-2
+Accession	Q96FL9;B3KV89;Q4ZG75;Q53SU1;Q53TJ0;Q8IVI4;Q9BRH1;Q9H827;Q9H9J8
+EntryName	GLT14_HUMAN
+ProteinName	Polypeptide N-acetylgalactosaminyltransferase 14 (EC 2.4.1.41) (Polypeptide GalNAc transferase 14) (GalNAc-T14) (pp-GaNTase 14) (Protein-UDP acetylgalactosaminyltransferase 14) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 14)
+GeneName	GALNT14 UNQ2434/PRO4994
+Length	519
+Function	Catalyzes the initial reaction in O-linked oligosaccharide biosynthesis, the transfer of an N-acetyl-D-galactosamine residue to a serine or threonine residue on the protein receptor. Displays activity toward mucin-derived peptide substrates such as Muc2, Muc5AC, Muc7, and Muc13 (-58). May be involved in O-glycosylation in kidney.
+Subcellular Location	Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	131...136
+validnes_region	
+nesbase_region	
+Sequence	MRRLTRRLVLPVFGVLWITVLLFFWVTKRKLEVPTGPEVQTPKPSDADWDDLWDQFDERRYLNAKKWRVGDDPYKLYAFNQRESERISSNRAIPDTRHLSVLNRTPTHLIREIILVDDFSNDPDDCKQLIKLPKVKCLRNNERQGLVRSRIRGADIAQGTTLTFLDSHCEVNRDWLQPLLHRVKEDYTRVVCPVIDIINLDTFTYIESASELRGGFDWSLHFQWEQLSPEQKARRLDPTEPIRTPIIAGGLFVIDKAWFDYLGKYDMDMDIWGGENFEISFRVWMCGGSLEIVPCSRVGHVFRKKHPYVFPDGNANTYIKNTKRTAEVWMDEYKQYYYAARPFALERPFGNVESRLDLRKNLRCQSFKWYLENIYPELSIPKESSIQKGNIRQRQKCLESQRQNNQETPNLKLSPCAKVKGEDAKSQVWAFTYTQQILQEELCLSVITLFPGAPVVLVLCKNGDDRQQWTKTGSHIEHIASHLCLDTDMFGDGTENGKEIVVNPCESSLMSQHWDMVSS
+PTM	Methylation:164,289;Phosphorylation:74,272,329,403,408,412,503;Ubiquitylation:65,75,164,217,445

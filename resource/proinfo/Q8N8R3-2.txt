@@ -1,0 +1,25 @@
+UniprotID	Q8N8R3-2
+Accession	Q8N8R3;A3KMR5;Q541V0
+EntryName	S2529_HUMAN
+ProteinName	Mitochondrial basic amino acids transporter (Carnitine/acylcarnitine translocase-like) (CACT-like) (Mitochondrial carnitine/acylcarnitine carrier protein CACL) (Mitochondrial ornithine transporter 3) (Solute carrier family 25 member 29)
+GeneName	SLC25A29 C14orf69 ORNT3
+Length	145
+Function	Mitochondrial transporter of arginine, lysine, homoarginine, methylarginine and, to a much lesser extent, ornithine and histidine (PubMed:19287344, PubMed:24652292). Does not transport carnitine nor acylcarnitines (PubMed:24652292). Functions by both counter-exchange and uniport mechanisms (PubMed:24652292). Plays a physiological role in the import of basic amino acids into mitochondria for mitochondrial protein synthesis and amino acid degradation (PubMed:19287344, PubMed:24652292).
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALDFLAGCAGGTASGPERGEASVPRDVALLQVHHQARERAGPVQGPGLAAHGAHLHQRAGVRGAGQHPPGPGPRLAPQPVPGRCGGGRHPVRHLLPHGAGQDAAAAAGRGPSAHLQGLAGLPRADLRARGSAWRQPGHGVHVAA
+PTM	Methylation:51,117,191,214;Phosphorylation:253,254

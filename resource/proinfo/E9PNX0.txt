@@ -1,0 +1,25 @@
+UniprotID	E9PNX0
+Accession	E9PNX0
+EntryName	E9PNX0_HUMAN
+ProteinName	FYVE, RhoGEF and PH domain containing 4
+GeneName	FGD4
+Length	235
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEIKPASASCVSKEKPSKVSDLISRFEGGSSLSNYSDLKKESAVNLNAPRTPGRHGLTTTPQQKLLSQHLPQRQGNDTDKTQGAQTCVANGVMAAQNQMECEEEKAATLSSDTSIQASEPLLDTHIVNGERDETATAPASPTTDSCDGNASDSSYRTPGIGPVLPLEERGAETETKVQERENGESPLELEQLDQHHEMKETNEQKLHKIANELLLTERAYVNRLDLLDQKIEWR
+PTM	

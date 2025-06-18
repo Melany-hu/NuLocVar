@@ -1,0 +1,25 @@
+UniprotID	M0R252
+Accession	M0R252
+EntryName	M0R252_HUMAN
+ProteinName	ZFP36 ring finger protein
+GeneName	ZFP36
+Length	65
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDLTAIYEVSPRRTASPVPACLSPSPHLSSAANSSPGRLPPFSNWGSLAPRPPAWGPCLPLRPAW
+PTM	

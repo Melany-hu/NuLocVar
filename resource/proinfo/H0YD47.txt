@@ -1,0 +1,25 @@
+UniprotID	H0YD47
+Accession	H0YD47
+EntryName	H0YD47_HUMAN
+ProteinName	Synaptotagmin 13
+GeneName	SYT13
+Length	186
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XQSLAGRGQQTRWRTGQGVKKFNVKKSTEPVQPRALLKFPDIYGPRPAVTAPEVINYADYSLRSTEEPTAPASPQPPNDSRLKRQVTEELFILPQNGVVEDVCVMETWNPEKAASWNQAPKLHYCLDYDCQKAELFVTRLEAVTSNHDGGCDCYVQGSVANRTGSVEAQTALKKRQLHTTWEEGLV
+PTM	

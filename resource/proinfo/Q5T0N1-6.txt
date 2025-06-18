@@ -1,0 +1,25 @@
+UniprotID	Q5T0N1-6
+Accession	Q5T0N1;C9JIZ9;Q5T0M4;Q5T0M9;Q5T0N0;Q69YH9;Q8IYZ8;Q8N7D5;Q8NI30;Q8NI31
+EntryName	CFA70_HUMAN
+ProteinName	Cilia- and flagella-associated protein 70 (Tetratricopeptide repeat protein 18) (TPR repeat protein 18)
+GeneName	CFAP70 TTC18
+Length	195
+Function	Axoneme-binding protein that plays a role in the regulation of ciliary motility and cilium length.
+Subcellular Location	Cell projection; Cilium; Flagellum; Cytoplasm; Cytoskeleton; Flagellum basal body; Cell projection; Cilium; Cytoplasm; Cytoskeleton; Cilium axoneme
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	7...11
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METIHFLMKVKAVQYVHRVLAHELLCPQGGPSCEYYLVLAQTHILKKNFAKAEEYLQQAAQMDYLNPNVWGLKGHLYFLSGNHSEAKACYERTISFVVDASEMHFIFLRLGLIYLEEKELEELTEAEDALSEANALNNYNAEVWAYLALVCLKVGRQLEAEQAYKYMIKLKLKDEALLAEIHTLQETVGFGNPSF
+PTM	Methylation:150,170,211,216,321,404,574,687,827,1014,1018,1079;Phosphorylation:380,400;Ubiquitylation:480

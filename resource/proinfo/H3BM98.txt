@@ -1,0 +1,25 @@
+UniprotID	H3BM98
+Accession	H3BM98
+EntryName	H3BM98_HUMAN
+ProteinName	Nei like DNA glycosylase 1
+GeneName	NEIL1
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	55...60
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEGPELHLASQFVNEACRALVFGGCVEKSSVSRNPEVPFESSAYRISASARGKELRLILSPLPGAQPQQEPLALVFRFGMSGSFQLVPREELPRHAHLRFYTAPPGPRLALCFVDIRRFGRWDLGGKWQPGRGPCVLQEYQQFRNRFSEPLSP
+PTM	

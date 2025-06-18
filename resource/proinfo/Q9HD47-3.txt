@@ -1,0 +1,25 @@
+UniprotID	Q9HD47-3
+Accession	Q9HD47;D3DTR6;Q68DI3;Q9BR68;Q9HD48;Q9NRU9;Q9P001;Q9P0P2
+EntryName	MOG1_HUMAN
+ProteinName	Ran guanine nucleotide release factor (RanGNRF) (Ran-binding protein MOG1)
+GeneName	RANGRF MOG1 RANGNRF HSPC165 HSPC236 MDS5
+Length	165
+Function	May regulate the intracellular trafficking of RAN (PubMed:11290418). Promotes guanine nucleotide release from RAN and inhibits binding of new GTP by preventing the binding of the RAN guanine nucleotide exchange factor RCC1 (PubMed:29040603). Regulates the levels of GTP-bound RAN in the nucleus, and thereby plays a role in the regulation of RAN-dependent mitotic spindle dynamics (PubMed:29040603). Enhances the expression of SCN5A at the cell membrane in cardiomyocytes (PubMed:18184654, PubMed:21621375, PubMed:23420830).
+Subcellular Location	Nucleus; Cytoplasm; Perinuclear region; Cytoplasm; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPTRDCPLFGGAFSAILPMGAIDVSDLRPVPDNQEVFCHPVTDQSLIVELLELQAHVRGEAAARYHFEDVGGVQGARAVHVESVQPLSLENLALRGRCQEAWVLSGKQQIAKENQQVRARECVMSWKGGSGDAEIQVSILTLIPLGSKGRDTSSGLAEAAPVPD
+PTM	Methylation:113;Ubiquitylation:108

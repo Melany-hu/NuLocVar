@@ -1,0 +1,25 @@
+UniprotID	Q96EB1-3
+Accession	Q96EB1;B4E3W0;E7EPZ6;Q9H4E8;Q9NX11
+EntryName	ELP4_HUMAN
+ProteinName	Elongator complex protein 4 (hELP4) (PAX6 neighbor gene protein)
+GeneName	ELP4 C11orf19 PAXNEB
+Length	476
+Function	Component of the elongator complex which is required for multiple tRNA modifications, including mcm5U (5-methoxycarbonylmethyl uridine), mcm5s2U (5-methoxycarbonylmethyl-2-thiouridine), and ncm5U (5-carbamoylmethyl uridine) (PubMed:29332244). The elongator complex catalyzes the formation of carboxymethyluridine in the wobble base at position 34 in tRNAs (PubMed:29332244).
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAVATCGSVAASTGSAVATASKSNVTSFQRRGPRASVTNDSGPRLVSIAGTRPSVRNGQLLVSTGLPALDQLLGGGLAVGTVLLIEEDKYNIYSPLLFKYFLAEGIVNGHTLLVASAKEDPANILQELPAPLLDDKCKKEFDEDVYNHKTPESNIKMKIAWRYQLLPKMEQIGPVSSSRFGHYYDASKRMPQELIEASNWHGFFLPEKISSTLKVEPCSLTPGYTKLLQFIQNIIYEEGFDGSNPQKKQRNILRIGIQNLGSPLWGDDICCAENGGNSHSLTKFLYVLRGLLRTSLSACIITMPTHLIQNKAIIARVTTLSDVVVGLESFIGSERETNPLYKDYHGLIHIRQIPRLNNLICDESDVKDLAFKLKRKLFTIEWVQDNYLRQERNIYPPGFSYLLKQKDSAWGEGSLQHSTFLMSFLAKATAFASRLVRHSEPLKQNGSGRIRQAAGPRLWHDGRRQEAPGLLGIPP
+PTM	Acetylation:419;Methylation:100,119,137,311;Phosphorylation:6,20,22,37,42,147,151,154,164,176,177,183,344,397,404;SUMOylation:169,214;Ubiquitylation:157,188

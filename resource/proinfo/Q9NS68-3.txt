@@ -1,0 +1,25 @@
+UniprotID	Q9NS68-3
+Accession	Q9NS68;A8KA09;A8KA26;B1AM40;B1AM41;B4E2I6;Q9BXZ9;Q9BY00;Q9NZV2
+EntryName	TNR19_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 19 (TRADE) (Toxicity and JNK inducer)
+GeneName	TNFRSF19 TAJ TROY UNQ1888/PRO4333
+Length	285
+Function	Can mediate activation of JNK and NF-kappa-B. May promote caspase-independent cell death.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MECVPCGDPPPPYEPHCASKVNLVKIASTASSPRDTALAAVICSALATVLLALLILCVIYCKRQFMEKKPSWSLRSQDIQYNGSELSCFDRPQLHEYAHRACCQCRRDSVQTCGPVRLLPSMCCEEACSPNPATLGCGVHSAASLQARNAGPAGEMVPTFFGSLTQSICGEFSDAWPLMQNPMGGDNISFCDSYPELTGEDIHSLNPELESSTSLDSNSSQDLVGGAVPVQSHSENFTAATDLSRYNNTLVESASTQDALTMRSQLDQESGAVIHPATQTSLQEA
+PTM	Glycosylation:161;Methylation:157;Phosphorylation:205,229,241,244,261

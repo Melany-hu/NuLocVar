@@ -1,0 +1,25 @@
+UniprotID	C9JCN1
+Accession	C9JCN1
+EntryName	C9JCN1_HUMAN
+ProteinName	Dermokine
+GeneName	DMKN
+Length	203
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLGITSCSDQQAKEGEGLEGSSTGSSSGNHGGSGGGNGHKPGCEKPGNEARGSGESGIQNSETSPGMFNFDTFWKNFKSKLGFINWDAINKNQVPPPSTRALLYFSRLWEDFKQNTPFLNWKAIIEGADASSLQKRAGRDDQPGAGWQEVAAVTSKNYNYNQHAYPTAYGGKYSVKTPAKGGVSPSSSASRVQPGLLQWVKFW
+PTM	

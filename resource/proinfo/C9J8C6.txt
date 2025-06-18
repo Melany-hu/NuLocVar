@@ -1,0 +1,25 @@
+UniprotID	C9J8C6
+Accession	C9J8C6
+EntryName	C9J8C6_HUMAN
+ProteinName	Autophagy related 16 like 1
+GeneName	ATG16L1
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAQLRIKHQEELTELHKKRGELAQLVIDLNNQMQRKDREMQMNEAKIAECLQTIS
+PTM	

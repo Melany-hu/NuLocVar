@@ -1,0 +1,25 @@
+UniprotID	H7C3T1
+Accession	H7C3T1
+EntryName	H7C3T1_HUMAN
+ProteinName	Lipin 1
+GeneName	LPIN1
+Length	194
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IDDPNLVVKIGSKYYNWTTAAPLLLAMQAFQKPLPKSSCLSYLHVILDAIRFCFSKIFNAQIATVESIMRDKMPKKGGRWWFSWRGRNTTIKEESKPEQCLAGKAHSTGEQPPQLSLATRVKHESSSSDEERAAAKPSNAGHLPLLPNVSYKKTLRLTSEQLKSLKLKNGPNDVVFSVTTQYQGTCRCEGTIYL
+PTM	

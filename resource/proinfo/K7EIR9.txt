@@ -1,0 +1,25 @@
+UniprotID	K7EIR9
+Accession	K7EIR9
+EntryName	K7EIR9_HUMAN
+ProteinName	Zinc finger protein 227
+GeneName	ZNF227
+Length	96
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVENFKNLVAVGSKHQNKMETLQKFALKYLSNQELSCWQIWKQVASELTRCLQGKSSQLLQGDSIQVSENENNIMNPKGDSSIYIENQEFPFWRTQ
+PTM	

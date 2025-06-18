@@ -1,0 +1,25 @@
+UniprotID	P20273-2
+Accession	P20273;F5GYU4;F5H7U3;O95699;O95701;O95702;O95703;Q01665;Q32M46;Q92872;Q92873;Q9UQA6;Q9UQA7;Q9UQA8;Q9UQA9;Q9UQB0;Q9Y2A6
+EntryName	CD22_HUMAN
+ProteinName	B-cell receptor CD22 (B-lymphocyte cell adhesion molecule) (BL-CAM) (Sialic acid-binding Ig-like lectin 2) (Siglec-2) (T-cell surface antigen Leu-14) (CD antigen CD22)
+GeneName	CD22 SIGLEC2
+Length	670
+Function	Most highly expressed siglec (sialic acid-binding immunoglobulin-like lectin) on B-cells that plays a role in various aspects of B-cell biology including differentiation, antigen presentation, and trafficking to bone marrow (PubMed:34330755, PubMed:8627166). Binds to alpha 2,6-linked sialic acid residues of surface molecules such as CD22 itself, CD45 and IgM in a cis configuration. Can also bind to ligands on other cells as an adhesion molecule in a trans configuration (PubMed:20172905). Acts as an inhibitory coreceptor on the surface of B-cells and inhibits B-cell receptor induced signaling, characterized by inhibition of the calcium mobilization and cellular activation. Mechanistically, the immunoreceptor tyrosine-based inhibitory motif domain is phosphorylated by the Src kinase LYN, which in turn leads to the recruitment of the protein tyrosine phosphatase 1/PTPN6, leading to the negative regulation of BCR signaling (PubMed:8627166). If this negative signaling from is of sufficient strength, apoptosis of the B-cell can be induced (PubMed:20516366).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHLLGPWLLLLVLEYLAFSDSSKWVFEHPETLYAWEGACVWIPCTYRALDGDLESFILFHNPEYNKNTSKFDGTRLYESTKDGKVPSEQKRVQFLGDKNKNCTLSIHPVHLNDSGQLGLRMESKTEKWMERIHLNVSERPFPPHIQLPPEIQESQEVTLTCLLNFSCYGYPIQLQWLLEGVPMRQAAVTSTSLTIKSVFTRSELKFSPQWSHHGKIVTCQLQDADGKFLSNDTVQLNVKHPPKKVTTVIQNPMPIREGDTVTLSCNYNSSNPSVTRYEWKPHGAWEEPSLGVLKIQNVGWDNTTIACAACNSWCSWASPVALNVQYAPRDVRVRKIKPLSEIHSGNSVSLQCDFSSSHPKEVQFFWEKNGRLLGKESQLNFDSISPEDAGSYSCWVNNSIGQTASKAWTLEVLYAPRRLRVSMSPGDQVMEGKSATLTCESDANPPVSHYTWFDWNNQSLPYHSQKLRLEPVKVQHSGAYWCQGTNSVGKGRSPLSTLTVYYSPETIGRRVAVGLGSCLAILILAICGLKLQRRWKRTQSQQGLQENSSGQSFFVRNKKVRRAPLSEGPHSLGCYNPMMEDGISYTTLRFPEMNIPRTGDAESSEMQRPPPDCDDTVTYSALHKRQVGDYENVIPDFPEDEGIHYSELIQFGVGERPQAQENVDYVILKH
+PTM	Methylation:196,239,471,552;Phosphorylation:192,200,202,591,717,725,726,796;SUMOylation:288

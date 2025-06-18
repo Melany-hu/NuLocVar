@@ -1,0 +1,25 @@
+UniprotID	P59044-2
+Accession	P59044;A8K9F3;E9PJZ8
+EntryName	NLRP6_HUMAN
+ProteinName	NACHT, LRR and PYD domains-containing protein 6 (Angiotensin II/vasopressin receptor) (PYRIN-containing APAF1-like protein 5)
+GeneName	NLRP6 NALP6 PYPAF5
+Length	891
+Function	Acts as the sensor component of the NLRP6 inflammasome, which mediates inflammasome activation in response to various pathogen-associated signals, leading to maturation and secretion of IL1B and IL18 (PubMed:30392956, PubMed:34678144). Inflammasomes are supramolecular complexes that assemble in the cytosol in response to pathogens and other damage-associated signals and play critical roles in innate immunity and inflammation (PubMed:30674671). Acts as a recognition receptor (PRR): recognizes and binds specific pathogens and other damage-associated signals, such as lipoteichoic acid (LTA), a cell-wall component of Gram-positive bacteria, or double stranded RNA (dsRNA) (PubMed:30392956, PubMed:33377178, PubMed:34678144). May also recognize and bind lipopolysaccharide (LPS), a major component of the outer membrane of Gram-negative bacteria; however, LPS is probably not a major activator of the NLRP6 inflammasome (PubMed:31932628, PubMed:34678144). Following LTA- or dsRNA-binding, NLRP6 undergoes liquid-liquid phase separation (LLPS), enhancing multivalent interactions, an essential step for the formation of the NLRP6 inflammasome polymeric complex (PubMed:34678144). The NLRP6 inflammasome acts by promoting recruitment of effector pro-inflammatory caspases (CASP1 and/or CASP4) that catalyze maturation and secretion of IL1B and IL18 in the extracellular milieu (PubMed:12387869, PubMed:30392956, PubMed:30674671, PubMed:34678144). The NLRP6 inflammasome plays a central role in the maintenance of epithelial integrity and host defense against microbial infections in the intestine (PubMed:30392956). Required to restrict infection against Gram-positive bacteria by recognizing lipoteichoic acid (LTA), leading to recruitment of CASP4 and CASP1, and subsequent maturation and secretion of IL1B and IL18 (PubMed:30392956, PubMed:33377178). Involved in intestinal antiviral innate immunity together with DHX15: recognizes and binds viral dsRNA to restrict infection by enteric viruses through the interferon pathway and GSDMD-dependent release of IL18 (PubMed:34161762, PubMed:34678144). Required to prevent infection by the apicomplexan parasite Cryptosporidium in enterocytes by promoting GSDMD-dependent release of IL18 (By similarity). The NLRP6 inflammasome may also regulate the gut microbiota composition by acting as a sensor of microbiota-associated metabolites to form a PYCARD/ASC-dependent inflammasome for downstream IL18 release and secretion of antimicrobial peptides (By similarity). Essential for gut mucosal self-renewal and proliferation (By similarity). Regulate mucus secretion in an inflammasome- and autophagy-dependent manner to prevent invasion by enteric bacteria, (By similarity). During systemic bacterial infections, the NLRP6 inflammasome negatively regulates neutrophil recruitment and neutrophil extracellular traps (NETs) formation (By similarity). May promote peripheral nerve recovery following injury via an inflammasome-independent mechanism (By similarity).
+Subcellular Location	Cytoplasm; Cytosol; Inflammasome; Cell membrane; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQPEAPCSSTGPRLAVARELLLAALEELSQEQLKRFRHKLRDVGPDGRSIPWGRLERADAVDLAEQLAQFYGPEPALEVARKTLKRADARDVAAQLQERRLQRLGLGSGTLLSVSEYKKKYREHVLQLHARVKERNARSVKITKRFTKLLIAPESAAPEEAMGPAEEPEPGRARRSDTHTFNRLFRRDEEGRRPLTVVLQGPAGIGKTMAAKKILYDWAAGKLYQGQVDFAFFMPCGELLERPGTRSLADLILDQCPDRGAPVPQMLAQPQRLLFILDGADELPALGGPEAAPCTDPFEAASGARVLGGLLSKALLPTALLLVTTRAAAPGRLQGRLCSPQCAEVRGFSDKDKKKYFYKYFRDERRAERAYRFVKENETLFALCFVPFVCWIVCTVLRQQLELGRDLSRTSKTTTSVYLLFITSVLSSAPVADGPRLQGDLRNLCRLAREGVLGRRAQFAEKELEQLELRGSKVQTLFLSKKELPGVLETEVTYQFIDQSFQEFLAALSYLLEDGGVPRTAAGGVGTLLRGDAQPHSHLVLTTRFLFGLLSAERMRDIERHFGCMVSERVKQEALRWVQGQGQGCPGVAPEVTEGAKGLEDTEEPEEEEEGEEPNYPLELLYCLYETQEDAFVRQALCRFPELALQRVRFCRMDVAVLSYCVRCCPAGQALRLISCRLVAAQEKKKKSLGKRLQASLGGGSSQGTTKQLPASLLHPLFQAMTDPLCHLSSLTLSHCKLPDAVCRDLSEALRAAPALTELGLLHNRLSEAGLRMLSEGLAWPQCRVQTVRVQLPDPQRGLQYLVGMLRQSPALTTLDLSGCQLPAPMVTYLCAVLQHQGCGLQTLSLASVELSEQSLQELQAVKRAKPDLVITHPALDGHPQPPKELISTF
+PTM	Methylation:35,208,223,314;Phosphorylation:209,217,552,704,707

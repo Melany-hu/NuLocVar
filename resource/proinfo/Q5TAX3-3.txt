@@ -1,0 +1,25 @@
+UniprotID	Q5TAX3-3
+Accession	Q5TAX3;A0A0C4DFM7;A2RRP0;B7Z8J5;D3DQ35;Q12764;Q5TAX2;Q5TAX4;Q86XZ3
+EntryName	TUT4_HUMAN
+ProteinName	Terminal uridylyltransferase 4 (TUTase 4) (EC 2.7.7.52) (Zinc finger CCHC domain-containing protein 11)
+GeneName	TUT4 KIAA0191 ZCCHC11
+Length	1645
+Function	Uridylyltransferase that mediates the terminal uridylation of mRNAs with short (less than 25 nucleotides) poly(A) tails, hence facilitating global mRNA decay (PubMed:25480299, PubMed:31036859). Essential for both oocyte maturation and fertility. Through 3' terminal uridylation of mRNA, sculpts, with TUT7, the maternal transcriptome by eliminating transcripts during oocyte growth (By similarity). Involved in microRNA (miRNA)-induced gene silencing through uridylation of deadenylated miRNA targets. Also functions as an integral regulator of microRNA biogenesis using 3 different uridylation mechanisms (PubMed:25979828). Acts as a suppressor of miRNA biogenesis by mediating the terminal uridylation of some miRNA precursors, including that of let-7 (pre-let-7), miR107, miR-143 and miR-200c. Uridylated miRNAs are not processed by Dicer and undergo degradation. Degradation of pre-let-7 contributes to the maintenance of embryonic stem (ES) cell pluripotency (By similarity). Also catalyzes the 3' uridylation of miR-26A, a miRNA that targets IL6 transcript. This abrogates the silencing of IL6 transcript, hence promoting cytokine expression (PubMed:19703396). In the absence of LIN28A, TUT7 and TUT4 monouridylate group II pre-miRNAs, which includes most of pre-let7 members, that shapes an optimal 3' end overhang for efficient processing (PubMed:25979828). Adds oligo-U tails to truncated pre-miRNAS with a 5' overhang which may promote rapid degradation of non-functional pre-miRNA species (PubMed:25979828). May also suppress Toll-like receptor-induced NF-kappa-B activation via binding to T2BP (PubMed:16643855). Does not play a role in replication-dependent histone mRNA degradation (PubMed:18172165). Due to functional redundancy between TUT4 and TUT7, the identification of the specific role of each of these proteins is difficult (By similarity) (PubMed:16643855, PubMed:18172165, PubMed:19703396, PubMed:25480299, PubMed:25979828). TUT4 and TUT7 restrict retrotransposition of long interspersed element-1 (LINE-1) in cooperation with MOV10 counteracting the RNA chaperonne activity of L1RE1. TUT7 uridylates LINE-1 mRNAs in the cytoplasm which inhibits initiation of reverse transcription once in the nucleus, whereas uridylation by TUT4 destabilizes mRNAs in cytoplasmic ribonucleoprotein granules (PubMed:30122351).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; Cytoplasmic ribonucleoprotein granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1171...1176
+validnes_region	
+nesbase_region	
+Sequence	MEESKTLKSENHEPKKNVICEESKAVQVIGNQTLKARNDKSVKEIENSSPNRNSSKKNKQNDICIEKTEVKSCKVNAANLPGPKDLGLVLRDQSHCKAKKFPNSPVKAEKATISQAKSEKATSLQAKAEKSPKSPNSVKAEKASSYQMKSEKVPSSPAEAEKGPSLLLKDMRQKTELQQIGKKIPSSFTSVDKVNIEAVGGEKCALQNSPRSQKQQTCTDNTGDSDDSASGIEDVSDDLSKMKNDESNKENSSEMDYLENATVIDESALTPEQRLGLKQAEERLERDHIFRLEKRSPEYTNCRYLCKLCLIHIENIQGAHKHIKEKRHKKNILEKQEESELRSLPPPSPAHLAALSVAVIELAKEHGITDDDLRVRQEIVEEMSKVITTFLPECSLRLYGSSLTRFALKSSDVNIDIKFPPKMNHPDLLIKVLGILKKNVLYVDVESDFHAKVPVVVCRDRKSGLLCRVSAGNDMACLTTDLLTALGKIEPVFIPLVLAFRYWAKLCYIDSQTDGGIPSYCFALMVMFFLQQRKPPLLPCLLGSWIEGFDPKRMDDFQLKGIVEEKFVKWECNSSSATEKNSIAEENKAKADQPKDDTKKTETDNQSNAMKEKHGKSPLALETPNRVSLGQLWLELLKFYTLDFALEEYVICVRIQDILTRENKNWPKRRIAIEDPFSVKRNVARSLNSQLVYEYVVERFRAAYRYFACPQTKGGNKSTVDFKKREKGKISNKKPVKSNNMATNGCILLGETTEKINAEREQPVQCDEMDCTSQRCIIDNNNLLVNELDFADHGQDSSSLSTSKSSEIEPKLDKKQDDLAPSETCLKKELSQCNCIDLSKSPDPDKSTGTDCRSNLETESSHQSVCTDTSATSCNCKATEDASDLNDDDNLPTQELYYVFDKFILTSGKPPTIVCSICKKDGHSKNDCPEDFRKIDLKPLPPMTNRFREILDLVCKRCFDELSPPCSEQHNREQILIGLEKFIQKEYDEKARLCLFGSSKNGFGFRDSDLDICMTLEGHENAEKLNCKEIIENLAKILKRHPGLRNILPITTAKVPIVKFEHRRSGLEGDISLYNTLAQHNTRMLATYAAIDPRVQYLGYTMKVFAKRCDIGDASRGSLSSYAYILMVLYFLQQRKPPVIPVLQEIFDGKQIPQRMVDGWNAFFFDKTEELKKRLPSLGKNTESLGELWLGLLRFYTEEFDFKEYVISIRQKKLLTTFEKQWTSKCIAIEDPFDLNHNLGAGVSRKMTNFIMKAFINGRKLFGTPFYPLIGREAEYFFDSRVLTDGELAPNDRCCRVCGKIGHYMKDCPKRKSSLLFRLKKKDSEEEKEGNEEEKDSRDVLDPRDLHDTRDFRDPRDLRCFICGDAGHVRRECPEVKLARQRNSSVAAAQLVRNLVNAQQVAGSAQQQGDQSIRTRQSSECSESPSYSPQPQPFPQNSSQSAAITQPSSQPGSQPKLGPPQQGAQPPHQVQMPLYNFPQSPPAQYSPMHNMGLLPMHPLQIPAPSWPIHGPVIHSAPGSAPSNIGLNDPSIIFAQPAARPVAIPNTSHDGHWPRTVAPNSLVNSGAVGNSEPGFRGLTPPIPWEHAPRPHFPLVPASWPYGLHQNFMHQGNARFQPNKPFYTQDRCATRRCRERCPHPPRGNVSE
+PTM	Acetylation:40;Methylation:5,35,149,169,241,335,364,418,431,437,488,638,680,840,938,956,1036,1172,1225,1624,1628;Phosphorylation:48,49,104,131,134,150,155,156,165,175,186,209,212,219,222,225,228,230,296,399,401,402,404,410,411,753,831,839,841,999,1208,1217,1223,1248,1267,1284,1323;Ubiquitylation:680,713,1000,1054,1059,1260

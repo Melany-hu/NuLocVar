@@ -1,0 +1,25 @@
+UniprotID	G3V185
+Accession	G3V185
+EntryName	G3V185_HUMAN
+ProteinName	Transmembrane protein 179B
+GeneName	TMEM179B LOC374395 hCG_2016619
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALSWLQRVELALFAAAFLCGAVAAAAMTRTQGSFSGRCPLYGVATLNGSSLALSRPSAPSLCYFVAGASGLLALYCLLLLLFWIYSSCIEDSHRGAIGLRIALAISAIAVFLVLVSACILRFGTRSLCNSIISLNTTIRPLLG
+PTM	

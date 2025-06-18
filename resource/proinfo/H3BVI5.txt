@@ -1,0 +1,25 @@
+UniprotID	H3BVI5
+Accession	H3BVI5
+EntryName	H3BVI5_HUMAN
+ProteinName	Ras homolog family member T2
+GeneName	RHOT2
+Length	72
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRDVRILLLGEAQVGKTSLILSLVGEEFPEEPSRRTRSCGRRSTRQTWCVWCMTSLRRPPLRRFELSGSHW
+PTM	

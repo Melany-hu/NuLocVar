@@ -1,0 +1,25 @@
+UniprotID	Q53GI3-3
+Accession	Q53GI3;A4D281;Q05DA6;Q6P5X9;Q8TB27;Q9HA37;Q9UD51
+EntryName	ZN394_HUMAN
+ProteinName	Zinc finger protein 394 (Zinc finger protein with KRAB and SCAN domains 14)
+GeneName	ZNF394 ZKSCAN14
+Length	162
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNSSLTAQRRGSDAELGPWVMAARSKDAAPSQRDGLLPVKVEEDSPGSWEPNYPAASPDPETSRLHFRQLRYQEVAGPEEALSRLRELCRRWLRPELLSKEQILELLVLEQFLTILPEELQAWVREHCPESGEEAVAVVRALQRALDGTSSQVWKAEWRTKS
+PTM	Methylation:100,486,556;Phosphorylation:12,233,258,371,386,500,520;SUMOylation:40,203,228,234,254,282,303,330,384,393,403,412,443,464,470,495,514,523

@@ -1,0 +1,25 @@
+UniprotID	C9J0E8
+Accession	C9J0E8
+EntryName	C9J0E8_HUMAN
+ProteinName	Solute carrier family 2 member 2
+GeneName	SLC2A2
+Length	103
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYIGEIAPTALRGALGTFHQLAIVTGILISQIIGLEFILGNYDLWHILLGLSGVRAILQSLLLFFCPESPRYLYIKLDEEVKAKQSLKRLRGYDDVTKDINEM
+PTM	

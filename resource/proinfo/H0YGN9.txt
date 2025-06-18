@@ -1,0 +1,25 @@
+UniprotID	H0YGN9
+Accession	H0YGN9
+EntryName	H0YGN9_HUMAN
+ProteinName	Coiled-coil domain containing 91
+GeneName	CCDC91
+Length	30
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LDQVIRQRSLSSLELFLSCAQKQPRLTTGN
+PTM	

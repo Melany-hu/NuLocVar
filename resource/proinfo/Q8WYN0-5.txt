@@ -1,0 +1,25 @@
+UniprotID	Q8WYN0-5
+Accession	Q8WYN0;A6NCH2;B2RAZ7;D3DUY0;O95534;Q5JYY9;Q5JYZ0;Q86VE5;Q96KQ0;Q96KQ1
+EntryName	ATG4A_HUMAN
+ProteinName	Cysteine protease ATG4A (EC 3.4.22.-) (AUT-like 2 cysteine endopeptidase) (Autophagy-related cysteine endopeptidase 2) (Autophagin-2) (Autophagy-related protein 4 homolog A) (HsAPG4A) (hAPG4A)
+GeneName	ATG4A APG4A AUTL2
+Length	374
+Function	Cysteine protease that plays a key role in autophagy by mediating both proteolytic activation and delipidation of ATG8 family proteins (PubMed:12473658, PubMed:15169837, PubMed:17347651, PubMed:21177865, PubMed:21245471, PubMed:22302004, PubMed:32732290). The protease activity is required for proteolytic activation of ATG8 family proteins: cleaves the C-terminal amino acid of ATG8 proteins to reveal a C-terminal glycine (PubMed:12473658, PubMed:15169837, PubMed:17347651, PubMed:21177865, PubMed:21245471, PubMed:22302004). Exposure of the glycine at the C-terminus is essential for ATG8 proteins conjugation to phosphatidylethanolamine (PE) and insertion to membranes, which is necessary for autophagy (PubMed:12473658, PubMed:15169837, PubMed:17347651, PubMed:21177865, PubMed:21245471, PubMed:22302004). Preferred substrate is GABARAPL2 followed by MAP1LC3A and GABARAP (PubMed:12473658, PubMed:15169837, PubMed:17347651, PubMed:21177865, PubMed:21245471, PubMed:22302004). Protease activity is also required to counteract formation of high-molecular weight conjugates of ATG8 proteins (ATG8ylation): acts as a deubiquitinating-like enzyme that removes ATG8 conjugated to other proteins, such as ATG3 (PubMed:31315929, PubMed:33773106). In addition to the protease activity, also mediates delipidation of ATG8 family proteins (PubMed:29458288, PubMed:33909989). Catalyzes delipidation of PE-conjugated forms of ATG8 proteins during macroautophagy (PubMed:29458288, PubMed:33909989). Compared to ATG4B, the major protein for proteolytic activation of ATG8 proteins, shows weaker ability to cleave the C-terminal amino acid of ATG8 proteins, while it displays stronger delipidation activity (PubMed:29458288). Involved in phagophore growth during mitophagy independently of its protease activity and of ATG8 proteins: acts by regulating ATG9A trafficking to mitochondria and promoting phagophore-endoplasmic reticulum contacts during the lipid transfer phase of mitophagy (PubMed:33773106).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESVLSKYEDQITIFTDYLEEYPDTDELVWILGKQHLLKTGGTGPSSDAGWGCMLRCGQMMLAQALICRHLGRDWSWEKQKEQPKEYQRILQCFLDRKDCCYSIHQMAQMGVGEGKSIGEWFGPNTVAQVLKKLALFDEWNSLAVYVSMDNTVVIEDIKKMCRVLPLSADTAGDRPPDSLTASNQSKGTSAYCSAWKPLLLIVPLRLGINQINPVYVDAFKECFKMPQSLGALGGKPNNAYYFIGFLGDELIFLDPHTTQTFVDTEENGTVNDQTFHCLQSPQRMNILNLDPSVALGFFCKEEKDFDNWCSLVQKEILKENLRMFELVQKHPSHWPPFVPPAKPEVTTTGAEFIDSTEQLEEFDLEEDFEILSV
+PTM	Methylation:34,39,156,260,343;Phosphorylation:335;Ubiquitylation:44

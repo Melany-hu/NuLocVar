@@ -1,0 +1,25 @@
+UniprotID	H0YFD7
+Accession	H0YFD7
+EntryName	H0YFD7_HUMAN
+ProteinName	Ubiquitin specific peptidase 28
+GeneName	USP28
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRNIMFMQELQYLFALMMGSNRKFVDPSAALDLLKGAFRSSEEQQQSQEQI
+PTM	

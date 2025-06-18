@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KTD5
+Accession	A0A8I5KTD5
+EntryName	A0A8I5KTD5_HUMAN
+ProteinName	Non-SMC condensin II complex subunit D3
+GeneName	NCAPD3
+Length	132
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVALRGLGSGLQPWCPLDLRLEWVDTVWELDFTETEPLDPSIEAEIIETGLAAFTKLYESLLPFATGEHGSMELSWCTVHREYNMSNIKNVVNLLEYPKSFPPKASRVSGPSSLRTMFPIVHWWHCSIILFK
+PTM	

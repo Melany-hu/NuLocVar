@@ -1,0 +1,25 @@
+UniprotID	H3BNK9
+Accession	H3BNK9
+EntryName	H3BNK9_HUMAN
+ProteinName	Proteasome activator subunit 3 interacting protein 1
+GeneName	PSME3IP1
+Length	154
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XNGAKGGKKNGRKFENLKIQKVGISQENKKEVEKKLTVKPIETKNKFSQAKLLAGAVKHKSSESGNSVKRLKPDPEPDDKNQEPSSCKSLGNTSLSGPSIHCPSAAVCIGILPGLGAYSGSSDSESSSDSEGTINATGKIVSSIFRTNTFLEAP
+PTM	

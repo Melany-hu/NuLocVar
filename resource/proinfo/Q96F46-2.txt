@@ -1,0 +1,25 @@
+UniprotID	Q96F46-2
+Accession	Q96F46;O43844;Q20WK1
+EntryName	I17RA_HUMAN
+ProteinName	Interleukin-17 receptor A (IL-17 receptor A) (IL-17RA) (CDw217) (CD antigen CD217)
+GeneName	IL17RA IL17R
+Length	832
+Function	Receptor for IL17A and IL17F, major effector cytokines of innate and adaptive immune system involved in antimicrobial host defense and maintenance of tissue integrity. Receptor for IL17A (PubMed:17911633, PubMed:9367539). Receptor for IL17F (PubMed:17911633, PubMed:19838198). Binds to IL17A with higher affinity than to IL17F (PubMed:17911633). Binds IL17A and IL17F homodimers as part of a heterodimeric complex with IL17RC (PubMed:16785495). Also binds heterodimers formed by IL17A and IL17F as part of a heterodimeric complex with IL17RC (PubMed:18684971). Cytokine binding triggers homotypic interaction of IL17RA and IL17RC chains with TRAF3IP2 adapter, leading to TRAF6-mediated activation of NF-kappa-B and MAPkinase pathways, ultimately resulting in transcriptional activation of cytokines, chemokines, antimicrobial peptides and matrix metalloproteinases, with potential strong immune inflammation (PubMed:16785495, PubMed:17911633, PubMed:18684971, PubMed:21350122, PubMed:24120361). Involved in antimicrobial host defense primarily promoting neutrophil activation and recruitment at infection sites to destroy extracellular bacteria and fungi (By similarity). In secondary lymphoid organs, contributes to germinal center formation by regulating the chemotactic response of B cells to CXCL12 and CXCL13, enhancing retention of B cells within the germinal centers, B cell somatic hypermutation rate and selection toward plasma cells (By similarity). Plays a role in the maintenance of the integrity of epithelial barriers during homeostasis and pathogen infection. Stimulates the production of antimicrobial beta-defensins DEFB1, DEFB103A, and DEFB104A by mucosal epithelial cells, limiting the entry of microbes through the epithelial barriers (By similarity). Involved in antiviral host defense through various mechanisms. Enhances immunity against West Nile virus by promoting T cell cytotoxicity. Contributes to Influenza virus clearance by driving the differentiation of B-1a B cells, providing for production of virus-specific IgM antibodies at first line of host defense (By similarity). Receptor for IL17C as part of a heterodimeric complex with IL17RE (PubMed:21993848).
+Subcellular Location	Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGAARSPPSAVPGPLLGLLLLLLGVLAPGGASLRLLDHRALVCSQPGLNCTVKNSTCLDDSWIHPRNLTPSSPKDLQIQLHFAHTQQGDLFPVAHIEWTLQTDASILYLEGAELSVLQLNTNERLCVRFEFLSKLRHHHRRWRFTFSHFVVDPDQEYEVTVHHLPKPIPDGDPNHQSKNFLVPDCEHARMKVTTPCMSSGSLWDPNITVETLEAHQLRVSFTLWNESTHYQILLTSFPHMENHSCFEHMHHIPAPRPEEFHQRSNVTLTLRNLKGCCRHQVQIQPFFSSCLNDCLRHSATVSCPEMPDTPEPIPGPGSEKYSDDTKYTDGLPAADLIPPPLKPRKVWIIYSADHPLYVDVVLKFAQFLLTACGTEVALDLLEEQAISEAGVMTWVGRQKQEMVESNSKIIVLCSRGTRAKWQALLGRGAPVRLRCDHGKPVGDLFTAAMNMILPDFKRPACFGTYVVCYFSEVSCDGDVPDLFGAAPRYPLMDRFEEVYFRIQDLEMFQPGRMHRVGELSGDNYLRSPGGRQLRAALDRFRDWQVRCPDWFECENLYSADDQDAPSLDEEVFEEPLLPPGTGIVKRAPLVREPGSQACLAIDPLVGEEGGAAVAKLEPHLQPRGQPAPQPLHTLVLAAEEGALVAAVEPGPLADGAAVRLALAGEGEACPLLGSPGAGRNSVLFLPVDPEDSPLGSSTPMASPDLLPEDVREHLEGLMLSLFEQSLSCQAQGGCSRPAMVLTDPHTPYEEEQRQSVQSDQGYISRSSPQPPEGLTEMEEEEEEEQDPGKPALPLSPEDLESLRSLQRQLLFRQLQKNSGWDTMGSESEGPSA
+PTM	Glycosylation:49,54,265;Methylation:397;Phosphorylation:71,72,352,629,708,796,798,800;Ubiquitylation:376

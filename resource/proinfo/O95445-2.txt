@@ -1,0 +1,25 @@
+UniprotID	O95445-2
+Accession	O95445;B0UX98;Q5SRP4;Q9P046;Q9UMP6
+EntryName	APOM_HUMAN
+ProteinName	Apolipoprotein M (Apo-M) (ApoM) (Protein G3a)
+GeneName	APOM G3A NG20 HSPC336
+Length	116
+Function	Probably involved in lipid transport. Can bind sphingosine-1-phosphate, myristic acid, palmitic acid and stearic acid, retinol, all-trans-retinoic acid and 9-cis-retinoic acid.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAGSAPMQLHLRATIRMKDGLCVPRKWIYHLTEGSTDLRTEGRPDMKTELFSSSCPGGIMLNETGQGYQRFLLYNRSPHPPEKCVEEFKSLTSCLDSKAFLLTPRNQEACELSNN
+PTM	Glycosylation:135;Phosphorylation:176

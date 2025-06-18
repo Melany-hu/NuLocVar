@@ -1,0 +1,25 @@
+UniprotID	D6RAW1
+Accession	D6RAW1
+EntryName	D6RAW1_HUMAN
+ProteinName	GTF2H2 family member C (General transcription factor IIH subunit 2)
+GeneName	GTF2H2C_2 GTF2H2 GTF2H2C
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDEEPERTKRWEGGYERTWEILKEDESGSLKATIEDILFKAKRKRCATFMW
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	F5GYE9
+Accession	F5GYE9
+EntryName	F5GYE9_HUMAN
+ProteinName	Elongator complex protein 2
+GeneName	ELP2
+Length	120
+Function	
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVAPVLETSHVFCCPNRVRGVLNWSSGPRGLLAFGTSCSVVLYDPLKRVVVTNLNGHTARVNCIQWICKQDGSPSTELVSGGSDNQVIHWEIEDNQAMKDLFMRCMLFTRGGHQILHYVH
+PTM	

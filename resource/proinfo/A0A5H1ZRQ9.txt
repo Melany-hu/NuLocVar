@@ -1,0 +1,25 @@
+UniprotID	A0A5H1ZRQ9
+Accession	A0A5H1ZRQ9
+EntryName	A0A5H1ZRQ9_HUMAN
+ProteinName	Cytochrome c oxidase assembly factor 8
+GeneName	COA8
+Length	112
+Function	
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVVLRAGKKTFLPPLCRAFACRGCQLAPERGAERRDTAPSGVSRFCPPRKSCHDWIGPPDKYSNLRPVHFYIPENESPLEQKLRKLRQETQEWNQQFWANQNLTFSKVRKQH
+PTM	

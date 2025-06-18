@@ -1,0 +1,25 @@
+UniprotID	A0A096ZG20
+Accession	A0A096ZG20
+EntryName	A0A096ZG20_HUMAN
+ProteinName	Rhesus D
+GeneName	RHD
+Length	50
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IRLATMSALSVLNSVDAVLGKVNLAQLVVMVLVEVTALGNLRMVISNIFN
+PTM	

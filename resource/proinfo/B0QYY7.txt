@@ -1,0 +1,25 @@
+UniprotID	B0QYY7
+Accession	B0QYY7
+EntryName	B0QYY7_HUMAN
+ProteinName	RNA binding protein fox-1 homolog 2 (Fox-1 homolog B) (RNA-binding motif protein 9) (RNA-binding protein 9)
+GeneName	RBFOX2
+Length	200
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSDSMDQPRNPCENEPLTPGYHGFPARDSQGNQEPTTTPDAMVQPFTTIPFPPPPQNGIPTEYGVPHTQDYAGQTGEHNLTLYGSTQAHGEQSSNSPSTQNGSLTQTEGGAQTDGQQSQTQSSENSESKSTPKRLHVSNIPFRFRDPDLRQMFGQFGKILDVEIIFNERGSKGFGFVTFENSADADRAREKLHGTVVEG
+PTM	

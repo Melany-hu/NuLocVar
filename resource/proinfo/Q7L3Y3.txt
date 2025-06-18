@@ -1,0 +1,25 @@
+UniprotID	Q7L3Y3
+Accession	Q7L3Y3
+EntryName	Q7L3Y3_HUMAN
+ProteinName	HCG1785781 (PSD3 protein) (cDNA, FLJ94448)
+GeneName	PSD3 hCG_1785781
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLVNGENFGVSLNIFPSVAINKSSGAPRRVPAQGSIKDHTAGLRLTALSPEHQSPAESGDNTSSLQRGTSPPAATSLRLLLSSKDSLGFKCHFPCFRDPGVLIA
+PTM	

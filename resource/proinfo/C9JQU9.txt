@@ -1,0 +1,25 @@
+UniprotID	C9JQU9
+Accession	C9JQU9
+EntryName	C9JQU9_HUMAN
+ProteinName	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+GeneName	UGP2
+Length	175
+Function	UTP--glucose-1-phosphate uridylyltransferase catalyzing the conversion of glucose-1-phosphate into UDP-glucose, a crucial precursor for the production of glycogen.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSRFVQDGASQFQEVIRQELELSVKKELEKILTTASSHEFEHTKKDLDGFRKLFHRFLQEKGPSVDWGKIQRPPEDSIQPYEKIKARGLPDNISSVLNKLVVVKLNGGLGTSMGCKGPKSLIGVRNENTFLDLTVQQIEHLNKTYNTDVPLVLMNSFNTDEDTKKILQKYNHCRV
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q15561-2
+Accession	Q15561;H0Y308;Q6MZR9;Q8NEV5;Q92883;Q96BK2
+EntryName	TEAD4_HUMAN
+ProteinName	Transcriptional enhancer factor TEF-3 (TEA domain family member 4) (TEAD-4) (Transcription factor 13-like 1) (Transcription factor RTEF-1)
+GeneName	TEAD4 RTEF1 TCF13L1 TEF3
+Length	305
+Function	Transcription factor which plays a key role in the Hippo signaling pathway, a pathway involved in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein MST1/MST2, in complex with its regulatory protein SAV1, phosphorylates and activates LATS1/2 in complex with its regulatory protein MOB1, which in turn phosphorylates and inactivates YAP1 oncoprotein and WWTR1/TAZ. Acts by mediating gene expression of YAP1 and WWTR1/TAZ, thereby regulating cell proliferation, migration and epithelial mesenchymal transition (EMT) induction. Binds specifically and non-cooperatively to the Sph and GT-IIC 'enhansons' (5'-GTGGAATGT-3') and activates transcription. Binds to the M-CAT motif.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAMSSAQIISATAFHSSMALARGPGRPAVSGFWQGALPGQAGTSHDVKPFSQQTYAVQPPLPLPGFESPAGPAPSPSAPPAPPWQGRSVASSKLWMLEFSAFLEQQQDPDTYNKHLFVHIGQSSPSYSDPYLEAVDIRQIYDKFPEKKGGLKDLFERGPSNAFFLVKFWADLNTNIEDEGSSFYGVSSQYESPENMIITCSTKVCSFGKQVVEKVETEYARYENGHYSYRIHRSPLCEYMINFIHKLKHLPEKYMMNSVLENFTILQVVTNRDTQETLLCIAYVFEVSASEHGAQHHIYRLVKE
+PTM	Acetylation:65,273,339,344;Methylation:116,123,344;Phosphorylation:69,134,142,205,241,242,254,358;SUMOylation:65,73,116,118,178;Ubiquitylation:73,116,273,339

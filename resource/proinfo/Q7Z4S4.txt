@@ -1,0 +1,25 @@
+UniprotID	Q7Z4S4
+Accession	Q7Z4S4
+EntryName	Q7Z4S4_HUMAN
+ProteinName	Hepatoma-derived growth factor 4b
+GeneName	HDGF
+Length	158
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSCFSRSKYKTGDLVFAKLKGYAHWPARIEHVAEANRYQVFFFGTHETALLGPRHLFPYEESKEKFGKPNKRRGFSEGLWEIEHDPMVEASSSQCSEEDQSYTEDPGALEMEPAEEREAEACPFVEEPDQAQEQLPPLEEEATEKAVQGLIVGEIEGL
+PTM	

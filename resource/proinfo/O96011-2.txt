@@ -1,0 +1,25 @@
+UniprotID	O96011-2
+Accession	O96011;B3KN85;B4DXH9;Q96ET2
+EntryName	PX11B_HUMAN
+ProteinName	Peroxisomal membrane protein 11B (Peroxin-11B) (Peroxisomal biogenesis factor 11B) (Protein PEX11 homolog beta) (PEX11-beta)
+GeneName	PEX11B
+Length	245
+Function	Involved in peroxisomal proliferation (PubMed:9792670). May regulate peroxisome division by recruiting the dynamin-related GTPase DNM1L to the peroxisomal membrane (PubMed:12618434). Promotes membrane protrusion and elongation on the peroxisomal surface (PubMed:20826455).
+Subcellular Location	Peroxisome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGKLRAAQYACSLLGHALQRHGASPELQKQIRQLESHLSLGRKLLRLGNSADALESAKRAVHLSDVVLRFCITVSHLNRALYFACDNVLWAGKSGLAPRVDQEKWAQRSFRYYLFSLIMNLSRDAYEIRLLMEQESSACSRRLKGSGGGVPGGSETGGLGGPGTPGGGLPQLALKLRLQVLLLARVLRGHPPLLLDVVRNACDLFIPLDKLGLWRCGPGIVGLCGLVSSILSILTLIYPWLRLKP
+PTM	Acetylation:43;Methylation:43,189;Phosphorylation:26,38,50,53,123,126,127,130,136,140,160,168;Ubiquitylation:43,158

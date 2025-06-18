@@ -1,0 +1,25 @@
+UniprotID	B1AJV2
+Accession	B1AJV2
+EntryName	B1AJV2_HUMAN
+ProteinName	Zinc finger protein 81
+GeneName	ZNF81
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPANEDAPQPGEHGSACEVSVSFEDVTVDFSREEWQQLDSTQRRLYQDVMLENYSHLLSVGFEVPKPEVIFKLEQGEGPWTLEGEAPHQSCSGISTYFVTSTV
+PTM	

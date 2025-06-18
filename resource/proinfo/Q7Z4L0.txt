@@ -1,0 +1,25 @@
+UniprotID	Q7Z4L0
+Accession	Q7Z4L0;Q495K7
+EntryName	COX8C_HUMAN
+ProteinName	Cytochrome c oxidase subunit 8C, mitochondrial (Cytochrome c oxidase polypeptide 8 isoform 3) (Cytochrome c oxidase polypeptide VIII isoform 3) (COX VIII-3) (Cytochrome c oxidase subunit 8-3) (COX8-3) (Cytochrome c oxidase subunit VIIIC)
+GeneName	COX8C
+Length	72
+Function	Component of the cytochrome c oxidase, the last enzyme in the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol-cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transport and the ATP synthase. Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Electrons originating from reduced cytochrome c in the intermembrane space (IMS) are transferred via the dinuclear copper A center (CU(A)) of subunit 2 and heme A of subunit 1 to the active site in subunit 1, a binuclear center (BNC) formed by heme A3 and copper B (CU(B)). The BNC reduces molecular oxygen to 2 water molecules using 4 electrons from cytochrome c in the IMS and 4 protons from the mitochondrial matrix.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	0.3215,0.3740,0.4149,0.2817,0.3249,0.3667,0.2884,0.2783,0.2129,0.1611,0.1881,0.1501,0.1424,0.2399,0.2884,0.3053,0.3117,0.1881,0.2258,0.2034,0.2364,0.2292,0.2470,0.2680,0.3807,0.3872,0.3872,0.5017,0.4441,0.5296,0.5951,0.5456,0.6661,0.5901,0.5176,0.4801,0.4541,0.3599,0.4119,0.3774,0.2609,0.1554,0.1643,0.1528,0.0662,0.0372,0.0364,0.0414,0.0281,0.0398,0.0218,0.0178,0.0138,0.0136,0.0184,0.0141,0.0218,0.0231,0.0188,0.0294,0.0473,0.1070,0.1702,0.1323,0.0985,0.1731,0.2364,0.1881,0.1229,0.1251,0.1251,0.2399
+ExposeBuried	1,1,1,0,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,0,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1
+SurfaceAccessbility	0.696,0.497,0.327,0.238,0.486,0.426,0.477,0.090,0.354,0.268,0.423,0.419,0.228,0.143,0.342,0.285,0.075,0.136,0.151,0.152,0.328,0.130,0.418,0.291,0.188,0.277,0.386,0.135,0.310,0.416,0.576,0.390,0.326,0.330,0.467,0.510,0.379,0.255,0.188,0.427,0.195,0.146,0.403,0.170,0.088,0.093,0.117,0.060,0.071,0.088,0.076,0.076,0.161,0.165,0.083,0.084,0.143,0.125,0.108,0.095,0.193,0.069,0.120,0.293,0.303,0.117,0.491,0.502,0.183,0.522,0.669,0.922
+SecondStructure	C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C
+Hydropathy	1.9,-1.6,3.8,3.8,-4.5,-0.4,-4.5,2.5,-1.6,1.8,-4.5,-4.5,-3.2,-1.3,-4.5,-4.5,3.8,1.8,3.8,3.8,-0.4,3.8,-3.5,-1.6,1.8,-1.6,-4.5,2.8,1.8,-3.2,-0.8,-0.4,-1.6,-1.6,-4.5,-3.5,-4.5,-1.6,3.8,-0.8,1.8,1.8,-3.5,1.9,1.8,4.2,-0.4,3.8,4.2,4.2,2.8,2.8,-0.7,-0.7,2.8,3.8,-0.7,-1.6,1.8,1.8,-1.3,4.2,3.8,-0.4,-3.5,3.8,-3.9,-3.5,2.8,-4.5,-4.5,-3.5
+Polar	0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,1
+Charge	0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLLRGRCPARRHYRRLALLGLQPAPRFAHSGPPRQRPLSAAEMAVGLVVFFTTFLTPAAYVLGNLKQFRRN
+PTM	

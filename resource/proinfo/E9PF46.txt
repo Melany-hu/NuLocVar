@@ -1,0 +1,25 @@
+UniprotID	E9PF46
+Accession	E9PF46
+EntryName	E9PF46_HUMAN
+ProteinName	Acylphosphatase (EC 3.6.1.7)
+GeneName	ACYP2
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTAQSLKSVDYEVFGRVQGVCFRMYTEDEARKIGVVGWVKNTSKGTVTGQVQGPEDKVNSMLECSGLI
+PTM	

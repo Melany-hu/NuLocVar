@@ -1,0 +1,25 @@
+UniprotID	H3BQH8
+Accession	H3BQH8
+EntryName	H3BQH8_HUMAN
+ProteinName	TATA-box binding protein associated factor, RNA polymerase I subunit C
+GeneName	TAF1C
+Length	58
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLENFKLEGAGVSLGLPQQPTAPLLYPRGPHPGHVGGEPLGRAAARGAGAAVGAAASG
+PTM	

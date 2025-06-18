@@ -1,0 +1,25 @@
+UniprotID	D3DUE0
+Accession	D3DUE0;D3DUE1
+EntryName	D3DUE0_HUMAN
+ProteinName	Family with sequence similarity 100, member A, isoform CRA_a (UBA like domain containing 1)
+GeneName	UBALD1 FAM100A hCG_15185
+Length	117
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMCTPANTPATPPNFPDALTMFSRLKASESFHSGGSGSPMAATATSPPPHFPHAATSSSAASSWPTAASPPGGPQHHQPQPPLWTPTPPSPASDWPPLAPQQATSEPRAHPAMEAER
+PTM	

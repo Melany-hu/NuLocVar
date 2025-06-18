@@ -1,0 +1,25 @@
+UniprotID	H3BNK4
+Accession	H3BNK4
+EntryName	H3BNK4_HUMAN
+ProteinName	NDRG family member 4
+GeneName	NDRG4
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLQELRFPEEKPLLRGQDATELESSDAFLLAADTDWKVGEGNAGAVKLAGLGDPRWSPGHLLSPGHQEHDIETPYGLLHVVIRGSPKGNRPAILTYHDVGLNHKLCFNTFFNFEDMQEITKHFVVCHVDAPGQQVGASQFPQGYQFPSMEQLAAM
+PTM	

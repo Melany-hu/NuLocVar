@@ -1,0 +1,25 @@
+UniprotID	Q6V702-1
+Accession	Q6V702;E7EQ13;Q6ZQY4;Q8N4G9
+EntryName	CF299_HUMAN
+ProteinName	Cilia- and flagella-associated protein 299
+GeneName	CFAP299 C4orf22
+Length	250
+Function	May be involved in spermatogenesis.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	97...101
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDQEEGLKALDNIVTQFNAYEDFLDSQITTVDLYYLEDETLARQLVELGYRGTGERVKREDFEARKAAIEIARLAERAQQKTLTSAGKDLQDNFLTALAMREEDNRSGKLSLNQQETDAAHILKKQLASVIFIRDRNSHGQEISGYIDYAHRLKTEDFEVYFTGKKRLLPRPTDISFYNWDADIAVSNSSPNYQVIADNPEGLLFRYKRDRKILNVDPKAQPGDNSTRITILTELYVQAVIFDHISRRKT
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	H0YC06
+Accession	H0YC06
+EntryName	H0YC06_HUMAN
+ProteinName	PWWP domain containing 2A
+GeneName	PWWP2A
+Length	69
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VHFTRRYQNPSSGSLPPRVRLKPQRYRNEENDSSLKTGLEKMRSGKMAPKPQSRCTSTRSAEFIDQEAD
+PTM	

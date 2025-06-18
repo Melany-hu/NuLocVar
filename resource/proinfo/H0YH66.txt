@@ -1,0 +1,25 @@
+UniprotID	H0YH66
+Accession	H0YH66
+EntryName	H0YH66_HUMAN
+ProteinName	Huntingtin interacting protein 1 related
+GeneName	HIP1R
+Length	197
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XRHPLACRRRSWRAAGEAADKVVLHTGKYEELIVCSHEIAASTAQLVAASKVKANKHSPHLSRLQECSRTVNERAANVVASTKSGQEQIEDRDTMDFSGLSLIKLKKQEMETQVRVLELEKTLEAERMRLGELRKQHYVLAGASGSPGEEVAIRPSTAPRSVTTKKPPLAQKPSVAPRQDHQLDKKDGIYPAQLVNY
+PTM	

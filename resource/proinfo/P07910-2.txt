@@ -1,0 +1,25 @@
+UniprotID	P07910-2
+Accession	P07910;D3DS19;D3DS22;P22628;Q53EX2;Q59FD3;Q5FWE8;Q86SF8;Q86U45;Q96HK7;Q96HM4;Q96IY5;Q9BTS3
+EntryName	HNRPC_HUMAN
+ProteinName	Heterogeneous nuclear ribonucleoproteins C1/C2 (hnRNP C1/C2)
+GeneName	HNRNPC HNRPC
+Length	293
+Function	Binds pre-mRNA and nucleates the assembly of 40S hnRNP particles (PubMed:8264621). Interacts with poly-U tracts in the 3'-UTR or 5'-UTR of mRNA and modulates the stability and the level of translation of bound mRNA molecules (PubMed:12509468, PubMed:16010978, PubMed:7567451, PubMed:8264621). Single HNRNPC tetramers bind 230-240 nucleotides. Trimers of HNRNPC tetramers bind 700 nucleotides (PubMed:8264621). May play a role in the early steps of spliceosome assembly and pre-mRNA splicing. N6-methyladenosine (m6A) has been shown to alter the local structure in mRNAs and long non-coding RNAs (lncRNAs) via a mechanism named 'm(6)A-switch', facilitating binding of HNRNPC, leading to regulation of mRNA splicing (PubMed:25719671).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	155..161
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASNVTNKTDPRSMNSRVFIGNLNTLVVKKSDVEAIFSKYGKIVGCSVHKGFAFVQYVNERNARAAVAGEDGRMIAGQVLDINLAAEPKVNRGKAGVKRSAAEMYGSSFDLDYDFQRDYYDRMYSYPARVPPPPPIARAVVPSKRQRVSGNTSRRGKSGFNSKSGQRGSSKSGKLKGDDLQAIKKELTQIKQKVDSLLENLEKIEKEQSKQAVEMKNDKSEEEQSSSSVKKDETNVKMESEGGADDSAEEGDLLDDDDNEDRGDDQLELIKDDEKEAEEGEDDRDSANGEDDS
+PTM	Acetylation:8,29,30,39,42,50,89,157,170,176,187,189,197,198,204,206,216,219,223,229,232,243,244;Methylation:29,30,39,61,64,89,98,135,142,151,157,160,189,197,198,204,206,216,229,232,243,284,288;Phosphorylation:3,9,25,31,38,47,57,100,105,107,109,113,115,119,120,121,137,138,139,156,162,165,166,171,175,185,209,222,233,238,239,240,241,247,253,260,299,306;SUMOylation:8,29,30,39,42,50,89,94,98,157,170,176,189,197,198,204,206,219,223,229,232,243,244,250,284;Ubiquitylation:8,29,30,39,42,50,89,94,157,170,176,187,189,197,198,204,206,216,223,229,232,243,244,284

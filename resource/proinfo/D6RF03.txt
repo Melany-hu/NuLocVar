@@ -1,0 +1,25 @@
+UniprotID	D6RF03
+Accession	D6RF03
+EntryName	D6RF03_HUMAN
+ProteinName	Zinc finger protein 765
+GeneName	ZNF765
+Length	128
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMKEFSSTAQGNREVFHAGTSQRHESHHNGDFCFQDIDKDIHDIEFQWQEDERNGHEALMTKIKKLTGSTERYDQNYAGNKPVKYQLGFSFHSHLPELHIFHTEEKIDNQVVKSIHDASLVSTAQRIS
+PTM	

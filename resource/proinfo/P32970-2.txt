@@ -1,0 +1,25 @@
+UniprotID	P32970-2
+Accession	P32970;B4DPR8;Q53XX4;Q96J57
+EntryName	CD70_HUMAN
+ProteinName	CD70 antigen (CD27 ligand) (CD27-L) (Tumor necrosis factor ligand superfamily member 7) (CD antigen CD70)
+GeneName	CD70 CD27L CD27LG TNFSF7
+Length	208
+Function	Expressed at the plasma membrane of B cells, it is the ligand of the CD27 receptor which is specifically expressed at the surface of T cells (PubMed:28011863, PubMed:28011864, PubMed:8387892). The CD70-CD27 signaling pathway mediates antigen-specific T cell activation and expansion which in turn provides immune surveillance of B cells (PubMed:28011863, PubMed:28011864).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEEGSGCSVRRRPYGCVLRAALVPLVAGLVICLVVCIQRFAQAQQQLPLESLGWDVAELQLNHTGPQQDPRLYWQGGPALGRSFLHGPELDKGQLRIHRDGIYMVHIQVTLAICSSTTASRHHPTTLAVGICSPASRSISLLRLSFHQGLFGFWNWGLKVKCFLRHLIWTAHCFIPLTQLVFMQALQSWRNHHCSHFTDEENRGVNR
+PTM	Glycosylation:170;Phosphorylation:9,84;Ubiquitylation:93

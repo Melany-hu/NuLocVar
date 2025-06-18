@@ -1,0 +1,25 @@
+UniprotID	A0A0S2Z5C4
+Accession	A0A0S2Z5C4
+EntryName	A0A0S2Z5C4_HUMAN
+ProteinName	Sulfatase modifying factor 2 isoform 4
+GeneName	SUMF2
+Length	188
+Function	
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQLQGGRFLMGTNSPDSRDGDGPVREATVKPFAIDIFPVTNKDFRDFVREKKYRTEAEMFGWSFVFEDFVSDELRNKATQPMKGKFPKGDKAEDGFHGVSPVNAFPAQNNYGLYDLLGNVWEWTASPYQAAEQDMRVLRGASWIDTADGSANHRARVTTRMGNTPDSASDNLGFRCAADAGRPPGEL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P43115-10
+Accession	P43115;B0AZN4;B1AK19;B5BUP5;O00326;Q12943;Q12944;Q12945;Q147X8;Q16546;Q5CZ59;Q5CZ61;Q5CZ62;Q5CZ63;Q5CZ64
+EntryName	PE2R3_HUMAN
+ProteinName	Prostaglandin E2 receptor EP3 subtype (PGE receptor EP3 subtype) (PGE2 receptor EP3 subtype) (PGE2-R) (Prostanoid EP3 receptor)
+GeneName	PTGER3
+Length	431
+Function	Receptor for prostaglandin E2 (PGE2) (PubMed:7883006, PubMed:7981210, PubMed:8117308, PubMed:8135729, PubMed:8307176). The activity of this receptor can couple to both the inhibition of adenylate cyclase mediated by G(i) proteins, and to an elevation of intracellular calcium (PubMed:7883006, PubMed:7981210, PubMed:8117308, PubMed:8135729). Required for normal development of fever in response to pyrinogens, including IL1B, prostaglandin E2 and bacterial lipopolysaccharide (LPS). Required for normal potentiation of platelet aggregation by prostaglandin E2, and thus plays a role in the regulation of blood coagulation. Required for increased HCO3(-) secretion in the duodenum in response to mucosal acidification, and thereby contributes to the protection of the mucosa against acid-induced ulceration. Not required for normal kidney function, normal urine volume and osmolality (By similarity).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKETRGYGGDAPFCTRLNHSYTGMWAPERSAEARGNLTRPPGSGEDCGSVSVAFPITMLLTGFVGNALAMLLVSRSYRRRESKRKKSFLLCIGWLALTDLVGQLLTTPVVIVVYLSKQRWEHIDPSGRLCTFFGLTMTVFGLSSLFIASAMAVERALAIRAPHWYASHMKTRATRAVLLGVWLAVLAFALLPVLGVGQYTVQWPGTWCFISTGRGGNGTSSSHNWGNLFFASAFAFLGLLALTVTFSCNLATIKALVSRCRAKATASQSSAQWGRITTETAIQLMGIMCVLSVCWSPLLIMMLKMIFNQTSVEHCKTHTEKQKECNFFLIAVRLASLNQILDPWVYLLLRKILLRKFCQVANAVSSCSNDGQKGQPISLSNEIIQTEAMRKRRLREQEMGPDGRCFCHAWRQVPRTWCSSHDREPCSVQLS
+PTM	Methylation:351,356;Phosphorylation:30,57

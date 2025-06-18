@@ -1,0 +1,25 @@
+UniprotID	E9PIE0
+Accession	E9PIE0
+EntryName	E9PIE0_HUMAN
+ProteinName	Connector enhancer of kinase suppressor of Ras 1
+GeneName	CNKSR1
+Length	63
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPVETWTPGKVLTTPCRTIPLRTGSCLARTCSSSAPKASRLWLCGLWDTRSSSWAGWNSSRP
+PTM	

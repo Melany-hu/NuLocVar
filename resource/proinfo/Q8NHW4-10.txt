@@ -1,0 +1,25 @@
+UniprotID	Q8NHW4-10
+Accession	Q8NHW4;B2RUZ3;B7ZMA8;Q50EM1;Q50EM2;Q50EM3;Q50EM4;Q50EM5;Q50EM6;Q50EM7;Q50EM8;Q569J2;Q6NSB0
+EntryName	CC4L_HUMAN
+ProteinName	C-C motif chemokine 4-like (Lymphocyte activation gene 1 protein) (LAG-1) (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Monocyte adherence-induced protein 5-alpha) (Small-inducible cytokine A4-like)
+GeneName	CCL4L1 CCL4L LAG1 SCYA4L1; CCL4L2 CCL4L SCYA4L2
+Length	103
+Function	Chemokine that induces chemotaxis of cells expressing CCR5 or CCR1. Inhibits HIV replication in peripheral blood monocytes that express CCR5.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLCVTVLSLLVLVAAFCSLALSAPMGSDPPTACCFSYTARKLPRNFVVDYYETSSLCSQPAVVYRESASSAAPGRIPSTRAAPHGPWSGRGRCLPQARDKAR
+PTM	

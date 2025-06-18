@@ -1,0 +1,25 @@
+UniprotID	Q99640-3
+Accession	Q99640;B3KUN8;B4DXD4;D3DUA4;F8W164;I3L1V2;O14731;Q7LE24;Q8TCM9
+EntryName	PMYT1_HUMAN
+ProteinName	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase (EC 2.7.11.1) (Myt1 kinase)
+GeneName	PKMYT1 MYT1
+Length	490
+Function	Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins (PubMed:10373560, PubMed:10504341, PubMed:9001210, PubMed:9268380). Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation (PubMed:9001210, PubMed:9268380). May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect (PubMed:9001210, PubMed:9268380).
+Subcellular Location	Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPMPTEGTPPPLSGTPIPVPAYFRHAEPGFSLKRPRGLSRSLPPPPPAKGSIPISRLFPPRTPGWHQLQPRRVSFRGEASETLQSPGYDPSRPESFFQQSFQRLSRLGHGSYGEVFKVRSKEDGRLYAVKRSMSPFRGPKDRARKLAEVGSHEKVGQHPCCVRLEQAWEEGGILYLQTELCGPSLQQHCEAWGASLPEAQVWGYLRDTLLALAHLHSQGLVHLDVKPANIFLGPRGRCKLGDFGLLVELGTAGAGEVQEGDPRYMAPELLQGSYGTAADVFSLGLTILEVACNMELPHGGEGWQQLRQGYLPPEFTAGLSSELRSVLVMMLEPDPKLRATAEALLALPVLRQPRAWGVLWCMAAEALSRGWALWQALLALLCWLWHGLAHPASWLQPLGPPATPPGSPPCSLLLDSSLSSNWDDDSLGPSLSPEAVLARTVGSTSTPRSRCTPRDALDLSDINSEPPRGSFPSFEPRNLLSLFEDTLDPT
+PTM	Acetylation:126;Methylation:42,126,139,235;Phosphorylation:14,17,22,24,31,40,48,50,60,64,71,89,94,97,104,109,120,121,141,143,160,330,452,453,454,455,469,473,479,482,490,495;SUMOylation:42,126,154;Ubiquitylation:42,58,126,139,154,163,248

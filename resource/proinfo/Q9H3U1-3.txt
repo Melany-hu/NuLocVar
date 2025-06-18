@@ -1,0 +1,25 @@
+UniprotID	Q9H3U1-3
+Accession	Q9H3U1;A8K6F7;Q7L3Y6;Q9H3U8;Q9NSE8;Q9NSE9
+EntryName	UN45A_HUMAN
+ProteinName	Protein unc-45 homolog A (Unc-45A) (GCUNC-45) (Smooth muscle cell-associated protein 1) (SMAP-1)
+GeneName	UNC45A SMAP1
+Length	222
+Function	Acts as a co-chaperone for HSP90. Prevents the stimulation of HSP90AB1 ATPase activity by AHSA1. Positive factor in promoting PGR function in the cell. May be necessary for proper folding of myosin (Potential). Necessary for normal cell proliferation. Necessary for normal myotube formation and myosin accumulation during muscle cell development. May play a role in erythropoiesis in stroma cells in the spleen (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTFPGERIYEVVRPLVSLLHLNCSGLQNFEALMALTNLAGISERLRQKILKEKAVPMIEGYMFEEHEMIRRAATECMCNLAMSKEVQDLFEAQGNDRLKLLVLYSGEDDELLQRAAAGGLAMLTSMRPTLCSRIPQVTTHWLEILQALLLSSNQELQHRGAVVVLNMVEASREIASTLMESEMMEILSVLAKGDHSPVTRAAAACLDKAVEYGLIQPNQDGE
+PTM	Acetylation:70,76,87,93,190,321,383,483,487,525;Methylation:87,104,133,142,166,269,273,321,377,400,467,483,561,572,614,707,714,914;Phosphorylation:2,4,8,15,19,20,53,96,120,317,472,475,480,493,555,668,731,846,847,918;Ubiquitylation:93,104,142,173,190,279,321,377,400,411,487,516,525,528,614,617,628,707,806,914

@@ -1,0 +1,25 @@
+UniprotID	Q99217-2
+Accession	Q99217;Q96NW6;Q9UCA7
+EntryName	AMELX_HUMAN
+ProteinName	Amelogenin, X isoform
+GeneName	AMELX AMG AMGX
+Length	175
+Function	Plays a role in biomineralization. Seems to regulate the formation of crystallites during the secretory stage of tooth enamel development. Thought to play a major role in the structural organization and mineralization of developing enamel.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTWILFACLLGAAFAMPVLTPLKWYQSIRPPYPSYGYEPMGGWLHHQIIPVLSQQHPPTHTLQPHHHIPVVPAQQPVIPQQPMMPVPGQHSMTPIQHHQPNLPPPAQQPYQPQPVQPQPHQPMQPQPPVHPMQPLPPQPPLPPMFPMQPLPPMLPDLTLEAWPSTDKTKREEVD
+PTM	

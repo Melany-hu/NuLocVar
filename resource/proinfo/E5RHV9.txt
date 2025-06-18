@@ -1,0 +1,25 @@
+UniprotID	E5RHV9
+Accession	E5RHV9
+EntryName	E5RHV9_HUMAN
+ProteinName	CCR4-NOT transcription complex subunit 7
+GeneName	CNOT7
+Length	51
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAATVDHSQRICEVWACNLDEEMKKIRQVIRKYNYVAMFFKKLGFSIGIL
+PTM	

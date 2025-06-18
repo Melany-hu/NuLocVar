@@ -1,0 +1,25 @@
+UniprotID	P11912-2
+Accession	P11912;A0N775;Q53FB8
+EntryName	CD79A_HUMAN
+ProteinName	B-cell antigen receptor complex-associated protein alpha chain (Ig-alpha) (MB-1 membrane glycoprotein) (Membrane-bound immunoglobulin-associated protein) (Surface IgM-associated protein) (CD antigen CD79a)
+GeneName	CD79A IGA MB1
+Length	188
+Function	Required in cooperation with CD79B for initiation of the signal transduction cascade activated by binding of antigen to the B-cell antigen receptor complex (BCR) which leads to internalization of the complex, trafficking to late endosomes and antigen presentation. Also required for BCR surface expression and for efficient differentiation of pro- and pre-B-cells. Stimulates SYK autophosphorylation and activation. Binds to BLNK, bringing BLNK into proximity with SYK and allowing SYK to phosphorylate BLNK. Also interacts with and increases activity of some Src-family tyrosine kinases. Represses BCR signaling during development of immature B-cells.
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGGPGVLQALPATIFLLFLLSAVYLGPGCQALWMHKVPASLMVSLGEDAHFQCPHNSSNNANVTWWRVLHGNYTWPPEFLGPGEDPNEPPPRPFLDMGEGTKNRIITAEGIILLFCAVVPGTLLLFRKRWQNEKLGLDAGDEYEDENLYEGLNLDDCSMYEDISRGLQGTYQDVGSLNIGDVQLEKP
+PTM	Glycosylation:73,88,95,112;Phosphorylation:209,210,215

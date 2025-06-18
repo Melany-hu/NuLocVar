@@ -1,0 +1,25 @@
+UniprotID	Q9Y284
+Accession	Q9Y284;B2R4T8;Q9BVI3
+EntryName	ASTER_HUMAN
+ProteinName	PAT complex subunit Asterix (Protein associated with the ER translocon of 10kDa) (PAT-10) (PAT10) (WD repeat domain 83 opposite strand) (WDR83 opposite strand)
+GeneName	WDR83OS C19orf56 CGI-140 My006 PTD008
+Length	106
+Function	Component of the multi-pass translocon (MPT) complex that mediates insertion of multi-pass membrane proteins into the lipid bilayer of membranes (PubMed:12475939, PubMed:32814900, PubMed:36261522). The MPT complex takes over after the SEC61 complex: following membrane insertion of the first few transmembrane segments of proteins by the SEC61 complex, the MPT complex occludes the lateral gate of the SEC61 complex to promote insertion of subsequent transmembrane regions (PubMed:32814900, PubMed:36261522). Within the MPT complex, the PAT subcomplex sequesters any highly polar regions in the transmembrane domains away from the non-polar membrane environment until they can be buried in the interior of the fully assembled protein (By similarity). Within the PAT subcomplex, WDR83OS/Asterix binds to and redirects the substrate to a location behind the SEC61 complex (By similarity).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	0.7289,0.7755,0.7916,0.7982,0.7080,0.5854,0.6136,0.4652,0.4831,0.5211,0.5577,0.6482,0.6482,0.6712,0.5382,0.5382,0.6269,0.5901,0.4864,0.4831,0.4940,0.5055,0.4864,0.4979,0.5139,0.4507,0.4801,0.4801,0.5254,0.4441,0.4256,0.3566,0.2609,0.1643,0.1449,0.1791,0.1028,0.0929,0.0719,0.0835,0.0483,0.0443,0.0253,0.0248,0.0125,0.0082,0.0108,0.0086,0.0070,0.0080,0.0085,0.0059,0.0052,0.0065,0.0065,0.0052,0.0060,0.0057,0.0052,0.0065,0.0075,0.0099,0.0096,0.0130,0.0141,0.0287,0.0543,0.0676,0.1449,0.1501,0.1349,0.1759,0.2783,0.2609,0.2164,0.2541,0.3249,0.2503,0.3566,0.3566,0.2951,0.2436,0.1914,0.1914,0.1092,0.0618,0.0631,0.0646,0.0719,0.0704,0.1048,0.1048,0.1115,0.1251,0.2364,0.1759,0.2164,0.1969,0.2575,0.2328,0.2399,0.2817,0.3286,0.3774,0.3529,0.5419
+ExposeBuried	1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+SurfaceAccessbility	0.749,0.574,0.509,0.576,0.503,0.305,0.537,0.368,0.313,0.498,0.410,0.278,0.514,0.366,0.150,0.112,0.402,0.195,0.509,0.275,0.340,0.335,0.597,0.620,0.080,0.439,0.359,0.309,0.173,0.624,0.470,0.318,0.293,0.282,0.395,0.062,0.087,0.232,0.038,0.031,0.085,0.074,0.026,0.046,0.124,0.069,0.022,0.064,0.050,0.051,0.034,0.123,0.050,0.171,0.043,0.023,0.057,0.048,0.024,0.060,0.043,0.045,0.025,0.127,0.044,0.046,0.206,0.092,0.114,0.439,0.405,0.418,0.397,0.478,0.671,0.309,0.080,0.383,0.422,0.055,0.045,0.205,0.189,0.041,0.076,0.079,0.086,0.032,0.075,0.082,0.045,0.025,0.085,0.198,0.089,0.071,0.462,0.461,0.304,0.504,0.332,0.298,0.460,0.414,0.545,0.609
+SecondStructure	C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,B,B,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-0.7,-3.5,-3.5,1.9,-0.8,-3.5,-1.6,-4.5,-4.5,-1.6,-3.5,-3.9,4.2,3.8,-4.5,-1.3,-3.9,-1.6,-1.6,-1.6,-0.8,-3.5,2.5,-3.5,-1.6,1.8,3.8,-3.5,-3.5,-1.6,-0.7,-1.6,-3.5,-1.3,1.9,-3.5,3.8,3.8,-0.4,1.9,4.5,2.8,-0.8,1.9,2.5,-0.4,3.8,1.9,3.8,-3.9,3.8,-3.9,-0.9,2.5,1.8,-0.9,4.2,1.8,4.2,-1.3,2.5,-0.8,2.8,4.5,-0.8,2.8,1.8,-3.5,-0.8,-4.5,-0.8,-0.8,-3.5,-3.5,-0.7,-3.9,-3.5,1.9,1.9,-0.8,-0.8,2.8,1.9,3.8,-0.8,4.5,-0.8,1.8,4.2,4.2,1.9,-0.8,-1.3,3.8,-3.5,-3.5,-1.6,-3.5,-1.6,1.9,-0.7,-1.6,-1.6,-0.9
+Polar	0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0
+Charge	0,0,0,0,0,0,0,-1,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,-1,0,0,0,0,0,-1,-1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTNNMSDPRRPNKVLRYKPPPSECNPALDDPTPDYMNLLGMIFSMCGLMLKLKWCAWVAVYCSFISFANSRSSEDTKQMMSSFMLSISAVVMSYLQNPQPMTPPW
+PTM	Methylation:52;Phosphorylation:3

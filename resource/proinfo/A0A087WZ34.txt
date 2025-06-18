@@ -1,0 +1,25 @@
+UniprotID	A0A087WZ34
+Accession	A0A087WZ34
+EntryName	A0A087WZ34_HUMAN
+ProteinName	Centrosomal protein 250
+GeneName	CEP250
+Length	34
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DGRGQKNSDAKCVAELQKEGRAHGKWHADSDTGH
+PTM	

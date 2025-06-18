@@ -1,0 +1,25 @@
+UniprotID	O43766-3
+Accession	O43766;A8K873;C9JCF6;Q8IV62
+EntryName	LIAS_HUMAN
+ProteinName	Lipoyl synthase, mitochondrial (EC 2.8.1.8) (Lipoate synthase) (LS) (Lip-syn) (Lipoic acid synthase)
+GeneName	LIAS LAS HUSSY-01
+Length	329
+Function	Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSLRCGDAARTLGPRVFGRYFCSPVRPLSSLPDKKKELLQNGPDLQDFVSGDLADRSTWDEYKGNLKRQKGERLRLPPWLKTEIPMGKNYNKLKNTLRNLNLHTVCEEARCPNIGECWGGGEYATATATIMLMGDTCTRGCRFCSVKTARNPPPLDASEPYNTAKAIAEWGLDYVVLTSVDRDDMPDGGAEHIAKTVSYLKESKVRDPRANFDQSLRVLKHAKKVQPDVISKTSIMLGLGENDEQVYATMKALREADVDCLTLGQYMQPTRRHLKVEEYITPEKFKYWEKVGNELGFHYTASGPLVRSSYKAGEFFLKNLVAKRKTKDL
+PTM	Methylation:225,247;Phosphorylation:20,23,198,199,213,305;SUMOylation:318

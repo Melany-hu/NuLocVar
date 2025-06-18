@@ -1,0 +1,25 @@
+UniprotID	Q9NW38-2
+Accession	Q9NW38;Q6GU60
+EntryName	FANCL_HUMAN
+ProteinName	E3 ubiquitin-protein ligase FANCL (EC 2.3.2.27) (Fanconi anemia group L protein) (Fanconi anemia-associated polypeptide of 43 kDa) (FAAP43) (RING-type E3 ubiquitin transferase FANCL)
+GeneName	FANCL PHF9
+Length	380
+Function	Ubiquitin ligase protein that mediates monoubiquitination of FANCD2 in the presence of UBE2T, a key step in the DNA damage pathway (PubMed:12973351, PubMed:16916645, PubMed:17938197, PubMed:19111657, PubMed:24389026). Also mediates monoubiquitination of FANCI (PubMed:19589784). May stimulate the ubiquitin release from UBE2W. May be required for proper primordial germ cell proliferation in the embryonic stage, whereas it is probably not needed for spermatogonial proliferation after birth.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVTEASLLRQCPLLLPQNRSKTVYEGFISAQGRDFHLRIVLPEDLQLKNARLLCSWQLRTILSGYHRIVQQRMQHSPDLMSFMMELKMLLEVALKNRQELYALPPPPQFYSSLIEEIGTLGWDKLVYADTCFSTIKLKAEDASGREHLITLKLKAKYPAESPDYFVDFPVPFCASWTPQVNSPQSSLISIYSQFLAAIESLKAFWDVMDEIDEKTWVLEPEKPPRSATARRIALGNNVSINIEVDPRHPTMLPECFFLGADHVVKPLGIKLSRNIHLWDPENSVLQNLKDVLEIDFPARAILEKSDFTMDCGICYAYQLDGTIPDQVCDNSQCGQPFHQICLYEWLRGLLTSRQSFNIIFGECPYCSKPITLKMSGRKH
+PTM	Methylation:153,300;Phosphorylation:128,347;SUMOylation:22,137,139,210,218,261,266;Ubiquitylation:22,49,261,266

@@ -1,0 +1,25 @@
+UniprotID	O76041-2
+Accession	O76041;B0YJ45;B9EIM9;E9PRX7;Q2TBD0;Q5VZT2;Q70I54;Q9UIC4
+EntryName	NEBL_HUMAN
+ProteinName	Nebulette (Actin-binding Z-disk protein)
+GeneName	NEBL C10orf113 LNEBL
+Length	270
+Function	Binds to actin and plays an important role in the assembly of the Z-disk. May functionally link sarcomeric actin to the desmin intermediate filaments in the heart muscle sarcomeres (PubMed:27733623).
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNPQCARCGKVVYPTEKVNCLDKYWHKGCFHCEVCKMALNMNNYKGYEKKPYCNAHYPKQSFTTVADTPENLRLKQQSELQSQVKYKRDFEESKGRGFSIVTDTPELQRLKRTQEQISNVKYHEDFEKTKGRGFTPVVDDPVTERVRKNTQVVSDAAYKGVHPHIVEMDRRPGIIVAPVLPGAYQQSHSQGYGYMHQTSVSSMRSMQHSPNLRTYRAMYDYSAQDEDEVSFRDGDYIVNVQPIDDGWMYGTVQRTGRTGMLPANYIEFVN
+PTM	Methylation:94,156,345,373,381,393,421,458,532,631,650,712,791,795,842;Phosphorylation:13,50,170,172,173,174,343,515,519,539,603,622,623,626,813,817,850,874,876,885,949,953,959,974,980

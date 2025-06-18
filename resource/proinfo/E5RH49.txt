@@ -1,0 +1,25 @@
+UniprotID	E5RH49
+Accession	E5RH49
+EntryName	E5RH49_HUMAN
+ProteinName	NK2 homeobox 5
+GeneName	NKX2-5
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFPSPALTPTPFSVKDILNLEQQQRSLAAAGELSARLEATLAPSSCMLAAFKPEAYAGPEAAAPGLPELRAELGRAPSPAKCASAFPAAPAFYPRAYSDPDPAKDPRAEKKAQLAGAARAERFPRGKVRKCCATAGTREWTR
+PTM	

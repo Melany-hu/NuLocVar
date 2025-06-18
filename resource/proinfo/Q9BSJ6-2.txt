@@ -1,0 +1,25 @@
+UniprotID	Q9BSJ6-2
+Accession	Q9BSJ6;Q96CT4;Q9NVV1;Q9NWB5
+EntryName	PIMRE_HUMAN
+ProteinName	Protein PIMREG (CALM-interactor expressed in thymus and spleen) (PICALM-interacting mitotic regulator) (Regulator of chromosome segregation protein 1)
+GeneName	PIMREG CATS FAM64A RCS1
+Length	238
+Function	During mitosis, may play a role in the control of metaphase-to-anaphase transition.
+Subcellular Location	Nucleus; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASRWQNMGTSVRRRSLQHQEQLEDSKELQPVVSHQETSVGALGSLCRQFQRRLPLRAVNLNLRAGPSWKRLETPEPGQQGLQAAARSAKSALGAVSQRIQESCQSGTKWLVETQVKARRRKRGAQKGSGSPTHSLSQKSTRLSGAAPAHSAADPWEKEHHRLSVRMGSHAHPLRRSRREAAFRSPYSSTEPLCSPSESDSDLEPVGAGIQHLQKLSQELDEAIMAEESGDIVSLIHD
+PTM	Methylation:109;Phosphorylation:10,11,16,26,34,38,39,45,74,88,91,106,129,131,133,135,137,144,164,169,185,190,195,197,199,201,247;SUMOylation:27,90,117;Ubiquitylation:90,109,117

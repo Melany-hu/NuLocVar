@@ -1,0 +1,25 @@
+UniprotID	Q5NDL2-3
+Accession	Q5NDL2;A8K2U1;B4DFH5;L7X1M5;Q6MZY0;Q6P985;Q6ZTV0
+EntryName	EOGT_HUMAN
+ProteinName	EGF domain-specific O-linked N-acetylglucosamine transferase (EC 2.4.1.255) (Extracellular O-linked N-acetylglucosamine transferase)
+GeneName	EOGT AER61 C3orf64 EOGT1
+Length	443
+Function	Catalyzes the transfer of a single N-acetylglucosamine from UDP-GlcNAc to a serine or threonine residue in extracellular proteins resulting in their modification with a beta-linked N-acetylglucosamine (O-GlcNAc). Specifically glycosylates the Thr residue located between the fifth and sixth conserved cysteines of folded EGF-like domains.
+Subcellular Location	Endoplasmic reticulum lumen
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLMLFVFGVLLHEVSLSGQNEAPPNTHSIPGEPLYNYASIRLPEEHIPFFLHNNRHIATVCRKDSLCPYKKHLEKLKYCWGYEKSCKPEFRFGYPVCSYVDMGWTDTLESAEDIFWKQADFGYARERLEEMHVLCQPKETSDSSLVCSRYLQYCRATNLYLDLRNIKRNHDRFKEDFFQSGEIGGHCKLDIRTLTSEGQRKSPLQSWFAELQSYTQLNFRPIEDAKCDIVIEKPTYFMKLDAGVNMYHHFCDFINLYITQHVNNSFSTDVYIVMWDTDGKIRVTILARSTEYRKILNQNELVNALKTVSTFEVQIVDYKYRELGFLDQLRITHNTDIFIGMHGAGLTHLLFLPDWAAVFELYNCEDERCYLDLARLRGVHYITWRRQNKVFPQDKGHHPTLGEHPKFTNYSFDVEEFMYLVLQAADHVLQHPKWPFKKKHDEL
+PTM	Glycosylation:354;Methylation:378,390;Phosphorylation:94

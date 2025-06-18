@@ -1,0 +1,25 @@
+UniprotID	Q9H1P3-2
+Accession	Q9H1P3;A8K736;Q6IBT0;Q9BZB1;Q9Y4B8
+EntryName	OSBL2_HUMAN
+ProteinName	Oxysterol-binding protein-related protein 2 (ORP-2) (OSBP-related protein 2)
+GeneName	OSBPL2 KIAA0772 ORP2
+Length	468
+Function	Intracellular transport protein that binds sterols and phospholipids and mediates lipid transport between intracellular compartments. Increases plasma membrane cholesterol levels and decreases phosphatidylinositol-4,5-bisphosphate levels in the cell membrane (PubMed:30581148). Binds phosphoinositides, such as phosphatidylinositol-4,5-bisphosphate (PubMed:30581148). Exhibits strong binding to phosphatidic acid and weak binding to phosphatidylinositol 3-phosphate (PubMed:11279184). Binds cholesterol, dehydroergosterol, 22(R)-hydroxycholesterol and 25-hydroxycholesterol (in vitro) (PubMed:17428193, PubMed:19224871, PubMed:30581148).
+Subcellular Location	Cytoplasm; Cytosol; Lipid droplet; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGEEEFFDAVTEANQKVTGMIDLDTSKNNRIGKTGERPSQENGIQKHRTSLPAPMFSRSDFSVWTILKKCVGLELSKITMPIAFNEPLSFLQRITEYMEHVYLIHRASCQPQPLERMQSVAAFAVSAVASQWERTGKPFNPLLGETYELIREDLGFRFISEQVSHHPPISAFHSEGLNHDFLFHGSIYPKLKFWGKSVEAEPRGTITLELLKHNEAYTWTNPTCCVHNVIIGKLWIEQYGTVEILNHRTGHKCVLHFKPCGLFGKELHKVEGHIQDKNKKKLFMIYGKWTECLWGIDPVSYESFKKQERRGDHLRKAKLDEDSGKADSDVADDVPVAQETVQVIPGSKLLWRINTRPPNSAQMYNFTSFTVSLNELETGMEKTLPPTDCRLRPDIRGMENGNMDLASQEKERLEEKQREARRERAKEEAEWQTRWFYPGNNPYTGTPDWLYAGDYFERNFSDCPDIY
+PTM	Acetylation:150;Methylation:203,225,246,278,290,319;Phosphorylation:38,39,52,132,159,160,218,220,299;Ubiquitylation:59,150,205,209,361,439

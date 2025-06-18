@@ -1,0 +1,25 @@
+UniprotID	B1AJU2
+Accession	B1AJU2
+EntryName	B1AJU2_HUMAN
+ProteinName	TRAF3 interacting protein 3
+GeneName	TRAF3IP3
+Length	182
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKKVLLEMEDQKNSYEQKAKESLQKVLEEKMNAEQQLQSTQRSLALAEQKCEEWRSQYEALKEDWRTLGTQHRELESQLHVLQSKLQGADSRDLQMNQALRFLENEHQQLQAKIECLQGDRDLCSLDTQDLQDQLKRSEAEKLTLVTRVQQLQGLLQNQSLQLQEQEKLLTKKGQQIYYHKF
+PTM	

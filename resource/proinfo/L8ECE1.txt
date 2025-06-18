@@ -1,0 +1,25 @@
+UniprotID	L8ECE1
+Accession	L8ECE1
+EntryName	L8ECE1_HUMAN
+ProteinName	Alternative protein RYBP (RING1 and YY1 binding protein, isoform CRA_b)
+GeneName	RYBP hCG_2043025
+Length	85
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNLSEIAHGIVKTMNQGMKFKTSTCPCCLHPWRIFCGHRPLSDAARIISACHGHLATKEFRTLTITLDTFMYSIVLYDFPNNHL
+PTM	

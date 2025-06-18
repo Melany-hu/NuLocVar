@@ -1,0 +1,25 @@
+UniprotID	P57771-2
+Accession	P57771;B4DGL9;Q3SYD2
+EntryName	RGS8_HUMAN
+ProteinName	Regulator of G-protein signaling 8 (RGS8)
+GeneName	RGS8
+Length	198
+Function	Regulates G protein-coupled receptor signaling cascades, including signaling via muscarinic acetylcholine receptor CHRM2 and dopamine receptor DRD2 (By similarity). Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits, thereby driving them into their inactive GDP-bound form (PubMed:18434541). Modulates the activity of potassium channels that are activated in response to DRD2 and CHRM2 signaling (By similarity).
+Subcellular Location	Cell membrane; Membrane; Perikaryon; Cell projection; Dendrite; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWNTLTRSLSDHPVGKDPQAMRTGQRQNKGMRTRLGCLSHKSDSCSDFTAILPDKPNRALKRLSTEEATRWADSFDVLLSHKYGVAAFRAFLKTEFSEENLEFWLACEEFKKTRSTAKLVSKAHRIFEEFVDVQAPREVNIDFQTREATRKNLQEPSLTCFDQAQGKVHSLMEKDSYPRFLRSKMYLDLLSQSQRRLS
+PTM	Methylation:104;Phosphorylation:139,141,168

@@ -1,0 +1,25 @@
+UniprotID	C9JBA3
+Accession	C9JBA3
+EntryName	C9JBA3_HUMAN
+ProteinName	Major facilitator superfamily domain containing 1
+GeneName	MFSD1
+Length	116
+Function	
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAGKLARHPTDTGSERAVPALAEIRPWWAPPLRPQGEGSYFCYDNPAALQTQVKRDMQVNTTKFMLLYAWYSWPNVVLCFFGGFLIDRVFGIRWGTIIFSCFVCIGQVVFALGGI
+PTM	

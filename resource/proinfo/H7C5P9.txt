@@ -1,0 +1,25 @@
+UniprotID	H7C5P9
+Accession	H7C5P9
+EntryName	H7C5P9_HUMAN
+ProteinName	HCK proto-oncogene, Src family tyrosine kinase
+GeneName	HCK
+Length	61
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGRSSCEDPGCPRDEERAPRQTKQNRSSLEVANLSQFPPEEDGVHEVQVPPGRRQYILKN
+PTM	

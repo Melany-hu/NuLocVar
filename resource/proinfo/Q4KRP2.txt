@@ -1,0 +1,25 @@
+UniprotID	Q4KRP2
+Accession	Q4KRP2
+EntryName	Q4KRP2_HUMAN
+ProteinName	SPANX-A2
+GeneName	SPANXA2
+Length	97
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	38...43;37...45
+validnes_region	
+nesbase_region	
+Sequence	MDKQSSAGGVKRSVPCDSNEANEMMPETSSGYSDPQPAPKKLKTSESSTILVVRYRRNFKRTSPEELVNDHARENRINPLRMEEEEFMEIMVEIPAK
+PTM	

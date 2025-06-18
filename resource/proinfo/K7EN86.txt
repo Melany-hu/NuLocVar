@@ -1,0 +1,25 @@
+UniprotID	K7EN86
+Accession	K7EN86;A0A024QZ13
+EntryName	K7EN86_HUMAN
+ProteinName	Protein unc-119 homolog A
+GeneName	UNC119 hCG_31798
+Length	145
+Function	Involved in synaptic functions in photoreceptor cells, the signal transduction in immune cells as a Src family kinase activator, endosome recycling, the uptake of bacteria and endocytosis, protein trafficking in sensory neurons and as lipid-binding chaperone with specificity for a diverse subset of myristoylated proteins. Specifically binds the myristoyl moiety of a subset of N-terminally myristoylated proteins and is required for their localization. Binds myristoylated GNAT1 and is required for G-protein localization and trafficking in sensory neurons. Probably plays a role in trafficking proteins in photoreceptor cells. Plays important roles in mediating Src family kinase signals for the completion of cytokinesis via RAB11A.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSGTVLFEIKKPPVSERLPINRRDLDPNAGRFVRYQFTPAFLRLRQVGATVEFTVGDKPVNNFRMIERHYFRNQLLKSFDFHFGFCIPSSKNTCEHIYDFPPLSEELISEMIRHPYETQSDSFYFVDDRLVMHNKADYSYSGTP
+PTM	

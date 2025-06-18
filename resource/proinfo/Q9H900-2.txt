@@ -1,0 +1,25 @@
+UniprotID	Q9H900-2
+Accession	Q9H900;B3KVB8;Q6N049;Q8N404;Q96SY7;Q9NWG7
+EntryName	ZWILC_HUMAN
+ProteinName	Protein zwilch homolog (hZwilch)
+GeneName	ZWILCH
+Length	477
+Function	Essential component of the mitotic checkpoint, which prevents cells from prematurely exiting mitosis. Required for the assembly of the dynein-dynactin and MAD1-MAD2 complexes onto kinetochores. Its function related to the spindle assembly machinery is proposed to depend on its association in the mitotic RZZ complex (PubMed:15824131).
+Subcellular Location	Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAHNPNMTHLKINLPVTALPPLWVRCDSSDPEGTCWLGAELITTNNSITGIVLYVVSCKADKNYSVNLENLKNLHKKRHHLSTVTSKGFAQYELFKSSALDDTITASQTAIALDISWSPVDEILQIPPLSSTATLNIKVESGEPRGPLNHLYRELKFLLVLADGLRTGVTEWLEPLEAKSAVELVQEFLNDLNKLDGFGDSTKKDTEVETLKHDTAAVDRSVKRLFKVRSDLDFAEQLWCKMSSSVISYQDLVKCFTLIIQSLQRGDIQPWLHSGSNSLLSKLIHQSYHGTMDTVSLSGTIPVQMLLEIGLDKLKKDYISFFIGQELASLNHLEYFIAPSVDIQEQVYRVQKLHHILEILVSCMPFIKSQHELLFSLTQICIKYYKQNPLDEQHIFQLPVRPTAVKNLYQSEKPQKWRVEIYSGQKKIKTVWQLSDSSPIDHLNFHKPDFSELTLNGSLEERIFFTNMVTCSQVHFK
+PTM	Methylation:19,45,66,186,252,308,326,368,396,527;Phosphorylation:85,88,91,315,344,392,572;Ubiquitylation:176,201,326,527,591

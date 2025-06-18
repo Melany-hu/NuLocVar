@@ -1,0 +1,25 @@
+UniprotID	Q9BRV3-2
+Accession	Q9BRV3;Q5SR64;Q6IAK6;Q96DC5;Q9UHQ2;Q9UHQ3
+EntryName	SWET1_HUMAN
+ProteinName	Sugar transporter SWEET1 (HsSWEET1) (RAG1-activating protein 1) (Solute carrier family 50 member 1) (Stromal cell protein)
+GeneName	SLC50A1 RAG1AP1 SCP
+Length	166
+Function	Mediates sugar transport across membranes. May stimulate V(D)J recombination by the activation of RAG1.
+Subcellular Location	Golgi apparatus membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRGLHPWHVLRRPLGPQAHANDPECGQRPVPALSHHGSQRVVLLQTATLLGVLLLGYGYFWLLVPNPEARLQQLGLFCSVFTISMYLSPLADLAKVIQTKSTQCLSYPLTIATLLTSASWCLYGFRLRDPYIMVSNFPGIVTSFIRFWLFWKYPQEQDRNYWLLQT
+PTM	Methylation:150;Phosphorylation:28

@@ -1,0 +1,25 @@
+UniprotID	Q99650-2
+Accession	Q99650;Q6P4E8;Q96QJ6
+EntryName	OSMR_HUMAN
+ProteinName	Oncostatin-M-specific receptor subunit beta (Interleukin-31 receptor subunit beta) (IL-31 receptor subunit beta) (IL-31R subunit beta) (IL-31R-beta) (IL-31RB)
+GeneName	OSMR OSMRB
+Length	342
+Function	Associates with IL31RA to form the IL31 receptor. Binds IL31 to activate STAT3 and possibly STAT1 and STAT5. Capable of transducing OSM-specific signaling events.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALFAVFQTTFFLTLLSLRTYQSEVLAERLPLTPVSLKVSTNSTRQSLHLQWTVHNLPYHQELKMVFQIQISRIETSNVIWVGNYSTTVKWNQVLHWSWESELPLECATHFVRIKSLVDDAKFPEPNFWSNWSSWEEVSVQDSTGQDILFVFPKDKLVEEGTNVTICYVSRNIQNNVSCYLEGKQIHGEQLDPHVTAFNLNSVPFIRNKGTNIYCEASQGNVSEGMKGIVLFVSKVLEEPKDFSCETEDFKTLHCTWDPGTDTALGWSKQPSQSYTLFESFSGEKKLCTHKNWCNWQITQDSQETYNFTLIAENYLRKRSVNILFNLTHRGETRVVTAHRGH
+PTM	Glycosylation:176,326,380,422,580;Methylation:64,454,477,615,705,787,895,899;Phosphorylation:379,382,389,666,778,784,826,828,833,837,839,861,877,882,888,889,952;SUMOylation:209,705,834;Ubiquitylation:38,115,184,209,235,269,607,615,677,779,787,789,812,825,834,895

@@ -1,0 +1,25 @@
+UniprotID	Q8IUZ5-2
+Accession	Q8IUZ5;A8K7P6;B3KN36;D3DWP9;Q8WYS6;Q96HW8
+EntryName	AT2L2_HUMAN
+ProteinName	5-phosphohydroxy-L-lysine phospho-lyase (EC 4.2.3.134) (Alanine--glyoxylate aminotransferase 2-like 2)
+GeneName	PHYKPL AGXT2L2 PP9286
+Length	107
+Function	Catalyzes the pyridoxal-phosphate-dependent breakdown of 5-phosphohydroxy-L-lysine, converting it to ammonia, inorganic phosphate and 2-aminoadipate semialdehyde.
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLLGQQKIKHPIVGDVRGVGLFIGVDLIKDEATRTPATEEAAYLVSRLKENYVLLSTDGPGRNILKFKPPMCFSLDNARQVVAKLDAILTDMEEKVRSCETLRLQP
+PTM	Acetylation:33;Methylation:194,267,329,373,410;Phosphorylation:20,21,22;SUMOylation:194,373

@@ -1,0 +1,25 @@
+UniprotID	P13051-2
+Accession	P13051;A8K5M6;B2R8Y1;O00637;O00719;Q93028
+EntryName	UNG_HUMAN
+ProteinName	Uracil-DNA glycosylase (UDG) (EC 3.2.2.27)
+GeneName	UNG DGU UNG1 UNG15
+Length	304
+Function	Uracil-DNA glycosylase that hydrolyzes the N-glycosidic bond between uracil and deoxyribose in single- and double-stranded DNA (ssDNA and dsDNA) to release a free uracil residue and form an abasic (apurinic/apyrimidinic; AP) site. Excises uracil residues arising as a result of misincorporation of dUMP residues by DNA polymerase during replication or due to spontaneous or enzymatic deamination of cytosine (PubMed:12958596, PubMed:15967827, PubMed:17101234, PubMed:22521144, PubMed:7671300, PubMed:8900285, PubMed:9016624, PubMed:9776759). Mediates error-free base excision repair (BER) of uracil at replication forks. According to the model, it is recruited by PCNA to S-phase replication forks to remove misincorporated uracil at U:A base mispairs in nascent DNA strands. Via trimeric RPA it is recruited to ssDNA stretches ahead of the polymerase to allow detection and excision of deaminated cytosines prior to replication. The resultant AP sites temporarily stall replication, allowing time to repair the lesion (PubMed:22521144). Mediates mutagenic uracil processing involved in antibody affinity maturation. Processes AICDA-induced U:G base mispairs at variable immunoglobulin (Ig) regions leading to the generation of transversion mutations (PubMed:12958596). Operates at switch sites of Ig constant regions where it mediates Ig isotype class switch recombination. Excises AICDA-induced uracil residues forming AP sites that are subsequently nicked by APEX1 endonuclease. The accumulation of staggered nicks in opposite strands results in double strand DNA breaks that are finally resolved via non-homologous end joining repair pathway (By similarity) (PubMed:12958596).
+Subcellular Location	Mitochondrion; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGVFCLGPWGLGRKLRTPGKGPLQLLSRLCGDHLQAIPAKKAPAGQEEPGTPPSSPLSAEQLDRIQRNKAAALLRLAARNVPVGFGESWKKHLSGEFGKPYFIKLMGFVAEERKHYTVYPPPHQVFTWTQMCDIKDVKVVILGQDPYHGPNQAHGLCFSVQRPVPPPPSLENIYKELSTDIEDFVHPGHGDLSGWAKQGVLLLNAVLTVRAHQANSHKERGWEQFTDAVVSWLNQNSNGLVFLLWGSYAQKKGSAIDRKRHHVLQTAHPSPLSVYRGFFGCRHFSKTNELLQKSGKKPIDWKEL
+PTM	Acetylation:5,49,99,108;Phosphorylation:6,8,9,12,14,23,31,40,60,63,64,67,225,279;SUMOylation:49,50,108,123,147,295;Ubiquitylation:78,99,295,302

@@ -1,0 +1,25 @@
+UniprotID	Q3KP22-4
+Accession	Q3KP22;B3KS99;E9PPE5
+EntryName	MAJIN_HUMAN
+ProteinName	Membrane-anchored junction protein
+GeneName	MAJIN C11orf85
+Length	148
+Function	Meiosis-specific telomere-associated protein involved in meiotic telomere attachment to the nucleus inner membrane, a crucial step for homologous pairing and synapsis. Component of the MAJIN-TERB1-TERB2 complex, which promotes telomere cap exchange by mediating attachment of telomeric DNA to the inner nuclear membrane and replacement of the protective cap of telomeric chromosomes: in early meiosis, the MAJIN-TERB1-TERB2 complex associates with telomeric DNA and the shelterin/telosome complex. During prophase, the complex matures and promotes release of the shelterin/telosome complex from telomeric DNA. In the complex, MAJIN acts as the anchoring subunit to the nucleus inner membrane. MAJIN shows DNA-binding activity, possibly for the stabilization of telomere attachment on the nucleus inner membrane.
+Subcellular Location	Nucleus inner membrane; Chromosome; Telomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKWFHENLSPGKPISDSPLGLVPVEKKAVGAVMRKRKHMDEPSSPSRPGLDRAKIGTSSQGPSKKKPPVETRRNRERKTQQGLQETLASDITDVQKQDSEWGHSLPGRIVPPLQHNSPPPKERAATGFFGFLSSLFPFRYFFRKSSHS
+PTM	Methylation:41;Phosphorylation:7,8,13,72,145

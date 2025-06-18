@@ -1,0 +1,25 @@
+UniprotID	Q06495-2
+Accession	Q06495;B4DPE3
+EntryName	NPT2A_HUMAN
+ProteinName	Sodium-dependent phosphate transport protein 2A (Sodium-phosphate transport protein 2A) (Na(+)-dependent phosphate cotransporter 2A) (NaPi-3) (Sodium/phosphate cotransporter 2A) (Na(+)/Pi cotransporter 2A) (NaPi-2a) (Solute carrier family 34 member 1)
+GeneName	SLC34A1 NPT2 SLC17A2
+Length	340
+Function	Involved in actively transporting phosphate into cells via Na(+) cotransport in the renal brush border membrane (PubMed:12324554, PubMed:20335586, PubMed:26047794, PubMed:8327470). The cotransport has a Na(+):Pi stoichiometry of 3:1 and is electrogenic (By similarity).
+Subcellular Location	Apical cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLSYGERLGSPAVSPLPVRGGHVMRGTAFAYVPSPQVLHRIPGTSAYAFPSLGPVALAEHTCPCGEVLERHEPLPAKLALEEEQKPESRLVPKLRQAGAMLLKVPLMLTFLYLFVCSLDMLSSAFQLAGGKVAGDIFKDNAILSNPVAGLVVGILVTVLVQSSSTSTSIIVSMVSSGLLEVSSAIPIIMGSNIGTSVTNTIVALMQAGDRTDFRRAFAGATVHDCFNWLSVLVLLPLEAATGYLHHITRLVVASFNIHGGRDAPDLLKIITEPFTKLIIQLDESVITSIATGDESLRNHSLIQIWCHPDSLQQNLEGREITHFDLRKKQAMEDSSVPHCP
+PTM	Glycosylation:323,330;Methylation:103,268,371,378,383;Phosphorylation:375

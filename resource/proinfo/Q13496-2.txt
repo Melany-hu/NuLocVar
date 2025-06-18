@@ -1,0 +1,25 @@
+UniprotID	Q13496-2
+Accession	Q13496;A6NDB1;B7Z491;F2Z330;Q8NEL1
+EntryName	MTM1_HUMAN
+ProteinName	Myotubularin (EC 3.1.3.95) (Phosphatidylinositol-3,5-bisphosphate 3-phosphatase) (Phosphatidylinositol-3-phosphate phosphatase)
+GeneName	MTM1 CG2
+Length	566
+Function	Lipid phosphatase which dephosphorylates phosphatidylinositol 3-monophosphate (PI3P) and phosphatidylinositol 3,5-bisphosphate (PI(3,5)P2) (PubMed:10900271, PubMed:11001925, PubMed:12646134, PubMed:14722070). Has also been shown to dephosphorylate phosphotyrosine- and phosphoserine-containing peptides (PubMed:9537414). Negatively regulates EGFR degradation through regulation of EGFR trafficking from the late endosome to the lysosome (PubMed:14722070). Plays a role in vacuolar formation and morphology. Regulates desmin intermediate filament assembly and architecture (PubMed:21135508). Plays a role in mitochondrial morphology and positioning (PubMed:21135508). Required for skeletal muscle maintenance but not for myogenesis (PubMed:21135508). In skeletal muscles, stabilizes MTMR12 protein levels (PubMed:23818870).
+Subcellular Location	Cytoplasm; Cell membrane; Cell projection; Filopodium; Cell projection; Ruffle; Late endosome; Cytoplasm; Myofibril; Sarcomere
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASASTSKYNSHSLENESIKRTSRDGVNRDLTEAVPRLPGETLITDKEVIYICPFNGPIKGRVYITNYRLYLRSLETDMRNLRFALKQEGHSRRDMFEILTRYAFPLAHSLPLFAFLNEEKFNVDGWTVYNPVEEYRRQGLPNHHWRITFINKCYELCDTYPALLVVPYRASDDDLRRVATFRSRNRIPVLSWIHPENKTVIVRCSQPLVGMSGKRNKDDEKYLDVIRETNKQISKLTIYDARPSVNAVANKATGGGYESDDAYHNAELFFLDIHNIHVMRESLKKVKDIVYPNVEESHWLSSLESTHWLEHIKLVLTGAIQVADKVSSGKSSVLVHCSDGWDRTAQLTSLAMLMLDSFYRSIEGFEILVQKEWISFGHKFASRIGHGDKNHTDADRSPIFLQFIDCVWQMSKQFPTAFEFNEQFLIIILDHLYSCRFGTFLFNCESARERQKVTERTVSLWSLINSNKEKFKNPFYTKEINRVLYPVASMRHLELWVNYYIRWNPRIKQQQPNPVEQRYMELLALRDEYIKRLEELQLANSAKLSDPPTSPSSPSQMMPHVQTHF
+PTM	Methylation:60,190,289,363;Phosphorylation:9,11,13,18,22,23,91,376,587,588,590,591,593;SUMOylation:20;Ubiquitylation:259,273,516,546

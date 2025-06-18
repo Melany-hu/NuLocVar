@@ -1,0 +1,25 @@
+UniprotID	P23141-3
+Accession	P23141;A6NIM1;A8K3K8;A8K844;E9PAU8;P82127;Q00015;Q13657;Q14062;Q16737;Q16788;Q549X7;Q549X8;Q86UK2;Q96EE8;Q9UC52;Q9UDG8;Q9UK77;Q9ULY2
+EntryName	EST1_HUMAN
+ProteinName	Liver carboxylesterase 1 (Acyl-coenzyme A:cholesterol acyltransferase) (ACAT) (Brain carboxylesterase hBr1) (Carboxylesterase 1) (CE-1) (hCE-1) (EC 3.1.1.1) (Cholesteryl ester hydrolase) (CEH) (EC 3.1.1.13) (Cocaine carboxylesterase) (Egasyn) (HMSE) (Methylumbelliferyl-acetate deacetylase 1) (EC 3.1.1.56) (Monocyte/macrophage serine esterase) (Retinyl ester hydrolase) (REH) (Serine esterase 1) (Triacylglycerol hydrolase) (TGH)
+GeneName	CES1 CES2 SES1
+Length	566
+Function	Involved in the detoxification of xenobiotics and in the activation of ester and amide prodrugs (PubMed:18762277, PubMed:7980644, PubMed:9169443, PubMed:9490062). Hydrolyzes aromatic and aliphatic esters, but has no catalytic activity toward amides or a fatty acyl-CoA ester (PubMed:18762277, PubMed:7980644, PubMed:9169443, PubMed:9490062). Hydrolyzes the methyl ester group of cocaine to form benzoylecgonine (PubMed:7980644). Catalyzes the transesterification of cocaine to form cocaethylene (PubMed:7980644). Displays fatty acid ethyl ester synthase activity, catalyzing the ethyl esterification of oleic acid to ethyloleate (PubMed:7980644). Converts monoacylglycerides to free fatty acids and glycerol. Hydrolyzes of 2-arachidonoylglycerol and prostaglandins (PubMed:21049984). Hydrolyzes cellular cholesteryl esters to free cholesterols and promotes reverse cholesterol transport (RCT) by facilitating both the initial and final steps in the process (PubMed:11015575, PubMed:16024911, PubMed:16971496, PubMed:18762277). First of all, allows free cholesterol efflux from macrophages to extracellular cholesterol acceptors and secondly, releases free cholesterol from lipoprotein-delivered cholesteryl esters in the liver for bile acid synthesis or direct secretion into the bile (PubMed:16971496, PubMed:18599737, PubMed:18762277).
+Subcellular Location	Endoplasmic reticulum lumen; Cytoplasm; Lipid droplet
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLRAFILATLSASAAWGHPSSPPVVDTVHGKVLGKFVSLEGFAQPVAIFLGIPFAKPPLGPLRFTPPQPAEPWSFVKNATSYPPMCTQDPKAGQLLSELFTNRKENIPLKLSEDCLYLNIYTPADLTKKNRLPVMVWIHGGGLMVGAASTYDGLALAAHENVVVVTIQYRLGIWGFFSTGDEHSRGNWGHLDQVAALRWVQDNIASFGGNPGSVTIFGESAGGESVSVLVLSPLAKNLFHRAISESGVALTSVLVKKGDVKPLAEQIAITAGCKTTTSAVMVHCLRQKTEEELLETTLKMKFLSLDLQGDPRESQPLLGTVIDGMLLLKTPEELQAERNFHTVPYMVGINKQEFGWLIPMLMSYPLSEGQLDQKTAMSLLWKSYPLVCIAKELIPEATEKYLGGTDDTVKKKDLFLDLIADVMFGVPSVIVARNHRDAGAPTYMYEFQYRPSFSSDMKPKTVIGDHGDELFSVFGAPFLKEGASEEEIRLSKMVMKFWANFARNGNPNGEGLPHWPEYNQKEGYLQIGANTQAAQKLKDKEVAFWTNLFAKKAVEKPPQTEHIEL
+PTM	Glycosylation:79;Methylation:36,78,129,257,330,482;Phosphorylation:247,493

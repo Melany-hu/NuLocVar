@@ -1,0 +1,25 @@
+UniprotID	M0R210
+Accession	M0R210
+EntryName	M0R210_HUMAN
+ProteinName	Small ribosomal subunit protein uS9 (40S ribosomal protein S16)
+GeneName	RPS16 hCG_43353
+Length	129
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	15...19
+validnes_region	
+nesbase_region	
+Sequence	MPSKGPLQSVQVFGRKKTATAVAHCKRGNGLIKLLEPVLLLGKERFAGVDIRVRVKGGGHVAQIYAIRQSISKALVAYYQKYVDEASKKEIKDILIQYDRTLLVADPRRCESKKFGGPGARARYQKSYR
+PTM	

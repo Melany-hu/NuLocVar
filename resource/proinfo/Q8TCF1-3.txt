@@ -1,0 +1,25 @@
+UniprotID	Q8TCF1-3
+Accession	Q8TCF1;E5RIG0;E5RJ99;Q658R7;Q6IA32;Q6PGQ6;Q9H810
+EntryName	ZFAN1_HUMAN
+ProteinName	AN1-type zinc finger protein 1 (Zinc finger AN1-type-containing protein 1)
+GeneName	ZFAND1
+Length	261
+Function	Plays a role in the regulation of cytoplasmic stress granules (SGs) turnover. SGs are dynamic and transient cytoplasmic ribonucleoprotein assemblies important for cellular protein homeostasis when protein production is suspended after acute exogenous stress (PubMed:29804830). Associates with SGs and is involved in the efficient and specific arsenite-induced clearance process of SGs through the recruitment of the ubiquitin-selective ATPase VCP and the 26S proteasome (PubMed:29804830). This process requires both complexes for efficient degradation of damaged ubiquitinated SG proteins during recovery from arsenite stress, and hence avoiding aberrant cytoplasmic SGs degradation via autophagy (PubMed:29804830).
+Subcellular Location	Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAELDIGQHCQVEHCRQRDFLPFVCDDCSGIFCLEHRSRESHGCPEVTVINERLKTDQHTSYPCSFKDCAERELVAVICPYCEKNFCLRHRHQSDHECEKLEIPKPRMAATQKLVKDIIDSKTGETASKRWKGAKNSETAAKVALMKLKMHADGDKSLPQVFLPKGSKEKSKPMFFCHRWSIGKAIDFAASLARLKNDNNKFTAKKLRLCHITSGEALPLDHTLETWIAKEDCPLYNGGNIILEYLNDEEQFCKNVESYLE
+PTM	Acetylation:105,129,142,179,208;Methylation:203;Phosphorylation:94,123,165,198;SUMOylation:55,113,129,132

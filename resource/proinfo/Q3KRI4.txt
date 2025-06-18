@@ -1,0 +1,25 @@
+UniprotID	Q3KRI4
+Accession	Q3KRI4
+EntryName	Q3KRI4_HUMAN
+ProteinName	Angiotensin-converting enzyme (EC 3.4.-.-)
+GeneName	ACE
+Length	47
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	DEVNFLMHIALEKIAFIPFGYLMDLLRWKVFDGTIWKDIYNQEWWNL
+PTM	

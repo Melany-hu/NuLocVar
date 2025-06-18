@@ -1,0 +1,25 @@
+UniprotID	Q9NYZ2-4
+Accession	Q9NYZ2;A2RU93;Q53FT7;Q69YJ8;Q969S1;Q9P0J2
+EntryName	MFRN1_HUMAN
+ProteinName	Mitoferrin-1 (Mitochondrial iron transporter 1) (Mitochondrial solute carrier protein) (Solute carrier family 25 member 37)
+GeneName	SLC25A37 MFRN MSCP HT015
+Length	187
+Function	Mitochondrial iron transporter that specifically mediates iron uptake in developing erythroid cells, thereby playing an essential role in heme biosynthesis.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATLLHDAVMNPAEVVKQRLQMYNSQHRSAISCIRTVWRTEGLGAFYRSYTTQLTMNIPFQSIHFITYEFLQEQVNPHRTYNPQSHIISGGLAGALAAAATTPLDVCKTLLNTQENVALSLANISGRLSGMANAFRTVYQLNGLAGYFKGIQARVIYQMPSTAISWSVYEFFKYFLTKRQLENRAPY
+PTM	Methylation:168

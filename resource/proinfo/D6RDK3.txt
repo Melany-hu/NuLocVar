@@ -1,0 +1,25 @@
+UniprotID	D6RDK3
+Accession	D6RDK3
+EntryName	D6RDK3_HUMAN
+ProteinName	Cyclin I
+GeneName	CCNI
+Length	56
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFPGPLENQRLSFLLEKAITREAQMWKVNVRKMPSNQNSSTKGIGKRQFLWMFLI
+PTM	

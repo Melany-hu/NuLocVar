@@ -1,0 +1,25 @@
+UniprotID	O15204-2
+Accession	O15204;B7ZAK5
+EntryName	ADEC1_HUMAN
+ProteinName	ADAM DEC1 (EC 3.4.24.-) (A disintegrin and metalloproteinase domain-like protein decysin-1) (ADAM-like protein decysin-1)
+GeneName	ADAMDEC1
+Length	391
+Function	May play an important role in the control of the immune response and during pregnancy.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MILNGEEIILSLQKTKHLLGPDYTETLYSPRGEEITTKPENMEHCYYKGNILNEKNSVASISTCDGLRGYFTHHHQRYQIKPLKSTDEKEHAVFTSNQEEQDPANHTCGVKSTDGKQGPIRISRSLKSPEKEDFLRAQKYIDLYLVLDNAFYKNYNENLTLIRSFVFDVMNLLNVIYNTIDVQVALVGMEIWSDGDKIKVVPSASTTFDNFLRWHSSNLGKKIHDHAQLLSGISFNNRRVGLAASNSLCSPSSVAVIEAKKKNNVALVGVMSHELGHVLGMPDVPFNTKCPSGSCVMNQYLSSKFPKDFSTSCRAHFERYLLSQKPKCLLQAPIPTNIMTTPVCGNHLLEVGEDCDCGSPKECTNLCCEALTCKLKPGTDCGGDAPNHTTE
+PTM	Glycosylation:176,184;Methylation:34,68,232;Phosphorylation:90,207

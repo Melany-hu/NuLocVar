@@ -1,0 +1,25 @@
+UniprotID	Q9Y3C4-3
+Accession	Q9Y3C4;D6W5H6;Q8IWR6;Q8IWR7;Q9H3K4
+EntryName	TPRKB_HUMAN
+ProteinName	EKC/KEOPS complex subunit TPRKB (PRPK-binding protein) (TP53RK-binding protein)
+GeneName	TPRKB CGI-121 My019
+Length	214
+Function	Component of the EKC/KEOPS complex that is required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine (PubMed:22912744, PubMed:28805828). The complex is probably involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37 (PubMed:22912744, PubMed:28805828). TPRKB acts as an allosteric effector that regulates the t(6)A activity of the complex. TPRKB is not required for tRNA modification (PubMed:22912744, PubMed:28805828).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQLTHQLDLFPECRVTLLLFKDVKNAGDLRRKAMEGTIDGSLINPTVFHSCCPGWSAMARSWLTATSASRVQAIVLPQPPELLGLQIVDPFQILVAANKAVHLYKLGKMKTRTLSTEIIFNLSPNNNISEALKKFGISANDTSILIVYIEEGEKQINQEYLISQVEGHQVSLKNLPEIMNITEVKKIYKLSSQEESIGTLLDAIICRMSTKDVL
+PTM	Methylation:21,94,115;Phosphorylation:160;SUMOylation:32,134,146,150;Ubiquitylation:21,24,66,94,134,146,147,150

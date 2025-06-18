@@ -1,0 +1,25 @@
+UniprotID	A0A140T983
+Accession	A0A140T983
+EntryName	A0A140T983_HUMAN
+ProteinName	ZFP57 zinc finger protein
+GeneName	ZFP57
+Length	211
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XARSQEPIFRTEGPMAQNQASVLKNQAPVTRTQAPITGTLCQDARSNSHPVKPSRLNVFCCPHCSLTFSKKSYLSRHQKAHLTEPPNYCFHCSKSFSSFSRLVRHQQTHWKQKSYLCPICDLSFGEKEGLMDHWRGYKGKDLCQSSHHKCRVILGQWLGFSHDVPTMAGEEWKHGGDQSPPRIHTPRRRGLREKACKGDKTKEAVSILKHK
+PTM	

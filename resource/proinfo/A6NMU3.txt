@@ -1,0 +1,25 @@
+UniprotID	A6NMU3
+Accession	A6NMU3
+EntryName	A6NMU3_HUMAN
+ProteinName	Signal transducing adaptor molecule
+GeneName	STAM
+Length	173
+Function	Involved in intracellular signal transduction mediated by cytokines and growth factors. Upon IL-2 and GM-CSL stimulation, it plays a role in signaling leading to DNA synthesis and MYC induction. May also play a role in T-cell development. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with HGS (ESCRT-0 complex). The ESCRT-0 complex binds ubiquitin and acts as a sorting machinery that recognizes ubiquitinated receptors and transfers them to further sequential lysosomal sorting/trafficking processes.
+Subcellular Location	Early endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVEWTDEFKNDPQLSLISAMIKNLKEQGVTFPAIGSQAAEQAKASPALVAKDPGTVANKKEEEDLAKAIELSLKEQRQQSTTLSTLYPSTSSLLTNHQHEGRKVRAIYDFEAAEDNELTFKAGEIITVLDDSDPNWWKGETHQGIGLFPSNFVTADLTAEPEMIKTEKKTVQF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q96IY1-2
+Accession	Q96IY1;E7ETD5;Q5SY75;Q9H2M5;Q9NRN8;Q9Y415
+EntryName	NSL1_HUMAN
+ProteinName	Kinetochore-associated protein NSL1 homolog
+GeneName	NSL1 C1orf48 DC31 DC8 MIS14
+Length	213
+Function	Part of the MIS12 complex which is required for normal chromosome alignment and segregation and kinetochore formation during mitosis.
+Subcellular Location	Nucleus; Chromosome; Centromere; Kinetochore
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSPELVVLDPPWDKELAAGTESQALVSATPREDFRVRCTSKRAVTEMLQLCGRFVQKLGDALPEEIREPALRDAQWTFESAVQENISINGQAWQEASDNCFMDSDIKVLEDQFDEIIVDIATKRKQYPRKILECVIKTIKAKQEILKQYHPVVHPLDLKYDPDPVLNGNAFNFSPFNMMLAVDLSYMVFITSSPSYGKFEMQRGNSSKGDQ
+PTM	Acetylation:59,139,231;Methylation:125,139,149,161,174;Phosphorylation:4,22,24,241,242,244;SUMOylation:16,59,125,132,139,161,174,182,189,227,231,250,257;Ubiquitylation:125

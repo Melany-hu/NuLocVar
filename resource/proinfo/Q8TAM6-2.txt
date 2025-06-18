@@ -1,0 +1,25 @@
+UniprotID	Q8TAM6-2
+Accession	Q8TAM6;B4DKA6;Q9ULN1
+EntryName	ERMIN_HUMAN
+ProteinName	Ermin (Juxtanodin) (JN)
+GeneName	ERMN KIAA1189
+Length	297
+Function	Plays a role in cytoskeletal rearrangements during the late wrapping and/or compaction phases of myelinogenesis as well as in maintenance and stability of myelin sheath in the adult. May play an important role in late-stage oligodendroglia maturation, myelin/Ranvier node formation during CNS development, and in the maintenance and plasticity of related structures in the mature CNS (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTLSPDRIQPHIMTDVPATFTQAECNGDKPPENGQQTITKISEELTDVDSPLPHYRVEPSLEGALTKGSQEERRKLQGNMLLNSSMEDKMLKENPEEKLFIVHKAITDLSLQETSADEMTFREGHQWEKIPLSGSNQEIRRQKERITEQPLKEEEDEDRKNKGHQAAEIEWLGFRKPSQADMLHSKHDEEQKVWDEEIDDDDDDNCNNDEDEVRVIEFKKKHEEVSQFKEEGDASEDSPLSSASSQAVTPDEQPTLGKKSDISRNAYSRYNTISYRKIRKGNTKQRIDEFESMMHL
+PTM	Methylation:217;Phosphorylation:54,255,256,260,262,263,280;Ubiquitylation:55

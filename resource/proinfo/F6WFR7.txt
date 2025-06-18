@@ -1,0 +1,25 @@
+UniprotID	F6WFR7
+Accession	F6WFR7
+EntryName	F6WFR7_HUMAN
+ProteinName	Neurotrimin
+GeneName	NTM
+Length	168
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VGFVSEDEYLEIQGITREQSGDYECSASNDVAAPVVRRVKVTVNYPPYISEAKGTGVPVGQKGTLQCEASAVPSAEFQWYKDDKRLIEGKKGVKVENRPFLSKLIFFNVSEHDYGNYTCVASNKLGHTNASIMLFGPGAVSEVSNGTSRRAGCVWLLPLLVLHLLLKF
+PTM	

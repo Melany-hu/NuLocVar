@@ -1,0 +1,25 @@
+UniprotID	U3KQK0
+Accession	U3KQK0
+EntryName	U3KQK0_HUMAN
+ProteinName	Histone H2B
+GeneName	H2BC15 HIST1H2BN hCG_1743059
+Length	166
+Function	
+Subcellular Location	Chromosome; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	27...32;28...33;124...129
+validnes_region	
+nesbase_region	
+Sequence	MPEPSKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSKKRKRRFTESIKKAHGFRKLKIWLKLRVSNQSPDDIYIARD
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8WUX9-2
+Accession	Q8WUX9;B2RDT3;B4DKJ6;D3DSS1;Q8NDM1;Q9BT50
+EntryName	CHMP7_HUMAN
+ProteinName	Charged multivesicular body protein 7 (Chromatin-modifying protein 7)
+GeneName	CHMP7
+Length	163
+Function	ESCRT-III-like protein required to recruit the ESCRT-III complex to the nuclear envelope (NE) during late anaphase (PubMed:26040712). Together with SPAST, the ESCRT-III complex promotes NE sealing and mitotic spindle disassembly during late anaphase (PubMed:26040712, PubMed:28242692). Recruited to the reforming NE during anaphase by LEMD2 (PubMed:28242692). Plays a role in the endosomal sorting pathway (PubMed:16856878).
+Subcellular Location	Cytoplasm; Nucleus envelope; Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWSPEREAEAPAGGDPAGLLPPEWEEDEERMSFLFSAFKRSREVNSTDWDSKMGFWAPLVLSHSRRQGVVRLRLRDLQEAFQRKGSVPLGLATVLQDLLRKRLRRCIVCIRTRPSPPTPWWPCQSSAPSVLTPAQMRGPSTWCCCSCRRRRGSQSSSRTGRRL
+PTM	Acetylation:451;Methylation:157,333,382,393,427;Phosphorylation:190,232,242,408,410,417,429,431,438,439,441;SUMOylation:129,132;Ubiquitylation:84,278

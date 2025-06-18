@@ -1,0 +1,25 @@
+UniprotID	Q9H0A9-2
+Accession	Q9H0A9;B4E323;Q52LS9;Q6FIH5;Q6P0L3;Q9NSE5
+EntryName	SPC1L_HUMAN
+ProteinName	Speriolin-like protein (Spermatogenesis and centriole-associated protein 1-like protein)
+GeneName	SPATC1L C21orf56
+Length	186
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVRPKKVCFSESSLPTGDRTRRSYYLNEIQSFAGAEKDARVVGEIAFQLDRRILAYVFPGVTRLYGFTVANIPEKIEQTSTKSLDGSVDERKLRELTQRYLALSARLEKLGYSRDVHPAFSEFLINTYGILKQRPDLRANPLHSSPAALRKLVIDVVPPKFLGDSLLLLNCLCELSKEDGKPLFAW
+PTM	Methylation:26,286;Phosphorylation:237;SUMOylation:160;Ubiquitylation:236

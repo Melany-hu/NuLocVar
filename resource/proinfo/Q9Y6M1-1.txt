@@ -1,0 +1,25 @@
+UniprotID	Q9Y6M1-1
+Accession	Q9Y6M1;A0A4Z0;B3FTN2;B3FTN3;B3FTN4
+EntryName	IF2B2_HUMAN
+ProteinName	Insulin-like growth factor 2 mRNA-binding protein 2 (IGF2 mRNA-binding protein 2) (IMP-2) (Hepatocellular carcinoma autoantigen p62) (IGF-II mRNA-binding protein 2) (VICKZ family member 2)
+GeneName	IGF2BP2 IMP2 VICKZ2
+Length	556
+Function	RNA-binding factor that recruits target transcripts to cytoplasmic protein-RNA complexes (mRNPs). This transcript 'caging' into mRNPs allows mRNA transport and transient storage. It also modulates the rate and location at which target transcripts encounter the translational apparatus and shields them from endonuclease attacks or microRNA-mediated degradation (By similarity). Preferentially binds to N6-methyladenosine (m6A)-containing mRNAs and increases their stability (PubMed:29476152). Binds to the 5'-UTR of the insulin-like growth factor 2 (IGF2) mRNAs (PubMed:9891060). Binding is isoform-specific. Binds to beta-actin/ACTB and MYC transcripts. Increases MYC mRNA stability by binding to the coding region instability determinant (CRD) and binding is enhanced by m6A-modification of the CRD (PubMed:29476152).
+Subcellular Location	Nucleus; Cytoplasm; Cytoplasm; P-body; Cytoplasm; Stress granule
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNKLYIGNLSPAVTADDLRQLFGDRKLPLAGQVLLKSGYAFVDYPDQNWAIRAIETLSGKVELHGKIMEVDYSVSKKLRSRKIQIRNIPPHLQWEVLDGLLAQYGTVENVEQVNTDTETAVVNVTYATREEAKIAMEKLSGHQFENYSFKISYIPDEEVSSPSPPQRAQRGDHSSREQGHAPGGTSQARQIDFPLRILVPTQFVGAIIGKEGLTIKNITKQTQSRVDIHRKENSGAAEKPVTIHATPEGTSEACRMILEIMQKEADETKLAEEIPLKILAHNGLVGRLIGKEGRNLKKIEHETGTKITISSLQDLSIYNPERTITVKGTVEACASAEIEIMKKLREAFENDMLAVNTHSGYFSSLYPHHQFGPFPHHHSYPEQEIVNLFIPTQAVGAIIGKKGAHIKQLARFAGASIKIAPAEGPDVSERMVIITGPPEAQFKAQGRIFGKLKEENFFNPKEEVKLEAHIRVPSSTAGRVIGKGGKTVNELQNLTSAEVIVPRDQTPDENEEVIVRIIGHFFASQTAQRKIREIVQQVKQQEQKYPQGVASQRSK
+PTM	Acetylation:530;Methylation:37,211,217,221,278,292,445,487,495,527;Phosphorylation:6,11,15,154,161,162,164,202,215,220,312,460,472,540,550,595,598;SUMOylation:270,292,462,497,505,509,530,583;Ubiquitylation:4,27,139,211,221,232,240,270,278,292,451,462,487,497,505,527,530,583,588

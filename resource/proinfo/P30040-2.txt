@@ -1,0 +1,25 @@
+UniprotID	P30040-2
+Accession	P30040;C9J183;Q3MJC3;Q6FHT4
+EntryName	ERP29_HUMAN
+ProteinName	Endoplasmic reticulum resident protein 29 (ERp29) (Endoplasmic reticulum resident protein 28) (ERp28) (Endoplasmic reticulum resident protein 31) (ERp31)
+GeneName	ERP29 C12orf8 ERP28
+Length	53
+Function	Does not seem to be a disulfide isomerase. Plays an important role in the processing of secretory proteins within the endoplasmic reticulum (ER), possibly by participating in the folding of proteins in the ER.
+Subcellular Location	Endoplasmic reticulum lumen; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAVPRAAFLSPLLPLLLGFLLLSAPHGGSGLHTKGALPLDTVTFYKIMVTS
+PTM	Acetylation:54,69,107,204,237,243,258;Glycosylation:187;Methylation:48,59,69,99,107,122,137,182,192,204,230,238,243;Phosphorylation:66,105,189,234,244;Ubiquitylation:137,182,208

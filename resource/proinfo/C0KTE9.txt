@@ -1,0 +1,25 @@
+UniprotID	C0KTE9
+Accession	C0KTE9
+EntryName	C0KTE9_HUMAN
+ProteinName	B cell specific activator protein variant delta 6/7/8/9
+GeneName	PAX5
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SSVSTDSAGSSYSISGILGITSPSADTNKRKRDEGSPYYYSAAARGAAPPAAATAYDRH
+PTM	

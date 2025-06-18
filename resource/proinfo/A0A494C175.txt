@@ -1,0 +1,25 @@
+UniprotID	A0A494C175
+Accession	A0A494C175
+EntryName	A0A494C175_HUMAN
+ProteinName	Myeloid leukemia factor 1
+GeneName	MLF1
+Length	218
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFRMLNSSFEDDPFFSESILAHRENMRQMIRSFSEPFGRDLLSISDGRGRAHNRRGHNDGEDSLTHTDVSSFQTMDQMVSNMRNYMQKLERNFGQLSVDPNGHSFCSSSVMTYSKIGDEPPKVFQASTQTRRAPGGIKETRKAMRDSDSGLEKMAIGHHIHDRAHVIKKSKNKKTGDEEVNQEFINMNERRNLNKVQPLNMEGDQMFWGTNSTSKAHL
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A024R7E8
+Accession	A0A024R7E8
+EntryName	A0A024R7E8_HUMAN
+ProteinName	Transcription elongation factor 1 homolog
+GeneName	ELOF1 hCG_29982
+Length	104
+Function	Transcription elongation factor implicated in the maintenance of proper chromatin structure in actively transcribed regions.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	32...37
+validnes_region	
+nesbase_region	
+Sequence	MVRSRLTAVSASWVQAHPPADMGRRKSKRKPPPKKKMTGTLETQFTCPFCNHEKSCDVKMDRARNTGVISCTVCLEEFQTPITYLSEPVDVYSDWIDACEAANQ
+PTM	

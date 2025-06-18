@@ -1,0 +1,25 @@
+UniprotID	Q86TW2-2
+Accession	Q86TW2;B3KUD5;Q6PD65;Q9UIE6
+EntryName	ADCK1_HUMAN
+ProteinName	AarF domain-containing protein kinase 1 (EC 2.7.-.-)
+GeneName	ADCK1
+Length	523
+Function	Appears to be essential for maintaining mitochondrial cristae formation and mitochondrial function by acting via YME1L1 in a kinase-independent manner to regulate essential mitochondrial structural proteins OPA1 and IMMT (PubMed:31125351). The action of this enzyme is not yet clear (Probable). It is not known if it has protein kinase activity and what type of substrate it would phosphorylate (Ser, Thr or Tyr) (Probable).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARKALKLASWTSMALAASGIYFYSNKYLDPNDFGAVRVGRAVATTAVISYDYLTSLKSVPYGSEEYLQLRSKVHLRSARRLCELCCANRGTFIKVGQHLGALDYLLPEEYTSTLKVLHSQAPQSSMQEIRQVIREDLGKEIHDLFQSFDDTPLGTASLAQVHKAVLHDGRTVAVKVQHPKVRAQSSKDILLMEVLVLAVKQLFPEFEFMWLVDEAKKNLPLELDFLNEGRNAEKVSQMLRHFDFLKVPRIHWDLSTERVLLMEFVDGGQVNDRDYMERNKIDVNEISRHLGKMYSEMIFVNGFVHCDPHPGNVLVRKHPGTGKAEIVLLDHGLYQMLTEEFRLNYCHLWQSLIWTDMKRVKEYSQRLGAGDLYPLFACMLTARSWDSVNRGISQAPVTATEDLEIRNNAANYLPQISHLLNHVPRQMLLILKTNDLLRGIEAALGTRASASSFLNMSRCCIRALAEHKKKNTCSFFRRTQISFSEAFNLWQINLHELILRVKGLKLADRVLALICWLFPAPL
+PTM	Methylation:171,183,254,440;Phosphorylation:263,454

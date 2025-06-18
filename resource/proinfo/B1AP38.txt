@@ -1,0 +1,25 @@
+UniprotID	B1AP38
+Accession	B1AP38
+EntryName	B1AP38_HUMAN
+ProteinName	inositol-polyphosphate 5-phosphatase (EC 3.1.3.56)
+GeneName	INPP5A
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LDISFPPSYPYSEDARQGEQYMNTRCPAWCDRILMSPSAKELVLRSESEEKVVTYDHIGPNVCMGDHKPVFLAFRIMPGAGKRCQRHERTLREPPCSRGPNTHS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9NNX1-3
+Accession	Q9NNX1;B2RD57;D3DV21;D3DV22;Q5T384;Q5T385;Q9BU28;Q9H5L1
+EntryName	TUFT1_HUMAN
+ProteinName	Tuftelin
+GeneName	TUFT1
+Length	331
+Function	Involved in the structural organization of the epidermis (PubMed:36689522). Involved in the mineralization and structural organization of enamel.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNGTRNWCTLVDVHPEDQAAVYLKGRSGDKMIHEKNINQLKSEVQYIQEARNCLQKLREDISSKLDRNLGDSLHRQEIQVVLEKPNGFSQSPTALYSSPPEVDTCINEDVESLRKTVQDLLAKLQEAKRQHQSDCVAFEVTLSRYQREAEQSNVALQREEDRVEQKEAEVGELQRRLLGMETEHQALLAKVREGEVALEELRSNNADCQAEREKAATLEKEVAGLREKIHHLDDMLKSQQRKVRQMIEQLQNSKAVIQSKDATIQELKEKIAYLEAENLEMHDRMEHLIEKQISHGNFSTQARAKTENPGSIRISKPPSPKPMPVIRVVET
+PTM	Methylation:79,100,174,182,249,279,319,327,350;Phosphorylation:131,150,192,276,370,378;SUMOylation:100,123,364;Ubiquitylation:123

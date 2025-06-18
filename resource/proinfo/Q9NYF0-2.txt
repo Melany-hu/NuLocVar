@@ -1,0 +1,25 @@
+UniprotID	Q9NYF0-2
+Accession	Q9NYF0;A8MYJ2;Q86TY0
+EntryName	DACT1_HUMAN
+ProteinName	Dapper homolog 1 (hDPR1) (Dapper antagonist of catenin 1) (Hepatocellular carcinoma novel gene 3 protein)
+GeneName	DACT1 DPR1 HNG3
+Length	799
+Function	Involved in regulation of intracellular signaling pathways during development. Specifically thought to play a role in canonical and/or non-canonical Wnt signaling pathways through interaction with DSH (Dishevelled) family proteins. The activation/inhibition of Wnt signaling may depend on the phosphorylation status. Proposed to regulate the degradation of CTNNB1/beta-catenin, thereby modulating the transcriptional activation of target genes of the Wnt signaling pathway. Its function in stabilizing CTNNB1 may involve inhibition of GSK3B activity. Promotes the membrane localization of CTNNB1. The cytoplasmic form can induce DVL2 degradation via a lysosome-dependent mechanism; the function is inhibited by PKA-induced binding to 14-3-3 proteins, such as YWHAB. Seems to be involved in morphogenesis at the primitive streak by regulating VANGL2 and DVL2; the function seems to be independent of canonical Wnt signaling and rather involves the non-canonical Wnt/planar cell polarity (PCP) pathway (By similarity). The nuclear form may prevent the formation of LEF1:CTNNB1 complex and recruit HDAC1 to LEF1 at target gene promoters to repress transcription thus antagonizing Wnt signaling. May be involved in positive regulation of fat cell differentiation. During neuronal differentiation may be involved in excitatory synapse organization, and dendrite formation and establishment of spines.
+Subcellular Location	Cytoplasm; Nucleus; Synapse
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	610..623
+UniprotNESRegion	132..141
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	573...586
+validnes_region	
+nesbase_region	
+Sequence	MKPSPAGTAKELEPPAPARGEQRTAEPEGRWREKGEADTERQRTRERQEATLAGLAELEYLRQRQELLVRGALRGAGGAGAAAPRAGELLGEAAQRSRLEEKFLEENILLLRKQLNCLRRRDAGLLNQLQELDKQISDLRLDVEKTSEEHLETDSRPSSGFYELSDGASGSLSNSSNSVFSECLSSCHSSTCFCSPLEATLSLSDGCPKSADVNPKYQCDLVSKNGNDVYRYPSPLHAVAVQSPMFLLCLTGNPLREEDRLGNHASDICGGSELDAVKTDSSLPSPSSLWSASHPSSSKKMDGYILSLVQKKTHPVRTNKPRTSVNADPTKGLLRNGSVCVRAPGGVSQGNSVNLKNSKQACLPSGGIPSLNNGTFSPPKQWSKESKAEQAESKRVPLPEGCPSGAASDLQSKHLPKTAKPASQEHARCSAIGTGESPKESAQLSGASPKESPSRGPAPPQENKVVQPLKKMSQKNSLQGVPPATPPLLSTAFPVEERPALDFKSEGSSQSLEEAHLVKAQFIPGQQPSVRLHRGHRNMGVVKNSSLKHRGPALQGLENGLPTVREKTRAGSKKCRFPDDLDTNKKLKKASSKGRKSGGGPEAGVPGRPAGGGHRAGSRAHGHGREAVVAKPKHKRTDYRRWKSSAEISYEEALRRARRGRRENVGLYPAPVPLPYASPYAYVASDSEYSAECESLFHSTVVDTSEDEQSNYTTNCFGDSESSVSEGEFVGESTTTSDSEESGGLIWSQFVQTLPIQTVTAPDLHNHPAKTFVKIKASHNLKKKILRFRSGSLKLMTTV
+PTM	Methylation:113,220,261,393,450,556;Phosphorylation:4,39,137,280,344,360,361,478,482,485,522,566,634,686,687,815

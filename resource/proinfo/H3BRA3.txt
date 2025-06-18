@@ -1,0 +1,25 @@
+UniprotID	H3BRA3
+Accession	H3BRA3
+EntryName	H3BRA3_HUMAN
+ProteinName	Transmembrane protein 62
+GeneName	TMEM62
+Length	21
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RRPHPAPGPGDSNIFWGLQET
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A0A087WVE6
+Accession	A0A087WVE6
+EntryName	A0A087WVE6_HUMAN
+ProteinName	5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase (EC 3.6.1.62)
+GeneName	DCP1A
+Length	191
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEALSRAGQEMSLAALKQHDPYITSIADLTGQVALYTFCPKANQWTDIEGTLFVYRRSASPYHGFTIVNRLNMHNLVEPVNKDLEFQLHEPFLLYRNASLSIYSIWFYDKNDCHRIAKLMADVVEEETRRSQQAARDKQSPSQANGCSDHRPIDILEMLSRAKDEYERNQMGDSNISSPGLQPSTQLSNLG
+PTM	

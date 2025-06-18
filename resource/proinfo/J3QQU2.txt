@@ -1,0 +1,25 @@
+UniprotID	J3QQU2
+Accession	J3QQU2
+EntryName	J3QQU2_HUMAN
+ProteinName	Protein interacting with cyclin A1
+GeneName	PROCA1
+Length	152
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWVRTTLTIERWTKEKTEPKARSWDESRCRDVNRLPSWERGHLLAGVASSTDVSTFSEGDCKEPDKCCWRHKQCTGHIIYPFASDCVRHSLHLHSVNHCNCNSSFELVLPAQSQLCTPCSALREMGRRSVGLRQAQRKPTVPQASGSGSLGE
+PTM	

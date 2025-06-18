@@ -1,0 +1,25 @@
+UniprotID	Q9BQI0-2
+Accession	Q9BQI0;B2RBC4;Q6ZR40;Q8NAX7;Q8WU47;Q9H9G0
+EntryName	AIF1L_HUMAN
+ProteinName	Allograft inflammatory factor 1-like (Ionized calcium-binding adapter molecule 2)
+GeneName	AIF1L C9orf58 IBA2 UNQ672/PRO1306
+Length	176
+Function	Actin-binding protein that promotes actin bundling. May neither bind calcium nor depend on calcium for function.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell projection; Ruffle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGELSNRFQGGKAFGLLKARQERRLAEINRYCAGREPQLQRISCSQHSCLLALLFQEFLCDQKYSDEENLPEKLTAFKEKYMEFDLNNEGEIDLMSLKRMMEKLGVPKTHLEMKKMISEVTGGVSDTISYRDFVNMMLGKRSAVLKLVMMFEGKANESSPKPVGPPPERDIASLP
+PTM	Acetylation:89;Methylation:19,121;Phosphorylation:2,96,100,102,104,105,133,134;Ubiquitylation:13,38

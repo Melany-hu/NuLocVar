@@ -1,0 +1,25 @@
+UniprotID	Q3KP66-3
+Accession	Q3KP66;B4E1K9;E9PFY0;Q9NV65;Q9NVI0
+EntryName	INAVA_HUMAN
+ProteinName	Innate immunity activator protein
+GeneName	INAVA C1orf106
+Length	578
+Function	Expressed in peripheral macrophages and intestinal myeloid-derived cells, is required for optimal PRR (pattern recognition receptor)-induced signaling, cytokine secretion, and bacterial clearance. Upon stimulation of a broad range of PRRs (pattern recognition receptor) such as NOD2 or TLR2, TLR3, TLR4, TLR5, TLR7 and TLR9, associates with YWHAQ/14-3-3T, which in turn leads to the recruitment and activation of MAP kinases and NF-kappa-B signaling complexes that amplifies PRR-induced downstream signals and cytokine secretion (PubMed:28436939). In the intestine, regulates adherens junction stability by regulating the degradation of CYTH1 and CYTH2, probably acting as substrate cofactor for SCF E3 ubiquitin-protein ligase complexes. Stabilizes adherens junctions by limiting CYTH1-dependent ARF6 activation (PubMed:29420262).
+Subcellular Location	Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	164..170;332..338;422..428
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MESKDEVSDTDSGIILQSGPDSPVSPMKELTHAVHKQQRALEARLEACLEELRRLCLREAELTGTLPAEYPLKPGEKAPKVRRRIGAAYKLDDWALHREDPLSSLERQLALQLQITEAARRLCLEENLSRQARRQRKHSMLQEEKKLQELQRCLVERRRNSEPPPAAALPLGRELSASDDSSLSDGLLLEEEESQVPKPPPESPAPPSRPLPPQTLEGLQPTGPEAGSPERAPVQNSPWKETSLDHPYEKPRKSSEPWSESSSPATTPQDGPSASSLWLLEPASYHVVPIRGVPGQWQGRTSAPATPEIQGRRGQSQSLRVDSFRAGPEGRGRSAFPRRRPTHYTVTVPDSCFPATKPPLPHAACHSCSEDSGSDVSSISHPTSPGSSSPDISFLQPLSPPKTHRHRGAWVPAGSRELVAHHPKLLLPPGYFPAGRYVVVAESPLPPGEWELRRAAPGPAYEEEGTPLRYQRLVPSRSRIVRTPSLKDSPAGRGLSKAAVSEELKWWHERARLRSTRPHSLDRQGAFRVRSLPLGREGFGRALGPRAQVPTVCVLRRSPDGAPVQVFVPEKGEIISQV
+PTM	Methylation:578,590;Phosphorylation:103,107,224,246,313,386,387,391,401,403,408,484,570,601,605,616,643

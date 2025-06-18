@@ -1,0 +1,25 @@
+UniprotID	E9PP66
+Accession	E9PP66
+EntryName	E9PP66_HUMAN
+ProteinName	Zinc finger protein 707
+GeneName	ZNF707
+Length	103
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDMAQEPVTFRDVAIYFSREEWACLEPSQRALYRDVMLDNFSSVAALGFCSPRPDLVSRLEQWEEPWVEDRERPEFQAVQRGPRPATQVLSGGGHWCGCLTSL
+PTM	

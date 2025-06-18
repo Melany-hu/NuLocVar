@@ -1,0 +1,25 @@
+UniprotID	F8W180
+Accession	F8W180
+EntryName	F8W180_HUMAN
+ProteinName	Myosin light chain 6
+GeneName	MYL6
+Length	196
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGPRSWETGRIGDERQEETGGGRGEGRGRRQRESEDPKGWRWGWKDWGPAGKRVCSLKQEFVGQSLWVRVCGAGIETRGIGVQMLTTSLFSEQCDFTEDQTAEMNVKVLDFEHFLPMLQTVAKNKDQGTYEDYVEGLRVFDKEGNGTVMGAEIRHVLVTLGEKMTEEEVEMLVAGHEDSNGCINYEELVRMVLNG
+PTM	

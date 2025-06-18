@@ -1,0 +1,25 @@
+UniprotID	O00232-2
+Accession	O00232;A6NP15;Q53HA2;Q6P053
+EntryName	PSD12_HUMAN
+ProteinName	26S proteasome non-ATPase regulatory subunit 12 (26S proteasome regulatory subunit RPN5) (26S proteasome regulatory subunit p55)
+GeneName	PSMD12
+Length	436
+Function	Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADGGSERADGRIVKMEVDYSATVDQRLPECAKLAKASDMVSTSRILVAVVKMCYEAKEWDLLNENIMLLSKRRSQLKQAVAKMVQQCCTYVEEITDLPIKLRLIDTLRMVTEGKIYVEIERARLTKTLATIKEQNGDVKEAASILQELQVETYGSMEKKERVEFILEQMRLCLAVKDYIRTQIISKKINTKFFQEENTEKLKLKYYNLMIQLDQHEGSYLSICKHYRAIYDTPCIQAESEKWQQALKSVVLYVILAPFDNEQSDLVHRISGDKKLEEIPKYKDLLKLFTTMELMRWSTLVEDYGMELRKGSLESPATDVFGSTEEGEKRWKDLKNRVVEHNIRIMAKYYTRITMKRMAQLLDLSVDESEAFLSNLVVNKTIFAKVDRLAGIINFQRPKDPNNLLNDWSQKLNSLMSLVNKTTHLIAKEEMIHNLQ
+PTM	Acetylation:33,98,208,212,221,262,301,349,368,405,419,431,441,448;Glycosylation:440;Methylation:15,52,72,92,179,207,245,268,301,307,349,400,431;Phosphorylation:176,310,311,332,338,344,434,437;SUMOylation:15,92,153,212,221,349;Ubiquitylation:33,36,52,92,98,121,147,153,197,207,212,221,262,303,330,349,368,405,419,431,441,448

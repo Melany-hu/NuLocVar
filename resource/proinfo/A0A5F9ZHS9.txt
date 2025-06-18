@@ -1,0 +1,25 @@
+UniprotID	A0A5F9ZHS9
+Accession	A0A5F9ZHS9
+EntryName	A0A5F9ZHS9_HUMAN
+ProteinName	Septin 4
+GeneName	SEPTIN4
+Length	211
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYNRVIWWLKDEEIKRFLEDTTDDGELSKFVKDFSGNASCHPPEAKTWASRPQVPEPRPQAPDLYDDDLEFRPPSRPQSSDNQQYFCAPAPLSPSARPRSPWGKLDPYDSSEDDKEYVGFATLPNQVHRKSVKKGFDFTLMVAGESGLGKSTLVNSLFLTDLYRDRKLLGAEERIMQTVEITKHAVDIEEKGVRLRLTIVDTPGFGDAVNN
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	A8MYG7
+Accession	A8MYG7
+EntryName	A8MYG7_HUMAN
+ProteinName	B9 domain-containing protein 1
+GeneName	B9D1
+Length	187
+Function	Component of the tectonic-like complex, a complex localized at the transition zone of primary cilia and acting as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. Required for ciliogenesis and sonic hedgehog/SHH signaling.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATASPSVFLLMVNGQVESAQFPEYDDLYCKYCFVYGQDWAPTAGLEEGISQITSKSQDVRQALVWNFPIDVTFKSTNPYGWPQIVLSVYGPDVFGNDVVRGYGAVHVPFSPGRHKRTIPMFVPESTSKLQKFTSWFMGRRPEYTDPKVVAQGEGREDENAEAEIPRSTWVSLCPSPAWLMLPFCPQ
+PTM	

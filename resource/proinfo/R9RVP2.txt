@@ -1,0 +1,25 @@
+UniprotID	R9RVP2
+Accession	R9RVP2
+EntryName	R9RVP2_HUMAN
+ProteinName	Androgen-induced 1/Golgi SNAP receptor complex member 1 variant 2 fusion protein
+GeneName	AIG1 GOSR1 fusion
+Length	35
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LKKLISLRDWMLAVLAFPVGVISGNRLDSWKMNLT
+PTM	

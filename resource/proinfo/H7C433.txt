@@ -1,0 +1,25 @@
+UniprotID	H7C433
+Accession	H7C433
+EntryName	H7C433_HUMAN
+ProteinName	Mitochondrial fission factor
+GeneName	MFF
+Length	271
+Function	Plays a role in mitochondrial and peroxisomal fission. Promotes the recruitment and association of the fission mediator dynamin-related protein 1 (DNM1L) to the mitochondrial surface. May be involved in regulation of synaptic vesicle membrane dynamics by recruitment of DNM1L to clathrin-containing vesicles.
+Subcellular Location	Mitochondrion outer membrane; Peroxisome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEISRIQYEMEYTEGISQRMRVPEKLKVAPPNADLEQGFQEGVPNASVIMQVPERIVVAGNNEDVSFSRPADLDLIQSTPFKPLALKTPPRVLTLSERPLDFLDLERPPTTPQNEEIRAVGRLKRERSMSENAVRQNGQLVRNDSLVTPSPQQARVCPPHMLPEDGANLSSARGILSLIQSSTRRAYQQILDVLDENRRYGISNIDTTIEGTSDDLTVVDAASLRRQIIKLNRRLQLLEEENKERAKREMVMYSITVAFWLLNSWLWFRR
+PTM	

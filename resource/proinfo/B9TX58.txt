@@ -1,0 +1,25 @@
+UniprotID	B9TX58
+Accession	B9TX58
+EntryName	B9TX58_HUMAN
+ProteinName	Mediator complex subunit MED23 variant MED23_i11
+GeneName	MED23
+Length	107
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	METQLQSIFEEVVKTEVIEEAFPGMFMDTPGFTDSSCQNEPYSQHCNQGDKTCSCKVQCGLGSSPSGNLQSFIGLYGNRVFGHQRIYQSAFANCFQITCMGDLTHTP
+PTM	

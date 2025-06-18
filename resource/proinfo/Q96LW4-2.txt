@@ -1,0 +1,25 @@
+UniprotID	Q96LW4-2
+Accession	Q96LW4;A0A0A0MTC0;D3DP55;D6RDM1;Q5HYJ9
+EntryName	PRIPO_HUMAN
+ProteinName	DNA-directed primase/polymerase protein (hPrimpol1) (EC 2.7.7.102) (EC 2.7.7.7) (Coiled-coil domain-containing protein 111)
+GeneName	PRIMPOL CCDC111
+Length	559
+Function	DNA primase and DNA polymerase required to tolerate replication-stalling lesions by bypassing them (PubMed:24126761, PubMed:24207056, PubMed:24240614, PubMed:24267451, PubMed:24682820, PubMed:25255211, PubMed:25262353, PubMed:25550423, PubMed:25746449, PubMed:27989484, PubMed:28534480, PubMed:29608762, PubMed:30889508, PubMed:31676232). Required to facilitate mitochondrial and nuclear replication fork progression by initiating de novo DNA synthesis using dNTPs and acting as an error-prone DNA polymerase able to bypass certain DNA lesions (PubMed:24126761, PubMed:24207056, PubMed:24240614, PubMed:24267451, PubMed:24682820, PubMed:25255211, PubMed:25262353, PubMed:25550423, PubMed:25746449, PubMed:27989484, PubMed:28534480, PubMed:29608762, PubMed:30633872, PubMed:30889508). Shows a high capacity to tolerate DNA damage lesions such as 8oxoG and abasic sites in DNA (PubMed:24126761, PubMed:24207056, PubMed:24240614, PubMed:24267451, PubMed:25746449). Provides different translesion synthesis alternatives when DNA replication is stalled: able to synthesize DNA primers downstream of lesions, such as ultraviolet (UV) lesions, R-loops and G-quadruplexes, to allow DNA replication to continue (PubMed:24240614, PubMed:26626482, PubMed:28534480, PubMed:30478192). Can also realign primers ahead of 'unreadable lesions' such as abasic sites and 6-4 photoproduct (6-4 pyrimidine-pyrimidinone), thereby skipping the lesion. Repriming avoids fork degradation while leading to accumulation of internal ssDNA gaps behind the forks (PubMed:24240614, PubMed:25746449, PubMed:31676232). Also able to incorporate nucleotides opposite DNA lesions such as 8oxoG, like a regular translesion synthesis DNA polymerase (PubMed:24207056, PubMed:25255211, PubMed:25746449). Also required for reinitiating stalled forks after UV damage during nuclear DNA replication (PubMed:24240614). Required for mitochondrial DNA (mtDNA) synthesis and replication, by reinitiating synthesis after UV damage or in the presence of chain-terminating nucleotides (PubMed:24207056). Prevents APOBEC family-mediated DNA mutagenesis by repriming downstream of abasic site to prohibit error-prone translesion synthesis (By similarity). Has non-overlapping function with POLH (PubMed:24240614). In addition to its role in DNA damage response, also required to maintain efficient nuclear and mitochondrial DNA replication in unperturbed cells (PubMed:30715459).
+Subcellular Location	Nucleus; Mitochondrion matrix; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNRKWEAKLKQIEERASHYERKPLSSVYRPRLSKPEEPPSIWRLFHRQAQAFNFVKSCKEDVHVFALECKVGDGQRIYLVTTYAEFWFYYKSRKNLLHCYEVIPENAVCKLYFDLEFNKPANPGADGKKMVALLIEYVCKALQELYGVNCSAEDVLNLDSSTDEKFSRHLIFQLHDVAFKDNIHVGNFLRKILQPALDLLGSEDDDSAPETTGHGFPHFSEAPARQGFSFNKMFTEKATEESWTSNSKKLERLGSAEQSSPDLSFLVVKNNMGEKHLFVDLGVYTRNRNFRLYKSSKIGKRVALEVTEDNKFFPIQSKDVSDEYQYFLSSLVSNVRFSDTLRILTCEPSQNKQKGVGYFNSIGTSETIEGFQCSPYPEVDHFVLSLVNKDGIKGGIRRWNYFFPEELLVYDICKYRWCENIGRAHKSNNIMILVDLKNEVWYQKCHDPVCKAENFKSDCFPLPAEVCLLFLFKEEEEFTTDEADETRSNETQNPHKPSPSRLSTGASADAVWDNGIDDAYFLEATEDAELAEAAENSLLSYNSEVDEIPDELIIEVLQE
+PTM	Acetylation:128,129,140;Methylation:119,165,269,318,438,457;Phosphorylation:255,259,260,264,489,499,501;SUMOylation:22,237,311;Ubiquitylation:497

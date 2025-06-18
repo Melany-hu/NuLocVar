@@ -1,0 +1,25 @@
+UniprotID	S4R3P1
+Accession	S4R3P1
+EntryName	HMN13_HUMAN
+ProteinName	Humanin-like 13 (HN13) (MT-RNR2-like protein 13)
+GeneName	MTRNR2L13
+Length	24
+Function	Plays a role as a neuroprotective and antiapoptotic factor.
+Subcellular Location	Secreted; Cytoplasm
+Disorder	0.0171,0.0113,0.0083,0.0105,0.0163,0.0102,0.0138,0.0096,0.0119,0.0099,0.0117,0.0130,0.0125,0.0079,0.0065,0.0055,0.0071,0.0058,0.0055,0.0066,0.0081,0.0102,0.0146,0.0258
+ExposeBuried	1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
+SurfaceAccessbility	0.776,0.735,0.542,0.577,0.401,0.123,0.328,0.041,0.072,0.071,0.075,0.068,0.099,0.381,0.558,0.172,0.616,0.235,0.503,0.258,0.560,0.543,0.570,0.749
+SecondStructure	C,C,C,C,C,C,B,B,B,B,B,B,B,B,B,C,C,C,B,B,B,B,C,C
+Hydropathy	1.9,-3.5,-0.7,-3.5,-0.4,2.8,-0.8,2.5,3.8,3.8,3.8,3.8,4.5,-0.8,-3.5,4.5,-3.5,3.8,-0.8,4.2,-3.9,-4.5,-4.5,4.5
+Polar	0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0
+Charge	0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-1,0,0,0,1,1,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDTQGFSCLLLLISEIDLSVKRRI
+PTM	

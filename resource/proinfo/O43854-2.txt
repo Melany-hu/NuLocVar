@@ -1,0 +1,25 @@
+UniprotID	O43854-2
+Accession	O43854;B2R763;O43855;Q5D094;Q8N610
+EntryName	EDIL3_HUMAN
+ProteinName	EGF-like repeat and discoidin I-like domain-containing protein 3 (Developmentally-regulated endothelial cell locus 1 protein) (Integrin-binding protein DEL1)
+GeneName	EDIL3 DEL1
+Length	470
+Function	Promotes adhesion of endothelial cells through interaction with the alpha-v/beta-3 integrin receptor. Inhibits formation of vascular-like structures. May be involved in regulation of vascular morphogenesis of remodeling in embryonic development.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRSVAVWLLVGLSLGVPQFGKGDICDPNPCENGGICLPGLADGSFSCECPDGFTDPNCSSVVEVGPCTPNPCHNGGTCEISEAYRGDTFIGYVCKCPRGFNGIHCQHNINECEVEPCKNGGICTDLVANYSCECPGEFMGRNCQYKCSGPLGIEGGIISNQQITASSTHRALFGLQKWYPYYARLNKKGLINAWTAAENDRWPWIQINLQRKMRVTGVITQGAKRIGSPEYIKSYKIAYSNDGKTWAMYKVKGTNEDMVFRGNIDNNTPYANSFTPPIKAQYVRLYPQVCRRHCTLRMELLGCELSGCSEPLGMKSGHIQDYQITASSIFRTLNMDMFTWEPRKARLDKQGKVNAWTSGHNDQSQWLQVDLLVPTKVTGIITQGAKDFGHVQFVGSYKLAYSNDGEHWTVYQDEKQRKDKVFQGNFDNDTHRKNVIDPPIYARHIRILPWSWYGRITLRSELLGCTEEE
+PTM	Acetylation:397;Glycosylation:112,119;Phosphorylation:339,343;SUMOylation:157,263;Ubiquitylation:235

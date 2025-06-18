@@ -1,0 +1,25 @@
+UniprotID	Q96PJ7
+Accession	Q96PJ7
+EntryName	Q96PJ7_HUMAN
+ProteinName	RAB34, member RAS oncogene family (Ras-related GTP-binding protein RAB39)
+GeneName	RAB34
+Length	211
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MNILAPVRRDRVLAELPQCLRKEAALHGHKDFHPRVTCACQEHRTGTVGRFKISKVIVVGDLSVGKTCLINRFCKDTFDKNYKATIGVDFEMERFEVLGIPFSLQLWDTAGQERFKCIASTYYRGAQAIIIVFNLNDVASLEHTKQWLADALKENDPSSVLLFLVGSKKDLSTPAQYALMEKDALQVAQEMKTVQRLPSPRALCHPHSSRA
+PTM	

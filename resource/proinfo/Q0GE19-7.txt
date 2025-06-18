@@ -1,0 +1,25 @@
+UniprotID	Q0GE19-7
+Accession	Q0GE19;A7E2E6;A7MAX9;Q0VAP9;Q45NG1;Q45NG2;Q5H9S6;Q6P4E6;Q8IZ62;Q8NBP8;Q9H0M9
+EntryName	NTCP7_HUMAN
+ProteinName	Sodium/bile acid cotransporter 7 (Na(+)/bile acid cotransporter 7) (Solute carrier family 10 member 7)
+GeneName	SLC10A7 C4orf13 P7 PSEC0051
+Length	85
+Function	Involved in teeth and skeletal development. Has an essential role in the biosynthesis and trafficking of glycosaminoglycans and glycoproteins, to produce a proper functioning extracellular matrix. Required for extracellular matrix mineralization (PubMed:29878199, PubMed:30082715). Also involved in the regulation of cellular calcium homeostasis (PubMed:30082715, PubMed:31191616). Does not show transport activity towards bile acids or steroid sulfates (including taurocholate, cholate, chenodeoxycholate, estrone-3-sulfate, dehydroepiandrosterone sulfate (DHEAS) and pregnenolone sulfate).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRLLERMRKDWFMVGIVLAIAGAKLEPSIGVNGGPLKPEITVSYIAVATIFFNSGLSLKTEFADSRLHASACVFCSDFNQGSWWK
+PTM	Methylation:24,37,106,126,231;Phosphorylation:57

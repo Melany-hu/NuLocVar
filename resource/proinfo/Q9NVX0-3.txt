@@ -1,0 +1,25 @@
+UniprotID	Q9NVX0-3
+Accession	Q9NVX0;C9JH36;Q9H9B3
+EntryName	HAUS2_HUMAN
+ProteinName	HAUS augmin-like complex subunit 2 (Centrosomal protein of 27 kDa) (Cep27)
+GeneName	HAUS2 C15orf25 CEP27
+Length	204
+Function	Contributes to mitotic spindle assembly, maintenance of centrosome integrity and completion of cytokinesis as part of the HAUS augmin-like complex.
+Subcellular Location	Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAANPWDPASAPNGAGLVLGHFIASGMVNQKNLEIELLKLEKDTADVVHPFFLAQKCHTLQSMNNHLEAVLKEKRSLRQRLLKPMCQENLPIEAVYHRYMVHLLELAVTFIERLETHLETIRNIPHLAANLKKMNQALAKMDILVTETEELAENILKWRKQQNEVSSCIPKILAEESYLYKHDIIMPPLPFTSKVHVQTINAK
+PTM	Acetylation:164;Methylation:63,71,104,164,172,189;Phosphorylation:152;SUMOylation:71;Ubiquitylation:164,165,192,213

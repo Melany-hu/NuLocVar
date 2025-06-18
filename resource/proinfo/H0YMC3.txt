@@ -1,0 +1,25 @@
+UniprotID	H0YMC3
+Accession	H0YMC3
+EntryName	H0YMC3_HUMAN
+ProteinName	long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+GeneName	ACSBG1
+Length	243
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPEVLLLRSASSILRTAFLSRWLPGGPRCVHKLSFVRNLQCRQGVRLNVRSSSLTDRQPLSKESLNHALELSVPEKVNNAQWDAPEEALWTTRADGRVRLRIDPSCPQLPYTVHRMFYEALDKYGDLIALGFKRQDKWEHISYSQYYLLARRAAKGFLKLGLKQAHSVAILGFNSPEWFFSAVGTVFAGGIVTGIYTTSSPEACQYIAYDCCANVIMVDTQKQLEKILKIWKQLPHLKAVVIY
+PTM	

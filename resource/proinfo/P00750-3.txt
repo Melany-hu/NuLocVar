@@ -1,0 +1,25 @@
+UniprotID	P00750-3
+Accession	P00750;A8K022;B2R8E8;Q15103;Q503B0;Q6PJA5;Q7Z7N2;Q86YK8;Q9BU99;Q9BZW1
+EntryName	TPA_HUMAN
+ProteinName	Tissue-type plasminogen activator (t-PA) (t-plasminogen activator) (tPA) (EC 3.4.21.68) (Alteplase) (Reteplase) [Cleaved into: Tissue-type plasminogen activator chain A; Tissue-type plasminogen activator chain B]
+GeneName	PLAT
+Length	516
+Function	Converts the abundant, but inactive, zymogen plasminogen to plasmin by hydrolyzing a single Arg-Val bond in plasminogen. By controlling plasmin-mediated proteolysis, it plays an important role in tissue remodeling and degradation, in cell migration and many other physiopathological events. During oocyte activation, plays a role in cortical granule reaction in the zona reaction, which contributes to the block to polyspermy (By similarity).
+Subcellular Location	Secreted; Extracellular space
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	236...240
+validnes_region	
+nesbase_region	
+Sequence	MDAMKRGLCCVLLLCGAVFVSPSQEIHARFRRGARSYQGCSEPRCFNGGTCQQALYFSDFVCQCPEGFAGKCCEIDTRATCYEDQGISYRGTWSTAESGAECTNWNSSALAQKPYSGRRPDAIRLGLGNHNYCRNPDRDSKPWCYVFKAGKYSSEFCSTPACSEGNSDCYFGNGSAYRGTHSLTESGASCLPWNSMILIGKVYTAQNPSAQALGLGKHNYCRNPDGDAKPWCHVLKNRRLTWEYCDVPSCSTCGLRQYSQPQFRIKGGLFADIASHPWQAAIFAKHRRSPGERFLCGGILISSCWILSAAHCFQERFPPHHLTVILGRTYRVVPGEEEQKFEVEKYIVHKEFDDDTYDNDIALLQLKSDSSRCAQESSVVRTVCLPPADLQLPDWTECELSGYGKHEALSPFYSERLKEAHVRLYPSSRCTSQHLLNRTVTDNMLCAGDTRSGGPQANLHDACQGDSGGPLVCLNDGRMTLVGIISWGLGCGQKDVPGVYTKVTNYLDWIRDNMRP
+PTM	Glycosylation:150,152,212,219,483;Methylation:247,263,391,413;SUMOylation:413;Ubiquitylation:84

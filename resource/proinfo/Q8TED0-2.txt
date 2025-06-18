@@ -1,0 +1,25 @@
+UniprotID	Q8TED0-2
+Accession	Q8TED0;B4DU75;B4DXK8;Q6IA60;Q96E08;Q9H9F8
+EntryName	UTP15_HUMAN
+ProteinName	U3 small nucleolar RNA-associated protein 15 homolog
+GeneName	UTP15
+Length	328
+Function	Ribosome biogenesis factor. Involved in nucleolar processing of pre-18S ribosomal RNA. Required for optimal pre-ribosomal RNA transcription by RNA polymerase I (PubMed:17699751). Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted degradation of pre-ribosomal RNA by the RNA exosome (PubMed:34516797).
+Subcellular Location	Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFDARTSESVLSVEHGQPVESVLLFPSGGLLVSAGGRYVKVWDMLKGGQLLVSLKNHHKTVTCLCLSSSGQRLLSGSLDRKVKVYSTTSYKVVHSFDYAASILSLALAHEDETIVVGMTNGILSVKHRKSEAKKESLPRRRRPAYRTFIKGKNYMKQRDDILINRPAKKHLELYDRDLKHFRISKALDRVLDPTCTIKTPEITVSIIKELNRRGVLANALAGRDEKEISHVLNFLIRNLSQPRFAPVLINAAEIIIDIYLPVIGQSPVVDKKFLLLQGLVEKEIDYQRELLETLGMMDMLFATMRRKEGTSVLEHTSDGFPENKKIES
+PTM	Acetylation:5,30,36,74,80,134,174,230,245,249,359,398;Methylation:18,36,366,398,472;Phosphorylation:25,84,144,145,166,493,506,507;SUMOylation:5,36,80,236,249,340,369,462;Ubiquitylation:36,74,80,155,342,358,359,369,375,388,472,514

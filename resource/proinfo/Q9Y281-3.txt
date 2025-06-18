@@ -1,0 +1,25 @@
+UniprotID	Q9Y281-3
+Accession	Q9Y281;G3V5P4
+EntryName	COF2_HUMAN
+ProteinName	Cofilin-2 (Cofilin, muscle isoform)
+GeneName	CFL2
+Length	149
+Function	Controls reversibly actin polymerization and depolymerization in a pH-sensitive manner. Its F-actin depolymerization activity is regulated by association with CSPR3 (PubMed:19752190). It has the ability to bind G- and F-actin in a 1:1 ratio of cofilin to actin. It is the major component of intranuclear and cytoplasmic actin rods. Required for muscle maintenance. May play a role during the exchange of alpha-actin forms during the early postnatal remodeling of the sarcomere (By similarity).
+Subcellular Location	Nucleus matrix; Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	30..34
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	12...17;13...18;14...19
+validnes_region	
+nesbase_region	
+Sequence	MKVRKSSTQEEIKKRKKAVLFCLSDDKRQIIVEEAKQILVGDIGDTVEDPYTSFVKLLPLNDCRYALYDATYETKESKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFTGIKHEWQVNGLDDIKDRSTLGEKLGGNVVVSLEGKPL
+PTM	Acetylation:13,19,44,73,92,95,112,114,121,125,127,132,144;Methylation:13,19,30,53,73,92,96,112,121,125;Phosphorylation:3,6,23,24,68,82,85,88,89,91,94,108,113,117,119,120;SUMOylation:19,96,112,114,121,132;Ubiquitylation:13,19,22,44,53,73,92,95,112,114,121,125,144,152,164

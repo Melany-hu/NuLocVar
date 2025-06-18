@@ -1,0 +1,25 @@
+UniprotID	C9J786
+Accession	C9J786
+EntryName	C9J786_HUMAN
+ProteinName	Transmembrane protein 14B
+GeneName	TMEM14B
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKPLFPLVPLHWFGFGYTALVVSGGIVGYVKTAATSVTFVGVMGMRSYYYGKFMPVGLIAGARYFHSITLLYHVEFSLLPRILYAFKTLLVSEYLMLCIN
+PTM	

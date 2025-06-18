@@ -1,0 +1,25 @@
+UniprotID	O75604-3
+Accession	O75604;B0YJB8;E9PPM2;Q8IUM2;Q8IW04;Q96MB9;Q9BQ21
+EntryName	UBP2_HUMAN
+ProteinName	Ubiquitin carboxyl-terminal hydrolase 2 (EC 3.4.19.12) (41 kDa ubiquitin-specific protease) (Deubiquitinating enzyme 2) (Ubiquitin thioesterase 2) (Ubiquitin-specific-processing protease 2)
+GeneName	USP2 UBP41
+Length	362
+Function	Hydrolase that deubiquitinates polyubiquitinated target proteins such as MDM2, MDM4 and CCND1 (PubMed:17290220, PubMed:19838211, PubMed:19917254). Isoform 1 and isoform 4 possess both ubiquitin-specific peptidase and isopeptidase activities (By similarity). Deubiquitinates MDM2 without reversing MDM2-mediated p53/TP53 ubiquitination and thus indirectly promotes p53/TP53 degradation and limits p53 activity (PubMed:17290220, PubMed:19838211). Has no deubiquitinase activity against p53/TP53 (PubMed:17290220). Prevents MDM2-mediated degradation of MDM4 (PubMed:17290220). Plays a role in the G1/S cell-cycle progression in normal and cancer cells (PubMed:19917254). Regulates the circadian clock by modulating its intrinsic circadian rhythm and its capacity to respond to external cues (By similarity). Associates with clock proteins and deubiquitinates core clock component PER1 but does not affect its overall stability (By similarity). Regulates the nucleocytoplasmic shuttling and nuclear retention of PER1 and its repressive role on the clock transcription factors CLOCK and BMAL1 (By similarity). Plays a role in the regulation of myogenic differentiation of embryonic muscle cells (By similarity).
+Subcellular Location	Cytoplasm; Cytoplasm; Perinuclear region; Nucleus; Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLVPGSTRPYSKKRQNSKSAQGLAGLRNLGNTCFMNSILQCLSNTRELRDYCLQRLYMRDLHHGSNAHTALVEEFAKLIQTIWTSSPNDVVSPSEFKTQIQRYAPRFVGYNQQDAQEFLRFLLDGLHNEVNRVTLRPKSNPENLDHLPDDEKGRQMWRKYLEREDSRIGDLFVGQLKSSLTCTDCGYCSTVFDPFWDLSLPIAKRGYPEVTLMDCMRLFTKEDVLDGDEKPTCCRCRGRKRCIKKFSIQRFPKILVLHLKRFSESRIRTSKLTTFVNFPLRDLDLREFASENTNHAVYNLYAVSNHSGTTMGGHYTAYCRSPGTGEWHTFNDSSVTPMSSSQVRTSDAYLLFYELASPPSRM
+PTM	Methylation:46,139,340;Phosphorylation:42,152,169,175,207,213,235,239,248,252

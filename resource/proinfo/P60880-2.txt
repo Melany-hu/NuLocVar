@@ -1,0 +1,25 @@
+UniprotID	P60880-2
+Accession	P60880;B2RAU4;D3DW16;D3DW17;P13795;P36974;P70557;P70558;Q53EM2;Q5U0B5;Q8IXK3;Q96FM2;Q9BR45
+EntryName	SNP25_HUMAN
+ProteinName	Synaptosomal-associated protein 25 (SNAP-25) (Super protein) (SUP) (Synaptosomal-associated 25 kDa protein)
+GeneName	SNAP25 SNAP
+Length	206
+Function	t-SNARE involved in the molecular regulation of neurotransmitter release. May play an important role in the synaptic function of specific neuronal systems. Associates with proteins involved in vesicle docking and membrane fusion. Regulates plasma membrane recycling through its interaction with CENPF. Modulates the gating characteristics of the delayed rectifier voltage-dependent potassium channel KCNB1 in pancreatic beta cells.
+Subcellular Location	Cytoplasm; Perinuclear region; Cell membrane; Synapse; Synaptosome; Photoreceptor inner segment
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAEDADMRNELEEMQRRADQLADESLESTRRMLQLVEESKDAGIRTLVMLDEQGEQLDRVEEGMNHINQDMKEAEKNLKDLGKCCGLFICPCNKLKSSDAYKKAWGNNQDGVVASQPARVVDEREQMAISGGFIRRVTNDARENEMDENLEQVSGIIGNLRHMALDMGNEIDTQNRQIDRIMEKADSNKTRIDEANQRATKMLGSG
+PTM	Phosphorylation:25,130,154;Ubiquitylation:40,69,96,102,103,184,201

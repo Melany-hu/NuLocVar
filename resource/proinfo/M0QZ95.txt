@@ -1,0 +1,25 @@
+UniprotID	M0QZ95
+Accession	M0QZ95
+EntryName	M0QZ95_HUMAN
+ProteinName	F-box protein 17
+GeneName	FBXO17
+Length	94
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAPSQTCFVTSFEWCSKRQLVDLVMEGVWQELLDSAQIEICVADWWGARENCGCVYQLRVRLLDVYEKEVVKFSASPDPVLQWTERGCRQVGPD
+PTM	

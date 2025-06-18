@@ -1,0 +1,25 @@
+UniprotID	Q96H21
+Accession	Q96H21
+EntryName	Q96H21_HUMAN
+ProteinName	HCG2012301 (PCID2 protein)
+GeneName	PCID2 hCG_2012301
+Length	75
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVIVSRCGTGGSVTEHANEVVMKLEALQRPGGLPLSILLVLAGLTKRGASDLRHPIAEDRQSLSCATVQPSLQDV
+PTM	

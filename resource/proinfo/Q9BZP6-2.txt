@@ -1,0 +1,25 @@
+UniprotID	Q9BZP6-2
+Accession	Q9BZP6;Q32W79;Q32W80;Q3B866;Q5U5Z5;Q5VUV4;Q86UD8;Q9ULY3;Q9ULY4
+EntryName	CHIA_HUMAN
+ProteinName	Acidic mammalian chitinase (AMCase) (EC 3.2.1.14) (Lung-specific protein TSA1902)
+GeneName	CHIA
+Length	368
+Function	Degrades chitin and chitotriose. May participate in the defense against nematodes, fungi and other pathogens. Plays a role in T-helper cell type 2 (Th2) immune response. Contributes to the response to IL-13 and inflammation in response to IL-13. Stimulates chemokine production by pulmonary epithelial cells. Protects lung epithelial cells against apoptosis and promotes phosphorylation of AKT1. Its function in the inflammatory response and in protecting cells against apoptosis is inhibited by allosamidin, suggesting that the function of this protein depends on carbohydrate binding.
+Subcellular Location	Secreted; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSTPENRQTFITSVIKFLRQYEFDGLDFDWEYPGSRGSPPQDKHLFTVLVQEMREAFEQEAKQINKPRLMVTAAVAAGISNIQSGYEIPQLSQYLDYIHVMTYDLHGSWEGYTGENSPLYKYPTDTGSNAYLNVDYVMNYWKDNGAPAEKLIVGFPTYGHNFILSNPSNTGIGAPTSGAGPAGPYAKESGIWAYYEICTFLKNGATQGWDAPQEVPYAYQGNVWVGYDNIKSFDIKAQWLKHNKFGGAMVWAIDLDDFTGTFCNQGKFPLISTLKKALGLQSASCTAPAQPIEPITAAPSGSGNGSGSSSSGGSSGGSGFCAVRANGLYPVANNRNAFWHCVNGVTYQQNCQAGLVFDTSCDCCNWA
+PTM	Methylation:340

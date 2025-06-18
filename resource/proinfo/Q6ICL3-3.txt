@@ -1,0 +1,25 @@
+UniprotID	Q6ICL3-3
+Accession	Q6ICL3;A8MUE9;B7WNV6;B7Z583;B7Z730;D3DX23;Q8IW05;Q8NAL0;Q8TCS0;Q96M16
+EntryName	TNG2_HUMAN
+ProteinName	Transport and Golgi organization protein 2 homolog
+GeneName	TANGO2 C22orf25
+Length	273
+Function	May be involved in lipid homeostasis.
+Subcellular Location	Cytoplasm; Mitochondrion; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPLGAGTPVNVQRREDSATEGSHRLILAANRDEFYSRPSKLADFWGNNNEILSGLDMEEGKEGGTWLGISTRGKLAALTNYLQPQLDWQARGRGELVTHFLTTDVDSLSYLKKVSMEGHLYNGFNLIAADLSTAKGDVICYYGNRGEPDPIVLTPGTYGLSNALLETPWRKLCFGKQLFLEAVERSQALPKDVLNNEEAQLPDPAIEDQGGEYVQPMLSKYAAVCVRCPGYGTRTNTIILVDADGHVTFTERSMMDKDLSHWETRTYEFTLQS
+PTM	

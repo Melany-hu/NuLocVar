@@ -1,0 +1,25 @@
+UniprotID	H0YHS3
+Accession	H0YHS3
+EntryName	H0YHS3_HUMAN
+ProteinName	Synembryn (Protein Ric-8)
+GeneName	RIC8B
+Length	276
+Function	Chaperone that specifically binds and folds nascent G alpha proteins prior to G protein heterotrimer formation. Also acts as a guanine nucleotide exchange factor (GEF) for G alpha proteins by stimulating exchange of bound GDP for free GTP.
+Subcellular Location	Cytoplasm; Cell cortex
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XASGGARRLPGGSGLGAQSGRGSPAPAAMDEERALYIVRAGEAGAIERVLRDYSDKHRATFKFESTDEDKRKSDSHQFRVMAAVLRHCLLIVGPTEDKTEELHSNAVNLLSNVPVSCLDVLICPLTHEETAQEATTLDELPSNKTAEKETVLKNNTMVYNGMNMEAIHVLLNFMEKRIDKGSSYREGLTPVLSLLTECSRAHRNIRKFLKDQVLPPLRDVTNRPEVGSTVRNKLVRLMTHVDLGVKQIAAEFLFVLCKERVDSLLKYTGYGNAAGL
+PTM	

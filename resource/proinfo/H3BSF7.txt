@@ -1,0 +1,25 @@
+UniprotID	H3BSF7
+Accession	H3BSF7
+EntryName	H3BSF7_HUMAN
+ProteinName	Adhesion G protein-coupled receptor G1
+GeneName	ADGRG1
+Length	125
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPQSLLQTTLFLLSLLFLVQAHPASRSFPDPRGLYHFCLYWNRHAGRLHLLYGKRDFLLSDKASSLLCFQHQEESLAQGPPLLATSVTSWWSPQNISLPSAASFTFSFHSPPHTAAHNASVDMC
+PTM	

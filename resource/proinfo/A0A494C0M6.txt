@@ -1,0 +1,25 @@
+UniprotID	A0A494C0M6
+Accession	A0A494C0M6
+EntryName	A0A494C0M6_HUMAN
+ProteinName	ELAV like RNA binding protein 4
+GeneName	ELAVL4
+Length	128
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVMIISTMEPQVSNGPTSNTSNGPSSNNRNCPSPMQTGATTDDSKTNLIVNYLPQNMTQEEFRSLFGSIGEIESCKLVRDKITGQSLGYGFVNYIDPKDAEKAINTLNGLRLQTKTIKATVYLCFSLL
+PTM	

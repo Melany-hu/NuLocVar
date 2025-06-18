@@ -1,0 +1,25 @@
+UniprotID	Q9UH73-2
+Accession	Q9UH73;Q8IW11
+EntryName	COE1_HUMAN
+ProteinName	Transcription factor COE1 (O/E-1) (OE-1) (Early B-cell factor)
+GeneName	EBF1 COE1 EBF
+Length	560
+Function	Key pioneer transcription factor of B-cell specification and commitment (PubMed:27807034). Recognizes variations of the palindromic sequence 5'-ATTCCCNNGGGAATT-3'. Operates in a transcription factor network to activate B-cell-specific genes and repress genes associated with alternative cell fates. For instance, positively regulates many B-cell specific genes including BCR or CD40 while repressing genes that direct cells into alternative lineages, including GATA3 and TCF7 for the T-cell lineage. In addition to its role during lymphopoiesis, controls the thermogenic gene program in adipocytes during development and in response to environmental cold (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFGIQESIQRSGSSMKEEPLGSGMNAVRTWMQGAGVLDANTAAQSGVGLARAHFEKQPPSNLRKSNFFHFVLALYDRQGQPVEIERTAFVGFVEKEKEANSEKTNNGIHYRLQLLYSNGIRTEQDFYVRLIDSMTKQAIVYEGQDKNPEMCRVLLTHEIMCRFFLKFFLKCNQNCLKNAGNPRDMRRFQVVVSTTVNVDGHVLAVSDNMFVHNNSKHGRRARRLDPSEATPCIKAISPSEGWTTGGATVIIIGDNFFDGLQVIFGTMLVWSELITPHAIRVQTPPRHIPGVVEVTLSYKSKQFCKGTPGRFIYTALNEPTIDYGFQRLQKVIPRHPGDPERLPKEVILKRAADLVEALYGMPHNNQEIILKRAADIAEALYSVPRNHNQLPALANTSVHAGMMGVNSFSGQLAVNVSEASQATNQGFTRNSSSVSPHGYVPSTTPQQTNYNSVTTSMNGYGSAAMSNLGGSPTFLNGSAANSPYAIVPSSPTMASSTSLPSNCSSSSGIFSFSPANMVSAVKQKSAFAPVVRPQTSPPPTCTSTNGNSLQAISGMIVPPM
+PTM	Methylation:189,193,336,380,402;Phosphorylation:22,253,314,412;SUMOylation:16;Ubiquitylation:56,361

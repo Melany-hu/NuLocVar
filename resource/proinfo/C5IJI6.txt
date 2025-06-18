@@ -1,0 +1,25 @@
+UniprotID	C5IJI6
+Accession	C5IJI6
+EntryName	C5IJI6_HUMAN
+ProteinName	Glutamate receptor 1 variant
+GeneName	GRIA1
+Length	59
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGYGIATPKGSALRTRQAL
+PTM	

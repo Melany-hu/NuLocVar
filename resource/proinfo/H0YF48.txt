@@ -1,0 +1,25 @@
+UniprotID	H0YF48
+Accession	H0YF48
+EntryName	H0YF48_HUMAN
+ProteinName	ALG9 alpha-1,2-mannosyltransferase
+GeneName	ALG9
+Length	24
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XEEWISLAYRPFLDASRVSLCCPG
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P24557-3
+Accession	P24557;B4DJG6;E7EMU9;E7EP08;E7ESB5;O14987;Q16843;Q16844;Q8IUN1;Q96CN2;Q9GZW4;Q9HD77;Q9HD78;Q9HD79;Q9HD80;Q9HD81;Q9HD82;Q9HD83;Q9HD84
+EntryName	THAS_HUMAN
+ProteinName	Thromboxane-A synthase (TXA synthase) (TXS) (EC 5.3.99.5) (Cytochrome P450 5A1) (Hydroperoxy icosatetraenoate dehydratase) (EC 4.2.1.152)
+GeneName	TBXAS1 CYP5 CYP5A1 TXAS
+Length	579
+Function	Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation (PubMed:11097184, PubMed:11297515, PubMed:22735388, PubMed:24009185, PubMed:8436233, PubMed:9873013). Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage. 12-HHT and malondialdehyde are formed stoichiometrically in the same amounts as TXA2 (PubMed:11297515, PubMed:22735388, PubMed:9873013). Additionally, displays dehydratase activity, toward (15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate (15(S)-HPETE) producing 15-KETE and 15-HETE (PubMed:17459323).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEALGFLKLEVNGPMVTVALSVALLALLKWYSTSAFSRLEKLGLRHPKPSPFIGNLTFFRQGFWESQMELRKLYGPLCGYYLGRRMFIVISEPDMIKQVLVENFSNFTNRMASGLEFKSVADSVLFLRDKRWEEVRGALMSAFSPEKLNELGLLIMQERIKGHMGGQQAPQRIPPTRLSKPSGIYVNLHYATLPFCMVPLISQACDLLLAHLKRYAESGDAFDIQRCYCNYTTDVVASVAFGTPVDSWQAPEDPFVKHCKRFFEFCIPRPILVLLLSFPSIMVPLARILPNKNRDELNGFFNKLIRNVIALRDQQAAEERRRDFLQMVLDARHSASPMGVQDFDIVRDVFSSTGCKPNPSRQHQPSPMARPLTVDEIVGQAFIFLIAGYEIITNTLSFATYLLATNPDCQEKLLREVDVFKEKHMAPEFCSLEEGLPYLDMVIAETLRMYPPAFRFTREAAQDCEVLGQRIPAGAVLEMAVGALHHDPEHWPSPETFNPERFTAEARQQHRPFTYLPFGAGPRSCLGVRLGLLEVKLTLLHVLHKFRFQACPETQVPLQLESKSALGPKNGVYIKIVSR
+PTM	Methylation:29,490,517;Phosphorylation:113,314

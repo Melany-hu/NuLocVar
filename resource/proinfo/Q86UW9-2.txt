@@ -1,0 +1,25 @@
+UniprotID	Q86UW9-2
+Accession	Q86UW9;Q4ZH49;Q6XM87;Q6XM88;Q96H69;Q9H890;Q9P200
+EntryName	DTX2_HUMAN
+ProteinName	Probable E3 ubiquitin-protein ligase DTX2 (EC 2.3.2.27) (Protein deltex-2) (Deltex2) (hDTX2) (RING finger protein 58) (RING-type E3 ubiquitin transferase DTX2)
+GeneName	DTX2 KIAA1528 RNF58
+Length	575
+Function	Regulator of Notch signaling, a signaling pathway involved in cell-cell communications that regulates a broad spectrum of cell-fate determinations. Probably acts both as a positive and negative regulator of Notch, depending on the developmental and cell context. Mediates the antineural activity of Notch, possibly by inhibiting the transcriptional activation mediated by MATCH1. Functions as a ubiquitin ligase protein in vitro, suggesting that it may regulate the Notch pathway via some ubiquitin ligase activity.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAMAPSPSLVQVYTSPAAVAVWEWQDGLGTWHPYSATVCSFIEQQFVQQKGQRFGLGSLAHSIPLGQADPSLAPYIIDLPSWTQFRQDTGTMRAVRRHLFPQHSAPGRGVVWEWLSDDGSWTAYEASVCDYLEQQVARGNQLVDLAPLGYNYTVNYTTHTQTNKTSSFCRSVRRQAGPPYPVTTIIAPPGHTGVACSCHQCLSGSRTGPVSGRYRHSMTNLPAYPVPQHPPHRTASVFGTHQAFAPYNKPSLSGARSAPRLNTTNAWGAAPPSLGSQPLYRSSLSHLGPQHLPPGSSTSGAVSASLPSGPSSSPGSVPATVPMQMPKPSRVQQALAGATPKPEPEPEQVIKNYTEELKVPPDEDCIICMEKLSTASGYSDVTDSKAIGSLAVGHLTKCSHAFHLLCLLAMYCNGNKDGSLQCPSCKTIYGEKTGTQPQGKMEVLRFQMSLPGHEDCGTILIVYSIPHGIQGPEHPNPGKPFTARGFPRQCYLPDNAQGRKVLELLKVAWKRRLIFTVGTSSTTGETDTVVWNEIHHKTEMDRNITGHGYPDPNYLQNVLAELAAQGVTEDCLEQQ
+PTM	Acetylation:249;Methylation:213,256,281,398,405,553,557;Phosphorylation:171,217,236,251,257,360,364,373,381;SUMOylation:249,388,432,584;Ubiquitylation:249,479,487,553

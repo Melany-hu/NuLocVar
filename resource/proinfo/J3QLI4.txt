@@ -1,0 +1,25 @@
+UniprotID	J3QLI4
+Accession	J3QLI4
+EntryName	J3QLI4_HUMAN
+ProteinName	Protein tyrosine phosphatase receptor type M
+GeneName	PTPRM
+Length	173
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGTLSLHPGIDVRDAPLKEIKVTSSRRFIASFNVVNTTKRDAGKYRCMIRTEGGVGISNYAELVVKEPPVPIAPPQLASVGATYLWIQLNANSINGDGPIVAREVEYCTASGSWNDRQPVDSTSYKIGHLDPDTEYEISVLLTRPGEGGTGSPGPALRTRTKCADPMRGPRKL
+PTM	

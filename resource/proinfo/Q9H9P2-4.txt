@@ -1,0 +1,25 @@
+UniprotID	Q9H9P2-4
+Accession	Q9H9P2;B2R9C0;B4DJB8;Q7Z798;Q7Z799;Q7Z7A0;Q9HCY3
+EntryName	CHODL_HUMAN
+ProteinName	Chondrolectin (Transmembrane protein MT75)
+GeneName	CHODL C21orf68 PRED12 UNQ872/PRO1890
+Length	254
+Function	May play a role in the development of the nervous system such as in neurite outgrowth and elongation. May be involved in motor axon growth and guidance.
+Subcellular Location	Cytoplasm; Membrane; Endoplasmic reticulum; Endoplasmic reticulum membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAGSAHSQKVCFADFKHPCYKMAYFHELSSRVSFQEARLACESEGGVLLSLENEAEQKLIESMLQNLTKPGTGISDGDFWIGLWRNGDGQTSGACPDLYQWSDGSNSQYRNWYTDEPSCGSEKCVVMYHQPTANPGLGGPYLYQWNDDRCNMKHNYICKYEPEINPTAPVEKPYLTNQPGDTHQNVVVTEAGIIPNLIYVVIPTIPLLLLILVAFGTCCFQMLHKSKGRTKTSPNQSTLWISKSTRKESGMEV
+PTM	Methylation:89

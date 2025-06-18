@@ -1,0 +1,25 @@
+UniprotID	Q3B7J2-2
+Accession	Q3B7J2;Q69YL9;Q6UXX6;Q7L648;Q8TE86;Q9BQ07;R4GNG5
+EntryName	GFOD2_HUMAN
+ProteinName	Glucose-fructose oxidoreductase domain-containing protein 2 (EC 1.-.-.-)
+GeneName	GFOD2 UNQ9430/PRO34691
+Length	280
+Function	Promotes matrix assembly.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVTASRYYPQLMSLVGNVLRFLPAFVRMKQLISEHYVGAVMICDARIYSGSLLSPSYGWICDELMGGGGLHTMGTYIVDLLTHLTGRRAEKVHGLLKTFVRQNAAIRGIRHVTSDDFCFFQMLMGGGVCSTVTLNFNMPGAFVHEVMVVGSAGRLVARGADLYGQKNSATQEELLLRDSLAVGAGLPEQGPQDVPLLYLKGMVYMVQALRQSFQGQGDRRTWDRTPVSMAASFEDGLYMQSVVDAIKRSSRSGEWEAVEVLTEEPDTNQNLCEALQRNNL
+PTM	Methylation:90,202,305,352;Phosphorylation:100;Ubiquitylation:90,96,271

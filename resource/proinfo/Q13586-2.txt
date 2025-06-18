@@ -1,0 +1,25 @@
+UniprotID	Q13586-2
+Accession	Q13586;E9PQJ4;Q8N382
+EntryName	STIM1_HUMAN
+ProteinName	Stromal interaction molecule 1
+GeneName	STIM1 GOK
+Length	540
+Function	Acts as a Ca(2+) sensor that gates two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels (PubMed:15866891, PubMed:16005298, PubMed:16208375, PubMed:16537481, PubMed:16733527, PubMed:16766533, PubMed:16807233, PubMed:18854159, PubMed:19182790, PubMed:19249086, PubMed:19622606, PubMed:19706554, PubMed:22464749, PubMed:24069340, PubMed:24351972, PubMed:24591628, PubMed:25326555, PubMed:26322679, PubMed:28219928, PubMed:32415068). Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores. Upon Ca(2+) depletion, translocates from the endoplasmic reticulum to the plasma membrane where it activates CRAC channel pore-forming subunits ORA1, ORA2 and ORAI3 to generate sustained and oscillatory Ca(2+) entry (PubMed:16208375, PubMed:16537481, PubMed:32415068). Involved in enamel formation (PubMed:24621671).
+Subcellular Location	Cell membrane; Endoplasmic reticulum membrane; Cytoplasm; Cytoskeleton; Sarcoplasmic reticulum
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVCVRLALWLLWGLLLHQGQSLSHSHSEKATGTSSGANSEESTAAEFCRIDKPLCHSEDEKLSFEAVRNIHKLMDDDANGDVDVEESDEFLREDLNYHDPTVKHSTFHGEDKLISVEDLWKAWKSSEVYNWTVDEVVQWLITYVELPQYEETFRKLQLSGHAMPRLAVTNTTMTGTVLKMTDRSHRQKLQLKALDTVLFGPPLLTRHNHLKDFMLVVSIVIGVGGCWFAYIQNRYSKEHMKKMMKDLEGLHRAEQSLHDLQERLHKAQEEHRTVEVEKVHLEKKLRDEINLAKQEAQRLKELREGTENERSRQKYAEEELEQVREALRKAEKELESHSSWYAPEALQKWLQLTHEVEVQYYNIKKQNAEKQLLVAKEGAEKIKKKRNTLFGTFHVAHSSSLDDVDHKILTAKQALSEVTAALRERLHRWQQIEILCGFQIVNNPGIHSLVAALNIDPSWMGSTRPNPAHFIMTDDVDDMDEEIVSPLSMQSPSLQSSVRQRLTEPQHGLGSQRGSSLKANRLSSKGFDPFRFGVLPPHE
+PTM	Acetylation:53;Glycosylation:171;Methylation:279,294,349,571;Phosphorylation:35,40,175,177,257,399,400,401,504,512,517,519,521,523,524,541,556,567,575,595,600,602,608,613,614,616,618,620,621,626,628,633,660,665,667,668;SUMOylation:301,580;Ubiquitylation:413

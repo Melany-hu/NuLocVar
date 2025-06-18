@@ -1,0 +1,25 @@
+UniprotID	E5RI64
+Accession	E5RI64
+EntryName	E5RI64_HUMAN
+ProteinName	Surfactant protein C (Pulmonary surfactant-associated protein C)
+GeneName	SFTPC
+Length	144
+Function	Pulmonary surfactant associated proteins promote alveolar stability by lowering the surface tension at the air-liquid interface in the peripheral air spaces.
+Subcellular Location	Secreted; Extracellular space; Surface film
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVGSKEVLMESPPVLEMSIGAPEAQQRLALSEHLVTTATFSIGSTGLVVYDYQQLLIAYKPAPGTCCYIMKIAPESIPSLEALTRKVHNFQMECSLQAKPAVPTSKLGQAEGRDAGSAPSGGDPAFLGMAVSTLCGEVPLYYI
+PTM	

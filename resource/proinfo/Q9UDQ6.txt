@@ -1,0 +1,25 @@
+UniprotID	Q9UDQ6
+Accession	Q9UDQ6
+EntryName	Q9UDQ6_HUMAN
+ProteinName	Uncharacterized protein ICA1
+GeneName	ICA1
+Length	39
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PAKAASDLTAWFSLFADLDPLSNPDAVGKTDKEHELLNA
+PTM	

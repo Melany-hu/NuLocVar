@@ -1,0 +1,25 @@
+UniprotID	Q86TL0-2
+Accession	Q86TL0;Q969K0
+EntryName	ATG4D_HUMAN
+ProteinName	Cysteine protease ATG4D (EC 3.4.22.-) (AUT-like 4 cysteine endopeptidase) (Autophagy-related cysteine endopeptidase 4) (Autophagin-4) (Autophagy-related protein 4 homolog D) (HsAPG4D) [Cleaved into: Cysteine protease ATG4D, mitochondrial]
+GeneName	ATG4D APG4D AUTL4
+Length	141
+Function	Cysteine protease that plays a key role in autophagy by mediating both proteolytic activation and delipidation of ATG8 family proteins (PubMed:21177865, PubMed:29458288, PubMed:30661429). The protease activity is required for proteolytic activation of ATG8 family proteins: cleaves the C-terminal amino acid of ATG8 proteins MAP1LC3 and GABARAPL2, to reveal a C-terminal glycine (PubMed:21177865). Exposure of the glycine at the C-terminus is essential for ATG8 proteins conjugation to phosphatidylethanolamine (PE) and insertion to membranes, which is necessary for autophagy (By similarity). In addition to the protease activity, also mediates delipidation of ATG8 family proteins (PubMed:29458288, PubMed:33909989). Catalyzes delipidation of PE-conjugated forms of ATG8 proteins during macroautophagy (PubMed:29458288, PubMed:33909989). Also involved in non-canonical autophagy, a parallel pathway involving conjugation of ATG8 proteins to single membranes at endolysosomal compartments, by catalyzing delipidation of ATG8 proteins conjugated to phosphatidylserine (PS) (PubMed:33909989). ATG4D plays a role in the autophagy-mediated neuronal homeostasis in the central nervous system (By similarity). Compared to other members of the family (ATG4A, ATG4B or ATG4C), constitutes the major protein for the delipidation activity, while it promotes weak proteolytic activation of ATG8 proteins (By similarity). Involved in phagophore growth during mitophagy independently of its protease activity and of ATG8 proteins: acts by regulating ATG9A trafficking to mitochondria and promoting phagophore-endoplasmic reticulum contacts during the lipid transfer phase of mitophagy (PubMed:33773106).
+Subcellular Location	Cytoplasm; Cytoplasm; Mitochondrion matrix
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGGKPRHSLYFIGYQDDFLLYLDPHYCQPTVDVSQADFPLESFHCTSPRKMAFAKMDPSCTVGFYAGDRKEFETLCSELTRVLSSSSATERYPMFTLAEGHAQDHSLDDLCSQLAQPTLRLPRTGRLLRAKRPSSEDFVFL
+PTM	Methylation:64,258,388;Phosphorylation:3,5,15,45,51,87,92,93,467,468;Ubiquitylation:83,241,322

@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRU3
+Accession	A0A1W2PRU3
+EntryName	A0A1W2PRU3_HUMAN
+ProteinName	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein (Na(+)/K(+)-transporting ATPase subunit beta-1-interacting protein)
+GeneName	NKAIN2
+Length	31
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XGFDSYGYQGPQKTSHLQLQPMYMQIPLDNN
+PTM	

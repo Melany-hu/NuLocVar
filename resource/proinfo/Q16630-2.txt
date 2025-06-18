@@ -1,0 +1,25 @@
+UniprotID	Q16630-2
+Accession	Q16630;A8K7K9;Q53ES1;Q9BSJ7;Q9BW18
+EntryName	CPSF6_HUMAN
+ProteinName	Cleavage and polyadenylation specificity factor subunit 6 (Cleavage and polyadenylation specificity factor 68 kDa subunit) (CPSF 68 kDa subunit) (Cleavage factor Im complex 68 kDa subunit) (CFIm68) (Pre-mRNA cleavage factor Im 68 kDa subunit) (Protein HPBRII-4/7)
+GeneName	CPSF6 CFIM68
+Length	588
+Function	Component of the cleavage factor Im (CFIm) complex that functions as an activator of the pre-mRNA 3'-end cleavage and polyadenylation processing required for the maturation of pre-mRNA into functional mRNAs (PubMed:14690600, PubMed:29276085, PubMed:8626397, PubMed:9659921). CFIm contributes to the recruitment of multiprotein complexes on specific sequences on the pre-mRNA 3'-end, so called cleavage and polyadenylation signals (pA signals) (PubMed:14690600, PubMed:8626397, PubMed:9659921). Most pre-mRNAs contain multiple pA signals, resulting in alternative cleavage and polyadenylation (APA) producing mRNAs with variable 3'-end formation (PubMed:23187700, PubMed:29276085). The CFIm complex acts as a key regulator of cleavage and polyadenylation site choice during APA through its binding to 5'-UGUA-3' elements localized in the 3'-untranslated region (UTR) for a huge number of pre-mRNAs (PubMed:20695905, PubMed:29276085). CPSF6 enhances NUDT21/CPSF5 binding to 5'-UGUA-3' elements localized upstream of pA signals and promotes RNA looping, and hence activates directly the mRNA 3'-processing machinery (PubMed:15169763, PubMed:21295486, PubMed:29276085). Plays a role in mRNA export (PubMed:19864460).
+Subcellular Location	Nucleus; Nucleus; Nucleoplasm; Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADGVDHIDIYADVGEEFNQEAEYGGHDQIDLYDDVISPSANNGDAPEDRDYMDTLPPTVGDDVGKGAAPNVVYTYTGKRIALYIGNLTWWTTDEDLTEAVHSLGVNDILEIKFFENRANGQSKGFALVGVGSEASSKKLMDLLPKRELHGQNPVVTPCNKQFLSQFEMQSRKTTQSGQMSGEGKAGPPGGSSRAAFPQGGRGRGRFPGAVPGGDRFPGPAGPGGPPPPFPGNLIKHLVKGTRPLFLETRIPWHMGHSIEEIPIFGLKAGQTPPRPPLGPPGPPGPPGPPPPGQVLPPPLAGPPNRGDRPPPPVLFPGQPFGQPPLGPLPPGPPPPVPGYGPPPGPPPPQQGPPPPPGPFPPRPPGPLGPPLTLAPPPHLPGPPPGAPPPAPHVNPAFFPPPTNSGMPTSDSRGPPPTDPYGRPPPYDRGDYGPPGREMDTARTPLSEAEFEEIMNRNRAISSSAISRAVSDASAGDYGSAIETLVTAISLIKQSKVSADDRCKVLISSLQDCLHGIESKSYGSGSRRERSRERDHSRSREKSRRHKSRSRDRHDDYYRERSRERERHRDRDRDRDRERDREREYRHR
+PTM	Acetylation:79,138,139,161,185;Methylation:66,79,113,138,202,204,206,456,483;Phosphorylation:38,52,74,75,76,77,123,137,157,174,175,181,381,384,390,395,404,407,410,434,453,494,500,511,513,521,525;SUMOylation:124,456;Ubiquitylation:79,124,138,146,161,173,185,456,459,483

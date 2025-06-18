@@ -1,0 +1,25 @@
+UniprotID	A0A804HHV6
+Accession	A0A804HHV6
+EntryName	A0A804HHV6_HUMAN
+ProteinName	SH3-containing GRB2-like protein 3-interacting protein 1 (Endophilin-3-interacting protein)
+GeneName	SGIP1
+Length	653
+Function	May function in clathrin-mediated endocytosis. Has both a membrane binding/tubulating activity and the ability to recruit proteins essential to the formation of functional clathrin-coated pits. Has a preference for membranes enriched in phosphatidylserine and phosphoinositides and is required for the endocytosis of the transferrin receptor. May also bind tubulin. May play a role in the regulation of energy homeostasis.
+Subcellular Location	Membrane; Clathrin-coated pit
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEGLKKRTRKAFGIRKKEKDTDSTGSPDRDGIQPSPHEPPYNSKAECAREGGKKVSKKSNGAPNGFYAEIDWERYNSPELDEEGYSIRPEEPGSTKGKHFYSSSESEEEEESHKKFNIKIKPLQSKDILKNAATVDELKASIGNIALSPSPVGAIKRNLSSEEVARPRRSTPTPELISKKPPDDTTALAPLFGPPLESAFDEQKTEVLLDQPEIWGSGQPINPSMESPKLTRPFPTGTPPPLPPKNVPATPPRTGSPLTIGPGASSPARPATPLVPCRSTTPPPPPPRPPSRPKLPPGKPGVGDVSRPFSPPIHSSSPPPIAPLARAESTSSISSTNSLSAATTPTVENEQPSLVWFDRGKFYLTFEGSSRGPSPLTMGAQDTLPVAAAFTETVNAYFKGADPSKCIVKITGEMVLSFPAGITRHFANNPSPAALTFRVINFSRLEHVLPNPQLLCCDNTQNDANTKEFWVNMPNLMTHLKKVSEQKPQATYYNVDMLKYQVSAQGIQSTPLNLAVNWRCEPSSTDLRIDYKYNTDAMTTAVALNNVQFLVPIDGGVTKLQAVLPPAVWNAEQQRILWKIPDISQKSENGGVGSLLARFQLSEGPSKPSPLVVQFTSEGSTLSGCDIELVGAGYRFSLIKKRFAAGKYLADN
+PTM	

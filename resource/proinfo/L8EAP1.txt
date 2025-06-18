@@ -1,0 +1,25 @@
+UniprotID	L8EAP1
+Accession	L8EAP1
+EntryName	L8EAP1_HUMAN
+ProteinName	Alternative protein FGD4
+GeneName	FGD4
+Length	46
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSIQPPWMIILNLRKNQNAELLQDQPWCGGLRTYSSRHSQLFLHIC
+PTM	

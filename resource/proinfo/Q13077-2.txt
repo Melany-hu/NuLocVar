@@ -1,0 +1,25 @@
+UniprotID	Q13077-2
+Accession	Q13077;B4DJ77;Q658U1;Q8NF13
+EntryName	TRAF1_HUMAN
+ProteinName	TNF receptor-associated factor 1 (Epstein-Barr virus-induced protein 6)
+GeneName	TRAF1 EBI6
+Length	294
+Function	Adapter molecule that regulates the activation of NF-kappa-B and JNK. Plays a role in the regulation of cell survival and apoptosis. The heterotrimer formed by TRAF1 and TRAF2 is part of a E3 ubiquitin-protein ligase complex that promotes ubiquitination of target proteins, such as MAP3K14. The TRAF1/TRAF2 complex recruits the antiapoptotic E3 protein-ubiquitin ligases BIRC2 and BIRC3 to TNFRSF1B/TNFR2.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQWKARLGCGLESGPMALEQNLSDLQLQAAVEVAGDLEVDCYRAPCSESQEELALQHFMKEKLLAELEGKLRVFENIVAVLNKEVEASHLALATSIHQSQLDRERILSLEQRVVELQQTLAQKDQALGKLEQSLRLMEEASFDGTFLWKITNVTRRCHESACGRTVSLFSPAFYTAKYGYKLCLRLYLNGDGTGKRTHLSLFIVIMRGEYDALLPWPFRNKVTFMLLDQNNREHAIDAFRPDLSSASFQRPQSETNVASGCPLFFPLSKLQSPKHAYVKDDTMFLKCIVETST
+PTM	Glycosylation:275;Methylation:193,206,252;Phosphorylation:7,8,64,66,69,170,172,320,323;Ubiquitylation:193,246,252,397,402

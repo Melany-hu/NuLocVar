@@ -1,0 +1,25 @@
+UniprotID	M0QXE1
+Accession	M0QXE1
+EntryName	M0QXE1_HUMAN
+ProteinName	Kelch like family member 26
+GeneName	KLHL26
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XAESGGSSGGAGGGGAFGAGPGPERPNSTADKNGALKCTFSAPSHSTSLLQGLATLRAQGQLLDVVLTINREAFPAHKVVLAACSDYFRLLFPRPDHSWLAKTPLSHCQPHVVFLPFRAMFTGGMREASQDVIELKGVSARGLRHIIDFAYSAEVTLDLDCVQDVLGAAVFLQMLPVVELCEEFL
+PTM	

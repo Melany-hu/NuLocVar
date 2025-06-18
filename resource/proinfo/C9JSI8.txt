@@ -1,0 +1,25 @@
+UniprotID	C9JSI8
+Accession	C9JSI8
+EntryName	C9JSI8_HUMAN
+ProteinName	Coiled-coil domain containing 14
+GeneName	CCDC14
+Length	174
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MYSPIIYQALCEHVQTQMSLMNDLTSKNIPNGIPAVPCHAPSHSESQATPHSSYGLCTSTPVWSLQRPPCPPKVHSEVQTDGNSQFASQETHLDSQTHRSPTQSQPAFLATNEEKCAREQIREATSERKDLNIHVRDTKTVKDVQKAKNVNKTAEKVRIIKYLLGELKALVAEQ
+PTM	

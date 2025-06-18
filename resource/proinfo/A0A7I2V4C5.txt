@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V4C5
+Accession	A0A7I2V4C5
+EntryName	A0A7I2V4C5_HUMAN
+ProteinName	Cathepsin E
+GeneName	CTSE
+Length	105
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTLLLLLLVLLELGEAQGSLHRWNTSALSPLAPHHRTSLSSSTLAPPTSGSPLCTALAQPARRTAGSSLPSPAHTASQVNLSPFSMEPGACPGSLEPTKSLWKD
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	O43687-2
+Accession	O43687;A8K2K6;Q5TBR9;Q5TBS0;Q9HCZ8;Q9P0G4
+EntryName	AKA7A_HUMAN
+ProteinName	A-kinase anchor protein 7 isoforms alpha and beta (AKAP-7 isoforms alpha and beta) (A-kinase anchor protein 18 kDa) (AKAP 18) (Protein kinase A-anchoring protein 7 isoforms alpha/beta) (PRKA7 isoforms alpha/beta)
+GeneName	AKAP7 AKAP15 AKAP18
+Length	81
+Function	Targets the cAMP-dependent protein kinase (PKA) to the plasma membrane, and permits functional coupling to the L-type calcium channel. The membrane-associated form reduces epithelial sodium channel (ENaC) activity, whereas the free cytoplasmic form may negatively regulate ENaC channel feedback inhibition by intracellular sodium.
+Subcellular Location	Lateral cell membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGQLCCFPFSRDEGKISEKNGGEPDDAELVRLSKRLVENAVLKAVQQYLEETQNKNKPGEGSSVKTEAADQNGNDNENNRK
+PTM	Methylation:66;Phosphorylation:21,22,23,24,31

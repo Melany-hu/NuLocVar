@@ -1,0 +1,25 @@
+UniprotID	P07992-3
+Accession	P07992;B2RC01;B3KRR0;Q7Z7F5;Q96S40
+EntryName	ERCC1_HUMAN
+ProteinName	DNA excision repair protein ERCC-1
+GeneName	ERCC1
+Length	323
+Function	Non-catalytic component of a structure-specific DNA repair endonuclease responsible for the 5'-incision during DNA repair. Responsible, in conjunction with SLX4, for the first step in the repair of interstrand cross-links (ICL). Participates in the processing of anaphase bridge-generating DNA structures, which consist in incompletely processed DNA lesions arising during S or G2 phase, and can result in cytokinesis failure. Also required for homology-directed repair (HDR) of DNA double-strand breaks, in conjunction with SLX4.
+Subcellular Location	Nucleus; Cytoplasm; Nucleus; Nucleus; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	17..23
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPGKDKEGVPQPSGPPARKKFVIPLDEDEVPPGVAKPLFRSTQSLPTVDTSAQAAPQTYAEYAISQPLEGAGATCPTGSEPLAGETPNQALKPGAKSNSIIVSPRQRGNPVLKFVRNVPWEFGDVIPDYVLGQSTCALFLSLRYHNLHPDYIHGRLQSLGKNFALRVLLVQVDVKDPQQALKELAKMCILADCTLILAWSPEEAGRYLETYKAYEQKPADLLMEKLEQDFVSRVTECLTTVKSVNKTDSQTLLTTFGSLEQLIAASREDLALCPGLGPQKVRALGKNPRSWGKERAPNKHNLRPQSFKVKKEPKTRHSGFRL
+PTM	Acetylation:37,243;Methylation:93,183,187;Phosphorylation:104;SUMOylation:5,21,37,93,176,218,226,243;Ubiquitylation:97,114,226,243,281,295

@@ -1,0 +1,25 @@
+UniprotID	M0R0R1
+Accession	M0R0R1
+EntryName	M0R0R1_HUMAN
+ProteinName	Zinc finger protein 415
+GeneName	ZNF415
+Length	163
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPSLSLSEPTCNRDKGLDQKTSIIDFQRLLAHEEETQKRRAKESGMAFTQLTFRDVAIEFSQDEWKCLNSTQRTLYRDVMLENYRNLVSLDLSRNCVIKELAPQQEGNPGEVFHTVTLEQHEKHDIEEFCFREIKKKIHDFDCQWRDDERNCNKVTTAPKEN
+PTM	

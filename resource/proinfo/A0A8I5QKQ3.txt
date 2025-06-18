@@ -1,0 +1,25 @@
+UniprotID	A0A8I5QKQ3
+Accession	A0A8I5QKQ3
+EntryName	A0A8I5QKQ3_HUMAN
+ProteinName	Transmembrane protein 138
+GeneName	TMEM138
+Length	130
+Function	Required for ciliogenesis.
+Subcellular Location	Cell projection; Cilium; Vacuole membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLQTSNYSLVLSLQFLLLSYDLFVNSFSELLQKTPVIQLVLFIIQDIAVLFNIIIIFLMFFNTFVFQAGLVNLLFHKFKGTIILTAVYFALSISLHVWVMNLRWKNSNSFIWTDGLQMLFVFQRLVWTEF
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	K7EJH9
+Accession	K7EJH9
+EntryName	K7EJH9_HUMAN
+ProteinName	DEAH-box helicase 8
+GeneName	DHX8
+Length	33
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XYRTLIDQQVVYIHPSSALFNRQPEWTVPMGHV
+PTM	

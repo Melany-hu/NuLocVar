@@ -1,0 +1,25 @@
+UniprotID	O60885-3
+Accession	O60885;O60433;Q4G0X8;Q86YS8;Q96PD3
+EntryName	BRD4_HUMAN
+ProteinName	Bromodomain-containing protein 4 (Protein HUNK1)
+GeneName	BRD4 HUNK1
+Length	794
+Function	Chromatin reader protein that recognizes and binds acetylated histones and plays a key role in transmission of epigenetic memory across cell divisions and transcription regulation (PubMed:20871596, PubMed:23086925, PubMed:23317504, PubMed:29176719, PubMed:29379197). Remains associated with acetylated chromatin throughout the entire cell cycle and provides epigenetic memory for postmitotic G1 gene transcription by preserving acetylated chromatin status and maintaining high-order chromatin structure (PubMed:22334664, PubMed:23317504, PubMed:23589332). During interphase, plays a key role in regulating the transcription of signal-inducible genes by associating with the P-TEFb complex and recruiting it to promoters (PubMed:16109376, PubMed:16109377, PubMed:19596240, PubMed:23589332, PubMed:24360279). Also recruits P-TEFb complex to distal enhancers, so called anti-pause enhancers in collaboration with JMJD6 (PubMed:16109376, PubMed:16109377, PubMed:19596240, PubMed:23589332, PubMed:24360279). BRD4 and JMJD6 are required to form the transcriptionally active P-TEFb complex by displacing negative regulators such as HEXIM1 and 7SKsnRNA complex from P-TEFb, thereby transforming it into an active form that can then phosphorylate the C-terminal domain (CTD) of RNA polymerase II (PubMed:16109376, PubMed:16109377, PubMed:19596240, PubMed:23589332, PubMed:24360279). Regulates differentiation of naive CD4(+) T-cells into T-helper Th17 by promoting recruitment of P-TEFb to promoters (By similarity). Promotes phosphorylation of 'Ser-2' of the C-terminal domain (CTD) of RNA polymerase II (PubMed:23086925). According to a report, directly acts as an atypical protein kinase and mediates phosphorylation of 'Ser-2' of the C-terminal domain (CTD) of RNA polymerase II; these data however need additional evidences in vivo (PubMed:22509028). In addition to acetylated histones, also recognizes and binds acetylated RELA, leading to further recruitment of the P-TEFb complex and subsequent activation of NF-kappa-B (PubMed:19103749). Also acts as a regulator of p53/TP53-mediated transcription: following phosphorylation by CK2, recruited to p53/TP53 specific target promoters (PubMed:23317504).
+Subcellular Location	Nucleus; Chromosome; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	176...181;287...292;551...555;286...297;289...294;675...680;676...681;288...293
+validnes_region	
+nesbase_region	
+Sequence	MSAESGPGTRLRNLPVMGDGLETSQMSTTQAQAQPQPANAASTNPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWNAQECIQDFNTMFTNCYIYNKPGDDIVLMAEALEKLFLQKINELPTEETEIMIVQAKGRGRGRKETGTAKPGVSTVPNTTQASTPPQTQTPQPNPPPVQATPHPFPAVTPDLIVQTPVMTVVPPQPLQTPPPVPPQPQPPPAPAPQPVQSHPPIIAATPQPVKTKKGVKRKADTTTPTTIDPIHEPPSLPPEPKTTKLGQRRESSRPVKPPKKDVPDSQQHPAPEKSSKVSEQLKCCSGILKEMFAKKHAAYAWPFYKPVDVEALGLHDYCDIIKHPMDMSTIKSKLEAREYRDAQEFGADVRLMFSNCYKYNPPDHEVVAMARKLQDVFEMRFAKMPDEPEEPVVAVSSPAVPPPTKVVAPPSSSDSSSDSSSDSDSSTDDSEEERAQRLAELQEQLKAVHEQLAALSQPQQNKPKKKEKDKKEKKKEKHKRKEEVEENKKSKAKEPPPKKTKKNNSSNSNVSKKEPAPMKSKPPPTYESEEEDKCKPMSYEEKRQLSLDINKLPGEKLGRVVHIIQSREPSLKNSNPDEIEIDFETLKPSTLRELERYVTSCLRKKRKPQAEKVDVIAGSSKMKGFSSSESESSSESSSSDSEDSETAFCTSGDFVSPGPSPYHSHVQCGRFREMLRWFLVDVEQTAAGQPHRQSAAGPAITWAPAIAYPSPECARCCVGCS
+PTM	Acetylation:72,99,177,317,346,362,431,456,594,629,680,694,1111,1135,1153,1177,1208,1250;Glycosylation:1215;Methylation:72,111,155,179,181,183,355,362,395,453,519,624,660,1234;Phosphorylation:42,51,65,109,294,295,296,298,299,308,324,325,338,469,470,500,503,578,579,581,593,598,599,601,673,692,693,874,942,1045,1051,1064,1070,1074,1078,1080,1083,1117,1122,1126,1128,1139,1186,1201,1204,1212,1214,1215,1216,1309;SUMOylation:99,177,317,332,349,378,395,519,585,594,645,685,694,1050,1111,1114,1153,1197,1208,1218;Ubiquitylation:99,431,629

@@ -1,0 +1,25 @@
+UniprotID	P50897-2
+Accession	P50897;B4DY24;Q6FGQ4
+EntryName	PPT1_HUMAN
+ProteinName	Palmitoyl-protein thioesterase 1 (PPT-1) (EC 3.1.2.22) (Palmitoyl-protein hydrolase 1)
+GeneName	PPT1 CLN1 PPT
+Length	203
+Function	Removes thioester-linked fatty acyl groups such as palmitate from modified cysteine residues in proteins or peptides during lysosomal degradation. Prefers acyl chain lengths of 14 to 18 carbons (PubMed:8816748).
+Subcellular Location	Lysosome; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASPGCLWLLAVALLPWTCASRALQHLDPPAPLPLVIWHGMGVFGLPRCPGESSHICDFIRKTLNAGAYSKVVQERLVQAEYWHDPIKEDVYRNHSIFLADINQERGINESYKKNLMALKKFVMVKFLNDSIVDPVDSEWFGFYRSGQAKETIPLQETSLYTQDRLGLKEMDNAGQLVFLATEGDHLQLSEEWFYAHIIPFLG
+PTM	Acetylation:165,191,223;Glycosylation:197,212,232;Methylation:101,223,268;SUMOylation:174,191,253;Ubiquitylation:104,165,174,191,253

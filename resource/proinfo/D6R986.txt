@@ -1,0 +1,25 @@
+UniprotID	D6R986
+Accession	D6R986
+EntryName	D6R986_HUMAN
+ProteinName	Transmembrane and coiled-coil domains 6
+GeneName	TMCO6
+Length	101
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWSRRQGRLRPTVCGVEELRRRRREREAALRKARREQQLVSKRLLRNDAPEEAGEGCVAAILGETEVRGQGAAVPAASPAGDRGKGERGGSGQPSSRLAAP
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	E9PCY8
+Accession	E9PCY8
+EntryName	E9PCY8_HUMAN
+ProteinName	Family with sequence similarity 120 member A opposite strand
+GeneName	FAM120AOS
+Length	74
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQFRGRNLCRGAGCNRQAVAGQLLPSTWSLHAHGLAKEAPILPVKKISRSCSVNNKVSKKTTKPPTLRSFLSPI
+PTM	

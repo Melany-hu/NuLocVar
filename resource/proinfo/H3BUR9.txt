@@ -1,0 +1,25 @@
+UniprotID	H3BUR9
+Accession	H3BUR9
+EntryName	H3BUR9_HUMAN
+ProteinName	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+GeneName	CDIPT
+Length	157
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPDENIFLFVPNLIGYARIVFAIISFYFMPCCPLTASSFYLLSGLLDAFDGHAARALNQGTRFGAMLDMLTDRCSTMCLLVNLALLYPGATLFFQISMSLDVASHWLHLHSSVVRGSESHKMIDLSGNPVLRIYYTSRLALWDCSGWASGSLPPSPC
+PTM	

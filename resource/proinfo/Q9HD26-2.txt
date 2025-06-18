@@ -1,0 +1,25 @@
+UniprotID	Q9HD26-2
+Accession	Q9HD26;A6NM30;Q59FS4;Q969U8
+EntryName	GOPC_HUMAN
+ProteinName	Golgi-associated PDZ and coiled-coil motif-containing protein (CFTR-associated ligand) (Fused in glioblastoma) (PDZ protein interacting specifically with TC10) (PIST)
+GeneName	GOPC CAL FIG
+Length	454
+Function	Plays a role in intracellular protein trafficking and degradation (PubMed:11707463, PubMed:14570915, PubMed:15358775). May regulate CFTR chloride currents and acid-induced ASIC3 currents by modulating cell surface expression of both channels (By similarity). May also regulate the intracellular trafficking of the ADR1B receptor (PubMed:15358775). May play a role in autophagy (By similarity). Together with MARCHF2 mediates the ubiquitination and lysosomal degradation of CFTR (PubMed:23818989). Overexpression results in CFTR intracellular retention and lysosomaldegradation in the lysosomes (PubMed:11707463, PubMed:14570915).
+Subcellular Location	Cytoplasm; Golgi apparatus membrane; Golgi apparatus; trans-Golgi network membrane; Synapse; Postsynaptic density; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAGGPCPAAAGGGPGGASCSVGAPGGVSMFRWLEVLEKEFDKAFVDVDLLLGEIDPDQADITYEGRQKMTSLSSCFAQLCHKAQSVSQINHKLEAQLVDLKSELTETQAEKVVLEKEVHDQLLQLHSIQLQLHAKTGQSADSGTIKAKLERELEANKKEKMKEAQLEAEVKLLRKENEALRRHIAVLQAEVYGARLAAKYLDKELAGRVQQIQLLGRDMKGPAHDKLWNQLEAEIHLHRHKTVIRACRGRNDLKRPMQAPPGHDQDSLKKSQGVGPIRKVLLLKEDHEGLGISITGGKEHGVPILISEIHPGQPADRCGGLHVGDAILAVNGVNLRDTKHKEAVTILSQQRGEIEFEVVYVAPEVDSDDENVEYEDESGHRYRLYLDELEGGGNPGASCKDTSGEIKVLQGFNKKAVTDTHENGDLGTASETPLDDGASKLDDLHTLYHKKSY
+PTM	Methylation:39,69,102,112,147,180,184,293;Phosphorylation:2,86,154,276,280,302,369,376,391,394,407,411,412,439,441,457;SUMOylation:93,102,112,208,235,293,409,416,424;Ubiquitylation:93,102,147,149,229,278,409,416,423

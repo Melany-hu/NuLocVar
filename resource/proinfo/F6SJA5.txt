@@ -1,0 +1,25 @@
+UniprotID	F6SJA5
+Accession	F6SJA5
+EntryName	F6SJA5_HUMAN
+ProteinName	Rho guanine nucleotide exchange factor 7
+GeneName	ARHGEF7
+Length	130
+Function	
+Subcellular Location	Cell projection
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XVLIQCAGSEEKNERYLLLFPNVLLMLSASPRMSGFIYQGKLPTTGMTITKLEDSENHRNAFEISGSMIERILVSCNNQQDLQEWVEHLQKQTKVTSVGNPTIKPHSVPSHTVRTWCFSSFQTPGVASRG
+PTM	

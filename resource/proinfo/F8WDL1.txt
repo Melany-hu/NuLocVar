@@ -1,0 +1,25 @@
+UniprotID	F8WDL1
+Accession	F8WDL1
+EntryName	F8WDL1_HUMAN
+ProteinName	Cell division cycle associated 3
+GeneName	CDCA3
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGSAKSVPVTPARPPPHNKHLARVADPRSPSAGILRTPIQVESSPQPGLPAGEQLEGLKHAQDSDPRSPTLGIARTPMKTSSGDPPSPLVKQLSEVFETEDSKSNLPPEPVLPPEAPLSSELDLPLGTQLSVEEQMPPWNQTEFPSKQVFSKEEARQPTETPVASQSSDKPSRDPETPRSSASSVPDFEEAVPGTCGHSHPVSCDSQAAHPVIVAREDA
+PTM	

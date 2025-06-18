@@ -1,0 +1,25 @@
+UniprotID	Q9NZR1-2
+Accession	Q9NZR1;B4DEW6
+EntryName	TMOD2_HUMAN
+ProteinName	Tropomodulin-2 (Neuronal tropomodulin) (N-Tmod)
+GeneName	TMOD2 NTMOD
+Length	315
+Function	Blocks the elongation and depolymerization of the actin filaments at the pointed end. The Tmod/TM complex contributes to the formation of the short actin protofilament, which in turn defines the geometry of the membrane skeleton (By similarity).
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALPFQKELEKYKNIDEDELLGKLSEEELKQLENVLDDLDPESAMLPAGFRQKDQTQKAATGPFDREHLLMYLEKEALEQKDREDFVPFTGEKKGRVFIPKEKPIETRKEEKVTLDPELEEALASASDTELYDLAAVLGVHNLLNNPKFDEETANNKGGKGPVRNVVKGEKVKPVFEEPPNPTNVEISLQQMKANDPSLQEVNLNNIKAFADMLKVNKTLTSLNIESNFITGTGILALVEALKENDTLTEIKIDNQRQQLGTAVEMEIAQMLEENSRILKFGYQFTKQGPRTRVAAAITKNNDLVRKKRVEADRR
+PTM	Acetylation:171;Methylation:11,23,30,168,208,251,279;Phosphorylation:25,127,129,236,283,328,335;Ubiquitylation:208

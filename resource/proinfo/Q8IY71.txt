@@ -1,0 +1,25 @@
+UniprotID	Q8IY71
+Accession	Q8IY71
+EntryName	Q8IY71_HUMAN
+ProteinName	MRPS17 protein
+GeneName	MRPS17
+Length	142
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TRPLGGGDQSHVMSVVRSSVHARWIVGKVIGTKMQKTAKVRVTRLVLDPYLLKYFNKRKTYFAHDALQQCTVGDIVLLRALPVPRAKHVKHELAEIVFKVGKVIDPVTGKPCAGTTYLESPLSSETTQLSKNLEELNISSAQ
+PTM	

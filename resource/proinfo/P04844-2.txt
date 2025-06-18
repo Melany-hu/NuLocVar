@@ -1,0 +1,25 @@
+UniprotID	P04844-2
+Accession	P04844;Q5JYR6;Q6IBA5;Q96E21;Q9BUQ3;Q9UBE1
+EntryName	RPN2_HUMAN
+ProteinName	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 (Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 63 kDa subunit) (RIBIIR) (Ribophorin II) (RPN-II) (Ribophorin-2)
+GeneName	RPN2
+Length	615
+Function	Subunit of the oligosaccharyl transferase (OST) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol-pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation (PubMed:31831667). N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER). All subunits are required for a maximal enzyme activity.
+Subcellular Location	Endoplasmic reticulum; Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPPGSSTVFLLALTIIASTWALTPTHYLTKHDVERLKASLDRPFTNLESAFYSIVGLSSLGAQVPDAKISISNETKDLLLAAVSEDSSVTQIYHAVAALSGFGLPLASQEALSALTARLSKEETVLATVQALQTASHLSQQADLRSIVEEIEDLVARLDELGGVYLQFEEGLETTALFVAATYKLMDHVGTEPSIKEDQVIQLMNAIFSKKNFESLSEAFSVASAAAVLSHNRYHVPVVVVPEGSASDTHEQAILRLQVTNVLSQPLTQATVKLEHAKSVASRATVLQKTSFTPVGDVFELNFMNVKFSSGYYDFLVEVEGDNRYIANTVELRVKISTEVGITNVDLSTVDKDQSIAPKTTRVTYPAKAKGTFIADSHQNFALFFQLVDVNTGAELTPHQTFVRLHNQKTGQEVVFVAEPDNKNVYKFELDTSERKIEFDSASGTYTLYLIIGDATLKNPILWNVADVVIKFPEEEAPSTVLSQNLFTPKQEIQHLFREPEKRPPTVVSNTFTALILSPLLLLFALWIRIGANVSNFTFAPSTIIFHLGHAAMLGLMYVYWTQLNMFQTLKYLAILGSVTFLAGNRMLAQQAVKRIAAEQSSRLAKYRTLRTAH
+PTM	Acetylation:306,311,460,627;Glycosylation:106;Methylation:154,243,456,504,604;Phosphorylation:105,179,278,293,297,301,304;SUMOylation:38,69,70,229,243,244,306,392,456,460,523;Ubiquitylation:69,70,154,229,243,244,306,311,322,368,385,392,401,442,456,460,523,627

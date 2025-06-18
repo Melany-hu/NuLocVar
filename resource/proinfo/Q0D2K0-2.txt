@@ -1,0 +1,25 @@
+UniprotID	Q0D2K0-2
+Accession	Q0D2K0;A8S6F1;A8S6F5;A8S6F8;B4DLF3;Q0D2J8;Q0D2J9
+EntryName	NIPA4_HUMAN
+ProteinName	Magnesium transporter NIPA4 (Ichthyin) (NIPA-like protein 4) (Non-imprinted in Prader-Willi/Angelman syndrome region protein 4)
+GeneName	NIPAL4 ICHN NIPA4
+Length	385
+Function	Acts as a Mg(2+) transporter. Can also transport other divalent cations such as Ba(2+), Sr(2+) and Fe(2+) but to a much less extent than Mg(2+) (By similarity). May be a receptor for ligands (trioxilins A3 and B3) from the hepoxilin pathway (PubMed:15317751).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELRVSNTSCENGSLLHLYCSSQEVLCQIVNDLSPEVPSNATFHSWQERIRQNYGFYIGLGLAFLSSFLIGSSVILKKKGLLRLVATGATRAVAAGEVANFGAYAFAPATVVTPLGALSVLISAILSSYFLRESLNLLGKLGCVICVAGSTVMVIHAPEEEKVTTIMEMASKMKDTGFIVFAVLLLVSCLILIFVIAPRYGQRNILIYIIICSVIGAFSVAAVKGLGITIKNFFQGLPVVRHPLPYILSLILALSLSTQVNFLNRALDIFNTSLVFPIYYVFFTTVVVTSSIILFKEWYSMSAVDIAGTLSGFVTIILGVFMLHAFKDLDISCASLPHMHKNPPPSPAPEPTVIRLEDKNVLVDNIELASTSSPEEKPKVFIIHS
+PTM	Methylation:139,221,312,377;Phosphorylation:427,433

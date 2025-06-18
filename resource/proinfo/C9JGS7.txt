@@ -1,0 +1,25 @@
+UniprotID	C9JGS7
+Accession	C9JGS7
+EntryName	C9JGS7_HUMAN
+ProteinName	Ankyrin repeat and MYND domain containing 1
+GeneName	ANKMY1
+Length	50
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSVTPARASCSSAPAARALPRKSEGATRTNGGGRPSCFPPWCLCTSQSSS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q86VL8-2
+Accession	Q86VL8;A0JBX9;A0P8Z7;Q63HJ9;Q8IV44;Q96NA1
+EntryName	S47A2_HUMAN
+ProteinName	Multidrug and toxin extrusion protein 2 (MATE-2) (hMATE-2) (Kidney-specific H(+)/organic cation antiporter) (Solute carrier family 47 member 2)
+GeneName	SLC47A2 MATE2
+Length	296
+Function	Multidrug efflux pump that functions as a H(+)/organic cation antiporter. Mediates the efflux of cationic compounds, such as the model cations, tetraethylammonium (TEA) and 1-methyl-4-phenylpyridinium (MPP+), the platinum-based drug oxaliplatin or weak bases that are positively charged at physiological pH, cimetidine, the platinum-based drugs cisplatin and oxaliplatin or the antidiabetic drug metformin. Mediates the efflux of endogenous compounds such as, creatinine, thiamine and estrone-3-sulfate. Plays a physiological role in the excretion of drugs, toxins and endogenous metabolites through the kidney.
+Subcellular Location	Cell membrane; Apical cell membrane; Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIYIVSTVFCGHLGKVELASVTLAVAFVNVCGVSVGVGLSSACDTLMSQSFGSPNKKHVGVILQRGALVLLLCCLPCWALFLNTQHILLLFRQDPDVSRLTQDYVMIFIPGLPVIFLYNLLAKYLQNQKITWPQVLSGVVGNCVNGVANYALVSVLNLGVRGSAYANIISQFAQTVFLLLYIVLKKLHLETWAGWSSQCLQDWGPFFSLAVPSMLMICVEWWAYEIGSFLMGLLSVVDLSAQAVIYEVATVTYMIPLGLSIGVCVRVGMALGAADTVQAKRSAVSGVLSIEMSLPW
+PTM	Methylation:64,172,270,390;Phosphorylation:52,55,387

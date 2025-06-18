@@ -1,0 +1,25 @@
+UniprotID	Q96DT0-6
+Accession	Q96DT0;B2R9N2;G5E970;Q96DS9;Q96PR9;Q9H258;Q9H259;Q9NZ02
+EntryName	LEG12_HUMAN
+ProteinName	Galectin-12 (Gal-12) (Galectin-related inhibitor of proliferation)
+GeneName	LGALS12 GRIP1
+Length	315
+Function	Binds lactose. May participate in the apoptosis of adipocytes.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPGEKLDPIPDSFILQPPVFHPVVPYVTTIFGGLHAGKMVMLQGVVPLDAHSRFQVDFQCGCSLCPRPDIAFHFNPRFHTTKPHVICNTLHGGRWQREARWPHLALRRGSSFLILFLFGNEEVKVSVNGQHFLHFRYRLPLSHVDTLGIFGDILVEAVGFLNINPFVEGSREYPAGHPFLLMSPRLEVPCSHALPQGLSPGQVIIVRGLVLQEPKHFTVSLRDQAAHAPVTLRASFADRTLAWISRWGQKKLISAPFLFYPQRFFEVLLLFQEGGLKLALNGQGLGATSMNQQALEQLRELRISGSVQLYCVHS
+PTM	Methylation:299;Phosphorylation:2,12,15,16,253

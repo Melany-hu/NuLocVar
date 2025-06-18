@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DGB0
+Accession	A0A0C4DGB0
+EntryName	A0A0C4DGB0_HUMAN
+ProteinName	Short coiled-coil protein
+GeneName	SCOC
+Length	82
+Function	Positive regulator of amino acid starvation-induced autophagy.
+Subcellular Location	Cytoplasm; Cytosol; Golgi apparatus membrane; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNADMDAVDAENQVELEEKTRLINQVLELQHTLEDLSARVDAVKEENLKLKSENQVLGQYIENLMSASSVFQTTDTKSKRK
+PTM	

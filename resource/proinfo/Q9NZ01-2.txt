@@ -1,0 +1,25 @@
+UniprotID	Q9NZ01-2
+Accession	Q9NZ01;B2RD55;O75350;Q6IBB2;Q9BWK3;Q9Y6P0
+EntryName	TECR_HUMAN
+ProteinName	Very-long-chain enoyl-CoA reductase (EC 1.3.1.93) (Synaptic glycoprotein SC2) (Trans-2,3-enoyl-CoA reductase) (TER)
+GeneName	TECR GPSN2 SC2
+Length	157
+Function	Involved in both the production of very long-chain fatty acids for sphingolipid synthesis and the degradation of the sphingosine moiety in sphingolipids through the sphingosine 1-phosphate metabolic pathway (PubMed:25049234). Catalyzes the last of the four reactions of the long-chain fatty acids elongation cycle (PubMed:12482854). This endoplasmic reticulum-bound enzymatic process, allows the addition of 2 carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle (PubMed:12482854). This enzyme reduces the trans-2,3-enoyl-CoA fatty acid intermediate to an acyl-CoA that can be further elongated by entering a new cycle of elongation (PubMed:12482854). Thereby, it participates in the production of VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membrane lipids and lipid mediators (PubMed:12482854). Catalyzes the saturation step of the sphingosine 1-phosphate metabolic pathway, the conversion of trans-2-hexadecenoyl-CoA to palmitoyl-CoA (PubMed:25049234).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKHYEVEILDAKTREKLCFFAAWMAYYINHPLYTPPTYGAQQVKLALAIFVICQLGNFSIHMALRDLRPAGSKTRKIPYPTKNPFTWLFLLVSCPNYTYEVGSWIGFAIMTQCLPVALFSLVGFTQMTIWAKGKHRSYLKEFRDYPPLRMPIIPFLL
+PTM	Acetylation:2,12,16,22,38,57,60,67,291;Methylation:12,33,55;Phosphorylation:28,49,58,72,77,117,145;Ubiquitylation:2,12,22,33,38,57,60,67,224,227,291

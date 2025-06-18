@@ -1,0 +1,25 @@
+UniprotID	M0R071
+Accession	M0R071
+EntryName	M0R071_HUMAN
+ProteinName	Zinc finger protein 100
+GeneName	ZNF100
+Length	156
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDDPRYGMCPLKGASGCPGAERSLLVQSYFEKGPLTFRDVAIEFSLEEWQCLDSAQQGLYRKVMLENYRNLVFLAGIALTKPDLITCLEQGKEPWNIKRHEMVAKPPDGVSLCHQVGVQWRDLGSLQPPPPGFKQSSCLSLLSSCDYRHMPPRQAN
+PTM	

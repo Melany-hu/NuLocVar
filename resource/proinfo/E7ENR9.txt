@@ -1,0 +1,25 @@
+UniprotID	E7ENR9
+Accession	E7ENR9
+EntryName	E7ENR9_HUMAN
+ProteinName	Protein C, inactivator of coagulation factors Va and VIIIa
+GeneName	PROC
+Length	175
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWQLTSLLLFVATWGISGTPAPLDSVFSSSERAHQVLRIRKRANSFLEELRHSSLERECIEEICDFEEAKEIFQNVDDTLAFWSKHVDGDQCLVLPLEHPCASLCCGHGTCIDGIGSFSCDCRSGWEGRFCQREEVGWRRCSCAPGYKLGDDLLQCHPAVKFPCGRPWKRMEKKR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	G3V1P3
+Accession	G3V1P3
+EntryName	G3V1P3_HUMAN
+ProteinName	BLOC-1-related complex subunit 5
+GeneName	BORCS5 LOH12CR1 hCG_27699
+Length	177
+Function	
+Subcellular Location	Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTPSPAKHRAKMDDIVVVAQGSQASRNVSNDPDVIKLQEIPTFQPLLKGLLSGQTSPTNAKLEKLDSQQVLQLCLRYQDHLHQCAEAVAFDQNALVKRIKEMDLSVETLFSFMQERQKRYAKYAEQIQKVNEMSAILRRIQMGIDQTVPLLDRLNSMLPEGERLEPFSMKPDRELRL
+PTM	

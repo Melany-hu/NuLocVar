@@ -1,0 +1,25 @@
+UniprotID	A0A087WZE9
+Accession	A0A087WZE9
+EntryName	A0A087WZE9_HUMAN
+ProteinName	High mobility group nucleosome-binding domain-containing protein 3
+GeneName	HMGN3
+Length	130
+Function	Binds to nucleosomes, regulating chromatin structure and consequently, chromatin-dependent processes such as transcription, DNA replication and DNA repair. Affects both insulin and glucagon levels and modulates the expression of pancreatic genes involved in insulin secretion. Regulates the expression of the glucose transporter SLC2A2 by binding specifically to its promoter region and recruiting PDX1 and additional transcription factors. Regulates the expression of SLC6A9, a glycine transporter which regulates the glycine concentration in synaptic junctions in the central nervous system, by binding to its transcription start site. May play a role in ocular development and astrocyte function.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	1...5
+validnes_region	
+nesbase_region	
+Sequence	MPKRKSPENTEGKDGSKVTKQEPTRRSARLSAKPAPPKPEPKPRKTSAKKEPGAKISRGAKGKKEEKQEAGKEGTAPSENGETKAEEIHISRSTVNVSTSRGTPPSTLSVKGQIETVRAQKTESVDNEGE
+PTM	

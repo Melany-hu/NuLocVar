@@ -1,0 +1,25 @@
+UniprotID	Q99961-3
+Accession	Q99961;B4DRA1;E7EVZ4;M0QZV5;Q99668
+EntryName	SH3G1_HUMAN
+ProteinName	Endophilin-A2 (EEN fusion partner of MLL) (Endophilin-2) (Extra eleven-nineteen leukemia fusion gene protein) (EEN) (SH3 domain protein 2B) (SH3 domain-containing GRB2-like protein 1)
+GeneName	SH3GL1 CNSA1 SH3D2B
+Length	304
+Function	Implicated in endocytosis. May recruit other proteins to membranes with high curvature (By similarity).
+Subcellular Location	Cytoplasm; Early endosome membrane; Cell projection; Podosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVAGLKKQFYKASQLVSEKVGGAEGTKLDDDFKEMEKKVDVTSKAVTEVLARTIEYLQPNPASRAKLTMLNTVSKIRGQNLCEKDLKEIQHHLKKLEGRRLDFDYKKKRQGKIPDEELRQALEKFEESKEVAETSMHNLLETDIEQVSQLSALVDAQLDYHRQAVQILDELAEKLKRRMREASSRPKREYKPKPREPFDLGEPEQSNGGFPCTTAPKIAASSSFRSSDKPIRTPSRSMPPLDQPSCKALYDFEPENDGELGFHEGDVITLTNQIDENWYEGMLDGQSGFFPLSYVEVLVPLPQ
+PTM	Acetylation:7,20,28,34,152,171,177,189,294;Methylation:7,12,20,122,136,149,189,239;Phosphorylation:14,18,75,108,130,286,287,288,291,292,298,302;SUMOylation:177;Ubiquitylation:7,8,12,20,28,76,82,102,177

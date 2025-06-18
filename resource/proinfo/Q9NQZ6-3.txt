@@ -1,0 +1,25 @@
+UniprotID	Q9NQZ6-3
+Accession	Q9NQZ6;B2RDC2;B3KVZ5;B4DED0;E7EM74;G3V1L3;Q53H73;Q5JTF9;Q9H9C3;Q9H9H7;Q9ULQ4
+EntryName	ZC4H2_HUMAN
+ProteinName	Zinc finger C4H2 domain-containing protein (Hepatocellular carcinoma-associated antigen 127)
+GeneName	ZC4H2 HCA127 KIAA1166
+Length	201
+Function	Plays a role in interneurons differentiation (PubMed:26056227). Involved in neuronal development and in neuromuscular junction formation.
+Subcellular Location	Cytoplasm; Nucleus; Postsynaptic cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEKIKARLKAEFEALESEERHLKEYKQEMDLLLQEKMAHVEELRLIHADINVMENTIKQSENDLNKLLESTRRLHDEYKPLKEHVDALRMTLGLQRLPDLCEEEEKLSLDYFEKQKAEWQTEPQEPPIPESLAAAAAAAQQLQVARKQDTRQTATFRQQPPPMKACLSCHQQIHRNAPICPLCKAKSRSRNPKKPKRKQDE
+PTM	Methylation:32,59,81,89,137;SUMOylation:32,49,129;Ubiquitylation:15

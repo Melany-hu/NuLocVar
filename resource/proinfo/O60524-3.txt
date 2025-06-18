@@ -1,0 +1,25 @@
+UniprotID	O60524-3
+Accession	O60524;A0JLQ3;B3KSK1;B4DDL3;B4DHA9;B4E3F3;Q32Q66;Q8WW70;Q9NWG1
+EntryName	NEMF_HUMAN
+ProteinName	Ribosome quality control complex subunit NEMF (Antigen NY-CO-1) (Nuclear export mediator factor) (Serologically defined colon cancer antigen 1)
+GeneName	NEMF SDCCAG1
+Length	1055
+Function	Key component of the ribosome quality control complex (RQC), a ribosome-associated complex that mediates the extraction of incompletely synthesized nascent chains from stalled ribosomes as well as their ubiquitin-mediated proteasomal degradation (PubMed:25578875, PubMed:32726578, PubMed:33406423, PubMed:33909987). Thereby, frees 60S subunit ribosomes from the stalled translation complex and prevents the accumulation of nascent polypeptide chains that are potentially toxic for the cell (PubMed:25578875, PubMed:33406423, PubMed:33909987). Within the RQC complex, NEMF specifically binds stalled 60S ribosomal subunits by recognizing an exposed, nascent chain-conjugated tRNA moiety and promotes the recruitment of LTN1 to stalled 60S subunits (PubMed:25578875). Following binding to stalled 60S ribosomal subunits, NEMF mediates CAT tailing by recruiting alanine-charged tRNA to the A-site and directing the elongation of stalled nascent chains independently of mRNA or 40S subunits, leading to non-templated C-terminal alanine extensions (CAT tails) (PubMed:33406423, PubMed:33909987). Mainly recruits alanine-charged tRNAs, but can also other amino acid-charged tRNAs (PubMed:33406423, PubMed:33909987). CAT tailing is required to promote ubiquitination of stalled nascent chains by different E3 ubiquitin-protein ligases (PubMed:33909987). In the canonical RQC pathway (RQC-L), CAT tailing facilitates LTN1-dependent ubiquitination by exposing lysine residues that would otherwise remain buried in the ribosomal exit tunnel (By similarity). In the alternative RQC pathway (RQC-C) CAT tailing creates an C-degron mainly composed of alanine that is recognized by the CRL2(KLHDC10) and RCHY1/PIRH2 E3 ligases, leading to ubiquitination and degradation of stalled nascent chains (PubMed:33909987). NEMF may also indirectly play a role in nuclear export (PubMed:16103875).
+Subcellular Location	Cytoplasm; Cytosol; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	317...322
+validnes_region	
+nesbase_region	
+Sequence	MKSRFSTIDLRAVLAELNASLLGMRVNNVYDVDNKTYLIRLQKPDFKATLLLESGIRIHTTEFEWPKNMMPSSFAMKCRKHLKSRRLVSAKQLGVDRIVDFQFGSDEAAYHLIIELYDRGNIVLTDYEYVILNILRFRTDEADDVKFAVRERYPLDHARAAEPLLTLERLTEIVASAPKGELLKRVLNPLLPYGPALIEHCLLENGFSGNVKVDEKLETKDIEKVLVSLQKAEDYMKTTSNFSGKGYIIQKREIKPSLEADKPVEDILTYEEFHPFLFSQHSQCPYIEFESFDKAVDEFYSKIEGQKIDLKALQQEKQALKKLDNVRKDHENRLEALQQAQEIDKLKGELIEMNLQIVDRAIQVVRSALANQIDWTEIGLIVKEAQAQGDPVASAIKELKLQTNHVTMLLRNPYLLSEEEDDDVDGDVNVEKNETEPPKGKKKKQKNKQLQKPQKNKPLLVDVDLSLSAYANAKKYYDHKRYAAKKTQKTVEAAEKAFKSAEKKTKQTLKEVQTVTSIQKARKVYWFEKFLWFISSENYLIIGGRDQQQNEIIVKRYLTPGEPIPPRTLTEAGTMALCYSAAWDARVITSAWWVYHHQVSKTAPTGEYLTTGSFMIRGKKNFLPPSYLMMGFSFLFKVDESCVWRHQGERKVRVQDEDMETLASCTSELISEEMEQLDGGDTSSDEDKEEHETPVEVELMTQVDQEDITLQSGRDELNEELIQEESSEDEGEYEEVRKDQDSVGEMKDEGEETLNYPDTTIDLSHLQPQRSIQKLASKEESSNSSDSKSQSRRHLSAKERREMKKKKLPSDSGDLEALEGKDKEKESTVHIETHQNTSKNVAAVQPMKRGQKSKMKKMKEKYKDQDEEDRELIMKLLGSAGSNKEEKGKKGKKGKTKDEPVKKQPQKPRGGQRVSDNIKKETPFLEVITHELQDFAVDDPHDDKEEQDLDQQGNEENLFDSLTGQPHPEDVLLFAIPICAPYTTMTNYKYKVKLTPGVQKKGKAAKTALNSFMHSKEATAREKDLFRSVKDTDLSRNIPGKVKVSAPNLLNVKRK
+PTM	Acetylation:496;Methylation:184,224,251,302,307,311,321,383,397,432,510,555,578,940,1044;Phosphorylation:3,6,30,247,414,417,500,616,629,631,632,634,682,685,687,688,692,703,704,705,747,748,754,763,777,798,802,803,805,806,831,833,900,903,936,1016,1049;SUMOylation:940;Ubiquitylation:35,91,146,184,220,231,237,245,302,311,317,397,446,448,452,555

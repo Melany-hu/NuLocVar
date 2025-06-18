@@ -1,0 +1,25 @@
+UniprotID	Q8NF81
+Accession	Q8NF81
+EntryName	Q8NF81_HUMAN
+ProteinName	FLJ00273 protein
+GeneName	FLJ00273
+Length	144
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	SLFRYTRFAMRHSVCSISRVDSYSPNPTCVASHLHSSSSSVNGHYPVLIWRSVFPHSTSRIHGHSPGFKSSVSGYSPSLTSRAYSHSPGPTFIPMTSHVVSAVIHPAVQSQVTHLALHHIPRAPGMKLSQPPKLPPSLNLPNHE
+PTM	

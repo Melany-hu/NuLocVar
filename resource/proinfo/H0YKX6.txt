@@ -1,0 +1,25 @@
+UniprotID	H0YKX6
+Accession	H0YKX6
+EntryName	H0YKX6_HUMAN
+ProteinName	MOK protein kinase
+GeneName	MOK
+Length	95
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIPMRESPPTRPCSTPTSKNRETVPKARGGPSQETRTGLCHGTAQTKAFGSGQTVVLLQPHAAVRAWIWNKWKSAGAETLEVHPCEQEDRSAEGP
+PTM	

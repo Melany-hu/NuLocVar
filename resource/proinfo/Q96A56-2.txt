@@ -1,0 +1,25 @@
+UniprotID	Q96A56-2
+Accession	Q96A56;B2RCE5;Q969R9
+EntryName	T53I1_HUMAN
+ProteinName	Tumor protein p53-inducible nuclear protein 1 (Stress-induced protein) (p53-dependent damage-inducible nuclear protein 1) (p53DINP1)
+GeneName	TP53INP1 P53DINP1 SIP
+Length	164
+Function	Antiproliferative and proapoptotic protein involved in cell stress response which acts as a dual regulator of transcription and autophagy. Acts as a positive regulator of autophagy. In response to cellular stress or activation of autophagy, relocates to autophagosomes where it interacts with autophagosome-associated proteins GABARAP, GABARAPL1/L2, MAP1LC3A/B/C and regulates autophagy. Acts as an antioxidant and plays a major role in p53/TP53-driven oxidative stress response. Possesses both a p53/TP53-independent intracellular reactive oxygen species (ROS) regulatory function and a p53/TP53-dependent transcription regulatory function. Positively regulates p53/TP53 and p73/TP73 and stimulates their capacity to induce apoptosis and regulate cell cycle. In response to double-strand DNA breaks, promotes p53/TP53 phosphorylation on 'Ser-46' and subsequent apoptosis. Acts as a tumor suppressor by inducing cell death by an autophagy and caspase-dependent mechanism. Can reduce cell migration by regulating the expression of SPARC.
+Subcellular Location	Cytoplasm; Cytosol; Nucleus; Nucleus; PML body; Cytoplasmic vesicle; Autophagosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFQRLNKMFVGEVSSSSNQEPEFNEKEDDEWILVDFIDTCTGFSAEEEEEEEDISEESPTEHPSVFSCLPASLECLADTSDSCFLQFESCPMEESWFITPPPCFTAGGLTTIKVETSPMENLLIEHPSMSVYAVHNSCPGLSEATRGTDELHSPSSPRARKSCL
+PTM	Glycosylation:213;Methylation:187;Phosphorylation:153,155,156;SUMOylation:7,196,224

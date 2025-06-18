@@ -1,0 +1,25 @@
+UniprotID	Q9BUX1-2
+Accession	Q9BUX1;Q0VIA0
+EntryName	CHAC1_HUMAN
+ProteinName	Glutathione-specific gamma-glutamylcyclotransferase 1 (Gamma-GCG 1) (EC 4.3.2.7) (Blocks Notch protein) (Botch) (Cation transport regulator-like protein 1)
+GeneName	CHAC1 BOTCH
+Length	177
+Function	Catalyzes the cleavage of glutathione into 5-oxo-L-proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides (PubMed:27913623). Glutathione depletion is an important factor for apoptosis initiation and execution. Acts as a pro-apoptotic component of the unfolded protein response pathway by mediating the pro-apoptotic effects of the ATF4-ATF3-DDIT3/CHOP cascade (PubMed:19109178). Negative regulator of Notch signaling pathway involved in embryonic neurogenesis: acts by inhibiting Notch cleavage by furin, maintaining Notch in an immature inactive form, thereby promoting neurogenesis in embryos (PubMed:22445366).
+Subcellular Location	Cytoplasm; Cytosol; Golgi apparatus; trans-Golgi network
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKQESAAPNTPPTSQSPTPSAQFPRNDGDPQALWIFGYGSLVWRPDFAYSDSRVGFVRGYSRRFWQGDTFHRGSDKMPGRVVTLLEDHEGCTWGVAYQVQGEQNPGYLGPAPEEAIATQILACRGFSGHNLEYLLRLADFMQLCGPQAQDEHLAAIVDAVGTMLPCFCPTEQALALV
+PTM	Phosphorylation:16;SUMOylation:2,109,124;Ubiquitylation:109,124

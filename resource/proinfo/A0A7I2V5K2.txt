@@ -1,0 +1,25 @@
+UniprotID	A0A7I2V5K2
+Accession	A0A7I2V5K2
+EntryName	A0A7I2V5K2_HUMAN
+ProteinName	Pitrilysin metallopeptidase 1
+GeneName	PITRM1
+Length	204
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWRCGGRQGLCVLRRLSGGHAHHRAWRWNSNRACERALQYKLGDKIHGFTVNQVTSVPELFLTAVKLTHDDTGARYLHLAREDTNNLFSVQFRTTPMDSTGVPHILEHTVLCGSQKYPCRDPFFKMLNRSLSTFMNAFTVIILCIHFPHKIPRTFRISSRCIWMPPFSHVYASWISGRKDGGWNMRIRATPRRPWSLKESSLMR
+PTM	

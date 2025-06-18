@@ -1,0 +1,25 @@
+UniprotID	Q6PII5-2
+Accession	Q6PII5;A6NCC4;D3DU64;Q59FX8;Q96BZ3;Q96NR5;Q96S11;Q9BT45
+EntryName	HAGHL_HUMAN
+ProteinName	Hydroxyacylglutathione hydrolase-like protein (EC 3.1.2.-)
+GeneName	HAGHL
+Length	282
+Function	Hydrolase acting on ester bonds.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKVKVIPVLEDNYMYLVIEELTREAVAVDVAVPKRLLEIVGREGVSLTAVLTTHHHWDHARGNPELARLRPGLAVLGADERIFSLTRRLAHGEELRFGAIHVRCLLTPGHTAGHMSYFLWEDDCPDPPALFSGDALSVAGCGSCLEGSAQQMYQSLAELGTLPPETKVFCGHEHTLSNLEFAQKVEPCNDHVRAKLSWAKKRDEDDVPTVPSTLGEERLYNPFLRVAEEPVRKFTGKAVPADVLEALCKERARFEQAGEPRQPQARALLALQWGLLSAAPHD
+PTM	Phosphorylation:277,279;SUMOylation:4,184

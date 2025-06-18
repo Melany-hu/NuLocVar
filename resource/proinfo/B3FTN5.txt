@@ -1,0 +1,25 @@
+UniprotID	B3FTN5
+Accession	B3FTN5
+EntryName	B3FTN5_HUMAN
+ProteinName	Truncated insulin-like 2 growth factor 2-binding protein 2
+GeneName	IGF2BP2
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MFSCPGHYHVDGFLNPGSRKIQIRNIPPHLQWEVLDGLLAQYGTVENVEQEPWRS
+PTM	

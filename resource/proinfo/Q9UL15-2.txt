@@ -1,0 +1,25 @@
+UniprotID	Q9UL15-2
+Accession	Q9UL15;O94950;Q86W59
+EntryName	BAG5_HUMAN
+ProteinName	BAG family molecular chaperone regulator 5 (BAG-5) (Bcl-2-associated athanogene 5)
+GeneName	BAG5 KIAA0873
+Length	488
+Function	Co-chaperone for HSP/HSP70 proteins. It functions as a nucleotide-exchange factor promoting the release of ADP from HSP70, thereby activating HSP70-mediated protein refolding (PubMed:20223214). Has an essential role in maintaining proteostasis at junctional membrane complexes (JMC), where it may function as a scaffold between the HSPA8 chaperone and JMC proteins enabling correct, HSPA8-dependent JMC protein folding (By similarity). Inhibits both auto-ubiquitination of PRKN and ubiquitination of target proteins by PRKN (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	438...443
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRFHWLPTLSEPFDRNQELETCIRPLWTPSGSACETEHNKSMDMGNQHPSISRLQEIQKEVKSVEQQVIGFSGLSDDKNYKKLERILTKQLFEIDSVDTEGKGDIQQARKRAAQETERLLKELEQNANHPHRIEIQNIFEEAQSLVREKIVPFYNGGNCVTDEFEEGIQDIILRLTHVKTGGKISLRKARYHTLTKICAVQEIIEDCMKKQPSLPLSEDAHPSVAKINFVMCEVNKARGVLIALLMGVNNNETCRHLSCVLSGLIADLDALDVCGRTEIRNYRREVVEDINKLLKYLDLEEEADTTKAFDLRQNHSILKIEKVLKRMREIKNELLQAQNPSELYLSSKTELQGLIGQLDEVSLEKNPCIREARRRAVIEVQTLITYIDLKEALEKRKLFACEEHPSHKAVWNVLGNLSEIQGEVLSFDGNRTDKNYIRLEELLTKQLLALDAVDPQGEEKCKAARKQAVRLAQNILSYLDLKSDEWEY
+PTM	Acetylation:18,195,278;Methylation:18,48,80,147,195,251,278,324,349,354,404;Phosphorylation:22,55,144,154,275,300,321,436,437;SUMOylation:21,61,254,266,290;Ubiquitylation:48,108,266,393,404

@@ -1,0 +1,25 @@
+UniprotID	A8MVW5-2
+Accession	A8MVW5;B3KTT4;B4DPJ1;B9EG93;E9PDV5;Q6UXI0
+EntryName	HECA2_HUMAN
+ProteinName	HEPACAM family member 2 (Mitotic kinetics regulator)
+GeneName	HEPACAM2 MIKI UNQ305/PRO346
+Length	450
+Function	Required during prometaphase for centrosome maturation. Following poly-ADP-ribosylation (PARsylation) by TNKS, translocates from the Golgi apparatus to mitotic centrosomes and plays a key role in the formation of robust microtubules for prompt movement of chromosomes: anchors AKAP9/CG-NAP, a scaffold protein of the gamma-tubulin ring complex and promotes centrosome maturation.
+Subcellular Location	Golgi apparatus membrane; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Midbody
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWLKVFTTFLSFATGACSGLKVTVPSHTVHGVRGQALYLPVHYGFHTPASDIQIIWLFERPHTMPKYLLGSVNKSVVPDLEYQHKFTMMPPNASLLINPLQFPDEGNYIVKVNIQGNGTLSASQKIQVTVDDPVTKPVVQIHPPSGAVEYVGNMTLTCHVEGGTRLAYQWLKNGRPVHTSSTYSFSPQNNTLHIAPVTKEDIGNYSCLVRNPVSEMESDIIMPIIYYGPYGLQVNSDKGLKVGEVFTVDLGEAILFDCSADSHPPNTYSWIRRTDNTTYIIKHGPRLEVASEKVAQKTMDYVCCAYNNITGRQDETHFTVIITSVGLEKLAQKGKSLSPLASITGISLFLIISMCLLFLWKKYQPYKVIKQKLEGRPETEYRKAQTFSGHEDALDDFGIYEFVAFPDVSGVSRIPSRSVPASDCVSGQDLHSTVYEVIQHIPAQQQDHPE
+PTM	Glycosylation:129,216,288;Methylation:33,294;Phosphorylation:393,412,447

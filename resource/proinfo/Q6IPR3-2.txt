@@ -1,0 +1,25 @@
+UniprotID	Q6IPR3-2
+Accession	Q6IPR3;B4DSP9;E9PGR7;Q5HYJ0;Q8N7L1
+EntryName	TYW3_HUMAN
+ProteinName	tRNA wybutosine-synthesizing protein 3 homolog (tRNA-yW-synthesizing protein 3) (EC 2.1.1.282) (tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase)
+GeneName	TYW3 C1orf171
+Length	226
+Function	Probable S-adenosyl-L-methionine-dependent methyltransferase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDRSAEFRKWKAQCLSKADLSRKGSVDEDVVELVQFLNMRDQFFTTSSCAGRILLLDRGINGFEVQKQNCCWLLVTHKLCVKDDVHSMAIDSGFRNSGITVGKRGKTMLAVRSTHGLEVPLSHKGKLMVTEEYIDFLLNVANQKMEENKKRIERFYNCLQHALERETMTNLHPKIKEKNNSSYIHKKKRNPEKTRAQCITKESDEELENDDDDDLGINVTIFPEDY
+PTM	Methylation:67,90;Phosphorylation:21,25,214,236;SUMOylation:159,207;Ubiquitylation:17,82,90,136,157

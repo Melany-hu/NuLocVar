@@ -1,0 +1,25 @@
+UniprotID	Q5TC12-3
+Accession	Q5TC12;B1AQW7;B7Z7D6;B7Z7I6;Q9H6E3
+EntryName	ATPF1_HUMAN
+ProteinName	ATP synthase mitochondrial F1 complex assembly factor 1 (ATP11 homolog)
+GeneName	ATPAF1 ATP11
+Length	240
+Function	Has a complex stabilizing activity in the assembly of the mitochondrial F1-F0 complex.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSDPAAFESRLEKRSEFRKQPVGHSRQGDFIKCVEQKTDALGKQSVNRGFTKDKTLSSIFNIEMVKEKTAEEIKQIWQQYFAAKDTVYAVIPAEKFDLIWNRAQSCPTFLCALPRREGYEFFVGQWTGTELHFTALINIQTRGEAAASQLILYHYPELKEEKGIVLMTAEMDSTFLNVAEAQCIANQVQLFYATDRKETYGLVETFNLRPNEFKYMSVIAELEQSGLGAELKCAQNQNKT
+PTM	Acetylation:125,183;Methylation:120,162,172;Phosphorylation:40,90,133;Ubiquitylation:125

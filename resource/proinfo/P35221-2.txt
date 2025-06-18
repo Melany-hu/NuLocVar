@@ -1,0 +1,25 @@
+UniprotID	P35221-2
+Accession	P35221;Q12795;Q8N1C0
+EntryName	CTNA1_HUMAN
+ProteinName	Catenin alpha-1 (Alpha E-catenin) (Cadherin-associated protein) (Renal carcinoma antigen NY-REN-13)
+GeneName	CTNNA1
+Length	930
+Function	Associates with the cytoplasmic domain of a variety of cadherins. The association of catenins to cadherins produces a complex which is linked to the actin filament network, and which seems to be of primary importance for cadherins cell-adhesion properties. Can associate with both E- and N-cadherins. Originally believed to be a stable component of E-cadherin/catenin adhesion complexes and to mediate the linkage of cadherins to the actin cytoskeleton at adherens junctions. In contrast, cortical actin was found to be much more dynamic than E-cadherin/catenin complexes and CTNNA1 was shown not to bind to F-actin when assembled in the complex suggesting a different linkage between actin and adherens junctions components. The homodimeric form may regulate actin filament assembly and inhibit actin branching by competing with the Arp2/3 complex for binding to actin filaments. Involved in the regulation of WWTR1/TAZ, YAP1 and TGFB1-dependent SMAD2 and SMAD3 nuclear accumulation (By similarity). May play a crucial role in cell differentiation.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cell junction; Adherens junction; Cell membrane; Cell junction; Cytoplasm; Nucleus; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTAVHAGNINFKWDPKSLEIRTLAVERLLEPLVTQVTTLVNTNSKGPSNKKRGRSKKAHVLAASVEQATENFLEKGDKIAKESQFLKEELVAAVEDVRKQGDLMKAAAGEFADDPCSSVKRGNMVRAARALLSAVTRLLILADMADVYKLLVQLKVVEDGILKLRNAGNEQDLGIQYKALKPEVDKLNIMAAKRQQELKDVGHRDQMAAARGILQKNVPILYTASQACLQHPDVAAYKANRDLIYKQLQQAVTGISNAAQATASDDASQHQGGGGGELAYALNNFDKQIIVDPLSFSEERFRPSLEERLESIISGAALMADSSCTRDDRRERIVAECNAVRQALQDLLSEYMGNAGRKERSDALNSAIDKMTKKTRDLRRQLRKAVMDHVSDSFLETNVPLLVLIEAAKNGNEKEVKEYAQVFREHANKLIEVANLACSISNNEEGVKLVRMSASQLEALCPQVINAALALAAKPQSKLAQENMDLFKEQWEKQVRVLTDAVDDITSIDDFLAVSENHILEDVNKCVIALQEKDVDGLDRTAGAIRGRAARVIHVVTSEMDNYEPGVYTEKVLEATKLLSNTVMPRFTEQVEAAVEALSSDPAQPMDENEFIDASRLVYDGIRDIRKAVLMIRTPEELDDSDFETEDFDVRSRTSVQTEDDQLIAGQSARAIMAQLPQEQKAKIAEQVASFQEEKSKLDAEVSKWDDSGNDIIVLAKQMCMIMMEMTDFTRGKGPLKNTSDVISAAKKIAEAGSRMDKLGRTIADHCPDSACKQDLLAYLQRIALYCHQLNICSKVKAEVQNLGGELVVSGNCDTCGALQGLKGWPPPLCLATHWVDSAMSLIQAAKNLMNAVVQTVKASYVASTKYQKSQGMASLNLPAVSWKMKAPEKKPLVKREKQDETQTKIKRASQKKHVNPVQALSEFKAMDSI
+PTM	Acetylation:120,181,186,193,493,823,842,866;Methylation:75,87,120,149,155,163,165,178,186,199,216,370,448,525,533,571,704,737,823;Phosphorylation:37,38,42,44,48,117,118,148,177,222,245,268,280,295,297,304,322,323,325,366,419,439,453,455,506,507,541,619,634,641,645,652,654,655,658,668,690,696,754,851,858,886,898;SUMOylation:12,16,57,181,417,525,797;Ubiquitylation:12,16,45,57,75,78,81,87,120,163,178,181,186,193,216,238,246,384,417,429,448,474,478,488,493,571,577,681,683,695,733,747,758,797,834,842,845,901

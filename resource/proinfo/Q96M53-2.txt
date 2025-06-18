@@ -1,0 +1,25 @@
+UniprotID	Q96M53-2
+Accession	Q96M53;A4QPA8;B2RPQ2;Q5T4G2
+EntryName	TBATA_HUMAN
+ProteinName	Protein TBATA (Protein SPATIAL) (Stromal protein associated with thymii and lymph node homolog) (Thymus, brain and testes-associated protein)
+GeneName	TBATA C10orf27 SPATIAL
+Length	250
+Function	May play a role in spermatid differentiation. Modulates thymic stromal cell proliferation and thymus function.
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MATDVQLADYPLMSPKAELKLEKKSGRKPRSPRDSGPQKELVIPGIVDFERIRRALRTPKPQTPGTYCFGRLSHHSFFSRHHPHPQHVTHIQDLTGKPVCVVRDFPAPLPESTVFSGCQMGIPTISVPIGDPQSNRNPQLSSEAWKKELKELASRVAFLTKEDELKKKEKEQKEEPLREQGAKYSAETGRLIPASTRAVGRRRSHQGQQSQSSSRHEGVQAFLLQDQELLKKTSLWDSCRQQWLSSFPSP
+PTM	Methylation:166;Phosphorylation:3,10,14,154,160,204,280

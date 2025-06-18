@@ -1,0 +1,25 @@
+UniprotID	B7WNH4
+Accession	B7WNH4
+EntryName	B7WNH4_HUMAN
+ProteinName	Small integral membrane protein 7
+GeneName	SMIM7
+Length	103
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIGDILLFGTLLMNAGAVLNFKLKKKDTQGFGEESREPSTGDNIREFLLSLRYFRIFIALWNIFMMFCMIVLRKLKQIAFPSSTGAITLILLLTNCEICCKWI
+PTM	

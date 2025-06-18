@@ -1,0 +1,25 @@
+UniprotID	L8E9T0
+Accession	L8E9T0
+EntryName	L8E9T0_HUMAN
+ProteinName	Alternative protein SLC2A5
+GeneName	SLC2A5
+Length	49
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFPACSAAVHMEARGIAMTATSVPGSVLGADPASVHRTLPATLLPGTQ
+PTM	

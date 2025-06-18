@@ -1,0 +1,25 @@
+UniprotID	Q15646-3
+Accession	Q15646;B2RAZ2;I1YDD2;O75686;Q17R95;Q9Y6K6;Q9Y6K7
+EntryName	OASL_HUMAN
+ProteinName	2'-5'-oligoadenylate synthase-like protein (2'-5'-OAS-related protein) (2'-5'-OAS-RP) (59 kDa 2'-5'-oligoadenylate synthase-like protein) (Thyroid receptor-interacting protein 14) (TR-interacting protein 14) (TRIP-14) (p59 OASL) (p59OASL)
+GeneName	OASL TRIP14
+Length	384
+Function	Does not have 2'-5'-OAS activity, but can bind double-stranded RNA. Displays antiviral activity against encephalomyocarditis virus (EMCV) and hepatitis C virus (HCV) via an alternative antiviral pathway independent of RNase L.
+Subcellular Location	Nucleus; Nucleolus; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALMQELYSTPASRLDSFVAQWLQPHREWKEEVLDAVRTVEEFLRQEHFQGKRGLDQDVRVLKVVKVGSFGNGTVLRSTREVELVAFLSCFHSFQEAAKHHKDVLRLIWKTMWQSQDLLDLGLEDLRMEQRVPDALVFTIQTRGTAEPITVTIVPAYRALGPSLPNSQPPPEVYVSLIKACGGPGNFCPSFSELQRNFVKHRPTKLKSLLRLVKHWYQQRARDIHLTVEQRGYPDFNLIVNPYEPIRKVKEKIRRTRGYSGLQRLSFQVPGSERQLLSSRCSLAKYGIFSHTHIYLLETIPSEIQVFVKNPDGGSYAYAINPNSFILGLKQQIEDQQGLPKKQQQLEFQGQVLQDWLGLGIYGIQDSDTLILSKKKGEALFPAS
+PTM	Acetylation:30;Methylation:179,471;Phosphorylation:8,176,208,409,420,514;Ubiquitylation:52,179,200,222,331,349,471

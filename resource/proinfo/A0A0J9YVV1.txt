@@ -1,0 +1,25 @@
+UniprotID	A0A0J9YVV1
+Accession	A0A0J9YVV1
+EntryName	A0A0J9YVV1_HUMAN
+ProteinName	HECT domain E3 ubiquitin protein ligase 2
+GeneName	HECTD2
+Length	23
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDASSSEMKAPVLPEPILPIQPK
+PTM	

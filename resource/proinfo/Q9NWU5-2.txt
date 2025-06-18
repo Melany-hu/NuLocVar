@@ -1,0 +1,25 @@
+UniprotID	Q9NWU5-2
+Accession	Q9NWU5;A6NGJ8;Q5H9Q1;Q96Q51;Q9P006
+EntryName	RM22_HUMAN
+ProteinName	Large ribosomal subunit protein uL22m (39S ribosomal protein L22, mitochondrial) (L22mt) (MRP-L22) (39S ribosomal protein L25, mitochondrial) (L25mt) (MRP-L25)
+GeneName	MRPL22 MRPL25 RPML25 HSPC158
+Length	120
+Function	
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MIRGMSIDQALAQLEFNDKKGAKIIKEVLLEAQDMAVRDHNVEFRSNLYIAESTSGRGQCLKRIRYHGRGRFGIMEKVYCHYFVKLVEGPPPPPEPPKTAVAHAKEYIQQLRSRTIVHTL
+PTM	Methylation:105,143;Phosphorylation:68,77,92,165;SUMOylation:50,86,105,112,171,184,191;Ubiquitylation:109,148,184,191

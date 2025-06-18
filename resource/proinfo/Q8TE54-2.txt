@@ -1,0 +1,25 @@
+UniprotID	Q8TE54-2
+Accession	Q8TE54;Q24JS8;Q8TE53;Q96RN2
+EntryName	S26A7_HUMAN
+ProteinName	Anion exchange transporter (Solute carrier family 26 member 7)
+GeneName	SLC26A7 SUT2
+Length	663
+Function	Acts as an anion channel mediating the transport of chloride, sulfate and oxalate ions (PubMed:11834742). Mediates the transport of bromide, iodide, nitrate, gluconate, thiocyanate and bicarbonate ions (By similarity). Its permeability towards bicarbonate is weak and increases when pH is above 7 (By similarity). Mediates thiocyanate transport in retinal pigment epithelium cells (By similarity). Mediates iodide transport in the thyroid gland, playing an important role in the synthesis of thyroid hormones and the maintenance of thyroid function (PubMed:31372509). Although it is an anion channel, according to PubMed:12736153 and PubMed:32119864 it has been shown to exhibit chloride-bicarbonate exchanger activity.
+Subcellular Location	Basolateral cell membrane; Recycling endosome membrane; Apical cell membrane; Lateral cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTGAKRKKKSMLWSKMHTPQCEDIIQWCRRRLPILDWAPHYNLKENLLPDTVSGIMLAVQQVTQGLAFAVLSSVHPVFGLYGSLFPAIIYAIFGMGHHVATGTFALTSLISANAVERIVPQNMQNLTTQSNTSVLGLSDFEMQRIHVAAAVSFLGGVIQVAMFVLQLGSATFVVTEPVISAMTTGAATHVVTSQVKYLLGMKMPYISGPLGFFYIYAYVFENIKSVRLEALLLSLLSIVVLVLVKELNEQFKRKIKVVLPVDLVLIIAASFACYCTNMENTYGLEVVGHIPQGIPSPRAPPMNILSAVITEAFGVALVGYVASLALAQGSAKKFKYSIDDNQEFLAHGLSNIVSSFFFCIPSAAAMGRTAGLYSTGAKTQVACLISCIFVLIVIYAIGPLLYWLPMCVLASIIVVGLKGMLIQFRDLKKYWNVDKIDWGIWVSTYVFTICFAANVGLLFGVVCTIAIVIGRFPRAMTVSIKNMKEMEFKVKTEMDSETLQQVKIISINNPLVFLNAKKFYTDLMNMIQKENACNQPLDDISKCEQNTLLNSLSNGNCNEEASQSCPNEKCYLILDCSGFTFFDYSGVSMLVEVYMDCKGRSVDVLLAHCTASLIKAMTYYGNLDSEKPIFFESVSAAISHIHSNKASYKLLFDNLDLPTMPPL
+PTM	Methylation:15,202,224,245,252,542,615;Phosphorylation:612

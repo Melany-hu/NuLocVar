@@ -1,0 +1,25 @@
+UniprotID	O60733-2
+Accession	O60733;A8K597;B0QYE8;O75645;Q8N452;Q9UG29;Q9UIT0;Q9Y671
+EntryName	PLPL9_HUMAN
+ProteinName	85/88 kDa calcium-independent phospholipase A2 (CaI-PLA2) (EC 3.1.1.4) (2-lysophosphatidylcholine acylhydrolase) (EC 3.1.1.5) (Group VI phospholipase A2) (GVI PLA2) (Intracellular membrane-associated calcium-independent phospholipase A2 beta) (iPLA2-beta) (Palmitoyl-CoA hydrolase) (EC 3.1.2.2) (Patatin-like phospholipase domain-containing protein 9) (PNPLA9)
+GeneName	PLA2G6 PLPLA9
+Length	752
+Function	Calcium-independent phospholipase involved in phospholipid remodeling with implications in cellular membrane homeostasis, mitochondrial integrity and signal transduction. Hydrolyzes the ester bond of the fatty acyl group attached at sn-1 or sn-2 position of phospholipids (phospholipase A1 and A2 activity respectively), producing lysophospholipids that are used in deacylation-reacylation cycles (PubMed:10092647, PubMed:10336645, PubMed:20886109, PubMed:9417066). Hydrolyzes both saturated and unsaturated long fatty acyl chains in various glycerophospholipid classes such as phosphatidylcholines, phosphatidylethanolamines and phosphatidates, with a preference for hydrolysis at sn-2 position (PubMed:10092647, PubMed:10336645, PubMed:20886109). Can further hydrolyze lysophospholipids carrying saturated fatty acyl chains (lysophospholipase activity) (PubMed:20886109). Upon oxidative stress, contributes to remodeling of mitochondrial phospholipids in pancreatic beta cells, in a repair mechanism to reduce oxidized lipid content (PubMed:23533611). Preferentially hydrolyzes oxidized polyunsaturated fatty acyl chains from cardiolipins, yielding monolysocardiolipins that can be reacylated with unoxidized fatty acyls to regenerate native cardiolipin species (By similarity). Hydrolyzes oxidized glycerophosphoethanolamines present in pancreatic islets, releasing oxidized polyunsaturated fatty acids such as hydroxyeicosatetraenoates (HETEs) (By similarity). Has thioesterase activity toward fatty-acyl CoA releasing CoA-SH known to facilitate fatty acid transport and beta-oxidation in mitochondria particularly in skeletal muscle (PubMed:20886109). Plays a role in regulation of membrane dynamics and homeostasis. Selectively hydrolyzes sn-2 arachidonoyl group in plasmalogen phospholipids, structural components of lipid rafts and myelin (By similarity). Regulates F-actin polymerization at the pseudopods, which is required for both speed and directionality of MCP1/CCL2-induced monocyte chemotaxis (PubMed:18208975). Targets membrane phospholipids to produce potent lipid signaling messengers. Generates lysophosphatidate (LPA, 1-acyl-glycerol-3-phosphate), which acts via G-protein receptors in various cell types (By similarity). Has phospholipase A2 activity toward platelet-activating factor (PAF, 1-O-alkyl-2-acetyl-sn-glycero-3-phosphocholine), likely playing a role in inactivation of this potent pro-inflammatory signaling lipid (By similarity). In response to glucose, amplifies calcium influx in pancreatic beta cells to promote INS secretion (By similarity).
+Subcellular Location	Cytoplasm; Cell membrane; Mitochondrion; Cell projection; Pseudopodium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQFFGRLVNTFSGVTNLFSNPFRVKEVAVADYTSSDRVREEGQLILFQNTPNRTWDCVLVNPRNSQSGFRLFQLELEADALVNFHQYSSQLLPFYESSPQVLHTEVLQHLTDLIRNHPSWSVAHLAVELGIRECFHHSRIISCANCAENEEGCTPLHLACRKGDGEILVELVQYCHTQMDVTDYKGETVFHYAVQGDNSQVLQLLGRNAVAGLNQVNNQGLTPLHLACQLGKQEMVRVLLLCNARCNIMGPNGYPIHSAMKFSQKGCAEMIISMDSSQIHSKDPRYGASPLHWAKNAEMARMLLKRGCNVNSTSSAGNTALHVAVMRNRFDCAIVLLTHGANADARGEHGNTPLHLAMSKDNVEMIKALIVFGAEVDTPNDFGETPTFLASKIGRQLQDLMHISRARKPAFILGSMRDEKRTHDHLLCLDGGGVKGLIIIQLLIAIEKASGVATKDLFDWVAGTSTGGILALAILHSKSMAYMRGMYFRMKDEVFRGSRPYESGPLEEFLKREFGEHTKMTDVRKPKVMLTGTLSDRQPAELHLFRNYDAPETVREPRFNQNVNLRPPAQPSDQLVWRAARSSGAAPTYFRPNGRFLDGGLLANNPTLDAMTEIHEYNQDLIRKGQANKVKKLSIVVSLGTGRSPQVPVTCVDVFRPSNPWELAKTVFGAKELGKMVVDCCTDPDGRAVDRARAWCEMVGIQYFRLNPQLGTDIMLDEVSDTVLVNALWETEVYIYEHREEFQKLIQLLLSP
+PTM	Methylation:367,502,509,565,678,719,725;Phosphorylation:541,688,692;Ubiquitylation:25

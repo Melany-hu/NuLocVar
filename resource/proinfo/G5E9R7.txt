@@ -1,0 +1,25 @@
+UniprotID	G5E9R7
+Accession	G5E9R7
+EntryName	KR416_HUMAN
+ProteinName	Putative keratin-associated protein 4-16 (Keratin-associated protein 4 pseudogene 1) (Keratin-associated protein 4-16 pseudogene)
+GeneName	KRTAP4-16 KRTAP4-16P KRTAP4P1
+Length	235
+Function	In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high-sulfur and high-glycine-tyrosine keratins.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MCSSKMPCSPSASSLCAASPPNCCHPSCCQTTCCRTTSCSHSCSVSSCCRPQCCHSVCCQPTCCRPSCCQTTCCRTTCCHPSCCVSSCCRPQCCHSVCFQPTCCHPSCCISSSCCPSCCESSCCCPCCCLRPVCGRVSCHVTCYHPTCVISTCPHPLCCASPPLPLPFPSPPVPLPFFLSLALPSPPRPSPPLLSPVLIPSPSPSPSLPSLSPPLPSPPLPSPHFPSVNPKSMLQ
+PTM	

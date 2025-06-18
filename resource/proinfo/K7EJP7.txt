@@ -1,0 +1,25 @@
+UniprotID	K7EJP7
+Accession	K7EJP7
+EntryName	K7EJP7_HUMAN
+ProteinName	HDGF like 2
+GeneName	HDGFL2
+Length	121
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	97...102
+validnes_region	
+nesbase_region	
+Sequence	MAVTAVTATAASDRMESDSDSDKSSDNSGLKRKTPALKMSVSKRARKASSDLDQASVSPSEEENSESSSESEKTSDQDFTPEKKAAVRAPRRGPLGGRKKKKAPSASDSDSKADSDGAKPE
+PTM	

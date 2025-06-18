@@ -1,0 +1,25 @@
+UniprotID	Q6X784-2
+Accession	Q6X784;A8K8L8;Q6X783;Q86XL5
+EntryName	ZPBP2_HUMAN
+ProteinName	Zona pellucida-binding protein 2 (ZPBP-like protein)
+GeneName	ZPBP2 ZPBPL
+Length	316
+Function	Is implicated in sperm-oocyte interaction during fertilization.
+Subcellular Location	Cytoplasmic vesicle; Secretory vesicle; Acrosome; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMRTCVLLSAVLWCLTGDKIYVELHQNSPVLICMDFKLSKKEIVDPTYLWIGPNEKTLTGNNRINITETGQLMVKDFLEPLSGLYTCTLSYKTVKAETQEEKTVKKRYDFMVFAYREPDYSYQMAVRFTTRSCIGRYNDVFFRVLKKILDSLISDLSCHVIEPSYKCHSVEIPEHGLIHELFIAFQVNPFAPGWKGACNGSVDCEDTTNHNILQARDRIEDFFRSQAYIFYHNFNKTLPAMHFVDHSLQVVRLDSCRPGFGKNERLHSNCASCCVVCSPATFSPDVNVTCQTCVSVLTYGAKSCPQTSNKNQQYED
+PTM	Phosphorylation:104

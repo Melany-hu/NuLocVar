@@ -1,0 +1,25 @@
+UniprotID	O95866-3
+Accession	O95866;A2BEZ1;A2BEZ2;A2BEZ3;A2BEZ4;A2BEZ5;B0UXC4;B0UXC7;B0UXC8;B0V024;B0V026;Q14CK2;Q96A86;Q96A87;Q96A88;Q96A89;Q96A90;Q96A91
+EntryName	G6B_HUMAN
+ProteinName	Megakaryocyte and platelet inhibitory receptor G6b (Protein G6b)
+GeneName	MPIG6B C6orf25 G6B G6B-B
+Length	217
+Function	Inhibitory receptor that acts as a critical regulator of hematopoietic lineage differentiation, megakaryocyte function and platelet production (PubMed:12665801, PubMed:17311996, PubMed:27743390). Inhibits platelet aggregation and activation by agonists such as ADP and collagen-related peptide (PubMed:12665801). This regulation of megakaryocate function as well as platelet production ann activation is done through the inhibition (via the 2 ITIM motifs) of the receptors CLEC1B and GP6:FcRgamma signaling (PubMed:17311996). Appears to operate in a calcium-independent manner (PubMed:12665801).
+Subcellular Location	Endoplasmic reticulum; Golgi apparatus; Endoplasmic reticulum; Golgi apparatus; Cell membrane; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAVFLQLLPLLLSRAQGNPGASLDGRPGDRVNLSCGGVSHPIRWVWAPSFPACKGLSKGRRPILWASSSGTPTVPPLQPFVGRLRSLDSGIRRLELLLSAGDSGTFFCKGRHEDESRTVLHVLGDRTYCKAPGPTHGACPRNRFDHSLDLLCPPHIAPLVKTEPQRPVKEEEPKIPGDLDQEPSLLYADLDHLALSRPRRLSTADPADASTIYAVVV
+PTM	Methylation:58;Phosphorylation:49,127,208,211,220,226,227,234,235,237

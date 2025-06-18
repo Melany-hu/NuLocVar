@@ -1,0 +1,25 @@
+UniprotID	Q9NVI7-3
+Accession	Q9NVI7;B3KPB3;D2K8Q1;G3V1I6;Q5SV23;Q8N275;Q96A50
+EntryName	ATD3A_HUMAN
+ProteinName	ATPase family AAA domain-containing protein 3A (EC 3.6.1.-)
+GeneName	ATAD3A
+Length	507
+Function	Essential for mitochondrial network organization, mitochondrial metabolism and cell growth at organism and cellular level (PubMed:17210950, PubMed:20154147, PubMed:22453275, PubMed:31522117, PubMed:37832546, PubMed:39116259). May play an important role in mitochondrial protein synthesis (PubMed:22453275). May also participate in mitochondrial DNA replication (PubMed:17210950). May bind to mitochondrial DNA D-loops and contribute to nucleoid stability (PubMed:17210950). Required for enhanced channeling of cholesterol for hormone-dependent steroidogenesis (PubMed:22453275). Involved in mitochondrial-mediated antiviral innate immunity (PubMed:31522117). Required to protect mitochondria from the PERK-mediated unfolded protein response: specifically inhibits the activity of EIF2AK3/PERK at mitochondria-endoplasmic reticulum contact sites, thereby providing a safe haven for mitochondrial protein translation during endoplasmic reticulum stress (PubMed:39116259). Ability to inhibit EIF2AK3/PERK is independent of its ATPase activity (PubMed:39116259). Also involved in the mitochondrial DNA damage response by promoting signaling between damaged genomes and the mitochondrial membrane, leading to activation of the integrated stress response (ISR) (PubMed:37832546).
+Subcellular Location	Mitochondrion inner membrane; Mitochondrion matrix; Mitochondrion nucleoid
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQEQTLQLEQQSKLKEYEAAVEQLKSEQIRAQAEERRKTLSEETRQHQARAQYQDKLARQRYEDQLKQQQLLNEENLRKQEESVQKQEAMRRATVEREMELRHKNEMLRVEAEARARAKAERENADIIREQIRLKAAEHRQTVLESIRTAGTLFGEGFRAFVTDWDKVTATVAGLTLLAVGVYSAKNATLVAGRFIEARLGKPSLVRETSRITVLEALRHPIQVSRRLLSRPQDALEGVVLSPSLEARVRDIAIATRNTKKNRSLYRNILMYGPPGTGKTLFAKKLALHSGMDYAIMTGGDVAPMGREGVTAMHKLFDWANTSRRGLLLFVDEADAFLRKRATEKISEDLRATLNAFLYRTGQHSNKFMLVLASNQPEQFDWAINDRINEMVHFDLPGQEERERLVRMYFDKYVLKPATEGKQRLKLAQFDYGRKCSEVARLTEGMSGREIAQLAVSWQATAYASEDGVLTEAMMDTRVQDAVQQHQQKMCWLKAEGPGRGDEPSPS
+PTM	Acetylation:46,72,152,183,194,231,329,411,442,472,494,539,543,549,553,616,621;Methylation:9,92,152,194,205,262,406;Phosphorylation:2,168,180,269,357,369,371,404,474;Ubiquitylation:92,152,183,194,213,329,406,411,543

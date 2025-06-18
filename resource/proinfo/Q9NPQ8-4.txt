@@ -1,0 +1,25 @@
+UniprotID	Q9NPQ8-4
+Accession	Q9NPQ8;Q0P508;Q2T9J1;Q7Z352;Q96EZ1;Q96SZ2;Q9H064;Q9H5H3;Q9H9E7
+EntryName	RIC8A_HUMAN
+ProteinName	Chaperone Ric-8A (Synembryn-A)
+GeneName	RIC8A
+Length	530
+Function	Chaperone that specifically binds and folds nascent G alpha proteins prior to G protein heterotrimer formation, promoting their stability and activity: folds GNAI1, GNAO1, GNA13 and GNAQ (By similarity). Does not fold G(s) G-alpha proteins GNAS nor GNAL (By similarity). Also acts as a guanine nucleotide exchange factor (GEF) for G alpha proteins by stimulating exchange of bound GDP for free GTP (By similarity). Involved in regulation of microtubule pulling forces during mitotic movement of chromosomes by stimulating G(i)-alpha protein (GNAI1), possibly leading to release G(i)-alpha-GTP and NuMA proteins from the NuMA-GPSM2-G(i)-alpha-GDP complex (By similarity). Also acts as an activator for G(q)-alpha (GNAQ) protein by enhancing the G(q)-coupled receptor-mediated ERK activation (PubMed:16629901).
+Subcellular Location	Cytoplasm; Cell cortex; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPRAVAEAVETGEEDVIMEALRSYNQEHSQSFTFDDAQQEDRKRLAELLVSVLEQGLPPSHRVIWLQSVRILSRDRNCLDPFTSRQSLQALACYADISVSEGSVPESADMDVVLESLKCLCNLVLSSPVAQMLAAEARLVVKLTERVGLYRERSFPHDVQFFDLRLLFLLTALRTDVRQQLFQELKGVRLLTDTLELTLGVTPEGNPPTLLPSQETERAMEILKVLFNITLDSIKGEVDEEDAALYRHLGTLLRHCVMIATAGDRTEEFHGHAVNLLGNLPLKCLDVLLTLEPHGDSTEFMGVNMDVIRALLIFLEKRLHKTHRLKESVAPVLSVLTECARMHRPARKFLKAQVLPPLRDVRTRPEVGEMLRNKLVRLMTHLDTDVKRVAAEFLFVLCSESVPRFIKYTGYGNAAGLLAARGLMAGGRPEGQYSEDEDTDTDEYKEAKASINPVTGRVEEKPPNPMEGMTEEQKEHEAMKLVTMFDKLSRNRVIQPMGMSPRGHLTSLQDAMCETMEQQLSSDPDSDPD
+PTM	Acetylation:389,489;Methylation:143,187,226,237;Phosphorylation:25,30,32,410,435,436,441,443,446,452,502,517,523,524,528;SUMOylation:353,450,463;Ubiquitylation:143,328,353,389,450,489

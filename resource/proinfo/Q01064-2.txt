@@ -1,0 +1,25 @@
+UniprotID	Q01064-2
+Accession	Q01064;Q92825;Q96KP3
+EntryName	PDE1B_HUMAN
+ProteinName	Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B (Cam-PDE 1B) (EC 3.1.4.17) (63 kDa Cam-PDE)
+GeneName	PDE1B PDES1B
+Length	516
+Function	Cyclic nucleotide phosphodiesterase with a dual specificity for the second messengers cAMP and cGMP, which are key regulators of many important physiological processes (PubMed:15260978, PubMed:8855339, PubMed:9419816). Has a preference for cGMP as a substrate (PubMed:9419816).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MANPVPVQRSHLQGPILRLRYMVKQLENGEINIEELKKNLEYTASLLEAVYIDETRQILDTEDELQELRSDAVPSEVRDWLASTFTQQARAKGRRAEEKPKFRSIVHAVQAGIFVERMFRRTYTSVGPTYSTAVLNCLKNLDLWCFDVFSLNQAADDHALRTIVFELLTRHNLISRFKIPTVFLMSFLDALETGYGKYKNPYHNQIHAADVTQTVHCFLLRTGMVHCLSEIELLAIIFAAAIHDYEHTGTTNSFHIQTKSECAIVYNDRSVLENHHISSVFRLMQDDEMNIFINLTKDEFVELRALVIEMVLATDMSCHFQQVKTMKTALQQLERIDKPKALSLLLHAADISHPTKQWLVHSRWTKALMEEFFRQGDKEAELGLPFSPLCDRTSTLVAQSQIGFIDFIVEPTFSVLTDVAEKSVQPLADEDSKSKNQPSFQWRQPSLDVEVGDPNPDVVSFRSTWVKRIQENKQKWKERAASGITNQMSIDELSPCEEEAPPSPAEDEHNQNGNLD
+PTM	Methylation:34,57,317,453;Phosphorylation:7,452,466;Ubiquitylation:347,453

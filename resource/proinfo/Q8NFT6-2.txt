@@ -1,0 +1,25 @@
+UniprotID	Q8NFT6-2
+Accession	Q8NFT6;D3DX56;Q8TEX0;Q96B19;Q9H912
+EntryName	DBF4B_HUMAN
+ProteinName	Protein DBF4 homolog B (Activator of S phase kinase-like protein 1) (ASK-like protein 1) (Chiffon homolog B) (Dbf4-related factor 1)
+GeneName	DBF4B ASKL1 DRF1
+Length	431
+Function	Regulatory subunit for CDC7 which activates its kinase activity thereby playing a central role in DNA replication and cell proliferation. Required for progression of S and M phases. The complex CDC7-DBF4B selectively phosphorylates MCM2 subunit at 'Ser-40' and then is involved in regulating the initiation of DNA replication during cell cycle.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	219...224
+validnes_region	
+nesbase_region	
+Sequence	MSEPGKGDDCLELESSMAESRLRAPDLGVSRCLGKCQKNSPGARKHPFSGKSFYLDLPAGKNLQFLTGAIQQLGGVIEGFLSKEVSYIVSSRREVKAESSGKSHRGCPSPSPSEVRVETSAMVDPKGSHPRPSRKPVDSVPLSRGKELLQKAIRNQGSISGGGSGGSSSLLTNARSWGVRILHVDEMMMHVQQLSLASLCVKKQQPKKPEGTCPAAESRTRKVARLKAPFLKIEDESRKFRPFHHQFKSFPEISFLGPKDASPFEAPTTLGSMHHTRESKDGEPSPRSAAHTMPRRKKGYCECCQEAFEELHVHLQSAQHRSFALEAHLYAEVDRIIAQLSHSFADIPFQAGLPRWSGSPASDCDPLCPETLHPHQPSHPRAASPRIRKEDSCQASVTQGRAAGQQRWTESLDGVMGPPASHTCHRPCRLP
+PTM	Methylation:146,151,227,232;Phosphorylation:109,139,143,158,198,285,288;SUMOylation:135,146,232,239,280

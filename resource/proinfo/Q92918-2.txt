@@ -1,0 +1,25 @@
+UniprotID	Q92918-2
+Accession	Q92918
+EntryName	M4K1_HUMAN
+ProteinName	Mitogen-activated protein kinase kinase kinase kinase 1 (EC 2.7.11.1) (Hematopoietic progenitor kinase) (MAPK/ERK kinase kinase kinase 1) (MEK kinase kinase 1) (MEKKK 1)
+GeneName	MAP4K1 HPK1
+Length	821
+Function	Serine/threonine-protein kinase, which plays a role in the response to environmental stress (PubMed:24362026). Appears to act upstream of the JUN N-terminal pathway (PubMed:8824585). Activator of the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. MAP4Ks act in parallel to and are partially redundant with STK3/MST2 and STK4/MST2 in the phosphorylation and activation of LATS1/2, and establish MAP4Ks as components of the expanded Hippo pathway (PubMed:26437443). May play a role in hematopoietic lineage decisions and growth regulation (PubMed:24362026, PubMed:8824585). Together with CLNK, it enhances CD3-triggered activation of T-cells and subsequent IL2 production (By similarity).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDVVDPDIFNRDPRDHYDLLQRLGGGTYGEVFKARDKVSGDLVALKMVKMEPDDDVSTLQKEILILKTCRHANIVAYHGSYLWLQKLWICMEFCGAGSLQDIYQVTGSLSELQISYVCREVLQGLAYLHSQKKIHRDIKGANILINDAGEVRLADFGISAQIGATLARRLSFIGTPYWMAPEVAAVALKGGYNELCDIWSLGITAIELAELQPPLFDVHPLRVLFLMTKSGYQPPRLKEKGKWSAAFHNFIKVTLTKSPKKRPSATKMLSHQLVSQPGLNRGLILDLLDKLKNPGKGPSIGDIEDEEPELPPAIPRRIRSTHRSSSLGIPDADCCRRHMEFRKLRGMETRPPANTARLQPPRDLRSSSPRKQLSESSDDDYDDVDIPTPAEDTPPPLPPKPKFRSPSDEGPGSMGDDGQLSPGVLVRCASGPPPNSPRPGPPPSTSSPHLTAHSEPSLWNPPSRELDKPPLLPPKKEKMKRKGCALLVKLFNGCPLRIHSTAAWTHPSTKDQHLLLGAEEGIFILNRNDQEATLEMLFPSRTTWVYSINNVLMSLSGKTPHLYSHSILGLLERKETRAGNPIAHISPHRLLARKNMVSTKIQDTKGCRACCVAEGASSGGPFLCGALETSVVLLQWYQPMNKFLLVRQVLFPLPTPLSVFALLTGPGSELPAVCIGVSPGRPGKSVLFHTVRFGALSCWLGEMSTEHRGPVQVTQVEEDMVMVLMDGSVKLVTPEGSPVRGLRTPEIPMTEAVEAVAMVGGQLQAFWKHGVQVWALGSDQLLQELRDPTLTFRLLGSPRPVVVETRPVDDPTAPSNLYIQE
+PTM	Acetylation:489;Methylation:46,61,67,252,290,489;Phosphorylation:28,171,177,230,324,325,326,388,405,407,413,421,430,451,454,586,737;SUMOylation:242;Ubiquitylation:33,46,600

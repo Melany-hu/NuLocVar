@@ -1,0 +1,25 @@
+UniprotID	Q9H1C6
+Accession	Q9H1C6
+EntryName	Q9H1C6_HUMAN
+ProteinName	4.1G protein
+GeneName	EPB41L2
+Length	215
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	LSLQTQGRKGDHLFKDILSVKEKYLMPTIWTVEEKAQETDKTRAPESEGPCTGARDAVKSSHETLNIVEEKKRAEVGKDERVITEEMNGKEISPGSGPGEIRKVEPVTQKDSTSLSSESSSSSSESEEEDVGEYRPHHRVTEGTIREEQEYEEEVEEEPRPAAKVVEREEAVPEASPVTQAGASVITVETVIQENVGAQKIPGEKSVHEGALKQD
+PTM	

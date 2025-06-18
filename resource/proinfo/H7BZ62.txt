@@ -1,0 +1,25 @@
+UniprotID	H7BZ62
+Accession	H7BZ62
+EntryName	H7BZ62_HUMAN
+ProteinName	Neurotrimin
+GeneName	NTM
+Length	119
+Function	
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSAEFQWYKDDKRLIEGKKGVKVENRPFLSKLIFFNVSEHDYGNYTCVASNKLGHTNASIMLFELNEPTSSTLLQEVKTTALTPWKGPGAVSEVSNGTSRRAGCVWLLPLLVLHLLLKF
+PTM	

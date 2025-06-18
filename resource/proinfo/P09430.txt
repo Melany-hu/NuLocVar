@@ -1,0 +1,25 @@
+UniprotID	P09430
+Accession	P09430
+EntryName	STP1_HUMAN
+ProteinName	Spermatid nuclear transition protein 1 (STP-1) (TP-1)
+GeneName	TNP1
+Length	55
+Function	Plays a key role in the replacement of histones to protamine in the elongating spermatids of mammals. In condensing spermatids, loaded onto the nucleosomes, where it promotes the recruitment and processing of protamines, which are responsible for histone eviction.
+Subcellular Location	Nucleus; Chromosome
+Disorder	0.9473,0.9381,0.9519,0.9634,0.9606,0.9664,0.9657,0.9703,0.9684,0.9725,0.9770,0.9807,0.9801,0.9777,0.9801,0.9801,0.9770,0.9830,0.9792,0.9830,0.9801,0.9844,0.9751,0.9751,0.9744,0.9733,0.9725,0.9606,0.9606,0.9606,0.9593,0.9534,0.9547,0.9534,0.9534,0.9329,0.9151,0.9230,0.9362,0.9415,0.8942,0.8966,0.8828,0.9396,0.9081,0.8942,0.8942,0.8828,0.9151,0.8966,0.8966,0.8741,0.8462,0.8050,0.8013
+ExposeBuried	1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+SurfaceAccessbility	0.817,0.605,0.524,0.499,0.506,0.440,0.145,0.506,0.562,0.388,0.342,0.268,0.451,0.397,0.481,0.556,0.575,0.465,0.439,0.381,0.367,0.511,0.320,0.165,0.534,0.510,0.495,0.499,0.507,0.518,0.400,0.457,0.270,0.447,0.584,0.470,0.549,0.192,0.525,0.458,0.399,0.543,0.488,0.404,0.585,0.552,0.329,0.468,0.467,0.486,0.280,0.486,0.624,0.509,0.665
+SecondStructure	C,C,C,A,A,A,A,A,A,A,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+Hydropathy	1.9,-0.8,-0.7,-0.8,-4.5,-3.9,3.8,-3.9,-0.8,-3.2,-0.4,1.9,-4.5,-4.5,-0.8,-3.9,-0.8,-4.5,-0.8,-1.6,-3.2,-3.9,-0.4,4.2,-3.9,-4.5,-0.4,-0.4,-0.8,-3.9,-4.5,-3.9,-1.3,-4.5,-3.9,-0.4,-3.5,3.8,-3.9,-0.8,-4.5,-3.9,-4.5,-0.4,-3.5,-3.5,1.8,-3.5,-4.5,-3.5,-1.3,-4.5,-0.8,-3.2,3.8
+Polar	0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0
+Charge	0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,1,1,1,0,-1,-1,0,0,1,0,0,1,0,1,0
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTSRKLKSHGMRRSKSRSPHKGVKRGGSKRKYRKGNLKSRKRGDDANRNYRSHL
+PTM	Phosphorylation:2,3;SUMOylation:6,8,16

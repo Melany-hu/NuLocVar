@@ -1,0 +1,25 @@
+UniprotID	O14524-2
+Accession	O14524;Q17R72;Q68DH0;Q6IQ25
+EntryName	NEMP1_HUMAN
+ProteinName	Nuclear envelope integral membrane protein 1
+GeneName	NEMP1 KIAA0286 TMEM194 TMEM194A
+Length	371
+Function	Together with EMD, contributes to nuclear envelope stiffness in germ cells (PubMed:32923640). Required for female fertility (By similarity). Essential for normal erythropoiesis (By similarity). Required for efficient nuclear envelope opening and enucleation during the late stages of erythroblast maturation (By similarity).
+Subcellular Location	Nucleus inner membrane; Nucleus envelope
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	50...54
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGGMKVAVSPAVGPGPWGSGVGGGGTVRLLLILSGCLVYGTAETDVNVVMLQESQVCEKRASQQFCYTNVLIPKWHDIWTRIQIRVNSSRLVRVTQVENEEKLKELEQSQIFYYSTGMTVGIVASLLIIIFILSKFMPKKSPIYVILVGGWSFSLYLIQLVFKNLQEIWRCYWQYLLSYVLTVGFMSFAVCYKYGPLENERSINLLTWTLQLMGLCFMYSGIQIPHIALAIIIIALCTKNLEHPIQWLYITCRKVCKGAEKPVPPRLLTEEEYRIQGEVETRKALEELREFCNSPDCSAWKTVSRIQSPKRFADFVEGSSHLTPNEVSVHEQEYGLGSIIAQDEIYEEASSEEEDSYSRCPAITQNNFLT
+PTM	Glycosylation:125;Methylation:121,147,209;Phosphorylation:118,368,378,382;Ubiquitylation:75,103,137,150,375

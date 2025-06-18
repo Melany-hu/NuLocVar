@@ -1,0 +1,25 @@
+UniprotID	B7ZC35
+Accession	B7ZC35
+EntryName	B7ZC35_HUMAN
+ProteinName	Ethanolamine kinase 2
+GeneName	ETNK2
+Length	12
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQDCVLVRVYGE
+PTM	

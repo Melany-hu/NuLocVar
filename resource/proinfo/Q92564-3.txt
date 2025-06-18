@@ -1,0 +1,25 @@
+UniprotID	Q92564-3
+Accession	Q92564;B4DH25;Q7Z3F3;Q7Z6B8
+EntryName	DCNL4_HUMAN
+ProteinName	DCN1-like protein 4 (DCNL4) (DCUN1 domain-containing protein 4) (Defective in cullin neddylation protein 1-like protein 4)
+GeneName	DCUN1D4 KIAA0276
+Length	336
+Function	Contributes to the neddylation of all cullins by transferring NEDD8 from N-terminally acetylated NEDD8-conjugating E2s enzyme to different cullin C-terminal domain-RBX complexes which are necessary for the activation of cullin-RING E3 ubiquitin ligases (CRLs).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVEAALGCSGQGRGCGGVAPAGRGRERASERGTRVRISKGLSGAGGSVRKADFQLNSHLSTLANIHKIYHTLNKLNLTEDIGQDDHQTGSLRSCSSSDCFNKVMPPRKKRRPASGDDLSAKKSRHDSMYRKYDSTRIKTEEEAFSSKRCLEWFYEYAGTDDVVGPEGMEKFCEDIGVEPENVVMLVLAWKLDAQNMGYFTLQEWLKGMTSLQCDTTEKLRNTLDYLRSFLNDSTNFKLIYRYAFDFAREKDQRSLDINTAKCMLGLLLGKIWPLFPVFHQFLEQSKYKVINKDQWCNVLEFSRTINLDLSNYDEDGAWPVLLDEFVEWYKDKQMS
+PTM	Methylation:207,227,249;Phosphorylation:52,71,76,96,103,173;SUMOylation:31,95,104

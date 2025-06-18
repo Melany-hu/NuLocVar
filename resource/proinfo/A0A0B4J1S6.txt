@@ -1,0 +1,25 @@
+UniprotID	A0A0B4J1S6
+Accession	A0A0B4J1S6;A0A1W2PQ98
+EntryName	A0A0B4J1S6_HUMAN
+ProteinName	Killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4 (Killer cell immunoglobulin-like receptor)
+GeneName	KIR2DL4
+Length	273
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSMSPTVIILACLGFFLDQSVWAHVGGQDKPFCSAWPSAVVPQGGHVTLRCHYRRGFNIFTLYKKDGVPVPELYNRIFWNSFLISPVTPAHAGTYRCRGFHPHSPTEWSAPSNPLVIMVTGLYEKPSLTARPGPTVRAGENVTLSCSSQSSFDIYHLSREGEAHELRLPAVPSINGTFQADFPLGPATHGETYRCFGSFHGSPYEWSDPSDPLPVSVTGNPSSSWPSPTEPSFKTGIARHLHAVIRYSVAIILFTILPFFLLHRWCSKKKMLL
+PTM	

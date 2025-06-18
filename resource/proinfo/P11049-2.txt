@@ -1,0 +1,25 @@
+UniprotID	P11049-2
+Accession	P11049;B4DVC1;Q3KPF9
+EntryName	CD37_HUMAN
+ProteinName	Leukocyte antigen CD37 (Tetraspanin-26) (Tspan-26) (CD antigen CD37)
+GeneName	CD37 TSPAN26
+Length	213
+Function	Structural component of specialized membrane microdomains known as tetraspanin-enriched microdomains (TERMs), which act as platforms for receptor clustering and signaling. Participates thereby in diverse biological functions such as cell signal transduction, adhesion, migration and protein trafficking (PubMed:22624718). Upon ligand binding, two signaling pathways are activated, one acting through phosphorylation by LYN leading to cell death or a survival pathway with activation of GSK3B (PubMed:22624718). Plays an essential role essential for clustering of integrin ITGA4/ITGB1 and promotes its mobility in the plasma membrane of B-cells. In turn, participates in ITGA4/ITGB1 integrin-mediated antiapoptotic signaling through AKT (By similarity). Also plays a role in the migration of dendritic cells and neutrophils to draining lymph nodes, as well as in their integrin-mediated adhesion (By similarity). Negatively regulates IL-6 responses through direct interaction with SOCS3 thereby preventing constitutive IL-6 signaling (PubMed:26784544). Alternatively, inhibition of IL-6 signaling can also occur via interaction and stabilization of DECTIN1/CLEC7A at the cell membrane to inhibit its ability to promote the production of IL-6 (PubMed:17182550).
+Subcellular Location	Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGIALLGCVGALKELRCLLGLYFGMLLLLFATQITLGILISTQRAQLERSLRDVVEKTIQKYGTNPEETAAEESWDYVQFQLRCCGWHYPQDWFQVLILRGNGSEAHRVPCSCYNLSATNDSTILDKVILPQLSRLGHLARSRHSADICAVPAESHIYREGCAQGLQKWLHNNLISIVGICLGVGLLELGFMTLSIFLCRNLDHVYNRLARYR
+PTM	Glycosylation:183,188;Methylation:12,40,59,81,125,129,195;Phosphorylation:9,274;SUMOylation:81

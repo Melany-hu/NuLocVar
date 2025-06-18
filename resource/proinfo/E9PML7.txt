@@ -1,0 +1,25 @@
+UniprotID	E9PML7
+Accession	E9PML7
+EntryName	E9PML7_HUMAN
+ProteinName	deoxyribose-phosphate aldolase (EC 4.1.2.4) (2-deoxy-D-ribose 5-phosphate aldolase) (Phosphodeoxyriboaldolase)
+GeneName	DERA
+Length	236
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAHNRGTELARWLENPTTQKTKPKTNNPQADLSWISKIQVNHPAVLRRAEQIQARRTVKKEWQAAWLLKAVTFIDLTTLSGDDTSSNIQRLCYKAKYPIREDLLKALNMHDKGITTAAVCVYPARVCDAVKALKAAGCNIPVASVAAGFPAGQTHLKTRLEEIRLAVEDGATEIDVVINRSLVLTGQWEALYDEIRQFRKACGEAHLKTILATGELGTLTNVYKASMIAMMAGSD
+PTM	

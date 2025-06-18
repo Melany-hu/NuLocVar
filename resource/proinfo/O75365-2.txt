@@ -1,0 +1,25 @@
+UniprotID	O75365-2
+Accession	O75365;Q8IVN5;Q99849;Q9BTW5
+EntryName	TP4A3_HUMAN
+ProteinName	Protein tyrosine phosphatase type IVA 3 (EC 3.1.3.48) (PRL-R) (Protein-tyrosine phosphatase 4a3) (Protein-tyrosine phosphatase of regenerating liver 3) (PRL-3)
+GeneName	PTP4A3 PRL3
+Length	148
+Function	Protein tyrosine phosphatase which stimulates progression from G1 into S phase during mitosis. Enhances cell proliferation, cell motility and invasive activity, and promotes cancer metastasis. May be involved in the progression of cardiac hypertrophy by inhibiting intracellular calcium mobilization in response to angiotensin II.
+Subcellular Location	Cell membrane; Early endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MARMNRPAPVEVSYKHMRFLITHNPTNATLSTFIEDLKKYGATTVVRVCEVTYDKTPLEKDGITVVDWPFDDGAPPPGKVVEDWLSLVKAKFCEAPGSCVAVHCVAGLGRKRRGAINSKQLTYLEKYRPKQRLRFKDPHTHKTRCCVM
+PTM	Acetylation:79;Methylation:89;Phosphorylation:13;Ubiquitylation:144

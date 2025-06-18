@@ -1,0 +1,25 @@
+UniprotID	A0A3B3IS60
+Accession	A0A3B3IS60
+EntryName	A0A3B3IS60_HUMAN
+ProteinName	Zinc finger protein 385C
+GeneName	ZNF385C
+Length	175
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEGQRGAPRRSRGRPVSRGGAGHKAKRVTGGRGGRQGPSPAFHCALCQLQVNSETQLKQHMSSRRHKDRLAGKTPKPSSQHSKLQKHAALAVSILKSKLALQKQLTKTLAARFLPSPLPTAATAICALPGPLALRPAPTAATTLFPAPILGPALFRTPAGAVRPATGPIVLAPY
+PTM	

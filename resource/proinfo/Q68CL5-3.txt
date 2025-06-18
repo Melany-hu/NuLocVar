@@ -1,0 +1,25 @@
+UniprotID	Q68CL5-3
+Accession	Q68CL5;B4DIX2;K7EIJ9;Q4KN59;Q8WTU3;Q96BT9;Q9Y435
+EntryName	TPGS2_HUMAN
+ProteinName	Tubulin polyglutamylase complex subunit 2 (PGs2)
+GeneName	TPGS2 C18orf10 HMFN0601 L17
+Length	227
+Function	Subunit of the tubulin polyglutamylase complex (TPGC). The complex mediates cilia and flagella polyglutamylation which is essential for their biogenesis and motility.
+Subcellular Location	Cytoplasm; Cytoskeleton; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Centriolar satellite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEEASSPGLGCSKPHLEKLTLGITRILESSPGVTEVTIIEKPPAERHMISSWEQKNNCVMPEDVKNFYLMTNGFHMTWSVKLDEHIIPLGSMAINSISKLTQLTQSSMYSLPNAPTLADLEDDTHEASDDQPEKPHFDSRSVIFELDSCNGSGKVCLVYKSGKPALAEDTEIWFLDRALYWHFLTDTFTAYYRLLITHLGLPQWQYAFTSYGISPQAKVREEHLPL
+PTM	Methylation:42,66;Phosphorylation:52,286,287;SUMOylation:14,42,56,66,135,245,257,274;Ubiquitylation:42,135,161,164

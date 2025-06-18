@@ -1,0 +1,25 @@
+UniprotID	B7ZM74
+Accession	B7ZM74
+EntryName	B7ZM74_HUMAN
+ProteinName	LOC441476 protein (Sperm-tail PG-rich repeat containing 3)
+GeneName	STPG3 LOC441476
+Length	253
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMNSDQKAVKFLANFYINGGKHWTHGHLRQTQPEPTQPKASVLLLGPEPGMAWDETQPPKMKEIPVGLRLQTGTPQESLPTYTQTLRELLLEQRPLITADLEVPSPTRYQVPSPSVRESSPHPHYSIGCKHQGREGGGRRAWQTLWFQSESPFTQKADFDQEQKASLQAPGKRCPGPNTYNILPGSRLQSPRSPAFSMSRSPAFTSWLSTSRTPGPAAYHVEDCNSRFPSAPGVVIQGVRRPKRHDTGPFCTL
+PTM	

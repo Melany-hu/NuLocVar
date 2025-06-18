@@ -1,0 +1,25 @@
+UniprotID	Q9H267-2
+Accession	Q9H267;B3KQF6;Q96K14;Q9NRP6;Q9NSF3
+EntryName	VP33B_HUMAN
+ProteinName	Vacuolar protein sorting-associated protein 33B (hVPS33B)
+GeneName	VPS33B
+Length	526
+Function	May play a role in vesicle-mediated protein trafficking to lysosomal compartments and in membrane docking/fusion reactions of late endosomes/lysosomes. Required for proper trafficking and targeting of the collagen-modifying enzyme lysyl hydroxylase 3 (LH3) to intracellular collagen (PubMed:28017832). Mediates phagolysosomal fusion in macrophages (PubMed:18474358). Proposed to be involved in endosomal maturation implicating VIPAS39. In epithelial cells, the VPS33B:VIPAS39 complex may play a role in the apical recycling pathway and in the maintenance of the apical-basolateral polarity (PubMed:20190753). Seems to be involved in the sorting of specific cargos from the trans-Golgi network to alpha-granule-destined multivesicular bodies (MVBs) promoting MVBs maturation in megakaryocytes (By similarity).
+Subcellular Location	Late endosome membrane; Lysosome membrane; Early endosome; Cytoplasmic vesicle; Clathrin-coated vesicle; Recycling endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRYIASLVNADKLAGRTRKYKVIFSPQKFYACEMVLEEEGIYGDVSCDEWAFSLLPLDVDLLSMELPEFFRDYFLEGDQRWINTVAQALHLLSTLYGPFPNCYGIGRCAKMAYELWRNLEEEEDGETKGRRPEIGHIFLLDRDVDFVTALCSQVVYEGLVDDTFRIKCGSVDFGPEVTSSDKSLKVLLNAEDKVFNEIRNEHFSNVFGFLSQKARNLQAQYDRRRGMDIKQMKNFVSQELKGLKQEHRLLSLHIGACESIMKKKTKQDFQELIKTEHALLEGFNIRESTSYIEEHIDRQVSPIESLRLMCLLSITENGLIPKDYRSLKTQYLQSYGPEHLLTFSNLRRAGLLTEQAPGDTLTAVESKVSKLVTDKAAGKITDAFSSLAKRSNFRAISKKLNLIPRVDGEYDLKVPRDMAYVFGGAYVPLSCRIIEQVLERRSWQGLDEVVRLLNCSDFAFTDMTKEDKASSESLRLILVVFLGGCTFSEISALRFLGREKGYRFIFLTTAVTNSARLMEAMSEVKA
+PTM	Acetylation:321,466,470,504;Methylation:59,65,332,353,365,470;Phosphorylation:56,269,328,600,603;SUMOylation:365;Ubiquitylation:219,332,357,458,490,504,559

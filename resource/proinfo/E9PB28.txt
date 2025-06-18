@@ -1,0 +1,25 @@
+UniprotID	E9PB28
+Accession	E9PB28
+EntryName	E9PB28_HUMAN
+ProteinName	Hes family bHLH transcription factor 4
+GeneName	HES4
+Length	247
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAADTPGKPSASPMAGAPASASRTPDKPRSAAEHRKVGSRPGVRGATGGREGRGTQPVPDPQSSKPVMEKRRRARINESLAQLKTLILDALRKESSRHSKLEKADILEMTVRHLRSLRRVQVTAALSADPAVLGKYRAGFHECLAEVNRFLAGCEGVPADVRSRLLGHLAACLRQLGPSRRPASLSPAAPAEAPAPEVYAGRPLLPSLGGPFPLLAPPLLPGLTRALPAAPRAGPQGPGGPWRPWLR
+PTM	

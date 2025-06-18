@@ -1,0 +1,25 @@
+UniprotID	Q9H6P5-2
+Accession	Q9H6P5;B7Z690;B7Z963;Q5TDU9;Q9BQN0;Q9NQ08;Q9NTS6;Q9NXJ2
+EntryName	TASP1_HUMAN
+ProteinName	Threonine aspartase 1 (Taspase-1) (EC 3.4.25.-) [Cleaved into: Threonine aspartase subunit alpha; Threonine aspartase subunit beta]
+GeneName	TASP1 C20orf13
+Length	129
+Function	Protease responsible for KMT2A/MLL1 processing and activation (PubMed:14636557). It also activates KMT2D/MLL2 (By similarity). Through substrate activation, it controls the expression of HOXA genes, and the expression of key cell cycle regulators including CCNA1, CCNB1, CCNE1 and CDKN2A (By similarity) (PubMed:14636557).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	197...220
+SeqNLSPMID	21418451
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTMEKGMSSGEGLPSRSSQVSAGKITAKELETKQSYKEKRGGFVLVHAGAGYHSESKAKEYKHVCKRACQKAIEKLQAGALATDAVTAALVELEVYTHSYTSWSCIQPSIHVLLVKRQRKSPLPRISTF
+PTM	Acetylation:24;Methylation:75,137,197,258;Phosphorylation:54;SUMOylation:24,137,217

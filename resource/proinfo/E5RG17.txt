@@ -1,0 +1,25 @@
+UniprotID	E5RG17
+Accession	E5RG17
+EntryName	E5RG17_HUMAN
+ProteinName	Deoxyribonuclease TATDN1
+GeneName	TATDN1
+Length	322
+Function	Deoxyribonuclease which catalyzes (in vitro) the decatenation of kinetoplast DNA, which are circular DNA catenated to each other, producing linear DNA molecules. Plays an important role in chromosomal segregation and cell cycle progression during eye development probably via its DNA decatenation activity.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	161...165
+validnes_region	
+nesbase_region	
+Sequence	MSRFKFIDIGINLTDPMFRGIYRGVQKHQDDLQDVIGRAVEIGVKKFMITGGNLQDSKDALHLAQTNGMFFSTVGCHPTRCGEFEKNNPDLYLKELLNLAENNKGKVVAIGECGLDFDRLQFCPKDTQLKYFEKQFELSEQTKLPMFLHCRNSHAEFLDIMKRNRDRCVGGVVHSFDGTKEAAAALIDLDLYIGFNALCIHIHVISDYGRTVYSVTVIHLCSQRNRGSKKLGNSSLKTEANLEVLKSIPSEKLMIETDAPWCGVKSTHAGSKYIRTAFPTKKKWESGHCLKDRNEPCHIIQILEIMSAVRDEDPLELANTLY
+PTM	

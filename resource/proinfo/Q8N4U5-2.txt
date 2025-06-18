@@ -1,0 +1,25 @@
+UniprotID	Q8N4U5-2
+Accession	Q8N4U5;B2RA65;G3V1Y9
+EntryName	T11L2_HUMAN
+ProteinName	T-complex protein 11-like protein 2
+GeneName	TCP11L2
+Length	266
+Function	Promotes the migration of muscle-derived satellite cells (MDSCs) during differentiation throught interaction with FMNL2 and therefore may participate in microfilament assembly.
+Subcellular Location	Cytoplasm; Cytoskeleton
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPFNGEKQCVGEDQPSDSDSSRFSESMASLSDYECSRQSFASDSSSKSSSPASTSPPRVVTFDEVMATARNLSNLTLAHEIAVNENFQLKQEALPEKSLAGRVKHIVHQAFWDVLDSELNADPPEFEHAIKLFEEIREILLSFLTPGGNRLRNQICEVLDTDLIRQQAEHSAVDIQGLANYVISTMGKLCAPVRDNDIRELKATGNIVEVLRQIFHVLDLMQMDMANFTIMSLRPHLQRQLVEYERTKFQEILEETPRKAEVAGAS
+PTM	Methylation:335,402,440,501;Phosphorylation:44,45,48,50,55,244

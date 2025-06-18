@@ -1,0 +1,25 @@
+UniprotID	W4VSQ8
+Accession	W4VSQ8
+EntryName	W4VSQ8_HUMAN
+ProteinName	Nudix (Nucleoside diphosphate linked moiety X)-type motif 16-like 1, isoform CRA_b (Nudix hydrolase 16 like 1)
+GeneName	NUDT16L1 hCG_15176
+Length	192
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTAAVPELKQISRVEAMRLGPGWSHSCHAMLYAANPGQLFGRIPMRFSVLMQMRFDGLLGFPGGFVDRRFWSLEDGLNRVLGLGLGCLRLTEADYLSSHLTEGPHRVVAHLYARQLTLEQLHAVEISAVHSRDHGLEVGPPPGPRPPPRGLALAPWKAPMGAGPRAGPAVHPEGPSRRLPQLPEQRLREHG
+PTM	

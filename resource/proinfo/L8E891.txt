@@ -1,0 +1,25 @@
+UniprotID	L8E891
+Accession	L8E891
+EntryName	L8E891_HUMAN
+ProteinName	Alternative protein OXER1
+GeneName	OXER1
+Length	80
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	61...66
+validnes_region	
+nesbase_region	
+Sequence	MPGGGDRQGAVGTPAQTGACAAAGDRRQSLSQQSHLRNWTAACSVLSSLSLPILINFPFKYKKKKKKKKKKKKKKKKKKK
+PTM	

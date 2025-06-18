@@ -1,0 +1,25 @@
+UniprotID	P50991-2
+Accession	P50991;B2R6I3;B7Z8B1;F5H5W3;O14870;Q53QP9;Q96C51
+EntryName	TCPD_HUMAN
+ProteinName	T-complex protein 1 subunit delta (TCP-1-delta) (CCT-delta) (Chaperonin containing T-complex polypeptide 1 subunit 4) (Stimulator of TAR RNA-binding)
+GeneName	CCT4 CCTD SRB
+Length	509
+Function	Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis (PubMed:25467444). The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance (PubMed:25467444). As part of the TRiC complex may play a role in the assembly of BBSome, a complex involved in ciliogenesis regulating transports vesicles to the cilia (PubMed:20080638). The TRiC complex plays a role in the folding of actin and tubulin (Probable).
+Subcellular Location	Cytoplasm; Melanosome; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Cilium basal body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPENVAPRSGATAGAAGGRGKGAYQDRDKPAQIRFSNISAAKAVADAIRTSLGPKGMDKMLVELSKAQDIEAGDGTTSVVIIAGSLLDSCTKLLQKGIHPTIISESFQKALEKGIEILTDMSRPVELSDRETLLNSATTSLNSKVVSQYSSLLSPMSVNAVMKVIDPATATSVDLRDIKIVKKLGGTIDDCELVEGLVLTQKVSNSGITRVEKAKIGLIQFCLSAPKTDMDNQIVVSDYAQMDRVLREERAYILNLVKQIKKTGCNVLLIQKSILRDALSDLALHFLNKMKIMVIKDIEREDIEFICKTIGTKPVAHIDQFTADMLGSAELAEEVNLNGSGKLLKITGCASPGKTVTIVVRGSNKLVIEEAERSIHDALCVIRCLVKKRALIAGGGAPEIELALRLTEYSRTLSGMESYCVRAFADAMEVIPSTLAENAGLNPISTVTELRNRHAQGEKTAGINVRKGGISNILEELVVQPLLVSVSALTLATETVRSILKIDDVVNTR
+PTM	Acetylation:21,29,55,79,126,139,209,213,232,288,291,302,319,321,326,338,375,395,489,531;Methylation:8,19,27,42,49,55,79,96,122,126,139,143,160,174,206,213,232,274,288,302,319,326,338;Phosphorylation:12,24,36,39,50,51,170,199,201,202,234,236,239,254,269,303,377,381,385,442,444,448,449,538;SUMOylation:29,42,55,65,79,126,209,232,257,288,292,319,375,384;Ubiquitylation:21,29,42,55,59,65,79,122,126,139,209,213,232,257,288,292,302,319,321,326,375,384,395,489,531

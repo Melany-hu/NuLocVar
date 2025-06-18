@@ -1,0 +1,25 @@
+UniprotID	Q03113-2
+Accession	Q03113;A4D204;B3KXS2;B7Z3F7;Q2T9L1;Q5PPR5;Q86UM8;Q8TD71;Q9UDU9
+EntryName	GNA12_HUMAN
+ProteinName	Guanine nucleotide-binding protein subunit alpha-12 (G alpha-12) (G-protein subunit alpha-12)
+GeneName	GNA12
+Length	322
+Function	Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling systems (PubMed:12515866, PubMed:15240885, PubMed:15525651, PubMed:16705036, PubMed:16787920, PubMed:17565996, PubMed:22609986, PubMed:23762476, PubMed:27084452). Activates effector molecule RhoA by binding and activating RhoGEFs (ARHGEF12/LARG) (PubMed:12515866, PubMed:15240885, PubMed:16202387). GNA12-dependent Rho signaling subsequently regulates transcription factor AP-1 (activating protein-1) (By similarity). GNA12-dependent Rho signaling also regulates protein phosphatese 2A activation causing dephosphorylation of its target proteins (PubMed:15525651, PubMed:17565996). Promotes tumor cell invasion and metastasis by activating RhoA/ROCK signaling pathway and up-regulating pro-inflammatory cytokine production (PubMed:16705036, PubMed:16787920, PubMed:23762476, PubMed:27084452). Inhibits CDH1-mediated cell adhesion in process independent from Rho activation (PubMed:11976333, PubMed:16787920). Together with NAPA promotes CDH5 localization to plasma membrane (PubMed:15980433). May play a role in the control of cell migration through the TOR signaling cascade (PubMed:22609986).
+Subcellular Location	Cell membrane; Lateral cell membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKRRMFPRPCLARMPGSRGSGSTPDGNRKCCRFEHLLIAHPGSRGSRVLVDARDKLGIPWQYSENEKHGMFLMAFENKAGLPVEPATFQLYVPALSALWRDSGIREAFSRRSEFQLGESVKYFLDNLDRIGQLNYFPSKQDILLARKATKGIVEHDFVIKKIPFKMVDVGGQRSQRQKWFQCFDGITSILFMVSSSEYDQVLMEDRRTNRLVESMNIFETIVNNKLFFNVSIILFLNKMDLLVEKVKTVSIKKHFPDFRGDPHRLEDVQRYLVQCFDRKRRNRSKPLFHHFTTAIDTENVRFVFHAVKDTILQENLKDIMLQ
+PTM	Methylation:70,103,137,219,297,304;Phosphorylation:9,27,40,68,279,343,369;Ubiquitylation:126,198,219,306,376

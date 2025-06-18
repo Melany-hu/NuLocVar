@@ -1,0 +1,25 @@
+UniprotID	Q9NQR1-2
+Accession	Q9NQR1;A8K9D0;Q86W83;Q8TD09
+EntryName	KMT5A_HUMAN
+ProteinName	N-lysine methyltransferase KMT5A (EC 2.1.1.-) (H4-K20-HMTase KMT5A) (Histone-lysine N-methyltransferase KMT5A) (EC 2.1.1.361) (Lysine N-methyltransferase 5A) (Lysine-specific methylase 5A) (PR/SET domain-containing protein 07) (PR-Set7) (PR/SET07) (SET domain-containing protein 8)
+GeneName	KMT5A PRSET7 SET07 SET8 SETD8
+Length	352
+Function	Protein-lysine N-methyltransferase that monomethylates both histones and non-histone proteins (PubMed:12086618, PubMed:12121615, PubMed:15964846, PubMed:17707234, PubMed:27338793). Specifically monomethylates 'Lys-20' of histone H4 (H4K20me1) (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599, PubMed:27338793). H4K20me1 is enriched during mitosis and represents a specific tag for epigenetic transcriptional repression (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599). Mainly functions in euchromatin regions, thereby playing a central role in the silencing of euchromatic genes (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599). Required for cell proliferation, probably by contributing to the maintenance of proper higher-order structure of DNA during mitosis (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599). Involved in chromosome condensation and proper cytokinesis (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599). Nucleosomes are preferred as substrate compared to free histones (PubMed:12086618, PubMed:12121615, PubMed:15200950, PubMed:15933069, PubMed:15933070, PubMed:15964846, PubMed:16517599). Mediates monomethylation of p53/TP53 at 'Lys-382', leading to repress p53/TP53-target genes (PubMed:17707234). Plays a negative role in TGF-beta response regulation and a positive role in cell migration (PubMed:23478445).
+Subcellular Location	Nucleus; Chromosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	154...159;93...98
+validnes_region	
+nesbase_region	
+Sequence	MARGRKMSKPRAVEAAAAAAAVAATAPGPEMVERRGPGRPRTDGENVFTGQSKIYSYMSPNKCSGMRFPLQEENSVTHHEVKCQGKPLAGIYRKREEKRNAGNAVRSAMKSEEQKIKDARKGPLVPFPNQKSEAAEPPKTPPSSCDSTNAAIAKQALKKPIKGKQAPRKKAQGKTQQNRKLTDFYPVRRSSRKSKAELQSEERKRIDELIESGKEEGMKIDLIDGKGRGVIATKQFSRGDFVVEYHGDLIEITDAKKREALYAQDPSTGCYMYYFQYLSKTYCVDATRETNRLGRLINHSKCGNCQTKLHDIDGVPHLILIASRDIAAGEELLYDYGDRSKASIEAHPWLKH
+PTM	Methylation:199,267;Phosphorylation:96,98,100,181,189,223,232,253,341;SUMOylation:94,103,123,151,156,172,221,245;Ubiquitylation:236,245,255,260,267,275,297,298,342,392

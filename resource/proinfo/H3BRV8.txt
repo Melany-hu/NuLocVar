@@ -1,0 +1,25 @@
+UniprotID	H3BRV8
+Accession	H3BRV8
+EntryName	H3BRV8_HUMAN
+ProteinName	VPS35 endosomal protein-sorting factor-like
+GeneName	VPS35L
+Length	95
+Function	
+Subcellular Location	Endosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLTPSPCLQPLLTPQPWQLPCSRRKRDRDDNSVVGSDFEPWTNKRGEILARYTTTEKLSINLFMGSEKGKAGTATLAMSEKVRTRLEELDDFEE
+PTM	

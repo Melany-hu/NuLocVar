@@ -1,0 +1,25 @@
+UniprotID	P12830-2
+Accession	P12830;A8K1U7;Q13799;Q14216;Q15855;Q16194;Q4PJ14;Q9UII8
+EntryName	CADH1_HUMAN
+ProteinName	Cadherin-1 (CAM 120/80) (Epithelial cadherin) (E-cadherin) (Uvomorulin) (CD antigen CD324) [Cleaved into: E-Cad/CTF1; E-Cad/CTF2; E-Cad/CTF3]
+GeneName	CDH1 CDHE UVO
+Length	821
+Function	Cadherins are calcium-dependent cell adhesion proteins (PubMed:11976333). They preferentially interact with themselves in a homophilic manner in connecting cells; cadherins may thus contribute to the sorting of heterogeneous cell types. CDH1 is involved in mechanisms regulating cell-cell adhesions, mobility and proliferation of epithelial cells (PubMed:11976333). Promotes organization of radial actin fiber structure and cellular response to contractile forces, via its interaction with AMOTL2 which facilitates anchoring of radial actin fibers to CDH1 junction complexes at the cell membrane (By similarity). Plays a role in the early stages of desmosome cell-cell junction formation via facilitating the recruitment of DSG2 and DSP to desmosome plaques (PubMed:29999492). Has a potent invasive suppressor role. It is a ligand for integrin alpha-E/beta-7.
+Subcellular Location	Cell junction; Adherens junction; Cell membrane; Endosome; Golgi apparatus; trans-Golgi network; Cytoplasm; Cell junction; Desmosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPWSRSLSALLLLLQVSSWLCQEPEPCHPGFDAESYTFTVPRRHLERGRVLGRVNFEDCTGRQRTAYFSLDTRFKVGTDGVITVKRPLRFHNPQIHFLVYAWDSTYRKFSTKVTLNTVGHHHRPPPHQASVSGIQAELLTFPNSSPGLRRQKRDWVIPPISCPENEKGPFPKNLVQIKSNKDKEGKVFYSITGQGADTPPVGVFIIERETGWLKVTEPLDRERIATYTLFSHAVSSNGNAVEDPMEILITVTDQNDNKPEFTQEVFKGSVMEGALPGTSVMEVTATDADDDVNTYNAAIAYTILSQDPELPDKNMFTINRNTGVISVVTTGLDRESFPTYTLVVQAADLQGEGLSTTATAVITVTDTNDNPPIFNPTTGLDFEAKQQYILHVAVTNVVPFEVSLTTSTATVTVDVLDVNEAPIFVPPEKRVEVSEDFGVGQEITSYTAQEPDTFMEQKITYRIWRDTANWLEINPDTGAISTRAELDREDFEHVKNSTYTALIIATDNGSPVATGTGTLLLILSDVNDNAPIPEPRTIFFCERNPKPQVINIIDADLPPNTSPFTAELTHGASANWTIQYNDPTQESIILKPKMALEVGDYKINLKLMDNQNKDQVTTLEVSVCDCEGAAGVCRKAQPVEAGLQIPAILGILGGILALLILILLLLLFLRRRAVVKEPLLPPEDDTRDNVYYYDEEGGGEEDQDFDLSQLHRGLDARPEVTRNDVAPTLMSVPRYLPRPANPDEIGNFIDENLKAADTDPTAPPYDSLLVFDYEGSGSEAASLSSLNSSESDKDQDYDYLNEWGNRFKKLADMYGGGEDD
+PTM	Acetylation:86;Glycosylation:637;Methylation:86,179,437,653,668,816;Phosphorylation:748,753,755,770,790,793,797;Ubiquitylation:738,871

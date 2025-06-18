@@ -1,0 +1,25 @@
+UniprotID	P55197-3
+Accession	P55197;B1ANA8;Q5JT37;Q5VX90;Q66K63
+EntryName	AF10_HUMAN
+ProteinName	Protein AF-10 (ALL1-fused gene from chromosome 10 protein)
+GeneName	MLLT10 AF10
+Length	179
+Function	Probably involved in transcriptional regulation. In vitro or as fusion protein with KMT2A/MLL1 has transactivation activity. Binds to cruciform DNA. In cells, binding to unmodified histone H3 regulates DOT1L functions including histone H3 'Lys-79' dimethylation (H3K79me2) and gene activation (PubMed:26439302).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVSSDRPVSLEDEVSHSMKEMIGGCCVCSDERGWAENPLVYCDGHGCSVAVHQACYGIVQVPTGPWFCRKCESQERAARVMVCNSCWLASSENVTPGYIEHHCACASPHPRCLVSNVPPVSGALMHCFWACLTTAAFFGPQSFTTCHMSFLVSRDILFYIYGFMPFISVVIWRFKKERW
+PTM	Acetylation:280,305,451,1059;Methylation:280,762;Phosphorylation:196,215,217,219,220,221,223,252,258,260,263,266,276,278,313,324,325,346,370,388,396,404,406,413,415,416,432,436,443,444,456,497,499,519,521,679,680,684,686,689,692,693,704,705,790;SUMOylation:280,401;Ubiquitylation:135

@@ -1,0 +1,25 @@
+UniprotID	O00292-2
+Accession	O00292;B3KNH4;B4E332;E9PDM4;O75611;Q5TE89;Q8NBQ9
+EntryName	LFTY2_HUMAN
+ProteinName	Left-right determination factor 2 (Endometrial bleeding-associated factor) (Left-right determination factor A) (Protein lefty-2) (Protein lefty-A) (Transforming growth factor beta-4) (TGF-beta-4)
+GeneName	LEFTY2 EBAF LEFTA LEFTYA TGFB4 PSEC0024
+Length	332
+Function	Required for left-right (L-R) asymmetry determination of organ systems in mammals. May play a role in endometrial bleeding.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPLWLCWALWVLPLAGPGAALTEEQLLGSLLRQLQLSEVPVLDRADMEKLVIPAHVRAQYVVLLRRSHGDRSRGKRFSQSFREVAGRFLASEAALHRHGRLSPRSAQARVTVEWLRVRDDGSNRTSLIDSRLVSVHESGWKAFDVTEAVNFWQQLSRPRQPLLLQVSVQREHLGPLASGAHKLVRFASQGAPAGLGEPQLELHTLDLRDYGAQGDCDPEAPMTEGTRCCRQEMYIDLQGMKWAKNWVLEPPGFLAYECVGTCQQPPEALAFNWPFLGPRQCIASETASLPMIVSIKEGGRTRPQVVSLPNMRVQKCSCASDGALVPRRLQP
+PTM	Phosphorylation:38,79

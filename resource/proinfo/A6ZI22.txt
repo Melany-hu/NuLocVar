@@ -1,0 +1,25 @@
+UniprotID	A6ZI22
+Accession	A6ZI22
+EntryName	A6ZI22_HUMAN
+ProteinName	Steroid 21-hydroxylase
+GeneName	CYP21A2
+Length	32
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	VVVVVVLNSKRTIEEAMVKKWADFAGRPEPLT
+PTM	

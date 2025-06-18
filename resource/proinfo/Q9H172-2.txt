@@ -1,0 +1,25 @@
+UniprotID	Q9H172-2
+Accession	Q9H172;A8K1B5;Q8WWH0;Q8WWH1;Q8WWH2
+EntryName	ABCG4_HUMAN
+ProteinName	ATP-binding cassette sub-family G member 4 (EC 7.6.2.-)
+GeneName	ABCG4 WHITE2
+Length	585
+Function	ATP-dependent transporter of the ATP-binding cassette (ABC) family that may be involved in the cellular efflux of sterols, in particular cholesterol and desmosterol (a cholesterol precursor), to high-density lipoprotein (HDL) (PubMed:15240127, PubMed:33141061). May play an important role in the removal of amyloid-beta peptides from brain, in a process that can be antagonized by desmosterol. However it is unclear whether ABCG4 can directly transport amyloid-beta peptides or whether peptide export may be facilitated due to changes in the membrane lipid environment (By similarity). Induces apoptosis in various cells (PubMed:27228027).
+Subcellular Location	Cell membrane; Cytoplasmic vesicle membrane; Endosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRDLELREVKQLARGHTAGYKTLLKCLSGKFCRRELIGIMGPSGAGKSTFMNILAGYRESGMKGQILVNGRPRELRTFRKMSCYIMQDDMLLPHLTVLEAMMVSANLKLSEKQEVKKELVTEILTALGLMSCSHTRTALLSGGQRKRLAIALELVNNPPVMFFDEPTSGLDSASCFQVVSLMKSLAQGGRTIICTIHQPSAKLFEMFDKLYILSQGQCIFKGVVTNLIPYLKGLGLHCPTYHNPADFIIEVASGEYGDLNPMLFRAVQNGLCAMAEKKSSPEKNEVPAPCPPCPPEVDPIESHTFATSTLTQFCILFKRTFLSILRDTVLTHLRFMSHVVIGVLIGLLYLHIGDDASKVFNNTGCLFFSMLFLMFAALMPTVLTFPLEMAVFMREHLNYWYSLKAYYLAKTMADVPFQVVCPVVYCSIVYWMTGQPAETSRFLLFSALATATALVAQSLGLLIGAASNSLQVATFVGPVTAIPVLLFSGFFVSFKTIPTYLQWSSYLSYVRYGFEGVILTIYGMERGDLTCLEERCPFREPQSILRALDVEDAKLYMDFLVLGIFFLALRLLAYLVLRYRVKSER
+PTM	Methylation:169,244,379;Phosphorylation:45,89,182,186,192,604

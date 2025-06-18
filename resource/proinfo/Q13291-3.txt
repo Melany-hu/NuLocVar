@@ -1,0 +1,25 @@
+UniprotID	Q13291-3
+Accession	Q13291;Q5W172;Q9HBE8;W0HKK7
+EntryName	SLAF1_HUMAN
+ProteinName	Signaling lymphocytic activation molecule (CDw150) (IPO-3) (SLAM family member 1) (CD antigen CD150)
+GeneName	SLAMF1 SLAM
+Length	305
+Function	Self-ligand receptor of the signaling lymphocytic activation molecule (SLAM) family. SLAM receptors triggered by homo- or heterotypic cell-cell interactions are modulating the activation and differentiation of a wide variety of immune cells and thus are involved in the regulation and interconnection of both innate and adaptive immune response. Activities are controlled by presence or absence of small cytoplasmic adapter proteins, SH2D1A/SAP and/or SH2D1B/EAT-2. SLAMF1-induced signal-transduction events in T-lymphocytes are different from those in B-cells. Two modes of SLAMF1 signaling seem to exist: one depending on SH2D1A (and perhaps SH2D1B) and another in which protein-tyrosine phosphatase 2C (PTPN11)-dependent signal transduction operates. Initially it has been proposed that association with SH2D1A prevents binding to inhibitory effectors including INPP5D/SHIP1 and PTPN11/SHP-2 (PubMed:11806999). However, signaling is also regulated by SH2D1A which can simultaneously interact with and recruit FYN which subsequently phosphorylates and activates SLAMF1 (PubMed:12458214). Mediates IL-2-independent proliferation of activated T-cells during immune responses and induces IFN-gamma production (By similarity). Downstreaming signaling involves INPP5D, DOK1 and DOK2 leading to inhibited IFN-gamma production in T-cells, and PRKCQ, BCL10 and NFKB1 leading to increased T-cell activation and Th2 cytokine production (By similarity). Promotes T-cell receptor-induced IL-4 secretion by CD4(+) cells (By similarity). Inhibits antigen receptor-mediated production of IFN-gamma, but not IL-2, in CD4(-)/CD8(-) T-cells (By similarity). Required for IL-4 production by germinal centers T follicular helper (T(Fh))cells (By similarity). May inhibit CD40-induced signal transduction in monocyte-derived dendritic cells (PubMed:16317102). May play a role in allergic responses and may regulate allergen-induced Th2 cytokine and Th1 cytokine secretion (By similarity). In conjunction with SLAMF6 controls the transition between positive selection and the subsequent expansion and differentiation of the thymocytic natural killer T (NKT) cell lineage. Involved in the peripheral differentiation of indifferent natural killer T (iNKT) cells toward a regulatory NKT2 type (By similarity). In macrophages involved in down-regulation of IL-12, TNF-alpha and nitric oxide in response to lipopolysaccharide (LPS) (By similarity). In B-cells activates the ERK signaling pathway independently of SH2D1A but implicating both, SYK and INPP5D, and activates Akt signaling dependent on SYK and SH2D1A (By similarity). In B-cells also activates p38 MAPK and JNK1 and JNK2 (PubMed:20231852). In conjunction with CD84/SLAMF5 and SLAMF6 may be a negative regulator of the humoral immune response (By similarity). Involved in innate immune response against Gram-negative bacteria in macrophages; probably recognizes OmpC and/or OmpF on the bacterial surface, regulates phagosome maturation and recruitment of the PI3K complex II (PI3KC3-C2) leading to accumulation of PdtIns(3)P and NOX2 activity in the phagosomes (PubMed:20818396).
+Subcellular Location	Cell membrane; Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDPKGLLSLTFVLFLSLAFGASYGTGGRMMNCPKILRQLGSKVLLPLTYERINKSMNKSIHIVVTMAKSLENSVENKIVSLDPSEAGPPRYLGDRYKFYLENLTLGIRESRKEDEGWYLMTLEKNVSVQRFCLQLRLYEQVSTPEIKVLNKTQENGTCTLILGCTVEKGDHVAYSWSEKAGTHPLNPANSSHLLSLTLGPQHADNIYICTVSNPISNNSQTFSPWPGCRTDPSGKTNHYQTTVEKKSLTIYAQVQKPGPLQKKLDSFPAQDPCTTIYVAATEPVPESVQETNSITVYASVTLPES
+PTM	Glycosylation:150,155;Methylation:124,151,286;Phosphorylation:281

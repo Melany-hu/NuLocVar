@@ -1,0 +1,25 @@
+UniprotID	E9PMD3
+Accession	E9PMD3
+EntryName	E9PMD3_HUMAN
+ProteinName	Cytochrome b5 reductase like
+GeneName	CYB5RL
+Length	138
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMAEREEDDDTEEAWMQLRPTEPLPSQCCGSGCSPCVFDLYHRDLARWEAAQASKDRSLLRGPESQSCPSKLNPETFVAFCIIAMDRLTKDTYRVRFALPGNSQLGLRPGQHLILRYTQVAGGPKLHSPALLFASCWP
+PTM	

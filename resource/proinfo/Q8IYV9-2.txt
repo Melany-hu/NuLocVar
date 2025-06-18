@@ -1,0 +1,25 @@
+UniprotID	Q8IYV9-2
+Accession	Q8IYV9;Q6Q8P6;Q6Q8P7
+EntryName	IZUM1_HUMAN
+ProteinName	Izumo sperm-egg fusion protein 1 (Oocyte binding/fusion factor) (OBF) (Sperm-specific protein izumo)
+GeneName	IZUMO1
+Length	194
+Function	Essential sperm cell-surface protein required for fertilization by acting as a ligand for IZUMO1R/JUNO receptor on egg. The IZUMO1:IZUMO1R/JUNO interaction is a necessary adhesion event between sperm and egg that is required for fertilization but is not sufficient for cell fusion. The ligand-receptor interaction probably does not act as a membrane 'fusogen'. Acts a ligand for the human-specific oolemma epitope FCRL3/MAIA during fertilization (PubMed:36070373). FCRL3/MAIA replaces IZUMO1R/JUNO as IZUMO1 receptor after sperm-egg adhesion, which permits species-specific gamete fusion (PubMed:36070373). Plays a critical role in sperm-oolemma binding prior to plasma membrane fusion. Can mediate cell-cell fusion in cultured mammalian cells independently of its binding to IZUMO1R/JUNO (By similarity).
+Subcellular Location	Cell membrane; Cytoplasmic vesicle; Secretory vesicle; Acrosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGPHFTLLCAALAGCLLPAEGCVICDPSVVLALKSLEKDYLPGHLDAKHHKAMMERVENAVKDFQELSLNEDAYMGVVDEATLQKGSWSLLKDLKRITDSDVKGDLFVKELFWMLHLQKETFATYVARFQKEAYCPNKCGVMLQTLIWCKNCKKEVHACRKSYDCGGERTGPSRRNWCRAECGSSSNGRHDPGL
+PTM	Methylation:34,38,48,85,92,109,212,323;Phosphorylation:89

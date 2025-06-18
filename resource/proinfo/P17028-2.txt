@@ -1,0 +1,25 @@
+UniprotID	P17028-2
+Accession	P17028;O14754;Q53YE4;Q6ICR5;Q8IZN4
+EntryName	ZNF24_HUMAN
+ProteinName	Zinc finger protein 24 (Retinoic acid suppression protein A) (RSG-A) (Zinc finger and SCAN domain-containing protein 3) (Zinc finger protein 191) (Zinc finger protein KOX17)
+GeneName	ZNF24 KOX17 ZNF191 ZSCAN3
+Length	193
+Function	Transcription factor required for myelination of differentiated oligodendrocytes. Required for the conversion of oligodendrocytes from the premyelinating to the myelinating state. In the developing central nervous system (CNS), involved in the maintenance in the progenitor stage by promoting the cell cycle. Specifically binds to the 5'-TCAT-3' DNA sequence (By similarity). Has transcription repressor activity in vitro.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSAQSVEEDSILIIPTPDEEEKILRVKLEEDPDGEEGSSIPWNHLPDPEIFRQRFRQFGYQDSPGPREAVSQLRELCRLWLRPETHTKEQILELVVLEQFVAILPKELQTWVRDHHPENGEEAVTVLEDLESELDDPGQPVSLRRRKREVLVEDMVSQEEAQGLPSSELDAVENQLKWASWELHSLRHCVIIP
+PTM	Acetylation:277,305,333,361;Methylation:56;Phosphorylation:2,5,10,16,38,39,63,132,142,157,166,185,246,274,279,291,292,302,317,330,335;SUMOylation:22,27,147,177,203,236,248,249,258,277,286,305,314,333,342,361;Ubiquitylation:27

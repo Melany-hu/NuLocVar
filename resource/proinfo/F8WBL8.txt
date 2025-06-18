@@ -1,0 +1,25 @@
+UniprotID	F8WBL8
+Accession	F8WBL8
+EntryName	F8WBL8_HUMAN
+ProteinName	Glutaminase 2
+GeneName	GLS2
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRSMKALQKALSRAGSHCGRGGWGHPSRSPLLGGGVRHHLSEAAAQGRETPHSHQPQHQDHDSSESGMLSRLGDLLFYTIAEGQERIPIHKFTTALKATGLQTSDPRLRDCMSEMHRVVQESSSGGLLDRDLFRKCCSISTKWLGMNTWVSAMPLLS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	P51161-2
+Accession	P51161;Q07DR7;Q8TBI3;Q9UGI7
+EntryName	FABP6_HUMAN
+ProteinName	Gastrotropin (GT) (Fatty acid-binding protein 6) (Ileal lipid-binding protein) (ILBP) (Intestinal 15 kDa protein) (I-15P) (Intestinal bile acid-binding protein) (I-BABP)
+GeneName	FABP6 ILBP ILLBP
+Length	177
+Function	Binds to bile acids and is involved in enterohepatic bile acid metabolism. Required for efficient apical to basolateral transport of conjugated bile acids in ileal enterocytes (By similarity). In vitro binds to bile acids in the order: deoxycholic acid > cholic acid > chenodeoxycholic acid and respective BA conjugation modifies affinities in the order taurine-conjugated > glycine-conjugated > unconjugated bile acids. Stimulates gastric acid and pepsinogen secretion (By similarity).
+Subcellular Location	Cytoplasm; Membrane; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKTVTMMMVVEMQALTQVLRAVLSACTWVSRKGDLQRMKQTHKGKPPSSMAFTGKFEMESEKNYDEFMKLLGISSDVIEKARNFKIVTEVQQDGQDFTWSQHYSGGHTMTNKFTVGKESNIQTMGGKTFKATVQMEGGKLVVNFPNYHQTSEIVGDKLVEVSTIGGVTYERVSKRLA
+PTM	

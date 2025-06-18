@@ -1,0 +1,25 @@
+UniprotID	Q86W11-3
+Accession	Q86W11;B4E0N0;Q6ZNB3;Q96PN3
+EntryName	ZSC30_HUMAN
+ProteinName	Zinc finger and SCAN domain-containing protein 30 (ZNF-WYM) (Zinc finger protein 397 opposite strand) (Zinc finger protein 397OS)
+GeneName	ZSCAN30 ZNF397OS
+Length	221
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGEATVLAYHAPEEQEGLLVVKVEEENYVLDQDFGLQENPWSQEVFRQKFRQFSYSDSTGPREALSRLRELCCQWLRPEVHSKEQILELLMLEQFLAILPEELQAWLREHRPENGEEAVTMLEELEKELEEPRQQDTTHGQEMFWQEMTSTGALKSLSLNSPVQPLENQCKTETQESQAFQERDGVSLCHPGWSAVVQPQLTAVALNPWVKVILLPQPPE
+PTM	Acetylation:315;Methylation:23,128,192,246;Phosphorylation:159,211,380,436;SUMOylation:172,197,236,246,315,405

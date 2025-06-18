@@ -1,0 +1,25 @@
+UniprotID	D6RA81
+Accession	D6RA81
+EntryName	D6RA81_HUMAN
+ProteinName	Odontogenic ameloblast-associated protein (Apin)
+GeneName	ODAM
+Length	253
+Function	Tooth-associated epithelia protein that probably plays a role in odontogenesis, the complex process that results in the initiation and generation of the tooth. May be incorporated in the enamel matrix at the end of mineralization process. Involved in the induction of RHOA activity via interaction with ARHGEF and expression of downstream factors such as ROCK. Plays a role in attachment of the junctional epithelium to the tooth surface.
+Subcellular Location	Cytoplasm; Nucleus; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKIIILLGFLGATLSAPLLLNLNNGQLLPLQLQGPLNSWIPPFSGILQQQQQAQIPGLSQFSLSALDQFAGLLPNQIPLTGEASFAQGAQAGQVDPLQLQTPPQTQPGPSHVMPYVFSFKMPQEQGQMFQYYPVYMVLPWEQPQQTVPRSPQQTRQQQYEEQIPFYAQFGYIPQLAEPAISGGQQQLAFDPQLGTAPEIAVMSTGEEIPYLQKEAINFRHDSAGVFMPSTSPKPSTTNVFTSAVDQTITPELP
+PTM	

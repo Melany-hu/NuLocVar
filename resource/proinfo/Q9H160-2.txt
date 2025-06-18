@@ -1,0 +1,25 @@
+UniprotID	Q9H160-2
+Accession	Q9H160;B6ZDS1;O95698
+EntryName	ING2_HUMAN
+ProteinName	Inhibitor of growth protein 2 (Inhibitor of growth 1-like protein) (ING1Lp) (p32) (p33ING2)
+GeneName	ING2 ING1L
+Length	240
+Function	Seems to be involved in p53/TP53 activation and p53/TP53-dependent apoptotic pathways, probably by enhancing acetylation of p53/TP53. Component of a mSin3A-like corepressor complex, which is probably involved in deacetylation of nucleosomal histones. ING2 activity seems to be modulated by binding to phosphoinositides (PtdInsPs).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	149...154;144...149
+validnes_region	
+nesbase_region	
+Sequence	MDQDGDQQLGPSRILAPQTLKEIDDVYEKYKKEDDLNQKKRLQQLLQRALINSQELGDEKIQIVTQMLELVENRARQMELHSQCFQDPAESERASDKAKMDSSQPERSSRRPRRQRTSESRDLCHMANGIEDCDDQPPKEKKSKSAKKKKRSKAKQEREASPVEFAIDPNEPTYCLCNQVSYGEMIGCDNEQCPIEWFHFSCVSLTYKPKGKWYCPKCRGDNEKTMDKSTEKTKKDRRSR
+PTM	Methylation:55,61,79,195;Phosphorylation:17,56,158,160;Ubiquitylation:257

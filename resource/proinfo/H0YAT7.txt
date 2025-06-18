@@ -1,0 +1,25 @@
+UniprotID	H0YAT7
+Accession	H0YAT7
+EntryName	H0YAT7_HUMAN
+ProteinName	Dystonin
+GeneName	DST
+Length	177
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	55...61;54...59;56...61
+validnes_region	
+nesbase_region	
+Sequence	XQLNQQKMLVSEIEMKQSKMDECQKYAEQYSATVKDYELQTMTYRAMVDSQQKSPVKRRRMQSSADLIIQEFMDLRTRYTALVTLMTQYIKFAGDSLKRLEEEEIAKNKQYDMHTEVTTLKQEKNPVPSAEEWMLEGCRASGGLKKGDFLKKGLEPETFQNFDGDHACSVRDDEFKF
+PTM	

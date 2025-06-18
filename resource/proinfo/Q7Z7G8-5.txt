@@ -1,0 +1,25 @@
+UniprotID	Q7Z7G8-5
+Accession	Q7Z7G8;C9JD30;Q709C6;Q709C7;Q7Z7G4;Q7Z7G5;Q7Z7G6;Q7Z7G7;Q8NB77;Q9NWV1;Q9Y4E7
+EntryName	VP13B_HUMAN
+ProteinName	Intermembrane lipid transfer protein VPS13B (Cohen syndrome protein 1) (Vacuolar protein sorting-associated protein 13B)
+GeneName	VPS13B CHS1 COH1 KIAA0532
+Length	415
+Function	Mediates the transfer of lipids between membranes at organelle contact sites (By similarity). Binds phosphatidylinositol 3-phosphate (By similarity). Functions as a tethering factor in the slow endocytic recycling pathway, to assist traffic between early and recycling endosomes (PubMed:24334764, PubMed:30962439, PubMed:32375900). Involved in the transport of proacrosomal vesicles to the nuclear dense lamina (NDL) during spermatid development (By similarity). Plays a role in the assembly of the Golgi apparatus, possibly by mediating trafficking to the Golgi membrane (PubMed:21865173). Plays a role in the development of the nervous system, and may be required for neuron projection development (PubMed:25492866, PubMed:32560273). May also play a role during adipose tissue development (PubMed:26358774). Required for maintenance of the ocular lens (By similarity).
+Subcellular Location	Recycling endosome membrane; Cytoplasmic vesicle; Secretory vesicle; Acrosome membrane; Golgi apparatus; cis-Golgi network membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane; Golgi apparatus; trans-Golgi network membrane; Early endosome membrane; Lysosome membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLESYVTPILMSYVNRYIKNLKPSDLQLSLWGGDVVLSKLELKLDVLEQELKLPFTFLSGHIHELRIHVPWTKLGSEPVVITINTMECILKLKDGIQDDHESCGSNSTNRSTAESTKSSIKPRRMQQAAPTDPDLPPGYVQSLIRRVVNNVNIVINNLILKYVEDDIVLSVNITSAECYTVGELWDRAFMDISATDLVLRKVINFSDCTVCLDKRNASGKIEFYQDPLLYKCSFRTRLHFTYENLNSKMPSVIKIHTLVESLKLSITDQQLPMFIRIMQLGIALYYGEIGNFKEGEIEDLTCHNKDMLGNITGSEDETRIDMQYPAQHKGQELYSQQDEEQPQGWVSWAWSFVPAIVSYDDGEEDFVGNDPASTMHQQKAQTLKDPIVSIGFYCTKATVTFKVGLFSCCLYLYQL
+PTM	Acetylation:3527;Methylation:52,161,201,384,572,841,859,1169,1336,1459,1575,1582,1603,1985,2049,2052,2068,2194,2388,2586,2714,2803,2917,3182,3272,3276,3702,3808,3931;Phosphorylation:102,105,142,242,413,414,606,610,690,999,1002,1010,1014,1016,1018,1019,1023,1025,1027,1033,1043,1045,1048,1251,1252,1255,1262,1263,1334,1540,1541,1599,1674,1675,1794,1798,1800,1812,1815,1904,2048,2056,2106,2166,2399,2914,3051,3052,3617,3949;SUMOylation:617,3054;Ubiquitylation:562,613,888,1022,1239,1459,1603,1768,1802,1911,2294,2877,3282,3584

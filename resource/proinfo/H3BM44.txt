@@ -1,0 +1,25 @@
+UniprotID	H3BM44
+Accession	H3BM44
+EntryName	H3BM44_HUMAN
+ProteinName	NDRG family member 4
+GeneName	NDRG4
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XANLQLFWNMYNRPAPTQRAARGWARSTTPWRCPVEALDPADDAHVEAPPPSLRRLMFPLVYFCEGKGEEMGFCLKKMRGS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8IZ20-2
+Accession	Q8IZ20;Q5T141;Q5T146;Q5T147;Q5T149;Q8NEN4
+EntryName	ZN683_HUMAN
+ProteinName	Tissue-resident T-cell transcription regulator protein ZNF683 (Homolog of Blimp-1 in T-cell) (Hobit) (Zinc finger protein 683)
+GeneName	ZNF683
+Length	504
+Function	Transcription factor that mediates a transcriptional program in various innate and adaptive immune tissue-resident lymphocyte T-cell types such as tissue-resident memory T (Trm), natural killer (trNK) and natural killer T (NKT) cells and negatively regulates gene expression of proteins that promote the egress of tissue-resident T-cell populations from non-lymphoid organs. Plays a role in the development, retention and long-term establishment of adaptive and innate tissue-resident lymphocyte T cell types in non-lymphoid organs, such as the skin and gut, but also in other nonbarrier tissues like liver and kidney, and therefore may provide immediate immunological protection against reactivating infections or viral reinfection. Also plays a role in the differentiation of both thymic and peripheral NKT cells. Negatively regulates the accumulation of interferon-gamma (IFN-gamma) in NKT cells at steady state or after antigenic stimulation. Positively regulates granzyme B production in NKT cells after innate stimulation. Associates with the transcriptional repressor PRDM1/BLIMP1 to chromatin at gene promoter regions.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEESAAQLGCCHRPMALGGTGGSLSPSLDFQLFRGDQVFSACRPLPDMVDAHGPSCASWLCPLPLAPGRSALLACLQDLDLNLCTPQPAPLGTDLQGLQEDALSMKHEPPGLQASSTDDKKFTVKYPQNKDKLGKQPERAGEGAPCPAFSSHNSSSPPPLQNRKSPSPLAFCPCPPVNSISKELPFLLHAFYPGYPLLLPPPHLFTYGALPSDQCPHLLMLPQDPSYPTMAMPSLLMMVNELGHPSARWETLLPYPGAFQASGQALPSQARNPGAGAAPTDSPGLERGGMASPAKRVPLSSQTGTAALPYPLKKKNGKILYECNICGKSFGQLSNLKVHLRVHSGERPFQCALCQKSFTQLAHLQKHHLVHTGERPHKCSVCHKRFSSSSNLKTHLRLHSGARPFQCSVCRSRFTQHIHLKLHHRLHAPQPCGLVHTQLPLASLACLAQWHQGALDLMAVASEKHMGYDIDEVKVSSTSQGKARAVSLSSAGTPLVMGQDQNN
+PTM	Methylation:495;Phosphorylation:118,410,411,415,483,498,499,500

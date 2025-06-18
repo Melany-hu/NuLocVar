@@ -1,0 +1,25 @@
+UniprotID	Q5JVL4-3
+Accession	Q5JVL4;B4DMU3;F5GZD8;Q5XKM4;Q6E1U7;Q6E1U8;Q8WUL2;Q9NVW6
+EntryName	EFHC1_HUMAN
+ProteinName	EF-hand domain-containing protein 1 (Myoclonin-1)
+GeneName	EFHC1
+Length	621
+Function	Microtubule inner protein (MIP) part of the dynein-decorated doublet microtubules (DMTs) in cilia axoneme, which is required for motile cilia beating (PubMed:36191189). Microtubule-associated protein which regulates cell division and neuronal migration during cortical development (PubMed:19734894, PubMed:28370826). Necessary for radial and tangential cell migration during brain development, possibly acting as a regulator of cell morphology and process formation during migration (PubMed:22926142). May enhance calcium influx through CACNA1E and stimulate programmed cell death (PubMed:15258581, PubMed:19734894, PubMed:22926142, PubMed:28370826).
+Subcellular Location	Cytoplasm; Cytoskeleton; Cilium axoneme; Cytoplasm; Cytoskeleton; Flagellum axoneme; Cytoplasm; Cytoskeleton; Microtubule organizing center; Centrosome; Cytoplasm; Cytoskeleton; Spindle; Cytoplasm; Cytoskeleton; Spindle pole
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKTAFHRSQTLSYRNGYAIVRRPTVGIGGDRLQFNQLSQAELDELASKAPVLTYGQPKQAPPADFIPAHVAFDKKVLKFDAYFQEDVPMSTEEQYRIRQVNIYYYLEDDSMSVIEPVVENSGILQGKLIKRQRLAKNDRGDHYHWKDLNRGINITIYGKTFRVVDCDQFTQVFLESQGIELNPPEKMALDPYTELRKQPLRKYVTPSDFDQLKQFLTFDKQVLRFYAIWDDTDSMYGECRTYIIHYYLMDDTVEIREVHERNDGRDPFPLLMNRQRVPKVLVENAKNFPQCVLEISDQEVLEWYTAKDFIVGKSLTILGRTFFIYDCDPFTRRYYKEKFGITDLPRIDVSKREPPPVKQELPPYNGFGLVEDSAQNCFALIPKAPKKDVIKMLVNDNKVLRYLAVLESPIPEDKDRRFVFSYFLATDMISIFEPPVRNSGIIGGKYLGRTKVVKPYSTVDNPVYYGPSDFFIGAVIEVFGHRFIILDTDEYVLKYMESNAAQYSPEALASIQNHVRKREAPAPEAESKQTEKDPGVQELEALIDTIQKQLKDHSCKDNIREAFQIYDKEASGYVDRDMFFKICESLNVPVDDSLVKELIRMCSHGEGKINYYNFVRAFSN
+PTM	Methylation:68,233,299,411,465,568;Phosphorylation:102,115;SUMOylation:233,371,378

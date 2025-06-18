@@ -1,0 +1,25 @@
+UniprotID	H6WA51
+Accession	H6WA51
+EntryName	H6WA51_HUMAN
+ProteinName	Phosphatase and tensin-like protein (Phosphatase and tensin-like protein mutant variant 2) (Phosphatase and tensin-like protein mutant variant 4) (Phosphatase and tensin-like protein mutant variant 5)
+GeneName	PTEN
+Length	55
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	PQFVVCQLKVKIYSSNSGPTRREDKFMYFEFPQPLPVCGDIKVEFFHKQNKMLKK
+PTM	

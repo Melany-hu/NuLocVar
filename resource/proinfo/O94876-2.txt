@@ -1,0 +1,25 @@
+UniprotID	O94876-2
+Accession	O94876;A8K5Y3;B4DE04;Q68E06;Q8IXM8
+EntryName	TMCC1_HUMAN
+ProteinName	Transmembrane and coiled-coil domains protein 1
+GeneName	TMCC1 KIAA0779
+Length	474
+Function	Endoplasmic reticulum membrane protein that promotes endoplasmic reticulum-associated endosome fission (PubMed:30220460). Localizes to contact sites between the endoplasmic reticulum and endosomes and acts by promoting recruitment of the endoplasmic reticulum to endosome tubules for fission (PubMed:30220460). Endosome membrane fission of early and late endosomes is essential to separate regions destined for lysosomal degradation from carriers to be recycled to the plasma membrane (PubMed:30220460).
+Subcellular Location	Endoplasmic reticulum membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVQRFSLRRQLSKIERLEVSSLAQTSSAVASSTDGSIHTDSVDGTPDPQRTKAAIAHLQQKILKLTEQIKIAQTARDDNVAEYLKLANSADKQQAARIKQVFEKKNQKSAQTILQLQKKLEHYHRKLREVEQNGIPRQPKDVFRDMHQGLKDVGAKVTGFSEGVVDSVKGGFSSFSQATHSAAGAVVSKPREIASLIRNKFGSADNIPNLKDSLEEGQVDDAGKALGVISNFQSSPKYGSEEDCSSATSGSVGANSTTGGIAVGASSSKTNTLDMQSSGFDALLHEIQEIRETQARLEESFETLKEHYQRDYSLIMQTLQEERYRCERLEEQLNDLTELHQNEILNLKQELASMEEKIAYQSYERARDIQEALEACQTRISKMELQQQQQQVVQLEGLENATARNLLGKLINILLAVMAVLLVFVSTVANCVVPLMKTRNRTFSTLFLVVFIAFLWKHWDALFSYVERFFSSPR
+PTM	Methylation:26,117,249,484,527,588;Phosphorylation:63,119,120,134,151,352,374,382,392,409,413,414,451,472,479,487;SUMOylation:330

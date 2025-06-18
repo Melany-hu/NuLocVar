@@ -1,0 +1,25 @@
+UniprotID	Q8N6Q1-2
+Accession	Q8N6Q1;Q8NA63
+EntryName	TMC5A_HUMAN
+ProteinName	Transmembrane and coiled-coil domain-containing protein 5A
+GeneName	TMCO5A TMCO5
+Length	228
+Function	
+Subcellular Location	Endoplasmic reticulum membrane; Nucleus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEISRLAQSKRNIISLNMDLERDTQRIDEANQKLLLKIQEREDKIQRLESEIIQTRGLVEDEEWEKENRTTMERERALQELEEETARLERKNKTLVHSITELQQKLTRKSQKITNCEQSSPDGALEETKVKLQQLEASYACQEKELLKVMKEYAFVTQLCEDQALYIKKYQETLKKIEEELEALFLEREVSKLVSMNPVEKEHTSQNNEGTPTQKTARLFSKKWASSF
+PTM	Methylation:37,66,105,148,168,175;Phosphorylation:170,221

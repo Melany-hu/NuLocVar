@@ -1,0 +1,25 @@
+UniprotID	H3BUK5
+Accession	H3BUK5
+EntryName	H3BUK5_HUMAN
+ProteinName	Uncharacterized protein
+GeneName	LOC112694756
+Length	91
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDAQGCCADGSSPCRKQGSSGPPDCCWTCAEACNFPLPSPAHFLDACCPQPTRADWAPRCPRCCPLCDCACTCQLPDCQSLNCLCFEIKLR
+PTM	

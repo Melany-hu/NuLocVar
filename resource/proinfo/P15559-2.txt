@@ -1,0 +1,25 @@
+UniprotID	P15559-2
+Accession	P15559;B2R5Y9;B4DNM7;B7ZAD1;Q86UK1
+EntryName	NQO1_HUMAN
+ProteinName	NAD(P)H dehydrogenase [quinone] 1 (EC 1.6.5.2) (Azoreductase) (DT-diaphorase) (DTD) (Menadione reductase) (NAD(P)H:quinone oxidoreductase 1) (Phylloquinone reductase) (Quinone reductase 1) (QR1)
+GeneName	NQO1 DIA4 NMOR1
+Length	240
+Function	Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species (By similarity) (PubMed:8999809, PubMed:9271353). Regulates cellular redox state primarily through quinone detoxification. Reduces components of plasma membrane redox system such as coenzyme Q and vitamin quinones, producing antioxidant hydroquinone forms. In the process may function as superoxide scavenger to prevent hydroquinone oxidation and facilitate excretion (PubMed:15102952, PubMed:8999809, PubMed:9271353). Alternatively, can activate quinones and their derivatives by generating redox reactive hydroquinones with DNA cross-linking antitumor potential (PubMed:8999809). Acts as a gatekeeper of the core 20S proteasome known to degrade proteins with unstructured regions. Upon oxidative stress, interacts with tumor suppressors TP53 and TP73 in a NADH-dependent way and inhibits their ubiquitin-independent degradation by the 20S proteasome (PubMed:15687255, PubMed:28291250).
+Subcellular Location	Cytoplasm; Cytosol
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVGRRALIVLAHSERTSFNYAMKEAAAAALKKKGWEVVESDLYAMNFNPIISRKDITGKLKDPANFQYPAESVLAYKEGHLSPDIVAEQKKLEAADLVIFQFPLQWFGVPAILKGWFERVFIGEFAYTYAAMYDKGPFRSGILHFCGFQVLEPQLTYSIGHTPADARIQILEGWKKRLENIWDETPLYFAPSSLFDLNFQAGFLMKKEVQDEEKNKKFGLSVGHHLGKSIPTDNQIKARK
+PTM	Acetylation:59,77,90,209,248,251,262,271;Methylation:31,114;Phosphorylation:13,20,68,72,76,82,255,263,266;SUMOylation:23,31,33,59,61,77,90,240,248,250,251,271;Ubiquitylation:23,31,33,54,59,61,77,90,91,209,210,241,248,251,262,271

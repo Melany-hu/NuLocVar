@@ -1,0 +1,25 @@
+UniprotID	Q9UIK5-2
+Accession	Q9UIK5;Q2FA44;Q4ZFW4;Q53H90;Q53RE1;Q8N2R5;Q9NR15;Q9NSS5;Q9P2Y9;Q9UK65
+EntryName	TEFF2_HUMAN
+ProteinName	Tomoregulin-2 (TR-2) (Hyperplastic polyposis protein 1) (Transmembrane protein with EGF-like and two follistatin-like domains)
+GeneName	TMEFF2 HPP1 TENB2 TPEF UNQ178/PRO204
+Length	346
+Function	May be a survival factor for hippocampal and mesencephalic neurons. The shedded form up-regulates cancer cell proliferation, probably by promoting ERK1/2 phosphorylation.
+Subcellular Location	Membrane; Membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MVLWESPRQCSSWTLCEGFCWLLLLPVMLLIVARPVKLAAFPTSLSDCQTPTGWNCSGYDDRENDLFLCDTNTCKFDGECLRIGDTVTCVCQFKCNNDYVPVCGSNGESYQNECYLRQAACKQQSEILVVSEGSCATDAGSGSGDGVHEGSGETSQKETSTCDICQFGAECDEDAEDVWCVCNIDCSQTNFNPLCASDGKSYDNACQIKEASCQKQEKIEVMSLGRCQDNTTTTTKSEDGHYARTDYAENANKLEESAREHHIPCPEHYNGFCMHGKCEHSINMQEPSCRCDAGYTGQHCEKKDYSVLYVVPGPVRFQYVLIAAVIGTIQIAVICVVVLCITRAKL
+PTM	Phosphorylation:233

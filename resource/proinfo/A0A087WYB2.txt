@@ -1,0 +1,25 @@
+UniprotID	A0A087WYB2
+Accession	A0A087WYB2
+EntryName	A0A087WYB2_HUMAN
+ProteinName	RUN and SH3 domain containing 1
+GeneName	RUSC1
+Length	225
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XSSTRSLGTLYSQVSRLAPLSSSRSRFHAFILGLLNTKQLELWFSSLQEDAGFFSLARGGCPSLSTELLLLLQPLSVLTFHLDLLFEHHHHLPLGPPQAPAPPGPPPALQQTMQAMLHFGGRLAQSLRGTSKEAASDPSDSPNLPTPGSWWEQLTQASRVYASGGTEGFPLSRWAPGRHGTAAEEGAQERPLPTDEMAPGRGLWLGRLFGVPGGPAENENGALKS
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q4KMG9-2
+Accession	Q4KMG9;Q96NA7
+EntryName	TM52B_HUMAN
+ProteinName	Transmembrane protein 52B
+GeneName	TMEM52B C12orf59 UNQ5927/PRO19821
+Length	163
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSWRPQPCCISSCCLTTDWVHLWYIWLLVVIGALLLLCGLTSLCFRCCCLSRQQNGEDGGPPPCEVTVIAFDHDSTLQSTITSLQSVFGPAARRILAVAHSHSSLGQLPSSLDTLPGYEEALHMSRFTVAMCGQKAPDLPPVPEEKQLPPTEKESTRIVDSWN
+PTM	Phosphorylation:62

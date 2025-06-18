@@ -1,0 +1,25 @@
+UniprotID	Q9H2G9-2
+Accession	Q9H2G9;O15298;Q5T531;Q5T533;Q9GZX4
+EntryName	GO45_HUMAN
+ProteinName	Golgin-45 (Basic leucine zipper nuclear factor 1) (JEM-1) (p45 basic leucine-zipper nuclear factor)
+GeneName	BLZF1 JEM1
+Length	174
+Function	Required for normal Golgi structure and for protein transport from the endoplasmic reticulum (ER) through the Golgi apparatus to the cell surface.
+Subcellular Location	Golgi apparatus membrane; Nucleus; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTKNLETKVTVTSSPIRGAGDGMETEEPPKSVEVTSGVQSRKHHSLQSPWKKAVPSESPGVLQLGKMLTEKAMEVKAVRILVPKAAITHDIPNKNTKVKSLGHHKGEFLGQSEGVIEPNKELSEVKNVLEKLKNSERRLLQDKEGLSNQLRVQTEVRRALIDKMSTTLYVWTF
+PTM	Methylation:72,85,132,144,184;Phosphorylation:13,14,15,49,59,282,284,331,339,352,353,361,362,365;SUMOylation:4,9,31,43,52,53,67,72,77,85,95,106,121,127,144,163,184,218,301,304,320,321,350,370;Ubiquitylation:9,31,53,72,77,95,132,144,218,320,350,370,371

@@ -1,0 +1,25 @@
+UniprotID	Q86X60-2
+Accession	Q86X60;B2RPQ5;Q5QP15
+EntryName	FA72B_HUMAN
+ProteinName	Protein FAM72B
+GeneName	FAM72B
+Length	109
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSTNICSFKDSAVDFTGRCYFTKICKCKLKDIACLKCGNIVGYHVIVPCSSCLPSCNNGHFWMFHSQAVYDINRLDSTGVNILLWGNLPEIEESTDEDVLNISAEECIR
+PTM	Phosphorylation:27;Ubiquitylation:22

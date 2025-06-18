@@ -1,0 +1,25 @@
+UniprotID	S4R3N6
+Accession	S4R3N6
+EntryName	S4R3N6_HUMAN
+ProteinName	Mast cell immunoglobulin like receptor 1
+GeneName	MILR1
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XKAMRNNVPRDRGDTAMEVGIYANILEKQAKEESVPEVGSRPCVSTAQDEAKHSQELQYATPVFQEVAPREQEACDSYKSGYVYSELNF
+PTM	

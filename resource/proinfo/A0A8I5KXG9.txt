@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KXG9
+Accession	A0A8I5KXG9
+EntryName	A0A8I5KXG9_HUMAN
+ProteinName	DNA methyltransferase 3 alpha
+GeneName	DNMT3A
+Length	196
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	30...35
+validnes_region	
+nesbase_region	
+Sequence	XRNGRVDRSLKDECDTVKGWRLCNGRITGAEKKAKVIAGMNAVEENQGPGESQKVEEASPPAVQQPTDPASPTVATTPEPVGSDAGDKNATKAGDDEPEYEDGRGFGIGELVWGKLRGFSWWPGRIVSWWMTGRSRAAEGTRWVMWFGDGKFSVVCVEKLMPLSSFCSAFHQATYNKQPMYRKAIYEVLQVASSRA
+PTM	

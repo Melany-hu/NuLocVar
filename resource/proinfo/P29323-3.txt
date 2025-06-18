@@ -1,0 +1,25 @@
+UniprotID	P29323-3
+Accession	P29323;O43477;Q5T0U6;Q5T0U7;Q5T0U8
+EntryName	EPHB2_HUMAN
+ProteinName	Ephrin type-B receptor 2 (EC 2.7.10.1) (Developmentally-regulated Eph-related tyrosine kinase) (ELK-related tyrosine kinase) (EPH tyrosine kinase 3) (EPH-like kinase 5) (EK5) (hEK5) (Renal carcinoma antigen NY-REN-47) (Tyrosine-protein kinase TYRO5) (Tyrosine-protein kinase receptor EPH-3) [Cleaved into: EphB2/CTF1; EphB2/CTF2]
+GeneName	EPHB2 DRT EPHT3 EPTH3 ERK HEK5 TYRO5
+Length	987
+Function	Receptor tyrosine kinase which binds promiscuously transmembrane ephrin-B family ligands residing on adjacent cells, leading to contact-dependent bidirectional signaling into neighboring cells. The signaling pathway downstream of the receptor is referred to as forward signaling while the signaling pathway downstream of the ephrin ligand is referred to as reverse signaling. Functions in axon guidance during development. Involved in the guidance of commissural axons, that form a major interhemispheric connection between the 2 temporal lobes of the cerebral cortex. Also involved in guidance of contralateral inner ear efferent growth cones at the midline and of retinal ganglion cell axons to the optic disk. In addition to axon guidance, also regulates dendritic spines development and maturation and stimulates the formation of excitatory synapses. Upon activation by EFNB1, abolishes the ARHGEF15-mediated negative regulation on excitatory synapse formation. Controls other aspects of development including angiogenesis, palate development and in inner ear development through regulation of endolymph production. Forward and reverse signaling through the EFNB2/EPHB2 complex regulate movement and adhesion of cells that tubularize the urethra and septate the cloaca. May function as a tumor suppressor. May be involved in the regulation of platelet activation and blood coagulation (PubMed:30213874).
+Subcellular Location	Cell membrane; Cell projection; Axon; Cell projection; Dendrite
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALRRLGAALLLLPLLAAVEETLMDSTTATAELGWMVHPPSGWEEVSGYDENMNTIRTYQVCNVFESSQNNWLRTKFIRRRGAHRIHVEMKFSVRDCSSIPSVPGSCKETFNLYYYEADFDSATKTFPNWMENPWVKVDTIAADESFSQVDLGGRVMKINTEVRSFGPVSRSGFYLAFQDYGGCMSLIAVRVFYRKCPRIIQNGAIFQETLSGAESTSLVAARGSCIANAEEVDVPIKLYCNGDGEWLVPIGRCMCKAGFEAVENGTVCRGCPSGTFKANQGDEACTHCPINSRTTSEGATNCVCRNGYYRADLDPLDMPCTTIPSAPQAVISSVNETSLMLEWTPPRDSGGREDLVYNIICKSCGSGRGACTRCGDNVQYAPRQLGLTEPRIYISDLLAHTQYTFEIQAVNGVTDQSPFSPQFASVNITTNQAAPSAVSIMHQVSRTVDSITLSWSQPDQPNGVILDYELQYYEKELSEYNATAIKSPTNTVTVQGLKAGAIYVFQVRARTVAGYGRYSGKMYFQTMTEAEYQTSIQEKLPLIIGSSAAGLVFLIAVVVIAIVCNRRRGFERADSEYTDKLQHYTSGHMTPGMKIYIDPFTYEDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPGKREIFVAIKTLKSGYTEKQRRDFLSEASIMGQFDHPNVIHLEGVVTKSTPVMIITEFMENGSLDSFLRQNDGQFTVIQLVGMLRGIAAGMKYLADMNYVHRDLAARNILVNSNLVCKVSDFGLSRFLEDDTSDPTYTSALGGKIPIRWTAPEAIQYRKFTSASDVWSYGIVMWEVMSYGERPYWDMTNQDVINAIEQDYRLPPPMDCPSALHQLMLDCWQKDRNHRPKFGQIVNTLDKMIRNPNSLKAMAPLSSGINLPLLDRTIPDYTSFNTVDEWLEAIKMGQYKESFANAGFTSFDVVSQMMMEDILRVGVTLAGHQKKILNSIQVMRAQMNQIQSVEV
+PTM	Glycosylation:265,296,482,512;Methylation:238,540,761,787,926,965;Phosphorylation:212,389,575,577,578,584,585,586,590,596,601,602,742,763,775,776,779,780,781,782,897,898,959;Ubiquitylation:580,662,735,761,787

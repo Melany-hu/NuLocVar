@@ -1,0 +1,25 @@
+UniprotID	Q9UHF0-3
+Accession	Q9UHF0;Q6IAG2;Q71BC6;Q71BC9
+EntryName	TKNK_HUMAN
+ProteinName	Tachykinin-3 (ZNEUROK1) [Cleaved into: Neurokinin-B (NKB) (Neuromedin-K)]
+GeneName	TAC3 NKNB UNQ585/PRO1155
+Length	103
+Function	Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles (By similarity). Is a critical central regulator of gonadal function.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRIMLLFTAILAFSLAQSFGAVCKEPQEEVVPGGGRSKRDPDLYQLLQRLFKSHSSLEGLLKALSQASTDPKESTSPEKHSPTDVNQENVPSFGILKYPPRAE
+PTM	Methylation:62

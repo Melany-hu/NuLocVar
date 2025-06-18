@@ -1,0 +1,25 @@
+UniprotID	Q5W0Z9-3
+Accession	Q5W0Z9;A8MTV9;C9JG20;I6L9D4;Q2TB82;Q6NVU8
+EntryName	ZDH20_HUMAN
+ProteinName	Palmitoyltransferase ZDHHC20 (EC 2.3.1.225) (Acyltransferase ZDHHC20) (EC 2.3.1.-) (DHHC domain-containing cysteine-rich protein 20) (DHHC20) (Zinc finger DHHC domain-containing protein 20)
+GeneName	ZDHHC20
+Length	354
+Function	Palmitoyltransferase that could catalyze the addition of palmitate onto various protein substrates (PubMed:27153536, PubMed:29326245, PubMed:33219126). Catalyzes palmitoylation of Cys residues in the cytoplasmic C-terminus of EGFR, and modulates the duration of EGFR signaling by modulating palmitoylation-dependent EGFR internalization and degradation (PubMed:27153536). Has a preference for acyl-CoA with C16 fatty acid chains (PubMed:29326245). Can also utilize acyl-CoA with C14 and C18 fatty acid chains (PubMed:29326245). May palmitoylate CALHM1 subunit of gustatory voltage-gated ion channels and modulate channel gating and kinetics.
+Subcellular Location	Golgi apparatus membrane; Cell membrane; Cytoplasm; Perinuclear region; Endoplasmic reticulum membrane; Endoplasmic reticulum-Golgi intermediate compartment membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAPWTLWRCCQRVVGWVPVLFITFVVVWSYYAYVVELCVFTIFGNEENGKTVVYLVAFHLFFVMFVWSYWMTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKTIRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLLFLLYSLLYCLFVAATVLEYFIKFWTNELTDTRAKFHVLFLFFVSAMFFISVLSLFSYHCWLVGKNRTTIESFRAPTFSYGPDGNGFSLGCSKNWRQVFGDEKKYWLLPIFSSLGDGCSFPTRLVGMDPEQASVTNQNEYARSGSNQPFPIKPLSESKNRLLDSESQWLENGAEEGIVKSGV
+PTM	Methylation:135;Phosphorylation:305,307,312,315,316,318,328,330;SUMOylation:96,325,331;Ubiquitylation:96,123,275,325,331

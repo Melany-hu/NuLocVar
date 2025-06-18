@@ -1,0 +1,25 @@
+UniprotID	O14763-2
+Accession	O14763;O14720;O15508;O15517;O15531;Q6UXM8;Q7Z360;Q9BVE0
+EntryName	TR10B_HUMAN
+ProteinName	Tumor necrosis factor receptor superfamily member 10B (Death receptor 5) (TNF-related apoptosis-inducing ligand receptor 2) (TRAIL receptor 2) (TRAIL-R2) (CD antigen CD262)
+GeneName	TNFRSF10B DR5 KILLER TRAILR2 TRICK2 ZTNFR9 UNQ160/PRO186
+Length	411
+Function	Receptor for the cytotoxic ligand TNFSF10/TRAIL (PubMed:10549288). The adapter molecule FADD recruits caspase-8 to the activated receptor. The resulting death-inducing signaling complex (DISC) performs caspase-8 proteolytic activation which initiates the subsequent cascade of caspases (aspartate-specific cysteine proteases) mediating apoptosis. Promotes the activation of NF-kappa-B. Essential for ER stress-induced apoptosis.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	153...157
+validnes_region	
+nesbase_region	
+Sequence	MEQRGQNAPAASGARKRHGPGPREARGARPGPRVPKTLVLVVAAVLLLVSAESALITQQDLAPQQRAAPQQKRSSPSEGLCPPGHHISEDGRDCISCKYGQDYSTHWNDLLFCLRCTRCDSGEVELSPCTTTRNTVCQCEEGTFREEDSPEMCRKCRTGCPRGMVKVGDCTPWSDIECVHKESGIIIGVTVAAVVLIVAVFVCKSLLWKKVLPYLKGICSGGGGDPERVDRSSQRPGAEDNVLNEIVSILQPTQVPEQEMEVQEPAEPTGVNMLSPGESEHLLEPAEAERSQRRRLLVPANEGDPTETLRQCFDDFADLVPFDSWEPLMRKLGLMDNEIKVAKAEAAGHRDTLYTMLIKWVNKTGRDASVHTLLDALETLGERLAKQKIEDHLLSSGKFMYLEGNADSAMS
+PTM	Glycosylation:57;Methylation:186,369;Phosphorylation:353,383;SUMOylation:245;Ubiquitylation:238,239,245,369

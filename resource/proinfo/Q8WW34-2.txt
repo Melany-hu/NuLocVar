@@ -1,0 +1,25 @@
+UniprotID	Q8WW34-2
+Accession	Q8WW34;Q5JY54;Q6ZU23
+EntryName	TM239_HUMAN
+ProteinName	Transmembrane protein 239
+GeneName	TMEM239
+Length	152
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMQQPRVETDTIGAGEGPQQAVPWSAWVTRHGWVRWWVSHMPPSWIQWWSTSNWRQPLQRLLWGLEGILYLLLALMLCHALFTTGSHLLSSLWPVVAAVWRHLLPALLLLVLSALPALLFTASFLLLFSTLLSLVGLLTSMTHPGDTQDLDQ
+PTM	

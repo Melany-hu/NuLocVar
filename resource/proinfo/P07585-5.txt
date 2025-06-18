@@ -1,0 +1,25 @@
+UniprotID	P07585-5
+Accession	P07585;Q9P0Z0;Q9P0Z1;Q9Y5N8;Q9Y5N9
+EntryName	PGS2_HUMAN
+ProteinName	Decorin (Bone proteoglycan II) (PG-S2) (PG40)
+GeneName	DCN SLRR1B
+Length	75
+Function	May affect the rate of fibrils formation.
+Subcellular Location	Secreted; Extracellular space; Extracellular matrix; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKATIILLLLAQVSWAGPFQQRGLFDFMLEDEASGIGPEVPDDRDFEPSLGPVCPFRCQCHLRVVQCSDLGCLPS
+PTM	Acetylation:74,102,130,138,150,164;Glycosylation:171,174,193,211,255,262,267,301,302,303,318,332;Methylation:200,249;Phosphorylation:163,348,351,358;SUMOylation:130

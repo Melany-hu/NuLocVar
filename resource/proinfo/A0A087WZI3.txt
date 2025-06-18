@@ -1,0 +1,25 @@
+UniprotID	A0A087WZI3
+Accession	A0A087WZI3
+EntryName	A0A087WZI3_HUMAN
+ProteinName	single-stranded DNA cytosine deaminase (EC 3.5.4.38)
+GeneName	APOBEC3H
+Length	154
+Function	
+Subcellular Location	Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALLTAETFRLQFNNKRRLRRPYYPRKALLCYQLTPQNGSTPTRGYFENKKKCHAEICFINEIKSMGLDETQCYQVTCYLTWSPCSSCAWELVDFIKAHDHLNLGIFASRLYYHWCKPQQKGLRLLCGSQVPVEVMGFPDSRGTCAGSLHGYIV
+PTM	

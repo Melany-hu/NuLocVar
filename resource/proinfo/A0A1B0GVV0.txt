@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GVV0
+Accession	A0A1B0GVV0
+EntryName	A0A1B0GVV0_HUMAN
+ProteinName	GRAM domain containing 1B
+GeneName	GRAMD1B
+Length	135
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPAANMMENRPLPALQVPEPQGAPEGSPVWSSSSTPTLRRRRFKMRRMKNVQEQSLEAGLARDLPAVLAPGKEFLQLPSIEITPSSDEDTPWSNCSTPSASPRRKRFLLRKWLRVRERKECSESSSSLRIFTAQS
+PTM	

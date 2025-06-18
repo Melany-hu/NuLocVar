@@ -1,0 +1,25 @@
+UniprotID	A0A1W2PRV2
+Accession	A0A1W2PRV2
+EntryName	A0A1W2PRV2_HUMAN
+ProteinName	Chromosome 2 open reading frame 81
+GeneName	C2orf81
+Length	109
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	27...32;23...28;24...30;26...31
+validnes_region	
+nesbase_region	
+Sequence	MSESSSKSSQPLASKQKKDGTEKRGRGRPRKQPPRQERQVRDRGVTRSKAEKVRPPTVPVPQVDIVPGRLSEAEWMALTALEEGEDVVGDILADLLARVMDSAFKVYLT
+PTM	

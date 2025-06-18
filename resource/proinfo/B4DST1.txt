@@ -1,0 +1,25 @@
+UniprotID	B4DST1
+Accession	B4DST1;B5MDN0
+EntryName	B4DST1_HUMAN
+ProteinName	S-adenosylmethionine sensor upstream of mTORC1 (Probable methyltransferase BMT2 homolog) (EC 2.1.1.-)
+GeneName	BMT2 SAMTOR
+Length	352
+Function	S-adenosyl-L-methionine-binding protein that acts as an inhibitor of mTORC1 signaling via interaction with the GATOR1 and KICSTOR complexes. Acts as a sensor of S-adenosyl-L-methionine to signal methionine sufficiency to mTORC1: in presence of methionine, binds S-adenosyl-L-methionine, leading to disrupt interaction with the GATOR1 and KICSTOR complexes and promote mTORC1 signaling. Upon methionine starvation, S-adenosyl-L-methionine levels are reduced, thereby promoting the association with GATOR1 and KICSTOR, leading to inhibit mTORC1 signaling. Probably also acts as a S-adenosyl-L-methionine-dependent methyltransferase.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGDFDKIWREHCEDEETLCEYAVAMKNLADNHWAKTCEGEGRIEWCCSVCREYFQNGGKRKALEKDEKRAVLATKTTPALNMHESSQLEGHLTNLSFTNPEFITELLQASGKIRLLDVGSCFNPFLKFEEFLTVGIDIVPAVESVYKCDFLNLQLQQPLQLAQDAIDAFLKQLKNPIDSLPGELFHVVVFSLLLSYFPSPYQRWICCKKAHELLVLNGLLLIITPDSSHQNRHAMMMKSWKIAIESLGFKRFKYSKFSHMHLMAFRKISLKTTSDLVSRNYPGMLYIPQDFNSIEDEEYSNPSCYVRSDIEDEQLAYGFTELPDAPYDSDSGESQASSIPFYELEDPILLLS
+PTM	

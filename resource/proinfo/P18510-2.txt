@@ -1,0 +1,25 @@
+UniprotID	P18510-2
+Accession	P18510;A8K4G1;Q14628;Q53SC2;Q7RTZ4;Q96GD6;Q9UPC0
+EntryName	IL1RA_HUMAN
+ProteinName	Interleukin-1 receptor antagonist protein (IL-1RN) (IL-1ra) (IRAP) (ICIL-1RA) (IL1 inhibitor) (Anakinra)
+GeneName	IL1RN IL1F3 IL1RA
+Length	159
+Function	Anti-inflammatory antagonist of interleukin-1 family of proinflammatory cytokines such as interleukin-1beta/IL1B and interleukin-1alpha/IL1A. Protects from immune dysregulation and uncontrolled systemic inflammation triggered by IL1 for a range of innate stimulatory agents such as pathogens.
+Subcellular Location	Secreted; Cytoplasm; Cytoplasm; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MALETICRPSGRKSSKMQAFRIWDVNQKTFYLRNNQLVAGYLQGPNVNLEEKIDVVPIEPHALFLGIHGGKMCLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAMEADQPVSLTNMPDEGVMVTKFYFQEDE
+PTM	Phosphorylation:97

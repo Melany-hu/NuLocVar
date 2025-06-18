@@ -1,0 +1,25 @@
+UniprotID	H0Y3R5
+Accession	H0Y3R5
+EntryName	H0Y3R5_HUMAN
+ProteinName	BCL2 like 13
+GeneName	BCL2L13
+Length	38
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	XLGEKVSQELKEPLHKALQMLLSQFWCLWFCYDKCFWN
+PTM	

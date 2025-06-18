@@ -1,0 +1,25 @@
+UniprotID	A0A494C064
+Accession	A0A494C064
+EntryName	A0A494C064_HUMAN
+ProteinName	5-methyltetrahydrofolate-homocysteine methyltransferase
+GeneName	MTR
+Length	264
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSPALQDLSQPEGLKKTLRDEINAILQKRIMVLDGGMGTMIQREKLNEEHFRGQEFKDHARPLKGNNDILSITQPDVIYQIHKEYLLAGADIIETNTFSSTSIAQADYGLEHLAYRMNMCSAGVARKAAEEVTLQTGIKRFVAGALGPTNKTLSVSPSVERPDYRNITFDELVEAYQEQAKGLLDGGVDILLIETIFDTANAKAALFALQNLFEEKYAPRPIFISGTIVDKSGRTLSGQTGEGFVISVSHGEPLWILLWMAWSI
+PTM	

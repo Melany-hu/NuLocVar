@@ -1,0 +1,25 @@
+UniprotID	A0A087WVS2
+Accession	A0A087WVS2
+EntryName	A0A087WVS2_HUMAN
+ProteinName	Carnosine dipeptidase 2
+GeneName	CNDP2
+Length	124
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	EIRRMMEVAAADVKQLGGSVELVDIGKQKLPDGSEIPLPPILLGRLGSDPQKKTVCIYGHLDVQPAALEDGWDSEPFTLVERDGKLYGRGSTDDKGPVAGWINALEAYQKTGQLLKGHNIGDSA
+PTM	

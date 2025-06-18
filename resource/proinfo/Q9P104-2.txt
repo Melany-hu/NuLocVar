@@ -1,0 +1,25 @@
+UniprotID	Q9P104-2
+Accession	Q9P104;Q5T7Y0;Q5TE53;Q8TEW7;Q96H13;Q9BZ24;Q9NQF4;Q9Y411
+EntryName	DOK5_HUMAN
+ProteinName	Docking protein 5 (Downstream of tyrosine kinase 5) (Insulin receptor substrate 6) (IRS-6) (IRS6)
+GeneName	DOK5 C20orf180
+Length	198
+Function	DOK proteins are enzymatically inert adaptor or scaffolding proteins. They provide a docking platform for the assembly of multimolecular signaling complexes. DOK5 functions in RET-mediated neurite outgrowth and plays a positive role in activation of the MAP kinase pathway. Putative link with downstream effectors of RET in neuronal differentiation.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MECVGTRINDISLGEPDLLATGVEREQSERFNVYLMPSPNLDVHGECALQITYEYICLWDVQNPRVKLISWPLSALRRYGRDTTWFTFEAGRMCETGEGLFIFQTRDGEAIYQKVHSAALAIAEQHERLLQSVKNSMLQMKMSERAASLSTMVPLPRSAYWQHITRQHSTGQLYRLQDVSSPLKLHRTETFPAYRSEH
+PTM	Methylation:10;Phosphorylation:277

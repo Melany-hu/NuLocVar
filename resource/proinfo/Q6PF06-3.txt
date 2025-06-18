@@ -1,0 +1,25 @@
+UniprotID	Q6PF06-3
+Accession	Q6PF06;B7Z216;B7Z3D3;Q05DJ4;Q5QP83;Q8NAG2;Q96N36
+EntryName	TM10B_HUMAN
+ProteinName	tRNA methyltransferase 10 homolog B (EC 2.1.1.221) (RNA (guanine-9-)-methyltransferase domain-containing protein 3) (tRNA (guanine(9)-N(1))-methyltransferase TRMT10B)
+GeneName	TRMT10B RG9MTD3
+Length	174
+Function	S-adenosyl-L-methionine-dependent guanine N(1)-methyltransferase that catalyzes the formation of N(1)-methylguanine at position 9 (m1G9) in tRNAs (PubMed:23042678). Probably not able to catalyze formation of N(1)-methyladenine at position 9 (m1A9) in tRNAs (PubMed:23042678).
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDWKLEGSTQKVESPVLQGQEGILEETGEDGLPEGFQLLQIDAEGECQEGEILATGSTAWCSKNVQRKQRHWEKIVAAKKSKRKQEKERRKANRAENPGICPQHSKRFLRALTKDKLLEAKHSGPRLCIDLSMTHYMSKKVEHPLSLEFLLAMREAQKGTAFRRIWSTPASGIP
+PTM	Methylation:79,121,226,240,300;Phosphorylation:105

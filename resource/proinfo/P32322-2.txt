@@ -1,0 +1,25 @@
+UniprotID	P32322-2
+Accession	P32322;A6NFM2;B4DMU0;Q6FHI4;Q96DI6;Q9HBQ4
+EntryName	P5CR1_HUMAN
+ProteinName	Pyrroline-5-carboxylate reductase 1, mitochondrial (P5C reductase 1) (P5CR 1) (EC 1.5.1.2)
+GeneName	PYCR1
+Length	316
+Function	Oxidoreductase that catalyzes the last step in proline biosynthesis, which corresponds to the reduction of pyrroline-5-carboxylate to L-proline using NAD(P)H (PubMed:16730026, PubMed:19648921, PubMed:23024808, PubMed:28258219). At physiologic concentrations, has higher specific activity in the presence of NADH (PubMed:16730026, PubMed:23024808). Involved in the cellular response to oxidative stress (PubMed:16730026, PubMed:19648921).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSVGFIGAGQLAFALAKGFTAAGVLAAHKIMASSPDMDLATVSALRKMGVKLTPHNKETVQHSDVLFLAVKPHIIPFILDEIGADIEDRHIVVSCAAGVTISSIEKKLSAFRPAPRVIRCMTNTPVVVREGATVYATGTHAQVEDGRLMEQLLSSVGFCTEVEEDLIDAVTGLSGSGPAYAFTALDALADGGVKMGLPRRLAVRLGAQALLGAAKMLLHSEQHPGQLKDNVSSPGGATIHALHVLESGGFRSLLINAVEASCIRTRELQSMADQEQVSPAAIKKTILDKDHLPLELGSPEGLHPLLLQYQLARAPS
+PTM	Acetylation:51,215;Methylation:29,71,106,215,283,289;Phosphorylation:2,109,232,233,261,278,294,298,301,303,306;SUMOylation:47,51,107,283,289,291;Ubiquitylation:107,215,283,284,289

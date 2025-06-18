@@ -1,0 +1,25 @@
+UniprotID	C9JR58
+Accession	C9JR58
+EntryName	C9JR58_HUMAN
+ProteinName	Zinc finger protein 136
+GeneName	ZNF136
+Length	89
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLERLYQTKDGSQRGGIFSQFANQNLSKKIPGVKLCESIVYGEVSMGQSSLNRHIKDHSGHEPKEYQEYGEKPDTRNQCWKPFSSHHSF
+PTM	

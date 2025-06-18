@@ -1,0 +1,25 @@
+UniprotID	P20807-4
+Accession	P20807;A6H8K6;Q7L4R0;Q9BQC8;Q9BTU4;Q9Y5S6;Q9Y5S7
+EntryName	CAN3_HUMAN
+ProteinName	Calpain-3 (EC 3.4.22.54) (Calcium-activated neutral proteinase 3) (CANP 3) (Calpain L3) (Calpain p94) (Muscle-specific calcium-activated neutral protease 3) (New calpain 1) (nCL-1)
+GeneName	CAPN3 CANP3 CANPL3 NCL1
+Length	309
+Function	Calcium-regulated non-lysosomal thiol-protease. Proteolytically cleaves CTBP1 at 'His-409'. Mediates, with UTP25, the proteasome-independent degradation of p53/TP53 (PubMed:23357851, PubMed:27657329).
+Subcellular Location	Cytoplasm; Nucleus; Nucleolus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MHGNKQHLQKDFFLYNASKARSKTYINMREVSQRFRLPPSEYVIVPSTYEPHQEGEFILRVFSEKRNLSEEVENTISVDRPVKKKKTKPIIFVSDRANSNKELGVDQESEEGKGKTSPDKQKQSPQPQPGSSDQESEEQQQFRNIFKQIAGDDMEICADELKKVLNTVVNKHKDLKTHGFTLESCRSMIALMDTDGSGKLNLQEFHHLWNKIKAWQKIFKHYDTDQSGTINSYEMRNAVNDAGFHLNNQLYDIITMRYADKHMNIDFDSFICCFVRLEGMFRAFHAFDKDGDGIIKLNVLEWLQLTMYA
+PTM	Acetylation:92;Methylation:57,207,220,674;Phosphorylation:3,8,19,460,581,589,621,628,629

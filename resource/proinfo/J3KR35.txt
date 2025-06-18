@@ -1,0 +1,25 @@
+UniprotID	J3KR35
+Accession	J3KR35;A0A024R2U3;A0A9K3Y8B6
+EntryName	J3KR35_HUMAN
+ProteinName	Coiled-coil domain containing 12
+GeneName	CCDC12 hCG_15433
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MQDGRKGGAYAGKMEATTAGVGRLEEEALRRKERLKALREKTGRKDKEDGEPKTKHLREEEEEGEKHRELRLRNYVPEDEDLKKRRVPQAKPVAVEEKVKEQLEAAKPEPVIEEVDLANLAPRKPDWDLKRDVAKKLEKLKKRTQRAIAELIRERLKGQEDSLASAVDAATEQKTCDSD
+PTM	

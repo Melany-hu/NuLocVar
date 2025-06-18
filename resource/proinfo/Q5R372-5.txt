@@ -1,0 +1,25 @@
+UniprotID	Q5R372-5
+Accession	Q5R372;O75059;Q3ZTR8;Q5R369;Q8IVV0;Q8N921;Q8WV78;Q9NSP8;Q9UQ19;Q9UQP5;Q9Y6Y5;Q9Y6Y6
+EntryName	RBG1L_HUMAN
+ProteinName	Rab GTPase-activating protein 1-like
+GeneName	RABGAP1L HHL KIAA0471
+Length	378
+Function	GTP-hydrolysis activating protein (GAP) for small GTPase RAB22A, converting active RAB22A-GTP to the inactive form RAB22A-GDP (PubMed:16923123). Plays a role in endocytosis and intracellular protein transport. Recruited by ANK2 to phosphatidylinositol 3-phosphate (PI3P)-positive early endosomes, where it inactivates RAB22A, and promotes polarized trafficking to the leading edge of the migrating cells. Part of the ANK2/RABGAP1L complex which is required for the polarized recycling of fibronectin receptor ITGA5 ITGB1 to the plasma membrane that enables continuous directional cell migration (By similarity).
+Subcellular Location	Cytoplasmic vesicle; Early endosome; Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKEQLPDLHSHFSDLNLEAHMYASQWFLTLFTAKFPLCMVFHIIDLLLCEGLNIIFHVALALLKTSKEDLLQADFEGALKFFRVQLPKRYRAEENARRLMEQACNIKVPTKKLKKYEKEYQTMRESQLQQEDPMDRYKRENRRLQEASMRLEQENDDLAHELVTSKIALRNDLDQAEDKADVLNKELLLTKQRLVETEEEKRKQEEETAQLKEVFRKQLEKAEYEIKKTTAIIAEYKQICSQLSTRLEKQQAASKEELEVVKGKMMACKHCSDIFSKEGALKLAATGREDQGIETDDEKDSLKKQLREMELELAQTKLQLVEAKCKIQELEHQRGALMNEIQAAKNSWFSKTLNSIKTATGTQPLQPAPVTQPPKEST
+PTM	Methylation:57,283,519,536,570,645,737,753;Phosphorylation:13,22,49,71,72,118,119,128,292,336,383,448,455,459,464,471,473,480,490,495,496,502,695,705

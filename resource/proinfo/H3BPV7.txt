@@ -1,0 +1,25 @@
+UniprotID	H3BPV7
+Accession	H3BPV7
+EntryName	H3BPV7_HUMAN
+ProteinName	Lysyl-tRNA synthetase 1
+GeneName	KARS1
+Length	104
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	IHINNKLRRGDIIGVQGNPGKTKKGELSIIPYEITLLSPCLHMLPHLHFGLKDKETRYRQRYLDLILNDFVRQKFIIRSKIITYIRSFLDELGFLEVRRVPCLT
+PTM	

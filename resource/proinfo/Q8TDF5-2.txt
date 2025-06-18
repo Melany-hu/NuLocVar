@@ -1,0 +1,25 @@
+UniprotID	Q8TDF5-2
+Accession	Q8TDF5;Q86W85;Q8ND78;Q8TDF4
+EntryName	NETO1_HUMAN
+ProteinName	Neuropilin and tolloid-like protein 1 (Brain-specific transmembrane protein containing 2 CUB and 1 LDL-receptor class A domains protein 1)
+GeneName	NETO1 BTCL1
+Length	532
+Function	Involved in the development and/or maintenance of neuronal circuitry. Accessory subunit of the neuronal N-methyl-D-aspartate receptor (NMDAR) critical for maintaining the abundance of GRIN2A-containing NMDARs in the postsynaptic density. Regulates long-term NMDA receptor-dependent synaptic plasticity and cognition, at least in the context of spatial learning and memory (By similarity).
+Subcellular Location	Cell membrane; Postsynaptic density membrane; Cell membrane; Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLAEPFPKVVASLIILHLSGATKKGTEKQTTSETQKSVQCGTWTKHAEGGIFTSPNYPSKYPPDRECIYIIEAAPRQCIELYFDEKYSIEPSWECKFDHIEVRDGPFGFSPIIGRFCGQQNPPVIKSSGRFLWIKFFADGELESMGFSARYNFTPDPDFKDLGALKPLPACEFEMGGSEGIVESIQIMKEGKATASEAVDCKWYIRAPPRSKIYLRFLDYEMQNSNECKRNFVAVYDGSSSVEDLKAKFCSTVANDVMLRTGLGVIRMWADEGSRNSRFQMLFTSFQEPPCEGNTFFCHSNMCINNTLVCNGLQNCVYPWDENHCKEKRKTSLLDQLTNTSGTVIGVTSCIVIILIIISVIVQIKQPRKKYVQRKSDFDQTVFQEVFEPPHYELCTLRGTGATADFADVADDFENYHKLRRSSSKCIHDHHCGSQLSSTKGSRSNLSTRDASILTEMPTQPGKPLIPPMNRRNILVMKHSYSQDAADACDIDEIEEVPTTSHRLSRHDKAVQRFCLIGSLSKHESEYNTTRV
+PTM	Methylation:366;Phosphorylation:128,275

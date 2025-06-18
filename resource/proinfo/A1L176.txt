@@ -1,0 +1,25 @@
+UniprotID	A1L176
+Accession	A1L176
+EntryName	A1L176_HUMAN
+ProteinName	PELI3 protein
+GeneName	PELI3
+Length	219
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	QLPGVWREISVCGNVYTLRDSRSAQQRGKLVENESNVLQDGSLIDLCGATLLWRTPAGLLRAPTLKQLEAQRQEANAARPQCPVGLSTLAFPSPARGRTAPDKQQPWVYVRCGHVHGYHGWGCRRERGPQERECPLCRLVGPYVPLWLGQEAGLCLDPGPPSHAFAPCGHVCSEKTARYWAQTPLPHGTHAFHAACPFCGAWLTGEHGCVRLIFQGPLD
+PTM	

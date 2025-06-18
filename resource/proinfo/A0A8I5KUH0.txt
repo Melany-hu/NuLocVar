@@ -1,0 +1,25 @@
+UniprotID	A0A8I5KUH0
+Accession	A0A8I5KUH0
+EntryName	A0A8I5KUH0_HUMAN
+ProteinName	VCP nuclear cofactor family member 2
+GeneName	VCF2
+Length	115
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	26...30;6...11
+validnes_region	
+nesbase_region	
+Sequence	MGGCPVRKRRRNGSKEGNHHSTQPKRNKRNPIFQDSQDTEFSWSDNERSSSRINIPERASGPEGNLNQIVTEPDANFPQFLHEGYVPCQGLYSHINQTLKEAHFNSLQQRGQAPT
+PTM	

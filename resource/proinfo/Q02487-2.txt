@@ -1,0 +1,25 @@
+UniprotID	Q02487-2
+Accession	Q02487
+EntryName	DSC2_HUMAN
+ProteinName	Desmocollin-2 (Cadherin family member 2) (Desmocollin-3) (Desmosomal glycoprotein II) (Desmosomal glycoprotein III)
+GeneName	DSC2 CDHF2 DSC3
+Length	847
+Function	A component of desmosome cell-cell junctions which are required for positive regulation of cellular adhesion (PubMed:33596089). Promotes timely incorporation of DSG2 into desmosome intercellular junctions and promotes interaction of desmosome cell junctions with intermediate filament cytokeratin, via modulation of DSP phosphorylation (PubMed:33596089). Plays an important role in desmosome-mediated maintenance of intestinal epithelial cell intercellular adhesion strength and barrier function (PubMed:33596089). Positively regulates wound healing of intestinal mucosa via promotion of epithelial cell migration, and also plays a role in mechanotransduction of force between intestinal epithelial cells and extracellular matrix (PubMed:31967937). May contribute to epidermal cell positioning (stratification) by mediating differential adhesiveness between cells that express different isoforms. May promote p38MAPK signaling activation that facilitates keratinocyte migration (By similarity).
+Subcellular Location	Cell membrane; Cell junction; Desmosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEAARPSGSWNGALCRLLLLTLAILIFASDACKNVTLHVPSKLDAEKLVGRVNLKECFTAANLIHSSDPDFQILEDGSVYTTNTILLSSEKRSFTILLSNTENQEKKKIFVFLEHQTKVLKKRHTKEKVLRRAKRRWAPIPCSMLENSLGPFPLFLQQVQSDTAQNYTIYYSIRGPGVDQEPRNLFYVERDTGNLYCTRPVDREQYESFEIIAFATTPDGYTPELPLPLIIKIEDENDNYPIFTEETYTFTIFENCRVGTTVGQVCATDKDEPDTMHTRLKYSIIGQVPPSPTLFSMHPTTGVITTTSSQLDRELIDKYQLKIKVQDMDGQYFGLQTTSTCIINIDDVNDHLPTFTRTSYVTSVEENTVDVEILRVTVEDKDLVNTANWRANYTILKGNENGNFKIVTDAKTNEGVLCVVKPLNYEEKQQMILQIGVVNEAPFSREASPRSAMSTATVTVNVEDQDEGPECNPPIQTVRMKENAEVGTTSNGYKAYDPETRSSSGIRYKKLTDPTGWVTIDENTGSIKVFRSLDREAETIKNGIYNITVLASDQGGRTCTGTLGIILQDVNDNSPFIPKKTVIICKPTMSSAEIVAVDPDEPIHGPPFDFSLESSTSEVQRMWRLKAINDTAARLSYQNDPPFGSYVVPITVRDRLGMSSVTSLDVTLCDCITENDCTHRVDPRIGGGGVQLGKWAILAILLGIALLFCILFTLVCGASGTSKQPKVIPDDLAQQNLIVSNTEAPGDDKVYSANGFTTQTVGASAQGVCGTVGSGIKNGGQETIEMVKGGHQTSESCRGAGHHHTLDSCRGGHTEVDNCRYTYSEWHSFTQPRLGEESIRGHTLIKN
+PTM	Acetylation:270;Glycosylation:34,392,401,491,542,546,629;Methylation:55,232,318,381,541,777,810;Phosphorylation:125,172,611,616,751,783,793,796,805,808,814,821,822,823,824,828,830,839,853,864,868,873;Ubiquitylation:749,788

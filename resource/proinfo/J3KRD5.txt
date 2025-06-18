@@ -1,0 +1,25 @@
+UniprotID	J3KRD5
+Accession	J3KRD5
+EntryName	J3KRD5_HUMAN
+ProteinName	Carnosine dipeptidase 2
+GeneName	CNDP2
+Length	88
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MMEVAAADVKQLGGSVELVDIGKQKLPDGSEIPLPPILLGRLGSDPQKKTVCIYGHLDVQPAALEDGWDSEPFTLVERDGKLYGRGST
+PTM	

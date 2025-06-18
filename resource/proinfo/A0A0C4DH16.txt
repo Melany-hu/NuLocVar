@@ -1,0 +1,25 @@
+UniprotID	A0A0C4DH16
+Accession	A0A0C4DH16
+EntryName	A0A0C4DH16_HUMAN
+ProteinName	Bet1 golgi vesicular membrane trafficking protein like
+GeneName	BET1L
+Length	102
+Function	
+Subcellular Location	Endomembrane system; Golgi apparatus membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MADWARAQSPGAVEEILDRENKRMADSLASKVTRLKSLALDIDRDAEDQNRYLDGMVRAHGVRVSVPCPSTTCCRACSVSFSTGAGGWSNHHFCVILLGFLP
+PTM	

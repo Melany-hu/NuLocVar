@@ -1,0 +1,25 @@
+UniprotID	A0A087WYV3
+Accession	A0A087WYV3
+EntryName	A0A087WYV3_HUMAN
+ProteinName	Zinc finger CCHC-type containing 17
+GeneName	ZCCHC17
+Length	179
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	174...179;168...174;128...134;167...173;122...128
+validnes_region	
+nesbase_region	
+Sequence	MGPLSKSQAVGSKMKNDRIKVSLSMKVVNQGTGKDLDPNNVIIEQEERRRRSFQDYTGQKITLEAVLNTTCKKCGCKGHFAKDCFMQPGGTKYSLIPDEEEEKEEAKSAEFEKPDPTRNPSRKRKKEKKKKKHRDRKSSDSDSSDSESDTGKRARHTSKDSKAAKKKKKKKKHKKKHKE
+PTM	

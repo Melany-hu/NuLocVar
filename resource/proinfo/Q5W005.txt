@@ -1,0 +1,25 @@
+UniprotID	Q5W005
+Accession	Q5W005
+EntryName	Q5W005_HUMAN
+ProteinName	Interleukin-2 receptor subunit alpha
+GeneName	IL2RA hCG_23482
+Length	200
+Function	Receptor for interleukin-2. The receptor is involved in the regulation of immune tolerance by controlling regulatory T cells (TREGs) activity. TREGs suppress the activation and expansion of autoreactive T-cells.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDSYLLMWGLLTFIMVPGCQAELCDDDPPEIPHATFKAMAYKEGTMLNCECKRGFRRIKSGSLYMLCTGNSSHSSWDNQCQCTSSATRNTTKQVTPQPEEQKERKTTEMQSPMQPVDQASLPGEEKPQASPEGRPESETSCLVTTTDFQIQTEMAATMETSIFTTEYQVAVAGCVFLLISVLLLSGLTWQRRQRKSRRTI
+PTM	

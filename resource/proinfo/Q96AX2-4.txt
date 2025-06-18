@@ -1,0 +1,25 @@
+UniprotID	Q96AX2-4
+Accession	Q96AX2;A8MXF5;A8MYT0;Q8IWA7
+EntryName	RAB37_HUMAN
+ProteinName	Ras-related protein Rab-37 (EC 3.6.5.2)
+GeneName	RAB37
+Length	186
+Function	The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion (PubMed:38536817). Acts as an organizer for autophagosome biogenesis in a GTP-dependent manner (PubMed:38536817). Involved in retinal homeostasis by autophagy regulation (PubMed:38536817).
+Subcellular Location	Cytoplasmic vesicle; Cell projection; Cilium
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTGTPGAVATRDGEAPERSPPCSPSYDLTGKNKVVTVDGVRVKLQIWDTAGQERFRSVTHAYYRDAQALLLLYDITNKSSFDNIRAWLTEIHEYAQRDVVIMLLGNKADMSSERVIRSEDGETLAREYGVPFLETSAKTGMNVELAFLAIAKELKYRAGHQADEPSFQIRDYVESQKKRSSCCSFM
+PTM	Acetylation:80;Phosphorylation:4,19,23,86;Ubiquitylation:80

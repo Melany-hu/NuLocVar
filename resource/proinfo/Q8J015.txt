@@ -1,0 +1,25 @@
+UniprotID	Q8J015
+Accession	Q8J015
+EntryName	Q8J015_HUMAN
+ProteinName	Large ribosomal subunit protein uL13 (60S ribosomal protein L13a)
+GeneName	RPL13A RPL13a hCG_1998057
+Length	142
+Function	Associated with ribosomes but is not required for canonical ribosome function and has extra-ribosomal functions. Component of the GAIT (gamma interferon-activated inhibitor of translation) complex which mediates interferon-gamma-induced transcript-selective translation inhibition in inflammation processes. Upon interferon-gamma activation and subsequent phosphorylation dissociates from the ribosome and assembles into the GAIT complex which binds to stem loop-containing GAIT elements in the 3'-UTR of diverse inflammatory mRNAs (such as ceruplasmin) and suppresses their translation. In the GAIT complex interacts with m7G cap-bound eIF4G at or near the eIF3-binding site and blocks the recruitment of the 43S ribosomal complex. Involved in methylation of rRNA.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	98...103
+validnes_region	
+nesbase_region	
+Sequence	MNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALDRLKVFDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEKAKIHYRKKKQLMRLRKQAEKNVEKKIDKYTEVLKTHGLLV
+PTM	

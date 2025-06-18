@@ -1,0 +1,25 @@
+UniprotID	Q14168-3
+Accession	Q14168;B4DGE9;B4DRJ0;B7Z3G8;E7EV80;E7EV91;E7EX01;Q53ES9;Q5CZB9;Q9BQJ2
+EntryName	MPP2_HUMAN
+ProteinName	MAGUK p55 subfamily member 2 (Discs large homolog 2) (Protein MPP2)
+GeneName	MPP2 DLG2
+Length	569
+Function	Postsynaptic MAGUK scaffold protein that links CADM1 cell adhesion molecules to core components of the postsynaptic density (By similarity). In CA1 pyramidal neurons, required for synaptic KCNN2-containing channel function and long-term potentiation expression (By similarity). Seems to negatively regulate SRC function in epithelial cells (PubMed:19665017).
+Subcellular Location	Cytoplasm; Cytoskeleton; Membrane; Cell projection; Dendrite; Postsynaptic density
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGSPGSGVSLEGISLESSEEAELQREAMQQVLDNLGSLPSATGAAELDLIFLRGIMESPIVRSLAKAHERLEETKLEAVRDNNLELVQEILRDLAHVAEQSSTAAELAHILQEPHFQSLLETHDSVASKTYETPPPSPGLDPTFSNQPVPPDAVRMVGIRKTAGEHLGVTFRVEGGELVIARILHGGMVAQQGLLHVGDIIKEVNGQPVGSDPRALQELLRNASGSVILKILPSYQEPHLPRQVFVKCHFDYDPARDSLIPCKEAGLRFNAGDLLQIVNQDDANWWQACHVEGGSAGLIPSQLLEEKRKAFVKRDLELTPNSGTLCGSLSGKKKKRMMYLTTKNAEFDRHELLIYEEVARMPPFRRKTLVLIGAQGVGRRSLKNKLIMWDPDRYGTTVPYTSRRPKDSEREGQGYSFVSRGEMEADVRAGRYLEHGEYEGNLYGTRIDSIRGVVAAGKVCVLDVNPQAVKVLRTAEFVPYVVFIEAPDFETLRAMNRAALESGISTKQLTEADLRRTVEESSRIQRGYGHYFDLCLVNSNLERTFRELQTAMEKLRTEPQWVPVSWVY
+PTM	Acetylation:340;Methylation:210,238,255,315,466;Phosphorylation:42,138,139,141,145,151,338,363,423,424,427;SUMOylation:393;Ubiquitylation:83,238,271,340,351,466,478,515

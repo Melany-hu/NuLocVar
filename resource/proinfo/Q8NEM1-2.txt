@@ -1,0 +1,25 @@
+UniprotID	Q8NEM1-2
+Accession	Q8NEM1;B3KVJ4;Q6ZNF3;Q8NC79
+EntryName	ZN680_HUMAN
+ProteinName	Zinc finger protein 680
+GeneName	ZNF680
+Length	123
+Function	May be involved in transcriptional regulation.
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MPGPPGSLEMGPLTFRDVAIEFSLEEWQCLDTAQRNLYRKVMFENYRNLVFLGIAVSKPHLITCLEQGKEPWNRKRQEMVAKPPESYCVAQADLELLVSSYLTALASLKMWDYRNNPLCQATM
+PTM	Methylation:227,283,339,488;Phosphorylation:279,289,317,345,401,422;SUMOylation:133,136,161,211,227,239,258,264,267,283,323,348,351,404,407,435,491;Ubiquitylation:351,404,407

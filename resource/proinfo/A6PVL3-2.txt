@@ -1,0 +1,25 @@
+UniprotID	A6PVL3-2
+Accession	A6PVL3;A8MXE3
+EntryName	KNCN_HUMAN
+ProteinName	Kinocilin
+GeneName	KNCN
+Length	101
+Function	May play a role in stabilizing dense microtubular networks or in vesicular trafficking.
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MDIPISSRDFRGLQLACVALGLVAGSIIIGISVSKAAAAMGGVFIGAAVLGSLRIHPHPGADHGEGRSSTNGNKEGARSSLSTVSRTLEKLKPGTRGAEEC
+PTM	Phosphorylation:32,75,103,108

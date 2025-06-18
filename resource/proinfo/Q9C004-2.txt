@@ -1,0 +1,25 @@
+UniprotID	Q9C004-2
+Accession	Q9C004;A4FVB2;A4FVB3;Q6QIX2;Q9C003
+EntryName	SPY4_HUMAN
+ProteinName	Protein sprouty homolog 4 (Spry-4)
+GeneName	SPRY4
+Length	106
+Function	Suppresses the insulin receptor and EGFR-transduced MAPK signaling pathway, but does not inhibit MAPK activation by a constitutively active mutant Ras (PubMed:12027893). Probably impairs the formation of GTP-Ras (PubMed:12027893). Inhibits Ras-independent, but not Ras-dependent, activation of RAF1 (PubMed:12717443). Represses integrin-mediated cell spreading via inhibition of TESK1-mediated phosphorylation of cofilin (PubMed:15584898).
+Subcellular Location	Cytoplasm; Cell projection; Ruffle membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEPPIPQSAPLTPNSVMVQPLLDSRMSHSRLQHPLTILPIDQVKTSHVENDYIDNPSLALTTGPKRTRGGAPELAPTPARCDQDVTHHWISFSGRPCSATCLPPAA
+PTM	Methylation:144,267;Phosphorylation:12,15,27,45,46,52,77,97,98,100,101,102,103,104,105,125,278,280;SUMOylation:284;Ubiquitylation:168,284,291

@@ -1,0 +1,25 @@
+UniprotID	O60869-2
+Accession	O60869;Q5T5T2;Q9UIM1
+EntryName	EDF1_HUMAN
+ProteinName	Endothelial differentiation-related factor 1 (EDF-1) (Multiprotein-bridging factor 1) (MBF1)
+GeneName	EDF1
+Length	139
+Function	Transcriptional coactivator stimulating NR5A1 and ligand-dependent NR1H3/LXRA and PPARG transcriptional activities. Enhances the DNA-binding activity of ATF1, ATF2, CREB1 and NR5A1. Regulates nitric oxid synthase activity probably by sequestering calmodulin in the cytoplasm. May function in endothelial cells differentiation, hormone-induced cardiomyocytes hypertrophy and lipid metabolism.
+Subcellular Location	Cytoplasm; Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAESDWDTVTVLRKKGPTAAQAKSKQAILAAQRRGEDVETSKKWAAGQNKQHSITKNTAKLDRETEELHHDRVTLEVGKVIQQGRQSKGLTQKDLATKINEKPQVIADYESGRAIPNNQVLGKIERAIGECPSTLRRVR
+PTM	Acetylation:23,42,43,60,79,93,98,102,123,131,135,143;Methylation:13,14,25,72,93,98,102,123;Phosphorylation:4,8,10,53,55,74,109,111;Ubiquitylation:23,25,56,79,93,98,102,123

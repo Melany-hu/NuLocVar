@@ -1,0 +1,25 @@
+UniprotID	Q96IY4-2
+Accession	Q96IY4;A8K464;Q15114;Q5T9K1;Q5T9K2;Q9P2Y6
+EntryName	CBPB2_HUMAN
+ProteinName	Carboxypeptidase B2 (EC 3.4.17.20) (Carboxypeptidase U) (CPU) (Plasma carboxypeptidase B) (pCPB) (Thrombin-activable fibrinolysis inhibitor) (TAFI)
+GeneName	CPB2
+Length	360
+Function	Cleaves C-terminal arginine or lysine residues from biologically active peptides such as kinins or anaphylatoxins in the circulation thereby regulating their activities. Down-regulates fibrinolysis by removing C-terminal lysine residues from fibrin that has already been partially degraded by plasmin.
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLCSLAVLVPIVLFCEQHVFAFQSGQVLAALPRTSRQVQVLQNLTTTYEIVLWQPVTADLIVKKKQVHFFVNASDVDNVKAHLNVSGIPCSVLLADVEDLIQQQISNDTVSPRASASYYEQYHSLNEIYSWIEFITERHPDMLTKIHIGSSFEKYPLYVLKVSGKEQAAKNAIWIDCGIHAREWISPAFCLWFIGHNRMWRKNRSFYANNHCIGTDLNRNFASKHWCEEGASSSSCSETYCGLYPESEPEVKAVASFLRRNINQIKAYISMHSYSQHIVFPYSYTRSKSKDHEELSLVASEAVRAIEKISKNTRYTHGHGSETLYLAPGGGDDWIYDLGIKYSFTSNPPVEKLLPLSLK
+PTM	Glycosylation:73,85,108;Methylation:64,171,346;Phosphorylation:294

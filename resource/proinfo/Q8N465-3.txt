@@ -1,0 +1,25 @@
+UniprotID	Q8N465-3
+Accession	Q8N465;B4E3L6;E7ENP2;Q6IQ24;Q8N5Q8
+EntryName	D2HDH_HUMAN
+ProteinName	D-2-hydroxyglutarate dehydrogenase, mitochondrial (EC 1.1.99.39)
+GeneName	D2HGDH D2HGD
+Length	319
+Function	Catalyzes the oxidation of D-2-hydroxyglutarate (D-2-HG) to alpha-ketoglutarate (PubMed:15070399, PubMed:15609246, PubMed:16037974, PubMed:20020533, PubMed:33431826). Also catalyzes the oxidation of other D-2-hydroxyacids, such as D-malate (D-MAL) and D-lactate (D-LAC) (PubMed:33431826). Exhibits high activities towards D-2-HG and D-MAL but a very weak activity towards D-LAC (PubMed:33431826).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLPRRPLAWPAWLLRGAPGAAGSWGRPVGPLARRGCCSAPGTPEVPLTRERYPVRRLPFSTVSKQDLAAFERIVPGGVVTDPEALQAPNVDWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILSTARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSILCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGVCPQPLRL
+PTM	Acetylation:101,401;Methylation:244,502;Phosphorylation:222

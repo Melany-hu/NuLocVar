@@ -1,0 +1,25 @@
+UniprotID	A0PG75-2
+Accession	A0PG75;B2RXK5
+EntryName	PLS5_HUMAN
+ProteinName	Phospholipid scramblase family member 5
+GeneName	PLSCR5
+Length	259
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MASKDAQNQRRGLPGFLPGAPDPDQSLPASSNPGNQAWQLSLPLPSSFLPTLDLIIIHQQVELLGMILGTETSNKYEIKNSLGQRIYFAVEESICFNRTFCSTLRSCTLRITDNSGREVITVNRPLRCNSCWCPCYLQELEIQAPPGTIVGYVTQKWDPFLPKFTIQNANKEDILKIVGPCVTCGCFGDVDFEVKTINEKLTIGKISKYWSGFVNDVFTNADNFGIHVPADLDVTVKAAMIGACFLFDFMFFEHSLAGL
+PTM	Methylation:168,188,249;Phosphorylation:214

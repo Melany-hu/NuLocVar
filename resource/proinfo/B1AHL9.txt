@@ -1,0 +1,25 @@
+UniprotID	B1AHL9
+Accession	B1AHL9
+EntryName	B1AHL9_HUMAN
+ProteinName	Patatin like phospholipase domain containing 5
+GeneName	PNPLA5
+Length	268
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGFLEEEGRWNLSFSGAGYLGAHHVGATECLRQRAPRLLQGARRIYGSSSGALNAVSIVCGKSVDFCCSHLLGMVGQLERLSLSILHPAYAPIEHVKQQLQDALPPDAHVLASQRLGISLTRWPDGRNFLVTDFATCDELIQVVADNCRQGYLDALRFLERRGLTKEPVLWTLVSKEPPAPADGNWDAGCDQRWKGGLSLNWKVPHVQVKDVPNFEQLSPELEAALKKACTRDPSRWARFWHSGPGQVLTYLLLPCTLPFEYIYFRSR
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q8IUX4-3
+Accession	Q8IUX4;B0QYD4;Q45F03;Q6ICH3;Q7Z2N2;Q7Z2N5
+EntryName	ABC3F_HUMAN
+ProteinName	DNA dC->dU-editing enzyme APOBEC-3F (EC 3.5.4.38) (Apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like 3F) (A3F)
+GeneName	APOBEC3F
+Length	101
+Function	DNA deaminase (cytidine deaminase) which acts as an inhibitor of retrovirus replication and retrotransposon mobility via deaminase-dependent and -independent mechanisms (PubMed:15141007, PubMed:20062055, PubMed:22915799, PubMed:34774569). Exhibits antiviral activity against viruse such as HIV-1 or HIV-2 (PubMed:15141007, PubMed:15152192, PubMed:20219927, PubMed:21835787, PubMed:22807680, PubMed:23001005, PubMed:23097438, PubMed:23152537, PubMed:34774569). After the penetration of retroviral nucleocapsids into target cells of infection and the initiation of reverse transcription, it can induce the conversion of cytosine to uracil in the minus-sense single-strand viral DNA, leading to G-to-A hypermutations in the subsequent plus-strand viral DNA (PubMed:15141007). The resultant detrimental levels of mutations in the proviral genome, along with a deamination-independent mechanism that works prior to the proviral integration, together exert efficient antiretroviral effects in infected target cells (PubMed:15141007). Selectively targets single-stranded DNA and does not deaminate double-stranded DNA or single- or double-stranded RNA (PubMed:15141007). Exhibits antiviral activity also against hepatitis B virus (HBV), equine infectious anemia virus (EIAV), xenotropic MuLV-related virus (XMRV) and simian foamy virus (SFV) and may inhibit the mobility of LTR and non-LTR retrotransposons (PubMed:16378963, PubMed:16527742, PubMed:19458006, PubMed:20062055, PubMed:20335265). May also play a role in the epigenetic regulation of gene expression through the process of active DNA demethylation (PubMed:21496894).
+Subcellular Location	Cytoplasm; Cytoplasm; P-body
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKPHFRNTVERMYRDTFSYNFYNRPILSRRNTVWLCYEVKTKGPSRPRLDAKIFRGQVPRSFIRAPFQVLSSPFGQCAPPHGTAQVQWPPQLTAGREQGRP
+PTM	Acetylation:352;Methylation:52,226;Phosphorylation:32,41,45,177;Ubiquitylation:52,185,355,367

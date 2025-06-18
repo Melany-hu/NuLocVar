@@ -1,0 +1,25 @@
+UniprotID	P07919
+Accession	P07919;B2R4V9;D3DQ18;Q5TDF6;Q6LDB8;Q9BQ91
+EntryName	QCR6_HUMAN
+ProteinName	Cytochrome b-c1 complex subunit 6, mitochondrial (Complex III subunit 6) (Complex III subunit VIII) (Cytochrome c1 non-heme 11 kDa protein) (Mitochondrial hinge protein) (Ubiquinol-cytochrome c reductase complex 11 kDa protein)
+GeneName	UQCRH
+Length	91
+Function	Component of the ubiquinol-cytochrome c oxidoreductase, a multisubunit transmembrane complex that is part of the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol-cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transport and the ATP synthase. The cytochrome b-c1 complex catalyzes electron transfer from ubiquinol to cytochrome c, linking this redox reaction to translocation of protons across the mitochondrial inner membrane, with protons being carried across the membrane as hydrogens on the quinol. In the process called Q cycle, 2 protons are consumed from the matrix, 4 protons are released into the intermembrane space and 2 electrons are passed to cytochrome c.
+Subcellular Location	Mitochondrion inner membrane
+Disorder	0.7036,0.7459,0.7547,0.7672,0.7881,0.8375,0.8530,0.8681,0.8765,0.8872,0.8942,0.9013,0.9057,0.9415,0.9415,0.9106,0.8713,0.8741,0.9126,0.8741,0.9126,0.9151,0.8741,0.8530,0.8623,0.8596,0.6948,0.6948,0.6806,0.5951,0.5992,0.5533,0.4149,0.3599,0.3249,0.3019,0.3286,0.3872,0.3529,0.2715,0.3356,0.2783,0.1643,0.2129,0.2503,0.2129,0.1671,0.2783,0.2645,0.2328,0.2849,0.2680,0.2951,0.4220,0.4801,0.5139,0.4017,0.4369,0.4330,0.4685,0.4725,0.3774,0.4409,0.4766,0.4186,0.4051,0.4186,0.4369,0.4476,0.4507,0.3599,0.3182,0.3117,0.3019,0.2680,0.2094,0.1349,0.2399,0.2364,0.1791,0.1501,0.1643,0.2129,0.1731,0.2258,0.2541,0.2224,0.1969,0.1942,0.1373,0.0967
+ExposeBuried	1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1
+SurfaceAccessbility	0.764,0.680,0.408,0.662,0.536,0.415,0.483,0.499,0.245,0.155,0.451,0.663,0.615,0.506,0.496,0.427,0.698,0.606,0.579,0.607,0.643,0.530,0.443,0.617,0.585,0.161,0.217,0.526,0.300,0.145,0.362,0.384,0.070,0.329,0.626,0.310,0.035,0.621,0.473,0.060,0.522,0.516,0.057,0.206,0.526,0.114,0.348,0.563,0.335,0.107,0.580,0.201,0.160,0.493,0.664,0.406,0.169,0.555,0.582,0.486,0.543,0.347,0.407,0.547,0.712,0.472,0.063,0.241,0.599,0.410,0.053,0.130,0.440,0.133,0.106,0.337,0.182,0.450,0.501,0.282,0.078,0.168,0.117,0.264,0.436,0.181,0.222,0.627,0.664,0.338,0.841
+SecondStructure	C,C,C,A,A,A,A,A,A,A,A,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,C,C,A,A,A,A,A,A,A,A,A,A,A,A,A,C,C,C,C,A,A,A,A,A,A,A,A,C,C,C
+Hydropathy	1.9,-0.4,3.8,-3.5,-3.5,-3.5,-3.5,-3.9,1.9,3.8,-0.7,-3.5,-0.8,-0.4,-3.5,-1.6,-3.5,-3.5,-3.5,-3.5,-3.5,-3.5,-3.5,-3.5,-3.5,3.8,4.2,-3.5,-1.6,3.8,-0.7,-0.7,4.2,-4.5,-3.5,-3.5,2.5,-3.5,-3.5,3.8,-3.5,-3.9,2.5,4.2,-3.9,1.8,-4.5,-3.5,-4.5,3.8,-3.5,3.8,2.5,-3.5,-3.5,-4.5,4.2,-0.8,-0.8,-4.5,-0.8,-3.2,-0.7,-3.5,-3.5,-3.5,2.5,-0.7,-3.5,-3.5,3.8,2.8,-3.5,2.8,3.8,-3.2,1.8,-4.5,-3.5,-3.2,2.5,4.2,1.8,-3.2,-3.9,3.8,2.8,-3.5,-3.5,3.8,-3.9
+Polar	0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,0,1,1,0,1,1,1,0,1
+Charge	0,0,0,-1,-1,-1,0,1,0,0,0,-1,0,0,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,-1,0,0,0,0,0,1,-1,0,0,-1,0,0,-1,1,0,0,1,0,1,-1,1,0,-1,0,0,-1,-1,1,0,0,0,1,0,1,0,-1,-1,-1,0,0,-1,-1,0,0,-1,0,0,1,0,1,-1,1,0,0,0,1,1,0,0,0,0,0,1
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLEDEQKMLTESGDPEEEEEEEEELVDPLTTVREQCEQLEKCVKARERLELCDERVSSRSHTEEDCTEELFDFLHARDHCVAHKLFNNLK
+PTM	Acetylation:42,85;Methylation:42;Phosphorylation:58,59,61,63,68;Ubiquitylation:42,85

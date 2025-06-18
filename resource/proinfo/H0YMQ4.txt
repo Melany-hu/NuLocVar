@@ -1,0 +1,25 @@
+UniprotID	H0YMQ4
+Accession	H0YMQ4
+EntryName	H0YMQ4_HUMAN
+ProteinName	F-box and leucine rich repeat protein 22
+GeneName	FBXL22
+Length	130
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MWPLLTMHITQLNRECLLHLFSFLDKDSRKSLARTCSQLHDVFEDPALWSLLHFRSLTELQKDNFLLGPALRSLSICWHSSRVQVCSIEDWLKSAFQRSICSRHESLVNDFLLRVCDRVRGLNDTVAPGT
+PTM	

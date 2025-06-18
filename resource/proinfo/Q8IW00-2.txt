@@ -1,0 +1,25 @@
+UniprotID	Q8IW00-2
+Accession	Q8IW00;B4DNI6;Q96MX7
+EntryName	VSTM4_HUMAN
+ProteinName	V-set and transmembrane domain-containing protein 4 [Cleaved into: Peptide Lv]
+GeneName	VSTM4 C10orf72
+Length	191
+Function	Peptide Lv enhances L-type voltage-gated calcium channel (L-VGCC) currents in retinal photoreceptors.
+Subcellular Location	Secreted; Cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	93...98
+validnes_region	
+nesbase_region	
+Sequence	MRLLALAAAALLARAPAPEVCAALNVTVSPGPVVDYLEGENATLLCHVSQKRRKDSLLAVRWFFAHSFDSQEALMVKMTKLRVVQYYGNFSRSAKRRRLRLLEEQRGALYRLSVLTLQPSDQGHYVCRVQEISRHRNKWTAWSNGSSATEMRGVSSHPVERGAFLGISLVILPHSLPFTADLTMASFLQSS
+PTM	Glycosylation:89;Methylation:281,296;Phosphorylation:67,155

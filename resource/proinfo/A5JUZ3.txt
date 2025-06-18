@@ -1,0 +1,25 @@
+UniprotID	A5JUZ3
+Accession	A5JUZ3
+EntryName	A5JUZ3_HUMAN
+ProteinName	Growth arrest and DNA damage inducible alpha (Growth arrest and DNA-damage-inducible 45 alpha)
+GeneName	GADD45A
+Length	60
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTLEEFSAGEQKTERMDKVGDALEEVLSKALSQRTITVGVYEAAKLLNVIHIHLNGRILP
+PTM	

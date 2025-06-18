@@ -1,0 +1,25 @@
+UniprotID	Q86TZ5
+Accession	Q86TZ5
+EntryName	Q86TZ5_HUMAN
+ProteinName	Full-length cDNA clone CS0DC001YO07 of Neuroblastoma of Homo sapiens (human) (Short chain dehydrogenase/reductase family 39U member 1)
+GeneName	SDR39U1
+Length	185
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAYYQPSLTAEYDEDSPGGDFDFFSNLVTKWEAAARLPGDSTRQVVVRSGVVLGRGGGAMGHMLLPFRLGLGGPIGSGHQFFPWIHIGDLAGILTHALEANHVHGVLNGVAPSSATNAEFAQTLGAALGRRAFIPLPSAVVQAVFGRQRAIMLLEGQKVIPQRTLATGYQYSFPELGAALKEIVA
+PTM	

@@ -1,0 +1,25 @@
+UniprotID	Q9ULX9-2
+Accession	Q9ULX9;B4DV49;Q9Y525
+EntryName	MAFF_HUMAN
+ProteinName	Transcription factor MafF (U-Maf) (V-maf musculoaponeurotic fibrosarcoma oncogene homolog F)
+GeneName	MAFF
+Length	135
+Function	Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves (PubMed:8932385). However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2L1/NRF1, and recruiting them to specific DNA-binding sites. Interacts with the upstream promoter region of the oxytocin receptor gene (PubMed:16549056, PubMed:8932385). May be a transcriptional enhancer in the up-regulation of the oxytocin receptor gene at parturition (PubMed:10527846).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGLSVRELNRHLRGLSAEEVTRLKQRRRTLKNRGYAASCRVKRVCQKEELQKQKSELEREVDKLARENAAMRLELDALRGKCEALQGFARSVAAARGPATLVAPASVITIVKSTPGSGSGPAHGPDPAHGPASCS
+PTM	Acetylation:9,141;Methylation:76,81,92;Phosphorylation:18,21,33,50;SUMOylation:9,14,76;Ubiquitylation:110

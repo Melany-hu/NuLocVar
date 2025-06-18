@@ -1,0 +1,25 @@
+UniprotID	Q9UI30-2
+Accession	Q9UI30;B2R539;J3KNG5;Q3MHC7;Q8N2Z4
+EntryName	TR112_HUMAN
+ProteinName	Multifunctional methyltransferase subunit TRM112-like protein (tRNA methyltransferase 112 homolog)
+GeneName	TRMT112 AD-001 HSPC152 HSPC170
+Length	120
+Function	Acts as an activator of both rRNA/tRNA and protein methyltransferases (PubMed:18539146, PubMed:20308323, PubMed:25851604, PubMed:31061526, PubMed:31328227, PubMed:31636962, PubMed:37283053). Together with methyltransferase BUD23, methylates the N(7) position of a guanine in 18S rRNA (PubMed:25851604). The heterodimer with N6AMT1/HEMK2 catalyzes N5-methylation of ETF1 on 'Gln-185', using S-adenosyl L-methionine as methyl donor (PubMed:18539146, PubMed:31061526, PubMed:31636962). The heterodimer with N6AMT1/HEMK2 also monomethylates 'Lys-12' of histone H4 (H4K12me1) (PubMed:31061526). The heterodimer with ALKBH8 catalyzes the methylation of 5-carboxymethyl uridine to 5-methylcarboxymethyl uridine at the wobble position of the anticodon loop in target tRNA species (PubMed:20308323). Together with methyltransferase THUMPD3, catalyzes the formation of N(2)-methylguanosine at position 6 in a broad range of tRNA substrates and at position 7 of tRNA(Trp) (PubMed:34669960, PubMed:37283053). Involved in the pre-rRNA processing steps leading to small-subunit rRNA production (PubMed:25851604). Together with methyltransferase METTL5, specifically methylates the 6th position of adenine in position 1832 of 18S rRNA (PubMed:31328227, PubMed:33428944, PubMed:35033535, PubMed:37283053).
+Subcellular Location	Nucleus; Nucleoplasm; Cytoplasm; Perinuclear region
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKLLTHNLLSSHVRGVGSRGFPLRLQATEVRICPVEFNPNFVARMIPKVEWSAFLEAADNVPKGPVEGYEENEEFLRTMHHLLLEVEVIEGTLQCPESGRMFPISRGIPNMLLSEEETES
+PTM	Methylation:14,24;Phosphorylation:10,119,123,125;SUMOylation:2,48,68;Ubiquitylation:2,48,68

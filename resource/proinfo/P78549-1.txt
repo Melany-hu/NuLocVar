@@ -1,0 +1,25 @@
+UniprotID	P78549-1
+Accession	P78549;Q1MVR1;Q99566;Q99794;Q9BPX2
+EntryName	NTH_HUMAN
+ProteinName	Endonuclease III-like protein 1 (hNTH1) (EC 3.2.2.-) (EC 4.2.99.18) (Bifunctional DNA N-glycosylase/DNA-(apurinic or apyrimidinic site) lyase) (DNA glycosylase/AP lyase)
+GeneName	NTHL1 NTH1 OCTS3
+Length	312
+Function	Bifunctional DNA N-glycosylase with associated apurinic/apyrimidinic (AP) lyase function that catalyzes the first step in base excision repair (BER), the primary repair pathway for the repair of oxidative DNA damage (PubMed:29610152, PubMed:9927729). The DNA N-glycosylase activity releases the damaged DNA base from DNA by cleaving the N-glycosidic bond, leaving an AP site. The AP-lyase activity cleaves the phosphodiester bond 3' to the AP site by a beta-elimination. Primarily recognizes and repairs oxidative base damage of pyrimidines. Also has 8-oxo-7,8-dihydroguanine (8-oxoG) DNA glycosylase activity. Acts preferentially on DNA damage opposite guanine residues in DNA. Is able to process lesions in nucleosomes without requiring or inducing nucleosome disruption.
+Subcellular Location	Nucleus; Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	28..52
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	37...42;52...57;36...60;55...59
+validnes_region	
+nesbase_region	
+Sequence	MCSPQESGMTALSARMLTRSRSLGPGAGPRGCREEPGPLRRREAAAEARKSHSPVKRPRKAQRLRVAYEGSDSEKGEGAEPLKVPVWEPQDWQQQLVNIRAMRNKKDAPVDHLGTEHCYDSSAPPKVRRYQVLLSLMLSSQTKDQVTAGAMQRLRARGLTVDSILQTDDATLGKLIYPVGFWRSKVKYIKQTSAILQQHYGGDIPASVAELVALPGVGPKMAHLAMAVAWGTVSGIAVDTHVHRIANRLRWTKKATKSPEETRAALEEWLPRELWHEINGLLVGFGQQTCLPVHPRCHACLNQALCPAAQGL
+PTM	Acetylation:56;Methylation:21,50;Phosphorylation:13,20,22,51,53,68,71,73,135,177;SUMOylation:83,105,174,190

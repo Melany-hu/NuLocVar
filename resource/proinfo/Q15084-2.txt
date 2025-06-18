@@ -1,0 +1,25 @@
+UniprotID	Q15084-2
+Accession	Q15084;B3KY95;B5MCQ5;B7Z254;B7Z4M8;F8WA83;Q53RC7;Q6ZSH5;Q99778
+EntryName	PDIA6_HUMAN
+ProteinName	Protein disulfide-isomerase A6 (EC 5.3.4.1) (Endoplasmic reticulum protein 5) (ER protein 5) (ERp5) (Protein disulfide isomerase P5) (Thioredoxin domain-containing protein 7)
+GeneName	PDIA6 ERP5 P5 TXNDC7
+Length	492
+Function	May function as a chaperone that inhibits aggregation of misfolded proteins (PubMed:12204115). Negatively regulates the unfolded protein response (UPR) through binding to UPR sensors such as ERN1, which in turn inactivates ERN1 signaling (PubMed:24508390). May also regulate the UPR via the EIF2AK3 UPR sensor (PubMed:24508390). Plays a role in platelet aggregation and activation by agonists such as convulxin, collagen and thrombin (PubMed:15466936).
+Subcellular Location	Endoplasmic reticulum lumen; Cell membrane; Melanosome
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MRRDLREKLVWVCRPLAPVEVPANISSDFQPCSPTSPAHSLSRKSPIMYPSTTMANAPGLVSCTFFLAVNGLYSSSDDVIELTPSNFNREVIQSDSLWLVEFYAPWCGHCQRLTPEWKKAATALKDVVKVGAVDADKHHSLGGQYGVQGFPTIKIFGSNKNRPEDYQGGRTGEAIVDAALSALRQLVKDRLGGRSGGYSSGKQGRSDSSSKKDVIELTDDSFDKNVLDSEDVWMVEFYAPWCGHCKNLEPEWAAAASEVKEQTKGKVKLAAVDATVNQVLASRYGIRGFPTIKIFQKGESPVDYDGGRTRSDIVSRALDLFSDNAPPPELLEIINEDIAKRTCEEHQLCVVAVLPHILDTGAAGRNSYLEVLLKLADKYKKKMWGWLWTEAGAQSELETALGIGGFGYPAMAAINARKMKFALLKGSFSEQGINEFLRELSFGRGSTAPVGGGAFPTIVEREPWDGRDGELPVEDDIDLSDVELDDLGKDEL
+PTM	Acetylation:66,85,245,368;Methylation:66,73,77,85,102,108,136,160,172,208,216,241,288,322,373,392,409;Phosphorylation:70,119,129,143,146,147,148,156,157,166,169,223,230,248,252,259,263,315,375,377,389,394,395,405,428;SUMOylation:102,208,245;Ubiquitylation:66,73,77,108,150,216,241,245,326,373

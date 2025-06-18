@@ -1,0 +1,25 @@
+UniprotID	I3L1A5
+Accession	I3L1A5
+EntryName	I3L1A5_HUMAN
+ProteinName	Thioredoxin domain containing 11
+GeneName	TXNDC11
+Length	147
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	RPELLCGAVALGCALLLALKFTCSRAKDVIIPAKPPVSFFSLRSPVLDLFQGQLDYAEYVRRDSEVVLLFFYAPWCGQSIAARAEIEQAASRLSDQVLFVAINCWWNQGKCRKQKHFFYFPVIYLYHRSLEYSGTLSSVAHPSLLVI
+PTM	

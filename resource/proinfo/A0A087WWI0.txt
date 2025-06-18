@@ -1,0 +1,25 @@
+UniprotID	A0A087WWI0
+Accession	A0A087WWI0
+EntryName	A0A087WWI0_HUMAN
+ProteinName	Leucine rich melanocyte differentiation associated
+GeneName	LRMDA
+Length	226
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAGLVVRGTQVSYIGQDCREIPEHLGRDCGHFAKRLDLSFNLLRSLEGLSAFRSLEELILDNNQLGDDLVLPGLPRLHTLTLNKNRITDLENLLDHLAEVTPALEYLSLLGNVACPNELVSLEKDEEDYKRYRCFVLYKLPNLKFLDAQKVTRQEREEALVRGVFMKVVKPKASSEDVASSPERHYTPLPSASRELTSHQGVLGKCRYVYYGKNSEGNRFIRDDQL
+PTM	

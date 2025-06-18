@@ -1,0 +1,25 @@
+UniprotID	Q96MD7-1
+Accession	Q96MD7;Q5W0N1;Q5W0N3;Q6PJW9;Q86U95
+EntryName	CI085_HUMAN
+ProteinName	Uncharacterized protein C9orf85
+GeneName	C9orf85
+Length	157
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSSQKGNVARSRPQKHQNTFSFKNDKFDKSVQTKKINAKLHDGVCQRCKEVLEWRVKYSKYKPLSKPKKCVKCLQKTVKDSYHIMCRPCACELEVCAKCGKKEDIVIPLNKETEKIEHTENNLSSNHRRSCRRNEESDDDLDFDIDLEDTGGDHQMN
+PTM	Acetylation:39;Methylation:34;Phosphorylation:21,65

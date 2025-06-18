@@ -1,0 +1,25 @@
+UniprotID	O15382-2
+Accession	O15382;B2RB87;O00269;Q96KG1;Q9BTB6;Q9BUU6
+EntryName	BCAT2_HUMAN
+ProteinName	Branched-chain-amino-acid aminotransferase, mitochondrial (BCAT(m)) (EC 2.6.1.42) (Placental protein 18) (PP18)
+GeneName	BCAT2 BCATM BCT2 ECA40
+Length	300
+Function	Catalyzes the first reaction in the catabolism of the essential branched chain amino acids leucine, isoleucine, and valine (PubMed:17050531, PubMed:25653144, PubMed:8702755). May also function as a transporter of branched chain alpha-keto acids (By similarity).
+Subcellular Location	Mitochondrion
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAAAALGQLFEGMKAFKGKDQQVRLFRPWLNMDRMLRSAMRLCLPSFDKLELLECIRRLIEVDKDWVPDAAGTSLYVRPVLIGNEPSLGVSQPTRALLFVILCPVGAYFPGGSVTPVSLLADPAFIRAWVGGVGNYKLGGNYGPTVLVQQEALKRGCEQVLWLYGPDHQLTEVGTMNIFVYWTHEDGVLELVTPPLNGVILPGVVRQSLLDMAQTWGEFRVVERTITMKQLLRALEEGRVREVFGSGTACQVCPVHRILYKDRNLHIPTMENGPELILRFQKELKEIQYGIRAHEWMFPV
+PTM	Acetylation:44,141,229,246,321,353,374,377;Methylation:156,246;Phosphorylation:130,166;Ubiquitylation:109,141,229,246,321,353,377

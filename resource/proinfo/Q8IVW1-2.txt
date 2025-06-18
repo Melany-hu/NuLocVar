@@ -1,0 +1,25 @@
+UniprotID	Q8IVW1-2
+Accession	Q8IVW1;B0AZR6;Q59FW5;Q8N6E2;Q8TD73;Q8WW54;Q9NZD5;Q9P158
+EntryName	ARL17_HUMAN
+ProteinName	ADP-ribosylation factor-like protein 17 (ADP-ribosylation factor 7 variant)
+GeneName	ARL17A ARL17P1; ARL17B ARF1P2 ARL17A PRO2667
+Length	125
+Function	GTP-binding protein that functions as an allosteric activator of the cholera toxin catalytic subunit, an ADP-ribosyltransferase. Involved in protein trafficking; may modulate vesicle budding and uncoating within the Golgi apparatus (By similarity).
+Subcellular Location	Golgi apparatus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MGNIFEKLFKSLLGKKKMRILILSLDTAGKTTILYKLKLGETVPAVPTVGFCVETVEYKNNTFAVWDVGSHFKIRPLWQHFFQNTKELSASQFAQFIKKLCGVTGTNDEASPGSLTSYPSHLLDR
+PTM	Methylation:15,36;Phosphorylation:35;SUMOylation:73;Ubiquitylation:15,36

@@ -1,0 +1,25 @@
+UniprotID	Q86TE4-3
+Accession	Q86TE4;A2RUB8;E9PN53;Q6UXE7;Q6ZS65
+EntryName	LUZP2_HUMAN
+ProteinName	Leucine zipper protein 2
+GeneName	LUZP2 UNQ2566/PRO6246
+Length	136
+Function	
+Subcellular Location	Secreted
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MKFSPAHYLLPLLPALVLSTRQDYEELEKQLKEVFKERSTILRQLTKTSRELDGIKVNLQSLKNDEQSAKTDVQKLLELGQKQREEMKSLQEALQNQLKETSEKAEKHQATINFLKTEVERKSKMIRDLQNEVIQI
+PTM	Acetylation:29;Methylation:29,82,116,174,189,194;Phosphorylation:201;SUMOylation:162,325;Ubiquitylation:82,156

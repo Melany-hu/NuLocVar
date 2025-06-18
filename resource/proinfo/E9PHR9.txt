@@ -1,0 +1,25 @@
+UniprotID	E9PHR9
+Accession	E9PHR9
+EntryName	E9PHR9_HUMAN
+ProteinName	Phospholipid scramblase
+GeneName	PLSCR4
+Length	239
+Function	May mediate accelerated ATP-independent bidirectional transbilayer migration of phospholipids upon binding calcium ions that results in a loss of phospholipid asymmetry in the plasma membrane.
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MSGVVPTAPEQPAGEMENQTKPPDPRPDAPPEYNSHFLPGPPGTAVPPPTGYPGGLPMGYYSPQQPSTFPLYQPVGGIHPVRYQPGKYPMPNQSVPITWMPGPTPMANCPPGLEYLVQLEVQCPPGVTIGFVAEHWNLCRAVYSIQNEKKENVMRVRGPCSTYGCGSDSVFEVKSLDGISNIGSIIRKWNGLLSAMADADHFDIHFPLDLDVKMKAMIFGACFLIDFMYFERSPPQRSR
+PTM	

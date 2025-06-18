@@ -1,0 +1,25 @@
+UniprotID	Q71RG4-4
+Accession	Q71RG4;B3KU81;Q8NDI2;Q9BPZ5;Q9HAG3
+EntryName	TMUB2_HUMAN
+ProteinName	Transmembrane and ubiquitin-like domain-containing protein 2
+GeneName	TMUB2 FP2653 UNQ1897/PRO4343
+Length	94
+Function	
+Subcellular Location	Membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MELSDVTLIEGVGNEVMVVAGVVVLILALVLAWLSTYVADSGSNQLLGAIVSAGDTSVLHLGHVDHLVAGQGNPEPTELPHPSEANTSLDKKAR
+PTM	Methylation:145,200;Phosphorylation:120,153,154,164,170,201;SUMOylation:200;Ubiquitylation:145,179,200,202,212

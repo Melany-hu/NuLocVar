@@ -1,0 +1,25 @@
+UniprotID	L0R839
+Accession	L0R839
+EntryName	L0R839_HUMAN
+ProteinName	Alternative protein CNTN6
+GeneName	CNTN6
+Length	81
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEVEEVGLNSSLRGSQFQKNCRMGRDLDISSCSGQWARQPGPRRKCHLWNHQGLSTEMKASSHCLPLKSKWVCIIMKEKDP
+PTM	

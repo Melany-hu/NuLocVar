@@ -1,0 +1,25 @@
+UniprotID	Q96S37-4
+Accession	Q96S37;B7WPG1;G3XAN7;Q19PF7;Q19PF8;Q19PF9;Q19PG0;Q6UXW3;Q96DT2
+EntryName	S22AC_HUMAN
+ProteinName	Solute carrier family 22 member 12 (Organic anion transporter 4-like protein) (Renal-specific transporter) (RST) (Urate anion exchanger 1) (URAT1) (Urate:anion antiporter SLC22A12)
+GeneName	SLC22A12 OATL4 URAT1 UNQ6453/PRO34004
+Length	519
+Function	Electroneutral antiporter that translocates urate across the apical membrane of proximal tubular cells in exchange for monovalent organic or inorganic anions (PubMed:12024214, PubMed:22194875, PubMed:35144162, PubMed:35462902). Involved in renal reabsorption of urate and helps maintaining blood levels of uric acid (PubMed:12024214, PubMed:22194875). Mediates urate uptake by an exchange with organic anions such as (S)-lactate and nicotinate, and inorganic anion Cl(-) (PubMed:12024214). Other inorganic anions such as Br(-), I(-) and NO3(-) may also act as counteranions that exchange for urate (PubMed:12024214). Also mediates orotate tubular uptake coupled with nicotinate efflux and to a lesser extent with lactate efflux, therefore displaying a potential role in orotate renal reabsorption (PubMed:21350910). Orotate transport is Cl(-)-dependent (PubMed:21350910).
+Subcellular Location	Apical cell membrane
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MAFSELLDLVGGLGRFQVLQTMALMVSIMWLCTQSMLENFSAAVPSHRCWAPLLDNSTAQASILGSLSPEALLAISIPPGPNQRPHQCRRFRQPQWQLLDPNATATSWSEADTEPCVDGWVYDRSIFTSTIVAKWNLVCDSHALKPMAQSIYLAGILVGAAACGPASDRFGRRLVLTWSYLQMAVMVMEWTAARARPLVMTLNSLGFSFGHGLTAAVAYGVRDWTLLQLVVSVPFFLCFLYSWWLAESARWLLTTGRLDWGLQELWRVAAINGKGAVQDTLTPEVLLSAMREELSMGQPPASLGTLLRMPGLRFRTCISTLCWFAFGFTFFGLALDLQALGSNIFLLQMFIGVVDIPAKMGALLLLSHLGRRPTLAASLLLAGLCILANTLVPHEMGALRSALAVLGLGGVGAAFTCITIYSSELFPTVLRMTAVGLGQMAARGGAILGPLVRLLGVHGPWLPLLVYGTVPVLSGLAALLLPETQSLPLPDTIQDVQNQAVKKATHGTLGNSVLKSTQF
+PTM	Phosphorylation:4,314

@@ -1,0 +1,25 @@
+UniprotID	B4DUA7
+Accession	B4DUA7
+EntryName	B4DUA7_HUMAN
+ProteinName	Mediator of RNA polymerase II transcription subunit 29 (Intersex-like protein) (Mediator complex subunit 29)
+GeneName	MED29 IXL hCG_43365
+Length	221
+Function	
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MLKSNGERRSRNALPAVYARKMAASQQQASAASSAAGVSGPSSAGGPGPQQQPQPPAQLVGPAQSGLLQQQQQDFDPVQRYKMLIPQLKESLQTLMKVAAQNLIQNTNIDNGQKSSDGPIQRFDKCLEEFYALCDQLELCLRLAHECLSQSCDSAKHSPTLVPTATKPDAVQPDSLPYPQYLAVIKAQISCAKDIHTALLDCANKVTGKTPAPPAGPGGTL
+PTM	

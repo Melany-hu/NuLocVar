@@ -1,0 +1,25 @@
+UniprotID	P43699-3
+Accession	P43699;D3DSA3;O14954;O14955;Q7KZF6;Q9BRJ8
+EntryName	NKX21_HUMAN
+ProteinName	Homeobox protein Nkx-2.1 (Homeobox protein NK-2 homolog A) (Thyroid nuclear factor 1) (Thyroid transcription factor 1) (TTF-1) (Thyroid-specific enhancer-binding protein) (T/EBP)
+GeneName	NKX2-1 NKX2A TITF1 TTF1
+Length	401
+Function	Transcription factor that binds and activates the promoter of thyroid specific genes such as thyroglobulin, thyroperoxidase, and thyrotropin receptor. Crucial in the maintenance of the thyroid differentiation phenotype. May play a role in lung development and surfactant homeostasis. Forms a regulatory loop with GRHL2 that coordinates lung epithelial cell morphogenesis and differentiation. Activates the transcription of GNRHR and plays a role in enhancing the circadian oscillation of its gene expression. Represses the transcription of the circadian transcriptional repressor NR1D1 (By similarity).
+Subcellular Location	Nucleus
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	190...195
+validnes_region	
+nesbase_region	
+Sequence	MWSGGSGKARGWEAAAGGRSSPGRLSRRRIMSMSPKHTTPFSVSDILSPLEESYKKVGMEGGGLGAPLAAYRQGQAAPPTAAMQQHAVGHHGAVTAAYHMTAAGVPQLSHSAVGGYCNGNLGNMSELPPYQDTMRNSASGPGWYGANPDPRFPAISRFMGPASGMNMSGMGGLGSLGDVSKNMAPLPSAPRRKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRYKMKRQAKDKAAQQQLQQDSGGGGGGGGTGCPQQQQAQQQSPRRVAVPVLVKDGKPCQAGAPAPGAASLQGHAQQQAQHQAQAAQAAAAAISVGSGGAGLGAHPGHQPGSAGQSPDLAHHAASPAALQGQVSSLSHLNSSGSDYGTMSCSTLLYGRTW
+PTM	Methylation:121,265;Phosphorylation:18,41,50,233,254

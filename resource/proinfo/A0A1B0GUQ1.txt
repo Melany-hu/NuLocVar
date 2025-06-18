@@ -1,0 +1,25 @@
+UniprotID	A0A1B0GUQ1
+Accession	A0A1B0GUQ1
+EntryName	A0A1B0GUQ1_HUMAN
+ProteinName	Neurexin 1
+GeneName	NRXN1
+Length	123
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	TLSGLLGVAWGASSLGAHHIHHFHGSSKHHSVPIAIYRSPASLRGGHAGTTYIFSKGGGQITYKWPPNDRPSTRADRLAIGFSTVQKEAVLVRVDSSSGLGDYLELHIAFESFTASRSSASRC
+PTM	
