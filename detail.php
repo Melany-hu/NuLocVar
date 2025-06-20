@@ -45,6 +45,8 @@
         <div class="card-body" id='get-alert'></div>
         <div class="card-body" id="result-show">
           <div class="row">
+
+
             <div class="col-md-12">
               <span class="sub-title">About protein</span>
               <br><br>
@@ -55,7 +57,9 @@
               <hr>
             </div>
 
-            <div class="col-md-7">
+
+
+            <div class="col-md-12">
               <span class="sub-title">Nuclear localization codes</span>
               <br><br>
 
@@ -65,26 +69,36 @@
               <hr>
             </div>
 
-            <div class="col-md-5">
+
+            <div class="col-md-12">
               <span class="sub-title">Known subcellular location</span>
               <br><br>
-                  <div style="height: 280px;">
-                    <?php require('./resource/sublocation_animal.php') ?>
-                  </div>
+
+              <!--细胞结构-->
+              <template id="sibSwissBioPicsStyle">
+              </template>
+
+              <!--侧边栏-->
+              <template id="sibSwissBioPicsSlLiItem">
+                <li class="subcellular_location" style="display:none !important">
+                <a class="subcell_name" style="display:none !important"></a>
+                <span class="subcell_description" style="display:none !important"></span>
+                </li>
+              </template>
+
+              <!--细胞类型-->
+              <sib-swissbiopics-sl taxid="9606" sls="86"></sib-swissbiopics-sl>
                   <p id="locInfoShow" style="text-align: center;"></p>
-                  <!--table id='locInfoShow' class="table table-bordered"  style="display: none">
-                    <thead><tr><th>Locations</th></tr></thead>
-                    <tbody></tbody>
-                  </table-->
       
             </div>
+
 
             <div class="col-md-12">
               <span class="sub-title">pNuLoC scores and protein structures</span>
               <br><br>
               <div id="domain" style="height:150px;width:100%"></div>
               <div id="scores" style="height:150px;width:100%"></div>
-              <div id="ptminfo" style="height:180px;width:99%"></div>
+              <div id="ptminfo" style="height:180px;width:100%;margin-left:15px;margin-right:15px;"></div>
               <div id="disorder" style="height:60px;width:100%"></div>
               <div id="expose" style="height:60px;width:100%"></div>
               <div id="polar" style="height:60px;width:100%"></div>
@@ -125,6 +139,9 @@
   <!-- Vendor JS Files -->
   <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
   <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+
+  <script type="module" src="node_modules/@swissprot/swissbiopics-visualizer/swissbiopics.js"></script>
+
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>

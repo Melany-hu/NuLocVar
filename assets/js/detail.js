@@ -460,8 +460,8 @@ function showPTMOption(sequence, ptminfo) {
                 }
             },
             legend: {
-                x: '20',
-                top: '25',
+                right: 70,
+                top: 10,
                 textStyle: {
                     color: '#90979c'
                 },
@@ -1411,7 +1411,7 @@ function showRegionInfo(regionList,pmidList){
 //<tr><td colspan=2 class='title1'>pNuLoC region</td><td>"+showRegionInfo(proInfo['pNuLoCRegion'],'')+"</td></tr>\
 function showRegion(){
 	var showRegionRes = 
-	"<tr><td colspan=2 class='title1'>pNuLoC score</td><td>"+proInfo['pNuLoCProb']+"</td></tr>\
+	"<tr><td colspan=2 class='title1'>pNuLoC score</td><td>"+parseFloat(proInfo['pNuLoCProb']).toFixed(3)+"</td></tr>\
 	<tr><td colspan=2 class='title1'>pNuLoC level</td><td>"+proInfo['pNuLoCRank']+"</td></tr>\
 	<tr><td colspan=2 class='title1'>pNuLoC region</td><td>"+showRegionInfo(proInfo['pNuLoCRegion'],'')+"</td></tr>\
 	<tr><td rowspan=3 class='title2'>NLS</td><td class='title3'>SeqNLS region</td><td>"+showRegionInfo(proInfo['SeqNLSRegion'],proInfo['SeqNLSPMID'])+"</td></tr>\
