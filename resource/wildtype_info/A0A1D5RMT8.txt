@@ -1,0 +1,30 @@
+UniprotID	A0A1D5RMT8
+Accession	A0A1D5RMT8
+EntryName	A0A1D5RMT8_HUMAN
+ProteinName	Cholinergic receptor nicotinic beta 3 subunit
+GeneName	CHRNB3
+Length	9
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+pNuLoCProb	0.2935408
+pNuLoCRegion	
+pNuLoCScore	0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889,0.2956416988888889
+pNuLoCDScore	0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pNuLoCRank	Nonucleus
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MTTNVWLKQ
+PTM	

@@ -432,8 +432,6 @@ function showLegand(ptminfo){
 
 function showPTMOption(sequence, ptminfo) {
     var ptmSeries = showPTM(sequence, ptminfo);
-    console.log(ptmSeries);
-    console.log(sequence);
     if (ptminfo != "") {
         var option = {
             title: {
@@ -1432,77 +1430,91 @@ function showProPos(posID){
 }
 
 
-function showLoc(){
-	var subLocInfo = proInfo['Subcellular Location'];
-	//var locInfoShow =  '';
-	console.log(subLocInfo);
-	if(subLocInfo != ''){
-	    sublocations = subLocInfo.split('; ');
-	    var validLocations = [];
-	    for(var i in sublocations){
-	    	//locInfoShow += "<tr><td>"+sublocations[i]+"</td></tr>";
-			console.log(sublocations[i]);
-			if(sublocations[i] == 'Mitochondrion'){
-				showProPos('#Mitochondrion_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Endosome'){
-				showProPos('#Endosome_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Nucleus'){
-				showProPos('#Nucleus_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Lysosome'){
-				showProPos('#Lysosome_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Peroxisome'){
-				showProPos('#Peroxisome_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Golgi apparatus'){
-				showProPos('#Golgi_Apparatus_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Endoplasmic reticulum membrane' || sublocations[i] == 'Endoplasmic reticulum'){
-				showProPos('#Endoplasmic_Reticulum_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Cytoskeleton'){
-				showProPos('#Cytoskeleton_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Cell membrane' || sublocations[i] == 'Plasma membrane'){
-				showProPos('#Plasma_Membrane_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Cytosol'){
-				showProPos('#Cytosol_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Cytoplasm'){
-				showProPos('#Cytoplasm_site');
-				validLocations.push(sublocations[i]);
-			}
-			else if(sublocations[i] == 'Extracellular' || sublocations[i] == 'Secreted'){
-				showProPos('#Extracellular_region_or_secreted_site');
-				validLocations.push(sublocations[i]);
-			}
-	    }
-	    //$('#locInfoShow tbody').html(locInfoShow);
-	    if(validLocations.length > 0){
-	        $('#locInfoShow').html(validLocations.join(', '));
-	    } else {
-	        $('#locInfoShow').html("No locations found.");
-	    }
-	}
-	else{
-		$('#uniprot_sublocation').css('opacity',0.5);
-		//$('#locInfoShow tbody').html("<tr><td style='color:red'>No locations.</td></tr>");
-		$('#locInfoShow').html("No locations.");
-	}
+function showLoc() {
+    const subcellularLocationStr = proInfo['Subcellular Location'] || "";
+    if (!subcellularLocationStr) {
+        $('#locInfoShow').html('<span style="color:gray;">No subcellular location information.</span>');
+        $('.cell-figure').html('<sib-swissbiopics-sl taxid="9606" sls=""></sib-swissbiopics-sl>');
+        return;
+    }
+
+    const locationNames = subcellularLocationStr.split('; ').map(s => s.trim()).filter(Boolean);
+    console.log('locationNames:', locationNames);
+
+    const slsMap = {
+        "Nucleus": { id: 191},
+        "Cytoplasm": { id: 86},
+        "Mitochondrion": { id: 173},
+        "Cell membrane": { id: 39},
+        "Endoplasmic reticulum": { id: 95},
+        "Golgi apparatus": { id: 132 },
+        "Lysosome": { id: 158 },
+        "Chromosome": { id: 191 },
+		"Secreted": { id: 243 },
+    };
+
+    const slsIds = locationNames
+        .map(name => slsMap[name]?.id)
+        .filter(id => id !== undefined)
+        .join(',');
+
+    console.log('slsIds:', slsIds);
+
+    // 关键：每次都重新插入组件
+    $('.cell-figure').html(`<sib-swissbiopics-sl taxid="9606" sls="${slsIds}"></sib-swissbiopics-sl>`);
+
+    // 右侧打印出location
+    let html = '';
+    locationNames.forEach(name => {
+        const slsId = slsMap[name]?.id;
+        html += `
+          <div class="location-item" data-slsid="${slsId}" style="margin-right: 30px; cursor: pointer;">
+            <span style="font-size: 15px; color: #233047; margin-right: 0px;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" fill="#233047"/></svg>
+            </span>
+            <span style="font-size: 15px; font-weight: bold; color: #233047;">${name}</span>
+          </div>
+        `;
+    });
+    $('.cell-location-list').html(html);
+
+
+    // 工具函数：注入/移除高亮 style
+    function injectHighlightStyle(slsId) {
+        const el = document.querySelector('.cell-figure sib-swissbiopics-sl');
+        if (el && el.shadowRoot) {
+            // 先移除旧的
+            const oldStyle = el.shadowRoot.getElementById('dynamic-swissbiopics-style');
+            if (oldStyle) oldStyle.remove();
+            if (slsId !== undefined && slsId !== "") {
+                const style = document.createElement('style');
+                style.id = 'dynamic-swissbiopics-style';
+                style.textContent = `
+                    #SL${String(slsId).padStart(4, '0')} *:not(text) {fill:#22b8cf !important;}
+                    #SL${String(slsId).padStart(4, '0')} *:not(path, .coloured) {opacity:0.8 !important;}
+                    #SL${String(slsId).padStart(4, '0')} .coloured {stroke:black !important;}
+                `;
+                el.shadowRoot.appendChild(style);
+            }
+        }
+    }
+    // 监听 SVG 加载完成后再允许注入高亮
+    function waitForSVGAndBindHover() {
+        const el = document.querySelector('.cell-figure sib-swissbiopics-sl');
+        if (el && el.shadowRoot && el.shadowRoot.querySelector('svg')) {
+            // 悬停高亮
+            $('.location-item').on('mouseenter', function() {
+                const slsId = $(this).data('slsid');
+                injectHighlightStyle(slsId);
+            });
+            $('.location-item').on('mouseleave', function() {
+                injectHighlightStyle(); // 只移除高亮，恢复全灰
+            });
+        } else {
+            setTimeout(waitForSVGAndBindHover, 100);
+        }
+    }
+    waitForSVGAndBindHover();
 }
 
 function getProByAJAX(uniprot){

@@ -1,0 +1,30 @@
+UniprotID	O97980
+Accession	O97980;Q9MY25
+EntryName	HMHB1_HUMAN
+ProteinName	Minor histocompatibility protein HB-1 [Cleaved into: Minor histocompatibility antigen HB-1 (mHag HB-1)]
+GeneName	HMHB1
+Length	41
+Function	Precursor of the histocomplatibility antigen HB-1. More generally, minor histocomplatibility antigens (mHags) refer to immunogenic peptide which, when complexed with MHC, can generate an immune response after recognition by specific T-cells. The peptides are derived from polymorphic intracellular proteins, which are cleaved by normal pathways of antigen processing. The binding of these peptides to MHC class I or class II molecules and its expression on the cell surface can stimulate T-cell responses and thereby trigger graft rejection or graft-versus-host disease (GVHD) after hematopoietic stem cell transplantation from HLA-identical sibling donor. GVHD is a frequent complication after bone marrow transplantation (BMT), due to mismatch of minor histocomplatibility antigen in HLA-matched sibling marrow transplants. HB-1 is presented on the cell surface by MHC class I HLA-B44. This complex specifically elicits donor-cytotoxic T lymphocyte (CTL) reactivity in B-cell acute lymphoblastic leukemia (B-ALL) after treatment by HLA-identical allogenic bone marrow transplantation (BMT). It induces cell recognition and lysis by CTL. However, HB-1 restricted expression in B-ALL cells and not in normal tissues may allow a specific CTL reactivity against B-ALL without the risk of evoking graft-versus-host disease.
+Subcellular Location	
+Disorder	0.7459,0.6991,0.7209,0.7289,0.6227,0.6322,0.5665,0.4149,0.4220,0.4369,0.4619,0.4149,0.3667,0.3667,0.3182,0.2988,0.3019,0.3631,0.3356,0.2645,0.2002,0.1914,0.2064,0.2034,0.2034,0.2645,0.2064,0.2645,0.3215,0.3117,0.2541,0.2224,0.2575,0.2817,0.2436,0.2783,0.2364,0.1914,0.1424,0.1671,0.2224
+ExposeBuried	1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,1
+SurfaceAccessbility	0.826,0.758,0.716,0.534,0.456,0.679,0.131,0.429,0.669,0.626,0.544,0.499,0.456,0.385,0.175,0.336,0.208,0.152,0.441,0.460,0.535,0.238,0.253,0.623,0.201,0.608,0.610,0.472,0.148,0.224,0.139,0.324,0.300,0.477,0.544,0.504,0.237,0.468,0.344,0.534,0.681
+SecondStructure	C,C,C,C,C,A,C,A,A,A,A,C,C,C,B,B,B,B,C,C,C,C,B,B,B,C,C,C,B,B,B,B,C,C,C,C,C,B,B,C,C
+Hydropathy	1.9,-3.5,-3.5,-3.5,-1.6,-3.5,2.5,-4.5,-3.5,-3.5,-3.9,-4.5,-0.4,-0.8,3.8,-3.2,4.2,-0.9,-3.9,-0.8,-3.5,3.8,4.2,-3.5,4.2,-3.5,-3.5,-3.5,4.2,-1.3,3.8,-4.5,-3.2,-0.8,-0.8,-0.8,3.8,-0.7,-1.3,-4.5,3.8
+Polar	0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0
+Charge	0,-1,-1,0,0,-1,0,1,-1,-1,1,1,0,0,0,1,0,0,1,0,-1,0,0,-1,0,-1,-1,-1,0,0,0,1,1,0,0,0,0,0,0,1,0
+pNuLoCProb	0.70107514
+pNuLoCRegion	2...22
+pNuLoCScore	0.44367617555555555,0.466930098,0.48329379818181817,0.497556265,0.5091217946153846,0.5193182878571428,0.5273961513333333,0.534527004375,0.54065263,0.5492636064705883,0.5585556205882353,0.56774887,0.5797606682352942,0.5914502858823528,0.6032691947058824,0.6196796664705884,0.6335574005882354,0.637602341764706,0.6383339241176471,0.6420278888235295,0.64511733,0.6473558211764706,0.6494890270588235,0.6526195247058824,0.6579607464705882,0.6632061088235294,0.6714006294117646,0.6804600941176471,0.6884787099999998,0.6946888723529411,0.6992437811764706,0.7037238047058822,0.7066154576470588,0.7095864175,0.7122401386666667,0.7139249842857144,0.7142478138461539,0.7148548066666667,0.71748138,0.720415798,0.7233836977777778
+pNuLoCDScore	0.09697645444444442,0.1055874309150327,0.11487944503267972,0.12407269444444441,0.1360844926797386,0.14777411032679727,0.1595930191503268,0.1760034909150328,0.18988122503267985,0.17067224376470597,0.15504012593582894,0.14447162382352946,0.1359955353846154,0.12803753331932777,0.12209287572549021,0.11809252033088236,0.11730811647058825,0.11394250235294112,0.11284500882352932,0.11271122411764711,0.10871804176470568,0.10323858647058826,0.09597458647058821,0.08404413823529389,0.0730580570588234,0.07198407573529397,0.07390621454901958,0.07189709546218492,0.06913048384615383,0.06749898549019606,0.06799235294117645,0.06779627329411764,0.06542295130718956,0.06017758895424841,0.051983068366013185,0.042923603660130705,0.03490498777777795,0.0286948254248367,0.02413991660130721,0.01965989307189553,0.01676824013071898
+pNuLoCRank	Medium
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MEEQPECREEKRGSLHVWKSELVEVEDDVYLRHSSSLTYRL
+PTM	

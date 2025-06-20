@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: Arial, "Open Sans", sans-serif;
+  font-family: Calibri;
   color: #444444;
 }
 
@@ -25,7 +25,7 @@ a:hover {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, "Raleway", sans-serif;
+  font-family: Calibri;
 }
 
 /*--------------------------------------------------------------
@@ -236,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   font-weight: bolder;
   padding: 0 3px;
-  font-family: Arial, "Open Sans", sans-serif;
+  font-family: Calibri;
 }
 
 .nav-menu > ul > li > a:before {
@@ -508,7 +508,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #main .btn-get-started {
-  font-family: Arial, "Raleway", sans-serif;
+  font-family: Calibri;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -605,7 +605,7 @@ section {
   line-height: 24px;
   margin-bottom: 8px;
   padding: 10px 0;
-  font-family: Arial, "Raleway", sans-serif;
+  font-family: Calibri;
   color: #3e4463;
 }
 
@@ -958,3 +958,31 @@ section {
     left: -500px;
   }
 }
+
+sib-swissbiopics-sl {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+.subcellular-map-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 40px;
+}
+
+.cell-figure {
+  min-width: 900px;
+  max-width: 1000px;
+}
+
+.cell-location-list {
+  position: absolute;
+  left: 600px;  
+  top: 30%;     
+  transform: translateY(-50%);
+  margin-left: 0 !important;
+  z-index: 10;   /* 保证在上层 */
+  background: transparent; 
+}
+

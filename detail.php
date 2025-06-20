@@ -74,21 +74,27 @@
               <span class="sub-title">Known subcellular location</span>
               <br><br>
 
-              <!--细胞结构-->
+              <!--细胞交互-->
               <template id="sibSwissBioPicsStyle">
               </template>
 
               <!--侧边栏-->
               <template id="sibSwissBioPicsSlLiItem">
-                <li class="subcellular_location" style="display:none !important">
-                <a class="subcell_name" style="display:none !important"></a>
-                <span class="subcell_description" style="display:none !important"></span>
+                <li class="subcellular_location" style="display:none">
+                <a class="subcell_name" style="display:none"></a>
+                <span class="subcell_description" style="display:none"></span>
                 </li>
               </template>
 
               <!--细胞类型-->
-              <sib-swissbiopics-sl taxid="9606" sls="86"></sib-swissbiopics-sl>
-                  <p id="locInfoShow" style="text-align: center;"></p>
+              <div class="subcellular-map-container">
+                <div class="cell-figure" style="flex: 0 0 auto;">
+                  <!-- 这里是细胞图 -->
+                </div>
+                <div class="cell-location-list" style="margin-left: -50px;">
+                  <!-- 这里用JS生成locationNames列表 -->
+                </div>
+              </div>
       
             </div>
 

@@ -1,0 +1,30 @@
+UniprotID	A0A1Y6IM53
+Accession	A0A1Y6IM53
+EntryName	A0A1Y6IM53_HUMAN
+ProteinName	Adenomatous Polyposis Coli
+GeneName	APC
+Length	10
+Function	
+Subcellular Location	
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+pNuLoCProb	0.07459338
+pNuLoCRegion	
+pNuLoCScore	0.158188351,0.1498288539,0.1498288539,0.1498288539,0.1498288539,0.1498288539,0.1498288539,0.1498288539,0.1498288539,0.12900534211111112
+pNuLoCDScore	-0.008359497100000002,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.02918300888888889,-0.020823511788888888
+pNuLoCRank	Nonucleus
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	ESTLKSVLSA
+PTM	

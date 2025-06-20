@@ -1,0 +1,30 @@
+UniprotID	Q9C0B1-3
+Accession	Q9C0B1;A2RUH1;B2RNS0;Q0P676;Q7Z785
+EntryName	FTO_HUMAN
+ProteinName	Alpha-ketoglutarate-dependent dioxygenase FTO (Fat mass and obesity-associated protein) (U6 small nuclear RNA (2'-O-methyladenosine-N(6)-)-demethylase FTO) (EC 1.14.11.-) (U6 small nuclear RNA N(6)-methyladenosine-demethylase FTO) (EC 1.14.11.-) (mRNA (2'-O-methyladenosine-N(6)-)-demethylase FTO) (m6A(m)-demethylase FTO) (EC 1.14.11.-) (mRNA N(6)-methyladenosine demethylase FTO) (EC 1.14.11.53) (tRNA N1-methyl adenine demethylase FTO) (EC 1.14.11.-)
+GeneName	FTO KIAA1752
+Length	60
+Function	RNA demethylase that mediates oxidative demethylation of different RNA species, such as mRNAs, tRNAs and snRNAs, and acts as a regulator of fat mass, adipogenesis and energy homeostasis (PubMed:22002720, PubMed:25452335, PubMed:26457839, PubMed:26458103, PubMed:28002401, PubMed:30197295). Specifically demethylates N(6)-methyladenosine (m6A) RNA, the most prevalent internal modification of messenger RNA (mRNA) in higher eukaryotes (PubMed:22002720, PubMed:25452335, PubMed:26457839, PubMed:26458103, PubMed:30197295). M6A demethylation by FTO affects mRNA expression and stability (PubMed:30197295). Also able to demethylate m6A in U6 small nuclear RNA (snRNA) (PubMed:30197295). Mediates demethylation of N(6),2'-O-dimethyladenosine cap (m6A(m)), by demethylating the N(6)-methyladenosine at the second transcribed position of mRNAs and U6 snRNA (PubMed:28002401, PubMed:30197295). Demethylation of m6A(m) in the 5'-cap by FTO affects mRNA stability by promoting susceptibility to decapping (PubMed:28002401). Also acts as a tRNA demethylase by removing N(1)-methyladenine from various tRNAs (PubMed:30197295). Has no activity towards 1-methylguanine (PubMed:20376003). Has no detectable activity towards double-stranded DNA (PubMed:20376003). Also able to repair alkylated DNA and RNA by oxidative demethylation: demethylates single-stranded RNA containing 3-methyluracil, single-stranded DNA containing 3-methylthymine and has low demethylase activity towards single-stranded DNA containing 1-methyladenine or 3-methylcytosine (PubMed:18775698, PubMed:20376003). Ability to repair alkylated DNA and RNA is however unsure in vivo (PubMed:18775698, PubMed:20376003). Involved in the regulation of fat mass, adipogenesis and body weight, thereby contributing to the regulation of body size and body fat accumulation (PubMed:18775698, PubMed:20376003). Involved in the regulation of thermogenesis and the control of adipocyte differentiation into brown or white fat cells (PubMed:26287746). Regulates activity of the dopaminergic midbrain circuitry via its ability to demethylate m6A in mRNAs (By similarity). Plays an oncogenic role in a number of acute myeloid leukemias by enhancing leukemic oncogene-mediated cell transformation: acts by mediating m6A demethylation of target transcripts such as MYC, CEBPA, ASB2 and RARA, leading to promote their expression (PubMed:28017614, PubMed:29249359).
+Subcellular Location	Nucleus; Nucleus speckle; Cytoplasm
+Disorder	
+ExposeBuried	
+SurfaceAccessbility	
+SecondStructure	
+Hydropathy	
+Polar	
+Charge	
+pNuLoCProb	0.77557516
+pNuLoCRegion	19...48
+pNuLoCScore	0.19785685777777778,0.1859668115,0.17441534809090908,0.16707985741666667,0.16340238561538462,0.16091691092857144,0.15856842753333333,0.1565922783125,0.155381389,0.1378562084117647,0.1232404184117647,0.12372618017647055,0.12604081841176468,0.13076573841176467,0.1355935284117647,0.13722124488235293,0.13708146076470587,0.139827919,0.14566523929411768,0.1532237437647059,0.15939894023529416,0.16311809764705884,0.16576773235294118,0.17036009941176472,0.19049645823529415,0.21626259588235297,0.2459242905882353,0.2759427847058824,0.30561501941176467,0.3342501441176471,0.36129636764705886,0.3877897770588235,0.41563375294117644,0.4437684552941177,0.47320151999999993,0.5041623176470589,0.5349943535294118,0.5665969182352941,0.5985708829411764,0.6313192429411765,0.6626668017647058,0.6792023464705882,0.6899256876470589,0.6959582705882352,0.7019661947058824,0.7081432564705883,0.7152484982352942,0.7228446470588237,0.73109581,0.7387572088235295,0.7453690264705882,0.7501626005882353,0.7530149881249999,0.7557799939999998,0.7577206078571429,0.7601563623076923,0.7626384216666667,0.7649993327272728,0.766462026,0.7675879955555556
+pNuLoCDScore	-0.042475468777777775,-0.06000064936601307,-0.07461643936601309,-0.07413067760130723,-0.0718160393660131,-0.06709111936601311,-0.06226332936601309,-0.06063561289542485,-0.06077539701307191,-0.0461388925,-0.028750108796791407,-0.013856113651960766,-0.0040034453800904535,0.0022011867184874023,0.0071993048196078435,0.013767821099264721,0.035115069235294144,0.07840638747058826,0.12268387217647062,0.15221660452941185,0.179574201,0.20348440570588242,0.22570283923529416,0.25056853217647057,0.2785522921764706,0.30394053629411766,0.32753628070588225,0.35093857388235294,0.37559541329411766,0.40347882058823525,0.43280315058823526,0.46095914352941175,0.4721703435294117,0.4629397505882352,0.4440013970588236,0.4200154858823528,0.39635117529411773,0.3738931123529412,0.3539521305882354,0.33505487000000017,0.3154620570588236,0.2949887535294118,0.2721675064705883,0.24600028294117637,0.21802063459558807,0.18918307576470572,0.15914972491596646,0.12883711936651587,0.0999716199019609,0.08579698625668464,0.07653633835294116,0.07162972496732034,0.06562180084967317,0.05944473908496728,0.05233949732026133,0.044743348496731894,0.036492185555555556,0.028830786732026104,0.022218969084967344,0.017425394967320318
+pNuLoCRank	High
+UniprotNLSRegion	
+UniprotNESRegion	
+SeqNLSRegion	
+SeqNLSPMID	
+nlsdbnes_region	
+nlsdbnls_region	
+validnes_region	
+nesbase_region	
+Sequence	MACQGREECWCQSRIARTLPADQKPECRPYWEKDDASMPLPFDLTDIVSELRGQLLEAKP
+PTM	Acetylation:216,469;Methylation:34,194,365;Phosphorylation:4,6,183,184,185,256,260,355,414;SUMOylation:121,194,216,422;Ubiquitylation:48,88,107,121,126,141,160,162,194,211,216

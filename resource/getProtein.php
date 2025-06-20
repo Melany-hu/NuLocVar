@@ -6,7 +6,7 @@ $uniprot = $_POST['uniprot'];
 //获取需要的信息
 function getProInfo($uniprot){
 	$pro2res = array();
-	$file = fopen('./proinfo/'.$uniprot.'.txt','r');
+	$file = fopen('./wildtype_info/'.$uniprot.'.txt','r');
 	while(!feof($file)){
 		$thisline = fgets($file);
 		$thislineInfo = explode("\t",str_replace("\n", "", $thisline));
@@ -21,7 +21,7 @@ function getProInfo($uniprot){
 #判断任务状态
 $status = '';
 $info = '';
-if(file_exists('./proinfo/'.$uniprot.'.txt')){
+if(file_exists('./wildtype_info/'.$uniprot.'.txt')){
 	$status = 'found';
 	$info = getProInfo($uniprot);
 }else{
