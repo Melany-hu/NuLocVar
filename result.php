@@ -44,7 +44,7 @@
         <div class="card-body" id='search-alert'></div>
         <div class="card-body" id='search-result'></div>
         <div class="card-body" id='table-show'>
-          <div class="download-div"><a href="#" id='download-btn' class="ri-download-2-line" style="font-weight: bolder;">&nbsp Download</a></div>
+          <div class="download-div"><a href="#" id='download-btn' class="ri-download-2-line" style="font-size: 18px; font-weight: bolder;">&nbsp Download</a></div>
           <div class="table-responsive">
             <table id='searchResShow' class="table table-bordered table-striped table-hover">
               <thead>

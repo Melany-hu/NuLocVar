@@ -15,13 +15,14 @@ body {
 
 a {
   color: #5a5ff5;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 a:hover {
   color: #7579ee;
   text-decoration: none;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, "Raleway", sans-serif;
@@ -686,11 +687,19 @@ section {
   font-size: 16px;
 }
 
+#footer .footer-top .footer-contact a {
+  font-size: 16px;
+}
+
 #footer .copyright {
   font-size: 16px;
   color: #050505;
   text-align: center;
   padding-top: 10px;
+}
+
+#footer .copyright a {
+  font-size: 16px;
 }
 
 #footer .credits {
@@ -709,6 +718,8 @@ section {
 .table tr th {
   font-size: 15px !important;
 }
+
+
 .ri-question-line{
   color: #4caf50
 }
@@ -717,6 +728,7 @@ section {
 }
 .download-div{
   text-align: right;
+  font-size: 18px;
 }
 .download-div .ri-download-2-line{
   color: #5a5ff5;
@@ -770,11 +782,9 @@ section {
 
 
 .sub-title {
-  display: inline-block;
-  border-bottom: solid 2px #b197fc;
-  color: #b197fc;
+  color: #3e4463;
   font-weight: bolder;
-  font-size: 15px;
+  font-size: 20px;
 }
 /*---------home page style-------------*/
 .des-webname{
@@ -905,11 +915,11 @@ section {
 }
 .pmid-link{
   cursor: pointer;
-  color: red;
+  color: #5a5ff5;
   font-weight:bolder;
 }
 .pmid-link:hover{
-  color: #28a745;
+  color: #7579ee;
 }
 .hidden{
   display: none;

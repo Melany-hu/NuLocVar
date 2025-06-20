@@ -84,7 +84,6 @@
               <br><br>
               <div id="domain" style="height:150px;width:100%"></div>
               <div id="scores" style="height:150px;width:100%"></div>
-              <div id="ptminfo" style="height:180px;width:99%"></div>
               <div id="disorder" style="height:60px;width:100%"></div>
               <div id="expose" style="height:60px;width:100%"></div>
               <div id="polar" style="height:60px;width:100%"></div>
@@ -94,19 +93,6 @@
               <div id="hydropathy" style="height:150px;width:100%"></div>
               <hr>
             </div>
-
-            <h5 class="font-weight-bold" style="margin-top:20px; margin-bottom:5px; font-family: sans-serif;color:#9775fa">3D-structure</h5>
-                <div id="structure" class="card-body">
-                    <div class="mol-container" data-backgroundcolor='0xffffff' id="container-04" class="viewer_3Dmoljs" data-style='stick' data-ui='true'></div>
-                    <style>
-                    .mol-container {
-                    width:    75%;
-                    height:   300px;
-                    position: relative;
-                    margin: 0 auto;
-                    }
-                    </style>
-                </div>
 
           </div>
 
@@ -123,8 +109,6 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
-  <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
@@ -138,32 +122,8 @@
   <script src="assets/js/main.js"></script>
   <script src="assets/js/mine.js"></script>
   <script src="assets/js/echarts.min.js"></script>
+  <script src="assets/js/echats.structure.js"></script>
   <script src="assets/js/detail.js"></script>
-
-  <script>
-    $(function() {
-    let element = $('#container-04');
-    let config = { backgroundColor : 'white' };
-    let viewer = $3Dmol.createViewer( element, config );
-    let uniprotid = "<?php echo isset($_GET['uniprot']) ? $_GET['uniprot'] : ''; ?>";
-    let pdbUri = '/resource/pdb/'+uniprotid+'.pdb';
-    //console.log(uniprotid);
-    //console.log(pdbUri);
-    jQuery.ajax( pdbUri, { 
-      success: function(data) {
-        let v = viewer;
-        v.addModel( data, "pdb" );                       /* load data */
-        v.setStyle({}, {cartoon: {color: 'spectrum'}});  /* style all atoms */
-        v.zoomTo();                                      /* set camera */
-        v.render();                                      /* render scene */
-        v.zoom(1.2, 1000);                               /* slight zoom */
-      },
-      error: function(hdr, status, err) {
-        console.error( "Failed to load PDB " + pdbUri + ": " + err );
-      },
-    });
-  });
-  </script>
 </body>
 
 </html>

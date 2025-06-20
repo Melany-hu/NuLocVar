@@ -39,32 +39,6 @@ function showDomain(sequence,domian){
   	return [domainDrawInfo,otherDrawInfo];
 }
 
-function showPTM(sequence,ptminfo){
-	var mod_color ={'Hydroxyisobutyrylation':'#fda7ec','Acetylation':'#8fc3fb','Butyrylation':'#38e04d','Crotonylation':'#58a9f0','Methylation':'#f9c3c5','Phosphorylation':'#f0b952','Succinylation':'#d2a871','SUMOylation':'#d5d953','Ubiquitination':'#86d986','Ubiquitylation':'#86d986','Glycosylation':'#74d6ec'};
-	var PTMreturn = [];
-	var singlePTMs = ptminfo.split(';');
-	for(var i=0;i<singlePTMs.length;i++){
-	  var singlePTMtype = singlePTMs[i].split(':')[0];
-	  var singlePTMInfo = singlePTMs[i].split(':')[1].split(',');
-	  var PTMsite = [];
-	  for(var j = 0;j<singlePTMInfo.length;j++){
-		PTMsite.push(Number(singlePTMInfo[j])-1);
-	  }
-	  var singlePTMres = [];
-	  for(var j=0;j<sequence.length;j++){
-		var residue = sequence[j]+(j+1);
-		if(PTMsite.indexOf(j) > -1){
-		  singlePTMres.push([j,1,mod_color[singlePTMtype],residue]);
-		}
-		else{
-		  singlePTMres.push([j,0,mod_color[singlePTMtype],residue]);
-		}
-	  }
-	  PTMreturn.push({"name":singlePTMtype,"type":"bar","barWidth": "5","stack": "total","itemStyle": {"normal": {"color": mod_color[singlePTMtype],}},"data":singlePTMres});
-	}
-	return PTMreturn;
-  }
-
 function showDisorder(sequence,disorder){
  	var singleDisorders = disorder.split(',');
  	var singleDisordersD = [];
@@ -419,107 +393,6 @@ function showScoreOption(peptide,scores,deltaScores){
 	};
 	return option;
 }
-
-function showLegand(ptminfo){
-	var Legandreturn = [];
-	var singlePTMs = ptminfo.split(';');
-	for(var i=0;i<singlePTMs.length;i++){
-	  var singlePTMtype = singlePTMs[i].split(':')[0];
-	  Legandreturn.push(singlePTMtype);
-	}
-	return Legandreturn;
-  }
-
-function showPTMOption(sequence, ptminfo) {
-    var ptmSeries = showPTM(sequence, ptminfo);
-    console.log(ptmSeries);
-    console.log(sequence);
-    if (ptminfo != "") {
-        var option = {
-            title: {
-                text: 'Post translational modifications',
-                show: true,
-				top:10,
-				left: 40,
-				textStyle: {
-					color: '#595b5d',
-					fontSize:15
-				}
-            },
-            tooltip: {
-                trigger: 'axis',
-                textStyle: { align: 'left' },
-                formatter: function (params) {
-                    var tipinfo = params[0].data[3];
-                    for (var i = 0; i < params.length; i++) {
-                        if (params[i].data[1] == 1) {
-                            tipinfo = tipinfo + '<br><span style="display:inline-block;margin-top:5px;border-radius:10px;width:6px;height:10px;background-color:' + params[i].data[2] + '"></span>' + params[i].seriesName;
-                        }
-                    }
-                    return tipinfo;
-                }
-            },
-            legend: {
-                x: '20',
-                top: '25',
-                textStyle: {
-                    color: '#90979c'
-                },
-                data: showLegand(ptminfo)
-            },
-            grid: {
-                left: '25',
-                right: '50',
-                bottom: '50',
-                top: '50',
-                containLabel: false
-            },
-            xAxis: [
-                {
-                    type: 'category',
-                    data: listLength(sequence),
-                    axisTick: {
-                        alignWithLabel: true
-                    }
-                }
-            ],
-            yAxis: [
-                {
-                    type: 'value',
-                    show: false
-                }
-            ],
-            series: ptmSeries,
-            dataZoom: [
-                {
-                    show: false,
-                    realtime: true,
-                    start: 0,
-                    end: 100,
-                    left: 22,
-                    right: 50,
-                    bottom: 0,
-                    height: 30,
-                    handleColor: 'red',
-                    backgroundColor: '#ffffff'
-                },
-                {
-                    type: 'inside',
-                    realtime: true
-                }
-            ]
-        };
-    } else {
-        var option = {
-            title: {
-                text: 'No PTMs information',
-                show: true
-            }
-        };
-    }
-	return option;
-}
-	
 
 function showDisorderOption(peptide,disorder){
 	var disorderInfo = showDisorder(peptide,disorder);
@@ -1244,10 +1117,6 @@ function showRes(){
 	var option2 = showScoreOption(proInfo['Sequence'],proInfo['pNuLoCScore'],proInfo['pNuLoCDScore']);
 	myChart2.setOption(option2);
 
-	var ptmChart = echarts.init(document.getElementById('ptminfo'));
-	var optionptm = showPTMOption(proInfo['Sequence'],proInfo['PTM']);
-	ptmChart.setOption(optionptm);
-
 	var myChart3 = echarts.init(document.getElementById('disorder'));
 	var option3 = showDisorderOption(proInfo['Sequence'],proInfo['Disorder']);
 	myChart3.setOption(option3);
@@ -1276,7 +1145,7 @@ function showRes(){
 	var option9 = showHydropathyOption(proInfo['Sequence'],proInfo['Hydropathy']);
 	myChart9.setOption(option9);
 
-	echarts.connect([myChart1,myChart2,ptmChart,myChart3,myChart4,myChart5,myChart6,myChart7,myChart8,myChart9]);
+	echarts.connect([myChart1,myChart2,myChart3,myChart4,myChart5,myChart6,myChart7,myChart8,myChart9]);
 }
 
 function showUniprot(uniprotList){
@@ -1428,7 +1297,7 @@ function showRegion(){
 
 function showProPos(posID){
   	$(posID).removeClass('hidden');
-  	$(posID).attr('data-content',proInfo['Accession'].split(';')[1]);
+  	$(posID).attr('data-content',proInfo['Uniprot'].split(';')[1]);
 }
 
 
@@ -1437,66 +1306,49 @@ function showLoc(){
 	//var locInfoShow =  '';
 	console.log(subLocInfo);
 	if(subLocInfo != ''){
-	    sublocations = subLocInfo.split('; ');
-	    var validLocations = [];
+	    sublocations = subLocInfo.split(',');
 	    for(var i in sublocations){
 	    	//locInfoShow += "<tr><td>"+sublocations[i]+"</td></tr>";
 			console.log(sublocations[i]);
 			if(sublocations[i] == 'Mitochondrion'){
 				showProPos('#Mitochondrion_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Endosome'){
 				showProPos('#Endosome_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Nucleus'){
 				showProPos('#Nucleus_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Lysosome'){
 				showProPos('#Lysosome_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Peroxisome'){
 				showProPos('#Peroxisome_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Golgi apparatus'){
 				showProPos('#Golgi_Apparatus_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Endoplasmic reticulum membrane' || sublocations[i] == 'Endoplasmic reticulum'){
 				showProPos('#Endoplasmic_Reticulum_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Cytoskeleton'){
 				showProPos('#Cytoskeleton_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Cell membrane' || sublocations[i] == 'Plasma membrane'){
 				showProPos('#Plasma_Membrane_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Cytosol'){
 				showProPos('#Cytosol_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Cytoplasm'){
 				showProPos('#Cytoplasm_site');
-				validLocations.push(sublocations[i]);
 			}
 			else if(sublocations[i] == 'Extracellular' || sublocations[i] == 'Secreted'){
 				showProPos('#Extracellular_region_or_secreted_site');
-				validLocations.push(sublocations[i]);
 			}
 	    }
 	    //$('#locInfoShow tbody').html(locInfoShow);
-	    if(validLocations.length > 0){
-	        $('#locInfoShow').html(validLocations.join(', '));
-	    } else {
-	        $('#locInfoShow').html("No locations found.");
-	    }
+	    $('#locInfoShow').html(subLocInfo.replaceAll(',',', '));
 	}
 	else{
 		$('#uniprot_sublocation').css('opacity',0.5);

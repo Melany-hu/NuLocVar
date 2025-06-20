@@ -27,7 +27,7 @@ function showRowInfo(tableLineInfo){
   for(var i in tableLineInfo){
     var thisLineInfo = tableLineInfo[i];
     returnTableRow += "<tr>\
-      <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank'>"+thisLineInfo[0]+"</a></td>\
+      <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank' style='font-size:15px;!important'>"+thisLineInfo[0]+"</a></td>\
       <td>"+thisLineInfo[1]+"</td>\
       <td>"+thisLineInfo[5]+"</td>\
       <td>"+thisLineInfo[6]+"</td>\

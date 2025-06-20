@@ -37,8 +37,7 @@ $(document).ready(function(){
 /*----- Set home page search example -----*/
 	$('#home #Example').on('click',function(){
 		changeExampleTag(0,'uniprot');
-		changeExampleInput(0,'Q9H4L7');
-		changeExampleOrg('Human')
+		changeExampleInput(0,'P02745')
 	})
 
 })
