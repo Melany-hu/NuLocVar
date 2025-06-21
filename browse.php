@@ -36,7 +36,7 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="browse">
+    <div class="custom-container" id="browse">
 
       <div class="card">
 
@@ -97,7 +97,7 @@
 
           <hr>
           <div class="row">
-            <div class="col-md-6"><span id="pageInfo"></span>, 
+            <div class="col-md-6 page-info-container"><span id="pageInfo"></span>, 
               <select id='selectRowNumber'>
                 <option value='10'>10</option>
                 <option value='20'>20</option>

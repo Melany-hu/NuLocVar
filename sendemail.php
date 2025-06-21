@@ -39,7 +39,7 @@
     <div class="container" id="about">
 
 		<div class="card">
-			<div class="card-header"><h5 class="font-weight-bold">Download</h5></div>
+			<div class="card-header"><h3 class="font-weight-bold">Download</h3></div>
 		  <?php
         if(!isset($_COOKIE["valid"])){
           echo "<div class='card-body alert-danger'>Permission denid!</div>";

@@ -10,7 +10,7 @@
 <!-- ======= Header ======= -->
  
 <header id="header" class="fixed-top ">
-  <div class="container d-flex align-items-center">
+  <div class="custom-container d-flex align-items-center">
 
     <a href="http://nulocvar.omicsbio.info" class="logo mr-auto scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
 

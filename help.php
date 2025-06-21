@@ -36,7 +36,7 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="help">
+    <div class="custom-container" id="help">
       <div class="row">
         <div class="col-md-4">
           <div id="help-navigation" class="card">

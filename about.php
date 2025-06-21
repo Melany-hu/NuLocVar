@@ -36,15 +36,15 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="about">
+    <div class="custom-container" id="about">
 
 		<div class="card">
-			<div class="card-header"><h5 class="font-weight-bold">About us</h5></div>
+			<div class="card-header"><h3 class="font-weight-bold">About us</h3></div>
 			<div class="card-body">
-				<h5 class="card-title">This study was performed by <strong>Kai Yu</strong>, <strong>Qingfeng Zhang</strong>, <strong>Yongqiang Zheng</strong>, <strong>Jinfei Lin</strong> and <strong>Ze-Xian Liu</strong></h5>
+				<h5 class="card-title">This study was performed by <strong>Jia-min Hu</strong>, <strong>Jun Wu</strong> and <strong>Ze-Xian Liu,</strong></h5>
 				<br>
 				
-				<p class="card-text text-primary"><strong>Kai Yu</strong>, <strong>Qingfeng Zhang</strong>, <strong>Yongqiang Zheng</strong>, <strong>Jinfei Lin</strong> and <strong>Ze-Xian Liu</strong> are from</p>
+				<p class="card-text text-primary"><strong>Jia-min Hu</strong>, <strong>Jun Wu</strong> and <strong>Ze-Xian Liu</strong> are from</p>
 				<p class="card-text">Sun Yat-sen University Cancer Center,</p>
 				<p class="card-text">Building 2#, 651 Dongfeng East Road,</p>
 				<p class="card-text">Guangzhou 510060, P. R. China</p>

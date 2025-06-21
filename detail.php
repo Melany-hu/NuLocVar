@@ -36,16 +36,17 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="detail">
+    <div class="custom-container" id="detail" data-aos="fade-up" data-aos-duration="1300">
 
       <div class="card">
 
-        <div class="card-header"><h5 class="font-weight-bold">Detailed information</h5></div>
-        <div class="card-body" id='pro-alert'></div>
-        <div class="card-body" id='get-alert'></div>
+        <div class="card-header"><h3 class="font-weight-bold">Detailed information</h3></div>
+        <div class="card-body" id="pro-message-group">
+          <div id='pro-alert'></div>
+        </div>
+
         <div class="card-body" id="result-show">
           <div class="row">
-
 
             <div class="col-md-12">
               <span class="sub-title">About protein</span>
@@ -115,7 +116,7 @@
               <hr>
             </div>
 
-            <h5 class="font-weight-bold" style="margin-top:20px; margin-bottom:5px; font-family: sans-serif;color:#9775fa">3D-structure</h5>
+            <h3 class="font-weight-bold" style="margin-top:20px; margin-bottom:5px; font-family: sans-serif;color:#9775fa">3D-structure</h3>
                 <div id="structure" class="card-body">
                     <div class="mol-container" data-backgroundcolor='0xffffff' id="container-04" class="viewer_3Dmoljs" data-style='stick' data-ui='true'></div>
                     <style>

@@ -36,10 +36,10 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="download">
+    <div class="custom-container" id="download">
 
       <div class="card">
-        <div class="card-header"><h5 class="font-weight-bold">Dowload</h5></div>
+        <div class="card-header"><h3 class="font-weight-bold">Dowload</h3></div>
         <div class="card-body">Please submit the form to get the download link of the dataset, many thanks for your cooperation.</div>
         <div class="card-body alert-primary">Note: All the field are requied.</div>
         <div class="card-body alert-primary">The dataset of iNuLoC is available for download now!</div>

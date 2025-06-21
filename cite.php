@@ -36,10 +36,10 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="cite">
+    <div class="custom-container" id="cite">
 
       <div class="card">
-        <div class="card-header"><h5 class="font-weight-bold">Cite</h5></div>
+        <div class="card-header"><3 class="font-weight-bold">Cite</h3></div>
         <div class="card-body">
           <h5 class="card-title"><strong>For publication of the results in this study, please cite the following articles:</strong></h5>
           <br>

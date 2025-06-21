@@ -36,17 +36,17 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="home">
+    <div class="custom-container" id="home">
 
       <!-- Database introduce -->
-      <div class="row text-center">
+      <div class="row text-center" >
         <div class="col-md-12">
           
           <!--h2 class="animated fadeInDown"><span>NuLocVar</span></h2-->
           
           <a href="http://nulocvar.omicsbio.info" class="footer-logo"><img src="assets/img/footer_logo2.png" alt="" class="img-fluid footer-logo" style="width:500px; height:auto; margin-bottom:30px;"></a>
 
-          <p><i>A comprehensive database for <span style="color:#3d4361">Nu</span>clear <span style="color:#3d4361">Loc</span>alization <span style="color:#3d4361">Var</span>iant</i></p>
+          <p class="footer-logo" style = "font-weight:bold;"><i>A comprehensive database for <span style="color:#7579ee">Nu</span>clear <span style="color:#7579ee">Loc</span>alization <span style="color:#7579ee">Var</span>iant</i></p>
 
         </div>
 

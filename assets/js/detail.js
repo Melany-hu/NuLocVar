@@ -1460,7 +1460,7 @@ function showLoc() {
 
     console.log('slsIds:', slsIds);
 
-    // 关键：每次都重新插入组件
+    // 每次都重新插入组件
     $('.cell-figure').html(`<sib-swissbiopics-sl taxid="9606" sls="${slsIds}"></sib-swissbiopics-sl>`);
 
     // 右侧打印出location
@@ -1517,38 +1517,32 @@ function showLoc() {
     waitForSVGAndBindHover();
 }
 
-function getProByAJAX(uniprot){
-	var formData = new FormData();
-	formData.append("uniprot",uniprot);
-	$.ajax({
+function getProByAJAX(uniprot, uniprotDisplay) {
+    var formData = new FormData();
+    formData.append("uniprot", uniprot);
+    $.ajax({
         url:'./resource/getProtein.php',
         type:'post',
         data: formData,
         contentType: false,
         processData: false,
         success:function(res){
-        	//console.log(res);
-        	var returnInfo = JSON.parse(res);
-        	if(returnInfo['status'] == 'notfound'){
-        		$('#get-alert').addClass('alert-warning');
-        		$('#get-alert').html('Sorry, the protein is not found! Maybe the uniprot ID is wrong or your uniprot ID is not in our database.');
-        		$('#result-show').css('display','none');
-        	}else if(returnInfo['status'] == 'found'){
-        		$('#get-alert').addClass('alert-success');
-	            $('#get-alert').html('The protein information in the database is successfully found.');
-	            proInfo = returnInfo['info'];
-	            showPro();
-	            showRegion();
-	            showRes();
-	            showLoc();
+            var returnInfo = JSON.parse(res);
+            if(returnInfo['status'] == 'notfound'){
+                setProAlert('warning', 'Sorry, the protein is not found! Maybe the uniprot ID is wrong or your uniprot ID is not in our database.', true);
+            }else if(returnInfo['status'] == 'found'){
+                setProAlert('success', 'Show prediction result for ' + uniprotDisplay + '. The protein information in the database is successfully found.');
+                proInfo = returnInfo['info'];
+                showPro();
+                showRegion();
+                showRes();
+                showLoc();
             }else{
-            	$('#get-alert').addClass('alert-warning');
-            	$('#get-alert').html("Unknown error happened, please <a href='contact.php'>contact us</a>");
-            	$('#result-show').css('display','none');
+                setProAlert('warning', "Unknown error happened, please <a href='contact.php'>contact us</a>", true);
             }
         },
         error:function(res){
-        	console.log(res);
+            console.log(res);
         }
     })
 }
@@ -1560,25 +1554,28 @@ $(document).ready(function(){
 		var proInfo = thisUrlInfo[1].split('=');
 		if(proInfo.length == 2){
 			if(proInfo[0] == 'uniprot'){
-				$('#pro-alert').addClass('alert-primary');
-				$('#pro-alert').html('Show prediction result for '+proInfo[1]+'.');
-				getProByAJAX(proInfo[1]);
+				setProAlert('primary', 'Show prediction result for ' + proInfo[1] + '.');
+				getProByAJAX(proInfo[1], proInfo[1]);
 			}else{
-				$('#pro-alert').addClass('alert-danger');
-				$('#pro-alert').html('Warning, you must pass a correct uniprot ID format!');
-				$('#get-alert').css('display','none');
+				setProAlert('danger', 'Warning, you must pass a correct uniprot ID format!');
 				$('#result-show').css('display','none');
 			}
 		}else{
-			$('#pro-alert').addClass('alert-danger');
-			$('#pro-alert').html('Warning, there is no uniprot ID in URL!');
-			$('#get-alert').css('display','none');
+			setProAlert('danger', 'Warning, there is no uniprot ID in URL!');
 			$('#result-show').css('display','none');
 		}
 	}else{
-		$('#pro-alert').addClass('alert-danger');
-		$('#pro-alert').html('Warning, there is no params in URL!');
-		$('#get-alert').css('display','none');
+		setProAlert('danger', 'Warning, there is no params in URL!');
 		$('#result-show').css('display','none');
 	}
 })
+
+function setProAlert(type, message, hideResult = false) {
+    $('#pro-alert')
+        .removeClass('alert-primary alert-danger alert-warning alert-success')
+        .addClass('alert alert-' + type)
+        .html(message);
+    if (hideResult) {
+        $('#result-show').css('display', 'none');
+    }
+}

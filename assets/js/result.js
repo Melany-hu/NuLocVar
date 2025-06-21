@@ -27,7 +27,7 @@ function showRowInfo(tableLineInfo){
   for(var i in tableLineInfo){
     var thisLineInfo = tableLineInfo[i];
     returnTableRow += "<tr>\
-      <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank' style='font-size:15px;!important'>"+thisLineInfo[0]+"</a></td>\
+      <td><a href='https://www.uniprot.org/uniprotkb/"+thisLineInfo[0]+"' target='_blank'>"+thisLineInfo[0]+"</a></td>\
       <td>"+thisLineInfo[1]+"</td>\
       <td>"+thisLineInfo[5]+"</td>\
       <td>"+thisLineInfo[6]+"</td>\
@@ -119,12 +119,14 @@ function showButtonInfo(totalNum,rowNumber,nowPage){
 function showTableList(returnInfo,rowNumber,nowPage){
   var totalNum = returnInfo['totalNum'];
   if(totalNum == 0){
-    $('#search-result').addClass('alert-danger');
-    $('#search-result').html('Sorry, there is no result with your keywords.');
+    $('#search-alert').removeClass('alert-primary').addClass('alert-danger');
+    $('#search-result-count').html('Sorry, there is no result with your keywords.');
     $('#table-show').css('display','none');
   }else{
-    $('#search-result').addClass('alert-success');
-    $('#search-result').html('There are '+totalNum+' results with your keywords.');
+    let resultText = (totalNum == 1)
+      ? 'There is 1 result with your keywords.'
+      : 'There are ' + totalNum + ' results with your keywords.';
+    $('#search-result-count').html(resultText);
     $('#searchResShow tbody').html(showRowInfo(returnInfo['tableLineInfo']));
     $('#pageInfo').html(showPageInfo(totalNum,rowNumber,nowPage));
     $('#buttonInfo').html(showButtonInfo(totalNum,rowNumber,nowPage));
@@ -191,13 +193,13 @@ $(document).ready(function(){
   var tag2name = {'All':'Any field','uniprot':'Uniprot ID','gene':'Gene name','protein':'Protein name'};
   if(searchInfo){
     $('#search-alert').addClass('alert-primary');
-    $('#search-alert').html('Search content: '+tag2name[searchInfo['tag']]+' = '+searchInfo['content']+'.');
+    let alertHtml = 'Search content: ' + tag2name[searchInfo['tag']] + ' = ' + searchInfo['content'] + '.&nbsp;<span id="search-result-count"></span>';
+    $('#search-alert').html(alertHtml);
     searchResultByAJAX(searchInfo,rowNumber,nowPage,orderInfo);
   }
   else{
     $('#search-alert').addClass('alert-danger');
     $('#search-alert').html('Warning, there is no search content found! Please return to <a href="index.php">Search page</a> and try again.');
-  	$('#search-result').css('display','none');
   	$('#table-show').css('display','none');
   }
 

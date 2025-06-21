@@ -36,13 +36,15 @@
 
   <!-- ======= Main Section ======= -->
   <section id="main" class="d-flex justify-cntent-center align-items-center">
-    <div class="container" id="result">
+    <div class="custom-container" id="result" data-aos="fade-up" data-aos-duration="1300">
 
       <div class="card">
 
-        <div class="card-header"><h5 class="font-weight-bold">Search results</h5></div>
-        <div class="card-body" id='search-alert'></div>
-        <div class="card-body" id='search-result'></div>
+        <div class="card-header"><h3 class="font-weight-bold">Search results</h3></div>
+        <div class="card-body" id="search-message-group">
+          <div id='search-alert'></div>
+        </div>
+
         <div class="card-body" id='table-show'>
           <div class="download-div"><a href="#" id='download-btn' class="ri-download-2-line" style="font-size: 18px; font-weight: bolder;">&nbsp Download</a></div>
           <div class="table-responsive">
@@ -64,9 +66,8 @@
             </table>
           </div>
 
-        <hr>
           <div class="row">
-            <div class="col-md-6"><span id="pageInfo"></span>, 
+            <div class="col-md-6 page-info-container"><span id="pageInfo"></span>, 
               <select id='selectRowNumber'>
                 <option value='10'>10</option>
                 <option value='20'>20</option>

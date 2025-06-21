@@ -2,7 +2,7 @@
 <footer id="footer">
 
   <div class="footer-top">
-    <div class="container">
+    <div class="custom-container">
       <div class="row">
 
 
@@ -55,7 +55,11 @@
           <h4>Follow us at</h4>
           <ul>
           <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ze-xian+liu#" class="logo mr-auto scrollto"><img src="assets/img/pubmed.svg" alt="" class="img-fluid" style="width:100px; height:auto;"></a>
+          <br>
+
           <a href="https://scholar.google.com/citations?user=9M3oBP0AAAAJ&hl" class="logo mr-auto scrollto"><img src="assets/img/google.png" alt="" class="img-fluid" style="width:90px; height:auto;"></a>
+          <br>
+
           <a href="https://github.com/lzxlab" class="logo mr-auto scrollto"><img src="assets/img/github.png" alt="" class="img-fluid" style="width:90px; height:auto;"></a>
           </ul>
         </div>

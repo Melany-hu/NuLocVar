@@ -10,23 +10,34 @@
 --------------------------------------------------------------*/
 body {
   font-family: Calibri;
-  color: #444444;
+  color: #000; /* 你喜欢的主色，比如深灰 */
+  background: #fff;
+  font-size: 18px; /* 统一基础字号，推荐16-18px */
 }
 
 a {
-  color: #5a5ff5;
-  font-size: 20px;
+  color: #4263eb;
+  font-size: inherit; /* 继承body字号 */
 }
 
 a:hover {
-  color: #7579ee;
+  color: #364fc7;
   text-decoration: none;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Calibri;
+  color: #233047;
+  font-weight: bold;
+  /* 统一字号或分级设置 */
 }
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.2em; }
+h5, h6 { font-size: 1em; }
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -76,8 +87,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #829af8;
-  border-top-color: #acbcfb;
+  border: 6px solid #3e4463;
+  border-top-color: #fff;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -503,7 +514,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: #000;
+  color: #233047; /* 修改所有字体颜色 */
 }
 
 
@@ -541,11 +552,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 200px 0;
+  padding: 150px 0;
   /*overflow: hidden;*/
 }
 
@@ -555,7 +567,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .section-title h2 {
@@ -716,26 +728,26 @@ section {
 
 /*------------my style----------------*/
 .table tr th {
-  font-size: 15px !important;
+  font-size: 16px !important;
 }
 
 
 .ri-question-line{
-  color: #4caf50
+  color: #4263eb
 }
 .arrow{
-  color:#7579ee;
+  color:#4263eb;
 }
 .download-div{
   text-align: right;
   font-size: 18px;
 }
 .download-div .ri-download-2-line{
-  color: #5a5ff5;
+  color: #4263eb;
   cursor: pointer;
 }
 .download-div .ri-download-2-line:hover{
-  color: #7579ee
+  color: #364fc7
 }
 
 #simple_search_form {
@@ -748,7 +760,6 @@ section {
 .btn-mine{
   background-color: #c3bef0;
   color:#000000;
-  font-weight: bolder;
   border: 1px solid #ccc;
 }
 
@@ -764,7 +775,9 @@ section {
   text-align: center;
 }
 
-
+.page-info-container {
+  font-size: 16px;
+}
 
 /*选择框*/
 .my-select-tag{
@@ -871,16 +884,10 @@ section {
   vertical-align: middle;
   font-size: 16px;
 }
-#searchResShow th{
-  cursor: pointer;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
+#searchResShow th {
+  background: #dbe4ff;
 }
-#choosePro{
-  color:red;
-}
+
 #predResShow tr td{
   vertical-align: middle;
 }
@@ -984,5 +991,154 @@ sib-swissbiopics-sl {
   margin-left: 0 !important;
   z-index: 10;   /* 保证在上层 */
   background: transparent; 
+}
+
+.animated-container {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeInUp 1.3s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (min-width: 1200px) {
+  .custom-container {
+    max-width: 1300px;
+  }
+}
+@media (max-width: 1199px) {
+  .custom-container {
+    max-width: 92vw;
+  }
+}
+.custom-container {
+  width: 92vw;
+  margin: 0 auto;
+}
+
+.footer-logo {
+  opacity: 0;
+  transform: translateY(40px);
+  animation: footerLogoFadeInUp 1.5s ease-out 0.3s forwards;
+}
+
+@keyframes footerLogoFadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#search-message-group {
+  margin-bottom: 0;
+}
+
+#table-show {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#search-alert.alert-primary {
+  background: #fff;
+  color: #1a2330;
+  border: none;
+  border-left: 5px solid #5c7cfa;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px #ced4da;
+}
+
+#search-alert.alert-danger {
+  background: linear-gradient(90deg, #ffeaea 0%, #fff 100%);
+  color: #b71c1c;
+  border-left: 5px solid #e74c3c;
+  box-shadow: 0 2px 8px rgba(231,76,60,0.08);
+}
+
+#search-alert{
+  display: flex;
+  align-items: center;
+  min-height: 22px;
+  padding: 8px 10px;
+}
+
+
+
+
+#result-show {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#pro-message-group {
+  margin-bottom: 0;
+}
+
+#pro-alert.alert-success {
+  background: #fff;
+  color: #1a2330;
+  border: none;
+  border-left: 5px solid #5c7cfa;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px #ced4da;
+}
+
+#pro-alert.alert-danger {
+  background: linear-gradient(90deg, #ffeaea 0%, #fff 100%);
+  border: none;
+  color: #b71c1c;
+  border-left: 5px solid #e74c3c;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(231,76,60,0.08);
+}
+
+#pro-alert.alert-warning {
+  background: linear-gradient(90deg, #ffeaea 0%, #fff 100%);
+  border: none;
+  color: #b71c1c;
+  border-left: 5px solid #e74c3c;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(231,76,60,0.08);
+}
+
+#pro-alert{
+  display: flex;
+  align-items: center;
+  min-height: 22px;
+  padding: 8px 10px;
+}
+
+.card-header {
+  background: linear-gradient(90deg, #dbe4ff 0%, #ffffff 100%);
+  color: #233047;
+  border: none;
+  border-left: 5px solid #5c7cfa;
+  box-shadow: 0 2px 8px #ced4da;
+  border-radius: 2px;
+  padding: 20px 24px;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+}
+.card-header h3, .card-header h5, .card-header h4 {
+  margin: 0;
+}
+
+#searchResShow.table-bordered th,
+#searchResShow.table-bordered td {
+  border-left: none !important;
+  border-right: none !important;
+}
+#searchResShow.table-bordered tr {
+  border-left: none !important;
+  border-right: none !important;
+}
+#searchResShow.table-bordered {
+  border-left: none !important;
+  border-right: none !important;
 }
 
